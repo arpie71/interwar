@@ -1,0 +1,4596 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+135,2,1900,297437,,,Peru,United States
+135,2,1901,446618,,,Peru,United States
+135,2,1902,591564,,,Peru,United States
+135,2,1903,576902,,,Peru,United States
+135,2,1904,759149,,,Peru,United States
+135,2,1905,725413,,,Peru,United States
+135,2,1906,1025976,,,Peru,United States
+135,2,1907,1184668,,,Peru,United States
+135,2,1908,1413195.963,,,Peru,United States
+135,2,1909,846127.733,,,Peru,United States
+135,2,1910,922677.7,,,Peru,United States
+135,2,1911,1248942.925,,,Peru,United States
+135,2,1912,1194889.46,,,Peru,United States
+135,2,1913,1755251.703,,,Peru,United States
+135,2,1914,1570723.506,,,Peru,United States
+135,2,1915,1488264.015,,,Peru,United States
+135,2,1916,5116582.645,,,Peru,United States
+135,2,1917,8792710.329,,,Peru,United States
+135,2,1918,5268668,,,Peru,United States
+135,2,1919,7549655.38,1,,Peru,United States
+135,2,1920,10168937.512,1,Valor Lp.,Peru,United States
+135,2,1921,8246514,1,Valor Lp.,Peru,United States
+135,2,1922,4212971,1,Valor Lp.,Peru,United States
+135,2,1923,5726988,1,Valor Lp.,Peru,United States
+135,2,1924,7047041,1,Valor Lp.,Peru,United States
+135,2,1925,7063248,1,Valor Lp.,Peru,United States
+135,2,1926,8807113,1,Valor Lp.,Peru,United States
+135,2,1927,7901399,1,Valor Lp.,Peru,United States
+135,2,1928,7055598,1,Valor Lp.,Peru,United States
+135,2,1929,7941554,1,Valor Lp.,Peru,United States
+135,2,1930,52236198,1,S/O,Peru,United States
+135,2,1931,41486431,1,S/O,Peru,United States
+135,2,1932,21917557,1,S/O,Peru,United States
+135,2,1933,29079757,1,S/O,Peru,United States
+135,2,1934,46060625,1,S/O,Peru,United States
+135,2,1935,59582470,1,S/O,Peru,United States
+135,2,1936,63901121,1,S/O,Peru,United States
+135,2,1937,83397470,1,S/O,Peru,United States
+135,2,1938,89227426,1,S/O,Peru,United States
+135,2,1939,105067360,1,S/O,Peru,United States
+135,2,1940,169312114,1,S/O,Peru,United States
+135,2,1941,223748471,1,S/O,Peru,United States
+135,2,1942,189263355,1,S/O,Peru,United States
+135,2,1943,253558456,1,S/O,Peru,United States
+135,2,1944,277226243,1,S/O,Peru,United States
+135,2,1945,310055954,1,S/O,Peru,United States
+135,2,1946,450513037,1,S/O,Peru,United States
+135,2,1947,636449660,1,S/O,Peru,United States
+135,2,1948,590655957,1,S/O,Peru,United States
+135,2,1949,1697247680,1,S/O,Peru,United States
+135,3,1919,0,1,,Peru,Alaska
+135,3,1920,0,1,Valor Lp.,Peru,Alaska
+135,3,1921,0,1,Valor Lp.,Peru,Alaska
+135,3,1922,0,1,Valor Lp.,Peru,Alaska
+135,3,1923,0,1,Valor Lp.,Peru,Alaska
+135,3,1924,0,1,Valor Lp.,Peru,Alaska
+135,3,1925,0,1,Valor Lp.,Peru,Alaska
+135,3,1926,0,1,Valor Lp.,Peru,Alaska
+135,3,1927,0,1,Valor Lp.,Peru,Alaska
+135,3,1928,0,1,Valor Lp.,Peru,Alaska
+135,3,1929,0,1,Valor Lp.,Peru,Alaska
+135,3,1930,0,1,S/O,Peru,Alaska
+135,3,1931,1879,1,S/O,Peru,Alaska
+135,3,1932,0,1,S/O,Peru,Alaska
+135,3,1933,0,1,S/O,Peru,Alaska
+135,3,1934,0,1,S/O,Peru,Alaska
+135,3,1935,0,1,S/O,Peru,Alaska
+135,3,1936,0,1,S/O,Peru,Alaska
+135,3,1937,0,1,S/O,Peru,Alaska
+135,3,1938,0,1,S/O,Peru,Alaska
+135,3,1939,0,1,S/O,Peru,Alaska
+135,3,1940,0,1,S/O,Peru,Alaska
+135,3,1941,0,1,S/O,Peru,Alaska
+135,3,1942,0,1,S/O,Peru,Alaska
+135,3,1943,0,1,S/O,Peru,Alaska
+135,3,1944,0,1,S/O,Peru,Alaska
+135,3,1945,0,1,S/O,Peru,Alaska
+135,3,1946,0,1,S/O,Peru,Alaska
+135,3,1947,0,1,S/O,Peru,Alaska
+135,3,1948,0,1,S/O,Peru,Alaska
+135,3,1949,0,1,S/O,Peru,Alaska
+135,4,1904,92,,,Peru,Hawaii
+135,4,1917,340,,,Peru,Hawaii
+135,4,1919,0,1,,Peru,Hawaii
+135,4,1920,0,1,Valor Lp.,Peru,Hawaii
+135,4,1921,0,1,Valor Lp.,Peru,Hawaii
+135,4,1922,0,1,Valor Lp.,Peru,Hawaii
+135,4,1923,0,1,Valor Lp.,Peru,Hawaii
+135,4,1924,0,1,Valor Lp.,Peru,Hawaii
+135,4,1925,0,1,Valor Lp.,Peru,Hawaii
+135,4,1926,0,1,Valor Lp.,Peru,Hawaii
+135,4,1927,0,1,Valor Lp.,Peru,Hawaii
+135,4,1928,0,1,Valor Lp.,Peru,Hawaii
+135,4,1929,0,1,Valor Lp.,Peru,Hawaii
+135,4,1930,0,1,S/O,Peru,Hawaii
+135,4,1931,0,1,S/O,Peru,Hawaii
+135,4,1932,348,1,S/O,Peru,Hawaii
+135,4,1933,0,1,S/O,Peru,Hawaii
+135,4,1934,4316,1,S/O,Peru,Hawaii
+135,4,1935,0,1,S/O,Peru,Hawaii
+135,4,1936,0,1,S/O,Peru,Hawaii
+135,4,1937,4787,1,S/O,Peru,Hawaii
+135,4,1938,60,1,S/O,Peru,Hawaii
+135,4,1939,0,1,S/O,Peru,Hawaii
+135,4,1940,0,1,S/O,Peru,Hawaii
+135,4,1941,0,1,S/O,Peru,Hawaii
+135,4,1942,55,1,S/O,Peru,Hawaii
+135,4,1943,0,1,S/O,Peru,Hawaii
+135,4,1944,0,1,S/O,Peru,Hawaii
+135,4,1945,0,1,S/O,Peru,Hawaii
+135,4,1946,0,1,S/O,Peru,Hawaii
+135,4,1947,0,1,S/O,Peru,Hawaii
+135,4,1948,72,1,S/O,Peru,Hawaii
+135,4,1949,0,1,S/O,Peru,Hawaii
+135,6,1916,35.22,,,Peru,Puerto Rico
+135,6,1919,0,1,,Peru,Puerto Rico
+135,6,1920,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1921,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1922,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1923,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1924,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1925,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1926,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1927,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1928,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1929,0,1,Valor Lp.,Peru,Puerto Rico
+135,6,1930,43,1,S/O,Peru,Puerto Rico
+135,6,1931,188,1,S/O,Peru,Puerto Rico
+135,6,1932,6390,1,S/O,Peru,Puerto Rico
+135,6,1933,281,1,S/O,Peru,Puerto Rico
+135,6,1934,11,1,S/O,Peru,Puerto Rico
+135,6,1935,296,1,S/O,Peru,Puerto Rico
+135,6,1936,0,1,S/O,Peru,Puerto Rico
+135,6,1937,0,1,S/O,Peru,Puerto Rico
+135,6,1938,15,1,S/O,Peru,Puerto Rico
+135,6,1939,41,1,S/O,Peru,Puerto Rico
+135,6,1940,12,1,S/O,Peru,Puerto Rico
+135,6,1941,185,1,S/O,Peru,Puerto Rico
+135,6,1942,1518,1,S/O,Peru,Puerto Rico
+135,6,1943,12,1,S/O,Peru,Puerto Rico
+135,6,1944,14,1,S/O,Peru,Puerto Rico
+135,6,1945,378,1,S/O,Peru,Puerto Rico
+135,6,1946,2054,1,S/O,Peru,Puerto Rico
+135,6,1947,21270,1,S/O,Peru,Puerto Rico
+135,6,1948,1163,1,S/O,Peru,Puerto Rico
+135,6,1949,535,1,S/O,Peru,Puerto Rico
+135,10,1919,0,1,,Peru,Greenland
+135,10,1920,0,1,Valor Lp.,Peru,Greenland
+135,10,1921,0,1,Valor Lp.,Peru,Greenland
+135,10,1922,0,1,Valor Lp.,Peru,Greenland
+135,10,1923,0,1,Valor Lp.,Peru,Greenland
+135,10,1924,0,1,Valor Lp.,Peru,Greenland
+135,10,1925,0,1,Valor Lp.,Peru,Greenland
+135,10,1926,0,1,Valor Lp.,Peru,Greenland
+135,10,1927,0,1,Valor Lp.,Peru,Greenland
+135,10,1928,0,1,Valor Lp.,Peru,Greenland
+135,10,1929,0,1,Valor Lp.,Peru,Greenland
+135,10,1930,0,1,S/O,Peru,Greenland
+135,10,1931,0,1,S/O,Peru,Greenland
+135,10,1932,43,1,S/O,Peru,Greenland
+135,10,1933,15,1,S/O,Peru,Greenland
+135,10,1934,0,1,S/O,Peru,Greenland
+135,10,1935,554,1,S/O,Peru,Greenland
+135,10,1936,0,1,S/O,Peru,Greenland
+135,10,1937,0,1,S/O,Peru,Greenland
+135,10,1938,0,1,S/O,Peru,Greenland
+135,10,1939,0,1,S/O,Peru,Greenland
+135,10,1940,0,1,S/O,Peru,Greenland
+135,10,1941,6444,1,S/O,Peru,Greenland
+135,10,1942,0,1,S/O,Peru,Greenland
+135,10,1943,0,1,S/O,Peru,Greenland
+135,10,1944,5538,1,S/O,Peru,Greenland
+135,10,1945,0,1,S/O,Peru,Greenland
+135,10,1946,0,1,S/O,Peru,Greenland
+135,10,1947,0,1,S/O,Peru,Greenland
+135,10,1948,0,1,S/O,Peru,Greenland
+135,10,1949,0,1,S/O,Peru,Greenland
+135,20,1903,5505,,,Peru,Canada
+135,20,1904,12393,,,Peru,Canada
+135,20,1905,13669,,,Peru,Canada
+135,20,1906,8549,,,Peru,Canada
+135,20,1907,8769,,,Peru,Canada
+135,20,1908,5769,,,Peru,Canada
+135,20,1909,800,,,Peru,Canada
+135,20,1910,3400,,,Peru,Canada
+135,20,1915,108.588,,,Peru,Canada
+135,20,1916,1734.52,,,Peru,Canada
+135,20,1917,1633.96,,,Peru,Canada
+135,20,1918,64790,,,Peru,Canada
+135,20,1919,0,1,,Peru,Canada
+135,20,1920,35849.24,1,Valor Lp.,Peru,Canada
+135,20,1921,2321,1,Valor Lp.,Peru,Canada
+135,20,1922,474,1,Valor Lp.,Peru,Canada
+135,20,1923,116026,1,Valor Lp.,Peru,Canada
+135,20,1924,130480,1,Valor Lp.,Peru,Canada
+135,20,1925,84370,1,Valor Lp.,Peru,Canada
+135,20,1926,210262,1,Valor Lp.,Peru,Canada
+135,20,1927,147953,1,Valor Lp.,Peru,Canada
+135,20,1928,80027,1,Valor Lp.,Peru,Canada
+135,20,1929,102564,1,Valor Lp.,Peru,Canada
+135,20,1930,3057208,1,S/O,Peru,Canada
+135,20,1931,2899098,1,S/O,Peru,Canada
+135,20,1932,3014196,1,S/O,Peru,Canada
+135,20,1933,3549851,1,S/O,Peru,Canada
+135,20,1934,4766449,1,S/O,Peru,Canada
+135,20,1935,3704995,1,S/O,Peru,Canada
+135,20,1936,4768151,1,S/O,Peru,Canada
+135,20,1937,5318995,1,S/O,Peru,Canada
+135,20,1938,4914590,1,S/O,Peru,Canada
+135,20,1939,6847415,1,S/O,Peru,Canada
+135,20,1940,10512871,1,S/O,Peru,Canada
+135,20,1941,14568732,1,S/O,Peru,Canada
+135,20,1942,9032654,1,S/O,Peru,Canada
+135,20,1943,6300123,1,S/O,Peru,Canada
+135,20,1944,8907452,1,S/O,Peru,Canada
+135,20,1945,26318096,1,S/O,Peru,Canada
+135,20,1946,18882701,1,S/O,Peru,Canada
+135,20,1947,25462114,1,S/O,Peru,Canada
+135,20,1948,20725574,1,S/O,Peru,Canada
+135,20,1949,105913836,1,S/O,Peru,Canada
+135,21,1919,0,1,,Peru,Newfoundland
+135,21,1920,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1921,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1922,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1923,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1924,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1925,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1926,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1927,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1928,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1929,0,1,Valor Lp.,Peru,Newfoundland
+135,21,1930,0,1,S/O,Peru,Newfoundland
+135,21,1931,0,1,S/O,Peru,Newfoundland
+135,21,1932,0,1,S/O,Peru,Newfoundland
+135,21,1933,0,1,S/O,Peru,Newfoundland
+135,21,1934,9,1,S/O,Peru,Newfoundland
+135,21,1935,237,1,S/O,Peru,Newfoundland
+135,21,1936,422,1,S/O,Peru,Newfoundland
+135,21,1937,0,1,S/O,Peru,Newfoundland
+135,21,1938,0,1,S/O,Peru,Newfoundland
+135,21,1939,0,1,S/O,Peru,Newfoundland
+135,21,1940,0,1,S/O,Peru,Newfoundland
+135,21,1941,42836,1,S/O,Peru,Newfoundland
+135,21,1942,6859,1,S/O,Peru,Newfoundland
+135,21,1943,37466,1,S/O,Peru,Newfoundland
+135,21,1944,0,1,S/O,Peru,Newfoundland
+135,21,1945,0,1,S/O,Peru,Newfoundland
+135,21,1946,0,1,S/O,Peru,Newfoundland
+135,21,1947,0,1,S/O,Peru,Newfoundland
+135,21,1948,0,1,S/O,Peru,Newfoundland
+135,21,1949,0,1,S/O,Peru,Newfoundland
+135,30,1919,0,1,,Peru,Bermuda
+135,30,1920,0,1,Valor Lp.,Peru,Bermuda
+135,30,1921,0,1,Valor Lp.,Peru,Bermuda
+135,30,1922,0,1,Valor Lp.,Peru,Bermuda
+135,30,1923,0,1,Valor Lp.,Peru,Bermuda
+135,30,1924,0,1,Valor Lp.,Peru,Bermuda
+135,30,1925,0,1,Valor Lp.,Peru,Bermuda
+135,30,1926,0,1,Valor Lp.,Peru,Bermuda
+135,30,1927,0,1,Valor Lp.,Peru,Bermuda
+135,30,1928,0,1,Valor Lp.,Peru,Bermuda
+135,30,1929,0,1,Valor Lp.,Peru,Bermuda
+135,30,1930,0,1,S/O,Peru,Bermuda
+135,30,1931,0,1,S/O,Peru,Bermuda
+135,30,1932,0,1,S/O,Peru,Bermuda
+135,30,1933,0,1,S/O,Peru,Bermuda
+135,30,1934,49,1,S/O,Peru,Bermuda
+135,30,1935,20,1,S/O,Peru,Bermuda
+135,30,1936,49,1,S/O,Peru,Bermuda
+135,30,1937,174,1,S/O,Peru,Bermuda
+135,30,1938,1221,1,S/O,Peru,Bermuda
+135,30,1939,44,1,S/O,Peru,Bermuda
+135,30,1940,0,1,S/O,Peru,Bermuda
+135,30,1941,144,1,S/O,Peru,Bermuda
+135,30,1942,0,1,S/O,Peru,Bermuda
+135,30,1943,48,1,S/O,Peru,Bermuda
+135,30,1944,795,1,S/O,Peru,Bermuda
+135,30,1945,0,1,S/O,Peru,Bermuda
+135,30,1946,12,1,S/O,Peru,Bermuda
+135,30,1947,295,1,S/O,Peru,Bermuda
+135,30,1948,60,1,S/O,Peru,Bermuda
+135,30,1949,0,1,S/O,Peru,Bermuda
+135,31,1919,0,1,,Peru,Bahamas
+135,31,1920,0,1,Valor Lp.,Peru,Bahamas
+135,31,1921,0,1,Valor Lp.,Peru,Bahamas
+135,31,1922,0,1,Valor Lp.,Peru,Bahamas
+135,31,1923,0,1,Valor Lp.,Peru,Bahamas
+135,31,1924,0,1,Valor Lp.,Peru,Bahamas
+135,31,1925,0,1,Valor Lp.,Peru,Bahamas
+135,31,1926,0,1,Valor Lp.,Peru,Bahamas
+135,31,1927,0,1,Valor Lp.,Peru,Bahamas
+135,31,1928,0,1,Valor Lp.,Peru,Bahamas
+135,31,1929,0,1,Valor Lp.,Peru,Bahamas
+135,31,1930,0,1,S/O,Peru,Bahamas
+135,31,1931,0,1,S/O,Peru,Bahamas
+135,31,1932,0,1,S/O,Peru,Bahamas
+135,31,1933,0,1,S/O,Peru,Bahamas
+135,31,1934,0,1,S/O,Peru,Bahamas
+135,31,1935,0,1,S/O,Peru,Bahamas
+135,31,1936,0,1,S/O,Peru,Bahamas
+135,31,1937,0,1,S/O,Peru,Bahamas
+135,31,1938,0,1,S/O,Peru,Bahamas
+135,31,1939,0,1,S/O,Peru,Bahamas
+135,31,1940,0,1,S/O,Peru,Bahamas
+135,31,1941,0,1,S/O,Peru,Bahamas
+135,31,1942,0,1,S/O,Peru,Bahamas
+135,31,1943,8,1,S/O,Peru,Bahamas
+135,31,1944,0,1,S/O,Peru,Bahamas
+135,31,1945,3173,1,S/O,Peru,Bahamas
+135,31,1946,309,1,S/O,Peru,Bahamas
+135,31,1947,30,1,S/O,Peru,Bahamas
+135,31,1948,0,1,S/O,Peru,Bahamas
+135,31,1949,0,1,S/O,Peru,Bahamas
+135,40,1901,192,,,Peru,Cuba
+135,40,1903,6290,,,Peru,Cuba
+135,40,1904,5077,,,Peru,Cuba
+135,40,1905,5996,,,Peru,Cuba
+135,40,1906,7622,,,Peru,Cuba
+135,40,1907,5233,,,Peru,Cuba
+135,40,1908,6468.752,,,Peru,Cuba
+135,40,1909,2740.117,,,Peru,Cuba
+135,40,1910,7416.943,,,Peru,Cuba
+135,40,1911,16038.911,,,Peru,Cuba
+135,40,1912,23248,,,Peru,Cuba
+135,40,1913,32713.799,,,Peru,Cuba
+135,40,1914,36154.878,,,Peru,Cuba
+135,40,1915,15103.446,,,Peru,Cuba
+135,40,1916,19846.16,,,Peru,Cuba
+135,40,1917,44832.6,,,Peru,Cuba
+135,40,1918,29923,,,Peru,Cuba
+135,40,1919,26840.05,1,,Peru,Cuba
+135,40,1920,59170.422,1,Valor Lp.,Peru,Cuba
+135,40,1921,37027,1,Valor Lp.,Peru,Cuba
+135,40,1922,2393,1,Valor Lp.,Peru,Cuba
+135,40,1923,8257,1,Valor Lp.,Peru,Cuba
+135,40,1924,24209,1,Valor Lp.,Peru,Cuba
+135,40,1925,5824,1,Valor Lp.,Peru,Cuba
+135,40,1926,29856,1,Valor Lp.,Peru,Cuba
+135,40,1927,8534,1,Valor Lp.,Peru,Cuba
+135,40,1928,39772,1,Valor Lp.,Peru,Cuba
+135,40,1929,21974,1,Valor Lp.,Peru,Cuba
+135,40,1930,72107,1,S/O,Peru,Cuba
+135,40,1931,137767,1,S/O,Peru,Cuba
+135,40,1932,156175,1,S/O,Peru,Cuba
+135,40,1933,230814,1,S/O,Peru,Cuba
+135,40,1934,209825,1,S/O,Peru,Cuba
+135,40,1935,185432,1,S/O,Peru,Cuba
+135,40,1936,205483,1,S/O,Peru,Cuba
+135,40,1937,298191,1,S/O,Peru,Cuba
+135,40,1938,421704,1,S/O,Peru,Cuba
+135,40,1939,680661,1,S/O,Peru,Cuba
+135,40,1940,724095,1,S/O,Peru,Cuba
+135,40,1941,613991,1,S/O,Peru,Cuba
+135,40,1942,917044,1,S/O,Peru,Cuba
+135,40,1943,774820,1,S/O,Peru,Cuba
+135,40,1944,1933877,1,S/O,Peru,Cuba
+135,40,1945,2248400,1,S/O,Peru,Cuba
+135,40,1946,3472733,1,S/O,Peru,Cuba
+135,40,1947,2142671,1,S/O,Peru,Cuba
+135,40,1948,1674916,1,S/O,Peru,Cuba
+135,40,1949,2130222,1,S/O,Peru,Cuba
+135,41,1919,0,1,,Peru,Haiti
+135,41,1920,0,1,Valor Lp.,Peru,Haiti
+135,41,1921,0,1,Valor Lp.,Peru,Haiti
+135,41,1922,0,1,Valor Lp.,Peru,Haiti
+135,41,1923,0,1,Valor Lp.,Peru,Haiti
+135,41,1924,0,1,Valor Lp.,Peru,Haiti
+135,41,1925,0,1,Valor Lp.,Peru,Haiti
+135,41,1926,0,1,Valor Lp.,Peru,Haiti
+135,41,1927,0,1,Valor Lp.,Peru,Haiti
+135,41,1928,0,1,Valor Lp.,Peru,Haiti
+135,41,1929,0,1,Valor Lp.,Peru,Haiti
+135,41,1930,0,1,S/O,Peru,Haiti
+135,41,1931,349,1,S/O,Peru,Haiti
+135,41,1932,0,1,S/O,Peru,Haiti
+135,41,1933,3,1,S/O,Peru,Haiti
+135,41,1934,1390,1,S/O,Peru,Haiti
+135,41,1935,0,1,S/O,Peru,Haiti
+135,41,1936,0,1,S/O,Peru,Haiti
+135,41,1937,8,1,S/O,Peru,Haiti
+135,41,1938,2474,1,S/O,Peru,Haiti
+135,41,1939,14,1,S/O,Peru,Haiti
+135,41,1940,1014,1,S/O,Peru,Haiti
+135,41,1941,0,1,S/O,Peru,Haiti
+135,41,1942,0,1,S/O,Peru,Haiti
+135,41,1943,12,1,S/O,Peru,Haiti
+135,41,1944,48,1,S/O,Peru,Haiti
+135,41,1945,1192,1,S/O,Peru,Haiti
+135,41,1946,112556,1,S/O,Peru,Haiti
+135,41,1947,7864,1,S/O,Peru,Haiti
+135,41,1948,251,1,S/O,Peru,Haiti
+135,41,1949,963,1,S/O,Peru,Haiti
+135,42,1919,0,1,,Peru,Dominican Republic
+135,42,1920,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1921,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1922,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1923,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1924,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1925,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1926,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1927,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1928,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1929,0,1,Valor Lp.,Peru,Dominican Republic
+135,42,1930,0,1,S/O,Peru,Dominican Republic
+135,42,1931,0,1,S/O,Peru,Dominican Republic
+135,42,1932,0,1,S/O,Peru,Dominican Republic
+135,42,1933,0,1,S/O,Peru,Dominican Republic
+135,42,1934,9580,1,S/O,Peru,Dominican Republic
+135,42,1935,0,1,S/O,Peru,Dominican Republic
+135,42,1936,12,1,S/O,Peru,Dominican Republic
+135,42,1937,29,1,S/O,Peru,Dominican Republic
+135,42,1938,0,1,S/O,Peru,Dominican Republic
+135,42,1939,12,1,S/O,Peru,Dominican Republic
+135,42,1940,1,1,S/O,Peru,Dominican Republic
+135,42,1941,0,1,S/O,Peru,Dominican Republic
+135,42,1942,0,1,S/O,Peru,Dominican Republic
+135,42,1943,840,1,S/O,Peru,Dominican Republic
+135,42,1944,590,1,S/O,Peru,Dominican Republic
+135,42,1945,1218,1,S/O,Peru,Dominican Republic
+135,42,1946,125282,1,S/O,Peru,Dominican Republic
+135,42,1947,3146,1,S/O,Peru,Dominican Republic
+135,42,1948,104,1,S/O,Peru,Dominican Republic
+135,42,1949,436,1,S/O,Peru,Dominican Republic
+135,51,1910,174.65,,,Peru,Jamaica
+135,51,1911,228.9,,,Peru,Jamaica
+135,51,1912,234.5,,,Peru,Jamaica
+135,51,1914,272.65,,,Peru,Jamaica
+135,51,1915,953.789,,,Peru,Jamaica
+135,51,1916,607.725,,,Peru,Jamaica
+135,51,1918,203,,,Peru,Jamaica
+135,51,1919,0,1,,Peru,Jamaica
+135,51,1920,0,1,Valor Lp.,Peru,Jamaica
+135,51,1921,0,1,Valor Lp.,Peru,Jamaica
+135,51,1922,0,1,Valor Lp.,Peru,Jamaica
+135,51,1923,0,1,Valor Lp.,Peru,Jamaica
+135,51,1924,60,1,Valor Lp.,Peru,Jamaica
+135,51,1925,381,1,Valor Lp.,Peru,Jamaica
+135,51,1926,154,1,Valor Lp.,Peru,Jamaica
+135,51,1927,160,1,Valor Lp.,Peru,Jamaica
+135,51,1928,489,1,Valor Lp.,Peru,Jamaica
+135,51,1929,379,1,Valor Lp.,Peru,Jamaica
+135,51,1930,1349,1,S/O,Peru,Jamaica
+135,51,1931,5204,1,S/O,Peru,Jamaica
+135,51,1932,3548,1,S/O,Peru,Jamaica
+135,51,1933,3017,1,S/O,Peru,Jamaica
+135,51,1934,9037,1,S/O,Peru,Jamaica
+135,51,1935,4682,1,S/O,Peru,Jamaica
+135,51,1936,6219,1,S/O,Peru,Jamaica
+135,51,1937,30301,1,S/O,Peru,Jamaica
+135,51,1938,20083,1,S/O,Peru,Jamaica
+135,51,1939,5063,1,S/O,Peru,Jamaica
+135,51,1940,22973,1,S/O,Peru,Jamaica
+135,51,1941,24585,1,S/O,Peru,Jamaica
+135,51,1942,11254,1,S/O,Peru,Jamaica
+135,51,1943,20258,1,S/O,Peru,Jamaica
+135,51,1944,7446,1,S/O,Peru,Jamaica
+135,51,1945,29272,1,S/O,Peru,Jamaica
+135,51,1946,45821,1,S/O,Peru,Jamaica
+135,51,1947,20915,1,S/O,Peru,Jamaica
+135,51,1948,23001,1,S/O,Peru,Jamaica
+135,51,1949,64314,1,S/O,Peru,Jamaica
+135,52,1904,20,,,Peru,Trinidad And Tobago
+135,52,1905,118,,,Peru,Trinidad And Tobago
+135,52,1906,38,,,Peru,Trinidad And Tobago
+135,52,1907,45,,,Peru,Trinidad And Tobago
+135,52,1908,369.51,,,Peru,Trinidad And Tobago
+135,52,1910,42.64,,,Peru,Trinidad And Tobago
+135,52,1912,173.16,,,Peru,Trinidad And Tobago
+135,52,1913,463.536,,,Peru,Trinidad And Tobago
+135,52,1914,151.848,,,Peru,Trinidad And Tobago
+135,52,1915,141.319,,,Peru,Trinidad And Tobago
+135,52,1916,967.6,,,Peru,Trinidad And Tobago
+135,52,1917,1303.002,,,Peru,Trinidad And Tobago
+135,52,1918,225,,,Peru,Trinidad And Tobago
+135,52,1919,565.064,1,,Peru,Trinidad And Tobago
+135,52,1920,627.76,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1921,1464,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1922,316,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1923,1230,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1924,471,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1925,613,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1926,411,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1927,767,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1928,472,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1929,603,1,Valor Lp.,Peru,Trinidad And Tobago
+135,52,1930,2865,1,S/O,Peru,Trinidad And Tobago
+135,52,1931,8246,1,S/O,Peru,Trinidad And Tobago
+135,52,1932,7187,1,S/O,Peru,Trinidad And Tobago
+135,52,1933,5563,1,S/O,Peru,Trinidad And Tobago
+135,52,1934,8110,1,S/O,Peru,Trinidad And Tobago
+135,52,1935,10930,1,S/O,Peru,Trinidad And Tobago
+135,52,1936,7036,1,S/O,Peru,Trinidad And Tobago
+135,52,1937,7857,1,S/O,Peru,Trinidad And Tobago
+135,52,1938,9997,1,S/O,Peru,Trinidad And Tobago
+135,52,1939,10319,1,S/O,Peru,Trinidad And Tobago
+135,52,1940,12313,1,S/O,Peru,Trinidad And Tobago
+135,52,1941,20571,1,S/O,Peru,Trinidad And Tobago
+135,52,1942,816,1,S/O,Peru,Trinidad And Tobago
+135,52,1943,4193,1,S/O,Peru,Trinidad And Tobago
+135,52,1944,44759,1,S/O,Peru,Trinidad And Tobago
+135,52,1945,9370,1,S/O,Peru,Trinidad And Tobago
+135,52,1946,24486,1,S/O,Peru,Trinidad And Tobago
+135,52,1947,46880,1,S/O,Peru,Trinidad And Tobago
+135,52,1948,436645,1,S/O,Peru,Trinidad And Tobago
+135,52,1949,17937,1,S/O,Peru,Trinidad And Tobago
+135,53,1903,5,,,Peru,Barbados
+135,53,1911,428.752,,,Peru,Barbados
+135,53,1912,26.64,,,Peru,Barbados
+135,53,1919,0,1,,Peru,Barbados
+135,53,1920,0,1,Valor Lp.,Peru,Barbados
+135,53,1921,0,1,Valor Lp.,Peru,Barbados
+135,53,1922,0,1,Valor Lp.,Peru,Barbados
+135,53,1923,0,1,Valor Lp.,Peru,Barbados
+135,53,1924,0,1,Valor Lp.,Peru,Barbados
+135,53,1925,0,1,Valor Lp.,Peru,Barbados
+135,53,1926,0,1,Valor Lp.,Peru,Barbados
+135,53,1927,0,1,Valor Lp.,Peru,Barbados
+135,53,1928,0,1,Valor Lp.,Peru,Barbados
+135,53,1929,0,1,Valor Lp.,Peru,Barbados
+135,53,1930,0,1,S/O,Peru,Barbados
+135,53,1931,0,1,S/O,Peru,Barbados
+135,53,1932,0,1,S/O,Peru,Barbados
+135,53,1933,0,1,S/O,Peru,Barbados
+135,53,1934,0,1,S/O,Peru,Barbados
+135,53,1935,0,1,S/O,Peru,Barbados
+135,53,1936,0,1,S/O,Peru,Barbados
+135,53,1937,1,1,S/O,Peru,Barbados
+135,53,1938,0,1,S/O,Peru,Barbados
+135,53,1939,0,1,S/O,Peru,Barbados
+135,53,1940,0,1,S/O,Peru,Barbados
+135,53,1941,0,1,S/O,Peru,Barbados
+135,53,1942,0,1,S/O,Peru,Barbados
+135,53,1943,0,1,S/O,Peru,Barbados
+135,53,1944,0,1,S/O,Peru,Barbados
+135,53,1945,0,1,S/O,Peru,Barbados
+135,53,1946,0,1,S/O,Peru,Barbados
+135,53,1947,0,1,S/O,Peru,Barbados
+135,53,1948,0,1,S/O,Peru,Barbados
+135,53,1949,0,1,S/O,Peru,Barbados
+135,55,1919,0,1,,Peru,Grenada
+135,55,1920,0,1,Valor Lp.,Peru,Grenada
+135,55,1921,0,1,Valor Lp.,Peru,Grenada
+135,55,1922,0,1,Valor Lp.,Peru,Grenada
+135,55,1923,0,1,Valor Lp.,Peru,Grenada
+135,55,1924,0,1,Valor Lp.,Peru,Grenada
+135,55,1925,0,1,Valor Lp.,Peru,Grenada
+135,55,1926,0,1,Valor Lp.,Peru,Grenada
+135,55,1927,0,1,Valor Lp.,Peru,Grenada
+135,55,1928,0,1,Valor Lp.,Peru,Grenada
+135,55,1929,0,1,Valor Lp.,Peru,Grenada
+135,55,1930,0,1,S/O,Peru,Grenada
+135,55,1931,0,1,S/O,Peru,Grenada
+135,55,1932,0,1,S/O,Peru,Grenada
+135,55,1933,0,1,S/O,Peru,Grenada
+135,55,1934,0,1,S/O,Peru,Grenada
+135,55,1935,0,1,S/O,Peru,Grenada
+135,55,1936,32,1,S/O,Peru,Grenada
+135,55,1937,0,1,S/O,Peru,Grenada
+135,55,1938,0,1,S/O,Peru,Grenada
+135,55,1939,0,1,S/O,Peru,Grenada
+135,55,1940,0,1,S/O,Peru,Grenada
+135,55,1941,295,1,S/O,Peru,Grenada
+135,55,1942,0,1,S/O,Peru,Grenada
+135,55,1943,0,1,S/O,Peru,Grenada
+135,55,1944,0,1,S/O,Peru,Grenada
+135,55,1945,687,1,S/O,Peru,Grenada
+135,55,1946,0,1,S/O,Peru,Grenada
+135,55,1947,811,1,S/O,Peru,Grenada
+135,55,1948,4476,1,S/O,Peru,Grenada
+135,55,1949,2212,1,S/O,Peru,Grenada
+135,56,1919,0,1,,Peru,St. Lucia
+135,56,1920,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1921,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1922,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1923,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1924,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1925,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1926,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1927,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1928,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1929,0,1,Valor Lp.,Peru,St. Lucia
+135,56,1930,0,1,S/O,Peru,St. Lucia
+135,56,1931,0,1,S/O,Peru,St. Lucia
+135,56,1932,0,1,S/O,Peru,St. Lucia
+135,56,1933,0,1,S/O,Peru,St. Lucia
+135,56,1934,48,1,S/O,Peru,St. Lucia
+135,56,1935,0,1,S/O,Peru,St. Lucia
+135,56,1936,0,1,S/O,Peru,St. Lucia
+135,56,1937,0,1,S/O,Peru,St. Lucia
+135,56,1938,0,1,S/O,Peru,St. Lucia
+135,56,1939,0,1,S/O,Peru,St. Lucia
+135,56,1940,1149,1,S/O,Peru,St. Lucia
+135,56,1941,0,1,S/O,Peru,St. Lucia
+135,56,1942,0,1,S/O,Peru,St. Lucia
+135,56,1943,0,1,S/O,Peru,St. Lucia
+135,56,1944,0,1,S/O,Peru,St. Lucia
+135,56,1945,0,1,S/O,Peru,St. Lucia
+135,56,1946,0,1,S/O,Peru,St. Lucia
+135,56,1947,0,1,S/O,Peru,St. Lucia
+135,56,1948,0,1,S/O,Peru,St. Lucia
+135,56,1949,0,1,S/O,Peru,St. Lucia
+135,65,1919,0,1,,Peru,Guadeloupe
+135,65,1920,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1921,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1922,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1923,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1924,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1925,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1926,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1927,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1928,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1929,0,1,Valor Lp.,Peru,Guadeloupe
+135,65,1930,0,1,S/O,Peru,Guadeloupe
+135,65,1931,0,1,S/O,Peru,Guadeloupe
+135,65,1932,0,1,S/O,Peru,Guadeloupe
+135,65,1933,36,1,S/O,Peru,Guadeloupe
+135,65,1934,0,1,S/O,Peru,Guadeloupe
+135,65,1935,0,1,S/O,Peru,Guadeloupe
+135,65,1936,0,1,S/O,Peru,Guadeloupe
+135,65,1937,0,1,S/O,Peru,Guadeloupe
+135,65,1938,1,1,S/O,Peru,Guadeloupe
+135,65,1939,0,1,S/O,Peru,Guadeloupe
+135,65,1940,0,1,S/O,Peru,Guadeloupe
+135,65,1941,0,1,S/O,Peru,Guadeloupe
+135,65,1942,0,1,S/O,Peru,Guadeloupe
+135,65,1943,0,1,S/O,Peru,Guadeloupe
+135,65,1944,0,1,S/O,Peru,Guadeloupe
+135,65,1945,0,1,S/O,Peru,Guadeloupe
+135,65,1946,0,1,S/O,Peru,Guadeloupe
+135,65,1947,0,1,S/O,Peru,Guadeloupe
+135,65,1948,0,1,S/O,Peru,Guadeloupe
+135,65,1949,0,1,S/O,Peru,Guadeloupe
+135,66,1916,42,,,Peru,Martinique
+135,66,1919,0,1,,Peru,Martinique
+135,66,1920,0,1,Valor Lp.,Peru,Martinique
+135,66,1921,0,1,Valor Lp.,Peru,Martinique
+135,66,1922,0,1,Valor Lp.,Peru,Martinique
+135,66,1923,0,1,Valor Lp.,Peru,Martinique
+135,66,1924,0,1,Valor Lp.,Peru,Martinique
+135,66,1925,0,1,Valor Lp.,Peru,Martinique
+135,66,1926,0,1,Valor Lp.,Peru,Martinique
+135,66,1927,0,1,Valor Lp.,Peru,Martinique
+135,66,1928,0,1,Valor Lp.,Peru,Martinique
+135,66,1929,0,1,Valor Lp.,Peru,Martinique
+135,66,1930,0,1,S/O,Peru,Martinique
+135,66,1931,232,1,S/O,Peru,Martinique
+135,66,1932,0,1,S/O,Peru,Martinique
+135,66,1933,0,1,S/O,Peru,Martinique
+135,66,1934,0,1,S/O,Peru,Martinique
+135,66,1935,493,1,S/O,Peru,Martinique
+135,66,1936,580,1,S/O,Peru,Martinique
+135,66,1937,0,1,S/O,Peru,Martinique
+135,66,1938,6,1,S/O,Peru,Martinique
+135,66,1939,0,1,S/O,Peru,Martinique
+135,66,1940,0,1,S/O,Peru,Martinique
+135,66,1941,0,1,S/O,Peru,Martinique
+135,66,1942,0,1,S/O,Peru,Martinique
+135,66,1943,0,1,S/O,Peru,Martinique
+135,66,1944,5195,1,S/O,Peru,Martinique
+135,66,1945,0,1,S/O,Peru,Martinique
+135,66,1946,0,1,S/O,Peru,Martinique
+135,66,1947,0,1,S/O,Peru,Martinique
+135,66,1948,0,1,S/O,Peru,Martinique
+135,66,1949,0,1,S/O,Peru,Martinique
+135,70,1900,2058,,,Peru,Mexico
+135,70,1901,566,,,Peru,Mexico
+135,70,1903,1801,,,Peru,Mexico
+135,70,1904,1710,,,Peru,Mexico
+135,70,1905,537,,,Peru,Mexico
+135,70,1906,3589,,,Peru,Mexico
+135,70,1907,3129,,,Peru,Mexico
+135,70,1908,6482.568,,,Peru,Mexico
+135,70,1909,2122.956,,,Peru,Mexico
+135,70,1910,9106.540000000001,,,Peru,Mexico
+135,70,1911,8198.231,,,Peru,Mexico
+135,70,1912,9268.17,,,Peru,Mexico
+135,70,1913,3554.925,,,Peru,Mexico
+135,70,1916,121.81,,,Peru,Mexico
+135,70,1917,18557.097,,,Peru,Mexico
+135,70,1918,10,,,Peru,Mexico
+135,70,1919,3485.565,1,,Peru,Mexico
+135,70,1920,6632.21,1,Valor Lp.,Peru,Mexico
+135,70,1921,91148,1,Valor Lp.,Peru,Mexico
+135,70,1922,3147,1,Valor Lp.,Peru,Mexico
+135,70,1923,31,1,Valor Lp.,Peru,Mexico
+135,70,1924,177,1,Valor Lp.,Peru,Mexico
+135,70,1925,59,1,Valor Lp.,Peru,Mexico
+135,70,1926,243,1,Valor Lp.,Peru,Mexico
+135,70,1927,931,1,Valor Lp.,Peru,Mexico
+135,70,1928,3287,1,Valor Lp.,Peru,Mexico
+135,70,1929,8299,1,Valor Lp.,Peru,Mexico
+135,70,1930,1627,1,S/O,Peru,Mexico
+135,70,1931,21458,1,S/O,Peru,Mexico
+135,70,1932,3837,1,S/O,Peru,Mexico
+135,70,1933,11058,1,S/O,Peru,Mexico
+135,70,1934,21110,1,S/O,Peru,Mexico
+135,70,1935,19471,1,S/O,Peru,Mexico
+135,70,1936,48614,1,S/O,Peru,Mexico
+135,70,1937,68196,1,S/O,Peru,Mexico
+135,70,1938,111022,1,S/O,Peru,Mexico
+135,70,1939,196489,1,S/O,Peru,Mexico
+135,70,1940,572227,1,S/O,Peru,Mexico
+135,70,1941,1205207,1,S/O,Peru,Mexico
+135,70,1942,2555230,1,S/O,Peru,Mexico
+135,70,1943,4553971,1,S/O,Peru,Mexico
+135,70,1944,2676679,1,S/O,Peru,Mexico
+135,70,1945,8180627,1,S/O,Peru,Mexico
+135,70,1946,16477284,1,S/O,Peru,Mexico
+135,70,1947,9992870,1,S/O,Peru,Mexico
+135,70,1948,2041847,1,S/O,Peru,Mexico
+135,70,1949,8851153,1,S/O,Peru,Mexico
+135,80,1919,0,1,,Peru,Belize
+135,80,1920,0,1,Valor Lp.,Peru,Belize
+135,80,1921,0,1,Valor Lp.,Peru,Belize
+135,80,1922,0,1,Valor Lp.,Peru,Belize
+135,80,1923,0,1,Valor Lp.,Peru,Belize
+135,80,1924,0,1,Valor Lp.,Peru,Belize
+135,80,1925,0,1,Valor Lp.,Peru,Belize
+135,80,1926,0,1,Valor Lp.,Peru,Belize
+135,80,1927,0,1,Valor Lp.,Peru,Belize
+135,80,1928,0,1,Valor Lp.,Peru,Belize
+135,80,1929,0,1,Valor Lp.,Peru,Belize
+135,80,1930,0,1,S/O,Peru,Belize
+135,80,1931,923,1,S/O,Peru,Belize
+135,80,1932,3026,1,S/O,Peru,Belize
+135,80,1933,1685,1,S/O,Peru,Belize
+135,80,1934,0,1,S/O,Peru,Belize
+135,80,1935,0,1,S/O,Peru,Belize
+135,80,1936,0,1,S/O,Peru,Belize
+135,80,1937,0,1,S/O,Peru,Belize
+135,80,1938,0,1,S/O,Peru,Belize
+135,80,1939,0,1,S/O,Peru,Belize
+135,80,1940,105,1,S/O,Peru,Belize
+135,80,1941,0,1,S/O,Peru,Belize
+135,80,1942,0,1,S/O,Peru,Belize
+135,80,1943,0,1,S/O,Peru,Belize
+135,80,1944,0,1,S/O,Peru,Belize
+135,80,1945,0,1,S/O,Peru,Belize
+135,80,1946,0,1,S/O,Peru,Belize
+135,80,1947,0,1,S/O,Peru,Belize
+135,80,1948,0,1,S/O,Peru,Belize
+135,80,1949,0,1,S/O,Peru,Belize
+135,90,1903,439,,,Peru,Guatemala
+135,90,1906,314,,,Peru,Guatemala
+135,90,1907,10,,,Peru,Guatemala
+135,90,1917,2798.73,,,Peru,Guatemala
+135,90,1919,0,1,,Peru,Guatemala
+135,90,1920,11.16,1,Valor Lp.,Peru,Guatemala
+135,90,1921,0,1,Valor Lp.,Peru,Guatemala
+135,90,1922,0,1,Valor Lp.,Peru,Guatemala
+135,90,1923,0,1,Valor Lp.,Peru,Guatemala
+135,90,1924,0,1,Valor Lp.,Peru,Guatemala
+135,90,1925,72,1,Valor Lp.,Peru,Guatemala
+135,90,1926,31,1,Valor Lp.,Peru,Guatemala
+135,90,1927,62,1,Valor Lp.,Peru,Guatemala
+135,90,1928,1076,1,Valor Lp.,Peru,Guatemala
+135,90,1929,665,1,Valor Lp.,Peru,Guatemala
+135,90,1930,12225,1,S/O,Peru,Guatemala
+135,90,1931,21787,1,S/O,Peru,Guatemala
+135,90,1932,269,1,S/O,Peru,Guatemala
+135,90,1933,401,1,S/O,Peru,Guatemala
+135,90,1934,2153,1,S/O,Peru,Guatemala
+135,90,1935,2524,1,S/O,Peru,Guatemala
+135,90,1936,13474,1,S/O,Peru,Guatemala
+135,90,1937,21208,1,S/O,Peru,Guatemala
+135,90,1938,2490,1,S/O,Peru,Guatemala
+135,90,1939,22787,1,S/O,Peru,Guatemala
+135,90,1940,39412,1,S/O,Peru,Guatemala
+135,90,1941,20803,1,S/O,Peru,Guatemala
+135,90,1942,40905,1,S/O,Peru,Guatemala
+135,90,1943,16357,1,S/O,Peru,Guatemala
+135,90,1944,34020,1,S/O,Peru,Guatemala
+135,90,1945,22309,1,S/O,Peru,Guatemala
+135,90,1946,1629,1,S/O,Peru,Guatemala
+135,90,1947,10812,1,S/O,Peru,Guatemala
+135,90,1948,51020,1,S/O,Peru,Guatemala
+135,90,1949,28535,1,S/O,Peru,Guatemala
+135,91,1914,229.5,,,Peru,Honduras
+135,91,1918,1594,,,Peru,Honduras
+135,91,1919,210.24,1,,Peru,Honduras
+135,91,1920,0,1,Valor Lp.,Peru,Honduras
+135,91,1921,0,1,Valor Lp.,Peru,Honduras
+135,91,1922,0,1,Valor Lp.,Peru,Honduras
+135,91,1923,0,1,Valor Lp.,Peru,Honduras
+135,91,1924,0,1,Valor Lp.,Peru,Honduras
+135,91,1925,0,1,Valor Lp.,Peru,Honduras
+135,91,1926,0,1,Valor Lp.,Peru,Honduras
+135,91,1927,0,1,Valor Lp.,Peru,Honduras
+135,91,1928,1400,1,Valor Lp.,Peru,Honduras
+135,91,1929,1035,1,Valor Lp.,Peru,Honduras
+135,91,1930,506,1,S/O,Peru,Honduras
+135,91,1931,373,1,S/O,Peru,Honduras
+135,91,1932,0,1,S/O,Peru,Honduras
+135,91,1933,1494,1,S/O,Peru,Honduras
+135,91,1934,18550,1,S/O,Peru,Honduras
+135,91,1935,1779,1,S/O,Peru,Honduras
+135,91,1936,6698,1,S/O,Peru,Honduras
+135,91,1937,6524,1,S/O,Peru,Honduras
+135,91,1938,33630,1,S/O,Peru,Honduras
+135,91,1939,18,1,S/O,Peru,Honduras
+135,91,1940,98750,1,S/O,Peru,Honduras
+135,91,1941,47785,1,S/O,Peru,Honduras
+135,91,1942,43982,1,S/O,Peru,Honduras
+135,91,1943,25483,1,S/O,Peru,Honduras
+135,91,1944,125,1,S/O,Peru,Honduras
+135,91,1945,128,1,S/O,Peru,Honduras
+135,91,1946,6054,1,S/O,Peru,Honduras
+135,91,1947,49,1,S/O,Peru,Honduras
+135,91,1948,6,1,S/O,Peru,Honduras
+135,91,1949,8574,1,S/O,Peru,Honduras
+135,92,1901,8757,,,Peru,El Salvador
+135,92,1903,7142,,,Peru,El Salvador
+135,92,1904,6058,,,Peru,El Salvador
+135,92,1905,4315,,,Peru,El Salvador
+135,92,1906,4393,,,Peru,El Salvador
+135,92,1907,6095,,,Peru,El Salvador
+135,92,1908,8369.764999999999,,,Peru,El Salvador
+135,92,1909,4914.784,,,Peru,El Salvador
+135,92,1910,5317.95,,,Peru,El Salvador
+135,92,1911,9003.486000000001,,,Peru,El Salvador
+135,92,1912,5085.206,,,Peru,El Salvador
+135,92,1913,4268.7,,,Peru,El Salvador
+135,92,1914,4014.9,,,Peru,El Salvador
+135,92,1916,2769.6,,,Peru,El Salvador
+135,92,1917,29691.84,,,Peru,El Salvador
+135,92,1918,56693,,,Peru,El Salvador
+135,92,1919,26926.834,1,,Peru,El Salvador
+135,92,1920,0,1,Valor Lp.,Peru,El Salvador
+135,92,1921,23159,1,Valor Lp.,Peru,El Salvador
+135,92,1922,11583,1,Valor Lp.,Peru,El Salvador
+135,92,1923,23452,1,Valor Lp.,Peru,El Salvador
+135,92,1924,16047,1,Valor Lp.,Peru,El Salvador
+135,92,1925,7698,1,Valor Lp.,Peru,El Salvador
+135,92,1926,12709,1,Valor Lp.,Peru,El Salvador
+135,92,1927,15262,1,Valor Lp.,Peru,El Salvador
+135,92,1928,17715,1,Valor Lp.,Peru,El Salvador
+135,92,1929,7865,1,Valor Lp.,Peru,El Salvador
+135,92,1930,64943,1,S/O,Peru,El Salvador
+135,92,1931,68604,1,S/O,Peru,El Salvador
+135,92,1932,45169,1,S/O,Peru,El Salvador
+135,92,1933,54267,1,S/O,Peru,El Salvador
+135,92,1934,69372,1,S/O,Peru,El Salvador
+135,92,1935,34637,1,S/O,Peru,El Salvador
+135,92,1936,78591,1,S/O,Peru,El Salvador
+135,92,1937,58605,1,S/O,Peru,El Salvador
+135,92,1938,73598,1,S/O,Peru,El Salvador
+135,92,1939,80565,1,S/O,Peru,El Salvador
+135,92,1940,181380,1,S/O,Peru,El Salvador
+135,92,1941,384723,1,S/O,Peru,El Salvador
+135,92,1942,156718,1,S/O,Peru,El Salvador
+135,92,1943,193466,1,S/O,Peru,El Salvador
+135,92,1944,198717,1,S/O,Peru,El Salvador
+135,92,1945,235528,1,S/O,Peru,El Salvador
+135,92,1946,146799,1,S/O,Peru,El Salvador
+135,92,1947,24940,1,S/O,Peru,El Salvador
+135,92,1948,56522,1,S/O,Peru,El Salvador
+135,92,1949,685262,1,S/O,Peru,El Salvador
+135,93,1901,2493,,,Peru,Nicaragua
+135,93,1903,296,,,Peru,Nicaragua
+135,93,1904,1855,,,Peru,Nicaragua
+135,93,1905,46,,,Peru,Nicaragua
+135,93,1912,51,,,Peru,Nicaragua
+135,93,1914,256.2,,,Peru,Nicaragua
+135,93,1919,0,1,,Peru,Nicaragua
+135,93,1920,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1921,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1922,3839,1,Valor Lp.,Peru,Nicaragua
+135,93,1923,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1924,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1925,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1926,0,1,Valor Lp.,Peru,Nicaragua
+135,93,1927,3106,1,Valor Lp.,Peru,Nicaragua
+135,93,1928,857,1,Valor Lp.,Peru,Nicaragua
+135,93,1929,1618,1,Valor Lp.,Peru,Nicaragua
+135,93,1930,28211,1,S/O,Peru,Nicaragua
+135,93,1931,432,1,S/O,Peru,Nicaragua
+135,93,1932,0,1,S/O,Peru,Nicaragua
+135,93,1933,35486,1,S/O,Peru,Nicaragua
+135,93,1934,32755,1,S/O,Peru,Nicaragua
+135,93,1935,46576,1,S/O,Peru,Nicaragua
+135,93,1936,49660,1,S/O,Peru,Nicaragua
+135,93,1937,63999,1,S/O,Peru,Nicaragua
+135,93,1938,422092,1,S/O,Peru,Nicaragua
+135,93,1939,1104978,1,S/O,Peru,Nicaragua
+135,93,1940,520951,1,S/O,Peru,Nicaragua
+135,93,1941,1293055,1,S/O,Peru,Nicaragua
+135,93,1942,514213,1,S/O,Peru,Nicaragua
+135,93,1943,1314657,1,S/O,Peru,Nicaragua
+135,93,1944,1173979,1,S/O,Peru,Nicaragua
+135,93,1945,1541133,1,S/O,Peru,Nicaragua
+135,93,1946,1535230,1,S/O,Peru,Nicaragua
+135,93,1947,920717,1,S/O,Peru,Nicaragua
+135,93,1948,5997323,1,S/O,Peru,Nicaragua
+135,93,1949,8241567,1,S/O,Peru,Nicaragua
+135,94,1901,266,,,Peru,Costa Rica
+135,94,1903,706,,,Peru,Costa Rica
+135,94,1905,8214,,,Peru,Costa Rica
+135,94,1906,737,,,Peru,Costa Rica
+135,94,1907,437,,,Peru,Costa Rica
+135,94,1908,438,,,Peru,Costa Rica
+135,94,1909,168.168,,,Peru,Costa Rica
+135,94,1910,84.06,,,Peru,Costa Rica
+135,94,1911,936,,,Peru,Costa Rica
+135,94,1912,4584.8,,,Peru,Costa Rica
+135,94,1913,6793,,,Peru,Costa Rica
+135,94,1914,4431.876,,,Peru,Costa Rica
+135,94,1917,6763.205,,,Peru,Costa Rica
+135,94,1918,4582,,,Peru,Costa Rica
+135,94,1919,13559.713,1,,Peru,Costa Rica
+135,94,1920,58005.88,1,Valor Lp.,Peru,Costa Rica
+135,94,1921,19848,1,Valor Lp.,Peru,Costa Rica
+135,94,1922,9189,1,Valor Lp.,Peru,Costa Rica
+135,94,1923,2542,1,Valor Lp.,Peru,Costa Rica
+135,94,1924,11222,1,Valor Lp.,Peru,Costa Rica
+135,94,1925,23603,1,Valor Lp.,Peru,Costa Rica
+135,94,1926,28774,1,Valor Lp.,Peru,Costa Rica
+135,94,1927,22218,1,Valor Lp.,Peru,Costa Rica
+135,94,1928,23413,1,Valor Lp.,Peru,Costa Rica
+135,94,1929,29548,1,Valor Lp.,Peru,Costa Rica
+135,94,1930,284964,1,S/O,Peru,Costa Rica
+135,94,1931,131103,1,S/O,Peru,Costa Rica
+135,94,1932,42384,1,S/O,Peru,Costa Rica
+135,94,1933,64342,1,S/O,Peru,Costa Rica
+135,94,1934,111139,1,S/O,Peru,Costa Rica
+135,94,1935,80541,1,S/O,Peru,Costa Rica
+135,94,1936,94201,1,S/O,Peru,Costa Rica
+135,94,1937,89284,1,S/O,Peru,Costa Rica
+135,94,1938,261493,1,S/O,Peru,Costa Rica
+135,94,1939,233520,1,S/O,Peru,Costa Rica
+135,94,1940,375177,1,S/O,Peru,Costa Rica
+135,94,1941,371716,1,S/O,Peru,Costa Rica
+135,94,1942,124136,1,S/O,Peru,Costa Rica
+135,94,1943,311978,1,S/O,Peru,Costa Rica
+135,94,1944,286137,1,S/O,Peru,Costa Rica
+135,94,1945,160799,1,S/O,Peru,Costa Rica
+135,94,1946,228458,1,S/O,Peru,Costa Rica
+135,94,1947,696387,1,S/O,Peru,Costa Rica
+135,94,1948,171123,1,S/O,Peru,Costa Rica
+135,94,1949,110533,1,S/O,Peru,Costa Rica
+135,95,1903,816,,,Peru,Panama
+135,95,1904,1160,,,Peru,Panama
+135,95,1905,30710,,,Peru,Panama
+135,95,1906,1504,,,Peru,Panama
+135,95,1907,819,,,Peru,Panama
+135,95,1908,2422.342,,,Peru,Panama
+135,95,1909,3331.307,,,Peru,Panama
+135,95,1910,1967.132,,,Peru,Panama
+135,95,1911,2358.573,,,Peru,Panama
+135,95,1912,1494.793,,,Peru,Panama
+135,95,1913,1525.141,,,Peru,Panama
+135,95,1914,5318.48,,,Peru,Panama
+135,95,1915,2499.456,,,Peru,Panama
+135,95,1916,8873.523999999999,,,Peru,Panama
+135,95,1917,21271.902,,,Peru,Panama
+135,95,1918,44525,,,Peru,Panama
+135,95,1919,24581.783,1,,Peru,Panama
+135,95,1920,58941.258,1,Valor Lp.,Peru,Panama
+135,95,1921,159238,1,Valor Lp.,Peru,Panama
+135,95,1922,13885,1,Valor Lp.,Peru,Panama
+135,95,1923,6412,1,Valor Lp.,Peru,Panama
+135,95,1924,8088,1,Valor Lp.,Peru,Panama
+135,95,1925,24939,1,Valor Lp.,Peru,Panama
+135,95,1926,44897,1,Valor Lp.,Peru,Panama
+135,95,1927,74322,1,Valor Lp.,Peru,Panama
+135,95,1928,51712,1,Valor Lp.,Peru,Panama
+135,95,1929,49532,1,Valor Lp.,Peru,Panama
+135,95,1930,13887,1,S/O,Peru,Panama
+135,95,1931,8880,1,S/O,Peru,Panama
+135,95,1932,3867,1,S/O,Peru,Panama
+135,95,1933,115221,1,S/O,Peru,Panama
+135,95,1934,55672,1,S/O,Peru,Panama
+135,95,1935,16437,1,S/O,Peru,Panama
+135,95,1936,21510,1,S/O,Peru,Panama
+135,95,1937,15804,1,S/O,Peru,Panama
+135,95,1938,8642,1,S/O,Peru,Panama
+135,95,1939,28508,1,S/O,Peru,Panama
+135,95,1940,43371,1,S/O,Peru,Panama
+135,95,1941,22060,1,S/O,Peru,Panama
+135,95,1942,147263,1,S/O,Peru,Panama
+135,95,1943,12582,1,S/O,Peru,Panama
+135,95,1944,38183,1,S/O,Peru,Panama
+135,95,1945,27640,1,S/O,Peru,Panama
+135,95,1946,91657,1,S/O,Peru,Panama
+135,95,1947,263779,1,S/O,Peru,Panama
+135,95,1948,127396,1,S/O,Peru,Panama
+135,95,1949,108158,1,S/O,Peru,Panama
+135,96,1919,0,1,,Peru,Panama Canal Zone
+135,96,1920,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1921,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1922,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1923,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1924,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1925,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1926,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1927,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1928,0,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1929,74260,1,Valor Lp.,Peru,Panama Canal Zone
+135,96,1930,1489691,1,S/O,Peru,Panama Canal Zone
+135,96,1931,49937,1,S/O,Peru,Panama Canal Zone
+135,96,1932,11447,1,S/O,Peru,Panama Canal Zone
+135,96,1933,8838,1,S/O,Peru,Panama Canal Zone
+135,96,1934,13721,1,S/O,Peru,Panama Canal Zone
+135,96,1935,8738,1,S/O,Peru,Panama Canal Zone
+135,96,1936,16709,1,S/O,Peru,Panama Canal Zone
+135,96,1937,8894,1,S/O,Peru,Panama Canal Zone
+135,96,1938,9308,1,S/O,Peru,Panama Canal Zone
+135,96,1939,19749,1,S/O,Peru,Panama Canal Zone
+135,96,1940,17202,1,S/O,Peru,Panama Canal Zone
+135,96,1941,91211,1,S/O,Peru,Panama Canal Zone
+135,96,1942,49822,1,S/O,Peru,Panama Canal Zone
+135,96,1943,31881,1,S/O,Peru,Panama Canal Zone
+135,96,1944,35763,1,S/O,Peru,Panama Canal Zone
+135,96,1945,286542,1,S/O,Peru,Panama Canal Zone
+135,96,1946,79635,1,S/O,Peru,Panama Canal Zone
+135,96,1947,416494,1,S/O,Peru,Panama Canal Zone
+135,96,1948,1890115,1,S/O,Peru,Panama Canal Zone
+135,96,1949,67696,1,S/O,Peru,Panama Canal Zone
+135,100,1900,4366,,,Peru,Colombia
+135,100,1901,2632,,,Peru,Colombia
+135,100,1903,1529,,,Peru,Colombia
+135,100,1904,765,,,Peru,Colombia
+135,100,1905,1640,,,Peru,Colombia
+135,100,1906,1950,,,Peru,Colombia
+135,100,1907,2229,,,Peru,Colombia
+135,100,1908,624.345,,,Peru,Colombia
+135,100,1909,39.558,,,Peru,Colombia
+135,100,1910,1263.695,,,Peru,Colombia
+135,100,1911,1680.19,,,Peru,Colombia
+135,100,1912,2384.885,,,Peru,Colombia
+135,100,1913,9295.991,,,Peru,Colombia
+135,100,1914,1320.325,,,Peru,Colombia
+135,100,1915,651.26,,,Peru,Colombia
+135,100,1916,5793.149,,,Peru,Colombia
+135,100,1917,2718.58,,,Peru,Colombia
+135,100,1918,6585,,,Peru,Colombia
+135,100,1919,3277.895,1,,Peru,Colombia
+135,100,1920,32138.475,1,Valor Lp.,Peru,Colombia
+135,100,1921,32732,1,Valor Lp.,Peru,Colombia
+135,100,1922,8985,1,Valor Lp.,Peru,Colombia
+135,100,1923,36779,1,Valor Lp.,Peru,Colombia
+135,100,1924,59501,1,Valor Lp.,Peru,Colombia
+135,100,1925,40864,1,Valor Lp.,Peru,Colombia
+135,100,1926,19698,1,Valor Lp.,Peru,Colombia
+135,100,1927,712,1,Valor Lp.,Peru,Colombia
+135,100,1928,803,1,Valor Lp.,Peru,Colombia
+135,100,1929,12600,1,Valor Lp.,Peru,Colombia
+135,100,1930,72318,1,S/O,Peru,Colombia
+135,100,1931,58599,1,S/O,Peru,Colombia
+135,100,1932,32494,1,S/O,Peru,Colombia
+135,100,1933,59748,1,S/O,Peru,Colombia
+135,100,1934,101064,1,S/O,Peru,Colombia
+135,100,1935,27798,1,S/O,Peru,Colombia
+135,100,1936,7318,1,S/O,Peru,Colombia
+135,100,1937,12144,1,S/O,Peru,Colombia
+135,100,1938,5656,1,S/O,Peru,Colombia
+135,100,1939,9368,1,S/O,Peru,Colombia
+135,100,1940,12498,1,S/O,Peru,Colombia
+135,100,1941,59598,1,S/O,Peru,Colombia
+135,100,1942,41519,1,S/O,Peru,Colombia
+135,100,1943,176127,1,S/O,Peru,Colombia
+135,100,1944,330930,1,S/O,Peru,Colombia
+135,100,1945,284295,1,S/O,Peru,Colombia
+135,100,1946,407196,1,S/O,Peru,Colombia
+135,100,1947,425832,1,S/O,Peru,Colombia
+135,100,1948,156631,1,S/O,Peru,Colombia
+135,100,1949,197896,1,S/O,Peru,Colombia
+135,101,1919,0,1,,Peru,Venezuela
+135,101,1920,1392.02,1,Valor Lp.,Peru,Venezuela
+135,101,1921,9124,1,Valor Lp.,Peru,Venezuela
+135,101,1922,359,1,Valor Lp.,Peru,Venezuela
+135,101,1923,145,1,Valor Lp.,Peru,Venezuela
+135,101,1924,68,1,Valor Lp.,Peru,Venezuela
+135,101,1925,68,1,Valor Lp.,Peru,Venezuela
+135,101,1926,170,1,Valor Lp.,Peru,Venezuela
+135,101,1927,1,1,Valor Lp.,Peru,Venezuela
+135,101,1928,49,1,Valor Lp.,Peru,Venezuela
+135,101,1929,113,1,Valor Lp.,Peru,Venezuela
+135,101,1930,215,1,S/O,Peru,Venezuela
+135,101,1931,1149,1,S/O,Peru,Venezuela
+135,101,1932,3314,1,S/O,Peru,Venezuela
+135,101,1933,2864,1,S/O,Peru,Venezuela
+135,101,1934,13422,1,S/O,Peru,Venezuela
+135,101,1935,3701,1,S/O,Peru,Venezuela
+135,101,1936,3473,1,S/O,Peru,Venezuela
+135,101,1937,7420,1,S/O,Peru,Venezuela
+135,101,1938,2415,1,S/O,Peru,Venezuela
+135,101,1939,8104,1,S/O,Peru,Venezuela
+135,101,1940,5633,1,S/O,Peru,Venezuela
+135,101,1941,8050,1,S/O,Peru,Venezuela
+135,101,1942,27015,1,S/O,Peru,Venezuela
+135,101,1943,387887,1,S/O,Peru,Venezuela
+135,101,1944,13824,1,S/O,Peru,Venezuela
+135,101,1945,34116,1,S/O,Peru,Venezuela
+135,101,1946,34530,1,S/O,Peru,Venezuela
+135,101,1947,20441,1,S/O,Peru,Venezuela
+135,101,1948,19361,1,S/O,Peru,Venezuela
+135,101,1949,66968,1,S/O,Peru,Venezuela
+135,110,1919,0,1,,Peru,Guyana
+135,110,1920,0,1,Valor Lp.,Peru,Guyana
+135,110,1921,0,1,Valor Lp.,Peru,Guyana
+135,110,1922,0,1,Valor Lp.,Peru,Guyana
+135,110,1923,0,1,Valor Lp.,Peru,Guyana
+135,110,1924,0,1,Valor Lp.,Peru,Guyana
+135,110,1925,0,1,Valor Lp.,Peru,Guyana
+135,110,1926,0,1,Valor Lp.,Peru,Guyana
+135,110,1927,0,1,Valor Lp.,Peru,Guyana
+135,110,1928,0,1,Valor Lp.,Peru,Guyana
+135,110,1929,0,1,Valor Lp.,Peru,Guyana
+135,110,1930,0,1,S/O,Peru,Guyana
+135,110,1931,0,1,S/O,Peru,Guyana
+135,110,1932,642,1,S/O,Peru,Guyana
+135,110,1933,0,1,S/O,Peru,Guyana
+135,110,1934,930,1,S/O,Peru,Guyana
+135,110,1935,0,1,S/O,Peru,Guyana
+135,110,1936,0,1,S/O,Peru,Guyana
+135,110,1937,0,1,S/O,Peru,Guyana
+135,110,1938,0,1,S/O,Peru,Guyana
+135,110,1939,0,1,S/O,Peru,Guyana
+135,110,1940,0,1,S/O,Peru,Guyana
+135,110,1941,0,1,S/O,Peru,Guyana
+135,110,1942,376,1,S/O,Peru,Guyana
+135,110,1943,0,1,S/O,Peru,Guyana
+135,110,1944,0,1,S/O,Peru,Guyana
+135,110,1945,37,1,S/O,Peru,Guyana
+135,110,1946,0,1,S/O,Peru,Guyana
+135,110,1947,0,1,S/O,Peru,Guyana
+135,110,1948,6349,1,S/O,Peru,Guyana
+135,110,1949,0,1,S/O,Peru,Guyana
+135,115,1919,0,1,,Peru,Suriname
+135,115,1920,0,1,Valor Lp.,Peru,Suriname
+135,115,1921,0,1,Valor Lp.,Peru,Suriname
+135,115,1922,0,1,Valor Lp.,Peru,Suriname
+135,115,1923,0,1,Valor Lp.,Peru,Suriname
+135,115,1924,0,1,Valor Lp.,Peru,Suriname
+135,115,1925,0,1,Valor Lp.,Peru,Suriname
+135,115,1926,0,1,Valor Lp.,Peru,Suriname
+135,115,1927,0,1,Valor Lp.,Peru,Suriname
+135,115,1928,0,1,Valor Lp.,Peru,Suriname
+135,115,1929,0,1,Valor Lp.,Peru,Suriname
+135,115,1930,0,1,S/O,Peru,Suriname
+135,115,1931,517,1,S/O,Peru,Suriname
+135,115,1932,7,1,S/O,Peru,Suriname
+135,115,1933,0,1,S/O,Peru,Suriname
+135,115,1934,0,1,S/O,Peru,Suriname
+135,115,1935,0,1,S/O,Peru,Suriname
+135,115,1936,0,1,S/O,Peru,Suriname
+135,115,1937,0,1,S/O,Peru,Suriname
+135,115,1938,0,1,S/O,Peru,Suriname
+135,115,1939,0,1,S/O,Peru,Suriname
+135,115,1940,1596,1,S/O,Peru,Suriname
+135,115,1941,0,1,S/O,Peru,Suriname
+135,115,1942,0,1,S/O,Peru,Suriname
+135,115,1943,0,1,S/O,Peru,Suriname
+135,115,1944,0,1,S/O,Peru,Suriname
+135,115,1945,0,1,S/O,Peru,Suriname
+135,115,1946,0,1,S/O,Peru,Suriname
+135,115,1947,0,1,S/O,Peru,Suriname
+135,115,1948,43,1,S/O,Peru,Suriname
+135,115,1949,0,1,S/O,Peru,Suriname
+135,120,1919,0,1,,Peru,French Guiana
+135,120,1920,0,1,Valor Lp.,Peru,French Guiana
+135,120,1921,0,1,Valor Lp.,Peru,French Guiana
+135,120,1922,0,1,Valor Lp.,Peru,French Guiana
+135,120,1923,0,1,Valor Lp.,Peru,French Guiana
+135,120,1924,0,1,Valor Lp.,Peru,French Guiana
+135,120,1925,0,1,Valor Lp.,Peru,French Guiana
+135,120,1926,0,1,Valor Lp.,Peru,French Guiana
+135,120,1927,0,1,Valor Lp.,Peru,French Guiana
+135,120,1928,0,1,Valor Lp.,Peru,French Guiana
+135,120,1929,0,1,Valor Lp.,Peru,French Guiana
+135,120,1930,0,1,S/O,Peru,French Guiana
+135,120,1931,2283,1,S/O,Peru,French Guiana
+135,120,1932,0,1,S/O,Peru,French Guiana
+135,120,1933,0,1,S/O,Peru,French Guiana
+135,120,1934,0,1,S/O,Peru,French Guiana
+135,120,1935,0,1,S/O,Peru,French Guiana
+135,120,1936,0,1,S/O,Peru,French Guiana
+135,120,1937,0,1,S/O,Peru,French Guiana
+135,120,1938,0,1,S/O,Peru,French Guiana
+135,120,1939,0,1,S/O,Peru,French Guiana
+135,120,1940,0,1,S/O,Peru,French Guiana
+135,120,1941,0,1,S/O,Peru,French Guiana
+135,120,1942,0,1,S/O,Peru,French Guiana
+135,120,1943,0,1,S/O,Peru,French Guiana
+135,120,1944,0,1,S/O,Peru,French Guiana
+135,120,1945,0,1,S/O,Peru,French Guiana
+135,120,1946,0,1,S/O,Peru,French Guiana
+135,120,1947,36,1,S/O,Peru,French Guiana
+135,120,1948,0,1,S/O,Peru,French Guiana
+135,120,1949,0,1,S/O,Peru,French Guiana
+135,130,1900,5560,,,Peru,Ecuador
+135,130,1901,5954,,,Peru,Ecuador
+135,130,1902,3362,,,Peru,Ecuador
+135,130,1903,15675,,,Peru,Ecuador
+135,130,1904,102250,,,Peru,Ecuador
+135,130,1905,70348,,,Peru,Ecuador
+135,130,1906,75278,,,Peru,Ecuador
+135,130,1907,66630,,,Peru,Ecuador
+135,130,1908,39779.866,,,Peru,Ecuador
+135,130,1909,33982.571,,,Peru,Ecuador
+135,130,1910,207174.423,,,Peru,Ecuador
+135,130,1911,12755.652,,,Peru,Ecuador
+135,130,1912,19791.64,,,Peru,Ecuador
+135,130,1913,17590.716,,,Peru,Ecuador
+135,130,1914,11504.229,,,Peru,Ecuador
+135,130,1915,7865.003,,,Peru,Ecuador
+135,130,1916,36400.859,,,Peru,Ecuador
+135,130,1917,63493.721,,,Peru,Ecuador
+135,130,1918,88433,,,Peru,Ecuador
+135,130,1919,71874.887,1,,Peru,Ecuador
+135,130,1920,126238.242,1,Valor Lp.,Peru,Ecuador
+135,130,1921,224609,1,Valor Lp.,Peru,Ecuador
+135,130,1922,126807,1,Valor Lp.,Peru,Ecuador
+135,130,1923,131960,1,Valor Lp.,Peru,Ecuador
+135,130,1924,94820,1,Valor Lp.,Peru,Ecuador
+135,130,1925,54231,1,Valor Lp.,Peru,Ecuador
+135,130,1926,55729,1,Valor Lp.,Peru,Ecuador
+135,130,1927,74884,1,Valor Lp.,Peru,Ecuador
+135,130,1928,112478,1,Valor Lp.,Peru,Ecuador
+135,130,1929,78481,1,Valor Lp.,Peru,Ecuador
+135,130,1930,542189,1,S/O,Peru,Ecuador
+135,130,1931,322630,1,S/O,Peru,Ecuador
+135,130,1932,293567,1,S/O,Peru,Ecuador
+135,130,1933,412558,1,S/O,Peru,Ecuador
+135,130,1934,551244,1,S/O,Peru,Ecuador
+135,130,1935,3231870,1,S/O,Peru,Ecuador
+135,130,1936,1884314,1,S/O,Peru,Ecuador
+135,130,1937,1007506,1,S/O,Peru,Ecuador
+135,130,1938,4206247,1,S/O,Peru,Ecuador
+135,130,1939,1906675,1,S/O,Peru,Ecuador
+135,130,1940,2372998,1,S/O,Peru,Ecuador
+135,130,1941,822432,1,S/O,Peru,Ecuador
+135,130,1942,7193329,1,S/O,Peru,Ecuador
+135,130,1943,5098775,1,S/O,Peru,Ecuador
+135,130,1944,16048216,1,S/O,Peru,Ecuador
+135,130,1945,10157454,1,S/O,Peru,Ecuador
+135,130,1946,3571846,1,S/O,Peru,Ecuador
+135,130,1947,3892635,1,S/O,Peru,Ecuador
+135,130,1948,15974121,1,S/O,Peru,Ecuador
+135,130,1949,6107538,1,S/O,Peru,Ecuador
+135,140,1900,8,,,Peru,Brazil
+135,140,1904,23868,,,Peru,Brazil
+135,140,1905,22920,,,Peru,Brazil
+135,140,1906,13458,,,Peru,Brazil
+135,140,1907,16544,,,Peru,Brazil
+135,140,1908,10107.544,,,Peru,Brazil
+135,140,1909,17202.346,,,Peru,Brazil
+135,140,1910,7335.111,,,Peru,Brazil
+135,140,1911,8905.347,,,Peru,Brazil
+135,140,1912,3042.404,,,Peru,Brazil
+135,140,1913,4086.311,,,Peru,Brazil
+135,140,1914,1617.697,,,Peru,Brazil
+135,140,1915,4844.378,,,Peru,Brazil
+135,140,1916,15930.998,,,Peru,Brazil
+135,140,1917,28927.603,,,Peru,Brazil
+135,140,1918,27938,,,Peru,Brazil
+135,140,1919,19781.556,1,,Peru,Brazil
+135,140,1920,15577.374,1,Valor Lp.,Peru,Brazil
+135,140,1921,21078,1,Valor Lp.,Peru,Brazil
+135,140,1922,34693,1,Valor Lp.,Peru,Brazil
+135,140,1923,56640,1,Valor Lp.,Peru,Brazil
+135,140,1924,37784,1,Valor Lp.,Peru,Brazil
+135,140,1925,19593,1,Valor Lp.,Peru,Brazil
+135,140,1926,12671,1,Valor Lp.,Peru,Brazil
+135,140,1927,5990,1,Valor Lp.,Peru,Brazil
+135,140,1928,5550,1,Valor Lp.,Peru,Brazil
+135,140,1929,5954,1,Valor Lp.,Peru,Brazil
+135,140,1930,34940,1,S/O,Peru,Brazil
+135,140,1931,84637,1,S/O,Peru,Brazil
+135,140,1932,63612,1,S/O,Peru,Brazil
+135,140,1933,126999,1,S/O,Peru,Brazil
+135,140,1934,113764,1,S/O,Peru,Brazil
+135,140,1935,298247,1,S/O,Peru,Brazil
+135,140,1936,407446,1,S/O,Peru,Brazil
+135,140,1937,403013,1,S/O,Peru,Brazil
+135,140,1938,266263,1,S/O,Peru,Brazil
+135,140,1939,626304,1,S/O,Peru,Brazil
+135,140,1940,2018243,1,S/O,Peru,Brazil
+135,140,1941,3808359,1,S/O,Peru,Brazil
+135,140,1942,13063050,1,S/O,Peru,Brazil
+135,140,1943,35654864,1,S/O,Peru,Brazil
+135,140,1944,19762389,1,S/O,Peru,Brazil
+135,140,1945,16634882,1,S/O,Peru,Brazil
+135,140,1946,12307839,1,S/O,Peru,Brazil
+135,140,1947,9354015,1,S/O,Peru,Brazil
+135,140,1948,7690409,1,S/O,Peru,Brazil
+135,140,1949,5546767,1,S/O,Peru,Brazil
+135,145,1900,9836,,,Peru,Bolivia
+135,145,1901,92,,,Peru,Bolivia
+135,145,1903,12679,,,Peru,Bolivia
+135,145,1904,14761,,,Peru,Bolivia
+135,145,1905,15481,,,Peru,Bolivia
+135,145,1906,12643,,,Peru,Bolivia
+135,145,1907,1240,,,Peru,Bolivia
+135,145,1908,3212.245,,,Peru,Bolivia
+135,145,1909,1361.777,,,Peru,Bolivia
+135,145,1910,248.33,,,Peru,Bolivia
+135,145,1911,954.359,,,Peru,Bolivia
+135,145,1912,792.234,,,Peru,Bolivia
+135,145,1913,273.45,,,Peru,Bolivia
+135,145,1914,3449.833,,,Peru,Bolivia
+135,145,1915,879.794,,,Peru,Bolivia
+135,145,1916,3085.535,,,Peru,Bolivia
+135,145,1917,1981.332,,,Peru,Bolivia
+135,145,1918,7191,,,Peru,Bolivia
+135,145,1919,5805.542,1,,Peru,Bolivia
+135,145,1920,20800.912,1,Valor Lp.,Peru,Bolivia
+135,145,1921,10726,1,Valor Lp.,Peru,Bolivia
+135,145,1922,6890,1,Valor Lp.,Peru,Bolivia
+135,145,1923,6392,1,Valor Lp.,Peru,Bolivia
+135,145,1924,2806,1,Valor Lp.,Peru,Bolivia
+135,145,1925,4666,1,Valor Lp.,Peru,Bolivia
+135,145,1926,2785,1,Valor Lp.,Peru,Bolivia
+135,145,1927,4793,1,Valor Lp.,Peru,Bolivia
+135,145,1928,7439,1,Valor Lp.,Peru,Bolivia
+135,145,1929,10110,1,Valor Lp.,Peru,Bolivia
+135,145,1930,52974,1,S/O,Peru,Bolivia
+135,145,1931,50498,1,S/O,Peru,Bolivia
+135,145,1932,53557,1,S/O,Peru,Bolivia
+135,145,1933,22625,1,S/O,Peru,Bolivia
+135,145,1934,48164,1,S/O,Peru,Bolivia
+135,145,1935,52672,1,S/O,Peru,Bolivia
+135,145,1936,36382,1,S/O,Peru,Bolivia
+135,145,1937,32475,1,S/O,Peru,Bolivia
+135,145,1938,30753,1,S/O,Peru,Bolivia
+135,145,1939,17958,1,S/O,Peru,Bolivia
+135,145,1940,50272,1,S/O,Peru,Bolivia
+135,145,1941,52347,1,S/O,Peru,Bolivia
+135,145,1942,111911,1,S/O,Peru,Bolivia
+135,145,1943,461924,1,S/O,Peru,Bolivia
+135,145,1944,899827,1,S/O,Peru,Bolivia
+135,145,1945,1261994,1,S/O,Peru,Bolivia
+135,145,1946,1710146,1,S/O,Peru,Bolivia
+135,145,1947,3802295,1,S/O,Peru,Bolivia
+135,145,1948,1022969,1,S/O,Peru,Bolivia
+135,145,1949,377126,1,S/O,Peru,Bolivia
+135,150,1906,3,,,Peru,Paraguay
+135,150,1908,7.71,,,Peru,Paraguay
+135,150,1910,15.954,,,Peru,Paraguay
+135,150,1914,230.9,,,Peru,Paraguay
+135,150,1915,215.8,,,Peru,Paraguay
+135,150,1916,450,,,Peru,Paraguay
+135,150,1919,0,1,,Peru,Paraguay
+135,150,1920,4.8,1,Valor Lp.,Peru,Paraguay
+135,150,1921,0,1,Valor Lp.,Peru,Paraguay
+135,150,1922,0,1,Valor Lp.,Peru,Paraguay
+135,150,1923,103,1,Valor Lp.,Peru,Paraguay
+135,150,1924,0,1,Valor Lp.,Peru,Paraguay
+135,150,1925,23,1,Valor Lp.,Peru,Paraguay
+135,150,1926,0,1,Valor Lp.,Peru,Paraguay
+135,150,1927,0,1,Valor Lp.,Peru,Paraguay
+135,150,1928,0,1,Valor Lp.,Peru,Paraguay
+135,150,1929,1,1,Valor Lp.,Peru,Paraguay
+135,150,1930,0,1,S/O,Peru,Paraguay
+135,150,1931,41,1,S/O,Peru,Paraguay
+135,150,1932,3594,1,S/O,Peru,Paraguay
+135,150,1933,0,1,S/O,Peru,Paraguay
+135,150,1934,209,1,S/O,Peru,Paraguay
+135,150,1935,0,1,S/O,Peru,Paraguay
+135,150,1936,76,1,S/O,Peru,Paraguay
+135,150,1937,30,1,S/O,Peru,Paraguay
+135,150,1938,70,1,S/O,Peru,Paraguay
+135,150,1939,1428,1,S/O,Peru,Paraguay
+135,150,1940,130,1,S/O,Peru,Paraguay
+135,150,1941,85,1,S/O,Peru,Paraguay
+135,150,1942,10374,1,S/O,Peru,Paraguay
+135,150,1943,100894,1,S/O,Peru,Paraguay
+135,150,1944,97169,1,S/O,Peru,Paraguay
+135,150,1945,185846,1,S/O,Peru,Paraguay
+135,150,1946,233458,1,S/O,Peru,Paraguay
+135,150,1947,593934,1,S/O,Peru,Paraguay
+135,150,1948,405,1,S/O,Peru,Paraguay
+135,150,1949,267147,1,S/O,Peru,Paraguay
+135,155,1900,91414,,,Peru,Chile
+135,155,1901,64945,,,Peru,Chile
+135,155,1902,179641,,,Peru,Chile
+135,155,1903,220112,,,Peru,Chile
+135,155,1904,223456,,,Peru,Chile
+135,155,1905,247529,,,Peru,Chile
+135,155,1906,259683,,,Peru,Chile
+135,155,1907,242733,,,Peru,Chile
+135,155,1908,290876.955,,,Peru,Chile
+135,155,1909,182201.659,,,Peru,Chile
+135,155,1910,152188.905,,,Peru,Chile
+135,155,1911,76767.69,,,Peru,Chile
+135,155,1912,195706.955,,,Peru,Chile
+135,155,1913,213076.927,,,Peru,Chile
+135,155,1914,89617.66,,,Peru,Chile
+135,155,1915,94389.762,,,Peru,Chile
+135,155,1916,298768.169,,,Peru,Chile
+135,155,1917,357256.171,,,Peru,Chile
+135,155,1918,716710,,,Peru,Chile
+135,155,1919,682630.545,1,,Peru,Chile
+135,155,1920,1039876.72,1,Valor Lp.,Peru,Chile
+135,155,1921,1028147,1,Valor Lp.,Peru,Chile
+135,155,1922,407606,1,Valor Lp.,Peru,Chile
+135,155,1923,391167,1,Valor Lp.,Peru,Chile
+135,155,1924,987367,1,Valor Lp.,Peru,Chile
+135,155,1925,549539,1,Valor Lp.,Peru,Chile
+135,155,1926,410652,1,Valor Lp.,Peru,Chile
+135,155,1927,196943,1,Valor Lp.,Peru,Chile
+135,155,1928,276093,1,Valor Lp.,Peru,Chile
+135,155,1929,147128,1,Valor Lp.,Peru,Chile
+135,155,1930,2870143,1,S/O,Peru,Chile
+135,155,1931,1537705,1,S/O,Peru,Chile
+135,155,1932,1900193,1,S/O,Peru,Chile
+135,155,1933,3876634,1,S/O,Peru,Chile
+135,155,1934,7766030,1,S/O,Peru,Chile
+135,155,1935,4618415,1,S/O,Peru,Chile
+135,155,1936,4917916,1,S/O,Peru,Chile
+135,155,1937,4869029,1,S/O,Peru,Chile
+135,155,1938,5224698,1,S/O,Peru,Chile
+135,155,1939,5421885,1,S/O,Peru,Chile
+135,155,1940,6148518,1,S/O,Peru,Chile
+135,155,1941,16025048,1,S/O,Peru,Chile
+135,155,1942,17076794,1,S/O,Peru,Chile
+135,155,1943,23594552,1,S/O,Peru,Chile
+135,155,1944,27240946,1,S/O,Peru,Chile
+135,155,1945,31945635,1,S/O,Peru,Chile
+135,155,1946,41834943,1,S/O,Peru,Chile
+135,155,1947,39072312,1,S/O,Peru,Chile
+135,155,1948,34798826,1,S/O,Peru,Chile
+135,155,1949,42949728,1,S/O,Peru,Chile
+135,160,1901,13,,,Peru,Argentina
+135,160,1903,12,,,Peru,Argentina
+135,160,1904,2633,,,Peru,Argentina
+135,160,1905,56,,,Peru,Argentina
+135,160,1906,565,,,Peru,Argentina
+135,160,1907,25133,,,Peru,Argentina
+135,160,1908,1457.82,,,Peru,Argentina
+135,160,1909,249.792,,,Peru,Argentina
+135,160,1910,11282.333,,,Peru,Argentina
+135,160,1911,8767.552,,,Peru,Argentina
+135,160,1912,7006.864,,,Peru,Argentina
+135,160,1913,2729.483,,,Peru,Argentina
+135,160,1914,1935.107,,,Peru,Argentina
+135,160,1915,21719.6,,,Peru,Argentina
+135,160,1916,40.893,,,Peru,Argentina
+135,160,1917,54068.897,,,Peru,Argentina
+135,160,1918,43646,,,Peru,Argentina
+135,160,1919,70421.85799999999,1,,Peru,Argentina
+135,160,1920,456920.686,1,Valor Lp.,Peru,Argentina
+135,160,1921,24330,1,Valor Lp.,Peru,Argentina
+135,160,1922,414990,1,Valor Lp.,Peru,Argentina
+135,160,1923,527490,1,Valor Lp.,Peru,Argentina
+135,160,1924,319474,1,Valor Lp.,Peru,Argentina
+135,160,1925,147740,1,Valor Lp.,Peru,Argentina
+135,160,1926,89895,1,Valor Lp.,Peru,Argentina
+135,160,1927,299844,1,Valor Lp.,Peru,Argentina
+135,160,1928,217097,1,Valor Lp.,Peru,Argentina
+135,160,1929,624490,1,Valor Lp.,Peru,Argentina
+135,160,1930,3618912,1,S/O,Peru,Argentina
+135,160,1931,4767357,1,S/O,Peru,Argentina
+135,160,1932,4058217,1,S/O,Peru,Argentina
+135,160,1933,6238078,1,S/O,Peru,Argentina
+135,160,1934,7920301,1,S/O,Peru,Argentina
+135,160,1935,13781063,1,S/O,Peru,Argentina
+135,160,1936,17202937,1,S/O,Peru,Argentina
+135,160,1937,19092769,1,S/O,Peru,Argentina
+135,160,1938,15900644,1,S/O,Peru,Argentina
+135,160,1939,13852070,1,S/O,Peru,Argentina
+135,160,1940,24809659,1,S/O,Peru,Argentina
+135,160,1941,27556195,1,S/O,Peru,Argentina
+135,160,1942,42261763,1,S/O,Peru,Argentina
+135,160,1943,62678728,1,S/O,Peru,Argentina
+135,160,1944,93153229,1,S/O,Peru,Argentina
+135,160,1945,75582670,1,S/O,Peru,Argentina
+135,160,1946,114274295,1,S/O,Peru,Argentina
+135,160,1947,146510103,1,S/O,Peru,Argentina
+135,160,1948,192178278,1,S/O,Peru,Argentina
+135,160,1949,127724969,1,S/O,Peru,Argentina
+135,165,1900,177,,,Peru,Uruguay
+135,165,1901,3314,,,Peru,Uruguay
+135,165,1903,1351,,,Peru,Uruguay
+135,165,1904,1104,,,Peru,Uruguay
+135,165,1905,982,,,Peru,Uruguay
+135,165,1906,452,,,Peru,Uruguay
+135,165,1907,1683,,,Peru,Uruguay
+135,165,1908,4062.047,,,Peru,Uruguay
+135,165,1909,579,,,Peru,Uruguay
+135,165,1910,1525.402,,,Peru,Uruguay
+135,165,1911,2497.793,,,Peru,Uruguay
+135,165,1912,557.3440000000001,,,Peru,Uruguay
+135,165,1913,2298.386,,,Peru,Uruguay
+135,165,1914,1633.206,,,Peru,Uruguay
+135,165,1915,1486.78,,,Peru,Uruguay
+135,165,1916,5443.054,,,Peru,Uruguay
+135,165,1917,3636.813,,,Peru,Uruguay
+135,165,1918,3032,,,Peru,Uruguay
+135,165,1919,562.27,1,,Peru,Uruguay
+135,165,1920,62051.556,1,Valor Lp.,Peru,Uruguay
+135,165,1921,64839,1,Valor Lp.,Peru,Uruguay
+135,165,1922,32917,1,Valor Lp.,Peru,Uruguay
+135,165,1923,12426,1,Valor Lp.,Peru,Uruguay
+135,165,1924,31100,1,Valor Lp.,Peru,Uruguay
+135,165,1925,20840,1,Valor Lp.,Peru,Uruguay
+135,165,1926,38720,1,Valor Lp.,Peru,Uruguay
+135,165,1927,32238,1,Valor Lp.,Peru,Uruguay
+135,165,1928,51743,1,Valor Lp.,Peru,Uruguay
+135,165,1929,18892,1,Valor Lp.,Peru,Uruguay
+135,165,1930,303670,1,S/O,Peru,Uruguay
+135,165,1931,9033,1,S/O,Peru,Uruguay
+135,165,1932,97,1,S/O,Peru,Uruguay
+135,165,1933,1032,1,S/O,Peru,Uruguay
+135,165,1934,4015,1,S/O,Peru,Uruguay
+135,165,1935,775,1,S/O,Peru,Uruguay
+135,165,1936,16742,1,S/O,Peru,Uruguay
+135,165,1937,165628,1,S/O,Peru,Uruguay
+135,165,1938,738481,1,S/O,Peru,Uruguay
+135,165,1939,67090,1,S/O,Peru,Uruguay
+135,165,1940,53865,1,S/O,Peru,Uruguay
+135,165,1941,120737,1,S/O,Peru,Uruguay
+135,165,1942,239900,1,S/O,Peru,Uruguay
+135,165,1943,622340,1,S/O,Peru,Uruguay
+135,165,1944,1849488,1,S/O,Peru,Uruguay
+135,165,1945,2682180,1,S/O,Peru,Uruguay
+135,165,1946,2213674,1,S/O,Peru,Uruguay
+135,165,1947,1885889,1,S/O,Peru,Uruguay
+135,165,1948,320358,1,S/O,Peru,Uruguay
+135,165,1949,1039938,1,S/O,Peru,Uruguay
+135,200,1906,1524847.295,,,Peru,United Kingdom
+135,200,1907,1634129.347,,,Peru,United Kingdom
+135,200,1908,1547960.774,,,Peru,United Kingdom
+135,200,1909,1567897.856,,,Peru,United Kingdom
+135,200,1910,1678701.489,,,Peru,United Kingdom
+135,200,1911,1719831.898,,,Peru,United Kingdom
+135,200,1912,1367976.687,,,Peru,United Kingdom
+135,200,1913,1598605.527,,,Peru,United Kingdom
+135,200,1914,1338552.304,,,Peru,United Kingdom
+135,200,1915,662546.0330000001,,,Peru,United Kingdom
+135,200,1916,1496304.841,,,Peru,United Kingdom
+135,200,1917,1934665.92,,,Peru,United Kingdom
+135,200,1918,1566387,,,Peru,United Kingdom
+135,200,1919,1645946.639,1,,Peru,United Kingdom
+135,200,1920,2694195.452,1,Valor Lp.,Peru,United Kingdom
+135,200,1921,2275110,1,Valor Lp.,Peru,United Kingdom
+135,200,1922,2024903,1,Valor Lp.,Peru,United Kingdom
+135,200,1923,2866012,1,Valor Lp.,Peru,United Kingdom
+135,200,1924,3373882,1,Valor Lp.,Peru,United Kingdom
+135,200,1925,3414440,1,Valor Lp.,Peru,United Kingdom
+135,200,1926,2998428,1,Valor Lp.,Peru,United Kingdom
+135,200,1927,3031653,1,Valor Lp.,Peru,United Kingdom
+135,200,1928,2721756,1,Valor Lp.,Peru,United Kingdom
+135,200,1929,2845614,1,Valor Lp.,Peru,United Kingdom
+135,200,1930,23082577,1,S/O,Peru,United Kingdom
+135,200,1931,14466150,1,S/O,Peru,United Kingdom
+135,200,1932,13196195,1,S/O,Peru,United Kingdom
+135,200,1933,18662779,1,S/O,Peru,United Kingdom
+135,200,1934,29579781,1,S/O,Peru,United Kingdom
+135,200,1935,24577932,1,S/O,Peru,United Kingdom
+135,200,1936,26906952,1,S/O,Peru,United Kingdom
+135,200,1937,24149027,1,S/O,Peru,United Kingdom
+135,200,1938,26345199,1,S/O,Peru,United Kingdom
+135,200,1939,21513428,1,S/O,Peru,United Kingdom
+135,200,1940,29340690,1,S/O,Peru,United Kingdom
+135,200,1941,18160850,1,S/O,Peru,United Kingdom
+135,200,1942,18611394,1,S/O,Peru,United Kingdom
+135,200,1943,26901634,1,S/O,Peru,United Kingdom
+135,200,1944,13613244,1,S/O,Peru,United Kingdom
+135,200,1945,18326279,1,S/O,Peru,United Kingdom
+135,200,1946,52199172,1,S/O,Peru,United Kingdom
+135,200,1947,71604930,1,S/O,Peru,United Kingdom
+135,200,1948,75087605,1,S/O,Peru,United Kingdom
+135,200,1949,249826825,1,S/O,Peru,United Kingdom
+135,205,1919,0,1,,Peru,Ireland
+135,205,1920,0,1,Valor Lp.,Peru,Ireland
+135,205,1921,0,1,Valor Lp.,Peru,Ireland
+135,205,1922,0,1,Valor Lp.,Peru,Ireland
+135,205,1923,0,1,Valor Lp.,Peru,Ireland
+135,205,1924,0,1,Valor Lp.,Peru,Ireland
+135,205,1925,0,1,Valor Lp.,Peru,Ireland
+135,205,1926,0,1,Valor Lp.,Peru,Ireland
+135,205,1927,0,1,Valor Lp.,Peru,Ireland
+135,205,1928,0,1,Valor Lp.,Peru,Ireland
+135,205,1929,0,1,Valor Lp.,Peru,Ireland
+135,205,1930,6,1,S/O,Peru,Ireland
+135,205,1931,25662,1,S/O,Peru,Ireland
+135,205,1932,8528,1,S/O,Peru,Ireland
+135,205,1933,12044,1,S/O,Peru,Ireland
+135,205,1934,49157,1,S/O,Peru,Ireland
+135,205,1935,90890,1,S/O,Peru,Ireland
+135,205,1936,85348,1,S/O,Peru,Ireland
+135,205,1937,75689,1,S/O,Peru,Ireland
+135,205,1938,89150,1,S/O,Peru,Ireland
+135,205,1939,58035,1,S/O,Peru,Ireland
+135,205,1940,132584,1,S/O,Peru,Ireland
+135,205,1941,55466,1,S/O,Peru,Ireland
+135,205,1942,8714,1,S/O,Peru,Ireland
+135,205,1943,211861,1,S/O,Peru,Ireland
+135,205,1944,188425,1,S/O,Peru,Ireland
+135,205,1945,247638,1,S/O,Peru,Ireland
+135,205,1946,150022,1,S/O,Peru,Ireland
+135,205,1947,932295,1,S/O,Peru,Ireland
+135,205,1948,82837,1,S/O,Peru,Ireland
+135,205,1949,94325,1,S/O,Peru,Ireland
+135,210,1906,1977.715,,,Peru,Netherlands
+135,210,1907,5571.034,,,Peru,Netherlands
+135,210,1908,5091.37,,,Peru,Netherlands
+135,210,1909,589.143,,,Peru,Netherlands
+135,210,1910,370.785,,,Peru,Netherlands
+135,210,1911,20.88,,,Peru,Netherlands
+135,210,1912,43.05,,,Peru,Netherlands
+135,210,1913,9455.799999999999,,,Peru,Netherlands
+135,210,1914,23150.514,,,Peru,Netherlands
+135,210,1915,45680.261,,,Peru,Netherlands
+135,210,1916,23341.332,,,Peru,Netherlands
+135,210,1917,12170.21,,,Peru,Netherlands
+135,210,1918,7953,,,Peru,Netherlands
+135,210,1919,8645.522000000001,1,,Peru,Netherlands
+135,210,1920,209817.816,1,Valor Lp.,Peru,Netherlands
+135,210,1921,187436,1,Valor Lp.,Peru,Netherlands
+135,210,1922,108813,1,Valor Lp.,Peru,Netherlands
+135,210,1923,101435,1,Valor Lp.,Peru,Netherlands
+135,210,1924,229006,1,Valor Lp.,Peru,Netherlands
+135,210,1925,418046,1,Valor Lp.,Peru,Netherlands
+135,210,1926,232088,1,Valor Lp.,Peru,Netherlands
+135,210,1927,290034,1,Valor Lp.,Peru,Netherlands
+135,210,1928,264184,1,Valor Lp.,Peru,Netherlands
+135,210,1929,275134,1,Valor Lp.,Peru,Netherlands
+135,210,1930,2560827,1,S/O,Peru,Netherlands
+135,210,1931,1668459,1,S/O,Peru,Netherlands
+135,210,1932,1341181,1,S/O,Peru,Netherlands
+135,210,1933,1484606,1,S/O,Peru,Netherlands
+135,210,1934,1784588,1,S/O,Peru,Netherlands
+135,210,1935,1826143,1,S/O,Peru,Netherlands
+135,210,1936,2204931,1,S/O,Peru,Netherlands
+135,210,1937,3892551,1,S/O,Peru,Netherlands
+135,210,1938,5247510,1,S/O,Peru,Netherlands
+135,210,1939,5425266,1,S/O,Peru,Netherlands
+135,210,1940,2988214,1,S/O,Peru,Netherlands
+135,210,1941,117444,1,S/O,Peru,Netherlands
+135,210,1942,22080,1,S/O,Peru,Netherlands
+135,210,1943,13567,1,S/O,Peru,Netherlands
+135,210,1944,0,1,S/O,Peru,Netherlands
+135,210,1945,72,1,S/O,Peru,Netherlands
+135,210,1946,1077060,1,S/O,Peru,Netherlands
+135,210,1947,3500534,1,S/O,Peru,Netherlands
+135,210,1948,1222380,1,S/O,Peru,Netherlands
+135,210,1949,14554490,1,S/O,Peru,Netherlands
+135,211,1908,237261.431,,,Peru,Belgium
+135,211,1909,247324.432,,,Peru,Belgium
+135,211,1910,250595.051,,,Peru,Belgium
+135,211,1911,333982.369,,,Peru,Belgium
+135,211,1912,245226.493,,,Peru,Belgium
+135,211,1913,834138.77,,,Peru,Belgium
+135,211,1914,274595.67,,,Peru,Belgium
+135,211,1915,30316.61,,,Peru,Belgium
+135,211,1916,12221.3,,,Peru,Belgium
+135,211,1917,7035.954,,,Peru,Belgium
+135,211,1918,86,,,Peru,Belgium
+135,211,1919,0,1,,Peru,Belgium
+135,211,1920,80970.39599999999,1,Valor Lp.,Peru,Belgium
+135,211,1921,180614,1,Valor Lp.,Peru,Belgium
+135,211,1922,172415,1,Valor Lp.,Peru,Belgium
+135,211,1923,315052,1,Valor Lp.,Peru,Belgium
+135,211,1924,445365,1,Valor Lp.,Peru,Belgium
+135,211,1925,424990,1,Valor Lp.,Peru,Belgium
+135,211,1926,508973,1,Valor Lp.,Peru,Belgium
+135,211,1927,849398,1,Valor Lp.,Peru,Belgium
+135,211,1928,653049,1,Valor Lp.,Peru,Belgium
+135,211,1929,745660,1,Valor Lp.,Peru,Belgium
+135,211,1930,4866425,1,S/O,Peru,Belgium
+135,211,1931,1645748,1,S/O,Peru,Belgium
+135,211,1932,1446858,1,S/O,Peru,Belgium
+135,211,1933,1628061,1,S/O,Peru,Belgium
+135,211,1934,4397626,1,S/O,Peru,Belgium
+135,211,1935,3644252,1,S/O,Peru,Belgium
+135,211,1936,4157120,1,S/O,Peru,Belgium
+135,211,1937,5817355,1,S/O,Peru,Belgium
+135,211,1938,7228523,1,S/O,Peru,Belgium
+135,211,1939,5916607,1,S/O,Peru,Belgium
+135,211,1940,4097512,1,S/O,Peru,Belgium
+135,211,1941,366123,1,S/O,Peru,Belgium
+135,211,1942,69665,1,S/O,Peru,Belgium
+135,211,1943,77,1,S/O,Peru,Belgium
+135,211,1944,0,1,S/O,Peru,Belgium
+135,211,1945,54,1,S/O,Peru,Belgium
+135,211,1946,2959733,1,S/O,Peru,Belgium
+135,211,1947,11621835,1,S/O,Peru,Belgium
+135,211,1948,14603058,1,S/O,Peru,Belgium
+135,211,1949,55965768,1,S/O,Peru,Belgium
+135,212,1919,0,1,,Peru,Luxembourg
+135,212,1920,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1921,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1922,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1923,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1924,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1925,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1926,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1927,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1928,0,1,Valor Lp.,Peru,Luxembourg
+135,212,1929,85,1,Valor Lp.,Peru,Luxembourg
+135,212,1930,0,1,S/O,Peru,Luxembourg
+135,212,1931,43016,1,S/O,Peru,Luxembourg
+135,212,1932,43480,1,S/O,Peru,Luxembourg
+135,212,1933,38011,1,S/O,Peru,Luxembourg
+135,212,1934,295561,1,S/O,Peru,Luxembourg
+135,212,1935,200830,1,S/O,Peru,Luxembourg
+135,212,1936,55188,1,S/O,Peru,Luxembourg
+135,212,1937,917939,1,S/O,Peru,Luxembourg
+135,212,1938,467798,1,S/O,Peru,Luxembourg
+135,212,1939,308162,1,S/O,Peru,Luxembourg
+135,212,1940,211627,1,S/O,Peru,Luxembourg
+135,212,1941,0,1,S/O,Peru,Luxembourg
+135,212,1942,0,1,S/O,Peru,Luxembourg
+135,212,1943,0,1,S/O,Peru,Luxembourg
+135,212,1944,0,1,S/O,Peru,Luxembourg
+135,212,1945,0,1,S/O,Peru,Luxembourg
+135,212,1946,1326010,1,S/O,Peru,Luxembourg
+135,212,1947,1440192,1,S/O,Peru,Luxembourg
+135,212,1948,453620,1,S/O,Peru,Luxembourg
+135,212,1949,9677867,1,S/O,Peru,Luxembourg
+135,220,1906,288354.578,,,Peru,France
+135,220,1907,291958.333,,,Peru,France
+135,220,1908,249628.702,,,Peru,France
+135,220,1909,195579.484,,,Peru,France
+135,220,1910,485903.605,,,Peru,France
+135,220,1911,289529.643,,,Peru,France
+135,220,1912,318431.128,,,Peru,France
+135,220,1913,280492.443,,,Peru,France
+135,220,1914,155974.143,,,Peru,France
+135,220,1915,89066.751,,,Peru,France
+135,220,1916,196264.835,,,Peru,France
+135,220,1917,225279.899,,,Peru,France
+135,220,1918,134836,,,Peru,France
+135,220,1919,153017.942,1,,Peru,France
+135,220,1920,546861.101,1,Valor Lp.,Peru,France
+135,220,1921,633414,1,Valor Lp.,Peru,France
+135,220,1922,323394,1,Valor Lp.,Peru,France
+135,220,1923,552243,1,Valor Lp.,Peru,France
+135,220,1924,723448,1,Valor Lp.,Peru,France
+135,220,1925,663650,1,Valor Lp.,Peru,France
+135,220,1926,461468,1,Valor Lp.,Peru,France
+135,220,1927,464955,1,Valor Lp.,Peru,France
+135,220,1928,503125,1,Valor Lp.,Peru,France
+135,220,1929,772889,1,Valor Lp.,Peru,France
+135,220,1930,5834620,1,S/O,Peru,France
+135,220,1931,4040424,1,S/O,Peru,France
+135,220,1932,3001167,1,S/O,Peru,France
+135,220,1933,4570726,1,S/O,Peru,France
+135,220,1934,14456984,1,S/O,Peru,France
+135,220,1935,5429437,1,S/O,Peru,France
+135,220,1936,4000762,1,S/O,Peru,France
+135,220,1937,4831190,1,S/O,Peru,France
+135,220,1938,6968574,1,S/O,Peru,France
+135,220,1939,9069792,1,S/O,Peru,France
+135,220,1940,5621485,1,S/O,Peru,France
+135,220,1941,249896,1,S/O,Peru,France
+135,220,1942,74943,1,S/O,Peru,France
+135,220,1943,14330,1,S/O,Peru,France
+135,220,1944,6571,1,S/O,Peru,France
+135,220,1945,12736,1,S/O,Peru,France
+135,220,1946,1331759,1,S/O,Peru,France
+135,220,1947,6113037,1,S/O,Peru,France
+135,220,1948,5069333,1,S/O,Peru,France
+135,220,1949,26486217,1,S/O,Peru,France
+135,225,1906,45.6,,,Peru,Switzerland
+135,225,1908,108.55,,,Peru,Switzerland
+135,225,1919,0,1,,Peru,Switzerland
+135,225,1920,336.325,1,Valor Lp.,Peru,Switzerland
+135,225,1921,1521,1,Valor Lp.,Peru,Switzerland
+135,225,1922,2748,1,Valor Lp.,Peru,Switzerland
+135,225,1923,54750,1,Valor Lp.,Peru,Switzerland
+135,225,1924,67235,1,Valor Lp.,Peru,Switzerland
+135,225,1925,50472,1,Valor Lp.,Peru,Switzerland
+135,225,1926,440,1,Valor Lp.,Peru,Switzerland
+135,225,1927,911,1,Valor Lp.,Peru,Switzerland
+135,225,1928,115,1,Valor Lp.,Peru,Switzerland
+135,225,1929,72325,1,Valor Lp.,Peru,Switzerland
+135,225,1930,797983,1,S/O,Peru,Switzerland
+135,225,1931,1110914,1,S/O,Peru,Switzerland
+135,225,1932,890624,1,S/O,Peru,Switzerland
+135,225,1933,1573446,1,S/O,Peru,Switzerland
+135,225,1934,1438987,1,S/O,Peru,Switzerland
+135,225,1935,1775129,1,S/O,Peru,Switzerland
+135,225,1936,1997447,1,S/O,Peru,Switzerland
+135,225,1937,2962385,1,S/O,Peru,Switzerland
+135,225,1938,3508783,1,S/O,Peru,Switzerland
+135,225,1939,3154439,1,S/O,Peru,Switzerland
+135,225,1940,4949977,1,S/O,Peru,Switzerland
+135,225,1941,5074595,1,S/O,Peru,Switzerland
+135,225,1942,4420156,1,S/O,Peru,Switzerland
+135,225,1943,6062081,1,S/O,Peru,Switzerland
+135,225,1944,10057483,1,S/O,Peru,Switzerland
+135,225,1945,7181424,1,S/O,Peru,Switzerland
+135,225,1946,23354689,1,S/O,Peru,Switzerland
+135,225,1947,23788675,1,S/O,Peru,Switzerland
+135,225,1948,23445124,1,S/O,Peru,Switzerland
+135,225,1949,64343589,1,S/O,Peru,Switzerland
+135,230,1908,59310.585,,,Peru,Spain
+135,230,1909,52519.015,,,Peru,Spain
+135,230,1910,52308.388,,,Peru,Spain
+135,230,1911,79596.984,,,Peru,Spain
+135,230,1912,86754.374,,,Peru,Spain
+135,230,1913,73147.465,,,Peru,Spain
+135,230,1914,62547.027,,,Peru,Spain
+135,230,1915,45233.438,,,Peru,Spain
+135,230,1916,170118.862,,,Peru,Spain
+135,230,1917,357620.549,,,Peru,Spain
+135,230,1918,203290,,,Peru,Spain
+135,230,1919,278138.741,1,,Peru,Spain
+135,230,1920,441060.293,1,Valor Lp.,Peru,Spain
+135,230,1921,370284,1,Valor Lp.,Peru,Spain
+135,230,1922,143032,1,Valor Lp.,Peru,Spain
+135,230,1923,193819,1,Valor Lp.,Peru,Spain
+135,230,1924,209629,1,Valor Lp.,Peru,Spain
+135,230,1925,190679,1,Valor Lp.,Peru,Spain
+135,230,1926,166445,1,Valor Lp.,Peru,Spain
+135,230,1927,137952,1,Valor Lp.,Peru,Spain
+135,230,1928,158975,1,Valor Lp.,Peru,Spain
+135,230,1929,152024,1,Valor Lp.,Peru,Spain
+135,230,1930,1183221,1,S/O,Peru,Spain
+135,230,1931,940234,1,S/O,Peru,Spain
+135,230,1932,784112,1,S/O,Peru,Spain
+135,230,1933,1027524,1,S/O,Peru,Spain
+135,230,1934,1655769,1,S/O,Peru,Spain
+135,230,1935,1555171,1,S/O,Peru,Spain
+135,230,1936,1186091,1,S/O,Peru,Spain
+135,230,1937,329076,1,S/O,Peru,Spain
+135,230,1938,318992,1,S/O,Peru,Spain
+135,230,1939,255674,1,S/O,Peru,Spain
+135,230,1940,532451,1,S/O,Peru,Spain
+135,230,1941,758691,1,S/O,Peru,Spain
+135,230,1942,266337,1,S/O,Peru,Spain
+135,230,1943,547334,1,S/O,Peru,Spain
+135,230,1944,509219,1,S/O,Peru,Spain
+135,230,1945,616820,1,S/O,Peru,Spain
+135,230,1946,1524940,1,S/O,Peru,Spain
+135,230,1947,1567442,1,S/O,Peru,Spain
+135,230,1948,739974,1,S/O,Peru,Spain
+135,230,1949,1440010,1,S/O,Peru,Spain
+135,231,1919,0,1,,Peru,Gibraltar
+135,231,1920,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1921,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1922,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1923,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1924,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1925,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1926,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1927,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1928,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1929,0,1,Valor Lp.,Peru,Gibraltar
+135,231,1930,0,1,S/O,Peru,Gibraltar
+135,231,1931,0,1,S/O,Peru,Gibraltar
+135,231,1932,19,1,S/O,Peru,Gibraltar
+135,231,1933,0,1,S/O,Peru,Gibraltar
+135,231,1934,0,1,S/O,Peru,Gibraltar
+135,231,1935,0,1,S/O,Peru,Gibraltar
+135,231,1936,2523,1,S/O,Peru,Gibraltar
+135,231,1937,108,1,S/O,Peru,Gibraltar
+135,231,1938,0,1,S/O,Peru,Gibraltar
+135,231,1939,0,1,S/O,Peru,Gibraltar
+135,231,1940,0,1,S/O,Peru,Gibraltar
+135,231,1941,0,1,S/O,Peru,Gibraltar
+135,231,1942,0,1,S/O,Peru,Gibraltar
+135,231,1943,0,1,S/O,Peru,Gibraltar
+135,231,1944,0,1,S/O,Peru,Gibraltar
+135,231,1945,0,1,S/O,Peru,Gibraltar
+135,231,1946,0,1,S/O,Peru,Gibraltar
+135,231,1947,0,1,S/O,Peru,Gibraltar
+135,231,1948,0,1,S/O,Peru,Gibraltar
+135,231,1949,0,1,S/O,Peru,Gibraltar
+135,232,1919,0,1,,Peru,Andorra
+135,232,1920,0,1,Valor Lp.,Peru,Andorra
+135,232,1921,0,1,Valor Lp.,Peru,Andorra
+135,232,1922,0,1,Valor Lp.,Peru,Andorra
+135,232,1923,0,1,Valor Lp.,Peru,Andorra
+135,232,1924,0,1,Valor Lp.,Peru,Andorra
+135,232,1925,0,1,Valor Lp.,Peru,Andorra
+135,232,1926,0,1,Valor Lp.,Peru,Andorra
+135,232,1927,0,1,Valor Lp.,Peru,Andorra
+135,232,1928,0,1,Valor Lp.,Peru,Andorra
+135,232,1929,0,1,Valor Lp.,Peru,Andorra
+135,232,1930,0,1,S/O,Peru,Andorra
+135,232,1931,261,1,S/O,Peru,Andorra
+135,232,1932,2845,1,S/O,Peru,Andorra
+135,232,1933,1426,1,S/O,Peru,Andorra
+135,232,1934,0,1,S/O,Peru,Andorra
+135,232,1935,0,1,S/O,Peru,Andorra
+135,232,1936,0,1,S/O,Peru,Andorra
+135,232,1937,0,1,S/O,Peru,Andorra
+135,232,1938,0,1,S/O,Peru,Andorra
+135,232,1939,0,1,S/O,Peru,Andorra
+135,232,1940,0,1,S/O,Peru,Andorra
+135,232,1941,0,1,S/O,Peru,Andorra
+135,232,1942,0,1,S/O,Peru,Andorra
+135,232,1943,0,1,S/O,Peru,Andorra
+135,232,1944,0,1,S/O,Peru,Andorra
+135,232,1945,0,1,S/O,Peru,Andorra
+135,232,1946,0,1,S/O,Peru,Andorra
+135,232,1947,0,1,S/O,Peru,Andorra
+135,232,1948,0,1,S/O,Peru,Andorra
+135,232,1949,0,1,S/O,Peru,Andorra
+135,235,1906,36262.306,,,Peru,Portugal
+135,235,1907,45275.457,,,Peru,Portugal
+135,235,1908,27422.261,,,Peru,Portugal
+135,235,1909,28809.304,,,Peru,Portugal
+135,235,1910,42848.234,,,Peru,Portugal
+135,235,1911,21061.108,,,Peru,Portugal
+135,235,1912,24087.309,,,Peru,Portugal
+135,235,1913,17734.781,,,Peru,Portugal
+135,235,1914,7196.209,,,Peru,Portugal
+135,235,1915,6789.368,,,Peru,Portugal
+135,235,1916,10896.618,,,Peru,Portugal
+135,235,1917,19134.929,,,Peru,Portugal
+135,235,1918,8801,,,Peru,Portugal
+135,235,1919,7390.966,1,,Peru,Portugal
+135,235,1920,10457.941,1,Valor Lp.,Peru,Portugal
+135,235,1921,8213,1,Valor Lp.,Peru,Portugal
+135,235,1922,2855,1,Valor Lp.,Peru,Portugal
+135,235,1923,4640,1,Valor Lp.,Peru,Portugal
+135,235,1924,6908,1,Valor Lp.,Peru,Portugal
+135,235,1925,9577,1,Valor Lp.,Peru,Portugal
+135,235,1926,10457,1,Valor Lp.,Peru,Portugal
+135,235,1927,8796,1,Valor Lp.,Peru,Portugal
+135,235,1928,9995,1,Valor Lp.,Peru,Portugal
+135,235,1929,10590,1,Valor Lp.,Peru,Portugal
+135,235,1930,117722,1,S/O,Peru,Portugal
+135,235,1931,92013,1,S/O,Peru,Portugal
+135,235,1932,60531,1,S/O,Peru,Portugal
+135,235,1933,106383,1,S/O,Peru,Portugal
+135,235,1934,164882,1,S/O,Peru,Portugal
+135,235,1935,123716,1,S/O,Peru,Portugal
+135,235,1936,191331,1,S/O,Peru,Portugal
+135,235,1937,228396,1,S/O,Peru,Portugal
+135,235,1938,287006,1,S/O,Peru,Portugal
+135,235,1939,342935,1,S/O,Peru,Portugal
+135,235,1940,520308,1,S/O,Peru,Portugal
+135,235,1941,521829,1,S/O,Peru,Portugal
+135,235,1942,524479,1,S/O,Peru,Portugal
+135,235,1943,983312,1,S/O,Peru,Portugal
+135,235,1944,840634,1,S/O,Peru,Portugal
+135,235,1945,649108,1,S/O,Peru,Portugal
+135,235,1946,1667786,1,S/O,Peru,Portugal
+135,235,1947,1958624,1,S/O,Peru,Portugal
+135,235,1948,1286808,1,S/O,Peru,Portugal
+135,235,1949,5027317,1,S/O,Peru,Portugal
+135,255,1900,360599,,,Peru,Germany
+135,255,1901,456076,,,Peru,Germany
+135,255,1902,624421,,,Peru,Germany
+135,255,1903,448315,,,Peru,Germany
+135,255,1904,695618,,,Peru,Germany
+135,255,1905,679156,,,Peru,Germany
+135,255,1906,778964,,,Peru,Germany
+135,255,1907,893434,,,Peru,Germany
+135,255,1908,856350.774,,,Peru,Germany
+135,255,1909,687232.833,,,Peru,Germany
+135,255,1910,790710.835,,,Peru,Germany
+135,255,1911,946206.701,,,Peru,Germany
+135,255,1912,930397.162,,,Peru,Germany
+135,255,1913,1055974.788,,,Peru,Germany
+135,255,1914,647003.203,,,Peru,Germany
+135,255,1915,95676.09600000001,,,Peru,Germany
+135,255,1916,12455.34,,,Peru,Germany
+135,255,1917,4202.969,,,Peru,Germany
+135,255,1918,441,,,Peru,Germany
+135,255,1919,111.825,1,,Peru,Germany
+135,255,1920,312986.481,1,Valor Lp.,Peru,Germany
+135,255,1921,740980,1,Valor Lp.,Peru,Germany
+135,255,1922,1146166,1,Valor Lp.,Peru,Germany
+135,255,1923,1480093,1,Valor Lp.,Peru,Germany
+135,255,1924,1855733,1,Valor Lp.,Peru,Germany
+135,255,1925,2028574,1,Valor Lp.,Peru,Germany
+135,255,1926,1823581,1,Valor Lp.,Peru,Germany
+135,255,1927,1893823,1,Valor Lp.,Peru,Germany
+135,255,1928,1716798,1,Valor Lp.,Peru,Germany
+135,255,1929,1901224,1,Valor Lp.,Peru,Germany
+135,255,1930,16845676,1,S/O,Peru,Germany
+135,255,1931,9561108,1,S/O,Peru,Germany
+135,255,1932,8149795,1,S/O,Peru,Germany
+135,255,1933,11101872,1,S/O,Peru,Germany
+135,255,1934,15439290,1,S/O,Peru,Germany
+135,255,1935,26677665,1,S/O,Peru,Germany
+135,255,1936,38982976,1,S/O,Peru,Germany
+135,255,1937,46271449,1,S/O,Peru,Germany
+135,255,1938,52823065,1,S/O,Peru,Germany
+135,255,1939,37628448,1,S/O,Peru,Germany
+135,255,1940,4481733,1,S/O,Peru,Germany
+135,255,1941,4260246,1,S/O,Peru,Germany
+135,255,1942,2497,1,S/O,Peru,Germany
+135,255,1943,890,1,S/O,Peru,Germany
+135,255,1944,8093,1,S/O,Peru,Germany
+135,255,1945,0,1,S/O,Peru,Germany
+135,255,1946,2340,1,S/O,Peru,Germany
+135,255,1947,168098,1,S/O,Peru,Germany
+135,255,1948,583438,1,S/O,Peru,Germany
+135,255,1949,20774876,1,S/O,Peru,Germany
+135,256,1919,0,1,,Peru,Saar
+135,256,1920,0,1,Valor Lp.,Peru,Saar
+135,256,1921,0,1,Valor Lp.,Peru,Saar
+135,256,1922,0,1,Valor Lp.,Peru,Saar
+135,256,1923,0,1,Valor Lp.,Peru,Saar
+135,256,1924,0,1,Valor Lp.,Peru,Saar
+135,256,1925,0,1,Valor Lp.,Peru,Saar
+135,256,1926,0,1,Valor Lp.,Peru,Saar
+135,256,1927,0,1,Valor Lp.,Peru,Saar
+135,256,1928,0,1,Valor Lp.,Peru,Saar
+135,256,1929,0,1,Valor Lp.,Peru,Saar
+135,256,1930,0,1,S/O,Peru,Saar
+135,256,1931,0,1,S/O,Peru,Saar
+135,256,1932,0,1,S/O,Peru,Saar
+135,256,1933,0,1,S/O,Peru,Saar
+135,256,1934,2,1,S/O,Peru,Saar
+135,256,1935,0,1,S/O,Peru,Saar
+135,256,1936,0,1,S/O,Peru,Saar
+135,256,1937,0,1,S/O,Peru,Saar
+135,256,1938,0,1,S/O,Peru,Saar
+135,256,1939,0,1,S/O,Peru,Saar
+135,256,1940,0,1,S/O,Peru,Saar
+135,256,1941,0,1,S/O,Peru,Saar
+135,256,1942,0,1,S/O,Peru,Saar
+135,256,1943,0,1,S/O,Peru,Saar
+135,256,1944,0,1,S/O,Peru,Saar
+135,256,1945,0,1,S/O,Peru,Saar
+135,256,1946,0,1,S/O,Peru,Saar
+135,256,1947,0,1,S/O,Peru,Saar
+135,256,1948,0,1,S/O,Peru,Saar
+135,256,1949,0,1,S/O,Peru,Saar
+135,290,1919,0,1,,Peru,Poland
+135,290,1920,0,1,Valor Lp.,Peru,Poland
+135,290,1921,0,1,Valor Lp.,Peru,Poland
+135,290,1922,0,1,Valor Lp.,Peru,Poland
+135,290,1923,0,1,Valor Lp.,Peru,Poland
+135,290,1924,0,1,Valor Lp.,Peru,Poland
+135,290,1925,0,1,Valor Lp.,Peru,Poland
+135,290,1926,0,1,Valor Lp.,Peru,Poland
+135,290,1927,0,1,Valor Lp.,Peru,Poland
+135,290,1928,0,1,Valor Lp.,Peru,Poland
+135,290,1929,4,1,Valor Lp.,Peru,Poland
+135,290,1930,0,1,S/O,Peru,Poland
+135,290,1931,35392,1,S/O,Peru,Poland
+135,290,1932,428052,1,S/O,Peru,Poland
+135,290,1933,87323,1,S/O,Peru,Poland
+135,290,1934,152312,1,S/O,Peru,Poland
+135,290,1935,196720,1,S/O,Peru,Poland
+135,290,1936,174159,1,S/O,Peru,Poland
+135,290,1937,300501,1,S/O,Peru,Poland
+135,290,1938,252036,1,S/O,Peru,Poland
+135,290,1939,428824,1,S/O,Peru,Poland
+135,290,1940,29453,1,S/O,Peru,Poland
+135,290,1941,117,1,S/O,Peru,Poland
+135,290,1942,0,1,S/O,Peru,Poland
+135,290,1943,0,1,S/O,Peru,Poland
+135,290,1944,0,1,S/O,Peru,Poland
+135,290,1945,0,1,S/O,Peru,Poland
+135,290,1946,0,1,S/O,Peru,Poland
+135,290,1947,82062,1,S/O,Peru,Poland
+135,290,1948,92,1,S/O,Peru,Poland
+135,290,1949,232642,1,S/O,Peru,Poland
+135,291,1919,0,1,,Peru,Danzig
+135,291,1920,0,1,Valor Lp.,Peru,Danzig
+135,291,1921,0,1,Valor Lp.,Peru,Danzig
+135,291,1922,0,1,Valor Lp.,Peru,Danzig
+135,291,1923,0,1,Valor Lp.,Peru,Danzig
+135,291,1924,0,1,Valor Lp.,Peru,Danzig
+135,291,1925,0,1,Valor Lp.,Peru,Danzig
+135,291,1926,0,1,Valor Lp.,Peru,Danzig
+135,291,1927,0,1,Valor Lp.,Peru,Danzig
+135,291,1928,0,1,Valor Lp.,Peru,Danzig
+135,291,1929,0,1,Valor Lp.,Peru,Danzig
+135,291,1930,0,1,S/O,Peru,Danzig
+135,291,1931,3321,1,S/O,Peru,Danzig
+135,291,1932,462,1,S/O,Peru,Danzig
+135,291,1933,0,1,S/O,Peru,Danzig
+135,291,1934,125,1,S/O,Peru,Danzig
+135,291,1935,646,1,S/O,Peru,Danzig
+135,291,1936,6,1,S/O,Peru,Danzig
+135,291,1937,290,1,S/O,Peru,Danzig
+135,291,1938,124,1,S/O,Peru,Danzig
+135,291,1939,0,1,S/O,Peru,Danzig
+135,291,1940,0,1,S/O,Peru,Danzig
+135,291,1941,801,1,S/O,Peru,Danzig
+135,291,1942,0,1,S/O,Peru,Danzig
+135,291,1943,0,1,S/O,Peru,Danzig
+135,291,1944,0,1,S/O,Peru,Danzig
+135,291,1945,0,1,S/O,Peru,Danzig
+135,291,1946,0,1,S/O,Peru,Danzig
+135,291,1947,24,1,S/O,Peru,Danzig
+135,291,1948,11,1,S/O,Peru,Danzig
+135,291,1949,0,1,S/O,Peru,Danzig
+135,305,1900,2336,,,Peru,Austria
+135,305,1904,63,,,Peru,Austria
+135,305,1905,330,,,Peru,Austria
+135,305,1906,519,,,Peru,Austria
+135,305,1907,126,,,Peru,Austria
+135,305,1908,36.612,,,Peru,Austria
+135,305,1911,125.068,,,Peru,Austria
+135,305,1912,141.132,,,Peru,Austria
+135,305,1913,266.316,,,Peru,Austria
+135,305,1914,390.405,,,Peru,Austria
+135,305,1919,0,1,,Peru,Austria
+135,305,1920,0,1,Valor Lp.,Peru,Austria
+135,305,1921,0,1,Valor Lp.,Peru,Austria
+135,305,1922,626,1,Valor Lp.,Peru,Austria
+135,305,1923,1174,1,Valor Lp.,Peru,Austria
+135,305,1924,2375,1,Valor Lp.,Peru,Austria
+135,305,1925,3097,1,Valor Lp.,Peru,Austria
+135,305,1926,26,1,Valor Lp.,Peru,Austria
+135,305,1927,639,1,Valor Lp.,Peru,Austria
+135,305,1928,217,1,Valor Lp.,Peru,Austria
+135,305,1929,4280,1,Valor Lp.,Peru,Austria
+135,305,1930,40925,1,S/O,Peru,Austria
+135,305,1931,144679,1,S/O,Peru,Austria
+135,305,1932,596221,1,S/O,Peru,Austria
+135,305,1933,321982,1,S/O,Peru,Austria
+135,305,1934,227397,1,S/O,Peru,Austria
+135,305,1935,334395,1,S/O,Peru,Austria
+135,305,1936,317727,1,S/O,Peru,Austria
+135,305,1937,459975,1,S/O,Peru,Austria
+135,305,1938,321064,1,S/O,Peru,Austria
+135,305,1939,173709,1,S/O,Peru,Austria
+135,305,1940,56777,1,S/O,Peru,Austria
+135,305,1941,0,1,S/O,Peru,Austria
+135,305,1942,0,1,S/O,Peru,Austria
+135,305,1943,0,1,S/O,Peru,Austria
+135,305,1944,0,1,S/O,Peru,Austria
+135,305,1945,109989,1,S/O,Peru,Austria
+135,305,1946,0,1,S/O,Peru,Austria
+135,305,1947,131569,1,S/O,Peru,Austria
+135,305,1948,148167,1,S/O,Peru,Austria
+135,305,1949,12372919,1,S/O,Peru,Austria
+135,310,1919,0,1,,Peru,Hungary
+135,310,1920,0,1,Valor Lp.,Peru,Hungary
+135,310,1921,0,1,Valor Lp.,Peru,Hungary
+135,310,1922,0,1,Valor Lp.,Peru,Hungary
+135,310,1923,0,1,Valor Lp.,Peru,Hungary
+135,310,1924,0,1,Valor Lp.,Peru,Hungary
+135,310,1925,0,1,Valor Lp.,Peru,Hungary
+135,310,1926,0,1,Valor Lp.,Peru,Hungary
+135,310,1927,40,1,Valor Lp.,Peru,Hungary
+135,310,1928,0,1,Valor Lp.,Peru,Hungary
+135,310,1929,284,1,Valor Lp.,Peru,Hungary
+135,310,1930,4925,1,S/O,Peru,Hungary
+135,310,1931,43887,1,S/O,Peru,Hungary
+135,310,1932,59369,1,S/O,Peru,Hungary
+135,310,1933,105616,1,S/O,Peru,Hungary
+135,310,1934,179046,1,S/O,Peru,Hungary
+135,310,1935,133315,1,S/O,Peru,Hungary
+135,310,1936,367350,1,S/O,Peru,Hungary
+135,310,1937,608643,1,S/O,Peru,Hungary
+135,310,1938,664011,1,S/O,Peru,Hungary
+135,310,1939,739154,1,S/O,Peru,Hungary
+135,310,1940,1014479,1,S/O,Peru,Hungary
+135,310,1941,32303,1,S/O,Peru,Hungary
+135,310,1942,349,1,S/O,Peru,Hungary
+135,310,1943,0,1,S/O,Peru,Hungary
+135,310,1944,0,1,S/O,Peru,Hungary
+135,310,1945,0,1,S/O,Peru,Hungary
+135,310,1946,0,1,S/O,Peru,Hungary
+135,310,1947,90724,1,S/O,Peru,Hungary
+135,310,1948,24471,1,S/O,Peru,Hungary
+135,310,1949,333480,1,S/O,Peru,Hungary
+135,315,1919,0,1,,Peru,Czechoslovakia
+135,315,1920,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1921,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1922,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1923,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1924,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1925,547,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1926,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1927,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1928,0,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1929,6799,1,Valor Lp.,Peru,Czechoslovakia
+135,315,1930,31498,1,S/O,Peru,Czechoslovakia
+135,315,1931,768672,1,S/O,Peru,Czechoslovakia
+135,315,1932,398577,1,S/O,Peru,Czechoslovakia
+135,315,1933,860391,1,S/O,Peru,Czechoslovakia
+135,315,1934,5414381,1,S/O,Peru,Czechoslovakia
+135,315,1935,1276030,1,S/O,Peru,Czechoslovakia
+135,315,1936,1489241,1,S/O,Peru,Czechoslovakia
+135,315,1937,1921062,1,S/O,Peru,Czechoslovakia
+135,315,1938,2759603,1,S/O,Peru,Czechoslovakia
+135,315,1939,3460575,1,S/O,Peru,Czechoslovakia
+135,315,1940,190569,1,S/O,Peru,Czechoslovakia
+135,315,1941,56579,1,S/O,Peru,Czechoslovakia
+135,315,1942,0,1,S/O,Peru,Czechoslovakia
+135,315,1943,4804,1,S/O,Peru,Czechoslovakia
+135,315,1944,1724,1,S/O,Peru,Czechoslovakia
+135,315,1945,0,1,S/O,Peru,Czechoslovakia
+135,315,1946,130554,1,S/O,Peru,Czechoslovakia
+135,315,1947,2314325,1,S/O,Peru,Czechoslovakia
+135,315,1948,4244885,1,S/O,Peru,Czechoslovakia
+135,315,1949,11316793,1,S/O,Peru,Czechoslovakia
+135,325,1906,179448.385,,,Peru,Italy
+135,325,1907,181621.278,,,Peru,Italy
+135,325,1908,185006.143,,,Peru,Italy
+135,325,1909,150711.487,,,Peru,Italy
+135,325,1910,167790.291,,,Peru,Italy
+135,325,1911,199450.306,,,Peru,Italy
+135,325,1912,254707.017,,,Peru,Italy
+135,325,1913,254473.212,,,Peru,Italy
+135,325,1914,201632,,,Peru,Italy
+135,325,1915,157831.449,,,Peru,Italy
+135,325,1916,237247.544,,,Peru,Italy
+135,325,1917,248707.223,,,Peru,Italy
+135,325,1918,138370,,,Peru,Italy
+135,325,1919,111616.347,1,,Peru,Italy
+135,325,1920,411235.168,1,Valor Lp.,Peru,Italy
+135,325,1921,491921,1,Valor Lp.,Peru,Italy
+135,325,1922,300945,1,Valor Lp.,Peru,Italy
+135,325,1923,595846,1,Valor Lp.,Peru,Italy
+135,325,1924,866866,1,Valor Lp.,Peru,Italy
+135,325,1925,806594,1,Valor Lp.,Peru,Italy
+135,325,1926,675711,1,Valor Lp.,Peru,Italy
+135,325,1927,674634,1,Valor Lp.,Peru,Italy
+135,325,1928,591678,1,Valor Lp.,Peru,Italy
+135,325,1929,749546,1,Valor Lp.,Peru,Italy
+135,325,1930,4977262,1,S/O,Peru,Italy
+135,325,1931,3250064,1,S/O,Peru,Italy
+135,325,1932,3160104,1,S/O,Peru,Italy
+135,325,1933,3859227,1,S/O,Peru,Italy
+135,325,1934,3932709,1,S/O,Peru,Italy
+135,325,1935,5982438,1,S/O,Peru,Italy
+135,325,1936,3423521,1,S/O,Peru,Italy
+135,325,1937,4250798,1,S/O,Peru,Italy
+135,325,1938,6626886,1,S/O,Peru,Italy
+135,325,1939,5222531,1,S/O,Peru,Italy
+135,325,1940,7908123,1,S/O,Peru,Italy
+135,325,1941,298046,1,S/O,Peru,Italy
+135,325,1942,21532,1,S/O,Peru,Italy
+135,325,1943,9324,1,S/O,Peru,Italy
+135,325,1944,146,1,S/O,Peru,Italy
+135,325,1945,12670,1,S/O,Peru,Italy
+135,325,1946,5262245,1,S/O,Peru,Italy
+135,325,1947,15737935,1,S/O,Peru,Italy
+135,325,1948,14659546,1,S/O,Peru,Italy
+135,325,1949,35089784,1,S/O,Peru,Italy
+135,338,1919,0,1,,Peru,Malta
+135,338,1920,0,1,Valor Lp.,Peru,Malta
+135,338,1921,0,1,Valor Lp.,Peru,Malta
+135,338,1922,0,1,Valor Lp.,Peru,Malta
+135,338,1923,0,1,Valor Lp.,Peru,Malta
+135,338,1924,0,1,Valor Lp.,Peru,Malta
+135,338,1925,0,1,Valor Lp.,Peru,Malta
+135,338,1926,0,1,Valor Lp.,Peru,Malta
+135,338,1927,0,1,Valor Lp.,Peru,Malta
+135,338,1928,0,1,Valor Lp.,Peru,Malta
+135,338,1929,0,1,Valor Lp.,Peru,Malta
+135,338,1930,1052,1,S/O,Peru,Malta
+135,338,1931,13276,1,S/O,Peru,Malta
+135,338,1932,631,1,S/O,Peru,Malta
+135,338,1933,6607,1,S/O,Peru,Malta
+135,338,1934,5347,1,S/O,Peru,Malta
+135,338,1935,0,1,S/O,Peru,Malta
+135,338,1936,2261,1,S/O,Peru,Malta
+135,338,1937,0,1,S/O,Peru,Malta
+135,338,1938,553,1,S/O,Peru,Malta
+135,338,1939,725,1,S/O,Peru,Malta
+135,338,1940,18136,1,S/O,Peru,Malta
+135,338,1941,821,1,S/O,Peru,Malta
+135,338,1942,0,1,S/O,Peru,Malta
+135,338,1943,0,1,S/O,Peru,Malta
+135,338,1944,10597,1,S/O,Peru,Malta
+135,338,1945,13126,1,S/O,Peru,Malta
+135,338,1946,0,1,S/O,Peru,Malta
+135,338,1947,36,1,S/O,Peru,Malta
+135,338,1948,0,1,S/O,Peru,Malta
+135,338,1949,0,1,S/O,Peru,Malta
+135,345,1919,0,1,,Peru,Yugoslavia
+135,345,1920,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1921,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1922,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1923,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1924,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1925,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1926,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1927,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1928,0,1,Valor Lp.,Peru,Yugoslavia
+135,345,1929,1410,1,Valor Lp.,Peru,Yugoslavia
+135,345,1930,1084,1,S/O,Peru,Yugoslavia
+135,345,1931,3142,1,S/O,Peru,Yugoslavia
+135,345,1932,691,1,S/O,Peru,Yugoslavia
+135,345,1933,9831,1,S/O,Peru,Yugoslavia
+135,345,1934,11460,1,S/O,Peru,Yugoslavia
+135,345,1935,9516,1,S/O,Peru,Yugoslavia
+135,345,1936,1650,1,S/O,Peru,Yugoslavia
+135,345,1937,9515,1,S/O,Peru,Yugoslavia
+135,345,1938,129279,1,S/O,Peru,Yugoslavia
+135,345,1939,84556,1,S/O,Peru,Yugoslavia
+135,345,1940,103626,1,S/O,Peru,Yugoslavia
+135,345,1941,106911,1,S/O,Peru,Yugoslavia
+135,345,1942,0,1,S/O,Peru,Yugoslavia
+135,345,1943,0,1,S/O,Peru,Yugoslavia
+135,345,1944,0,1,S/O,Peru,Yugoslavia
+135,345,1945,0,1,S/O,Peru,Yugoslavia
+135,345,1946,428,1,S/O,Peru,Yugoslavia
+135,345,1947,2349,1,S/O,Peru,Yugoslavia
+135,345,1948,760,1,S/O,Peru,Yugoslavia
+135,345,1949,4893,1,S/O,Peru,Yugoslavia
+135,350,1919,0,1,,Peru,Greece
+135,350,1920,0,1,Valor Lp.,Peru,Greece
+135,350,1921,0,1,Valor Lp.,Peru,Greece
+135,350,1922,0,1,Valor Lp.,Peru,Greece
+135,350,1923,0,1,Valor Lp.,Peru,Greece
+135,350,1924,0,1,Valor Lp.,Peru,Greece
+135,350,1925,0,1,Valor Lp.,Peru,Greece
+135,350,1926,45,1,Valor Lp.,Peru,Greece
+135,350,1927,46,1,Valor Lp.,Peru,Greece
+135,350,1928,0,1,Valor Lp.,Peru,Greece
+135,350,1929,3503,1,Valor Lp.,Peru,Greece
+135,350,1930,7,1,S/O,Peru,Greece
+135,350,1931,19989,1,S/O,Peru,Greece
+135,350,1932,13184,1,S/O,Peru,Greece
+135,350,1933,15941,1,S/O,Peru,Greece
+135,350,1934,19747,1,S/O,Peru,Greece
+135,350,1935,55030,1,S/O,Peru,Greece
+135,350,1936,48006,1,S/O,Peru,Greece
+135,350,1937,37764,1,S/O,Peru,Greece
+135,350,1938,32551,1,S/O,Peru,Greece
+135,350,1939,104310,1,S/O,Peru,Greece
+135,350,1940,168542,1,S/O,Peru,Greece
+135,350,1941,259514,1,S/O,Peru,Greece
+135,350,1942,415324,1,S/O,Peru,Greece
+135,350,1943,0,1,S/O,Peru,Greece
+135,350,1944,0,1,S/O,Peru,Greece
+135,350,1945,0,1,S/O,Peru,Greece
+135,350,1946,0,1,S/O,Peru,Greece
+135,350,1947,0,1,S/O,Peru,Greece
+135,350,1948,56,1,S/O,Peru,Greece
+135,350,1949,128,1,S/O,Peru,Greece
+135,352,1919,0,1,,Peru,Cyprus
+135,352,1920,0,1,Valor Lp.,Peru,Cyprus
+135,352,1921,0,1,Valor Lp.,Peru,Cyprus
+135,352,1922,0,1,Valor Lp.,Peru,Cyprus
+135,352,1923,0,1,Valor Lp.,Peru,Cyprus
+135,352,1924,0,1,Valor Lp.,Peru,Cyprus
+135,352,1925,0,1,Valor Lp.,Peru,Cyprus
+135,352,1926,0,1,Valor Lp.,Peru,Cyprus
+135,352,1927,0,1,Valor Lp.,Peru,Cyprus
+135,352,1928,0,1,Valor Lp.,Peru,Cyprus
+135,352,1929,0,1,Valor Lp.,Peru,Cyprus
+135,352,1930,0,1,S/O,Peru,Cyprus
+135,352,1931,0,1,S/O,Peru,Cyprus
+135,352,1932,0,1,S/O,Peru,Cyprus
+135,352,1933,0,1,S/O,Peru,Cyprus
+135,352,1934,3489,1,S/O,Peru,Cyprus
+135,352,1935,0,1,S/O,Peru,Cyprus
+135,352,1936,5689,1,S/O,Peru,Cyprus
+135,352,1937,793,1,S/O,Peru,Cyprus
+135,352,1938,0,1,S/O,Peru,Cyprus
+135,352,1939,400,1,S/O,Peru,Cyprus
+135,352,1940,38415,1,S/O,Peru,Cyprus
+135,352,1941,33214,1,S/O,Peru,Cyprus
+135,352,1942,7777,1,S/O,Peru,Cyprus
+135,352,1943,2414,1,S/O,Peru,Cyprus
+135,352,1944,0,1,S/O,Peru,Cyprus
+135,352,1945,73330,1,S/O,Peru,Cyprus
+135,352,1946,17559,1,S/O,Peru,Cyprus
+135,352,1947,0,1,S/O,Peru,Cyprus
+135,352,1948,20203,1,S/O,Peru,Cyprus
+135,352,1949,137869,1,S/O,Peru,Cyprus
+135,355,1919,0,1,,Peru,Bulgaria
+135,355,1920,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1921,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1922,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1923,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1924,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1925,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1926,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1927,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1928,0,1,Valor Lp.,Peru,Bulgaria
+135,355,1929,1,1,Valor Lp.,Peru,Bulgaria
+135,355,1930,0,1,S/O,Peru,Bulgaria
+135,355,1931,4733,1,S/O,Peru,Bulgaria
+135,355,1932,468,1,S/O,Peru,Bulgaria
+135,355,1933,0,1,S/O,Peru,Bulgaria
+135,355,1934,26,1,S/O,Peru,Bulgaria
+135,355,1935,25,1,S/O,Peru,Bulgaria
+135,355,1936,6035,1,S/O,Peru,Bulgaria
+135,355,1937,17443,1,S/O,Peru,Bulgaria
+135,355,1938,2622,1,S/O,Peru,Bulgaria
+135,355,1939,1205,1,S/O,Peru,Bulgaria
+135,355,1940,860,1,S/O,Peru,Bulgaria
+135,355,1941,0,1,S/O,Peru,Bulgaria
+135,355,1942,215,1,S/O,Peru,Bulgaria
+135,355,1943,0,1,S/O,Peru,Bulgaria
+135,355,1944,0,1,S/O,Peru,Bulgaria
+135,355,1945,0,1,S/O,Peru,Bulgaria
+135,355,1946,0,1,S/O,Peru,Bulgaria
+135,355,1947,0,1,S/O,Peru,Bulgaria
+135,355,1948,6,1,S/O,Peru,Bulgaria
+135,355,1949,0,1,S/O,Peru,Bulgaria
+135,360,1919,0,1,,Peru,Romania
+135,360,1920,0,1,Valor Lp.,Peru,Romania
+135,360,1921,0,1,Valor Lp.,Peru,Romania
+135,360,1922,0,1,Valor Lp.,Peru,Romania
+135,360,1923,0,1,Valor Lp.,Peru,Romania
+135,360,1924,0,1,Valor Lp.,Peru,Romania
+135,360,1925,0,1,Valor Lp.,Peru,Romania
+135,360,1926,0,1,Valor Lp.,Peru,Romania
+135,360,1927,2,1,Valor Lp.,Peru,Romania
+135,360,1928,7,1,Valor Lp.,Peru,Romania
+135,360,1929,14,1,Valor Lp.,Peru,Romania
+135,360,1930,15,1,S/O,Peru,Romania
+135,360,1931,6841,1,S/O,Peru,Romania
+135,360,1932,29036,1,S/O,Peru,Romania
+135,360,1933,17707,1,S/O,Peru,Romania
+135,360,1934,51874,1,S/O,Peru,Romania
+135,360,1935,6502,1,S/O,Peru,Romania
+135,360,1936,15213,1,S/O,Peru,Romania
+135,360,1937,96544,1,S/O,Peru,Romania
+135,360,1938,151142,1,S/O,Peru,Romania
+135,360,1939,118005,1,S/O,Peru,Romania
+135,360,1940,4,1,S/O,Peru,Romania
+135,360,1941,0,1,S/O,Peru,Romania
+135,360,1942,0,1,S/O,Peru,Romania
+135,360,1943,0,1,S/O,Peru,Romania
+135,360,1944,0,1,S/O,Peru,Romania
+135,360,1945,0,1,S/O,Peru,Romania
+135,360,1946,0,1,S/O,Peru,Romania
+135,360,1947,0,1,S/O,Peru,Romania
+135,360,1948,36,1,S/O,Peru,Romania
+135,360,1949,0,1,S/O,Peru,Romania
+135,365,1919,0,1,,Peru,Russia
+135,365,1920,0,1,Valor Lp.,Peru,Russia
+135,365,1921,0,1,Valor Lp.,Peru,Russia
+135,365,1922,0,1,Valor Lp.,Peru,Russia
+135,365,1923,0,1,Valor Lp.,Peru,Russia
+135,365,1924,0,1,Valor Lp.,Peru,Russia
+135,365,1925,0,1,Valor Lp.,Peru,Russia
+135,365,1926,0,1,Valor Lp.,Peru,Russia
+135,365,1927,0,1,Valor Lp.,Peru,Russia
+135,365,1928,0,1,Valor Lp.,Peru,Russia
+135,365,1929,0,1,Valor Lp.,Peru,Russia
+135,365,1930,0,1,S/O,Peru,Russia
+135,365,1931,399,1,S/O,Peru,Russia
+135,365,1932,5065,1,S/O,Peru,Russia
+135,365,1933,20543,1,S/O,Peru,Russia
+135,365,1934,41453,1,S/O,Peru,Russia
+135,365,1935,72156,1,S/O,Peru,Russia
+135,365,1936,21564,1,S/O,Peru,Russia
+135,365,1937,29821,1,S/O,Peru,Russia
+135,365,1938,13130,1,S/O,Peru,Russia
+135,365,1939,1012,1,S/O,Peru,Russia
+135,365,1940,23550,1,S/O,Peru,Russia
+135,365,1941,1071194,1,S/O,Peru,Russia
+135,365,1942,1704,1,S/O,Peru,Russia
+135,365,1943,3129,1,S/O,Peru,Russia
+135,365,1944,4308,1,S/O,Peru,Russia
+135,365,1945,0,1,S/O,Peru,Russia
+135,365,1946,19995,1,S/O,Peru,Russia
+135,365,1947,0,1,S/O,Peru,Russia
+135,365,1948,3320,1,S/O,Peru,Russia
+135,365,1949,747396,1,S/O,Peru,Russia
+135,366,1919,0,1,,Peru,Estonia
+135,366,1920,0,1,Valor Lp.,Peru,Estonia
+135,366,1921,0,1,Valor Lp.,Peru,Estonia
+135,366,1922,0,1,Valor Lp.,Peru,Estonia
+135,366,1923,0,1,Valor Lp.,Peru,Estonia
+135,366,1924,0,1,Valor Lp.,Peru,Estonia
+135,366,1925,0,1,Valor Lp.,Peru,Estonia
+135,366,1926,0,1,Valor Lp.,Peru,Estonia
+135,366,1927,188,1,Valor Lp.,Peru,Estonia
+135,366,1928,0,1,Valor Lp.,Peru,Estonia
+135,366,1929,160,1,Valor Lp.,Peru,Estonia
+135,366,1930,2690,1,S/O,Peru,Estonia
+135,366,1931,48028,1,S/O,Peru,Estonia
+135,366,1932,15212,1,S/O,Peru,Estonia
+135,366,1933,23546,1,S/O,Peru,Estonia
+135,366,1934,42798,1,S/O,Peru,Estonia
+135,366,1935,77737,1,S/O,Peru,Estonia
+135,366,1936,35043,1,S/O,Peru,Estonia
+135,366,1937,72298,1,S/O,Peru,Estonia
+135,366,1938,103319,1,S/O,Peru,Estonia
+135,366,1939,35487,1,S/O,Peru,Estonia
+135,366,1940,9567,1,S/O,Peru,Estonia
+135,366,1941,0,1,S/O,Peru,Estonia
+135,366,1942,0,1,S/O,Peru,Estonia
+135,366,1943,0,1,S/O,Peru,Estonia
+135,366,1944,0,1,S/O,Peru,Estonia
+135,366,1945,0,1,S/O,Peru,Estonia
+135,366,1946,234,1,S/O,Peru,Estonia
+135,366,1947,0,1,S/O,Peru,Estonia
+135,366,1948,0,1,S/O,Peru,Estonia
+135,366,1949,300,1,S/O,Peru,Estonia
+135,367,1919,0,1,,Peru,Latvia
+135,367,1920,0,1,Valor Lp.,Peru,Latvia
+135,367,1921,0,1,Valor Lp.,Peru,Latvia
+135,367,1922,0,1,Valor Lp.,Peru,Latvia
+135,367,1923,0,1,Valor Lp.,Peru,Latvia
+135,367,1924,0,1,Valor Lp.,Peru,Latvia
+135,367,1925,0,1,Valor Lp.,Peru,Latvia
+135,367,1926,0,1,Valor Lp.,Peru,Latvia
+135,367,1927,0,1,Valor Lp.,Peru,Latvia
+135,367,1928,0,1,Valor Lp.,Peru,Latvia
+135,367,1929,0,1,Valor Lp.,Peru,Latvia
+135,367,1930,0,1,S/O,Peru,Latvia
+135,367,1931,3275,1,S/O,Peru,Latvia
+135,367,1932,1777,1,S/O,Peru,Latvia
+135,367,1933,1506,1,S/O,Peru,Latvia
+135,367,1934,15337,1,S/O,Peru,Latvia
+135,367,1935,6792,1,S/O,Peru,Latvia
+135,367,1936,11264,1,S/O,Peru,Latvia
+135,367,1937,42949,1,S/O,Peru,Latvia
+135,367,1938,15011,1,S/O,Peru,Latvia
+135,367,1939,9358,1,S/O,Peru,Latvia
+135,367,1940,7473,1,S/O,Peru,Latvia
+135,367,1941,0,1,S/O,Peru,Latvia
+135,367,1942,0,1,S/O,Peru,Latvia
+135,367,1943,0,1,S/O,Peru,Latvia
+135,367,1944,0,1,S/O,Peru,Latvia
+135,367,1945,0,1,S/O,Peru,Latvia
+135,367,1946,0,1,S/O,Peru,Latvia
+135,367,1947,0,1,S/O,Peru,Latvia
+135,367,1948,0,1,S/O,Peru,Latvia
+135,367,1949,0,1,S/O,Peru,Latvia
+135,368,1919,0,1,,Peru,Lithuania
+135,368,1920,0,1,Valor Lp.,Peru,Lithuania
+135,368,1921,0,1,Valor Lp.,Peru,Lithuania
+135,368,1922,0,1,Valor Lp.,Peru,Lithuania
+135,368,1923,0,1,Valor Lp.,Peru,Lithuania
+135,368,1924,0,1,Valor Lp.,Peru,Lithuania
+135,368,1925,0,1,Valor Lp.,Peru,Lithuania
+135,368,1926,0,1,Valor Lp.,Peru,Lithuania
+135,368,1927,0,1,Valor Lp.,Peru,Lithuania
+135,368,1928,0,1,Valor Lp.,Peru,Lithuania
+135,368,1929,0,1,Valor Lp.,Peru,Lithuania
+135,368,1930,0,1,S/O,Peru,Lithuania
+135,368,1931,5076,1,S/O,Peru,Lithuania
+135,368,1932,69,1,S/O,Peru,Lithuania
+135,368,1933,0,1,S/O,Peru,Lithuania
+135,368,1934,0,1,S/O,Peru,Lithuania
+135,368,1935,0,1,S/O,Peru,Lithuania
+135,368,1936,5568,1,S/O,Peru,Lithuania
+135,368,1937,19672,1,S/O,Peru,Lithuania
+135,368,1938,3155,1,S/O,Peru,Lithuania
+135,368,1939,0,1,S/O,Peru,Lithuania
+135,368,1940,20963,1,S/O,Peru,Lithuania
+135,368,1941,0,1,S/O,Peru,Lithuania
+135,368,1942,0,1,S/O,Peru,Lithuania
+135,368,1943,0,1,S/O,Peru,Lithuania
+135,368,1944,0,1,S/O,Peru,Lithuania
+135,368,1945,0,1,S/O,Peru,Lithuania
+135,368,1946,0,1,S/O,Peru,Lithuania
+135,368,1947,0,1,S/O,Peru,Lithuania
+135,368,1948,0,1,S/O,Peru,Lithuania
+135,368,1949,0,1,S/O,Peru,Lithuania
+135,375,1919,0,1,,Peru,Finland
+135,375,1920,0,1,Valor Lp.,Peru,Finland
+135,375,1921,0,1,Valor Lp.,Peru,Finland
+135,375,1922,0,1,Valor Lp.,Peru,Finland
+135,375,1923,0,1,Valor Lp.,Peru,Finland
+135,375,1924,0,1,Valor Lp.,Peru,Finland
+135,375,1925,0,1,Valor Lp.,Peru,Finland
+135,375,1926,0,1,Valor Lp.,Peru,Finland
+135,375,1927,0,1,Valor Lp.,Peru,Finland
+135,375,1928,321,1,Valor Lp.,Peru,Finland
+135,375,1929,0,1,Valor Lp.,Peru,Finland
+135,375,1930,198,1,S/O,Peru,Finland
+135,375,1931,166827,1,S/O,Peru,Finland
+135,375,1932,142911,1,S/O,Peru,Finland
+135,375,1933,103550,1,S/O,Peru,Finland
+135,375,1934,144207,1,S/O,Peru,Finland
+135,375,1935,208087,1,S/O,Peru,Finland
+135,375,1936,231977,1,S/O,Peru,Finland
+135,375,1937,473798,1,S/O,Peru,Finland
+135,375,1938,287162,1,S/O,Peru,Finland
+135,375,1939,221616,1,S/O,Peru,Finland
+135,375,1940,117667,1,S/O,Peru,Finland
+135,375,1941,1389734,1,S/O,Peru,Finland
+135,375,1942,0,1,S/O,Peru,Finland
+135,375,1943,0,1,S/O,Peru,Finland
+135,375,1944,63562,1,S/O,Peru,Finland
+135,375,1945,62579,1,S/O,Peru,Finland
+135,375,1946,803614,1,S/O,Peru,Finland
+135,375,1947,128590,1,S/O,Peru,Finland
+135,375,1948,479148,1,S/O,Peru,Finland
+135,375,1949,1761342,1,S/O,Peru,Finland
+135,380,1910,68,,,Peru,Sweden
+135,380,1913,55.41,,,Peru,Sweden
+135,380,1914,471.543,,,Peru,Sweden
+135,380,1915,4293.9,,,Peru,Sweden
+135,380,1916,38597.591,,,Peru,Sweden
+135,380,1917,19121.52,,,Peru,Sweden
+135,380,1918,15720,,,Peru,Sweden
+135,380,1919,17333.981,1,,Peru,Sweden
+135,380,1920,34659.7,1,Valor Lp.,Peru,Sweden
+135,380,1921,76320,1,Valor Lp.,Peru,Sweden
+135,380,1922,29130,1,Valor Lp.,Peru,Sweden
+135,380,1923,36237,1,Valor Lp.,Peru,Sweden
+135,380,1924,69883,1,Valor Lp.,Peru,Sweden
+135,380,1925,58288,1,Valor Lp.,Peru,Sweden
+135,380,1926,184256,1,Valor Lp.,Peru,Sweden
+135,380,1927,469450,1,Valor Lp.,Peru,Sweden
+135,380,1928,429723,1,Valor Lp.,Peru,Sweden
+135,380,1929,542673,1,Valor Lp.,Peru,Sweden
+135,380,1930,4492923,1,S/O,Peru,Sweden
+135,380,1931,3462138,1,S/O,Peru,Sweden
+135,380,1932,1998068,1,S/O,Peru,Sweden
+135,380,1933,1689042,1,S/O,Peru,Sweden
+135,380,1934,2891769,1,S/O,Peru,Sweden
+135,380,1935,2441043,1,S/O,Peru,Sweden
+135,380,1936,1725607,1,S/O,Peru,Sweden
+135,380,1937,2192254,1,S/O,Peru,Sweden
+135,380,1938,2947625,1,S/O,Peru,Sweden
+135,380,1939,3327867,1,S/O,Peru,Sweden
+135,380,1940,2161899,1,S/O,Peru,Sweden
+135,380,1941,1982985,1,S/O,Peru,Sweden
+135,380,1942,4293778,1,S/O,Peru,Sweden
+135,380,1943,120923,1,S/O,Peru,Sweden
+135,380,1944,2584610,1,S/O,Peru,Sweden
+135,380,1945,12924914,1,S/O,Peru,Sweden
+135,380,1946,21166437,1,S/O,Peru,Sweden
+135,380,1947,22204385,1,S/O,Peru,Sweden
+135,380,1948,14367949,1,S/O,Peru,Sweden
+135,380,1949,58194354,1,S/O,Peru,Sweden
+135,385,1915,4964.213,,,Peru,Norway
+135,385,1916,4935.57,,,Peru,Norway
+135,385,1917,6322.795,,,Peru,Norway
+135,385,1918,2528,,,Peru,Norway
+135,385,1919,474.285,1,,Peru,Norway
+135,385,1920,41188.12,1,Valor Lp.,Peru,Norway
+135,385,1921,28510,1,Valor Lp.,Peru,Norway
+135,385,1922,37293,1,Valor Lp.,Peru,Norway
+135,385,1923,44996,1,Valor Lp.,Peru,Norway
+135,385,1924,68305,1,Valor Lp.,Peru,Norway
+135,385,1925,87387,1,Valor Lp.,Peru,Norway
+135,385,1926,91455,1,Valor Lp.,Peru,Norway
+135,385,1927,48635,1,Valor Lp.,Peru,Norway
+135,385,1928,67868,1,Valor Lp.,Peru,Norway
+135,385,1929,78834,1,Valor Lp.,Peru,Norway
+135,385,1930,432575,1,S/O,Peru,Norway
+135,385,1931,178523,1,S/O,Peru,Norway
+135,385,1932,428601,1,S/O,Peru,Norway
+135,385,1933,624475,1,S/O,Peru,Norway
+135,385,1934,948239,1,S/O,Peru,Norway
+135,385,1935,698238,1,S/O,Peru,Norway
+135,385,1936,741936,1,S/O,Peru,Norway
+135,385,1937,1239746,1,S/O,Peru,Norway
+135,385,1938,1231997,1,S/O,Peru,Norway
+135,385,1939,1743693,1,S/O,Peru,Norway
+135,385,1940,610902,1,S/O,Peru,Norway
+135,385,1941,22733,1,S/O,Peru,Norway
+135,385,1942,3090,1,S/O,Peru,Norway
+135,385,1943,312,1,S/O,Peru,Norway
+135,385,1944,0,1,S/O,Peru,Norway
+135,385,1945,0,1,S/O,Peru,Norway
+135,385,1946,2872747,1,S/O,Peru,Norway
+135,385,1947,5946609,1,S/O,Peru,Norway
+135,385,1948,3837716,1,S/O,Peru,Norway
+135,385,1949,4841589,1,S/O,Peru,Norway
+135,390,1910,28.05,,,Peru,Denmark
+135,390,1912,22.623,,,Peru,Denmark
+135,390,1913,16.35,,,Peru,Denmark
+135,390,1914,466.103,,,Peru,Denmark
+135,390,1915,9133.370999999999,,,Peru,Denmark
+135,390,1916,40276.359,,,Peru,Denmark
+135,390,1917,5751.915,,,Peru,Denmark
+135,390,1918,228,,,Peru,Denmark
+135,390,1919,83.7,1,,Peru,Denmark
+135,390,1920,1384.445,1,Valor Lp.,Peru,Denmark
+135,390,1921,14158,1,Valor Lp.,Peru,Denmark
+135,390,1922,14279,1,Valor Lp.,Peru,Denmark
+135,390,1923,15487,1,Valor Lp.,Peru,Denmark
+135,390,1924,21105,1,Valor Lp.,Peru,Denmark
+135,390,1925,19131,1,Valor Lp.,Peru,Denmark
+135,390,1926,14005,1,Valor Lp.,Peru,Denmark
+135,390,1927,33344,1,Valor Lp.,Peru,Denmark
+135,390,1928,35007,1,Valor Lp.,Peru,Denmark
+135,390,1929,45091,1,Valor Lp.,Peru,Denmark
+135,390,1930,303241,1,S/O,Peru,Denmark
+135,390,1931,368951,1,S/O,Peru,Denmark
+135,390,1932,279837,1,S/O,Peru,Denmark
+135,390,1933,519846,1,S/O,Peru,Denmark
+135,390,1934,1968335,1,S/O,Peru,Denmark
+135,390,1935,154835,1,S/O,Peru,Denmark
+135,390,1936,243333,1,S/O,Peru,Denmark
+135,390,1937,224592,1,S/O,Peru,Denmark
+135,390,1938,455171,1,S/O,Peru,Denmark
+135,390,1939,259579,1,S/O,Peru,Denmark
+135,390,1940,150638,1,S/O,Peru,Denmark
+135,390,1941,18009,1,S/O,Peru,Denmark
+135,390,1942,0,1,S/O,Peru,Denmark
+135,390,1943,0,1,S/O,Peru,Denmark
+135,390,1944,0,1,S/O,Peru,Denmark
+135,390,1945,0,1,S/O,Peru,Denmark
+135,390,1946,137778,1,S/O,Peru,Denmark
+135,390,1947,726724,1,S/O,Peru,Denmark
+135,390,1948,994075,1,S/O,Peru,Denmark
+135,390,1949,1372158,1,S/O,Peru,Denmark
+135,395,1919,0,1,,Peru,Iceland
+135,395,1920,0,1,Valor Lp.,Peru,Iceland
+135,395,1921,0,1,Valor Lp.,Peru,Iceland
+135,395,1922,0,1,Valor Lp.,Peru,Iceland
+135,395,1923,0,1,Valor Lp.,Peru,Iceland
+135,395,1924,0,1,Valor Lp.,Peru,Iceland
+135,395,1925,0,1,Valor Lp.,Peru,Iceland
+135,395,1926,0,1,Valor Lp.,Peru,Iceland
+135,395,1927,0,1,Valor Lp.,Peru,Iceland
+135,395,1928,0,1,Valor Lp.,Peru,Iceland
+135,395,1929,0,1,Valor Lp.,Peru,Iceland
+135,395,1930,0,1,S/O,Peru,Iceland
+135,395,1931,169,1,S/O,Peru,Iceland
+135,395,1932,0,1,S/O,Peru,Iceland
+135,395,1933,0,1,S/O,Peru,Iceland
+135,395,1934,0,1,S/O,Peru,Iceland
+135,395,1935,286,1,S/O,Peru,Iceland
+135,395,1936,0,1,S/O,Peru,Iceland
+135,395,1937,0,1,S/O,Peru,Iceland
+135,395,1938,0,1,S/O,Peru,Iceland
+135,395,1939,4105,1,S/O,Peru,Iceland
+135,395,1940,447,1,S/O,Peru,Iceland
+135,395,1941,26859,1,S/O,Peru,Iceland
+135,395,1942,0,1,S/O,Peru,Iceland
+135,395,1943,0,1,S/O,Peru,Iceland
+135,395,1944,0,1,S/O,Peru,Iceland
+135,395,1945,0,1,S/O,Peru,Iceland
+135,395,1946,4376,1,S/O,Peru,Iceland
+135,395,1947,0,1,S/O,Peru,Iceland
+135,395,1948,0,1,S/O,Peru,Iceland
+135,395,1949,0,1,S/O,Peru,Iceland
+135,400,1919,0,1,,Peru,Azores
+135,400,1920,0,1,Valor Lp.,Peru,Azores
+135,400,1921,0,1,Valor Lp.,Peru,Azores
+135,400,1922,0,1,Valor Lp.,Peru,Azores
+135,400,1923,0,1,Valor Lp.,Peru,Azores
+135,400,1924,0,1,Valor Lp.,Peru,Azores
+135,400,1925,0,1,Valor Lp.,Peru,Azores
+135,400,1926,0,1,Valor Lp.,Peru,Azores
+135,400,1927,0,1,Valor Lp.,Peru,Azores
+135,400,1928,0,1,Valor Lp.,Peru,Azores
+135,400,1929,0,1,Valor Lp.,Peru,Azores
+135,400,1930,0,1,S/O,Peru,Azores
+135,400,1931,0,1,S/O,Peru,Azores
+135,400,1932,0,1,S/O,Peru,Azores
+135,400,1933,0,1,S/O,Peru,Azores
+135,400,1934,8,1,S/O,Peru,Azores
+135,400,1935,390,1,S/O,Peru,Azores
+135,400,1936,0,1,S/O,Peru,Azores
+135,400,1937,0,1,S/O,Peru,Azores
+135,400,1938,0,1,S/O,Peru,Azores
+135,400,1939,0,1,S/O,Peru,Azores
+135,400,1940,0,1,S/O,Peru,Azores
+135,400,1941,0,1,S/O,Peru,Azores
+135,400,1942,0,1,S/O,Peru,Azores
+135,400,1943,0,1,S/O,Peru,Azores
+135,400,1944,0,1,S/O,Peru,Azores
+135,400,1945,0,1,S/O,Peru,Azores
+135,400,1946,0,1,S/O,Peru,Azores
+135,400,1947,0,1,S/O,Peru,Azores
+135,400,1948,0,1,S/O,Peru,Azores
+135,400,1949,0,1,S/O,Peru,Azores
+135,401,1919,0,1,,Peru,Madeira
+135,401,1920,0,1,Valor Lp.,Peru,Madeira
+135,401,1921,0,1,Valor Lp.,Peru,Madeira
+135,401,1922,0,1,Valor Lp.,Peru,Madeira
+135,401,1923,0,1,Valor Lp.,Peru,Madeira
+135,401,1924,0,1,Valor Lp.,Peru,Madeira
+135,401,1925,0,1,Valor Lp.,Peru,Madeira
+135,401,1926,0,1,Valor Lp.,Peru,Madeira
+135,401,1927,0,1,Valor Lp.,Peru,Madeira
+135,401,1928,0,1,Valor Lp.,Peru,Madeira
+135,401,1929,0,1,Valor Lp.,Peru,Madeira
+135,401,1930,0,1,S/O,Peru,Madeira
+135,401,1931,0,1,S/O,Peru,Madeira
+135,401,1932,0,1,S/O,Peru,Madeira
+135,401,1933,0,1,S/O,Peru,Madeira
+135,401,1934,0,1,S/O,Peru,Madeira
+135,401,1935,66,1,S/O,Peru,Madeira
+135,401,1936,0,1,S/O,Peru,Madeira
+135,401,1937,0,1,S/O,Peru,Madeira
+135,401,1938,0,1,S/O,Peru,Madeira
+135,401,1939,357,1,S/O,Peru,Madeira
+135,401,1940,131,1,S/O,Peru,Madeira
+135,401,1941,249,1,S/O,Peru,Madeira
+135,401,1942,0,1,S/O,Peru,Madeira
+135,401,1943,0,1,S/O,Peru,Madeira
+135,401,1944,5797,1,S/O,Peru,Madeira
+135,401,1945,28012,1,S/O,Peru,Madeira
+135,401,1946,0,1,S/O,Peru,Madeira
+135,401,1947,0,1,S/O,Peru,Madeira
+135,401,1948,0,1,S/O,Peru,Madeira
+135,401,1949,0,1,S/O,Peru,Madeira
+135,402,1919,0,1,,Peru,Cape Verde
+135,402,1920,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1921,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1922,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1923,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1924,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1925,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1926,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1927,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1928,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1929,0,1,Valor Lp.,Peru,Cape Verde
+135,402,1930,0,1,S/O,Peru,Cape Verde
+135,402,1931,0,1,S/O,Peru,Cape Verde
+135,402,1932,0,1,S/O,Peru,Cape Verde
+135,402,1933,0,1,S/O,Peru,Cape Verde
+135,402,1934,0,1,S/O,Peru,Cape Verde
+135,402,1935,0,1,S/O,Peru,Cape Verde
+135,402,1936,0,1,S/O,Peru,Cape Verde
+135,402,1937,0,1,S/O,Peru,Cape Verde
+135,402,1938,4,1,S/O,Peru,Cape Verde
+135,402,1939,0,1,S/O,Peru,Cape Verde
+135,402,1940,0,1,S/O,Peru,Cape Verde
+135,402,1941,0,1,S/O,Peru,Cape Verde
+135,402,1942,0,1,S/O,Peru,Cape Verde
+135,402,1943,69,1,S/O,Peru,Cape Verde
+135,402,1944,0,1,S/O,Peru,Cape Verde
+135,402,1945,0,1,S/O,Peru,Cape Verde
+135,402,1946,0,1,S/O,Peru,Cape Verde
+135,402,1947,58,1,S/O,Peru,Cape Verde
+135,402,1948,0,1,S/O,Peru,Cape Verde
+135,402,1949,0,1,S/O,Peru,Cape Verde
+135,410,1916,39.375,,,Peru,Canary Islands
+135,410,1917,275.8,,,Peru,Canary Islands
+135,410,1919,244.28,1,,Peru,Canary Islands
+135,410,1920,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1921,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1922,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1923,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1924,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1925,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1926,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1927,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1928,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1929,0,1,Valor Lp.,Peru,Canary Islands
+135,410,1930,0,1,S/O,Peru,Canary Islands
+135,410,1931,2455,1,S/O,Peru,Canary Islands
+135,410,1932,1537,1,S/O,Peru,Canary Islands
+135,410,1933,2,1,S/O,Peru,Canary Islands
+135,410,1934,979,1,S/O,Peru,Canary Islands
+135,410,1935,2979,1,S/O,Peru,Canary Islands
+135,410,1936,2020,1,S/O,Peru,Canary Islands
+135,410,1937,1819,1,S/O,Peru,Canary Islands
+135,410,1938,0,1,S/O,Peru,Canary Islands
+135,410,1939,0,1,S/O,Peru,Canary Islands
+135,410,1940,0,1,S/O,Peru,Canary Islands
+135,410,1941,0,1,S/O,Peru,Canary Islands
+135,410,1942,0,1,S/O,Peru,Canary Islands
+135,410,1943,0,1,S/O,Peru,Canary Islands
+135,410,1944,0,1,S/O,Peru,Canary Islands
+135,410,1945,0,1,S/O,Peru,Canary Islands
+135,410,1946,0,1,S/O,Peru,Canary Islands
+135,410,1947,3054,1,S/O,Peru,Canary Islands
+135,410,1948,0,1,S/O,Peru,Canary Islands
+135,410,1949,0,1,S/O,Peru,Canary Islands
+135,430,1919,0,1,,Peru,French West Africa
+135,430,1920,0,1,Valor Lp.,Peru,French West Africa
+135,430,1921,0,1,Valor Lp.,Peru,French West Africa
+135,430,1922,0,1,Valor Lp.,Peru,French West Africa
+135,430,1923,0,1,Valor Lp.,Peru,French West Africa
+135,430,1924,0,1,Valor Lp.,Peru,French West Africa
+135,430,1925,0,1,Valor Lp.,Peru,French West Africa
+135,430,1926,0,1,Valor Lp.,Peru,French West Africa
+135,430,1927,0,1,Valor Lp.,Peru,French West Africa
+135,430,1928,0,1,Valor Lp.,Peru,French West Africa
+135,430,1929,0,1,Valor Lp.,Peru,French West Africa
+135,430,1930,0,1,S/O,Peru,French West Africa
+135,430,1931,0,1,S/O,Peru,French West Africa
+135,430,1932,0,1,S/O,Peru,French West Africa
+135,430,1933,1732,1,S/O,Peru,French West Africa
+135,430,1934,792,1,S/O,Peru,French West Africa
+135,430,1935,1935,1,S/O,Peru,French West Africa
+135,430,1936,0,1,S/O,Peru,French West Africa
+135,430,1937,304,1,S/O,Peru,French West Africa
+135,430,1938,21,1,S/O,Peru,French West Africa
+135,430,1939,0,1,S/O,Peru,French West Africa
+135,430,1940,0,1,S/O,Peru,French West Africa
+135,430,1941,0,1,S/O,Peru,French West Africa
+135,430,1942,0,1,S/O,Peru,French West Africa
+135,430,1943,0,1,S/O,Peru,French West Africa
+135,430,1944,0,1,S/O,Peru,French West Africa
+135,430,1945,0,1,S/O,Peru,French West Africa
+135,430,1946,0,1,S/O,Peru,French West Africa
+135,430,1947,0,1,S/O,Peru,French West Africa
+135,430,1948,0,1,S/O,Peru,French West Africa
+135,430,1949,12696,1,S/O,Peru,French West Africa
+135,432,1919,0,1,,Peru,Mali
+135,432,1920,0,1,Valor Lp.,Peru,Mali
+135,432,1921,0,1,Valor Lp.,Peru,Mali
+135,432,1922,0,1,Valor Lp.,Peru,Mali
+135,432,1923,0,1,Valor Lp.,Peru,Mali
+135,432,1924,0,1,Valor Lp.,Peru,Mali
+135,432,1925,0,1,Valor Lp.,Peru,Mali
+135,432,1926,0,1,Valor Lp.,Peru,Mali
+135,432,1927,0,1,Valor Lp.,Peru,Mali
+135,432,1928,0,1,Valor Lp.,Peru,Mali
+135,432,1929,0,1,Valor Lp.,Peru,Mali
+135,432,1930,0,1,S/O,Peru,Mali
+135,432,1931,6466,1,S/O,Peru,Mali
+135,432,1932,7967,1,S/O,Peru,Mali
+135,432,1933,9721,1,S/O,Peru,Mali
+135,432,1934,9435,1,S/O,Peru,Mali
+135,432,1935,29901,1,S/O,Peru,Mali
+135,432,1936,13753,1,S/O,Peru,Mali
+135,432,1937,8929,1,S/O,Peru,Mali
+135,432,1938,15842,1,S/O,Peru,Mali
+135,432,1939,3968,1,S/O,Peru,Mali
+135,432,1940,7360,1,S/O,Peru,Mali
+135,432,1941,8760,1,S/O,Peru,Mali
+135,432,1942,7885,1,S/O,Peru,Mali
+135,432,1943,4162,1,S/O,Peru,Mali
+135,432,1944,726,1,S/O,Peru,Mali
+135,432,1945,8473,1,S/O,Peru,Mali
+135,432,1946,940,1,S/O,Peru,Mali
+135,432,1947,3223,1,S/O,Peru,Mali
+135,432,1948,6939,1,S/O,Peru,Mali
+135,432,1949,80683,1,S/O,Peru,Mali
+135,451,1919,0,1,,Peru,Sierra Leone
+135,451,1920,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1921,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1922,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1923,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1924,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1925,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1926,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1927,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1928,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1929,0,1,Valor Lp.,Peru,Sierra Leone
+135,451,1930,0,1,S/O,Peru,Sierra Leone
+135,451,1931,0,1,S/O,Peru,Sierra Leone
+135,451,1932,0,1,S/O,Peru,Sierra Leone
+135,451,1933,0,1,S/O,Peru,Sierra Leone
+135,451,1934,0,1,S/O,Peru,Sierra Leone
+135,451,1935,0,1,S/O,Peru,Sierra Leone
+135,451,1936,75,1,S/O,Peru,Sierra Leone
+135,451,1937,0,1,S/O,Peru,Sierra Leone
+135,451,1938,0,1,S/O,Peru,Sierra Leone
+135,451,1939,0,1,S/O,Peru,Sierra Leone
+135,451,1940,0,1,S/O,Peru,Sierra Leone
+135,451,1941,0,1,S/O,Peru,Sierra Leone
+135,451,1942,0,1,S/O,Peru,Sierra Leone
+135,451,1943,0,1,S/O,Peru,Sierra Leone
+135,451,1944,0,1,S/O,Peru,Sierra Leone
+135,451,1945,0,1,S/O,Peru,Sierra Leone
+135,451,1946,0,1,S/O,Peru,Sierra Leone
+135,451,1947,0,1,S/O,Peru,Sierra Leone
+135,451,1948,0,1,S/O,Peru,Sierra Leone
+135,451,1949,0,1,S/O,Peru,Sierra Leone
+135,475,1919,0,1,,Peru,Nigeria
+135,475,1920,0,1,Valor Lp.,Peru,Nigeria
+135,475,1921,0,1,Valor Lp.,Peru,Nigeria
+135,475,1922,0,1,Valor Lp.,Peru,Nigeria
+135,475,1923,0,1,Valor Lp.,Peru,Nigeria
+135,475,1924,0,1,Valor Lp.,Peru,Nigeria
+135,475,1925,0,1,Valor Lp.,Peru,Nigeria
+135,475,1926,0,1,Valor Lp.,Peru,Nigeria
+135,475,1927,0,1,Valor Lp.,Peru,Nigeria
+135,475,1928,0,1,Valor Lp.,Peru,Nigeria
+135,475,1929,0,1,Valor Lp.,Peru,Nigeria
+135,475,1930,0,1,S/O,Peru,Nigeria
+135,475,1931,0,1,S/O,Peru,Nigeria
+135,475,1932,17,1,S/O,Peru,Nigeria
+135,475,1933,0,1,S/O,Peru,Nigeria
+135,475,1934,0,1,S/O,Peru,Nigeria
+135,475,1935,0,1,S/O,Peru,Nigeria
+135,475,1936,0,1,S/O,Peru,Nigeria
+135,475,1937,0,1,S/O,Peru,Nigeria
+135,475,1938,580,1,S/O,Peru,Nigeria
+135,475,1939,0,1,S/O,Peru,Nigeria
+135,475,1940,0,1,S/O,Peru,Nigeria
+135,475,1941,0,1,S/O,Peru,Nigeria
+135,475,1942,2971,1,S/O,Peru,Nigeria
+135,475,1943,0,1,S/O,Peru,Nigeria
+135,475,1944,0,1,S/O,Peru,Nigeria
+135,475,1945,0,1,S/O,Peru,Nigeria
+135,475,1946,56678,1,S/O,Peru,Nigeria
+135,475,1947,0,1,S/O,Peru,Nigeria
+135,475,1948,0,1,S/O,Peru,Nigeria
+135,475,1949,0,1,S/O,Peru,Nigeria
+135,480,1919,0,1,,Peru,French Equatorial Africa
+135,480,1920,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1921,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1922,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1923,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1924,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1925,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1926,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1927,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1928,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1929,0,1,Valor Lp.,Peru,French Equatorial Africa
+135,480,1930,0,1,S/O,Peru,French Equatorial Africa
+135,480,1931,982,1,S/O,Peru,French Equatorial Africa
+135,480,1932,1416,1,S/O,Peru,French Equatorial Africa
+135,480,1933,1154,1,S/O,Peru,French Equatorial Africa
+135,480,1934,5037,1,S/O,Peru,French Equatorial Africa
+135,480,1935,4989,1,S/O,Peru,French Equatorial Africa
+135,480,1936,1605,1,S/O,Peru,French Equatorial Africa
+135,480,1937,4710,1,S/O,Peru,French Equatorial Africa
+135,480,1938,7734,1,S/O,Peru,French Equatorial Africa
+135,480,1939,1584,1,S/O,Peru,French Equatorial Africa
+135,480,1940,809,1,S/O,Peru,French Equatorial Africa
+135,480,1941,0,1,S/O,Peru,French Equatorial Africa
+135,480,1942,0,1,S/O,Peru,French Equatorial Africa
+135,480,1943,0,1,S/O,Peru,French Equatorial Africa
+135,480,1944,0,1,S/O,Peru,French Equatorial Africa
+135,480,1945,0,1,S/O,Peru,French Equatorial Africa
+135,480,1946,0,1,S/O,Peru,French Equatorial Africa
+135,480,1947,0,1,S/O,Peru,French Equatorial Africa
+135,480,1948,0,1,S/O,Peru,French Equatorial Africa
+135,480,1949,0,1,S/O,Peru,French Equatorial Africa
+135,490,1919,0,1,,Peru,"Congo, Dem. Republic"
+135,490,1920,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1921,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1922,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1923,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1924,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1925,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1926,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1927,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1928,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1929,0,1,Valor Lp.,Peru,"Congo, Dem. Republic"
+135,490,1930,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1931,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1932,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1933,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1934,41,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1935,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1936,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1937,318,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1938,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1939,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1940,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1941,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1942,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1943,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1944,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1945,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1946,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1947,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1948,82,1,S/O,Peru,"Congo, Dem. Republic"
+135,490,1949,0,1,S/O,Peru,"Congo, Dem. Republic"
+135,511,1919,0,1,,Peru,Zanzibar
+135,511,1920,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1921,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1922,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1923,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1924,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1925,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1926,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1927,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1928,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1929,0,1,Valor Lp.,Peru,Zanzibar
+135,511,1930,0,1,S/O,Peru,Zanzibar
+135,511,1931,4293,1,S/O,Peru,Zanzibar
+135,511,1932,5535,1,S/O,Peru,Zanzibar
+135,511,1933,11114,1,S/O,Peru,Zanzibar
+135,511,1934,11502,1,S/O,Peru,Zanzibar
+135,511,1935,8218,1,S/O,Peru,Zanzibar
+135,511,1936,9223,1,S/O,Peru,Zanzibar
+135,511,1937,16406,1,S/O,Peru,Zanzibar
+135,511,1938,15137,1,S/O,Peru,Zanzibar
+135,511,1939,14628,1,S/O,Peru,Zanzibar
+135,511,1940,36256,1,S/O,Peru,Zanzibar
+135,511,1941,21511,1,S/O,Peru,Zanzibar
+135,511,1942,19172,1,S/O,Peru,Zanzibar
+135,511,1943,7466,1,S/O,Peru,Zanzibar
+135,511,1944,20639,1,S/O,Peru,Zanzibar
+135,511,1945,46275,1,S/O,Peru,Zanzibar
+135,511,1946,61599,1,S/O,Peru,Zanzibar
+135,511,1947,915,1,S/O,Peru,Zanzibar
+135,511,1948,15720,1,S/O,Peru,Zanzibar
+135,511,1949,75944,1,S/O,Peru,Zanzibar
+135,521,1919,0,1,,Peru,British Somaliland
+135,521,1920,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1921,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1922,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1923,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1924,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1925,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1926,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1927,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1928,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1929,0,1,Valor Lp.,Peru,British Somaliland
+135,521,1930,0,1,S/O,Peru,British Somaliland
+135,521,1931,0,1,S/O,Peru,British Somaliland
+135,521,1932,0,1,S/O,Peru,British Somaliland
+135,521,1933,0,1,S/O,Peru,British Somaliland
+135,521,1934,0,1,S/O,Peru,British Somaliland
+135,521,1935,34,1,S/O,Peru,British Somaliland
+135,521,1936,0,1,S/O,Peru,British Somaliland
+135,521,1937,25,1,S/O,Peru,British Somaliland
+135,521,1938,322,1,S/O,Peru,British Somaliland
+135,521,1939,381,1,S/O,Peru,British Somaliland
+135,521,1940,518,1,S/O,Peru,British Somaliland
+135,521,1941,560,1,S/O,Peru,British Somaliland
+135,521,1942,0,1,S/O,Peru,British Somaliland
+135,521,1943,645,1,S/O,Peru,British Somaliland
+135,521,1944,1289,1,S/O,Peru,British Somaliland
+135,521,1945,1261,1,S/O,Peru,British Somaliland
+135,521,1946,4791,1,S/O,Peru,British Somaliland
+135,521,1947,1013,1,S/O,Peru,British Somaliland
+135,521,1948,0,1,S/O,Peru,British Somaliland
+135,521,1949,2240,1,S/O,Peru,British Somaliland
+135,530,1919,0,1,,Peru,Ethiopia
+135,530,1920,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1921,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1922,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1923,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1924,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1925,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1926,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1927,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1928,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1929,0,1,Valor Lp.,Peru,Ethiopia
+135,530,1930,0,1,S/O,Peru,Ethiopia
+135,530,1931,0,1,S/O,Peru,Ethiopia
+135,530,1932,0,1,S/O,Peru,Ethiopia
+135,530,1933,0,1,S/O,Peru,Ethiopia
+135,530,1934,0,1,S/O,Peru,Ethiopia
+135,530,1935,207,1,S/O,Peru,Ethiopia
+135,530,1936,0,1,S/O,Peru,Ethiopia
+135,530,1937,0,1,S/O,Peru,Ethiopia
+135,530,1938,0,1,S/O,Peru,Ethiopia
+135,530,1939,0,1,S/O,Peru,Ethiopia
+135,530,1940,0,1,S/O,Peru,Ethiopia
+135,530,1941,0,1,S/O,Peru,Ethiopia
+135,530,1942,0,1,S/O,Peru,Ethiopia
+135,530,1943,0,1,S/O,Peru,Ethiopia
+135,530,1944,0,1,S/O,Peru,Ethiopia
+135,530,1945,0,1,S/O,Peru,Ethiopia
+135,530,1946,0,1,S/O,Peru,Ethiopia
+135,530,1947,0,1,S/O,Peru,Ethiopia
+135,530,1948,0,1,S/O,Peru,Ethiopia
+135,530,1949,0,1,S/O,Peru,Ethiopia
+135,541,1919,0,1,,Peru,Mozambique
+135,541,1920,0,1,Valor Lp.,Peru,Mozambique
+135,541,1921,0,1,Valor Lp.,Peru,Mozambique
+135,541,1922,0,1,Valor Lp.,Peru,Mozambique
+135,541,1923,0,1,Valor Lp.,Peru,Mozambique
+135,541,1924,0,1,Valor Lp.,Peru,Mozambique
+135,541,1925,0,1,Valor Lp.,Peru,Mozambique
+135,541,1926,0,1,Valor Lp.,Peru,Mozambique
+135,541,1927,0,1,Valor Lp.,Peru,Mozambique
+135,541,1928,0,1,Valor Lp.,Peru,Mozambique
+135,541,1929,0,1,Valor Lp.,Peru,Mozambique
+135,541,1930,0,1,S/O,Peru,Mozambique
+135,541,1931,0,1,S/O,Peru,Mozambique
+135,541,1932,0,1,S/O,Peru,Mozambique
+135,541,1933,717,1,S/O,Peru,Mozambique
+135,541,1934,0,1,S/O,Peru,Mozambique
+135,541,1935,0,1,S/O,Peru,Mozambique
+135,541,1936,0,1,S/O,Peru,Mozambique
+135,541,1937,0,1,S/O,Peru,Mozambique
+135,541,1938,0,1,S/O,Peru,Mozambique
+135,541,1939,0,1,S/O,Peru,Mozambique
+135,541,1940,0,1,S/O,Peru,Mozambique
+135,541,1941,0,1,S/O,Peru,Mozambique
+135,541,1942,0,1,S/O,Peru,Mozambique
+135,541,1943,0,1,S/O,Peru,Mozambique
+135,541,1944,0,1,S/O,Peru,Mozambique
+135,541,1945,0,1,S/O,Peru,Mozambique
+135,541,1946,0,1,S/O,Peru,Mozambique
+135,541,1947,0,1,S/O,Peru,Mozambique
+135,541,1948,0,1,S/O,Peru,Mozambique
+135,541,1949,0,1,S/O,Peru,Mozambique
+135,554,1919,0,1,,Peru,Rhodesia
+135,554,1920,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1921,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1922,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1923,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1924,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1925,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1926,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1927,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1928,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1929,0,1,Valor Lp.,Peru,Rhodesia
+135,554,1930,0,1,S/O,Peru,Rhodesia
+135,554,1931,0,1,S/O,Peru,Rhodesia
+135,554,1932,0,1,S/O,Peru,Rhodesia
+135,554,1933,0,1,S/O,Peru,Rhodesia
+135,554,1934,0,1,S/O,Peru,Rhodesia
+135,554,1935,0,1,S/O,Peru,Rhodesia
+135,554,1936,0,1,S/O,Peru,Rhodesia
+135,554,1937,0,1,S/O,Peru,Rhodesia
+135,554,1938,0,1,S/O,Peru,Rhodesia
+135,554,1939,0,1,S/O,Peru,Rhodesia
+135,554,1940,0,1,S/O,Peru,Rhodesia
+135,554,1941,93065,1,S/O,Peru,Rhodesia
+135,554,1942,0,1,S/O,Peru,Rhodesia
+135,554,1943,0,1,S/O,Peru,Rhodesia
+135,554,1944,0,1,S/O,Peru,Rhodesia
+135,554,1945,155455,1,S/O,Peru,Rhodesia
+135,554,1946,0,1,S/O,Peru,Rhodesia
+135,554,1947,0,1,S/O,Peru,Rhodesia
+135,554,1948,0,1,S/O,Peru,Rhodesia
+135,554,1949,0,1,S/O,Peru,Rhodesia
+135,560,1919,0,1,,Peru,South Africa
+135,560,1920,0,1,Valor Lp.,Peru,South Africa
+135,560,1921,0,1,Valor Lp.,Peru,South Africa
+135,560,1922,0,1,Valor Lp.,Peru,South Africa
+135,560,1923,0,1,Valor Lp.,Peru,South Africa
+135,560,1924,0,1,Valor Lp.,Peru,South Africa
+135,560,1925,0,1,Valor Lp.,Peru,South Africa
+135,560,1926,0,1,Valor Lp.,Peru,South Africa
+135,560,1927,0,1,Valor Lp.,Peru,South Africa
+135,560,1928,0,1,Valor Lp.,Peru,South Africa
+135,560,1929,0,1,Valor Lp.,Peru,South Africa
+135,560,1930,0,1,S/O,Peru,South Africa
+135,560,1931,424,1,S/O,Peru,South Africa
+135,560,1932,10,1,S/O,Peru,South Africa
+135,560,1933,5,1,S/O,Peru,South Africa
+135,560,1934,239,1,S/O,Peru,South Africa
+135,560,1935,318,1,S/O,Peru,South Africa
+135,560,1936,2251,1,S/O,Peru,South Africa
+135,560,1937,7,1,S/O,Peru,South Africa
+135,560,1938,18,1,S/O,Peru,South Africa
+135,560,1939,2205,1,S/O,Peru,South Africa
+135,560,1940,45,1,S/O,Peru,South Africa
+135,560,1941,186,1,S/O,Peru,South Africa
+135,560,1942,71,1,S/O,Peru,South Africa
+135,560,1943,4119,1,S/O,Peru,South Africa
+135,560,1944,1064,1,S/O,Peru,South Africa
+135,560,1945,0,1,S/O,Peru,South Africa
+135,560,1946,1935,1,S/O,Peru,South Africa
+135,560,1947,88054,1,S/O,Peru,South Africa
+135,560,1948,140007,1,S/O,Peru,South Africa
+135,560,1949,242031,1,S/O,Peru,South Africa
+135,580,1919,0,1,,Peru,Madagascar
+135,580,1920,0,1,Valor Lp.,Peru,Madagascar
+135,580,1921,0,1,Valor Lp.,Peru,Madagascar
+135,580,1922,0,1,Valor Lp.,Peru,Madagascar
+135,580,1923,0,1,Valor Lp.,Peru,Madagascar
+135,580,1924,0,1,Valor Lp.,Peru,Madagascar
+135,580,1925,0,1,Valor Lp.,Peru,Madagascar
+135,580,1926,0,1,Valor Lp.,Peru,Madagascar
+135,580,1927,0,1,Valor Lp.,Peru,Madagascar
+135,580,1928,0,1,Valor Lp.,Peru,Madagascar
+135,580,1929,0,1,Valor Lp.,Peru,Madagascar
+135,580,1930,0,1,S/O,Peru,Madagascar
+135,580,1931,1609,1,S/O,Peru,Madagascar
+135,580,1932,0,1,S/O,Peru,Madagascar
+135,580,1933,635,1,S/O,Peru,Madagascar
+135,580,1934,687,1,S/O,Peru,Madagascar
+135,580,1935,1818,1,S/O,Peru,Madagascar
+135,580,1936,665,1,S/O,Peru,Madagascar
+135,580,1937,700,1,S/O,Peru,Madagascar
+135,580,1938,1726,1,S/O,Peru,Madagascar
+135,580,1939,4172,1,S/O,Peru,Madagascar
+135,580,1940,5100,1,S/O,Peru,Madagascar
+135,580,1941,0,1,S/O,Peru,Madagascar
+135,580,1942,165,1,S/O,Peru,Madagascar
+135,580,1943,0,1,S/O,Peru,Madagascar
+135,580,1944,0,1,S/O,Peru,Madagascar
+135,580,1945,21984,1,S/O,Peru,Madagascar
+135,580,1946,21006,1,S/O,Peru,Madagascar
+135,580,1947,11358,1,S/O,Peru,Madagascar
+135,580,1948,1583,1,S/O,Peru,Madagascar
+135,580,1949,22342,1,S/O,Peru,Madagascar
+135,585,1919,0,1,,Peru,Reunion
+135,585,1920,0,1,Valor Lp.,Peru,Reunion
+135,585,1921,0,1,Valor Lp.,Peru,Reunion
+135,585,1922,0,1,Valor Lp.,Peru,Reunion
+135,585,1923,0,1,Valor Lp.,Peru,Reunion
+135,585,1924,0,1,Valor Lp.,Peru,Reunion
+135,585,1925,0,1,Valor Lp.,Peru,Reunion
+135,585,1926,0,1,Valor Lp.,Peru,Reunion
+135,585,1927,0,1,Valor Lp.,Peru,Reunion
+135,585,1928,0,1,Valor Lp.,Peru,Reunion
+135,585,1929,0,1,Valor Lp.,Peru,Reunion
+135,585,1930,0,1,S/O,Peru,Reunion
+135,585,1931,0,1,S/O,Peru,Reunion
+135,585,1932,0,1,S/O,Peru,Reunion
+135,585,1933,0,1,S/O,Peru,Reunion
+135,585,1934,0,1,S/O,Peru,Reunion
+135,585,1935,0,1,S/O,Peru,Reunion
+135,585,1936,0,1,S/O,Peru,Reunion
+135,585,1937,371,1,S/O,Peru,Reunion
+135,585,1938,86,1,S/O,Peru,Reunion
+135,585,1939,0,1,S/O,Peru,Reunion
+135,585,1940,0,1,S/O,Peru,Reunion
+135,585,1941,0,1,S/O,Peru,Reunion
+135,585,1942,0,1,S/O,Peru,Reunion
+135,585,1943,0,1,S/O,Peru,Reunion
+135,585,1944,0,1,S/O,Peru,Reunion
+135,585,1945,0,1,S/O,Peru,Reunion
+135,585,1946,0,1,S/O,Peru,Reunion
+135,585,1947,0,1,S/O,Peru,Reunion
+135,585,1948,1034,1,S/O,Peru,Reunion
+135,585,1949,0,1,S/O,Peru,Reunion
+135,590,1919,0,1,,Peru,Mauritius
+135,590,1920,0,1,Valor Lp.,Peru,Mauritius
+135,590,1921,0,1,Valor Lp.,Peru,Mauritius
+135,590,1922,0,1,Valor Lp.,Peru,Mauritius
+135,590,1923,0,1,Valor Lp.,Peru,Mauritius
+135,590,1924,0,1,Valor Lp.,Peru,Mauritius
+135,590,1925,0,1,Valor Lp.,Peru,Mauritius
+135,590,1926,0,1,Valor Lp.,Peru,Mauritius
+135,590,1927,0,1,Valor Lp.,Peru,Mauritius
+135,590,1928,0,1,Valor Lp.,Peru,Mauritius
+135,590,1929,0,1,Valor Lp.,Peru,Mauritius
+135,590,1930,0,1,S/O,Peru,Mauritius
+135,590,1931,0,1,S/O,Peru,Mauritius
+135,590,1932,0,1,S/O,Peru,Mauritius
+135,590,1933,0,1,S/O,Peru,Mauritius
+135,590,1934,43,1,S/O,Peru,Mauritius
+135,590,1935,0,1,S/O,Peru,Mauritius
+135,590,1936,0,1,S/O,Peru,Mauritius
+135,590,1937,0,1,S/O,Peru,Mauritius
+135,590,1938,0,1,S/O,Peru,Mauritius
+135,590,1939,0,1,S/O,Peru,Mauritius
+135,590,1940,0,1,S/O,Peru,Mauritius
+135,590,1941,0,1,S/O,Peru,Mauritius
+135,590,1942,0,1,S/O,Peru,Mauritius
+135,590,1943,0,1,S/O,Peru,Mauritius
+135,590,1944,0,1,S/O,Peru,Mauritius
+135,590,1945,0,1,S/O,Peru,Mauritius
+135,590,1946,0,1,S/O,Peru,Mauritius
+135,590,1947,0,1,S/O,Peru,Mauritius
+135,590,1948,0,1,S/O,Peru,Mauritius
+135,590,1949,0,1,S/O,Peru,Mauritius
+135,591,1919,0,1,,Peru,Seychelles
+135,591,1920,0,1,Valor Lp.,Peru,Seychelles
+135,591,1921,0,1,Valor Lp.,Peru,Seychelles
+135,591,1922,0,1,Valor Lp.,Peru,Seychelles
+135,591,1923,0,1,Valor Lp.,Peru,Seychelles
+135,591,1924,0,1,Valor Lp.,Peru,Seychelles
+135,591,1925,0,1,Valor Lp.,Peru,Seychelles
+135,591,1926,0,1,Valor Lp.,Peru,Seychelles
+135,591,1927,0,1,Valor Lp.,Peru,Seychelles
+135,591,1928,0,1,Valor Lp.,Peru,Seychelles
+135,591,1929,0,1,Valor Lp.,Peru,Seychelles
+135,591,1930,0,1,S/O,Peru,Seychelles
+135,591,1931,0,1,S/O,Peru,Seychelles
+135,591,1932,0,1,S/O,Peru,Seychelles
+135,591,1933,99,1,S/O,Peru,Seychelles
+135,591,1934,0,1,S/O,Peru,Seychelles
+135,591,1935,150,1,S/O,Peru,Seychelles
+135,591,1936,0,1,S/O,Peru,Seychelles
+135,591,1937,0,1,S/O,Peru,Seychelles
+135,591,1938,0,1,S/O,Peru,Seychelles
+135,591,1939,447,1,S/O,Peru,Seychelles
+135,591,1940,0,1,S/O,Peru,Seychelles
+135,591,1941,0,1,S/O,Peru,Seychelles
+135,591,1942,0,1,S/O,Peru,Seychelles
+135,591,1943,0,1,S/O,Peru,Seychelles
+135,591,1944,0,1,S/O,Peru,Seychelles
+135,591,1945,0,1,S/O,Peru,Seychelles
+135,591,1946,0,1,S/O,Peru,Seychelles
+135,591,1947,0,1,S/O,Peru,Seychelles
+135,591,1948,0,1,S/O,Peru,Seychelles
+135,591,1949,0,1,S/O,Peru,Seychelles
+135,600,1919,0,1,,Peru,Morocco
+135,600,1920,0,1,Valor Lp.,Peru,Morocco
+135,600,1921,0,1,Valor Lp.,Peru,Morocco
+135,600,1922,0,1,Valor Lp.,Peru,Morocco
+135,600,1923,0,1,Valor Lp.,Peru,Morocco
+135,600,1924,0,1,Valor Lp.,Peru,Morocco
+135,600,1925,0,1,Valor Lp.,Peru,Morocco
+135,600,1926,0,1,Valor Lp.,Peru,Morocco
+135,600,1927,0,1,Valor Lp.,Peru,Morocco
+135,600,1928,0,1,Valor Lp.,Peru,Morocco
+135,600,1929,0,1,Valor Lp.,Peru,Morocco
+135,600,1930,0,1,S/O,Peru,Morocco
+135,600,1931,1967,1,S/O,Peru,Morocco
+135,600,1932,380,1,S/O,Peru,Morocco
+135,600,1933,3198,1,S/O,Peru,Morocco
+135,600,1934,17149,1,S/O,Peru,Morocco
+135,600,1935,34619,1,S/O,Peru,Morocco
+135,600,1936,56335,1,S/O,Peru,Morocco
+135,600,1937,74753,1,S/O,Peru,Morocco
+135,600,1938,72425,1,S/O,Peru,Morocco
+135,600,1939,61155,1,S/O,Peru,Morocco
+135,600,1940,117548,1,S/O,Peru,Morocco
+135,600,1941,336,1,S/O,Peru,Morocco
+135,600,1942,0,1,S/O,Peru,Morocco
+135,600,1943,0,1,S/O,Peru,Morocco
+135,600,1944,0,1,S/O,Peru,Morocco
+135,600,1945,0,1,S/O,Peru,Morocco
+135,600,1946,6585,1,S/O,Peru,Morocco
+135,600,1947,63,1,S/O,Peru,Morocco
+135,600,1948,0,1,S/O,Peru,Morocco
+135,600,1949,71306,1,S/O,Peru,Morocco
+135,602,1919,0,1,,Peru,Spanish Morocco
+135,602,1920,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1921,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1922,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1923,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1924,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1925,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1926,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1927,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1928,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1929,0,1,Valor Lp.,Peru,Spanish Morocco
+135,602,1930,37,1,S/O,Peru,Spanish Morocco
+135,602,1931,22819,1,S/O,Peru,Spanish Morocco
+135,602,1932,19861,1,S/O,Peru,Spanish Morocco
+135,602,1933,30366,1,S/O,Peru,Spanish Morocco
+135,602,1934,49633,1,S/O,Peru,Spanish Morocco
+135,602,1935,30869,1,S/O,Peru,Spanish Morocco
+135,602,1936,26388,1,S/O,Peru,Spanish Morocco
+135,602,1937,7167,1,S/O,Peru,Spanish Morocco
+135,602,1938,6047,1,S/O,Peru,Spanish Morocco
+135,602,1939,8743,1,S/O,Peru,Spanish Morocco
+135,602,1940,6421,1,S/O,Peru,Spanish Morocco
+135,602,1941,458,1,S/O,Peru,Spanish Morocco
+135,602,1942,0,1,S/O,Peru,Spanish Morocco
+135,602,1943,0,1,S/O,Peru,Spanish Morocco
+135,602,1944,0,1,S/O,Peru,Spanish Morocco
+135,602,1945,12063,1,S/O,Peru,Spanish Morocco
+135,602,1946,27594,1,S/O,Peru,Spanish Morocco
+135,602,1947,14466,1,S/O,Peru,Spanish Morocco
+135,602,1948,0,1,S/O,Peru,Spanish Morocco
+135,602,1949,61683,1,S/O,Peru,Spanish Morocco
+135,615,1919,0,1,,Peru,Algeria
+135,615,1920,0,1,Valor Lp.,Peru,Algeria
+135,615,1921,0,1,Valor Lp.,Peru,Algeria
+135,615,1922,0,1,Valor Lp.,Peru,Algeria
+135,615,1923,0,1,Valor Lp.,Peru,Algeria
+135,615,1924,0,1,Valor Lp.,Peru,Algeria
+135,615,1925,0,1,Valor Lp.,Peru,Algeria
+135,615,1926,0,1,Valor Lp.,Peru,Algeria
+135,615,1927,0,1,Valor Lp.,Peru,Algeria
+135,615,1928,0,1,Valor Lp.,Peru,Algeria
+135,615,1929,0,1,Valor Lp.,Peru,Algeria
+135,615,1930,0,1,S/O,Peru,Algeria
+135,615,1931,151,1,S/O,Peru,Algeria
+135,615,1932,0,1,S/O,Peru,Algeria
+135,615,1933,0,1,S/O,Peru,Algeria
+135,615,1934,0,1,S/O,Peru,Algeria
+135,615,1935,7,1,S/O,Peru,Algeria
+135,615,1936,929,1,S/O,Peru,Algeria
+135,615,1937,0,1,S/O,Peru,Algeria
+135,615,1938,746,1,S/O,Peru,Algeria
+135,615,1939,44,1,S/O,Peru,Algeria
+135,615,1940,5449,1,S/O,Peru,Algeria
+135,615,1941,4878,1,S/O,Peru,Algeria
+135,615,1942,0,1,S/O,Peru,Algeria
+135,615,1943,0,1,S/O,Peru,Algeria
+135,615,1944,0,1,S/O,Peru,Algeria
+135,615,1945,0,1,S/O,Peru,Algeria
+135,615,1946,0,1,S/O,Peru,Algeria
+135,615,1947,0,1,S/O,Peru,Algeria
+135,615,1948,0,1,S/O,Peru,Algeria
+135,615,1949,0,1,S/O,Peru,Algeria
+135,616,1919,0,1,,Peru,Tunisia
+135,616,1920,0,1,Valor Lp.,Peru,Tunisia
+135,616,1921,0,1,Valor Lp.,Peru,Tunisia
+135,616,1922,0,1,Valor Lp.,Peru,Tunisia
+135,616,1923,0,1,Valor Lp.,Peru,Tunisia
+135,616,1924,0,1,Valor Lp.,Peru,Tunisia
+135,616,1925,0,1,Valor Lp.,Peru,Tunisia
+135,616,1926,0,1,Valor Lp.,Peru,Tunisia
+135,616,1927,0,1,Valor Lp.,Peru,Tunisia
+135,616,1928,0,1,Valor Lp.,Peru,Tunisia
+135,616,1929,0,1,Valor Lp.,Peru,Tunisia
+135,616,1930,0,1,S/O,Peru,Tunisia
+135,616,1931,0,1,S/O,Peru,Tunisia
+135,616,1932,0,1,S/O,Peru,Tunisia
+135,616,1933,45,1,S/O,Peru,Tunisia
+135,616,1934,0,1,S/O,Peru,Tunisia
+135,616,1935,0,1,S/O,Peru,Tunisia
+135,616,1936,0,1,S/O,Peru,Tunisia
+135,616,1937,0,1,S/O,Peru,Tunisia
+135,616,1938,0,1,S/O,Peru,Tunisia
+135,616,1939,0,1,S/O,Peru,Tunisia
+135,616,1940,46,1,S/O,Peru,Tunisia
+135,616,1941,25,1,S/O,Peru,Tunisia
+135,616,1942,0,1,S/O,Peru,Tunisia
+135,616,1943,0,1,S/O,Peru,Tunisia
+135,616,1944,0,1,S/O,Peru,Tunisia
+135,616,1945,0,1,S/O,Peru,Tunisia
+135,616,1946,0,1,S/O,Peru,Tunisia
+135,616,1947,0,1,S/O,Peru,Tunisia
+135,616,1948,0,1,S/O,Peru,Tunisia
+135,616,1949,0,1,S/O,Peru,Tunisia
+135,620,1919,0,1,,Peru,Libya
+135,620,1920,0,1,Valor Lp.,Peru,Libya
+135,620,1921,0,1,Valor Lp.,Peru,Libya
+135,620,1922,0,1,Valor Lp.,Peru,Libya
+135,620,1923,0,1,Valor Lp.,Peru,Libya
+135,620,1924,0,1,Valor Lp.,Peru,Libya
+135,620,1925,0,1,Valor Lp.,Peru,Libya
+135,620,1926,0,1,Valor Lp.,Peru,Libya
+135,620,1927,0,1,Valor Lp.,Peru,Libya
+135,620,1928,0,1,Valor Lp.,Peru,Libya
+135,620,1929,0,1,Valor Lp.,Peru,Libya
+135,620,1930,0,1,S/O,Peru,Libya
+135,620,1931,0,1,S/O,Peru,Libya
+135,620,1932,0,1,S/O,Peru,Libya
+135,620,1933,0,1,S/O,Peru,Libya
+135,620,1934,0,1,S/O,Peru,Libya
+135,620,1935,828,1,S/O,Peru,Libya
+135,620,1936,0,1,S/O,Peru,Libya
+135,620,1937,0,1,S/O,Peru,Libya
+135,620,1938,0,1,S/O,Peru,Libya
+135,620,1939,0,1,S/O,Peru,Libya
+135,620,1940,0,1,S/O,Peru,Libya
+135,620,1941,0,1,S/O,Peru,Libya
+135,620,1942,0,1,S/O,Peru,Libya
+135,620,1943,0,1,S/O,Peru,Libya
+135,620,1944,0,1,S/O,Peru,Libya
+135,620,1945,0,1,S/O,Peru,Libya
+135,620,1946,0,1,S/O,Peru,Libya
+135,620,1947,0,1,S/O,Peru,Libya
+135,620,1948,0,1,S/O,Peru,Libya
+135,620,1949,0,1,S/O,Peru,Libya
+135,625,1919,0,1,,Peru,Sudan
+135,625,1920,0,1,Valor Lp.,Peru,Sudan
+135,625,1921,0,1,Valor Lp.,Peru,Sudan
+135,625,1922,0,1,Valor Lp.,Peru,Sudan
+135,625,1923,0,1,Valor Lp.,Peru,Sudan
+135,625,1924,0,1,Valor Lp.,Peru,Sudan
+135,625,1925,0,1,Valor Lp.,Peru,Sudan
+135,625,1926,0,1,Valor Lp.,Peru,Sudan
+135,625,1927,0,1,Valor Lp.,Peru,Sudan
+135,625,1928,0,1,Valor Lp.,Peru,Sudan
+135,625,1929,0,1,Valor Lp.,Peru,Sudan
+135,625,1930,0,1,S/O,Peru,Sudan
+135,625,1931,0,1,S/O,Peru,Sudan
+135,625,1932,2446,1,S/O,Peru,Sudan
+135,625,1933,6301,1,S/O,Peru,Sudan
+135,625,1934,13558,1,S/O,Peru,Sudan
+135,625,1935,10441,1,S/O,Peru,Sudan
+135,625,1936,16887,1,S/O,Peru,Sudan
+135,625,1937,26496,1,S/O,Peru,Sudan
+135,625,1938,32759,1,S/O,Peru,Sudan
+135,625,1939,27172,1,S/O,Peru,Sudan
+135,625,1940,90505,1,S/O,Peru,Sudan
+135,625,1941,163422,1,S/O,Peru,Sudan
+135,625,1942,102129,1,S/O,Peru,Sudan
+135,625,1943,52931,1,S/O,Peru,Sudan
+135,625,1944,68640,1,S/O,Peru,Sudan
+135,625,1945,111025,1,S/O,Peru,Sudan
+135,625,1946,126629,1,S/O,Peru,Sudan
+135,625,1947,88377,1,S/O,Peru,Sudan
+135,625,1948,107774,1,S/O,Peru,Sudan
+135,625,1949,746301,1,S/O,Peru,Sudan
+135,630,1919,0,1,,Peru,Iran
+135,630,1920,0,1,Valor Lp.,Peru,Iran
+135,630,1921,0,1,Valor Lp.,Peru,Iran
+135,630,1922,0,1,Valor Lp.,Peru,Iran
+135,630,1923,0,1,Valor Lp.,Peru,Iran
+135,630,1924,0,1,Valor Lp.,Peru,Iran
+135,630,1925,0,1,Valor Lp.,Peru,Iran
+135,630,1926,0,1,Valor Lp.,Peru,Iran
+135,630,1927,0,1,Valor Lp.,Peru,Iran
+135,630,1928,0,1,Valor Lp.,Peru,Iran
+135,630,1929,0,1,Valor Lp.,Peru,Iran
+135,630,1930,0,1,S/O,Peru,Iran
+135,630,1931,52,1,S/O,Peru,Iran
+135,630,1932,841,1,S/O,Peru,Iran
+135,630,1933,522,1,S/O,Peru,Iran
+135,630,1934,445,1,S/O,Peru,Iran
+135,630,1935,592,1,S/O,Peru,Iran
+135,630,1936,757,1,S/O,Peru,Iran
+135,630,1937,812,1,S/O,Peru,Iran
+135,630,1938,9069,1,S/O,Peru,Iran
+135,630,1939,12663,1,S/O,Peru,Iran
+135,630,1940,6849,1,S/O,Peru,Iran
+135,630,1941,94427,1,S/O,Peru,Iran
+135,630,1942,106347,1,S/O,Peru,Iran
+135,630,1943,102315,1,S/O,Peru,Iran
+135,630,1944,308048,1,S/O,Peru,Iran
+135,630,1945,69829,1,S/O,Peru,Iran
+135,630,1946,167176,1,S/O,Peru,Iran
+135,630,1947,169975,1,S/O,Peru,Iran
+135,630,1948,270055,1,S/O,Peru,Iran
+135,630,1949,501300,1,S/O,Peru,Iran
+135,640,1919,0,1,,Peru,Turkey
+135,640,1920,0,1,Valor Lp.,Peru,Turkey
+135,640,1921,0,1,Valor Lp.,Peru,Turkey
+135,640,1922,0,1,Valor Lp.,Peru,Turkey
+135,640,1923,0,1,Valor Lp.,Peru,Turkey
+135,640,1924,0,1,Valor Lp.,Peru,Turkey
+135,640,1925,0,1,Valor Lp.,Peru,Turkey
+135,640,1926,0,1,Valor Lp.,Peru,Turkey
+135,640,1927,0,1,Valor Lp.,Peru,Turkey
+135,640,1928,0,1,Valor Lp.,Peru,Turkey
+135,640,1929,0,1,Valor Lp.,Peru,Turkey
+135,640,1930,0,1,S/O,Peru,Turkey
+135,640,1931,4154,1,S/O,Peru,Turkey
+135,640,1932,2231,1,S/O,Peru,Turkey
+135,640,1933,0,1,S/O,Peru,Turkey
+135,640,1934,283,1,S/O,Peru,Turkey
+135,640,1935,0,1,S/O,Peru,Turkey
+135,640,1936,256,1,S/O,Peru,Turkey
+135,640,1937,0,1,S/O,Peru,Turkey
+135,640,1938,12,1,S/O,Peru,Turkey
+135,640,1939,156,1,S/O,Peru,Turkey
+135,640,1940,0,1,S/O,Peru,Turkey
+135,640,1941,230,1,S/O,Peru,Turkey
+135,640,1942,0,1,S/O,Peru,Turkey
+135,640,1943,0,1,S/O,Peru,Turkey
+135,640,1944,0,1,S/O,Peru,Turkey
+135,640,1945,0,1,S/O,Peru,Turkey
+135,640,1946,57,1,S/O,Peru,Turkey
+135,640,1947,268710,1,S/O,Peru,Turkey
+135,640,1948,0,1,S/O,Peru,Turkey
+135,640,1949,0,1,S/O,Peru,Turkey
+135,641,1919,0,1,,Peru,Turkey in Europe
+135,641,1920,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1921,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1922,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1923,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1924,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1925,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1926,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1927,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1928,0,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1929,1,1,Valor Lp.,Peru,Turkey in Europe
+135,641,1930,48,1,S/O,Peru,Turkey in Europe
+135,641,1931,234,1,S/O,Peru,Turkey in Europe
+135,641,1932,81,1,S/O,Peru,Turkey in Europe
+135,641,1933,21600,1,S/O,Peru,Turkey in Europe
+135,641,1934,1967,1,S/O,Peru,Turkey in Europe
+135,641,1935,358,1,S/O,Peru,Turkey in Europe
+135,641,1936,680,1,S/O,Peru,Turkey in Europe
+135,641,1937,13383,1,S/O,Peru,Turkey in Europe
+135,641,1938,459,1,S/O,Peru,Turkey in Europe
+135,641,1939,209,1,S/O,Peru,Turkey in Europe
+135,641,1940,60,1,S/O,Peru,Turkey in Europe
+135,641,1941,7963,1,S/O,Peru,Turkey in Europe
+135,641,1942,59166,1,S/O,Peru,Turkey in Europe
+135,641,1943,0,1,S/O,Peru,Turkey in Europe
+135,641,1944,483233,1,S/O,Peru,Turkey in Europe
+135,641,1945,2636,1,S/O,Peru,Turkey in Europe
+135,641,1946,252329,1,S/O,Peru,Turkey in Europe
+135,641,1947,94390,1,S/O,Peru,Turkey in Europe
+135,641,1948,77969,1,S/O,Peru,Turkey in Europe
+135,641,1949,445675,1,S/O,Peru,Turkey in Europe
+135,645,1919,0,1,,Peru,Iraq
+135,645,1920,0,1,Valor Lp.,Peru,Iraq
+135,645,1921,0,1,Valor Lp.,Peru,Iraq
+135,645,1922,0,1,Valor Lp.,Peru,Iraq
+135,645,1923,0,1,Valor Lp.,Peru,Iraq
+135,645,1924,0,1,Valor Lp.,Peru,Iraq
+135,645,1925,0,1,Valor Lp.,Peru,Iraq
+135,645,1926,0,1,Valor Lp.,Peru,Iraq
+135,645,1927,0,1,Valor Lp.,Peru,Iraq
+135,645,1928,0,1,Valor Lp.,Peru,Iraq
+135,645,1929,0,1,Valor Lp.,Peru,Iraq
+135,645,1930,0,1,S/O,Peru,Iraq
+135,645,1931,0,1,S/O,Peru,Iraq
+135,645,1932,0,1,S/O,Peru,Iraq
+135,645,1933,0,1,S/O,Peru,Iraq
+135,645,1934,0,1,S/O,Peru,Iraq
+135,645,1935,96,1,S/O,Peru,Iraq
+135,645,1936,0,1,S/O,Peru,Iraq
+135,645,1937,0,1,S/O,Peru,Iraq
+135,645,1938,103,1,S/O,Peru,Iraq
+135,645,1939,779,1,S/O,Peru,Iraq
+135,645,1940,719,1,S/O,Peru,Iraq
+135,645,1941,18917,1,S/O,Peru,Iraq
+135,645,1942,284,1,S/O,Peru,Iraq
+135,645,1943,0,1,S/O,Peru,Iraq
+135,645,1944,0,1,S/O,Peru,Iraq
+135,645,1945,0,1,S/O,Peru,Iraq
+135,645,1946,0,1,S/O,Peru,Iraq
+135,645,1947,2823,1,S/O,Peru,Iraq
+135,645,1948,0,1,S/O,Peru,Iraq
+135,645,1949,0,1,S/O,Peru,Iraq
+135,651,1919,0,1,,Peru,Egypt
+135,651,1920,0,1,Valor Lp.,Peru,Egypt
+135,651,1921,0,1,Valor Lp.,Peru,Egypt
+135,651,1922,2700,1,Valor Lp.,Peru,Egypt
+135,651,1923,0,1,Valor Lp.,Peru,Egypt
+135,651,1924,0,1,Valor Lp.,Peru,Egypt
+135,651,1925,0,1,Valor Lp.,Peru,Egypt
+135,651,1926,0,1,Valor Lp.,Peru,Egypt
+135,651,1927,0,1,Valor Lp.,Peru,Egypt
+135,651,1928,0,1,Valor Lp.,Peru,Egypt
+135,651,1929,77,1,Valor Lp.,Peru,Egypt
+135,651,1930,90,1,S/O,Peru,Egypt
+135,651,1931,994,1,S/O,Peru,Egypt
+135,651,1932,2142,1,S/O,Peru,Egypt
+135,651,1933,180,1,S/O,Peru,Egypt
+135,651,1934,3153,1,S/O,Peru,Egypt
+135,651,1935,5421,1,S/O,Peru,Egypt
+135,651,1936,1563,1,S/O,Peru,Egypt
+135,651,1937,5373,1,S/O,Peru,Egypt
+135,651,1938,46,1,S/O,Peru,Egypt
+135,651,1939,5185,1,S/O,Peru,Egypt
+135,651,1940,12309,1,S/O,Peru,Egypt
+135,651,1941,60,1,S/O,Peru,Egypt
+135,651,1942,7615,1,S/O,Peru,Egypt
+135,651,1943,0,1,S/O,Peru,Egypt
+135,651,1944,0,1,S/O,Peru,Egypt
+135,651,1945,9541,1,S/O,Peru,Egypt
+135,651,1946,286,1,S/O,Peru,Egypt
+135,651,1947,8505,1,S/O,Peru,Egypt
+135,651,1948,360,1,S/O,Peru,Egypt
+135,651,1949,0,1,S/O,Peru,Egypt
+135,652,1919,0,1,,Peru,Syria
+135,652,1920,0,1,Valor Lp.,Peru,Syria
+135,652,1921,0,1,Valor Lp.,Peru,Syria
+135,652,1922,0,1,Valor Lp.,Peru,Syria
+135,652,1923,0,1,Valor Lp.,Peru,Syria
+135,652,1924,0,1,Valor Lp.,Peru,Syria
+135,652,1925,0,1,Valor Lp.,Peru,Syria
+135,652,1926,0,1,Valor Lp.,Peru,Syria
+135,652,1927,0,1,Valor Lp.,Peru,Syria
+135,652,1928,0,1,Valor Lp.,Peru,Syria
+135,652,1929,1,1,Valor Lp.,Peru,Syria
+135,652,1930,460,1,S/O,Peru,Syria
+135,652,1931,11477,1,S/O,Peru,Syria
+135,652,1932,53,1,S/O,Peru,Syria
+135,652,1933,0,1,S/O,Peru,Syria
+135,652,1934,701,1,S/O,Peru,Syria
+135,652,1935,0,1,S/O,Peru,Syria
+135,652,1936,0,1,S/O,Peru,Syria
+135,652,1937,989,1,S/O,Peru,Syria
+135,652,1938,26,1,S/O,Peru,Syria
+135,652,1939,266,1,S/O,Peru,Syria
+135,652,1940,267,1,S/O,Peru,Syria
+135,652,1941,187,1,S/O,Peru,Syria
+135,652,1942,0,1,S/O,Peru,Syria
+135,652,1943,0,1,S/O,Peru,Syria
+135,652,1944,0,1,S/O,Peru,Syria
+135,652,1945,0,1,S/O,Peru,Syria
+135,652,1946,62796,1,S/O,Peru,Syria
+135,652,1947,504,1,S/O,Peru,Syria
+135,652,1948,2000,1,S/O,Peru,Syria
+135,652,1949,8873,1,S/O,Peru,Syria
+135,660,1919,0,1,,Peru,Lebanon
+135,660,1920,0,1,Valor Lp.,Peru,Lebanon
+135,660,1921,0,1,Valor Lp.,Peru,Lebanon
+135,660,1922,0,1,Valor Lp.,Peru,Lebanon
+135,660,1923,0,1,Valor Lp.,Peru,Lebanon
+135,660,1924,0,1,Valor Lp.,Peru,Lebanon
+135,660,1925,0,1,Valor Lp.,Peru,Lebanon
+135,660,1926,0,1,Valor Lp.,Peru,Lebanon
+135,660,1927,0,1,Valor Lp.,Peru,Lebanon
+135,660,1928,0,1,Valor Lp.,Peru,Lebanon
+135,660,1929,0,1,Valor Lp.,Peru,Lebanon
+135,660,1930,0,1,S/O,Peru,Lebanon
+135,660,1931,0,1,S/O,Peru,Lebanon
+135,660,1932,0,1,S/O,Peru,Lebanon
+135,660,1933,0,1,S/O,Peru,Lebanon
+135,660,1934,0,1,S/O,Peru,Lebanon
+135,660,1935,0,1,S/O,Peru,Lebanon
+135,660,1936,0,1,S/O,Peru,Lebanon
+135,660,1937,0,1,S/O,Peru,Lebanon
+135,660,1938,0,1,S/O,Peru,Lebanon
+135,660,1939,0,1,S/O,Peru,Lebanon
+135,660,1940,0,1,S/O,Peru,Lebanon
+135,660,1941,0,1,S/O,Peru,Lebanon
+135,660,1942,0,1,S/O,Peru,Lebanon
+135,660,1943,0,1,S/O,Peru,Lebanon
+135,660,1944,0,1,S/O,Peru,Lebanon
+135,660,1945,0,1,S/O,Peru,Lebanon
+135,660,1946,0,1,S/O,Peru,Lebanon
+135,660,1947,24,1,S/O,Peru,Lebanon
+135,660,1948,0,1,S/O,Peru,Lebanon
+135,660,1949,157,1,S/O,Peru,Lebanon
+135,665,1919,0,1,,Peru,West Bank And Gaza
+135,665,1920,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1921,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1922,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1923,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1924,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1925,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1926,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1927,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1928,0,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1929,1,1,Valor Lp.,Peru,West Bank And Gaza
+135,665,1930,69,1,S/O,Peru,West Bank And Gaza
+135,665,1931,2009,1,S/O,Peru,West Bank And Gaza
+135,665,1932,7110,1,S/O,Peru,West Bank And Gaza
+135,665,1933,100,1,S/O,Peru,West Bank And Gaza
+135,665,1934,324,1,S/O,Peru,West Bank And Gaza
+135,665,1935,9446,1,S/O,Peru,West Bank And Gaza
+135,665,1936,181,1,S/O,Peru,West Bank And Gaza
+135,665,1937,79,1,S/O,Peru,West Bank And Gaza
+135,665,1938,202,1,S/O,Peru,West Bank And Gaza
+135,665,1939,10286,1,S/O,Peru,West Bank And Gaza
+135,665,1940,17238,1,S/O,Peru,West Bank And Gaza
+135,665,1941,9330,1,S/O,Peru,West Bank And Gaza
+135,665,1942,9766,1,S/O,Peru,West Bank And Gaza
+135,665,1943,0,1,S/O,Peru,West Bank And Gaza
+135,665,1944,0,1,S/O,Peru,West Bank And Gaza
+135,665,1945,0,1,S/O,Peru,West Bank And Gaza
+135,665,1946,443,1,S/O,Peru,West Bank And Gaza
+135,665,1947,1199,1,S/O,Peru,West Bank And Gaza
+135,665,1948,374,1,S/O,Peru,West Bank And Gaza
+135,665,1949,60,1,S/O,Peru,West Bank And Gaza
+135,666,1919,0,1,,Peru,Israel
+135,666,1920,0,1,Valor Lp.,Peru,Israel
+135,666,1921,0,1,Valor Lp.,Peru,Israel
+135,666,1922,0,1,Valor Lp.,Peru,Israel
+135,666,1923,0,1,Valor Lp.,Peru,Israel
+135,666,1924,0,1,Valor Lp.,Peru,Israel
+135,666,1925,0,1,Valor Lp.,Peru,Israel
+135,666,1926,0,1,Valor Lp.,Peru,Israel
+135,666,1927,0,1,Valor Lp.,Peru,Israel
+135,666,1928,0,1,Valor Lp.,Peru,Israel
+135,666,1929,0,1,Valor Lp.,Peru,Israel
+135,666,1930,0,1,S/O,Peru,Israel
+135,666,1931,0,1,S/O,Peru,Israel
+135,666,1932,0,1,S/O,Peru,Israel
+135,666,1933,0,1,S/O,Peru,Israel
+135,666,1934,0,1,S/O,Peru,Israel
+135,666,1935,0,1,S/O,Peru,Israel
+135,666,1936,0,1,S/O,Peru,Israel
+135,666,1937,0,1,S/O,Peru,Israel
+135,666,1938,0,1,S/O,Peru,Israel
+135,666,1939,0,1,S/O,Peru,Israel
+135,666,1940,0,1,S/O,Peru,Israel
+135,666,1941,0,1,S/O,Peru,Israel
+135,666,1942,0,1,S/O,Peru,Israel
+135,666,1943,0,1,S/O,Peru,Israel
+135,666,1944,0,1,S/O,Peru,Israel
+135,666,1945,0,1,S/O,Peru,Israel
+135,666,1946,0,1,S/O,Peru,Israel
+135,666,1947,0,1,S/O,Peru,Israel
+135,666,1948,0,1,S/O,Peru,Israel
+135,666,1949,72,1,S/O,Peru,Israel
+135,675,1919,0,1,,Peru,Arabia
+135,675,1920,0,1,Valor Lp.,Peru,Arabia
+135,675,1921,0,1,Valor Lp.,Peru,Arabia
+135,675,1922,0,1,Valor Lp.,Peru,Arabia
+135,675,1923,0,1,Valor Lp.,Peru,Arabia
+135,675,1924,0,1,Valor Lp.,Peru,Arabia
+135,675,1925,0,1,Valor Lp.,Peru,Arabia
+135,675,1926,0,1,Valor Lp.,Peru,Arabia
+135,675,1927,0,1,Valor Lp.,Peru,Arabia
+135,675,1928,0,1,Valor Lp.,Peru,Arabia
+135,675,1929,0,1,Valor Lp.,Peru,Arabia
+135,675,1930,0,1,S/O,Peru,Arabia
+135,675,1931,1705,1,S/O,Peru,Arabia
+135,675,1932,690,1,S/O,Peru,Arabia
+135,675,1933,324,1,S/O,Peru,Arabia
+135,675,1934,2046,1,S/O,Peru,Arabia
+135,675,1935,521,1,S/O,Peru,Arabia
+135,675,1936,8194,1,S/O,Peru,Arabia
+135,675,1937,1479,1,S/O,Peru,Arabia
+135,675,1938,1903,1,S/O,Peru,Arabia
+135,675,1939,4717,1,S/O,Peru,Arabia
+135,675,1940,755,1,S/O,Peru,Arabia
+135,675,1941,447,1,S/O,Peru,Arabia
+135,675,1942,4149,1,S/O,Peru,Arabia
+135,675,1943,8785,1,S/O,Peru,Arabia
+135,675,1944,901,1,S/O,Peru,Arabia
+135,675,1945,1927,1,S/O,Peru,Arabia
+135,675,1946,351,1,S/O,Peru,Arabia
+135,675,1947,656,1,S/O,Peru,Arabia
+135,675,1948,2539,1,S/O,Peru,Arabia
+135,675,1949,237,1,S/O,Peru,Arabia
+135,710,1906,14076.38,,,Peru,China
+135,710,1907,17336.056,,,Peru,China
+135,710,1908,11808.639,,,Peru,China
+135,710,1909,20245.34,,,Peru,China
+135,710,1910,4158.877,,,Peru,China
+135,710,1911,512.801,,,Peru,China
+135,710,1912,141.912,,,Peru,China
+135,710,1913,147.161,,,Peru,China
+135,710,1914,2323.133,,,Peru,China
+135,710,1916,108.87,,,Peru,China
+135,710,1917,108,,,Peru,China
+135,710,1918,4,,,Peru,China
+135,710,1919,8501.08,1,,Peru,China
+135,710,1920,8971.115,1,Valor Lp.,Peru,China
+135,710,1921,7919,1,Valor Lp.,Peru,China
+135,710,1922,67163,1,Valor Lp.,Peru,China
+135,710,1923,14368,1,Valor Lp.,Peru,China
+135,710,1924,2413,1,Valor Lp.,Peru,China
+135,710,1925,11722,1,Valor Lp.,Peru,China
+135,710,1926,12754,1,Valor Lp.,Peru,China
+135,710,1927,1247,1,Valor Lp.,Peru,China
+135,710,1928,241,1,Valor Lp.,Peru,China
+135,710,1929,1427,1,Valor Lp.,Peru,China
+135,710,1930,20498,1,S/O,Peru,China
+135,710,1931,350642,1,S/O,Peru,China
+135,710,1932,279669,1,S/O,Peru,China
+135,710,1933,426309,1,S/O,Peru,China
+135,710,1934,642672,1,S/O,Peru,China
+135,710,1935,569817,1,S/O,Peru,China
+135,710,1936,494917,1,S/O,Peru,China
+135,710,1937,535402,1,S/O,Peru,China
+135,710,1938,389184,1,S/O,Peru,China
+135,710,1939,656321,1,S/O,Peru,China
+135,710,1940,769876,1,S/O,Peru,China
+135,710,1941,1230789,1,S/O,Peru,China
+135,710,1942,377350,1,S/O,Peru,China
+135,710,1943,41995,1,S/O,Peru,China
+135,710,1944,3333,1,S/O,Peru,China
+135,710,1945,1126762,1,S/O,Peru,China
+135,710,1946,21980,1,S/O,Peru,China
+135,710,1947,152658,1,S/O,Peru,China
+135,710,1948,490435,1,S/O,Peru,China
+135,710,1949,4621382,1,S/O,Peru,China
+135,720,1906,90006.69100000001,,,Peru,Hong Kong
+135,720,1907,173330.336,,,Peru,Hong Kong
+135,720,1908,98463.656,,,Peru,Hong Kong
+135,720,1909,90921.433,,,Peru,Hong Kong
+135,720,1910,131686.491,,,Peru,Hong Kong
+135,720,1911,154348.366,,,Peru,Hong Kong
+135,720,1912,154854.753,,,Peru,Hong Kong
+135,720,1913,158221.056,,,Peru,Hong Kong
+135,720,1914,129273.919,,,Peru,Hong Kong
+135,720,1915,181947.087,,,Peru,Hong Kong
+135,720,1916,301914.151,,,Peru,Hong Kong
+135,720,1917,453761.771,,,Peru,Hong Kong
+135,720,1918,370937,,,Peru,Hong Kong
+135,720,1919,356731.83,1,,Peru,Hong Kong
+135,720,1920,571081.416,1,Valor Lp.,Peru,Hong Kong
+135,720,1921,677299,1,Valor Lp.,Peru,Hong Kong
+135,720,1922,306386,1,Valor Lp.,Peru,Hong Kong
+135,720,1923,352070,1,Valor Lp.,Peru,Hong Kong
+135,720,1924,629314,1,Valor Lp.,Peru,Hong Kong
+135,720,1925,639375,1,Valor Lp.,Peru,Hong Kong
+135,720,1926,662622,1,Valor Lp.,Peru,Hong Kong
+135,720,1927,766995,1,Valor Lp.,Peru,Hong Kong
+135,720,1928,604408,1,Valor Lp.,Peru,Hong Kong
+135,720,1929,344627,1,Valor Lp.,Peru,Hong Kong
+135,720,1930,2295633,1,S/O,Peru,Hong Kong
+135,720,1931,525113,1,S/O,Peru,Hong Kong
+135,720,1932,226207,1,S/O,Peru,Hong Kong
+135,720,1933,227466,1,S/O,Peru,Hong Kong
+135,720,1934,223385,1,S/O,Peru,Hong Kong
+135,720,1935,139151,1,S/O,Peru,Hong Kong
+135,720,1936,481120,1,S/O,Peru,Hong Kong
+135,720,1937,638254,1,S/O,Peru,Hong Kong
+135,720,1938,204525,1,S/O,Peru,Hong Kong
+135,720,1939,66489,1,S/O,Peru,Hong Kong
+135,720,1940,64247,1,S/O,Peru,Hong Kong
+135,720,1941,94575,1,S/O,Peru,Hong Kong
+135,720,1942,2454,1,S/O,Peru,Hong Kong
+135,720,1943,0,1,S/O,Peru,Hong Kong
+135,720,1944,0,1,S/O,Peru,Hong Kong
+135,720,1945,0,1,S/O,Peru,Hong Kong
+135,720,1946,4230,1,S/O,Peru,Hong Kong
+135,720,1947,141838,1,S/O,Peru,Hong Kong
+135,720,1948,431770,1,S/O,Peru,Hong Kong
+135,720,1949,932086,1,S/O,Peru,Hong Kong
+135,740,1906,5485.824,,,Peru,Japan
+135,740,1907,8223.120000000001,,,Peru,Japan
+135,740,1908,10220.881,,,Peru,Japan
+135,740,1909,8654.34,,,Peru,Japan
+135,740,1910,14905.154,,,Peru,Japan
+135,740,1911,23558.77,,,Peru,Japan
+135,740,1912,23178.5,,,Peru,Japan
+135,740,1913,12938.272,,,Peru,Japan
+135,740,1914,12462.127,,,Peru,Japan
+135,740,1915,18383.152,,,Peru,Japan
+135,740,1916,85499.473,,,Peru,Japan
+135,740,1917,129495.675,,,Peru,Japan
+135,740,1918,273035,,,Peru,Japan
+135,740,1919,316908.018,1,,Peru,Japan
+135,740,1920,337596.361,1,Valor Lp.,Peru,Japan
+135,740,1921,278490,1,Valor Lp.,Peru,Japan
+135,740,1922,190820,1,Valor Lp.,Peru,Japan
+135,740,1923,159967,1,Valor Lp.,Peru,Japan
+135,740,1924,199601,1,Valor Lp.,Peru,Japan
+135,740,1925,189105,1,Valor Lp.,Peru,Japan
+135,740,1926,223818,1,Valor Lp.,Peru,Japan
+135,740,1927,193258,1,Valor Lp.,Peru,Japan
+135,740,1928,200601,1,Valor Lp.,Peru,Japan
+135,740,1929,235602,1,Valor Lp.,Peru,Japan
+135,740,1930,2361718,1,S/O,Peru,Japan
+135,740,1931,1654906,1,S/O,Peru,Japan
+135,740,1932,1259718,1,S/O,Peru,Japan
+135,740,1933,5277369,1,S/O,Peru,Japan
+135,740,1934,10225602,1,S/O,Peru,Japan
+135,740,1935,9392426,1,S/O,Peru,Japan
+135,740,1936,7874121,1,S/O,Peru,Japan
+135,740,1937,8105241,1,S/O,Peru,Japan
+135,740,1938,8683775,1,S/O,Peru,Japan
+135,740,1939,8016479,1,S/O,Peru,Japan
+135,740,1940,18570071,1,S/O,Peru,Japan
+135,740,1941,15903803,1,S/O,Peru,Japan
+135,740,1942,7550397,1,S/O,Peru,Japan
+135,740,1943,32673,1,S/O,Peru,Japan
+135,740,1944,26355,1,S/O,Peru,Japan
+135,740,1945,2935,1,S/O,Peru,Japan
+135,740,1946,2135,1,S/O,Peru,Japan
+135,740,1947,2730,1,S/O,Peru,Japan
+135,740,1948,8087,1,S/O,Peru,Japan
+135,740,1949,2110939,1,S/O,Peru,Japan
+135,750,1906,27485.567,,,Peru,India
+135,750,1907,60256.832,,,Peru,India
+135,750,1908,51834.239,,,Peru,India
+135,750,1909,31843.24,,,Peru,India
+135,750,1910,29828.35,,,Peru,India
+135,750,1911,38977.498,,,Peru,India
+135,750,1912,33339.79,,,Peru,India
+135,750,1913,56441.25,,,Peru,India
+135,750,1914,55754.88,,,Peru,India
+135,750,1915,87409.17999999999,,,Peru,India
+135,750,1916,233173.764,,,Peru,India
+135,750,1917,350024,,,Peru,India
+135,750,1918,472664,,,Peru,India
+135,750,1919,514975.103,1,,Peru,India
+135,750,1920,314557.14,1,Valor Lp.,Peru,India
+135,750,1921,13008,1,Valor Lp.,Peru,India
+135,750,1922,140443,1,Valor Lp.,Peru,India
+135,750,1923,212006,1,Valor Lp.,Peru,India
+135,750,1924,327915,1,Valor Lp.,Peru,India
+135,750,1925,349975,1,Valor Lp.,Peru,India
+135,750,1926,442272,1,Valor Lp.,Peru,India
+135,750,1927,327512,1,Valor Lp.,Peru,India
+135,750,1928,430378,1,Valor Lp.,Peru,India
+135,750,1929,426069,1,Valor Lp.,Peru,India
+135,750,1930,3165060,1,S/O,Peru,India
+135,750,1931,2946596,1,S/O,Peru,India
+135,750,1932,2871138,1,S/O,Peru,India
+135,750,1933,4906358,1,S/O,Peru,India
+135,750,1934,4922839,1,S/O,Peru,India
+135,750,1935,6100531,1,S/O,Peru,India
+135,750,1936,4673682,1,S/O,Peru,India
+135,750,1937,5032960,1,S/O,Peru,India
+135,750,1938,4444918,1,S/O,Peru,India
+135,750,1939,6355567,1,S/O,Peru,India
+135,750,1940,11342351,1,S/O,Peru,India
+135,750,1941,7534332,1,S/O,Peru,India
+135,750,1942,15876332,1,S/O,Peru,India
+135,750,1943,10026874,1,S/O,Peru,India
+135,750,1944,12089836,1,S/O,Peru,India
+135,750,1945,12454103,1,S/O,Peru,India
+135,750,1946,11790966,1,S/O,Peru,India
+135,750,1947,20699184,1,S/O,Peru,India
+135,750,1948,42992382,1,S/O,Peru,India
+135,750,1949,67137838,1,S/O,Peru,India
+135,775,1919,0,1,,Peru,Myanmar
+135,775,1920,0,1,Valor Lp.,Peru,Myanmar
+135,775,1921,0,1,Valor Lp.,Peru,Myanmar
+135,775,1922,0,1,Valor Lp.,Peru,Myanmar
+135,775,1923,0,1,Valor Lp.,Peru,Myanmar
+135,775,1924,0,1,Valor Lp.,Peru,Myanmar
+135,775,1925,0,1,Valor Lp.,Peru,Myanmar
+135,775,1926,0,1,Valor Lp.,Peru,Myanmar
+135,775,1927,0,1,Valor Lp.,Peru,Myanmar
+135,775,1928,0,1,Valor Lp.,Peru,Myanmar
+135,775,1929,0,1,Valor Lp.,Peru,Myanmar
+135,775,1930,0,1,S/O,Peru,Myanmar
+135,775,1931,0,1,S/O,Peru,Myanmar
+135,775,1932,0,1,S/O,Peru,Myanmar
+135,775,1933,0,1,S/O,Peru,Myanmar
+135,775,1934,0,1,S/O,Peru,Myanmar
+135,775,1935,0,1,S/O,Peru,Myanmar
+135,775,1936,0,1,S/O,Peru,Myanmar
+135,775,1937,0,1,S/O,Peru,Myanmar
+135,775,1938,0,1,S/O,Peru,Myanmar
+135,775,1939,104142,1,S/O,Peru,Myanmar
+135,775,1940,3324,1,S/O,Peru,Myanmar
+135,775,1941,484384,1,S/O,Peru,Myanmar
+135,775,1942,0,1,S/O,Peru,Myanmar
+135,775,1943,0,1,S/O,Peru,Myanmar
+135,775,1944,0,1,S/O,Peru,Myanmar
+135,775,1945,0,1,S/O,Peru,Myanmar
+135,775,1946,0,1,S/O,Peru,Myanmar
+135,775,1947,0,1,S/O,Peru,Myanmar
+135,775,1948,0,1,S/O,Peru,Myanmar
+135,775,1949,0,1,S/O,Peru,Myanmar
+135,780,1919,0,1,,Peru,Sri Lanka
+135,780,1920,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1921,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1922,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1923,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1924,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1925,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1926,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1927,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1928,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1929,0,1,Valor Lp.,Peru,Sri Lanka
+135,780,1930,14288,1,S/O,Peru,Sri Lanka
+135,780,1931,115924,1,S/O,Peru,Sri Lanka
+135,780,1932,87520,1,S/O,Peru,Sri Lanka
+135,780,1933,255144,1,S/O,Peru,Sri Lanka
+135,780,1934,252207,1,S/O,Peru,Sri Lanka
+135,780,1935,369407,1,S/O,Peru,Sri Lanka
+135,780,1936,260047,1,S/O,Peru,Sri Lanka
+135,780,1937,345207,1,S/O,Peru,Sri Lanka
+135,780,1938,640425,1,S/O,Peru,Sri Lanka
+135,780,1939,241501,1,S/O,Peru,Sri Lanka
+135,780,1940,439198,1,S/O,Peru,Sri Lanka
+135,780,1941,411600,1,S/O,Peru,Sri Lanka
+135,780,1942,132615,1,S/O,Peru,Sri Lanka
+135,780,1943,61318,1,S/O,Peru,Sri Lanka
+135,780,1944,311795,1,S/O,Peru,Sri Lanka
+135,780,1945,230430,1,S/O,Peru,Sri Lanka
+135,780,1946,1317619,1,S/O,Peru,Sri Lanka
+135,780,1947,4220848,1,S/O,Peru,Sri Lanka
+135,780,1948,3199874,1,S/O,Peru,Sri Lanka
+135,780,1949,6294402,1,S/O,Peru,Sri Lanka
+135,800,1906,34534.56,,,Peru,Thailand
+135,800,1919,0,1,,Peru,Thailand
+135,800,1920,0,1,Valor Lp.,Peru,Thailand
+135,800,1921,0,1,Valor Lp.,Peru,Thailand
+135,800,1922,0,1,Valor Lp.,Peru,Thailand
+135,800,1923,0,1,Valor Lp.,Peru,Thailand
+135,800,1924,0,1,Valor Lp.,Peru,Thailand
+135,800,1925,0,1,Valor Lp.,Peru,Thailand
+135,800,1926,0,1,Valor Lp.,Peru,Thailand
+135,800,1927,0,1,Valor Lp.,Peru,Thailand
+135,800,1928,0,1,Valor Lp.,Peru,Thailand
+135,800,1929,0,1,Valor Lp.,Peru,Thailand
+135,800,1930,0,1,S/O,Peru,Thailand
+135,800,1931,320353,1,S/O,Peru,Thailand
+135,800,1932,81740,1,S/O,Peru,Thailand
+135,800,1933,0,1,S/O,Peru,Thailand
+135,800,1934,185,1,S/O,Peru,Thailand
+135,800,1935,71118,1,S/O,Peru,Thailand
+135,800,1936,3264308,1,S/O,Peru,Thailand
+135,800,1937,1390583,1,S/O,Peru,Thailand
+135,800,1938,3039241,1,S/O,Peru,Thailand
+135,800,1939,3108882,1,S/O,Peru,Thailand
+135,800,1940,668976,1,S/O,Peru,Thailand
+135,800,1941,0,1,S/O,Peru,Thailand
+135,800,1942,0,1,S/O,Peru,Thailand
+135,800,1943,0,1,S/O,Peru,Thailand
+135,800,1944,0,1,S/O,Peru,Thailand
+135,800,1945,0,1,S/O,Peru,Thailand
+135,800,1946,0,1,S/O,Peru,Thailand
+135,800,1947,216548,1,S/O,Peru,Thailand
+135,800,1948,238307,1,S/O,Peru,Thailand
+135,800,1949,73665,1,S/O,Peru,Thailand
+135,810,1919,0,1,,Peru,French Indo-China
+135,810,1920,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1921,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1922,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1923,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1924,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1925,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1926,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1927,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1928,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1929,0,1,Valor Lp.,Peru,French Indo-China
+135,810,1930,0,1,S/O,Peru,French Indo-China
+135,810,1931,2,1,S/O,Peru,French Indo-China
+135,810,1932,1272,1,S/O,Peru,French Indo-China
+135,810,1933,263,1,S/O,Peru,French Indo-China
+135,810,1934,2440,1,S/O,Peru,French Indo-China
+135,810,1935,0,1,S/O,Peru,French Indo-China
+135,810,1936,680,1,S/O,Peru,French Indo-China
+135,810,1937,6,1,S/O,Peru,French Indo-China
+135,810,1938,76,1,S/O,Peru,French Indo-China
+135,810,1939,1988,1,S/O,Peru,French Indo-China
+135,810,1940,10848,1,S/O,Peru,French Indo-China
+135,810,1941,99,1,S/O,Peru,French Indo-China
+135,810,1942,0,1,S/O,Peru,French Indo-China
+135,810,1943,0,1,S/O,Peru,French Indo-China
+135,810,1944,0,1,S/O,Peru,French Indo-China
+135,810,1945,0,1,S/O,Peru,French Indo-China
+135,810,1946,0,1,S/O,Peru,French Indo-China
+135,810,1947,5481,1,S/O,Peru,French Indo-China
+135,810,1948,181355,1,S/O,Peru,French Indo-China
+135,810,1949,87227,1,S/O,Peru,French Indo-China
+135,840,1919,0,1,,Peru,Philippines
+135,840,1920,0,1,Valor Lp.,Peru,Philippines
+135,840,1921,0,1,Valor Lp.,Peru,Philippines
+135,840,1922,0,1,Valor Lp.,Peru,Philippines
+135,840,1923,0,1,Valor Lp.,Peru,Philippines
+135,840,1924,0,1,Valor Lp.,Peru,Philippines
+135,840,1925,0,1,Valor Lp.,Peru,Philippines
+135,840,1926,0,1,Valor Lp.,Peru,Philippines
+135,840,1927,0,1,Valor Lp.,Peru,Philippines
+135,840,1928,0,1,Valor Lp.,Peru,Philippines
+135,840,1929,1,1,Valor Lp.,Peru,Philippines
+135,840,1930,0,1,S/O,Peru,Philippines
+135,840,1931,4149,1,S/O,Peru,Philippines
+135,840,1932,7201,1,S/O,Peru,Philippines
+135,840,1933,14203,1,S/O,Peru,Philippines
+135,840,1934,85879,1,S/O,Peru,Philippines
+135,840,1935,107139,1,S/O,Peru,Philippines
+135,840,1936,297061,1,S/O,Peru,Philippines
+135,840,1937,341986,1,S/O,Peru,Philippines
+135,840,1938,319175,1,S/O,Peru,Philippines
+135,840,1939,234250,1,S/O,Peru,Philippines
+135,840,1940,373786,1,S/O,Peru,Philippines
+135,840,1941,449178,1,S/O,Peru,Philippines
+135,840,1942,72789,1,S/O,Peru,Philippines
+135,840,1943,1115,1,S/O,Peru,Philippines
+135,840,1944,0,1,S/O,Peru,Philippines
+135,840,1945,0,1,S/O,Peru,Philippines
+135,840,1946,0,1,S/O,Peru,Philippines
+135,840,1947,237113,1,S/O,Peru,Philippines
+135,840,1948,3546243,1,S/O,Peru,Philippines
+135,840,1949,654934,1,S/O,Peru,Philippines
+135,900,1906,328591.142,,,Peru,Australia
+135,900,1907,318462.969,,,Peru,Australia
+135,900,1908,135500.222,,,Peru,Australia
+135,900,1909,117864.558,,,Peru,Australia
+135,900,1910,182152.709,,,Peru,Australia
+135,900,1911,229306.019,,,Peru,Australia
+135,900,1912,239558.252,,,Peru,Australia
+135,900,1913,129895.369,,,Peru,Australia
+135,900,1914,187087.806,,,Peru,Australia
+135,900,1915,12372.628,,,Peru,Australia
+135,900,1916,235416.96,,,Peru,Australia
+135,900,1917,231942.047,,,Peru,Australia
+135,900,1918,52580,,,Peru,Australia
+135,900,1919,181035.22,1,,Peru,Australia
+135,900,1920,88108.504,1,Valor Lp.,Peru,Australia
+135,900,1921,576982,1,Valor Lp.,Peru,Australia
+135,900,1922,256639,1,Valor Lp.,Peru,Australia
+135,900,1923,38447,1,Valor Lp.,Peru,Australia
+135,900,1924,120795,1,Valor Lp.,Peru,Australia
+135,900,1925,817072,1,Valor Lp.,Peru,Australia
+135,900,1926,423794,1,Valor Lp.,Peru,Australia
+135,900,1927,697857,1,Valor Lp.,Peru,Australia
+135,900,1928,465700,1,Valor Lp.,Peru,Australia
+135,900,1929,595732,1,Valor Lp.,Peru,Australia
+135,900,1930,1957181,1,S/O,Peru,Australia
+135,900,1931,2551047,1,S/O,Peru,Australia
+135,900,1932,2890889,1,S/O,Peru,Australia
+135,900,1933,3512223,1,S/O,Peru,Australia
+135,900,1934,964838,1,S/O,Peru,Australia
+135,900,1935,58131,1,S/O,Peru,Australia
+135,900,1936,126457,1,S/O,Peru,Australia
+135,900,1937,1309289,1,S/O,Peru,Australia
+135,900,1938,90442,1,S/O,Peru,Australia
+135,900,1939,36767,1,S/O,Peru,Australia
+135,900,1940,594,1,S/O,Peru,Australia
+135,900,1941,49050,1,S/O,Peru,Australia
+135,900,1942,14436,1,S/O,Peru,Australia
+135,900,1943,7519922,1,S/O,Peru,Australia
+135,900,1944,20625953,1,S/O,Peru,Australia
+135,900,1945,5790891,1,S/O,Peru,Australia
+135,900,1946,134,1,S/O,Peru,Australia
+135,900,1947,75659,1,S/O,Peru,Australia
+135,900,1948,17423,1,S/O,Peru,Australia
+135,900,1949,22764248,1,S/O,Peru,Australia
+135,920,1919,0,1,,Peru,New Zealand
+135,920,1920,0,1,Valor Lp.,Peru,New Zealand
+135,920,1921,0,1,Valor Lp.,Peru,New Zealand
+135,920,1922,0,1,Valor Lp.,Peru,New Zealand
+135,920,1923,0,1,Valor Lp.,Peru,New Zealand
+135,920,1924,0,1,Valor Lp.,Peru,New Zealand
+135,920,1925,0,1,Valor Lp.,Peru,New Zealand
+135,920,1926,2,1,Valor Lp.,Peru,New Zealand
+135,920,1927,0,1,Valor Lp.,Peru,New Zealand
+135,920,1928,3080,1,Valor Lp.,Peru,New Zealand
+135,920,1929,2501,1,Valor Lp.,Peru,New Zealand
+135,920,1930,13653,1,S/O,Peru,New Zealand
+135,920,1931,482,1,S/O,Peru,New Zealand
+135,920,1932,11275,1,S/O,Peru,New Zealand
+135,920,1933,648,1,S/O,Peru,New Zealand
+135,920,1934,826,1,S/O,Peru,New Zealand
+135,920,1935,1930,1,S/O,Peru,New Zealand
+135,920,1936,908,1,S/O,Peru,New Zealand
+135,920,1937,1166,1,S/O,Peru,New Zealand
+135,920,1938,22949,1,S/O,Peru,New Zealand
+135,920,1939,3401,1,S/O,Peru,New Zealand
+135,920,1940,2464,1,S/O,Peru,New Zealand
+135,920,1941,198,1,S/O,Peru,New Zealand
+135,920,1942,7465,1,S/O,Peru,New Zealand
+135,920,1943,0,1,S/O,Peru,New Zealand
+135,920,1944,9,1,S/O,Peru,New Zealand
+135,920,1945,0,1,S/O,Peru,New Zealand
+135,920,1946,69,1,S/O,Peru,New Zealand
+135,920,1947,241,1,S/O,Peru,New Zealand
+135,920,1948,147,1,S/O,Peru,New Zealand
+135,920,1949,363,1,S/O,Peru,New Zealand
+135,1062,1919,0,1,,Peru,Anguilla
+135,1062,1920,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1921,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1922,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1923,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1924,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1925,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1926,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1927,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1928,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1929,0,1,Valor Lp.,Peru,Anguilla
+135,1062,1930,0,1,S/O,Peru,Anguilla
+135,1062,1931,0,1,S/O,Peru,Anguilla
+135,1062,1932,304,1,S/O,Peru,Anguilla
+135,1062,1933,3358,1,S/O,Peru,Anguilla
+135,1062,1934,0,1,S/O,Peru,Anguilla
+135,1062,1935,18,1,S/O,Peru,Anguilla
+135,1062,1936,0,1,S/O,Peru,Anguilla
+135,1062,1937,0,1,S/O,Peru,Anguilla
+135,1062,1938,0,1,S/O,Peru,Anguilla
+135,1062,1939,0,1,S/O,Peru,Anguilla
+135,1062,1940,0,1,S/O,Peru,Anguilla
+135,1062,1941,0,1,S/O,Peru,Anguilla
+135,1062,1942,0,1,S/O,Peru,Anguilla
+135,1062,1943,0,1,S/O,Peru,Anguilla
+135,1062,1944,0,1,S/O,Peru,Anguilla
+135,1062,1945,0,1,S/O,Peru,Anguilla
+135,1062,1946,0,1,S/O,Peru,Anguilla
+135,1062,1947,0,1,S/O,Peru,Anguilla
+135,1062,1948,0,1,S/O,Peru,Anguilla
+135,1062,1949,0,1,S/O,Peru,Anguilla
+135,1065,1919,0,1,,Peru,Curacao
+135,1065,1920,0,1,Valor Lp.,Peru,Curacao
+135,1065,1921,0,1,Valor Lp.,Peru,Curacao
+135,1065,1922,0,1,Valor Lp.,Peru,Curacao
+135,1065,1923,0,1,Valor Lp.,Peru,Curacao
+135,1065,1924,0,1,Valor Lp.,Peru,Curacao
+135,1065,1925,0,1,Valor Lp.,Peru,Curacao
+135,1065,1926,0,1,Valor Lp.,Peru,Curacao
+135,1065,1927,0,1,Valor Lp.,Peru,Curacao
+135,1065,1928,0,1,Valor Lp.,Peru,Curacao
+135,1065,1929,0,1,Valor Lp.,Peru,Curacao
+135,1065,1930,150,1,S/O,Peru,Curacao
+135,1065,1931,89,1,S/O,Peru,Curacao
+135,1065,1932,752,1,S/O,Peru,Curacao
+135,1065,1933,142,1,S/O,Peru,Curacao
+135,1065,1934,50,1,S/O,Peru,Curacao
+135,1065,1935,491,1,S/O,Peru,Curacao
+135,1065,1936,0,1,S/O,Peru,Curacao
+135,1065,1937,83,1,S/O,Peru,Curacao
+135,1065,1938,12,1,S/O,Peru,Curacao
+135,1065,1939,0,1,S/O,Peru,Curacao
+135,1065,1940,3846,1,S/O,Peru,Curacao
+135,1065,1941,55,1,S/O,Peru,Curacao
+135,1065,1942,6,1,S/O,Peru,Curacao
+135,1065,1943,0,1,S/O,Peru,Curacao
+135,1065,1944,0,1,S/O,Peru,Curacao
+135,1065,1945,0,1,S/O,Peru,Curacao
+135,1065,1946,179,1,S/O,Peru,Curacao
+135,1065,1947,2383,1,S/O,Peru,Curacao
+135,1065,1948,86,1,S/O,Peru,Curacao
+135,1065,1949,578,1,S/O,Peru,Curacao
+135,1069,1919,0,1,,Peru,Aruba
+135,1069,1920,0,1,Valor Lp.,Peru,Aruba
+135,1069,1921,0,1,Valor Lp.,Peru,Aruba
+135,1069,1922,0,1,Valor Lp.,Peru,Aruba
+135,1069,1923,0,1,Valor Lp.,Peru,Aruba
+135,1069,1924,0,1,Valor Lp.,Peru,Aruba
+135,1069,1925,0,1,Valor Lp.,Peru,Aruba
+135,1069,1926,0,1,Valor Lp.,Peru,Aruba
+135,1069,1927,0,1,Valor Lp.,Peru,Aruba
+135,1069,1928,0,1,Valor Lp.,Peru,Aruba
+135,1069,1929,0,1,Valor Lp.,Peru,Aruba
+135,1069,1930,0,1,S/O,Peru,Aruba
+135,1069,1931,1501,1,S/O,Peru,Aruba
+135,1069,1932,0,1,S/O,Peru,Aruba
+135,1069,1933,396,1,S/O,Peru,Aruba
+135,1069,1934,45,1,S/O,Peru,Aruba
+135,1069,1935,225612,1,S/O,Peru,Aruba
+135,1069,1936,17,1,S/O,Peru,Aruba
+135,1069,1937,0,1,S/O,Peru,Aruba
+135,1069,1938,0,1,S/O,Peru,Aruba
+135,1069,1939,0,1,S/O,Peru,Aruba
+135,1069,1940,0,1,S/O,Peru,Aruba
+135,1069,1941,1390714,1,S/O,Peru,Aruba
+135,1069,1942,1587850,1,S/O,Peru,Aruba
+135,1069,1943,0,1,S/O,Peru,Aruba
+135,1069,1944,0,1,S/O,Peru,Aruba
+135,1069,1945,1123320,1,S/O,Peru,Aruba
+135,1069,1946,1871133,1,S/O,Peru,Aruba
+135,1069,1947,10902900,1,S/O,Peru,Aruba
+135,1069,1948,287,1,S/O,Peru,Aruba
+135,1069,1949,0,1,S/O,Peru,Aruba
+135,1163,1919,0,1,,Peru,Falkland Islands
+135,1163,1920,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1921,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1922,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1923,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1924,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1925,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1926,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1927,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1928,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1929,0,1,Valor Lp.,Peru,Falkland Islands
+135,1163,1930,0,1,S/O,Peru,Falkland Islands
+135,1163,1931,0,1,S/O,Peru,Falkland Islands
+135,1163,1932,97,1,S/O,Peru,Falkland Islands
+135,1163,1933,418,1,S/O,Peru,Falkland Islands
+135,1163,1934,0,1,S/O,Peru,Falkland Islands
+135,1163,1935,0,1,S/O,Peru,Falkland Islands
+135,1163,1936,0,1,S/O,Peru,Falkland Islands
+135,1163,1937,0,1,S/O,Peru,Falkland Islands
+135,1163,1938,0,1,S/O,Peru,Falkland Islands
+135,1163,1939,0,1,S/O,Peru,Falkland Islands
+135,1163,1940,0,1,S/O,Peru,Falkland Islands
+135,1163,1941,0,1,S/O,Peru,Falkland Islands
+135,1163,1942,0,1,S/O,Peru,Falkland Islands
+135,1163,1943,0,1,S/O,Peru,Falkland Islands
+135,1163,1944,0,1,S/O,Peru,Falkland Islands
+135,1163,1945,0,1,S/O,Peru,Falkland Islands
+135,1163,1946,0,1,S/O,Peru,Falkland Islands
+135,1163,1947,0,1,S/O,Peru,Falkland Islands
+135,1163,1948,0,1,S/O,Peru,Falkland Islands
+135,1163,1949,0,1,S/O,Peru,Falkland Islands
+135,3651,1919,0,1,,Peru,Siberia
+135,3651,1920,0,1,Valor Lp.,Peru,Siberia
+135,3651,1921,0,1,Valor Lp.,Peru,Siberia
+135,3651,1922,0,1,Valor Lp.,Peru,Siberia
+135,3651,1923,0,1,Valor Lp.,Peru,Siberia
+135,3651,1924,0,1,Valor Lp.,Peru,Siberia
+135,3651,1925,0,1,Valor Lp.,Peru,Siberia
+135,3651,1926,0,1,Valor Lp.,Peru,Siberia
+135,3651,1927,0,1,Valor Lp.,Peru,Siberia
+135,3651,1928,0,1,Valor Lp.,Peru,Siberia
+135,3651,1929,0,1,Valor Lp.,Peru,Siberia
+135,3651,1930,0,1,S/O,Peru,Siberia
+135,3651,1931,3803,1,S/O,Peru,Siberia
+135,3651,1932,530,1,S/O,Peru,Siberia
+135,3651,1933,1376,1,S/O,Peru,Siberia
+135,3651,1934,176,1,S/O,Peru,Siberia
+135,3651,1935,6116,1,S/O,Peru,Siberia
+135,3651,1936,1231,1,S/O,Peru,Siberia
+135,3651,1937,458,1,S/O,Peru,Siberia
+135,3651,1938,477,1,S/O,Peru,Siberia
+135,3651,1939,5265,1,S/O,Peru,Siberia
+135,3651,1940,0,1,S/O,Peru,Siberia
+135,3651,1941,0,1,S/O,Peru,Siberia
+135,3651,1942,0,1,S/O,Peru,Siberia
+135,3651,1943,0,1,S/O,Peru,Siberia
+135,3651,1944,0,1,S/O,Peru,Siberia
+135,3651,1945,0,1,S/O,Peru,Siberia
+135,3651,1946,0,1,S/O,Peru,Siberia
+135,3651,1947,0,1,S/O,Peru,Siberia
+135,3651,1948,0,1,S/O,Peru,Siberia
+135,3651,1949,804,1,S/O,Peru,Siberia
+135,5200,1919,0,1,,Peru,Italian Somaliland
+135,5200,1920,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1921,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1922,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1923,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1924,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1925,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1926,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1927,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1928,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1929,0,1,Valor Lp.,Peru,Italian Somaliland
+135,5200,1930,0,1,S/O,Peru,Italian Somaliland
+135,5200,1931,0,1,S/O,Peru,Italian Somaliland
+135,5200,1932,0,1,S/O,Peru,Italian Somaliland
+135,5200,1933,0,1,S/O,Peru,Italian Somaliland
+135,5200,1934,0,1,S/O,Peru,Italian Somaliland
+135,5200,1935,0,1,S/O,Peru,Italian Somaliland
+135,5200,1936,0,1,S/O,Peru,Italian Somaliland
+135,5200,1937,0,1,S/O,Peru,Italian Somaliland
+135,5200,1938,0,1,S/O,Peru,Italian Somaliland
+135,5200,1939,0,1,S/O,Peru,Italian Somaliland
+135,5200,1940,0,1,S/O,Peru,Italian Somaliland
+135,5200,1941,0,1,S/O,Peru,Italian Somaliland
+135,5200,1942,0,1,S/O,Peru,Italian Somaliland
+135,5200,1943,0,1,S/O,Peru,Italian Somaliland
+135,5200,1944,0,1,S/O,Peru,Italian Somaliland
+135,5200,1945,0,1,S/O,Peru,Italian Somaliland
+135,5200,1946,0,1,S/O,Peru,Italian Somaliland
+135,5200,1947,0,1,S/O,Peru,Italian Somaliland
+135,5200,1948,0,1,S/O,Peru,Italian Somaliland
+135,5200,1949,2252,1,S/O,Peru,Italian Somaliland
+135,6800,1919,0,1,,Peru,Socotra
+135,6800,1920,0,1,Valor Lp.,Peru,Socotra
+135,6800,1921,0,1,Valor Lp.,Peru,Socotra
+135,6800,1922,0,1,Valor Lp.,Peru,Socotra
+135,6800,1923,0,1,Valor Lp.,Peru,Socotra
+135,6800,1924,0,1,Valor Lp.,Peru,Socotra
+135,6800,1925,0,1,Valor Lp.,Peru,Socotra
+135,6800,1926,0,1,Valor Lp.,Peru,Socotra
+135,6800,1927,0,1,Valor Lp.,Peru,Socotra
+135,6800,1928,0,1,Valor Lp.,Peru,Socotra
+135,6800,1929,0,1,Valor Lp.,Peru,Socotra
+135,6800,1930,0,1,S/O,Peru,Socotra
+135,6800,1931,0,1,S/O,Peru,Socotra
+135,6800,1932,79,1,S/O,Peru,Socotra
+135,6800,1933,0,1,S/O,Peru,Socotra
+135,6800,1934,21,1,S/O,Peru,Socotra
+135,6800,1935,0,1,S/O,Peru,Socotra
+135,6800,1936,0,1,S/O,Peru,Socotra
+135,6800,1937,0,1,S/O,Peru,Socotra
+135,6800,1938,0,1,S/O,Peru,Socotra
+135,6800,1939,0,1,S/O,Peru,Socotra
+135,6800,1940,0,1,S/O,Peru,Socotra
+135,6800,1941,0,1,S/O,Peru,Socotra
+135,6800,1942,0,1,S/O,Peru,Socotra
+135,6800,1943,0,1,S/O,Peru,Socotra
+135,6800,1944,0,1,S/O,Peru,Socotra
+135,6800,1945,0,1,S/O,Peru,Socotra
+135,6800,1946,0,1,S/O,Peru,Socotra
+135,6800,1947,0,1,S/O,Peru,Socotra
+135,6800,1948,0,1,S/O,Peru,Socotra
+135,6800,1949,0,1,S/O,Peru,Socotra
+135,8501,1919,0,1,,Peru,Java
+135,8501,1920,0,1,Valor Lp.,Peru,Java
+135,8501,1921,0,1,Valor Lp.,Peru,Java
+135,8501,1922,0,1,Valor Lp.,Peru,Java
+135,8501,1923,0,1,Valor Lp.,Peru,Java
+135,8501,1924,0,1,Valor Lp.,Peru,Java
+135,8501,1925,0,1,Valor Lp.,Peru,Java
+135,8501,1926,0,1,Valor Lp.,Peru,Java
+135,8501,1927,0,1,Valor Lp.,Peru,Java
+135,8501,1928,0,1,Valor Lp.,Peru,Java
+135,8501,1929,0,1,Valor Lp.,Peru,Java
+135,8501,1930,26835,1,S/O,Peru,Java
+135,8501,1931,64494,1,S/O,Peru,Java
+135,8501,1932,51393,1,S/O,Peru,Java
+135,8501,1933,144754,1,S/O,Peru,Java
+135,8501,1934,342811,1,S/O,Peru,Java
+135,8501,1935,377096,1,S/O,Peru,Java
+135,8501,1936,255784,1,S/O,Peru,Java
+135,8501,1937,592766,1,S/O,Peru,Java
+135,8501,1938,533715,1,S/O,Peru,Java
+135,8501,1939,434611,1,S/O,Peru,Java
+135,8501,1940,1574256,1,S/O,Peru,Java
+135,8501,1941,2280315,1,S/O,Peru,Java
+135,8501,1942,664058,1,S/O,Peru,Java
+135,8501,1943,108301,1,S/O,Peru,Java
+135,8501,1944,11969,1,S/O,Peru,Java
+135,8501,1945,74298,1,S/O,Peru,Java
+135,8501,1946,683993,1,S/O,Peru,Java
+135,8501,1947,731494,1,S/O,Peru,Java
+135,8501,1948,40880,1,S/O,Peru,Java
+135,8501,1949,902,1,S/O,Peru,Java
+135,8502,1919,0,1,,Peru,Sumatra
+135,8502,1920,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1921,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1922,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1923,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1924,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1925,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1926,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1927,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1928,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1929,0,1,Valor Lp.,Peru,Sumatra
+135,8502,1930,0,1,S/O,Peru,Sumatra
+135,8502,1931,128,1,S/O,Peru,Sumatra
+135,8502,1932,10546,1,S/O,Peru,Sumatra
+135,8502,1933,6341,1,S/O,Peru,Sumatra
+135,8502,1934,8679,1,S/O,Peru,Sumatra
+135,8502,1935,27167,1,S/O,Peru,Sumatra
+135,8502,1936,24408,1,S/O,Peru,Sumatra
+135,8502,1937,42628,1,S/O,Peru,Sumatra
+135,8502,1938,60411,1,S/O,Peru,Sumatra
+135,8502,1939,25183,1,S/O,Peru,Sumatra
+135,8502,1940,141600,1,S/O,Peru,Sumatra
+135,8502,1941,50836,1,S/O,Peru,Sumatra
+135,8502,1942,25295,1,S/O,Peru,Sumatra
+135,8502,1943,1170,1,S/O,Peru,Sumatra
+135,8502,1944,0,1,S/O,Peru,Sumatra
+135,8502,1945,0,1,S/O,Peru,Sumatra
+135,8502,1946,2040,1,S/O,Peru,Sumatra
+135,8502,1947,28230,1,S/O,Peru,Sumatra
+135,8502,1948,6014,1,S/O,Peru,Sumatra
+135,8502,1949,3510,1,S/O,Peru,Sumatra
+135,8503,1919,0,1,,Peru,Celebes
+135,8503,1920,0,1,Valor Lp.,Peru,Celebes
+135,8503,1921,0,1,Valor Lp.,Peru,Celebes
+135,8503,1922,0,1,Valor Lp.,Peru,Celebes
+135,8503,1923,0,1,Valor Lp.,Peru,Celebes
+135,8503,1924,0,1,Valor Lp.,Peru,Celebes
+135,8503,1925,0,1,Valor Lp.,Peru,Celebes
+135,8503,1926,0,1,Valor Lp.,Peru,Celebes
+135,8503,1927,0,1,Valor Lp.,Peru,Celebes
+135,8503,1928,0,1,Valor Lp.,Peru,Celebes
+135,8503,1929,0,1,Valor Lp.,Peru,Celebes
+135,8503,1930,0,1,S/O,Peru,Celebes
+135,8503,1931,0,1,S/O,Peru,Celebes
+135,8503,1932,0,1,S/O,Peru,Celebes
+135,8503,1933,0,1,S/O,Peru,Celebes
+135,8503,1934,0,1,S/O,Peru,Celebes
+135,8503,1935,0,1,S/O,Peru,Celebes
+135,8503,1936,0,1,S/O,Peru,Celebes
+135,8503,1937,0,1,S/O,Peru,Celebes
+135,8503,1938,906,1,S/O,Peru,Celebes
+135,8503,1939,0,1,S/O,Peru,Celebes
+135,8503,1940,0,1,S/O,Peru,Celebes
+135,8503,1941,324,1,S/O,Peru,Celebes
+135,8503,1942,0,1,S/O,Peru,Celebes
+135,8503,1943,0,1,S/O,Peru,Celebes
+135,8503,1944,0,1,S/O,Peru,Celebes
+135,8503,1945,0,1,S/O,Peru,Celebes
+135,8503,1946,0,1,S/O,Peru,Celebes
+135,8503,1947,0,1,S/O,Peru,Celebes
+135,8503,1948,0,1,S/O,Peru,Celebes
+135,8503,1949,0,1,S/O,Peru,Celebes
+135,,1900,848022,,,Peru,
+135,,1901,1071939,,,Peru,
+135,,1902,1573767,,,Peru,
+135,,1903,1714184,,,Peru,
+135,,1904,2324455,,,Peru,
+135,,1905,2302698,,,Peru,
+135,,1906,2841362,,,Peru,
+135,,1907,3143970,,,Peru,
+135,,1908,3595993.1,,,Peru,
+135,,1909,2199483.178,,,Peru,
+135,,1910,2673747.598999999,,,Peru,
+135,,1911,2806748.313,,,Peru,
+135,,1912,2942588.309,,,Peru,
+135,,1913,4116399.962,,,Peru,
+135,,1914,3470872.417,,,Peru,
+135,,1915,3284326.401000001,,,Peru,
+135,,1916,11108875.023,,,Peru,
+135,,1917,27070911.743,,,Peru,
+135,,1918,19502731,,,Peru,
+135,,1919,24510185.27599999,1,,Peru,
+135,,1920,36826027.39000001,1,Valor Lp.,Peru,
+135,,1921,33449084,1,Valor Lp.,Peru,
+135,,1922,21215868,1,Valor Lp.,Peru,
+135,,1923,28310239,1,Valor Lp.,Peru,
+135,,1924,36097761,1,Valor Lp.,Peru,
+135,,1925,36587845,1,Valor Lp.,Peru,
+135,,1926,37472406,1,Valor Lp.,Peru,
+135,,1927,37567738,1,Valor Lp.,Peru,
+135,,1928,33740730,1,Valor Lp.,Peru,
+135,,1929,38003890,1,Valor Lp.,Peru,
+135,,1930,280522494,1,S/O,Peru,
+135,,1931,204982928,1,S/O,Peru,
+135,,1932,152222277,1,S/O,Peru,
+135,,1933,214960244,1,S/O,Peru,
+135,,1934,342670642,1,S/O,Peru,
+135,,1935,362263312,1,S/O,Peru,
+135,,1936,401099244,1,S/O,Peru,
+135,,1937,470612812,1,S/O,Peru,
+135,,1938,520406562,1,S/O,Peru,
+135,,1939,511800393,1,S/O,Peru,
+135,,1940,637753316,1,S/O,Peru,
+135,,1941,716042791,1,S/O,Peru,
+135,,1942,677466453,1,S/O,Peru,
+135,,1943,898743865,1,S/O,Peru,
+135,,1944,1028860799,1,S/O,Peru,
+135,,1945,1099773360,1,S/O,Peru,
+135,,1946,1605187548,1,S/O,Peru,
+135,,1947,2185776603,1,S/O,Peru,
+135,,1948,2181686880,1,S/O,Peru,
+135,,1949,5386470782,1,S/O,Peru,

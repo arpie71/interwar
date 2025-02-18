@@ -1,0 +1,3194 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+350,2,1909,4680320,1,Drachmes,Greece,United States
+350,2,1910,4210950,1,Drachmes,Greece,United States
+350,2,1911,4142774,1,Drachmes,Greece,United States
+350,2,1912,4150794,1,Drachmes,Greece,United States
+350,2,1913,2849200,1,Drachmes,Greece,United States
+350,2,1914,21199373,1,Drachmes,Greece,United States
+350,2,1915,111066370,1,Drachmes,Greece,United States
+350,2,1916,235018687,1,Drachmes,Greece,United States
+350,2,1917,109715269,1,Drachmes,Greece,United States
+350,2,1918,86029558,1,Drachmes,Greece,United States
+350,2,1919,349692008,1,Drachmes,Greece,United States
+350,2,1920,456092151,1,Drachmes,Greece,United States
+350,2,1921,417460020,1,Drachmes,Greece,United States
+350,2,1922,676793,1000,Milliers De Drachmes,Greece,United States
+350,2,1923,1247932,1000,Milliers De Drachmes,Greece,United States
+350,2,1924,1110120,1000,Milliers De Drachmes,Greece,United States
+350,2,1925,1821990,1000,Milliers De Drachmes,Greece,United States
+350,2,1926,1628309,1000,Milliers De Drachmes,Greece,United States
+350,2,1927,2012342,1000,Milliers De Drachmes,Greece,United States
+350,2,1928,1935623,1000,,Greece,United States
+350,2,1929,2088219,1000,Milliers De Drachmes,Greece,United States
+350,2,1930,1650739,1000,Milliers De Drachmes,Greece,United States
+350,2,1931,842146,1000,Milliers De Drachmes,Greece,United States
+350,2,1932,1089114,1000,Milliers De Drachmes,Greece,United States
+350,2,1933,492808,1000,Milliers De Drachmes,Greece,United States
+350,2,1934,546408,1000,Milliers De Drachmes,Greece,United States
+350,2,1935,671835,1000,Milliers De Drachmes,Greece,United States
+350,2,1936,847508,1000,,Greece,United States
+350,2,1937,661926,1000,,Greece,United States
+350,2,1938,1081785,1000,,Greece,United States
+350,2,1939,867461,1000,,Greece,United States
+350,20,1909,0,1,Drachmes,Greece,Canada
+350,20,1910,0,1,Drachmes,Greece,Canada
+350,20,1911,0,1,Drachmes,Greece,Canada
+350,20,1912,0,1,Drachmes,Greece,Canada
+350,20,1913,0,1,Drachmes,Greece,Canada
+350,20,1914,0,1,Drachmes,Greece,Canada
+350,20,1915,0,1,Drachmes,Greece,Canada
+350,20,1916,0,1,Drachmes,Greece,Canada
+350,20,1917,0,1,Drachmes,Greece,Canada
+350,20,1918,0,1,Drachmes,Greece,Canada
+350,20,1919,68611847,1,Drachmes,Greece,Canada
+350,20,1920,284780931,1,Drachmes,Greece,Canada
+350,20,1921,219905132,1,Drachmes,Greece,Canada
+350,20,1922,0,1000,Milliers De Drachmes,Greece,Canada
+350,20,1923,973613,1000,Milliers De Drachmes,Greece,Canada
+350,20,1924,877140,1000,Milliers De Drachmes,Greece,Canada
+350,20,1925,324062,1000,Milliers De Drachmes,Greece,Canada
+350,20,1926,389085,1000,Milliers De Drachmes,Greece,Canada
+350,20,1927,433853,1000,Milliers De Drachmes,Greece,Canada
+350,20,1928,884989,1000,,Greece,Canada
+350,20,1929,719876,1000,Milliers De Drachmes,Greece,Canada
+350,20,1930,428937,1000,Milliers De Drachmes,Greece,Canada
+350,20,1931,377095,1000,Milliers De Drachmes,Greece,Canada
+350,20,1932,67928,1000,Milliers De Drachmes,Greece,Canada
+350,20,1933,242658,1000,Milliers De Drachmes,Greece,Canada
+350,20,1934,10069,1000,Milliers De Drachmes,Greece,Canada
+350,20,1935,10065,1000,Milliers De Drachmes,Greece,Canada
+350,20,1936,720968,1000,,Greece,Canada
+350,20,1937,164489,1000,,Greece,Canada
+350,20,1938,324487,1000,,Greece,Canada
+350,20,1939,114934,1000,,Greece,Canada
+350,40,1909,0,1,Drachmes,Greece,Cuba
+350,40,1910,0,1,Drachmes,Greece,Cuba
+350,40,1911,0,1,Drachmes,Greece,Cuba
+350,40,1912,0,1,Drachmes,Greece,Cuba
+350,40,1913,0,1,Drachmes,Greece,Cuba
+350,40,1914,0,1,Drachmes,Greece,Cuba
+350,40,1915,0,1,Drachmes,Greece,Cuba
+350,40,1916,0,1,Drachmes,Greece,Cuba
+350,40,1917,0,1,Drachmes,Greece,Cuba
+350,40,1918,0,1,Drachmes,Greece,Cuba
+350,40,1919,135,1,Drachmes,Greece,Cuba
+350,40,1920,7481,1,Drachmes,Greece,Cuba
+350,40,1921,0,1,Drachmes,Greece,Cuba
+350,40,1922,0,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1923,519,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1924,498,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1925,9,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1926,65,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1927,564,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1928,1365,1000,,Greece,Cuba
+350,40,1929,5659,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1930,550,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1931,3864,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1932,35,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1933,15,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1934,0,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1935,0,1000,Milliers De Drachmes,Greece,Cuba
+350,40,1936,0,1000,,Greece,Cuba
+350,40,1937,573,1000,,Greece,Cuba
+350,40,1938,0,1000,,Greece,Cuba
+350,40,1939,0,1000,,Greece,Cuba
+350,42,1909,0,1,Drachmes,Greece,Dominican Republic
+350,42,1910,0,1,Drachmes,Greece,Dominican Republic
+350,42,1911,0,1,Drachmes,Greece,Dominican Republic
+350,42,1912,0,1,Drachmes,Greece,Dominican Republic
+350,42,1913,0,1,Drachmes,Greece,Dominican Republic
+350,42,1914,0,1,Drachmes,Greece,Dominican Republic
+350,42,1915,0,1,Drachmes,Greece,Dominican Republic
+350,42,1916,0,1,Drachmes,Greece,Dominican Republic
+350,42,1917,0,1,Drachmes,Greece,Dominican Republic
+350,42,1918,0,1,Drachmes,Greece,Dominican Republic
+350,42,1919,0,1,Drachmes,Greece,Dominican Republic
+350,42,1920,0,1,Drachmes,Greece,Dominican Republic
+350,42,1921,0,1,Drachmes,Greece,Dominican Republic
+350,42,1922,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1923,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1924,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1925,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1926,26,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1927,280,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1928,1550,1000,,Greece,Dominican Republic
+350,42,1929,2877,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1930,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1931,2287,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1932,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1933,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1934,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1935,0,1000,Milliers De Drachmes,Greece,Dominican Republic
+350,42,1936,0,1000,,Greece,Dominican Republic
+350,42,1937,0,1000,,Greece,Dominican Republic
+350,42,1938,0,1000,,Greece,Dominican Republic
+350,42,1939,0,1000,,Greece,Dominican Republic
+350,51,1909,0,1,Drachmes,Greece,Jamaica
+350,51,1910,0,1,Drachmes,Greece,Jamaica
+350,51,1911,0,1,Drachmes,Greece,Jamaica
+350,51,1912,0,1,Drachmes,Greece,Jamaica
+350,51,1913,0,1,Drachmes,Greece,Jamaica
+350,51,1914,0,1,Drachmes,Greece,Jamaica
+350,51,1915,0,1,Drachmes,Greece,Jamaica
+350,51,1916,0,1,Drachmes,Greece,Jamaica
+350,51,1917,0,1,Drachmes,Greece,Jamaica
+350,51,1918,0,1,Drachmes,Greece,Jamaica
+350,51,1919,0,1,Drachmes,Greece,Jamaica
+350,51,1920,0,1,Drachmes,Greece,Jamaica
+350,51,1921,0,1,Drachmes,Greece,Jamaica
+350,51,1922,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1923,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1924,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1925,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1926,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1927,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1928,0,1000,,Greece,Jamaica
+350,51,1929,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1930,0,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1931,278,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1932,436,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1933,355,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1934,152,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1935,154,1000,Milliers De Drachmes,Greece,Jamaica
+350,51,1936,221,1000,,Greece,Jamaica
+350,51,1937,664,1000,,Greece,Jamaica
+350,51,1938,619,1000,,Greece,Jamaica
+350,51,1939,215,1000,,Greece,Jamaica
+350,52,1909,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1910,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1911,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1912,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1913,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1914,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1915,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1916,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1917,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1918,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1919,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1920,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1921,0,1,Drachmes,Greece,Trinidad And Tobago
+350,52,1922,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1923,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1924,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1925,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1926,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1927,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1928,0,1000,,Greece,Trinidad And Tobago
+350,52,1929,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1930,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1931,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1932,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1933,0,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1934,140,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1935,211,1000,Milliers De Drachmes,Greece,Trinidad And Tobago
+350,52,1936,510,1000,,Greece,Trinidad And Tobago
+350,52,1937,242,1000,,Greece,Trinidad And Tobago
+350,52,1938,446,1000,,Greece,Trinidad And Tobago
+350,52,1939,0,1000,,Greece,Trinidad And Tobago
+350,55,1909,0,1,Drachmes,Greece,Grenada
+350,55,1910,0,1,Drachmes,Greece,Grenada
+350,55,1911,0,1,Drachmes,Greece,Grenada
+350,55,1912,0,1,Drachmes,Greece,Grenada
+350,55,1913,0,1,Drachmes,Greece,Grenada
+350,55,1914,0,1,Drachmes,Greece,Grenada
+350,55,1915,0,1,Drachmes,Greece,Grenada
+350,55,1916,0,1,Drachmes,Greece,Grenada
+350,55,1917,0,1,Drachmes,Greece,Grenada
+350,55,1918,0,1,Drachmes,Greece,Grenada
+350,55,1919,0,1,Drachmes,Greece,Grenada
+350,55,1920,0,1,Drachmes,Greece,Grenada
+350,55,1921,0,1,Drachmes,Greece,Grenada
+350,55,1922,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1923,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1924,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1925,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1926,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1927,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1928,0,1000,,Greece,Grenada
+350,55,1929,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1930,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1931,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1932,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1933,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1934,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1935,0,1000,Milliers De Drachmes,Greece,Grenada
+350,55,1936,0,1000,,Greece,Grenada
+350,55,1937,0,1000,,Greece,Grenada
+350,55,1938,0,1000,,Greece,Grenada
+350,55,1939,163,1000,,Greece,Grenada
+350,65,1909,0,1,Drachmes,Greece,Guadeloupe
+350,65,1910,0,1,Drachmes,Greece,Guadeloupe
+350,65,1911,0,1,Drachmes,Greece,Guadeloupe
+350,65,1912,0,1,Drachmes,Greece,Guadeloupe
+350,65,1913,0,1,Drachmes,Greece,Guadeloupe
+350,65,1914,0,1,Drachmes,Greece,Guadeloupe
+350,65,1915,0,1,Drachmes,Greece,Guadeloupe
+350,65,1916,0,1,Drachmes,Greece,Guadeloupe
+350,65,1917,0,1,Drachmes,Greece,Guadeloupe
+350,65,1918,0,1,Drachmes,Greece,Guadeloupe
+350,65,1919,0,1,Drachmes,Greece,Guadeloupe
+350,65,1920,0,1,Drachmes,Greece,Guadeloupe
+350,65,1921,0,1,Drachmes,Greece,Guadeloupe
+350,65,1922,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1923,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1924,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1925,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1926,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1927,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1928,0,1000,,Greece,Guadeloupe
+350,65,1929,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1930,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1931,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1932,43,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1933,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1934,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1935,0,1000,Milliers De Drachmes,Greece,Guadeloupe
+350,65,1936,0,1000,,Greece,Guadeloupe
+350,65,1937,0,1000,,Greece,Guadeloupe
+350,65,1938,0,1000,,Greece,Guadeloupe
+350,65,1939,0,1000,,Greece,Guadeloupe
+350,68,1909,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1910,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1911,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1912,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1913,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1914,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1915,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1916,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1917,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1918,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1919,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1920,0,1,Drachmes,Greece,Netherlands Antilles
+350,68,1921,450,1,Drachmes,Greece,Netherlands Antilles
+350,68,1922,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1923,3046,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1924,161,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1925,1547,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1926,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1927,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1928,0,1000,,Greece,Netherlands Antilles
+350,68,1929,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1930,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1931,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1932,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1933,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1934,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1935,0,1000,Milliers De Drachmes,Greece,Netherlands Antilles
+350,68,1936,0,1000,,Greece,Netherlands Antilles
+350,68,1937,0,1000,,Greece,Netherlands Antilles
+350,68,1938,0,1000,,Greece,Netherlands Antilles
+350,68,1939,0,1000,,Greece,Netherlands Antilles
+350,70,1909,0,1,Drachmes,Greece,Mexico
+350,70,1910,0,1,Drachmes,Greece,Mexico
+350,70,1911,0,1,Drachmes,Greece,Mexico
+350,70,1912,0,1,Drachmes,Greece,Mexico
+350,70,1913,0,1,Drachmes,Greece,Mexico
+350,70,1914,0,1,Drachmes,Greece,Mexico
+350,70,1915,0,1,Drachmes,Greece,Mexico
+350,70,1916,0,1,Drachmes,Greece,Mexico
+350,70,1917,0,1,Drachmes,Greece,Mexico
+350,70,1918,0,1,Drachmes,Greece,Mexico
+350,70,1919,0,1,Drachmes,Greece,Mexico
+350,70,1920,0,1,Drachmes,Greece,Mexico
+350,70,1921,36554,1,Drachmes,Greece,Mexico
+350,70,1922,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1923,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1924,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1925,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1926,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1927,538,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1928,8,1000,,Greece,Mexico
+350,70,1929,60,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1930,363,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1931,41,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1932,1300,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1933,1984,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1934,0,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1935,100,1000,Milliers De Drachmes,Greece,Mexico
+350,70,1936,24,1000,,Greece,Mexico
+350,70,1937,179,1000,,Greece,Mexico
+350,70,1938,36,1000,,Greece,Mexico
+350,70,1939,0,1000,,Greece,Mexico
+350,90,1909,0,1,Drachmes,Greece,Guatemala
+350,90,1910,0,1,Drachmes,Greece,Guatemala
+350,90,1911,0,1,Drachmes,Greece,Guatemala
+350,90,1912,0,1,Drachmes,Greece,Guatemala
+350,90,1913,0,1,Drachmes,Greece,Guatemala
+350,90,1914,0,1,Drachmes,Greece,Guatemala
+350,90,1915,0,1,Drachmes,Greece,Guatemala
+350,90,1916,0,1,Drachmes,Greece,Guatemala
+350,90,1917,0,1,Drachmes,Greece,Guatemala
+350,90,1918,0,1,Drachmes,Greece,Guatemala
+350,90,1919,4900,1,Drachmes,Greece,Guatemala
+350,90,1920,0,1,Drachmes,Greece,Guatemala
+350,90,1921,0,1,Drachmes,Greece,Guatemala
+350,90,1922,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1923,10,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1924,111,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1925,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1926,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1927,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1928,70,1000,,Greece,Guatemala
+350,90,1929,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1930,20,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1931,83,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1932,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1933,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1934,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1935,0,1000,Milliers De Drachmes,Greece,Guatemala
+350,90,1936,0,1000,,Greece,Guatemala
+350,90,1937,0,1000,,Greece,Guatemala
+350,90,1938,0,1000,,Greece,Guatemala
+350,90,1939,0,1000,,Greece,Guatemala
+350,91,1909,0,1,Drachmes,Greece,Honduras
+350,91,1910,0,1,Drachmes,Greece,Honduras
+350,91,1911,0,1,Drachmes,Greece,Honduras
+350,91,1912,0,1,Drachmes,Greece,Honduras
+350,91,1913,0,1,Drachmes,Greece,Honduras
+350,91,1914,0,1,Drachmes,Greece,Honduras
+350,91,1915,0,1,Drachmes,Greece,Honduras
+350,91,1916,0,1,Drachmes,Greece,Honduras
+350,91,1917,0,1,Drachmes,Greece,Honduras
+350,91,1918,0,1,Drachmes,Greece,Honduras
+350,91,1919,0,1,Drachmes,Greece,Honduras
+350,91,1920,0,1,Drachmes,Greece,Honduras
+350,91,1921,0,1,Drachmes,Greece,Honduras
+350,91,1922,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1923,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1924,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1925,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1926,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1927,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1928,0,1000,,Greece,Honduras
+350,91,1929,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1930,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1931,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1932,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1933,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1934,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1935,0,1000,Milliers De Drachmes,Greece,Honduras
+350,91,1936,0,1000,,Greece,Honduras
+350,91,1937,0,1000,,Greece,Honduras
+350,91,1938,0,1000,,Greece,Honduras
+350,91,1939,0,1000,,Greece,Honduras
+350,92,1909,0,1,Drachmes,Greece,El Salvador
+350,92,1910,0,1,Drachmes,Greece,El Salvador
+350,92,1911,0,1,Drachmes,Greece,El Salvador
+350,92,1912,0,1,Drachmes,Greece,El Salvador
+350,92,1913,0,1,Drachmes,Greece,El Salvador
+350,92,1914,0,1,Drachmes,Greece,El Salvador
+350,92,1915,0,1,Drachmes,Greece,El Salvador
+350,92,1916,0,1,Drachmes,Greece,El Salvador
+350,92,1917,0,1,Drachmes,Greece,El Salvador
+350,92,1918,0,1,Drachmes,Greece,El Salvador
+350,92,1919,0,1,Drachmes,Greece,El Salvador
+350,92,1920,0,1,Drachmes,Greece,El Salvador
+350,92,1921,0,1,Drachmes,Greece,El Salvador
+350,92,1922,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1923,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1924,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1925,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1926,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1927,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1928,0,1000,,Greece,El Salvador
+350,92,1929,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1930,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1931,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1932,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1933,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1934,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1935,0,1000,Milliers De Drachmes,Greece,El Salvador
+350,92,1936,0,1000,,Greece,El Salvador
+350,92,1937,80,1000,,Greece,El Salvador
+350,92,1938,0,1000,,Greece,El Salvador
+350,92,1939,0,1000,,Greece,El Salvador
+350,94,1909,0,1,Drachmes,Greece,Costa Rica
+350,94,1910,0,1,Drachmes,Greece,Costa Rica
+350,94,1911,0,1,Drachmes,Greece,Costa Rica
+350,94,1912,0,1,Drachmes,Greece,Costa Rica
+350,94,1913,0,1,Drachmes,Greece,Costa Rica
+350,94,1914,0,1,Drachmes,Greece,Costa Rica
+350,94,1915,0,1,Drachmes,Greece,Costa Rica
+350,94,1916,0,1,Drachmes,Greece,Costa Rica
+350,94,1917,0,1,Drachmes,Greece,Costa Rica
+350,94,1918,0,1,Drachmes,Greece,Costa Rica
+350,94,1919,0,1,Drachmes,Greece,Costa Rica
+350,94,1920,0,1,Drachmes,Greece,Costa Rica
+350,94,1921,0,1,Drachmes,Greece,Costa Rica
+350,94,1922,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1923,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1924,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1925,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1926,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1927,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1928,0,1000,,Greece,Costa Rica
+350,94,1929,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1930,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1931,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1932,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1933,13,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1934,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1935,0,1000,Milliers De Drachmes,Greece,Costa Rica
+350,94,1936,0,1000,,Greece,Costa Rica
+350,94,1937,0,1000,,Greece,Costa Rica
+350,94,1938,0,1000,,Greece,Costa Rica
+350,94,1939,0,1000,,Greece,Costa Rica
+350,95,1909,0,1,Drachmes,Greece,Panama
+350,95,1910,0,1,Drachmes,Greece,Panama
+350,95,1911,0,1,Drachmes,Greece,Panama
+350,95,1912,0,1,Drachmes,Greece,Panama
+350,95,1913,0,1,Drachmes,Greece,Panama
+350,95,1914,0,1,Drachmes,Greece,Panama
+350,95,1915,0,1,Drachmes,Greece,Panama
+350,95,1916,0,1,Drachmes,Greece,Panama
+350,95,1917,0,1,Drachmes,Greece,Panama
+350,95,1918,0,1,Drachmes,Greece,Panama
+350,95,1919,0,1,Drachmes,Greece,Panama
+350,95,1920,0,1,Drachmes,Greece,Panama
+350,95,1921,0,1,Drachmes,Greece,Panama
+350,95,1922,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1923,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1924,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1925,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1926,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1927,281,1000,Milliers De Drachmes,Greece,Panama
+350,95,1928,0,1000,,Greece,Panama
+350,95,1929,638,1000,Milliers De Drachmes,Greece,Panama
+350,95,1930,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1931,1,1000,Milliers De Drachmes,Greece,Panama
+350,95,1932,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1933,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1934,0,1000,Milliers De Drachmes,Greece,Panama
+350,95,1935,3760,1000,Milliers De Drachmes,Greece,Panama
+350,95,1936,2413,1000,,Greece,Panama
+350,95,1937,0,1000,,Greece,Panama
+350,95,1938,3,1000,,Greece,Panama
+350,95,1939,0,1000,,Greece,Panama
+350,100,1909,0,1,Drachmes,Greece,Colombia
+350,100,1910,0,1,Drachmes,Greece,Colombia
+350,100,1911,0,1,Drachmes,Greece,Colombia
+350,100,1912,0,1,Drachmes,Greece,Colombia
+350,100,1913,0,1,Drachmes,Greece,Colombia
+350,100,1914,0,1,Drachmes,Greece,Colombia
+350,100,1915,0,1,Drachmes,Greece,Colombia
+350,100,1916,0,1,Drachmes,Greece,Colombia
+350,100,1917,0,1,Drachmes,Greece,Colombia
+350,100,1918,0,1,Drachmes,Greece,Colombia
+350,100,1919,0,1,Drachmes,Greece,Colombia
+350,100,1920,6891,1,Drachmes,Greece,Colombia
+350,100,1921,1871019,1,Drachmes,Greece,Colombia
+350,100,1922,0,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1923,1,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1924,67,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1925,98,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1926,10,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1927,992,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1928,967,1000,,Greece,Colombia
+350,100,1929,1435,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1930,1102,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1931,2124,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1932,413,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1933,0,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1934,0,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1935,0,1000,Milliers De Drachmes,Greece,Colombia
+350,100,1936,0,1000,,Greece,Colombia
+350,100,1937,0,1000,,Greece,Colombia
+350,100,1938,64743,1000,,Greece,Colombia
+350,100,1939,1374,1000,,Greece,Colombia
+350,101,1909,0,1,Drachmes,Greece,Venezuela
+350,101,1910,0,1,Drachmes,Greece,Venezuela
+350,101,1911,0,1,Drachmes,Greece,Venezuela
+350,101,1912,0,1,Drachmes,Greece,Venezuela
+350,101,1913,0,1,Drachmes,Greece,Venezuela
+350,101,1914,0,1,Drachmes,Greece,Venezuela
+350,101,1915,0,1,Drachmes,Greece,Venezuela
+350,101,1916,0,1,Drachmes,Greece,Venezuela
+350,101,1917,0,1,Drachmes,Greece,Venezuela
+350,101,1918,0,1,Drachmes,Greece,Venezuela
+350,101,1919,0,1,Drachmes,Greece,Venezuela
+350,101,1920,0,1,Drachmes,Greece,Venezuela
+350,101,1921,0,1,Drachmes,Greece,Venezuela
+350,101,1922,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1923,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1924,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1925,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1926,1769,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1927,262,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1928,0,1000,,Greece,Venezuela
+350,101,1929,189,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1930,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1931,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1932,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1933,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1934,0,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1935,1,1000,Milliers De Drachmes,Greece,Venezuela
+350,101,1936,0,1000,,Greece,Venezuela
+350,101,1937,360,1000,,Greece,Venezuela
+350,101,1938,94,1000,,Greece,Venezuela
+350,101,1939,0,1000,,Greece,Venezuela
+350,130,1909,0,1,Drachmes,Greece,Ecuador
+350,130,1910,0,1,Drachmes,Greece,Ecuador
+350,130,1911,0,1,Drachmes,Greece,Ecuador
+350,130,1912,0,1,Drachmes,Greece,Ecuador
+350,130,1913,0,1,Drachmes,Greece,Ecuador
+350,130,1914,0,1,Drachmes,Greece,Ecuador
+350,130,1915,0,1,Drachmes,Greece,Ecuador
+350,130,1916,0,1,Drachmes,Greece,Ecuador
+350,130,1917,0,1,Drachmes,Greece,Ecuador
+350,130,1918,0,1,Drachmes,Greece,Ecuador
+350,130,1919,0,1,Drachmes,Greece,Ecuador
+350,130,1920,0,1,Drachmes,Greece,Ecuador
+350,130,1921,0,1,Drachmes,Greece,Ecuador
+350,130,1922,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1923,238,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1924,69,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1925,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1926,218,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1927,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1928,0,1000,,Greece,Ecuador
+350,130,1929,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1930,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1931,53,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1932,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1933,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1934,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1935,0,1000,Milliers De Drachmes,Greece,Ecuador
+350,130,1936,0,1000,,Greece,Ecuador
+350,130,1937,134,1000,,Greece,Ecuador
+350,130,1938,0,1000,,Greece,Ecuador
+350,130,1939,129,1000,,Greece,Ecuador
+350,135,1909,0,1,Drachmes,Greece,Peru
+350,135,1910,0,1,Drachmes,Greece,Peru
+350,135,1911,0,1,Drachmes,Greece,Peru
+350,135,1912,0,1,Drachmes,Greece,Peru
+350,135,1913,0,1,Drachmes,Greece,Peru
+350,135,1914,0,1,Drachmes,Greece,Peru
+350,135,1915,0,1,Drachmes,Greece,Peru
+350,135,1916,0,1,Drachmes,Greece,Peru
+350,135,1917,0,1,Drachmes,Greece,Peru
+350,135,1918,0,1,Drachmes,Greece,Peru
+350,135,1919,0,1,Drachmes,Greece,Peru
+350,135,1920,338,1,Drachmes,Greece,Peru
+350,135,1921,0,1,Drachmes,Greece,Peru
+350,135,1922,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1923,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1924,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1925,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1926,175,1000,Milliers De Drachmes,Greece,Peru
+350,135,1927,1370,1000,Milliers De Drachmes,Greece,Peru
+350,135,1928,3240,1000,,Greece,Peru
+350,135,1929,7875,1000,Milliers De Drachmes,Greece,Peru
+350,135,1930,404,1000,Milliers De Drachmes,Greece,Peru
+350,135,1931,221,1000,Milliers De Drachmes,Greece,Peru
+350,135,1932,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1933,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1934,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1935,0,1000,Milliers De Drachmes,Greece,Peru
+350,135,1936,1969,1000,,Greece,Peru
+350,135,1937,0,1000,,Greece,Peru
+350,135,1938,0,1000,,Greece,Peru
+350,135,1939,0,1000,,Greece,Peru
+350,140,1909,0,1,Drachmes,Greece,Brazil
+350,140,1910,0,1,Drachmes,Greece,Brazil
+350,140,1911,0,1,Drachmes,Greece,Brazil
+350,140,1912,0,1,Drachmes,Greece,Brazil
+350,140,1913,0,1,Drachmes,Greece,Brazil
+350,140,1914,0,1,Drachmes,Greece,Brazil
+350,140,1915,0,1,Drachmes,Greece,Brazil
+350,140,1916,0,1,Drachmes,Greece,Brazil
+350,140,1917,0,1,Drachmes,Greece,Brazil
+350,140,1918,0,1,Drachmes,Greece,Brazil
+350,140,1919,3035082,1,Drachmes,Greece,Brazil
+350,140,1920,3073255,1,Drachmes,Greece,Brazil
+350,140,1921,7195765,1,Drachmes,Greece,Brazil
+350,140,1922,0,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1923,34589,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1924,52313,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1925,58793,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1926,87319,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1927,141714,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1928,115540,1000,,Greece,Brazil
+350,140,1929,115486,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1930,99438,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1931,80729,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1932,12205,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1933,51451,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1934,130877,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1935,138821,1000,Milliers De Drachmes,Greece,Brazil
+350,140,1936,175317,1000,,Greece,Brazil
+350,140,1937,158944,1000,,Greece,Brazil
+350,140,1938,147862,1000,,Greece,Brazil
+350,140,1939,83837,1000,,Greece,Brazil
+350,145,1909,0,1,Drachmes,Greece,Bolivia
+350,145,1910,0,1,Drachmes,Greece,Bolivia
+350,145,1911,0,1,Drachmes,Greece,Bolivia
+350,145,1912,0,1,Drachmes,Greece,Bolivia
+350,145,1913,0,1,Drachmes,Greece,Bolivia
+350,145,1914,0,1,Drachmes,Greece,Bolivia
+350,145,1915,0,1,Drachmes,Greece,Bolivia
+350,145,1916,0,1,Drachmes,Greece,Bolivia
+350,145,1917,0,1,Drachmes,Greece,Bolivia
+350,145,1918,0,1,Drachmes,Greece,Bolivia
+350,145,1919,0,1,Drachmes,Greece,Bolivia
+350,145,1920,0,1,Drachmes,Greece,Bolivia
+350,145,1921,57508,1,Drachmes,Greece,Bolivia
+350,145,1922,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1923,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1924,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1925,185,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1926,39,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1927,447,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1928,0,1000,,Greece,Bolivia
+350,145,1929,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1930,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1931,4,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1932,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1933,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1934,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1935,0,1000,Milliers De Drachmes,Greece,Bolivia
+350,145,1936,0,1000,,Greece,Bolivia
+350,145,1937,0,1000,,Greece,Bolivia
+350,145,1938,0,1000,,Greece,Bolivia
+350,145,1939,0,1000,,Greece,Bolivia
+350,150,1909,0,1,Drachmes,Greece,Paraguay
+350,150,1910,0,1,Drachmes,Greece,Paraguay
+350,150,1911,0,1,Drachmes,Greece,Paraguay
+350,150,1912,0,1,Drachmes,Greece,Paraguay
+350,150,1913,0,1,Drachmes,Greece,Paraguay
+350,150,1914,0,1,Drachmes,Greece,Paraguay
+350,150,1915,0,1,Drachmes,Greece,Paraguay
+350,150,1916,0,1,Drachmes,Greece,Paraguay
+350,150,1917,0,1,Drachmes,Greece,Paraguay
+350,150,1918,0,1,Drachmes,Greece,Paraguay
+350,150,1919,0,1,Drachmes,Greece,Paraguay
+350,150,1920,0,1,Drachmes,Greece,Paraguay
+350,150,1921,0,1,Drachmes,Greece,Paraguay
+350,150,1922,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1923,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1924,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1925,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1926,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1927,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1928,300,1000,,Greece,Paraguay
+350,150,1929,306,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1930,584,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1931,855,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1932,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1933,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1934,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1935,0,1000,Milliers De Drachmes,Greece,Paraguay
+350,150,1936,0,1000,,Greece,Paraguay
+350,150,1937,0,1000,,Greece,Paraguay
+350,150,1938,0,1000,,Greece,Paraguay
+350,150,1939,0,1000,,Greece,Paraguay
+350,155,1909,0,1,Drachmes,Greece,Chile
+350,155,1910,0,1,Drachmes,Greece,Chile
+350,155,1911,0,1,Drachmes,Greece,Chile
+350,155,1912,0,1,Drachmes,Greece,Chile
+350,155,1913,0,1,Drachmes,Greece,Chile
+350,155,1914,0,1,Drachmes,Greece,Chile
+350,155,1915,0,1,Drachmes,Greece,Chile
+350,155,1916,0,1,Drachmes,Greece,Chile
+350,155,1917,0,1,Drachmes,Greece,Chile
+350,155,1918,0,1,Drachmes,Greece,Chile
+350,155,1919,0,1,Drachmes,Greece,Chile
+350,155,1920,6,1,Drachmes,Greece,Chile
+350,155,1921,0,1,Drachmes,Greece,Chile
+350,155,1922,0,1000,Milliers De Drachmes,Greece,Chile
+350,155,1923,31,1000,Milliers De Drachmes,Greece,Chile
+350,155,1924,75,1000,Milliers De Drachmes,Greece,Chile
+350,155,1925,252,1000,Milliers De Drachmes,Greece,Chile
+350,155,1926,464,1000,Milliers De Drachmes,Greece,Chile
+350,155,1927,631,1000,Milliers De Drachmes,Greece,Chile
+350,155,1928,282,1000,,Greece,Chile
+350,155,1929,1703,1000,Milliers De Drachmes,Greece,Chile
+350,155,1930,252,1000,Milliers De Drachmes,Greece,Chile
+350,155,1931,1235,1000,Milliers De Drachmes,Greece,Chile
+350,155,1932,143,1000,Milliers De Drachmes,Greece,Chile
+350,155,1933,307,1000,Milliers De Drachmes,Greece,Chile
+350,155,1934,2017,1000,Milliers De Drachmes,Greece,Chile
+350,155,1935,2581,1000,Milliers De Drachmes,Greece,Chile
+350,155,1936,4328,1000,,Greece,Chile
+350,155,1937,4739,1000,,Greece,Chile
+350,155,1938,2380,1000,,Greece,Chile
+350,155,1939,1792,1000,,Greece,Chile
+350,160,1909,0,1,Drachmes,Greece,Argentina
+350,160,1910,0,1,Drachmes,Greece,Argentina
+350,160,1911,0,1,Drachmes,Greece,Argentina
+350,160,1912,0,1,Drachmes,Greece,Argentina
+350,160,1913,0,1,Drachmes,Greece,Argentina
+350,160,1914,0,1,Drachmes,Greece,Argentina
+350,160,1915,0,1,Drachmes,Greece,Argentina
+350,160,1916,0,1,Drachmes,Greece,Argentina
+350,160,1917,0,1,Drachmes,Greece,Argentina
+350,160,1918,4474859,1,Drachmes,Greece,Argentina
+350,160,1919,16703,1,Drachmes,Greece,Argentina
+350,160,1920,4832993,1,Drachmes,Greece,Argentina
+350,160,1921,44111,1,Drachmes,Greece,Argentina
+350,160,1922,0,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1923,15785,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1924,2444,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1925,99947,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1926,11474,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1927,134078,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1928,260674,1000,,Greece,Argentina
+350,160,1929,284776,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1930,191745,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1931,196760,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1932,33634,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1933,625844,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1934,480373,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1935,1067999,1000,Milliers De Drachmes,Greece,Argentina
+350,160,1936,277268,1000,,Greece,Argentina
+350,160,1937,1272518,1000,,Greece,Argentina
+350,160,1938,142663,1000,,Greece,Argentina
+350,160,1939,424381,1000,,Greece,Argentina
+350,165,1909,0,1,Drachmes,Greece,Uruguay
+350,165,1910,0,1,Drachmes,Greece,Uruguay
+350,165,1911,0,1,Drachmes,Greece,Uruguay
+350,165,1912,0,1,Drachmes,Greece,Uruguay
+350,165,1913,0,1,Drachmes,Greece,Uruguay
+350,165,1914,0,1,Drachmes,Greece,Uruguay
+350,165,1915,0,1,Drachmes,Greece,Uruguay
+350,165,1916,0,1,Drachmes,Greece,Uruguay
+350,165,1917,0,1,Drachmes,Greece,Uruguay
+350,165,1918,0,1,Drachmes,Greece,Uruguay
+350,165,1919,0,1,Drachmes,Greece,Uruguay
+350,165,1920,0,1,Drachmes,Greece,Uruguay
+350,165,1921,0,1,Drachmes,Greece,Uruguay
+350,165,1922,0,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1923,576,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1924,4310,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1925,0,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1926,579,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1927,85,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1928,1005,1000,,Greece,Uruguay
+350,165,1929,1234,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1930,1185,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1931,2858,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1932,284,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1933,0,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1934,862,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1935,22526,1000,Milliers De Drachmes,Greece,Uruguay
+350,165,1936,3758,1000,,Greece,Uruguay
+350,165,1937,170,1000,,Greece,Uruguay
+350,165,1938,4988,1000,,Greece,Uruguay
+350,165,1939,15104,1000,,Greece,Uruguay
+350,201,1909,31126871,1,Drachmes,Greece,England
+350,201,1910,34501095,1,Drachmes,Greece,England
+350,201,1911,40850512,1,Drachmes,Greece,England
+350,201,1912,37983965,1,Drachmes,Greece,England
+350,201,1913,42502386,1,Drachmes,Greece,England
+350,201,1914,65103652,1,Drachmes,Greece,England
+350,201,1915,50815488,1,Drachmes,Greece,England
+350,201,1916,53076972,1,Drachmes,Greece,England
+350,201,1917,13735343,1,Drachmes,Greece,England
+350,201,1918,84255201,1,Drachmes,Greece,England
+350,201,1919,410774218,1,Drachmes,Greece,England
+350,201,1920,531891196,1,Drachmes,Greece,England
+350,201,1921,294307382,1,Drachmes,Greece,England
+350,201,1922,444826,1000,Milliers De Drachmes,Greece,England
+350,201,1923,859951,1000,Milliers De Drachmes,Greece,England
+350,201,1924,1273163,1000,Milliers De Drachmes,Greece,England
+350,201,1925,1533367,1000,Milliers De Drachmes,Greece,England
+350,201,1926,1153968,1000,Milliers De Drachmes,Greece,England
+350,201,1927,1702328,1000,Milliers De Drachmes,Greece,England
+350,201,1928,1795924,1000,,Greece,England
+350,201,1929,1688368,1000,Milliers De Drachmes,Greece,England
+350,201,1930,1382636,1000,Milliers De Drachmes,Greece,England
+350,201,1931,1152587,1000,Milliers De Drachmes,Greece,England
+350,201,1932,1074142,1000,Milliers De Drachmes,Greece,England
+350,201,1933,1205763,1000,Milliers De Drachmes,Greece,England
+350,201,1934,1475295,1000,Milliers De Drachmes,Greece,England
+350,201,1935,1716284,1000,Milliers De Drachmes,Greece,England
+350,201,1936,1926922,1000,,Greece,England
+350,201,1937,1964901,1000,,Greece,England
+350,201,1938,1925150,1000,,Greece,England
+350,201,1939,1482469,1000,,Greece,England
+350,205,1909,0,1,Drachmes,Greece,Ireland
+350,205,1910,0,1,Drachmes,Greece,Ireland
+350,205,1911,0,1,Drachmes,Greece,Ireland
+350,205,1912,0,1,Drachmes,Greece,Ireland
+350,205,1913,0,1,Drachmes,Greece,Ireland
+350,205,1914,0,1,Drachmes,Greece,Ireland
+350,205,1915,0,1,Drachmes,Greece,Ireland
+350,205,1916,0,1,Drachmes,Greece,Ireland
+350,205,1917,0,1,Drachmes,Greece,Ireland
+350,205,1918,0,1,Drachmes,Greece,Ireland
+350,205,1919,0,1,Drachmes,Greece,Ireland
+350,205,1920,0,1,Drachmes,Greece,Ireland
+350,205,1921,0,1,Drachmes,Greece,Ireland
+350,205,1922,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1923,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1924,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1925,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1926,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1927,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1928,0,1000,,Greece,Ireland
+350,205,1929,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1930,0,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1931,715,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1932,83,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1933,476,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1934,50,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1935,26,1000,Milliers De Drachmes,Greece,Ireland
+350,205,1936,629,1000,,Greece,Ireland
+350,205,1937,3138,1000,,Greece,Ireland
+350,205,1938,69,1000,,Greece,Ireland
+350,205,1939,3973,1000,,Greece,Ireland
+350,210,1909,2789228,1,Drachmes,Greece,Netherlands
+350,210,1910,3576582,1,Drachmes,Greece,Netherlands
+350,210,1911,4087360,1,Drachmes,Greece,Netherlands
+350,210,1912,4356757,1,Drachmes,Greece,Netherlands
+350,210,1913,4485465,1,Drachmes,Greece,Netherlands
+350,210,1914,6549686,1,Drachmes,Greece,Netherlands
+350,210,1915,4887023,1,Drachmes,Greece,Netherlands
+350,210,1916,7318974,1,Drachmes,Greece,Netherlands
+350,210,1917,1510747,1,Drachmes,Greece,Netherlands
+350,210,1918,564413,1,Drachmes,Greece,Netherlands
+350,210,1919,16846926,1,Drachmes,Greece,Netherlands
+350,210,1920,52809991,1,Drachmes,Greece,Netherlands
+350,210,1921,45572711,1,Drachmes,Greece,Netherlands
+350,210,1922,56800,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1923,100732,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1924,209060,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1925,255817,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1926,236547,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1927,286305,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1928,206713,1000,,Greece,Netherlands
+350,210,1929,249955,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1930,185223,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1931,149038,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1932,212150,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1933,246503,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1934,243373,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1935,268488,1000,Milliers De Drachmes,Greece,Netherlands
+350,210,1936,227428,1000,,Greece,Netherlands
+350,210,1937,394101,1000,,Greece,Netherlands
+350,210,1938,306284,1000,,Greece,Netherlands
+350,210,1939,228721,1000,,Greece,Netherlands
+350,211,1909,2937713,1,Drachmes,Greece,Belgium
+350,211,1910,2841566,1,Drachmes,Greece,Belgium
+350,211,1911,3214383,1,Drachmes,Greece,Belgium
+350,211,1912,3213655,1,Drachmes,Greece,Belgium
+350,211,1913,2134550,1,Drachmes,Greece,Belgium
+350,211,1914,5304379,1,Drachmes,Greece,Belgium
+350,211,1915,283775,1,Drachmes,Greece,Belgium
+350,211,1916,78888,1,Drachmes,Greece,Belgium
+350,211,1917,23620,1,Drachmes,Greece,Belgium
+350,211,1918,18761,1,Drachmes,Greece,Belgium
+350,211,1919,1847286,1,Drachmes,Greece,Belgium
+350,211,1920,37986947,1,Drachmes,Greece,Belgium
+350,211,1921,53801138,1,Drachmes,Greece,Belgium
+350,211,1922,101185,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1923,177859,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1924,303473,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1925,347160,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1926,342152,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1927,433803,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1928,505187,1000,,Greece,Belgium
+350,211,1929,492716,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1930,471915,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1931,366794,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1932,330991,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1933,488432,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1934,215803,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1935,121894,1000,Milliers De Drachmes,Greece,Belgium
+350,211,1936,92181,1000,,Greece,Belgium
+350,211,1937,194708,1000,,Greece,Belgium
+350,211,1938,150501,1000,,Greece,Belgium
+350,211,1939,68849,1000,,Greece,Belgium
+350,220,1909,9567915,1,Drachmes,Greece,France
+350,220,1910,9864408,1,Drachmes,Greece,France
+350,220,1911,10438331,1,Drachmes,Greece,France
+350,220,1912,8556943,1,Drachmes,Greece,France
+350,220,1913,10558508,1,Drachmes,Greece,France
+350,220,1914,23411075,1,Drachmes,Greece,France
+350,220,1915,21845396,1,Drachmes,Greece,France
+350,220,1916,35053155,1,Drachmes,Greece,France
+350,220,1917,29483609,1,Drachmes,Greece,France
+350,220,1918,82697319,1,Drachmes,Greece,France
+350,220,1919,134846269,1,Drachmes,Greece,France
+350,220,1920,221647933,1,Drachmes,Greece,France
+350,220,1921,137851878,1,Drachmes,Greece,France
+350,220,1922,200855,1000,Milliers De Drachmes,Greece,France
+350,220,1923,428599,1000,Milliers De Drachmes,Greece,France
+350,220,1924,663757,1000,Milliers De Drachmes,Greece,France
+350,220,1925,860355,1000,Milliers De Drachmes,Greece,France
+350,220,1926,846073,1000,Milliers De Drachmes,Greece,France
+350,220,1927,980608,1000,Milliers De Drachmes,Greece,France
+350,220,1928,874815,1000,,Greece,France
+350,220,1929,903404,1000,Milliers De Drachmes,Greece,France
+350,220,1930,780239,1000,Milliers De Drachmes,Greece,France
+350,220,1931,573310,1000,Milliers De Drachmes,Greece,France
+350,220,1932,393676,1000,Milliers De Drachmes,Greece,France
+350,220,1933,363385,1000,Milliers De Drachmes,Greece,France
+350,220,1934,589059,1000,Milliers De Drachmes,Greece,France
+350,220,1935,195106,1000,Milliers De Drachmes,Greece,France
+350,220,1936,233670,1000,,Greece,France
+350,220,1937,288140,1000,,Greece,France
+350,220,1938,228247,1000,,Greece,France
+350,220,1939,167967,1000,,Greece,France
+350,225,1909,271133,1,Drachmes,Greece,Switzerland
+350,225,1910,430018,1,Drachmes,Greece,Switzerland
+350,225,1911,336286,1,Drachmes,Greece,Switzerland
+350,225,1912,213440,1,Drachmes,Greece,Switzerland
+350,225,1913,324349,1,Drachmes,Greece,Switzerland
+350,225,1914,1525352,1,Drachmes,Greece,Switzerland
+350,225,1915,739661,1,Drachmes,Greece,Switzerland
+350,225,1916,2537088,1,Drachmes,Greece,Switzerland
+350,225,1917,2013227,1,Drachmes,Greece,Switzerland
+350,225,1918,4169374,1,Drachmes,Greece,Switzerland
+350,225,1919,16454862,1,Drachmes,Greece,Switzerland
+350,225,1920,18822522,1,Drachmes,Greece,Switzerland
+350,225,1921,7564443,1,Drachmes,Greece,Switzerland
+350,225,1922,0,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1923,22084,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1924,58148,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1925,70947,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1926,80753,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1927,96783,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1928,129171,1000,,Greece,Switzerland
+350,225,1929,122555,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1930,128717,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1931,118908,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1932,70249,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1933,65079,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1934,74529,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1935,82420,1000,Milliers De Drachmes,Greece,Switzerland
+350,225,1936,93907,1000,,Greece,Switzerland
+350,225,1937,91272,1000,,Greece,Switzerland
+350,225,1938,84697,1000,,Greece,Switzerland
+350,225,1939,106745,1000,,Greece,Switzerland
+350,230,1909,0,1,Drachmes,Greece,Spain
+350,230,1910,0,1,Drachmes,Greece,Spain
+350,230,1911,0,1,Drachmes,Greece,Spain
+350,230,1912,0,1,Drachmes,Greece,Spain
+350,230,1913,0,1,Drachmes,Greece,Spain
+350,230,1914,0,1,Drachmes,Greece,Spain
+350,230,1915,0,1,Drachmes,Greece,Spain
+350,230,1916,0,1,Drachmes,Greece,Spain
+350,230,1917,0,1,Drachmes,Greece,Spain
+350,230,1918,107477570,1,Drachmes,Greece,Spain
+350,230,1919,97167972,1,Drachmes,Greece,Spain
+350,230,1920,42592771,1,Drachmes,Greece,Spain
+350,230,1921,21200781,1,Drachmes,Greece,Spain
+350,230,1922,0,1000,Milliers De Drachmes,Greece,Spain
+350,230,1923,8145,1000,Milliers De Drachmes,Greece,Spain
+350,230,1924,14286,1000,Milliers De Drachmes,Greece,Spain
+350,230,1925,21153,1000,Milliers De Drachmes,Greece,Spain
+350,230,1926,18724,1000,Milliers De Drachmes,Greece,Spain
+350,230,1927,10474,1000,Milliers De Drachmes,Greece,Spain
+350,230,1928,12762,1000,,Greece,Spain
+350,230,1929,5455,1000,Milliers De Drachmes,Greece,Spain
+350,230,1930,5432,1000,Milliers De Drachmes,Greece,Spain
+350,230,1931,14960,1000,Milliers De Drachmes,Greece,Spain
+350,230,1932,3832,1000,Milliers De Drachmes,Greece,Spain
+350,230,1933,5275,1000,Milliers De Drachmes,Greece,Spain
+350,230,1934,4369,1000,Milliers De Drachmes,Greece,Spain
+350,230,1935,6180,1000,Milliers De Drachmes,Greece,Spain
+350,230,1936,3645,1000,,Greece,Spain
+350,230,1937,1082,1000,,Greece,Spain
+350,230,1938,940,1000,,Greece,Spain
+350,230,1939,0,1000,,Greece,Spain
+350,235,1909,0,1,Drachmes,Greece,Portugal
+350,235,1910,0,1,Drachmes,Greece,Portugal
+350,235,1911,0,1,Drachmes,Greece,Portugal
+350,235,1912,0,1,Drachmes,Greece,Portugal
+350,235,1913,0,1,Drachmes,Greece,Portugal
+350,235,1914,0,1,Drachmes,Greece,Portugal
+350,235,1915,0,1,Drachmes,Greece,Portugal
+350,235,1916,0,1,Drachmes,Greece,Portugal
+350,235,1917,0,1,Drachmes,Greece,Portugal
+350,235,1918,2513125,1,Drachmes,Greece,Portugal
+350,235,1919,4110393,1,Drachmes,Greece,Portugal
+350,235,1920,6658300,1,Drachmes,Greece,Portugal
+350,235,1921,4008661,1,Drachmes,Greece,Portugal
+350,235,1922,0,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1923,22039,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1924,28357,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1925,24640,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1926,34784,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1927,39362,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1928,25828,1000,,Greece,Portugal
+350,235,1929,32140,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1930,19124,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1931,29819,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1932,10792,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1933,2435,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1934,5851,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1935,5420,1000,Milliers De Drachmes,Greece,Portugal
+350,235,1936,59,1000,,Greece,Portugal
+350,235,1937,2117,1000,,Greece,Portugal
+350,235,1938,6733,1000,,Greece,Portugal
+350,235,1939,11542,1000,,Greece,Portugal
+350,255,1909,12282123,1,Drachmes,Greece,Germany
+350,255,1910,13961264,1,Drachmes,Greece,Germany
+350,255,1911,13336161,1,Drachmes,Greece,Germany
+350,255,1912,13815474,1,Drachmes,Greece,Germany
+350,255,1913,13321706,1,Drachmes,Greece,Germany
+350,255,1914,27797223,1,Drachmes,Greece,Germany
+350,255,1915,3187906,1,Drachmes,Greece,Germany
+350,255,1916,2188882,1,Drachmes,Greece,Germany
+350,255,1917,179369,1,Drachmes,Greece,Germany
+350,255,1918,49115,1,Drachmes,Greece,Germany
+350,255,1919,309819,1,Drachmes,Greece,Germany
+350,255,1920,26437817,1,Drachmes,Greece,Germany
+350,255,1921,85160001,1,Drachmes,Greece,Germany
+350,255,1922,184374,1000,Milliers De Drachmes,Greece,Germany
+350,255,1923,276757,1000,Milliers De Drachmes,Greece,Germany
+350,255,1924,470409,1000,Milliers De Drachmes,Greece,Germany
+350,255,1925,807005,1000,Milliers De Drachmes,Greece,Germany
+350,255,1926,755414,1000,Milliers De Drachmes,Greece,Germany
+350,255,1927,943972,1000,Milliers De Drachmes,Greece,Germany
+350,255,1928,1073990,1000,,Greece,Germany
+350,255,1929,1249682,1000,Milliers De Drachmes,Greece,Germany
+350,255,1930,1098235,1000,Milliers De Drachmes,Greece,Germany
+350,255,1931,1071607,1000,Milliers De Drachmes,Greece,Germany
+350,255,1932,761949,1000,Milliers De Drachmes,Greece,Germany
+350,255,1933,866653,1000,Milliers De Drachmes,Greece,Germany
+350,255,1934,1291529,1000,Milliers De Drachmes,Greece,Germany
+350,255,1935,1987136,1000,Milliers De Drachmes,Greece,Germany
+350,255,1936,2678804,1000,,Greece,Germany
+350,255,1937,4131446,1000,,Greece,Germany
+350,255,1938,4252646,1000,,Greece,Germany
+350,255,1939,3676570,1000,,Greece,Germany
+350,290,1909,0,1,Drachmes,Greece,Poland
+350,290,1910,0,1,Drachmes,Greece,Poland
+350,290,1911,0,1,Drachmes,Greece,Poland
+350,290,1912,0,1,Drachmes,Greece,Poland
+350,290,1913,0,1,Drachmes,Greece,Poland
+350,290,1914,0,1,Drachmes,Greece,Poland
+350,290,1915,0,1,Drachmes,Greece,Poland
+350,290,1916,0,1,Drachmes,Greece,Poland
+350,290,1917,0,1,Drachmes,Greece,Poland
+350,290,1918,0,1,Drachmes,Greece,Poland
+350,290,1919,0,1,Drachmes,Greece,Poland
+350,290,1920,39568,1,Drachmes,Greece,Poland
+350,290,1921,17354,1,Drachmes,Greece,Poland
+350,290,1922,0,1000,Milliers De Drachmes,Greece,Poland
+350,290,1923,75,1000,Milliers De Drachmes,Greece,Poland
+350,290,1924,1298,1000,Milliers De Drachmes,Greece,Poland
+350,290,1925,2690,1000,Milliers De Drachmes,Greece,Poland
+350,290,1926,13089,1000,Milliers De Drachmes,Greece,Poland
+350,290,1927,25284,1000,Milliers De Drachmes,Greece,Poland
+350,290,1928,21972,1000,,Greece,Poland
+350,290,1929,29819,1000,Milliers De Drachmes,Greece,Poland
+350,290,1930,47141,1000,Milliers De Drachmes,Greece,Poland
+350,290,1931,23205,1000,Milliers De Drachmes,Greece,Poland
+350,290,1932,36266,1000,Milliers De Drachmes,Greece,Poland
+350,290,1933,74575,1000,Milliers De Drachmes,Greece,Poland
+350,290,1934,80335,1000,Milliers De Drachmes,Greece,Poland
+350,290,1935,109434,1000,Milliers De Drachmes,Greece,Poland
+350,290,1936,152495,1000,,Greece,Poland
+350,290,1937,144015,1000,,Greece,Poland
+350,290,1938,381470,1000,,Greece,Poland
+350,290,1939,189583,1000,,Greece,Poland
+350,300,1909,17282246,1,Drachmes,Greece,Austria-Hungary
+350,300,1910,19684009,1,Drachmes,Greece,Austria-Hungary
+350,300,1911,23720630,1,Drachmes,Greece,Austria-Hungary
+350,300,1912,28419524,1,Drachmes,Greece,Austria-Hungary
+350,300,1913,29167598,1,Drachmes,Greece,Austria-Hungary
+350,300,1914,58986263,1,Drachmes,Greece,Austria-Hungary
+350,300,1915,33070448,1,Drachmes,Greece,Austria-Hungary
+350,300,1916,3362640,1,Drachmes,Greece,Austria-Hungary
+350,300,1917,271075,1,Drachmes,Greece,Austria-Hungary
+350,300,1918,351192,1,Drachmes,Greece,Austria-Hungary
+350,300,1919,0,1,Drachmes,Greece,Austria-Hungary
+350,300,1920,0,1,Drachmes,Greece,Austria-Hungary
+350,300,1921,0,1,Drachmes,Greece,Austria-Hungary
+350,300,1922,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1923,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1924,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1925,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1926,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1927,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1928,0,1000,,Greece,Austria-Hungary
+350,300,1929,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1930,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1931,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1932,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1933,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1934,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1935,0,1000,Milliers De Drachmes,Greece,Austria-Hungary
+350,300,1936,0,1000,,Greece,Austria-Hungary
+350,300,1937,0,1000,,Greece,Austria-Hungary
+350,300,1938,0,1000,,Greece,Austria-Hungary
+350,300,1939,0,1000,,Greece,Austria-Hungary
+350,305,1909,0,1,Drachmes,Greece,Austria
+350,305,1910,0,1,Drachmes,Greece,Austria
+350,305,1911,0,1,Drachmes,Greece,Austria
+350,305,1912,0,1,Drachmes,Greece,Austria
+350,305,1913,0,1,Drachmes,Greece,Austria
+350,305,1914,0,1,Drachmes,Greece,Austria
+350,305,1915,0,1,Drachmes,Greece,Austria
+350,305,1916,0,1,Drachmes,Greece,Austria
+350,305,1917,0,1,Drachmes,Greece,Austria
+350,305,1918,0,1,Drachmes,Greece,Austria
+350,305,1919,709727,1,Drachmes,Greece,Austria
+350,305,1920,4882091,1,Drachmes,Greece,Austria
+350,305,1921,5456002,1,Drachmes,Greece,Austria
+350,305,1922,8265,1000,Milliers De Drachmes,Greece,Austria
+350,305,1923,16027,1000,Milliers De Drachmes,Greece,Austria
+350,305,1924,37106,1000,Milliers De Drachmes,Greece,Austria
+350,305,1925,51259,1000,Milliers De Drachmes,Greece,Austria
+350,305,1926,74305,1000,Milliers De Drachmes,Greece,Austria
+350,305,1927,104979,1000,Milliers De Drachmes,Greece,Austria
+350,305,1928,118229,1000,,Greece,Austria
+350,305,1929,146978,1000,Milliers De Drachmes,Greece,Austria
+350,305,1930,128751,1000,Milliers De Drachmes,Greece,Austria
+350,305,1931,127529,1000,Milliers De Drachmes,Greece,Austria
+350,305,1932,171929,1000,Milliers De Drachmes,Greece,Austria
+350,305,1933,107706,1000,Milliers De Drachmes,Greece,Austria
+350,305,1934,155316,1000,Milliers De Drachmes,Greece,Austria
+350,305,1935,212534,1000,Milliers De Drachmes,Greece,Austria
+350,305,1936,245340,1000,,Greece,Austria
+350,305,1937,381741,1000,,Greece,Austria
+350,305,1938,221447,1000,,Greece,Austria
+350,305,1939,0,1000,,Greece,Austria
+350,310,1909,0,1,Drachmes,Greece,Hungary
+350,310,1910,0,1,Drachmes,Greece,Hungary
+350,310,1911,0,1,Drachmes,Greece,Hungary
+350,310,1912,0,1,Drachmes,Greece,Hungary
+350,310,1913,0,1,Drachmes,Greece,Hungary
+350,310,1914,0,1,Drachmes,Greece,Hungary
+350,310,1915,0,1,Drachmes,Greece,Hungary
+350,310,1916,0,1,Drachmes,Greece,Hungary
+350,310,1917,0,1,Drachmes,Greece,Hungary
+350,310,1918,0,1,Drachmes,Greece,Hungary
+350,310,1919,0,1,Drachmes,Greece,Hungary
+350,310,1920,42,1,Drachmes,Greece,Hungary
+350,310,1921,131893,1,Drachmes,Greece,Hungary
+350,310,1922,0,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1923,4208,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1924,9369,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1925,12231,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1926,61917,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1927,85456,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1928,108733,1000,,Greece,Hungary
+350,310,1929,241188,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1930,174381,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1931,73835,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1932,77494,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1933,31247,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1934,31554,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1935,40767,1000,Milliers De Drachmes,Greece,Hungary
+350,310,1936,182957,1000,,Greece,Hungary
+350,310,1937,465471,1000,,Greece,Hungary
+350,310,1938,108575,1000,,Greece,Hungary
+350,310,1939,210391,1000,,Greece,Hungary
+350,315,1909,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1910,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1911,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1912,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1913,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1914,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1915,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1916,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1917,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1918,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1919,0,1,Drachmes,Greece,Czechoslovakia
+350,315,1920,1871491,1,Drachmes,Greece,Czechoslovakia
+350,315,1921,4118938,1,Drachmes,Greece,Czechoslovakia
+350,315,1922,0,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1923,46270,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1924,217672,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1925,286142,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1926,468125,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1927,571982,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1928,475941,1000,,Greece,Czechoslovakia
+350,315,1929,461107,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1930,385707,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1931,286321,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1932,267663,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1933,348587,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1934,415879,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1935,412924,1000,Milliers De Drachmes,Greece,Czechoslovakia
+350,315,1936,219479,1000,,Greece,Czechoslovakia
+350,315,1937,279522,1000,,Greece,Czechoslovakia
+350,315,1938,239110,1000,,Greece,Czechoslovakia
+350,315,1939,237183,1000,,Greece,Czechoslovakia
+350,316,1909,0,1,Drachmes,Greece,Czech Republic
+350,316,1910,0,1,Drachmes,Greece,Czech Republic
+350,316,1911,0,1,Drachmes,Greece,Czech Republic
+350,316,1912,0,1,Drachmes,Greece,Czech Republic
+350,316,1913,0,1,Drachmes,Greece,Czech Republic
+350,316,1914,0,1,Drachmes,Greece,Czech Republic
+350,316,1915,0,1,Drachmes,Greece,Czech Republic
+350,316,1916,0,1,Drachmes,Greece,Czech Republic
+350,316,1917,0,1,Drachmes,Greece,Czech Republic
+350,316,1918,0,1,Drachmes,Greece,Czech Republic
+350,316,1919,0,1,Drachmes,Greece,Czech Republic
+350,316,1920,0,1,Drachmes,Greece,Czech Republic
+350,316,1921,0,1,Drachmes,Greece,Czech Republic
+350,316,1922,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1923,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1924,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1925,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1926,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1927,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1928,0,1000,,Greece,Czech Republic
+350,316,1929,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1930,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1931,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1932,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1933,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1934,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1935,0,1000,Milliers De Drachmes,Greece,Czech Republic
+350,316,1936,0,1000,,Greece,Czech Republic
+350,316,1937,0,1000,,Greece,Czech Republic
+350,316,1938,0,1000,,Greece,Czech Republic
+350,316,1939,8191,1000,,Greece,Czech Republic
+350,317,1909,0,1,Drachmes,Greece,Slovakia
+350,317,1910,0,1,Drachmes,Greece,Slovakia
+350,317,1911,0,1,Drachmes,Greece,Slovakia
+350,317,1912,0,1,Drachmes,Greece,Slovakia
+350,317,1913,0,1,Drachmes,Greece,Slovakia
+350,317,1914,0,1,Drachmes,Greece,Slovakia
+350,317,1915,0,1,Drachmes,Greece,Slovakia
+350,317,1916,0,1,Drachmes,Greece,Slovakia
+350,317,1917,0,1,Drachmes,Greece,Slovakia
+350,317,1918,0,1,Drachmes,Greece,Slovakia
+350,317,1919,0,1,Drachmes,Greece,Slovakia
+350,317,1920,0,1,Drachmes,Greece,Slovakia
+350,317,1921,0,1,Drachmes,Greece,Slovakia
+350,317,1922,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1923,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1924,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1925,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1926,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1927,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1928,0,1000,,Greece,Slovakia
+350,317,1929,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1930,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1931,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1932,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1933,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1934,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1935,0,1000,Milliers De Drachmes,Greece,Slovakia
+350,317,1936,0,1000,,Greece,Slovakia
+350,317,1937,0,1000,,Greece,Slovakia
+350,317,1938,0,1000,,Greece,Slovakia
+350,317,1939,294,1000,,Greece,Slovakia
+350,325,1909,5900689,1,Drachmes,Greece,Italy
+350,325,1910,6787466,1,Drachmes,Greece,Italy
+350,325,1911,6542350,1,Drachmes,Greece,Italy
+350,325,1912,6508433,1,Drachmes,Greece,Italy
+350,325,1913,6472164,1,Drachmes,Greece,Italy
+350,325,1914,21466852,1,Drachmes,Greece,Italy
+350,325,1915,20601099,1,Drachmes,Greece,Italy
+350,325,1916,24926695,1,Drachmes,Greece,Italy
+350,325,1917,27337871,1,Drachmes,Greece,Italy
+350,325,1918,79767838,1,Drachmes,Greece,Italy
+350,325,1919,164633388,1,Drachmes,Greece,Italy
+350,325,1920,215174176,1,Drachmes,Greece,Italy
+350,325,1921,155602401,1,Drachmes,Greece,Italy
+350,325,1922,275954,1000,Milliers De Drachmes,Greece,Italy
+350,325,1923,446800,1000,Milliers De Drachmes,Greece,Italy
+350,325,1924,881042,1000,Milliers De Drachmes,Greece,Italy
+350,325,1925,988086,1000,Milliers De Drachmes,Greece,Italy
+350,325,1926,740392,1000,Milliers De Drachmes,Greece,Italy
+350,325,1927,830492,1000,Milliers De Drachmes,Greece,Italy
+350,325,1928,650037,1000,,Greece,Italy
+350,325,1929,753019,1000,Milliers De Drachmes,Greece,Italy
+350,325,1930,659580,1000,Milliers De Drachmes,Greece,Italy
+350,325,1931,536843,1000,Milliers De Drachmes,Greece,Italy
+350,325,1932,451009,1000,Milliers De Drachmes,Greece,Italy
+350,325,1933,478015,1000,Milliers De Drachmes,Greece,Italy
+350,325,1934,430188,1000,Milliers De Drachmes,Greece,Italy
+350,325,1935,395006,1000,Milliers De Drachmes,Greece,Italy
+350,325,1936,59770,1000,,Greece,Italy
+350,325,1937,434172,1000,,Greece,Italy
+350,325,1938,500895,1000,,Greece,Italy
+350,325,1939,652190,1000,,Greece,Italy
+350,338,1909,0,1,Drachmes,Greece,Malta
+350,338,1910,0,1,Drachmes,Greece,Malta
+350,338,1911,0,1,Drachmes,Greece,Malta
+350,338,1912,0,1,Drachmes,Greece,Malta
+350,338,1913,0,1,Drachmes,Greece,Malta
+350,338,1914,0,1,Drachmes,Greece,Malta
+350,338,1915,0,1,Drachmes,Greece,Malta
+350,338,1916,0,1,Drachmes,Greece,Malta
+350,338,1917,0,1,Drachmes,Greece,Malta
+350,338,1918,0,1,Drachmes,Greece,Malta
+350,338,1919,0,1,Drachmes,Greece,Malta
+350,338,1920,0,1,Drachmes,Greece,Malta
+350,338,1921,0,1,Drachmes,Greece,Malta
+350,338,1922,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1923,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1924,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1925,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1926,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1927,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1928,0,1000,,Greece,Malta
+350,338,1929,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1930,0,1000,Milliers De Drachmes,Greece,Malta
+350,338,1931,2386,1000,Milliers De Drachmes,Greece,Malta
+350,338,1932,3813,1000,Milliers De Drachmes,Greece,Malta
+350,338,1933,3093,1000,Milliers De Drachmes,Greece,Malta
+350,338,1934,2950,1000,Milliers De Drachmes,Greece,Malta
+350,338,1935,2784,1000,Milliers De Drachmes,Greece,Malta
+350,338,1936,1833,1000,,Greece,Malta
+350,338,1937,2339,1000,,Greece,Malta
+350,338,1938,1920,1000,,Greece,Malta
+350,338,1939,1467,1000,,Greece,Malta
+350,339,1909,0,1,Drachmes,Greece,Albania
+350,339,1910,0,1,Drachmes,Greece,Albania
+350,339,1911,0,1,Drachmes,Greece,Albania
+350,339,1912,0,1,Drachmes,Greece,Albania
+350,339,1913,0,1,Drachmes,Greece,Albania
+350,339,1914,0,1,Drachmes,Greece,Albania
+350,339,1915,0,1,Drachmes,Greece,Albania
+350,339,1916,0,1,Drachmes,Greece,Albania
+350,339,1917,0,1,Drachmes,Greece,Albania
+350,339,1918,0,1,Drachmes,Greece,Albania
+350,339,1919,423857,1,Drachmes,Greece,Albania
+350,339,1920,2742670,1,Drachmes,Greece,Albania
+350,339,1921,2456021,1,Drachmes,Greece,Albania
+350,339,1922,0,1000,Milliers De Drachmes,Greece,Albania
+350,339,1923,6936,1000,Milliers De Drachmes,Greece,Albania
+350,339,1924,35946,1000,Milliers De Drachmes,Greece,Albania
+350,339,1925,58981,1000,Milliers De Drachmes,Greece,Albania
+350,339,1926,71788,1000,Milliers De Drachmes,Greece,Albania
+350,339,1927,38434,1000,Milliers De Drachmes,Greece,Albania
+350,339,1928,49418,1000,,Greece,Albania
+350,339,1929,59091,1000,Milliers De Drachmes,Greece,Albania
+350,339,1930,40392,1000,Milliers De Drachmes,Greece,Albania
+350,339,1931,25602,1000,Milliers De Drachmes,Greece,Albania
+350,339,1932,10867,1000,Milliers De Drachmes,Greece,Albania
+350,339,1933,9607,1000,Milliers De Drachmes,Greece,Albania
+350,339,1934,36650,1000,Milliers De Drachmes,Greece,Albania
+350,339,1935,55336,1000,Milliers De Drachmes,Greece,Albania
+350,339,1936,29771,1000,,Greece,Albania
+350,339,1937,37661,1000,,Greece,Albania
+350,339,1938,60773,1000,,Greece,Albania
+350,339,1939,13219,1000,,Greece,Albania
+350,345,1909,0,1,Drachmes,Greece,Yugoslavia
+350,345,1910,0,1,Drachmes,Greece,Yugoslavia
+350,345,1911,0,1,Drachmes,Greece,Yugoslavia
+350,345,1912,0,1,Drachmes,Greece,Yugoslavia
+350,345,1913,0,1,Drachmes,Greece,Yugoslavia
+350,345,1914,7476007,1,Drachmes,Greece,Yugoslavia
+350,345,1915,6239771,1,Drachmes,Greece,Yugoslavia
+350,345,1916,754124,1,Drachmes,Greece,Yugoslavia
+350,345,1917,327138,1,Drachmes,Greece,Yugoslavia
+350,345,1918,1792075,1,Drachmes,Greece,Yugoslavia
+350,345,1919,15931073,1,Drachmes,Greece,Yugoslavia
+350,345,1920,33616652,1,Drachmes,Greece,Yugoslavia
+350,345,1921,64811268,1,Drachmes,Greece,Yugoslavia
+350,345,1922,0,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1923,184297,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1924,308399,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1925,331362,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1926,570125,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1927,904276,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1928,614743,1000,,Greece,Yugoslavia
+350,345,1929,794471,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1930,619934,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1931,424045,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1932,355546,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1933,318192,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1934,411323,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1935,409031,1000,Milliers De Drachmes,Greece,Yugoslavia
+350,345,1936,692028,1000,,Greece,Yugoslavia
+350,345,1937,834649,1000,,Greece,Yugoslavia
+350,345,1938,455049,1000,,Greece,Yugoslavia
+350,345,1939,412266,1000,,Greece,Yugoslavia
+350,352,1909,0,1,Drachmes,Greece,Cyprus
+350,352,1910,0,1,Drachmes,Greece,Cyprus
+350,352,1911,0,1,Drachmes,Greece,Cyprus
+350,352,1912,0,1,Drachmes,Greece,Cyprus
+350,352,1913,0,1,Drachmes,Greece,Cyprus
+350,352,1914,0,1,Drachmes,Greece,Cyprus
+350,352,1915,0,1,Drachmes,Greece,Cyprus
+350,352,1916,0,1,Drachmes,Greece,Cyprus
+350,352,1917,0,1,Drachmes,Greece,Cyprus
+350,352,1918,0,1,Drachmes,Greece,Cyprus
+350,352,1919,2516176,1,Drachmes,Greece,Cyprus
+350,352,1920,6346603,1,Drachmes,Greece,Cyprus
+350,352,1921,1069613,1,Drachmes,Greece,Cyprus
+350,352,1922,0,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1923,21366,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1924,37533,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1925,22375,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1926,10864,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1927,39591,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1928,44985,1000,,Greece,Cyprus
+350,352,1929,63452,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1930,40793,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1931,49296,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1932,33759,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1933,22433,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1934,22721,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1935,28543,1000,Milliers De Drachmes,Greece,Cyprus
+350,352,1936,23109,1000,,Greece,Cyprus
+350,352,1937,10574,1000,,Greece,Cyprus
+350,352,1938,13528,1000,,Greece,Cyprus
+350,352,1939,10161,1000,,Greece,Cyprus
+350,355,1909,4889443,1,Drachmes,Greece,Bulgaria
+350,355,1910,7674474,1,Drachmes,Greece,Bulgaria
+350,355,1911,14145743,1,Drachmes,Greece,Bulgaria
+350,355,1912,7690885,1,Drachmes,Greece,Bulgaria
+350,355,1913,2837704,1,Drachmes,Greece,Bulgaria
+350,355,1914,7814566,1,Drachmes,Greece,Bulgaria
+350,355,1915,8301796,1,Drachmes,Greece,Bulgaria
+350,355,1916,676507,1,Drachmes,Greece,Bulgaria
+350,355,1917,3825,1,Drachmes,Greece,Bulgaria
+350,355,1918,356875,1,Drachmes,Greece,Bulgaria
+350,355,1919,2055495,1,Drachmes,Greece,Bulgaria
+350,355,1920,3037521,1,Drachmes,Greece,Bulgaria
+350,355,1921,16954022,1,Drachmes,Greece,Bulgaria
+350,355,1922,75690,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1923,107465,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1924,159463,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1925,281935,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1926,500347,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1927,447530,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1928,254104,1000,,Greece,Bulgaria
+350,355,1929,241952,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1930,159576,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1931,53555,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1932,10395,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1933,4187,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1934,15103,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1935,32416,1000,Milliers De Drachmes,Greece,Bulgaria
+350,355,1936,17564,1000,,Greece,Bulgaria
+350,355,1937,23029,1000,,Greece,Bulgaria
+350,355,1938,38081,1000,,Greece,Bulgaria
+350,355,1939,71011,1000,,Greece,Bulgaria
+350,360,1909,1656109,1,Drachmes,Greece,Romania
+350,360,1910,2326299,1,Drachmes,Greece,Romania
+350,360,1911,2904545,1,Drachmes,Greece,Romania
+350,360,1912,2917040,1,Drachmes,Greece,Romania
+350,360,1913,2146164,1,Drachmes,Greece,Romania
+350,360,1914,11481194,1,Drachmes,Greece,Romania
+350,360,1915,5117463,1,Drachmes,Greece,Romania
+350,360,1916,244602,1,Drachmes,Greece,Romania
+350,360,1917,0,1,Drachmes,Greece,Romania
+350,360,1918,24821,1,Drachmes,Greece,Romania
+350,360,1919,1006715,1,Drachmes,Greece,Romania
+350,360,1920,21425406,1,Drachmes,Greece,Romania
+350,360,1921,51692277,1,Drachmes,Greece,Romania
+350,360,1922,114666,1000,Milliers De Drachmes,Greece,Romania
+350,360,1923,311033,1000,Milliers De Drachmes,Greece,Romania
+350,360,1924,360195,1000,Milliers De Drachmes,Greece,Romania
+350,360,1925,624284,1000,Milliers De Drachmes,Greece,Romania
+350,360,1926,881811,1000,Milliers De Drachmes,Greece,Romania
+350,360,1927,939645,1000,Milliers De Drachmes,Greece,Romania
+350,360,1928,798871,1000,,Greece,Romania
+350,360,1929,890545,1000,Milliers De Drachmes,Greece,Romania
+350,360,1930,449017,1000,Milliers De Drachmes,Greece,Romania
+350,360,1931,441758,1000,Milliers De Drachmes,Greece,Romania
+350,360,1932,708995,1000,Milliers De Drachmes,Greece,Romania
+350,360,1933,495568,1000,Milliers De Drachmes,Greece,Romania
+350,360,1934,449260,1000,Milliers De Drachmes,Greece,Romania
+350,360,1935,801668,1000,Milliers De Drachmes,Greece,Romania
+350,360,1936,633090,1000,,Greece,Romania
+350,360,1937,1687188,1000,,Greece,Romania
+350,360,1938,1509577,1000,,Greece,Romania
+350,360,1939,1151795,1000,,Greece,Romania
+350,365,1909,26780788,1,Drachmes,Greece,Russia
+350,365,1910,36041430,1,Drachmes,Greece,Russia
+350,365,1911,34448716,1,Drachmes,Greece,Russia
+350,365,1912,23597164,1,Drachmes,Greece,Russia
+350,365,1913,35397854,1,Drachmes,Greece,Russia
+350,365,1914,30394081,1,Drachmes,Greece,Russia
+350,365,1915,2712815,1,Drachmes,Greece,Russia
+350,365,1916,297863,1,Drachmes,Greece,Russia
+350,365,1917,128431,1,Drachmes,Greece,Russia
+350,365,1918,107689,1,Drachmes,Greece,Russia
+350,365,1919,2960372,1,Drachmes,Greece,Russia
+350,365,1920,13750115,1,Drachmes,Greece,Russia
+350,365,1921,4234629,1,Drachmes,Greece,Russia
+350,365,1922,1356,1000,Milliers De Drachmes,Greece,Russia
+350,365,1923,94115,1000,Milliers De Drachmes,Greece,Russia
+350,365,1924,82284,1000,Milliers De Drachmes,Greece,Russia
+350,365,1925,233968,1000,Milliers De Drachmes,Greece,Russia
+350,365,1926,254507,1000,Milliers De Drachmes,Greece,Russia
+350,365,1927,330834,1000,Milliers De Drachmes,Greece,Russia
+350,365,1928,355993,1000,,Greece,Russia
+350,365,1929,281014,1000,Milliers De Drachmes,Greece,Russia
+350,365,1930,355512,1000,Milliers De Drachmes,Greece,Russia
+350,365,1931,582663,1000,Milliers De Drachmes,Greece,Russia
+350,365,1932,793343,1000,Milliers De Drachmes,Greece,Russia
+350,365,1933,649385,1000,Milliers De Drachmes,Greece,Russia
+350,365,1934,445375,1000,Milliers De Drachmes,Greece,Russia
+350,365,1935,488907,1000,Milliers De Drachmes,Greece,Russia
+350,365,1936,550983,1000,,Greece,Russia
+350,365,1937,224234,1000,,Greece,Russia
+350,365,1938,861101,1000,,Greece,Russia
+350,365,1939,239560,1000,,Greece,Russia
+350,366,1909,0,1,Drachmes,Greece,Estonia
+350,366,1910,0,1,Drachmes,Greece,Estonia
+350,366,1911,0,1,Drachmes,Greece,Estonia
+350,366,1912,0,1,Drachmes,Greece,Estonia
+350,366,1913,0,1,Drachmes,Greece,Estonia
+350,366,1914,0,1,Drachmes,Greece,Estonia
+350,366,1915,0,1,Drachmes,Greece,Estonia
+350,366,1916,0,1,Drachmes,Greece,Estonia
+350,366,1917,0,1,Drachmes,Greece,Estonia
+350,366,1918,0,1,Drachmes,Greece,Estonia
+350,366,1919,0,1,Drachmes,Greece,Estonia
+350,366,1920,0,1,Drachmes,Greece,Estonia
+350,366,1921,0,1,Drachmes,Greece,Estonia
+350,366,1922,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1923,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1924,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1925,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1926,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1927,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1928,0,1000,,Greece,Estonia
+350,366,1929,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1930,0,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1931,477,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1932,423,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1933,2259,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1934,2982,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1935,5711,1000,Milliers De Drachmes,Greece,Estonia
+350,366,1936,2062,1000,,Greece,Estonia
+350,366,1937,2729,1000,,Greece,Estonia
+350,366,1938,4534,1000,,Greece,Estonia
+350,366,1939,3320,1000,,Greece,Estonia
+350,367,1909,0,1,Drachmes,Greece,Latvia
+350,367,1910,0,1,Drachmes,Greece,Latvia
+350,367,1911,0,1,Drachmes,Greece,Latvia
+350,367,1912,0,1,Drachmes,Greece,Latvia
+350,367,1913,0,1,Drachmes,Greece,Latvia
+350,367,1914,0,1,Drachmes,Greece,Latvia
+350,367,1915,0,1,Drachmes,Greece,Latvia
+350,367,1916,0,1,Drachmes,Greece,Latvia
+350,367,1917,0,1,Drachmes,Greece,Latvia
+350,367,1918,0,1,Drachmes,Greece,Latvia
+350,367,1919,0,1,Drachmes,Greece,Latvia
+350,367,1920,0,1,Drachmes,Greece,Latvia
+350,367,1921,0,1,Drachmes,Greece,Latvia
+350,367,1922,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1923,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1924,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1925,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1926,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1927,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1928,0,1000,,Greece,Latvia
+350,367,1929,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1930,0,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1931,60,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1932,36,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1933,587,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1934,1167,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1935,123,1000,Milliers De Drachmes,Greece,Latvia
+350,367,1936,147,1000,,Greece,Latvia
+350,367,1937,2,1000,,Greece,Latvia
+350,367,1938,2682,1000,,Greece,Latvia
+350,367,1939,5535,1000,,Greece,Latvia
+350,368,1909,0,1,Drachmes,Greece,Lithuania
+350,368,1910,0,1,Drachmes,Greece,Lithuania
+350,368,1911,0,1,Drachmes,Greece,Lithuania
+350,368,1912,0,1,Drachmes,Greece,Lithuania
+350,368,1913,0,1,Drachmes,Greece,Lithuania
+350,368,1914,0,1,Drachmes,Greece,Lithuania
+350,368,1915,0,1,Drachmes,Greece,Lithuania
+350,368,1916,0,1,Drachmes,Greece,Lithuania
+350,368,1917,0,1,Drachmes,Greece,Lithuania
+350,368,1918,0,1,Drachmes,Greece,Lithuania
+350,368,1919,0,1,Drachmes,Greece,Lithuania
+350,368,1920,0,1,Drachmes,Greece,Lithuania
+350,368,1921,0,1,Drachmes,Greece,Lithuania
+350,368,1922,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1923,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1924,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1925,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1926,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1927,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1928,0,1000,,Greece,Lithuania
+350,368,1929,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1930,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1931,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1932,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1933,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1934,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1935,0,1000,Milliers De Drachmes,Greece,Lithuania
+350,368,1936,0,1000,,Greece,Lithuania
+350,368,1937,0,1000,,Greece,Lithuania
+350,368,1938,1396,1000,,Greece,Lithuania
+350,368,1939,3839,1000,,Greece,Lithuania
+350,375,1909,0,1,Drachmes,Greece,Finland
+350,375,1910,0,1,Drachmes,Greece,Finland
+350,375,1911,0,1,Drachmes,Greece,Finland
+350,375,1912,0,1,Drachmes,Greece,Finland
+350,375,1913,0,1,Drachmes,Greece,Finland
+350,375,1914,0,1,Drachmes,Greece,Finland
+350,375,1915,0,1,Drachmes,Greece,Finland
+350,375,1916,0,1,Drachmes,Greece,Finland
+350,375,1917,0,1,Drachmes,Greece,Finland
+350,375,1918,0,1,Drachmes,Greece,Finland
+350,375,1919,0,1,Drachmes,Greece,Finland
+350,375,1920,100480,1,Drachmes,Greece,Finland
+350,375,1921,21112,1,Drachmes,Greece,Finland
+350,375,1922,0,1000,Milliers De Drachmes,Greece,Finland
+350,375,1923,0,1000,Milliers De Drachmes,Greece,Finland
+350,375,1924,0,1000,Milliers De Drachmes,Greece,Finland
+350,375,1925,148,1000,Milliers De Drachmes,Greece,Finland
+350,375,1926,410,1000,Milliers De Drachmes,Greece,Finland
+350,375,1927,556,1000,Milliers De Drachmes,Greece,Finland
+350,375,1928,1339,1000,,Greece,Finland
+350,375,1929,2857,1000,Milliers De Drachmes,Greece,Finland
+350,375,1930,4026,1000,Milliers De Drachmes,Greece,Finland
+350,375,1931,4653,1000,Milliers De Drachmes,Greece,Finland
+350,375,1932,8915,1000,Milliers De Drachmes,Greece,Finland
+350,375,1933,38440,1000,Milliers De Drachmes,Greece,Finland
+350,375,1934,18481,1000,Milliers De Drachmes,Greece,Finland
+350,375,1935,36361,1000,Milliers De Drachmes,Greece,Finland
+350,375,1936,66589,1000,,Greece,Finland
+350,375,1937,98766,1000,,Greece,Finland
+350,375,1938,101033,1000,,Greece,Finland
+350,375,1939,105851,1000,,Greece,Finland
+350,380,1909,0,1,Drachmes,Greece,Sweden
+350,380,1910,0,1,Drachmes,Greece,Sweden
+350,380,1911,0,1,Drachmes,Greece,Sweden
+350,380,1912,0,1,Drachmes,Greece,Sweden
+350,380,1913,0,1,Drachmes,Greece,Sweden
+350,380,1914,0,1,Drachmes,Greece,Sweden
+350,380,1915,0,1,Drachmes,Greece,Sweden
+350,380,1916,0,1,Drachmes,Greece,Sweden
+350,380,1917,0,1,Drachmes,Greece,Sweden
+350,380,1918,0,1,Drachmes,Greece,Sweden
+350,380,1919,6319922,1,Drachmes,Greece,Sweden
+350,380,1920,19030016,1,Drachmes,Greece,Sweden
+350,380,1921,20579159,1,Drachmes,Greece,Sweden
+350,380,1922,0,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1923,31615,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1924,52542,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1925,75950,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1926,69262,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1927,103461,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1928,114461,1000,,Greece,Sweden
+350,380,1929,138448,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1930,140540,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1931,122852,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1932,141798,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1933,102309,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1934,183132,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1935,280854,1000,Milliers De Drachmes,Greece,Sweden
+350,380,1936,244377,1000,,Greece,Sweden
+350,380,1937,272225,1000,,Greece,Sweden
+350,380,1938,174368,1000,,Greece,Sweden
+350,380,1939,133434,1000,,Greece,Sweden
+350,385,1909,0,1,Drachmes,Greece,Norway
+350,385,1910,0,1,Drachmes,Greece,Norway
+350,385,1911,0,1,Drachmes,Greece,Norway
+350,385,1912,0,1,Drachmes,Greece,Norway
+350,385,1913,0,1,Drachmes,Greece,Norway
+350,385,1914,0,1,Drachmes,Greece,Norway
+350,385,1915,0,1,Drachmes,Greece,Norway
+350,385,1916,0,1,Drachmes,Greece,Norway
+350,385,1917,0,1,Drachmes,Greece,Norway
+350,385,1918,0,1,Drachmes,Greece,Norway
+350,385,1919,309497,1,Drachmes,Greece,Norway
+350,385,1920,1348186,1,Drachmes,Greece,Norway
+350,385,1921,2315256,1,Drachmes,Greece,Norway
+350,385,1922,0,1000,Milliers De Drachmes,Greece,Norway
+350,385,1923,9124,1000,Milliers De Drachmes,Greece,Norway
+350,385,1924,11491,1000,Milliers De Drachmes,Greece,Norway
+350,385,1925,14554,1000,Milliers De Drachmes,Greece,Norway
+350,385,1926,20474,1000,Milliers De Drachmes,Greece,Norway
+350,385,1927,29259,1000,Milliers De Drachmes,Greece,Norway
+350,385,1928,33353,1000,,Greece,Norway
+350,385,1929,34923,1000,Milliers De Drachmes,Greece,Norway
+350,385,1930,28118,1000,Milliers De Drachmes,Greece,Norway
+350,385,1931,19038,1000,Milliers De Drachmes,Greece,Norway
+350,385,1932,15837,1000,Milliers De Drachmes,Greece,Norway
+350,385,1933,23224,1000,Milliers De Drachmes,Greece,Norway
+350,385,1934,20096,1000,Milliers De Drachmes,Greece,Norway
+350,385,1935,33560,1000,Milliers De Drachmes,Greece,Norway
+350,385,1936,42708,1000,,Greece,Norway
+350,385,1937,71419,1000,,Greece,Norway
+350,385,1938,9599,1000,,Greece,Norway
+350,385,1939,15786,1000,,Greece,Norway
+350,390,1909,0,1,Drachmes,Greece,Denmark
+350,390,1910,0,1,Drachmes,Greece,Denmark
+350,390,1911,0,1,Drachmes,Greece,Denmark
+350,390,1912,0,1,Drachmes,Greece,Denmark
+350,390,1913,0,1,Drachmes,Greece,Denmark
+350,390,1914,0,1,Drachmes,Greece,Denmark
+350,390,1915,0,1,Drachmes,Greece,Denmark
+350,390,1916,0,1,Drachmes,Greece,Denmark
+350,390,1917,0,1,Drachmes,Greece,Denmark
+350,390,1918,0,1,Drachmes,Greece,Denmark
+350,390,1919,108213,1,Drachmes,Greece,Denmark
+350,390,1920,641292,1,Drachmes,Greece,Denmark
+350,390,1921,309828,1,Drachmes,Greece,Denmark
+350,390,1922,0,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1923,2174,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1924,3090,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1925,4725,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1926,2585,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1927,9047,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1928,13756,1000,,Greece,Denmark
+350,390,1929,11801,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1930,16844,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1931,6437,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1932,12501,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1933,17125,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1934,6393,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1935,12286,1000,Milliers De Drachmes,Greece,Denmark
+350,390,1936,38011,1000,,Greece,Denmark
+350,390,1937,124525,1000,,Greece,Denmark
+350,390,1938,38217,1000,,Greece,Denmark
+350,390,1939,39813,1000,,Greece,Denmark
+350,395,1909,0,1,Drachmes,Greece,Iceland
+350,395,1910,0,1,Drachmes,Greece,Iceland
+350,395,1911,0,1,Drachmes,Greece,Iceland
+350,395,1912,0,1,Drachmes,Greece,Iceland
+350,395,1913,0,1,Drachmes,Greece,Iceland
+350,395,1914,0,1,Drachmes,Greece,Iceland
+350,395,1915,0,1,Drachmes,Greece,Iceland
+350,395,1916,0,1,Drachmes,Greece,Iceland
+350,395,1917,0,1,Drachmes,Greece,Iceland
+350,395,1918,0,1,Drachmes,Greece,Iceland
+350,395,1919,0,1,Drachmes,Greece,Iceland
+350,395,1920,0,1,Drachmes,Greece,Iceland
+350,395,1921,0,1,Drachmes,Greece,Iceland
+350,395,1922,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1923,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1924,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1925,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1926,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1927,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1928,0,1000,,Greece,Iceland
+350,395,1929,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1930,0,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1931,3696,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1932,13873,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1933,8183,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1934,406,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1935,492,1000,Milliers De Drachmes,Greece,Iceland
+350,395,1936,294,1000,,Greece,Iceland
+350,395,1937,124,1000,,Greece,Iceland
+350,395,1938,37,1000,,Greece,Iceland
+350,395,1939,11004,1000,,Greece,Iceland
+350,451,1909,0,1,Drachmes,Greece,Sierra Leone
+350,451,1910,0,1,Drachmes,Greece,Sierra Leone
+350,451,1911,0,1,Drachmes,Greece,Sierra Leone
+350,451,1912,0,1,Drachmes,Greece,Sierra Leone
+350,451,1913,0,1,Drachmes,Greece,Sierra Leone
+350,451,1914,0,1,Drachmes,Greece,Sierra Leone
+350,451,1915,0,1,Drachmes,Greece,Sierra Leone
+350,451,1916,0,1,Drachmes,Greece,Sierra Leone
+350,451,1917,0,1,Drachmes,Greece,Sierra Leone
+350,451,1918,0,1,Drachmes,Greece,Sierra Leone
+350,451,1919,0,1,Drachmes,Greece,Sierra Leone
+350,451,1920,0,1,Drachmes,Greece,Sierra Leone
+350,451,1921,0,1,Drachmes,Greece,Sierra Leone
+350,451,1922,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1923,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1924,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1925,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1926,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1927,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1928,0,1000,,Greece,Sierra Leone
+350,451,1929,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1930,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1931,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1932,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1933,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1934,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1935,0,1000,Milliers De Drachmes,Greece,Sierra Leone
+350,451,1936,0,1000,,Greece,Sierra Leone
+350,451,1937,0,1000,,Greece,Sierra Leone
+350,451,1938,368,1000,,Greece,Sierra Leone
+350,451,1939,1624,1000,,Greece,Sierra Leone
+350,452,1909,0,1,Drachmes,Greece,Ghana
+350,452,1910,0,1,Drachmes,Greece,Ghana
+350,452,1911,0,1,Drachmes,Greece,Ghana
+350,452,1912,0,1,Drachmes,Greece,Ghana
+350,452,1913,0,1,Drachmes,Greece,Ghana
+350,452,1914,0,1,Drachmes,Greece,Ghana
+350,452,1915,0,1,Drachmes,Greece,Ghana
+350,452,1916,0,1,Drachmes,Greece,Ghana
+350,452,1917,0,1,Drachmes,Greece,Ghana
+350,452,1918,0,1,Drachmes,Greece,Ghana
+350,452,1919,0,1,Drachmes,Greece,Ghana
+350,452,1920,0,1,Drachmes,Greece,Ghana
+350,452,1921,0,1,Drachmes,Greece,Ghana
+350,452,1922,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1923,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1924,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1925,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1926,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1927,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1928,0,1000,,Greece,Ghana
+350,452,1929,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1930,0,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1931,3521,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1932,4362,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1933,2652,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1934,5299,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1935,6434,1000,Milliers De Drachmes,Greece,Ghana
+350,452,1936,9994,1000,,Greece,Ghana
+350,452,1937,13602,1000,,Greece,Ghana
+350,452,1938,8667,1000,,Greece,Ghana
+350,452,1939,10271,1000,,Greece,Ghana
+350,475,1909,0,1,Drachmes,Greece,Nigeria
+350,475,1910,0,1,Drachmes,Greece,Nigeria
+350,475,1911,0,1,Drachmes,Greece,Nigeria
+350,475,1912,0,1,Drachmes,Greece,Nigeria
+350,475,1913,0,1,Drachmes,Greece,Nigeria
+350,475,1914,0,1,Drachmes,Greece,Nigeria
+350,475,1915,0,1,Drachmes,Greece,Nigeria
+350,475,1916,0,1,Drachmes,Greece,Nigeria
+350,475,1917,0,1,Drachmes,Greece,Nigeria
+350,475,1918,0,1,Drachmes,Greece,Nigeria
+350,475,1919,0,1,Drachmes,Greece,Nigeria
+350,475,1920,0,1,Drachmes,Greece,Nigeria
+350,475,1921,0,1,Drachmes,Greece,Nigeria
+350,475,1922,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1923,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1924,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1925,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1926,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1927,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1928,0,1000,,Greece,Nigeria
+350,475,1929,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1930,0,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1931,77,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1932,1716,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1933,8156,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1934,7876,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1935,8114,1000,Milliers De Drachmes,Greece,Nigeria
+350,475,1936,0,1000,,Greece,Nigeria
+350,475,1937,34802,1000,,Greece,Nigeria
+350,475,1938,14665,1000,,Greece,Nigeria
+350,475,1939,11060,1000,,Greece,Nigeria
+350,490,1909,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1910,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1911,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1912,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1913,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1914,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1915,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1916,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1917,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1918,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1919,0,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1920,20,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1921,8050,1,Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1922,0,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1923,2,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1924,1,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1925,1,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1926,0,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1927,91,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1928,16,1000,,Greece,"Congo, Dem. Republic"
+350,490,1929,0,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1930,0,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1931,8,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1932,411,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1933,212,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1934,454,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1935,40,1000,Milliers De Drachmes,Greece,"Congo, Dem. Republic"
+350,490,1936,3,1000,,Greece,"Congo, Dem. Republic"
+350,490,1937,74,1000,,Greece,"Congo, Dem. Republic"
+350,490,1938,88,1000,,Greece,"Congo, Dem. Republic"
+350,490,1939,88,1000,,Greece,"Congo, Dem. Republic"
+350,510,1909,0,1,Drachmes,Greece,Tanzania
+350,510,1910,0,1,Drachmes,Greece,Tanzania
+350,510,1911,0,1,Drachmes,Greece,Tanzania
+350,510,1912,0,1,Drachmes,Greece,Tanzania
+350,510,1913,0,1,Drachmes,Greece,Tanzania
+350,510,1914,0,1,Drachmes,Greece,Tanzania
+350,510,1915,0,1,Drachmes,Greece,Tanzania
+350,510,1916,0,1,Drachmes,Greece,Tanzania
+350,510,1917,0,1,Drachmes,Greece,Tanzania
+350,510,1918,0,1,Drachmes,Greece,Tanzania
+350,510,1919,0,1,Drachmes,Greece,Tanzania
+350,510,1920,0,1,Drachmes,Greece,Tanzania
+350,510,1921,0,1,Drachmes,Greece,Tanzania
+350,510,1922,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1923,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1924,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1925,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1926,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1927,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1928,0,1000,,Greece,Tanzania
+350,510,1929,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1930,0,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1931,3,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1932,250,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1933,1546,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1934,810,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1935,2825,1000,Milliers De Drachmes,Greece,Tanzania
+350,510,1936,3565,1000,,Greece,Tanzania
+350,510,1937,5440,1000,,Greece,Tanzania
+350,510,1938,3941,1000,,Greece,Tanzania
+350,510,1939,3308,1000,,Greece,Tanzania
+350,511,1909,0,1,Drachmes,Greece,Zanzibar
+350,511,1910,0,1,Drachmes,Greece,Zanzibar
+350,511,1911,0,1,Drachmes,Greece,Zanzibar
+350,511,1912,0,1,Drachmes,Greece,Zanzibar
+350,511,1913,0,1,Drachmes,Greece,Zanzibar
+350,511,1914,0,1,Drachmes,Greece,Zanzibar
+350,511,1915,0,1,Drachmes,Greece,Zanzibar
+350,511,1916,0,1,Drachmes,Greece,Zanzibar
+350,511,1917,0,1,Drachmes,Greece,Zanzibar
+350,511,1918,0,1,Drachmes,Greece,Zanzibar
+350,511,1919,0,1,Drachmes,Greece,Zanzibar
+350,511,1920,0,1,Drachmes,Greece,Zanzibar
+350,511,1921,0,1,Drachmes,Greece,Zanzibar
+350,511,1922,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1923,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1924,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1925,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1926,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1927,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1928,0,1000,,Greece,Zanzibar
+350,511,1929,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1930,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1931,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1932,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1933,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1934,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1935,0,1000,Milliers De Drachmes,Greece,Zanzibar
+350,511,1936,111,1000,,Greece,Zanzibar
+350,511,1937,548,1000,,Greece,Zanzibar
+350,511,1938,123,1000,,Greece,Zanzibar
+350,511,1939,192,1000,,Greece,Zanzibar
+350,530,1909,0,1,Drachmes,Greece,Ethiopia
+350,530,1910,0,1,Drachmes,Greece,Ethiopia
+350,530,1911,0,1,Drachmes,Greece,Ethiopia
+350,530,1912,0,1,Drachmes,Greece,Ethiopia
+350,530,1913,0,1,Drachmes,Greece,Ethiopia
+350,530,1914,0,1,Drachmes,Greece,Ethiopia
+350,530,1915,0,1,Drachmes,Greece,Ethiopia
+350,530,1916,0,1,Drachmes,Greece,Ethiopia
+350,530,1917,0,1,Drachmes,Greece,Ethiopia
+350,530,1918,0,1,Drachmes,Greece,Ethiopia
+350,530,1919,2377002,1,Drachmes,Greece,Ethiopia
+350,530,1920,421268,1,Drachmes,Greece,Ethiopia
+350,530,1921,409284,1,Drachmes,Greece,Ethiopia
+350,530,1922,0,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1923,710,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1924,1042,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1925,2519,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1926,7385,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1927,4837,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1928,7601,1000,,Greece,Ethiopia
+350,530,1929,9238,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1930,2862,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1931,6417,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1932,40800,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1933,49837,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1934,19417,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1935,12645,1000,Milliers De Drachmes,Greece,Ethiopia
+350,530,1936,20520,1000,,Greece,Ethiopia
+350,530,1937,647,1000,,Greece,Ethiopia
+350,530,1938,51,1000,,Greece,Ethiopia
+350,530,1939,171,1000,,Greece,Ethiopia
+350,531,1909,0,1,Drachmes,Greece,Eritrea
+350,531,1910,0,1,Drachmes,Greece,Eritrea
+350,531,1911,0,1,Drachmes,Greece,Eritrea
+350,531,1912,0,1,Drachmes,Greece,Eritrea
+350,531,1913,0,1,Drachmes,Greece,Eritrea
+350,531,1914,0,1,Drachmes,Greece,Eritrea
+350,531,1915,0,1,Drachmes,Greece,Eritrea
+350,531,1916,0,1,Drachmes,Greece,Eritrea
+350,531,1917,0,1,Drachmes,Greece,Eritrea
+350,531,1918,0,1,Drachmes,Greece,Eritrea
+350,531,1919,0,1,Drachmes,Greece,Eritrea
+350,531,1920,0,1,Drachmes,Greece,Eritrea
+350,531,1921,0,1,Drachmes,Greece,Eritrea
+350,531,1922,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1923,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1924,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1925,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1926,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1927,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1928,0,1000,,Greece,Eritrea
+350,531,1929,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1930,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1931,28,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1932,21,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1933,0,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1934,27,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1935,168,1000,Milliers De Drachmes,Greece,Eritrea
+350,531,1936,0,1000,,Greece,Eritrea
+350,531,1937,0,1000,,Greece,Eritrea
+350,531,1938,1,1000,,Greece,Eritrea
+350,531,1939,0,1000,,Greece,Eritrea
+350,540,1909,0,1,Drachmes,Greece,Angola
+350,540,1910,0,1,Drachmes,Greece,Angola
+350,540,1911,0,1,Drachmes,Greece,Angola
+350,540,1912,0,1,Drachmes,Greece,Angola
+350,540,1913,0,1,Drachmes,Greece,Angola
+350,540,1914,0,1,Drachmes,Greece,Angola
+350,540,1915,0,1,Drachmes,Greece,Angola
+350,540,1916,0,1,Drachmes,Greece,Angola
+350,540,1917,0,1,Drachmes,Greece,Angola
+350,540,1918,0,1,Drachmes,Greece,Angola
+350,540,1919,0,1,Drachmes,Greece,Angola
+350,540,1920,0,1,Drachmes,Greece,Angola
+350,540,1921,0,1,Drachmes,Greece,Angola
+350,540,1922,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1923,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1924,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1925,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1926,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1927,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1928,0,1000,,Greece,Angola
+350,540,1929,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1930,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1931,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1932,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1933,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1934,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1935,0,1000,Milliers De Drachmes,Greece,Angola
+350,540,1936,0,1000,,Greece,Angola
+350,540,1937,0,1000,,Greece,Angola
+350,540,1938,115,1000,,Greece,Angola
+350,540,1939,0,1000,,Greece,Angola
+350,541,1909,0,1,Drachmes,Greece,Mozambique
+350,541,1910,0,1,Drachmes,Greece,Mozambique
+350,541,1911,0,1,Drachmes,Greece,Mozambique
+350,541,1912,0,1,Drachmes,Greece,Mozambique
+350,541,1913,0,1,Drachmes,Greece,Mozambique
+350,541,1914,0,1,Drachmes,Greece,Mozambique
+350,541,1915,0,1,Drachmes,Greece,Mozambique
+350,541,1916,0,1,Drachmes,Greece,Mozambique
+350,541,1917,0,1,Drachmes,Greece,Mozambique
+350,541,1918,0,1,Drachmes,Greece,Mozambique
+350,541,1919,0,1,Drachmes,Greece,Mozambique
+350,541,1920,0,1,Drachmes,Greece,Mozambique
+350,541,1921,0,1,Drachmes,Greece,Mozambique
+350,541,1922,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1923,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1924,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1925,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1926,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1927,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1928,0,1000,,Greece,Mozambique
+350,541,1929,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1930,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1931,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1932,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1933,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1934,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1935,0,1000,Milliers De Drachmes,Greece,Mozambique
+350,541,1936,0,1000,,Greece,Mozambique
+350,541,1937,77,1000,,Greece,Mozambique
+350,541,1938,0,1000,,Greece,Mozambique
+350,541,1939,0,1000,,Greece,Mozambique
+350,580,1909,0,1,Drachmes,Greece,Madagascar
+350,580,1910,0,1,Drachmes,Greece,Madagascar
+350,580,1911,0,1,Drachmes,Greece,Madagascar
+350,580,1912,0,1,Drachmes,Greece,Madagascar
+350,580,1913,0,1,Drachmes,Greece,Madagascar
+350,580,1914,0,1,Drachmes,Greece,Madagascar
+350,580,1915,0,1,Drachmes,Greece,Madagascar
+350,580,1916,0,1,Drachmes,Greece,Madagascar
+350,580,1917,0,1,Drachmes,Greece,Madagascar
+350,580,1918,0,1,Drachmes,Greece,Madagascar
+350,580,1919,0,1,Drachmes,Greece,Madagascar
+350,580,1920,0,1,Drachmes,Greece,Madagascar
+350,580,1921,0,1,Drachmes,Greece,Madagascar
+350,580,1922,0,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1923,0,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1924,0,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1925,0,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1926,287,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1927,4242,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1928,6311,1000,,Greece,Madagascar
+350,580,1929,4848,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1930,3645,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1931,3739,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1932,4230,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1933,12886,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1934,9905,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1935,1648,1000,Milliers De Drachmes,Greece,Madagascar
+350,580,1936,3176,1000,,Greece,Madagascar
+350,580,1937,2666,1000,,Greece,Madagascar
+350,580,1938,1900,1000,,Greece,Madagascar
+350,580,1939,2127,1000,,Greece,Madagascar
+350,600,1909,0,1,Drachmes,Greece,Morocco
+350,600,1910,0,1,Drachmes,Greece,Morocco
+350,600,1911,0,1,Drachmes,Greece,Morocco
+350,600,1912,0,1,Drachmes,Greece,Morocco
+350,600,1913,0,1,Drachmes,Greece,Morocco
+350,600,1914,0,1,Drachmes,Greece,Morocco
+350,600,1915,0,1,Drachmes,Greece,Morocco
+350,600,1916,0,1,Drachmes,Greece,Morocco
+350,600,1917,0,1,Drachmes,Greece,Morocco
+350,600,1918,0,1,Drachmes,Greece,Morocco
+350,600,1919,0,1,Drachmes,Greece,Morocco
+350,600,1920,0,1,Drachmes,Greece,Morocco
+350,600,1921,0,1,Drachmes,Greece,Morocco
+350,600,1922,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1923,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1924,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1925,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1926,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1927,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1928,0,1000,,Greece,Morocco
+350,600,1929,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1930,0,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1931,292,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1932,1,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1933,1475,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1934,64232,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1935,107294,1000,Milliers De Drachmes,Greece,Morocco
+350,600,1936,2598,1000,,Greece,Morocco
+350,600,1937,1219,1000,,Greece,Morocco
+350,600,1938,16003,1000,,Greece,Morocco
+350,600,1939,9613,1000,,Greece,Morocco
+350,602,1909,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1910,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1911,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1912,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1913,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1914,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1915,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1916,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1917,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1918,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1919,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1920,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1921,0,1,Drachmes,Greece,Spanish Morocco
+350,602,1922,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1923,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1924,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1925,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1926,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1927,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1928,0,1000,,Greece,Spanish Morocco
+350,602,1929,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1930,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1931,103,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1932,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1933,4,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1934,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1935,0,1000,Milliers De Drachmes,Greece,Spanish Morocco
+350,602,1936,0,1000,,Greece,Spanish Morocco
+350,602,1937,0,1000,,Greece,Spanish Morocco
+350,602,1938,0,1000,,Greece,Spanish Morocco
+350,602,1939,0,1000,,Greece,Spanish Morocco
+350,615,1909,0,1,Drachmes,Greece,Algeria
+350,615,1910,0,1,Drachmes,Greece,Algeria
+350,615,1911,0,1,Drachmes,Greece,Algeria
+350,615,1912,0,1,Drachmes,Greece,Algeria
+350,615,1913,0,1,Drachmes,Greece,Algeria
+350,615,1914,0,1,Drachmes,Greece,Algeria
+350,615,1915,0,1,Drachmes,Greece,Algeria
+350,615,1916,0,1,Drachmes,Greece,Algeria
+350,615,1917,0,1,Drachmes,Greece,Algeria
+350,615,1918,0,1,Drachmes,Greece,Algeria
+350,615,1919,905722,1,Drachmes,Greece,Algeria
+350,615,1920,1523722,1,Drachmes,Greece,Algeria
+350,615,1921,2094764,1,Drachmes,Greece,Algeria
+350,615,1922,0,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1923,9354,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1924,5273,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1925,41598,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1926,10968,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1927,15417,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1928,9789,1000,,Greece,Algeria
+350,615,1929,11709,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1930,9778,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1931,4618,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1932,2399,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1933,5505,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1934,34461,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1935,42972,1000,Milliers De Drachmes,Greece,Algeria
+350,615,1936,32814,1000,,Greece,Algeria
+350,615,1937,6321,1000,,Greece,Algeria
+350,615,1938,10384,1000,,Greece,Algeria
+350,615,1939,3845,1000,,Greece,Algeria
+350,616,1909,0,1,Drachmes,Greece,Tunisia
+350,616,1910,0,1,Drachmes,Greece,Tunisia
+350,616,1911,0,1,Drachmes,Greece,Tunisia
+350,616,1912,0,1,Drachmes,Greece,Tunisia
+350,616,1913,0,1,Drachmes,Greece,Tunisia
+350,616,1914,0,1,Drachmes,Greece,Tunisia
+350,616,1915,0,1,Drachmes,Greece,Tunisia
+350,616,1916,0,1,Drachmes,Greece,Tunisia
+350,616,1917,0,1,Drachmes,Greece,Tunisia
+350,616,1918,0,1,Drachmes,Greece,Tunisia
+350,616,1919,940051,1,Drachmes,Greece,Tunisia
+350,616,1920,458290,1,Drachmes,Greece,Tunisia
+350,616,1921,951500,1,Drachmes,Greece,Tunisia
+350,616,1922,0,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1923,4181,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1924,8145,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1925,11384,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1926,27565,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1927,7903,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1928,10910,1000,,Greece,Tunisia
+350,616,1929,38559,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1930,13385,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1931,1193,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1932,9263,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1933,21545,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1934,20082,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1935,20098,1000,Milliers De Drachmes,Greece,Tunisia
+350,616,1936,22732,1000,,Greece,Tunisia
+350,616,1937,19752,1000,,Greece,Tunisia
+350,616,1938,13858,1000,,Greece,Tunisia
+350,616,1939,15378,1000,,Greece,Tunisia
+350,620,1909,0,1,Drachmes,Greece,Libya
+350,620,1910,0,1,Drachmes,Greece,Libya
+350,620,1911,0,1,Drachmes,Greece,Libya
+350,620,1912,0,1,Drachmes,Greece,Libya
+350,620,1913,0,1,Drachmes,Greece,Libya
+350,620,1914,0,1,Drachmes,Greece,Libya
+350,620,1915,0,1,Drachmes,Greece,Libya
+350,620,1916,0,1,Drachmes,Greece,Libya
+350,620,1917,0,1,Drachmes,Greece,Libya
+350,620,1918,0,1,Drachmes,Greece,Libya
+350,620,1919,0,1,Drachmes,Greece,Libya
+350,620,1920,0,1,Drachmes,Greece,Libya
+350,620,1921,0,1,Drachmes,Greece,Libya
+350,620,1922,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1923,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1924,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1925,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1926,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1927,0,1000,Milliers De Drachmes,Greece,Libya
+350,620,1928,0,1000,,Greece,Libya
+350,620,1929,2843,1000,Milliers De Drachmes,Greece,Libya
+350,620,1930,2339,1000,Milliers De Drachmes,Greece,Libya
+350,620,1931,780,1000,Milliers De Drachmes,Greece,Libya
+350,620,1932,1068,1000,Milliers De Drachmes,Greece,Libya
+350,620,1933,1626,1000,Milliers De Drachmes,Greece,Libya
+350,620,1934,1888,1000,Milliers De Drachmes,Greece,Libya
+350,620,1935,471,1000,Milliers De Drachmes,Greece,Libya
+350,620,1936,524,1000,,Greece,Libya
+350,620,1937,2399,1000,,Greece,Libya
+350,620,1938,252,1000,,Greece,Libya
+350,620,1939,222,1000,,Greece,Libya
+350,625,1909,0,1,Drachmes,Greece,Sudan
+350,625,1910,0,1,Drachmes,Greece,Sudan
+350,625,1911,0,1,Drachmes,Greece,Sudan
+350,625,1912,0,1,Drachmes,Greece,Sudan
+350,625,1913,0,1,Drachmes,Greece,Sudan
+350,625,1914,0,1,Drachmes,Greece,Sudan
+350,625,1915,0,1,Drachmes,Greece,Sudan
+350,625,1916,0,1,Drachmes,Greece,Sudan
+350,625,1917,0,1,Drachmes,Greece,Sudan
+350,625,1918,0,1,Drachmes,Greece,Sudan
+350,625,1919,0,1,Drachmes,Greece,Sudan
+350,625,1920,0,1,Drachmes,Greece,Sudan
+350,625,1921,0,1,Drachmes,Greece,Sudan
+350,625,1922,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1923,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1924,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1925,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1926,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1927,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1928,0,1000,,Greece,Sudan
+350,625,1929,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1930,0,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1931,1022,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1932,531,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1933,6428,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1934,3270,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1935,10173,1000,Milliers De Drachmes,Greece,Sudan
+350,625,1936,6401,1000,,Greece,Sudan
+350,625,1937,4986,1000,,Greece,Sudan
+350,625,1938,4329,1000,,Greece,Sudan
+350,625,1939,4397,1000,,Greece,Sudan
+350,630,1909,0,1,Drachmes,Greece,Iran
+350,630,1910,0,1,Drachmes,Greece,Iran
+350,630,1911,0,1,Drachmes,Greece,Iran
+350,630,1912,0,1,Drachmes,Greece,Iran
+350,630,1913,0,1,Drachmes,Greece,Iran
+350,630,1914,0,1,Drachmes,Greece,Iran
+350,630,1915,0,1,Drachmes,Greece,Iran
+350,630,1916,0,1,Drachmes,Greece,Iran
+350,630,1917,0,1,Drachmes,Greece,Iran
+350,630,1918,0,1,Drachmes,Greece,Iran
+350,630,1919,124957,1,Drachmes,Greece,Iran
+350,630,1920,191200,1,Drachmes,Greece,Iran
+350,630,1921,247066,1,Drachmes,Greece,Iran
+350,630,1922,0,1000,Milliers De Drachmes,Greece,Iran
+350,630,1923,1801,1000,Milliers De Drachmes,Greece,Iran
+350,630,1924,296,1000,Milliers De Drachmes,Greece,Iran
+350,630,1925,814,1000,Milliers De Drachmes,Greece,Iran
+350,630,1926,582,1000,Milliers De Drachmes,Greece,Iran
+350,630,1927,637,1000,Milliers De Drachmes,Greece,Iran
+350,630,1928,1202,1000,,Greece,Iran
+350,630,1929,634,1000,Milliers De Drachmes,Greece,Iran
+350,630,1930,484,1000,Milliers De Drachmes,Greece,Iran
+350,630,1931,327,1000,Milliers De Drachmes,Greece,Iran
+350,630,1932,876,1000,Milliers De Drachmes,Greece,Iran
+350,630,1933,228,1000,Milliers De Drachmes,Greece,Iran
+350,630,1934,178,1000,Milliers De Drachmes,Greece,Iran
+350,630,1935,63,1000,Milliers De Drachmes,Greece,Iran
+350,630,1936,3129,1000,,Greece,Iran
+350,630,1937,283,1000,,Greece,Iran
+350,630,1938,10,1000,,Greece,Iran
+350,630,1939,2513,1000,,Greece,Iran
+350,640,1909,11648978,1,Drachmes,Greece,Turkey
+350,640,1910,10808910,1,Drachmes,Greece,Turkey
+350,640,1911,8930822,1,Drachmes,Greece,Turkey
+350,640,1912,8544192,1,Drachmes,Greece,Turkey
+350,640,1913,3600497,1,Drachmes,Greece,Turkey
+350,640,1914,15189259,1,Drachmes,Greece,Turkey
+350,640,1915,4631284,1,Drachmes,Greece,Turkey
+350,640,1916,5960868,1,Drachmes,Greece,Turkey
+350,640,1917,86170,1,Drachmes,Greece,Turkey
+350,640,1918,261389,1,Drachmes,Greece,Turkey
+350,640,1919,61180767,1,Drachmes,Greece,Turkey
+350,640,1920,63504199,1,Drachmes,Greece,Turkey
+350,640,1921,35713025,1,Drachmes,Greece,Turkey
+350,640,1922,89937,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1923,198849,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1924,207849,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1925,245227,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1926,245965,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1927,269767,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1928,262650,1000,,Greece,Turkey
+350,640,1929,333234,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1930,394083,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1931,481354,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1932,264634,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1933,274323,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1934,256109,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1935,217414,1000,Milliers De Drachmes,Greece,Turkey
+350,640,1936,177616,1000,,Greece,Turkey
+350,640,1937,202074,1000,,Greece,Turkey
+350,640,1938,272756,1000,,Greece,Turkey
+350,640,1939,164466,1000,,Greece,Turkey
+350,645,1909,0,1,Drachmes,Greece,Iraq
+350,645,1910,0,1,Drachmes,Greece,Iraq
+350,645,1911,0,1,Drachmes,Greece,Iraq
+350,645,1912,0,1,Drachmes,Greece,Iraq
+350,645,1913,0,1,Drachmes,Greece,Iraq
+350,645,1914,0,1,Drachmes,Greece,Iraq
+350,645,1915,0,1,Drachmes,Greece,Iraq
+350,645,1916,0,1,Drachmes,Greece,Iraq
+350,645,1917,0,1,Drachmes,Greece,Iraq
+350,645,1918,0,1,Drachmes,Greece,Iraq
+350,645,1919,0,1,Drachmes,Greece,Iraq
+350,645,1920,0,1,Drachmes,Greece,Iraq
+350,645,1921,0,1,Drachmes,Greece,Iraq
+350,645,1922,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1923,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1924,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1925,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1926,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1927,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1928,0,1000,,Greece,Iraq
+350,645,1929,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1930,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1931,43,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1932,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1933,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1934,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1935,0,1000,Milliers De Drachmes,Greece,Iraq
+350,645,1936,0,1000,,Greece,Iraq
+350,645,1937,0,1000,,Greece,Iraq
+350,645,1938,1549,1000,,Greece,Iraq
+350,645,1939,181,1000,,Greece,Iraq
+350,651,1909,908984,1,Drachmes,Greece,Egypt
+350,651,1910,1216395,1,Drachmes,Greece,Egypt
+350,651,1911,942532,1,Drachmes,Greece,Egypt
+350,651,1912,1468100,1,Drachmes,Greece,Egypt
+350,651,1913,978959,1,Drachmes,Greece,Egypt
+350,651,1914,4071818,1,Drachmes,Greece,Egypt
+350,651,1915,9749602,1,Drachmes,Greece,Egypt
+350,651,1916,19144885,1,Drachmes,Greece,Egypt
+350,651,1917,18133466,1,Drachmes,Greece,Egypt
+350,651,1918,61712763,1,Drachmes,Greece,Egypt
+350,651,1919,80054978,1,Drachmes,Greece,Egypt
+350,651,1920,58404525,1,Drachmes,Greece,Egypt
+350,651,1921,54862677,1,Drachmes,Greece,Egypt
+350,651,1922,166823,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1923,172810,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1924,191176,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1925,205189,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1926,130789,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1927,205839,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1928,267452,1000,,Greece,Egypt
+350,651,1929,259221,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1930,128314,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1931,91972,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1932,106481,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1933,164726,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1934,143157,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1935,217958,1000,Milliers De Drachmes,Greece,Egypt
+350,651,1936,235949,1000,,Greece,Egypt
+350,651,1937,276768,1000,,Greece,Egypt
+350,651,1938,244051,1000,,Greece,Egypt
+350,651,1939,316014,1000,,Greece,Egypt
+350,652,1909,0,1,Drachmes,Greece,Syria
+350,652,1910,0,1,Drachmes,Greece,Syria
+350,652,1911,0,1,Drachmes,Greece,Syria
+350,652,1912,0,1,Drachmes,Greece,Syria
+350,652,1913,0,1,Drachmes,Greece,Syria
+350,652,1914,0,1,Drachmes,Greece,Syria
+350,652,1915,0,1,Drachmes,Greece,Syria
+350,652,1916,0,1,Drachmes,Greece,Syria
+350,652,1917,0,1,Drachmes,Greece,Syria
+350,652,1918,0,1,Drachmes,Greece,Syria
+350,652,1919,0,1,Drachmes,Greece,Syria
+350,652,1920,41540,1,Drachmes,Greece,Syria
+350,652,1921,0,1,Drachmes,Greece,Syria
+350,652,1922,0,1000,Milliers De Drachmes,Greece,Syria
+350,652,1923,0,1000,Milliers De Drachmes,Greece,Syria
+350,652,1924,2763,1000,Milliers De Drachmes,Greece,Syria
+350,652,1925,10125,1000,Milliers De Drachmes,Greece,Syria
+350,652,1926,21484,1000,Milliers De Drachmes,Greece,Syria
+350,652,1927,27126,1000,Milliers De Drachmes,Greece,Syria
+350,652,1928,18731,1000,,Greece,Syria
+350,652,1929,46422,1000,Milliers De Drachmes,Greece,Syria
+350,652,1930,28341,1000,Milliers De Drachmes,Greece,Syria
+350,652,1931,17840,1000,Milliers De Drachmes,Greece,Syria
+350,652,1932,3669,1000,Milliers De Drachmes,Greece,Syria
+350,652,1933,1297,1000,Milliers De Drachmes,Greece,Syria
+350,652,1934,2174,1000,Milliers De Drachmes,Greece,Syria
+350,652,1935,2236,1000,Milliers De Drachmes,Greece,Syria
+350,652,1936,8874,1000,,Greece,Syria
+350,652,1937,2576,1000,,Greece,Syria
+350,652,1938,17506,1000,,Greece,Syria
+350,652,1939,14398,1000,,Greece,Syria
+350,665,1909,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1910,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1911,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1912,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1913,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1914,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1915,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1916,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1917,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1918,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1919,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1920,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1921,0,1,Drachmes,Greece,West Bank And Gaza
+350,665,1922,0,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1923,273,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1924,86,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1925,100,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1926,425,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1927,2258,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1928,4931,1000,,Greece,West Bank And Gaza
+350,665,1929,1168,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1930,1343,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1931,948,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1932,880,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1933,137,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1934,231,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1935,2178,1000,Milliers De Drachmes,Greece,West Bank And Gaza
+350,665,1936,259,1000,,Greece,West Bank And Gaza
+350,665,1937,680,1000,,Greece,West Bank And Gaza
+350,665,1938,1250,1000,,Greece,West Bank And Gaza
+350,665,1939,2332,1000,,Greece,West Bank And Gaza
+350,670,1909,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1910,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1911,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1912,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1913,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1914,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1915,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1916,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1917,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1918,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1919,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1920,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1921,0,1,Drachmes,Greece,Saudi Arabia
+350,670,1922,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1923,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1924,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1925,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1926,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1927,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1928,0,1000,,Greece,Saudi Arabia
+350,670,1929,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1930,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1931,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1932,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1933,6,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1934,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1935,0,1000,Milliers De Drachmes,Greece,Saudi Arabia
+350,670,1936,0,1000,,Greece,Saudi Arabia
+350,670,1937,0,1000,,Greece,Saudi Arabia
+350,670,1938,0,1000,,Greece,Saudi Arabia
+350,670,1939,7,1000,,Greece,Saudi Arabia
+350,675,1909,0,1,Drachmes,Greece,Arabia
+350,675,1910,0,1,Drachmes,Greece,Arabia
+350,675,1911,0,1,Drachmes,Greece,Arabia
+350,675,1912,0,1,Drachmes,Greece,Arabia
+350,675,1913,0,1,Drachmes,Greece,Arabia
+350,675,1914,0,1,Drachmes,Greece,Arabia
+350,675,1915,0,1,Drachmes,Greece,Arabia
+350,675,1916,0,1,Drachmes,Greece,Arabia
+350,675,1917,0,1,Drachmes,Greece,Arabia
+350,675,1918,0,1,Drachmes,Greece,Arabia
+350,675,1919,151241,1,Drachmes,Greece,Arabia
+350,675,1920,2820,1,Drachmes,Greece,Arabia
+350,675,1921,0,1,Drachmes,Greece,Arabia
+350,675,1922,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1923,1,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1924,16,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1925,444,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1926,102,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1927,897,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1928,282,1000,,Greece,Arabia
+350,675,1929,478,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1930,72,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1931,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1932,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1933,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1934,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1935,0,1000,Milliers De Drachmes,Greece,Arabia
+350,675,1936,0,1000,,Greece,Arabia
+350,675,1937,0,1000,,Greece,Arabia
+350,675,1938,0,1000,,Greece,Arabia
+350,675,1939,0,1000,,Greece,Arabia
+350,681,1909,0,1,Drachmes,Greece,Aden
+350,681,1910,0,1,Drachmes,Greece,Aden
+350,681,1911,0,1,Drachmes,Greece,Aden
+350,681,1912,0,1,Drachmes,Greece,Aden
+350,681,1913,0,1,Drachmes,Greece,Aden
+350,681,1914,0,1,Drachmes,Greece,Aden
+350,681,1915,0,1,Drachmes,Greece,Aden
+350,681,1916,0,1,Drachmes,Greece,Aden
+350,681,1917,0,1,Drachmes,Greece,Aden
+350,681,1918,0,1,Drachmes,Greece,Aden
+350,681,1919,11681,1,Drachmes,Greece,Aden
+350,681,1920,38769,1,Drachmes,Greece,Aden
+350,681,1921,6500,1,Drachmes,Greece,Aden
+350,681,1922,0,1000,Milliers De Drachmes,Greece,Aden
+350,681,1923,149,1000,Milliers De Drachmes,Greece,Aden
+350,681,1924,101,1000,Milliers De Drachmes,Greece,Aden
+350,681,1925,4106,1000,Milliers De Drachmes,Greece,Aden
+350,681,1926,109,1000,Milliers De Drachmes,Greece,Aden
+350,681,1927,0,1000,Milliers De Drachmes,Greece,Aden
+350,681,1928,12,1000,,Greece,Aden
+350,681,1929,47,1000,Milliers De Drachmes,Greece,Aden
+350,681,1930,0,1000,Milliers De Drachmes,Greece,Aden
+350,681,1931,19,1000,Milliers De Drachmes,Greece,Aden
+350,681,1932,7,1000,Milliers De Drachmes,Greece,Aden
+350,681,1933,597,1000,Milliers De Drachmes,Greece,Aden
+350,681,1934,144,1000,Milliers De Drachmes,Greece,Aden
+350,681,1935,244,1000,Milliers De Drachmes,Greece,Aden
+350,681,1936,0,1000,,Greece,Aden
+350,681,1937,132,1000,,Greece,Aden
+350,681,1938,414,1000,,Greece,Aden
+350,681,1939,944,1000,,Greece,Aden
+350,700,1909,0,1,Drachmes,Greece,Afghanistan
+350,700,1910,0,1,Drachmes,Greece,Afghanistan
+350,700,1911,0,1,Drachmes,Greece,Afghanistan
+350,700,1912,0,1,Drachmes,Greece,Afghanistan
+350,700,1913,0,1,Drachmes,Greece,Afghanistan
+350,700,1914,0,1,Drachmes,Greece,Afghanistan
+350,700,1915,0,1,Drachmes,Greece,Afghanistan
+350,700,1916,0,1,Drachmes,Greece,Afghanistan
+350,700,1917,0,1,Drachmes,Greece,Afghanistan
+350,700,1918,0,1,Drachmes,Greece,Afghanistan
+350,700,1919,0,1,Drachmes,Greece,Afghanistan
+350,700,1920,0,1,Drachmes,Greece,Afghanistan
+350,700,1921,0,1,Drachmes,Greece,Afghanistan
+350,700,1922,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1923,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1924,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1925,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1926,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1927,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1928,0,1000,,Greece,Afghanistan
+350,700,1929,10,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1930,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1931,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1932,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1933,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1934,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1935,0,1000,Milliers De Drachmes,Greece,Afghanistan
+350,700,1936,0,1000,,Greece,Afghanistan
+350,700,1937,0,1000,,Greece,Afghanistan
+350,700,1938,0,1000,,Greece,Afghanistan
+350,700,1939,0,1000,,Greece,Afghanistan
+350,710,1909,0,1,Drachmes,Greece,China
+350,710,1910,0,1,Drachmes,Greece,China
+350,710,1911,0,1,Drachmes,Greece,China
+350,710,1912,0,1,Drachmes,Greece,China
+350,710,1913,0,1,Drachmes,Greece,China
+350,710,1914,0,1,Drachmes,Greece,China
+350,710,1915,0,1,Drachmes,Greece,China
+350,710,1916,0,1,Drachmes,Greece,China
+350,710,1917,0,1,Drachmes,Greece,China
+350,710,1918,0,1,Drachmes,Greece,China
+350,710,1919,838645,1,Drachmes,Greece,China
+350,710,1920,564542,1,Drachmes,Greece,China
+350,710,1921,395355,1,Drachmes,Greece,China
+350,710,1922,0,1000,Milliers De Drachmes,Greece,China
+350,710,1923,832,1000,Milliers De Drachmes,Greece,China
+350,710,1924,2281,1000,Milliers De Drachmes,Greece,China
+350,710,1925,3603,1000,Milliers De Drachmes,Greece,China
+350,710,1926,3147,1000,Milliers De Drachmes,Greece,China
+350,710,1927,5734,1000,Milliers De Drachmes,Greece,China
+350,710,1928,10157,1000,,Greece,China
+350,710,1929,15228,1000,Milliers De Drachmes,Greece,China
+350,710,1930,3624,1000,Milliers De Drachmes,Greece,China
+350,710,1931,4415,1000,Milliers De Drachmes,Greece,China
+350,710,1932,138,1000,Milliers De Drachmes,Greece,China
+350,710,1933,7,1000,Milliers De Drachmes,Greece,China
+350,710,1934,150,1000,Milliers De Drachmes,Greece,China
+350,710,1935,19,1000,Milliers De Drachmes,Greece,China
+350,710,1936,91,1000,,Greece,China
+350,710,1937,8,1000,,Greece,China
+350,710,1938,0,1000,,Greece,China
+350,710,1939,57,1000,,Greece,China
+350,720,1909,0,1,Drachmes,Greece,Hong Kong
+350,720,1910,0,1,Drachmes,Greece,Hong Kong
+350,720,1911,0,1,Drachmes,Greece,Hong Kong
+350,720,1912,0,1,Drachmes,Greece,Hong Kong
+350,720,1913,0,1,Drachmes,Greece,Hong Kong
+350,720,1914,0,1,Drachmes,Greece,Hong Kong
+350,720,1915,0,1,Drachmes,Greece,Hong Kong
+350,720,1916,0,1,Drachmes,Greece,Hong Kong
+350,720,1917,0,1,Drachmes,Greece,Hong Kong
+350,720,1918,0,1,Drachmes,Greece,Hong Kong
+350,720,1919,0,1,Drachmes,Greece,Hong Kong
+350,720,1920,0,1,Drachmes,Greece,Hong Kong
+350,720,1921,0,1,Drachmes,Greece,Hong Kong
+350,720,1922,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1923,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1924,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1925,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1926,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1927,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1928,117,1000,,Greece,Hong Kong
+350,720,1929,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1930,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1931,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1932,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1933,44,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1934,17,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1935,0,1000,Milliers De Drachmes,Greece,Hong Kong
+350,720,1936,0,1000,,Greece,Hong Kong
+350,720,1937,0,1000,,Greece,Hong Kong
+350,720,1938,0,1000,,Greece,Hong Kong
+350,720,1939,0,1000,,Greece,Hong Kong
+350,740,1909,0,1,Drachmes,Greece,Japan
+350,740,1910,0,1,Drachmes,Greece,Japan
+350,740,1911,0,1,Drachmes,Greece,Japan
+350,740,1912,0,1,Drachmes,Greece,Japan
+350,740,1913,0,1,Drachmes,Greece,Japan
+350,740,1914,0,1,Drachmes,Greece,Japan
+350,740,1915,0,1,Drachmes,Greece,Japan
+350,740,1916,0,1,Drachmes,Greece,Japan
+350,740,1917,0,1,Drachmes,Greece,Japan
+350,740,1918,0,1,Drachmes,Greece,Japan
+350,740,1919,8526602,1,Drachmes,Greece,Japan
+350,740,1920,1947220,1,Drachmes,Greece,Japan
+350,740,1921,457101,1,Drachmes,Greece,Japan
+350,740,1922,0,1000,Milliers De Drachmes,Greece,Japan
+350,740,1923,13095,1000,Milliers De Drachmes,Greece,Japan
+350,740,1924,45298,1000,Milliers De Drachmes,Greece,Japan
+350,740,1925,62006,1000,Milliers De Drachmes,Greece,Japan
+350,740,1926,23379,1000,Milliers De Drachmes,Greece,Japan
+350,740,1927,46912,1000,Milliers De Drachmes,Greece,Japan
+350,740,1928,25688,1000,,Greece,Japan
+350,740,1929,26733,1000,Milliers De Drachmes,Greece,Japan
+350,740,1930,21820,1000,Milliers De Drachmes,Greece,Japan
+350,740,1931,24586,1000,Milliers De Drachmes,Greece,Japan
+350,740,1932,17677,1000,Milliers De Drachmes,Greece,Japan
+350,740,1933,57000,1000,Milliers De Drachmes,Greece,Japan
+350,740,1934,26541,1000,Milliers De Drachmes,Greece,Japan
+350,740,1935,21892,1000,Milliers De Drachmes,Greece,Japan
+350,740,1936,42056,1000,,Greece,Japan
+350,740,1937,14136,1000,,Greece,Japan
+350,740,1938,12214,1000,,Greece,Japan
+350,740,1939,18135,1000,,Greece,Japan
+350,750,1909,0,1,Drachmes,Greece,India
+350,750,1910,0,1,Drachmes,Greece,India
+350,750,1911,0,1,Drachmes,Greece,India
+350,750,1912,0,1,Drachmes,Greece,India
+350,750,1913,0,1,Drachmes,Greece,India
+350,750,1914,0,1,Drachmes,Greece,India
+350,750,1915,0,1,Drachmes,Greece,India
+350,750,1916,0,1,Drachmes,Greece,India
+350,750,1917,0,1,Drachmes,Greece,India
+350,750,1918,0,1,Drachmes,Greece,India
+350,750,1919,38940858,1,Drachmes,Greece,India
+350,750,1920,10430287,1,Drachmes,Greece,India
+350,750,1921,6109977,1,Drachmes,Greece,India
+350,750,1922,0,1000,Milliers De Drachmes,Greece,India
+350,750,1923,34087,1000,Milliers De Drachmes,Greece,India
+350,750,1924,90544,1000,Milliers De Drachmes,Greece,India
+350,750,1925,130104,1000,Milliers De Drachmes,Greece,India
+350,750,1926,75277,1000,Milliers De Drachmes,Greece,India
+350,750,1927,127614,1000,Milliers De Drachmes,Greece,India
+350,750,1928,154968,1000,,Greece,India
+350,750,1929,168829,1000,Milliers De Drachmes,Greece,India
+350,750,1930,134623,1000,Milliers De Drachmes,Greece,India
+350,750,1931,108362,1000,Milliers De Drachmes,Greece,India
+350,750,1932,107713,1000,Milliers De Drachmes,Greece,India
+350,750,1933,203034,1000,Milliers De Drachmes,Greece,India
+350,750,1934,265304,1000,Milliers De Drachmes,Greece,India
+350,750,1935,293722,1000,Milliers De Drachmes,Greece,India
+350,750,1936,274458,1000,,Greece,India
+350,750,1937,359227,1000,,Greece,India
+350,750,1938,263278,1000,,Greece,India
+350,750,1939,194246,1000,,Greece,India
+350,751,1909,0,1,Drachmes,Greece,French India
+350,751,1910,0,1,Drachmes,Greece,French India
+350,751,1911,0,1,Drachmes,Greece,French India
+350,751,1912,0,1,Drachmes,Greece,French India
+350,751,1913,0,1,Drachmes,Greece,French India
+350,751,1914,0,1,Drachmes,Greece,French India
+350,751,1915,0,1,Drachmes,Greece,French India
+350,751,1916,0,1,Drachmes,Greece,French India
+350,751,1917,0,1,Drachmes,Greece,French India
+350,751,1918,0,1,Drachmes,Greece,French India
+350,751,1919,0,1,Drachmes,Greece,French India
+350,751,1920,451,1,Drachmes,Greece,French India
+350,751,1921,0,1,Drachmes,Greece,French India
+350,751,1922,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1923,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1924,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1925,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1926,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1927,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1928,0,1000,,Greece,French India
+350,751,1929,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1930,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1931,10,1000,Milliers De Drachmes,Greece,French India
+350,751,1932,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1933,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1934,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1935,0,1000,Milliers De Drachmes,Greece,French India
+350,751,1936,0,1000,,Greece,French India
+350,751,1937,0,1000,,Greece,French India
+350,751,1938,0,1000,,Greece,French India
+350,751,1939,0,1000,,Greece,French India
+350,800,1909,0,1,Drachmes,Greece,Thailand
+350,800,1910,0,1,Drachmes,Greece,Thailand
+350,800,1911,0,1,Drachmes,Greece,Thailand
+350,800,1912,0,1,Drachmes,Greece,Thailand
+350,800,1913,0,1,Drachmes,Greece,Thailand
+350,800,1914,0,1,Drachmes,Greece,Thailand
+350,800,1915,0,1,Drachmes,Greece,Thailand
+350,800,1916,0,1,Drachmes,Greece,Thailand
+350,800,1917,0,1,Drachmes,Greece,Thailand
+350,800,1918,0,1,Drachmes,Greece,Thailand
+350,800,1919,0,1,Drachmes,Greece,Thailand
+350,800,1920,0,1,Drachmes,Greece,Thailand
+350,800,1921,0,1,Drachmes,Greece,Thailand
+350,800,1922,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1923,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1924,266,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1925,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1926,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1927,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1928,76,1000,,Greece,Thailand
+350,800,1929,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1930,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1931,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1932,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1933,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1934,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1935,0,1000,Milliers De Drachmes,Greece,Thailand
+350,800,1936,0,1000,,Greece,Thailand
+350,800,1937,0,1000,,Greece,Thailand
+350,800,1938,0,1000,,Greece,Thailand
+350,800,1939,0,1000,,Greece,Thailand
+350,810,1909,0,1,Drachmes,Greece,French Indo-China
+350,810,1910,0,1,Drachmes,Greece,French Indo-China
+350,810,1911,0,1,Drachmes,Greece,French Indo-China
+350,810,1912,0,1,Drachmes,Greece,French Indo-China
+350,810,1913,0,1,Drachmes,Greece,French Indo-China
+350,810,1914,0,1,Drachmes,Greece,French Indo-China
+350,810,1915,0,1,Drachmes,Greece,French Indo-China
+350,810,1916,0,1,Drachmes,Greece,French Indo-China
+350,810,1917,0,1,Drachmes,Greece,French Indo-China
+350,810,1918,0,1,Drachmes,Greece,French Indo-China
+350,810,1919,0,1,Drachmes,Greece,French Indo-China
+350,810,1920,96912,1,Drachmes,Greece,French Indo-China
+350,810,1921,0,1,Drachmes,Greece,French Indo-China
+350,810,1922,0,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1923,1501,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1924,3460,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1925,1448,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1926,522,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1927,2065,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1928,803,1000,,Greece,French Indo-China
+350,810,1929,1834,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1930,1679,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1931,771,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1932,221,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1933,436,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1934,558,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1935,13,1000,Milliers De Drachmes,Greece,French Indo-China
+350,810,1936,23,1000,,Greece,French Indo-China
+350,810,1937,0,1000,,Greece,French Indo-China
+350,810,1938,116,1000,,Greece,French Indo-China
+350,810,1939,120,1000,,Greece,French Indo-China
+350,820,1909,0,1,Drachmes,Greece,Malaysia
+350,820,1910,0,1,Drachmes,Greece,Malaysia
+350,820,1911,0,1,Drachmes,Greece,Malaysia
+350,820,1912,0,1,Drachmes,Greece,Malaysia
+350,820,1913,0,1,Drachmes,Greece,Malaysia
+350,820,1914,0,1,Drachmes,Greece,Malaysia
+350,820,1915,0,1,Drachmes,Greece,Malaysia
+350,820,1916,0,1,Drachmes,Greece,Malaysia
+350,820,1917,0,1,Drachmes,Greece,Malaysia
+350,820,1918,0,1,Drachmes,Greece,Malaysia
+350,820,1919,0,1,Drachmes,Greece,Malaysia
+350,820,1920,0,1,Drachmes,Greece,Malaysia
+350,820,1921,0,1,Drachmes,Greece,Malaysia
+350,820,1922,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1923,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1924,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1925,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1926,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1927,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1928,0,1000,,Greece,Malaysia
+350,820,1929,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1930,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1931,196,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1932,496,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1933,0,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1934,1481,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1935,7002,1000,Milliers De Drachmes,Greece,Malaysia
+350,820,1936,6656,1000,,Greece,Malaysia
+350,820,1937,16995,1000,,Greece,Malaysia
+350,820,1938,4141,1000,,Greece,Malaysia
+350,820,1939,5448,1000,,Greece,Malaysia
+350,900,1909,0,1,Drachmes,Greece,Australia
+350,900,1910,0,1,Drachmes,Greece,Australia
+350,900,1911,0,1,Drachmes,Greece,Australia
+350,900,1912,0,1,Drachmes,Greece,Australia
+350,900,1913,0,1,Drachmes,Greece,Australia
+350,900,1914,0,1,Drachmes,Greece,Australia
+350,900,1915,0,1,Drachmes,Greece,Australia
+350,900,1916,0,1,Drachmes,Greece,Australia
+350,900,1917,0,1,Drachmes,Greece,Australia
+350,900,1918,0,1,Drachmes,Greece,Australia
+350,900,1919,29692850,1,Drachmes,Greece,Australia
+350,900,1920,1534078,1,Drachmes,Greece,Australia
+350,900,1921,500658,1,Drachmes,Greece,Australia
+350,900,1922,0,1000,Milliers De Drachmes,Greece,Australia
+350,900,1923,32110,1000,Milliers De Drachmes,Greece,Australia
+350,900,1924,83495,1000,Milliers De Drachmes,Greece,Australia
+350,900,1925,109840,1000,Milliers De Drachmes,Greece,Australia
+350,900,1926,59878,1000,Milliers De Drachmes,Greece,Australia
+350,900,1927,85457,1000,Milliers De Drachmes,Greece,Australia
+350,900,1928,54592,1000,,Greece,Australia
+350,900,1929,161588,1000,Milliers De Drachmes,Greece,Australia
+350,900,1930,40611,1000,Milliers De Drachmes,Greece,Australia
+350,900,1931,151595,1000,Milliers De Drachmes,Greece,Australia
+350,900,1932,13466,1000,Milliers De Drachmes,Greece,Australia
+350,900,1933,69750,1000,Milliers De Drachmes,Greece,Australia
+350,900,1934,1835,1000,Milliers De Drachmes,Greece,Australia
+350,900,1935,67,1000,Milliers De Drachmes,Greece,Australia
+350,900,1936,330915,1000,,Greece,Australia
+350,900,1937,8478,1000,,Greece,Australia
+350,900,1938,671172,1000,,Greece,Australia
+350,900,1939,142649,1000,,Greece,Australia
+350,920,1909,0,1,Drachmes,Greece,New Zealand
+350,920,1910,0,1,Drachmes,Greece,New Zealand
+350,920,1911,0,1,Drachmes,Greece,New Zealand
+350,920,1912,0,1,Drachmes,Greece,New Zealand
+350,920,1913,0,1,Drachmes,Greece,New Zealand
+350,920,1914,0,1,Drachmes,Greece,New Zealand
+350,920,1915,0,1,Drachmes,Greece,New Zealand
+350,920,1916,0,1,Drachmes,Greece,New Zealand
+350,920,1917,0,1,Drachmes,Greece,New Zealand
+350,920,1918,0,1,Drachmes,Greece,New Zealand
+350,920,1919,0,1,Drachmes,Greece,New Zealand
+350,920,1920,0,1,Drachmes,Greece,New Zealand
+350,920,1921,0,1,Drachmes,Greece,New Zealand
+350,920,1922,0,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1923,0,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1924,0,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1925,29,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1926,51,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1927,124,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1928,741,1000,,Greece,New Zealand
+350,920,1929,1562,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1930,1109,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1931,1982,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1932,773,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1933,1118,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1934,1216,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1935,7633,1000,Milliers De Drachmes,Greece,New Zealand
+350,920,1936,31286,1000,,Greece,New Zealand
+350,920,1937,15719,1000,,Greece,New Zealand
+350,920,1938,13248,1000,,Greece,New Zealand
+350,920,1939,20528,1000,,Greece,New Zealand
+350,1050,1909,0,1,Drachmes,Greece,British West Indies
+350,1050,1910,0,1,Drachmes,Greece,British West Indies
+350,1050,1911,0,1,Drachmes,Greece,British West Indies
+350,1050,1912,0,1,Drachmes,Greece,British West Indies
+350,1050,1913,0,1,Drachmes,Greece,British West Indies
+350,1050,1914,0,1,Drachmes,Greece,British West Indies
+350,1050,1915,0,1,Drachmes,Greece,British West Indies
+350,1050,1916,0,1,Drachmes,Greece,British West Indies
+350,1050,1917,0,1,Drachmes,Greece,British West Indies
+350,1050,1918,0,1,Drachmes,Greece,British West Indies
+350,1050,1919,0,1,Drachmes,Greece,British West Indies
+350,1050,1920,0,1,Drachmes,Greece,British West Indies
+350,1050,1921,0,1,Drachmes,Greece,British West Indies
+350,1050,1922,0,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1923,154,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1924,51,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1925,47,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1926,31,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1927,36,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1928,0,1000,,Greece,British West Indies
+350,1050,1929,93,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1930,179,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1931,0,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1932,3,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1933,0,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1934,0,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1935,0,1000,Milliers De Drachmes,Greece,British West Indies
+350,1050,1936,0,1000,,Greece,British West Indies
+350,1050,1937,0,1000,,Greece,British West Indies
+350,1050,1938,0,1000,,Greece,British West Indies
+350,1050,1939,0,1000,,Greece,British West Indies
+350,1065,1909,0,1,Drachmes,Greece,Curacao
+350,1065,1910,0,1,Drachmes,Greece,Curacao
+350,1065,1911,0,1,Drachmes,Greece,Curacao
+350,1065,1912,0,1,Drachmes,Greece,Curacao
+350,1065,1913,0,1,Drachmes,Greece,Curacao
+350,1065,1914,0,1,Drachmes,Greece,Curacao
+350,1065,1915,0,1,Drachmes,Greece,Curacao
+350,1065,1916,0,1,Drachmes,Greece,Curacao
+350,1065,1917,0,1,Drachmes,Greece,Curacao
+350,1065,1918,0,1,Drachmes,Greece,Curacao
+350,1065,1919,0,1,Drachmes,Greece,Curacao
+350,1065,1920,0,1,Drachmes,Greece,Curacao
+350,1065,1921,0,1,Drachmes,Greece,Curacao
+350,1065,1922,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1923,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1924,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1925,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1926,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1927,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1928,0,1000,,Greece,Curacao
+350,1065,1929,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1930,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1931,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1932,0,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1933,11427,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1934,26755,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1935,686,1000,Milliers De Drachmes,Greece,Curacao
+350,1065,1936,98,1000,,Greece,Curacao
+350,1065,1937,246,1000,,Greece,Curacao
+350,1065,1938,88564,1000,,Greece,Curacao
+350,1065,1939,221847,1000,,Greece,Curacao
+350,2005,1909,0,1,Drachmes,Greece,British Africa
+350,2005,1910,0,1,Drachmes,Greece,British Africa
+350,2005,1911,0,1,Drachmes,Greece,British Africa
+350,2005,1912,0,1,Drachmes,Greece,British Africa
+350,2005,1913,0,1,Drachmes,Greece,British Africa
+350,2005,1914,0,1,Drachmes,Greece,British Africa
+350,2005,1915,0,1,Drachmes,Greece,British Africa
+350,2005,1916,0,1,Drachmes,Greece,British Africa
+350,2005,1917,0,1,Drachmes,Greece,British Africa
+350,2005,1918,0,1,Drachmes,Greece,British Africa
+350,2005,1919,0,1,Drachmes,Greece,British Africa
+350,2005,1920,17565,1,Drachmes,Greece,British Africa
+350,2005,1921,35687,1,Drachmes,Greece,British Africa
+350,2005,1922,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1923,127,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1924,88,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1925,99,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1926,4766,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1927,12108,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1928,1527,1000,,Greece,British Africa
+350,2005,1929,9916,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1930,10550,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1931,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1932,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1933,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1934,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1935,0,1000,Milliers De Drachmes,Greece,British Africa
+350,2005,1936,0,1000,,Greece,British Africa
+350,2005,1937,0,1000,,Greece,British Africa
+350,2005,1938,0,1000,,Greece,British Africa
+350,2005,1939,0,1000,,Greece,British Africa
+350,2205,1909,0,1,Drachmes,Greece,French Africa
+350,2205,1910,0,1,Drachmes,Greece,French Africa
+350,2205,1911,0,1,Drachmes,Greece,French Africa
+350,2205,1912,0,1,Drachmes,Greece,French Africa
+350,2205,1913,0,1,Drachmes,Greece,French Africa
+350,2205,1914,0,1,Drachmes,Greece,French Africa
+350,2205,1915,0,1,Drachmes,Greece,French Africa
+350,2205,1916,0,1,Drachmes,Greece,French Africa
+350,2205,1917,0,1,Drachmes,Greece,French Africa
+350,2205,1918,0,1,Drachmes,Greece,French Africa
+350,2205,1919,0,1,Drachmes,Greece,French Africa
+350,2205,1920,180493,1,Drachmes,Greece,French Africa
+350,2205,1921,1048171,1,Drachmes,Greece,French Africa
+350,2205,1922,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1923,555,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1924,911,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1925,105,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1926,1674,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1927,2212,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1928,2116,1000,,Greece,French Africa
+350,2205,1929,1906,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1930,1556,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1931,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1932,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1933,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1934,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1935,0,1000,Milliers De Drachmes,Greece,French Africa
+350,2205,1936,0,1000,,Greece,French Africa
+350,2205,1937,0,1000,,Greece,French Africa
+350,2205,1938,0,1000,,Greece,French Africa
+350,2205,1939,0,1000,,Greece,French Africa
+350,2305,1909,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1910,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1911,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1912,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1913,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1914,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1915,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1916,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1917,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1918,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1919,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1920,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1921,0,1,Drachmes,Greece,Spanish Africa
+350,2305,1922,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1923,95,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1924,576,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1925,872,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1926,12,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1927,489,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1928,444,1000,,Greece,Spanish Africa
+350,2305,1929,515,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1930,1063,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1931,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1932,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1933,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1934,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1935,0,1000,Milliers De Drachmes,Greece,Spanish Africa
+350,2305,1936,0,1000,,Greece,Spanish Africa
+350,2305,1937,0,1000,,Greece,Spanish Africa
+350,2305,1938,0,1000,,Greece,Spanish Africa
+350,2305,1939,0,1000,,Greece,Spanish Africa
+350,3250,1909,0,1,Drachmes,Greece,Italian Africa
+350,3250,1910,0,1,Drachmes,Greece,Italian Africa
+350,3250,1911,0,1,Drachmes,Greece,Italian Africa
+350,3250,1912,0,1,Drachmes,Greece,Italian Africa
+350,3250,1913,0,1,Drachmes,Greece,Italian Africa
+350,3250,1914,0,1,Drachmes,Greece,Italian Africa
+350,3250,1915,0,1,Drachmes,Greece,Italian Africa
+350,3250,1916,0,1,Drachmes,Greece,Italian Africa
+350,3250,1917,0,1,Drachmes,Greece,Italian Africa
+350,3250,1918,0,1,Drachmes,Greece,Italian Africa
+350,3250,1919,0,1,Drachmes,Greece,Italian Africa
+350,3250,1920,26245,1,Drachmes,Greece,Italian Africa
+350,3250,1921,788452,1,Drachmes,Greece,Italian Africa
+350,3250,1922,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1923,2687,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1924,2685,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1925,3200,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1926,4077,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1927,2309,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1928,1068,1000,,Greece,Italian Africa
+350,3250,1929,4109,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1930,1296,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1931,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1932,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1933,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1934,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1935,0,1000,Milliers De Drachmes,Greece,Italian Africa
+350,3250,1936,0,1000,,Greece,Italian Africa
+350,3250,1937,0,1000,,Greece,Italian Africa
+350,3250,1938,0,1000,,Greece,Italian Africa
+350,3250,1939,0,1000,,Greece,Italian Africa
+350,3353,1909,0,1,Drachmes,Greece,Dodecanese
+350,3353,1910,0,1,Drachmes,Greece,Dodecanese
+350,3353,1911,0,1,Drachmes,Greece,Dodecanese
+350,3353,1912,0,1,Drachmes,Greece,Dodecanese
+350,3353,1913,0,1,Drachmes,Greece,Dodecanese
+350,3353,1914,0,1,Drachmes,Greece,Dodecanese
+350,3353,1915,0,1,Drachmes,Greece,Dodecanese
+350,3353,1916,0,1,Drachmes,Greece,Dodecanese
+350,3353,1917,0,1,Drachmes,Greece,Dodecanese
+350,3353,1918,0,1,Drachmes,Greece,Dodecanese
+350,3353,1919,911166,1,Drachmes,Greece,Dodecanese
+350,3353,1920,2853026,1,Drachmes,Greece,Dodecanese
+350,3353,1921,1448185,1,Drachmes,Greece,Dodecanese
+350,3353,1922,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1923,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1924,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1925,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1926,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1927,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1928,0,1000,,Greece,Dodecanese
+350,3353,1929,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1930,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1931,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1932,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1933,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1934,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1935,0,1000,Milliers De Drachmes,Greece,Dodecanese
+350,3353,1936,0,1000,,Greece,Dodecanese
+350,3353,1937,0,1000,,Greece,Dodecanese
+350,3353,1938,0,1000,,Greece,Dodecanese
+350,3353,1939,0,1000,,Greece,Dodecanese
+350,6411,1909,0,1,Drachmes,Greece,Smyrna
+350,6411,1910,0,1,Drachmes,Greece,Smyrna
+350,6411,1911,0,1,Drachmes,Greece,Smyrna
+350,6411,1912,0,1,Drachmes,Greece,Smyrna
+350,6411,1913,0,1,Drachmes,Greece,Smyrna
+350,6411,1914,0,1,Drachmes,Greece,Smyrna
+350,6411,1915,0,1,Drachmes,Greece,Smyrna
+350,6411,1916,0,1,Drachmes,Greece,Smyrna
+350,6411,1917,0,1,Drachmes,Greece,Smyrna
+350,6411,1918,0,1,Drachmes,Greece,Smyrna
+350,6411,1919,0,1,Drachmes,Greece,Smyrna
+350,6411,1920,5191476,1,Drachmes,Greece,Smyrna
+350,6411,1921,12324175,1,Drachmes,Greece,Smyrna
+350,6411,1922,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1923,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1924,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1925,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1926,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1927,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1928,0,1000,,Greece,Smyrna
+350,6411,1929,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1930,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1931,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1932,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1933,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1934,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1935,0,1000,Milliers De Drachmes,Greece,Smyrna
+350,6411,1936,0,1000,,Greece,Smyrna
+350,6411,1937,0,1000,,Greece,Smyrna
+350,6411,1938,0,1000,,Greece,Smyrna
+350,6411,1939,0,1000,,Greece,Smyrna
+350,,1909,142375948,1,Drachmes,Greece,
+350,,1910,167148076,1,Drachmes,Greece,
+350,,1911,178979641,1,Drachmes,Greece,
+350,,1912,163877146,1,Drachmes,Greece,
+350,,1913,199089504,1,Drachmes,Greece,
+350,,1914,329922164,1,Drachmes,Greece,
+350,,1915,295530691,1,Drachmes,Greece,
+350,,1916,408236850,1,Drachmes,Greece,
+350,,1917,243201832,1,Drachmes,Greece,
+350,,1918,951190261,1,Drachmes,Greece,
+350,,1919,1579008983,1,Drachmes,Greece,
+350,,1920,2195983510,1,Drachmes,Greece,
+350,,1921,1784329818,1,Drachmes,Greece,
+350,,1922,3773426,1000,Milliers De Drachmes,Greece,
+350,,1923,6214231,1000,Milliers De Drachmes,Greece,
+350,,1924,8152602,1000,Milliers De Drachmes,Greece,
+350,,1925,10294295,1000,Milliers De Drachmes,Greece,
+350,,1926,9982517,1000,Milliers De Drachmes,Greece,
+350,,1927,12690264,1000,Milliers De Drachmes,Greece,
+350,,1928,12502543,1000,,Greece,
+350,,1929,13326197,1000,Milliers De Drachmes,Greece,
+350,,1930,10548662,1000,Milliers De Drachmes,Greece,
+350,,1931,8807796,1000,Milliers De Drachmes,Greece,
+350,,1932,7980035,1000,Milliers De Drachmes,Greece,
+350,,1933,8561852,1000,Milliers De Drachmes,Greece,
+350,,1934,8969060,1000,Milliers De Drachmes,Greece,
+350,,1935,10888243,1000,Milliers De Drachmes,Greece,
+350,,1936,11987038,1000,,Greece,
+350,,1937,15685677,1000,,Greece,
+350,,1938,15523377,1000,,Greece,
+350,,1939,12623628,1000,,Greece,

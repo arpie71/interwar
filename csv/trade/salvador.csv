@@ -1,0 +1,2273 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+92,2,1914,2027731.84,1,Pesos Oro,El Salvador,United States
+92,2,1915,2474280.88,1,Pesos Oro,El Salvador,United States
+92,2,1918,3455392.69,1,Oro,El Salvador,United States
+92,2,1920,7783180.05,1,Dolares,El Salvador,United States
+92,2,1921,5901244.42,1,Oro,El Salvador,United States
+92,2,1922,4878137.27,1,Dolares,El Salvador,United States
+92,2,1923,5352983.85,1,Dolares,El Salvador,United States
+92,2,1924,13527977.56,1,Colones,El Salvador,United States
+92,2,1925,26180388.68,1,Colones,El Salvador,United States
+92,2,1927,14979664.71,1,,El Salvador,United States
+92,2,1928,19888881,1,,El Salvador,United States
+92,2,1929,18101855,1,,El Salvador,United States
+92,2,1930,11599216,1,,El Salvador,United States
+92,2,1931,7399261,1,,El Salvador,United States
+92,2,1932,6243535,1,,El Salvador,United States
+92,2,1933,7088574,1,,El Salvador,United States
+92,2,1934,9594208,1,Colones,El Salvador,United States
+92,2,1935,8710143,1,Colones,El Salvador,United States
+92,2,1936,8138961,1,Colones,El Salvador,United States
+92,2,1937,10521078,1,Colones,El Salvador,United States
+92,2,1938,10696999,1,Colones,El Salvador,United States
+92,2,1939,11719618,1,Colones,El Salvador,United States
+92,2,1940,13670833,1,Colones,El Salvador,United States
+92,2,1941,16181870,1,Colones,El Salvador,United States
+92,2,1942,14339777,1,Colones,El Salvador,United States
+92,2,1943,20170365,1,Colones,El Salvador,United States
+92,2,1944,20974685,1,Colones,El Salvador,United States
+92,2,1945,22897069,1,Colones,El Salvador,United States
+92,2,1946,37374949,1,Colones,El Salvador,United States
+92,2,1947,72263981,1,Colones,El Salvador,United States
+92,2,1948,76217882,1,Colones,El Salvador,United States
+92,2,1949,73349670,1,Colones,El Salvador,United States
+92,6,1914,0,1,Pesos Oro,El Salvador,Puerto Rico
+92,6,1915,0,1,Pesos Oro,El Salvador,Puerto Rico
+92,6,1918,0,1,Oro,El Salvador,Puerto Rico
+92,6,1920,0,1,Dolares,El Salvador,Puerto Rico
+92,6,1921,0,1,Oro,El Salvador,Puerto Rico
+92,6,1922,0,1,Dolares,El Salvador,Puerto Rico
+92,6,1923,0,1,Dolares,El Salvador,Puerto Rico
+92,6,1924,0,1,Colones,El Salvador,Puerto Rico
+92,6,1925,0,1,Colones,El Salvador,Puerto Rico
+92,6,1927,0,1,,El Salvador,Puerto Rico
+92,6,1928,0,1,,El Salvador,Puerto Rico
+92,6,1929,0,1,,El Salvador,Puerto Rico
+92,6,1930,0,1,,El Salvador,Puerto Rico
+92,6,1931,0,1,,El Salvador,Puerto Rico
+92,6,1932,0,1,,El Salvador,Puerto Rico
+92,6,1933,0,1,,El Salvador,Puerto Rico
+92,6,1934,0,1,Colones,El Salvador,Puerto Rico
+92,6,1935,125,1,Colones,El Salvador,Puerto Rico
+92,6,1936,0,1,Colones,El Salvador,Puerto Rico
+92,6,1937,85,1,Colones,El Salvador,Puerto Rico
+92,6,1938,0,1,Colones,El Salvador,Puerto Rico
+92,6,1939,0,1,Colones,El Salvador,Puerto Rico
+92,6,1940,25,1,Colones,El Salvador,Puerto Rico
+92,6,1941,657,1,Colones,El Salvador,Puerto Rico
+92,6,1942,0,1,Colones,El Salvador,Puerto Rico
+92,6,1943,46,1,Colones,El Salvador,Puerto Rico
+92,6,1944,1340,1,Colones,El Salvador,Puerto Rico
+92,6,1945,31,1,Colones,El Salvador,Puerto Rico
+92,6,1946,447,1,Colones,El Salvador,Puerto Rico
+92,6,1947,5283,1,Colones,El Salvador,Puerto Rico
+92,6,1948,974,1,Colones,El Salvador,Puerto Rico
+92,6,1949,10,1,Colones,El Salvador,Puerto Rico
+92,20,1914,0,1,Pesos Oro,El Salvador,Canada
+92,20,1915,0,1,Pesos Oro,El Salvador,Canada
+92,20,1918,0,1,Oro,El Salvador,Canada
+92,20,1920,6593.84,1,Dolares,El Salvador,Canada
+92,20,1921,9567.780000000001,1,Oro,El Salvador,Canada
+92,20,1922,16532.24,1,Dolares,El Salvador,Canada
+92,20,1923,29371.59,1,Dolares,El Salvador,Canada
+92,20,1924,111308.5,1,Colones,El Salvador,Canada
+92,20,1925,29804.38,1,Colones,El Salvador,Canada
+92,20,1927,37861.27,1,,El Salvador,Canada
+92,20,1928,40994,1,,El Salvador,Canada
+92,20,1929,93021,1,,El Salvador,Canada
+92,20,1930,131032,1,,El Salvador,Canada
+92,20,1931,48036,1,,El Salvador,Canada
+92,20,1932,36966,1,,El Salvador,Canada
+92,20,1933,14761,1,,El Salvador,Canada
+92,20,1934,168839,1,Colones,El Salvador,Canada
+92,20,1935,234950,1,Colones,El Salvador,Canada
+92,20,1936,120306,1,Colones,El Salvador,Canada
+92,20,1937,152363,1,Colones,El Salvador,Canada
+92,20,1938,120458,1,Colones,El Salvador,Canada
+92,20,1939,178449,1,Colones,El Salvador,Canada
+92,20,1940,472080,1,Colones,El Salvador,Canada
+92,20,1941,706104,1,Colones,El Salvador,Canada
+92,20,1942,706593,1,Colones,El Salvador,Canada
+92,20,1943,578410,1,Colones,El Salvador,Canada
+92,20,1944,776735,1,Colones,El Salvador,Canada
+92,20,1945,1035320,1,Colones,El Salvador,Canada
+92,20,1946,1491550,1,Colones,El Salvador,Canada
+92,20,1947,1620897,1,Colones,El Salvador,Canada
+92,20,1948,2771805,1,Colones,El Salvador,Canada
+92,20,1949,2657068,1,Colones,El Salvador,Canada
+92,40,1914,558.96,1,Pesos Oro,El Salvador,Cuba
+92,40,1915,6689.42,1,Pesos Oro,El Salvador,Cuba
+92,40,1918,388.73,1,Oro,El Salvador,Cuba
+92,40,1920,905.5700000000001,1,Dolares,El Salvador,Cuba
+92,40,1921,1389.45,1,Oro,El Salvador,Cuba
+92,40,1922,1593.5,1,Dolares,El Salvador,Cuba
+92,40,1923,532.5,1,Dolares,El Salvador,Cuba
+92,40,1924,251.72,1,Colones,El Salvador,Cuba
+92,40,1925,6635.68,1,Colones,El Salvador,Cuba
+92,40,1927,7086.07,1,,El Salvador,Cuba
+92,40,1928,4472,1,,El Salvador,Cuba
+92,40,1929,11853,1,,El Salvador,Cuba
+92,40,1930,15492,1,,El Salvador,Cuba
+92,40,1931,16831,1,,El Salvador,Cuba
+92,40,1932,20101,1,,El Salvador,Cuba
+92,40,1933,13098,1,,El Salvador,Cuba
+92,40,1934,12081,1,Colones,El Salvador,Cuba
+92,40,1935,9052,1,Colones,El Salvador,Cuba
+92,40,1936,8631,1,Colones,El Salvador,Cuba
+92,40,1937,6007,1,Colones,El Salvador,Cuba
+92,40,1938,7308,1,Colones,El Salvador,Cuba
+92,40,1939,3770,1,Colones,El Salvador,Cuba
+92,40,1940,14238,1,Colones,El Salvador,Cuba
+92,40,1941,25216,1,Colones,El Salvador,Cuba
+92,40,1942,12094,1,Colones,El Salvador,Cuba
+92,40,1943,33093,1,Colones,El Salvador,Cuba
+92,40,1944,36757,1,Colones,El Salvador,Cuba
+92,40,1945,203775,1,Colones,El Salvador,Cuba
+92,40,1946,515467,1,Colones,El Salvador,Cuba
+92,40,1947,206147,1,Colones,El Salvador,Cuba
+92,40,1948,181589,1,Colones,El Salvador,Cuba
+92,40,1949,190619,1,Colones,El Salvador,Cuba
+92,41,1914,0,1,Pesos Oro,El Salvador,Haiti
+92,41,1915,0,1,Pesos Oro,El Salvador,Haiti
+92,41,1918,0,1,Oro,El Salvador,Haiti
+92,41,1920,0,1,Dolares,El Salvador,Haiti
+92,41,1921,0,1,Oro,El Salvador,Haiti
+92,41,1922,0,1,Dolares,El Salvador,Haiti
+92,41,1923,0,1,Dolares,El Salvador,Haiti
+92,41,1924,0,1,Colones,El Salvador,Haiti
+92,41,1925,0,1,Colones,El Salvador,Haiti
+92,41,1927,0,1,,El Salvador,Haiti
+92,41,1928,0,1,,El Salvador,Haiti
+92,41,1929,0,1,,El Salvador,Haiti
+92,41,1930,0,1,,El Salvador,Haiti
+92,41,1931,0,1,,El Salvador,Haiti
+92,41,1932,0,1,,El Salvador,Haiti
+92,41,1933,0,1,,El Salvador,Haiti
+92,41,1934,0,1,Colones,El Salvador,Haiti
+92,41,1935,840,1,Colones,El Salvador,Haiti
+92,41,1936,541,1,Colones,El Salvador,Haiti
+92,41,1937,0,1,Colones,El Salvador,Haiti
+92,41,1938,40,1,Colones,El Salvador,Haiti
+92,41,1939,0,1,Colones,El Salvador,Haiti
+92,41,1940,0,1,Colones,El Salvador,Haiti
+92,41,1941,0,1,Colones,El Salvador,Haiti
+92,41,1942,55,1,Colones,El Salvador,Haiti
+92,41,1943,0,1,Colones,El Salvador,Haiti
+92,41,1944,13,1,Colones,El Salvador,Haiti
+92,41,1945,0,1,Colones,El Salvador,Haiti
+92,41,1946,592,1,Colones,El Salvador,Haiti
+92,41,1947,1098,1,Colones,El Salvador,Haiti
+92,41,1948,0,1,Colones,El Salvador,Haiti
+92,41,1949,8,1,Colones,El Salvador,Haiti
+92,42,1914,0,1,Pesos Oro,El Salvador,Dominican Republic
+92,42,1915,0,1,Pesos Oro,El Salvador,Dominican Republic
+92,42,1918,0,1,Oro,El Salvador,Dominican Republic
+92,42,1920,0,1,Dolares,El Salvador,Dominican Republic
+92,42,1921,0,1,Oro,El Salvador,Dominican Republic
+92,42,1922,0,1,Dolares,El Salvador,Dominican Republic
+92,42,1923,0,1,Dolares,El Salvador,Dominican Republic
+92,42,1924,0,1,Colones,El Salvador,Dominican Republic
+92,42,1925,0,1,Colones,El Salvador,Dominican Republic
+92,42,1927,0,1,,El Salvador,Dominican Republic
+92,42,1928,0,1,,El Salvador,Dominican Republic
+92,42,1929,0,1,,El Salvador,Dominican Republic
+92,42,1930,0,1,,El Salvador,Dominican Republic
+92,42,1931,0,1,,El Salvador,Dominican Republic
+92,42,1932,0,1,,El Salvador,Dominican Republic
+92,42,1933,0,1,,El Salvador,Dominican Republic
+92,42,1934,0,1,Colones,El Salvador,Dominican Republic
+92,42,1935,0,1,Colones,El Salvador,Dominican Republic
+92,42,1936,0,1,Colones,El Salvador,Dominican Republic
+92,42,1937,0,1,Colones,El Salvador,Dominican Republic
+92,42,1938,0,1,Colones,El Salvador,Dominican Republic
+92,42,1939,25,1,Colones,El Salvador,Dominican Republic
+92,42,1940,152,1,Colones,El Salvador,Dominican Republic
+92,42,1941,25,1,Colones,El Salvador,Dominican Republic
+92,42,1942,333,1,Colones,El Salvador,Dominican Republic
+92,42,1943,0,1,Colones,El Salvador,Dominican Republic
+92,42,1944,0,1,Colones,El Salvador,Dominican Republic
+92,42,1945,156,1,Colones,El Salvador,Dominican Republic
+92,42,1946,123,1,Colones,El Salvador,Dominican Republic
+92,42,1947,6,1,Colones,El Salvador,Dominican Republic
+92,42,1948,6,1,Colones,El Salvador,Dominican Republic
+92,42,1949,231706,1,Colones,El Salvador,Dominican Republic
+92,51,1914,0,1,Pesos Oro,El Salvador,Jamaica
+92,51,1915,0,1,Pesos Oro,El Salvador,Jamaica
+92,51,1918,0,1,Oro,El Salvador,Jamaica
+92,51,1920,0,1,Dolares,El Salvador,Jamaica
+92,51,1921,6.78,1,Oro,El Salvador,Jamaica
+92,51,1922,0,1,Dolares,El Salvador,Jamaica
+92,51,1923,0,1,Dolares,El Salvador,Jamaica
+92,51,1924,0,1,Colones,El Salvador,Jamaica
+92,51,1925,31308.39,1,Colones,El Salvador,Jamaica
+92,51,1927,0,1,,El Salvador,Jamaica
+92,51,1928,0,1,,El Salvador,Jamaica
+92,51,1929,0,1,,El Salvador,Jamaica
+92,51,1930,0,1,,El Salvador,Jamaica
+92,51,1931,0,1,,El Salvador,Jamaica
+92,51,1932,0,1,,El Salvador,Jamaica
+92,51,1933,0,1,,El Salvador,Jamaica
+92,51,1934,0,1,Colones,El Salvador,Jamaica
+92,51,1935,0,1,Colones,El Salvador,Jamaica
+92,51,1936,0,1,Colones,El Salvador,Jamaica
+92,51,1937,0,1,Colones,El Salvador,Jamaica
+92,51,1938,0,1,Colones,El Salvador,Jamaica
+92,51,1939,0,1,Colones,El Salvador,Jamaica
+92,51,1940,0,1,Colones,El Salvador,Jamaica
+92,51,1941,0,1,Colones,El Salvador,Jamaica
+92,51,1942,0,1,Colones,El Salvador,Jamaica
+92,51,1943,0,1,Colones,El Salvador,Jamaica
+92,51,1944,0,1,Colones,El Salvador,Jamaica
+92,51,1945,0,1,Colones,El Salvador,Jamaica
+92,51,1946,0,1,Colones,El Salvador,Jamaica
+92,51,1947,0,1,Colones,El Salvador,Jamaica
+92,51,1948,0,1,Colones,El Salvador,Jamaica
+92,51,1949,0,1,Colones,El Salvador,Jamaica
+92,70,1914,29787.45,1,Pesos Oro,El Salvador,Mexico
+92,70,1915,9744.299999999999,1,Pesos Oro,El Salvador,Mexico
+92,70,1918,22452.76,1,Oro,El Salvador,Mexico
+92,70,1920,687261.13,1,Dolares,El Salvador,Mexico
+92,70,1921,58159.1,1,Oro,El Salvador,Mexico
+92,70,1922,42043.3,1,Dolares,El Salvador,Mexico
+92,70,1923,26867.7,1,Dolares,El Salvador,Mexico
+92,70,1924,44917.14,1,Colones,El Salvador,Mexico
+92,70,1925,106000.34,1,Colones,El Salvador,Mexico
+92,70,1927,125885.16,1,,El Salvador,Mexico
+92,70,1928,132502,1,,El Salvador,Mexico
+92,70,1929,246629,1,,El Salvador,Mexico
+92,70,1930,14342,1,,El Salvador,Mexico
+92,70,1931,19557,1,,El Salvador,Mexico
+92,70,1932,68097,1,,El Salvador,Mexico
+92,70,1933,9973,1,,El Salvador,Mexico
+92,70,1934,620498,1,Colones,El Salvador,Mexico
+92,70,1935,206175,1,Colones,El Salvador,Mexico
+92,70,1936,75574,1,Colones,El Salvador,Mexico
+92,70,1937,67098,1,Colones,El Salvador,Mexico
+92,70,1938,81924,1,Colones,El Salvador,Mexico
+92,70,1939,67550,1,Colones,El Salvador,Mexico
+92,70,1940,235292,1,Colones,El Salvador,Mexico
+92,70,1941,482541,1,Colones,El Salvador,Mexico
+92,70,1942,1231731,1,Colones,El Salvador,Mexico
+92,70,1943,3229082,1,Colones,El Salvador,Mexico
+92,70,1944,3578182,1,Colones,El Salvador,Mexico
+92,70,1945,3314316,1,Colones,El Salvador,Mexico
+92,70,1946,3421900,1,Colones,El Salvador,Mexico
+92,70,1947,3006057,1,Colones,El Salvador,Mexico
+92,70,1948,2282292,1,Colones,El Salvador,Mexico
+92,70,1949,2117615,1,Colones,El Salvador,Mexico
+92,80,1914,0,1,Pesos Oro,El Salvador,Belize
+92,80,1915,0,1,Pesos Oro,El Salvador,Belize
+92,80,1918,0,1,Oro,El Salvador,Belize
+92,80,1920,0,1,Dolares,El Salvador,Belize
+92,80,1921,0,1,Oro,El Salvador,Belize
+92,80,1922,0,1,Dolares,El Salvador,Belize
+92,80,1923,0,1,Dolares,El Salvador,Belize
+92,80,1924,0,1,Colones,El Salvador,Belize
+92,80,1925,0,1,Colones,El Salvador,Belize
+92,80,1927,0,1,,El Salvador,Belize
+92,80,1928,0,1,,El Salvador,Belize
+92,80,1929,0,1,,El Salvador,Belize
+92,80,1930,0,1,,El Salvador,Belize
+92,80,1931,0,1,,El Salvador,Belize
+92,80,1932,0,1,,El Salvador,Belize
+92,80,1933,0,1,,El Salvador,Belize
+92,80,1934,0,1,Colones,El Salvador,Belize
+92,80,1935,0,1,Colones,El Salvador,Belize
+92,80,1936,0,1,Colones,El Salvador,Belize
+92,80,1937,0,1,Colones,El Salvador,Belize
+92,80,1938,0,1,Colones,El Salvador,Belize
+92,80,1939,0,1,Colones,El Salvador,Belize
+92,80,1940,0,1,Colones,El Salvador,Belize
+92,80,1941,0,1,Colones,El Salvador,Belize
+92,80,1942,0,1,Colones,El Salvador,Belize
+92,80,1943,0,1,Colones,El Salvador,Belize
+92,80,1944,6,1,Colones,El Salvador,Belize
+92,80,1945,0,1,Colones,El Salvador,Belize
+92,80,1946,110,1,Colones,El Salvador,Belize
+92,80,1947,3352,1,Colones,El Salvador,Belize
+92,80,1948,798,1,Colones,El Salvador,Belize
+92,80,1949,6323,1,Colones,El Salvador,Belize
+92,90,1914,1449.53,1,Pesos Oro,El Salvador,Guatemala
+92,90,1915,0,1,Pesos Oro,El Salvador,Guatemala
+92,90,1918,611.85,1,Oro,El Salvador,Guatemala
+92,90,1920,43468.58,1,Dolares,El Salvador,Guatemala
+92,90,1921,5797.32,1,Oro,El Salvador,Guatemala
+92,90,1922,9296.690000000001,1,Dolares,El Salvador,Guatemala
+92,90,1923,8281.09,1,Dolares,El Salvador,Guatemala
+92,90,1924,13447.84,1,Colones,El Salvador,Guatemala
+92,90,1925,14773.49,1,Colones,El Salvador,Guatemala
+92,90,1927,12723.32,1,,El Salvador,Guatemala
+92,90,1928,21180,1,,El Salvador,Guatemala
+92,90,1929,132557,1,,El Salvador,Guatemala
+92,90,1930,332424,1,,El Salvador,Guatemala
+92,90,1931,196546,1,,El Salvador,Guatemala
+92,90,1932,78168,1,,El Salvador,Guatemala
+92,90,1933,87843,1,,El Salvador,Guatemala
+92,90,1934,185805,1,Colones,El Salvador,Guatemala
+92,90,1935,377222,1,Colones,El Salvador,Guatemala
+92,90,1936,306183,1,Colones,El Salvador,Guatemala
+92,90,1937,263717,1,Colones,El Salvador,Guatemala
+92,90,1938,217241,1,Colones,El Salvador,Guatemala
+92,90,1939,193855,1,Colones,El Salvador,Guatemala
+92,90,1940,176929,1,Colones,El Salvador,Guatemala
+92,90,1941,402145,1,Colones,El Salvador,Guatemala
+92,90,1942,2053167,1,Colones,El Salvador,Guatemala
+92,90,1943,1439425,1,Colones,El Salvador,Guatemala
+92,90,1944,399849,1,Colones,El Salvador,Guatemala
+92,90,1945,474083,1,Colones,El Salvador,Guatemala
+92,90,1946,716607,1,Colones,El Salvador,Guatemala
+92,90,1947,652631,1,Colones,El Salvador,Guatemala
+92,90,1948,352778,1,Colones,El Salvador,Guatemala
+92,90,1949,469689,1,Colones,El Salvador,Guatemala
+92,91,1914,2500,1,Pesos Oro,El Salvador,Honduras
+92,91,1915,0,1,Pesos Oro,El Salvador,Honduras
+92,91,1918,575,1,Oro,El Salvador,Honduras
+92,91,1920,28725.15,1,Dolares,El Salvador,Honduras
+92,91,1921,6415.2,1,Oro,El Salvador,Honduras
+92,91,1922,793.23,1,Dolares,El Salvador,Honduras
+92,91,1923,90,1,Dolares,El Salvador,Honduras
+92,91,1924,25652.18,1,Colones,El Salvador,Honduras
+92,91,1925,75838.17,1,Colones,El Salvador,Honduras
+92,91,1927,0,1,,El Salvador,Honduras
+92,91,1928,231226,1,,El Salvador,Honduras
+92,91,1929,199421,1,,El Salvador,Honduras
+92,91,1930,74132,1,,El Salvador,Honduras
+92,91,1931,49831,1,,El Salvador,Honduras
+92,91,1932,41276,1,,El Salvador,Honduras
+92,91,1933,67728,1,,El Salvador,Honduras
+92,91,1934,368727,1,Colones,El Salvador,Honduras
+92,91,1935,462559,1,Colones,El Salvador,Honduras
+92,91,1936,259967,1,Colones,El Salvador,Honduras
+92,91,1937,416372,1,Colones,El Salvador,Honduras
+92,91,1938,671898,1,Colones,El Salvador,Honduras
+92,91,1939,628829,1,Colones,El Salvador,Honduras
+92,91,1940,678947,1,Colones,El Salvador,Honduras
+92,91,1941,607652,1,Colones,El Salvador,Honduras
+92,91,1942,909976,1,Colones,El Salvador,Honduras
+92,91,1943,1007700,1,Colones,El Salvador,Honduras
+92,91,1944,1799639,1,Colones,El Salvador,Honduras
+92,91,1945,2092876,1,Colones,El Salvador,Honduras
+92,91,1946,2671482,1,Colones,El Salvador,Honduras
+92,91,1947,3233636,1,Colones,El Salvador,Honduras
+92,91,1948,5141931,1,Colones,El Salvador,Honduras
+92,91,1949,4019734,1,Colones,El Salvador,Honduras
+92,93,1914,33903.13,1,Pesos Oro,El Salvador,Nicaragua
+92,93,1915,0,1,Pesos Oro,El Salvador,Nicaragua
+92,93,1918,30204.56,1,Oro,El Salvador,Nicaragua
+92,93,1920,54341.48,1,Dolares,El Salvador,Nicaragua
+92,93,1921,12289.53,1,Oro,El Salvador,Nicaragua
+92,93,1922,108003.11,1,Dolares,El Salvador,Nicaragua
+92,93,1923,47248.95,1,Dolares,El Salvador,Nicaragua
+92,93,1924,178072.38,1,Colones,El Salvador,Nicaragua
+92,93,1925,161581.96,1,Colones,El Salvador,Nicaragua
+92,93,1927,43180.46,1,,El Salvador,Nicaragua
+92,93,1928,416753,1,,El Salvador,Nicaragua
+92,93,1929,662006,1,,El Salvador,Nicaragua
+92,93,1930,130856,1,,El Salvador,Nicaragua
+92,93,1931,35070,1,,El Salvador,Nicaragua
+92,93,1932,19144,1,,El Salvador,Nicaragua
+92,93,1933,12635,1,,El Salvador,Nicaragua
+92,93,1934,68460,1,Colones,El Salvador,Nicaragua
+92,93,1935,43079,1,Colones,El Salvador,Nicaragua
+92,93,1936,18160,1,Colones,El Salvador,Nicaragua
+92,93,1937,33422,1,Colones,El Salvador,Nicaragua
+92,93,1938,16146,1,Colones,El Salvador,Nicaragua
+92,93,1939,32011,1,Colones,El Salvador,Nicaragua
+92,93,1940,32247,1,Colones,El Salvador,Nicaragua
+92,93,1941,17920,1,Colones,El Salvador,Nicaragua
+92,93,1942,107545,1,Colones,El Salvador,Nicaragua
+92,93,1943,27816,1,Colones,El Salvador,Nicaragua
+92,93,1944,52052,1,Colones,El Salvador,Nicaragua
+92,93,1945,133080,1,Colones,El Salvador,Nicaragua
+92,93,1946,116588,1,Colones,El Salvador,Nicaragua
+92,93,1947,42714,1,Colones,El Salvador,Nicaragua
+92,93,1948,1068570,1,Colones,El Salvador,Nicaragua
+92,93,1949,560706,1,Colones,El Salvador,Nicaragua
+92,94,1914,14576.76,1,Pesos Oro,El Salvador,Costa Rica
+92,94,1915,0,1,Pesos Oro,El Salvador,Costa Rica
+92,94,1918,648.64,1,Oro,El Salvador,Costa Rica
+92,94,1920,48964.79,1,Dolares,El Salvador,Costa Rica
+92,94,1921,22247.4,1,Oro,El Salvador,Costa Rica
+92,94,1922,29333.74,1,Dolares,El Salvador,Costa Rica
+92,94,1923,32405.02,1,Dolares,El Salvador,Costa Rica
+92,94,1924,44265.58,1,Colones,El Salvador,Costa Rica
+92,94,1925,47337.74,1,Colones,El Salvador,Costa Rica
+92,94,1927,53096.57,1,,El Salvador,Costa Rica
+92,94,1928,33248,1,,El Salvador,Costa Rica
+92,94,1929,36065,1,,El Salvador,Costa Rica
+92,94,1930,24312,1,,El Salvador,Costa Rica
+92,94,1931,26302,1,,El Salvador,Costa Rica
+92,94,1932,20736,1,,El Salvador,Costa Rica
+92,94,1933,11974,1,,El Salvador,Costa Rica
+92,94,1934,22552,1,Colones,El Salvador,Costa Rica
+92,94,1935,16854,1,Colones,El Salvador,Costa Rica
+92,94,1936,21842,1,Colones,El Salvador,Costa Rica
+92,94,1937,13797,1,Colones,El Salvador,Costa Rica
+92,94,1938,12262,1,Colones,El Salvador,Costa Rica
+92,94,1939,23208,1,Colones,El Salvador,Costa Rica
+92,94,1940,12804,1,Colones,El Salvador,Costa Rica
+92,94,1941,14851,1,Colones,El Salvador,Costa Rica
+92,94,1942,29726,1,Colones,El Salvador,Costa Rica
+92,94,1943,13352,1,Colones,El Salvador,Costa Rica
+92,94,1944,10536,1,Colones,El Salvador,Costa Rica
+92,94,1945,8710,1,Colones,El Salvador,Costa Rica
+92,94,1946,81198,1,Colones,El Salvador,Costa Rica
+92,94,1947,36139,1,Colones,El Salvador,Costa Rica
+92,94,1948,27564,1,Colones,El Salvador,Costa Rica
+92,94,1949,24063,1,Colones,El Salvador,Costa Rica
+92,95,1914,125,1,Pesos Oro,El Salvador,Panama
+92,95,1915,6671.2,1,Pesos Oro,El Salvador,Panama
+92,95,1918,106597.22,1,Oro,El Salvador,Panama
+92,95,1920,14287.98,1,Dolares,El Salvador,Panama
+92,95,1921,2340.16,1,Oro,El Salvador,Panama
+92,95,1922,2571.72,1,Dolares,El Salvador,Panama
+92,95,1923,5302.15,1,Dolares,El Salvador,Panama
+92,95,1924,3161.4,1,Colones,El Salvador,Panama
+92,95,1925,9667.440000000001,1,Colones,El Salvador,Panama
+92,95,1927,10834.63,1,,El Salvador,Panama
+92,95,1928,9508,1,,El Salvador,Panama
+92,95,1929,12369,1,,El Salvador,Panama
+92,95,1930,14630,1,,El Salvador,Panama
+92,95,1931,14396,1,,El Salvador,Panama
+92,95,1932,6413,1,,El Salvador,Panama
+92,95,1933,19553,1,,El Salvador,Panama
+92,95,1934,44943,1,Colones,El Salvador,Panama
+92,95,1935,60366,1,Colones,El Salvador,Panama
+92,95,1936,39963,1,Colones,El Salvador,Panama
+92,95,1937,40386,1,Colones,El Salvador,Panama
+92,95,1938,38357,1,Colones,El Salvador,Panama
+92,95,1939,26749,1,Colones,El Salvador,Panama
+92,95,1940,31208,1,Colones,El Salvador,Panama
+92,95,1941,26726,1,Colones,El Salvador,Panama
+92,95,1942,24512,1,Colones,El Salvador,Panama
+92,95,1943,208343,1,Colones,El Salvador,Panama
+92,95,1944,32923,1,Colones,El Salvador,Panama
+92,95,1945,7507,1,Colones,El Salvador,Panama
+92,95,1946,17270,1,Colones,El Salvador,Panama
+92,95,1947,18322,1,Colones,El Salvador,Panama
+92,95,1948,25132,1,Colones,El Salvador,Panama
+92,95,1949,108860,1,Colones,El Salvador,Panama
+92,100,1914,3633.6,1,Pesos Oro,El Salvador,Colombia
+92,100,1915,0,1,Pesos Oro,El Salvador,Colombia
+92,100,1918,0,1,Oro,El Salvador,Colombia
+92,100,1920,0,1,Dolares,El Salvador,Colombia
+92,100,1921,244.75,1,Oro,El Salvador,Colombia
+92,100,1922,0,1,Dolares,El Salvador,Colombia
+92,100,1923,0,1,Dolares,El Salvador,Colombia
+92,100,1924,0,1,Colones,El Salvador,Colombia
+92,100,1925,137.28,1,Colones,El Salvador,Colombia
+92,100,1927,0,1,,El Salvador,Colombia
+92,100,1928,2444,1,,El Salvador,Colombia
+92,100,1929,422,1,,El Salvador,Colombia
+92,100,1930,980,1,,El Salvador,Colombia
+92,100,1931,888,1,,El Salvador,Colombia
+92,100,1932,1150,1,,El Salvador,Colombia
+92,100,1933,0,1,,El Salvador,Colombia
+92,100,1934,15307,1,Colones,El Salvador,Colombia
+92,100,1935,30866,1,Colones,El Salvador,Colombia
+92,100,1936,4786,1,Colones,El Salvador,Colombia
+92,100,1937,1577,1,Colones,El Salvador,Colombia
+92,100,1938,377,1,Colones,El Salvador,Colombia
+92,100,1939,4272,1,Colones,El Salvador,Colombia
+92,100,1940,8766,1,Colones,El Salvador,Colombia
+92,100,1941,2204,1,Colones,El Salvador,Colombia
+92,100,1942,1603,1,Colones,El Salvador,Colombia
+92,100,1943,18418,1,Colones,El Salvador,Colombia
+92,100,1944,25536,1,Colones,El Salvador,Colombia
+92,100,1945,61449,1,Colones,El Salvador,Colombia
+92,100,1946,119151,1,Colones,El Salvador,Colombia
+92,100,1947,111109,1,Colones,El Salvador,Colombia
+92,100,1948,178568,1,Colones,El Salvador,Colombia
+92,100,1949,74365,1,Colones,El Salvador,Colombia
+92,101,1914,0,1,Pesos Oro,El Salvador,Venezuela
+92,101,1915,0,1,Pesos Oro,El Salvador,Venezuela
+92,101,1918,0,1,Oro,El Salvador,Venezuela
+92,101,1920,155,1,Dolares,El Salvador,Venezuela
+92,101,1921,0,1,Oro,El Salvador,Venezuela
+92,101,1922,0,1,Dolares,El Salvador,Venezuela
+92,101,1923,0,1,Dolares,El Salvador,Venezuela
+92,101,1924,138.46,1,Colones,El Salvador,Venezuela
+92,101,1925,130.18,1,Colones,El Salvador,Venezuela
+92,101,1927,303.75,1,,El Salvador,Venezuela
+92,101,1928,0,1,,El Salvador,Venezuela
+92,101,1929,70000,1,,El Salvador,Venezuela
+92,101,1930,1066,1,,El Salvador,Venezuela
+92,101,1931,455,1,,El Salvador,Venezuela
+92,101,1932,5269,1,,El Salvador,Venezuela
+92,101,1933,0,1,,El Salvador,Venezuela
+92,101,1934,1753,1,Colones,El Salvador,Venezuela
+92,101,1935,5393,1,Colones,El Salvador,Venezuela
+92,101,1936,320,1,Colones,El Salvador,Venezuela
+92,101,1937,29,1,Colones,El Salvador,Venezuela
+92,101,1938,61,1,Colones,El Salvador,Venezuela
+92,101,1939,23,1,Colones,El Salvador,Venezuela
+92,101,1940,119,1,Colones,El Salvador,Venezuela
+92,101,1941,512,1,Colones,El Salvador,Venezuela
+92,101,1942,683,1,Colones,El Salvador,Venezuela
+92,101,1943,490,1,Colones,El Salvador,Venezuela
+92,101,1944,3929,1,Colones,El Salvador,Venezuela
+92,101,1945,14443,1,Colones,El Salvador,Venezuela
+92,101,1946,20061,1,Colones,El Salvador,Venezuela
+92,101,1947,23215,1,Colones,El Salvador,Venezuela
+92,101,1948,3876,1,Colones,El Salvador,Venezuela
+92,101,1949,261193,1,Colones,El Salvador,Venezuela
+92,130,1914,1051.16,1,Pesos Oro,El Salvador,Ecuador
+92,130,1915,4543.2,1,Pesos Oro,El Salvador,Ecuador
+92,130,1918,8635,1,Oro,El Salvador,Ecuador
+92,130,1920,10665,1,Dolares,El Salvador,Ecuador
+92,130,1921,5419.79,1,Oro,El Salvador,Ecuador
+92,130,1922,10711.53,1,Dolares,El Salvador,Ecuador
+92,130,1923,6897.23,1,Dolares,El Salvador,Ecuador
+92,130,1924,21360.2,1,Colones,El Salvador,Ecuador
+92,130,1925,12738.26,1,Colones,El Salvador,Ecuador
+92,130,1927,3242.68,1,,El Salvador,Ecuador
+92,130,1928,3374,1,,El Salvador,Ecuador
+92,130,1929,1207,1,,El Salvador,Ecuador
+92,130,1930,0,1,,El Salvador,Ecuador
+92,130,1931,156,1,,El Salvador,Ecuador
+92,130,1932,232,1,,El Salvador,Ecuador
+92,130,1933,0,1,,El Salvador,Ecuador
+92,130,1934,16282,1,Colones,El Salvador,Ecuador
+92,130,1935,9974,1,Colones,El Salvador,Ecuador
+92,130,1936,2574,1,Colones,El Salvador,Ecuador
+92,130,1937,1143,1,Colones,El Salvador,Ecuador
+92,130,1938,300,1,Colones,El Salvador,Ecuador
+92,130,1939,589,1,Colones,El Salvador,Ecuador
+92,130,1940,1339,1,Colones,El Salvador,Ecuador
+92,130,1941,7227,1,Colones,El Salvador,Ecuador
+92,130,1942,2272,1,Colones,El Salvador,Ecuador
+92,130,1943,4980,1,Colones,El Salvador,Ecuador
+92,130,1944,10653,1,Colones,El Salvador,Ecuador
+92,130,1945,15249,1,Colones,El Salvador,Ecuador
+92,130,1946,27259,1,Colones,El Salvador,Ecuador
+92,130,1947,15235,1,Colones,El Salvador,Ecuador
+92,130,1948,8762,1,Colones,El Salvador,Ecuador
+92,130,1949,14427,1,Colones,El Salvador,Ecuador
+92,135,1914,0,1,Pesos Oro,El Salvador,Peru
+92,135,1915,72.34999999999999,1,Pesos Oro,El Salvador,Peru
+92,135,1918,12750,1,Oro,El Salvador,Peru
+92,135,1920,588,1,Dolares,El Salvador,Peru
+92,135,1921,20612.82,1,Oro,El Salvador,Peru
+92,135,1922,20190.65,1,Dolares,El Salvador,Peru
+92,135,1923,21950,1,Dolares,El Salvador,Peru
+92,135,1924,264428.5,1,Colones,El Salvador,Peru
+92,135,1925,359614.48,1,Colones,El Salvador,Peru
+92,135,1927,334646.02,1,,El Salvador,Peru
+92,135,1928,752619,1,,El Salvador,Peru
+92,135,1929,772257,1,,El Salvador,Peru
+92,135,1930,838478,1,,El Salvador,Peru
+92,135,1931,842046,1,,El Salvador,Peru
+92,135,1932,565769,1,,El Salvador,Peru
+92,135,1933,719547,1,,El Salvador,Peru
+92,135,1934,778615,1,Colones,El Salvador,Peru
+92,135,1935,489189,1,Colones,El Salvador,Peru
+92,135,1936,422455,1,Colones,El Salvador,Peru
+92,135,1937,550358,1,Colones,El Salvador,Peru
+92,135,1938,352765,1,Colones,El Salvador,Peru
+92,135,1939,431692,1,Colones,El Salvador,Peru
+92,135,1940,434092,1,Colones,El Salvador,Peru
+92,135,1941,426578,1,Colones,El Salvador,Peru
+92,135,1942,478384,1,Colones,El Salvador,Peru
+92,135,1943,567141,1,Colones,El Salvador,Peru
+92,135,1944,535912,1,Colones,El Salvador,Peru
+92,135,1945,623783,1,Colones,El Salvador,Peru
+92,135,1946,1003706,1,Colones,El Salvador,Peru
+92,135,1947,1077862,1,Colones,El Salvador,Peru
+92,135,1948,1676842,1,Colones,El Salvador,Peru
+92,135,1949,1187886,1,Colones,El Salvador,Peru
+92,140,1914,28.25,1,Pesos Oro,El Salvador,Brazil
+92,140,1915,0,1,Pesos Oro,El Salvador,Brazil
+92,140,1918,315.42,1,Oro,El Salvador,Brazil
+92,140,1920,0,1,Dolares,El Salvador,Brazil
+92,140,1921,1.35,1,Oro,El Salvador,Brazil
+92,140,1922,0,1,Dolares,El Salvador,Brazil
+92,140,1923,41.24,1,Dolares,El Salvador,Brazil
+92,140,1924,429.86,1,Colones,El Salvador,Brazil
+92,140,1925,392,1,Colones,El Salvador,Brazil
+92,140,1927,36.75,1,,El Salvador,Brazil
+92,140,1928,1516,1,,El Salvador,Brazil
+92,140,1929,1340,1,,El Salvador,Brazil
+92,140,1930,522,1,,El Salvador,Brazil
+92,140,1931,10315,1,,El Salvador,Brazil
+92,140,1932,0,1,,El Salvador,Brazil
+92,140,1933,0,1,,El Salvador,Brazil
+92,140,1934,7504,1,Colones,El Salvador,Brazil
+92,140,1935,578,1,Colones,El Salvador,Brazil
+92,140,1936,8438,1,Colones,El Salvador,Brazil
+92,140,1937,2055,1,Colones,El Salvador,Brazil
+92,140,1938,361,1,Colones,El Salvador,Brazil
+92,140,1939,3978,1,Colones,El Salvador,Brazil
+92,140,1940,5546,1,Colones,El Salvador,Brazil
+92,140,1941,30686,1,Colones,El Salvador,Brazil
+92,140,1942,38657,1,Colones,El Salvador,Brazil
+92,140,1943,54886,1,Colones,El Salvador,Brazil
+92,140,1944,79531,1,Colones,El Salvador,Brazil
+92,140,1945,108118,1,Colones,El Salvador,Brazil
+92,140,1946,63611,1,Colones,El Salvador,Brazil
+92,140,1947,101832,1,Colones,El Salvador,Brazil
+92,140,1948,46799,1,Colones,El Salvador,Brazil
+92,140,1949,29839,1,Colones,El Salvador,Brazil
+92,145,1914,0,1,Pesos Oro,El Salvador,Bolivia
+92,145,1915,0,1,Pesos Oro,El Salvador,Bolivia
+92,145,1918,0,1,Oro,El Salvador,Bolivia
+92,145,1920,0,1,Dolares,El Salvador,Bolivia
+92,145,1921,0,1,Oro,El Salvador,Bolivia
+92,145,1922,0,1,Dolares,El Salvador,Bolivia
+92,145,1923,0,1,Dolares,El Salvador,Bolivia
+92,145,1924,0,1,Colones,El Salvador,Bolivia
+92,145,1925,0,1,Colones,El Salvador,Bolivia
+92,145,1927,0,1,,El Salvador,Bolivia
+92,145,1928,0,1,,El Salvador,Bolivia
+92,145,1929,0,1,,El Salvador,Bolivia
+92,145,1930,0,1,,El Salvador,Bolivia
+92,145,1931,0,1,,El Salvador,Bolivia
+92,145,1932,0,1,,El Salvador,Bolivia
+92,145,1933,0,1,,El Salvador,Bolivia
+92,145,1934,0,1,Colones,El Salvador,Bolivia
+92,145,1935,693,1,Colones,El Salvador,Bolivia
+92,145,1936,502,1,Colones,El Salvador,Bolivia
+92,145,1937,564,1,Colones,El Salvador,Bolivia
+92,145,1938,0,1,Colones,El Salvador,Bolivia
+92,145,1939,0,1,Colones,El Salvador,Bolivia
+92,145,1940,0,1,Colones,El Salvador,Bolivia
+92,145,1941,0,1,Colones,El Salvador,Bolivia
+92,145,1942,0,1,Colones,El Salvador,Bolivia
+92,145,1943,3,1,Colones,El Salvador,Bolivia
+92,145,1944,0,1,Colones,El Salvador,Bolivia
+92,145,1945,500,1,Colones,El Salvador,Bolivia
+92,145,1946,44,1,Colones,El Salvador,Bolivia
+92,145,1947,0,1,Colones,El Salvador,Bolivia
+92,145,1948,0,1,Colones,El Salvador,Bolivia
+92,145,1949,0,1,Colones,El Salvador,Bolivia
+92,150,1914,0,1,Pesos Oro,El Salvador,Paraguay
+92,150,1915,0,1,Pesos Oro,El Salvador,Paraguay
+92,150,1918,0,1,Oro,El Salvador,Paraguay
+92,150,1920,0,1,Dolares,El Salvador,Paraguay
+92,150,1921,0,1,Oro,El Salvador,Paraguay
+92,150,1922,0,1,Dolares,El Salvador,Paraguay
+92,150,1923,0,1,Dolares,El Salvador,Paraguay
+92,150,1924,0,1,Colones,El Salvador,Paraguay
+92,150,1925,0,1,Colones,El Salvador,Paraguay
+92,150,1927,0,1,,El Salvador,Paraguay
+92,150,1928,0,1,,El Salvador,Paraguay
+92,150,1929,0,1,,El Salvador,Paraguay
+92,150,1930,0,1,,El Salvador,Paraguay
+92,150,1931,0,1,,El Salvador,Paraguay
+92,150,1932,0,1,,El Salvador,Paraguay
+92,150,1933,0,1,,El Salvador,Paraguay
+92,150,1934,0,1,Colones,El Salvador,Paraguay
+92,150,1935,0,1,Colones,El Salvador,Paraguay
+92,150,1936,0,1,Colones,El Salvador,Paraguay
+92,150,1937,0,1,Colones,El Salvador,Paraguay
+92,150,1938,121,1,Colones,El Salvador,Paraguay
+92,150,1939,0,1,Colones,El Salvador,Paraguay
+92,150,1940,0,1,Colones,El Salvador,Paraguay
+92,150,1941,17,1,Colones,El Salvador,Paraguay
+92,150,1942,0,1,Colones,El Salvador,Paraguay
+92,150,1943,0,1,Colones,El Salvador,Paraguay
+92,150,1944,0,1,Colones,El Salvador,Paraguay
+92,150,1945,0,1,Colones,El Salvador,Paraguay
+92,150,1946,375,1,Colones,El Salvador,Paraguay
+92,150,1947,0,1,Colones,El Salvador,Paraguay
+92,150,1948,0,1,Colones,El Salvador,Paraguay
+92,150,1949,0,1,Colones,El Salvador,Paraguay
+92,155,1914,0,1,Pesos Oro,El Salvador,Chile
+92,155,1915,0,1,Pesos Oro,El Salvador,Chile
+92,155,1918,445347.75,1,Oro,El Salvador,Chile
+92,155,1920,9079.200000000001,1,Dolares,El Salvador,Chile
+92,155,1921,0,1,Oro,El Salvador,Chile
+92,155,1922,0,1,Dolares,El Salvador,Chile
+92,155,1923,4572,1,Dolares,El Salvador,Chile
+92,155,1924,13187.84,1,Colones,El Salvador,Chile
+92,155,1925,1113.56,1,Colones,El Salvador,Chile
+92,155,1927,19184.91,1,,El Salvador,Chile
+92,155,1928,30681,1,,El Salvador,Chile
+92,155,1929,94493,1,,El Salvador,Chile
+92,155,1930,31598,1,,El Salvador,Chile
+92,155,1931,7145,1,,El Salvador,Chile
+92,155,1932,59959,1,,El Salvador,Chile
+92,155,1933,31592,1,,El Salvador,Chile
+92,155,1934,44180,1,Colones,El Salvador,Chile
+92,155,1935,9524,1,Colones,El Salvador,Chile
+92,155,1936,4201,1,Colones,El Salvador,Chile
+92,155,1937,14071,1,Colones,El Salvador,Chile
+92,155,1938,18297,1,Colones,El Salvador,Chile
+92,155,1939,61276,1,Colones,El Salvador,Chile
+92,155,1940,67672,1,Colones,El Salvador,Chile
+92,155,1941,269796,1,Colones,El Salvador,Chile
+92,155,1942,67518,1,Colones,El Salvador,Chile
+92,155,1943,442900,1,Colones,El Salvador,Chile
+92,155,1944,289756,1,Colones,El Salvador,Chile
+92,155,1945,507340,1,Colones,El Salvador,Chile
+92,155,1946,570386,1,Colones,El Salvador,Chile
+92,155,1947,779682,1,Colones,El Salvador,Chile
+92,155,1948,107238,1,Colones,El Salvador,Chile
+92,155,1949,529367,1,Colones,El Salvador,Chile
+92,160,1914,0,1,Pesos Oro,El Salvador,Argentina
+92,160,1915,0,1,Pesos Oro,El Salvador,Argentina
+92,160,1918,0,1,Oro,El Salvador,Argentina
+92,160,1920,0,1,Dolares,El Salvador,Argentina
+92,160,1921,7.2,1,Oro,El Salvador,Argentina
+92,160,1922,0,1,Dolares,El Salvador,Argentina
+92,160,1923,0,1,Dolares,El Salvador,Argentina
+92,160,1924,0,1,Colones,El Salvador,Argentina
+92,160,1925,1491.06,1,Colones,El Salvador,Argentina
+92,160,1927,488.11,1,,El Salvador,Argentina
+92,160,1928,1477,1,,El Salvador,Argentina
+92,160,1929,0,1,,El Salvador,Argentina
+92,160,1930,9480,1,,El Salvador,Argentina
+92,160,1931,52,1,,El Salvador,Argentina
+92,160,1932,10657,1,,El Salvador,Argentina
+92,160,1933,1182,1,,El Salvador,Argentina
+92,160,1934,926,1,Colones,El Salvador,Argentina
+92,160,1935,326975,1,Colones,El Salvador,Argentina
+92,160,1936,2641,1,Colones,El Salvador,Argentina
+92,160,1937,71664,1,Colones,El Salvador,Argentina
+92,160,1938,1713,1,Colones,El Salvador,Argentina
+92,160,1939,2019,1,Colones,El Salvador,Argentina
+92,160,1940,18045,1,Colones,El Salvador,Argentina
+92,160,1941,72892,1,Colones,El Salvador,Argentina
+92,160,1942,37967,1,Colones,El Salvador,Argentina
+92,160,1943,91938,1,Colones,El Salvador,Argentina
+92,160,1944,210635,1,Colones,El Salvador,Argentina
+92,160,1945,171886,1,Colones,El Salvador,Argentina
+92,160,1946,445406,1,Colones,El Salvador,Argentina
+92,160,1947,113699,1,Colones,El Salvador,Argentina
+92,160,1948,84346,1,Colones,El Salvador,Argentina
+92,160,1949,111617,1,Colones,El Salvador,Argentina
+92,165,1914,0,1,Pesos Oro,El Salvador,Uruguay
+92,165,1915,0,1,Pesos Oro,El Salvador,Uruguay
+92,165,1918,0,1,Oro,El Salvador,Uruguay
+92,165,1920,0,1,Dolares,El Salvador,Uruguay
+92,165,1921,3.81,1,Oro,El Salvador,Uruguay
+92,165,1922,0,1,Dolares,El Salvador,Uruguay
+92,165,1923,0,1,Dolares,El Salvador,Uruguay
+92,165,1924,50.5,1,Colones,El Salvador,Uruguay
+92,165,1925,0,1,Colones,El Salvador,Uruguay
+92,165,1927,0,1,,El Salvador,Uruguay
+92,165,1928,0,1,,El Salvador,Uruguay
+92,165,1929,0,1,,El Salvador,Uruguay
+92,165,1930,0,1,,El Salvador,Uruguay
+92,165,1931,0,1,,El Salvador,Uruguay
+92,165,1932,0,1,,El Salvador,Uruguay
+92,165,1933,0,1,,El Salvador,Uruguay
+92,165,1934,0,1,Colones,El Salvador,Uruguay
+92,165,1935,0,1,Colones,El Salvador,Uruguay
+92,165,1936,0,1,Colones,El Salvador,Uruguay
+92,165,1937,341,1,Colones,El Salvador,Uruguay
+92,165,1938,0,1,Colones,El Salvador,Uruguay
+92,165,1939,3,1,Colones,El Salvador,Uruguay
+92,165,1940,14,1,Colones,El Salvador,Uruguay
+92,165,1941,18,1,Colones,El Salvador,Uruguay
+92,165,1942,50,1,Colones,El Salvador,Uruguay
+92,165,1943,0,1,Colones,El Salvador,Uruguay
+92,165,1944,165036,1,Colones,El Salvador,Uruguay
+92,165,1945,257071,1,Colones,El Salvador,Uruguay
+92,165,1946,69965,1,Colones,El Salvador,Uruguay
+92,165,1947,28460,1,Colones,El Salvador,Uruguay
+92,165,1948,287815,1,Colones,El Salvador,Uruguay
+92,165,1949,55365,1,Colones,El Salvador,Uruguay
+92,201,1914,1283635.86,1,Pesos Oro,El Salvador,England
+92,201,1915,966938.63,1,Pesos Oro,El Salvador,England
+92,201,1918,1560347.72,1,Oro,El Salvador,England
+92,201,1920,1914166.82,1,Dolares,El Salvador,England
+92,201,1921,1228292.06,1,Oro,El Salvador,England
+92,201,1922,1230293.53,1,Dolares,El Salvador,England
+92,201,1923,1512762.74,1,Dolares,El Salvador,England
+92,201,1924,3483890.68,1,Colones,El Salvador,England
+92,201,1925,4175191.36,1,Colones,El Salvador,England
+92,201,1927,4795319.36,1,,El Salvador,England
+92,201,1928,4933286,1,,El Salvador,England
+92,201,1929,5112904,1,,El Salvador,England
+92,201,1930,3109294,1,,El Salvador,England
+92,201,1931,1785140,1,,El Salvador,England
+92,201,1932,1398168,1,,El Salvador,England
+92,201,1933,2200766,1,,El Salvador,England
+92,201,1934,2768955,1,Colones,El Salvador,England
+92,201,1935,3116242,1,Colones,El Salvador,England
+92,201,1936,2286129,1,Colones,El Salvador,England
+92,201,1937,2867594,1,Colones,El Salvador,England
+92,201,1938,2082565,1,Colones,El Salvador,England
+92,201,1939,1519897,1,Colones,El Salvador,England
+92,201,1940,1535727,1,Colones,El Salvador,England
+92,201,1941,973983,1,Colones,El Salvador,England
+92,201,1942,996453,1,Colones,El Salvador,England
+92,201,1943,1408419,1,Colones,El Salvador,England
+92,201,1944,773149,1,Colones,El Salvador,England
+92,201,1945,786490,1,Colones,El Salvador,England
+92,201,1946,1461536,1,Colones,El Salvador,England
+92,201,1947,2303695,1,Colones,El Salvador,England
+92,201,1948,3795196,1,Colones,El Salvador,England
+92,201,1949,2977288,1,Colones,El Salvador,England
+92,202,1914,0,1,Pesos Oro,El Salvador,Scotland
+92,202,1915,0,1,Pesos Oro,El Salvador,Scotland
+92,202,1918,0,1,Oro,El Salvador,Scotland
+92,202,1920,2019.95,1,Dolares,El Salvador,Scotland
+92,202,1921,0,1,Oro,El Salvador,Scotland
+92,202,1922,340,1,Dolares,El Salvador,Scotland
+92,202,1923,6409.25,1,Dolares,El Salvador,Scotland
+92,202,1924,15497.4,1,Colones,El Salvador,Scotland
+92,202,1925,8447.620000000001,1,Colones,El Salvador,Scotland
+92,202,1927,0,1,,El Salvador,Scotland
+92,202,1928,0,1,,El Salvador,Scotland
+92,202,1929,0,1,,El Salvador,Scotland
+92,202,1930,0,1,,El Salvador,Scotland
+92,202,1931,0,1,,El Salvador,Scotland
+92,202,1932,0,1,,El Salvador,Scotland
+92,202,1933,0,1,,El Salvador,Scotland
+92,202,1934,0,1,Colones,El Salvador,Scotland
+92,202,1935,0,1,Colones,El Salvador,Scotland
+92,202,1936,0,1,Colones,El Salvador,Scotland
+92,202,1937,0,1,Colones,El Salvador,Scotland
+92,202,1938,0,1,Colones,El Salvador,Scotland
+92,202,1939,0,1,Colones,El Salvador,Scotland
+92,202,1940,0,1,Colones,El Salvador,Scotland
+92,202,1941,0,1,Colones,El Salvador,Scotland
+92,202,1942,0,1,Colones,El Salvador,Scotland
+92,202,1943,0,1,Colones,El Salvador,Scotland
+92,202,1944,0,1,Colones,El Salvador,Scotland
+92,202,1945,0,1,Colones,El Salvador,Scotland
+92,202,1946,0,1,Colones,El Salvador,Scotland
+92,202,1947,0,1,Colones,El Salvador,Scotland
+92,202,1948,0,1,Colones,El Salvador,Scotland
+92,202,1949,0,1,Colones,El Salvador,Scotland
+92,205,1914,0,1,Pesos Oro,El Salvador,Ireland
+92,205,1915,0,1,Pesos Oro,El Salvador,Ireland
+92,205,1918,0,1,Oro,El Salvador,Ireland
+92,205,1920,10390.32,1,Dolares,El Salvador,Ireland
+92,205,1921,10722.2,1,Oro,El Salvador,Ireland
+92,205,1922,7879.49,1,Dolares,El Salvador,Ireland
+92,205,1923,7441.4,1,Dolares,El Salvador,Ireland
+92,205,1924,5927.1,1,Colones,El Salvador,Ireland
+92,205,1925,6282.02,1,Colones,El Salvador,Ireland
+92,205,1927,0,1,,El Salvador,Ireland
+92,205,1928,0,1,,El Salvador,Ireland
+92,205,1929,0,1,,El Salvador,Ireland
+92,205,1930,0,1,,El Salvador,Ireland
+92,205,1931,0,1,,El Salvador,Ireland
+92,205,1932,0,1,,El Salvador,Ireland
+92,205,1933,0,1,,El Salvador,Ireland
+92,205,1934,0,1,Colones,El Salvador,Ireland
+92,205,1935,5694,1,Colones,El Salvador,Ireland
+92,205,1936,9583,1,Colones,El Salvador,Ireland
+92,205,1937,18432,1,Colones,El Salvador,Ireland
+92,205,1938,23216,1,Colones,El Salvador,Ireland
+92,205,1939,14794,1,Colones,El Salvador,Ireland
+92,205,1940,25348,1,Colones,El Salvador,Ireland
+92,205,1941,17827,1,Colones,El Salvador,Ireland
+92,205,1942,6759,1,Colones,El Salvador,Ireland
+92,205,1943,8005,1,Colones,El Salvador,Ireland
+92,205,1944,17285,1,Colones,El Salvador,Ireland
+92,205,1945,8543,1,Colones,El Salvador,Ireland
+92,205,1946,18222,1,Colones,El Salvador,Ireland
+92,205,1947,90931,1,Colones,El Salvador,Ireland
+92,205,1948,33948,1,Colones,El Salvador,Ireland
+92,205,1949,10781,1,Colones,El Salvador,Ireland
+92,210,1914,79901.05,1,Pesos Oro,El Salvador,Netherlands
+92,210,1915,58544.55,1,Pesos Oro,El Salvador,Netherlands
+92,210,1918,1686.48,1,Oro,El Salvador,Netherlands
+92,210,1920,20385.55,1,Dolares,El Salvador,Netherlands
+92,210,1921,12750.29,1,Oro,El Salvador,Netherlands
+92,210,1922,10172.11,1,Dolares,El Salvador,Netherlands
+92,210,1923,88830.07000000001,1,Dolares,El Salvador,Netherlands
+92,210,1924,261782.64,1,Colones,El Salvador,Netherlands
+92,210,1925,254213.97,1,Colones,El Salvador,Netherlands
+92,210,1927,333043.57,1,,El Salvador,Netherlands
+92,210,1928,182482,1,,El Salvador,Netherlands
+92,210,1929,151408,1,,El Salvador,Netherlands
+92,210,1930,145004,1,,El Salvador,Netherlands
+92,210,1931,130192,1,,El Salvador,Netherlands
+92,210,1932,110168,1,,El Salvador,Netherlands
+92,210,1933,113630,1,,El Salvador,Netherlands
+92,210,1934,50957,1,Colones,El Salvador,Netherlands
+92,210,1935,46149,1,Colones,El Salvador,Netherlands
+92,210,1936,36784,1,Colones,El Salvador,Netherlands
+92,210,1937,178247,1,Colones,El Salvador,Netherlands
+92,210,1938,132770,1,Colones,El Salvador,Netherlands
+92,210,1939,145987,1,Colones,El Salvador,Netherlands
+92,210,1940,92764,1,Colones,El Salvador,Netherlands
+92,210,1941,68807,1,Colones,El Salvador,Netherlands
+92,210,1942,155525,1,Colones,El Salvador,Netherlands
+92,210,1943,357866,1,Colones,El Salvador,Netherlands
+92,210,1944,591001,1,Colones,El Salvador,Netherlands
+92,210,1945,736708,1,Colones,El Salvador,Netherlands
+92,210,1946,1093731,1,Colones,El Salvador,Netherlands
+92,210,1947,1060555,1,Colones,El Salvador,Netherlands
+92,210,1948,1421625,1,Colones,El Salvador,Netherlands
+92,210,1949,2840500,1,Colones,El Salvador,Netherlands
+92,211,1914,138384,1,Pesos Oro,El Salvador,Belgium
+92,211,1915,10238.56,1,Pesos Oro,El Salvador,Belgium
+92,211,1918,0,1,Oro,El Salvador,Belgium
+92,211,1920,18412.31,1,Dolares,El Salvador,Belgium
+92,211,1921,14365.68,1,Oro,El Salvador,Belgium
+92,211,1922,47249.24,1,Dolares,El Salvador,Belgium
+92,211,1923,34634.92,1,Dolares,El Salvador,Belgium
+92,211,1924,166832.9,1,Colones,El Salvador,Belgium
+92,211,1925,302374.12,1,Colones,El Salvador,Belgium
+92,211,1927,1433900.23,1,,El Salvador,Belgium
+92,211,1928,834439,1,,El Salvador,Belgium
+92,211,1929,527892,1,,El Salvador,Belgium
+92,211,1930,434522,1,,El Salvador,Belgium
+92,211,1931,177132,1,,El Salvador,Belgium
+92,211,1932,73578,1,,El Salvador,Belgium
+92,211,1933,267653,1,,El Salvador,Belgium
+92,211,1934,158073,1,Colones,El Salvador,Belgium
+92,211,1935,176016,1,Colones,El Salvador,Belgium
+92,211,1936,188501,1,Colones,El Salvador,Belgium
+92,211,1937,386963,1,Colones,El Salvador,Belgium
+92,211,1938,307983,1,Colones,El Salvador,Belgium
+92,211,1939,342167,1,Colones,El Salvador,Belgium
+92,211,1940,175099,1,Colones,El Salvador,Belgium
+92,211,1941,15717,1,Colones,El Salvador,Belgium
+92,211,1942,0,1,Colones,El Salvador,Belgium
+92,211,1943,0,1,Colones,El Salvador,Belgium
+92,211,1944,0,1,Colones,El Salvador,Belgium
+92,211,1945,0,1,Colones,El Salvador,Belgium
+92,211,1946,7560,1,Colones,El Salvador,Belgium
+92,211,1947,771185,1,Colones,El Salvador,Belgium
+92,211,1948,3169247,1,Colones,El Salvador,Belgium
+92,211,1949,1895022,1,Colones,El Salvador,Belgium
+92,212,1914,0,1,Pesos Oro,El Salvador,Luxembourg
+92,212,1915,0,1,Pesos Oro,El Salvador,Luxembourg
+92,212,1918,0,1,Oro,El Salvador,Luxembourg
+92,212,1920,0,1,Dolares,El Salvador,Luxembourg
+92,212,1921,0,1,Oro,El Salvador,Luxembourg
+92,212,1922,0,1,Dolares,El Salvador,Luxembourg
+92,212,1923,0,1,Dolares,El Salvador,Luxembourg
+92,212,1924,0,1,Colones,El Salvador,Luxembourg
+92,212,1925,0,1,Colones,El Salvador,Luxembourg
+92,212,1927,0,1,,El Salvador,Luxembourg
+92,212,1928,3038,1,,El Salvador,Luxembourg
+92,212,1929,9984,1,,El Salvador,Luxembourg
+92,212,1930,3072,1,,El Salvador,Luxembourg
+92,212,1931,5445,1,,El Salvador,Luxembourg
+92,212,1932,8052,1,,El Salvador,Luxembourg
+92,212,1933,929,1,,El Salvador,Luxembourg
+92,212,1934,14324,1,Colones,El Salvador,Luxembourg
+92,212,1935,195,1,Colones,El Salvador,Luxembourg
+92,212,1936,32,1,Colones,El Salvador,Luxembourg
+92,212,1937,3547,1,Colones,El Salvador,Luxembourg
+92,212,1938,0,1,Colones,El Salvador,Luxembourg
+92,212,1939,1613,1,Colones,El Salvador,Luxembourg
+92,212,1940,0,1,Colones,El Salvador,Luxembourg
+92,212,1941,0,1,Colones,El Salvador,Luxembourg
+92,212,1942,0,1,Colones,El Salvador,Luxembourg
+92,212,1943,0,1,Colones,El Salvador,Luxembourg
+92,212,1944,0,1,Colones,El Salvador,Luxembourg
+92,212,1945,0,1,Colones,El Salvador,Luxembourg
+92,212,1946,0,1,Colones,El Salvador,Luxembourg
+92,212,1947,0,1,Colones,El Salvador,Luxembourg
+92,212,1948,373,1,Colones,El Salvador,Luxembourg
+92,212,1949,0,1,Colones,El Salvador,Luxembourg
+92,220,1914,298285.22,1,Pesos Oro,El Salvador,France
+92,220,1915,131983.45,1,Pesos Oro,El Salvador,France
+92,220,1918,145738.69,1,Oro,El Salvador,France
+92,220,1920,482390.86,1,Dolares,El Salvador,France
+92,220,1921,363182.76,1,Oro,El Salvador,France
+92,220,1922,214227.21,1,Dolares,El Salvador,France
+92,220,1923,310314.43,1,Dolares,El Salvador,France
+92,220,1924,705941.58,1,Colones,El Salvador,France
+92,220,1925,1641906.94,1,Colones,El Salvador,France
+92,220,1927,1442980.24,1,,El Salvador,France
+92,220,1928,1778235,1,,El Salvador,France
+92,220,1929,2021466,1,,El Salvador,France
+92,220,1930,1285462,1,,El Salvador,France
+92,220,1931,765440,1,,El Salvador,France
+92,220,1932,646453,1,,El Salvador,France
+92,220,1933,832789,1,,El Salvador,France
+92,220,1934,732178,1,Colones,El Salvador,France
+92,220,1935,673141,1,Colones,El Salvador,France
+92,220,1936,469156,1,Colones,El Salvador,France
+92,220,1937,707980,1,Colones,El Salvador,France
+92,220,1938,723409,1,Colones,El Salvador,France
+92,220,1939,795872,1,Colones,El Salvador,France
+92,220,1940,524020,1,Colones,El Salvador,France
+92,220,1941,29457,1,Colones,El Salvador,France
+92,220,1942,6862,1,Colones,El Salvador,France
+92,220,1943,6764,1,Colones,El Salvador,France
+92,220,1944,11318,1,Colones,El Salvador,France
+92,220,1945,18021,1,Colones,El Salvador,France
+92,220,1946,188986,1,Colones,El Salvador,France
+92,220,1947,753290,1,Colones,El Salvador,France
+92,220,1948,647937,1,Colones,El Salvador,France
+92,220,1949,1069457,1,Colones,El Salvador,France
+92,225,1914,14202.53,1,Pesos Oro,El Salvador,Switzerland
+92,225,1915,5113.89,1,Pesos Oro,El Salvador,Switzerland
+92,225,1918,4919.48,1,Oro,El Salvador,Switzerland
+92,225,1920,18723.06,1,Dolares,El Salvador,Switzerland
+92,225,1921,82058.07000000001,1,Oro,El Salvador,Switzerland
+92,225,1922,17691.88,1,Dolares,El Salvador,Switzerland
+92,225,1923,22481.5,1,Dolares,El Salvador,Switzerland
+92,225,1924,25867.44,1,Colones,El Salvador,Switzerland
+92,225,1925,369144.14,1,Colones,El Salvador,Switzerland
+92,225,1927,139572.54,1,,El Salvador,Switzerland
+92,225,1928,125951,1,,El Salvador,Switzerland
+92,225,1929,116957,1,,El Salvador,Switzerland
+92,225,1930,64922,1,,El Salvador,Switzerland
+92,225,1931,54318,1,,El Salvador,Switzerland
+92,225,1932,25056,1,,El Salvador,Switzerland
+92,225,1933,39872,1,,El Salvador,Switzerland
+92,225,1934,56887,1,Colones,El Salvador,Switzerland
+92,225,1935,54702,1,Colones,El Salvador,Switzerland
+92,225,1936,43367,1,Colones,El Salvador,Switzerland
+92,225,1937,116938,1,Colones,El Salvador,Switzerland
+92,225,1938,216723,1,Colones,El Salvador,Switzerland
+92,225,1939,187074,1,Colones,El Salvador,Switzerland
+92,225,1940,146291,1,Colones,El Salvador,Switzerland
+92,225,1941,107598,1,Colones,El Salvador,Switzerland
+92,225,1942,89155,1,Colones,El Salvador,Switzerland
+92,225,1943,103453,1,Colones,El Salvador,Switzerland
+92,225,1944,139120,1,Colones,El Salvador,Switzerland
+92,225,1945,190991,1,Colones,El Salvador,Switzerland
+92,225,1946,510422,1,Colones,El Salvador,Switzerland
+92,225,1947,1062070,1,Colones,El Salvador,Switzerland
+92,225,1948,1192116,1,Colones,El Salvador,Switzerland
+92,225,1949,1481970,1,Colones,El Salvador,Switzerland
+92,230,1914,106580.85,1,Pesos Oro,El Salvador,Spain
+92,230,1915,69168.81,1,Pesos Oro,El Salvador,Spain
+92,230,1918,30924.61,1,Oro,El Salvador,Spain
+92,230,1920,149936.15,1,Dolares,El Salvador,Spain
+92,230,1921,82330.25,1,Oro,El Salvador,Spain
+92,230,1922,68516.44,1,Dolares,El Salvador,Spain
+92,230,1923,90563.50999999999,1,Dolares,El Salvador,Spain
+92,230,1924,285717.22,1,Colones,El Salvador,Spain
+92,230,1925,417862.92,1,Colones,El Salvador,Spain
+92,230,1927,441737.46,1,,El Salvador,Spain
+92,230,1928,491314,1,,El Salvador,Spain
+92,230,1929,575156,1,,El Salvador,Spain
+92,230,1930,609084,1,,El Salvador,Spain
+92,230,1931,167406,1,,El Salvador,Spain
+92,230,1932,207803,1,,El Salvador,Spain
+92,230,1933,266344,1,,El Salvador,Spain
+92,230,1934,269756,1,Colones,El Salvador,Spain
+92,230,1935,397863,1,Colones,El Salvador,Spain
+92,230,1936,264641,1,Colones,El Salvador,Spain
+92,230,1937,98213,1,Colones,El Salvador,Spain
+92,230,1938,64993,1,Colones,El Salvador,Spain
+92,230,1939,26831,1,Colones,El Salvador,Spain
+92,230,1940,80260,1,Colones,El Salvador,Spain
+92,230,1941,69716,1,Colones,El Salvador,Spain
+92,230,1942,15892,1,Colones,El Salvador,Spain
+92,230,1943,9432,1,Colones,El Salvador,Spain
+92,230,1944,33394,1,Colones,El Salvador,Spain
+92,230,1945,58590,1,Colones,El Salvador,Spain
+92,230,1946,125915,1,Colones,El Salvador,Spain
+92,230,1947,219578,1,Colones,El Salvador,Spain
+92,230,1948,191190,1,Colones,El Salvador,Spain
+92,230,1949,187257,1,Colones,El Salvador,Spain
+92,235,1914,5098.48,1,Pesos Oro,El Salvador,Portugal
+92,235,1915,2087.03,1,Pesos Oro,El Salvador,Portugal
+92,235,1918,240,1,Oro,El Salvador,Portugal
+92,235,1920,3489.59,1,Dolares,El Salvador,Portugal
+92,235,1921,1262.71,1,Oro,El Salvador,Portugal
+92,235,1922,1844.86,1,Dolares,El Salvador,Portugal
+92,235,1923,927.28,1,Dolares,El Salvador,Portugal
+92,235,1924,2439.02,1,Colones,El Salvador,Portugal
+92,235,1925,642.88,1,Colones,El Salvador,Portugal
+92,235,1927,4740.58,1,,El Salvador,Portugal
+92,235,1928,1868,1,,El Salvador,Portugal
+92,235,1929,4732,1,,El Salvador,Portugal
+92,235,1930,4882,1,,El Salvador,Portugal
+92,235,1931,2959,1,,El Salvador,Portugal
+92,235,1932,1861,1,,El Salvador,Portugal
+92,235,1933,2424,1,,El Salvador,Portugal
+92,235,1934,2772,1,Colones,El Salvador,Portugal
+92,235,1935,354,1,Colones,El Salvador,Portugal
+92,235,1936,209,1,Colones,El Salvador,Portugal
+92,235,1937,66,1,Colones,El Salvador,Portugal
+92,235,1938,41,1,Colones,El Salvador,Portugal
+92,235,1939,38,1,Colones,El Salvador,Portugal
+92,235,1940,145,1,Colones,El Salvador,Portugal
+92,235,1941,167,1,Colones,El Salvador,Portugal
+92,235,1942,2293,1,Colones,El Salvador,Portugal
+92,235,1943,9547,1,Colones,El Salvador,Portugal
+92,235,1944,19982,1,Colones,El Salvador,Portugal
+92,235,1945,22109,1,Colones,El Salvador,Portugal
+92,235,1946,59247,1,Colones,El Salvador,Portugal
+92,235,1947,120510,1,Colones,El Salvador,Portugal
+92,235,1948,18529,1,Colones,El Salvador,Portugal
+92,235,1949,29819,1,Colones,El Salvador,Portugal
+92,255,1914,484795.77,1,Pesos Oro,El Salvador,Germany
+92,255,1915,40038.3,1,Pesos Oro,El Salvador,Germany
+92,255,1918,288.75,1,Oro,El Salvador,Germany
+92,255,1920,370221.05,1,Dolares,El Salvador,Germany
+92,255,1921,215130.68,1,Oro,El Salvador,Germany
+92,255,1922,159717.19,1,Dolares,El Salvador,Germany
+92,255,1923,455702.28,1,Dolares,El Salvador,Germany
+92,255,1924,1351706.34,1,Colones,El Salvador,Germany
+92,255,1925,2735742.31,1,Colones,El Salvador,Germany
+92,255,1927,2377842.86,1,,El Salvador,Germany
+92,255,1928,3627691,1,,El Salvador,Germany
+92,255,1929,2826645,1,,El Salvador,Germany
+92,255,1930,2129326,1,,El Salvador,Germany
+92,255,1931,1244690,1,,El Salvador,Germany
+92,255,1932,1176883,1,,El Salvador,Germany
+92,255,1933,1821558,1,,El Salvador,Germany
+92,255,1934,1887665,1,Colones,El Salvador,Germany
+92,255,1935,5569345,1,Colones,El Salvador,Germany
+92,255,1936,7033061,1,Colones,El Salvador,Germany
+92,255,1937,8070475,1,Colones,El Salvador,Germany
+92,255,1938,4814702,1,Colones,El Salvador,Germany
+92,255,1939,3871005,1,Colones,El Salvador,Germany
+92,255,1940,266385,1,Colones,El Salvador,Germany
+92,255,1941,54924,1,Colones,El Salvador,Germany
+92,255,1942,5629,1,Colones,El Salvador,Germany
+92,255,1943,17996,1,Colones,El Salvador,Germany
+92,255,1944,0,1,Colones,El Salvador,Germany
+92,255,1945,0,1,Colones,El Salvador,Germany
+92,255,1946,5,1,Colones,El Salvador,Germany
+92,255,1947,182,1,Colones,El Salvador,Germany
+92,255,1948,31221,1,Colones,El Salvador,Germany
+92,255,1949,649091,1,Colones,El Salvador,Germany
+92,290,1914,0,1,Pesos Oro,El Salvador,Poland
+92,290,1915,0,1,Pesos Oro,El Salvador,Poland
+92,290,1918,0,1,Oro,El Salvador,Poland
+92,290,1920,0,1,Dolares,El Salvador,Poland
+92,290,1921,0,1,Oro,El Salvador,Poland
+92,290,1922,0,1,Dolares,El Salvador,Poland
+92,290,1923,0,1,Dolares,El Salvador,Poland
+92,290,1924,0,1,Colones,El Salvador,Poland
+92,290,1925,0,1,Colones,El Salvador,Poland
+92,290,1927,2888.94,1,,El Salvador,Poland
+92,290,1928,178,1,,El Salvador,Poland
+92,290,1929,11011,1,,El Salvador,Poland
+92,290,1930,1566,1,,El Salvador,Poland
+92,290,1931,657,1,,El Salvador,Poland
+92,290,1932,1670,1,,El Salvador,Poland
+92,290,1933,86,1,,El Salvador,Poland
+92,290,1934,2570,1,Colones,El Salvador,Poland
+92,290,1935,1059,1,Colones,El Salvador,Poland
+92,290,1936,21658,1,Colones,El Salvador,Poland
+92,290,1937,10582,1,Colones,El Salvador,Poland
+92,290,1938,1173,1,Colones,El Salvador,Poland
+92,290,1939,17253,1,Colones,El Salvador,Poland
+92,290,1940,0,1,Colones,El Salvador,Poland
+92,290,1941,0,1,Colones,El Salvador,Poland
+92,290,1942,0,1,Colones,El Salvador,Poland
+92,290,1943,0,1,Colones,El Salvador,Poland
+92,290,1944,0,1,Colones,El Salvador,Poland
+92,290,1945,0,1,Colones,El Salvador,Poland
+92,290,1946,0,1,Colones,El Salvador,Poland
+92,290,1947,0,1,Colones,El Salvador,Poland
+92,290,1948,0,1,Colones,El Salvador,Poland
+92,290,1949,8841,1,Colones,El Salvador,Poland
+92,291,1914,0,1,Pesos Oro,El Salvador,Danzig
+92,291,1915,0,1,Pesos Oro,El Salvador,Danzig
+92,291,1918,0,1,Oro,El Salvador,Danzig
+92,291,1920,0,1,Dolares,El Salvador,Danzig
+92,291,1921,0,1,Oro,El Salvador,Danzig
+92,291,1922,0,1,Dolares,El Salvador,Danzig
+92,291,1923,0,1,Dolares,El Salvador,Danzig
+92,291,1924,0,1,Colones,El Salvador,Danzig
+92,291,1925,0,1,Colones,El Salvador,Danzig
+92,291,1927,0,1,,El Salvador,Danzig
+92,291,1928,0,1,,El Salvador,Danzig
+92,291,1929,0,1,,El Salvador,Danzig
+92,291,1930,0,1,,El Salvador,Danzig
+92,291,1931,0,1,,El Salvador,Danzig
+92,291,1932,0,1,,El Salvador,Danzig
+92,291,1933,0,1,,El Salvador,Danzig
+92,291,1934,0,1,Colones,El Salvador,Danzig
+92,291,1935,660,1,Colones,El Salvador,Danzig
+92,291,1936,1459,1,Colones,El Salvador,Danzig
+92,291,1937,0,1,Colones,El Salvador,Danzig
+92,291,1938,40,1,Colones,El Salvador,Danzig
+92,291,1939,0,1,Colones,El Salvador,Danzig
+92,291,1940,0,1,Colones,El Salvador,Danzig
+92,291,1941,0,1,Colones,El Salvador,Danzig
+92,291,1942,0,1,Colones,El Salvador,Danzig
+92,291,1943,0,1,Colones,El Salvador,Danzig
+92,291,1944,0,1,Colones,El Salvador,Danzig
+92,291,1945,0,1,Colones,El Salvador,Danzig
+92,291,1946,0,1,Colones,El Salvador,Danzig
+92,291,1947,0,1,Colones,El Salvador,Danzig
+92,291,1948,0,1,Colones,El Salvador,Danzig
+92,291,1949,1881,1,Colones,El Salvador,Danzig
+92,305,1914,18095.15,1,Pesos Oro,El Salvador,Austria
+92,305,1915,2213.31,1,Pesos Oro,El Salvador,Austria
+92,305,1918,211.5,1,Oro,El Salvador,Austria
+92,305,1920,812.88,1,Dolares,El Salvador,Austria
+92,305,1921,2970.44,1,Oro,El Salvador,Austria
+92,305,1922,299.29,1,Dolares,El Salvador,Austria
+92,305,1923,1175.7,1,Dolares,El Salvador,Austria
+92,305,1924,1551.32,1,Colones,El Salvador,Austria
+92,305,1925,11812.34,1,Colones,El Salvador,Austria
+92,305,1927,12677.43,1,,El Salvador,Austria
+92,305,1928,23305,1,,El Salvador,Austria
+92,305,1929,27691,1,,El Salvador,Austria
+92,305,1930,49778,1,,El Salvador,Austria
+92,305,1931,54453,1,,El Salvador,Austria
+92,305,1932,254293,1,,El Salvador,Austria
+92,305,1933,63139,1,,El Salvador,Austria
+92,305,1934,19529,1,Colones,El Salvador,Austria
+92,305,1935,21546,1,Colones,El Salvador,Austria
+92,305,1936,16874,1,Colones,El Salvador,Austria
+92,305,1937,37597,1,Colones,El Salvador,Austria
+92,305,1938,21933,1,Colones,El Salvador,Austria
+92,305,1939,9765,1,Colones,El Salvador,Austria
+92,305,1940,872,1,Colones,El Salvador,Austria
+92,305,1941,1858,1,Colones,El Salvador,Austria
+92,305,1942,1814,1,Colones,El Salvador,Austria
+92,305,1943,8,1,Colones,El Salvador,Austria
+92,305,1944,0,1,Colones,El Salvador,Austria
+92,305,1945,0,1,Colones,El Salvador,Austria
+92,305,1946,0,1,Colones,El Salvador,Austria
+92,305,1947,1367,1,Colones,El Salvador,Austria
+92,305,1948,63366,1,Colones,El Salvador,Austria
+92,305,1949,19313,1,Colones,El Salvador,Austria
+92,310,1914,0,1,Pesos Oro,El Salvador,Hungary
+92,310,1915,0,1,Pesos Oro,El Salvador,Hungary
+92,310,1918,0,1,Oro,El Salvador,Hungary
+92,310,1920,0,1,Dolares,El Salvador,Hungary
+92,310,1921,620.39,1,Oro,El Salvador,Hungary
+92,310,1922,0,1,Dolares,El Salvador,Hungary
+92,310,1923,0,1,Dolares,El Salvador,Hungary
+92,310,1924,80.08,1,Colones,El Salvador,Hungary
+92,310,1925,93.14,1,Colones,El Salvador,Hungary
+92,310,1927,241.55,1,,El Salvador,Hungary
+92,310,1928,142,1,,El Salvador,Hungary
+92,310,1929,1282,1,,El Salvador,Hungary
+92,310,1930,690,1,,El Salvador,Hungary
+92,310,1931,576,1,,El Salvador,Hungary
+92,310,1932,3986,1,,El Salvador,Hungary
+92,310,1933,19261,1,,El Salvador,Hungary
+92,310,1934,13959,1,Colones,El Salvador,Hungary
+92,310,1935,4490,1,Colones,El Salvador,Hungary
+92,310,1936,4213,1,Colones,El Salvador,Hungary
+92,310,1937,120528,1,Colones,El Salvador,Hungary
+92,310,1938,75230,1,Colones,El Salvador,Hungary
+92,310,1939,136052,1,Colones,El Salvador,Hungary
+92,310,1940,68418,1,Colones,El Salvador,Hungary
+92,310,1941,6936,1,Colones,El Salvador,Hungary
+92,310,1942,494,1,Colones,El Salvador,Hungary
+92,310,1943,6335,1,Colones,El Salvador,Hungary
+92,310,1944,0,1,Colones,El Salvador,Hungary
+92,310,1945,0,1,Colones,El Salvador,Hungary
+92,310,1946,2037,1,Colones,El Salvador,Hungary
+92,310,1947,0,1,Colones,El Salvador,Hungary
+92,310,1948,10210,1,Colones,El Salvador,Hungary
+92,310,1949,10060,1,Colones,El Salvador,Hungary
+92,315,1914,0,1,Pesos Oro,El Salvador,Czechoslovakia
+92,315,1915,0,1,Pesos Oro,El Salvador,Czechoslovakia
+92,315,1918,0,1,Oro,El Salvador,Czechoslovakia
+92,315,1920,0,1,Dolares,El Salvador,Czechoslovakia
+92,315,1921,4090.89,1,Oro,El Salvador,Czechoslovakia
+92,315,1922,2697.01,1,Dolares,El Salvador,Czechoslovakia
+92,315,1923,11565.33,1,Dolares,El Salvador,Czechoslovakia
+92,315,1924,13165.32,1,Colones,El Salvador,Czechoslovakia
+92,315,1925,10581.3,1,Colones,El Salvador,Czechoslovakia
+92,315,1927,337912.34,1,,El Salvador,Czechoslovakia
+92,315,1928,268861,1,,El Salvador,Czechoslovakia
+92,315,1929,186775,1,,El Salvador,Czechoslovakia
+92,315,1930,193060,1,,El Salvador,Czechoslovakia
+92,315,1931,66059,1,,El Salvador,Czechoslovakia
+92,315,1932,86982,1,,El Salvador,Czechoslovakia
+92,315,1933,165721,1,,El Salvador,Czechoslovakia
+92,315,1934,143812,1,Colones,El Salvador,Czechoslovakia
+92,315,1935,137610,1,Colones,El Salvador,Czechoslovakia
+92,315,1936,131732,1,Colones,El Salvador,Czechoslovakia
+92,315,1937,365422,1,Colones,El Salvador,Czechoslovakia
+92,315,1938,564659,1,Colones,El Salvador,Czechoslovakia
+92,315,1939,159323,1,Colones,El Salvador,Czechoslovakia
+92,315,1940,1882,1,Colones,El Salvador,Czechoslovakia
+92,315,1941,618,1,Colones,El Salvador,Czechoslovakia
+92,315,1942,721,1,Colones,El Salvador,Czechoslovakia
+92,315,1943,675,1,Colones,El Salvador,Czechoslovakia
+92,315,1944,2217,1,Colones,El Salvador,Czechoslovakia
+92,315,1945,0,1,Colones,El Salvador,Czechoslovakia
+92,315,1946,3904,1,Colones,El Salvador,Czechoslovakia
+92,315,1947,155337,1,Colones,El Salvador,Czechoslovakia
+92,315,1948,219472,1,Colones,El Salvador,Czechoslovakia
+92,315,1949,216286,1,Colones,El Salvador,Czechoslovakia
+92,316,1914,0,1,Pesos Oro,El Salvador,Czech Republic
+92,316,1915,0,1,Pesos Oro,El Salvador,Czech Republic
+92,316,1918,0,1,Oro,El Salvador,Czech Republic
+92,316,1920,0,1,Dolares,El Salvador,Czech Republic
+92,316,1921,0,1,Oro,El Salvador,Czech Republic
+92,316,1922,3498.91,1,Dolares,El Salvador,Czech Republic
+92,316,1923,0,1,Dolares,El Salvador,Czech Republic
+92,316,1924,0,1,Colones,El Salvador,Czech Republic
+92,316,1925,0,1,Colones,El Salvador,Czech Republic
+92,316,1927,0,1,,El Salvador,Czech Republic
+92,316,1928,0,1,,El Salvador,Czech Republic
+92,316,1929,0,1,,El Salvador,Czech Republic
+92,316,1930,0,1,,El Salvador,Czech Republic
+92,316,1931,0,1,,El Salvador,Czech Republic
+92,316,1932,0,1,,El Salvador,Czech Republic
+92,316,1933,0,1,,El Salvador,Czech Republic
+92,316,1934,0,1,Colones,El Salvador,Czech Republic
+92,316,1935,0,1,Colones,El Salvador,Czech Republic
+92,316,1936,0,1,Colones,El Salvador,Czech Republic
+92,316,1937,0,1,Colones,El Salvador,Czech Republic
+92,316,1938,0,1,Colones,El Salvador,Czech Republic
+92,316,1939,0,1,Colones,El Salvador,Czech Republic
+92,316,1940,0,1,Colones,El Salvador,Czech Republic
+92,316,1941,0,1,Colones,El Salvador,Czech Republic
+92,316,1942,0,1,Colones,El Salvador,Czech Republic
+92,316,1943,0,1,Colones,El Salvador,Czech Republic
+92,316,1944,0,1,Colones,El Salvador,Czech Republic
+92,316,1945,0,1,Colones,El Salvador,Czech Republic
+92,316,1946,0,1,Colones,El Salvador,Czech Republic
+92,316,1947,0,1,Colones,El Salvador,Czech Republic
+92,316,1948,0,1,Colones,El Salvador,Czech Republic
+92,316,1949,0,1,Colones,El Salvador,Czech Republic
+92,325,1914,234262.66,1,Pesos Oro,El Salvador,Italy
+92,325,1915,113973.52,1,Pesos Oro,El Salvador,Italy
+92,325,1918,56180.97,1,Oro,El Salvador,Italy
+92,325,1920,71614.69,1,Dolares,El Salvador,Italy
+92,325,1921,77110.31,1,Oro,El Salvador,Italy
+92,325,1922,80952.10000000001,1,Dolares,El Salvador,Italy
+92,325,1923,112842.02,1,Dolares,El Salvador,Italy
+92,325,1924,242090.18,1,Colones,El Salvador,Italy
+92,325,1925,480640.06,1,Colones,El Salvador,Italy
+92,325,1927,1011556.02,1,,El Salvador,Italy
+92,325,1928,953510,1,,El Salvador,Italy
+92,325,1929,847113,1,,El Salvador,Italy
+92,325,1930,637662,1,,El Salvador,Italy
+92,325,1931,368749,1,,El Salvador,Italy
+92,325,1932,312483,1,,El Salvador,Italy
+92,325,1933,343628,1,,El Salvador,Italy
+92,325,1934,472506,1,Colones,El Salvador,Italy
+92,325,1935,748502,1,Colones,El Salvador,Italy
+92,325,1936,205988,1,Colones,El Salvador,Italy
+92,325,1937,536917,1,Colones,El Salvador,Italy
+92,325,1938,1200624,1,Colones,El Salvador,Italy
+92,325,1939,946893,1,Colones,El Salvador,Italy
+92,325,1940,813908,1,Colones,El Salvador,Italy
+92,325,1941,87017,1,Colones,El Salvador,Italy
+92,325,1942,201,1,Colones,El Salvador,Italy
+92,325,1943,194,1,Colones,El Salvador,Italy
+92,325,1944,0,1,Colones,El Salvador,Italy
+92,325,1945,25,1,Colones,El Salvador,Italy
+92,325,1946,48862,1,Colones,El Salvador,Italy
+92,325,1947,735543,1,Colones,El Salvador,Italy
+92,325,1948,1318843,1,Colones,El Salvador,Italy
+92,325,1949,2083527,1,Colones,El Salvador,Italy
+92,339,1914,0,1,Pesos Oro,El Salvador,Albania
+92,339,1915,0,1,Pesos Oro,El Salvador,Albania
+92,339,1918,0,1,Oro,El Salvador,Albania
+92,339,1920,0,1,Dolares,El Salvador,Albania
+92,339,1921,0,1,Oro,El Salvador,Albania
+92,339,1922,0,1,Dolares,El Salvador,Albania
+92,339,1923,0,1,Dolares,El Salvador,Albania
+92,339,1924,0,1,Colones,El Salvador,Albania
+92,339,1925,0,1,Colones,El Salvador,Albania
+92,339,1927,0,1,,El Salvador,Albania
+92,339,1928,0,1,,El Salvador,Albania
+92,339,1929,0,1,,El Salvador,Albania
+92,339,1930,0,1,,El Salvador,Albania
+92,339,1931,0,1,,El Salvador,Albania
+92,339,1932,0,1,,El Salvador,Albania
+92,339,1933,0,1,,El Salvador,Albania
+92,339,1934,0,1,Colones,El Salvador,Albania
+92,339,1935,2879,1,Colones,El Salvador,Albania
+92,339,1936,517,1,Colones,El Salvador,Albania
+92,339,1937,25,1,Colones,El Salvador,Albania
+92,339,1938,233,1,Colones,El Salvador,Albania
+92,339,1939,0,1,Colones,El Salvador,Albania
+92,339,1940,0,1,Colones,El Salvador,Albania
+92,339,1941,0,1,Colones,El Salvador,Albania
+92,339,1942,0,1,Colones,El Salvador,Albania
+92,339,1943,393,1,Colones,El Salvador,Albania
+92,339,1944,0,1,Colones,El Salvador,Albania
+92,339,1945,0,1,Colones,El Salvador,Albania
+92,339,1946,0,1,Colones,El Salvador,Albania
+92,339,1947,0,1,Colones,El Salvador,Albania
+92,339,1948,0,1,Colones,El Salvador,Albania
+92,339,1949,0,1,Colones,El Salvador,Albania
+92,345,1914,0,1,Pesos Oro,El Salvador,Yugoslavia
+92,345,1915,0,1,Pesos Oro,El Salvador,Yugoslavia
+92,345,1918,0,1,Oro,El Salvador,Yugoslavia
+92,345,1920,0,1,Dolares,El Salvador,Yugoslavia
+92,345,1921,0,1,Oro,El Salvador,Yugoslavia
+92,345,1922,0,1,Dolares,El Salvador,Yugoslavia
+92,345,1923,0,1,Dolares,El Salvador,Yugoslavia
+92,345,1924,0,1,Colones,El Salvador,Yugoslavia
+92,345,1925,0,1,Colones,El Salvador,Yugoslavia
+92,345,1927,160553.73,1,,El Salvador,Yugoslavia
+92,345,1928,111818,1,,El Salvador,Yugoslavia
+92,345,1929,63545,1,,El Salvador,Yugoslavia
+92,345,1930,68714,1,,El Salvador,Yugoslavia
+92,345,1931,83376,1,,El Salvador,Yugoslavia
+92,345,1932,59468,1,,El Salvador,Yugoslavia
+92,345,1933,57109,1,,El Salvador,Yugoslavia
+92,345,1934,42469,1,Colones,El Salvador,Yugoslavia
+92,345,1935,18391,1,Colones,El Salvador,Yugoslavia
+92,345,1936,24075,1,Colones,El Salvador,Yugoslavia
+92,345,1937,32546,1,Colones,El Salvador,Yugoslavia
+92,345,1938,28815,1,Colones,El Salvador,Yugoslavia
+92,345,1939,65731,1,Colones,El Salvador,Yugoslavia
+92,345,1940,270109,1,Colones,El Salvador,Yugoslavia
+92,345,1941,0,1,Colones,El Salvador,Yugoslavia
+92,345,1942,0,1,Colones,El Salvador,Yugoslavia
+92,345,1943,0,1,Colones,El Salvador,Yugoslavia
+92,345,1944,0,1,Colones,El Salvador,Yugoslavia
+92,345,1945,0,1,Colones,El Salvador,Yugoslavia
+92,345,1946,0,1,Colones,El Salvador,Yugoslavia
+92,345,1947,0,1,Colones,El Salvador,Yugoslavia
+92,345,1948,0,1,Colones,El Salvador,Yugoslavia
+92,345,1949,37,1,Colones,El Salvador,Yugoslavia
+92,350,1914,0,1,Pesos Oro,El Salvador,Greece
+92,350,1915,0,1,Pesos Oro,El Salvador,Greece
+92,350,1918,0,1,Oro,El Salvador,Greece
+92,350,1920,0,1,Dolares,El Salvador,Greece
+92,350,1921,0,1,Oro,El Salvador,Greece
+92,350,1922,25,1,Dolares,El Salvador,Greece
+92,350,1923,0,1,Dolares,El Salvador,Greece
+92,350,1924,0,1,Colones,El Salvador,Greece
+92,350,1925,3625.04,1,Colones,El Salvador,Greece
+92,350,1927,0,1,,El Salvador,Greece
+92,350,1928,1365,1,,El Salvador,Greece
+92,350,1929,3734,1,,El Salvador,Greece
+92,350,1930,476,1,,El Salvador,Greece
+92,350,1931,57,1,,El Salvador,Greece
+92,350,1932,568,1,,El Salvador,Greece
+92,350,1933,0,1,,El Salvador,Greece
+92,350,1934,2224,1,Colones,El Salvador,Greece
+92,350,1935,5911,1,Colones,El Salvador,Greece
+92,350,1936,2456,1,Colones,El Salvador,Greece
+92,350,1937,0,1,Colones,El Salvador,Greece
+92,350,1938,665,1,Colones,El Salvador,Greece
+92,350,1939,143,1,Colones,El Salvador,Greece
+92,350,1940,46,1,Colones,El Salvador,Greece
+92,350,1941,79,1,Colones,El Salvador,Greece
+92,350,1942,255,1,Colones,El Salvador,Greece
+92,350,1943,636,1,Colones,El Salvador,Greece
+92,350,1944,0,1,Colones,El Salvador,Greece
+92,350,1945,0,1,Colones,El Salvador,Greece
+92,350,1946,268,1,Colones,El Salvador,Greece
+92,350,1947,357,1,Colones,El Salvador,Greece
+92,350,1948,70,1,Colones,El Salvador,Greece
+92,350,1949,0,1,Colones,El Salvador,Greece
+92,355,1914,0,1,Pesos Oro,El Salvador,Bulgaria
+92,355,1915,0,1,Pesos Oro,El Salvador,Bulgaria
+92,355,1918,0,1,Oro,El Salvador,Bulgaria
+92,355,1920,0,1,Dolares,El Salvador,Bulgaria
+92,355,1921,0,1,Oro,El Salvador,Bulgaria
+92,355,1922,0,1,Dolares,El Salvador,Bulgaria
+92,355,1923,0,1,Dolares,El Salvador,Bulgaria
+92,355,1924,0,1,Colones,El Salvador,Bulgaria
+92,355,1925,0,1,Colones,El Salvador,Bulgaria
+92,355,1927,0,1,,El Salvador,Bulgaria
+92,355,1928,0,1,,El Salvador,Bulgaria
+92,355,1929,0,1,,El Salvador,Bulgaria
+92,355,1930,62,1,,El Salvador,Bulgaria
+92,355,1931,1715,1,,El Salvador,Bulgaria
+92,355,1932,52,1,,El Salvador,Bulgaria
+92,355,1933,0,1,,El Salvador,Bulgaria
+92,355,1934,647,1,Colones,El Salvador,Bulgaria
+92,355,1935,1343,1,Colones,El Salvador,Bulgaria
+92,355,1936,0,1,Colones,El Salvador,Bulgaria
+92,355,1937,12,1,Colones,El Salvador,Bulgaria
+92,355,1938,0,1,Colones,El Salvador,Bulgaria
+92,355,1939,0,1,Colones,El Salvador,Bulgaria
+92,355,1940,0,1,Colones,El Salvador,Bulgaria
+92,355,1941,0,1,Colones,El Salvador,Bulgaria
+92,355,1942,0,1,Colones,El Salvador,Bulgaria
+92,355,1943,0,1,Colones,El Salvador,Bulgaria
+92,355,1944,0,1,Colones,El Salvador,Bulgaria
+92,355,1945,0,1,Colones,El Salvador,Bulgaria
+92,355,1946,0,1,Colones,El Salvador,Bulgaria
+92,355,1947,0,1,Colones,El Salvador,Bulgaria
+92,355,1948,0,1,Colones,El Salvador,Bulgaria
+92,355,1949,0,1,Colones,El Salvador,Bulgaria
+92,360,1914,0,1,Pesos Oro,El Salvador,Romania
+92,360,1915,0,1,Pesos Oro,El Salvador,Romania
+92,360,1918,0,1,Oro,El Salvador,Romania
+92,360,1920,0,1,Dolares,El Salvador,Romania
+92,360,1921,0,1,Oro,El Salvador,Romania
+92,360,1922,0,1,Dolares,El Salvador,Romania
+92,360,1923,0,1,Dolares,El Salvador,Romania
+92,360,1924,0,1,Colones,El Salvador,Romania
+92,360,1925,0,1,Colones,El Salvador,Romania
+92,360,1927,0,1,,El Salvador,Romania
+92,360,1928,0,1,,El Salvador,Romania
+92,360,1929,0,1,,El Salvador,Romania
+92,360,1930,0,1,,El Salvador,Romania
+92,360,1931,0,1,,El Salvador,Romania
+92,360,1932,0,1,,El Salvador,Romania
+92,360,1933,0,1,,El Salvador,Romania
+92,360,1934,0,1,Colones,El Salvador,Romania
+92,360,1935,30,1,Colones,El Salvador,Romania
+92,360,1936,0,1,Colones,El Salvador,Romania
+92,360,1937,0,1,Colones,El Salvador,Romania
+92,360,1938,0,1,Colones,El Salvador,Romania
+92,360,1939,0,1,Colones,El Salvador,Romania
+92,360,1940,0,1,Colones,El Salvador,Romania
+92,360,1941,0,1,Colones,El Salvador,Romania
+92,360,1942,0,1,Colones,El Salvador,Romania
+92,360,1943,0,1,Colones,El Salvador,Romania
+92,360,1944,0,1,Colones,El Salvador,Romania
+92,360,1945,0,1,Colones,El Salvador,Romania
+92,360,1946,0,1,Colones,El Salvador,Romania
+92,360,1947,0,1,Colones,El Salvador,Romania
+92,360,1948,0,1,Colones,El Salvador,Romania
+92,360,1949,27,1,Colones,El Salvador,Romania
+92,365,1914,435.66,1,Pesos Oro,El Salvador,Russia
+92,365,1915,27.05,1,Pesos Oro,El Salvador,Russia
+92,365,1918,0,1,Oro,El Salvador,Russia
+92,365,1920,0,1,Dolares,El Salvador,Russia
+92,365,1921,377.5,1,Oro,El Salvador,Russia
+92,365,1922,0,1,Dolares,El Salvador,Russia
+92,365,1923,47.23,1,Dolares,El Salvador,Russia
+92,365,1924,0,1,Colones,El Salvador,Russia
+92,365,1925,268.54,1,Colones,El Salvador,Russia
+92,365,1927,367.9,1,,El Salvador,Russia
+92,365,1928,4899,1,,El Salvador,Russia
+92,365,1929,221,1,,El Salvador,Russia
+92,365,1930,838,1,,El Salvador,Russia
+92,365,1931,3927,1,,El Salvador,Russia
+92,365,1932,536,1,,El Salvador,Russia
+92,365,1933,2953,1,,El Salvador,Russia
+92,365,1934,3851,1,Colones,El Salvador,Russia
+92,365,1935,1311,1,Colones,El Salvador,Russia
+92,365,1936,199,1,Colones,El Salvador,Russia
+92,365,1937,2253,1,Colones,El Salvador,Russia
+92,365,1938,3052,1,Colones,El Salvador,Russia
+92,365,1939,2947,1,Colones,El Salvador,Russia
+92,365,1940,604,1,Colones,El Salvador,Russia
+92,365,1941,2193,1,Colones,El Salvador,Russia
+92,365,1942,624,1,Colones,El Salvador,Russia
+92,365,1943,2205,1,Colones,El Salvador,Russia
+92,365,1944,880,1,Colones,El Salvador,Russia
+92,365,1945,1875,1,Colones,El Salvador,Russia
+92,365,1946,1803,1,Colones,El Salvador,Russia
+92,365,1947,5112,1,Colones,El Salvador,Russia
+92,365,1948,5845,1,Colones,El Salvador,Russia
+92,365,1949,2237,1,Colones,El Salvador,Russia
+92,366,1914,0,1,Pesos Oro,El Salvador,Estonia
+92,366,1915,0,1,Pesos Oro,El Salvador,Estonia
+92,366,1918,0,1,Oro,El Salvador,Estonia
+92,366,1920,0,1,Dolares,El Salvador,Estonia
+92,366,1921,0,1,Oro,El Salvador,Estonia
+92,366,1922,0,1,Dolares,El Salvador,Estonia
+92,366,1923,0,1,Dolares,El Salvador,Estonia
+92,366,1924,0,1,Colones,El Salvador,Estonia
+92,366,1925,0,1,Colones,El Salvador,Estonia
+92,366,1927,0,1,,El Salvador,Estonia
+92,366,1928,1308,1,,El Salvador,Estonia
+92,366,1929,9888,1,,El Salvador,Estonia
+92,366,1930,1412,1,,El Salvador,Estonia
+92,366,1931,11710,1,,El Salvador,Estonia
+92,366,1932,10116,1,,El Salvador,Estonia
+92,366,1933,15016,1,,El Salvador,Estonia
+92,366,1934,16833,1,Colones,El Salvador,Estonia
+92,366,1935,3962,1,Colones,El Salvador,Estonia
+92,366,1936,5359,1,Colones,El Salvador,Estonia
+92,366,1937,743,1,Colones,El Salvador,Estonia
+92,366,1938,16838,1,Colones,El Salvador,Estonia
+92,366,1939,0,1,Colones,El Salvador,Estonia
+92,366,1940,0,1,Colones,El Salvador,Estonia
+92,366,1941,0,1,Colones,El Salvador,Estonia
+92,366,1942,963,1,Colones,El Salvador,Estonia
+92,366,1943,251,1,Colones,El Salvador,Estonia
+92,366,1944,0,1,Colones,El Salvador,Estonia
+92,366,1945,0,1,Colones,El Salvador,Estonia
+92,366,1946,8,1,Colones,El Salvador,Estonia
+92,366,1947,0,1,Colones,El Salvador,Estonia
+92,366,1948,0,1,Colones,El Salvador,Estonia
+92,366,1949,0,1,Colones,El Salvador,Estonia
+92,367,1914,0,1,Pesos Oro,El Salvador,Latvia
+92,367,1915,0,1,Pesos Oro,El Salvador,Latvia
+92,367,1918,0,1,Oro,El Salvador,Latvia
+92,367,1920,0,1,Dolares,El Salvador,Latvia
+92,367,1921,0,1,Oro,El Salvador,Latvia
+92,367,1922,0,1,Dolares,El Salvador,Latvia
+92,367,1923,0,1,Dolares,El Salvador,Latvia
+92,367,1924,0,1,Colones,El Salvador,Latvia
+92,367,1925,0,1,Colones,El Salvador,Latvia
+92,367,1927,0,1,,El Salvador,Latvia
+92,367,1928,149,1,,El Salvador,Latvia
+92,367,1929,0,1,,El Salvador,Latvia
+92,367,1930,0,1,,El Salvador,Latvia
+92,367,1931,0,1,,El Salvador,Latvia
+92,367,1932,0,1,,El Salvador,Latvia
+92,367,1933,0,1,,El Salvador,Latvia
+92,367,1934,0,1,Colones,El Salvador,Latvia
+92,367,1935,0,1,Colones,El Salvador,Latvia
+92,367,1936,93,1,Colones,El Salvador,Latvia
+92,367,1937,8311,1,Colones,El Salvador,Latvia
+92,367,1938,0,1,Colones,El Salvador,Latvia
+92,367,1939,337,1,Colones,El Salvador,Latvia
+92,367,1940,0,1,Colones,El Salvador,Latvia
+92,367,1941,0,1,Colones,El Salvador,Latvia
+92,367,1942,0,1,Colones,El Salvador,Latvia
+92,367,1943,0,1,Colones,El Salvador,Latvia
+92,367,1944,0,1,Colones,El Salvador,Latvia
+92,367,1945,0,1,Colones,El Salvador,Latvia
+92,367,1946,0,1,Colones,El Salvador,Latvia
+92,367,1947,0,1,Colones,El Salvador,Latvia
+92,367,1948,0,1,Colones,El Salvador,Latvia
+92,367,1949,0,1,Colones,El Salvador,Latvia
+92,368,1914,0,1,Pesos Oro,El Salvador,Lithuania
+92,368,1915,0,1,Pesos Oro,El Salvador,Lithuania
+92,368,1918,0,1,Oro,El Salvador,Lithuania
+92,368,1920,0,1,Dolares,El Salvador,Lithuania
+92,368,1921,0,1,Oro,El Salvador,Lithuania
+92,368,1922,0,1,Dolares,El Salvador,Lithuania
+92,368,1923,0,1,Dolares,El Salvador,Lithuania
+92,368,1924,0,1,Colones,El Salvador,Lithuania
+92,368,1925,0,1,Colones,El Salvador,Lithuania
+92,368,1927,0,1,,El Salvador,Lithuania
+92,368,1928,0,1,,El Salvador,Lithuania
+92,368,1929,0,1,,El Salvador,Lithuania
+92,368,1930,0,1,,El Salvador,Lithuania
+92,368,1931,0,1,,El Salvador,Lithuania
+92,368,1932,0,1,,El Salvador,Lithuania
+92,368,1933,0,1,,El Salvador,Lithuania
+92,368,1934,0,1,Colones,El Salvador,Lithuania
+92,368,1935,3,1,Colones,El Salvador,Lithuania
+92,368,1936,0,1,Colones,El Salvador,Lithuania
+92,368,1937,0,1,Colones,El Salvador,Lithuania
+92,368,1938,578,1,Colones,El Salvador,Lithuania
+92,368,1939,0,1,Colones,El Salvador,Lithuania
+92,368,1940,0,1,Colones,El Salvador,Lithuania
+92,368,1941,0,1,Colones,El Salvador,Lithuania
+92,368,1942,29,1,Colones,El Salvador,Lithuania
+92,368,1943,0,1,Colones,El Salvador,Lithuania
+92,368,1944,0,1,Colones,El Salvador,Lithuania
+92,368,1945,0,1,Colones,El Salvador,Lithuania
+92,368,1946,0,1,Colones,El Salvador,Lithuania
+92,368,1947,0,1,Colones,El Salvador,Lithuania
+92,368,1948,0,1,Colones,El Salvador,Lithuania
+92,368,1949,188,1,Colones,El Salvador,Lithuania
+92,375,1914,0,1,Pesos Oro,El Salvador,Finland
+92,375,1915,0,1,Pesos Oro,El Salvador,Finland
+92,375,1918,0,1,Oro,El Salvador,Finland
+92,375,1920,0,1,Dolares,El Salvador,Finland
+92,375,1921,0,1,Oro,El Salvador,Finland
+92,375,1922,909.42,1,Dolares,El Salvador,Finland
+92,375,1923,598.78,1,Dolares,El Salvador,Finland
+92,375,1924,8075.44,1,Colones,El Salvador,Finland
+92,375,1925,7579.6,1,Colones,El Salvador,Finland
+92,375,1927,5539.5,1,,El Salvador,Finland
+92,375,1928,21387,1,,El Salvador,Finland
+92,375,1929,14834,1,,El Salvador,Finland
+92,375,1930,3648,1,,El Salvador,Finland
+92,375,1931,1747,1,,El Salvador,Finland
+92,375,1932,9001,1,,El Salvador,Finland
+92,375,1933,9764,1,,El Salvador,Finland
+92,375,1934,26118,1,Colones,El Salvador,Finland
+92,375,1935,24920,1,Colones,El Salvador,Finland
+92,375,1936,7283,1,Colones,El Salvador,Finland
+92,375,1937,38427,1,Colones,El Salvador,Finland
+92,375,1938,67511,1,Colones,El Salvador,Finland
+92,375,1939,36458,1,Colones,El Salvador,Finland
+92,375,1940,5960,1,Colones,El Salvador,Finland
+92,375,1941,11610,1,Colones,El Salvador,Finland
+92,375,1942,121,1,Colones,El Salvador,Finland
+92,375,1943,0,1,Colones,El Salvador,Finland
+92,375,1944,0,1,Colones,El Salvador,Finland
+92,375,1945,0,1,Colones,El Salvador,Finland
+92,375,1946,0,1,Colones,El Salvador,Finland
+92,375,1947,61659,1,Colones,El Salvador,Finland
+92,375,1948,43570,1,Colones,El Salvador,Finland
+92,375,1949,18724,1,Colones,El Salvador,Finland
+92,380,1914,22378.46,1,Pesos Oro,El Salvador,Sweden
+92,380,1915,21316.95,1,Pesos Oro,El Salvador,Sweden
+92,380,1918,31425.84,1,Oro,El Salvador,Sweden
+92,380,1920,14901.36,1,Dolares,El Salvador,Sweden
+92,380,1921,25682.53,1,Oro,El Salvador,Sweden
+92,380,1922,6526.94,1,Dolares,El Salvador,Sweden
+92,380,1923,40104.89,1,Dolares,El Salvador,Sweden
+92,380,1924,156821.2,1,Colones,El Salvador,Sweden
+92,380,1925,134176.99,1,Colones,El Salvador,Sweden
+92,380,1927,358984.27,1,,El Salvador,Sweden
+92,380,1928,582726,1,,El Salvador,Sweden
+92,380,1929,688868,1,,El Salvador,Sweden
+92,380,1930,571278,1,,El Salvador,Sweden
+92,380,1931,510206,1,,El Salvador,Sweden
+92,380,1932,318601,1,,El Salvador,Sweden
+92,380,1933,225743,1,,El Salvador,Sweden
+92,380,1934,197945,1,Colones,El Salvador,Sweden
+92,380,1935,152287,1,Colones,El Salvador,Sweden
+92,380,1936,80320,1,Colones,El Salvador,Sweden
+92,380,1937,142659,1,Colones,El Salvador,Sweden
+92,380,1938,162766,1,Colones,El Salvador,Sweden
+92,380,1939,277979,1,Colones,El Salvador,Sweden
+92,380,1940,231695,1,Colones,El Salvador,Sweden
+92,380,1941,16654,1,Colones,El Salvador,Sweden
+92,380,1942,5089,1,Colones,El Salvador,Sweden
+92,380,1943,1521,1,Colones,El Salvador,Sweden
+92,380,1944,1366,1,Colones,El Salvador,Sweden
+92,380,1945,15408,1,Colones,El Salvador,Sweden
+92,380,1946,425727,1,Colones,El Salvador,Sweden
+92,380,1947,1053250,1,Colones,El Salvador,Sweden
+92,380,1948,907883,1,Colones,El Salvador,Sweden
+92,380,1949,1517631,1,Colones,El Salvador,Sweden
+92,385,1914,4011.27,1,Pesos Oro,El Salvador,Norway
+92,385,1915,1238.27,1,Pesos Oro,El Salvador,Norway
+92,385,1918,4.95,1,Oro,El Salvador,Norway
+92,385,1920,6100.36,1,Dolares,El Salvador,Norway
+92,385,1921,1370.65,1,Oro,El Salvador,Norway
+92,385,1922,5254.88,1,Dolares,El Salvador,Norway
+92,385,1923,21162.17,1,Dolares,El Salvador,Norway
+92,385,1924,124800.94,1,Colones,El Salvador,Norway
+92,385,1925,282001.09,1,Colones,El Salvador,Norway
+92,385,1927,196818.27,1,,El Salvador,Norway
+92,385,1928,227998,1,,El Salvador,Norway
+92,385,1929,52687,1,,El Salvador,Norway
+92,385,1930,91606,1,,El Salvador,Norway
+92,385,1931,15721,1,,El Salvador,Norway
+92,385,1932,11215,1,,El Salvador,Norway
+92,385,1933,23296,1,,El Salvador,Norway
+92,385,1934,94220,1,Colones,El Salvador,Norway
+92,385,1935,33216,1,Colones,El Salvador,Norway
+92,385,1936,13367,1,Colones,El Salvador,Norway
+92,385,1937,40292,1,Colones,El Salvador,Norway
+92,385,1938,45887,1,Colones,El Salvador,Norway
+92,385,1939,106417,1,Colones,El Salvador,Norway
+92,385,1940,88044,1,Colones,El Salvador,Norway
+92,385,1941,180,1,Colones,El Salvador,Norway
+92,385,1942,0,1,Colones,El Salvador,Norway
+92,385,1943,0,1,Colones,El Salvador,Norway
+92,385,1944,6,1,Colones,El Salvador,Norway
+92,385,1945,0,1,Colones,El Salvador,Norway
+92,385,1946,33074,1,Colones,El Salvador,Norway
+92,385,1947,49702,1,Colones,El Salvador,Norway
+92,385,1948,55527,1,Colones,El Salvador,Norway
+92,385,1949,31917,1,Colones,El Salvador,Norway
+92,390,1914,6536.1,1,Pesos Oro,El Salvador,Denmark
+92,390,1915,16989.04,1,Pesos Oro,El Salvador,Denmark
+92,390,1918,2737.52,1,Oro,El Salvador,Denmark
+92,390,1920,6368.19,1,Dolares,El Salvador,Denmark
+92,390,1921,2915.46,1,Oro,El Salvador,Denmark
+92,390,1922,2329.46,1,Dolares,El Salvador,Denmark
+92,390,1923,5062.9,1,Dolares,El Salvador,Denmark
+92,390,1924,35180.34,1,Colones,El Salvador,Denmark
+92,390,1925,22182.53,1,Colones,El Salvador,Denmark
+92,390,1927,12405.09,1,,El Salvador,Denmark
+92,390,1928,16743,1,,El Salvador,Denmark
+92,390,1929,7741,1,,El Salvador,Denmark
+92,390,1930,13750,1,,El Salvador,Denmark
+92,390,1931,12717,1,,El Salvador,Denmark
+92,390,1932,5125,1,,El Salvador,Denmark
+92,390,1933,10106,1,,El Salvador,Denmark
+92,390,1934,108729,1,Colones,El Salvador,Denmark
+92,390,1935,354155,1,Colones,El Salvador,Denmark
+92,390,1936,699266,1,Colones,El Salvador,Denmark
+92,390,1937,18304,1,Colones,El Salvador,Denmark
+92,390,1938,27820,1,Colones,El Salvador,Denmark
+92,390,1939,18084,1,Colones,El Salvador,Denmark
+92,390,1940,12248,1,Colones,El Salvador,Denmark
+92,390,1941,9111,1,Colones,El Salvador,Denmark
+92,390,1942,734,1,Colones,El Salvador,Denmark
+92,390,1943,0,1,Colones,El Salvador,Denmark
+92,390,1944,0,1,Colones,El Salvador,Denmark
+92,390,1945,8732,1,Colones,El Salvador,Denmark
+92,390,1946,2388,1,Colones,El Salvador,Denmark
+92,390,1947,26016,1,Colones,El Salvador,Denmark
+92,390,1948,42330,1,Colones,El Salvador,Denmark
+92,390,1949,557717,1,Colones,El Salvador,Denmark
+92,511,1914,0,1,Pesos Oro,El Salvador,Zanzibar
+92,511,1915,0,1,Pesos Oro,El Salvador,Zanzibar
+92,511,1918,0,1,Oro,El Salvador,Zanzibar
+92,511,1920,44.5,1,Dolares,El Salvador,Zanzibar
+92,511,1921,0,1,Oro,El Salvador,Zanzibar
+92,511,1922,0,1,Dolares,El Salvador,Zanzibar
+92,511,1923,97.40000000000001,1,Dolares,El Salvador,Zanzibar
+92,511,1924,237.98,1,Colones,El Salvador,Zanzibar
+92,511,1925,97.28,1,Colones,El Salvador,Zanzibar
+92,511,1927,0,1,,El Salvador,Zanzibar
+92,511,1928,0,1,,El Salvador,Zanzibar
+92,511,1929,0,1,,El Salvador,Zanzibar
+92,511,1930,0,1,,El Salvador,Zanzibar
+92,511,1931,0,1,,El Salvador,Zanzibar
+92,511,1932,0,1,,El Salvador,Zanzibar
+92,511,1933,0,1,,El Salvador,Zanzibar
+92,511,1934,0,1,Colones,El Salvador,Zanzibar
+92,511,1935,0,1,Colones,El Salvador,Zanzibar
+92,511,1936,0,1,Colones,El Salvador,Zanzibar
+92,511,1937,0,1,Colones,El Salvador,Zanzibar
+92,511,1938,0,1,Colones,El Salvador,Zanzibar
+92,511,1939,0,1,Colones,El Salvador,Zanzibar
+92,511,1940,0,1,Colones,El Salvador,Zanzibar
+92,511,1941,0,1,Colones,El Salvador,Zanzibar
+92,511,1942,0,1,Colones,El Salvador,Zanzibar
+92,511,1943,0,1,Colones,El Salvador,Zanzibar
+92,511,1944,0,1,Colones,El Salvador,Zanzibar
+92,511,1945,0,1,Colones,El Salvador,Zanzibar
+92,511,1946,0,1,Colones,El Salvador,Zanzibar
+92,511,1947,0,1,Colones,El Salvador,Zanzibar
+92,511,1948,0,1,Colones,El Salvador,Zanzibar
+92,511,1949,0,1,Colones,El Salvador,Zanzibar
+92,530,1914,0,1,Pesos Oro,El Salvador,Ethiopia
+92,530,1915,0,1,Pesos Oro,El Salvador,Ethiopia
+92,530,1918,0,1,Oro,El Salvador,Ethiopia
+92,530,1920,0,1,Dolares,El Salvador,Ethiopia
+92,530,1921,0,1,Oro,El Salvador,Ethiopia
+92,530,1922,0,1,Dolares,El Salvador,Ethiopia
+92,530,1923,0,1,Dolares,El Salvador,Ethiopia
+92,530,1924,0,1,Colones,El Salvador,Ethiopia
+92,530,1925,0,1,Colones,El Salvador,Ethiopia
+92,530,1927,0,1,,El Salvador,Ethiopia
+92,530,1928,0,1,,El Salvador,Ethiopia
+92,530,1929,0,1,,El Salvador,Ethiopia
+92,530,1930,0,1,,El Salvador,Ethiopia
+92,530,1931,0,1,,El Salvador,Ethiopia
+92,530,1932,0,1,,El Salvador,Ethiopia
+92,530,1933,0,1,,El Salvador,Ethiopia
+92,530,1934,0,1,Colones,El Salvador,Ethiopia
+92,530,1935,38,1,Colones,El Salvador,Ethiopia
+92,530,1936,704,1,Colones,El Salvador,Ethiopia
+92,530,1937,168,1,Colones,El Salvador,Ethiopia
+92,530,1938,0,1,Colones,El Salvador,Ethiopia
+92,530,1939,0,1,Colones,El Salvador,Ethiopia
+92,530,1940,0,1,Colones,El Salvador,Ethiopia
+92,530,1941,0,1,Colones,El Salvador,Ethiopia
+92,530,1942,0,1,Colones,El Salvador,Ethiopia
+92,530,1943,0,1,Colones,El Salvador,Ethiopia
+92,530,1944,0,1,Colones,El Salvador,Ethiopia
+92,530,1945,0,1,Colones,El Salvador,Ethiopia
+92,530,1946,0,1,Colones,El Salvador,Ethiopia
+92,530,1947,0,1,Colones,El Salvador,Ethiopia
+92,530,1948,0,1,Colones,El Salvador,Ethiopia
+92,530,1949,0,1,Colones,El Salvador,Ethiopia
+92,630,1914,0,1,Pesos Oro,El Salvador,Iran
+92,630,1915,23.75,1,Pesos Oro,El Salvador,Iran
+92,630,1918,0,1,Oro,El Salvador,Iran
+92,630,1920,28.71,1,Dolares,El Salvador,Iran
+92,630,1921,0,1,Oro,El Salvador,Iran
+92,630,1922,25.7,1,Dolares,El Salvador,Iran
+92,630,1923,87.81,1,Dolares,El Salvador,Iran
+92,630,1924,3727.62,1,Colones,El Salvador,Iran
+92,630,1925,0,1,Colones,El Salvador,Iran
+92,630,1927,0,1,,El Salvador,Iran
+92,630,1928,0,1,,El Salvador,Iran
+92,630,1929,0,1,,El Salvador,Iran
+92,630,1930,0,1,,El Salvador,Iran
+92,630,1931,5473,1,,El Salvador,Iran
+92,630,1932,0,1,,El Salvador,Iran
+92,630,1933,0,1,,El Salvador,Iran
+92,630,1934,0,1,Colones,El Salvador,Iran
+92,630,1935,0,1,Colones,El Salvador,Iran
+92,630,1936,0,1,Colones,El Salvador,Iran
+92,630,1937,0,1,Colones,El Salvador,Iran
+92,630,1938,0,1,Colones,El Salvador,Iran
+92,630,1939,0,1,Colones,El Salvador,Iran
+92,630,1940,0,1,Colones,El Salvador,Iran
+92,630,1941,0,1,Colones,El Salvador,Iran
+92,630,1942,0,1,Colones,El Salvador,Iran
+92,630,1943,0,1,Colones,El Salvador,Iran
+92,630,1944,0,1,Colones,El Salvador,Iran
+92,630,1945,0,1,Colones,El Salvador,Iran
+92,630,1946,0,1,Colones,El Salvador,Iran
+92,630,1947,0,1,Colones,El Salvador,Iran
+92,630,1948,0,1,Colones,El Salvador,Iran
+92,630,1949,0,1,Colones,El Salvador,Iran
+92,640,1914,83.87,1,Pesos Oro,El Salvador,Turkey
+92,640,1915,4.06,1,Pesos Oro,El Salvador,Turkey
+92,640,1918,0,1,Oro,El Salvador,Turkey
+92,640,1920,62.41,1,Dolares,El Salvador,Turkey
+92,640,1921,256.3,1,Oro,El Salvador,Turkey
+92,640,1922,67.20999999999999,1,Dolares,El Salvador,Turkey
+92,640,1923,0,1,Dolares,El Salvador,Turkey
+92,640,1924,4282.44,1,Colones,El Salvador,Turkey
+92,640,1925,18176.96,1,Colones,El Salvador,Turkey
+92,640,1927,0,1,,El Salvador,Turkey
+92,640,1928,0,1,,El Salvador,Turkey
+92,640,1929,135,1,,El Salvador,Turkey
+92,640,1930,1260,1,,El Salvador,Turkey
+92,640,1931,2226,1,,El Salvador,Turkey
+92,640,1932,195,1,,El Salvador,Turkey
+92,640,1933,361,1,,El Salvador,Turkey
+92,640,1934,592,1,Colones,El Salvador,Turkey
+92,640,1935,0,1,Colones,El Salvador,Turkey
+92,640,1936,237,1,Colones,El Salvador,Turkey
+92,640,1937,0,1,Colones,El Salvador,Turkey
+92,640,1938,8,1,Colones,El Salvador,Turkey
+92,640,1939,0,1,Colones,El Salvador,Turkey
+92,640,1940,0,1,Colones,El Salvador,Turkey
+92,640,1941,0,1,Colones,El Salvador,Turkey
+92,640,1942,0,1,Colones,El Salvador,Turkey
+92,640,1943,0,1,Colones,El Salvador,Turkey
+92,640,1944,17,1,Colones,El Salvador,Turkey
+92,640,1945,0,1,Colones,El Salvador,Turkey
+92,640,1946,563,1,Colones,El Salvador,Turkey
+92,640,1947,3497,1,Colones,El Salvador,Turkey
+92,640,1948,37,1,Colones,El Salvador,Turkey
+92,640,1949,1005,1,Colones,El Salvador,Turkey
+92,651,1914,0,1,Pesos Oro,El Salvador,Egypt
+92,651,1915,0,1,Pesos Oro,El Salvador,Egypt
+92,651,1918,0,1,Oro,El Salvador,Egypt
+92,651,1920,0,1,Dolares,El Salvador,Egypt
+92,651,1921,88.3,1,Oro,El Salvador,Egypt
+92,651,1922,158.48,1,Dolares,El Salvador,Egypt
+92,651,1923,0,1,Dolares,El Salvador,Egypt
+92,651,1924,132.88,1,Colones,El Salvador,Egypt
+92,651,1925,7.8,1,Colones,El Salvador,Egypt
+92,651,1927,103.74,1,,El Salvador,Egypt
+92,651,1928,0,1,,El Salvador,Egypt
+92,651,1929,0,1,,El Salvador,Egypt
+92,651,1930,0,1,,El Salvador,Egypt
+92,651,1931,0,1,,El Salvador,Egypt
+92,651,1932,0,1,,El Salvador,Egypt
+92,651,1933,0,1,,El Salvador,Egypt
+92,651,1934,0,1,Colones,El Salvador,Egypt
+92,651,1935,13161,1,Colones,El Salvador,Egypt
+92,651,1936,7080,1,Colones,El Salvador,Egypt
+92,651,1937,179,1,Colones,El Salvador,Egypt
+92,651,1938,334,1,Colones,El Salvador,Egypt
+92,651,1939,0,1,Colones,El Salvador,Egypt
+92,651,1940,188,1,Colones,El Salvador,Egypt
+92,651,1941,60,1,Colones,El Salvador,Egypt
+92,651,1942,0,1,Colones,El Salvador,Egypt
+92,651,1943,1762,1,Colones,El Salvador,Egypt
+92,651,1944,742,1,Colones,El Salvador,Egypt
+92,651,1945,215,1,Colones,El Salvador,Egypt
+92,651,1946,0,1,Colones,El Salvador,Egypt
+92,651,1947,0,1,Colones,El Salvador,Egypt
+92,651,1948,0,1,Colones,El Salvador,Egypt
+92,651,1949,604,1,Colones,El Salvador,Egypt
+92,652,1914,0,1,Pesos Oro,El Salvador,Syria
+92,652,1915,0,1,Pesos Oro,El Salvador,Syria
+92,652,1918,0,1,Oro,El Salvador,Syria
+92,652,1920,0,1,Dolares,El Salvador,Syria
+92,652,1921,0,1,Oro,El Salvador,Syria
+92,652,1922,0,1,Dolares,El Salvador,Syria
+92,652,1923,1.97,1,Dolares,El Salvador,Syria
+92,652,1924,0,1,Colones,El Salvador,Syria
+92,652,1925,66,1,Colones,El Salvador,Syria
+92,652,1927,0,1,,El Salvador,Syria
+92,652,1928,0,1,,El Salvador,Syria
+92,652,1929,0,1,,El Salvador,Syria
+92,652,1930,0,1,,El Salvador,Syria
+92,652,1931,0,1,,El Salvador,Syria
+92,652,1932,0,1,,El Salvador,Syria
+92,652,1933,0,1,,El Salvador,Syria
+92,652,1934,0,1,Colones,El Salvador,Syria
+92,652,1935,0,1,Colones,El Salvador,Syria
+92,652,1936,0,1,Colones,El Salvador,Syria
+92,652,1937,0,1,Colones,El Salvador,Syria
+92,652,1938,0,1,Colones,El Salvador,Syria
+92,652,1939,0,1,Colones,El Salvador,Syria
+92,652,1940,0,1,Colones,El Salvador,Syria
+92,652,1941,0,1,Colones,El Salvador,Syria
+92,652,1942,0,1,Colones,El Salvador,Syria
+92,652,1943,0,1,Colones,El Salvador,Syria
+92,652,1944,0,1,Colones,El Salvador,Syria
+92,652,1945,0,1,Colones,El Salvador,Syria
+92,652,1946,0,1,Colones,El Salvador,Syria
+92,652,1947,0,1,Colones,El Salvador,Syria
+92,652,1948,0,1,Colones,El Salvador,Syria
+92,652,1949,0,1,Colones,El Salvador,Syria
+92,665,1914,0,1,Pesos Oro,El Salvador,West Bank And Gaza
+92,665,1915,0,1,Pesos Oro,El Salvador,West Bank And Gaza
+92,665,1918,0,1,Oro,El Salvador,West Bank And Gaza
+92,665,1920,0,1,Dolares,El Salvador,West Bank And Gaza
+92,665,1921,0,1,Oro,El Salvador,West Bank And Gaza
+92,665,1922,0,1,Dolares,El Salvador,West Bank And Gaza
+92,665,1923,0,1,Dolares,El Salvador,West Bank And Gaza
+92,665,1924,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1925,331.48,1,Colones,El Salvador,West Bank And Gaza
+92,665,1927,0,1,,El Salvador,West Bank And Gaza
+92,665,1928,0,1,,El Salvador,West Bank And Gaza
+92,665,1929,0,1,,El Salvador,West Bank And Gaza
+92,665,1930,0,1,,El Salvador,West Bank And Gaza
+92,665,1931,0,1,,El Salvador,West Bank And Gaza
+92,665,1932,0,1,,El Salvador,West Bank And Gaza
+92,665,1933,0,1,,El Salvador,West Bank And Gaza
+92,665,1934,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1935,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1936,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1937,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1938,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1939,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1940,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1941,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1942,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1943,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1944,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1945,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1946,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1947,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1948,0,1,Colones,El Salvador,West Bank And Gaza
+92,665,1949,0,1,Colones,El Salvador,West Bank And Gaza
+92,675,1914,0,1,Pesos Oro,El Salvador,Arabia
+92,675,1915,0,1,Pesos Oro,El Salvador,Arabia
+92,675,1918,0,1,Oro,El Salvador,Arabia
+92,675,1920,0,1,Dolares,El Salvador,Arabia
+92,675,1921,90,1,Oro,El Salvador,Arabia
+92,675,1922,0,1,Dolares,El Salvador,Arabia
+92,675,1923,0,1,Dolares,El Salvador,Arabia
+92,675,1924,0,1,Colones,El Salvador,Arabia
+92,675,1925,0,1,Colones,El Salvador,Arabia
+92,675,1927,0,1,,El Salvador,Arabia
+92,675,1928,0,1,,El Salvador,Arabia
+92,675,1929,0,1,,El Salvador,Arabia
+92,675,1930,0,1,,El Salvador,Arabia
+92,675,1931,0,1,,El Salvador,Arabia
+92,675,1932,0,1,,El Salvador,Arabia
+92,675,1933,0,1,,El Salvador,Arabia
+92,675,1934,0,1,Colones,El Salvador,Arabia
+92,675,1935,0,1,Colones,El Salvador,Arabia
+92,675,1936,0,1,Colones,El Salvador,Arabia
+92,675,1937,0,1,Colones,El Salvador,Arabia
+92,675,1938,0,1,Colones,El Salvador,Arabia
+92,675,1939,0,1,Colones,El Salvador,Arabia
+92,675,1940,0,1,Colones,El Salvador,Arabia
+92,675,1941,0,1,Colones,El Salvador,Arabia
+92,675,1942,0,1,Colones,El Salvador,Arabia
+92,675,1943,0,1,Colones,El Salvador,Arabia
+92,675,1944,0,1,Colones,El Salvador,Arabia
+92,675,1945,0,1,Colones,El Salvador,Arabia
+92,675,1946,0,1,Colones,El Salvador,Arabia
+92,675,1947,0,1,Colones,El Salvador,Arabia
+92,675,1948,0,1,Colones,El Salvador,Arabia
+92,675,1949,0,1,Colones,El Salvador,Arabia
+92,700,1914,0,1,Pesos Oro,El Salvador,Afghanistan
+92,700,1915,0,1,Pesos Oro,El Salvador,Afghanistan
+92,700,1918,0,1,Oro,El Salvador,Afghanistan
+92,700,1920,0,1,Dolares,El Salvador,Afghanistan
+92,700,1921,0,1,Oro,El Salvador,Afghanistan
+92,700,1922,0,1,Dolares,El Salvador,Afghanistan
+92,700,1923,0,1,Dolares,El Salvador,Afghanistan
+92,700,1924,0,1,Colones,El Salvador,Afghanistan
+92,700,1925,0,1,Colones,El Salvador,Afghanistan
+92,700,1927,0,1,,El Salvador,Afghanistan
+92,700,1928,0,1,,El Salvador,Afghanistan
+92,700,1929,0,1,,El Salvador,Afghanistan
+92,700,1930,0,1,,El Salvador,Afghanistan
+92,700,1931,0,1,,El Salvador,Afghanistan
+92,700,1932,0,1,,El Salvador,Afghanistan
+92,700,1933,0,1,,El Salvador,Afghanistan
+92,700,1934,0,1,Colones,El Salvador,Afghanistan
+92,700,1935,0,1,Colones,El Salvador,Afghanistan
+92,700,1936,0,1,Colones,El Salvador,Afghanistan
+92,700,1937,0,1,Colones,El Salvador,Afghanistan
+92,700,1938,0,1,Colones,El Salvador,Afghanistan
+92,700,1939,0,1,Colones,El Salvador,Afghanistan
+92,700,1940,0,1,Colones,El Salvador,Afghanistan
+92,700,1941,0,1,Colones,El Salvador,Afghanistan
+92,700,1942,0,1,Colones,El Salvador,Afghanistan
+92,700,1943,0,1,Colones,El Salvador,Afghanistan
+92,700,1944,0,1,Colones,El Salvador,Afghanistan
+92,700,1945,0,1,Colones,El Salvador,Afghanistan
+92,700,1946,0,1,Colones,El Salvador,Afghanistan
+92,700,1947,0,1,Colones,El Salvador,Afghanistan
+92,700,1948,87,1,Colones,El Salvador,Afghanistan
+92,700,1949,0,1,Colones,El Salvador,Afghanistan
+92,710,1914,48103.85,1,Pesos Oro,El Salvador,China
+92,710,1915,24216.94,1,Pesos Oro,El Salvador,China
+92,710,1918,19931.65,1,Oro,El Salvador,China
+92,710,1920,122743.37,1,Dolares,El Salvador,China
+92,710,1921,33291.52,1,Oro,El Salvador,China
+92,710,1922,25404.58,1,Dolares,El Salvador,China
+92,710,1923,46111.61,1,Dolares,El Salvador,China
+92,710,1924,65436.2,1,Colones,El Salvador,China
+92,710,1925,54578.72,1,Colones,El Salvador,China
+92,710,1927,39338.68,1,,El Salvador,China
+92,710,1928,129372,1,,El Salvador,China
+92,710,1929,135696,1,,El Salvador,China
+92,710,1930,37034,1,,El Salvador,China
+92,710,1931,27683,1,,El Salvador,China
+92,710,1932,123897,1,,El Salvador,China
+92,710,1933,40831,1,,El Salvador,China
+92,710,1934,8799,1,Colones,El Salvador,China
+92,710,1935,17886,1,Colones,El Salvador,China
+92,710,1936,1872,1,Colones,El Salvador,China
+92,710,1937,1231,1,Colones,El Salvador,China
+92,710,1938,490,1,Colones,El Salvador,China
+92,710,1939,1205,1,Colones,El Salvador,China
+92,710,1940,2344,1,Colones,El Salvador,China
+92,710,1941,8721,1,Colones,El Salvador,China
+92,710,1942,816,1,Colones,El Salvador,China
+92,710,1943,6157,1,Colones,El Salvador,China
+92,710,1944,1267,1,Colones,El Salvador,China
+92,710,1945,3242,1,Colones,El Salvador,China
+92,710,1946,278,1,Colones,El Salvador,China
+92,710,1947,8505,1,Colones,El Salvador,China
+92,710,1948,6046,1,Colones,El Salvador,China
+92,710,1949,30970,1,Colones,El Salvador,China
+92,740,1914,97412.55,1,Pesos Oro,El Salvador,Japan
+92,740,1915,56038.39,1,Pesos Oro,El Salvador,Japan
+92,740,1918,204149.08,1,Oro,El Salvador,Japan
+92,740,1920,632794.42,1,Dolares,El Salvador,Japan
+92,740,1921,166240.48,1,Oro,El Salvador,Japan
+92,740,1922,294092.22,1,Dolares,El Salvador,Japan
+92,740,1923,328395.85,1,Dolares,El Salvador,Japan
+92,740,1924,1008460.5,1,Colones,El Salvador,Japan
+92,740,1925,708078.47,1,Colones,El Salvador,Japan
+92,740,1927,761617.12,1,,El Salvador,Japan
+92,740,1928,1314916,1,,El Salvador,Japan
+92,740,1929,791983,1,,El Salvador,Japan
+92,740,1930,815940,1,,El Salvador,Japan
+92,740,1931,360252,1,,El Salvador,Japan
+92,740,1932,346971,1,,El Salvador,Japan
+92,740,1933,570184,1,,El Salvador,Japan
+92,740,1934,2284687,1,Colones,El Salvador,Japan
+92,740,1935,20427,1,Colones,El Salvador,Japan
+92,740,1936,17615,1,Colones,El Salvador,Japan
+92,740,1937,35060,1,Colones,El Salvador,Japan
+92,740,1938,7192,1,Colones,El Salvador,Japan
+92,740,1939,9892,1,Colones,El Salvador,Japan
+92,740,1940,25574,1,Colones,El Salvador,Japan
+92,740,1941,12529,1,Colones,El Salvador,Japan
+92,740,1942,1311,1,Colones,El Salvador,Japan
+92,740,1943,0,1,Colones,El Salvador,Japan
+92,740,1944,666,1,Colones,El Salvador,Japan
+92,740,1945,325,1,Colones,El Salvador,Japan
+92,740,1946,99,1,Colones,El Salvador,Japan
+92,740,1947,0,1,Colones,El Salvador,Japan
+92,740,1948,14289,1,Colones,El Salvador,Japan
+92,740,1949,146159,1,Colones,El Salvador,Japan
+92,750,1914,0,1,Pesos Oro,El Salvador,India
+92,750,1915,0,1,Pesos Oro,El Salvador,India
+92,750,1918,0,1,Oro,El Salvador,India
+92,750,1920,94175.72,1,Dolares,El Salvador,India
+92,750,1921,115506.34,1,Oro,El Salvador,India
+92,750,1922,127379.93,1,Dolares,El Salvador,India
+92,750,1923,136593.07,1,Dolares,El Salvador,India
+92,750,1924,131537.58,1,Colones,El Salvador,India
+92,750,1925,79633.41,1,Colones,El Salvador,India
+92,750,1927,220285.16,1,,El Salvador,India
+92,750,1928,96502,1,,El Salvador,India
+92,750,1929,54729,1,,El Salvador,India
+92,750,1930,31538,1,,El Salvador,India
+92,750,1931,12574,1,,El Salvador,India
+92,750,1932,13082,1,,El Salvador,India
+92,750,1933,20044,1,,El Salvador,India
+92,750,1934,20178,1,Colones,El Salvador,India
+92,750,1935,3768,1,Colones,El Salvador,India
+92,750,1936,5472,1,Colones,El Salvador,India
+92,750,1937,20218,1,Colones,El Salvador,India
+92,750,1938,15208,1,Colones,El Salvador,India
+92,750,1939,8264,1,Colones,El Salvador,India
+92,750,1940,10464,1,Colones,El Salvador,India
+92,750,1941,39309,1,Colones,El Salvador,India
+92,750,1942,71159,1,Colones,El Salvador,India
+92,750,1943,9428,1,Colones,El Salvador,India
+92,750,1944,38944,1,Colones,El Salvador,India
+92,750,1945,27627,1,Colones,El Salvador,India
+92,750,1946,78564,1,Colones,El Salvador,India
+92,750,1947,303745,1,Colones,El Salvador,India
+92,750,1948,21986,1,Colones,El Salvador,India
+92,750,1949,92168,1,Colones,El Salvador,India
+92,920,1914,0,1,Pesos Oro,El Salvador,New Zealand
+92,920,1915,0,1,Pesos Oro,El Salvador,New Zealand
+92,920,1918,0,1,Oro,El Salvador,New Zealand
+92,920,1920,0,1,Dolares,El Salvador,New Zealand
+92,920,1921,0,1,Oro,El Salvador,New Zealand
+92,920,1922,0,1,Dolares,El Salvador,New Zealand
+92,920,1923,0,1,Dolares,El Salvador,New Zealand
+92,920,1924,47.42,1,Colones,El Salvador,New Zealand
+92,920,1925,634.08,1,Colones,El Salvador,New Zealand
+92,920,1927,0,1,,El Salvador,New Zealand
+92,920,1928,0,1,,El Salvador,New Zealand
+92,920,1929,0,1,,El Salvador,New Zealand
+92,920,1930,0,1,,El Salvador,New Zealand
+92,920,1931,0,1,,El Salvador,New Zealand
+92,920,1932,0,1,,El Salvador,New Zealand
+92,920,1933,0,1,,El Salvador,New Zealand
+92,920,1934,0,1,Colones,El Salvador,New Zealand
+92,920,1935,0,1,Colones,El Salvador,New Zealand
+92,920,1936,0,1,Colones,El Salvador,New Zealand
+92,920,1937,0,1,Colones,El Salvador,New Zealand
+92,920,1938,0,1,Colones,El Salvador,New Zealand
+92,920,1939,0,1,Colones,El Salvador,New Zealand
+92,920,1940,0,1,Colones,El Salvador,New Zealand
+92,920,1941,0,1,Colones,El Salvador,New Zealand
+92,920,1942,0,1,Colones,El Salvador,New Zealand
+92,920,1943,0,1,Colones,El Salvador,New Zealand
+92,920,1944,0,1,Colones,El Salvador,New Zealand
+92,920,1945,0,1,Colones,El Salvador,New Zealand
+92,920,1946,0,1,Colones,El Salvador,New Zealand
+92,920,1947,0,1,Colones,El Salvador,New Zealand
+92,920,1948,0,1,Colones,El Salvador,New Zealand
+92,920,1949,0,1,Colones,El Salvador,New Zealand
+92,8501,1914,0,1,Pesos Oro,El Salvador,Java
+92,8501,1915,0,1,Pesos Oro,El Salvador,Java
+92,8501,1918,0,1,Oro,El Salvador,Java
+92,8501,1920,0,1,Dolares,El Salvador,Java
+92,8501,1921,0,1,Oro,El Salvador,Java
+92,8501,1922,0,1,Dolares,El Salvador,Java
+92,8501,1923,0,1,Dolares,El Salvador,Java
+92,8501,1924,0,1,Colones,El Salvador,Java
+92,8501,1925,1415.22,1,Colones,El Salvador,Java
+92,8501,1927,0,1,,El Salvador,Java
+92,8501,1928,0,1,,El Salvador,Java
+92,8501,1929,0,1,,El Salvador,Java
+92,8501,1930,0,1,,El Salvador,Java
+92,8501,1931,0,1,,El Salvador,Java
+92,8501,1932,0,1,,El Salvador,Java
+92,8501,1933,0,1,,El Salvador,Java
+92,8501,1934,0,1,Colones,El Salvador,Java
+92,8501,1935,0,1,Colones,El Salvador,Java
+92,8501,1936,0,1,Colones,El Salvador,Java
+92,8501,1937,0,1,Colones,El Salvador,Java
+92,8501,1938,0,1,Colones,El Salvador,Java
+92,8501,1939,0,1,Colones,El Salvador,Java
+92,8501,1940,0,1,Colones,El Salvador,Java
+92,8501,1941,0,1,Colones,El Salvador,Java
+92,8501,1942,0,1,Colones,El Salvador,Java
+92,8501,1943,0,1,Colones,El Salvador,Java
+92,8501,1944,0,1,Colones,El Salvador,Java
+92,8501,1945,0,1,Colones,El Salvador,Java
+92,8501,1946,0,1,Colones,El Salvador,Java
+92,8501,1947,0,1,Colones,El Salvador,Java
+92,8501,1948,0,1,Colones,El Salvador,Java
+92,8501,1949,0,1,Colones,El Salvador,Java
+92,8502,1914,0,1,Pesos Oro,El Salvador,Sumatra
+92,8502,1915,0,1,Pesos Oro,El Salvador,Sumatra
+92,8502,1918,0,1,Oro,El Salvador,Sumatra
+92,8502,1920,362.4,1,Dolares,El Salvador,Sumatra
+92,8502,1921,0,1,Oro,El Salvador,Sumatra
+92,8502,1922,0,1,Dolares,El Salvador,Sumatra
+92,8502,1923,0,1,Dolares,El Salvador,Sumatra
+92,8502,1924,0,1,Colones,El Salvador,Sumatra
+92,8502,1925,0,1,Colones,El Salvador,Sumatra
+92,8502,1927,0,1,,El Salvador,Sumatra
+92,8502,1928,0,1,,El Salvador,Sumatra
+92,8502,1929,0,1,,El Salvador,Sumatra
+92,8502,1930,0,1,,El Salvador,Sumatra
+92,8502,1931,0,1,,El Salvador,Sumatra
+92,8502,1932,0,1,,El Salvador,Sumatra
+92,8502,1933,0,1,,El Salvador,Sumatra
+92,8502,1934,0,1,Colones,El Salvador,Sumatra
+92,8502,1935,0,1,Colones,El Salvador,Sumatra
+92,8502,1936,0,1,Colones,El Salvador,Sumatra
+92,8502,1937,0,1,Colones,El Salvador,Sumatra
+92,8502,1938,0,1,Colones,El Salvador,Sumatra
+92,8502,1939,0,1,Colones,El Salvador,Sumatra
+92,8502,1940,0,1,Colones,El Salvador,Sumatra
+92,8502,1941,0,1,Colones,El Salvador,Sumatra
+92,8502,1942,0,1,Colones,El Salvador,Sumatra
+92,8502,1943,0,1,Colones,El Salvador,Sumatra
+92,8502,1944,0,1,Colones,El Salvador,Sumatra
+92,8502,1945,0,1,Colones,El Salvador,Sumatra
+92,8502,1946,0,1,Colones,El Salvador,Sumatra
+92,8502,1947,0,1,Colones,El Salvador,Sumatra
+92,8502,1948,0,1,Colones,El Salvador,Sumatra
+92,8502,1949,0,1,Colones,El Salvador,Sumatra
+92,,1914,4957549.01,1,Pesos Oro,El Salvador,
+92,,1915,4022167.22,1,Pesos Oro,El Salvador,
+92,,1918,6142706.859999999,1,Oro,El Salvador,
+92,,1920,12628379.9,1,Dolares,El Salvador,
+92,,1921,8486452.670000004,1,Oro,El Salvador,
+92,,1922,7426760.060000001,1,Dolares,El Salvador,
+92,,1923,8770457.430000002,1,Dolares,El Salvador,
+92,,1924,22349879.42000001,1,Colones,El Salvador,
+92,,1925,38766741.42000001,1,Colones,El Salvador,
+92,,1927,29718660.99,1,,El Salvador,
+92,,1928,37304358,1,,El Salvador,
+92,,1929,34680572,1,,El Salvador,
+92,,1930,23532144,1,,El Salvador,
+92,,1931,14674965,1,,El Salvador,
+92,,1932,12583983,1,,El Salvador,
+92,,1933,15483753,1,,El Salvador,
+92,,1934,21625757,1,Colones,El Salvador,
+92,,1935,22711999,1,Colones,El Salvador,
+92,,1936,21159273,1,Colones,El Salvador,
+92,,1937,26064538,1,Colones,El Salvador,
+92,,1938,22889382,1,Colones,El Salvador,
+92,,1939,22168669,1,Colones,El Salvador,
+92,,1940,20301477,1,Colones,El Salvador,
+92,,1941,20843724,1,Colones,El Salvador,
+92,,1942,21456614,1,Colones,El Salvador,
+92,,1943,29875423,1,Colones,El Salvador,
+92,,1944,30750251,1,Colones,El Salvador,
+92,,1945,33866505,1,Colones,El Salvador,
+92,,1946,52889046,1,Colones,El Salvador,
+92,,1947,92535705,1,Colones,El Salvador,
+92,,1948,103807148,1,Colones,El Salvador,
+92,,1949,102065849,1,Colones,El Salvador,

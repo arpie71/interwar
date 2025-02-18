@@ -1,0 +1,1281 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+565,2,1919,6017,1,Pounds,Namibia,United States
+565,2,1920,22973,1,Pounds,Namibia,United States
+565,2,1921,15177,1,Pounds,Namibia,United States
+565,2,1922,24770,1,Pounds,Namibia,United States
+565,2,1923,16914,1,Pounds,Namibia,United States
+565,2,1924,49517,1,Pounds,Namibia,United States
+565,2,1926,0,1,Pounds,Namibia,United States
+565,2,1927,0,1,Pounds,Namibia,United States
+565,2,1928,145706,1,Pounds,Namibia,United States
+565,2,1929,176584,1,Pounds,Namibia,United States
+565,2,1944,14260,1,Pounds,Namibia,United States
+565,2,1945,16815,1,Pounds,Namibia,United States
+565,2,1946,200147,1,Pounds,Namibia,United States
+565,2,1947,811607,1,Pounds,Namibia,United States
+565,2,1948,1310958,1,Pounds,Namibia,United States
+565,2,1949,743280,1,Pounds,Namibia,United States
+565,3,1919,0,1,Pounds,Namibia,Alaska
+565,3,1920,0,1,Pounds,Namibia,Alaska
+565,3,1921,0,1,Pounds,Namibia,Alaska
+565,3,1922,0,1,Pounds,Namibia,Alaska
+565,3,1923,0,1,Pounds,Namibia,Alaska
+565,3,1924,0,1,Pounds,Namibia,Alaska
+565,3,1926,0,1,Pounds,Namibia,Alaska
+565,3,1927,0,1,Pounds,Namibia,Alaska
+565,3,1928,0,1,Pounds,Namibia,Alaska
+565,3,1929,0,1,Pounds,Namibia,Alaska
+565,3,1944,0,1,Pounds,Namibia,Alaska
+565,3,1945,0,1,Pounds,Namibia,Alaska
+565,3,1946,0,1,Pounds,Namibia,Alaska
+565,3,1947,0,1,Pounds,Namibia,Alaska
+565,3,1948,0,1,Pounds,Namibia,Alaska
+565,3,1949,4,1,Pounds,Namibia,Alaska
+565,20,1919,918,1,Pounds,Namibia,Canada
+565,20,1920,2435,1,Pounds,Namibia,Canada
+565,20,1921,1586,1,Pounds,Namibia,Canada
+565,20,1922,53,1,Pounds,Namibia,Canada
+565,20,1923,370,1,Pounds,Namibia,Canada
+565,20,1924,603,1,Pounds,Namibia,Canada
+565,20,1926,1610,1,Pounds,Namibia,Canada
+565,20,1927,1345,1,Pounds,Namibia,Canada
+565,20,1928,4163,1,Pounds,Namibia,Canada
+565,20,1929,3215,1,Pounds,Namibia,Canada
+565,20,1944,4184,1,Pounds,Namibia,Canada
+565,20,1945,26215,1,Pounds,Namibia,Canada
+565,20,1946,30576,1,Pounds,Namibia,Canada
+565,20,1947,161128,1,Pounds,Namibia,Canada
+565,20,1948,74835,1,Pounds,Namibia,Canada
+565,20,1949,141486,1,Pounds,Namibia,Canada
+565,40,1919,0,1,Pounds,Namibia,Cuba
+565,40,1920,0,1,Pounds,Namibia,Cuba
+565,40,1921,0,1,Pounds,Namibia,Cuba
+565,40,1922,0,1,Pounds,Namibia,Cuba
+565,40,1923,0,1,Pounds,Namibia,Cuba
+565,40,1924,0,1,Pounds,Namibia,Cuba
+565,40,1926,0,1,Pounds,Namibia,Cuba
+565,40,1927,0,1,Pounds,Namibia,Cuba
+565,40,1928,0,1,Pounds,Namibia,Cuba
+565,40,1929,2,1,Pounds,Namibia,Cuba
+565,40,1944,0,1,Pounds,Namibia,Cuba
+565,40,1945,0,1,Pounds,Namibia,Cuba
+565,40,1946,527,1,Pounds,Namibia,Cuba
+565,40,1947,0,1,Pounds,Namibia,Cuba
+565,40,1948,0,1,Pounds,Namibia,Cuba
+565,40,1949,0,1,Pounds,Namibia,Cuba
+565,70,1919,0,1,Pounds,Namibia,Mexico
+565,70,1920,12,1,Pounds,Namibia,Mexico
+565,70,1921,0,1,Pounds,Namibia,Mexico
+565,70,1922,0,1,Pounds,Namibia,Mexico
+565,70,1923,0,1,Pounds,Namibia,Mexico
+565,70,1924,5,1,Pounds,Namibia,Mexico
+565,70,1926,0,1,Pounds,Namibia,Mexico
+565,70,1927,0,1,Pounds,Namibia,Mexico
+565,70,1928,0,1,Pounds,Namibia,Mexico
+565,70,1929,0,1,Pounds,Namibia,Mexico
+565,70,1944,0,1,Pounds,Namibia,Mexico
+565,70,1945,0,1,Pounds,Namibia,Mexico
+565,70,1946,0,1,Pounds,Namibia,Mexico
+565,70,1947,4140,1,Pounds,Namibia,Mexico
+565,70,1948,19982,1,Pounds,Namibia,Mexico
+565,70,1949,5399,1,Pounds,Namibia,Mexico
+565,90,1919,0,1,Pounds,Namibia,Guatemala
+565,90,1920,0,1,Pounds,Namibia,Guatemala
+565,90,1921,0,1,Pounds,Namibia,Guatemala
+565,90,1922,0,1,Pounds,Namibia,Guatemala
+565,90,1923,56,1,Pounds,Namibia,Guatemala
+565,90,1924,138,1,Pounds,Namibia,Guatemala
+565,90,1926,0,1,Pounds,Namibia,Guatemala
+565,90,1927,0,1,Pounds,Namibia,Guatemala
+565,90,1928,0,1,Pounds,Namibia,Guatemala
+565,90,1929,135,1,Pounds,Namibia,Guatemala
+565,90,1944,0,1,Pounds,Namibia,Guatemala
+565,90,1945,0,1,Pounds,Namibia,Guatemala
+565,90,1946,198,1,Pounds,Namibia,Guatemala
+565,90,1947,281,1,Pounds,Namibia,Guatemala
+565,90,1948,0,1,Pounds,Namibia,Guatemala
+565,90,1949,305,1,Pounds,Namibia,Guatemala
+565,100,1919,0,1,Pounds,Namibia,Colombia
+565,100,1920,0,1,Pounds,Namibia,Colombia
+565,100,1921,0,1,Pounds,Namibia,Colombia
+565,100,1922,0,1,Pounds,Namibia,Colombia
+565,100,1923,0,1,Pounds,Namibia,Colombia
+565,100,1924,0,1,Pounds,Namibia,Colombia
+565,100,1926,0,1,Pounds,Namibia,Colombia
+565,100,1927,0,1,Pounds,Namibia,Colombia
+565,100,1928,0,1,Pounds,Namibia,Colombia
+565,100,1929,0,1,Pounds,Namibia,Colombia
+565,100,1944,0,1,Pounds,Namibia,Colombia
+565,100,1945,0,1,Pounds,Namibia,Colombia
+565,100,1946,0,1,Pounds,Namibia,Colombia
+565,100,1947,0,1,Pounds,Namibia,Colombia
+565,100,1948,3,1,Pounds,Namibia,Colombia
+565,100,1949,6,1,Pounds,Namibia,Colombia
+565,101,1919,0,1,Pounds,Namibia,Venezuela
+565,101,1920,0,1,Pounds,Namibia,Venezuela
+565,101,1921,0,1,Pounds,Namibia,Venezuela
+565,101,1922,0,1,Pounds,Namibia,Venezuela
+565,101,1923,0,1,Pounds,Namibia,Venezuela
+565,101,1924,0,1,Pounds,Namibia,Venezuela
+565,101,1926,0,1,Pounds,Namibia,Venezuela
+565,101,1927,0,1,Pounds,Namibia,Venezuela
+565,101,1928,37,1,Pounds,Namibia,Venezuela
+565,101,1929,55,1,Pounds,Namibia,Venezuela
+565,101,1944,0,1,Pounds,Namibia,Venezuela
+565,101,1945,0,1,Pounds,Namibia,Venezuela
+565,101,1946,0,1,Pounds,Namibia,Venezuela
+565,101,1947,150,1,Pounds,Namibia,Venezuela
+565,101,1948,0,1,Pounds,Namibia,Venezuela
+565,101,1949,0,1,Pounds,Namibia,Venezuela
+565,110,1919,0,1,Pounds,Namibia,Guyana
+565,110,1920,0,1,Pounds,Namibia,Guyana
+565,110,1921,0,1,Pounds,Namibia,Guyana
+565,110,1922,0,1,Pounds,Namibia,Guyana
+565,110,1923,0,1,Pounds,Namibia,Guyana
+565,110,1924,0,1,Pounds,Namibia,Guyana
+565,110,1926,0,1,Pounds,Namibia,Guyana
+565,110,1927,0,1,Pounds,Namibia,Guyana
+565,110,1928,0,1,Pounds,Namibia,Guyana
+565,110,1929,0,1,Pounds,Namibia,Guyana
+565,110,1944,0,1,Pounds,Namibia,Guyana
+565,110,1945,0,1,Pounds,Namibia,Guyana
+565,110,1946,0,1,Pounds,Namibia,Guyana
+565,110,1947,0,1,Pounds,Namibia,Guyana
+565,110,1948,0,1,Pounds,Namibia,Guyana
+565,110,1949,800,1,Pounds,Namibia,Guyana
+565,115,1919,0,1,Pounds,Namibia,Suriname
+565,115,1920,0,1,Pounds,Namibia,Suriname
+565,115,1921,0,1,Pounds,Namibia,Suriname
+565,115,1922,0,1,Pounds,Namibia,Suriname
+565,115,1923,0,1,Pounds,Namibia,Suriname
+565,115,1924,0,1,Pounds,Namibia,Suriname
+565,115,1926,0,1,Pounds,Namibia,Suriname
+565,115,1927,0,1,Pounds,Namibia,Suriname
+565,115,1928,0,1,Pounds,Namibia,Suriname
+565,115,1929,0,1,Pounds,Namibia,Suriname
+565,115,1944,0,1,Pounds,Namibia,Suriname
+565,115,1945,0,1,Pounds,Namibia,Suriname
+565,115,1946,33,1,Pounds,Namibia,Suriname
+565,115,1947,421,1,Pounds,Namibia,Suriname
+565,115,1948,94194,1,Pounds,Namibia,Suriname
+565,115,1949,15796,1,Pounds,Namibia,Suriname
+565,140,1919,0,1,Pounds,Namibia,Brazil
+565,140,1920,12,1,Pounds,Namibia,Brazil
+565,140,1921,143,1,Pounds,Namibia,Brazil
+565,140,1922,0,1,Pounds,Namibia,Brazil
+565,140,1923,3696,1,Pounds,Namibia,Brazil
+565,140,1924,6352,1,Pounds,Namibia,Brazil
+565,140,1926,0,1,Pounds,Namibia,Brazil
+565,140,1927,0,1,Pounds,Namibia,Brazil
+565,140,1928,14696,1,Pounds,Namibia,Brazil
+565,140,1929,16683,1,Pounds,Namibia,Brazil
+565,140,1944,2978,1,Pounds,Namibia,Brazil
+565,140,1945,549,1,Pounds,Namibia,Brazil
+565,140,1946,1692,1,Pounds,Namibia,Brazil
+565,140,1947,16692,1,Pounds,Namibia,Brazil
+565,140,1948,17387,1,Pounds,Namibia,Brazil
+565,140,1949,18387,1,Pounds,Namibia,Brazil
+565,155,1919,0,1,Pounds,Namibia,Chile
+565,155,1920,0,1,Pounds,Namibia,Chile
+565,155,1921,0,1,Pounds,Namibia,Chile
+565,155,1922,0,1,Pounds,Namibia,Chile
+565,155,1923,0,1,Pounds,Namibia,Chile
+565,155,1924,0,1,Pounds,Namibia,Chile
+565,155,1926,0,1,Pounds,Namibia,Chile
+565,155,1927,0,1,Pounds,Namibia,Chile
+565,155,1928,0,1,Pounds,Namibia,Chile
+565,155,1929,6,1,Pounds,Namibia,Chile
+565,155,1944,0,1,Pounds,Namibia,Chile
+565,155,1945,0,1,Pounds,Namibia,Chile
+565,155,1946,0,1,Pounds,Namibia,Chile
+565,155,1947,0,1,Pounds,Namibia,Chile
+565,155,1948,0,1,Pounds,Namibia,Chile
+565,155,1949,0,1,Pounds,Namibia,Chile
+565,160,1919,0,1,Pounds,Namibia,Argentina
+565,160,1920,0,1,Pounds,Namibia,Argentina
+565,160,1921,0,1,Pounds,Namibia,Argentina
+565,160,1922,0,1,Pounds,Namibia,Argentina
+565,160,1923,8,1,Pounds,Namibia,Argentina
+565,160,1924,446,1,Pounds,Namibia,Argentina
+565,160,1926,0,1,Pounds,Namibia,Argentina
+565,160,1927,0,1,Pounds,Namibia,Argentina
+565,160,1928,254,1,Pounds,Namibia,Argentina
+565,160,1929,652,1,Pounds,Namibia,Argentina
+565,160,1944,10484,1,Pounds,Namibia,Argentina
+565,160,1945,7127,1,Pounds,Namibia,Argentina
+565,160,1946,466,1,Pounds,Namibia,Argentina
+565,160,1947,725,1,Pounds,Namibia,Argentina
+565,160,1948,4171,1,Pounds,Namibia,Argentina
+565,160,1949,277,1,Pounds,Namibia,Argentina
+565,200,1919,5482,1,Pounds,Namibia,United Kingdom
+565,200,1920,74421,1,Pounds,Namibia,United Kingdom
+565,200,1921,31285,1,Pounds,Namibia,United Kingdom
+565,200,1922,31926,1,Pounds,Namibia,United Kingdom
+565,200,1923,68055,1,Pounds,Namibia,United Kingdom
+565,200,1924,106477,1,Pounds,Namibia,United Kingdom
+565,200,1926,164857,1,Pounds,Namibia,United Kingdom
+565,200,1927,126140,1,Pounds,Namibia,United Kingdom
+565,200,1928,161295,1,Pounds,Namibia,United Kingdom
+565,200,1929,225287,1,Pounds,Namibia,United Kingdom
+565,200,1944,12694,1,Pounds,Namibia,United Kingdom
+565,200,1945,17295,1,Pounds,Namibia,United Kingdom
+565,200,1946,112633,1,Pounds,Namibia,United Kingdom
+565,200,1947,252638,1,Pounds,Namibia,United Kingdom
+565,200,1948,404057,1,Pounds,Namibia,United Kingdom
+565,200,1949,441778,1,Pounds,Namibia,United Kingdom
+565,205,1919,0,1,Pounds,Namibia,Ireland
+565,205,1920,0,1,Pounds,Namibia,Ireland
+565,205,1921,0,1,Pounds,Namibia,Ireland
+565,205,1922,0,1,Pounds,Namibia,Ireland
+565,205,1923,0,1,Pounds,Namibia,Ireland
+565,205,1924,70,1,Pounds,Namibia,Ireland
+565,205,1926,0,1,Pounds,Namibia,Ireland
+565,205,1927,110,1,Pounds,Namibia,Ireland
+565,205,1928,95,1,Pounds,Namibia,Ireland
+565,205,1929,208,1,Pounds,Namibia,Ireland
+565,205,1944,0,1,Pounds,Namibia,Ireland
+565,205,1945,0,1,Pounds,Namibia,Ireland
+565,205,1946,0,1,Pounds,Namibia,Ireland
+565,205,1947,250,1,Pounds,Namibia,Ireland
+565,205,1948,76,1,Pounds,Namibia,Ireland
+565,205,1949,124,1,Pounds,Namibia,Ireland
+565,210,1919,2344,1,Pounds,Namibia,Netherlands
+565,210,1920,19281,1,Pounds,Namibia,Netherlands
+565,210,1921,5505,1,Pounds,Namibia,Netherlands
+565,210,1922,1755,1,Pounds,Namibia,Netherlands
+565,210,1923,2935,1,Pounds,Namibia,Netherlands
+565,210,1924,22558,1,Pounds,Namibia,Netherlands
+565,210,1926,15854,1,Pounds,Namibia,Netherlands
+565,210,1927,30266,1,Pounds,Namibia,Netherlands
+565,210,1928,16028,1,Pounds,Namibia,Netherlands
+565,210,1929,19611,1,Pounds,Namibia,Netherlands
+565,210,1944,0,1,Pounds,Namibia,Netherlands
+565,210,1945,0,1,Pounds,Namibia,Netherlands
+565,210,1946,3149,1,Pounds,Namibia,Netherlands
+565,210,1947,13860,1,Pounds,Namibia,Netherlands
+565,210,1948,9642,1,Pounds,Namibia,Netherlands
+565,210,1949,2691,1,Pounds,Namibia,Netherlands
+565,211,1919,0,1,Pounds,Namibia,Belgium
+565,211,1920,3556,1,Pounds,Namibia,Belgium
+565,211,1921,1294,1,Pounds,Namibia,Belgium
+565,211,1922,1354,1,Pounds,Namibia,Belgium
+565,211,1923,1606,1,Pounds,Namibia,Belgium
+565,211,1924,4121,1,Pounds,Namibia,Belgium
+565,211,1926,7341,1,Pounds,Namibia,Belgium
+565,211,1927,10452,1,Pounds,Namibia,Belgium
+565,211,1928,20271,1,Pounds,Namibia,Belgium
+565,211,1929,20217,1,Pounds,Namibia,Belgium
+565,211,1944,0,1,Pounds,Namibia,Belgium
+565,211,1945,0,1,Pounds,Namibia,Belgium
+565,211,1946,15289,1,Pounds,Namibia,Belgium
+565,211,1947,64865,1,Pounds,Namibia,Belgium
+565,211,1948,190371,1,Pounds,Namibia,Belgium
+565,211,1949,89687,1,Pounds,Namibia,Belgium
+565,220,1919,49,1,Pounds,Namibia,France
+565,220,1920,5095,1,Pounds,Namibia,France
+565,220,1921,2696,1,Pounds,Namibia,France
+565,220,1922,796,1,Pounds,Namibia,France
+565,220,1923,1849,1,Pounds,Namibia,France
+565,220,1924,1946,1,Pounds,Namibia,France
+565,220,1926,3964,1,Pounds,Namibia,France
+565,220,1927,5531,1,Pounds,Namibia,France
+565,220,1928,7707,1,Pounds,Namibia,France
+565,220,1929,8074,1,Pounds,Namibia,France
+565,220,1944,0,1,Pounds,Namibia,France
+565,220,1945,0,1,Pounds,Namibia,France
+565,220,1946,2168,1,Pounds,Namibia,France
+565,220,1947,11029,1,Pounds,Namibia,France
+565,220,1948,5824,1,Pounds,Namibia,France
+565,220,1949,7162,1,Pounds,Namibia,France
+565,225,1919,519,1,Pounds,Namibia,Switzerland
+565,225,1920,7221,1,Pounds,Namibia,Switzerland
+565,225,1921,2846,1,Pounds,Namibia,Switzerland
+565,225,1922,3411,1,Pounds,Namibia,Switzerland
+565,225,1923,4327,1,Pounds,Namibia,Switzerland
+565,225,1924,8261,1,Pounds,Namibia,Switzerland
+565,225,1926,0,1,Pounds,Namibia,Switzerland
+565,225,1927,0,1,Pounds,Namibia,Switzerland
+565,225,1928,8795,1,Pounds,Namibia,Switzerland
+565,225,1929,6452,1,Pounds,Namibia,Switzerland
+565,225,1944,0,1,Pounds,Namibia,Switzerland
+565,225,1945,873,1,Pounds,Namibia,Switzerland
+565,225,1946,16195,1,Pounds,Namibia,Switzerland
+565,225,1947,32412,1,Pounds,Namibia,Switzerland
+565,225,1948,42844,1,Pounds,Namibia,Switzerland
+565,225,1949,11656,1,Pounds,Namibia,Switzerland
+565,230,1919,0,1,Pounds,Namibia,Spain
+565,230,1920,373,1,Pounds,Namibia,Spain
+565,230,1921,37,1,Pounds,Namibia,Spain
+565,230,1922,25,1,Pounds,Namibia,Spain
+565,230,1923,85,1,Pounds,Namibia,Spain
+565,230,1924,150,1,Pounds,Namibia,Spain
+565,230,1926,0,1,Pounds,Namibia,Spain
+565,230,1927,0,1,Pounds,Namibia,Spain
+565,230,1928,484,1,Pounds,Namibia,Spain
+565,230,1929,243,1,Pounds,Namibia,Spain
+565,230,1944,0,1,Pounds,Namibia,Spain
+565,230,1945,0,1,Pounds,Namibia,Spain
+565,230,1946,9,1,Pounds,Namibia,Spain
+565,230,1947,1286,1,Pounds,Namibia,Spain
+565,230,1948,84,1,Pounds,Namibia,Spain
+565,230,1949,0,1,Pounds,Namibia,Spain
+565,235,1919,0,1,Pounds,Namibia,Portugal
+565,235,1920,82,1,Pounds,Namibia,Portugal
+565,235,1921,0,1,Pounds,Namibia,Portugal
+565,235,1922,3,1,Pounds,Namibia,Portugal
+565,235,1923,19,1,Pounds,Namibia,Portugal
+565,235,1924,104,1,Pounds,Namibia,Portugal
+565,235,1926,0,1,Pounds,Namibia,Portugal
+565,235,1927,0,1,Pounds,Namibia,Portugal
+565,235,1928,402,1,Pounds,Namibia,Portugal
+565,235,1929,408,1,Pounds,Namibia,Portugal
+565,235,1944,307,1,Pounds,Namibia,Portugal
+565,235,1945,17,1,Pounds,Namibia,Portugal
+565,235,1946,554,1,Pounds,Namibia,Portugal
+565,235,1947,179,1,Pounds,Namibia,Portugal
+565,235,1948,1273,1,Pounds,Namibia,Portugal
+565,235,1949,2286,1,Pounds,Namibia,Portugal
+565,255,1919,4,1,Pounds,Namibia,Germany
+565,255,1920,185166,1,Pounds,Namibia,Germany
+565,255,1921,176763,1,Pounds,Namibia,Germany
+565,255,1922,213841,1,Pounds,Namibia,Germany
+565,255,1923,243124,1,Pounds,Namibia,Germany
+565,255,1924,396363,1,Pounds,Namibia,Germany
+565,255,1926,696917,1,Pounds,Namibia,Germany
+565,255,1927,510607,1,Pounds,Namibia,Germany
+565,255,1928,556293,1,Pounds,Namibia,Germany
+565,255,1929,664546,1,Pounds,Namibia,Germany
+565,255,1944,332,1,Pounds,Namibia,Germany
+565,255,1945,2,1,Pounds,Namibia,Germany
+565,255,1946,0,1,Pounds,Namibia,Germany
+565,255,1947,1399,1,Pounds,Namibia,Germany
+565,255,1948,52954,1,Pounds,Namibia,Germany
+565,255,1949,145543,1,Pounds,Namibia,Germany
+565,290,1919,0,1,Pounds,Namibia,Poland
+565,290,1920,0,1,Pounds,Namibia,Poland
+565,290,1921,0,1,Pounds,Namibia,Poland
+565,290,1922,67,1,Pounds,Namibia,Poland
+565,290,1923,209,1,Pounds,Namibia,Poland
+565,290,1924,3944,1,Pounds,Namibia,Poland
+565,290,1926,0,1,Pounds,Namibia,Poland
+565,290,1927,0,1,Pounds,Namibia,Poland
+565,290,1928,3622,1,Pounds,Namibia,Poland
+565,290,1929,3773,1,Pounds,Namibia,Poland
+565,290,1944,0,1,Pounds,Namibia,Poland
+565,290,1945,0,1,Pounds,Namibia,Poland
+565,290,1946,2,1,Pounds,Namibia,Poland
+565,290,1947,0,1,Pounds,Namibia,Poland
+565,290,1948,0,1,Pounds,Namibia,Poland
+565,290,1949,0,1,Pounds,Namibia,Poland
+565,305,1919,0,1,Pounds,Namibia,Austria
+565,305,1920,12,1,Pounds,Namibia,Austria
+565,305,1921,13,1,Pounds,Namibia,Austria
+565,305,1922,55,1,Pounds,Namibia,Austria
+565,305,1923,133,1,Pounds,Namibia,Austria
+565,305,1924,247,1,Pounds,Namibia,Austria
+565,305,1926,543,1,Pounds,Namibia,Austria
+565,305,1927,619,1,Pounds,Namibia,Austria
+565,305,1928,2157,1,Pounds,Namibia,Austria
+565,305,1929,2595,1,Pounds,Namibia,Austria
+565,305,1944,0,1,Pounds,Namibia,Austria
+565,305,1945,0,1,Pounds,Namibia,Austria
+565,305,1946,0,1,Pounds,Namibia,Austria
+565,305,1947,0,1,Pounds,Namibia,Austria
+565,305,1948,10,1,Pounds,Namibia,Austria
+565,305,1949,77,1,Pounds,Namibia,Austria
+565,310,1919,0,1,Pounds,Namibia,Hungary
+565,310,1920,0,1,Pounds,Namibia,Hungary
+565,310,1921,0,1,Pounds,Namibia,Hungary
+565,310,1922,8,1,Pounds,Namibia,Hungary
+565,310,1923,17,1,Pounds,Namibia,Hungary
+565,310,1924,34,1,Pounds,Namibia,Hungary
+565,310,1926,374,1,Pounds,Namibia,Hungary
+565,310,1927,627,1,Pounds,Namibia,Hungary
+565,310,1928,2723,1,Pounds,Namibia,Hungary
+565,310,1929,1202,1,Pounds,Namibia,Hungary
+565,310,1944,0,1,Pounds,Namibia,Hungary
+565,310,1945,0,1,Pounds,Namibia,Hungary
+565,310,1946,0,1,Pounds,Namibia,Hungary
+565,310,1947,160,1,Pounds,Namibia,Hungary
+565,310,1948,9297,1,Pounds,Namibia,Hungary
+565,310,1949,744,1,Pounds,Namibia,Hungary
+565,315,1919,0,1,Pounds,Namibia,Czechoslovakia
+565,315,1920,0,1,Pounds,Namibia,Czechoslovakia
+565,315,1921,223,1,Pounds,Namibia,Czechoslovakia
+565,315,1922,544,1,Pounds,Namibia,Czechoslovakia
+565,315,1923,4387,1,Pounds,Namibia,Czechoslovakia
+565,315,1924,888,1,Pounds,Namibia,Czechoslovakia
+565,315,1926,10956,1,Pounds,Namibia,Czechoslovakia
+565,315,1927,11033,1,Pounds,Namibia,Czechoslovakia
+565,315,1928,16022,1,Pounds,Namibia,Czechoslovakia
+565,315,1929,17686,1,Pounds,Namibia,Czechoslovakia
+565,315,1944,0,1,Pounds,Namibia,Czechoslovakia
+565,315,1945,0,1,Pounds,Namibia,Czechoslovakia
+565,315,1946,3,1,Pounds,Namibia,Czechoslovakia
+565,315,1947,17867,1,Pounds,Namibia,Czechoslovakia
+565,315,1948,7890,1,Pounds,Namibia,Czechoslovakia
+565,315,1949,9319,1,Pounds,Namibia,Czechoslovakia
+565,325,1919,0,1,Pounds,Namibia,Italy
+565,325,1920,444,1,Pounds,Namibia,Italy
+565,325,1921,143,1,Pounds,Namibia,Italy
+565,325,1922,709,1,Pounds,Namibia,Italy
+565,325,1923,1380,1,Pounds,Namibia,Italy
+565,325,1924,1814,1,Pounds,Namibia,Italy
+565,325,1926,4226,1,Pounds,Namibia,Italy
+565,325,1927,4232,1,Pounds,Namibia,Italy
+565,325,1928,5227,1,Pounds,Namibia,Italy
+565,325,1929,4853,1,Pounds,Namibia,Italy
+565,325,1944,0,1,Pounds,Namibia,Italy
+565,325,1945,0,1,Pounds,Namibia,Italy
+565,325,1946,1313,1,Pounds,Namibia,Italy
+565,325,1947,4200,1,Pounds,Namibia,Italy
+565,325,1948,1958,1,Pounds,Namibia,Italy
+565,325,1949,3562,1,Pounds,Namibia,Italy
+565,338,1919,0,1,Pounds,Namibia,Malta
+565,338,1920,0,1,Pounds,Namibia,Malta
+565,338,1921,0,1,Pounds,Namibia,Malta
+565,338,1922,0,1,Pounds,Namibia,Malta
+565,338,1923,0,1,Pounds,Namibia,Malta
+565,338,1924,1,1,Pounds,Namibia,Malta
+565,338,1926,0,1,Pounds,Namibia,Malta
+565,338,1927,0,1,Pounds,Namibia,Malta
+565,338,1928,0,1,Pounds,Namibia,Malta
+565,338,1929,0,1,Pounds,Namibia,Malta
+565,338,1944,0,1,Pounds,Namibia,Malta
+565,338,1945,0,1,Pounds,Namibia,Malta
+565,338,1946,0,1,Pounds,Namibia,Malta
+565,338,1947,15,1,Pounds,Namibia,Malta
+565,338,1948,0,1,Pounds,Namibia,Malta
+565,338,1949,0,1,Pounds,Namibia,Malta
+565,345,1919,0,1,Pounds,Namibia,Yugoslavia
+565,345,1920,0,1,Pounds,Namibia,Yugoslavia
+565,345,1921,0,1,Pounds,Namibia,Yugoslavia
+565,345,1922,0,1,Pounds,Namibia,Yugoslavia
+565,345,1923,0,1,Pounds,Namibia,Yugoslavia
+565,345,1924,16,1,Pounds,Namibia,Yugoslavia
+565,345,1926,1860,1,Pounds,Namibia,Yugoslavia
+565,345,1927,2,1,Pounds,Namibia,Yugoslavia
+565,345,1928,0,1,Pounds,Namibia,Yugoslavia
+565,345,1929,96,1,Pounds,Namibia,Yugoslavia
+565,345,1944,0,1,Pounds,Namibia,Yugoslavia
+565,345,1945,0,1,Pounds,Namibia,Yugoslavia
+565,345,1946,0,1,Pounds,Namibia,Yugoslavia
+565,345,1947,586,1,Pounds,Namibia,Yugoslavia
+565,345,1948,0,1,Pounds,Namibia,Yugoslavia
+565,345,1949,15,1,Pounds,Namibia,Yugoslavia
+565,350,1919,0,1,Pounds,Namibia,Greece
+565,350,1920,15,1,Pounds,Namibia,Greece
+565,350,1921,0,1,Pounds,Namibia,Greece
+565,350,1922,0,1,Pounds,Namibia,Greece
+565,350,1923,1,1,Pounds,Namibia,Greece
+565,350,1924,10,1,Pounds,Namibia,Greece
+565,350,1926,32,1,Pounds,Namibia,Greece
+565,350,1927,9,1,Pounds,Namibia,Greece
+565,350,1928,7,1,Pounds,Namibia,Greece
+565,350,1929,48,1,Pounds,Namibia,Greece
+565,350,1944,0,1,Pounds,Namibia,Greece
+565,350,1945,0,1,Pounds,Namibia,Greece
+565,350,1946,0,1,Pounds,Namibia,Greece
+565,350,1947,0,1,Pounds,Namibia,Greece
+565,350,1948,0,1,Pounds,Namibia,Greece
+565,350,1949,0,1,Pounds,Namibia,Greece
+565,360,1919,0,1,Pounds,Namibia,Romania
+565,360,1920,0,1,Pounds,Namibia,Romania
+565,360,1921,0,1,Pounds,Namibia,Romania
+565,360,1922,0,1,Pounds,Namibia,Romania
+565,360,1923,0,1,Pounds,Namibia,Romania
+565,360,1924,14,1,Pounds,Namibia,Romania
+565,360,1926,0,1,Pounds,Namibia,Romania
+565,360,1927,0,1,Pounds,Namibia,Romania
+565,360,1928,18,1,Pounds,Namibia,Romania
+565,360,1929,0,1,Pounds,Namibia,Romania
+565,360,1944,0,1,Pounds,Namibia,Romania
+565,360,1945,0,1,Pounds,Namibia,Romania
+565,360,1946,0,1,Pounds,Namibia,Romania
+565,360,1947,0,1,Pounds,Namibia,Romania
+565,360,1948,0,1,Pounds,Namibia,Romania
+565,360,1949,0,1,Pounds,Namibia,Romania
+565,365,1919,0,1,Pounds,Namibia,Russia
+565,365,1920,23,1,Pounds,Namibia,Russia
+565,365,1921,0,1,Pounds,Namibia,Russia
+565,365,1922,35,1,Pounds,Namibia,Russia
+565,365,1923,81,1,Pounds,Namibia,Russia
+565,365,1924,125,1,Pounds,Namibia,Russia
+565,365,1926,0,1,Pounds,Namibia,Russia
+565,365,1927,0,1,Pounds,Namibia,Russia
+565,365,1928,385,1,Pounds,Namibia,Russia
+565,365,1929,266,1,Pounds,Namibia,Russia
+565,365,1944,0,1,Pounds,Namibia,Russia
+565,365,1945,0,1,Pounds,Namibia,Russia
+565,365,1946,0,1,Pounds,Namibia,Russia
+565,365,1947,1740,1,Pounds,Namibia,Russia
+565,365,1948,0,1,Pounds,Namibia,Russia
+565,365,1949,0,1,Pounds,Namibia,Russia
+565,367,1919,0,1,Pounds,Namibia,Latvia
+565,367,1920,0,1,Pounds,Namibia,Latvia
+565,367,1921,0,1,Pounds,Namibia,Latvia
+565,367,1922,0,1,Pounds,Namibia,Latvia
+565,367,1923,0,1,Pounds,Namibia,Latvia
+565,367,1924,0,1,Pounds,Namibia,Latvia
+565,367,1926,0,1,Pounds,Namibia,Latvia
+565,367,1927,0,1,Pounds,Namibia,Latvia
+565,367,1928,513,1,Pounds,Namibia,Latvia
+565,367,1929,0,1,Pounds,Namibia,Latvia
+565,367,1944,0,1,Pounds,Namibia,Latvia
+565,367,1945,0,1,Pounds,Namibia,Latvia
+565,367,1946,0,1,Pounds,Namibia,Latvia
+565,367,1947,0,1,Pounds,Namibia,Latvia
+565,367,1948,0,1,Pounds,Namibia,Latvia
+565,367,1949,0,1,Pounds,Namibia,Latvia
+565,368,1919,0,1,Pounds,Namibia,Lithuania
+565,368,1920,0,1,Pounds,Namibia,Lithuania
+565,368,1921,0,1,Pounds,Namibia,Lithuania
+565,368,1922,0,1,Pounds,Namibia,Lithuania
+565,368,1923,0,1,Pounds,Namibia,Lithuania
+565,368,1924,0,1,Pounds,Namibia,Lithuania
+565,368,1926,0,1,Pounds,Namibia,Lithuania
+565,368,1927,0,1,Pounds,Namibia,Lithuania
+565,368,1928,0,1,Pounds,Namibia,Lithuania
+565,368,1929,222,1,Pounds,Namibia,Lithuania
+565,368,1944,0,1,Pounds,Namibia,Lithuania
+565,368,1945,0,1,Pounds,Namibia,Lithuania
+565,368,1946,0,1,Pounds,Namibia,Lithuania
+565,368,1947,0,1,Pounds,Namibia,Lithuania
+565,368,1948,0,1,Pounds,Namibia,Lithuania
+565,368,1949,0,1,Pounds,Namibia,Lithuania
+565,375,1919,0,1,Pounds,Namibia,Finland
+565,375,1920,0,1,Pounds,Namibia,Finland
+565,375,1921,34,1,Pounds,Namibia,Finland
+565,375,1922,95,1,Pounds,Namibia,Finland
+565,375,1923,269,1,Pounds,Namibia,Finland
+565,375,1924,137,1,Pounds,Namibia,Finland
+565,375,1926,194,1,Pounds,Namibia,Finland
+565,375,1927,1042,1,Pounds,Namibia,Finland
+565,375,1928,2596,1,Pounds,Namibia,Finland
+565,375,1929,20330,1,Pounds,Namibia,Finland
+565,375,1944,0,1,Pounds,Namibia,Finland
+565,375,1945,0,1,Pounds,Namibia,Finland
+565,375,1946,455,1,Pounds,Namibia,Finland
+565,375,1947,126,1,Pounds,Namibia,Finland
+565,375,1948,3804,1,Pounds,Namibia,Finland
+565,375,1949,11330,1,Pounds,Namibia,Finland
+565,380,1919,260,1,Pounds,Namibia,Sweden
+565,380,1920,16122,1,Pounds,Namibia,Sweden
+565,380,1921,2536,1,Pounds,Namibia,Sweden
+565,380,1922,2401,1,Pounds,Namibia,Sweden
+565,380,1923,4152,1,Pounds,Namibia,Sweden
+565,380,1924,13292,1,Pounds,Namibia,Sweden
+565,380,1926,0,1,Pounds,Namibia,Sweden
+565,380,1927,0,1,Pounds,Namibia,Sweden
+565,380,1928,33571,1,Pounds,Namibia,Sweden
+565,380,1929,23695,1,Pounds,Namibia,Sweden
+565,380,1944,0,1,Pounds,Namibia,Sweden
+565,380,1945,31,1,Pounds,Namibia,Sweden
+565,380,1946,9164,1,Pounds,Namibia,Sweden
+565,380,1947,54466,1,Pounds,Namibia,Sweden
+565,380,1948,65194,1,Pounds,Namibia,Sweden
+565,380,1949,40497,1,Pounds,Namibia,Sweden
+565,385,1919,218,1,Pounds,Namibia,Norway
+565,385,1920,1276,1,Pounds,Namibia,Norway
+565,385,1921,153,1,Pounds,Namibia,Norway
+565,385,1922,185,1,Pounds,Namibia,Norway
+565,385,1923,3214,1,Pounds,Namibia,Norway
+565,385,1924,6577,1,Pounds,Namibia,Norway
+565,385,1926,9249,1,Pounds,Namibia,Norway
+565,385,1927,11632,1,Pounds,Namibia,Norway
+565,385,1928,14031,1,Pounds,Namibia,Norway
+565,385,1929,20101,1,Pounds,Namibia,Norway
+565,385,1944,0,1,Pounds,Namibia,Norway
+565,385,1945,146,1,Pounds,Namibia,Norway
+565,385,1946,15801,1,Pounds,Namibia,Norway
+565,385,1947,31028,1,Pounds,Namibia,Norway
+565,385,1948,25200,1,Pounds,Namibia,Norway
+565,385,1949,38755,1,Pounds,Namibia,Norway
+565,390,1919,0,1,Pounds,Namibia,Denmark
+565,390,1920,140,1,Pounds,Namibia,Denmark
+565,390,1921,103,1,Pounds,Namibia,Denmark
+565,390,1922,123,1,Pounds,Namibia,Denmark
+565,390,1923,93,1,Pounds,Namibia,Denmark
+565,390,1924,784,1,Pounds,Namibia,Denmark
+565,390,1926,4219,1,Pounds,Namibia,Denmark
+565,390,1927,2042,1,Pounds,Namibia,Denmark
+565,390,1928,1071,1,Pounds,Namibia,Denmark
+565,390,1929,1066,1,Pounds,Namibia,Denmark
+565,390,1944,0,1,Pounds,Namibia,Denmark
+565,390,1945,0,1,Pounds,Namibia,Denmark
+565,390,1946,242,1,Pounds,Namibia,Denmark
+565,390,1947,14459,1,Pounds,Namibia,Denmark
+565,390,1948,8497,1,Pounds,Namibia,Denmark
+565,390,1949,10236,1,Pounds,Namibia,Denmark
+565,401,1919,0,1,Pounds,Namibia,Madeira
+565,401,1920,88,1,Pounds,Namibia,Madeira
+565,401,1921,96,1,Pounds,Namibia,Madeira
+565,401,1922,24,1,Pounds,Namibia,Madeira
+565,401,1923,19,1,Pounds,Namibia,Madeira
+565,401,1924,22,1,Pounds,Namibia,Madeira
+565,401,1926,0,1,Pounds,Namibia,Madeira
+565,401,1927,0,1,Pounds,Namibia,Madeira
+565,401,1928,36,1,Pounds,Namibia,Madeira
+565,401,1929,19,1,Pounds,Namibia,Madeira
+565,401,1944,0,1,Pounds,Namibia,Madeira
+565,401,1945,0,1,Pounds,Namibia,Madeira
+565,401,1946,339,1,Pounds,Namibia,Madeira
+565,401,1947,622,1,Pounds,Namibia,Madeira
+565,401,1948,283,1,Pounds,Namibia,Madeira
+565,401,1949,507,1,Pounds,Namibia,Madeira
+565,410,1919,0,1,Pounds,Namibia,Canary Islands
+565,410,1920,68,1,Pounds,Namibia,Canary Islands
+565,410,1921,80,1,Pounds,Namibia,Canary Islands
+565,410,1922,34,1,Pounds,Namibia,Canary Islands
+565,410,1923,461,1,Pounds,Namibia,Canary Islands
+565,410,1924,103,1,Pounds,Namibia,Canary Islands
+565,410,1926,0,1,Pounds,Namibia,Canary Islands
+565,410,1927,0,1,Pounds,Namibia,Canary Islands
+565,410,1928,731,1,Pounds,Namibia,Canary Islands
+565,410,1929,236,1,Pounds,Namibia,Canary Islands
+565,410,1944,0,1,Pounds,Namibia,Canary Islands
+565,410,1945,0,1,Pounds,Namibia,Canary Islands
+565,410,1946,0,1,Pounds,Namibia,Canary Islands
+565,410,1947,0,1,Pounds,Namibia,Canary Islands
+565,410,1948,0,1,Pounds,Namibia,Canary Islands
+565,410,1949,0,1,Pounds,Namibia,Canary Islands
+565,465,1919,0,1,Pounds,Namibia,British West Africa
+565,465,1920,0,1,Pounds,Namibia,British West Africa
+565,465,1921,34,1,Pounds,Namibia,British West Africa
+565,465,1922,0,1,Pounds,Namibia,British West Africa
+565,465,1923,0,1,Pounds,Namibia,British West Africa
+565,465,1924,0,1,Pounds,Namibia,British West Africa
+565,465,1926,0,1,Pounds,Namibia,British West Africa
+565,465,1927,0,1,Pounds,Namibia,British West Africa
+565,465,1928,1,1,Pounds,Namibia,British West Africa
+565,465,1929,0,1,Pounds,Namibia,British West Africa
+565,465,1944,0,1,Pounds,Namibia,British West Africa
+565,465,1945,0,1,Pounds,Namibia,British West Africa
+565,465,1946,0,1,Pounds,Namibia,British West Africa
+565,465,1947,15,1,Pounds,Namibia,British West Africa
+565,465,1948,0,1,Pounds,Namibia,British West Africa
+565,465,1949,0,1,Pounds,Namibia,British West Africa
+565,475,1919,5,1,Pounds,Namibia,Nigeria
+565,475,1920,0,1,Pounds,Namibia,Nigeria
+565,475,1921,0,1,Pounds,Namibia,Nigeria
+565,475,1922,0,1,Pounds,Namibia,Nigeria
+565,475,1923,0,1,Pounds,Namibia,Nigeria
+565,475,1924,0,1,Pounds,Namibia,Nigeria
+565,475,1926,0,1,Pounds,Namibia,Nigeria
+565,475,1927,0,1,Pounds,Namibia,Nigeria
+565,475,1928,0,1,Pounds,Namibia,Nigeria
+565,475,1929,0,1,Pounds,Namibia,Nigeria
+565,475,1944,0,1,Pounds,Namibia,Nigeria
+565,475,1945,0,1,Pounds,Namibia,Nigeria
+565,475,1946,0,1,Pounds,Namibia,Nigeria
+565,475,1947,0,1,Pounds,Namibia,Nigeria
+565,475,1948,0,1,Pounds,Namibia,Nigeria
+565,475,1949,0,1,Pounds,Namibia,Nigeria
+565,490,1919,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1920,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1921,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1922,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1923,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1924,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1926,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1927,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1928,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1929,0,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1944,3676,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1945,1115,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1946,4001,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1947,587,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1948,772,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,490,1949,1489,1,Pounds,Namibia,"Congo, Dem. Republic"
+565,500,1919,0,1,Pounds,Namibia,Uganda
+565,500,1920,0,1,Pounds,Namibia,Uganda
+565,500,1921,0,1,Pounds,Namibia,Uganda
+565,500,1922,0,1,Pounds,Namibia,Uganda
+565,500,1923,0,1,Pounds,Namibia,Uganda
+565,500,1924,0,1,Pounds,Namibia,Uganda
+565,500,1926,0,1,Pounds,Namibia,Uganda
+565,500,1927,0,1,Pounds,Namibia,Uganda
+565,500,1928,0,1,Pounds,Namibia,Uganda
+565,500,1929,0,1,Pounds,Namibia,Uganda
+565,500,1944,0,1,Pounds,Namibia,Uganda
+565,500,1945,0,1,Pounds,Namibia,Uganda
+565,500,1946,0,1,Pounds,Namibia,Uganda
+565,500,1947,0,1,Pounds,Namibia,Uganda
+565,500,1948,0,1,Pounds,Namibia,Uganda
+565,500,1949,813,1,Pounds,Namibia,Uganda
+565,501,1919,0,1,Pounds,Namibia,Kenya
+565,501,1920,0,1,Pounds,Namibia,Kenya
+565,501,1921,0,1,Pounds,Namibia,Kenya
+565,501,1922,0,1,Pounds,Namibia,Kenya
+565,501,1923,0,1,Pounds,Namibia,Kenya
+565,501,1924,0,1,Pounds,Namibia,Kenya
+565,501,1926,0,1,Pounds,Namibia,Kenya
+565,501,1927,0,1,Pounds,Namibia,Kenya
+565,501,1928,53,1,Pounds,Namibia,Kenya
+565,501,1929,0,1,Pounds,Namibia,Kenya
+565,501,1944,7,1,Pounds,Namibia,Kenya
+565,501,1945,2,1,Pounds,Namibia,Kenya
+565,501,1946,6,1,Pounds,Namibia,Kenya
+565,501,1947,12,1,Pounds,Namibia,Kenya
+565,501,1948,52,1,Pounds,Namibia,Kenya
+565,501,1949,3975,1,Pounds,Namibia,Kenya
+565,510,1919,0,1,Pounds,Namibia,Tanzania
+565,510,1920,0,1,Pounds,Namibia,Tanzania
+565,510,1921,0,1,Pounds,Namibia,Tanzania
+565,510,1922,0,1,Pounds,Namibia,Tanzania
+565,510,1923,0,1,Pounds,Namibia,Tanzania
+565,510,1924,0,1,Pounds,Namibia,Tanzania
+565,510,1926,0,1,Pounds,Namibia,Tanzania
+565,510,1927,0,1,Pounds,Namibia,Tanzania
+565,510,1928,0,1,Pounds,Namibia,Tanzania
+565,510,1929,0,1,Pounds,Namibia,Tanzania
+565,510,1944,0,1,Pounds,Namibia,Tanzania
+565,510,1945,1,1,Pounds,Namibia,Tanzania
+565,510,1946,0,1,Pounds,Namibia,Tanzania
+565,510,1947,1475,1,Pounds,Namibia,Tanzania
+565,510,1948,207,1,Pounds,Namibia,Tanzania
+565,510,1949,0,1,Pounds,Namibia,Tanzania
+565,511,1919,11,1,Pounds,Namibia,Zanzibar
+565,511,1920,0,1,Pounds,Namibia,Zanzibar
+565,511,1921,0,1,Pounds,Namibia,Zanzibar
+565,511,1922,0,1,Pounds,Namibia,Zanzibar
+565,511,1923,1,1,Pounds,Namibia,Zanzibar
+565,511,1924,3,1,Pounds,Namibia,Zanzibar
+565,511,1926,0,1,Pounds,Namibia,Zanzibar
+565,511,1927,0,1,Pounds,Namibia,Zanzibar
+565,511,1928,2,1,Pounds,Namibia,Zanzibar
+565,511,1929,31,1,Pounds,Namibia,Zanzibar
+565,511,1944,0,1,Pounds,Namibia,Zanzibar
+565,511,1945,0,1,Pounds,Namibia,Zanzibar
+565,511,1946,0,1,Pounds,Namibia,Zanzibar
+565,511,1947,0,1,Pounds,Namibia,Zanzibar
+565,511,1948,0,1,Pounds,Namibia,Zanzibar
+565,511,1949,0,1,Pounds,Namibia,Zanzibar
+565,540,1919,0,1,Pounds,Namibia,Angola
+565,540,1920,0,1,Pounds,Namibia,Angola
+565,540,1921,15,1,Pounds,Namibia,Angola
+565,540,1922,0,1,Pounds,Namibia,Angola
+565,540,1923,0,1,Pounds,Namibia,Angola
+565,540,1924,1,1,Pounds,Namibia,Angola
+565,540,1926,0,1,Pounds,Namibia,Angola
+565,540,1927,0,1,Pounds,Namibia,Angola
+565,540,1928,117,1,Pounds,Namibia,Angola
+565,540,1929,445,1,Pounds,Namibia,Angola
+565,540,1944,198,1,Pounds,Namibia,Angola
+565,540,1945,10,1,Pounds,Namibia,Angola
+565,540,1946,808,1,Pounds,Namibia,Angola
+565,540,1947,39,1,Pounds,Namibia,Angola
+565,540,1948,319,1,Pounds,Namibia,Angola
+565,540,1949,11,1,Pounds,Namibia,Angola
+565,541,1919,0,1,Pounds,Namibia,Mozambique
+565,541,1920,100,1,Pounds,Namibia,Mozambique
+565,541,1921,0,1,Pounds,Namibia,Mozambique
+565,541,1922,0,1,Pounds,Namibia,Mozambique
+565,541,1923,0,1,Pounds,Namibia,Mozambique
+565,541,1924,0,1,Pounds,Namibia,Mozambique
+565,541,1926,0,1,Pounds,Namibia,Mozambique
+565,541,1927,0,1,Pounds,Namibia,Mozambique
+565,541,1928,0,1,Pounds,Namibia,Mozambique
+565,541,1929,11,1,Pounds,Namibia,Mozambique
+565,541,1944,0,1,Pounds,Namibia,Mozambique
+565,541,1945,318,1,Pounds,Namibia,Mozambique
+565,541,1946,1,1,Pounds,Namibia,Mozambique
+565,541,1947,16,1,Pounds,Namibia,Mozambique
+565,541,1948,1123,1,Pounds,Namibia,Mozambique
+565,541,1949,1172,1,Pounds,Namibia,Mozambique
+565,551,1919,0,1,Pounds,Namibia,Zambia
+565,551,1920,0,1,Pounds,Namibia,Zambia
+565,551,1921,0,1,Pounds,Namibia,Zambia
+565,551,1922,0,1,Pounds,Namibia,Zambia
+565,551,1923,0,1,Pounds,Namibia,Zambia
+565,551,1924,0,1,Pounds,Namibia,Zambia
+565,551,1926,0,1,Pounds,Namibia,Zambia
+565,551,1927,0,1,Pounds,Namibia,Zambia
+565,551,1928,0,1,Pounds,Namibia,Zambia
+565,551,1929,0,1,Pounds,Namibia,Zambia
+565,551,1944,0,1,Pounds,Namibia,Zambia
+565,551,1945,0,1,Pounds,Namibia,Zambia
+565,551,1946,0,1,Pounds,Namibia,Zambia
+565,551,1947,150,1,Pounds,Namibia,Zambia
+565,551,1948,13,1,Pounds,Namibia,Zambia
+565,551,1949,32,1,Pounds,Namibia,Zambia
+565,552,1919,0,1,Pounds,Namibia,Zimbabwe
+565,552,1920,0,1,Pounds,Namibia,Zimbabwe
+565,552,1921,0,1,Pounds,Namibia,Zimbabwe
+565,552,1922,0,1,Pounds,Namibia,Zimbabwe
+565,552,1923,0,1,Pounds,Namibia,Zimbabwe
+565,552,1924,0,1,Pounds,Namibia,Zimbabwe
+565,552,1926,0,1,Pounds,Namibia,Zimbabwe
+565,552,1927,0,1,Pounds,Namibia,Zimbabwe
+565,552,1928,0,1,Pounds,Namibia,Zimbabwe
+565,552,1929,0,1,Pounds,Namibia,Zimbabwe
+565,552,1944,1935,1,Pounds,Namibia,Zimbabwe
+565,552,1945,5254,1,Pounds,Namibia,Zimbabwe
+565,552,1946,9511,1,Pounds,Namibia,Zimbabwe
+565,552,1947,16241,1,Pounds,Namibia,Zimbabwe
+565,552,1948,9325,1,Pounds,Namibia,Zimbabwe
+565,552,1949,16383,1,Pounds,Namibia,Zimbabwe
+565,560,1919,0,1,Pounds,Namibia,South Africa
+565,560,1920,0,1,Pounds,Namibia,South Africa
+565,560,1921,0,1,Pounds,Namibia,South Africa
+565,560,1922,0,1,Pounds,Namibia,South Africa
+565,560,1923,0,1,Pounds,Namibia,South Africa
+565,560,1924,0,1,Pounds,Namibia,South Africa
+565,560,1926,0,1,Pounds,Namibia,South Africa
+565,560,1927,0,1,Pounds,Namibia,South Africa
+565,560,1928,0,1,Pounds,Namibia,South Africa
+565,560,1929,0,1,Pounds,Namibia,South Africa
+565,560,1944,0,1,Pounds,Namibia,South Africa
+565,560,1945,4,1,Pounds,Namibia,South Africa
+565,560,1946,0,1,Pounds,Namibia,South Africa
+565,560,1947,14,1,Pounds,Namibia,South Africa
+565,560,1948,13,1,Pounds,Namibia,South Africa
+565,560,1949,608,1,Pounds,Namibia,South Africa
+565,573,1919,0,1,Pounds,Namibia,British South Africa
+565,573,1920,0,1,Pounds,Namibia,British South Africa
+565,573,1921,0,1,Pounds,Namibia,British South Africa
+565,573,1922,0,1,Pounds,Namibia,British South Africa
+565,573,1923,0,1,Pounds,Namibia,British South Africa
+565,573,1924,188,1,Pounds,Namibia,British South Africa
+565,573,1926,0,1,Pounds,Namibia,British South Africa
+565,573,1927,0,1,Pounds,Namibia,British South Africa
+565,573,1928,0,1,Pounds,Namibia,British South Africa
+565,573,1929,0,1,Pounds,Namibia,British South Africa
+565,573,1944,0,1,Pounds,Namibia,British South Africa
+565,573,1945,0,1,Pounds,Namibia,British South Africa
+565,573,1946,0,1,Pounds,Namibia,British South Africa
+565,573,1947,0,1,Pounds,Namibia,British South Africa
+565,573,1948,0,1,Pounds,Namibia,British South Africa
+565,573,1949,0,1,Pounds,Namibia,British South Africa
+565,580,1919,0,1,Pounds,Namibia,Madagascar
+565,580,1920,0,1,Pounds,Namibia,Madagascar
+565,580,1921,0,1,Pounds,Namibia,Madagascar
+565,580,1922,0,1,Pounds,Namibia,Madagascar
+565,580,1923,0,1,Pounds,Namibia,Madagascar
+565,580,1924,0,1,Pounds,Namibia,Madagascar
+565,580,1926,0,1,Pounds,Namibia,Madagascar
+565,580,1927,0,1,Pounds,Namibia,Madagascar
+565,580,1928,0,1,Pounds,Namibia,Madagascar
+565,580,1929,0,1,Pounds,Namibia,Madagascar
+565,580,1944,0,1,Pounds,Namibia,Madagascar
+565,580,1945,0,1,Pounds,Namibia,Madagascar
+565,580,1946,0,1,Pounds,Namibia,Madagascar
+565,580,1947,2,1,Pounds,Namibia,Madagascar
+565,580,1948,0,1,Pounds,Namibia,Madagascar
+565,580,1949,0,1,Pounds,Namibia,Madagascar
+565,590,1919,0,1,Pounds,Namibia,Mauritius
+565,590,1920,0,1,Pounds,Namibia,Mauritius
+565,590,1921,0,1,Pounds,Namibia,Mauritius
+565,590,1922,0,1,Pounds,Namibia,Mauritius
+565,590,1923,0,1,Pounds,Namibia,Mauritius
+565,590,1924,0,1,Pounds,Namibia,Mauritius
+565,590,1926,0,1,Pounds,Namibia,Mauritius
+565,590,1927,0,1,Pounds,Namibia,Mauritius
+565,590,1928,0,1,Pounds,Namibia,Mauritius
+565,590,1929,0,1,Pounds,Namibia,Mauritius
+565,590,1944,0,1,Pounds,Namibia,Mauritius
+565,590,1945,0,1,Pounds,Namibia,Mauritius
+565,590,1946,0,1,Pounds,Namibia,Mauritius
+565,590,1947,0,1,Pounds,Namibia,Mauritius
+565,590,1948,0,1,Pounds,Namibia,Mauritius
+565,590,1949,0,1,Pounds,Namibia,Mauritius
+565,615,1919,0,1,Pounds,Namibia,Algeria
+565,615,1920,0,1,Pounds,Namibia,Algeria
+565,615,1921,0,1,Pounds,Namibia,Algeria
+565,615,1922,0,1,Pounds,Namibia,Algeria
+565,615,1923,0,1,Pounds,Namibia,Algeria
+565,615,1924,0,1,Pounds,Namibia,Algeria
+565,615,1926,0,1,Pounds,Namibia,Algeria
+565,615,1927,0,1,Pounds,Namibia,Algeria
+565,615,1928,0,1,Pounds,Namibia,Algeria
+565,615,1929,0,1,Pounds,Namibia,Algeria
+565,615,1944,0,1,Pounds,Namibia,Algeria
+565,615,1945,0,1,Pounds,Namibia,Algeria
+565,615,1946,1,1,Pounds,Namibia,Algeria
+565,615,1947,2,1,Pounds,Namibia,Algeria
+565,615,1948,0,1,Pounds,Namibia,Algeria
+565,615,1949,4,1,Pounds,Namibia,Algeria
+565,625,1919,0,1,Pounds,Namibia,Sudan
+565,625,1920,0,1,Pounds,Namibia,Sudan
+565,625,1921,0,1,Pounds,Namibia,Sudan
+565,625,1922,0,1,Pounds,Namibia,Sudan
+565,625,1923,0,1,Pounds,Namibia,Sudan
+565,625,1924,0,1,Pounds,Namibia,Sudan
+565,625,1926,0,1,Pounds,Namibia,Sudan
+565,625,1927,0,1,Pounds,Namibia,Sudan
+565,625,1928,0,1,Pounds,Namibia,Sudan
+565,625,1929,0,1,Pounds,Namibia,Sudan
+565,625,1944,0,1,Pounds,Namibia,Sudan
+565,625,1945,0,1,Pounds,Namibia,Sudan
+565,625,1946,0,1,Pounds,Namibia,Sudan
+565,625,1947,84,1,Pounds,Namibia,Sudan
+565,625,1948,0,1,Pounds,Namibia,Sudan
+565,625,1949,0,1,Pounds,Namibia,Sudan
+565,630,1919,0,1,Pounds,Namibia,Iran
+565,630,1920,0,1,Pounds,Namibia,Iran
+565,630,1921,0,1,Pounds,Namibia,Iran
+565,630,1922,0,1,Pounds,Namibia,Iran
+565,630,1923,0,1,Pounds,Namibia,Iran
+565,630,1924,0,1,Pounds,Namibia,Iran
+565,630,1926,0,1,Pounds,Namibia,Iran
+565,630,1927,0,1,Pounds,Namibia,Iran
+565,630,1928,0,1,Pounds,Namibia,Iran
+565,630,1929,66,1,Pounds,Namibia,Iran
+565,630,1944,45887,1,Pounds,Namibia,Iran
+565,630,1945,44856,1,Pounds,Namibia,Iran
+565,630,1946,49672,1,Pounds,Namibia,Iran
+565,630,1947,162258,1,Pounds,Namibia,Iran
+565,630,1948,142603,1,Pounds,Namibia,Iran
+565,630,1949,178244,1,Pounds,Namibia,Iran
+565,640,1919,0,1,Pounds,Namibia,Turkey
+565,640,1920,8,1,Pounds,Namibia,Turkey
+565,640,1921,0,1,Pounds,Namibia,Turkey
+565,640,1922,0,1,Pounds,Namibia,Turkey
+565,640,1923,1,1,Pounds,Namibia,Turkey
+565,640,1924,21,1,Pounds,Namibia,Turkey
+565,640,1926,0,1,Pounds,Namibia,Turkey
+565,640,1927,0,1,Pounds,Namibia,Turkey
+565,640,1928,12,1,Pounds,Namibia,Turkey
+565,640,1929,22,1,Pounds,Namibia,Turkey
+565,640,1944,0,1,Pounds,Namibia,Turkey
+565,640,1945,0,1,Pounds,Namibia,Turkey
+565,640,1946,5,1,Pounds,Namibia,Turkey
+565,640,1947,0,1,Pounds,Namibia,Turkey
+565,640,1948,0,1,Pounds,Namibia,Turkey
+565,640,1949,0,1,Pounds,Namibia,Turkey
+565,645,1919,0,1,Pounds,Namibia,Iraq
+565,645,1920,0,1,Pounds,Namibia,Iraq
+565,645,1921,0,1,Pounds,Namibia,Iraq
+565,645,1922,0,1,Pounds,Namibia,Iraq
+565,645,1923,4,1,Pounds,Namibia,Iraq
+565,645,1924,10,1,Pounds,Namibia,Iraq
+565,645,1926,7,1,Pounds,Namibia,Iraq
+565,645,1927,28,1,Pounds,Namibia,Iraq
+565,645,1928,178,1,Pounds,Namibia,Iraq
+565,645,1929,331,1,Pounds,Namibia,Iraq
+565,645,1944,0,1,Pounds,Namibia,Iraq
+565,645,1945,0,1,Pounds,Namibia,Iraq
+565,645,1946,0,1,Pounds,Namibia,Iraq
+565,645,1947,0,1,Pounds,Namibia,Iraq
+565,645,1948,0,1,Pounds,Namibia,Iraq
+565,645,1949,62,1,Pounds,Namibia,Iraq
+565,651,1919,0,1,Pounds,Namibia,Egypt
+565,651,1920,0,1,Pounds,Namibia,Egypt
+565,651,1921,30,1,Pounds,Namibia,Egypt
+565,651,1922,9,1,Pounds,Namibia,Egypt
+565,651,1923,0,1,Pounds,Namibia,Egypt
+565,651,1924,21,1,Pounds,Namibia,Egypt
+565,651,1926,21,1,Pounds,Namibia,Egypt
+565,651,1927,0,1,Pounds,Namibia,Egypt
+565,651,1928,4,1,Pounds,Namibia,Egypt
+565,651,1929,0,1,Pounds,Namibia,Egypt
+565,651,1944,130,1,Pounds,Namibia,Egypt
+565,651,1945,1214,1,Pounds,Namibia,Egypt
+565,651,1946,59,1,Pounds,Namibia,Egypt
+565,651,1947,43,1,Pounds,Namibia,Egypt
+565,651,1948,0,1,Pounds,Namibia,Egypt
+565,651,1949,0,1,Pounds,Namibia,Egypt
+565,665,1919,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1920,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1921,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1922,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1923,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1924,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1926,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1927,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1928,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1929,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1944,0,1,Pounds,Namibia,West Bank And Gaza
+565,665,1945,1,1,Pounds,Namibia,West Bank And Gaza
+565,665,1946,279,1,Pounds,Namibia,West Bank And Gaza
+565,665,1947,587,1,Pounds,Namibia,West Bank And Gaza
+565,665,1948,185,1,Pounds,Namibia,West Bank And Gaza
+565,665,1949,0,1,Pounds,Namibia,West Bank And Gaza
+565,675,1919,0,1,Pounds,Namibia,Arabia
+565,675,1920,0,1,Pounds,Namibia,Arabia
+565,675,1921,0,1,Pounds,Namibia,Arabia
+565,675,1922,0,1,Pounds,Namibia,Arabia
+565,675,1923,0,1,Pounds,Namibia,Arabia
+565,675,1924,0,1,Pounds,Namibia,Arabia
+565,675,1926,0,1,Pounds,Namibia,Arabia
+565,675,1927,0,1,Pounds,Namibia,Arabia
+565,675,1928,0,1,Pounds,Namibia,Arabia
+565,675,1929,0,1,Pounds,Namibia,Arabia
+565,675,1944,0,1,Pounds,Namibia,Arabia
+565,675,1945,0,1,Pounds,Namibia,Arabia
+565,675,1946,0,1,Pounds,Namibia,Arabia
+565,675,1947,0,1,Pounds,Namibia,Arabia
+565,675,1948,0,1,Pounds,Namibia,Arabia
+565,675,1949,20265,1,Pounds,Namibia,Arabia
+565,692,1919,0,1,Pounds,Namibia,Bahrain
+565,692,1920,0,1,Pounds,Namibia,Bahrain
+565,692,1921,0,1,Pounds,Namibia,Bahrain
+565,692,1922,0,1,Pounds,Namibia,Bahrain
+565,692,1923,0,1,Pounds,Namibia,Bahrain
+565,692,1924,0,1,Pounds,Namibia,Bahrain
+565,692,1926,0,1,Pounds,Namibia,Bahrain
+565,692,1927,0,1,Pounds,Namibia,Bahrain
+565,692,1928,0,1,Pounds,Namibia,Bahrain
+565,692,1929,0,1,Pounds,Namibia,Bahrain
+565,692,1944,0,1,Pounds,Namibia,Bahrain
+565,692,1945,13468,1,Pounds,Namibia,Bahrain
+565,692,1946,0,1,Pounds,Namibia,Bahrain
+565,692,1947,0,1,Pounds,Namibia,Bahrain
+565,692,1948,0,1,Pounds,Namibia,Bahrain
+565,692,1949,0,1,Pounds,Namibia,Bahrain
+565,710,1919,0,1,Pounds,Namibia,China
+565,710,1920,338,1,Pounds,Namibia,China
+565,710,1921,0,1,Pounds,Namibia,China
+565,710,1922,132,1,Pounds,Namibia,China
+565,710,1923,1,1,Pounds,Namibia,China
+565,710,1924,25,1,Pounds,Namibia,China
+565,710,1926,0,1,Pounds,Namibia,China
+565,710,1927,0,1,Pounds,Namibia,China
+565,710,1928,135,1,Pounds,Namibia,China
+565,710,1929,78,1,Pounds,Namibia,China
+565,710,1944,0,1,Pounds,Namibia,China
+565,710,1945,0,1,Pounds,Namibia,China
+565,710,1946,0,1,Pounds,Namibia,China
+565,710,1947,734,1,Pounds,Namibia,China
+565,710,1948,0,1,Pounds,Namibia,China
+565,710,1949,3,1,Pounds,Namibia,China
+565,720,1919,0,1,Pounds,Namibia,Hong Kong
+565,720,1920,0,1,Pounds,Namibia,Hong Kong
+565,720,1921,0,1,Pounds,Namibia,Hong Kong
+565,720,1922,0,1,Pounds,Namibia,Hong Kong
+565,720,1923,0,1,Pounds,Namibia,Hong Kong
+565,720,1924,0,1,Pounds,Namibia,Hong Kong
+565,720,1926,13,1,Pounds,Namibia,Hong Kong
+565,720,1927,0,1,Pounds,Namibia,Hong Kong
+565,720,1928,57,1,Pounds,Namibia,Hong Kong
+565,720,1929,0,1,Pounds,Namibia,Hong Kong
+565,720,1944,0,1,Pounds,Namibia,Hong Kong
+565,720,1945,0,1,Pounds,Namibia,Hong Kong
+565,720,1946,0,1,Pounds,Namibia,Hong Kong
+565,720,1947,59,1,Pounds,Namibia,Hong Kong
+565,720,1948,42,1,Pounds,Namibia,Hong Kong
+565,720,1949,3514,1,Pounds,Namibia,Hong Kong
+565,740,1919,1,1,Pounds,Namibia,Japan
+565,740,1920,92,1,Pounds,Namibia,Japan
+565,740,1921,0,1,Pounds,Namibia,Japan
+565,740,1922,27,1,Pounds,Namibia,Japan
+565,740,1923,88,1,Pounds,Namibia,Japan
+565,740,1924,682,1,Pounds,Namibia,Japan
+565,740,1926,0,1,Pounds,Namibia,Japan
+565,740,1927,0,1,Pounds,Namibia,Japan
+565,740,1928,669,1,Pounds,Namibia,Japan
+565,740,1929,531,1,Pounds,Namibia,Japan
+565,740,1944,0,1,Pounds,Namibia,Japan
+565,740,1945,0,1,Pounds,Namibia,Japan
+565,740,1946,0,1,Pounds,Namibia,Japan
+565,740,1947,0,1,Pounds,Namibia,Japan
+565,740,1948,0,1,Pounds,Namibia,Japan
+565,740,1949,163,1,Pounds,Namibia,Japan
+565,750,1919,1196,1,Pounds,Namibia,India
+565,750,1920,66,1,Pounds,Namibia,India
+565,750,1921,3,1,Pounds,Namibia,India
+565,750,1922,524,1,Pounds,Namibia,India
+565,750,1923,1237,1,Pounds,Namibia,India
+565,750,1924,1414,1,Pounds,Namibia,India
+565,750,1926,2400,1,Pounds,Namibia,India
+565,750,1927,3266,1,Pounds,Namibia,India
+565,750,1928,3065,1,Pounds,Namibia,India
+565,750,1929,3277,1,Pounds,Namibia,India
+565,750,1944,1313,1,Pounds,Namibia,India
+565,750,1945,676,1,Pounds,Namibia,India
+565,750,1946,1316,1,Pounds,Namibia,India
+565,750,1947,2089,1,Pounds,Namibia,India
+565,750,1948,323,1,Pounds,Namibia,India
+565,750,1949,311,1,Pounds,Namibia,India
+565,775,1919,0,1,Pounds,Namibia,Myanmar
+565,775,1920,0,1,Pounds,Namibia,Myanmar
+565,775,1921,0,1,Pounds,Namibia,Myanmar
+565,775,1922,0,1,Pounds,Namibia,Myanmar
+565,775,1923,0,1,Pounds,Namibia,Myanmar
+565,775,1924,0,1,Pounds,Namibia,Myanmar
+565,775,1926,898,1,Pounds,Namibia,Myanmar
+565,775,1927,0,1,Pounds,Namibia,Myanmar
+565,775,1928,0,1,Pounds,Namibia,Myanmar
+565,775,1929,0,1,Pounds,Namibia,Myanmar
+565,775,1944,0,1,Pounds,Namibia,Myanmar
+565,775,1945,0,1,Pounds,Namibia,Myanmar
+565,775,1946,0,1,Pounds,Namibia,Myanmar
+565,775,1947,0,1,Pounds,Namibia,Myanmar
+565,775,1948,301,1,Pounds,Namibia,Myanmar
+565,775,1949,0,1,Pounds,Namibia,Myanmar
+565,780,1919,31,1,Pounds,Namibia,Sri Lanka
+565,780,1920,9,1,Pounds,Namibia,Sri Lanka
+565,780,1921,0,1,Pounds,Namibia,Sri Lanka
+565,780,1922,0,1,Pounds,Namibia,Sri Lanka
+565,780,1923,17,1,Pounds,Namibia,Sri Lanka
+565,780,1924,13,1,Pounds,Namibia,Sri Lanka
+565,780,1926,27,1,Pounds,Namibia,Sri Lanka
+565,780,1927,49,1,Pounds,Namibia,Sri Lanka
+565,780,1928,160,1,Pounds,Namibia,Sri Lanka
+565,780,1929,103,1,Pounds,Namibia,Sri Lanka
+565,780,1944,2,1,Pounds,Namibia,Sri Lanka
+565,780,1945,54,1,Pounds,Namibia,Sri Lanka
+565,780,1946,1,1,Pounds,Namibia,Sri Lanka
+565,780,1947,4,1,Pounds,Namibia,Sri Lanka
+565,780,1948,0,1,Pounds,Namibia,Sri Lanka
+565,780,1949,170,1,Pounds,Namibia,Sri Lanka
+565,800,1919,0,1,Pounds,Namibia,Thailand
+565,800,1920,0,1,Pounds,Namibia,Thailand
+565,800,1921,0,1,Pounds,Namibia,Thailand
+565,800,1922,86,1,Pounds,Namibia,Thailand
+565,800,1923,136,1,Pounds,Namibia,Thailand
+565,800,1924,447,1,Pounds,Namibia,Thailand
+565,800,1926,0,1,Pounds,Namibia,Thailand
+565,800,1927,0,1,Pounds,Namibia,Thailand
+565,800,1928,906,1,Pounds,Namibia,Thailand
+565,800,1929,889,1,Pounds,Namibia,Thailand
+565,800,1944,0,1,Pounds,Namibia,Thailand
+565,800,1945,0,1,Pounds,Namibia,Thailand
+565,800,1946,0,1,Pounds,Namibia,Thailand
+565,800,1947,0,1,Pounds,Namibia,Thailand
+565,800,1948,1818,1,Pounds,Namibia,Thailand
+565,800,1949,2431,1,Pounds,Namibia,Thailand
+565,820,1919,0,1,Pounds,Namibia,Malaysia
+565,820,1920,0,1,Pounds,Namibia,Malaysia
+565,820,1921,0,1,Pounds,Namibia,Malaysia
+565,820,1922,0,1,Pounds,Namibia,Malaysia
+565,820,1923,0,1,Pounds,Namibia,Malaysia
+565,820,1924,0,1,Pounds,Namibia,Malaysia
+565,820,1926,0,1,Pounds,Namibia,Malaysia
+565,820,1927,0,1,Pounds,Namibia,Malaysia
+565,820,1928,0,1,Pounds,Namibia,Malaysia
+565,820,1929,0,1,Pounds,Namibia,Malaysia
+565,820,1944,0,1,Pounds,Namibia,Malaysia
+565,820,1945,0,1,Pounds,Namibia,Malaysia
+565,820,1946,0,1,Pounds,Namibia,Malaysia
+565,820,1947,959,1,Pounds,Namibia,Malaysia
+565,820,1948,9301,1,Pounds,Namibia,Malaysia
+565,820,1949,73,1,Pounds,Namibia,Malaysia
+565,827,1919,27,1,Pounds,Namibia,Straits Settlement
+565,827,1920,86,1,Pounds,Namibia,Straits Settlement
+565,827,1921,0,1,Pounds,Namibia,Straits Settlement
+565,827,1922,9,1,Pounds,Namibia,Straits Settlement
+565,827,1923,7,1,Pounds,Namibia,Straits Settlement
+565,827,1924,20,1,Pounds,Namibia,Straits Settlement
+565,827,1926,21,1,Pounds,Namibia,Straits Settlement
+565,827,1927,5,1,Pounds,Namibia,Straits Settlement
+565,827,1928,44,1,Pounds,Namibia,Straits Settlement
+565,827,1929,87,1,Pounds,Namibia,Straits Settlement
+565,827,1944,0,1,Pounds,Namibia,Straits Settlement
+565,827,1945,0,1,Pounds,Namibia,Straits Settlement
+565,827,1946,0,1,Pounds,Namibia,Straits Settlement
+565,827,1947,0,1,Pounds,Namibia,Straits Settlement
+565,827,1948,0,1,Pounds,Namibia,Straits Settlement
+565,827,1949,0,1,Pounds,Namibia,Straits Settlement
+565,840,1919,0,1,Pounds,Namibia,Philippines
+565,840,1920,0,1,Pounds,Namibia,Philippines
+565,840,1921,0,1,Pounds,Namibia,Philippines
+565,840,1922,0,1,Pounds,Namibia,Philippines
+565,840,1923,0,1,Pounds,Namibia,Philippines
+565,840,1924,0,1,Pounds,Namibia,Philippines
+565,840,1926,0,1,Pounds,Namibia,Philippines
+565,840,1927,0,1,Pounds,Namibia,Philippines
+565,840,1928,0,1,Pounds,Namibia,Philippines
+565,840,1929,0,1,Pounds,Namibia,Philippines
+565,840,1944,0,1,Pounds,Namibia,Philippines
+565,840,1945,0,1,Pounds,Namibia,Philippines
+565,840,1946,0,1,Pounds,Namibia,Philippines
+565,840,1947,0,1,Pounds,Namibia,Philippines
+565,840,1948,1218,1,Pounds,Namibia,Philippines
+565,840,1949,518,1,Pounds,Namibia,Philippines
+565,900,1919,0,1,Pounds,Namibia,Australia
+565,900,1920,0,1,Pounds,Namibia,Australia
+565,900,1921,0,1,Pounds,Namibia,Australia
+565,900,1922,0,1,Pounds,Namibia,Australia
+565,900,1923,0,1,Pounds,Namibia,Australia
+565,900,1924,0,1,Pounds,Namibia,Australia
+565,900,1926,86,1,Pounds,Namibia,Australia
+565,900,1927,95,1,Pounds,Namibia,Australia
+565,900,1928,211,1,Pounds,Namibia,Australia
+565,900,1929,276,1,Pounds,Namibia,Australia
+565,900,1944,2,1,Pounds,Namibia,Australia
+565,900,1945,22,1,Pounds,Namibia,Australia
+565,900,1946,1189,1,Pounds,Namibia,Australia
+565,900,1947,13674,1,Pounds,Namibia,Australia
+565,900,1948,5908,1,Pounds,Namibia,Australia
+565,900,1949,4430,1,Pounds,Namibia,Australia
+565,920,1919,0,1,Pounds,Namibia,New Zealand
+565,920,1920,0,1,Pounds,Namibia,New Zealand
+565,920,1921,0,1,Pounds,Namibia,New Zealand
+565,920,1922,0,1,Pounds,Namibia,New Zealand
+565,920,1923,0,1,Pounds,Namibia,New Zealand
+565,920,1924,0,1,Pounds,Namibia,New Zealand
+565,920,1926,0,1,Pounds,Namibia,New Zealand
+565,920,1927,0,1,Pounds,Namibia,New Zealand
+565,920,1928,0,1,Pounds,Namibia,New Zealand
+565,920,1929,0,1,Pounds,Namibia,New Zealand
+565,920,1944,0,1,Pounds,Namibia,New Zealand
+565,920,1945,0,1,Pounds,Namibia,New Zealand
+565,920,1946,89,1,Pounds,Namibia,New Zealand
+565,920,1947,134,1,Pounds,Namibia,New Zealand
+565,920,1948,2,1,Pounds,Namibia,New Zealand
+565,920,1949,2,1,Pounds,Namibia,New Zealand
+565,1050,1919,6,1,Pounds,Namibia,British West Indies
+565,1050,1920,369,1,Pounds,Namibia,British West Indies
+565,1050,1921,0,1,Pounds,Namibia,British West Indies
+565,1050,1922,0,1,Pounds,Namibia,British West Indies
+565,1050,1923,71,1,Pounds,Namibia,British West Indies
+565,1050,1924,25,1,Pounds,Namibia,British West Indies
+565,1050,1926,26,1,Pounds,Namibia,British West Indies
+565,1050,1927,10,1,Pounds,Namibia,British West Indies
+565,1050,1928,38,1,Pounds,Namibia,British West Indies
+565,1050,1929,133,1,Pounds,Namibia,British West Indies
+565,1050,1944,0,1,Pounds,Namibia,British West Indies
+565,1050,1945,0,1,Pounds,Namibia,British West Indies
+565,1050,1946,133,1,Pounds,Namibia,British West Indies
+565,1050,1947,271,1,Pounds,Namibia,British West Indies
+565,1050,1948,20,1,Pounds,Namibia,British West Indies
+565,1050,1949,1848,1,Pounds,Namibia,British West Indies
+565,2200,1919,0,1,Pounds,Namibia,Other French possessions
+565,2200,1920,0,1,Pounds,Namibia,Other French possessions
+565,2200,1921,0,1,Pounds,Namibia,Other French possessions
+565,2200,1922,64,1,Pounds,Namibia,Other French possessions
+565,2200,1923,0,1,Pounds,Namibia,Other French possessions
+565,2200,1924,7,1,Pounds,Namibia,Other French possessions
+565,2200,1926,689,1,Pounds,Namibia,Other French possessions
+565,2200,1927,670,1,Pounds,Namibia,Other French possessions
+565,2200,1928,286,1,Pounds,Namibia,Other French possessions
+565,2200,1929,302,1,Pounds,Namibia,Other French possessions
+565,2200,1944,0,1,Pounds,Namibia,Other French possessions
+565,2200,1945,0,1,Pounds,Namibia,Other French possessions
+565,2200,1946,0,1,Pounds,Namibia,Other French possessions
+565,2200,1947,0,1,Pounds,Namibia,Other French possessions
+565,2200,1948,0,1,Pounds,Namibia,Other French possessions
+565,2200,1949,0,1,Pounds,Namibia,Other French possessions
+565,3250,1919,0,1,Pounds,Namibia,Italian Africa
+565,3250,1920,0,1,Pounds,Namibia,Italian Africa
+565,3250,1921,0,1,Pounds,Namibia,Italian Africa
+565,3250,1922,0,1,Pounds,Namibia,Italian Africa
+565,3250,1923,0,1,Pounds,Namibia,Italian Africa
+565,3250,1924,0,1,Pounds,Namibia,Italian Africa
+565,3250,1926,0,1,Pounds,Namibia,Italian Africa
+565,3250,1927,0,1,Pounds,Namibia,Italian Africa
+565,3250,1928,3,1,Pounds,Namibia,Italian Africa
+565,3250,1929,0,1,Pounds,Namibia,Italian Africa
+565,3250,1944,0,1,Pounds,Namibia,Italian Africa
+565,3250,1945,0,1,Pounds,Namibia,Italian Africa
+565,3250,1946,0,1,Pounds,Namibia,Italian Africa
+565,3250,1947,0,1,Pounds,Namibia,Italian Africa
+565,3250,1948,0,1,Pounds,Namibia,Italian Africa
+565,3250,1949,0,1,Pounds,Namibia,Italian Africa
+565,,1919,1169292,1,Pounds,Namibia,
+565,,1920,2469130,1,Pounds,Namibia,
+565,,1921,1340952,1,Pounds,Namibia,
+565,,1922,1304507,1,Pounds,Namibia,
+565,,1923,1519195,1,Pounds,Namibia,
+565,,1924,2262835,1,Pounds,Namibia,
+565,,1926,3114348,1,Pounds,Namibia,
+565,,1927,2964666,1,Pounds,Namibia,
+565,,1928,3765893,1,Pounds,Namibia,
+565,,1929,4217173,1,Pounds,Namibia,
+565,,1944,4100477,1,Pounds,Namibia,
+565,,1945,4992157,1,Pounds,Namibia,
+565,,1946,7174929,1,Pounds,Namibia,
+565,,1947,10845026,1,Pounds,Namibia,
+565,,1948,13124227,1,Pounds,Namibia,
+565,,1949,13062743,1,Pounds,Namibia,

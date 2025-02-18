@@ -1,0 +1,188 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+910,2,1920,0,1,,Papua New Guinea,United States
+910,2,1921,0,1,,Papua New Guinea,United States
+910,2,1922,0,1,,Papua New Guinea,United States
+910,2,1923,0,1,,Papua New Guinea,United States
+910,2,1924,2754,1,,Papua New Guinea,United States
+910,2,1925,13019,1,,Papua New Guinea,United States
+910,2,1926,24682,1,,Papua New Guinea,United States
+910,2,1927,24065,1,,Papua New Guinea,United States
+910,2,1928,16910,1,,Papua New Guinea,United States
+910,2,1929,128045,1,,Papua New Guinea,United States
+910,2,1930,107667,1,,Papua New Guinea,United States
+910,20,1920,0,1,,Papua New Guinea,Canada
+910,20,1921,0,1,,Papua New Guinea,Canada
+910,20,1922,0,1,,Papua New Guinea,Canada
+910,20,1923,0,1,,Papua New Guinea,Canada
+910,20,1924,0,1,,Papua New Guinea,Canada
+910,20,1925,0,1,,Papua New Guinea,Canada
+910,20,1926,0,1,,Papua New Guinea,Canada
+910,20,1927,0,1,,Papua New Guinea,Canada
+910,20,1928,0,1,,Papua New Guinea,Canada
+910,20,1929,8917,1,,Papua New Guinea,Canada
+910,20,1930,1056,1,,Papua New Guinea,Canada
+910,200,1920,0,1,,Papua New Guinea,United Kingdom
+910,200,1921,0,1,,Papua New Guinea,United Kingdom
+910,200,1922,0,1,,Papua New Guinea,United Kingdom
+910,200,1923,0,1,,Papua New Guinea,United Kingdom
+910,200,1924,0,1,,Papua New Guinea,United Kingdom
+910,200,1925,0,1,,Papua New Guinea,United Kingdom
+910,200,1926,0,1,,Papua New Guinea,United Kingdom
+910,200,1927,0,1,,Papua New Guinea,United Kingdom
+910,200,1928,0,1,,Papua New Guinea,United Kingdom
+910,200,1929,132755,1,,Papua New Guinea,United Kingdom
+910,200,1930,178527,1,,Papua New Guinea,United Kingdom
+910,211,1920,0,1,,Papua New Guinea,Belgium
+910,211,1921,0,1,,Papua New Guinea,Belgium
+910,211,1922,0,1,,Papua New Guinea,Belgium
+910,211,1923,0,1,,Papua New Guinea,Belgium
+910,211,1924,0,1,,Papua New Guinea,Belgium
+910,211,1925,0,1,,Papua New Guinea,Belgium
+910,211,1926,0,1,,Papua New Guinea,Belgium
+910,211,1927,0,1,,Papua New Guinea,Belgium
+910,211,1928,0,1,,Papua New Guinea,Belgium
+910,211,1929,3067,1,,Papua New Guinea,Belgium
+910,211,1930,4378,1,,Papua New Guinea,Belgium
+910,220,1920,0,1,,Papua New Guinea,France
+910,220,1921,0,1,,Papua New Guinea,France
+910,220,1922,0,1,,Papua New Guinea,France
+910,220,1923,0,1,,Papua New Guinea,France
+910,220,1924,0,1,,Papua New Guinea,France
+910,220,1925,0,1,,Papua New Guinea,France
+910,220,1926,0,1,,Papua New Guinea,France
+910,220,1927,0,1,,Papua New Guinea,France
+910,220,1928,0,1,,Papua New Guinea,France
+910,220,1929,5851,1,,Papua New Guinea,France
+910,220,1930,6844,1,,Papua New Guinea,France
+910,255,1920,0,1,,Papua New Guinea,Germany
+910,255,1921,0,1,,Papua New Guinea,Germany
+910,255,1922,0,1,,Papua New Guinea,Germany
+910,255,1923,0,1,,Papua New Guinea,Germany
+910,255,1924,0,1,,Papua New Guinea,Germany
+910,255,1925,0,1,,Papua New Guinea,Germany
+910,255,1926,0,1,,Papua New Guinea,Germany
+910,255,1927,0,1,,Papua New Guinea,Germany
+910,255,1928,14164,1,,Papua New Guinea,Germany
+910,255,1929,63491,1,,Papua New Guinea,Germany
+910,255,1930,54390,1,,Papua New Guinea,Germany
+910,380,1920,0,1,,Papua New Guinea,Sweden
+910,380,1921,0,1,,Papua New Guinea,Sweden
+910,380,1922,0,1,,Papua New Guinea,Sweden
+910,380,1923,0,1,,Papua New Guinea,Sweden
+910,380,1924,0,1,,Papua New Guinea,Sweden
+910,380,1925,0,1,,Papua New Guinea,Sweden
+910,380,1926,0,1,,Papua New Guinea,Sweden
+910,380,1927,0,1,,Papua New Guinea,Sweden
+910,380,1928,0,1,,Papua New Guinea,Sweden
+910,380,1929,7547,1,,Papua New Guinea,Sweden
+910,380,1930,5622,1,,Papua New Guinea,Sweden
+910,710,1920,0,1,,Papua New Guinea,China
+910,710,1921,0,1,,Papua New Guinea,China
+910,710,1922,0,1,,Papua New Guinea,China
+910,710,1923,0,1,,Papua New Guinea,China
+910,710,1924,2081,1,,Papua New Guinea,China
+910,710,1925,20976,1,,Papua New Guinea,China
+910,710,1926,9555,1,,Papua New Guinea,China
+910,710,1927,20345,1,,Papua New Guinea,China
+910,710,1928,32496,1,,Papua New Guinea,China
+910,710,1929,34856,1,,Papua New Guinea,China
+910,710,1930,27740,1,,Papua New Guinea,China
+910,740,1920,0,1,,Papua New Guinea,Japan
+910,740,1921,0,1,,Papua New Guinea,Japan
+910,740,1922,0,1,,Papua New Guinea,Japan
+910,740,1923,0,1,,Papua New Guinea,Japan
+910,740,1924,458,1,,Papua New Guinea,Japan
+910,740,1925,194,1,,Papua New Guinea,Japan
+910,740,1926,2848,1,,Papua New Guinea,Japan
+910,740,1927,0,1,,Papua New Guinea,Japan
+910,740,1928,10303,1,,Papua New Guinea,Japan
+910,740,1929,18805,1,,Papua New Guinea,Japan
+910,740,1930,23103,1,,Papua New Guinea,Japan
+910,750,1920,0,1,,Papua New Guinea,India
+910,750,1921,0,1,,Papua New Guinea,India
+910,750,1922,0,1,,Papua New Guinea,India
+910,750,1923,0,1,,Papua New Guinea,India
+910,750,1924,0,1,,Papua New Guinea,India
+910,750,1925,29394,1,,Papua New Guinea,India
+910,750,1926,45942,1,,Papua New Guinea,India
+910,750,1927,0,1,,Papua New Guinea,India
+910,750,1928,0,1,,Papua New Guinea,India
+910,750,1929,51615,1,,Papua New Guinea,India
+910,750,1930,51050,1,,Papua New Guinea,India
+910,775,1920,0,1,,Papua New Guinea,Myanmar
+910,775,1921,0,1,,Papua New Guinea,Myanmar
+910,775,1922,0,1,,Papua New Guinea,Myanmar
+910,775,1923,0,1,,Papua New Guinea,Myanmar
+910,775,1924,0,1,,Papua New Guinea,Myanmar
+910,775,1925,0,1,,Papua New Guinea,Myanmar
+910,775,1926,0,1,,Papua New Guinea,Myanmar
+910,775,1927,15675,1,,Papua New Guinea,Myanmar
+910,775,1928,0,1,,Papua New Guinea,Myanmar
+910,775,1929,44138,1,,Papua New Guinea,Myanmar
+910,775,1930,68338,1,,Papua New Guinea,Myanmar
+910,820,1920,0,1,,Papua New Guinea,Malaysia
+910,820,1921,0,1,,Papua New Guinea,Malaysia
+910,820,1922,0,1,,Papua New Guinea,Malaysia
+910,820,1923,0,1,,Papua New Guinea,Malaysia
+910,820,1924,0,1,,Papua New Guinea,Malaysia
+910,820,1925,0,1,,Papua New Guinea,Malaysia
+910,820,1926,0,1,,Papua New Guinea,Malaysia
+910,820,1927,0,1,,Papua New Guinea,Malaysia
+910,820,1928,0,1,,Papua New Guinea,Malaysia
+910,820,1929,5280,1,,Papua New Guinea,Malaysia
+910,820,1930,2644,1,,Papua New Guinea,Malaysia
+910,827,1920,0,1,,Papua New Guinea,Straits Settlement
+910,827,1921,0,1,,Papua New Guinea,Straits Settlement
+910,827,1922,0,1,,Papua New Guinea,Straits Settlement
+910,827,1923,0,1,,Papua New Guinea,Straits Settlement
+910,827,1924,0,1,,Papua New Guinea,Straits Settlement
+910,827,1925,0,1,,Papua New Guinea,Straits Settlement
+910,827,1926,1176,1,,Papua New Guinea,Straits Settlement
+910,827,1927,28279,1,,Papua New Guinea,Straits Settlement
+910,827,1928,11451,1,,Papua New Guinea,Straits Settlement
+910,827,1929,0,1,,Papua New Guinea,Straits Settlement
+910,827,1930,0,1,,Papua New Guinea,Straits Settlement
+910,851,1920,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1921,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1922,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1923,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1924,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1925,1496,1,,Papua New Guinea,Dutch New Guinea
+910,851,1926,46,1,,Papua New Guinea,Dutch New Guinea
+910,851,1927,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1928,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1929,0,1,,Papua New Guinea,Dutch New Guinea
+910,851,1930,0,1,,Papua New Guinea,Dutch New Guinea
+910,900,1920,506767,1,,Papua New Guinea,Australia
+910,900,1921,661441,1,,Papua New Guinea,Australia
+910,900,1922,468711,1,,Papua New Guinea,Australia
+910,900,1923,516455,1,,Papua New Guinea,Australia
+910,900,1924,480341,1,,Papua New Guinea,Australia
+910,900,1925,470574,1,,Papua New Guinea,Australia
+910,900,1926,484090,1,,Papua New Guinea,Australia
+910,900,1927,569704,1,,Papua New Guinea,Australia
+910,900,1928,725622,1,,Papua New Guinea,Australia
+910,900,1929,327716,1,,Papua New Guinea,Australia
+910,900,1930,292147,1,,Papua New Guinea,Australia
+910,920,1920,0,1,,Papua New Guinea,New Zealand
+910,920,1921,0,1,,Papua New Guinea,New Zealand
+910,920,1922,0,1,,Papua New Guinea,New Zealand
+910,920,1923,0,1,,Papua New Guinea,New Zealand
+910,920,1924,0,1,,Papua New Guinea,New Zealand
+910,920,1925,0,1,,Papua New Guinea,New Zealand
+910,920,1926,0,1,,Papua New Guinea,New Zealand
+910,920,1927,0,1,,Papua New Guinea,New Zealand
+910,920,1928,0,1,,Papua New Guinea,New Zealand
+910,920,1929,10539,1,,Papua New Guinea,New Zealand
+910,920,1930,10082,1,,Papua New Guinea,New Zealand
+910,,1920,506767,1,,Papua New Guinea,
+910,,1921,661441,1,,Papua New Guinea,
+910,,1922,468711,1,,Papua New Guinea,
+910,,1923,516455,1,,Papua New Guinea,
+910,,1924,485634,1,,Papua New Guinea,
+910,,1925,540227,1,,Papua New Guinea,
+910,,1926,568339,1,,Papua New Guinea,
+910,,1927,663438,1,,Papua New Guinea,
+910,,1928,812718,1,,Papua New Guinea,
+910,,1929,900260,1,,Papua New Guinea,
+910,,1930,930444,1,,Papua New Guinea,

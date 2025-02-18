@@ -1,0 +1,3169 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+780,2,1917,5580009,1,Rs,Sri Lanka,United States
+780,2,1918,5651017,1,Rs,Sri Lanka,United States
+780,2,1919,11374784,1,Rs,Sri Lanka,United States
+780,2,1920,10821428,1,Rs,Sri Lanka,United States
+780,2,1921,7095718,1,Rs,Sri Lanka,United States
+780,2,1922,6693398,1,Rs,Sri Lanka,United States
+780,2,1923,6464147,1,Rs,Sri Lanka,United States
+780,2,1924,8939095,1,Rs,Sri Lanka,United States
+780,2,1925,8882288,1,Rs,Sri Lanka,United States
+780,2,1926,12800068,1,Rs,Sri Lanka,United States
+780,2,1927,14155058,1,Rs,Sri Lanka,United States
+780,2,1928,15089518,1,Rs,Sri Lanka,United States
+780,2,1929,13494444,1,Rs,Sri Lanka,United States
+780,2,1930,9421941,1,Rs,Sri Lanka,United States
+780,2,1931,9071498,1,Rs,Sri Lanka,United States
+780,2,1932,4272021,1,Rs,Sri Lanka,United States
+780,2,1933,3233272,1,Rs,Sri Lanka,United States
+780,2,1934,5041137,1,Rs,Sri Lanka,United States
+780,2,1935,4853167,1,Rs,Sri Lanka,United States
+780,2,1936,4830093,1,Rs,Sri Lanka,United States
+780,2,1937,6226986,1,Rs,Sri Lanka,United States
+780,2,1938,5107316,1,Rs,Sri Lanka,United States
+780,2,1939,5960,1000,,Sri Lanka,United States
+780,2,1940,9441,1000,,Sri Lanka,United States
+780,2,1941,9379,1000,,Sri Lanka,United States
+780,2,1942,7116,1000,,Sri Lanka,United States
+780,2,1943,24594,1000,,Sri Lanka,United States
+780,2,1944,27328,1000,,Sri Lanka,United States
+780,2,1945,75570,1000,,Sri Lanka,United States
+780,2,1946,42267,1000,,Sri Lanka,United States
+780,2,1947,112778,1000,,Sri Lanka,United States
+780,2,1948,75667,1000,,Sri Lanka,United States
+780,2,1949,72991,1000,,Sri Lanka,United States
+780,20,1917,1329,1,Rs,Sri Lanka,Canada
+780,20,1918,19617,1,Rs,Sri Lanka,Canada
+780,20,1919,80692,1,Rs,Sri Lanka,Canada
+780,20,1920,1031591,1,Rs,Sri Lanka,Canada
+780,20,1921,714076,1,Rs,Sri Lanka,Canada
+780,20,1922,365153,1,Rs,Sri Lanka,Canada
+780,20,1923,1570457,1,Rs,Sri Lanka,Canada
+780,20,1924,1734756,1,Rs,Sri Lanka,Canada
+780,20,1925,1830386,1,Rs,Sri Lanka,Canada
+780,20,1926,2320189,1,Rs,Sri Lanka,Canada
+780,20,1927,1191141,1,Rs,Sri Lanka,Canada
+780,20,1928,2155886,1,Rs,Sri Lanka,Canada
+780,20,1929,1750949,1,Rs,Sri Lanka,Canada
+780,20,1930,1550694,1,Rs,Sri Lanka,Canada
+780,20,1931,377512,1,Rs,Sri Lanka,Canada
+780,20,1932,409605,1,Rs,Sri Lanka,Canada
+780,20,1933,349980,1,Rs,Sri Lanka,Canada
+780,20,1934,981603,1,Rs,Sri Lanka,Canada
+780,20,1935,805775,1,Rs,Sri Lanka,Canada
+780,20,1936,427760,1,Rs,Sri Lanka,Canada
+780,20,1937,728956,1,Rs,Sri Lanka,Canada
+780,20,1938,637494,1,Rs,Sri Lanka,Canada
+780,20,1939,1057,1000,,Sri Lanka,Canada
+780,20,1940,2182,1000,,Sri Lanka,Canada
+780,20,1941,2200,1000,,Sri Lanka,Canada
+780,20,1942,1801,1000,,Sri Lanka,Canada
+780,20,1943,6300,1000,,Sri Lanka,Canada
+780,20,1944,10644,1000,,Sri Lanka,Canada
+780,20,1945,18439,1000,,Sri Lanka,Canada
+780,20,1946,18735,1000,,Sri Lanka,Canada
+780,20,1947,66912,1000,,Sri Lanka,Canada
+780,20,1948,8169,1000,,Sri Lanka,Canada
+780,20,1949,10684,1000,,Sri Lanka,Canada
+780,21,1917,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1918,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1919,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1920,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1921,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1922,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1923,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1924,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1925,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1926,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1927,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1928,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1929,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1930,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1931,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1932,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1933,48,1,Rs,Sri Lanka,Newfoundland
+780,21,1934,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1935,157,1,Rs,Sri Lanka,Newfoundland
+780,21,1936,25,1,Rs,Sri Lanka,Newfoundland
+780,21,1937,0,1,Rs,Sri Lanka,Newfoundland
+780,21,1938,58,1,Rs,Sri Lanka,Newfoundland
+780,21,1939,1.6,1000,,Sri Lanka,Newfoundland
+780,21,1940,272,1000,,Sri Lanka,Newfoundland
+780,21,1941,203,1000,,Sri Lanka,Newfoundland
+780,21,1942,81,1000,,Sri Lanka,Newfoundland
+780,21,1943,191,1000,,Sri Lanka,Newfoundland
+780,21,1944,125,1000,,Sri Lanka,Newfoundland
+780,21,1945,38.6,1000,,Sri Lanka,Newfoundland
+780,21,1946,20,1000,,Sri Lanka,Newfoundland
+780,21,1947,67.09999999999999,1000,,Sri Lanka,Newfoundland
+780,21,1948,286,1000,,Sri Lanka,Newfoundland
+780,21,1949,0,1000,,Sri Lanka,Newfoundland
+780,40,1917,0,1,Rs,Sri Lanka,Cuba
+780,40,1918,0,1,Rs,Sri Lanka,Cuba
+780,40,1919,0,1,Rs,Sri Lanka,Cuba
+780,40,1920,0,1,Rs,Sri Lanka,Cuba
+780,40,1921,0,1,Rs,Sri Lanka,Cuba
+780,40,1922,0,1,Rs,Sri Lanka,Cuba
+780,40,1923,0,1,Rs,Sri Lanka,Cuba
+780,40,1924,0,1,Rs,Sri Lanka,Cuba
+780,40,1925,0,1,Rs,Sri Lanka,Cuba
+780,40,1926,0,1,Rs,Sri Lanka,Cuba
+780,40,1927,0,1,Rs,Sri Lanka,Cuba
+780,40,1928,0,1,Rs,Sri Lanka,Cuba
+780,40,1929,0,1,Rs,Sri Lanka,Cuba
+780,40,1930,0,1,Rs,Sri Lanka,Cuba
+780,40,1931,0,1,Rs,Sri Lanka,Cuba
+780,40,1932,0,1,Rs,Sri Lanka,Cuba
+780,40,1933,0,1,Rs,Sri Lanka,Cuba
+780,40,1934,0,1,Rs,Sri Lanka,Cuba
+780,40,1935,0,1,Rs,Sri Lanka,Cuba
+780,40,1936,0,1,Rs,Sri Lanka,Cuba
+780,40,1937,0,1,Rs,Sri Lanka,Cuba
+780,40,1938,5259,1,Rs,Sri Lanka,Cuba
+780,40,1939,0,1000,,Sri Lanka,Cuba
+780,40,1940,0,1000,,Sri Lanka,Cuba
+780,40,1941,0,1000,,Sri Lanka,Cuba
+780,40,1942,0,1000,,Sri Lanka,Cuba
+780,40,1943,0,1000,,Sri Lanka,Cuba
+780,40,1944,0,1000,,Sri Lanka,Cuba
+780,40,1945,0,1000,,Sri Lanka,Cuba
+780,40,1946,0,1000,,Sri Lanka,Cuba
+780,40,1947,0,1000,,Sri Lanka,Cuba
+780,40,1948,0,1000,,Sri Lanka,Cuba
+780,40,1949,0,1000,,Sri Lanka,Cuba
+780,41,1917,0,1,Rs,Sri Lanka,Haiti
+780,41,1918,0,1,Rs,Sri Lanka,Haiti
+780,41,1919,0,1,Rs,Sri Lanka,Haiti
+780,41,1920,0,1,Rs,Sri Lanka,Haiti
+780,41,1921,0,1,Rs,Sri Lanka,Haiti
+780,41,1922,0,1,Rs,Sri Lanka,Haiti
+780,41,1923,0,1,Rs,Sri Lanka,Haiti
+780,41,1924,0,1,Rs,Sri Lanka,Haiti
+780,41,1925,0,1,Rs,Sri Lanka,Haiti
+780,41,1926,0,1,Rs,Sri Lanka,Haiti
+780,41,1927,0,1,Rs,Sri Lanka,Haiti
+780,41,1928,0,1,Rs,Sri Lanka,Haiti
+780,41,1929,0,1,Rs,Sri Lanka,Haiti
+780,41,1930,0,1,Rs,Sri Lanka,Haiti
+780,41,1931,0,1,Rs,Sri Lanka,Haiti
+780,41,1932,0,1,Rs,Sri Lanka,Haiti
+780,41,1933,0,1,Rs,Sri Lanka,Haiti
+780,41,1934,0,1,Rs,Sri Lanka,Haiti
+780,41,1935,0,1,Rs,Sri Lanka,Haiti
+780,41,1936,0,1,Rs,Sri Lanka,Haiti
+780,41,1937,0,1,Rs,Sri Lanka,Haiti
+780,41,1938,2,1,Rs,Sri Lanka,Haiti
+780,41,1939,0,1000,,Sri Lanka,Haiti
+780,41,1940,0,1000,,Sri Lanka,Haiti
+780,41,1941,0,1000,,Sri Lanka,Haiti
+780,41,1942,0,1000,,Sri Lanka,Haiti
+780,41,1943,0,1000,,Sri Lanka,Haiti
+780,41,1944,0,1000,,Sri Lanka,Haiti
+780,41,1945,0,1000,,Sri Lanka,Haiti
+780,41,1946,0,1000,,Sri Lanka,Haiti
+780,41,1947,0,1000,,Sri Lanka,Haiti
+780,41,1948,0,1000,,Sri Lanka,Haiti
+780,41,1949,0,1000,,Sri Lanka,Haiti
+780,70,1917,0,1,Rs,Sri Lanka,Mexico
+780,70,1918,0,1,Rs,Sri Lanka,Mexico
+780,70,1919,0,1,Rs,Sri Lanka,Mexico
+780,70,1920,0,1,Rs,Sri Lanka,Mexico
+780,70,1921,0,1,Rs,Sri Lanka,Mexico
+780,70,1922,0,1,Rs,Sri Lanka,Mexico
+780,70,1923,0,1,Rs,Sri Lanka,Mexico
+780,70,1924,0,1,Rs,Sri Lanka,Mexico
+780,70,1925,0,1,Rs,Sri Lanka,Mexico
+780,70,1926,0,1,Rs,Sri Lanka,Mexico
+780,70,1927,41794,1,Rs,Sri Lanka,Mexico
+780,70,1928,111335,1,Rs,Sri Lanka,Mexico
+780,70,1929,266859,1,Rs,Sri Lanka,Mexico
+780,70,1930,159553,1,Rs,Sri Lanka,Mexico
+780,70,1931,66629,1,Rs,Sri Lanka,Mexico
+780,70,1932,33434,1,Rs,Sri Lanka,Mexico
+780,70,1933,33787,1,Rs,Sri Lanka,Mexico
+780,70,1934,67372,1,Rs,Sri Lanka,Mexico
+780,70,1935,0,1,Rs,Sri Lanka,Mexico
+780,70,1936,3278,1,Rs,Sri Lanka,Mexico
+780,70,1937,23,1,Rs,Sri Lanka,Mexico
+780,70,1938,2,1,Rs,Sri Lanka,Mexico
+780,70,1939,0,1000,,Sri Lanka,Mexico
+780,70,1940,.2,1000,,Sri Lanka,Mexico
+780,70,1941,.7,1000,,Sri Lanka,Mexico
+780,70,1942,1.3,1000,,Sri Lanka,Mexico
+780,70,1943,0,1000,,Sri Lanka,Mexico
+780,70,1944,0,1000,,Sri Lanka,Mexico
+780,70,1945,0,1000,,Sri Lanka,Mexico
+780,70,1946,363,1000,,Sri Lanka,Mexico
+780,70,1947,6376,1000,,Sri Lanka,Mexico
+780,70,1948,1481,1000,,Sri Lanka,Mexico
+780,70,1949,579,1000,,Sri Lanka,Mexico
+780,110,1917,0,1,Rs,Sri Lanka,Guyana
+780,110,1918,0,1,Rs,Sri Lanka,Guyana
+780,110,1919,0,1,Rs,Sri Lanka,Guyana
+780,110,1920,0,1,Rs,Sri Lanka,Guyana
+780,110,1921,0,1,Rs,Sri Lanka,Guyana
+780,110,1922,0,1,Rs,Sri Lanka,Guyana
+780,110,1923,0,1,Rs,Sri Lanka,Guyana
+780,110,1924,0,1,Rs,Sri Lanka,Guyana
+780,110,1925,0,1,Rs,Sri Lanka,Guyana
+780,110,1926,0,1,Rs,Sri Lanka,Guyana
+780,110,1927,0,1,Rs,Sri Lanka,Guyana
+780,110,1928,0,1,Rs,Sri Lanka,Guyana
+780,110,1929,48,1,Rs,Sri Lanka,Guyana
+780,110,1930,0,1,Rs,Sri Lanka,Guyana
+780,110,1931,0,1,Rs,Sri Lanka,Guyana
+780,110,1932,0,1,Rs,Sri Lanka,Guyana
+780,110,1933,0,1,Rs,Sri Lanka,Guyana
+780,110,1934,0,1,Rs,Sri Lanka,Guyana
+780,110,1935,25,1,Rs,Sri Lanka,Guyana
+780,110,1936,0,1,Rs,Sri Lanka,Guyana
+780,110,1937,0,1,Rs,Sri Lanka,Guyana
+780,110,1938,0,1,Rs,Sri Lanka,Guyana
+780,110,1939,0,1000,,Sri Lanka,Guyana
+780,110,1940,0,1000,,Sri Lanka,Guyana
+780,110,1941,0,1000,,Sri Lanka,Guyana
+780,110,1942,0,1000,,Sri Lanka,Guyana
+780,110,1943,0,1000,,Sri Lanka,Guyana
+780,110,1944,0,1000,,Sri Lanka,Guyana
+780,110,1945,0,1000,,Sri Lanka,Guyana
+780,110,1946,0,1000,,Sri Lanka,Guyana
+780,110,1947,0,1000,,Sri Lanka,Guyana
+780,110,1948,0,1000,,Sri Lanka,Guyana
+780,110,1949,0,1000,,Sri Lanka,Guyana
+780,135,1917,0,1,Rs,Sri Lanka,Peru
+780,135,1918,0,1,Rs,Sri Lanka,Peru
+780,135,1919,0,1,Rs,Sri Lanka,Peru
+780,135,1920,0,1,Rs,Sri Lanka,Peru
+780,135,1921,0,1,Rs,Sri Lanka,Peru
+780,135,1922,0,1,Rs,Sri Lanka,Peru
+780,135,1923,0,1,Rs,Sri Lanka,Peru
+780,135,1924,0,1,Rs,Sri Lanka,Peru
+780,135,1925,0,1,Rs,Sri Lanka,Peru
+780,135,1926,0,1,Rs,Sri Lanka,Peru
+780,135,1927,0,1,Rs,Sri Lanka,Peru
+780,135,1928,22,1,Rs,Sri Lanka,Peru
+780,135,1929,293,1,Rs,Sri Lanka,Peru
+780,135,1930,118,1,Rs,Sri Lanka,Peru
+780,135,1931,6957,1,Rs,Sri Lanka,Peru
+780,135,1932,0,1,Rs,Sri Lanka,Peru
+780,135,1933,16,1,Rs,Sri Lanka,Peru
+780,135,1934,228,1,Rs,Sri Lanka,Peru
+780,135,1935,39,1,Rs,Sri Lanka,Peru
+780,135,1936,32,1,Rs,Sri Lanka,Peru
+780,135,1937,1208,1,Rs,Sri Lanka,Peru
+780,135,1938,1137,1,Rs,Sri Lanka,Peru
+780,135,1939,0,1000,,Sri Lanka,Peru
+780,135,1940,0,1000,,Sri Lanka,Peru
+780,135,1941,0,1000,,Sri Lanka,Peru
+780,135,1942,0,1000,,Sri Lanka,Peru
+780,135,1943,0,1000,,Sri Lanka,Peru
+780,135,1944,0,1000,,Sri Lanka,Peru
+780,135,1945,0,1000,,Sri Lanka,Peru
+780,135,1946,0,1000,,Sri Lanka,Peru
+780,135,1947,0,1000,,Sri Lanka,Peru
+780,135,1948,0,1000,,Sri Lanka,Peru
+780,135,1949,0,1000,,Sri Lanka,Peru
+780,140,1917,0,1,Rs,Sri Lanka,Brazil
+780,140,1918,0,1,Rs,Sri Lanka,Brazil
+780,140,1919,0,1,Rs,Sri Lanka,Brazil
+780,140,1920,0,1,Rs,Sri Lanka,Brazil
+780,140,1921,0,1,Rs,Sri Lanka,Brazil
+780,140,1922,0,1,Rs,Sri Lanka,Brazil
+780,140,1923,0,1,Rs,Sri Lanka,Brazil
+780,140,1924,0,1,Rs,Sri Lanka,Brazil
+780,140,1925,0,1,Rs,Sri Lanka,Brazil
+780,140,1926,29919,1,Rs,Sri Lanka,Brazil
+780,140,1927,21570,1,Rs,Sri Lanka,Brazil
+780,140,1928,15393,1,Rs,Sri Lanka,Brazil
+780,140,1929,8835,1,Rs,Sri Lanka,Brazil
+780,140,1930,77800,1,Rs,Sri Lanka,Brazil
+780,140,1931,25518,1,Rs,Sri Lanka,Brazil
+780,140,1932,2006,1,Rs,Sri Lanka,Brazil
+780,140,1933,1346,1,Rs,Sri Lanka,Brazil
+780,140,1934,60611,1,Rs,Sri Lanka,Brazil
+780,140,1935,3006,1,Rs,Sri Lanka,Brazil
+780,140,1936,3297,1,Rs,Sri Lanka,Brazil
+780,140,1937,4514,1,Rs,Sri Lanka,Brazil
+780,140,1938,4402,1,Rs,Sri Lanka,Brazil
+780,140,1939,2,1000,,Sri Lanka,Brazil
+780,140,1940,1.5,1000,,Sri Lanka,Brazil
+780,140,1941,.1,1000,,Sri Lanka,Brazil
+780,140,1942,1871,1000,,Sri Lanka,Brazil
+780,140,1943,.1,1000,,Sri Lanka,Brazil
+780,140,1944,29653,1000,,Sri Lanka,Brazil
+780,140,1945,24739,1000,,Sri Lanka,Brazil
+780,140,1946,45435,1000,,Sri Lanka,Brazil
+780,140,1947,46818,1000,,Sri Lanka,Brazil
+780,140,1948,12517,1000,,Sri Lanka,Brazil
+780,140,1949,898,1000,,Sri Lanka,Brazil
+780,150,1917,0,1,Rs,Sri Lanka,Paraguay
+780,150,1918,0,1,Rs,Sri Lanka,Paraguay
+780,150,1919,0,1,Rs,Sri Lanka,Paraguay
+780,150,1920,0,1,Rs,Sri Lanka,Paraguay
+780,150,1921,0,1,Rs,Sri Lanka,Paraguay
+780,150,1922,0,1,Rs,Sri Lanka,Paraguay
+780,150,1923,0,1,Rs,Sri Lanka,Paraguay
+780,150,1924,0,1,Rs,Sri Lanka,Paraguay
+780,150,1925,0,1,Rs,Sri Lanka,Paraguay
+780,150,1926,0,1,Rs,Sri Lanka,Paraguay
+780,150,1927,0,1,Rs,Sri Lanka,Paraguay
+780,150,1928,0,1,Rs,Sri Lanka,Paraguay
+780,150,1929,0,1,Rs,Sri Lanka,Paraguay
+780,150,1930,0,1,Rs,Sri Lanka,Paraguay
+780,150,1931,0,1,Rs,Sri Lanka,Paraguay
+780,150,1932,0,1,Rs,Sri Lanka,Paraguay
+780,150,1933,0,1,Rs,Sri Lanka,Paraguay
+780,150,1934,0,1,Rs,Sri Lanka,Paraguay
+780,150,1935,0,1,Rs,Sri Lanka,Paraguay
+780,150,1936,0,1,Rs,Sri Lanka,Paraguay
+780,150,1937,0,1,Rs,Sri Lanka,Paraguay
+780,150,1938,936,1,Rs,Sri Lanka,Paraguay
+780,150,1939,0,1000,,Sri Lanka,Paraguay
+780,150,1940,0,1000,,Sri Lanka,Paraguay
+780,150,1941,0,1000,,Sri Lanka,Paraguay
+780,150,1942,0,1000,,Sri Lanka,Paraguay
+780,150,1943,0,1000,,Sri Lanka,Paraguay
+780,150,1944,0,1000,,Sri Lanka,Paraguay
+780,150,1945,0,1000,,Sri Lanka,Paraguay
+780,150,1946,0,1000,,Sri Lanka,Paraguay
+780,150,1947,0,1000,,Sri Lanka,Paraguay
+780,150,1948,0,1000,,Sri Lanka,Paraguay
+780,150,1949,0,1000,,Sri Lanka,Paraguay
+780,155,1917,0,1,Rs,Sri Lanka,Chile
+780,155,1918,0,1,Rs,Sri Lanka,Chile
+780,155,1919,138000,1,Rs,Sri Lanka,Chile
+780,155,1920,0,1,Rs,Sri Lanka,Chile
+780,155,1921,0,1,Rs,Sri Lanka,Chile
+780,155,1922,133281,1,Rs,Sri Lanka,Chile
+780,155,1923,154689,1,Rs,Sri Lanka,Chile
+780,155,1924,284819,1,Rs,Sri Lanka,Chile
+780,155,1925,256085,1,Rs,Sri Lanka,Chile
+780,155,1926,660505,1,Rs,Sri Lanka,Chile
+780,155,1927,727458,1,Rs,Sri Lanka,Chile
+780,155,1928,440101,1,Rs,Sri Lanka,Chile
+780,155,1929,681086,1,Rs,Sri Lanka,Chile
+780,155,1930,494696,1,Rs,Sri Lanka,Chile
+780,155,1931,183478,1,Rs,Sri Lanka,Chile
+780,155,1932,0,1,Rs,Sri Lanka,Chile
+780,155,1933,5263,1,Rs,Sri Lanka,Chile
+780,155,1934,48208,1,Rs,Sri Lanka,Chile
+780,155,1935,38919,1,Rs,Sri Lanka,Chile
+780,155,1936,34894,1,Rs,Sri Lanka,Chile
+780,155,1937,57807,1,Rs,Sri Lanka,Chile
+780,155,1938,58646,1,Rs,Sri Lanka,Chile
+780,155,1939,732,1000,,Sri Lanka,Chile
+780,155,1940,2633,1000,,Sri Lanka,Chile
+780,155,1941,2185,1000,,Sri Lanka,Chile
+780,155,1942,0,1000,,Sri Lanka,Chile
+780,155,1943,0,1000,,Sri Lanka,Chile
+780,155,1944,0,1000,,Sri Lanka,Chile
+780,155,1945,.1,1000,,Sri Lanka,Chile
+780,155,1946,.2,1000,,Sri Lanka,Chile
+780,155,1947,0,1000,,Sri Lanka,Chile
+780,155,1948,887,1000,,Sri Lanka,Chile
+780,155,1949,908,1000,,Sri Lanka,Chile
+780,160,1917,0,1,Rs,Sri Lanka,Argentina
+780,160,1918,0,1,Rs,Sri Lanka,Argentina
+780,160,1919,0,1,Rs,Sri Lanka,Argentina
+780,160,1920,0,1,Rs,Sri Lanka,Argentina
+780,160,1921,0,1,Rs,Sri Lanka,Argentina
+780,160,1922,0,1,Rs,Sri Lanka,Argentina
+780,160,1923,0,1,Rs,Sri Lanka,Argentina
+780,160,1924,0,1,Rs,Sri Lanka,Argentina
+780,160,1925,0,1,Rs,Sri Lanka,Argentina
+780,160,1926,54192,1,Rs,Sri Lanka,Argentina
+780,160,1927,47817,1,Rs,Sri Lanka,Argentina
+780,160,1928,257404,1,Rs,Sri Lanka,Argentina
+780,160,1929,16714,1,Rs,Sri Lanka,Argentina
+780,160,1930,61299,1,Rs,Sri Lanka,Argentina
+780,160,1931,46633,1,Rs,Sri Lanka,Argentina
+780,160,1932,159306,1,Rs,Sri Lanka,Argentina
+780,160,1933,22719,1,Rs,Sri Lanka,Argentina
+780,160,1934,200944,1,Rs,Sri Lanka,Argentina
+780,160,1935,59536,1,Rs,Sri Lanka,Argentina
+780,160,1936,20408,1,Rs,Sri Lanka,Argentina
+780,160,1937,19965,1,Rs,Sri Lanka,Argentina
+780,160,1938,29217,1,Rs,Sri Lanka,Argentina
+780,160,1939,11,1000,,Sri Lanka,Argentina
+780,160,1940,5.2,1000,,Sri Lanka,Argentina
+780,160,1941,.4,1000,,Sri Lanka,Argentina
+780,160,1942,2.8,1000,,Sri Lanka,Argentina
+780,160,1943,.1,1000,,Sri Lanka,Argentina
+780,160,1944,97.3,1000,,Sri Lanka,Argentina
+780,160,1945,11926,1000,,Sri Lanka,Argentina
+780,160,1946,20.2,1000,,Sri Lanka,Argentina
+780,160,1947,92.59999999999999,1000,,Sri Lanka,Argentina
+780,160,1948,913,1000,,Sri Lanka,Argentina
+780,160,1949,1144,1000,,Sri Lanka,Argentina
+780,165,1917,0,1,Rs,Sri Lanka,Uruguay
+780,165,1918,0,1,Rs,Sri Lanka,Uruguay
+780,165,1919,0,1,Rs,Sri Lanka,Uruguay
+780,165,1920,0,1,Rs,Sri Lanka,Uruguay
+780,165,1921,0,1,Rs,Sri Lanka,Uruguay
+780,165,1922,0,1,Rs,Sri Lanka,Uruguay
+780,165,1923,0,1,Rs,Sri Lanka,Uruguay
+780,165,1924,0,1,Rs,Sri Lanka,Uruguay
+780,165,1925,0,1,Rs,Sri Lanka,Uruguay
+780,165,1926,0,1,Rs,Sri Lanka,Uruguay
+780,165,1927,0,1,Rs,Sri Lanka,Uruguay
+780,165,1928,0,1,Rs,Sri Lanka,Uruguay
+780,165,1929,0,1,Rs,Sri Lanka,Uruguay
+780,165,1930,0,1,Rs,Sri Lanka,Uruguay
+780,165,1931,0,1,Rs,Sri Lanka,Uruguay
+780,165,1932,0,1,Rs,Sri Lanka,Uruguay
+780,165,1933,0,1,Rs,Sri Lanka,Uruguay
+780,165,1934,0,1,Rs,Sri Lanka,Uruguay
+780,165,1935,0,1,Rs,Sri Lanka,Uruguay
+780,165,1936,0,1,Rs,Sri Lanka,Uruguay
+780,165,1937,0,1,Rs,Sri Lanka,Uruguay
+780,165,1938,5893,1,Rs,Sri Lanka,Uruguay
+780,165,1939,0,1000,,Sri Lanka,Uruguay
+780,165,1940,0,1000,,Sri Lanka,Uruguay
+780,165,1941,0,1000,,Sri Lanka,Uruguay
+780,165,1942,0,1000,,Sri Lanka,Uruguay
+780,165,1943,0,1000,,Sri Lanka,Uruguay
+780,165,1944,0,1000,,Sri Lanka,Uruguay
+780,165,1945,0,1000,,Sri Lanka,Uruguay
+780,165,1946,0,1000,,Sri Lanka,Uruguay
+780,165,1947,0,1000,,Sri Lanka,Uruguay
+780,165,1948,0,1000,,Sri Lanka,Uruguay
+780,165,1949,0,1000,,Sri Lanka,Uruguay
+780,200,1917,32629076,1,Rs,Sri Lanka,United Kingdom
+780,200,1918,28634467,1,Rs,Sri Lanka,United Kingdom
+780,200,1919,33890842,1,Rs,Sri Lanka,United Kingdom
+780,200,1920,77443996,1,Rs,Sri Lanka,United Kingdom
+780,200,1921,65438017,1,Rs,Sri Lanka,United Kingdom
+780,200,1922,61924775,1,Rs,Sri Lanka,United Kingdom
+780,200,1923,63173668,1,Rs,Sri Lanka,United Kingdom
+780,200,1924,68177346,1,Rs,Sri Lanka,United Kingdom
+780,200,1925,77589720,1,Rs,Sri Lanka,United Kingdom
+780,200,1926,86409382,1,Rs,Sri Lanka,United Kingdom
+780,200,1927,88784981,1,Rs,Sri Lanka,United Kingdom
+780,200,1928,89481704,1,Rs,Sri Lanka,United Kingdom
+780,200,1929,89538799,1,Rs,Sri Lanka,United Kingdom
+780,200,1930,62538285,1,Rs,Sri Lanka,United Kingdom
+780,200,1931,40484877,1,Rs,Sri Lanka,United Kingdom
+780,200,1932,37082813,1,Rs,Sri Lanka,United Kingdom
+780,200,1933,30924619,1,Rs,Sri Lanka,United Kingdom
+780,200,1934,39850634,1,Rs,Sri Lanka,United Kingdom
+780,200,1935,46866282,1,Rs,Sri Lanka,United Kingdom
+780,200,1936,45236711,1,Rs,Sri Lanka,United Kingdom
+780,200,1937,53806959,1,Rs,Sri Lanka,United Kingdom
+780,200,1938,48623567,1,Rs,Sri Lanka,United Kingdom
+780,200,1939,45448,1000,,Sri Lanka,United Kingdom
+780,200,1940,48762,1000,,Sri Lanka,United Kingdom
+780,200,1941,32229,1000,,Sri Lanka,United Kingdom
+780,200,1942,27644,1000,,Sri Lanka,United Kingdom
+780,200,1943,29195,1000,,Sri Lanka,United Kingdom
+780,200,1944,39415,1000,,Sri Lanka,United Kingdom
+780,200,1945,67179,1000,,Sri Lanka,United Kingdom
+780,200,1946,115354,1000,,Sri Lanka,United Kingdom
+780,200,1947,168548,1000,,Sri Lanka,United Kingdom
+780,200,1948,174363,1000,,Sri Lanka,United Kingdom
+780,200,1949,185304,1000,,Sri Lanka,United Kingdom
+780,205,1917,0,1,Rs,Sri Lanka,Ireland
+780,205,1918,0,1,Rs,Sri Lanka,Ireland
+780,205,1919,0,1,Rs,Sri Lanka,Ireland
+780,205,1920,0,1,Rs,Sri Lanka,Ireland
+780,205,1921,0,1,Rs,Sri Lanka,Ireland
+780,205,1922,0,1,Rs,Sri Lanka,Ireland
+780,205,1923,0,1,Rs,Sri Lanka,Ireland
+780,205,1924,0,1,Rs,Sri Lanka,Ireland
+780,205,1925,0,1,Rs,Sri Lanka,Ireland
+780,205,1926,0,1,Rs,Sri Lanka,Ireland
+780,205,1927,4113,1,Rs,Sri Lanka,Ireland
+780,205,1928,7974,1,Rs,Sri Lanka,Ireland
+780,205,1929,32528,1,Rs,Sri Lanka,Ireland
+780,205,1930,40496,1,Rs,Sri Lanka,Ireland
+780,205,1931,29654,1,Rs,Sri Lanka,Ireland
+780,205,1932,31176,1,Rs,Sri Lanka,Ireland
+780,205,1933,39677,1,Rs,Sri Lanka,Ireland
+780,205,1934,39234,1,Rs,Sri Lanka,Ireland
+780,205,1935,34824,1,Rs,Sri Lanka,Ireland
+780,205,1936,29380,1,Rs,Sri Lanka,Ireland
+780,205,1937,41275,1,Rs,Sri Lanka,Ireland
+780,205,1938,28826,1,Rs,Sri Lanka,Ireland
+780,205,1939,19.5,1000,,Sri Lanka,Ireland
+780,205,1940,37,1000,,Sri Lanka,Ireland
+780,205,1941,8.300000000000001,1000,,Sri Lanka,Ireland
+780,205,1942,1.9,1000,,Sri Lanka,Ireland
+780,205,1943,10.5,1000,,Sri Lanka,Ireland
+780,205,1944,0,1000,,Sri Lanka,Ireland
+780,205,1945,0,1000,,Sri Lanka,Ireland
+780,205,1946,40.6,1000,,Sri Lanka,Ireland
+780,205,1947,12.9,1000,,Sri Lanka,Ireland
+780,205,1948,3.5,1000,,Sri Lanka,Ireland
+780,205,1949,.8,1000,,Sri Lanka,Ireland
+780,210,1917,1119737,1,Rs,Sri Lanka,Netherlands
+780,210,1918,464599,1,Rs,Sri Lanka,Netherlands
+780,210,1919,823787,1,Rs,Sri Lanka,Netherlands
+780,210,1920,3124881,1,Rs,Sri Lanka,Netherlands
+780,210,1921,2759300,1,Rs,Sri Lanka,Netherlands
+780,210,1922,3161398,1,Rs,Sri Lanka,Netherlands
+780,210,1923,4463655,1,Rs,Sri Lanka,Netherlands
+780,210,1924,4097659,1,Rs,Sri Lanka,Netherlands
+780,210,1925,4768323,1,Rs,Sri Lanka,Netherlands
+780,210,1926,6020273,1,Rs,Sri Lanka,Netherlands
+780,210,1927,6519740,1,Rs,Sri Lanka,Netherlands
+780,210,1928,4947964,1,Rs,Sri Lanka,Netherlands
+780,210,1929,4886796,1,Rs,Sri Lanka,Netherlands
+780,210,1930,3336908,1,Rs,Sri Lanka,Netherlands
+780,210,1931,1885858,1,Rs,Sri Lanka,Netherlands
+780,210,1932,1406790,1,Rs,Sri Lanka,Netherlands
+780,210,1933,974398,1,Rs,Sri Lanka,Netherlands
+780,210,1934,1018094,1,Rs,Sri Lanka,Netherlands
+780,210,1935,1092077,1,Rs,Sri Lanka,Netherlands
+780,210,1936,999486,1,Rs,Sri Lanka,Netherlands
+780,210,1937,1461985,1,Rs,Sri Lanka,Netherlands
+780,210,1938,1989266,1,Rs,Sri Lanka,Netherlands
+780,210,1939,1859,1000,,Sri Lanka,Netherlands
+780,210,1940,1058,1000,,Sri Lanka,Netherlands
+780,210,1941,9.4,1000,,Sri Lanka,Netherlands
+780,210,1942,2.1,1000,,Sri Lanka,Netherlands
+780,210,1943,5.8,1000,,Sri Lanka,Netherlands
+780,210,1944,1.7,1000,,Sri Lanka,Netherlands
+780,210,1945,1.4,1000,,Sri Lanka,Netherlands
+780,210,1946,1029,1000,,Sri Lanka,Netherlands
+780,210,1947,9058,1000,,Sri Lanka,Netherlands
+780,210,1948,5636,1000,,Sri Lanka,Netherlands
+780,210,1949,5528,1000,,Sri Lanka,Netherlands
+780,211,1917,10369,1,Rs,Sri Lanka,Belgium
+780,211,1918,5428,1,Rs,Sri Lanka,Belgium
+780,211,1919,323508,1,Rs,Sri Lanka,Belgium
+780,211,1920,1716831,1,Rs,Sri Lanka,Belgium
+780,211,1921,413764,1,Rs,Sri Lanka,Belgium
+780,211,1922,1045389,1,Rs,Sri Lanka,Belgium
+780,211,1923,1744765,1,Rs,Sri Lanka,Belgium
+780,211,1924,2683903,1,Rs,Sri Lanka,Belgium
+780,211,1925,2955912,1,Rs,Sri Lanka,Belgium
+780,211,1926,4057077,1,Rs,Sri Lanka,Belgium
+780,211,1927,4164562,1,Rs,Sri Lanka,Belgium
+780,211,1928,2954219,1,Rs,Sri Lanka,Belgium
+780,211,1929,3583161,1,Rs,Sri Lanka,Belgium
+780,211,1930,2327118,1,Rs,Sri Lanka,Belgium
+780,211,1931,1665202,1,Rs,Sri Lanka,Belgium
+780,211,1932,1307021,1,Rs,Sri Lanka,Belgium
+780,211,1933,1416561,1,Rs,Sri Lanka,Belgium
+780,211,1934,1847667,1,Rs,Sri Lanka,Belgium
+780,211,1935,1914227,1,Rs,Sri Lanka,Belgium
+780,211,1936,2923878,1,Rs,Sri Lanka,Belgium
+780,211,1937,4568795,1,Rs,Sri Lanka,Belgium
+780,211,1938,3730556,1,Rs,Sri Lanka,Belgium
+780,211,1939,3064,1000,,Sri Lanka,Belgium
+780,211,1940,1464,1000,,Sri Lanka,Belgium
+780,211,1941,30.5,1000,,Sri Lanka,Belgium
+780,211,1942,7.6,1000,,Sri Lanka,Belgium
+780,211,1943,1,1000,,Sri Lanka,Belgium
+780,211,1944,0,1000,,Sri Lanka,Belgium
+780,211,1945,.6,1000,,Sri Lanka,Belgium
+780,211,1946,1266,1000,,Sri Lanka,Belgium
+780,211,1947,10505,1000,,Sri Lanka,Belgium
+780,211,1948,16071,1000,,Sri Lanka,Belgium
+780,211,1949,21966,1000,,Sri Lanka,Belgium
+780,212,1917,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1918,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1919,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1920,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1921,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1922,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1923,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1924,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1925,0,1,Rs,Sri Lanka,Luxembourg
+780,212,1926,102515,1,Rs,Sri Lanka,Luxembourg
+780,212,1927,120108,1,Rs,Sri Lanka,Luxembourg
+780,212,1928,141890,1,Rs,Sri Lanka,Luxembourg
+780,212,1929,368438,1,Rs,Sri Lanka,Luxembourg
+780,212,1930,152126,1,Rs,Sri Lanka,Luxembourg
+780,212,1931,98305,1,Rs,Sri Lanka,Luxembourg
+780,212,1932,77279,1,Rs,Sri Lanka,Luxembourg
+780,212,1933,58607,1,Rs,Sri Lanka,Luxembourg
+780,212,1934,235525,1,Rs,Sri Lanka,Luxembourg
+780,212,1935,245111,1,Rs,Sri Lanka,Luxembourg
+780,212,1936,169332,1,Rs,Sri Lanka,Luxembourg
+780,212,1937,845899,1,Rs,Sri Lanka,Luxembourg
+780,212,1938,77102,1,Rs,Sri Lanka,Luxembourg
+780,212,1939,271,1000,,Sri Lanka,Luxembourg
+780,212,1940,15.3,1000,,Sri Lanka,Luxembourg
+780,212,1941,0,1000,,Sri Lanka,Luxembourg
+780,212,1942,0,1000,,Sri Lanka,Luxembourg
+780,212,1943,0,1000,,Sri Lanka,Luxembourg
+780,212,1944,0,1000,,Sri Lanka,Luxembourg
+780,212,1945,0,1000,,Sri Lanka,Luxembourg
+780,212,1946,0,1000,,Sri Lanka,Luxembourg
+780,212,1947,688,1000,,Sri Lanka,Luxembourg
+780,212,1948,1703,1000,,Sri Lanka,Luxembourg
+780,212,1949,712,1000,,Sri Lanka,Luxembourg
+780,220,1917,661476,1,Rs,Sri Lanka,France
+780,220,1918,768706,1,Rs,Sri Lanka,France
+780,220,1919,1594927,1,Rs,Sri Lanka,France
+780,220,1920,2758099,1,Rs,Sri Lanka,France
+780,220,1921,1940997,1,Rs,Sri Lanka,France
+780,220,1922,2184201,1,Rs,Sri Lanka,France
+780,220,1923,1668387,1,Rs,Sri Lanka,France
+780,220,1924,1910179,1,Rs,Sri Lanka,France
+780,220,1925,2626554,1,Rs,Sri Lanka,France
+780,220,1926,4587614,1,Rs,Sri Lanka,France
+780,220,1927,5002134,1,Rs,Sri Lanka,France
+780,220,1928,4922227,1,Rs,Sri Lanka,France
+780,220,1929,4781121,1,Rs,Sri Lanka,France
+780,220,1930,3080622,1,Rs,Sri Lanka,France
+780,220,1931,2293601,1,Rs,Sri Lanka,France
+780,220,1932,1682685,1,Rs,Sri Lanka,France
+780,220,1933,1255454,1,Rs,Sri Lanka,France
+780,220,1934,1792162,1,Rs,Sri Lanka,France
+780,220,1935,1626268,1,Rs,Sri Lanka,France
+780,220,1936,1347406,1,Rs,Sri Lanka,France
+780,220,1937,1773407,1,Rs,Sri Lanka,France
+780,220,1938,2476177,1,Rs,Sri Lanka,France
+780,220,1939,1835,1000,,Sri Lanka,France
+780,220,1940,858,1000,,Sri Lanka,France
+780,220,1941,87,1000,,Sri Lanka,France
+780,220,1942,36.9,1000,,Sri Lanka,France
+780,220,1943,1.9,1000,,Sri Lanka,France
+780,220,1944,.4,1000,,Sri Lanka,France
+780,220,1945,.8,1000,,Sri Lanka,France
+780,220,1946,1157,1000,,Sri Lanka,France
+780,220,1947,4838,1000,,Sri Lanka,France
+780,220,1948,2532,1000,,Sri Lanka,France
+780,220,1949,3712,1000,,Sri Lanka,France
+780,225,1917,298978,1,Rs,Sri Lanka,Switzerland
+780,225,1918,158583,1,Rs,Sri Lanka,Switzerland
+780,225,1919,357548,1,Rs,Sri Lanka,Switzerland
+780,225,1920,1334913,1,Rs,Sri Lanka,Switzerland
+780,225,1921,504497,1,Rs,Sri Lanka,Switzerland
+780,225,1922,351279,1,Rs,Sri Lanka,Switzerland
+780,225,1923,917823,1,Rs,Sri Lanka,Switzerland
+780,225,1924,1911625,1,Rs,Sri Lanka,Switzerland
+780,225,1925,844248,1,Rs,Sri Lanka,Switzerland
+780,225,1926,1293437,1,Rs,Sri Lanka,Switzerland
+780,225,1927,1150604,1,Rs,Sri Lanka,Switzerland
+780,225,1928,1340384,1,Rs,Sri Lanka,Switzerland
+780,225,1929,1551413,1,Rs,Sri Lanka,Switzerland
+780,225,1930,1066295,1,Rs,Sri Lanka,Switzerland
+780,225,1931,643340,1,Rs,Sri Lanka,Switzerland
+780,225,1932,461446,1,Rs,Sri Lanka,Switzerland
+780,225,1933,359839,1,Rs,Sri Lanka,Switzerland
+780,225,1934,378355,1,Rs,Sri Lanka,Switzerland
+780,225,1935,457921,1,Rs,Sri Lanka,Switzerland
+780,225,1936,709531,1,Rs,Sri Lanka,Switzerland
+780,225,1937,515259,1,Rs,Sri Lanka,Switzerland
+780,225,1938,641708,1,Rs,Sri Lanka,Switzerland
+780,225,1939,512,1000,,Sri Lanka,Switzerland
+780,225,1940,764,1000,,Sri Lanka,Switzerland
+780,225,1941,153,1000,,Sri Lanka,Switzerland
+780,225,1942,47.4,1000,,Sri Lanka,Switzerland
+780,225,1943,21.4,1000,,Sri Lanka,Switzerland
+780,225,1944,43.2,1000,,Sri Lanka,Switzerland
+780,225,1945,158,1000,,Sri Lanka,Switzerland
+780,225,1946,5392,1000,,Sri Lanka,Switzerland
+780,225,1947,4278,1000,,Sri Lanka,Switzerland
+780,225,1948,3027,1000,,Sri Lanka,Switzerland
+780,225,1949,6055,1000,,Sri Lanka,Switzerland
+780,230,1917,37941,1,Rs,Sri Lanka,Spain
+780,230,1918,38997,1,Rs,Sri Lanka,Spain
+780,230,1919,123727,1,Rs,Sri Lanka,Spain
+780,230,1920,154344,1,Rs,Sri Lanka,Spain
+780,230,1921,76283,1,Rs,Sri Lanka,Spain
+780,230,1922,130818,1,Rs,Sri Lanka,Spain
+780,230,1923,102093,1,Rs,Sri Lanka,Spain
+780,230,1924,197135,1,Rs,Sri Lanka,Spain
+780,230,1925,159769,1,Rs,Sri Lanka,Spain
+780,230,1926,268465,1,Rs,Sri Lanka,Spain
+780,230,1927,229785,1,Rs,Sri Lanka,Spain
+780,230,1928,270719,1,Rs,Sri Lanka,Spain
+780,230,1929,281168,1,Rs,Sri Lanka,Spain
+780,230,1930,221678,1,Rs,Sri Lanka,Spain
+780,230,1931,169632,1,Rs,Sri Lanka,Spain
+780,230,1932,229039,1,Rs,Sri Lanka,Spain
+780,230,1933,177200,1,Rs,Sri Lanka,Spain
+780,230,1934,147303,1,Rs,Sri Lanka,Spain
+780,230,1935,156561,1,Rs,Sri Lanka,Spain
+780,230,1936,139750,1,Rs,Sri Lanka,Spain
+780,230,1937,133851,1,Rs,Sri Lanka,Spain
+780,230,1938,128566,1,Rs,Sri Lanka,Spain
+780,230,1939,140,1000,,Sri Lanka,Spain
+780,230,1940,98.90000000000001,1000,,Sri Lanka,Spain
+780,230,1941,54,1000,,Sri Lanka,Spain
+780,230,1942,6.5,1000,,Sri Lanka,Spain
+780,230,1943,3.2,1000,,Sri Lanka,Spain
+780,230,1944,9.199999999999999,1000,,Sri Lanka,Spain
+780,230,1945,8.800000000000001,1000,,Sri Lanka,Spain
+780,230,1946,71.8,1000,,Sri Lanka,Spain
+780,230,1947,2906,1000,,Sri Lanka,Spain
+780,230,1948,523,1000,,Sri Lanka,Spain
+780,230,1949,241,1000,,Sri Lanka,Spain
+780,231,1917,2348,1,Rs,Sri Lanka,Gibraltar
+780,231,1918,674,1,Rs,Sri Lanka,Gibraltar
+780,231,1919,5722,1,Rs,Sri Lanka,Gibraltar
+780,231,1920,7316,1,Rs,Sri Lanka,Gibraltar
+780,231,1921,5865,1,Rs,Sri Lanka,Gibraltar
+780,231,1922,2127,1,Rs,Sri Lanka,Gibraltar
+780,231,1923,449,1,Rs,Sri Lanka,Gibraltar
+780,231,1924,1587,1,Rs,Sri Lanka,Gibraltar
+780,231,1925,11572,1,Rs,Sri Lanka,Gibraltar
+780,231,1926,17069,1,Rs,Sri Lanka,Gibraltar
+780,231,1927,29946,1,Rs,Sri Lanka,Gibraltar
+780,231,1928,10027,1,Rs,Sri Lanka,Gibraltar
+780,231,1929,26137,1,Rs,Sri Lanka,Gibraltar
+780,231,1930,6969,1,Rs,Sri Lanka,Gibraltar
+780,231,1931,4677,1,Rs,Sri Lanka,Gibraltar
+780,231,1932,1814,1,Rs,Sri Lanka,Gibraltar
+780,231,1933,410,1,Rs,Sri Lanka,Gibraltar
+780,231,1934,0,1,Rs,Sri Lanka,Gibraltar
+780,231,1935,0,1,Rs,Sri Lanka,Gibraltar
+780,231,1936,708,1,Rs,Sri Lanka,Gibraltar
+780,231,1937,0,1,Rs,Sri Lanka,Gibraltar
+780,231,1938,0,1,Rs,Sri Lanka,Gibraltar
+780,231,1939,0,1000,,Sri Lanka,Gibraltar
+780,231,1940,0,1000,,Sri Lanka,Gibraltar
+780,231,1941,0,1000,,Sri Lanka,Gibraltar
+780,231,1942,0,1000,,Sri Lanka,Gibraltar
+780,231,1943,0,1000,,Sri Lanka,Gibraltar
+780,231,1944,0,1000,,Sri Lanka,Gibraltar
+780,231,1945,0,1000,,Sri Lanka,Gibraltar
+780,231,1946,0,1000,,Sri Lanka,Gibraltar
+780,231,1947,0,1000,,Sri Lanka,Gibraltar
+780,231,1948,0,1000,,Sri Lanka,Gibraltar
+780,231,1949,0,1000,,Sri Lanka,Gibraltar
+780,235,1917,32295,1,Rs,Sri Lanka,Portugal
+780,235,1918,24316,1,Rs,Sri Lanka,Portugal
+780,235,1919,46769,1,Rs,Sri Lanka,Portugal
+780,235,1920,62806,1,Rs,Sri Lanka,Portugal
+780,235,1921,64804,1,Rs,Sri Lanka,Portugal
+780,235,1922,85591,1,Rs,Sri Lanka,Portugal
+780,235,1923,113923,1,Rs,Sri Lanka,Portugal
+780,235,1924,71274,1,Rs,Sri Lanka,Portugal
+780,235,1925,121540,1,Rs,Sri Lanka,Portugal
+780,235,1926,107144,1,Rs,Sri Lanka,Portugal
+780,235,1927,141718,1,Rs,Sri Lanka,Portugal
+780,235,1928,88087,1,Rs,Sri Lanka,Portugal
+780,235,1929,79927,1,Rs,Sri Lanka,Portugal
+780,235,1930,67271,1,Rs,Sri Lanka,Portugal
+780,235,1931,45708,1,Rs,Sri Lanka,Portugal
+780,235,1932,39719,1,Rs,Sri Lanka,Portugal
+780,235,1933,39333,1,Rs,Sri Lanka,Portugal
+780,235,1934,43166,1,Rs,Sri Lanka,Portugal
+780,235,1935,44408,1,Rs,Sri Lanka,Portugal
+780,235,1936,33879,1,Rs,Sri Lanka,Portugal
+780,235,1937,54020,1,Rs,Sri Lanka,Portugal
+780,235,1938,41899,1,Rs,Sri Lanka,Portugal
+780,235,1939,38.2,1000,,Sri Lanka,Portugal
+780,235,1940,103,1000,,Sri Lanka,Portugal
+780,235,1941,77.40000000000001,1000,,Sri Lanka,Portugal
+780,235,1942,15.7,1000,,Sri Lanka,Portugal
+780,235,1943,98.3,1000,,Sri Lanka,Portugal
+780,235,1944,42.1,1000,,Sri Lanka,Portugal
+780,235,1945,85.90000000000001,1000,,Sri Lanka,Portugal
+780,235,1946,319,1000,,Sri Lanka,Portugal
+780,235,1947,685,1000,,Sri Lanka,Portugal
+780,235,1948,128,1000,,Sri Lanka,Portugal
+780,235,1949,108,1000,,Sri Lanka,Portugal
+780,255,1917,11443,1,Rs,Sri Lanka,Germany
+780,255,1918,131,1,Rs,Sri Lanka,Germany
+780,255,1919,1968,1,Rs,Sri Lanka,Germany
+780,255,1920,862540,1,Rs,Sri Lanka,Germany
+780,255,1921,1463786,1,Rs,Sri Lanka,Germany
+780,255,1922,3697918,1,Rs,Sri Lanka,Germany
+780,255,1923,3951914,1,Rs,Sri Lanka,Germany
+780,255,1924,5426655,1,Rs,Sri Lanka,Germany
+780,255,1925,5701513,1,Rs,Sri Lanka,Germany
+780,255,1926,10350461,1,Rs,Sri Lanka,Germany
+780,255,1927,8904743,1,Rs,Sri Lanka,Germany
+780,255,1928,10000302,1,Rs,Sri Lanka,Germany
+780,255,1929,10521331,1,Rs,Sri Lanka,Germany
+780,255,1930,6624936,1,Rs,Sri Lanka,Germany
+780,255,1931,4249735,1,Rs,Sri Lanka,Germany
+780,255,1932,3258208,1,Rs,Sri Lanka,Germany
+780,255,1933,2719085,1,Rs,Sri Lanka,Germany
+780,255,1934,3550270,1,Rs,Sri Lanka,Germany
+780,255,1935,4638587,1,Rs,Sri Lanka,Germany
+780,255,1936,4353830,1,Rs,Sri Lanka,Germany
+780,255,1937,5678092,1,Rs,Sri Lanka,Germany
+780,255,1938,4863951,1,Rs,Sri Lanka,Germany
+780,255,1939,4607,1000,,Sri Lanka,Germany
+780,255,1940,115,1000,,Sri Lanka,Germany
+780,255,1941,74.90000000000001,1000,,Sri Lanka,Germany
+780,255,1942,10.2,1000,,Sri Lanka,Germany
+780,255,1943,30.1,1000,,Sri Lanka,Germany
+780,255,1944,20,1000,,Sri Lanka,Germany
+780,255,1945,3.2,1000,,Sri Lanka,Germany
+780,255,1946,3.7,1000,,Sri Lanka,Germany
+780,255,1947,189,1000,,Sri Lanka,Germany
+780,255,1948,3626,1000,,Sri Lanka,Germany
+780,255,1949,7016,1000,,Sri Lanka,Germany
+780,290,1917,0,1,Rs,Sri Lanka,Poland
+780,290,1918,0,1,Rs,Sri Lanka,Poland
+780,290,1919,0,1,Rs,Sri Lanka,Poland
+780,290,1920,0,1,Rs,Sri Lanka,Poland
+780,290,1921,0,1,Rs,Sri Lanka,Poland
+780,290,1922,0,1,Rs,Sri Lanka,Poland
+780,290,1923,0,1,Rs,Sri Lanka,Poland
+780,290,1924,0,1,Rs,Sri Lanka,Poland
+780,290,1925,0,1,Rs,Sri Lanka,Poland
+780,290,1926,117153,1,Rs,Sri Lanka,Poland
+780,290,1927,17812,1,Rs,Sri Lanka,Poland
+780,290,1928,47360,1,Rs,Sri Lanka,Poland
+780,290,1929,118481,1,Rs,Sri Lanka,Poland
+780,290,1930,86617,1,Rs,Sri Lanka,Poland
+780,290,1931,68472,1,Rs,Sri Lanka,Poland
+780,290,1932,70322,1,Rs,Sri Lanka,Poland
+780,290,1933,168758,1,Rs,Sri Lanka,Poland
+780,290,1934,265269,1,Rs,Sri Lanka,Poland
+780,290,1935,145247,1,Rs,Sri Lanka,Poland
+780,290,1936,236529,1,Rs,Sri Lanka,Poland
+780,290,1937,145501,1,Rs,Sri Lanka,Poland
+780,290,1938,209313,1,Rs,Sri Lanka,Poland
+780,290,1939,0,1000,,Sri Lanka,Poland
+780,290,1940,0,1000,,Sri Lanka,Poland
+780,290,1941,0,1000,,Sri Lanka,Poland
+780,290,1942,0,1000,,Sri Lanka,Poland
+780,290,1943,0,1000,,Sri Lanka,Poland
+780,290,1944,0,1000,,Sri Lanka,Poland
+780,290,1945,0,1000,,Sri Lanka,Poland
+780,290,1946,0,1000,,Sri Lanka,Poland
+780,290,1947,0,1000,,Sri Lanka,Poland
+780,290,1948,0,1000,,Sri Lanka,Poland
+780,290,1949,0,1000,,Sri Lanka,Poland
+780,300,1917,1642,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1918,176,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1919,114,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1920,59046,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1921,52737,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1922,54336,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1923,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1924,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1925,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1926,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1927,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1928,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1929,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1930,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1931,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1932,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1933,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1934,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1935,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1936,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1937,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1938,0,1,Rs,Sri Lanka,Austria-Hungary
+780,300,1939,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1940,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1941,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1942,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1943,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1944,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1945,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1946,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1947,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1948,0,1000,,Sri Lanka,Austria-Hungary
+780,300,1949,0,1000,,Sri Lanka,Austria-Hungary
+780,305,1917,0,1,Rs,Sri Lanka,Austria
+780,305,1918,0,1,Rs,Sri Lanka,Austria
+780,305,1919,0,1,Rs,Sri Lanka,Austria
+780,305,1920,0,1,Rs,Sri Lanka,Austria
+780,305,1921,0,1,Rs,Sri Lanka,Austria
+780,305,1922,0,1,Rs,Sri Lanka,Austria
+780,305,1923,114375,1,Rs,Sri Lanka,Austria
+780,305,1924,385205,1,Rs,Sri Lanka,Austria
+780,305,1925,263026,1,Rs,Sri Lanka,Austria
+780,305,1926,437254,1,Rs,Sri Lanka,Austria
+780,305,1927,621264,1,Rs,Sri Lanka,Austria
+780,305,1928,614752,1,Rs,Sri Lanka,Austria
+780,305,1929,544565,1,Rs,Sri Lanka,Austria
+780,305,1930,340805,1,Rs,Sri Lanka,Austria
+780,305,1931,184757,1,Rs,Sri Lanka,Austria
+780,305,1932,129885,1,Rs,Sri Lanka,Austria
+780,305,1933,94978,1,Rs,Sri Lanka,Austria
+780,305,1934,163634,1,Rs,Sri Lanka,Austria
+780,305,1935,130526,1,Rs,Sri Lanka,Austria
+780,305,1936,135102,1,Rs,Sri Lanka,Austria
+780,305,1937,354073,1,Rs,Sri Lanka,Austria
+780,305,1938,371475,1,Rs,Sri Lanka,Austria
+780,305,1939,0,1000,,Sri Lanka,Austria
+780,305,1940,0,1000,,Sri Lanka,Austria
+780,305,1941,0,1000,,Sri Lanka,Austria
+780,305,1942,0,1000,,Sri Lanka,Austria
+780,305,1943,0,1000,,Sri Lanka,Austria
+780,305,1944,0,1000,,Sri Lanka,Austria
+780,305,1945,0,1000,,Sri Lanka,Austria
+780,305,1946,0,1000,,Sri Lanka,Austria
+780,305,1947,0,1000,,Sri Lanka,Austria
+780,305,1948,0,1000,,Sri Lanka,Austria
+780,305,1949,0,1000,,Sri Lanka,Austria
+780,310,1917,0,1,Rs,Sri Lanka,Hungary
+780,310,1918,0,1,Rs,Sri Lanka,Hungary
+780,310,1919,0,1,Rs,Sri Lanka,Hungary
+780,310,1920,0,1,Rs,Sri Lanka,Hungary
+780,310,1921,0,1,Rs,Sri Lanka,Hungary
+780,310,1922,0,1,Rs,Sri Lanka,Hungary
+780,310,1923,0,1,Rs,Sri Lanka,Hungary
+780,310,1924,0,1,Rs,Sri Lanka,Hungary
+780,310,1925,0,1,Rs,Sri Lanka,Hungary
+780,310,1926,54790,1,Rs,Sri Lanka,Hungary
+780,310,1927,17506,1,Rs,Sri Lanka,Hungary
+780,310,1928,5582,1,Rs,Sri Lanka,Hungary
+780,310,1929,834422,1,Rs,Sri Lanka,Hungary
+780,310,1930,9761,1,Rs,Sri Lanka,Hungary
+780,310,1931,227805,1,Rs,Sri Lanka,Hungary
+780,310,1932,6162,1,Rs,Sri Lanka,Hungary
+780,310,1933,8190,1,Rs,Sri Lanka,Hungary
+780,310,1934,61397,1,Rs,Sri Lanka,Hungary
+780,310,1935,16482,1,Rs,Sri Lanka,Hungary
+780,310,1936,11904,1,Rs,Sri Lanka,Hungary
+780,310,1937,20954,1,Rs,Sri Lanka,Hungary
+780,310,1938,38628,1,Rs,Sri Lanka,Hungary
+780,310,1939,80.40000000000001,1000,,Sri Lanka,Hungary
+780,310,1940,7.1,1000,,Sri Lanka,Hungary
+780,310,1941,.2,1000,,Sri Lanka,Hungary
+780,310,1942,0,1000,,Sri Lanka,Hungary
+780,310,1943,0,1000,,Sri Lanka,Hungary
+780,310,1944,0,1000,,Sri Lanka,Hungary
+780,310,1945,0,1000,,Sri Lanka,Hungary
+780,310,1946,0,1000,,Sri Lanka,Hungary
+780,310,1947,.8,1000,,Sri Lanka,Hungary
+780,310,1948,2.2,1000,,Sri Lanka,Hungary
+780,310,1949,0,1000,,Sri Lanka,Hungary
+780,315,1917,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1918,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1919,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1920,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1921,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1922,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1923,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1924,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1925,0,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1926,881257,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1927,647597,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1928,610259,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1929,420261,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1930,358395,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1931,251437,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1932,179706,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1933,159842,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1934,268966,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1935,263754,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1936,310304,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1937,449212,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1938,484366,1,Rs,Sri Lanka,Czechoslovakia
+780,315,1939,333,1000,,Sri Lanka,Czechoslovakia
+780,315,1940,9.5,1000,,Sri Lanka,Czechoslovakia
+780,315,1941,7.4,1000,,Sri Lanka,Czechoslovakia
+780,315,1942,0,1000,,Sri Lanka,Czechoslovakia
+780,315,1943,.2,1000,,Sri Lanka,Czechoslovakia
+780,315,1944,0,1000,,Sri Lanka,Czechoslovakia
+780,315,1945,0,1000,,Sri Lanka,Czechoslovakia
+780,315,1946,105,1000,,Sri Lanka,Czechoslovakia
+780,315,1947,1747,1000,,Sri Lanka,Czechoslovakia
+780,315,1948,901,1000,,Sri Lanka,Czechoslovakia
+780,315,1949,1890,1000,,Sri Lanka,Czechoslovakia
+780,325,1917,242685,1,Rs,Sri Lanka,Italy
+780,325,1918,130443,1,Rs,Sri Lanka,Italy
+780,325,1919,165168,1,Rs,Sri Lanka,Italy
+780,325,1920,1150808,1,Rs,Sri Lanka,Italy
+780,325,1921,1167533,1,Rs,Sri Lanka,Italy
+780,325,1922,1356665,1,Rs,Sri Lanka,Italy
+780,325,1923,1451479,1,Rs,Sri Lanka,Italy
+780,325,1924,1997419,1,Rs,Sri Lanka,Italy
+780,325,1925,2725426,1,Rs,Sri Lanka,Italy
+780,325,1926,4139786,1,Rs,Sri Lanka,Italy
+780,325,1927,3568763,1,Rs,Sri Lanka,Italy
+780,325,1928,3024100,1,Rs,Sri Lanka,Italy
+780,325,1929,3343380,1,Rs,Sri Lanka,Italy
+780,325,1930,1993127,1,Rs,Sri Lanka,Italy
+780,325,1931,898185,1,Rs,Sri Lanka,Italy
+780,325,1932,1220304,1,Rs,Sri Lanka,Italy
+780,325,1933,1101776,1,Rs,Sri Lanka,Italy
+780,325,1934,975152,1,Rs,Sri Lanka,Italy
+780,325,1935,513948,1,Rs,Sri Lanka,Italy
+780,325,1936,197580,1,Rs,Sri Lanka,Italy
+780,325,1937,803819,1,Rs,Sri Lanka,Italy
+780,325,1938,714357,1,Rs,Sri Lanka,Italy
+780,325,1939,647,1000,,Sri Lanka,Italy
+780,325,1940,242,1000,,Sri Lanka,Italy
+780,325,1941,6.7,1000,,Sri Lanka,Italy
+780,325,1942,3.3,1000,,Sri Lanka,Italy
+780,325,1943,6.3,1000,,Sri Lanka,Italy
+780,325,1944,.1,1000,,Sri Lanka,Italy
+780,325,1945,0,1000,,Sri Lanka,Italy
+780,325,1946,1524,1000,,Sri Lanka,Italy
+780,325,1947,5243,1000,,Sri Lanka,Italy
+780,325,1948,3723,1000,,Sri Lanka,Italy
+780,325,1949,21315,1000,,Sri Lanka,Italy
+780,338,1917,988,1,Rs,Sri Lanka,Malta
+780,338,1918,0,1,Rs,Sri Lanka,Malta
+780,338,1919,0,1,Rs,Sri Lanka,Malta
+780,338,1920,0,1,Rs,Sri Lanka,Malta
+780,338,1921,0,1,Rs,Sri Lanka,Malta
+780,338,1922,0,1,Rs,Sri Lanka,Malta
+780,338,1923,342,1,Rs,Sri Lanka,Malta
+780,338,1924,1065,1,Rs,Sri Lanka,Malta
+780,338,1925,11500,1,Rs,Sri Lanka,Malta
+780,338,1926,0,1,Rs,Sri Lanka,Malta
+780,338,1927,69,1,Rs,Sri Lanka,Malta
+780,338,1928,0,1,Rs,Sri Lanka,Malta
+780,338,1929,115202,1,Rs,Sri Lanka,Malta
+780,338,1930,255750,1,Rs,Sri Lanka,Malta
+780,338,1931,131542,1,Rs,Sri Lanka,Malta
+780,338,1932,72441,1,Rs,Sri Lanka,Malta
+780,338,1933,170150,1,Rs,Sri Lanka,Malta
+780,338,1934,85797,1,Rs,Sri Lanka,Malta
+780,338,1935,45566,1,Rs,Sri Lanka,Malta
+780,338,1936,84388,1,Rs,Sri Lanka,Malta
+780,338,1937,69496,1,Rs,Sri Lanka,Malta
+780,338,1938,97375,1,Rs,Sri Lanka,Malta
+780,338,1939,59.9,1000,,Sri Lanka,Malta
+780,338,1940,105,1000,,Sri Lanka,Malta
+780,338,1941,0,1000,,Sri Lanka,Malta
+780,338,1942,0,1000,,Sri Lanka,Malta
+780,338,1943,0,1000,,Sri Lanka,Malta
+780,338,1944,0,1000,,Sri Lanka,Malta
+780,338,1945,0,1000,,Sri Lanka,Malta
+780,338,1946,15.4,1000,,Sri Lanka,Malta
+780,338,1947,333,1000,,Sri Lanka,Malta
+780,338,1948,1.2,1000,,Sri Lanka,Malta
+780,338,1949,5.7,1000,,Sri Lanka,Malta
+780,345,1917,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1918,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1919,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1920,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1921,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1922,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1923,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1924,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1925,0,1,Rs,Sri Lanka,Yugoslavia
+780,345,1926,104185,1,Rs,Sri Lanka,Yugoslavia
+780,345,1927,48041,1,Rs,Sri Lanka,Yugoslavia
+780,345,1928,151284,1,Rs,Sri Lanka,Yugoslavia
+780,345,1929,439342,1,Rs,Sri Lanka,Yugoslavia
+780,345,1930,239710,1,Rs,Sri Lanka,Yugoslavia
+780,345,1931,88558,1,Rs,Sri Lanka,Yugoslavia
+780,345,1932,101172,1,Rs,Sri Lanka,Yugoslavia
+780,345,1933,115344,1,Rs,Sri Lanka,Yugoslavia
+780,345,1934,115183,1,Rs,Sri Lanka,Yugoslavia
+780,345,1935,165382,1,Rs,Sri Lanka,Yugoslavia
+780,345,1936,105933,1,Rs,Sri Lanka,Yugoslavia
+780,345,1937,235331,1,Rs,Sri Lanka,Yugoslavia
+780,345,1938,192738,1,Rs,Sri Lanka,Yugoslavia
+780,345,1939,0,1000,,Sri Lanka,Yugoslavia
+780,345,1940,0,1000,,Sri Lanka,Yugoslavia
+780,345,1941,0,1000,,Sri Lanka,Yugoslavia
+780,345,1942,0,1000,,Sri Lanka,Yugoslavia
+780,345,1943,0,1000,,Sri Lanka,Yugoslavia
+780,345,1944,0,1000,,Sri Lanka,Yugoslavia
+780,345,1945,0,1000,,Sri Lanka,Yugoslavia
+780,345,1946,0,1000,,Sri Lanka,Yugoslavia
+780,345,1947,0,1000,,Sri Lanka,Yugoslavia
+780,345,1948,0,1000,,Sri Lanka,Yugoslavia
+780,345,1949,0,1000,,Sri Lanka,Yugoslavia
+780,350,1917,551,1,Rs,Sri Lanka,Greece
+780,350,1918,52,1,Rs,Sri Lanka,Greece
+780,350,1919,1846,1,Rs,Sri Lanka,Greece
+780,350,1920,437,1,Rs,Sri Lanka,Greece
+780,350,1921,1101,1,Rs,Sri Lanka,Greece
+780,350,1922,1772,1,Rs,Sri Lanka,Greece
+780,350,1923,6805,1,Rs,Sri Lanka,Greece
+780,350,1924,2127,1,Rs,Sri Lanka,Greece
+780,350,1925,905,1,Rs,Sri Lanka,Greece
+780,350,1926,2429,1,Rs,Sri Lanka,Greece
+780,350,1927,3664,1,Rs,Sri Lanka,Greece
+780,350,1928,3599,1,Rs,Sri Lanka,Greece
+780,350,1929,4075,1,Rs,Sri Lanka,Greece
+780,350,1930,3732,1,Rs,Sri Lanka,Greece
+780,350,1931,6886,1,Rs,Sri Lanka,Greece
+780,350,1932,5310,1,Rs,Sri Lanka,Greece
+780,350,1933,4800,1,Rs,Sri Lanka,Greece
+780,350,1934,5930,1,Rs,Sri Lanka,Greece
+780,350,1935,3935,1,Rs,Sri Lanka,Greece
+780,350,1936,3208,1,Rs,Sri Lanka,Greece
+780,350,1937,6779,1,Rs,Sri Lanka,Greece
+780,350,1938,7852,1,Rs,Sri Lanka,Greece
+780,350,1939,3.1,1000,,Sri Lanka,Greece
+780,350,1940,3.6,1000,,Sri Lanka,Greece
+780,350,1941,1.3,1000,,Sri Lanka,Greece
+780,350,1942,1,1000,,Sri Lanka,Greece
+780,350,1943,0,1000,,Sri Lanka,Greece
+780,350,1944,0,1000,,Sri Lanka,Greece
+780,350,1945,0,1000,,Sri Lanka,Greece
+780,350,1946,0,1000,,Sri Lanka,Greece
+780,350,1947,26.7,1000,,Sri Lanka,Greece
+780,350,1948,11.2,1000,,Sri Lanka,Greece
+780,350,1949,82.5,1000,,Sri Lanka,Greece
+780,352,1917,0,1,Rs,Sri Lanka,Cyprus
+780,352,1918,0,1,Rs,Sri Lanka,Cyprus
+780,352,1919,0,1,Rs,Sri Lanka,Cyprus
+780,352,1920,0,1,Rs,Sri Lanka,Cyprus
+780,352,1921,0,1,Rs,Sri Lanka,Cyprus
+780,352,1922,0,1,Rs,Sri Lanka,Cyprus
+780,352,1923,0,1,Rs,Sri Lanka,Cyprus
+780,352,1924,0,1,Rs,Sri Lanka,Cyprus
+780,352,1925,0,1,Rs,Sri Lanka,Cyprus
+780,352,1926,0,1,Rs,Sri Lanka,Cyprus
+780,352,1927,15,1,Rs,Sri Lanka,Cyprus
+780,352,1928,0,1,Rs,Sri Lanka,Cyprus
+780,352,1929,0,1,Rs,Sri Lanka,Cyprus
+780,352,1930,0,1,Rs,Sri Lanka,Cyprus
+780,352,1931,0,1,Rs,Sri Lanka,Cyprus
+780,352,1932,0,1,Rs,Sri Lanka,Cyprus
+780,352,1933,0,1,Rs,Sri Lanka,Cyprus
+780,352,1934,0,1,Rs,Sri Lanka,Cyprus
+780,352,1935,287733,1,Rs,Sri Lanka,Cyprus
+780,352,1936,183429,1,Rs,Sri Lanka,Cyprus
+780,352,1937,280281,1,Rs,Sri Lanka,Cyprus
+780,352,1938,304230,1,Rs,Sri Lanka,Cyprus
+780,352,1939,167,1000,,Sri Lanka,Cyprus
+780,352,1940,25.9,1000,,Sri Lanka,Cyprus
+780,352,1941,6.4,1000,,Sri Lanka,Cyprus
+780,352,1942,7.4,1000,,Sri Lanka,Cyprus
+780,352,1943,11.3,1000,,Sri Lanka,Cyprus
+780,352,1944,65.8,1000,,Sri Lanka,Cyprus
+780,352,1945,61.5,1000,,Sri Lanka,Cyprus
+780,352,1946,206,1000,,Sri Lanka,Cyprus
+780,352,1947,984,1000,,Sri Lanka,Cyprus
+780,352,1948,1284,1000,,Sri Lanka,Cyprus
+780,352,1949,1143,1000,,Sri Lanka,Cyprus
+780,355,1917,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1918,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1919,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1920,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1921,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1922,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1923,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1924,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1925,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1926,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1927,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1928,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1929,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1930,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1931,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1932,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1933,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1934,892,1,Rs,Sri Lanka,Bulgaria
+780,355,1935,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1936,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1937,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1938,0,1,Rs,Sri Lanka,Bulgaria
+780,355,1939,0,1000,,Sri Lanka,Bulgaria
+780,355,1940,0,1000,,Sri Lanka,Bulgaria
+780,355,1941,0,1000,,Sri Lanka,Bulgaria
+780,355,1942,0,1000,,Sri Lanka,Bulgaria
+780,355,1943,0,1000,,Sri Lanka,Bulgaria
+780,355,1944,0,1000,,Sri Lanka,Bulgaria
+780,355,1945,0,1000,,Sri Lanka,Bulgaria
+780,355,1946,0,1000,,Sri Lanka,Bulgaria
+780,355,1947,0,1000,,Sri Lanka,Bulgaria
+780,355,1948,0,1000,,Sri Lanka,Bulgaria
+780,355,1949,0,1000,,Sri Lanka,Bulgaria
+780,360,1917,0,1,Rs,Sri Lanka,Romania
+780,360,1918,0,1,Rs,Sri Lanka,Romania
+780,360,1919,0,1,Rs,Sri Lanka,Romania
+780,360,1920,0,1,Rs,Sri Lanka,Romania
+780,360,1921,0,1,Rs,Sri Lanka,Romania
+780,360,1922,0,1,Rs,Sri Lanka,Romania
+780,360,1923,35,1,Rs,Sri Lanka,Romania
+780,360,1924,0,1,Rs,Sri Lanka,Romania
+780,360,1925,0,1,Rs,Sri Lanka,Romania
+780,360,1926,0,1,Rs,Sri Lanka,Romania
+780,360,1927,0,1,Rs,Sri Lanka,Romania
+780,360,1928,5938,1,Rs,Sri Lanka,Romania
+780,360,1929,0,1,Rs,Sri Lanka,Romania
+780,360,1930,0,1,Rs,Sri Lanka,Romania
+780,360,1931,0,1,Rs,Sri Lanka,Romania
+780,360,1932,0,1,Rs,Sri Lanka,Romania
+780,360,1933,0,1,Rs,Sri Lanka,Romania
+780,360,1934,0,1,Rs,Sri Lanka,Romania
+780,360,1935,0,1,Rs,Sri Lanka,Romania
+780,360,1936,50,1,Rs,Sri Lanka,Romania
+780,360,1937,123,1,Rs,Sri Lanka,Romania
+780,360,1938,13,1,Rs,Sri Lanka,Romania
+780,360,1939,0,1000,,Sri Lanka,Romania
+780,360,1940,0,1000,,Sri Lanka,Romania
+780,360,1941,0,1000,,Sri Lanka,Romania
+780,360,1942,0,1000,,Sri Lanka,Romania
+780,360,1943,0,1000,,Sri Lanka,Romania
+780,360,1944,0,1000,,Sri Lanka,Romania
+780,360,1945,0,1000,,Sri Lanka,Romania
+780,360,1946,0,1000,,Sri Lanka,Romania
+780,360,1947,0,1000,,Sri Lanka,Romania
+780,360,1948,0,1000,,Sri Lanka,Romania
+780,360,1949,0,1000,,Sri Lanka,Romania
+780,365,1917,172318,1,Rs,Sri Lanka,Russia
+780,365,1918,70,1,Rs,Sri Lanka,Russia
+780,365,1919,532721,1,Rs,Sri Lanka,Russia
+780,365,1920,350668,1,Rs,Sri Lanka,Russia
+780,365,1921,241993,1,Rs,Sri Lanka,Russia
+780,365,1922,147391,1,Rs,Sri Lanka,Russia
+780,365,1923,61713,1,Rs,Sri Lanka,Russia
+780,365,1924,27116,1,Rs,Sri Lanka,Russia
+780,365,1925,13941,1,Rs,Sri Lanka,Russia
+780,365,1926,105877,1,Rs,Sri Lanka,Russia
+780,365,1927,99019,1,Rs,Sri Lanka,Russia
+780,365,1928,48108,1,Rs,Sri Lanka,Russia
+780,365,1929,4599,1,Rs,Sri Lanka,Russia
+780,365,1930,10870,1,Rs,Sri Lanka,Russia
+780,365,1931,201525,1,Rs,Sri Lanka,Russia
+780,365,1932,53975,1,Rs,Sri Lanka,Russia
+780,365,1933,340806,1,Rs,Sri Lanka,Russia
+780,365,1934,21064,1,Rs,Sri Lanka,Russia
+780,365,1935,15113,1,Rs,Sri Lanka,Russia
+780,365,1936,72051,1,Rs,Sri Lanka,Russia
+780,365,1937,138519,1,Rs,Sri Lanka,Russia
+780,365,1938,74320,1,Rs,Sri Lanka,Russia
+780,365,1939,9.9,1000,,Sri Lanka,Russia
+780,365,1940,1.7,1000,,Sri Lanka,Russia
+780,365,1941,4.2,1000,,Sri Lanka,Russia
+780,365,1942,.1,1000,,Sri Lanka,Russia
+780,365,1943,0,1000,,Sri Lanka,Russia
+780,365,1944,0,1000,,Sri Lanka,Russia
+780,365,1945,0,1000,,Sri Lanka,Russia
+780,365,1946,2,1000,,Sri Lanka,Russia
+780,365,1947,13.5,1000,,Sri Lanka,Russia
+780,365,1948,.1,1000,,Sri Lanka,Russia
+780,365,1949,43.9,1000,,Sri Lanka,Russia
+780,366,1917,0,1,Rs,Sri Lanka,Estonia
+780,366,1918,0,1,Rs,Sri Lanka,Estonia
+780,366,1919,0,1,Rs,Sri Lanka,Estonia
+780,366,1920,0,1,Rs,Sri Lanka,Estonia
+780,366,1921,0,1,Rs,Sri Lanka,Estonia
+780,366,1922,0,1,Rs,Sri Lanka,Estonia
+780,366,1923,0,1,Rs,Sri Lanka,Estonia
+780,366,1924,0,1,Rs,Sri Lanka,Estonia
+780,366,1925,0,1,Rs,Sri Lanka,Estonia
+780,366,1926,1963,1,Rs,Sri Lanka,Estonia
+780,366,1927,11552,1,Rs,Sri Lanka,Estonia
+780,366,1928,20986,1,Rs,Sri Lanka,Estonia
+780,366,1929,53230,1,Rs,Sri Lanka,Estonia
+780,366,1930,303378,1,Rs,Sri Lanka,Estonia
+780,366,1931,212072,1,Rs,Sri Lanka,Estonia
+780,366,1932,177566,1,Rs,Sri Lanka,Estonia
+780,366,1933,321092,1,Rs,Sri Lanka,Estonia
+780,366,1934,243387,1,Rs,Sri Lanka,Estonia
+780,366,1935,276280,1,Rs,Sri Lanka,Estonia
+780,366,1936,218705,1,Rs,Sri Lanka,Estonia
+780,366,1937,189518,1,Rs,Sri Lanka,Estonia
+780,366,1938,357502,1,Rs,Sri Lanka,Estonia
+780,366,1939,0,1000,,Sri Lanka,Estonia
+780,366,1940,0,1000,,Sri Lanka,Estonia
+780,366,1941,0,1000,,Sri Lanka,Estonia
+780,366,1942,0,1000,,Sri Lanka,Estonia
+780,366,1943,0,1000,,Sri Lanka,Estonia
+780,366,1944,0,1000,,Sri Lanka,Estonia
+780,366,1945,0,1000,,Sri Lanka,Estonia
+780,366,1946,0,1000,,Sri Lanka,Estonia
+780,366,1947,0,1000,,Sri Lanka,Estonia
+780,366,1948,0,1000,,Sri Lanka,Estonia
+780,366,1949,0,1000,,Sri Lanka,Estonia
+780,367,1917,0,1,Rs,Sri Lanka,Latvia
+780,367,1918,0,1,Rs,Sri Lanka,Latvia
+780,367,1919,0,1,Rs,Sri Lanka,Latvia
+780,367,1920,0,1,Rs,Sri Lanka,Latvia
+780,367,1921,0,1,Rs,Sri Lanka,Latvia
+780,367,1922,0,1,Rs,Sri Lanka,Latvia
+780,367,1923,0,1,Rs,Sri Lanka,Latvia
+780,367,1924,0,1,Rs,Sri Lanka,Latvia
+780,367,1925,0,1,Rs,Sri Lanka,Latvia
+780,367,1926,0,1,Rs,Sri Lanka,Latvia
+780,367,1927,2000,1,Rs,Sri Lanka,Latvia
+780,367,1928,0,1,Rs,Sri Lanka,Latvia
+780,367,1929,36113,1,Rs,Sri Lanka,Latvia
+780,367,1930,40643,1,Rs,Sri Lanka,Latvia
+780,367,1931,0,1,Rs,Sri Lanka,Latvia
+780,367,1932,1613,1,Rs,Sri Lanka,Latvia
+780,367,1933,95654,1,Rs,Sri Lanka,Latvia
+780,367,1934,114700,1,Rs,Sri Lanka,Latvia
+780,367,1935,140019,1,Rs,Sri Lanka,Latvia
+780,367,1936,174289,1,Rs,Sri Lanka,Latvia
+780,367,1937,165192,1,Rs,Sri Lanka,Latvia
+780,367,1938,311790,1,Rs,Sri Lanka,Latvia
+780,367,1939,0,1000,,Sri Lanka,Latvia
+780,367,1940,0,1000,,Sri Lanka,Latvia
+780,367,1941,0,1000,,Sri Lanka,Latvia
+780,367,1942,0,1000,,Sri Lanka,Latvia
+780,367,1943,0,1000,,Sri Lanka,Latvia
+780,367,1944,0,1000,,Sri Lanka,Latvia
+780,367,1945,0,1000,,Sri Lanka,Latvia
+780,367,1946,0,1000,,Sri Lanka,Latvia
+780,367,1947,0,1000,,Sri Lanka,Latvia
+780,367,1948,0,1000,,Sri Lanka,Latvia
+780,367,1949,0,1000,,Sri Lanka,Latvia
+780,368,1917,0,1,Rs,Sri Lanka,Lithuania
+780,368,1918,0,1,Rs,Sri Lanka,Lithuania
+780,368,1919,0,1,Rs,Sri Lanka,Lithuania
+780,368,1920,0,1,Rs,Sri Lanka,Lithuania
+780,368,1921,0,1,Rs,Sri Lanka,Lithuania
+780,368,1922,0,1,Rs,Sri Lanka,Lithuania
+780,368,1923,0,1,Rs,Sri Lanka,Lithuania
+780,368,1924,0,1,Rs,Sri Lanka,Lithuania
+780,368,1925,0,1,Rs,Sri Lanka,Lithuania
+780,368,1926,0,1,Rs,Sri Lanka,Lithuania
+780,368,1927,0,1,Rs,Sri Lanka,Lithuania
+780,368,1928,0,1,Rs,Sri Lanka,Lithuania
+780,368,1929,0,1,Rs,Sri Lanka,Lithuania
+780,368,1930,0,1,Rs,Sri Lanka,Lithuania
+780,368,1931,0,1,Rs,Sri Lanka,Lithuania
+780,368,1932,0,1,Rs,Sri Lanka,Lithuania
+780,368,1933,0,1,Rs,Sri Lanka,Lithuania
+780,368,1934,12735,1,Rs,Sri Lanka,Lithuania
+780,368,1935,0,1,Rs,Sri Lanka,Lithuania
+780,368,1936,0,1,Rs,Sri Lanka,Lithuania
+780,368,1937,2690,1,Rs,Sri Lanka,Lithuania
+780,368,1938,2259,1,Rs,Sri Lanka,Lithuania
+780,368,1939,0,1000,,Sri Lanka,Lithuania
+780,368,1940,0,1000,,Sri Lanka,Lithuania
+780,368,1941,0,1000,,Sri Lanka,Lithuania
+780,368,1942,0,1000,,Sri Lanka,Lithuania
+780,368,1943,0,1000,,Sri Lanka,Lithuania
+780,368,1944,0,1000,,Sri Lanka,Lithuania
+780,368,1945,0,1000,,Sri Lanka,Lithuania
+780,368,1946,0,1000,,Sri Lanka,Lithuania
+780,368,1947,0,1000,,Sri Lanka,Lithuania
+780,368,1948,0,1000,,Sri Lanka,Lithuania
+780,368,1949,0,1000,,Sri Lanka,Lithuania
+780,375,1917,0,1,Rs,Sri Lanka,Finland
+780,375,1918,0,1,Rs,Sri Lanka,Finland
+780,375,1919,0,1,Rs,Sri Lanka,Finland
+780,375,1920,0,1,Rs,Sri Lanka,Finland
+780,375,1921,0,1,Rs,Sri Lanka,Finland
+780,375,1922,0,1,Rs,Sri Lanka,Finland
+780,375,1923,0,1,Rs,Sri Lanka,Finland
+780,375,1924,0,1,Rs,Sri Lanka,Finland
+780,375,1925,0,1,Rs,Sri Lanka,Finland
+780,375,1926,531210,1,Rs,Sri Lanka,Finland
+780,375,1927,861061,1,Rs,Sri Lanka,Finland
+780,375,1928,686498,1,Rs,Sri Lanka,Finland
+780,375,1929,985684,1,Rs,Sri Lanka,Finland
+780,375,1930,953698,1,Rs,Sri Lanka,Finland
+780,375,1931,842663,1,Rs,Sri Lanka,Finland
+780,375,1932,800277,1,Rs,Sri Lanka,Finland
+780,375,1933,755817,1,Rs,Sri Lanka,Finland
+780,375,1934,990197,1,Rs,Sri Lanka,Finland
+780,375,1935,1148054,1,Rs,Sri Lanka,Finland
+780,375,1936,1167138,1,Rs,Sri Lanka,Finland
+780,375,1937,1181977,1,Rs,Sri Lanka,Finland
+780,375,1938,1385672,1,Rs,Sri Lanka,Finland
+780,375,1939,1295,1000,,Sri Lanka,Finland
+780,375,1940,425,1000,,Sri Lanka,Finland
+780,375,1941,0,1000,,Sri Lanka,Finland
+780,375,1942,0,1000,,Sri Lanka,Finland
+780,375,1943,0,1000,,Sri Lanka,Finland
+780,375,1944,0,1000,,Sri Lanka,Finland
+780,375,1945,0,1000,,Sri Lanka,Finland
+780,375,1946,251,1000,,Sri Lanka,Finland
+780,375,1947,1054,1000,,Sri Lanka,Finland
+780,375,1948,2140,1000,,Sri Lanka,Finland
+780,375,1949,6444,1000,,Sri Lanka,Finland
+780,380,1917,604561,1,Rs,Sri Lanka,Sweden
+780,380,1918,627734,1,Rs,Sri Lanka,Sweden
+780,380,1919,193068,1,Rs,Sri Lanka,Sweden
+780,380,1920,663053,1,Rs,Sri Lanka,Sweden
+780,380,1921,645855,1,Rs,Sri Lanka,Sweden
+780,380,1922,686939,1,Rs,Sri Lanka,Sweden
+780,380,1923,612094,1,Rs,Sri Lanka,Sweden
+780,380,1924,615398,1,Rs,Sri Lanka,Sweden
+780,380,1925,902257,1,Rs,Sri Lanka,Sweden
+780,380,1926,1076681,1,Rs,Sri Lanka,Sweden
+780,380,1927,1206639,1,Rs,Sri Lanka,Sweden
+780,380,1928,1037797,1,Rs,Sri Lanka,Sweden
+780,380,1929,1314703,1,Rs,Sri Lanka,Sweden
+780,380,1930,1002634,1,Rs,Sri Lanka,Sweden
+780,380,1931,669358,1,Rs,Sri Lanka,Sweden
+780,380,1932,736512,1,Rs,Sri Lanka,Sweden
+780,380,1933,688177,1,Rs,Sri Lanka,Sweden
+780,380,1934,785631,1,Rs,Sri Lanka,Sweden
+780,380,1935,578529,1,Rs,Sri Lanka,Sweden
+780,380,1936,450214,1,Rs,Sri Lanka,Sweden
+780,380,1937,604043,1,Rs,Sri Lanka,Sweden
+780,380,1938,488486,1,Rs,Sri Lanka,Sweden
+780,380,1939,583,1000,,Sri Lanka,Sweden
+780,380,1940,532,1000,,Sri Lanka,Sweden
+780,380,1941,28.5,1000,,Sri Lanka,Sweden
+780,380,1942,5.9,1000,,Sri Lanka,Sweden
+780,380,1943,3.8,1000,,Sri Lanka,Sweden
+780,380,1944,1.4,1000,,Sri Lanka,Sweden
+780,380,1945,7.9,1000,,Sri Lanka,Sweden
+780,380,1946,257,1000,,Sri Lanka,Sweden
+780,380,1947,2100,1000,,Sri Lanka,Sweden
+780,380,1948,3073,1000,,Sri Lanka,Sweden
+780,380,1949,2873,1000,,Sri Lanka,Sweden
+780,385,1917,127991,1,Rs,Sri Lanka,Norway
+780,385,1918,489719,1,Rs,Sri Lanka,Norway
+780,385,1919,319739,1,Rs,Sri Lanka,Norway
+780,385,1920,1086127,1,Rs,Sri Lanka,Norway
+780,385,1921,166311,1,Rs,Sri Lanka,Norway
+780,385,1922,358197,1,Rs,Sri Lanka,Norway
+780,385,1923,341184,1,Rs,Sri Lanka,Norway
+780,385,1924,269725,1,Rs,Sri Lanka,Norway
+780,385,1925,273457,1,Rs,Sri Lanka,Norway
+780,385,1926,296067,1,Rs,Sri Lanka,Norway
+780,385,1927,302418,1,Rs,Sri Lanka,Norway
+780,385,1928,324001,1,Rs,Sri Lanka,Norway
+780,385,1929,820315,1,Rs,Sri Lanka,Norway
+780,385,1930,441300,1,Rs,Sri Lanka,Norway
+780,385,1931,321724,1,Rs,Sri Lanka,Norway
+780,385,1932,349502,1,Rs,Sri Lanka,Norway
+780,385,1933,294217,1,Rs,Sri Lanka,Norway
+780,385,1934,237024,1,Rs,Sri Lanka,Norway
+780,385,1935,258549,1,Rs,Sri Lanka,Norway
+780,385,1936,226808,1,Rs,Sri Lanka,Norway
+780,385,1937,234849,1,Rs,Sri Lanka,Norway
+780,385,1938,302333,1,Rs,Sri Lanka,Norway
+780,385,1939,222,1000,,Sri Lanka,Norway
+780,385,1940,203,1000,,Sri Lanka,Norway
+780,385,1941,2.3,1000,,Sri Lanka,Norway
+780,385,1942,.6,1000,,Sri Lanka,Norway
+780,385,1943,0,1000,,Sri Lanka,Norway
+780,385,1944,0,1000,,Sri Lanka,Norway
+780,385,1945,.2,1000,,Sri Lanka,Norway
+780,385,1946,603,1000,,Sri Lanka,Norway
+780,385,1947,2742,1000,,Sri Lanka,Norway
+780,385,1948,2999,1000,,Sri Lanka,Norway
+780,385,1949,1526,1000,,Sri Lanka,Norway
+780,390,1917,21068,1,Rs,Sri Lanka,Denmark
+780,390,1918,1299,1,Rs,Sri Lanka,Denmark
+780,390,1919,968,1,Rs,Sri Lanka,Denmark
+780,390,1920,6910,1,Rs,Sri Lanka,Denmark
+780,390,1921,15317,1,Rs,Sri Lanka,Denmark
+780,390,1922,145048,1,Rs,Sri Lanka,Denmark
+780,390,1923,123122,1,Rs,Sri Lanka,Denmark
+780,390,1924,166683,1,Rs,Sri Lanka,Denmark
+780,390,1925,122945,1,Rs,Sri Lanka,Denmark
+780,390,1926,191418,1,Rs,Sri Lanka,Denmark
+780,390,1927,173882,1,Rs,Sri Lanka,Denmark
+780,390,1928,163323,1,Rs,Sri Lanka,Denmark
+780,390,1929,155600,1,Rs,Sri Lanka,Denmark
+780,390,1930,228189,1,Rs,Sri Lanka,Denmark
+780,390,1931,180768,1,Rs,Sri Lanka,Denmark
+780,390,1932,205813,1,Rs,Sri Lanka,Denmark
+780,390,1933,192367,1,Rs,Sri Lanka,Denmark
+780,390,1934,225272,1,Rs,Sri Lanka,Denmark
+780,390,1935,217131,1,Rs,Sri Lanka,Denmark
+780,390,1936,350086,1,Rs,Sri Lanka,Denmark
+780,390,1937,319105,1,Rs,Sri Lanka,Denmark
+780,390,1938,381775,1,Rs,Sri Lanka,Denmark
+780,390,1939,314,1000,,Sri Lanka,Denmark
+780,390,1940,199,1000,,Sri Lanka,Denmark
+780,390,1941,.7,1000,,Sri Lanka,Denmark
+780,390,1942,0,1000,,Sri Lanka,Denmark
+780,390,1943,0,1000,,Sri Lanka,Denmark
+780,390,1944,0,1000,,Sri Lanka,Denmark
+780,390,1945,0,1000,,Sri Lanka,Denmark
+780,390,1946,32.3,1000,,Sri Lanka,Denmark
+780,390,1947,607,1000,,Sri Lanka,Denmark
+780,390,1948,309,1000,,Sri Lanka,Denmark
+780,390,1949,376,1000,,Sri Lanka,Denmark
+780,465,1917,0,1,Rs,Sri Lanka,British West Africa
+780,465,1918,0,1,Rs,Sri Lanka,British West Africa
+780,465,1919,0,1,Rs,Sri Lanka,British West Africa
+780,465,1920,0,1,Rs,Sri Lanka,British West Africa
+780,465,1921,0,1,Rs,Sri Lanka,British West Africa
+780,465,1922,0,1,Rs,Sri Lanka,British West Africa
+780,465,1923,0,1,Rs,Sri Lanka,British West Africa
+780,465,1924,0,1,Rs,Sri Lanka,British West Africa
+780,465,1925,0,1,Rs,Sri Lanka,British West Africa
+780,465,1926,79272,1,Rs,Sri Lanka,British West Africa
+780,465,1927,589,1,Rs,Sri Lanka,British West Africa
+780,465,1928,0,1,Rs,Sri Lanka,British West Africa
+780,465,1929,0,1,Rs,Sri Lanka,British West Africa
+780,465,1930,0,1,Rs,Sri Lanka,British West Africa
+780,465,1931,0,1,Rs,Sri Lanka,British West Africa
+780,465,1932,0,1,Rs,Sri Lanka,British West Africa
+780,465,1933,0,1,Rs,Sri Lanka,British West Africa
+780,465,1934,0,1,Rs,Sri Lanka,British West Africa
+780,465,1935,0,1,Rs,Sri Lanka,British West Africa
+780,465,1936,0,1,Rs,Sri Lanka,British West Africa
+780,465,1937,0,1,Rs,Sri Lanka,British West Africa
+780,465,1938,0,1,Rs,Sri Lanka,British West Africa
+780,465,1939,0,1000,,Sri Lanka,British West Africa
+780,465,1940,0,1000,,Sri Lanka,British West Africa
+780,465,1941,0,1000,,Sri Lanka,British West Africa
+780,465,1942,0,1000,,Sri Lanka,British West Africa
+780,465,1943,0,1000,,Sri Lanka,British West Africa
+780,465,1944,0,1000,,Sri Lanka,British West Africa
+780,465,1945,0,1000,,Sri Lanka,British West Africa
+780,465,1946,0,1000,,Sri Lanka,British West Africa
+780,465,1947,0,1000,,Sri Lanka,British West Africa
+780,465,1948,0,1000,,Sri Lanka,British West Africa
+780,465,1949,0,1000,,Sri Lanka,British West Africa
+780,475,1917,0,1,Rs,Sri Lanka,Nigeria
+780,475,1918,0,1,Rs,Sri Lanka,Nigeria
+780,475,1919,0,1,Rs,Sri Lanka,Nigeria
+780,475,1920,0,1,Rs,Sri Lanka,Nigeria
+780,475,1921,0,1,Rs,Sri Lanka,Nigeria
+780,475,1922,0,1,Rs,Sri Lanka,Nigeria
+780,475,1923,0,1,Rs,Sri Lanka,Nigeria
+780,475,1924,0,1,Rs,Sri Lanka,Nigeria
+780,475,1925,0,1,Rs,Sri Lanka,Nigeria
+780,475,1926,0,1,Rs,Sri Lanka,Nigeria
+780,475,1927,0,1,Rs,Sri Lanka,Nigeria
+780,475,1928,0,1,Rs,Sri Lanka,Nigeria
+780,475,1929,0,1,Rs,Sri Lanka,Nigeria
+780,475,1930,0,1,Rs,Sri Lanka,Nigeria
+780,475,1931,0,1,Rs,Sri Lanka,Nigeria
+780,475,1932,0,1,Rs,Sri Lanka,Nigeria
+780,475,1933,0,1,Rs,Sri Lanka,Nigeria
+780,475,1934,0,1,Rs,Sri Lanka,Nigeria
+780,475,1935,0,1,Rs,Sri Lanka,Nigeria
+780,475,1936,0,1,Rs,Sri Lanka,Nigeria
+780,475,1937,0,1,Rs,Sri Lanka,Nigeria
+780,475,1938,0,1,Rs,Sri Lanka,Nigeria
+780,475,1939,0,1000,,Sri Lanka,Nigeria
+780,475,1940,0,1000,,Sri Lanka,Nigeria
+780,475,1941,0,1000,,Sri Lanka,Nigeria
+780,475,1942,0,1000,,Sri Lanka,Nigeria
+780,475,1943,0,1000,,Sri Lanka,Nigeria
+780,475,1944,0,1000,,Sri Lanka,Nigeria
+780,475,1945,23.9,1000,,Sri Lanka,Nigeria
+780,475,1946,121,1000,,Sri Lanka,Nigeria
+780,475,1947,51.6,1000,,Sri Lanka,Nigeria
+780,475,1948,28.5,1000,,Sri Lanka,Nigeria
+780,475,1949,4.7,1000,,Sri Lanka,Nigeria
+780,500,1917,0,1,Rs,Sri Lanka,Uganda
+780,500,1918,0,1,Rs,Sri Lanka,Uganda
+780,500,1919,0,1,Rs,Sri Lanka,Uganda
+780,500,1920,0,1,Rs,Sri Lanka,Uganda
+780,500,1921,0,1,Rs,Sri Lanka,Uganda
+780,500,1922,0,1,Rs,Sri Lanka,Uganda
+780,500,1923,0,1,Rs,Sri Lanka,Uganda
+780,500,1924,0,1,Rs,Sri Lanka,Uganda
+780,500,1925,0,1,Rs,Sri Lanka,Uganda
+780,500,1926,0,1,Rs,Sri Lanka,Uganda
+780,500,1927,0,1,Rs,Sri Lanka,Uganda
+780,500,1928,0,1,Rs,Sri Lanka,Uganda
+780,500,1929,0,1,Rs,Sri Lanka,Uganda
+780,500,1930,0,1,Rs,Sri Lanka,Uganda
+780,500,1931,0,1,Rs,Sri Lanka,Uganda
+780,500,1932,0,1,Rs,Sri Lanka,Uganda
+780,500,1933,46720,1,Rs,Sri Lanka,Uganda
+780,500,1934,69258,1,Rs,Sri Lanka,Uganda
+780,500,1935,158078,1,Rs,Sri Lanka,Uganda
+780,500,1936,43,1,Rs,Sri Lanka,Uganda
+780,500,1937,117796,1,Rs,Sri Lanka,Uganda
+780,500,1938,108399,1,Rs,Sri Lanka,Uganda
+780,500,1939,181,1000,,Sri Lanka,Uganda
+780,500,1940,0,1000,,Sri Lanka,Uganda
+780,500,1941,172,1000,,Sri Lanka,Uganda
+780,500,1942,0,1000,,Sri Lanka,Uganda
+780,500,1943,456,1000,,Sri Lanka,Uganda
+780,500,1944,34.3,1000,,Sri Lanka,Uganda
+780,500,1945,490,1000,,Sri Lanka,Uganda
+780,500,1946,651,1000,,Sri Lanka,Uganda
+780,500,1947,1395,1000,,Sri Lanka,Uganda
+780,500,1948,2733,1000,,Sri Lanka,Uganda
+780,500,1949,3187,1000,,Sri Lanka,Uganda
+780,501,1917,0,1,Rs,Sri Lanka,Kenya
+780,501,1918,0,1,Rs,Sri Lanka,Kenya
+780,501,1919,0,1,Rs,Sri Lanka,Kenya
+780,501,1920,0,1,Rs,Sri Lanka,Kenya
+780,501,1921,0,1,Rs,Sri Lanka,Kenya
+780,501,1922,0,1,Rs,Sri Lanka,Kenya
+780,501,1923,0,1,Rs,Sri Lanka,Kenya
+780,501,1924,0,1,Rs,Sri Lanka,Kenya
+780,501,1925,0,1,Rs,Sri Lanka,Kenya
+780,501,1926,0,1,Rs,Sri Lanka,Kenya
+780,501,1927,0,1,Rs,Sri Lanka,Kenya
+780,501,1928,0,1,Rs,Sri Lanka,Kenya
+780,501,1929,0,1,Rs,Sri Lanka,Kenya
+780,501,1930,0,1,Rs,Sri Lanka,Kenya
+780,501,1931,0,1,Rs,Sri Lanka,Kenya
+780,501,1932,0,1,Rs,Sri Lanka,Kenya
+780,501,1933,78021,1,Rs,Sri Lanka,Kenya
+780,501,1934,5532,1,Rs,Sri Lanka,Kenya
+780,501,1935,105620,1,Rs,Sri Lanka,Kenya
+780,501,1936,9421,1,Rs,Sri Lanka,Kenya
+780,501,1937,10322,1,Rs,Sri Lanka,Kenya
+780,501,1938,43026,1,Rs,Sri Lanka,Kenya
+780,501,1939,35.3,1000,,Sri Lanka,Kenya
+780,501,1940,9.5,1000,,Sri Lanka,Kenya
+780,501,1941,2.6,1000,,Sri Lanka,Kenya
+780,501,1942,21.6,1000,,Sri Lanka,Kenya
+780,501,1943,128,1000,,Sri Lanka,Kenya
+780,501,1944,979,1000,,Sri Lanka,Kenya
+780,501,1945,920,1000,,Sri Lanka,Kenya
+780,501,1946,1155,1000,,Sri Lanka,Kenya
+780,501,1947,7910,1000,,Sri Lanka,Kenya
+780,501,1948,2174,1000,,Sri Lanka,Kenya
+780,501,1949,594,1000,,Sri Lanka,Kenya
+780,505,1917,97,1,Rs,Sri Lanka,British East Africa
+780,505,1918,41781,1,Rs,Sri Lanka,British East Africa
+780,505,1919,173,1,Rs,Sri Lanka,British East Africa
+780,505,1920,3058,1,Rs,Sri Lanka,British East Africa
+780,505,1921,6852,1,Rs,Sri Lanka,British East Africa
+780,505,1922,13718,1,Rs,Sri Lanka,British East Africa
+780,505,1923,8030,1,Rs,Sri Lanka,British East Africa
+780,505,1924,4179,1,Rs,Sri Lanka,British East Africa
+780,505,1925,1380,1,Rs,Sri Lanka,British East Africa
+780,505,1926,494859,1,Rs,Sri Lanka,British East Africa
+780,505,1927,304337,1,Rs,Sri Lanka,British East Africa
+780,505,1928,2306,1,Rs,Sri Lanka,British East Africa
+780,505,1929,1014,1,Rs,Sri Lanka,British East Africa
+780,505,1930,9455,1,Rs,Sri Lanka,British East Africa
+780,505,1931,59674,1,Rs,Sri Lanka,British East Africa
+780,505,1932,71811,1,Rs,Sri Lanka,British East Africa
+780,505,1933,0,1,Rs,Sri Lanka,British East Africa
+780,505,1934,0,1,Rs,Sri Lanka,British East Africa
+780,505,1935,0,1,Rs,Sri Lanka,British East Africa
+780,505,1936,0,1,Rs,Sri Lanka,British East Africa
+780,505,1937,0,1,Rs,Sri Lanka,British East Africa
+780,505,1938,0,1,Rs,Sri Lanka,British East Africa
+780,505,1939,0,1000,,Sri Lanka,British East Africa
+780,505,1940,0,1000,,Sri Lanka,British East Africa
+780,505,1941,0,1000,,Sri Lanka,British East Africa
+780,505,1942,0,1000,,Sri Lanka,British East Africa
+780,505,1943,0,1000,,Sri Lanka,British East Africa
+780,505,1944,0,1000,,Sri Lanka,British East Africa
+780,505,1945,0,1000,,Sri Lanka,British East Africa
+780,505,1946,0,1000,,Sri Lanka,British East Africa
+780,505,1947,0,1000,,Sri Lanka,British East Africa
+780,505,1948,0,1000,,Sri Lanka,British East Africa
+780,505,1949,0,1000,,Sri Lanka,British East Africa
+780,510,1917,0,1,Rs,Sri Lanka,Tanzania
+780,510,1918,0,1,Rs,Sri Lanka,Tanzania
+780,510,1919,0,1,Rs,Sri Lanka,Tanzania
+780,510,1920,0,1,Rs,Sri Lanka,Tanzania
+780,510,1921,0,1,Rs,Sri Lanka,Tanzania
+780,510,1922,0,1,Rs,Sri Lanka,Tanzania
+780,510,1923,0,1,Rs,Sri Lanka,Tanzania
+780,510,1924,0,1,Rs,Sri Lanka,Tanzania
+780,510,1925,0,1,Rs,Sri Lanka,Tanzania
+780,510,1926,0,1,Rs,Sri Lanka,Tanzania
+780,510,1927,0,1,Rs,Sri Lanka,Tanzania
+780,510,1928,0,1,Rs,Sri Lanka,Tanzania
+780,510,1929,0,1,Rs,Sri Lanka,Tanzania
+780,510,1930,0,1,Rs,Sri Lanka,Tanzania
+780,510,1931,0,1,Rs,Sri Lanka,Tanzania
+780,510,1932,0,1,Rs,Sri Lanka,Tanzania
+780,510,1933,223,1,Rs,Sri Lanka,Tanzania
+780,510,1934,472,1,Rs,Sri Lanka,Tanzania
+780,510,1935,0,1,Rs,Sri Lanka,Tanzania
+780,510,1936,83,1,Rs,Sri Lanka,Tanzania
+780,510,1937,0,1,Rs,Sri Lanka,Tanzania
+780,510,1938,36033,1,Rs,Sri Lanka,Tanzania
+780,510,1939,0,1000,,Sri Lanka,Tanzania
+780,510,1940,136,1000,,Sri Lanka,Tanzania
+780,510,1941,189,1000,,Sri Lanka,Tanzania
+780,510,1942,0,1000,,Sri Lanka,Tanzania
+780,510,1943,9.9,1000,,Sri Lanka,Tanzania
+780,510,1944,202,1000,,Sri Lanka,Tanzania
+780,510,1945,.1,1000,,Sri Lanka,Tanzania
+780,510,1946,328,1000,,Sri Lanka,Tanzania
+780,510,1947,580,1000,,Sri Lanka,Tanzania
+780,510,1948,953,1000,,Sri Lanka,Tanzania
+780,510,1949,1328,1000,,Sri Lanka,Tanzania
+780,511,1917,341,1,Rs,Sri Lanka,Zanzibar
+780,511,1918,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1919,63,1,Rs,Sri Lanka,Zanzibar
+780,511,1920,2109,1,Rs,Sri Lanka,Zanzibar
+780,511,1921,35,1,Rs,Sri Lanka,Zanzibar
+780,511,1922,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1923,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1924,65,1,Rs,Sri Lanka,Zanzibar
+780,511,1925,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1926,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1927,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1928,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1929,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1930,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1931,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1932,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1933,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1934,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1935,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1936,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1937,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1938,0,1,Rs,Sri Lanka,Zanzibar
+780,511,1939,0,1000,,Sri Lanka,Zanzibar
+780,511,1940,0,1000,,Sri Lanka,Zanzibar
+780,511,1941,0,1000,,Sri Lanka,Zanzibar
+780,511,1942,0,1000,,Sri Lanka,Zanzibar
+780,511,1943,0,1000,,Sri Lanka,Zanzibar
+780,511,1944,0,1000,,Sri Lanka,Zanzibar
+780,511,1945,0,1000,,Sri Lanka,Zanzibar
+780,511,1946,0,1000,,Sri Lanka,Zanzibar
+780,511,1947,0,1000,,Sri Lanka,Zanzibar
+780,511,1948,0,1000,,Sri Lanka,Zanzibar
+780,511,1949,0,1000,,Sri Lanka,Zanzibar
+780,530,1917,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1918,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1919,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1920,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1921,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1922,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1923,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1924,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1925,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1926,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1927,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1928,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1929,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1930,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1931,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1932,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1933,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1934,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1935,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1936,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1937,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1938,0,1,Rs,Sri Lanka,Ethiopia
+780,530,1939,0,1000,,Sri Lanka,Ethiopia
+780,530,1940,0,1000,,Sri Lanka,Ethiopia
+780,530,1941,0,1000,,Sri Lanka,Ethiopia
+780,530,1942,0,1000,,Sri Lanka,Ethiopia
+780,530,1943,0,1000,,Sri Lanka,Ethiopia
+780,530,1944,0,1000,,Sri Lanka,Ethiopia
+780,530,1945,0,1000,,Sri Lanka,Ethiopia
+780,530,1946,0,1000,,Sri Lanka,Ethiopia
+780,530,1947,310,1000,,Sri Lanka,Ethiopia
+780,530,1948,2045,1000,,Sri Lanka,Ethiopia
+780,530,1949,5463,1000,,Sri Lanka,Ethiopia
+780,531,1917,0,1,Rs,Sri Lanka,Eritrea
+780,531,1918,0,1,Rs,Sri Lanka,Eritrea
+780,531,1919,0,1,Rs,Sri Lanka,Eritrea
+780,531,1920,0,1,Rs,Sri Lanka,Eritrea
+780,531,1921,0,1,Rs,Sri Lanka,Eritrea
+780,531,1922,0,1,Rs,Sri Lanka,Eritrea
+780,531,1923,0,1,Rs,Sri Lanka,Eritrea
+780,531,1924,0,1,Rs,Sri Lanka,Eritrea
+780,531,1925,0,1,Rs,Sri Lanka,Eritrea
+780,531,1926,0,1,Rs,Sri Lanka,Eritrea
+780,531,1927,0,1,Rs,Sri Lanka,Eritrea
+780,531,1928,0,1,Rs,Sri Lanka,Eritrea
+780,531,1929,0,1,Rs,Sri Lanka,Eritrea
+780,531,1930,0,1,Rs,Sri Lanka,Eritrea
+780,531,1931,0,1,Rs,Sri Lanka,Eritrea
+780,531,1932,0,1,Rs,Sri Lanka,Eritrea
+780,531,1933,0,1,Rs,Sri Lanka,Eritrea
+780,531,1934,0,1,Rs,Sri Lanka,Eritrea
+780,531,1935,0,1,Rs,Sri Lanka,Eritrea
+780,531,1936,0,1,Rs,Sri Lanka,Eritrea
+780,531,1937,0,1,Rs,Sri Lanka,Eritrea
+780,531,1938,0,1,Rs,Sri Lanka,Eritrea
+780,531,1939,0,1000,,Sri Lanka,Eritrea
+780,531,1940,0,1000,,Sri Lanka,Eritrea
+780,531,1941,0,1000,,Sri Lanka,Eritrea
+780,531,1942,0,1000,,Sri Lanka,Eritrea
+780,531,1943,0,1000,,Sri Lanka,Eritrea
+780,531,1944,0,1000,,Sri Lanka,Eritrea
+780,531,1945,0,1000,,Sri Lanka,Eritrea
+780,531,1946,12,1000,,Sri Lanka,Eritrea
+780,531,1947,233,1000,,Sri Lanka,Eritrea
+780,531,1948,78.09999999999999,1000,,Sri Lanka,Eritrea
+780,531,1949,302,1000,,Sri Lanka,Eritrea
+780,541,1917,380000,1,Rs,Sri Lanka,Mozambique
+780,541,1918,63320,1,Rs,Sri Lanka,Mozambique
+780,541,1919,1989220,1,Rs,Sri Lanka,Mozambique
+780,541,1920,279040,1,Rs,Sri Lanka,Mozambique
+780,541,1921,0,1,Rs,Sri Lanka,Mozambique
+780,541,1922,868439,1,Rs,Sri Lanka,Mozambique
+780,541,1923,961422,1,Rs,Sri Lanka,Mozambique
+780,541,1924,296680,1,Rs,Sri Lanka,Mozambique
+780,541,1925,0,1,Rs,Sri Lanka,Mozambique
+780,541,1926,2923,1,Rs,Sri Lanka,Mozambique
+780,541,1927,215803,1,Rs,Sri Lanka,Mozambique
+780,541,1928,0,1,Rs,Sri Lanka,Mozambique
+780,541,1929,100,1,Rs,Sri Lanka,Mozambique
+780,541,1930,0,1,Rs,Sri Lanka,Mozambique
+780,541,1931,281160,1,Rs,Sri Lanka,Mozambique
+780,541,1932,300021,1,Rs,Sri Lanka,Mozambique
+780,541,1933,453879,1,Rs,Sri Lanka,Mozambique
+780,541,1934,10568,1,Rs,Sri Lanka,Mozambique
+780,541,1935,338773,1,Rs,Sri Lanka,Mozambique
+780,541,1936,966275,1,Rs,Sri Lanka,Mozambique
+780,541,1937,295672,1,Rs,Sri Lanka,Mozambique
+780,541,1938,659672,1,Rs,Sri Lanka,Mozambique
+780,541,1939,365,1000,,Sri Lanka,Mozambique
+780,541,1940,810,1000,,Sri Lanka,Mozambique
+780,541,1941,1371,1000,,Sri Lanka,Mozambique
+780,541,1942,279,1000,,Sri Lanka,Mozambique
+780,541,1943,2400,1000,,Sri Lanka,Mozambique
+780,541,1944,558,1000,,Sri Lanka,Mozambique
+780,541,1945,0,1000,,Sri Lanka,Mozambique
+780,541,1946,216,1000,,Sri Lanka,Mozambique
+780,541,1947,2489,1000,,Sri Lanka,Mozambique
+780,541,1948,351,1000,,Sri Lanka,Mozambique
+780,541,1949,173,1000,,Sri Lanka,Mozambique
+780,551,1917,0,1,Rs,Sri Lanka,Zambia
+780,551,1918,0,1,Rs,Sri Lanka,Zambia
+780,551,1919,0,1,Rs,Sri Lanka,Zambia
+780,551,1920,0,1,Rs,Sri Lanka,Zambia
+780,551,1921,0,1,Rs,Sri Lanka,Zambia
+780,551,1922,0,1,Rs,Sri Lanka,Zambia
+780,551,1923,0,1,Rs,Sri Lanka,Zambia
+780,551,1924,0,1,Rs,Sri Lanka,Zambia
+780,551,1925,0,1,Rs,Sri Lanka,Zambia
+780,551,1926,0,1,Rs,Sri Lanka,Zambia
+780,551,1927,0,1,Rs,Sri Lanka,Zambia
+780,551,1928,0,1,Rs,Sri Lanka,Zambia
+780,551,1929,0,1,Rs,Sri Lanka,Zambia
+780,551,1930,0,1,Rs,Sri Lanka,Zambia
+780,551,1931,0,1,Rs,Sri Lanka,Zambia
+780,551,1932,0,1,Rs,Sri Lanka,Zambia
+780,551,1933,0,1,Rs,Sri Lanka,Zambia
+780,551,1934,194,1,Rs,Sri Lanka,Zambia
+780,551,1935,0,1,Rs,Sri Lanka,Zambia
+780,551,1936,0,1,Rs,Sri Lanka,Zambia
+780,551,1937,0,1,Rs,Sri Lanka,Zambia
+780,551,1938,0,1,Rs,Sri Lanka,Zambia
+780,551,1939,0,1000,,Sri Lanka,Zambia
+780,551,1940,0,1000,,Sri Lanka,Zambia
+780,551,1941,0,1000,,Sri Lanka,Zambia
+780,551,1942,0,1000,,Sri Lanka,Zambia
+780,551,1943,0,1000,,Sri Lanka,Zambia
+780,551,1944,0,1000,,Sri Lanka,Zambia
+780,551,1945,0,1000,,Sri Lanka,Zambia
+780,551,1946,0,1000,,Sri Lanka,Zambia
+780,551,1947,0,1000,,Sri Lanka,Zambia
+780,551,1948,0,1000,,Sri Lanka,Zambia
+780,551,1949,0,1000,,Sri Lanka,Zambia
+780,552,1917,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1918,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1919,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1920,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1921,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1922,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1923,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1924,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1925,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1926,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1927,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1928,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1929,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1930,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1931,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1932,0,1,Rs,Sri Lanka,Zimbabwe
+780,552,1933,210,1,Rs,Sri Lanka,Zimbabwe
+780,552,1934,428,1,Rs,Sri Lanka,Zimbabwe
+780,552,1935,3114,1,Rs,Sri Lanka,Zimbabwe
+780,552,1936,32655,1,Rs,Sri Lanka,Zimbabwe
+780,552,1937,84141,1,Rs,Sri Lanka,Zimbabwe
+780,552,1938,72174,1,Rs,Sri Lanka,Zimbabwe
+780,552,1939,30.3,1000,,Sri Lanka,Zimbabwe
+780,552,1940,3.5,1000,,Sri Lanka,Zimbabwe
+780,552,1941,0,1000,,Sri Lanka,Zimbabwe
+780,552,1942,0,1000,,Sri Lanka,Zimbabwe
+780,552,1943,0,1000,,Sri Lanka,Zimbabwe
+780,552,1944,0,1000,,Sri Lanka,Zimbabwe
+780,552,1945,0,1000,,Sri Lanka,Zimbabwe
+780,552,1946,0,1000,,Sri Lanka,Zimbabwe
+780,552,1947,199,1000,,Sri Lanka,Zimbabwe
+780,552,1948,337,1000,,Sri Lanka,Zimbabwe
+780,552,1949,105,1000,,Sri Lanka,Zimbabwe
+780,553,1917,0,1,Rs,Sri Lanka,Malawi
+780,553,1918,0,1,Rs,Sri Lanka,Malawi
+780,553,1919,0,1,Rs,Sri Lanka,Malawi
+780,553,1920,0,1,Rs,Sri Lanka,Malawi
+780,553,1921,0,1,Rs,Sri Lanka,Malawi
+780,553,1922,0,1,Rs,Sri Lanka,Malawi
+780,553,1923,0,1,Rs,Sri Lanka,Malawi
+780,553,1924,0,1,Rs,Sri Lanka,Malawi
+780,553,1925,0,1,Rs,Sri Lanka,Malawi
+780,553,1926,0,1,Rs,Sri Lanka,Malawi
+780,553,1927,0,1,Rs,Sri Lanka,Malawi
+780,553,1928,0,1,Rs,Sri Lanka,Malawi
+780,553,1929,0,1,Rs,Sri Lanka,Malawi
+780,553,1930,0,1,Rs,Sri Lanka,Malawi
+780,553,1931,0,1,Rs,Sri Lanka,Malawi
+780,553,1932,0,1,Rs,Sri Lanka,Malawi
+780,553,1933,0,1,Rs,Sri Lanka,Malawi
+780,553,1934,0,1,Rs,Sri Lanka,Malawi
+780,553,1935,32648,1,Rs,Sri Lanka,Malawi
+780,553,1936,0,1,Rs,Sri Lanka,Malawi
+780,553,1937,1,1,Rs,Sri Lanka,Malawi
+780,553,1938,0,1,Rs,Sri Lanka,Malawi
+780,553,1939,0,1000,,Sri Lanka,Malawi
+780,553,1940,0,1000,,Sri Lanka,Malawi
+780,553,1941,0,1000,,Sri Lanka,Malawi
+780,553,1942,0,1000,,Sri Lanka,Malawi
+780,553,1943,0,1000,,Sri Lanka,Malawi
+780,553,1944,0,1000,,Sri Lanka,Malawi
+780,553,1945,0,1000,,Sri Lanka,Malawi
+780,553,1946,0,1000,,Sri Lanka,Malawi
+780,553,1947,0,1000,,Sri Lanka,Malawi
+780,553,1948,0,1000,,Sri Lanka,Malawi
+780,553,1949,0,1000,,Sri Lanka,Malawi
+780,560,1917,0,1,Rs,Sri Lanka,South Africa
+780,560,1918,0,1,Rs,Sri Lanka,South Africa
+780,560,1919,0,1,Rs,Sri Lanka,South Africa
+780,560,1920,0,1,Rs,Sri Lanka,South Africa
+780,560,1921,0,1,Rs,Sri Lanka,South Africa
+780,560,1922,0,1,Rs,Sri Lanka,South Africa
+780,560,1923,0,1,Rs,Sri Lanka,South Africa
+780,560,1924,0,1,Rs,Sri Lanka,South Africa
+780,560,1925,0,1,Rs,Sri Lanka,South Africa
+780,560,1926,7308041,1,Rs,Sri Lanka,South Africa
+780,560,1927,7371109,1,Rs,Sri Lanka,South Africa
+780,560,1928,5153723,1,Rs,Sri Lanka,South Africa
+780,560,1929,6657128,1,Rs,Sri Lanka,South Africa
+780,560,1930,4481820,1,Rs,Sri Lanka,South Africa
+780,560,1931,3318641,1,Rs,Sri Lanka,South Africa
+780,560,1932,1548498,1,Rs,Sri Lanka,South Africa
+780,560,1933,1933971,1,Rs,Sri Lanka,South Africa
+780,560,1934,2628690,1,Rs,Sri Lanka,South Africa
+780,560,1935,3823881,1,Rs,Sri Lanka,South Africa
+780,560,1936,3680821,1,Rs,Sri Lanka,South Africa
+780,560,1937,1672822,1,Rs,Sri Lanka,South Africa
+780,560,1938,2011353,1,Rs,Sri Lanka,South Africa
+780,560,1939,1647,1000,,Sri Lanka,South Africa
+780,560,1940,1334,1000,,Sri Lanka,South Africa
+780,560,1941,2815,1000,,Sri Lanka,South Africa
+780,560,1942,5178,1000,,Sri Lanka,South Africa
+780,560,1943,5283,1000,,Sri Lanka,South Africa
+780,560,1944,12461,1000,,Sri Lanka,South Africa
+780,560,1945,19483,1000,,Sri Lanka,South Africa
+780,560,1946,12789,1000,,Sri Lanka,South Africa
+780,560,1947,14430,1000,,Sri Lanka,South Africa
+780,560,1948,10758,1000,,Sri Lanka,South Africa
+780,560,1949,1413,1000,,Sri Lanka,South Africa
+780,580,1917,0,1,Rs,Sri Lanka,Madagascar
+780,580,1918,0,1,Rs,Sri Lanka,Madagascar
+780,580,1919,0,1,Rs,Sri Lanka,Madagascar
+780,580,1920,6,1,Rs,Sri Lanka,Madagascar
+780,580,1921,0,1,Rs,Sri Lanka,Madagascar
+780,580,1922,0,1,Rs,Sri Lanka,Madagascar
+780,580,1923,1269,1,Rs,Sri Lanka,Madagascar
+780,580,1924,120,1,Rs,Sri Lanka,Madagascar
+780,580,1925,191,1,Rs,Sri Lanka,Madagascar
+780,580,1926,2274,1,Rs,Sri Lanka,Madagascar
+780,580,1927,456,1,Rs,Sri Lanka,Madagascar
+780,580,1928,671,1,Rs,Sri Lanka,Madagascar
+780,580,1929,638,1,Rs,Sri Lanka,Madagascar
+780,580,1930,15000,1,Rs,Sri Lanka,Madagascar
+780,580,1931,285,1,Rs,Sri Lanka,Madagascar
+780,580,1932,427,1,Rs,Sri Lanka,Madagascar
+780,580,1933,438,1,Rs,Sri Lanka,Madagascar
+780,580,1934,298,1,Rs,Sri Lanka,Madagascar
+780,580,1935,293,1,Rs,Sri Lanka,Madagascar
+780,580,1936,375,1,Rs,Sri Lanka,Madagascar
+780,580,1937,1579,1,Rs,Sri Lanka,Madagascar
+780,580,1938,915,1,Rs,Sri Lanka,Madagascar
+780,580,1939,0,1000,,Sri Lanka,Madagascar
+780,580,1940,0,1000,,Sri Lanka,Madagascar
+780,580,1941,0,1000,,Sri Lanka,Madagascar
+780,580,1942,0,1000,,Sri Lanka,Madagascar
+780,580,1943,0,1000,,Sri Lanka,Madagascar
+780,580,1944,0,1000,,Sri Lanka,Madagascar
+780,580,1945,0,1000,,Sri Lanka,Madagascar
+780,580,1946,0,1000,,Sri Lanka,Madagascar
+780,580,1947,0,1000,,Sri Lanka,Madagascar
+780,580,1948,0,1000,,Sri Lanka,Madagascar
+780,580,1949,0,1000,,Sri Lanka,Madagascar
+780,590,1917,430,1,Rs,Sri Lanka,Mauritius
+780,590,1918,48,1,Rs,Sri Lanka,Mauritius
+780,590,1919,3,1,Rs,Sri Lanka,Mauritius
+780,590,1920,656,1,Rs,Sri Lanka,Mauritius
+780,590,1921,309,1,Rs,Sri Lanka,Mauritius
+780,590,1922,624744,1,Rs,Sri Lanka,Mauritius
+780,590,1923,398284,1,Rs,Sri Lanka,Mauritius
+780,590,1924,268889,1,Rs,Sri Lanka,Mauritius
+780,590,1925,137448,1,Rs,Sri Lanka,Mauritius
+780,590,1926,40325,1,Rs,Sri Lanka,Mauritius
+780,590,1927,43424,1,Rs,Sri Lanka,Mauritius
+780,590,1928,35528,1,Rs,Sri Lanka,Mauritius
+780,590,1929,15,1,Rs,Sri Lanka,Mauritius
+780,590,1930,1171,1,Rs,Sri Lanka,Mauritius
+780,590,1931,57,1,Rs,Sri Lanka,Mauritius
+780,590,1932,0,1,Rs,Sri Lanka,Mauritius
+780,590,1933,6001,1,Rs,Sri Lanka,Mauritius
+780,590,1934,0,1,Rs,Sri Lanka,Mauritius
+780,590,1935,0,1,Rs,Sri Lanka,Mauritius
+780,590,1936,0,1,Rs,Sri Lanka,Mauritius
+780,590,1937,14,1,Rs,Sri Lanka,Mauritius
+780,590,1938,38,1,Rs,Sri Lanka,Mauritius
+780,590,1939,0,1000,,Sri Lanka,Mauritius
+780,590,1940,8.800000000000001,1000,,Sri Lanka,Mauritius
+780,590,1941,0,1000,,Sri Lanka,Mauritius
+780,590,1942,6133,1000,,Sri Lanka,Mauritius
+780,590,1943,26918,1000,,Sri Lanka,Mauritius
+780,590,1944,26740,1000,,Sri Lanka,Mauritius
+780,590,1945,32583,1000,,Sri Lanka,Mauritius
+780,590,1946,25649,1000,,Sri Lanka,Mauritius
+780,590,1947,26444,1000,,Sri Lanka,Mauritius
+780,590,1948,30475,1000,,Sri Lanka,Mauritius
+780,590,1949,29743,1000,,Sri Lanka,Mauritius
+780,615,1917,100,1,Rs,Sri Lanka,Algeria
+780,615,1918,0,1,Rs,Sri Lanka,Algeria
+780,615,1919,0,1,Rs,Sri Lanka,Algeria
+780,615,1920,0,1,Rs,Sri Lanka,Algeria
+780,615,1921,0,1,Rs,Sri Lanka,Algeria
+780,615,1922,988,1,Rs,Sri Lanka,Algeria
+780,615,1923,14530,1,Rs,Sri Lanka,Algeria
+780,615,1924,68,1,Rs,Sri Lanka,Algeria
+780,615,1925,140,1,Rs,Sri Lanka,Algeria
+780,615,1926,0,1,Rs,Sri Lanka,Algeria
+780,615,1927,132,1,Rs,Sri Lanka,Algeria
+780,615,1928,583,1,Rs,Sri Lanka,Algeria
+780,615,1929,43,1,Rs,Sri Lanka,Algeria
+780,615,1930,4,1,Rs,Sri Lanka,Algeria
+780,615,1931,0,1,Rs,Sri Lanka,Algeria
+780,615,1932,439,1,Rs,Sri Lanka,Algeria
+780,615,1933,29,1,Rs,Sri Lanka,Algeria
+780,615,1934,8,1,Rs,Sri Lanka,Algeria
+780,615,1935,0,1,Rs,Sri Lanka,Algeria
+780,615,1936,1749,1,Rs,Sri Lanka,Algeria
+780,615,1937,667,1,Rs,Sri Lanka,Algeria
+780,615,1938,958,1,Rs,Sri Lanka,Algeria
+780,615,1939,0,1000,,Sri Lanka,Algeria
+780,615,1940,0,1000,,Sri Lanka,Algeria
+780,615,1941,0,1000,,Sri Lanka,Algeria
+780,615,1942,0,1000,,Sri Lanka,Algeria
+780,615,1943,0,1000,,Sri Lanka,Algeria
+780,615,1944,0,1000,,Sri Lanka,Algeria
+780,615,1945,0,1000,,Sri Lanka,Algeria
+780,615,1946,0,1000,,Sri Lanka,Algeria
+780,615,1947,0,1000,,Sri Lanka,Algeria
+780,615,1948,0,1000,,Sri Lanka,Algeria
+780,615,1949,0,1000,,Sri Lanka,Algeria
+780,616,1917,0,1,Rs,Sri Lanka,Tunisia
+780,616,1918,0,1,Rs,Sri Lanka,Tunisia
+780,616,1919,0,1,Rs,Sri Lanka,Tunisia
+780,616,1920,0,1,Rs,Sri Lanka,Tunisia
+780,616,1921,0,1,Rs,Sri Lanka,Tunisia
+780,616,1922,0,1,Rs,Sri Lanka,Tunisia
+780,616,1923,0,1,Rs,Sri Lanka,Tunisia
+780,616,1924,0,1,Rs,Sri Lanka,Tunisia
+780,616,1925,0,1,Rs,Sri Lanka,Tunisia
+780,616,1926,0,1,Rs,Sri Lanka,Tunisia
+780,616,1927,0,1,Rs,Sri Lanka,Tunisia
+780,616,1928,0,1,Rs,Sri Lanka,Tunisia
+780,616,1929,0,1,Rs,Sri Lanka,Tunisia
+780,616,1930,0,1,Rs,Sri Lanka,Tunisia
+780,616,1931,0,1,Rs,Sri Lanka,Tunisia
+780,616,1932,0,1,Rs,Sri Lanka,Tunisia
+780,616,1933,0,1,Rs,Sri Lanka,Tunisia
+780,616,1934,0,1,Rs,Sri Lanka,Tunisia
+780,616,1935,0,1,Rs,Sri Lanka,Tunisia
+780,616,1936,12398,1,Rs,Sri Lanka,Tunisia
+780,616,1937,0,1,Rs,Sri Lanka,Tunisia
+780,616,1938,36466,1,Rs,Sri Lanka,Tunisia
+780,616,1939,54.2,1000,,Sri Lanka,Tunisia
+780,616,1940,104,1000,,Sri Lanka,Tunisia
+780,616,1941,0,1000,,Sri Lanka,Tunisia
+780,616,1942,0,1000,,Sri Lanka,Tunisia
+780,616,1943,0,1000,,Sri Lanka,Tunisia
+780,616,1944,0,1000,,Sri Lanka,Tunisia
+780,616,1945,0,1000,,Sri Lanka,Tunisia
+780,616,1946,0,1000,,Sri Lanka,Tunisia
+780,616,1947,240,1000,,Sri Lanka,Tunisia
+780,616,1948,215,1000,,Sri Lanka,Tunisia
+780,616,1949,0,1000,,Sri Lanka,Tunisia
+780,620,1917,0,1,Rs,Sri Lanka,Libya
+780,620,1918,0,1,Rs,Sri Lanka,Libya
+780,620,1919,0,1,Rs,Sri Lanka,Libya
+780,620,1920,0,1,Rs,Sri Lanka,Libya
+780,620,1921,0,1,Rs,Sri Lanka,Libya
+780,620,1922,0,1,Rs,Sri Lanka,Libya
+780,620,1923,0,1,Rs,Sri Lanka,Libya
+780,620,1924,0,1,Rs,Sri Lanka,Libya
+780,620,1925,0,1,Rs,Sri Lanka,Libya
+780,620,1926,0,1,Rs,Sri Lanka,Libya
+780,620,1927,0,1,Rs,Sri Lanka,Libya
+780,620,1928,0,1,Rs,Sri Lanka,Libya
+780,620,1929,0,1,Rs,Sri Lanka,Libya
+780,620,1930,0,1,Rs,Sri Lanka,Libya
+780,620,1931,0,1,Rs,Sri Lanka,Libya
+780,620,1932,0,1,Rs,Sri Lanka,Libya
+780,620,1933,0,1,Rs,Sri Lanka,Libya
+780,620,1934,0,1,Rs,Sri Lanka,Libya
+780,620,1935,0,1,Rs,Sri Lanka,Libya
+780,620,1936,0,1,Rs,Sri Lanka,Libya
+780,620,1937,0,1,Rs,Sri Lanka,Libya
+780,620,1938,0,1,Rs,Sri Lanka,Libya
+780,620,1939,0,1000,,Sri Lanka,Libya
+780,620,1940,0,1000,,Sri Lanka,Libya
+780,620,1941,0,1000,,Sri Lanka,Libya
+780,620,1942,0,1000,,Sri Lanka,Libya
+780,620,1943,0,1000,,Sri Lanka,Libya
+780,620,1944,0,1000,,Sri Lanka,Libya
+780,620,1945,0,1000,,Sri Lanka,Libya
+780,620,1946,0,1000,,Sri Lanka,Libya
+780,620,1947,0,1000,,Sri Lanka,Libya
+780,620,1948,0,1000,,Sri Lanka,Libya
+780,620,1949,0,1000,,Sri Lanka,Libya
+780,625,1917,0,1,Rs,Sri Lanka,Sudan
+780,625,1918,0,1,Rs,Sri Lanka,Sudan
+780,625,1919,0,1,Rs,Sri Lanka,Sudan
+780,625,1920,0,1,Rs,Sri Lanka,Sudan
+780,625,1921,0,1,Rs,Sri Lanka,Sudan
+780,625,1922,0,1,Rs,Sri Lanka,Sudan
+780,625,1923,0,1,Rs,Sri Lanka,Sudan
+780,625,1924,0,1,Rs,Sri Lanka,Sudan
+780,625,1925,0,1,Rs,Sri Lanka,Sudan
+780,625,1926,0,1,Rs,Sri Lanka,Sudan
+780,625,1927,52,1,Rs,Sri Lanka,Sudan
+780,625,1928,866,1,Rs,Sri Lanka,Sudan
+780,625,1929,314,1,Rs,Sri Lanka,Sudan
+780,625,1930,662,1,Rs,Sri Lanka,Sudan
+780,625,1931,254,1,Rs,Sri Lanka,Sudan
+780,625,1932,486,1,Rs,Sri Lanka,Sudan
+780,625,1933,407,1,Rs,Sri Lanka,Sudan
+780,625,1934,438,1,Rs,Sri Lanka,Sudan
+780,625,1935,163004,1,Rs,Sri Lanka,Sudan
+780,625,1936,172,1,Rs,Sri Lanka,Sudan
+780,625,1937,667,1,Rs,Sri Lanka,Sudan
+780,625,1938,250,1,Rs,Sri Lanka,Sudan
+780,625,1939,.3,1000,,Sri Lanka,Sudan
+780,625,1940,.3,1000,,Sri Lanka,Sudan
+780,625,1941,.9,1000,,Sri Lanka,Sudan
+780,625,1942,0,1000,,Sri Lanka,Sudan
+780,625,1943,.5,1000,,Sri Lanka,Sudan
+780,625,1944,0,1000,,Sri Lanka,Sudan
+780,625,1945,0,1000,,Sri Lanka,Sudan
+780,625,1946,40.3,1000,,Sri Lanka,Sudan
+780,625,1947,111,1000,,Sri Lanka,Sudan
+780,625,1948,177,1000,,Sri Lanka,Sudan
+780,625,1949,65.3,1000,,Sri Lanka,Sudan
+780,630,1917,350079,1,Rs,Sri Lanka,Iran
+780,630,1918,0,1,Rs,Sri Lanka,Iran
+780,630,1919,2613107,1,Rs,Sri Lanka,Iran
+780,630,1920,2722444,1,Rs,Sri Lanka,Iran
+780,630,1921,3995741,1,Rs,Sri Lanka,Iran
+780,630,1922,4863339,1,Rs,Sri Lanka,Iran
+780,630,1923,2945834,1,Rs,Sri Lanka,Iran
+780,630,1924,2002173,1,Rs,Sri Lanka,Iran
+780,630,1925,3334931,1,Rs,Sri Lanka,Iran
+780,630,1926,8912206,1,Rs,Sri Lanka,Iran
+780,630,1927,4291141,1,Rs,Sri Lanka,Iran
+780,630,1928,7761082,1,Rs,Sri Lanka,Iran
+780,630,1929,10704949,1,Rs,Sri Lanka,Iran
+780,630,1930,9662331,1,Rs,Sri Lanka,Iran
+780,630,1931,8647410,1,Rs,Sri Lanka,Iran
+780,630,1932,8223091,1,Rs,Sri Lanka,Iran
+780,630,1933,12795807,1,Rs,Sri Lanka,Iran
+780,630,1934,13981206,1,Rs,Sri Lanka,Iran
+780,630,1935,12689539,1,Rs,Sri Lanka,Iran
+780,630,1936,10612977,1,Rs,Sri Lanka,Iran
+780,630,1937,8321051,1,Rs,Sri Lanka,Iran
+780,630,1938,7626371,1,Rs,Sri Lanka,Iran
+780,630,1939,5695,1000,,Sri Lanka,Iran
+780,630,1940,12059,1000,,Sri Lanka,Iran
+780,630,1941,9089,1000,,Sri Lanka,Iran
+780,630,1942,24701,1000,,Sri Lanka,Iran
+780,630,1943,39573,1000,,Sri Lanka,Iran
+780,630,1944,54011,1000,,Sri Lanka,Iran
+780,630,1945,63685,1000,,Sri Lanka,Iran
+780,630,1946,33904,1000,,Sri Lanka,Iran
+780,630,1947,34097,1000,,Sri Lanka,Iran
+780,630,1948,30462,1000,,Sri Lanka,Iran
+780,630,1949,28348,1000,,Sri Lanka,Iran
+780,640,1917,0,1,Rs,Sri Lanka,Turkey
+780,640,1918,0,1,Rs,Sri Lanka,Turkey
+780,640,1919,0,1,Rs,Sri Lanka,Turkey
+780,640,1920,0,1,Rs,Sri Lanka,Turkey
+780,640,1921,482,1,Rs,Sri Lanka,Turkey
+780,640,1922,3318,1,Rs,Sri Lanka,Turkey
+780,640,1923,2555,1,Rs,Sri Lanka,Turkey
+780,640,1924,1507,1,Rs,Sri Lanka,Turkey
+780,640,1925,3357,1,Rs,Sri Lanka,Turkey
+780,640,1926,0,1,Rs,Sri Lanka,Turkey
+780,640,1927,0,1,Rs,Sri Lanka,Turkey
+780,640,1928,1651,1,Rs,Sri Lanka,Turkey
+780,640,1929,2154,1,Rs,Sri Lanka,Turkey
+780,640,1930,644,1,Rs,Sri Lanka,Turkey
+780,640,1931,318,1,Rs,Sri Lanka,Turkey
+780,640,1932,1141,1,Rs,Sri Lanka,Turkey
+780,640,1933,348,1,Rs,Sri Lanka,Turkey
+780,640,1934,523,1,Rs,Sri Lanka,Turkey
+780,640,1935,1858,1,Rs,Sri Lanka,Turkey
+780,640,1936,6493,1,Rs,Sri Lanka,Turkey
+780,640,1937,55533,1,Rs,Sri Lanka,Turkey
+780,640,1938,362,1,Rs,Sri Lanka,Turkey
+780,640,1939,0,1000,,Sri Lanka,Turkey
+780,640,1940,0,1000,,Sri Lanka,Turkey
+780,640,1941,0,1000,,Sri Lanka,Turkey
+780,640,1942,0,1000,,Sri Lanka,Turkey
+780,640,1943,0,1000,,Sri Lanka,Turkey
+780,640,1944,0,1000,,Sri Lanka,Turkey
+780,640,1945,0,1000,,Sri Lanka,Turkey
+780,640,1946,0,1000,,Sri Lanka,Turkey
+780,640,1947,0,1000,,Sri Lanka,Turkey
+780,640,1948,0,1000,,Sri Lanka,Turkey
+780,640,1949,0,1000,,Sri Lanka,Turkey
+780,641,1917,5,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1918,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1919,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1920,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1921,408,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1922,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1923,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1924,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1925,429,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1926,503,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1927,685,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1928,0,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1929,17,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1930,218,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1931,985,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1932,927,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1933,2809,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1934,986,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1935,1178,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1936,13051,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1937,16811,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1938,17507,1,Rs,Sri Lanka,Turkey in Europe
+780,641,1939,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1940,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1941,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1942,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1943,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1944,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1945,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1946,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1947,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1948,0,1000,,Sri Lanka,Turkey in Europe
+780,641,1949,0,1000,,Sri Lanka,Turkey in Europe
+780,645,1917,0,1,Rs,Sri Lanka,Iraq
+780,645,1918,0,1,Rs,Sri Lanka,Iraq
+780,645,1919,0,1,Rs,Sri Lanka,Iraq
+780,645,1920,0,1,Rs,Sri Lanka,Iraq
+780,645,1921,0,1,Rs,Sri Lanka,Iraq
+780,645,1922,0,1,Rs,Sri Lanka,Iraq
+780,645,1923,0,1,Rs,Sri Lanka,Iraq
+780,645,1924,0,1,Rs,Sri Lanka,Iraq
+780,645,1925,0,1,Rs,Sri Lanka,Iraq
+780,645,1926,761,1,Rs,Sri Lanka,Iraq
+780,645,1927,2105,1,Rs,Sri Lanka,Iraq
+780,645,1928,2070,1,Rs,Sri Lanka,Iraq
+780,645,1929,1960,1,Rs,Sri Lanka,Iraq
+780,645,1930,2042,1,Rs,Sri Lanka,Iraq
+780,645,1931,2924,1,Rs,Sri Lanka,Iraq
+780,645,1932,3503,1,Rs,Sri Lanka,Iraq
+780,645,1933,4687,1,Rs,Sri Lanka,Iraq
+780,645,1934,12311,1,Rs,Sri Lanka,Iraq
+780,645,1935,19324,1,Rs,Sri Lanka,Iraq
+780,645,1936,22708,1,Rs,Sri Lanka,Iraq
+780,645,1937,69011,1,Rs,Sri Lanka,Iraq
+780,645,1938,47043,1,Rs,Sri Lanka,Iraq
+780,645,1939,0,1000,,Sri Lanka,Iraq
+780,645,1940,0,1000,,Sri Lanka,Iraq
+780,645,1941,0,1000,,Sri Lanka,Iraq
+780,645,1942,0,1000,,Sri Lanka,Iraq
+780,645,1943,0,1000,,Sri Lanka,Iraq
+780,645,1944,0,1000,,Sri Lanka,Iraq
+780,645,1945,0,1000,,Sri Lanka,Iraq
+780,645,1946,0,1000,,Sri Lanka,Iraq
+780,645,1947,0,1000,,Sri Lanka,Iraq
+780,645,1948,0,1000,,Sri Lanka,Iraq
+780,645,1949,0,1000,,Sri Lanka,Iraq
+780,651,1917,1030227,1,Rs,Sri Lanka,Egypt
+780,651,1918,405867,1,Rs,Sri Lanka,Egypt
+780,651,1919,148315,1,Rs,Sri Lanka,Egypt
+780,651,1920,571659,1,Rs,Sri Lanka,Egypt
+780,651,1921,146604,1,Rs,Sri Lanka,Egypt
+780,651,1922,141494,1,Rs,Sri Lanka,Egypt
+780,651,1923,249298,1,Rs,Sri Lanka,Egypt
+780,651,1924,160878,1,Rs,Sri Lanka,Egypt
+780,651,1925,390955,1,Rs,Sri Lanka,Egypt
+780,651,1926,661747,1,Rs,Sri Lanka,Egypt
+780,651,1927,838302,1,Rs,Sri Lanka,Egypt
+780,651,1928,959035,1,Rs,Sri Lanka,Egypt
+780,651,1929,1490575,1,Rs,Sri Lanka,Egypt
+780,651,1930,1302899,1,Rs,Sri Lanka,Egypt
+780,651,1931,733682,1,Rs,Sri Lanka,Egypt
+780,651,1932,890836,1,Rs,Sri Lanka,Egypt
+780,651,1933,301806,1,Rs,Sri Lanka,Egypt
+780,651,1934,772947,1,Rs,Sri Lanka,Egypt
+780,651,1935,966348,1,Rs,Sri Lanka,Egypt
+780,651,1936,855727,1,Rs,Sri Lanka,Egypt
+780,651,1937,905985,1,Rs,Sri Lanka,Egypt
+780,651,1938,550037,1,Rs,Sri Lanka,Egypt
+780,651,1939,684,1000,,Sri Lanka,Egypt
+780,651,1940,1326,1000,,Sri Lanka,Egypt
+780,651,1941,1044,1000,,Sri Lanka,Egypt
+780,651,1942,1041,1000,,Sri Lanka,Egypt
+780,651,1943,32048,1000,,Sri Lanka,Egypt
+780,651,1944,31712,1000,,Sri Lanka,Egypt
+780,651,1945,52517,1000,,Sri Lanka,Egypt
+780,651,1946,81660,1000,,Sri Lanka,Egypt
+780,651,1947,31555,1000,,Sri Lanka,Egypt
+780,651,1948,57335,1000,,Sri Lanka,Egypt
+780,651,1949,35318,1000,,Sri Lanka,Egypt
+780,652,1917,0,1,Rs,Sri Lanka,Syria
+780,652,1918,0,1,Rs,Sri Lanka,Syria
+780,652,1919,0,1,Rs,Sri Lanka,Syria
+780,652,1920,0,1,Rs,Sri Lanka,Syria
+780,652,1921,0,1,Rs,Sri Lanka,Syria
+780,652,1922,0,1,Rs,Sri Lanka,Syria
+780,652,1923,0,1,Rs,Sri Lanka,Syria
+780,652,1924,0,1,Rs,Sri Lanka,Syria
+780,652,1925,0,1,Rs,Sri Lanka,Syria
+780,652,1926,105,1,Rs,Sri Lanka,Syria
+780,652,1927,0,1,Rs,Sri Lanka,Syria
+780,652,1928,0,1,Rs,Sri Lanka,Syria
+780,652,1929,0,1,Rs,Sri Lanka,Syria
+780,652,1930,0,1,Rs,Sri Lanka,Syria
+780,652,1931,0,1,Rs,Sri Lanka,Syria
+780,652,1932,0,1,Rs,Sri Lanka,Syria
+780,652,1933,750,1,Rs,Sri Lanka,Syria
+780,652,1934,0,1,Rs,Sri Lanka,Syria
+780,652,1935,769,1,Rs,Sri Lanka,Syria
+780,652,1936,0,1,Rs,Sri Lanka,Syria
+780,652,1937,0,1,Rs,Sri Lanka,Syria
+780,652,1938,1143,1,Rs,Sri Lanka,Syria
+780,652,1939,6.5,1000,,Sri Lanka,Syria
+780,652,1940,0,1000,,Sri Lanka,Syria
+780,652,1941,0,1000,,Sri Lanka,Syria
+780,652,1942,0,1000,,Sri Lanka,Syria
+780,652,1943,0,1000,,Sri Lanka,Syria
+780,652,1944,0,1000,,Sri Lanka,Syria
+780,652,1945,0,1000,,Sri Lanka,Syria
+780,652,1946,567,1000,,Sri Lanka,Syria
+780,652,1947,1665,1000,,Sri Lanka,Syria
+780,652,1948,5704,1000,,Sri Lanka,Syria
+780,652,1949,4872,1000,,Sri Lanka,Syria
+780,665,1917,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1918,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1919,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1920,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1921,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1922,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1923,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1924,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1925,0,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1926,332,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1927,27,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1928,4899,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1929,3784,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1930,13828,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1931,40304,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1932,206250,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1933,88756,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1934,145565,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1935,126115,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1936,131026,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1937,228779,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1938,159768,1,Rs,Sri Lanka,West Bank And Gaza
+780,665,1939,352,1000,,Sri Lanka,West Bank And Gaza
+780,665,1940,959,1000,,Sri Lanka,West Bank And Gaza
+780,665,1941,496,1000,,Sri Lanka,West Bank And Gaza
+780,665,1942,1018,1000,,Sri Lanka,West Bank And Gaza
+780,665,1943,1006,1000,,Sri Lanka,West Bank And Gaza
+780,665,1944,854,1000,,Sri Lanka,West Bank And Gaza
+780,665,1945,1705,1000,,Sri Lanka,West Bank And Gaza
+780,665,1946,2051,1000,,Sri Lanka,West Bank And Gaza
+780,665,1947,1894,1000,,Sri Lanka,West Bank And Gaza
+780,665,1948,189,1000,,Sri Lanka,West Bank And Gaza
+780,665,1949,2.6,1000,,Sri Lanka,West Bank And Gaza
+780,675,1917,0,1,Rs,Sri Lanka,Arabia
+780,675,1918,3000,1,Rs,Sri Lanka,Arabia
+780,675,1919,1840,1,Rs,Sri Lanka,Arabia
+780,675,1920,5071,1,Rs,Sri Lanka,Arabia
+780,675,1921,10000,1,Rs,Sri Lanka,Arabia
+780,675,1922,1975,1,Rs,Sri Lanka,Arabia
+780,675,1923,1212,1,Rs,Sri Lanka,Arabia
+780,675,1924,32276,1,Rs,Sri Lanka,Arabia
+780,675,1925,10742,1,Rs,Sri Lanka,Arabia
+780,675,1926,28730,1,Rs,Sri Lanka,Arabia
+780,675,1927,72348,1,Rs,Sri Lanka,Arabia
+780,675,1928,17830,1,Rs,Sri Lanka,Arabia
+780,675,1929,385,1,Rs,Sri Lanka,Arabia
+780,675,1930,10944,1,Rs,Sri Lanka,Arabia
+780,675,1931,7826,1,Rs,Sri Lanka,Arabia
+780,675,1932,201410,1,Rs,Sri Lanka,Arabia
+780,675,1933,379241,1,Rs,Sri Lanka,Arabia
+780,675,1934,213374,1,Rs,Sri Lanka,Arabia
+780,675,1935,306417,1,Rs,Sri Lanka,Arabia
+780,675,1936,102004,1,Rs,Sri Lanka,Arabia
+780,675,1937,65287,1,Rs,Sri Lanka,Arabia
+780,675,1938,54233,1,Rs,Sri Lanka,Arabia
+780,675,1939,35.7,1000,,Sri Lanka,Arabia
+780,675,1940,11.8,1000,,Sri Lanka,Arabia
+780,675,1941,11.2,1000,,Sri Lanka,Arabia
+780,675,1942,.6,1000,,Sri Lanka,Arabia
+780,675,1943,131,1000,,Sri Lanka,Arabia
+780,675,1944,0,1000,,Sri Lanka,Arabia
+780,675,1945,0,1000,,Sri Lanka,Arabia
+780,675,1946,30.4,1000,,Sri Lanka,Arabia
+780,675,1947,575,1000,,Sri Lanka,Arabia
+780,675,1948,3455,1000,,Sri Lanka,Arabia
+780,675,1949,4136,1000,,Sri Lanka,Arabia
+780,681,1917,1752,1,Rs,Sri Lanka,Aden
+780,681,1918,2423,1,Rs,Sri Lanka,Aden
+780,681,1919,4402,1,Rs,Sri Lanka,Aden
+780,681,1920,41642,1,Rs,Sri Lanka,Aden
+780,681,1921,110925,1,Rs,Sri Lanka,Aden
+780,681,1922,330678,1,Rs,Sri Lanka,Aden
+780,681,1923,367827,1,Rs,Sri Lanka,Aden
+780,681,1924,267541,1,Rs,Sri Lanka,Aden
+780,681,1925,190107,1,Rs,Sri Lanka,Aden
+780,681,1926,532464,1,Rs,Sri Lanka,Aden
+780,681,1927,288883,1,Rs,Sri Lanka,Aden
+780,681,1928,105757,1,Rs,Sri Lanka,Aden
+780,681,1929,32446,1,Rs,Sri Lanka,Aden
+780,681,1930,226934,1,Rs,Sri Lanka,Aden
+780,681,1931,268595,1,Rs,Sri Lanka,Aden
+780,681,1932,234140,1,Rs,Sri Lanka,Aden
+780,681,1933,208753,1,Rs,Sri Lanka,Aden
+780,681,1934,464785,1,Rs,Sri Lanka,Aden
+780,681,1935,477054,1,Rs,Sri Lanka,Aden
+780,681,1936,413093,1,Rs,Sri Lanka,Aden
+780,681,1937,414520,1,Rs,Sri Lanka,Aden
+780,681,1938,513725,1,Rs,Sri Lanka,Aden
+780,681,1939,407,1000,,Sri Lanka,Aden
+780,681,1940,86.2,1000,,Sri Lanka,Aden
+780,681,1941,55.1,1000,,Sri Lanka,Aden
+780,681,1942,62,1000,,Sri Lanka,Aden
+780,681,1943,284,1000,,Sri Lanka,Aden
+780,681,1944,406,1000,,Sri Lanka,Aden
+780,681,1945,16,1000,,Sri Lanka,Aden
+780,681,1946,5059,1000,,Sri Lanka,Aden
+780,681,1947,16895,1000,,Sri Lanka,Aden
+780,681,1948,10141,1000,,Sri Lanka,Aden
+780,681,1949,6859,1000,,Sri Lanka,Aden
+780,692,1917,0,1,Rs,Sri Lanka,Bahrain
+780,692,1918,0,1,Rs,Sri Lanka,Bahrain
+780,692,1919,0,1,Rs,Sri Lanka,Bahrain
+780,692,1920,0,1,Rs,Sri Lanka,Bahrain
+780,692,1921,0,1,Rs,Sri Lanka,Bahrain
+780,692,1922,0,1,Rs,Sri Lanka,Bahrain
+780,692,1923,0,1,Rs,Sri Lanka,Bahrain
+780,692,1924,0,1,Rs,Sri Lanka,Bahrain
+780,692,1925,0,1,Rs,Sri Lanka,Bahrain
+780,692,1926,0,1,Rs,Sri Lanka,Bahrain
+780,692,1927,0,1,Rs,Sri Lanka,Bahrain
+780,692,1928,0,1,Rs,Sri Lanka,Bahrain
+780,692,1929,0,1,Rs,Sri Lanka,Bahrain
+780,692,1930,0,1,Rs,Sri Lanka,Bahrain
+780,692,1931,0,1,Rs,Sri Lanka,Bahrain
+780,692,1932,0,1,Rs,Sri Lanka,Bahrain
+780,692,1933,0,1,Rs,Sri Lanka,Bahrain
+780,692,1934,0,1,Rs,Sri Lanka,Bahrain
+780,692,1935,0,1,Rs,Sri Lanka,Bahrain
+780,692,1936,0,1,Rs,Sri Lanka,Bahrain
+780,692,1937,0,1,Rs,Sri Lanka,Bahrain
+780,692,1938,4522757,1,Rs,Sri Lanka,Bahrain
+780,692,1939,4037,1000,,Sri Lanka,Bahrain
+780,692,1940,3464,1000,,Sri Lanka,Bahrain
+780,692,1941,3242,1000,,Sri Lanka,Bahrain
+780,692,1942,2946,1000,,Sri Lanka,Bahrain
+780,692,1943,2060,1000,,Sri Lanka,Bahrain
+780,692,1944,868,1000,,Sri Lanka,Bahrain
+780,692,1945,843,1000,,Sri Lanka,Bahrain
+780,692,1946,2543,1000,,Sri Lanka,Bahrain
+780,692,1947,7490,1000,,Sri Lanka,Bahrain
+780,692,1948,13069,1000,,Sri Lanka,Bahrain
+780,692,1949,8933,1000,,Sri Lanka,Bahrain
+780,710,1917,185761,1,Rs,Sri Lanka,China
+780,710,1918,162753,1,Rs,Sri Lanka,China
+780,710,1919,1235300,1,Rs,Sri Lanka,China
+780,710,1920,1641316,1,Rs,Sri Lanka,China
+780,710,1921,799853,1,Rs,Sri Lanka,China
+780,710,1922,509660,1,Rs,Sri Lanka,China
+780,710,1923,722710,1,Rs,Sri Lanka,China
+780,710,1924,639441,1,Rs,Sri Lanka,China
+780,710,1925,600352,1,Rs,Sri Lanka,China
+780,710,1926,898638,1,Rs,Sri Lanka,China
+780,710,1927,1081616,1,Rs,Sri Lanka,China
+780,710,1928,1598577,1,Rs,Sri Lanka,China
+780,710,1929,1822528,1,Rs,Sri Lanka,China
+780,710,1930,1873613,1,Rs,Sri Lanka,China
+780,710,1931,1593751,1,Rs,Sri Lanka,China
+780,710,1932,852019,1,Rs,Sri Lanka,China
+780,710,1933,932628,1,Rs,Sri Lanka,China
+780,710,1934,1102722,1,Rs,Sri Lanka,China
+780,710,1935,818201,1,Rs,Sri Lanka,China
+780,710,1936,1444508,1,Rs,Sri Lanka,China
+780,710,1937,1025573,1,Rs,Sri Lanka,China
+780,710,1938,644516,1,Rs,Sri Lanka,China
+780,710,1939,1074,1000,,Sri Lanka,China
+780,710,1940,1159,1000,,Sri Lanka,China
+780,710,1941,764,1000,,Sri Lanka,China
+780,710,1942,46.6,1000,,Sri Lanka,China
+780,710,1943,6.6,1000,,Sri Lanka,China
+780,710,1944,234,1000,,Sri Lanka,China
+780,710,1945,240,1000,,Sri Lanka,China
+780,710,1946,600,1000,,Sri Lanka,China
+780,710,1947,2635,1000,,Sri Lanka,China
+780,710,1948,2998,1000,,Sri Lanka,China
+780,710,1949,2098,1000,,Sri Lanka,China
+780,720,1917,865704,1,Rs,Sri Lanka,Hong Kong
+780,720,1918,758258,1,Rs,Sri Lanka,Hong Kong
+780,720,1919,1865678,1,Rs,Sri Lanka,Hong Kong
+780,720,1920,1855224,1,Rs,Sri Lanka,Hong Kong
+780,720,1921,1502586,1,Rs,Sri Lanka,Hong Kong
+780,720,1922,1453185,1,Rs,Sri Lanka,Hong Kong
+780,720,1923,1278023,1,Rs,Sri Lanka,Hong Kong
+780,720,1924,1811526,1,Rs,Sri Lanka,Hong Kong
+780,720,1925,1205761,1,Rs,Sri Lanka,Hong Kong
+780,720,1926,1151249,1,Rs,Sri Lanka,Hong Kong
+780,720,1927,1451789,1,Rs,Sri Lanka,Hong Kong
+780,720,1928,1288048,1,Rs,Sri Lanka,Hong Kong
+780,720,1929,1140117,1,Rs,Sri Lanka,Hong Kong
+780,720,1930,1008147,1,Rs,Sri Lanka,Hong Kong
+780,720,1931,742854,1,Rs,Sri Lanka,Hong Kong
+780,720,1932,723164,1,Rs,Sri Lanka,Hong Kong
+780,720,1933,382458,1,Rs,Sri Lanka,Hong Kong
+780,720,1934,572662,1,Rs,Sri Lanka,Hong Kong
+780,720,1935,477675,1,Rs,Sri Lanka,Hong Kong
+780,720,1936,565803,1,Rs,Sri Lanka,Hong Kong
+780,720,1937,778535,1,Rs,Sri Lanka,Hong Kong
+780,720,1938,763245,1,Rs,Sri Lanka,Hong Kong
+780,720,1939,1440,1000,,Sri Lanka,Hong Kong
+780,720,1940,710,1000,,Sri Lanka,Hong Kong
+780,720,1941,958,1000,,Sri Lanka,Hong Kong
+780,720,1942,48.9,1000,,Sri Lanka,Hong Kong
+780,720,1943,.2,1000,,Sri Lanka,Hong Kong
+780,720,1944,0,1000,,Sri Lanka,Hong Kong
+780,720,1945,0,1000,,Sri Lanka,Hong Kong
+780,720,1946,1951,1000,,Sri Lanka,Hong Kong
+780,720,1947,3950,1000,,Sri Lanka,Hong Kong
+780,720,1948,5571,1000,,Sri Lanka,Hong Kong
+780,720,1949,4500,1000,,Sri Lanka,Hong Kong
+780,740,1917,10040936,1,Rs,Sri Lanka,Japan
+780,740,1918,9132805,1,Rs,Sri Lanka,Japan
+780,740,1919,8381787,1,Rs,Sri Lanka,Japan
+780,740,1920,6998366,1,Rs,Sri Lanka,Japan
+780,740,1921,4098381,1,Rs,Sri Lanka,Japan
+780,740,1922,5180702,1,Rs,Sri Lanka,Japan
+780,740,1923,5447478,1,Rs,Sri Lanka,Japan
+780,740,1924,6425177,1,Rs,Sri Lanka,Japan
+780,740,1925,7141718,1,Rs,Sri Lanka,Japan
+780,740,1926,9766541,1,Rs,Sri Lanka,Japan
+780,740,1927,9280110,1,Rs,Sri Lanka,Japan
+780,740,1928,9856383,1,Rs,Sri Lanka,Japan
+780,740,1929,10752783,1,Rs,Sri Lanka,Japan
+780,740,1930,9246910,1,Rs,Sri Lanka,Japan
+780,740,1931,10699241,1,Rs,Sri Lanka,Japan
+780,740,1932,13231206,1,Rs,Sri Lanka,Japan
+780,740,1933,12828632,1,Rs,Sri Lanka,Japan
+780,740,1934,18816688,1,Rs,Sri Lanka,Japan
+780,740,1935,12222488,1,Rs,Sri Lanka,Japan
+780,740,1936,13741473,1,Rs,Sri Lanka,Japan
+780,740,1937,16445077,1,Rs,Sri Lanka,Japan
+780,740,1938,15404828,1,Rs,Sri Lanka,Japan
+780,740,1939,14162,1000,,Sri Lanka,Japan
+780,740,1940,15096,1000,,Sri Lanka,Japan
+780,740,1941,9008,1000,,Sri Lanka,Japan
+780,740,1942,34.9,1000,,Sri Lanka,Japan
+780,740,1943,106,1000,,Sri Lanka,Japan
+780,740,1944,47.5,1000,,Sri Lanka,Japan
+780,740,1945,.5,1000,,Sri Lanka,Japan
+780,740,1946,389,1000,,Sri Lanka,Japan
+780,740,1947,6342,1000,,Sri Lanka,Japan
+780,740,1948,13463,1000,,Sri Lanka,Japan
+780,740,1949,18075,1000,,Sri Lanka,Japan
+780,750,1917,66992770,1,Rs,Sri Lanka,India
+780,750,1918,67681764,1,Rs,Sri Lanka,India
+780,750,1919,72722475,1,Rs,Sri Lanka,India
+780,750,1920,76001981,1,Rs,Sri Lanka,India
+780,750,1921,63941460,1,Rs,Sri Lanka,India
+780,750,1922,67954918,1,Rs,Sri Lanka,India
+780,750,1923,83676605,1,Rs,Sri Lanka,India
+780,750,1924,94118998,1,Rs,Sri Lanka,India
+780,750,1925,87264383,1,Rs,Sri Lanka,India
+780,750,1926,94662187,1,Rs,Sri Lanka,India
+780,750,1927,93832751,1,Rs,Sri Lanka,India
+780,750,1928,85274999,1,Rs,Sri Lanka,India
+780,750,1929,84937796,1,Rs,Sri Lanka,India
+780,750,1930,70598453,1,Rs,Sri Lanka,India
+780,750,1931,50134606,1,Rs,Sri Lanka,India
+780,750,1932,44797099,1,Rs,Sri Lanka,India
+780,750,1933,37708493,1,Rs,Sri Lanka,India
+780,750,1934,43733795,1,Rs,Sri Lanka,India
+780,750,1935,44327119,1,Rs,Sri Lanka,India
+780,750,1936,46061714,1,Rs,Sri Lanka,India
+780,750,1937,53398372,1,Rs,Sri Lanka,India
+780,750,1938,51273948,1,Rs,Sri Lanka,India
+780,750,1939,52630,1000,,Sri Lanka,India
+780,750,1940,77039,1000,,Sri Lanka,India
+780,750,1941,10765,1000,,Sri Lanka,India
+780,750,1942,155377,1000,,Sri Lanka,India
+780,750,1943,204322,1000,,Sri Lanka,India
+780,750,1944,200135,1000,,Sri Lanka,India
+780,750,1945,177637,1000,,Sri Lanka,India
+780,750,1946,177864,1000,,Sri Lanka,India
+780,750,1947,137157,1000,,Sri Lanka,India
+780,750,1948,130324,1000,,Sri Lanka,India
+780,750,1949,152554,1000,,Sri Lanka,India
+780,770,1917,0,1,Rs,Sri Lanka,Pakistan
+780,770,1918,0,1,Rs,Sri Lanka,Pakistan
+780,770,1919,0,1,Rs,Sri Lanka,Pakistan
+780,770,1920,0,1,Rs,Sri Lanka,Pakistan
+780,770,1921,0,1,Rs,Sri Lanka,Pakistan
+780,770,1922,0,1,Rs,Sri Lanka,Pakistan
+780,770,1923,0,1,Rs,Sri Lanka,Pakistan
+780,770,1924,0,1,Rs,Sri Lanka,Pakistan
+780,770,1925,0,1,Rs,Sri Lanka,Pakistan
+780,770,1926,0,1,Rs,Sri Lanka,Pakistan
+780,770,1927,0,1,Rs,Sri Lanka,Pakistan
+780,770,1928,0,1,Rs,Sri Lanka,Pakistan
+780,770,1929,0,1,Rs,Sri Lanka,Pakistan
+780,770,1930,0,1,Rs,Sri Lanka,Pakistan
+780,770,1931,0,1,Rs,Sri Lanka,Pakistan
+780,770,1932,0,1,Rs,Sri Lanka,Pakistan
+780,770,1933,0,1,Rs,Sri Lanka,Pakistan
+780,770,1934,0,1,Rs,Sri Lanka,Pakistan
+780,770,1935,0,1,Rs,Sri Lanka,Pakistan
+780,770,1936,0,1,Rs,Sri Lanka,Pakistan
+780,770,1937,0,1,Rs,Sri Lanka,Pakistan
+780,770,1938,0,1,Rs,Sri Lanka,Pakistan
+780,770,1939,0,1000,,Sri Lanka,Pakistan
+780,770,1940,0,1000,,Sri Lanka,Pakistan
+780,770,1941,0,1000,,Sri Lanka,Pakistan
+780,770,1942,0,1000,,Sri Lanka,Pakistan
+780,770,1943,0,1000,,Sri Lanka,Pakistan
+780,770,1944,0,1000,,Sri Lanka,Pakistan
+780,770,1945,0,1000,,Sri Lanka,Pakistan
+780,770,1946,0,1000,,Sri Lanka,Pakistan
+780,770,1947,0,1000,,Sri Lanka,Pakistan
+780,770,1948,10791,1000,,Sri Lanka,Pakistan
+780,770,1949,12113,1000,,Sri Lanka,Pakistan
+780,775,1917,37476382,1,Rs,Sri Lanka,Myanmar
+780,775,1918,34678723,1,Rs,Sri Lanka,Myanmar
+780,775,1919,57333573,1,Rs,Sri Lanka,Myanmar
+780,775,1920,97310511,1,Rs,Sri Lanka,Myanmar
+780,775,1921,60037251,1,Rs,Sri Lanka,Myanmar
+780,775,1922,75573859,1,Rs,Sri Lanka,Myanmar
+780,775,1923,59288580,1,Rs,Sri Lanka,Myanmar
+780,775,1924,46028104,1,Rs,Sri Lanka,Myanmar
+780,775,1925,82803409,1,Rs,Sri Lanka,Myanmar
+780,775,1926,78319562,1,Rs,Sri Lanka,Myanmar
+780,775,1927,81310192,1,Rs,Sri Lanka,Myanmar
+780,775,1928,78483313,1,Rs,Sri Lanka,Myanmar
+780,775,1929,78096111,1,Rs,Sri Lanka,Myanmar
+780,775,1930,53749917,1,Rs,Sri Lanka,Myanmar
+780,775,1931,40823944,1,Rs,Sri Lanka,Myanmar
+780,775,1932,35853480,1,Rs,Sri Lanka,Myanmar
+780,775,1933,31889020,1,Rs,Sri Lanka,Myanmar
+780,775,1934,31662380,1,Rs,Sri Lanka,Myanmar
+780,775,1935,39821250,1,Rs,Sri Lanka,Myanmar
+780,775,1936,32480827,1,Rs,Sri Lanka,Myanmar
+780,775,1937,33670581,1,Rs,Sri Lanka,Myanmar
+780,775,1938,34905189,1,Rs,Sri Lanka,Myanmar
+780,775,1939,37369,1000,,Sri Lanka,Myanmar
+780,775,1940,42861,1000,,Sri Lanka,Myanmar
+780,775,1941,65758,1000,,Sri Lanka,Myanmar
+780,775,1942,16206,1000,,Sri Lanka,Myanmar
+780,775,1943,1.6,1000,,Sri Lanka,Myanmar
+780,775,1944,0,1000,,Sri Lanka,Myanmar
+780,775,1945,0,1000,,Sri Lanka,Myanmar
+780,775,1946,4410,1000,,Sri Lanka,Myanmar
+780,775,1947,67621,1000,,Sri Lanka,Myanmar
+780,775,1948,171309,1000,,Sri Lanka,Myanmar
+780,775,1949,153010,1000,,Sri Lanka,Myanmar
+780,800,1917,650981,1,Rs,Sri Lanka,Thailand
+780,800,1918,344873,1,Rs,Sri Lanka,Thailand
+780,800,1919,9414673,1,Rs,Sri Lanka,Thailand
+780,800,1920,807093,1,Rs,Sri Lanka,Thailand
+780,800,1921,1186655,1,Rs,Sri Lanka,Thailand
+780,800,1922,1407969,1,Rs,Sri Lanka,Thailand
+780,800,1923,247163,1,Rs,Sri Lanka,Thailand
+780,800,1924,324360,1,Rs,Sri Lanka,Thailand
+780,800,1925,1006084,1,Rs,Sri Lanka,Thailand
+780,800,1926,1449236,1,Rs,Sri Lanka,Thailand
+780,800,1927,1544576,1,Rs,Sri Lanka,Thailand
+780,800,1928,4444911,1,Rs,Sri Lanka,Thailand
+780,800,1929,1826343,1,Rs,Sri Lanka,Thailand
+780,800,1930,3285625,1,Rs,Sri Lanka,Thailand
+780,800,1931,3110583,1,Rs,Sri Lanka,Thailand
+780,800,1932,4551472,1,Rs,Sri Lanka,Thailand
+780,800,1933,4186503,1,Rs,Sri Lanka,Thailand
+780,800,1934,11350973,1,Rs,Sri Lanka,Thailand
+780,800,1935,12492797,1,Rs,Sri Lanka,Thailand
+780,800,1936,10770669,1,Rs,Sri Lanka,Thailand
+780,800,1937,5596849,1,Rs,Sri Lanka,Thailand
+780,800,1938,6537908,1,Rs,Sri Lanka,Thailand
+780,800,1939,10968,1000,,Sri Lanka,Thailand
+780,800,1940,6687,1000,,Sri Lanka,Thailand
+780,800,1941,249,1000,,Sri Lanka,Thailand
+780,800,1942,.1,1000,,Sri Lanka,Thailand
+780,800,1943,0,1000,,Sri Lanka,Thailand
+780,800,1944,0,1000,,Sri Lanka,Thailand
+780,800,1945,0,1000,,Sri Lanka,Thailand
+780,800,1946,86.3,1000,,Sri Lanka,Thailand
+780,800,1947,239,1000,,Sri Lanka,Thailand
+780,800,1948,8302,1000,,Sri Lanka,Thailand
+780,800,1949,39936,1000,,Sri Lanka,Thailand
+780,820,1917,12931202,1,Rs,Sri Lanka,Malaysia
+780,820,1918,6813397,1,Rs,Sri Lanka,Malaysia
+780,820,1919,9126124,1,Rs,Sri Lanka,Malaysia
+780,820,1920,7245021,1,Rs,Sri Lanka,Malaysia
+780,820,1921,7057115,1,Rs,Sri Lanka,Malaysia
+780,820,1922,4385495,1,Rs,Sri Lanka,Malaysia
+780,820,1923,3664313,1,Rs,Sri Lanka,Malaysia
+780,820,1924,4040732,1,Rs,Sri Lanka,Malaysia
+780,820,1925,7333234,1,Rs,Sri Lanka,Malaysia
+780,820,1926,10976387,1,Rs,Sri Lanka,Malaysia
+780,820,1927,13563152,1,Rs,Sri Lanka,Malaysia
+780,820,1928,7749056,1,Rs,Sri Lanka,Malaysia
+780,820,1929,4596852,1,Rs,Sri Lanka,Malaysia
+780,820,1930,2839090,1,Rs,Sri Lanka,Malaysia
+780,820,1931,1297919,1,Rs,Sri Lanka,Malaysia
+780,820,1932,1108182,1,Rs,Sri Lanka,Malaysia
+780,820,1933,1425590,1,Rs,Sri Lanka,Malaysia
+780,820,1934,2625612,1,Rs,Sri Lanka,Malaysia
+780,820,1935,2150683,1,Rs,Sri Lanka,Malaysia
+780,820,1936,1668665,1,Rs,Sri Lanka,Malaysia
+780,820,1937,2658809,1,Rs,Sri Lanka,Malaysia
+780,820,1938,1959094,1,Rs,Sri Lanka,Malaysia
+780,820,1939,2191,1000,,Sri Lanka,Malaysia
+780,820,1940,1903,1000,,Sri Lanka,Malaysia
+780,820,1941,1352,1000,,Sri Lanka,Malaysia
+780,820,1942,236,1000,,Sri Lanka,Malaysia
+780,820,1943,5,1000,,Sri Lanka,Malaysia
+780,820,1944,0,1000,,Sri Lanka,Malaysia
+780,820,1945,0,1000,,Sri Lanka,Malaysia
+780,820,1946,2931,1000,,Sri Lanka,Malaysia
+780,820,1947,3813,1000,,Sri Lanka,Malaysia
+780,820,1948,3450,1000,,Sri Lanka,Malaysia
+780,820,1949,4376,1000,,Sri Lanka,Malaysia
+780,823,1917,0,1,Rs,Sri Lanka,British Borneo
+780,823,1918,0,1,Rs,Sri Lanka,British Borneo
+780,823,1919,1,1,Rs,Sri Lanka,British Borneo
+780,823,1920,0,1,Rs,Sri Lanka,British Borneo
+780,823,1921,255560,1,Rs,Sri Lanka,British Borneo
+780,823,1922,0,1,Rs,Sri Lanka,British Borneo
+780,823,1923,0,1,Rs,Sri Lanka,British Borneo
+780,823,1924,0,1,Rs,Sri Lanka,British Borneo
+780,823,1925,0,1,Rs,Sri Lanka,British Borneo
+780,823,1926,0,1,Rs,Sri Lanka,British Borneo
+780,823,1927,0,1,Rs,Sri Lanka,British Borneo
+780,823,1928,6300,1,Rs,Sri Lanka,British Borneo
+780,823,1929,0,1,Rs,Sri Lanka,British Borneo
+780,823,1930,0,1,Rs,Sri Lanka,British Borneo
+780,823,1931,0,1,Rs,Sri Lanka,British Borneo
+780,823,1932,407870,1,Rs,Sri Lanka,British Borneo
+780,823,1933,62138,1,Rs,Sri Lanka,British Borneo
+780,823,1934,30462,1,Rs,Sri Lanka,British Borneo
+780,823,1935,0,1,Rs,Sri Lanka,British Borneo
+780,823,1936,0,1,Rs,Sri Lanka,British Borneo
+780,823,1937,411021,1,Rs,Sri Lanka,British Borneo
+780,823,1938,36400,1,Rs,Sri Lanka,British Borneo
+780,823,1939,56.2,1000,,Sri Lanka,British Borneo
+780,823,1940,12.4,1000,,Sri Lanka,British Borneo
+780,823,1941,58.6,1000,,Sri Lanka,British Borneo
+780,823,1942,0,1000,,Sri Lanka,British Borneo
+780,823,1943,0,1000,,Sri Lanka,British Borneo
+780,823,1944,0,1000,,Sri Lanka,British Borneo
+780,823,1945,0,1000,,Sri Lanka,British Borneo
+780,823,1946,0,1000,,Sri Lanka,British Borneo
+780,823,1947,1619,1000,,Sri Lanka,British Borneo
+780,823,1948,9362,1000,,Sri Lanka,British Borneo
+780,823,1949,15006,1000,,Sri Lanka,British Borneo
+780,824,1917,0,1,Rs,Sri Lanka,Sarawak
+780,824,1918,0,1,Rs,Sri Lanka,Sarawak
+780,824,1919,0,1,Rs,Sri Lanka,Sarawak
+780,824,1920,0,1,Rs,Sri Lanka,Sarawak
+780,824,1921,0,1,Rs,Sri Lanka,Sarawak
+780,824,1922,0,1,Rs,Sri Lanka,Sarawak
+780,824,1923,0,1,Rs,Sri Lanka,Sarawak
+780,824,1924,0,1,Rs,Sri Lanka,Sarawak
+780,824,1925,0,1,Rs,Sri Lanka,Sarawak
+780,824,1926,0,1,Rs,Sri Lanka,Sarawak
+780,824,1927,0,1,Rs,Sri Lanka,Sarawak
+780,824,1928,0,1,Rs,Sri Lanka,Sarawak
+780,824,1929,0,1,Rs,Sri Lanka,Sarawak
+780,824,1930,0,1,Rs,Sri Lanka,Sarawak
+780,824,1931,0,1,Rs,Sri Lanka,Sarawak
+780,824,1932,0,1,Rs,Sri Lanka,Sarawak
+780,824,1933,0,1,Rs,Sri Lanka,Sarawak
+780,824,1934,0,1,Rs,Sri Lanka,Sarawak
+780,824,1935,0,1,Rs,Sri Lanka,Sarawak
+780,824,1936,0,1,Rs,Sri Lanka,Sarawak
+780,824,1937,0,1,Rs,Sri Lanka,Sarawak
+780,824,1938,1943123,1,Rs,Sri Lanka,Sarawak
+780,824,1939,1852,1000,,Sri Lanka,Sarawak
+780,824,1940,1938,1000,,Sri Lanka,Sarawak
+780,824,1941,3677,1000,,Sri Lanka,Sarawak
+780,824,1942,0,1000,,Sri Lanka,Sarawak
+780,824,1943,0,1000,,Sri Lanka,Sarawak
+780,824,1944,0,1000,,Sri Lanka,Sarawak
+780,824,1945,0,1000,,Sri Lanka,Sarawak
+780,824,1946,0,1000,,Sri Lanka,Sarawak
+780,824,1947,1184,1000,,Sri Lanka,Sarawak
+780,824,1948,3928,1000,,Sri Lanka,Sarawak
+780,824,1949,8085,1000,,Sri Lanka,Sarawak
+780,840,1917,15009,1,Rs,Sri Lanka,Philippines
+780,840,1918,11878,1,Rs,Sri Lanka,Philippines
+780,840,1919,29192,1,Rs,Sri Lanka,Philippines
+780,840,1920,41994,1,Rs,Sri Lanka,Philippines
+780,840,1921,23160,1,Rs,Sri Lanka,Philippines
+780,840,1922,45101,1,Rs,Sri Lanka,Philippines
+780,840,1923,36660,1,Rs,Sri Lanka,Philippines
+780,840,1924,29143,1,Rs,Sri Lanka,Philippines
+780,840,1925,17162,1,Rs,Sri Lanka,Philippines
+780,840,1926,26325,1,Rs,Sri Lanka,Philippines
+780,840,1927,36359,1,Rs,Sri Lanka,Philippines
+780,840,1928,21960,1,Rs,Sri Lanka,Philippines
+780,840,1929,22187,1,Rs,Sri Lanka,Philippines
+780,840,1930,53202,1,Rs,Sri Lanka,Philippines
+780,840,1931,15297,1,Rs,Sri Lanka,Philippines
+780,840,1932,10637,1,Rs,Sri Lanka,Philippines
+780,840,1933,7266,1,Rs,Sri Lanka,Philippines
+780,840,1934,10745,1,Rs,Sri Lanka,Philippines
+780,840,1935,12133,1,Rs,Sri Lanka,Philippines
+780,840,1936,13137,1,Rs,Sri Lanka,Philippines
+780,840,1937,18104,1,Rs,Sri Lanka,Philippines
+780,840,1938,15773,1,Rs,Sri Lanka,Philippines
+780,840,1939,15,1000,,Sri Lanka,Philippines
+780,840,1940,4.3,1000,,Sri Lanka,Philippines
+780,840,1941,8.800000000000001,1000,,Sri Lanka,Philippines
+780,840,1942,0,1000,,Sri Lanka,Philippines
+780,840,1943,.1,1000,,Sri Lanka,Philippines
+780,840,1944,0,1000,,Sri Lanka,Philippines
+780,840,1945,0,1000,,Sri Lanka,Philippines
+780,840,1946,.2,1000,,Sri Lanka,Philippines
+780,840,1947,3.1,1000,,Sri Lanka,Philippines
+780,840,1948,0,1000,,Sri Lanka,Philippines
+780,840,1949,7.3,1000,,Sri Lanka,Philippines
+780,900,1917,0,1,Rs,Sri Lanka,Australia
+780,900,1918,0,1,Rs,Sri Lanka,Australia
+780,900,1919,0,1,Rs,Sri Lanka,Australia
+780,900,1920,0,1,Rs,Sri Lanka,Australia
+780,900,1921,0,1,Rs,Sri Lanka,Australia
+780,900,1922,0,1,Rs,Sri Lanka,Australia
+780,900,1923,8472298,1,Rs,Sri Lanka,Australia
+780,900,1924,5134926,1,Rs,Sri Lanka,Australia
+780,900,1925,7393619,1,Rs,Sri Lanka,Australia
+780,900,1926,7990034,1,Rs,Sri Lanka,Australia
+780,900,1927,7879920,1,Rs,Sri Lanka,Australia
+780,900,1928,9327551,1,Rs,Sri Lanka,Australia
+780,900,1929,10666029,1,Rs,Sri Lanka,Australia
+780,900,1930,7721820,1,Rs,Sri Lanka,Australia
+780,900,1931,5109901,1,Rs,Sri Lanka,Australia
+780,900,1932,4892535,1,Rs,Sri Lanka,Australia
+780,900,1933,4542485,1,Rs,Sri Lanka,Australia
+780,900,1934,5145352,1,Rs,Sri Lanka,Australia
+780,900,1935,5264903,1,Rs,Sri Lanka,Australia
+780,900,1936,5247263,1,Rs,Sri Lanka,Australia
+780,900,1937,6284213,1,Rs,Sri Lanka,Australia
+780,900,1938,6121414,1,Rs,Sri Lanka,Australia
+780,900,1939,6142,1000,,Sri Lanka,Australia
+780,900,1940,8648,1000,,Sri Lanka,Australia
+780,900,1941,7967,1000,,Sri Lanka,Australia
+780,900,1942,31065,1000,,Sri Lanka,Australia
+780,900,1943,64020,1000,,Sri Lanka,Australia
+780,900,1944,86287,1000,,Sri Lanka,Australia
+780,900,1945,66593,1000,,Sri Lanka,Australia
+780,900,1946,96779,1000,,Sri Lanka,Australia
+780,900,1947,116634,1000,,Sri Lanka,Australia
+780,900,1948,125288,1000,,Sri Lanka,Australia
+780,900,1949,102052,1000,,Sri Lanka,Australia
+780,920,1917,112506,1,Rs,Sri Lanka,New Zealand
+780,920,1918,64645,1,Rs,Sri Lanka,New Zealand
+780,920,1919,62077,1,Rs,Sri Lanka,New Zealand
+780,920,1920,58134,1,Rs,Sri Lanka,New Zealand
+780,920,1921,89956,1,Rs,Sri Lanka,New Zealand
+780,920,1922,19558,1,Rs,Sri Lanka,New Zealand
+780,920,1923,14529,1,Rs,Sri Lanka,New Zealand
+780,920,1924,1370,1,Rs,Sri Lanka,New Zealand
+780,920,1925,15904,1,Rs,Sri Lanka,New Zealand
+780,920,1926,9411,1,Rs,Sri Lanka,New Zealand
+780,920,1927,21618,1,Rs,Sri Lanka,New Zealand
+780,920,1928,46010,1,Rs,Sri Lanka,New Zealand
+780,920,1929,128243,1,Rs,Sri Lanka,New Zealand
+780,920,1930,127390,1,Rs,Sri Lanka,New Zealand
+780,920,1931,66272,1,Rs,Sri Lanka,New Zealand
+780,920,1932,51889,1,Rs,Sri Lanka,New Zealand
+780,920,1933,14996,1,Rs,Sri Lanka,New Zealand
+780,920,1934,37823,1,Rs,Sri Lanka,New Zealand
+780,920,1935,64547,1,Rs,Sri Lanka,New Zealand
+780,920,1936,47254,1,Rs,Sri Lanka,New Zealand
+780,920,1937,33510,1,Rs,Sri Lanka,New Zealand
+780,920,1938,47378,1,Rs,Sri Lanka,New Zealand
+780,920,1939,17.1,1000,,Sri Lanka,New Zealand
+780,920,1940,11.9,1000,,Sri Lanka,New Zealand
+780,920,1941,11.8,1000,,Sri Lanka,New Zealand
+780,920,1942,73.7,1000,,Sri Lanka,New Zealand
+780,920,1943,80.2,1000,,Sri Lanka,New Zealand
+780,920,1944,72.7,1000,,Sri Lanka,New Zealand
+780,920,1945,652,1000,,Sri Lanka,New Zealand
+780,920,1946,250,1000,,Sri Lanka,New Zealand
+780,920,1947,1061,1000,,Sri Lanka,New Zealand
+780,920,1948,212,1000,,Sri Lanka,New Zealand
+780,920,1949,308,1000,,Sri Lanka,New Zealand
+780,950,1917,0,1,Rs,Sri Lanka,Fiji
+780,950,1918,0,1,Rs,Sri Lanka,Fiji
+780,950,1919,0,1,Rs,Sri Lanka,Fiji
+780,950,1920,0,1,Rs,Sri Lanka,Fiji
+780,950,1921,0,1,Rs,Sri Lanka,Fiji
+780,950,1922,0,1,Rs,Sri Lanka,Fiji
+780,950,1923,3,1,Rs,Sri Lanka,Fiji
+780,950,1924,20,1,Rs,Sri Lanka,Fiji
+780,950,1925,5,1,Rs,Sri Lanka,Fiji
+780,950,1926,0,1,Rs,Sri Lanka,Fiji
+780,950,1927,0,1,Rs,Sri Lanka,Fiji
+780,950,1928,0,1,Rs,Sri Lanka,Fiji
+780,950,1929,0,1,Rs,Sri Lanka,Fiji
+780,950,1930,0,1,Rs,Sri Lanka,Fiji
+780,950,1931,0,1,Rs,Sri Lanka,Fiji
+780,950,1932,0,1,Rs,Sri Lanka,Fiji
+780,950,1933,0,1,Rs,Sri Lanka,Fiji
+780,950,1934,0,1,Rs,Sri Lanka,Fiji
+780,950,1935,0,1,Rs,Sri Lanka,Fiji
+780,950,1936,0,1,Rs,Sri Lanka,Fiji
+780,950,1937,52,1,Rs,Sri Lanka,Fiji
+780,950,1938,67,1,Rs,Sri Lanka,Fiji
+780,950,1939,0,1000,,Sri Lanka,Fiji
+780,950,1940,0,1000,,Sri Lanka,Fiji
+780,950,1941,0,1000,,Sri Lanka,Fiji
+780,950,1942,0,1000,,Sri Lanka,Fiji
+780,950,1943,0,1000,,Sri Lanka,Fiji
+780,950,1944,0,1000,,Sri Lanka,Fiji
+780,950,1945,0,1000,,Sri Lanka,Fiji
+780,950,1946,0,1000,,Sri Lanka,Fiji
+780,950,1947,0,1000,,Sri Lanka,Fiji
+780,950,1948,0,1000,,Sri Lanka,Fiji
+780,950,1949,0,1000,,Sri Lanka,Fiji
+780,1050,1917,3090,1,Rs,Sri Lanka,British West Indies
+780,1050,1918,3779,1,Rs,Sri Lanka,British West Indies
+780,1050,1919,4937,1,Rs,Sri Lanka,British West Indies
+780,1050,1920,4999,1,Rs,Sri Lanka,British West Indies
+780,1050,1921,1218,1,Rs,Sri Lanka,British West Indies
+780,1050,1922,4876,1,Rs,Sri Lanka,British West Indies
+780,1050,1923,6466,1,Rs,Sri Lanka,British West Indies
+780,1050,1924,7229,1,Rs,Sri Lanka,British West Indies
+780,1050,1925,10729,1,Rs,Sri Lanka,British West Indies
+780,1050,1926,7544,1,Rs,Sri Lanka,British West Indies
+780,1050,1927,5885,1,Rs,Sri Lanka,British West Indies
+780,1050,1928,5991,1,Rs,Sri Lanka,British West Indies
+780,1050,1929,11785,1,Rs,Sri Lanka,British West Indies
+780,1050,1930,6738,1,Rs,Sri Lanka,British West Indies
+780,1050,1931,7097,1,Rs,Sri Lanka,British West Indies
+780,1050,1932,4322,1,Rs,Sri Lanka,British West Indies
+780,1050,1933,18737,1,Rs,Sri Lanka,British West Indies
+780,1050,1934,29653,1,Rs,Sri Lanka,British West Indies
+780,1050,1935,39107,1,Rs,Sri Lanka,British West Indies
+780,1050,1936,20243,1,Rs,Sri Lanka,British West Indies
+780,1050,1937,24727,1,Rs,Sri Lanka,British West Indies
+780,1050,1938,24520,1,Rs,Sri Lanka,British West Indies
+780,1050,1939,21.5,1000,,Sri Lanka,British West Indies
+780,1050,1940,19.8,1000,,Sri Lanka,British West Indies
+780,1050,1941,4.9,1000,,Sri Lanka,British West Indies
+780,1050,1942,.5,1000,,Sri Lanka,British West Indies
+780,1050,1943,.4,1000,,Sri Lanka,British West Indies
+780,1050,1944,4.5,1000,,Sri Lanka,British West Indies
+780,1050,1945,30.6,1000,,Sri Lanka,British West Indies
+780,1050,1946,3.5,1000,,Sri Lanka,British West Indies
+780,1050,1947,10.7,1000,,Sri Lanka,British West Indies
+780,1050,1948,3.7,1000,,Sri Lanka,British West Indies
+780,1050,1949,3.4,1000,,Sri Lanka,British West Indies
+780,2008,1917,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1918,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1919,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1920,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1921,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1922,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1923,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1924,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1925,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1926,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1927,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1928,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1929,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1930,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1931,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1932,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1933,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1934,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1935,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1936,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1937,0,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1938,58,1,Rs,Sri Lanka,Other British Oceania
+780,2008,1939,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1940,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1941,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1942,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1943,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1944,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1945,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1946,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1947,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1948,0,1000,,Sri Lanka,Other British Oceania
+780,2008,1949,0,1000,,Sri Lanka,Other British Oceania
+780,3651,1917,1875,1,Rs,Sri Lanka,Siberia
+780,3651,1918,0,1,Rs,Sri Lanka,Siberia
+780,3651,1919,0,1,Rs,Sri Lanka,Siberia
+780,3651,1920,0,1,Rs,Sri Lanka,Siberia
+780,3651,1921,246,1,Rs,Sri Lanka,Siberia
+780,3651,1922,269,1,Rs,Sri Lanka,Siberia
+780,3651,1923,1743972,1,Rs,Sri Lanka,Siberia
+780,3651,1924,3209567,1,Rs,Sri Lanka,Siberia
+780,3651,1925,3808674,1,Rs,Sri Lanka,Siberia
+780,3651,1926,732,1,Rs,Sri Lanka,Siberia
+780,3651,1927,364,1,Rs,Sri Lanka,Siberia
+780,3651,1928,510,1,Rs,Sri Lanka,Siberia
+780,3651,1929,8380,1,Rs,Sri Lanka,Siberia
+780,3651,1930,6931,1,Rs,Sri Lanka,Siberia
+780,3651,1931,3621,1,Rs,Sri Lanka,Siberia
+780,3651,1932,6255,1,Rs,Sri Lanka,Siberia
+780,3651,1933,3283,1,Rs,Sri Lanka,Siberia
+780,3651,1934,3344,1,Rs,Sri Lanka,Siberia
+780,3651,1935,9809,1,Rs,Sri Lanka,Siberia
+780,3651,1936,7462,1,Rs,Sri Lanka,Siberia
+780,3651,1937,13511,1,Rs,Sri Lanka,Siberia
+780,3651,1938,14053,1,Rs,Sri Lanka,Siberia
+780,3651,1939,0,1000,,Sri Lanka,Siberia
+780,3651,1940,0,1000,,Sri Lanka,Siberia
+780,3651,1941,0,1000,,Sri Lanka,Siberia
+780,3651,1942,0,1000,,Sri Lanka,Siberia
+780,3651,1943,0,1000,,Sri Lanka,Siberia
+780,3651,1944,0,1000,,Sri Lanka,Siberia
+780,3651,1945,0,1000,,Sri Lanka,Siberia
+780,3651,1946,0,1000,,Sri Lanka,Siberia
+780,3651,1947,0,1000,,Sri Lanka,Siberia
+780,3651,1948,0,1000,,Sri Lanka,Siberia
+780,3651,1949,0,1000,,Sri Lanka,Siberia
+780,6411,1917,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1918,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1919,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1920,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1921,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1922,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1923,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1924,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1925,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1926,506,1,Rs,Sri Lanka,Smyrna
+780,6411,1927,445,1,Rs,Sri Lanka,Smyrna
+780,6411,1928,757,1,Rs,Sri Lanka,Smyrna
+780,6411,1929,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1930,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1931,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1932,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1933,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1934,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1935,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1936,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1937,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1938,0,1,Rs,Sri Lanka,Smyrna
+780,6411,1939,0,1000,,Sri Lanka,Smyrna
+780,6411,1940,0,1000,,Sri Lanka,Smyrna
+780,6411,1941,0,1000,,Sri Lanka,Smyrna
+780,6411,1942,0,1000,,Sri Lanka,Smyrna
+780,6411,1943,0,1000,,Sri Lanka,Smyrna
+780,6411,1944,0,1000,,Sri Lanka,Smyrna
+780,6411,1945,0,1000,,Sri Lanka,Smyrna
+780,6411,1946,0,1000,,Sri Lanka,Smyrna
+780,6411,1947,0,1000,,Sri Lanka,Smyrna
+780,6411,1948,0,1000,,Sri Lanka,Smyrna
+780,6411,1949,0,1000,,Sri Lanka,Smyrna
+780,8151,1917,309,1,Rs,Sri Lanka,Cochin China
+780,8151,1918,180,1,Rs,Sri Lanka,Cochin China
+780,8151,1919,4727,1,Rs,Sri Lanka,Cochin China
+780,8151,1920,7099,1,Rs,Sri Lanka,Cochin China
+780,8151,1921,5049,1,Rs,Sri Lanka,Cochin China
+780,8151,1922,124459,1,Rs,Sri Lanka,Cochin China
+780,8151,1923,52793,1,Rs,Sri Lanka,Cochin China
+780,8151,1924,21676,1,Rs,Sri Lanka,Cochin China
+780,8151,1925,71461,1,Rs,Sri Lanka,Cochin China
+780,8151,1926,16549,1,Rs,Sri Lanka,Cochin China
+780,8151,1927,149014,1,Rs,Sri Lanka,Cochin China
+780,8151,1928,4488518,1,Rs,Sri Lanka,Cochin China
+780,8151,1929,6089618,1,Rs,Sri Lanka,Cochin China
+780,8151,1930,2483497,1,Rs,Sri Lanka,Cochin China
+780,8151,1931,1617108,1,Rs,Sri Lanka,Cochin China
+780,8151,1932,1255273,1,Rs,Sri Lanka,Cochin China
+780,8151,1933,441889,1,Rs,Sri Lanka,Cochin China
+780,8151,1934,424018,1,Rs,Sri Lanka,Cochin China
+780,8151,1935,1045083,1,Rs,Sri Lanka,Cochin China
+780,8151,1936,579358,1,Rs,Sri Lanka,Cochin China
+780,8151,1937,912532,1,Rs,Sri Lanka,Cochin China
+780,8151,1938,905144,1,Rs,Sri Lanka,Cochin China
+780,8151,1939,2503,1000,,Sri Lanka,Cochin China
+780,8151,1940,5117,1000,,Sri Lanka,Cochin China
+780,8151,1941,0,1000,,Sri Lanka,Cochin China
+780,8151,1942,0,1000,,Sri Lanka,Cochin China
+780,8151,1943,0,1000,,Sri Lanka,Cochin China
+780,8151,1944,0,1000,,Sri Lanka,Cochin China
+780,8151,1945,0,1000,,Sri Lanka,Cochin China
+780,8151,1946,0,1000,,Sri Lanka,Cochin China
+780,8151,1947,63,1000,,Sri Lanka,Cochin China
+780,8151,1948,0,1000,,Sri Lanka,Cochin China
+780,8151,1949,7.6,1000,,Sri Lanka,Cochin China
+780,8501,1917,2385352,1,Rs,Sri Lanka,Java
+780,8501,1918,2393057,1,Rs,Sri Lanka,Java
+780,8501,1919,6868910,1,Rs,Sri Lanka,Java
+780,8501,1920,6559565,1,Rs,Sri Lanka,Java
+780,8501,1921,7928468,1,Rs,Sri Lanka,Java
+780,8501,1922,7517320,1,Rs,Sri Lanka,Java
+780,8501,1923,9465182,1,Rs,Sri Lanka,Java
+780,8501,1924,11731075,1,Rs,Sri Lanka,Java
+780,8501,1925,11078008,1,Rs,Sri Lanka,Java
+780,8501,1926,13384998,1,Rs,Sri Lanka,Java
+780,8501,1927,14447829,1,Rs,Sri Lanka,Java
+780,8501,1928,16958539,1,Rs,Sri Lanka,Java
+780,8501,1929,13763469,1,Rs,Sri Lanka,Java
+780,8501,1930,13576451,1,Rs,Sri Lanka,Java
+780,8501,1931,8525773,1,Rs,Sri Lanka,Java
+780,8501,1932,5737576,1,Rs,Sri Lanka,Java
+780,8501,1933,5598883,1,Rs,Sri Lanka,Java
+780,8501,1934,6189606,1,Rs,Sri Lanka,Java
+780,8501,1935,6185689,1,Rs,Sri Lanka,Java
+780,8501,1936,5866506,1,Rs,Sri Lanka,Java
+780,8501,1937,7566150,1,Rs,Sri Lanka,Java
+780,8501,1938,7807795,1,Rs,Sri Lanka,Java
+780,8501,1939,8947,1000,,Sri Lanka,Java
+780,8501,1940,12238,1000,,Sri Lanka,Java
+780,8501,1941,12718,1000,,Sri Lanka,Java
+780,8501,1942,4940,1000,,Sri Lanka,Java
+780,8501,1943,2.3,1000,,Sri Lanka,Java
+780,8501,1944,0,1000,,Sri Lanka,Java
+780,8501,1945,0,1000,,Sri Lanka,Java
+780,8501,1946,20.8,1000,,Sri Lanka,Java
+780,8501,1947,84.8,1000,,Sri Lanka,Java
+780,8501,1948,3086,1000,,Sri Lanka,Java
+780,8501,1949,742,1000,,Sri Lanka,Java
+780,8502,1917,1307364,1,Rs,Sri Lanka,Sumatra
+780,8502,1918,3859978,1,Rs,Sri Lanka,Sumatra
+780,8502,1919,2257902,1,Rs,Sri Lanka,Sumatra
+780,8502,1920,1257306,1,Rs,Sri Lanka,Sumatra
+780,8502,1921,2336248,1,Rs,Sri Lanka,Sumatra
+780,8502,1922,1752704,1,Rs,Sri Lanka,Sumatra
+780,8502,1923,2535237,1,Rs,Sri Lanka,Sumatra
+780,8502,1924,4137852,1,Rs,Sri Lanka,Sumatra
+780,8502,1925,5990310,1,Rs,Sri Lanka,Sumatra
+780,8502,1926,9616998,1,Rs,Sri Lanka,Sumatra
+780,8502,1927,11900350,1,Rs,Sri Lanka,Sumatra
+780,8502,1928,14919585,1,Rs,Sri Lanka,Sumatra
+780,8502,1929,18683497,1,Rs,Sri Lanka,Sumatra
+780,8502,1930,13465245,1,Rs,Sri Lanka,Sumatra
+780,8502,1931,8968776,1,Rs,Sri Lanka,Sumatra
+780,8502,1932,9337550,1,Rs,Sri Lanka,Sumatra
+780,8502,1933,7943507,1,Rs,Sri Lanka,Sumatra
+780,8502,1934,9541481,1,Rs,Sri Lanka,Sumatra
+780,8502,1935,9356547,1,Rs,Sri Lanka,Sumatra
+780,8502,1936,6823095,1,Rs,Sri Lanka,Sumatra
+780,8502,1937,10942573,1,Rs,Sri Lanka,Sumatra
+780,8502,1938,9341688,1,Rs,Sri Lanka,Sumatra
+780,8502,1939,12528,1000,,Sri Lanka,Sumatra
+780,8502,1940,10918,1000,,Sri Lanka,Sumatra
+780,8502,1941,8637,1000,,Sri Lanka,Sumatra
+780,8502,1942,58,1000,,Sri Lanka,Sumatra
+780,8502,1943,0,1000,,Sri Lanka,Sumatra
+780,8502,1944,0,1000,,Sri Lanka,Sumatra
+780,8502,1945,0,1000,,Sri Lanka,Sumatra
+780,8502,1946,5.8,1000,,Sri Lanka,Sumatra
+780,8502,1947,41.5,1000,,Sri Lanka,Sumatra
+780,8502,1948,557,1000,,Sri Lanka,Sumatra
+780,8502,1949,1953,1000,,Sri Lanka,Sumatra
+780,,1917,194003365,1,Rs,Sri Lanka,
+780,,1918,192034809,1,Rs,Sri Lanka,
+780,,1919,261399003,1,Rs,Sri Lanka,
+780,,1920,336501216,1,Rs,Sri Lanka,
+780,,1921,285491806,1,Rs,Sri Lanka,
+780,,1922,305211522,1,Rs,Sri Lanka,
+780,,1923,306885648,1,Rs,Sri Lanka,
+780,,1924,325149509,1,Rs,Sri Lanka,
+780,,1925,371935940,1,Rs,Sri Lanka,
+780,,1926,406156227,1,Rs,Sri Lanka,
+780,,1927,423460483,1,Rs,Sri Lanka,
+780,,1928,412650422,1,Rs,Sri Lanka,
+780,,1929,413506783,1,Rs,Sri Lanka,
+780,,1930,310997319,1,Rs,Sri Lanka,
+780,,1931,224973092,1,Rs,Sri Lanka,
+780,,1932,203029173,1,Rs,Sri Lanka,
+780,,1933,183881576,1,Rs,Sri Lanka,
+780,,1934,224532114,1,Rs,Sri Lanka,
+780,,1935,234457742,1,Rs,Sri Lanka,
+780,,1936,221284614,1,Rs,Sri Lanka,
+780,,1937,252039302,1,Rs,Sri Lanka,
+780,,1938,242673367,1,Rs,Sri Lanka,
+780,,1939,247861.7,1000,,Sri Lanka,
+780,,1940,289252.6,1000,,Sri Lanka,
+780,,1941,201516.5,1000,,Sri Lanka,
+780,,1942,302532.2,1000,,Sri Lanka,
+780,,1943,453201.9999999999,1000,,Sri Lanka,
+780,,1944,534542.8,1000,,Sri Lanka,
+780,,1945,629925.9,1000,,Sri Lanka,
+780,,1946,710702.3000000003,1000,,Sri Lanka,
+780,,1947,969437.4999999999,1000,,Sri Lanka,
+780,,1948,1002365.5,1000,,Sri Lanka,
+780,,1949,1055404,1000,,Sri Lanka,

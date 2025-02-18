@@ -1,0 +1,175 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+366,2,1923,341322280,1,Marks Estoniens,Estonia,United States
+366,2,1924,1029299360,1,Marks Estoniens,Estonia,United States
+366,2,1925,2280832,1000,Marks Estoniens,Estonia,United States
+366,2,1926,1146173,1000,Marks Estoniens,Estonia,United States
+366,2,1927,1373928,1000,Marks Estoniens,Estonia,United States
+366,2,1928,23607,1000,Kroon,Estonia,United States
+366,20,1923,0,1,Marks Estoniens,Estonia,Canada
+366,20,1924,3566800,1,Marks Estoniens,Estonia,Canada
+366,20,1925,0,1000,Marks Estoniens,Estonia,Canada
+366,20,1926,0,1000,Marks Estoniens,Estonia,Canada
+366,20,1927,0,1000,Marks Estoniens,Estonia,Canada
+366,20,1928,0,1000,Kroon,Estonia,Canada
+366,160,1923,0,1,Marks Estoniens,Estonia,Argentina
+366,160,1924,1790940,1,Marks Estoniens,Estonia,Argentina
+366,160,1925,0,1000,Marks Estoniens,Estonia,Argentina
+366,160,1926,0,1000,Marks Estoniens,Estonia,Argentina
+366,160,1927,0,1000,Marks Estoniens,Estonia,Argentina
+366,160,1928,0,1000,Kroon,Estonia,Argentina
+366,200,1923,1840991940,1,Marks Estoniens,Estonia,United Kingdom
+366,200,1924,1147293210,1,Marks Estoniens,Estonia,United Kingdom
+366,200,1925,1184441,1000,Marks Estoniens,Estonia,United Kingdom
+366,200,1926,1158340,1000,Marks Estoniens,Estonia,United Kingdom
+366,200,1927,1375859,1000,Marks Estoniens,Estonia,United Kingdom
+366,200,1928,14390,1000,Kroon,Estonia,United Kingdom
+366,210,1923,102583900,1,Marks Estoniens,Estonia,Netherlands
+366,210,1924,223355980,1,Marks Estoniens,Estonia,Netherlands
+366,210,1925,346099,1000,Marks Estoniens,Estonia,Netherlands
+366,210,1926,192257,1000,Marks Estoniens,Estonia,Netherlands
+366,210,1927,149666,1000,Marks Estoniens,Estonia,Netherlands
+366,210,1928,2357,1000,Kroon,Estonia,Netherlands
+366,211,1923,218366560,1,Marks Estoniens,Estonia,Belgium
+366,211,1924,131687750,1,Marks Estoniens,Estonia,Belgium
+366,211,1925,238206,1000,Marks Estoniens,Estonia,Belgium
+366,211,1926,163889,1000,Marks Estoniens,Estonia,Belgium
+366,211,1927,184798,1000,Marks Estoniens,Estonia,Belgium
+366,211,1928,2215,1000,Kroon,Estonia,Belgium
+366,220,1923,53058080,1,Marks Estoniens,Estonia,France
+366,220,1924,91175640,1,Marks Estoniens,Estonia,France
+366,220,1925,132523,1000,Marks Estoniens,Estonia,France
+366,220,1926,266688,1000,Marks Estoniens,Estonia,France
+366,220,1927,338071,1000,Marks Estoniens,Estonia,France
+366,220,1928,5135,1000,Kroon,Estonia,France
+366,230,1923,0,1,Marks Estoniens,Estonia,Spain
+366,230,1924,8490170,1,Marks Estoniens,Estonia,Spain
+366,230,1925,0,1000,Marks Estoniens,Estonia,Spain
+366,230,1926,0,1000,Marks Estoniens,Estonia,Spain
+366,230,1927,0,1000,Marks Estoniens,Estonia,Spain
+366,230,1928,0,1000,Kroon,Estonia,Spain
+366,235,1923,0,1,Marks Estoniens,Estonia,Portugal
+366,235,1924,3030330,1,Marks Estoniens,Estonia,Portugal
+366,235,1925,0,1000,Marks Estoniens,Estonia,Portugal
+366,235,1926,0,1000,Marks Estoniens,Estonia,Portugal
+366,235,1927,0,1000,Marks Estoniens,Estonia,Portugal
+366,235,1928,0,1000,Kroon,Estonia,Portugal
+366,255,1923,4760565420,1,Marks Estoniens,Estonia,Germany
+366,255,1924,3003302050,1,Marks Estoniens,Estonia,Germany
+366,255,1925,2841279,1000,Marks Estoniens,Estonia,Germany
+366,255,1926,2783831,1000,Marks Estoniens,Estonia,Germany
+366,255,1927,2550170,1000,Marks Estoniens,Estonia,Germany
+366,255,1928,39783,1000,Kroon,Estonia,Germany
+366,290,1923,7647410,1,Marks Estoniens,Estonia,Poland
+366,290,1924,79745590,1,Marks Estoniens,Estonia,Poland
+366,290,1925,158643,1000,Marks Estoniens,Estonia,Poland
+366,290,1926,992502,1000,Marks Estoniens,Estonia,Poland
+366,290,1927,411402,1000,Marks Estoniens,Estonia,Poland
+366,290,1928,6216,1000,Kroon,Estonia,Poland
+366,291,1923,383541990,1,Marks Estoniens,Estonia,Danzig
+366,291,1924,93125780,1,Marks Estoniens,Estonia,Danzig
+366,291,1925,70227,1000,Marks Estoniens,Estonia,Danzig
+366,291,1926,33480,1000,Marks Estoniens,Estonia,Danzig
+366,291,1927,17263,1000,Marks Estoniens,Estonia,Danzig
+366,291,1928,110,1000,Kroon,Estonia,Danzig
+366,305,1923,0,1,Marks Estoniens,Estonia,Austria
+366,305,1924,3623920,1,Marks Estoniens,Estonia,Austria
+366,305,1925,0,1000,Marks Estoniens,Estonia,Austria
+366,305,1926,0,1000,Marks Estoniens,Estonia,Austria
+366,305,1927,0,1000,Marks Estoniens,Estonia,Austria
+366,305,1928,0,1000,Kroon,Estonia,Austria
+366,315,1923,0,1,Marks Estoniens,Estonia,Czechoslovakia
+366,315,1924,86979210,1,Marks Estoniens,Estonia,Czechoslovakia
+366,315,1925,0,1000,Marks Estoniens,Estonia,Czechoslovakia
+366,315,1926,0,1000,Marks Estoniens,Estonia,Czechoslovakia
+366,315,1927,0,1000,Marks Estoniens,Estonia,Czechoslovakia
+366,315,1928,0,1000,Kroon,Estonia,Czechoslovakia
+366,325,1923,0,1,Marks Estoniens,Estonia,Italy
+366,325,1924,9794480,1,Marks Estoniens,Estonia,Italy
+366,325,1925,0,1000,Marks Estoniens,Estonia,Italy
+366,325,1926,0,1000,Marks Estoniens,Estonia,Italy
+366,325,1927,0,1000,Marks Estoniens,Estonia,Italy
+366,325,1928,0,1000,Kroon,Estonia,Italy
+366,367,1923,344838340,1,Marks Estoniens,Estonia,Latvia
+366,367,1924,314544370,1,Marks Estoniens,Estonia,Latvia
+366,367,1925,394104,1000,Marks Estoniens,Estonia,Latvia
+366,367,1926,311736,1000,Marks Estoniens,Estonia,Latvia
+366,367,1927,300286,1000,Marks Estoniens,Estonia,Latvia
+366,367,1928,3988,1000,Kroon,Estonia,Latvia
+366,368,1923,6597210,1,Marks Estoniens,Estonia,Lithuania
+366,368,1924,5770590,1,Marks Estoniens,Estonia,Lithuania
+366,368,1925,0,1000,Marks Estoniens,Estonia,Lithuania
+366,368,1926,0,1000,Marks Estoniens,Estonia,Lithuania
+366,368,1927,0,1000,Marks Estoniens,Estonia,Lithuania
+366,368,1928,0,1000,Kroon,Estonia,Lithuania
+366,375,1923,298348500,1,Marks Estoniens,Estonia,Finland
+366,375,1924,196065290,1,Marks Estoniens,Estonia,Finland
+366,375,1925,312994,1000,Marks Estoniens,Estonia,Finland
+366,375,1926,306199,1000,Marks Estoniens,Estonia,Finland
+366,375,1927,207730,1000,Marks Estoniens,Estonia,Finland
+366,375,1928,2291,1000,Kroon,Estonia,Finland
+366,380,1923,297683270,1,Marks Estoniens,Estonia,Sweden
+366,380,1924,325696330,1,Marks Estoniens,Estonia,Sweden
+366,380,1925,382436,1000,Marks Estoniens,Estonia,Sweden
+366,380,1926,443623,1000,Marks Estoniens,Estonia,Sweden
+366,380,1927,488967,1000,Marks Estoniens,Estonia,Sweden
+366,380,1928,6939,1000,Kroon,Estonia,Sweden
+366,385,1923,9833610,1,Marks Estoniens,Estonia,Norway
+366,385,1924,71536780,1,Marks Estoniens,Estonia,Norway
+366,385,1925,78877,1000,Marks Estoniens,Estonia,Norway
+366,385,1926,80273,1000,Marks Estoniens,Estonia,Norway
+366,385,1927,28111,1000,Marks Estoniens,Estonia,Norway
+366,385,1928,374,1000,Kroon,Estonia,Norway
+366,390,1923,286155440,1,Marks Estoniens,Estonia,Denmark
+366,390,1924,214802010,1,Marks Estoniens,Estonia,Denmark
+366,390,1925,134200,1000,Marks Estoniens,Estonia,Denmark
+366,390,1926,117027,1000,Marks Estoniens,Estonia,Denmark
+366,390,1927,163395,1000,Marks Estoniens,Estonia,Denmark
+366,390,1928,2355,1000,Kroon,Estonia,Denmark
+366,630,1923,0,1,Marks Estoniens,Estonia,Iran
+366,630,1924,2830600,1,Marks Estoniens,Estonia,Iran
+366,630,1925,0,1000,Marks Estoniens,Estonia,Iran
+366,630,1926,0,1000,Marks Estoniens,Estonia,Iran
+366,630,1927,0,1000,Marks Estoniens,Estonia,Iran
+366,630,1928,0,1000,Kroon,Estonia,Iran
+366,640,1923,0,1,Marks Estoniens,Estonia,Turkey
+366,640,1924,7769090,1,Marks Estoniens,Estonia,Turkey
+366,640,1925,0,1000,Marks Estoniens,Estonia,Turkey
+366,640,1926,0,1000,Marks Estoniens,Estonia,Turkey
+366,640,1927,0,1000,Marks Estoniens,Estonia,Turkey
+366,640,1928,0,1000,Kroon,Estonia,Turkey
+366,651,1923,0,1,Marks Estoniens,Estonia,Egypt
+366,651,1924,42273860,1,Marks Estoniens,Estonia,Egypt
+366,651,1925,0,1000,Marks Estoniens,Estonia,Egypt
+366,651,1926,0,1000,Marks Estoniens,Estonia,Egypt
+366,651,1927,0,1000,Marks Estoniens,Estonia,Egypt
+366,651,1928,0,1000,Kroon,Estonia,Egypt
+366,710,1923,0,1,Marks Estoniens,Estonia,China
+366,710,1924,7198470,1,Marks Estoniens,Estonia,China
+366,710,1925,0,1000,Marks Estoniens,Estonia,China
+366,710,1926,0,1000,Marks Estoniens,Estonia,China
+366,710,1927,0,1000,Marks Estoniens,Estonia,China
+366,710,1928,0,1000,Kroon,Estonia,China
+366,740,1923,0,1,Marks Estoniens,Estonia,Japan
+366,740,1924,2034770,1,Marks Estoniens,Estonia,Japan
+366,740,1925,0,1000,Marks Estoniens,Estonia,Japan
+366,740,1926,0,1000,Marks Estoniens,Estonia,Japan
+366,740,1927,0,1000,Marks Estoniens,Estonia,Japan
+366,740,1928,0,1000,Kroon,Estonia,Japan
+366,750,1923,0,1,Marks Estoniens,Estonia,India
+366,750,1924,15975650,1,Marks Estoniens,Estonia,India
+366,750,1925,0,1000,Marks Estoniens,Estonia,India
+366,750,1926,0,1000,Marks Estoniens,Estonia,India
+366,750,1927,0,1000,Marks Estoniens,Estonia,India
+366,750,1928,0,1000,Kroon,Estonia,India
+366,3651,1923,378050400,1,Marks Estoniens,Estonia,Siberia
+366,3651,1924,1048120540,1,Marks Estoniens,Estonia,Siberia
+366,3651,1925,426212,1000,Marks Estoniens,Estonia,Siberia
+366,3651,1926,712052,1000,Marks Estoniens,Estonia,Siberia
+366,3651,1927,877507,1000,Marks Estoniens,Estonia,Siberia
+366,3651,1928,4939,1000,Kroon,Estonia,Siberia
+366,,1923,9334975350,1,Marks Estoniens,Estonia,
+366,,1924,8237538720,1,Marks Estoniens,Estonia,
+366,,1925,10328177,1000,Marks Estoniens,Estonia,
+366,,1926,10405880,1000,Marks Estoniens,Estonia,
+366,,1927,10816293,1000,Marks Estoniens,Estonia,
+366,,1928,148047,1000,Kroon,Estonia,

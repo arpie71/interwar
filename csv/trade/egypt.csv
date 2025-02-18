@@ -1,0 +1,3132 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+651,2,1919,2889749,1,,Egypt,United States
+651,2,1920,10751055,1,,Egypt,United States
+651,2,1921,8355500,1,Egyptian Pounds,Egypt,United States
+651,2,1922,1590945,1,Egyptian Pounds,Egypt,United States
+651,2,1923,1702765,1,Egyptian Pounds,Egypt,United States
+651,2,1924,1798542,1,Egyptian Pounds,Egypt,United States
+651,2,1925,2116238,1,Egyptian Pounds,Egypt,United States
+651,2,1926,2474217,1,Egyptian Pounds,Egypt,United States
+651,2,1927,2274503,1,Egyptian Pounds,Egypt,United States
+651,2,1928,2687799,1,Egyptian Pounds,Egypt,United States
+651,2,1929,2795965,1,Egyptian Pounds,Egypt,United States
+651,2,1930,2209923,1,Egyptian Pounds,Egypt,United States
+651,2,1931,1366567,1,Egyptian Pounds,Egypt,United States
+651,2,1932,871201,1,Egyptian Pounds,Egypt,United States
+651,2,1933,857118,1,Egyptian Pounds,Egypt,United States
+651,2,1934,1185871,1,Egyptian Pounds,Egypt,United States
+651,2,1935,1666372,1,Egyptian Pounds,Egypt,United States
+651,2,1936,1810152,1,Egyptian Pounds,Egypt,United States
+651,2,1937,2143206,1,Egyptian Pounds,Egypt,United States
+651,2,1938,2456083,1,Egyptian Pounds,Egypt,United States
+651,2,1939,2681645,1,Egyptian Pounds,Egypt,United States
+651,2,1940,3594673,1,Egyptian Pounds,Egypt,United States
+651,2,1941,8092517,1,Egyptian Pounds,Egypt,United States
+651,2,1942,13238998,1,Egyptian Pounds,Egypt,United States
+651,2,1943,4302952,1,Egyptian Pounds,Egypt,United States
+651,2,1944,6727155,1,Egyptian Pounds,Egypt,United States
+651,2,1945,8428377,1,Egyptian Pounds,Egypt,United States
+651,2,1946,9110895,1,Egyptian Pounds,Egypt,United States
+651,2,1947,11658961,1,Egyptian Pounds,Egypt,United States
+651,2,1948,12352928,1,Egyptian Pounds,Egypt,United States
+651,2,1949,14752070,1,Egyptian Pounds,Egypt,United States
+651,20,1919,33520,1,,Egypt,Canada
+651,20,1920,244952,1,,Egypt,Canada
+651,20,1921,108857,1,Egyptian Pounds,Egypt,Canada
+651,20,1922,27631,1,Egyptian Pounds,Egypt,Canada
+651,20,1923,28250,1,Egyptian Pounds,Egypt,Canada
+651,20,1924,29070,1,Egyptian Pounds,Egypt,Canada
+651,20,1925,48293,1,Egyptian Pounds,Egypt,Canada
+651,20,1926,26508,1,Egyptian Pounds,Egypt,Canada
+651,20,1927,27377,1,Egyptian Pounds,Egypt,Canada
+651,20,1928,27692,1,Egyptian Pounds,Egypt,Canada
+651,20,1929,158882,1,Egyptian Pounds,Egypt,Canada
+651,20,1930,70804,1,Egyptian Pounds,Egypt,Canada
+651,20,1931,27104,1,Egyptian Pounds,Egypt,Canada
+651,20,1932,49110,1,Egyptian Pounds,Egypt,Canada
+651,20,1933,59275,1,Egyptian Pounds,Egypt,Canada
+651,20,1934,49447,1,Egyptian Pounds,Egypt,Canada
+651,20,1935,47315,1,Egyptian Pounds,Egypt,Canada
+651,20,1936,37466,1,Egyptian Pounds,Egypt,Canada
+651,20,1937,37675,1,Egyptian Pounds,Egypt,Canada
+651,20,1938,51182,1,Egyptian Pounds,Egypt,Canada
+651,20,1939,46625,1,Egyptian Pounds,Egypt,Canada
+651,20,1940,83469,1,Egyptian Pounds,Egypt,Canada
+651,20,1941,311408,1,Egyptian Pounds,Egypt,Canada
+651,20,1942,1312925,1,Egyptian Pounds,Egypt,Canada
+651,20,1943,531066,1,Egyptian Pounds,Egypt,Canada
+651,20,1944,2413001,1,Egyptian Pounds,Egypt,Canada
+651,20,1945,4613471,1,Egyptian Pounds,Egypt,Canada
+651,20,1946,2961072,1,Egyptian Pounds,Egypt,Canada
+651,20,1947,927976,1,Egyptian Pounds,Egypt,Canada
+651,20,1948,5388895,1,Egyptian Pounds,Egypt,Canada
+651,20,1949,5868461,1,Egyptian Pounds,Egypt,Canada
+651,30,1919,0,1,,Egypt,Bermuda
+651,30,1920,0,1,,Egypt,Bermuda
+651,30,1921,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1922,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1923,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1924,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1925,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1926,1,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1927,6,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1928,3,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1929,1,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1930,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1931,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1932,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1933,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1934,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1935,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1936,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1937,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1938,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1939,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1940,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1941,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1942,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1943,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1944,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1945,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1946,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1947,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1948,0,1,Egyptian Pounds,Egypt,Bermuda
+651,30,1949,0,1,Egyptian Pounds,Egypt,Bermuda
+651,40,1919,0,1,,Egypt,Cuba
+651,40,1920,0,1,,Egypt,Cuba
+651,40,1921,2196,1,Egyptian Pounds,Egypt,Cuba
+651,40,1922,3008,1,Egyptian Pounds,Egypt,Cuba
+651,40,1923,1942,1,Egyptian Pounds,Egypt,Cuba
+651,40,1924,1638,1,Egyptian Pounds,Egypt,Cuba
+651,40,1925,4537,1,Egyptian Pounds,Egypt,Cuba
+651,40,1926,2445,1,Egyptian Pounds,Egypt,Cuba
+651,40,1927,5045,1,Egyptian Pounds,Egypt,Cuba
+651,40,1928,3794,1,Egyptian Pounds,Egypt,Cuba
+651,40,1929,5822,1,Egyptian Pounds,Egypt,Cuba
+651,40,1930,4407,1,Egyptian Pounds,Egypt,Cuba
+651,40,1931,3567,1,Egyptian Pounds,Egypt,Cuba
+651,40,1932,2844,1,Egyptian Pounds,Egypt,Cuba
+651,40,1933,2421,1,Egyptian Pounds,Egypt,Cuba
+651,40,1934,672,1,Egyptian Pounds,Egypt,Cuba
+651,40,1935,19462,1,Egyptian Pounds,Egypt,Cuba
+651,40,1936,28223,1,Egyptian Pounds,Egypt,Cuba
+651,40,1937,1456,1,Egyptian Pounds,Egypt,Cuba
+651,40,1938,1423,1,Egyptian Pounds,Egypt,Cuba
+651,40,1939,1161,1,Egyptian Pounds,Egypt,Cuba
+651,40,1940,55015,1,Egyptian Pounds,Egypt,Cuba
+651,40,1941,6282,1,Egyptian Pounds,Egypt,Cuba
+651,40,1942,7697,1,Egyptian Pounds,Egypt,Cuba
+651,40,1943,6484,1,Egyptian Pounds,Egypt,Cuba
+651,40,1944,15554,1,Egyptian Pounds,Egypt,Cuba
+651,40,1945,31217,1,Egyptian Pounds,Egypt,Cuba
+651,40,1946,20432,1,Egyptian Pounds,Egypt,Cuba
+651,40,1947,13478,1,Egyptian Pounds,Egypt,Cuba
+651,40,1948,5136,1,Egyptian Pounds,Egypt,Cuba
+651,40,1949,35442,1,Egyptian Pounds,Egypt,Cuba
+651,51,1919,0,1,,Egypt,Jamaica
+651,51,1920,0,1,,Egypt,Jamaica
+651,51,1921,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1922,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1923,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1924,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1925,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1926,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1927,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1928,0,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1929,455,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1930,1321,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1931,2640,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1932,496,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1933,574,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1934,470,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1935,153,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1936,220,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1937,645,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1938,291,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1939,306,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1940,321,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1941,1243,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1942,2238,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1943,67,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1944,55,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1945,5069,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1946,873,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1947,1609,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1948,1560,1,Egyptian Pounds,Egypt,Jamaica
+651,51,1949,6148,1,Egyptian Pounds,Egypt,Jamaica
+651,52,1919,0,1,,Egypt,Trinidad And Tobago
+651,52,1920,0,1,,Egypt,Trinidad And Tobago
+651,52,1921,2104,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1922,2011,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1923,10035,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1924,37500,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1925,40017,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1926,38238,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1927,44170,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1928,44133,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1929,40630,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1930,21341,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1931,23143,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1932,9186,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1933,12318,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1934,13650,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1935,16498,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1936,21500,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1937,21399,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1938,5,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1939,12553,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1940,44,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1941,1712,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1942,0,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1943,0,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1944,0,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1945,1161,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1946,3150,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1947,0,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1948,869,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,52,1949,1488,1,Egyptian Pounds,Egypt,Trinidad And Tobago
+651,68,1919,0,1,,Egypt,Netherlands Antilles
+651,68,1920,0,1,,Egypt,Netherlands Antilles
+651,68,1921,48,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1922,850,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1923,65852,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1924,1366,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1925,32594,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1926,23136,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1927,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1928,21781,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1929,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1930,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1931,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1932,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1933,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1934,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1935,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1936,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1937,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1938,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1939,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1940,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1941,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1942,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1943,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1944,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1945,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1946,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1947,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1948,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,68,1949,0,1,Egyptian Pounds,Egypt,Netherlands Antilles
+651,70,1919,0,1,,Egypt,Mexico
+651,70,1920,0,1,,Egypt,Mexico
+651,70,1921,323540,1,Egyptian Pounds,Egypt,Mexico
+651,70,1922,127314,1,Egyptian Pounds,Egypt,Mexico
+651,70,1923,51255,1,Egyptian Pounds,Egypt,Mexico
+651,70,1924,91363,1,Egyptian Pounds,Egypt,Mexico
+651,70,1925,52356,1,Egyptian Pounds,Egypt,Mexico
+651,70,1926,60,1,Egyptian Pounds,Egypt,Mexico
+651,70,1927,52,1,Egyptian Pounds,Egypt,Mexico
+651,70,1928,306,1,Egyptian Pounds,Egypt,Mexico
+651,70,1929,338,1,Egyptian Pounds,Egypt,Mexico
+651,70,1930,114,1,Egyptian Pounds,Egypt,Mexico
+651,70,1931,69,1,Egyptian Pounds,Egypt,Mexico
+651,70,1932,42,1,Egyptian Pounds,Egypt,Mexico
+651,70,1933,23,1,Egyptian Pounds,Egypt,Mexico
+651,70,1934,208,1,Egyptian Pounds,Egypt,Mexico
+651,70,1935,729,1,Egyptian Pounds,Egypt,Mexico
+651,70,1936,290,1,Egyptian Pounds,Egypt,Mexico
+651,70,1937,13556,1,Egyptian Pounds,Egypt,Mexico
+651,70,1938,146,1,Egyptian Pounds,Egypt,Mexico
+651,70,1939,87,1,Egyptian Pounds,Egypt,Mexico
+651,70,1940,40,1,Egyptian Pounds,Egypt,Mexico
+651,70,1941,0,1,Egyptian Pounds,Egypt,Mexico
+651,70,1942,0,1,Egyptian Pounds,Egypt,Mexico
+651,70,1943,6,1,Egyptian Pounds,Egypt,Mexico
+651,70,1944,7,1,Egyptian Pounds,Egypt,Mexico
+651,70,1945,1,1,Egyptian Pounds,Egypt,Mexico
+651,70,1946,6,1,Egyptian Pounds,Egypt,Mexico
+651,70,1947,2085,1,Egyptian Pounds,Egypt,Mexico
+651,70,1948,1418,1,Egyptian Pounds,Egypt,Mexico
+651,70,1949,225049,1,Egyptian Pounds,Egypt,Mexico
+651,90,1919,0,1,,Egypt,Guatemala
+651,90,1920,0,1,,Egypt,Guatemala
+651,90,1921,10,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1922,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1923,13,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1924,5,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1925,6,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1926,2,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1927,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1928,94,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1929,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1930,34,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1931,2,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1932,40,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1933,454,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1934,50,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1935,2,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1936,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1937,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1938,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1939,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1940,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1941,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1942,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1943,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1944,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1945,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1946,7,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1947,21,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1948,0,1,Egyptian Pounds,Egypt,Guatemala
+651,90,1949,317,1,Egyptian Pounds,Egypt,Guatemala
+651,91,1919,0,1,,Egypt,Honduras
+651,91,1920,0,1,,Egypt,Honduras
+651,91,1921,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1922,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1923,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1924,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1925,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1926,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1927,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1928,460,1,Egyptian Pounds,Egypt,Honduras
+651,91,1929,338,1,Egyptian Pounds,Egypt,Honduras
+651,91,1930,342,1,Egyptian Pounds,Egypt,Honduras
+651,91,1931,2,1,Egyptian Pounds,Egypt,Honduras
+651,91,1932,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1933,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1934,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1935,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1936,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1937,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1938,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1939,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1940,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1941,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1942,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1943,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1944,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1945,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1946,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1947,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1948,0,1,Egyptian Pounds,Egypt,Honduras
+651,91,1949,0,1,Egyptian Pounds,Egypt,Honduras
+651,92,1919,0,1,,Egypt,El Salvador
+651,92,1920,0,1,,Egypt,El Salvador
+651,92,1921,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1922,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1923,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1924,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1925,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1926,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1927,1,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1928,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1929,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1930,2,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1931,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1932,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1933,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1934,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1935,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1936,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1937,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1938,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1939,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1940,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1941,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1942,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1943,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1944,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1945,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1946,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1947,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1948,0,1,Egyptian Pounds,Egypt,El Salvador
+651,92,1949,0,1,Egyptian Pounds,Egypt,El Salvador
+651,93,1919,0,1,,Egypt,Nicaragua
+651,93,1920,0,1,,Egypt,Nicaragua
+651,93,1921,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1922,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1923,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1924,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1925,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1926,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1927,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1928,492,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1929,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1930,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1931,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1932,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1933,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1934,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1935,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1936,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1937,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1938,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1939,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1940,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1941,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1942,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1943,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1944,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1945,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1946,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1947,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1948,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,93,1949,0,1,Egyptian Pounds,Egypt,Nicaragua
+651,95,1919,0,1,,Egypt,Panama
+651,95,1920,0,1,,Egypt,Panama
+651,95,1921,4,1,Egyptian Pounds,Egypt,Panama
+651,95,1922,96,1,Egyptian Pounds,Egypt,Panama
+651,95,1923,6,1,Egyptian Pounds,Egypt,Panama
+651,95,1924,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1925,4,1,Egyptian Pounds,Egypt,Panama
+651,95,1926,2,1,Egyptian Pounds,Egypt,Panama
+651,95,1927,3,1,Egyptian Pounds,Egypt,Panama
+651,95,1928,18,1,Egyptian Pounds,Egypt,Panama
+651,95,1929,66,1,Egyptian Pounds,Egypt,Panama
+651,95,1930,8,1,Egyptian Pounds,Egypt,Panama
+651,95,1931,38,1,Egyptian Pounds,Egypt,Panama
+651,95,1932,15,1,Egyptian Pounds,Egypt,Panama
+651,95,1933,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1934,1,1,Egyptian Pounds,Egypt,Panama
+651,95,1935,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1936,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1937,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1938,6,1,Egyptian Pounds,Egypt,Panama
+651,95,1939,11,1,Egyptian Pounds,Egypt,Panama
+651,95,1940,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1941,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1942,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1943,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1944,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1945,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1946,277,1,Egyptian Pounds,Egypt,Panama
+651,95,1947,2,1,Egyptian Pounds,Egypt,Panama
+651,95,1948,0,1,Egyptian Pounds,Egypt,Panama
+651,95,1949,6,1,Egyptian Pounds,Egypt,Panama
+651,100,1919,0,1,,Egypt,Colombia
+651,100,1920,0,1,,Egypt,Colombia
+651,100,1921,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1922,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1923,56,1,Egyptian Pounds,Egypt,Colombia
+651,100,1924,11,1,Egyptian Pounds,Egypt,Colombia
+651,100,1925,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1926,3,1,Egyptian Pounds,Egypt,Colombia
+651,100,1927,12,1,Egyptian Pounds,Egypt,Colombia
+651,100,1928,31,1,Egyptian Pounds,Egypt,Colombia
+651,100,1929,34,1,Egyptian Pounds,Egypt,Colombia
+651,100,1930,5,1,Egyptian Pounds,Egypt,Colombia
+651,100,1931,24,1,Egyptian Pounds,Egypt,Colombia
+651,100,1932,6,1,Egyptian Pounds,Egypt,Colombia
+651,100,1933,37,1,Egyptian Pounds,Egypt,Colombia
+651,100,1934,265,1,Egyptian Pounds,Egypt,Colombia
+651,100,1935,32,1,Egyptian Pounds,Egypt,Colombia
+651,100,1936,219,1,Egyptian Pounds,Egypt,Colombia
+651,100,1937,214,1,Egyptian Pounds,Egypt,Colombia
+651,100,1938,51,1,Egyptian Pounds,Egypt,Colombia
+651,100,1939,2,1,Egyptian Pounds,Egypt,Colombia
+651,100,1940,2,1,Egyptian Pounds,Egypt,Colombia
+651,100,1941,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1942,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1943,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1944,0,1,Egyptian Pounds,Egypt,Colombia
+651,100,1945,4,1,Egyptian Pounds,Egypt,Colombia
+651,100,1946,1,1,Egyptian Pounds,Egypt,Colombia
+651,100,1947,1,1,Egyptian Pounds,Egypt,Colombia
+651,100,1948,2,1,Egyptian Pounds,Egypt,Colombia
+651,100,1949,628,1,Egyptian Pounds,Egypt,Colombia
+651,101,1919,0,1,,Egypt,Venezuela
+651,101,1920,0,1,,Egypt,Venezuela
+651,101,1921,0,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1922,1,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1923,3,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1924,0,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1925,0,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1926,5,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1927,3,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1928,13959,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1929,103,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1930,8,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1931,270,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1932,188334,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1933,4,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1934,32,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1935,10664,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1936,24848,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1937,2058,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1938,15596,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1939,4597,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1940,166,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1941,6,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1942,152,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1943,0,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1944,0,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1945,10,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1946,4,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1947,31846,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1948,944,1,Egyptian Pounds,Egypt,Venezuela
+651,101,1949,1219,1,Egyptian Pounds,Egypt,Venezuela
+651,110,1919,0,1,,Egypt,Guyana
+651,110,1920,0,1,,Egypt,Guyana
+651,110,1921,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1922,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1923,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1924,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1925,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1926,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1927,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1928,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1929,1,1,Egyptian Pounds,Egypt,Guyana
+651,110,1930,3616,1,Egyptian Pounds,Egypt,Guyana
+651,110,1931,1612,1,Egyptian Pounds,Egypt,Guyana
+651,110,1932,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1933,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1934,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1935,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1936,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1937,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1938,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1939,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1940,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1941,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1942,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1943,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1944,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1945,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1946,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1947,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1948,0,1,Egyptian Pounds,Egypt,Guyana
+651,110,1949,0,1,Egyptian Pounds,Egypt,Guyana
+651,120,1919,0,1,,Egypt,French Guiana
+651,120,1920,0,1,,Egypt,French Guiana
+651,120,1921,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1922,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1923,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1924,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1925,110,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1926,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1927,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1928,416,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1929,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1930,76,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1931,2,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1932,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1933,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1934,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1935,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1936,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1937,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1938,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1939,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1940,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1941,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1942,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1943,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1944,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1945,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1946,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1947,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1948,0,1,Egyptian Pounds,Egypt,French Guiana
+651,120,1949,0,1,Egyptian Pounds,Egypt,French Guiana
+651,130,1919,0,1,,Egypt,Ecuador
+651,130,1920,0,1,,Egypt,Ecuador
+651,130,1921,4,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1922,5,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1923,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1924,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1925,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1926,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1927,28,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1928,78,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1929,23,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1930,45,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1931,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1932,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1933,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1934,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1935,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1936,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1937,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1938,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1939,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1940,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1941,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1942,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1943,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1944,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1945,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1946,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1947,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1948,0,1,Egyptian Pounds,Egypt,Ecuador
+651,130,1949,0,1,Egyptian Pounds,Egypt,Ecuador
+651,135,1919,0,1,,Egypt,Peru
+651,135,1920,0,1,,Egypt,Peru
+651,135,1921,12,1,Egyptian Pounds,Egypt,Peru
+651,135,1922,3,1,Egyptian Pounds,Egypt,Peru
+651,135,1923,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1924,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1925,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1926,1,1,Egyptian Pounds,Egypt,Peru
+651,135,1927,6,1,Egyptian Pounds,Egypt,Peru
+651,135,1928,226,1,Egyptian Pounds,Egypt,Peru
+651,135,1929,112,1,Egyptian Pounds,Egypt,Peru
+651,135,1930,779,1,Egyptian Pounds,Egypt,Peru
+651,135,1931,7,1,Egyptian Pounds,Egypt,Peru
+651,135,1932,5,1,Egyptian Pounds,Egypt,Peru
+651,135,1933,482,1,Egyptian Pounds,Egypt,Peru
+651,135,1934,14,1,Egyptian Pounds,Egypt,Peru
+651,135,1935,12,1,Egyptian Pounds,Egypt,Peru
+651,135,1936,370,1,Egyptian Pounds,Egypt,Peru
+651,135,1937,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1938,1,1,Egyptian Pounds,Egypt,Peru
+651,135,1939,10,1,Egyptian Pounds,Egypt,Peru
+651,135,1940,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1941,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1942,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1943,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1944,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1945,2,1,Egyptian Pounds,Egypt,Peru
+651,135,1946,973,1,Egyptian Pounds,Egypt,Peru
+651,135,1947,2,1,Egyptian Pounds,Egypt,Peru
+651,135,1948,0,1,Egyptian Pounds,Egypt,Peru
+651,135,1949,1,1,Egyptian Pounds,Egypt,Peru
+651,140,1919,0,1,,Egypt,Brazil
+651,140,1920,0,1,,Egypt,Brazil
+651,140,1921,324900,1,Egyptian Pounds,Egypt,Brazil
+651,140,1922,393011,1,Egyptian Pounds,Egypt,Brazil
+651,140,1923,398535,1,Egyptian Pounds,Egypt,Brazil
+651,140,1924,569994,1,Egyptian Pounds,Egypt,Brazil
+651,140,1925,336089,1,Egyptian Pounds,Egypt,Brazil
+651,140,1926,479153,1,Egyptian Pounds,Egypt,Brazil
+651,140,1927,426223,1,Egyptian Pounds,Egypt,Brazil
+651,140,1928,362325,1,Egyptian Pounds,Egypt,Brazil
+651,140,1929,368541,1,Egyptian Pounds,Egypt,Brazil
+651,140,1930,338705,1,Egyptian Pounds,Egypt,Brazil
+651,140,1931,202119,1,Egyptian Pounds,Egypt,Brazil
+651,140,1932,193672,1,Egyptian Pounds,Egypt,Brazil
+651,140,1933,200046,1,Egyptian Pounds,Egypt,Brazil
+651,140,1934,155272,1,Egyptian Pounds,Egypt,Brazil
+651,140,1935,163530,1,Egyptian Pounds,Egypt,Brazil
+651,140,1936,141913,1,Egyptian Pounds,Egypt,Brazil
+651,140,1937,170624,1,Egyptian Pounds,Egypt,Brazil
+651,140,1938,181843,1,Egyptian Pounds,Egypt,Brazil
+651,140,1939,175518,1,Egyptian Pounds,Egypt,Brazil
+651,140,1940,205947,1,Egyptian Pounds,Egypt,Brazil
+651,140,1941,222210,1,Egyptian Pounds,Egypt,Brazil
+651,140,1942,47677,1,Egyptian Pounds,Egypt,Brazil
+651,140,1943,58413,1,Egyptian Pounds,Egypt,Brazil
+651,140,1944,16394,1,Egyptian Pounds,Egypt,Brazil
+651,140,1945,373369,1,Egyptian Pounds,Egypt,Brazil
+651,140,1946,1041638,1,Egyptian Pounds,Egypt,Brazil
+651,140,1947,1115622,1,Egyptian Pounds,Egypt,Brazil
+651,140,1948,1065721,1,Egyptian Pounds,Egypt,Brazil
+651,140,1949,935780,1,Egyptian Pounds,Egypt,Brazil
+651,145,1919,0,1,,Egypt,Bolivia
+651,145,1920,0,1,,Egypt,Bolivia
+651,145,1921,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1922,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1923,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1924,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1925,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1926,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1927,1,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1928,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1929,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1930,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1931,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1932,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1933,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1934,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1935,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1936,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1937,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1938,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1939,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1940,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1941,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1942,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1943,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1944,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1945,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1946,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1947,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1948,0,1,Egyptian Pounds,Egypt,Bolivia
+651,145,1949,0,1,Egyptian Pounds,Egypt,Bolivia
+651,150,1919,0,1,,Egypt,Paraguay
+651,150,1920,0,1,,Egypt,Paraguay
+651,150,1921,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1922,2,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1923,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1924,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1925,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1926,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1927,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1928,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1929,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1930,243,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1931,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1932,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1933,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1934,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1935,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1936,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1937,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1938,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1939,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1940,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1941,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1942,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1943,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1944,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1945,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1946,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1947,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1948,0,1,Egyptian Pounds,Egypt,Paraguay
+651,150,1949,0,1,Egyptian Pounds,Egypt,Paraguay
+651,155,1919,0,1,,Egypt,Chile
+651,155,1920,0,1,,Egypt,Chile
+651,155,1921,267472,1,Egyptian Pounds,Egypt,Chile
+651,155,1922,983070,1,Egyptian Pounds,Egypt,Chile
+651,155,1923,782986,1,Egyptian Pounds,Egypt,Chile
+651,155,1924,1389609,1,Egyptian Pounds,Egypt,Chile
+651,155,1925,1850889,1,Egyptian Pounds,Egypt,Chile
+651,155,1926,1782643,1,Egyptian Pounds,Egypt,Chile
+651,155,1927,1428932,1,Egyptian Pounds,Egypt,Chile
+651,155,1928,1800940,1,Egyptian Pounds,Egypt,Chile
+651,155,1929,1748476,1,Egyptian Pounds,Egypt,Chile
+651,155,1930,1517044,1,Egyptian Pounds,Egypt,Chile
+651,155,1931,993000,1,Egyptian Pounds,Egypt,Chile
+651,155,1932,568867,1,Egyptian Pounds,Egypt,Chile
+651,155,1933,608623,1,Egyptian Pounds,Egypt,Chile
+651,155,1934,821498,1,Egyptian Pounds,Egypt,Chile
+651,155,1935,789623,1,Egyptian Pounds,Egypt,Chile
+651,155,1936,931053,1,Egyptian Pounds,Egypt,Chile
+651,155,1937,1356336,1,Egyptian Pounds,Egypt,Chile
+651,155,1938,976741,1,Egyptian Pounds,Egypt,Chile
+651,155,1939,1327591,1,Egyptian Pounds,Egypt,Chile
+651,155,1940,2350088,1,Egyptian Pounds,Egypt,Chile
+651,155,1941,0,1,Egyptian Pounds,Egypt,Chile
+651,155,1942,2736572,1,Egyptian Pounds,Egypt,Chile
+651,155,1943,3165055,1,Egyptian Pounds,Egypt,Chile
+651,155,1944,4480517,1,Egyptian Pounds,Egypt,Chile
+651,155,1945,3024239,1,Egyptian Pounds,Egypt,Chile
+651,155,1946,2149242,1,Egyptian Pounds,Egypt,Chile
+651,155,1947,4531040,1,Egyptian Pounds,Egypt,Chile
+651,155,1948,4998287,1,Egyptian Pounds,Egypt,Chile
+651,155,1949,5849722,1,Egyptian Pounds,Egypt,Chile
+651,160,1919,0,1,,Egypt,Argentina
+651,160,1920,0,1,,Egypt,Argentina
+651,160,1921,1540489,1,Egyptian Pounds,Egypt,Argentina
+651,160,1922,96569,1,Egyptian Pounds,Egypt,Argentina
+651,160,1923,2898,1,Egyptian Pounds,Egypt,Argentina
+651,160,1924,17020,1,Egyptian Pounds,Egypt,Argentina
+651,160,1925,26256,1,Egyptian Pounds,Egypt,Argentina
+651,160,1926,20253,1,Egyptian Pounds,Egypt,Argentina
+651,160,1927,23305,1,Egyptian Pounds,Egypt,Argentina
+651,160,1928,28342,1,Egyptian Pounds,Egypt,Argentina
+651,160,1929,32342,1,Egyptian Pounds,Egypt,Argentina
+651,160,1930,13574,1,Egyptian Pounds,Egypt,Argentina
+651,160,1931,18564,1,Egyptian Pounds,Egypt,Argentina
+651,160,1932,11547,1,Egyptian Pounds,Egypt,Argentina
+651,160,1933,11440,1,Egyptian Pounds,Egypt,Argentina
+651,160,1934,16209,1,Egyptian Pounds,Egypt,Argentina
+651,160,1935,21858,1,Egyptian Pounds,Egypt,Argentina
+651,160,1936,33610,1,Egyptian Pounds,Egypt,Argentina
+651,160,1937,48101,1,Egyptian Pounds,Egypt,Argentina
+651,160,1938,52348,1,Egyptian Pounds,Egypt,Argentina
+651,160,1939,38213,1,Egyptian Pounds,Egypt,Argentina
+651,160,1940,41326,1,Egyptian Pounds,Egypt,Argentina
+651,160,1941,83353,1,Egyptian Pounds,Egypt,Argentina
+651,160,1942,58571,1,Egyptian Pounds,Egypt,Argentina
+651,160,1943,6038,1,Egyptian Pounds,Egypt,Argentina
+651,160,1944,27507,1,Egyptian Pounds,Egypt,Argentina
+651,160,1945,2524,1,Egyptian Pounds,Egypt,Argentina
+651,160,1946,261649,1,Egyptian Pounds,Egypt,Argentina
+651,160,1947,322876,1,Egyptian Pounds,Egypt,Argentina
+651,160,1948,1680018,1,Egyptian Pounds,Egypt,Argentina
+651,160,1949,1287085,1,Egyptian Pounds,Egypt,Argentina
+651,165,1919,0,1,,Egypt,Uruguay
+651,165,1920,0,1,,Egypt,Uruguay
+651,165,1921,275,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1922,0,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1923,6,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1924,802,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1925,1202,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1926,4674,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1927,2252,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1928,1510,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1929,2785,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1930,3539,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1931,2263,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1932,390,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1933,623,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1934,3422,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1935,3394,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1936,6273,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1937,2920,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1938,5165,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1939,5619,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1940,1427,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1941,5,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1942,88,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1943,0,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1944,0,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1945,0,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1946,42525,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1947,25360,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1948,210198,1,Egyptian Pounds,Egypt,Uruguay
+651,165,1949,730812,1,Egyptian Pounds,Egypt,Uruguay
+651,200,1919,21840957,1,,Egypt,United Kingdom
+651,200,1920,37894760,1,,Egypt,United Kingdom
+651,200,1921,16937815,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1922,14731622,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1923,14771677,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1924,13993584,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1925,14660664,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1926,11405307,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1927,12482606,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1928,11326242,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1929,11913569,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1930,9676767,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1931,7134515,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1932,6582178,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1933,6187706,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1934,6485890,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1935,7360310,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1936,7526926,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1937,8288018,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1938,8496512,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1939,9430275,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1940,8901050,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1941,9281966,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1942,12770463,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1943,7078812,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1944,6034381,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1945,11130321,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1946,24953355,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1947,21601770,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1948,36288180,1,Egyptian Pounds,Egypt,United Kingdom
+651,200,1949,37984924,1,Egyptian Pounds,Egypt,United Kingdom
+651,205,1919,0,1,,Egypt,Ireland
+651,205,1920,0,1,,Egypt,Ireland
+651,205,1921,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1922,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1923,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1924,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1925,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1926,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1927,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1928,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1929,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1930,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1931,0,1,Egyptian Pounds,Egypt,Ireland
+651,205,1932,5660,1,Egyptian Pounds,Egypt,Ireland
+651,205,1933,1830,1,Egyptian Pounds,Egypt,Ireland
+651,205,1934,757,1,Egyptian Pounds,Egypt,Ireland
+651,205,1935,1420,1,Egyptian Pounds,Egypt,Ireland
+651,205,1936,1582,1,Egyptian Pounds,Egypt,Ireland
+651,205,1937,3987,1,Egyptian Pounds,Egypt,Ireland
+651,205,1938,4171,1,Egyptian Pounds,Egypt,Ireland
+651,205,1939,4952,1,Egyptian Pounds,Egypt,Ireland
+651,205,1940,2718,1,Egyptian Pounds,Egypt,Ireland
+651,205,1941,1010,1,Egyptian Pounds,Egypt,Ireland
+651,205,1942,342,1,Egyptian Pounds,Egypt,Ireland
+651,205,1943,768,1,Egyptian Pounds,Egypt,Ireland
+651,205,1944,575,1,Egyptian Pounds,Egypt,Ireland
+651,205,1945,449,1,Egyptian Pounds,Egypt,Ireland
+651,205,1946,574,1,Egyptian Pounds,Egypt,Ireland
+651,205,1947,6026,1,Egyptian Pounds,Egypt,Ireland
+651,205,1948,28623,1,Egyptian Pounds,Egypt,Ireland
+651,205,1949,90017,1,Egyptian Pounds,Egypt,Ireland
+651,210,1919,186185,1,,Egypt,Netherlands
+651,210,1920,649923,1,,Egypt,Netherlands
+651,210,1921,423385,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1922,415321,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1923,434793,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1924,620602,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1925,752173,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1926,539341,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1927,529581,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1928,610525,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1929,626699,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1930,554764,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1931,392027,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1932,286259,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1933,376266,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1934,450173,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1935,580156,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1936,621687,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1937,753072,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1938,806126,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1939,729739,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1940,400443,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1941,7000,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1942,4782,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1943,417,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1944,21,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1945,4692,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1946,617719,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1947,1597162,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1948,7706462,1,Egyptian Pounds,Egypt,Netherlands
+651,210,1949,7233525,1,Egyptian Pounds,Egypt,Netherlands
+651,211,1919,202710,1,,Egypt,Belgium
+651,211,1920,1927163,1,,Egypt,Belgium
+651,211,1921,1210124,1,Egyptian Pounds,Egypt,Belgium
+651,211,1922,1408822,1,Egyptian Pounds,Egypt,Belgium
+651,211,1923,1544457,1,Egyptian Pounds,Egypt,Belgium
+651,211,1924,1898354,1,Egyptian Pounds,Egypt,Belgium
+651,211,1925,2124393,1,Egyptian Pounds,Egypt,Belgium
+651,211,1926,2216889,1,Egyptian Pounds,Egypt,Belgium
+651,211,1927,2058188,1,Egyptian Pounds,Egypt,Belgium
+651,211,1928,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1929,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1930,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1931,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1932,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1933,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1934,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1935,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1936,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1937,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1938,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1939,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1940,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1941,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1942,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1943,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1944,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1945,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1946,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1947,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1948,0,1,Egyptian Pounds,Egypt,Belgium
+651,211,1949,0,1,Egyptian Pounds,Egypt,Belgium
+651,220,1919,0,1,,Egypt,France
+651,220,1920,0,1,,Egypt,France
+651,220,1921,4167311,1,Egyptian Pounds,Egypt,France
+651,220,1922,4020633,1,Egyptian Pounds,Egypt,France
+651,220,1923,3825716,1,Egyptian Pounds,Egypt,France
+651,220,1924,4688718,1,Egyptian Pounds,Egypt,France
+651,220,1925,5399682,1,Egyptian Pounds,Egypt,France
+651,220,1926,5676480,1,Egyptian Pounds,Egypt,France
+651,220,1927,5337640,1,Egyptian Pounds,Egypt,France
+651,220,1928,5295906,1,Egyptian Pounds,Egypt,France
+651,220,1929,5540447,1,Egyptian Pounds,Egypt,France
+651,220,1930,4478112,1,Egyptian Pounds,Egypt,France
+651,220,1931,3097814,1,Egyptian Pounds,Egypt,France
+651,220,1932,1971464,1,Egyptian Pounds,Egypt,France
+651,220,1933,1897338,1,Egyptian Pounds,Egypt,France
+651,220,1934,1625985,1,Egyptian Pounds,Egypt,France
+651,220,1935,1693937,1,Egyptian Pounds,Egypt,France
+651,220,1936,1649720,1,Egyptian Pounds,Egypt,France
+651,220,1937,1701043,1,Egyptian Pounds,Egypt,France
+651,220,1938,1956474,1,Egyptian Pounds,Egypt,France
+651,220,1939,1989887,1,Egyptian Pounds,Egypt,France
+651,220,1940,1266062,1,Egyptian Pounds,Egypt,France
+651,220,1941,59972,1,Egyptian Pounds,Egypt,France
+651,220,1942,45342,1,Egyptian Pounds,Egypt,France
+651,220,1943,537,1,Egyptian Pounds,Egypt,France
+651,220,1944,3602,1,Egyptian Pounds,Egypt,France
+651,220,1945,19942,1,Egyptian Pounds,Egypt,France
+651,220,1946,3179089,1,Egyptian Pounds,Egypt,France
+651,220,1947,6626159,1,Egyptian Pounds,Egypt,France
+651,220,1948,8374294,1,Egyptian Pounds,Egypt,France
+651,220,1949,10488004,1,Egyptian Pounds,Egypt,France
+651,225,1919,455307,1,,Egypt,Switzerland
+651,225,1920,1549646,1,,Egypt,Switzerland
+651,225,1921,612945,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1922,515546,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1923,573164,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1924,638299,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1925,639363,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1926,507954,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1927,453672,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1928,612119,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1929,692426,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1930,573234,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1931,414961,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1932,298728,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1933,329052,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1934,332644,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1935,318819,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1936,401835,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1937,511043,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1938,597061,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1939,634262,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1940,423248,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1941,335574,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1942,698063,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1943,598486,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1944,329894,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1945,562823,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1946,1008365,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1947,1413418,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1948,1532156,1,Egyptian Pounds,Egypt,Switzerland
+651,225,1949,2199479,1,Egyptian Pounds,Egypt,Switzerland
+651,230,1919,265273,1,,Egypt,Spain
+651,230,1920,324955,1,,Egypt,Spain
+651,230,1921,120770,1,Egyptian Pounds,Egypt,Spain
+651,230,1922,118344,1,Egyptian Pounds,Egypt,Spain
+651,230,1923,150260,1,Egyptian Pounds,Egypt,Spain
+651,230,1924,134152,1,Egyptian Pounds,Egypt,Spain
+651,230,1925,121697,1,Egyptian Pounds,Egypt,Spain
+651,230,1926,111857,1,Egyptian Pounds,Egypt,Spain
+651,230,1927,90032,1,Egyptian Pounds,Egypt,Spain
+651,230,1928,103484,1,Egyptian Pounds,Egypt,Spain
+651,230,1929,126392,1,Egyptian Pounds,Egypt,Spain
+651,230,1930,130491,1,Egyptian Pounds,Egypt,Spain
+651,230,1931,86571,1,Egyptian Pounds,Egypt,Spain
+651,230,1932,96293,1,Egyptian Pounds,Egypt,Spain
+651,230,1933,69940,1,Egyptian Pounds,Egypt,Spain
+651,230,1934,76060,1,Egyptian Pounds,Egypt,Spain
+651,230,1935,57317,1,Egyptian Pounds,Egypt,Spain
+651,230,1936,64682,1,Egyptian Pounds,Egypt,Spain
+651,230,1937,35429,1,Egyptian Pounds,Egypt,Spain
+651,230,1938,8863,1,Egyptian Pounds,Egypt,Spain
+651,230,1939,2238,1,Egyptian Pounds,Egypt,Spain
+651,230,1940,4268,1,Egyptian Pounds,Egypt,Spain
+651,230,1941,44,1,Egyptian Pounds,Egypt,Spain
+651,230,1942,391,1,Egyptian Pounds,Egypt,Spain
+651,230,1943,50,1,Egyptian Pounds,Egypt,Spain
+651,230,1944,715,1,Egyptian Pounds,Egypt,Spain
+651,230,1945,16856,1,Egyptian Pounds,Egypt,Spain
+651,230,1946,376533,1,Egyptian Pounds,Egypt,Spain
+651,230,1947,1379760,1,Egyptian Pounds,Egypt,Spain
+651,230,1948,1225826,1,Egyptian Pounds,Egypt,Spain
+651,230,1949,742454,1,Egyptian Pounds,Egypt,Spain
+651,231,1919,0,1,,Egypt,Gibraltar
+651,231,1920,0,1,,Egypt,Gibraltar
+651,231,1921,254,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1922,113,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1923,60,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1924,212,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1925,7,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1926,5,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1927,145,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1928,0,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1929,1,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1930,42,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1931,30,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1932,91,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1933,183,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1934,545,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1935,405,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1936,374,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1937,5140,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1938,635,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1939,140,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1940,557,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1941,0,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1942,0,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1943,104,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1944,108,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1945,1442,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1946,4970,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1947,4011,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1948,315,1,Egyptian Pounds,Egypt,Gibraltar
+651,231,1949,1283,1,Egyptian Pounds,Egypt,Gibraltar
+651,235,1919,0,1,,Egypt,Portugal
+651,235,1920,0,1,,Egypt,Portugal
+651,235,1921,85101,1,Egyptian Pounds,Egypt,Portugal
+651,235,1922,81599,1,Egyptian Pounds,Egypt,Portugal
+651,235,1923,73168,1,Egyptian Pounds,Egypt,Portugal
+651,235,1924,96303,1,Egyptian Pounds,Egypt,Portugal
+651,235,1925,94917,1,Egyptian Pounds,Egypt,Portugal
+651,235,1926,78804,1,Egyptian Pounds,Egypt,Portugal
+651,235,1927,97220,1,Egyptian Pounds,Egypt,Portugal
+651,235,1928,73172,1,Egyptian Pounds,Egypt,Portugal
+651,235,1929,109490,1,Egyptian Pounds,Egypt,Portugal
+651,235,1930,52939,1,Egyptian Pounds,Egypt,Portugal
+651,235,1931,24465,1,Egyptian Pounds,Egypt,Portugal
+651,235,1932,14227,1,Egyptian Pounds,Egypt,Portugal
+651,235,1933,20908,1,Egyptian Pounds,Egypt,Portugal
+651,235,1934,20948,1,Egyptian Pounds,Egypt,Portugal
+651,235,1935,29736,1,Egyptian Pounds,Egypt,Portugal
+651,235,1936,23977,1,Egyptian Pounds,Egypt,Portugal
+651,235,1937,19768,1,Egyptian Pounds,Egypt,Portugal
+651,235,1938,32950,1,Egyptian Pounds,Egypt,Portugal
+651,235,1939,24720,1,Egyptian Pounds,Egypt,Portugal
+651,235,1940,12983,1,Egyptian Pounds,Egypt,Portugal
+651,235,1941,8470,1,Egyptian Pounds,Egypt,Portugal
+651,235,1942,10213,1,Egyptian Pounds,Egypt,Portugal
+651,235,1943,13610,1,Egyptian Pounds,Egypt,Portugal
+651,235,1944,43017,1,Egyptian Pounds,Egypt,Portugal
+651,235,1945,51229,1,Egyptian Pounds,Egypt,Portugal
+651,235,1946,69622,1,Egyptian Pounds,Egypt,Portugal
+651,235,1947,68075,1,Egyptian Pounds,Egypt,Portugal
+651,235,1948,130914,1,Egyptian Pounds,Egypt,Portugal
+651,235,1949,122021,1,Egyptian Pounds,Egypt,Portugal
+651,255,1919,6527,1,,Egypt,Germany
+651,255,1920,1186121,1,,Egypt,Germany
+651,255,1921,1649549,1,Egyptian Pounds,Egypt,Germany
+651,255,1922,2815786,1,Egyptian Pounds,Egypt,Germany
+651,255,1923,2652720,1,Egyptian Pounds,Egypt,Germany
+651,255,1924,2946739,1,Egyptian Pounds,Egypt,Germany
+651,255,1925,3348143,1,Egyptian Pounds,Egypt,Germany
+651,255,1926,3793428,1,Egyptian Pounds,Egypt,Germany
+651,255,1927,3060483,1,Egyptian Pounds,Egypt,Germany
+651,255,1928,3549833,1,Egyptian Pounds,Egypt,Germany
+651,255,1929,4098100,1,Egyptian Pounds,Egypt,Germany
+651,255,1930,3743217,1,Egyptian Pounds,Egypt,Germany
+651,255,1931,2536803,1,Egyptian Pounds,Egypt,Germany
+651,255,1932,1913723,1,Egyptian Pounds,Egypt,Germany
+651,255,1933,2031779,1,Egyptian Pounds,Egypt,Germany
+651,255,1934,2146653,1,Egyptian Pounds,Egypt,Germany
+651,255,1935,2873045,1,Egyptian Pounds,Egypt,Germany
+651,255,1936,3510412,1,Egyptian Pounds,Egypt,Germany
+651,255,1937,4194618,1,Egyptian Pounds,Egypt,Germany
+651,255,1938,3753300,1,Egyptian Pounds,Egypt,Germany
+651,255,1939,2680827,1,Egyptian Pounds,Egypt,Germany
+651,255,1940,78915,1,Egyptian Pounds,Egypt,Germany
+651,255,1941,183876,1,Egyptian Pounds,Egypt,Germany
+651,255,1942,4462,1,Egyptian Pounds,Egypt,Germany
+651,255,1943,983,1,Egyptian Pounds,Egypt,Germany
+651,255,1944,385,1,Egyptian Pounds,Egypt,Germany
+651,255,1945,28,1,Egyptian Pounds,Egypt,Germany
+651,255,1946,12750,1,Egyptian Pounds,Egypt,Germany
+651,255,1947,128859,1,Egyptian Pounds,Egypt,Germany
+651,255,1948,335815,1,Egyptian Pounds,Egypt,Germany
+651,255,1949,601242,1,Egyptian Pounds,Egypt,Germany
+651,290,1919,0,1,,Egypt,Poland
+651,290,1920,0,1,,Egypt,Poland
+651,290,1921,20107,1,Egyptian Pounds,Egypt,Poland
+651,290,1922,5209,1,Egyptian Pounds,Egypt,Poland
+651,290,1923,3585,1,Egyptian Pounds,Egypt,Poland
+651,290,1924,7179,1,Egyptian Pounds,Egypt,Poland
+651,290,1925,33569,1,Egyptian Pounds,Egypt,Poland
+651,290,1926,198910,1,Egyptian Pounds,Egypt,Poland
+651,290,1927,47317,1,Egyptian Pounds,Egypt,Poland
+651,290,1928,82085,1,Egyptian Pounds,Egypt,Poland
+651,290,1929,110419,1,Egyptian Pounds,Egypt,Poland
+651,290,1930,143736,1,Egyptian Pounds,Egypt,Poland
+651,290,1931,30219,1,Egyptian Pounds,Egypt,Poland
+651,290,1932,47365,1,Egyptian Pounds,Egypt,Poland
+651,290,1933,57669,1,Egyptian Pounds,Egypt,Poland
+651,290,1934,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1935,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1936,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1937,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1938,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1939,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1940,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1941,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1942,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1943,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1944,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1945,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1946,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1947,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1948,0,1,Egyptian Pounds,Egypt,Poland
+651,290,1949,0,1,Egyptian Pounds,Egypt,Poland
+651,305,1919,4840,1,,Egypt,Austria
+651,305,1920,310090,1,,Egypt,Austria
+651,305,1921,234397,1,Egyptian Pounds,Egypt,Austria
+651,305,1922,509063,1,Egyptian Pounds,Egypt,Austria
+651,305,1923,439170,1,Egyptian Pounds,Egypt,Austria
+651,305,1924,503309,1,Egyptian Pounds,Egypt,Austria
+651,305,1925,675009,1,Egyptian Pounds,Egypt,Austria
+651,305,1926,658389,1,Egyptian Pounds,Egypt,Austria
+651,305,1927,571466,1,Egyptian Pounds,Egypt,Austria
+651,305,1928,632239,1,Egyptian Pounds,Egypt,Austria
+651,305,1929,671866,1,Egyptian Pounds,Egypt,Austria
+651,305,1930,599439,1,Egyptian Pounds,Egypt,Austria
+651,305,1931,376527,1,Egyptian Pounds,Egypt,Austria
+651,305,1932,257105,1,Egyptian Pounds,Egypt,Austria
+651,305,1933,238601,1,Egyptian Pounds,Egypt,Austria
+651,305,1934,286634,1,Egyptian Pounds,Egypt,Austria
+651,305,1935,270239,1,Egyptian Pounds,Egypt,Austria
+651,305,1936,293072,1,Egyptian Pounds,Egypt,Austria
+651,305,1937,371145,1,Egyptian Pounds,Egypt,Austria
+651,305,1938,232028,1,Egyptian Pounds,Egypt,Austria
+651,305,1939,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1940,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1941,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1942,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1943,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1944,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1945,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1946,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1947,0,1,Egyptian Pounds,Egypt,Austria
+651,305,1948,274700,1,Egyptian Pounds,Egypt,Austria
+651,305,1949,2003934,1,Egyptian Pounds,Egypt,Austria
+651,310,1919,0,1,,Egypt,Hungary
+651,310,1920,0,1,,Egypt,Hungary
+651,310,1921,13123,1,Egyptian Pounds,Egypt,Hungary
+651,310,1922,9727,1,Egyptian Pounds,Egypt,Hungary
+651,310,1923,3349,1,Egyptian Pounds,Egypt,Hungary
+651,310,1924,13427,1,Egyptian Pounds,Egypt,Hungary
+651,310,1925,27559,1,Egyptian Pounds,Egypt,Hungary
+651,310,1926,63342,1,Egyptian Pounds,Egypt,Hungary
+651,310,1927,45172,1,Egyptian Pounds,Egypt,Hungary
+651,310,1928,72537,1,Egyptian Pounds,Egypt,Hungary
+651,310,1929,144836,1,Egyptian Pounds,Egypt,Hungary
+651,310,1930,390306,1,Egyptian Pounds,Egypt,Hungary
+651,310,1931,59271,1,Egyptian Pounds,Egypt,Hungary
+651,310,1932,86877,1,Egyptian Pounds,Egypt,Hungary
+651,310,1933,82195,1,Egyptian Pounds,Egypt,Hungary
+651,310,1934,129094,1,Egyptian Pounds,Egypt,Hungary
+651,310,1935,325830,1,Egyptian Pounds,Egypt,Hungary
+651,310,1936,513643,1,Egyptian Pounds,Egypt,Hungary
+651,310,1937,655099,1,Egyptian Pounds,Egypt,Hungary
+651,310,1938,467539,1,Egyptian Pounds,Egypt,Hungary
+651,310,1939,413992,1,Egyptian Pounds,Egypt,Hungary
+651,310,1940,399059,1,Egyptian Pounds,Egypt,Hungary
+651,310,1941,25368,1,Egyptian Pounds,Egypt,Hungary
+651,310,1942,1176,1,Egyptian Pounds,Egypt,Hungary
+651,310,1943,246,1,Egyptian Pounds,Egypt,Hungary
+651,310,1944,55,1,Egyptian Pounds,Egypt,Hungary
+651,310,1945,0,1,Egyptian Pounds,Egypt,Hungary
+651,310,1946,171,1,Egyptian Pounds,Egypt,Hungary
+651,310,1947,52309,1,Egyptian Pounds,Egypt,Hungary
+651,310,1948,587713,1,Egyptian Pounds,Egypt,Hungary
+651,310,1949,670264,1,Egyptian Pounds,Egypt,Hungary
+651,315,1919,0,1,,Egypt,Czechoslovakia
+651,315,1920,0,1,,Egypt,Czechoslovakia
+651,315,1921,272561,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1922,421033,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1923,488630,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1924,900678,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1925,1224117,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1926,1280608,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1927,970452,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1928,1307998,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1929,1382865,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1930,1582279,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1931,469926,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1932,360018,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1933,408161,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1934,391655,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1935,411088,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1936,520667,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1937,738092,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1938,577191,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1939,313401,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1940,5224,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1941,1403,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1942,474,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1943,0,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1944,0,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1945,0,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1946,176836,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1947,1962529,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1948,2276647,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,315,1949,1627426,1,Egyptian Pounds,Egypt,Czechoslovakia
+651,325,1919,2512028,1,,Egypt,Italy
+651,325,1920,5705020,1,,Egypt,Italy
+651,325,1921,3092253,1,Egyptian Pounds,Egypt,Italy
+651,325,1922,3149907,1,Egyptian Pounds,Egypt,Italy
+651,325,1923,4267657,1,Egyptian Pounds,Egypt,Italy
+651,325,1924,5230772,1,Egyptian Pounds,Egypt,Italy
+651,325,1925,6129939,1,Egyptian Pounds,Egypt,Italy
+651,325,1926,4547642,1,Egyptian Pounds,Egypt,Italy
+651,325,1927,4238249,1,Egyptian Pounds,Egypt,Italy
+651,325,1928,4933748,1,Egyptian Pounds,Egypt,Italy
+651,325,1929,5498485,1,Egyptian Pounds,Egypt,Italy
+651,325,1930,4318955,1,Egyptian Pounds,Egypt,Italy
+651,325,1931,2890331,1,Egyptian Pounds,Egypt,Italy
+651,325,1932,2438649,1,Egyptian Pounds,Egypt,Italy
+651,325,1933,2091838,1,Egyptian Pounds,Egypt,Italy
+651,325,1934,2039365,1,Egyptian Pounds,Egypt,Italy
+651,325,1935,1801064,1,Egyptian Pounds,Egypt,Italy
+651,325,1936,1093034,1,Egyptian Pounds,Egypt,Italy
+651,325,1937,3282832,1,Egyptian Pounds,Egypt,Italy
+651,325,1938,3003528,1,Egyptian Pounds,Egypt,Italy
+651,325,1939,2060030,1,Egyptian Pounds,Egypt,Italy
+651,325,1940,1538430,1,Egyptian Pounds,Egypt,Italy
+651,325,1941,96943,1,Egyptian Pounds,Egypt,Italy
+651,325,1942,36396,1,Egyptian Pounds,Egypt,Italy
+651,325,1943,7990,1,Egyptian Pounds,Egypt,Italy
+651,325,1944,3555,1,Egyptian Pounds,Egypt,Italy
+651,325,1945,25031,1,Egyptian Pounds,Egypt,Italy
+651,325,1946,6010360,1,Egyptian Pounds,Egypt,Italy
+651,325,1947,9189002,1,Egyptian Pounds,Egypt,Italy
+651,325,1948,15009837,1,Egyptian Pounds,Egypt,Italy
+651,325,1949,14929500,1,Egyptian Pounds,Egypt,Italy
+651,338,1919,0,1,,Egypt,Malta
+651,338,1920,0,1,,Egypt,Malta
+651,338,1921,17333,1,Egyptian Pounds,Egypt,Malta
+651,338,1922,11628,1,Egyptian Pounds,Egypt,Malta
+651,338,1923,6910,1,Egyptian Pounds,Egypt,Malta
+651,338,1924,11579,1,Egyptian Pounds,Egypt,Malta
+651,338,1925,10490,1,Egyptian Pounds,Egypt,Malta
+651,338,1926,6079,1,Egyptian Pounds,Egypt,Malta
+651,338,1927,7430,1,Egyptian Pounds,Egypt,Malta
+651,338,1928,3673,1,Egyptian Pounds,Egypt,Malta
+651,338,1929,3810,1,Egyptian Pounds,Egypt,Malta
+651,338,1930,1848,1,Egyptian Pounds,Egypt,Malta
+651,338,1931,2642,1,Egyptian Pounds,Egypt,Malta
+651,338,1932,2078,1,Egyptian Pounds,Egypt,Malta
+651,338,1933,2368,1,Egyptian Pounds,Egypt,Malta
+651,338,1934,1659,1,Egyptian Pounds,Egypt,Malta
+651,338,1935,1887,1,Egyptian Pounds,Egypt,Malta
+651,338,1936,5735,1,Egyptian Pounds,Egypt,Malta
+651,338,1937,2232,1,Egyptian Pounds,Egypt,Malta
+651,338,1938,2341,1,Egyptian Pounds,Egypt,Malta
+651,338,1939,8599,1,Egyptian Pounds,Egypt,Malta
+651,338,1940,6732,1,Egyptian Pounds,Egypt,Malta
+651,338,1941,3009,1,Egyptian Pounds,Egypt,Malta
+651,338,1942,1651,1,Egyptian Pounds,Egypt,Malta
+651,338,1943,1445,1,Egyptian Pounds,Egypt,Malta
+651,338,1944,36263,1,Egyptian Pounds,Egypt,Malta
+651,338,1945,31566,1,Egyptian Pounds,Egypt,Malta
+651,338,1946,3200,1,Egyptian Pounds,Egypt,Malta
+651,338,1947,13555,1,Egyptian Pounds,Egypt,Malta
+651,338,1948,18516,1,Egyptian Pounds,Egypt,Malta
+651,338,1949,9783,1,Egyptian Pounds,Egypt,Malta
+651,339,1919,0,1,,Egypt,Albania
+651,339,1920,0,1,,Egypt,Albania
+651,339,1921,17183,1,Egyptian Pounds,Egypt,Albania
+651,339,1922,13726,1,Egyptian Pounds,Egypt,Albania
+651,339,1923,5277,1,Egyptian Pounds,Egypt,Albania
+651,339,1924,5188,1,Egyptian Pounds,Egypt,Albania
+651,339,1925,4789,1,Egyptian Pounds,Egypt,Albania
+651,339,1926,7559,1,Egyptian Pounds,Egypt,Albania
+651,339,1927,3435,1,Egyptian Pounds,Egypt,Albania
+651,339,1928,2009,1,Egyptian Pounds,Egypt,Albania
+651,339,1929,3683,1,Egyptian Pounds,Egypt,Albania
+651,339,1930,6773,1,Egyptian Pounds,Egypt,Albania
+651,339,1931,5052,1,Egyptian Pounds,Egypt,Albania
+651,339,1932,1162,1,Egyptian Pounds,Egypt,Albania
+651,339,1933,384,1,Egyptian Pounds,Egypt,Albania
+651,339,1934,1075,1,Egyptian Pounds,Egypt,Albania
+651,339,1935,1689,1,Egyptian Pounds,Egypt,Albania
+651,339,1936,459,1,Egyptian Pounds,Egypt,Albania
+651,339,1937,1007,1,Egyptian Pounds,Egypt,Albania
+651,339,1938,572,1,Egyptian Pounds,Egypt,Albania
+651,339,1939,1069,1,Egyptian Pounds,Egypt,Albania
+651,339,1940,191,1,Egyptian Pounds,Egypt,Albania
+651,339,1941,4,1,Egyptian Pounds,Egypt,Albania
+651,339,1942,22,1,Egyptian Pounds,Egypt,Albania
+651,339,1943,7,1,Egyptian Pounds,Egypt,Albania
+651,339,1944,0,1,Egyptian Pounds,Egypt,Albania
+651,339,1945,0,1,Egyptian Pounds,Egypt,Albania
+651,339,1946,1,1,Egyptian Pounds,Egypt,Albania
+651,339,1947,66,1,Egyptian Pounds,Egypt,Albania
+651,339,1948,4,1,Egyptian Pounds,Egypt,Albania
+651,339,1949,0,1,Egyptian Pounds,Egypt,Albania
+651,345,1919,0,1,,Egypt,Yugoslavia
+651,345,1920,0,1,,Egypt,Yugoslavia
+651,345,1921,289869,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1922,196036,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1923,137282,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1924,264616,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1925,321683,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1926,272028,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1927,215136,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1928,263525,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1929,285572,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1930,213481,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1931,125178,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1932,102301,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1933,122592,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1934,181080,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1935,158517,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1936,230896,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1937,278725,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1938,210966,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1939,323896,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1940,216755,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1941,10253,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1942,0,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1943,979,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1944,0,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1945,1,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1946,58333,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1947,748695,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1948,2438675,1,Egyptian Pounds,Egypt,Yugoslavia
+651,345,1949,1846203,1,Egyptian Pounds,Egypt,Yugoslavia
+651,350,1919,1893105,1,,Egypt,Greece
+651,350,1920,2085531,1,,Egypt,Greece
+651,350,1921,1049237,1,Egyptian Pounds,Egypt,Greece
+651,350,1922,998372,1,Egyptian Pounds,Egypt,Greece
+651,350,1923,831378,1,Egyptian Pounds,Egypt,Greece
+651,350,1924,792488,1,Egyptian Pounds,Egypt,Greece
+651,350,1925,739231,1,Egyptian Pounds,Egypt,Greece
+651,350,1926,877753,1,Egyptian Pounds,Egypt,Greece
+651,350,1927,880400,1,Egyptian Pounds,Egypt,Greece
+651,350,1928,917983,1,Egyptian Pounds,Egypt,Greece
+651,350,1929,1032344,1,Egyptian Pounds,Egypt,Greece
+651,350,1930,926544,1,Egyptian Pounds,Egypt,Greece
+651,350,1931,668580,1,Egyptian Pounds,Egypt,Greece
+651,350,1932,622709,1,Egyptian Pounds,Egypt,Greece
+651,350,1933,670658,1,Egyptian Pounds,Egypt,Greece
+651,350,1934,639848,1,Egyptian Pounds,Egypt,Greece
+651,350,1935,527801,1,Egyptian Pounds,Egypt,Greece
+651,350,1936,456477,1,Egyptian Pounds,Egypt,Greece
+651,350,1937,493137,1,Egyptian Pounds,Egypt,Greece
+651,350,1938,407803,1,Egyptian Pounds,Egypt,Greece
+651,350,1939,399503,1,Egyptian Pounds,Egypt,Greece
+651,350,1940,345991,1,Egyptian Pounds,Egypt,Greece
+651,350,1941,222557,1,Egyptian Pounds,Egypt,Greece
+651,350,1942,80310,1,Egyptian Pounds,Egypt,Greece
+651,350,1943,71480,1,Egyptian Pounds,Egypt,Greece
+651,350,1944,55255,1,Egyptian Pounds,Egypt,Greece
+651,350,1945,89025,1,Egyptian Pounds,Egypt,Greece
+651,350,1946,311703,1,Egyptian Pounds,Egypt,Greece
+651,350,1947,405990,1,Egyptian Pounds,Egypt,Greece
+651,350,1948,1011074,1,Egyptian Pounds,Egypt,Greece
+651,350,1949,658672,1,Egyptian Pounds,Egypt,Greece
+651,351,1919,0,1,,Egypt,Crete
+651,351,1920,0,1,,Egypt,Crete
+651,351,1921,233505,1,Egyptian Pounds,Egypt,Crete
+651,351,1922,204584,1,Egyptian Pounds,Egypt,Crete
+651,351,1923,167777,1,Egyptian Pounds,Egypt,Crete
+651,351,1924,129337,1,Egyptian Pounds,Egypt,Crete
+651,351,1925,183766,1,Egyptian Pounds,Egypt,Crete
+651,351,1926,154687,1,Egyptian Pounds,Egypt,Crete
+651,351,1927,94023,1,Egyptian Pounds,Egypt,Crete
+651,351,1928,122545,1,Egyptian Pounds,Egypt,Crete
+651,351,1929,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1930,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1931,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1932,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1933,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1934,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1935,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1936,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1937,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1938,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1939,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1940,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1941,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1942,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1943,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1944,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1945,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1946,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1947,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1948,0,1,Egyptian Pounds,Egypt,Crete
+651,351,1949,0,1,Egyptian Pounds,Egypt,Crete
+651,352,1919,0,1,,Egypt,Cyprus
+651,352,1920,0,1,,Egypt,Cyprus
+651,352,1921,286552,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1922,279151,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1923,262744,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1924,267624,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1925,267679,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1926,286977,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1927,259019,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1928,217540,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1929,235759,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1930,271967,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1931,231166,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1932,181875,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1933,125621,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1934,116069,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1935,150106,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1936,154083,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1937,163265,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1938,162432,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1939,146900,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1940,216386,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1941,329094,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1942,284401,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1943,871379,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1944,1530429,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1945,1651430,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1946,726487,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1947,394682,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1948,558716,1,Egyptian Pounds,Egypt,Cyprus
+651,352,1949,564054,1,Egyptian Pounds,Egypt,Cyprus
+651,355,1919,0,1,,Egypt,Bulgaria
+651,355,1920,0,1,,Egypt,Bulgaria
+651,355,1921,72288,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1922,93845,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1923,42678,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1924,75061,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1925,117049,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1926,107804,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1927,175858,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1928,167652,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1929,162729,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1930,162468,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1931,246104,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1932,226234,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1933,113689,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1934,144177,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1935,173305,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1936,190835,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1937,202011,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1938,190796,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1939,118013,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1940,118450,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1941,64930,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1942,31821,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1943,29943,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1944,16900,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1945,12730,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1946,18114,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1947,102745,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1948,472044,1,Egyptian Pounds,Egypt,Bulgaria
+651,355,1949,287566,1,Egyptian Pounds,Egypt,Bulgaria
+651,360,1919,0,1,,Egypt,Romania
+651,360,1920,0,1,,Egypt,Romania
+651,360,1921,1094464,1,Egyptian Pounds,Egypt,Romania
+651,360,1922,1051006,1,Egyptian Pounds,Egypt,Romania
+651,360,1923,1026505,1,Egyptian Pounds,Egypt,Romania
+651,360,1924,998758,1,Egyptian Pounds,Egypt,Romania
+651,360,1925,1344088,1,Egyptian Pounds,Egypt,Romania
+651,360,1926,1929404,1,Egyptian Pounds,Egypt,Romania
+651,360,1927,1563265,1,Egyptian Pounds,Egypt,Romania
+651,360,1928,1727100,1,Egyptian Pounds,Egypt,Romania
+651,360,1929,1818161,1,Egyptian Pounds,Egypt,Romania
+651,360,1930,1817093,1,Egyptian Pounds,Egypt,Romania
+651,360,1931,1139835,1,Egyptian Pounds,Egypt,Romania
+651,360,1932,779709,1,Egyptian Pounds,Egypt,Romania
+651,360,1933,1008707,1,Egyptian Pounds,Egypt,Romania
+651,360,1934,989932,1,Egyptian Pounds,Egypt,Romania
+651,360,1935,1098816,1,Egyptian Pounds,Egypt,Romania
+651,360,1936,1042074,1,Egyptian Pounds,Egypt,Romania
+651,360,1937,1565143,1,Egyptian Pounds,Egypt,Romania
+651,360,1938,1398034,1,Egyptian Pounds,Egypt,Romania
+651,360,1939,1219710,1,Egyptian Pounds,Egypt,Romania
+651,360,1940,863593,1,Egyptian Pounds,Egypt,Romania
+651,360,1941,5740,1,Egyptian Pounds,Egypt,Romania
+651,360,1942,3493,1,Egyptian Pounds,Egypt,Romania
+651,360,1943,528,1,Egyptian Pounds,Egypt,Romania
+651,360,1944,0,1,Egyptian Pounds,Egypt,Romania
+651,360,1945,0,1,Egyptian Pounds,Egypt,Romania
+651,360,1946,2,1,Egyptian Pounds,Egypt,Romania
+651,360,1947,94982,1,Egyptian Pounds,Egypt,Romania
+651,360,1948,520477,1,Egyptian Pounds,Egypt,Romania
+651,360,1949,1047620,1,Egyptian Pounds,Egypt,Romania
+651,365,1919,25690,1,,Egypt,Russia
+651,365,1920,871754,1,,Egypt,Russia
+651,365,1921,250451,1,Egyptian Pounds,Egypt,Russia
+651,365,1922,321031,1,Egyptian Pounds,Egypt,Russia
+651,365,1923,537595,1,Egyptian Pounds,Egypt,Russia
+651,365,1924,810318,1,Egyptian Pounds,Egypt,Russia
+651,365,1925,794202,1,Egyptian Pounds,Egypt,Russia
+651,365,1926,526918,1,Egyptian Pounds,Egypt,Russia
+651,365,1927,806868,1,Egyptian Pounds,Egypt,Russia
+651,365,1928,958316,1,Egyptian Pounds,Egypt,Russia
+651,365,1929,1002751,1,Egyptian Pounds,Egypt,Russia
+651,365,1930,911712,1,Egyptian Pounds,Egypt,Russia
+651,365,1931,439563,1,Egyptian Pounds,Egypt,Russia
+651,365,1932,715392,1,Egyptian Pounds,Egypt,Russia
+651,365,1933,554004,1,Egyptian Pounds,Egypt,Russia
+651,365,1934,616471,1,Egyptian Pounds,Egypt,Russia
+651,365,1935,742888,1,Egyptian Pounds,Egypt,Russia
+651,365,1936,603100,1,Egyptian Pounds,Egypt,Russia
+651,365,1937,457773,1,Egyptian Pounds,Egypt,Russia
+651,365,1938,480197,1,Egyptian Pounds,Egypt,Russia
+651,365,1939,102030,1,Egyptian Pounds,Egypt,Russia
+651,365,1940,56098,1,Egyptian Pounds,Egypt,Russia
+651,365,1941,5439,1,Egyptian Pounds,Egypt,Russia
+651,365,1942,5091,1,Egyptian Pounds,Egypt,Russia
+651,365,1943,3791,1,Egyptian Pounds,Egypt,Russia
+651,365,1944,2814,1,Egyptian Pounds,Egypt,Russia
+651,365,1945,4568,1,Egyptian Pounds,Egypt,Russia
+651,365,1946,118038,1,Egyptian Pounds,Egypt,Russia
+651,365,1947,1501726,1,Egyptian Pounds,Egypt,Russia
+651,365,1948,11180068,1,Egyptian Pounds,Egypt,Russia
+651,365,1949,665612,1,Egyptian Pounds,Egypt,Russia
+651,366,1919,0,1,,Egypt,Estonia
+651,366,1920,0,1,,Egypt,Estonia
+651,366,1921,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1922,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1923,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1924,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1925,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1926,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1927,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1928,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1929,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1930,2,1,Egyptian Pounds,Egypt,Estonia
+651,366,1931,91,1,Egyptian Pounds,Egypt,Estonia
+651,366,1932,7,1,Egyptian Pounds,Egypt,Estonia
+651,366,1933,224,1,Egyptian Pounds,Egypt,Estonia
+651,366,1934,2426,1,Egyptian Pounds,Egypt,Estonia
+651,366,1935,1973,1,Egyptian Pounds,Egypt,Estonia
+651,366,1936,511,1,Egyptian Pounds,Egypt,Estonia
+651,366,1937,2695,1,Egyptian Pounds,Egypt,Estonia
+651,366,1938,6263,1,Egyptian Pounds,Egypt,Estonia
+651,366,1939,1800,1,Egyptian Pounds,Egypt,Estonia
+651,366,1940,3366,1,Egyptian Pounds,Egypt,Estonia
+651,366,1941,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1942,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1943,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1944,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1945,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1946,816,1,Egyptian Pounds,Egypt,Estonia
+651,366,1947,0,1,Egyptian Pounds,Egypt,Estonia
+651,366,1948,669,1,Egyptian Pounds,Egypt,Estonia
+651,366,1949,2,1,Egyptian Pounds,Egypt,Estonia
+651,367,1919,0,1,,Egypt,Latvia
+651,367,1920,0,1,,Egypt,Latvia
+651,367,1921,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1922,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1923,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1924,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1925,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1926,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1927,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1928,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1929,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1930,414,1,Egyptian Pounds,Egypt,Latvia
+651,367,1931,13,1,Egyptian Pounds,Egypt,Latvia
+651,367,1932,8,1,Egyptian Pounds,Egypt,Latvia
+651,367,1933,1081,1,Egyptian Pounds,Egypt,Latvia
+651,367,1934,10759,1,Egyptian Pounds,Egypt,Latvia
+651,367,1935,8411,1,Egyptian Pounds,Egypt,Latvia
+651,367,1936,6991,1,Egyptian Pounds,Egypt,Latvia
+651,367,1937,8904,1,Egyptian Pounds,Egypt,Latvia
+651,367,1938,7544,1,Egyptian Pounds,Egypt,Latvia
+651,367,1939,8552,1,Egyptian Pounds,Egypt,Latvia
+651,367,1940,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1941,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1942,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1943,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1944,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1945,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1946,14,1,Egyptian Pounds,Egypt,Latvia
+651,367,1947,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1948,0,1,Egyptian Pounds,Egypt,Latvia
+651,367,1949,0,1,Egyptian Pounds,Egypt,Latvia
+651,368,1919,0,1,,Egypt,Lithuania
+651,368,1920,0,1,,Egypt,Lithuania
+651,368,1921,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1922,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1923,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1924,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1925,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1926,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1927,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1928,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1929,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1930,291,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1931,318,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1932,258,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1933,537,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1934,192,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1935,682,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1936,462,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1937,2114,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1938,1347,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1939,2215,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1940,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1941,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1942,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1943,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1944,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1945,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1946,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1947,0,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1948,15,1,Egyptian Pounds,Egypt,Lithuania
+651,368,1949,0,1,Egyptian Pounds,Egypt,Lithuania
+651,375,1919,0,1,,Egypt,Finland
+651,375,1920,0,1,,Egypt,Finland
+651,375,1921,134178,1,Egyptian Pounds,Egypt,Finland
+651,375,1922,380508,1,Egyptian Pounds,Egypt,Finland
+651,375,1923,356078,1,Egyptian Pounds,Egypt,Finland
+651,375,1924,472480,1,Egyptian Pounds,Egypt,Finland
+651,375,1925,542935,1,Egyptian Pounds,Egypt,Finland
+651,375,1926,432969,1,Egyptian Pounds,Egypt,Finland
+651,375,1927,407329,1,Egyptian Pounds,Egypt,Finland
+651,375,1928,266309,1,Egyptian Pounds,Egypt,Finland
+651,375,1929,463877,1,Egyptian Pounds,Egypt,Finland
+651,375,1930,561588,1,Egyptian Pounds,Egypt,Finland
+651,375,1931,89374,1,Egyptian Pounds,Egypt,Finland
+651,375,1932,146158,1,Egyptian Pounds,Egypt,Finland
+651,375,1933,203082,1,Egyptian Pounds,Egypt,Finland
+651,375,1934,302259,1,Egyptian Pounds,Egypt,Finland
+651,375,1935,275302,1,Egyptian Pounds,Egypt,Finland
+651,375,1936,250216,1,Egyptian Pounds,Egypt,Finland
+651,375,1937,511214,1,Egyptian Pounds,Egypt,Finland
+651,375,1938,404285,1,Egyptian Pounds,Egypt,Finland
+651,375,1939,296569,1,Egyptian Pounds,Egypt,Finland
+651,375,1940,86224,1,Egyptian Pounds,Egypt,Finland
+651,375,1941,39,1,Egyptian Pounds,Egypt,Finland
+651,375,1942,0,1,Egyptian Pounds,Egypt,Finland
+651,375,1943,0,1,Egyptian Pounds,Egypt,Finland
+651,375,1944,0,1,Egyptian Pounds,Egypt,Finland
+651,375,1945,0,1,Egyptian Pounds,Egypt,Finland
+651,375,1946,409721,1,Egyptian Pounds,Egypt,Finland
+651,375,1947,1333881,1,Egyptian Pounds,Egypt,Finland
+651,375,1948,1963400,1,Egyptian Pounds,Egypt,Finland
+651,375,1949,2992993,1,Egyptian Pounds,Egypt,Finland
+651,380,1919,443118,1,,Egypt,Sweden
+651,380,1920,1639665,1,,Egypt,Sweden
+651,380,1921,778347,1,Egyptian Pounds,Egypt,Sweden
+651,380,1922,687677,1,Egyptian Pounds,Egypt,Sweden
+651,380,1923,573725,1,Egyptian Pounds,Egypt,Sweden
+651,380,1924,576661,1,Egyptian Pounds,Egypt,Sweden
+651,380,1925,594084,1,Egyptian Pounds,Egypt,Sweden
+651,380,1926,609496,1,Egyptian Pounds,Egypt,Sweden
+651,380,1927,511606,1,Egyptian Pounds,Egypt,Sweden
+651,380,1928,561623,1,Egyptian Pounds,Egypt,Sweden
+651,380,1929,776869,1,Egyptian Pounds,Egypt,Sweden
+651,380,1930,549845,1,Egyptian Pounds,Egypt,Sweden
+651,380,1931,225689,1,Egyptian Pounds,Egypt,Sweden
+651,380,1932,314069,1,Egyptian Pounds,Egypt,Sweden
+651,380,1933,227554,1,Egyptian Pounds,Egypt,Sweden
+651,380,1934,328664,1,Egyptian Pounds,Egypt,Sweden
+651,380,1935,369344,1,Egyptian Pounds,Egypt,Sweden
+651,380,1936,367146,1,Egyptian Pounds,Egypt,Sweden
+651,380,1937,494095,1,Egyptian Pounds,Egypt,Sweden
+651,380,1938,531237,1,Egyptian Pounds,Egypt,Sweden
+651,380,1939,394566,1,Egyptian Pounds,Egypt,Sweden
+651,380,1940,173464,1,Egyptian Pounds,Egypt,Sweden
+651,380,1941,8717,1,Egyptian Pounds,Egypt,Sweden
+651,380,1942,776,1,Egyptian Pounds,Egypt,Sweden
+651,380,1943,0,1,Egyptian Pounds,Egypt,Sweden
+651,380,1944,7,1,Egyptian Pounds,Egypt,Sweden
+651,380,1945,71566,1,Egyptian Pounds,Egypt,Sweden
+651,380,1946,472654,1,Egyptian Pounds,Egypt,Sweden
+651,380,1947,572147,1,Egyptian Pounds,Egypt,Sweden
+651,380,1948,2609498,1,Egyptian Pounds,Egypt,Sweden
+651,380,1949,2894722,1,Egyptian Pounds,Egypt,Sweden
+651,385,1919,0,1,,Egypt,Norway
+651,385,1920,0,1,,Egypt,Norway
+651,385,1921,106459,1,Egyptian Pounds,Egypt,Norway
+651,385,1922,133828,1,Egyptian Pounds,Egypt,Norway
+651,385,1923,94620,1,Egyptian Pounds,Egypt,Norway
+651,385,1924,138531,1,Egyptian Pounds,Egypt,Norway
+651,385,1925,190422,1,Egyptian Pounds,Egypt,Norway
+651,385,1926,234368,1,Egyptian Pounds,Egypt,Norway
+651,385,1927,128626,1,Egyptian Pounds,Egypt,Norway
+651,385,1928,66044,1,Egyptian Pounds,Egypt,Norway
+651,385,1929,70641,1,Egyptian Pounds,Egypt,Norway
+651,385,1930,208553,1,Egyptian Pounds,Egypt,Norway
+651,385,1931,301030,1,Egyptian Pounds,Egypt,Norway
+651,385,1932,600237,1,Egyptian Pounds,Egypt,Norway
+651,385,1933,726541,1,Egyptian Pounds,Egypt,Norway
+651,385,1934,780230,1,Egyptian Pounds,Egypt,Norway
+651,385,1935,667980,1,Egyptian Pounds,Egypt,Norway
+651,385,1936,519800,1,Egyptian Pounds,Egypt,Norway
+651,385,1937,431683,1,Egyptian Pounds,Egypt,Norway
+651,385,1938,517341,1,Egyptian Pounds,Egypt,Norway
+651,385,1939,475313,1,Egyptian Pounds,Egypt,Norway
+651,385,1940,210994,1,Egyptian Pounds,Egypt,Norway
+651,385,1941,0,1,Egyptian Pounds,Egypt,Norway
+651,385,1942,207,1,Egyptian Pounds,Egypt,Norway
+651,385,1943,10,1,Egyptian Pounds,Egypt,Norway
+651,385,1944,244,1,Egyptian Pounds,Egypt,Norway
+651,385,1945,0,1,Egyptian Pounds,Egypt,Norway
+651,385,1946,1482442,1,Egyptian Pounds,Egypt,Norway
+651,385,1947,969967,1,Egyptian Pounds,Egypt,Norway
+651,385,1948,2112936,1,Egyptian Pounds,Egypt,Norway
+651,385,1949,1935190,1,Egyptian Pounds,Egypt,Norway
+651,390,1919,0,1,,Egypt,Denmark
+651,390,1920,0,1,,Egypt,Denmark
+651,390,1921,9301,1,Egyptian Pounds,Egypt,Denmark
+651,390,1922,13343,1,Egyptian Pounds,Egypt,Denmark
+651,390,1923,7672,1,Egyptian Pounds,Egypt,Denmark
+651,390,1924,16451,1,Egyptian Pounds,Egypt,Denmark
+651,390,1925,17823,1,Egyptian Pounds,Egypt,Denmark
+651,390,1926,20318,1,Egyptian Pounds,Egypt,Denmark
+651,390,1927,11304,1,Egyptian Pounds,Egypt,Denmark
+651,390,1928,13900,1,Egyptian Pounds,Egypt,Denmark
+651,390,1929,63075,1,Egyptian Pounds,Egypt,Denmark
+651,390,1930,75870,1,Egyptian Pounds,Egypt,Denmark
+651,390,1931,21690,1,Egyptian Pounds,Egypt,Denmark
+651,390,1932,27820,1,Egyptian Pounds,Egypt,Denmark
+651,390,1933,65817,1,Egyptian Pounds,Egypt,Denmark
+651,390,1934,75430,1,Egyptian Pounds,Egypt,Denmark
+651,390,1935,66325,1,Egyptian Pounds,Egypt,Denmark
+651,390,1936,75154,1,Egyptian Pounds,Egypt,Denmark
+651,390,1937,114351,1,Egyptian Pounds,Egypt,Denmark
+651,390,1938,93364,1,Egyptian Pounds,Egypt,Denmark
+651,390,1939,80201,1,Egyptian Pounds,Egypt,Denmark
+651,390,1940,36009,1,Egyptian Pounds,Egypt,Denmark
+651,390,1941,426,1,Egyptian Pounds,Egypt,Denmark
+651,390,1942,120,1,Egyptian Pounds,Egypt,Denmark
+651,390,1943,0,1,Egyptian Pounds,Egypt,Denmark
+651,390,1944,0,1,Egyptian Pounds,Egypt,Denmark
+651,390,1945,0,1,Egyptian Pounds,Egypt,Denmark
+651,390,1946,77652,1,Egyptian Pounds,Egypt,Denmark
+651,390,1947,253660,1,Egyptian Pounds,Egypt,Denmark
+651,390,1948,530738,1,Egyptian Pounds,Egypt,Denmark
+651,390,1949,879401,1,Egyptian Pounds,Egypt,Denmark
+651,465,1919,0,1,,Egypt,British West Africa
+651,465,1920,0,1,,Egypt,British West Africa
+651,465,1921,1,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1922,0,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1923,1832,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1924,17,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1925,595,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1926,139,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1927,214,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1928,2299,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1929,853,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1930,521,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1931,97,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1932,1011,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1933,3622,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1934,3499,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1935,1211,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1936,419,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1937,1555,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1938,1084,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1939,452,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1940,5302,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1941,10920,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1942,25516,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1943,1073,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1944,4472,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1945,8907,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1946,16942,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1947,58091,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1948,72293,1,Egyptian Pounds,Egypt,British West Africa
+651,465,1949,60285,1,Egyptian Pounds,Egypt,British West Africa
+651,490,1919,0,1,,Egypt,"Congo, Dem. Republic"
+651,490,1920,0,1,,Egypt,"Congo, Dem. Republic"
+651,490,1921,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1922,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1923,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1924,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1925,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1926,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1927,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1928,0,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1929,1099,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1930,175,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1931,57,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1932,324,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1933,136,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1934,36,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1935,15,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1936,29,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1937,25,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1938,32,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1939,16,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1940,24,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1941,1447,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1942,8938,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1943,6703,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1944,1268,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1945,11208,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1946,193,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1947,13740,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1948,30,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,490,1949,59,1,Egyptian Pounds,Egypt,"Congo, Dem. Republic"
+651,505,1919,0,1,,Egypt,British East Africa
+651,505,1920,0,1,,Egypt,British East Africa
+651,505,1921,26285,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1922,77747,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1923,50125,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1924,102972,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1925,82330,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1926,166704,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1927,127298,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1928,114416,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1929,149541,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1930,80439,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1931,60561,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1932,72295,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1933,91118,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1934,56337,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1935,62990,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1936,53887,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1937,73596,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1938,65476,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1939,51906,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1940,112940,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1941,205426,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1942,353341,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1943,751979,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1944,574712,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1945,220330,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1946,124546,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1947,95660,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1948,587456,1,Egyptian Pounds,Egypt,British East Africa
+651,505,1949,231568,1,Egyptian Pounds,Egypt,British East Africa
+651,530,1919,0,1,,Egypt,Ethiopia
+651,530,1920,0,1,,Egypt,Ethiopia
+651,530,1921,50921,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1922,79818,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1923,99835,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1924,123231,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1925,193586,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1926,208928,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1927,161838,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1928,134354,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1929,160253,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1930,146431,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1931,114155,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1932,84825,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1933,94747,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1934,68200,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1935,67043,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1936,48094,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1937,44501,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1938,22176,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1939,7222,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1940,2519,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1941,106,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1942,13734,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1943,61738,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1944,94572,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1945,1443611,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1946,983017,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1947,416691,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1948,239944,1,Egyptian Pounds,Egypt,Ethiopia
+651,530,1949,198827,1,Egyptian Pounds,Egypt,Ethiopia
+651,531,1919,0,1,,Egypt,Eritrea
+651,531,1920,0,1,,Egypt,Eritrea
+651,531,1921,21797,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1922,17069,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1923,15784,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1924,23043,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1925,31646,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1926,19895,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1927,12985,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1928,10539,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1929,11522,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1930,23538,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1931,12715,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1932,3375,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1933,2121,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1934,835,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1935,1374,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1936,1564,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1937,365,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1938,6635,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1939,2301,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1940,904,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1941,193,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1942,3570,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1943,46801,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1944,232504,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1945,315706,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1946,118349,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1947,51753,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1948,45269,1,Egyptian Pounds,Egypt,Eritrea
+651,531,1949,60613,1,Egyptian Pounds,Egypt,Eritrea
+651,560,1919,0,1,,Egypt,South Africa
+651,560,1920,0,1,,Egypt,South Africa
+651,560,1921,340042,1,Egyptian Pounds,Egypt,South Africa
+651,560,1922,6850,1,Egyptian Pounds,Egypt,South Africa
+651,560,1923,7069,1,Egyptian Pounds,Egypt,South Africa
+651,560,1924,2577,1,Egyptian Pounds,Egypt,South Africa
+651,560,1925,17957,1,Egyptian Pounds,Egypt,South Africa
+651,560,1926,91696,1,Egyptian Pounds,Egypt,South Africa
+651,560,1927,16121,1,Egyptian Pounds,Egypt,South Africa
+651,560,1928,2034,1,Egyptian Pounds,Egypt,South Africa
+651,560,1929,2549,1,Egyptian Pounds,Egypt,South Africa
+651,560,1930,3278,1,Egyptian Pounds,Egypt,South Africa
+651,560,1931,14420,1,Egyptian Pounds,Egypt,South Africa
+651,560,1932,3121,1,Egyptian Pounds,Egypt,South Africa
+651,560,1933,2855,1,Egyptian Pounds,Egypt,South Africa
+651,560,1934,2873,1,Egyptian Pounds,Egypt,South Africa
+651,560,1935,1664,1,Egyptian Pounds,Egypt,South Africa
+651,560,1936,3990,1,Egyptian Pounds,Egypt,South Africa
+651,560,1937,3387,1,Egyptian Pounds,Egypt,South Africa
+651,560,1938,1611,1,Egyptian Pounds,Egypt,South Africa
+651,560,1939,2897,1,Egyptian Pounds,Egypt,South Africa
+651,560,1940,35296,1,Egyptian Pounds,Egypt,South Africa
+651,560,1941,424810,1,Egyptian Pounds,Egypt,South Africa
+651,560,1942,1842369,1,Egyptian Pounds,Egypt,South Africa
+651,560,1943,1265277,1,Egyptian Pounds,Egypt,South Africa
+651,560,1944,2088347,1,Egyptian Pounds,Egypt,South Africa
+651,560,1945,2501811,1,Egyptian Pounds,Egypt,South Africa
+651,560,1946,1666861,1,Egyptian Pounds,Egypt,South Africa
+651,560,1947,1238626,1,Egyptian Pounds,Egypt,South Africa
+651,560,1948,3676031,1,Egyptian Pounds,Egypt,South Africa
+651,560,1949,6607322,1,Egyptian Pounds,Egypt,South Africa
+651,580,1919,0,1,,Egypt,Madagascar
+651,580,1920,0,1,,Egypt,Madagascar
+651,580,1921,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1922,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1923,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1924,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1925,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1926,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1927,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1928,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1929,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1930,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1931,0,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1932,5051,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1933,3377,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1934,2802,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1935,2347,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1936,2454,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1937,1480,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1938,2569,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1939,1070,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1940,723,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1941,1018,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1942,1482,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1943,1,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1944,7,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1945,30,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1946,11,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1947,43,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1948,1394,1,Egyptian Pounds,Egypt,Madagascar
+651,580,1949,0,1,Egyptian Pounds,Egypt,Madagascar
+651,615,1919,0,1,,Egypt,Algeria
+651,615,1920,0,1,,Egypt,Algeria
+651,615,1921,7439,1,Egyptian Pounds,Egypt,Algeria
+651,615,1922,4629,1,Egyptian Pounds,Egypt,Algeria
+651,615,1923,10391,1,Egyptian Pounds,Egypt,Algeria
+651,615,1924,3632,1,Egyptian Pounds,Egypt,Algeria
+651,615,1925,22650,1,Egyptian Pounds,Egypt,Algeria
+651,615,1926,21176,1,Egyptian Pounds,Egypt,Algeria
+651,615,1927,26111,1,Egyptian Pounds,Egypt,Algeria
+651,615,1928,32809,1,Egyptian Pounds,Egypt,Algeria
+651,615,1929,51421,1,Egyptian Pounds,Egypt,Algeria
+651,615,1930,38872,1,Egyptian Pounds,Egypt,Algeria
+651,615,1931,21435,1,Egyptian Pounds,Egypt,Algeria
+651,615,1932,18670,1,Egyptian Pounds,Egypt,Algeria
+651,615,1933,32396,1,Egyptian Pounds,Egypt,Algeria
+651,615,1934,50466,1,Egyptian Pounds,Egypt,Algeria
+651,615,1935,53759,1,Egyptian Pounds,Egypt,Algeria
+651,615,1936,48799,1,Egyptian Pounds,Egypt,Algeria
+651,615,1937,46249,1,Egyptian Pounds,Egypt,Algeria
+651,615,1938,31236,1,Egyptian Pounds,Egypt,Algeria
+651,615,1939,43600,1,Egyptian Pounds,Egypt,Algeria
+651,615,1940,6167,1,Egyptian Pounds,Egypt,Algeria
+651,615,1941,0,1,Egyptian Pounds,Egypt,Algeria
+651,615,1942,121,1,Egyptian Pounds,Egypt,Algeria
+651,615,1943,3,1,Egyptian Pounds,Egypt,Algeria
+651,615,1944,7991,1,Egyptian Pounds,Egypt,Algeria
+651,615,1945,53031,1,Egyptian Pounds,Egypt,Algeria
+651,615,1946,7438,1,Egyptian Pounds,Egypt,Algeria
+651,615,1947,497,1,Egyptian Pounds,Egypt,Algeria
+651,615,1948,10207,1,Egyptian Pounds,Egypt,Algeria
+651,615,1949,98084,1,Egyptian Pounds,Egypt,Algeria
+651,616,1919,0,1,,Egypt,Tunisia
+651,616,1920,0,1,,Egypt,Tunisia
+651,616,1921,80590,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1922,79006,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1923,82629,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1924,92069,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1925,133946,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1926,170832,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1927,75055,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1928,87341,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1929,68012,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1930,53673,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1931,21080,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1932,14834,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1933,19498,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1934,27649,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1935,22543,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1936,23801,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1937,36905,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1938,35433,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1939,11187,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1940,1801,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1941,4,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1942,1818,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1943,28,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1944,177,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1945,58,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1946,767,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1947,552,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1948,2817,1,Egyptian Pounds,Egypt,Tunisia
+651,616,1949,56060,1,Egyptian Pounds,Egypt,Tunisia
+651,630,1919,171933,1,,Egypt,Iran
+651,630,1920,245165,1,,Egypt,Iran
+651,630,1921,305918,1,Egyptian Pounds,Egypt,Iran
+651,630,1922,591321,1,Egyptian Pounds,Egypt,Iran
+651,630,1923,373332,1,Egyptian Pounds,Egypt,Iran
+651,630,1924,435588,1,Egyptian Pounds,Egypt,Iran
+651,630,1925,531640,1,Egyptian Pounds,Egypt,Iran
+651,630,1926,579228,1,Egyptian Pounds,Egypt,Iran
+651,630,1927,420278,1,Egyptian Pounds,Egypt,Iran
+651,630,1928,349444,1,Egyptian Pounds,Egypt,Iran
+651,630,1929,303252,1,Egyptian Pounds,Egypt,Iran
+651,630,1930,248063,1,Egyptian Pounds,Egypt,Iran
+651,630,1931,183268,1,Egyptian Pounds,Egypt,Iran
+651,630,1932,542180,1,Egyptian Pounds,Egypt,Iran
+651,630,1933,532398,1,Egyptian Pounds,Egypt,Iran
+651,630,1934,636261,1,Egyptian Pounds,Egypt,Iran
+651,630,1935,597646,1,Egyptian Pounds,Egypt,Iran
+651,630,1936,598017,1,Egyptian Pounds,Egypt,Iran
+651,630,1937,794182,1,Egyptian Pounds,Egypt,Iran
+651,630,1938,595026,1,Egyptian Pounds,Egypt,Iran
+651,630,1939,572377,1,Egyptian Pounds,Egypt,Iran
+651,630,1940,692006,1,Egyptian Pounds,Egypt,Iran
+651,630,1941,2026705,1,Egyptian Pounds,Egypt,Iran
+651,630,1942,5497524,1,Egyptian Pounds,Egypt,Iran
+651,630,1943,6478860,1,Egyptian Pounds,Egypt,Iran
+651,630,1944,6147231,1,Egyptian Pounds,Egypt,Iran
+651,630,1945,4777058,1,Egyptian Pounds,Egypt,Iran
+651,630,1946,3040795,1,Egyptian Pounds,Egypt,Iran
+651,630,1947,2608328,1,Egyptian Pounds,Egypt,Iran
+651,630,1948,4505571,1,Egyptian Pounds,Egypt,Iran
+651,630,1949,5982063,1,Egyptian Pounds,Egypt,Iran
+651,640,1919,631910,1,,Egypt,Turkey
+651,640,1920,1174742,1,,Egypt,Turkey
+651,640,1921,784912,1,Egyptian Pounds,Egypt,Turkey
+651,640,1922,881036,1,Egyptian Pounds,Egypt,Turkey
+651,640,1923,747020,1,Egyptian Pounds,Egypt,Turkey
+651,640,1924,827285,1,Egyptian Pounds,Egypt,Turkey
+651,640,1925,1111359,1,Egyptian Pounds,Egypt,Turkey
+651,640,1926,1492112,1,Egyptian Pounds,Egypt,Turkey
+651,640,1927,993476,1,Egyptian Pounds,Egypt,Turkey
+651,640,1928,1338078,1,Egyptian Pounds,Egypt,Turkey
+651,640,1929,1087113,1,Egyptian Pounds,Egypt,Turkey
+651,640,1930,978197,1,Egyptian Pounds,Egypt,Turkey
+651,640,1931,765793,1,Egyptian Pounds,Egypt,Turkey
+651,640,1932,459158,1,Egyptian Pounds,Egypt,Turkey
+651,640,1933,385424,1,Egyptian Pounds,Egypt,Turkey
+651,640,1934,413289,1,Egyptian Pounds,Egypt,Turkey
+651,640,1935,325464,1,Egyptian Pounds,Egypt,Turkey
+651,640,1936,258261,1,Egyptian Pounds,Egypt,Turkey
+651,640,1937,248827,1,Egyptian Pounds,Egypt,Turkey
+651,640,1938,218412,1,Egyptian Pounds,Egypt,Turkey
+651,640,1939,250573,1,Egyptian Pounds,Egypt,Turkey
+651,640,1940,247926,1,Egyptian Pounds,Egypt,Turkey
+651,640,1941,405335,1,Egyptian Pounds,Egypt,Turkey
+651,640,1942,902348,1,Egyptian Pounds,Egypt,Turkey
+651,640,1943,2903055,1,Egyptian Pounds,Egypt,Turkey
+651,640,1944,4356992,1,Egyptian Pounds,Egypt,Turkey
+651,640,1945,4817898,1,Egyptian Pounds,Egypt,Turkey
+651,640,1946,4661455,1,Egyptian Pounds,Egypt,Turkey
+651,640,1947,3548679,1,Egyptian Pounds,Egypt,Turkey
+651,640,1948,2489957,1,Egyptian Pounds,Egypt,Turkey
+651,640,1949,2342454,1,Egyptian Pounds,Egypt,Turkey
+651,645,1919,0,1,,Egypt,Iraq
+651,645,1920,0,1,,Egypt,Iraq
+651,645,1921,26237,1,Egyptian Pounds,Egypt,Iraq
+651,645,1922,28048,1,Egyptian Pounds,Egypt,Iraq
+651,645,1923,37091,1,Egyptian Pounds,Egypt,Iraq
+651,645,1924,87344,1,Egyptian Pounds,Egypt,Iraq
+651,645,1925,57205,1,Egyptian Pounds,Egypt,Iraq
+651,645,1926,34922,1,Egyptian Pounds,Egypt,Iraq
+651,645,1927,21130,1,Egyptian Pounds,Egypt,Iraq
+651,645,1928,126044,1,Egyptian Pounds,Egypt,Iraq
+651,645,1929,173661,1,Egyptian Pounds,Egypt,Iraq
+651,645,1930,47366,1,Egyptian Pounds,Egypt,Iraq
+651,645,1931,32369,1,Egyptian Pounds,Egypt,Iraq
+651,645,1932,21978,1,Egyptian Pounds,Egypt,Iraq
+651,645,1933,31510,1,Egyptian Pounds,Egypt,Iraq
+651,645,1934,43045,1,Egyptian Pounds,Egypt,Iraq
+651,645,1935,68468,1,Egyptian Pounds,Egypt,Iraq
+651,645,1936,116993,1,Egyptian Pounds,Egypt,Iraq
+651,645,1937,125978,1,Egyptian Pounds,Egypt,Iraq
+651,645,1938,163715,1,Egyptian Pounds,Egypt,Iraq
+651,645,1939,90523,1,Egyptian Pounds,Egypt,Iraq
+651,645,1940,67265,1,Egyptian Pounds,Egypt,Iraq
+651,645,1941,212760,1,Egyptian Pounds,Egypt,Iraq
+651,645,1942,923983,1,Egyptian Pounds,Egypt,Iraq
+651,645,1943,2924634,1,Egyptian Pounds,Egypt,Iraq
+651,645,1944,4077721,1,Egyptian Pounds,Egypt,Iraq
+651,645,1945,4800065,1,Egyptian Pounds,Egypt,Iraq
+651,645,1946,4552862,1,Egyptian Pounds,Egypt,Iraq
+651,645,1947,3266162,1,Egyptian Pounds,Egypt,Iraq
+651,645,1948,2347465,1,Egyptian Pounds,Egypt,Iraq
+651,645,1949,1637708,1,Egyptian Pounds,Egypt,Iraq
+651,652,1919,367841,1,,Egypt,Syria
+651,652,1920,722524,1,,Egypt,Syria
+651,652,1921,267326,1,Egyptian Pounds,Egypt,Syria
+651,652,1922,719762,1,Egyptian Pounds,Egypt,Syria
+651,652,1923,793860,1,Egyptian Pounds,Egypt,Syria
+651,652,1924,848048,1,Egyptian Pounds,Egypt,Syria
+651,652,1925,966863,1,Egyptian Pounds,Egypt,Syria
+651,652,1926,718257,1,Egyptian Pounds,Egypt,Syria
+651,652,1927,584684,1,Egyptian Pounds,Egypt,Syria
+651,652,1928,873664,1,Egyptian Pounds,Egypt,Syria
+651,652,1929,688283,1,Egyptian Pounds,Egypt,Syria
+651,652,1930,878937,1,Egyptian Pounds,Egypt,Syria
+651,652,1931,390341,1,Egyptian Pounds,Egypt,Syria
+651,652,1932,180121,1,Egyptian Pounds,Egypt,Syria
+651,652,1933,115110,1,Egyptian Pounds,Egypt,Syria
+651,652,1934,119882,1,Egyptian Pounds,Egypt,Syria
+651,652,1935,208323,1,Egyptian Pounds,Egypt,Syria
+651,652,1936,276441,1,Egyptian Pounds,Egypt,Syria
+651,652,1937,211765,1,Egyptian Pounds,Egypt,Syria
+651,652,1938,203197,1,Egyptian Pounds,Egypt,Syria
+651,652,1939,159850,1,Egyptian Pounds,Egypt,Syria
+651,652,1940,149456,1,Egyptian Pounds,Egypt,Syria
+651,652,1941,89161,1,Egyptian Pounds,Egypt,Syria
+651,652,1942,124680,1,Egyptian Pounds,Egypt,Syria
+651,652,1943,263189,1,Egyptian Pounds,Egypt,Syria
+651,652,1944,425565,1,Egyptian Pounds,Egypt,Syria
+651,652,1945,646107,1,Egyptian Pounds,Egypt,Syria
+651,652,1946,751445,1,Egyptian Pounds,Egypt,Syria
+651,652,1947,362168,1,Egyptian Pounds,Egypt,Syria
+651,652,1948,325514,1,Egyptian Pounds,Egypt,Syria
+651,652,1949,309406,1,Egyptian Pounds,Egypt,Syria
+651,660,1919,0,1,,Egypt,Lebanon
+651,660,1920,0,1,,Egypt,Lebanon
+651,660,1921,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1922,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1923,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1924,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1925,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1926,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1927,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1928,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1929,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1930,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1931,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1932,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1933,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1934,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1935,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1936,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1937,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1938,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1939,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1940,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1941,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1942,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1943,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1944,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1945,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1946,0,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1947,1690990,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1948,847597,1,Egyptian Pounds,Egypt,Lebanon
+651,660,1949,602146,1,Egyptian Pounds,Egypt,Lebanon
+651,663,1919,0,1,,Egypt,Jordan
+651,663,1920,0,1,,Egypt,Jordan
+651,663,1921,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1922,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1923,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1924,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1925,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1926,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1927,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1928,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1929,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1930,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1931,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1932,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1933,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1934,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1935,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1936,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1937,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1938,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1939,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1940,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1941,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1942,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1943,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1944,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1945,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1946,0,1,Egyptian Pounds,Egypt,Jordan
+651,663,1947,19453,1,Egyptian Pounds,Egypt,Jordan
+651,663,1948,110772,1,Egyptian Pounds,Egypt,Jordan
+651,663,1949,33774,1,Egyptian Pounds,Egypt,Jordan
+651,665,1919,744902,1,,Egypt,West Bank And Gaza
+651,665,1920,784125,1,,Egypt,West Bank And Gaza
+651,665,1921,733195,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1922,531328,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1923,663167,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1924,736871,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1925,799182,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1926,534870,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1927,520835,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1928,952846,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1929,1012214,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1930,663295,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1931,293077,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1932,206410,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1933,148563,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1934,140850,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1935,188730,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1936,180115,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1937,194425,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1938,277128,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1939,268240,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1940,290198,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1941,820169,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1942,926955,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1943,1245616,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1944,2290461,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1945,1929770,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1946,924271,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1947,522747,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1948,726372,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,665,1949,156080,1,Egyptian Pounds,Egypt,West Bank And Gaza
+651,670,1919,0,1,,Egypt,Saudi Arabia
+651,670,1920,0,1,,Egypt,Saudi Arabia
+651,670,1921,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1922,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1923,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1924,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1925,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1926,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1927,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1928,0,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1929,257548,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1930,282508,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1931,164161,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1932,55152,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1933,80731,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1934,124161,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1935,79024,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1936,135816,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1937,114093,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1938,142099,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1939,23873,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1940,38931,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1941,53704,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1942,159220,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1943,191117,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1944,451039,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1945,637188,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1946,490565,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1947,209917,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1948,5864622,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,670,1949,4560866,1,Egyptian Pounds,Egypt,Saudi Arabia
+651,675,1919,0,1,,Egypt,Arabia
+651,675,1920,0,1,,Egypt,Arabia
+651,675,1921,97077,1,Egyptian Pounds,Egypt,Arabia
+651,675,1922,144157,1,Egyptian Pounds,Egypt,Arabia
+651,675,1923,133313,1,Egyptian Pounds,Egypt,Arabia
+651,675,1924,153222,1,Egyptian Pounds,Egypt,Arabia
+651,675,1925,202320,1,Egyptian Pounds,Egypt,Arabia
+651,675,1926,375774,1,Egyptian Pounds,Egypt,Arabia
+651,675,1927,256056,1,Egyptian Pounds,Egypt,Arabia
+651,675,1928,268329,1,Egyptian Pounds,Egypt,Arabia
+651,675,1929,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1930,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1931,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1932,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1933,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1934,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1935,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1936,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1937,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1938,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1939,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1940,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1941,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1942,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1943,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1944,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1945,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1946,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1947,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1948,0,1,Egyptian Pounds,Egypt,Arabia
+651,675,1949,0,1,Egyptian Pounds,Egypt,Arabia
+651,681,1919,0,1,,Egypt,Aden
+651,681,1920,0,1,,Egypt,Aden
+651,681,1921,233225,1,Egyptian Pounds,Egypt,Aden
+651,681,1922,140128,1,Egyptian Pounds,Egypt,Aden
+651,681,1923,107280,1,Egyptian Pounds,Egypt,Aden
+651,681,1924,112356,1,Egyptian Pounds,Egypt,Aden
+651,681,1925,139572,1,Egyptian Pounds,Egypt,Aden
+651,681,1926,100134,1,Egyptian Pounds,Egypt,Aden
+651,681,1927,79829,1,Egyptian Pounds,Egypt,Aden
+651,681,1928,72319,1,Egyptian Pounds,Egypt,Aden
+651,681,1929,71485,1,Egyptian Pounds,Egypt,Aden
+651,681,1930,55347,1,Egyptian Pounds,Egypt,Aden
+651,681,1931,45901,1,Egyptian Pounds,Egypt,Aden
+651,681,1932,55921,1,Egyptian Pounds,Egypt,Aden
+651,681,1933,44119,1,Egyptian Pounds,Egypt,Aden
+651,681,1934,45732,1,Egyptian Pounds,Egypt,Aden
+651,681,1935,47741,1,Egyptian Pounds,Egypt,Aden
+651,681,1936,49331,1,Egyptian Pounds,Egypt,Aden
+651,681,1937,66019,1,Egyptian Pounds,Egypt,Aden
+651,681,1938,53209,1,Egyptian Pounds,Egypt,Aden
+651,681,1939,46143,1,Egyptian Pounds,Egypt,Aden
+651,681,1940,46776,1,Egyptian Pounds,Egypt,Aden
+651,681,1941,80629,1,Egyptian Pounds,Egypt,Aden
+651,681,1942,369424,1,Egyptian Pounds,Egypt,Aden
+651,681,1943,668799,1,Egyptian Pounds,Egypt,Aden
+651,681,1944,1384721,1,Egyptian Pounds,Egypt,Aden
+651,681,1945,1207880,1,Egyptian Pounds,Egypt,Aden
+651,681,1946,797462,1,Egyptian Pounds,Egypt,Aden
+651,681,1947,400127,1,Egyptian Pounds,Egypt,Aden
+651,681,1948,498024,1,Egyptian Pounds,Egypt,Aden
+651,681,1949,508119,1,Egyptian Pounds,Egypt,Aden
+651,710,1919,1317270,1,,Egypt,China
+651,710,1920,2325707,1,,Egypt,China
+651,710,1921,1082203,1,Egyptian Pounds,Egypt,China
+651,710,1922,577375,1,Egyptian Pounds,Egypt,China
+651,710,1923,699024,1,Egyptian Pounds,Egypt,China
+651,710,1924,892252,1,Egyptian Pounds,Egypt,China
+651,710,1925,764654,1,Egyptian Pounds,Egypt,China
+651,710,1926,450073,1,Egyptian Pounds,Egypt,China
+651,710,1927,312980,1,Egyptian Pounds,Egypt,China
+651,710,1928,283178,1,Egyptian Pounds,Egypt,China
+651,710,1929,352041,1,Egyptian Pounds,Egypt,China
+651,710,1930,306955,1,Egyptian Pounds,Egypt,China
+651,710,1931,232274,1,Egyptian Pounds,Egypt,China
+651,710,1932,172157,1,Egyptian Pounds,Egypt,China
+651,710,1933,158293,1,Egyptian Pounds,Egypt,China
+651,710,1934,142530,1,Egyptian Pounds,Egypt,China
+651,710,1935,153073,1,Egyptian Pounds,Egypt,China
+651,710,1936,182757,1,Egyptian Pounds,Egypt,China
+651,710,1937,141547,1,Egyptian Pounds,Egypt,China
+651,710,1938,155747,1,Egyptian Pounds,Egypt,China
+651,710,1939,161858,1,Egyptian Pounds,Egypt,China
+651,710,1940,136325,1,Egyptian Pounds,Egypt,China
+651,710,1941,167016,1,Egyptian Pounds,Egypt,China
+651,710,1942,307655,1,Egyptian Pounds,Egypt,China
+651,710,1943,102143,1,Egyptian Pounds,Egypt,China
+651,710,1944,93385,1,Egyptian Pounds,Egypt,China
+651,710,1945,55791,1,Egyptian Pounds,Egypt,China
+651,710,1946,172489,1,Egyptian Pounds,Egypt,China
+651,710,1947,427246,1,Egyptian Pounds,Egypt,China
+651,710,1948,185572,1,Egyptian Pounds,Egypt,China
+651,710,1949,186085,1,Egyptian Pounds,Egypt,China
+651,720,1919,0,1,,Egypt,Hong Kong
+651,720,1920,0,1,,Egypt,Hong Kong
+651,720,1921,10469,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1922,9168,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1923,11215,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1924,9547,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1925,9819,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1926,13748,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1927,10666,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1928,18295,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1929,27372,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1930,27743,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1931,23792,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1932,16938,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1933,9376,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1934,8433,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1935,6320,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1936,12854,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1937,19721,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1938,9269,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1939,7728,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1940,6675,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1941,13369,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1942,9466,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1943,851,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1944,0,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1945,0,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1946,35310,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1947,139730,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1948,242668,1,Egyptian Pounds,Egypt,Hong Kong
+651,720,1949,207230,1,Egyptian Pounds,Egypt,Hong Kong
+651,740,1919,1729164,1,,Egypt,Japan
+651,740,1920,2264051,1,,Egypt,Japan
+651,740,1921,746856,1,Egyptian Pounds,Egypt,Japan
+651,740,1922,558857,1,Egyptian Pounds,Egypt,Japan
+651,740,1923,668568,1,Egyptian Pounds,Egypt,Japan
+651,740,1924,973325,1,Egyptian Pounds,Egypt,Japan
+651,740,1925,1105108,1,Egyptian Pounds,Egypt,Japan
+651,740,1926,832545,1,Egyptian Pounds,Egypt,Japan
+651,740,1927,1185372,1,Egyptian Pounds,Egypt,Japan
+651,740,1928,1595380,1,Egyptian Pounds,Egypt,Japan
+651,740,1929,1819671,1,Egyptian Pounds,Egypt,Japan
+651,740,1930,1732077,1,Egyptian Pounds,Egypt,Japan
+651,740,1931,1535282,1,Egyptian Pounds,Egypt,Japan
+651,740,1932,2152140,1,Egyptian Pounds,Egypt,Japan
+651,740,1933,2873131,1,Egyptian Pounds,Egypt,Japan
+651,740,1934,3444030,1,Egyptian Pounds,Egypt,Japan
+651,740,1935,3868841,1,Egyptian Pounds,Egypt,Japan
+651,740,1936,2178338,1,Egyptian Pounds,Egypt,Japan
+651,740,1937,1539125,1,Egyptian Pounds,Egypt,Japan
+651,740,1938,955136,1,Egyptian Pounds,Egypt,Japan
+651,740,1939,782742,1,Egyptian Pounds,Egypt,Japan
+651,740,1940,1191142,1,Egyptian Pounds,Egypt,Japan
+651,740,1941,1931597,1,Egyptian Pounds,Egypt,Japan
+651,740,1942,262058,1,Egyptian Pounds,Egypt,Japan
+651,740,1943,142217,1,Egyptian Pounds,Egypt,Japan
+651,740,1944,72057,1,Egyptian Pounds,Egypt,Japan
+651,740,1945,67341,1,Egyptian Pounds,Egypt,Japan
+651,740,1946,26694,1,Egyptian Pounds,Egypt,Japan
+651,740,1947,6454,1,Egyptian Pounds,Egypt,Japan
+651,740,1948,536911,1,Egyptian Pounds,Egypt,Japan
+651,740,1949,2310839,1,Egyptian Pounds,Egypt,Japan
+651,750,1919,2347965,1,,Egypt,India
+651,750,1920,3338709,1,,Egypt,India
+651,750,1921,1303739,1,Egyptian Pounds,Egypt,India
+651,750,1922,1251614,1,Egyptian Pounds,Egypt,India
+651,750,1923,1683643,1,Egyptian Pounds,Egypt,India
+651,750,1924,1669429,1,Egyptian Pounds,Egypt,India
+651,750,1925,2840158,1,Egyptian Pounds,Egypt,India
+651,750,1926,2069248,1,Egyptian Pounds,Egypt,India
+651,750,1927,1594313,1,Egyptian Pounds,Egypt,India
+651,750,1928,1625157,1,Egyptian Pounds,Egypt,India
+651,750,1929,1614839,1,Egyptian Pounds,Egypt,India
+651,750,1930,1321708,1,Egyptian Pounds,Egypt,India
+651,750,1931,1057055,1,Egyptian Pounds,Egypt,India
+651,750,1932,836899,1,Egyptian Pounds,Egypt,India
+651,750,1933,716319,1,Egyptian Pounds,Egypt,India
+651,750,1934,734629,1,Egyptian Pounds,Egypt,India
+651,750,1935,712864,1,Egyptian Pounds,Egypt,India
+651,750,1936,860852,1,Egyptian Pounds,Egypt,India
+651,750,1937,1054906,1,Egyptian Pounds,Egypt,India
+651,750,1938,876107,1,Egyptian Pounds,Egypt,India
+651,750,1939,791931,1,Egyptian Pounds,Egypt,India
+651,750,1940,1646131,1,Egyptian Pounds,Egypt,India
+651,750,1941,3182091,1,Egyptian Pounds,Egypt,India
+651,750,1942,7724627,1,Egyptian Pounds,Egypt,India
+651,750,1943,3596709,1,Egyptian Pounds,Egypt,India
+651,750,1944,3495013,1,Egyptian Pounds,Egypt,India
+651,750,1945,2930153,1,Egyptian Pounds,Egypt,India
+651,750,1946,2290997,1,Egyptian Pounds,Egypt,India
+651,750,1947,3984435,1,Egyptian Pounds,Egypt,India
+651,750,1948,6355593,1,Egyptian Pounds,Egypt,India
+651,750,1949,5026861,1,Egyptian Pounds,Egypt,India
+651,770,1919,0,1,,Egypt,Pakistan
+651,770,1920,0,1,,Egypt,Pakistan
+651,770,1921,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1922,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1923,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1924,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1925,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1926,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1927,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1928,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1929,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1930,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1931,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1932,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1933,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1934,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1935,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1936,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1937,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1938,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1939,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1940,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1941,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1942,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1943,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1944,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1945,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1946,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1947,0,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1948,42457,1,Egyptian Pounds,Egypt,Pakistan
+651,770,1949,283323,1,Egyptian Pounds,Egypt,Pakistan
+651,775,1919,0,1,,Egypt,Myanmar
+651,775,1920,0,1,,Egypt,Myanmar
+651,775,1921,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1922,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1923,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1924,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1925,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1926,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1927,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1928,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1929,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1930,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1931,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1932,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1933,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1934,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1935,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1936,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1937,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1938,70283,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1939,11288,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1940,11752,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1941,26017,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1942,1829,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1943,212,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1944,20,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1945,0,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1946,18,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1947,2759,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1948,47937,1,Egyptian Pounds,Egypt,Myanmar
+651,775,1949,36099,1,Egyptian Pounds,Egypt,Myanmar
+651,780,1919,0,1,,Egypt,Sri Lanka
+651,780,1920,0,1,,Egypt,Sri Lanka
+651,780,1921,172354,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1922,233508,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1923,341085,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1924,397058,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1925,453364,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1926,424395,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1927,395980,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1928,577328,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1929,542761,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1930,450634,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1931,377045,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1932,235040,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1933,192226,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1934,259106,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1935,190319,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1936,169554,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1937,225360,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1938,291497,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1939,277260,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1940,404900,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1941,644027,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1942,1372553,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1943,593659,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1944,1617338,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1945,1056555,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1946,1053545,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1947,3613463,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1948,4845189,1,Egyptian Pounds,Egypt,Sri Lanka
+651,780,1949,5034714,1,Egyptian Pounds,Egypt,Sri Lanka
+651,800,1919,0,1,,Egypt,Thailand
+651,800,1920,0,1,,Egypt,Thailand
+651,800,1921,59721,1,Egyptian Pounds,Egypt,Thailand
+651,800,1922,141779,1,Egyptian Pounds,Egypt,Thailand
+651,800,1923,245070,1,Egyptian Pounds,Egypt,Thailand
+651,800,1924,59625,1,Egyptian Pounds,Egypt,Thailand
+651,800,1925,142781,1,Egyptian Pounds,Egypt,Thailand
+651,800,1926,109909,1,Egyptian Pounds,Egypt,Thailand
+651,800,1927,77200,1,Egyptian Pounds,Egypt,Thailand
+651,800,1928,39248,1,Egyptian Pounds,Egypt,Thailand
+651,800,1929,12467,1,Egyptian Pounds,Egypt,Thailand
+651,800,1930,769,1,Egyptian Pounds,Egypt,Thailand
+651,800,1931,3426,1,Egyptian Pounds,Egypt,Thailand
+651,800,1932,161,1,Egyptian Pounds,Egypt,Thailand
+651,800,1933,79,1,Egyptian Pounds,Egypt,Thailand
+651,800,1934,1050,1,Egyptian Pounds,Egypt,Thailand
+651,800,1935,213,1,Egyptian Pounds,Egypt,Thailand
+651,800,1936,638,1,Egyptian Pounds,Egypt,Thailand
+651,800,1937,662,1,Egyptian Pounds,Egypt,Thailand
+651,800,1938,1209,1,Egyptian Pounds,Egypt,Thailand
+651,800,1939,732,1,Egyptian Pounds,Egypt,Thailand
+651,800,1940,696,1,Egyptian Pounds,Egypt,Thailand
+651,800,1941,2440,1,Egyptian Pounds,Egypt,Thailand
+651,800,1942,58,1,Egyptian Pounds,Egypt,Thailand
+651,800,1943,0,1,Egyptian Pounds,Egypt,Thailand
+651,800,1944,0,1,Egyptian Pounds,Egypt,Thailand
+651,800,1945,0,1,Egyptian Pounds,Egypt,Thailand
+651,800,1946,62,1,Egyptian Pounds,Egypt,Thailand
+651,800,1947,6074,1,Egyptian Pounds,Egypt,Thailand
+651,800,1948,14659,1,Egyptian Pounds,Egypt,Thailand
+651,800,1949,4003,1,Egyptian Pounds,Egypt,Thailand
+651,810,1919,0,1,,Egypt,French Indo-China
+651,810,1920,0,1,,Egypt,French Indo-China
+651,810,1921,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1922,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1923,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1924,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1925,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1926,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1927,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1928,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1929,15117,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1930,1129,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1931,3148,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1932,778,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1933,494,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1934,2487,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1935,1145,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1936,2643,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1937,17203,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1938,28415,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1939,38338,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1940,25134,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1941,60098,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1942,4483,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1943,975,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1944,0,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1945,500,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1946,742,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1947,1988,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1948,59,1,Egyptian Pounds,Egypt,French Indo-China
+651,810,1949,23,1,Egyptian Pounds,Egypt,French Indo-China
+651,823,1919,0,1,,Egypt,British Borneo
+651,823,1920,0,1,,Egypt,British Borneo
+651,823,1921,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1922,80018,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1923,99589,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1924,156726,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1925,176161,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1926,154941,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1927,160047,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1928,142192,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1929,149591,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1930,128245,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1931,8906,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1932,28994,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1933,4577,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1934,88,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1935,6634,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1936,116,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1937,1,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1938,3399,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1939,4433,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1940,22012,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1941,38,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1942,544,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1943,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1944,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1945,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1946,254,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1947,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1948,0,1,Egyptian Pounds,Egypt,British Borneo
+651,823,1949,1,1,Egyptian Pounds,Egypt,British Borneo
+651,827,1919,0,1,,Egypt,Straits Settlement
+651,827,1920,0,1,,Egypt,Straits Settlement
+651,827,1921,110736,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1922,71706,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1923,74302,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1924,103108,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1925,94366,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1926,56986,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1927,37235,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1928,50397,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1929,44429,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1930,34817,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1931,23474,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1932,40080,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1933,54424,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1934,44853,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1935,98749,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1936,146253,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1937,125935,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1938,101217,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1939,252128,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1940,341062,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1941,241787,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1942,134321,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1943,26522,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1944,22645,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1945,2,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1946,39837,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1947,296608,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1948,562977,1,Egyptian Pounds,Egypt,Straits Settlement
+651,827,1949,617832,1,Egyptian Pounds,Egypt,Straits Settlement
+651,840,1919,0,1,,Egypt,Philippines
+651,840,1920,0,1,,Egypt,Philippines
+651,840,1921,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1922,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1923,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1924,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1925,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1926,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1927,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1928,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1929,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1930,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1931,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1932,317,1,Egyptian Pounds,Egypt,Philippines
+651,840,1933,293,1,Egyptian Pounds,Egypt,Philippines
+651,840,1934,308,1,Egyptian Pounds,Egypt,Philippines
+651,840,1935,1885,1,Egyptian Pounds,Egypt,Philippines
+651,840,1936,545,1,Egyptian Pounds,Egypt,Philippines
+651,840,1937,672,1,Egyptian Pounds,Egypt,Philippines
+651,840,1938,501,1,Egyptian Pounds,Egypt,Philippines
+651,840,1939,272,1,Egyptian Pounds,Egypt,Philippines
+651,840,1940,107674,1,Egyptian Pounds,Egypt,Philippines
+651,840,1941,3137,1,Egyptian Pounds,Egypt,Philippines
+651,840,1942,8636,1,Egyptian Pounds,Egypt,Philippines
+651,840,1943,92,1,Egyptian Pounds,Egypt,Philippines
+651,840,1944,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1945,104,1,Egyptian Pounds,Egypt,Philippines
+651,840,1946,0,1,Egyptian Pounds,Egypt,Philippines
+651,840,1947,422,1,Egyptian Pounds,Egypt,Philippines
+651,840,1948,89350,1,Egyptian Pounds,Egypt,Philippines
+651,840,1949,401,1,Egyptian Pounds,Egypt,Philippines
+651,850,1919,0,1,,Egypt,Indonesia
+651,850,1920,0,1,,Egypt,Indonesia
+651,850,1921,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1922,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1923,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1924,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1925,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1926,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1927,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1928,0,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1929,872337,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1930,586255,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1931,237305,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1932,240482,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1933,275867,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1934,411613,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1935,447884,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1936,603126,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1937,955496,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1938,1724956,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1939,1517725,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1940,1911528,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1941,1888132,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1942,474328,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1943,38909,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1944,41078,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1945,770,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1946,1649,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1947,122232,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1948,83054,1,Egyptian Pounds,Egypt,Indonesia
+651,850,1949,800225,1,Egyptian Pounds,Egypt,Indonesia
+651,900,1919,0,1,,Egypt,Australia
+651,900,1920,0,1,,Egypt,Australia
+651,900,1921,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1922,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1923,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1924,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1925,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1926,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1927,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1928,0,1,Egyptian Pounds,Egypt,Australia
+651,900,1929,2189696,1,Egyptian Pounds,Egypt,Australia
+651,900,1930,1246386,1,Egyptian Pounds,Egypt,Australia
+651,900,1931,976656,1,Egyptian Pounds,Egypt,Australia
+651,900,1932,607372,1,Egyptian Pounds,Egypt,Australia
+651,900,1933,50398,1,Egyptian Pounds,Egypt,Australia
+651,900,1934,160114,1,Egyptian Pounds,Egypt,Australia
+651,900,1935,363179,1,Egyptian Pounds,Egypt,Australia
+651,900,1936,185906,1,Egyptian Pounds,Egypt,Australia
+651,900,1937,70325,1,Egyptian Pounds,Egypt,Australia
+651,900,1938,207746,1,Egyptian Pounds,Egypt,Australia
+651,900,1939,193992,1,Egyptian Pounds,Egypt,Australia
+651,900,1940,360639,1,Egyptian Pounds,Egypt,Australia
+651,900,1941,538837,1,Egyptian Pounds,Egypt,Australia
+651,900,1942,1783320,1,Egyptian Pounds,Egypt,Australia
+651,900,1943,711098,1,Egyptian Pounds,Egypt,Australia
+651,900,1944,767411,1,Egyptian Pounds,Egypt,Australia
+651,900,1945,609923,1,Egyptian Pounds,Egypt,Australia
+651,900,1946,1004977,1,Egyptian Pounds,Egypt,Australia
+651,900,1947,1724647,1,Egyptian Pounds,Egypt,Australia
+651,900,1948,3848965,1,Egyptian Pounds,Egypt,Australia
+651,900,1949,8903747,1,Egyptian Pounds,Egypt,Australia
+651,920,1919,0,1,,Egypt,New Zealand
+651,920,1920,0,1,,Egypt,New Zealand
+651,920,1921,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1922,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1923,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1924,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1925,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1926,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1927,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1928,0,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1929,6821,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1930,7477,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1931,7057,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1932,6837,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1933,9583,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1934,852,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1935,1552,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1936,1219,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1937,2955,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1938,989,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1939,1787,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1940,27948,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1941,30781,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1942,100771,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1943,43735,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1944,119581,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1945,11915,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1946,20045,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1947,63826,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1948,91116,1,Egyptian Pounds,Egypt,New Zealand
+651,920,1949,107851,1,Egyptian Pounds,Egypt,New Zealand
+651,1050,1919,0,1,,Egypt,British West Indies
+651,1050,1920,0,1,,Egypt,British West Indies
+651,1050,1921,254,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1922,213,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1923,606,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1924,973,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1925,1071,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1926,2021,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1927,2549,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1928,160,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1929,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1930,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1931,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1932,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1933,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1934,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1935,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1936,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1937,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1938,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1939,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1940,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1941,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1942,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1943,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1944,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1945,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1946,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1947,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1948,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1050,1949,0,1,Egyptian Pounds,Egypt,British West Indies
+651,1060,1919,0,1,,Egypt,French West Indies
+651,1060,1920,0,1,,Egypt,French West Indies
+651,1060,1921,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1922,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1923,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1924,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1925,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1926,1,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1927,3,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1928,77,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1929,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1930,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1931,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1932,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1933,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1934,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1935,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1936,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1937,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1938,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1939,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1940,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1941,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1942,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1943,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1944,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1945,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1946,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1947,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1948,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1060,1949,0,1,Egyptian Pounds,Egypt,French West Indies
+651,1065,1919,0,1,,Egypt,Curacao
+651,1065,1920,0,1,,Egypt,Curacao
+651,1065,1921,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1922,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1923,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1924,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1925,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1926,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1927,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1928,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1929,1140,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1930,1,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1931,2,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1932,61438,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1933,100748,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1934,96969,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1935,155582,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1936,95481,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1937,96055,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1938,52116,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1939,121150,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1940,82411,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1941,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1942,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1943,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1944,0,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1945,779,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1946,1950,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1947,32900,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1948,56993,1,Egyptian Pounds,Egypt,Curacao
+651,1065,1949,83413,1,Egyptian Pounds,Egypt,Curacao
+651,2115,1919,0,1,,Egypt,Belgian Africa
+651,2115,1920,0,1,,Egypt,Belgian Africa
+651,2115,1921,3,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1922,9,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1923,21,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1924,20,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1925,10,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1926,57,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1927,42,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1928,430,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1929,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1930,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1931,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1932,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1933,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1934,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1935,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1936,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1937,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1938,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1939,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1940,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1941,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1942,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1943,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1944,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1945,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1946,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1947,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1948,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2115,1949,0,1,Egyptian Pounds,Egypt,Belgian Africa
+651,2205,1919,0,1,,Egypt,French Africa
+651,2205,1920,0,1,,Egypt,French Africa
+651,2205,1921,2146,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1922,1778,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1923,6503,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1924,3844,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1925,5172,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1926,9766,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1927,4046,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1928,10083,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1929,27938,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1930,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1931,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1932,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1933,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1934,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1935,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1936,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1937,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1938,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1939,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1940,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1941,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1942,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1943,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1944,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1945,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1946,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1947,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1948,0,1,Egyptian Pounds,Egypt,French Africa
+651,2205,1949,0,1,Egyptian Pounds,Egypt,French Africa
+651,2355,1919,0,1,,Egypt,Portuguese Africa
+651,2355,1920,0,1,,Egypt,Portuguese Africa
+651,2355,1921,83398,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1922,4,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1923,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1924,3,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1925,1199,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1926,26,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1927,102,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1928,4419,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1929,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1930,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1931,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1932,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1933,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1934,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1935,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1936,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1937,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1938,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1939,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1940,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1941,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1942,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1943,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1944,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1945,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1946,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1947,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1948,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,2355,1949,0,1,Egyptian Pounds,Egypt,Portuguese Africa
+651,3250,1919,0,1,,Egypt,Italian Africa
+651,3250,1920,0,1,,Egypt,Italian Africa
+651,3250,1921,252,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1922,406,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1923,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1924,14,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1925,4,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1926,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1927,34,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1928,84,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1929,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1930,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1931,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1932,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1933,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1934,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1935,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1936,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1937,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1938,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1939,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1940,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1941,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1942,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1943,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1944,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1945,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1946,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1947,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1948,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3250,1949,0,1,Egyptian Pounds,Egypt,Italian Africa
+651,3353,1919,0,1,,Egypt,Dodecanese
+651,3353,1920,0,1,,Egypt,Dodecanese
+651,3353,1921,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1922,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1923,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1924,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1925,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1926,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1927,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1928,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1929,41665,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1930,22884,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1931,8006,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1932,8584,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1933,8261,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1934,8019,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1935,4130,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1936,4665,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1937,4740,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1938,5446,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1939,1683,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1940,274,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1941,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1942,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1943,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1944,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1945,0,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1946,2737,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1947,1705,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1948,2539,1,Egyptian Pounds,Egypt,Dodecanese
+651,3353,1949,2,1,Egyptian Pounds,Egypt,Dodecanese
+651,5200,1919,0,1,,Egypt,Italian Somaliland
+651,5200,1920,0,1,,Egypt,Italian Somaliland
+651,5200,1921,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1922,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1923,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1924,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1925,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1926,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1927,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1928,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1929,8,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1930,72,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1931,872,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1932,266,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1933,162,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1934,220,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1935,6,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1936,1313,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1937,22,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1938,82,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1939,12,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1940,24,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1941,10,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1942,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1943,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1944,330,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1945,202,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1946,6,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1947,0,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1948,5,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,5200,1949,497,1,Egyptian Pounds,Egypt,Italian Somaliland
+651,6203,1919,0,1,,Egypt,Tripoli
+651,6203,1920,0,1,,Egypt,Tripoli
+651,6203,1921,117922,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1922,101123,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1923,151796,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1924,207774,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1925,194537,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1926,90657,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1927,63564,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1928,165180,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1929,122659,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1930,92640,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1931,22868,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1932,3593,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1933,2151,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1934,1719,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1935,2859,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1936,973,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1937,1470,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1938,6980,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1939,1031,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1940,1031,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1941,848,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1942,1188,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1943,4170,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1944,164275,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1945,279309,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1946,461755,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1947,500522,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1948,513799,1,Egyptian Pounds,Egypt,Tripoli
+651,6203,1949,640763,1,Egyptian Pounds,Egypt,Tripoli
+651,,1919,56749440,1,,Egypt,
+651,,1920,127766268,1,,Egypt,
+651,,1921,60246677,1,Egyptian Pounds,Egypt,
+651,,1922,44527443,1,Egyptian Pounds,Egypt,
+651,,1923,47126527,1,Egyptian Pounds,Egypt,
+651,,1924,53283543,1,Egyptian Pounds,Egypt,
+651,,1925,61502471,1,Egyptian Pounds,Egypt,
+651,,1926,54674421,1,Egyptian Pounds,Egypt,
+651,,1927,50953086,1,Egyptian Pounds,Egypt,
+651,,1928,56329308,1,Egyptian Pounds,Egypt,
+651,,1929,58680686,1,Egyptian Pounds,Egypt,
+651,,1930,49377564,1,Egyptian Pounds,Egypt,
+651,,1931,32768958,1,Egyptian Pounds,Egypt,
+651,,1932,28740055,1,Egyptian Pounds,Egypt,
+651,,1933,28120112,1,Egyptian Pounds,Egypt,
+651,,1934,31130754,1,Egyptian Pounds,Egypt,
+651,,1935,34026105,1,Egyptian Pounds,Egypt,
+651,,1936,33658963,1,Egyptian Pounds,Egypt,
+651,,1937,40770824,1,Egyptian Pounds,Egypt,
+651,,1938,39459886,1,Egyptian Pounds,Egypt,
+651,,1939,36326189,1,Egyptian Pounds,Egypt,
+651,,1940,33038034,1,Egyptian Pounds,Egypt,
+651,,1941,33676618,1,Egyptian Pounds,Egypt,
+651,,1942,56052928,1,Egyptian Pounds,Egypt,
+651,,1943,39353151,1,Egyptian Pounds,Egypt,
+651,,1944,51402823,1,Egyptian Pounds,Egypt,
+651,,1945,62076391,1,Egyptian Pounds,Egypt,
+651,,1946,87563353,1,Egyptian Pounds,Egypt,
+651,,1947,110445940,1,Egyptian Pounds,Egypt,
+651,,1948,182985556,1,Egyptian Pounds,Egypt,
+651,,1949,186390516,1,Egyptian Pounds,Egypt,

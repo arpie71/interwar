@@ -1,0 +1,781 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+830,Singapore,2,United States,1921,23095452,1,$
+830,Singapore,2,United States,1922,14520331,1,$
+830,Singapore,2,United States,1923,15965667,1,$
+830,Singapore,2,United States,1924,19317609,1,$
+830,Singapore,2,United States,1929,0,1,$
+830,Singapore,2,United States,1930,0,1,$
+830,Singapore,2,United States,1931,0,1,$
+830,Singapore,2,United States,1932,0,1,$
+830,Singapore,2,United States,1933,0,1,$
+830,Singapore,2,United States,1934,0,1,$
+830,Singapore,2,United States,1935,0,1,$
+830,Singapore,2,United States,1936,6433053,1,$
+830,Singapore,2,United States,1937,10494018,1,$
+830,Singapore,3,Alaska,1921,0,1,$
+830,Singapore,3,Alaska,1922,0,1,$
+830,Singapore,3,Alaska,1923,0,1,$
+830,Singapore,3,Alaska,1924,0,1,$
+830,Singapore,3,Alaska,1929,0,1,$
+830,Singapore,3,Alaska,1930,0,1,$
+830,Singapore,3,Alaska,1931,0,1,$
+830,Singapore,3,Alaska,1932,0,1,$
+830,Singapore,3,Alaska,1933,0,1,$
+830,Singapore,3,Alaska,1934,0,1,$
+830,Singapore,3,Alaska,1935,0,1,$
+830,Singapore,3,Alaska,1936,19387,1,$
+830,Singapore,3,Alaska,1937,2219,1,$
+830,Singapore,20,Canada,1921,944580,1,$
+830,Singapore,20,Canada,1922,91125,1,$
+830,Singapore,20,Canada,1923,218432,1,$
+830,Singapore,20,Canada,1924,150490,1,$
+830,Singapore,20,Canada,1929,0,1,$
+830,Singapore,20,Canada,1930,0,1,$
+830,Singapore,20,Canada,1931,0,1,$
+830,Singapore,20,Canada,1932,0,1,$
+830,Singapore,20,Canada,1933,0,1,$
+830,Singapore,20,Canada,1934,0,1,$
+830,Singapore,20,Canada,1935,0,1,$
+830,Singapore,20,Canada,1936,2375711,1,$
+830,Singapore,20,Canada,1937,4577281,1,$
+830,Singapore,70,Mexico,1921,0,1,$
+830,Singapore,70,Mexico,1922,0,1,$
+830,Singapore,70,Mexico,1923,0,1,$
+830,Singapore,70,Mexico,1924,0,1,$
+830,Singapore,70,Mexico,1929,0,1,$
+830,Singapore,70,Mexico,1930,0,1,$
+830,Singapore,70,Mexico,1931,0,1,$
+830,Singapore,70,Mexico,1932,0,1,$
+830,Singapore,70,Mexico,1933,0,1,$
+830,Singapore,70,Mexico,1934,0,1,$
+830,Singapore,70,Mexico,1935,0,1,$
+830,Singapore,70,Mexico,1936,304907,1,$
+830,Singapore,70,Mexico,1937,395952,1,$
+830,Singapore,135,Peru,1921,0,1,$
+830,Singapore,135,Peru,1922,0,1,$
+830,Singapore,135,Peru,1923,0,1,$
+830,Singapore,135,Peru,1924,0,1,$
+830,Singapore,135,Peru,1929,0,1,$
+830,Singapore,135,Peru,1930,0,1,$
+830,Singapore,135,Peru,1931,0,1,$
+830,Singapore,135,Peru,1932,0,1,$
+830,Singapore,135,Peru,1933,0,1,$
+830,Singapore,135,Peru,1934,0,1,$
+830,Singapore,135,Peru,1935,0,1,$
+830,Singapore,135,Peru,1936,0,1,$
+830,Singapore,135,Peru,1937,0,1,$
+830,Singapore,140,Brazil,1921,0,1,$
+830,Singapore,140,Brazil,1922,0,1,$
+830,Singapore,140,Brazil,1923,0,1,$
+830,Singapore,140,Brazil,1924,0,1,$
+830,Singapore,140,Brazil,1929,0,1,$
+830,Singapore,140,Brazil,1930,0,1,$
+830,Singapore,140,Brazil,1931,0,1,$
+830,Singapore,140,Brazil,1932,0,1,$
+830,Singapore,140,Brazil,1933,0,1,$
+830,Singapore,140,Brazil,1934,0,1,$
+830,Singapore,140,Brazil,1935,0,1,$
+830,Singapore,140,Brazil,1936,12070,1,$
+830,Singapore,140,Brazil,1937,110657,1,$
+830,Singapore,155,Chile,1921,0,1,$
+830,Singapore,155,Chile,1922,0,1,$
+830,Singapore,155,Chile,1923,0,1,$
+830,Singapore,155,Chile,1924,0,1,$
+830,Singapore,155,Chile,1929,0,1,$
+830,Singapore,155,Chile,1930,0,1,$
+830,Singapore,155,Chile,1931,0,1,$
+830,Singapore,155,Chile,1932,0,1,$
+830,Singapore,155,Chile,1933,0,1,$
+830,Singapore,155,Chile,1934,0,1,$
+830,Singapore,155,Chile,1935,0,1,$
+830,Singapore,155,Chile,1936,698,1,$
+830,Singapore,155,Chile,1937,5932,1,$
+830,Singapore,160,Argentina,1921,0,1,$
+830,Singapore,160,Argentina,1922,0,1,$
+830,Singapore,160,Argentina,1923,0,1,$
+830,Singapore,160,Argentina,1924,0,1,$
+830,Singapore,160,Argentina,1929,0,1,$
+830,Singapore,160,Argentina,1930,0,1,$
+830,Singapore,160,Argentina,1931,0,1,$
+830,Singapore,160,Argentina,1932,0,1,$
+830,Singapore,160,Argentina,1933,0,1,$
+830,Singapore,160,Argentina,1934,0,1,$
+830,Singapore,160,Argentina,1935,0,1,$
+830,Singapore,160,Argentina,1936,45035,1,$
+830,Singapore,160,Argentina,1937,67608,1,$
+830,Singapore,200,United Kingdom,1921,53228052,1,$
+830,Singapore,200,United Kingdom,1922,51940123,1,$
+830,Singapore,200,United Kingdom,1923,56261505,1,$
+830,Singapore,200,United Kingdom,1924,61420919,1,$
+830,Singapore,200,United Kingdom,1929,0,1,$
+830,Singapore,200,United Kingdom,1930,0,1,$
+830,Singapore,200,United Kingdom,1931,0,1,$
+830,Singapore,200,United Kingdom,1932,0,1,$
+830,Singapore,200,United Kingdom,1933,0,1,$
+830,Singapore,200,United Kingdom,1934,0,1,$
+830,Singapore,200,United Kingdom,1935,0,1,$
+830,Singapore,200,United Kingdom,1936,47045277,1,$
+830,Singapore,200,United Kingdom,1937,60868327,1,$
+830,Singapore,205,Ireland,1921,0,1,$
+830,Singapore,205,Ireland,1922,0,1,$
+830,Singapore,205,Ireland,1923,0,1,$
+830,Singapore,205,Ireland,1924,0,1,$
+830,Singapore,205,Ireland,1929,0,1,$
+830,Singapore,205,Ireland,1930,0,1,$
+830,Singapore,205,Ireland,1931,0,1,$
+830,Singapore,205,Ireland,1932,0,1,$
+830,Singapore,205,Ireland,1933,0,1,$
+830,Singapore,205,Ireland,1934,0,1,$
+830,Singapore,205,Ireland,1935,0,1,$
+830,Singapore,205,Ireland,1936,191517,1,$
+830,Singapore,205,Ireland,1937,251545,1,$
+830,Singapore,210,Netherlands,1921,2475119,1,$
+830,Singapore,210,Netherlands,1922,2813379,1,$
+830,Singapore,210,Netherlands,1923,2865884,1,$
+830,Singapore,210,Netherlands,1924,4107167,1,$
+830,Singapore,210,Netherlands,1929,0,1,$
+830,Singapore,210,Netherlands,1930,0,1,$
+830,Singapore,210,Netherlands,1931,0,1,$
+830,Singapore,210,Netherlands,1932,0,1,$
+830,Singapore,210,Netherlands,1933,0,1,$
+830,Singapore,210,Netherlands,1934,0,1,$
+830,Singapore,210,Netherlands,1935,0,1,$
+830,Singapore,210,Netherlands,1936,2851874,1,$
+830,Singapore,210,Netherlands,1937,4390800,1,$
+830,Singapore,211,Belgium,1921,861333,1,$
+830,Singapore,211,Belgium,1922,866156,1,$
+830,Singapore,211,Belgium,1923,1421915,1,$
+830,Singapore,211,Belgium,1924,1923097,1,$
+830,Singapore,211,Belgium,1929,0,1,$
+830,Singapore,211,Belgium,1930,0,1,$
+830,Singapore,211,Belgium,1931,0,1,$
+830,Singapore,211,Belgium,1932,0,1,$
+830,Singapore,211,Belgium,1933,0,1,$
+830,Singapore,211,Belgium,1934,0,1,$
+830,Singapore,211,Belgium,1935,0,1,$
+830,Singapore,211,Belgium,1936,1451266,1,$
+830,Singapore,211,Belgium,1937,3316409,1,$
+830,Singapore,212,Luxembourg,1921,0,1,$
+830,Singapore,212,Luxembourg,1922,0,1,$
+830,Singapore,212,Luxembourg,1923,0,1,$
+830,Singapore,212,Luxembourg,1924,0,1,$
+830,Singapore,212,Luxembourg,1929,0,1,$
+830,Singapore,212,Luxembourg,1930,0,1,$
+830,Singapore,212,Luxembourg,1931,0,1,$
+830,Singapore,212,Luxembourg,1932,0,1,$
+830,Singapore,212,Luxembourg,1933,0,1,$
+830,Singapore,212,Luxembourg,1934,0,1,$
+830,Singapore,212,Luxembourg,1935,0,1,$
+830,Singapore,212,Luxembourg,1936,97387,1,$
+830,Singapore,212,Luxembourg,1937,664354,1,$
+830,Singapore,220,France,1921,2944941,1,$
+830,Singapore,220,France,1922,2930530,1,$
+830,Singapore,220,France,1923,3723010,1,$
+830,Singapore,220,France,1924,5252840,1,$
+830,Singapore,220,France,1929,0,1,$
+830,Singapore,220,France,1930,0,1,$
+830,Singapore,220,France,1931,0,1,$
+830,Singapore,220,France,1932,0,1,$
+830,Singapore,220,France,1933,0,1,$
+830,Singapore,220,France,1934,0,1,$
+830,Singapore,220,France,1935,0,1,$
+830,Singapore,220,France,1936,1449881,1,$
+830,Singapore,220,France,1937,1963672,1,$
+830,Singapore,225,Switzerland,1921,0,1,$
+830,Singapore,225,Switzerland,1922,0,1,$
+830,Singapore,225,Switzerland,1923,0,1,$
+830,Singapore,225,Switzerland,1924,0,1,$
+830,Singapore,225,Switzerland,1929,0,1,$
+830,Singapore,225,Switzerland,1930,0,1,$
+830,Singapore,225,Switzerland,1931,0,1,$
+830,Singapore,225,Switzerland,1932,0,1,$
+830,Singapore,225,Switzerland,1933,0,1,$
+830,Singapore,225,Switzerland,1934,0,1,$
+830,Singapore,225,Switzerland,1935,0,1,$
+830,Singapore,225,Switzerland,1936,453584,1,$
+830,Singapore,225,Switzerland,1937,558401,1,$
+830,Singapore,230,Spain,1921,31203,1,$
+830,Singapore,230,Spain,1922,12819,1,$
+830,Singapore,230,Spain,1923,50430,1,$
+830,Singapore,230,Spain,1924,20646,1,$
+830,Singapore,230,Spain,1929,0,1,$
+830,Singapore,230,Spain,1930,0,1,$
+830,Singapore,230,Spain,1931,0,1,$
+830,Singapore,230,Spain,1932,0,1,$
+830,Singapore,230,Spain,1933,0,1,$
+830,Singapore,230,Spain,1934,0,1,$
+830,Singapore,230,Spain,1935,0,1,$
+830,Singapore,230,Spain,1936,80305,1,$
+830,Singapore,230,Spain,1937,94848,1,$
+830,Singapore,235,Portugal,1921,0,1,$
+830,Singapore,235,Portugal,1922,0,1,$
+830,Singapore,235,Portugal,1923,0,1,$
+830,Singapore,235,Portugal,1924,0,1,$
+830,Singapore,235,Portugal,1929,0,1,$
+830,Singapore,235,Portugal,1930,0,1,$
+830,Singapore,235,Portugal,1931,0,1,$
+830,Singapore,235,Portugal,1932,0,1,$
+830,Singapore,235,Portugal,1933,0,1,$
+830,Singapore,235,Portugal,1934,0,1,$
+830,Singapore,235,Portugal,1935,0,1,$
+830,Singapore,235,Portugal,1936,60138,1,$
+830,Singapore,235,Portugal,1937,57989,1,$
+830,Singapore,255,Germany,1921,686708,1,$
+830,Singapore,255,Germany,1922,1900522,1,$
+830,Singapore,255,Germany,1923,3911977,1,$
+830,Singapore,255,Germany,1924,3994626,1,$
+830,Singapore,255,Germany,1929,0,1,$
+830,Singapore,255,Germany,1930,0,1,$
+830,Singapore,255,Germany,1931,0,1,$
+830,Singapore,255,Germany,1932,0,1,$
+830,Singapore,255,Germany,1933,0,1,$
+830,Singapore,255,Germany,1934,0,1,$
+830,Singapore,255,Germany,1935,0,1,$
+830,Singapore,255,Germany,1936,5867618,1,$
+830,Singapore,255,Germany,1937,8075527,1,$
+830,Singapore,290,Poland,1921,0,1,$
+830,Singapore,290,Poland,1922,0,1,$
+830,Singapore,290,Poland,1923,0,1,$
+830,Singapore,290,Poland,1924,0,1,$
+830,Singapore,290,Poland,1929,0,1,$
+830,Singapore,290,Poland,1930,0,1,$
+830,Singapore,290,Poland,1931,0,1,$
+830,Singapore,290,Poland,1932,0,1,$
+830,Singapore,290,Poland,1933,0,1,$
+830,Singapore,290,Poland,1934,0,1,$
+830,Singapore,290,Poland,1935,0,1,$
+830,Singapore,290,Poland,1936,90189,1,$
+830,Singapore,290,Poland,1937,239164,1,$
+830,Singapore,305,Austria,1921,409,1,$
+830,Singapore,305,Austria,1922,1110,1,$
+830,Singapore,305,Austria,1923,0,1,$
+830,Singapore,305,Austria,1924,0,1,$
+830,Singapore,305,Austria,1929,0,1,$
+830,Singapore,305,Austria,1930,0,1,$
+830,Singapore,305,Austria,1931,0,1,$
+830,Singapore,305,Austria,1932,0,1,$
+830,Singapore,305,Austria,1933,0,1,$
+830,Singapore,305,Austria,1934,0,1,$
+830,Singapore,305,Austria,1935,0,1,$
+830,Singapore,305,Austria,1936,241324,1,$
+830,Singapore,305,Austria,1937,483784,1,$
+830,Singapore,310,Hungary,1921,0,1,$
+830,Singapore,310,Hungary,1922,0,1,$
+830,Singapore,310,Hungary,1923,0,1,$
+830,Singapore,310,Hungary,1924,8,1,$
+830,Singapore,310,Hungary,1929,0,1,$
+830,Singapore,310,Hungary,1930,0,1,$
+830,Singapore,310,Hungary,1931,0,1,$
+830,Singapore,310,Hungary,1932,0,1,$
+830,Singapore,310,Hungary,1933,0,1,$
+830,Singapore,310,Hungary,1934,0,1,$
+830,Singapore,310,Hungary,1935,0,1,$
+830,Singapore,310,Hungary,1936,99115,1,$
+830,Singapore,310,Hungary,1937,172688,1,$
+830,Singapore,315,Czechoslovakia,1921,0,1,$
+830,Singapore,315,Czechoslovakia,1922,0,1,$
+830,Singapore,315,Czechoslovakia,1923,0,1,$
+830,Singapore,315,Czechoslovakia,1924,0,1,$
+830,Singapore,315,Czechoslovakia,1929,0,1,$
+830,Singapore,315,Czechoslovakia,1930,0,1,$
+830,Singapore,315,Czechoslovakia,1931,0,1,$
+830,Singapore,315,Czechoslovakia,1932,0,1,$
+830,Singapore,315,Czechoslovakia,1933,0,1,$
+830,Singapore,315,Czechoslovakia,1934,0,1,$
+830,Singapore,315,Czechoslovakia,1935,0,1,$
+830,Singapore,315,Czechoslovakia,1936,630121,1,$
+830,Singapore,315,Czechoslovakia,1937,1441583,1,$
+830,Singapore,325,Italy,1921,2742018,1,$
+830,Singapore,325,Italy,1922,2723963,1,$
+830,Singapore,325,Italy,1923,3092066,1,$
+830,Singapore,325,Italy,1924,3925238,1,$
+830,Singapore,325,Italy,1929,0,1,$
+830,Singapore,325,Italy,1930,0,1,$
+830,Singapore,325,Italy,1931,0,1,$
+830,Singapore,325,Italy,1932,0,1,$
+830,Singapore,325,Italy,1933,0,1,$
+830,Singapore,325,Italy,1934,0,1,$
+830,Singapore,325,Italy,1935,0,1,$
+830,Singapore,325,Italy,1936,538883,1,$
+830,Singapore,325,Italy,1937,2009205,1,$
+830,Singapore,345,Yugoslavia,1921,0,1,$
+830,Singapore,345,Yugoslavia,1922,0,1,$
+830,Singapore,345,Yugoslavia,1923,0,1,$
+830,Singapore,345,Yugoslavia,1924,0,1,$
+830,Singapore,345,Yugoslavia,1929,0,1,$
+830,Singapore,345,Yugoslavia,1930,0,1,$
+830,Singapore,345,Yugoslavia,1931,0,1,$
+830,Singapore,345,Yugoslavia,1932,0,1,$
+830,Singapore,345,Yugoslavia,1933,0,1,$
+830,Singapore,345,Yugoslavia,1934,0,1,$
+830,Singapore,345,Yugoslavia,1935,0,1,$
+830,Singapore,345,Yugoslavia,1936,32056,1,$
+830,Singapore,345,Yugoslavia,1937,137433,1,$
+830,Singapore,350,Greece,1921,0,1,$
+830,Singapore,350,Greece,1922,0,1,$
+830,Singapore,350,Greece,1923,0,1,$
+830,Singapore,350,Greece,1924,0,1,$
+830,Singapore,350,Greece,1929,0,1,$
+830,Singapore,350,Greece,1930,0,1,$
+830,Singapore,350,Greece,1931,0,1,$
+830,Singapore,350,Greece,1932,0,1,$
+830,Singapore,350,Greece,1933,0,1,$
+830,Singapore,350,Greece,1934,0,1,$
+830,Singapore,350,Greece,1935,0,1,$
+830,Singapore,350,Greece,1936,1540,1,$
+830,Singapore,350,Greece,1937,1956,1,$
+830,Singapore,365,Russia,1921,0,1,$
+830,Singapore,365,Russia,1922,469776,1,$
+830,Singapore,365,Russia,1923,48966,1,$
+830,Singapore,365,Russia,1924,4317,1,$
+830,Singapore,365,Russia,1929,0,1,$
+830,Singapore,365,Russia,1930,0,1,$
+830,Singapore,365,Russia,1931,0,1,$
+830,Singapore,365,Russia,1932,0,1,$
+830,Singapore,365,Russia,1933,0,1,$
+830,Singapore,365,Russia,1934,0,1,$
+830,Singapore,365,Russia,1935,0,1,$
+830,Singapore,365,Russia,1936,235697,1,$
+830,Singapore,365,Russia,1937,65312,1,$
+830,Singapore,366,Estonia,1921,0,1,$
+830,Singapore,366,Estonia,1922,0,1,$
+830,Singapore,366,Estonia,1923,0,1,$
+830,Singapore,366,Estonia,1924,0,1,$
+830,Singapore,366,Estonia,1929,0,1,$
+830,Singapore,366,Estonia,1930,0,1,$
+830,Singapore,366,Estonia,1931,0,1,$
+830,Singapore,366,Estonia,1932,0,1,$
+830,Singapore,366,Estonia,1933,0,1,$
+830,Singapore,366,Estonia,1934,0,1,$
+830,Singapore,366,Estonia,1935,0,1,$
+830,Singapore,366,Estonia,1936,23533,1,$
+830,Singapore,366,Estonia,1937,5553,1,$
+830,Singapore,375,Finland,1921,0,1,$
+830,Singapore,375,Finland,1922,0,1,$
+830,Singapore,375,Finland,1923,0,1,$
+830,Singapore,375,Finland,1924,0,1,$
+830,Singapore,375,Finland,1929,0,1,$
+830,Singapore,375,Finland,1930,0,1,$
+830,Singapore,375,Finland,1931,0,1,$
+830,Singapore,375,Finland,1932,0,1,$
+830,Singapore,375,Finland,1933,0,1,$
+830,Singapore,375,Finland,1934,0,1,$
+830,Singapore,375,Finland,1935,0,1,$
+830,Singapore,375,Finland,1936,209972,1,$
+830,Singapore,375,Finland,1937,425681,1,$
+830,Singapore,380,Sweden,1921,136700,1,$
+830,Singapore,380,Sweden,1922,146518,1,$
+830,Singapore,380,Sweden,1923,179594,1,$
+830,Singapore,380,Sweden,1924,552418,1,$
+830,Singapore,380,Sweden,1929,0,1,$
+830,Singapore,380,Sweden,1930,0,1,$
+830,Singapore,380,Sweden,1931,0,1,$
+830,Singapore,380,Sweden,1932,0,1,$
+830,Singapore,380,Sweden,1933,0,1,$
+830,Singapore,380,Sweden,1934,0,1,$
+830,Singapore,380,Sweden,1935,0,1,$
+830,Singapore,380,Sweden,1936,341022,1,$
+830,Singapore,380,Sweden,1937,670390,1,$
+830,Singapore,385,Norway,1921,20086,1,$
+830,Singapore,385,Norway,1922,42439,1,$
+830,Singapore,385,Norway,1923,1881232,1,$
+830,Singapore,385,Norway,1924,876931,1,$
+830,Singapore,385,Norway,1929,0,1,$
+830,Singapore,385,Norway,1930,0,1,$
+830,Singapore,385,Norway,1931,0,1,$
+830,Singapore,385,Norway,1932,0,1,$
+830,Singapore,385,Norway,1933,0,1,$
+830,Singapore,385,Norway,1934,0,1,$
+830,Singapore,385,Norway,1935,0,1,$
+830,Singapore,385,Norway,1936,329269,1,$
+830,Singapore,385,Norway,1937,562694,1,$
+830,Singapore,390,Denmark,1921,601840,1,$
+830,Singapore,390,Denmark,1922,404889,1,$
+830,Singapore,390,Denmark,1923,616293,1,$
+830,Singapore,390,Denmark,1924,590790,1,$
+830,Singapore,390,Denmark,1929,0,1,$
+830,Singapore,390,Denmark,1930,0,1,$
+830,Singapore,390,Denmark,1931,0,1,$
+830,Singapore,390,Denmark,1932,0,1,$
+830,Singapore,390,Denmark,1933,0,1,$
+830,Singapore,390,Denmark,1934,0,1,$
+830,Singapore,390,Denmark,1935,0,1,$
+830,Singapore,390,Denmark,1936,331406,1,$
+830,Singapore,390,Denmark,1937,421825,1,$
+830,Singapore,511,Zanzibar,1921,0,1,$
+830,Singapore,511,Zanzibar,1922,0,1,$
+830,Singapore,511,Zanzibar,1923,0,1,$
+830,Singapore,511,Zanzibar,1924,0,1,$
+830,Singapore,511,Zanzibar,1929,0,1,$
+830,Singapore,511,Zanzibar,1930,0,1,$
+830,Singapore,511,Zanzibar,1931,0,1,$
+830,Singapore,511,Zanzibar,1932,0,1,$
+830,Singapore,511,Zanzibar,1933,0,1,$
+830,Singapore,511,Zanzibar,1934,0,1,$
+830,Singapore,511,Zanzibar,1935,0,1,$
+830,Singapore,511,Zanzibar,1936,19135,1,$
+830,Singapore,511,Zanzibar,1937,63375,1,$
+830,Singapore,541,Mozambique,1921,0,1,$
+830,Singapore,541,Mozambique,1922,0,1,$
+830,Singapore,541,Mozambique,1923,0,1,$
+830,Singapore,541,Mozambique,1924,0,1,$
+830,Singapore,541,Mozambique,1929,0,1,$
+830,Singapore,541,Mozambique,1930,0,1,$
+830,Singapore,541,Mozambique,1931,0,1,$
+830,Singapore,541,Mozambique,1932,0,1,$
+830,Singapore,541,Mozambique,1933,0,1,$
+830,Singapore,541,Mozambique,1934,0,1,$
+830,Singapore,541,Mozambique,1935,0,1,$
+830,Singapore,541,Mozambique,1936,0,1,$
+830,Singapore,541,Mozambique,1937,0,1,$
+830,Singapore,560,South Africa,1921,1123441,1,$
+830,Singapore,560,South Africa,1922,1907829,1,$
+830,Singapore,560,South Africa,1923,3786038,1,$
+830,Singapore,560,South Africa,1924,6407582,1,$
+830,Singapore,560,South Africa,1929,0,1,$
+830,Singapore,560,South Africa,1930,0,1,$
+830,Singapore,560,South Africa,1931,0,1,$
+830,Singapore,560,South Africa,1932,0,1,$
+830,Singapore,560,South Africa,1933,0,1,$
+830,Singapore,560,South Africa,1934,0,1,$
+830,Singapore,560,South Africa,1935,0,1,$
+830,Singapore,560,South Africa,1936,2102778,1,$
+830,Singapore,560,South Africa,1937,1436738,1,$
+830,Singapore,590,Mauritius,1921,0,1,$
+830,Singapore,590,Mauritius,1922,0,1,$
+830,Singapore,590,Mauritius,1923,2664,1,$
+830,Singapore,590,Mauritius,1924,10290,1,$
+830,Singapore,590,Mauritius,1929,0,1,$
+830,Singapore,590,Mauritius,1930,0,1,$
+830,Singapore,590,Mauritius,1931,0,1,$
+830,Singapore,590,Mauritius,1932,0,1,$
+830,Singapore,590,Mauritius,1933,0,1,$
+830,Singapore,590,Mauritius,1934,0,1,$
+830,Singapore,590,Mauritius,1935,0,1,$
+830,Singapore,590,Mauritius,1936,2538,1,$
+830,Singapore,590,Mauritius,1937,2202,1,$
+830,Singapore,630,Iran,1921,0,1,$
+830,Singapore,630,Iran,1922,0,1,$
+830,Singapore,630,Iran,1923,0,1,$
+830,Singapore,630,Iran,1924,0,1,$
+830,Singapore,630,Iran,1929,0,1,$
+830,Singapore,630,Iran,1930,0,1,$
+830,Singapore,630,Iran,1931,0,1,$
+830,Singapore,630,Iran,1932,0,1,$
+830,Singapore,630,Iran,1933,0,1,$
+830,Singapore,630,Iran,1934,0,1,$
+830,Singapore,630,Iran,1935,0,1,$
+830,Singapore,630,Iran,1936,6192617,1,$
+830,Singapore,630,Iran,1937,4183977,1,$
+830,Singapore,640,Turkey,1921,16155,1,$
+830,Singapore,640,Turkey,1922,6583,1,$
+830,Singapore,640,Turkey,1923,800,1,$
+830,Singapore,640,Turkey,1924,0,1,$
+830,Singapore,640,Turkey,1929,0,1,$
+830,Singapore,640,Turkey,1930,0,1,$
+830,Singapore,640,Turkey,1931,0,1,$
+830,Singapore,640,Turkey,1932,0,1,$
+830,Singapore,640,Turkey,1933,0,1,$
+830,Singapore,640,Turkey,1934,0,1,$
+830,Singapore,640,Turkey,1935,0,1,$
+830,Singapore,640,Turkey,1936,521,1,$
+830,Singapore,640,Turkey,1937,1263,1,$
+830,Singapore,651,Egypt,1921,337871,1,$
+830,Singapore,651,Egypt,1922,435147,1,$
+830,Singapore,651,Egypt,1923,361151,1,$
+830,Singapore,651,Egypt,1924,452529,1,$
+830,Singapore,651,Egypt,1929,0,1,$
+830,Singapore,651,Egypt,1930,0,1,$
+830,Singapore,651,Egypt,1931,0,1,$
+830,Singapore,651,Egypt,1932,0,1,$
+830,Singapore,651,Egypt,1933,0,1,$
+830,Singapore,651,Egypt,1934,0,1,$
+830,Singapore,651,Egypt,1935,0,1,$
+830,Singapore,651,Egypt,1936,222251,1,$
+830,Singapore,651,Egypt,1937,456492,1,$
+830,Singapore,665,West Bank And Gaza,1921,0,1,$
+830,Singapore,665,West Bank And Gaza,1922,0,1,$
+830,Singapore,665,West Bank And Gaza,1923,0,1,$
+830,Singapore,665,West Bank And Gaza,1924,0,1,$
+830,Singapore,665,West Bank And Gaza,1929,0,1,$
+830,Singapore,665,West Bank And Gaza,1930,0,1,$
+830,Singapore,665,West Bank And Gaza,1931,0,1,$
+830,Singapore,665,West Bank And Gaza,1932,0,1,$
+830,Singapore,665,West Bank And Gaza,1933,0,1,$
+830,Singapore,665,West Bank And Gaza,1934,0,1,$
+830,Singapore,665,West Bank And Gaza,1935,0,1,$
+830,Singapore,665,West Bank And Gaza,1936,23845,1,$
+830,Singapore,665,West Bank And Gaza,1937,53066,1,$
+830,Singapore,675,Arabia,1921,0,1,$
+830,Singapore,675,Arabia,1922,750,1,$
+830,Singapore,675,Arabia,1923,0,1,$
+830,Singapore,675,Arabia,1924,3000,1,$
+830,Singapore,675,Arabia,1929,0,1,$
+830,Singapore,675,Arabia,1930,0,1,$
+830,Singapore,675,Arabia,1931,0,1,$
+830,Singapore,675,Arabia,1932,0,1,$
+830,Singapore,675,Arabia,1933,0,1,$
+830,Singapore,675,Arabia,1934,0,1,$
+830,Singapore,675,Arabia,1935,0,1,$
+830,Singapore,675,Arabia,1936,84901,1,$
+830,Singapore,675,Arabia,1937,87884,1,$
+830,Singapore,710,China,1921,25556729,1,$
+830,Singapore,710,China,1922,17299590,1,$
+830,Singapore,710,China,1923,20407323,1,$
+830,Singapore,710,China,1924,22033673,1,$
+830,Singapore,710,China,1929,0,1,$
+830,Singapore,710,China,1930,0,1,$
+830,Singapore,710,China,1931,0,1,$
+830,Singapore,710,China,1932,0,1,$
+830,Singapore,710,China,1933,0,1,$
+830,Singapore,710,China,1934,0,1,$
+830,Singapore,710,China,1935,0,1,$
+830,Singapore,710,China,1936,17123086,1,$
+830,Singapore,710,China,1937,21316250,1,$
+830,Singapore,720,Hong Kong,1921,34257147,1,$
+830,Singapore,720,Hong Kong,1922,25694121,1,$
+830,Singapore,720,Hong Kong,1923,28067173,1,$
+830,Singapore,720,Hong Kong,1924,24946998,1,$
+830,Singapore,720,Hong Kong,1929,0,1,$
+830,Singapore,720,Hong Kong,1930,0,1,$
+830,Singapore,720,Hong Kong,1931,0,1,$
+830,Singapore,720,Hong Kong,1932,0,1,$
+830,Singapore,720,Hong Kong,1933,0,1,$
+830,Singapore,720,Hong Kong,1934,0,1,$
+830,Singapore,720,Hong Kong,1935,0,1,$
+830,Singapore,720,Hong Kong,1936,3269005,1,$
+830,Singapore,720,Hong Kong,1937,5825125,1,$
+830,Singapore,740,Japan,1921,21234366,1,$
+830,Singapore,740,Japan,1922,16363776,1,$
+830,Singapore,740,Japan,1923,15587112,1,$
+830,Singapore,740,Japan,1924,13779524,1,$
+830,Singapore,740,Japan,1929,0,1,$
+830,Singapore,740,Japan,1930,0,1,$
+830,Singapore,740,Japan,1931,0,1,$
+830,Singapore,740,Japan,1932,0,1,$
+830,Singapore,740,Japan,1933,0,1,$
+830,Singapore,740,Japan,1934,0,1,$
+830,Singapore,740,Japan,1935,0,1,$
+830,Singapore,740,Japan,1936,27419033,1,$
+830,Singapore,740,Japan,1937,33447448,1,$
+830,Singapore,750,India,1921,0,1,$
+830,Singapore,750,India,1922,0,1,$
+830,Singapore,750,India,1923,0,1,$
+830,Singapore,750,India,1924,0,1,$
+830,Singapore,750,India,1929,0,1,$
+830,Singapore,750,India,1930,0,1,$
+830,Singapore,750,India,1931,0,1,$
+830,Singapore,750,India,1932,0,1,$
+830,Singapore,750,India,1933,0,1,$
+830,Singapore,750,India,1934,0,1,$
+830,Singapore,750,India,1935,0,1,$
+830,Singapore,750,India,1936,6821700,1,$
+830,Singapore,750,India,1937,10414984,1,$
+830,Singapore,751,French India,1921,1800098,1,$
+830,Singapore,751,French India,1922,1489402,1,$
+830,Singapore,751,French India,1923,1905340,1,$
+830,Singapore,751,French India,1924,2006662,1,$
+830,Singapore,751,French India,1929,0,1,$
+830,Singapore,751,French India,1930,0,1,$
+830,Singapore,751,French India,1931,0,1,$
+830,Singapore,751,French India,1932,0,1,$
+830,Singapore,751,French India,1933,0,1,$
+830,Singapore,751,French India,1934,0,1,$
+830,Singapore,751,French India,1935,0,1,$
+830,Singapore,751,French India,1936,30149,1,$
+830,Singapore,751,French India,1937,191271,1,$
+830,Singapore,775,Myanmar,1921,8929815,1,$
+830,Singapore,775,Myanmar,1922,10496007,1,$
+830,Singapore,775,Myanmar,1923,9314500,1,$
+830,Singapore,775,Myanmar,1924,14520115,1,$
+830,Singapore,775,Myanmar,1929,0,1,$
+830,Singapore,775,Myanmar,1930,0,1,$
+830,Singapore,775,Myanmar,1931,0,1,$
+830,Singapore,775,Myanmar,1932,0,1,$
+830,Singapore,775,Myanmar,1933,0,1,$
+830,Singapore,775,Myanmar,1934,0,1,$
+830,Singapore,775,Myanmar,1935,0,1,$
+830,Singapore,775,Myanmar,1936,4381505,1,$
+830,Singapore,775,Myanmar,1937,6851655,1,$
+830,Singapore,780,Sri Lanka,1921,533161,1,$
+830,Singapore,780,Sri Lanka,1922,407145,1,$
+830,Singapore,780,Sri Lanka,1923,503960,1,$
+830,Singapore,780,Sri Lanka,1924,574081,1,$
+830,Singapore,780,Sri Lanka,1929,0,1,$
+830,Singapore,780,Sri Lanka,1930,0,1,$
+830,Singapore,780,Sri Lanka,1931,0,1,$
+830,Singapore,780,Sri Lanka,1932,0,1,$
+830,Singapore,780,Sri Lanka,1933,0,1,$
+830,Singapore,780,Sri Lanka,1934,0,1,$
+830,Singapore,780,Sri Lanka,1935,0,1,$
+830,Singapore,780,Sri Lanka,1936,293732,1,$
+830,Singapore,780,Sri Lanka,1937,379561,1,$
+830,Singapore,810,French Indo-China,1921,24973877,1,$
+830,Singapore,810,French Indo-China,1922,15978624,1,$
+830,Singapore,810,French Indo-China,1923,11458910,1,$
+830,Singapore,810,French Indo-China,1924,15156351,1,$
+830,Singapore,810,French Indo-China,1929,0,1,$
+830,Singapore,810,French Indo-China,1930,0,1,$
+830,Singapore,810,French Indo-China,1931,0,1,$
+830,Singapore,810,French Indo-China,1932,0,1,$
+830,Singapore,810,French Indo-China,1933,0,1,$
+830,Singapore,810,French Indo-China,1934,0,1,$
+830,Singapore,810,French Indo-China,1935,0,1,$
+830,Singapore,810,French Indo-China,1936,9324778,1,$
+830,Singapore,810,French Indo-China,1937,12754281,1,$
+830,Singapore,823,British Borneo,1921,1557606,1,$
+830,Singapore,823,British Borneo,1922,2220165,1,$
+830,Singapore,823,British Borneo,1923,2796769,1,$
+830,Singapore,823,British Borneo,1924,3265712,1,$
+830,Singapore,823,British Borneo,1929,0,1,$
+830,Singapore,823,British Borneo,1930,0,1,$
+830,Singapore,823,British Borneo,1931,0,1,$
+830,Singapore,823,British Borneo,1932,0,1,$
+830,Singapore,823,British Borneo,1933,0,1,$
+830,Singapore,823,British Borneo,1934,0,1,$
+830,Singapore,823,British Borneo,1935,0,1,$
+830,Singapore,823,British Borneo,1936,3264900,1,$
+830,Singapore,823,British Borneo,1937,4803822,1,$
+830,Singapore,824,Sarawak,1921,4961647,1,$
+830,Singapore,824,Sarawak,1922,8690064,1,$
+830,Singapore,824,Sarawak,1923,16471289,1,$
+830,Singapore,824,Sarawak,1924,22210798,1,$
+830,Singapore,824,Sarawak,1929,0,1,$
+830,Singapore,824,Sarawak,1930,0,1,$
+830,Singapore,824,Sarawak,1931,0,1,$
+830,Singapore,824,Sarawak,1932,0,1,$
+830,Singapore,824,Sarawak,1933,0,1,$
+830,Singapore,824,Sarawak,1934,0,1,$
+830,Singapore,824,Sarawak,1935,0,1,$
+830,Singapore,824,Sarawak,1936,24852233,1,$
+830,Singapore,824,Sarawak,1937,33738921,1,$
+830,Singapore,835,Brunei,1921,0,1,$
+830,Singapore,835,Brunei,1922,0,1,$
+830,Singapore,835,Brunei,1923,441712,1,$
+830,Singapore,835,Brunei,1924,318111,1,$
+830,Singapore,835,Brunei,1929,0,1,$
+830,Singapore,835,Brunei,1930,0,1,$
+830,Singapore,835,Brunei,1931,0,1,$
+830,Singapore,835,Brunei,1932,0,1,$
+830,Singapore,835,Brunei,1933,0,1,$
+830,Singapore,835,Brunei,1934,0,1,$
+830,Singapore,835,Brunei,1935,0,1,$
+830,Singapore,835,Brunei,1936,1030036,1,$
+830,Singapore,835,Brunei,1937,1402256,1,$
+830,Singapore,840,Philippines,1921,1576815,1,$
+830,Singapore,840,Philippines,1922,1032561,1,$
+830,Singapore,840,Philippines,1923,975395,1,$
+830,Singapore,840,Philippines,1924,944065,1,$
+830,Singapore,840,Philippines,1929,0,1,$
+830,Singapore,840,Philippines,1930,0,1,$
+830,Singapore,840,Philippines,1931,0,1,$
+830,Singapore,840,Philippines,1932,0,1,$
+830,Singapore,840,Philippines,1933,0,1,$
+830,Singapore,840,Philippines,1934,0,1,$
+830,Singapore,840,Philippines,1935,0,1,$
+830,Singapore,840,Philippines,1936,409138,1,$
+830,Singapore,840,Philippines,1937,447780,1,$
+830,Singapore,900,Australia,1921,15450473,1,$
+830,Singapore,900,Australia,1922,13367679,1,$
+830,Singapore,900,Australia,1923,12214098,1,$
+830,Singapore,900,Australia,1924,11990724,1,$
+830,Singapore,900,Australia,1929,0,1,$
+830,Singapore,900,Australia,1930,0,1,$
+830,Singapore,900,Australia,1931,0,1,$
+830,Singapore,900,Australia,1932,0,1,$
+830,Singapore,900,Australia,1933,0,1,$
+830,Singapore,900,Australia,1934,0,1,$
+830,Singapore,900,Australia,1935,0,1,$
+830,Singapore,900,Australia,1936,6915916,1,$
+830,Singapore,900,Australia,1937,10222580,1,$
+830,Singapore,920,New Zealand,1921,3024,1,$
+830,Singapore,920,New Zealand,1922,171841,1,$
+830,Singapore,920,New Zealand,1923,50923,1,$
+830,Singapore,920,New Zealand,1924,27195,1,$
+830,Singapore,920,New Zealand,1929,0,1,$
+830,Singapore,920,New Zealand,1930,0,1,$
+830,Singapore,920,New Zealand,1931,0,1,$
+830,Singapore,920,New Zealand,1932,0,1,$
+830,Singapore,920,New Zealand,1933,0,1,$
+830,Singapore,920,New Zealand,1934,0,1,$
+830,Singapore,920,New Zealand,1935,0,1,$
+830,Singapore,920,New Zealand,1936,478392,1,$
+830,Singapore,920,New Zealand,1937,571637,1,$
+830,Singapore,2000,Other British possessions,1921,647290,1,$
+830,Singapore,2000,Other British possessions,1922,117899,1,$
+830,Singapore,2000,Other British possessions,1923,411336,1,$
+830,Singapore,2000,Other British possessions,1924,502029,1,$
+830,Singapore,2000,Other British possessions,1929,0,1,$
+830,Singapore,2000,Other British possessions,1930,0,1,$
+830,Singapore,2000,Other British possessions,1931,0,1,$
+830,Singapore,2000,Other British possessions,1932,0,1,$
+830,Singapore,2000,Other British possessions,1933,0,1,$
+830,Singapore,2000,Other British possessions,1934,0,1,$
+830,Singapore,2000,Other British possessions,1935,0,1,$
+830,Singapore,2000,Other British possessions,1936,0,1,$
+830,Singapore,2000,Other British possessions,1937,0,1,$
+830,Singapore,8271,Malacca,1921,11587446,1,$
+830,Singapore,8271,Malacca,1922,7762065,1,$
+830,Singapore,8271,Malacca,1923,8301759,1,$
+830,Singapore,8271,Malacca,1924,5754333,1,$
+830,Singapore,8271,Malacca,1929,0,1,$
+830,Singapore,8271,Malacca,1930,0,1,$
+830,Singapore,8271,Malacca,1931,0,1,$
+830,Singapore,8271,Malacca,1932,0,1,$
+830,Singapore,8271,Malacca,1933,0,1,$
+830,Singapore,8271,Malacca,1934,0,1,$
+830,Singapore,8271,Malacca,1935,0,1,$
+830,Singapore,8271,Malacca,1936,0,1,$
+830,Singapore,8271,Malacca,1937,0,1,$
+830,Singapore,8272,Penang,1921,18186194,1,$
+830,Singapore,8272,Penang,1922,10227946,1,$
+830,Singapore,8272,Penang,1923,9475133,1,$
+830,Singapore,8272,Penang,1924,6670474,1,$
+830,Singapore,8272,Penang,1929,0,1,$
+830,Singapore,8272,Penang,1930,0,1,$
+830,Singapore,8272,Penang,1931,0,1,$
+830,Singapore,8272,Penang,1932,0,1,$
+830,Singapore,8272,Penang,1933,0,1,$
+830,Singapore,8272,Penang,1934,0,1,$
+830,Singapore,8272,Penang,1935,0,1,$
+830,Singapore,8272,Penang,1936,0,1,$
+830,Singapore,8272,Penang,1937,0,1,$
+830,Singapore,8501,Java,1921,29288799,1,$
+830,Singapore,8501,Java,1922,26136660,1,$
+830,Singapore,8501,Java,1923,32322033,1,$
+830,Singapore,8501,Java,1924,35756073,1,$
+830,Singapore,8501,Java,1929,0,1,$
+830,Singapore,8501,Java,1930,0,1,$
+830,Singapore,8501,Java,1931,0,1,$
+830,Singapore,8501,Java,1932,0,1,$
+830,Singapore,8501,Java,1933,0,1,$
+830,Singapore,8501,Java,1934,0,1,$
+830,Singapore,8501,Java,1935,0,1,$
+830,Singapore,8501,Java,1936,0,1,$
+830,Singapore,8501,Java,1937,0,1,$
+830,Singapore,8502,Sumatra,1921,21786783,1,$
+830,Singapore,8502,Sumatra,1922,31521582,1,$
+830,Singapore,8502,Sumatra,1923,63321676,1,$
+830,Singapore,8502,Sumatra,1924,79200812,1,$
+830,Singapore,8502,Sumatra,1929,0,1,$
+830,Singapore,8502,Sumatra,1930,0,1,$
+830,Singapore,8502,Sumatra,1931,0,1,$
+830,Singapore,8502,Sumatra,1932,0,1,$
+830,Singapore,8502,Sumatra,1933,0,1,$
+830,Singapore,8502,Sumatra,1934,0,1,$
+830,Singapore,8502,Sumatra,1935,0,1,$
+830,Singapore,8502,Sumatra,1936,0,1,$
+830,Singapore,8502,Sumatra,1937,0,1,$
+830,Singapore,,,1921,695858672,1,$
+830,Singapore,,,1922,672438278,1,$
+830,Singapore,,,1923,856741651,1,$
+830,Singapore,,,1924,927166509,1,$
+830,Singapore,,,1929,0,1,$
+830,Singapore,,,1930,0,1,$
+830,Singapore,,,1931,0,1,$
+830,Singapore,,,1932,0,1,$
+830,Singapore,,,1933,0,1,$
+830,Singapore,,,1934,0,1,$
+830,Singapore,,,1935,0,1,$
+830,Singapore,,,1936,534649210,1,$
+830,Singapore,,,1937,709350897,1,$

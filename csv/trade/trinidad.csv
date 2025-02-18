@@ -1,0 +1,2761 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+52,2,1920,3474007,1,Pounds,Trinidad And Tobago,United States
+52,2,1921,2457593,1,Pounds,Trinidad And Tobago,United States
+52,2,1922,1248829,1,Pounds,Trinidad And Tobago,United States
+52,2,1923,1066855,1,Pounds,Trinidad And Tobago,United States
+52,2,1924,934845,1,Pounds,Trinidad And Tobago,United States
+52,2,1925,952836,1,Pounds,Trinidad And Tobago,United States
+52,2,1926,1181378,1,Pounds,Trinidad And Tobago,United States
+52,2,1927,1378482,1,Pounds,Trinidad And Tobago,United States
+52,2,1928,1127953,1,Pounds,Trinidad And Tobago,United States
+52,2,1929,1501675,1,Pounds,Trinidad And Tobago,United States
+52,2,1930,1283998,1,Pounds,Trinidad And Tobago,United States
+52,2,1931,720447,1,Pounds,Trinidad And Tobago,United States
+52,2,1932,471468,1,Pounds,Trinidad And Tobago,United States
+52,2,1933,513476,1,Pounds,Trinidad And Tobago,United States
+52,2,1934,618793,1,Pounds,Trinidad And Tobago,United States
+52,2,1935,3282624,1,$,Trinidad And Tobago,United States
+52,2,1936,4429748,1,$,Trinidad And Tobago,United States
+52,2,1937,8379596,1,$,Trinidad And Tobago,United States
+52,2,1944,19223857,1,$,Trinidad And Tobago,United States
+52,2,1945,17451300,1,$,Trinidad And Tobago,United States
+52,2,1946,11637222,1,$,Trinidad And Tobago,United States
+52,2,1947,27044905,1,$,Trinidad And Tobago,United States
+52,2,1948,21525101,1,$,Trinidad And Tobago,United States
+52,2,1949,24443828,1,$,Trinidad And Tobago,United States
+52,4,1920,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1921,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1922,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1923,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1924,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1925,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1926,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1927,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1928,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1929,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1930,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1931,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1932,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1933,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1934,0,1,Pounds,Trinidad And Tobago,Hawaii
+52,4,1935,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1936,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1937,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1944,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1945,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1946,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1947,2,1,$,Trinidad And Tobago,Hawaii
+52,4,1948,0,1,$,Trinidad And Tobago,Hawaii
+52,4,1949,31,1,$,Trinidad And Tobago,Hawaii
+52,6,1920,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1921,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1922,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1923,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1924,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1925,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1926,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1927,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1928,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1929,45,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1930,0,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1931,513,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1932,97,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1933,754,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1934,1401,1,Pounds,Trinidad And Tobago,Puerto Rico
+52,6,1935,18109,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1936,14222,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1937,1449,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1944,1304,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1945,12511,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1946,4117,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1947,3622,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1948,49902,1,$,Trinidad And Tobago,Puerto Rico
+52,6,1949,1899,1,$,Trinidad And Tobago,Puerto Rico
+52,20,1920,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1921,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1922,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1923,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1924,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1925,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1926,0,1,Pounds,Trinidad And Tobago,Canada
+52,20,1927,966406,1,Pounds,Trinidad And Tobago,Canada
+52,20,1928,986177,1,Pounds,Trinidad And Tobago,Canada
+52,20,1929,992274,1,Pounds,Trinidad And Tobago,Canada
+52,20,1930,828214,1,Pounds,Trinidad And Tobago,Canada
+52,20,1931,656782,1,Pounds,Trinidad And Tobago,Canada
+52,20,1932,497697,1,Pounds,Trinidad And Tobago,Canada
+52,20,1933,477042,1,Pounds,Trinidad And Tobago,Canada
+52,20,1934,484505,1,Pounds,Trinidad And Tobago,Canada
+52,20,1935,2503958,1,$,Trinidad And Tobago,Canada
+52,20,1936,3282202,1,$,Trinidad And Tobago,Canada
+52,20,1937,4342097,1,$,Trinidad And Tobago,Canada
+52,20,1944,21717942,1,$,Trinidad And Tobago,Canada
+52,20,1945,22005598,1,$,Trinidad And Tobago,Canada
+52,20,1946,26735700,1,$,Trinidad And Tobago,Canada
+52,20,1947,35199240,1,$,Trinidad And Tobago,Canada
+52,20,1948,23030746,1,$,Trinidad And Tobago,Canada
+52,20,1949,18371538,1,$,Trinidad And Tobago,Canada
+52,21,1920,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1921,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1922,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1923,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1924,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1925,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1926,0,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1927,12432,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1928,15088,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1929,6458,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1930,2994,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1931,12603,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1932,15972,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1933,16084,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1934,12387,1,Pounds,Trinidad And Tobago,Newfoundland
+52,21,1935,79940,1,$,Trinidad And Tobago,Newfoundland
+52,21,1936,83145,1,$,Trinidad And Tobago,Newfoundland
+52,21,1937,71561,1,$,Trinidad And Tobago,Newfoundland
+52,21,1944,351570,1,$,Trinidad And Tobago,Newfoundland
+52,21,1945,304789,1,$,Trinidad And Tobago,Newfoundland
+52,21,1946,169838,1,$,Trinidad And Tobago,Newfoundland
+52,21,1947,337647,1,$,Trinidad And Tobago,Newfoundland
+52,21,1948,362593,1,$,Trinidad And Tobago,Newfoundland
+52,21,1949,0,1,$,Trinidad And Tobago,Newfoundland
+52,30,1920,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1921,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1922,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1923,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1924,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1925,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1926,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1927,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1928,987,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1929,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1930,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1931,0,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1932,47,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1933,663,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1934,24,1,Pounds,Trinidad And Tobago,Bermuda
+52,30,1935,190,1,$,Trinidad And Tobago,Bermuda
+52,30,1936,87,1,$,Trinidad And Tobago,Bermuda
+52,30,1937,10,1,$,Trinidad And Tobago,Bermuda
+52,30,1944,0,1,$,Trinidad And Tobago,Bermuda
+52,30,1945,14,1,$,Trinidad And Tobago,Bermuda
+52,30,1946,420,1,$,Trinidad And Tobago,Bermuda
+52,30,1947,749,1,$,Trinidad And Tobago,Bermuda
+52,30,1948,3189,1,$,Trinidad And Tobago,Bermuda
+52,30,1949,1285,1,$,Trinidad And Tobago,Bermuda
+52,31,1920,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1921,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1922,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1923,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1924,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1925,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1926,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1927,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1928,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1929,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1930,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1931,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1932,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1933,2875,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1934,0,1,Pounds,Trinidad And Tobago,Bahamas
+52,31,1935,0,1,$,Trinidad And Tobago,Bahamas
+52,31,1936,1408,1,$,Trinidad And Tobago,Bahamas
+52,31,1937,0,1,$,Trinidad And Tobago,Bahamas
+52,31,1944,0,1,$,Trinidad And Tobago,Bahamas
+52,31,1945,21716,1,$,Trinidad And Tobago,Bahamas
+52,31,1946,0,1,$,Trinidad And Tobago,Bahamas
+52,31,1947,44,1,$,Trinidad And Tobago,Bahamas
+52,31,1948,3645,1,$,Trinidad And Tobago,Bahamas
+52,31,1949,243089,1,$,Trinidad And Tobago,Bahamas
+52,40,1920,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1921,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1922,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1923,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1924,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1925,0,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1926,161,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1927,556,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1928,262,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1929,83,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1930,109,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1931,698,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1932,514,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1933,167,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1934,88,1,Pounds,Trinidad And Tobago,Cuba
+52,40,1935,457,1,$,Trinidad And Tobago,Cuba
+52,40,1936,512,1,$,Trinidad And Tobago,Cuba
+52,40,1937,984,1,$,Trinidad And Tobago,Cuba
+52,40,1944,91621,1,$,Trinidad And Tobago,Cuba
+52,40,1945,541,1,$,Trinidad And Tobago,Cuba
+52,40,1946,287,1,$,Trinidad And Tobago,Cuba
+52,40,1947,346,1,$,Trinidad And Tobago,Cuba
+52,40,1948,36771,1,$,Trinidad And Tobago,Cuba
+52,40,1949,1835,1,$,Trinidad And Tobago,Cuba
+52,41,1920,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1921,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1922,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1923,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1924,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1925,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1926,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1927,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1928,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1929,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1930,0,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1931,50,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1932,2,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1933,26,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1934,40,1,Pounds,Trinidad And Tobago,Haiti
+52,41,1935,0,1,$,Trinidad And Tobago,Haiti
+52,41,1936,20,1,$,Trinidad And Tobago,Haiti
+52,41,1937,0,1,$,Trinidad And Tobago,Haiti
+52,41,1944,22,1,$,Trinidad And Tobago,Haiti
+52,41,1945,225,1,$,Trinidad And Tobago,Haiti
+52,41,1946,321,1,$,Trinidad And Tobago,Haiti
+52,41,1947,461,1,$,Trinidad And Tobago,Haiti
+52,41,1948,16120,1,$,Trinidad And Tobago,Haiti
+52,41,1949,12,1,$,Trinidad And Tobago,Haiti
+52,42,1920,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1921,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1922,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1923,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1924,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1925,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1926,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1927,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1928,38,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1929,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1930,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1931,41,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1932,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1933,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1934,0,1,Pounds,Trinidad And Tobago,Dominican Republic
+52,42,1935,0,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1936,0,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1937,1154,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1944,0,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1945,6,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1946,134285,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1947,102,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1948,77458,1,$,Trinidad And Tobago,Dominican Republic
+52,42,1949,154963,1,$,Trinidad And Tobago,Dominican Republic
+52,68,1920,0,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1921,0,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1922,0,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1923,0,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1924,0,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1925,13063,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1926,4919,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1927,2766,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1928,30925,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1929,6113,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1930,4471,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1931,22164,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1932,51229,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1933,8275,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1934,2661,1,Pounds,Trinidad And Tobago,Netherlands Antilles
+52,68,1935,11705,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1936,11797,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1937,12811,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1944,2316391,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1945,1208645,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1946,163783,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1947,36359,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1948,6461,1,$,Trinidad And Tobago,Netherlands Antilles
+52,68,1949,84317,1,$,Trinidad And Tobago,Netherlands Antilles
+52,70,1920,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1921,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1922,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1923,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1924,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1925,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1926,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1927,4908,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1928,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1929,30,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1930,0,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1931,188,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1932,286,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1933,582,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1934,2,1,Pounds,Trinidad And Tobago,Mexico
+52,70,1935,10690,1,$,Trinidad And Tobago,Mexico
+52,70,1936,10592,1,$,Trinidad And Tobago,Mexico
+52,70,1937,8656,1,$,Trinidad And Tobago,Mexico
+52,70,1944,17335,1,$,Trinidad And Tobago,Mexico
+52,70,1945,2228,1,$,Trinidad And Tobago,Mexico
+52,70,1946,70435,1,$,Trinidad And Tobago,Mexico
+52,70,1947,53081,1,$,Trinidad And Tobago,Mexico
+52,70,1948,90856,1,$,Trinidad And Tobago,Mexico
+52,70,1949,32255,1,$,Trinidad And Tobago,Mexico
+52,80,1920,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1921,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1922,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1923,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1924,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1925,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1926,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1927,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1928,60,1,Pounds,Trinidad And Tobago,Belize
+52,80,1929,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1930,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1931,261,1,Pounds,Trinidad And Tobago,Belize
+52,80,1932,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1933,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1934,0,1,Pounds,Trinidad And Tobago,Belize
+52,80,1935,0,1,$,Trinidad And Tobago,Belize
+52,80,1936,8,1,$,Trinidad And Tobago,Belize
+52,80,1937,0,1,$,Trinidad And Tobago,Belize
+52,80,1944,0,1,$,Trinidad And Tobago,Belize
+52,80,1945,10,1,$,Trinidad And Tobago,Belize
+52,80,1946,2,1,$,Trinidad And Tobago,Belize
+52,80,1947,359,1,$,Trinidad And Tobago,Belize
+52,80,1948,0,1,$,Trinidad And Tobago,Belize
+52,80,1949,127776,1,$,Trinidad And Tobago,Belize
+52,90,1920,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1921,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1922,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1923,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1924,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1925,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1926,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1927,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1928,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1929,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1930,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1931,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1932,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1933,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1934,0,1,Pounds,Trinidad And Tobago,Guatemala
+52,90,1935,0,1,$,Trinidad And Tobago,Guatemala
+52,90,1936,0,1,$,Trinidad And Tobago,Guatemala
+52,90,1937,0,1,$,Trinidad And Tobago,Guatemala
+52,90,1944,37888,1,$,Trinidad And Tobago,Guatemala
+52,90,1945,6,1,$,Trinidad And Tobago,Guatemala
+52,90,1946,9014,1,$,Trinidad And Tobago,Guatemala
+52,90,1947,0,1,$,Trinidad And Tobago,Guatemala
+52,90,1948,3577,1,$,Trinidad And Tobago,Guatemala
+52,90,1949,3163,1,$,Trinidad And Tobago,Guatemala
+52,91,1920,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1921,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1922,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1923,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1924,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1925,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1926,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1927,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1928,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1929,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1930,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1931,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1932,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1933,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1934,0,1,Pounds,Trinidad And Tobago,Honduras
+52,91,1935,0,1,$,Trinidad And Tobago,Honduras
+52,91,1936,23,1,$,Trinidad And Tobago,Honduras
+52,91,1937,17,1,$,Trinidad And Tobago,Honduras
+52,91,1944,7,1,$,Trinidad And Tobago,Honduras
+52,91,1945,0,1,$,Trinidad And Tobago,Honduras
+52,91,1946,0,1,$,Trinidad And Tobago,Honduras
+52,91,1947,0,1,$,Trinidad And Tobago,Honduras
+52,91,1948,48111,1,$,Trinidad And Tobago,Honduras
+52,91,1949,53607,1,$,Trinidad And Tobago,Honduras
+52,92,1920,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1921,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1922,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1923,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1924,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1925,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1926,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1927,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1928,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1929,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1930,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1931,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1932,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1933,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1934,0,1,Pounds,Trinidad And Tobago,El Salvador
+52,92,1935,0,1,$,Trinidad And Tobago,El Salvador
+52,92,1936,0,1,$,Trinidad And Tobago,El Salvador
+52,92,1937,10,1,$,Trinidad And Tobago,El Salvador
+52,92,1944,14,1,$,Trinidad And Tobago,El Salvador
+52,92,1945,0,1,$,Trinidad And Tobago,El Salvador
+52,92,1946,60,1,$,Trinidad And Tobago,El Salvador
+52,92,1947,0,1,$,Trinidad And Tobago,El Salvador
+52,92,1948,26,1,$,Trinidad And Tobago,El Salvador
+52,92,1949,0,1,$,Trinidad And Tobago,El Salvador
+52,93,1920,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1921,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1922,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1923,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1924,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1925,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1926,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1927,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1928,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1929,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1930,5953,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1931,5353,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1932,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1933,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1934,0,1,Pounds,Trinidad And Tobago,Nicaragua
+52,93,1935,0,1,$,Trinidad And Tobago,Nicaragua
+52,93,1936,0,1,$,Trinidad And Tobago,Nicaragua
+52,93,1937,0,1,$,Trinidad And Tobago,Nicaragua
+52,93,1944,0,1,$,Trinidad And Tobago,Nicaragua
+52,93,1945,0,1,$,Trinidad And Tobago,Nicaragua
+52,93,1946,74841,1,$,Trinidad And Tobago,Nicaragua
+52,93,1947,9,1,$,Trinidad And Tobago,Nicaragua
+52,93,1948,128433,1,$,Trinidad And Tobago,Nicaragua
+52,93,1949,52234,1,$,Trinidad And Tobago,Nicaragua
+52,94,1920,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1921,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1922,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1923,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1924,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1925,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1926,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1927,11,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1928,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1929,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1930,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1931,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1932,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1933,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1934,0,1,Pounds,Trinidad And Tobago,Costa Rica
+52,94,1935,0,1,$,Trinidad And Tobago,Costa Rica
+52,94,1936,0,1,$,Trinidad And Tobago,Costa Rica
+52,94,1937,0,1,$,Trinidad And Tobago,Costa Rica
+52,94,1944,50,1,$,Trinidad And Tobago,Costa Rica
+52,94,1945,41,1,$,Trinidad And Tobago,Costa Rica
+52,94,1946,93,1,$,Trinidad And Tobago,Costa Rica
+52,94,1947,0,1,$,Trinidad And Tobago,Costa Rica
+52,94,1948,76,1,$,Trinidad And Tobago,Costa Rica
+52,94,1949,26,1,$,Trinidad And Tobago,Costa Rica
+52,95,1920,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1921,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1922,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1923,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1924,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1925,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1926,259,1,Pounds,Trinidad And Tobago,Panama
+52,95,1927,3798,1,Pounds,Trinidad And Tobago,Panama
+52,95,1928,4561,1,Pounds,Trinidad And Tobago,Panama
+52,95,1929,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1930,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1931,10,1,Pounds,Trinidad And Tobago,Panama
+52,95,1932,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1933,0,1,Pounds,Trinidad And Tobago,Panama
+52,95,1934,37,1,Pounds,Trinidad And Tobago,Panama
+52,95,1935,0,1,$,Trinidad And Tobago,Panama
+52,95,1936,129,1,$,Trinidad And Tobago,Panama
+52,95,1937,0,1,$,Trinidad And Tobago,Panama
+52,95,1944,432,1,$,Trinidad And Tobago,Panama
+52,95,1945,842,1,$,Trinidad And Tobago,Panama
+52,95,1946,261,1,$,Trinidad And Tobago,Panama
+52,95,1947,112,1,$,Trinidad And Tobago,Panama
+52,95,1948,45,1,$,Trinidad And Tobago,Panama
+52,95,1949,639,1,$,Trinidad And Tobago,Panama
+52,96,1920,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1921,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1922,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1923,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1924,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1925,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1926,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1927,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1928,0,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1929,3151,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1930,4550,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1931,5870,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1932,4112,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1933,4775,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1934,14,1,Pounds,Trinidad And Tobago,Panama Canal Zone
+52,96,1935,0,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1936,249,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1937,524,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1944,0,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1945,38,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1946,1774,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1947,58,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1948,8704,1,$,Trinidad And Tobago,Panama Canal Zone
+52,96,1949,15,1,$,Trinidad And Tobago,Panama Canal Zone
+52,100,1920,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1921,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1922,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1923,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1924,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1925,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1926,39,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1927,482,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1928,5,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1929,13,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1930,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1931,0,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1932,54,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1933,20,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1934,6535,1,Pounds,Trinidad And Tobago,Colombia
+52,100,1935,479,1,$,Trinidad And Tobago,Colombia
+52,100,1936,210,1,$,Trinidad And Tobago,Colombia
+52,100,1937,1733,1,$,Trinidad And Tobago,Colombia
+52,100,1944,1293,1,$,Trinidad And Tobago,Colombia
+52,100,1945,36,1,$,Trinidad And Tobago,Colombia
+52,100,1946,5628848,1,$,Trinidad And Tobago,Colombia
+52,100,1947,8311003,1,$,Trinidad And Tobago,Colombia
+52,100,1948,12537199,1,$,Trinidad And Tobago,Colombia
+52,100,1949,13161401,1,$,Trinidad And Tobago,Colombia
+52,101,1920,695265,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1921,937198,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1922,289567,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1923,360345,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1924,293065,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1925,349772,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1926,197853,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1927,292330,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1928,343506,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1929,394665,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1930,276381,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1931,260292,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1932,248540,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1933,274321,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1934,645264,1,Pounds,Trinidad And Tobago,Venezuela
+52,101,1935,1276532,1,$,Trinidad And Tobago,Venezuela
+52,101,1936,2992411,1,$,Trinidad And Tobago,Venezuela
+52,101,1937,1899893,1,$,Trinidad And Tobago,Venezuela
+52,101,1944,9520373,1,$,Trinidad And Tobago,Venezuela
+52,101,1945,8806018,1,$,Trinidad And Tobago,Venezuela
+52,101,1946,2438121,1,$,Trinidad And Tobago,Venezuela
+52,101,1947,8421093,1,$,Trinidad And Tobago,Venezuela
+52,101,1948,16935353,1,$,Trinidad And Tobago,Venezuela
+52,101,1949,21536954,1,$,Trinidad And Tobago,Venezuela
+52,110,1920,159110,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1921,51645,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1922,82871,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1923,30685,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1924,29446,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1925,34673,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1926,19046,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1927,73410,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1928,170847,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1929,107058,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1930,152866,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1931,128233,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1932,117422,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1933,87997,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1934,45688,1,Pounds,Trinidad And Tobago,Guyana
+52,110,1935,222912,1,$,Trinidad And Tobago,Guyana
+52,110,1936,335428,1,$,Trinidad And Tobago,Guyana
+52,110,1937,348407,1,$,Trinidad And Tobago,Guyana
+52,110,1944,2357191,1,$,Trinidad And Tobago,Guyana
+52,110,1945,2242129,1,$,Trinidad And Tobago,Guyana
+52,110,1946,1761945,1,$,Trinidad And Tobago,Guyana
+52,110,1947,1753143,1,$,Trinidad And Tobago,Guyana
+52,110,1948,1615141,1,$,Trinidad And Tobago,Guyana
+52,110,1949,2189553,1,$,Trinidad And Tobago,Guyana
+52,115,1920,0,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1921,0,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1922,0,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1923,0,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1924,0,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1925,5231,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1926,3026,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1927,1571,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1928,1893,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1929,3028,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1930,1337,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1931,891,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1932,911,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1933,455,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1934,213,1,Pounds,Trinidad And Tobago,Suriname
+52,115,1935,1000,1,$,Trinidad And Tobago,Suriname
+52,115,1936,1296,1,$,Trinidad And Tobago,Suriname
+52,115,1937,1458,1,$,Trinidad And Tobago,Suriname
+52,115,1944,0,1,$,Trinidad And Tobago,Suriname
+52,115,1945,999,1,$,Trinidad And Tobago,Suriname
+52,115,1946,9620,1,$,Trinidad And Tobago,Suriname
+52,115,1947,15,1,$,Trinidad And Tobago,Suriname
+52,115,1948,50859,1,$,Trinidad And Tobago,Suriname
+52,115,1949,0,1,$,Trinidad And Tobago,Suriname
+52,120,1920,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1921,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1922,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1923,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1924,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1925,0,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1926,69,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1927,18,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1928,145,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1929,7,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1930,141,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1931,2,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1932,197,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1933,6,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1934,2,1,Pounds,Trinidad And Tobago,French Guiana
+52,120,1935,0,1,$,Trinidad And Tobago,French Guiana
+52,120,1936,66,1,$,Trinidad And Tobago,French Guiana
+52,120,1937,0,1,$,Trinidad And Tobago,French Guiana
+52,120,1944,303,1,$,Trinidad And Tobago,French Guiana
+52,120,1945,4815,1,$,Trinidad And Tobago,French Guiana
+52,120,1946,0,1,$,Trinidad And Tobago,French Guiana
+52,120,1947,0,1,$,Trinidad And Tobago,French Guiana
+52,120,1948,3,1,$,Trinidad And Tobago,French Guiana
+52,120,1949,0,1,$,Trinidad And Tobago,French Guiana
+52,130,1920,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1921,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1922,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1923,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1924,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1925,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1926,45,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1927,0,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1928,219,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1929,159,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1930,182,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1931,337,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1932,304,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1933,1364,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1934,909,1,Pounds,Trinidad And Tobago,Ecuador
+52,130,1935,4291,1,$,Trinidad And Tobago,Ecuador
+52,130,1936,9627,1,$,Trinidad And Tobago,Ecuador
+52,130,1937,9023,1,$,Trinidad And Tobago,Ecuador
+52,130,1944,0,1,$,Trinidad And Tobago,Ecuador
+52,130,1945,48,1,$,Trinidad And Tobago,Ecuador
+52,130,1946,17,1,$,Trinidad And Tobago,Ecuador
+52,130,1947,2038,1,$,Trinidad And Tobago,Ecuador
+52,130,1948,3,1,$,Trinidad And Tobago,Ecuador
+52,130,1949,36829,1,$,Trinidad And Tobago,Ecuador
+52,135,1920,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1921,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1922,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1923,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1924,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1925,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1926,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1927,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1928,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1929,2,1,Pounds,Trinidad And Tobago,Peru
+52,135,1930,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1931,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1932,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1933,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1934,0,1,Pounds,Trinidad And Tobago,Peru
+52,135,1935,0,1,$,Trinidad And Tobago,Peru
+52,135,1936,56,1,$,Trinidad And Tobago,Peru
+52,135,1937,13,1,$,Trinidad And Tobago,Peru
+52,135,1944,0,1,$,Trinidad And Tobago,Peru
+52,135,1945,8,1,$,Trinidad And Tobago,Peru
+52,135,1946,0,1,$,Trinidad And Tobago,Peru
+52,135,1947,0,1,$,Trinidad And Tobago,Peru
+52,135,1948,4,1,$,Trinidad And Tobago,Peru
+52,135,1949,52,1,$,Trinidad And Tobago,Peru
+52,140,1920,0,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1921,0,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1922,0,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1923,0,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1924,0,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1925,534,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1926,784,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1927,928,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1928,94,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1929,683,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1930,75,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1931,5340,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1932,6498,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1933,1775,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1934,6782,1,Pounds,Trinidad And Tobago,Brazil
+52,140,1935,101991,1,$,Trinidad And Tobago,Brazil
+52,140,1936,86508,1,$,Trinidad And Tobago,Brazil
+52,140,1937,126587,1,$,Trinidad And Tobago,Brazil
+52,140,1944,601855,1,$,Trinidad And Tobago,Brazil
+52,140,1945,54179,1,$,Trinidad And Tobago,Brazil
+52,140,1946,68510,1,$,Trinidad And Tobago,Brazil
+52,140,1947,139974,1,$,Trinidad And Tobago,Brazil
+52,140,1948,1143569,1,$,Trinidad And Tobago,Brazil
+52,140,1949,46989,1,$,Trinidad And Tobago,Brazil
+52,150,1920,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1921,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1922,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1923,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1924,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1925,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1926,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1927,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1928,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1929,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1930,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1931,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1932,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1933,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1934,0,1,Pounds,Trinidad And Tobago,Paraguay
+52,150,1935,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1936,163,1,$,Trinidad And Tobago,Paraguay
+52,150,1937,3854,1,$,Trinidad And Tobago,Paraguay
+52,150,1944,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1945,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1946,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1947,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1948,0,1,$,Trinidad And Tobago,Paraguay
+52,150,1949,182750,1,$,Trinidad And Tobago,Paraguay
+52,155,1920,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1921,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1922,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1923,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1924,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1925,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1926,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1927,0,1,Pounds,Trinidad And Tobago,Chile
+52,155,1928,32,1,Pounds,Trinidad And Tobago,Chile
+52,155,1929,3655,1,Pounds,Trinidad And Tobago,Chile
+52,155,1930,410,1,Pounds,Trinidad And Tobago,Chile
+52,155,1931,544,1,Pounds,Trinidad And Tobago,Chile
+52,155,1932,1423,1,Pounds,Trinidad And Tobago,Chile
+52,155,1933,895,1,Pounds,Trinidad And Tobago,Chile
+52,155,1934,3004,1,Pounds,Trinidad And Tobago,Chile
+52,155,1935,7787,1,$,Trinidad And Tobago,Chile
+52,155,1936,5897,1,$,Trinidad And Tobago,Chile
+52,155,1937,11693,1,$,Trinidad And Tobago,Chile
+52,155,1944,113224,1,$,Trinidad And Tobago,Chile
+52,155,1945,55607,1,$,Trinidad And Tobago,Chile
+52,155,1946,39317,1,$,Trinidad And Tobago,Chile
+52,155,1947,163598,1,$,Trinidad And Tobago,Chile
+52,155,1948,51339,1,$,Trinidad And Tobago,Chile
+52,155,1949,193383,1,$,Trinidad And Tobago,Chile
+52,160,1920,27579,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1921,0,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1922,14392,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1923,16526,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1924,20286,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1925,12875,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1926,19874,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1927,13934,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1928,19577,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1929,23836,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1930,30857,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1931,45432,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1932,37352,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1933,37605,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1934,41847,1,Pounds,Trinidad And Tobago,Argentina
+52,160,1935,247954,1,$,Trinidad And Tobago,Argentina
+52,160,1936,254051,1,$,Trinidad And Tobago,Argentina
+52,160,1937,312191,1,$,Trinidad And Tobago,Argentina
+52,160,1944,2678742,1,$,Trinidad And Tobago,Argentina
+52,160,1945,1711418,1,$,Trinidad And Tobago,Argentina
+52,160,1946,1680738,1,$,Trinidad And Tobago,Argentina
+52,160,1947,1546457,1,$,Trinidad And Tobago,Argentina
+52,160,1948,278927,1,$,Trinidad And Tobago,Argentina
+52,160,1949,299522,1,$,Trinidad And Tobago,Argentina
+52,165,1920,0,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1921,0,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1922,0,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1923,0,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1924,0,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1925,3872,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1926,5278,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1927,4275,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1928,14825,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1929,6203,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1930,1303,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1931,2263,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1932,1791,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1933,1524,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1934,1911,1,Pounds,Trinidad And Tobago,Uruguay
+52,165,1935,19283,1,$,Trinidad And Tobago,Uruguay
+52,165,1936,18673,1,$,Trinidad And Tobago,Uruguay
+52,165,1937,41865,1,$,Trinidad And Tobago,Uruguay
+52,165,1944,3220,1,$,Trinidad And Tobago,Uruguay
+52,165,1945,64,1,$,Trinidad And Tobago,Uruguay
+52,165,1946,176837,1,$,Trinidad And Tobago,Uruguay
+52,165,1947,116329,1,$,Trinidad And Tobago,Uruguay
+52,165,1948,55444,1,$,Trinidad And Tobago,Uruguay
+52,165,1949,38714,1,$,Trinidad And Tobago,Uruguay
+52,200,1920,2219483,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1921,1726585,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1922,1367022,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1923,1271012,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1924,1403819,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1925,1326423,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1926,1227905,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1927,1581941,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1928,1795694,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1929,1862403,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1930,1890792,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1931,1377370,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1932,1583788,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1933,1779887,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1934,1746116,1,Pounds,Trinidad And Tobago,United Kingdom
+52,200,1935,9083588,1,$,Trinidad And Tobago,United Kingdom
+52,200,1936,10591931,1,$,Trinidad And Tobago,United Kingdom
+52,200,1937,12886789,1,$,Trinidad And Tobago,United Kingdom
+52,200,1944,7708684,1,$,Trinidad And Tobago,United Kingdom
+52,200,1945,9266031,1,$,Trinidad And Tobago,United Kingdom
+52,200,1946,21417388,1,$,Trinidad And Tobago,United Kingdom
+52,200,1947,27264518,1,$,Trinidad And Tobago,United Kingdom
+52,200,1948,42849882,1,$,Trinidad And Tobago,United Kingdom
+52,200,1949,57493255,1,$,Trinidad And Tobago,United Kingdom
+52,205,1920,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1921,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1922,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1923,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1924,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1925,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1926,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1927,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1928,662,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1929,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1930,0,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1931,944,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1932,1823,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1933,2229,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1934,19435,1,Pounds,Trinidad And Tobago,Ireland
+52,205,1935,78304,1,$,Trinidad And Tobago,Ireland
+52,205,1936,91740,1,$,Trinidad And Tobago,Ireland
+52,205,1937,120543,1,$,Trinidad And Tobago,Ireland
+52,205,1944,7248,1,$,Trinidad And Tobago,Ireland
+52,205,1945,16836,1,$,Trinidad And Tobago,Ireland
+52,205,1946,6392,1,$,Trinidad And Tobago,Ireland
+52,205,1947,4194,1,$,Trinidad And Tobago,Ireland
+52,205,1948,27534,1,$,Trinidad And Tobago,Ireland
+52,205,1949,77612,1,$,Trinidad And Tobago,Ireland
+52,210,1920,116851,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1921,80738,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1922,101871,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1923,85763,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1924,75361,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1925,78297,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1926,87919,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1927,94524,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1928,99170,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1929,134206,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1930,125988,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1931,94185,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1932,72674,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1933,103524,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1934,108964,1,Pounds,Trinidad And Tobago,Netherlands
+52,210,1935,315543,1,$,Trinidad And Tobago,Netherlands
+52,210,1936,360921,1,$,Trinidad And Tobago,Netherlands
+52,210,1937,760264,1,$,Trinidad And Tobago,Netherlands
+52,210,1944,256,1,$,Trinidad And Tobago,Netherlands
+52,210,1945,0,1,$,Trinidad And Tobago,Netherlands
+52,210,1946,229245,1,$,Trinidad And Tobago,Netherlands
+52,210,1947,500998,1,$,Trinidad And Tobago,Netherlands
+52,210,1948,1476860,1,$,Trinidad And Tobago,Netherlands
+52,210,1949,1969966,1,$,Trinidad And Tobago,Netherlands
+52,211,1920,3947,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1921,2096,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1922,3421,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1923,5087,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1924,5269,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1925,4925,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1926,6352,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1927,9110,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1928,15401,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1929,19876,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1930,16418,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1931,15579,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1932,14558,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1933,23596,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1934,20852,1,Pounds,Trinidad And Tobago,Belgium
+52,211,1935,93433,1,$,Trinidad And Tobago,Belgium
+52,211,1936,134226,1,$,Trinidad And Tobago,Belgium
+52,211,1937,256336,1,$,Trinidad And Tobago,Belgium
+52,211,1944,0,1,$,Trinidad And Tobago,Belgium
+52,211,1945,0,1,$,Trinidad And Tobago,Belgium
+52,211,1946,9693,1,$,Trinidad And Tobago,Belgium
+52,211,1947,287621,1,$,Trinidad And Tobago,Belgium
+52,211,1948,238658,1,$,Trinidad And Tobago,Belgium
+52,211,1949,200259,1,$,Trinidad And Tobago,Belgium
+52,220,1920,80536,1,Pounds,Trinidad And Tobago,France
+52,220,1921,55758,1,Pounds,Trinidad And Tobago,France
+52,220,1922,48850,1,Pounds,Trinidad And Tobago,France
+52,220,1923,63671,1,Pounds,Trinidad And Tobago,France
+52,220,1924,74750,1,Pounds,Trinidad And Tobago,France
+52,220,1925,84010,1,Pounds,Trinidad And Tobago,France
+52,220,1926,95744,1,Pounds,Trinidad And Tobago,France
+52,220,1927,121742,1,Pounds,Trinidad And Tobago,France
+52,220,1928,116705,1,Pounds,Trinidad And Tobago,France
+52,220,1929,149351,1,Pounds,Trinidad And Tobago,France
+52,220,1930,89484,1,Pounds,Trinidad And Tobago,France
+52,220,1931,85907,1,Pounds,Trinidad And Tobago,France
+52,220,1932,49817,1,Pounds,Trinidad And Tobago,France
+52,220,1933,45054,1,Pounds,Trinidad And Tobago,France
+52,220,1934,43922,1,Pounds,Trinidad And Tobago,France
+52,220,1935,256299,1,$,Trinidad And Tobago,France
+52,220,1936,275207,1,$,Trinidad And Tobago,France
+52,220,1937,386735,1,$,Trinidad And Tobago,France
+52,220,1944,5,1,$,Trinidad And Tobago,France
+52,220,1945,184,1,$,Trinidad And Tobago,France
+52,220,1946,242255,1,$,Trinidad And Tobago,France
+52,220,1947,460605,1,$,Trinidad And Tobago,France
+52,220,1948,559015,1,$,Trinidad And Tobago,France
+52,220,1949,861914,1,$,Trinidad And Tobago,France
+52,225,1920,0,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1921,0,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1922,1725,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1923,6022,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1924,2237,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1925,2771,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1926,2745,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1927,3145,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1928,2940,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1929,3115,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1930,1992,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1931,4602,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1932,6362,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1933,8187,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1934,3732,1,Pounds,Trinidad And Tobago,Switzerland
+52,225,1935,23656,1,$,Trinidad And Tobago,Switzerland
+52,225,1936,38115,1,$,Trinidad And Tobago,Switzerland
+52,225,1937,38001,1,$,Trinidad And Tobago,Switzerland
+52,225,1944,32052,1,$,Trinidad And Tobago,Switzerland
+52,225,1945,59846,1,$,Trinidad And Tobago,Switzerland
+52,225,1946,47749,1,$,Trinidad And Tobago,Switzerland
+52,225,1947,112677,1,$,Trinidad And Tobago,Switzerland
+52,225,1948,50823,1,$,Trinidad And Tobago,Switzerland
+52,225,1949,11483,1,$,Trinidad And Tobago,Switzerland
+52,230,1920,15238,1,Pounds,Trinidad And Tobago,Spain
+52,230,1921,3149,1,Pounds,Trinidad And Tobago,Spain
+52,230,1922,2164,1,Pounds,Trinidad And Tobago,Spain
+52,230,1923,6628,1,Pounds,Trinidad And Tobago,Spain
+52,230,1924,2423,1,Pounds,Trinidad And Tobago,Spain
+52,230,1925,2499,1,Pounds,Trinidad And Tobago,Spain
+52,230,1926,3632,1,Pounds,Trinidad And Tobago,Spain
+52,230,1927,4635,1,Pounds,Trinidad And Tobago,Spain
+52,230,1928,7397,1,Pounds,Trinidad And Tobago,Spain
+52,230,1929,7579,1,Pounds,Trinidad And Tobago,Spain
+52,230,1930,4160,1,Pounds,Trinidad And Tobago,Spain
+52,230,1931,2806,1,Pounds,Trinidad And Tobago,Spain
+52,230,1932,5154,1,Pounds,Trinidad And Tobago,Spain
+52,230,1933,4833,1,Pounds,Trinidad And Tobago,Spain
+52,230,1934,8451,1,Pounds,Trinidad And Tobago,Spain
+52,230,1935,35466,1,$,Trinidad And Tobago,Spain
+52,230,1936,40541,1,$,Trinidad And Tobago,Spain
+52,230,1937,43814,1,$,Trinidad And Tobago,Spain
+52,230,1944,478,1,$,Trinidad And Tobago,Spain
+52,230,1945,25753,1,$,Trinidad And Tobago,Spain
+52,230,1946,3514,1,$,Trinidad And Tobago,Spain
+52,230,1947,12321,1,$,Trinidad And Tobago,Spain
+52,230,1948,7429,1,$,Trinidad And Tobago,Spain
+52,230,1949,8056,1,$,Trinidad And Tobago,Spain
+52,235,1920,22231,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1921,12674,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1922,3999,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1923,11013,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1924,12673,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1925,3729,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1926,8796,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1927,7807,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1928,11936,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1929,38849,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1930,8646,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1931,6560,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1932,7348,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1933,6338,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1934,7493,1,Pounds,Trinidad And Tobago,Portugal
+52,235,1935,35328,1,$,Trinidad And Tobago,Portugal
+52,235,1936,40551,1,$,Trinidad And Tobago,Portugal
+52,235,1937,46619,1,$,Trinidad And Tobago,Portugal
+52,235,1944,5778,1,$,Trinidad And Tobago,Portugal
+52,235,1945,3596,1,$,Trinidad And Tobago,Portugal
+52,235,1946,56322,1,$,Trinidad And Tobago,Portugal
+52,235,1947,184802,1,$,Trinidad And Tobago,Portugal
+52,235,1948,60306,1,$,Trinidad And Tobago,Portugal
+52,235,1949,64065,1,$,Trinidad And Tobago,Portugal
+52,255,1920,10893,1,Pounds,Trinidad And Tobago,Germany
+52,255,1921,16570,1,Pounds,Trinidad And Tobago,Germany
+52,255,1922,48224,1,Pounds,Trinidad And Tobago,Germany
+52,255,1923,38937,1,Pounds,Trinidad And Tobago,Germany
+52,255,1924,58654,1,Pounds,Trinidad And Tobago,Germany
+52,255,1925,49226,1,Pounds,Trinidad And Tobago,Germany
+52,255,1926,58960,1,Pounds,Trinidad And Tobago,Germany
+52,255,1927,67688,1,Pounds,Trinidad And Tobago,Germany
+52,255,1928,85769,1,Pounds,Trinidad And Tobago,Germany
+52,255,1929,120541,1,Pounds,Trinidad And Tobago,Germany
+52,255,1930,157306,1,Pounds,Trinidad And Tobago,Germany
+52,255,1931,97160,1,Pounds,Trinidad And Tobago,Germany
+52,255,1932,69519,1,Pounds,Trinidad And Tobago,Germany
+52,255,1933,92872,1,Pounds,Trinidad And Tobago,Germany
+52,255,1934,112664,1,Pounds,Trinidad And Tobago,Germany
+52,255,1935,518606,1,$,Trinidad And Tobago,Germany
+52,255,1936,956993,1,$,Trinidad And Tobago,Germany
+52,255,1937,1243001,1,$,Trinidad And Tobago,Germany
+52,255,1944,311,1,$,Trinidad And Tobago,Germany
+52,255,1945,120,1,$,Trinidad And Tobago,Germany
+52,255,1946,2361,1,$,Trinidad And Tobago,Germany
+52,255,1947,84,1,$,Trinidad And Tobago,Germany
+52,255,1948,65764,1,$,Trinidad And Tobago,Germany
+52,255,1949,176243,1,$,Trinidad And Tobago,Germany
+52,290,1920,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1921,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1922,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1923,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1924,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1925,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1926,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1927,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1928,14,1,Pounds,Trinidad And Tobago,Poland
+52,290,1929,47,1,Pounds,Trinidad And Tobago,Poland
+52,290,1930,0,1,Pounds,Trinidad And Tobago,Poland
+52,290,1931,589,1,Pounds,Trinidad And Tobago,Poland
+52,290,1932,327,1,Pounds,Trinidad And Tobago,Poland
+52,290,1933,213,1,Pounds,Trinidad And Tobago,Poland
+52,290,1934,1758,1,Pounds,Trinidad And Tobago,Poland
+52,290,1935,49075,1,$,Trinidad And Tobago,Poland
+52,290,1936,98426,1,$,Trinidad And Tobago,Poland
+52,290,1937,61681,1,$,Trinidad And Tobago,Poland
+52,290,1944,0,1,$,Trinidad And Tobago,Poland
+52,290,1945,0,1,$,Trinidad And Tobago,Poland
+52,290,1946,0,1,$,Trinidad And Tobago,Poland
+52,290,1947,528,1,$,Trinidad And Tobago,Poland
+52,290,1948,10642,1,$,Trinidad And Tobago,Poland
+52,290,1949,44593,1,$,Trinidad And Tobago,Poland
+52,305,1920,0,1,Pounds,Trinidad And Tobago,Austria
+52,305,1921,0,1,Pounds,Trinidad And Tobago,Austria
+52,305,1922,0,1,Pounds,Trinidad And Tobago,Austria
+52,305,1923,0,1,Pounds,Trinidad And Tobago,Austria
+52,305,1924,465,1,Pounds,Trinidad And Tobago,Austria
+52,305,1925,421,1,Pounds,Trinidad And Tobago,Austria
+52,305,1926,473,1,Pounds,Trinidad And Tobago,Austria
+52,305,1927,68,1,Pounds,Trinidad And Tobago,Austria
+52,305,1928,677,1,Pounds,Trinidad And Tobago,Austria
+52,305,1929,218,1,Pounds,Trinidad And Tobago,Austria
+52,305,1930,9,1,Pounds,Trinidad And Tobago,Austria
+52,305,1931,0,1,Pounds,Trinidad And Tobago,Austria
+52,305,1932,397,1,Pounds,Trinidad And Tobago,Austria
+52,305,1933,4461,1,Pounds,Trinidad And Tobago,Austria
+52,305,1934,1990,1,Pounds,Trinidad And Tobago,Austria
+52,305,1935,9550,1,$,Trinidad And Tobago,Austria
+52,305,1936,5876,1,$,Trinidad And Tobago,Austria
+52,305,1937,24489,1,$,Trinidad And Tobago,Austria
+52,305,1944,0,1,$,Trinidad And Tobago,Austria
+52,305,1945,0,1,$,Trinidad And Tobago,Austria
+52,305,1946,0,1,$,Trinidad And Tobago,Austria
+52,305,1947,0,1,$,Trinidad And Tobago,Austria
+52,305,1948,7928,1,$,Trinidad And Tobago,Austria
+52,305,1949,99067,1,$,Trinidad And Tobago,Austria
+52,310,1920,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1921,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1922,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1923,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1924,11,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1925,34,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1926,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1927,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1928,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1929,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1930,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1931,0,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1932,105,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1933,280,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1934,2283,1,Pounds,Trinidad And Tobago,Hungary
+52,310,1935,2428,1,$,Trinidad And Tobago,Hungary
+52,310,1936,12245,1,$,Trinidad And Tobago,Hungary
+52,310,1937,57393,1,$,Trinidad And Tobago,Hungary
+52,310,1944,0,1,$,Trinidad And Tobago,Hungary
+52,310,1945,0,1,$,Trinidad And Tobago,Hungary
+52,310,1946,0,1,$,Trinidad And Tobago,Hungary
+52,310,1947,0,1,$,Trinidad And Tobago,Hungary
+52,310,1948,12715,1,$,Trinidad And Tobago,Hungary
+52,310,1949,13492,1,$,Trinidad And Tobago,Hungary
+52,315,1920,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1921,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1922,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1923,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1924,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1925,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1926,0,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1927,226,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1928,474,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1929,374,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1930,358,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1931,653,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1932,8808,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1933,13077,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1934,19961,1,Pounds,Trinidad And Tobago,Czechoslovakia
+52,315,1935,73632,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1936,89921,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1937,127942,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1944,0,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1945,0,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1946,25517,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1947,268432,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1948,496632,1,$,Trinidad And Tobago,Czechoslovakia
+52,315,1949,543488,1,$,Trinidad And Tobago,Czechoslovakia
+52,325,1920,9887,1,Pounds,Trinidad And Tobago,Italy
+52,325,1921,7768,1,Pounds,Trinidad And Tobago,Italy
+52,325,1922,8512,1,Pounds,Trinidad And Tobago,Italy
+52,325,1923,12010,1,Pounds,Trinidad And Tobago,Italy
+52,325,1924,7516,1,Pounds,Trinidad And Tobago,Italy
+52,325,1925,12674,1,Pounds,Trinidad And Tobago,Italy
+52,325,1926,19612,1,Pounds,Trinidad And Tobago,Italy
+52,325,1927,14077,1,Pounds,Trinidad And Tobago,Italy
+52,325,1928,16723,1,Pounds,Trinidad And Tobago,Italy
+52,325,1929,23208,1,Pounds,Trinidad And Tobago,Italy
+52,325,1930,26357,1,Pounds,Trinidad And Tobago,Italy
+52,325,1931,17181,1,Pounds,Trinidad And Tobago,Italy
+52,325,1932,15766,1,Pounds,Trinidad And Tobago,Italy
+52,325,1933,15105,1,Pounds,Trinidad And Tobago,Italy
+52,325,1934,11188,1,Pounds,Trinidad And Tobago,Italy
+52,325,1935,65343,1,$,Trinidad And Tobago,Italy
+52,325,1936,37703,1,$,Trinidad And Tobago,Italy
+52,325,1937,74974,1,$,Trinidad And Tobago,Italy
+52,325,1944,43,1,$,Trinidad And Tobago,Italy
+52,325,1945,0,1,$,Trinidad And Tobago,Italy
+52,325,1946,159802,1,$,Trinidad And Tobago,Italy
+52,325,1947,310047,1,$,Trinidad And Tobago,Italy
+52,325,1948,440240,1,$,Trinidad And Tobago,Italy
+52,325,1949,731240,1,$,Trinidad And Tobago,Italy
+52,338,1920,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1921,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1922,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1923,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1924,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1925,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1926,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1927,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1928,11,1,Pounds,Trinidad And Tobago,Malta
+52,338,1929,729,1,Pounds,Trinidad And Tobago,Malta
+52,338,1930,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1931,177,1,Pounds,Trinidad And Tobago,Malta
+52,338,1932,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1933,0,1,Pounds,Trinidad And Tobago,Malta
+52,338,1934,456,1,Pounds,Trinidad And Tobago,Malta
+52,338,1935,645,1,$,Trinidad And Tobago,Malta
+52,338,1936,1764,1,$,Trinidad And Tobago,Malta
+52,338,1937,4904,1,$,Trinidad And Tobago,Malta
+52,338,1944,0,1,$,Trinidad And Tobago,Malta
+52,338,1945,0,1,$,Trinidad And Tobago,Malta
+52,338,1946,218,1,$,Trinidad And Tobago,Malta
+52,338,1947,112,1,$,Trinidad And Tobago,Malta
+52,338,1948,0,1,$,Trinidad And Tobago,Malta
+52,338,1949,630,1,$,Trinidad And Tobago,Malta
+52,345,1920,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1921,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1922,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1923,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1924,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1925,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1926,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1927,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1928,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1929,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1930,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1931,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1932,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1933,0,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1934,120,1,Pounds,Trinidad And Tobago,Yugoslavia
+52,345,1935,428,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1936,534,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1937,542,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1944,0,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1945,0,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1946,0,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1947,0,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1948,0,1,$,Trinidad And Tobago,Yugoslavia
+52,345,1949,3,1,$,Trinidad And Tobago,Yugoslavia
+52,350,1920,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1921,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1922,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1923,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1924,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1925,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1926,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1927,0,1,Pounds,Trinidad And Tobago,Greece
+52,350,1928,597,1,Pounds,Trinidad And Tobago,Greece
+52,350,1929,143,1,Pounds,Trinidad And Tobago,Greece
+52,350,1930,161,1,Pounds,Trinidad And Tobago,Greece
+52,350,1931,368,1,Pounds,Trinidad And Tobago,Greece
+52,350,1932,389,1,Pounds,Trinidad And Tobago,Greece
+52,350,1933,27,1,Pounds,Trinidad And Tobago,Greece
+52,350,1934,97,1,Pounds,Trinidad And Tobago,Greece
+52,350,1935,166,1,$,Trinidad And Tobago,Greece
+52,350,1936,292,1,$,Trinidad And Tobago,Greece
+52,350,1937,5805,1,$,Trinidad And Tobago,Greece
+52,350,1944,0,1,$,Trinidad And Tobago,Greece
+52,350,1945,0,1,$,Trinidad And Tobago,Greece
+52,350,1946,0,1,$,Trinidad And Tobago,Greece
+52,350,1947,9027,1,$,Trinidad And Tobago,Greece
+52,350,1948,9267,1,$,Trinidad And Tobago,Greece
+52,350,1949,183297,1,$,Trinidad And Tobago,Greece
+52,352,1920,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1921,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1922,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1923,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1924,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1925,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1926,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1927,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1928,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1929,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1930,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1931,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1932,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1933,0,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1934,171,1,Pounds,Trinidad And Tobago,Cyprus
+52,352,1935,5308,1,$,Trinidad And Tobago,Cyprus
+52,352,1936,16034,1,$,Trinidad And Tobago,Cyprus
+52,352,1937,13991,1,$,Trinidad And Tobago,Cyprus
+52,352,1944,0,1,$,Trinidad And Tobago,Cyprus
+52,352,1945,0,1,$,Trinidad And Tobago,Cyprus
+52,352,1946,22844,1,$,Trinidad And Tobago,Cyprus
+52,352,1947,11625,1,$,Trinidad And Tobago,Cyprus
+52,352,1948,48770,1,$,Trinidad And Tobago,Cyprus
+52,352,1949,163215,1,$,Trinidad And Tobago,Cyprus
+52,355,1920,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1921,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1922,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1923,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1924,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1925,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1926,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1927,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1928,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1929,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1930,0,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1931,15,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1932,104,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1933,49,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1934,48,1,Pounds,Trinidad And Tobago,Bulgaria
+52,355,1935,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1936,8,1,$,Trinidad And Tobago,Bulgaria
+52,355,1937,19,1,$,Trinidad And Tobago,Bulgaria
+52,355,1944,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1945,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1946,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1947,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1948,0,1,$,Trinidad And Tobago,Bulgaria
+52,355,1949,0,1,$,Trinidad And Tobago,Bulgaria
+52,360,1920,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1921,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1922,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1923,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1924,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1925,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1926,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1927,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1928,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1929,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1930,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1931,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1932,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1933,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1934,0,1,Pounds,Trinidad And Tobago,Romania
+52,360,1935,0,1,$,Trinidad And Tobago,Romania
+52,360,1936,14,1,$,Trinidad And Tobago,Romania
+52,360,1937,145,1,$,Trinidad And Tobago,Romania
+52,360,1944,0,1,$,Trinidad And Tobago,Romania
+52,360,1945,0,1,$,Trinidad And Tobago,Romania
+52,360,1946,0,1,$,Trinidad And Tobago,Romania
+52,360,1947,0,1,$,Trinidad And Tobago,Romania
+52,360,1948,0,1,$,Trinidad And Tobago,Romania
+52,360,1949,0,1,$,Trinidad And Tobago,Romania
+52,365,1920,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1921,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1922,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1923,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1924,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1925,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1926,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1927,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1928,716,1,Pounds,Trinidad And Tobago,Russia
+52,365,1929,108,1,Pounds,Trinidad And Tobago,Russia
+52,365,1930,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1931,0,1,Pounds,Trinidad And Tobago,Russia
+52,365,1932,16,1,Pounds,Trinidad And Tobago,Russia
+52,365,1933,53,1,Pounds,Trinidad And Tobago,Russia
+52,365,1934,889,1,Pounds,Trinidad And Tobago,Russia
+52,365,1935,989,1,$,Trinidad And Tobago,Russia
+52,365,1936,1611,1,$,Trinidad And Tobago,Russia
+52,365,1937,538,1,$,Trinidad And Tobago,Russia
+52,365,1944,217,1,$,Trinidad And Tobago,Russia
+52,365,1945,2,1,$,Trinidad And Tobago,Russia
+52,365,1946,0,1,$,Trinidad And Tobago,Russia
+52,365,1947,95,1,$,Trinidad And Tobago,Russia
+52,365,1948,40,1,$,Trinidad And Tobago,Russia
+52,365,1949,11,1,$,Trinidad And Tobago,Russia
+52,366,1920,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1921,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1922,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1923,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1924,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1925,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1926,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1927,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1928,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1929,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1930,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1931,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1932,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1933,0,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1934,5,1,Pounds,Trinidad And Tobago,Estonia
+52,366,1935,210,1,$,Trinidad And Tobago,Estonia
+52,366,1936,825,1,$,Trinidad And Tobago,Estonia
+52,366,1937,364,1,$,Trinidad And Tobago,Estonia
+52,366,1944,0,1,$,Trinidad And Tobago,Estonia
+52,366,1945,0,1,$,Trinidad And Tobago,Estonia
+52,366,1946,0,1,$,Trinidad And Tobago,Estonia
+52,366,1947,0,1,$,Trinidad And Tobago,Estonia
+52,366,1948,0,1,$,Trinidad And Tobago,Estonia
+52,366,1949,0,1,$,Trinidad And Tobago,Estonia
+52,367,1920,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1921,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1922,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1923,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1924,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1925,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1926,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1927,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1928,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1929,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1930,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1931,0,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1932,603,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1933,1006,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1934,61,1,Pounds,Trinidad And Tobago,Latvia
+52,367,1935,2562,1,$,Trinidad And Tobago,Latvia
+52,367,1936,35,1,$,Trinidad And Tobago,Latvia
+52,367,1937,333,1,$,Trinidad And Tobago,Latvia
+52,367,1944,0,1,$,Trinidad And Tobago,Latvia
+52,367,1945,0,1,$,Trinidad And Tobago,Latvia
+52,367,1946,0,1,$,Trinidad And Tobago,Latvia
+52,367,1947,0,1,$,Trinidad And Tobago,Latvia
+52,367,1948,0,1,$,Trinidad And Tobago,Latvia
+52,367,1949,0,1,$,Trinidad And Tobago,Latvia
+52,368,1920,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1921,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1922,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1923,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1924,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1925,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1926,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1927,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1928,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1929,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1930,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1931,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1932,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1933,0,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1934,3011,1,Pounds,Trinidad And Tobago,Lithuania
+52,368,1935,10626,1,$,Trinidad And Tobago,Lithuania
+52,368,1936,9714,1,$,Trinidad And Tobago,Lithuania
+52,368,1937,11130,1,$,Trinidad And Tobago,Lithuania
+52,368,1944,0,1,$,Trinidad And Tobago,Lithuania
+52,368,1945,0,1,$,Trinidad And Tobago,Lithuania
+52,368,1946,0,1,$,Trinidad And Tobago,Lithuania
+52,368,1947,0,1,$,Trinidad And Tobago,Lithuania
+52,368,1948,0,1,$,Trinidad And Tobago,Lithuania
+52,368,1949,0,1,$,Trinidad And Tobago,Lithuania
+52,375,1920,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1921,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1922,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1923,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1924,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1925,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1926,395,1,Pounds,Trinidad And Tobago,Finland
+52,375,1927,367,1,Pounds,Trinidad And Tobago,Finland
+52,375,1928,653,1,Pounds,Trinidad And Tobago,Finland
+52,375,1929,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1930,0,1,Pounds,Trinidad And Tobago,Finland
+52,375,1931,20,1,Pounds,Trinidad And Tobago,Finland
+52,375,1932,248,1,Pounds,Trinidad And Tobago,Finland
+52,375,1933,175,1,Pounds,Trinidad And Tobago,Finland
+52,375,1934,963,1,Pounds,Trinidad And Tobago,Finland
+52,375,1935,1028,1,$,Trinidad And Tobago,Finland
+52,375,1936,8886,1,$,Trinidad And Tobago,Finland
+52,375,1937,13977,1,$,Trinidad And Tobago,Finland
+52,375,1944,0,1,$,Trinidad And Tobago,Finland
+52,375,1945,0,1,$,Trinidad And Tobago,Finland
+52,375,1946,0,1,$,Trinidad And Tobago,Finland
+52,375,1947,2690,1,$,Trinidad And Tobago,Finland
+52,375,1948,3,1,$,Trinidad And Tobago,Finland
+52,375,1949,101,1,$,Trinidad And Tobago,Finland
+52,380,1920,0,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1921,663,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1922,2743,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1923,6373,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1924,2787,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1925,2034,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1926,1574,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1927,2289,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1928,1989,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1929,1283,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1930,1992,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1931,2983,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1932,8347,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1933,6343,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1934,8114,1,Pounds,Trinidad And Tobago,Sweden
+52,380,1935,31864,1,$,Trinidad And Tobago,Sweden
+52,380,1936,41511,1,$,Trinidad And Tobago,Sweden
+52,380,1937,72925,1,$,Trinidad And Tobago,Sweden
+52,380,1944,0,1,$,Trinidad And Tobago,Sweden
+52,380,1945,304,1,$,Trinidad And Tobago,Sweden
+52,380,1946,11434,1,$,Trinidad And Tobago,Sweden
+52,380,1947,62524,1,$,Trinidad And Tobago,Sweden
+52,380,1948,68393,1,$,Trinidad And Tobago,Sweden
+52,380,1949,95075,1,$,Trinidad And Tobago,Sweden
+52,385,1920,0,1,Pounds,Trinidad And Tobago,Norway
+52,385,1921,200,1,Pounds,Trinidad And Tobago,Norway
+52,385,1922,1322,1,Pounds,Trinidad And Tobago,Norway
+52,385,1923,5200,1,Pounds,Trinidad And Tobago,Norway
+52,385,1924,2614,1,Pounds,Trinidad And Tobago,Norway
+52,385,1925,3162,1,Pounds,Trinidad And Tobago,Norway
+52,385,1926,1476,1,Pounds,Trinidad And Tobago,Norway
+52,385,1927,287,1,Pounds,Trinidad And Tobago,Norway
+52,385,1928,2157,1,Pounds,Trinidad And Tobago,Norway
+52,385,1929,1272,1,Pounds,Trinidad And Tobago,Norway
+52,385,1930,662,1,Pounds,Trinidad And Tobago,Norway
+52,385,1931,661,1,Pounds,Trinidad And Tobago,Norway
+52,385,1932,4460,1,Pounds,Trinidad And Tobago,Norway
+52,385,1933,1565,1,Pounds,Trinidad And Tobago,Norway
+52,385,1934,727,1,Pounds,Trinidad And Tobago,Norway
+52,385,1935,4909,1,$,Trinidad And Tobago,Norway
+52,385,1936,4626,1,$,Trinidad And Tobago,Norway
+52,385,1937,13164,1,$,Trinidad And Tobago,Norway
+52,385,1944,0,1,$,Trinidad And Tobago,Norway
+52,385,1945,0,1,$,Trinidad And Tobago,Norway
+52,385,1946,601,1,$,Trinidad And Tobago,Norway
+52,385,1947,645,1,$,Trinidad And Tobago,Norway
+52,385,1948,67114,1,$,Trinidad And Tobago,Norway
+52,385,1949,164653,1,$,Trinidad And Tobago,Norway
+52,390,1920,2535,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1921,5478,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1922,1800,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1923,7402,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1924,11026,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1925,13109,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1926,16918,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1927,5978,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1928,5484,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1929,6937,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1930,7588,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1931,10868,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1932,17248,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1933,20445,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1934,19189,1,Pounds,Trinidad And Tobago,Denmark
+52,390,1935,77550,1,$,Trinidad And Tobago,Denmark
+52,390,1936,54816,1,$,Trinidad And Tobago,Denmark
+52,390,1937,88557,1,$,Trinidad And Tobago,Denmark
+52,390,1944,0,1,$,Trinidad And Tobago,Denmark
+52,390,1945,0,1,$,Trinidad And Tobago,Denmark
+52,390,1946,1929,1,$,Trinidad And Tobago,Denmark
+52,390,1947,835,1,$,Trinidad And Tobago,Denmark
+52,390,1948,317244,1,$,Trinidad And Tobago,Denmark
+52,390,1949,165011,1,$,Trinidad And Tobago,Denmark
+52,400,1920,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1921,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1922,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1923,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1924,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1925,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1926,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1927,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1928,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1929,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1930,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1931,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1932,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1933,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1934,0,1,Pounds,Trinidad And Tobago,Azores
+52,400,1935,0,1,$,Trinidad And Tobago,Azores
+52,400,1936,0,1,$,Trinidad And Tobago,Azores
+52,400,1937,0,1,$,Trinidad And Tobago,Azores
+52,400,1944,0,1,$,Trinidad And Tobago,Azores
+52,400,1945,0,1,$,Trinidad And Tobago,Azores
+52,400,1946,0,1,$,Trinidad And Tobago,Azores
+52,400,1947,0,1,$,Trinidad And Tobago,Azores
+52,400,1948,120,1,$,Trinidad And Tobago,Azores
+52,400,1949,0,1,$,Trinidad And Tobago,Azores
+52,401,1920,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1921,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1922,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1923,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1924,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1925,4854,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1926,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1927,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1928,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1929,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1930,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1931,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1932,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1933,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1934,0,1,Pounds,Trinidad And Tobago,Madeira
+52,401,1935,0,1,$,Trinidad And Tobago,Madeira
+52,401,1936,0,1,$,Trinidad And Tobago,Madeira
+52,401,1937,0,1,$,Trinidad And Tobago,Madeira
+52,401,1944,0,1,$,Trinidad And Tobago,Madeira
+52,401,1945,76364,1,$,Trinidad And Tobago,Madeira
+52,401,1946,30941,1,$,Trinidad And Tobago,Madeira
+52,401,1947,69013,1,$,Trinidad And Tobago,Madeira
+52,401,1948,86804,1,$,Trinidad And Tobago,Madeira
+52,401,1949,61227,1,$,Trinidad And Tobago,Madeira
+52,433,1920,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1921,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1922,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1923,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1924,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1925,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1926,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1927,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1928,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1929,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1930,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1931,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1932,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1933,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1934,0,1,Pounds,Trinidad And Tobago,Senegal
+52,433,1935,0,1,$,Trinidad And Tobago,Senegal
+52,433,1936,10,1,$,Trinidad And Tobago,Senegal
+52,433,1937,0,1,$,Trinidad And Tobago,Senegal
+52,433,1944,0,1,$,Trinidad And Tobago,Senegal
+52,433,1945,0,1,$,Trinidad And Tobago,Senegal
+52,433,1946,0,1,$,Trinidad And Tobago,Senegal
+52,433,1947,0,1,$,Trinidad And Tobago,Senegal
+52,433,1948,0,1,$,Trinidad And Tobago,Senegal
+52,433,1949,0,1,$,Trinidad And Tobago,Senegal
+52,450,1920,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1921,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1922,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1923,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1924,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1925,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1926,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1927,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1928,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1929,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1930,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1931,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1932,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1933,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1934,0,1,Pounds,Trinidad And Tobago,Liberia
+52,450,1935,0,1,$,Trinidad And Tobago,Liberia
+52,450,1936,0,1,$,Trinidad And Tobago,Liberia
+52,450,1937,0,1,$,Trinidad And Tobago,Liberia
+52,450,1944,0,1,$,Trinidad And Tobago,Liberia
+52,450,1945,0,1,$,Trinidad And Tobago,Liberia
+52,450,1946,0,1,$,Trinidad And Tobago,Liberia
+52,450,1947,17,1,$,Trinidad And Tobago,Liberia
+52,450,1948,0,1,$,Trinidad And Tobago,Liberia
+52,450,1949,0,1,$,Trinidad And Tobago,Liberia
+52,451,1920,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1921,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1922,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1923,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1924,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1925,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1926,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1927,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1928,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1929,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1930,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1931,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1932,0,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1933,18,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1934,270,1,Pounds,Trinidad And Tobago,Sierra Leone
+52,451,1935,3274,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1936,3059,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1937,796,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1944,0,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1945,0,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1946,0,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1947,0,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1948,1136,1,$,Trinidad And Tobago,Sierra Leone
+52,451,1949,1177,1,$,Trinidad And Tobago,Sierra Leone
+52,452,1920,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1921,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1922,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1923,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1924,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1925,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1926,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1927,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1928,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1929,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1930,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1931,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1932,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1933,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1934,0,1,Pounds,Trinidad And Tobago,Ghana
+52,452,1935,0,1,$,Trinidad And Tobago,Ghana
+52,452,1936,0,1,$,Trinidad And Tobago,Ghana
+52,452,1937,0,1,$,Trinidad And Tobago,Ghana
+52,452,1944,0,1,$,Trinidad And Tobago,Ghana
+52,452,1945,0,1,$,Trinidad And Tobago,Ghana
+52,452,1946,0,1,$,Trinidad And Tobago,Ghana
+52,452,1947,18,1,$,Trinidad And Tobago,Ghana
+52,452,1948,0,1,$,Trinidad And Tobago,Ghana
+52,452,1949,142,1,$,Trinidad And Tobago,Ghana
+52,465,1920,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1921,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1922,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1923,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1924,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1925,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1926,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1927,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1928,120,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1929,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1930,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1931,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1932,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1933,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1934,0,1,Pounds,Trinidad And Tobago,British West Africa
+52,465,1935,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1936,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1937,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1944,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1945,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1946,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1947,1157,1,$,Trinidad And Tobago,British West Africa
+52,465,1948,0,1,$,Trinidad And Tobago,British West Africa
+52,465,1949,0,1,$,Trinidad And Tobago,British West Africa
+52,475,1920,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1921,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1922,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1923,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1924,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1925,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1926,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1927,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1928,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1929,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1930,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1931,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1932,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1933,0,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1934,374,1,Pounds,Trinidad And Tobago,Nigeria
+52,475,1935,37000,1,$,Trinidad And Tobago,Nigeria
+52,475,1936,6612,1,$,Trinidad And Tobago,Nigeria
+52,475,1937,12273,1,$,Trinidad And Tobago,Nigeria
+52,475,1944,0,1,$,Trinidad And Tobago,Nigeria
+52,475,1945,0,1,$,Trinidad And Tobago,Nigeria
+52,475,1946,25,1,$,Trinidad And Tobago,Nigeria
+52,475,1947,0,1,$,Trinidad And Tobago,Nigeria
+52,475,1948,32,1,$,Trinidad And Tobago,Nigeria
+52,475,1949,33,1,$,Trinidad And Tobago,Nigeria
+52,500,1920,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1921,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1922,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1923,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1924,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1925,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1926,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1927,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1928,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1929,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1930,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1931,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1932,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1933,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1934,0,1,Pounds,Trinidad And Tobago,Uganda
+52,500,1935,0,1,$,Trinidad And Tobago,Uganda
+52,500,1936,0,1,$,Trinidad And Tobago,Uganda
+52,500,1937,0,1,$,Trinidad And Tobago,Uganda
+52,500,1944,0,1,$,Trinidad And Tobago,Uganda
+52,500,1945,0,1,$,Trinidad And Tobago,Uganda
+52,500,1946,0,1,$,Trinidad And Tobago,Uganda
+52,500,1947,229,1,$,Trinidad And Tobago,Uganda
+52,500,1948,9,1,$,Trinidad And Tobago,Uganda
+52,500,1949,0,1,$,Trinidad And Tobago,Uganda
+52,501,1920,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1921,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1922,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1923,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1924,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1925,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1926,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1927,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1928,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1929,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1930,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1931,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1932,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1933,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1934,0,1,Pounds,Trinidad And Tobago,Kenya
+52,501,1935,0,1,$,Trinidad And Tobago,Kenya
+52,501,1936,0,1,$,Trinidad And Tobago,Kenya
+52,501,1937,0,1,$,Trinidad And Tobago,Kenya
+52,501,1944,0,1,$,Trinidad And Tobago,Kenya
+52,501,1945,0,1,$,Trinidad And Tobago,Kenya
+52,501,1946,113,1,$,Trinidad And Tobago,Kenya
+52,501,1947,0,1,$,Trinidad And Tobago,Kenya
+52,501,1948,4556,1,$,Trinidad And Tobago,Kenya
+52,501,1949,28822,1,$,Trinidad And Tobago,Kenya
+52,505,1920,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1921,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1922,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1923,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1924,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1925,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1926,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1927,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1928,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1929,80,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1930,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1931,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1932,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1933,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1934,0,1,Pounds,Trinidad And Tobago,British East Africa
+52,505,1935,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1936,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1937,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1944,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1945,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1946,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1947,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1948,0,1,$,Trinidad And Tobago,British East Africa
+52,505,1949,0,1,$,Trinidad And Tobago,British East Africa
+52,510,1920,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1921,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1922,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1923,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1924,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1925,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1926,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1927,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1928,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1929,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1930,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1931,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1932,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1933,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1934,0,1,Pounds,Trinidad And Tobago,Tanzania
+52,510,1935,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1936,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1937,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1944,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1945,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1946,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1947,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1948,0,1,$,Trinidad And Tobago,Tanzania
+52,510,1949,1121,1,$,Trinidad And Tobago,Tanzania
+52,511,1920,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1921,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1922,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1923,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1924,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1925,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1926,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1927,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1928,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1929,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1930,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1931,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1932,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1933,0,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1934,43,1,Pounds,Trinidad And Tobago,Zanzibar
+52,511,1935,235,1,$,Trinidad And Tobago,Zanzibar
+52,511,1936,0,1,$,Trinidad And Tobago,Zanzibar
+52,511,1937,248,1,$,Trinidad And Tobago,Zanzibar
+52,511,1944,0,1,$,Trinidad And Tobago,Zanzibar
+52,511,1945,0,1,$,Trinidad And Tobago,Zanzibar
+52,511,1946,0,1,$,Trinidad And Tobago,Zanzibar
+52,511,1947,553,1,$,Trinidad And Tobago,Zanzibar
+52,511,1948,0,1,$,Trinidad And Tobago,Zanzibar
+52,511,1949,14,1,$,Trinidad And Tobago,Zanzibar
+52,521,1920,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1921,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1922,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1923,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1924,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1925,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1926,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1927,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1928,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1929,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1930,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1931,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1932,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1933,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1934,0,1,Pounds,Trinidad And Tobago,British Somaliland
+52,521,1935,0,1,$,Trinidad And Tobago,British Somaliland
+52,521,1936,0,1,$,Trinidad And Tobago,British Somaliland
+52,521,1937,25,1,$,Trinidad And Tobago,British Somaliland
+52,521,1944,123,1,$,Trinidad And Tobago,British Somaliland
+52,521,1945,0,1,$,Trinidad And Tobago,British Somaliland
+52,521,1946,26,1,$,Trinidad And Tobago,British Somaliland
+52,521,1947,860,1,$,Trinidad And Tobago,British Somaliland
+52,521,1948,16,1,$,Trinidad And Tobago,British Somaliland
+52,521,1949,603,1,$,Trinidad And Tobago,British Somaliland
+52,552,1920,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1921,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1922,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1923,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1924,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1925,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1926,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1927,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1928,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1929,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1930,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1931,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1932,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1933,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1934,0,1,Pounds,Trinidad And Tobago,Zimbabwe
+52,552,1935,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1936,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1937,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1944,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1945,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1946,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1947,0,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1948,10754,1,$,Trinidad And Tobago,Zimbabwe
+52,552,1949,186241,1,$,Trinidad And Tobago,Zimbabwe
+52,560,1920,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1921,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1922,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1923,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1924,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1925,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1926,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1927,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1928,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1929,58,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1930,0,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1931,98,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1932,109,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1933,48,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1934,1147,1,Pounds,Trinidad And Tobago,South Africa
+52,560,1935,24514,1,$,Trinidad And Tobago,South Africa
+52,560,1936,32023,1,$,Trinidad And Tobago,South Africa
+52,560,1937,53107,1,$,Trinidad And Tobago,South Africa
+52,560,1944,141933,1,$,Trinidad And Tobago,South Africa
+52,560,1945,242408,1,$,Trinidad And Tobago,South Africa
+52,560,1946,292157,1,$,Trinidad And Tobago,South Africa
+52,560,1947,329358,1,$,Trinidad And Tobago,South Africa
+52,560,1948,311075,1,$,Trinidad And Tobago,South Africa
+52,560,1949,173665,1,$,Trinidad And Tobago,South Africa
+52,580,1920,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1921,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1922,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1923,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1924,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1925,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1926,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1927,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1928,113,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1929,74,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1930,0,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1931,3,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1932,14,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1933,59,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1934,344,1,Pounds,Trinidad And Tobago,Madagascar
+52,580,1935,980,1,$,Trinidad And Tobago,Madagascar
+52,580,1936,1850,1,$,Trinidad And Tobago,Madagascar
+52,580,1937,1555,1,$,Trinidad And Tobago,Madagascar
+52,580,1944,0,1,$,Trinidad And Tobago,Madagascar
+52,580,1945,0,1,$,Trinidad And Tobago,Madagascar
+52,580,1946,0,1,$,Trinidad And Tobago,Madagascar
+52,580,1947,0,1,$,Trinidad And Tobago,Madagascar
+52,580,1948,5,1,$,Trinidad And Tobago,Madagascar
+52,580,1949,12,1,$,Trinidad And Tobago,Madagascar
+52,585,1920,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1921,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1922,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1923,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1924,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1925,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1926,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1927,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1928,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1929,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1930,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1931,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1932,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1933,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1934,0,1,Pounds,Trinidad And Tobago,Reunion
+52,585,1935,0,1,$,Trinidad And Tobago,Reunion
+52,585,1936,0,1,$,Trinidad And Tobago,Reunion
+52,585,1937,0,1,$,Trinidad And Tobago,Reunion
+52,585,1944,0,1,$,Trinidad And Tobago,Reunion
+52,585,1945,0,1,$,Trinidad And Tobago,Reunion
+52,585,1946,0,1,$,Trinidad And Tobago,Reunion
+52,585,1947,0,1,$,Trinidad And Tobago,Reunion
+52,585,1948,53,1,$,Trinidad And Tobago,Reunion
+52,585,1949,0,1,$,Trinidad And Tobago,Reunion
+52,600,1920,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1921,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1922,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1923,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1924,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1925,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1926,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1927,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1928,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1929,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1930,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1931,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1932,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1933,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1934,0,1,Pounds,Trinidad And Tobago,Morocco
+52,600,1935,0,1,$,Trinidad And Tobago,Morocco
+52,600,1936,0,1,$,Trinidad And Tobago,Morocco
+52,600,1937,0,1,$,Trinidad And Tobago,Morocco
+52,600,1944,0,1,$,Trinidad And Tobago,Morocco
+52,600,1945,0,1,$,Trinidad And Tobago,Morocco
+52,600,1946,0,1,$,Trinidad And Tobago,Morocco
+52,600,1947,0,1,$,Trinidad And Tobago,Morocco
+52,600,1948,0,1,$,Trinidad And Tobago,Morocco
+52,600,1949,58330,1,$,Trinidad And Tobago,Morocco
+52,615,1920,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1921,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1922,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1923,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1924,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1925,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1926,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1927,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1928,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1929,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1930,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1931,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1932,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1933,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1934,0,1,Pounds,Trinidad And Tobago,Algeria
+52,615,1935,0,1,$,Trinidad And Tobago,Algeria
+52,615,1936,0,1,$,Trinidad And Tobago,Algeria
+52,615,1937,0,1,$,Trinidad And Tobago,Algeria
+52,615,1944,0,1,$,Trinidad And Tobago,Algeria
+52,615,1945,0,1,$,Trinidad And Tobago,Algeria
+52,615,1946,0,1,$,Trinidad And Tobago,Algeria
+52,615,1947,0,1,$,Trinidad And Tobago,Algeria
+52,615,1948,11,1,$,Trinidad And Tobago,Algeria
+52,615,1949,532,1,$,Trinidad And Tobago,Algeria
+52,616,1920,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1921,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1922,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1923,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1924,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1925,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1926,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1927,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1928,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1929,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1930,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1931,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1932,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1933,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1934,0,1,Pounds,Trinidad And Tobago,Tunisia
+52,616,1935,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1936,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1937,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1944,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1945,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1946,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1947,0,1,$,Trinidad And Tobago,Tunisia
+52,616,1948,5,1,$,Trinidad And Tobago,Tunisia
+52,616,1949,0,1,$,Trinidad And Tobago,Tunisia
+52,620,1920,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1921,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1922,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1923,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1924,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1925,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1926,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1927,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1928,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1929,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1930,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1931,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1932,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1933,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1934,0,1,Pounds,Trinidad And Tobago,Libya
+52,620,1935,102,1,$,Trinidad And Tobago,Libya
+52,620,1936,0,1,$,Trinidad And Tobago,Libya
+52,620,1937,0,1,$,Trinidad And Tobago,Libya
+52,620,1944,0,1,$,Trinidad And Tobago,Libya
+52,620,1945,0,1,$,Trinidad And Tobago,Libya
+52,620,1946,0,1,$,Trinidad And Tobago,Libya
+52,620,1947,0,1,$,Trinidad And Tobago,Libya
+52,620,1948,0,1,$,Trinidad And Tobago,Libya
+52,620,1949,0,1,$,Trinidad And Tobago,Libya
+52,625,1920,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1921,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1922,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1923,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1924,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1925,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1926,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1927,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1928,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1929,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1930,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1931,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1932,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1933,0,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1934,116,1,Pounds,Trinidad And Tobago,Sudan
+52,625,1935,123,1,$,Trinidad And Tobago,Sudan
+52,625,1936,515,1,$,Trinidad And Tobago,Sudan
+52,625,1937,681,1,$,Trinidad And Tobago,Sudan
+52,625,1944,0,1,$,Trinidad And Tobago,Sudan
+52,625,1945,248,1,$,Trinidad And Tobago,Sudan
+52,625,1946,349,1,$,Trinidad And Tobago,Sudan
+52,625,1947,670,1,$,Trinidad And Tobago,Sudan
+52,625,1948,1097,1,$,Trinidad And Tobago,Sudan
+52,625,1949,360,1,$,Trinidad And Tobago,Sudan
+52,630,1920,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1921,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1922,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1923,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1924,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1925,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1926,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1927,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1928,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1929,8,1,Pounds,Trinidad And Tobago,Iran
+52,630,1930,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1931,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1932,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1933,0,1,Pounds,Trinidad And Tobago,Iran
+52,630,1934,22,1,Pounds,Trinidad And Tobago,Iran
+52,630,1935,216,1,$,Trinidad And Tobago,Iran
+52,630,1936,1155,1,$,Trinidad And Tobago,Iran
+52,630,1937,543,1,$,Trinidad And Tobago,Iran
+52,630,1944,0,1,$,Trinidad And Tobago,Iran
+52,630,1945,647,1,$,Trinidad And Tobago,Iran
+52,630,1946,122,1,$,Trinidad And Tobago,Iran
+52,630,1947,1037,1,$,Trinidad And Tobago,Iran
+52,630,1948,1690,1,$,Trinidad And Tobago,Iran
+52,630,1949,236,1,$,Trinidad And Tobago,Iran
+52,640,1920,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1921,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1922,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1923,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1924,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1925,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1926,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1927,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1928,13,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1929,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1930,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1931,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1932,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1933,0,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1934,151,1,Pounds,Trinidad And Tobago,Turkey
+52,640,1935,600,1,$,Trinidad And Tobago,Turkey
+52,640,1936,701,1,$,Trinidad And Tobago,Turkey
+52,640,1937,671,1,$,Trinidad And Tobago,Turkey
+52,640,1944,0,1,$,Trinidad And Tobago,Turkey
+52,640,1945,0,1,$,Trinidad And Tobago,Turkey
+52,640,1946,0,1,$,Trinidad And Tobago,Turkey
+52,640,1947,1444,1,$,Trinidad And Tobago,Turkey
+52,640,1948,30,1,$,Trinidad And Tobago,Turkey
+52,640,1949,6065,1,$,Trinidad And Tobago,Turkey
+52,645,1920,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1921,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1922,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1923,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1924,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1925,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1926,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1927,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1928,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1929,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1930,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1931,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1932,0,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1933,44,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1934,785,1,Pounds,Trinidad And Tobago,Iraq
+52,645,1935,1729,1,$,Trinidad And Tobago,Iraq
+52,645,1936,367,1,$,Trinidad And Tobago,Iraq
+52,645,1937,977,1,$,Trinidad And Tobago,Iraq
+52,645,1944,0,1,$,Trinidad And Tobago,Iraq
+52,645,1945,0,1,$,Trinidad And Tobago,Iraq
+52,645,1946,0,1,$,Trinidad And Tobago,Iraq
+52,645,1947,0,1,$,Trinidad And Tobago,Iraq
+52,645,1948,38,1,$,Trinidad And Tobago,Iraq
+52,645,1949,0,1,$,Trinidad And Tobago,Iraq
+52,651,1920,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1921,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1922,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1923,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1924,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1925,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1926,0,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1927,104,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1928,157,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1929,319,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1930,52,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1931,71,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1932,64,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1933,971,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1934,1168,1,Pounds,Trinidad And Tobago,Egypt
+52,651,1935,3894,1,$,Trinidad And Tobago,Egypt
+52,651,1936,3262,1,$,Trinidad And Tobago,Egypt
+52,651,1937,18007,1,$,Trinidad And Tobago,Egypt
+52,651,1944,22,1,$,Trinidad And Tobago,Egypt
+52,651,1945,18,1,$,Trinidad And Tobago,Egypt
+52,651,1946,30,1,$,Trinidad And Tobago,Egypt
+52,651,1947,1138,1,$,Trinidad And Tobago,Egypt
+52,651,1948,30014,1,$,Trinidad And Tobago,Egypt
+52,651,1949,666,1,$,Trinidad And Tobago,Egypt
+52,652,1920,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1921,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1922,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1923,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1924,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1925,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1926,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1927,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1928,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1929,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1930,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1931,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1932,0,1,Pounds,Trinidad And Tobago,Syria
+52,652,1933,27,1,Pounds,Trinidad And Tobago,Syria
+52,652,1934,49,1,Pounds,Trinidad And Tobago,Syria
+52,652,1935,0,1,$,Trinidad And Tobago,Syria
+52,652,1936,38,1,$,Trinidad And Tobago,Syria
+52,652,1937,33,1,$,Trinidad And Tobago,Syria
+52,652,1944,1892,1,$,Trinidad And Tobago,Syria
+52,652,1945,0,1,$,Trinidad And Tobago,Syria
+52,652,1946,0,1,$,Trinidad And Tobago,Syria
+52,652,1947,271,1,$,Trinidad And Tobago,Syria
+52,652,1948,4,1,$,Trinidad And Tobago,Syria
+52,652,1949,0,1,$,Trinidad And Tobago,Syria
+52,665,1920,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1921,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1922,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1923,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1924,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1925,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1926,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1927,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1928,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1929,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1930,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1931,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1932,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1933,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1934,0,1,Pounds,Trinidad And Tobago,West Bank And Gaza
+52,665,1935,0,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1936,63,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1937,0,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1944,0,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1945,0,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1946,633,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1947,1977,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1948,712,1,$,Trinidad And Tobago,West Bank And Gaza
+52,665,1949,482,1,$,Trinidad And Tobago,West Bank And Gaza
+52,675,1920,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1921,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1922,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1923,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1924,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1925,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1926,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1927,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1928,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1929,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1930,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1931,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1932,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1933,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1934,0,1,Pounds,Trinidad And Tobago,Arabia
+52,675,1935,0,1,$,Trinidad And Tobago,Arabia
+52,675,1936,33,1,$,Trinidad And Tobago,Arabia
+52,675,1937,0,1,$,Trinidad And Tobago,Arabia
+52,675,1944,0,1,$,Trinidad And Tobago,Arabia
+52,675,1945,46,1,$,Trinidad And Tobago,Arabia
+52,675,1946,0,1,$,Trinidad And Tobago,Arabia
+52,675,1947,533,1,$,Trinidad And Tobago,Arabia
+52,675,1948,111,1,$,Trinidad And Tobago,Arabia
+52,675,1949,45,1,$,Trinidad And Tobago,Arabia
+52,681,1920,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1921,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1922,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1923,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1924,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1925,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1926,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1927,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1928,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1929,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1930,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1931,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1932,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1933,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1934,0,1,Pounds,Trinidad And Tobago,Aden
+52,681,1935,0,1,$,Trinidad And Tobago,Aden
+52,681,1936,0,1,$,Trinidad And Tobago,Aden
+52,681,1937,232,1,$,Trinidad And Tobago,Aden
+52,681,1944,0,1,$,Trinidad And Tobago,Aden
+52,681,1945,0,1,$,Trinidad And Tobago,Aden
+52,681,1946,0,1,$,Trinidad And Tobago,Aden
+52,681,1947,0,1,$,Trinidad And Tobago,Aden
+52,681,1948,0,1,$,Trinidad And Tobago,Aden
+52,681,1949,0,1,$,Trinidad And Tobago,Aden
+52,700,1920,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1921,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1922,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1923,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1924,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1925,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1926,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1927,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1928,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1929,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1930,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1931,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1932,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1933,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1934,0,1,Pounds,Trinidad And Tobago,Afghanistan
+52,700,1935,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1936,10,1,$,Trinidad And Tobago,Afghanistan
+52,700,1937,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1944,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1945,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1946,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1947,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1948,0,1,$,Trinidad And Tobago,Afghanistan
+52,700,1949,0,1,$,Trinidad And Tobago,Afghanistan
+52,710,1920,0,1,Pounds,Trinidad And Tobago,China
+52,710,1921,0,1,Pounds,Trinidad And Tobago,China
+52,710,1922,0,1,Pounds,Trinidad And Tobago,China
+52,710,1923,0,1,Pounds,Trinidad And Tobago,China
+52,710,1924,0,1,Pounds,Trinidad And Tobago,China
+52,710,1925,3032,1,Pounds,Trinidad And Tobago,China
+52,710,1926,1870,1,Pounds,Trinidad And Tobago,China
+52,710,1927,3042,1,Pounds,Trinidad And Tobago,China
+52,710,1928,4521,1,Pounds,Trinidad And Tobago,China
+52,710,1929,5417,1,Pounds,Trinidad And Tobago,China
+52,710,1930,4805,1,Pounds,Trinidad And Tobago,China
+52,710,1931,5550,1,Pounds,Trinidad And Tobago,China
+52,710,1932,3802,1,Pounds,Trinidad And Tobago,China
+52,710,1933,2441,1,Pounds,Trinidad And Tobago,China
+52,710,1934,11166,1,Pounds,Trinidad And Tobago,China
+52,710,1935,62291,1,$,Trinidad And Tobago,China
+52,710,1936,67277,1,$,Trinidad And Tobago,China
+52,710,1937,94084,1,$,Trinidad And Tobago,China
+52,710,1944,1147,1,$,Trinidad And Tobago,China
+52,710,1945,5412,1,$,Trinidad And Tobago,China
+52,710,1946,14800,1,$,Trinidad And Tobago,China
+52,710,1947,46078,1,$,Trinidad And Tobago,China
+52,710,1948,33166,1,$,Trinidad And Tobago,China
+52,710,1949,17878,1,$,Trinidad And Tobago,China
+52,720,1920,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1921,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1922,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1923,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1924,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1925,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1926,0,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1927,2790,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1928,2163,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1929,3289,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1930,3651,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1931,3867,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1932,5040,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1933,11888,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1934,11302,1,Pounds,Trinidad And Tobago,Hong Kong
+52,720,1935,121571,1,$,Trinidad And Tobago,Hong Kong
+52,720,1936,238094,1,$,Trinidad And Tobago,Hong Kong
+52,720,1937,494988,1,$,Trinidad And Tobago,Hong Kong
+52,720,1944,0,1,$,Trinidad And Tobago,Hong Kong
+52,720,1945,34022,1,$,Trinidad And Tobago,Hong Kong
+52,720,1946,9634,1,$,Trinidad And Tobago,Hong Kong
+52,720,1947,26456,1,$,Trinidad And Tobago,Hong Kong
+52,720,1948,888831,1,$,Trinidad And Tobago,Hong Kong
+52,720,1949,994852,1,$,Trinidad And Tobago,Hong Kong
+52,740,1920,0,1,Pounds,Trinidad And Tobago,Japan
+52,740,1921,9603,1,Pounds,Trinidad And Tobago,Japan
+52,740,1922,0,1,Pounds,Trinidad And Tobago,Japan
+52,740,1923,0,1,Pounds,Trinidad And Tobago,Japan
+52,740,1924,0,1,Pounds,Trinidad And Tobago,Japan
+52,740,1925,3826,1,Pounds,Trinidad And Tobago,Japan
+52,740,1926,7812,1,Pounds,Trinidad And Tobago,Japan
+52,740,1927,9035,1,Pounds,Trinidad And Tobago,Japan
+52,740,1928,20999,1,Pounds,Trinidad And Tobago,Japan
+52,740,1929,24215,1,Pounds,Trinidad And Tobago,Japan
+52,740,1930,28400,1,Pounds,Trinidad And Tobago,Japan
+52,740,1931,47083,1,Pounds,Trinidad And Tobago,Japan
+52,740,1932,67492,1,Pounds,Trinidad And Tobago,Japan
+52,740,1933,117282,1,Pounds,Trinidad And Tobago,Japan
+52,740,1934,94113,1,Pounds,Trinidad And Tobago,Japan
+52,740,1935,365446,1,$,Trinidad And Tobago,Japan
+52,740,1936,441160,1,$,Trinidad And Tobago,Japan
+52,740,1937,605476,1,$,Trinidad And Tobago,Japan
+52,740,1944,1203,1,$,Trinidad And Tobago,Japan
+52,740,1945,0,1,$,Trinidad And Tobago,Japan
+52,740,1946,44,1,$,Trinidad And Tobago,Japan
+52,740,1947,401,1,$,Trinidad And Tobago,Japan
+52,740,1948,12058,1,$,Trinidad And Tobago,Japan
+52,740,1949,407097,1,$,Trinidad And Tobago,Japan
+52,750,1920,0,1,Pounds,Trinidad And Tobago,India
+52,750,1921,0,1,Pounds,Trinidad And Tobago,India
+52,750,1922,0,1,Pounds,Trinidad And Tobago,India
+52,750,1923,0,1,Pounds,Trinidad And Tobago,India
+52,750,1924,0,1,Pounds,Trinidad And Tobago,India
+52,750,1925,0,1,Pounds,Trinidad And Tobago,India
+52,750,1926,0,1,Pounds,Trinidad And Tobago,India
+52,750,1927,0,1,Pounds,Trinidad And Tobago,India
+52,750,1928,0,1,Pounds,Trinidad And Tobago,India
+52,750,1929,0,1,Pounds,Trinidad And Tobago,India
+52,750,1930,0,1,Pounds,Trinidad And Tobago,India
+52,750,1931,0,1,Pounds,Trinidad And Tobago,India
+52,750,1932,0,1,Pounds,Trinidad And Tobago,India
+52,750,1933,0,1,Pounds,Trinidad And Tobago,India
+52,750,1934,0,1,Pounds,Trinidad And Tobago,India
+52,750,1935,0,1,$,Trinidad And Tobago,India
+52,750,1936,0,1,$,Trinidad And Tobago,India
+52,750,1937,1248960,1,$,Trinidad And Tobago,India
+52,750,1944,944359,1,$,Trinidad And Tobago,India
+52,750,1945,400575,1,$,Trinidad And Tobago,India
+52,750,1946,810096,1,$,Trinidad And Tobago,India
+52,750,1947,1603744,1,$,Trinidad And Tobago,India
+52,750,1948,1060951,1,$,Trinidad And Tobago,India
+52,750,1949,1574031,1,$,Trinidad And Tobago,India
+52,770,1920,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1921,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1922,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1923,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1924,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1925,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1926,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1927,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1928,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1929,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1930,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1931,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1932,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1933,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1934,0,1,Pounds,Trinidad And Tobago,Pakistan
+52,770,1935,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1936,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1937,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1944,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1945,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1946,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1947,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1948,0,1,$,Trinidad And Tobago,Pakistan
+52,770,1949,10715,1,$,Trinidad And Tobago,Pakistan
+52,775,1920,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1921,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1922,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1923,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1924,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1925,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1926,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1927,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1928,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1929,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1930,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1931,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1932,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1933,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1934,0,1,Pounds,Trinidad And Tobago,Myanmar
+52,775,1935,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1936,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1937,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1944,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1945,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1946,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1947,0,1,$,Trinidad And Tobago,Myanmar
+52,775,1948,2,1,$,Trinidad And Tobago,Myanmar
+52,775,1949,0,1,$,Trinidad And Tobago,Myanmar
+52,780,1920,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1921,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1922,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1923,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1924,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1925,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1926,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1927,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1928,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1929,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1930,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1931,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1932,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1933,0,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1934,177,1,Pounds,Trinidad And Tobago,Sri Lanka
+52,780,1935,55,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1936,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1937,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1944,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1945,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1946,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1947,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1948,0,1,$,Trinidad And Tobago,Sri Lanka
+52,780,1949,312032,1,$,Trinidad And Tobago,Sri Lanka
+52,800,1920,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1921,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1922,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1923,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1924,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1925,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1926,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1927,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1928,282,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1929,645,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1930,425,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1931,138,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1932,0,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1933,3326,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1934,6153,1,Pounds,Trinidad And Tobago,Thailand
+52,800,1935,15978,1,$,Trinidad And Tobago,Thailand
+52,800,1936,3963,1,$,Trinidad And Tobago,Thailand
+52,800,1937,118,1,$,Trinidad And Tobago,Thailand
+52,800,1944,0,1,$,Trinidad And Tobago,Thailand
+52,800,1945,0,1,$,Trinidad And Tobago,Thailand
+52,800,1946,0,1,$,Trinidad And Tobago,Thailand
+52,800,1947,0,1,$,Trinidad And Tobago,Thailand
+52,800,1948,0,1,$,Trinidad And Tobago,Thailand
+52,800,1949,261,1,$,Trinidad And Tobago,Thailand
+52,820,1920,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1921,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1922,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1923,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1924,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1925,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1926,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1927,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1928,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1929,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1930,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1931,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1932,0,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1933,2822,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1934,3382,1,Pounds,Trinidad And Tobago,Malaysia
+52,820,1935,6326,1,$,Trinidad And Tobago,Malaysia
+52,820,1936,0,1,$,Trinidad And Tobago,Malaysia
+52,820,1937,0,1,$,Trinidad And Tobago,Malaysia
+52,820,1944,0,1,$,Trinidad And Tobago,Malaysia
+52,820,1945,0,1,$,Trinidad And Tobago,Malaysia
+52,820,1946,0,1,$,Trinidad And Tobago,Malaysia
+52,820,1947,25547,1,$,Trinidad And Tobago,Malaysia
+52,820,1948,91720,1,$,Trinidad And Tobago,Malaysia
+52,820,1949,92590,1,$,Trinidad And Tobago,Malaysia
+52,824,1920,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1921,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1922,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1923,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1924,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1925,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1926,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1927,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1928,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1929,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1930,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1931,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1932,0,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1933,114,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1934,36,1,Pounds,Trinidad And Tobago,Sarawak
+52,824,1935,913,1,$,Trinidad And Tobago,Sarawak
+52,824,1936,116,1,$,Trinidad And Tobago,Sarawak
+52,824,1937,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1944,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1945,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1946,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1947,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1948,0,1,$,Trinidad And Tobago,Sarawak
+52,824,1949,0,1,$,Trinidad And Tobago,Sarawak
+52,827,1920,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1921,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1922,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1923,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1924,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1925,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1926,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1927,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1928,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1929,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1930,0,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1931,289,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1932,3004,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1933,3801,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1934,797,1,Pounds,Trinidad And Tobago,Straits Settlement
+52,827,1935,5028,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1936,14966,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1937,18448,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1944,0,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1945,0,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1946,21947,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1947,0,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1948,0,1,$,Trinidad And Tobago,Straits Settlement
+52,827,1949,0,1,$,Trinidad And Tobago,Straits Settlement
+52,840,1920,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1921,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1922,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1923,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1924,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1925,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1926,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1927,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1928,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1929,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1930,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1931,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1932,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1933,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1934,0,1,Pounds,Trinidad And Tobago,Philippines
+52,840,1935,0,1,$,Trinidad And Tobago,Philippines
+52,840,1936,15,1,$,Trinidad And Tobago,Philippines
+52,840,1937,0,1,$,Trinidad And Tobago,Philippines
+52,840,1944,0,1,$,Trinidad And Tobago,Philippines
+52,840,1945,0,1,$,Trinidad And Tobago,Philippines
+52,840,1946,0,1,$,Trinidad And Tobago,Philippines
+52,840,1947,0,1,$,Trinidad And Tobago,Philippines
+52,840,1948,0,1,$,Trinidad And Tobago,Philippines
+52,840,1949,55,1,$,Trinidad And Tobago,Philippines
+52,850,1920,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1921,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1922,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1923,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1924,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1925,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1926,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1927,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1928,20,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1929,62,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1930,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1931,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1932,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1933,0,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1934,181,1,Pounds,Trinidad And Tobago,Indonesia
+52,850,1935,2771,1,$,Trinidad And Tobago,Indonesia
+52,850,1936,2254,1,$,Trinidad And Tobago,Indonesia
+52,850,1937,613,1,$,Trinidad And Tobago,Indonesia
+52,850,1944,90,1,$,Trinidad And Tobago,Indonesia
+52,850,1945,0,1,$,Trinidad And Tobago,Indonesia
+52,850,1946,9099,1,$,Trinidad And Tobago,Indonesia
+52,850,1947,2658,1,$,Trinidad And Tobago,Indonesia
+52,850,1948,562,1,$,Trinidad And Tobago,Indonesia
+52,850,1949,71,1,$,Trinidad And Tobago,Indonesia
+52,900,1920,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1921,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1922,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1923,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1924,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1925,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1926,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1927,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1928,0,1,Pounds,Trinidad And Tobago,Australia
+52,900,1929,1367,1,Pounds,Trinidad And Tobago,Australia
+52,900,1930,2548,1,Pounds,Trinidad And Tobago,Australia
+52,900,1931,4914,1,Pounds,Trinidad And Tobago,Australia
+52,900,1932,9957,1,Pounds,Trinidad And Tobago,Australia
+52,900,1933,4574,1,Pounds,Trinidad And Tobago,Australia
+52,900,1934,6244,1,Pounds,Trinidad And Tobago,Australia
+52,900,1935,30445,1,$,Trinidad And Tobago,Australia
+52,900,1936,94246,1,$,Trinidad And Tobago,Australia
+52,900,1937,506910,1,$,Trinidad And Tobago,Australia
+52,900,1944,80438,1,$,Trinidad And Tobago,Australia
+52,900,1945,22749,1,$,Trinidad And Tobago,Australia
+52,900,1946,200299,1,$,Trinidad And Tobago,Australia
+52,900,1947,3006599,1,$,Trinidad And Tobago,Australia
+52,900,1948,3247453,1,$,Trinidad And Tobago,Australia
+52,900,1949,4499594,1,$,Trinidad And Tobago,Australia
+52,920,1920,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1921,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1922,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1923,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1924,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1925,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1926,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1927,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1928,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1929,123,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1930,0,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1931,7,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1932,580,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1933,159,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1934,11194,1,Pounds,Trinidad And Tobago,New Zealand
+52,920,1935,59851,1,$,Trinidad And Tobago,New Zealand
+52,920,1936,57164,1,$,Trinidad And Tobago,New Zealand
+52,920,1937,85362,1,$,Trinidad And Tobago,New Zealand
+52,920,1944,0,1,$,Trinidad And Tobago,New Zealand
+52,920,1945,35,1,$,Trinidad And Tobago,New Zealand
+52,920,1946,1817,1,$,Trinidad And Tobago,New Zealand
+52,920,1947,309,1,$,Trinidad And Tobago,New Zealand
+52,920,1948,77,1,$,Trinidad And Tobago,New Zealand
+52,920,1949,151197,1,$,Trinidad And Tobago,New Zealand
+52,1050,1920,84044,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1921,96045,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1922,81576,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1923,63165,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1924,58160,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1925,52046,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1926,87020,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1927,66293,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1928,54061,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1929,80618,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1930,79020,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1931,60425,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1932,63439,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1933,54762,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1934,38054,1,Pounds,Trinidad And Tobago,British West Indies
+52,1050,1935,135367,1,$,Trinidad And Tobago,British West Indies
+52,1050,1936,157855,1,$,Trinidad And Tobago,British West Indies
+52,1050,1937,196282,1,$,Trinidad And Tobago,British West Indies
+52,1050,1944,1027160,1,$,Trinidad And Tobago,British West Indies
+52,1050,1945,991239,1,$,Trinidad And Tobago,British West Indies
+52,1050,1946,944155,1,$,Trinidad And Tobago,British West Indies
+52,1050,1947,1011823,1,$,Trinidad And Tobago,British West Indies
+52,1050,1948,1110478,1,$,Trinidad And Tobago,British West Indies
+52,1050,1949,1252739,1,$,Trinidad And Tobago,British West Indies
+52,1060,1920,0,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1921,8049,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1922,2991,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1923,3986,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1924,870,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1925,2189,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1926,2884,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1927,4177,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1928,1911,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1929,4579,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1930,2719,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1931,2210,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1932,1651,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1933,1834,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1934,349,1,Pounds,Trinidad And Tobago,French West Indies
+52,1060,1935,1113,1,$,Trinidad And Tobago,French West Indies
+52,1060,1936,3012,1,$,Trinidad And Tobago,French West Indies
+52,1060,1937,7665,1,$,Trinidad And Tobago,French West Indies
+52,1060,1944,449,1,$,Trinidad And Tobago,French West Indies
+52,1060,1945,658,1,$,Trinidad And Tobago,French West Indies
+52,1060,1946,23081,1,$,Trinidad And Tobago,French West Indies
+52,1060,1947,26059,1,$,Trinidad And Tobago,French West Indies
+52,1060,1948,12449,1,$,Trinidad And Tobago,French West Indies
+52,1060,1949,49386,1,$,Trinidad And Tobago,French West Indies
+52,1163,1920,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1921,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1922,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1923,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1924,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1925,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1926,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1927,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1928,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1929,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1930,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1931,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1932,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1933,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1934,0,1,Pounds,Trinidad And Tobago,Falkland Islands
+52,1163,1935,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1936,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1937,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1944,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1945,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1946,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1947,0,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1948,34,1,$,Trinidad And Tobago,Falkland Islands
+52,1163,1949,24,1,$,Trinidad And Tobago,Falkland Islands
+52,2000,1920,2540,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1921,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1922,7204,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1923,290,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1924,1579,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1925,1185,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1926,2574,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1927,3,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1928,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1929,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1930,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1931,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1932,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1933,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1934,0,1,Pounds,Trinidad And Tobago,Other British possessions
+52,2000,1935,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1936,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1937,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1944,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1945,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1946,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1947,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1948,0,1,$,Trinidad And Tobago,Other British possessions
+52,2000,1949,0,1,$,Trinidad And Tobago,Other British possessions
+52,5200,1920,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1921,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1922,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1923,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1924,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1925,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1926,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1927,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1928,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1929,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1930,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1931,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1932,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1933,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1934,0,1,Pounds,Trinidad And Tobago,Italian Somaliland
+52,5200,1935,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1936,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1937,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1944,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1945,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1946,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1947,0,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1948,70,1,$,Trinidad And Tobago,Italian Somaliland
+52,5200,1949,69,1,$,Trinidad And Tobago,Italian Somaliland
+52,8501,1920,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1921,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1922,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1923,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1924,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1925,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1926,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1927,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1928,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1929,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1930,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1931,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1932,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1933,0,1,Pounds,Trinidad And Tobago,Java
+52,8501,1934,3,1,Pounds,Trinidad And Tobago,Java
+52,8501,1935,0,1,$,Trinidad And Tobago,Java
+52,8501,1936,0,1,$,Trinidad And Tobago,Java
+52,8501,1937,0,1,$,Trinidad And Tobago,Java
+52,8501,1944,0,1,$,Trinidad And Tobago,Java
+52,8501,1945,0,1,$,Trinidad And Tobago,Java
+52,8501,1946,0,1,$,Trinidad And Tobago,Java
+52,8501,1947,0,1,$,Trinidad And Tobago,Java
+52,8501,1948,0,1,$,Trinidad And Tobago,Java
+52,8501,1949,0,1,$,Trinidad And Tobago,Java
+52,8502,1920,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1921,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1922,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1923,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1924,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1925,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1926,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1927,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1928,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1929,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1930,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1931,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1932,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1933,0,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1934,6,1,Pounds,Trinidad And Tobago,Sumatra
+52,8502,1935,91,1,$,Trinidad And Tobago,Sumatra
+52,8502,1936,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1937,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1944,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1945,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1946,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1947,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1948,0,1,$,Trinidad And Tobago,Sumatra
+52,8502,1949,345,1,$,Trinidad And Tobago,Sumatra
+52,,1920,10056318,1,Pounds,Trinidad And Tobago,
+52,,1921,8336176,1,Pounds,Trinidad And Tobago,
+52,,1922,5890677,1,Pounds,Trinidad And Tobago,
+52,,1923,5577872,1,Pounds,Trinidad And Tobago,
+52,,1924,5578030,1,Pounds,Trinidad And Tobago,
+52,,1925,5766780,1,Pounds,Trinidad And Tobago,
+52,,1926,5746756,1,Pounds,Trinidad And Tobago,
+52,,1927,5410107,1,Pounds,Trinidad And Tobago,
+52,,1928,5277661,1,Pounds,Trinidad And Tobago,
+52,,1929,6016119,1,Pounds,Trinidad And Tobago,
+52,,1930,5376208,1,Pounds,Trinidad And Tobago,
+52,,1931,3923667,1,Pounds,Trinidad And Tobago,
+52,,1932,3740241,1,Pounds,Trinidad And Tobago,
+52,,1933,4091628,1,Pounds,Trinidad And Tobago,
+52,,1934,4606767,1,Pounds,Trinidad And Tobago,
+52,,1935,21695903,1,$,Trinidad And Tobago,
+52,,1936,27812834,1,$,Trinidad And Tobago,
+52,,1937,35295009,1,$,Trinidad And Tobago,
+52,,1944,68988522,1,$,Trinidad And Tobago,
+52,,1945,65030924,1,$,Trinidad And Tobago,
+52,,1946,75403038,1,$,Trinidad And Tobago,
+52,,1947,118783075,1,$,Trinidad And Tobago,
+52,,1948,131863491,1,$,Trinidad And Tobago,
+52,,1949,154221509,1,$,Trinidad And Tobago,

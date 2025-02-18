@@ -1,0 +1,460 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+591,Seychelles,2,United States,1930,29336,1,Rs
+591,Seychelles,2,United States,1931,1218,1,Rs
+591,Seychelles,2,United States,1932,1377,1,Rs
+591,Seychelles,2,United States,1933,6224,1,Rs
+591,Seychelles,2,United States,1934,2056,1,Rs
+591,Seychelles,2,United States,1935,5878,1,Rs
+591,Seychelles,2,United States,1936,9707,1,Rs
+591,Seychelles,2,United States,1937,17957,1,Rs
+591,Seychelles,2,United States,1938,8912,1,Rs
+591,Seychelles,20,Canada,1930,4253,1,Rs
+591,Seychelles,20,Canada,1931,1700,1,Rs
+591,Seychelles,20,Canada,1932,1460,1,Rs
+591,Seychelles,20,Canada,1933,811,1,Rs
+591,Seychelles,20,Canada,1934,1661,1,Rs
+591,Seychelles,20,Canada,1935,586,1,Rs
+591,Seychelles,20,Canada,1936,9993,1,Rs
+591,Seychelles,20,Canada,1937,7779,1,Rs
+591,Seychelles,20,Canada,1938,7594,1,Rs
+591,Seychelles,21,Newfoundland,1930,0,1,Rs
+591,Seychelles,21,Newfoundland,1931,0,1,Rs
+591,Seychelles,21,Newfoundland,1932,0,1,Rs
+591,Seychelles,21,Newfoundland,1933,0,1,Rs
+591,Seychelles,21,Newfoundland,1934,0,1,Rs
+591,Seychelles,21,Newfoundland,1935,46,1,Rs
+591,Seychelles,21,Newfoundland,1936,0,1,Rs
+591,Seychelles,21,Newfoundland,1937,52,1,Rs
+591,Seychelles,21,Newfoundland,1938,0,1,Rs
+591,Seychelles,51,Jamaica,1930,70,1,Rs
+591,Seychelles,51,Jamaica,1931,0,1,Rs
+591,Seychelles,51,Jamaica,1932,0,1,Rs
+591,Seychelles,51,Jamaica,1933,0,1,Rs
+591,Seychelles,51,Jamaica,1934,0,1,Rs
+591,Seychelles,51,Jamaica,1935,0,1,Rs
+591,Seychelles,51,Jamaica,1936,0,1,Rs
+591,Seychelles,51,Jamaica,1937,0,1,Rs
+591,Seychelles,51,Jamaica,1938,0,1,Rs
+591,Seychelles,160,Argentina,1930,0,1,Rs
+591,Seychelles,160,Argentina,1931,0,1,Rs
+591,Seychelles,160,Argentina,1932,0,1,Rs
+591,Seychelles,160,Argentina,1933,436,1,Rs
+591,Seychelles,160,Argentina,1934,468,1,Rs
+591,Seychelles,160,Argentina,1935,856,1,Rs
+591,Seychelles,160,Argentina,1936,1164,1,Rs
+591,Seychelles,160,Argentina,1937,1449,1,Rs
+591,Seychelles,160,Argentina,1938,1400,1,Rs
+591,Seychelles,200,United Kingdom,1930,530054,1,Rs
+591,Seychelles,200,United Kingdom,1931,326107,1,Rs
+591,Seychelles,200,United Kingdom,1932,273166,1,Rs
+591,Seychelles,200,United Kingdom,1933,256478,1,Rs
+591,Seychelles,200,United Kingdom,1934,295301,1,Rs
+591,Seychelles,200,United Kingdom,1935,302449,1,Rs
+591,Seychelles,200,United Kingdom,1936,438405,1,Rs
+591,Seychelles,200,United Kingdom,1937,452607,1,Rs
+591,Seychelles,200,United Kingdom,1938,415524,1,Rs
+591,Seychelles,205,Ireland,1930,0,1,Rs
+591,Seychelles,205,Ireland,1931,0,1,Rs
+591,Seychelles,205,Ireland,1932,0,1,Rs
+591,Seychelles,205,Ireland,1933,0,1,Rs
+591,Seychelles,205,Ireland,1934,870,1,Rs
+591,Seychelles,205,Ireland,1935,520,1,Rs
+591,Seychelles,205,Ireland,1936,422,1,Rs
+591,Seychelles,205,Ireland,1937,150,1,Rs
+591,Seychelles,205,Ireland,1938,199,1,Rs
+591,Seychelles,210,Netherlands,1930,7832,1,Rs
+591,Seychelles,210,Netherlands,1931,6595,1,Rs
+591,Seychelles,210,Netherlands,1932,6035,1,Rs
+591,Seychelles,210,Netherlands,1933,1968,1,Rs
+591,Seychelles,210,Netherlands,1934,1465,1,Rs
+591,Seychelles,210,Netherlands,1935,2779,1,Rs
+591,Seychelles,210,Netherlands,1936,3975,1,Rs
+591,Seychelles,210,Netherlands,1937,8429,1,Rs
+591,Seychelles,210,Netherlands,1938,5176,1,Rs
+591,Seychelles,211,Belgium,1930,3835,1,Rs
+591,Seychelles,211,Belgium,1931,2064,1,Rs
+591,Seychelles,211,Belgium,1932,5449,1,Rs
+591,Seychelles,211,Belgium,1933,3037,1,Rs
+591,Seychelles,211,Belgium,1934,2746,1,Rs
+591,Seychelles,211,Belgium,1935,6493,1,Rs
+591,Seychelles,211,Belgium,1936,3189,1,Rs
+591,Seychelles,211,Belgium,1937,2391,1,Rs
+591,Seychelles,211,Belgium,1938,4342,1,Rs
+591,Seychelles,212,Luxembourg,1930,0,1,Rs
+591,Seychelles,212,Luxembourg,1931,0,1,Rs
+591,Seychelles,212,Luxembourg,1932,0,1,Rs
+591,Seychelles,212,Luxembourg,1933,0,1,Rs
+591,Seychelles,212,Luxembourg,1934,0,1,Rs
+591,Seychelles,212,Luxembourg,1935,0,1,Rs
+591,Seychelles,212,Luxembourg,1936,0,1,Rs
+591,Seychelles,212,Luxembourg,1937,203,1,Rs
+591,Seychelles,212,Luxembourg,1938,0,1,Rs
+591,Seychelles,220,France,1930,127205,1,Rs
+591,Seychelles,220,France,1931,85223,1,Rs
+591,Seychelles,220,France,1932,60360,1,Rs
+591,Seychelles,220,France,1933,38743,1,Rs
+591,Seychelles,220,France,1934,44102,1,Rs
+591,Seychelles,220,France,1935,35942,1,Rs
+591,Seychelles,220,France,1936,41271,1,Rs
+591,Seychelles,220,France,1937,48380,1,Rs
+591,Seychelles,220,France,1938,40485,1,Rs
+591,Seychelles,225,Switzerland,1930,4199,1,Rs
+591,Seychelles,225,Switzerland,1931,1889,1,Rs
+591,Seychelles,225,Switzerland,1932,490,1,Rs
+591,Seychelles,225,Switzerland,1933,1904,1,Rs
+591,Seychelles,225,Switzerland,1934,4676,1,Rs
+591,Seychelles,225,Switzerland,1935,540,1,Rs
+591,Seychelles,225,Switzerland,1936,1152,1,Rs
+591,Seychelles,225,Switzerland,1937,1541,1,Rs
+591,Seychelles,225,Switzerland,1938,568,1,Rs
+591,Seychelles,230,Spain,1930,28784,1,Rs
+591,Seychelles,230,Spain,1931,25960,1,Rs
+591,Seychelles,230,Spain,1932,13596,1,Rs
+591,Seychelles,230,Spain,1933,11231,1,Rs
+591,Seychelles,230,Spain,1934,9308,1,Rs
+591,Seychelles,230,Spain,1935,6789,1,Rs
+591,Seychelles,230,Spain,1936,8811,1,Rs
+591,Seychelles,230,Spain,1937,6202,1,Rs
+591,Seychelles,230,Spain,1938,4513,1,Rs
+591,Seychelles,235,Portugal,1930,1041,1,Rs
+591,Seychelles,235,Portugal,1931,350,1,Rs
+591,Seychelles,235,Portugal,1932,318,1,Rs
+591,Seychelles,235,Portugal,1933,729,1,Rs
+591,Seychelles,235,Portugal,1934,370,1,Rs
+591,Seychelles,235,Portugal,1935,583,1,Rs
+591,Seychelles,235,Portugal,1936,1159,1,Rs
+591,Seychelles,235,Portugal,1937,1353,1,Rs
+591,Seychelles,235,Portugal,1938,4061,1,Rs
+591,Seychelles,255,Germany,1930,18312,1,Rs
+591,Seychelles,255,Germany,1931,14351,1,Rs
+591,Seychelles,255,Germany,1932,11979,1,Rs
+591,Seychelles,255,Germany,1933,11420,1,Rs
+591,Seychelles,255,Germany,1934,10270,1,Rs
+591,Seychelles,255,Germany,1935,9558,1,Rs
+591,Seychelles,255,Germany,1936,10496,1,Rs
+591,Seychelles,255,Germany,1937,16021,1,Rs
+591,Seychelles,255,Germany,1938,17849,1,Rs
+591,Seychelles,305,Austria,1930,150,1,Rs
+591,Seychelles,305,Austria,1931,732,1,Rs
+591,Seychelles,305,Austria,1932,0,1,Rs
+591,Seychelles,305,Austria,1933,222,1,Rs
+591,Seychelles,305,Austria,1934,460,1,Rs
+591,Seychelles,305,Austria,1935,417,1,Rs
+591,Seychelles,305,Austria,1936,850,1,Rs
+591,Seychelles,305,Austria,1937,1121,1,Rs
+591,Seychelles,305,Austria,1938,372,1,Rs
+591,Seychelles,315,Czechoslovakia,1930,5157,1,Rs
+591,Seychelles,315,Czechoslovakia,1931,3572,1,Rs
+591,Seychelles,315,Czechoslovakia,1932,1771,1,Rs
+591,Seychelles,315,Czechoslovakia,1933,4018,1,Rs
+591,Seychelles,315,Czechoslovakia,1934,884,1,Rs
+591,Seychelles,315,Czechoslovakia,1935,1000,1,Rs
+591,Seychelles,315,Czechoslovakia,1936,1447,1,Rs
+591,Seychelles,315,Czechoslovakia,1937,1498,1,Rs
+591,Seychelles,315,Czechoslovakia,1938,1060,1,Rs
+591,Seychelles,325,Italy,1930,3336,1,Rs
+591,Seychelles,325,Italy,1931,3662,1,Rs
+591,Seychelles,325,Italy,1932,865,1,Rs
+591,Seychelles,325,Italy,1933,2862,1,Rs
+591,Seychelles,325,Italy,1934,2735,1,Rs
+591,Seychelles,325,Italy,1935,1726,1,Rs
+591,Seychelles,325,Italy,1936,335,1,Rs
+591,Seychelles,325,Italy,1937,4994,1,Rs
+591,Seychelles,325,Italy,1938,1985,1,Rs
+591,Seychelles,345,Yugoslavia,1930,0,1,Rs
+591,Seychelles,345,Yugoslavia,1931,0,1,Rs
+591,Seychelles,345,Yugoslavia,1932,0,1,Rs
+591,Seychelles,345,Yugoslavia,1933,0,1,Rs
+591,Seychelles,345,Yugoslavia,1934,188,1,Rs
+591,Seychelles,345,Yugoslavia,1935,0,1,Rs
+591,Seychelles,345,Yugoslavia,1936,400,1,Rs
+591,Seychelles,345,Yugoslavia,1937,0,1,Rs
+591,Seychelles,345,Yugoslavia,1938,0,1,Rs
+591,Seychelles,350,Greece,1930,0,1,Rs
+591,Seychelles,350,Greece,1931,0,1,Rs
+591,Seychelles,350,Greece,1932,0,1,Rs
+591,Seychelles,350,Greece,1933,214,1,Rs
+591,Seychelles,350,Greece,1934,169,1,Rs
+591,Seychelles,350,Greece,1935,272,1,Rs
+591,Seychelles,350,Greece,1936,192,1,Rs
+591,Seychelles,350,Greece,1937,336,1,Rs
+591,Seychelles,350,Greece,1938,181,1,Rs
+591,Seychelles,352,Cyprus,1930,0,1,Rs
+591,Seychelles,352,Cyprus,1931,0,1,Rs
+591,Seychelles,352,Cyprus,1932,0,1,Rs
+591,Seychelles,352,Cyprus,1933,0,1,Rs
+591,Seychelles,352,Cyprus,1934,0,1,Rs
+591,Seychelles,352,Cyprus,1935,585,1,Rs
+591,Seychelles,352,Cyprus,1936,322,1,Rs
+591,Seychelles,352,Cyprus,1937,0,1,Rs
+591,Seychelles,352,Cyprus,1938,0,1,Rs
+591,Seychelles,365,Russia,1930,0,1,Rs
+591,Seychelles,365,Russia,1931,1062,1,Rs
+591,Seychelles,365,Russia,1932,0,1,Rs
+591,Seychelles,365,Russia,1933,0,1,Rs
+591,Seychelles,365,Russia,1934,335,1,Rs
+591,Seychelles,365,Russia,1935,280,1,Rs
+591,Seychelles,365,Russia,1936,412,1,Rs
+591,Seychelles,365,Russia,1937,76,1,Rs
+591,Seychelles,365,Russia,1938,64,1,Rs
+591,Seychelles,380,Sweden,1930,2753,1,Rs
+591,Seychelles,380,Sweden,1931,3847,1,Rs
+591,Seychelles,380,Sweden,1932,3384,1,Rs
+591,Seychelles,380,Sweden,1933,4668,1,Rs
+591,Seychelles,380,Sweden,1934,3473,1,Rs
+591,Seychelles,380,Sweden,1935,3774,1,Rs
+591,Seychelles,380,Sweden,1936,5236,1,Rs
+591,Seychelles,380,Sweden,1937,5876,1,Rs
+591,Seychelles,380,Sweden,1938,7910,1,Rs
+591,Seychelles,385,Norway,1930,4714,1,Rs
+591,Seychelles,385,Norway,1931,9212,1,Rs
+591,Seychelles,385,Norway,1932,2195,1,Rs
+591,Seychelles,385,Norway,1933,5734,1,Rs
+591,Seychelles,385,Norway,1934,2339,1,Rs
+591,Seychelles,385,Norway,1935,1444,1,Rs
+591,Seychelles,385,Norway,1936,2312,1,Rs
+591,Seychelles,385,Norway,1937,1128,1,Rs
+591,Seychelles,385,Norway,1938,3584,1,Rs
+591,Seychelles,390,Denmark,1930,3532,1,Rs
+591,Seychelles,390,Denmark,1931,915,1,Rs
+591,Seychelles,390,Denmark,1932,2057,1,Rs
+591,Seychelles,390,Denmark,1933,3057,1,Rs
+591,Seychelles,390,Denmark,1934,696,1,Rs
+591,Seychelles,390,Denmark,1935,0,1,Rs
+591,Seychelles,390,Denmark,1936,0,1,Rs
+591,Seychelles,390,Denmark,1937,393,1,Rs
+591,Seychelles,390,Denmark,1938,1415,1,Rs
+591,Seychelles,501,Kenya,1930,12778,1,Rs
+591,Seychelles,501,Kenya,1931,9654,1,Rs
+591,Seychelles,501,Kenya,1932,17784,1,Rs
+591,Seychelles,501,Kenya,1933,13305,1,Rs
+591,Seychelles,501,Kenya,1934,12154,1,Rs
+591,Seychelles,501,Kenya,1935,11471,1,Rs
+591,Seychelles,501,Kenya,1936,12810,1,Rs
+591,Seychelles,501,Kenya,1937,16568,1,Rs
+591,Seychelles,501,Kenya,1938,16579,1,Rs
+591,Seychelles,510,Tanzania,1930,0,1,Rs
+591,Seychelles,510,Tanzania,1931,0,1,Rs
+591,Seychelles,510,Tanzania,1932,0,1,Rs
+591,Seychelles,510,Tanzania,1933,0,1,Rs
+591,Seychelles,510,Tanzania,1934,0,1,Rs
+591,Seychelles,510,Tanzania,1935,0,1,Rs
+591,Seychelles,510,Tanzania,1936,0,1,Rs
+591,Seychelles,510,Tanzania,1937,168,1,Rs
+591,Seychelles,510,Tanzania,1938,0,1,Rs
+591,Seychelles,553,Malawi,1930,0,1,Rs
+591,Seychelles,553,Malawi,1931,0,1,Rs
+591,Seychelles,553,Malawi,1932,0,1,Rs
+591,Seychelles,553,Malawi,1933,0,1,Rs
+591,Seychelles,553,Malawi,1934,0,1,Rs
+591,Seychelles,553,Malawi,1935,0,1,Rs
+591,Seychelles,553,Malawi,1936,765,1,Rs
+591,Seychelles,553,Malawi,1937,498,1,Rs
+591,Seychelles,553,Malawi,1938,735,1,Rs
+591,Seychelles,554,Rhodesia,1930,0,1,Rs
+591,Seychelles,554,Rhodesia,1931,0,1,Rs
+591,Seychelles,554,Rhodesia,1932,0,1,Rs
+591,Seychelles,554,Rhodesia,1933,0,1,Rs
+591,Seychelles,554,Rhodesia,1934,0,1,Rs
+591,Seychelles,554,Rhodesia,1935,547,1,Rs
+591,Seychelles,554,Rhodesia,1936,0,1,Rs
+591,Seychelles,554,Rhodesia,1937,138,1,Rs
+591,Seychelles,554,Rhodesia,1938,0,1,Rs
+591,Seychelles,573,British South Africa,1930,1502,1,Rs
+591,Seychelles,573,British South Africa,1931,2390,1,Rs
+591,Seychelles,573,British South Africa,1932,254,1,Rs
+591,Seychelles,573,British South Africa,1933,781,1,Rs
+591,Seychelles,573,British South Africa,1934,1688,1,Rs
+591,Seychelles,573,British South Africa,1935,897,1,Rs
+591,Seychelles,573,British South Africa,1936,1624,1,Rs
+591,Seychelles,573,British South Africa,1937,1294,1,Rs
+591,Seychelles,573,British South Africa,1938,1255,1,Rs
+591,Seychelles,590,Mauritius,1930,10960,1,Rs
+591,Seychelles,590,Mauritius,1931,2225,1,Rs
+591,Seychelles,590,Mauritius,1932,3159,1,Rs
+591,Seychelles,590,Mauritius,1933,3452,1,Rs
+591,Seychelles,590,Mauritius,1934,3274,1,Rs
+591,Seychelles,590,Mauritius,1935,3716,1,Rs
+591,Seychelles,590,Mauritius,1936,5176,1,Rs
+591,Seychelles,590,Mauritius,1937,6629,1,Rs
+591,Seychelles,590,Mauritius,1938,6026,1,Rs
+591,Seychelles,630,Iran,1930,0,1,Rs
+591,Seychelles,630,Iran,1931,0,1,Rs
+591,Seychelles,630,Iran,1932,450,1,Rs
+591,Seychelles,630,Iran,1933,466,1,Rs
+591,Seychelles,630,Iran,1934,755,1,Rs
+591,Seychelles,630,Iran,1935,2190,1,Rs
+591,Seychelles,630,Iran,1936,4807,1,Rs
+591,Seychelles,630,Iran,1937,10176,1,Rs
+591,Seychelles,630,Iran,1938,11388,1,Rs
+591,Seychelles,640,Turkey,1930,0,1,Rs
+591,Seychelles,640,Turkey,1931,0,1,Rs
+591,Seychelles,640,Turkey,1932,0,1,Rs
+591,Seychelles,640,Turkey,1933,44,1,Rs
+591,Seychelles,640,Turkey,1934,52,1,Rs
+591,Seychelles,640,Turkey,1935,36,1,Rs
+591,Seychelles,640,Turkey,1936,20,1,Rs
+591,Seychelles,640,Turkey,1937,43,1,Rs
+591,Seychelles,640,Turkey,1938,60,1,Rs
+591,Seychelles,645,Iraq,1930,0,1,Rs
+591,Seychelles,645,Iraq,1931,0,1,Rs
+591,Seychelles,645,Iraq,1932,0,1,Rs
+591,Seychelles,645,Iraq,1933,128,1,Rs
+591,Seychelles,645,Iraq,1934,392,1,Rs
+591,Seychelles,645,Iraq,1935,376,1,Rs
+591,Seychelles,645,Iraq,1936,472,1,Rs
+591,Seychelles,645,Iraq,1937,475,1,Rs
+591,Seychelles,645,Iraq,1938,316,1,Rs
+591,Seychelles,651,Egypt,1930,32906,1,Rs
+591,Seychelles,651,Egypt,1931,5531,1,Rs
+591,Seychelles,651,Egypt,1932,5168,1,Rs
+591,Seychelles,651,Egypt,1933,0,1,Rs
+591,Seychelles,651,Egypt,1934,1580,1,Rs
+591,Seychelles,651,Egypt,1935,290,1,Rs
+591,Seychelles,651,Egypt,1936,0,1,Rs
+591,Seychelles,651,Egypt,1937,0,1,Rs
+591,Seychelles,651,Egypt,1938,0,1,Rs
+591,Seychelles,675,Arabia,1930,37275,1,Rs
+591,Seychelles,675,Arabia,1931,16283,1,Rs
+591,Seychelles,675,Arabia,1932,15661,1,Rs
+591,Seychelles,675,Arabia,1933,21250,1,Rs
+591,Seychelles,675,Arabia,1934,18006,1,Rs
+591,Seychelles,675,Arabia,1935,16342,1,Rs
+591,Seychelles,675,Arabia,1936,15220,1,Rs
+591,Seychelles,675,Arabia,1937,11192,1,Rs
+591,Seychelles,675,Arabia,1938,11195,1,Rs
+591,Seychelles,681,Aden,1930,0,1,Rs
+591,Seychelles,681,Aden,1931,0,1,Rs
+591,Seychelles,681,Aden,1932,1415,1,Rs
+591,Seychelles,681,Aden,1933,595,1,Rs
+591,Seychelles,681,Aden,1934,0,1,Rs
+591,Seychelles,681,Aden,1935,0,1,Rs
+591,Seychelles,681,Aden,1936,0,1,Rs
+591,Seychelles,681,Aden,1937,0,1,Rs
+591,Seychelles,681,Aden,1938,0,1,Rs
+591,Seychelles,710,China,1930,6034,1,Rs
+591,Seychelles,710,China,1931,0,1,Rs
+591,Seychelles,710,China,1932,0,1,Rs
+591,Seychelles,710,China,1933,697,1,Rs
+591,Seychelles,710,China,1934,68,1,Rs
+591,Seychelles,710,China,1935,837,1,Rs
+591,Seychelles,710,China,1936,52,1,Rs
+591,Seychelles,710,China,1937,1020,1,Rs
+591,Seychelles,710,China,1938,997,1,Rs
+591,Seychelles,720,Hong Kong,1930,0,1,Rs
+591,Seychelles,720,Hong Kong,1931,15135,1,Rs
+591,Seychelles,720,Hong Kong,1932,11161,1,Rs
+591,Seychelles,720,Hong Kong,1933,7879,1,Rs
+591,Seychelles,720,Hong Kong,1934,7010,1,Rs
+591,Seychelles,720,Hong Kong,1935,3857,1,Rs
+591,Seychelles,720,Hong Kong,1936,2838,1,Rs
+591,Seychelles,720,Hong Kong,1937,12574,1,Rs
+591,Seychelles,720,Hong Kong,1938,7800,1,Rs
+591,Seychelles,740,Japan,1930,77672,1,Rs
+591,Seychelles,740,Japan,1931,44710,1,Rs
+591,Seychelles,740,Japan,1932,93878,1,Rs
+591,Seychelles,740,Japan,1933,63039,1,Rs
+591,Seychelles,740,Japan,1934,54746,1,Rs
+591,Seychelles,740,Japan,1935,53652,1,Rs
+591,Seychelles,740,Japan,1936,59443,1,Rs
+591,Seychelles,740,Japan,1937,63645,1,Rs
+591,Seychelles,740,Japan,1938,45405,1,Rs
+591,Seychelles,750,India,1930,564814,1,Rs
+591,Seychelles,750,India,1931,373247,1,Rs
+591,Seychelles,750,India,1932,358358,1,Rs
+591,Seychelles,750,India,1933,247003,1,Rs
+591,Seychelles,750,India,1934,235022,1,Rs
+591,Seychelles,750,India,1935,311406,1,Rs
+591,Seychelles,750,India,1936,380899,1,Rs
+591,Seychelles,750,India,1937,413855,1,Rs
+591,Seychelles,750,India,1938,263737,1,Rs
+591,Seychelles,775,Myanmar,1930,0,1,Rs
+591,Seychelles,775,Myanmar,1931,0,1,Rs
+591,Seychelles,775,Myanmar,1932,0,1,Rs
+591,Seychelles,775,Myanmar,1933,0,1,Rs
+591,Seychelles,775,Myanmar,1934,0,1,Rs
+591,Seychelles,775,Myanmar,1935,0,1,Rs
+591,Seychelles,775,Myanmar,1936,0,1,Rs
+591,Seychelles,775,Myanmar,1937,0,1,Rs
+591,Seychelles,775,Myanmar,1938,117182,1,Rs
+591,Seychelles,780,Sri Lanka,1930,682,1,Rs
+591,Seychelles,780,Sri Lanka,1931,3074,1,Rs
+591,Seychelles,780,Sri Lanka,1932,1457,1,Rs
+591,Seychelles,780,Sri Lanka,1933,496,1,Rs
+591,Seychelles,780,Sri Lanka,1934,875,1,Rs
+591,Seychelles,780,Sri Lanka,1935,574,1,Rs
+591,Seychelles,780,Sri Lanka,1936,986,1,Rs
+591,Seychelles,780,Sri Lanka,1937,972,1,Rs
+591,Seychelles,780,Sri Lanka,1938,4211,1,Rs
+591,Seychelles,823,British Borneo,1930,0,1,Rs
+591,Seychelles,823,British Borneo,1931,0,1,Rs
+591,Seychelles,823,British Borneo,1932,0,1,Rs
+591,Seychelles,823,British Borneo,1933,0,1,Rs
+591,Seychelles,823,British Borneo,1934,0,1,Rs
+591,Seychelles,823,British Borneo,1935,2236,1,Rs
+591,Seychelles,823,British Borneo,1936,68,1,Rs
+591,Seychelles,823,British Borneo,1937,386,1,Rs
+591,Seychelles,823,British Borneo,1938,0,1,Rs
+591,Seychelles,830,Singapore,1930,583,1,Rs
+591,Seychelles,830,Singapore,1931,1891,1,Rs
+591,Seychelles,830,Singapore,1932,2210,1,Rs
+591,Seychelles,830,Singapore,1933,61,1,Rs
+591,Seychelles,830,Singapore,1934,946,1,Rs
+591,Seychelles,830,Singapore,1935,147,1,Rs
+591,Seychelles,830,Singapore,1936,134,1,Rs
+591,Seychelles,830,Singapore,1937,370,1,Rs
+591,Seychelles,830,Singapore,1938,699,1,Rs
+591,Seychelles,900,Australia,1930,499,1,Rs
+591,Seychelles,900,Australia,1931,1151,1,Rs
+591,Seychelles,900,Australia,1932,1905,1,Rs
+591,Seychelles,900,Australia,1933,16850,1,Rs
+591,Seychelles,900,Australia,1934,21542,1,Rs
+591,Seychelles,900,Australia,1935,33009,1,Rs
+591,Seychelles,900,Australia,1936,23000,1,Rs
+591,Seychelles,900,Australia,1937,38435,1,Rs
+591,Seychelles,900,Australia,1938,38426,1,Rs
+591,Seychelles,920,New Zealand,1930,818,1,Rs
+591,Seychelles,920,New Zealand,1931,236,1,Rs
+591,Seychelles,920,New Zealand,1932,0,1,Rs
+591,Seychelles,920,New Zealand,1933,296,1,Rs
+591,Seychelles,920,New Zealand,1934,0,1,Rs
+591,Seychelles,920,New Zealand,1935,0,1,Rs
+591,Seychelles,920,New Zealand,1936,0,1,Rs
+591,Seychelles,920,New Zealand,1937,19,1,Rs
+591,Seychelles,920,New Zealand,1938,20,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1930,93665,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1931,87654,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1932,80486,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1933,52417,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1934,35157,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1935,32375,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1936,43499,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1937,69320,1,Rs
+591,Seychelles,2100,Other Dutch possessions,1938,56878,1,Rs
+591,Seychelles,2200,Other French possessions,1930,16326,1,Rs
+591,Seychelles,2200,Other French possessions,1931,7359,1,Rs
+591,Seychelles,2200,Other French possessions,1932,6103,1,Rs
+591,Seychelles,2200,Other French possessions,1933,7039,1,Rs
+591,Seychelles,2200,Other French possessions,1934,12654,1,Rs
+591,Seychelles,2200,Other French possessions,1935,1154,1,Rs
+591,Seychelles,2200,Other French possessions,1936,1250,1,Rs
+591,Seychelles,2200,Other French possessions,1937,110,1,Rs
+591,Seychelles,2200,Other French possessions,1938,1381,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1930,0,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1931,10959,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1932,24160,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1933,45389,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1934,33460,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1935,33755,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1936,37828,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1937,35528,1,Rs
+591,Seychelles,2350,Other Portuguese possessions,1938,25650,1,Rs
+591,Seychelles,,,1930,1631077,1,Rs
+591,Seychelles,,,1931,1069958,1,Rs
+591,Seychelles,,,1932,1008111,1,Rs
+591,Seychelles,,,1933,834943,1,Rs
+591,Seychelles,,,1934,823953,1,Rs
+591,Seychelles,,,1935,891384,1,Rs
+591,Seychelles,,,1936,1132141,1,Rs
+591,Seychelles,,,1937,1263351,1,Rs
+591,Seychelles,,,1938,1137134,1,Rs

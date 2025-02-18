@@ -1,0 +1,2488 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+255,2,1906,1236351,1000,Marks,Germany,United States
+255,2,1907,1319268,1000,Marks,Germany,United States
+255,2,1908,1282610,1000,Marks,Germany,United States
+255,2,1909,1262563,1000,Marks,Germany,United States
+255,2,1910,1187613,1000,Marks,Germany,United States
+255,2,1911,1343387,1000,Marks,Germany,United States
+255,2,1912,1585984,1000,Marks,Germany,United States
+255,2,1920,28194.3,1000000,Millionen Papiermarf,Germany,United States
+255,2,1923,1171698,1000,1000 Rm,Germany,United States
+255,2,1924,1754402,1000,1000 Rm,Germany,United States
+255,2,1925,2560529,1000,1000 Rm,Germany,United States
+255,2,1926,1602120,1000,1000 Rm,Germany,United States
+255,2,1927,2072893,1000,1000 Rm,Germany,United States
+255,2,1928,2026.2,1000000,Million Rm,Germany,United States
+255,2,1929,1787805,1000,1000 Rm,Germany,United States
+255,2,1930,1306768,1000,1000 Rm,Germany,United States
+255,2,1931,791436,1000,1000 Rm,Germany,United States
+255,2,1932,591805,1000,1000 Rm,Germany,United States
+255,2,1933,482772,1000,1000 Rm,Germany,United States
+255,2,1934,372679,1000,1000 Rm,Germany,United States
+255,2,1935,240679,1000,1000 Rm,Germany,United States
+255,2,1936,232228,1000,1000 Rm,Germany,United States
+255,2,1937,281899,1000,1000 Rm,Germany,United States
+255,2,1938,404577,1000,1000 Rm,Germany,United States
+255,2,1939,197847,1000,1000 Rm,Germany,United States
+255,2,1940,15822,1000,1000 Rm,Germany,United States
+255,4,1906,0,1000,Marks,Germany,Hawaii
+255,4,1907,0,1000,Marks,Germany,Hawaii
+255,4,1908,0,1000,Marks,Germany,Hawaii
+255,4,1909,0,1000,Marks,Germany,Hawaii
+255,4,1910,0,1000,Marks,Germany,Hawaii
+255,4,1911,0,1000,Marks,Germany,Hawaii
+255,4,1912,0,1000,Marks,Germany,Hawaii
+255,4,1920,0,1000000,Millionen Papiermarf,Germany,Hawaii
+255,4,1923,4,1000,1000 Rm,Germany,Hawaii
+255,4,1924,652,1000,1000 Rm,Germany,Hawaii
+255,4,1925,0,1000,1000 Rm,Germany,Hawaii
+255,4,1926,0,1000,1000 Rm,Germany,Hawaii
+255,4,1927,0,1000,1000 Rm,Germany,Hawaii
+255,4,1928,0,1000000,Million Rm,Germany,Hawaii
+255,4,1929,0,1000,1000 Rm,Germany,Hawaii
+255,4,1930,0,1000,1000 Rm,Germany,Hawaii
+255,4,1931,0,1000,1000 Rm,Germany,Hawaii
+255,4,1932,0,1000,1000 Rm,Germany,Hawaii
+255,4,1933,0,1000,1000 Rm,Germany,Hawaii
+255,4,1934,0,1000,1000 Rm,Germany,Hawaii
+255,4,1935,0,1000,1000 Rm,Germany,Hawaii
+255,4,1936,0,1000,1000 Rm,Germany,Hawaii
+255,4,1937,96,1000,1000 Rm,Germany,Hawaii
+255,4,1938,30,1000,1000 Rm,Germany,Hawaii
+255,4,1939,15,1000,1000 Rm,Germany,Hawaii
+255,4,1940,5,1000,1000 Rm,Germany,Hawaii
+255,20,1906,9423,1000,Marks,Germany,Canada
+255,20,1907,9826,1000,Marks,Germany,Canada
+255,20,1908,7076,1000,Marks,Germany,Canada
+255,20,1909,8389,1000,Marks,Germany,Canada
+255,20,1910,10636,1000,Marks,Germany,Canada
+255,20,1911,23956,1000,Marks,Germany,Canada
+255,20,1912,58130,1000,Marks,Germany,Canada
+255,20,1920,124.6,1000000,Millionen Papiermarf,Germany,Canada
+255,20,1923,12216,1000,1000 Rm,Germany,Canada
+255,20,1924,47421,1000,1000 Rm,Germany,Canada
+255,20,1925,160061,1000,1000 Rm,Germany,Canada
+255,20,1926,262142,1000,1000 Rm,Germany,Canada
+255,20,1927,385926,1000,1000 Rm,Germany,Canada
+255,20,1928,375.5,1000000,Million Rm,Germany,Canada
+255,20,1929,301612,1000,1000 Rm,Germany,Canada
+255,20,1930,132642,1000,1000 Rm,Germany,Canada
+255,20,1931,99095,1000,1000 Rm,Germany,Canada
+255,20,1932,64888,1000,1000 Rm,Germany,Canada
+255,20,1933,79256,1000,1000 Rm,Germany,Canada
+255,20,1934,62758,1000,1000 Rm,Germany,Canada
+255,20,1935,12335,1000,1000 Rm,Germany,Canada
+255,20,1936,18757,1000,1000 Rm,Germany,Canada
+255,20,1937,48725,1000,1000 Rm,Germany,Canada
+255,20,1938,72791,1000,1000 Rm,Germany,Canada
+255,20,1939,0,1000,1000 Rm,Germany,Canada
+255,20,1940,0,1000,1000 Rm,Germany,Canada
+255,21,1906,0,1000,Marks,Germany,Newfoundland
+255,21,1907,0,1000,Marks,Germany,Newfoundland
+255,21,1908,0,1000,Marks,Germany,Newfoundland
+255,21,1909,0,1000,Marks,Germany,Newfoundland
+255,21,1910,0,1000,Marks,Germany,Newfoundland
+255,21,1911,0,1000,Marks,Germany,Newfoundland
+255,21,1912,0,1000,Marks,Germany,Newfoundland
+255,21,1920,112.3,1000000,Millionen Papiermarf,Germany,Newfoundland
+255,21,1923,13145,1000,1000 Rm,Germany,Newfoundland
+255,21,1924,12412,1000,1000 Rm,Germany,Newfoundland
+255,21,1925,23241,1000,1000 Rm,Germany,Newfoundland
+255,21,1926,19299,1000,1000 Rm,Germany,Newfoundland
+255,21,1927,68002,1000,1000 Rm,Germany,Newfoundland
+255,21,1928,0,1000000,Million Rm,Germany,Newfoundland
+255,21,1929,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1930,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1931,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1932,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1933,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1934,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1935,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1936,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1937,15407,1000,1000 Rm,Germany,Newfoundland
+255,21,1938,18630,1000,1000 Rm,Germany,Newfoundland
+255,21,1939,0,1000,1000 Rm,Germany,Newfoundland
+255,21,1940,0,1000,1000 Rm,Germany,Newfoundland
+255,40,1906,13987,1000,Marks,Germany,Cuba
+255,40,1907,11617,1000,Marks,Germany,Cuba
+255,40,1908,9692,1000,Marks,Germany,Cuba
+255,40,1909,10364,1000,Marks,Germany,Cuba
+255,40,1910,8568,1000,Marks,Germany,Cuba
+255,40,1911,9712,1000,Marks,Germany,Cuba
+255,40,1912,11500,1000,Marks,Germany,Cuba
+255,40,1920,0,1000000,Millionen Papiermarf,Germany,Cuba
+255,40,1923,1764,1000,1000 Rm,Germany,Cuba
+255,40,1924,2329,1000,1000 Rm,Germany,Cuba
+255,40,1925,6931,1000,1000 Rm,Germany,Cuba
+255,40,1926,8819,1000,1000 Rm,Germany,Cuba
+255,40,1927,10243,1000,1000 Rm,Germany,Cuba
+255,40,1928,11.5,1000000,Million Rm,Germany,Cuba
+255,40,1929,8573,1000,1000 Rm,Germany,Cuba
+255,40,1930,7509,1000,1000 Rm,Germany,Cuba
+255,40,1931,7787,1000,1000 Rm,Germany,Cuba
+255,40,1932,4117,1000,1000 Rm,Germany,Cuba
+255,40,1933,4041,1000,1000 Rm,Germany,Cuba
+255,40,1934,4770,1000,1000 Rm,Germany,Cuba
+255,40,1935,4974,1000,1000 Rm,Germany,Cuba
+255,40,1936,7655,1000,1000 Rm,Germany,Cuba
+255,40,1937,8467,1000,1000 Rm,Germany,Cuba
+255,40,1938,8398,1000,1000 Rm,Germany,Cuba
+255,40,1939,5577,1000,1000 Rm,Germany,Cuba
+255,40,1940,2420,1000,1000 Rm,Germany,Cuba
+255,41,1906,0,1000,Marks,Germany,Haiti
+255,41,1907,0,1000,Marks,Germany,Haiti
+255,41,1908,0,1000,Marks,Germany,Haiti
+255,41,1909,0,1000,Marks,Germany,Haiti
+255,41,1910,0,1000,Marks,Germany,Haiti
+255,41,1911,0,1000,Marks,Germany,Haiti
+255,41,1912,0,1000,Marks,Germany,Haiti
+255,41,1920,0,1000000,Millionen Papiermarf,Germany,Haiti
+255,41,1923,2499,1000,1000 Rm,Germany,Haiti
+255,41,1924,2181,1000,1000 Rm,Germany,Haiti
+255,41,1925,2561,1000,1000 Rm,Germany,Haiti
+255,41,1926,2741,1000,1000 Rm,Germany,Haiti
+255,41,1927,4580,1000,1000 Rm,Germany,Haiti
+255,41,1928,4.3,1000000,Million Rm,Germany,Haiti
+255,41,1929,2862,1000,1000 Rm,Germany,Haiti
+255,41,1930,4702,1000,1000 Rm,Germany,Haiti
+255,41,1931,2320,1000,1000 Rm,Germany,Haiti
+255,41,1932,1534,1000,1000 Rm,Germany,Haiti
+255,41,1933,833,1000,1000 Rm,Germany,Haiti
+255,41,1934,499,1000,1000 Rm,Germany,Haiti
+255,41,1935,1285,1000,1000 Rm,Germany,Haiti
+255,41,1936,965,1000,1000 Rm,Germany,Haiti
+255,41,1937,1481,1000,1000 Rm,Germany,Haiti
+255,41,1938,767,1000,1000 Rm,Germany,Haiti
+255,41,1939,769,1000,1000 Rm,Germany,Haiti
+255,41,1940,345,1000,1000 Rm,Germany,Haiti
+255,42,1906,0,1000,Marks,Germany,Dominican Republic
+255,42,1907,0,1000,Marks,Germany,Dominican Republic
+255,42,1908,0,1000,Marks,Germany,Dominican Republic
+255,42,1909,0,1000,Marks,Germany,Dominican Republic
+255,42,1910,0,1000,Marks,Germany,Dominican Republic
+255,42,1911,0,1000,Marks,Germany,Dominican Republic
+255,42,1912,0,1000,Marks,Germany,Dominican Republic
+255,42,1920,101.2,1000000,Millionen Papiermarf,Germany,Dominican Republic
+255,42,1923,2240,1000,1000 Rm,Germany,Dominican Republic
+255,42,1924,4043,1000,1000 Rm,Germany,Dominican Republic
+255,42,1925,6305,1000,1000 Rm,Germany,Dominican Republic
+255,42,1926,6070,1000,1000 Rm,Germany,Dominican Republic
+255,42,1927,10553,1000,1000 Rm,Germany,Dominican Republic
+255,42,1928,14.5,1000000,Million Rm,Germany,Dominican Republic
+255,42,1929,7552,1000,1000 Rm,Germany,Dominican Republic
+255,42,1930,7648,1000,1000 Rm,Germany,Dominican Republic
+255,42,1931,3552,1000,1000 Rm,Germany,Dominican Republic
+255,42,1932,2003,1000,1000 Rm,Germany,Dominican Republic
+255,42,1933,1662,1000,1000 Rm,Germany,Dominican Republic
+255,42,1934,1766,1000,1000 Rm,Germany,Dominican Republic
+255,42,1935,2107,1000,1000 Rm,Germany,Dominican Republic
+255,42,1936,2378,1000,1000 Rm,Germany,Dominican Republic
+255,42,1937,2453,1000,1000 Rm,Germany,Dominican Republic
+255,42,1938,2951,1000,1000 Rm,Germany,Dominican Republic
+255,42,1939,2773,1000,1000 Rm,Germany,Dominican Republic
+255,42,1940,2598,1000,1000 Rm,Germany,Dominican Republic
+255,70,1906,18940,1000,Marks,Germany,Mexico
+255,70,1907,21641,1000,Marks,Germany,Mexico
+255,70,1908,19899,1000,Marks,Germany,Mexico
+255,70,1909,21508,1000,Marks,Germany,Mexico
+255,70,1910,23703,1000,Marks,Germany,Mexico
+255,70,1911,31025,1000,Marks,Germany,Mexico
+255,70,1912,35542,1000,Marks,Germany,Mexico
+255,70,1920,177.1,1000000,Millionen Papiermarf,Germany,Mexico
+255,70,1923,10576,1000,1000 Rm,Germany,Mexico
+255,70,1924,31939,1000,1000 Rm,Germany,Mexico
+255,70,1925,74259,1000,1000 Rm,Germany,Mexico
+255,70,1926,47577,1000,1000 Rm,Germany,Mexico
+255,70,1927,75019,1000,1000 Rm,Germany,Mexico
+255,70,1928,74.09999999999999,1000000,Million Rm,Germany,Mexico
+255,70,1929,95690,1000,1000 Rm,Germany,Mexico
+255,70,1930,61049,1000,1000 Rm,Germany,Mexico
+255,70,1931,40548,1000,1000 Rm,Germany,Mexico
+255,70,1932,23809,1000,1000 Rm,Germany,Mexico
+255,70,1933,20056,1000,1000 Rm,Germany,Mexico
+255,70,1934,24143,1000,1000 Rm,Germany,Mexico
+255,70,1935,38115,1000,1000 Rm,Germany,Mexico
+255,70,1936,56418,1000,1000 Rm,Germany,Mexico
+255,70,1937,64594,1000,1000 Rm,Germany,Mexico
+255,70,1938,62232,1000,1000 Rm,Germany,Mexico
+255,70,1939,60606,1000,1000 Rm,Germany,Mexico
+255,70,1940,4059,1000,1000 Rm,Germany,Mexico
+255,90,1906,24254,1000,Marks,Germany,Guatemala
+255,90,1907,24541,1000,Marks,Germany,Guatemala
+255,90,1908,21432,1000,Marks,Germany,Guatemala
+255,90,1909,24935,1000,Marks,Germany,Guatemala
+255,90,1910,18976,1000,Marks,Germany,Guatemala
+255,90,1911,27202,1000,Marks,Germany,Guatemala
+255,90,1912,31626,1000,Marks,Germany,Guatemala
+255,90,1920,0,1000000,Millionen Papiermarf,Germany,Guatemala
+255,90,1923,8229,1000,1000 Rm,Germany,Guatemala
+255,90,1924,29902,1000,1000 Rm,Germany,Guatemala
+255,90,1925,53008,1000,1000 Rm,Germany,Guatemala
+255,90,1926,62984,1000,1000 Rm,Germany,Guatemala
+255,90,1927,69898,1000,1000 Rm,Germany,Guatemala
+255,90,1928,72.8,1000000,Million Rm,Germany,Guatemala
+255,90,1929,81402,1000,1000 Rm,Germany,Guatemala
+255,90,1930,70086,1000,1000 Rm,Germany,Guatemala
+255,90,1931,50235,1000,1000 Rm,Germany,Guatemala
+255,90,1932,30962,1000,1000 Rm,Germany,Guatemala
+255,90,1933,25040,1000,1000 Rm,Germany,Guatemala
+255,90,1934,21709,1000,1000 Rm,Germany,Guatemala
+255,90,1935,12545,1000,1000 Rm,Germany,Guatemala
+255,90,1936,12572,1000,1000 Rm,Germany,Guatemala
+255,90,1937,14256,1000,1000 Rm,Germany,Guatemala
+255,90,1938,14512,1000,1000 Rm,Germany,Guatemala
+255,90,1939,7604,1000,1000 Rm,Germany,Guatemala
+255,90,1940,1603,1000,1000 Rm,Germany,Guatemala
+255,91,1906,0,1000,Marks,Germany,Honduras
+255,91,1907,0,1000,Marks,Germany,Honduras
+255,91,1908,0,1000,Marks,Germany,Honduras
+255,91,1909,0,1000,Marks,Germany,Honduras
+255,91,1910,0,1000,Marks,Germany,Honduras
+255,91,1911,0,1000,Marks,Germany,Honduras
+255,91,1912,0,1000,Marks,Germany,Honduras
+255,91,1920,0,1000000,Millionen Papiermarf,Germany,Honduras
+255,91,1923,183,1000,1000 Rm,Germany,Honduras
+255,91,1924,170,1000,1000 Rm,Germany,Honduras
+255,91,1925,379,1000,1000 Rm,Germany,Honduras
+255,91,1926,352,1000,1000 Rm,Germany,Honduras
+255,91,1927,676,1000,1000 Rm,Germany,Honduras
+255,91,1928,12.4,1000000,Million Rm,Germany,Honduras
+255,91,1929,1914,1000,1000 Rm,Germany,Honduras
+255,91,1930,564,1000,1000 Rm,Germany,Honduras
+255,91,1931,4476,1000,1000 Rm,Germany,Honduras
+255,91,1932,2454,1000,1000 Rm,Germany,Honduras
+255,91,1933,1473,1000,1000 Rm,Germany,Honduras
+255,91,1934,2131,1000,1000 Rm,Germany,Honduras
+255,91,1935,625,1000,1000 Rm,Germany,Honduras
+255,91,1936,2261,1000,1000 Rm,Germany,Honduras
+255,91,1937,760,1000,1000 Rm,Germany,Honduras
+255,91,1938,2568,1000,1000 Rm,Germany,Honduras
+255,91,1939,273,1000,1000 Rm,Germany,Honduras
+255,91,1940,300,1000,1000 Rm,Germany,Honduras
+255,92,1906,0,1000,Marks,Germany,El Salvador
+255,92,1907,0,1000,Marks,Germany,El Salvador
+255,92,1908,0,1000,Marks,Germany,El Salvador
+255,92,1909,0,1000,Marks,Germany,El Salvador
+255,92,1910,0,1000,Marks,Germany,El Salvador
+255,92,1911,0,1000,Marks,Germany,El Salvador
+255,92,1912,0,1000,Marks,Germany,El Salvador
+255,92,1920,0,1000000,Millionen Papiermarf,Germany,El Salvador
+255,92,1923,2076,1000,1000 Rm,Germany,El Salvador
+255,92,1924,7738,1000,1000 Rm,Germany,El Salvador
+255,92,1925,16667,1000,1000 Rm,Germany,El Salvador
+255,92,1926,22943,1000,1000 Rm,Germany,El Salvador
+255,92,1927,24209,1000,1000 Rm,Germany,El Salvador
+255,92,1928,34.3,1000000,Million Rm,Germany,El Salvador
+255,92,1929,45569,1000,1000 Rm,Germany,El Salvador
+255,92,1930,39491,1000,1000 Rm,Germany,El Salvador
+255,92,1931,26814,1000,1000 Rm,Germany,El Salvador
+255,92,1932,12891,1000,1000 Rm,Germany,El Salvador
+255,92,1933,13101,1000,1000 Rm,Germany,El Salvador
+255,92,1934,12287,1000,1000 Rm,Germany,El Salvador
+255,92,1935,9769,1000,1000 Rm,Germany,El Salvador
+255,92,1936,7753,1000,1000 Rm,Germany,El Salvador
+255,92,1937,9183,1000,1000 Rm,Germany,El Salvador
+255,92,1938,7410,1000,1000 Rm,Germany,El Salvador
+255,92,1939,4408,1000,1000 Rm,Germany,El Salvador
+255,92,1940,929,1000,1000 Rm,Germany,El Salvador
+255,93,1906,0,1000,Marks,Germany,Nicaragua
+255,93,1907,0,1000,Marks,Germany,Nicaragua
+255,93,1908,0,1000,Marks,Germany,Nicaragua
+255,93,1909,0,1000,Marks,Germany,Nicaragua
+255,93,1910,0,1000,Marks,Germany,Nicaragua
+255,93,1911,0,1000,Marks,Germany,Nicaragua
+255,93,1912,0,1000,Marks,Germany,Nicaragua
+255,93,1920,0,1000000,Millionen Papiermarf,Germany,Nicaragua
+255,93,1923,171,1000,1000 Rm,Germany,Nicaragua
+255,93,1924,1258,1000,1000 Rm,Germany,Nicaragua
+255,93,1925,1847,1000,1000 Rm,Germany,Nicaragua
+255,93,1926,3083,1000,1000 Rm,Germany,Nicaragua
+255,93,1927,3262,1000,1000 Rm,Germany,Nicaragua
+255,93,1928,4.8,1000000,Million Rm,Germany,Nicaragua
+255,93,1929,8646,1000,1000 Rm,Germany,Nicaragua
+255,93,1930,7711,1000,1000 Rm,Germany,Nicaragua
+255,93,1931,5024,1000,1000 Rm,Germany,Nicaragua
+255,93,1932,2806,1000,1000 Rm,Germany,Nicaragua
+255,93,1933,3481,1000,1000 Rm,Germany,Nicaragua
+255,93,1934,2761,1000,1000 Rm,Germany,Nicaragua
+255,93,1935,2501,1000,1000 Rm,Germany,Nicaragua
+255,93,1936,2594,1000,1000 Rm,Germany,Nicaragua
+255,93,1937,4921,1000,1000 Rm,Germany,Nicaragua
+255,93,1938,3585,1000,1000 Rm,Germany,Nicaragua
+255,93,1939,2640,1000,1000 Rm,Germany,Nicaragua
+255,93,1940,894,1000,1000 Rm,Germany,Nicaragua
+255,94,1906,0,1000,Marks,Germany,Costa Rica
+255,94,1907,0,1000,Marks,Germany,Costa Rica
+255,94,1908,0,1000,Marks,Germany,Costa Rica
+255,94,1909,0,1000,Marks,Germany,Costa Rica
+255,94,1910,0,1000,Marks,Germany,Costa Rica
+255,94,1911,0,1000,Marks,Germany,Costa Rica
+255,94,1912,0,1000,Marks,Germany,Costa Rica
+255,94,1920,0,1000000,Millionen Papiermarf,Germany,Costa Rica
+255,94,1923,823,1000,1000 Rm,Germany,Costa Rica
+255,94,1924,6754,1000,1000 Rm,Germany,Costa Rica
+255,94,1925,16053,1000,1000 Rm,Germany,Costa Rica
+255,94,1926,21836,1000,1000 Rm,Germany,Costa Rica
+255,94,1927,20981,1000,1000 Rm,Germany,Costa Rica
+255,94,1928,22.6,1000000,Million Rm,Germany,Costa Rica
+255,94,1929,27158,1000,1000 Rm,Germany,Costa Rica
+255,94,1930,28119,1000,1000 Rm,Germany,Costa Rica
+255,94,1931,17247,1000,1000 Rm,Germany,Costa Rica
+255,94,1932,10525,1000,1000 Rm,Germany,Costa Rica
+255,94,1933,9669,1000,1000 Rm,Germany,Costa Rica
+255,94,1934,9016,1000,1000 Rm,Germany,Costa Rica
+255,94,1935,7012,1000,1000 Rm,Germany,Costa Rica
+255,94,1936,6784,1000,1000 Rm,Germany,Costa Rica
+255,94,1937,12533,1000,1000 Rm,Germany,Costa Rica
+255,94,1938,11128,1000,1000 Rm,Germany,Costa Rica
+255,94,1939,8306,1000,1000 Rm,Germany,Costa Rica
+255,94,1940,1607,1000,1000 Rm,Germany,Costa Rica
+255,95,1906,0,1000,Marks,Germany,Panama
+255,95,1907,0,1000,Marks,Germany,Panama
+255,95,1908,0,1000,Marks,Germany,Panama
+255,95,1909,0,1000,Marks,Germany,Panama
+255,95,1910,0,1000,Marks,Germany,Panama
+255,95,1911,0,1000,Marks,Germany,Panama
+255,95,1912,0,1000,Marks,Germany,Panama
+255,95,1920,0,1000000,Millionen Papiermarf,Germany,Panama
+255,95,1923,743,1000,1000 Rm,Germany,Panama
+255,95,1924,236,1000,1000 Rm,Germany,Panama
+255,95,1925,620,1000,1000 Rm,Germany,Panama
+255,95,1926,351,1000,1000 Rm,Germany,Panama
+255,95,1927,876,1000,1000 Rm,Germany,Panama
+255,95,1928,.3,1000000,Million Rm,Germany,Panama
+255,95,1929,383,1000,1000 Rm,Germany,Panama
+255,95,1930,207,1000,1000 Rm,Germany,Panama
+255,95,1931,146,1000,1000 Rm,Germany,Panama
+255,95,1932,168,1000,1000 Rm,Germany,Panama
+255,95,1933,185,1000,1000 Rm,Germany,Panama
+255,95,1934,224,1000,1000 Rm,Germany,Panama
+255,95,1935,236,1000,1000 Rm,Germany,Panama
+255,95,1936,367,1000,1000 Rm,Germany,Panama
+255,95,1937,372,1000,1000 Rm,Germany,Panama
+255,95,1938,405,1000,1000 Rm,Germany,Panama
+255,95,1939,442,1000,1000 Rm,Germany,Panama
+255,95,1940,87,1000,1000 Rm,Germany,Panama
+255,100,1906,0,1000,Marks,Germany,Colombia
+255,100,1907,0,1000,Marks,Germany,Colombia
+255,100,1908,0,1000,Marks,Germany,Colombia
+255,100,1909,0,1000,Marks,Germany,Colombia
+255,100,1910,0,1000,Marks,Germany,Colombia
+255,100,1911,0,1000,Marks,Germany,Colombia
+255,100,1912,0,1000,Marks,Germany,Colombia
+255,100,1920,0,1000000,Millionen Papiermarf,Germany,Colombia
+255,100,1923,2652,1000,1000 Rm,Germany,Colombia
+255,100,1924,5041,1000,1000 Rm,Germany,Colombia
+255,100,1925,20614,1000,1000 Rm,Germany,Colombia
+255,100,1926,30491,1000,1000 Rm,Germany,Colombia
+255,100,1927,25045,1000,1000 Rm,Germany,Colombia
+255,100,1928,27.4,1000000,Million Rm,Germany,Colombia
+255,100,1929,27551,1000,1000 Rm,Germany,Colombia
+255,100,1930,19801,1000,1000 Rm,Germany,Colombia
+255,100,1931,12714,1000,1000 Rm,Germany,Colombia
+255,100,1932,9000,1000,1000 Rm,Germany,Colombia
+255,100,1933,11203,1000,1000 Rm,Germany,Colombia
+255,100,1934,13361,1000,1000 Rm,Germany,Colombia
+255,100,1935,20594,1000,1000 Rm,Germany,Colombia
+255,100,1936,41546,1000,1000 Rm,Germany,Colombia
+255,100,1937,44951,1000,1000 Rm,Germany,Colombia
+255,100,1938,46624,1000,1000 Rm,Germany,Colombia
+255,100,1939,34468,1000,1000 Rm,Germany,Colombia
+255,100,1940,7151,1000,1000 Rm,Germany,Colombia
+255,101,1906,0,1000,Marks,Germany,Venezuela
+255,101,1907,0,1000,Marks,Germany,Venezuela
+255,101,1908,0,1000,Marks,Germany,Venezuela
+255,101,1909,0,1000,Marks,Germany,Venezuela
+255,101,1910,0,1000,Marks,Germany,Venezuela
+255,101,1911,0,1000,Marks,Germany,Venezuela
+255,101,1912,0,1000,Marks,Germany,Venezuela
+255,101,1920,92,1000000,Millionen Papiermarf,Germany,Venezuela
+255,101,1923,5062,1000,1000 Rm,Germany,Venezuela
+255,101,1924,12397,1000,1000 Rm,Germany,Venezuela
+255,101,1925,24595,1000,1000 Rm,Germany,Venezuela
+255,101,1926,48014,1000,1000 Rm,Germany,Venezuela
+255,101,1927,50671,1000,1000 Rm,Germany,Venezuela
+255,101,1928,55.7,1000000,Million Rm,Germany,Venezuela
+255,101,1929,78774,1000,1000 Rm,Germany,Venezuela
+255,101,1930,21639,1000,1000 Rm,Germany,Venezuela
+255,101,1931,14109,1000,1000 Rm,Germany,Venezuela
+255,101,1932,9113,1000,1000 Rm,Germany,Venezuela
+255,101,1933,8075,1000,1000 Rm,Germany,Venezuela
+255,101,1934,7213,1000,1000 Rm,Germany,Venezuela
+255,101,1935,8523,1000,1000 Rm,Germany,Venezuela
+255,101,1936,14144,1000,1000 Rm,Germany,Venezuela
+255,101,1937,23659,1000,1000 Rm,Germany,Venezuela
+255,101,1938,30338,1000,1000 Rm,Germany,Venezuela
+255,101,1939,17997,1000,1000 Rm,Germany,Venezuela
+255,101,1940,4823,1000,1000 Rm,Germany,Venezuela
+255,130,1906,0,1000,Marks,Germany,Ecuador
+255,130,1907,0,1000,Marks,Germany,Ecuador
+255,130,1908,0,1000,Marks,Germany,Ecuador
+255,130,1909,0,1000,Marks,Germany,Ecuador
+255,130,1910,0,1000,Marks,Germany,Ecuador
+255,130,1911,0,1000,Marks,Germany,Ecuador
+255,130,1912,0,1000,Marks,Germany,Ecuador
+255,130,1920,78.8,1000000,Millionen Papiermarf,Germany,Ecuador
+255,130,1923,3342,1000,1000 Rm,Germany,Ecuador
+255,130,1924,7302,1000,1000 Rm,Germany,Ecuador
+255,130,1925,10099,1000,1000 Rm,Germany,Ecuador
+255,130,1926,4445,1000,1000 Rm,Germany,Ecuador
+255,130,1927,4549,1000,1000 Rm,Germany,Ecuador
+255,130,1928,6.6,1000000,Million Rm,Germany,Ecuador
+255,130,1929,4410,1000,1000 Rm,Germany,Ecuador
+255,130,1930,5123,1000,1000 Rm,Germany,Ecuador
+255,130,1931,3205,1000,1000 Rm,Germany,Ecuador
+255,130,1932,2230,1000,1000 Rm,Germany,Ecuador
+255,130,1933,1636,1000,1000 Rm,Germany,Ecuador
+255,130,1934,2338,1000,1000 Rm,Germany,Ecuador
+255,130,1935,2224,1000,1000 Rm,Germany,Ecuador
+255,130,1936,5195,1000,1000 Rm,Germany,Ecuador
+255,130,1937,11741,1000,1000 Rm,Germany,Ecuador
+255,130,1938,9729,1000,1000 Rm,Germany,Ecuador
+255,130,1939,5672,1000,1000 Rm,Germany,Ecuador
+255,130,1940,988,1000,1000 Rm,Germany,Ecuador
+255,135,1906,0,1000,Marks,Germany,Peru
+255,135,1907,0,1000,Marks,Germany,Peru
+255,135,1908,0,1000,Marks,Germany,Peru
+255,135,1909,0,1000,Marks,Germany,Peru
+255,135,1910,0,1000,Marks,Germany,Peru
+255,135,1911,0,1000,Marks,Germany,Peru
+255,135,1912,0,1000,Marks,Germany,Peru
+255,135,1920,0,1000000,Millionen Papiermarf,Germany,Peru
+255,135,1923,6457,1000,1000 Rm,Germany,Peru
+255,135,1924,5002,1000,1000 Rm,Germany,Peru
+255,135,1925,4959,1000,1000 Rm,Germany,Peru
+255,135,1926,5804,1000,1000 Rm,Germany,Peru
+255,135,1927,14814,1000,1000 Rm,Germany,Peru
+255,135,1928,12.5,1000000,Million Rm,Germany,Peru
+255,135,1929,14935,1000,1000 Rm,Germany,Peru
+255,135,1930,24055,1000,1000 Rm,Germany,Peru
+255,135,1931,20302,1000,1000 Rm,Germany,Peru
+255,135,1932,10425,1000,1000 Rm,Germany,Peru
+255,135,1933,17574,1000,1000 Rm,Germany,Peru
+255,135,1934,19410,1000,1000 Rm,Germany,Peru
+255,135,1935,35612,1000,1000 Rm,Germany,Peru
+255,135,1936,33995,1000,1000 Rm,Germany,Peru
+255,135,1937,49024,1000,1000 Rm,Germany,Peru
+255,135,1938,38672,1000,1000 Rm,Germany,Peru
+255,135,1939,24958,1000,1000 Rm,Germany,Peru
+255,135,1940,1423,1000,1000 Rm,Germany,Peru
+255,140,1906,188053,1000,Marks,Germany,Brazil
+255,140,1907,195996,1000,Marks,Germany,Brazil
+255,140,1908,198606,1000,Marks,Germany,Brazil
+255,140,1909,234291,1000,Marks,Germany,Brazil
+255,140,1910,278928,1000,Marks,Germany,Brazil
+255,140,1911,320003,1000,Marks,Germany,Brazil
+255,140,1912,313181,1000,Marks,Germany,Brazil
+255,140,1920,2039.3,1000000,Millionen Papiermarf,Germany,Brazil
+255,140,1923,84407,1000,1000 Rm,Germany,Brazil
+255,140,1924,115962,1000,1000 Rm,Germany,Brazil
+255,140,1925,173747,1000,1000 Rm,Germany,Brazil
+255,140,1926,153672,1000,1000 Rm,Germany,Brazil
+255,140,1927,191487,1000,1000 Rm,Germany,Brazil
+255,140,1928,216.1,1000000,Million Rm,Germany,Brazil
+255,140,1929,214924,1000,1000 Rm,Germany,Brazil
+255,140,1930,155920,1000,1000 Rm,Germany,Brazil
+255,140,1931,123141,1000,1000 Rm,Germany,Brazil
+255,140,1932,81436,1000,1000 Rm,Germany,Brazil
+255,140,1933,68721,1000,1000 Rm,Germany,Brazil
+255,140,1934,77171,1000,1000 Rm,Germany,Brazil
+255,140,1935,176857,1000,1000 Rm,Germany,Brazil
+255,140,1936,131386,1000,1000 Rm,Germany,Brazil
+255,140,1937,186245,1000,1000 Rm,Germany,Brazil
+255,140,1938,214395,1000,1000 Rm,Germany,Brazil
+255,140,1939,158580,1000,1000 Rm,Germany,Brazil
+255,140,1940,37755,1000,1000 Rm,Germany,Brazil
+255,145,1906,23304,1000,Marks,Germany,Bolivia
+255,145,1907,21543,1000,Marks,Germany,Bolivia
+255,145,1908,15692,1000,Marks,Germany,Bolivia
+255,145,1909,21457,1000,Marks,Germany,Bolivia
+255,145,1910,29608,1000,Marks,Germany,Bolivia
+255,145,1911,36571,1000,Marks,Germany,Bolivia
+255,145,1912,38323,1000,Marks,Germany,Bolivia
+255,145,1920,0,1000000,Millionen Papiermarf,Germany,Bolivia
+255,145,1923,3927,1000,1000 Rm,Germany,Bolivia
+255,145,1924,3802,1000,1000 Rm,Germany,Bolivia
+255,145,1925,1788,1000,1000 Rm,Germany,Bolivia
+255,145,1926,8009,1000,1000 Rm,Germany,Bolivia
+255,145,1927,15361,1000,1000 Rm,Germany,Bolivia
+255,145,1928,21.5,1000000,Million Rm,Germany,Bolivia
+255,145,1929,8637,1000,1000 Rm,Germany,Bolivia
+255,145,1930,8136,1000,1000 Rm,Germany,Bolivia
+255,145,1931,7551,1000,1000 Rm,Germany,Bolivia
+255,145,1932,2473,1000,1000 Rm,Germany,Bolivia
+255,145,1933,1616,1000,1000 Rm,Germany,Bolivia
+255,145,1934,3105,1000,1000 Rm,Germany,Bolivia
+255,145,1935,6340,1000,1000 Rm,Germany,Bolivia
+255,145,1936,7422,1000,1000 Rm,Germany,Bolivia
+255,145,1937,11000,1000,1000 Rm,Germany,Bolivia
+255,145,1938,8315,1000,1000 Rm,Germany,Bolivia
+255,145,1939,6437,1000,1000 Rm,Germany,Bolivia
+255,145,1940,1337,1000,1000 Rm,Germany,Bolivia
+255,150,1906,0,1000,Marks,Germany,Paraguay
+255,150,1907,0,1000,Marks,Germany,Paraguay
+255,150,1908,0,1000,Marks,Germany,Paraguay
+255,150,1909,0,1000,Marks,Germany,Paraguay
+255,150,1910,0,1000,Marks,Germany,Paraguay
+255,150,1911,0,1000,Marks,Germany,Paraguay
+255,150,1912,0,1000,Marks,Germany,Paraguay
+255,150,1920,0,1000000,Millionen Papiermarf,Germany,Paraguay
+255,150,1923,2135,1000,1000 Rm,Germany,Paraguay
+255,150,1924,2902,1000,1000 Rm,Germany,Paraguay
+255,150,1925,3300,1000,1000 Rm,Germany,Paraguay
+255,150,1926,2049,1000,1000 Rm,Germany,Paraguay
+255,150,1927,2154,1000,1000 Rm,Germany,Paraguay
+255,150,1928,3.1,1000000,Million Rm,Germany,Paraguay
+255,150,1929,1843,1000,1000 Rm,Germany,Paraguay
+255,150,1930,1821,1000,1000 Rm,Germany,Paraguay
+255,150,1931,1208,1000,1000 Rm,Germany,Paraguay
+255,150,1932,552,1000,1000 Rm,Germany,Paraguay
+255,150,1933,1792,1000,1000 Rm,Germany,Paraguay
+255,150,1934,973,1000,1000 Rm,Germany,Paraguay
+255,150,1935,1525,1000,1000 Rm,Germany,Paraguay
+255,150,1936,2750,1000,1000 Rm,Germany,Paraguay
+255,150,1937,4473,1000,1000 Rm,Germany,Paraguay
+255,150,1938,2681,1000,1000 Rm,Germany,Paraguay
+255,150,1939,2202,1000,1000 Rm,Germany,Paraguay
+255,150,1940,472,1000,1000 Rm,Germany,Paraguay
+255,155,1906,145036,1000,Marks,Germany,Chile
+255,155,1907,143878,1000,Marks,Germany,Chile
+255,155,1908,133649,1000,Marks,Germany,Chile
+255,155,1909,143516,1000,Marks,Germany,Chile
+255,155,1910,154594,1000,Marks,Germany,Chile
+255,155,1911,158351,1000,Marks,Germany,Chile
+255,155,1912,209651,1000,Marks,Germany,Chile
+255,155,1920,220.7,1000000,Millionen Papiermarf,Germany,Chile
+255,155,1923,18803,1000,1000 Rm,Germany,Chile
+255,155,1924,27435,1000,1000 Rm,Germany,Chile
+255,155,1925,56095,1000,1000 Rm,Germany,Chile
+255,155,1926,45522,1000,1000 Rm,Germany,Chile
+255,155,1927,97310,1000,1000 Rm,Germany,Chile
+255,155,1928,106.2,1000000,Million Rm,Germany,Chile
+255,155,1929,116721,1000,1000 Rm,Germany,Chile
+255,155,1930,56351,1000,1000 Rm,Germany,Chile
+255,155,1931,41835,1000,1000 Rm,Germany,Chile
+255,155,1932,23543,1000,1000 Rm,Germany,Chile
+255,155,1933,19959,1000,1000 Rm,Germany,Chile
+255,155,1934,36358,1000,1000 Rm,Germany,Chile
+255,155,1935,52307,1000,1000 Rm,Germany,Chile
+255,155,1936,58801,1000,1000 Rm,Germany,Chile
+255,155,1937,81168,1000,1000 Rm,Germany,Chile
+255,155,1938,90659,1000,1000 Rm,Germany,Chile
+255,155,1939,75011,1000,1000 Rm,Germany,Chile
+255,155,1940,1871,1000,1000 Rm,Germany,Chile
+255,160,1906,372235,1000,Marks,Germany,Argentina
+255,160,1907,442497,1000,Marks,Germany,Argentina
+255,160,1908,445973,1000,Marks,Germany,Argentina
+255,160,1909,437697,1000,Marks,Germany,Argentina
+255,160,1910,357234,1000,Marks,Germany,Argentina
+255,160,1911,369916,1000,Marks,Germany,Argentina
+255,160,1912,444872,1000,Marks,Germany,Argentina
+255,160,1920,4651.6,1000000,Millionen Papiermarf,Germany,Argentina
+255,160,1923,358293,1000,1000 Rm,Germany,Argentina
+255,160,1924,518748,1000,1000 Rm,Germany,Argentina
+255,160,1925,634425,1000,1000 Rm,Germany,Argentina
+255,160,1926,614386,1000,1000 Rm,Germany,Argentina
+255,160,1927,1070745,1000,1000 Rm,Germany,Argentina
+255,160,1928,933.9,1000000,Million Rm,Germany,Argentina
+255,160,1929,747473,1000,1000 Rm,Germany,Argentina
+255,160,1930,402984,1000,1000 Rm,Germany,Argentina
+255,160,1931,208686,1000,1000 Rm,Germany,Argentina
+255,160,1932,191557,1000,1000 Rm,Germany,Argentina
+255,160,1933,149455,1000,1000 Rm,Germany,Argentina
+255,160,1934,151554,1000,1000 Rm,Germany,Argentina
+255,160,1935,142670,1000,1000 Rm,Germany,Argentina
+255,160,1936,118536,1000,1000 Rm,Germany,Argentina
+255,160,1937,295248,1000,1000 Rm,Germany,Argentina
+255,160,1938,216073,1000,1000 Rm,Germany,Argentina
+255,160,1939,138350,1000,1000 Rm,Germany,Argentina
+255,160,1940,10337,1000,1000 Rm,Germany,Argentina
+255,165,1906,18718,1000,Marks,Germany,Uruguay
+255,165,1907,22643,1000,Marks,Germany,Uruguay
+255,165,1908,26096,1000,Marks,Germany,Uruguay
+255,165,1909,34020,1000,Marks,Germany,Uruguay
+255,165,1910,28565,1000,Marks,Germany,Uruguay
+255,165,1911,35406,1000,Marks,Germany,Uruguay
+255,165,1912,50301,1000,Marks,Germany,Uruguay
+255,165,1920,158.2,1000000,Millionen Papiermarf,Germany,Uruguay
+255,165,1923,17520,1000,1000 Rm,Germany,Uruguay
+255,165,1924,19665,1000,1000 Rm,Germany,Uruguay
+255,165,1925,23375,1000,1000 Rm,Germany,Uruguay
+255,165,1926,28982,1000,1000 Rm,Germany,Uruguay
+255,165,1927,50559,1000,1000 Rm,Germany,Uruguay
+255,165,1928,49.1,1000000,Million Rm,Germany,Uruguay
+255,165,1929,40817,1000,1000 Rm,Germany,Uruguay
+255,165,1930,36404,1000,1000 Rm,Germany,Uruguay
+255,165,1931,36042,1000,1000 Rm,Germany,Uruguay
+255,165,1932,22179,1000,1000 Rm,Germany,Uruguay
+255,165,1933,24993,1000,1000 Rm,Germany,Uruguay
+255,165,1934,28467,1000,1000 Rm,Germany,Uruguay
+255,165,1935,20670,1000,1000 Rm,Germany,Uruguay
+255,165,1936,21007,1000,1000 Rm,Germany,Uruguay
+255,165,1937,23637,1000,1000 Rm,Germany,Uruguay
+255,165,1938,38277,1000,1000 Rm,Germany,Uruguay
+255,165,1939,33307,1000,1000 Rm,Germany,Uruguay
+255,165,1940,335,1000,1000 Rm,Germany,Uruguay
+255,200,1906,824352,1000,Marks,Germany,United Kingdom
+255,200,1907,976558,1000,Marks,Germany,United Kingdom
+255,200,1908,696934,1000,Marks,Germany,United Kingdom
+255,200,1909,723250,1000,Marks,Germany,United Kingdom
+255,200,1910,766573,1000,Marks,Germany,United Kingdom
+255,200,1911,808812,1000,Marks,Germany,United Kingdom
+255,200,1912,842619,1000,Marks,Germany,United Kingdom
+255,200,1913,876100,,,Germany,United Kingdom
+255,200,1920,8362,1000000,Millionen Papiermarf,Germany,United Kingdom
+255,200,1923,1016180,1000,1000 Rm,Germany,United Kingdom
+255,200,1924,881007,1000,1000 Rm,Germany,United Kingdom
+255,200,1925,1058472,1000,1000 Rm,Germany,United Kingdom
+255,200,1926,564496,1000,1000 Rm,Germany,United Kingdom
+255,200,1927,937829,1000,1000 Rm,Germany,United Kingdom
+255,200,1928,893.8,1000000,Million Rm,Germany,United Kingdom
+255,200,1929,865357,1000,1000 Rm,Germany,United Kingdom
+255,200,1930,639001,1000,1000 Rm,Germany,United Kingdom
+255,200,1931,453320,1000,1000 Rm,Germany,United Kingdom
+255,200,1932,258460,1000,1000 Rm,Germany,United Kingdom
+255,200,1933,238444,1000,1000 Rm,Germany,United Kingdom
+255,200,1934,205736,1000,1000 Rm,Germany,United Kingdom
+255,200,1935,256238,1000,1000 Rm,Germany,United Kingdom
+255,200,1936,263692,1000,1000 Rm,Germany,United Kingdom
+255,200,1937,308584,1000,1000 Rm,Germany,United Kingdom
+255,200,1938,282744,1000,1000 Rm,Germany,United Kingdom
+255,200,1939,0,1000,1000 Rm,Germany,United Kingdom
+255,200,1940,0,1000,1000 Rm,Germany,United Kingdom
+255,205,1906,0,1000,Marks,Germany,Ireland
+255,205,1907,0,1000,Marks,Germany,Ireland
+255,205,1908,0,1000,Marks,Germany,Ireland
+255,205,1909,0,1000,Marks,Germany,Ireland
+255,205,1910,0,1000,Marks,Germany,Ireland
+255,205,1911,0,1000,Marks,Germany,Ireland
+255,205,1912,0,1000,Marks,Germany,Ireland
+255,205,1920,0,1000000,Millionen Papiermarf,Germany,Ireland
+255,205,1923,0,1000,1000 Rm,Germany,Ireland
+255,205,1924,0,1000,1000 Rm,Germany,Ireland
+255,205,1925,1214,1000,1000 Rm,Germany,Ireland
+255,205,1926,1137,1000,1000 Rm,Germany,Ireland
+255,205,1927,3706,1000,1000 Rm,Germany,Ireland
+255,205,1928,3.8,1000000,Million Rm,Germany,Ireland
+255,205,1929,2212,1000,1000 Rm,Germany,Ireland
+255,205,1930,1147,1000,1000 Rm,Germany,Ireland
+255,205,1931,1163,1000,1000 Rm,Germany,Ireland
+255,205,1932,882,1000,1000 Rm,Germany,Ireland
+255,205,1933,1877,1000,1000 Rm,Germany,Ireland
+255,205,1934,2591,1000,1000 Rm,Germany,Ireland
+255,205,1935,6900,1000,1000 Rm,Germany,Ireland
+255,205,1936,8194,1000,1000 Rm,Germany,Ireland
+255,205,1937,9742,1000,1000 Rm,Germany,Ireland
+255,205,1938,11235,1000,1000 Rm,Germany,Ireland
+255,205,1939,8081,1000,1000 Rm,Germany,Ireland
+255,205,1940,125,1000,1000 Rm,Germany,Ireland
+255,210,1906,241297,1000,Marks,Germany,Netherlands
+255,210,1907,227525,1000,Marks,Germany,Netherlands
+255,210,1908,230775,1000,Marks,Germany,Netherlands
+255,210,1909,253411,1000,Marks,Germany,Netherlands
+255,210,1910,258468,1000,Marks,Germany,Netherlands
+255,210,1911,297740,1000,Marks,Germany,Netherlands
+255,210,1912,345009,1000,Marks,Germany,Netherlands
+255,210,1913,333000,,,Germany,Netherlands
+255,210,1920,7712.2,1000000,Millionen Papiermarf,Germany,Netherlands
+255,210,1923,203182,1000,1000 Rm,Germany,Netherlands
+255,210,1924,459005,1000,1000 Rm,Germany,Netherlands
+255,210,1925,751754,1000,1000 Rm,Germany,Netherlands
+255,210,1926,549031,1000,1000 Rm,Germany,Netherlands
+255,210,1927,696869,1000,1000 Rm,Germany,Netherlands
+255,210,1928,710.4,1000000,Million Rm,Germany,Netherlands
+255,210,1929,701042,1000,1000 Rm,Germany,Netherlands
+255,210,1930,560828,1000,1000 Rm,Germany,Netherlands
+255,210,1931,383599,1000,1000 Rm,Germany,Netherlands
+255,210,1932,273077,1000,1000 Rm,Germany,Netherlands
+255,210,1933,232012,1000,1000 Rm,Germany,Netherlands
+255,210,1934,264121,1000,1000 Rm,Germany,Netherlands
+255,210,1935,196073,1000,1000 Rm,Germany,Netherlands
+255,210,1936,168533,1000,1000 Rm,Germany,Netherlands
+255,210,1937,215758,1000,1000 Rm,Germany,Netherlands
+255,210,1938,197920,1000,1000 Rm,Germany,Netherlands
+255,210,1939,176698,1000,1000 Rm,Germany,Netherlands
+255,210,1940,406379,1000,1000 Rm,Germany,Netherlands
+255,211,1906,291144,1000,Marks,Germany,Belgium
+255,211,1907,296670,1000,Marks,Germany,Belgium
+255,211,1908,262100,1000,Marks,Germany,Belgium
+255,211,1909,289573,1000,Marks,Germany,Belgium
+255,211,1910,325582,1000,Marks,Germany,Belgium
+255,211,1911,340094,1000,Marks,Germany,Belgium
+255,211,1912,386644,1000,Marks,Germany,Belgium
+255,211,1913,344600,,,Germany,Belgium
+255,211,1920,3349.7,1000000,Millionen Papiermarf,Germany,Belgium
+255,211,1923,53781,1000,1000 Rm,Germany,Belgium
+255,211,1924,158477,1000,1000 Rm,Germany,Belgium
+255,211,1925,373969,1000,1000 Rm,Germany,Belgium
+255,211,1926,282972,1000,1000 Rm,Germany,Belgium
+255,211,1927,454751,1000,1000 Rm,Germany,Belgium
+255,211,1928,473.6,1000000,Million Rm,Germany,Belgium
+255,211,1929,447200,1000,1000 Rm,Germany,Belgium
+255,211,1930,324583,1000,1000 Rm,Germany,Belgium
+255,211,1931,222051,1000,1000 Rm,Germany,Belgium
+255,211,1932,146286,1000,1000 Rm,Germany,Belgium
+255,211,1933,138793,1000,1000 Rm,Germany,Belgium
+255,211,1934,160990,1000,1000 Rm,Germany,Belgium
+255,211,1935,126188,1000,1000 Rm,Germany,Belgium
+255,211,1936,138595,1000,1000 Rm,Germany,Belgium
+255,211,1937,197607,1000,1000 Rm,Germany,Belgium
+255,211,1938,194426,1000,1000 Rm,Germany,Belgium
+255,211,1939,163676,1000,1000 Rm,Germany,Belgium
+255,211,1940,227885,1000,1000 Rm,Germany,Belgium
+255,212,1906,0,1000,Marks,Germany,Luxembourg
+255,212,1907,0,1000,Marks,Germany,Luxembourg
+255,212,1908,0,1000,Marks,Germany,Luxembourg
+255,212,1909,0,1000,Marks,Germany,Luxembourg
+255,212,1910,0,1000,Marks,Germany,Luxembourg
+255,212,1911,0,1000,Marks,Germany,Luxembourg
+255,212,1912,0,1000,Marks,Germany,Luxembourg
+255,212,1920,582.6,1000000,Millionen Papiermarf,Germany,Luxembourg
+255,212,1923,30689,1000,1000 Rm,Germany,Luxembourg
+255,212,1924,45784,1000,1000 Rm,Germany,Luxembourg
+255,212,1925,52166,1000,1000 Rm,Germany,Luxembourg
+255,212,1926,48022,1000,1000 Rm,Germany,Luxembourg
+255,212,1927,75187,1000,1000 Rm,Germany,Luxembourg
+255,212,1928,0,1000000,Million Rm,Germany,Luxembourg
+255,212,1929,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1930,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1931,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1932,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1933,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1934,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1935,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1936,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1937,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1938,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1939,0,1000,1000 Rm,Germany,Luxembourg
+255,212,1940,15081,1000,1000 Rm,Germany,Luxembourg
+255,220,1906,433336,1000,Marks,Germany,France
+255,220,1907,453607,1000,Marks,Germany,France
+255,220,1908,419954,1000,Marks,Germany,France
+255,220,1909,485109,1000,Marks,Germany,France
+255,220,1910,508819,1000,Marks,Germany,France
+255,220,1911,524414,1000,Marks,Germany,France
+255,220,1912,552236,1000,Marks,Germany,France
+255,220,1913,584200,,,Germany,France
+255,220,1920,3712.1,1000000,Millionen Papiermarf,Germany,France
+255,220,1923,63727,1000,1000 Rm,Germany,France
+255,220,1924,220146,1000,1000 Rm,Germany,France
+255,220,1925,361922,1000,1000 Rm,Germany,France
+255,220,1926,293720,1000,1000 Rm,Germany,France
+255,220,1927,595780,1000,1000 Rm,Germany,France
+255,220,1928,740.8,1000000,Million Rm,Germany,France
+255,220,1929,641989,1000,1000 Rm,Germany,France
+255,220,1930,518672,1000,1000 Rm,Germany,France
+255,220,1931,341624,1000,1000 Rm,Germany,France
+255,220,1932,189860,1000,1000 Rm,Germany,France
+255,220,1933,183965,1000,1000 Rm,Germany,France
+255,220,1934,176936,1000,1000 Rm,Germany,France
+255,220,1935,154250,1000,1000 Rm,Germany,France
+255,220,1936,98873,1000,1000 Rm,Germany,France
+255,220,1937,155701,1000,1000 Rm,Germany,France
+255,220,1938,143712,1000,1000 Rm,Germany,France
+255,220,1939,0,1000,1000 Rm,Germany,France
+255,220,1940,0,1000,1000 Rm,Germany,France
+255,225,1906,216801,1000,Marks,Germany,Switzerland
+255,225,1907,210759,1000,Marks,Germany,Switzerland
+255,225,1908,177164,1000,Marks,Germany,Switzerland
+255,225,1909,162648,1000,Marks,Germany,Switzerland
+255,225,1910,173889,1000,Marks,Germany,Switzerland
+255,225,1911,179633,1000,Marks,Germany,Switzerland
+255,225,1912,205728,1000,Marks,Germany,Switzerland
+255,225,1913,213300,,,Germany,Switzerland
+255,225,1920,2823.2,1000000,Millionen Papiermarf,Germany,Switzerland
+255,225,1923,122192,1000,1000 Rm,Germany,Switzerland
+255,225,1924,275796,1000,1000 Rm,Germany,Switzerland
+255,225,1925,485932,1000,1000 Rm,Germany,Switzerland
+255,225,1926,217035,1000,1000 Rm,Germany,Switzerland
+255,225,1927,335806,1000,1000 Rm,Germany,Switzerland
+255,225,1928,329.9,1000000,Million Rm,Germany,Switzerland
+255,225,1929,317758,1000,1000 Rm,Germany,Switzerland
+255,225,1930,255538,1000,1000 Rm,Germany,Switzerland
+255,225,1931,164548,1000,1000 Rm,Germany,Switzerland
+255,225,1932,92071,1000,1000 Rm,Germany,Switzerland
+255,225,1933,82522,1000,1000 Rm,Germany,Switzerland
+255,225,1934,116139,1000,1000 Rm,Germany,Switzerland
+255,225,1935,114415,1000,1000 Rm,Germany,Switzerland
+255,225,1936,106219,1000,1000 Rm,Germany,Switzerland
+255,225,1937,93739,1000,1000 Rm,Germany,Switzerland
+255,225,1938,102589,1000,1000 Rm,Germany,Switzerland
+255,225,1939,117302,1000,1000 Rm,Germany,Switzerland
+255,225,1940,166056,1000,1000 Rm,Germany,Switzerland
+255,230,1906,150716,1000,Marks,Germany,Spain
+255,230,1907,139897,1000,Marks,Germany,Spain
+255,230,1908,115018,1000,Marks,Germany,Spain
+255,230,1909,123712,1000,Marks,Germany,Spain
+255,230,1910,140180,1000,Marks,Germany,Spain
+255,230,1911,164076,1000,Marks,Germany,Spain
+255,230,1912,189817,1000,Marks,Germany,Spain
+255,230,1913,198700,,,Germany,Spain
+255,230,1920,1488,1000000,Millionen Papiermarf,Germany,Spain
+255,230,1923,45496,1000,1000 Rm,Germany,Spain
+255,230,1924,106310,1000,1000 Rm,Germany,Spain
+255,230,1925,191661,1000,1000 Rm,Germany,Spain
+255,230,1926,143663,1000,1000 Rm,Germany,Spain
+255,230,1927,241700,1000,1000 Rm,Germany,Spain
+255,230,1928,280.6,1000000,Million Rm,Germany,Spain
+255,230,1929,251802,1000,1000 Rm,Germany,Spain
+255,230,1930,209979,1000,1000 Rm,Germany,Spain
+255,230,1931,145943,1000,1000 Rm,Germany,Spain
+255,230,1932,98875,1000,1000 Rm,Germany,Spain
+255,230,1933,86494,1000,1000 Rm,Germany,Spain
+255,230,1934,99740,1000,1000 Rm,Germany,Spain
+255,230,1935,118269,1000,1000 Rm,Germany,Spain
+255,230,1936,97738,1000,1000 Rm,Germany,Spain
+255,230,1937,101098,1000,1000 Rm,Germany,Spain
+255,230,1938,92390,1000,1000 Rm,Germany,Spain
+255,230,1939,105009,1000,1000 Rm,Germany,Spain
+255,230,1940,19957,1000,1000 Rm,Germany,Spain
+255,235,1906,18448,1000,Marks,Germany,Portugal
+255,235,1907,15144,1000,Marks,Germany,Portugal
+255,235,1908,13607,1000,Marks,Germany,Portugal
+255,235,1909,12956,1000,Marks,Germany,Portugal
+255,235,1910,21750,1000,Marks,Germany,Portugal
+255,235,1911,25477,1000,Marks,Germany,Portugal
+255,235,1912,25161,1000,Marks,Germany,Portugal
+255,235,1913,25300,,,Germany,Portugal
+255,235,1920,110.2,1000000,Millionen Papiermarf,Germany,Portugal
+255,235,1923,5821,1000,1000 Rm,Germany,Portugal
+255,235,1924,21603,1000,1000 Rm,Germany,Portugal
+255,235,1925,35828,1000,1000 Rm,Germany,Portugal
+255,235,1926,19162,1000,1000 Rm,Germany,Portugal
+255,235,1927,28536,1000,1000 Rm,Germany,Portugal
+255,235,1928,35.8,1000000,Million Rm,Germany,Portugal
+255,235,1929,37635,1000,1000 Rm,Germany,Portugal
+255,235,1930,27157,1000,1000 Rm,Germany,Portugal
+255,235,1931,21771,1000,1000 Rm,Germany,Portugal
+255,235,1932,15372,1000,1000 Rm,Germany,Portugal
+255,235,1933,14297,1000,1000 Rm,Germany,Portugal
+255,235,1934,19302,1000,1000 Rm,Germany,Portugal
+255,235,1935,22707,1000,1000 Rm,Germany,Portugal
+255,235,1936,21743,1000,1000 Rm,Germany,Portugal
+255,235,1937,23933,1000,1000 Rm,Germany,Portugal
+255,235,1938,24716,1000,1000 Rm,Germany,Portugal
+255,235,1939,22350,1000,1000 Rm,Germany,Portugal
+255,235,1940,4282,1000,1000 Rm,Germany,Portugal
+255,290,1906,0,1000,Marks,Germany,Poland
+255,290,1907,0,1000,Marks,Germany,Poland
+255,290,1908,0,1000,Marks,Germany,Poland
+255,290,1909,0,1000,Marks,Germany,Poland
+255,290,1910,0,1000,Marks,Germany,Poland
+255,290,1911,0,1000,Marks,Germany,Poland
+255,290,1912,0,1000,Marks,Germany,Poland
+255,290,1920,0,1000000,Millionen Papiermarf,Germany,Poland
+255,290,1923,470628,1000,1000 Rm,Germany,Poland
+255,290,1924,401986,1000,1000 Rm,Germany,Poland
+255,290,1925,428294,1000,1000 Rm,Germany,Poland
+255,290,1926,282708,1000,1000 Rm,Germany,Poland
+255,290,1927,345440,1000,1000 Rm,Germany,Poland
+255,290,1928,357.3,1000000,Million Rm,Germany,Poland
+255,290,1929,338795,1000,1000 Rm,Germany,Poland
+255,290,1930,236763,1000,1000 Rm,Germany,Poland
+255,290,1931,111203,1000,1000 Rm,Germany,Poland
+255,290,1932,58883,1000,1000 Rm,Germany,Poland
+255,290,1933,55906,1000,1000 Rm,Germany,Poland
+255,290,1934,53854,1000,1000 Rm,Germany,Poland
+255,290,1935,59353,1000,1000 Rm,Germany,Poland
+255,290,1936,57881,1000,1000 Rm,Germany,Poland
+255,290,1937,67847,1000,1000 Rm,Germany,Poland
+255,290,1938,95476,1000,1000 Rm,Germany,Poland
+255,290,1939,82722,1000,1000 Rm,Germany,Poland
+255,290,1940,0,1000,1000 Rm,Germany,Poland
+255,291,1906,0,1000,Marks,Germany,Danzig
+255,291,1907,0,1000,Marks,Germany,Danzig
+255,291,1908,0,1000,Marks,Germany,Danzig
+255,291,1909,0,1000,Marks,Germany,Danzig
+255,291,1910,0,1000,Marks,Germany,Danzig
+255,291,1911,0,1000,Marks,Germany,Danzig
+255,291,1912,0,1000,Marks,Germany,Danzig
+255,291,1920,243.6,1000000,Millionen Papiermarf,Germany,Danzig
+255,291,1923,18520,1000,1000 Rm,Germany,Danzig
+255,291,1924,55378,1000,1000 Rm,Germany,Danzig
+255,291,1925,28597,1000,1000 Rm,Germany,Danzig
+255,291,1926,21837,1000,1000 Rm,Germany,Danzig
+255,291,1927,20261,1000,1000 Rm,Germany,Danzig
+255,291,1928,20.6,1000000,Million Rm,Germany,Danzig
+255,291,1929,37246,1000,1000 Rm,Germany,Danzig
+255,291,1930,26221,1000,1000 Rm,Germany,Danzig
+255,291,1931,20982,1000,1000 Rm,Germany,Danzig
+255,291,1932,22788,1000,1000 Rm,Germany,Danzig
+255,291,1933,21229,1000,1000 Rm,Germany,Danzig
+255,291,1934,24155,1000,1000 Rm,Germany,Danzig
+255,291,1935,16149,1000,1000 Rm,Germany,Danzig
+255,291,1936,16106,1000,1000 Rm,Germany,Danzig
+255,291,1937,12863,1000,1000 Rm,Germany,Danzig
+255,291,1938,13926,1000,1000 Rm,Germany,Danzig
+255,291,1939,0,1000,1000 Rm,Germany,Danzig
+255,291,1940,0,1000,1000 Rm,Germany,Danzig
+255,305,1906,0,1000,Marks,Germany,Austria
+255,305,1907,0,1000,Marks,Germany,Austria
+255,305,1908,0,1000,Marks,Germany,Austria
+255,305,1909,0,1000,Marks,Germany,Austria
+255,305,1910,0,1000,Marks,Germany,Austria
+255,305,1911,0,1000,Marks,Germany,Austria
+255,305,1912,0,1000,Marks,Germany,Austria
+255,305,1920,887.4,1000000,Millionen Papiermarf,Germany,Austria
+255,305,1923,131989,1000,1000 Rm,Germany,Austria
+255,305,1924,142767,1000,1000 Rm,Germany,Austria
+255,305,1925,177692,1000,1000 Rm,Germany,Austria
+255,305,1926,115412,1000,1000 Rm,Germany,Austria
+255,305,1927,208575,1000,1000 Rm,Germany,Austria
+255,305,1928,232.1,1000000,Million Rm,Germany,Austria
+255,305,1929,201769,1000,1000 Rm,Germany,Austria
+255,305,1930,181170,1000,1000 Rm,Germany,Austria
+255,305,1931,113940,1000,1000 Rm,Germany,Austria
+255,305,1932,65458,1000,1000 Rm,Germany,Austria
+255,305,1933,57552,1000,1000 Rm,Germany,Austria
+255,305,1934,66274,1000,1000 Rm,Germany,Austria
+255,305,1935,71069,1000,1000 Rm,Germany,Austria
+255,305,1936,76639,1000,1000 Rm,Germany,Austria
+255,305,1937,93341,1000,1000 Rm,Germany,Austria
+255,305,1938,0,1000,1000 Rm,Germany,Austria
+255,305,1939,0,1000,1000 Rm,Germany,Austria
+255,305,1940,0,1000,1000 Rm,Germany,Austria
+255,310,1906,0,1000,Marks,Germany,Hungary
+255,310,1907,0,1000,Marks,Germany,Hungary
+255,310,1908,0,1000,Marks,Germany,Hungary
+255,310,1909,0,1000,Marks,Germany,Hungary
+255,310,1910,0,1000,Marks,Germany,Hungary
+255,310,1911,0,1000,Marks,Germany,Hungary
+255,310,1912,0,1000,Marks,Germany,Hungary
+255,310,1920,221.1,1000000,Millionen Papiermarf,Germany,Hungary
+255,310,1923,22293,1000,1000 Rm,Germany,Hungary
+255,310,1924,48339,1000,1000 Rm,Germany,Hungary
+255,310,1925,83428,1000,1000 Rm,Germany,Hungary
+255,310,1926,85600,1000,1000 Rm,Germany,Hungary
+255,310,1927,80091,1000,1000 Rm,Germany,Hungary
+255,310,1928,71.90000000000001,1000000,Million Rm,Germany,Hungary
+255,310,1929,89338,1000,1000 Rm,Germany,Hungary
+255,310,1930,82100,1000,1000 Rm,Germany,Hungary
+255,310,1931,55170,1000,1000 Rm,Germany,Hungary
+255,310,1932,36402,1000,1000 Rm,Germany,Hungary
+255,310,1933,34184,1000,1000 Rm,Germany,Hungary
+255,310,1934,63887,1000,1000 Rm,Germany,Hungary
+255,310,1935,77896,1000,1000 Rm,Germany,Hungary
+255,310,1936,93379,1000,1000 Rm,Germany,Hungary
+255,310,1937,114085,1000,1000 Rm,Germany,Hungary
+255,310,1938,109750,1000,1000 Rm,Germany,Hungary
+255,310,1939,222500,1000,1000 Rm,Germany,Hungary
+255,310,1940,207262,1000,1000 Rm,Germany,Hungary
+255,315,1906,0,1000,Marks,Germany,Czechoslovakia
+255,315,1907,0,1000,Marks,Germany,Czechoslovakia
+255,315,1908,0,1000,Marks,Germany,Czechoslovakia
+255,315,1909,0,1000,Marks,Germany,Czechoslovakia
+255,315,1910,0,1000,Marks,Germany,Czechoslovakia
+255,315,1911,0,1000,Marks,Germany,Czechoslovakia
+255,315,1912,0,1000,Marks,Germany,Czechoslovakia
+255,315,1920,2715.4,1000000,Millionen Papiermarf,Germany,Czechoslovakia
+255,315,1923,351597,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1924,437404,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1925,532507,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1926,380236,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1927,559221,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1928,538.3,1000000,Million Rm,Germany,Czechoslovakia
+255,315,1929,480305,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1930,358994,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1931,243718,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1932,139764,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1933,121679,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1934,162258,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1935,121416,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1936,111884,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1937,141434,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1938,129725,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1939,0,1000,1000 Rm,Germany,Czechoslovakia
+255,315,1940,0,1000,1000 Rm,Germany,Czechoslovakia
+255,325,1906,241031,1000,Marks,Germany,Italy
+255,325,1907,285362,1000,Marks,Germany,Italy
+255,325,1908,235897,1000,Marks,Germany,Italy
+255,325,1909,287851,1000,Marks,Germany,Italy
+255,325,1910,274539,1000,Marks,Germany,Italy
+255,325,1911,284785,1000,Marks,Germany,Italy
+255,325,1912,304612,1000,Marks,Germany,Italy
+255,325,1913,317700,,,Germany,Italy
+255,325,1920,3157.8,1000000,Millionen Papiermarf,Germany,Italy
+255,325,1923,150789,1000,1000 Rm,Germany,Italy
+255,325,1924,367517,1000,1000 Rm,Germany,Italy
+255,325,1925,498640,1000,1000 Rm,Germany,Italy
+255,325,1926,389833,1000,1000 Rm,Germany,Italy
+255,325,1927,524820,1000,1000 Rm,Germany,Italy
+255,325,1928,467,1000000,Million Rm,Germany,Italy
+255,325,1929,441841,1000,1000 Rm,Germany,Italy
+255,325,1930,365293,1000,1000 Rm,Germany,Italy
+255,325,1931,268414,1000,1000 Rm,Germany,Italy
+255,325,1932,181302,1000,1000 Rm,Germany,Italy
+255,325,1933,166440,1000,1000 Rm,Germany,Italy
+255,325,1934,184660,1000,1000 Rm,Germany,Italy
+255,325,1935,187535,1000,1000 Rm,Germany,Italy
+255,325,1936,208544,1000,1000 Rm,Germany,Italy
+255,325,1937,221039,1000,1000 Rm,Germany,Italy
+255,325,1938,245642,1000,1000 Rm,Germany,Italy
+255,325,1939,286638,1000,1000 Rm,Germany,Italy
+255,325,1940,507921,1000,1000 Rm,Germany,Italy
+255,339,1906,0,1000,Marks,Germany,Albania
+255,339,1907,0,1000,Marks,Germany,Albania
+255,339,1908,0,1000,Marks,Germany,Albania
+255,339,1909,0,1000,Marks,Germany,Albania
+255,339,1910,0,1000,Marks,Germany,Albania
+255,339,1911,0,1000,Marks,Germany,Albania
+255,339,1912,0,1000,Marks,Germany,Albania
+255,339,1920,0,1000000,Millionen Papiermarf,Germany,Albania
+255,339,1923,7,1000,1000 Rm,Germany,Albania
+255,339,1924,71,1000,1000 Rm,Germany,Albania
+255,339,1925,102,1000,1000 Rm,Germany,Albania
+255,339,1926,39,1000,1000 Rm,Germany,Albania
+255,339,1927,26,1000,1000 Rm,Germany,Albania
+255,339,1928,.1,1000000,Million Rm,Germany,Albania
+255,339,1929,131,1000,1000 Rm,Germany,Albania
+255,339,1930,77,1000,1000 Rm,Germany,Albania
+255,339,1931,44,1000,1000 Rm,Germany,Albania
+255,339,1932,83,1000,1000 Rm,Germany,Albania
+255,339,1933,51,1000,1000 Rm,Germany,Albania
+255,339,1934,60,1000,1000 Rm,Germany,Albania
+255,339,1935,9,1000,1000 Rm,Germany,Albania
+255,339,1936,49,1000,1000 Rm,Germany,Albania
+255,339,1937,138,1000,1000 Rm,Germany,Albania
+255,339,1938,23,1000,1000 Rm,Germany,Albania
+255,339,1939,78,1000,1000 Rm,Germany,Albania
+255,339,1940,126,1000,1000 Rm,Germany,Albania
+255,345,1906,0,1000,Marks,Germany,Yugoslavia
+255,345,1907,0,1000,Marks,Germany,Yugoslavia
+255,345,1908,0,1000,Marks,Germany,Yugoslavia
+255,345,1909,0,1000,Marks,Germany,Yugoslavia
+255,345,1910,0,1000,Marks,Germany,Yugoslavia
+255,345,1911,0,1000,Marks,Germany,Yugoslavia
+255,345,1912,0,1000,Marks,Germany,Yugoslavia
+255,345,1920,97.3,1000000,Millionen Papiermarf,Germany,Yugoslavia
+255,345,1923,16860,1000,1000 Rm,Germany,Yugoslavia
+255,345,1924,39376,1000,1000 Rm,Germany,Yugoslavia
+255,345,1925,83546,1000,1000 Rm,Germany,Yugoslavia
+255,345,1926,80999,1000,1000 Rm,Germany,Yugoslavia
+255,345,1927,73048,1000,1000 Rm,Germany,Yugoslavia
+255,345,1928,66.59999999999999,1000000,Million Rm,Germany,Yugoslavia
+255,345,1929,60862,1000,1000 Rm,Germany,Yugoslavia
+255,345,1930,74818,1000,1000 Rm,Germany,Yugoslavia
+255,345,1931,40110,1000,1000 Rm,Germany,Yugoslavia
+255,345,1932,29489,1000,1000 Rm,Germany,Yugoslavia
+255,345,1933,33472,1000,1000 Rm,Germany,Yugoslavia
+255,345,1934,36344,1000,1000 Rm,Germany,Yugoslavia
+255,345,1935,61438,1000,1000 Rm,Germany,Yugoslavia
+255,345,1936,75175,1000,1000 Rm,Germany,Yugoslavia
+255,345,1937,132153,1000,1000 Rm,Germany,Yugoslavia
+255,345,1938,107900,1000,1000 Rm,Germany,Yugoslavia
+255,345,1939,131498,1000,1000 Rm,Germany,Yugoslavia
+255,345,1940,239719,1000,1000 Rm,Germany,Yugoslavia
+255,350,1906,17225,1000,Marks,Germany,Greece
+255,350,1907,22208,1000,Marks,Germany,Greece
+255,350,1908,18446,1000,Marks,Germany,Greece
+255,350,1909,18161,1000,Marks,Germany,Greece
+255,350,1910,21291,1000,Marks,Germany,Greece
+255,350,1911,23673,1000,Marks,Germany,Greece
+255,350,1912,25053,1000,Marks,Germany,Greece
+255,350,1913,26600,,,Germany,Greece
+255,350,1920,349,1000000,Millionen Papiermarf,Germany,Greece
+255,350,1923,29061,1000,1000 Rm,Germany,Greece
+255,350,1924,56266,1000,1000 Rm,Germany,Greece
+255,350,1925,78343,1000,1000 Rm,Germany,Greece
+255,350,1926,53523,1000,1000 Rm,Germany,Greece
+255,350,1927,75554,1000,1000 Rm,Germany,Greece
+255,350,1928,94,1000000,Million Rm,Germany,Greece
+255,350,1929,103721,1000,1000 Rm,Germany,Greece
+255,350,1930,108059,1000,1000 Rm,Germany,Greece
+255,350,1931,70335,1000,1000 Rm,Germany,Greece
+255,350,1932,58945,1000,1000 Rm,Germany,Greece
+255,350,1933,53372,1000,1000 Rm,Germany,Greece
+255,350,1934,55258,1000,1000 Rm,Germany,Greece
+255,350,1935,58522,1000,1000 Rm,Germany,Greece
+255,350,1936,68352,1000,1000 Rm,Germany,Greece
+255,350,1937,76364,1000,1000 Rm,Germany,Greece
+255,350,1938,93568,1000,1000 Rm,Germany,Greece
+255,350,1939,92122,1000,1000 Rm,Germany,Greece
+255,350,1940,93020,1000,1000 Rm,Germany,Greece
+255,355,1906,0,1000,Marks,Germany,Bulgaria
+255,355,1907,0,1000,Marks,Germany,Bulgaria
+255,355,1908,0,1000,Marks,Germany,Bulgaria
+255,355,1909,0,1000,Marks,Germany,Bulgaria
+255,355,1910,0,1000,Marks,Germany,Bulgaria
+255,355,1911,0,1000,Marks,Germany,Bulgaria
+255,355,1912,0,1000,Marks,Germany,Bulgaria
+255,355,1920,138.8,1000000,Millionen Papiermarf,Germany,Bulgaria
+255,355,1923,7042,1000,1000 Rm,Germany,Bulgaria
+255,355,1924,21104,1000,1000 Rm,Germany,Bulgaria
+255,355,1925,48856,1000,1000 Rm,Germany,Bulgaria
+255,355,1926,35042,1000,1000 Rm,Germany,Bulgaria
+255,355,1927,48665,1000,1000 Rm,Germany,Bulgaria
+255,355,1928,51,1000000,Million Rm,Germany,Bulgaria
+255,355,1929,51192,1000,1000 Rm,Germany,Bulgaria
+255,355,1930,58915,1000,1000 Rm,Germany,Bulgaria
+255,355,1931,48323,1000,1000 Rm,Germany,Bulgaria
+255,355,1932,34487,1000,1000 Rm,Germany,Bulgaria
+255,355,1933,31346,1000,1000 Rm,Germany,Bulgaria
+255,355,1934,33743,1000,1000 Rm,Germany,Bulgaria
+255,355,1935,41356,1000,1000 Rm,Germany,Bulgaria
+255,355,1936,57563,1000,1000 Rm,Germany,Bulgaria
+255,355,1937,71791,1000,1000 Rm,Germany,Bulgaria
+255,355,1938,84334,1000,1000 Rm,Germany,Bulgaria
+255,355,1939,111006,1000,1000 Rm,Germany,Bulgaria
+255,355,1940,176835,1000,1000 Rm,Germany,Bulgaria
+255,360,1906,117428,1000,Marks,Germany,Romania
+255,360,1907,149800,1000,Marks,Germany,Romania
+255,360,1908,73746,1000,Marks,Germany,Romania
+255,360,1909,64540,1000,Marks,Germany,Romania
+255,360,1910,68883,1000,Marks,Germany,Romania
+255,360,1911,107745,1000,Marks,Germany,Romania
+255,360,1912,138178,1000,Marks,Germany,Romania
+255,360,1913,79800,,,Germany,Romania
+255,360,1920,120.7,1000000,Millionen Papiermarf,Germany,Romania
+255,360,1923,37141,1000,1000 Rm,Germany,Romania
+255,360,1924,59833,1000,1000 Rm,Germany,Romania
+255,360,1925,93551,1000,1000 Rm,Germany,Romania
+255,360,1926,153969,1000,1000 Rm,Germany,Romania
+255,360,1927,243326,1000,1000 Rm,Germany,Romania
+255,360,1928,188.1,1000000,Million Rm,Germany,Romania
+255,360,1929,210854,1000,1000 Rm,Germany,Romania
+255,360,1930,236924,1000,1000 Rm,Germany,Romania
+255,360,1931,102440,1000,1000 Rm,Germany,Romania
+255,360,1932,74440,1000,1000 Rm,Germany,Romania
+255,360,1933,46128,1000,1000 Rm,Germany,Romania
+255,360,1934,59009,1000,1000 Rm,Germany,Romania
+255,360,1935,79865,1000,1000 Rm,Germany,Romania
+255,360,1936,92326,1000,1000 Rm,Germany,Romania
+255,360,1937,179507,1000,1000 Rm,Germany,Romania
+255,360,1938,140415,1000,1000 Rm,Germany,Romania
+255,360,1939,209509,1000,1000 Rm,Germany,Romania
+255,360,1940,427063,1000,1000 Rm,Germany,Romania
+255,365,1906,1033386,1000,Marks,Germany,Russia
+255,365,1907,1047230,1000,Marks,Germany,Russia
+255,365,1908,903125,1000,Marks,Germany,Russia
+255,365,1909,1304200,1000,Marks,Germany,Russia
+255,365,1910,1322342,1000,Marks,Germany,Russia
+255,365,1911,1634248,1000,Marks,Germany,Russia
+255,365,1912,1527850,1000,Marks,Germany,Russia
+255,365,1913,1424600,,,Germany,Russia
+255,365,1920,0,1000000,Millionen Papiermarf,Germany,Russia
+255,365,1923,92121,1000,1000 Rm,Germany,Russia
+255,365,1924,126047,1000,1000 Rm,Germany,Russia
+255,365,1925,231310,1000,1000 Rm,Germany,Russia
+255,365,1926,301506,1000,1000 Rm,Germany,Russia
+255,365,1927,432781,1000,1000 Rm,Germany,Russia
+255,365,1928,378.6,1000000,Million Rm,Germany,Russia
+255,365,1929,425702,1000,1000 Rm,Germany,Russia
+255,365,1930,436288,1000,1000 Rm,Germany,Russia
+255,365,1931,303457,1000,1000 Rm,Germany,Russia
+255,365,1932,270891,1000,1000 Rm,Germany,Russia
+255,365,1933,194072,1000,1000 Rm,Germany,Russia
+255,365,1934,209739,1000,1000 Rm,Germany,Russia
+255,365,1935,214966,1000,1000 Rm,Germany,Russia
+255,365,1936,93161,1000,1000 Rm,Germany,Russia
+255,365,1937,65147,1000,1000 Rm,Germany,Russia
+255,365,1938,47354,1000,1000 Rm,Germany,Russia
+255,365,1939,30315,1000,1000 Rm,Germany,Russia
+255,365,1940,390661,1000,1000 Rm,Germany,Russia
+255,366,1906,0,1000,Marks,Germany,Estonia
+255,366,1907,0,1000,Marks,Germany,Estonia
+255,366,1908,0,1000,Marks,Germany,Estonia
+255,366,1909,0,1000,Marks,Germany,Estonia
+255,366,1910,0,1000,Marks,Germany,Estonia
+255,366,1911,0,1000,Marks,Germany,Estonia
+255,366,1912,0,1000,Marks,Germany,Estonia
+255,366,1920,0,1000000,Millionen Papiermarf,Germany,Estonia
+255,366,1923,6351,1000,1000 Rm,Germany,Estonia
+255,366,1924,17629,1000,1000 Rm,Germany,Estonia
+255,366,1925,31015,1000,1000 Rm,Germany,Estonia
+255,366,1926,22479,1000,1000 Rm,Germany,Estonia
+255,366,1927,27729,1000,1000 Rm,Germany,Estonia
+255,366,1928,33.3,1000000,Million Rm,Germany,Estonia
+255,366,1929,32096,1000,1000 Rm,Germany,Estonia
+255,366,1930,32293,1000,1000 Rm,Germany,Estonia
+255,366,1931,17643,1000,1000 Rm,Germany,Estonia
+255,366,1932,13329,1000,1000 Rm,Germany,Estonia
+255,366,1933,8361,1000,1000 Rm,Germany,Estonia
+255,366,1934,8226,1000,1000 Rm,Germany,Estonia
+255,366,1935,13152,1000,1000 Rm,Germany,Estonia
+255,366,1936,13786,1000,1000 Rm,Germany,Estonia
+255,366,1937,23652,1000,1000 Rm,Germany,Estonia
+255,366,1938,23960,1000,1000 Rm,Germany,Estonia
+255,366,1939,28277,1000,1000 Rm,Germany,Estonia
+255,366,1940,29066,1000,1000 Rm,Germany,Estonia
+255,367,1906,0,1000,Marks,Germany,Latvia
+255,367,1907,0,1000,Marks,Germany,Latvia
+255,367,1908,0,1000,Marks,Germany,Latvia
+255,367,1909,0,1000,Marks,Germany,Latvia
+255,367,1910,0,1000,Marks,Germany,Latvia
+255,367,1911,0,1000,Marks,Germany,Latvia
+255,367,1912,0,1000,Marks,Germany,Latvia
+255,367,1920,0,1000000,Millionen Papiermarf,Germany,Latvia
+255,367,1923,10878,1000,1000 Rm,Germany,Latvia
+255,367,1924,33597,1000,1000 Rm,Germany,Latvia
+255,367,1925,53921,1000,1000 Rm,Germany,Latvia
+255,367,1926,48362,1000,1000 Rm,Germany,Latvia
+255,367,1927,53430,1000,1000 Rm,Germany,Latvia
+255,367,1928,66.3,1000000,Million Rm,Germany,Latvia
+255,367,1929,69530,1000,1000 Rm,Germany,Latvia
+255,367,1930,58954,1000,1000 Rm,Germany,Latvia
+255,367,1931,34069,1000,1000 Rm,Germany,Latvia
+255,367,1932,20538,1000,1000 Rm,Germany,Latvia
+255,367,1933,17532,1000,1000 Rm,Germany,Latvia
+255,367,1934,21062,1000,1000 Rm,Germany,Latvia
+255,367,1935,31105,1000,1000 Rm,Germany,Latvia
+255,367,1936,33174,1000,1000 Rm,Germany,Latvia
+255,367,1937,45728,1000,1000 Rm,Germany,Latvia
+255,367,1938,43482,1000,1000 Rm,Germany,Latvia
+255,367,1939,44108,1000,1000 Rm,Germany,Latvia
+255,367,1940,68807,1000,1000 Rm,Germany,Latvia
+255,368,1906,0,1000,Marks,Germany,Lithuania
+255,368,1907,0,1000,Marks,Germany,Lithuania
+255,368,1908,0,1000,Marks,Germany,Lithuania
+255,368,1909,0,1000,Marks,Germany,Lithuania
+255,368,1910,0,1000,Marks,Germany,Lithuania
+255,368,1911,0,1000,Marks,Germany,Lithuania
+255,368,1912,0,1000,Marks,Germany,Lithuania
+255,368,1920,0,1000000,Millionen Papiermarf,Germany,Lithuania
+255,368,1923,13965,1000,1000 Rm,Germany,Lithuania
+255,368,1924,22633,1000,1000 Rm,Germany,Lithuania
+255,368,1925,23974,1000,1000 Rm,Germany,Lithuania
+255,368,1926,22473,1000,1000 Rm,Germany,Lithuania
+255,368,1927,32859,1000,1000 Rm,Germany,Lithuania
+255,368,1928,54.7,1000000,Million Rm,Germany,Lithuania
+255,368,1929,68896,1000,1000 Rm,Germany,Lithuania
+255,368,1930,67932,1000,1000 Rm,Germany,Lithuania
+255,368,1931,34786,1000,1000 Rm,Germany,Lithuania
+255,368,1932,26930,1000,1000 Rm,Germany,Lithuania
+255,368,1933,22068,1000,1000 Rm,Germany,Lithuania
+255,368,1934,15064,1000,1000 Rm,Germany,Lithuania
+255,368,1935,2625,1000,1000 Rm,Germany,Lithuania
+255,368,1936,9081,1000,1000 Rm,Germany,Lithuania
+255,368,1937,13168,1000,1000 Rm,Germany,Lithuania
+255,368,1938,21948,1000,1000 Rm,Germany,Lithuania
+255,368,1939,26466,1000,1000 Rm,Germany,Lithuania
+255,368,1940,56640,1000,1000 Rm,Germany,Lithuania
+255,375,1906,21265,1000,Marks,Germany,Finland
+255,375,1907,22732,1000,Marks,Germany,Finland
+255,375,1908,18737,1000,Marks,Germany,Finland
+255,375,1909,23768,1000,Marks,Germany,Finland
+255,375,1910,26160,1000,Marks,Germany,Finland
+255,375,1911,34632,1000,Marks,Germany,Finland
+255,375,1912,36869,1000,Marks,Germany,Finland
+255,375,1913,45200,,,Germany,Finland
+255,375,1920,284.3,1000000,Millionen Papiermarf,Germany,Finland
+255,375,1923,21107,1000,1000 Rm,Germany,Finland
+255,375,1924,46503,1000,1000 Rm,Germany,Finland
+255,375,1925,107940,1000,1000 Rm,Germany,Finland
+255,375,1926,80570,1000,1000 Rm,Germany,Finland
+255,375,1927,111490,1000,1000 Rm,Germany,Finland
+255,375,1928,126,1000000,Million Rm,Germany,Finland
+255,375,1929,114237,1000,1000 Rm,Germany,Finland
+255,375,1930,84933,1000,1000 Rm,Germany,Finland
+255,375,1931,42677,1000,1000 Rm,Germany,Finland
+255,375,1932,26232,1000,1000 Rm,Germany,Finland
+255,375,1933,37159,1000,1000 Rm,Germany,Finland
+255,375,1934,42322,1000,1000 Rm,Germany,Finland
+255,375,1935,41070,1000,1000 Rm,Germany,Finland
+255,375,1936,46125,1000,1000 Rm,Germany,Finland
+255,375,1937,70109,1000,1000 Rm,Germany,Finland
+255,375,1938,88634,1000,1000 Rm,Germany,Finland
+255,375,1939,76018,1000,1000 Rm,Germany,Finland
+255,375,1940,79163,1000,1000 Rm,Germany,Finland
+255,380,1906,149672,1000,Marks,Germany,Sweden
+255,380,1907,172004,1000,Marks,Germany,Sweden
+255,380,1908,145087,1000,Marks,Germany,Sweden
+255,380,1909,141840,1000,Marks,Germany,Sweden
+255,380,1910,163805,1000,Marks,Germany,Sweden
+255,380,1911,182999,1000,Marks,Germany,Sweden
+255,380,1912,213987,1000,Marks,Germany,Sweden
+255,380,1913,224100,,,Germany,Sweden
+255,380,1920,2399.3,1000000,Millionen Papiermarf,Germany,Sweden
+255,380,1923,95959,1000,1000 Rm,Germany,Sweden
+255,380,1924,132131,1000,1000 Rm,Germany,Sweden
+255,380,1925,294006,1000,1000 Rm,Germany,Sweden
+255,380,1926,233692,1000,1000 Rm,Germany,Sweden
+255,380,1927,379159,1000,1000 Rm,Germany,Sweden
+255,380,1928,252.7,1000000,Million Rm,Germany,Sweden
+255,380,1929,350124,1000,1000 Rm,Germany,Sweden
+255,380,1930,304152,1000,1000 Rm,Germany,Sweden
+255,380,1931,158140,1000,1000 Rm,Germany,Sweden
+255,380,1932,95084,1000,1000 Rm,Germany,Sweden
+255,380,1933,102586,1000,1000 Rm,Germany,Sweden
+255,380,1934,133766,1000,1000 Rm,Germany,Sweden
+255,380,1935,152862,1000,1000 Rm,Germany,Sweden
+255,380,1936,191658,1000,1000 Rm,Germany,Sweden
+255,380,1937,231938,1000,1000 Rm,Germany,Sweden
+255,380,1938,261727,1000,1000 Rm,Germany,Sweden
+255,380,1939,261673,1000,1000 Rm,Germany,Sweden
+255,380,1940,345988,1000,1000 Rm,Germany,Sweden
+255,385,1906,31882,1000,Marks,Germany,Norway
+255,385,1907,31251,1000,Marks,Germany,Norway
+255,385,1908,29133,1000,Marks,Germany,Norway
+255,385,1909,36850,1000,Marks,Germany,Norway
+255,385,1910,49665,1000,Marks,Germany,Norway
+255,385,1911,54101,1000,Marks,Germany,Norway
+255,385,1912,63835,1000,Marks,Germany,Norway
+255,385,1913,82000,,,Germany,Norway
+255,385,1920,2491.8,1000000,Millionen Papiermarf,Germany,Norway
+255,385,1923,71401,1000,1000 Rm,Germany,Norway
+255,385,1924,69998,1000,1000 Rm,Germany,Norway
+255,385,1925,112240,1000,1000 Rm,Germany,Norway
+255,385,1926,82273,1000,1000 Rm,Germany,Norway
+255,385,1927,110221,1000,1000 Rm,Germany,Norway
+255,385,1928,120.7,1000000,Million Rm,Germany,Norway
+255,385,1929,143248,1000,1000 Rm,Germany,Norway
+255,385,1930,106400,1000,1000 Rm,Germany,Norway
+255,385,1931,61209,1000,1000 Rm,Germany,Norway
+255,385,1932,51706,1000,1000 Rm,Germany,Norway
+255,385,1933,72916,1000,1000 Rm,Germany,Norway
+255,385,1934,68722,1000,1000 Rm,Germany,Norway
+255,385,1935,93594,1000,1000 Rm,Germany,Norway
+255,385,1936,87851,1000,1000 Rm,Germany,Norway
+255,385,1937,91296,1000,1000 Rm,Germany,Norway
+255,385,1938,98837,1000,1000 Rm,Germany,Norway
+255,385,1939,84493,1000,1000 Rm,Germany,Norway
+255,385,1940,141841,1000,1000 Rm,Germany,Norway
+255,390,1906,128168,1000,Marks,Germany,Denmark
+255,390,1907,123055,1000,Marks,Germany,Denmark
+255,390,1908,120933,1000,Marks,Germany,Denmark
+255,390,1909,135303,1000,Marks,Germany,Denmark
+255,390,1910,158103,1000,Marks,Germany,Denmark
+255,390,1911,180249,1000,Marks,Germany,Denmark
+255,390,1912,202183,1000,Marks,Germany,Denmark
+255,390,1913,191900,,,Germany,Denmark
+255,390,1920,3132.8,1000000,Millionen Papiermarf,Germany,Denmark
+255,390,1923,80688,1000,1000 Rm,Germany,Denmark
+255,390,1924,261651,1000,1000 Rm,Germany,Denmark
+255,390,1925,333936,1000,1000 Rm,Germany,Denmark
+255,390,1926,300116,1000,1000 Rm,Germany,Denmark
+255,390,1927,345186,1000,1000 Rm,Germany,Denmark
+255,390,1928,358.8,1000000,Million Rm,Germany,Denmark
+255,390,1929,369659,1000,1000 Rm,Germany,Denmark
+255,390,1930,296480,1000,1000 Rm,Germany,Denmark
+255,390,1931,182909,1000,1000 Rm,Germany,Denmark
+255,390,1932,121959,1000,1000 Rm,Germany,Denmark
+255,390,1933,104419,1000,1000 Rm,Germany,Denmark
+255,390,1934,101181,1000,1000 Rm,Germany,Denmark
+255,390,1935,118633,1000,1000 Rm,Germany,Denmark
+255,390,1936,154340,1000,1000 Rm,Germany,Denmark
+255,390,1937,157664,1000,1000 Rm,Germany,Denmark
+255,390,1938,166284,1000,1000 Rm,Germany,Denmark
+255,390,1939,183718,1000,1000 Rm,Germany,Denmark
+255,390,1940,494525,1000,1000 Rm,Germany,Denmark
+255,395,1906,0,1000,Marks,Germany,Iceland
+255,395,1907,0,1000,Marks,Germany,Iceland
+255,395,1908,0,1000,Marks,Germany,Iceland
+255,395,1909,0,1000,Marks,Germany,Iceland
+255,395,1910,0,1000,Marks,Germany,Iceland
+255,395,1911,0,1000,Marks,Germany,Iceland
+255,395,1912,0,1000,Marks,Germany,Iceland
+255,395,1920,0,1000000,Millionen Papiermarf,Germany,Iceland
+255,395,1923,0,1000,1000 Rm,Germany,Iceland
+255,395,1924,0,1000,1000 Rm,Germany,Iceland
+255,395,1925,0,1000,1000 Rm,Germany,Iceland
+255,395,1926,0,1000,1000 Rm,Germany,Iceland
+255,395,1927,0,1000,1000 Rm,Germany,Iceland
+255,395,1928,0,1000000,Million Rm,Germany,Iceland
+255,395,1929,0,1000,1000 Rm,Germany,Iceland
+255,395,1930,3414,1000,1000 Rm,Germany,Iceland
+255,395,1931,3560,1000,1000 Rm,Germany,Iceland
+255,395,1932,3914,1000,1000 Rm,Germany,Iceland
+255,395,1933,2729,1000,1000 Rm,Germany,Iceland
+255,395,1934,3453,1000,1000 Rm,Germany,Iceland
+255,395,1935,3624,1000,1000 Rm,Germany,Iceland
+255,395,1936,5577,1000,1000 Rm,Germany,Iceland
+255,395,1937,7038,1000,1000 Rm,Germany,Iceland
+255,395,1938,6058,1000,1000 Rm,Germany,Iceland
+255,395,1939,4955,1000,1000 Rm,Germany,Iceland
+255,395,1940,1546,1000,1000 Rm,Germany,Iceland
+255,410,1906,0,1000,Marks,Germany,Canary Islands
+255,410,1907,0,1000,Marks,Germany,Canary Islands
+255,410,1908,0,1000,Marks,Germany,Canary Islands
+255,410,1909,0,1000,Marks,Germany,Canary Islands
+255,410,1910,0,1000,Marks,Germany,Canary Islands
+255,410,1911,0,1000,Marks,Germany,Canary Islands
+255,410,1912,0,1000,Marks,Germany,Canary Islands
+255,410,1920,0,1000000,Millionen Papiermarf,Germany,Canary Islands
+255,410,1923,0,1000,1000 Rm,Germany,Canary Islands
+255,410,1924,0,1000,1000 Rm,Germany,Canary Islands
+255,410,1925,0,1000,1000 Rm,Germany,Canary Islands
+255,410,1926,0,1000,1000 Rm,Germany,Canary Islands
+255,410,1927,8245,1000,1000 Rm,Germany,Canary Islands
+255,410,1928,13.1,1000000,Million Rm,Germany,Canary Islands
+255,410,1929,13882,1000,1000 Rm,Germany,Canary Islands
+255,410,1930,14405,1000,1000 Rm,Germany,Canary Islands
+255,410,1931,9714,1000,1000 Rm,Germany,Canary Islands
+255,410,1932,6780,1000,1000 Rm,Germany,Canary Islands
+255,410,1933,5887,1000,1000 Rm,Germany,Canary Islands
+255,410,1934,6221,1000,1000 Rm,Germany,Canary Islands
+255,410,1935,11074,1000,1000 Rm,Germany,Canary Islands
+255,410,1936,12487,1000,1000 Rm,Germany,Canary Islands
+255,410,1937,12516,1000,1000 Rm,Germany,Canary Islands
+255,410,1938,18459,1000,1000 Rm,Germany,Canary Islands
+255,410,1939,19061,1000,1000 Rm,Germany,Canary Islands
+255,410,1940,3,1000,1000 Rm,Germany,Canary Islands
+255,430,1906,0,1000,Marks,Germany,French West Africa
+255,430,1907,0,1000,Marks,Germany,French West Africa
+255,430,1908,0,1000,Marks,Germany,French West Africa
+255,430,1909,0,1000,Marks,Germany,French West Africa
+255,430,1910,0,1000,Marks,Germany,French West Africa
+255,430,1911,0,1000,Marks,Germany,French West Africa
+255,430,1912,0,1000,Marks,Germany,French West Africa
+255,430,1920,0,1000000,Millionen Papiermarf,Germany,French West Africa
+255,430,1923,3527,1000,1000 Rm,Germany,French West Africa
+255,430,1924,8632,1000,1000 Rm,Germany,French West Africa
+255,430,1925,35193,1000,1000 Rm,Germany,French West Africa
+255,430,1926,42313,1000,1000 Rm,Germany,French West Africa
+255,430,1927,42698,1000,1000 Rm,Germany,French West Africa
+255,430,1928,46.6,1000000,Million Rm,Germany,French West Africa
+255,430,1929,39008,1000,1000 Rm,Germany,French West Africa
+255,430,1930,45708,1000,1000 Rm,Germany,French West Africa
+255,430,1931,24341,1000,1000 Rm,Germany,French West Africa
+255,430,1932,17091,1000,1000 Rm,Germany,French West Africa
+255,430,1933,17143,1000,1000 Rm,Germany,French West Africa
+255,430,1934,17518,1000,1000 Rm,Germany,French West Africa
+255,430,1935,18759,1000,1000 Rm,Germany,French West Africa
+255,430,1936,17816,1000,1000 Rm,Germany,French West Africa
+255,430,1937,21512,1000,1000 Rm,Germany,French West Africa
+255,430,1938,18742,1000,1000 Rm,Germany,French West Africa
+255,430,1939,0,1000,1000 Rm,Germany,French West Africa
+255,430,1940,0,1000,1000 Rm,Germany,French West Africa
+255,450,1906,0,1000,Marks,Germany,Liberia
+255,450,1907,0,1000,Marks,Germany,Liberia
+255,450,1908,0,1000,Marks,Germany,Liberia
+255,450,1909,0,1000,Marks,Germany,Liberia
+255,450,1910,0,1000,Marks,Germany,Liberia
+255,450,1911,0,1000,Marks,Germany,Liberia
+255,450,1912,0,1000,Marks,Germany,Liberia
+255,450,1920,0,1000000,Millionen Papiermarf,Germany,Liberia
+255,450,1923,4371,1000,1000 Rm,Germany,Liberia
+255,450,1924,5396,1000,1000 Rm,Germany,Liberia
+255,450,1925,5683,1000,1000 Rm,Germany,Liberia
+255,450,1926,2671,1000,1000 Rm,Germany,Liberia
+255,450,1927,2216,1000,1000 Rm,Germany,Liberia
+255,450,1928,2.4,1000000,Million Rm,Germany,Liberia
+255,450,1929,1583,1000,1000 Rm,Germany,Liberia
+255,450,1930,1527,1000,1000 Rm,Germany,Liberia
+255,450,1931,881,1000,1000 Rm,Germany,Liberia
+255,450,1932,710,1000,1000 Rm,Germany,Liberia
+255,450,1933,644,1000,1000 Rm,Germany,Liberia
+255,450,1934,673,1000,1000 Rm,Germany,Liberia
+255,450,1935,921,1000,1000 Rm,Germany,Liberia
+255,450,1936,1724,1000,1000 Rm,Germany,Liberia
+255,450,1937,2454,1000,1000 Rm,Germany,Liberia
+255,450,1938,2349,1000,1000 Rm,Germany,Liberia
+255,450,1939,1323,1000,1000 Rm,Germany,Liberia
+255,450,1940,203,1000,1000 Rm,Germany,Liberia
+255,452,1906,0,1000,Marks,Germany,Ghana
+255,452,1907,0,1000,Marks,Germany,Ghana
+255,452,1908,0,1000,Marks,Germany,Ghana
+255,452,1909,0,1000,Marks,Germany,Ghana
+255,452,1910,0,1000,Marks,Germany,Ghana
+255,452,1911,0,1000,Marks,Germany,Ghana
+255,452,1912,0,1000,Marks,Germany,Ghana
+255,452,1920,0,1000000,Millionen Papiermarf,Germany,Ghana
+255,452,1923,0,1000,1000 Rm,Germany,Ghana
+255,452,1924,0,1000,1000 Rm,Germany,Ghana
+255,452,1925,0,1000,1000 Rm,Germany,Ghana
+255,452,1926,0,1000,1000 Rm,Germany,Ghana
+255,452,1927,0,1000,1000 Rm,Germany,Ghana
+255,452,1928,0,1000000,Million Rm,Germany,Ghana
+255,452,1929,0,1000,1000 Rm,Germany,Ghana
+255,452,1930,0,1000,1000 Rm,Germany,Ghana
+255,452,1931,0,1000,1000 Rm,Germany,Ghana
+255,452,1932,0,1000,1000 Rm,Germany,Ghana
+255,452,1933,0,1000,1000 Rm,Germany,Ghana
+255,452,1934,0,1000,1000 Rm,Germany,Ghana
+255,452,1935,0,1000,1000 Rm,Germany,Ghana
+255,452,1936,0,1000,1000 Rm,Germany,Ghana
+255,452,1937,22807,1000,1000 Rm,Germany,Ghana
+255,452,1938,10229,1000,1000 Rm,Germany,Ghana
+255,452,1939,0,1000,1000 Rm,Germany,Ghana
+255,452,1940,0,1000,1000 Rm,Germany,Ghana
+255,465,1906,55539,1000,Marks,Germany,British West Africa
+255,465,1907,73248,1000,Marks,Germany,British West Africa
+255,465,1908,58919,1000,Marks,Germany,British West Africa
+255,465,1909,87382,1000,Marks,Germany,British West Africa
+255,465,1910,108345,1000,Marks,Germany,British West Africa
+255,465,1911,106822,1000,Marks,Germany,British West Africa
+255,465,1912,118576,1000,Marks,Germany,British West Africa
+255,465,1920,569,1000000,Millionen Papiermarf,Germany,British West Africa
+255,465,1923,70320,1000,1000 Rm,Germany,British West Africa
+255,465,1924,94950,1000,1000 Rm,Germany,British West Africa
+255,465,1925,160592,1000,1000 Rm,Germany,British West Africa
+255,465,1926,143861,1000,1000 Rm,Germany,British West Africa
+255,465,1927,182303,1000,1000 Rm,Germany,British West Africa
+255,465,1928,183.4,1000000,Million Rm,Germany,British West Africa
+255,465,1929,179411,1000,1000 Rm,Germany,British West Africa
+255,465,1930,160834,1000,1000 Rm,Germany,British West Africa
+255,465,1931,105033,1000,1000 Rm,Germany,British West Africa
+255,465,1932,70588,1000,1000 Rm,Germany,British West Africa
+255,465,1933,59088,1000,1000 Rm,Germany,British West Africa
+255,465,1934,57678,1000,1000 Rm,Germany,British West Africa
+255,465,1935,52235,1000,1000 Rm,Germany,British West Africa
+255,465,1936,80320,1000,1000 Rm,Germany,British West Africa
+255,465,1937,15100,1000,1000 Rm,Germany,British West Africa
+255,465,1938,13558,1000,1000 Rm,Germany,British West Africa
+255,465,1939,0,1000,1000 Rm,Germany,British West Africa
+255,465,1940,0,1000,1000 Rm,Germany,British West Africa
+255,475,1906,0,1000,Marks,Germany,Nigeria
+255,475,1907,0,1000,Marks,Germany,Nigeria
+255,475,1908,0,1000,Marks,Germany,Nigeria
+255,475,1909,0,1000,Marks,Germany,Nigeria
+255,475,1910,0,1000,Marks,Germany,Nigeria
+255,475,1911,0,1000,Marks,Germany,Nigeria
+255,475,1912,0,1000,Marks,Germany,Nigeria
+255,475,1920,0,1000000,Millionen Papiermarf,Germany,Nigeria
+255,475,1923,0,1000,1000 Rm,Germany,Nigeria
+255,475,1924,0,1000,1000 Rm,Germany,Nigeria
+255,475,1925,0,1000,1000 Rm,Germany,Nigeria
+255,475,1926,0,1000,1000 Rm,Germany,Nigeria
+255,475,1927,0,1000,1000 Rm,Germany,Nigeria
+255,475,1928,0,1000000,Million Rm,Germany,Nigeria
+255,475,1929,0,1000,1000 Rm,Germany,Nigeria
+255,475,1930,0,1000,1000 Rm,Germany,Nigeria
+255,475,1931,0,1000,1000 Rm,Germany,Nigeria
+255,475,1932,0,1000,1000 Rm,Germany,Nigeria
+255,475,1933,0,1000,1000 Rm,Germany,Nigeria
+255,475,1934,0,1000,1000 Rm,Germany,Nigeria
+255,475,1935,0,1000,1000 Rm,Germany,Nigeria
+255,475,1936,0,1000,1000 Rm,Germany,Nigeria
+255,475,1937,47462,1000,1000 Rm,Germany,Nigeria
+255,475,1938,30160,1000,1000 Rm,Germany,Nigeria
+255,475,1939,0,1000,1000 Rm,Germany,Nigeria
+255,475,1940,0,1000,1000 Rm,Germany,Nigeria
+255,490,1906,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1907,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1908,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1909,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1910,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1911,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1912,0,1000,Marks,Germany,"Congo, Dem. Republic"
+255,490,1920,160.5,1000000,Millionen Papiermarf,Germany,"Congo, Dem. Republic"
+255,490,1923,5511,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1924,13756,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1925,37355,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1926,35871,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1927,34440,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1928,44.4,1000000,Million Rm,Germany,"Congo, Dem. Republic"
+255,490,1929,49379,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1930,43336,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1931,38930,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1932,30921,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1933,22931,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1934,22260,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1935,21393,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1936,29815,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1937,37849,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1938,33447,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1939,27607,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,490,1940,3383,1000,1000 Rm,Germany,"Congo, Dem. Republic"
+255,505,1906,0,1000,Marks,Germany,British East Africa
+255,505,1907,0,1000,Marks,Germany,British East Africa
+255,505,1908,0,1000,Marks,Germany,British East Africa
+255,505,1909,0,1000,Marks,Germany,British East Africa
+255,505,1910,0,1000,Marks,Germany,British East Africa
+255,505,1911,0,1000,Marks,Germany,British East Africa
+255,505,1912,0,1000,Marks,Germany,British East Africa
+255,505,1920,82.09999999999999,1000000,Millionen Papiermarf,Germany,British East Africa
+255,505,1923,7308,1000,1000 Rm,Germany,British East Africa
+255,505,1924,12966,1000,1000 Rm,Germany,British East Africa
+255,505,1925,19415,1000,1000 Rm,Germany,British East Africa
+255,505,1926,23793,1000,1000 Rm,Germany,British East Africa
+255,505,1927,26311,1000,1000 Rm,Germany,British East Africa
+255,505,1928,28.6,1000000,Million Rm,Germany,British East Africa
+255,505,1929,29441,1000,1000 Rm,Germany,British East Africa
+255,505,1930,16715,1000,1000 Rm,Germany,British East Africa
+255,505,1931,12016,1000,1000 Rm,Germany,British East Africa
+255,505,1932,8311,1000,1000 Rm,Germany,British East Africa
+255,505,1933,8644,1000,1000 Rm,Germany,British East Africa
+255,505,1934,6415,1000,1000 Rm,Germany,British East Africa
+255,505,1935,5584,1000,1000 Rm,Germany,British East Africa
+255,505,1936,7498,1000,1000 Rm,Germany,British East Africa
+255,505,1937,1651,1000,1000 Rm,Germany,British East Africa
+255,505,1938,696,1000,1000 Rm,Germany,British East Africa
+255,505,1939,0,1000,1000 Rm,Germany,British East Africa
+255,505,1940,0,1000,1000 Rm,Germany,British East Africa
+255,530,1906,0,1000,Marks,Germany,Ethiopia
+255,530,1907,0,1000,Marks,Germany,Ethiopia
+255,530,1908,0,1000,Marks,Germany,Ethiopia
+255,530,1909,0,1000,Marks,Germany,Ethiopia
+255,530,1910,0,1000,Marks,Germany,Ethiopia
+255,530,1911,0,1000,Marks,Germany,Ethiopia
+255,530,1912,0,1000,Marks,Germany,Ethiopia
+255,530,1920,0,1000000,Millionen Papiermarf,Germany,Ethiopia
+255,530,1923,469,1000,1000 Rm,Germany,Ethiopia
+255,530,1924,1119,1000,1000 Rm,Germany,Ethiopia
+255,530,1925,1618,1000,1000 Rm,Germany,Ethiopia
+255,530,1926,1436,1000,1000 Rm,Germany,Ethiopia
+255,530,1927,3075,1000,1000 Rm,Germany,Ethiopia
+255,530,1928,4.8,1000000,Million Rm,Germany,Ethiopia
+255,530,1929,1788,1000,1000 Rm,Germany,Ethiopia
+255,530,1930,1938,1000,1000 Rm,Germany,Ethiopia
+255,530,1931,1508,1000,1000 Rm,Germany,Ethiopia
+255,530,1932,790,1000,1000 Rm,Germany,Ethiopia
+255,530,1933,836,1000,1000 Rm,Germany,Ethiopia
+255,530,1934,787,1000,1000 Rm,Germany,Ethiopia
+255,530,1935,328,1000,1000 Rm,Germany,Ethiopia
+255,530,1936,254,1000,1000 Rm,Germany,Ethiopia
+255,530,1937,0,1000,1000 Rm,Germany,Ethiopia
+255,530,1938,0,1000,1000 Rm,Germany,Ethiopia
+255,530,1939,0,1000,1000 Rm,Germany,Ethiopia
+255,530,1940,0,1000,1000 Rm,Germany,Ethiopia
+255,540,1906,0,1000,Marks,Germany,Angola
+255,540,1907,0,1000,Marks,Germany,Angola
+255,540,1908,0,1000,Marks,Germany,Angola
+255,540,1909,0,1000,Marks,Germany,Angola
+255,540,1910,0,1000,Marks,Germany,Angola
+255,540,1911,0,1000,Marks,Germany,Angola
+255,540,1912,0,1000,Marks,Germany,Angola
+255,540,1920,134.7,1000000,Millionen Papiermarf,Germany,Angola
+255,540,1923,3085,1000,1000 Rm,Germany,Angola
+255,540,1924,5022,1000,1000 Rm,Germany,Angola
+255,540,1925,5797,1000,1000 Rm,Germany,Angola
+255,540,1926,7711,1000,1000 Rm,Germany,Angola
+255,540,1927,7454,1000,1000 Rm,Germany,Angola
+255,540,1928,9.4,1000000,Million Rm,Germany,Angola
+255,540,1929,8831,1000,1000 Rm,Germany,Angola
+255,540,1930,7406,1000,1000 Rm,Germany,Angola
+255,540,1931,4362,1000,1000 Rm,Germany,Angola
+255,540,1932,3057,1000,1000 Rm,Germany,Angola
+255,540,1933,2936,1000,1000 Rm,Germany,Angola
+255,540,1934,2407,1000,1000 Rm,Germany,Angola
+255,540,1935,2077,1000,1000 Rm,Germany,Angola
+255,540,1936,3047,1000,1000 Rm,Germany,Angola
+255,540,1937,3612,1000,1000 Rm,Germany,Angola
+255,540,1938,3591,1000,1000 Rm,Germany,Angola
+255,540,1939,3170,1000,1000 Rm,Germany,Angola
+255,540,1940,1005,1000,1000 Rm,Germany,Angola
+255,541,1906,0,1000,Marks,Germany,Mozambique
+255,541,1907,0,1000,Marks,Germany,Mozambique
+255,541,1908,0,1000,Marks,Germany,Mozambique
+255,541,1909,0,1000,Marks,Germany,Mozambique
+255,541,1910,0,1000,Marks,Germany,Mozambique
+255,541,1911,0,1000,Marks,Germany,Mozambique
+255,541,1912,0,1000,Marks,Germany,Mozambique
+255,541,1920,0,1000000,Millionen Papiermarf,Germany,Mozambique
+255,541,1923,515,1000,1000 Rm,Germany,Mozambique
+255,541,1924,1118,1000,1000 Rm,Germany,Mozambique
+255,541,1925,3462,1000,1000 Rm,Germany,Mozambique
+255,541,1926,3005,1000,1000 Rm,Germany,Mozambique
+255,541,1927,3564,1000,1000 Rm,Germany,Mozambique
+255,541,1928,7.2,1000000,Million Rm,Germany,Mozambique
+255,541,1929,10550,1000,1000 Rm,Germany,Mozambique
+255,541,1930,16027,1000,1000 Rm,Germany,Mozambique
+255,541,1931,2754,1000,1000 Rm,Germany,Mozambique
+255,541,1932,3041,1000,1000 Rm,Germany,Mozambique
+255,541,1933,2781,1000,1000 Rm,Germany,Mozambique
+255,541,1934,2251,1000,1000 Rm,Germany,Mozambique
+255,541,1935,3228,1000,1000 Rm,Germany,Mozambique
+255,541,1936,4636,1000,1000 Rm,Germany,Mozambique
+255,541,1937,7276,1000,1000 Rm,Germany,Mozambique
+255,541,1938,4024,1000,1000 Rm,Germany,Mozambique
+255,541,1939,2222,1000,1000 Rm,Germany,Mozambique
+255,541,1940,163,1000,1000 Rm,Germany,Mozambique
+255,554,1906,0,1000,Marks,Germany,Rhodesia
+255,554,1907,0,1000,Marks,Germany,Rhodesia
+255,554,1908,0,1000,Marks,Germany,Rhodesia
+255,554,1909,0,1000,Marks,Germany,Rhodesia
+255,554,1910,0,1000,Marks,Germany,Rhodesia
+255,554,1911,0,1000,Marks,Germany,Rhodesia
+255,554,1912,0,1000,Marks,Germany,Rhodesia
+255,554,1920,0,1000000,Millionen Papiermarf,Germany,Rhodesia
+255,554,1923,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1924,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1925,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1926,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1927,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1928,0,1000000,Million Rm,Germany,Rhodesia
+255,554,1929,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1930,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1931,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1932,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1933,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1934,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1935,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1936,19716,1000,1000 Rm,Germany,Rhodesia
+255,554,1937,38620,1000,1000 Rm,Germany,Rhodesia
+255,554,1938,45551,1000,1000 Rm,Germany,Rhodesia
+255,554,1939,0,1000,1000 Rm,Germany,Rhodesia
+255,554,1940,0,1000,1000 Rm,Germany,Rhodesia
+255,560,1906,35922,1000,Marks,Germany,South Africa
+255,560,1907,45926,1000,Marks,Germany,South Africa
+255,560,1908,43833,1000,Marks,Germany,South Africa
+255,560,1909,61557,1000,Marks,Germany,South Africa
+255,560,1910,59383,1000,Marks,Germany,South Africa
+255,560,1911,55901,1000,Marks,Germany,South Africa
+255,560,1912,67207,1000,Marks,Germany,South Africa
+255,560,1920,299.5,1000000,Millionen Papiermarf,Germany,South Africa
+255,560,1923,103227,1000,1000 Rm,Germany,South Africa
+255,560,1924,125490,1000,1000 Rm,Germany,South Africa
+255,560,1925,120338,1000,1000 Rm,Germany,South Africa
+255,560,1926,87486,1000,1000 Rm,Germany,South Africa
+255,560,1927,146414,1000,1000 Rm,Germany,South Africa
+255,560,1928,188.1,1000000,Million Rm,Germany,South Africa
+255,560,1929,163992,1000,1000 Rm,Germany,South Africa
+255,560,1930,92926,1000,1000 Rm,Germany,South Africa
+255,560,1931,58704,1000,1000 Rm,Germany,South Africa
+255,560,1932,50106,1000,1000 Rm,Germany,South Africa
+255,560,1933,52395,1000,1000 Rm,Germany,South Africa
+255,560,1934,60576,1000,1000 Rm,Germany,South Africa
+255,560,1935,68442,1000,1000 Rm,Germany,South Africa
+255,560,1936,39485,1000,1000 Rm,Germany,South Africa
+255,560,1937,63674,1000,1000 Rm,Germany,South Africa
+255,560,1938,76563,1000,1000 Rm,Germany,South Africa
+255,560,1939,0,1000,1000 Rm,Germany,South Africa
+255,560,1940,0,1000,1000 Rm,Germany,South Africa
+255,580,1906,0,1000,Marks,Germany,Madagascar
+255,580,1907,0,1000,Marks,Germany,Madagascar
+255,580,1908,0,1000,Marks,Germany,Madagascar
+255,580,1909,0,1000,Marks,Germany,Madagascar
+255,580,1910,0,1000,Marks,Germany,Madagascar
+255,580,1911,0,1000,Marks,Germany,Madagascar
+255,580,1912,0,1000,Marks,Germany,Madagascar
+255,580,1920,0,1000000,Millionen Papiermarf,Germany,Madagascar
+255,580,1923,6843,1000,1000 Rm,Germany,Madagascar
+255,580,1924,6207,1000,1000 Rm,Germany,Madagascar
+255,580,1925,6194,1000,1000 Rm,Germany,Madagascar
+255,580,1926,4313,1000,1000 Rm,Germany,Madagascar
+255,580,1927,7452,1000,1000 Rm,Germany,Madagascar
+255,580,1928,5.6,1000000,Million Rm,Germany,Madagascar
+255,580,1929,4802,1000,1000 Rm,Germany,Madagascar
+255,580,1930,4638,1000,1000 Rm,Germany,Madagascar
+255,580,1931,3537,1000,1000 Rm,Germany,Madagascar
+255,580,1932,1834,1000,1000 Rm,Germany,Madagascar
+255,580,1933,1830,1000,1000 Rm,Germany,Madagascar
+255,580,1934,2703,1000,1000 Rm,Germany,Madagascar
+255,580,1935,2348,1000,1000 Rm,Germany,Madagascar
+255,580,1936,1298,1000,1000 Rm,Germany,Madagascar
+255,580,1937,2153,1000,1000 Rm,Germany,Madagascar
+255,580,1938,1716,1000,1000 Rm,Germany,Madagascar
+255,580,1939,0,1000,1000 Rm,Germany,Madagascar
+255,580,1940,0,1000,1000 Rm,Germany,Madagascar
+255,615,1906,15778,1000,Marks,Germany,Algeria
+255,615,1907,22316,1000,Marks,Germany,Algeria
+255,615,1908,19204,1000,Marks,Germany,Algeria
+255,615,1909,20337,1000,Marks,Germany,Algeria
+255,615,1910,20544,1000,Marks,Germany,Algeria
+255,615,1911,25854,1000,Marks,Germany,Algeria
+255,615,1912,31537,1000,Marks,Germany,Algeria
+255,615,1920,0,1000000,Millionen Papiermarf,Germany,Algeria
+255,615,1923,5762,1000,1000 Rm,Germany,Algeria
+255,615,1924,8484,1000,1000 Rm,Germany,Algeria
+255,615,1925,19114,1000,1000 Rm,Germany,Algeria
+255,615,1926,15108,1000,1000 Rm,Germany,Algeria
+255,615,1927,31279,1000,1000 Rm,Germany,Algeria
+255,615,1928,35.5,1000000,Million Rm,Germany,Algeria
+255,615,1929,32569,1000,1000 Rm,Germany,Algeria
+255,615,1930,23293,1000,1000 Rm,Germany,Algeria
+255,615,1931,13925,1000,1000 Rm,Germany,Algeria
+255,615,1932,7498,1000,1000 Rm,Germany,Algeria
+255,615,1933,8181,1000,1000 Rm,Germany,Algeria
+255,615,1934,8677,1000,1000 Rm,Germany,Algeria
+255,615,1935,5864,1000,1000 Rm,Germany,Algeria
+255,615,1936,8780,1000,1000 Rm,Germany,Algeria
+255,615,1937,12945,1000,1000 Rm,Germany,Algeria
+255,615,1938,15305,1000,1000 Rm,Germany,Algeria
+255,615,1939,0,1000,1000 Rm,Germany,Algeria
+255,615,1940,0,1000,1000 Rm,Germany,Algeria
+255,616,1906,0,1000,Marks,Germany,Tunisia
+255,616,1907,0,1000,Marks,Germany,Tunisia
+255,616,1908,0,1000,Marks,Germany,Tunisia
+255,616,1909,0,1000,Marks,Germany,Tunisia
+255,616,1910,0,1000,Marks,Germany,Tunisia
+255,616,1911,0,1000,Marks,Germany,Tunisia
+255,616,1912,0,1000,Marks,Germany,Tunisia
+255,616,1920,0,1000000,Millionen Papiermarf,Germany,Tunisia
+255,616,1923,1735,1000,1000 Rm,Germany,Tunisia
+255,616,1924,666,1000,1000 Rm,Germany,Tunisia
+255,616,1925,3674,1000,1000 Rm,Germany,Tunisia
+255,616,1926,4552,1000,1000 Rm,Germany,Tunisia
+255,616,1927,12507,1000,1000 Rm,Germany,Tunisia
+255,616,1928,12.9,1000000,Million Rm,Germany,Tunisia
+255,616,1929,13689,1000,1000 Rm,Germany,Tunisia
+255,616,1930,8815,1000,1000 Rm,Germany,Tunisia
+255,616,1931,4749,1000,1000 Rm,Germany,Tunisia
+255,616,1932,1599,1000,1000 Rm,Germany,Tunisia
+255,616,1933,2019,1000,1000 Rm,Germany,Tunisia
+255,616,1934,1828,1000,1000 Rm,Germany,Tunisia
+255,616,1935,1165,1000,1000 Rm,Germany,Tunisia
+255,616,1936,2695,1000,1000 Rm,Germany,Tunisia
+255,616,1937,2857,1000,1000 Rm,Germany,Tunisia
+255,616,1938,4012,1000,1000 Rm,Germany,Tunisia
+255,616,1939,0,1000,1000 Rm,Germany,Tunisia
+255,616,1940,0,1000,1000 Rm,Germany,Tunisia
+255,620,1906,0,1000,Marks,Germany,Libya
+255,620,1907,0,1000,Marks,Germany,Libya
+255,620,1908,0,1000,Marks,Germany,Libya
+255,620,1909,0,1000,Marks,Germany,Libya
+255,620,1910,0,1000,Marks,Germany,Libya
+255,620,1911,0,1000,Marks,Germany,Libya
+255,620,1912,0,1000,Marks,Germany,Libya
+255,620,1920,0,1000000,Millionen Papiermarf,Germany,Libya
+255,620,1923,0,1000,1000 Rm,Germany,Libya
+255,620,1924,0,1000,1000 Rm,Germany,Libya
+255,620,1925,0,1000,1000 Rm,Germany,Libya
+255,620,1926,0,1000,1000 Rm,Germany,Libya
+255,620,1927,0,1000,1000 Rm,Germany,Libya
+255,620,1928,0,1000000,Million Rm,Germany,Libya
+255,620,1929,0,1000,1000 Rm,Germany,Libya
+255,620,1930,0,1000,1000 Rm,Germany,Libya
+255,620,1931,0,1000,1000 Rm,Germany,Libya
+255,620,1932,0,1000,1000 Rm,Germany,Libya
+255,620,1933,0,1000,1000 Rm,Germany,Libya
+255,620,1934,0,1000,1000 Rm,Germany,Libya
+255,620,1935,0,1000,1000 Rm,Germany,Libya
+255,620,1936,0,1000,1000 Rm,Germany,Libya
+255,620,1937,47,1000,1000 Rm,Germany,Libya
+255,620,1938,38,1000,1000 Rm,Germany,Libya
+255,620,1939,112,1000,1000 Rm,Germany,Libya
+255,620,1940,114,1000,1000 Rm,Germany,Libya
+255,630,1906,0,1000,Marks,Germany,Iran
+255,630,1907,0,1000,Marks,Germany,Iran
+255,630,1908,0,1000,Marks,Germany,Iran
+255,630,1909,0,1000,Marks,Germany,Iran
+255,630,1910,0,1000,Marks,Germany,Iran
+255,630,1911,0,1000,Marks,Germany,Iran
+255,630,1912,0,1000,Marks,Germany,Iran
+255,630,1920,0,1000000,Millionen Papiermarf,Germany,Iran
+255,630,1923,3641,1000,1000 Rm,Germany,Iran
+255,630,1924,2587,1000,1000 Rm,Germany,Iran
+255,630,1925,12428,1000,1000 Rm,Germany,Iran
+255,630,1926,15891,1000,1000 Rm,Germany,Iran
+255,630,1927,26114,1000,1000 Rm,Germany,Iran
+255,630,1928,29.3,1000000,Million Rm,Germany,Iran
+255,630,1929,30764,1000,1000 Rm,Germany,Iran
+255,630,1930,36232,1000,1000 Rm,Germany,Iran
+255,630,1931,35289,1000,1000 Rm,Germany,Iran
+255,630,1932,28796,1000,1000 Rm,Germany,Iran
+255,630,1933,20562,1000,1000 Rm,Germany,Iran
+255,630,1934,24121,1000,1000 Rm,Germany,Iran
+255,630,1935,15303,1000,1000 Rm,Germany,Iran
+255,630,1936,23056,1000,1000 Rm,Germany,Iran
+255,630,1937,33738,1000,1000 Rm,Germany,Iran
+255,630,1938,38444,1000,1000 Rm,Germany,Iran
+255,630,1939,58008,1000,1000 Rm,Germany,Iran
+255,630,1940,60263,1000,1000 Rm,Germany,Iran
+255,640,1906,55050,1000,Marks,Germany,Turkey
+255,640,1907,55225,1000,Marks,Germany,Turkey
+255,640,1908,47556,1000,Marks,Germany,Turkey
+255,640,1909,57291,1000,Marks,Germany,Turkey
+255,640,1910,67452,1000,Marks,Germany,Turkey
+255,640,1911,70092,1000,Marks,Germany,Turkey
+255,640,1912,77874,1000,Marks,Germany,Turkey
+255,640,1913,73900,,,Germany,Turkey
+255,640,1920,1097.5,1000000,Millionen Papiermarf,Germany,Turkey
+255,640,1923,27710,1000,1000 Rm,Germany,Turkey
+255,640,1924,59729,1000,1000 Rm,Germany,Turkey
+255,640,1925,69033,1000,1000 Rm,Germany,Turkey
+255,640,1926,54701,1000,1000 Rm,Germany,Turkey
+255,640,1927,63257,1000,1000 Rm,Germany,Turkey
+255,640,1928,72,1000000,Million Rm,Germany,Turkey
+255,640,1929,75643,1000,1000 Rm,Germany,Turkey
+255,640,1930,68979,1000,1000 Rm,Germany,Turkey
+255,640,1931,52570,1000,1000 Rm,Germany,Turkey
+255,640,1932,40132,1000,1000 Rm,Germany,Turkey
+255,640,1933,37874,1000,1000 Rm,Germany,Turkey
+255,640,1934,67471,1000,1000 Rm,Germany,Turkey
+255,640,1935,93375,1000,1000 Rm,Germany,Turkey
+255,640,1936,118522,1000,1000 Rm,Germany,Turkey
+255,640,1937,97787,1000,1000 Rm,Germany,Turkey
+255,640,1938,115989,1000,1000 Rm,Germany,Turkey
+255,640,1939,122630,1000,1000 Rm,Germany,Turkey
+255,640,1940,51094,1000,1000 Rm,Germany,Turkey
+255,645,1906,0,1000,Marks,Germany,Iraq
+255,645,1907,0,1000,Marks,Germany,Iraq
+255,645,1908,0,1000,Marks,Germany,Iraq
+255,645,1909,0,1000,Marks,Germany,Iraq
+255,645,1910,0,1000,Marks,Germany,Iraq
+255,645,1911,0,1000,Marks,Germany,Iraq
+255,645,1912,0,1000,Marks,Germany,Iraq
+255,645,1920,0,1000000,Millionen Papiermarf,Germany,Iraq
+255,645,1923,0,1000,1000 Rm,Germany,Iraq
+255,645,1924,0,1000,1000 Rm,Germany,Iraq
+255,645,1925,0,1000,1000 Rm,Germany,Iraq
+255,645,1926,0,1000,1000 Rm,Germany,Iraq
+255,645,1927,0,1000,1000 Rm,Germany,Iraq
+255,645,1928,0,1000000,Million Rm,Germany,Iraq
+255,645,1929,0,1000,1000 Rm,Germany,Iraq
+255,645,1930,0,1000,1000 Rm,Germany,Iraq
+255,645,1931,0,1000,1000 Rm,Germany,Iraq
+255,645,1932,0,1000,1000 Rm,Germany,Iraq
+255,645,1933,0,1000,1000 Rm,Germany,Iraq
+255,645,1934,0,1000,1000 Rm,Germany,Iraq
+255,645,1935,0,1000,1000 Rm,Germany,Iraq
+255,645,1936,0,1000,1000 Rm,Germany,Iraq
+255,645,1937,1948,1000,1000 Rm,Germany,Iraq
+255,645,1938,4192,1000,1000 Rm,Germany,Iraq
+255,645,1939,0,1000,1000 Rm,Germany,Iraq
+255,645,1940,0,1000,1000 Rm,Germany,Iraq
+255,651,1906,65455,1000,Marks,Germany,Egypt
+255,651,1907,80428,1000,Marks,Germany,Egypt
+255,651,1908,63051,1000,Marks,Germany,Egypt
+255,651,1909,95727,1000,Marks,Germany,Egypt
+255,651,1910,93623,1000,Marks,Germany,Egypt
+255,651,1911,99535,1000,Marks,Germany,Egypt
+255,651,1912,111666,1000,Marks,Germany,Egypt
+255,651,1920,716.5,1000000,Millionen Papiermarf,Germany,Egypt
+255,651,1923,44852,1000,1000 Rm,Germany,Egypt
+255,651,1924,84308,1000,1000 Rm,Germany,Egypt
+255,651,1925,83128,1000,1000 Rm,Germany,Egypt
+255,651,1926,51973,1000,1000 Rm,Germany,Egypt
+255,651,1927,81733,1000,1000 Rm,Germany,Egypt
+255,651,1928,68.09999999999999,1000000,Million Rm,Germany,Egypt
+255,651,1929,78094,1000,1000 Rm,Germany,Egypt
+255,651,1930,58542,1000,1000 Rm,Germany,Egypt
+255,651,1931,48295,1000,1000 Rm,Germany,Egypt
+255,651,1932,42365,1000,1000 Rm,Germany,Egypt
+255,651,1933,43121,1000,1000 Rm,Germany,Egypt
+255,651,1934,43608,1000,1000 Rm,Germany,Egypt
+255,651,1935,44123,1000,1000 Rm,Germany,Egypt
+255,651,1936,37120,1000,1000 Rm,Germany,Egypt
+255,651,1937,47592,1000,1000 Rm,Germany,Egypt
+255,651,1938,45337,1000,1000 Rm,Germany,Egypt
+255,651,1939,0,1000,1000 Rm,Germany,Egypt
+255,651,1940,0,1000,1000 Rm,Germany,Egypt
+255,665,1906,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1907,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1908,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1909,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1910,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1911,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1912,0,1000,Marks,Germany,West Bank And Gaza
+255,665,1920,0,1000000,Millionen Papiermarf,Germany,West Bank And Gaza
+255,665,1923,188,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1924,287,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1925,380,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1926,517,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1927,1464,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1928,3,1000000,Million Rm,Germany,West Bank And Gaza
+255,665,1929,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1930,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1931,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1932,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1933,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1934,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1935,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1936,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1937,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1938,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1939,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,665,1940,0,1000,1000 Rm,Germany,West Bank And Gaza
+255,675,1906,0,1000,Marks,Germany,Arabia
+255,675,1907,0,1000,Marks,Germany,Arabia
+255,675,1908,0,1000,Marks,Germany,Arabia
+255,675,1909,0,1000,Marks,Germany,Arabia
+255,675,1910,0,1000,Marks,Germany,Arabia
+255,675,1911,0,1000,Marks,Germany,Arabia
+255,675,1912,0,1000,Marks,Germany,Arabia
+255,675,1920,0,1000000,Millionen Papiermarf,Germany,Arabia
+255,675,1923,413,1000,1000 Rm,Germany,Arabia
+255,675,1924,886,1000,1000 Rm,Germany,Arabia
+255,675,1925,0,1000,1000 Rm,Germany,Arabia
+255,675,1926,0,1000,1000 Rm,Germany,Arabia
+255,675,1927,0,1000,1000 Rm,Germany,Arabia
+255,675,1928,0,1000000,Million Rm,Germany,Arabia
+255,675,1929,0,1000,1000 Rm,Germany,Arabia
+255,675,1930,0,1000,1000 Rm,Germany,Arabia
+255,675,1931,0,1000,1000 Rm,Germany,Arabia
+255,675,1932,0,1000,1000 Rm,Germany,Arabia
+255,675,1933,0,1000,1000 Rm,Germany,Arabia
+255,675,1934,0,1000,1000 Rm,Germany,Arabia
+255,675,1935,0,1000,1000 Rm,Germany,Arabia
+255,675,1936,0,1000,1000 Rm,Germany,Arabia
+255,675,1937,0,1000,1000 Rm,Germany,Arabia
+255,675,1938,0,1000,1000 Rm,Germany,Arabia
+255,675,1939,0,1000,1000 Rm,Germany,Arabia
+255,675,1940,0,1000,1000 Rm,Germany,Arabia
+255,681,1906,0,1000,Marks,Germany,Aden
+255,681,1907,0,1000,Marks,Germany,Aden
+255,681,1908,0,1000,Marks,Germany,Aden
+255,681,1909,0,1000,Marks,Germany,Aden
+255,681,1910,0,1000,Marks,Germany,Aden
+255,681,1911,0,1000,Marks,Germany,Aden
+255,681,1912,0,1000,Marks,Germany,Aden
+255,681,1920,0,1000000,Millionen Papiermarf,Germany,Aden
+255,681,1923,27,1000,1000 Rm,Germany,Aden
+255,681,1924,36,1000,1000 Rm,Germany,Aden
+255,681,1925,0,1000,1000 Rm,Germany,Aden
+255,681,1926,0,1000,1000 Rm,Germany,Aden
+255,681,1927,0,1000,1000 Rm,Germany,Aden
+255,681,1928,0,1000000,Million Rm,Germany,Aden
+255,681,1929,0,1000,1000 Rm,Germany,Aden
+255,681,1930,0,1000,1000 Rm,Germany,Aden
+255,681,1931,0,1000,1000 Rm,Germany,Aden
+255,681,1932,0,1000,1000 Rm,Germany,Aden
+255,681,1933,0,1000,1000 Rm,Germany,Aden
+255,681,1934,0,1000,1000 Rm,Germany,Aden
+255,681,1935,0,1000,1000 Rm,Germany,Aden
+255,681,1936,0,1000,1000 Rm,Germany,Aden
+255,681,1937,0,1000,1000 Rm,Germany,Aden
+255,681,1938,0,1000,1000 Rm,Germany,Aden
+255,681,1939,0,1000,1000 Rm,Germany,Aden
+255,681,1940,0,1000,1000 Rm,Germany,Aden
+255,700,1906,0,1000,Marks,Germany,Afghanistan
+255,700,1907,0,1000,Marks,Germany,Afghanistan
+255,700,1908,0,1000,Marks,Germany,Afghanistan
+255,700,1909,0,1000,Marks,Germany,Afghanistan
+255,700,1910,0,1000,Marks,Germany,Afghanistan
+255,700,1911,0,1000,Marks,Germany,Afghanistan
+255,700,1912,0,1000,Marks,Germany,Afghanistan
+255,700,1920,0,1000000,Millionen Papiermarf,Germany,Afghanistan
+255,700,1923,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1924,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1925,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1926,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1927,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1928,0,1000000,Million Rm,Germany,Afghanistan
+255,700,1929,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1930,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1931,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1932,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1933,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1934,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1935,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1936,0,1000,1000 Rm,Germany,Afghanistan
+255,700,1937,679,1000,1000 Rm,Germany,Afghanistan
+255,700,1938,1553,1000,1000 Rm,Germany,Afghanistan
+255,700,1939,2441,1000,1000 Rm,Germany,Afghanistan
+255,700,1940,503,1000,1000 Rm,Germany,Afghanistan
+255,710,1906,57004,1000,Marks,Germany,China
+255,710,1907,56725,1000,Marks,Germany,China
+255,710,1908,70665,1000,Marks,Germany,China
+255,710,1909,65190,1000,Marks,Germany,China
+255,710,1910,94667,1000,Marks,Germany,China
+255,710,1911,103344,1000,Marks,Germany,China
+255,710,1912,115279,1000,Marks,Germany,China
+255,710,1920,971.6,1000000,Millionen Papiermarf,Germany,China
+255,710,1923,97213,1000,1000 Rm,Germany,China
+255,710,1924,127220,1000,1000 Rm,Germany,China
+255,710,1925,228549,1000,1000 Rm,Germany,China
+255,710,1926,197205,1000,1000 Rm,Germany,China
+255,710,1927,265076,1000,1000 Rm,Germany,China
+255,710,1928,329.8,1000000,Million Rm,Germany,China
+255,710,1929,370669,1000,1000 Rm,Germany,China
+255,710,1930,297731,1000,1000 Rm,Germany,China
+255,710,1931,215470,1000,1000 Rm,Germany,China
+255,710,1932,177098,1000,1000 Rm,Germany,China
+255,710,1933,153239,1000,1000 Rm,Germany,China
+255,710,1934,121952,1000,1000 Rm,Germany,China
+255,710,1935,102427,1000,1000 Rm,Germany,China
+255,710,1936,113496,1000,1000 Rm,Germany,China
+255,710,1937,93628,1000,1000 Rm,Germany,China
+255,710,1938,101761,1000,1000 Rm,Germany,China
+255,710,1939,57261,1000,1000 Rm,Germany,China
+255,710,1940,16670,1000,1000 Rm,Germany,China
+255,720,1906,0,1000,Marks,Germany,Hong Kong
+255,720,1907,0,1000,Marks,Germany,Hong Kong
+255,720,1908,0,1000,Marks,Germany,Hong Kong
+255,720,1909,0,1000,Marks,Germany,Hong Kong
+255,720,1910,0,1000,Marks,Germany,Hong Kong
+255,720,1911,0,1000,Marks,Germany,Hong Kong
+255,720,1912,0,1000,Marks,Germany,Hong Kong
+255,720,1920,0,1000000,Millionen Papiermarf,Germany,Hong Kong
+255,720,1923,60,1000,1000 Rm,Germany,Hong Kong
+255,720,1924,13,1000,1000 Rm,Germany,Hong Kong
+255,720,1925,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1926,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1927,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1928,0,1000000,Million Rm,Germany,Hong Kong
+255,720,1929,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1930,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1931,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1932,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1933,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1934,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1935,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1936,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1937,217,1000,1000 Rm,Germany,Hong Kong
+255,720,1938,190,1000,1000 Rm,Germany,Hong Kong
+255,720,1939,0,1000,1000 Rm,Germany,Hong Kong
+255,720,1940,0,1000,1000 Rm,Germany,Hong Kong
+255,730,1906,0,1000,Marks,Germany,Korea
+255,730,1907,0,1000,Marks,Germany,Korea
+255,730,1908,0,1000,Marks,Germany,Korea
+255,730,1909,0,1000,Marks,Germany,Korea
+255,730,1910,0,1000,Marks,Germany,Korea
+255,730,1911,0,1000,Marks,Germany,Korea
+255,730,1912,0,1000,Marks,Germany,Korea
+255,730,1920,0,1000000,Millionen Papiermarf,Germany,Korea
+255,730,1923,4,1000,1000 Rm,Germany,Korea
+255,730,1924,13,1000,1000 Rm,Germany,Korea
+255,730,1925,0,1000,1000 Rm,Germany,Korea
+255,730,1926,0,1000,1000 Rm,Germany,Korea
+255,730,1927,0,1000,1000 Rm,Germany,Korea
+255,730,1928,0,1000000,Million Rm,Germany,Korea
+255,730,1929,0,1000,1000 Rm,Germany,Korea
+255,730,1930,0,1000,1000 Rm,Germany,Korea
+255,730,1931,0,1000,1000 Rm,Germany,Korea
+255,730,1932,0,1000,1000 Rm,Germany,Korea
+255,730,1933,0,1000,1000 Rm,Germany,Korea
+255,730,1934,0,1000,1000 Rm,Germany,Korea
+255,730,1935,0,1000,1000 Rm,Germany,Korea
+255,730,1936,0,1000,1000 Rm,Germany,Korea
+255,730,1937,0,1000,1000 Rm,Germany,Korea
+255,730,1938,0,1000,1000 Rm,Germany,Korea
+255,730,1939,0,1000,1000 Rm,Germany,Korea
+255,730,1940,0,1000,1000 Rm,Germany,Korea
+255,740,1906,25878,1000,Marks,Germany,Japan
+255,740,1907,29357,1000,Marks,Germany,Japan
+255,740,1908,19008,1000,Marks,Germany,Japan
+255,740,1909,29228,1000,Marks,Germany,Japan
+255,740,1910,36805,1000,Marks,Germany,Japan
+255,740,1911,37573,1000,Marks,Germany,Japan
+255,740,1912,43133,1000,Marks,Germany,Japan
+255,740,1920,477.5,1000000,Millionen Papiermarf,Germany,Japan
+255,740,1923,13149,1000,1000 Rm,Germany,Japan
+255,740,1924,17625,1000,1000 Rm,Germany,Japan
+255,740,1925,28977,1000,1000 Rm,Germany,Japan
+255,740,1926,18892,1000,1000 Rm,Germany,Japan
+255,740,1927,27677,1000,1000 Rm,Germany,Japan
+255,740,1928,39.8,1000000,Million Rm,Germany,Japan
+255,740,1929,43342,1000,1000 Rm,Germany,Japan
+255,740,1930,41080,1000,1000 Rm,Germany,Japan
+255,740,1931,29865,1000,1000 Rm,Germany,Japan
+255,740,1932,18770,1000,1000 Rm,Germany,Japan
+255,740,1933,15915,1000,1000 Rm,Germany,Japan
+255,740,1934,21733,1000,1000 Rm,Germany,Japan
+255,740,1935,20971,1000,1000 Rm,Germany,Japan
+255,740,1936,23693,1000,1000 Rm,Germany,Japan
+255,740,1937,25653,1000,1000 Rm,Germany,Japan
+255,740,1938,24979,1000,1000 Rm,Germany,Japan
+255,740,1939,25776,1000,1000 Rm,Germany,Japan
+255,740,1940,26709,1000,1000 Rm,Germany,Japan
+255,750,1906,322212,1000,Marks,Germany,India
+255,750,1907,407096,1000,Marks,Germany,India
+255,750,1908,306901,1000,Marks,Germany,India
+255,750,1909,316955,1000,Marks,Germany,India
+255,750,1910,404043,1000,Marks,Germany,India
+255,750,1911,440295,1000,Marks,Germany,India
+255,750,1912,533239,1000,Marks,Germany,India
+255,750,1920,3383.6,1000000,Millionen Papiermarf,Germany,India
+255,750,1923,236166,1000,1000 Rm,Germany,India
+255,750,1924,397767,1000,1000 Rm,Germany,India
+255,750,1925,640420,1000,1000 Rm,Germany,India
+255,750,1926,436567,1000,1000 Rm,Germany,India
+255,750,1927,526101,1000,1000 Rm,Germany,India
+255,750,1928,711.4,1000000,Million Rm,Germany,India
+255,750,1929,623685,1000,1000 Rm,Germany,India
+255,750,1930,428536,1000,1000 Rm,Germany,India
+255,750,1931,280532,1000,1000 Rm,Germany,India
+255,750,1932,158784,1000,1000 Rm,Germany,India
+255,750,1933,153917,1000,1000 Rm,Germany,India
+255,750,1934,134659,1000,1000 Rm,Germany,India
+255,750,1935,121328,1000,1000 Rm,Germany,India
+255,750,1936,142061,1000,1000 Rm,Germany,India
+255,750,1937,168585,1000,1000 Rm,Germany,India
+255,750,1938,141955,1000,1000 Rm,Germany,India
+255,750,1939,0,1000,1000 Rm,Germany,India
+255,750,1940,0,1000,1000 Rm,Germany,India
+255,751,1906,0,1000,Marks,Germany,French India
+255,751,1907,0,1000,Marks,Germany,French India
+255,751,1908,0,1000,Marks,Germany,French India
+255,751,1909,0,1000,Marks,Germany,French India
+255,751,1910,0,1000,Marks,Germany,French India
+255,751,1911,0,1000,Marks,Germany,French India
+255,751,1912,0,1000,Marks,Germany,French India
+255,751,1920,0,1000000,Millionen Papiermarf,Germany,French India
+255,751,1923,1355,1000,1000 Rm,Germany,French India
+255,751,1924,437,1000,1000 Rm,Germany,French India
+255,751,1925,2455,1000,1000 Rm,Germany,French India
+255,751,1926,2699,1000,1000 Rm,Germany,French India
+255,751,1927,1848,1000,1000 Rm,Germany,French India
+255,751,1928,6.2,1000000,Million Rm,Germany,French India
+255,751,1929,3661,1000,1000 Rm,Germany,French India
+255,751,1930,3777,1000,1000 Rm,Germany,French India
+255,751,1931,1475,1000,1000 Rm,Germany,French India
+255,751,1932,2320,1000,1000 Rm,Germany,French India
+255,751,1933,1223,1000,1000 Rm,Germany,French India
+255,751,1934,1447,1000,1000 Rm,Germany,French India
+255,751,1935,3022,1000,1000 Rm,Germany,French India
+255,751,1936,4139,1000,1000 Rm,Germany,French India
+255,751,1937,0,1000,1000 Rm,Germany,French India
+255,751,1938,0,1000,1000 Rm,Germany,French India
+255,751,1939,0,1000,1000 Rm,Germany,French India
+255,751,1940,0,1000,1000 Rm,Germany,French India
+255,775,1906,0,1000,Marks,Germany,Myanmar
+255,775,1907,0,1000,Marks,Germany,Myanmar
+255,775,1908,0,1000,Marks,Germany,Myanmar
+255,775,1909,0,1000,Marks,Germany,Myanmar
+255,775,1910,0,1000,Marks,Germany,Myanmar
+255,775,1911,0,1000,Marks,Germany,Myanmar
+255,775,1912,0,1000,Marks,Germany,Myanmar
+255,775,1920,0,1000000,Millionen Papiermarf,Germany,Myanmar
+255,775,1923,0,1000,1000 Rm,Germany,Myanmar
+255,775,1924,0,1000,1000 Rm,Germany,Myanmar
+255,775,1925,0,1000,1000 Rm,Germany,Myanmar
+255,775,1926,0,1000,1000 Rm,Germany,Myanmar
+255,775,1927,0,1000,1000 Rm,Germany,Myanmar
+255,775,1928,0,1000000,Million Rm,Germany,Myanmar
+255,775,1929,0,1000,1000 Rm,Germany,Myanmar
+255,775,1930,0,1000,1000 Rm,Germany,Myanmar
+255,775,1931,0,1000,1000 Rm,Germany,Myanmar
+255,775,1932,0,1000,1000 Rm,Germany,Myanmar
+255,775,1933,0,1000,1000 Rm,Germany,Myanmar
+255,775,1934,0,1000,1000 Rm,Germany,Myanmar
+255,775,1935,0,1000,1000 Rm,Germany,Myanmar
+255,775,1936,0,1000,1000 Rm,Germany,Myanmar
+255,775,1937,0,1000,1000 Rm,Germany,Myanmar
+255,775,1938,20659,1000,1000 Rm,Germany,Myanmar
+255,775,1939,0,1000,1000 Rm,Germany,Myanmar
+255,775,1940,0,1000,1000 Rm,Germany,Myanmar
+255,780,1906,0,1000,Marks,Germany,Sri Lanka
+255,780,1907,0,1000,Marks,Germany,Sri Lanka
+255,780,1908,0,1000,Marks,Germany,Sri Lanka
+255,780,1909,0,1000,Marks,Germany,Sri Lanka
+255,780,1910,0,1000,Marks,Germany,Sri Lanka
+255,780,1911,0,1000,Marks,Germany,Sri Lanka
+255,780,1912,0,1000,Marks,Germany,Sri Lanka
+255,780,1920,352.7,1000000,Millionen Papiermarf,Germany,Sri Lanka
+255,780,1923,15968,1000,1000 Rm,Germany,Sri Lanka
+255,780,1924,24996,1000,1000 Rm,Germany,Sri Lanka
+255,780,1925,42326,1000,1000 Rm,Germany,Sri Lanka
+255,780,1926,37498,1000,1000 Rm,Germany,Sri Lanka
+255,780,1927,35959,1000,1000 Rm,Germany,Sri Lanka
+255,780,1928,26.2,1000000,Million Rm,Germany,Sri Lanka
+255,780,1929,30231,1000,1000 Rm,Germany,Sri Lanka
+255,780,1930,21024,1000,1000 Rm,Germany,Sri Lanka
+255,780,1931,14403,1000,1000 Rm,Germany,Sri Lanka
+255,780,1932,9660,1000,1000 Rm,Germany,Sri Lanka
+255,780,1933,9333,1000,1000 Rm,Germany,Sri Lanka
+255,780,1934,11529,1000,1000 Rm,Germany,Sri Lanka
+255,780,1935,8970,1000,1000 Rm,Germany,Sri Lanka
+255,780,1936,7969,1000,1000 Rm,Germany,Sri Lanka
+255,780,1937,10274,1000,1000 Rm,Germany,Sri Lanka
+255,780,1938,6530,1000,1000 Rm,Germany,Sri Lanka
+255,780,1939,0,1000,1000 Rm,Germany,Sri Lanka
+255,780,1940,0,1000,1000 Rm,Germany,Sri Lanka
+255,800,1906,0,1000,Marks,Germany,Thailand
+255,800,1907,0,1000,Marks,Germany,Thailand
+255,800,1908,0,1000,Marks,Germany,Thailand
+255,800,1909,0,1000,Marks,Germany,Thailand
+255,800,1910,0,1000,Marks,Germany,Thailand
+255,800,1911,0,1000,Marks,Germany,Thailand
+255,800,1912,0,1000,Marks,Germany,Thailand
+255,800,1920,0,1000000,Millionen Papiermarf,Germany,Thailand
+255,800,1923,1994,1000,1000 Rm,Germany,Thailand
+255,800,1924,2953,1000,1000 Rm,Germany,Thailand
+255,800,1925,9045,1000,1000 Rm,Germany,Thailand
+255,800,1926,14246,1000,1000 Rm,Germany,Thailand
+255,800,1927,18183,1000,1000 Rm,Germany,Thailand
+255,800,1928,19.6,1000000,Million Rm,Germany,Thailand
+255,800,1929,7908,1000,1000 Rm,Germany,Thailand
+255,800,1930,3710,1000,1000 Rm,Germany,Thailand
+255,800,1931,2373,1000,1000 Rm,Germany,Thailand
+255,800,1932,3154,1000,1000 Rm,Germany,Thailand
+255,800,1933,3335,1000,1000 Rm,Germany,Thailand
+255,800,1934,3168,1000,1000 Rm,Germany,Thailand
+255,800,1935,1745,1000,1000 Rm,Germany,Thailand
+255,800,1936,2205,1000,1000 Rm,Germany,Thailand
+255,800,1937,2848,1000,1000 Rm,Germany,Thailand
+255,800,1938,4956,1000,1000 Rm,Germany,Thailand
+255,800,1939,6461,1000,1000 Rm,Germany,Thailand
+255,800,1940,3088,1000,1000 Rm,Germany,Thailand
+255,810,1906,0,1000,Marks,Germany,French Indo-China
+255,810,1907,0,1000,Marks,Germany,French Indo-China
+255,810,1908,0,1000,Marks,Germany,French Indo-China
+255,810,1909,0,1000,Marks,Germany,French Indo-China
+255,810,1910,0,1000,Marks,Germany,French Indo-China
+255,810,1911,0,1000,Marks,Germany,French Indo-China
+255,810,1912,0,1000,Marks,Germany,French Indo-China
+255,810,1920,0,1000000,Millionen Papiermarf,Germany,French Indo-China
+255,810,1923,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1924,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1925,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1926,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1927,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1928,0,1000000,Million Rm,Germany,French Indo-China
+255,810,1929,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1930,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1931,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1932,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1933,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1934,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1935,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1936,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1937,10193,1000,1000 Rm,Germany,French Indo-China
+255,810,1938,3271,1000,1000 Rm,Germany,French Indo-China
+255,810,1939,0,1000,1000 Rm,Germany,French Indo-China
+255,810,1940,0,1000,1000 Rm,Germany,French Indo-China
+255,820,1906,22904,1000,Marks,Germany,Malaysia
+255,820,1907,23699,1000,Marks,Germany,Malaysia
+255,820,1908,17848,1000,Marks,Germany,Malaysia
+255,820,1909,27104,1000,Marks,Germany,Malaysia
+255,820,1910,45649,1000,Marks,Germany,Malaysia
+255,820,1911,27442,1000,Marks,Germany,Malaysia
+255,820,1912,23750,1000,Marks,Germany,Malaysia
+255,820,1920,0,1000000,Millionen Papiermarf,Germany,Malaysia
+255,820,1923,0,1000,1000 Rm,Germany,Malaysia
+255,820,1924,0,1000,1000 Rm,Germany,Malaysia
+255,820,1925,0,1000,1000 Rm,Germany,Malaysia
+255,820,1926,0,1000,1000 Rm,Germany,Malaysia
+255,820,1927,0,1000,1000 Rm,Germany,Malaysia
+255,820,1928,0,1000000,Million Rm,Germany,Malaysia
+255,820,1929,34412,1000,1000 Rm,Germany,Malaysia
+255,820,1930,29293,1000,1000 Rm,Germany,Malaysia
+255,820,1931,18704,1000,1000 Rm,Germany,Malaysia
+255,820,1932,13076,1000,1000 Rm,Germany,Malaysia
+255,820,1933,15580,1000,1000 Rm,Germany,Malaysia
+255,820,1934,22500,1000,1000 Rm,Germany,Malaysia
+255,820,1935,26552,1000,1000 Rm,Germany,Malaysia
+255,820,1936,51946,1000,1000 Rm,Germany,Malaysia
+255,820,1937,97045,1000,1000 Rm,Germany,Malaysia
+255,820,1938,49790,1000,1000 Rm,Germany,Malaysia
+255,820,1939,0,1000,1000 Rm,Germany,Malaysia
+255,820,1940,0,1000,1000 Rm,Germany,Malaysia
+255,840,1906,0,1000,Marks,Germany,Philippines
+255,840,1907,0,1000,Marks,Germany,Philippines
+255,840,1908,0,1000,Marks,Germany,Philippines
+255,840,1909,0,1000,Marks,Germany,Philippines
+255,840,1910,0,1000,Marks,Germany,Philippines
+255,840,1911,0,1000,Marks,Germany,Philippines
+255,840,1912,0,1000,Marks,Germany,Philippines
+255,840,1920,0,1000000,Millionen Papiermarf,Germany,Philippines
+255,840,1923,4419,1000,1000 Rm,Germany,Philippines
+255,840,1924,8704,1000,1000 Rm,Germany,Philippines
+255,840,1925,14409,1000,1000 Rm,Germany,Philippines
+255,840,1926,10878,1000,1000 Rm,Germany,Philippines
+255,840,1927,12198,1000,1000 Rm,Germany,Philippines
+255,840,1928,13.4,1000000,Million Rm,Germany,Philippines
+255,840,1929,14672,1000,1000 Rm,Germany,Philippines
+255,840,1930,10307,1000,1000 Rm,Germany,Philippines
+255,840,1931,6983,1000,1000 Rm,Germany,Philippines
+255,840,1932,5713,1000,1000 Rm,Germany,Philippines
+255,840,1933,3748,1000,1000 Rm,Germany,Philippines
+255,840,1934,2416,1000,1000 Rm,Germany,Philippines
+255,840,1935,1902,1000,1000 Rm,Germany,Philippines
+255,840,1936,10527,1000,1000 Rm,Germany,Philippines
+255,840,1937,5313,1000,1000 Rm,Germany,Philippines
+255,840,1938,7369,1000,1000 Rm,Germany,Philippines
+255,840,1939,4877,1000,1000 Rm,Germany,Philippines
+255,840,1940,273,1000,1000 Rm,Germany,Philippines
+255,900,1906,175302,1000,Marks,Germany,Australia
+255,900,1907,227979,1000,Marks,Germany,Australia
+255,900,1908,185869,1000,Marks,Germany,Australia
+255,900,1909,233097,1000,Marks,Germany,Australia
+255,900,1910,267856,1000,Marks,Germany,Australia
+255,900,1911,248243,1000,Marks,Germany,Australia
+255,900,1912,276713,1000,Marks,Germany,Australia
+255,900,1920,507.3,1000000,Millionen Papiermarf,Germany,Australia
+255,900,1923,196579,1000,1000 Rm,Germany,Australia
+255,900,1924,248040,1000,1000 Rm,Germany,Australia
+255,900,1925,294841,1000,1000 Rm,Germany,Australia
+255,900,1926,274277,1000,1000 Rm,Germany,Australia
+255,900,1927,321852,1000,1000 Rm,Germany,Australia
+255,900,1928,328.2,1000000,Million Rm,Germany,Australia
+255,900,1929,313396,1000,1000 Rm,Germany,Australia
+255,900,1930,205640,1000,1000 Rm,Germany,Australia
+255,900,1931,121053,1000,1000 Rm,Germany,Australia
+255,900,1932,92358,1000,1000 Rm,Germany,Australia
+255,900,1933,103708,1000,1000 Rm,Germany,Australia
+255,900,1934,105390,1000,1000 Rm,Germany,Australia
+255,900,1935,35084,1000,1000 Rm,Germany,Australia
+255,900,1936,42681,1000,1000 Rm,Germany,Australia
+255,900,1937,77615,1000,1000 Rm,Germany,Australia
+255,900,1938,53501,1000,1000 Rm,Germany,Australia
+255,900,1939,0,1000,1000 Rm,Germany,Australia
+255,900,1940,0,1000,1000 Rm,Germany,Australia
+255,920,1906,0,1000,Marks,Germany,New Zealand
+255,920,1907,0,1000,Marks,Germany,New Zealand
+255,920,1908,0,1000,Marks,Germany,New Zealand
+255,920,1909,0,1000,Marks,Germany,New Zealand
+255,920,1910,0,1000,Marks,Germany,New Zealand
+255,920,1911,0,1000,Marks,Germany,New Zealand
+255,920,1912,0,1000,Marks,Germany,New Zealand
+255,920,1920,0,1000000,Millionen Papiermarf,Germany,New Zealand
+255,920,1923,6029,1000,1000 Rm,Germany,New Zealand
+255,920,1924,15133,1000,1000 Rm,Germany,New Zealand
+255,920,1925,22174,1000,1000 Rm,Germany,New Zealand
+255,920,1926,13749,1000,1000 Rm,Germany,New Zealand
+255,920,1927,21662,1000,1000 Rm,Germany,New Zealand
+255,920,1928,22,1000000,Million Rm,Germany,New Zealand
+255,920,1929,27296,1000,1000 Rm,Germany,New Zealand
+255,920,1930,21554,1000,1000 Rm,Germany,New Zealand
+255,920,1931,20805,1000,1000 Rm,Germany,New Zealand
+255,920,1932,16491,1000,1000 Rm,Germany,New Zealand
+255,920,1933,24930,1000,1000 Rm,Germany,New Zealand
+255,920,1934,35690,1000,1000 Rm,Germany,New Zealand
+255,920,1935,4376,1000,1000 Rm,Germany,New Zealand
+255,920,1936,6687,1000,1000 Rm,Germany,New Zealand
+255,920,1937,9997,1000,1000 Rm,Germany,New Zealand
+255,920,1938,8696,1000,1000 Rm,Germany,New Zealand
+255,920,1939,0,1000,1000 Rm,Germany,New Zealand
+255,920,1940,0,1000,1000 Rm,Germany,New Zealand
+255,3363,1906,0,1000,Marks,Germany,Memel
+255,3363,1907,0,1000,Marks,Germany,Memel
+255,3363,1908,0,1000,Marks,Germany,Memel
+255,3363,1909,0,1000,Marks,Germany,Memel
+255,3363,1910,0,1000,Marks,Germany,Memel
+255,3363,1911,0,1000,Marks,Germany,Memel
+255,3363,1912,0,1000,Marks,Germany,Memel
+255,3363,1920,0,1000000,Millionen Papiermarf,Germany,Memel
+255,3363,1923,14384,1000,1000 Rm,Germany,Memel
+255,3363,1924,21774,1000,1000 Rm,Germany,Memel
+255,3363,1925,28315,1000,1000 Rm,Germany,Memel
+255,3363,1926,26618,1000,1000 Rm,Germany,Memel
+255,3363,1927,25646,1000,1000 Rm,Germany,Memel
+255,3363,1928,0,1000000,Million Rm,Germany,Memel
+255,3363,1929,0,1000,1000 Rm,Germany,Memel
+255,3363,1930,0,1000,1000 Rm,Germany,Memel
+255,3363,1931,0,1000,1000 Rm,Germany,Memel
+255,3363,1932,0,1000,1000 Rm,Germany,Memel
+255,3363,1933,0,1000,1000 Rm,Germany,Memel
+255,3363,1934,0,1000,1000 Rm,Germany,Memel
+255,3363,1935,0,1000,1000 Rm,Germany,Memel
+255,3363,1936,0,1000,1000 Rm,Germany,Memel
+255,3363,1937,4012,1000,1000 Rm,Germany,Memel
+255,3363,1938,5625,1000,1000 Rm,Germany,Memel
+255,3363,1939,0,1000,1000 Rm,Germany,Memel
+255,3363,1940,0,1000,1000 Rm,Germany,Memel
+255,5201,1906,0,1000,Marks,Germany,Italian East Africa
+255,5201,1907,0,1000,Marks,Germany,Italian East Africa
+255,5201,1908,0,1000,Marks,Germany,Italian East Africa
+255,5201,1909,0,1000,Marks,Germany,Italian East Africa
+255,5201,1910,0,1000,Marks,Germany,Italian East Africa
+255,5201,1911,0,1000,Marks,Germany,Italian East Africa
+255,5201,1912,0,1000,Marks,Germany,Italian East Africa
+255,5201,1920,0,1000000,Millionen Papiermarf,Germany,Italian East Africa
+255,5201,1923,115,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1924,97,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1925,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1926,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1927,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1928,0,1000000,Million Rm,Germany,Italian East Africa
+255,5201,1929,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1930,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1931,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1932,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1933,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1934,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1935,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1936,0,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1937,328,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1938,832,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1939,994,1000,1000 Rm,Germany,Italian East Africa
+255,5201,1940,465,1000,1000 Rm,Germany,Italian East Africa
+255,,1906,8771454,1000,Marks,Germany,
+255,,1907,9528425,1000,Marks,Germany,
+255,,1908,8386649,1000,Marks,Germany,
+255,,1909,9254328,1000,Marks,Germany,
+255,,1910,9598765,1000,Marks,Germany,
+255,,1911,10260226,1000,Marks,Germany,
+255,,1912,11326921,1000,Marks,Germany,
+255,,1913,6695600,,,Germany,
+255,,1920,109072.1,1000000,Millionen Papiermarf,Germany,
+255,,1923,6546967,1000,1000 Rm,Germany,
+255,,1924,10210062,1000,1000 Rm,Germany,
+255,,1925,13967329,1000,1000 Rm,Germany,
+255,,1926,10562837,1000,1000 Rm,Germany,
+255,,1927,15037241,1000,1000 Rm,Germany,
+255,,1928,14819.2,1000000,Million Rm,Germany,
+255,,1929,14186684,1000,1000 Rm,Germany,
+255,,1930,11066510,1000,1000 Rm,Germany,
+255,,1931,7161264,1000,1000 Rm,Germany,
+255,,1932,5013980,1000,1000 Rm,Germany,
+255,,1933,4527226,1000,1000 Rm,Germany,
+255,,1934,4873109,1000,1000 Rm,Germany,
+255,,1935,4404010,1000,1000 Rm,Germany,
+255,,1936,4440471,1000,1000 Rm,Germany,
+255,,1937,5838010,1000,1000 Rm,Germany,
+255,,1938,5850011,1000,1000 Rm,Germany,
+255,,1939,4204401,1000,1000 Rm,Germany,
+255,,1940,5106119,1000,1000 Rm,Germany,

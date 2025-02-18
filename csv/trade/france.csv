@@ -1,0 +1,3194 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+220,2,1919,9217844,1000,,France,United States
+220,2,1920,10866102,1000,,France,United States
+220,2,1921,3539260,1000,,France,United States
+220,2,1922,3844989,1000,,France,United States
+220,2,1923,4851283,1000,,France,United States
+220,2,1924,5585920,1000,,France,United States
+220,2,1925,6376573,1000,,France,United States
+220,2,1926,7819720,1000,,France,United States
+220,2,1927,6807469,1000,,France,United States
+220,2,1928,6177321,1000,,France,United States
+220,2,1929,7159550,1000,,France,United States
+220,2,1930,6148131,1000,,France,United States
+220,2,1931,3800497,1000,,France,United States
+220,2,1932,2899585,1000,Mille Francs,France,United States
+220,2,1933,2856645,1000,Mille Francs,France,United States
+220,2,1934,2190239,1000,Mille Francs,France,United States
+220,2,1935,1788014,1000,Milliers De Francs,France,United States
+220,2,1936,2526421,1000,Milliers De Francs,France,United States
+220,2,1937,4033222,1000,Mille Francs,France,United States
+220,2,1938,5277309,1000,Mille Fr.,France,United States
+220,2,1939,5840513,1000,Mille Fr.,France,United States
+220,2,1940,8485189,1000,Mille Fr.,France,United States
+220,2,1941,505062,1000,Mille Fr.,France,United States
+220,2,1942,141997,1000,Mille Fr.,France,United States
+220,2,1943,65255,1000,,France,United States
+220,2,1944,1407080,1000,Mille Fr.,France,United States
+220,2,1945,27174989,1000,Mille Fr.,France,United States
+220,2,1946,83859776,1000,Mille Francs,France,United States
+220,2,1947,120082009,1000,Mille Francs,France,United States
+220,2,1948,118678752,1000,Mille Francs,France,United States
+220,2,1949,162656608,1000,Mille Francs,France,United States
+220,6,1919,1850,1000,,France,Puerto Rico
+220,6,1920,2602,1000,,France,Puerto Rico
+220,6,1921,2232,1000,,France,Puerto Rico
+220,6,1922,2701,1000,,France,Puerto Rico
+220,6,1923,0,1000,,France,Puerto Rico
+220,6,1924,0,1000,,France,Puerto Rico
+220,6,1925,0,1000,,France,Puerto Rico
+220,6,1926,0,1000,,France,Puerto Rico
+220,6,1927,0,1000,,France,Puerto Rico
+220,6,1928,0,1000,,France,Puerto Rico
+220,6,1929,0,1000,,France,Puerto Rico
+220,6,1930,0,1000,,France,Puerto Rico
+220,6,1931,0,1000,,France,Puerto Rico
+220,6,1932,0,1000,Mille Francs,France,Puerto Rico
+220,6,1933,0,1000,Mille Francs,France,Puerto Rico
+220,6,1934,0,1000,Mille Francs,France,Puerto Rico
+220,6,1935,0,1000,Milliers De Francs,France,Puerto Rico
+220,6,1936,0,1000,Milliers De Francs,France,Puerto Rico
+220,6,1937,0,1000,Mille Francs,France,Puerto Rico
+220,6,1938,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1939,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1940,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1941,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1942,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1943,0,1000,,France,Puerto Rico
+220,6,1944,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1945,0,1000,Mille Fr.,France,Puerto Rico
+220,6,1946,0,1000,Mille Francs,France,Puerto Rico
+220,6,1947,0,1000,Mille Francs,France,Puerto Rico
+220,6,1948,0,1000,Mille Francs,France,Puerto Rico
+220,6,1949,0,1000,Mille Francs,France,Puerto Rico
+220,20,1919,464830,1000,,France,Canada
+220,20,1920,605060,1000,,France,Canada
+220,20,1921,159604,1000,,France,Canada
+220,20,1922,161062,1000,,France,Canada
+220,20,1923,356319,1000,,France,Canada
+220,20,1924,446937,1000,,France,Canada
+220,20,1925,357170,1000,,France,Canada
+220,20,1926,389177,1000,,France,Canada
+220,20,1927,729698,1000,,France,Canada
+220,20,1928,604490,1000,,France,Canada
+220,20,1929,843443,1000,,France,Canada
+220,20,1930,447102,1000,,France,Canada
+220,20,1931,829694,1000,,France,Canada
+220,20,1932,541991,1000,Mille Francs,France,Canada
+220,20,1933,317950,1000,Mille Francs,France,Canada
+220,20,1934,259410,1000,Mille Francs,France,Canada
+220,20,1935,333558,1000,Milliers De Francs,France,Canada
+220,20,1936,321533,1000,Milliers De Francs,France,Canada
+220,20,1937,527158,1000,Mille Francs,France,Canada
+220,20,1938,620144,1000,Mille Fr.,France,Canada
+220,20,1939,387047,1000,Mille Fr.,France,Canada
+220,20,1940,574681,1000,Mille Fr.,France,Canada
+220,20,1941,23474,1000,Mille Fr.,France,Canada
+220,20,1942,9527,1000,Mille Fr.,France,Canada
+220,20,1943,3,1000,,France,Canada
+220,20,1944,366435,1000,Mille Fr.,France,Canada
+220,20,1945,2130653,1000,Mille Fr.,France,Canada
+220,20,1946,8774431,1000,Mille Francs,France,Canada
+220,20,1947,10065677,1000,Mille Francs,France,Canada
+220,20,1948,9328896,1000,Mille Francs,France,Canada
+220,20,1949,10416334,1000,Mille Francs,France,Canada
+220,40,1919,362868,1000,,France,Cuba
+220,40,1920,324844,1000,,France,Cuba
+220,40,1921,69819,1000,,France,Cuba
+220,40,1922,171810,1000,,France,Cuba
+220,40,1923,130794,1000,,France,Cuba
+220,40,1924,183195,1000,,France,Cuba
+220,40,1925,180761,1000,,France,Cuba
+220,40,1926,316450,1000,,France,Cuba
+220,40,1927,184992,1000,,France,Cuba
+220,40,1928,197604,1000,,France,Cuba
+220,40,1929,274247,1000,,France,Cuba
+220,40,1930,123280,1000,,France,Cuba
+220,40,1931,51539,1000,,France,Cuba
+220,40,1932,45618,1000,Mille Francs,France,Cuba
+220,40,1933,74139,1000,Mille Francs,France,Cuba
+220,40,1934,78175,1000,Mille Francs,France,Cuba
+220,40,1935,65080,1000,Milliers De Francs,France,Cuba
+220,40,1936,31795,1000,Milliers De Francs,France,Cuba
+220,40,1937,71907,1000,Mille Francs,France,Cuba
+220,40,1938,76986,1000,Mille Fr.,France,Cuba
+220,40,1939,121707,1000,Mille Fr.,France,Cuba
+220,40,1940,74201,1000,Mille Fr.,France,Cuba
+220,40,1941,8236,1000,Mille Fr.,France,Cuba
+220,40,1942,276,1000,Mille Fr.,France,Cuba
+220,40,1943,2,1000,,France,Cuba
+220,40,1944,68,1000,Mille Fr.,France,Cuba
+220,40,1945,470394,1000,Mille Fr.,France,Cuba
+220,40,1946,1390591,1000,Mille Francs,France,Cuba
+220,40,1947,683738,1000,Mille Francs,France,Cuba
+220,40,1948,6653243,1000,Mille Francs,France,Cuba
+220,40,1949,5978405,1000,Mille Francs,France,Cuba
+220,41,1919,80369,1000,,France,Haiti
+220,41,1920,149936,1000,,France,Haiti
+220,41,1921,88043,1000,,France,Haiti
+220,41,1922,82924,1000,,France,Haiti
+220,41,1923,126962,1000,,France,Haiti
+220,41,1924,159893,1000,,France,Haiti
+220,41,1925,216267,1000,,France,Haiti
+220,41,1926,350412,1000,,France,Haiti
+220,41,1927,172824,1000,,France,Haiti
+220,41,1928,224355,1000,,France,Haiti
+220,41,1929,230804,1000,,France,Haiti
+220,41,1930,171268,1000,,France,Haiti
+220,41,1931,105962,1000,,France,Haiti
+220,41,1932,90053,1000,Mille Francs,France,Haiti
+220,41,1933,117230,1000,Mille Francs,France,Haiti
+220,41,1934,97719,1000,Mille Francs,France,Haiti
+220,41,1935,62306,1000,Milliers De Francs,France,Haiti
+220,41,1936,52178,1000,Milliers De Francs,France,Haiti
+220,41,1937,50035,1000,Mille Francs,France,Haiti
+220,41,1938,47992,1000,Mille Fr.,France,Haiti
+220,41,1939,75064,1000,Mille Fr.,France,Haiti
+220,41,1940,25748,1000,Mille Fr.,France,Haiti
+220,41,1941,5998,1000,Mille Fr.,France,Haiti
+220,41,1942,60,1000,Mille Fr.,France,Haiti
+220,41,1943,21,1000,,France,Haiti
+220,41,1944,183,1000,Mille Fr.,France,Haiti
+220,41,1945,23,1000,Mille Fr.,France,Haiti
+220,41,1946,4133,1000,Mille Francs,France,Haiti
+220,41,1947,113165,1000,Mille Francs,France,Haiti
+220,41,1948,197146,1000,Mille Francs,France,Haiti
+220,41,1949,77799,1000,Mille Francs,France,Haiti
+220,42,1919,13524,1000,,France,Dominican Republic
+220,42,1920,28998,1000,,France,Dominican Republic
+220,42,1921,7960,1000,,France,Dominican Republic
+220,42,1922,12181,1000,,France,Dominican Republic
+220,42,1923,43058,1000,,France,Dominican Republic
+220,42,1924,13397,1000,,France,Dominican Republic
+220,42,1925,47678,1000,,France,Dominican Republic
+220,42,1926,71436,1000,,France,Dominican Republic
+220,42,1927,32367,1000,,France,Dominican Republic
+220,42,1928,64164,1000,,France,Dominican Republic
+220,42,1929,85493,1000,,France,Dominican Republic
+220,42,1930,72457,1000,,France,Dominican Republic
+220,42,1931,111121,1000,,France,Dominican Republic
+220,42,1932,68825,1000,Mille Francs,France,Dominican Republic
+220,42,1933,68646,1000,Mille Francs,France,Dominican Republic
+220,42,1934,48517,1000,Mille Francs,France,Dominican Republic
+220,42,1935,47408,1000,Milliers De Francs,France,Dominican Republic
+220,42,1936,26109,1000,Milliers De Francs,France,Dominican Republic
+220,42,1937,141492,1000,Mille Francs,France,Dominican Republic
+220,42,1938,78831,1000,Mille Fr.,France,Dominican Republic
+220,42,1939,100823,1000,Mille Fr.,France,Dominican Republic
+220,42,1940,80894,1000,Mille Fr.,France,Dominican Republic
+220,42,1941,2078,1000,Mille Fr.,France,Dominican Republic
+220,42,1942,77,1000,Mille Fr.,France,Dominican Republic
+220,42,1943,1561,1000,,France,Dominican Republic
+220,42,1944,59,1000,Mille Fr.,France,Dominican Republic
+220,42,1945,18512,1000,Mille Fr.,France,Dominican Republic
+220,42,1946,290214,1000,Mille Francs,France,Dominican Republic
+220,42,1947,347664,1000,Mille Francs,France,Dominican Republic
+220,42,1948,95840,1000,Mille Francs,France,Dominican Republic
+220,42,1949,17990,1000,Mille Francs,France,Dominican Republic
+220,65,1919,126379,1000,,France,Guadeloupe
+220,65,1920,138280,1000,,France,Guadeloupe
+220,65,1921,96404,1000,,France,Guadeloupe
+220,65,1922,103110,1000,,France,Guadeloupe
+220,65,1923,120730,1000,,France,Guadeloupe
+220,65,1924,161248,1000,,France,Guadeloupe
+220,65,1925,155339,1000,,France,Guadeloupe
+220,65,1926,178382,1000,,France,Guadeloupe
+220,65,1927,156143,1000,,France,Guadeloupe
+220,65,1928,186940,1000,,France,Guadeloupe
+220,65,1929,137507,1000,,France,Guadeloupe
+220,65,1930,156714,1000,,France,Guadeloupe
+220,65,1931,136563,1000,,France,Guadeloupe
+220,65,1932,198394,1000,Mille Francs,France,Guadeloupe
+220,65,1933,187178,1000,Mille Francs,France,Guadeloupe
+220,65,1934,136777,1000,Mille Francs,France,Guadeloupe
+220,65,1935,159440,1000,Milliers De Francs,France,Guadeloupe
+220,65,1936,178307,1000,Milliers De Francs,France,Guadeloupe
+220,65,1937,313398,1000,Mille Francs,France,Guadeloupe
+220,65,1938,338541,1000,Mille Fr.,France,Guadeloupe
+220,65,1939,385462,1000,Mille Fr.,France,Guadeloupe
+220,65,1940,289383,1000,Mille Fr.,France,Guadeloupe
+220,65,1941,71484,1000,Mille Fr.,France,Guadeloupe
+220,65,1942,17547,1000,Mille Fr.,France,Guadeloupe
+220,65,1943,11676,1000,,France,Guadeloupe
+220,65,1944,2635,1000,Mille Fr.,France,Guadeloupe
+220,65,1945,240274,1000,Mille Fr.,France,Guadeloupe
+220,65,1946,1178061,1000,Mille Francs,France,Guadeloupe
+220,65,1947,4242518,1000,Mille Francs,France,Guadeloupe
+220,65,1948,5720008,1000,Mille Francs,France,Guadeloupe
+220,65,1949,5924654,1000,Mille Francs,France,Guadeloupe
+220,66,1919,219007,1000,,France,Martinique
+220,66,1920,179917,1000,,France,Martinique
+220,66,1921,89884,1000,,France,Martinique
+220,66,1922,167506,1000,,France,Martinique
+220,66,1923,164212,1000,,France,Martinique
+220,66,1924,205125,1000,,France,Martinique
+220,66,1925,170469,1000,,France,Martinique
+220,66,1926,238837,1000,,France,Martinique
+220,66,1927,220871,1000,,France,Martinique
+220,66,1928,261618,1000,,France,Martinique
+220,66,1929,278565,1000,,France,Martinique
+220,66,1930,240543,1000,,France,Martinique
+220,66,1931,240510,1000,,France,Martinique
+220,66,1932,211278,1000,Mille Francs,France,Martinique
+220,66,1933,184741,1000,Mille Francs,France,Martinique
+220,66,1934,192739,1000,Mille Francs,France,Martinique
+220,66,1935,189503,1000,Milliers De Francs,France,Martinique
+220,66,1936,201317,1000,Milliers De Francs,France,Martinique
+220,66,1937,265985,1000,Mille Francs,France,Martinique
+220,66,1938,337088,1000,Mille Fr.,France,Martinique
+220,66,1939,358717,1000,Mille Fr.,France,Martinique
+220,66,1940,307727,1000,Mille Fr.,France,Martinique
+220,66,1941,97555,1000,Mille Fr.,France,Martinique
+220,66,1942,9201,1000,Mille Fr.,France,Martinique
+220,66,1943,1792,1000,,France,Martinique
+220,66,1944,593,1000,Mille Fr.,France,Martinique
+220,66,1945,137831,1000,Mille Fr.,France,Martinique
+220,66,1946,1083685,1000,Mille Francs,France,Martinique
+220,66,1947,4546865,1000,Mille Francs,France,Martinique
+220,66,1948,4705619,1000,Mille Francs,France,Martinique
+220,66,1949,6462000,1000,Mille Francs,France,Martinique
+220,70,1919,16146,1000,,France,Mexico
+220,70,1920,87446,1000,,France,Mexico
+220,70,1921,60445,1000,,France,Mexico
+220,70,1922,105058,1000,,France,Mexico
+220,70,1923,127177,1000,,France,Mexico
+220,70,1924,128016,1000,,France,Mexico
+220,70,1925,131126,1000,,France,Mexico
+220,70,1926,221165,1000,,France,Mexico
+220,70,1927,225717,1000,,France,Mexico
+220,70,1928,282642,1000,,France,Mexico
+220,70,1929,249927,1000,,France,Mexico
+220,70,1930,215016,1000,,France,Mexico
+220,70,1931,133860,1000,,France,Mexico
+220,70,1932,53878,1000,Mille Francs,France,Mexico
+220,70,1933,109876,1000,Mille Francs,France,Mexico
+220,70,1934,82522,1000,Mille Francs,France,Mexico
+220,70,1935,61218,1000,Milliers De Francs,France,Mexico
+220,70,1936,79019,1000,Milliers De Francs,France,Mexico
+220,70,1937,151092,1000,Mille Francs,France,Mexico
+220,70,1938,151308,1000,Mille Fr.,France,Mexico
+220,70,1939,104790,1000,Mille Fr.,France,Mexico
+220,70,1940,39549,1000,Mille Fr.,France,Mexico
+220,70,1941,1530,1000,Mille Fr.,France,Mexico
+220,70,1942,343,1000,Mille Fr.,France,Mexico
+220,70,1943,26,1000,,France,Mexico
+220,70,1944,167,1000,Mille Fr.,France,Mexico
+220,70,1945,27816,1000,Mille Fr.,France,Mexico
+220,70,1946,479514,1000,Mille Francs,France,Mexico
+220,70,1947,3092721,1000,Mille Francs,France,Mexico
+220,70,1948,3024814,1000,Mille Francs,France,Mexico
+220,70,1949,3195024,1000,Mille Francs,France,Mexico
+220,90,1919,386,1000,,France,Guatemala
+220,90,1920,3459,1000,,France,Guatemala
+220,90,1921,153,1000,,France,Guatemala
+220,90,1922,194,1000,,France,Guatemala
+220,90,1923,812,1000,,France,Guatemala
+220,90,1924,2301,1000,,France,Guatemala
+220,90,1925,1480,1000,,France,Guatemala
+220,90,1926,744,1000,,France,Guatemala
+220,90,1927,2963,1000,,France,Guatemala
+220,90,1928,4603,1000,,France,Guatemala
+220,90,1929,4856,1000,,France,Guatemala
+220,90,1930,2682,1000,,France,Guatemala
+220,90,1931,47910,1000,,France,Guatemala
+220,90,1932,27216,1000,Mille Francs,France,Guatemala
+220,90,1933,24413,1000,Mille Francs,France,Guatemala
+220,90,1934,19539,1000,Mille Francs,France,Guatemala
+220,90,1935,4222,1000,Milliers De Francs,France,Guatemala
+220,90,1936,4305,1000,Milliers De Francs,France,Guatemala
+220,90,1937,6216,1000,Mille Francs,France,Guatemala
+220,90,1938,4196,1000,Mille Fr.,France,Guatemala
+220,90,1939,2911,1000,Mille Fr.,France,Guatemala
+220,90,1940,1375,1000,Mille Fr.,France,Guatemala
+220,90,1941,38,1000,Mille Fr.,France,Guatemala
+220,90,1942,0,1000,Mille Fr.,France,Guatemala
+220,90,1943,0,1000,,France,Guatemala
+220,90,1944,8,1000,Mille Fr.,France,Guatemala
+220,90,1945,0,1000,Mille Fr.,France,Guatemala
+220,90,1946,17201,1000,Mille Francs,France,Guatemala
+220,90,1947,17063,1000,Mille Francs,France,Guatemala
+220,90,1948,38089,1000,Mille Francs,France,Guatemala
+220,90,1949,40582,1000,Mille Francs,France,Guatemala
+220,91,1919,880,1000,,France,Honduras
+220,91,1920,766,1000,,France,Honduras
+220,91,1921,4,1000,,France,Honduras
+220,91,1922,124,1000,,France,Honduras
+220,91,1923,110,1000,,France,Honduras
+220,91,1924,412,1000,,France,Honduras
+220,91,1925,510,1000,,France,Honduras
+220,91,1926,1683,1000,,France,Honduras
+220,91,1927,1787,1000,,France,Honduras
+220,91,1928,4867,1000,,France,Honduras
+220,91,1929,3713,1000,,France,Honduras
+220,91,1930,10302,1000,,France,Honduras
+220,91,1931,3345,1000,,France,Honduras
+220,91,1932,2380,1000,Mille Francs,France,Honduras
+220,91,1933,2334,1000,Mille Francs,France,Honduras
+220,91,1934,3827,1000,Mille Francs,France,Honduras
+220,91,1935,1562,1000,Milliers De Francs,France,Honduras
+220,91,1936,2570,1000,Milliers De Francs,France,Honduras
+220,91,1937,5282,1000,Mille Francs,France,Honduras
+220,91,1938,669,1000,Mille Fr.,France,Honduras
+220,91,1939,170,1000,Mille Fr.,France,Honduras
+220,91,1940,6,1000,Mille Fr.,France,Honduras
+220,91,1941,0,1000,Mille Fr.,France,Honduras
+220,91,1942,0,1000,Mille Fr.,France,Honduras
+220,91,1943,0,1000,,France,Honduras
+220,91,1944,0,1000,Mille Fr.,France,Honduras
+220,91,1945,0,1000,Mille Fr.,France,Honduras
+220,91,1946,8648,1000,Mille Francs,France,Honduras
+220,91,1947,23732,1000,Mille Francs,France,Honduras
+220,91,1948,6456,1000,Mille Francs,France,Honduras
+220,91,1949,5704,1000,Mille Francs,France,Honduras
+220,92,1919,23982,1000,,France,El Salvador
+220,92,1920,24876,1000,,France,El Salvador
+220,92,1921,9582,1000,,France,El Salvador
+220,92,1922,17959,1000,,France,El Salvador
+220,92,1923,17401,1000,,France,El Salvador
+220,92,1924,12256,1000,,France,El Salvador
+220,92,1925,16849,1000,,France,El Salvador
+220,92,1926,9679,1000,,France,El Salvador
+220,92,1927,12318,1000,,France,El Salvador
+220,92,1928,8710,1000,,France,El Salvador
+220,92,1929,9417,1000,,France,El Salvador
+220,92,1930,13593,1000,,France,El Salvador
+220,92,1931,14160,1000,,France,El Salvador
+220,92,1932,14440,1000,Mille Francs,France,El Salvador
+220,92,1933,18365,1000,Mille Francs,France,El Salvador
+220,92,1934,10317,1000,Mille Francs,France,El Salvador
+220,92,1935,7734,1000,Milliers De Francs,France,El Salvador
+220,92,1936,5475,1000,Milliers De Francs,France,El Salvador
+220,92,1937,11813,1000,Mille Francs,France,El Salvador
+220,92,1938,5598,1000,Mille Fr.,France,El Salvador
+220,92,1939,3037,1000,Mille Fr.,France,El Salvador
+220,92,1940,2851,1000,Mille Fr.,France,El Salvador
+220,92,1941,58,1000,Mille Fr.,France,El Salvador
+220,92,1942,40,1000,Mille Fr.,France,El Salvador
+220,92,1943,1,1000,,France,El Salvador
+220,92,1944,126,1000,Mille Fr.,France,El Salvador
+220,92,1945,177,1000,Mille Fr.,France,El Salvador
+220,92,1946,3737,1000,Mille Francs,France,El Salvador
+220,92,1947,4195,1000,Mille Francs,France,El Salvador
+220,92,1948,98351,1000,Mille Francs,France,El Salvador
+220,92,1949,813,1000,Mille Francs,France,El Salvador
+220,93,1919,12444,1000,,France,Nicaragua
+220,93,1920,25273,1000,,France,Nicaragua
+220,93,1921,10105,1000,,France,Nicaragua
+220,93,1922,18218,1000,,France,Nicaragua
+220,93,1923,23453,1000,,France,Nicaragua
+220,93,1924,34216,1000,,France,Nicaragua
+220,93,1925,36953,1000,,France,Nicaragua
+220,93,1926,81003,1000,,France,Nicaragua
+220,93,1927,33429,1000,,France,Nicaragua
+220,93,1928,48614,1000,,France,Nicaragua
+220,93,1929,31605,1000,,France,Nicaragua
+220,93,1930,27552,1000,,France,Nicaragua
+220,93,1931,27059,1000,,France,Nicaragua
+220,93,1932,15935,1000,Mille Francs,France,Nicaragua
+220,93,1933,18097,1000,Mille Francs,France,Nicaragua
+220,93,1934,14683,1000,Mille Francs,France,Nicaragua
+220,93,1935,18861,1000,Milliers De Francs,France,Nicaragua
+220,93,1936,13437,1000,Milliers De Francs,France,Nicaragua
+220,93,1937,21833,1000,Mille Francs,France,Nicaragua
+220,93,1938,14634,1000,Mille Fr.,France,Nicaragua
+220,93,1939,9508,1000,Mille Fr.,France,Nicaragua
+220,93,1940,12842,1000,Mille Fr.,France,Nicaragua
+220,93,1941,411,1000,Mille Fr.,France,Nicaragua
+220,93,1942,308,1000,Mille Fr.,France,Nicaragua
+220,93,1943,0,1000,,France,Nicaragua
+220,93,1944,0,1000,Mille Fr.,France,Nicaragua
+220,93,1945,0,1000,Mille Fr.,France,Nicaragua
+220,93,1946,7353,1000,Mille Francs,France,Nicaragua
+220,93,1947,20175,1000,Mille Francs,France,Nicaragua
+220,93,1948,140291,1000,Mille Francs,France,Nicaragua
+220,93,1949,202292,1000,Mille Francs,France,Nicaragua
+220,94,1919,284,1000,,France,Costa Rica
+220,94,1920,4785,1000,,France,Costa Rica
+220,94,1921,334,1000,,France,Costa Rica
+220,94,1922,1322,1000,,France,Costa Rica
+220,94,1923,1539,1000,,France,Costa Rica
+220,94,1924,3557,1000,,France,Costa Rica
+220,94,1925,4534,1000,,France,Costa Rica
+220,94,1926,12806,1000,,France,Costa Rica
+220,94,1927,13317,1000,,France,Costa Rica
+220,94,1928,4054,1000,,France,Costa Rica
+220,94,1929,1584,1000,,France,Costa Rica
+220,94,1930,2251,1000,,France,Costa Rica
+220,94,1931,1680,1000,,France,Costa Rica
+220,94,1932,682,1000,Mille Francs,France,Costa Rica
+220,94,1933,1843,1000,Mille Francs,France,Costa Rica
+220,94,1934,1991,1000,Mille Francs,France,Costa Rica
+220,94,1935,1952,1000,Milliers De Francs,France,Costa Rica
+220,94,1936,2728,1000,Milliers De Francs,France,Costa Rica
+220,94,1937,5635,1000,Mille Francs,France,Costa Rica
+220,94,1938,2685,1000,Mille Fr.,France,Costa Rica
+220,94,1939,1621,1000,Mille Fr.,France,Costa Rica
+220,94,1940,766,1000,Mille Fr.,France,Costa Rica
+220,94,1941,148,1000,Mille Fr.,France,Costa Rica
+220,94,1942,159,1000,Mille Fr.,France,Costa Rica
+220,94,1943,0,1000,,France,Costa Rica
+220,94,1944,5,1000,Mille Fr.,France,Costa Rica
+220,94,1945,1,1000,Mille Fr.,France,Costa Rica
+220,94,1946,29,1000,Mille Francs,France,Costa Rica
+220,94,1947,8621,1000,Mille Francs,France,Costa Rica
+220,94,1948,163436,1000,Mille Francs,France,Costa Rica
+220,94,1949,257379,1000,Mille Francs,France,Costa Rica
+220,95,1919,0,1000,,France,Panama
+220,95,1920,0,1000,,France,Panama
+220,95,1921,0,1000,,France,Panama
+220,95,1922,0,1000,,France,Panama
+220,95,1923,0,1000,,France,Panama
+220,95,1924,0,1000,,France,Panama
+220,95,1925,0,1000,,France,Panama
+220,95,1926,0,1000,,France,Panama
+220,95,1927,0,1000,,France,Panama
+220,95,1928,0,1000,,France,Panama
+220,95,1929,1035,1000,,France,Panama
+220,95,1930,832,1000,,France,Panama
+220,95,1931,1881,1000,,France,Panama
+220,95,1932,0,1000,Mille Francs,France,Panama
+220,95,1933,0,1000,Mille Francs,France,Panama
+220,95,1934,0,1000,Mille Francs,France,Panama
+220,95,1935,0,1000,Milliers De Francs,France,Panama
+220,95,1936,0,1000,Milliers De Francs,France,Panama
+220,95,1937,0,1000,Mille Francs,France,Panama
+220,95,1938,0,1000,Mille Fr.,France,Panama
+220,95,1939,0,1000,Mille Fr.,France,Panama
+220,95,1940,0,1000,Mille Fr.,France,Panama
+220,95,1941,0,1000,Mille Fr.,France,Panama
+220,95,1942,0,1000,Mille Fr.,France,Panama
+220,95,1943,0,1000,,France,Panama
+220,95,1944,0,1000,Mille Fr.,France,Panama
+220,95,1945,0,1000,Mille Fr.,France,Panama
+220,95,1946,0,1000,Mille Francs,France,Panama
+220,95,1947,0,1000,Mille Francs,France,Panama
+220,95,1948,0,1000,Mille Francs,France,Panama
+220,95,1949,221133,1000,Mille Francs,France,Panama
+220,100,1919,33204,1000,,France,Colombia
+220,100,1920,32601,1000,,France,Colombia
+220,100,1921,30076,1000,,France,Colombia
+220,100,1922,22707,1000,,France,Colombia
+220,100,1923,16214,1000,,France,Colombia
+220,100,1924,26821,1000,,France,Colombia
+220,100,1925,25059,1000,,France,Colombia
+220,100,1926,17403,1000,,France,Colombia
+220,100,1927,39401,1000,,France,Colombia
+220,100,1928,60554,1000,,France,Colombia
+220,100,1929,57462,1000,,France,Colombia
+220,100,1930,70962,1000,,France,Colombia
+220,100,1931,42430,1000,,France,Colombia
+220,100,1932,83993,1000,Mille Francs,France,Colombia
+220,100,1933,77136,1000,Mille Francs,France,Colombia
+220,100,1934,115131,1000,Mille Francs,France,Colombia
+220,100,1935,98598,1000,Milliers De Francs,France,Colombia
+220,100,1936,78760,1000,Milliers De Francs,France,Colombia
+220,100,1937,147091,1000,Mille Francs,France,Colombia
+220,100,1938,199010,1000,Mille Fr.,France,Colombia
+220,100,1939,163386,1000,Mille Fr.,France,Colombia
+220,100,1940,319817,1000,Mille Fr.,France,Colombia
+220,100,1941,295,1000,Mille Fr.,France,Colombia
+220,100,1942,4,1000,Mille Fr.,France,Colombia
+220,100,1943,8,1000,,France,Colombia
+220,100,1944,8538,1000,Mille Fr.,France,Colombia
+220,100,1945,44,1000,Mille Fr.,France,Colombia
+220,100,1946,154120,1000,Mille Francs,France,Colombia
+220,100,1947,231252,1000,Mille Francs,France,Colombia
+220,100,1948,298166,1000,Mille Francs,France,Colombia
+220,100,1949,1645819,1000,Mille Francs,France,Colombia
+220,101,1919,74216,1000,,France,Venezuela
+220,101,1920,97065,1000,,France,Venezuela
+220,101,1921,35477,1000,,France,Venezuela
+220,101,1922,47842,1000,,France,Venezuela
+220,101,1923,40785,1000,,France,Venezuela
+220,101,1924,57148,1000,,France,Venezuela
+220,101,1925,81673,1000,,France,Venezuela
+220,101,1926,75056,1000,,France,Venezuela
+220,101,1927,111388,1000,,France,Venezuela
+220,101,1928,99160,1000,,France,Venezuela
+220,101,1929,212420,1000,,France,Venezuela
+220,101,1930,272174,1000,,France,Venezuela
+220,101,1931,203381,1000,,France,Venezuela
+220,101,1932,200119,1000,Mille Francs,France,Venezuela
+220,101,1933,203672,1000,Mille Francs,France,Venezuela
+220,101,1934,194597,1000,Mille Francs,France,Venezuela
+220,101,1935,106755,1000,Milliers De Francs,France,Venezuela
+220,101,1936,139263,1000,Milliers De Francs,France,Venezuela
+220,101,1937,310944,1000,Mille Francs,France,Venezuela
+220,101,1938,326939,1000,Mille Fr.,France,Venezuela
+220,101,1939,420091,1000,Mille Fr.,France,Venezuela
+220,101,1940,442847,1000,Mille Fr.,France,Venezuela
+220,101,1941,15709,1000,Mille Fr.,France,Venezuela
+220,101,1942,11152,1000,Mille Fr.,France,Venezuela
+220,101,1943,1158,1000,,France,Venezuela
+220,101,1944,13,1000,Mille Fr.,France,Venezuela
+220,101,1945,124354,1000,Mille Fr.,France,Venezuela
+220,101,1946,2794248,1000,Mille Francs,France,Venezuela
+220,101,1947,6048213,1000,Mille Francs,France,Venezuela
+220,101,1948,11749532,1000,Mille Francs,France,Venezuela
+220,101,1949,11627648,1000,Mille Francs,France,Venezuela
+220,120,1919,7128,1000,,France,French Guiana
+220,120,1920,26310,1000,,France,French Guiana
+220,120,1921,4853,1000,,France,French Guiana
+220,120,1922,8172,1000,,France,French Guiana
+220,120,1923,7369,1000,,France,French Guiana
+220,120,1924,8714,1000,,France,French Guiana
+220,120,1925,13414,1000,,France,French Guiana
+220,120,1926,20473,1000,,France,French Guiana
+220,120,1927,15175,1000,,France,French Guiana
+220,120,1928,8860,1000,,France,French Guiana
+220,120,1929,7496,1000,,France,French Guiana
+220,120,1930,6185,1000,,France,French Guiana
+220,120,1931,3340,1000,,France,French Guiana
+220,120,1932,3305,1000,Mille Francs,France,French Guiana
+220,120,1933,1716,1000,Mille Francs,France,French Guiana
+220,120,1934,1149,1000,Mille Francs,France,French Guiana
+220,120,1935,778,1000,Milliers De Francs,France,French Guiana
+220,120,1936,1669,1000,Milliers De Francs,France,French Guiana
+220,120,1937,11261,1000,Mille Francs,France,French Guiana
+220,120,1938,7582,1000,Mille Fr.,France,French Guiana
+220,120,1939,5013,1000,Mille Fr.,France,French Guiana
+220,120,1940,5004,1000,Mille Fr.,France,French Guiana
+220,120,1941,1780,1000,Mille Fr.,France,French Guiana
+220,120,1942,458,1000,Mille Fr.,France,French Guiana
+220,120,1943,0,1000,,France,French Guiana
+220,120,1944,0,1000,Mille Fr.,France,French Guiana
+220,120,1945,9105,1000,Mille Fr.,France,French Guiana
+220,120,1946,13687,1000,Mille Francs,France,French Guiana
+220,120,1947,17914,1000,Mille Francs,France,French Guiana
+220,120,1948,29276,1000,Mille Francs,France,French Guiana
+220,120,1949,27271,1000,Mille Francs,France,French Guiana
+220,130,1919,8628,1000,,France,Ecuador
+220,130,1920,16658,1000,,France,Ecuador
+220,130,1921,6646,1000,,France,Ecuador
+220,130,1922,13318,1000,,France,Ecuador
+220,130,1923,11880,1000,,France,Ecuador
+220,130,1924,20940,1000,,France,Ecuador
+220,130,1925,25226,1000,,France,Ecuador
+220,130,1926,29955,1000,,France,Ecuador
+220,130,1927,16287,1000,,France,Ecuador
+220,130,1928,36146,1000,,France,Ecuador
+220,130,1929,32744,1000,,France,Ecuador
+220,130,1930,21961,1000,,France,Ecuador
+220,130,1931,26406,1000,,France,Ecuador
+220,130,1932,32228,1000,Mille Francs,France,Ecuador
+220,130,1933,33870,1000,Mille Francs,France,Ecuador
+220,130,1934,46539,1000,Mille Francs,France,Ecuador
+220,130,1935,24127,1000,Milliers De Francs,France,Ecuador
+220,130,1936,27006,1000,Milliers De Francs,France,Ecuador
+220,130,1937,75287,1000,Mille Francs,France,Ecuador
+220,130,1938,62885,1000,Mille Fr.,France,Ecuador
+220,130,1939,48881,1000,Mille Fr.,France,Ecuador
+220,130,1940,29016,1000,Mille Fr.,France,Ecuador
+220,130,1941,890,1000,Mille Fr.,France,Ecuador
+220,130,1942,140,1000,Mille Fr.,France,Ecuador
+220,130,1943,4,1000,,France,Ecuador
+220,130,1944,0,1000,Mille Fr.,France,Ecuador
+220,130,1945,120,1000,Mille Fr.,France,Ecuador
+220,130,1946,7527,1000,Mille Francs,France,Ecuador
+220,130,1947,79957,1000,Mille Francs,France,Ecuador
+220,130,1948,32891,1000,Mille Francs,France,Ecuador
+220,130,1949,54702,1000,Mille Francs,France,Ecuador
+220,135,1919,7317,1000,,France,Peru
+220,135,1920,51003,1000,,France,Peru
+220,135,1921,4280,1000,,France,Peru
+220,135,1922,3880,1000,,France,Peru
+220,135,1923,36334,1000,,France,Peru
+220,135,1924,8640,1000,,France,Peru
+220,135,1925,29141,1000,,France,Peru
+220,135,1926,34593,1000,,France,Peru
+220,135,1927,27650,1000,,France,Peru
+220,135,1928,63635,1000,,France,Peru
+220,135,1929,22350,1000,,France,Peru
+220,135,1930,49259,1000,,France,Peru
+220,135,1931,49723,1000,,France,Peru
+220,135,1932,24581,1000,Mille Francs,France,Peru
+220,135,1933,45430,1000,Mille Francs,France,Peru
+220,135,1934,118575,1000,Mille Francs,France,Peru
+220,135,1935,105558,1000,Milliers De Francs,France,Peru
+220,135,1936,156930,1000,Milliers De Francs,France,Peru
+220,135,1937,209460,1000,Mille Francs,France,Peru
+220,135,1938,251078,1000,Mille Fr.,France,Peru
+220,135,1939,229637,1000,Mille Fr.,France,Peru
+220,135,1940,165501,1000,Mille Fr.,France,Peru
+220,135,1941,2976,1000,Mille Fr.,France,Peru
+220,135,1942,17,1000,Mille Fr.,France,Peru
+220,135,1943,6,1000,,France,Peru
+220,135,1944,0,1000,Mille Fr.,France,Peru
+220,135,1945,912,1000,Mille Fr.,France,Peru
+220,135,1946,793800,1000,Mille Francs,France,Peru
+220,135,1947,745328,1000,Mille Francs,France,Peru
+220,135,1948,906947,1000,Mille Francs,France,Peru
+220,135,1949,953377,1000,Mille Francs,France,Peru
+220,140,1919,956305,1000,,France,Brazil
+220,140,1920,901107,1000,,France,Brazil
+220,140,1921,515611,1000,,France,Brazil
+220,140,1922,485284,1000,,France,Brazil
+220,140,1923,718195,1000,,France,Brazil
+220,140,1924,1105697,1000,,France,Brazil
+220,140,1925,1407087,1000,,France,Brazil
+220,140,1926,1588067,1000,,France,Brazil
+220,140,1927,1090992,1000,,France,Brazil
+220,140,1928,1154296,1000,,France,Brazil
+220,140,1929,1078574,1000,,France,Brazil
+220,140,1930,783296,1000,,France,Brazil
+220,140,1931,627509,1000,,France,Brazil
+220,140,1932,534461,1000,Mille Francs,France,Brazil
+220,140,1933,444903,1000,Mille Francs,France,Brazil
+220,140,1934,327368,1000,Mille Francs,France,Brazil
+220,140,1935,343718,1000,Milliers De Francs,France,Brazil
+220,140,1936,391005,1000,Milliers De Francs,France,Brazil
+220,140,1937,604905,1000,Mille Francs,France,Brazil
+220,140,1938,733989,1000,Mille Fr.,France,Brazil
+220,140,1939,763321,1000,Mille Fr.,France,Brazil
+220,140,1940,961167,1000,Mille Fr.,France,Brazil
+220,140,1941,58739,1000,Mille Fr.,France,Brazil
+220,140,1942,5689,1000,Mille Fr.,France,Brazil
+220,140,1943,2087,1000,,France,Brazil
+220,140,1944,24287,1000,Mille Fr.,France,Brazil
+220,140,1945,147222,1000,Mille Fr.,France,Brazil
+220,140,1946,2009643,1000,Mille Francs,France,Brazil
+220,140,1947,7049547,1000,Mille Francs,France,Brazil
+220,140,1948,6725547,1000,Mille Francs,France,Brazil
+220,140,1949,9029069,1000,Mille Francs,France,Brazil
+220,145,1919,1061,1000,,France,Bolivia
+220,145,1920,47,1000,,France,Bolivia
+220,145,1921,27,1000,,France,Bolivia
+220,145,1922,5945,1000,,France,Bolivia
+220,145,1923,12818,1000,,France,Bolivia
+220,145,1924,6171,1000,,France,Bolivia
+220,145,1925,25603,1000,,France,Bolivia
+220,145,1926,28232,1000,,France,Bolivia
+220,145,1927,25128,1000,,France,Bolivia
+220,145,1928,18992,1000,,France,Bolivia
+220,145,1929,8018,1000,,France,Bolivia
+220,145,1930,7127,1000,,France,Bolivia
+220,145,1931,5755,1000,,France,Bolivia
+220,145,1932,1627,1000,Mille Francs,France,Bolivia
+220,145,1933,3532,1000,Mille Francs,France,Bolivia
+220,145,1934,1115,1000,Mille Francs,France,Bolivia
+220,145,1935,3500,1000,Milliers De Francs,France,Bolivia
+220,145,1936,10948,1000,Milliers De Francs,France,Bolivia
+220,145,1937,30743,1000,Mille Francs,France,Bolivia
+220,145,1938,13575,1000,Mille Fr.,France,Bolivia
+220,145,1939,5678,1000,Mille Fr.,France,Bolivia
+220,145,1940,4293,1000,Mille Fr.,France,Bolivia
+220,145,1941,1594,1000,Mille Fr.,France,Bolivia
+220,145,1942,332,1000,Mille Fr.,France,Bolivia
+220,145,1943,2,1000,,France,Bolivia
+220,145,1944,0,1000,Mille Fr.,France,Bolivia
+220,145,1945,0,1000,Mille Fr.,France,Bolivia
+220,145,1946,65852,1000,Mille Francs,France,Bolivia
+220,145,1947,103325,1000,Mille Francs,France,Bolivia
+220,145,1948,236277,1000,Mille Francs,France,Bolivia
+220,145,1949,603802,1000,Mille Francs,France,Bolivia
+220,150,1919,0,1000,,France,Paraguay
+220,150,1920,0,1000,,France,Paraguay
+220,150,1921,0,1000,,France,Paraguay
+220,150,1922,0,1000,,France,Paraguay
+220,150,1923,0,1000,,France,Paraguay
+220,150,1924,0,1000,,France,Paraguay
+220,150,1925,0,1000,,France,Paraguay
+220,150,1926,0,1000,,France,Paraguay
+220,150,1927,0,1000,,France,Paraguay
+220,150,1928,9190,1000,,France,Paraguay
+220,150,1929,2620,1000,,France,Paraguay
+220,150,1930,10235,1000,,France,Paraguay
+220,150,1931,15328,1000,,France,Paraguay
+220,150,1932,9414,1000,Mille Francs,France,Paraguay
+220,150,1933,3226,1000,Mille Francs,France,Paraguay
+220,150,1934,2452,1000,Mille Francs,France,Paraguay
+220,150,1935,2025,1000,Milliers De Francs,France,Paraguay
+220,150,1936,2364,1000,Milliers De Francs,France,Paraguay
+220,150,1937,2106,1000,Mille Francs,France,Paraguay
+220,150,1938,8226,1000,Mille Fr.,France,Paraguay
+220,150,1939,17254,1000,Mille Fr.,France,Paraguay
+220,150,1940,9617,1000,Mille Fr.,France,Paraguay
+220,150,1941,2,1000,Mille Fr.,France,Paraguay
+220,150,1942,291,1000,Mille Fr.,France,Paraguay
+220,150,1943,0,1000,,France,Paraguay
+220,150,1944,0,1000,Mille Fr.,France,Paraguay
+220,150,1945,13525,1000,Mille Fr.,France,Paraguay
+220,150,1946,93068,1000,Mille Francs,France,Paraguay
+220,150,1947,222603,1000,Mille Francs,France,Paraguay
+220,150,1948,195727,1000,Mille Francs,France,Paraguay
+220,150,1949,47908,1000,Mille Francs,France,Paraguay
+220,155,1919,160658,1000,,France,Chile
+220,155,1920,343148,1000,,France,Chile
+220,155,1921,329221,1000,,France,Chile
+220,155,1922,160739,1000,,France,Chile
+220,155,1923,321341,1000,,France,Chile
+220,155,1924,447995,1000,,France,Chile
+220,155,1925,562072,1000,,France,Chile
+220,155,1926,568266,1000,,France,Chile
+220,155,1927,670460,1000,,France,Chile
+220,155,1928,725433,1000,,France,Chile
+220,155,1929,1105143,1000,,France,Chile
+220,155,1930,579008,1000,,France,Chile
+220,155,1931,528153,1000,,France,Chile
+220,155,1932,45405,1000,Mille Francs,France,Chile
+220,155,1933,129542,1000,Mille Francs,France,Chile
+220,155,1934,79028,1000,Mille Francs,France,Chile
+220,155,1935,86996,1000,Milliers De Francs,France,Chile
+220,155,1936,201738,1000,Milliers De Francs,France,Chile
+220,155,1937,363490,1000,Mille Francs,France,Chile
+220,155,1938,425440,1000,Mille Fr.,France,Chile
+220,155,1939,523039,1000,Mille Fr.,France,Chile
+220,155,1940,1057664,1000,Mille Fr.,France,Chile
+220,155,1941,50608,1000,Mille Fr.,France,Chile
+220,155,1942,698,1000,Mille Fr.,France,Chile
+220,155,1943,0,1000,,France,Chile
+220,155,1944,6635,1000,Mille Fr.,France,Chile
+220,155,1945,140321,1000,Mille Fr.,France,Chile
+220,155,1946,2243556,1000,Mille Francs,France,Chile
+220,155,1947,4313475,1000,Mille Francs,France,Chile
+220,155,1948,5853520,1000,Mille Francs,France,Chile
+220,155,1949,7805666,1000,Mille Francs,France,Chile
+220,160,1919,1613817,1000,,France,Argentina
+220,160,1920,2991686,1000,,France,Argentina
+220,160,1921,723367,1000,,France,Argentina
+220,160,1922,990732,1000,,France,Argentina
+220,160,1923,1459352,1000,,France,Argentina
+220,160,1924,2000254,1000,,France,Argentina
+220,160,1925,1762405,1000,,France,Argentina
+220,160,1926,2215535,1000,,France,Argentina
+220,160,1927,2631095,1000,,France,Argentina
+220,160,1928,2244139,1000,,France,Argentina
+220,160,1929,2373749,1000,,France,Argentina
+220,160,1930,1203048,1000,,France,Argentina
+220,160,1931,1428333,1000,,France,Argentina
+220,160,1932,1067500,1000,Mille Francs,France,Argentina
+220,160,1933,580664,1000,Mille Francs,France,Argentina
+220,160,1934,517394,1000,Mille Francs,France,Argentina
+220,160,1935,400153,1000,Milliers De Francs,France,Argentina
+220,160,1936,505658,1000,Milliers De Francs,France,Argentina
+220,160,1937,942342,1000,Mille Francs,France,Argentina
+220,160,1938,936284,1000,Mille Fr.,France,Argentina
+220,160,1939,979715,1000,Mille Fr.,France,Argentina
+220,160,1940,1544719,1000,Mille Fr.,France,Argentina
+220,160,1941,181718,1000,Mille Fr.,France,Argentina
+220,160,1942,5666,1000,Mille Fr.,France,Argentina
+220,160,1943,89,1000,,France,Argentina
+220,160,1944,36057,1000,Mille Fr.,France,Argentina
+220,160,1945,1086673,1000,Mille Fr.,France,Argentina
+220,160,1946,12334463,1000,Mille Francs,France,Argentina
+220,160,1947,14282063,1000,Mille Francs,France,Argentina
+220,160,1948,16804138,1000,Mille Francs,France,Argentina
+220,160,1949,12045604,1000,Mille Francs,France,Argentina
+220,165,1919,462628,1000,,France,Uruguay
+220,165,1920,377259,1000,,France,Uruguay
+220,165,1921,111207,1000,,France,Uruguay
+220,165,1922,101812,1000,,France,Uruguay
+220,165,1923,0,1000,,France,Uruguay
+220,165,1924,0,1000,,France,Uruguay
+220,165,1925,0,1000,,France,Uruguay
+220,165,1926,0,1000,,France,Uruguay
+220,165,1927,0,1000,,France,Uruguay
+220,165,1928,292805,1000,,France,Uruguay
+220,165,1929,281509,1000,,France,Uruguay
+220,165,1930,248542,1000,,France,Uruguay
+220,165,1931,195931,1000,,France,Uruguay
+220,165,1932,90804,1000,Mille Francs,France,Uruguay
+220,165,1933,81229,1000,Mille Francs,France,Uruguay
+220,165,1934,52436,1000,Mille Francs,France,Uruguay
+220,165,1935,52021,1000,Milliers De Francs,France,Uruguay
+220,165,1936,51686,1000,Milliers De Francs,France,Uruguay
+220,165,1937,75974,1000,Mille Francs,France,Uruguay
+220,165,1938,93929,1000,Mille Fr.,France,Uruguay
+220,165,1939,97602,1000,Mille Fr.,France,Uruguay
+220,165,1940,196870,1000,Mille Fr.,France,Uruguay
+220,165,1941,6765,1000,Mille Fr.,France,Uruguay
+220,165,1942,14287,1000,Mille Fr.,France,Uruguay
+220,165,1943,2094,1000,,France,Uruguay
+220,165,1944,0,1000,Mille Fr.,France,Uruguay
+220,165,1945,3498,1000,Mille Fr.,France,Uruguay
+220,165,1946,815355,1000,Mille Francs,France,Uruguay
+220,165,1947,1073224,1000,Mille Francs,France,Uruguay
+220,165,1948,865477,1000,Mille Francs,France,Uruguay
+220,165,1949,1146984,1000,Mille Francs,France,Uruguay
+220,200,1919,8800911,1000,,France,United Kingdom
+220,200,1920,10312692,1000,,France,United Kingdom
+220,200,1921,2916706,1000,,France,United Kingdom
+220,200,1922,3256038,1000,,France,United Kingdom
+220,200,1923,5034083,1000,,France,United Kingdom
+220,200,1924,4764561,1000,,France,United Kingdom
+220,200,1925,5669102,1000,,France,United Kingdom
+220,200,1926,6131101,1000,,France,United Kingdom
+220,200,1927,6313632,1000,,France,United Kingdom
+220,200,1928,5296508,1000,,France,United Kingdom
+220,200,1929,5827970,1000,,France,United Kingdom
+220,200,1930,5272952,1000,,France,United Kingdom
+220,200,1931,3724345,1000,,France,United Kingdom
+220,200,1932,2457799,1000,Mille Francs,France,United Kingdom
+220,200,1933,2168152,1000,Mille Francs,France,United Kingdom
+220,200,1934,1643444,1000,Mille Francs,France,United Kingdom
+220,200,1935,1579706,1000,Milliers De Francs,France,United Kingdom
+220,200,1936,1799387,1000,Milliers De Francs,France,United Kingdom
+220,200,1937,3383499,1000,Mille Francs,France,United Kingdom
+220,200,1938,3231679,1000,Mille Fr.,France,United Kingdom
+220,200,1939,2976211,1000,Mille Fr.,France,United Kingdom
+220,200,1940,3655537,1000,Mille Fr.,France,United Kingdom
+220,200,1941,145888,1000,Mille Fr.,France,United Kingdom
+220,200,1942,13425,1000,Mille Fr.,France,United Kingdom
+220,200,1943,32975,1000,,France,United Kingdom
+220,200,1944,30338,1000,Mille Fr.,France,United Kingdom
+220,200,1945,5063964,1000,Mille Fr.,France,United Kingdom
+220,200,1946,15094529,1000,Mille Francs,France,United Kingdom
+220,200,1947,12465743,1000,Mille Francs,France,United Kingdom
+220,200,1948,18833562,1000,Mille Francs,France,United Kingdom
+220,200,1949,32819314,1000,Mille Francs,France,United Kingdom
+220,205,1919,21,1000,,France,Ireland
+220,205,1920,5501,1000,,France,Ireland
+220,205,1921,25879,1000,,France,Ireland
+220,205,1922,17126,1000,,France,Ireland
+220,205,1923,6849,1000,,France,Ireland
+220,205,1924,8050,1000,,France,Ireland
+220,205,1925,18372,1000,,France,Ireland
+220,205,1926,11141,1000,,France,Ireland
+220,205,1927,16925,1000,,France,Ireland
+220,205,1928,12621,1000,,France,Ireland
+220,205,1929,31447,1000,,France,Ireland
+220,205,1930,25144,1000,,France,Ireland
+220,205,1931,126805,1000,,France,Ireland
+220,205,1932,6597,1000,Mille Francs,France,Ireland
+220,205,1933,10146,1000,Mille Francs,France,Ireland
+220,205,1934,5604,1000,Mille Francs,France,Ireland
+220,205,1935,3604,1000,Milliers De Francs,France,Ireland
+220,205,1936,4017,1000,Milliers De Francs,France,Ireland
+220,205,1937,5778,1000,Mille Francs,France,Ireland
+220,205,1938,7452,1000,Mille Fr.,France,Ireland
+220,205,1939,2167,1000,Mille Fr.,France,Ireland
+220,205,1940,23233,1000,Mille Fr.,France,Ireland
+220,205,1941,132,1000,Mille Fr.,France,Ireland
+220,205,1942,1,1000,Mille Fr.,France,Ireland
+220,205,1943,266,1000,,France,Ireland
+220,205,1944,1,1000,Mille Fr.,France,Ireland
+220,205,1945,14721,1000,Mille Fr.,France,Ireland
+220,205,1946,107404,1000,Mille Francs,France,Ireland
+220,205,1947,125898,1000,Mille Francs,France,Ireland
+220,205,1948,156059,1000,Mille Francs,France,Ireland
+220,205,1949,101826,1000,Mille Francs,France,Ireland
+220,210,1919,234991,1000,,France,Netherlands
+220,210,1920,352636,1000,,France,Netherlands
+220,210,1921,546408,1000,,France,Netherlands
+220,210,1922,661181,1000,,France,Netherlands
+220,210,1923,1009152,1000,,France,Netherlands
+220,210,1924,1148596,1000,,France,Netherlands
+220,210,1925,1273072,1000,,France,Netherlands
+220,210,1926,1775537,1000,,France,Netherlands
+220,210,1927,1993692,1000,,France,Netherlands
+220,210,1928,1704540,1000,,France,Netherlands
+220,210,1929,1647195,1000,,France,Netherlands
+220,210,1930,1756046,1000,,France,Netherlands
+220,210,1931,1609091,1000,,France,Netherlands
+220,210,1932,1043856,1000,Mille Francs,France,Netherlands
+220,210,1933,838181,1000,Mille Francs,France,Netherlands
+220,210,1934,627044,1000,Mille Francs,France,Netherlands
+220,210,1935,520974,1000,Milliers De Francs,France,Netherlands
+220,210,1936,578961,1000,Milliers De Francs,France,Netherlands
+220,210,1937,1056320,1000,Mille Francs,France,Netherlands
+220,210,1938,1186964,1000,Mille Fr.,France,Netherlands
+220,210,1939,982153,1000,Mille Fr.,France,Netherlands
+220,210,1940,407409,1000,Mille Fr.,France,Netherlands
+220,210,1941,208548,1000,Mille Fr.,France,Netherlands
+220,210,1942,634884,1000,Mille Fr.,France,Netherlands
+220,210,1943,547324,1000,,France,Netherlands
+220,210,1944,339675,1000,Mille Fr.,France,Netherlands
+220,210,1945,242953,1000,Mille Fr.,France,Netherlands
+220,210,1946,1971899,1000,Mille Francs,France,Netherlands
+220,210,1947,5819686,1000,Mille Francs,France,Netherlands
+220,210,1948,16195866,1000,Mille Francs,France,Netherlands
+220,210,1949,22686185,1000,Mille Francs,France,Netherlands
+220,211,1919,1111249,1000,,France,Belgium
+220,211,1920,3325484,1000,,France,Belgium
+220,211,1921,1732495,1000,,France,Belgium
+220,211,1922,1796493,1000,,France,Belgium
+220,211,1923,2533478,1000,,France,Belgium
+220,211,1924,2734367,1000,,France,Belgium
+220,211,1925,3348989,1000,,France,Belgium
+220,211,1926,4876543,1000,,France,Belgium
+220,211,1927,3980394,1000,,France,Belgium
+220,211,1928,4040226,1000,,France,Belgium
+220,211,1929,3920166,1000,,France,Belgium
+220,211,1930,4198852,1000,,France,Belgium
+220,211,1931,3633238,1000,,France,Belgium
+220,211,1932,2447308,1000,Mille Francs,France,Belgium
+220,211,1933,1965541,1000,Mille Francs,France,Belgium
+220,211,1934,1468626,1000,Mille Francs,France,Belgium
+220,211,1935,1406178,1000,Milliers De Francs,France,Belgium
+220,211,1936,1642829,1000,Milliers De Francs,France,Belgium
+220,211,1937,3059583,1000,Mille Francs,France,Belgium
+220,211,1938,3159534,1000,Mille Fr.,France,Belgium
+220,211,1939,3046040,1000,Mille Fr.,France,Belgium
+220,211,1940,2665513,1000,Mille Fr.,France,Belgium
+220,211,1941,1698935,1000,Mille Fr.,France,Belgium
+220,211,1942,1470658,1000,Mille Fr.,France,Belgium
+220,211,1943,1716554,1000,,France,Belgium
+220,211,1944,810467,1000,Mille Fr.,France,Belgium
+220,211,1945,1582796,1000,Mille Fr.,France,Belgium
+220,211,1946,10266751,1000,Mille Francs,France,Belgium
+220,211,1947,19237715,1000,Mille Francs,France,Belgium
+220,211,1948,25247644,1000,Mille Francs,France,Belgium
+220,211,1949,32212399,1000,Mille Francs,France,Belgium
+220,212,1919,75713,1000,,France,Luxembourg
+220,212,1920,241485,1000,,France,Luxembourg
+220,212,1921,97112,1000,,France,Luxembourg
+220,212,1922,83768,1000,,France,Luxembourg
+220,212,1923,0,1000,,France,Luxembourg
+220,212,1924,0,1000,,France,Luxembourg
+220,212,1925,0,1000,,France,Luxembourg
+220,212,1926,0,1000,,France,Luxembourg
+220,212,1927,0,1000,,France,Luxembourg
+220,212,1928,0,1000,,France,Luxembourg
+220,212,1929,0,1000,,France,Luxembourg
+220,212,1930,0,1000,,France,Luxembourg
+220,212,1931,0,1000,,France,Luxembourg
+220,212,1932,0,1000,Mille Francs,France,Luxembourg
+220,212,1933,0,1000,Mille Francs,France,Luxembourg
+220,212,1934,0,1000,Mille Francs,France,Luxembourg
+220,212,1935,0,1000,Milliers De Francs,France,Luxembourg
+220,212,1936,0,1000,Milliers De Francs,France,Luxembourg
+220,212,1937,0,1000,Mille Francs,France,Luxembourg
+220,212,1938,0,1000,Mille Fr.,France,Luxembourg
+220,212,1939,0,1000,Mille Fr.,France,Luxembourg
+220,212,1940,0,1000,Mille Fr.,France,Luxembourg
+220,212,1941,0,1000,Mille Fr.,France,Luxembourg
+220,212,1942,0,1000,Mille Fr.,France,Luxembourg
+220,212,1943,0,1000,,France,Luxembourg
+220,212,1944,0,1000,Mille Fr.,France,Luxembourg
+220,212,1945,0,1000,Mille Fr.,France,Luxembourg
+220,212,1946,0,1000,Mille Francs,France,Luxembourg
+220,212,1947,0,1000,Mille Francs,France,Luxembourg
+220,212,1948,0,1000,Mille Francs,France,Luxembourg
+220,212,1949,0,1000,Mille Francs,France,Luxembourg
+220,225,1919,737848,1000,,France,Switzerland
+220,225,1920,1043905,1000,,France,Switzerland
+220,225,1921,445354,1000,,France,Switzerland
+220,225,1922,488049,1000,,France,Switzerland
+220,225,1923,576047,1000,,France,Switzerland
+220,225,1924,652909,1000,,France,Switzerland
+220,225,1925,771202,1000,,France,Switzerland
+220,225,1926,1007863,1000,,France,Switzerland
+220,225,1927,757059,1000,,France,Switzerland
+220,225,1928,933487,1000,,France,Switzerland
+220,225,1929,1074528,1000,,France,Switzerland
+220,225,1930,1132837,1000,,France,Switzerland
+220,225,1931,903963,1000,,France,Switzerland
+220,225,1932,607118,1000,Mille Francs,France,Switzerland
+220,225,1933,631796,1000,Mille Francs,France,Switzerland
+220,225,1934,523986,1000,Mille Francs,France,Switzerland
+220,225,1935,507414,1000,Milliers De Francs,France,Switzerland
+220,225,1936,577378,1000,Milliers De Francs,France,Switzerland
+220,225,1937,813839,1000,Mille Francs,France,Switzerland
+220,225,1938,994165,1000,Mille Fr.,France,Switzerland
+220,225,1939,1096094,1000,Mille Fr.,France,Switzerland
+220,225,1940,1234312,1000,Mille Fr.,France,Switzerland
+220,225,1941,887604,1000,Mille Fr.,France,Switzerland
+220,225,1942,676967,1000,Mille Fr.,France,Switzerland
+220,225,1943,576136,1000,,France,Switzerland
+220,225,1944,287929,1000,Mille Fr.,France,Switzerland
+220,225,1945,1958532,1000,Mille Fr.,France,Switzerland
+220,225,1946,7211043,1000,Mille Francs,France,Switzerland
+220,225,1947,9080844,1000,Mille Francs,France,Switzerland
+220,225,1948,13712559,1000,Mille Francs,France,Switzerland
+220,225,1949,15444070,1000,Mille Francs,France,Switzerland
+220,230,1919,1464233,1000,,France,Spain
+220,230,1920,1052480,1000,,France,Spain
+220,230,1921,489505,1000,,France,Spain
+220,230,1922,365891,1000,,France,Spain
+220,230,1923,650819,1000,,France,Spain
+220,230,1924,900080,1000,,France,Spain
+220,230,1925,876619,1000,,France,Spain
+220,230,1926,1073291,1000,,France,Spain
+220,230,1927,1444244,1000,,France,Spain
+220,230,1928,1619456,1000,,France,Spain
+220,230,1929,1441585,1000,,France,Spain
+220,230,1930,1508542,1000,,France,Spain
+220,230,1931,1404840,1000,,France,Spain
+220,230,1932,717421,1000,Mille Francs,France,Spain
+220,230,1933,686166,1000,Mille Francs,France,Spain
+220,230,1934,497833,1000,Mille Francs,France,Spain
+220,230,1935,338610,1000,Milliers De Francs,France,Spain
+220,230,1936,472758,1000,Milliers De Francs,France,Spain
+220,230,1937,315036,1000,Mille Francs,France,Spain
+220,230,1938,191911,1000,Mille Fr.,France,Spain
+220,230,1939,78832,1000,Mille Fr.,France,Spain
+220,230,1940,428840,1000,Mille Fr.,France,Spain
+220,230,1941,261473,1000,Mille Fr.,France,Spain
+220,230,1942,514591,1000,Mille Fr.,France,Spain
+220,230,1943,235072,1000,,France,Spain
+220,230,1944,224289,1000,Mille Fr.,France,Spain
+220,230,1945,246623,1000,Mille Fr.,France,Spain
+220,230,1946,218306,1000,Mille Francs,France,Spain
+220,230,1947,19807,1000,Mille Francs,France,Spain
+220,230,1948,4209299,1000,Mille Francs,France,Spain
+220,230,1949,12672139,1000,Mille Francs,France,Spain
+220,235,1919,178625,1000,,France,Portugal
+220,235,1920,154679,1000,,France,Portugal
+220,235,1921,76442,1000,,France,Portugal
+220,235,1922,213295,1000,,France,Portugal
+220,235,1923,166757,1000,,France,Portugal
+220,235,1924,92639,1000,,France,Portugal
+220,235,1925,152848,1000,,France,Portugal
+220,235,1926,179001,1000,,France,Portugal
+220,235,1927,129025,1000,,France,Portugal
+220,235,1928,258864,1000,,France,Portugal
+220,235,1929,213438,1000,,France,Portugal
+220,235,1930,190417,1000,,France,Portugal
+220,235,1931,219398,1000,,France,Portugal
+220,235,1932,124694,1000,Mille Francs,France,Portugal
+220,235,1933,108808,1000,Mille Francs,France,Portugal
+220,235,1934,98424,1000,Mille Francs,France,Portugal
+220,235,1935,99787,1000,Milliers De Francs,France,Portugal
+220,235,1936,116277,1000,Milliers De Francs,France,Portugal
+220,235,1937,233960,1000,Mille Francs,France,Portugal
+220,235,1938,265649,1000,Mille Fr.,France,Portugal
+220,235,1939,229093,1000,Mille Fr.,France,Portugal
+220,235,1940,300142,1000,Mille Fr.,France,Portugal
+220,235,1941,99323,1000,Mille Fr.,France,Portugal
+220,235,1942,146694,1000,Mille Fr.,France,Portugal
+220,235,1943,176685,1000,,France,Portugal
+220,235,1944,12737,1000,Mille Fr.,France,Portugal
+220,235,1945,223779,1000,Mille Fr.,France,Portugal
+220,235,1946,801524,1000,Mille Francs,France,Portugal
+220,235,1947,1022424,1000,Mille Francs,France,Portugal
+220,235,1948,1852341,1000,Mille Francs,France,Portugal
+220,235,1949,3299798,1000,Mille Francs,France,Portugal
+220,255,1919,755272,1000,,France,Germany
+220,255,1920,2667963,1000,,France,Germany
+220,255,1921,2614692,1000,,France,Germany
+220,255,1922,1446091,1000,,France,Germany
+220,255,1923,1173102,1000,,France,Germany
+220,255,1924,2051276,1000,,France,Germany
+220,255,1925,2345918,1000,,France,Germany
+220,255,1926,4924611,1000,,France,Germany
+220,255,1927,4170374,1000,,France,Germany
+220,255,1928,5003742,1000,,France,Germany
+220,255,1929,6612971,1000,,France,Germany
+220,255,1930,7937117,1000,,France,Germany
+220,255,1931,6141735,1000,,France,Germany
+220,255,1932,3613163,1000,Mille Francs,France,Germany
+220,255,1933,3036958,1000,Mille Francs,France,Germany
+220,255,1934,2226037,1000,Mille Francs,France,Germany
+220,255,1935,1738481,1000,Milliers De Francs,France,Germany
+220,255,1936,1774028,1000,Milliers De Francs,France,Germany
+220,255,1937,3248610,1000,Mille Francs,France,Germany
+220,255,1938,3153187,1000,Mille Fr.,France,Germany
+220,255,1939,2088933,1000,Mille Fr.,France,Germany
+220,255,1940,99115,1000,Mille Fr.,France,Germany
+220,255,1941,3915396,1000,Mille Fr.,France,Germany
+220,255,1942,7519349,1000,Mille Fr.,France,Germany
+220,255,1943,8379875,1000,,France,Germany
+220,255,1944,4807360,1000,Mille Fr.,France,Germany
+220,255,1945,1664691,1000,Mille Fr.,France,Germany
+220,255,1946,12785065,1000,Mille Francs,France,Germany
+220,255,1947,15159821,1000,Mille Francs,France,Germany
+220,255,1948,35964098,1000,Mille Francs,France,Germany
+220,255,1949,68444605,1000,Mille Francs,France,Germany
+220,256,1919,86359,1000,,France,Saar
+220,256,1920,1530217,1000,,France,Saar
+220,256,1921,844098,1000,,France,Saar
+220,256,1922,837147,1000,,France,Saar
+220,256,1923,768504,1000,,France,Saar
+220,256,1924,1149205,1000,,France,Saar
+220,256,1925,43047,1000,,France,Saar
+220,256,1926,0,1000,,France,Saar
+220,256,1927,0,1000,,France,Saar
+220,256,1928,0,1000,,France,Saar
+220,256,1929,0,1000,,France,Saar
+220,256,1930,0,1000,,France,Saar
+220,256,1931,0,1000,,France,Saar
+220,256,1932,0,1000,Mille Francs,France,Saar
+220,256,1933,0,1000,Mille Francs,France,Saar
+220,256,1934,0,1000,Mille Francs,France,Saar
+220,256,1935,0,1000,Milliers De Francs,France,Saar
+220,256,1936,0,1000,Milliers De Francs,France,Saar
+220,256,1937,0,1000,Mille Francs,France,Saar
+220,256,1938,0,1000,Mille Fr.,France,Saar
+220,256,1939,0,1000,Mille Fr.,France,Saar
+220,256,1940,0,1000,Mille Fr.,France,Saar
+220,256,1941,0,1000,Mille Fr.,France,Saar
+220,256,1942,0,1000,Mille Fr.,France,Saar
+220,256,1943,0,1000,,France,Saar
+220,256,1944,0,1000,Mille Fr.,France,Saar
+220,256,1945,0,1000,Mille Fr.,France,Saar
+220,256,1946,0,1000,Mille Francs,France,Saar
+220,256,1947,0,1000,Mille Francs,France,Saar
+220,256,1948,0,1000,Mille Francs,France,Saar
+220,256,1949,0,1000,Mille Francs,France,Saar
+220,290,1919,422,1000,,France,Poland
+220,290,1920,23924,1000,,France,Poland
+220,290,1921,43872,1000,,France,Poland
+220,290,1922,41347,1000,,France,Poland
+220,290,1923,143477,1000,,France,Poland
+220,290,1924,244381,1000,,France,Poland
+220,290,1925,106734,1000,,France,Poland
+220,290,1926,392171,1000,,France,Poland
+220,290,1927,237121,1000,,France,Poland
+220,290,1928,210036,1000,,France,Poland
+220,290,1929,301932,1000,,France,Poland
+220,290,1930,355753,1000,,France,Poland
+220,290,1931,456818,1000,,France,Poland
+220,290,1932,235765,1000,Mille Francs,France,Poland
+220,290,1933,203979,1000,Mille Francs,France,Poland
+220,290,1934,176639,1000,Mille Francs,France,Poland
+220,290,1935,153308,1000,Milliers De Francs,France,Poland
+220,290,1936,204604,1000,Milliers De Francs,France,Poland
+220,290,1937,400163,1000,Mille Francs,France,Poland
+220,290,1938,445713,1000,Mille Fr.,France,Poland
+220,290,1939,441096,1000,Mille Fr.,France,Poland
+220,290,1940,6779,1000,Mille Fr.,France,Poland
+220,290,1941,1742,1000,Mille Fr.,France,Poland
+220,290,1942,293,1000,Mille Fr.,France,Poland
+220,290,1943,57,1000,,France,Poland
+220,290,1944,1,1000,Mille Fr.,France,Poland
+220,290,1945,217,1000,Mille Fr.,France,Poland
+220,290,1946,1100225,1000,Mille Francs,France,Poland
+220,290,1947,1346596,1000,Mille Francs,France,Poland
+220,290,1948,6899059,1000,Mille Francs,France,Poland
+220,290,1949,11419215,1000,Mille Francs,France,Poland
+220,305,1919,3869,1000,,France,Austria
+220,305,1920,66079,1000,,France,Austria
+220,305,1921,39310,1000,,France,Austria
+220,305,1922,44332,1000,,France,Austria
+220,305,1923,99858,1000,,France,Austria
+220,305,1924,177346,1000,,France,Austria
+220,305,1925,224207,1000,,France,Austria
+220,305,1926,308345,1000,,France,Austria
+220,305,1927,228925,1000,,France,Austria
+220,305,1928,251224,1000,,France,Austria
+220,305,1929,309161,1000,,France,Austria
+220,305,1930,303865,1000,,France,Austria
+220,305,1931,253614,1000,,France,Austria
+220,305,1932,116903,1000,Mille Francs,France,Austria
+220,305,1933,109117,1000,Mille Francs,France,Austria
+220,305,1934,103716,1000,Mille Francs,France,Austria
+220,305,1935,94912,1000,Milliers De Francs,France,Austria
+220,305,1936,141729,1000,Milliers De Francs,France,Austria
+220,305,1937,243773,1000,Mille Francs,France,Austria
+220,305,1938,136825,1000,Mille Fr.,France,Austria
+220,305,1939,0,1000,Mille Fr.,France,Austria
+220,305,1940,0,1000,Mille Fr.,France,Austria
+220,305,1941,0,1000,Mille Fr.,France,Austria
+220,305,1942,0,1000,Mille Fr.,France,Austria
+220,305,1943,0,1000,,France,Austria
+220,305,1944,0,1000,Mille Fr.,France,Austria
+220,305,1945,33261,1000,Mille Fr.,France,Austria
+220,305,1946,180139,1000,Mille Francs,France,Austria
+220,305,1947,506320,1000,Mille Francs,France,Austria
+220,305,1948,1699288,1000,Mille Francs,France,Austria
+220,305,1949,2870867,1000,Mille Francs,France,Austria
+220,310,1919,40,1000,,France,Hungary
+220,310,1920,266,1000,,France,Hungary
+220,310,1921,6103,1000,,France,Hungary
+220,310,1922,29381,1000,,France,Hungary
+220,310,1923,15249,1000,,France,Hungary
+220,310,1924,52053,1000,,France,Hungary
+220,310,1925,55046,1000,,France,Hungary
+220,310,1926,53387,1000,,France,Hungary
+220,310,1927,28505,1000,,France,Hungary
+220,310,1928,29445,1000,,France,Hungary
+220,310,1929,52201,1000,,France,Hungary
+220,310,1930,70088,1000,,France,Hungary
+220,310,1931,137330,1000,,France,Hungary
+220,310,1932,88018,1000,Mille Francs,France,Hungary
+220,310,1933,68568,1000,Mille Francs,France,Hungary
+220,310,1934,42724,1000,Mille Francs,France,Hungary
+220,310,1935,36276,1000,Milliers De Francs,France,Hungary
+220,310,1936,48293,1000,Milliers De Francs,France,Hungary
+220,310,1937,96289,1000,Mille Francs,France,Hungary
+220,310,1938,116885,1000,Mille Fr.,France,Hungary
+220,310,1939,94098,1000,Mille Fr.,France,Hungary
+220,310,1940,173719,1000,Mille Fr.,France,Hungary
+220,310,1941,138442,1000,Mille Fr.,France,Hungary
+220,310,1942,300343,1000,Mille Fr.,France,Hungary
+220,310,1943,249132,1000,,France,Hungary
+220,310,1944,369674,1000,Mille Fr.,France,Hungary
+220,310,1945,12930,1000,Mille Fr.,France,Hungary
+220,310,1946,9394,1000,Mille Francs,France,Hungary
+220,310,1947,167335,1000,Mille Francs,France,Hungary
+220,310,1948,576375,1000,Mille Francs,France,Hungary
+220,310,1949,1941831,1000,Mille Francs,France,Hungary
+220,315,1919,48389,1000,,France,Czechoslovakia
+220,315,1920,425084,1000,,France,Czechoslovakia
+220,315,1921,312871,1000,,France,Czechoslovakia
+220,315,1922,300262,1000,,France,Czechoslovakia
+220,315,1923,212789,1000,,France,Czechoslovakia
+220,315,1924,194169,1000,,France,Czechoslovakia
+220,315,1925,183315,1000,,France,Czechoslovakia
+220,315,1926,236011,1000,,France,Czechoslovakia
+220,315,1927,199755,1000,,France,Czechoslovakia
+220,315,1928,217712,1000,,France,Czechoslovakia
+220,315,1929,244564,1000,,France,Czechoslovakia
+220,315,1930,308586,1000,,France,Czechoslovakia
+220,315,1931,330119,1000,,France,Czechoslovakia
+220,315,1932,250253,1000,Mille Francs,France,Czechoslovakia
+220,315,1933,218994,1000,Mille Francs,France,Czechoslovakia
+220,315,1934,190464,1000,Mille Francs,France,Czechoslovakia
+220,315,1935,192512,1000,Milliers De Francs,France,Czechoslovakia
+220,315,1936,230961,1000,Milliers De Francs,France,Czechoslovakia
+220,315,1937,408080,1000,Mille Francs,France,Czechoslovakia
+220,315,1938,299979,1000,Mille Fr.,France,Czechoslovakia
+220,315,1939,280840,1000,Mille Fr.,France,Czechoslovakia
+220,315,1940,11893,1000,Mille Fr.,France,Czechoslovakia
+220,315,1941,0,1000,Mille Fr.,France,Czechoslovakia
+220,315,1942,0,1000,Mille Fr.,France,Czechoslovakia
+220,315,1943,0,1000,,France,Czechoslovakia
+220,315,1944,3204,1000,Mille Fr.,France,Czechoslovakia
+220,315,1945,1516,1000,Mille Fr.,France,Czechoslovakia
+220,315,1946,705844,1000,Mille Francs,France,Czechoslovakia
+220,315,1947,2093698,1000,Mille Francs,France,Czechoslovakia
+220,315,1948,3554703,1000,Mille Francs,France,Czechoslovakia
+220,315,1949,5381370,1000,Mille Francs,France,Czechoslovakia
+220,316,1919,0,1000,,France,Czech Republic
+220,316,1920,0,1000,,France,Czech Republic
+220,316,1921,0,1000,,France,Czech Republic
+220,316,1922,0,1000,,France,Czech Republic
+220,316,1923,0,1000,,France,Czech Republic
+220,316,1924,0,1000,,France,Czech Republic
+220,316,1925,0,1000,,France,Czech Republic
+220,316,1926,0,1000,,France,Czech Republic
+220,316,1927,0,1000,,France,Czech Republic
+220,316,1928,0,1000,,France,Czech Republic
+220,316,1929,0,1000,,France,Czech Republic
+220,316,1930,0,1000,,France,Czech Republic
+220,316,1931,0,1000,,France,Czech Republic
+220,316,1932,0,1000,Mille Francs,France,Czech Republic
+220,316,1933,0,1000,Mille Francs,France,Czech Republic
+220,316,1934,0,1000,Mille Francs,France,Czech Republic
+220,316,1935,0,1000,Milliers De Francs,France,Czech Republic
+220,316,1936,0,1000,Milliers De Francs,France,Czech Republic
+220,316,1937,0,1000,Mille Francs,France,Czech Republic
+220,316,1938,0,1000,Mille Fr.,France,Czech Republic
+220,316,1939,0,1000,Mille Fr.,France,Czech Republic
+220,316,1940,0,1000,Mille Fr.,France,Czech Republic
+220,316,1941,16058,1000,Mille Fr.,France,Czech Republic
+220,316,1942,0,1000,Mille Fr.,France,Czech Republic
+220,316,1943,0,1000,,France,Czech Republic
+220,316,1944,0,1000,Mille Fr.,France,Czech Republic
+220,316,1945,0,1000,Mille Fr.,France,Czech Republic
+220,316,1946,0,1000,Mille Francs,France,Czech Republic
+220,316,1947,0,1000,Mille Francs,France,Czech Republic
+220,316,1948,0,1000,Mille Francs,France,Czech Republic
+220,316,1949,0,1000,Mille Francs,France,Czech Republic
+220,317,1919,0,1000,,France,Slovakia
+220,317,1920,0,1000,,France,Slovakia
+220,317,1921,0,1000,,France,Slovakia
+220,317,1922,0,1000,,France,Slovakia
+220,317,1923,0,1000,,France,Slovakia
+220,317,1924,0,1000,,France,Slovakia
+220,317,1925,0,1000,,France,Slovakia
+220,317,1926,0,1000,,France,Slovakia
+220,317,1927,0,1000,,France,Slovakia
+220,317,1928,0,1000,,France,Slovakia
+220,317,1929,0,1000,,France,Slovakia
+220,317,1930,0,1000,,France,Slovakia
+220,317,1931,0,1000,,France,Slovakia
+220,317,1932,0,1000,Mille Francs,France,Slovakia
+220,317,1933,0,1000,Mille Francs,France,Slovakia
+220,317,1934,0,1000,Mille Francs,France,Slovakia
+220,317,1935,0,1000,Milliers De Francs,France,Slovakia
+220,317,1936,0,1000,Milliers De Francs,France,Slovakia
+220,317,1937,0,1000,Mille Francs,France,Slovakia
+220,317,1938,0,1000,Mille Fr.,France,Slovakia
+220,317,1939,0,1000,Mille Fr.,France,Slovakia
+220,317,1940,0,1000,Mille Fr.,France,Slovakia
+220,317,1941,0,1000,Mille Fr.,France,Slovakia
+220,317,1942,6106,1000,Mille Fr.,France,Slovakia
+220,317,1943,17756,1000,,France,Slovakia
+220,317,1944,0,1000,Mille Fr.,France,Slovakia
+220,317,1945,0,1000,Mille Fr.,France,Slovakia
+220,317,1946,0,1000,Mille Francs,France,Slovakia
+220,317,1947,0,1000,Mille Francs,France,Slovakia
+220,317,1948,0,1000,Mille Francs,France,Slovakia
+220,317,1949,0,1000,Mille Francs,France,Slovakia
+220,325,1919,1017198,1000,,France,Italy
+220,325,1920,1282549,1000,,France,Italy
+220,325,1921,616251,1000,,France,Italy
+220,325,1922,773669,1000,,France,Italy
+220,325,1923,1139474,1000,,France,Italy
+220,325,1924,1480915,1000,,France,Italy
+220,325,1925,1726911,1000,,France,Italy
+220,325,1926,2231139,1000,,France,Italy
+220,325,1927,1550527,1000,,France,Italy
+220,325,1928,1525133,1000,,France,Italy
+220,325,1929,1516333,1000,,France,Italy
+220,325,1930,1526843,1000,,France,Italy
+220,325,1931,1436761,1000,,France,Italy
+220,325,1932,630141,1000,Mille Francs,France,Italy
+220,325,1933,621175,1000,Mille Francs,France,Italy
+220,325,1934,484227,1000,Mille Francs,France,Italy
+220,325,1935,404477,1000,Milliers De Francs,France,Italy
+220,325,1936,215087,1000,Milliers De Francs,France,Italy
+220,325,1937,571338,1000,Mille Francs,France,Italy
+220,325,1938,577934,1000,Mille Fr.,France,Italy
+220,325,1939,499454,1000,Mille Fr.,France,Italy
+220,325,1940,820553,1000,Mille Fr.,France,Italy
+220,325,1941,503141,1000,Mille Fr.,France,Italy
+220,325,1942,424371,1000,Mille Fr.,France,Italy
+220,325,1943,143043,1000,,France,Italy
+220,325,1944,25111,1000,Mille Fr.,France,Italy
+220,325,1945,103204,1000,Mille Fr.,France,Italy
+220,325,1946,2348682,1000,Mille Francs,France,Italy
+220,325,1947,2736469,1000,Mille Francs,France,Italy
+220,325,1948,11378814,1000,Mille Francs,France,Italy
+220,325,1949,17691160,1000,Mille Francs,France,Italy
+220,339,1919,0,1000,,France,Albania
+220,339,1920,0,1000,,France,Albania
+220,339,1921,0,1000,,France,Albania
+220,339,1922,0,1000,,France,Albania
+220,339,1923,281,1000,,France,Albania
+220,339,1924,675,1000,,France,Albania
+220,339,1925,653,1000,,France,Albania
+220,339,1926,1135,1000,,France,Albania
+220,339,1927,902,1000,,France,Albania
+220,339,1928,883,1000,,France,Albania
+220,339,1929,588,1000,,France,Albania
+220,339,1930,4606,1000,,France,Albania
+220,339,1931,1557,1000,,France,Albania
+220,339,1932,979,1000,Mille Francs,France,Albania
+220,339,1933,834,1000,Mille Francs,France,Albania
+220,339,1934,1157,1000,Mille Francs,France,Albania
+220,339,1935,1354,1000,Milliers De Francs,France,Albania
+220,339,1936,1127,1000,Milliers De Francs,France,Albania
+220,339,1937,1044,1000,Mille Francs,France,Albania
+220,339,1938,2415,1000,Mille Fr.,France,Albania
+220,339,1939,2593,1000,Mille Fr.,France,Albania
+220,339,1940,0,1000,Mille Fr.,France,Albania
+220,339,1941,0,1000,Mille Fr.,France,Albania
+220,339,1942,0,1000,Mille Fr.,France,Albania
+220,339,1943,0,1000,,France,Albania
+220,339,1944,0,1000,Mille Fr.,France,Albania
+220,339,1945,0,1000,Mille Fr.,France,Albania
+220,339,1946,444,1000,Mille Francs,France,Albania
+220,339,1947,12,1000,Mille Francs,France,Albania
+220,339,1948,0,1000,Mille Francs,France,Albania
+220,339,1949,0,1000,Mille Francs,France,Albania
+220,345,1919,2368,1000,,France,Yugoslavia
+220,345,1920,24969,1000,,France,Yugoslavia
+220,345,1921,21065,1000,,France,Yugoslavia
+220,345,1922,81965,1000,,France,Yugoslavia
+220,345,1923,116810,1000,,France,Yugoslavia
+220,345,1924,79493,1000,,France,Yugoslavia
+220,345,1925,106312,1000,,France,Yugoslavia
+220,345,1926,113602,1000,,France,Yugoslavia
+220,345,1927,96517,1000,,France,Yugoslavia
+220,345,1928,121409,1000,,France,Yugoslavia
+220,345,1929,132492,1000,,France,Yugoslavia
+220,345,1930,156927,1000,,France,Yugoslavia
+220,345,1931,123050,1000,,France,Yugoslavia
+220,345,1932,56901,1000,Mille Francs,France,Yugoslavia
+220,345,1933,50040,1000,Mille Francs,France,Yugoslavia
+220,345,1934,31558,1000,Mille Francs,France,Yugoslavia
+220,345,1935,28599,1000,Milliers De Francs,France,Yugoslavia
+220,345,1936,59456,1000,Milliers De Francs,France,Yugoslavia
+220,345,1937,97151,1000,Mille Francs,France,Yugoslavia
+220,345,1938,102896,1000,Mille Fr.,France,Yugoslavia
+220,345,1939,169712,1000,Mille Fr.,France,Yugoslavia
+220,345,1940,323578,1000,Mille Fr.,France,Yugoslavia
+220,345,1941,58924,1000,Mille Fr.,France,Yugoslavia
+220,345,1942,25290,1000,Mille Fr.,France,Yugoslavia
+220,345,1943,5,1000,,France,Yugoslavia
+220,345,1944,1047,1000,Mille Fr.,France,Yugoslavia
+220,345,1945,337,1000,Mille Fr.,France,Yugoslavia
+220,345,1946,77255,1000,Mille Francs,France,Yugoslavia
+220,345,1947,297335,1000,Mille Francs,France,Yugoslavia
+220,345,1948,771000,1000,Mille Francs,France,Yugoslavia
+220,345,1949,743238,1000,Mille Francs,France,Yugoslavia
+220,350,1919,51476,1000,,France,Greece
+220,350,1920,43007,1000,,France,Greece
+220,350,1921,28366,1000,,France,Greece
+220,350,1922,52456,1000,,France,Greece
+220,350,1923,45843,1000,,France,Greece
+220,350,1924,50983,1000,,France,Greece
+220,350,1925,78984,1000,,France,Greece
+220,350,1926,156070,1000,,France,Greece
+220,350,1927,134153,1000,,France,Greece
+220,350,1928,115237,1000,,France,Greece
+220,350,1929,116954,1000,,France,Greece
+220,350,1930,92664,1000,,France,Greece
+220,350,1931,101847,1000,,France,Greece
+220,350,1932,72534,1000,Mille Francs,France,Greece
+220,350,1933,85322,1000,Mille Francs,France,Greece
+220,350,1934,34171,1000,Mille Francs,France,Greece
+220,350,1935,34221,1000,Milliers De Francs,France,Greece
+220,350,1936,46523,1000,Milliers De Francs,France,Greece
+220,350,1937,65003,1000,Mille Francs,France,Greece
+220,350,1938,75344,1000,Mille Fr.,France,Greece
+220,350,1939,109906,1000,Mille Fr.,France,Greece
+220,350,1940,103257,1000,Mille Fr.,France,Greece
+220,350,1941,7138,1000,Mille Fr.,France,Greece
+220,350,1942,3640,1000,Mille Fr.,France,Greece
+220,350,1943,92775,1000,,France,Greece
+220,350,1944,13673,1000,Mille Fr.,France,Greece
+220,350,1945,15598,1000,Mille Fr.,France,Greece
+220,350,1946,53150,1000,Mille Francs,France,Greece
+220,350,1947,149397,1000,Mille Francs,France,Greece
+220,350,1948,1099302,1000,Mille Francs,France,Greece
+220,350,1949,1879363,1000,Mille Francs,France,Greece
+220,355,1919,1036,1000,,France,Bulgaria
+220,355,1920,8940,1000,,France,Bulgaria
+220,355,1921,12497,1000,,France,Bulgaria
+220,355,1922,22515,1000,,France,Bulgaria
+220,355,1923,47032,1000,,France,Bulgaria
+220,355,1924,72128,1000,,France,Bulgaria
+220,355,1925,40360,1000,,France,Bulgaria
+220,355,1926,57682,1000,,France,Bulgaria
+220,355,1927,56937,1000,,France,Bulgaria
+220,355,1928,38708,1000,,France,Bulgaria
+220,355,1929,46594,1000,,France,Bulgaria
+220,355,1930,63287,1000,,France,Bulgaria
+220,355,1931,78535,1000,,France,Bulgaria
+220,355,1932,39217,1000,Mille Francs,France,Bulgaria
+220,355,1933,19033,1000,Mille Francs,France,Bulgaria
+220,355,1934,9639,1000,Mille Francs,France,Bulgaria
+220,355,1935,12355,1000,Milliers De Francs,France,Bulgaria
+220,355,1936,16988,1000,Milliers De Francs,France,Bulgaria
+220,355,1937,26524,1000,Mille Francs,France,Bulgaria
+220,355,1938,22221,1000,Mille Fr.,France,Bulgaria
+220,355,1939,18317,1000,Mille Fr.,France,Bulgaria
+220,355,1940,24092,1000,Mille Fr.,France,Bulgaria
+220,355,1941,47652,1000,Mille Fr.,France,Bulgaria
+220,355,1942,125215,1000,Mille Fr.,France,Bulgaria
+220,355,1943,136440,1000,,France,Bulgaria
+220,355,1944,104793,1000,Mille Fr.,France,Bulgaria
+220,355,1945,2730,1000,Mille Fr.,France,Bulgaria
+220,355,1946,229101,1000,Mille Francs,France,Bulgaria
+220,355,1947,244163,1000,Mille Francs,France,Bulgaria
+220,355,1948,277918,1000,Mille Francs,France,Bulgaria
+220,355,1949,77674,1000,Mille Francs,France,Bulgaria
+220,360,1919,1016,1000,,France,Romania
+220,360,1920,29267,1000,,France,Romania
+220,360,1921,125324,1000,,France,Romania
+220,360,1922,133723,1000,,France,Romania
+220,360,1923,157823,1000,,France,Romania
+220,360,1924,166684,1000,,France,Romania
+220,360,1925,222199,1000,,France,Romania
+220,360,1926,343500,1000,,France,Romania
+220,360,1927,338944,1000,,France,Romania
+220,360,1928,203394,1000,,France,Romania
+220,360,1929,232701,1000,,France,Romania
+220,360,1930,375187,1000,,France,Romania
+220,360,1931,565143,1000,,France,Romania
+220,360,1932,456331,1000,Mille Francs,France,Romania
+220,360,1933,353648,1000,Mille Francs,France,Romania
+220,360,1934,246984,1000,Mille Francs,France,Romania
+220,360,1935,157095,1000,Milliers De Francs,France,Romania
+220,360,1936,230621,1000,Milliers De Francs,France,Romania
+220,360,1937,397017,1000,Mille Francs,France,Romania
+220,360,1938,215427,1000,Mille Fr.,France,Romania
+220,360,1939,187190,1000,Mille Fr.,France,Romania
+220,360,1940,270872,1000,Mille Fr.,France,Romania
+220,360,1941,268508,1000,Mille Fr.,France,Romania
+220,360,1942,307222,1000,Mille Fr.,France,Romania
+220,360,1943,347035,1000,,France,Romania
+220,360,1944,196328,1000,Mille Fr.,France,Romania
+220,360,1945,43451,1000,Mille Fr.,France,Romania
+220,360,1946,176,1000,Mille Francs,France,Romania
+220,360,1947,23828,1000,Mille Francs,France,Romania
+220,360,1948,61698,1000,Mille Francs,France,Romania
+220,360,1949,2086,1000,Mille Francs,France,Romania
+220,365,1919,69704,1000,,France,Russia
+220,365,1920,136409,1000,,France,Russia
+220,365,1921,29060,1000,,France,Russia
+220,365,1922,120810,1000,,France,Russia
+220,365,1923,173243,1000,,France,Russia
+220,365,1924,369244,1000,,France,Russia
+220,365,1925,436770,1000,,France,Russia
+220,365,1926,758244,1000,,France,Russia
+220,365,1927,941806,1000,,France,Russia
+220,365,1928,724618,1000,,France,Russia
+220,365,1929,788191,1000,,France,Russia
+220,365,1930,886245,1000,,France,Russia
+220,365,1931,495937,1000,,France,Russia
+220,365,1932,519848,1000,Mille Francs,France,Russia
+220,365,1933,506152,1000,Mille Francs,France,Russia
+220,365,1934,454853,1000,Mille Francs,France,Russia
+220,365,1935,368484,1000,Milliers De Francs,France,Russia
+220,365,1936,457046,1000,Milliers De Francs,France,Russia
+220,365,1937,718821,1000,Mille Francs,France,Russia
+220,365,1938,622725,1000,Mille Fr.,France,Russia
+220,365,1939,408675,1000,Mille Fr.,France,Russia
+220,365,1940,75208,1000,Mille Fr.,France,Russia
+220,365,1941,39231,1000,Mille Fr.,France,Russia
+220,365,1942,9018,1000,Mille Fr.,France,Russia
+220,365,1943,14920,1000,,France,Russia
+220,365,1944,271,1000,Mille Fr.,France,Russia
+220,365,1945,70994,1000,Mille Fr.,France,Russia
+220,365,1946,5585169,1000,Mille Francs,France,Russia
+220,365,1947,1215090,1000,Mille Francs,France,Russia
+220,365,1948,2137883,1000,Mille Francs,France,Russia
+220,365,1949,1340996,1000,Mille Francs,France,Russia
+220,366,1919,0,1000,,France,Estonia
+220,366,1920,13166,1000,,France,Estonia
+220,366,1921,15255,1000,,France,Estonia
+220,366,1922,9411,1000,,France,Estonia
+220,366,1923,17743,1000,,France,Estonia
+220,366,1924,32418,1000,,France,Estonia
+220,366,1925,16475,1000,,France,Estonia
+220,366,1926,21576,1000,,France,Estonia
+220,366,1927,16010,1000,,France,Estonia
+220,366,1928,23260,1000,,France,Estonia
+220,366,1929,27452,1000,,France,Estonia
+220,366,1930,36676,1000,,France,Estonia
+220,366,1931,29605,1000,,France,Estonia
+220,366,1932,16443,1000,Mille Francs,France,Estonia
+220,366,1933,23192,1000,Mille Francs,France,Estonia
+220,366,1934,17165,1000,Mille Francs,France,Estonia
+220,366,1935,11323,1000,Milliers De Francs,France,Estonia
+220,366,1936,17899,1000,Milliers De Francs,France,Estonia
+220,366,1937,40961,1000,Mille Francs,France,Estonia
+220,366,1938,32929,1000,Mille Fr.,France,Estonia
+220,366,1939,28039,1000,Mille Fr.,France,Estonia
+220,366,1940,2154,1000,Mille Fr.,France,Estonia
+220,366,1941,5,1000,Mille Fr.,France,Estonia
+220,366,1942,0,1000,Mille Fr.,France,Estonia
+220,366,1943,0,1000,,France,Estonia
+220,366,1944,0,1000,Mille Fr.,France,Estonia
+220,366,1945,0,1000,Mille Fr.,France,Estonia
+220,366,1946,0,1000,Mille Francs,France,Estonia
+220,366,1947,0,1000,Mille Francs,France,Estonia
+220,366,1948,0,1000,Mille Francs,France,Estonia
+220,366,1949,0,1000,Mille Francs,France,Estonia
+220,367,1919,0,1000,,France,Latvia
+220,367,1920,0,1000,,France,Latvia
+220,367,1921,0,1000,,France,Latvia
+220,367,1922,0,1000,,France,Latvia
+220,367,1923,47728,1000,,France,Latvia
+220,367,1924,48410,1000,,France,Latvia
+220,367,1925,84067,1000,,France,Latvia
+220,367,1926,140314,1000,,France,Latvia
+220,367,1927,68913,1000,,France,Latvia
+220,367,1928,105068,1000,,France,Latvia
+220,367,1929,101143,1000,,France,Latvia
+220,367,1930,121670,1000,,France,Latvia
+220,367,1931,79782,1000,,France,Latvia
+220,367,1932,34765,1000,Mille Francs,France,Latvia
+220,367,1933,30596,1000,Mille Francs,France,Latvia
+220,367,1934,16974,1000,Mille Francs,France,Latvia
+220,367,1935,14445,1000,Milliers De Francs,France,Latvia
+220,367,1936,13152,1000,Milliers De Francs,France,Latvia
+220,367,1937,29190,1000,Mille Francs,France,Latvia
+220,367,1938,44591,1000,Mille Fr.,France,Latvia
+220,367,1939,38362,1000,Mille Fr.,France,Latvia
+220,367,1940,1612,1000,Mille Fr.,France,Latvia
+220,367,1941,23,1000,Mille Fr.,France,Latvia
+220,367,1942,0,1000,Mille Fr.,France,Latvia
+220,367,1943,30461,1000,,France,Latvia
+220,367,1944,0,1000,Mille Fr.,France,Latvia
+220,367,1945,0,1000,Mille Fr.,France,Latvia
+220,367,1946,0,1000,Mille Francs,France,Latvia
+220,367,1947,0,1000,Mille Francs,France,Latvia
+220,367,1948,0,1000,Mille Francs,France,Latvia
+220,367,1949,0,1000,Mille Francs,France,Latvia
+220,368,1919,0,1000,,France,Lithuania
+220,368,1920,0,1000,,France,Lithuania
+220,368,1921,0,1000,,France,Lithuania
+220,368,1922,0,1000,,France,Lithuania
+220,368,1923,8622,1000,,France,Lithuania
+220,368,1924,12527,1000,,France,Lithuania
+220,368,1925,19639,1000,,France,Lithuania
+220,368,1926,12286,1000,,France,Lithuania
+220,368,1927,10331,1000,,France,Lithuania
+220,368,1928,8235,1000,,France,Lithuania
+220,368,1929,12362,1000,,France,Lithuania
+220,368,1930,9155,1000,,France,Lithuania
+220,368,1931,20733,1000,,France,Lithuania
+220,368,1932,11032,1000,Mille Francs,France,Lithuania
+220,368,1933,13190,1000,Mille Francs,France,Lithuania
+220,368,1934,10645,1000,Mille Francs,France,Lithuania
+220,368,1935,19744,1000,Milliers De Francs,France,Lithuania
+220,368,1936,26152,1000,Milliers De Francs,France,Lithuania
+220,368,1937,49440,1000,Mille Francs,France,Lithuania
+220,368,1938,43146,1000,Mille Fr.,France,Lithuania
+220,368,1939,29899,1000,Mille Fr.,France,Lithuania
+220,368,1940,627,1000,Mille Fr.,France,Lithuania
+220,368,1941,1,1000,Mille Fr.,France,Lithuania
+220,368,1942,0,1000,Mille Fr.,France,Lithuania
+220,368,1943,688,1000,,France,Lithuania
+220,368,1944,0,1000,Mille Fr.,France,Lithuania
+220,368,1945,0,1000,Mille Fr.,France,Lithuania
+220,368,1946,0,1000,Mille Francs,France,Lithuania
+220,368,1947,0,1000,Mille Francs,France,Lithuania
+220,368,1948,0,1000,Mille Francs,France,Lithuania
+220,368,1949,0,1000,Mille Francs,France,Lithuania
+220,375,1919,21105,1000,,France,Finland
+220,375,1920,235175,1000,,France,Finland
+220,375,1921,160993,1000,,France,Finland
+220,375,1922,157273,1000,,France,Finland
+220,375,1923,209023,1000,,France,Finland
+220,375,1924,246374,1000,,France,Finland
+220,375,1925,223885,1000,,France,Finland
+220,375,1926,422543,1000,,France,Finland
+220,375,1927,277637,1000,,France,Finland
+220,375,1928,345960,1000,,France,Finland
+220,375,1929,327567,1000,,France,Finland
+220,375,1930,353907,1000,,France,Finland
+220,375,1931,284928,1000,,France,Finland
+220,375,1932,142605,1000,Mille Francs,France,Finland
+220,375,1933,157286,1000,Mille Francs,France,Finland
+220,375,1934,153606,1000,Mille Francs,France,Finland
+220,375,1935,143044,1000,Milliers De Francs,France,Finland
+220,375,1936,161190,1000,Milliers De Francs,France,Finland
+220,375,1937,450278,1000,Mille Francs,France,Finland
+220,375,1938,284279,1000,Mille Fr.,France,Finland
+220,375,1939,155187,1000,Mille Fr.,France,Finland
+220,375,1940,19269,1000,Mille Fr.,France,Finland
+220,375,1941,95051,1000,Mille Fr.,France,Finland
+220,375,1942,162884,1000,Mille Fr.,France,Finland
+220,375,1943,177945,1000,,France,Finland
+220,375,1944,141691,1000,Mille Fr.,France,Finland
+220,375,1945,16002,1000,Mille Fr.,France,Finland
+220,375,1946,672135,1000,Mille Francs,France,Finland
+220,375,1947,2023890,1000,Mille Francs,France,Finland
+220,375,1948,4572434,1000,Mille Francs,France,Finland
+220,375,1949,6065031,1000,Mille Francs,France,Finland
+220,380,1919,258666,1000,,France,Sweden
+220,380,1920,699231,1000,,France,Sweden
+220,380,1921,213468,1000,,France,Sweden
+220,380,1922,370026,1000,,France,Sweden
+220,380,1923,396020,1000,,France,Sweden
+220,380,1924,544224,1000,,France,Sweden
+220,380,1925,539668,1000,,France,Sweden
+220,380,1926,759182,1000,,France,Sweden
+220,380,1927,535135,1000,,France,Sweden
+220,380,1928,641630,1000,,France,Sweden
+220,380,1929,806426,1000,,France,Sweden
+220,380,1930,749306,1000,,France,Sweden
+220,380,1931,523321,1000,,France,Sweden
+220,380,1932,305734,1000,Mille Francs,France,Sweden
+220,380,1933,342118,1000,Mille Francs,France,Sweden
+220,380,1934,321034,1000,Mille Francs,France,Sweden
+220,380,1935,281653,1000,Milliers De Francs,France,Sweden
+220,380,1936,341859,1000,Milliers De Francs,France,Sweden
+220,380,1937,821814,1000,Mille Francs,France,Sweden
+220,380,1938,650721,1000,Mille Fr.,France,Sweden
+220,380,1939,682636,1000,Mille Fr.,France,Sweden
+220,380,1940,347942,1000,Mille Fr.,France,Sweden
+220,380,1941,255137,1000,Mille Fr.,France,Sweden
+220,380,1942,242057,1000,Mille Fr.,France,Sweden
+220,380,1943,315795,1000,,France,Sweden
+220,380,1944,120325,1000,Mille Fr.,France,Sweden
+220,380,1945,481976,1000,Mille Fr.,France,Sweden
+220,380,1946,4635392,1000,Mille Francs,France,Sweden
+220,380,1947,7345775,1000,Mille Francs,France,Sweden
+220,380,1948,9514671,1000,Mille Francs,France,Sweden
+220,380,1949,14187858,1000,Mille Francs,France,Sweden
+220,385,1919,163958,1000,,France,Norway
+220,385,1920,267212,1000,,France,Norway
+220,385,1921,87287,1000,,France,Norway
+220,385,1922,127429,1000,,France,Norway
+220,385,1923,164742,1000,,France,Norway
+220,385,1924,184644,1000,,France,Norway
+220,385,1925,285723,1000,,France,Norway
+220,385,1926,358359,1000,,France,Norway
+220,385,1927,202306,1000,,France,Norway
+220,385,1928,218652,1000,,France,Norway
+220,385,1929,267954,1000,,France,Norway
+220,385,1930,300658,1000,,France,Norway
+220,385,1931,221229,1000,,France,Norway
+220,385,1932,194223,1000,Mille Francs,France,Norway
+220,385,1933,169297,1000,Mille Francs,France,Norway
+220,385,1934,145669,1000,Mille Francs,France,Norway
+220,385,1935,122035,1000,Milliers De Francs,France,Norway
+220,385,1936,176274,1000,Milliers De Francs,France,Norway
+220,385,1937,305585,1000,Mille Francs,France,Norway
+220,385,1938,310620,1000,Mille Fr.,France,Norway
+220,385,1939,299711,1000,Mille Fr.,France,Norway
+220,385,1940,184794,1000,Mille Fr.,France,Norway
+220,385,1941,151247,1000,Mille Fr.,France,Norway
+220,385,1942,159542,1000,Mille Fr.,France,Norway
+220,385,1943,163433,1000,,France,Norway
+220,385,1944,55102,1000,Mille Fr.,France,Norway
+220,385,1945,108605,1000,Mille Fr.,France,Norway
+220,385,1946,1989913,1000,Mille Francs,France,Norway
+220,385,1947,3428261,1000,Mille Francs,France,Norway
+220,385,1948,5076776,1000,Mille Francs,France,Norway
+220,385,1949,7686508,1000,Mille Francs,France,Norway
+220,390,1919,15197,1000,,France,Denmark
+220,390,1920,30764,1000,,France,Denmark
+220,390,1921,50636,1000,,France,Denmark
+220,390,1922,90010,1000,,France,Denmark
+220,390,1923,61051,1000,,France,Denmark
+220,390,1924,43295,1000,,France,Denmark
+220,390,1925,48671,1000,,France,Denmark
+220,390,1926,73768,1000,,France,Denmark
+220,390,1927,67218,1000,,France,Denmark
+220,390,1928,92417,1000,,France,Denmark
+220,390,1929,88324,1000,,France,Denmark
+220,390,1930,145670,1000,,France,Denmark
+220,390,1931,238329,1000,,France,Denmark
+220,390,1932,86386,1000,Mille Francs,France,Denmark
+220,390,1933,52749,1000,Mille Francs,France,Denmark
+220,390,1934,49353,1000,Mille Francs,France,Denmark
+220,390,1935,50756,1000,Milliers De Francs,France,Denmark
+220,390,1936,37292,1000,Milliers De Francs,France,Denmark
+220,390,1937,91094,1000,Mille Francs,France,Denmark
+220,390,1938,98424,1000,Mille Fr.,France,Denmark
+220,390,1939,106048,1000,Mille Fr.,France,Denmark
+220,390,1940,33038,1000,Mille Fr.,France,Denmark
+220,390,1941,42977,1000,Mille Fr.,France,Denmark
+220,390,1942,139211,1000,Mille Fr.,France,Denmark
+220,390,1943,12964,1000,,France,Denmark
+220,390,1944,6985,1000,Mille Fr.,France,Denmark
+220,390,1945,474371,1000,Mille Fr.,France,Denmark
+220,390,1946,1096753,1000,Mille Francs,France,Denmark
+220,390,1947,1794961,1000,Mille Francs,France,Denmark
+220,390,1948,5111308,1000,Mille Francs,France,Denmark
+220,390,1949,7501261,1000,Mille Francs,France,Denmark
+220,395,1919,0,1000,,France,Iceland
+220,395,1920,0,1000,,France,Iceland
+220,395,1921,0,1000,,France,Iceland
+220,395,1922,0,1000,,France,Iceland
+220,395,1923,0,1000,,France,Iceland
+220,395,1924,0,1000,,France,Iceland
+220,395,1925,0,1000,,France,Iceland
+220,395,1926,0,1000,,France,Iceland
+220,395,1927,0,1000,,France,Iceland
+220,395,1928,0,1000,,France,Iceland
+220,395,1929,0,1000,,France,Iceland
+220,395,1930,0,1000,,France,Iceland
+220,395,1931,0,1000,,France,Iceland
+220,395,1932,0,1000,Mille Francs,France,Iceland
+220,395,1933,0,1000,Mille Francs,France,Iceland
+220,395,1934,0,1000,Mille Francs,France,Iceland
+220,395,1935,0,1000,Milliers De Francs,France,Iceland
+220,395,1936,0,1000,Milliers De Francs,France,Iceland
+220,395,1937,0,1000,Mille Francs,France,Iceland
+220,395,1938,0,1000,Mille Fr.,France,Iceland
+220,395,1939,0,1000,Mille Fr.,France,Iceland
+220,395,1940,0,1000,Mille Fr.,France,Iceland
+220,395,1941,0,1000,Mille Fr.,France,Iceland
+220,395,1942,0,1000,Mille Fr.,France,Iceland
+220,395,1943,0,1000,,France,Iceland
+220,395,1944,0,1000,Mille Fr.,France,Iceland
+220,395,1945,0,1000,Mille Fr.,France,Iceland
+220,395,1946,0,1000,Mille Francs,France,Iceland
+220,395,1947,325680,1000,Mille Francs,France,Iceland
+220,395,1948,550906,1000,Mille Francs,France,Iceland
+220,395,1949,219771,1000,Mille Francs,France,Iceland
+220,430,1919,138739,1000,,France,French West Africa
+220,430,1920,265590,1000,,France,French West Africa
+220,430,1921,71405,1000,,France,French West Africa
+220,430,1922,99043,1000,,France,French West Africa
+220,430,1923,129754,1000,,France,French West Africa
+220,430,1924,169517,1000,,France,French West Africa
+220,430,1925,203204,1000,,France,French West Africa
+220,430,1926,1104399,1000,,France,French West Africa
+220,430,1927,872868,1000,,France,French West Africa
+220,430,1928,804131,1000,,France,French West Africa
+220,430,1929,832032,1000,,France,French West Africa
+220,430,1930,754193,1000,,France,French West Africa
+220,430,1931,456966,1000,,France,French West Africa
+220,430,1932,330239,1000,Mille Francs,France,French West Africa
+220,430,1933,376016,1000,Mille Francs,France,French West Africa
+220,430,1934,508800,1000,Mille Francs,France,French West Africa
+220,430,1935,658146,1000,Milliers De Francs,France,French West Africa
+220,430,1936,938131,1000,Milliers De Francs,France,French West Africa
+220,430,1937,1509779,1000,Mille Francs,France,French West Africa
+220,430,1938,1508831,1000,Mille Fr.,France,French West Africa
+220,430,1939,1673460,1000,Mille Fr.,France,French West Africa
+220,430,1940,1454504,1000,Mille Fr.,France,French West Africa
+220,430,1941,2164842,1000,Mille Fr.,France,French West Africa
+220,430,1942,2069986,1000,Mille Fr.,France,French West Africa
+220,430,1943,173471,1000,,France,French West Africa
+220,430,1944,30194,1000,Mille Fr.,France,French West Africa
+220,430,1945,1962380,1000,Mille Fr.,France,French West Africa
+220,430,1946,6293507,1000,Mille Francs,France,French West Africa
+220,430,1947,11864544,1000,Mille Francs,France,French West Africa
+220,430,1948,28908682,1000,Mille Francs,France,French West Africa
+220,430,1949,48439975,1000,Mille Francs,France,French West Africa
+220,433,1919,358075,1000,,France,Senegal
+220,433,1920,495913,1000,,France,Senegal
+220,433,1921,247168,1000,,France,Senegal
+220,433,1922,206359,1000,,France,Senegal
+220,433,1923,289277,1000,,France,Senegal
+220,433,1924,399632,1000,,France,Senegal
+220,433,1925,563876,1000,,France,Senegal
+220,433,1926,0,1000,,France,Senegal
+220,433,1927,0,1000,,France,Senegal
+220,433,1928,0,1000,,France,Senegal
+220,433,1929,0,1000,,France,Senegal
+220,433,1930,0,1000,,France,Senegal
+220,433,1931,0,1000,,France,Senegal
+220,433,1932,0,1000,Mille Francs,France,Senegal
+220,433,1933,0,1000,Mille Francs,France,Senegal
+220,433,1934,0,1000,Mille Francs,France,Senegal
+220,433,1935,0,1000,Milliers De Francs,France,Senegal
+220,433,1936,0,1000,Milliers De Francs,France,Senegal
+220,433,1937,0,1000,Mille Francs,France,Senegal
+220,433,1938,0,1000,Mille Fr.,France,Senegal
+220,433,1939,0,1000,Mille Fr.,France,Senegal
+220,433,1940,0,1000,Mille Fr.,France,Senegal
+220,433,1941,0,1000,Mille Fr.,France,Senegal
+220,433,1942,0,1000,Mille Fr.,France,Senegal
+220,433,1943,0,1000,,France,Senegal
+220,433,1944,0,1000,Mille Fr.,France,Senegal
+220,433,1945,0,1000,Mille Fr.,France,Senegal
+220,433,1946,0,1000,Mille Francs,France,Senegal
+220,433,1947,0,1000,Mille Francs,France,Senegal
+220,433,1948,0,1000,Mille Francs,France,Senegal
+220,433,1949,0,1000,Mille Francs,France,Senegal
+220,450,1919,0,1000,,France,Liberia
+220,450,1920,0,1000,,France,Liberia
+220,450,1921,0,1000,,France,Liberia
+220,450,1922,0,1000,,France,Liberia
+220,450,1923,0,1000,,France,Liberia
+220,450,1924,0,1000,,France,Liberia
+220,450,1925,0,1000,,France,Liberia
+220,450,1926,0,1000,,France,Liberia
+220,450,1927,0,1000,,France,Liberia
+220,450,1928,0,1000,,France,Liberia
+220,450,1929,0,1000,,France,Liberia
+220,450,1930,0,1000,,France,Liberia
+220,450,1931,0,1000,,France,Liberia
+220,450,1932,0,1000,Mille Francs,France,Liberia
+220,450,1933,0,1000,Mille Francs,France,Liberia
+220,450,1934,0,1000,Mille Francs,France,Liberia
+220,450,1935,0,1000,Milliers De Francs,France,Liberia
+220,450,1936,0,1000,Milliers De Francs,France,Liberia
+220,450,1937,0,1000,Mille Francs,France,Liberia
+220,450,1938,0,1000,Mille Fr.,France,Liberia
+220,450,1939,0,1000,Mille Fr.,France,Liberia
+220,450,1940,0,1000,Mille Fr.,France,Liberia
+220,450,1941,0,1000,Mille Fr.,France,Liberia
+220,450,1942,0,1000,Mille Fr.,France,Liberia
+220,450,1943,0,1000,,France,Liberia
+220,450,1944,0,1000,Mille Fr.,France,Liberia
+220,450,1945,0,1000,Mille Fr.,France,Liberia
+220,450,1946,0,1000,Mille Francs,France,Liberia
+220,450,1947,0,1000,Mille Francs,France,Liberia
+220,450,1948,0,1000,Mille Francs,France,Liberia
+220,450,1949,5539,1000,Mille Francs,France,Liberia
+220,480,1919,0,1000,,France,French Equatorial Africa
+220,480,1920,0,1000,,France,French Equatorial Africa
+220,480,1921,0,1000,,France,French Equatorial Africa
+220,480,1922,0,1000,,France,French Equatorial Africa
+220,480,1923,0,1000,,France,French Equatorial Africa
+220,480,1924,0,1000,,France,French Equatorial Africa
+220,480,1925,0,1000,,France,French Equatorial Africa
+220,480,1926,101390,1000,,France,French Equatorial Africa
+220,480,1927,101451,1000,,France,French Equatorial Africa
+220,480,1928,95141,1000,,France,French Equatorial Africa
+220,480,1929,76137,1000,,France,French Equatorial Africa
+220,480,1930,86249,1000,,France,French Equatorial Africa
+220,480,1931,54453,1000,,France,French Equatorial Africa
+220,480,1932,48201,1000,Mille Francs,France,French Equatorial Africa
+220,480,1933,65171,1000,Mille Francs,France,French Equatorial Africa
+220,480,1934,72037,1000,Mille Francs,France,French Equatorial Africa
+220,480,1935,90531,1000,Milliers De Francs,France,French Equatorial Africa
+220,480,1936,99707,1000,Milliers De Francs,France,French Equatorial Africa
+220,480,1937,148695,1000,Mille Francs,France,French Equatorial Africa
+220,480,1938,243795,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1939,222819,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1940,177403,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1941,31715,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1942,635,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1943,219,1000,,France,French Equatorial Africa
+220,480,1944,45,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1945,157443,1000,Mille Fr.,France,French Equatorial Africa
+220,480,1946,1587707,1000,Mille Francs,France,French Equatorial Africa
+220,480,1947,2686146,1000,Mille Francs,France,French Equatorial Africa
+220,480,1948,6585252,1000,Mille Francs,France,French Equatorial Africa
+220,480,1949,8601601,1000,Mille Francs,France,French Equatorial Africa
+220,484,1919,11435,1000,,France,"Congo, Republic"
+220,484,1920,19413,1000,,France,"Congo, Republic"
+220,484,1921,13304,1000,,France,"Congo, Republic"
+220,484,1922,16525,1000,,France,"Congo, Republic"
+220,484,1923,28793,1000,,France,"Congo, Republic"
+220,484,1924,46059,1000,,France,"Congo, Republic"
+220,484,1925,45047,1000,,France,"Congo, Republic"
+220,484,1926,0,1000,,France,"Congo, Republic"
+220,484,1927,0,1000,,France,"Congo, Republic"
+220,484,1928,0,1000,,France,"Congo, Republic"
+220,484,1929,0,1000,,France,"Congo, Republic"
+220,484,1930,0,1000,,France,"Congo, Republic"
+220,484,1931,0,1000,,France,"Congo, Republic"
+220,484,1932,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1933,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1934,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1935,0,1000,Milliers De Francs,France,"Congo, Republic"
+220,484,1936,0,1000,Milliers De Francs,France,"Congo, Republic"
+220,484,1937,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1938,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1939,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1940,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1941,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1942,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1943,0,1000,,France,"Congo, Republic"
+220,484,1944,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1945,0,1000,Mille Fr.,France,"Congo, Republic"
+220,484,1946,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1947,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1948,0,1000,Mille Francs,France,"Congo, Republic"
+220,484,1949,0,1000,Mille Francs,France,"Congo, Republic"
+220,530,1919,0,1000,,France,Ethiopia
+220,530,1920,0,1000,,France,Ethiopia
+220,530,1921,0,1000,,France,Ethiopia
+220,530,1922,0,1000,,France,Ethiopia
+220,530,1923,0,1000,,France,Ethiopia
+220,530,1924,0,1000,,France,Ethiopia
+220,530,1925,0,1000,,France,Ethiopia
+220,530,1926,0,1000,,France,Ethiopia
+220,530,1927,0,1000,,France,Ethiopia
+220,530,1928,0,1000,,France,Ethiopia
+220,530,1929,0,1000,,France,Ethiopia
+220,530,1930,0,1000,,France,Ethiopia
+220,530,1931,0,1000,,France,Ethiopia
+220,530,1932,0,1000,Mille Francs,France,Ethiopia
+220,530,1933,0,1000,Mille Francs,France,Ethiopia
+220,530,1934,0,1000,Mille Francs,France,Ethiopia
+220,530,1935,0,1000,Milliers De Francs,France,Ethiopia
+220,530,1936,0,1000,Milliers De Francs,France,Ethiopia
+220,530,1937,0,1000,Mille Francs,France,Ethiopia
+220,530,1938,0,1000,Mille Fr.,France,Ethiopia
+220,530,1939,0,1000,Mille Fr.,France,Ethiopia
+220,530,1940,0,1000,Mille Fr.,France,Ethiopia
+220,530,1941,0,1000,Mille Fr.,France,Ethiopia
+220,530,1942,0,1000,Mille Fr.,France,Ethiopia
+220,530,1943,0,1000,,France,Ethiopia
+220,530,1944,0,1000,Mille Fr.,France,Ethiopia
+220,530,1945,0,1000,Mille Fr.,France,Ethiopia
+220,530,1946,0,1000,Mille Francs,France,Ethiopia
+220,530,1947,0,1000,Mille Francs,France,Ethiopia
+220,530,1948,0,1000,Mille Francs,France,Ethiopia
+220,530,1949,85272,1000,Mille Francs,France,Ethiopia
+220,560,1919,0,1000,,France,South Africa
+220,560,1920,0,1000,,France,South Africa
+220,560,1921,0,1000,,France,South Africa
+220,560,1922,0,1000,,France,South Africa
+220,560,1923,0,1000,,France,South Africa
+220,560,1924,0,1000,,France,South Africa
+220,560,1925,0,1000,,France,South Africa
+220,560,1926,0,1000,,France,South Africa
+220,560,1927,0,1000,,France,South Africa
+220,560,1928,0,1000,,France,South Africa
+220,560,1929,723921,1000,,France,South Africa
+220,560,1930,624601,1000,,France,South Africa
+220,560,1931,345183,1000,,France,South Africa
+220,560,1932,206700,1000,Mille Francs,France,South Africa
+220,560,1933,317411,1000,Mille Francs,France,South Africa
+220,560,1934,260280,1000,Mille Francs,France,South Africa
+220,560,1935,228224,1000,Milliers De Francs,France,South Africa
+220,560,1936,274152,1000,Milliers De Francs,France,South Africa
+220,560,1937,391347,1000,Mille Francs,France,South Africa
+220,560,1938,412924,1000,Mille Fr.,France,South Africa
+220,560,1939,391010,1000,Mille Fr.,France,South Africa
+220,560,1940,265774,1000,Mille Fr.,France,South Africa
+220,560,1941,21806,1000,Mille Fr.,France,South Africa
+220,560,1942,3113,1000,Mille Fr.,France,South Africa
+220,560,1943,685,1000,,France,South Africa
+220,560,1944,1075,1000,Mille Fr.,France,South Africa
+220,560,1945,76110,1000,Mille Fr.,France,South Africa
+220,560,1946,2551086,1000,Mille Francs,France,South Africa
+220,560,1947,3087889,1000,Mille Francs,France,South Africa
+220,560,1948,7267662,1000,Mille Francs,France,South Africa
+220,560,1949,16252624,1000,Mille Francs,France,South Africa
+220,580,1919,154673,1000,,France,Madagascar
+220,580,1920,197096,1000,,France,Madagascar
+220,580,1921,89084,1000,,France,Madagascar
+220,580,1922,74666,1000,,France,Madagascar
+220,580,1923,178884,1000,,France,Madagascar
+220,580,1924,303451,1000,,France,Madagascar
+220,580,1925,303234,1000,,France,Madagascar
+220,580,1926,413977,1000,,France,Madagascar
+220,580,1927,319597,1000,,France,Madagascar
+220,580,1928,430037,1000,,France,Madagascar
+220,580,1929,367423,1000,,France,Madagascar
+220,580,1930,254133,1000,,France,Madagascar
+220,580,1931,243380,1000,,France,Madagascar
+220,580,1932,243744,1000,Mille Francs,France,Madagascar
+220,580,1933,260941,1000,Mille Francs,France,Madagascar
+220,580,1934,253178,1000,Mille Francs,France,Madagascar
+220,580,1935,211212,1000,Milliers De Francs,France,Madagascar
+220,580,1936,321403,1000,Milliers De Francs,France,Madagascar
+220,580,1937,517314,1000,Mille Francs,France,Madagascar
+220,580,1938,680268,1000,Mille Fr.,France,Madagascar
+220,580,1939,553549,1000,Mille Fr.,France,Madagascar
+220,580,1940,484018,1000,Mille Fr.,France,Madagascar
+220,580,1941,480147,1000,Mille Fr.,France,Madagascar
+220,580,1942,159206,1000,Mille Fr.,France,Madagascar
+220,580,1943,22742,1000,,France,Madagascar
+220,580,1944,5404,1000,Mille Fr.,France,Madagascar
+220,580,1945,808139,1000,Mille Fr.,France,Madagascar
+220,580,1946,2490841,1000,Mille Francs,France,Madagascar
+220,580,1947,5617270,1000,Mille Francs,France,Madagascar
+220,580,1948,6909189,1000,Mille Francs,France,Madagascar
+220,580,1949,9700645,1000,Mille Francs,France,Madagascar
+220,585,1919,81865,1000,,France,Reunion
+220,585,1920,85285,1000,,France,Reunion
+220,585,1921,123035,1000,,France,Reunion
+220,585,1922,74177,1000,,France,Reunion
+220,585,1923,112518,1000,,France,Reunion
+220,585,1924,162120,1000,,France,Reunion
+220,585,1925,121576,1000,,France,Reunion
+220,585,1926,170250,1000,,France,Reunion
+220,585,1927,183199,1000,,France,Reunion
+220,585,1928,137667,1000,,France,Reunion
+220,585,1929,136844,1000,,France,Reunion
+220,585,1930,172353,1000,,France,Reunion
+220,585,1931,167440,1000,,France,Reunion
+220,585,1932,124744,1000,Mille Francs,France,Reunion
+220,585,1933,157968,1000,Mille Francs,France,Reunion
+220,585,1934,204046,1000,Mille Francs,France,Reunion
+220,585,1935,160509,1000,Milliers De Francs,France,Reunion
+220,585,1936,152591,1000,Milliers De Francs,France,Reunion
+220,585,1937,246802,1000,Mille Francs,France,Reunion
+220,585,1938,297537,1000,Mille Fr.,France,Reunion
+220,585,1939,266201,1000,Mille Fr.,France,Reunion
+220,585,1940,180294,1000,Mille Fr.,France,Reunion
+220,585,1941,86389,1000,Mille Fr.,France,Reunion
+220,585,1942,3064,1000,Mille Fr.,France,Reunion
+220,585,1943,769,1000,,France,Reunion
+220,585,1944,218,1000,Mille Fr.,France,Reunion
+220,585,1945,77994,1000,Mille Fr.,France,Reunion
+220,585,1946,853132,1000,Mille Francs,France,Reunion
+220,585,1947,755000,1000,Mille Francs,France,Reunion
+220,585,1948,1061159,1000,Mille Francs,France,Reunion
+220,585,1949,2535917,1000,Mille Francs,France,Reunion
+220,601,1919,0,1000,,France,Tangier
+220,601,1920,0,1000,,France,Tangier
+220,601,1921,0,1000,,France,Tangier
+220,601,1922,0,1000,,France,Tangier
+220,601,1923,0,1000,,France,Tangier
+220,601,1924,0,1000,,France,Tangier
+220,601,1925,0,1000,,France,Tangier
+220,601,1926,0,1000,,France,Tangier
+220,601,1927,0,1000,,France,Tangier
+220,601,1928,0,1000,,France,Tangier
+220,601,1929,0,1000,,France,Tangier
+220,601,1930,0,1000,,France,Tangier
+220,601,1931,0,1000,,France,Tangier
+220,601,1932,0,1000,Mille Francs,France,Tangier
+220,601,1933,238,1000,Mille Francs,France,Tangier
+220,601,1934,200,1000,Mille Francs,France,Tangier
+220,601,1935,336,1000,Milliers De Francs,France,Tangier
+220,601,1936,650,1000,Milliers De Francs,France,Tangier
+220,601,1937,1425,1000,Mille Francs,France,Tangier
+220,601,1938,1283,1000,Mille Fr.,France,Tangier
+220,601,1939,463,1000,Mille Fr.,France,Tangier
+220,601,1940,886,1000,Mille Fr.,France,Tangier
+220,601,1941,670,1000,Mille Fr.,France,Tangier
+220,601,1942,1150,1000,Mille Fr.,France,Tangier
+220,601,1943,15,1000,,France,Tangier
+220,601,1944,0,1000,Mille Fr.,France,Tangier
+220,601,1945,1,1000,Mille Fr.,France,Tangier
+220,601,1946,4820,1000,Mille Francs,France,Tangier
+220,601,1947,6092,1000,Mille Francs,France,Tangier
+220,601,1948,9189,1000,Mille Francs,France,Tangier
+220,601,1949,1397,1000,Mille Francs,France,Tangier
+220,615,1919,1223698,1000,,France,Algeria
+220,615,1920,1053492,1000,,France,Algeria
+220,615,1921,1111643,1000,,France,Algeria
+220,615,1922,984538,1000,,France,Algeria
+220,615,1923,1283741,1000,,France,Algeria
+220,615,1924,1652865,1000,,France,Algeria
+220,615,1925,1726752,1000,,France,Algeria
+220,615,1926,2702063,1000,,France,Algeria
+220,615,1927,2601197,1000,,France,Algeria
+220,615,1928,2831690,1000,,France,Algeria
+220,615,1929,2989564,1000,,France,Algeria
+220,615,1930,3299456,1000,,France,Algeria
+220,615,1931,3428155,1000,,France,Algeria
+220,615,1932,3290732,1000,Mille Francs,France,Algeria
+220,615,1933,3864565,1000,Mille Francs,France,Algeria
+220,615,1934,2813315,1000,Mille Francs,France,Algeria
+220,615,1935,2329822,1000,Milliers De Francs,France,Algeria
+220,615,1936,2842622,1000,Milliers De Francs,France,Algeria
+220,615,1937,3807296,1000,Mille Francs,France,Algeria
+220,615,1938,4864003,1000,Mille Fr.,France,Algeria
+220,615,1939,4759737,1000,Mille Fr.,France,Algeria
+220,615,1940,4879325,1000,Mille Fr.,France,Algeria
+220,615,1941,6611816,1000,Mille Fr.,France,Algeria
+220,615,1942,5706483,1000,Mille Fr.,France,Algeria
+220,615,1943,35535,1000,,France,Algeria
+220,615,1944,38736,1000,Mille Fr.,France,Algeria
+220,615,1945,1933245,1000,Mille Fr.,France,Algeria
+220,615,1946,24627273,1000,Mille Francs,France,Algeria
+220,615,1947,36897386,1000,Mille Francs,France,Algeria
+220,615,1948,80495538,1000,Mille Francs,France,Algeria
+220,615,1949,80803141,1000,Mille Francs,France,Algeria
+220,616,1919,437359,1000,,France,Tunisia
+220,616,1920,269374,1000,,France,Tunisia
+220,616,1921,256016,1000,,France,Tunisia
+220,616,1922,224066,1000,,France,Tunisia
+220,616,1923,309282,1000,,France,Tunisia
+220,616,1924,294648,1000,,France,Tunisia
+220,616,1925,393616,1000,,France,Tunisia
+220,616,1926,642932,1000,,France,Tunisia
+220,616,1927,397985,1000,,France,Tunisia
+220,616,1928,589028,1000,,France,Tunisia
+220,616,1929,704053,1000,,France,Tunisia
+220,616,1930,664650,1000,,France,Tunisia
+220,616,1931,584925,1000,,France,Tunisia
+220,616,1932,724696,1000,Mille Francs,France,Tunisia
+220,616,1933,449907,1000,Mille Francs,France,Tunisia
+220,616,1934,415470,1000,Mille Francs,France,Tunisia
+220,616,1935,464479,1000,Milliers De Francs,France,Tunisia
+220,616,1936,534575,1000,Milliers De Francs,France,Tunisia
+220,616,1937,741427,1000,Mille Francs,France,Tunisia
+220,616,1938,878486,1000,Mille Fr.,France,Tunisia
+220,616,1939,923855,1000,Mille Fr.,France,Tunisia
+220,616,1940,1050146,1000,Mille Fr.,France,Tunisia
+220,616,1941,1644290,1000,Mille Fr.,France,Tunisia
+220,616,1942,1644172,1000,Mille Fr.,France,Tunisia
+220,616,1943,22101,1000,,France,Tunisia
+220,616,1944,134310,1000,Mille Fr.,France,Tunisia
+220,616,1945,1600969,1000,Mille Fr.,France,Tunisia
+220,616,1946,2144868,1000,Mille Francs,France,Tunisia
+220,616,1947,4331917,1000,Mille Francs,France,Tunisia
+220,616,1948,7350691,1000,Mille Francs,France,Tunisia
+220,616,1949,15159905,1000,Mille Francs,France,Tunisia
+220,620,1919,0,1000,,France,Libya
+220,620,1920,0,1000,,France,Libya
+220,620,1921,0,1000,,France,Libya
+220,620,1922,0,1000,,France,Libya
+220,620,1923,0,1000,,France,Libya
+220,620,1924,0,1000,,France,Libya
+220,620,1925,0,1000,,France,Libya
+220,620,1926,0,1000,,France,Libya
+220,620,1927,0,1000,,France,Libya
+220,620,1928,0,1000,,France,Libya
+220,620,1929,0,1000,,France,Libya
+220,620,1930,0,1000,,France,Libya
+220,620,1931,408,1000,,France,Libya
+220,620,1932,763,1000,Mille Francs,France,Libya
+220,620,1933,209,1000,Mille Francs,France,Libya
+220,620,1934,180,1000,Mille Francs,France,Libya
+220,620,1935,103,1000,Milliers De Francs,France,Libya
+220,620,1936,0,1000,Milliers De Francs,France,Libya
+220,620,1937,0,1000,Mille Francs,France,Libya
+220,620,1938,0,1000,Mille Fr.,France,Libya
+220,620,1939,0,1000,Mille Fr.,France,Libya
+220,620,1940,0,1000,Mille Fr.,France,Libya
+220,620,1941,0,1000,Mille Fr.,France,Libya
+220,620,1942,0,1000,Mille Fr.,France,Libya
+220,620,1943,0,1000,,France,Libya
+220,620,1944,0,1000,Mille Fr.,France,Libya
+220,620,1945,0,1000,Mille Fr.,France,Libya
+220,620,1946,0,1000,Mille Francs,France,Libya
+220,620,1947,0,1000,Mille Francs,France,Libya
+220,620,1948,0,1000,Mille Francs,France,Libya
+220,620,1949,0,1000,Mille Francs,France,Libya
+220,625,1919,0,1000,,France,Sudan
+220,625,1920,0,1000,,France,Sudan
+220,625,1921,0,1000,,France,Sudan
+220,625,1922,0,1000,,France,Sudan
+220,625,1923,0,1000,,France,Sudan
+220,625,1924,0,1000,,France,Sudan
+220,625,1925,0,1000,,France,Sudan
+220,625,1926,0,1000,,France,Sudan
+220,625,1927,0,1000,,France,Sudan
+220,625,1928,0,1000,,France,Sudan
+220,625,1929,0,1000,,France,Sudan
+220,625,1930,0,1000,,France,Sudan
+220,625,1931,0,1000,,France,Sudan
+220,625,1932,0,1000,Mille Francs,France,Sudan
+220,625,1933,0,1000,Mille Francs,France,Sudan
+220,625,1934,0,1000,Mille Francs,France,Sudan
+220,625,1935,0,1000,Milliers De Francs,France,Sudan
+220,625,1936,0,1000,Milliers De Francs,France,Sudan
+220,625,1937,0,1000,Mille Francs,France,Sudan
+220,625,1938,0,1000,Mille Fr.,France,Sudan
+220,625,1939,0,1000,Mille Fr.,France,Sudan
+220,625,1940,0,1000,Mille Fr.,France,Sudan
+220,625,1941,0,1000,Mille Fr.,France,Sudan
+220,625,1942,0,1000,Mille Fr.,France,Sudan
+220,625,1943,0,1000,,France,Sudan
+220,625,1944,0,1000,Mille Fr.,France,Sudan
+220,625,1945,0,1000,Mille Fr.,France,Sudan
+220,625,1946,0,1000,Mille Francs,France,Sudan
+220,625,1947,0,1000,Mille Francs,France,Sudan
+220,625,1948,0,1000,Mille Francs,France,Sudan
+220,625,1949,916699,1000,Mille Francs,France,Sudan
+220,630,1919,0,1000,,France,Iran
+220,630,1920,0,1000,,France,Iran
+220,630,1921,0,1000,,France,Iran
+220,630,1922,0,1000,,France,Iran
+220,630,1923,0,1000,,France,Iran
+220,630,1924,0,1000,,France,Iran
+220,630,1925,0,1000,,France,Iran
+220,630,1926,0,1000,,France,Iran
+220,630,1927,0,1000,,France,Iran
+220,630,1928,0,1000,,France,Iran
+220,630,1929,432467,1000,,France,Iran
+220,630,1930,431681,1000,,France,Iran
+220,630,1931,332776,1000,,France,Iran
+220,630,1932,267588,1000,Mille Francs,France,Iran
+220,630,1933,165503,1000,Mille Francs,France,Iran
+220,630,1934,105939,1000,Mille Francs,France,Iran
+220,630,1935,24829,1000,Milliers De Francs,France,Iran
+220,630,1936,44686,1000,Milliers De Francs,France,Iran
+220,630,1937,101163,1000,Mille Francs,France,Iran
+220,630,1938,74880,1000,Mille Fr.,France,Iran
+220,630,1939,66344,1000,Mille Fr.,France,Iran
+220,630,1940,90051,1000,Mille Fr.,France,Iran
+220,630,1941,95577,1000,Mille Fr.,France,Iran
+220,630,1942,5456,1000,Mille Fr.,France,Iran
+220,630,1943,2061,1000,,France,Iran
+220,630,1944,10093,1000,Mille Fr.,France,Iran
+220,630,1945,1730,1000,Mille Fr.,France,Iran
+220,630,1946,1037832,1000,Mille Francs,France,Iran
+220,630,1947,2140686,1000,Mille Francs,France,Iran
+220,630,1948,6758148,1000,Mille Francs,France,Iran
+220,630,1949,2442076,1000,Mille Francs,France,Iran
+220,640,1919,122737,1000,,France,Turkey
+220,640,1920,182271,1000,,France,Turkey
+220,640,1921,69434,1000,,France,Turkey
+220,640,1922,122262,1000,,France,Turkey
+220,640,1923,96823,1000,,France,Turkey
+220,640,1924,157537,1000,,France,Turkey
+220,640,1925,154108,1000,,France,Turkey
+220,640,1926,187633,1000,,France,Turkey
+220,640,1927,134571,1000,,France,Turkey
+220,640,1928,173952,1000,,France,Turkey
+220,640,1929,174107,1000,,France,Turkey
+220,640,1930,164998,1000,,France,Turkey
+220,640,1931,127868,1000,,France,Turkey
+220,640,1932,94217,1000,Mille Francs,France,Turkey
+220,640,1933,60288,1000,Mille Francs,France,Turkey
+220,640,1934,33060,1000,Mille Francs,France,Turkey
+220,640,1935,32619,1000,Milliers De Francs,France,Turkey
+220,640,1936,48945,1000,Milliers De Francs,France,Turkey
+220,640,1937,117919,1000,Mille Francs,France,Turkey
+220,640,1938,141989,1000,Mille Fr.,France,Turkey
+220,640,1939,139213,1000,Mille Fr.,France,Turkey
+220,640,1940,290676,1000,Mille Fr.,France,Turkey
+220,640,1941,27184,1000,Mille Fr.,France,Turkey
+220,640,1942,91923,1000,Mille Fr.,France,Turkey
+220,640,1943,62660,1000,,France,Turkey
+220,640,1944,2963,1000,Mille Fr.,France,Turkey
+220,640,1945,112835,1000,Mille Fr.,France,Turkey
+220,640,1946,635664,1000,Mille Francs,France,Turkey
+220,640,1947,1245165,1000,Mille Francs,France,Turkey
+220,640,1948,1620847,1000,Mille Francs,France,Turkey
+220,640,1949,4028656,1000,Mille Francs,France,Turkey
+220,645,1919,0,1000,,France,Iraq
+220,645,1920,0,1000,,France,Iraq
+220,645,1921,0,1000,,France,Iraq
+220,645,1922,0,1000,,France,Iraq
+220,645,1923,11683,1000,,France,Iraq
+220,645,1924,29240,1000,,France,Iraq
+220,645,1925,37604,1000,,France,Iraq
+220,645,1926,30539,1000,,France,Iraq
+220,645,1927,39354,1000,,France,Iraq
+220,645,1928,23049,1000,,France,Iraq
+220,645,1929,21658,1000,,France,Iraq
+220,645,1930,14534,1000,,France,Iraq
+220,645,1931,7886,1000,,France,Iraq
+220,645,1932,11478,1000,Mille Francs,France,Iraq
+220,645,1933,8804,1000,Mille Francs,France,Iraq
+220,645,1934,49789,1000,Mille Francs,France,Iraq
+220,645,1935,401123,1000,Milliers De Francs,France,Iraq
+220,645,1936,517008,1000,Milliers De Francs,France,Iraq
+220,645,1937,1009682,1000,Mille Francs,France,Iraq
+220,645,1938,1400870,1000,Mille Fr.,France,Iraq
+220,645,1939,1152135,1000,Mille Fr.,France,Iraq
+220,645,1940,1057729,1000,Mille Fr.,France,Iraq
+220,645,1941,2070,1000,Mille Fr.,France,Iraq
+220,645,1942,475,1000,Mille Fr.,France,Iraq
+220,645,1943,144,1000,,France,Iraq
+220,645,1944,1,1000,Mille Fr.,France,Iraq
+220,645,1945,130853,1000,Mille Fr.,France,Iraq
+220,645,1946,1699132,1000,Mille Francs,France,Iraq
+220,645,1947,2805699,1000,Mille Francs,France,Iraq
+220,645,1948,9909502,1000,Mille Francs,France,Iraq
+220,645,1949,15515723,1000,Mille Francs,France,Iraq
+220,651,1919,234327,1000,,France,Egypt
+220,651,1920,350939,1000,,France,Egypt
+220,651,1921,187111,1000,,France,Egypt
+220,651,1922,297996,1000,,France,Egypt
+220,651,1923,620988,1000,,France,Egypt
+220,651,1924,926935,1000,,France,Egypt
+220,651,1925,941394,1000,,France,Egypt
+220,651,1926,907998,1000,,France,Egypt
+220,651,1927,725435,1000,,France,Egypt
+220,651,1928,925964,1000,,France,Egypt
+220,651,1929,1022804,1000,,France,Egypt
+220,651,1930,649409,1000,,France,Egypt
+220,651,1931,384890,1000,,France,Egypt
+220,651,1932,235275,1000,Mille Francs,France,Egypt
+220,651,1933,321661,1000,Mille Francs,France,Egypt
+220,651,1934,269238,1000,Mille Francs,France,Egypt
+220,651,1935,261731,1000,Milliers De Francs,France,Egypt
+220,651,1936,311776,1000,Milliers De Francs,France,Egypt
+220,651,1937,537496,1000,Mille Francs,France,Egypt
+220,651,1938,484272,1000,Mille Fr.,France,Egypt
+220,651,1939,532879,1000,Mille Fr.,France,Egypt
+220,651,1940,1037881,1000,Mille Fr.,France,Egypt
+220,651,1941,19598,1000,Mille Fr.,France,Egypt
+220,651,1942,7673,1000,Mille Fr.,France,Egypt
+220,651,1943,4529,1000,,France,Egypt
+220,651,1944,36,1000,Mille Fr.,France,Egypt
+220,651,1945,1302619,1000,Mille Fr.,France,Egypt
+220,651,1946,2231574,1000,Mille Francs,France,Egypt
+220,651,1947,4753134,1000,Mille Francs,France,Egypt
+220,651,1948,12675816,1000,Mille Francs,France,Egypt
+220,651,1949,11229025,1000,Mille Francs,France,Egypt
+220,652,1919,0,1000,,France,Syria
+220,652,1920,0,1000,,France,Syria
+220,652,1921,0,1000,,France,Syria
+220,652,1922,0,1000,,France,Syria
+220,652,1923,50104,1000,,France,Syria
+220,652,1924,58428,1000,,France,Syria
+220,652,1925,86554,1000,,France,Syria
+220,652,1926,117674,1000,,France,Syria
+220,652,1927,95078,1000,,France,Syria
+220,652,1928,97002,1000,,France,Syria
+220,652,1929,74238,1000,,France,Syria
+220,652,1930,62166,1000,,France,Syria
+220,652,1931,42967,1000,,France,Syria
+220,652,1932,33386,1000,Mille Francs,France,Syria
+220,652,1933,28334,1000,Mille Francs,France,Syria
+220,652,1934,28530,1000,Mille Francs,France,Syria
+220,652,1935,23211,1000,Milliers De Francs,France,Syria
+220,652,1936,64854,1000,Milliers De Francs,France,Syria
+220,652,1937,89657,1000,Mille Francs,France,Syria
+220,652,1938,121945,1000,Mille Fr.,France,Syria
+220,652,1939,138596,1000,Mille Fr.,France,Syria
+220,652,1940,181348,1000,Mille Fr.,France,Syria
+220,652,1941,3919,1000,Mille Fr.,France,Syria
+220,652,1942,234,1000,Mille Fr.,France,Syria
+220,652,1943,37,1000,,France,Syria
+220,652,1944,51316,1000,Mille Fr.,France,Syria
+220,652,1945,76484,1000,Mille Fr.,France,Syria
+220,652,1946,0,1000,Mille Francs,France,Syria
+220,652,1947,0,1000,Mille Francs,France,Syria
+220,652,1948,0,1000,Mille Francs,France,Syria
+220,652,1949,347422,1000,Mille Francs,France,Syria
+220,660,1919,0,1000,,France,Lebanon
+220,660,1920,0,1000,,France,Lebanon
+220,660,1921,0,1000,,France,Lebanon
+220,660,1922,0,1000,,France,Lebanon
+220,660,1923,0,1000,,France,Lebanon
+220,660,1924,0,1000,,France,Lebanon
+220,660,1925,0,1000,,France,Lebanon
+220,660,1926,0,1000,,France,Lebanon
+220,660,1927,0,1000,,France,Lebanon
+220,660,1928,0,1000,,France,Lebanon
+220,660,1929,0,1000,,France,Lebanon
+220,660,1930,0,1000,,France,Lebanon
+220,660,1931,0,1000,,France,Lebanon
+220,660,1932,0,1000,Mille Francs,France,Lebanon
+220,660,1933,0,1000,Mille Francs,France,Lebanon
+220,660,1934,0,1000,Mille Francs,France,Lebanon
+220,660,1935,0,1000,Milliers De Francs,France,Lebanon
+220,660,1936,0,1000,Milliers De Francs,France,Lebanon
+220,660,1937,0,1000,Mille Francs,France,Lebanon
+220,660,1938,0,1000,Mille Fr.,France,Lebanon
+220,660,1939,0,1000,Mille Fr.,France,Lebanon
+220,660,1940,0,1000,Mille Fr.,France,Lebanon
+220,660,1941,0,1000,Mille Fr.,France,Lebanon
+220,660,1942,0,1000,Mille Fr.,France,Lebanon
+220,660,1943,0,1000,,France,Lebanon
+220,660,1944,0,1000,Mille Fr.,France,Lebanon
+220,660,1945,0,1000,Mille Fr.,France,Lebanon
+220,660,1946,0,1000,Mille Francs,France,Lebanon
+220,660,1947,0,1000,Mille Francs,France,Lebanon
+220,660,1948,0,1000,Mille Francs,France,Lebanon
+220,660,1949,321842,1000,Mille Francs,France,Lebanon
+220,663,1919,0,1000,,France,Jordan
+220,663,1920,0,1000,,France,Jordan
+220,663,1921,0,1000,,France,Jordan
+220,663,1922,0,1000,,France,Jordan
+220,663,1923,0,1000,,France,Jordan
+220,663,1924,0,1000,,France,Jordan
+220,663,1925,0,1000,,France,Jordan
+220,663,1926,0,1000,,France,Jordan
+220,663,1927,0,1000,,France,Jordan
+220,663,1928,0,1000,,France,Jordan
+220,663,1929,0,1000,,France,Jordan
+220,663,1930,0,1000,,France,Jordan
+220,663,1931,0,1000,,France,Jordan
+220,663,1932,0,1000,Mille Francs,France,Jordan
+220,663,1933,0,1000,Mille Francs,France,Jordan
+220,663,1934,0,1000,Mille Francs,France,Jordan
+220,663,1935,0,1000,Milliers De Francs,France,Jordan
+220,663,1936,0,1000,Milliers De Francs,France,Jordan
+220,663,1937,0,1000,Mille Francs,France,Jordan
+220,663,1938,0,1000,Mille Fr.,France,Jordan
+220,663,1939,0,1000,Mille Fr.,France,Jordan
+220,663,1940,0,1000,Mille Fr.,France,Jordan
+220,663,1941,0,1000,Mille Fr.,France,Jordan
+220,663,1942,0,1000,Mille Fr.,France,Jordan
+220,663,1943,0,1000,,France,Jordan
+220,663,1944,0,1000,Mille Fr.,France,Jordan
+220,663,1945,0,1000,Mille Fr.,France,Jordan
+220,663,1946,0,1000,Mille Francs,France,Jordan
+220,663,1947,0,1000,Mille Francs,France,Jordan
+220,663,1948,0,1000,Mille Francs,France,Jordan
+220,663,1949,0,1000,Mille Francs,France,Jordan
+220,665,1919,0,1000,,France,West Bank And Gaza
+220,665,1920,0,1000,,France,West Bank And Gaza
+220,665,1921,0,1000,,France,West Bank And Gaza
+220,665,1922,0,1000,,France,West Bank And Gaza
+220,665,1923,5429,1000,,France,West Bank And Gaza
+220,665,1924,4227,1000,,France,West Bank And Gaza
+220,665,1925,3434,1000,,France,West Bank And Gaza
+220,665,1926,6572,1000,,France,West Bank And Gaza
+220,665,1927,9399,1000,,France,West Bank And Gaza
+220,665,1928,11851,1000,,France,West Bank And Gaza
+220,665,1929,8536,1000,,France,West Bank And Gaza
+220,665,1930,4766,1000,,France,West Bank And Gaza
+220,665,1931,6777,1000,,France,West Bank And Gaza
+220,665,1932,4558,1000,Mille Francs,France,West Bank And Gaza
+220,665,1933,2672,1000,Mille Francs,France,West Bank And Gaza
+220,665,1934,3762,1000,Mille Francs,France,West Bank And Gaza
+220,665,1935,7466,1000,Milliers De Francs,France,West Bank And Gaza
+220,665,1936,4547,1000,Milliers De Francs,France,West Bank And Gaza
+220,665,1937,14258,1000,Mille Francs,France,West Bank And Gaza
+220,665,1938,15244,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1939,47831,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1940,12474,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1941,9,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1942,52,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1943,0,1000,,France,West Bank And Gaza
+220,665,1944,0,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1945,449,1000,Mille Fr.,France,West Bank And Gaza
+220,665,1946,24757,1000,Mille Francs,France,West Bank And Gaza
+220,665,1947,41750,1000,Mille Francs,France,West Bank And Gaza
+220,665,1948,42224,1000,Mille Francs,France,West Bank And Gaza
+220,665,1949,0,1000,Mille Francs,France,West Bank And Gaza
+220,666,1919,0,1000,,France,Israel
+220,666,1920,0,1000,,France,Israel
+220,666,1921,0,1000,,France,Israel
+220,666,1922,0,1000,,France,Israel
+220,666,1923,0,1000,,France,Israel
+220,666,1924,0,1000,,France,Israel
+220,666,1925,0,1000,,France,Israel
+220,666,1926,0,1000,,France,Israel
+220,666,1927,0,1000,,France,Israel
+220,666,1928,0,1000,,France,Israel
+220,666,1929,0,1000,,France,Israel
+220,666,1930,0,1000,,France,Israel
+220,666,1931,0,1000,,France,Israel
+220,666,1932,0,1000,Mille Francs,France,Israel
+220,666,1933,0,1000,Mille Francs,France,Israel
+220,666,1934,0,1000,Mille Francs,France,Israel
+220,666,1935,0,1000,Milliers De Francs,France,Israel
+220,666,1936,0,1000,Milliers De Francs,France,Israel
+220,666,1937,0,1000,Mille Francs,France,Israel
+220,666,1938,0,1000,Mille Fr.,France,Israel
+220,666,1939,0,1000,Mille Fr.,France,Israel
+220,666,1940,0,1000,Mille Fr.,France,Israel
+220,666,1941,0,1000,Mille Fr.,France,Israel
+220,666,1942,0,1000,Mille Fr.,France,Israel
+220,666,1943,0,1000,,France,Israel
+220,666,1944,0,1000,Mille Fr.,France,Israel
+220,666,1945,0,1000,Mille Fr.,France,Israel
+220,666,1946,0,1000,Mille Francs,France,Israel
+220,666,1947,0,1000,Mille Francs,France,Israel
+220,666,1948,0,1000,Mille Francs,France,Israel
+220,666,1949,24263,1000,Mille Francs,France,Israel
+220,670,1919,0,1000,,France,Saudi Arabia
+220,670,1920,0,1000,,France,Saudi Arabia
+220,670,1921,0,1000,,France,Saudi Arabia
+220,670,1922,0,1000,,France,Saudi Arabia
+220,670,1923,0,1000,,France,Saudi Arabia
+220,670,1924,0,1000,,France,Saudi Arabia
+220,670,1925,0,1000,,France,Saudi Arabia
+220,670,1926,0,1000,,France,Saudi Arabia
+220,670,1927,0,1000,,France,Saudi Arabia
+220,670,1928,0,1000,,France,Saudi Arabia
+220,670,1929,0,1000,,France,Saudi Arabia
+220,670,1930,0,1000,,France,Saudi Arabia
+220,670,1931,0,1000,,France,Saudi Arabia
+220,670,1932,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1933,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1934,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1935,0,1000,Milliers De Francs,France,Saudi Arabia
+220,670,1936,0,1000,Milliers De Francs,France,Saudi Arabia
+220,670,1937,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1938,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1939,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1940,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1941,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1942,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1943,0,1000,,France,Saudi Arabia
+220,670,1944,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1945,0,1000,Mille Fr.,France,Saudi Arabia
+220,670,1946,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1947,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1948,0,1000,Mille Francs,France,Saudi Arabia
+220,670,1949,30973647,1000,Mille Francs,France,Saudi Arabia
+220,675,1919,0,1000,,France,Arabia
+220,675,1920,0,1000,,France,Arabia
+220,675,1921,0,1000,,France,Arabia
+220,675,1922,0,1000,,France,Arabia
+220,675,1923,0,1000,,France,Arabia
+220,675,1924,0,1000,,France,Arabia
+220,675,1925,0,1000,,France,Arabia
+220,675,1926,0,1000,,France,Arabia
+220,675,1927,0,1000,,France,Arabia
+220,675,1928,0,1000,,France,Arabia
+220,675,1929,35541,1000,,France,Arabia
+220,675,1930,28530,1000,,France,Arabia
+220,675,1931,19475,1000,,France,Arabia
+220,675,1932,12979,1000,Mille Francs,France,Arabia
+220,675,1933,15508,1000,Mille Francs,France,Arabia
+220,675,1934,11863,1000,Mille Francs,France,Arabia
+220,675,1935,11065,1000,Milliers De Francs,France,Arabia
+220,675,1936,17439,1000,Milliers De Francs,France,Arabia
+220,675,1937,34824,1000,Mille Francs,France,Arabia
+220,675,1938,25297,1000,Mille Fr.,France,Arabia
+220,675,1939,24928,1000,Mille Fr.,France,Arabia
+220,675,1940,7094,1000,Mille Fr.,France,Arabia
+220,675,1941,461,1000,Mille Fr.,France,Arabia
+220,675,1942,589,1000,Mille Fr.,France,Arabia
+220,675,1943,23,1000,,France,Arabia
+220,675,1944,69,1000,Mille Fr.,France,Arabia
+220,675,1945,118724,1000,Mille Fr.,France,Arabia
+220,675,1946,596715,1000,Mille Francs,France,Arabia
+220,675,1947,756567,1000,Mille Francs,France,Arabia
+220,675,1948,10214689,1000,Mille Francs,France,Arabia
+220,675,1949,0,1000,Mille Francs,France,Arabia
+220,690,1919,0,1000,,France,Kuwait
+220,690,1920,0,1000,,France,Kuwait
+220,690,1921,0,1000,,France,Kuwait
+220,690,1922,0,1000,,France,Kuwait
+220,690,1923,0,1000,,France,Kuwait
+220,690,1924,0,1000,,France,Kuwait
+220,690,1925,0,1000,,France,Kuwait
+220,690,1926,0,1000,,France,Kuwait
+220,690,1927,0,1000,,France,Kuwait
+220,690,1928,0,1000,,France,Kuwait
+220,690,1929,0,1000,,France,Kuwait
+220,690,1930,0,1000,,France,Kuwait
+220,690,1931,0,1000,,France,Kuwait
+220,690,1932,0,1000,Mille Francs,France,Kuwait
+220,690,1933,0,1000,Mille Francs,France,Kuwait
+220,690,1934,0,1000,Mille Francs,France,Kuwait
+220,690,1935,0,1000,Milliers De Francs,France,Kuwait
+220,690,1936,0,1000,Milliers De Francs,France,Kuwait
+220,690,1937,0,1000,Mille Francs,France,Kuwait
+220,690,1938,0,1000,Mille Fr.,France,Kuwait
+220,690,1939,0,1000,Mille Fr.,France,Kuwait
+220,690,1940,0,1000,Mille Fr.,France,Kuwait
+220,690,1941,0,1000,Mille Fr.,France,Kuwait
+220,690,1942,0,1000,Mille Fr.,France,Kuwait
+220,690,1943,0,1000,,France,Kuwait
+220,690,1944,0,1000,Mille Fr.,France,Kuwait
+220,690,1945,0,1000,Mille Fr.,France,Kuwait
+220,690,1946,0,1000,Mille Francs,France,Kuwait
+220,690,1947,0,1000,Mille Francs,France,Kuwait
+220,690,1948,0,1000,Mille Francs,France,Kuwait
+220,690,1949,20510690,1000,Mille Francs,France,Kuwait
+220,692,1919,0,1000,,France,Bahrain
+220,692,1920,0,1000,,France,Bahrain
+220,692,1921,0,1000,,France,Bahrain
+220,692,1922,0,1000,,France,Bahrain
+220,692,1923,0,1000,,France,Bahrain
+220,692,1924,0,1000,,France,Bahrain
+220,692,1925,0,1000,,France,Bahrain
+220,692,1926,0,1000,,France,Bahrain
+220,692,1927,0,1000,,France,Bahrain
+220,692,1928,0,1000,,France,Bahrain
+220,692,1929,0,1000,,France,Bahrain
+220,692,1930,0,1000,,France,Bahrain
+220,692,1931,0,1000,,France,Bahrain
+220,692,1932,0,1000,Mille Francs,France,Bahrain
+220,692,1933,0,1000,Mille Francs,France,Bahrain
+220,692,1934,0,1000,Mille Francs,France,Bahrain
+220,692,1935,0,1000,Milliers De Francs,France,Bahrain
+220,692,1936,0,1000,Milliers De Francs,France,Bahrain
+220,692,1937,0,1000,Mille Francs,France,Bahrain
+220,692,1938,0,1000,Mille Fr.,France,Bahrain
+220,692,1939,0,1000,Mille Fr.,France,Bahrain
+220,692,1940,0,1000,Mille Fr.,France,Bahrain
+220,692,1941,0,1000,Mille Fr.,France,Bahrain
+220,692,1942,0,1000,Mille Fr.,France,Bahrain
+220,692,1943,0,1000,,France,Bahrain
+220,692,1944,0,1000,Mille Fr.,France,Bahrain
+220,692,1945,0,1000,Mille Fr.,France,Bahrain
+220,692,1946,0,1000,Mille Francs,France,Bahrain
+220,692,1947,0,1000,Mille Francs,France,Bahrain
+220,692,1948,0,1000,Mille Francs,France,Bahrain
+220,692,1949,562007,1000,Mille Francs,France,Bahrain
+220,700,1919,0,1000,,France,Afghanistan
+220,700,1920,0,1000,,France,Afghanistan
+220,700,1921,0,1000,,France,Afghanistan
+220,700,1922,0,1000,,France,Afghanistan
+220,700,1923,0,1000,,France,Afghanistan
+220,700,1924,0,1000,,France,Afghanistan
+220,700,1925,0,1000,,France,Afghanistan
+220,700,1926,0,1000,,France,Afghanistan
+220,700,1927,0,1000,,France,Afghanistan
+220,700,1928,0,1000,,France,Afghanistan
+220,700,1929,7,1000,,France,Afghanistan
+220,700,1930,33,1000,,France,Afghanistan
+220,700,1931,58,1000,,France,Afghanistan
+220,700,1932,172,1000,Mille Francs,France,Afghanistan
+220,700,1933,349,1000,Mille Francs,France,Afghanistan
+220,700,1934,384,1000,Mille Francs,France,Afghanistan
+220,700,1935,14,1000,Milliers De Francs,France,Afghanistan
+220,700,1936,56,1000,Milliers De Francs,France,Afghanistan
+220,700,1937,225,1000,Mille Francs,France,Afghanistan
+220,700,1938,902,1000,Mille Fr.,France,Afghanistan
+220,700,1939,4856,1000,Mille Fr.,France,Afghanistan
+220,700,1940,6285,1000,Mille Fr.,France,Afghanistan
+220,700,1941,0,1000,Mille Fr.,France,Afghanistan
+220,700,1942,30,1000,Mille Fr.,France,Afghanistan
+220,700,1943,0,1000,,France,Afghanistan
+220,700,1944,0,1000,Mille Fr.,France,Afghanistan
+220,700,1945,0,1000,Mille Fr.,France,Afghanistan
+220,700,1946,1740,1000,Mille Francs,France,Afghanistan
+220,700,1947,8860,1000,Mille Francs,France,Afghanistan
+220,700,1948,0,1000,Mille Francs,France,Afghanistan
+220,700,1949,0,1000,Mille Francs,France,Afghanistan
+220,710,1919,591206,1000,,France,China
+220,710,1920,930411,1000,,France,China
+220,710,1921,379091,1000,,France,China
+220,710,1922,720674,1000,,France,China
+220,710,1923,787989,1000,,France,China
+220,710,1924,1157625,1000,,France,China
+220,710,1925,1331483,1000,,France,China
+220,710,1926,1844301,1000,,France,China
+220,710,1927,1230506,1000,,France,China
+220,710,1928,1683526,1000,,France,China
+220,710,1929,1253023,1000,,France,China
+220,710,1930,714814,1000,,France,China
+220,710,1931,484533,1000,,France,China
+220,710,1932,209891,1000,Mille Francs,France,China
+220,710,1933,228659,1000,Mille Francs,France,China
+220,710,1934,141700,1000,Mille Francs,France,China
+220,710,1935,228168,1000,Milliers De Francs,France,China
+220,710,1936,222939,1000,Milliers De Francs,France,China
+220,710,1937,327823,1000,Mille Francs,France,China
+220,710,1938,254675,1000,Mille Fr.,France,China
+220,710,1939,272814,1000,Mille Fr.,France,China
+220,710,1940,195053,1000,Mille Fr.,France,China
+220,710,1941,5493,1000,Mille Fr.,France,China
+220,710,1942,3611,1000,Mille Fr.,France,China
+220,710,1943,754,1000,,France,China
+220,710,1944,59,1000,Mille Fr.,France,China
+220,710,1945,23939,1000,Mille Fr.,France,China
+220,710,1946,410249,1000,Mille Francs,France,China
+220,710,1947,1715789,1000,Mille Francs,France,China
+220,710,1948,1548071,1000,Mille Francs,France,China
+220,710,1949,1513051,1000,Mille Francs,France,China
+220,720,1919,0,1000,,France,Hong Kong
+220,720,1920,0,1000,,France,Hong Kong
+220,720,1921,0,1000,,France,Hong Kong
+220,720,1922,0,1000,,France,Hong Kong
+220,720,1923,0,1000,,France,Hong Kong
+220,720,1924,0,1000,,France,Hong Kong
+220,720,1925,0,1000,,France,Hong Kong
+220,720,1926,0,1000,,France,Hong Kong
+220,720,1927,0,1000,,France,Hong Kong
+220,720,1928,0,1000,,France,Hong Kong
+220,720,1929,0,1000,,France,Hong Kong
+220,720,1930,0,1000,,France,Hong Kong
+220,720,1931,1122,1000,,France,Hong Kong
+220,720,1932,1177,1000,Mille Francs,France,Hong Kong
+220,720,1933,1525,1000,Mille Francs,France,Hong Kong
+220,720,1934,268,1000,Mille Francs,France,Hong Kong
+220,720,1935,485,1000,Milliers De Francs,France,Hong Kong
+220,720,1936,252,1000,Milliers De Francs,France,Hong Kong
+220,720,1937,1050,1000,Mille Francs,France,Hong Kong
+220,720,1938,2004,1000,Mille Fr.,France,Hong Kong
+220,720,1939,6859,1000,Mille Fr.,France,Hong Kong
+220,720,1940,1072,1000,Mille Fr.,France,Hong Kong
+220,720,1941,1,1000,Mille Fr.,France,Hong Kong
+220,720,1942,1,1000,Mille Fr.,France,Hong Kong
+220,720,1943,0,1000,,France,Hong Kong
+220,720,1944,0,1000,Mille Fr.,France,Hong Kong
+220,720,1945,0,1000,Mille Fr.,France,Hong Kong
+220,720,1946,111,1000,Mille Francs,France,Hong Kong
+220,720,1947,9736,1000,Mille Francs,France,Hong Kong
+220,720,1948,23482,1000,Mille Francs,France,Hong Kong
+220,720,1949,12884,1000,Mille Francs,France,Hong Kong
+220,740,1919,365335,1000,,France,Japan
+220,740,1920,487535,1000,,France,Japan
+220,740,1921,140116,1000,,France,Japan
+220,740,1922,375167,1000,,France,Japan
+220,740,1923,188406,1000,,France,Japan
+220,740,1924,438360,1000,,France,Japan
+220,740,1925,292447,1000,,France,Japan
+220,740,1926,347508,1000,,France,Japan
+220,740,1927,318664,1000,,France,Japan
+220,740,1928,336980,1000,,France,Japan
+220,740,1929,268459,1000,,France,Japan
+220,740,1930,283521,1000,,France,Japan
+220,740,1931,202651,1000,,France,Japan
+220,740,1932,158096,1000,Mille Francs,France,Japan
+220,740,1933,166199,1000,Mille Francs,France,Japan
+220,740,1934,195316,1000,Mille Francs,France,Japan
+220,740,1935,190341,1000,Milliers De Francs,France,Japan
+220,740,1936,194279,1000,Milliers De Francs,France,Japan
+220,740,1937,338388,1000,Mille Francs,France,Japan
+220,740,1938,368609,1000,Mille Fr.,France,Japan
+220,740,1939,320950,1000,Mille Fr.,France,Japan
+220,740,1940,323824,1000,Mille Fr.,France,Japan
+220,740,1941,12249,1000,Mille Fr.,France,Japan
+220,740,1942,707,1000,Mille Fr.,France,Japan
+220,740,1943,444,1000,,France,Japan
+220,740,1944,1293,1000,Mille Fr.,France,Japan
+220,740,1945,1684,1000,Mille Fr.,France,Japan
+220,740,1946,241776,1000,Mille Francs,France,Japan
+220,740,1947,347700,1000,Mille Francs,France,Japan
+220,740,1948,771235,1000,Mille Francs,France,Japan
+220,740,1949,1519061,1000,Mille Francs,France,Japan
+220,750,1919,1256816,1000,,France,India
+220,750,1920,1168365,1000,,France,India
+220,750,1921,557634,1000,,France,India
+220,750,1922,1021591,1000,,France,India
+220,750,1923,1717826,1000,,France,India
+220,750,1924,2215588,1000,,France,India
+220,750,1925,2552325,1000,,France,India
+220,750,1926,3346125,1000,,France,India
+220,750,1927,2159887,1000,,France,India
+220,750,1928,2652518,1000,,France,India
+220,750,1929,2757602,1000,,France,India
+220,750,1930,2103476,1000,,France,India
+220,750,1931,1162892,1000,,France,India
+220,750,1932,691773,1000,Mille Francs,France,India
+220,750,1933,792199,1000,Mille Francs,France,India
+220,750,1934,522762,1000,Mille Francs,France,India
+220,750,1935,610639,1000,Milliers De Francs,France,India
+220,750,1936,780451,1000,Milliers De Francs,France,India
+220,750,1937,1162321,1000,Mille Francs,France,India
+220,750,1938,1275234,1000,Mille Fr.,France,India
+220,750,1939,1250896,1000,Mille Fr.,France,India
+220,750,1940,1337042,1000,Mille Fr.,France,India
+220,750,1941,64748,1000,Mille Fr.,France,India
+220,750,1942,9834,1000,Mille Fr.,France,India
+220,750,1943,10685,1000,,France,India
+220,750,1944,1576,1000,Mille Fr.,France,India
+220,750,1945,755387,1000,Mille Fr.,France,India
+220,750,1946,2013483,1000,Mille Francs,France,India
+220,750,1947,5607106,1000,Mille Francs,France,India
+220,750,1948,11064143,1000,Mille Francs,France,India
+220,750,1949,0,1000,Mille Francs,France,India
+220,751,1919,19720,1000,,France,French India
+220,751,1920,46846,1000,,France,French India
+220,751,1921,17747,1000,,France,French India
+220,751,1922,18643,1000,,France,French India
+220,751,1923,1754,1000,,France,French India
+220,751,1924,1642,1000,,France,French India
+220,751,1925,181,1000,,France,French India
+220,751,1926,2613,1000,,France,French India
+220,751,1927,944,1000,,France,French India
+220,751,1928,14214,1000,,France,French India
+220,751,1929,1728,1000,,France,French India
+220,751,1930,1306,1000,,France,French India
+220,751,1931,471,1000,,France,French India
+220,751,1932,3003,1000,Mille Francs,France,French India
+220,751,1933,271,1000,Mille Francs,France,French India
+220,751,1934,44,1000,Mille Francs,France,French India
+220,751,1935,84,1000,Milliers De Francs,France,French India
+220,751,1936,6073,1000,Milliers De Francs,France,French India
+220,751,1937,887,1000,Mille Francs,France,French India
+220,751,1938,7372,1000,Mille Fr.,France,French India
+220,751,1939,1920,1000,Mille Fr.,France,French India
+220,751,1940,213,1000,Mille Fr.,France,French India
+220,751,1941,0,1000,Mille Fr.,France,French India
+220,751,1942,7,1000,Mille Fr.,France,French India
+220,751,1943,0,1000,,France,French India
+220,751,1944,0,1000,Mille Fr.,France,French India
+220,751,1945,8,1000,Mille Fr.,France,French India
+220,751,1946,567,1000,Mille Francs,France,French India
+220,751,1947,1769,1000,Mille Francs,France,French India
+220,751,1948,46423,1000,Mille Francs,France,French India
+220,751,1949,59998,1000,Mille Francs,France,French India
+220,770,1919,0,1000,,France,Pakistan
+220,770,1920,0,1000,,France,Pakistan
+220,770,1921,0,1000,,France,Pakistan
+220,770,1922,0,1000,,France,Pakistan
+220,770,1923,0,1000,,France,Pakistan
+220,770,1924,0,1000,,France,Pakistan
+220,770,1925,0,1000,,France,Pakistan
+220,770,1926,0,1000,,France,Pakistan
+220,770,1927,0,1000,,France,Pakistan
+220,770,1928,0,1000,,France,Pakistan
+220,770,1929,0,1000,,France,Pakistan
+220,770,1930,0,1000,,France,Pakistan
+220,770,1931,0,1000,,France,Pakistan
+220,770,1932,0,1000,Mille Francs,France,Pakistan
+220,770,1933,0,1000,Mille Francs,France,Pakistan
+220,770,1934,0,1000,Mille Francs,France,Pakistan
+220,770,1935,0,1000,Milliers De Francs,France,Pakistan
+220,770,1936,0,1000,Milliers De Francs,France,Pakistan
+220,770,1937,0,1000,Mille Francs,France,Pakistan
+220,770,1938,0,1000,Mille Fr.,France,Pakistan
+220,770,1939,0,1000,Mille Fr.,France,Pakistan
+220,770,1940,0,1000,Mille Fr.,France,Pakistan
+220,770,1941,0,1000,Mille Fr.,France,Pakistan
+220,770,1942,0,1000,Mille Fr.,France,Pakistan
+220,770,1943,0,1000,,France,Pakistan
+220,770,1944,0,1000,Mille Fr.,France,Pakistan
+220,770,1945,0,1000,Mille Fr.,France,Pakistan
+220,770,1946,0,1000,Mille Francs,France,Pakistan
+220,770,1947,0,1000,Mille Francs,France,Pakistan
+220,770,1948,0,1000,Mille Francs,France,Pakistan
+220,770,1949,4532897,1000,Mille Francs,France,Pakistan
+220,780,1919,0,1000,,France,Sri Lanka
+220,780,1920,0,1000,,France,Sri Lanka
+220,780,1921,0,1000,,France,Sri Lanka
+220,780,1922,0,1000,,France,Sri Lanka
+220,780,1923,0,1000,,France,Sri Lanka
+220,780,1924,0,1000,,France,Sri Lanka
+220,780,1925,0,1000,,France,Sri Lanka
+220,780,1926,0,1000,,France,Sri Lanka
+220,780,1927,0,1000,,France,Sri Lanka
+220,780,1928,0,1000,,France,Sri Lanka
+220,780,1929,0,1000,,France,Sri Lanka
+220,780,1930,0,1000,,France,Sri Lanka
+220,780,1931,0,1000,,France,Sri Lanka
+220,780,1932,0,1000,Mille Francs,France,Sri Lanka
+220,780,1933,0,1000,Mille Francs,France,Sri Lanka
+220,780,1934,0,1000,Mille Francs,France,Sri Lanka
+220,780,1935,0,1000,Milliers De Francs,France,Sri Lanka
+220,780,1936,0,1000,Milliers De Francs,France,Sri Lanka
+220,780,1937,0,1000,Mille Francs,France,Sri Lanka
+220,780,1938,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1939,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1940,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1941,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1942,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1943,0,1000,,France,Sri Lanka
+220,780,1944,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1945,0,1000,Mille Fr.,France,Sri Lanka
+220,780,1946,0,1000,Mille Francs,France,Sri Lanka
+220,780,1947,0,1000,Mille Francs,France,Sri Lanka
+220,780,1948,0,1000,Mille Francs,France,Sri Lanka
+220,780,1949,967726,1000,Mille Francs,France,Sri Lanka
+220,800,1919,4399,1000,,France,Thailand
+220,800,1920,397,1000,,France,Thailand
+220,800,1921,574,1000,,France,Thailand
+220,800,1922,1419,1000,,France,Thailand
+220,800,1923,4514,1000,,France,Thailand
+220,800,1924,963,1000,,France,Thailand
+220,800,1925,747,1000,,France,Thailand
+220,800,1926,1924,1000,,France,Thailand
+220,800,1927,1017,1000,,France,Thailand
+220,800,1928,1946,1000,,France,Thailand
+220,800,1929,3124,1000,,France,Thailand
+220,800,1930,2159,1000,,France,Thailand
+220,800,1931,850,1000,,France,Thailand
+220,800,1932,221,1000,Mille Francs,France,Thailand
+220,800,1933,352,1000,Mille Francs,France,Thailand
+220,800,1934,1153,1000,Mille Francs,France,Thailand
+220,800,1935,1225,1000,Milliers De Francs,France,Thailand
+220,800,1936,859,1000,Milliers De Francs,France,Thailand
+220,800,1937,4070,1000,Mille Francs,France,Thailand
+220,800,1938,3708,1000,Mille Fr.,France,Thailand
+220,800,1939,3435,1000,Mille Fr.,France,Thailand
+220,800,1940,3271,1000,Mille Fr.,France,Thailand
+220,800,1941,44,1000,Mille Fr.,France,Thailand
+220,800,1942,358,1000,Mille Fr.,France,Thailand
+220,800,1943,107,1000,,France,Thailand
+220,800,1944,0,1000,Mille Fr.,France,Thailand
+220,800,1945,0,1000,Mille Fr.,France,Thailand
+220,800,1946,2069,1000,Mille Francs,France,Thailand
+220,800,1947,8327,1000,Mille Francs,France,Thailand
+220,800,1948,29997,1000,Mille Francs,France,Thailand
+220,800,1949,30711,1000,Mille Francs,France,Thailand
+220,810,1919,275743,1000,,France,French Indo-China
+220,810,1920,315594,1000,,France,French Indo-China
+220,810,1921,417651,1000,,France,French Indo-China
+220,810,1922,239963,1000,,France,French Indo-China
+220,810,1923,347215,1000,,France,French Indo-China
+220,810,1924,330741,1000,,France,French Indo-China
+220,810,1925,609881,1000,,France,French Indo-China
+220,810,1926,792618,1000,,France,French Indo-China
+220,810,1927,626914,1000,,France,French Indo-China
+220,810,1928,715046,1000,,France,French Indo-China
+220,810,1929,692002,1000,,France,French Indo-China
+220,810,1930,526481,1000,,France,French Indo-China
+220,810,1931,404378,1000,,France,French Indo-China
+220,810,1932,404683,1000,Mille Francs,France,French Indo-China
+220,810,1933,582311,1000,Mille Francs,France,French Indo-China
+220,810,1934,613237,1000,Mille Francs,France,French Indo-China
+220,810,1935,570608,1000,Milliers De Francs,France,French Indo-China
+220,810,1936,1050317,1000,Milliers De Francs,France,French Indo-China
+220,810,1937,1651771,1000,Mille Francs,France,French Indo-China
+220,810,1938,1890608,1000,Mille Fr.,France,French Indo-China
+220,810,1939,1494578,1000,Mille Fr.,France,French Indo-China
+220,810,1940,911122,1000,Mille Fr.,France,French Indo-China
+220,810,1941,324011,1000,Mille Fr.,France,French Indo-China
+220,810,1942,406099,1000,Mille Fr.,France,French Indo-China
+220,810,1943,9733,1000,,France,French Indo-China
+220,810,1944,1575,1000,Mille Fr.,France,French Indo-China
+220,810,1945,638,1000,Mille Fr.,France,French Indo-China
+220,810,1946,4228099,1000,Mille Francs,France,French Indo-China
+220,810,1947,4059297,1000,Mille Francs,France,French Indo-China
+220,810,1948,9542958,1000,Mille Francs,France,French Indo-China
+220,810,1949,11038869,1000,Mille Francs,France,French Indo-China
+220,820,1919,0,1000,,France,Malaysia
+220,820,1920,0,1000,,France,Malaysia
+220,820,1921,0,1000,,France,Malaysia
+220,820,1922,0,1000,,France,Malaysia
+220,820,1923,0,1000,,France,Malaysia
+220,820,1924,0,1000,,France,Malaysia
+220,820,1925,0,1000,,France,Malaysia
+220,820,1926,0,1000,,France,Malaysia
+220,820,1927,0,1000,,France,Malaysia
+220,820,1928,0,1000,,France,Malaysia
+220,820,1929,0,1000,,France,Malaysia
+220,820,1930,0,1000,,France,Malaysia
+220,820,1931,0,1000,,France,Malaysia
+220,820,1932,98391,1000,Mille Francs,France,Malaysia
+220,820,1933,178286,1000,Mille Francs,France,Malaysia
+220,820,1934,238143,1000,Mille Francs,France,Malaysia
+220,820,1935,232434,1000,Milliers De Francs,France,Malaysia
+220,820,1936,308955,1000,Milliers De Francs,France,Malaysia
+220,820,1937,597127,1000,Mille Francs,France,Malaysia
+220,820,1938,559634,1000,Mille Fr.,France,Malaysia
+220,820,1939,619708,1000,Mille Fr.,France,Malaysia
+220,820,1940,896670,1000,Mille Fr.,France,Malaysia
+220,820,1941,85268,1000,Mille Fr.,France,Malaysia
+220,820,1942,70171,1000,Mille Fr.,France,Malaysia
+220,820,1943,10209,1000,,France,Malaysia
+220,820,1944,1268,1000,Mille Fr.,France,Malaysia
+220,820,1945,0,1000,Mille Fr.,France,Malaysia
+220,820,1946,87997,1000,Mille Francs,France,Malaysia
+220,820,1947,2360802,1000,Mille Francs,France,Malaysia
+220,820,1948,4683707,1000,Mille Francs,France,Malaysia
+220,820,1949,0,1000,Mille Francs,France,Malaysia
+220,840,1919,12790,1000,,France,Philippines
+220,840,1920,22650,1000,,France,Philippines
+220,840,1921,24515,1000,,France,Philippines
+220,840,1922,46257,1000,,France,Philippines
+220,840,1923,42032,1000,,France,Philippines
+220,840,1924,56211,1000,,France,Philippines
+220,840,1925,35615,1000,,France,Philippines
+220,840,1926,69740,1000,,France,Philippines
+220,840,1927,57580,1000,,France,Philippines
+220,840,1928,50816,1000,,France,Philippines
+220,840,1929,74876,1000,,France,Philippines
+220,840,1930,43752,1000,,France,Philippines
+220,840,1931,38606,1000,,France,Philippines
+220,840,1932,27839,1000,Mille Francs,France,Philippines
+220,840,1933,33696,1000,Mille Francs,France,Philippines
+220,840,1934,57992,1000,Mille Francs,France,Philippines
+220,840,1935,26107,1000,Milliers De Francs,France,Philippines
+220,840,1936,30763,1000,Milliers De Francs,France,Philippines
+220,840,1937,32489,1000,Mille Francs,France,Philippines
+220,840,1938,85264,1000,Mille Fr.,France,Philippines
+220,840,1939,102701,1000,Mille Fr.,France,Philippines
+220,840,1940,101805,1000,Mille Fr.,France,Philippines
+220,840,1941,1023,1000,Mille Fr.,France,Philippines
+220,840,1942,39,1000,Mille Fr.,France,Philippines
+220,840,1943,4,1000,,France,Philippines
+220,840,1944,0,1000,Mille Fr.,France,Philippines
+220,840,1945,0,1000,Mille Fr.,France,Philippines
+220,840,1946,109152,1000,Mille Francs,France,Philippines
+220,840,1947,2816020,1000,Mille Francs,France,Philippines
+220,840,1948,3432689,1000,Mille Francs,France,Philippines
+220,840,1949,1899524,1000,Mille Francs,France,Philippines
+220,850,1919,129941,1000,,France,Indonesia
+220,850,1920,256173,1000,,France,Indonesia
+220,850,1921,132694,1000,,France,Indonesia
+220,850,1922,210693,1000,,France,Indonesia
+220,850,1923,534968,1000,,France,Indonesia
+220,850,1924,526053,1000,,France,Indonesia
+220,850,1925,511186,1000,,France,Indonesia
+220,850,1926,702662,1000,,France,Indonesia
+220,850,1927,525498,1000,,France,Indonesia
+220,850,1928,771102,1000,,France,Indonesia
+220,850,1929,772220,1000,,France,Indonesia
+220,850,1930,428552,1000,,France,Indonesia
+220,850,1931,244514,1000,,France,Indonesia
+220,850,1932,276087,1000,Mille Francs,France,Indonesia
+220,850,1933,398864,1000,Mille Francs,France,Indonesia
+220,850,1934,323883,1000,Mille Francs,France,Indonesia
+220,850,1935,258944,1000,Milliers De Francs,France,Indonesia
+220,850,1936,177957,1000,Milliers De Francs,France,Indonesia
+220,850,1937,360869,1000,Mille Francs,France,Indonesia
+220,850,1938,280296,1000,Mille Fr.,France,Indonesia
+220,850,1939,361767,1000,Mille Fr.,France,Indonesia
+220,850,1940,285900,1000,Mille Fr.,France,Indonesia
+220,850,1941,81993,1000,Mille Fr.,France,Indonesia
+220,850,1942,118341,1000,Mille Fr.,France,Indonesia
+220,850,1943,50392,1000,,France,Indonesia
+220,850,1944,3861,1000,Mille Fr.,France,Indonesia
+220,850,1945,9722,1000,Mille Fr.,France,Indonesia
+220,850,1946,44981,1000,Mille Francs,France,Indonesia
+220,850,1947,266838,1000,Mille Francs,France,Indonesia
+220,850,1948,1585069,1000,Mille Francs,France,Indonesia
+220,850,1949,0,1000,Mille Francs,France,Indonesia
+220,900,1919,255233,1000,,France,Australia
+220,900,1920,1231375,1000,,France,Australia
+220,900,1921,745895,1000,,France,Australia
+220,900,1922,776383,1000,,France,Australia
+220,900,1923,1294130,1000,,France,Australia
+220,900,1924,1458686,1000,,France,Australia
+220,900,1925,2032645,1000,,France,Australia
+220,900,1926,2437049,1000,,France,Australia
+220,900,1927,2605577,1000,,France,Australia
+220,900,1928,2045211,1000,,France,Australia
+220,900,1929,2519779,1000,,France,Australia
+220,900,1930,1392689,1000,,France,Australia
+220,900,1931,788190,1000,,France,Australia
+220,900,1932,469793,1000,Mille Francs,France,Australia
+220,900,1933,672861,1000,Mille Francs,France,Australia
+220,900,1934,637716,1000,Mille Francs,France,Australia
+220,900,1935,657898,1000,Milliers De Francs,France,Australia
+220,900,1936,615511,1000,Milliers De Francs,France,Australia
+220,900,1937,1267526,1000,Mille Francs,France,Australia
+220,900,1938,1510961,1000,Mille Fr.,France,Australia
+220,900,1939,1264999,1000,Mille Fr.,France,Australia
+220,900,1940,1304454,1000,Mille Fr.,France,Australia
+220,900,1941,95647,1000,Mille Fr.,France,Australia
+220,900,1942,366,1000,Mille Fr.,France,Australia
+220,900,1943,246,1000,,France,Australia
+220,900,1944,0,1000,Mille Fr.,France,Australia
+220,900,1945,782772,1000,Mille Fr.,France,Australia
+220,900,1946,9232141,1000,Mille Francs,France,Australia
+220,900,1947,9943319,1000,Mille Francs,France,Australia
+220,900,1948,29851322,1000,Mille Francs,France,Australia
+220,900,1949,40134711,1000,Mille Francs,France,Australia
+220,920,1919,0,1000,,France,New Zealand
+220,920,1920,0,1000,,France,New Zealand
+220,920,1921,0,1000,,France,New Zealand
+220,920,1922,0,1000,,France,New Zealand
+220,920,1923,0,1000,,France,New Zealand
+220,920,1924,0,1000,,France,New Zealand
+220,920,1925,0,1000,,France,New Zealand
+220,920,1926,0,1000,,France,New Zealand
+220,920,1927,0,1000,,France,New Zealand
+220,920,1928,0,1000,,France,New Zealand
+220,920,1929,0,1000,,France,New Zealand
+220,920,1930,0,1000,,France,New Zealand
+220,920,1931,0,1000,,France,New Zealand
+220,920,1932,19452,1000,Mille Francs,France,New Zealand
+220,920,1933,50972,1000,Mille Francs,France,New Zealand
+220,920,1934,92245,1000,Mille Francs,France,New Zealand
+220,920,1935,55441,1000,Milliers De Francs,France,New Zealand
+220,920,1936,130491,1000,Milliers De Francs,France,New Zealand
+220,920,1937,168767,1000,Mille Francs,France,New Zealand
+220,920,1938,282275,1000,Mille Fr.,France,New Zealand
+220,920,1939,300932,1000,Mille Fr.,France,New Zealand
+220,920,1940,295083,1000,Mille Fr.,France,New Zealand
+220,920,1941,161419,1000,Mille Fr.,France,New Zealand
+220,920,1942,71,1000,Mille Fr.,France,New Zealand
+220,920,1943,0,1000,,France,New Zealand
+220,920,1944,0,1000,Mille Fr.,France,New Zealand
+220,920,1945,275653,1000,Mille Fr.,France,New Zealand
+220,920,1946,1337803,1000,Mille Francs,France,New Zealand
+220,920,1947,2060683,1000,Mille Francs,France,New Zealand
+220,920,1948,7344614,1000,Mille Francs,France,New Zealand
+220,920,1949,12636254,1000,Mille Francs,France,New Zealand
+220,2005,1919,0,1000,,France,British Africa
+220,2005,1920,0,1000,,France,British Africa
+220,2005,1921,0,1000,,France,British Africa
+220,2005,1922,0,1000,,France,British Africa
+220,2005,1923,0,1000,,France,British Africa
+220,2005,1924,0,1000,,France,British Africa
+220,2005,1925,0,1000,,France,British Africa
+220,2005,1926,0,1000,,France,British Africa
+220,2005,1927,0,1000,,France,British Africa
+220,2005,1928,0,1000,,France,British Africa
+220,2005,1929,0,1000,,France,British Africa
+220,2005,1930,0,1000,,France,British Africa
+220,2005,1931,0,1000,,France,British Africa
+220,2005,1932,0,1000,Mille Francs,France,British Africa
+220,2005,1933,0,1000,Mille Francs,France,British Africa
+220,2005,1934,0,1000,Mille Francs,France,British Africa
+220,2005,1935,0,1000,Milliers De Francs,France,British Africa
+220,2005,1936,0,1000,Milliers De Francs,France,British Africa
+220,2005,1937,0,1000,Mille Francs,France,British Africa
+220,2005,1938,0,1000,Mille Fr.,France,British Africa
+220,2005,1939,0,1000,Mille Fr.,France,British Africa
+220,2005,1940,0,1000,Mille Fr.,France,British Africa
+220,2005,1941,0,1000,Mille Fr.,France,British Africa
+220,2005,1942,0,1000,Mille Fr.,France,British Africa
+220,2005,1943,0,1000,,France,British Africa
+220,2005,1944,0,1000,Mille Fr.,France,British Africa
+220,2005,1945,0,1000,Mille Fr.,France,British Africa
+220,2005,1946,0,1000,Mille Francs,France,British Africa
+220,2005,1947,0,1000,Mille Francs,France,British Africa
+220,2005,1948,0,1000,Mille Francs,France,British Africa
+220,2005,1949,3007909,1000,Mille Francs,France,British Africa
+220,2355,1919,0,1000,,France,Portuguese Africa
+220,2355,1920,0,1000,,France,Portuguese Africa
+220,2355,1921,0,1000,,France,Portuguese Africa
+220,2355,1922,0,1000,,France,Portuguese Africa
+220,2355,1923,0,1000,,France,Portuguese Africa
+220,2355,1924,0,1000,,France,Portuguese Africa
+220,2355,1925,0,1000,,France,Portuguese Africa
+220,2355,1926,0,1000,,France,Portuguese Africa
+220,2355,1927,0,1000,,France,Portuguese Africa
+220,2355,1928,0,1000,,France,Portuguese Africa
+220,2355,1929,0,1000,,France,Portuguese Africa
+220,2355,1930,0,1000,,France,Portuguese Africa
+220,2355,1931,0,1000,,France,Portuguese Africa
+220,2355,1932,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1933,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1934,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1935,0,1000,Milliers De Francs,France,Portuguese Africa
+220,2355,1936,0,1000,Milliers De Francs,France,Portuguese Africa
+220,2355,1937,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1938,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1939,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1940,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1941,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1942,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1943,0,1000,,France,Portuguese Africa
+220,2355,1944,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1945,0,1000,Mille Fr.,France,Portuguese Africa
+220,2355,1946,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1947,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1948,0,1000,Mille Francs,France,Portuguese Africa
+220,2355,1949,2076151,1000,Mille Francs,France,Portuguese Africa
+220,6203,1919,1277,1000,,France,Tripoli
+220,6203,1920,128,1000,,France,Tripoli
+220,6203,1921,82,1000,,France,Tripoli
+220,6203,1922,1315,1000,,France,Tripoli
+220,6203,1923,2370,1000,,France,Tripoli
+220,6203,1924,4306,1000,,France,Tripoli
+220,6203,1925,2682,1000,,France,Tripoli
+220,6203,1926,3842,1000,,France,Tripoli
+220,6203,1927,1181,1000,,France,Tripoli
+220,6203,1928,3478,1000,,France,Tripoli
+220,6203,1929,1398,1000,,France,Tripoli
+220,6203,1930,435,1000,,France,Tripoli
+220,6203,1931,0,1000,,France,Tripoli
+220,6203,1932,0,1000,Mille Francs,France,Tripoli
+220,6203,1933,0,1000,Mille Francs,France,Tripoli
+220,6203,1934,0,1000,Mille Francs,France,Tripoli
+220,6203,1935,0,1000,Milliers De Francs,France,Tripoli
+220,6203,1936,0,1000,Milliers De Francs,France,Tripoli
+220,6203,1937,0,1000,Mille Francs,France,Tripoli
+220,6203,1938,0,1000,Mille Fr.,France,Tripoli
+220,6203,1939,0,1000,Mille Fr.,France,Tripoli
+220,6203,1940,0,1000,Mille Fr.,France,Tripoli
+220,6203,1941,0,1000,Mille Fr.,France,Tripoli
+220,6203,1942,0,1000,Mille Fr.,France,Tripoli
+220,6203,1943,0,1000,,France,Tripoli
+220,6203,1944,0,1000,Mille Fr.,France,Tripoli
+220,6203,1945,0,1000,Mille Fr.,France,Tripoli
+220,6203,1946,0,1000,Mille Francs,France,Tripoli
+220,6203,1947,0,1000,Mille Francs,France,Tripoli
+220,6203,1948,0,1000,Mille Francs,France,Tripoli
+220,6203,1949,0,1000,Mille Francs,France,Tripoli
+220,,1919,72600622,1000,,France,
+220,,1920,100899132,1000,,France,
+220,,1921,46116249,1000,,France,
+220,,1922,49141924,1000,,France,
+220,,1923,66821078,1000,,France,
+220,,1924,81971315,1000,,France,
+220,,1925,91178854,1000,,France,
+220,,1926,122258244,1000,,France,
+220,,1927,108960147,1000,,France,
+220,,1928,110010567,1000,,France,
+220,,1929,118081909,1000,,France,
+220,,1930,106055627,1000,,France,
+220,,1931,85311334,1000,,France,
+220,,1932,60895501,1000,Mille Francs,France,
+220,,1933,58033371,1000,Mille Francs,France,
+220,,1934,47263321,1000,Mille Francs,France,
+220,,1935,42897667,1000,Milliers De Francs,France,
+220,,1936,52146130,1000,Milliers De Francs,France,
+220,,1937,86681397,1000,Mille Francs,France,
+220,,1938,94230976,1000,Mille Fr.,France,
+220,,1939,89759892,1000,Mille Fr.,France,
+220,,1940,94633340,1000,Mille Fr.,France,
+220,,1941,52905797,1000,Mille Fr.,France,
+220,,1942,54453255,1000,Mille Fr.,France,
+220,,1943,28020322,1000,,France,
+220,,1944,19620236,1000,Mille Fr.,France,
+220,,1945,116781908,1000,Mille Fr.,France,
+220,,1946,544160352,1000,Mille Francs,France,
+220,,1947,821165094,1000,Mille Francs,France,
+220,,1948,1406292527,1000,Mille Francs,France,
+220,,1949,1923957017,1000,Mille Francs,France,

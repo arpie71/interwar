@@ -1,0 +1,3473 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+110,2,1918,7252721,1,$,Guyana,United States
+110,2,1919,5927202,1,$,Guyana,United States
+110,2,1920,7537748,1,$,Guyana,United States
+110,2,1921,3909543,1,$,Guyana,United States
+110,2,1922,2222064,1,$,Guyana,United States
+110,2,1923,2002710,1,$,Guyana,United States
+110,2,1924,1891511,1,$,Guyana,United States
+110,2,1925,2144314,1,,Guyana,United States
+110,2,1926,1900762,1,,Guyana,United States
+110,2,1927,1658819,1,,Guyana,United States
+110,2,1928,1436803,1,,Guyana,United States
+110,2,1929,1316183,1,,Guyana,United States
+110,2,1930,1078637,1,,Guyana,United States
+110,2,1931,848375,1,$,Guyana,United States
+110,2,1932,561584,1,$,Guyana,United States
+110,2,1933,547305,1,$,Guyana,United States
+110,2,1934,619769,1,$,Guyana,United States
+110,2,1935,803245,1,$,Guyana,United States
+110,2,1936,823962,1,$,Guyana,United States
+110,2,1937,1129439,1,$,Guyana,United States
+110,2,1938,1209308,1,$,Guyana,United States
+110,2,1939,1545249,1,$,Guyana,United States
+110,2,1940,2675177,1,$,Guyana,United States
+110,2,1941,3724770,1,$,Guyana,United States
+110,2,1942,5799702,1,$,Guyana,United States
+110,2,1944,5859449,1,,Guyana,United States
+110,2,1945,5069817,1,,Guyana,United States
+110,2,1946,4692299,1,,Guyana,United States
+110,2,1947,10433083,1,$,Guyana,United States
+110,2,1948,9706889,1,,Guyana,United States
+110,2,1949,7308050,1,,Guyana,United States
+110,4,1918,0,1,$,Guyana,Hawaii
+110,4,1919,0,1,$,Guyana,Hawaii
+110,4,1920,0,1,$,Guyana,Hawaii
+110,4,1921,0,1,$,Guyana,Hawaii
+110,4,1922,0,1,$,Guyana,Hawaii
+110,4,1923,0,1,$,Guyana,Hawaii
+110,4,1924,0,1,$,Guyana,Hawaii
+110,4,1925,0,1,,Guyana,Hawaii
+110,4,1926,0,1,,Guyana,Hawaii
+110,4,1927,0,1,,Guyana,Hawaii
+110,4,1928,0,1,,Guyana,Hawaii
+110,4,1929,0,1,,Guyana,Hawaii
+110,4,1930,0,1,,Guyana,Hawaii
+110,4,1931,0,1,$,Guyana,Hawaii
+110,4,1932,0,1,$,Guyana,Hawaii
+110,4,1933,0,1,$,Guyana,Hawaii
+110,4,1934,0,1,$,Guyana,Hawaii
+110,4,1935,0,1,$,Guyana,Hawaii
+110,4,1936,0,1,$,Guyana,Hawaii
+110,4,1937,0,1,$,Guyana,Hawaii
+110,4,1938,0,1,$,Guyana,Hawaii
+110,4,1939,0,1,$,Guyana,Hawaii
+110,4,1940,0,1,$,Guyana,Hawaii
+110,4,1941,0,1,$,Guyana,Hawaii
+110,4,1942,0,1,$,Guyana,Hawaii
+110,4,1944,0,1,,Guyana,Hawaii
+110,4,1945,209,1,,Guyana,Hawaii
+110,4,1946,0,1,,Guyana,Hawaii
+110,4,1947,0,1,$,Guyana,Hawaii
+110,4,1948,0,1,,Guyana,Hawaii
+110,4,1949,0,1,,Guyana,Hawaii
+110,5,1918,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1919,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1920,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1921,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1922,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1923,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1924,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1925,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1926,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1927,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1928,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1929,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1930,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1931,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1932,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1933,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1934,39,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1935,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1936,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1937,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1938,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1939,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1940,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1941,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1942,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1944,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1945,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1946,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1947,0,1,$,Guyana,"Virgin Islands, U.S."
+110,5,1948,0,1,,Guyana,"Virgin Islands, U.S."
+110,5,1949,0,1,,Guyana,"Virgin Islands, U.S."
+110,6,1918,0,1,$,Guyana,Puerto Rico
+110,6,1919,0,1,$,Guyana,Puerto Rico
+110,6,1920,0,1,$,Guyana,Puerto Rico
+110,6,1921,0,1,$,Guyana,Puerto Rico
+110,6,1922,0,1,$,Guyana,Puerto Rico
+110,6,1923,0,1,$,Guyana,Puerto Rico
+110,6,1924,0,1,$,Guyana,Puerto Rico
+110,6,1925,0,1,,Guyana,Puerto Rico
+110,6,1926,0,1,,Guyana,Puerto Rico
+110,6,1927,0,1,,Guyana,Puerto Rico
+110,6,1928,0,1,,Guyana,Puerto Rico
+110,6,1929,0,1,,Guyana,Puerto Rico
+110,6,1930,0,1,,Guyana,Puerto Rico
+110,6,1931,0,1,$,Guyana,Puerto Rico
+110,6,1932,0,1,$,Guyana,Puerto Rico
+110,6,1933,0,1,$,Guyana,Puerto Rico
+110,6,1934,0,1,$,Guyana,Puerto Rico
+110,6,1935,0,1,$,Guyana,Puerto Rico
+110,6,1936,0,1,$,Guyana,Puerto Rico
+110,6,1937,0,1,$,Guyana,Puerto Rico
+110,6,1938,0,1,$,Guyana,Puerto Rico
+110,6,1939,106,1,$,Guyana,Puerto Rico
+110,6,1940,0,1,$,Guyana,Puerto Rico
+110,6,1941,18,1,$,Guyana,Puerto Rico
+110,6,1942,0,1,$,Guyana,Puerto Rico
+110,6,1944,5784,1,,Guyana,Puerto Rico
+110,6,1945,0,1,,Guyana,Puerto Rico
+110,6,1946,0,1,,Guyana,Puerto Rico
+110,6,1947,103,1,$,Guyana,Puerto Rico
+110,6,1948,0,1,,Guyana,Puerto Rico
+110,6,1949,76,1,,Guyana,Puerto Rico
+110,20,1918,2612080,1,$,Guyana,Canada
+110,20,1919,3454920,1,$,Guyana,Canada
+110,20,1920,3974447,1,$,Guyana,Canada
+110,20,1921,2927694,1,$,Guyana,Canada
+110,20,1922,2376883,1,$,Guyana,Canada
+110,20,1923,2661740,1,$,Guyana,Canada
+110,20,1924,2671177,1,$,Guyana,Canada
+110,20,1925,2877169,1,,Guyana,Canada
+110,20,1926,2961310,1,,Guyana,Canada
+110,20,1927,2582761,1,,Guyana,Canada
+110,20,1928,2636165,1,,Guyana,Canada
+110,20,1929,1996092,1,,Guyana,Canada
+110,20,1930,1491032,1,,Guyana,Canada
+110,20,1931,1100228,1,$,Guyana,Canada
+110,20,1932,993925,1,$,Guyana,Canada
+110,20,1933,1078049,1,$,Guyana,Canada
+110,20,1934,1098756,1,$,Guyana,Canada
+110,20,1935,1299794,1,$,Guyana,Canada
+110,20,1936,1314055,1,$,Guyana,Canada
+110,20,1937,1655604,1,$,Guyana,Canada
+110,20,1938,1567318,1,$,Guyana,Canada
+110,20,1939,1950679,1,$,Guyana,Canada
+110,20,1940,3274028,1,$,Guyana,Canada
+110,20,1941,6627102,1,$,Guyana,Canada
+110,20,1942,6481911,1,$,Guyana,Canada
+110,20,1944,8333522,1,,Guyana,Canada
+110,20,1945,8744058,1,,Guyana,Canada
+110,20,1946,9560792,1,,Guyana,Canada
+110,20,1947,13499249,1,$,Guyana,Canada
+110,20,1948,11280256,1,,Guyana,Canada
+110,20,1949,7798238,1,,Guyana,Canada
+110,21,1918,0,1,$,Guyana,Newfoundland
+110,21,1919,0,1,$,Guyana,Newfoundland
+110,21,1920,0,1,$,Guyana,Newfoundland
+110,21,1921,17385,1,$,Guyana,Newfoundland
+110,21,1922,10018,1,$,Guyana,Newfoundland
+110,21,1923,1086,1,$,Guyana,Newfoundland
+110,21,1924,1753,1,$,Guyana,Newfoundland
+110,21,1925,1295,1,,Guyana,Newfoundland
+110,21,1926,594,1,,Guyana,Newfoundland
+110,21,1927,8690,1,,Guyana,Newfoundland
+110,21,1928,8626,1,,Guyana,Newfoundland
+110,21,1929,1044,1,,Guyana,Newfoundland
+110,21,1930,912,1,,Guyana,Newfoundland
+110,21,1931,0,1,$,Guyana,Newfoundland
+110,21,1932,0,1,$,Guyana,Newfoundland
+110,21,1933,0,1,$,Guyana,Newfoundland
+110,21,1934,0,1,$,Guyana,Newfoundland
+110,21,1935,122,1,$,Guyana,Newfoundland
+110,21,1936,4597,1,$,Guyana,Newfoundland
+110,21,1937,6036,1,$,Guyana,Newfoundland
+110,21,1938,6696,1,$,Guyana,Newfoundland
+110,21,1939,11047,1,$,Guyana,Newfoundland
+110,21,1940,48447,1,$,Guyana,Newfoundland
+110,21,1941,67992,1,$,Guyana,Newfoundland
+110,21,1942,88497,1,$,Guyana,Newfoundland
+110,21,1944,187290,1,,Guyana,Newfoundland
+110,21,1945,183743,1,,Guyana,Newfoundland
+110,21,1946,142074,1,,Guyana,Newfoundland
+110,21,1947,139165,1,$,Guyana,Newfoundland
+110,21,1948,101460,1,,Guyana,Newfoundland
+110,21,1949,1273,1,,Guyana,Newfoundland
+110,30,1918,22897,1,$,Guyana,Bermuda
+110,30,1919,24810,1,$,Guyana,Bermuda
+110,30,1920,21383,1,$,Guyana,Bermuda
+110,30,1921,25542,1,$,Guyana,Bermuda
+110,30,1922,19905,1,$,Guyana,Bermuda
+110,30,1923,2504,1,$,Guyana,Bermuda
+110,30,1924,473,1,$,Guyana,Bermuda
+110,30,1925,2072,1,,Guyana,Bermuda
+110,30,1926,23,1,,Guyana,Bermuda
+110,30,1927,865,1,,Guyana,Bermuda
+110,30,1928,4038,1,,Guyana,Bermuda
+110,30,1929,1076,1,,Guyana,Bermuda
+110,30,1930,0,1,,Guyana,Bermuda
+110,30,1931,519,1,$,Guyana,Bermuda
+110,30,1932,293,1,$,Guyana,Bermuda
+110,30,1933,212,1,$,Guyana,Bermuda
+110,30,1934,37,1,$,Guyana,Bermuda
+110,30,1935,2244,1,$,Guyana,Bermuda
+110,30,1936,639,1,$,Guyana,Bermuda
+110,30,1937,1137,1,$,Guyana,Bermuda
+110,30,1938,2195,1,$,Guyana,Bermuda
+110,30,1939,1284,1,$,Guyana,Bermuda
+110,30,1940,7359,1,$,Guyana,Bermuda
+110,30,1941,5055,1,$,Guyana,Bermuda
+110,30,1942,0,1,$,Guyana,Bermuda
+110,30,1944,0,1,,Guyana,Bermuda
+110,30,1945,0,1,,Guyana,Bermuda
+110,30,1946,2970,1,,Guyana,Bermuda
+110,30,1947,12,1,$,Guyana,Bermuda
+110,30,1948,7370,1,,Guyana,Bermuda
+110,30,1949,627,1,,Guyana,Bermuda
+110,31,1918,0,1,$,Guyana,Bahamas
+110,31,1919,0,1,$,Guyana,Bahamas
+110,31,1920,0,1,$,Guyana,Bahamas
+110,31,1921,0,1,$,Guyana,Bahamas
+110,31,1922,0,1,$,Guyana,Bahamas
+110,31,1923,0,1,$,Guyana,Bahamas
+110,31,1924,0,1,$,Guyana,Bahamas
+110,31,1925,0,1,,Guyana,Bahamas
+110,31,1926,0,1,,Guyana,Bahamas
+110,31,1927,0,1,,Guyana,Bahamas
+110,31,1928,30,1,,Guyana,Bahamas
+110,31,1929,0,1,,Guyana,Bahamas
+110,31,1930,0,1,,Guyana,Bahamas
+110,31,1931,0,1,$,Guyana,Bahamas
+110,31,1932,0,1,$,Guyana,Bahamas
+110,31,1933,0,1,$,Guyana,Bahamas
+110,31,1934,0,1,$,Guyana,Bahamas
+110,31,1935,0,1,$,Guyana,Bahamas
+110,31,1936,0,1,$,Guyana,Bahamas
+110,31,1937,0,1,$,Guyana,Bahamas
+110,31,1938,0,1,$,Guyana,Bahamas
+110,31,1939,0,1,$,Guyana,Bahamas
+110,31,1940,0,1,$,Guyana,Bahamas
+110,31,1941,27,1,$,Guyana,Bahamas
+110,31,1942,0,1,$,Guyana,Bahamas
+110,31,1944,975,1,,Guyana,Bahamas
+110,31,1945,200,1,,Guyana,Bahamas
+110,31,1946,16,1,,Guyana,Bahamas
+110,31,1947,0,1,$,Guyana,Bahamas
+110,31,1948,0,1,,Guyana,Bahamas
+110,31,1949,19370,1,,Guyana,Bahamas
+110,40,1918,0,1,$,Guyana,Cuba
+110,40,1919,0,1,$,Guyana,Cuba
+110,40,1920,0,1,$,Guyana,Cuba
+110,40,1921,0,1,$,Guyana,Cuba
+110,40,1922,0,1,$,Guyana,Cuba
+110,40,1923,0,1,$,Guyana,Cuba
+110,40,1924,0,1,$,Guyana,Cuba
+110,40,1925,0,1,,Guyana,Cuba
+110,40,1926,0,1,,Guyana,Cuba
+110,40,1927,0,1,,Guyana,Cuba
+110,40,1928,0,1,,Guyana,Cuba
+110,40,1929,0,1,,Guyana,Cuba
+110,40,1930,0,1,,Guyana,Cuba
+110,40,1931,0,1,$,Guyana,Cuba
+110,40,1932,0,1,$,Guyana,Cuba
+110,40,1933,0,1,$,Guyana,Cuba
+110,40,1934,0,1,$,Guyana,Cuba
+110,40,1935,0,1,$,Guyana,Cuba
+110,40,1936,0,1,$,Guyana,Cuba
+110,40,1937,0,1,$,Guyana,Cuba
+110,40,1938,0,1,$,Guyana,Cuba
+110,40,1939,0,1,$,Guyana,Cuba
+110,40,1940,0,1,$,Guyana,Cuba
+110,40,1941,14,1,$,Guyana,Cuba
+110,40,1942,0,1,$,Guyana,Cuba
+110,40,1944,1669,1,,Guyana,Cuba
+110,40,1945,507,1,,Guyana,Cuba
+110,40,1946,815,1,,Guyana,Cuba
+110,40,1947,1028,1,$,Guyana,Cuba
+110,40,1948,12,1,,Guyana,Cuba
+110,40,1949,260,1,,Guyana,Cuba
+110,41,1918,0,1,$,Guyana,Haiti
+110,41,1919,0,1,$,Guyana,Haiti
+110,41,1920,0,1,$,Guyana,Haiti
+110,41,1921,0,1,$,Guyana,Haiti
+110,41,1922,0,1,$,Guyana,Haiti
+110,41,1923,0,1,$,Guyana,Haiti
+110,41,1924,0,1,$,Guyana,Haiti
+110,41,1925,0,1,,Guyana,Haiti
+110,41,1926,0,1,,Guyana,Haiti
+110,41,1927,0,1,,Guyana,Haiti
+110,41,1928,0,1,,Guyana,Haiti
+110,41,1929,0,1,,Guyana,Haiti
+110,41,1930,0,1,,Guyana,Haiti
+110,41,1931,0,1,$,Guyana,Haiti
+110,41,1932,0,1,$,Guyana,Haiti
+110,41,1933,0,1,$,Guyana,Haiti
+110,41,1934,445,1,$,Guyana,Haiti
+110,41,1935,108,1,$,Guyana,Haiti
+110,41,1936,495,1,$,Guyana,Haiti
+110,41,1937,435,1,$,Guyana,Haiti
+110,41,1938,293,1,$,Guyana,Haiti
+110,41,1939,1252,1,$,Guyana,Haiti
+110,41,1940,1120,1,$,Guyana,Haiti
+110,41,1941,1202,1,$,Guyana,Haiti
+110,41,1942,611,1,$,Guyana,Haiti
+110,41,1944,2217,1,,Guyana,Haiti
+110,41,1945,11995,1,,Guyana,Haiti
+110,41,1946,1020,1,,Guyana,Haiti
+110,41,1947,530,1,$,Guyana,Haiti
+110,41,1948,58,1,,Guyana,Haiti
+110,41,1949,20,1,,Guyana,Haiti
+110,42,1918,0,1,$,Guyana,Dominican Republic
+110,42,1919,0,1,$,Guyana,Dominican Republic
+110,42,1920,0,1,$,Guyana,Dominican Republic
+110,42,1921,0,1,$,Guyana,Dominican Republic
+110,42,1922,0,1,$,Guyana,Dominican Republic
+110,42,1923,0,1,$,Guyana,Dominican Republic
+110,42,1924,0,1,$,Guyana,Dominican Republic
+110,42,1925,0,1,,Guyana,Dominican Republic
+110,42,1926,0,1,,Guyana,Dominican Republic
+110,42,1927,0,1,,Guyana,Dominican Republic
+110,42,1928,0,1,,Guyana,Dominican Republic
+110,42,1929,0,1,,Guyana,Dominican Republic
+110,42,1930,0,1,,Guyana,Dominican Republic
+110,42,1931,0,1,$,Guyana,Dominican Republic
+110,42,1932,0,1,$,Guyana,Dominican Republic
+110,42,1933,0,1,$,Guyana,Dominican Republic
+110,42,1934,0,1,$,Guyana,Dominican Republic
+110,42,1935,45,1,$,Guyana,Dominican Republic
+110,42,1936,270,1,$,Guyana,Dominican Republic
+110,42,1937,165,1,$,Guyana,Dominican Republic
+110,42,1938,0,1,$,Guyana,Dominican Republic
+110,42,1939,162,1,$,Guyana,Dominican Republic
+110,42,1940,0,1,$,Guyana,Dominican Republic
+110,42,1941,422,1,$,Guyana,Dominican Republic
+110,42,1942,0,1,$,Guyana,Dominican Republic
+110,42,1944,0,1,,Guyana,Dominican Republic
+110,42,1945,0,1,,Guyana,Dominican Republic
+110,42,1946,0,1,,Guyana,Dominican Republic
+110,42,1947,0,1,$,Guyana,Dominican Republic
+110,42,1948,0,1,,Guyana,Dominican Republic
+110,42,1949,0,1,,Guyana,Dominican Republic
+110,68,1918,0,1,$,Guyana,Netherlands Antilles
+110,68,1919,0,1,$,Guyana,Netherlands Antilles
+110,68,1920,0,1,$,Guyana,Netherlands Antilles
+110,68,1921,11435,1,$,Guyana,Netherlands Antilles
+110,68,1922,72448,1,$,Guyana,Netherlands Antilles
+110,68,1923,12183,1,$,Guyana,Netherlands Antilles
+110,68,1924,5983,1,$,Guyana,Netherlands Antilles
+110,68,1925,8592,1,,Guyana,Netherlands Antilles
+110,68,1926,8944,1,,Guyana,Netherlands Antilles
+110,68,1927,8298,1,,Guyana,Netherlands Antilles
+110,68,1928,2347,1,,Guyana,Netherlands Antilles
+110,68,1929,1079,1,,Guyana,Netherlands Antilles
+110,68,1930,452,1,,Guyana,Netherlands Antilles
+110,68,1931,2550,1,$,Guyana,Netherlands Antilles
+110,68,1932,1861,1,$,Guyana,Netherlands Antilles
+110,68,1933,2957,1,$,Guyana,Netherlands Antilles
+110,68,1934,3989,1,$,Guyana,Netherlands Antilles
+110,68,1935,1623,1,$,Guyana,Netherlands Antilles
+110,68,1936,1028,1,$,Guyana,Netherlands Antilles
+110,68,1937,99,1,$,Guyana,Netherlands Antilles
+110,68,1938,16640,1,$,Guyana,Netherlands Antilles
+110,68,1939,17352,1,$,Guyana,Netherlands Antilles
+110,68,1940,11696,1,$,Guyana,Netherlands Antilles
+110,68,1941,11226,1,$,Guyana,Netherlands Antilles
+110,68,1942,20512,1,$,Guyana,Netherlands Antilles
+110,68,1944,19691,1,,Guyana,Netherlands Antilles
+110,68,1945,15497,1,,Guyana,Netherlands Antilles
+110,68,1946,11470,1,,Guyana,Netherlands Antilles
+110,68,1947,8749,1,$,Guyana,Netherlands Antilles
+110,68,1948,56391,1,,Guyana,Netherlands Antilles
+110,68,1949,26778,1,,Guyana,Netherlands Antilles
+110,70,1918,0,1,$,Guyana,Mexico
+110,70,1919,0,1,$,Guyana,Mexico
+110,70,1920,0,1,$,Guyana,Mexico
+110,70,1921,0,1,$,Guyana,Mexico
+110,70,1922,0,1,$,Guyana,Mexico
+110,70,1923,0,1,$,Guyana,Mexico
+110,70,1924,0,1,$,Guyana,Mexico
+110,70,1925,0,1,,Guyana,Mexico
+110,70,1926,0,1,,Guyana,Mexico
+110,70,1927,0,1,,Guyana,Mexico
+110,70,1928,0,1,,Guyana,Mexico
+110,70,1929,0,1,,Guyana,Mexico
+110,70,1930,0,1,,Guyana,Mexico
+110,70,1931,0,1,$,Guyana,Mexico
+110,70,1932,0,1,$,Guyana,Mexico
+110,70,1933,0,1,$,Guyana,Mexico
+110,70,1934,2395,1,$,Guyana,Mexico
+110,70,1935,8544,1,$,Guyana,Mexico
+110,70,1936,9784,1,$,Guyana,Mexico
+110,70,1937,6516,1,$,Guyana,Mexico
+110,70,1938,5227,1,$,Guyana,Mexico
+110,70,1939,5133,1,$,Guyana,Mexico
+110,70,1940,2429,1,$,Guyana,Mexico
+110,70,1941,17891,1,$,Guyana,Mexico
+110,70,1942,5103,1,$,Guyana,Mexico
+110,70,1944,13787,1,,Guyana,Mexico
+110,70,1945,11712,1,,Guyana,Mexico
+110,70,1946,22424,1,,Guyana,Mexico
+110,70,1947,90817,1,$,Guyana,Mexico
+110,70,1948,87239,1,,Guyana,Mexico
+110,70,1949,29489,1,,Guyana,Mexico
+110,80,1918,0,1,$,Guyana,Belize
+110,80,1919,0,1,$,Guyana,Belize
+110,80,1920,0,1,$,Guyana,Belize
+110,80,1921,0,1,$,Guyana,Belize
+110,80,1922,0,1,$,Guyana,Belize
+110,80,1923,0,1,$,Guyana,Belize
+110,80,1924,0,1,$,Guyana,Belize
+110,80,1925,0,1,,Guyana,Belize
+110,80,1926,1230,1,,Guyana,Belize
+110,80,1927,0,1,,Guyana,Belize
+110,80,1928,21,1,,Guyana,Belize
+110,80,1929,0,1,,Guyana,Belize
+110,80,1930,0,1,,Guyana,Belize
+110,80,1931,0,1,$,Guyana,Belize
+110,80,1932,0,1,$,Guyana,Belize
+110,80,1933,0,1,$,Guyana,Belize
+110,80,1934,0,1,$,Guyana,Belize
+110,80,1935,0,1,$,Guyana,Belize
+110,80,1936,0,1,$,Guyana,Belize
+110,80,1937,50,1,$,Guyana,Belize
+110,80,1938,61,1,$,Guyana,Belize
+110,80,1939,55,1,$,Guyana,Belize
+110,80,1940,48,1,$,Guyana,Belize
+110,80,1941,0,1,$,Guyana,Belize
+110,80,1942,0,1,$,Guyana,Belize
+110,80,1944,0,1,,Guyana,Belize
+110,80,1945,357,1,,Guyana,Belize
+110,80,1946,1000,1,,Guyana,Belize
+110,80,1947,0,1,$,Guyana,Belize
+110,80,1948,0,1,,Guyana,Belize
+110,80,1949,0,1,,Guyana,Belize
+110,90,1918,0,1,$,Guyana,Guatemala
+110,90,1919,0,1,$,Guyana,Guatemala
+110,90,1920,0,1,$,Guyana,Guatemala
+110,90,1921,0,1,$,Guyana,Guatemala
+110,90,1922,0,1,$,Guyana,Guatemala
+110,90,1923,0,1,$,Guyana,Guatemala
+110,90,1924,0,1,$,Guyana,Guatemala
+110,90,1925,0,1,,Guyana,Guatemala
+110,90,1926,0,1,,Guyana,Guatemala
+110,90,1927,0,1,,Guyana,Guatemala
+110,90,1928,0,1,,Guyana,Guatemala
+110,90,1929,0,1,,Guyana,Guatemala
+110,90,1930,0,1,,Guyana,Guatemala
+110,90,1931,0,1,$,Guyana,Guatemala
+110,90,1932,0,1,$,Guyana,Guatemala
+110,90,1933,0,1,$,Guyana,Guatemala
+110,90,1934,0,1,$,Guyana,Guatemala
+110,90,1935,0,1,$,Guyana,Guatemala
+110,90,1936,0,1,$,Guyana,Guatemala
+110,90,1937,0,1,$,Guyana,Guatemala
+110,90,1938,0,1,$,Guyana,Guatemala
+110,90,1939,0,1,$,Guyana,Guatemala
+110,90,1940,0,1,$,Guyana,Guatemala
+110,90,1941,0,1,$,Guyana,Guatemala
+110,90,1942,0,1,$,Guyana,Guatemala
+110,90,1944,43167,1,,Guyana,Guatemala
+110,90,1945,50573,1,,Guyana,Guatemala
+110,90,1946,27672,1,,Guyana,Guatemala
+110,90,1947,952,1,$,Guyana,Guatemala
+110,90,1948,2738,1,,Guyana,Guatemala
+110,90,1949,1372,1,,Guyana,Guatemala
+110,92,1918,0,1,$,Guyana,El Salvador
+110,92,1919,0,1,$,Guyana,El Salvador
+110,92,1920,0,1,$,Guyana,El Salvador
+110,92,1921,0,1,$,Guyana,El Salvador
+110,92,1922,0,1,$,Guyana,El Salvador
+110,92,1923,0,1,$,Guyana,El Salvador
+110,92,1924,0,1,$,Guyana,El Salvador
+110,92,1925,0,1,,Guyana,El Salvador
+110,92,1926,0,1,,Guyana,El Salvador
+110,92,1927,0,1,,Guyana,El Salvador
+110,92,1928,0,1,,Guyana,El Salvador
+110,92,1929,0,1,,Guyana,El Salvador
+110,92,1930,0,1,,Guyana,El Salvador
+110,92,1931,0,1,$,Guyana,El Salvador
+110,92,1932,0,1,$,Guyana,El Salvador
+110,92,1933,0,1,$,Guyana,El Salvador
+110,92,1934,0,1,$,Guyana,El Salvador
+110,92,1935,0,1,$,Guyana,El Salvador
+110,92,1936,0,1,$,Guyana,El Salvador
+110,92,1937,0,1,$,Guyana,El Salvador
+110,92,1938,0,1,$,Guyana,El Salvador
+110,92,1939,0,1,$,Guyana,El Salvador
+110,92,1940,0,1,$,Guyana,El Salvador
+110,92,1941,23,1,$,Guyana,El Salvador
+110,92,1942,0,1,$,Guyana,El Salvador
+110,92,1944,0,1,,Guyana,El Salvador
+110,92,1945,0,1,,Guyana,El Salvador
+110,92,1946,12,1,,Guyana,El Salvador
+110,92,1947,12,1,$,Guyana,El Salvador
+110,92,1948,10,1,,Guyana,El Salvador
+110,92,1949,0,1,,Guyana,El Salvador
+110,93,1918,0,1,$,Guyana,Nicaragua
+110,93,1919,0,1,$,Guyana,Nicaragua
+110,93,1920,0,1,$,Guyana,Nicaragua
+110,93,1921,0,1,$,Guyana,Nicaragua
+110,93,1922,0,1,$,Guyana,Nicaragua
+110,93,1923,0,1,$,Guyana,Nicaragua
+110,93,1924,0,1,$,Guyana,Nicaragua
+110,93,1925,0,1,,Guyana,Nicaragua
+110,93,1926,0,1,,Guyana,Nicaragua
+110,93,1927,0,1,,Guyana,Nicaragua
+110,93,1928,0,1,,Guyana,Nicaragua
+110,93,1929,0,1,,Guyana,Nicaragua
+110,93,1930,0,1,,Guyana,Nicaragua
+110,93,1931,0,1,$,Guyana,Nicaragua
+110,93,1932,0,1,$,Guyana,Nicaragua
+110,93,1933,0,1,$,Guyana,Nicaragua
+110,93,1934,0,1,$,Guyana,Nicaragua
+110,93,1935,0,1,$,Guyana,Nicaragua
+110,93,1936,0,1,$,Guyana,Nicaragua
+110,93,1937,0,1,$,Guyana,Nicaragua
+110,93,1938,0,1,$,Guyana,Nicaragua
+110,93,1939,0,1,$,Guyana,Nicaragua
+110,93,1940,0,1,$,Guyana,Nicaragua
+110,93,1941,0,1,$,Guyana,Nicaragua
+110,93,1942,0,1,$,Guyana,Nicaragua
+110,93,1944,0,1,,Guyana,Nicaragua
+110,93,1945,0,1,,Guyana,Nicaragua
+110,93,1946,0,1,,Guyana,Nicaragua
+110,93,1947,0,1,$,Guyana,Nicaragua
+110,93,1948,0,1,,Guyana,Nicaragua
+110,93,1949,15,1,,Guyana,Nicaragua
+110,95,1918,0,1,$,Guyana,Panama
+110,95,1919,0,1,$,Guyana,Panama
+110,95,1920,0,1,$,Guyana,Panama
+110,95,1921,0,1,$,Guyana,Panama
+110,95,1922,0,1,$,Guyana,Panama
+110,95,1923,0,1,$,Guyana,Panama
+110,95,1924,0,1,$,Guyana,Panama
+110,95,1925,0,1,,Guyana,Panama
+110,95,1926,0,1,,Guyana,Panama
+110,95,1927,0,1,,Guyana,Panama
+110,95,1928,0,1,,Guyana,Panama
+110,95,1929,0,1,,Guyana,Panama
+110,95,1930,0,1,,Guyana,Panama
+110,95,1931,0,1,$,Guyana,Panama
+110,95,1932,0,1,$,Guyana,Panama
+110,95,1933,0,1,$,Guyana,Panama
+110,95,1934,300,1,$,Guyana,Panama
+110,95,1935,792,1,$,Guyana,Panama
+110,95,1936,0,1,$,Guyana,Panama
+110,95,1937,0,1,$,Guyana,Panama
+110,95,1938,0,1,$,Guyana,Panama
+110,95,1939,14,1,$,Guyana,Panama
+110,95,1940,8623,1,$,Guyana,Panama
+110,95,1941,0,1,$,Guyana,Panama
+110,95,1942,40,1,$,Guyana,Panama
+110,95,1944,0,1,,Guyana,Panama
+110,95,1945,270,1,,Guyana,Panama
+110,95,1946,0,1,,Guyana,Panama
+110,95,1947,0,1,$,Guyana,Panama
+110,95,1948,2298,1,,Guyana,Panama
+110,95,1949,0,1,,Guyana,Panama
+110,96,1918,0,1,$,Guyana,Panama Canal Zone
+110,96,1919,0,1,$,Guyana,Panama Canal Zone
+110,96,1920,0,1,$,Guyana,Panama Canal Zone
+110,96,1921,0,1,$,Guyana,Panama Canal Zone
+110,96,1922,0,1,$,Guyana,Panama Canal Zone
+110,96,1923,0,1,$,Guyana,Panama Canal Zone
+110,96,1924,0,1,$,Guyana,Panama Canal Zone
+110,96,1925,0,1,,Guyana,Panama Canal Zone
+110,96,1926,0,1,,Guyana,Panama Canal Zone
+110,96,1927,0,1,,Guyana,Panama Canal Zone
+110,96,1928,0,1,,Guyana,Panama Canal Zone
+110,96,1929,0,1,,Guyana,Panama Canal Zone
+110,96,1930,0,1,,Guyana,Panama Canal Zone
+110,96,1931,0,1,$,Guyana,Panama Canal Zone
+110,96,1932,0,1,$,Guyana,Panama Canal Zone
+110,96,1933,0,1,$,Guyana,Panama Canal Zone
+110,96,1934,0,1,$,Guyana,Panama Canal Zone
+110,96,1935,0,1,$,Guyana,Panama Canal Zone
+110,96,1936,0,1,$,Guyana,Panama Canal Zone
+110,96,1937,0,1,$,Guyana,Panama Canal Zone
+110,96,1938,0,1,$,Guyana,Panama Canal Zone
+110,96,1939,0,1,$,Guyana,Panama Canal Zone
+110,96,1940,0,1,$,Guyana,Panama Canal Zone
+110,96,1941,0,1,$,Guyana,Panama Canal Zone
+110,96,1942,0,1,$,Guyana,Panama Canal Zone
+110,96,1944,0,1,,Guyana,Panama Canal Zone
+110,96,1945,0,1,,Guyana,Panama Canal Zone
+110,96,1946,0,1,,Guyana,Panama Canal Zone
+110,96,1947,0,1,$,Guyana,Panama Canal Zone
+110,96,1948,0,1,,Guyana,Panama Canal Zone
+110,96,1949,10,1,,Guyana,Panama Canal Zone
+110,100,1918,0,1,$,Guyana,Colombia
+110,100,1919,0,1,$,Guyana,Colombia
+110,100,1920,0,1,$,Guyana,Colombia
+110,100,1921,0,1,$,Guyana,Colombia
+110,100,1922,0,1,$,Guyana,Colombia
+110,100,1923,0,1,$,Guyana,Colombia
+110,100,1924,0,1,$,Guyana,Colombia
+110,100,1925,0,1,,Guyana,Colombia
+110,100,1926,0,1,,Guyana,Colombia
+110,100,1927,0,1,,Guyana,Colombia
+110,100,1928,0,1,,Guyana,Colombia
+110,100,1929,0,1,,Guyana,Colombia
+110,100,1930,0,1,,Guyana,Colombia
+110,100,1931,0,1,$,Guyana,Colombia
+110,100,1932,0,1,$,Guyana,Colombia
+110,100,1933,0,1,$,Guyana,Colombia
+110,100,1934,28,1,$,Guyana,Colombia
+110,100,1935,0,1,$,Guyana,Colombia
+110,100,1936,0,1,$,Guyana,Colombia
+110,100,1937,0,1,$,Guyana,Colombia
+110,100,1938,13,1,$,Guyana,Colombia
+110,100,1939,0,1,$,Guyana,Colombia
+110,100,1940,0,1,$,Guyana,Colombia
+110,100,1941,116,1,$,Guyana,Colombia
+110,100,1942,64,1,$,Guyana,Colombia
+110,100,1944,0,1,,Guyana,Colombia
+110,100,1945,0,1,,Guyana,Colombia
+110,100,1946,1122,1,,Guyana,Colombia
+110,100,1947,0,1,$,Guyana,Colombia
+110,100,1948,601,1,,Guyana,Colombia
+110,100,1949,102,1,,Guyana,Colombia
+110,101,1918,90136,1,$,Guyana,Venezuela
+110,101,1919,47912,1,$,Guyana,Venezuela
+110,101,1920,30601,1,$,Guyana,Venezuela
+110,101,1921,55160,1,$,Guyana,Venezuela
+110,101,1922,32666,1,$,Guyana,Venezuela
+110,101,1923,14185,1,$,Guyana,Venezuela
+110,101,1924,15738,1,$,Guyana,Venezuela
+110,101,1925,13042,1,,Guyana,Venezuela
+110,101,1926,16652,1,,Guyana,Venezuela
+110,101,1927,7913,1,,Guyana,Venezuela
+110,101,1928,4266,1,,Guyana,Venezuela
+110,101,1929,4477,1,,Guyana,Venezuela
+110,101,1930,1382,1,,Guyana,Venezuela
+110,101,1931,2323,1,$,Guyana,Venezuela
+110,101,1932,2665,1,$,Guyana,Venezuela
+110,101,1933,2112,1,$,Guyana,Venezuela
+110,101,1934,3147,1,$,Guyana,Venezuela
+110,101,1935,5544,1,$,Guyana,Venezuela
+110,101,1936,7416,1,$,Guyana,Venezuela
+110,101,1937,4999,1,$,Guyana,Venezuela
+110,101,1938,5204,1,$,Guyana,Venezuela
+110,101,1939,1752,1,$,Guyana,Venezuela
+110,101,1940,3037,1,$,Guyana,Venezuela
+110,101,1941,5480,1,$,Guyana,Venezuela
+110,101,1942,7410,1,$,Guyana,Venezuela
+110,101,1944,81961,1,,Guyana,Venezuela
+110,101,1945,31240,1,,Guyana,Venezuela
+110,101,1946,24282,1,,Guyana,Venezuela
+110,101,1947,263754,1,$,Guyana,Venezuela
+110,101,1948,460535,1,,Guyana,Venezuela
+110,101,1949,323379,1,,Guyana,Venezuela
+110,115,1918,179899,1,$,Guyana,Suriname
+110,115,1919,199294,1,$,Guyana,Suriname
+110,115,1920,224145,1,$,Guyana,Suriname
+110,115,1921,54422,1,$,Guyana,Suriname
+110,115,1922,34888,1,$,Guyana,Suriname
+110,115,1923,32530,1,$,Guyana,Suriname
+110,115,1924,44017,1,$,Guyana,Suriname
+110,115,1925,38241,1,,Guyana,Suriname
+110,115,1926,74752,1,,Guyana,Suriname
+110,115,1927,22719,1,,Guyana,Suriname
+110,115,1928,16680,1,,Guyana,Suriname
+110,115,1929,18496,1,,Guyana,Suriname
+110,115,1930,125050,1,,Guyana,Suriname
+110,115,1931,23494,1,$,Guyana,Suriname
+110,115,1932,10315,1,$,Guyana,Suriname
+110,115,1933,9219,1,$,Guyana,Suriname
+110,115,1934,3657,1,$,Guyana,Suriname
+110,115,1935,3139,1,$,Guyana,Suriname
+110,115,1936,12169,1,$,Guyana,Suriname
+110,115,1937,15987,1,$,Guyana,Suriname
+110,115,1938,6979,1,$,Guyana,Suriname
+110,115,1939,12432,1,$,Guyana,Suriname
+110,115,1940,11645,1,$,Guyana,Suriname
+110,115,1941,17790,1,$,Guyana,Suriname
+110,115,1942,62139,1,$,Guyana,Suriname
+110,115,1944,40620,1,,Guyana,Suriname
+110,115,1945,114474,1,,Guyana,Suriname
+110,115,1946,186637,1,,Guyana,Suriname
+110,115,1947,110571,1,$,Guyana,Suriname
+110,115,1948,48093,1,,Guyana,Suriname
+110,115,1949,56805,1,,Guyana,Suriname
+110,120,1918,19249,1,$,Guyana,French Guiana
+110,120,1919,5143,1,$,Guyana,French Guiana
+110,120,1920,24464,1,$,Guyana,French Guiana
+110,120,1921,2734,1,$,Guyana,French Guiana
+110,120,1922,1221,1,$,Guyana,French Guiana
+110,120,1923,4492,1,$,Guyana,French Guiana
+110,120,1924,889,1,$,Guyana,French Guiana
+110,120,1925,920,1,,Guyana,French Guiana
+110,120,1926,248,1,,Guyana,French Guiana
+110,120,1927,122,1,,Guyana,French Guiana
+110,120,1928,68,1,,Guyana,French Guiana
+110,120,1929,116,1,,Guyana,French Guiana
+110,120,1930,18,1,,Guyana,French Guiana
+110,120,1931,33,1,$,Guyana,French Guiana
+110,120,1932,1,1,$,Guyana,French Guiana
+110,120,1933,0,1,$,Guyana,French Guiana
+110,120,1934,0,1,$,Guyana,French Guiana
+110,120,1935,84,1,$,Guyana,French Guiana
+110,120,1936,0,1,$,Guyana,French Guiana
+110,120,1937,62,1,$,Guyana,French Guiana
+110,120,1938,0,1,$,Guyana,French Guiana
+110,120,1939,1,1,$,Guyana,French Guiana
+110,120,1940,0,1,$,Guyana,French Guiana
+110,120,1941,83,1,$,Guyana,French Guiana
+110,120,1942,0,1,$,Guyana,French Guiana
+110,120,1944,0,1,,Guyana,French Guiana
+110,120,1945,528,1,,Guyana,French Guiana
+110,120,1946,0,1,,Guyana,French Guiana
+110,120,1947,10,1,$,Guyana,French Guiana
+110,120,1948,0,1,,Guyana,French Guiana
+110,120,1949,0,1,,Guyana,French Guiana
+110,130,1918,0,1,$,Guyana,Ecuador
+110,130,1919,0,1,$,Guyana,Ecuador
+110,130,1920,0,1,$,Guyana,Ecuador
+110,130,1921,0,1,$,Guyana,Ecuador
+110,130,1922,0,1,$,Guyana,Ecuador
+110,130,1923,0,1,$,Guyana,Ecuador
+110,130,1924,0,1,$,Guyana,Ecuador
+110,130,1925,0,1,,Guyana,Ecuador
+110,130,1926,0,1,,Guyana,Ecuador
+110,130,1927,0,1,,Guyana,Ecuador
+110,130,1928,0,1,,Guyana,Ecuador
+110,130,1929,0,1,,Guyana,Ecuador
+110,130,1930,0,1,,Guyana,Ecuador
+110,130,1931,0,1,$,Guyana,Ecuador
+110,130,1932,0,1,$,Guyana,Ecuador
+110,130,1933,0,1,$,Guyana,Ecuador
+110,130,1934,0,1,$,Guyana,Ecuador
+110,130,1935,0,1,$,Guyana,Ecuador
+110,130,1936,134,1,$,Guyana,Ecuador
+110,130,1937,0,1,$,Guyana,Ecuador
+110,130,1938,0,1,$,Guyana,Ecuador
+110,130,1939,1320,1,$,Guyana,Ecuador
+110,130,1940,0,1,$,Guyana,Ecuador
+110,130,1941,0,1,$,Guyana,Ecuador
+110,130,1942,0,1,$,Guyana,Ecuador
+110,130,1944,329,1,,Guyana,Ecuador
+110,130,1945,0,1,,Guyana,Ecuador
+110,130,1946,0,1,,Guyana,Ecuador
+110,130,1947,0,1,$,Guyana,Ecuador
+110,130,1948,0,1,,Guyana,Ecuador
+110,130,1949,0,1,,Guyana,Ecuador
+110,135,1918,0,1,$,Guyana,Peru
+110,135,1919,0,1,$,Guyana,Peru
+110,135,1920,0,1,$,Guyana,Peru
+110,135,1921,0,1,$,Guyana,Peru
+110,135,1922,0,1,$,Guyana,Peru
+110,135,1923,0,1,$,Guyana,Peru
+110,135,1924,0,1,$,Guyana,Peru
+110,135,1925,0,1,,Guyana,Peru
+110,135,1926,0,1,,Guyana,Peru
+110,135,1927,0,1,,Guyana,Peru
+110,135,1928,0,1,,Guyana,Peru
+110,135,1929,0,1,,Guyana,Peru
+110,135,1930,0,1,,Guyana,Peru
+110,135,1931,0,1,$,Guyana,Peru
+110,135,1932,0,1,$,Guyana,Peru
+110,135,1933,0,1,$,Guyana,Peru
+110,135,1934,0,1,$,Guyana,Peru
+110,135,1935,0,1,$,Guyana,Peru
+110,135,1936,0,1,$,Guyana,Peru
+110,135,1937,0,1,$,Guyana,Peru
+110,135,1938,23,1,$,Guyana,Peru
+110,135,1939,0,1,$,Guyana,Peru
+110,135,1940,0,1,$,Guyana,Peru
+110,135,1941,0,1,$,Guyana,Peru
+110,135,1942,0,1,$,Guyana,Peru
+110,135,1944,213,1,,Guyana,Peru
+110,135,1945,20,1,,Guyana,Peru
+110,135,1946,0,1,,Guyana,Peru
+110,135,1947,0,1,$,Guyana,Peru
+110,135,1948,50,1,,Guyana,Peru
+110,135,1949,0,1,,Guyana,Peru
+110,140,1918,0,1,$,Guyana,Brazil
+110,140,1919,0,1,$,Guyana,Brazil
+110,140,1920,0,1,$,Guyana,Brazil
+110,140,1921,0,1,$,Guyana,Brazil
+110,140,1922,2564,1,$,Guyana,Brazil
+110,140,1923,160,1,$,Guyana,Brazil
+110,140,1924,444,1,$,Guyana,Brazil
+110,140,1925,437,1,,Guyana,Brazil
+110,140,1926,871,1,,Guyana,Brazil
+110,140,1927,1052,1,,Guyana,Brazil
+110,140,1928,40,1,,Guyana,Brazil
+110,140,1929,0,1,,Guyana,Brazil
+110,140,1930,413,1,,Guyana,Brazil
+110,140,1931,510,1,$,Guyana,Brazil
+110,140,1932,218,1,$,Guyana,Brazil
+110,140,1933,284,1,$,Guyana,Brazil
+110,140,1934,992,1,$,Guyana,Brazil
+110,140,1935,26432,1,$,Guyana,Brazil
+110,140,1936,21784,1,$,Guyana,Brazil
+110,140,1937,23584,1,$,Guyana,Brazil
+110,140,1938,17303,1,$,Guyana,Brazil
+110,140,1939,18588,1,$,Guyana,Brazil
+110,140,1940,9601,1,$,Guyana,Brazil
+110,140,1941,74483,1,$,Guyana,Brazil
+110,140,1942,160676,1,$,Guyana,Brazil
+110,140,1944,135498,1,,Guyana,Brazil
+110,140,1945,82651,1,,Guyana,Brazil
+110,140,1946,34197,1,,Guyana,Brazil
+110,140,1947,37205,1,$,Guyana,Brazil
+110,140,1948,50420,1,,Guyana,Brazil
+110,140,1949,31085,1,,Guyana,Brazil
+110,145,1918,0,1,$,Guyana,Bolivia
+110,145,1919,0,1,$,Guyana,Bolivia
+110,145,1920,0,1,$,Guyana,Bolivia
+110,145,1921,0,1,$,Guyana,Bolivia
+110,145,1922,0,1,$,Guyana,Bolivia
+110,145,1923,0,1,$,Guyana,Bolivia
+110,145,1924,0,1,$,Guyana,Bolivia
+110,145,1925,0,1,,Guyana,Bolivia
+110,145,1926,0,1,,Guyana,Bolivia
+110,145,1927,0,1,,Guyana,Bolivia
+110,145,1928,0,1,,Guyana,Bolivia
+110,145,1929,0,1,,Guyana,Bolivia
+110,145,1930,0,1,,Guyana,Bolivia
+110,145,1931,0,1,$,Guyana,Bolivia
+110,145,1932,0,1,$,Guyana,Bolivia
+110,145,1933,0,1,$,Guyana,Bolivia
+110,145,1934,0,1,$,Guyana,Bolivia
+110,145,1935,129,1,$,Guyana,Bolivia
+110,145,1936,0,1,$,Guyana,Bolivia
+110,145,1937,0,1,$,Guyana,Bolivia
+110,145,1938,0,1,$,Guyana,Bolivia
+110,145,1939,0,1,$,Guyana,Bolivia
+110,145,1940,0,1,$,Guyana,Bolivia
+110,145,1941,0,1,$,Guyana,Bolivia
+110,145,1942,0,1,$,Guyana,Bolivia
+110,145,1944,0,1,,Guyana,Bolivia
+110,145,1945,0,1,,Guyana,Bolivia
+110,145,1946,0,1,,Guyana,Bolivia
+110,145,1947,0,1,$,Guyana,Bolivia
+110,145,1948,0,1,,Guyana,Bolivia
+110,145,1949,0,1,,Guyana,Bolivia
+110,150,1918,0,1,$,Guyana,Paraguay
+110,150,1919,0,1,$,Guyana,Paraguay
+110,150,1920,0,1,$,Guyana,Paraguay
+110,150,1921,0,1,$,Guyana,Paraguay
+110,150,1922,0,1,$,Guyana,Paraguay
+110,150,1923,0,1,$,Guyana,Paraguay
+110,150,1924,0,1,$,Guyana,Paraguay
+110,150,1925,0,1,,Guyana,Paraguay
+110,150,1926,0,1,,Guyana,Paraguay
+110,150,1927,0,1,,Guyana,Paraguay
+110,150,1928,0,1,,Guyana,Paraguay
+110,150,1929,0,1,,Guyana,Paraguay
+110,150,1930,0,1,,Guyana,Paraguay
+110,150,1931,0,1,$,Guyana,Paraguay
+110,150,1932,0,1,$,Guyana,Paraguay
+110,150,1933,0,1,$,Guyana,Paraguay
+110,150,1934,0,1,$,Guyana,Paraguay
+110,150,1935,0,1,$,Guyana,Paraguay
+110,150,1936,0,1,$,Guyana,Paraguay
+110,150,1937,0,1,$,Guyana,Paraguay
+110,150,1938,0,1,$,Guyana,Paraguay
+110,150,1939,0,1,$,Guyana,Paraguay
+110,150,1940,0,1,$,Guyana,Paraguay
+110,150,1941,0,1,$,Guyana,Paraguay
+110,150,1942,0,1,$,Guyana,Paraguay
+110,150,1944,0,1,,Guyana,Paraguay
+110,150,1945,0,1,,Guyana,Paraguay
+110,150,1946,0,1,,Guyana,Paraguay
+110,150,1947,3001,1,$,Guyana,Paraguay
+110,150,1948,0,1,,Guyana,Paraguay
+110,150,1949,0,1,,Guyana,Paraguay
+110,155,1918,0,1,$,Guyana,Chile
+110,155,1919,0,1,$,Guyana,Chile
+110,155,1920,0,1,$,Guyana,Chile
+110,155,1921,0,1,$,Guyana,Chile
+110,155,1922,0,1,$,Guyana,Chile
+110,155,1923,0,1,$,Guyana,Chile
+110,155,1924,0,1,$,Guyana,Chile
+110,155,1925,0,1,,Guyana,Chile
+110,155,1926,0,1,,Guyana,Chile
+110,155,1927,0,1,,Guyana,Chile
+110,155,1928,0,1,,Guyana,Chile
+110,155,1929,0,1,,Guyana,Chile
+110,155,1930,0,1,,Guyana,Chile
+110,155,1931,0,1,$,Guyana,Chile
+110,155,1932,0,1,$,Guyana,Chile
+110,155,1933,0,1,$,Guyana,Chile
+110,155,1934,3134,1,$,Guyana,Chile
+110,155,1935,2714,1,$,Guyana,Chile
+110,155,1936,2643,1,$,Guyana,Chile
+110,155,1937,3362,1,$,Guyana,Chile
+110,155,1938,136,1,$,Guyana,Chile
+110,155,1939,0,1,$,Guyana,Chile
+110,155,1940,53417,1,$,Guyana,Chile
+110,155,1941,1550,1,$,Guyana,Chile
+110,155,1942,236,1,$,Guyana,Chile
+110,155,1944,1870,1,,Guyana,Chile
+110,155,1945,4035,1,,Guyana,Chile
+110,155,1946,14,1,,Guyana,Chile
+110,155,1947,0,1,$,Guyana,Chile
+110,155,1948,3260,1,,Guyana,Chile
+110,155,1949,3380,1,,Guyana,Chile
+110,160,1918,0,1,$,Guyana,Argentina
+110,160,1919,0,1,$,Guyana,Argentina
+110,160,1920,0,1,$,Guyana,Argentina
+110,160,1921,0,1,$,Guyana,Argentina
+110,160,1922,0,1,$,Guyana,Argentina
+110,160,1923,0,1,$,Guyana,Argentina
+110,160,1924,0,1,$,Guyana,Argentina
+110,160,1925,0,1,,Guyana,Argentina
+110,160,1926,0,1,,Guyana,Argentina
+110,160,1927,0,1,,Guyana,Argentina
+110,160,1928,0,1,,Guyana,Argentina
+110,160,1929,0,1,,Guyana,Argentina
+110,160,1930,0,1,,Guyana,Argentina
+110,160,1931,0,1,$,Guyana,Argentina
+110,160,1932,0,1,$,Guyana,Argentina
+110,160,1933,0,1,$,Guyana,Argentina
+110,160,1934,26072,1,$,Guyana,Argentina
+110,160,1935,89556,1,$,Guyana,Argentina
+110,160,1936,62164,1,$,Guyana,Argentina
+110,160,1937,117459,1,$,Guyana,Argentina
+110,160,1938,113370,1,$,Guyana,Argentina
+110,160,1939,134079,1,$,Guyana,Argentina
+110,160,1940,127884,1,$,Guyana,Argentina
+110,160,1941,218105,1,$,Guyana,Argentina
+110,160,1942,378156,1,$,Guyana,Argentina
+110,160,1944,1402968,1,,Guyana,Argentina
+110,160,1945,684489,1,,Guyana,Argentina
+110,160,1946,673170,1,,Guyana,Argentina
+110,160,1947,635495,1,$,Guyana,Argentina
+110,160,1948,176326,1,,Guyana,Argentina
+110,160,1949,30737,1,,Guyana,Argentina
+110,165,1918,0,1,$,Guyana,Uruguay
+110,165,1919,0,1,$,Guyana,Uruguay
+110,165,1920,0,1,$,Guyana,Uruguay
+110,165,1921,0,1,$,Guyana,Uruguay
+110,165,1922,0,1,$,Guyana,Uruguay
+110,165,1923,0,1,$,Guyana,Uruguay
+110,165,1924,0,1,$,Guyana,Uruguay
+110,165,1925,0,1,,Guyana,Uruguay
+110,165,1926,0,1,,Guyana,Uruguay
+110,165,1927,0,1,,Guyana,Uruguay
+110,165,1928,0,1,,Guyana,Uruguay
+110,165,1929,0,1,,Guyana,Uruguay
+110,165,1930,0,1,,Guyana,Uruguay
+110,165,1931,0,1,$,Guyana,Uruguay
+110,165,1932,0,1,$,Guyana,Uruguay
+110,165,1933,0,1,$,Guyana,Uruguay
+110,165,1934,179,1,$,Guyana,Uruguay
+110,165,1935,9956,1,$,Guyana,Uruguay
+110,165,1936,2191,1,$,Guyana,Uruguay
+110,165,1937,460,1,$,Guyana,Uruguay
+110,165,1938,1609,1,$,Guyana,Uruguay
+110,165,1939,7465,1,$,Guyana,Uruguay
+110,165,1940,954,1,$,Guyana,Uruguay
+110,165,1941,4651,1,$,Guyana,Uruguay
+110,165,1942,21349,1,$,Guyana,Uruguay
+110,165,1944,34230,1,,Guyana,Uruguay
+110,165,1945,20431,1,,Guyana,Uruguay
+110,165,1946,25150,1,,Guyana,Uruguay
+110,165,1947,143982,1,$,Guyana,Uruguay
+110,165,1948,0,1,,Guyana,Uruguay
+110,165,1949,0,1,,Guyana,Uruguay
+110,200,1918,4189904,1,$,Guyana,United Kingdom
+110,200,1919,5292052,1,$,Guyana,United Kingdom
+110,200,1920,9358957,1,$,Guyana,United Kingdom
+110,200,1921,7336176,1,$,Guyana,United Kingdom
+110,200,1922,4904859,1,$,Guyana,United Kingdom
+110,200,1923,6655767,1,$,Guyana,United Kingdom
+110,200,1924,7116072,1,$,Guyana,United Kingdom
+110,200,1925,7388492,1,,Guyana,United Kingdom
+110,200,1926,5911406,1,,Guyana,United Kingdom
+110,200,1927,6067010,1,,Guyana,United Kingdom
+110,200,1928,6531544,1,,Guyana,United Kingdom
+110,200,1929,6039778,1,,Guyana,United Kingdom
+110,200,1930,5427187,1,,Guyana,United Kingdom
+110,200,1931,4487345,1,$,Guyana,United Kingdom
+110,200,1932,5175736,1,$,Guyana,United Kingdom
+110,200,1933,5355465,1,$,Guyana,United Kingdom
+110,200,1934,4728033,1,$,Guyana,United Kingdom
+110,200,1935,4855023,1,$,Guyana,United Kingdom
+110,200,1936,5224344,1,$,Guyana,United Kingdom
+110,200,1937,6178767,1,$,Guyana,United Kingdom
+110,200,1938,5361519,1,$,Guyana,United Kingdom
+110,200,1939,4888979,1,$,Guyana,United Kingdom
+110,200,1940,5474594,1,$,Guyana,United Kingdom
+110,200,1941,4084851,1,$,Guyana,United Kingdom
+110,200,1942,3230074,1,$,Guyana,United Kingdom
+110,200,1944,3463087,1,,Guyana,United Kingdom
+110,200,1945,4121178,1,,Guyana,United Kingdom
+110,200,1946,8329370,1,,Guyana,United Kingdom
+110,200,1947,10876688,1,$,Guyana,United Kingdom
+110,200,1948,17203269,1,,Guyana,United Kingdom
+110,200,1949,23858599,1,,Guyana,United Kingdom
+110,205,1918,0,1,$,Guyana,Ireland
+110,205,1919,0,1,$,Guyana,Ireland
+110,205,1920,0,1,$,Guyana,Ireland
+110,205,1921,0,1,$,Guyana,Ireland
+110,205,1922,0,1,$,Guyana,Ireland
+110,205,1923,0,1,$,Guyana,Ireland
+110,205,1924,0,1,$,Guyana,Ireland
+110,205,1925,0,1,,Guyana,Ireland
+110,205,1926,0,1,,Guyana,Ireland
+110,205,1927,0,1,,Guyana,Ireland
+110,205,1928,0,1,,Guyana,Ireland
+110,205,1929,0,1,,Guyana,Ireland
+110,205,1930,0,1,,Guyana,Ireland
+110,205,1931,0,1,$,Guyana,Ireland
+110,205,1932,0,1,$,Guyana,Ireland
+110,205,1933,0,1,$,Guyana,Ireland
+110,205,1934,59167,1,$,Guyana,Ireland
+110,205,1935,94309,1,$,Guyana,Ireland
+110,205,1936,92938,1,$,Guyana,Ireland
+110,205,1937,73822,1,$,Guyana,Ireland
+110,205,1938,117703,1,$,Guyana,Ireland
+110,205,1939,82258,1,$,Guyana,Ireland
+110,205,1940,87581,1,$,Guyana,Ireland
+110,205,1941,38371,1,$,Guyana,Ireland
+110,205,1942,14293,1,$,Guyana,Ireland
+110,205,1944,782,1,,Guyana,Ireland
+110,205,1945,1009,1,,Guyana,Ireland
+110,205,1946,1472,1,,Guyana,Ireland
+110,205,1947,2682,1,$,Guyana,Ireland
+110,205,1948,3269,1,,Guyana,Ireland
+110,205,1949,2001,1,,Guyana,Ireland
+110,210,1918,59380,1,$,Guyana,Netherlands
+110,210,1919,37648,1,$,Guyana,Netherlands
+110,210,1920,272230,1,$,Guyana,Netherlands
+110,210,1921,295729,1,$,Guyana,Netherlands
+110,210,1922,189606,1,$,Guyana,Netherlands
+110,210,1923,329084,1,$,Guyana,Netherlands
+110,210,1924,287500,1,$,Guyana,Netherlands
+110,210,1925,384497,1,,Guyana,Netherlands
+110,210,1926,421603,1,,Guyana,Netherlands
+110,210,1927,392633,1,,Guyana,Netherlands
+110,210,1928,287974,1,,Guyana,Netherlands
+110,210,1929,344900,1,,Guyana,Netherlands
+110,210,1930,254830,1,,Guyana,Netherlands
+110,210,1931,154906,1,$,Guyana,Netherlands
+110,210,1932,127094,1,$,Guyana,Netherlands
+110,210,1933,171826,1,$,Guyana,Netherlands
+110,210,1934,160458,1,$,Guyana,Netherlands
+110,210,1935,148767,1,$,Guyana,Netherlands
+110,210,1936,151365,1,$,Guyana,Netherlands
+110,210,1937,251321,1,$,Guyana,Netherlands
+110,210,1938,353604,1,$,Guyana,Netherlands
+110,210,1939,336371,1,$,Guyana,Netherlands
+110,210,1940,122020,1,$,Guyana,Netherlands
+110,210,1941,378,1,$,Guyana,Netherlands
+110,210,1942,47,1,$,Guyana,Netherlands
+110,210,1944,181,1,,Guyana,Netherlands
+110,210,1945,90,1,,Guyana,Netherlands
+110,210,1946,39858,1,,Guyana,Netherlands
+110,210,1947,114324,1,$,Guyana,Netherlands
+110,210,1948,693351,1,,Guyana,Netherlands
+110,210,1949,1236533,1,,Guyana,Netherlands
+110,211,1918,0,1,$,Guyana,Belgium
+110,211,1919,0,1,$,Guyana,Belgium
+110,211,1920,1104,1,$,Guyana,Belgium
+110,211,1921,9544,1,$,Guyana,Belgium
+110,211,1922,8942,1,$,Guyana,Belgium
+110,211,1923,9266,1,$,Guyana,Belgium
+110,211,1924,11632,1,$,Guyana,Belgium
+110,211,1925,14658,1,,Guyana,Belgium
+110,211,1926,19484,1,,Guyana,Belgium
+110,211,1927,24597,1,,Guyana,Belgium
+110,211,1928,25932,1,,Guyana,Belgium
+110,211,1929,20708,1,,Guyana,Belgium
+110,211,1930,44955,1,,Guyana,Belgium
+110,211,1931,47893,1,$,Guyana,Belgium
+110,211,1932,46252,1,$,Guyana,Belgium
+110,211,1933,41143,1,$,Guyana,Belgium
+110,211,1934,46745,1,$,Guyana,Belgium
+110,211,1935,48127,1,$,Guyana,Belgium
+110,211,1936,50911,1,$,Guyana,Belgium
+110,211,1937,58332,1,$,Guyana,Belgium
+110,211,1938,55844,1,$,Guyana,Belgium
+110,211,1939,59509,1,$,Guyana,Belgium
+110,211,1940,58164,1,$,Guyana,Belgium
+110,211,1941,692,1,$,Guyana,Belgium
+110,211,1942,35,1,$,Guyana,Belgium
+110,211,1944,0,1,,Guyana,Belgium
+110,211,1945,172,1,,Guyana,Belgium
+110,211,1946,24899,1,,Guyana,Belgium
+110,211,1947,372789,1,$,Guyana,Belgium
+110,211,1948,529388,1,,Guyana,Belgium
+110,211,1949,254832,1,,Guyana,Belgium
+110,212,1918,0,1,$,Guyana,Luxembourg
+110,212,1919,0,1,$,Guyana,Luxembourg
+110,212,1920,0,1,$,Guyana,Luxembourg
+110,212,1921,0,1,$,Guyana,Luxembourg
+110,212,1922,0,1,$,Guyana,Luxembourg
+110,212,1923,0,1,$,Guyana,Luxembourg
+110,212,1924,0,1,$,Guyana,Luxembourg
+110,212,1925,0,1,,Guyana,Luxembourg
+110,212,1926,0,1,,Guyana,Luxembourg
+110,212,1927,0,1,,Guyana,Luxembourg
+110,212,1928,0,1,,Guyana,Luxembourg
+110,212,1929,0,1,,Guyana,Luxembourg
+110,212,1930,0,1,,Guyana,Luxembourg
+110,212,1931,0,1,$,Guyana,Luxembourg
+110,212,1932,0,1,$,Guyana,Luxembourg
+110,212,1933,0,1,$,Guyana,Luxembourg
+110,212,1934,0,1,$,Guyana,Luxembourg
+110,212,1935,0,1,$,Guyana,Luxembourg
+110,212,1936,0,1,$,Guyana,Luxembourg
+110,212,1937,0,1,$,Guyana,Luxembourg
+110,212,1938,0,1,$,Guyana,Luxembourg
+110,212,1939,0,1,$,Guyana,Luxembourg
+110,212,1940,0,1,$,Guyana,Luxembourg
+110,212,1941,0,1,$,Guyana,Luxembourg
+110,212,1942,0,1,$,Guyana,Luxembourg
+110,212,1944,0,1,,Guyana,Luxembourg
+110,212,1945,0,1,,Guyana,Luxembourg
+110,212,1946,0,1,,Guyana,Luxembourg
+110,212,1947,0,1,$,Guyana,Luxembourg
+110,212,1948,1425,1,,Guyana,Luxembourg
+110,212,1949,79948,1,,Guyana,Luxembourg
+110,220,1918,39431,1,$,Guyana,France
+110,220,1919,17805,1,$,Guyana,France
+110,220,1920,36418,1,$,Guyana,France
+110,220,1921,56877,1,$,Guyana,France
+110,220,1922,42407,1,$,Guyana,France
+110,220,1923,57798,1,$,Guyana,France
+110,220,1924,52492,1,$,Guyana,France
+110,220,1925,75550,1,,Guyana,France
+110,220,1926,84439,1,,Guyana,France
+110,220,1927,119945,1,,Guyana,France
+110,220,1928,76093,1,,Guyana,France
+110,220,1929,102695,1,,Guyana,France
+110,220,1930,100399,1,,Guyana,France
+110,220,1931,77647,1,$,Guyana,France
+110,220,1932,68423,1,$,Guyana,France
+110,220,1933,54707,1,$,Guyana,France
+110,220,1934,68660,1,$,Guyana,France
+110,220,1935,75500,1,$,Guyana,France
+110,220,1936,50792,1,$,Guyana,France
+110,220,1937,58817,1,$,Guyana,France
+110,220,1938,64477,1,$,Guyana,France
+110,220,1939,46262,1,$,Guyana,France
+110,220,1940,42378,1,$,Guyana,France
+110,220,1941,1107,1,$,Guyana,France
+110,220,1942,2530,1,$,Guyana,France
+110,220,1944,4058,1,,Guyana,France
+110,220,1945,3416,1,,Guyana,France
+110,220,1946,34170,1,,Guyana,France
+110,220,1947,115599,1,$,Guyana,France
+110,220,1948,89299,1,,Guyana,France
+110,220,1949,105344,1,,Guyana,France
+110,225,1918,0,1,$,Guyana,Switzerland
+110,225,1919,0,1,$,Guyana,Switzerland
+110,225,1920,0,1,$,Guyana,Switzerland
+110,225,1921,0,1,$,Guyana,Switzerland
+110,225,1922,0,1,$,Guyana,Switzerland
+110,225,1923,0,1,$,Guyana,Switzerland
+110,225,1924,0,1,$,Guyana,Switzerland
+110,225,1925,0,1,,Guyana,Switzerland
+110,225,1926,0,1,,Guyana,Switzerland
+110,225,1927,0,1,,Guyana,Switzerland
+110,225,1928,0,1,,Guyana,Switzerland
+110,225,1929,0,1,,Guyana,Switzerland
+110,225,1930,0,1,,Guyana,Switzerland
+110,225,1931,0,1,$,Guyana,Switzerland
+110,225,1932,0,1,$,Guyana,Switzerland
+110,225,1933,0,1,$,Guyana,Switzerland
+110,225,1934,10287,1,$,Guyana,Switzerland
+110,225,1935,11268,1,$,Guyana,Switzerland
+110,225,1936,8436,1,$,Guyana,Switzerland
+110,225,1937,13943,1,$,Guyana,Switzerland
+110,225,1938,14279,1,$,Guyana,Switzerland
+110,225,1939,20363,1,$,Guyana,Switzerland
+110,225,1940,17185,1,$,Guyana,Switzerland
+110,225,1941,457,1,$,Guyana,Switzerland
+110,225,1942,551,1,$,Guyana,Switzerland
+110,225,1944,35,1,,Guyana,Switzerland
+110,225,1945,673,1,,Guyana,Switzerland
+110,225,1946,9750,1,,Guyana,Switzerland
+110,225,1947,12746,1,$,Guyana,Switzerland
+110,225,1948,22126,1,,Guyana,Switzerland
+110,225,1949,22058,1,,Guyana,Switzerland
+110,230,1918,10692,1,$,Guyana,Spain
+110,230,1919,1010,1,$,Guyana,Spain
+110,230,1920,4828,1,$,Guyana,Spain
+110,230,1921,14707,1,$,Guyana,Spain
+110,230,1922,11576,1,$,Guyana,Spain
+110,230,1923,19187,1,$,Guyana,Spain
+110,230,1924,18206,1,$,Guyana,Spain
+110,230,1925,26663,1,,Guyana,Spain
+110,230,1926,26478,1,,Guyana,Spain
+110,230,1927,30979,1,,Guyana,Spain
+110,230,1928,20815,1,,Guyana,Spain
+110,230,1929,13882,1,,Guyana,Spain
+110,230,1930,11518,1,,Guyana,Spain
+110,230,1931,5092,1,$,Guyana,Spain
+110,230,1932,5630,1,$,Guyana,Spain
+110,230,1933,5073,1,$,Guyana,Spain
+110,230,1934,8163,1,$,Guyana,Spain
+110,230,1935,12288,1,$,Guyana,Spain
+110,230,1936,9510,1,$,Guyana,Spain
+110,230,1937,16866,1,$,Guyana,Spain
+110,230,1938,8844,1,$,Guyana,Spain
+110,230,1939,8034,1,$,Guyana,Spain
+110,230,1940,10389,1,$,Guyana,Spain
+110,230,1941,2276,1,$,Guyana,Spain
+110,230,1942,801,1,$,Guyana,Spain
+110,230,1944,3727,1,,Guyana,Spain
+110,230,1945,3609,1,,Guyana,Spain
+110,230,1946,6278,1,,Guyana,Spain
+110,230,1947,9140,1,$,Guyana,Spain
+110,230,1948,2542,1,,Guyana,Spain
+110,230,1949,0,1,,Guyana,Spain
+110,235,1918,15826,1,$,Guyana,Portugal
+110,235,1919,14552,1,$,Guyana,Portugal
+110,235,1920,9678,1,$,Guyana,Portugal
+110,235,1921,19134,1,$,Guyana,Portugal
+110,235,1922,25552,1,$,Guyana,Portugal
+110,235,1923,17273,1,$,Guyana,Portugal
+110,235,1924,34086,1,$,Guyana,Portugal
+110,235,1925,22846,1,,Guyana,Portugal
+110,235,1926,19624,1,,Guyana,Portugal
+110,235,1927,13308,1,,Guyana,Portugal
+110,235,1928,14455,1,,Guyana,Portugal
+110,235,1929,9598,1,,Guyana,Portugal
+110,235,1930,8638,1,,Guyana,Portugal
+110,235,1931,6204,1,$,Guyana,Portugal
+110,235,1932,10926,1,$,Guyana,Portugal
+110,235,1933,7672,1,$,Guyana,Portugal
+110,235,1934,11834,1,$,Guyana,Portugal
+110,235,1935,17753,1,$,Guyana,Portugal
+110,235,1936,11806,1,$,Guyana,Portugal
+110,235,1937,19244,1,$,Guyana,Portugal
+110,235,1938,15499,1,$,Guyana,Portugal
+110,235,1939,20323,1,$,Guyana,Portugal
+110,235,1940,21224,1,$,Guyana,Portugal
+110,235,1941,29724,1,$,Guyana,Portugal
+110,235,1942,18782,1,$,Guyana,Portugal
+110,235,1944,39917,1,,Guyana,Portugal
+110,235,1945,18439,1,,Guyana,Portugal
+110,235,1946,21868,1,,Guyana,Portugal
+110,235,1947,78416,1,$,Guyana,Portugal
+110,235,1948,49231,1,,Guyana,Portugal
+110,235,1949,48936,1,,Guyana,Portugal
+110,255,1918,0,1,$,Guyana,Germany
+110,255,1919,0,1,$,Guyana,Germany
+110,255,1920,0,1,$,Guyana,Germany
+110,255,1921,76487,1,$,Guyana,Germany
+110,255,1922,115278,1,$,Guyana,Germany
+110,255,1923,127185,1,$,Guyana,Germany
+110,255,1924,138791,1,$,Guyana,Germany
+110,255,1925,140877,1,,Guyana,Germany
+110,255,1926,130795,1,,Guyana,Germany
+110,255,1927,99807,1,,Guyana,Germany
+110,255,1928,119755,1,,Guyana,Germany
+110,255,1929,100629,1,,Guyana,Germany
+110,255,1930,111290,1,,Guyana,Germany
+110,255,1931,97807,1,$,Guyana,Germany
+110,255,1932,101297,1,$,Guyana,Germany
+110,255,1933,125961,1,$,Guyana,Germany
+110,255,1934,136915,1,$,Guyana,Germany
+110,255,1935,120634,1,$,Guyana,Germany
+110,255,1936,172047,1,$,Guyana,Germany
+110,255,1937,221376,1,$,Guyana,Germany
+110,255,1938,173363,1,$,Guyana,Germany
+110,255,1939,143737,1,$,Guyana,Germany
+110,255,1940,5678,1,$,Guyana,Germany
+110,255,1941,1611,1,$,Guyana,Germany
+110,255,1942,1000,1,$,Guyana,Germany
+110,255,1944,108,1,,Guyana,Germany
+110,255,1945,51,1,,Guyana,Germany
+110,255,1946,163,1,,Guyana,Germany
+110,255,1947,922,1,$,Guyana,Germany
+110,255,1948,7396,1,,Guyana,Germany
+110,255,1949,47722,1,,Guyana,Germany
+110,290,1918,0,1,$,Guyana,Poland
+110,290,1919,0,1,$,Guyana,Poland
+110,290,1920,0,1,$,Guyana,Poland
+110,290,1921,0,1,$,Guyana,Poland
+110,290,1922,0,1,$,Guyana,Poland
+110,290,1923,0,1,$,Guyana,Poland
+110,290,1924,0,1,$,Guyana,Poland
+110,290,1925,0,1,,Guyana,Poland
+110,290,1926,0,1,,Guyana,Poland
+110,290,1927,0,1,,Guyana,Poland
+110,290,1928,0,1,,Guyana,Poland
+110,290,1929,0,1,,Guyana,Poland
+110,290,1930,0,1,,Guyana,Poland
+110,290,1931,0,1,$,Guyana,Poland
+110,290,1932,0,1,$,Guyana,Poland
+110,290,1933,0,1,$,Guyana,Poland
+110,290,1934,4541,1,$,Guyana,Poland
+110,290,1935,4556,1,$,Guyana,Poland
+110,290,1936,6221,1,$,Guyana,Poland
+110,290,1937,7952,1,$,Guyana,Poland
+110,290,1938,10906,1,$,Guyana,Poland
+110,290,1939,7033,1,$,Guyana,Poland
+110,290,1940,0,1,$,Guyana,Poland
+110,290,1941,0,1,$,Guyana,Poland
+110,290,1942,0,1,$,Guyana,Poland
+110,290,1944,0,1,,Guyana,Poland
+110,290,1945,0,1,,Guyana,Poland
+110,290,1946,0,1,,Guyana,Poland
+110,290,1947,3211,1,$,Guyana,Poland
+110,290,1948,67624,1,,Guyana,Poland
+110,290,1949,808,1,,Guyana,Poland
+110,291,1918,0,1,$,Guyana,Danzig
+110,291,1919,0,1,$,Guyana,Danzig
+110,291,1920,0,1,$,Guyana,Danzig
+110,291,1921,0,1,$,Guyana,Danzig
+110,291,1922,0,1,$,Guyana,Danzig
+110,291,1923,0,1,$,Guyana,Danzig
+110,291,1924,0,1,$,Guyana,Danzig
+110,291,1925,0,1,,Guyana,Danzig
+110,291,1926,0,1,,Guyana,Danzig
+110,291,1927,0,1,,Guyana,Danzig
+110,291,1928,0,1,,Guyana,Danzig
+110,291,1929,0,1,,Guyana,Danzig
+110,291,1930,0,1,,Guyana,Danzig
+110,291,1931,0,1,$,Guyana,Danzig
+110,291,1932,0,1,$,Guyana,Danzig
+110,291,1933,0,1,$,Guyana,Danzig
+110,291,1934,0,1,$,Guyana,Danzig
+110,291,1935,180,1,$,Guyana,Danzig
+110,291,1936,0,1,$,Guyana,Danzig
+110,291,1937,0,1,$,Guyana,Danzig
+110,291,1938,0,1,$,Guyana,Danzig
+110,291,1939,0,1,$,Guyana,Danzig
+110,291,1940,0,1,$,Guyana,Danzig
+110,291,1941,0,1,$,Guyana,Danzig
+110,291,1942,0,1,$,Guyana,Danzig
+110,291,1944,0,1,,Guyana,Danzig
+110,291,1945,0,1,,Guyana,Danzig
+110,291,1946,0,1,,Guyana,Danzig
+110,291,1947,0,1,$,Guyana,Danzig
+110,291,1948,0,1,,Guyana,Danzig
+110,291,1949,0,1,,Guyana,Danzig
+110,305,1918,0,1,$,Guyana,Austria
+110,305,1919,0,1,$,Guyana,Austria
+110,305,1920,0,1,$,Guyana,Austria
+110,305,1921,0,1,$,Guyana,Austria
+110,305,1922,0,1,$,Guyana,Austria
+110,305,1923,0,1,$,Guyana,Austria
+110,305,1924,0,1,$,Guyana,Austria
+110,305,1925,0,1,,Guyana,Austria
+110,305,1926,0,1,,Guyana,Austria
+110,305,1927,0,1,,Guyana,Austria
+110,305,1928,0,1,,Guyana,Austria
+110,305,1929,0,1,,Guyana,Austria
+110,305,1930,0,1,,Guyana,Austria
+110,305,1931,0,1,$,Guyana,Austria
+110,305,1932,0,1,$,Guyana,Austria
+110,305,1933,0,1,$,Guyana,Austria
+110,305,1934,2856,1,$,Guyana,Austria
+110,305,1935,3348,1,$,Guyana,Austria
+110,305,1936,3876,1,$,Guyana,Austria
+110,305,1937,3846,1,$,Guyana,Austria
+110,305,1938,0,1,$,Guyana,Austria
+110,305,1939,0,1,$,Guyana,Austria
+110,305,1940,0,1,$,Guyana,Austria
+110,305,1941,0,1,$,Guyana,Austria
+110,305,1942,0,1,$,Guyana,Austria
+110,305,1944,0,1,,Guyana,Austria
+110,305,1945,0,1,,Guyana,Austria
+110,305,1946,153,1,,Guyana,Austria
+110,305,1947,44,1,$,Guyana,Austria
+110,305,1948,11087,1,,Guyana,Austria
+110,305,1949,31428,1,,Guyana,Austria
+110,310,1918,0,1,$,Guyana,Hungary
+110,310,1919,0,1,$,Guyana,Hungary
+110,310,1920,0,1,$,Guyana,Hungary
+110,310,1921,0,1,$,Guyana,Hungary
+110,310,1922,0,1,$,Guyana,Hungary
+110,310,1923,0,1,$,Guyana,Hungary
+110,310,1924,0,1,$,Guyana,Hungary
+110,310,1925,0,1,,Guyana,Hungary
+110,310,1926,0,1,,Guyana,Hungary
+110,310,1927,0,1,,Guyana,Hungary
+110,310,1928,0,1,,Guyana,Hungary
+110,310,1929,0,1,,Guyana,Hungary
+110,310,1930,0,1,,Guyana,Hungary
+110,310,1931,0,1,$,Guyana,Hungary
+110,310,1932,0,1,$,Guyana,Hungary
+110,310,1933,0,1,$,Guyana,Hungary
+110,310,1934,4996,1,$,Guyana,Hungary
+110,310,1935,146,1,$,Guyana,Hungary
+110,310,1936,3320,1,$,Guyana,Hungary
+110,310,1937,18697,1,$,Guyana,Hungary
+110,310,1938,13505,1,$,Guyana,Hungary
+110,310,1939,8451,1,$,Guyana,Hungary
+110,310,1940,5018,1,$,Guyana,Hungary
+110,310,1941,77,1,$,Guyana,Hungary
+110,310,1942,0,1,$,Guyana,Hungary
+110,310,1944,0,1,,Guyana,Hungary
+110,310,1945,0,1,,Guyana,Hungary
+110,310,1946,0,1,,Guyana,Hungary
+110,310,1947,0,1,$,Guyana,Hungary
+110,310,1948,0,1,,Guyana,Hungary
+110,310,1949,40624,1,,Guyana,Hungary
+110,315,1918,0,1,$,Guyana,Czechoslovakia
+110,315,1919,0,1,$,Guyana,Czechoslovakia
+110,315,1920,0,1,$,Guyana,Czechoslovakia
+110,315,1921,0,1,$,Guyana,Czechoslovakia
+110,315,1922,0,1,$,Guyana,Czechoslovakia
+110,315,1923,0,1,$,Guyana,Czechoslovakia
+110,315,1924,0,1,$,Guyana,Czechoslovakia
+110,315,1925,0,1,,Guyana,Czechoslovakia
+110,315,1926,0,1,,Guyana,Czechoslovakia
+110,315,1927,0,1,,Guyana,Czechoslovakia
+110,315,1928,0,1,,Guyana,Czechoslovakia
+110,315,1929,0,1,,Guyana,Czechoslovakia
+110,315,1930,0,1,,Guyana,Czechoslovakia
+110,315,1931,0,1,$,Guyana,Czechoslovakia
+110,315,1932,0,1,$,Guyana,Czechoslovakia
+110,315,1933,0,1,$,Guyana,Czechoslovakia
+110,315,1934,41520,1,$,Guyana,Czechoslovakia
+110,315,1935,29094,1,$,Guyana,Czechoslovakia
+110,315,1936,25097,1,$,Guyana,Czechoslovakia
+110,315,1937,26907,1,$,Guyana,Czechoslovakia
+110,315,1938,38572,1,$,Guyana,Czechoslovakia
+110,315,1939,14104,1,$,Guyana,Czechoslovakia
+110,315,1940,2288,1,$,Guyana,Czechoslovakia
+110,315,1941,611,1,$,Guyana,Czechoslovakia
+110,315,1942,291,1,$,Guyana,Czechoslovakia
+110,315,1944,420,1,,Guyana,Czechoslovakia
+110,315,1945,0,1,,Guyana,Czechoslovakia
+110,315,1946,1061,1,,Guyana,Czechoslovakia
+110,315,1947,45175,1,$,Guyana,Czechoslovakia
+110,315,1948,140068,1,,Guyana,Czechoslovakia
+110,315,1949,212769,1,,Guyana,Czechoslovakia
+110,325,1918,0,1,$,Guyana,Italy
+110,325,1919,0,1,$,Guyana,Italy
+110,325,1920,0,1,$,Guyana,Italy
+110,325,1921,0,1,$,Guyana,Italy
+110,325,1922,0,1,$,Guyana,Italy
+110,325,1923,10701,1,$,Guyana,Italy
+110,325,1924,0,1,$,Guyana,Italy
+110,325,1925,0,1,,Guyana,Italy
+110,325,1926,0,1,,Guyana,Italy
+110,325,1927,0,1,,Guyana,Italy
+110,325,1928,0,1,,Guyana,Italy
+110,325,1929,0,1,,Guyana,Italy
+110,325,1930,0,1,,Guyana,Italy
+110,325,1931,28050,1,$,Guyana,Italy
+110,325,1932,24830,1,$,Guyana,Italy
+110,325,1933,30532,1,$,Guyana,Italy
+110,325,1934,42985,1,$,Guyana,Italy
+110,325,1935,17356,1,$,Guyana,Italy
+110,325,1936,12356,1,$,Guyana,Italy
+110,325,1937,31382,1,$,Guyana,Italy
+110,325,1938,22421,1,$,Guyana,Italy
+110,325,1939,27489,1,$,Guyana,Italy
+110,325,1940,21578,1,$,Guyana,Italy
+110,325,1941,498,1,$,Guyana,Italy
+110,325,1942,1436,1,$,Guyana,Italy
+110,325,1944,127,1,,Guyana,Italy
+110,325,1945,1659,1,,Guyana,Italy
+110,325,1946,31155,1,,Guyana,Italy
+110,325,1947,187532,1,$,Guyana,Italy
+110,325,1948,111128,1,,Guyana,Italy
+110,325,1949,628453,1,,Guyana,Italy
+110,338,1918,0,1,$,Guyana,Malta
+110,338,1919,0,1,$,Guyana,Malta
+110,338,1920,0,1,$,Guyana,Malta
+110,338,1921,0,1,$,Guyana,Malta
+110,338,1922,0,1,$,Guyana,Malta
+110,338,1923,0,1,$,Guyana,Malta
+110,338,1924,0,1,$,Guyana,Malta
+110,338,1925,0,1,,Guyana,Malta
+110,338,1926,0,1,,Guyana,Malta
+110,338,1927,0,1,,Guyana,Malta
+110,338,1928,0,1,,Guyana,Malta
+110,338,1929,0,1,,Guyana,Malta
+110,338,1930,0,1,,Guyana,Malta
+110,338,1931,0,1,$,Guyana,Malta
+110,338,1932,0,1,$,Guyana,Malta
+110,338,1933,430,1,$,Guyana,Malta
+110,338,1934,416,1,$,Guyana,Malta
+110,338,1935,0,1,$,Guyana,Malta
+110,338,1936,321,1,$,Guyana,Malta
+110,338,1937,2503,1,$,Guyana,Malta
+110,338,1938,2277,1,$,Guyana,Malta
+110,338,1939,2486,1,$,Guyana,Malta
+110,338,1940,0,1,$,Guyana,Malta
+110,338,1941,0,1,$,Guyana,Malta
+110,338,1942,0,1,$,Guyana,Malta
+110,338,1944,0,1,,Guyana,Malta
+110,338,1945,0,1,,Guyana,Malta
+110,338,1946,0,1,,Guyana,Malta
+110,338,1947,0,1,$,Guyana,Malta
+110,338,1948,0,1,,Guyana,Malta
+110,338,1949,87,1,,Guyana,Malta
+110,345,1918,0,1,$,Guyana,Yugoslavia
+110,345,1919,0,1,$,Guyana,Yugoslavia
+110,345,1920,0,1,$,Guyana,Yugoslavia
+110,345,1921,0,1,$,Guyana,Yugoslavia
+110,345,1922,0,1,$,Guyana,Yugoslavia
+110,345,1923,0,1,$,Guyana,Yugoslavia
+110,345,1924,0,1,$,Guyana,Yugoslavia
+110,345,1925,0,1,,Guyana,Yugoslavia
+110,345,1926,0,1,,Guyana,Yugoslavia
+110,345,1927,0,1,,Guyana,Yugoslavia
+110,345,1928,0,1,,Guyana,Yugoslavia
+110,345,1929,0,1,,Guyana,Yugoslavia
+110,345,1930,0,1,,Guyana,Yugoslavia
+110,345,1931,0,1,$,Guyana,Yugoslavia
+110,345,1932,0,1,$,Guyana,Yugoslavia
+110,345,1933,0,1,$,Guyana,Yugoslavia
+110,345,1934,147,1,$,Guyana,Yugoslavia
+110,345,1935,159,1,$,Guyana,Yugoslavia
+110,345,1936,0,1,$,Guyana,Yugoslavia
+110,345,1937,6,1,$,Guyana,Yugoslavia
+110,345,1938,61,1,$,Guyana,Yugoslavia
+110,345,1939,15,1,$,Guyana,Yugoslavia
+110,345,1940,167,1,$,Guyana,Yugoslavia
+110,345,1941,0,1,$,Guyana,Yugoslavia
+110,345,1942,0,1,$,Guyana,Yugoslavia
+110,345,1944,0,1,,Guyana,Yugoslavia
+110,345,1945,0,1,,Guyana,Yugoslavia
+110,345,1946,0,1,,Guyana,Yugoslavia
+110,345,1947,0,1,$,Guyana,Yugoslavia
+110,345,1948,0,1,,Guyana,Yugoslavia
+110,345,1949,316,1,,Guyana,Yugoslavia
+110,350,1918,0,1,$,Guyana,Greece
+110,350,1919,0,1,$,Guyana,Greece
+110,350,1920,0,1,$,Guyana,Greece
+110,350,1921,0,1,$,Guyana,Greece
+110,350,1922,0,1,$,Guyana,Greece
+110,350,1923,0,1,$,Guyana,Greece
+110,350,1924,0,1,$,Guyana,Greece
+110,350,1925,0,1,,Guyana,Greece
+110,350,1926,0,1,,Guyana,Greece
+110,350,1927,0,1,,Guyana,Greece
+110,350,1928,0,1,,Guyana,Greece
+110,350,1929,0,1,,Guyana,Greece
+110,350,1930,0,1,,Guyana,Greece
+110,350,1931,0,1,$,Guyana,Greece
+110,350,1932,0,1,$,Guyana,Greece
+110,350,1933,0,1,$,Guyana,Greece
+110,350,1934,801,1,$,Guyana,Greece
+110,350,1935,475,1,$,Guyana,Greece
+110,350,1936,1112,1,$,Guyana,Greece
+110,350,1937,2845,1,$,Guyana,Greece
+110,350,1938,3383,1,$,Guyana,Greece
+110,350,1939,4748,1,$,Guyana,Greece
+110,350,1940,4745,1,$,Guyana,Greece
+110,350,1941,16,1,$,Guyana,Greece
+110,350,1942,2112,1,$,Guyana,Greece
+110,350,1944,0,1,,Guyana,Greece
+110,350,1945,0,1,,Guyana,Greece
+110,350,1946,0,1,,Guyana,Greece
+110,350,1947,9205,1,$,Guyana,Greece
+110,350,1948,602,1,,Guyana,Greece
+110,350,1949,32766,1,,Guyana,Greece
+110,352,1918,0,1,$,Guyana,Cyprus
+110,352,1919,0,1,$,Guyana,Cyprus
+110,352,1920,0,1,$,Guyana,Cyprus
+110,352,1921,0,1,$,Guyana,Cyprus
+110,352,1922,0,1,$,Guyana,Cyprus
+110,352,1923,0,1,$,Guyana,Cyprus
+110,352,1924,0,1,$,Guyana,Cyprus
+110,352,1925,0,1,,Guyana,Cyprus
+110,352,1926,0,1,,Guyana,Cyprus
+110,352,1927,0,1,,Guyana,Cyprus
+110,352,1928,0,1,,Guyana,Cyprus
+110,352,1929,0,1,,Guyana,Cyprus
+110,352,1930,0,1,,Guyana,Cyprus
+110,352,1931,0,1,$,Guyana,Cyprus
+110,352,1932,165,1,$,Guyana,Cyprus
+110,352,1933,0,1,$,Guyana,Cyprus
+110,352,1934,490,1,$,Guyana,Cyprus
+110,352,1935,7449,1,$,Guyana,Cyprus
+110,352,1936,5876,1,$,Guyana,Cyprus
+110,352,1937,7036,1,$,Guyana,Cyprus
+110,352,1938,15527,1,$,Guyana,Cyprus
+110,352,1939,6011,1,$,Guyana,Cyprus
+110,352,1940,1955,1,$,Guyana,Cyprus
+110,352,1941,0,1,$,Guyana,Cyprus
+110,352,1942,0,1,$,Guyana,Cyprus
+110,352,1944,0,1,,Guyana,Cyprus
+110,352,1945,0,1,,Guyana,Cyprus
+110,352,1946,0,1,,Guyana,Cyprus
+110,352,1947,1439,1,$,Guyana,Cyprus
+110,352,1948,147,1,,Guyana,Cyprus
+110,352,1949,27767,1,,Guyana,Cyprus
+110,355,1918,0,1,$,Guyana,Bulgaria
+110,355,1919,0,1,$,Guyana,Bulgaria
+110,355,1920,0,1,$,Guyana,Bulgaria
+110,355,1921,0,1,$,Guyana,Bulgaria
+110,355,1922,0,1,$,Guyana,Bulgaria
+110,355,1923,0,1,$,Guyana,Bulgaria
+110,355,1924,0,1,$,Guyana,Bulgaria
+110,355,1925,0,1,,Guyana,Bulgaria
+110,355,1926,0,1,,Guyana,Bulgaria
+110,355,1927,0,1,,Guyana,Bulgaria
+110,355,1928,0,1,,Guyana,Bulgaria
+110,355,1929,0,1,,Guyana,Bulgaria
+110,355,1930,0,1,,Guyana,Bulgaria
+110,355,1931,0,1,$,Guyana,Bulgaria
+110,355,1932,0,1,$,Guyana,Bulgaria
+110,355,1933,0,1,$,Guyana,Bulgaria
+110,355,1934,0,1,$,Guyana,Bulgaria
+110,355,1935,0,1,$,Guyana,Bulgaria
+110,355,1936,0,1,$,Guyana,Bulgaria
+110,355,1937,56,1,$,Guyana,Bulgaria
+110,355,1938,38,1,$,Guyana,Bulgaria
+110,355,1939,49,1,$,Guyana,Bulgaria
+110,355,1940,26,1,$,Guyana,Bulgaria
+110,355,1941,0,1,$,Guyana,Bulgaria
+110,355,1942,0,1,$,Guyana,Bulgaria
+110,355,1944,0,1,,Guyana,Bulgaria
+110,355,1945,0,1,,Guyana,Bulgaria
+110,355,1946,0,1,,Guyana,Bulgaria
+110,355,1947,0,1,$,Guyana,Bulgaria
+110,355,1948,0,1,,Guyana,Bulgaria
+110,355,1949,0,1,,Guyana,Bulgaria
+110,360,1918,0,1,$,Guyana,Romania
+110,360,1919,0,1,$,Guyana,Romania
+110,360,1920,0,1,$,Guyana,Romania
+110,360,1921,0,1,$,Guyana,Romania
+110,360,1922,0,1,$,Guyana,Romania
+110,360,1923,0,1,$,Guyana,Romania
+110,360,1924,0,1,$,Guyana,Romania
+110,360,1925,0,1,,Guyana,Romania
+110,360,1926,0,1,,Guyana,Romania
+110,360,1927,0,1,,Guyana,Romania
+110,360,1928,0,1,,Guyana,Romania
+110,360,1929,0,1,,Guyana,Romania
+110,360,1930,0,1,,Guyana,Romania
+110,360,1931,0,1,$,Guyana,Romania
+110,360,1932,0,1,$,Guyana,Romania
+110,360,1933,0,1,$,Guyana,Romania
+110,360,1934,0,1,$,Guyana,Romania
+110,360,1935,0,1,$,Guyana,Romania
+110,360,1936,2,1,$,Guyana,Romania
+110,360,1937,0,1,$,Guyana,Romania
+110,360,1938,1096,1,$,Guyana,Romania
+110,360,1939,506,1,$,Guyana,Romania
+110,360,1940,0,1,$,Guyana,Romania
+110,360,1941,0,1,$,Guyana,Romania
+110,360,1942,0,1,$,Guyana,Romania
+110,360,1944,0,1,,Guyana,Romania
+110,360,1945,0,1,,Guyana,Romania
+110,360,1946,0,1,,Guyana,Romania
+110,360,1947,0,1,$,Guyana,Romania
+110,360,1948,0,1,,Guyana,Romania
+110,360,1949,0,1,,Guyana,Romania
+110,365,1918,0,1,$,Guyana,Russia
+110,365,1919,0,1,$,Guyana,Russia
+110,365,1920,0,1,$,Guyana,Russia
+110,365,1921,0,1,$,Guyana,Russia
+110,365,1922,0,1,$,Guyana,Russia
+110,365,1923,0,1,$,Guyana,Russia
+110,365,1924,0,1,$,Guyana,Russia
+110,365,1925,0,1,,Guyana,Russia
+110,365,1926,0,1,,Guyana,Russia
+110,365,1927,0,1,,Guyana,Russia
+110,365,1928,0,1,,Guyana,Russia
+110,365,1929,0,1,,Guyana,Russia
+110,365,1930,0,1,,Guyana,Russia
+110,365,1931,0,1,$,Guyana,Russia
+110,365,1932,0,1,$,Guyana,Russia
+110,365,1933,0,1,$,Guyana,Russia
+110,365,1934,3738,1,$,Guyana,Russia
+110,365,1935,375,1,$,Guyana,Russia
+110,365,1936,843,1,$,Guyana,Russia
+110,365,1937,831,1,$,Guyana,Russia
+110,365,1938,569,1,$,Guyana,Russia
+110,365,1939,150,1,$,Guyana,Russia
+110,365,1940,189,1,$,Guyana,Russia
+110,365,1941,0,1,$,Guyana,Russia
+110,365,1942,0,1,$,Guyana,Russia
+110,365,1944,0,1,,Guyana,Russia
+110,365,1945,238,1,,Guyana,Russia
+110,365,1946,0,1,,Guyana,Russia
+110,365,1947,30,1,$,Guyana,Russia
+110,365,1948,0,1,,Guyana,Russia
+110,365,1949,0,1,,Guyana,Russia
+110,366,1918,0,1,$,Guyana,Estonia
+110,366,1919,0,1,$,Guyana,Estonia
+110,366,1920,0,1,$,Guyana,Estonia
+110,366,1921,0,1,$,Guyana,Estonia
+110,366,1922,0,1,$,Guyana,Estonia
+110,366,1923,0,1,$,Guyana,Estonia
+110,366,1924,0,1,$,Guyana,Estonia
+110,366,1925,0,1,,Guyana,Estonia
+110,366,1926,0,1,,Guyana,Estonia
+110,366,1927,0,1,,Guyana,Estonia
+110,366,1928,0,1,,Guyana,Estonia
+110,366,1929,0,1,,Guyana,Estonia
+110,366,1930,0,1,,Guyana,Estonia
+110,366,1931,0,1,$,Guyana,Estonia
+110,366,1932,0,1,$,Guyana,Estonia
+110,366,1933,0,1,$,Guyana,Estonia
+110,366,1934,105,1,$,Guyana,Estonia
+110,366,1935,301,1,$,Guyana,Estonia
+110,366,1936,594,1,$,Guyana,Estonia
+110,366,1937,885,1,$,Guyana,Estonia
+110,366,1938,215,1,$,Guyana,Estonia
+110,366,1939,187,1,$,Guyana,Estonia
+110,366,1940,42,1,$,Guyana,Estonia
+110,366,1941,64,1,$,Guyana,Estonia
+110,366,1942,0,1,$,Guyana,Estonia
+110,366,1944,66,1,,Guyana,Estonia
+110,366,1945,0,1,,Guyana,Estonia
+110,366,1946,0,1,,Guyana,Estonia
+110,366,1947,0,1,$,Guyana,Estonia
+110,366,1948,0,1,,Guyana,Estonia
+110,366,1949,0,1,,Guyana,Estonia
+110,367,1918,0,1,$,Guyana,Latvia
+110,367,1919,0,1,$,Guyana,Latvia
+110,367,1920,0,1,$,Guyana,Latvia
+110,367,1921,0,1,$,Guyana,Latvia
+110,367,1922,0,1,$,Guyana,Latvia
+110,367,1923,22387,1,$,Guyana,Latvia
+110,367,1924,0,1,$,Guyana,Latvia
+110,367,1925,0,1,,Guyana,Latvia
+110,367,1926,0,1,,Guyana,Latvia
+110,367,1927,0,1,,Guyana,Latvia
+110,367,1928,0,1,,Guyana,Latvia
+110,367,1929,0,1,,Guyana,Latvia
+110,367,1930,0,1,,Guyana,Latvia
+110,367,1931,0,1,$,Guyana,Latvia
+110,367,1932,0,1,$,Guyana,Latvia
+110,367,1933,0,1,$,Guyana,Latvia
+110,367,1934,126,1,$,Guyana,Latvia
+110,367,1935,850,1,$,Guyana,Latvia
+110,367,1936,1000,1,$,Guyana,Latvia
+110,367,1937,1042,1,$,Guyana,Latvia
+110,367,1938,688,1,$,Guyana,Latvia
+110,367,1939,35,1,$,Guyana,Latvia
+110,367,1940,0,1,$,Guyana,Latvia
+110,367,1941,0,1,$,Guyana,Latvia
+110,367,1942,0,1,$,Guyana,Latvia
+110,367,1944,0,1,,Guyana,Latvia
+110,367,1945,0,1,,Guyana,Latvia
+110,367,1946,0,1,,Guyana,Latvia
+110,367,1947,0,1,$,Guyana,Latvia
+110,367,1948,0,1,,Guyana,Latvia
+110,367,1949,0,1,,Guyana,Latvia
+110,368,1918,0,1,$,Guyana,Lithuania
+110,368,1919,0,1,$,Guyana,Lithuania
+110,368,1920,0,1,$,Guyana,Lithuania
+110,368,1921,0,1,$,Guyana,Lithuania
+110,368,1922,0,1,$,Guyana,Lithuania
+110,368,1923,0,1,$,Guyana,Lithuania
+110,368,1924,0,1,$,Guyana,Lithuania
+110,368,1925,0,1,,Guyana,Lithuania
+110,368,1926,0,1,,Guyana,Lithuania
+110,368,1927,0,1,,Guyana,Lithuania
+110,368,1928,0,1,,Guyana,Lithuania
+110,368,1929,0,1,,Guyana,Lithuania
+110,368,1930,0,1,,Guyana,Lithuania
+110,368,1931,0,1,$,Guyana,Lithuania
+110,368,1932,0,1,$,Guyana,Lithuania
+110,368,1933,0,1,$,Guyana,Lithuania
+110,368,1934,40,1,$,Guyana,Lithuania
+110,368,1935,37,1,$,Guyana,Lithuania
+110,368,1936,18,1,$,Guyana,Lithuania
+110,368,1937,53,1,$,Guyana,Lithuania
+110,368,1938,0,1,$,Guyana,Lithuania
+110,368,1939,0,1,$,Guyana,Lithuania
+110,368,1940,0,1,$,Guyana,Lithuania
+110,368,1941,0,1,$,Guyana,Lithuania
+110,368,1942,0,1,$,Guyana,Lithuania
+110,368,1944,0,1,,Guyana,Lithuania
+110,368,1945,0,1,,Guyana,Lithuania
+110,368,1946,0,1,,Guyana,Lithuania
+110,368,1947,0,1,$,Guyana,Lithuania
+110,368,1948,0,1,,Guyana,Lithuania
+110,368,1949,0,1,,Guyana,Lithuania
+110,375,1918,0,1,$,Guyana,Finland
+110,375,1919,0,1,$,Guyana,Finland
+110,375,1920,0,1,$,Guyana,Finland
+110,375,1921,0,1,$,Guyana,Finland
+110,375,1922,0,1,$,Guyana,Finland
+110,375,1923,0,1,$,Guyana,Finland
+110,375,1924,0,1,$,Guyana,Finland
+110,375,1925,0,1,,Guyana,Finland
+110,375,1926,0,1,,Guyana,Finland
+110,375,1927,0,1,,Guyana,Finland
+110,375,1928,0,1,,Guyana,Finland
+110,375,1929,0,1,,Guyana,Finland
+110,375,1930,0,1,,Guyana,Finland
+110,375,1931,0,1,$,Guyana,Finland
+110,375,1932,0,1,$,Guyana,Finland
+110,375,1933,0,1,$,Guyana,Finland
+110,375,1934,1871,1,$,Guyana,Finland
+110,375,1935,1354,1,$,Guyana,Finland
+110,375,1936,1053,1,$,Guyana,Finland
+110,375,1937,227,1,$,Guyana,Finland
+110,375,1938,1016,1,$,Guyana,Finland
+110,375,1939,775,1,$,Guyana,Finland
+110,375,1940,60,1,$,Guyana,Finland
+110,375,1941,0,1,$,Guyana,Finland
+110,375,1942,10,1,$,Guyana,Finland
+110,375,1944,0,1,,Guyana,Finland
+110,375,1945,0,1,,Guyana,Finland
+110,375,1946,0,1,,Guyana,Finland
+110,375,1947,298,1,$,Guyana,Finland
+110,375,1948,0,1,,Guyana,Finland
+110,375,1949,3017,1,,Guyana,Finland
+110,380,1918,614,1,$,Guyana,Sweden
+110,380,1919,0,1,$,Guyana,Sweden
+110,380,1920,4310,1,$,Guyana,Sweden
+110,380,1921,2772,1,$,Guyana,Sweden
+110,380,1922,5894,1,$,Guyana,Sweden
+110,380,1923,1678,1,$,Guyana,Sweden
+110,380,1924,5367,1,$,Guyana,Sweden
+110,380,1925,10074,1,,Guyana,Sweden
+110,380,1926,15924,1,,Guyana,Sweden
+110,380,1927,14182,1,,Guyana,Sweden
+110,380,1928,3332,1,,Guyana,Sweden
+110,380,1929,3515,1,,Guyana,Sweden
+110,380,1930,6106,1,,Guyana,Sweden
+110,380,1931,7620,1,$,Guyana,Sweden
+110,380,1932,15934,1,$,Guyana,Sweden
+110,380,1933,14313,1,$,Guyana,Sweden
+110,380,1934,17888,1,$,Guyana,Sweden
+110,380,1935,18704,1,$,Guyana,Sweden
+110,380,1936,16123,1,$,Guyana,Sweden
+110,380,1937,17659,1,$,Guyana,Sweden
+110,380,1938,12697,1,$,Guyana,Sweden
+110,380,1939,15910,1,$,Guyana,Sweden
+110,380,1940,21773,1,$,Guyana,Sweden
+110,380,1941,1326,1,$,Guyana,Sweden
+110,380,1942,7724,1,$,Guyana,Sweden
+110,380,1944,0,1,,Guyana,Sweden
+110,380,1945,123,1,,Guyana,Sweden
+110,380,1946,15829,1,,Guyana,Sweden
+110,380,1947,39217,1,$,Guyana,Sweden
+110,380,1948,73638,1,,Guyana,Sweden
+110,380,1949,112858,1,,Guyana,Sweden
+110,385,1918,0,1,$,Guyana,Norway
+110,385,1919,0,1,$,Guyana,Norway
+110,385,1920,280,1,$,Guyana,Norway
+110,385,1921,51,1,$,Guyana,Norway
+110,385,1922,1065,1,$,Guyana,Norway
+110,385,1923,2851,1,$,Guyana,Norway
+110,385,1924,550,1,$,Guyana,Norway
+110,385,1925,3328,1,,Guyana,Norway
+110,385,1926,2711,1,,Guyana,Norway
+110,385,1927,2302,1,,Guyana,Norway
+110,385,1928,2940,1,,Guyana,Norway
+110,385,1929,1606,1,,Guyana,Norway
+110,385,1930,1414,1,,Guyana,Norway
+110,385,1931,1178,1,$,Guyana,Norway
+110,385,1932,3153,1,$,Guyana,Norway
+110,385,1933,3557,1,$,Guyana,Norway
+110,385,1934,6428,1,$,Guyana,Norway
+110,385,1935,5147,1,$,Guyana,Norway
+110,385,1936,4138,1,$,Guyana,Norway
+110,385,1937,4624,1,$,Guyana,Norway
+110,385,1938,16437,1,$,Guyana,Norway
+110,385,1939,5311,1,$,Guyana,Norway
+110,385,1940,1620,1,$,Guyana,Norway
+110,385,1941,104,1,$,Guyana,Norway
+110,385,1942,246,1,$,Guyana,Norway
+110,385,1944,122,1,,Guyana,Norway
+110,385,1945,2391,1,,Guyana,Norway
+110,385,1946,67,1,,Guyana,Norway
+110,385,1947,5927,1,$,Guyana,Norway
+110,385,1948,39095,1,,Guyana,Norway
+110,385,1949,24320,1,,Guyana,Norway
+110,390,1918,5828,1,$,Guyana,Denmark
+110,390,1919,2830,1,$,Guyana,Denmark
+110,390,1920,20695,1,$,Guyana,Denmark
+110,390,1921,4317,1,$,Guyana,Denmark
+110,390,1922,5060,1,$,Guyana,Denmark
+110,390,1923,5655,1,$,Guyana,Denmark
+110,390,1924,2517,1,$,Guyana,Denmark
+110,390,1925,8239,1,,Guyana,Denmark
+110,390,1926,7653,1,,Guyana,Denmark
+110,390,1927,3859,1,,Guyana,Denmark
+110,390,1928,3177,1,,Guyana,Denmark
+110,390,1929,4636,1,,Guyana,Denmark
+110,390,1930,1782,1,,Guyana,Denmark
+110,390,1931,994,1,$,Guyana,Denmark
+110,390,1932,5052,1,$,Guyana,Denmark
+110,390,1933,9727,1,$,Guyana,Denmark
+110,390,1934,14054,1,$,Guyana,Denmark
+110,390,1935,10769,1,$,Guyana,Denmark
+110,390,1936,8718,1,$,Guyana,Denmark
+110,390,1937,7052,1,$,Guyana,Denmark
+110,390,1938,10423,1,$,Guyana,Denmark
+110,390,1939,10018,1,$,Guyana,Denmark
+110,390,1940,2586,1,$,Guyana,Denmark
+110,390,1941,688,1,$,Guyana,Denmark
+110,390,1942,0,1,$,Guyana,Denmark
+110,390,1944,0,1,,Guyana,Denmark
+110,390,1945,0,1,,Guyana,Denmark
+110,390,1946,0,1,,Guyana,Denmark
+110,390,1947,957,1,$,Guyana,Denmark
+110,390,1948,8573,1,,Guyana,Denmark
+110,390,1949,36718,1,,Guyana,Denmark
+110,410,1918,0,1,$,Guyana,Canary Islands
+110,410,1919,0,1,$,Guyana,Canary Islands
+110,410,1920,0,1,$,Guyana,Canary Islands
+110,410,1921,0,1,$,Guyana,Canary Islands
+110,410,1922,0,1,$,Guyana,Canary Islands
+110,410,1923,0,1,$,Guyana,Canary Islands
+110,410,1924,0,1,$,Guyana,Canary Islands
+110,410,1925,0,1,,Guyana,Canary Islands
+110,410,1926,0,1,,Guyana,Canary Islands
+110,410,1927,0,1,,Guyana,Canary Islands
+110,410,1928,0,1,,Guyana,Canary Islands
+110,410,1929,0,1,,Guyana,Canary Islands
+110,410,1930,0,1,,Guyana,Canary Islands
+110,410,1931,0,1,$,Guyana,Canary Islands
+110,410,1932,0,1,$,Guyana,Canary Islands
+110,410,1933,0,1,$,Guyana,Canary Islands
+110,410,1934,120,1,$,Guyana,Canary Islands
+110,410,1935,20,1,$,Guyana,Canary Islands
+110,410,1936,0,1,$,Guyana,Canary Islands
+110,410,1937,0,1,$,Guyana,Canary Islands
+110,410,1938,0,1,$,Guyana,Canary Islands
+110,410,1939,0,1,$,Guyana,Canary Islands
+110,410,1940,0,1,$,Guyana,Canary Islands
+110,410,1941,0,1,$,Guyana,Canary Islands
+110,410,1942,0,1,$,Guyana,Canary Islands
+110,410,1944,0,1,,Guyana,Canary Islands
+110,410,1945,13,1,,Guyana,Canary Islands
+110,410,1946,0,1,,Guyana,Canary Islands
+110,410,1947,0,1,$,Guyana,Canary Islands
+110,410,1948,0,1,,Guyana,Canary Islands
+110,410,1949,0,1,,Guyana,Canary Islands
+110,430,1918,0,1,$,Guyana,French West Africa
+110,430,1919,0,1,$,Guyana,French West Africa
+110,430,1920,0,1,$,Guyana,French West Africa
+110,430,1921,0,1,$,Guyana,French West Africa
+110,430,1922,0,1,$,Guyana,French West Africa
+110,430,1923,0,1,$,Guyana,French West Africa
+110,430,1924,0,1,$,Guyana,French West Africa
+110,430,1925,0,1,,Guyana,French West Africa
+110,430,1926,0,1,,Guyana,French West Africa
+110,430,1927,0,1,,Guyana,French West Africa
+110,430,1928,0,1,,Guyana,French West Africa
+110,430,1929,0,1,,Guyana,French West Africa
+110,430,1930,0,1,,Guyana,French West Africa
+110,430,1931,0,1,$,Guyana,French West Africa
+110,430,1932,0,1,$,Guyana,French West Africa
+110,430,1933,0,1,$,Guyana,French West Africa
+110,430,1934,0,1,$,Guyana,French West Africa
+110,430,1935,0,1,$,Guyana,French West Africa
+110,430,1936,0,1,$,Guyana,French West Africa
+110,430,1937,0,1,$,Guyana,French West Africa
+110,430,1938,0,1,$,Guyana,French West Africa
+110,430,1939,0,1,$,Guyana,French West Africa
+110,430,1940,0,1,$,Guyana,French West Africa
+110,430,1941,0,1,$,Guyana,French West Africa
+110,430,1942,0,1,$,Guyana,French West Africa
+110,430,1944,0,1,,Guyana,French West Africa
+110,430,1945,0,1,,Guyana,French West Africa
+110,430,1946,0,1,,Guyana,French West Africa
+110,430,1947,0,1,$,Guyana,French West Africa
+110,430,1948,17123,1,,Guyana,French West Africa
+110,430,1949,0,1,,Guyana,French West Africa
+110,451,1918,0,1,$,Guyana,Sierra Leone
+110,451,1919,0,1,$,Guyana,Sierra Leone
+110,451,1920,0,1,$,Guyana,Sierra Leone
+110,451,1921,0,1,$,Guyana,Sierra Leone
+110,451,1922,0,1,$,Guyana,Sierra Leone
+110,451,1923,0,1,$,Guyana,Sierra Leone
+110,451,1924,0,1,$,Guyana,Sierra Leone
+110,451,1925,0,1,,Guyana,Sierra Leone
+110,451,1926,0,1,,Guyana,Sierra Leone
+110,451,1927,0,1,,Guyana,Sierra Leone
+110,451,1928,0,1,,Guyana,Sierra Leone
+110,451,1929,0,1,,Guyana,Sierra Leone
+110,451,1930,0,1,,Guyana,Sierra Leone
+110,451,1931,0,1,$,Guyana,Sierra Leone
+110,451,1932,0,1,$,Guyana,Sierra Leone
+110,451,1933,0,1,$,Guyana,Sierra Leone
+110,451,1934,0,1,$,Guyana,Sierra Leone
+110,451,1935,0,1,$,Guyana,Sierra Leone
+110,451,1936,0,1,$,Guyana,Sierra Leone
+110,451,1937,0,1,$,Guyana,Sierra Leone
+110,451,1938,0,1,$,Guyana,Sierra Leone
+110,451,1939,0,1,$,Guyana,Sierra Leone
+110,451,1940,0,1,$,Guyana,Sierra Leone
+110,451,1941,0,1,$,Guyana,Sierra Leone
+110,451,1942,0,1,$,Guyana,Sierra Leone
+110,451,1944,0,1,,Guyana,Sierra Leone
+110,451,1945,0,1,,Guyana,Sierra Leone
+110,451,1946,0,1,,Guyana,Sierra Leone
+110,451,1947,0,1,$,Guyana,Sierra Leone
+110,451,1948,4730,1,,Guyana,Sierra Leone
+110,451,1949,0,1,,Guyana,Sierra Leone
+110,465,1918,0,1,$,Guyana,British West Africa
+110,465,1919,0,1,$,Guyana,British West Africa
+110,465,1920,29,1,$,Guyana,British West Africa
+110,465,1921,0,1,$,Guyana,British West Africa
+110,465,1922,0,1,$,Guyana,British West Africa
+110,465,1923,0,1,$,Guyana,British West Africa
+110,465,1924,0,1,$,Guyana,British West Africa
+110,465,1925,0,1,,Guyana,British West Africa
+110,465,1926,199,1,,Guyana,British West Africa
+110,465,1927,653,1,,Guyana,British West Africa
+110,465,1928,297,1,,Guyana,British West Africa
+110,465,1929,209,1,,Guyana,British West Africa
+110,465,1930,1231,1,,Guyana,British West Africa
+110,465,1931,732,1,$,Guyana,British West Africa
+110,465,1932,442,1,$,Guyana,British West Africa
+110,465,1933,2093,1,$,Guyana,British West Africa
+110,465,1934,4224,1,$,Guyana,British West Africa
+110,465,1935,5681,1,$,Guyana,British West Africa
+110,465,1936,6368,1,$,Guyana,British West Africa
+110,465,1937,5756,1,$,Guyana,British West Africa
+110,465,1938,6589,1,$,Guyana,British West Africa
+110,465,1939,3856,1,$,Guyana,British West Africa
+110,465,1940,4053,1,$,Guyana,British West Africa
+110,465,1941,1152,1,$,Guyana,British West Africa
+110,465,1942,157,1,$,Guyana,British West Africa
+110,465,1944,66,1,,Guyana,British West Africa
+110,465,1945,38,1,,Guyana,British West Africa
+110,465,1946,6821,1,,Guyana,British West Africa
+110,465,1947,2749,1,$,Guyana,British West Africa
+110,465,1948,599,1,,Guyana,British West Africa
+110,465,1949,3258,1,,Guyana,British West Africa
+110,500,1918,0,1,$,Guyana,Uganda
+110,500,1919,0,1,$,Guyana,Uganda
+110,500,1920,0,1,$,Guyana,Uganda
+110,500,1921,0,1,$,Guyana,Uganda
+110,500,1922,0,1,$,Guyana,Uganda
+110,500,1923,0,1,$,Guyana,Uganda
+110,500,1924,0,1,$,Guyana,Uganda
+110,500,1925,0,1,,Guyana,Uganda
+110,500,1926,0,1,,Guyana,Uganda
+110,500,1927,0,1,,Guyana,Uganda
+110,500,1928,0,1,,Guyana,Uganda
+110,500,1929,0,1,,Guyana,Uganda
+110,500,1930,0,1,,Guyana,Uganda
+110,500,1931,0,1,$,Guyana,Uganda
+110,500,1932,0,1,$,Guyana,Uganda
+110,500,1933,0,1,$,Guyana,Uganda
+110,500,1934,0,1,$,Guyana,Uganda
+110,500,1935,0,1,$,Guyana,Uganda
+110,500,1936,0,1,$,Guyana,Uganda
+110,500,1937,0,1,$,Guyana,Uganda
+110,500,1938,0,1,$,Guyana,Uganda
+110,500,1939,0,1,$,Guyana,Uganda
+110,500,1940,0,1,$,Guyana,Uganda
+110,500,1941,0,1,$,Guyana,Uganda
+110,500,1942,0,1,$,Guyana,Uganda
+110,500,1944,0,1,,Guyana,Uganda
+110,500,1945,0,1,,Guyana,Uganda
+110,500,1946,0,1,,Guyana,Uganda
+110,500,1947,6687,1,$,Guyana,Uganda
+110,500,1948,185,1,,Guyana,Uganda
+110,500,1949,0,1,,Guyana,Uganda
+110,501,1918,0,1,$,Guyana,Kenya
+110,501,1919,0,1,$,Guyana,Kenya
+110,501,1920,0,1,$,Guyana,Kenya
+110,501,1921,0,1,$,Guyana,Kenya
+110,501,1922,0,1,$,Guyana,Kenya
+110,501,1923,0,1,$,Guyana,Kenya
+110,501,1924,0,1,$,Guyana,Kenya
+110,501,1925,0,1,,Guyana,Kenya
+110,501,1926,0,1,,Guyana,Kenya
+110,501,1927,0,1,,Guyana,Kenya
+110,501,1928,0,1,,Guyana,Kenya
+110,501,1929,0,1,,Guyana,Kenya
+110,501,1930,0,1,,Guyana,Kenya
+110,501,1931,0,1,$,Guyana,Kenya
+110,501,1932,0,1,$,Guyana,Kenya
+110,501,1933,0,1,$,Guyana,Kenya
+110,501,1934,0,1,$,Guyana,Kenya
+110,501,1935,0,1,$,Guyana,Kenya
+110,501,1936,0,1,$,Guyana,Kenya
+110,501,1937,0,1,$,Guyana,Kenya
+110,501,1938,0,1,$,Guyana,Kenya
+110,501,1939,0,1,$,Guyana,Kenya
+110,501,1940,0,1,$,Guyana,Kenya
+110,501,1941,0,1,$,Guyana,Kenya
+110,501,1942,0,1,$,Guyana,Kenya
+110,501,1944,0,1,,Guyana,Kenya
+110,501,1945,0,1,,Guyana,Kenya
+110,501,1946,0,1,,Guyana,Kenya
+110,501,1947,0,1,$,Guyana,Kenya
+110,501,1948,1825,1,,Guyana,Kenya
+110,501,1949,0,1,,Guyana,Kenya
+110,505,1918,5,1,$,Guyana,British East Africa
+110,505,1919,0,1,$,Guyana,British East Africa
+110,505,1920,0,1,$,Guyana,British East Africa
+110,505,1921,49,1,$,Guyana,British East Africa
+110,505,1922,0,1,$,Guyana,British East Africa
+110,505,1923,0,1,$,Guyana,British East Africa
+110,505,1924,19878,1,$,Guyana,British East Africa
+110,505,1925,0,1,,Guyana,British East Africa
+110,505,1926,106,1,,Guyana,British East Africa
+110,505,1927,0,1,,Guyana,British East Africa
+110,505,1928,0,1,,Guyana,British East Africa
+110,505,1929,0,1,,Guyana,British East Africa
+110,505,1930,0,1,,Guyana,British East Africa
+110,505,1931,0,1,$,Guyana,British East Africa
+110,505,1932,718,1,$,Guyana,British East Africa
+110,505,1933,21,1,$,Guyana,British East Africa
+110,505,1934,425,1,$,Guyana,British East Africa
+110,505,1935,139,1,$,Guyana,British East Africa
+110,505,1936,92,1,$,Guyana,British East Africa
+110,505,1937,612,1,$,Guyana,British East Africa
+110,505,1938,856,1,$,Guyana,British East Africa
+110,505,1939,165,1,$,Guyana,British East Africa
+110,505,1940,645,1,$,Guyana,British East Africa
+110,505,1941,132,1,$,Guyana,British East Africa
+110,505,1942,177,1,$,Guyana,British East Africa
+110,505,1944,0,1,,Guyana,British East Africa
+110,505,1945,0,1,,Guyana,British East Africa
+110,505,1946,2992,1,,Guyana,British East Africa
+110,505,1947,2357,1,$,Guyana,British East Africa
+110,505,1948,797,1,,Guyana,British East Africa
+110,505,1949,0,1,,Guyana,British East Africa
+110,510,1918,0,1,$,Guyana,Tanzania
+110,510,1919,0,1,$,Guyana,Tanzania
+110,510,1920,0,1,$,Guyana,Tanzania
+110,510,1921,0,1,$,Guyana,Tanzania
+110,510,1922,0,1,$,Guyana,Tanzania
+110,510,1923,0,1,$,Guyana,Tanzania
+110,510,1924,0,1,$,Guyana,Tanzania
+110,510,1925,0,1,,Guyana,Tanzania
+110,510,1926,0,1,,Guyana,Tanzania
+110,510,1927,0,1,,Guyana,Tanzania
+110,510,1928,0,1,,Guyana,Tanzania
+110,510,1929,0,1,,Guyana,Tanzania
+110,510,1930,0,1,,Guyana,Tanzania
+110,510,1931,0,1,$,Guyana,Tanzania
+110,510,1932,0,1,$,Guyana,Tanzania
+110,510,1933,0,1,$,Guyana,Tanzania
+110,510,1934,0,1,$,Guyana,Tanzania
+110,510,1935,0,1,$,Guyana,Tanzania
+110,510,1936,0,1,$,Guyana,Tanzania
+110,510,1937,0,1,$,Guyana,Tanzania
+110,510,1938,0,1,$,Guyana,Tanzania
+110,510,1939,0,1,$,Guyana,Tanzania
+110,510,1940,0,1,$,Guyana,Tanzania
+110,510,1941,0,1,$,Guyana,Tanzania
+110,510,1942,0,1,$,Guyana,Tanzania
+110,510,1944,0,1,,Guyana,Tanzania
+110,510,1945,0,1,,Guyana,Tanzania
+110,510,1946,0,1,,Guyana,Tanzania
+110,510,1947,0,1,$,Guyana,Tanzania
+110,510,1948,0,1,,Guyana,Tanzania
+110,510,1949,57,1,,Guyana,Tanzania
+110,511,1918,0,1,$,Guyana,Zanzibar
+110,511,1919,0,1,$,Guyana,Zanzibar
+110,511,1920,0,1,$,Guyana,Zanzibar
+110,511,1921,0,1,$,Guyana,Zanzibar
+110,511,1922,0,1,$,Guyana,Zanzibar
+110,511,1923,0,1,$,Guyana,Zanzibar
+110,511,1924,0,1,$,Guyana,Zanzibar
+110,511,1925,0,1,,Guyana,Zanzibar
+110,511,1926,0,1,,Guyana,Zanzibar
+110,511,1927,0,1,,Guyana,Zanzibar
+110,511,1928,0,1,,Guyana,Zanzibar
+110,511,1929,0,1,,Guyana,Zanzibar
+110,511,1930,0,1,,Guyana,Zanzibar
+110,511,1931,0,1,$,Guyana,Zanzibar
+110,511,1932,0,1,$,Guyana,Zanzibar
+110,511,1933,0,1,$,Guyana,Zanzibar
+110,511,1934,0,1,$,Guyana,Zanzibar
+110,511,1935,0,1,$,Guyana,Zanzibar
+110,511,1936,0,1,$,Guyana,Zanzibar
+110,511,1937,0,1,$,Guyana,Zanzibar
+110,511,1938,0,1,$,Guyana,Zanzibar
+110,511,1939,0,1,$,Guyana,Zanzibar
+110,511,1940,0,1,$,Guyana,Zanzibar
+110,511,1941,0,1,$,Guyana,Zanzibar
+110,511,1942,0,1,$,Guyana,Zanzibar
+110,511,1944,0,1,,Guyana,Zanzibar
+110,511,1945,0,1,,Guyana,Zanzibar
+110,511,1946,0,1,,Guyana,Zanzibar
+110,511,1947,0,1,$,Guyana,Zanzibar
+110,511,1948,301,1,,Guyana,Zanzibar
+110,511,1949,0,1,,Guyana,Zanzibar
+110,521,1918,0,1,$,Guyana,British Somaliland
+110,521,1919,0,1,$,Guyana,British Somaliland
+110,521,1920,0,1,$,Guyana,British Somaliland
+110,521,1921,0,1,$,Guyana,British Somaliland
+110,521,1922,0,1,$,Guyana,British Somaliland
+110,521,1923,0,1,$,Guyana,British Somaliland
+110,521,1924,0,1,$,Guyana,British Somaliland
+110,521,1925,0,1,,Guyana,British Somaliland
+110,521,1926,0,1,,Guyana,British Somaliland
+110,521,1927,0,1,,Guyana,British Somaliland
+110,521,1928,0,1,,Guyana,British Somaliland
+110,521,1929,0,1,,Guyana,British Somaliland
+110,521,1930,0,1,,Guyana,British Somaliland
+110,521,1931,0,1,$,Guyana,British Somaliland
+110,521,1932,0,1,$,Guyana,British Somaliland
+110,521,1933,0,1,$,Guyana,British Somaliland
+110,521,1934,0,1,$,Guyana,British Somaliland
+110,521,1935,0,1,$,Guyana,British Somaliland
+110,521,1936,0,1,$,Guyana,British Somaliland
+110,521,1937,0,1,$,Guyana,British Somaliland
+110,521,1938,0,1,$,Guyana,British Somaliland
+110,521,1939,0,1,$,Guyana,British Somaliland
+110,521,1940,0,1,$,Guyana,British Somaliland
+110,521,1941,65,1,$,Guyana,British Somaliland
+110,521,1942,0,1,$,Guyana,British Somaliland
+110,521,1944,0,1,,Guyana,British Somaliland
+110,521,1945,0,1,,Guyana,British Somaliland
+110,521,1946,232,1,,Guyana,British Somaliland
+110,521,1947,0,1,$,Guyana,British Somaliland
+110,521,1948,337,1,,Guyana,British Somaliland
+110,521,1949,63,1,,Guyana,British Somaliland
+110,552,1918,0,1,$,Guyana,Zimbabwe
+110,552,1919,0,1,$,Guyana,Zimbabwe
+110,552,1920,0,1,$,Guyana,Zimbabwe
+110,552,1921,0,1,$,Guyana,Zimbabwe
+110,552,1922,0,1,$,Guyana,Zimbabwe
+110,552,1923,0,1,$,Guyana,Zimbabwe
+110,552,1924,0,1,$,Guyana,Zimbabwe
+110,552,1925,0,1,,Guyana,Zimbabwe
+110,552,1926,0,1,,Guyana,Zimbabwe
+110,552,1927,0,1,,Guyana,Zimbabwe
+110,552,1928,0,1,,Guyana,Zimbabwe
+110,552,1929,0,1,,Guyana,Zimbabwe
+110,552,1930,0,1,,Guyana,Zimbabwe
+110,552,1931,0,1,$,Guyana,Zimbabwe
+110,552,1932,0,1,$,Guyana,Zimbabwe
+110,552,1933,0,1,$,Guyana,Zimbabwe
+110,552,1934,0,1,$,Guyana,Zimbabwe
+110,552,1935,3972,1,$,Guyana,Zimbabwe
+110,552,1936,5762,1,$,Guyana,Zimbabwe
+110,552,1937,4319,1,$,Guyana,Zimbabwe
+110,552,1938,3905,1,$,Guyana,Zimbabwe
+110,552,1939,3956,1,$,Guyana,Zimbabwe
+110,552,1940,0,1,$,Guyana,Zimbabwe
+110,552,1941,0,1,$,Guyana,Zimbabwe
+110,552,1942,0,1,$,Guyana,Zimbabwe
+110,552,1944,0,1,,Guyana,Zimbabwe
+110,552,1945,0,1,,Guyana,Zimbabwe
+110,552,1946,0,1,,Guyana,Zimbabwe
+110,552,1947,0,1,$,Guyana,Zimbabwe
+110,552,1948,4055,1,,Guyana,Zimbabwe
+110,552,1949,104,1,,Guyana,Zimbabwe
+110,560,1918,0,1,$,Guyana,South Africa
+110,560,1919,0,1,$,Guyana,South Africa
+110,560,1920,0,1,$,Guyana,South Africa
+110,560,1921,0,1,$,Guyana,South Africa
+110,560,1922,0,1,$,Guyana,South Africa
+110,560,1923,0,1,$,Guyana,South Africa
+110,560,1924,0,1,$,Guyana,South Africa
+110,560,1925,21586,1,,Guyana,South Africa
+110,560,1926,4,1,,Guyana,South Africa
+110,560,1927,0,1,,Guyana,South Africa
+110,560,1928,0,1,,Guyana,South Africa
+110,560,1929,0,1,,Guyana,South Africa
+110,560,1930,0,1,,Guyana,South Africa
+110,560,1931,536,1,$,Guyana,South Africa
+110,560,1932,0,1,$,Guyana,South Africa
+110,560,1933,0,1,$,Guyana,South Africa
+110,560,1934,124,1,$,Guyana,South Africa
+110,560,1935,1396,1,$,Guyana,South Africa
+110,560,1936,1968,1,$,Guyana,South Africa
+110,560,1937,870,1,$,Guyana,South Africa
+110,560,1938,2496,1,$,Guyana,South Africa
+110,560,1939,1730,1,$,Guyana,South Africa
+110,560,1940,3886,1,$,Guyana,South Africa
+110,560,1941,8132,1,$,Guyana,South Africa
+110,560,1942,10208,1,$,Guyana,South Africa
+110,560,1944,2927,1,,Guyana,South Africa
+110,560,1945,6418,1,,Guyana,South Africa
+110,560,1946,22637,1,,Guyana,South Africa
+110,560,1947,5183,1,$,Guyana,South Africa
+110,560,1948,18555,1,,Guyana,South Africa
+110,560,1949,13453,1,,Guyana,South Africa
+110,573,1918,0,1,$,Guyana,British South Africa
+110,573,1919,0,1,$,Guyana,British South Africa
+110,573,1920,0,1,$,Guyana,British South Africa
+110,573,1921,0,1,$,Guyana,British South Africa
+110,573,1922,0,1,$,Guyana,British South Africa
+110,573,1923,46,1,$,Guyana,British South Africa
+110,573,1924,0,1,$,Guyana,British South Africa
+110,573,1925,0,1,,Guyana,British South Africa
+110,573,1926,0,1,,Guyana,British South Africa
+110,573,1927,0,1,,Guyana,British South Africa
+110,573,1928,267,1,,Guyana,British South Africa
+110,573,1929,0,1,,Guyana,British South Africa
+110,573,1930,0,1,,Guyana,British South Africa
+110,573,1931,0,1,$,Guyana,British South Africa
+110,573,1932,0,1,$,Guyana,British South Africa
+110,573,1933,0,1,$,Guyana,British South Africa
+110,573,1934,0,1,$,Guyana,British South Africa
+110,573,1935,0,1,$,Guyana,British South Africa
+110,573,1936,0,1,$,Guyana,British South Africa
+110,573,1937,0,1,$,Guyana,British South Africa
+110,573,1938,0,1,$,Guyana,British South Africa
+110,573,1939,0,1,$,Guyana,British South Africa
+110,573,1940,0,1,$,Guyana,British South Africa
+110,573,1941,0,1,$,Guyana,British South Africa
+110,573,1942,0,1,$,Guyana,British South Africa
+110,573,1944,0,1,,Guyana,British South Africa
+110,573,1945,0,1,,Guyana,British South Africa
+110,573,1946,0,1,,Guyana,British South Africa
+110,573,1947,0,1,$,Guyana,British South Africa
+110,573,1948,0,1,,Guyana,British South Africa
+110,573,1949,0,1,,Guyana,British South Africa
+110,580,1918,0,1,$,Guyana,Madagascar
+110,580,1919,0,1,$,Guyana,Madagascar
+110,580,1920,0,1,$,Guyana,Madagascar
+110,580,1921,0,1,$,Guyana,Madagascar
+110,580,1922,0,1,$,Guyana,Madagascar
+110,580,1923,0,1,$,Guyana,Madagascar
+110,580,1924,0,1,$,Guyana,Madagascar
+110,580,1925,0,1,,Guyana,Madagascar
+110,580,1926,0,1,,Guyana,Madagascar
+110,580,1927,0,1,,Guyana,Madagascar
+110,580,1928,0,1,,Guyana,Madagascar
+110,580,1929,0,1,,Guyana,Madagascar
+110,580,1930,0,1,,Guyana,Madagascar
+110,580,1931,0,1,$,Guyana,Madagascar
+110,580,1932,0,1,$,Guyana,Madagascar
+110,580,1933,0,1,$,Guyana,Madagascar
+110,580,1934,89,1,$,Guyana,Madagascar
+110,580,1935,68,1,$,Guyana,Madagascar
+110,580,1936,37,1,$,Guyana,Madagascar
+110,580,1937,87,1,$,Guyana,Madagascar
+110,580,1938,49,1,$,Guyana,Madagascar
+110,580,1939,116,1,$,Guyana,Madagascar
+110,580,1940,20,1,$,Guyana,Madagascar
+110,580,1941,28,1,$,Guyana,Madagascar
+110,580,1942,0,1,$,Guyana,Madagascar
+110,580,1944,0,1,,Guyana,Madagascar
+110,580,1945,0,1,,Guyana,Madagascar
+110,580,1946,0,1,,Guyana,Madagascar
+110,580,1947,0,1,$,Guyana,Madagascar
+110,580,1948,0,1,,Guyana,Madagascar
+110,580,1949,0,1,,Guyana,Madagascar
+110,585,1918,0,1,$,Guyana,Reunion
+110,585,1919,0,1,$,Guyana,Reunion
+110,585,1920,0,1,$,Guyana,Reunion
+110,585,1921,0,1,$,Guyana,Reunion
+110,585,1922,0,1,$,Guyana,Reunion
+110,585,1923,0,1,$,Guyana,Reunion
+110,585,1924,0,1,$,Guyana,Reunion
+110,585,1925,0,1,,Guyana,Reunion
+110,585,1926,0,1,,Guyana,Reunion
+110,585,1927,0,1,,Guyana,Reunion
+110,585,1928,0,1,,Guyana,Reunion
+110,585,1929,0,1,,Guyana,Reunion
+110,585,1930,0,1,,Guyana,Reunion
+110,585,1931,0,1,$,Guyana,Reunion
+110,585,1932,0,1,$,Guyana,Reunion
+110,585,1933,0,1,$,Guyana,Reunion
+110,585,1934,0,1,$,Guyana,Reunion
+110,585,1935,0,1,$,Guyana,Reunion
+110,585,1936,0,1,$,Guyana,Reunion
+110,585,1937,0,1,$,Guyana,Reunion
+110,585,1938,0,1,$,Guyana,Reunion
+110,585,1939,86,1,$,Guyana,Reunion
+110,585,1940,0,1,$,Guyana,Reunion
+110,585,1941,0,1,$,Guyana,Reunion
+110,585,1942,0,1,$,Guyana,Reunion
+110,585,1944,0,1,,Guyana,Reunion
+110,585,1945,0,1,,Guyana,Reunion
+110,585,1946,0,1,,Guyana,Reunion
+110,585,1947,0,1,$,Guyana,Reunion
+110,585,1948,0,1,,Guyana,Reunion
+110,585,1949,0,1,,Guyana,Reunion
+110,590,1918,0,1,$,Guyana,Mauritius
+110,590,1919,0,1,$,Guyana,Mauritius
+110,590,1920,0,1,$,Guyana,Mauritius
+110,590,1921,0,1,$,Guyana,Mauritius
+110,590,1922,0,1,$,Guyana,Mauritius
+110,590,1923,0,1,$,Guyana,Mauritius
+110,590,1924,0,1,$,Guyana,Mauritius
+110,590,1925,0,1,,Guyana,Mauritius
+110,590,1926,0,1,,Guyana,Mauritius
+110,590,1927,0,1,,Guyana,Mauritius
+110,590,1928,0,1,,Guyana,Mauritius
+110,590,1929,0,1,,Guyana,Mauritius
+110,590,1930,0,1,,Guyana,Mauritius
+110,590,1931,0,1,$,Guyana,Mauritius
+110,590,1932,0,1,$,Guyana,Mauritius
+110,590,1933,0,1,$,Guyana,Mauritius
+110,590,1934,0,1,$,Guyana,Mauritius
+110,590,1935,0,1,$,Guyana,Mauritius
+110,590,1936,0,1,$,Guyana,Mauritius
+110,590,1937,0,1,$,Guyana,Mauritius
+110,590,1938,0,1,$,Guyana,Mauritius
+110,590,1939,0,1,$,Guyana,Mauritius
+110,590,1940,0,1,$,Guyana,Mauritius
+110,590,1941,0,1,$,Guyana,Mauritius
+110,590,1942,0,1,$,Guyana,Mauritius
+110,590,1944,0,1,,Guyana,Mauritius
+110,590,1945,0,1,,Guyana,Mauritius
+110,590,1946,2500,1,,Guyana,Mauritius
+110,590,1947,0,1,$,Guyana,Mauritius
+110,590,1948,0,1,,Guyana,Mauritius
+110,590,1949,0,1,,Guyana,Mauritius
+110,600,1918,0,1,$,Guyana,Morocco
+110,600,1919,0,1,$,Guyana,Morocco
+110,600,1920,0,1,$,Guyana,Morocco
+110,600,1921,0,1,$,Guyana,Morocco
+110,600,1922,0,1,$,Guyana,Morocco
+110,600,1923,0,1,$,Guyana,Morocco
+110,600,1924,0,1,$,Guyana,Morocco
+110,600,1925,0,1,,Guyana,Morocco
+110,600,1926,0,1,,Guyana,Morocco
+110,600,1927,0,1,,Guyana,Morocco
+110,600,1928,0,1,,Guyana,Morocco
+110,600,1929,0,1,,Guyana,Morocco
+110,600,1930,0,1,,Guyana,Morocco
+110,600,1931,0,1,$,Guyana,Morocco
+110,600,1932,0,1,$,Guyana,Morocco
+110,600,1933,0,1,$,Guyana,Morocco
+110,600,1934,0,1,$,Guyana,Morocco
+110,600,1935,0,1,$,Guyana,Morocco
+110,600,1936,0,1,$,Guyana,Morocco
+110,600,1937,0,1,$,Guyana,Morocco
+110,600,1938,0,1,$,Guyana,Morocco
+110,600,1939,0,1,$,Guyana,Morocco
+110,600,1940,0,1,$,Guyana,Morocco
+110,600,1941,0,1,$,Guyana,Morocco
+110,600,1942,0,1,$,Guyana,Morocco
+110,600,1944,0,1,,Guyana,Morocco
+110,600,1945,0,1,,Guyana,Morocco
+110,600,1946,432,1,,Guyana,Morocco
+110,600,1947,0,1,$,Guyana,Morocco
+110,600,1948,6196,1,,Guyana,Morocco
+110,600,1949,0,1,,Guyana,Morocco
+110,615,1918,0,1,$,Guyana,Algeria
+110,615,1919,0,1,$,Guyana,Algeria
+110,615,1920,0,1,$,Guyana,Algeria
+110,615,1921,0,1,$,Guyana,Algeria
+110,615,1922,0,1,$,Guyana,Algeria
+110,615,1923,0,1,$,Guyana,Algeria
+110,615,1924,0,1,$,Guyana,Algeria
+110,615,1925,0,1,,Guyana,Algeria
+110,615,1926,0,1,,Guyana,Algeria
+110,615,1927,0,1,,Guyana,Algeria
+110,615,1928,0,1,,Guyana,Algeria
+110,615,1929,0,1,,Guyana,Algeria
+110,615,1930,0,1,,Guyana,Algeria
+110,615,1931,0,1,$,Guyana,Algeria
+110,615,1932,0,1,$,Guyana,Algeria
+110,615,1933,0,1,$,Guyana,Algeria
+110,615,1934,46,1,$,Guyana,Algeria
+110,615,1935,46,1,$,Guyana,Algeria
+110,615,1936,0,1,$,Guyana,Algeria
+110,615,1937,92,1,$,Guyana,Algeria
+110,615,1938,0,1,$,Guyana,Algeria
+110,615,1939,44,1,$,Guyana,Algeria
+110,615,1940,103,1,$,Guyana,Algeria
+110,615,1941,0,1,$,Guyana,Algeria
+110,615,1942,0,1,$,Guyana,Algeria
+110,615,1944,0,1,,Guyana,Algeria
+110,615,1945,0,1,,Guyana,Algeria
+110,615,1946,0,1,,Guyana,Algeria
+110,615,1947,0,1,$,Guyana,Algeria
+110,615,1948,1365,1,,Guyana,Algeria
+110,615,1949,1481,1,,Guyana,Algeria
+110,625,1918,0,1,$,Guyana,Sudan
+110,625,1919,0,1,$,Guyana,Sudan
+110,625,1920,0,1,$,Guyana,Sudan
+110,625,1921,0,1,$,Guyana,Sudan
+110,625,1922,0,1,$,Guyana,Sudan
+110,625,1923,0,1,$,Guyana,Sudan
+110,625,1924,0,1,$,Guyana,Sudan
+110,625,1925,0,1,,Guyana,Sudan
+110,625,1926,0,1,,Guyana,Sudan
+110,625,1927,0,1,,Guyana,Sudan
+110,625,1928,0,1,,Guyana,Sudan
+110,625,1929,0,1,,Guyana,Sudan
+110,625,1930,0,1,,Guyana,Sudan
+110,625,1931,0,1,$,Guyana,Sudan
+110,625,1932,0,1,$,Guyana,Sudan
+110,625,1933,0,1,$,Guyana,Sudan
+110,625,1934,299,1,$,Guyana,Sudan
+110,625,1935,187,1,$,Guyana,Sudan
+110,625,1936,111,1,$,Guyana,Sudan
+110,625,1937,382,1,$,Guyana,Sudan
+110,625,1938,333,1,$,Guyana,Sudan
+110,625,1939,180,1,$,Guyana,Sudan
+110,625,1940,670,1,$,Guyana,Sudan
+110,625,1941,540,1,$,Guyana,Sudan
+110,625,1942,61,1,$,Guyana,Sudan
+110,625,1944,677,1,,Guyana,Sudan
+110,625,1945,1040,1,,Guyana,Sudan
+110,625,1946,917,1,,Guyana,Sudan
+110,625,1947,1017,1,$,Guyana,Sudan
+110,625,1948,462,1,,Guyana,Sudan
+110,625,1949,857,1,,Guyana,Sudan
+110,630,1918,0,1,$,Guyana,Iran
+110,630,1919,0,1,$,Guyana,Iran
+110,630,1920,0,1,$,Guyana,Iran
+110,630,1921,0,1,$,Guyana,Iran
+110,630,1922,0,1,$,Guyana,Iran
+110,630,1923,0,1,$,Guyana,Iran
+110,630,1924,0,1,$,Guyana,Iran
+110,630,1925,0,1,,Guyana,Iran
+110,630,1926,0,1,,Guyana,Iran
+110,630,1927,0,1,,Guyana,Iran
+110,630,1928,0,1,,Guyana,Iran
+110,630,1929,0,1,,Guyana,Iran
+110,630,1930,0,1,,Guyana,Iran
+110,630,1931,0,1,$,Guyana,Iran
+110,630,1932,0,1,$,Guyana,Iran
+110,630,1933,0,1,$,Guyana,Iran
+110,630,1934,103,1,$,Guyana,Iran
+110,630,1935,2,1,$,Guyana,Iran
+110,630,1936,58,1,$,Guyana,Iran
+110,630,1937,0,1,$,Guyana,Iran
+110,630,1938,141,1,$,Guyana,Iran
+110,630,1939,23,1,$,Guyana,Iran
+110,630,1940,16,1,$,Guyana,Iran
+110,630,1941,13,1,$,Guyana,Iran
+110,630,1942,29,1,$,Guyana,Iran
+110,630,1944,10,1,,Guyana,Iran
+110,630,1945,255,1,,Guyana,Iran
+110,630,1946,92,1,,Guyana,Iran
+110,630,1947,958,1,$,Guyana,Iran
+110,630,1948,82,1,,Guyana,Iran
+110,630,1949,2967,1,,Guyana,Iran
+110,640,1918,0,1,$,Guyana,Turkey
+110,640,1919,0,1,$,Guyana,Turkey
+110,640,1920,0,1,$,Guyana,Turkey
+110,640,1921,0,1,$,Guyana,Turkey
+110,640,1922,0,1,$,Guyana,Turkey
+110,640,1923,0,1,$,Guyana,Turkey
+110,640,1924,0,1,$,Guyana,Turkey
+110,640,1925,0,1,,Guyana,Turkey
+110,640,1926,0,1,,Guyana,Turkey
+110,640,1927,0,1,,Guyana,Turkey
+110,640,1928,0,1,,Guyana,Turkey
+110,640,1929,0,1,,Guyana,Turkey
+110,640,1930,0,1,,Guyana,Turkey
+110,640,1931,0,1,$,Guyana,Turkey
+110,640,1932,0,1,$,Guyana,Turkey
+110,640,1933,0,1,$,Guyana,Turkey
+110,640,1934,327,1,$,Guyana,Turkey
+110,640,1935,826,1,$,Guyana,Turkey
+110,640,1936,256,1,$,Guyana,Turkey
+110,640,1937,421,1,$,Guyana,Turkey
+110,640,1938,239,1,$,Guyana,Turkey
+110,640,1939,0,1,$,Guyana,Turkey
+110,640,1940,1313,1,$,Guyana,Turkey
+110,640,1941,117,1,$,Guyana,Turkey
+110,640,1942,8,1,$,Guyana,Turkey
+110,640,1944,0,1,,Guyana,Turkey
+110,640,1945,0,1,,Guyana,Turkey
+110,640,1946,0,1,,Guyana,Turkey
+110,640,1947,849,1,$,Guyana,Turkey
+110,640,1948,145,1,,Guyana,Turkey
+110,640,1949,1217,1,,Guyana,Turkey
+110,645,1918,0,1,$,Guyana,Iraq
+110,645,1919,0,1,$,Guyana,Iraq
+110,645,1920,0,1,$,Guyana,Iraq
+110,645,1921,0,1,$,Guyana,Iraq
+110,645,1922,0,1,$,Guyana,Iraq
+110,645,1923,0,1,$,Guyana,Iraq
+110,645,1924,0,1,$,Guyana,Iraq
+110,645,1925,0,1,,Guyana,Iraq
+110,645,1926,0,1,,Guyana,Iraq
+110,645,1927,0,1,,Guyana,Iraq
+110,645,1928,0,1,,Guyana,Iraq
+110,645,1929,0,1,,Guyana,Iraq
+110,645,1930,0,1,,Guyana,Iraq
+110,645,1931,0,1,$,Guyana,Iraq
+110,645,1932,0,1,$,Guyana,Iraq
+110,645,1933,0,1,$,Guyana,Iraq
+110,645,1934,809,1,$,Guyana,Iraq
+110,645,1935,820,1,$,Guyana,Iraq
+110,645,1936,767,1,$,Guyana,Iraq
+110,645,1937,788,1,$,Guyana,Iraq
+110,645,1938,1432,1,$,Guyana,Iraq
+110,645,1939,197,1,$,Guyana,Iraq
+110,645,1940,726,1,$,Guyana,Iraq
+110,645,1941,0,1,$,Guyana,Iraq
+110,645,1942,0,1,$,Guyana,Iraq
+110,645,1944,0,1,,Guyana,Iraq
+110,645,1945,0,1,,Guyana,Iraq
+110,645,1946,0,1,,Guyana,Iraq
+110,645,1947,2006,1,$,Guyana,Iraq
+110,645,1948,0,1,,Guyana,Iraq
+110,645,1949,0,1,,Guyana,Iraq
+110,651,1918,0,1,$,Guyana,Egypt
+110,651,1919,0,1,$,Guyana,Egypt
+110,651,1920,0,1,$,Guyana,Egypt
+110,651,1921,0,1,$,Guyana,Egypt
+110,651,1922,0,1,$,Guyana,Egypt
+110,651,1923,0,1,$,Guyana,Egypt
+110,651,1924,0,1,$,Guyana,Egypt
+110,651,1925,0,1,,Guyana,Egypt
+110,651,1926,0,1,,Guyana,Egypt
+110,651,1927,0,1,,Guyana,Egypt
+110,651,1928,0,1,,Guyana,Egypt
+110,651,1929,0,1,,Guyana,Egypt
+110,651,1930,0,1,,Guyana,Egypt
+110,651,1931,2464,1,$,Guyana,Egypt
+110,651,1932,3751,1,$,Guyana,Egypt
+110,651,1933,2062,1,$,Guyana,Egypt
+110,651,1934,7089,1,$,Guyana,Egypt
+110,651,1935,7363,1,$,Guyana,Egypt
+110,651,1936,7721,1,$,Guyana,Egypt
+110,651,1937,15164,1,$,Guyana,Egypt
+110,651,1938,11070,1,$,Guyana,Egypt
+110,651,1939,15440,1,$,Guyana,Egypt
+110,651,1940,11872,1,$,Guyana,Egypt
+110,651,1941,0,1,$,Guyana,Egypt
+110,651,1942,0,1,$,Guyana,Egypt
+110,651,1944,0,1,,Guyana,Egypt
+110,651,1945,0,1,,Guyana,Egypt
+110,651,1946,0,1,,Guyana,Egypt
+110,651,1947,20828,1,$,Guyana,Egypt
+110,651,1948,52805,1,,Guyana,Egypt
+110,651,1949,29806,1,,Guyana,Egypt
+110,652,1918,0,1,$,Guyana,Syria
+110,652,1919,0,1,$,Guyana,Syria
+110,652,1920,0,1,$,Guyana,Syria
+110,652,1921,0,1,$,Guyana,Syria
+110,652,1922,0,1,$,Guyana,Syria
+110,652,1923,0,1,$,Guyana,Syria
+110,652,1924,0,1,$,Guyana,Syria
+110,652,1925,0,1,,Guyana,Syria
+110,652,1926,0,1,,Guyana,Syria
+110,652,1927,0,1,,Guyana,Syria
+110,652,1928,0,1,,Guyana,Syria
+110,652,1929,0,1,,Guyana,Syria
+110,652,1930,0,1,,Guyana,Syria
+110,652,1931,0,1,$,Guyana,Syria
+110,652,1932,0,1,$,Guyana,Syria
+110,652,1933,0,1,$,Guyana,Syria
+110,652,1934,556,1,$,Guyana,Syria
+110,652,1935,2,1,$,Guyana,Syria
+110,652,1936,270,1,$,Guyana,Syria
+110,652,1937,0,1,$,Guyana,Syria
+110,652,1938,0,1,$,Guyana,Syria
+110,652,1939,0,1,$,Guyana,Syria
+110,652,1940,0,1,$,Guyana,Syria
+110,652,1941,0,1,$,Guyana,Syria
+110,652,1942,0,1,$,Guyana,Syria
+110,652,1944,0,1,,Guyana,Syria
+110,652,1945,0,1,,Guyana,Syria
+110,652,1946,46,1,,Guyana,Syria
+110,652,1947,830,1,$,Guyana,Syria
+110,652,1948,0,1,,Guyana,Syria
+110,652,1949,0,1,,Guyana,Syria
+110,660,1918,0,1,$,Guyana,Lebanon
+110,660,1919,0,1,$,Guyana,Lebanon
+110,660,1920,0,1,$,Guyana,Lebanon
+110,660,1921,0,1,$,Guyana,Lebanon
+110,660,1922,0,1,$,Guyana,Lebanon
+110,660,1923,0,1,$,Guyana,Lebanon
+110,660,1924,0,1,$,Guyana,Lebanon
+110,660,1925,0,1,,Guyana,Lebanon
+110,660,1926,0,1,,Guyana,Lebanon
+110,660,1927,0,1,,Guyana,Lebanon
+110,660,1928,0,1,,Guyana,Lebanon
+110,660,1929,0,1,,Guyana,Lebanon
+110,660,1930,0,1,,Guyana,Lebanon
+110,660,1931,0,1,$,Guyana,Lebanon
+110,660,1932,0,1,$,Guyana,Lebanon
+110,660,1933,0,1,$,Guyana,Lebanon
+110,660,1934,0,1,$,Guyana,Lebanon
+110,660,1935,0,1,$,Guyana,Lebanon
+110,660,1936,0,1,$,Guyana,Lebanon
+110,660,1937,0,1,$,Guyana,Lebanon
+110,660,1938,0,1,$,Guyana,Lebanon
+110,660,1939,0,1,$,Guyana,Lebanon
+110,660,1940,0,1,$,Guyana,Lebanon
+110,660,1941,0,1,$,Guyana,Lebanon
+110,660,1942,0,1,$,Guyana,Lebanon
+110,660,1944,0,1,,Guyana,Lebanon
+110,660,1945,0,1,,Guyana,Lebanon
+110,660,1946,0,1,,Guyana,Lebanon
+110,660,1947,535,1,$,Guyana,Lebanon
+110,660,1948,0,1,,Guyana,Lebanon
+110,660,1949,0,1,,Guyana,Lebanon
+110,665,1918,0,1,$,Guyana,West Bank And Gaza
+110,665,1919,0,1,$,Guyana,West Bank And Gaza
+110,665,1920,0,1,$,Guyana,West Bank And Gaza
+110,665,1921,0,1,$,Guyana,West Bank And Gaza
+110,665,1922,0,1,$,Guyana,West Bank And Gaza
+110,665,1923,0,1,$,Guyana,West Bank And Gaza
+110,665,1924,0,1,$,Guyana,West Bank And Gaza
+110,665,1925,0,1,,Guyana,West Bank And Gaza
+110,665,1926,0,1,,Guyana,West Bank And Gaza
+110,665,1927,0,1,,Guyana,West Bank And Gaza
+110,665,1928,0,1,,Guyana,West Bank And Gaza
+110,665,1929,0,1,,Guyana,West Bank And Gaza
+110,665,1930,0,1,,Guyana,West Bank And Gaza
+110,665,1931,0,1,$,Guyana,West Bank And Gaza
+110,665,1932,250,1,$,Guyana,West Bank And Gaza
+110,665,1933,396,1,$,Guyana,West Bank And Gaza
+110,665,1934,368,1,$,Guyana,West Bank And Gaza
+110,665,1935,463,1,$,Guyana,West Bank And Gaza
+110,665,1936,657,1,$,Guyana,West Bank And Gaza
+110,665,1937,1052,1,$,Guyana,West Bank And Gaza
+110,665,1938,512,1,$,Guyana,West Bank And Gaza
+110,665,1939,196,1,$,Guyana,West Bank And Gaza
+110,665,1940,235,1,$,Guyana,West Bank And Gaza
+110,665,1941,0,1,$,Guyana,West Bank And Gaza
+110,665,1942,0,1,$,Guyana,West Bank And Gaza
+110,665,1944,0,1,,Guyana,West Bank And Gaza
+110,665,1945,0,1,,Guyana,West Bank And Gaza
+110,665,1946,0,1,,Guyana,West Bank And Gaza
+110,665,1947,0,1,$,Guyana,West Bank And Gaza
+110,665,1948,0,1,,Guyana,West Bank And Gaza
+110,665,1949,983,1,,Guyana,West Bank And Gaza
+110,670,1918,0,1,$,Guyana,Saudi Arabia
+110,670,1919,0,1,$,Guyana,Saudi Arabia
+110,670,1920,0,1,$,Guyana,Saudi Arabia
+110,670,1921,0,1,$,Guyana,Saudi Arabia
+110,670,1922,0,1,$,Guyana,Saudi Arabia
+110,670,1923,0,1,$,Guyana,Saudi Arabia
+110,670,1924,0,1,$,Guyana,Saudi Arabia
+110,670,1925,0,1,,Guyana,Saudi Arabia
+110,670,1926,0,1,,Guyana,Saudi Arabia
+110,670,1927,0,1,,Guyana,Saudi Arabia
+110,670,1928,0,1,,Guyana,Saudi Arabia
+110,670,1929,0,1,,Guyana,Saudi Arabia
+110,670,1930,0,1,,Guyana,Saudi Arabia
+110,670,1931,0,1,$,Guyana,Saudi Arabia
+110,670,1932,0,1,$,Guyana,Saudi Arabia
+110,670,1933,0,1,$,Guyana,Saudi Arabia
+110,670,1934,0,1,$,Guyana,Saudi Arabia
+110,670,1935,0,1,$,Guyana,Saudi Arabia
+110,670,1936,0,1,$,Guyana,Saudi Arabia
+110,670,1937,0,1,$,Guyana,Saudi Arabia
+110,670,1938,0,1,$,Guyana,Saudi Arabia
+110,670,1939,0,1,$,Guyana,Saudi Arabia
+110,670,1940,0,1,$,Guyana,Saudi Arabia
+110,670,1941,0,1,$,Guyana,Saudi Arabia
+110,670,1942,0,1,$,Guyana,Saudi Arabia
+110,670,1944,0,1,,Guyana,Saudi Arabia
+110,670,1945,0,1,,Guyana,Saudi Arabia
+110,670,1946,0,1,,Guyana,Saudi Arabia
+110,670,1947,170,1,$,Guyana,Saudi Arabia
+110,670,1948,0,1,,Guyana,Saudi Arabia
+110,670,1949,0,1,,Guyana,Saudi Arabia
+110,675,1918,0,1,$,Guyana,Arabia
+110,675,1919,0,1,$,Guyana,Arabia
+110,675,1920,0,1,$,Guyana,Arabia
+110,675,1921,0,1,$,Guyana,Arabia
+110,675,1922,0,1,$,Guyana,Arabia
+110,675,1923,0,1,$,Guyana,Arabia
+110,675,1924,0,1,$,Guyana,Arabia
+110,675,1925,0,1,,Guyana,Arabia
+110,675,1926,0,1,,Guyana,Arabia
+110,675,1927,0,1,,Guyana,Arabia
+110,675,1928,0,1,,Guyana,Arabia
+110,675,1929,0,1,,Guyana,Arabia
+110,675,1930,0,1,,Guyana,Arabia
+110,675,1931,0,1,$,Guyana,Arabia
+110,675,1932,0,1,$,Guyana,Arabia
+110,675,1933,0,1,$,Guyana,Arabia
+110,675,1934,0,1,$,Guyana,Arabia
+110,675,1935,29,1,$,Guyana,Arabia
+110,675,1936,0,1,$,Guyana,Arabia
+110,675,1937,0,1,$,Guyana,Arabia
+110,675,1938,0,1,$,Guyana,Arabia
+110,675,1939,0,1,$,Guyana,Arabia
+110,675,1940,57,1,$,Guyana,Arabia
+110,675,1941,0,1,$,Guyana,Arabia
+110,675,1942,0,1,$,Guyana,Arabia
+110,675,1944,0,1,,Guyana,Arabia
+110,675,1945,233,1,,Guyana,Arabia
+110,675,1946,729,1,,Guyana,Arabia
+110,675,1947,488,1,$,Guyana,Arabia
+110,675,1948,70,1,,Guyana,Arabia
+110,675,1949,0,1,,Guyana,Arabia
+110,681,1918,0,1,$,Guyana,Aden
+110,681,1919,0,1,$,Guyana,Aden
+110,681,1920,0,1,$,Guyana,Aden
+110,681,1921,0,1,$,Guyana,Aden
+110,681,1922,0,1,$,Guyana,Aden
+110,681,1923,0,1,$,Guyana,Aden
+110,681,1924,0,1,$,Guyana,Aden
+110,681,1925,0,1,,Guyana,Aden
+110,681,1926,0,1,,Guyana,Aden
+110,681,1927,0,1,,Guyana,Aden
+110,681,1928,0,1,,Guyana,Aden
+110,681,1929,0,1,,Guyana,Aden
+110,681,1930,0,1,,Guyana,Aden
+110,681,1931,0,1,$,Guyana,Aden
+110,681,1932,0,1,$,Guyana,Aden
+110,681,1933,0,1,$,Guyana,Aden
+110,681,1934,0,1,$,Guyana,Aden
+110,681,1935,0,1,$,Guyana,Aden
+110,681,1936,0,1,$,Guyana,Aden
+110,681,1937,0,1,$,Guyana,Aden
+110,681,1938,113,1,$,Guyana,Aden
+110,681,1939,107,1,$,Guyana,Aden
+110,681,1940,94,1,$,Guyana,Aden
+110,681,1941,101,1,$,Guyana,Aden
+110,681,1942,8668,1,$,Guyana,Aden
+110,681,1944,0,1,,Guyana,Aden
+110,681,1945,0,1,,Guyana,Aden
+110,681,1946,0,1,,Guyana,Aden
+110,681,1947,0,1,$,Guyana,Aden
+110,681,1948,0,1,,Guyana,Aden
+110,681,1949,0,1,,Guyana,Aden
+110,710,1918,0,1,$,Guyana,China
+110,710,1919,0,1,$,Guyana,China
+110,710,1920,0,1,$,Guyana,China
+110,710,1921,0,1,$,Guyana,China
+110,710,1922,0,1,$,Guyana,China
+110,710,1923,0,1,$,Guyana,China
+110,710,1924,0,1,$,Guyana,China
+110,710,1925,0,1,,Guyana,China
+110,710,1926,0,1,,Guyana,China
+110,710,1927,0,1,,Guyana,China
+110,710,1928,0,1,,Guyana,China
+110,710,1929,0,1,,Guyana,China
+110,710,1930,0,1,,Guyana,China
+110,710,1931,0,1,$,Guyana,China
+110,710,1932,0,1,$,Guyana,China
+110,710,1933,0,1,$,Guyana,China
+110,710,1934,7124,1,$,Guyana,China
+110,710,1935,11165,1,$,Guyana,China
+110,710,1936,15169,1,$,Guyana,China
+110,710,1937,17308,1,$,Guyana,China
+110,710,1938,11744,1,$,Guyana,China
+110,710,1939,18277,1,$,Guyana,China
+110,710,1940,27729,1,$,Guyana,China
+110,710,1941,21088,1,$,Guyana,China
+110,710,1942,2303,1,$,Guyana,China
+110,710,1944,708,1,,Guyana,China
+110,710,1945,10,1,,Guyana,China
+110,710,1946,2741,1,,Guyana,China
+110,710,1947,9901,1,$,Guyana,China
+110,710,1948,11374,1,,Guyana,China
+110,710,1949,12120,1,,Guyana,China
+110,720,1918,1102,1,$,Guyana,Hong Kong
+110,720,1919,1858,1,$,Guyana,Hong Kong
+110,720,1920,0,1,$,Guyana,Hong Kong
+110,720,1921,206,1,$,Guyana,Hong Kong
+110,720,1922,0,1,$,Guyana,Hong Kong
+110,720,1923,832,1,$,Guyana,Hong Kong
+110,720,1924,0,1,$,Guyana,Hong Kong
+110,720,1925,545,1,,Guyana,Hong Kong
+110,720,1926,2338,1,,Guyana,Hong Kong
+110,720,1927,8797,1,,Guyana,Hong Kong
+110,720,1928,5006,1,,Guyana,Hong Kong
+110,720,1929,8832,1,,Guyana,Hong Kong
+110,720,1930,6766,1,,Guyana,Hong Kong
+110,720,1931,6690,1,$,Guyana,Hong Kong
+110,720,1932,4670,1,$,Guyana,Hong Kong
+110,720,1933,18704,1,$,Guyana,Hong Kong
+110,720,1934,51122,1,$,Guyana,Hong Kong
+110,720,1935,43847,1,$,Guyana,Hong Kong
+110,720,1936,88707,1,$,Guyana,Hong Kong
+110,720,1937,228639,1,$,Guyana,Hong Kong
+110,720,1938,148297,1,$,Guyana,Hong Kong
+110,720,1939,208095,1,$,Guyana,Hong Kong
+110,720,1940,212670,1,$,Guyana,Hong Kong
+110,720,1941,294135,1,$,Guyana,Hong Kong
+110,720,1942,43720,1,$,Guyana,Hong Kong
+110,720,1944,113,1,,Guyana,Hong Kong
+110,720,1945,0,1,,Guyana,Hong Kong
+110,720,1946,0,1,,Guyana,Hong Kong
+110,720,1947,17738,1,$,Guyana,Hong Kong
+110,720,1948,218902,1,,Guyana,Hong Kong
+110,720,1949,558312,1,,Guyana,Hong Kong
+110,740,1918,0,1,$,Guyana,Japan
+110,740,1919,0,1,$,Guyana,Japan
+110,740,1920,0,1,$,Guyana,Japan
+110,740,1921,0,1,$,Guyana,Japan
+110,740,1922,0,1,$,Guyana,Japan
+110,740,1923,0,1,$,Guyana,Japan
+110,740,1924,0,1,$,Guyana,Japan
+110,740,1925,0,1,,Guyana,Japan
+110,740,1926,0,1,,Guyana,Japan
+110,740,1927,0,1,,Guyana,Japan
+110,740,1928,0,1,,Guyana,Japan
+110,740,1929,0,1,,Guyana,Japan
+110,740,1930,0,1,,Guyana,Japan
+110,740,1931,104474,1,$,Guyana,Japan
+110,740,1932,261389,1,$,Guyana,Japan
+110,740,1933,369945,1,$,Guyana,Japan
+110,740,1934,349571,1,$,Guyana,Japan
+110,740,1935,201270,1,$,Guyana,Japan
+110,740,1936,257213,1,$,Guyana,Japan
+110,740,1937,293153,1,$,Guyana,Japan
+110,740,1938,160783,1,$,Guyana,Japan
+110,740,1939,153224,1,$,Guyana,Japan
+110,740,1940,140020,1,$,Guyana,Japan
+110,740,1941,20717,1,$,Guyana,Japan
+110,740,1942,143,1,$,Guyana,Japan
+110,740,1944,0,1,,Guyana,Japan
+110,740,1945,0,1,,Guyana,Japan
+110,740,1946,0,1,,Guyana,Japan
+110,740,1947,0,1,$,Guyana,Japan
+110,740,1948,59,1,,Guyana,Japan
+110,740,1949,239597,1,,Guyana,Japan
+110,750,1918,0,1,$,Guyana,India
+110,750,1919,0,1,$,Guyana,India
+110,750,1920,0,1,$,Guyana,India
+110,750,1921,0,1,$,Guyana,India
+110,750,1922,0,1,$,Guyana,India
+110,750,1923,0,1,$,Guyana,India
+110,750,1924,0,1,$,Guyana,India
+110,750,1925,0,1,,Guyana,India
+110,750,1926,0,1,,Guyana,India
+110,750,1927,0,1,,Guyana,India
+110,750,1928,0,1,,Guyana,India
+110,750,1929,0,1,,Guyana,India
+110,750,1930,0,1,,Guyana,India
+110,750,1931,0,1,$,Guyana,India
+110,750,1932,187124,1,$,Guyana,India
+110,750,1933,0,1,$,Guyana,India
+110,750,1934,373889,1,$,Guyana,India
+110,750,1935,294828,1,$,Guyana,India
+110,750,1936,424759,1,$,Guyana,India
+110,750,1937,430604,1,$,Guyana,India
+110,750,1938,376690,1,$,Guyana,India
+110,750,1939,387514,1,$,Guyana,India
+110,750,1940,837094,1,$,Guyana,India
+110,750,1941,668944,1,$,Guyana,India
+110,750,1942,565395,1,$,Guyana,India
+110,750,1944,1308509,1,,Guyana,India
+110,750,1945,466401,1,,Guyana,India
+110,750,1946,468262,1,,Guyana,India
+110,750,1947,1248750,1,$,Guyana,India
+110,750,1948,1377650,1,,Guyana,India
+110,750,1949,2584609,1,,Guyana,India
+110,770,1918,0,1,$,Guyana,Pakistan
+110,770,1919,0,1,$,Guyana,Pakistan
+110,770,1920,0,1,$,Guyana,Pakistan
+110,770,1921,0,1,$,Guyana,Pakistan
+110,770,1922,0,1,$,Guyana,Pakistan
+110,770,1923,0,1,$,Guyana,Pakistan
+110,770,1924,0,1,$,Guyana,Pakistan
+110,770,1925,0,1,,Guyana,Pakistan
+110,770,1926,0,1,,Guyana,Pakistan
+110,770,1927,0,1,,Guyana,Pakistan
+110,770,1928,0,1,,Guyana,Pakistan
+110,770,1929,0,1,,Guyana,Pakistan
+110,770,1930,0,1,,Guyana,Pakistan
+110,770,1931,0,1,$,Guyana,Pakistan
+110,770,1932,0,1,$,Guyana,Pakistan
+110,770,1933,0,1,$,Guyana,Pakistan
+110,770,1934,0,1,$,Guyana,Pakistan
+110,770,1935,0,1,$,Guyana,Pakistan
+110,770,1936,0,1,$,Guyana,Pakistan
+110,770,1937,0,1,$,Guyana,Pakistan
+110,770,1938,0,1,$,Guyana,Pakistan
+110,770,1939,0,1,$,Guyana,Pakistan
+110,770,1940,0,1,$,Guyana,Pakistan
+110,770,1941,0,1,$,Guyana,Pakistan
+110,770,1942,0,1,$,Guyana,Pakistan
+110,770,1944,0,1,,Guyana,Pakistan
+110,770,1945,0,1,,Guyana,Pakistan
+110,770,1946,0,1,,Guyana,Pakistan
+110,770,1947,0,1,$,Guyana,Pakistan
+110,770,1948,0,1,,Guyana,Pakistan
+110,770,1949,24,1,,Guyana,Pakistan
+110,775,1918,0,1,$,Guyana,Myanmar
+110,775,1919,0,1,$,Guyana,Myanmar
+110,775,1920,0,1,$,Guyana,Myanmar
+110,775,1921,0,1,$,Guyana,Myanmar
+110,775,1922,0,1,$,Guyana,Myanmar
+110,775,1923,0,1,$,Guyana,Myanmar
+110,775,1924,0,1,$,Guyana,Myanmar
+110,775,1925,0,1,,Guyana,Myanmar
+110,775,1926,0,1,,Guyana,Myanmar
+110,775,1927,0,1,,Guyana,Myanmar
+110,775,1928,0,1,,Guyana,Myanmar
+110,775,1929,0,1,,Guyana,Myanmar
+110,775,1930,0,1,,Guyana,Myanmar
+110,775,1931,0,1,$,Guyana,Myanmar
+110,775,1932,0,1,$,Guyana,Myanmar
+110,775,1933,0,1,$,Guyana,Myanmar
+110,775,1934,0,1,$,Guyana,Myanmar
+110,775,1935,0,1,$,Guyana,Myanmar
+110,775,1936,0,1,$,Guyana,Myanmar
+110,775,1937,0,1,$,Guyana,Myanmar
+110,775,1938,0,1,$,Guyana,Myanmar
+110,775,1939,0,1,$,Guyana,Myanmar
+110,775,1940,3018,1,$,Guyana,Myanmar
+110,775,1941,3024,1,$,Guyana,Myanmar
+110,775,1942,0,1,$,Guyana,Myanmar
+110,775,1944,0,1,,Guyana,Myanmar
+110,775,1945,0,1,,Guyana,Myanmar
+110,775,1946,0,1,,Guyana,Myanmar
+110,775,1947,0,1,$,Guyana,Myanmar
+110,775,1948,0,1,,Guyana,Myanmar
+110,775,1949,0,1,,Guyana,Myanmar
+110,780,1918,0,1,$,Guyana,Sri Lanka
+110,780,1919,0,1,$,Guyana,Sri Lanka
+110,780,1920,0,1,$,Guyana,Sri Lanka
+110,780,1921,0,1,$,Guyana,Sri Lanka
+110,780,1922,0,1,$,Guyana,Sri Lanka
+110,780,1923,0,1,$,Guyana,Sri Lanka
+110,780,1924,0,1,$,Guyana,Sri Lanka
+110,780,1925,0,1,,Guyana,Sri Lanka
+110,780,1926,0,1,,Guyana,Sri Lanka
+110,780,1927,0,1,,Guyana,Sri Lanka
+110,780,1928,0,1,,Guyana,Sri Lanka
+110,780,1929,0,1,,Guyana,Sri Lanka
+110,780,1930,0,1,,Guyana,Sri Lanka
+110,780,1931,0,1,$,Guyana,Sri Lanka
+110,780,1932,0,1,$,Guyana,Sri Lanka
+110,780,1933,0,1,$,Guyana,Sri Lanka
+110,780,1934,11979,1,$,Guyana,Sri Lanka
+110,780,1935,17748,1,$,Guyana,Sri Lanka
+110,780,1936,23210,1,$,Guyana,Sri Lanka
+110,780,1937,18605,1,$,Guyana,Sri Lanka
+110,780,1938,20614,1,$,Guyana,Sri Lanka
+110,780,1939,23923,1,$,Guyana,Sri Lanka
+110,780,1940,28303,1,$,Guyana,Sri Lanka
+110,780,1941,29386,1,$,Guyana,Sri Lanka
+110,780,1942,13869,1,$,Guyana,Sri Lanka
+110,780,1944,24791,1,,Guyana,Sri Lanka
+110,780,1945,29242,1,,Guyana,Sri Lanka
+110,780,1946,49847,1,,Guyana,Sri Lanka
+110,780,1947,107732,1,$,Guyana,Sri Lanka
+110,780,1948,75594,1,,Guyana,Sri Lanka
+110,780,1949,62374,1,,Guyana,Sri Lanka
+110,800,1918,0,1,$,Guyana,Thailand
+110,800,1919,0,1,$,Guyana,Thailand
+110,800,1920,0,1,$,Guyana,Thailand
+110,800,1921,0,1,$,Guyana,Thailand
+110,800,1922,0,1,$,Guyana,Thailand
+110,800,1923,0,1,$,Guyana,Thailand
+110,800,1924,0,1,$,Guyana,Thailand
+110,800,1925,0,1,,Guyana,Thailand
+110,800,1926,0,1,,Guyana,Thailand
+110,800,1927,0,1,,Guyana,Thailand
+110,800,1928,0,1,,Guyana,Thailand
+110,800,1929,0,1,,Guyana,Thailand
+110,800,1930,0,1,,Guyana,Thailand
+110,800,1931,0,1,$,Guyana,Thailand
+110,800,1932,0,1,$,Guyana,Thailand
+110,800,1933,0,1,$,Guyana,Thailand
+110,800,1934,0,1,$,Guyana,Thailand
+110,800,1935,0,1,$,Guyana,Thailand
+110,800,1936,11,1,$,Guyana,Thailand
+110,800,1937,0,1,$,Guyana,Thailand
+110,800,1938,0,1,$,Guyana,Thailand
+110,800,1939,0,1,$,Guyana,Thailand
+110,800,1940,0,1,$,Guyana,Thailand
+110,800,1941,0,1,$,Guyana,Thailand
+110,800,1942,0,1,$,Guyana,Thailand
+110,800,1944,69,1,,Guyana,Thailand
+110,800,1945,0,1,,Guyana,Thailand
+110,800,1946,0,1,,Guyana,Thailand
+110,800,1947,0,1,$,Guyana,Thailand
+110,800,1948,0,1,,Guyana,Thailand
+110,800,1949,1178,1,,Guyana,Thailand
+110,810,1918,0,1,$,Guyana,French Indo-China
+110,810,1919,0,1,$,Guyana,French Indo-China
+110,810,1920,0,1,$,Guyana,French Indo-China
+110,810,1921,0,1,$,Guyana,French Indo-China
+110,810,1922,0,1,$,Guyana,French Indo-China
+110,810,1923,0,1,$,Guyana,French Indo-China
+110,810,1924,0,1,$,Guyana,French Indo-China
+110,810,1925,0,1,,Guyana,French Indo-China
+110,810,1926,0,1,,Guyana,French Indo-China
+110,810,1927,0,1,,Guyana,French Indo-China
+110,810,1928,0,1,,Guyana,French Indo-China
+110,810,1929,0,1,,Guyana,French Indo-China
+110,810,1930,0,1,,Guyana,French Indo-China
+110,810,1931,0,1,$,Guyana,French Indo-China
+110,810,1932,0,1,$,Guyana,French Indo-China
+110,810,1933,0,1,$,Guyana,French Indo-China
+110,810,1934,0,1,$,Guyana,French Indo-China
+110,810,1935,0,1,$,Guyana,French Indo-China
+110,810,1936,0,1,$,Guyana,French Indo-China
+110,810,1937,0,1,$,Guyana,French Indo-China
+110,810,1938,0,1,$,Guyana,French Indo-China
+110,810,1939,53,1,$,Guyana,French Indo-China
+110,810,1940,0,1,$,Guyana,French Indo-China
+110,810,1941,0,1,$,Guyana,French Indo-China
+110,810,1942,0,1,$,Guyana,French Indo-China
+110,810,1944,0,1,,Guyana,French Indo-China
+110,810,1945,0,1,,Guyana,French Indo-China
+110,810,1946,0,1,,Guyana,French Indo-China
+110,810,1947,0,1,$,Guyana,French Indo-China
+110,810,1948,0,1,,Guyana,French Indo-China
+110,810,1949,128,1,,Guyana,French Indo-China
+110,820,1918,0,1,$,Guyana,Malaysia
+110,820,1919,0,1,$,Guyana,Malaysia
+110,820,1920,0,1,$,Guyana,Malaysia
+110,820,1921,0,1,$,Guyana,Malaysia
+110,820,1922,0,1,$,Guyana,Malaysia
+110,820,1923,0,1,$,Guyana,Malaysia
+110,820,1924,0,1,$,Guyana,Malaysia
+110,820,1925,0,1,,Guyana,Malaysia
+110,820,1926,0,1,,Guyana,Malaysia
+110,820,1927,0,1,,Guyana,Malaysia
+110,820,1928,0,1,,Guyana,Malaysia
+110,820,1929,0,1,,Guyana,Malaysia
+110,820,1930,0,1,,Guyana,Malaysia
+110,820,1931,0,1,$,Guyana,Malaysia
+110,820,1932,0,1,$,Guyana,Malaysia
+110,820,1933,0,1,$,Guyana,Malaysia
+110,820,1934,27780,1,$,Guyana,Malaysia
+110,820,1935,24873,1,$,Guyana,Malaysia
+110,820,1936,16162,1,$,Guyana,Malaysia
+110,820,1937,22242,1,$,Guyana,Malaysia
+110,820,1938,19359,1,$,Guyana,Malaysia
+110,820,1939,13710,1,$,Guyana,Malaysia
+110,820,1940,20997,1,$,Guyana,Malaysia
+110,820,1941,16672,1,$,Guyana,Malaysia
+110,820,1942,9491,1,$,Guyana,Malaysia
+110,820,1944,0,1,,Guyana,Malaysia
+110,820,1945,0,1,,Guyana,Malaysia
+110,820,1946,29732,1,,Guyana,Malaysia
+110,820,1947,96209,1,$,Guyana,Malaysia
+110,820,1948,13883,1,,Guyana,Malaysia
+110,820,1949,45411,1,,Guyana,Malaysia
+110,823,1918,0,1,$,Guyana,British Borneo
+110,823,1919,0,1,$,Guyana,British Borneo
+110,823,1920,0,1,$,Guyana,British Borneo
+110,823,1921,0,1,$,Guyana,British Borneo
+110,823,1922,0,1,$,Guyana,British Borneo
+110,823,1923,0,1,$,Guyana,British Borneo
+110,823,1924,0,1,$,Guyana,British Borneo
+110,823,1925,0,1,,Guyana,British Borneo
+110,823,1926,0,1,,Guyana,British Borneo
+110,823,1927,0,1,,Guyana,British Borneo
+110,823,1928,0,1,,Guyana,British Borneo
+110,823,1929,0,1,,Guyana,British Borneo
+110,823,1930,0,1,,Guyana,British Borneo
+110,823,1931,0,1,$,Guyana,British Borneo
+110,823,1932,0,1,$,Guyana,British Borneo
+110,823,1933,0,1,$,Guyana,British Borneo
+110,823,1934,803,1,$,Guyana,British Borneo
+110,823,1935,112,1,$,Guyana,British Borneo
+110,823,1936,82,1,$,Guyana,British Borneo
+110,823,1937,0,1,$,Guyana,British Borneo
+110,823,1938,84,1,$,Guyana,British Borneo
+110,823,1939,0,1,$,Guyana,British Borneo
+110,823,1940,0,1,$,Guyana,British Borneo
+110,823,1941,0,1,$,Guyana,British Borneo
+110,823,1942,0,1,$,Guyana,British Borneo
+110,823,1944,0,1,,Guyana,British Borneo
+110,823,1945,0,1,,Guyana,British Borneo
+110,823,1946,329,1,,Guyana,British Borneo
+110,823,1947,1840,1,$,Guyana,British Borneo
+110,823,1948,0,1,,Guyana,British Borneo
+110,823,1949,0,1,,Guyana,British Borneo
+110,827,1918,0,1,$,Guyana,Straits Settlement
+110,827,1919,0,1,$,Guyana,Straits Settlement
+110,827,1920,0,1,$,Guyana,Straits Settlement
+110,827,1921,73,1,$,Guyana,Straits Settlement
+110,827,1922,0,1,$,Guyana,Straits Settlement
+110,827,1923,271,1,$,Guyana,Straits Settlement
+110,827,1924,263,1,$,Guyana,Straits Settlement
+110,827,1925,1076,1,,Guyana,Straits Settlement
+110,827,1926,1130,1,,Guyana,Straits Settlement
+110,827,1927,44,1,,Guyana,Straits Settlement
+110,827,1928,749,1,,Guyana,Straits Settlement
+110,827,1929,4191,1,,Guyana,Straits Settlement
+110,827,1930,8081,1,,Guyana,Straits Settlement
+110,827,1931,12296,1,$,Guyana,Straits Settlement
+110,827,1932,14744,1,$,Guyana,Straits Settlement
+110,827,1933,37869,1,$,Guyana,Straits Settlement
+110,827,1934,0,1,$,Guyana,Straits Settlement
+110,827,1935,0,1,$,Guyana,Straits Settlement
+110,827,1936,0,1,$,Guyana,Straits Settlement
+110,827,1937,0,1,$,Guyana,Straits Settlement
+110,827,1938,0,1,$,Guyana,Straits Settlement
+110,827,1939,0,1,$,Guyana,Straits Settlement
+110,827,1940,0,1,$,Guyana,Straits Settlement
+110,827,1941,0,1,$,Guyana,Straits Settlement
+110,827,1942,0,1,$,Guyana,Straits Settlement
+110,827,1944,0,1,,Guyana,Straits Settlement
+110,827,1945,0,1,,Guyana,Straits Settlement
+110,827,1946,0,1,,Guyana,Straits Settlement
+110,827,1947,0,1,$,Guyana,Straits Settlement
+110,827,1948,0,1,,Guyana,Straits Settlement
+110,827,1949,0,1,,Guyana,Straits Settlement
+110,850,1918,0,1,$,Guyana,Indonesia
+110,850,1919,0,1,$,Guyana,Indonesia
+110,850,1920,0,1,$,Guyana,Indonesia
+110,850,1921,0,1,$,Guyana,Indonesia
+110,850,1922,0,1,$,Guyana,Indonesia
+110,850,1923,0,1,$,Guyana,Indonesia
+110,850,1924,0,1,$,Guyana,Indonesia
+110,850,1925,0,1,,Guyana,Indonesia
+110,850,1926,0,1,,Guyana,Indonesia
+110,850,1927,0,1,,Guyana,Indonesia
+110,850,1928,0,1,,Guyana,Indonesia
+110,850,1929,0,1,,Guyana,Indonesia
+110,850,1930,0,1,,Guyana,Indonesia
+110,850,1931,0,1,$,Guyana,Indonesia
+110,850,1932,0,1,$,Guyana,Indonesia
+110,850,1933,133,1,$,Guyana,Indonesia
+110,850,1934,226,1,$,Guyana,Indonesia
+110,850,1935,50,1,$,Guyana,Indonesia
+110,850,1936,356,1,$,Guyana,Indonesia
+110,850,1937,236,1,$,Guyana,Indonesia
+110,850,1938,144,1,$,Guyana,Indonesia
+110,850,1939,82,1,$,Guyana,Indonesia
+110,850,1940,358,1,$,Guyana,Indonesia
+110,850,1941,1005,1,$,Guyana,Indonesia
+110,850,1942,639,1,$,Guyana,Indonesia
+110,850,1944,25,1,,Guyana,Indonesia
+110,850,1945,0,1,,Guyana,Indonesia
+110,850,1946,0,1,,Guyana,Indonesia
+110,850,1947,143,1,$,Guyana,Indonesia
+110,850,1948,237,1,,Guyana,Indonesia
+110,850,1949,0,1,,Guyana,Indonesia
+110,900,1918,0,1,$,Guyana,Australia
+110,900,1919,0,1,$,Guyana,Australia
+110,900,1920,0,1,$,Guyana,Australia
+110,900,1921,0,1,$,Guyana,Australia
+110,900,1922,3,1,$,Guyana,Australia
+110,900,1923,0,1,$,Guyana,Australia
+110,900,1924,0,1,$,Guyana,Australia
+110,900,1925,0,1,,Guyana,Australia
+110,900,1926,0,1,,Guyana,Australia
+110,900,1927,0,1,,Guyana,Australia
+110,900,1928,0,1,,Guyana,Australia
+110,900,1929,0,1,,Guyana,Australia
+110,900,1930,0,1,,Guyana,Australia
+110,900,1931,2491,1,$,Guyana,Australia
+110,900,1932,7107,1,$,Guyana,Australia
+110,900,1933,3810,1,$,Guyana,Australia
+110,900,1934,16026,1,$,Guyana,Australia
+110,900,1935,21459,1,$,Guyana,Australia
+110,900,1936,18371,1,$,Guyana,Australia
+110,900,1937,34151,1,$,Guyana,Australia
+110,900,1938,39303,1,$,Guyana,Australia
+110,900,1939,28438,1,$,Guyana,Australia
+110,900,1940,52488,1,$,Guyana,Australia
+110,900,1941,78706,1,$,Guyana,Australia
+110,900,1942,89161,1,$,Guyana,Australia
+110,900,1944,9165,1,,Guyana,Australia
+110,900,1945,8757,1,,Guyana,Australia
+110,900,1946,22324,1,,Guyana,Australia
+110,900,1947,320585,1,$,Guyana,Australia
+110,900,1948,1598720,1,,Guyana,Australia
+110,900,1949,1350271,1,,Guyana,Australia
+110,920,1918,0,1,$,Guyana,New Zealand
+110,920,1919,0,1,$,Guyana,New Zealand
+110,920,1920,0,1,$,Guyana,New Zealand
+110,920,1921,0,1,$,Guyana,New Zealand
+110,920,1922,0,1,$,Guyana,New Zealand
+110,920,1923,0,1,$,Guyana,New Zealand
+110,920,1924,0,1,$,Guyana,New Zealand
+110,920,1925,0,1,,Guyana,New Zealand
+110,920,1926,0,1,,Guyana,New Zealand
+110,920,1927,0,1,,Guyana,New Zealand
+110,920,1928,0,1,,Guyana,New Zealand
+110,920,1929,0,1,,Guyana,New Zealand
+110,920,1930,0,1,,Guyana,New Zealand
+110,920,1931,0,1,$,Guyana,New Zealand
+110,920,1932,0,1,$,Guyana,New Zealand
+110,920,1933,46,1,$,Guyana,New Zealand
+110,920,1934,38981,1,$,Guyana,New Zealand
+110,920,1935,41256,1,$,Guyana,New Zealand
+110,920,1936,54164,1,$,Guyana,New Zealand
+110,920,1937,41119,1,$,Guyana,New Zealand
+110,920,1938,49688,1,$,Guyana,New Zealand
+110,920,1939,27352,1,$,Guyana,New Zealand
+110,920,1940,12381,1,$,Guyana,New Zealand
+110,920,1941,15894,1,$,Guyana,New Zealand
+110,920,1942,6130,1,$,Guyana,New Zealand
+110,920,1944,0,1,,Guyana,New Zealand
+110,920,1945,0,1,,Guyana,New Zealand
+110,920,1946,21168,1,,Guyana,New Zealand
+110,920,1947,0,1,$,Guyana,New Zealand
+110,920,1948,0,1,,Guyana,New Zealand
+110,920,1949,18060,1,,Guyana,New Zealand
+110,950,1918,0,1,$,Guyana,Fiji
+110,950,1919,0,1,$,Guyana,Fiji
+110,950,1920,0,1,$,Guyana,Fiji
+110,950,1921,0,1,$,Guyana,Fiji
+110,950,1922,0,1,$,Guyana,Fiji
+110,950,1923,0,1,$,Guyana,Fiji
+110,950,1924,0,1,$,Guyana,Fiji
+110,950,1925,0,1,,Guyana,Fiji
+110,950,1926,0,1,,Guyana,Fiji
+110,950,1927,0,1,,Guyana,Fiji
+110,950,1928,0,1,,Guyana,Fiji
+110,950,1929,0,1,,Guyana,Fiji
+110,950,1930,0,1,,Guyana,Fiji
+110,950,1931,0,1,$,Guyana,Fiji
+110,950,1932,0,1,$,Guyana,Fiji
+110,950,1933,0,1,$,Guyana,Fiji
+110,950,1934,0,1,$,Guyana,Fiji
+110,950,1935,0,1,$,Guyana,Fiji
+110,950,1936,0,1,$,Guyana,Fiji
+110,950,1937,0,1,$,Guyana,Fiji
+110,950,1938,0,1,$,Guyana,Fiji
+110,950,1939,0,1,$,Guyana,Fiji
+110,950,1940,0,1,$,Guyana,Fiji
+110,950,1941,0,1,$,Guyana,Fiji
+110,950,1942,0,1,$,Guyana,Fiji
+110,950,1944,0,1,,Guyana,Fiji
+110,950,1945,50,1,,Guyana,Fiji
+110,950,1946,0,1,,Guyana,Fiji
+110,950,1947,0,1,$,Guyana,Fiji
+110,950,1948,0,1,,Guyana,Fiji
+110,950,1949,0,1,,Guyana,Fiji
+110,1050,1918,777187,1,$,Guyana,British West Indies
+110,1050,1919,527718,1,$,Guyana,British West Indies
+110,1050,1920,732242,1,$,Guyana,British West Indies
+110,1050,1921,573959,1,$,Guyana,British West Indies
+110,1050,1922,553832,1,$,Guyana,British West Indies
+110,1050,1923,541090,1,$,Guyana,British West Indies
+110,1050,1924,540006,1,$,Guyana,British West Indies
+110,1050,1925,494696,1,,Guyana,British West Indies
+110,1050,1926,528817,1,,Guyana,British West Indies
+110,1050,1927,419580,1,,Guyana,British West Indies
+110,1050,1928,400748,1,,Guyana,British West Indies
+110,1050,1929,349555,1,,Guyana,British West Indies
+110,1050,1930,407909,1,,Guyana,British West Indies
+110,1050,1931,436014,1,$,Guyana,British West Indies
+110,1050,1932,424093,1,$,Guyana,British West Indies
+110,1050,1933,418059,1,$,Guyana,British West Indies
+110,1050,1934,346155,1,$,Guyana,British West Indies
+110,1050,1935,361875,1,$,Guyana,British West Indies
+110,1050,1936,370678,1,$,Guyana,British West Indies
+110,1050,1937,425367,1,$,Guyana,British West Indies
+110,1050,1938,457697,1,$,Guyana,British West Indies
+110,1050,1939,474605,1,$,Guyana,British West Indies
+110,1050,1940,657577,1,$,Guyana,British West Indies
+110,1050,1941,1080811,1,$,Guyana,British West Indies
+110,1050,1942,1093665,1,$,Guyana,British West Indies
+110,1050,1944,1353606,1,,Guyana,British West Indies
+110,1050,1945,1283727,1,,Guyana,British West Indies
+110,1050,1946,1632629,1,,Guyana,British West Indies
+110,1050,1947,1527956,1,$,Guyana,British West Indies
+110,1050,1948,2822838,1,,Guyana,British West Indies
+110,1050,1949,2281485,1,,Guyana,British West Indies
+110,1060,1918,3987,1,$,Guyana,French West Indies
+110,1060,1919,1170,1,$,Guyana,French West Indies
+110,1060,1920,5158,1,$,Guyana,French West Indies
+110,1060,1921,1615,1,$,Guyana,French West Indies
+110,1060,1922,111,1,$,Guyana,French West Indies
+110,1060,1923,1919,1,$,Guyana,French West Indies
+110,1060,1924,3356,1,$,Guyana,French West Indies
+110,1060,1925,4467,1,,Guyana,French West Indies
+110,1060,1926,4774,1,,Guyana,French West Indies
+110,1060,1927,4927,1,,Guyana,French West Indies
+110,1060,1928,2145,1,,Guyana,French West Indies
+110,1060,1929,4654,1,,Guyana,French West Indies
+110,1060,1930,3117,1,,Guyana,French West Indies
+110,1060,1931,957,1,$,Guyana,French West Indies
+110,1060,1932,4109,1,$,Guyana,French West Indies
+110,1060,1933,3088,1,$,Guyana,French West Indies
+110,1060,1934,177,1,$,Guyana,French West Indies
+110,1060,1935,35,1,$,Guyana,French West Indies
+110,1060,1936,7,1,$,Guyana,French West Indies
+110,1060,1937,57,1,$,Guyana,French West Indies
+110,1060,1938,392,1,$,Guyana,French West Indies
+110,1060,1939,59,1,$,Guyana,French West Indies
+110,1060,1940,551,1,$,Guyana,French West Indies
+110,1060,1941,0,1,$,Guyana,French West Indies
+110,1060,1942,0,1,$,Guyana,French West Indies
+110,1060,1944,331,1,,Guyana,French West Indies
+110,1060,1945,4872,1,,Guyana,French West Indies
+110,1060,1946,0,1,,Guyana,French West Indies
+110,1060,1947,832,1,$,Guyana,French West Indies
+110,1060,1948,0,1,,Guyana,French West Indies
+110,1060,1949,0,1,,Guyana,French West Indies
+110,2000,1918,0,1,$,Guyana,Other British possessions
+110,2000,1919,0,1,$,Guyana,Other British possessions
+110,2000,1920,0,1,$,Guyana,Other British possessions
+110,2000,1921,126,1,$,Guyana,Other British possessions
+110,2000,1922,0,1,$,Guyana,Other British possessions
+110,2000,1923,0,1,$,Guyana,Other British possessions
+110,2000,1924,1134,1,$,Guyana,Other British possessions
+110,2000,1925,784,1,,Guyana,Other British possessions
+110,2000,1926,602,1,,Guyana,Other British possessions
+110,2000,1927,0,1,,Guyana,Other British possessions
+110,2000,1928,3,1,,Guyana,Other British possessions
+110,2000,1929,0,1,,Guyana,Other British possessions
+110,2000,1930,3313,1,,Guyana,Other British possessions
+110,2000,1931,0,1,$,Guyana,Other British possessions
+110,2000,1932,0,1,$,Guyana,Other British possessions
+110,2000,1933,0,1,$,Guyana,Other British possessions
+110,2000,1934,0,1,$,Guyana,Other British possessions
+110,2000,1935,0,1,$,Guyana,Other British possessions
+110,2000,1936,0,1,$,Guyana,Other British possessions
+110,2000,1937,0,1,$,Guyana,Other British possessions
+110,2000,1938,0,1,$,Guyana,Other British possessions
+110,2000,1939,0,1,$,Guyana,Other British possessions
+110,2000,1940,0,1,$,Guyana,Other British possessions
+110,2000,1941,0,1,$,Guyana,Other British possessions
+110,2000,1942,0,1,$,Guyana,Other British possessions
+110,2000,1944,0,1,,Guyana,Other British possessions
+110,2000,1945,0,1,,Guyana,Other British possessions
+110,2000,1946,0,1,,Guyana,Other British possessions
+110,2000,1947,0,1,$,Guyana,Other British possessions
+110,2000,1948,0,1,,Guyana,Other British possessions
+110,2000,1949,0,1,,Guyana,Other British possessions
+110,2300,1918,0,1,$,Guyana,Other Spanish possessions
+110,2300,1919,0,1,$,Guyana,Other Spanish possessions
+110,2300,1920,0,1,$,Guyana,Other Spanish possessions
+110,2300,1921,0,1,$,Guyana,Other Spanish possessions
+110,2300,1922,0,1,$,Guyana,Other Spanish possessions
+110,2300,1923,0,1,$,Guyana,Other Spanish possessions
+110,2300,1924,0,1,$,Guyana,Other Spanish possessions
+110,2300,1925,0,1,,Guyana,Other Spanish possessions
+110,2300,1926,0,1,,Guyana,Other Spanish possessions
+110,2300,1927,0,1,,Guyana,Other Spanish possessions
+110,2300,1928,0,1,,Guyana,Other Spanish possessions
+110,2300,1929,0,1,,Guyana,Other Spanish possessions
+110,2300,1930,0,1,,Guyana,Other Spanish possessions
+110,2300,1931,0,1,$,Guyana,Other Spanish possessions
+110,2300,1932,0,1,$,Guyana,Other Spanish possessions
+110,2300,1933,0,1,$,Guyana,Other Spanish possessions
+110,2300,1934,0,1,$,Guyana,Other Spanish possessions
+110,2300,1935,0,1,$,Guyana,Other Spanish possessions
+110,2300,1936,0,1,$,Guyana,Other Spanish possessions
+110,2300,1937,0,1,$,Guyana,Other Spanish possessions
+110,2300,1938,0,1,$,Guyana,Other Spanish possessions
+110,2300,1939,0,1,$,Guyana,Other Spanish possessions
+110,2300,1940,0,1,$,Guyana,Other Spanish possessions
+110,2300,1941,0,1,$,Guyana,Other Spanish possessions
+110,2300,1942,0,1,$,Guyana,Other Spanish possessions
+110,2300,1944,0,1,,Guyana,Other Spanish possessions
+110,2300,1945,42,1,,Guyana,Other Spanish possessions
+110,2300,1946,0,1,,Guyana,Other Spanish possessions
+110,2300,1947,0,1,$,Guyana,Other Spanish possessions
+110,2300,1948,0,1,,Guyana,Other Spanish possessions
+110,2300,1949,10460,1,,Guyana,Other Spanish possessions
+110,2350,1918,1321,1,$,Guyana,Other Portuguese possessions
+110,2350,1919,22500,1,$,Guyana,Other Portuguese possessions
+110,2350,1920,42018,1,$,Guyana,Other Portuguese possessions
+110,2350,1921,78903,1,$,Guyana,Other Portuguese possessions
+110,2350,1922,76505,1,$,Guyana,Other Portuguese possessions
+110,2350,1923,61841,1,$,Guyana,Other Portuguese possessions
+110,2350,1924,52174,1,$,Guyana,Other Portuguese possessions
+110,2350,1925,33763,1,,Guyana,Other Portuguese possessions
+110,2350,1926,42582,1,,Guyana,Other Portuguese possessions
+110,2350,1927,27095,1,,Guyana,Other Portuguese possessions
+110,2350,1928,37306,1,,Guyana,Other Portuguese possessions
+110,2350,1929,29693,1,,Guyana,Other Portuguese possessions
+110,2350,1930,26768,1,,Guyana,Other Portuguese possessions
+110,2350,1931,20903,1,$,Guyana,Other Portuguese possessions
+110,2350,1932,19114,1,$,Guyana,Other Portuguese possessions
+110,2350,1933,17404,1,$,Guyana,Other Portuguese possessions
+110,2350,1934,11864,1,$,Guyana,Other Portuguese possessions
+110,2350,1935,12185,1,$,Guyana,Other Portuguese possessions
+110,2350,1936,15543,1,$,Guyana,Other Portuguese possessions
+110,2350,1937,10765,1,$,Guyana,Other Portuguese possessions
+110,2350,1938,24524,1,$,Guyana,Other Portuguese possessions
+110,2350,1939,16031,1,$,Guyana,Other Portuguese possessions
+110,2350,1940,15704,1,$,Guyana,Other Portuguese possessions
+110,2350,1941,9943,1,$,Guyana,Other Portuguese possessions
+110,2350,1942,17,1,$,Guyana,Other Portuguese possessions
+110,2350,1944,0,1,,Guyana,Other Portuguese possessions
+110,2350,1945,0,1,,Guyana,Other Portuguese possessions
+110,2350,1946,34307,1,,Guyana,Other Portuguese possessions
+110,2350,1947,96426,1,$,Guyana,Other Portuguese possessions
+110,2350,1948,162498,1,,Guyana,Other Portuguese possessions
+110,2350,1949,59976,1,,Guyana,Other Portuguese possessions
+110,,1918,17302239,1,$,Guyana,
+110,,1919,15865220,1,$,Guyana,
+110,,1920,23037269,1,$,Guyana,
+110,,1921,15945854,1,$,Guyana,
+110,,1922,11295481,1,$,Guyana,
+110,,1923,13025601,1,$,Guyana,
+110,,1924,13427787,1,$,Guyana,
+110,,1925,14202743,1,,Guyana,
+110,,1926,12763649,1,,Guyana,
+110,,1927,12198901,1,,Guyana,
+110,,1928,12079270,1,,Guyana,
+110,,1929,10893218,1,,Guyana,
+110,,1930,9807684,1,,Guyana,
+110,,1931,7833645,1,$,Guyana,
+110,,1932,8149691,1,$,Guyana,
+110,,1933,8961818,1,$,Guyana,
+110,,1934,8413583,1,$,Guyana,
+110,,1935,8815921,1,$,Guyana,
+110,,1936,9461731,1,$,Guyana,
+110,,1937,11565742,1,$,Guyana,
+110,,1938,10637552,1,$,Guyana,
+110,,1939,10820469,1,$,Guyana,
+110,,1940,14226537,1,$,Guyana,
+110,,1941,17191928,1,$,Guyana,
+110,,1942,18150179,1,$,Guyana,
+110,,1944,22378867,1,,Guyana,
+110,,1945,20980952,1,,Guyana,
+110,,1946,26221966,1,,Guyana,
+110,,1947,40726346,1,$,Guyana,
+110,,1948,47428651,1,,Guyana,
+110,,1949,49849439,1,,Guyana,

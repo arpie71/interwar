@@ -1,0 +1,4172 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+155,2,1906,25233410,1,$ De 18 D,Chile,United States
+155,2,1907,31124384,1,$ De 18 D,Chile,United States
+155,2,1908,24385123,1,$ De 18 D,Chile,United States
+155,2,1909,264011022,1,$ De 18 D,Chile,United States
+155,2,1910,36629518,1,$ De 18 D,Chile,United States
+155,2,1911,43221833,1,$ De 18 D,Chile,United States
+155,2,1912,46044771,1,$ De 18 D,Chile,United States
+155,2,1914,55201578,1,,Chile,United States
+155,2,1915,51064260,1,$ De 18D,Chile,United States
+155,2,1916,94251880,1,$ De 18D,Chile,United States
+155,2,1917,174068041,1,$ De 18D,Chile,United States
+155,2,1918,203451891,1,$ De 18D,Chile,United States
+155,2,1919,575563680,1,$ Oro De 6 D.,Chile,United States
+155,2,1920,420811995,1,$ Oro De 6 D.,Chile,United States
+155,2,1921,315288312,1,$ Oro De 6 D.,Chile,United States
+155,2,1922,190642890,1,$ Oro De 6 D.,Chile,United States
+155,2,1923,263498823,1,$ Oro De 6 D.,Chile,United States
+155,2,1924,256071081,1,$ Oro De 6 D.,Chile,United States
+155,2,1925,339574206,1,$ Oro De 6 D.,Chile,United States
+155,2,1926,422357393,1,$ Oro De 6 D.,Chile,United States
+155,2,1927,318478538,1,$ Oro De 6 D.,Chile,United States
+155,2,1928,368912175,1,$ Oro De 6 D.,Chile,United States
+155,2,1929,520523098,1,$ Oro De 6 D.,Chile,United States
+155,2,1930,467356358,1,$ Oro De 6 D.,Chile,United States
+155,2,1931,241863814,1,$ Oro De 6 D.,Chile,United States
+155,2,1932,49413405,1,$ Oro De 6D,Chile,United States
+155,2,1933,40748727,1,$ Oro De 6D,Chile,United States
+155,2,1934,69515442,1,$6 D Oro,Chile,United States
+155,2,1935,82237087,1,,Chile,United States
+155,2,1936,87973350,1,,Chile,United States
+155,2,1937,124747988,1,,Chile,United States
+155,2,1938,138933432,1,$ 6 D,Chile,United States
+155,2,1939,127703971,1,$ 6 D,Chile,United States
+155,2,1940,242537503,1,$ 6 D,Chile,United States
+155,2,1941,296436378,1,$ 6 D,Chile,United States
+155,2,1942,281819220,1,$ 6 D,Chile,United States
+155,2,1943,238171895,1,$ 6 D,Chile,United States
+155,2,1944,309881786,1,$ 6 D,Chile,United States
+155,2,1945,318052769,1,$ 6 D,Chile,United States
+155,2,1946,383907936,1,$ 6 D,Chile,United States
+155,2,1947,570668569,1,$ 6 D,Chile,United States
+155,2,1948,553627588,1,$ 6 D,Chile,United States
+155,2,1949,800614971,1,$ 6 D,Chile,United States
+155,4,1906,0,1,$ De 18 D,Chile,Hawaii
+155,4,1907,0,1,$ De 18 D,Chile,Hawaii
+155,4,1908,0,1,$ De 18 D,Chile,Hawaii
+155,4,1909,0,1,$ De 18 D,Chile,Hawaii
+155,4,1910,0,1,$ De 18 D,Chile,Hawaii
+155,4,1911,0,1,$ De 18 D,Chile,Hawaii
+155,4,1912,0,1,$ De 18 D,Chile,Hawaii
+155,4,1914,0,1,,Chile,Hawaii
+155,4,1915,0,1,$ De 18D,Chile,Hawaii
+155,4,1916,0,1,$ De 18D,Chile,Hawaii
+155,4,1917,0,1,$ De 18D,Chile,Hawaii
+155,4,1918,0,1,$ De 18D,Chile,Hawaii
+155,4,1919,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1920,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1921,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1922,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1923,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1924,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1925,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1926,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1927,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1928,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1929,0,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1930,20,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1931,44,1,$ Oro De 6 D.,Chile,Hawaii
+155,4,1932,10,1,$ Oro De 6D,Chile,Hawaii
+155,4,1933,90,1,$ Oro De 6D,Chile,Hawaii
+155,4,1934,0,1,$6 D Oro,Chile,Hawaii
+155,4,1935,0,1,,Chile,Hawaii
+155,4,1936,0,1,,Chile,Hawaii
+155,4,1937,0,1,,Chile,Hawaii
+155,4,1938,0,1,$ 6 D,Chile,Hawaii
+155,4,1939,0,1,$ 6 D,Chile,Hawaii
+155,4,1940,0,1,$ 6 D,Chile,Hawaii
+155,4,1941,0,1,$ 6 D,Chile,Hawaii
+155,4,1942,0,1,$ 6 D,Chile,Hawaii
+155,4,1943,0,1,$ 6 D,Chile,Hawaii
+155,4,1944,0,1,$ 6 D,Chile,Hawaii
+155,4,1945,322,1,$ 6 D,Chile,Hawaii
+155,4,1946,0,1,$ 6 D,Chile,Hawaii
+155,4,1947,0,1,$ 6 D,Chile,Hawaii
+155,4,1948,0,1,$ 6 D,Chile,Hawaii
+155,4,1949,0,1,$ 6 D,Chile,Hawaii
+155,6,1906,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1907,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1908,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1909,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1910,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1911,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1912,0,1,$ De 18 D,Chile,Puerto Rico
+155,6,1914,0,1,,Chile,Puerto Rico
+155,6,1915,0,1,$ De 18D,Chile,Puerto Rico
+155,6,1916,0,1,$ De 18D,Chile,Puerto Rico
+155,6,1917,0,1,$ De 18D,Chile,Puerto Rico
+155,6,1918,0,1,$ De 18D,Chile,Puerto Rico
+155,6,1919,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1920,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1921,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1922,10674,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1923,16740,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1924,13260,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1925,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1926,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1927,3200,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1928,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1929,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1930,10668,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1931,0,1,$ Oro De 6 D.,Chile,Puerto Rico
+155,6,1932,0,1,$ Oro De 6D,Chile,Puerto Rico
+155,6,1933,0,1,$ Oro De 6D,Chile,Puerto Rico
+155,6,1934,0,1,$6 D Oro,Chile,Puerto Rico
+155,6,1935,0,1,,Chile,Puerto Rico
+155,6,1936,0,1,,Chile,Puerto Rico
+155,6,1937,0,1,,Chile,Puerto Rico
+155,6,1938,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1939,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1940,100,1,$ 6 D,Chile,Puerto Rico
+155,6,1941,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1942,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1943,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1944,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1945,30,1,$ 6 D,Chile,Puerto Rico
+155,6,1946,0,1,$ 6 D,Chile,Puerto Rico
+155,6,1947,800,1,$ 6 D,Chile,Puerto Rico
+155,6,1948,2041,1,$ 6 D,Chile,Puerto Rico
+155,6,1949,99,1,$ 6 D,Chile,Puerto Rico
+155,20,1906,0,1,$ De 18 D,Chile,Canada
+155,20,1907,0,1,$ De 18 D,Chile,Canada
+155,20,1908,207282,1,$ De 18 D,Chile,Canada
+155,20,1909,0,1,$ De 18 D,Chile,Canada
+155,20,1910,0,1,$ De 18 D,Chile,Canada
+155,20,1911,0,1,$ De 18 D,Chile,Canada
+155,20,1912,4448,1,$ De 18 D,Chile,Canada
+155,20,1914,50,1,,Chile,Canada
+155,20,1915,284,1,$ De 18D,Chile,Canada
+155,20,1916,30304,1,$ De 18D,Chile,Canada
+155,20,1917,39994,1,$ De 18D,Chile,Canada
+155,20,1918,175748,1,$ De 18D,Chile,Canada
+155,20,1919,62238,1,$ Oro De 6 D.,Chile,Canada
+155,20,1920,557154,1,$ Oro De 6 D.,Chile,Canada
+155,20,1921,69471,1,$ Oro De 6 D.,Chile,Canada
+155,20,1922,107370,1,$ Oro De 6 D.,Chile,Canada
+155,20,1923,27249,1,$ Oro De 6 D.,Chile,Canada
+155,20,1924,317079,1,$ Oro De 6 D.,Chile,Canada
+155,20,1925,549216,1,$ Oro De 6 D.,Chile,Canada
+155,20,1926,538998,1,$ Oro De 6 D.,Chile,Canada
+155,20,1927,233781,1,$ Oro De 6 D.,Chile,Canada
+155,20,1928,597922,1,$ Oro De 6 D.,Chile,Canada
+155,20,1929,2607331,1,$ Oro De 6 D.,Chile,Canada
+155,20,1930,2302213,1,$ Oro De 6 D.,Chile,Canada
+155,20,1931,2093273,1,$ Oro De 6 D.,Chile,Canada
+155,20,1932,2378809,1,$ Oro De 6D,Chile,Canada
+155,20,1933,502693,1,$ Oro De 6D,Chile,Canada
+155,20,1934,1590873,1,$6 D Oro,Chile,Canada
+155,20,1935,2596760,1,,Chile,Canada
+155,20,1936,2363518,1,,Chile,Canada
+155,20,1937,2633122,1,,Chile,Canada
+155,20,1938,1524860,1,$ 6 D,Chile,Canada
+155,20,1939,2620290,1,$ 6 D,Chile,Canada
+155,20,1940,2057225,1,$ 6 D,Chile,Canada
+155,20,1941,2313356,1,$ 6 D,Chile,Canada
+155,20,1942,2846246,1,$ 6 D,Chile,Canada
+155,20,1943,2214074,1,$ 6 D,Chile,Canada
+155,20,1944,5410525,1,$ 6 D,Chile,Canada
+155,20,1945,6144901,1,$ 6 D,Chile,Canada
+155,20,1946,9830617,1,$ 6 D,Chile,Canada
+155,20,1947,15595242,1,$ 6 D,Chile,Canada
+155,20,1948,17885470,1,$ 6 D,Chile,Canada
+155,20,1949,10191273,1,$ 6 D,Chile,Canada
+155,30,1906,0,1,$ De 18 D,Chile,Bermuda
+155,30,1907,0,1,$ De 18 D,Chile,Bermuda
+155,30,1908,0,1,$ De 18 D,Chile,Bermuda
+155,30,1909,0,1,$ De 18 D,Chile,Bermuda
+155,30,1910,0,1,$ De 18 D,Chile,Bermuda
+155,30,1911,0,1,$ De 18 D,Chile,Bermuda
+155,30,1912,0,1,$ De 18 D,Chile,Bermuda
+155,30,1914,0,1,,Chile,Bermuda
+155,30,1915,0,1,$ De 18D,Chile,Bermuda
+155,30,1916,0,1,$ De 18D,Chile,Bermuda
+155,30,1917,0,1,$ De 18D,Chile,Bermuda
+155,30,1918,0,1,$ De 18D,Chile,Bermuda
+155,30,1919,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1920,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1921,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1922,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1923,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1924,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1925,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1926,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1927,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1928,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1929,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1930,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1931,0,1,$ Oro De 6 D.,Chile,Bermuda
+155,30,1932,0,1,$ Oro De 6D,Chile,Bermuda
+155,30,1933,2,1,$ Oro De 6D,Chile,Bermuda
+155,30,1934,0,1,$6 D Oro,Chile,Bermuda
+155,30,1935,0,1,,Chile,Bermuda
+155,30,1936,0,1,,Chile,Bermuda
+155,30,1937,0,1,,Chile,Bermuda
+155,30,1938,0,1,$ 6 D,Chile,Bermuda
+155,30,1939,0,1,$ 6 D,Chile,Bermuda
+155,30,1940,0,1,$ 6 D,Chile,Bermuda
+155,30,1941,0,1,$ 6 D,Chile,Bermuda
+155,30,1942,1825,1,$ 6 D,Chile,Bermuda
+155,30,1943,0,1,$ 6 D,Chile,Bermuda
+155,30,1944,1355,1,$ 6 D,Chile,Bermuda
+155,30,1945,0,1,$ 6 D,Chile,Bermuda
+155,30,1946,0,1,$ 6 D,Chile,Bermuda
+155,30,1947,0,1,$ 6 D,Chile,Bermuda
+155,30,1948,30,1,$ 6 D,Chile,Bermuda
+155,30,1949,13038,1,$ 6 D,Chile,Bermuda
+155,40,1906,297573,1,$ De 18 D,Chile,Cuba
+155,40,1907,327159,1,$ De 18 D,Chile,Cuba
+155,40,1908,270658,1,$ De 18 D,Chile,Cuba
+155,40,1909,308281,1,$ De 18 D,Chile,Cuba
+155,40,1910,285215,1,$ De 18 D,Chile,Cuba
+155,40,1911,283689,1,$ De 18 D,Chile,Cuba
+155,40,1912,621474,1,$ De 18 D,Chile,Cuba
+155,40,1914,465264,1,,Chile,Cuba
+155,40,1915,538711,1,$ De 18D,Chile,Cuba
+155,40,1916,898417,1,$ De 18D,Chile,Cuba
+155,40,1917,1137771,1,$ De 18D,Chile,Cuba
+155,40,1918,1551917,1,$ De 18D,Chile,Cuba
+155,40,1919,5247450,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1920,6184326,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1921,4180497,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1922,1383798,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1923,3626799,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1924,2467311,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1925,5267472,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1926,4100183,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1927,2371136,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1928,3650415,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1929,3986427,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1930,4332967,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1931,1884466,1,$ Oro De 6 D.,Chile,Cuba
+155,40,1932,1684489,1,$ Oro De 6D,Chile,Cuba
+155,40,1933,925474,1,$ Oro De 6D,Chile,Cuba
+155,40,1934,692698,1,$6 D Oro,Chile,Cuba
+155,40,1935,483575,1,,Chile,Cuba
+155,40,1936,2557307,1,,Chile,Cuba
+155,40,1937,1021422,1,,Chile,Cuba
+155,40,1938,4453457,1,$ 6 D,Chile,Cuba
+155,40,1939,2543706,1,$ 6 D,Chile,Cuba
+155,40,1940,1175591,1,$ 6 D,Chile,Cuba
+155,40,1941,1143285,1,$ 6 D,Chile,Cuba
+155,40,1942,1590419,1,$ 6 D,Chile,Cuba
+155,40,1943,1754796,1,$ 6 D,Chile,Cuba
+155,40,1944,546120,1,$ 6 D,Chile,Cuba
+155,40,1945,7378056,1,$ 6 D,Chile,Cuba
+155,40,1946,31354585,1,$ 6 D,Chile,Cuba
+155,40,1947,20091888,1,$ 6 D,Chile,Cuba
+155,40,1948,5049878,1,$ 6 D,Chile,Cuba
+155,40,1949,22569882,1,$ 6 D,Chile,Cuba
+155,41,1906,0,1,$ De 18 D,Chile,Haiti
+155,41,1907,0,1,$ De 18 D,Chile,Haiti
+155,41,1908,0,1,$ De 18 D,Chile,Haiti
+155,41,1909,0,1,$ De 18 D,Chile,Haiti
+155,41,1910,0,1,$ De 18 D,Chile,Haiti
+155,41,1911,0,1,$ De 18 D,Chile,Haiti
+155,41,1912,0,1,$ De 18 D,Chile,Haiti
+155,41,1914,0,1,,Chile,Haiti
+155,41,1915,0,1,$ De 18D,Chile,Haiti
+155,41,1916,0,1,$ De 18D,Chile,Haiti
+155,41,1917,0,1,$ De 18D,Chile,Haiti
+155,41,1918,0,1,$ De 18D,Chile,Haiti
+155,41,1919,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1920,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1921,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1922,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1923,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1924,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1925,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1926,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1927,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1928,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1929,0,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1930,1748,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1931,5414,1,$ Oro De 6 D.,Chile,Haiti
+155,41,1932,0,1,$ Oro De 6D,Chile,Haiti
+155,41,1933,0,1,$ Oro De 6D,Chile,Haiti
+155,41,1934,0,1,$6 D Oro,Chile,Haiti
+155,41,1935,60,1,,Chile,Haiti
+155,41,1936,0,1,,Chile,Haiti
+155,41,1937,3311,1,,Chile,Haiti
+155,41,1938,146,1,$ 6 D,Chile,Haiti
+155,41,1939,0,1,$ 6 D,Chile,Haiti
+155,41,1940,140,1,$ 6 D,Chile,Haiti
+155,41,1941,300,1,$ 6 D,Chile,Haiti
+155,41,1942,0,1,$ 6 D,Chile,Haiti
+155,41,1943,0,1,$ 6 D,Chile,Haiti
+155,41,1944,0,1,$ 6 D,Chile,Haiti
+155,41,1945,0,1,$ 6 D,Chile,Haiti
+155,41,1946,0,1,$ 6 D,Chile,Haiti
+155,41,1947,2129,1,$ 6 D,Chile,Haiti
+155,41,1948,68,1,$ 6 D,Chile,Haiti
+155,41,1949,3414,1,$ 6 D,Chile,Haiti
+155,42,1906,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1907,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1908,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1909,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1910,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1911,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1912,0,1,$ De 18 D,Chile,Dominican Republic
+155,42,1914,0,1,,Chile,Dominican Republic
+155,42,1915,0,1,$ De 18D,Chile,Dominican Republic
+155,42,1916,0,1,$ De 18D,Chile,Dominican Republic
+155,42,1917,0,1,$ De 18D,Chile,Dominican Republic
+155,42,1918,0,1,$ De 18D,Chile,Dominican Republic
+155,42,1919,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1920,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1921,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1922,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1923,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1924,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1925,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1926,1045,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1927,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1928,2400,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1929,774,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1930,0,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1931,27262,1,$ Oro De 6 D.,Chile,Dominican Republic
+155,42,1932,146761,1,$ Oro De 6D,Chile,Dominican Republic
+155,42,1933,0,1,$ Oro De 6D,Chile,Dominican Republic
+155,42,1934,3579,1,$6 D Oro,Chile,Dominican Republic
+155,42,1935,13066,1,,Chile,Dominican Republic
+155,42,1936,889,1,,Chile,Dominican Republic
+155,42,1937,70,1,,Chile,Dominican Republic
+155,42,1938,0,1,$ 6 D,Chile,Dominican Republic
+155,42,1939,0,1,$ 6 D,Chile,Dominican Republic
+155,42,1940,812,1,$ 6 D,Chile,Dominican Republic
+155,42,1941,5,1,$ 6 D,Chile,Dominican Republic
+155,42,1942,20,1,$ 6 D,Chile,Dominican Republic
+155,42,1943,0,1,$ 6 D,Chile,Dominican Republic
+155,42,1944,0,1,$ 6 D,Chile,Dominican Republic
+155,42,1945,0,1,$ 6 D,Chile,Dominican Republic
+155,42,1946,1211,1,$ 6 D,Chile,Dominican Republic
+155,42,1947,30364655,1,$ 6 D,Chile,Dominican Republic
+155,42,1948,13291592,1,$ 6 D,Chile,Dominican Republic
+155,42,1949,256905,1,$ 6 D,Chile,Dominican Republic
+155,51,1906,0,1,$ De 18 D,Chile,Jamaica
+155,51,1907,0,1,$ De 18 D,Chile,Jamaica
+155,51,1908,0,1,$ De 18 D,Chile,Jamaica
+155,51,1909,0,1,$ De 18 D,Chile,Jamaica
+155,51,1910,0,1,$ De 18 D,Chile,Jamaica
+155,51,1911,0,1,$ De 18 D,Chile,Jamaica
+155,51,1912,0,1,$ De 18 D,Chile,Jamaica
+155,51,1914,0,1,,Chile,Jamaica
+155,51,1915,628,1,$ De 18D,Chile,Jamaica
+155,51,1916,0,1,$ De 18D,Chile,Jamaica
+155,51,1917,840,1,$ De 18D,Chile,Jamaica
+155,51,1918,1675,1,$ De 18D,Chile,Jamaica
+155,51,1919,11148,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1920,12255,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1921,1503,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1922,390,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1923,0,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1924,4311,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1925,450,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1926,19263,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1927,58530,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1928,17511,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1929,24072,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1930,6262,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1931,1551,1,$ Oro De 6 D.,Chile,Jamaica
+155,51,1932,3980,1,$ Oro De 6D,Chile,Jamaica
+155,51,1933,40,1,$ Oro De 6D,Chile,Jamaica
+155,51,1934,0,1,$6 D Oro,Chile,Jamaica
+155,51,1935,300,1,,Chile,Jamaica
+155,51,1936,18561,1,,Chile,Jamaica
+155,51,1937,3061,1,,Chile,Jamaica
+155,51,1938,0,1,$ 6 D,Chile,Jamaica
+155,51,1939,11,1,$ 6 D,Chile,Jamaica
+155,51,1940,0,1,$ 6 D,Chile,Jamaica
+155,51,1941,3447,1,$ 6 D,Chile,Jamaica
+155,51,1942,3203,1,$ 6 D,Chile,Jamaica
+155,51,1943,5,1,$ 6 D,Chile,Jamaica
+155,51,1944,0,1,$ 6 D,Chile,Jamaica
+155,51,1945,0,1,$ 6 D,Chile,Jamaica
+155,51,1946,0,1,$ 6 D,Chile,Jamaica
+155,51,1947,30,1,$ 6 D,Chile,Jamaica
+155,51,1948,326,1,$ 6 D,Chile,Jamaica
+155,51,1949,412,1,$ 6 D,Chile,Jamaica
+155,52,1906,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1907,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1908,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1909,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1910,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1911,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1912,0,1,$ De 18 D,Chile,Trinidad And Tobago
+155,52,1914,0,1,,Chile,Trinidad And Tobago
+155,52,1915,0,1,$ De 18D,Chile,Trinidad And Tobago
+155,52,1916,0,1,$ De 18D,Chile,Trinidad And Tobago
+155,52,1917,0,1,$ De 18D,Chile,Trinidad And Tobago
+155,52,1918,0,1,$ De 18D,Chile,Trinidad And Tobago
+155,52,1919,0,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1920,0,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1921,1050,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1922,510,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1923,3360,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1924,12402,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1925,51336,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1926,23471,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1927,16300,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1928,46542,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1929,100186,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1930,38234,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1931,31228,1,$ Oro De 6 D.,Chile,Trinidad And Tobago
+155,52,1932,1130,1,$ Oro De 6D,Chile,Trinidad And Tobago
+155,52,1933,0,1,$ Oro De 6D,Chile,Trinidad And Tobago
+155,52,1934,6843,1,$6 D Oro,Chile,Trinidad And Tobago
+155,52,1935,3239,1,,Chile,Trinidad And Tobago
+155,52,1936,6693,1,,Chile,Trinidad And Tobago
+155,52,1937,0,1,,Chile,Trinidad And Tobago
+155,52,1938,0,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1939,7,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1940,635,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1941,1077,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1942,0,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1943,408,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1944,1767,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1945,806,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1946,3798,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1947,12226,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1948,9611985,1,$ 6 D,Chile,Trinidad And Tobago
+155,52,1949,2677785,1,$ 6 D,Chile,Trinidad And Tobago
+155,65,1906,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1907,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1908,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1909,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1910,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1911,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1912,0,1,$ De 18 D,Chile,Guadeloupe
+155,65,1914,0,1,,Chile,Guadeloupe
+155,65,1915,0,1,$ De 18D,Chile,Guadeloupe
+155,65,1916,0,1,$ De 18D,Chile,Guadeloupe
+155,65,1917,0,1,$ De 18D,Chile,Guadeloupe
+155,65,1918,0,1,$ De 18D,Chile,Guadeloupe
+155,65,1919,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1920,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1921,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1922,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1923,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1924,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1925,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1926,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1927,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1928,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1929,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1930,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1931,0,1,$ Oro De 6 D.,Chile,Guadeloupe
+155,65,1932,0,1,$ Oro De 6D,Chile,Guadeloupe
+155,65,1933,60,1,$ Oro De 6D,Chile,Guadeloupe
+155,65,1934,0,1,$6 D Oro,Chile,Guadeloupe
+155,65,1935,0,1,,Chile,Guadeloupe
+155,65,1936,105,1,,Chile,Guadeloupe
+155,65,1937,0,1,,Chile,Guadeloupe
+155,65,1938,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1939,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1940,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1941,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1942,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1943,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1944,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1945,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1946,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1947,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1948,0,1,$ 6 D,Chile,Guadeloupe
+155,65,1949,0,1,$ 6 D,Chile,Guadeloupe
+155,66,1906,0,1,$ De 18 D,Chile,Martinique
+155,66,1907,0,1,$ De 18 D,Chile,Martinique
+155,66,1908,0,1,$ De 18 D,Chile,Martinique
+155,66,1909,0,1,$ De 18 D,Chile,Martinique
+155,66,1910,0,1,$ De 18 D,Chile,Martinique
+155,66,1911,0,1,$ De 18 D,Chile,Martinique
+155,66,1912,0,1,$ De 18 D,Chile,Martinique
+155,66,1914,0,1,,Chile,Martinique
+155,66,1915,0,1,$ De 18D,Chile,Martinique
+155,66,1916,0,1,$ De 18D,Chile,Martinique
+155,66,1917,0,1,$ De 18D,Chile,Martinique
+155,66,1918,0,1,$ De 18D,Chile,Martinique
+155,66,1919,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1920,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1921,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1922,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1923,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1924,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1925,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1926,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1927,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1928,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1929,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1930,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1931,0,1,$ Oro De 6 D.,Chile,Martinique
+155,66,1932,0,1,$ Oro De 6D,Chile,Martinique
+155,66,1933,0,1,$ Oro De 6D,Chile,Martinique
+155,66,1934,0,1,$6 D Oro,Chile,Martinique
+155,66,1935,0,1,,Chile,Martinique
+155,66,1936,0,1,,Chile,Martinique
+155,66,1937,0,1,,Chile,Martinique
+155,66,1938,0,1,$ 6 D,Chile,Martinique
+155,66,1939,0,1,$ 6 D,Chile,Martinique
+155,66,1940,0,1,$ 6 D,Chile,Martinique
+155,66,1941,0,1,$ 6 D,Chile,Martinique
+155,66,1942,0,1,$ 6 D,Chile,Martinique
+155,66,1943,0,1,$ 6 D,Chile,Martinique
+155,66,1944,0,1,$ 6 D,Chile,Martinique
+155,66,1945,0,1,$ 6 D,Chile,Martinique
+155,66,1946,0,1,$ 6 D,Chile,Martinique
+155,66,1947,0,1,$ 6 D,Chile,Martinique
+155,66,1948,385,1,$ 6 D,Chile,Martinique
+155,66,1949,0,1,$ 6 D,Chile,Martinique
+155,68,1906,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1907,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1908,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1909,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1910,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1911,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1912,0,1,$ De 18 D,Chile,Netherlands Antilles
+155,68,1914,0,1,,Chile,Netherlands Antilles
+155,68,1915,0,1,$ De 18D,Chile,Netherlands Antilles
+155,68,1916,0,1,$ De 18D,Chile,Netherlands Antilles
+155,68,1917,0,1,$ De 18D,Chile,Netherlands Antilles
+155,68,1918,0,1,$ De 18D,Chile,Netherlands Antilles
+155,68,1919,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1920,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1921,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1922,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1923,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1924,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1925,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1926,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1927,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1928,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1929,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1930,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1931,0,1,$ Oro De 6 D.,Chile,Netherlands Antilles
+155,68,1932,0,1,$ Oro De 6D,Chile,Netherlands Antilles
+155,68,1933,300,1,$ Oro De 6D,Chile,Netherlands Antilles
+155,68,1934,0,1,$6 D Oro,Chile,Netherlands Antilles
+155,68,1935,0,1,,Chile,Netherlands Antilles
+155,68,1936,0,1,,Chile,Netherlands Antilles
+155,68,1937,0,1,,Chile,Netherlands Antilles
+155,68,1938,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1939,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1940,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1941,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1942,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1943,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1944,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1945,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1946,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1947,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1948,0,1,$ 6 D,Chile,Netherlands Antilles
+155,68,1949,0,1,$ 6 D,Chile,Netherlands Antilles
+155,70,1906,9960,1,$ De 18 D,Chile,Mexico
+155,70,1907,1010,1,$ De 18 D,Chile,Mexico
+155,70,1908,4421,1,$ De 18 D,Chile,Mexico
+155,70,1909,8842,1,$ De 18 D,Chile,Mexico
+155,70,1910,726,1,$ De 18 D,Chile,Mexico
+155,70,1911,8296,1,$ De 18 D,Chile,Mexico
+155,70,1912,82092,1,$ De 18 D,Chile,Mexico
+155,70,1914,9278,1,,Chile,Mexico
+155,70,1915,732296,1,$ De 18D,Chile,Mexico
+155,70,1916,1307753,1,$ De 18D,Chile,Mexico
+155,70,1917,6723473,1,$ De 18D,Chile,Mexico
+155,70,1918,7305009,1,$ De 18D,Chile,Mexico
+155,70,1919,13869531,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1920,26551791,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1921,17923089,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1922,20339475,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1923,13486242,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1924,6567549,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1925,15835992,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1926,2907786,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1927,6568562,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1928,4319371,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1929,3548163,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1930,7831248,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1931,3198940,1,$ Oro De 6 D.,Chile,Mexico
+155,70,1932,1728453,1,$ Oro De 6D,Chile,Mexico
+155,70,1933,1373270,1,$ Oro De 6D,Chile,Mexico
+155,70,1934,2086511,1,$6 D Oro,Chile,Mexico
+155,70,1935,2864105,1,,Chile,Mexico
+155,70,1936,2966590,1,,Chile,Mexico
+155,70,1937,2283051,1,,Chile,Mexico
+155,70,1938,1499098,1,$ 6 D,Chile,Mexico
+155,70,1939,145405,1,$ 6 D,Chile,Mexico
+155,70,1940,189435,1,$ 6 D,Chile,Mexico
+155,70,1941,544275,1,$ 6 D,Chile,Mexico
+155,70,1942,2180727,1,$ 6 D,Chile,Mexico
+155,70,1943,2918962,1,$ 6 D,Chile,Mexico
+155,70,1944,4188678,1,$ 6 D,Chile,Mexico
+155,70,1945,5328050,1,$ 6 D,Chile,Mexico
+155,70,1946,7304393,1,$ 6 D,Chile,Mexico
+155,70,1947,7357631,1,$ 6 D,Chile,Mexico
+155,70,1948,4727686,1,$ 6 D,Chile,Mexico
+155,70,1949,2932607,1,$ 6 D,Chile,Mexico
+155,80,1906,0,1,$ De 18 D,Chile,Belize
+155,80,1907,0,1,$ De 18 D,Chile,Belize
+155,80,1908,0,1,$ De 18 D,Chile,Belize
+155,80,1909,0,1,$ De 18 D,Chile,Belize
+155,80,1910,0,1,$ De 18 D,Chile,Belize
+155,80,1911,0,1,$ De 18 D,Chile,Belize
+155,80,1912,0,1,$ De 18 D,Chile,Belize
+155,80,1914,0,1,,Chile,Belize
+155,80,1915,0,1,$ De 18D,Chile,Belize
+155,80,1916,0,1,$ De 18D,Chile,Belize
+155,80,1917,0,1,$ De 18D,Chile,Belize
+155,80,1918,0,1,$ De 18D,Chile,Belize
+155,80,1919,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1920,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1921,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1922,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1923,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1924,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1925,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1926,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1927,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1928,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1929,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1930,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1931,0,1,$ Oro De 6 D.,Chile,Belize
+155,80,1932,0,1,$ Oro De 6D,Chile,Belize
+155,80,1933,0,1,$ Oro De 6D,Chile,Belize
+155,80,1934,0,1,$6 D Oro,Chile,Belize
+155,80,1935,0,1,,Chile,Belize
+155,80,1936,0,1,,Chile,Belize
+155,80,1937,0,1,,Chile,Belize
+155,80,1938,42381,1,$ 6 D,Chile,Belize
+155,80,1939,1200,1,$ 6 D,Chile,Belize
+155,80,1940,0,1,$ 6 D,Chile,Belize
+155,80,1941,0,1,$ 6 D,Chile,Belize
+155,80,1942,0,1,$ 6 D,Chile,Belize
+155,80,1943,0,1,$ 6 D,Chile,Belize
+155,80,1944,0,1,$ 6 D,Chile,Belize
+155,80,1945,0,1,$ 6 D,Chile,Belize
+155,80,1946,0,1,$ 6 D,Chile,Belize
+155,80,1947,0,1,$ 6 D,Chile,Belize
+155,80,1948,0,1,$ 6 D,Chile,Belize
+155,80,1949,100,1,$ 6 D,Chile,Belize
+155,90,1906,167263,1,$ De 18 D,Chile,Guatemala
+155,90,1907,113301,1,$ De 18 D,Chile,Guatemala
+155,90,1908,40011,1,$ De 18 D,Chile,Guatemala
+155,90,1909,132159,1,$ De 18 D,Chile,Guatemala
+155,90,1910,227496,1,$ De 18 D,Chile,Guatemala
+155,90,1911,260166,1,$ De 18 D,Chile,Guatemala
+155,90,1912,187266,1,$ De 18 D,Chile,Guatemala
+155,90,1914,132946,1,,Chile,Guatemala
+155,90,1915,25844,1,$ De 18D,Chile,Guatemala
+155,90,1916,127473,1,$ De 18D,Chile,Guatemala
+155,90,1917,185530,1,$ De 18D,Chile,Guatemala
+155,90,1918,471646,1,$ De 18D,Chile,Guatemala
+155,90,1919,502752,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1920,2073561,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1921,187233,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1922,373572,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1923,304200,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1924,25629,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1925,202878,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1926,6474,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1927,249972,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1928,446256,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1929,415030,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1930,109220,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1931,133233,1,$ Oro De 6 D.,Chile,Guatemala
+155,90,1932,28762,1,$ Oro De 6D,Chile,Guatemala
+155,90,1933,10063,1,$ Oro De 6D,Chile,Guatemala
+155,90,1934,5035,1,$6 D Oro,Chile,Guatemala
+155,90,1935,96135,1,,Chile,Guatemala
+155,90,1936,131341,1,,Chile,Guatemala
+155,90,1937,152297,1,,Chile,Guatemala
+155,90,1938,138770,1,$ 6 D,Chile,Guatemala
+155,90,1939,25303,1,$ 6 D,Chile,Guatemala
+155,90,1940,74830,1,$ 6 D,Chile,Guatemala
+155,90,1941,102580,1,$ 6 D,Chile,Guatemala
+155,90,1942,61596,1,$ 6 D,Chile,Guatemala
+155,90,1943,19399,1,$ 6 D,Chile,Guatemala
+155,90,1944,135935,1,$ 6 D,Chile,Guatemala
+155,90,1945,72344,1,$ 6 D,Chile,Guatemala
+155,90,1946,129736,1,$ 6 D,Chile,Guatemala
+155,90,1947,137529,1,$ 6 D,Chile,Guatemala
+155,90,1948,236823,1,$ 6 D,Chile,Guatemala
+155,90,1949,140689,1,$ 6 D,Chile,Guatemala
+155,91,1906,0,1,$ De 18 D,Chile,Honduras
+155,91,1907,0,1,$ De 18 D,Chile,Honduras
+155,91,1908,0,1,$ De 18 D,Chile,Honduras
+155,91,1909,0,1,$ De 18 D,Chile,Honduras
+155,91,1910,0,1,$ De 18 D,Chile,Honduras
+155,91,1911,0,1,$ De 18 D,Chile,Honduras
+155,91,1912,0,1,$ De 18 D,Chile,Honduras
+155,91,1914,0,1,,Chile,Honduras
+155,91,1915,0,1,$ De 18D,Chile,Honduras
+155,91,1916,0,1,$ De 18D,Chile,Honduras
+155,91,1917,0,1,$ De 18D,Chile,Honduras
+155,91,1918,0,1,$ De 18D,Chile,Honduras
+155,91,1919,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1920,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1921,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1922,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1923,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1924,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1925,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1926,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1927,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1928,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1929,0,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1930,170,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1931,165,1,$ Oro De 6 D.,Chile,Honduras
+155,91,1932,10,1,$ Oro De 6D,Chile,Honduras
+155,91,1933,220,1,$ Oro De 6D,Chile,Honduras
+155,91,1934,0,1,$6 D Oro,Chile,Honduras
+155,91,1935,70,1,,Chile,Honduras
+155,91,1936,1379,1,,Chile,Honduras
+155,91,1937,93,1,,Chile,Honduras
+155,91,1938,36852,1,$ 6 D,Chile,Honduras
+155,91,1939,6675,1,$ 6 D,Chile,Honduras
+155,91,1940,13740,1,$ 6 D,Chile,Honduras
+155,91,1941,4822,1,$ 6 D,Chile,Honduras
+155,91,1942,192,1,$ 6 D,Chile,Honduras
+155,91,1943,0,1,$ 6 D,Chile,Honduras
+155,91,1944,0,1,$ 6 D,Chile,Honduras
+155,91,1945,0,1,$ 6 D,Chile,Honduras
+155,91,1946,315,1,$ 6 D,Chile,Honduras
+155,91,1947,2463,1,$ 6 D,Chile,Honduras
+155,91,1948,231,1,$ 6 D,Chile,Honduras
+155,91,1949,0,1,$ 6 D,Chile,Honduras
+155,92,1906,0,1,$ De 18 D,Chile,El Salvador
+155,92,1907,0,1,$ De 18 D,Chile,El Salvador
+155,92,1908,0,1,$ De 18 D,Chile,El Salvador
+155,92,1909,0,1,$ De 18 D,Chile,El Salvador
+155,92,1910,0,1,$ De 18 D,Chile,El Salvador
+155,92,1911,0,1,$ De 18 D,Chile,El Salvador
+155,92,1912,0,1,$ De 18 D,Chile,El Salvador
+155,92,1914,158,1,,Chile,El Salvador
+155,92,1915,25068,1,$ De 18D,Chile,El Salvador
+155,92,1916,128288,1,$ De 18D,Chile,El Salvador
+155,92,1917,252486,1,$ De 18D,Chile,El Salvador
+155,92,1918,348873,1,$ De 18D,Chile,El Salvador
+155,92,1919,2196138,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1920,2624142,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1921,330336,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1922,611403,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1923,1799808,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1924,1349544,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1925,1735308,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1926,1497555,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1927,2102906,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1928,2632403,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1929,1061521,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1930,2293623,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1931,1333173,1,$ Oro De 6 D.,Chile,El Salvador
+155,92,1932,493192,1,$ Oro De 6D,Chile,El Salvador
+155,92,1933,28163,1,$ Oro De 6D,Chile,El Salvador
+155,92,1934,69508,1,$6 D Oro,Chile,El Salvador
+155,92,1935,203356,1,,Chile,El Salvador
+155,92,1936,175314,1,,Chile,El Salvador
+155,92,1937,278847,1,,Chile,El Salvador
+155,92,1938,197110,1,$ 6 D,Chile,El Salvador
+155,92,1939,73663,1,$ 6 D,Chile,El Salvador
+155,92,1940,177375,1,$ 6 D,Chile,El Salvador
+155,92,1941,416941,1,$ 6 D,Chile,El Salvador
+155,92,1942,786020,1,$ 6 D,Chile,El Salvador
+155,92,1943,484826,1,$ 6 D,Chile,El Salvador
+155,92,1944,1082135,1,$ 6 D,Chile,El Salvador
+155,92,1945,436809,1,$ 6 D,Chile,El Salvador
+155,92,1946,154678,1,$ 6 D,Chile,El Salvador
+155,92,1947,448423,1,$ 6 D,Chile,El Salvador
+155,92,1948,87519,1,$ 6 D,Chile,El Salvador
+155,92,1949,82793,1,$ 6 D,Chile,El Salvador
+155,93,1906,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1907,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1908,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1909,1308,1,$ De 18 D,Chile,Nicaragua
+155,93,1910,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1911,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1912,0,1,$ De 18 D,Chile,Nicaragua
+155,93,1914,0,1,,Chile,Nicaragua
+155,93,1915,0,1,$ De 18D,Chile,Nicaragua
+155,93,1916,0,1,$ De 18D,Chile,Nicaragua
+155,93,1917,0,1,$ De 18D,Chile,Nicaragua
+155,93,1918,14604,1,$ De 18D,Chile,Nicaragua
+155,93,1919,360,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1920,0,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1921,0,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1922,0,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1923,53772,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1924,84,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1925,177750,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1926,719,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1927,0,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1928,130105,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1929,9351,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1930,107969,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1931,186760,1,$ Oro De 6 D.,Chile,Nicaragua
+155,93,1932,35646,1,$ Oro De 6D,Chile,Nicaragua
+155,93,1933,0,1,$ Oro De 6D,Chile,Nicaragua
+155,93,1934,22730,1,$6 D Oro,Chile,Nicaragua
+155,93,1935,77308,1,,Chile,Nicaragua
+155,93,1936,45829,1,,Chile,Nicaragua
+155,93,1937,5797,1,,Chile,Nicaragua
+155,93,1938,285,1,$ 6 D,Chile,Nicaragua
+155,93,1939,2,1,$ 6 D,Chile,Nicaragua
+155,93,1940,1198,1,$ 6 D,Chile,Nicaragua
+155,93,1941,66,1,$ 6 D,Chile,Nicaragua
+155,93,1942,60,1,$ 6 D,Chile,Nicaragua
+155,93,1943,0,1,$ 6 D,Chile,Nicaragua
+155,93,1944,10,1,$ 6 D,Chile,Nicaragua
+155,93,1945,0,1,$ 6 D,Chile,Nicaragua
+155,93,1946,20,1,$ 6 D,Chile,Nicaragua
+155,93,1947,121,1,$ 6 D,Chile,Nicaragua
+155,93,1948,118,1,$ 6 D,Chile,Nicaragua
+155,93,1949,304,1,$ 6 D,Chile,Nicaragua
+155,94,1906,21738,1,$ De 18 D,Chile,Costa Rica
+155,94,1907,80079,1,$ De 18 D,Chile,Costa Rica
+155,94,1908,34208,1,$ De 18 D,Chile,Costa Rica
+155,94,1909,18789,1,$ De 18 D,Chile,Costa Rica
+155,94,1910,0,1,$ De 18 D,Chile,Costa Rica
+155,94,1911,52659,1,$ De 18 D,Chile,Costa Rica
+155,94,1912,113541,1,$ De 18 D,Chile,Costa Rica
+155,94,1914,75174,1,,Chile,Costa Rica
+155,94,1915,37893,1,$ De 18D,Chile,Costa Rica
+155,94,1916,149136,1,$ De 18D,Chile,Costa Rica
+155,94,1917,79671,1,$ De 18D,Chile,Costa Rica
+155,94,1918,356667,1,$ De 18D,Chile,Costa Rica
+155,94,1919,153810,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1920,459582,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1921,31659,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1922,242370,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1923,206679,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1924,173385,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1925,231219,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1926,220389,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1927,377937,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1928,692103,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1929,493987,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1930,296794,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1931,168759,1,$ Oro De 6 D.,Chile,Costa Rica
+155,94,1932,250710,1,$ Oro De 6D,Chile,Costa Rica
+155,94,1933,145602,1,$ Oro De 6D,Chile,Costa Rica
+155,94,1934,136345,1,$6 D Oro,Chile,Costa Rica
+155,94,1935,327814,1,,Chile,Costa Rica
+155,94,1936,67348,1,,Chile,Costa Rica
+155,94,1937,89119,1,,Chile,Costa Rica
+155,94,1938,58866,1,$ 6 D,Chile,Costa Rica
+155,94,1939,163971,1,$ 6 D,Chile,Costa Rica
+155,94,1940,233255,1,$ 6 D,Chile,Costa Rica
+155,94,1941,185505,1,$ 6 D,Chile,Costa Rica
+155,94,1942,114196,1,$ 6 D,Chile,Costa Rica
+155,94,1943,2822,1,$ 6 D,Chile,Costa Rica
+155,94,1944,127659,1,$ 6 D,Chile,Costa Rica
+155,94,1945,81309,1,$ 6 D,Chile,Costa Rica
+155,94,1946,98187,1,$ 6 D,Chile,Costa Rica
+155,94,1947,1139596,1,$ 6 D,Chile,Costa Rica
+155,94,1948,1130732,1,$ 6 D,Chile,Costa Rica
+155,94,1949,1114432,1,$ 6 D,Chile,Costa Rica
+155,95,1906,170968,1,$ De 18 D,Chile,Panama
+155,95,1907,92638,1,$ De 18 D,Chile,Panama
+155,95,1908,254041,1,$ De 18 D,Chile,Panama
+155,95,1909,227749,1,$ De 18 D,Chile,Panama
+155,95,1910,136997,1,$ De 18 D,Chile,Panama
+155,95,1911,132245,1,$ De 18 D,Chile,Panama
+155,95,1912,624,1,$ De 18 D,Chile,Panama
+155,95,1914,25641,1,,Chile,Panama
+155,95,1915,92312,1,$ De 18D,Chile,Panama
+155,95,1916,84894,1,$ De 18D,Chile,Panama
+155,95,1917,649657,1,$ De 18D,Chile,Panama
+155,95,1918,183761,1,$ De 18D,Chile,Panama
+155,95,1919,363903,1,$ Oro De 6 D.,Chile,Panama
+155,95,1920,264420,1,$ Oro De 6 D.,Chile,Panama
+155,95,1921,29535,1,$ Oro De 6 D.,Chile,Panama
+155,95,1922,19686,1,$ Oro De 6 D.,Chile,Panama
+155,95,1923,38817,1,$ Oro De 6 D.,Chile,Panama
+155,95,1924,34464,1,$ Oro De 6 D.,Chile,Panama
+155,95,1925,38103,1,$ Oro De 6 D.,Chile,Panama
+155,95,1926,35844,1,$ Oro De 6 D.,Chile,Panama
+155,95,1927,52356,1,$ Oro De 6 D.,Chile,Panama
+155,95,1928,71500,1,$ Oro De 6 D.,Chile,Panama
+155,95,1929,1605297,1,$ Oro De 6 D.,Chile,Panama
+155,95,1930,2902994,1,$ Oro De 6 D.,Chile,Panama
+155,95,1931,66344,1,$ Oro De 6 D.,Chile,Panama
+155,95,1932,20565,1,$ Oro De 6D,Chile,Panama
+155,95,1933,17483,1,$ Oro De 6D,Chile,Panama
+155,95,1934,47332,1,$6 D Oro,Chile,Panama
+155,95,1935,38621,1,,Chile,Panama
+155,95,1936,17219,1,,Chile,Panama
+155,95,1937,39515,1,,Chile,Panama
+155,95,1938,47371,1,$ 6 D,Chile,Panama
+155,95,1939,75116,1,$ 6 D,Chile,Panama
+155,95,1940,39285,1,$ 6 D,Chile,Panama
+155,95,1941,321987,1,$ 6 D,Chile,Panama
+155,95,1942,1796705,1,$ 6 D,Chile,Panama
+155,95,1943,3956512,1,$ 6 D,Chile,Panama
+155,95,1944,6164211,1,$ 6 D,Chile,Panama
+155,95,1945,846681,1,$ 6 D,Chile,Panama
+155,95,1946,187325,1,$ 6 D,Chile,Panama
+155,95,1947,1545150,1,$ 6 D,Chile,Panama
+155,95,1948,254350,1,$ 6 D,Chile,Panama
+155,95,1949,201215,1,$ 6 D,Chile,Panama
+155,100,1906,0,1,$ De 18 D,Chile,Colombia
+155,100,1907,0,1,$ De 18 D,Chile,Colombia
+155,100,1908,0,1,$ De 18 D,Chile,Colombia
+155,100,1909,322,1,$ De 18 D,Chile,Colombia
+155,100,1910,2560,1,$ De 18 D,Chile,Colombia
+155,100,1911,4,1,$ De 18 D,Chile,Colombia
+155,100,1912,2500,1,$ De 18 D,Chile,Colombia
+155,100,1914,954,1,,Chile,Colombia
+155,100,1915,783,1,$ De 18D,Chile,Colombia
+155,100,1916,1347,1,$ De 18D,Chile,Colombia
+155,100,1917,2817,1,$ De 18D,Chile,Colombia
+155,100,1918,5764,1,$ De 18D,Chile,Colombia
+155,100,1919,1611,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1920,47799,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1921,909,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1922,153990,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1923,1152780,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1924,56100,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1925,51162,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1926,65041,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1927,542995,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1928,220630,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1929,80669,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1930,189160,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1931,328321,1,$ Oro De 6 D.,Chile,Colombia
+155,100,1932,38145,1,$ Oro De 6D,Chile,Colombia
+155,100,1933,1273,1,$ Oro De 6D,Chile,Colombia
+155,100,1934,8621,1,$6 D Oro,Chile,Colombia
+155,100,1935,21799,1,,Chile,Colombia
+155,100,1936,57587,1,,Chile,Colombia
+155,100,1937,71574,1,,Chile,Colombia
+155,100,1938,24309,1,$ 6 D,Chile,Colombia
+155,100,1939,252827,1,$ 6 D,Chile,Colombia
+155,100,1940,286165,1,$ 6 D,Chile,Colombia
+155,100,1941,141415,1,$ 6 D,Chile,Colombia
+155,100,1942,341676,1,$ 6 D,Chile,Colombia
+155,100,1943,99047,1,$ 6 D,Chile,Colombia
+155,100,1944,157939,1,$ 6 D,Chile,Colombia
+155,100,1945,967664,1,$ 6 D,Chile,Colombia
+155,100,1946,1464686,1,$ 6 D,Chile,Colombia
+155,100,1947,1629545,1,$ 6 D,Chile,Colombia
+155,100,1948,1345093,1,$ 6 D,Chile,Colombia
+155,100,1949,625986,1,$ 6 D,Chile,Colombia
+155,101,1906,0,1,$ De 18 D,Chile,Venezuela
+155,101,1907,0,1,$ De 18 D,Chile,Venezuela
+155,101,1908,0,1,$ De 18 D,Chile,Venezuela
+155,101,1909,0,1,$ De 18 D,Chile,Venezuela
+155,101,1910,0,1,$ De 18 D,Chile,Venezuela
+155,101,1911,0,1,$ De 18 D,Chile,Venezuela
+155,101,1912,430,1,$ De 18 D,Chile,Venezuela
+155,101,1914,0,1,,Chile,Venezuela
+155,101,1915,15,1,$ De 18D,Chile,Venezuela
+155,101,1916,0,1,$ De 18D,Chile,Venezuela
+155,101,1917,58,1,$ De 18D,Chile,Venezuela
+155,101,1918,1738,1,$ De 18D,Chile,Venezuela
+155,101,1919,168,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1920,0,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1921,453,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1922,375,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1923,645,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1924,306,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1925,51660,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1926,51463,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1927,160220,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1928,530997,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1929,293656,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1930,416107,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1931,70169,1,$ Oro De 6 D.,Chile,Venezuela
+155,101,1932,1149961,1,$ Oro De 6D,Chile,Venezuela
+155,101,1933,999195,1,$ Oro De 6D,Chile,Venezuela
+155,101,1934,2773831,1,$6 D Oro,Chile,Venezuela
+155,101,1935,3550820,1,,Chile,Venezuela
+155,101,1936,4722868,1,,Chile,Venezuela
+155,101,1937,5671433,1,,Chile,Venezuela
+155,101,1938,3832994,1,$ 6 D,Chile,Venezuela
+155,101,1939,3077629,1,$ 6 D,Chile,Venezuela
+155,101,1940,197095,1,$ 6 D,Chile,Venezuela
+155,101,1941,717207,1,$ 6 D,Chile,Venezuela
+155,101,1942,413729,1,$ 6 D,Chile,Venezuela
+155,101,1943,303487,1,$ 6 D,Chile,Venezuela
+155,101,1944,235028,1,$ 6 D,Chile,Venezuela
+155,101,1945,17416,1,$ 6 D,Chile,Venezuela
+155,101,1946,189274,1,$ 6 D,Chile,Venezuela
+155,101,1947,702604,1,$ 6 D,Chile,Venezuela
+155,101,1948,2339419,1,$ 6 D,Chile,Venezuela
+155,101,1949,201438,1,$ 6 D,Chile,Venezuela
+155,110,1906,0,1,$ De 18 D,Chile,Guyana
+155,110,1907,0,1,$ De 18 D,Chile,Guyana
+155,110,1908,0,1,$ De 18 D,Chile,Guyana
+155,110,1909,0,1,$ De 18 D,Chile,Guyana
+155,110,1910,0,1,$ De 18 D,Chile,Guyana
+155,110,1911,0,1,$ De 18 D,Chile,Guyana
+155,110,1912,0,1,$ De 18 D,Chile,Guyana
+155,110,1914,0,1,,Chile,Guyana
+155,110,1915,0,1,$ De 18D,Chile,Guyana
+155,110,1916,0,1,$ De 18D,Chile,Guyana
+155,110,1917,0,1,$ De 18D,Chile,Guyana
+155,110,1918,0,1,$ De 18D,Chile,Guyana
+155,110,1919,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1920,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1921,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1922,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1923,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1924,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1925,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1926,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1927,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1928,9900,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1929,2800,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1930,2300,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1931,0,1,$ Oro De 6 D.,Chile,Guyana
+155,110,1932,0,1,$ Oro De 6D,Chile,Guyana
+155,110,1933,85,1,$ Oro De 6D,Chile,Guyana
+155,110,1934,1386,1,$6 D Oro,Chile,Guyana
+155,110,1935,0,1,,Chile,Guyana
+155,110,1936,0,1,,Chile,Guyana
+155,110,1937,5961,1,,Chile,Guyana
+155,110,1938,1456,1,$ 6 D,Chile,Guyana
+155,110,1939,0,1,$ 6 D,Chile,Guyana
+155,110,1940,0,1,$ 6 D,Chile,Guyana
+155,110,1941,0,1,$ 6 D,Chile,Guyana
+155,110,1942,0,1,$ 6 D,Chile,Guyana
+155,110,1943,0,1,$ 6 D,Chile,Guyana
+155,110,1944,81965,1,$ 6 D,Chile,Guyana
+155,110,1945,0,1,$ 6 D,Chile,Guyana
+155,110,1946,0,1,$ 6 D,Chile,Guyana
+155,110,1947,0,1,$ 6 D,Chile,Guyana
+155,110,1948,0,1,$ 6 D,Chile,Guyana
+155,110,1949,0,1,$ 6 D,Chile,Guyana
+155,115,1906,0,1,$ De 18 D,Chile,Suriname
+155,115,1907,0,1,$ De 18 D,Chile,Suriname
+155,115,1908,0,1,$ De 18 D,Chile,Suriname
+155,115,1909,0,1,$ De 18 D,Chile,Suriname
+155,115,1910,0,1,$ De 18 D,Chile,Suriname
+155,115,1911,0,1,$ De 18 D,Chile,Suriname
+155,115,1912,0,1,$ De 18 D,Chile,Suriname
+155,115,1914,0,1,,Chile,Suriname
+155,115,1915,0,1,$ De 18D,Chile,Suriname
+155,115,1916,0,1,$ De 18D,Chile,Suriname
+155,115,1917,0,1,$ De 18D,Chile,Suriname
+155,115,1918,0,1,$ De 18D,Chile,Suriname
+155,115,1919,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1920,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1921,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1922,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1923,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1924,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1925,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1926,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1927,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1928,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1929,317295,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1930,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1931,0,1,$ Oro De 6 D.,Chile,Suriname
+155,115,1932,516094,1,$ Oro De 6D,Chile,Suriname
+155,115,1933,5,1,$ Oro De 6D,Chile,Suriname
+155,115,1934,302,1,$6 D Oro,Chile,Suriname
+155,115,1935,0,1,,Chile,Suriname
+155,115,1936,0,1,,Chile,Suriname
+155,115,1937,0,1,,Chile,Suriname
+155,115,1938,6080,1,$ 6 D,Chile,Suriname
+155,115,1939,0,1,$ 6 D,Chile,Suriname
+155,115,1940,4,1,$ 6 D,Chile,Suriname
+155,115,1941,0,1,$ 6 D,Chile,Suriname
+155,115,1942,0,1,$ 6 D,Chile,Suriname
+155,115,1943,0,1,$ 6 D,Chile,Suriname
+155,115,1944,75,1,$ 6 D,Chile,Suriname
+155,115,1945,607793,1,$ 6 D,Chile,Suriname
+155,115,1946,133364,1,$ 6 D,Chile,Suriname
+155,115,1947,0,1,$ 6 D,Chile,Suriname
+155,115,1948,1764,1,$ 6 D,Chile,Suriname
+155,115,1949,281,1,$ 6 D,Chile,Suriname
+155,120,1906,0,1,$ De 18 D,Chile,French Guiana
+155,120,1907,0,1,$ De 18 D,Chile,French Guiana
+155,120,1908,0,1,$ De 18 D,Chile,French Guiana
+155,120,1909,0,1,$ De 18 D,Chile,French Guiana
+155,120,1910,0,1,$ De 18 D,Chile,French Guiana
+155,120,1911,0,1,$ De 18 D,Chile,French Guiana
+155,120,1912,0,1,$ De 18 D,Chile,French Guiana
+155,120,1914,0,1,,Chile,French Guiana
+155,120,1915,0,1,$ De 18D,Chile,French Guiana
+155,120,1916,0,1,$ De 18D,Chile,French Guiana
+155,120,1917,0,1,$ De 18D,Chile,French Guiana
+155,120,1918,0,1,$ De 18D,Chile,French Guiana
+155,120,1919,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1920,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1921,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1922,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1923,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1924,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1925,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1926,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1927,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1928,542,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1929,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1930,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1931,0,1,$ Oro De 6 D.,Chile,French Guiana
+155,120,1932,0,1,$ Oro De 6D,Chile,French Guiana
+155,120,1933,0,1,$ Oro De 6D,Chile,French Guiana
+155,120,1934,0,1,$6 D Oro,Chile,French Guiana
+155,120,1935,0,1,,Chile,French Guiana
+155,120,1936,0,1,,Chile,French Guiana
+155,120,1937,0,1,,Chile,French Guiana
+155,120,1938,0,1,$ 6 D,Chile,French Guiana
+155,120,1939,0,1,$ 6 D,Chile,French Guiana
+155,120,1940,0,1,$ 6 D,Chile,French Guiana
+155,120,1941,0,1,$ 6 D,Chile,French Guiana
+155,120,1942,0,1,$ 6 D,Chile,French Guiana
+155,120,1943,0,1,$ 6 D,Chile,French Guiana
+155,120,1944,0,1,$ 6 D,Chile,French Guiana
+155,120,1945,0,1,$ 6 D,Chile,French Guiana
+155,120,1946,0,1,$ 6 D,Chile,French Guiana
+155,120,1947,0,1,$ 6 D,Chile,French Guiana
+155,120,1948,0,1,$ 6 D,Chile,French Guiana
+155,120,1949,0,1,$ 6 D,Chile,French Guiana
+155,130,1906,987605,1,$ De 18 D,Chile,Ecuador
+155,130,1907,721504,1,$ De 18 D,Chile,Ecuador
+155,130,1908,659167,1,$ De 18 D,Chile,Ecuador
+155,130,1909,1220233,1,$ De 18 D,Chile,Ecuador
+155,130,1910,1269844,1,$ De 18 D,Chile,Ecuador
+155,130,1911,1234697,1,$ De 18 D,Chile,Ecuador
+155,130,1912,1076268,1,$ De 18 D,Chile,Ecuador
+155,130,1914,1231257,1,,Chile,Ecuador
+155,130,1915,1184460,1,$ De 18D,Chile,Ecuador
+155,130,1916,724637,1,$ De 18D,Chile,Ecuador
+155,130,1917,1700468,1,$ De 18D,Chile,Ecuador
+155,130,1918,1653101,1,$ De 18D,Chile,Ecuador
+155,130,1919,2656743,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1920,1870515,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1921,3350922,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1922,4378815,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1923,6519816,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1924,7567893,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1925,5582583,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1926,8733759,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1927,6198046,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1928,8417821,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1929,11384563,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1930,13205156,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1931,6527195,1,$ Oro De 6 D.,Chile,Ecuador
+155,130,1932,2789639,1,$ Oro De 6D,Chile,Ecuador
+155,130,1933,2921206,1,$ Oro De 6D,Chile,Ecuador
+155,130,1934,2360139,1,$6 D Oro,Chile,Ecuador
+155,130,1935,2737595,1,,Chile,Ecuador
+155,130,1936,2464234,1,,Chile,Ecuador
+155,130,1937,2792620,1,,Chile,Ecuador
+155,130,1938,3434390,1,$ 6 D,Chile,Ecuador
+155,130,1939,2859324,1,$ 6 D,Chile,Ecuador
+155,130,1940,3352247,1,$ 6 D,Chile,Ecuador
+155,130,1941,3638534,1,$ 6 D,Chile,Ecuador
+155,130,1942,4500994,1,$ 6 D,Chile,Ecuador
+155,130,1943,4010676,1,$ 6 D,Chile,Ecuador
+155,130,1944,7194068,1,$ 6 D,Chile,Ecuador
+155,130,1945,7237359,1,$ 6 D,Chile,Ecuador
+155,130,1946,8297359,1,$ 6 D,Chile,Ecuador
+155,130,1947,9688542,1,$ 6 D,Chile,Ecuador
+155,130,1948,8718857,1,$ 6 D,Chile,Ecuador
+155,130,1949,7431211,1,$ 6 D,Chile,Ecuador
+155,135,1906,7006004,1,$ De 18 D,Chile,Peru
+155,135,1907,8795298,1,$ De 18 D,Chile,Peru
+155,135,1908,10213863,1,$ De 18 D,Chile,Peru
+155,135,1909,12994378,1,$ De 18 D,Chile,Peru
+155,135,1910,14920519,1,$ De 18 D,Chile,Peru
+155,135,1911,20343731,1,$ De 18 D,Chile,Peru
+155,135,1912,13198441,1,$ De 18 D,Chile,Peru
+155,135,1914,14740329,1,,Chile,Peru
+155,135,1915,13048061,1,$ De 18D,Chile,Peru
+155,135,1916,15360802,1,$ De 18D,Chile,Peru
+155,135,1917,27880195,1,$ De 18D,Chile,Peru
+155,135,1918,31748068,1,$ De 18D,Chile,Peru
+155,135,1919,96887577,1,$ Oro De 6 D.,Chile,Peru
+155,135,1920,101904372,1,$ Oro De 6 D.,Chile,Peru
+155,135,1921,85191186,1,$ Oro De 6 D.,Chile,Peru
+155,135,1922,58520547,1,$ Oro De 6 D.,Chile,Peru
+155,135,1923,52502493,1,$ Oro De 6 D.,Chile,Peru
+155,135,1924,61743471,1,$ Oro De 6 D.,Chile,Peru
+155,135,1925,74588133,1,$ Oro De 6 D.,Chile,Peru
+155,135,1926,80085996,1,$ Oro De 6 D.,Chile,Peru
+155,135,1927,54765323,1,$ Oro De 6 D.,Chile,Peru
+155,135,1928,64678370,1,$ Oro De 6 D.,Chile,Peru
+155,135,1929,81255314,1,$ Oro De 6 D.,Chile,Peru
+155,135,1930,59149811,1,$ Oro De 6 D.,Chile,Peru
+155,135,1931,43178683,1,$ Oro De 6 D.,Chile,Peru
+155,135,1932,27479323,1,$ Oro De 6D,Chile,Peru
+155,135,1933,25844941,1,$ Oro De 6D,Chile,Peru
+155,135,1934,21188142,1,$6 D Oro,Chile,Peru
+155,135,1935,21836410,1,,Chile,Peru
+155,135,1936,24306792,1,,Chile,Peru
+155,135,1937,34753330,1,,Chile,Peru
+155,135,1938,29033107,1,$ 6 D,Chile,Peru
+155,135,1939,30966282,1,$ 6 D,Chile,Peru
+155,135,1940,42791098,1,$ 6 D,Chile,Peru
+155,135,1941,48019889,1,$ 6 D,Chile,Peru
+155,135,1942,122582752,1,$ 6 D,Chile,Peru
+155,135,1943,142468712,1,$ 6 D,Chile,Peru
+155,135,1944,120085134,1,$ 6 D,Chile,Peru
+155,135,1945,119632225,1,$ 6 D,Chile,Peru
+155,135,1946,153797956,1,$ 6 D,Chile,Peru
+155,135,1947,172869423,1,$ 6 D,Chile,Peru
+155,135,1948,172217417,1,$ 6 D,Chile,Peru
+155,135,1949,158256492,1,$ 6 D,Chile,Peru
+155,140,1906,1451648,1,$ De 18 D,Chile,Brazil
+155,140,1907,1626836,1,$ De 18 D,Chile,Brazil
+155,140,1908,685064,1,$ De 18 D,Chile,Brazil
+155,140,1909,1308672,1,$ De 18 D,Chile,Brazil
+155,140,1910,1984237,1,$ De 18 D,Chile,Brazil
+155,140,1911,1709878,1,$ De 18 D,Chile,Brazil
+155,140,1912,2356488,1,$ De 18 D,Chile,Brazil
+155,140,1914,1988971,1,,Chile,Brazil
+155,140,1915,3235474,1,$ De 18D,Chile,Brazil
+155,140,1916,3114477,1,$ De 18D,Chile,Brazil
+155,140,1917,2365089,1,$ De 18D,Chile,Brazil
+155,140,1918,2160576,1,$ De 18D,Chile,Brazil
+155,140,1919,11810622,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1920,26371197,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1921,6127881,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1922,15377124,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1923,13130076,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1924,11480973,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1925,19965903,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1926,17199978,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1927,18608228,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1928,20275692,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1929,17079528,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1930,13340627,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1931,7536597,1,$ Oro De 6 D.,Chile,Brazil
+155,140,1932,7517166,1,$ Oro De 6D,Chile,Brazil
+155,140,1933,3893594,1,$ Oro De 6D,Chile,Brazil
+155,140,1934,3431592,1,$6 D Oro,Chile,Brazil
+155,140,1935,3779007,1,,Chile,Brazil
+155,140,1936,4617019,1,,Chile,Brazil
+155,140,1937,4346935,1,,Chile,Brazil
+155,140,1938,3088855,1,$ 6 D,Chile,Brazil
+155,140,1939,5288328,1,$ 6 D,Chile,Brazil
+155,140,1940,10219376,1,$ 6 D,Chile,Brazil
+155,140,1941,17086313,1,$ 6 D,Chile,Brazil
+155,140,1942,50810803,1,$ 6 D,Chile,Brazil
+155,140,1943,62331946,1,$ 6 D,Chile,Brazil
+155,140,1944,68157908,1,$ 6 D,Chile,Brazil
+155,140,1945,52899076,1,$ 6 D,Chile,Brazil
+155,140,1946,54882346,1,$ 6 D,Chile,Brazil
+155,140,1947,63637586,1,$ 6 D,Chile,Brazil
+155,140,1948,58867504,1,$ 6 D,Chile,Brazil
+155,140,1949,62949627,1,$ 6 D,Chile,Brazil
+155,145,1906,54592,1,$ De 18 D,Chile,Bolivia
+155,145,1907,147975,1,$ De 18 D,Chile,Bolivia
+155,145,1908,131557,1,$ De 18 D,Chile,Bolivia
+155,145,1909,333449,1,$ De 18 D,Chile,Bolivia
+155,145,1910,260452,1,$ De 18 D,Chile,Bolivia
+155,145,1911,248282,1,$ De 18 D,Chile,Bolivia
+155,145,1912,266452,1,$ De 18 D,Chile,Bolivia
+155,145,1914,339763,1,,Chile,Bolivia
+155,145,1915,279443,1,$ De 18D,Chile,Bolivia
+155,145,1916,556112,1,$ De 18D,Chile,Bolivia
+155,145,1917,1806749,1,$ De 18D,Chile,Bolivia
+155,145,1918,3634688,1,$ De 18D,Chile,Bolivia
+155,145,1919,11135115,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1920,8797320,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1921,1133658,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1922,852759,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1923,874866,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1924,916995,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1925,674670,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1926,762253,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1927,426208,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1928,773790,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1929,1259131,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1930,765142,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1931,175793,1,$ Oro De 6 D.,Chile,Bolivia
+155,145,1932,688340,1,$ Oro De 6D,Chile,Bolivia
+155,145,1933,366996,1,$ Oro De 6D,Chile,Bolivia
+155,145,1934,189981,1,$6 D Oro,Chile,Bolivia
+155,145,1935,88443,1,,Chile,Bolivia
+155,145,1936,53544,1,,Chile,Bolivia
+155,145,1937,141515,1,,Chile,Bolivia
+155,145,1938,49321,1,$ 6 D,Chile,Bolivia
+155,145,1939,137773,1,$ 6 D,Chile,Bolivia
+155,145,1940,118204,1,$ 6 D,Chile,Bolivia
+155,145,1941,74493,1,$ 6 D,Chile,Bolivia
+155,145,1942,214764,1,$ 6 D,Chile,Bolivia
+155,145,1943,940400,1,$ 6 D,Chile,Bolivia
+155,145,1944,929289,1,$ 6 D,Chile,Bolivia
+155,145,1945,705429,1,$ 6 D,Chile,Bolivia
+155,145,1946,860667,1,$ 6 D,Chile,Bolivia
+155,145,1947,601986,1,$ 6 D,Chile,Bolivia
+155,145,1948,1229997,1,$ 6 D,Chile,Bolivia
+155,145,1949,955766,1,$ 6 D,Chile,Bolivia
+155,150,1906,19234,1,$ De 18 D,Chile,Paraguay
+155,150,1907,74696,1,$ De 18 D,Chile,Paraguay
+155,150,1908,54781,1,$ De 18 D,Chile,Paraguay
+155,150,1909,73756,1,$ De 18 D,Chile,Paraguay
+155,150,1910,31922,1,$ De 18 D,Chile,Paraguay
+155,150,1911,24062,1,$ De 18 D,Chile,Paraguay
+155,150,1912,31160,1,$ De 18 D,Chile,Paraguay
+155,150,1914,4454,1,,Chile,Paraguay
+155,150,1915,11308,1,$ De 18D,Chile,Paraguay
+155,150,1916,0,1,$ De 18D,Chile,Paraguay
+155,150,1917,36037,1,$ De 18D,Chile,Paraguay
+155,150,1918,190,1,$ De 18D,Chile,Paraguay
+155,150,1919,90,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1920,1881,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1921,930,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1922,180,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1923,14352,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1924,16500,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1925,30,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1926,150,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1927,0,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1928,41546,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1929,97103,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1930,626701,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1931,2130,1,$ Oro De 6 D.,Chile,Paraguay
+155,150,1932,210,1,$ Oro De 6D,Chile,Paraguay
+155,150,1933,32,1,$ Oro De 6D,Chile,Paraguay
+155,150,1934,1715,1,$6 D Oro,Chile,Paraguay
+155,150,1935,11746,1,,Chile,Paraguay
+155,150,1936,67899,1,,Chile,Paraguay
+155,150,1937,571,1,,Chile,Paraguay
+155,150,1938,0,1,$ 6 D,Chile,Paraguay
+155,150,1939,1353,1,$ 6 D,Chile,Paraguay
+155,150,1940,567,1,$ 6 D,Chile,Paraguay
+155,150,1941,1204,1,$ 6 D,Chile,Paraguay
+155,150,1942,0,1,$ 6 D,Chile,Paraguay
+155,150,1943,5584,1,$ 6 D,Chile,Paraguay
+155,150,1944,610,1,$ 6 D,Chile,Paraguay
+155,150,1945,35,1,$ 6 D,Chile,Paraguay
+155,150,1946,78110,1,$ 6 D,Chile,Paraguay
+155,150,1947,4950,1,$ 6 D,Chile,Paraguay
+155,150,1948,118349,1,$ 6 D,Chile,Paraguay
+155,150,1949,5735,1,$ 6 D,Chile,Paraguay
+155,160,1906,7566168,1,$ De 18 D,Chile,Argentina
+155,160,1907,10015251,1,$ De 18 D,Chile,Argentina
+155,160,1908,10535007,1,$ De 18 D,Chile,Argentina
+155,160,1909,18130263,1,$ De 18 D,Chile,Argentina
+155,160,1910,15007692,1,$ De 18 D,Chile,Argentina
+155,160,1911,21410343,1,$ De 18 D,Chile,Argentina
+155,160,1912,11238238,1,$ De 18 D,Chile,Argentina
+155,160,1914,5931331,1,,Chile,Argentina
+155,160,1915,6730634,1,$ De 18D,Chile,Argentina
+155,160,1916,6896440,1,$ De 18D,Chile,Argentina
+155,160,1917,21046867,1,$ De 18D,Chile,Argentina
+155,160,1918,30977633,1,$ De 18D,Chile,Argentina
+155,160,1919,31665954,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1920,51159351,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1921,22506432,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1922,25447767,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1923,42891687,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1924,21847944,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1925,36908514,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1926,70278806,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1927,49763229,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1928,51487346,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1929,75090277,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1930,57041496,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1931,10914820,1,$ Oro De 6 D.,Chile,Argentina
+155,160,1932,7500485,1,$ Oro De 6D,Chile,Argentina
+155,160,1933,19091622,1,$ Oro De 6D,Chile,Argentina
+155,160,1934,6003671,1,$6 D Oro,Chile,Argentina
+155,160,1935,9343564,1,,Chile,Argentina
+155,160,1936,9705400,1,,Chile,Argentina
+155,160,1937,18427985,1,,Chile,Argentina
+155,160,1938,21748674,1,$ 6 D,Chile,Argentina
+155,160,1939,18157574,1,$ 6 D,Chile,Argentina
+155,160,1940,34176405,1,$ 6 D,Chile,Argentina
+155,160,1941,38810296,1,$ 6 D,Chile,Argentina
+155,160,1942,74964976,1,$ 6 D,Chile,Argentina
+155,160,1943,108935274,1,$ 6 D,Chile,Argentina
+155,160,1944,124036133,1,$ 6 D,Chile,Argentina
+155,160,1945,155275270,1,$ 6 D,Chile,Argentina
+155,160,1946,139097479,1,$ 6 D,Chile,Argentina
+155,160,1947,138320928,1,$ 6 D,Chile,Argentina
+155,160,1948,125214689,1,$ 6 D,Chile,Argentina
+155,160,1949,64718125,1,$ 6 D,Chile,Argentina
+155,165,1906,1649264,1,$ De 18 D,Chile,Uruguay
+155,165,1907,1591722,1,$ De 18 D,Chile,Uruguay
+155,165,1908,970148,1,$ De 18 D,Chile,Uruguay
+155,165,1909,1465291,1,$ De 18 D,Chile,Uruguay
+155,165,1910,955535,1,$ De 18 D,Chile,Uruguay
+155,165,1911,1452564,1,$ De 18 D,Chile,Uruguay
+155,165,1912,1521153,1,$ De 18 D,Chile,Uruguay
+155,165,1914,1446803,1,,Chile,Uruguay
+155,165,1915,799100,1,$ De 18D,Chile,Uruguay
+155,165,1916,476923,1,$ De 18D,Chile,Uruguay
+155,165,1917,602238,1,$ De 18D,Chile,Uruguay
+155,165,1918,596794,1,$ De 18D,Chile,Uruguay
+155,165,1919,1394973,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1920,5395701,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1921,1519836,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1922,2106825,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1923,1746831,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1924,1310901,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1925,3917760,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1926,1452855,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1927,509304,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1928,823624,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1929,526271,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1930,857009,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1931,552193,1,$ Oro De 6 D.,Chile,Uruguay
+155,165,1932,101028,1,$ Oro De 6D,Chile,Uruguay
+155,165,1933,21638,1,$ Oro De 6D,Chile,Uruguay
+155,165,1934,17622,1,$6 D Oro,Chile,Uruguay
+155,165,1935,23924,1,,Chile,Uruguay
+155,165,1936,326097,1,,Chile,Uruguay
+155,165,1937,186041,1,,Chile,Uruguay
+155,165,1938,1457132,1,$ 6 D,Chile,Uruguay
+155,165,1939,8293,1,$ 6 D,Chile,Uruguay
+155,165,1940,76025,1,$ 6 D,Chile,Uruguay
+155,165,1941,175853,1,$ 6 D,Chile,Uruguay
+155,165,1942,445330,1,$ 6 D,Chile,Uruguay
+155,165,1943,745919,1,$ 6 D,Chile,Uruguay
+155,165,1944,530700,1,$ 6 D,Chile,Uruguay
+155,165,1945,766720,1,$ 6 D,Chile,Uruguay
+155,165,1946,1858472,1,$ 6 D,Chile,Uruguay
+155,165,1947,592791,1,$ 6 D,Chile,Uruguay
+155,165,1948,121982,1,$ 6 D,Chile,Uruguay
+155,165,1949,110840,1,$ 6 D,Chile,Uruguay
+155,200,1906,88429133,1,$ De 18 D,Chile,United Kingdom
+155,200,1907,113502732,1,$ De 18 D,Chile,United Kingdom
+155,200,1908,83920023,1,$ De 18 D,Chile,United Kingdom
+155,200,1909,87340436,1,$ De 18 D,Chile,United Kingdom
+155,200,1910,94083762,1,$ De 18 D,Chile,United Kingdom
+155,200,1911,111767889,1,$ De 18 D,Chile,United Kingdom
+155,200,1912,105751459,1,$ De 18 D,Chile,United Kingdom
+155,200,1914,61120784,1,,Chile,United Kingdom
+155,200,1915,36407132,1,$ De 18D,Chile,United Kingdom
+155,200,1916,55026855,1,$ De 18D,Chile,United Kingdom
+155,200,1917,64563262,1,$ De 18D,Chile,United Kingdom
+155,200,1918,81445588,1,$ De 18D,Chile,United Kingdom
+155,200,1919,233615955,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1920,348498894,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1921,308313615,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1922,171058755,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1923,237000366,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1924,227462364,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1925,256218336,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1926,222490403,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1927,197479878,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1928,212477552,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1929,286041734,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1930,213731544,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1931,112574434,1,$ Oro De 6 D.,Chile,United Kingdom
+155,200,1932,27534839,1,$ Oro De 6D,Chile,United Kingdom
+155,200,1933,22063862,1,$ Oro De 6D,Chile,United Kingdom
+155,200,1934,56018236,1,$6 D Oro,Chile,United Kingdom
+155,200,1935,57363503,1,,Chile,United Kingdom
+155,200,1936,45506973,1,,Chile,United Kingdom
+155,200,1937,46741302,1,,Chile,United Kingdom
+155,200,1938,50570072,1,$ 6 D,Chile,United Kingdom
+155,200,1939,33883851,1,$ 6 D,Chile,United Kingdom
+155,200,1940,52629527,1,$ 6 D,Chile,United Kingdom
+155,200,1941,48220082,1,$ 6 D,Chile,United Kingdom
+155,200,1942,32370004,1,$ 6 D,Chile,United Kingdom
+155,200,1943,44589569,1,$ 6 D,Chile,United Kingdom
+155,200,1944,45696022,1,$ 6 D,Chile,United Kingdom
+155,200,1945,35021045,1,$ 6 D,Chile,United Kingdom
+155,200,1946,54139523,1,$ 6 D,Chile,United Kingdom
+155,200,1947,67884033,1,$ 6 D,Chile,United Kingdom
+155,200,1948,86500543,1,$ 6 D,Chile,United Kingdom
+155,200,1949,116818740,1,$ 6 D,Chile,United Kingdom
+155,202,1906,0,1,$ De 18 D,Chile,Scotland
+155,202,1907,0,1,$ De 18 D,Chile,Scotland
+155,202,1908,0,1,$ De 18 D,Chile,Scotland
+155,202,1909,0,1,$ De 18 D,Chile,Scotland
+155,202,1910,0,1,$ De 18 D,Chile,Scotland
+155,202,1911,26775,1,$ De 18 D,Chile,Scotland
+155,202,1912,48228,1,$ De 18 D,Chile,Scotland
+155,202,1914,69992,1,,Chile,Scotland
+155,202,1915,55066,1,$ De 18D,Chile,Scotland
+155,202,1916,0,1,$ De 18D,Chile,Scotland
+155,202,1917,0,1,$ De 18D,Chile,Scotland
+155,202,1918,0,1,$ De 18D,Chile,Scotland
+155,202,1919,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1920,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1921,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1922,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1923,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1924,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1925,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1926,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1927,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1928,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1929,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1930,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1931,0,1,$ Oro De 6 D.,Chile,Scotland
+155,202,1932,0,1,$ Oro De 6D,Chile,Scotland
+155,202,1933,0,1,$ Oro De 6D,Chile,Scotland
+155,202,1934,0,1,$6 D Oro,Chile,Scotland
+155,202,1935,0,1,,Chile,Scotland
+155,202,1936,0,1,,Chile,Scotland
+155,202,1937,0,1,,Chile,Scotland
+155,202,1938,0,1,$ 6 D,Chile,Scotland
+155,202,1939,0,1,$ 6 D,Chile,Scotland
+155,202,1940,0,1,$ 6 D,Chile,Scotland
+155,202,1941,0,1,$ 6 D,Chile,Scotland
+155,202,1942,0,1,$ 6 D,Chile,Scotland
+155,202,1943,0,1,$ 6 D,Chile,Scotland
+155,202,1944,0,1,$ 6 D,Chile,Scotland
+155,202,1945,0,1,$ 6 D,Chile,Scotland
+155,202,1946,0,1,$ 6 D,Chile,Scotland
+155,202,1947,0,1,$ 6 D,Chile,Scotland
+155,202,1948,0,1,$ 6 D,Chile,Scotland
+155,202,1949,0,1,$ 6 D,Chile,Scotland
+155,205,1906,0,1,$ De 18 D,Chile,Ireland
+155,205,1907,0,1,$ De 18 D,Chile,Ireland
+155,205,1908,0,1,$ De 18 D,Chile,Ireland
+155,205,1909,0,1,$ De 18 D,Chile,Ireland
+155,205,1910,0,1,$ De 18 D,Chile,Ireland
+155,205,1911,0,1,$ De 18 D,Chile,Ireland
+155,205,1912,0,1,$ De 18 D,Chile,Ireland
+155,205,1914,0,1,,Chile,Ireland
+155,205,1915,186,1,$ De 18D,Chile,Ireland
+155,205,1916,0,1,$ De 18D,Chile,Ireland
+155,205,1917,0,1,$ De 18D,Chile,Ireland
+155,205,1918,0,1,$ De 18D,Chile,Ireland
+155,205,1919,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1920,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1921,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1922,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1923,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1924,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1925,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1926,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1927,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1928,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1929,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1930,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1931,0,1,$ Oro De 6 D.,Chile,Ireland
+155,205,1932,0,1,$ Oro De 6D,Chile,Ireland
+155,205,1933,0,1,$ Oro De 6D,Chile,Ireland
+155,205,1934,0,1,$6 D Oro,Chile,Ireland
+155,205,1935,0,1,,Chile,Ireland
+155,205,1936,0,1,,Chile,Ireland
+155,205,1937,0,1,,Chile,Ireland
+155,205,1938,0,1,$ 6 D,Chile,Ireland
+155,205,1939,0,1,$ 6 D,Chile,Ireland
+155,205,1940,0,1,$ 6 D,Chile,Ireland
+155,205,1941,0,1,$ 6 D,Chile,Ireland
+155,205,1942,0,1,$ 6 D,Chile,Ireland
+155,205,1943,0,1,$ 6 D,Chile,Ireland
+155,205,1944,0,1,$ 6 D,Chile,Ireland
+155,205,1945,0,1,$ 6 D,Chile,Ireland
+155,205,1946,0,1,$ 6 D,Chile,Ireland
+155,205,1947,0,1,$ 6 D,Chile,Ireland
+155,205,1948,0,1,$ 6 D,Chile,Ireland
+155,205,1949,0,1,$ 6 D,Chile,Ireland
+155,210,1906,302141,1,$ De 18 D,Chile,Netherlands
+155,210,1907,236185,1,$ De 18 D,Chile,Netherlands
+155,210,1908,128768,1,$ De 18 D,Chile,Netherlands
+155,210,1909,149133,1,$ De 18 D,Chile,Netherlands
+155,210,1910,907405,1,$ De 18 D,Chile,Netherlands
+155,210,1911,274410,1,$ De 18 D,Chile,Netherlands
+155,210,1912,960230,1,$ De 18 D,Chile,Netherlands
+155,210,1914,549222,1,,Chile,Netherlands
+155,210,1915,444045,1,$ De 18D,Chile,Netherlands
+155,210,1916,962480,1,$ De 18D,Chile,Netherlands
+155,210,1917,318254,1,$ De 18D,Chile,Netherlands
+155,210,1918,702618,1,$ De 18D,Chile,Netherlands
+155,210,1919,543096,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1920,8278152,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1921,9768912,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1922,6351207,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1923,5071170,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1924,9295629,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1925,13225344,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1926,9961915,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1927,7582931,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1928,11610139,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1929,16251772,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1930,15485441,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1931,12326175,1,$ Oro De 6 D.,Chile,Netherlands
+155,210,1932,3909843,1,$ Oro De 6D,Chile,Netherlands
+155,210,1933,1705674,1,$ Oro De 6D,Chile,Netherlands
+155,210,1934,3163427,1,$6 D Oro,Chile,Netherlands
+155,210,1935,2504063,1,,Chile,Netherlands
+155,210,1936,2622295,1,,Chile,Netherlands
+155,210,1937,3051876,1,,Chile,Netherlands
+155,210,1938,3922389,1,$ 6 D,Chile,Netherlands
+155,210,1939,3929935,1,$ 6 D,Chile,Netherlands
+155,210,1940,2575288,1,$ 6 D,Chile,Netherlands
+155,210,1941,569997,1,$ 6 D,Chile,Netherlands
+155,210,1942,12477,1,$ 6 D,Chile,Netherlands
+155,210,1943,27222,1,$ 6 D,Chile,Netherlands
+155,210,1944,21475,1,$ 6 D,Chile,Netherlands
+155,210,1945,0,1,$ 6 D,Chile,Netherlands
+155,210,1946,815935,1,$ 6 D,Chile,Netherlands
+155,210,1947,3466608,1,$ 6 D,Chile,Netherlands
+155,210,1948,3726985,1,$ 6 D,Chile,Netherlands
+155,210,1949,5057718,1,$ 6 D,Chile,Netherlands
+155,211,1906,6505476,1,$ De 18 D,Chile,Belgium
+155,211,1907,10197301,1,$ De 18 D,Chile,Belgium
+155,211,1908,12757385,1,$ De 18 D,Chile,Belgium
+155,211,1909,7536213,1,$ De 18 D,Chile,Belgium
+155,211,1910,6753263,1,$ De 18 D,Chile,Belgium
+155,211,1911,10567088,1,$ De 18 D,Chile,Belgium
+155,211,1912,8555204,1,$ De 18 D,Chile,Belgium
+155,211,1914,11373623,1,,Chile,Belgium
+155,211,1915,1111273,1,$ De 18D,Chile,Belgium
+155,211,1916,182212,1,$ De 18D,Chile,Belgium
+155,211,1917,10876,1,$ De 18D,Chile,Belgium
+155,211,1918,9866,1,$ De 18D,Chile,Belgium
+155,211,1919,74349,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1920,20546598,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1921,31297209,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1922,22724739,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1923,57745752,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1924,108489441,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1925,75298527,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1926,66283128,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1927,75243463,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1928,63349324,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1929,76388033,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1930,55136647,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1931,19275565,1,$ Oro De 6 D.,Chile,Belgium
+155,211,1932,5201903,1,$ Oro De 6D,Chile,Belgium
+155,211,1933,4802094,1,$ Oro De 6D,Chile,Belgium
+155,211,1934,5287214,1,$6 D Oro,Chile,Belgium
+155,211,1935,4955082,1,,Chile,Belgium
+155,211,1936,7341727,1,,Chile,Belgium
+155,211,1937,8105920,1,,Chile,Belgium
+155,211,1938,7073553,1,$ 6 D,Chile,Belgium
+155,211,1939,6469848,1,$ 6 D,Chile,Belgium
+155,211,1940,5657914,1,$ 6 D,Chile,Belgium
+155,211,1941,465450,1,$ 6 D,Chile,Belgium
+155,211,1942,156169,1,$ 6 D,Chile,Belgium
+155,211,1943,10236,1,$ 6 D,Chile,Belgium
+155,211,1944,0,1,$ 6 D,Chile,Belgium
+155,211,1945,3125,1,$ 6 D,Chile,Belgium
+155,211,1946,1644126,1,$ 6 D,Chile,Belgium
+155,211,1947,9304087,1,$ 6 D,Chile,Belgium
+155,211,1948,16318302,1,$ 6 D,Chile,Belgium
+155,211,1949,26319260,1,$ 6 D,Chile,Belgium
+155,212,1906,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1907,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1908,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1909,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1910,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1911,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1912,0,1,$ De 18 D,Chile,Luxembourg
+155,212,1914,0,1,,Chile,Luxembourg
+155,212,1915,0,1,$ De 18D,Chile,Luxembourg
+155,212,1916,0,1,$ De 18D,Chile,Luxembourg
+155,212,1917,0,1,$ De 18D,Chile,Luxembourg
+155,212,1918,0,1,$ De 18D,Chile,Luxembourg
+155,212,1919,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1920,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1921,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1922,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1923,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1924,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1925,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1926,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1927,0,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1928,6,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1929,3554363,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1930,5669106,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1931,948018,1,$ Oro De 6 D.,Chile,Luxembourg
+155,212,1932,80547,1,$ Oro De 6D,Chile,Luxembourg
+155,212,1933,320351,1,$ Oro De 6D,Chile,Luxembourg
+155,212,1934,659667,1,$6 D Oro,Chile,Luxembourg
+155,212,1935,558208,1,,Chile,Luxembourg
+155,212,1936,575007,1,,Chile,Luxembourg
+155,212,1937,1228655,1,,Chile,Luxembourg
+155,212,1938,712730,1,$ 6 D,Chile,Luxembourg
+155,212,1939,619932,1,$ 6 D,Chile,Luxembourg
+155,212,1940,291879,1,$ 6 D,Chile,Luxembourg
+155,212,1941,0,1,$ 6 D,Chile,Luxembourg
+155,212,1942,551,1,$ 6 D,Chile,Luxembourg
+155,212,1943,0,1,$ 6 D,Chile,Luxembourg
+155,212,1944,0,1,$ 6 D,Chile,Luxembourg
+155,212,1945,0,1,$ 6 D,Chile,Luxembourg
+155,212,1946,783971,1,$ 6 D,Chile,Luxembourg
+155,212,1947,840158,1,$ 6 D,Chile,Luxembourg
+155,212,1948,1047987,1,$ 6 D,Chile,Luxembourg
+155,212,1949,1409322,1,$ 6 D,Chile,Luxembourg
+155,220,1906,15370099,1,$ De 18 D,Chile,France
+155,220,1907,16093564,1,$ De 18 D,Chile,France
+155,220,1908,11945367,1,$ De 18 D,Chile,France
+155,220,1909,15510964,1,$ De 18 D,Chile,France
+155,220,1910,19208025,1,$ De 18 D,Chile,France
+155,220,1911,18990996,1,$ De 18 D,Chile,France
+155,220,1912,19893317,1,$ De 18 D,Chile,France
+155,220,1914,11523582,1,,Chile,France
+155,220,1915,4658584,1,$ De 18D,Chile,France
+155,220,1916,9465353,1,$ De 18D,Chile,France
+155,220,1917,14115086,1,$ De 18D,Chile,France
+155,220,1918,13800859,1,$ De 18D,Chile,France
+155,220,1919,51592797,1,$ Oro De 6 D.,Chile,France
+155,220,1920,84818136,1,$ Oro De 6 D.,Chile,France
+155,220,1921,67023051,1,$ Oro De 6 D.,Chile,France
+155,220,1922,35614767,1,$ Oro De 6 D.,Chile,France
+155,220,1923,54202242,1,$ Oro De 6 D.,Chile,France
+155,220,1924,57258990,1,$ Oro De 6 D.,Chile,France
+155,220,1925,55036224,1,$ Oro De 6 D.,Chile,France
+155,220,1926,53876549,1,$ Oro De 6 D.,Chile,France
+155,220,1927,55158778,1,$ Oro De 6 D.,Chile,France
+155,220,1928,58038282,1,$ Oro De 6 D.,Chile,France
+155,220,1929,71003040,1,$ Oro De 6 D.,Chile,France
+155,220,1930,70265681,1,$ Oro De 6 D.,Chile,France
+155,220,1931,41698377,1,$ Oro De 6 D.,Chile,France
+155,220,1932,10055884,1,$ Oro De 6D,Chile,France
+155,220,1933,11307954,1,$ Oro De 6D,Chile,France
+155,220,1934,9113982,1,$6 D Oro,Chile,France
+155,220,1935,6795484,1,,Chile,France
+155,220,1936,6736755,1,,Chile,France
+155,220,1937,8005630,1,,Chile,France
+155,220,1938,9910811,1,$ 6 D,Chile,France
+155,220,1939,9354312,1,$ 6 D,Chile,France
+155,220,1940,5351375,1,$ 6 D,Chile,France
+155,220,1941,1116053,1,$ 6 D,Chile,France
+155,220,1942,79108,1,$ 6 D,Chile,France
+155,220,1943,40326,1,$ 6 D,Chile,France
+155,220,1944,25324,1,$ 6 D,Chile,France
+155,220,1945,216,1,$ 6 D,Chile,France
+155,220,1946,3433725,1,$ 6 D,Chile,France
+155,220,1947,12127164,1,$ 6 D,Chile,France
+155,220,1948,11961170,1,$ 6 D,Chile,France
+155,220,1949,27579590,1,$ 6 D,Chile,France
+155,225,1906,1270929,1,$ De 18 D,Chile,Switzerland
+155,225,1907,536907,1,$ De 18 D,Chile,Switzerland
+155,225,1908,371766,1,$ De 18 D,Chile,Switzerland
+155,225,1909,378970,1,$ De 18 D,Chile,Switzerland
+155,225,1910,550139,1,$ De 18 D,Chile,Switzerland
+155,225,1911,624025,1,$ De 18 D,Chile,Switzerland
+155,225,1912,540502,1,$ De 18 D,Chile,Switzerland
+155,225,1914,372413,1,,Chile,Switzerland
+155,225,1915,208941,1,$ De 18D,Chile,Switzerland
+155,225,1916,555803,1,$ De 18D,Chile,Switzerland
+155,225,1917,692509,1,$ De 18D,Chile,Switzerland
+155,225,1918,1026154,1,$ De 18D,Chile,Switzerland
+155,225,1919,4503321,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1920,6123738,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1921,4461324,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1922,2636415,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1923,4393389,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1924,6154653,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1925,6389481,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1926,8120648,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1927,7068228,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1928,7832326,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1929,8120538,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1930,10707283,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1931,4643974,1,$ Oro De 6 D.,Chile,Switzerland
+155,225,1932,1610492,1,$ Oro De 6D,Chile,Switzerland
+155,225,1933,923317,1,$ Oro De 6D,Chile,Switzerland
+155,225,1934,1559797,1,$6 D Oro,Chile,Switzerland
+155,225,1935,2061565,1,,Chile,Switzerland
+155,225,1936,2540916,1,,Chile,Switzerland
+155,225,1937,2332499,1,,Chile,Switzerland
+155,225,1938,2646763,1,$ 6 D,Chile,Switzerland
+155,225,1939,3029009,1,$ 6 D,Chile,Switzerland
+155,225,1940,4554505,1,$ 6 D,Chile,Switzerland
+155,225,1941,3544496,1,$ 6 D,Chile,Switzerland
+155,225,1942,5651191,1,$ 6 D,Chile,Switzerland
+155,225,1943,7094077,1,$ 6 D,Chile,Switzerland
+155,225,1944,5935937,1,$ 6 D,Chile,Switzerland
+155,225,1945,8035760,1,$ 6 D,Chile,Switzerland
+155,225,1946,15156770,1,$ 6 D,Chile,Switzerland
+155,225,1947,14010503,1,$ 6 D,Chile,Switzerland
+155,225,1948,15780451,1,$ 6 D,Chile,Switzerland
+155,225,1949,16461781,1,$ 6 D,Chile,Switzerland
+155,230,1906,1311931,1,$ De 18 D,Chile,Spain
+155,230,1907,2707171,1,$ De 18 D,Chile,Spain
+155,230,1908,2186279,1,$ De 18 D,Chile,Spain
+155,230,1909,2404026,1,$ De 18 D,Chile,Spain
+155,230,1910,3423835,1,$ De 18 D,Chile,Spain
+155,230,1911,3599758,1,$ De 18 D,Chile,Spain
+155,230,1912,3512705,1,$ De 18 D,Chile,Spain
+155,230,1914,2481326,1,,Chile,Spain
+155,230,1915,2021896,1,$ De 18D,Chile,Spain
+155,230,1916,5568474,1,$ De 18D,Chile,Spain
+155,230,1917,8907618,1,$ De 18D,Chile,Spain
+155,230,1918,12112024,1,$ De 18D,Chile,Spain
+155,230,1919,36889149,1,$ Oro De 6 D.,Chile,Spain
+155,230,1920,27562086,1,$ Oro De 6 D.,Chile,Spain
+155,230,1921,20762958,1,$ Oro De 6 D.,Chile,Spain
+155,230,1922,11461953,1,$ Oro De 6 D.,Chile,Spain
+155,230,1923,16075014,1,$ Oro De 6 D.,Chile,Spain
+155,230,1924,16483341,1,$ Oro De 6 D.,Chile,Spain
+155,230,1925,16463130,1,$ Oro De 6 D.,Chile,Spain
+155,230,1926,14801181,1,$ Oro De 6 D.,Chile,Spain
+155,230,1927,11980833,1,$ Oro De 6 D.,Chile,Spain
+155,230,1928,16455498,1,$ Oro De 6 D.,Chile,Spain
+155,230,1929,16630244,1,$ Oro De 6 D.,Chile,Spain
+155,230,1930,17148186,1,$ Oro De 6 D.,Chile,Spain
+155,230,1931,10206811,1,$ Oro De 6 D.,Chile,Spain
+155,230,1932,4516788,1,$ Oro De 6D,Chile,Spain
+155,230,1933,2427516,1,$ Oro De 6D,Chile,Spain
+155,230,1934,3818843,1,$6 D Oro,Chile,Spain
+155,230,1935,4990518,1,,Chile,Spain
+155,230,1936,3312761,1,,Chile,Spain
+155,230,1937,1343161,1,,Chile,Spain
+155,230,1938,1961637,1,$ 6 D,Chile,Spain
+155,230,1939,971860,1,$ 6 D,Chile,Spain
+155,230,1940,1621579,1,$ 6 D,Chile,Spain
+155,230,1941,2785687,1,$ 6 D,Chile,Spain
+155,230,1942,2088604,1,$ 6 D,Chile,Spain
+155,230,1943,1628661,1,$ 6 D,Chile,Spain
+155,230,1944,2839195,1,$ 6 D,Chile,Spain
+155,230,1945,4559316,1,$ 6 D,Chile,Spain
+155,230,1946,4278900,1,$ 6 D,Chile,Spain
+155,230,1947,27711429,1,$ 6 D,Chile,Spain
+155,230,1948,23437696,1,$ 6 D,Chile,Spain
+155,230,1949,23552654,1,$ 6 D,Chile,Spain
+155,235,1906,100024,1,$ De 18 D,Chile,Portugal
+155,235,1907,151445,1,$ De 18 D,Chile,Portugal
+155,235,1908,152512,1,$ De 18 D,Chile,Portugal
+155,235,1909,218714,1,$ De 18 D,Chile,Portugal
+155,235,1910,299696,1,$ De 18 D,Chile,Portugal
+155,235,1911,556155,1,$ De 18 D,Chile,Portugal
+155,235,1912,580564,1,$ De 18 D,Chile,Portugal
+155,235,1914,285944,1,,Chile,Portugal
+155,235,1915,139193,1,$ De 18D,Chile,Portugal
+155,235,1916,2564,1,$ De 18D,Chile,Portugal
+155,235,1917,94345,1,$ De 18D,Chile,Portugal
+155,235,1918,99172,1,$ De 18D,Chile,Portugal
+155,235,1919,382911,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1920,680766,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1921,389148,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1922,89433,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1923,63567,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1924,174141,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1925,187131,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1926,144476,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1927,307596,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1928,249933,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1929,111183,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1930,253564,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1931,145335,1,$ Oro De 6 D.,Chile,Portugal
+155,235,1932,67036,1,$ Oro De 6D,Chile,Portugal
+155,235,1933,16069,1,$ Oro De 6D,Chile,Portugal
+155,235,1934,34186,1,$6 D Oro,Chile,Portugal
+155,235,1935,132327,1,,Chile,Portugal
+155,235,1936,235874,1,,Chile,Portugal
+155,235,1937,721606,1,,Chile,Portugal
+155,235,1938,629808,1,$ 6 D,Chile,Portugal
+155,235,1939,623120,1,$ 6 D,Chile,Portugal
+155,235,1940,748751,1,$ 6 D,Chile,Portugal
+155,235,1941,644780,1,$ 6 D,Chile,Portugal
+155,235,1942,753598,1,$ 6 D,Chile,Portugal
+155,235,1943,1606942,1,$ 6 D,Chile,Portugal
+155,235,1944,2483017,1,$ 6 D,Chile,Portugal
+155,235,1945,1962932,1,$ 6 D,Chile,Portugal
+155,235,1946,1688338,1,$ 6 D,Chile,Portugal
+155,235,1947,1521118,1,$ 6 D,Chile,Portugal
+155,235,1948,535587,1,$ 6 D,Chile,Portugal
+155,235,1949,493655,1,$ 6 D,Chile,Portugal
+155,255,1906,58195923,1,$ De 18 D,Chile,Germany
+155,255,1907,74310374,1,$ De 18 D,Chile,Germany
+155,255,1908,75763197,1,$ De 18 D,Chile,Germany
+155,255,1909,62045650,1,$ De 18 D,Chile,Germany
+155,255,1910,72044029,1,$ De 18 D,Chile,Germany
+155,255,1911,89578552,1,$ De 18 D,Chile,Germany
+155,255,1912,90928960,1,$ De 18 D,Chile,Germany
+155,255,1914,70930879,1,,Chile,Germany
+155,255,1915,9818052,1,$ De 18D,Chile,Germany
+155,255,1916,1230498,1,$ De 18D,Chile,Germany
+155,255,1917,185007,1,$ De 18D,Chile,Germany
+155,255,1918,29502,1,$ De 18D,Chile,Germany
+155,255,1919,2099364,1,$ Oro De 6 D.,Chile,Germany
+155,255,1920,63223164,1,$ Oro De 6 D.,Chile,Germany
+155,255,1921,99102276,1,$ Oro De 6 D.,Chile,Germany
+155,255,1922,99282981,1,$ Oro De 6 D.,Chile,Germany
+155,255,1923,131979057,1,$ Oro De 6 D.,Chile,Germany
+155,255,1924,153660003,1,$ Oro De 6 D.,Chile,Germany
+155,255,1925,135586998,1,$ Oro De 6 D.,Chile,Germany
+155,255,1926,156889082,1,$ Oro De 6 D.,Chile,Germany
+155,255,1927,134931409,1,$ Oro De 6 D.,Chile,Germany
+155,255,1928,167189106,1,$ Oro De 6 D.,Chile,Germany
+155,255,1929,249948898,1,$ Oro De 6 D.,Chile,Germany
+155,255,1930,236614791,1,$ Oro De 6 D.,Chile,Germany
+155,255,1931,116656988,1,$ Oro De 6 D.,Chile,Germany
+155,255,1932,31540463,1,$ Oro De 6D,Chile,Germany
+155,255,1933,20675581,1,$ Oro De 6D,Chile,Germany
+155,255,1934,24599495,1,$6 D Oro,Chile,Germany
+155,255,1935,60853763,1,,Chile,Germany
+155,255,1936,99662419,1,,Chile,Germany
+155,255,1937,111665903,1,,Chile,Germany
+155,255,1938,128803564,1,$ 6 D,Chile,Germany
+155,255,1939,93358525,1,$ 6 D,Chile,Germany
+155,255,1940,17863359,1,$ 6 D,Chile,Germany
+155,255,1941,3922942,1,$ 6 D,Chile,Germany
+155,255,1942,1333059,1,$ 6 D,Chile,Germany
+155,255,1943,233310,1,$ 6 D,Chile,Germany
+155,255,1944,21436,1,$ 6 D,Chile,Germany
+155,255,1945,0,1,$ 6 D,Chile,Germany
+155,255,1946,325,1,$ 6 D,Chile,Germany
+155,255,1947,634018,1,$ 6 D,Chile,Germany
+155,255,1948,7534244,1,$ 6 D,Chile,Germany
+155,255,1949,4193935,1,$ 6 D,Chile,Germany
+155,256,1906,0,1,$ De 18 D,Chile,Saar
+155,256,1907,0,1,$ De 18 D,Chile,Saar
+155,256,1908,0,1,$ De 18 D,Chile,Saar
+155,256,1909,0,1,$ De 18 D,Chile,Saar
+155,256,1910,0,1,$ De 18 D,Chile,Saar
+155,256,1911,0,1,$ De 18 D,Chile,Saar
+155,256,1912,0,1,$ De 18 D,Chile,Saar
+155,256,1914,0,1,,Chile,Saar
+155,256,1915,0,1,$ De 18D,Chile,Saar
+155,256,1916,0,1,$ De 18D,Chile,Saar
+155,256,1917,0,1,$ De 18D,Chile,Saar
+155,256,1918,0,1,$ De 18D,Chile,Saar
+155,256,1919,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1920,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1921,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1922,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1923,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1924,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1925,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1926,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1927,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1928,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1929,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1930,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1931,0,1,$ Oro De 6 D.,Chile,Saar
+155,256,1932,0,1,$ Oro De 6D,Chile,Saar
+155,256,1933,0,1,$ Oro De 6D,Chile,Saar
+155,256,1934,58363,1,$6 D Oro,Chile,Saar
+155,256,1935,0,1,,Chile,Saar
+155,256,1936,0,1,,Chile,Saar
+155,256,1937,0,1,,Chile,Saar
+155,256,1938,0,1,$ 6 D,Chile,Saar
+155,256,1939,0,1,$ 6 D,Chile,Saar
+155,256,1940,0,1,$ 6 D,Chile,Saar
+155,256,1941,0,1,$ 6 D,Chile,Saar
+155,256,1942,0,1,$ 6 D,Chile,Saar
+155,256,1943,0,1,$ 6 D,Chile,Saar
+155,256,1944,0,1,$ 6 D,Chile,Saar
+155,256,1945,0,1,$ 6 D,Chile,Saar
+155,256,1946,0,1,$ 6 D,Chile,Saar
+155,256,1947,0,1,$ 6 D,Chile,Saar
+155,256,1948,0,1,$ 6 D,Chile,Saar
+155,256,1949,0,1,$ 6 D,Chile,Saar
+155,290,1906,0,1,$ De 18 D,Chile,Poland
+155,290,1907,0,1,$ De 18 D,Chile,Poland
+155,290,1908,0,1,$ De 18 D,Chile,Poland
+155,290,1909,0,1,$ De 18 D,Chile,Poland
+155,290,1910,0,1,$ De 18 D,Chile,Poland
+155,290,1911,0,1,$ De 18 D,Chile,Poland
+155,290,1912,0,1,$ De 18 D,Chile,Poland
+155,290,1914,0,1,,Chile,Poland
+155,290,1915,0,1,$ De 18D,Chile,Poland
+155,290,1916,0,1,$ De 18D,Chile,Poland
+155,290,1917,0,1,$ De 18D,Chile,Poland
+155,290,1918,0,1,$ De 18D,Chile,Poland
+155,290,1919,0,1,$ Oro De 6 D.,Chile,Poland
+155,290,1920,0,1,$ Oro De 6 D.,Chile,Poland
+155,290,1921,0,1,$ Oro De 6 D.,Chile,Poland
+155,290,1922,0,1,$ Oro De 6 D.,Chile,Poland
+155,290,1923,0,1,$ Oro De 6 D.,Chile,Poland
+155,290,1924,18270,1,$ Oro De 6 D.,Chile,Poland
+155,290,1925,106203,1,$ Oro De 6 D.,Chile,Poland
+155,290,1926,106765,1,$ Oro De 6 D.,Chile,Poland
+155,290,1927,877038,1,$ Oro De 6 D.,Chile,Poland
+155,290,1928,51284,1,$ Oro De 6 D.,Chile,Poland
+155,290,1929,195534,1,$ Oro De 6 D.,Chile,Poland
+155,290,1930,590758,1,$ Oro De 6 D.,Chile,Poland
+155,290,1931,1474877,1,$ Oro De 6 D.,Chile,Poland
+155,290,1932,75992,1,$ Oro De 6D,Chile,Poland
+155,290,1933,11051,1,$ Oro De 6D,Chile,Poland
+155,290,1934,144604,1,$6 D Oro,Chile,Poland
+155,290,1935,194245,1,,Chile,Poland
+155,290,1936,20182,1,,Chile,Poland
+155,290,1937,11015,1,,Chile,Poland
+155,290,1938,9814,1,$ 6 D,Chile,Poland
+155,290,1939,39937,1,$ 6 D,Chile,Poland
+155,290,1940,0,1,$ 6 D,Chile,Poland
+155,290,1941,0,1,$ 6 D,Chile,Poland
+155,290,1942,0,1,$ 6 D,Chile,Poland
+155,290,1943,0,1,$ 6 D,Chile,Poland
+155,290,1944,0,1,$ 6 D,Chile,Poland
+155,290,1945,0,1,$ 6 D,Chile,Poland
+155,290,1946,61131,1,$ 6 D,Chile,Poland
+155,290,1947,0,1,$ 6 D,Chile,Poland
+155,290,1948,0,1,$ 6 D,Chile,Poland
+155,290,1949,20694,1,$ 6 D,Chile,Poland
+155,300,1906,172205,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1907,481138,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1908,371518,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1909,313381,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1910,395554,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1911,483968,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1912,120554,1,$ De 18 D,Chile,Austria-Hungary
+155,300,1914,56402,1,,Chile,Austria-Hungary
+155,300,1915,21142,1,$ De 18D,Chile,Austria-Hungary
+155,300,1916,1326,1,$ De 18D,Chile,Austria-Hungary
+155,300,1917,6218,1,$ De 18D,Chile,Austria-Hungary
+155,300,1918,0,1,$ De 18D,Chile,Austria-Hungary
+155,300,1919,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1920,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1921,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1922,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1923,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1924,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1925,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1926,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1927,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1928,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1929,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1930,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1931,0,1,$ Oro De 6 D.,Chile,Austria-Hungary
+155,300,1932,0,1,$ Oro De 6D,Chile,Austria-Hungary
+155,300,1933,0,1,$ Oro De 6D,Chile,Austria-Hungary
+155,300,1934,0,1,$6 D Oro,Chile,Austria-Hungary
+155,300,1935,0,1,,Chile,Austria-Hungary
+155,300,1936,0,1,,Chile,Austria-Hungary
+155,300,1937,0,1,,Chile,Austria-Hungary
+155,300,1938,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1939,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1940,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1941,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1942,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1943,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1944,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1945,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1946,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1947,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1948,0,1,$ 6 D,Chile,Austria-Hungary
+155,300,1949,0,1,$ 6 D,Chile,Austria-Hungary
+155,305,1906,0,1,$ De 18 D,Chile,Austria
+155,305,1907,0,1,$ De 18 D,Chile,Austria
+155,305,1908,0,1,$ De 18 D,Chile,Austria
+155,305,1909,0,1,$ De 18 D,Chile,Austria
+155,305,1910,0,1,$ De 18 D,Chile,Austria
+155,305,1911,0,1,$ De 18 D,Chile,Austria
+155,305,1912,0,1,$ De 18 D,Chile,Austria
+155,305,1914,0,1,,Chile,Austria
+155,305,1915,0,1,$ De 18D,Chile,Austria
+155,305,1916,0,1,$ De 18D,Chile,Austria
+155,305,1917,0,1,$ De 18D,Chile,Austria
+155,305,1918,0,1,$ De 18D,Chile,Austria
+155,305,1919,0,1,$ Oro De 6 D.,Chile,Austria
+155,305,1920,24234,1,$ Oro De 6 D.,Chile,Austria
+155,305,1921,214800,1,$ Oro De 6 D.,Chile,Austria
+155,305,1922,102618,1,$ Oro De 6 D.,Chile,Austria
+155,305,1923,102387,1,$ Oro De 6 D.,Chile,Austria
+155,305,1924,605034,1,$ Oro De 6 D.,Chile,Austria
+155,305,1925,1143489,1,$ Oro De 6 D.,Chile,Austria
+155,305,1926,1563336,1,$ Oro De 6 D.,Chile,Austria
+155,305,1927,963640,1,$ Oro De 6 D.,Chile,Austria
+155,305,1928,1138663,1,$ Oro De 6 D.,Chile,Austria
+155,305,1929,936331,1,$ Oro De 6 D.,Chile,Austria
+155,305,1930,1560139,1,$ Oro De 6 D.,Chile,Austria
+155,305,1931,819982,1,$ Oro De 6 D.,Chile,Austria
+155,305,1932,278536,1,$ Oro De 6D,Chile,Austria
+155,305,1933,185375,1,$ Oro De 6D,Chile,Austria
+155,305,1934,176341,1,$6 D Oro,Chile,Austria
+155,305,1935,165048,1,,Chile,Austria
+155,305,1936,391964,1,,Chile,Austria
+155,305,1937,120740,1,,Chile,Austria
+155,305,1938,109370,1,$ 6 D,Chile,Austria
+155,305,1939,2005,1,$ 6 D,Chile,Austria
+155,305,1940,0,1,$ 6 D,Chile,Austria
+155,305,1941,0,1,$ 6 D,Chile,Austria
+155,305,1942,0,1,$ 6 D,Chile,Austria
+155,305,1943,0,1,$ 6 D,Chile,Austria
+155,305,1944,10323,1,$ 6 D,Chile,Austria
+155,305,1945,0,1,$ 6 D,Chile,Austria
+155,305,1946,0,1,$ 6 D,Chile,Austria
+155,305,1947,2745,1,$ 6 D,Chile,Austria
+155,305,1948,342460,1,$ 6 D,Chile,Austria
+155,305,1949,893676,1,$ 6 D,Chile,Austria
+155,310,1906,0,1,$ De 18 D,Chile,Hungary
+155,310,1907,0,1,$ De 18 D,Chile,Hungary
+155,310,1908,0,1,$ De 18 D,Chile,Hungary
+155,310,1909,0,1,$ De 18 D,Chile,Hungary
+155,310,1910,0,1,$ De 18 D,Chile,Hungary
+155,310,1911,0,1,$ De 18 D,Chile,Hungary
+155,310,1912,0,1,$ De 18 D,Chile,Hungary
+155,310,1914,0,1,,Chile,Hungary
+155,310,1915,0,1,$ De 18D,Chile,Hungary
+155,310,1916,0,1,$ De 18D,Chile,Hungary
+155,310,1917,0,1,$ De 18D,Chile,Hungary
+155,310,1918,0,1,$ De 18D,Chile,Hungary
+155,310,1919,0,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1920,0,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1921,0,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1922,1005,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1923,4200,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1924,1650,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1925,6732,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1926,61878,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1927,213341,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1928,197472,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1929,623686,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1930,328169,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1931,100597,1,$ Oro De 6 D.,Chile,Hungary
+155,310,1932,40494,1,$ Oro De 6D,Chile,Hungary
+155,310,1933,1757,1,$ Oro De 6D,Chile,Hungary
+155,310,1934,85118,1,$6 D Oro,Chile,Hungary
+155,310,1935,60677,1,,Chile,Hungary
+155,310,1936,1554,1,,Chile,Hungary
+155,310,1937,2640,1,,Chile,Hungary
+155,310,1938,6740,1,$ 6 D,Chile,Hungary
+155,310,1939,4382,1,$ 6 D,Chile,Hungary
+155,310,1940,4179,1,$ 6 D,Chile,Hungary
+155,310,1941,1942,1,$ 6 D,Chile,Hungary
+155,310,1942,40,1,$ 6 D,Chile,Hungary
+155,310,1943,0,1,$ 6 D,Chile,Hungary
+155,310,1944,0,1,$ 6 D,Chile,Hungary
+155,310,1945,0,1,$ 6 D,Chile,Hungary
+155,310,1946,100,1,$ 6 D,Chile,Hungary
+155,310,1947,68865,1,$ 6 D,Chile,Hungary
+155,310,1948,65878,1,$ 6 D,Chile,Hungary
+155,310,1949,202446,1,$ 6 D,Chile,Hungary
+155,315,1906,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1907,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1908,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1909,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1910,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1911,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1912,0,1,$ De 18 D,Chile,Czechoslovakia
+155,315,1914,0,1,,Chile,Czechoslovakia
+155,315,1915,0,1,$ De 18D,Chile,Czechoslovakia
+155,315,1916,0,1,$ De 18D,Chile,Czechoslovakia
+155,315,1917,0,1,$ De 18D,Chile,Czechoslovakia
+155,315,1918,0,1,$ De 18D,Chile,Czechoslovakia
+155,315,1919,0,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1920,0,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1921,0,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1922,11133,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1923,147765,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1924,471294,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1925,1120137,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1926,1225124,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1927,939707,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1928,689613,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1929,1817447,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1930,3031051,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1931,1825103,1,$ Oro De 6 D.,Chile,Czechoslovakia
+155,315,1932,306214,1,$ Oro De 6D,Chile,Czechoslovakia
+155,315,1933,158571,1,$ Oro De 6D,Chile,Czechoslovakia
+155,315,1934,787985,1,$6 D Oro,Chile,Czechoslovakia
+155,315,1935,591447,1,,Chile,Czechoslovakia
+155,315,1936,865388,1,,Chile,Czechoslovakia
+155,315,1937,1000237,1,,Chile,Czechoslovakia
+155,315,1938,1665704,1,$ 6 D,Chile,Czechoslovakia
+155,315,1939,415488,1,$ 6 D,Chile,Czechoslovakia
+155,315,1940,17183,1,$ 6 D,Chile,Czechoslovakia
+155,315,1941,9863,1,$ 6 D,Chile,Czechoslovakia
+155,315,1942,0,1,$ 6 D,Chile,Czechoslovakia
+155,315,1943,1550,1,$ 6 D,Chile,Czechoslovakia
+155,315,1944,0,1,$ 6 D,Chile,Czechoslovakia
+155,315,1945,0,1,$ 6 D,Chile,Czechoslovakia
+155,315,1946,6718,1,$ 6 D,Chile,Czechoslovakia
+155,315,1947,444091,1,$ 6 D,Chile,Czechoslovakia
+155,315,1948,1197882,1,$ 6 D,Chile,Czechoslovakia
+155,315,1949,530378,1,$ 6 D,Chile,Czechoslovakia
+155,325,1906,5866640,1,$ De 18 D,Chile,Italy
+155,325,1907,8231834,1,$ De 18 D,Chile,Italy
+155,325,1908,6052025,1,$ De 18 D,Chile,Italy
+155,325,1909,7205239,1,$ De 18 D,Chile,Italy
+155,325,1910,8843432,1,$ De 18 D,Chile,Italy
+155,325,1911,8681239,1,$ De 18 D,Chile,Italy
+155,325,1912,8246082,1,$ De 18 D,Chile,Italy
+155,325,1914,5415104,1,,Chile,Italy
+155,325,1915,4747645,1,$ De 18D,Chile,Italy
+155,325,1916,4788764,1,$ De 18D,Chile,Italy
+155,325,1917,4526365,1,$ De 18D,Chile,Italy
+155,325,1918,3566844,1,$ De 18D,Chile,Italy
+155,325,1919,10728999,1,$ Oro De 6 D.,Chile,Italy
+155,325,1920,16940733,1,$ Oro De 6 D.,Chile,Italy
+155,325,1921,21276660,1,$ Oro De 6 D.,Chile,Italy
+155,325,1922,14349291,1,$ Oro De 6 D.,Chile,Italy
+155,325,1923,27906648,1,$ Oro De 6 D.,Chile,Italy
+155,325,1924,44511837,1,$ Oro De 6 D.,Chile,Italy
+155,325,1925,57826341,1,$ Oro De 6 D.,Chile,Italy
+155,325,1926,45556212,1,$ Oro De 6 D.,Chile,Italy
+155,325,1927,37494505,1,$ Oro De 6 D.,Chile,Italy
+155,325,1928,39627079,1,$ Oro De 6 D.,Chile,Italy
+155,325,1929,52593472,1,$ Oro De 6 D.,Chile,Italy
+155,325,1930,45697528,1,$ Oro De 6 D.,Chile,Italy
+155,325,1931,20317991,1,$ Oro De 6 D.,Chile,Italy
+155,325,1932,7266092,1,$ Oro De 6D,Chile,Italy
+155,325,1933,4310375,1,$ Oro De 6D,Chile,Italy
+155,325,1934,4837081,1,$6 D Oro,Chile,Italy
+155,325,1935,4336854,1,,Chile,Italy
+155,325,1936,5358313,1,,Chile,Italy
+155,325,1937,8189403,1,,Chile,Italy
+155,325,1938,13362039,1,$ 6 D,Chile,Italy
+155,325,1939,15970682,1,$ 6 D,Chile,Italy
+155,325,1940,20154950,1,$ 6 D,Chile,Italy
+155,325,1941,1271617,1,$ 6 D,Chile,Italy
+155,325,1942,119120,1,$ 6 D,Chile,Italy
+155,325,1943,32478,1,$ 6 D,Chile,Italy
+155,325,1944,1725,1,$ 6 D,Chile,Italy
+155,325,1945,1310,1,$ 6 D,Chile,Italy
+155,325,1946,4830663,1,$ 6 D,Chile,Italy
+155,325,1947,26476327,1,$ 6 D,Chile,Italy
+155,325,1948,22717718,1,$ 6 D,Chile,Italy
+155,325,1949,21728190,1,$ 6 D,Chile,Italy
+155,338,1906,0,1,$ De 18 D,Chile,Malta
+155,338,1907,0,1,$ De 18 D,Chile,Malta
+155,338,1908,0,1,$ De 18 D,Chile,Malta
+155,338,1909,0,1,$ De 18 D,Chile,Malta
+155,338,1910,0,1,$ De 18 D,Chile,Malta
+155,338,1911,0,1,$ De 18 D,Chile,Malta
+155,338,1912,0,1,$ De 18 D,Chile,Malta
+155,338,1914,0,1,,Chile,Malta
+155,338,1915,0,1,$ De 18D,Chile,Malta
+155,338,1916,0,1,$ De 18D,Chile,Malta
+155,338,1917,0,1,$ De 18D,Chile,Malta
+155,338,1918,0,1,$ De 18D,Chile,Malta
+155,338,1919,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1920,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1921,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1922,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1923,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1924,0,1,$ Oro De 6 D.,Chile,Malta
+155,338,1925,6477,1,$ Oro De 6 D.,Chile,Malta
+155,338,1926,13630,1,$ Oro De 6 D.,Chile,Malta
+155,338,1927,870,1,$ Oro De 6 D.,Chile,Malta
+155,338,1928,72583,1,$ Oro De 6 D.,Chile,Malta
+155,338,1929,11700,1,$ Oro De 6 D.,Chile,Malta
+155,338,1930,81574,1,$ Oro De 6 D.,Chile,Malta
+155,338,1931,23568,1,$ Oro De 6 D.,Chile,Malta
+155,338,1932,10270,1,$ Oro De 6D,Chile,Malta
+155,338,1933,0,1,$ Oro De 6D,Chile,Malta
+155,338,1934,32950,1,$6 D Oro,Chile,Malta
+155,338,1935,79246,1,,Chile,Malta
+155,338,1936,32269,1,,Chile,Malta
+155,338,1937,48533,1,,Chile,Malta
+155,338,1938,25064,1,$ 6 D,Chile,Malta
+155,338,1939,61220,1,$ 6 D,Chile,Malta
+155,338,1940,7747,1,$ 6 D,Chile,Malta
+155,338,1941,398,1,$ 6 D,Chile,Malta
+155,338,1942,0,1,$ 6 D,Chile,Malta
+155,338,1943,0,1,$ 6 D,Chile,Malta
+155,338,1944,0,1,$ 6 D,Chile,Malta
+155,338,1945,5700,1,$ 6 D,Chile,Malta
+155,338,1946,0,1,$ 6 D,Chile,Malta
+155,338,1947,0,1,$ 6 D,Chile,Malta
+155,338,1948,0,1,$ 6 D,Chile,Malta
+155,338,1949,0,1,$ 6 D,Chile,Malta
+155,339,1906,0,1,$ De 18 D,Chile,Albania
+155,339,1907,0,1,$ De 18 D,Chile,Albania
+155,339,1908,0,1,$ De 18 D,Chile,Albania
+155,339,1909,0,1,$ De 18 D,Chile,Albania
+155,339,1910,0,1,$ De 18 D,Chile,Albania
+155,339,1911,0,1,$ De 18 D,Chile,Albania
+155,339,1912,0,1,$ De 18 D,Chile,Albania
+155,339,1914,0,1,,Chile,Albania
+155,339,1915,0,1,$ De 18D,Chile,Albania
+155,339,1916,0,1,$ De 18D,Chile,Albania
+155,339,1917,0,1,$ De 18D,Chile,Albania
+155,339,1918,0,1,$ De 18D,Chile,Albania
+155,339,1919,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1920,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1921,45,1,$ Oro De 6 D.,Chile,Albania
+155,339,1922,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1923,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1924,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1925,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1926,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1927,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1928,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1929,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1930,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1931,0,1,$ Oro De 6 D.,Chile,Albania
+155,339,1932,120,1,$ Oro De 6D,Chile,Albania
+155,339,1933,55,1,$ Oro De 6D,Chile,Albania
+155,339,1934,0,1,$6 D Oro,Chile,Albania
+155,339,1935,180,1,,Chile,Albania
+155,339,1936,0,1,,Chile,Albania
+155,339,1937,0,1,,Chile,Albania
+155,339,1938,0,1,$ 6 D,Chile,Albania
+155,339,1939,0,1,$ 6 D,Chile,Albania
+155,339,1940,0,1,$ 6 D,Chile,Albania
+155,339,1941,0,1,$ 6 D,Chile,Albania
+155,339,1942,0,1,$ 6 D,Chile,Albania
+155,339,1943,0,1,$ 6 D,Chile,Albania
+155,339,1944,0,1,$ 6 D,Chile,Albania
+155,339,1945,0,1,$ 6 D,Chile,Albania
+155,339,1946,0,1,$ 6 D,Chile,Albania
+155,339,1947,0,1,$ 6 D,Chile,Albania
+155,339,1948,0,1,$ 6 D,Chile,Albania
+155,339,1949,0,1,$ 6 D,Chile,Albania
+155,345,1906,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1907,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1908,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1909,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1910,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1911,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1912,0,1,$ De 18 D,Chile,Yugoslavia
+155,345,1914,0,1,,Chile,Yugoslavia
+155,345,1915,0,1,$ De 18D,Chile,Yugoslavia
+155,345,1916,0,1,$ De 18D,Chile,Yugoslavia
+155,345,1917,0,1,$ De 18D,Chile,Yugoslavia
+155,345,1918,0,1,$ De 18D,Chile,Yugoslavia
+155,345,1919,0,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1920,0,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1921,0,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1922,4824,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1923,36006,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1924,168444,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1925,327957,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1926,973593,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1927,872564,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1928,1685979,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1929,2985377,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1930,793763,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1931,34959,1,$ Oro De 6 D.,Chile,Yugoslavia
+155,345,1932,3108,1,$ Oro De 6D,Chile,Yugoslavia
+155,345,1933,2112,1,$ Oro De 6D,Chile,Yugoslavia
+155,345,1934,472,1,$6 D Oro,Chile,Yugoslavia
+155,345,1935,5875,1,,Chile,Yugoslavia
+155,345,1936,58167,1,,Chile,Yugoslavia
+155,345,1937,2344,1,,Chile,Yugoslavia
+155,345,1938,4401,1,$ 6 D,Chile,Yugoslavia
+155,345,1939,35640,1,$ 6 D,Chile,Yugoslavia
+155,345,1940,2960,1,$ 6 D,Chile,Yugoslavia
+155,345,1941,25,1,$ 6 D,Chile,Yugoslavia
+155,345,1942,0,1,$ 6 D,Chile,Yugoslavia
+155,345,1943,0,1,$ 6 D,Chile,Yugoslavia
+155,345,1944,0,1,$ 6 D,Chile,Yugoslavia
+155,345,1945,0,1,$ 6 D,Chile,Yugoslavia
+155,345,1946,50,1,$ 6 D,Chile,Yugoslavia
+155,345,1947,630,1,$ 6 D,Chile,Yugoslavia
+155,345,1948,201,1,$ 6 D,Chile,Yugoslavia
+155,345,1949,619,1,$ 6 D,Chile,Yugoslavia
+155,350,1906,870,1,$ De 18 D,Chile,Greece
+155,350,1907,3620,1,$ De 18 D,Chile,Greece
+155,350,1908,2883,1,$ De 18 D,Chile,Greece
+155,350,1909,2794,1,$ De 18 D,Chile,Greece
+155,350,1910,2262,1,$ De 18 D,Chile,Greece
+155,350,1911,212,1,$ De 18 D,Chile,Greece
+155,350,1912,120,1,$ De 18 D,Chile,Greece
+155,350,1914,18773,1,,Chile,Greece
+155,350,1915,0,1,$ De 18D,Chile,Greece
+155,350,1916,0,1,$ De 18D,Chile,Greece
+155,350,1917,0,1,$ De 18D,Chile,Greece
+155,350,1918,0,1,$ De 18D,Chile,Greece
+155,350,1919,37989,1,$ Oro De 6 D.,Chile,Greece
+155,350,1920,697479,1,$ Oro De 6 D.,Chile,Greece
+155,350,1921,8502,1,$ Oro De 6 D.,Chile,Greece
+155,350,1922,7398,1,$ Oro De 6 D.,Chile,Greece
+155,350,1923,6684,1,$ Oro De 6 D.,Chile,Greece
+155,350,1924,4347,1,$ Oro De 6 D.,Chile,Greece
+155,350,1925,4149,1,$ Oro De 6 D.,Chile,Greece
+155,350,1926,0,1,$ Oro De 6 D.,Chile,Greece
+155,350,1927,1450,1,$ Oro De 6 D.,Chile,Greece
+155,350,1928,5286,1,$ Oro De 6 D.,Chile,Greece
+155,350,1929,72634,1,$ Oro De 6 D.,Chile,Greece
+155,350,1930,77839,1,$ Oro De 6 D.,Chile,Greece
+155,350,1931,15885,1,$ Oro De 6 D.,Chile,Greece
+155,350,1932,7830,1,$ Oro De 6D,Chile,Greece
+155,350,1933,12361,1,$ Oro De 6D,Chile,Greece
+155,350,1934,4990,1,$6 D Oro,Chile,Greece
+155,350,1935,710,1,,Chile,Greece
+155,350,1936,4217,1,,Chile,Greece
+155,350,1937,178,1,,Chile,Greece
+155,350,1938,5040,1,$ 6 D,Chile,Greece
+155,350,1939,1390,1,$ 6 D,Chile,Greece
+155,350,1940,60376,1,$ 6 D,Chile,Greece
+155,350,1941,6631,1,$ 6 D,Chile,Greece
+155,350,1942,0,1,$ 6 D,Chile,Greece
+155,350,1943,0,1,$ 6 D,Chile,Greece
+155,350,1944,0,1,$ 6 D,Chile,Greece
+155,350,1945,0,1,$ 6 D,Chile,Greece
+155,350,1946,82,1,$ 6 D,Chile,Greece
+155,350,1947,1468,1,$ 6 D,Chile,Greece
+155,350,1948,220,1,$ 6 D,Chile,Greece
+155,350,1949,108,1,$ 6 D,Chile,Greece
+155,355,1906,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1907,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1908,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1909,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1910,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1911,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1912,0,1,$ De 18 D,Chile,Bulgaria
+155,355,1914,0,1,,Chile,Bulgaria
+155,355,1915,0,1,$ De 18D,Chile,Bulgaria
+155,355,1916,0,1,$ De 18D,Chile,Bulgaria
+155,355,1917,0,1,$ De 18D,Chile,Bulgaria
+155,355,1918,0,1,$ De 18D,Chile,Bulgaria
+155,355,1919,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1920,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1921,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1922,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1923,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1924,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1925,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1926,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1927,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1928,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1929,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1930,0,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1931,300,1,$ Oro De 6 D.,Chile,Bulgaria
+155,355,1932,50,1,$ Oro De 6D,Chile,Bulgaria
+155,355,1933,21120,1,$ Oro De 6D,Chile,Bulgaria
+155,355,1934,0,1,$6 D Oro,Chile,Bulgaria
+155,355,1935,1500,1,,Chile,Bulgaria
+155,355,1936,0,1,,Chile,Bulgaria
+155,355,1937,0,1,,Chile,Bulgaria
+155,355,1938,0,1,$ 6 D,Chile,Bulgaria
+155,355,1939,0,1,$ 6 D,Chile,Bulgaria
+155,355,1940,0,1,$ 6 D,Chile,Bulgaria
+155,355,1941,0,1,$ 6 D,Chile,Bulgaria
+155,355,1942,0,1,$ 6 D,Chile,Bulgaria
+155,355,1943,0,1,$ 6 D,Chile,Bulgaria
+155,355,1944,0,1,$ 6 D,Chile,Bulgaria
+155,355,1945,0,1,$ 6 D,Chile,Bulgaria
+155,355,1946,0,1,$ 6 D,Chile,Bulgaria
+155,355,1947,0,1,$ 6 D,Chile,Bulgaria
+155,355,1948,0,1,$ 6 D,Chile,Bulgaria
+155,355,1949,0,1,$ 6 D,Chile,Bulgaria
+155,360,1906,0,1,$ De 18 D,Chile,Romania
+155,360,1907,0,1,$ De 18 D,Chile,Romania
+155,360,1908,0,1,$ De 18 D,Chile,Romania
+155,360,1909,0,1,$ De 18 D,Chile,Romania
+155,360,1910,0,1,$ De 18 D,Chile,Romania
+155,360,1911,0,1,$ De 18 D,Chile,Romania
+155,360,1912,0,1,$ De 18 D,Chile,Romania
+155,360,1914,0,1,,Chile,Romania
+155,360,1915,0,1,$ De 18D,Chile,Romania
+155,360,1916,0,1,$ De 18D,Chile,Romania
+155,360,1917,0,1,$ De 18D,Chile,Romania
+155,360,1918,0,1,$ De 18D,Chile,Romania
+155,360,1919,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1920,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1921,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1922,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1923,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1924,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1925,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1926,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1927,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1928,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1929,0,1,$ Oro De 6 D.,Chile,Romania
+155,360,1930,22543,1,$ Oro De 6 D.,Chile,Romania
+155,360,1931,35,1,$ Oro De 6 D.,Chile,Romania
+155,360,1932,0,1,$ Oro De 6D,Chile,Romania
+155,360,1933,23508,1,$ Oro De 6D,Chile,Romania
+155,360,1934,1170,1,$6 D Oro,Chile,Romania
+155,360,1935,5,1,,Chile,Romania
+155,360,1936,14968,1,,Chile,Romania
+155,360,1937,5496,1,,Chile,Romania
+155,360,1938,500,1,$ 6 D,Chile,Romania
+155,360,1939,990,1,$ 6 D,Chile,Romania
+155,360,1940,378,1,$ 6 D,Chile,Romania
+155,360,1941,0,1,$ 6 D,Chile,Romania
+155,360,1942,2050,1,$ 6 D,Chile,Romania
+155,360,1943,0,1,$ 6 D,Chile,Romania
+155,360,1944,0,1,$ 6 D,Chile,Romania
+155,360,1945,0,1,$ 6 D,Chile,Romania
+155,360,1946,0,1,$ 6 D,Chile,Romania
+155,360,1947,9968,1,$ 6 D,Chile,Romania
+155,360,1948,15,1,$ 6 D,Chile,Romania
+155,360,1949,0,1,$ 6 D,Chile,Romania
+155,365,1906,0,1,$ De 18 D,Chile,Russia
+155,365,1907,0,1,$ De 18 D,Chile,Russia
+155,365,1908,0,1,$ De 18 D,Chile,Russia
+155,365,1909,95,1,$ De 18 D,Chile,Russia
+155,365,1910,20183,1,$ De 18 D,Chile,Russia
+155,365,1911,1161,1,$ De 18 D,Chile,Russia
+155,365,1912,318,1,$ De 18 D,Chile,Russia
+155,365,1914,231,1,,Chile,Russia
+155,365,1915,123,1,$ De 18D,Chile,Russia
+155,365,1916,4211,1,$ De 18D,Chile,Russia
+155,365,1917,388,1,$ De 18D,Chile,Russia
+155,365,1918,210,1,$ De 18D,Chile,Russia
+155,365,1919,0,1,$ Oro De 6 D.,Chile,Russia
+155,365,1920,0,1,$ Oro De 6 D.,Chile,Russia
+155,365,1921,0,1,$ Oro De 6 D.,Chile,Russia
+155,365,1922,0,1,$ Oro De 6 D.,Chile,Russia
+155,365,1923,2340,1,$ Oro De 6 D.,Chile,Russia
+155,365,1924,600,1,$ Oro De 6 D.,Chile,Russia
+155,365,1925,1437,1,$ Oro De 6 D.,Chile,Russia
+155,365,1926,0,1,$ Oro De 6 D.,Chile,Russia
+155,365,1927,8800,1,$ Oro De 6 D.,Chile,Russia
+155,365,1928,21383,1,$ Oro De 6 D.,Chile,Russia
+155,365,1929,245033,1,$ Oro De 6 D.,Chile,Russia
+155,365,1930,45852,1,$ Oro De 6 D.,Chile,Russia
+155,365,1931,32597,1,$ Oro De 6 D.,Chile,Russia
+155,365,1932,8430,1,$ Oro De 6D,Chile,Russia
+155,365,1933,10,1,$ Oro De 6D,Chile,Russia
+155,365,1934,20,1,$6 D Oro,Chile,Russia
+155,365,1935,94756,1,,Chile,Russia
+155,365,1936,63797,1,,Chile,Russia
+155,365,1937,20,1,,Chile,Russia
+155,365,1938,150,1,$ 6 D,Chile,Russia
+155,365,1939,90,1,$ 6 D,Chile,Russia
+155,365,1940,655,1,$ 6 D,Chile,Russia
+155,365,1941,14778,1,$ 6 D,Chile,Russia
+155,365,1942,2990,1,$ 6 D,Chile,Russia
+155,365,1943,230,1,$ 6 D,Chile,Russia
+155,365,1944,743,1,$ 6 D,Chile,Russia
+155,365,1945,285,1,$ 6 D,Chile,Russia
+155,365,1946,22743,1,$ 6 D,Chile,Russia
+155,365,1947,46093,1,$ 6 D,Chile,Russia
+155,365,1948,591316,1,$ 6 D,Chile,Russia
+155,365,1949,5226,1,$ 6 D,Chile,Russia
+155,366,1906,0,1,$ De 18 D,Chile,Estonia
+155,366,1907,0,1,$ De 18 D,Chile,Estonia
+155,366,1908,0,1,$ De 18 D,Chile,Estonia
+155,366,1909,0,1,$ De 18 D,Chile,Estonia
+155,366,1910,0,1,$ De 18 D,Chile,Estonia
+155,366,1911,0,1,$ De 18 D,Chile,Estonia
+155,366,1912,0,1,$ De 18 D,Chile,Estonia
+155,366,1914,0,1,,Chile,Estonia
+155,366,1915,0,1,$ De 18D,Chile,Estonia
+155,366,1916,0,1,$ De 18D,Chile,Estonia
+155,366,1917,0,1,$ De 18D,Chile,Estonia
+155,366,1918,0,1,$ De 18D,Chile,Estonia
+155,366,1919,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1920,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1921,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1922,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1923,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1924,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1925,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1926,0,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1927,14367,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1928,80,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1929,26880,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1930,38194,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1931,5536,1,$ Oro De 6 D.,Chile,Estonia
+155,366,1932,0,1,$ Oro De 6D,Chile,Estonia
+155,366,1933,0,1,$ Oro De 6D,Chile,Estonia
+155,366,1934,0,1,$6 D Oro,Chile,Estonia
+155,366,1935,12,1,,Chile,Estonia
+155,366,1936,60,1,,Chile,Estonia
+155,366,1937,75,1,,Chile,Estonia
+155,366,1938,0,1,$ 6 D,Chile,Estonia
+155,366,1939,0,1,$ 6 D,Chile,Estonia
+155,366,1940,7748,1,$ 6 D,Chile,Estonia
+155,366,1941,0,1,$ 6 D,Chile,Estonia
+155,366,1942,0,1,$ 6 D,Chile,Estonia
+155,366,1943,0,1,$ 6 D,Chile,Estonia
+155,366,1944,0,1,$ 6 D,Chile,Estonia
+155,366,1945,0,1,$ 6 D,Chile,Estonia
+155,366,1946,0,1,$ 6 D,Chile,Estonia
+155,366,1947,0,1,$ 6 D,Chile,Estonia
+155,366,1948,0,1,$ 6 D,Chile,Estonia
+155,366,1949,0,1,$ 6 D,Chile,Estonia
+155,367,1906,0,1,$ De 18 D,Chile,Latvia
+155,367,1907,0,1,$ De 18 D,Chile,Latvia
+155,367,1908,0,1,$ De 18 D,Chile,Latvia
+155,367,1909,0,1,$ De 18 D,Chile,Latvia
+155,367,1910,0,1,$ De 18 D,Chile,Latvia
+155,367,1911,0,1,$ De 18 D,Chile,Latvia
+155,367,1912,0,1,$ De 18 D,Chile,Latvia
+155,367,1914,0,1,,Chile,Latvia
+155,367,1915,0,1,$ De 18D,Chile,Latvia
+155,367,1916,0,1,$ De 18D,Chile,Latvia
+155,367,1917,0,1,$ De 18D,Chile,Latvia
+155,367,1918,0,1,$ De 18D,Chile,Latvia
+155,367,1919,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1920,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1921,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1922,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1923,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1924,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1925,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1926,0,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1927,7617,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1928,139,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1929,37036,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1930,67331,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1931,4480,1,$ Oro De 6 D.,Chile,Latvia
+155,367,1932,6462,1,$ Oro De 6D,Chile,Latvia
+155,367,1933,15,1,$ Oro De 6D,Chile,Latvia
+155,367,1934,18135,1,$6 D Oro,Chile,Latvia
+155,367,1935,370,1,,Chile,Latvia
+155,367,1936,20,1,,Chile,Latvia
+155,367,1937,55855,1,,Chile,Latvia
+155,367,1938,30,1,$ 6 D,Chile,Latvia
+155,367,1939,20,1,$ 6 D,Chile,Latvia
+155,367,1940,30,1,$ 6 D,Chile,Latvia
+155,367,1941,0,1,$ 6 D,Chile,Latvia
+155,367,1942,0,1,$ 6 D,Chile,Latvia
+155,367,1943,0,1,$ 6 D,Chile,Latvia
+155,367,1944,0,1,$ 6 D,Chile,Latvia
+155,367,1945,0,1,$ 6 D,Chile,Latvia
+155,367,1946,0,1,$ 6 D,Chile,Latvia
+155,367,1947,0,1,$ 6 D,Chile,Latvia
+155,367,1948,0,1,$ 6 D,Chile,Latvia
+155,367,1949,0,1,$ 6 D,Chile,Latvia
+155,368,1906,0,1,$ De 18 D,Chile,Lithuania
+155,368,1907,0,1,$ De 18 D,Chile,Lithuania
+155,368,1908,0,1,$ De 18 D,Chile,Lithuania
+155,368,1909,0,1,$ De 18 D,Chile,Lithuania
+155,368,1910,0,1,$ De 18 D,Chile,Lithuania
+155,368,1911,0,1,$ De 18 D,Chile,Lithuania
+155,368,1912,0,1,$ De 18 D,Chile,Lithuania
+155,368,1914,0,1,,Chile,Lithuania
+155,368,1915,0,1,$ De 18D,Chile,Lithuania
+155,368,1916,0,1,$ De 18D,Chile,Lithuania
+155,368,1917,0,1,$ De 18D,Chile,Lithuania
+155,368,1918,0,1,$ De 18D,Chile,Lithuania
+155,368,1919,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1920,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1921,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1922,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1923,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1924,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1925,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1926,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1927,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1928,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1929,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1930,68703,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1931,0,1,$ Oro De 6 D.,Chile,Lithuania
+155,368,1932,0,1,$ Oro De 6D,Chile,Lithuania
+155,368,1933,0,1,$ Oro De 6D,Chile,Lithuania
+155,368,1934,20,1,$6 D Oro,Chile,Lithuania
+155,368,1935,35,1,,Chile,Lithuania
+155,368,1936,0,1,,Chile,Lithuania
+155,368,1937,15,1,,Chile,Lithuania
+155,368,1938,0,1,$ 6 D,Chile,Lithuania
+155,368,1939,0,1,$ 6 D,Chile,Lithuania
+155,368,1940,0,1,$ 6 D,Chile,Lithuania
+155,368,1941,0,1,$ 6 D,Chile,Lithuania
+155,368,1942,0,1,$ 6 D,Chile,Lithuania
+155,368,1943,0,1,$ 6 D,Chile,Lithuania
+155,368,1944,0,1,$ 6 D,Chile,Lithuania
+155,368,1945,0,1,$ 6 D,Chile,Lithuania
+155,368,1946,0,1,$ 6 D,Chile,Lithuania
+155,368,1947,0,1,$ 6 D,Chile,Lithuania
+155,368,1948,0,1,$ 6 D,Chile,Lithuania
+155,368,1949,0,1,$ 6 D,Chile,Lithuania
+155,375,1906,0,1,$ De 18 D,Chile,Finland
+155,375,1907,0,1,$ De 18 D,Chile,Finland
+155,375,1908,0,1,$ De 18 D,Chile,Finland
+155,375,1909,0,1,$ De 18 D,Chile,Finland
+155,375,1910,0,1,$ De 18 D,Chile,Finland
+155,375,1911,0,1,$ De 18 D,Chile,Finland
+155,375,1912,0,1,$ De 18 D,Chile,Finland
+155,375,1914,0,1,,Chile,Finland
+155,375,1915,0,1,$ De 18D,Chile,Finland
+155,375,1916,0,1,$ De 18D,Chile,Finland
+155,375,1917,0,1,$ De 18D,Chile,Finland
+155,375,1918,0,1,$ De 18D,Chile,Finland
+155,375,1919,0,1,$ Oro De 6 D.,Chile,Finland
+155,375,1920,0,1,$ Oro De 6 D.,Chile,Finland
+155,375,1921,0,1,$ Oro De 6 D.,Chile,Finland
+155,375,1922,115407,1,$ Oro De 6 D.,Chile,Finland
+155,375,1923,434217,1,$ Oro De 6 D.,Chile,Finland
+155,375,1924,157023,1,$ Oro De 6 D.,Chile,Finland
+155,375,1925,419124,1,$ Oro De 6 D.,Chile,Finland
+155,375,1926,252612,1,$ Oro De 6 D.,Chile,Finland
+155,375,1927,102000,1,$ Oro De 6 D.,Chile,Finland
+155,375,1928,88805,1,$ Oro De 6 D.,Chile,Finland
+155,375,1929,537931,1,$ Oro De 6 D.,Chile,Finland
+155,375,1930,1155544,1,$ Oro De 6 D.,Chile,Finland
+155,375,1931,336376,1,$ Oro De 6 D.,Chile,Finland
+155,375,1932,107899,1,$ Oro De 6D,Chile,Finland
+155,375,1933,18555,1,$ Oro De 6D,Chile,Finland
+155,375,1934,7813,1,$6 D Oro,Chile,Finland
+155,375,1935,74406,1,,Chile,Finland
+155,375,1936,248136,1,,Chile,Finland
+155,375,1937,862972,1,,Chile,Finland
+155,375,1938,561901,1,$ 6 D,Chile,Finland
+155,375,1939,396438,1,$ 6 D,Chile,Finland
+155,375,1940,225853,1,$ 6 D,Chile,Finland
+155,375,1941,270032,1,$ 6 D,Chile,Finland
+155,375,1942,0,1,$ 6 D,Chile,Finland
+155,375,1943,0,1,$ 6 D,Chile,Finland
+155,375,1944,0,1,$ 6 D,Chile,Finland
+155,375,1945,0,1,$ 6 D,Chile,Finland
+155,375,1946,320776,1,$ 6 D,Chile,Finland
+155,375,1947,265287,1,$ 6 D,Chile,Finland
+155,375,1948,140866,1,$ 6 D,Chile,Finland
+155,375,1949,271213,1,$ 6 D,Chile,Finland
+155,380,1906,39943,1,$ De 18 D,Chile,Sweden
+155,380,1907,54315,1,$ De 18 D,Chile,Sweden
+155,380,1908,10135,1,$ De 18 D,Chile,Sweden
+155,380,1909,9491,1,$ De 18 D,Chile,Sweden
+155,380,1910,48250,1,$ De 18 D,Chile,Sweden
+155,380,1911,84228,1,$ De 18 D,Chile,Sweden
+155,380,1912,108755,1,$ De 18 D,Chile,Sweden
+155,380,1914,64963,1,,Chile,Sweden
+155,380,1915,1348599,1,$ De 18D,Chile,Sweden
+155,380,1916,1987118,1,$ De 18D,Chile,Sweden
+155,380,1917,2191326,1,$ De 18D,Chile,Sweden
+155,380,1918,3214425,1,$ De 18D,Chile,Sweden
+155,380,1919,6486336,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1920,25493025,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1921,8538672,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1922,4684620,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1923,3726255,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1924,3371262,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1925,4283856,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1926,6788134,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1927,3856666,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1928,4297489,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1929,7783642,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1930,19328439,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1931,13573648,1,$ Oro De 6 D.,Chile,Sweden
+155,380,1932,4409945,1,$ Oro De 6D,Chile,Sweden
+155,380,1933,3385878,1,$ Oro De 6D,Chile,Sweden
+155,380,1934,2684575,1,$6 D Oro,Chile,Sweden
+155,380,1935,4037151,1,,Chile,Sweden
+155,380,1936,3823782,1,,Chile,Sweden
+155,380,1937,5119827,1,,Chile,Sweden
+155,380,1938,8630239,1,$ 6 D,Chile,Sweden
+155,380,1939,7044836,1,$ 6 D,Chile,Sweden
+155,380,1940,6540906,1,$ 6 D,Chile,Sweden
+155,380,1941,2232050,1,$ 6 D,Chile,Sweden
+155,380,1942,10963533,1,$ 6 D,Chile,Sweden
+155,380,1943,2784811,1,$ 6 D,Chile,Sweden
+155,380,1944,8809194,1,$ 6 D,Chile,Sweden
+155,380,1945,13192946,1,$ 6 D,Chile,Sweden
+155,380,1946,25074952,1,$ 6 D,Chile,Sweden
+155,380,1947,31932578,1,$ 6 D,Chile,Sweden
+155,380,1948,34693509,1,$ 6 D,Chile,Sweden
+155,380,1949,24169221,1,$ 6 D,Chile,Sweden
+155,385,1906,166697,1,$ De 18 D,Chile,Norway
+155,385,1907,343607,1,$ De 18 D,Chile,Norway
+155,385,1908,134014,1,$ De 18 D,Chile,Norway
+155,385,1909,107020,1,$ De 18 D,Chile,Norway
+155,385,1910,24343,1,$ De 18 D,Chile,Norway
+155,385,1911,161834,1,$ De 18 D,Chile,Norway
+155,385,1912,98694,1,$ De 18 D,Chile,Norway
+155,385,1914,421447,1,,Chile,Norway
+155,385,1915,949988,1,$ De 18D,Chile,Norway
+155,385,1916,1481101,1,$ De 18D,Chile,Norway
+155,385,1917,806347,1,$ De 18D,Chile,Norway
+155,385,1918,581853,1,$ De 18D,Chile,Norway
+155,385,1919,1905051,1,$ Oro De 6 D.,Chile,Norway
+155,385,1920,16948380,1,$ Oro De 6 D.,Chile,Norway
+155,385,1921,7328088,1,$ Oro De 6 D.,Chile,Norway
+155,385,1922,6805305,1,$ Oro De 6 D.,Chile,Norway
+155,385,1923,10748262,1,$ Oro De 6 D.,Chile,Norway
+155,385,1924,13423023,1,$ Oro De 6 D.,Chile,Norway
+155,385,1925,13267389,1,$ Oro De 6 D.,Chile,Norway
+155,385,1926,11013543,1,$ Oro De 6 D.,Chile,Norway
+155,385,1927,11939567,1,$ Oro De 6 D.,Chile,Norway
+155,385,1928,9744001,1,$ Oro De 6 D.,Chile,Norway
+155,385,1929,19294465,1,$ Oro De 6 D.,Chile,Norway
+155,385,1930,12364674,1,$ Oro De 6 D.,Chile,Norway
+155,385,1931,6969524,1,$ Oro De 6 D.,Chile,Norway
+155,385,1932,2288988,1,$ Oro De 6D,Chile,Norway
+155,385,1933,1797223,1,$ Oro De 6D,Chile,Norway
+155,385,1934,1892781,1,$6 D Oro,Chile,Norway
+155,385,1935,544165,1,,Chile,Norway
+155,385,1936,324302,1,,Chile,Norway
+155,385,1937,389795,1,,Chile,Norway
+155,385,1938,558358,1,$ 6 D,Chile,Norway
+155,385,1939,714374,1,$ 6 D,Chile,Norway
+155,385,1940,338245,1,$ 6 D,Chile,Norway
+155,385,1941,7185,1,$ 6 D,Chile,Norway
+155,385,1942,0,1,$ 6 D,Chile,Norway
+155,385,1943,0,1,$ 6 D,Chile,Norway
+155,385,1944,49987,1,$ 6 D,Chile,Norway
+155,385,1945,0,1,$ 6 D,Chile,Norway
+155,385,1946,2664316,1,$ 6 D,Chile,Norway
+155,385,1947,4153559,1,$ 6 D,Chile,Norway
+155,385,1948,6349666,1,$ 6 D,Chile,Norway
+155,385,1949,3597448,1,$ 6 D,Chile,Norway
+155,390,1906,5390,1,$ De 18 D,Chile,Denmark
+155,390,1907,2304,1,$ De 18 D,Chile,Denmark
+155,390,1908,1740,1,$ De 18 D,Chile,Denmark
+155,390,1909,7585,1,$ De 18 D,Chile,Denmark
+155,390,1910,4419,1,$ De 18 D,Chile,Denmark
+155,390,1911,16782,1,$ De 18 D,Chile,Denmark
+155,390,1912,23126,1,$ De 18 D,Chile,Denmark
+155,390,1914,66923,1,,Chile,Denmark
+155,390,1915,1206430,1,$ De 18D,Chile,Denmark
+155,390,1916,1205768,1,$ De 18D,Chile,Denmark
+155,390,1917,561294,1,$ De 18D,Chile,Denmark
+155,390,1918,223680,1,$ De 18D,Chile,Denmark
+155,390,1919,131931,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1920,1061835,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1921,2594670,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1922,1871520,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1923,1265826,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1924,2205855,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1925,2237001,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1926,1413758,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1927,1171567,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1928,2694416,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1929,3649078,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1930,3971988,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1931,2683010,1,$ Oro De 6 D.,Chile,Denmark
+155,390,1932,699246,1,$ Oro De 6D,Chile,Denmark
+155,390,1933,443464,1,$ Oro De 6D,Chile,Denmark
+155,390,1934,1317282,1,$6 D Oro,Chile,Denmark
+155,390,1935,1110008,1,,Chile,Denmark
+155,390,1936,1185823,1,,Chile,Denmark
+155,390,1937,1035520,1,,Chile,Denmark
+155,390,1938,22467341,1,$ 6 D,Chile,Denmark
+155,390,1939,1320954,1,$ 6 D,Chile,Denmark
+155,390,1940,234789,1,$ 6 D,Chile,Denmark
+155,390,1941,2504,1,$ 6 D,Chile,Denmark
+155,390,1942,0,1,$ 6 D,Chile,Denmark
+155,390,1943,217560,1,$ 6 D,Chile,Denmark
+155,390,1944,0,1,$ 6 D,Chile,Denmark
+155,390,1945,0,1,$ 6 D,Chile,Denmark
+155,390,1946,37655,1,$ 6 D,Chile,Denmark
+155,390,1947,216316,1,$ 6 D,Chile,Denmark
+155,390,1948,964934,1,$ 6 D,Chile,Denmark
+155,390,1949,3155228,1,$ 6 D,Chile,Denmark
+155,400,1906,0,1,$ De 18 D,Chile,Azores
+155,400,1907,0,1,$ De 18 D,Chile,Azores
+155,400,1908,0,1,$ De 18 D,Chile,Azores
+155,400,1909,0,1,$ De 18 D,Chile,Azores
+155,400,1910,0,1,$ De 18 D,Chile,Azores
+155,400,1911,0,1,$ De 18 D,Chile,Azores
+155,400,1912,0,1,$ De 18 D,Chile,Azores
+155,400,1914,0,1,,Chile,Azores
+155,400,1915,0,1,$ De 18D,Chile,Azores
+155,400,1916,0,1,$ De 18D,Chile,Azores
+155,400,1917,0,1,$ De 18D,Chile,Azores
+155,400,1918,0,1,$ De 18D,Chile,Azores
+155,400,1919,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1920,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1921,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1922,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1923,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1924,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1925,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1926,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1927,0,1,$ Oro De 6 D.,Chile,Azores
+155,400,1928,2022,1,$ Oro De 6 D.,Chile,Azores
+155,400,1929,4785,1,$ Oro De 6 D.,Chile,Azores
+155,400,1930,2081,1,$ Oro De 6 D.,Chile,Azores
+155,400,1931,2257,1,$ Oro De 6 D.,Chile,Azores
+155,400,1932,0,1,$ Oro De 6D,Chile,Azores
+155,400,1933,0,1,$ Oro De 6D,Chile,Azores
+155,400,1934,0,1,$6 D Oro,Chile,Azores
+155,400,1935,0,1,,Chile,Azores
+155,400,1936,0,1,,Chile,Azores
+155,400,1937,0,1,,Chile,Azores
+155,400,1938,5,1,$ 6 D,Chile,Azores
+155,400,1939,0,1,$ 6 D,Chile,Azores
+155,400,1940,0,1,$ 6 D,Chile,Azores
+155,400,1941,0,1,$ 6 D,Chile,Azores
+155,400,1942,500,1,$ 6 D,Chile,Azores
+155,400,1943,0,1,$ 6 D,Chile,Azores
+155,400,1944,0,1,$ 6 D,Chile,Azores
+155,400,1945,0,1,$ 6 D,Chile,Azores
+155,400,1946,0,1,$ 6 D,Chile,Azores
+155,400,1947,0,1,$ 6 D,Chile,Azores
+155,400,1948,0,1,$ 6 D,Chile,Azores
+155,400,1949,0,1,$ 6 D,Chile,Azores
+155,410,1906,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1907,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1908,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1909,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1910,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1911,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1912,0,1,$ De 18 D,Chile,Canary Islands
+155,410,1914,0,1,,Chile,Canary Islands
+155,410,1915,0,1,$ De 18D,Chile,Canary Islands
+155,410,1916,0,1,$ De 18D,Chile,Canary Islands
+155,410,1917,0,1,$ De 18D,Chile,Canary Islands
+155,410,1918,0,1,$ De 18D,Chile,Canary Islands
+155,410,1919,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1920,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1921,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1922,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1923,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1924,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1925,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1926,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1927,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1928,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1929,0,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1930,12930,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1931,8590,1,$ Oro De 6 D.,Chile,Canary Islands
+155,410,1932,1373,1,$ Oro De 6D,Chile,Canary Islands
+155,410,1933,0,1,$ Oro De 6D,Chile,Canary Islands
+155,410,1934,0,1,$6 D Oro,Chile,Canary Islands
+155,410,1935,0,1,,Chile,Canary Islands
+155,410,1936,0,1,,Chile,Canary Islands
+155,410,1937,0,1,,Chile,Canary Islands
+155,410,1938,0,1,$ 6 D,Chile,Canary Islands
+155,410,1939,0,1,$ 6 D,Chile,Canary Islands
+155,410,1940,0,1,$ 6 D,Chile,Canary Islands
+155,410,1941,0,1,$ 6 D,Chile,Canary Islands
+155,410,1942,0,1,$ 6 D,Chile,Canary Islands
+155,410,1943,0,1,$ 6 D,Chile,Canary Islands
+155,410,1944,0,1,$ 6 D,Chile,Canary Islands
+155,410,1945,0,1,$ 6 D,Chile,Canary Islands
+155,410,1946,0,1,$ 6 D,Chile,Canary Islands
+155,410,1947,0,1,$ 6 D,Chile,Canary Islands
+155,410,1948,0,1,$ 6 D,Chile,Canary Islands
+155,410,1949,0,1,$ 6 D,Chile,Canary Islands
+155,541,1906,0,1,$ De 18 D,Chile,Mozambique
+155,541,1907,0,1,$ De 18 D,Chile,Mozambique
+155,541,1908,0,1,$ De 18 D,Chile,Mozambique
+155,541,1909,0,1,$ De 18 D,Chile,Mozambique
+155,541,1910,0,1,$ De 18 D,Chile,Mozambique
+155,541,1911,0,1,$ De 18 D,Chile,Mozambique
+155,541,1912,0,1,$ De 18 D,Chile,Mozambique
+155,541,1914,0,1,,Chile,Mozambique
+155,541,1915,0,1,$ De 18D,Chile,Mozambique
+155,541,1916,0,1,$ De 18D,Chile,Mozambique
+155,541,1917,0,1,$ De 18D,Chile,Mozambique
+155,541,1918,0,1,$ De 18D,Chile,Mozambique
+155,541,1919,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1920,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1921,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1922,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1923,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1924,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1925,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1926,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1927,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1928,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1929,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1930,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1931,0,1,$ Oro De 6 D.,Chile,Mozambique
+155,541,1932,0,1,$ Oro De 6D,Chile,Mozambique
+155,541,1933,24147,1,$ Oro De 6D,Chile,Mozambique
+155,541,1934,0,1,$6 D Oro,Chile,Mozambique
+155,541,1935,0,1,,Chile,Mozambique
+155,541,1936,0,1,,Chile,Mozambique
+155,541,1937,0,1,,Chile,Mozambique
+155,541,1938,40,1,$ 6 D,Chile,Mozambique
+155,541,1939,0,1,$ 6 D,Chile,Mozambique
+155,541,1940,0,1,$ 6 D,Chile,Mozambique
+155,541,1941,0,1,$ 6 D,Chile,Mozambique
+155,541,1942,0,1,$ 6 D,Chile,Mozambique
+155,541,1943,0,1,$ 6 D,Chile,Mozambique
+155,541,1944,0,1,$ 6 D,Chile,Mozambique
+155,541,1945,0,1,$ 6 D,Chile,Mozambique
+155,541,1946,0,1,$ 6 D,Chile,Mozambique
+155,541,1947,0,1,$ 6 D,Chile,Mozambique
+155,541,1948,0,1,$ 6 D,Chile,Mozambique
+155,541,1949,0,1,$ 6 D,Chile,Mozambique
+155,580,1906,0,1,$ De 18 D,Chile,Madagascar
+155,580,1907,0,1,$ De 18 D,Chile,Madagascar
+155,580,1908,0,1,$ De 18 D,Chile,Madagascar
+155,580,1909,0,1,$ De 18 D,Chile,Madagascar
+155,580,1910,0,1,$ De 18 D,Chile,Madagascar
+155,580,1911,0,1,$ De 18 D,Chile,Madagascar
+155,580,1912,0,1,$ De 18 D,Chile,Madagascar
+155,580,1914,0,1,,Chile,Madagascar
+155,580,1915,0,1,$ De 18D,Chile,Madagascar
+155,580,1916,0,1,$ De 18D,Chile,Madagascar
+155,580,1917,0,1,$ De 18D,Chile,Madagascar
+155,580,1918,0,1,$ De 18D,Chile,Madagascar
+155,580,1919,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1920,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1921,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1922,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1923,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1924,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1925,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1926,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1927,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1928,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1929,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1930,3100,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1931,0,1,$ Oro De 6 D.,Chile,Madagascar
+155,580,1932,0,1,$ Oro De 6D,Chile,Madagascar
+155,580,1933,0,1,$ Oro De 6D,Chile,Madagascar
+155,580,1934,0,1,$6 D Oro,Chile,Madagascar
+155,580,1935,0,1,,Chile,Madagascar
+155,580,1936,0,1,,Chile,Madagascar
+155,580,1937,0,1,,Chile,Madagascar
+155,580,1938,0,1,$ 6 D,Chile,Madagascar
+155,580,1939,0,1,$ 6 D,Chile,Madagascar
+155,580,1940,0,1,$ 6 D,Chile,Madagascar
+155,580,1941,0,1,$ 6 D,Chile,Madagascar
+155,580,1942,0,1,$ 6 D,Chile,Madagascar
+155,580,1943,0,1,$ 6 D,Chile,Madagascar
+155,580,1944,0,1,$ 6 D,Chile,Madagascar
+155,580,1945,0,1,$ 6 D,Chile,Madagascar
+155,580,1946,0,1,$ 6 D,Chile,Madagascar
+155,580,1947,0,1,$ 6 D,Chile,Madagascar
+155,580,1948,0,1,$ 6 D,Chile,Madagascar
+155,580,1949,0,1,$ 6 D,Chile,Madagascar
+155,590,1906,0,1,$ De 18 D,Chile,Mauritius
+155,590,1907,0,1,$ De 18 D,Chile,Mauritius
+155,590,1908,0,1,$ De 18 D,Chile,Mauritius
+155,590,1909,0,1,$ De 18 D,Chile,Mauritius
+155,590,1910,0,1,$ De 18 D,Chile,Mauritius
+155,590,1911,0,1,$ De 18 D,Chile,Mauritius
+155,590,1912,0,1,$ De 18 D,Chile,Mauritius
+155,590,1914,0,1,,Chile,Mauritius
+155,590,1915,0,1,$ De 18D,Chile,Mauritius
+155,590,1916,0,1,$ De 18D,Chile,Mauritius
+155,590,1917,0,1,$ De 18D,Chile,Mauritius
+155,590,1918,0,1,$ De 18D,Chile,Mauritius
+155,590,1919,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1920,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1921,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1922,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1923,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1924,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1925,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1926,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1927,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1928,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1929,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1930,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1931,0,1,$ Oro De 6 D.,Chile,Mauritius
+155,590,1932,0,1,$ Oro De 6D,Chile,Mauritius
+155,590,1933,10,1,$ Oro De 6D,Chile,Mauritius
+155,590,1934,0,1,$6 D Oro,Chile,Mauritius
+155,590,1935,0,1,,Chile,Mauritius
+155,590,1936,1132,1,,Chile,Mauritius
+155,590,1937,0,1,,Chile,Mauritius
+155,590,1938,0,1,$ 6 D,Chile,Mauritius
+155,590,1939,0,1,$ 6 D,Chile,Mauritius
+155,590,1940,0,1,$ 6 D,Chile,Mauritius
+155,590,1941,0,1,$ 6 D,Chile,Mauritius
+155,590,1942,0,1,$ 6 D,Chile,Mauritius
+155,590,1943,0,1,$ 6 D,Chile,Mauritius
+155,590,1944,0,1,$ 6 D,Chile,Mauritius
+155,590,1945,0,1,$ 6 D,Chile,Mauritius
+155,590,1946,24,1,$ 6 D,Chile,Mauritius
+155,590,1947,0,1,$ 6 D,Chile,Mauritius
+155,590,1948,0,1,$ 6 D,Chile,Mauritius
+155,590,1949,0,1,$ 6 D,Chile,Mauritius
+155,615,1906,0,1,$ De 18 D,Chile,Algeria
+155,615,1907,0,1,$ De 18 D,Chile,Algeria
+155,615,1908,0,1,$ De 18 D,Chile,Algeria
+155,615,1909,0,1,$ De 18 D,Chile,Algeria
+155,615,1910,0,1,$ De 18 D,Chile,Algeria
+155,615,1911,0,1,$ De 18 D,Chile,Algeria
+155,615,1912,25020,1,$ De 18 D,Chile,Algeria
+155,615,1914,5322,1,,Chile,Algeria
+155,615,1915,0,1,$ De 18D,Chile,Algeria
+155,615,1916,0,1,$ De 18D,Chile,Algeria
+155,615,1917,0,1,$ De 18D,Chile,Algeria
+155,615,1918,0,1,$ De 18D,Chile,Algeria
+155,615,1919,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1920,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1921,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1922,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1923,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1924,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1925,4566,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1926,4800,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1927,4100,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1928,2,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1929,0,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1930,7485,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1931,55,1,$ Oro De 6 D.,Chile,Algeria
+155,615,1932,0,1,$ Oro De 6D,Chile,Algeria
+155,615,1933,0,1,$ Oro De 6D,Chile,Algeria
+155,615,1934,25,1,$6 D Oro,Chile,Algeria
+155,615,1935,795,1,,Chile,Algeria
+155,615,1936,4750,1,,Chile,Algeria
+155,615,1937,0,1,,Chile,Algeria
+155,615,1938,40,1,$ 6 D,Chile,Algeria
+155,615,1939,0,1,$ 6 D,Chile,Algeria
+155,615,1940,0,1,$ 6 D,Chile,Algeria
+155,615,1941,255,1,$ 6 D,Chile,Algeria
+155,615,1942,0,1,$ 6 D,Chile,Algeria
+155,615,1943,0,1,$ 6 D,Chile,Algeria
+155,615,1944,0,1,$ 6 D,Chile,Algeria
+155,615,1945,0,1,$ 6 D,Chile,Algeria
+155,615,1946,0,1,$ 6 D,Chile,Algeria
+155,615,1947,57078,1,$ 6 D,Chile,Algeria
+155,615,1948,51858,1,$ 6 D,Chile,Algeria
+155,615,1949,20,1,$ 6 D,Chile,Algeria
+155,625,1906,0,1,$ De 18 D,Chile,Sudan
+155,625,1907,0,1,$ De 18 D,Chile,Sudan
+155,625,1908,0,1,$ De 18 D,Chile,Sudan
+155,625,1909,0,1,$ De 18 D,Chile,Sudan
+155,625,1910,0,1,$ De 18 D,Chile,Sudan
+155,625,1911,0,1,$ De 18 D,Chile,Sudan
+155,625,1912,0,1,$ De 18 D,Chile,Sudan
+155,625,1914,0,1,,Chile,Sudan
+155,625,1915,0,1,$ De 18D,Chile,Sudan
+155,625,1916,0,1,$ De 18D,Chile,Sudan
+155,625,1917,0,1,$ De 18D,Chile,Sudan
+155,625,1918,0,1,$ De 18D,Chile,Sudan
+155,625,1919,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1920,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1921,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1922,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1923,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1924,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1925,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1926,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1927,13835,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1928,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1929,500,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1930,0,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1931,4249,1,$ Oro De 6 D.,Chile,Sudan
+155,625,1932,0,1,$ Oro De 6D,Chile,Sudan
+155,625,1933,0,1,$ Oro De 6D,Chile,Sudan
+155,625,1934,0,1,$6 D Oro,Chile,Sudan
+155,625,1935,15504,1,,Chile,Sudan
+155,625,1936,17968,1,,Chile,Sudan
+155,625,1937,8455,1,,Chile,Sudan
+155,625,1938,5001,1,$ 6 D,Chile,Sudan
+155,625,1939,13091,1,$ 6 D,Chile,Sudan
+155,625,1940,80,1,$ 6 D,Chile,Sudan
+155,625,1941,0,1,$ 6 D,Chile,Sudan
+155,625,1942,0,1,$ 6 D,Chile,Sudan
+155,625,1943,0,1,$ 6 D,Chile,Sudan
+155,625,1944,0,1,$ 6 D,Chile,Sudan
+155,625,1945,0,1,$ 6 D,Chile,Sudan
+155,625,1946,0,1,$ 6 D,Chile,Sudan
+155,625,1947,9177,1,$ 6 D,Chile,Sudan
+155,625,1948,0,1,$ 6 D,Chile,Sudan
+155,625,1949,8,1,$ 6 D,Chile,Sudan
+155,630,1906,0,1,$ De 18 D,Chile,Iran
+155,630,1907,0,1,$ De 18 D,Chile,Iran
+155,630,1908,0,1,$ De 18 D,Chile,Iran
+155,630,1909,0,1,$ De 18 D,Chile,Iran
+155,630,1910,0,1,$ De 18 D,Chile,Iran
+155,630,1911,0,1,$ De 18 D,Chile,Iran
+155,630,1912,0,1,$ De 18 D,Chile,Iran
+155,630,1914,0,1,,Chile,Iran
+155,630,1915,0,1,$ De 18D,Chile,Iran
+155,630,1916,0,1,$ De 18D,Chile,Iran
+155,630,1917,0,1,$ De 18D,Chile,Iran
+155,630,1918,0,1,$ De 18D,Chile,Iran
+155,630,1919,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1920,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1921,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1922,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1923,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1924,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1925,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1926,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1927,9240,1,$ Oro De 6 D.,Chile,Iran
+155,630,1928,22319,1,$ Oro De 6 D.,Chile,Iran
+155,630,1929,23424,1,$ Oro De 6 D.,Chile,Iran
+155,630,1930,0,1,$ Oro De 6 D.,Chile,Iran
+155,630,1931,1665,1,$ Oro De 6 D.,Chile,Iran
+155,630,1932,20,1,$ Oro De 6D,Chile,Iran
+155,630,1933,0,1,$ Oro De 6D,Chile,Iran
+155,630,1934,0,1,$6 D Oro,Chile,Iran
+155,630,1935,2583,1,,Chile,Iran
+155,630,1936,9622,1,,Chile,Iran
+155,630,1937,17463,1,,Chile,Iran
+155,630,1938,7390,1,$ 6 D,Chile,Iran
+155,630,1939,0,1,$ 6 D,Chile,Iran
+155,630,1940,0,1,$ 6 D,Chile,Iran
+155,630,1941,0,1,$ 6 D,Chile,Iran
+155,630,1942,0,1,$ 6 D,Chile,Iran
+155,630,1943,0,1,$ 6 D,Chile,Iran
+155,630,1944,0,1,$ 6 D,Chile,Iran
+155,630,1945,783,1,$ 6 D,Chile,Iran
+155,630,1946,0,1,$ 6 D,Chile,Iran
+155,630,1947,11730,1,$ 6 D,Chile,Iran
+155,630,1948,0,1,$ 6 D,Chile,Iran
+155,630,1949,24982,1,$ 6 D,Chile,Iran
+155,640,1906,24009,1,$ De 18 D,Chile,Turkey
+155,640,1907,812,1,$ De 18 D,Chile,Turkey
+155,640,1908,240,1,$ De 18 D,Chile,Turkey
+155,640,1909,8488,1,$ De 18 D,Chile,Turkey
+155,640,1910,3096,1,$ De 18 D,Chile,Turkey
+155,640,1911,6618,1,$ De 18 D,Chile,Turkey
+155,640,1912,2987,1,$ De 18 D,Chile,Turkey
+155,640,1914,14135,1,,Chile,Turkey
+155,640,1915,448,1,$ De 18D,Chile,Turkey
+155,640,1916,2280,1,$ De 18D,Chile,Turkey
+155,640,1917,45,1,$ De 18D,Chile,Turkey
+155,640,1918,0,1,$ De 18D,Chile,Turkey
+155,640,1919,48,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1920,61935,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1921,39756,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1922,5613,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1923,105,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1924,5400,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1925,93357,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1926,54790,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1927,0,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1928,4654,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1929,5835,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1930,43551,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1931,260,1,$ Oro De 6 D.,Chile,Turkey
+155,640,1932,10001,1,$ Oro De 6D,Chile,Turkey
+155,640,1933,1471,1,$ Oro De 6D,Chile,Turkey
+155,640,1934,4465,1,$6 D Oro,Chile,Turkey
+155,640,1935,5180,1,,Chile,Turkey
+155,640,1936,13335,1,,Chile,Turkey
+155,640,1937,420,1,,Chile,Turkey
+155,640,1938,1605,1,$ 6 D,Chile,Turkey
+155,640,1939,0,1,$ 6 D,Chile,Turkey
+155,640,1940,0,1,$ 6 D,Chile,Turkey
+155,640,1941,0,1,$ 6 D,Chile,Turkey
+155,640,1942,0,1,$ 6 D,Chile,Turkey
+155,640,1943,0,1,$ 6 D,Chile,Turkey
+155,640,1944,0,1,$ 6 D,Chile,Turkey
+155,640,1945,0,1,$ 6 D,Chile,Turkey
+155,640,1946,0,1,$ 6 D,Chile,Turkey
+155,640,1947,0,1,$ 6 D,Chile,Turkey
+155,640,1948,15,1,$ 6 D,Chile,Turkey
+155,640,1949,10,1,$ 6 D,Chile,Turkey
+155,651,1906,0,1,$ De 18 D,Chile,Egypt
+155,651,1907,0,1,$ De 18 D,Chile,Egypt
+155,651,1908,0,1,$ De 18 D,Chile,Egypt
+155,651,1909,932,1,$ De 18 D,Chile,Egypt
+155,651,1910,444,1,$ De 18 D,Chile,Egypt
+155,651,1911,6938,1,$ De 18 D,Chile,Egypt
+155,651,1912,7597,1,$ De 18 D,Chile,Egypt
+155,651,1914,15116,1,,Chile,Egypt
+155,651,1915,12846,1,$ De 18D,Chile,Egypt
+155,651,1916,72021,1,$ De 18D,Chile,Egypt
+155,651,1917,42456,1,$ De 18D,Chile,Egypt
+155,651,1918,37951,1,$ De 18D,Chile,Egypt
+155,651,1919,267216,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1920,12996,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1921,124515,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1922,18600,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1923,8049,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1924,18000,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1925,210,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1926,6153,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1927,10501,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1928,18566,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1929,1988,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1930,3963,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1931,552,1,$ Oro De 6 D.,Chile,Egypt
+155,651,1932,1175,1,$ Oro De 6D,Chile,Egypt
+155,651,1933,502,1,$ Oro De 6D,Chile,Egypt
+155,651,1934,99835,1,$6 D Oro,Chile,Egypt
+155,651,1935,77272,1,,Chile,Egypt
+155,651,1936,1169386,1,,Chile,Egypt
+155,651,1937,3107561,1,,Chile,Egypt
+155,651,1938,3651062,1,$ 6 D,Chile,Egypt
+155,651,1939,3989382,1,$ 6 D,Chile,Egypt
+155,651,1940,1033,1,$ 6 D,Chile,Egypt
+155,651,1941,50,1,$ 6 D,Chile,Egypt
+155,651,1942,0,1,$ 6 D,Chile,Egypt
+155,651,1943,520,1,$ 6 D,Chile,Egypt
+155,651,1944,0,1,$ 6 D,Chile,Egypt
+155,651,1945,40,1,$ 6 D,Chile,Egypt
+155,651,1946,536,1,$ 6 D,Chile,Egypt
+155,651,1947,0,1,$ 6 D,Chile,Egypt
+155,651,1948,6869,1,$ 6 D,Chile,Egypt
+155,651,1949,11945,1,$ 6 D,Chile,Egypt
+155,652,1906,0,1,$ De 18 D,Chile,Syria
+155,652,1907,0,1,$ De 18 D,Chile,Syria
+155,652,1908,0,1,$ De 18 D,Chile,Syria
+155,652,1909,0,1,$ De 18 D,Chile,Syria
+155,652,1910,0,1,$ De 18 D,Chile,Syria
+155,652,1911,0,1,$ De 18 D,Chile,Syria
+155,652,1912,0,1,$ De 18 D,Chile,Syria
+155,652,1914,0,1,,Chile,Syria
+155,652,1915,0,1,$ De 18D,Chile,Syria
+155,652,1916,0,1,$ De 18D,Chile,Syria
+155,652,1917,0,1,$ De 18D,Chile,Syria
+155,652,1918,0,1,$ De 18D,Chile,Syria
+155,652,1919,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1920,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1921,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1922,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1923,30,1,$ Oro De 6 D.,Chile,Syria
+155,652,1924,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1925,0,1,$ Oro De 6 D.,Chile,Syria
+155,652,1926,261,1,$ Oro De 6 D.,Chile,Syria
+155,652,1927,880,1,$ Oro De 6 D.,Chile,Syria
+155,652,1928,284,1,$ Oro De 6 D.,Chile,Syria
+155,652,1929,2397,1,$ Oro De 6 D.,Chile,Syria
+155,652,1930,7665,1,$ Oro De 6 D.,Chile,Syria
+155,652,1931,16520,1,$ Oro De 6 D.,Chile,Syria
+155,652,1932,295,1,$ Oro De 6D,Chile,Syria
+155,652,1933,165,1,$ Oro De 6D,Chile,Syria
+155,652,1934,900,1,$6 D Oro,Chile,Syria
+155,652,1935,155,1,,Chile,Syria
+155,652,1936,1153,1,,Chile,Syria
+155,652,1937,37,1,,Chile,Syria
+155,652,1938,67,1,$ 6 D,Chile,Syria
+155,652,1939,2044,1,$ 6 D,Chile,Syria
+155,652,1940,30,1,$ 6 D,Chile,Syria
+155,652,1941,0,1,$ 6 D,Chile,Syria
+155,652,1942,0,1,$ 6 D,Chile,Syria
+155,652,1943,0,1,$ 6 D,Chile,Syria
+155,652,1944,0,1,$ 6 D,Chile,Syria
+155,652,1945,0,1,$ 6 D,Chile,Syria
+155,652,1946,0,1,$ 6 D,Chile,Syria
+155,652,1947,45,1,$ 6 D,Chile,Syria
+155,652,1948,60,1,$ 6 D,Chile,Syria
+155,652,1949,5631,1,$ 6 D,Chile,Syria
+155,660,1906,0,1,$ De 18 D,Chile,Lebanon
+155,660,1907,0,1,$ De 18 D,Chile,Lebanon
+155,660,1908,0,1,$ De 18 D,Chile,Lebanon
+155,660,1909,0,1,$ De 18 D,Chile,Lebanon
+155,660,1910,0,1,$ De 18 D,Chile,Lebanon
+155,660,1911,0,1,$ De 18 D,Chile,Lebanon
+155,660,1912,0,1,$ De 18 D,Chile,Lebanon
+155,660,1914,0,1,,Chile,Lebanon
+155,660,1915,0,1,$ De 18D,Chile,Lebanon
+155,660,1916,0,1,$ De 18D,Chile,Lebanon
+155,660,1917,0,1,$ De 18D,Chile,Lebanon
+155,660,1918,0,1,$ De 18D,Chile,Lebanon
+155,660,1919,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1920,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1921,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1922,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1923,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1924,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1925,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1926,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1927,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1928,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1929,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1930,0,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1931,10,1,$ Oro De 6 D.,Chile,Lebanon
+155,660,1932,55,1,$ Oro De 6D,Chile,Lebanon
+155,660,1933,30,1,$ Oro De 6D,Chile,Lebanon
+155,660,1934,90,1,$6 D Oro,Chile,Lebanon
+155,660,1935,60,1,,Chile,Lebanon
+155,660,1936,7,1,,Chile,Lebanon
+155,660,1937,50,1,,Chile,Lebanon
+155,660,1938,0,1,$ 6 D,Chile,Lebanon
+155,660,1939,30,1,$ 6 D,Chile,Lebanon
+155,660,1940,5,1,$ 6 D,Chile,Lebanon
+155,660,1941,0,1,$ 6 D,Chile,Lebanon
+155,660,1942,0,1,$ 6 D,Chile,Lebanon
+155,660,1943,0,1,$ 6 D,Chile,Lebanon
+155,660,1944,0,1,$ 6 D,Chile,Lebanon
+155,660,1945,0,1,$ 6 D,Chile,Lebanon
+155,660,1946,0,1,$ 6 D,Chile,Lebanon
+155,660,1947,0,1,$ 6 D,Chile,Lebanon
+155,660,1948,3464,1,$ 6 D,Chile,Lebanon
+155,660,1949,3083,1,$ 6 D,Chile,Lebanon
+155,665,1906,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1907,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1908,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1909,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1910,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1911,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1912,0,1,$ De 18 D,Chile,West Bank And Gaza
+155,665,1914,0,1,,Chile,West Bank And Gaza
+155,665,1915,0,1,$ De 18D,Chile,West Bank And Gaza
+155,665,1916,0,1,$ De 18D,Chile,West Bank And Gaza
+155,665,1917,0,1,$ De 18D,Chile,West Bank And Gaza
+155,665,1918,0,1,$ De 18D,Chile,West Bank And Gaza
+155,665,1919,0,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1920,0,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1921,4035,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1922,5385,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1923,420,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1924,3468,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1925,2127,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1926,2844,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1927,1435,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1928,2590,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1929,6560,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1930,8350,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1931,3114,1,$ Oro De 6 D.,Chile,West Bank And Gaza
+155,665,1932,2317,1,$ Oro De 6D,Chile,West Bank And Gaza
+155,665,1933,12375,1,$ Oro De 6D,Chile,West Bank And Gaza
+155,665,1934,9403,1,$6 D Oro,Chile,West Bank And Gaza
+155,665,1935,4386,1,,Chile,West Bank And Gaza
+155,665,1936,6498,1,,Chile,West Bank And Gaza
+155,665,1937,492,1,,Chile,West Bank And Gaza
+155,665,1938,10224,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1939,12374,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1940,13045,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1941,12040,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1942,10208,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1943,21325,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1944,23140,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1945,5545,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1946,5994,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1947,9495,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1948,32619,1,$ 6 D,Chile,West Bank And Gaza
+155,665,1949,14920,1,$ 6 D,Chile,West Bank And Gaza
+155,666,1906,0,1,$ De 18 D,Chile,Israel
+155,666,1907,0,1,$ De 18 D,Chile,Israel
+155,666,1908,0,1,$ De 18 D,Chile,Israel
+155,666,1909,0,1,$ De 18 D,Chile,Israel
+155,666,1910,0,1,$ De 18 D,Chile,Israel
+155,666,1911,0,1,$ De 18 D,Chile,Israel
+155,666,1912,0,1,$ De 18 D,Chile,Israel
+155,666,1914,0,1,,Chile,Israel
+155,666,1915,0,1,$ De 18D,Chile,Israel
+155,666,1916,0,1,$ De 18D,Chile,Israel
+155,666,1917,0,1,$ De 18D,Chile,Israel
+155,666,1918,0,1,$ De 18D,Chile,Israel
+155,666,1919,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1920,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1921,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1922,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1923,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1924,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1925,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1926,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1927,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1928,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1929,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1930,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1931,0,1,$ Oro De 6 D.,Chile,Israel
+155,666,1932,0,1,$ Oro De 6D,Chile,Israel
+155,666,1933,0,1,$ Oro De 6D,Chile,Israel
+155,666,1934,0,1,$6 D Oro,Chile,Israel
+155,666,1935,0,1,,Chile,Israel
+155,666,1936,0,1,,Chile,Israel
+155,666,1937,0,1,,Chile,Israel
+155,666,1938,0,1,$ 6 D,Chile,Israel
+155,666,1939,0,1,$ 6 D,Chile,Israel
+155,666,1940,0,1,$ 6 D,Chile,Israel
+155,666,1941,0,1,$ 6 D,Chile,Israel
+155,666,1942,0,1,$ 6 D,Chile,Israel
+155,666,1943,0,1,$ 6 D,Chile,Israel
+155,666,1944,0,1,$ 6 D,Chile,Israel
+155,666,1945,0,1,$ 6 D,Chile,Israel
+155,666,1946,0,1,$ 6 D,Chile,Israel
+155,666,1947,0,1,$ 6 D,Chile,Israel
+155,666,1948,0,1,$ 6 D,Chile,Israel
+155,666,1949,50,1,$ 6 D,Chile,Israel
+155,710,1906,189666,1,$ De 18 D,Chile,China
+155,710,1907,93059,1,$ De 18 D,Chile,China
+155,710,1908,130934,1,$ De 18 D,Chile,China
+155,710,1909,70985,1,$ De 18 D,Chile,China
+155,710,1910,201884,1,$ De 18 D,Chile,China
+155,710,1911,168267,1,$ De 18 D,Chile,China
+155,710,1912,172931,1,$ De 18 D,Chile,China
+155,710,1914,182131,1,,Chile,China
+155,710,1915,174367,1,$ De 18D,Chile,China
+155,710,1916,2774112,1,$ De 18D,Chile,China
+155,710,1917,324806,1,$ De 18D,Chile,China
+155,710,1918,302088,1,$ De 18D,Chile,China
+155,710,1919,1004355,1,$ Oro De 6 D.,Chile,China
+155,710,1920,969723,1,$ Oro De 6 D.,Chile,China
+155,710,1921,591450,1,$ Oro De 6 D.,Chile,China
+155,710,1922,472125,1,$ Oro De 6 D.,Chile,China
+155,710,1923,1734144,1,$ Oro De 6 D.,Chile,China
+155,710,1924,1706616,1,$ Oro De 6 D.,Chile,China
+155,710,1925,1544328,1,$ Oro De 6 D.,Chile,China
+155,710,1926,2199975,1,$ Oro De 6 D.,Chile,China
+155,710,1927,1908029,1,$ Oro De 6 D.,Chile,China
+155,710,1928,1814415,1,$ Oro De 6 D.,Chile,China
+155,710,1929,1717856,1,$ Oro De 6 D.,Chile,China
+155,710,1930,1009225,1,$ Oro De 6 D.,Chile,China
+155,710,1931,616564,1,$ Oro De 6 D.,Chile,China
+155,710,1932,306732,1,$ Oro De 6D,Chile,China
+155,710,1933,74742,1,$ Oro De 6D,Chile,China
+155,710,1934,1012272,1,$6 D Oro,Chile,China
+155,710,1935,275878,1,,Chile,China
+155,710,1936,138355,1,,Chile,China
+155,710,1937,186085,1,,Chile,China
+155,710,1938,112157,1,$ 6 D,Chile,China
+155,710,1939,310570,1,$ 6 D,Chile,China
+155,710,1940,839520,1,$ 6 D,Chile,China
+155,710,1941,1041325,1,$ 6 D,Chile,China
+155,710,1942,26392,1,$ 6 D,Chile,China
+155,710,1943,0,1,$ 6 D,Chile,China
+155,710,1944,9775,1,$ 6 D,Chile,China
+155,710,1945,0,1,$ 6 D,Chile,China
+155,710,1946,39098,1,$ 6 D,Chile,China
+155,710,1947,694800,1,$ 6 D,Chile,China
+155,710,1948,101248,1,$ 6 D,Chile,China
+155,710,1949,1111127,1,$ 6 D,Chile,China
+155,711,1906,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1907,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1908,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1909,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1910,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1911,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1912,0,1,$ De 18 D,Chile,Manchukuo
+155,711,1914,0,1,,Chile,Manchukuo
+155,711,1915,0,1,$ De 18D,Chile,Manchukuo
+155,711,1916,0,1,$ De 18D,Chile,Manchukuo
+155,711,1917,0,1,$ De 18D,Chile,Manchukuo
+155,711,1918,0,1,$ De 18D,Chile,Manchukuo
+155,711,1919,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1920,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1921,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1922,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1923,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1924,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1925,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1926,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1927,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1928,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1929,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1930,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1931,0,1,$ Oro De 6 D.,Chile,Manchukuo
+155,711,1932,0,1,$ Oro De 6D,Chile,Manchukuo
+155,711,1933,0,1,$ Oro De 6D,Chile,Manchukuo
+155,711,1934,0,1,$6 D Oro,Chile,Manchukuo
+155,711,1935,10957,1,,Chile,Manchukuo
+155,711,1936,0,1,,Chile,Manchukuo
+155,711,1937,43021,1,,Chile,Manchukuo
+155,711,1938,62001,1,$ 6 D,Chile,Manchukuo
+155,711,1939,299923,1,$ 6 D,Chile,Manchukuo
+155,711,1940,22178,1,$ 6 D,Chile,Manchukuo
+155,711,1941,25884,1,$ 6 D,Chile,Manchukuo
+155,711,1942,0,1,$ 6 D,Chile,Manchukuo
+155,711,1943,0,1,$ 6 D,Chile,Manchukuo
+155,711,1944,0,1,$ 6 D,Chile,Manchukuo
+155,711,1945,0,1,$ 6 D,Chile,Manchukuo
+155,711,1946,0,1,$ 6 D,Chile,Manchukuo
+155,711,1947,0,1,$ 6 D,Chile,Manchukuo
+155,711,1948,0,1,$ 6 D,Chile,Manchukuo
+155,711,1949,0,1,$ 6 D,Chile,Manchukuo
+155,740,1906,79621,1,$ De 18 D,Chile,Japan
+155,740,1907,157354,1,$ De 18 D,Chile,Japan
+155,740,1908,120327,1,$ De 18 D,Chile,Japan
+155,740,1909,122647,1,$ De 18 D,Chile,Japan
+155,740,1910,232234,1,$ De 18 D,Chile,Japan
+155,740,1911,400696,1,$ De 18 D,Chile,Japan
+155,740,1912,365658,1,$ De 18 D,Chile,Japan
+155,740,1914,258879,1,,Chile,Japan
+155,740,1915,958720,1,$ De 18D,Chile,Japan
+155,740,1916,1616901,1,$ De 18D,Chile,Japan
+155,740,1917,3269267,1,$ De 18D,Chile,Japan
+155,740,1918,11762314,1,$ De 18D,Chile,Japan
+155,740,1919,24171441,1,$ Oro De 6 D.,Chile,Japan
+155,740,1920,12644592,1,$ Oro De 6 D.,Chile,Japan
+155,740,1921,5994693,1,$ Oro De 6 D.,Chile,Japan
+155,740,1922,2001642,1,$ Oro De 6 D.,Chile,Japan
+155,740,1923,4965933,1,$ Oro De 6 D.,Chile,Japan
+155,740,1924,7175235,1,$ Oro De 6 D.,Chile,Japan
+155,740,1925,10393287,1,$ Oro De 6 D.,Chile,Japan
+155,740,1926,8130123,1,$ Oro De 6 D.,Chile,Japan
+155,740,1927,8060063,1,$ Oro De 6 D.,Chile,Japan
+155,740,1928,9381139,1,$ Oro De 6 D.,Chile,Japan
+155,740,1929,12430197,1,$ Oro De 6 D.,Chile,Japan
+155,740,1930,11321098,1,$ Oro De 6 D.,Chile,Japan
+155,740,1931,4268721,1,$ Oro De 6 D.,Chile,Japan
+155,740,1932,1204005,1,$ Oro De 6D,Chile,Japan
+155,740,1933,1991045,1,$ Oro De 6D,Chile,Japan
+155,740,1934,8503885,1,$6 D Oro,Chile,Japan
+155,740,1935,11121496,1,,Chile,Japan
+155,740,1936,9936914,1,,Chile,Japan
+155,740,1937,11096571,1,,Chile,Japan
+155,740,1938,12517877,1,$ 6 D,Chile,Japan
+155,740,1939,15310647,1,$ 6 D,Chile,Japan
+155,740,1940,27909503,1,$ 6 D,Chile,Japan
+155,740,1941,24634797,1,$ 6 D,Chile,Japan
+155,740,1942,6296179,1,$ 6 D,Chile,Japan
+155,740,1943,12562,1,$ 6 D,Chile,Japan
+155,740,1944,280875,1,$ 6 D,Chile,Japan
+155,740,1945,0,1,$ 6 D,Chile,Japan
+155,740,1946,0,1,$ 6 D,Chile,Japan
+155,740,1947,0,1,$ 6 D,Chile,Japan
+155,740,1948,9712,1,$ 6 D,Chile,Japan
+155,740,1949,786881,1,$ 6 D,Chile,Japan
+155,750,1906,4815548,1,$ De 18 D,Chile,India
+155,750,1907,3986616,1,$ De 18 D,Chile,India
+155,750,1908,7583264,1,$ De 18 D,Chile,India
+155,750,1909,6990430,1,$ De 18 D,Chile,India
+155,750,1910,11008903,1,$ De 18 D,Chile,India
+155,750,1911,6104645,1,$ De 18 D,Chile,India
+155,750,1912,9144199,1,$ De 18 D,Chile,India
+155,750,1914,5423211,1,,Chile,India
+155,750,1915,7585315,1,$ De 18D,Chile,India
+155,750,1916,12484146,1,$ De 18D,Chile,India
+155,750,1917,14632423,1,$ De 18D,Chile,India
+155,750,1918,18708548,1,$ De 18D,Chile,India
+155,750,1919,75474699,1,$ Oro De 6 D.,Chile,India
+155,750,1920,72444855,1,$ Oro De 6 D.,Chile,India
+155,750,1921,94087806,1,$ Oro De 6 D.,Chile,India
+155,750,1922,10082943,1,$ Oro De 6 D.,Chile,India
+155,750,1923,24660135,1,$ Oro De 6 D.,Chile,India
+155,750,1924,61796151,1,$ Oro De 6 D.,Chile,India
+155,750,1925,63380703,1,$ Oro De 6 D.,Chile,India
+155,750,1926,69168711,1,$ Oro De 6 D.,Chile,India
+155,750,1927,51335416,1,$ Oro De 6 D.,Chile,India
+155,750,1928,58285699,1,$ Oro De 6 D.,Chile,India
+155,750,1929,57138895,1,$ Oro De 6 D.,Chile,India
+155,750,1930,34049074,1,$ Oro De 6 D.,Chile,India
+155,750,1931,7713648,1,$ Oro De 6 D.,Chile,India
+155,750,1932,2971752,1,$ Oro De 6D,Chile,India
+155,750,1933,5181784,1,$ Oro De 6D,Chile,India
+155,750,1934,2540307,1,$6 D Oro,Chile,India
+155,750,1935,4946732,1,,Chile,India
+155,750,1936,6341057,1,,Chile,India
+155,750,1937,5134441,1,,Chile,India
+155,750,1938,5500091,1,$ 6 D,Chile,India
+155,750,1939,4850435,1,$ 6 D,Chile,India
+155,750,1940,5172942,1,$ 6 D,Chile,India
+155,750,1941,6894744,1,$ 6 D,Chile,India
+155,750,1942,7214205,1,$ 6 D,Chile,India
+155,750,1943,4380760,1,$ 6 D,Chile,India
+155,750,1944,4830009,1,$ 6 D,Chile,India
+155,750,1945,4599792,1,$ 6 D,Chile,India
+155,750,1946,6264135,1,$ 6 D,Chile,India
+155,750,1947,11622169,1,$ 6 D,Chile,India
+155,750,1948,20662222,1,$ 6 D,Chile,India
+155,750,1949,17361826,1,$ 6 D,Chile,India
+155,775,1906,0,1,$ De 18 D,Chile,Myanmar
+155,775,1907,0,1,$ De 18 D,Chile,Myanmar
+155,775,1908,0,1,$ De 18 D,Chile,Myanmar
+155,775,1909,0,1,$ De 18 D,Chile,Myanmar
+155,775,1910,0,1,$ De 18 D,Chile,Myanmar
+155,775,1911,0,1,$ De 18 D,Chile,Myanmar
+155,775,1912,0,1,$ De 18 D,Chile,Myanmar
+155,775,1914,0,1,,Chile,Myanmar
+155,775,1915,0,1,$ De 18D,Chile,Myanmar
+155,775,1916,0,1,$ De 18D,Chile,Myanmar
+155,775,1917,0,1,$ De 18D,Chile,Myanmar
+155,775,1918,0,1,$ De 18D,Chile,Myanmar
+155,775,1919,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1920,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1921,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1922,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1923,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1924,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1925,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1926,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1927,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1928,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1929,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1930,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1931,0,1,$ Oro De 6 D.,Chile,Myanmar
+155,775,1932,0,1,$ Oro De 6D,Chile,Myanmar
+155,775,1933,0,1,$ Oro De 6D,Chile,Myanmar
+155,775,1934,0,1,$6 D Oro,Chile,Myanmar
+155,775,1935,0,1,,Chile,Myanmar
+155,775,1936,0,1,,Chile,Myanmar
+155,775,1937,0,1,,Chile,Myanmar
+155,775,1938,8005,1,$ 6 D,Chile,Myanmar
+155,775,1939,0,1,$ 6 D,Chile,Myanmar
+155,775,1940,0,1,$ 6 D,Chile,Myanmar
+155,775,1941,0,1,$ 6 D,Chile,Myanmar
+155,775,1942,0,1,$ 6 D,Chile,Myanmar
+155,775,1943,0,1,$ 6 D,Chile,Myanmar
+155,775,1944,0,1,$ 6 D,Chile,Myanmar
+155,775,1945,0,1,$ 6 D,Chile,Myanmar
+155,775,1946,0,1,$ 6 D,Chile,Myanmar
+155,775,1947,0,1,$ 6 D,Chile,Myanmar
+155,775,1948,0,1,$ 6 D,Chile,Myanmar
+155,775,1949,0,1,$ 6 D,Chile,Myanmar
+155,780,1906,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1907,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1908,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1909,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1910,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1911,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1912,0,1,$ De 18 D,Chile,Sri Lanka
+155,780,1914,0,1,,Chile,Sri Lanka
+155,780,1915,31752,1,$ De 18D,Chile,Sri Lanka
+155,780,1916,0,1,$ De 18D,Chile,Sri Lanka
+155,780,1917,0,1,$ De 18D,Chile,Sri Lanka
+155,780,1918,0,1,$ De 18D,Chile,Sri Lanka
+155,780,1919,0,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1920,0,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1921,0,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1922,3600,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1923,3660,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1924,119625,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1925,236052,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1926,459836,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1927,258482,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1928,609627,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1929,671938,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1930,1006687,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1931,857518,1,$ Oro De 6 D.,Chile,Sri Lanka
+155,780,1932,285381,1,$ Oro De 6D,Chile,Sri Lanka
+155,780,1933,78553,1,$ Oro De 6D,Chile,Sri Lanka
+155,780,1934,124735,1,$6 D Oro,Chile,Sri Lanka
+155,780,1935,141078,1,,Chile,Sri Lanka
+155,780,1936,288595,1,,Chile,Sri Lanka
+155,780,1937,315733,1,,Chile,Sri Lanka
+155,780,1938,348826,1,$ 6 D,Chile,Sri Lanka
+155,780,1939,415392,1,$ 6 D,Chile,Sri Lanka
+155,780,1940,226681,1,$ 6 D,Chile,Sri Lanka
+155,780,1941,21076,1,$ 6 D,Chile,Sri Lanka
+155,780,1942,269102,1,$ 6 D,Chile,Sri Lanka
+155,780,1943,883032,1,$ 6 D,Chile,Sri Lanka
+155,780,1944,700782,1,$ 6 D,Chile,Sri Lanka
+155,780,1945,287072,1,$ 6 D,Chile,Sri Lanka
+155,780,1946,1519297,1,$ 6 D,Chile,Sri Lanka
+155,780,1947,845369,1,$ 6 D,Chile,Sri Lanka
+155,780,1948,984843,1,$ 6 D,Chile,Sri Lanka
+155,780,1949,558683,1,$ 6 D,Chile,Sri Lanka
+155,800,1906,0,1,$ De 18 D,Chile,Thailand
+155,800,1907,0,1,$ De 18 D,Chile,Thailand
+155,800,1908,0,1,$ De 18 D,Chile,Thailand
+155,800,1909,0,1,$ De 18 D,Chile,Thailand
+155,800,1910,0,1,$ De 18 D,Chile,Thailand
+155,800,1911,0,1,$ De 18 D,Chile,Thailand
+155,800,1912,0,1,$ De 18 D,Chile,Thailand
+155,800,1914,0,1,,Chile,Thailand
+155,800,1915,68047,1,$ De 18D,Chile,Thailand
+155,800,1916,2154,1,$ De 18D,Chile,Thailand
+155,800,1917,2620,1,$ De 18D,Chile,Thailand
+155,800,1918,43108,1,$ De 18D,Chile,Thailand
+155,800,1919,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1920,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1921,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1922,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1923,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1924,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1925,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1926,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1927,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1928,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1929,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1930,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1931,0,1,$ Oro De 6 D.,Chile,Thailand
+155,800,1932,57649,1,$ Oro De 6D,Chile,Thailand
+155,800,1933,0,1,$ Oro De 6D,Chile,Thailand
+155,800,1934,0,1,$6 D Oro,Chile,Thailand
+155,800,1935,14856,1,,Chile,Thailand
+155,800,1936,0,1,,Chile,Thailand
+155,800,1937,0,1,,Chile,Thailand
+155,800,1938,0,1,$ 6 D,Chile,Thailand
+155,800,1939,0,1,$ 6 D,Chile,Thailand
+155,800,1940,6,1,$ 6 D,Chile,Thailand
+155,800,1941,232,1,$ 6 D,Chile,Thailand
+155,800,1942,0,1,$ 6 D,Chile,Thailand
+155,800,1943,0,1,$ 6 D,Chile,Thailand
+155,800,1944,0,1,$ 6 D,Chile,Thailand
+155,800,1945,0,1,$ 6 D,Chile,Thailand
+155,800,1946,0,1,$ 6 D,Chile,Thailand
+155,800,1947,0,1,$ 6 D,Chile,Thailand
+155,800,1948,0,1,$ 6 D,Chile,Thailand
+155,800,1949,0,1,$ 6 D,Chile,Thailand
+155,810,1906,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1907,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1908,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1909,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1910,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1911,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1912,0,1,$ De 18 D,Chile,French Indo-China
+155,810,1914,3326,1,,Chile,French Indo-China
+155,810,1915,17129,1,$ De 18D,Chile,French Indo-China
+155,810,1916,0,1,$ De 18D,Chile,French Indo-China
+155,810,1917,0,1,$ De 18D,Chile,French Indo-China
+155,810,1918,0,1,$ De 18D,Chile,French Indo-China
+155,810,1919,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1920,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1921,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1922,3300,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1923,10800,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1924,1917,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1925,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1926,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1927,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1928,0,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1929,83838,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1930,399127,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1931,71671,1,$ Oro De 6 D.,Chile,French Indo-China
+155,810,1932,26431,1,$ Oro De 6D,Chile,French Indo-China
+155,810,1933,0,1,$ Oro De 6D,Chile,French Indo-China
+155,810,1934,17739,1,$6 D Oro,Chile,French Indo-China
+155,810,1935,220896,1,,Chile,French Indo-China
+155,810,1936,178890,1,,Chile,French Indo-China
+155,810,1937,266983,1,,Chile,French Indo-China
+155,810,1938,551270,1,$ 6 D,Chile,French Indo-China
+155,810,1939,380522,1,$ 6 D,Chile,French Indo-China
+155,810,1940,275977,1,$ 6 D,Chile,French Indo-China
+155,810,1941,97598,1,$ 6 D,Chile,French Indo-China
+155,810,1942,561971,1,$ 6 D,Chile,French Indo-China
+155,810,1943,0,1,$ 6 D,Chile,French Indo-China
+155,810,1944,0,1,$ 6 D,Chile,French Indo-China
+155,810,1945,0,1,$ 6 D,Chile,French Indo-China
+155,810,1946,53533,1,$ 6 D,Chile,French Indo-China
+155,810,1947,141618,1,$ 6 D,Chile,French Indo-China
+155,810,1948,180927,1,$ 6 D,Chile,French Indo-China
+155,810,1949,405366,1,$ 6 D,Chile,French Indo-China
+155,840,1906,0,1,$ De 18 D,Chile,Philippines
+155,840,1907,0,1,$ De 18 D,Chile,Philippines
+155,840,1908,0,1,$ De 18 D,Chile,Philippines
+155,840,1909,0,1,$ De 18 D,Chile,Philippines
+155,840,1910,0,1,$ De 18 D,Chile,Philippines
+155,840,1911,0,1,$ De 18 D,Chile,Philippines
+155,840,1912,244,1,$ De 18 D,Chile,Philippines
+155,840,1914,0,1,,Chile,Philippines
+155,840,1915,0,1,$ De 18D,Chile,Philippines
+155,840,1916,0,1,$ De 18D,Chile,Philippines
+155,840,1917,159,1,$ De 18D,Chile,Philippines
+155,840,1918,10,1,$ De 18D,Chile,Philippines
+155,840,1919,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1920,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1921,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1922,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1923,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1924,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1925,456,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1926,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1927,0,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1928,39045,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1929,32310,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1930,4254,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1931,9365,1,$ Oro De 6 D.,Chile,Philippines
+155,840,1932,5588,1,$ Oro De 6D,Chile,Philippines
+155,840,1933,0,1,$ Oro De 6D,Chile,Philippines
+155,840,1934,2654,1,$6 D Oro,Chile,Philippines
+155,840,1935,37576,1,,Chile,Philippines
+155,840,1936,30802,1,,Chile,Philippines
+155,840,1937,21051,1,,Chile,Philippines
+155,840,1938,245768,1,$ 6 D,Chile,Philippines
+155,840,1939,610108,1,$ 6 D,Chile,Philippines
+155,840,1940,120178,1,$ 6 D,Chile,Philippines
+155,840,1941,322058,1,$ 6 D,Chile,Philippines
+155,840,1942,79329,1,$ 6 D,Chile,Philippines
+155,840,1943,16737,1,$ 6 D,Chile,Philippines
+155,840,1944,410,1,$ 6 D,Chile,Philippines
+155,840,1945,0,1,$ 6 D,Chile,Philippines
+155,840,1946,0,1,$ 6 D,Chile,Philippines
+155,840,1947,46723,1,$ 6 D,Chile,Philippines
+155,840,1948,714758,1,$ 6 D,Chile,Philippines
+155,840,1949,130405,1,$ 6 D,Chile,Philippines
+155,900,1906,9488207,1,$ De 18 D,Chile,Australia
+155,900,1907,7397112,1,$ De 18 D,Chile,Australia
+155,900,1908,17168811,1,$ De 18 D,Chile,Australia
+155,900,1909,8750928,1,$ De 18 D,Chile,Australia
+155,900,1910,7453853,1,$ De 18 D,Chile,Australia
+155,900,1911,6056240,1,$ De 18 D,Chile,Australia
+155,900,1912,8273280,1,$ De 18 D,Chile,Australia
+155,900,1914,17176382,1,,Chile,Australia
+155,900,1915,3298099,1,$ De 18D,Chile,Australia
+155,900,1916,1244254,1,$ De 18D,Chile,Australia
+155,900,1917,1145375,1,$ De 18D,Chile,Australia
+155,900,1918,3681908,1,$ De 18D,Chile,Australia
+155,900,1919,395964,1,$ Oro De 6 D.,Chile,Australia
+155,900,1920,2404446,1,$ Oro De 6 D.,Chile,Australia
+155,900,1921,3957180,1,$ Oro De 6 D.,Chile,Australia
+155,900,1922,945024,1,$ Oro De 6 D.,Chile,Australia
+155,900,1923,3706230,1,$ Oro De 6 D.,Chile,Australia
+155,900,1924,2861163,1,$ Oro De 6 D.,Chile,Australia
+155,900,1925,2512587,1,$ Oro De 6 D.,Chile,Australia
+155,900,1926,162808,1,$ Oro De 6 D.,Chile,Australia
+155,900,1927,169414,1,$ Oro De 6 D.,Chile,Australia
+155,900,1928,106945,1,$ Oro De 6 D.,Chile,Australia
+155,900,1929,17127,1,$ Oro De 6 D.,Chile,Australia
+155,900,1930,6420,1,$ Oro De 6 D.,Chile,Australia
+155,900,1931,482,1,$ Oro De 6 D.,Chile,Australia
+155,900,1932,6155,1,$ Oro De 6D,Chile,Australia
+155,900,1933,1570,1,$ Oro De 6D,Chile,Australia
+155,900,1934,13668,1,$6 D Oro,Chile,Australia
+155,900,1935,10788,1,,Chile,Australia
+155,900,1936,818,1,,Chile,Australia
+155,900,1937,1631,1,,Chile,Australia
+155,900,1938,1698,1,$ 6 D,Chile,Australia
+155,900,1939,6109,1,$ 6 D,Chile,Australia
+155,900,1940,50,1,$ 6 D,Chile,Australia
+155,900,1941,347,1,$ 6 D,Chile,Australia
+155,900,1942,330,1,$ 6 D,Chile,Australia
+155,900,1943,379179,1,$ 6 D,Chile,Australia
+155,900,1944,0,1,$ 6 D,Chile,Australia
+155,900,1945,25,1,$ 6 D,Chile,Australia
+155,900,1946,13503,1,$ 6 D,Chile,Australia
+155,900,1947,2523937,1,$ 6 D,Chile,Australia
+155,900,1948,472809,1,$ 6 D,Chile,Australia
+155,900,1949,572672,1,$ 6 D,Chile,Australia
+155,920,1906,0,1,$ De 18 D,Chile,New Zealand
+155,920,1907,0,1,$ De 18 D,Chile,New Zealand
+155,920,1908,0,1,$ De 18 D,Chile,New Zealand
+155,920,1909,0,1,$ De 18 D,Chile,New Zealand
+155,920,1910,0,1,$ De 18 D,Chile,New Zealand
+155,920,1911,81872,1,$ De 18 D,Chile,New Zealand
+155,920,1912,20081,1,$ De 18 D,Chile,New Zealand
+155,920,1914,0,1,,Chile,New Zealand
+155,920,1915,0,1,$ De 18D,Chile,New Zealand
+155,920,1916,0,1,$ De 18D,Chile,New Zealand
+155,920,1917,0,1,$ De 18D,Chile,New Zealand
+155,920,1918,0,1,$ De 18D,Chile,New Zealand
+155,920,1919,0,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1920,355749,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1921,3141,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1922,0,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1923,22620,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1924,39675,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1925,1350,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1926,214176,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1927,778960,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1928,597680,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1929,524473,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1930,76362,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1931,58221,1,$ Oro De 6 D.,Chile,New Zealand
+155,920,1932,346031,1,$ Oro De 6D,Chile,New Zealand
+155,920,1933,0,1,$ Oro De 6D,Chile,New Zealand
+155,920,1934,181365,1,$6 D Oro,Chile,New Zealand
+155,920,1935,44365,1,,Chile,New Zealand
+155,920,1936,95688,1,,Chile,New Zealand
+155,920,1937,89194,1,,Chile,New Zealand
+155,920,1938,33319,1,$ 6 D,Chile,New Zealand
+155,920,1939,6925,1,$ 6 D,Chile,New Zealand
+155,920,1940,2487,1,$ 6 D,Chile,New Zealand
+155,920,1941,13287,1,$ 6 D,Chile,New Zealand
+155,920,1942,17743,1,$ 6 D,Chile,New Zealand
+155,920,1943,44157,1,$ 6 D,Chile,New Zealand
+155,920,1944,0,1,$ 6 D,Chile,New Zealand
+155,920,1945,5521,1,$ 6 D,Chile,New Zealand
+155,920,1946,58148,1,$ 6 D,Chile,New Zealand
+155,920,1947,166801,1,$ 6 D,Chile,New Zealand
+155,920,1948,21131,1,$ 6 D,Chile,New Zealand
+155,920,1949,47903,1,$ 6 D,Chile,New Zealand
+155,1050,1906,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1907,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1908,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1909,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1910,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1911,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1912,0,1,$ De 18 D,Chile,British West Indies
+155,1050,1914,0,1,,Chile,British West Indies
+155,1050,1915,0,1,$ De 18D,Chile,British West Indies
+155,1050,1916,4280,1,$ De 18D,Chile,British West Indies
+155,1050,1917,0,1,$ De 18D,Chile,British West Indies
+155,1050,1918,0,1,$ De 18D,Chile,British West Indies
+155,1050,1919,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1920,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1921,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1922,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1923,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1924,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1925,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1926,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1927,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1928,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1929,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1930,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1931,0,1,$ Oro De 6 D.,Chile,British West Indies
+155,1050,1932,0,1,$ Oro De 6D,Chile,British West Indies
+155,1050,1933,0,1,$ Oro De 6D,Chile,British West Indies
+155,1050,1934,0,1,$6 D Oro,Chile,British West Indies
+155,1050,1935,0,1,,Chile,British West Indies
+155,1050,1936,0,1,,Chile,British West Indies
+155,1050,1937,0,1,,Chile,British West Indies
+155,1050,1938,0,1,$ 6 D,Chile,British West Indies
+155,1050,1939,0,1,$ 6 D,Chile,British West Indies
+155,1050,1940,0,1,$ 6 D,Chile,British West Indies
+155,1050,1941,0,1,$ 6 D,Chile,British West Indies
+155,1050,1942,0,1,$ 6 D,Chile,British West Indies
+155,1050,1943,0,1,$ 6 D,Chile,British West Indies
+155,1050,1944,0,1,$ 6 D,Chile,British West Indies
+155,1050,1945,0,1,$ 6 D,Chile,British West Indies
+155,1050,1946,0,1,$ 6 D,Chile,British West Indies
+155,1050,1947,0,1,$ 6 D,Chile,British West Indies
+155,1050,1948,0,1,$ 6 D,Chile,British West Indies
+155,1050,1949,0,1,$ 6 D,Chile,British West Indies
+155,1065,1906,0,1,$ De 18 D,Chile,Curacao
+155,1065,1907,0,1,$ De 18 D,Chile,Curacao
+155,1065,1908,0,1,$ De 18 D,Chile,Curacao
+155,1065,1909,0,1,$ De 18 D,Chile,Curacao
+155,1065,1910,0,1,$ De 18 D,Chile,Curacao
+155,1065,1911,0,1,$ De 18 D,Chile,Curacao
+155,1065,1912,0,1,$ De 18 D,Chile,Curacao
+155,1065,1914,0,1,,Chile,Curacao
+155,1065,1915,0,1,$ De 18D,Chile,Curacao
+155,1065,1916,0,1,$ De 18D,Chile,Curacao
+155,1065,1917,0,1,$ De 18D,Chile,Curacao
+155,1065,1918,0,1,$ De 18D,Chile,Curacao
+155,1065,1919,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1920,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1921,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1922,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1923,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1924,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1925,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1926,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1927,0,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1928,59966,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1929,635097,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1930,146580,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1931,1231562,1,$ Oro De 6 D.,Chile,Curacao
+155,1065,1932,2251655,1,$ Oro De 6D,Chile,Curacao
+155,1065,1933,1314594,1,$ Oro De 6D,Chile,Curacao
+155,1065,1934,621540,1,$6 D Oro,Chile,Curacao
+155,1065,1935,1545935,1,,Chile,Curacao
+155,1065,1936,483314,1,,Chile,Curacao
+155,1065,1937,3364319,1,,Chile,Curacao
+155,1065,1938,6740409,1,$ 6 D,Chile,Curacao
+155,1065,1939,5589934,1,$ 6 D,Chile,Curacao
+155,1065,1940,11182629,1,$ 6 D,Chile,Curacao
+155,1065,1941,9809304,1,$ 6 D,Chile,Curacao
+155,1065,1942,4445421,1,$ 6 D,Chile,Curacao
+155,1065,1943,3076226,1,$ 6 D,Chile,Curacao
+155,1065,1944,1770208,1,$ 6 D,Chile,Curacao
+155,1065,1945,11557283,1,$ 6 D,Chile,Curacao
+155,1065,1946,36803431,1,$ 6 D,Chile,Curacao
+155,1065,1947,53693674,1,$ 6 D,Chile,Curacao
+155,1065,1948,75599285,1,$ 6 D,Chile,Curacao
+155,1065,1949,38482887,1,$ 6 D,Chile,Curacao
+155,1163,1906,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1907,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1908,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1909,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1910,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1911,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1912,0,1,$ De 18 D,Chile,Falkland Islands
+155,1163,1914,0,1,,Chile,Falkland Islands
+155,1163,1915,0,1,$ De 18D,Chile,Falkland Islands
+155,1163,1916,0,1,$ De 18D,Chile,Falkland Islands
+155,1163,1917,0,1,$ De 18D,Chile,Falkland Islands
+155,1163,1918,0,1,$ De 18D,Chile,Falkland Islands
+155,1163,1919,0,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1920,0,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1921,1725,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1922,0,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1923,0,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1924,5643,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1925,219699,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1926,78644,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1927,37200,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1928,27370,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1929,120,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1930,3530,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1931,8000,1,$ Oro De 6 D.,Chile,Falkland Islands
+155,1163,1932,7380,1,$ Oro De 6D,Chile,Falkland Islands
+155,1163,1933,17865,1,$ Oro De 6D,Chile,Falkland Islands
+155,1163,1934,19333,1,$6 D Oro,Chile,Falkland Islands
+155,1163,1935,13689,1,,Chile,Falkland Islands
+155,1163,1936,39246,1,,Chile,Falkland Islands
+155,1163,1937,294569,1,,Chile,Falkland Islands
+155,1163,1938,235164,1,$ 6 D,Chile,Falkland Islands
+155,1163,1939,191064,1,$ 6 D,Chile,Falkland Islands
+155,1163,1940,91988,1,$ 6 D,Chile,Falkland Islands
+155,1163,1941,6850,1,$ 6 D,Chile,Falkland Islands
+155,1163,1942,0,1,$ 6 D,Chile,Falkland Islands
+155,1163,1943,39,1,$ 6 D,Chile,Falkland Islands
+155,1163,1944,0,1,$ 6 D,Chile,Falkland Islands
+155,1163,1945,528,1,$ 6 D,Chile,Falkland Islands
+155,1163,1946,0,1,$ 6 D,Chile,Falkland Islands
+155,1163,1947,0,1,$ 6 D,Chile,Falkland Islands
+155,1163,1948,0,1,$ 6 D,Chile,Falkland Islands
+155,1163,1949,42054,1,$ 6 D,Chile,Falkland Islands
+155,6203,1906,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1907,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1908,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1909,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1910,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1911,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1912,0,1,$ De 18 D,Chile,Tripoli
+155,6203,1914,0,1,,Chile,Tripoli
+155,6203,1915,0,1,$ De 18D,Chile,Tripoli
+155,6203,1916,0,1,$ De 18D,Chile,Tripoli
+155,6203,1917,0,1,$ De 18D,Chile,Tripoli
+155,6203,1918,0,1,$ De 18D,Chile,Tripoli
+155,6203,1919,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1920,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1921,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1922,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1923,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1924,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1925,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1926,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1927,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1928,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1929,0,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1930,60,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1931,10,1,$ Oro De 6 D.,Chile,Tripoli
+155,6203,1932,0,1,$ Oro De 6D,Chile,Tripoli
+155,6203,1933,0,1,$ Oro De 6D,Chile,Tripoli
+155,6203,1934,0,1,$6 D Oro,Chile,Tripoli
+155,6203,1935,0,1,,Chile,Tripoli
+155,6203,1936,0,1,,Chile,Tripoli
+155,6203,1937,0,1,,Chile,Tripoli
+155,6203,1938,0,1,$ 6 D,Chile,Tripoli
+155,6203,1939,0,1,$ 6 D,Chile,Tripoli
+155,6203,1940,0,1,$ 6 D,Chile,Tripoli
+155,6203,1941,0,1,$ 6 D,Chile,Tripoli
+155,6203,1942,0,1,$ 6 D,Chile,Tripoli
+155,6203,1943,0,1,$ 6 D,Chile,Tripoli
+155,6203,1944,0,1,$ 6 D,Chile,Tripoli
+155,6203,1945,0,1,$ 6 D,Chile,Tripoli
+155,6203,1946,0,1,$ 6 D,Chile,Tripoli
+155,6203,1947,0,1,$ 6 D,Chile,Tripoli
+155,6203,1948,0,1,$ 6 D,Chile,Tripoli
+155,6203,1949,0,1,$ 6 D,Chile,Tripoli
+155,8501,1906,0,1,$ De 18 D,Chile,Java
+155,8501,1907,0,1,$ De 18 D,Chile,Java
+155,8501,1908,0,1,$ De 18 D,Chile,Java
+155,8501,1909,0,1,$ De 18 D,Chile,Java
+155,8501,1910,0,1,$ De 18 D,Chile,Java
+155,8501,1911,0,1,$ De 18 D,Chile,Java
+155,8501,1912,0,1,$ De 18 D,Chile,Java
+155,8501,1914,16819,1,,Chile,Java
+155,8501,1915,2631,1,$ De 18D,Chile,Java
+155,8501,1916,0,1,$ De 18D,Chile,Java
+155,8501,1917,0,1,$ De 18D,Chile,Java
+155,8501,1918,0,1,$ De 18D,Chile,Java
+155,8501,1919,0,1,$ Oro De 6 D.,Chile,Java
+155,8501,1920,106713,1,$ Oro De 6 D.,Chile,Java
+155,8501,1921,46908,1,$ Oro De 6 D.,Chile,Java
+155,8501,1922,0,1,$ Oro De 6 D.,Chile,Java
+155,8501,1923,5040,1,$ Oro De 6 D.,Chile,Java
+155,8501,1924,30807,1,$ Oro De 6 D.,Chile,Java
+155,8501,1925,420546,1,$ Oro De 6 D.,Chile,Java
+155,8501,1926,315274,1,$ Oro De 6 D.,Chile,Java
+155,8501,1927,695496,1,$ Oro De 6 D.,Chile,Java
+155,8501,1928,2743769,1,$ Oro De 6 D.,Chile,Java
+155,8501,1929,2654631,1,$ Oro De 6 D.,Chile,Java
+155,8501,1930,2837791,1,$ Oro De 6 D.,Chile,Java
+155,8501,1931,3531100,1,$ Oro De 6 D.,Chile,Java
+155,8501,1932,2059760,1,$ Oro De 6D,Chile,Java
+155,8501,1933,1304988,1,$ Oro De 6D,Chile,Java
+155,8501,1934,1978341,1,$6 D Oro,Chile,Java
+155,8501,1935,3068444,1,,Chile,Java
+155,8501,1936,4126136,1,,Chile,Java
+155,8501,1937,6831668,1,,Chile,Java
+155,8501,1938,5338376,1,$ 6 D,Chile,Java
+155,8501,1939,6175612,1,$ 6 D,Chile,Java
+155,8501,1940,4495188,1,$ 6 D,Chile,Java
+155,8501,1941,7021814,1,$ 6 D,Chile,Java
+155,8501,1942,3585844,1,$ 6 D,Chile,Java
+155,8501,1943,0,1,$ 6 D,Chile,Java
+155,8501,1944,0,1,$ 6 D,Chile,Java
+155,8501,1945,0,1,$ 6 D,Chile,Java
+155,8501,1946,0,1,$ 6 D,Chile,Java
+155,8501,1947,0,1,$ 6 D,Chile,Java
+155,8501,1948,21612,1,$ 6 D,Chile,Java
+155,8501,1949,226751,1,$ 6 D,Chile,Java
+155,8502,1906,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1907,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1908,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1909,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1910,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1911,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1912,0,1,$ De 18 D,Chile,Sumatra
+155,8502,1914,0,1,,Chile,Sumatra
+155,8502,1915,0,1,$ De 18D,Chile,Sumatra
+155,8502,1916,0,1,$ De 18D,Chile,Sumatra
+155,8502,1917,0,1,$ De 18D,Chile,Sumatra
+155,8502,1918,0,1,$ De 18D,Chile,Sumatra
+155,8502,1919,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1920,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1921,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1922,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1923,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1924,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1925,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1926,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1927,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1928,12460,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1929,0,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1930,39225,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1931,108987,1,$ Oro De 6 D.,Chile,Sumatra
+155,8502,1932,75330,1,$ Oro De 6D,Chile,Sumatra
+155,8502,1933,1656,1,$ Oro De 6D,Chile,Sumatra
+155,8502,1934,1573,1,$6 D Oro,Chile,Sumatra
+155,8502,1935,2458,1,,Chile,Sumatra
+155,8502,1936,26462,1,,Chile,Sumatra
+155,8502,1937,269607,1,,Chile,Sumatra
+155,8502,1938,242582,1,$ 6 D,Chile,Sumatra
+155,8502,1939,162175,1,$ 6 D,Chile,Sumatra
+155,8502,1940,688,1,$ 6 D,Chile,Sumatra
+155,8502,1941,77877,1,$ 6 D,Chile,Sumatra
+155,8502,1942,0,1,$ 6 D,Chile,Sumatra
+155,8502,1943,0,1,$ 6 D,Chile,Sumatra
+155,8502,1944,0,1,$ 6 D,Chile,Sumatra
+155,8502,1945,0,1,$ 6 D,Chile,Sumatra
+155,8502,1946,0,1,$ 6 D,Chile,Sumatra
+155,8502,1947,0,1,$ 6 D,Chile,Sumatra
+155,8502,1948,67,1,$ 6 D,Chile,Sumatra
+155,8502,1949,6744,1,$ 6 D,Chile,Sumatra
+155,,1906,236969879,1,$ De 18 D,Chile,
+155,,1907,293199303,1,$ De 18 D,Chile,
+155,,1908,267246519,1,$ De 18 D,Chile,
+155,,1909,499408635,1,$ De 18 D,Chile,
+155,,1910,297221724,1,$ De 18 D,Chile,
+155,,1911,349357911,1,$ De 18 D,Chile,
+155,,1912,334783397,1,$ De 18 D,Chile,
+155,,1914,270072518,1,,Chile,
+155,,1915,153328891,1,$ De 18D,Chile,
+155,,1916,224805906,1,$ De 18D,Chile,
+155,,1917,355180027,1,$ De 18D,Chile,
+155,,1918,436159065,1,$ De 18D,Chile,
+155,,1919,1204116336,1,$ Oro De 6 D.,Chile,
+155,,1920,1365488013,1,$ Oro De 6 D.,Chile,
+155,,1921,1144009005,1,$ Oro De 6 D.,Chile,
+155,,1922,711807345,1,$ Oro De 6 D.,Chile,
+155,,1923,987939582,1,$ Oro De 6 D.,Chile,
+155,,1924,1089886515,1,$ Oro De 6 D.,Chile,
+155,,1925,1223386476,1,$ Oro De 6 D.,Chile,
+155,,1926,1292673783,1,$ Oro De 6 D.,Chile,
+155,,1927,1072995489,1,$ Oro De 6 D.,Chile,
+155,,1928,1200044489,1,$ Oro De 6 D.,Chile,
+155,,1929,1618553716,1,$ Oro De 6 D.,Chile,
+155,,1930,1401840555,1,$ Oro De 6 D.,Chile,
+155,,1931,706316431,1,$ Oro De 6 D.,Chile,
+155,,1932,213958767,1,$ Oro De 6D,Chile,
+155,,1933,182118221,1,$ Oro De 6D,Chile,
+155,,1934,241836693,1,$6 D Oro,Chile,
+155,,1935,303845238,1,,Chile,
+155,,1936,346981882,1,,Chile,
+155,,1937,428986642,1,,Chile,
+155,,1938,499053787,1,$ 6 D,Chile,
+155,,1939,410806560,1,$ 6 D,Chile,
+155,,1940,507047934,1,$ 6 D,Chile,
+155,,1941,525296458,1,$ 6 D,Chile,
+155,,1942,624015065,1,$ 6 D,Chile,
+155,,1943,637565903,1,$ 6 D,Chile,
+155,,1944,723761487,1,$ 6 D,Chile,
+155,,1945,756381202,1,$ 6 D,Chile,
+155,,1946,954004024,1,$ 6 D,Chile,
+155,,1947,1307614768,1,$ 6 D,Chile,
+155,,1948,1310031726,1,$ 6 D,Chile,
+155,,1949,1477722776,1,$ 6 D,Chile,

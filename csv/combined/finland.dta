@@ -1,0 +1,3341 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency,xr_gfd,xr_gfd_trade
+375,Finland,710,China,1901,0,1,,,
+375,Finland,620,Libya,1901,0,1,,,
+375,Finland,95,Panama,1901,0,1,,,
+375,Finland,465,British West Africa,1901,0,1,,,
+375,Finland,210,Netherlands,1901,0,1,,,
+375,Finland,255,Germany,1901,0,1,,,
+375,Finland,630,Iran,1901,0,1,,,
+375,Finland,92,El Salvador,1901,0,1,,,
+375,Finland,41,Haiti,1901,0,1,,,
+375,Finland,290,Poland,1901,0,1,,,
+375,Finland,580,Madagascar,1901,0,1,,,
+375,Finland,675,Arabia,1901,0,1,,,
+375,Finland,475,Nigeria,1901,0,1,,,
+375,Finland,800,Thailand,1901,0,1,,,
+375,Finland,651,Egypt,1901,0,1,,,
+375,Finland,365,Russia,1901,86114605,1,,,
+375,Finland,730,Korea,1901,0,1,,,
+375,Finland,305,Austria,1901,0,1,,,
+375,Finland,665,West Bank And Gaza,1901,0,1,,,
+375,Finland,100,Colombia,1901,0,1,,,
+375,Finland,212,Luxembourg,1901,0,1,,,
+375,Finland,101,Venezuela,1901,0,1,,,
+375,Finland,652,Syria,1901,0,1,,,
+375,Finland,230,Spain,1901,0,1,,,
+375,Finland,490,"Congo, Dem. Republic",1901,0,1,,,
+375,Finland,93,Nicaragua,1901,0,1,,,
+375,Finland,140,Brazil,1901,0,1,,,
+375,Finland,616,Tunisia,1901,0,1,,,
+375,Finland,135,Peru,1901,0,1,,,
+375,Finland,433,Senegal,1901,0,1,,,
+375,Finland,640,Turkey,1901,0,1,,,
+375,Finland,200,United Kingdom,1901,0,1,,,
+375,Finland,367,Latvia,1901,0,1,,,
+375,Finland,4,Hawaii,1901,0,1,,,
+375,Finland,540,Angola,1901,0,1,,,
+375,Finland,94,Costa Rica,1901,0,1,,,
+375,Finland,3,Alaska,1901,0,1,,,
+375,Finland,360,Romania,1901,0,1,,,
+375,Finland,20,Canada,1901,0,1,,,
+375,Finland,150,Paraguay,1901,0,1,,,
+375,Finland,291,Danzig,1901,0,1,,,
+375,Finland,780,Sri Lanka,1901,0,1,,,
+375,Finland,690,Kuwait,1901,0,1,,,
+375,Finland,80,Belize,1901,0,1,,,
+375,Finland,22,British North America,1901,0,1,,,
+375,Finland,840,Philippines,1901,0,1,,,
+375,Finland,91,Honduras,1901,0,1,,,
+375,Finland,3651,Siberia,1901,0,1,,,
+375,Finland,625,Sudan,1901,0,1,,,
+375,Finland,355,Bulgaria,1901,0,1,,,
+375,Finland,681,Aden,1901,0,1,,,
+375,Finland,645,Iraq,1901,0,1,,,
+375,Finland,401,Madeira,1901,0,1,,,
+375,Finland,345,Yugoslavia,1901,0,1,,,
+375,Finland,8501,Java,1901,0,1,,,
+375,Finland,450,Liberia,1901,0,1,,,
+375,Finland,10,Greenland,1901,0,1,,,
+375,Finland,155,Chile,1901,0,1,,,
+375,Finland,700,Afghanistan,1901,0,1,,,
+375,Finland,315,Czechoslovakia,1901,0,1,,,
+375,Finland,615,Algeria,1901,0,1,,,
+375,Finland,385,Norway,1901,0,1,,,
+375,Finland,366,Estonia,1901,0,1,,,
+375,Finland,70,Mexico,1901,0,1,,,
+375,Finland,900,Australia,1901,0,1,,,
+375,Finland,310,Hungary,1901,0,1,,,
+375,Finland,511,Zanzibar,1901,0,1,,,
+375,Finland,1065,Curacao,1901,0,1,,,
+375,Finland,395,Iceland,1901,0,1,,,
+375,Finland,51,Jamaica,1901,0,1,,,
+375,Finland,352,Cyprus,1901,0,1,,,
+375,Finland,205,Ireland,1901,0,1,,,
+375,Finland,740,Japan,1901,0,1,,,
+375,Finland,225,Switzerland,1901,0,1,,,
+375,Finland,350,Greece,1901,0,1,,,
+375,Finland,325,Italy,1901,0,1,,,
+375,Finland,541,Mozambique,1901,0,1,,,
+375,Finland,,,1901,86114605,1,,,
+375,Finland,590,Mauritius,1901,0,1,,,
+375,Finland,40,Cuba,1901,0,1,,,
+375,Finland,368,Lithuania,1901,0,1,,,
+375,Finland,90,Guatemala,1901,0,1,,,
+375,Finland,560,South Africa,1901,0,1,,,
+375,Finland,165,Uruguay,1901,0,1,,,
+375,Finland,390,Denmark,1901,0,1,,,
+375,Finland,380,Sweden,1901,0,1,,,
+375,Finland,220,France,1901,0,1,,,
+375,Finland,339,Albania,1901,0,1,,,
+375,Finland,145,Bolivia,1901,0,1,,,
+375,Finland,160,Argentina,1901,0,1,,,
+375,Finland,130,Ecuador,1901,0,1,,,
+375,Finland,235,Portugal,1901,0,1,,,
+375,Finland,2,United States,1901,0,1,,,
+375,Finland,530,Ethiopia,1901,0,1,,,
+375,Finland,211,Belgium,1901,0,1,,,
+375,Finland,95,Panama,1902,0,1,,,
+375,Finland,310,Hungary,1902,0,1,,,
+375,Finland,90,Guatemala,1902,0,1,,,
+375,Finland,212,Luxembourg,1902,0,1,,,
+375,Finland,675,Arabia,1902,0,1,,,
+375,Finland,4,Hawaii,1902,0,1,,,
+375,Finland,305,Austria,1902,0,1,,,
+375,Finland,20,Canada,1902,0,1,,,
+375,Finland,800,Thailand,1902,0,1,,,
+375,Finland,210,Netherlands,1902,0,1,,,
+375,Finland,433,Senegal,1902,0,1,,,
+375,Finland,366,Estonia,1902,0,1,,,
+375,Finland,255,Germany,1902,0,1,,,
+375,Finland,530,Ethiopia,1902,0,1,,,
+375,Finland,145,Bolivia,1902,0,1,,,
+375,Finland,,,1902,92400401,1,,,
+375,Finland,130,Ecuador,1902,0,1,,,
+375,Finland,290,Poland,1902,0,1,,,
+375,Finland,615,Algeria,1902,0,1,,,
+375,Finland,325,Italy,1902,0,1,,,
+375,Finland,140,Brazil,1902,0,1,,,
+375,Finland,339,Albania,1902,0,1,,,
+375,Finland,315,Czechoslovakia,1902,0,1,,,
+375,Finland,540,Angola,1902,0,1,,,
+375,Finland,165,Uruguay,1902,0,1,,,
+375,Finland,94,Costa Rica,1902,0,1,,,
+375,Finland,475,Nigeria,1902,0,1,,,
+375,Finland,490,"Congo, Dem. Republic",1902,0,1,,,
+375,Finland,640,Turkey,1902,0,1,,,
+375,Finland,780,Sri Lanka,1902,0,1,,,
+375,Finland,541,Mozambique,1902,0,1,,,
+375,Finland,630,Iran,1902,0,1,,,
+375,Finland,22,British North America,1902,0,1,,,
+375,Finland,365,Russia,1902,92400401,1,,,
+375,Finland,360,Romania,1902,0,1,,,
+375,Finland,511,Zanzibar,1902,0,1,,,
+375,Finland,135,Peru,1902,0,1,,,
+375,Finland,740,Japan,1902,0,1,,,
+375,Finland,645,Iraq,1902,0,1,,,
+375,Finland,560,South Africa,1902,0,1,,,
+375,Finland,211,Belgium,1902,0,1,,,
+375,Finland,235,Portugal,1902,0,1,,,
+375,Finland,2,United States,1902,0,1,,,
+375,Finland,40,Cuba,1902,0,1,,,
+375,Finland,51,Jamaica,1902,0,1,,,
+375,Finland,368,Lithuania,1902,0,1,,,
+375,Finland,10,Greenland,1902,0,1,,,
+375,Finland,580,Madagascar,1902,0,1,,,
+375,Finland,8501,Java,1902,0,1,,,
+375,Finland,700,Afghanistan,1902,0,1,,,
+375,Finland,230,Spain,1902,0,1,,,
+375,Finland,710,China,1902,0,1,,,
+375,Finland,3,Alaska,1902,0,1,,,
+375,Finland,652,Syria,1902,0,1,,,
+375,Finland,291,Danzig,1902,0,1,,,
+375,Finland,93,Nicaragua,1902,0,1,,,
+375,Finland,150,Paraguay,1902,0,1,,,
+375,Finland,625,Sudan,1902,0,1,,,
+375,Finland,620,Libya,1902,0,1,,,
+375,Finland,590,Mauritius,1902,0,1,,,
+375,Finland,3651,Siberia,1902,0,1,,,
+375,Finland,80,Belize,1902,0,1,,,
+375,Finland,225,Switzerland,1902,0,1,,,
+375,Finland,651,Egypt,1902,0,1,,,
+375,Finland,690,Kuwait,1902,0,1,,,
+375,Finland,395,Iceland,1902,0,1,,,
+375,Finland,390,Denmark,1902,0,1,,,
+375,Finland,200,United Kingdom,1902,0,1,,,
+375,Finland,681,Aden,1902,0,1,,,
+375,Finland,355,Bulgaria,1902,0,1,,,
+375,Finland,155,Chile,1902,0,1,,,
+375,Finland,401,Madeira,1902,0,1,,,
+375,Finland,101,Venezuela,1902,0,1,,,
+375,Finland,730,Korea,1902,0,1,,,
+375,Finland,91,Honduras,1902,0,1,,,
+375,Finland,41,Haiti,1902,0,1,,,
+375,Finland,385,Norway,1902,0,1,,,
+375,Finland,352,Cyprus,1902,0,1,,,
+375,Finland,367,Latvia,1902,0,1,,,
+375,Finland,380,Sweden,1902,0,1,,,
+375,Finland,840,Philippines,1902,0,1,,,
+375,Finland,220,France,1902,0,1,,,
+375,Finland,1065,Curacao,1902,0,1,,,
+375,Finland,900,Australia,1902,0,1,,,
+375,Finland,100,Colombia,1902,0,1,,,
+375,Finland,70,Mexico,1902,0,1,,,
+375,Finland,350,Greece,1902,0,1,,,
+375,Finland,665,West Bank And Gaza,1902,0,1,,,
+375,Finland,160,Argentina,1902,0,1,,,
+375,Finland,616,Tunisia,1902,0,1,,,
+375,Finland,450,Liberia,1902,0,1,,,
+375,Finland,92,El Salvador,1902,0,1,,,
+375,Finland,465,British West Africa,1902,0,1,,,
+375,Finland,345,Yugoslavia,1902,0,1,,,
+375,Finland,205,Ireland,1902,0,1,,,
+375,Finland,380,Sweden,1903,11240927,1,,,
+375,Finland,640,Turkey,1903,190,1,,,
+375,Finland,8501,Java,1903,0,1,,,
+375,Finland,291,Danzig,1903,0,1,,,
+375,Finland,345,Yugoslavia,1903,115,1,,,
+375,Finland,22,British North America,1903,0,1,,,
+375,Finland,70,Mexico,1903,0,1,,,
+375,Finland,140,Brazil,1903,1152568,1,,,
+375,Finland,145,Bolivia,1903,0,1,,,
+375,Finland,212,Luxembourg,1903,0,1,,,
+375,Finland,625,Sudan,1903,0,1,,,
+375,Finland,51,Jamaica,1903,0,1,,,
+375,Finland,210,Netherlands,1903,290150,1,,,
+375,Finland,41,Haiti,1903,0,1,,,
+375,Finland,3651,Siberia,1903,0,1,,,
+375,Finland,350,Greece,1903,26,1,,,
+375,Finland,165,Uruguay,1903,0,1,,,
+375,Finland,3,Alaska,1903,0,1,,,
+375,Finland,352,Cyprus,1903,0,1,,,
+375,Finland,91,Honduras,1903,0,1,,,
+375,Finland,690,Kuwait,1903,0,1,,,
+375,Finland,225,Switzerland,1903,411725,1,,,
+375,Finland,740,Japan,1903,0,1,,,
+375,Finland,580,Madagascar,1903,0,1,,,
+375,Finland,367,Latvia,1903,0,1,,,
+375,Finland,90,Guatemala,1903,0,1,,,
+375,Finland,93,Nicaragua,1903,0,1,,,
+375,Finland,541,Mozambique,1903,0,1,,,
+375,Finland,900,Australia,1903,5,1,,,
+375,Finland,155,Chile,1903,0,1,,,
+375,Finland,665,West Bank And Gaza,1903,0,1,,,
+375,Finland,530,Ethiopia,1903,0,1,,,
+375,Finland,135,Peru,1903,0,1,,,
+375,Finland,365,Russia,1903,102126451,1,,,
+375,Finland,200,United Kingdom,1903,27120083,1,,,
+375,Finland,220,France,1903,5620946,1,,,
+375,Finland,325,Italy,1903,435996,1,,,
+375,Finland,652,Syria,1903,0,1,,,
+375,Finland,390,Denmark,1903,10503514,1,,,
+375,Finland,339,Albania,1903,0,1,,,
+375,Finland,100,Colombia,1903,0,1,,,
+375,Finland,10,Greenland,1903,0,1,,,
+375,Finland,305,Austria,1903,0,1,,,
+375,Finland,651,Egypt,1903,0,1,,,
+375,Finland,255,Germany,1903,97462289,1,,,
+375,Finland,450,Liberia,1903,0,1,,,
+375,Finland,590,Mauritius,1903,0,1,,,
+375,Finland,401,Madeira,1903,3034,1,,,
+375,Finland,235,Portugal,1903,191795,1,,,
+375,Finland,205,Ireland,1903,0,1,,,
+375,Finland,230,Spain,1903,1965685,1,,,
+375,Finland,290,Poland,1903,0,1,,,
+375,Finland,681,Aden,1903,0,1,,,
+375,Finland,630,Iran,1903,0,1,,,
+375,Finland,465,British West Africa,1903,0,1,,,
+375,Finland,20,Canada,1903,113,1,,,
+375,Finland,2,United States,1903,1768746,1,,,
+375,Finland,355,Bulgaria,1903,0,1,,,
+375,Finland,800,Thailand,1903,0,1,,,
+375,Finland,511,Zanzibar,1903,0,1,,,
+375,Finland,315,Czechoslovakia,1903,0,1,,,
+375,Finland,4,Hawaii,1903,0,1,,,
+375,Finland,1065,Curacao,1903,0,1,,,
+375,Finland,616,Tunisia,1903,2341,1,,,
+375,Finland,700,Afghanistan,1903,0,1,,,
+375,Finland,840,Philippines,1903,0,1,,,
+375,Finland,490,"Congo, Dem. Republic",1903,0,1,,,
+375,Finland,40,Cuba,1903,0,1,,,
+375,Finland,780,Sri Lanka,1903,0,1,,,
+375,Finland,475,Nigeria,1903,0,1,,,
+375,Finland,150,Paraguay,1903,0,1,,,
+375,Finland,211,Belgium,1903,4820261,1,,,
+375,Finland,,,1903,269199720,1,,,
+375,Finland,360,Romania,1903,10,1,,,
+375,Finland,645,Iraq,1903,0,1,,,
+375,Finland,95,Panama,1903,0,1,,,
+375,Finland,540,Angola,1903,0,1,,,
+375,Finland,130,Ecuador,1903,0,1,,,
+375,Finland,101,Venezuela,1903,0,1,,,
+375,Finland,92,El Salvador,1903,0,1,,,
+375,Finland,560,South Africa,1903,0,1,,,
+375,Finland,395,Iceland,1903,0,1,,,
+375,Finland,710,China,1903,1293,1,,,
+375,Finland,310,Hungary,1903,0,1,,,
+375,Finland,675,Arabia,1903,0,1,,,
+375,Finland,620,Libya,1903,0,1,,,
+375,Finland,160,Argentina,1903,0,1,,,
+375,Finland,385,Norway,1903,650552,1,,,
+375,Finland,366,Estonia,1903,0,1,,,
+375,Finland,730,Korea,1903,3,1,,,
+375,Finland,615,Algeria,1903,2,1,,,
+375,Finland,433,Senegal,1903,0,1,,,
+375,Finland,94,Costa Rica,1903,0,1,,,
+375,Finland,368,Lithuania,1903,0,1,,,
+375,Finland,80,Belize,1903,0,1,,,
+375,Finland,710,China,1904,160,1,,,
+375,Finland,1065,Curacao,1904,0,1,,,
+375,Finland,325,Italy,1904,611558,1,,,
+375,Finland,135,Peru,1904,0,1,,,
+375,Finland,3651,Siberia,1904,0,1,,,
+375,Finland,385,Norway,1904,342949,1,,,
+375,Finland,620,Libya,1904,0,1,,,
+375,Finland,315,Czechoslovakia,1904,0,1,,,
+375,Finland,91,Honduras,1904,0,1,,,
+375,Finland,4,Hawaii,1904,0,1,,,
+375,Finland,8501,Java,1904,0,1,,,
+375,Finland,580,Madagascar,1904,0,1,,,
+375,Finland,165,Uruguay,1904,15,1,,,
+375,Finland,22,British North America,1904,0,1,,,
+375,Finland,41,Haiti,1904,0,1,,,
+375,Finland,560,South Africa,1904,0,1,,,
+375,Finland,740,Japan,1904,40,1,,,
+375,Finland,230,Spain,1904,1915770,1,,,
+375,Finland,690,Kuwait,1904,0,1,,,
+375,Finland,211,Belgium,1904,4725511,1,,,
+375,Finland,590,Mauritius,1904,0,1,,,
+375,Finland,212,Luxembourg,1904,0,1,,,
+375,Finland,390,Denmark,1904,11544947,1,,,
+375,Finland,305,Austria,1904,0,1,,,
+375,Finland,652,Syria,1904,0,1,,,
+375,Finland,140,Brazil,1904,1099708,1,,,
+375,Finland,401,Madeira,1904,970,1,,,
+375,Finland,530,Ethiopia,1904,0,1,,,
+375,Finland,630,Iran,1904,0,1,,,
+375,Finland,205,Ireland,1904,0,1,,,
+375,Finland,640,Turkey,1904,281,1,,,
+375,Finland,616,Tunisia,1904,74,1,,,
+375,Finland,160,Argentina,1904,0,1,,,
+375,Finland,465,British West Africa,1904,0,1,,,
+375,Finland,730,Korea,1904,0,1,,,
+375,Finland,339,Albania,1904,0,1,,,
+375,Finland,511,Zanzibar,1904,0,1,,,
+375,Finland,540,Angola,1904,0,1,,,
+375,Finland,345,Yugoslavia,1904,0,1,,,
+375,Finland,235,Portugal,1904,305551,1,,,
+375,Finland,665,West Bank And Gaza,1904,0,1,,,
+375,Finland,40,Cuba,1904,0,1,,,
+375,Finland,615,Algeria,1904,25,1,,,
+375,Finland,367,Latvia,1904,0,1,,,
+375,Finland,155,Chile,1904,0,1,,,
+375,Finland,541,Mozambique,1904,0,1,,,
+375,Finland,310,Hungary,1904,0,1,,,
+375,Finland,675,Arabia,1904,0,1,,,
+375,Finland,395,Iceland,1904,0,1,,,
+375,Finland,10,Greenland,1904,0,1,,,
+375,Finland,800,Thailand,1904,0,1,,,
+375,Finland,130,Ecuador,1904,0,1,,,
+375,Finland,100,Colombia,1904,0,1,,,
+375,Finland,200,United Kingdom,1904,26780800,1,,,
+375,Finland,70,Mexico,1904,40,1,,,
+375,Finland,368,Lithuania,1904,0,1,,,
+375,Finland,51,Jamaica,1904,0,1,,,
+375,Finland,20,Canada,1904,100,1,,,
+375,Finland,95,Panama,1904,0,1,,,
+375,Finland,625,Sudan,1904,0,1,,,
+375,Finland,290,Poland,1904,0,1,,,
+375,Finland,355,Bulgaria,1904,100,1,,,
+375,Finland,93,Nicaragua,1904,0,1,,,
+375,Finland,780,Sri Lanka,1904,0,1,,,
+375,Finland,350,Greece,1904,118,1,,,
+375,Finland,645,Iraq,1904,0,1,,,
+375,Finland,365,Russia,1904,104886791,1,,,
+375,Finland,3,Alaska,1904,0,1,,,
+375,Finland,651,Egypt,1904,417,1,,,
+375,Finland,352,Cyprus,1904,0,1,,,
+375,Finland,681,Aden,1904,0,1,,,
+375,Finland,255,Germany,1904,94905095,1,,,
+375,Finland,2,United States,1904,9132,1,,,
+375,Finland,840,Philippines,1904,0,1,,,
+375,Finland,450,Liberia,1904,0,1,,,
+375,Finland,220,France,1904,5547781,1,,,
+375,Finland,380,Sweden,1904,11982819,1,,,
+375,Finland,101,Venezuela,1904,0,1,,,
+375,Finland,291,Danzig,1904,0,1,,,
+375,Finland,,,1904,268684562,1,,,
+375,Finland,900,Australia,1904,2,1,,,
+375,Finland,700,Afghanistan,1904,0,1,,,
+375,Finland,360,Romania,1904,0,1,,,
+375,Finland,150,Paraguay,1904,0,1,,,
+375,Finland,433,Senegal,1904,0,1,,,
+375,Finland,145,Bolivia,1904,0,1,,,
+375,Finland,80,Belize,1904,0,1,,,
+375,Finland,210,Netherlands,1904,363453,1,,,
+375,Finland,90,Guatemala,1904,0,1,,,
+375,Finland,225,Switzerland,1904,479769,1,,,
+375,Finland,366,Estonia,1904,0,1,,,
+375,Finland,92,El Salvador,1904,0,1,,,
+375,Finland,490,"Congo, Dem. Republic",1904,0,1,,,
+375,Finland,94,Costa Rica,1904,0,1,,,
+375,Finland,475,Nigeria,1904,0,1,,,
+375,Finland,8501,Java,1905,0,1,,,
+375,Finland,22,British North America,1905,0,1,,,
+375,Finland,165,Uruguay,1905,0,1,,,
+375,Finland,93,Nicaragua,1905,9,1,,,
+375,Finland,365,Russia,1905,94495474,1,,,
+375,Finland,450,Liberia,1905,0,1,,,
+375,Finland,352,Cyprus,1905,0,1,,,
+375,Finland,90,Guatemala,1905,0,1,,,
+375,Finland,710,China,1905,11,1,,,
+375,Finland,740,Japan,1905,0,1,,,
+375,Finland,730,Korea,1905,0,1,,,
+375,Finland,615,Algeria,1905,0,1,,,
+375,Finland,339,Albania,1905,0,1,,,
+375,Finland,200,United Kingdom,1905,28979490,1,,,
+375,Finland,2,United States,1905,1434,1,,,
+375,Finland,230,Spain,1905,1712990,1,,,
+375,Finland,1065,Curacao,1905,0,1,,,
+375,Finland,212,Luxembourg,1905,0,1,,,
+375,Finland,580,Madagascar,1905,0,1,,,
+375,Finland,130,Ecuador,1905,0,1,,,
+375,Finland,630,Iran,1905,0,1,,,
+375,Finland,690,Kuwait,1905,0,1,,,
+375,Finland,900,Australia,1905,0,1,,,
+375,Finland,652,Syria,1905,0,1,,,
+375,Finland,4,Hawaii,1905,0,1,,,
+375,Finland,401,Madeira,1905,1016,1,,,
+375,Finland,94,Costa Rica,1905,0,1,,,
+375,Finland,140,Brazil,1905,445238,1,,,
+375,Finland,368,Lithuania,1905,0,1,,,
+375,Finland,325,Italy,1905,1018879,1,,,
+375,Finland,475,Nigeria,1905,0,1,,,
+375,Finland,95,Panama,1905,0,1,,,
+375,Finland,560,South Africa,1905,0,1,,,
+375,Finland,305,Austria,1905,0,1,,,
+375,Finland,225,Switzerland,1905,557927,1,,,
+375,Finland,,,1905,269953333,1,,,
+375,Finland,92,El Salvador,1905,0,1,,,
+375,Finland,540,Angola,1905,0,1,,,
+375,Finland,100,Colombia,1905,0,1,,,
+375,Finland,530,Ethiopia,1905,0,1,,,
+375,Finland,315,Czechoslovakia,1905,0,1,,,
+375,Finland,10,Greenland,1905,0,1,,,
+375,Finland,210,Netherlands,1905,301069,1,,,
+375,Finland,681,Aden,1905,0,1,,,
+375,Finland,310,Hungary,1905,0,1,,,
+375,Finland,640,Turkey,1905,57,1,,,
+375,Finland,70,Mexico,1905,0,1,,,
+375,Finland,101,Venezuela,1905,0,1,,,
+375,Finland,350,Greece,1905,16,1,,,
+375,Finland,800,Thailand,1905,0,1,,,
+375,Finland,511,Zanzibar,1905,0,1,,,
+375,Finland,700,Afghanistan,1905,0,1,,,
+375,Finland,211,Belgium,1905,6540449,1,,,
+375,Finland,433,Senegal,1905,0,1,,,
+375,Finland,291,Danzig,1905,0,1,,,
+375,Finland,541,Mozambique,1905,0,1,,,
+375,Finland,645,Iraq,1905,0,1,,,
+375,Finland,651,Egypt,1905,50,1,,,
+375,Finland,380,Sweden,1905,13137490,1,,,
+375,Finland,366,Estonia,1905,0,1,,,
+375,Finland,40,Cuba,1905,0,1,,,
+375,Finland,150,Paraguay,1905,0,1,,,
+375,Finland,235,Portugal,1905,300350,1,,,
+375,Finland,220,France,1905,4624834,1,,,
+375,Finland,360,Romania,1905,0,1,,,
+375,Finland,465,British West Africa,1905,0,1,,,
+375,Finland,367,Latvia,1905,0,1,,,
+375,Finland,395,Iceland,1905,0,1,,,
+375,Finland,665,West Bank And Gaza,1905,0,1,,,
+375,Finland,390,Denmark,1905,12414750,1,,,
+375,Finland,155,Chile,1905,0,1,,,
+375,Finland,840,Philippines,1905,0,1,,,
+375,Finland,355,Bulgaria,1905,0,1,,,
+375,Finland,51,Jamaica,1905,0,1,,,
+375,Finland,490,"Congo, Dem. Republic",1905,0,1,,,
+375,Finland,290,Poland,1905,0,1,,,
+375,Finland,160,Argentina,1905,0,1,,,
+375,Finland,135,Peru,1905,0,1,,,
+375,Finland,590,Mauritius,1905,0,1,,,
+375,Finland,3,Alaska,1905,0,1,,,
+375,Finland,80,Belize,1905,0,1,,,
+375,Finland,41,Haiti,1905,0,1,,,
+375,Finland,780,Sri Lanka,1905,0,1,,,
+375,Finland,3651,Siberia,1905,0,1,,,
+375,Finland,20,Canada,1905,290,1,,,
+375,Finland,385,Norway,1905,698939,1,,,
+375,Finland,145,Bolivia,1905,0,1,,,
+375,Finland,205,Ireland,1905,0,1,,,
+375,Finland,345,Yugoslavia,1905,0,1,,,
+375,Finland,675,Arabia,1905,0,1,,,
+375,Finland,91,Honduras,1905,0,1,,,
+375,Finland,625,Sudan,1905,0,1,,,
+375,Finland,255,Germany,1905,101287577,1,,,
+375,Finland,620,Libya,1905,0,1,,,
+375,Finland,616,Tunisia,1905,0,1,,,
+375,Finland,339,Albania,1906,0,1,,,
+375,Finland,235,Portugal,1906,527959,1,,,
+375,Finland,730,Korea,1906,0,1,,,
+375,Finland,315,Czechoslovakia,1906,0,1,,,
+375,Finland,367,Latvia,1906,0,1,,,
+375,Finland,615,Algeria,1906,1135,1,,,
+375,Finland,450,Liberia,1906,0,1,,,
+375,Finland,652,Syria,1906,0,1,,,
+375,Finland,230,Spain,1906,1743278,1,,,
+375,Finland,645,Iraq,1906,0,1,,,
+375,Finland,665,West Bank And Gaza,1906,0,1,,,
+375,Finland,700,Afghanistan,1906,0,1,,,
+375,Finland,780,Sri Lanka,1906,0,1,,,
+375,Finland,135,Peru,1906,0,1,,,
+375,Finland,475,Nigeria,1906,0,1,,,
+375,Finland,205,Ireland,1906,0,1,,,
+375,Finland,130,Ecuador,1906,0,1,,,
+375,Finland,3651,Siberia,1906,0,1,,,
+375,Finland,2,United States,1906,266,1,,,
+375,Finland,155,Chile,1906,0,1,,,
+375,Finland,625,Sudan,1906,0,1,,,
+375,Finland,380,Sweden,1906,16287877,1,,,
+375,Finland,290,Poland,1906,0,1,,,
+375,Finland,8501,Java,1906,0,1,,,
+375,Finland,640,Turkey,1906,106,1,,,
+375,Finland,210,Netherlands,1906,1622886,1,,,
+375,Finland,3,Alaska,1906,0,1,,,
+375,Finland,541,Mozambique,1906,0,1,,,
+375,Finland,165,Uruguay,1906,0,1,,,
+375,Finland,840,Philippines,1906,0,1,,,
+375,Finland,325,Italy,1906,768513,1,,,
+375,Finland,70,Mexico,1906,0,1,,,
+375,Finland,51,Jamaica,1906,0,1,,,
+375,Finland,40,Cuba,1906,0,1,,,
+375,Finland,681,Aden,1906,0,1,,,
+375,Finland,255,Germany,1906,123686730,1,,,
+375,Finland,675,Arabia,1906,0,1,,,
+375,Finland,465,British West Africa,1906,0,1,,,
+375,Finland,91,Honduras,1906,0,1,,,
+375,Finland,22,British North America,1906,0,1,,,
+375,Finland,145,Bolivia,1906,0,1,,,
+375,Finland,433,Senegal,1906,0,1,,,
+375,Finland,100,Colombia,1906,0,1,,,
+375,Finland,211,Belgium,1906,7970105,1,,,
+375,Finland,200,United Kingdom,1906,36078883,1,,,
+375,Finland,530,Ethiopia,1906,0,1,,,
+375,Finland,366,Estonia,1906,0,1,,,
+375,Finland,305,Austria,1906,0,1,,,
+375,Finland,1065,Curacao,1906,0,1,,,
+375,Finland,350,Greece,1906,185,1,,,
+375,Finland,710,China,1906,41,1,,,
+375,Finland,395,Iceland,1906,0,1,,,
+375,Finland,,,1906,315844645,1,,,
+375,Finland,651,Egypt,1906,264,1,,,
+375,Finland,352,Cyprus,1906,0,1,,,
+375,Finland,220,France,1906,4423431,1,,,
+375,Finland,616,Tunisia,1906,9713,1,,,
+375,Finland,490,"Congo, Dem. Republic",1906,0,1,,,
+375,Finland,310,Hungary,1906,0,1,,,
+375,Finland,90,Guatemala,1906,0,1,,,
+375,Finland,630,Iran,1906,0,1,,,
+375,Finland,160,Argentina,1906,561078,1,,,
+375,Finland,740,Japan,1906,285,1,,,
+375,Finland,360,Romania,1906,0,1,,,
+375,Finland,355,Bulgaria,1906,40,1,,,
+375,Finland,93,Nicaragua,1906,0,1,,,
+375,Finland,385,Norway,1906,1880000,1,,,
+375,Finland,225,Switzerland,1906,937942,1,,,
+375,Finland,365,Russia,1906,95498784,1,,,
+375,Finland,511,Zanzibar,1906,0,1,,,
+375,Finland,690,Kuwait,1906,0,1,,,
+375,Finland,94,Costa Rica,1906,0,1,,,
+375,Finland,390,Denmark,1906,18983479,1,,,
+375,Finland,140,Brazil,1906,961309,1,,,
+375,Finland,20,Canada,1906,983,1,,,
+375,Finland,560,South Africa,1906,0,1,,,
+375,Finland,4,Hawaii,1906,0,1,,,
+375,Finland,150,Paraguay,1906,0,1,,,
+375,Finland,10,Greenland,1906,0,1,,,
+375,Finland,101,Venezuela,1906,0,1,,,
+375,Finland,80,Belize,1906,0,1,,,
+375,Finland,540,Angola,1906,0,1,,,
+375,Finland,41,Haiti,1906,0,1,,,
+375,Finland,580,Madagascar,1906,0,1,,,
+375,Finland,92,El Salvador,1906,0,1,,,
+375,Finland,95,Panama,1906,0,1,,,
+375,Finland,900,Australia,1906,55,1,,,
+375,Finland,345,Yugoslavia,1906,3,1,,,
+375,Finland,620,Libya,1906,0,1,,,
+375,Finland,800,Thailand,1906,0,1,,,
+375,Finland,590,Mauritius,1906,0,1,,,
+375,Finland,401,Madeira,1906,389,1,,,
+375,Finland,368,Lithuania,1906,0,1,,,
+375,Finland,291,Danzig,1906,0,1,,,
+375,Finland,212,Luxembourg,1906,0,1,,,
+375,Finland,665,West Bank And Gaza,1907,43,1,Marks,,
+375,Finland,840,Philippines,1907,0,1,Marks,,
+375,Finland,230,Spain,1907,2057094,1,Marks,,
+375,Finland,616,Tunisia,1907,133,1,Marks,,
+375,Finland,310,Hungary,1907,0,1,Marks,,
+375,Finland,780,Sri Lanka,1907,0,1,Marks,,
+375,Finland,339,Albania,1907,0,1,Marks,,
+375,Finland,541,Mozambique,1907,0,1,Marks,,
+375,Finland,210,Netherlands,1907,2479133,1,Marks,,
+375,Finland,235,Portugal,1907,423344,1,Marks,,
+375,Finland,305,Austria,1907,0,1,Marks,,
+375,Finland,93,Nicaragua,1907,0,1,Marks,,
+375,Finland,135,Peru,1907,0,1,Marks,,
+375,Finland,140,Brazil,1907,1137984,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1907,0,1,Marks,,
+375,Finland,225,Switzerland,1907,1090378,1,Marks,,
+375,Finland,630,Iran,1907,0,1,Marks,,
+375,Finland,560,South Africa,1907,0,1,Marks,,
+375,Finland,10,Greenland,1907,0,1,Marks,,
+375,Finland,205,Ireland,1907,0,1,Marks,,
+375,Finland,95,Panama,1907,0,1,Marks,,
+375,Finland,8501,Java,1907,0,1,Marks,,
+375,Finland,92,El Salvador,1907,0,1,Marks,,
+375,Finland,3,Alaska,1907,0,1,Marks,,
+375,Finland,155,Chile,1907,0,1,Marks,,
+375,Finland,70,Mexico,1907,0,1,Marks,,
+375,Finland,101,Venezuela,1907,0,1,Marks,,
+375,Finland,220,France,1907,4589212,1,Marks,,
+375,Finland,212,Luxembourg,1907,0,1,Marks,,
+375,Finland,740,Japan,1907,79,1,Marks,,
+375,Finland,345,Yugoslavia,1907,0,1,Marks,,
+375,Finland,145,Bolivia,1907,0,1,Marks,,
+375,Finland,681,Aden,1907,0,1,Marks,,
+375,Finland,730,Korea,1907,0,1,Marks,,
+375,Finland,350,Greece,1907,2866,1,Marks,,
+375,Finland,41,Haiti,1907,0,1,Marks,,
+375,Finland,580,Madagascar,1907,0,1,Marks,,
+375,Finland,700,Afghanistan,1907,0,1,Marks,,
+375,Finland,91,Honduras,1907,0,1,Marks,,
+375,Finland,4,Hawaii,1907,0,1,Marks,,
+375,Finland,22,British North America,1907,0,1,Marks,,
+375,Finland,352,Cyprus,1907,0,1,Marks,,
+375,Finland,640,Turkey,1907,48,1,Marks,,
+375,Finland,450,Liberia,1907,0,1,Marks,,
+375,Finland,651,Egypt,1907,183,1,Marks,,
+375,Finland,615,Algeria,1907,22,1,Marks,,
+375,Finland,690,Kuwait,1907,0,1,Marks,,
+375,Finland,20,Canada,1907,388,1,Marks,,
+375,Finland,652,Syria,1907,0,1,Marks,,
+375,Finland,625,Sudan,1907,0,1,Marks,,
+375,Finland,368,Lithuania,1907,0,1,Marks,,
+375,Finland,150,Paraguay,1907,0,1,Marks,,
+375,Finland,433,Senegal,1907,0,1,Marks,,
+375,Finland,2,United States,1907,518,1,Marks,,
+375,Finland,380,Sweden,1907,19369986,1,Marks,,
+375,Finland,900,Australia,1907,0,1,Marks,,
+375,Finland,51,Jamaica,1907,0,1,Marks,,
+375,Finland,90,Guatemala,1907,0,1,Marks,,
+375,Finland,395,Iceland,1907,0,1,Marks,,
+375,Finland,1065,Curacao,1907,0,1,Marks,,
+375,Finland,130,Ecuador,1907,0,1,Marks,,
+375,Finland,675,Arabia,1907,0,1,Marks,,
+375,Finland,367,Latvia,1907,0,1,Marks,,
+375,Finland,325,Italy,1907,1204540,1,Marks,,
+375,Finland,315,Czechoslovakia,1907,0,1,Marks,,
+375,Finland,390,Denmark,1907,26834678,1,Marks,,
+375,Finland,94,Costa Rica,1907,0,1,Marks,,
+375,Finland,530,Ethiopia,1907,0,1,Marks,,
+375,Finland,40,Cuba,1907,0,1,Marks,,
+375,Finland,465,British West Africa,1907,0,1,Marks,,
+375,Finland,401,Madeira,1907,0,1,Marks,,
+375,Finland,710,China,1907,128,1,Marks,,
+375,Finland,800,Thailand,1907,0,1,Marks,,
+375,Finland,291,Danzig,1907,0,1,Marks,,
+375,Finland,290,Poland,1907,0,1,Marks,,
+375,Finland,540,Angola,1907,0,1,Marks,,
+375,Finland,511,Zanzibar,1907,0,1,Marks,,
+375,Finland,366,Estonia,1907,0,1,Marks,,
+375,Finland,211,Belgium,1907,8034359,1,Marks,,
+375,Finland,200,United Kingdom,1907,45636303,1,Marks,,
+375,Finland,80,Belize,1907,0,1,Marks,,
+375,Finland,620,Libya,1907,0,1,Marks,,
+375,Finland,355,Bulgaria,1907,0,1,Marks,,
+375,Finland,360,Romania,1907,0,1,Marks,,
+375,Finland,645,Iraq,1907,0,1,Marks,,
+375,Finland,475,Nigeria,1907,0,1,Marks,,
+375,Finland,100,Colombia,1907,0,1,Marks,,
+375,Finland,590,Mauritius,1907,0,1,Marks,,
+375,Finland,385,Norway,1907,416186,1,Marks,,
+375,Finland,365,Russia,1907,110836044,1,Marks,,
+375,Finland,160,Argentina,1907,0,1,Marks,,
+375,Finland,255,Germany,1907,152937960,1,Marks,,
+375,Finland,165,Uruguay,1907,5,1,Marks,,
+375,Finland,,,1907,381059658,1,Marks,,
+375,Finland,3651,Siberia,1907,0,1,Marks,,
+375,Finland,380,Sweden,1908,19516523,1,Marks,,
+375,Finland,94,Costa Rica,1908,0,1,Marks,,
+375,Finland,140,Brazil,1908,512003,1,Marks,,
+375,Finland,310,Hungary,1908,0,1,Marks,,
+375,Finland,325,Italy,1908,1273726,1,Marks,,
+375,Finland,625,Sudan,1908,0,1,Marks,,
+375,Finland,51,Jamaica,1908,0,1,Marks,,
+375,Finland,590,Mauritius,1908,0,1,Marks,,
+375,Finland,352,Cyprus,1908,0,1,Marks,,
+375,Finland,710,China,1908,3,1,Marks,,
+375,Finland,665,West Bank And Gaza,1908,0,1,Marks,,
+375,Finland,212,Luxembourg,1908,0,1,Marks,,
+375,Finland,210,Netherlands,1908,5079567,1,Marks,,
+375,Finland,651,Egypt,1908,233,1,Marks,,
+375,Finland,900,Australia,1908,0,1,Marks,,
+375,Finland,690,Kuwait,1908,0,1,Marks,,
+375,Finland,620,Libya,1908,0,1,Marks,,
+375,Finland,780,Sri Lanka,1908,0,1,Marks,,
+375,Finland,465,British West Africa,1908,0,1,Marks,,
+375,Finland,475,Nigeria,1908,0,1,Marks,,
+375,Finland,740,Japan,1908,175,1,Marks,,
+375,Finland,22,British North America,1908,0,1,Marks,,
+375,Finland,368,Lithuania,1908,0,1,Marks,,
+375,Finland,155,Chile,1908,0,1,Marks,,
+375,Finland,367,Latvia,1908,0,1,Marks,,
+375,Finland,305,Austria,1908,0,1,Marks,,
+375,Finland,90,Guatemala,1908,0,1,Marks,,
+375,Finland,150,Paraguay,1908,0,1,Marks,,
+375,Finland,211,Belgium,1908,7058138,1,Marks,,
+375,Finland,20,Canada,1908,342,1,Marks,,
+375,Finland,541,Mozambique,1908,0,1,Marks,,
+375,Finland,2,United States,1908,378,1,Marks,,
+375,Finland,390,Denmark,1908,25619073,1,Marks,,
+375,Finland,616,Tunisia,1908,0,1,Marks,,
+375,Finland,511,Zanzibar,1908,0,1,Marks,,
+375,Finland,41,Haiti,1908,0,1,Marks,,
+375,Finland,101,Venezuela,1908,0,1,Marks,,
+375,Finland,645,Iraq,1908,0,1,Marks,,
+375,Finland,365,Russia,1908,98634483,1,Marks,,
+375,Finland,355,Bulgaria,1908,50,1,Marks,,
+375,Finland,225,Switzerland,1908,984547,1,Marks,,
+375,Finland,630,Iran,1908,5,1,Marks,,
+375,Finland,200,United Kingdom,1908,46626729,1,Marks,,
+375,Finland,70,Mexico,1908,0,1,Marks,,
+375,Finland,560,South Africa,1908,0,1,Marks,,
+375,Finland,350,Greece,1908,117,1,Marks,,
+375,Finland,385,Norway,1908,1134323,1,Marks,,
+375,Finland,220,France,1908,4590609,1,Marks,,
+375,Finland,395,Iceland,1908,0,1,Marks,,
+375,Finland,360,Romania,1908,79,1,Marks,,
+375,Finland,366,Estonia,1908,0,1,Marks,,
+375,Finland,255,Germany,1908,146007051,1,Marks,,
+375,Finland,91,Honduras,1908,0,1,Marks,,
+375,Finland,580,Madagascar,1908,0,1,Marks,,
+375,Finland,165,Uruguay,1908,0,1,Marks,,
+375,Finland,3,Alaska,1908,0,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1908,0,1,Marks,,
+375,Finland,615,Algeria,1908,59,1,Marks,,
+375,Finland,205,Ireland,1908,0,1,Marks,,
+375,Finland,1065,Curacao,1908,0,1,Marks,,
+375,Finland,339,Albania,1908,0,1,Marks,,
+375,Finland,291,Danzig,1908,0,1,Marks,,
+375,Finland,93,Nicaragua,1908,0,1,Marks,,
+375,Finland,3651,Siberia,1908,0,1,Marks,,
+375,Finland,100,Colombia,1908,0,1,Marks,,
+375,Finland,8501,Java,1908,0,1,Marks,,
+375,Finland,433,Senegal,1908,0,1,Marks,,
+375,Finland,700,Afghanistan,1908,0,1,Marks,,
+375,Finland,92,El Salvador,1908,0,1,Marks,,
+375,Finland,640,Turkey,1908,268,1,Marks,,
+375,Finland,315,Czechoslovakia,1908,0,1,Marks,,
+375,Finland,235,Portugal,1908,409332,1,Marks,,
+375,Finland,401,Madeira,1908,255,1,Marks,,
+375,Finland,840,Philippines,1908,0,1,Marks,,
+375,Finland,10,Greenland,1908,0,1,Marks,,
+375,Finland,675,Arabia,1908,0,1,Marks,,
+375,Finland,730,Korea,1908,0,1,Marks,,
+375,Finland,230,Spain,1908,3070171,1,Marks,,
+375,Finland,345,Yugoslavia,1908,80,1,Marks,,
+375,Finland,290,Poland,1908,0,1,Marks,,
+375,Finland,135,Peru,1908,0,1,Marks,,
+375,Finland,,,1908,365796107,1,Marks,,
+375,Finland,145,Bolivia,1908,0,1,Marks,,
+375,Finland,130,Ecuador,1908,0,1,Marks,,
+375,Finland,652,Syria,1908,0,1,Marks,,
+375,Finland,4,Hawaii,1908,0,1,Marks,,
+375,Finland,530,Ethiopia,1908,0,1,Marks,,
+375,Finland,80,Belize,1908,0,1,Marks,,
+375,Finland,540,Angola,1908,0,1,Marks,,
+375,Finland,450,Liberia,1908,0,1,Marks,,
+375,Finland,95,Panama,1908,0,1,Marks,,
+375,Finland,681,Aden,1908,0,1,Marks,,
+375,Finland,40,Cuba,1908,45,1,Marks,,
+375,Finland,800,Thailand,1908,0,1,Marks,,
+375,Finland,160,Argentina,1908,764591,1,Marks,,
+375,Finland,140,Brazil,1909,1015099,1,Marks,,
+375,Finland,645,Iraq,1909,0,1,Marks,,
+375,Finland,80,Belize,1909,0,1,Marks,,
+375,Finland,560,South Africa,1909,0,1,Marks,,
+375,Finland,305,Austria,1909,0,1,Marks,,
+375,Finland,315,Czechoslovakia,1909,0,1,Marks,,
+375,Finland,541,Mozambique,1909,0,1,Marks,,
+375,Finland,590,Mauritius,1909,0,1,Marks,,
+375,Finland,700,Afghanistan,1909,0,1,Marks,,
+375,Finland,3651,Siberia,1909,0,1,Marks,,
+375,Finland,225,Switzerland,1909,837240,1,Marks,,
+375,Finland,640,Turkey,1909,114,1,Marks,,
+375,Finland,230,Spain,1909,1850874,1,Marks,,
+375,Finland,352,Cyprus,1909,0,1,Marks,,
+375,Finland,100,Colombia,1909,0,1,Marks,,
+375,Finland,160,Argentina,1909,816398,1,Marks,,
+375,Finland,675,Arabia,1909,0,1,Marks,,
+375,Finland,92,El Salvador,1909,0,1,Marks,,
+375,Finland,2,United States,1909,440,1,Marks,,
+375,Finland,101,Venezuela,1909,0,1,Marks,,
+375,Finland,211,Belgium,1909,6387327,1,Marks,,
+375,Finland,291,Danzig,1909,0,1,Marks,,
+375,Finland,665,West Bank And Gaza,1909,0,1,Marks,,
+375,Finland,91,Honduras,1909,0,1,Marks,,
+375,Finland,651,Egypt,1909,979,1,Marks,,
+375,Finland,360,Romania,1909,0,1,Marks,,
+375,Finland,20,Canada,1909,456,1,Marks,,
+375,Finland,255,Germany,1909,144577333,1,Marks,,
+375,Finland,365,Russia,1909,116819894,1,Marks,,
+375,Finland,385,Norway,1909,788390,1,Marks,,
+375,Finland,380,Sweden,1909,18450118,1,Marks,,
+375,Finland,95,Panama,1909,0,1,Marks,,
+375,Finland,511,Zanzibar,1909,0,1,Marks,,
+375,Finland,8501,Java,1909,0,1,Marks,,
+375,Finland,401,Madeira,1909,160,1,Marks,,
+375,Finland,4,Hawaii,1909,0,1,Marks,,
+375,Finland,339,Albania,1909,0,1,Marks,,
+375,Finland,165,Uruguay,1909,0,1,Marks,,
+375,Finland,93,Nicaragua,1909,0,1,Marks,,
+375,Finland,840,Philippines,1909,0,1,Marks,,
+375,Finland,350,Greece,1909,1002,1,Marks,,
+375,Finland,367,Latvia,1909,0,1,Marks,,
+375,Finland,3,Alaska,1909,0,1,Marks,,
+375,Finland,630,Iran,1909,0,1,Marks,,
+375,Finland,450,Liberia,1909,0,1,Marks,,
+375,Finland,730,Korea,1909,0,1,Marks,,
+375,Finland,145,Bolivia,1909,0,1,Marks,,
+375,Finland,310,Hungary,1909,0,1,Marks,,
+375,Finland,368,Lithuania,1909,0,1,Marks,,
+375,Finland,652,Syria,1909,0,1,Marks,,
+375,Finland,690,Kuwait,1909,0,1,Marks,,
+375,Finland,290,Poland,1909,0,1,Marks,,
+375,Finland,90,Guatemala,1909,0,1,Marks,,
+375,Finland,465,British West Africa,1909,0,1,Marks,,
+375,Finland,70,Mexico,1909,0,1,Marks,,
+375,Finland,355,Bulgaria,1909,0,1,Marks,,
+375,Finland,625,Sudan,1909,0,1,Marks,,
+375,Finland,345,Yugoslavia,1909,0,1,Marks,,
+375,Finland,135,Peru,1909,0,1,Marks,,
+375,Finland,580,Madagascar,1909,0,1,Marks,,
+375,Finland,475,Nigeria,1909,0,1,Marks,,
+375,Finland,155,Chile,1909,0,1,Marks,,
+375,Finland,540,Angola,1909,0,1,Marks,,
+375,Finland,130,Ecuador,1909,0,1,Marks,,
+375,Finland,530,Ethiopia,1909,0,1,Marks,,
+375,Finland,22,British North America,1909,0,1,Marks,,
+375,Finland,210,Netherlands,1909,6455193,1,Marks,,
+375,Finland,710,China,1909,68,1,Marks,,
+375,Finland,,,1909,368686339,1,Marks,,
+375,Finland,366,Estonia,1909,0,1,Marks,,
+375,Finland,10,Greenland,1909,0,1,Marks,,
+375,Finland,900,Australia,1909,10,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1909,0,1,Marks,,
+375,Finland,800,Thailand,1909,0,1,Marks,,
+375,Finland,51,Jamaica,1909,0,1,Marks,,
+375,Finland,620,Libya,1909,0,1,Marks,,
+375,Finland,325,Italy,1909,1273066,1,Marks,,
+375,Finland,150,Paraguay,1909,0,1,Marks,,
+375,Finland,235,Portugal,1909,323635,1,Marks,,
+375,Finland,212,Luxembourg,1909,0,1,Marks,,
+375,Finland,390,Denmark,1909,19236137,1,Marks,,
+375,Finland,681,Aden,1909,0,1,Marks,,
+375,Finland,40,Cuba,1909,0,1,Marks,,
+375,Finland,616,Tunisia,1909,135332,1,Marks,,
+375,Finland,780,Sri Lanka,1909,0,1,Marks,,
+375,Finland,220,France,1909,5291658,1,Marks,,
+375,Finland,205,Ireland,1909,0,1,Marks,,
+375,Finland,200,United Kingdom,1909,41306932,1,Marks,,
+375,Finland,433,Senegal,1909,0,1,Marks,,
+375,Finland,1065,Curacao,1909,0,1,Marks,,
+375,Finland,395,Iceland,1909,0,1,Marks,,
+375,Finland,615,Algeria,1909,68,1,Marks,,
+375,Finland,41,Haiti,1909,0,1,Marks,,
+375,Finland,740,Japan,1909,22,1,Marks,,
+375,Finland,94,Costa Rica,1909,0,1,Marks,,
+375,Finland,681,Aden,1910,0,1,Marks,,
+375,Finland,465,British West Africa,1910,0,1,Marks,,
+375,Finland,352,Cyprus,1910,0,1,Marks,,
+375,Finland,740,Japan,1910,468,1,Marks,,
+375,Finland,2,United States,1910,434,1,Marks,,
+375,Finland,367,Latvia,1910,0,1,Marks,,
+375,Finland,645,Iraq,1910,0,1,Marks,,
+375,Finland,94,Costa Rica,1910,0,1,Marks,,
+375,Finland,90,Guatemala,1910,0,1,Marks,,
+375,Finland,690,Kuwait,1910,0,1,Marks,,
+375,Finland,620,Libya,1910,0,1,Marks,,
+375,Finland,530,Ethiopia,1910,0,1,Marks,,
+375,Finland,541,Mozambique,1910,0,1,Marks,,
+375,Finland,291,Danzig,1910,0,1,Marks,,
+375,Finland,70,Mexico,1910,0,1,Marks,,
+375,Finland,390,Denmark,1910,20858011,1,Marks,,
+375,Finland,165,Uruguay,1910,0,1,Marks,,
+375,Finland,3651,Siberia,1910,0,1,Marks,,
+375,Finland,395,Iceland,1910,0,1,Marks,,
+375,Finland,325,Italy,1910,1572030,1,Marks,,
+375,Finland,700,Afghanistan,1910,0,1,Marks,,
+375,Finland,355,Bulgaria,1910,76,1,Marks,,
+375,Finland,780,Sri Lanka,1910,0,1,Marks,,
+375,Finland,230,Spain,1910,2314937,1,Marks,,
+375,Finland,540,Angola,1910,0,1,Marks,,
+375,Finland,560,South Africa,1910,0,1,Marks,,
+375,Finland,205,Ireland,1910,0,1,Marks,,
+375,Finland,450,Liberia,1910,0,1,Marks,,
+375,Finland,8501,Java,1910,0,1,Marks,,
+375,Finland,211,Belgium,1910,6657308,1,Marks,,
+375,Finland,10,Greenland,1910,0,1,Marks,,
+375,Finland,651,Egypt,1910,760,1,Marks,,
+375,Finland,675,Arabia,1910,0,1,Marks,,
+375,Finland,,,1910,386309793,1,Marks,,
+375,Finland,665,West Bank And Gaza,1910,0,1,Marks,,
+375,Finland,652,Syria,1910,0,1,Marks,,
+375,Finland,840,Philippines,1910,0,1,Marks,,
+375,Finland,92,El Salvador,1910,0,1,Marks,,
+375,Finland,101,Venezuela,1910,0,1,Marks,,
+375,Finland,140,Brazil,1910,946886,1,Marks,,
+375,Finland,401,Madeira,1910,29,1,Marks,,
+375,Finland,40,Cuba,1910,0,1,Marks,,
+375,Finland,155,Chile,1910,0,1,Marks,,
+375,Finland,615,Algeria,1910,108836,1,Marks,,
+375,Finland,433,Senegal,1910,0,1,Marks,,
+375,Finland,368,Lithuania,1910,0,1,Marks,,
+375,Finland,41,Haiti,1910,0,1,Marks,,
+375,Finland,305,Austria,1910,0,1,Marks,,
+375,Finland,255,Germany,1910,159679959,1,Marks,,
+375,Finland,800,Thailand,1910,0,1,Marks,,
+375,Finland,580,Madagascar,1910,0,1,Marks,,
+375,Finland,212,Luxembourg,1910,0,1,Marks,,
+375,Finland,315,Czechoslovakia,1910,0,1,Marks,,
+375,Finland,235,Portugal,1910,263112,1,Marks,,
+375,Finland,4,Hawaii,1910,0,1,Marks,,
+375,Finland,345,Yugoslavia,1910,9,1,Marks,,
+375,Finland,380,Sweden,1910,19422839,1,Marks,,
+375,Finland,145,Bolivia,1910,0,1,Marks,,
+375,Finland,160,Argentina,1910,462015,1,Marks,,
+375,Finland,365,Russia,1910,109676786,1,Marks,,
+375,Finland,93,Nicaragua,1910,0,1,Marks,,
+375,Finland,360,Romania,1910,285,1,Marks,,
+375,Finland,100,Colombia,1910,0,1,Marks,,
+375,Finland,616,Tunisia,1910,62414,1,Marks,,
+375,Finland,1065,Curacao,1910,0,1,Marks,,
+375,Finland,630,Iran,1910,0,1,Marks,,
+375,Finland,225,Switzerland,1910,991997,1,Marks,,
+375,Finland,3,Alaska,1910,0,1,Marks,,
+375,Finland,80,Belize,1910,0,1,Marks,,
+375,Finland,475,Nigeria,1910,0,1,Marks,,
+375,Finland,640,Turkey,1910,1687,1,Marks,,
+375,Finland,91,Honduras,1910,0,1,Marks,,
+375,Finland,130,Ecuador,1910,0,1,Marks,,
+375,Finland,135,Peru,1910,0,1,Marks,,
+375,Finland,95,Panama,1910,0,1,Marks,,
+375,Finland,385,Norway,1910,676128,1,Marks,,
+375,Finland,366,Estonia,1910,0,1,Marks,,
+375,Finland,220,France,1910,5754010,1,Marks,,
+375,Finland,150,Paraguay,1910,0,1,Marks,,
+375,Finland,900,Australia,1910,25,1,Marks,,
+375,Finland,210,Netherlands,1910,6710418,1,Marks,,
+375,Finland,511,Zanzibar,1910,0,1,Marks,,
+375,Finland,339,Albania,1910,0,1,Marks,,
+375,Finland,20,Canada,1910,633,1,Marks,,
+375,Finland,51,Jamaica,1910,0,1,Marks,,
+375,Finland,290,Poland,1910,0,1,Marks,,
+375,Finland,350,Greece,1910,82,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1910,0,1,Marks,,
+375,Finland,625,Sudan,1910,0,1,Marks,,
+375,Finland,730,Korea,1910,109,1,Marks,,
+375,Finland,22,British North America,1910,0,1,Marks,,
+375,Finland,310,Hungary,1910,0,1,Marks,,
+375,Finland,200,United Kingdom,1910,45708097,1,Marks,,
+375,Finland,710,China,1910,35,1,Marks,,
+375,Finland,590,Mauritius,1910,0,1,Marks,,
+375,Finland,310,Hungary,1911,0,1,Marks,,
+375,Finland,315,Czechoslovakia,1911,0,1,Marks,,
+375,Finland,291,Danzig,1911,0,1,Marks,,
+375,Finland,710,China,1911,384,1,Marks,,
+375,Finland,235,Portugal,1911,535071,1,Marks,,
+375,Finland,395,Iceland,1911,0,1,Marks,,
+375,Finland,630,Iran,1911,0,1,Marks,,
+375,Finland,465,British West Africa,1911,0,1,Marks,,
+375,Finland,41,Haiti,1911,0,1,Marks,,
+375,Finland,22,British North America,1911,0,1,Marks,,
+375,Finland,645,Iraq,1911,0,1,Marks,,
+375,Finland,690,Kuwait,1911,0,1,Marks,,
+375,Finland,8501,Java,1911,0,1,Marks,,
+375,Finland,665,West Bank And Gaza,1911,0,1,Marks,,
+375,Finland,355,Bulgaria,1911,306,1,Marks,,
+375,Finland,540,Angola,1911,0,1,Marks,,
+375,Finland,615,Algeria,1911,222,1,Marks,,
+375,Finland,651,Egypt,1911,1224,1,Marks,,
+375,Finland,360,Romania,1911,190,1,Marks,,
+375,Finland,625,Sudan,1911,0,1,Marks,,
+375,Finland,580,Madagascar,1911,0,1,Marks,,
+375,Finland,220,France,1911,6435995,1,Marks,,
+375,Finland,230,Spain,1911,2216657,1,Marks,,
+375,Finland,150,Paraguay,1911,0,1,Marks,,
+375,Finland,640,Turkey,1911,2166,1,Marks,,
+375,Finland,368,Lithuania,1911,0,1,Marks,,
+375,Finland,160,Argentina,1911,549242,1,Marks,,
+375,Finland,3651,Siberia,1911,0,1,Marks,,
+375,Finland,80,Belize,1911,0,1,Marks,,
+375,Finland,3,Alaska,1911,0,1,Marks,,
+375,Finland,51,Jamaica,1911,0,1,Marks,,
+375,Finland,366,Estonia,1911,0,1,Marks,,
+375,Finland,730,Korea,1911,0,1,Marks,,
+375,Finland,840,Philippines,1911,0,1,Marks,,
+375,Finland,2,United States,1911,1666,1,Marks,,
+375,Finland,200,United Kingdom,1911,61724420,1,Marks,,
+375,Finland,401,Madeira,1911,4850,1,Marks,,
+375,Finland,385,Norway,1911,567051,1,Marks,,
+375,Finland,325,Italy,1911,1143080,1,Marks,,
+375,Finland,290,Poland,1911,0,1,Marks,,
+375,Finland,700,Afghanistan,1911,0,1,Marks,,
+375,Finland,255,Germany,1911,173373012,1,Marks,,
+375,Finland,367,Latvia,1911,0,1,Marks,,
+375,Finland,339,Albania,1911,0,1,Marks,,
+375,Finland,20,Canada,1911,805,1,Marks,,
+375,Finland,212,Luxembourg,1911,0,1,Marks,,
+375,Finland,541,Mozambique,1911,0,1,Marks,,
+375,Finland,305,Austria,1911,0,1,Marks,,
+375,Finland,155,Chile,1911,2,1,Marks,,
+375,Finland,740,Japan,1911,1241,1,Marks,,
+375,Finland,70,Mexico,1911,77,1,Marks,,
+375,Finland,475,Nigeria,1911,0,1,Marks,,
+375,Finland,352,Cyprus,1911,0,1,Marks,,
+375,Finland,620,Libya,1911,0,1,Marks,,
+375,Finland,140,Brazil,1911,0,1,Marks,,
+375,Finland,93,Nicaragua,1911,0,1,Marks,,
+375,Finland,675,Arabia,1911,0,1,Marks,,
+375,Finland,1065,Curacao,1911,0,1,Marks,,
+375,Finland,100,Colombia,1911,0,1,Marks,,
+375,Finland,40,Cuba,1911,30,1,Marks,,
+375,Finland,225,Switzerland,1911,1083603,1,Marks,,
+375,Finland,365,Russia,1911,137037578,1,Marks,,
+375,Finland,165,Uruguay,1911,0,1,Marks,,
+375,Finland,91,Honduras,1911,0,1,Marks,,
+375,Finland,350,Greece,1911,275,1,Marks,,
+375,Finland,90,Guatemala,1911,0,1,Marks,,
+375,Finland,652,Syria,1911,0,1,Marks,,
+375,Finland,211,Belgium,1911,6141920,1,Marks,,
+375,Finland,530,Ethiopia,1911,0,1,Marks,,
+375,Finland,345,Yugoslavia,1911,0,1,Marks,,
+375,Finland,145,Bolivia,1911,0,1,Marks,,
+375,Finland,616,Tunisia,1911,52535,1,Marks,,
+375,Finland,511,Zanzibar,1911,0,1,Marks,,
+375,Finland,800,Thailand,1911,0,1,Marks,,
+375,Finland,210,Netherlands,1911,7262470,1,Marks,,
+375,Finland,390,Denmark,1911,23071115,1,Marks,,
+375,Finland,101,Venezuela,1911,0,1,Marks,,
+375,Finland,4,Hawaii,1911,0,1,Marks,,
+375,Finland,681,Aden,1911,0,1,Marks,,
+375,Finland,590,Mauritius,1911,0,1,Marks,,
+375,Finland,135,Peru,1911,0,1,Marks,,
+375,Finland,900,Australia,1911,0,1,Marks,,
+375,Finland,94,Costa Rica,1911,0,1,Marks,,
+375,Finland,433,Senegal,1911,0,1,Marks,,
+375,Finland,95,Panama,1911,0,1,Marks,,
+375,Finland,130,Ecuador,1911,0,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1911,0,1,Marks,,
+375,Finland,380,Sweden,1911,21013045,1,Marks,,
+375,Finland,205,Ireland,1911,0,1,Marks,,
+375,Finland,10,Greenland,1911,0,1,Marks,,
+375,Finland,450,Liberia,1911,25,1,Marks,,
+375,Finland,560,South Africa,1911,0,1,Marks,,
+375,Finland,780,Sri Lanka,1911,0,1,Marks,,
+375,Finland,92,El Salvador,1911,0,1,Marks,,
+375,Finland,,,1911,446788445,1,Marks,,
+375,Finland,560,South Africa,1912,0,1,Marks,,
+375,Finland,616,Tunisia,1912,0,1,Marks,,
+375,Finland,651,Egypt,1912,434,1,Marks,,
+375,Finland,305,Austria,1912,0,1,Marks,,
+375,Finland,160,Argentina,1912,718023,1,Marks,,
+375,Finland,740,Japan,1912,758,1,Marks,,
+375,Finland,140,Brazil,1912,0,1,Marks,,
+375,Finland,730,Korea,1912,0,1,Marks,,
+375,Finland,315,Czechoslovakia,1912,0,1,Marks,,
+375,Finland,355,Bulgaria,1912,5,1,Marks,,
+375,Finland,20,Canada,1912,1197,1,Marks,,
+375,Finland,345,Yugoslavia,1912,0,1,Marks,,
+375,Finland,1065,Curacao,1912,0,1,Marks,,
+375,Finland,530,Ethiopia,1912,0,1,Marks,,
+375,Finland,645,Iraq,1912,0,1,Marks,,
+375,Finland,352,Cyprus,1912,0,1,Marks,,
+375,Finland,690,Kuwait,1912,0,1,Marks,,
+375,Finland,675,Arabia,1912,0,1,Marks,,
+375,Finland,780,Sri Lanka,1912,0,1,Marks,,
+375,Finland,310,Hungary,1912,0,1,Marks,,
+375,Finland,450,Liberia,1912,0,1,Marks,,
+375,Finland,4,Hawaii,1912,0,1,Marks,,
+375,Finland,620,Libya,1912,0,1,Marks,,
+375,Finland,395,Iceland,1912,0,1,Marks,,
+375,Finland,130,Ecuador,1912,0,1,Marks,,
+375,Finland,212,Luxembourg,1912,0,1,Marks,,
+375,Finland,290,Poland,1912,0,1,Marks,,
+375,Finland,360,Romania,1912,162,1,Marks,,
+375,Finland,211,Belgium,1912,6527127,1,Marks,,
+375,Finland,220,France,1912,7437066,1,Marks,,
+375,Finland,41,Haiti,1912,0,1,Marks,,
+375,Finland,540,Angola,1912,0,1,Marks,,
+375,Finland,401,Madeira,1912,0,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1912,0,1,Marks,,
+375,Finland,135,Peru,1912,0,1,Marks,,
+375,Finland,95,Panama,1912,0,1,Marks,,
+375,Finland,155,Chile,1912,30,1,Marks,,
+375,Finland,325,Italy,1912,1634600,1,Marks,,
+375,Finland,255,Germany,1912,186763651,1,Marks,,
+375,Finland,625,Sudan,1912,0,1,Marks,,
+375,Finland,710,China,1912,238,1,Marks,,
+375,Finland,90,Guatemala,1912,0,1,Marks,,
+375,Finland,92,El Salvador,1912,0,1,Marks,,
+375,Finland,630,Iran,1912,0,1,Marks,,
+375,Finland,465,British West Africa,1912,0,1,Marks,,
+375,Finland,665,West Bank And Gaza,1912,291,1,Marks,,
+375,Finland,225,Switzerland,1912,1180424,1,Marks,,
+375,Finland,291,Danzig,1912,0,1,Marks,,
+375,Finland,380,Sweden,1912,25371233,1,Marks,,
+375,Finland,93,Nicaragua,1912,0,1,Marks,,
+375,Finland,900,Australia,1912,83,1,Marks,,
+375,Finland,385,Norway,1912,716414,1,Marks,,
+375,Finland,580,Madagascar,1912,0,1,Marks,,
+375,Finland,475,Nigeria,1912,0,1,Marks,,
+375,Finland,100,Colombia,1912,0,1,Marks,,
+375,Finland,541,Mozambique,1912,0,1,Marks,,
+375,Finland,145,Bolivia,1912,0,1,Marks,,
+375,Finland,640,Turkey,1912,5447,1,Marks,,
+375,Finland,615,Algeria,1912,20,1,Marks,,
+375,Finland,8501,Java,1912,27,1,Marks,,
+375,Finland,511,Zanzibar,1912,0,1,Marks,,
+375,Finland,51,Jamaica,1912,0,1,Marks,,
+375,Finland,367,Latvia,1912,0,1,Marks,,
+375,Finland,433,Senegal,1912,0,1,Marks,,
+375,Finland,652,Syria,1912,0,1,Marks,,
+375,Finland,368,Lithuania,1912,0,1,Marks,,
+375,Finland,590,Mauritius,1912,0,1,Marks,,
+375,Finland,91,Honduras,1912,0,1,Marks,,
+375,Finland,681,Aden,1912,0,1,Marks,,
+375,Finland,210,Netherlands,1912,9214630,1,Marks,,
+375,Finland,840,Philippines,1912,0,1,Marks,,
+375,Finland,365,Russia,1912,131150448,1,Marks,,
+375,Finland,390,Denmark,1912,25213474,1,Marks,,
+375,Finland,3,Alaska,1912,0,1,Marks,,
+375,Finland,2,United States,1912,2475,1,Marks,,
+375,Finland,700,Afghanistan,1912,0,1,Marks,,
+375,Finland,22,British North America,1912,0,1,Marks,,
+375,Finland,101,Venezuela,1912,0,1,Marks,,
+375,Finland,70,Mexico,1912,0,1,Marks,,
+375,Finland,94,Costa Rica,1912,0,1,Marks,,
+375,Finland,366,Estonia,1912,0,1,Marks,,
+375,Finland,350,Greece,1912,326,1,Marks,,
+375,Finland,339,Albania,1912,0,1,Marks,,
+375,Finland,150,Paraguay,1912,0,1,Marks,,
+375,Finland,10,Greenland,1912,0,1,Marks,,
+375,Finland,205,Ireland,1912,0,1,Marks,,
+375,Finland,165,Uruguay,1912,0,1,Marks,,
+375,Finland,200,United Kingdom,1912,68334987,1,Marks,,
+375,Finland,3651,Siberia,1912,0,1,Marks,,
+375,Finland,235,Portugal,1912,402176,1,Marks,,
+375,Finland,80,Belize,1912,0,1,Marks,,
+375,Finland,800,Thailand,1912,10,1,Marks,,
+375,Finland,40,Cuba,1912,75,1,Marks,,
+375,Finland,,,1912,473162443,1,Marks,,
+375,Finland,230,Spain,1912,2235898,1,Marks,,
+375,Finland,135,Peru,1913,0,1,Marks,,
+375,Finland,22,British North America,1913,0,1,Marks,,
+375,Finland,368,Lithuania,1913,0,1,Marks,,
+375,Finland,690,Kuwait,1913,0,1,Marks,,
+375,Finland,315,Czechoslovakia,1913,0,1,Marks,,
+375,Finland,91,Honduras,1913,0,1,Marks,,
+375,Finland,95,Panama,1913,0,1,Marks,,
+375,Finland,93,Nicaragua,1913,0,1,Marks,,
+375,Finland,160,Argentina,1913,607213,1,Marks,,
+375,Finland,511,Zanzibar,1913,0,1,Marks,,
+375,Finland,541,Mozambique,1913,0,1,Marks,,
+375,Finland,900,Australia,1913,100,1,Marks,,
+375,Finland,,,1913,498150180,1,Marks,,
+375,Finland,395,Iceland,1913,0,1,Marks,,
+375,Finland,339,Albania,1913,0,1,Marks,,
+375,Finland,651,Egypt,1913,460977,1,Marks,,
+375,Finland,94,Costa Rica,1913,0,1,Marks,,
+375,Finland,225,Switzerland,1913,1071528,1,Marks,,
+375,Finland,70,Mexico,1913,10,1,Marks,,
+375,Finland,652,Syria,1913,0,1,Marks,,
+375,Finland,367,Latvia,1913,0,1,Marks,,
+375,Finland,92,El Salvador,1913,0,1,Marks,,
+375,Finland,390,Denmark,1913,29353142,1,Marks,,
+375,Finland,212,Luxembourg,1913,0,1,Marks,,
+375,Finland,385,Norway,1913,573489,1,Marks,,
+375,Finland,352,Cyprus,1913,0,1,Marks,,
+375,Finland,740,Japan,1913,374,1,Marks,,
+375,Finland,780,Sri Lanka,1913,0,1,Marks,,
+375,Finland,580,Madagascar,1913,0,1,Marks,,
+375,Finland,51,Jamaica,1913,0,1,Marks,,
+375,Finland,355,Bulgaria,1913,20,1,Marks,,
+375,Finland,450,Liberia,1913,0,1,Marks,,
+375,Finland,616,Tunisia,1913,0,1,Marks,,
+375,Finland,700,Afghanistan,1913,0,1,Marks,,
+375,Finland,401,Madeira,1913,793,1,Marks,,
+375,Finland,150,Paraguay,1913,0,1,Marks,,
+375,Finland,345,Yugoslavia,1913,10,1,Marks,,
+375,Finland,310,Hungary,1913,0,1,Marks,,
+375,Finland,140,Brazil,1913,0,1,Marks,,
+375,Finland,101,Venezuela,1913,0,1,Marks,,
+375,Finland,1065,Curacao,1913,0,1,Marks,,
+375,Finland,210,Netherlands,1913,10412116,1,Marks,,
+375,Finland,360,Romania,1913,105,1,Marks,,
+375,Finland,211,Belgium,1913,8039501,1,Marks,,
+375,Finland,220,France,1913,7113267,1,Marks,,
+375,Finland,665,West Bank And Gaza,1913,0,1,Marks,,
+375,Finland,645,Iraq,1913,0,1,Marks,,
+375,Finland,615,Algeria,1913,153,1,Marks,,
+375,Finland,145,Bolivia,1913,0,1,Marks,,
+375,Finland,100,Colombia,1913,0,1,Marks,,
+375,Finland,255,Germany,1913,202534531,1,Marks,,
+375,Finland,2,United States,1913,3687,1,Marks,,
+375,Finland,560,South Africa,1913,0,1,Marks,,
+375,Finland,3651,Siberia,1913,0,1,Marks,,
+375,Finland,640,Turkey,1913,2767,1,Marks,,
+375,Finland,530,Ethiopia,1913,0,1,Marks,,
+375,Finland,540,Angola,1913,0,1,Marks,,
+375,Finland,90,Guatemala,1913,0,1,Marks,,
+375,Finland,20,Canada,1913,1457,1,Marks,,
+375,Finland,291,Danzig,1913,0,1,Marks,,
+375,Finland,4,Hawaii,1913,0,1,Marks,,
+375,Finland,205,Ireland,1913,0,1,Marks,,
+375,Finland,800,Thailand,1913,0,1,Marks,,
+375,Finland,730,Korea,1913,0,1,Marks,,
+375,Finland,710,China,1913,204,1,Marks,,
+375,Finland,675,Arabia,1913,0,1,Marks,,
+375,Finland,8501,Java,1913,0,1,Marks,,
+375,Finland,380,Sweden,1913,27520561,1,Marks,,
+375,Finland,305,Austria,1913,0,1,Marks,,
+375,Finland,681,Aden,1913,0,1,Marks,,
+375,Finland,465,British West Africa,1913,0,1,Marks,,
+375,Finland,625,Sudan,1913,0,1,Marks,,
+375,Finland,620,Libya,1913,0,1,Marks,,
+375,Finland,41,Haiti,1913,0,1,Marks,,
+375,Finland,475,Nigeria,1913,0,1,Marks,,
+375,Finland,235,Portugal,1913,448237,1,Marks,,
+375,Finland,433,Senegal,1913,0,1,Marks,,
+375,Finland,630,Iran,1913,0,1,Marks,,
+375,Finland,10,Greenland,1913,0,1,Marks,,
+375,Finland,350,Greece,1913,110,1,Marks,,
+375,Finland,590,Mauritius,1913,0,1,Marks,,
+375,Finland,230,Spain,1913,2691701,1,Marks,,
+375,Finland,3,Alaska,1913,0,1,Marks,,
+375,Finland,80,Belize,1913,0,1,Marks,,
+375,Finland,130,Ecuador,1913,0,1,Marks,,
+375,Finland,365,Russia,1913,139505420,1,Marks,,
+375,Finland,290,Poland,1913,0,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1913,0,1,Marks,,
+375,Finland,40,Cuba,1913,0,1,Marks,,
+375,Finland,200,United Kingdom,1913,60660418,1,Marks,,
+375,Finland,155,Chile,1913,0,1,Marks,,
+375,Finland,165,Uruguay,1913,1,1,Marks,,
+375,Finland,366,Estonia,1913,0,1,Marks,,
+375,Finland,840,Philippines,1913,0,1,Marks,,
+375,Finland,325,Italy,1913,1717042,1,Marks,,
+375,Finland,41,Haiti,1914,0,1,Marks,,
+375,Finland,380,Sweden,1914,40133231,1,Marks,,
+375,Finland,291,Danzig,1914,0,1,Marks,,
+375,Finland,681,Aden,1914,0,1,Marks,,
+375,Finland,230,Spain,1914,1490660,1,Marks,,
+375,Finland,140,Brazil,1914,0,1,Marks,,
+375,Finland,90,Guatemala,1914,0,1,Marks,,
+375,Finland,145,Bolivia,1914,0,1,Marks,,
+375,Finland,385,Norway,1914,1653591,1,Marks,,
+375,Finland,135,Peru,1914,0,1,Marks,,
+375,Finland,652,Syria,1914,0,1,Marks,,
+375,Finland,95,Panama,1914,0,1,Marks,,
+375,Finland,740,Japan,1914,49,1,Marks,,
+375,Finland,345,Yugoslavia,1914,32,1,Marks,,
+375,Finland,511,Zanzibar,1914,0,1,Marks,,
+375,Finland,900,Australia,1914,0,1,Marks,,
+375,Finland,290,Poland,1914,0,1,Marks,,
+375,Finland,840,Philippines,1914,0,1,Marks,,
+375,Finland,101,Venezuela,1914,0,1,Marks,,
+375,Finland,165,Uruguay,1914,0,1,Marks,,
+375,Finland,225,Switzerland,1914,577266,1,Marks,,
+375,Finland,3651,Siberia,1914,0,1,Marks,,
+375,Finland,4,Hawaii,1914,0,1,Marks,,
+375,Finland,22,British North America,1914,0,1,Marks,,
+375,Finland,490,"Congo, Dem. Republic",1914,0,1,Marks,,
+375,Finland,730,Korea,1914,0,1,Marks,,
+375,Finland,665,West Bank And Gaza,1914,0,1,Marks,,
+375,Finland,40,Cuba,1914,0,1,Marks,,
+375,Finland,710,China,1914,1637,1,Marks,,
+375,Finland,130,Ecuador,1914,0,1,Marks,,
+375,Finland,645,Iraq,1914,0,1,Marks,,
+375,Finland,339,Albania,1914,0,1,Marks,,
+375,Finland,211,Belgium,1914,6109385,1,Marks,,
+375,Finland,540,Angola,1914,0,1,Marks,,
+375,Finland,590,Mauritius,1914,0,1,Marks,,
+375,Finland,530,Ethiopia,1914,0,1,Marks,,
+375,Finland,675,Arabia,1914,0,1,Marks,,
+375,Finland,615,Algeria,1914,73,1,Marks,,
+375,Finland,620,Libya,1914,0,1,Marks,,
+375,Finland,92,El Salvador,1914,0,1,Marks,,
+375,Finland,368,Lithuania,1914,0,1,Marks,,
+375,Finland,401,Madeira,1914,410,1,Marks,,
+375,Finland,475,Nigeria,1914,0,1,Marks,,
+375,Finland,160,Argentina,1914,5,1,Marks,,
+375,Finland,366,Estonia,1914,0,1,Marks,,
+375,Finland,541,Mozambique,1914,0,1,Marks,,
+375,Finland,210,Netherlands,1914,7964409,1,Marks,,
+375,Finland,390,Denmark,1914,17615705,1,Marks,,
+375,Finland,325,Italy,1914,1663266,1,Marks,,
+375,Finland,3,Alaska,1914,0,1,Marks,,
+375,Finland,80,Belize,1914,0,1,Marks,,
+375,Finland,1065,Curacao,1914,0,1,Marks,,
+375,Finland,220,France,1914,3485985,1,Marks,,
+375,Finland,352,Cyprus,1914,0,1,Marks,,
+375,Finland,365,Russia,1914,144440054,1,Marks,,
+375,Finland,200,United Kingdom,1914,33618597,1,Marks,,
+375,Finland,367,Latvia,1914,0,1,Marks,,
+375,Finland,94,Costa Rica,1914,0,1,Marks,,
+375,Finland,10,Greenland,1914,0,1,Marks,,
+375,Finland,395,Iceland,1914,0,1,Marks,,
+375,Finland,640,Turkey,1914,2680,1,Marks,,
+375,Finland,93,Nicaragua,1914,0,1,Marks,,
+375,Finland,20,Canada,1914,631,1,Marks,,
+375,Finland,8501,Java,1914,61,1,Marks,,
+375,Finland,212,Luxembourg,1914,0,1,Marks,,
+375,Finland,2,United States,1914,1722,1,Marks,,
+375,Finland,305,Austria,1914,0,1,Marks,,
+375,Finland,700,Afghanistan,1914,0,1,Marks,,
+375,Finland,630,Iran,1914,0,1,Marks,,
+375,Finland,,,1914,382932463,1,Marks,,
+375,Finland,315,Czechoslovakia,1914,0,1,Marks,,
+375,Finland,450,Liberia,1914,0,1,Marks,,
+375,Finland,355,Bulgaria,1914,0,1,Marks,,
+375,Finland,91,Honduras,1914,0,1,Marks,,
+375,Finland,235,Portugal,1914,258627,1,Marks,,
+375,Finland,255,Germany,1914,118377858,1,Marks,,
+375,Finland,150,Paraguay,1914,0,1,Marks,,
+375,Finland,465,British West Africa,1914,0,1,Marks,,
+375,Finland,360,Romania,1914,0,1,Marks,,
+375,Finland,51,Jamaica,1914,0,1,Marks,,
+375,Finland,800,Thailand,1914,78,1,Marks,,
+375,Finland,651,Egypt,1914,365,1,Marks,,
+375,Finland,625,Sudan,1914,0,1,Marks,,
+375,Finland,580,Madagascar,1914,0,1,Marks,,
+375,Finland,780,Sri Lanka,1914,0,1,Marks,,
+375,Finland,560,South Africa,1914,0,1,Marks,,
+375,Finland,433,Senegal,1914,0,1,Marks,,
+375,Finland,155,Chile,1914,0,1,Marks,,
+375,Finland,205,Ireland,1914,0,1,Marks,,
+375,Finland,70,Mexico,1914,20,1,Marks,,
+375,Finland,310,Hungary,1914,0,1,Marks,,
+375,Finland,690,Kuwait,1914,0,1,Marks,,
+375,Finland,616,Tunisia,1914,0,1,Marks,,
+375,Finland,100,Colombia,1914,0,1,Marks,,
+375,Finland,350,Greece,1914,88,1,Marks,,
+375,Finland,651,Egypt,1915,1466,1,Marks,6.4492002,6.4492002
+375,Finland,615,Algeria,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,380,Sweden,1915,163919897,1,Marks,6.4492002,6.4492002
+375,Finland,355,Bulgaria,1915,10,1,Marks,6.4492002,6.4492002
+375,Finland,900,Australia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,800,Thailand,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,225,Switzerland,1915,120664,1,Marks,6.4492002,6.4492002
+375,Finland,10,Greenland,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,230,Spain,1915,385278,1,Marks,6.4492002,6.4492002
+375,Finland,681,Aden,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,385,Norway,1915,387566,1,Marks,6.4492002,6.4492002
+375,Finland,367,Latvia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,465,British West Africa,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,740,Japan,1915,9008,1,Marks,6.4492002,6.4492002
+375,Finland,80,Belize,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,352,Cyprus,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,345,Yugoslavia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,165,Uruguay,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,390,Denmark,1915,12399399,1,Marks,6.4492002,6.4492002
+375,Finland,20,Canada,1915,320,1,Marks,6.4492002,6.4492002
+375,Finland,540,Angola,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,366,Estonia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,1065,Curacao,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,700,Afghanistan,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,652,Syria,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,360,Romania,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,,,1915,581080400,1,Marks,6.4492002,6.4492002
+375,Finland,339,Albania,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,92,El Salvador,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,365,Russia,1915,382326298,1,Marks,6.4492002,6.4492002
+375,Finland,220,France,1915,1820381,1,Marks,6.4492002,6.4492002
+375,Finland,310,Hungary,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,8501,Java,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,51,Jamaica,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,640,Turkey,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,590,Mauritius,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,41,Haiti,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,4,Hawaii,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,135,Peru,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,645,Iraq,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,450,Liberia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,94,Costa Rica,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,3651,Siberia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,665,West Bank And Gaza,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,150,Paraguay,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,315,Czechoslovakia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,93,Nicaragua,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,730,Korea,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,130,Ecuador,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,235,Portugal,1915,128920,1,Marks,6.4492002,6.4492002
+375,Finland,395,Iceland,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,625,Sudan,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,91,Honduras,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,205,Ireland,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,40,Cuba,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,160,Argentina,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,2,United States,1915,1980,1,Marks,6.4492002,6.4492002
+375,Finland,620,Libya,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,291,Danzig,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,710,China,1915,246,1,Marks,6.4492002,6.4492002
+375,Finland,433,Senegal,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,140,Brazil,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,290,Poland,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,70,Mexico,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,325,Italy,1915,81951,1,Marks,6.4492002,6.4492002
+375,Finland,616,Tunisia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,511,Zanzibar,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,305,Austria,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,90,Guatemala,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,690,Kuwait,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,145,Bolivia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,210,Netherlands,1915,1841474,1,Marks,6.4492002,6.4492002
+375,Finland,475,Nigeria,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,101,Venezuela,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,560,South Africa,1915,60,1,Marks,6.4492002,6.4492002
+375,Finland,675,Arabia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,22,British North America,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,255,Germany,1915,6944313,1,Marks,6.4492002,6.4492002
+375,Finland,368,Lithuania,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,212,Luxembourg,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,200,United Kingdom,1915,4894069,1,Marks,6.4492002,6.4492002
+375,Finland,155,Chile,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,780,Sri Lanka,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,3,Alaska,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,401,Madeira,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,840,Philippines,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,211,Belgium,1915,466840,1,Marks,6.4492002,6.4492002
+375,Finland,630,Iran,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,490,"Congo, Dem. Republic",1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,95,Panama,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,100,Colombia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,350,Greece,1915,6702,1,Marks,6.4492002,6.4492002
+375,Finland,580,Madagascar,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,530,Ethiopia,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,541,Mozambique,1915,0,1,Marks,6.4492002,6.4492002
+375,Finland,95,Panama,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,350,Greece,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,235,Portugal,1916,119,1,Marks,7.2283001,7.2283001
+375,Finland,730,Korea,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,1065,Curacao,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,10,Greenland,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,710,China,1916,426,1,Marks,7.2283001,7.2283001
+375,Finland,200,United Kingdom,1916,1204130,1,Marks,7.2283001,7.2283001
+375,Finland,541,Mozambique,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,690,Kuwait,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,51,Jamaica,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,511,Zanzibar,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,652,Syria,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,540,Angola,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,310,Hungary,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,401,Madeira,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,840,Philippines,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,681,Aden,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,212,Luxembourg,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,40,Cuba,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,4,Hawaii,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,651,Egypt,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,345,Yugoslavia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,365,Russia,1916,594537779,1,Marks,7.2283001,7.2283001
+375,Finland,291,Danzig,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,94,Costa Rica,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,93,Nicaragua,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,740,Japan,1916,51855,1,Marks,7.2283001,7.2283001
+375,Finland,140,Brazil,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,150,Paraguay,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,325,Italy,1916,13364,1,Marks,7.2283001,7.2283001
+375,Finland,160,Argentina,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,395,Iceland,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,255,Germany,1916,450604,1,Marks,7.2283001,7.2283001
+375,Finland,620,Libya,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,135,Peru,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,368,Lithuania,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,101,Venezuela,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,380,Sweden,1916,323541826,1,Marks,7.2283001,7.2283001
+375,Finland,91,Honduras,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,3651,Siberia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,700,Afghanistan,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,315,Czechoslovakia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,155,Chile,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,22,British North America,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,780,Sri Lanka,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,360,Romania,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,290,Poland,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,475,Nigeria,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,210,Netherlands,1916,1016691,1,Marks,7.2283001,7.2283001
+375,Finland,645,Iraq,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,366,Estonia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,490,"Congo, Dem. Republic",1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,130,Ecuador,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,70,Mexico,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,367,Latvia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,230,Spain,1916,22313,1,Marks,7.2283001,7.2283001
+375,Finland,630,Iran,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,560,South Africa,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,675,Arabia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,665,West Bank And Gaza,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,,,1916,975308205,1,Marks,7.2283001,7.2283001
+375,Finland,41,Haiti,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,640,Turkey,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,390,Denmark,1916,23303819,1,Marks,7.2283001,7.2283001
+375,Finland,211,Belgium,1916,69676,1,Marks,7.2283001,7.2283001
+375,Finland,900,Australia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,590,Mauritius,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,625,Sudan,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,355,Bulgaria,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,20,Canada,1916,129,1,Marks,7.2283001,7.2283001
+375,Finland,220,France,1916,688663,1,Marks,7.2283001,7.2283001
+375,Finland,90,Guatemala,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,465,British West Africa,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,616,Tunisia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,615,Algeria,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,3,Alaska,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,205,Ireland,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,352,Cyprus,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,433,Senegal,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,225,Switzerland,1916,417189,1,Marks,7.2283001,7.2283001
+375,Finland,2,United States,1916,142936,1,Marks,7.2283001,7.2283001
+375,Finland,339,Albania,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,800,Thailand,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,80,Belize,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,580,Madagascar,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,450,Liberia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,165,Uruguay,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,530,Ethiopia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,305,Austria,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,145,Bolivia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,92,El Salvador,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,385,Norway,1916,4857554,1,Marks,7.2283001,7.2283001
+375,Finland,100,Colombia,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,8501,Java,1916,0,1,Marks,7.2283001,7.2283001
+375,Finland,10,Greenland,1917,0,1,Marks,7.4442,7.4442
+375,Finland,690,Kuwait,1917,0,1,Marks,7.4442,7.4442
+375,Finland,710,China,1917,337,1,Marks,7.4442,7.4442
+375,Finland,645,Iraq,1917,0,1,Marks,7.4442,7.4442
+375,Finland,2,United States,1917,203498,1,Marks,7.4442,7.4442
+375,Finland,652,Syria,1917,0,1,Marks,7.4442,7.4442
+375,Finland,305,Austria,1917,0,1,Marks,7.4442,7.4442
+375,Finland,433,Senegal,1917,0,1,Marks,7.4442,7.4442
+375,Finland,22,British North America,1917,0,1,Marks,7.4442,7.4442
+375,Finland,395,Iceland,1917,0,1,Marks,7.4442,7.4442
+375,Finland,630,Iran,1917,0,1,Marks,7.4442,7.4442
+375,Finland,20,Canada,1917,1214,1,Marks,7.4442,7.4442
+375,Finland,616,Tunisia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,730,Korea,1917,0,1,Marks,7.4442,7.4442
+375,Finland,100,Colombia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,651,Egypt,1917,0,1,Marks,7.4442,7.4442
+375,Finland,93,Nicaragua,1917,0,1,Marks,7.4442,7.4442
+375,Finland,200,United Kingdom,1917,1192844,1,Marks,7.4442,7.4442
+375,Finland,40,Cuba,1917,0,1,Marks,7.4442,7.4442
+375,Finland,640,Turkey,1917,0,1,Marks,7.4442,7.4442
+375,Finland,465,British West Africa,1917,0,1,Marks,7.4442,7.4442
+375,Finland,530,Ethiopia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,475,Nigeria,1917,0,1,Marks,7.4442,7.4442
+375,Finland,80,Belize,1917,0,1,Marks,7.4442,7.4442
+375,Finland,675,Arabia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,385,Norway,1917,1921768,1,Marks,7.4442,7.4442
+375,Finland,235,Portugal,1917,2268,1,Marks,7.4442,7.4442
+375,Finland,220,France,1917,393503,1,Marks,7.4442,7.4442
+375,Finland,8501,Java,1917,0,1,Marks,7.4442,7.4442
+375,Finland,615,Algeria,1917,0,1,Marks,7.4442,7.4442
+375,Finland,339,Albania,1917,0,1,Marks,7.4442,7.4442
+375,Finland,365,Russia,1917,572377310,1,Marks,7.4442,7.4442
+375,Finland,367,Latvia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,101,Venezuela,1917,0,1,Marks,7.4442,7.4442
+375,Finland,150,Paraguay,1917,0,1,Marks,7.4442,7.4442
+375,Finland,291,Danzig,1917,0,1,Marks,7.4442,7.4442
+375,Finland,368,Lithuania,1917,0,1,Marks,7.4442,7.4442
+375,Finland,41,Haiti,1917,0,1,Marks,7.4442,7.4442
+375,Finland,360,Romania,1917,0,1,Marks,7.4442,7.4442
+375,Finland,135,Peru,1917,0,1,Marks,7.4442,7.4442
+375,Finland,350,Greece,1917,0,1,Marks,7.4442,7.4442
+375,Finland,580,Madagascar,1917,0,1,Marks,7.4442,7.4442
+375,Finland,211,Belgium,1917,140,1,Marks,7.4442,7.4442
+375,Finland,230,Spain,1917,378,1,Marks,7.4442,7.4442
+375,Finland,740,Japan,1917,584795,1,Marks,7.4442,7.4442
+375,Finland,,,1917,1285973148,1,Marks,7.4442,7.4442
+375,Finland,3651,Siberia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,225,Switzerland,1917,708245,1,Marks,7.4442,7.4442
+375,Finland,620,Libya,1917,0,1,Marks,7.4442,7.4442
+375,Finland,366,Estonia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,210,Netherlands,1917,892018,1,Marks,7.4442,7.4442
+375,Finland,160,Argentina,1917,0,1,Marks,7.4442,7.4442
+375,Finland,780,Sri Lanka,1917,0,1,Marks,7.4442,7.4442
+375,Finland,290,Poland,1917,0,1,Marks,7.4442,7.4442
+375,Finland,1065,Curacao,1917,0,1,Marks,7.4442,7.4442
+375,Finland,700,Afghanistan,1917,0,1,Marks,7.4442,7.4442
+375,Finland,665,West Bank And Gaza,1917,0,1,Marks,7.4442,7.4442
+375,Finland,155,Chile,1917,0,1,Marks,7.4442,7.4442
+375,Finland,70,Mexico,1917,0,1,Marks,7.4442,7.4442
+375,Finland,511,Zanzibar,1917,0,1,Marks,7.4442,7.4442
+375,Finland,560,South Africa,1917,0,1,Marks,7.4442,7.4442
+375,Finland,91,Honduras,1917,0,1,Marks,7.4442,7.4442
+375,Finland,165,Uruguay,1917,0,1,Marks,7.4442,7.4442
+375,Finland,255,Germany,1917,110835,1,Marks,7.4442,7.4442
+375,Finland,401,Madeira,1917,0,1,Marks,7.4442,7.4442
+375,Finland,840,Philippines,1917,0,1,Marks,7.4442,7.4442
+375,Finland,94,Costa Rica,1917,0,1,Marks,7.4442,7.4442
+375,Finland,625,Sudan,1917,0,1,Marks,7.4442,7.4442
+375,Finland,390,Denmark,1917,19485159,1,Marks,7.4442,7.4442
+375,Finland,355,Bulgaria,1917,0,1,Marks,7.4442,7.4442
+375,Finland,51,Jamaica,1917,0,1,Marks,7.4442,7.4442
+375,Finland,315,Czechoslovakia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,95,Panama,1917,0,1,Marks,7.4442,7.4442
+375,Finland,145,Bolivia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,3,Alaska,1917,0,1,Marks,7.4442,7.4442
+375,Finland,130,Ecuador,1917,0,1,Marks,7.4442,7.4442
+375,Finland,205,Ireland,1917,0,1,Marks,7.4442,7.4442
+375,Finland,900,Australia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,590,Mauritius,1917,0,1,Marks,7.4442,7.4442
+375,Finland,540,Angola,1917,0,1,Marks,7.4442,7.4442
+375,Finland,800,Thailand,1917,0,1,Marks,7.4442,7.4442
+375,Finland,310,Hungary,1917,0,1,Marks,7.4442,7.4442
+375,Finland,681,Aden,1917,0,1,Marks,7.4442,7.4442
+375,Finland,325,Italy,1917,5345,1,Marks,7.4442,7.4442
+375,Finland,541,Mozambique,1917,0,1,Marks,7.4442,7.4442
+375,Finland,140,Brazil,1917,0,1,Marks,7.4442,7.4442
+375,Finland,490,"Congo, Dem. Republic",1917,0,1,Marks,7.4442,7.4442
+375,Finland,4,Hawaii,1917,0,1,Marks,7.4442,7.4442
+375,Finland,345,Yugoslavia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,90,Guatemala,1917,0,1,Marks,7.4442,7.4442
+375,Finland,92,El Salvador,1917,0,1,Marks,7.4442,7.4442
+375,Finland,450,Liberia,1917,0,1,Marks,7.4442,7.4442
+375,Finland,380,Sweden,1917,580006559,1,Marks,7.4442,7.4442
+375,Finland,212,Luxembourg,1917,0,1,Marks,7.4442,7.4442
+375,Finland,352,Cyprus,1917,0,1,Marks,7.4442,7.4442
+375,Finland,290,Poland,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,620,Libya,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,2,United States,1918,6068481,1,Marks,8.0811005,8.0811005
+375,Finland,640,Turkey,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,395,Iceland,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,91,Honduras,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,225,Switzerland,1918,2333284,1,Marks,8.0811005,8.0811005
+375,Finland,616,Tunisia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,365,Russia,1918,47813419,1,Marks,8.0811005,8.0811005
+375,Finland,355,Bulgaria,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,140,Brazil,1918,49625,1,Marks,8.0811005,8.0811005
+375,Finland,315,Czechoslovakia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,212,Luxembourg,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,93,Nicaragua,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,645,Iraq,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,433,Senegal,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,401,Madeira,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,450,Liberia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,200,United Kingdom,1918,29466276,1,Marks,8.0811005,8.0811005
+375,Finland,4,Hawaii,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,339,Albania,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,325,Italy,1918,87806,1,Marks,8.0811005,8.0811005
+375,Finland,465,British West Africa,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,22,British North America,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,800,Thailand,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,345,Yugoslavia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,840,Philippines,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,630,Iran,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,360,Romania,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,165,Uruguay,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,1065,Curacao,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,,,1918,511974574,1,Marks,8.0811005,8.0811005
+375,Finland,95,Panama,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,94,Costa Rica,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,367,Latvia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,385,Norway,1918,31659799,1,Marks,8.0811005,8.0811005
+375,Finland,130,Ecuador,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,255,Germany,1918,101181781,1,Marks,8.0811005,8.0811005
+375,Finland,590,Mauritius,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,350,Greece,1918,23230,1,Marks,8.0811005,8.0811005
+375,Finland,100,Colombia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,145,Bolivia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,368,Lithuania,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,291,Danzig,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,390,Denmark,1918,96592685,1,Marks,8.0811005,8.0811005
+375,Finland,211,Belgium,1918,39000,1,Marks,8.0811005,8.0811005
+375,Finland,10,Greenland,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,675,Arabia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,20,Canada,1918,110,1,Marks,8.0811005,8.0811005
+375,Finland,615,Algeria,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,560,South Africa,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,8501,Java,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,90,Guatemala,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,135,Peru,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,730,Korea,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,310,Hungary,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,155,Chile,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,380,Sweden,1918,139619024,1,Marks,8.0811005,8.0811005
+375,Finland,490,"Congo, Dem. Republic",1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,70,Mexico,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,230,Spain,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,651,Egypt,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,101,Venezuela,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,625,Sudan,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,352,Cyprus,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,3651,Siberia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,51,Jamaica,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,681,Aden,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,700,Afghanistan,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,150,Paraguay,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,235,Portugal,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,160,Argentina,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,665,West Bank And Gaza,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,80,Belize,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,541,Mozambique,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,530,Ethiopia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,780,Sri Lanka,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,652,Syria,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,40,Cuba,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,710,China,1918,12480,1,Marks,8.0811005,8.0811005
+375,Finland,900,Australia,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,580,Madagascar,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,511,Zanzibar,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,41,Haiti,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,475,Nigeria,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,366,Estonia,1918,20177083,1,Marks,8.0811005,8.0811005
+375,Finland,3,Alaska,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,740,Japan,1918,199437,1,Marks,8.0811005,8.0811005
+375,Finland,205,Ireland,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,540,Angola,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,92,El Salvador,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,220,France,1918,2637970,1,Marks,8.0811005,8.0811005
+375,Finland,305,Austria,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,210,Netherlands,1918,19286878,1,Marks,8.0811005,8.0811005
+375,Finland,690,Kuwait,1918,0,1,Marks,8.0811005,8.0811005
+375,Finland,450,Liberia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,681,Aden,1919,0,1,Marks,18.2729,18.2729
+375,Finland,367,Latvia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,3,Alaska,1919,0,1,Marks,18.2729,18.2729
+375,Finland,155,Chile,1919,0,1,Marks,18.2729,18.2729
+375,Finland,385,Norway,1919,57449836,1,Marks,18.2729,18.2729
+375,Finland,616,Tunisia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,433,Senegal,1919,0,1,Marks,18.2729,18.2729
+375,Finland,150,Paraguay,1919,0,1,Marks,18.2729,18.2729
+375,Finland,210,Netherlands,1919,80699998,1,Marks,18.2729,18.2729
+375,Finland,205,Ireland,1919,0,1,Marks,18.2729,18.2729
+375,Finland,800,Thailand,1919,0,1,Marks,18.2729,18.2729
+375,Finland,305,Austria,1919,423334,1,Marks,18.2729,18.2729
+375,Finland,580,Madagascar,1919,0,1,Marks,18.2729,18.2729
+375,Finland,401,Madeira,1919,0,1,Marks,18.2729,18.2729
+375,Finland,620,Libya,1919,0,1,Marks,18.2729,18.2729
+375,Finland,710,China,1919,512,1,Marks,18.2729,18.2729
+375,Finland,730,Korea,1919,0,1,Marks,18.2729,18.2729
+375,Finland,130,Ecuador,1919,0,1,Marks,18.2729,18.2729
+375,Finland,390,Denmark,1919,276392018,1,Marks,18.2729,18.2729
+375,Finland,700,Afghanistan,1919,0,1,Marks,18.2729,18.2729
+375,Finland,645,Iraq,1919,0,1,Marks,18.2729,18.2729
+375,Finland,4,Hawaii,1919,0,1,Marks,18.2729,18.2729
+375,Finland,395,Iceland,1919,150,1,Marks,18.2729,18.2729
+375,Finland,93,Nicaragua,1919,0,1,Marks,18.2729,18.2729
+375,Finland,675,Arabia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,355,Bulgaria,1919,0,1,Marks,18.2729,18.2729
+375,Finland,95,Panama,1919,0,1,Marks,18.2729,18.2729
+375,Finland,640,Turkey,1919,13736403,1,Marks,18.2729,18.2729
+375,Finland,135,Peru,1919,0,1,Marks,18.2729,18.2729
+375,Finland,145,Bolivia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,310,Hungary,1919,0,1,Marks,18.2729,18.2729
+375,Finland,290,Poland,1919,0,1,Marks,18.2729,18.2729
+375,Finland,511,Zanzibar,1919,0,1,Marks,18.2729,18.2729
+375,Finland,365,Russia,1919,6034732,1,Marks,18.2729,18.2729
+375,Finland,652,Syria,1919,0,1,Marks,18.2729,18.2729
+375,Finland,465,British West Africa,1919,0,1,Marks,18.2729,18.2729
+375,Finland,160,Argentina,1919,69879601,1,Marks,18.2729,18.2729
+375,Finland,165,Uruguay,1919,0,1,Marks,18.2729,18.2729
+375,Finland,101,Venezuela,1919,670000,1,Marks,18.2729,18.2729
+375,Finland,530,Ethiopia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,51,Jamaica,1919,0,1,Marks,18.2729,18.2729
+375,Finland,80,Belize,1919,0,1,Marks,18.2729,18.2729
+375,Finland,90,Guatemala,1919,0,1,Marks,18.2729,18.2729
+375,Finland,3651,Siberia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,541,Mozambique,1919,0,1,Marks,18.2729,18.2729
+375,Finland,225,Switzerland,1919,14069103,1,Marks,18.2729,18.2729
+375,Finland,352,Cyprus,1919,0,1,Marks,18.2729,18.2729
+375,Finland,360,Romania,1919,0,1,Marks,18.2729,18.2729
+375,Finland,2,United States,1919,638895482,1,Marks,18.2729,18.2729
+375,Finland,235,Portugal,1919,951209,1,Marks,18.2729,18.2729
+375,Finland,590,Mauritius,1919,0,1,Marks,18.2729,18.2729
+375,Finland,20,Canada,1919,30570916,1,Marks,18.2729,18.2729
+375,Finland,345,Yugoslavia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,366,Estonia,1919,29729062,1,Marks,18.2729,18.2729
+375,Finland,200,United Kingdom,1919,676452640,1,Marks,18.2729,18.2729
+375,Finland,350,Greece,1919,14708546,1,Marks,18.2729,18.2729
+375,Finland,70,Mexico,1919,0,1,Marks,18.2729,18.2729
+375,Finland,780,Sri Lanka,1919,0,1,Marks,18.2729,18.2729
+375,Finland,230,Spain,1919,13799499,1,Marks,18.2729,18.2729
+375,Finland,325,Italy,1919,1351309,1,Marks,18.2729,18.2729
+375,Finland,94,Costa Rica,1919,0,1,Marks,18.2729,18.2729
+375,Finland,91,Honduras,1919,0,1,Marks,18.2729,18.2729
+375,Finland,840,Philippines,1919,0,1,Marks,18.2729,18.2729
+375,Finland,615,Algeria,1919,0,1,Marks,18.2729,18.2729
+375,Finland,651,Egypt,1919,0,1,Marks,18.2729,18.2729
+375,Finland,100,Colombia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,625,Sudan,1919,0,1,Marks,18.2729,18.2729
+375,Finland,315,Czechoslovakia,1919,0,1,Marks,18.2729,18.2729
+375,Finland,140,Brazil,1919,45950506,1,Marks,18.2729,18.2729
+375,Finland,10,Greenland,1919,0,1,Marks,18.2729,18.2729
+375,Finland,1065,Curacao,1919,0,1,Marks,18.2729,18.2729
+375,Finland,380,Sweden,1919,320483153,1,Marks,18.2729,18.2729
+375,Finland,8501,Java,1919,0,1,Marks,18.2729,18.2729
+375,Finland,40,Cuba,1919,0,1,Marks,18.2729,18.2729
+375,Finland,665,West Bank And Gaza,1919,0,1,Marks,18.2729,18.2729
+375,Finland,220,France,1919,11573415,1,Marks,18.2729,18.2729
+375,Finland,255,Germany,1919,157005221,1,Marks,18.2729,18.2729
+375,Finland,22,British North America,1919,0,1,Marks,18.2729,18.2729
+375,Finland,630,Iran,1919,0,1,Marks,18.2729,18.2729
+375,Finland,41,Haiti,1919,0,1,Marks,18.2729,18.2729
+375,Finland,368,Lithuania,1919,0,1,Marks,18.2729,18.2729
+375,Finland,339,Albania,1919,0,1,Marks,18.2729,18.2729
+375,Finland,740,Japan,1919,17351975,1,Marks,18.2729,18.2729
+375,Finland,540,Angola,1919,0,1,Marks,18.2729,18.2729
+375,Finland,,,1919,2531293088,1,Marks,18.2729,18.2729
+375,Finland,212,Luxembourg,1919,0,1,Marks,18.2729,18.2729
+375,Finland,475,Nigeria,1919,0,1,Marks,18.2729,18.2729
+375,Finland,560,South Africa,1919,27514,1,Marks,18.2729,18.2729
+375,Finland,690,Kuwait,1919,0,1,Marks,18.2729,18.2729
+375,Finland,490,"Congo, Dem. Republic",1919,0,1,Marks,18.2729,18.2729
+375,Finland,291,Danzig,1919,0,1,Marks,18.2729,18.2729
+375,Finland,92,El Salvador,1919,0,1,Marks,18.2729,18.2729
+375,Finland,900,Australia,1919,54,1,Marks,18.2729,18.2729
+375,Finland,211,Belgium,1919,10328414,1,Marks,18.2729,18.2729
+375,Finland,511,Zanzibar,1920,0,1,Marks,29.015499,29.015499
+375,Finland,4,Hawaii,1920,0,1,Marks,29.015499,29.015499
+375,Finland,625,Sudan,1920,0,1,Marks,29.015499,29.015499
+375,Finland,350,Greece,1920,14720637,1,Marks,29.015499,29.015499
+375,Finland,130,Ecuador,1920,0,1,Marks,29.015499,29.015499
+375,Finland,640,Turkey,1920,1783602,1,Marks,29.015499,29.015499
+375,Finland,,,1920,3801188647,1,Marks,29.015499,29.015499
+375,Finland,652,Syria,1920,0,1,Marks,29.015499,29.015499
+375,Finland,780,Sri Lanka,1920,0,1,Marks,29.015499,29.015499
+375,Finland,710,China,1920,1155,1,Marks,29.015499,29.015499
+375,Finland,367,Latvia,1920,12018158,1,Marks,29.015499,29.015499
+375,Finland,365,Russia,1920,1194786,1,Marks,29.015499,29.015499
+375,Finland,590,Mauritius,1920,0,1,Marks,29.015499,29.015499
+375,Finland,840,Philippines,1920,0,1,Marks,29.015499,29.015499
+375,Finland,740,Japan,1920,290016,1,Marks,29.015499,29.015499
+375,Finland,368,Lithuania,1920,6262568,1,Marks,29.015499,29.015499
+375,Finland,150,Paraguay,1920,0,1,Marks,29.015499,29.015499
+375,Finland,205,Ireland,1920,0,1,Marks,29.015499,29.015499
+375,Finland,490,"Congo, Dem. Republic",1920,0,1,Marks,29.015499,29.015499
+375,Finland,2,United States,1920,794846590,1,Marks,29.015499,29.015499
+375,Finland,385,Norway,1920,33722108,1,Marks,29.015499,29.015499
+375,Finland,401,Madeira,1920,0,1,Marks,29.015499,29.015499
+375,Finland,325,Italy,1920,15745948,1,Marks,29.015499,29.015499
+375,Finland,315,Czechoslovakia,1920,722158,1,Marks,29.015499,29.015499
+375,Finland,230,Spain,1920,15602659,1,Marks,29.015499,29.015499
+375,Finland,310,Hungary,1920,0,1,Marks,29.015499,29.015499
+375,Finland,70,Mexico,1920,746665,1,Marks,29.015499,29.015499
+375,Finland,541,Mozambique,1920,0,1,Marks,29.015499,29.015499
+375,Finland,51,Jamaica,1920,0,1,Marks,29.015499,29.015499
+375,Finland,355,Bulgaria,1920,0,1,Marks,29.015499,29.015499
+375,Finland,41,Haiti,1920,0,1,Marks,29.015499,29.015499
+375,Finland,465,British West Africa,1920,0,1,Marks,29.015499,29.015499
+375,Finland,235,Portugal,1920,3003541,1,Marks,29.015499,29.015499
+375,Finland,630,Iran,1920,0,1,Marks,29.015499,29.015499
+375,Finland,93,Nicaragua,1920,0,1,Marks,29.015499,29.015499
+375,Finland,305,Austria,1920,1877380,1,Marks,29.015499,29.015499
+375,Finland,390,Denmark,1920,179730035,1,Marks,29.015499,29.015499
+375,Finland,20,Canada,1920,16065355,1,Marks,29.015499,29.015499
+375,Finland,8501,Java,1920,0,1,Marks,29.015499,29.015499
+375,Finland,101,Venezuela,1920,0,1,Marks,29.015499,29.015499
+375,Finland,135,Peru,1920,0,1,Marks,29.015499,29.015499
+375,Finland,165,Uruguay,1920,0,1,Marks,29.015499,29.015499
+375,Finland,616,Tunisia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,225,Switzerland,1920,27095499,1,Marks,29.015499,29.015499
+375,Finland,94,Costa Rica,1920,0,1,Marks,29.015499,29.015499
+375,Finland,90,Guatemala,1920,4073800,1,Marks,29.015499,29.015499
+375,Finland,345,Yugoslavia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,450,Liberia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,433,Senegal,1920,0,1,Marks,29.015499,29.015499
+375,Finland,92,El Salvador,1920,0,1,Marks,29.015499,29.015499
+375,Finland,200,United Kingdom,1920,1002789694,1,Marks,29.015499,29.015499
+375,Finland,291,Danzig,1920,0,1,Marks,29.015499,29.015499
+375,Finland,395,Iceland,1920,433829,1,Marks,29.015499,29.015499
+375,Finland,160,Argentina,1920,133299118,1,Marks,29.015499,29.015499
+375,Finland,80,Belize,1920,0,1,Marks,29.015499,29.015499
+375,Finland,366,Estonia,1920,15025374,1,Marks,29.015499,29.015499
+375,Finland,100,Colombia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,22,British North America,1920,0,1,Marks,29.015499,29.015499
+375,Finland,620,Libya,1920,0,1,Marks,29.015499,29.015499
+375,Finland,700,Afghanistan,1920,0,1,Marks,29.015499,29.015499
+375,Finland,675,Arabia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,352,Cyprus,1920,0,1,Marks,29.015499,29.015499
+375,Finland,220,France,1920,29630714,1,Marks,29.015499,29.015499
+375,Finland,3651,Siberia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,1065,Curacao,1920,0,1,Marks,29.015499,29.015499
+375,Finland,210,Netherlands,1920,55211046,1,Marks,29.015499,29.015499
+375,Finland,212,Luxembourg,1920,0,1,Marks,29.015499,29.015499
+375,Finland,255,Germany,1920,611182010,1,Marks,29.015499,29.015499
+375,Finland,145,Bolivia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,360,Romania,1920,0,1,Marks,29.015499,29.015499
+375,Finland,651,Egypt,1920,96,1,Marks,29.015499,29.015499
+375,Finland,380,Sweden,1920,385079302,1,Marks,29.015499,29.015499
+375,Finland,615,Algeria,1920,19783,1,Marks,29.015499,29.015499
+375,Finland,140,Brazil,1920,47246825,1,Marks,29.015499,29.015499
+375,Finland,530,Ethiopia,1920,0,1,Marks,29.015499,29.015499
+375,Finland,91,Honduras,1920,0,1,Marks,29.015499,29.015499
+375,Finland,155,Chile,1920,0,1,Marks,29.015499,29.015499
+375,Finland,475,Nigeria,1920,0,1,Marks,29.015499,29.015499
+375,Finland,10,Greenland,1920,0,1,Marks,29.015499,29.015499
+375,Finland,40,Cuba,1920,7574,1,Marks,29.015499,29.015499
+375,Finland,95,Panama,1920,0,1,Marks,29.015499,29.015499
+375,Finland,730,Korea,1920,0,1,Marks,29.015499,29.015499
+375,Finland,665,West Bank And Gaza,1920,0,1,Marks,29.015499,29.015499
+375,Finland,580,Madagascar,1920,0,1,Marks,29.015499,29.015499
+375,Finland,681,Aden,1920,0,1,Marks,29.015499,29.015499
+375,Finland,900,Australia,1920,42679,1,Marks,29.015499,29.015499
+375,Finland,800,Thailand,1920,0,1,Marks,29.015499,29.015499
+375,Finland,290,Poland,1920,1185,1,Marks,29.015499,29.015499
+375,Finland,211,Belgium,1920,42297853,1,Marks,29.015499,29.015499
+375,Finland,560,South Africa,1920,55,1,Marks,29.015499,29.015499
+375,Finland,645,Iraq,1920,0,1,Marks,29.015499,29.015499
+375,Finland,690,Kuwait,1920,0,1,Marks,29.015499,29.015499
+375,Finland,339,Albania,1920,0,1,Marks,29.015499,29.015499
+375,Finland,540,Angola,1920,0,1,Marks,29.015499,29.015499
+375,Finland,3,Alaska,1920,0,1,Marks,29.015499,29.015499
+375,Finland,385,Norway,1921,24820820,1,Marks,51.952099,51.952099
+375,Finland,630,Iran,1921,0,1,Marks,51.952099,51.952099
+375,Finland,41,Haiti,1921,0,1,Marks,51.952099,51.952099
+375,Finland,511,Zanzibar,1921,0,1,Marks,51.952099,51.952099
+375,Finland,355,Bulgaria,1921,562021,1,Marks,51.952099,51.952099
+375,Finland,130,Ecuador,1921,0,1,Marks,51.952099,51.952099
+375,Finland,205,Ireland,1921,0,1,Marks,51.952099,51.952099
+375,Finland,70,Mexico,1921,5973628,1,Marks,51.952099,51.952099
+375,Finland,339,Albania,1921,0,1,Marks,51.952099,51.952099
+375,Finland,620,Libya,1921,0,1,Marks,51.952099,51.952099
+375,Finland,290,Poland,1921,3278124,1,Marks,51.952099,51.952099
+375,Finland,,,1921,3625524834,1,Marks,51.952099,51.952099
+375,Finland,690,Kuwait,1921,0,1,Marks,51.952099,51.952099
+375,Finland,22,British North America,1921,0,1,Marks,51.952099,51.952099
+375,Finland,665,West Bank And Gaza,1921,0,1,Marks,51.952099,51.952099
+375,Finland,540,Angola,1921,0,1,Marks,51.952099,51.952099
+375,Finland,390,Denmark,1921,243648458,1,Marks,51.952099,51.952099
+375,Finland,212,Luxembourg,1921,0,1,Marks,51.952099,51.952099
+375,Finland,681,Aden,1921,0,1,Marks,51.952099,51.952099
+375,Finland,150,Paraguay,1921,109430,1,Marks,51.952099,51.952099
+375,Finland,360,Romania,1921,0,1,Marks,51.952099,51.952099
+375,Finland,155,Chile,1921,0,1,Marks,51.952099,51.952099
+375,Finland,580,Madagascar,1921,0,1,Marks,51.952099,51.952099
+375,Finland,200,United Kingdom,1921,708970952,1,Marks,51.952099,51.952099
+375,Finland,93,Nicaragua,1921,0,1,Marks,51.952099,51.952099
+375,Finland,230,Spain,1921,6394723,1,Marks,51.952099,51.952099
+375,Finland,560,South Africa,1921,6340,1,Marks,51.952099,51.952099
+375,Finland,165,Uruguay,1921,0,1,Marks,51.952099,51.952099
+375,Finland,780,Sri Lanka,1921,0,1,Marks,51.952099,51.952099
+375,Finland,401,Madeira,1921,0,1,Marks,51.952099,51.952099
+375,Finland,465,British West Africa,1921,0,1,Marks,51.952099,51.952099
+375,Finland,160,Argentina,1921,23424824,1,Marks,51.952099,51.952099
+375,Finland,615,Algeria,1921,38611,1,Marks,51.952099,51.952099
+375,Finland,3651,Siberia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,80,Belize,1921,0,1,Marks,51.952099,51.952099
+375,Finland,840,Philippines,1921,0,1,Marks,51.952099,51.952099
+375,Finland,135,Peru,1921,0,1,Marks,51.952099,51.952099
+375,Finland,211,Belgium,1921,30130551,1,Marks,51.952099,51.952099
+375,Finland,255,Germany,1921,1205899007,1,Marks,51.952099,51.952099
+375,Finland,101,Venezuela,1921,0,1,Marks,51.952099,51.952099
+375,Finland,220,France,1921,45750337,1,Marks,51.952099,51.952099
+375,Finland,20,Canada,1921,4260968,1,Marks,51.952099,51.952099
+375,Finland,235,Portugal,1921,697243,1,Marks,51.952099,51.952099
+375,Finland,350,Greece,1921,1650282,1,Marks,51.952099,51.952099
+375,Finland,616,Tunisia,1921,117,1,Marks,51.952099,51.952099
+375,Finland,645,Iraq,1921,0,1,Marks,51.952099,51.952099
+375,Finland,225,Switzerland,1921,14114816,1,Marks,51.952099,51.952099
+375,Finland,2,United States,1921,613898613,1,Marks,51.952099,51.952099
+375,Finland,345,Yugoslavia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,4,Hawaii,1921,0,1,Marks,51.952099,51.952099
+375,Finland,291,Danzig,1921,13765436,1,Marks,51.952099,51.952099
+375,Finland,315,Czechoslovakia,1921,16158067,1,Marks,51.952099,51.952099
+375,Finland,92,El Salvador,1921,0,1,Marks,51.952099,51.952099
+375,Finland,740,Japan,1921,84408,1,Marks,51.952099,51.952099
+375,Finland,95,Panama,1921,0,1,Marks,51.952099,51.952099
+375,Finland,140,Brazil,1921,76805125,1,Marks,51.952099,51.952099
+375,Finland,433,Senegal,1921,0,1,Marks,51.952099,51.952099
+375,Finland,325,Italy,1921,9914222,1,Marks,51.952099,51.952099
+375,Finland,100,Colombia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,91,Honduras,1921,0,1,Marks,51.952099,51.952099
+375,Finland,800,Thailand,1921,0,1,Marks,51.952099,51.952099
+375,Finland,652,Syria,1921,0,1,Marks,51.952099,51.952099
+375,Finland,395,Iceland,1921,20000,1,Marks,51.952099,51.952099
+375,Finland,94,Costa Rica,1921,0,1,Marks,51.952099,51.952099
+375,Finland,590,Mauritius,1921,0,1,Marks,51.952099,51.952099
+375,Finland,352,Cyprus,1921,0,1,Marks,51.952099,51.952099
+375,Finland,530,Ethiopia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,145,Bolivia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,380,Sweden,1921,267259374,1,Marks,51.952099,51.952099
+375,Finland,710,China,1921,78890,1,Marks,51.952099,51.952099
+375,Finland,210,Netherlands,1921,190195043,1,Marks,51.952099,51.952099
+375,Finland,367,Latvia,1921,4023278,1,Marks,51.952099,51.952099
+375,Finland,651,Egypt,1921,600,1,Marks,51.952099,51.952099
+375,Finland,730,Korea,1921,187046,1,Marks,51.952099,51.952099
+375,Finland,490,"Congo, Dem. Republic",1921,0,1,Marks,51.952099,51.952099
+375,Finland,675,Arabia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,8501,Java,1921,0,1,Marks,51.952099,51.952099
+375,Finland,51,Jamaica,1921,0,1,Marks,51.952099,51.952099
+375,Finland,10,Greenland,1921,0,1,Marks,51.952099,51.952099
+375,Finland,1065,Curacao,1921,0,1,Marks,51.952099,51.952099
+375,Finland,368,Lithuania,1921,3131300,1,Marks,51.952099,51.952099
+375,Finland,640,Turkey,1921,3907,1,Marks,51.952099,51.952099
+375,Finland,450,Liberia,1921,0,1,Marks,51.952099,51.952099
+375,Finland,310,Hungary,1921,215296,1,Marks,51.952099,51.952099
+375,Finland,700,Afghanistan,1921,0,1,Marks,51.952099,51.952099
+375,Finland,365,Russia,1921,500528,1,Marks,51.952099,51.952099
+375,Finland,40,Cuba,1921,83666,1,Marks,51.952099,51.952099
+375,Finland,3,Alaska,1921,0,1,Marks,51.952099,51.952099
+375,Finland,90,Guatemala,1921,0,1,Marks,51.952099,51.952099
+375,Finland,366,Estonia,1921,28161727,1,Marks,51.952099,51.952099
+375,Finland,305,Austria,1921,1341965,1,Marks,51.952099,51.952099
+375,Finland,475,Nigeria,1921,0,1,Marks,51.952099,51.952099
+375,Finland,541,Mozambique,1921,0,1,Marks,51.952099,51.952099
+375,Finland,625,Sudan,1921,0,1,Marks,51.952099,51.952099
+375,Finland,900,Australia,1921,261579,1,Marks,51.952099,51.952099
+375,Finland,4,Hawaii,1922,0,1,Marks,46.649799,46.649799
+375,Finland,700,Afghanistan,1922,0,1,Marks,46.649799,46.649799
+375,Finland,40,Cuba,1922,0,1,Marks,46.649799,46.649799
+375,Finland,2,United States,1922,609022840,1,Marks,46.649799,46.649799
+375,Finland,780,Sri Lanka,1922,0,1,Marks,46.649799,46.649799
+375,Finland,367,Latvia,1922,8995309,1,Marks,46.649799,46.649799
+375,Finland,211,Belgium,1922,96798839,1,Marks,46.649799,46.649799
+375,Finland,10,Greenland,1922,1200,1,Marks,46.649799,46.649799
+375,Finland,210,Netherlands,1922,202072170,1,Marks,46.649799,46.649799
+375,Finland,690,Kuwait,1922,0,1,Marks,46.649799,46.649799
+375,Finland,225,Switzerland,1922,23946005,1,Marks,46.649799,46.649799
+375,Finland,22,British North America,1922,15327397,1,Marks,46.649799,46.649799
+375,Finland,710,China,1922,12124,1,Marks,46.649799,46.649799
+375,Finland,140,Brazil,1922,107249008,1,Marks,46.649799,46.649799
+375,Finland,145,Bolivia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,630,Iran,1922,2740,1,Marks,46.649799,46.649799
+375,Finland,465,British West Africa,1922,0,1,Marks,46.649799,46.649799
+375,Finland,220,France,1922,59150214,1,Marks,46.649799,46.649799
+375,Finland,70,Mexico,1922,6009893,1,Marks,46.649799,46.649799
+375,Finland,165,Uruguay,1922,0,1,Marks,46.649799,46.649799
+375,Finland,385,Norway,1922,37425672,1,Marks,46.649799,46.649799
+375,Finland,160,Argentina,1922,12301682,1,Marks,46.649799,46.649799
+375,Finland,235,Portugal,1922,1548414,1,Marks,46.649799,46.649799
+375,Finland,681,Aden,1922,0,1,Marks,46.649799,46.649799
+375,Finland,130,Ecuador,1922,0,1,Marks,46.649799,46.649799
+375,Finland,450,Liberia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,616,Tunisia,1922,50,1,Marks,46.649799,46.649799
+375,Finland,365,Russia,1922,18598263,1,Marks,46.649799,46.649799
+375,Finland,368,Lithuania,1922,4983565,1,Marks,46.649799,46.649799
+375,Finland,540,Angola,1922,0,1,Marks,46.649799,46.649799
+375,Finland,95,Panama,1922,0,1,Marks,46.649799,46.649799
+375,Finland,93,Nicaragua,1922,0,1,Marks,46.649799,46.649799
+375,Finland,1065,Curacao,1922,0,1,Marks,46.649799,46.649799
+375,Finland,94,Costa Rica,1922,0,1,Marks,46.649799,46.649799
+375,Finland,675,Arabia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,290,Poland,1922,18067343,1,Marks,46.649799,46.649799
+375,Finland,150,Paraguay,1922,0,1,Marks,46.649799,46.649799
+375,Finland,101,Venezuela,1922,115882,1,Marks,46.649799,46.649799
+375,Finland,590,Mauritius,1922,0,1,Marks,46.649799,46.649799
+375,Finland,800,Thailand,1922,0,1,Marks,46.649799,46.649799
+375,Finland,390,Denmark,1922,175924058,1,Marks,46.649799,46.649799
+375,Finland,80,Belize,1922,0,1,Marks,46.649799,46.649799
+375,Finland,433,Senegal,1922,0,1,Marks,46.649799,46.649799
+375,Finland,,,1922,3977440964,1,Marks,46.649799,46.649799
+375,Finland,395,Iceland,1922,434,1,Marks,46.649799,46.649799
+375,Finland,100,Colombia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,665,West Bank And Gaza,1922,42,1,Marks,46.649799,46.649799
+375,Finland,530,Ethiopia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,135,Peru,1922,0,1,Marks,46.649799,46.649799
+375,Finland,352,Cyprus,1922,0,1,Marks,46.649799,46.649799
+375,Finland,91,Honduras,1922,0,1,Marks,46.649799,46.649799
+375,Finland,840,Philippines,1922,0,1,Marks,46.649799,46.649799
+375,Finland,339,Albania,1922,0,1,Marks,46.649799,46.649799
+375,Finland,345,Yugoslavia,1922,28277,1,Marks,46.649799,46.649799
+375,Finland,3651,Siberia,1922,0,1,Marks,46.649799,46.649799
+375,Finland,200,United Kingdom,1922,866733676,1,Marks,46.649799,46.649799
+375,Finland,620,Libya,1922,0,1,Marks,46.649799,46.649799
+375,Finland,255,Germany,1922,1316124084,1,Marks,46.649799,46.649799
+375,Finland,8501,Java,1922,0,1,Marks,46.649799,46.649799
+375,Finland,350,Greece,1922,3309599,1,Marks,46.649799,46.649799
+375,Finland,380,Sweden,1922,248401151,1,Marks,46.649799,46.649799
+375,Finland,401,Madeira,1922,0,1,Marks,46.649799,46.649799
+375,Finland,475,Nigeria,1922,0,1,Marks,46.649799,46.649799
+375,Finland,230,Spain,1922,10567046,1,Marks,46.649799,46.649799
+375,Finland,20,Canada,1922,0,1,Marks,46.649799,46.649799
+375,Finland,652,Syria,1922,300,1,Marks,46.649799,46.649799
+375,Finland,490,"Congo, Dem. Republic",1922,0,1,Marks,46.649799,46.649799
+375,Finland,212,Luxembourg,1922,602,1,Marks,46.649799,46.649799
+375,Finland,205,Ireland,1922,0,1,Marks,46.649799,46.649799
+375,Finland,41,Haiti,1922,0,1,Marks,46.649799,46.649799
+375,Finland,325,Italy,1922,8335881,1,Marks,46.649799,46.649799
+375,Finland,740,Japan,1922,474332,1,Marks,46.649799,46.649799
+375,Finland,90,Guatemala,1922,0,1,Marks,46.649799,46.649799
+375,Finland,640,Turkey,1922,74735,1,Marks,46.649799,46.649799
+375,Finland,360,Romania,1922,0,1,Marks,46.649799,46.649799
+375,Finland,900,Australia,1922,263440,1,Marks,46.649799,46.649799
+375,Finland,615,Algeria,1922,212624,1,Marks,46.649799,46.649799
+375,Finland,580,Madagascar,1922,0,1,Marks,46.649799,46.649799
+375,Finland,560,South Africa,1922,295978,1,Marks,46.649799,46.649799
+375,Finland,541,Mozambique,1922,0,1,Marks,46.649799,46.649799
+375,Finland,355,Bulgaria,1922,709713,1,Marks,46.649799,46.649799
+375,Finland,730,Korea,1922,206760,1,Marks,46.649799,46.649799
+375,Finland,315,Czechoslovakia,1922,11851997,1,Marks,46.649799,46.649799
+375,Finland,625,Sudan,1922,0,1,Marks,46.649799,46.649799
+375,Finland,3,Alaska,1922,0,1,Marks,46.649799,46.649799
+375,Finland,291,Danzig,1922,35940388,1,Marks,46.649799,46.649799
+375,Finland,155,Chile,1922,8500,1,Marks,46.649799,46.649799
+375,Finland,51,Jamaica,1922,0,1,Marks,46.649799,46.649799
+375,Finland,645,Iraq,1922,0,1,Marks,46.649799,46.649799
+375,Finland,651,Egypt,1922,37993,1,Marks,46.649799,46.649799
+375,Finland,92,El Salvador,1922,0,1,Marks,46.649799,46.649799
+375,Finland,310,Hungary,1922,1603723,1,Marks,46.649799,46.649799
+375,Finland,511,Zanzibar,1922,0,1,Marks,46.649799,46.649799
+375,Finland,305,Austria,1922,3908402,1,Marks,46.649799,46.649799
+375,Finland,366,Estonia,1922,55619359,1,Marks,46.649799,46.649799
+375,Finland,200,United Kingdom,1923,848094587,1,Marks,37.426399,37.426399
+375,Finland,355,Bulgaria,1923,244628,1,Marks,37.426399,37.426399
+375,Finland,41,Haiti,1923,0,1,Marks,37.426399,37.426399
+375,Finland,710,China,1923,718360,1,Marks,37.426399,37.426399
+375,Finland,380,Sweden,1923,264109984,1,Marks,37.426399,37.426399
+375,Finland,91,Honduras,1923,0,1,Marks,37.426399,37.426399
+375,Finland,339,Albania,1923,4560,1,Marks,37.426399,37.426399
+375,Finland,235,Portugal,1923,1458855,1,Marks,37.426399,37.426399
+375,Finland,675,Arabia,1923,0,1,Marks,37.426399,37.426399
+375,Finland,367,Latvia,1923,10566717,1,Marks,37.426399,37.426399
+375,Finland,475,Nigeria,1923,0,1,Marks,37.426399,37.426399
+375,Finland,212,Luxembourg,1923,328109,1,Marks,37.426399,37.426399
+375,Finland,,,1923,4615996316,1,Marks,37.426399,37.426399
+375,Finland,51,Jamaica,1923,0,1,Marks,37.426399,37.426399
+375,Finland,401,Madeira,1923,0,1,Marks,37.426399,37.426399
+375,Finland,100,Colombia,1923,0,1,Marks,37.426399,37.426399
+375,Finland,210,Netherlands,1923,246089250,1,Marks,37.426399,37.426399
+375,Finland,315,Czechoslovakia,1923,29673611,1,Marks,37.426399,37.426399
+375,Finland,368,Lithuania,1923,1638531,1,Marks,37.426399,37.426399
+375,Finland,620,Libya,1923,0,1,Marks,37.426399,37.426399
+375,Finland,20,Canada,1923,0,1,Marks,37.426399,37.426399
+375,Finland,101,Venezuela,1923,1398447,1,Marks,37.426399,37.426399
+375,Finland,560,South Africa,1923,29925,1,Marks,37.426399,37.426399
+375,Finland,290,Poland,1923,29148900,1,Marks,37.426399,37.426399
+375,Finland,150,Paraguay,1923,0,1,Marks,37.426399,37.426399
+375,Finland,70,Mexico,1923,211543,1,Marks,37.426399,37.426399
+375,Finland,625,Sudan,1923,0,1,Marks,37.426399,37.426399
+375,Finland,615,Algeria,1923,242249,1,Marks,37.426399,37.426399
+375,Finland,690,Kuwait,1923,0,1,Marks,37.426399,37.426399
+375,Finland,345,Yugoslavia,1923,1933261,1,Marks,37.426399,37.426399
+375,Finland,395,Iceland,1923,207520,1,Marks,37.426399,37.426399
+375,Finland,220,France,1923,88240909,1,Marks,37.426399,37.426399
+375,Finland,390,Denmark,1923,238734114,1,Marks,37.426399,37.426399
+375,Finland,490,"Congo, Dem. Republic",1923,0,1,Marks,37.426399,37.426399
+375,Finland,385,Norway,1923,29368957,1,Marks,37.426399,37.426399
+375,Finland,135,Peru,1923,0,1,Marks,37.426399,37.426399
+375,Finland,325,Italy,1923,14118211,1,Marks,37.426399,37.426399
+375,Finland,4,Hawaii,1923,0,1,Marks,37.426399,37.426399
+375,Finland,94,Costa Rica,1923,0,1,Marks,37.426399,37.426399
+375,Finland,616,Tunisia,1923,53,1,Marks,37.426399,37.426399
+375,Finland,630,Iran,1923,40,1,Marks,37.426399,37.426399
+375,Finland,2,United States,1923,583457733,1,Marks,37.426399,37.426399
+375,Finland,3651,Siberia,1923,0,1,Marks,37.426399,37.426399
+375,Finland,360,Romania,1923,204303,1,Marks,37.426399,37.426399
+375,Finland,160,Argentina,1923,38619979,1,Marks,37.426399,37.426399
+375,Finland,80,Belize,1923,0,1,Marks,37.426399,37.426399
+375,Finland,511,Zanzibar,1923,0,1,Marks,37.426399,37.426399
+375,Finland,92,El Salvador,1923,0,1,Marks,37.426399,37.426399
+375,Finland,3,Alaska,1923,0,1,Marks,37.426399,37.426399
+375,Finland,8501,Java,1923,0,1,Marks,37.426399,37.426399
+375,Finland,310,Hungary,1923,758516,1,Marks,37.426399,37.426399
+375,Finland,155,Chile,1923,0,1,Marks,37.426399,37.426399
+375,Finland,165,Uruguay,1923,0,1,Marks,37.426399,37.426399
+375,Finland,800,Thailand,1923,0,1,Marks,37.426399,37.426399
+375,Finland,205,Ireland,1923,0,1,Marks,37.426399,37.426399
+375,Finland,450,Liberia,1923,6070,1,Marks,37.426399,37.426399
+375,Finland,665,West Bank And Gaza,1923,215,1,Marks,37.426399,37.426399
+375,Finland,900,Australia,1923,1078983,1,Marks,37.426399,37.426399
+375,Finland,10,Greenland,1923,6600,1,Marks,37.426399,37.426399
+375,Finland,350,Greece,1923,1299279,1,Marks,37.426399,37.426399
+375,Finland,640,Turkey,1923,410005,1,Marks,37.426399,37.426399
+375,Finland,840,Philippines,1923,0,1,Marks,37.426399,37.426399
+375,Finland,90,Guatemala,1923,0,1,Marks,37.426399,37.426399
+375,Finland,700,Afghanistan,1923,0,1,Marks,37.426399,37.426399
+375,Finland,530,Ethiopia,1923,0,1,Marks,37.426399,37.426399
+375,Finland,730,Korea,1923,0,1,Marks,37.426399,37.426399
+375,Finland,740,Japan,1923,171589,1,Marks,37.426399,37.426399
+375,Finland,40,Cuba,1923,0,1,Marks,37.426399,37.426399
+375,Finland,130,Ecuador,1923,0,1,Marks,37.426399,37.426399
+375,Finland,590,Mauritius,1923,0,1,Marks,37.426399,37.426399
+375,Finland,291,Danzig,1923,28222048,1,Marks,37.426399,37.426399
+375,Finland,255,Germany,1923,1564409557,1,Marks,37.426399,37.426399
+375,Finland,145,Bolivia,1923,0,1,Marks,37.426399,37.426399
+375,Finland,305,Austria,1923,5811688,1,Marks,37.426399,37.426399
+375,Finland,365,Russia,1923,215496559,1,Marks,37.426399,37.426399
+375,Finland,225,Switzerland,1923,31032825,1,Marks,37.426399,37.426399
+375,Finland,140,Brazil,1923,81004325,1,Marks,37.426399,37.426399
+375,Finland,580,Madagascar,1923,0,1,Marks,37.426399,37.426399
+375,Finland,1065,Curacao,1923,0,1,Marks,37.426399,37.426399
+375,Finland,645,Iraq,1923,0,1,Marks,37.426399,37.426399
+375,Finland,651,Egypt,1923,6918,1,Marks,37.426399,37.426399
+375,Finland,95,Panama,1923,0,1,Marks,37.426399,37.426399
+375,Finland,681,Aden,1923,0,1,Marks,37.426399,37.426399
+375,Finland,465,British West Africa,1923,0,1,Marks,37.426399,37.426399
+375,Finland,433,Senegal,1923,0,1,Marks,37.426399,37.426399
+375,Finland,22,British North America,1923,14622082,1,Marks,37.426399,37.426399
+375,Finland,93,Nicaragua,1923,0,1,Marks,37.426399,37.426399
+375,Finland,541,Mozambique,1923,0,1,Marks,37.426399,37.426399
+375,Finland,652,Syria,1923,0,1,Marks,37.426399,37.426399
+375,Finland,540,Angola,1923,0,1,Marks,37.426399,37.426399
+375,Finland,352,Cyprus,1923,0,1,Marks,37.426399,37.426399
+375,Finland,211,Belgium,1923,145678984,1,Marks,37.426399,37.426399
+375,Finland,780,Sri Lanka,1923,0,1,Marks,37.426399,37.426399
+375,Finland,366,Estonia,1923,55810235,1,Marks,37.426399,37.426399
+375,Finland,230,Spain,1923,9937502,1,Marks,37.426399,37.426399
+375,Finland,51,Jamaica,1924,0,1,Marks,39.855499,39.855499
+375,Finland,235,Portugal,1924,1919612,1,Marks,39.855499,39.855499
+375,Finland,395,Iceland,1924,152113,1,Marks,39.855499,39.855499
+375,Finland,91,Honduras,1924,0,1,Marks,39.855499,39.855499
+375,Finland,200,United Kingdom,1924,884318937,1,Marks,39.855499,39.855499
+375,Finland,212,Luxembourg,1924,1400014,1,Marks,39.855499,39.855499
+375,Finland,380,Sweden,1924,293628851,1,Marks,39.855499,39.855499
+375,Finland,145,Bolivia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,135,Peru,1924,0,1,Marks,39.855499,39.855499
+375,Finland,352,Cyprus,1924,0,1,Marks,39.855499,39.855499
+375,Finland,155,Chile,1924,93720,1,Marks,39.855499,39.855499
+375,Finland,95,Panama,1924,0,1,Marks,39.855499,39.855499
+375,Finland,40,Cuba,1924,0,1,Marks,39.855499,39.855499
+375,Finland,580,Madagascar,1924,0,1,Marks,39.855499,39.855499
+375,Finland,93,Nicaragua,1924,0,1,Marks,39.855499,39.855499
+375,Finland,640,Turkey,1924,27970,1,Marks,39.855499,39.855499
+375,Finland,780,Sri Lanka,1924,0,1,Marks,39.855499,39.855499
+375,Finland,92,El Salvador,1924,0,1,Marks,39.855499,39.855499
+375,Finland,140,Brazil,1924,103582941,1,Marks,39.855499,39.855499
+375,Finland,730,Korea,1924,0,1,Marks,39.855499,39.855499
+375,Finland,210,Netherlands,1924,224518840,1,Marks,39.855499,39.855499
+375,Finland,433,Senegal,1924,0,1,Marks,39.855499,39.855499
+375,Finland,390,Denmark,1924,319515832,1,Marks,39.855499,39.855499
+375,Finland,490,"Congo, Dem. Republic",1924,0,1,Marks,39.855499,39.855499
+375,Finland,150,Paraguay,1924,0,1,Marks,39.855499,39.855499
+375,Finland,325,Italy,1924,17621060,1,Marks,39.855499,39.855499
+375,Finland,2,United States,1924,629085764,1,Marks,39.855499,39.855499
+375,Finland,840,Philippines,1924,0,1,Marks,39.855499,39.855499
+375,Finland,540,Angola,1924,0,1,Marks,39.855499,39.855499
+375,Finland,900,Australia,1924,1320448,1,Marks,39.855499,39.855499
+375,Finland,465,British West Africa,1924,0,1,Marks,39.855499,39.855499
+375,Finland,651,Egypt,1924,104866,1,Marks,39.855499,39.855499
+375,Finland,511,Zanzibar,1924,0,1,Marks,39.855499,39.855499
+375,Finland,225,Switzerland,1924,30021126,1,Marks,39.855499,39.855499
+375,Finland,101,Venezuela,1924,618295,1,Marks,39.855499,39.855499
+375,Finland,220,France,1924,114227125,1,Marks,39.855499,39.855499
+375,Finland,450,Liberia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,590,Mauritius,1924,0,1,Marks,39.855499,39.855499
+375,Finland,3,Alaska,1924,0,1,Marks,39.855499,39.855499
+375,Finland,681,Aden,1924,0,1,Marks,39.855499,39.855499
+375,Finland,339,Albania,1924,0,1,Marks,39.855499,39.855499
+375,Finland,315,Czechoslovakia,1924,32836797,1,Marks,39.855499,39.855499
+375,Finland,291,Danzig,1924,29885961,1,Marks,39.855499,39.855499
+375,Finland,4,Hawaii,1924,0,1,Marks,39.855499,39.855499
+375,Finland,615,Algeria,1924,244079,1,Marks,39.855499,39.855499
+375,Finland,230,Spain,1924,13240791,1,Marks,39.855499,39.855499
+375,Finland,160,Argentina,1924,22643583,1,Marks,39.855499,39.855499
+375,Finland,740,Japan,1924,112937,1,Marks,39.855499,39.855499
+375,Finland,690,Kuwait,1924,0,1,Marks,39.855499,39.855499
+375,Finland,616,Tunisia,1924,251247,1,Marks,39.855499,39.855499
+375,Finland,800,Thailand,1924,26800,1,Marks,39.855499,39.855499
+375,Finland,630,Iran,1924,3100,1,Marks,39.855499,39.855499
+375,Finland,305,Austria,1924,7086456,1,Marks,39.855499,39.855499
+375,Finland,368,Lithuania,1924,6902925,1,Marks,39.855499,39.855499
+375,Finland,541,Mozambique,1924,0,1,Marks,39.855499,39.855499
+375,Finland,625,Sudan,1924,0,1,Marks,39.855499,39.855499
+375,Finland,165,Uruguay,1924,3479018,1,Marks,39.855499,39.855499
+375,Finland,710,China,1924,504802,1,Marks,39.855499,39.855499
+375,Finland,360,Romania,1924,339410,1,Marks,39.855499,39.855499
+375,Finland,41,Haiti,1924,0,1,Marks,39.855499,39.855499
+375,Finland,255,Germany,1924,1410941722,1,Marks,39.855499,39.855499
+375,Finland,310,Hungary,1924,930332,1,Marks,39.855499,39.855499
+375,Finland,8501,Java,1924,0,1,Marks,39.855499,39.855499
+375,Finland,365,Russia,1924,221020465,1,Marks,39.855499,39.855499
+375,Finland,652,Syria,1924,0,1,Marks,39.855499,39.855499
+375,Finland,700,Afghanistan,1924,0,1,Marks,39.855499,39.855499
+375,Finland,560,South Africa,1924,344553,1,Marks,39.855499,39.855499
+375,Finland,100,Colombia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,290,Poland,1924,49327580,1,Marks,39.855499,39.855499
+375,Finland,475,Nigeria,1924,0,1,Marks,39.855499,39.855499
+375,Finland,130,Ecuador,1924,0,1,Marks,39.855499,39.855499
+375,Finland,645,Iraq,1924,0,1,Marks,39.855499,39.855499
+375,Finland,3651,Siberia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,366,Estonia,1924,58206520,1,Marks,39.855499,39.855499
+375,Finland,,,1924,4733707992,1,Marks,39.855499,39.855499
+375,Finland,367,Latvia,1924,12686222,1,Marks,39.855499,39.855499
+375,Finland,10,Greenland,1924,2340,1,Marks,39.855499,39.855499
+375,Finland,20,Canada,1924,0,1,Marks,39.855499,39.855499
+375,Finland,205,Ireland,1924,0,1,Marks,39.855499,39.855499
+375,Finland,530,Ethiopia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,345,Yugoslavia,1924,539374,1,Marks,39.855499,39.855499
+375,Finland,675,Arabia,1924,0,1,Marks,39.855499,39.855499
+375,Finland,350,Greece,1924,869420,1,Marks,39.855499,39.855499
+375,Finland,620,Libya,1924,0,1,Marks,39.855499,39.855499
+375,Finland,80,Belize,1924,0,1,Marks,39.855499,39.855499
+375,Finland,90,Guatemala,1924,0,1,Marks,39.855499,39.855499
+375,Finland,22,British North America,1924,21013393,1,Marks,39.855499,39.855499
+375,Finland,665,West Bank And Gaza,1924,2250,1,Marks,39.855499,39.855499
+375,Finland,211,Belgium,1924,135982585,1,Marks,39.855499,39.855499
+375,Finland,70,Mexico,1924,8352516,1,Marks,39.855499,39.855499
+375,Finland,94,Costa Rica,1924,0,1,Marks,39.855499,39.855499
+375,Finland,1065,Curacao,1924,0,1,Marks,39.855499,39.855499
+375,Finland,355,Bulgaria,1924,175568,1,Marks,39.855499,39.855499
+375,Finland,385,Norway,1924,37115266,1,Marks,39.855499,39.855499
+375,Finland,401,Madeira,1924,0,1,Marks,39.855499,39.855499
+375,Finland,255,Germany,1925,1759942579,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1925,469959,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1925,2498374,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1925,2847517,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1925,17490532,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1925,2007495,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1925,76300,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1925,358176255,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1925,28660391,1,Fmk,39.700001,39.700001
+375,Finland,,,1925,5543923470,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1925,2360800,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1925,2187309,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1925,39832339,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1925,7028,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1925,521286,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1925,165917381,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1925,40,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1925,49101673,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1925,30206059,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1925,47307454,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1925,936942914,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1925,74437375,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1925,880979,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1925,167277941,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1925,306500476,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1925,5936205,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1925,1165475,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1925,28453183,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1925,110045,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1925,196311,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1925,31188965,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1925,925851,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1925,3314692,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1925,3657916,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1925,420,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1925,345534576,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1925,37831,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1925,23380,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1925,10023350,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1925,17173387,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1925,149986075,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1925,333904,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1925,811580223,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1925,19345132,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1925,2443,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1925,7800,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1925,67469367,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1925,1421027,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1925,121921,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1925,1444083,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1925,0,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1926,6458832,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1926,200122613,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1926,86509981,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1926,28585,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1926,10635,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1926,1250262,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1926,37527453,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1926,47500,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1926,417517795,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1926,105631416,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1926,11376125,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1926,2017626,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1926,33901608,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1926,1699882,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1926,8776,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1926,175123329,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1926,335786,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1926,691877,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1926,726747979,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1926,487071,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1926,801226356,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1926,3226068,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1926,21638,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1926,160,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1926,126575,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1926,2178978,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,255,Germany,1926,1975168707,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1926,1368228,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1926,38491343,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1926,396851,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1926,3200,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1926,37955574,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1926,222025,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,,,1926,5695718981,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1926,40301138,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1926,55003750,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1926,310903005,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1926,6233,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1926,10478389,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1926,1783574,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1926,32777488,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1926,39439812,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1926,1518472,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1926,55814,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1926,72901,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1926,573686,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1926,200381,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1926,55150,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1926,6784649,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1926,107602493,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1926,21082359,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1926,16177129,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1926,327000472,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1926,0,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1927,34466763,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1927,199619889,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1927,10249722,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1927,2164545,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1927,1564567,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1927,277941730,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1927,3120382,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1927,1349903,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1927,20009559,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1927,61360253,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1927,0,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1927,27343388,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1927,29958679,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1927,1175547,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1927,20700,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1927,814929,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1927,810,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1927,3612383,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1927,37970926,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1927,321599368,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1927,75107471,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1927,211357600,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1927,238551,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1927,3085188,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1927,110594,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1927,3301483,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1927,30161690,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1927,43952,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1927,36734241,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1927,14859326,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1927,923625041,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1927,8756751,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1927,25449,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1927,57557328,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1927,266167,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1927,523435899,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1927,1417245,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1927,163795,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1927,1669854,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1927,209224739,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1927,3148798,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1927,113872766,1,Fmk,39.700001,39.700001
+375,Finland,255,Germany,1927,2075341815,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1927,410498,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1927,323689,1,Fmk,39.700001,39.700001
+375,Finland,,,1927,6411466701,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1927,45934,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1927,631947,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1927,49537291,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1927,0,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1927,980961529,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1927,60956,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1927,389047,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1927,64803,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1927,19631,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1928,6508610,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1928,93388070,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1928,374006543,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1928,339147,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1928,859299,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1928,92772247,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1928,2508813,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1928,800,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1928,540677,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1928,27300706,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1928,289655,1,Fmk,39.700001,39.700001
+375,Finland,255,Germany,1928,2961768113,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1928,126081566,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1928,1701897,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1928,5748551,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1928,990418294,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1928,1234280,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1928,322347661,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1928,29955578,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1928,960832,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1928,2200,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1928,40833,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1928,2809856,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1928,20500,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1928,645673,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1928,114727038,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1928,84350,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1928,15905230,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1928,48392961,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1928,7637963,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1928,1359060,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1928,58655300,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1928,299729228,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1928,657379230,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1928,5414996,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1928,33773006,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1928,8647895,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,,,1928,8057890222,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1928,38414,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1928,90,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1928,848000,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1928,40535,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1928,2801160,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1928,1179148208,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1928,56770820,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1928,4011271,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1928,46934073,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1928,1253137,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1928,107389872,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1928,87550,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1928,300,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1928,1735455,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1928,56860657,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1928,13313335,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1928,202734225,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1928,0,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1929,189631199,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1929,112383767,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1929,705449,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1929,47580,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1929,328235678,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1929,684394,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1929,39204418,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1929,59346431,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1929,117591647,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1929,31200,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1929,197604278,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1929,12922003,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1929,599335,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1929,873435809,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1929,307180,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1929,911926572,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1929,482000,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1929,0,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1929,28321,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1929,1712018,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1929,887726,1,Fmk,39.700001,39.700001
+375,Finland,,,1929,7033566276,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1929,11200,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1929,1403927,1,Fmk,39.700001,39.700001
+375,Finland,255,Germany,1929,2683009228,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1929,35042218,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1929,25941752,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1929,99474743,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1929,14136087,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1929,29609,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1929,599072,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1929,251135,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1929,119067913,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1929,3501345,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1929,267740,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1929,34100,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1929,25037563,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1929,3071,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1929,56460020,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1929,338900,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1929,539897764,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1929,52017612,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1929,333256399,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1929,972,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1929,365118,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1929,2061790,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1929,34625212,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1929,5854440,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1929,335628,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1929,56260192,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1929,3138146,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1929,400,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1929,27818288,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1929,1251955,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1929,0,1,Fmk,39.700001,39.700001
+375,Finland,80,Belize,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,165,Uruguay,1930,468095,1,Fmk,39.700001,39.700001
+375,Finland,130,Ecuador,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,94,Costa Rica,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,630,Iran,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,360,Romania,1930,5068657,1,Fmk,39.700001,39.700001
+375,Finland,730,Korea,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,900,Australia,1930,4790931,1,Fmk,39.700001,39.700001
+375,Finland,200,United Kingdom,1930,714642609,1,Fmk,39.700001,39.700001
+375,Finland,385,Norway,1930,54223726,1,Fmk,39.700001,39.700001
+375,Finland,,,1930,5330605952,1,Fmk,39.700001,39.700001
+375,Finland,665,West Bank And Gaza,1930,65245,1,Fmk,39.700001,39.700001
+375,Finland,210,Netherlands,1930,227921967,1,Fmk,39.700001,39.700001
+375,Finland,675,Arabia,1930,798041,1,Fmk,39.700001,39.700001
+375,Finland,51,Jamaica,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,2,United States,1930,638435276,1,Fmk,39.700001,39.700001
+375,Finland,100,Colombia,1930,1372840,1,Fmk,39.700001,39.700001
+375,Finland,225,Switzerland,1930,37406374,1,Fmk,39.700001,39.700001
+375,Finland,800,Thailand,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,620,Libya,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,450,Liberia,1930,43732,1,Fmk,39.700001,39.700001
+375,Finland,211,Belgium,1930,160454529,1,Fmk,39.700001,39.700001
+375,Finland,652,Syria,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,465,British West Africa,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,433,Senegal,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,615,Algeria,1930,567100,1,Fmk,39.700001,39.700001
+375,Finland,90,Guatemala,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,640,Turkey,1930,1391887,1,Fmk,39.700001,39.700001
+375,Finland,511,Zanzibar,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,540,Angola,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,840,Philippines,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,255,Germany,1930,1936711091,1,Fmk,39.700001,39.700001
+375,Finland,291,Danzig,1930,24460759,1,Fmk,39.700001,39.700001
+375,Finland,40,Cuba,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,101,Venezuela,1930,3119859,1,Fmk,39.700001,39.700001
+375,Finland,339,Albania,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,315,Czechoslovakia,1930,79135295,1,Fmk,39.700001,39.700001
+375,Finland,290,Poland,1930,115926360,1,Fmk,39.700001,39.700001
+375,Finland,740,Japan,1930,2381680,1,Fmk,39.700001,39.700001
+375,Finland,541,Mozambique,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,41,Haiti,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,580,Madagascar,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,325,Italy,1930,39892177,1,Fmk,39.700001,39.700001
+375,Finland,140,Brazil,1930,99008081,1,Fmk,39.700001,39.700001
+375,Finland,3,Alaska,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,310,Hungary,1930,9211068,1,Fmk,39.700001,39.700001
+375,Finland,145,Bolivia,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,345,Yugoslavia,1930,42960,1,Fmk,39.700001,39.700001
+375,Finland,368,Lithuania,1930,157021,1,Fmk,39.700001,39.700001
+375,Finland,530,Ethiopia,1930,622174,1,Fmk,39.700001,39.700001
+375,Finland,355,Bulgaria,1930,225041,1,Fmk,39.700001,39.700001
+375,Finland,590,Mauritius,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1930,36544818,1,Fmk,39.700001,39.700001
+375,Finland,95,Panama,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,230,Spain,1930,21780573,1,Fmk,39.700001,39.700001
+375,Finland,490,"Congo, Dem. Republic",1930,60900,1,Fmk,39.700001,39.700001
+375,Finland,235,Portugal,1930,2381732,1,Fmk,39.700001,39.700001
+375,Finland,780,Sri Lanka,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,616,Tunisia,1930,1294699,1,Fmk,39.700001,39.700001
+375,Finland,681,Aden,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,651,Egypt,1930,104921,1,Fmk,39.700001,39.700001
+375,Finland,22,British North America,1930,28965826,1,Fmk,39.700001,39.700001
+375,Finland,305,Austria,1930,11648707,1,Fmk,39.700001,39.700001
+375,Finland,352,Cyprus,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,700,Afghanistan,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,350,Greece,1930,22233089,1,Fmk,39.700001,39.700001
+375,Finland,3651,Siberia,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,365,Russia,1930,131838543,1,Fmk,39.700001,39.700001
+375,Finland,367,Latvia,1930,16390701,1,Fmk,39.700001,39.700001
+375,Finland,92,El Salvador,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,212,Luxembourg,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,625,Sudan,1930,73975,1,Fmk,39.700001,39.700001
+375,Finland,135,Peru,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,205,Ireland,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,710,China,1930,849678,1,Fmk,39.700001,39.700001
+375,Finland,20,Canada,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,150,Paraguay,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,70,Mexico,1930,3951025,1,Fmk,39.700001,39.700001
+375,Finland,475,Nigeria,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,645,Iraq,1930,7050,1,Fmk,39.700001,39.700001
+375,Finland,395,Iceland,1930,89928,1,Fmk,39.700001,39.700001
+375,Finland,91,Honduras,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,8501,Java,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,401,Madeira,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,93,Nicaragua,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,4,Hawaii,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,690,Kuwait,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,10,Greenland,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,1065,Curacao,1930,0,1,Fmk,39.700001,39.700001
+375,Finland,155,Chile,1930,8495,1,Fmk,39.700001,39.700001
+375,Finland,390,Denmark,1930,195357513,1,Fmk,39.700001,39.700001
+375,Finland,380,Sweden,1930,389906788,1,Fmk,39.700001,39.700001
+375,Finland,160,Argentina,1930,22310399,1,Fmk,39.700001,39.700001
+375,Finland,560,South Africa,1930,45014,1,Fmk,39.700001,39.700001
+375,Finland,220,France,1930,120347261,1,Fmk,39.700001,39.700001
+375,Finland,366,Estonia,1931,29016071,1,Fmk,43.504601,43.504601
+375,Finland,465,British West Africa,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,290,Poland,1931,124268094,1,Fmk,43.504601,43.504601
+375,Finland,645,Iraq,1931,11400,1,Fmk,43.504601,43.504601
+375,Finland,4,Hawaii,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,3,Alaska,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,450,Liberia,1931,31372,1,Fmk,43.504601,43.504601
+375,Finland,740,Japan,1931,1578232,1,Fmk,43.504601,43.504601
+375,Finland,433,Senegal,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,620,Libya,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,101,Venezuela,1931,1150451,1,Fmk,43.504601,43.504601
+375,Finland,235,Portugal,1931,2018438,1,Fmk,43.504601,43.504601
+375,Finland,365,Russia,1931,95517468,1,Fmk,43.504601,43.504601
+375,Finland,325,Italy,1931,53449756,1,Fmk,43.504601,43.504601
+375,Finland,200,United Kingdom,1931,434598767,1,Fmk,43.504601,43.504601
+375,Finland,160,Argentina,1931,17756810,1,Fmk,43.504601,43.504601
+375,Finland,625,Sudan,1931,22600,1,Fmk,43.504601,43.504601
+375,Finland,675,Arabia,1931,593315,1,Fmk,43.504601,43.504601
+375,Finland,150,Paraguay,1931,250,1,Fmk,43.504601,43.504601
+375,Finland,20,Canada,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,710,China,1931,581147,1,Fmk,43.504601,43.504601
+375,Finland,690,Kuwait,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,651,Egypt,1931,1146716,1,Fmk,43.504601,43.504601
+375,Finland,92,El Salvador,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,90,Guatemala,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,681,Aden,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,580,Madagascar,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,70,Mexico,1931,2458919,1,Fmk,43.504601,43.504601
+375,Finland,840,Philippines,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,900,Australia,1931,1944534,1,Fmk,43.504601,43.504601
+375,Finland,,,1931,3517045742,1,Fmk,43.504601,43.504601
+375,Finland,352,Cyprus,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,339,Albania,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,305,Austria,1931,9171413,1,Fmk,43.504601,43.504601
+375,Finland,51,Jamaica,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,40,Cuba,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,100,Colombia,1931,632101,1,Fmk,43.504601,43.504601
+375,Finland,140,Brazil,1931,56956778,1,Fmk,43.504601,43.504601
+375,Finland,80,Belize,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,700,Afghanistan,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,95,Panama,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,135,Peru,1931,73921,1,Fmk,43.504601,43.504601
+375,Finland,540,Angola,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,350,Greece,1931,2407405,1,Fmk,43.504601,43.504601
+375,Finland,3651,Siberia,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,652,Syria,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,665,West Bank And Gaza,1931,78358,1,Fmk,43.504601,43.504601
+375,Finland,205,Ireland,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,210,Netherlands,1931,174088833,1,Fmk,43.504601,43.504601
+375,Finland,165,Uruguay,1931,84095,1,Fmk,43.504601,43.504601
+375,Finland,395,Iceland,1931,57845,1,Fmk,43.504601,43.504601
+375,Finland,10,Greenland,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,380,Sweden,1931,287049101,1,Fmk,43.504601,43.504601
+375,Finland,220,France,1931,91566186,1,Fmk,43.504601,43.504601
+375,Finland,475,Nigeria,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,310,Hungary,1931,8001260,1,Fmk,43.504601,43.504601
+375,Finland,8501,Java,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,211,Belgium,1931,121140408,1,Fmk,43.504601,43.504601
+375,Finland,630,Iran,1931,30,1,Fmk,43.504601,43.504601
+375,Finland,511,Zanzibar,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,590,Mauritius,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,22,British North America,1931,15313479,1,Fmk,43.504601,43.504601
+375,Finland,225,Switzerland,1931,38588109,1,Fmk,43.504601,43.504601
+375,Finland,360,Romania,1931,381372,1,Fmk,43.504601,43.504601
+375,Finland,315,Czechoslovakia,1931,58134017,1,Fmk,43.504601,43.504601
+375,Finland,530,Ethiopia,1931,70160,1,Fmk,43.504601,43.504601
+375,Finland,212,Luxembourg,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,615,Algeria,1931,248449,1,Fmk,43.504601,43.504601
+375,Finland,367,Latvia,1931,9304383,1,Fmk,43.504601,43.504601
+375,Finland,640,Turkey,1931,675648,1,Fmk,43.504601,43.504601
+375,Finland,91,Honduras,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,93,Nicaragua,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,780,Sri Lanka,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,41,Haiti,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,730,Korea,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,541,Mozambique,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,130,Ecuador,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,255,Germany,1931,1209883446,1,Fmk,43.504601,43.504601
+375,Finland,560,South Africa,1931,79090,1,Fmk,43.504601,43.504601
+375,Finland,390,Denmark,1931,126846803,1,Fmk,43.504601,43.504601
+375,Finland,800,Thailand,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,345,Yugoslavia,1931,63762,1,Fmk,43.504601,43.504601
+375,Finland,385,Norway,1931,42359579,1,Fmk,43.504601,43.504601
+375,Finland,368,Lithuania,1931,447002,1,Fmk,43.504601,43.504601
+375,Finland,616,Tunisia,1931,372900,1,Fmk,43.504601,43.504601
+375,Finland,401,Madeira,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,291,Danzig,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,1065,Curacao,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,94,Costa Rica,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,145,Bolivia,1931,0,1,Fmk,43.504601,43.504601
+375,Finland,355,Bulgaria,1931,350999,1,Fmk,43.504601,43.504601
+375,Finland,490,"Congo, Dem. Republic",1931,34498,1,Fmk,43.504601,43.504601
+375,Finland,155,Chile,1931,9800,1,Fmk,43.504601,43.504601
+375,Finland,2,United States,1931,372406396,1,Fmk,43.504601,43.504601
+375,Finland,230,Spain,1931,19442582,1,Fmk,43.504601,43.504601
+375,Finland,615,Algeria,1932,285368,1,Fmk,64.823196,64.823196
+375,Finland,20,Canada,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,840,Philippines,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,100,Colombia,1932,677761,1,Fmk,64.823196,64.823196
+375,Finland,291,Danzig,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,645,Iraq,1932,5873,1,Fmk,64.823196,64.823196
+375,Finland,51,Jamaica,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,80,Belize,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,730,Korea,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,740,Japan,1932,2668696,1,Fmk,64.823196,64.823196
+375,Finland,900,Australia,1932,4764725,1,Fmk,64.823196,64.823196
+375,Finland,350,Greece,1932,1742189,1,Fmk,64.823196,64.823196
+375,Finland,690,Kuwait,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,140,Brazil,1932,99322459,1,Fmk,64.823196,64.823196
+375,Finland,625,Sudan,1932,22570,1,Fmk,64.823196,64.823196
+375,Finland,540,Angola,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,675,Arabia,1932,628662,1,Fmk,64.823196,64.823196
+375,Finland,8501,Java,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,366,Estonia,1932,37255185,1,Fmk,64.823196,64.823196
+375,Finland,135,Peru,1932,11760,1,Fmk,64.823196,64.823196
+375,Finland,130,Ecuador,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,10,Greenland,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,367,Latvia,1932,6337437,1,Fmk,64.823196,64.823196
+375,Finland,212,Luxembourg,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,92,El Salvador,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,211,Belgium,1932,96145626,1,Fmk,64.823196,64.823196
+375,Finland,390,Denmark,1932,116353471,1,Fmk,64.823196,64.823196
+375,Finland,210,Netherlands,1932,154507861,1,Fmk,64.823196,64.823196
+375,Finland,345,Yugoslavia,1932,151284,1,Fmk,64.823196,64.823196
+375,Finland,620,Libya,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,590,Mauritius,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,255,Germany,1932,1002547652,1,Fmk,64.823196,64.823196
+375,Finland,630,Iran,1932,22530,1,Fmk,64.823196,64.823196
+375,Finland,710,China,1932,1856457,1,Fmk,64.823196,64.823196
+375,Finland,700,Afghanistan,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,200,United Kingdom,1932,641096099,1,Fmk,64.823196,64.823196
+375,Finland,220,France,1932,74580232,1,Fmk,64.823196,64.823196
+375,Finland,640,Turkey,1932,3905902,1,Fmk,64.823196,64.823196
+375,Finland,616,Tunisia,1932,1126305,1,Fmk,64.823196,64.823196
+375,Finland,560,South Africa,1932,25180,1,Fmk,64.823196,64.823196
+375,Finland,41,Haiti,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,651,Egypt,1932,1353425,1,Fmk,64.823196,64.823196
+375,Finland,2,United States,1932,268774672,1,Fmk,64.823196,64.823196
+375,Finland,490,"Congo, Dem. Republic",1932,35866,1,Fmk,64.823196,64.823196
+375,Finland,95,Panama,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,780,Sri Lanka,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,101,Venezuela,1932,1033366,1,Fmk,64.823196,64.823196
+375,Finland,395,Iceland,1932,15970,1,Fmk,64.823196,64.823196
+375,Finland,40,Cuba,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,541,Mozambique,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,325,Italy,1932,91658266,1,Fmk,64.823196,64.823196
+375,Finland,580,Madagascar,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,681,Aden,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,91,Honduras,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,339,Albania,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,22,British North America,1932,20693913,1,Fmk,64.823196,64.823196
+375,Finland,433,Senegal,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,1065,Curacao,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,155,Chile,1932,85,1,Fmk,64.823196,64.823196
+375,Finland,368,Lithuania,1932,129071,1,Fmk,64.823196,64.823196
+375,Finland,145,Bolivia,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,475,Nigeria,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,352,Cyprus,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,665,West Bank And Gaza,1932,138344,1,Fmk,64.823196,64.823196
+375,Finland,511,Zanzibar,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,652,Syria,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,225,Switzerland,1932,18717453,1,Fmk,64.823196,64.823196
+375,Finland,94,Costa Rica,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,530,Ethiopia,1932,132697,1,Fmk,64.823196,64.823196
+375,Finland,305,Austria,1932,8402700,1,Fmk,64.823196,64.823196
+375,Finland,160,Argentina,1932,45597460,1,Fmk,64.823196,64.823196
+375,Finland,235,Portugal,1932,2170062,1,Fmk,64.823196,64.823196
+375,Finland,70,Mexico,1932,705201,1,Fmk,64.823196,64.823196
+375,Finland,800,Thailand,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,365,Russia,1932,178440150,1,Fmk,64.823196,64.823196
+375,Finland,310,Hungary,1932,3273367,1,Fmk,64.823196,64.823196
+375,Finland,380,Sweden,1932,344720765,1,Fmk,64.823196,64.823196
+375,Finland,205,Ireland,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,230,Spain,1932,28755929,1,Fmk,64.823196,64.823196
+375,Finland,3651,Siberia,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,401,Madeira,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,315,Czechoslovakia,1932,38855784,1,Fmk,64.823196,64.823196
+375,Finland,165,Uruguay,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,3,Alaska,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,4,Hawaii,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,93,Nicaragua,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,450,Liberia,1932,40226,1,Fmk,64.823196,64.823196
+375,Finland,355,Bulgaria,1932,2085497,1,Fmk,64.823196,64.823196
+375,Finland,290,Poland,1932,96537908,1,Fmk,64.823196,64.823196
+375,Finland,360,Romania,1932,731361,1,Fmk,64.823196,64.823196
+375,Finland,385,Norway,1932,62297816,1,Fmk,64.823196,64.823196
+375,Finland,,,1932,3543255774,1,Fmk,64.823196,64.823196
+375,Finland,150,Paraguay,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,90,Guatemala,1932,0,1,Fmk,64.823196,64.823196
+375,Finland,465,British West Africa,1932,500,1,Fmk,64.823196,64.823196
+375,Finland,352,Cyprus,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,511,Zanzibar,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,367,Latvia,1933,6520841,1,Fmk,55.0453,55.0453
+375,Finland,665,West Bank And Gaza,1933,989947,1,Fmk,55.0453,55.0453
+375,Finland,2,United States,1933,288565241,1,Fmk,55.0453,55.0453
+375,Finland,700,Afghanistan,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,255,Germany,1933,1081421930,1,Fmk,55.0453,55.0453
+375,Finland,310,Hungary,1933,4931994,1,Fmk,55.0453,55.0453
+375,Finland,339,Albania,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,3651,Siberia,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,3,Alaska,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,433,Senegal,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,490,"Congo, Dem. Republic",1933,2100,1,Fmk,55.0453,55.0453
+375,Finland,355,Bulgaria,1933,459613,1,Fmk,55.0453,55.0453
+375,Finland,590,Mauritius,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,395,Iceland,1933,31482,1,Fmk,55.0453,55.0453
+375,Finland,900,Australia,1933,3924642,1,Fmk,55.0453,55.0453
+375,Finland,95,Panama,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,130,Ecuador,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,541,Mozambique,1933,1383,1,Fmk,55.0453,55.0453
+375,Finland,150,Paraguay,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,205,Ireland,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,401,Madeira,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,780,Sri Lanka,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,540,Angola,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,1065,Curacao,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,630,Iran,1933,64178,1,Fmk,55.0453,55.0453
+375,Finland,211,Belgium,1933,125879546,1,Fmk,55.0453,55.0453
+375,Finland,645,Iraq,1933,354,1,Fmk,55.0453,55.0453
+375,Finland,465,British West Africa,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,10,Greenland,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,840,Philippines,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,94,Costa Rica,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,800,Thailand,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,290,Poland,1933,131578468,1,Fmk,55.0453,55.0453
+375,Finland,51,Jamaica,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,225,Switzerland,1933,24138376,1,Fmk,55.0453,55.0453
+375,Finland,70,Mexico,1933,2801154,1,Fmk,55.0453,55.0453
+375,Finland,160,Argentina,1933,67793590,1,Fmk,55.0453,55.0453
+375,Finland,368,Lithuania,1933,267457,1,Fmk,55.0453,55.0453
+375,Finland,100,Colombia,1933,1422572,1,Fmk,55.0453,55.0453
+375,Finland,675,Arabia,1933,993443,1,Fmk,55.0453,55.0453
+375,Finland,165,Uruguay,1933,427126,1,Fmk,55.0453,55.0453
+375,Finland,80,Belize,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,580,Madagascar,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,530,Ethiopia,1933,242347,1,Fmk,55.0453,55.0453
+375,Finland,625,Sudan,1933,67750,1,Fmk,55.0453,55.0453
+375,Finland,210,Netherlands,1933,140093547,1,Fmk,55.0453,55.0453
+375,Finland,220,France,1933,72701005,1,Fmk,55.0453,55.0453
+375,Finland,230,Spain,1933,24247093,1,Fmk,55.0453,55.0453
+375,Finland,450,Liberia,1933,93375,1,Fmk,55.0453,55.0453
+375,Finland,200,United Kingdom,1933,808203479,1,Fmk,55.0453,55.0453
+375,Finland,475,Nigeria,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,640,Turkey,1933,3823555,1,Fmk,55.0453,55.0453
+375,Finland,730,Korea,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,350,Greece,1933,2981913,1,Fmk,55.0453,55.0453
+375,Finland,101,Venezuela,1933,2921372,1,Fmk,55.0453,55.0453
+375,Finland,315,Czechoslovakia,1933,17899083,1,Fmk,55.0453,55.0453
+375,Finland,620,Libya,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,212,Luxembourg,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,93,Nicaragua,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,90,Guatemala,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,390,Denmark,1933,143253046,1,Fmk,55.0453,55.0453
+375,Finland,651,Egypt,1933,726218,1,Fmk,55.0453,55.0453
+375,Finland,22,British North America,1933,28319316,1,Fmk,55.0453,55.0453
+375,Finland,365,Russia,1933,183842880,1,Fmk,55.0453,55.0453
+375,Finland,345,Yugoslavia,1933,118260,1,Fmk,55.0453,55.0453
+375,Finland,681,Aden,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,616,Tunisia,1933,1268650,1,Fmk,55.0453,55.0453
+375,Finland,140,Brazil,1933,131614278,1,Fmk,55.0453,55.0453
+375,Finland,560,South Africa,1933,309744,1,Fmk,55.0453,55.0453
+375,Finland,366,Estonia,1933,32576692,1,Fmk,55.0453,55.0453
+375,Finland,690,Kuwait,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,91,Honduras,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,325,Italy,1933,38040553,1,Fmk,55.0453,55.0453
+375,Finland,4,Hawaii,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,652,Syria,1933,19900,1,Fmk,55.0453,55.0453
+375,Finland,92,El Salvador,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,305,Austria,1933,8637868,1,Fmk,55.0453,55.0453
+375,Finland,360,Romania,1933,1888201,1,Fmk,55.0453,55.0453
+375,Finland,385,Norway,1933,91076715,1,Fmk,55.0453,55.0453
+375,Finland,155,Chile,1933,524760,1,Fmk,55.0453,55.0453
+375,Finland,8501,Java,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,145,Bolivia,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,20,Canada,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,615,Algeria,1933,341063,1,Fmk,55.0453,55.0453
+375,Finland,41,Haiti,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,40,Cuba,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,,,1933,3980151618,1,Fmk,55.0453,55.0453
+375,Finland,740,Japan,1933,4777454,1,Fmk,55.0453,55.0453
+375,Finland,710,China,1933,1311923,1,Fmk,55.0453,55.0453
+375,Finland,235,Portugal,1933,4233510,1,Fmk,55.0453,55.0453
+375,Finland,135,Peru,1933,165460,1,Fmk,55.0453,55.0453
+375,Finland,291,Danzig,1933,0,1,Fmk,55.0453,55.0453
+375,Finland,380,Sweden,1933,387422163,1,Fmk,55.0453,55.0453
+375,Finland,235,Portugal,1934,3303833,1,Fmk,45.089802,45.089802
+375,Finland,290,Poland,1934,131638521,1,Fmk,45.089802,45.089802
+375,Finland,368,Lithuania,1934,757245,1,Fmk,45.089802,45.089802
+375,Finland,590,Mauritius,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,150,Paraguay,1934,16000,1,Fmk,45.089802,45.089802
+375,Finland,433,Senegal,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,665,West Bank And Gaza,1934,2724894,1,Fmk,45.089802,45.089802
+375,Finland,3,Alaska,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,395,Iceland,1934,37430,1,Fmk,45.089802,45.089802
+375,Finland,620,Libya,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,740,Japan,1934,15875606,1,Fmk,45.089802,45.089802
+375,Finland,165,Uruguay,1934,2795341,1,Fmk,45.089802,45.089802
+375,Finland,,,1934,4807311318,1,Fmk,45.089802,45.089802
+375,Finland,730,Korea,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,345,Yugoslavia,1934,174268,1,Fmk,45.089802,45.089802
+375,Finland,140,Brazil,1934,122564258,1,Fmk,45.089802,45.089802
+375,Finland,681,Aden,1934,552465,1,Fmk,45.089802,45.089802
+375,Finland,200,United Kingdom,1934,1089747323,1,Fmk,45.089802,45.089802
+375,Finland,645,Iraq,1934,700,1,Fmk,45.089802,45.089802
+375,Finland,2,United States,1934,411762376,1,Fmk,45.089802,45.089802
+375,Finland,10,Greenland,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,780,Sri Lanka,1934,1322064,1,Fmk,45.089802,45.089802
+375,Finland,315,Czechoslovakia,1934,68391344,1,Fmk,45.089802,45.089802
+375,Finland,40,Cuba,1934,4184148,1,Fmk,45.089802,45.089802
+375,Finland,401,Madeira,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,450,Liberia,1934,19443,1,Fmk,45.089802,45.089802
+375,Finland,92,El Salvador,1934,3266962,1,Fmk,45.089802,45.089802
+375,Finland,700,Afghanistan,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,310,Hungary,1934,9941502,1,Fmk,45.089802,45.089802
+375,Finland,305,Austria,1934,32094705,1,Fmk,45.089802,45.089802
+375,Finland,640,Turkey,1934,1623402,1,Fmk,45.089802,45.089802
+375,Finland,365,Russia,1934,247422401,1,Fmk,45.089802,45.089802
+375,Finland,212,Luxembourg,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,22,British North America,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,651,Egypt,1934,1535253,1,Fmk,45.089802,45.089802
+375,Finland,350,Greece,1934,7995327,1,Fmk,45.089802,45.089802
+375,Finland,380,Sweden,1934,500527728,1,Fmk,45.089802,45.089802
+375,Finland,625,Sudan,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,615,Algeria,1934,343551,1,Fmk,45.089802,45.089802
+375,Finland,360,Romania,1934,3563379,1,Fmk,45.089802,45.089802
+375,Finland,100,Colombia,1934,4237902,1,Fmk,45.089802,45.089802
+375,Finland,4,Hawaii,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,339,Albania,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,205,Ireland,1934,47700,1,Fmk,45.089802,45.089802
+375,Finland,20,Canada,1934,31467678,1,Fmk,45.089802,45.089802
+375,Finland,352,Cyprus,1934,91900,1,Fmk,45.089802,45.089802
+375,Finland,70,Mexico,1934,4920439,1,Fmk,45.089802,45.089802
+375,Finland,145,Bolivia,1934,2220,1,Fmk,45.089802,45.089802
+375,Finland,630,Iran,1934,68572,1,Fmk,45.089802,45.089802
+375,Finland,90,Guatemala,1934,800458,1,Fmk,45.089802,45.089802
+375,Finland,580,Madagascar,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,490,"Congo, Dem. Republic",1934,0,1,Fmk,45.089802,45.089802
+375,Finland,225,Switzerland,1934,68839760,1,Fmk,45.089802,45.089802
+375,Finland,91,Honduras,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,211,Belgium,1934,211889281,1,Fmk,45.089802,45.089802
+375,Finland,93,Nicaragua,1934,1024055,1,Fmk,45.089802,45.089802
+375,Finland,230,Spain,1934,26609268,1,Fmk,45.089802,45.089802
+375,Finland,840,Philippines,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,291,Danzig,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,220,France,1934,121037179,1,Fmk,45.089802,45.089802
+375,Finland,8501,Java,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,900,Australia,1934,9620811,1,Fmk,45.089802,45.089802
+375,Finland,385,Norway,1934,83879044,1,Fmk,45.089802,45.089802
+375,Finland,710,China,1934,654935,1,Fmk,45.089802,45.089802
+375,Finland,1065,Curacao,1934,10870215,1,Fmk,45.089802,45.089802
+375,Finland,652,Syria,1934,82234,1,Fmk,45.089802,45.089802
+375,Finland,41,Haiti,1934,106932,1,Fmk,45.089802,45.089802
+375,Finland,475,Nigeria,1934,40996,1,Fmk,45.089802,45.089802
+375,Finland,800,Thailand,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,325,Italy,1934,36917421,1,Fmk,45.089802,45.089802
+375,Finland,465,British West Africa,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,94,Costa Rica,1934,1940,1,Fmk,45.089802,45.089802
+375,Finland,130,Ecuador,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,366,Estonia,1934,33034928,1,Fmk,45.089802,45.089802
+375,Finland,675,Arabia,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,511,Zanzibar,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,355,Bulgaria,1934,474868,1,Fmk,45.089802,45.089802
+375,Finland,101,Venezuela,1934,2808484,1,Fmk,45.089802,45.089802
+375,Finland,367,Latvia,1934,9585088,1,Fmk,45.089802,45.089802
+375,Finland,155,Chile,1934,576882,1,Fmk,45.089802,45.089802
+375,Finland,530,Ethiopia,1934,746177,1,Fmk,45.089802,45.089802
+375,Finland,255,Germany,1934,988172896,1,Fmk,45.089802,45.089802
+375,Finland,210,Netherlands,1934,185095077,1,Fmk,45.089802,45.089802
+375,Finland,51,Jamaica,1934,283633,1,Fmk,45.089802,45.089802
+375,Finland,540,Angola,1934,1360,1,Fmk,45.089802,45.089802
+375,Finland,160,Argentina,1934,85759721,1,Fmk,45.089802,45.089802
+375,Finland,3651,Siberia,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,616,Tunisia,1934,1131770,1,Fmk,45.089802,45.089802
+375,Finland,690,Kuwait,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,135,Peru,1934,381138,1,Fmk,45.089802,45.089802
+375,Finland,80,Belize,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,390,Denmark,1934,160110585,1,Fmk,45.089802,45.089802
+375,Finland,541,Mozambique,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,560,South Africa,1934,0,1,Fmk,45.089802,45.089802
+375,Finland,95,Panama,1934,42000,1,Fmk,45.089802,45.089802
+375,Finland,640,Turkey,1935,15468322,1,Fmk,46.3536,46.3536
+375,Finland,339,Albania,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,10,Greenland,1935,85315,1,Fmk,46.3536,46.3536
+375,Finland,380,Sweden,1935,489731572,1,Fmk,46.3536,46.3536
+375,Finland,541,Mozambique,1935,147082,1,Fmk,46.3536,46.3536
+375,Finland,900,Australia,1935,32912936,1,Fmk,46.3536,46.3536
+375,Finland,390,Denmark,1935,168454689,1,Fmk,46.3536,46.3536
+375,Finland,51,Jamaica,1935,8008952,1,Fmk,46.3536,46.3536
+375,Finland,,,1935,5461490436,1,Fmk,46.3536,46.3536
+375,Finland,41,Haiti,1935,294343,1,Fmk,46.3536,46.3536
+375,Finland,490,"Congo, Dem. Republic",1935,421664,1,Fmk,46.3536,46.3536
+375,Finland,211,Belgium,1935,197085491,1,Fmk,46.3536,46.3536
+375,Finland,360,Romania,1935,30908374,1,Fmk,46.3536,46.3536
+375,Finland,615,Algeria,1935,1199636,1,Fmk,46.3536,46.3536
+375,Finland,465,British West Africa,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,366,Estonia,1935,87981451,1,Fmk,46.3536,46.3536
+375,Finland,580,Madagascar,1935,241884,1,Fmk,46.3536,46.3536
+375,Finland,80,Belize,1935,204509,1,Fmk,46.3536,46.3536
+375,Finland,800,Thailand,1935,782190,1,Fmk,46.3536,46.3536
+375,Finland,220,France,1935,154328146,1,Fmk,46.3536,46.3536
+375,Finland,310,Hungary,1935,14348396,1,Fmk,46.3536,46.3536
+375,Finland,291,Danzig,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,100,Colombia,1935,11105074,1,Fmk,46.3536,46.3536
+375,Finland,730,Korea,1935,20924,1,Fmk,46.3536,46.3536
+375,Finland,150,Paraguay,1935,1592051,1,Fmk,46.3536,46.3536
+375,Finland,645,Iraq,1935,2400213,1,Fmk,46.3536,46.3536
+375,Finland,93,Nicaragua,1935,3291627,1,Fmk,46.3536,46.3536
+375,Finland,235,Portugal,1935,7722886,1,Fmk,46.3536,46.3536
+375,Finland,365,Russia,1935,174492795,1,Fmk,46.3536,46.3536
+375,Finland,165,Uruguay,1935,7779094,1,Fmk,46.3536,46.3536
+375,Finland,95,Panama,1935,341954,1,Fmk,46.3536,46.3536
+375,Finland,4,Hawaii,1935,15557,1,Fmk,46.3536,46.3536
+375,Finland,345,Yugoslavia,1935,1572493,1,Fmk,46.3536,46.3536
+375,Finland,8501,Java,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,401,Madeira,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,560,South Africa,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,160,Argentina,1935,111242540,1,Fmk,46.3536,46.3536
+375,Finland,315,Czechoslovakia,1935,93882896,1,Fmk,46.3536,46.3536
+375,Finland,140,Brazil,1935,173575135,1,Fmk,46.3536,46.3536
+375,Finland,90,Guatemala,1935,4414193,1,Fmk,46.3536,46.3536
+375,Finland,511,Zanzibar,1935,46118,1,Fmk,46.3536,46.3536
+375,Finland,205,Ireland,1935,919001,1,Fmk,46.3536,46.3536
+375,Finland,155,Chile,1935,9201372,1,Fmk,46.3536,46.3536
+375,Finland,2,United States,1935,520902635,1,Fmk,46.3536,46.3536
+375,Finland,130,Ecuador,1935,353958,1,Fmk,46.3536,46.3536
+375,Finland,92,El Salvador,1935,6697550,1,Fmk,46.3536,46.3536
+375,Finland,652,Syria,1935,182794,1,Fmk,46.3536,46.3536
+375,Finland,94,Costa Rica,1935,363001,1,Fmk,46.3536,46.3536
+375,Finland,290,Poland,1935,150918930,1,Fmk,46.3536,46.3536
+375,Finland,630,Iran,1935,5975834,1,Fmk,46.3536,46.3536
+375,Finland,70,Mexico,1935,25635717,1,Fmk,46.3536,46.3536
+375,Finland,352,Cyprus,1935,605977,1,Fmk,46.3536,46.3536
+375,Finland,3651,Siberia,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,616,Tunisia,1935,1403692,1,Fmk,46.3536,46.3536
+375,Finland,740,Japan,1935,36073193,1,Fmk,46.3536,46.3536
+375,Finland,450,Liberia,1935,783666,1,Fmk,46.3536,46.3536
+375,Finland,395,Iceland,1935,323773,1,Fmk,46.3536,46.3536
+375,Finland,675,Arabia,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,651,Egypt,1935,17520989,1,Fmk,46.3536,46.3536
+375,Finland,710,China,1935,19040607,1,Fmk,46.3536,46.3536
+375,Finland,620,Libya,1935,41903,1,Fmk,46.3536,46.3536
+375,Finland,368,Lithuania,1935,5137351,1,Fmk,46.3536,46.3536
+375,Finland,325,Italy,1935,63288627,1,Fmk,46.3536,46.3536
+375,Finland,625,Sudan,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,350,Greece,1935,31809124,1,Fmk,46.3536,46.3536
+375,Finland,145,Bolivia,1935,64725,1,Fmk,46.3536,46.3536
+375,Finland,367,Latvia,1935,22244489,1,Fmk,46.3536,46.3536
+375,Finland,681,Aden,1935,806610,1,Fmk,46.3536,46.3536
+375,Finland,540,Angola,1935,113685,1,Fmk,46.3536,46.3536
+375,Finland,780,Sri Lanka,1935,7661595,1,Fmk,46.3536,46.3536
+375,Finland,3,Alaska,1935,1000,1,Fmk,46.3536,46.3536
+375,Finland,475,Nigeria,1935,404328,1,Fmk,46.3536,46.3536
+375,Finland,135,Peru,1935,7798870,1,Fmk,46.3536,46.3536
+375,Finland,530,Ethiopia,1935,2084041,1,Fmk,46.3536,46.3536
+375,Finland,101,Venezuela,1935,13752132,1,Fmk,46.3536,46.3536
+375,Finland,690,Kuwait,1935,200,1,Fmk,46.3536,46.3536
+375,Finland,210,Netherlands,1935,147360230,1,Fmk,46.3536,46.3536
+375,Finland,230,Spain,1935,32806403,1,Fmk,46.3536,46.3536
+375,Finland,1065,Curacao,1935,44489883,1,Fmk,46.3536,46.3536
+375,Finland,665,West Bank And Gaza,1935,5670315,1,Fmk,46.3536,46.3536
+375,Finland,20,Canada,1935,49368415,1,Fmk,46.3536,46.3536
+375,Finland,40,Cuba,1935,2730823,1,Fmk,46.3536,46.3536
+375,Finland,22,British North America,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,385,Norway,1935,104250763,1,Fmk,46.3536,46.3536
+375,Finland,355,Bulgaria,1935,6289904,1,Fmk,46.3536,46.3536
+375,Finland,840,Philippines,1935,655972,1,Fmk,46.3536,46.3536
+375,Finland,255,Germany,1935,927669927,1,Fmk,46.3536,46.3536
+375,Finland,433,Senegal,1935,1150,1,Fmk,46.3536,46.3536
+375,Finland,700,Afghanistan,1935,17576,1,Fmk,46.3536,46.3536
+375,Finland,200,United Kingdom,1935,1056348386,1,Fmk,46.3536,46.3536
+375,Finland,590,Mauritius,1935,8700,1,Fmk,46.3536,46.3536
+375,Finland,305,Austria,1935,47277344,1,Fmk,46.3536,46.3536
+375,Finland,225,Switzerland,1935,53485914,1,Fmk,46.3536,46.3536
+375,Finland,212,Luxembourg,1935,0,1,Fmk,46.3536,46.3536
+375,Finland,91,Honduras,1935,54322,1,Fmk,46.3536,46.3536
+375,Finland,,,1936,,,,45.8209,45.8209
+375,Finland,,,1937,,,,46.062698,46.062698
+375,Finland,,,1938,,,,46.611198,46.611198
+375,Finland,,,1939,,,,48.8638,48.8638
+375,Finland,,,1940,,,,49.349998,49.349998
+375,Finland,,,1941,,,,49.349998,49.349998
+375,Finland,,,1942,,,,49.349998,49.349998
+375,Finland,,,1943,,,,49.349998,49.349998
+375,Finland,,,1944,,,,49.349998,49.349998
+375,Finland,,,1945,,,,87.832001,87.832001
+375,Finland,,,1946,,,,136,136
+375,Finland,,,1947,,,,136,136
+375,Finland,,,1948,,,,136,136
+375,Finland,,,1949,,,,168.4716,168.4716
+375,Finland,,,1950,,,,231,231

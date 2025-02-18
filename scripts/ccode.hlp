@@ -1,0 +1,70 @@
+{smcl}
+{hline}
+help for ccode
+{hline}
+
+
+{title:Description}
+
+{p 4 4 2}
+This command is to translate between different country codes used in data. For example, if you have a dataset where countries are identified by World Bank code 
+and you want to merge with data where countries are identified by IMF code, you could use this program to create a new IMF code variable. As of now, the country 
+codes available are the Correlates of War, IMF's numeric code, the World Bank's alphabetical code, and Banks's numeric code.
+{p_end}
+
+{title:Syntax}
+{* put the syntax in what follows. Don't forget to use [ ] around optional items}
+{p 8 14 2}
+   {cmd: ccode}
+   {it:country_var} 
+   {cmd:,}
+   {cmd: from}{it:(Country code name)}
+   {cmd: to}{it:(Country code name)}
+   {cmd: gen}{it:(newvar)}
+{p_end}
+
+{p 4 4 2}{it:country_var} is the name of the exising variable that contains the country code{p_end}
+{p 4 4 2}{cmd:from} is the name of the country code {it:country_var} is in{p_end}
+{p 4 4 2}{cmd:to} is the name of the country code {it:newvar} will be in{p_end}
+{p 4 4 2}{it:newvar} is the name of the new variable to be created{p_end}
+
+{title:Options}
+
+{p 4 8 2}As of now, the command translates between 4 types of country codes:{p_end}
+{p 4 8 2}{cmd:COW}: Correlates of War numeric country code{p_end}
+{p 4 8 2}{cmd:IMF}: IMF's numeric country code{p_end}
+{p 4 8 2}{cmd:WB}: World Bank alphabetic country code{p_end}
+{p 4 8 2}{cmd:BANKS}: Banks cross-national data numeric country code{p_end}
+
+
+{title:Example(s)}
+
+{p 4 8 2}{cmd:. ccode imfno , from(imf) to(cow) gen(ccode)}{p_end}
+{p 4 8 2}{cmd:. ccode wbcode , from(wb) to(imf) gen(imfno)}{p_end}
+
+{title:Notes}
+
+{p 4 4 2}
+The {cmd:from} and {cmd:to} commands are not case-sensitive. Either lower or upper case can be used.
+{p_end}
+
+{p 4 4 2}
+There is no IMF code for West Germany, so converting from West Germany in COW, WB, or Banks to IMF will lead to a missing value. 
+{p_end}
+
+{p 4 4 2}
+Please contact the author for any suggestions or to add any country codes.{p_end}
+
+
+{title:Also see}
+
+{p 4 13 2}
+Raymond Hicks, Princeton University{p_end}
+{p 4 13 2}Email: {browse "mailto:rhicks@princeton.edu":rhicks@princeton.edu}
+{p_end}
+
+{title:Also see}
+
+{p 4 13 2}
+Similar commands: description of {net describe kountry:kountry}
+{p_end}

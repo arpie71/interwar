@@ -1,0 +1,1842 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency,xr_gfd,xr_gfd_trade
+305,Austria,620,Libya,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,130,Ecuador,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,365,Russia,1922,1606,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,155,Chile,1922,255,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2,United States,1922,144450,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,775,Myanmar,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,100,Colombia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,670,Saudi Arabia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2115,Belgian Africa,1922,26,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,310,Hungary,1922,195728,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,770,Pakistan,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,1060,French West Indies,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,675,Arabia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,160,Argentina,1922,28887,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,660,Lebanon,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,3363,Memel,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,90,Guatemala,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,375,Finland,1922,263,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,325,Italy,1922,88870,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,40,Cuba,1922,165,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,150,Paraguay,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2005,British Africa,1922,3116,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,560,South Africa,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,368,Lithuania,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,625,Sudan,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,211,Belgium,1922,9269,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,640,Turkey,1922,7763,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,210,Netherlands,1922,27917,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,315,Czechoslovakia,1922,414438,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,390,Denmark,1922,4057,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,850,Indonesia,1922,10327,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,651,Egypt,1922,1605,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,,,1922,1757982,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,41,Haiti,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,235,Portugal,1922,782,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,630,Iran,1922,209,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,101,Venezuela,1922,21,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,220,France,1922,21496,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,140,Brazil,1922,9974,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,70,Mexico,1922,304,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,355,Bulgaria,1922,22067,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,93,Nicaragua,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,80,Belize,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,92,El Salvador,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,255,Germany,1922,392402,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,95,Panama,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,750,India,1922,21439,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,700,Afghanistan,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,20,Canada,1922,831,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,840,Philippines,1922,2,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,1050,British West Indies,1922,327,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,205,Ireland,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,367,Latvia,1922,4,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,352,Cyprus,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,91,Honduras,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,530,Ethiopia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,135,Peru,1922,14,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,3250,Italian Africa,1922,3,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,810,French Indo-China,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,827,Straits Settlement,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,652,Syria,1922,3,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,710,China,1922,1547,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,326,Trieste,1922,2450,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,42,Dominican Republic,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,800,Thailand,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,900,Australia,1922,14569,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,780,Sri Lanka,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,94,Costa Rica,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2205,French Africa,1922,461,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,366,Estonia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,665,West Bank And Gaza,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,145,Bolivia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,230,Spain,1922,1270,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,290,Poland,1922,82192,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,740,Japan,1922,729,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,490,"Congo, Dem. Republic",1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,360,Romania,1922,24386,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,350,Greece,1922,4734,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,615,Algeria,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,920,New Zealand,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,291,Danzig,1922,76,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2305,Spanish Africa,1922,22,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,645,Iraq,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,339,Albania,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,225,Switzerland,1922,89654,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,616,Tunisia,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,256,Saar,1922,6205,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,385,Norway,1922,2685,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,68,Netherlands Antilles,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,573,British South Africa,1922,0,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,212,Luxembourg,1922,350,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,165,Uruguay,1922,18,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,2355,Portuguese Africa,1922,135,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,345,Yugoslavia,1922,72056,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,380,Sweden,1922,853,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,200,United Kingdom,1922,41382,1000,Goldkronen,36242.5323,36242.5323
+305,Austria,700,Afghanistan,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,1060,French West Indies,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,94,Costa Rica,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,920,New Zealand,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,665,West Bank And Gaza,1923,34,1000,Shilling,70467.3484,70467.3484
+305,Austria,345,Yugoslavia,1923,141527,1000,Shilling,70467.3484,70467.3484
+305,Austria,145,Bolivia,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,710,China,1923,2979,1000,Shilling,70467.3484,70467.3484
+305,Austria,315,Czechoslovakia,1923,633168,1000,Shilling,70467.3484,70467.3484
+305,Austria,130,Ecuador,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,101,Venezuela,1923,154,1000,Shilling,70467.3484,70467.3484
+305,Austria,652,Syria,1923,59,1000,Shilling,70467.3484,70467.3484
+305,Austria,675,Arabia,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,352,Cyprus,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,616,Tunisia,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,165,Uruguay,1923,279,1000,Shilling,70467.3484,70467.3484
+305,Austria,290,Poland,1923,171160,1000,Shilling,70467.3484,70467.3484
+305,Austria,360,Romania,1923,61062,1000,Shilling,70467.3484,70467.3484
+305,Austria,225,Switzerland,1923,158560,1000,Shilling,70467.3484,70467.3484
+305,Austria,210,Netherlands,1923,40329,1000,Shilling,70467.3484,70467.3484
+305,Austria,150,Paraguay,1923,529,1000,Shilling,70467.3484,70467.3484
+305,Austria,366,Estonia,1923,20,1000,Shilling,70467.3484,70467.3484
+305,Austria,200,United Kingdom,1923,66133,1000,Shilling,70467.3484,70467.3484
+305,Austria,92,El Salvador,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,326,Trieste,1923,991,1000,Shilling,70467.3484,70467.3484
+305,Austria,2205,French Africa,1923,2128,1000,Shilling,70467.3484,70467.3484
+305,Austria,651,Egypt,1923,4743,1000,Shilling,70467.3484,70467.3484
+305,Austria,367,Latvia,1923,71,1000,Shilling,70467.3484,70467.3484
+305,Austria,160,Argentina,1923,30335,1000,Shilling,70467.3484,70467.3484
+305,Austria,90,Guatemala,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,390,Denmark,1923,10970,1000,Shilling,70467.3484,70467.3484
+305,Austria,375,Finland,1923,261,1000,Shilling,70467.3484,70467.3484
+305,Austria,91,Honduras,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,3250,Italian Africa,1923,65,1000,Shilling,70467.3484,70467.3484
+305,Austria,291,Danzig,1923,7,1000,Shilling,70467.3484,70467.3484
+305,Austria,211,Belgium,1923,11435,1000,Shilling,70467.3484,70467.3484
+305,Austria,339,Albania,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,385,Norway,1923,2504,1000,Shilling,70467.3484,70467.3484
+305,Austria,670,Saudi Arabia,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,350,Greece,1923,11193,1000,Shilling,70467.3484,70467.3484
+305,Austria,850,Indonesia,1923,10909,1000,Shilling,70467.3484,70467.3484
+305,Austria,212,Luxembourg,1923,812,1000,Shilling,70467.3484,70467.3484
+305,Austria,573,British South Africa,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,380,Sweden,1923,2909,1000,Shilling,70467.3484,70467.3484
+305,Austria,775,Myanmar,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,2,United States,1923,175519,1000,Shilling,70467.3484,70467.3484
+305,Austria,205,Ireland,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,490,"Congo, Dem. Republic",1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,135,Peru,1923,1,1000,Shilling,70467.3484,70467.3484
+305,Austria,155,Chile,1923,1390,1000,Shilling,70467.3484,70467.3484
+305,Austria,560,South Africa,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,256,Saar,1923,9685,1000,Shilling,70467.3484,70467.3484
+305,Austria,770,Pakistan,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,827,Straits Settlement,1923,3013,1000,Shilling,70467.3484,70467.3484
+305,Austria,2005,British Africa,1923,4214,1000,Shilling,70467.3484,70467.3484
+305,Austria,3363,Memel,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,660,Lebanon,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,530,Ethiopia,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,2115,Belgian Africa,1923,222,1000,Shilling,70467.3484,70467.3484
+305,Austria,325,Italy,1923,192383,1000,Shilling,70467.3484,70467.3484
+305,Austria,2355,Portuguese Africa,1923,70,1000,Shilling,70467.3484,70467.3484
+305,Austria,42,Dominican Republic,1923,2943,1000,Shilling,70467.3484,70467.3484
+305,Austria,41,Haiti,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,230,Spain,1923,763,1000,Shilling,70467.3484,70467.3484
+305,Austria,235,Portugal,1923,2580,1000,Shilling,70467.3484,70467.3484
+305,Austria,68,Netherlands Antilles,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,740,Japan,1923,603,1000,Shilling,70467.3484,70467.3484
+305,Austria,800,Thailand,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,220,France,1923,48240,1000,Shilling,70467.3484,70467.3484
+305,Austria,615,Algeria,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,840,Philippines,1923,1577,1000,Shilling,70467.3484,70467.3484
+305,Austria,365,Russia,1923,4121,1000,Shilling,70467.3484,70467.3484
+305,Austria,,,1923,2771726,1000,Shilling,70467.3484,70467.3484
+305,Austria,95,Panama,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,93,Nicaragua,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,810,French Indo-China,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,368,Lithuania,1923,68,1000,Shilling,70467.3484,70467.3484
+305,Austria,40,Cuba,1923,595,1000,Shilling,70467.3484,70467.3484
+305,Austria,140,Brazil,1923,15443,1000,Shilling,70467.3484,70467.3484
+305,Austria,20,Canada,1923,3390,1000,Shilling,70467.3484,70467.3484
+305,Austria,630,Iran,1923,1066,1000,Shilling,70467.3484,70467.3484
+305,Austria,625,Sudan,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,900,Australia,1923,18854,1000,Shilling,70467.3484,70467.3484
+305,Austria,355,Bulgaria,1923,51470,1000,Shilling,70467.3484,70467.3484
+305,Austria,620,Libya,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,255,Germany,1923,498223,1000,Shilling,70467.3484,70467.3484
+305,Austria,100,Colombia,1923,25,1000,Shilling,70467.3484,70467.3484
+305,Austria,750,India,1923,45848,1000,Shilling,70467.3484,70467.3484
+305,Austria,780,Sri Lanka,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,1050,British West Indies,1923,278,1000,Shilling,70467.3484,70467.3484
+305,Austria,645,Iraq,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,310,Hungary,1923,300561,1000,Shilling,70467.3484,70467.3484
+305,Austria,2305,Spanish Africa,1923,17,1000,Shilling,70467.3484,70467.3484
+305,Austria,640,Turkey,1923,14905,1000,Shilling,70467.3484,70467.3484
+305,Austria,70,Mexico,1923,883,1000,Shilling,70467.3484,70467.3484
+305,Austria,80,Belize,1923,0,1000,Shilling,70467.3484,70467.3484
+305,Austria,212,Luxembourg,1924,926,1000,Shilling,7.1429,7.1429
+305,Austria,100,Colombia,1924,40,1000,Shilling,7.1429,7.1429
+305,Austria,360,Romania,1924,87403,1000,Shilling,7.1429,7.1429
+305,Austria,665,West Bank And Gaza,1924,40,1000,Shilling,7.1429,7.1429
+305,Austria,645,Iraq,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,780,Sri Lanka,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,220,France,1924,81497,1000,Shilling,7.1429,7.1429
+305,Austria,93,Nicaragua,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,490,"Congo, Dem. Republic",1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,2,United States,1924,192024,1000,Shilling,7.1429,7.1429
+305,Austria,90,Guatemala,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,,,1924,3482331,1000,Shilling,7.1429,7.1429
+305,Austria,310,Hungary,1924,402409,1000,Shilling,7.1429,7.1429
+305,Austria,530,Ethiopia,1924,10,1000,Shilling,7.1429,7.1429
+305,Austria,211,Belgium,1924,22231,1000,Shilling,7.1429,7.1429
+305,Austria,365,Russia,1924,10932,1000,Shilling,7.1429,7.1429
+305,Austria,651,Egypt,1924,4934,1000,Shilling,7.1429,7.1429
+305,Austria,101,Venezuela,1924,72,1000,Shilling,7.1429,7.1429
+305,Austria,366,Estonia,1924,299,1000,Shilling,7.1429,7.1429
+305,Austria,920,New Zealand,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,810,French Indo-China,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,1050,British West Indies,1924,266,1000,Shilling,7.1429,7.1429
+305,Austria,150,Paraguay,1924,289,1000,Shilling,7.1429,7.1429
+305,Austria,315,Czechoslovakia,1924,780129,1000,Shilling,7.1429,7.1429
+305,Austria,70,Mexico,1924,585,1000,Shilling,7.1429,7.1429
+305,Austria,94,Costa Rica,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,290,Poland,1924,258992,1000,Shilling,7.1429,7.1429
+305,Austria,2355,Portuguese Africa,1924,121,1000,Shilling,7.1429,7.1429
+305,Austria,670,Saudi Arabia,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,135,Peru,1924,35,1000,Shilling,7.1429,7.1429
+305,Austria,160,Argentina,1924,36147,1000,Shilling,7.1429,7.1429
+305,Austria,345,Yugoslavia,1924,151231,1000,Shilling,7.1429,7.1429
+305,Austria,130,Ecuador,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,2005,British Africa,1924,3758,1000,Shilling,7.1429,7.1429
+305,Austria,850,Indonesia,1924,21785,1000,Shilling,7.1429,7.1429
+305,Austria,640,Turkey,1924,24657,1000,Shilling,7.1429,7.1429
+305,Austria,620,Libya,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,375,Finland,1924,255,1000,Shilling,7.1429,7.1429
+305,Austria,91,Honduras,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,616,Tunisia,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,630,Iran,1924,2873,1000,Shilling,7.1429,7.1429
+305,Austria,339,Albania,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,2205,French Africa,1924,1575,1000,Shilling,7.1429,7.1429
+305,Austria,235,Portugal,1924,2933,1000,Shilling,7.1429,7.1429
+305,Austria,368,Lithuania,1924,134,1000,Shilling,7.1429,7.1429
+305,Austria,3363,Memel,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,140,Brazil,1924,30294,1000,Shilling,7.1429,7.1429
+305,Austria,367,Latvia,1924,543,1000,Shilling,7.1429,7.1429
+305,Austria,291,Danzig,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,770,Pakistan,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,827,Straits Settlement,1924,2189,1000,Shilling,7.1429,7.1429
+305,Austria,155,Chile,1924,2334,1000,Shilling,7.1429,7.1429
+305,Austria,675,Arabia,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,325,Italy,1924,248916,1000,Shilling,7.1429,7.1429
+305,Austria,80,Belize,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,560,South Africa,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,92,El Salvador,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,210,Netherlands,1924,41477,1000,Shilling,7.1429,7.1429
+305,Austria,350,Greece,1924,7814,1000,Shilling,7.1429,7.1429
+305,Austria,42,Dominican Republic,1924,2598,1000,Shilling,7.1429,7.1429
+305,Austria,2305,Spanish Africa,1924,213,1000,Shilling,7.1429,7.1429
+305,Austria,840,Philippines,1924,104,1000,Shilling,7.1429,7.1429
+305,Austria,700,Afghanistan,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,256,Saar,1924,12406,1000,Shilling,7.1429,7.1429
+305,Austria,95,Panama,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,230,Spain,1924,1987,1000,Shilling,7.1429,7.1429
+305,Austria,652,Syria,1924,128,1000,Shilling,7.1429,7.1429
+305,Austria,1060,French West Indies,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,41,Haiti,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,2115,Belgian Africa,1924,428,1000,Shilling,7.1429,7.1429
+305,Austria,615,Algeria,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,255,Germany,1924,518804,1000,Shilling,7.1429,7.1429
+305,Austria,205,Ireland,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,573,British South Africa,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,165,Uruguay,1924,1426,1000,Shilling,7.1429,7.1429
+305,Austria,660,Lebanon,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,625,Sudan,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,900,Australia,1924,23220,1000,Shilling,7.1429,7.1429
+305,Austria,775,Myanmar,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,352,Cyprus,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,3250,Italian Africa,1924,235,1000,Shilling,7.1429,7.1429
+305,Austria,355,Bulgaria,1924,76092,1000,Shilling,7.1429,7.1429
+305,Austria,40,Cuba,1924,570,1000,Shilling,7.1429,7.1429
+305,Austria,800,Thailand,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,385,Norway,1924,4119,1000,Shilling,7.1429,7.1429
+305,Austria,740,Japan,1924,479,1000,Shilling,7.1429,7.1429
+305,Austria,750,India,1924,68793,1000,Shilling,7.1429,7.1429
+305,Austria,20,Canada,1924,1687,1000,Shilling,7.1429,7.1429
+305,Austria,225,Switzerland,1924,196670,1000,Shilling,7.1429,7.1429
+305,Austria,326,Trieste,1924,747,1000,Shilling,7.1429,7.1429
+305,Austria,68,Netherlands Antilles,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,710,China,1924,4978,1000,Shilling,7.1429,7.1429
+305,Austria,145,Bolivia,1924,0,1000,Shilling,7.1429,7.1429
+305,Austria,390,Denmark,1924,12691,1000,Shilling,7.1429,7.1429
+305,Austria,200,United Kingdom,1924,107705,1000,Shilling,7.1429,7.1429
+305,Austria,380,Sweden,1924,7008,1000,Shilling,7.1429,7.1429
+305,Austria,150,Paraguay,1925,1440,1000,Shilling,7.1429,7.1429
+305,Austria,800,Thailand,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,95,Panama,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,91,Honduras,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,210,Netherlands,1925,30631,1000,Shilling,7.1429,7.1429
+305,Austria,920,New Zealand,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,827,Straits Settlement,1925,650,1000,Shilling,7.1429,7.1429
+305,Austria,355,Bulgaria,1925,30226,1000,Shilling,7.1429,7.1429
+305,Austria,775,Myanmar,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,1050,British West Indies,1925,412,1000,Shilling,7.1429,7.1429
+305,Austria,770,Pakistan,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,366,Estonia,1925,60,1000,Shilling,7.1429,7.1429
+305,Austria,350,Greece,1925,5471,1000,Shilling,7.1429,7.1429
+305,Austria,390,Denmark,1925,4478,1000,Shilling,7.1429,7.1429
+305,Austria,352,Cyprus,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,530,Ethiopia,1925,14,1000,Shilling,7.1429,7.1429
+305,Austria,225,Switzerland,1925,126957,1000,Shilling,7.1429,7.1429
+305,Austria,2205,French Africa,1925,3331,1000,Shilling,7.1429,7.1429
+305,Austria,365,Russia,1925,9357,1000,Shilling,7.1429,7.1429
+305,Austria,560,South Africa,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,651,Egypt,1925,3731,1000,Shilling,7.1429,7.1429
+305,Austria,3363,Memel,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,630,Iran,1925,1769,1000,Shilling,7.1429,7.1429
+305,Austria,2005,British Africa,1925,6398,1000,Shilling,7.1429,7.1429
+305,Austria,211,Belgium,1925,15215,1000,Shilling,7.1429,7.1429
+305,Austria,90,Guatemala,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,315,Czechoslovakia,1925,566449,1000,Shilling,7.1429,7.1429
+305,Austria,645,Iraq,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,310,Hungary,1925,318319,1000,Shilling,7.1429,7.1429
+305,Austria,205,Ireland,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,652,Syria,1925,39,1000,Shilling,7.1429,7.1429
+305,Austria,750,India,1925,65928,1000,Shilling,7.1429,7.1429
+305,Austria,41,Haiti,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,212,Luxembourg,1925,598,1000,Shilling,7.1429,7.1429
+305,Austria,325,Italy,1925,161255,1000,Shilling,7.1429,7.1429
+305,Austria,235,Portugal,1925,1561,1000,Shilling,7.1429,7.1429
+305,Austria,375,Finland,1925,383,1000,Shilling,7.1429,7.1429
+305,Austria,94,Costa Rica,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,70,Mexico,1925,3590,1000,Shilling,7.1429,7.1429
+305,Austria,92,El Salvador,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,165,Uruguay,1925,145,1000,Shilling,7.1429,7.1429
+305,Austria,620,Libya,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,780,Sri Lanka,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,140,Brazil,1925,35278,1000,Shilling,7.1429,7.1429
+305,Austria,339,Albania,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,700,Afghanistan,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,291,Danzig,1925,19,1000,Shilling,7.1429,7.1429
+305,Austria,80,Belize,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,230,Spain,1925,2970,1000,Shilling,7.1429,7.1429
+305,Austria,3250,Italian Africa,1925,150,1000,Shilling,7.1429,7.1429
+305,Austria,367,Latvia,1925,339,1000,Shilling,7.1429,7.1429
+305,Austria,615,Algeria,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,145,Bolivia,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,155,Chile,1925,2167,1000,Shilling,7.1429,7.1429
+305,Austria,220,France,1925,54512,1000,Shilling,7.1429,7.1429
+305,Austria,130,Ecuador,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,2355,Portuguese Africa,1925,43,1000,Shilling,7.1429,7.1429
+305,Austria,255,Germany,1925,456500,1000,Shilling,7.1429,7.1429
+305,Austria,385,Norway,1925,4255,1000,Shilling,7.1429,7.1429
+305,Austria,135,Peru,1925,14,1000,Shilling,7.1429,7.1429
+305,Austria,660,Lebanon,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,93,Nicaragua,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,40,Cuba,1925,1344,1000,Shilling,7.1429,7.1429
+305,Austria,345,Yugoslavia,1925,134041,1000,Shilling,7.1429,7.1429
+305,Austria,625,Sudan,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,675,Arabia,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,640,Turkey,1925,6283,1000,Shilling,7.1429,7.1429
+305,Austria,20,Canada,1925,2615,1000,Shilling,7.1429,7.1429
+305,Austria,360,Romania,1925,106236,1000,Shilling,7.1429,7.1429
+305,Austria,,,1925,2906972,1000,Shilling,7.1429,7.1429
+305,Austria,42,Dominican Republic,1925,849,1000,Shilling,7.1429,7.1429
+305,Austria,200,United Kingdom,1925,105169,1000,Shilling,7.1429,7.1429
+305,Austria,840,Philippines,1925,83,1000,Shilling,7.1429,7.1429
+305,Austria,380,Sweden,1925,4921,1000,Shilling,7.1429,7.1429
+305,Austria,710,China,1925,4198,1000,Shilling,7.1429,7.1429
+305,Austria,810,French Indo-China,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,2305,Spanish Africa,1925,5,1000,Shilling,7.1429,7.1429
+305,Austria,616,Tunisia,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,326,Trieste,1925,16336,1000,Shilling,7.1429,7.1429
+305,Austria,740,Japan,1925,790,1000,Shilling,7.1429,7.1429
+305,Austria,573,British South Africa,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,1060,French West Indies,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,290,Poland,1925,248544,1000,Shilling,7.1429,7.1429
+305,Austria,68,Netherlands Antilles,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,160,Argentina,1925,58708,1000,Shilling,7.1429,7.1429
+305,Austria,900,Australia,1925,19947,1000,Shilling,7.1429,7.1429
+305,Austria,490,"Congo, Dem. Republic",1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,368,Lithuania,1925,31,1000,Shilling,7.1429,7.1429
+305,Austria,101,Venezuela,1925,23,1000,Shilling,7.1429,7.1429
+305,Austria,850,Indonesia,1925,19347,1000,Shilling,7.1429,7.1429
+305,Austria,665,West Bank And Gaza,1925,17,1000,Shilling,7.1429,7.1429
+305,Austria,100,Colombia,1925,158,1000,Shilling,7.1429,7.1429
+305,Austria,670,Saudi Arabia,1925,0,1000,Shilling,7.1429,7.1429
+305,Austria,256,Saar,1925,9264,1000,Shilling,7.1429,7.1429
+305,Austria,2115,Belgian Africa,1925,303,1000,Shilling,7.1429,7.1429
+305,Austria,2,United States,1925,222010,1000,Shilling,7.1429,7.1429
+305,Austria,385,Norway,1926,4245,1000,Shilling,7.1429,7.1429
+305,Austria,366,Estonia,1926,82,1000,Shilling,7.1429,7.1429
+305,Austria,211,Belgium,1926,14573,1000,Shilling,7.1429,7.1429
+305,Austria,3363,Memel,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,165,Uruguay,1926,641,1000,Shilling,7.1429,7.1429
+305,Austria,2355,Portuguese Africa,1926,23,1000,Shilling,7.1429,7.1429
+305,Austria,651,Egypt,1926,3483,1000,Shilling,7.1429,7.1429
+305,Austria,675,Arabia,1926,7,1000,Shilling,7.1429,7.1429
+305,Austria,645,Iraq,1926,9,1000,Shilling,7.1429,7.1429
+305,Austria,380,Sweden,1926,6610,1000,Shilling,7.1429,7.1429
+305,Austria,652,Syria,1926,186,1000,Shilling,7.1429,7.1429
+305,Austria,750,India,1926,45914,1000,Shilling,7.1429,7.1429
+305,Austria,,,1926,2854326,1000,Shilling,7.1429,7.1429
+305,Austria,2005,British Africa,1926,4308,1000,Shilling,7.1429,7.1429
+305,Austria,68,Netherlands Antilles,1926,84,1000,Shilling,7.1429,7.1429
+305,Austria,70,Mexico,1926,872,1000,Shilling,7.1429,7.1429
+305,Austria,625,Sudan,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,350,Greece,1926,11132,1000,Shilling,7.1429,7.1429
+305,Austria,375,Finland,1926,450,1000,Shilling,7.1429,7.1429
+305,Austria,101,Venezuela,1926,62,1000,Shilling,7.1429,7.1429
+305,Austria,220,France,1926,65865,1000,Shilling,7.1429,7.1429
+305,Austria,94,Costa Rica,1926,11,1000,Shilling,7.1429,7.1429
+305,Austria,290,Poland,1926,252444,1000,Shilling,7.1429,7.1429
+305,Austria,352,Cyprus,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,850,Indonesia,1926,19310,1000,Shilling,7.1429,7.1429
+305,Austria,80,Belize,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,780,Sri Lanka,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,775,Myanmar,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,560,South Africa,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,3250,Italian Africa,1926,65,1000,Shilling,7.1429,7.1429
+305,Austria,155,Chile,1926,4701,1000,Shilling,7.1429,7.1429
+305,Austria,810,French Indo-China,1926,2,1000,Shilling,7.1429,7.1429
+305,Austria,1050,British West Indies,1926,1016,1000,Shilling,7.1429,7.1429
+305,Austria,140,Brazil,1926,31528,1000,Shilling,7.1429,7.1429
+305,Austria,770,Pakistan,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,365,Russia,1926,5019,1000,Shilling,7.1429,7.1429
+305,Austria,2305,Spanish Africa,1926,100,1000,Shilling,7.1429,7.1429
+305,Austria,345,Yugoslavia,1926,166382,1000,Shilling,7.1429,7.1429
+305,Austria,530,Ethiopia,1926,210,1000,Shilling,7.1429,7.1429
+305,Austria,255,Germany,1926,471999,1000,Shilling,7.1429,7.1429
+305,Austria,205,Ireland,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,700,Afghanistan,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,840,Philippines,1926,34,1000,Shilling,7.1429,7.1429
+305,Austria,310,Hungary,1926,361261,1000,Shilling,7.1429,7.1429
+305,Austria,616,Tunisia,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,235,Portugal,1926,2335,1000,Shilling,7.1429,7.1429
+305,Austria,20,Canada,1926,6914,1000,Shilling,7.1429,7.1429
+305,Austria,130,Ecuador,1926,128,1000,Shilling,7.1429,7.1429
+305,Austria,210,Netherlands,1926,36052,1000,Shilling,7.1429,7.1429
+305,Austria,660,Lebanon,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,92,El Salvador,1926,87,1000,Shilling,7.1429,7.1429
+305,Austria,93,Nicaragua,1926,83,1000,Shilling,7.1429,7.1429
+305,Austria,920,New Zealand,1926,363,1000,Shilling,7.1429,7.1429
+305,Austria,665,West Bank And Gaza,1926,29,1000,Shilling,7.1429,7.1429
+305,Austria,212,Luxembourg,1926,608,1000,Shilling,7.1429,7.1429
+305,Austria,200,United Kingdom,1926,102580,1000,Shilling,7.1429,7.1429
+305,Austria,339,Albania,1926,11,1000,Shilling,7.1429,7.1429
+305,Austria,573,British South Africa,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,620,Libya,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,355,Bulgaria,1926,8090,1000,Shilling,7.1429,7.1429
+305,Austria,315,Czechoslovakia,1926,554160,1000,Shilling,7.1429,7.1429
+305,Austria,1060,French West Indies,1926,1,1000,Shilling,7.1429,7.1429
+305,Austria,360,Romania,1926,131916,1000,Shilling,7.1429,7.1429
+305,Austria,145,Bolivia,1926,36,1000,Shilling,7.1429,7.1429
+305,Austria,615,Algeria,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,100,Colombia,1926,66,1000,Shilling,7.1429,7.1429
+305,Austria,800,Thailand,1926,77,1000,Shilling,7.1429,7.1429
+305,Austria,41,Haiti,1926,56,1000,Shilling,7.1429,7.1429
+305,Austria,640,Turkey,1926,25468,1000,Shilling,7.1429,7.1429
+305,Austria,367,Latvia,1926,631,1000,Shilling,7.1429,7.1429
+305,Austria,42,Dominican Republic,1926,637,1000,Shilling,7.1429,7.1429
+305,Austria,710,China,1926,6028,1000,Shilling,7.1429,7.1429
+305,Austria,900,Australia,1926,18396,1000,Shilling,7.1429,7.1429
+305,Austria,230,Spain,1926,5677,1000,Shilling,7.1429,7.1429
+305,Austria,90,Guatemala,1926,271,1000,Shilling,7.1429,7.1429
+305,Austria,390,Denmark,1926,3827,1000,Shilling,7.1429,7.1429
+305,Austria,225,Switzerland,1926,129907,1000,Shilling,7.1429,7.1429
+305,Austria,326,Trieste,1926,12075,1000,Shilling,7.1429,7.1429
+305,Austria,740,Japan,1926,1004,1000,Shilling,7.1429,7.1429
+305,Austria,630,Iran,1926,1587,1000,Shilling,7.1429,7.1429
+305,Austria,325,Italy,1926,131273,1000,Shilling,7.1429,7.1429
+305,Austria,40,Cuba,1926,818,1000,Shilling,7.1429,7.1429
+305,Austria,91,Honduras,1926,2,1000,Shilling,7.1429,7.1429
+305,Austria,135,Peru,1926,50,1000,Shilling,7.1429,7.1429
+305,Austria,291,Danzig,1926,40,1000,Shilling,7.1429,7.1429
+305,Austria,827,Straits Settlement,1926,1615,1000,Shilling,7.1429,7.1429
+305,Austria,160,Argentina,1926,21434,1000,Shilling,7.1429,7.1429
+305,Austria,2115,Belgian Africa,1926,231,1000,Shilling,7.1429,7.1429
+305,Austria,2205,French Africa,1926,5208,1000,Shilling,7.1429,7.1429
+305,Austria,368,Lithuania,1926,79,1000,Shilling,7.1429,7.1429
+305,Austria,2,United States,1926,150780,1000,Shilling,7.1429,7.1429
+305,Austria,150,Paraguay,1926,24,1000,Shilling,7.1429,7.1429
+305,Austria,256,Saar,1926,1497,1000,Shilling,7.1429,7.1429
+305,Austria,670,Saudi Arabia,1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,95,Panama,1926,1,1000,Shilling,7.1429,7.1429
+305,Austria,490,"Congo, Dem. Republic",1926,0,1000,Shilling,7.1429,7.1429
+305,Austria,1060,French West Indies,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,670,Saudi Arabia,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,211,Belgium,1927,25102,1000,Shilling,7.1228,7.1228
+305,Austria,92,El Salvador,1927,25,1000,Shilling,7.1228,7.1228
+305,Austria,235,Portugal,1927,2284,1000,Shilling,7.1228,7.1228
+305,Austria,2115,Belgian Africa,1927,349,1000,Shilling,7.1228,7.1228
+305,Austria,20,Canada,1927,16887,1000,Shilling,7.1228,7.1228
+305,Austria,68,Netherlands Antilles,1927,29,1000,Shilling,7.1228,7.1228
+305,Austria,560,South Africa,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,651,Egypt,1927,6415,1000,Shilling,7.1228,7.1228
+305,Austria,100,Colombia,1927,267,1000,Shilling,7.1228,7.1228
+305,Austria,2205,French Africa,1927,4758,1000,Shilling,7.1228,7.1228
+305,Austria,368,Lithuania,1927,15,1000,Shilling,7.1228,7.1228
+305,Austria,652,Syria,1927,129,1000,Shilling,7.1228,7.1228
+305,Austria,665,West Bank And Gaza,1927,25,1000,Shilling,7.1228,7.1228
+305,Austria,710,China,1927,6059,1000,Shilling,7.1228,7.1228
+305,Austria,220,France,1927,81280,1000,Shilling,7.1228,7.1228
+305,Austria,490,"Congo, Dem. Republic",1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,380,Sweden,1927,7816,1000,Shilling,7.1228,7.1228
+305,Austria,290,Poland,1927,269739,1000,Shilling,7.1228,7.1228
+305,Austria,920,New Zealand,1927,1591,1000,Shilling,7.1228,7.1228
+305,Austria,350,Greece,1927,50071,1000,Shilling,7.1228,7.1228
+305,Austria,90,Guatemala,1927,498,1000,Shilling,7.1228,7.1228
+305,Austria,620,Libya,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,291,Danzig,1927,18,1000,Shilling,7.1228,7.1228
+305,Austria,352,Cyprus,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,2355,Portuguese Africa,1927,96,1000,Shilling,7.1228,7.1228
+305,Austria,255,Germany,1927,531688,1000,Shilling,7.1228,7.1228
+305,Austria,800,Thailand,1927,55,1000,Shilling,7.1228,7.1228
+305,Austria,366,Estonia,1927,485,1000,Shilling,7.1228,7.1228
+305,Austria,140,Brazil,1927,27759,1000,Shilling,7.1228,7.1228
+305,Austria,256,Saar,1927,2723,1000,Shilling,7.1228,7.1228
+305,Austria,325,Italy,1927,128986,1000,Shilling,7.1228,7.1228
+305,Austria,615,Algeria,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,616,Tunisia,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,3363,Memel,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,225,Switzerland,1927,157884,1000,Shilling,7.1228,7.1228
+305,Austria,93,Nicaragua,1927,24,1000,Shilling,7.1228,7.1228
+305,Austria,80,Belize,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,385,Norway,1927,3774,1000,Shilling,7.1228,7.1228
+305,Austria,780,Sri Lanka,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,165,Uruguay,1927,4536,1000,Shilling,7.1228,7.1228
+305,Austria,2005,British Africa,1927,37747,1000,Shilling,7.1228,7.1228
+305,Austria,2,United States,1927,192732,1000,Shilling,7.1228,7.1228
+305,Austria,900,Australia,1927,19406,1000,Shilling,7.1228,7.1228
+305,Austria,660,Lebanon,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,230,Spain,1927,6177,1000,Shilling,7.1228,7.1228
+305,Austria,645,Iraq,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,155,Chile,1927,3607,1000,Shilling,7.1228,7.1228
+305,Austria,640,Turkey,1927,16382,1000,Shilling,7.1228,7.1228
+305,Austria,40,Cuba,1927,2140,1000,Shilling,7.1228,7.1228
+305,Austria,365,Russia,1927,17771,1000,Shilling,7.1228,7.1228
+305,Austria,339,Albania,1927,37,1000,Shilling,7.1228,7.1228
+305,Austria,573,British South Africa,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,200,United Kingdom,1927,134822,1000,Shilling,7.1228,7.1228
+305,Austria,210,Netherlands,1927,38886,1000,Shilling,7.1228,7.1228
+305,Austria,315,Czechoslovakia,1927,568482,1000,Shilling,7.1228,7.1228
+305,Austria,1050,British West Indies,1927,2450,1000,Shilling,7.1228,7.1228
+305,Austria,70,Mexico,1927,14312,1000,Shilling,7.1228,7.1228
+305,Austria,95,Panama,1927,12,1000,Shilling,7.1228,7.1228
+305,Austria,775,Myanmar,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,42,Dominican Republic,1927,63,1000,Shilling,7.1228,7.1228
+305,Austria,41,Haiti,1927,332,1000,Shilling,7.1228,7.1228
+305,Austria,390,Denmark,1927,5191,1000,Shilling,7.1228,7.1228
+305,Austria,700,Afghanistan,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,355,Bulgaria,1927,25983,1000,Shilling,7.1228,7.1228
+305,Austria,827,Straits Settlement,1927,3397,1000,Shilling,7.1228,7.1228
+305,Austria,150,Paraguay,1927,1,1000,Shilling,7.1228,7.1228
+305,Austria,212,Luxembourg,1927,491,1000,Shilling,7.1228,7.1228
+305,Austria,740,Japan,1927,1481,1000,Shilling,7.1228,7.1228
+305,Austria,101,Venezuela,1927,282,1000,Shilling,7.1228,7.1228
+305,Austria,850,Indonesia,1927,24684,1000,Shilling,7.1228,7.1228
+305,Austria,310,Hungary,1927,297962,1000,Shilling,7.1228,7.1228
+305,Austria,367,Latvia,1927,712,1000,Shilling,7.1228,7.1228
+305,Austria,3250,Italian Africa,1927,223,1000,Shilling,7.1228,7.1228
+305,Austria,840,Philippines,1927,15,1000,Shilling,7.1228,7.1228
+305,Austria,2305,Spanish Africa,1927,193,1000,Shilling,7.1228,7.1228
+305,Austria,326,Trieste,1927,10616,1000,Shilling,7.1228,7.1228
+305,Austria,91,Honduras,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,360,Romania,1927,173384,1000,Shilling,7.1228,7.1228
+305,Austria,625,Sudan,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,,,1927,3199887,1000,Shilling,7.1228,7.1228
+305,Austria,130,Ecuador,1927,172,1000,Shilling,7.1228,7.1228
+305,Austria,205,Ireland,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,375,Finland,1927,424,1000,Shilling,7.1228,7.1228
+305,Austria,145,Bolivia,1927,2,1000,Shilling,7.1228,7.1228
+305,Austria,135,Peru,1927,159,1000,Shilling,7.1228,7.1228
+305,Austria,160,Argentina,1927,30211,1000,Shilling,7.1228,7.1228
+305,Austria,94,Costa Rica,1927,23,1000,Shilling,7.1228,7.1228
+305,Austria,630,Iran,1927,1086,1000,Shilling,7.1228,7.1228
+305,Austria,810,French Indo-China,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,530,Ethiopia,1927,21,1000,Shilling,7.1228,7.1228
+305,Austria,750,India,1927,41577,1000,Shilling,7.1228,7.1228
+305,Austria,675,Arabia,1927,26,1000,Shilling,7.1228,7.1228
+305,Austria,770,Pakistan,1927,0,1000,Shilling,7.1228,7.1228
+305,Austria,345,Yugoslavia,1927,176422,1000,Shilling,7.1228,7.1228
+305,Austria,211,Belgium,1928,29234,1000,Shilling,7.1042,7.1042
+305,Austria,2305,Spanish Africa,1928,161,1000,Shilling,7.1042,7.1042
+305,Austria,740,Japan,1928,1928,1000,Shilling,7.1042,7.1042
+305,Austria,365,Russia,1928,28346,1000,Shilling,7.1042,7.1042
+305,Austria,800,Thailand,1928,202,1000,Shilling,7.1042,7.1042
+305,Austria,630,Iran,1928,1275,1000,Shilling,7.1042,7.1042
+305,Austria,92,El Salvador,1928,134,1000,Shilling,7.1042,7.1042
+305,Austria,573,British South Africa,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,310,Hungary,1928,279313,1000,Shilling,7.1042,7.1042
+305,Austria,255,Germany,1928,656905,1000,Shilling,7.1042,7.1042
+305,Austria,91,Honduras,1928,9,1000,Shilling,7.1042,7.1042
+305,Austria,2,United States,1928,218295,1000,Shilling,7.1042,7.1042
+305,Austria,840,Philippines,1928,28,1000,Shilling,7.1042,7.1042
+305,Austria,367,Latvia,1928,635,1000,Shilling,7.1042,7.1042
+305,Austria,350,Greece,1928,19781,1000,Shilling,7.1042,7.1042
+305,Austria,900,Australia,1928,23140,1000,Shilling,7.1042,7.1042
+305,Austria,101,Venezuela,1928,823,1000,Shilling,7.1042,7.1042
+305,Austria,640,Turkey,1928,22941,1000,Shilling,7.1042,7.1042
+305,Austria,230,Spain,1928,10422,1000,Shilling,7.1042,7.1042
+305,Austria,345,Yugoslavia,1928,131509,1000,Shilling,7.1042,7.1042
+305,Austria,130,Ecuador,1928,503,1000,Shilling,7.1042,7.1042
+305,Austria,780,Sri Lanka,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,70,Mexico,1928,5111,1000,Shilling,7.1042,7.1042
+305,Austria,368,Lithuania,1928,140,1000,Shilling,7.1042,7.1042
+305,Austria,315,Czechoslovakia,1928,595626,1000,Shilling,7.1042,7.1042
+305,Austria,645,Iraq,1928,17,1000,Shilling,7.1042,7.1042
+305,Austria,2205,French Africa,1928,4065,1000,Shilling,7.1042,7.1042
+305,Austria,850,Indonesia,1928,19769,1000,Shilling,7.1042,7.1042
+305,Austria,651,Egypt,1928,7438,1000,Shilling,7.1042,7.1042
+305,Austria,920,New Zealand,1928,644,1000,Shilling,7.1042,7.1042
+305,Austria,810,French Indo-China,1928,44,1000,Shilling,7.1042,7.1042
+305,Austria,68,Netherlands Antilles,1928,95,1000,Shilling,7.1042,7.1042
+305,Austria,625,Sudan,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,135,Peru,1928,917,1000,Shilling,7.1042,7.1042
+305,Austria,160,Argentina,1928,43991,1000,Shilling,7.1042,7.1042
+305,Austria,380,Sweden,1928,8902,1000,Shilling,7.1042,7.1042
+305,Austria,41,Haiti,1928,94,1000,Shilling,7.1042,7.1042
+305,Austria,95,Panama,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,360,Romania,1928,147303,1000,Shilling,7.1042,7.1042
+305,Austria,366,Estonia,1928,115,1000,Shilling,7.1042,7.1042
+305,Austria,770,Pakistan,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,145,Bolivia,1928,27,1000,Shilling,7.1042,7.1042
+305,Austria,660,Lebanon,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,40,Cuba,1928,1230,1000,Shilling,7.1042,7.1042
+305,Austria,326,Trieste,1928,3954,1000,Shilling,7.1042,7.1042
+305,Austria,155,Chile,1928,2099,1000,Shilling,7.1042,7.1042
+305,Austria,225,Switzerland,1928,167836,1000,Shilling,7.1042,7.1042
+305,Austria,2115,Belgian Africa,1928,394,1000,Shilling,7.1042,7.1042
+305,Austria,140,Brazil,1928,34281,1000,Shilling,7.1042,7.1042
+305,Austria,615,Algeria,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,325,Italy,1928,110588,1000,Shilling,7.1042,7.1042
+305,Austria,827,Straits Settlement,1928,2285,1000,Shilling,7.1042,7.1042
+305,Austria,100,Colombia,1928,100,1000,Shilling,7.1042,7.1042
+305,Austria,560,South Africa,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,665,West Bank And Gaza,1928,758,1000,Shilling,7.1042,7.1042
+305,Austria,3250,Italian Africa,1928,408,1000,Shilling,7.1042,7.1042
+305,Austria,150,Paraguay,1928,162,1000,Shilling,7.1042,7.1042
+305,Austria,490,"Congo, Dem. Republic",1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,,,1928,3320122,1000,Shilling,7.1042,7.1042
+305,Austria,675,Arabia,1928,50,1000,Shilling,7.1042,7.1042
+305,Austria,652,Syria,1928,72,1000,Shilling,7.1042,7.1042
+305,Austria,2005,British Africa,1928,14102,1000,Shilling,7.1042,7.1042
+305,Austria,205,Ireland,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,20,Canada,1928,21557,1000,Shilling,7.1042,7.1042
+305,Austria,1060,French West Indies,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,290,Poland,1928,300712,1000,Shilling,7.1042,7.1042
+305,Austria,750,India,1928,50984,1000,Shilling,7.1042,7.1042
+305,Austria,1050,British West Indies,1928,5351,1000,Shilling,7.1042,7.1042
+305,Austria,616,Tunisia,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,212,Luxembourg,1928,288,1000,Shilling,7.1042,7.1042
+305,Austria,390,Denmark,1928,4275,1000,Shilling,7.1042,7.1042
+305,Austria,94,Costa Rica,1928,33,1000,Shilling,7.1042,7.1042
+305,Austria,291,Danzig,1928,6,1000,Shilling,7.1042,7.1042
+305,Austria,42,Dominican Republic,1928,5,1000,Shilling,7.1042,7.1042
+305,Austria,256,Saar,1928,7762,1000,Shilling,7.1042,7.1042
+305,Austria,2355,Portuguese Africa,1928,402,1000,Shilling,7.1042,7.1042
+305,Austria,620,Libya,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,355,Bulgaria,1928,30022,1000,Shilling,7.1042,7.1042
+305,Austria,80,Belize,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,700,Afghanistan,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,90,Guatemala,1928,1067,1000,Shilling,7.1042,7.1042
+305,Austria,530,Ethiopia,1928,78,1000,Shilling,7.1042,7.1042
+305,Austria,385,Norway,1928,4346,1000,Shilling,7.1042,7.1042
+305,Austria,710,China,1928,8511,1000,Shilling,7.1042,7.1042
+305,Austria,210,Netherlands,1928,36492,1000,Shilling,7.1042,7.1042
+305,Austria,220,France,1928,89774,1000,Shilling,7.1042,7.1042
+305,Austria,165,Uruguay,1928,4897,1000,Shilling,7.1042,7.1042
+305,Austria,3363,Memel,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,670,Saudi Arabia,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,339,Albania,1928,20,1000,Shilling,7.1042,7.1042
+305,Austria,775,Myanmar,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,352,Cyprus,1928,0,1000,Shilling,7.1042,7.1042
+305,Austria,235,Portugal,1928,2669,1000,Shilling,7.1042,7.1042
+305,Austria,93,Nicaragua,1928,46,1000,Shilling,7.1042,7.1042
+305,Austria,375,Finland,1928,204,1000,Shilling,7.1042,7.1042
+305,Austria,200,United Kingdom,1928,145912,1000,Shilling,7.1042,7.1042
+305,Austria,20,Canada,1929,11583,1000,Shilling,7.1126,7.1126
+305,Austria,42,Dominican Republic,1929,12,1000,Shilling,7.1126,7.1126
+305,Austria,2305,Spanish Africa,1929,53,1000,Shilling,7.1126,7.1126
+305,Austria,700,Afghanistan,1929,1,1000,Shilling,7.1126,7.1126
+305,Austria,640,Turkey,1929,19039,1000,Shilling,7.1126,7.1126
+305,Austria,368,Lithuania,1929,119,1000,Shilling,7.1126,7.1126
+305,Austria,160,Argentina,1929,32515,1000,Shilling,7.1126,7.1126
+305,Austria,2115,Belgian Africa,1929,232,1000,Shilling,7.1126,7.1126
+305,Austria,41,Haiti,1929,52,1000,Shilling,7.1126,7.1126
+305,Austria,150,Paraguay,1929,162,1000,Shilling,7.1126,7.1126
+305,Austria,827,Straits Settlement,1929,4151,1000,Shilling,7.1126,7.1126
+305,Austria,155,Chile,1929,4803,1000,Shilling,7.1126,7.1126
+305,Austria,365,Russia,1929,26992,1000,Shilling,7.1126,7.1126
+305,Austria,,,1929,3334961,1000,Shilling,7.1126,7.1126
+305,Austria,80,Belize,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,380,Sweden,1929,8121,1000,Shilling,7.1126,7.1126
+305,Austria,2005,British Africa,1929,18998,1000,Shilling,7.1126,7.1126
+305,Austria,616,Tunisia,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,165,Uruguay,1929,3167,1000,Shilling,7.1126,7.1126
+305,Austria,770,Pakistan,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,800,Thailand,1929,329,1000,Shilling,7.1126,7.1126
+305,Austria,326,Trieste,1929,3372,1000,Shilling,7.1126,7.1126
+305,Austria,490,"Congo, Dem. Republic",1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,920,New Zealand,1929,1032,1000,Shilling,7.1126,7.1126
+305,Austria,140,Brazil,1929,35276,1000,Shilling,7.1126,7.1126
+305,Austria,345,Yugoslavia,1929,132425,1000,Shilling,7.1126,7.1126
+305,Austria,130,Ecuador,1929,312,1000,Shilling,7.1126,7.1126
+305,Austria,390,Denmark,1929,4036,1000,Shilling,7.1126,7.1126
+305,Austria,205,Ireland,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,775,Myanmar,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,70,Mexico,1929,3593,1000,Shilling,7.1126,7.1126
+305,Austria,366,Estonia,1929,178,1000,Shilling,7.1126,7.1126
+305,Austria,850,Indonesia,1929,21026,1000,Shilling,7.1126,7.1126
+305,Austria,810,French Indo-China,1929,38,1000,Shilling,7.1126,7.1126
+305,Austria,665,West Bank And Gaza,1929,1238,1000,Shilling,7.1126,7.1126
+305,Austria,291,Danzig,1929,491,1000,Shilling,7.1126,7.1126
+305,Austria,68,Netherlands Antilles,1929,38,1000,Shilling,7.1126,7.1126
+305,Austria,670,Saudi Arabia,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,530,Ethiopia,1929,7,1000,Shilling,7.1126,7.1126
+305,Austria,840,Philippines,1929,20,1000,Shilling,7.1126,7.1126
+305,Austria,645,Iraq,1929,16,1000,Shilling,7.1126,7.1126
+305,Austria,290,Poland,1929,291457,1000,Shilling,7.1126,7.1126
+305,Austria,352,Cyprus,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,135,Peru,1929,288,1000,Shilling,7.1126,7.1126
+305,Austria,710,China,1929,7876,1000,Shilling,7.1126,7.1126
+305,Austria,339,Albania,1929,35,1000,Shilling,7.1126,7.1126
+305,Austria,360,Romania,1929,127721,1000,Shilling,7.1126,7.1126
+305,Austria,315,Czechoslovakia,1929,591130,1000,Shilling,7.1126,7.1126
+305,Austria,145,Bolivia,1929,13,1000,Shilling,7.1126,7.1126
+305,Austria,94,Costa Rica,1929,150,1000,Shilling,7.1126,7.1126
+305,Austria,3250,Italian Africa,1929,182,1000,Shilling,7.1126,7.1126
+305,Austria,230,Spain,1929,12046,1000,Shilling,7.1126,7.1126
+305,Austria,660,Lebanon,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,675,Arabia,1929,43,1000,Shilling,7.1126,7.1126
+305,Austria,350,Greece,1929,34816,1000,Shilling,7.1126,7.1126
+305,Austria,325,Italy,1929,120597,1000,Shilling,7.1126,7.1126
+305,Austria,630,Iran,1929,1832,1000,Shilling,7.1126,7.1126
+305,Austria,355,Bulgaria,1929,18716,1000,Shilling,7.1126,7.1126
+305,Austria,92,El Salvador,1929,288,1000,Shilling,7.1126,7.1126
+305,Austria,310,Hungary,1929,327779,1000,Shilling,7.1126,7.1126
+305,Austria,615,Algeria,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,780,Sri Lanka,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,93,Nicaragua,1929,66,1000,Shilling,7.1126,7.1126
+305,Austria,900,Australia,1929,27322,1000,Shilling,7.1126,7.1126
+305,Austria,225,Switzerland,1929,148830,1000,Shilling,7.1126,7.1126
+305,Austria,40,Cuba,1929,2116,1000,Shilling,7.1126,7.1126
+305,Austria,740,Japan,1929,2772,1000,Shilling,7.1126,7.1126
+305,Austria,100,Colombia,1929,287,1000,Shilling,7.1126,7.1126
+305,Austria,2,United States,1929,198039,1000,Shilling,7.1126,7.1126
+305,Austria,200,United Kingdom,1929,119655,1000,Shilling,7.1126,7.1126
+305,Austria,256,Saar,1929,4931,1000,Shilling,7.1126,7.1126
+305,Austria,101,Venezuela,1929,567,1000,Shilling,7.1126,7.1126
+305,Austria,1050,British West Indies,1929,4897,1000,Shilling,7.1126,7.1126
+305,Austria,220,France,1929,88455,1000,Shilling,7.1126,7.1126
+305,Austria,1060,French West Indies,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,620,Libya,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,3363,Memel,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,652,Syria,1929,139,1000,Shilling,7.1126,7.1126
+305,Austria,211,Belgium,1929,32357,1000,Shilling,7.1126,7.1126
+305,Austria,95,Panama,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,91,Honduras,1929,14,1000,Shilling,7.1126,7.1126
+305,Austria,90,Guatemala,1929,1221,1000,Shilling,7.1126,7.1126
+305,Austria,2205,French Africa,1929,5280,1000,Shilling,7.1126,7.1126
+305,Austria,210,Netherlands,1929,38938,1000,Shilling,7.1126,7.1126
+305,Austria,255,Germany,1929,695517,1000,Shilling,7.1126,7.1126
+305,Austria,651,Egypt,1929,6234,1000,Shilling,7.1126,7.1126
+305,Austria,212,Luxembourg,1929,331,1000,Shilling,7.1126,7.1126
+305,Austria,625,Sudan,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,375,Finland,1929,407,1000,Shilling,7.1126,7.1126
+305,Austria,235,Portugal,1929,3435,1000,Shilling,7.1126,7.1126
+305,Austria,367,Latvia,1929,958,1000,Shilling,7.1126,7.1126
+305,Austria,750,India,1929,44472,1000,Shilling,7.1126,7.1126
+305,Austria,2355,Portuguese Africa,1929,73,1000,Shilling,7.1126,7.1126
+305,Austria,385,Norway,1929,4704,1000,Shilling,7.1126,7.1126
+305,Austria,560,South Africa,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,573,British South Africa,1929,0,1000,Shilling,7.1126,7.1126
+305,Austria,91,Honduras,1930,43,1000,Shilling,7.096,7.096
+305,Austria,326,Trieste,1930,3142,1000,Shilling,7.096,7.096
+305,Austria,140,Brazil,1930,23434,1000,Shilling,7.096,7.096
+305,Austria,205,Ireland,1930,0,1000,Shilling,7.096,7.096
+305,Austria,770,Pakistan,1930,0,1000,Shilling,7.096,7.096
+305,Austria,367,Latvia,1930,245,1000,Shilling,7.096,7.096
+305,Austria,645,Iraq,1930,8,1000,Shilling,7.096,7.096
+305,Austria,345,Yugoslavia,1930,149240,1000,Shilling,7.096,7.096
+305,Austria,93,Nicaragua,1930,289,1000,Shilling,7.096,7.096
+305,Austria,2355,Portuguese Africa,1930,147,1000,Shilling,7.096,7.096
+305,Austria,827,Straits Settlement,1930,2978,1000,Shilling,7.096,7.096
+305,Austria,652,Syria,1930,112,1000,Shilling,7.096,7.096
+305,Austria,42,Dominican Republic,1930,3,1000,Shilling,7.096,7.096
+305,Austria,710,China,1930,6545,1000,Shilling,7.096,7.096
+305,Austria,220,France,1930,71248,1000,Shilling,7.096,7.096
+305,Austria,40,Cuba,1930,1370,1000,Shilling,7.096,7.096
+305,Austria,355,Bulgaria,1930,16126,1000,Shilling,7.096,7.096
+305,Austria,560,South Africa,1930,0,1000,Shilling,7.096,7.096
+305,Austria,1060,French West Indies,1930,0,1000,Shilling,7.096,7.096
+305,Austria,211,Belgium,1930,21642,1000,Shilling,7.096,7.096
+305,Austria,41,Haiti,1930,28,1000,Shilling,7.096,7.096
+305,Austria,225,Switzerland,1930,116404,1000,Shilling,7.096,7.096
+305,Austria,200,United Kingdom,1930,93537,1000,Shilling,7.096,7.096
+305,Austria,640,Turkey,1930,17770,1000,Shilling,7.096,7.096
+305,Austria,68,Netherlands Antilles,1930,134,1000,Shilling,7.096,7.096
+305,Austria,630,Iran,1930,1800,1000,Shilling,7.096,7.096
+305,Austria,385,Norway,1930,4827,1000,Shilling,7.096,7.096
+305,Austria,530,Ethiopia,1930,3,1000,Shilling,7.096,7.096
+305,Austria,920,New Zealand,1930,589,1000,Shilling,7.096,7.096
+305,Austria,573,British South Africa,1930,0,1000,Shilling,7.096,7.096
+305,Austria,3250,Italian Africa,1930,226,1000,Shilling,7.096,7.096
+305,Austria,20,Canada,1930,20085,1000,Shilling,7.096,7.096
+305,Austria,2,United States,1930,144969,1000,Shilling,7.096,7.096
+305,Austria,,,1930,2756207,1000,Shilling,7.096,7.096
+305,Austria,339,Albania,1930,75,1000,Shilling,7.096,7.096
+305,Austria,101,Venezuela,1930,399,1000,Shilling,7.096,7.096
+305,Austria,850,Indonesia,1930,17282,1000,Shilling,7.096,7.096
+305,Austria,310,Hungary,1930,285142,1000,Shilling,7.096,7.096
+305,Austria,670,Saudi Arabia,1930,0,1000,Shilling,7.096,7.096
+305,Austria,290,Poland,1930,216981,1000,Shilling,7.096,7.096
+305,Austria,651,Egypt,1930,6755,1000,Shilling,7.096,7.096
+305,Austria,352,Cyprus,1930,0,1000,Shilling,7.096,7.096
+305,Austria,625,Sudan,1930,0,1000,Shilling,7.096,7.096
+305,Austria,615,Algeria,1930,0,1000,Shilling,7.096,7.096
+305,Austria,750,India,1930,33764,1000,Shilling,7.096,7.096
+305,Austria,255,Germany,1930,580024,1000,Shilling,7.096,7.096
+305,Austria,291,Danzig,1930,40,1000,Shilling,7.096,7.096
+305,Austria,665,West Bank And Gaza,1930,375,1000,Shilling,7.096,7.096
+305,Austria,256,Saar,1930,3029,1000,Shilling,7.096,7.096
+305,Austria,900,Australia,1930,17258,1000,Shilling,7.096,7.096
+305,Austria,235,Portugal,1930,3280,1000,Shilling,7.096,7.096
+305,Austria,135,Peru,1930,477,1000,Shilling,7.096,7.096
+305,Austria,390,Denmark,1930,3826,1000,Shilling,7.096,7.096
+305,Austria,740,Japan,1930,2250,1000,Shilling,7.096,7.096
+305,Austria,2305,Spanish Africa,1930,46,1000,Shilling,7.096,7.096
+305,Austria,616,Tunisia,1930,0,1000,Shilling,7.096,7.096
+305,Austria,490,"Congo, Dem. Republic",1930,0,1000,Shilling,7.096,7.096
+305,Austria,375,Finland,1930,632,1000,Shilling,7.096,7.096
+305,Austria,2205,French Africa,1930,4233,1000,Shilling,7.096,7.096
+305,Austria,212,Luxembourg,1930,190,1000,Shilling,7.096,7.096
+305,Austria,92,El Salvador,1930,428,1000,Shilling,7.096,7.096
+305,Austria,365,Russia,1930,17584,1000,Shilling,7.096,7.096
+305,Austria,800,Thailand,1930,141,1000,Shilling,7.096,7.096
+305,Austria,780,Sri Lanka,1930,0,1000,Shilling,7.096,7.096
+305,Austria,70,Mexico,1930,3540,1000,Shilling,7.096,7.096
+305,Austria,366,Estonia,1930,112,1000,Shilling,7.096,7.096
+305,Austria,675,Arabia,1930,65,1000,Shilling,7.096,7.096
+305,Austria,775,Myanmar,1930,0,1000,Shilling,7.096,7.096
+305,Austria,160,Argentina,1930,16116,1000,Shilling,7.096,7.096
+305,Austria,2005,British Africa,1930,11859,1000,Shilling,7.096,7.096
+305,Austria,3363,Memel,1930,0,1000,Shilling,7.096,7.096
+305,Austria,94,Costa Rica,1930,599,1000,Shilling,7.096,7.096
+305,Austria,130,Ecuador,1930,179,1000,Shilling,7.096,7.096
+305,Austria,155,Chile,1930,1400,1000,Shilling,7.096,7.096
+305,Austria,360,Romania,1930,130545,1000,Shilling,7.096,7.096
+305,Austria,100,Colombia,1930,249,1000,Shilling,7.096,7.096
+305,Austria,620,Libya,1930,0,1000,Shilling,7.096,7.096
+305,Austria,2115,Belgian Africa,1930,224,1000,Shilling,7.096,7.096
+305,Austria,230,Spain,1930,9896,1000,Shilling,7.096,7.096
+305,Austria,150,Paraguay,1930,217,1000,Shilling,7.096,7.096
+305,Austria,90,Guatemala,1930,1590,1000,Shilling,7.096,7.096
+305,Austria,368,Lithuania,1930,345,1000,Shilling,7.096,7.096
+305,Austria,210,Netherlands,1930,32356,1000,Shilling,7.096,7.096
+305,Austria,145,Bolivia,1930,11,1000,Shilling,7.096,7.096
+305,Austria,325,Italy,1930,107138,1000,Shilling,7.096,7.096
+305,Austria,810,French Indo-China,1930,5,1000,Shilling,7.096,7.096
+305,Austria,380,Sweden,1930,7428,1000,Shilling,7.096,7.096
+305,Austria,315,Czechoslovakia,1930,479625,1000,Shilling,7.096,7.096
+305,Austria,700,Afghanistan,1930,0,1000,Shilling,7.096,7.096
+305,Austria,660,Lebanon,1930,0,1000,Shilling,7.096,7.096
+305,Austria,95,Panama,1930,49,1000,Shilling,7.096,7.096
+305,Austria,165,Uruguay,1930,3711,1000,Shilling,7.096,7.096
+305,Austria,840,Philippines,1930,10,1000,Shilling,7.096,7.096
+305,Austria,80,Belize,1930,0,1000,Shilling,7.096,7.096
+305,Austria,1050,British West Indies,1930,4596,1000,Shilling,7.096,7.096
+305,Austria,350,Greece,1930,18629,1000,Shilling,7.096,7.096
+305,Austria,850,Indonesia,1931,8763,1000,Shilling,7.1364,7.1364
+305,Austria,2305,Spanish Africa,1931,130,1000,Shilling,7.1364,7.1364
+305,Austria,366,Estonia,1931,110,1000,Shilling,7.1364,7.1364
+305,Austria,352,Cyprus,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,375,Finland,1931,511,1000,Shilling,7.1364,7.1364
+305,Austria,390,Denmark,1931,2972,1000,Shilling,7.1364,7.1364
+305,Austria,490,"Congo, Dem. Republic",1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,630,Iran,1931,2814,1000,Shilling,7.1364,7.1364
+305,Austria,670,Saudi Arabia,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,,,1931,2211240,1000,Shilling,7.1364,7.1364
+305,Austria,70,Mexico,1931,2075,1000,Shilling,7.1364,7.1364
+305,Austria,155,Chile,1931,1704,1000,Shilling,7.1364,7.1364
+305,Austria,355,Bulgaria,1931,38505,1000,Shilling,7.1364,7.1364
+305,Austria,365,Russia,1931,30480,1000,Shilling,7.1364,7.1364
+305,Austria,2,United States,1931,96148,1000,Shilling,7.1364,7.1364
+305,Austria,573,British South Africa,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,315,Czechoslovakia,1931,367060,1000,Shilling,7.1364,7.1364
+305,Austria,380,Sweden,1931,5258,1000,Shilling,7.1364,7.1364
+305,Austria,2115,Belgian Africa,1931,408,1000,Shilling,7.1364,7.1364
+305,Austria,3363,Memel,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,920,New Zealand,1931,810,1000,Shilling,7.1364,7.1364
+305,Austria,92,El Salvador,1931,520,1000,Shilling,7.1364,7.1364
+305,Austria,780,Sri Lanka,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,93,Nicaragua,1931,147,1000,Shilling,7.1364,7.1364
+305,Austria,367,Latvia,1931,268,1000,Shilling,7.1364,7.1364
+305,Austria,665,West Bank And Gaza,1931,988,1000,Shilling,7.1364,7.1364
+305,Austria,368,Lithuania,1931,218,1000,Shilling,7.1364,7.1364
+305,Austria,200,United Kingdom,1931,75161,1000,Shilling,7.1364,7.1364
+305,Austria,94,Costa Rica,1931,657,1000,Shilling,7.1364,7.1364
+305,Austria,326,Trieste,1931,2197,1000,Shilling,7.1364,7.1364
+305,Austria,95,Panama,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,160,Argentina,1931,24739,1000,Shilling,7.1364,7.1364
+305,Austria,775,Myanmar,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,41,Haiti,1931,18,1000,Shilling,7.1364,7.1364
+305,Austria,675,Arabia,1931,42,1000,Shilling,7.1364,7.1364
+305,Austria,212,Luxembourg,1931,132,1000,Shilling,7.1364,7.1364
+305,Austria,2005,British Africa,1931,9618,1000,Shilling,7.1364,7.1364
+305,Austria,616,Tunisia,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,651,Egypt,1931,9169,1000,Shilling,7.1364,7.1364
+305,Austria,615,Algeria,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,530,Ethiopia,1931,18,1000,Shilling,7.1364,7.1364
+305,Austria,625,Sudan,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,91,Honduras,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,560,South Africa,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,68,Netherlands Antilles,1931,12,1000,Shilling,7.1364,7.1364
+305,Austria,770,Pakistan,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,130,Ecuador,1931,80,1000,Shilling,7.1364,7.1364
+305,Austria,255,Germany,1931,488125,1000,Shilling,7.1364,7.1364
+305,Austria,750,India,1931,20699,1000,Shilling,7.1364,7.1364
+305,Austria,42,Dominican Republic,1931,194,1000,Shilling,7.1364,7.1364
+305,Austria,150,Paraguay,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,90,Guatemala,1931,1459,1000,Shilling,7.1364,7.1364
+305,Austria,800,Thailand,1931,8,1000,Shilling,7.1364,7.1364
+305,Austria,165,Uruguay,1931,3035,1000,Shilling,7.1364,7.1364
+305,Austria,3250,Italian Africa,1931,72,1000,Shilling,7.1364,7.1364
+305,Austria,210,Netherlands,1931,25368,1000,Shilling,7.1364,7.1364
+305,Austria,339,Albania,1931,42,1000,Shilling,7.1364,7.1364
+305,Austria,2355,Portuguese Africa,1931,38,1000,Shilling,7.1364,7.1364
+305,Austria,660,Lebanon,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,256,Saar,1931,2639,1000,Shilling,7.1364,7.1364
+305,Austria,20,Canada,1931,12393,1000,Shilling,7.1364,7.1364
+305,Austria,810,French Indo-China,1931,13,1000,Shilling,7.1364,7.1364
+305,Austria,620,Libya,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,827,Straits Settlement,1931,2360,1000,Shilling,7.1364,7.1364
+305,Austria,2205,French Africa,1931,4191,1000,Shilling,7.1364,7.1364
+305,Austria,350,Greece,1931,36059,1000,Shilling,7.1364,7.1364
+305,Austria,325,Italy,1931,93995,1000,Shilling,7.1364,7.1364
+305,Austria,710,China,1931,4930,1000,Shilling,7.1364,7.1364
+305,Austria,840,Philippines,1931,154,1000,Shilling,7.1364,7.1364
+305,Austria,135,Peru,1931,239,1000,Shilling,7.1364,7.1364
+305,Austria,1060,French West Indies,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,235,Portugal,1931,3311,1000,Shilling,7.1364,7.1364
+305,Austria,385,Norway,1931,4126,1000,Shilling,7.1364,7.1364
+305,Austria,652,Syria,1931,54,1000,Shilling,7.1364,7.1364
+305,Austria,310,Hungary,1931,197598,1000,Shilling,7.1364,7.1364
+305,Austria,740,Japan,1931,2173,1000,Shilling,7.1364,7.1364
+305,Austria,100,Colombia,1931,287,1000,Shilling,7.1364,7.1364
+305,Austria,360,Romania,1931,122148,1000,Shilling,7.1364,7.1364
+305,Austria,900,Australia,1931,9339,1000,Shilling,7.1364,7.1364
+305,Austria,205,Ireland,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,645,Iraq,1931,11,1000,Shilling,7.1364,7.1364
+305,Austria,230,Spain,1931,7281,1000,Shilling,7.1364,7.1364
+305,Austria,291,Danzig,1931,19,1000,Shilling,7.1364,7.1364
+305,Austria,140,Brazil,1931,20298,1000,Shilling,7.1364,7.1364
+305,Austria,145,Bolivia,1931,49,1000,Shilling,7.1364,7.1364
+305,Austria,80,Belize,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,40,Cuba,1931,1144,1000,Shilling,7.1364,7.1364
+305,Austria,700,Afghanistan,1931,0,1000,Shilling,7.1364,7.1364
+305,Austria,220,France,1931,56994,1000,Shilling,7.1364,7.1364
+305,Austria,640,Turkey,1931,19170,1000,Shilling,7.1364,7.1364
+305,Austria,225,Switzerland,1931,93531,1000,Shilling,7.1364,7.1364
+305,Austria,290,Poland,1931,178346,1000,Shilling,7.1364,7.1364
+305,Austria,101,Venezuela,1931,347,1000,Shilling,7.1364,7.1364
+305,Austria,211,Belgium,1931,15528,1000,Shilling,7.1364,7.1364
+305,Austria,345,Yugoslavia,1931,95601,1000,Shilling,7.1364,7.1364
+305,Austria,1050,British West Indies,1931,3626,1000,Shilling,7.1364,7.1364
+305,Austria,2205,French Africa,1932,943,1000,Shilling,7.1664,7.1664
+305,Austria,165,Uruguay,1932,432,1000,Shilling,7.1664,7.1664
+305,Austria,360,Romania,1932,80875,1000,Shilling,7.1664,7.1664
+305,Austria,390,Denmark,1932,4350,1000,Shilling,7.1664,7.1664
+305,Austria,2115,Belgian Africa,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,339,Albania,1932,76,1000,Shilling,7.1664,7.1664
+305,Austria,615,Algeria,1932,1547,1000,Shilling,7.1664,7.1664
+305,Austria,80,Belize,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,900,Australia,1932,10795,1000,Shilling,7.1664,7.1664
+305,Austria,380,Sweden,1932,3154,1000,Shilling,7.1664,7.1664
+305,Austria,93,Nicaragua,1932,80,1000,Shilling,7.1664,7.1664
+305,Austria,850,Indonesia,1932,5824,1000,Shilling,7.1664,7.1664
+305,Austria,291,Danzig,1932,28,1000,Shilling,7.1664,7.1664
+305,Austria,827,Straits Settlement,1932,2942,1000,Shilling,7.1664,7.1664
+305,Austria,810,French Indo-China,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,645,Iraq,1932,13,1000,Shilling,7.1664,7.1664
+305,Austria,256,Saar,1932,4584,1000,Shilling,7.1664,7.1664
+305,Austria,3250,Italian Africa,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,155,Chile,1932,499,1000,Shilling,7.1664,7.1664
+305,Austria,140,Brazil,1932,14777,1000,Shilling,7.1664,7.1664
+305,Austria,665,West Bank And Gaza,1932,232,1000,Shilling,7.1664,7.1664
+305,Austria,620,Libya,1932,8,1000,Shilling,7.1664,7.1664
+305,Austria,775,Myanmar,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,573,British South Africa,1932,834,1000,Shilling,7.1664,7.1664
+305,Austria,70,Mexico,1932,906,1000,Shilling,7.1664,7.1664
+305,Austria,530,Ethiopia,1932,7,1000,Shilling,7.1664,7.1664
+305,Austria,616,Tunisia,1932,121,1000,Shilling,7.1664,7.1664
+305,Austria,710,China,1932,2793,1000,Shilling,7.1664,7.1664
+305,Austria,310,Hungary,1932,135909,1000,Shilling,7.1664,7.1664
+305,Austria,385,Norway,1932,3853,1000,Shilling,7.1664,7.1664
+305,Austria,652,Syria,1932,753,1000,Shilling,7.1664,7.1664
+305,Austria,130,Ecuador,1932,135,1000,Shilling,7.1664,7.1664
+305,Austria,160,Argentina,1932,13507,1000,Shilling,7.1664,7.1664
+305,Austria,660,Lebanon,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,135,Peru,1932,170,1000,Shilling,7.1664,7.1664
+305,Austria,750,India,1932,9272,1000,Shilling,7.1664,7.1664
+305,Austria,90,Guatemala,1932,1512,1000,Shilling,7.1664,7.1664
+305,Austria,2355,Portuguese Africa,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,211,Belgium,1932,8380,1000,Shilling,7.1664,7.1664
+305,Austria,355,Bulgaria,1932,25453,1000,Shilling,7.1664,7.1664
+305,Austria,325,Italy,1932,68409,1000,Shilling,7.1664,7.1664
+305,Austria,800,Thailand,1932,9,1000,Shilling,7.1664,7.1664
+305,Austria,365,Russia,1932,17230,1000,Shilling,7.1664,7.1664
+305,Austria,350,Greece,1932,26338,1000,Shilling,7.1664,7.1664
+305,Austria,235,Portugal,1932,2235,1000,Shilling,7.1664,7.1664
+305,Austria,255,Germany,1932,285708,1000,Shilling,7.1664,7.1664
+305,Austria,2005,British Africa,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,560,South Africa,1932,2841,1000,Shilling,7.1664,7.1664
+305,Austria,2,United States,1932,56234,1000,Shilling,7.1664,7.1664
+305,Austria,210,Netherlands,1932,14774,1000,Shilling,7.1664,7.1664
+305,Austria,212,Luxembourg,1932,163,1000,Shilling,7.1664,7.1664
+305,Austria,200,United Kingdom,1932,37435,1000,Shilling,7.1664,7.1664
+305,Austria,740,Japan,1932,1487,1000,Shilling,7.1664,7.1664
+305,Austria,225,Switzerland,1932,48769,1000,Shilling,7.1664,7.1664
+305,Austria,2305,Spanish Africa,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,352,Cyprus,1932,648,1000,Shilling,7.1664,7.1664
+305,Austria,220,France,1932,27603,1000,Shilling,7.1664,7.1664
+305,Austria,625,Sudan,1932,148,1000,Shilling,7.1664,7.1664
+305,Austria,326,Trieste,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,100,Colombia,1932,268,1000,Shilling,7.1664,7.1664
+305,Austria,840,Philippines,1932,22,1000,Shilling,7.1664,7.1664
+305,Austria,630,Iran,1932,2507,1000,Shilling,7.1664,7.1664
+305,Austria,1060,French West Indies,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,94,Costa Rica,1932,411,1000,Shilling,7.1664,7.1664
+305,Austria,640,Turkey,1932,13634,1000,Shilling,7.1664,7.1664
+305,Austria,345,Yugoslavia,1932,108026,1000,Shilling,7.1664,7.1664
+305,Austria,20,Canada,1932,11067,1000,Shilling,7.1664,7.1664
+305,Austria,700,Afghanistan,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,920,New Zealand,1932,590,1000,Shilling,7.1664,7.1664
+305,Austria,770,Pakistan,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,315,Czechoslovakia,1932,213269,1000,Shilling,7.1664,7.1664
+305,Austria,651,Egypt,1932,4007,1000,Shilling,7.1664,7.1664
+305,Austria,40,Cuba,1932,32,1000,Shilling,7.1664,7.1664
+305,Austria,368,Lithuania,1932,119,1000,Shilling,7.1664,7.1664
+305,Austria,42,Dominican Republic,1932,13,1000,Shilling,7.1664,7.1664
+305,Austria,145,Bolivia,1932,5,1000,Shilling,7.1664,7.1664
+305,Austria,670,Saudi Arabia,1932,75,1000,Shilling,7.1664,7.1664
+305,Austria,290,Poland,1932,105819,1000,Shilling,7.1664,7.1664
+305,Austria,780,Sri Lanka,1932,2631,1000,Shilling,7.1664,7.1664
+305,Austria,91,Honduras,1932,13,1000,Shilling,7.1664,7.1664
+305,Austria,95,Panama,1932,4,1000,Shilling,7.1664,7.1664
+305,Austria,675,Arabia,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,1050,British West Indies,1932,897,1000,Shilling,7.1664,7.1664
+305,Austria,101,Venezuela,1932,182,1000,Shilling,7.1664,7.1664
+305,Austria,367,Latvia,1932,70,1000,Shilling,7.1664,7.1664
+305,Austria,68,Netherlands Antilles,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,41,Haiti,1932,15,1000,Shilling,7.1664,7.1664
+305,Austria,92,El Salvador,1932,274,1000,Shilling,7.1664,7.1664
+305,Austria,3363,Memel,1932,0,1000,Shilling,7.1664,7.1664
+305,Austria,366,Estonia,1932,79,1000,Shilling,7.1664,7.1664
+305,Austria,150,Paraguay,1932,4,1000,Shilling,7.1664,7.1664
+305,Austria,375,Finland,1932,459,1000,Shilling,7.1664,7.1664
+305,Austria,230,Spain,1932,4621,1000,Shilling,7.1664,7.1664
+305,Austria,205,Ireland,1932,15,1000,Shilling,7.1664,7.1664
+305,Austria,,,1932,1404865,1000,Shilling,7.1664,7.1664
+305,Austria,490,"Congo, Dem. Republic",1932,606,1000,Shilling,7.1664,7.1664
+305,Austria,365,Russia,1933,7443,1000,Shilling,6.5443,6.5443
+305,Austria,920,New Zealand,1933,231,1000,Shilling,6.5443,6.5443
+305,Austria,810,French Indo-China,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,310,Hungary,1933,134517,1000,Shilling,6.5443,6.5443
+305,Austria,560,South Africa,1933,1513,1000,Shilling,6.5443,6.5443
+305,Austria,367,Latvia,1933,109,1000,Shilling,6.5443,6.5443
+305,Austria,94,Costa Rica,1933,590,1000,Shilling,6.5443,6.5443
+305,Austria,255,Germany,1933,234180,1000,Shilling,6.5443,6.5443
+305,Austria,256,Saar,1933,2414,1000,Shilling,6.5443,6.5443
+305,Austria,3250,Italian Africa,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,385,Norway,1933,6306,1000,Shilling,6.5443,6.5443
+305,Austria,326,Trieste,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,91,Honduras,1933,4,1000,Shilling,6.5443,6.5443
+305,Austria,40,Cuba,1933,31,1000,Shilling,6.5443,6.5443
+305,Austria,620,Libya,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,212,Luxembourg,1933,46,1000,Shilling,6.5443,6.5443
+305,Austria,95,Panama,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,325,Italy,1933,51477,1000,Shilling,6.5443,6.5443
+305,Austria,291,Danzig,1933,12,1000,Shilling,6.5443,6.5443
+305,Austria,235,Portugal,1933,1493,1000,Shilling,6.5443,6.5443
+305,Austria,2355,Portuguese Africa,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,1060,French West Indies,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,211,Belgium,1933,8476,1000,Shilling,6.5443,6.5443
+305,Austria,315,Czechoslovakia,1933,158274,1000,Shilling,6.5443,6.5443
+305,Austria,160,Argentina,1933,15965,1000,Shilling,6.5443,6.5443
+305,Austria,339,Albania,1933,22,1000,Shilling,6.5443,6.5443
+305,Austria,230,Spain,1933,2192,1000,Shilling,6.5443,6.5443
+305,Austria,850,Indonesia,1933,8363,1000,Shilling,6.5443,6.5443
+305,Austria,616,Tunisia,1933,9,1000,Shilling,6.5443,6.5443
+305,Austria,700,Afghanistan,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,165,Uruguay,1933,453,1000,Shilling,6.5443,6.5443
+305,Austria,145,Bolivia,1933,6,1000,Shilling,6.5443,6.5443
+305,Austria,100,Colombia,1933,632,1000,Shilling,6.5443,6.5443
+305,Austria,140,Brazil,1933,7507,1000,Shilling,6.5443,6.5443
+305,Austria,352,Cyprus,1933,1025,1000,Shilling,6.5443,6.5443
+305,Austria,380,Sweden,1933,4535,1000,Shilling,6.5443,6.5443
+305,Austria,90,Guatemala,1933,1214,1000,Shilling,6.5443,6.5443
+305,Austria,80,Belize,1933,2,1000,Shilling,6.5443,6.5443
+305,Austria,41,Haiti,1933,11,1000,Shilling,6.5443,6.5443
+305,Austria,350,Greece,1933,11201,1000,Shilling,6.5443,6.5443
+305,Austria,70,Mexico,1933,787,1000,Shilling,6.5443,6.5443
+305,Austria,368,Lithuania,1933,204,1000,Shilling,6.5443,6.5443
+305,Austria,155,Chile,1933,462,1000,Shilling,6.5443,6.5443
+305,Austria,675,Arabia,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,92,El Salvador,1933,283,1000,Shilling,6.5443,6.5443
+305,Austria,,,1933,1197399,1000,Shilling,6.5443,6.5443
+305,Austria,150,Paraguay,1933,116,1000,Shilling,6.5443,6.5443
+305,Austria,1050,British West Indies,1933,561,1000,Shilling,6.5443,6.5443
+305,Austria,200,United Kingdom,1933,37051,1000,Shilling,6.5443,6.5443
+305,Austria,355,Bulgaria,1933,15867,1000,Shilling,6.5443,6.5443
+305,Austria,740,Japan,1933,1615,1000,Shilling,6.5443,6.5443
+305,Austria,840,Philippines,1933,550,1000,Shilling,6.5443,6.5443
+305,Austria,490,"Congo, Dem. Republic",1933,845,1000,Shilling,6.5443,6.5443
+305,Austria,775,Myanmar,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,710,China,1933,2845,1000,Shilling,6.5443,6.5443
+305,Austria,625,Sudan,1933,939,1000,Shilling,6.5443,6.5443
+305,Austria,573,British South Africa,1933,94,1000,Shilling,6.5443,6.5443
+305,Austria,2305,Spanish Africa,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,93,Nicaragua,1933,226,1000,Shilling,6.5443,6.5443
+305,Austria,205,Ireland,1933,32,1000,Shilling,6.5443,6.5443
+305,Austria,750,India,1933,12698,1000,Shilling,6.5443,6.5443
+305,Austria,220,France,1933,32654,1000,Shilling,6.5443,6.5443
+305,Austria,20,Canada,1933,13333,1000,Shilling,6.5443,6.5443
+305,Austria,780,Sri Lanka,1933,2235,1000,Shilling,6.5443,6.5443
+305,Austria,375,Finland,1933,356,1000,Shilling,6.5443,6.5443
+305,Austria,2,United States,1933,61876,1000,Shilling,6.5443,6.5443
+305,Austria,68,Netherlands Antilles,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,210,Netherlands,1933,16428,1000,Shilling,6.5443,6.5443
+305,Austria,135,Peru,1933,239,1000,Shilling,6.5443,6.5443
+305,Austria,645,Iraq,1933,11,1000,Shilling,6.5443,6.5443
+305,Austria,3363,Memel,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,670,Saudi Arabia,1933,63,1000,Shilling,6.5443,6.5443
+305,Austria,770,Pakistan,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,101,Venezuela,1933,97,1000,Shilling,6.5443,6.5443
+305,Austria,345,Yugoslavia,1933,104212,1000,Shilling,6.5443,6.5443
+305,Austria,615,Algeria,1933,1062,1000,Shilling,6.5443,6.5443
+305,Austria,630,Iran,1933,1525,1000,Shilling,6.5443,6.5443
+305,Austria,42,Dominican Republic,1933,128,1000,Shilling,6.5443,6.5443
+305,Austria,900,Australia,1933,19548,1000,Shilling,6.5443,6.5443
+305,Austria,360,Romania,1933,53105,1000,Shilling,6.5443,6.5443
+305,Austria,660,Lebanon,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,130,Ecuador,1933,192,1000,Shilling,6.5443,6.5443
+305,Austria,390,Denmark,1933,5374,1000,Shilling,6.5443,6.5443
+305,Austria,2005,British Africa,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,2115,Belgian Africa,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,651,Egypt,1933,5943,1000,Shilling,6.5443,6.5443
+305,Austria,2205,French Africa,1933,373,1000,Shilling,6.5443,6.5443
+305,Austria,827,Straits Settlement,1933,0,1000,Shilling,6.5443,6.5443
+305,Austria,366,Estonia,1933,31,1000,Shilling,6.5443,6.5443
+305,Austria,652,Syria,1933,398,1000,Shilling,6.5443,6.5443
+305,Austria,225,Switzerland,1933,43881,1000,Shilling,6.5443,6.5443
+305,Austria,640,Turkey,1933,7369,1000,Shilling,6.5443,6.5443
+305,Austria,800,Thailand,1933,202,1000,Shilling,6.5443,6.5443
+305,Austria,290,Poland,1933,76789,1000,Shilling,6.5443,6.5443
+305,Austria,665,West Bank And Gaza,1933,119,1000,Shilling,6.5443,6.5443
+305,Austria,530,Ethiopia,1933,12,1000,Shilling,6.5443,6.5443
+305,Austria,675,Arabia,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,20,Canada,1934,4206,1000,Shilling,5.3212,5.3212
+305,Austria,1050,British West Indies,1934,555,1000,Shilling,5.3212,5.3212
+305,Austria,573,British South Africa,1934,187,1000,Shilling,5.3212,5.3212
+305,Austria,355,Bulgaria,1934,7213,1000,Shilling,5.3212,5.3212
+305,Austria,220,France,1934,36930,1000,Shilling,5.3212,5.3212
+305,Austria,360,Romania,1934,64945,1000,Shilling,5.3212,5.3212
+305,Austria,840,Philippines,1934,39,1000,Shilling,5.3212,5.3212
+305,Austria,1060,French West Indies,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,200,United Kingdom,1934,51312,1000,Shilling,5.3212,5.3212
+305,Austria,2,United States,1934,61855,1000,Shilling,5.3212,5.3212
+305,Austria,670,Saudi Arabia,1934,48,1000,Shilling,5.3212,5.3212
+305,Austria,750,India,1934,15707,1000,Shilling,5.3212,5.3212
+305,Austria,775,Myanmar,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,210,Netherlands,1934,17453,1000,Shilling,5.3212,5.3212
+305,Austria,380,Sweden,1934,4389,1000,Shilling,5.3212,5.3212
+305,Austria,740,Japan,1934,4822,1000,Shilling,5.3212,5.3212
+305,Austria,345,Yugoslavia,1934,97873,1000,Shilling,5.3212,5.3212
+305,Austria,660,Lebanon,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,256,Saar,1934,4204,1000,Shilling,5.3212,5.3212
+305,Austria,625,Sudan,1934,1526,1000,Shilling,5.3212,5.3212
+305,Austria,211,Belgium,1934,10339,1000,Shilling,5.3212,5.3212
+305,Austria,390,Denmark,1934,4725,1000,Shilling,5.3212,5.3212
+305,Austria,665,West Bank And Gaza,1934,225,1000,Shilling,5.3212,5.3212
+305,Austria,560,South Africa,1934,1151,1000,Shilling,5.3212,5.3212
+305,Austria,,,1934,1175766,1000,Shilling,5.3212,5.3212
+305,Austria,155,Chile,1934,2263,1000,Shilling,5.3212,5.3212
+305,Austria,70,Mexico,1934,586,1000,Shilling,5.3212,5.3212
+305,Austria,92,El Salvador,1934,308,1000,Shilling,5.3212,5.3212
+305,Austria,780,Sri Lanka,1934,3394,1000,Shilling,5.3212,5.3212
+305,Austria,165,Uruguay,1934,648,1000,Shilling,5.3212,5.3212
+305,Austria,145,Bolivia,1934,75,1000,Shilling,5.3212,5.3212
+305,Austria,530,Ethiopia,1934,13,1000,Shilling,5.3212,5.3212
+305,Austria,352,Cyprus,1934,850,1000,Shilling,5.3212,5.3212
+305,Austria,291,Danzig,1934,41,1000,Shilling,5.3212,5.3212
+305,Austria,225,Switzerland,1934,45464,1000,Shilling,5.3212,5.3212
+305,Austria,93,Nicaragua,1934,149,1000,Shilling,5.3212,5.3212
+305,Austria,920,New Zealand,1934,406,1000,Shilling,5.3212,5.3212
+305,Austria,620,Libya,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,68,Netherlands Antilles,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,368,Lithuania,1934,1049,1000,Shilling,5.3212,5.3212
+305,Austria,94,Costa Rica,1934,623,1000,Shilling,5.3212,5.3212
+305,Austria,205,Ireland,1934,40,1000,Shilling,5.3212,5.3212
+305,Austria,130,Ecuador,1934,340,1000,Shilling,5.3212,5.3212
+305,Austria,615,Algeria,1934,891,1000,Shilling,5.3212,5.3212
+305,Austria,490,"Congo, Dem. Republic",1934,1677,1000,Shilling,5.3212,5.3212
+305,Austria,212,Luxembourg,1934,79,1000,Shilling,5.3212,5.3212
+305,Austria,367,Latvia,1934,328,1000,Shilling,5.3212,5.3212
+305,Austria,2115,Belgian Africa,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,710,China,1934,3826,1000,Shilling,5.3212,5.3212
+305,Austria,95,Panama,1934,12,1000,Shilling,5.3212,5.3212
+305,Austria,651,Egypt,1934,9589,1000,Shilling,5.3212,5.3212
+305,Austria,810,French Indo-China,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,135,Peru,1934,353,1000,Shilling,5.3212,5.3212
+305,Austria,700,Afghanistan,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,40,Cuba,1934,85,1000,Shilling,5.3212,5.3212
+305,Austria,91,Honduras,1934,1,1000,Shilling,5.3212,5.3212
+305,Austria,640,Turkey,1934,9949,1000,Shilling,5.3212,5.3212
+305,Austria,325,Italy,1934,49583,1000,Shilling,5.3212,5.3212
+305,Austria,900,Australia,1934,15262,1000,Shilling,5.3212,5.3212
+305,Austria,645,Iraq,1934,44,1000,Shilling,5.3212,5.3212
+305,Austria,90,Guatemala,1934,1290,1000,Shilling,5.3212,5.3212
+305,Austria,827,Straits Settlement,1934,2201,1000,Shilling,5.3212,5.3212
+305,Austria,235,Portugal,1934,1858,1000,Shilling,5.3212,5.3212
+305,Austria,2355,Portuguese Africa,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,366,Estonia,1934,25,1000,Shilling,5.3212,5.3212
+305,Austria,42,Dominican Republic,1934,68,1000,Shilling,5.3212,5.3212
+305,Austria,385,Norway,1934,3685,1000,Shilling,5.3212,5.3212
+305,Austria,850,Indonesia,1934,9908,1000,Shilling,5.3212,5.3212
+305,Austria,3250,Italian Africa,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,100,Colombia,1934,741,1000,Shilling,5.3212,5.3212
+305,Austria,315,Czechoslovakia,1934,159578,1000,Shilling,5.3212,5.3212
+305,Austria,310,Hungary,1934,129150,1000,Shilling,5.3212,5.3212
+305,Austria,616,Tunisia,1934,73,1000,Shilling,5.3212,5.3212
+305,Austria,101,Venezuela,1934,1003,1000,Shilling,5.3212,5.3212
+305,Austria,41,Haiti,1934,7,1000,Shilling,5.3212,5.3212
+305,Austria,2205,French Africa,1934,452,1000,Shilling,5.3212,5.3212
+305,Austria,800,Thailand,1934,505,1000,Shilling,5.3212,5.3212
+305,Austria,375,Finland,1934,516,1000,Shilling,5.3212,5.3212
+305,Austria,290,Poland,1934,72553,1000,Shilling,5.3212,5.3212
+305,Austria,255,Germany,1934,204399,1000,Shilling,5.3212,5.3212
+305,Austria,770,Pakistan,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,2305,Spanish Africa,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,652,Syria,1934,874,1000,Shilling,5.3212,5.3212
+305,Austria,160,Argentina,1934,9462,1000,Shilling,5.3212,5.3212
+305,Austria,2005,British Africa,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,230,Spain,1934,3043,1000,Shilling,5.3212,5.3212
+305,Austria,140,Brazil,1934,7711,1000,Shilling,5.3212,5.3212
+305,Austria,630,Iran,1934,1820,1000,Shilling,5.3212,5.3212
+305,Austria,339,Albania,1934,16,1000,Shilling,5.3212,5.3212
+305,Austria,150,Paraguay,1934,89,1000,Shilling,5.3212,5.3212
+305,Austria,80,Belize,1934,8,1000,Shilling,5.3212,5.3212
+305,Austria,3363,Memel,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,365,Russia,1934,4815,1000,Shilling,5.3212,5.3212
+305,Austria,350,Greece,1934,12980,1000,Shilling,5.3212,5.3212
+305,Austria,326,Trieste,1934,0,1000,Shilling,5.3212,5.3212
+305,Austria,366,Estonia,1935,207,1000,1000 Shilling,5.3137,5.3137
+305,Austria,130,Ecuador,1935,304,1000,1000 Shilling,5.3137,5.3137
+305,Austria,160,Argentina,1935,20391,1000,1000 Shilling,5.3137,5.3137
+305,Austria,3250,Italian Africa,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,68,Netherlands Antilles,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,367,Latvia,1935,742,1000,1000 Shilling,5.3137,5.3137
+305,Austria,630,Iran,1935,2522,1000,1000 Shilling,5.3137,5.3137
+305,Austria,620,Libya,1935,4,1000,1000 Shilling,5.3137,5.3137
+305,Austria,827,Straits Settlement,1935,2368,1000,1000 Shilling,5.3137,5.3137
+305,Austria,212,Luxembourg,1935,365,1000,1000 Shilling,5.3137,5.3137
+305,Austria,900,Australia,1935,19543,1000,1000 Shilling,5.3137,5.3137
+305,Austria,360,Romania,1935,84149,1000,1000 Shilling,5.3137,5.3137
+305,Austria,256,Saar,1935,291,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2,United States,1935,70805,1000,1000 Shilling,5.3137,5.3137
+305,Austria,920,New Zealand,1935,692,1000,1000 Shilling,5.3137,5.3137
+305,Austria,80,Belize,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,350,Greece,1935,9130,1000,1000 Shilling,5.3137,5.3137
+305,Austria,90,Guatemala,1935,1284,1000,1000 Shilling,5.3137,5.3137
+305,Austria,291,Danzig,1935,15,1000,1000 Shilling,5.3137,5.3137
+305,Austria,530,Ethiopia,1935,94,1000,1000 Shilling,5.3137,5.3137
+305,Austria,615,Algeria,1935,989,1000,1000 Shilling,5.3137,5.3137
+305,Austria,210,Netherlands,1935,21695,1000,1000 Shilling,5.3137,5.3137
+305,Austria,810,French Indo-China,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,573,British South Africa,1935,896,1000,1000 Shilling,5.3137,5.3137
+305,Austria,355,Bulgaria,1935,9994,1000,1000 Shilling,5.3137,5.3137
+305,Austria,230,Spain,1935,2984,1000,1000 Shilling,5.3137,5.3137
+305,Austria,41,Haiti,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,155,Chile,1935,3949,1000,1000 Shilling,5.3137,5.3137
+305,Austria,1060,French West Indies,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,675,Arabia,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,94,Costa Rica,1935,867,1000,1000 Shilling,5.3137,5.3137
+305,Austria,325,Italy,1935,57394,1000,1000 Shilling,5.3137,5.3137
+305,Austria,339,Albania,1935,27,1000,1000 Shilling,5.3137,5.3137
+305,Austria,560,South Africa,1935,922,1000,1000 Shilling,5.3137,5.3137
+305,Austria,640,Turkey,1935,9180,1000,1000 Shilling,5.3137,5.3137
+305,Austria,740,Japan,1935,6340,1000,1000 Shilling,5.3137,5.3137
+305,Austria,40,Cuba,1935,345,1000,1000 Shilling,5.3137,5.3137
+305,Austria,150,Paraguay,1935,105,1000,1000 Shilling,5.3137,5.3137
+305,Austria,93,Nicaragua,1935,126,1000,1000 Shilling,5.3137,5.3137
+305,Austria,95,Panama,1935,2,1000,1000 Shilling,5.3137,5.3137
+305,Austria,101,Venezuela,1935,1456,1000,1000 Shilling,5.3137,5.3137
+305,Austria,700,Afghanistan,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,235,Portugal,1935,2562,1000,1000 Shilling,5.3137,5.3137
+305,Austria,220,France,1935,38011,1000,1000 Shilling,5.3137,5.3137
+305,Austria,770,Pakistan,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2005,British Africa,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,368,Lithuania,1935,1803,1000,1000 Shilling,5.3137,5.3137
+305,Austria,326,Trieste,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,1050,British West Indies,1935,669,1000,1000 Shilling,5.3137,5.3137
+305,Austria,225,Switzerland,1935,40011,1000,1000 Shilling,5.3137,5.3137
+305,Austria,315,Czechoslovakia,1935,155539,1000,1000 Shilling,5.3137,5.3137
+305,Austria,800,Thailand,1935,785,1000,1000 Shilling,5.3137,5.3137
+305,Austria,390,Denmark,1935,5207,1000,1000 Shilling,5.3137,5.3137
+305,Austria,255,Germany,1935,203748,1000,1000 Shilling,5.3137,5.3137
+305,Austria,145,Bolivia,1935,76,1000,1000 Shilling,5.3137,5.3137
+305,Austria,70,Mexico,1935,871,1000,1000 Shilling,5.3137,5.3137
+305,Austria,710,China,1935,5996,1000,1000 Shilling,5.3137,5.3137
+305,Austria,750,India,1935,18095,1000,1000 Shilling,5.3137,5.3137
+305,Austria,652,Syria,1935,1420,1000,1000 Shilling,5.3137,5.3137
+305,Austria,205,Ireland,1935,41,1000,1000 Shilling,5.3137,5.3137
+305,Austria,375,Finland,1935,824,1000,1000 Shilling,5.3137,5.3137
+305,Austria,385,Norway,1935,4761,1000,1000 Shilling,5.3137,5.3137
+305,Austria,165,Uruguay,1935,1496,1000,1000 Shilling,5.3137,5.3137
+305,Austria,42,Dominican Republic,1935,116,1000,1000 Shilling,5.3137,5.3137
+305,Austria,651,Egypt,1935,12540,1000,1000 Shilling,5.3137,5.3137
+305,Austria,665,West Bank And Gaza,1935,768,1000,1000 Shilling,5.3137,5.3137
+305,Austria,345,Yugoslavia,1935,82462,1000,1000 Shilling,5.3137,5.3137
+305,Austria,3363,Memel,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,780,Sri Lanka,1935,2426,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2355,Portuguese Africa,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,352,Cyprus,1935,802,1000,1000 Shilling,5.3137,5.3137
+305,Austria,92,El Salvador,1935,215,1000,1000 Shilling,5.3137,5.3137
+305,Austria,840,Philippines,1935,469,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2205,French Africa,1935,428,1000,1000 Shilling,5.3137,5.3137
+305,Austria,135,Peru,1935,327,1000,1000 Shilling,5.3137,5.3137
+305,Austria,,,1935,1225880,1000,1000 Shilling,5.3137,5.3137
+305,Austria,200,United Kingdom,1935,54336,1000,1000 Shilling,5.3137,5.3137
+305,Austria,490,"Congo, Dem. Republic",1935,3650,1000,1000 Shilling,5.3137,5.3137
+305,Austria,365,Russia,1935,6016,1000,1000 Shilling,5.3137,5.3137
+305,Austria,660,Lebanon,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,310,Hungary,1935,115008,1000,1000 Shilling,5.3137,5.3137
+305,Austria,670,Saudi Arabia,1935,34,1000,1000 Shilling,5.3137,5.3137
+305,Austria,100,Colombia,1935,463,1000,1000 Shilling,5.3137,5.3137
+305,Austria,380,Sweden,1935,4984,1000,1000 Shilling,5.3137,5.3137
+305,Austria,645,Iraq,1935,175,1000,1000 Shilling,5.3137,5.3137
+305,Austria,616,Tunisia,1935,151,1000,1000 Shilling,5.3137,5.3137
+305,Austria,140,Brazil,1935,7542,1000,1000 Shilling,5.3137,5.3137
+305,Austria,775,Myanmar,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,290,Poland,1935,77133,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2115,Belgian Africa,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,20,Canada,1935,2555,1000,1000 Shilling,5.3137,5.3137
+305,Austria,625,Sudan,1935,222,1000,1000 Shilling,5.3137,5.3137
+305,Austria,850,Indonesia,1935,13359,1000,1000 Shilling,5.3137,5.3137
+305,Austria,211,Belgium,1935,15399,1000,1000 Shilling,5.3137,5.3137
+305,Austria,91,Honduras,1935,2,1000,1000 Shilling,5.3137,5.3137
+305,Austria,2305,Spanish Africa,1935,0,1000,1000 Shilling,5.3137,5.3137
+305,Austria,91,Honduras,1936,1,1000,1000 Shilling,5.3232,5.3232
+305,Austria,810,French Indo-China,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,95,Panama,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2305,Spanish Africa,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,140,Brazil,1936,7200,1000,1000 Shilling,5.3232,5.3232
+305,Austria,770,Pakistan,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,366,Estonia,1936,283,1000,1000 Shilling,5.3232,5.3232
+305,Austria,94,Costa Rica,1936,787,1000,1000 Shilling,5.3232,5.3232
+305,Austria,616,Tunisia,1936,208,1000,1000 Shilling,5.3232,5.3232
+305,Austria,92,El Salvador,1936,271,1000,1000 Shilling,5.3232,5.3232
+305,Austria,345,Yugoslavia,1936,76806,1000,1000 Shilling,5.3232,5.3232
+305,Austria,220,France,1936,46286,1000,1000 Shilling,5.3232,5.3232
+305,Austria,160,Argentina,1936,14429,1000,1000 Shilling,5.3232,5.3232
+305,Austria,367,Latvia,1936,538,1000,1000 Shilling,5.3232,5.3232
+305,Austria,,,1936,1275352,1000,1000 Shilling,5.3232,5.3232
+305,Austria,710,China,1936,10417,1000,1000 Shilling,5.3232,5.3232
+305,Austria,800,Thailand,1936,337,1000,1000 Shilling,5.3232,5.3232
+305,Austria,630,Iran,1936,2836,1000,1000 Shilling,5.3232,5.3232
+305,Austria,615,Algeria,1936,1228,1000,1000 Shilling,5.3232,5.3232
+305,Austria,640,Turkey,1936,9180,1000,1000 Shilling,5.3232,5.3232
+305,Austria,368,Lithuania,1936,1836,1000,1000 Shilling,5.3232,5.3232
+305,Austria,375,Finland,1936,893,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2,United States,1936,77907,1000,1000 Shilling,5.3232,5.3232
+305,Austria,620,Libya,1936,5,1000,1000 Shilling,5.3232,5.3232
+305,Austria,573,British South Africa,1936,328,1000,1000 Shilling,5.3232,5.3232
+305,Austria,740,Japan,1936,7507,1000,1000 Shilling,5.3232,5.3232
+305,Austria,665,West Bank And Gaza,1936,661,1000,1000 Shilling,5.3232,5.3232
+305,Austria,560,South Africa,1936,1379,1000,1000 Shilling,5.3232,5.3232
+305,Austria,210,Netherlands,1936,25955,1000,1000 Shilling,5.3232,5.3232
+305,Austria,90,Guatemala,1936,1406,1000,1000 Shilling,5.3232,5.3232
+305,Austria,80,Belize,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2005,British Africa,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,290,Poland,1936,74165,1000,1000 Shilling,5.3232,5.3232
+305,Austria,850,Indonesia,1936,13730,1000,1000 Shilling,5.3232,5.3232
+305,Austria,652,Syria,1936,1253,1000,1000 Shilling,5.3232,5.3232
+305,Austria,390,Denmark,1936,5471,1000,1000 Shilling,5.3232,5.3232
+305,Austria,145,Bolivia,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,235,Portugal,1936,2950,1000,1000 Shilling,5.3232,5.3232
+305,Austria,291,Danzig,1936,54,1000,1000 Shilling,5.3232,5.3232
+305,Austria,660,Lebanon,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,68,Netherlands Antilles,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,625,Sudan,1936,319,1000,1000 Shilling,5.3232,5.3232
+305,Austria,326,Trieste,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,750,India,1936,16115,1000,1000 Shilling,5.3232,5.3232
+305,Austria,490,"Congo, Dem. Republic",1936,6280,1000,1000 Shilling,5.3232,5.3232
+305,Austria,150,Paraguay,1936,140,1000,1000 Shilling,5.3232,5.3232
+305,Austria,256,Saar,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,339,Albania,1936,412,1000,1000 Shilling,5.3232,5.3232
+305,Austria,101,Venezuela,1936,792,1000,1000 Shilling,5.3232,5.3232
+305,Austria,255,Germany,1936,216462,1000,1000 Shilling,5.3232,5.3232
+305,Austria,42,Dominican Republic,1936,66,1000,1000 Shilling,5.3232,5.3232
+305,Austria,205,Ireland,1936,61,1000,1000 Shilling,5.3232,5.3232
+305,Austria,100,Colombia,1936,435,1000,1000 Shilling,5.3232,5.3232
+305,Austria,212,Luxembourg,1936,281,1000,1000 Shilling,5.3232,5.3232
+305,Austria,310,Hungary,1936,118305,1000,1000 Shilling,5.3232,5.3232
+305,Austria,315,Czechoslovakia,1936,144043,1000,1000 Shilling,5.3232,5.3232
+305,Austria,165,Uruguay,1936,2463,1000,1000 Shilling,5.3232,5.3232
+305,Austria,1060,French West Indies,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,840,Philippines,1936,571,1000,1000 Shilling,5.3232,5.3232
+305,Austria,700,Afghanistan,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,355,Bulgaria,1936,7949,1000,1000 Shilling,5.3232,5.3232
+305,Austria,352,Cyprus,1936,729,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2205,French Africa,1936,732,1000,1000 Shilling,5.3232,5.3232
+305,Austria,775,Myanmar,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,651,Egypt,1936,15185,1000,1000 Shilling,5.3232,5.3232
+305,Austria,380,Sweden,1936,5800,1000,1000 Shilling,5.3232,5.3232
+305,Austria,827,Straits Settlement,1936,2608,1000,1000 Shilling,5.3232,5.3232
+305,Austria,3363,Memel,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2115,Belgian Africa,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,385,Norway,1936,6734,1000,1000 Shilling,5.3232,5.3232
+305,Austria,1050,British West Indies,1936,828,1000,1000 Shilling,5.3232,5.3232
+305,Austria,211,Belgium,1936,19600,1000,1000 Shilling,5.3232,5.3232
+305,Austria,780,Sri Lanka,1936,2004,1000,1000 Shilling,5.3232,5.3232
+305,Austria,900,Australia,1936,21214,1000,1000 Shilling,5.3232,5.3232
+305,Austria,3250,Italian Africa,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,920,New Zealand,1936,1285,1000,1000 Shilling,5.3232,5.3232
+305,Austria,325,Italy,1936,58983,1000,1000 Shilling,5.3232,5.3232
+305,Austria,130,Ecuador,1936,590,1000,1000 Shilling,5.3232,5.3232
+305,Austria,2355,Portuguese Africa,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,20,Canada,1936,4247,1000,1000 Shilling,5.3232,5.3232
+305,Austria,200,United Kingdom,1936,55430,1000,1000 Shilling,5.3232,5.3232
+305,Austria,670,Saudi Arabia,1936,39,1000,1000 Shilling,5.3232,5.3232
+305,Austria,530,Ethiopia,1936,41,1000,1000 Shilling,5.3232,5.3232
+305,Austria,365,Russia,1936,5693,1000,1000 Shilling,5.3232,5.3232
+305,Austria,70,Mexico,1936,1115,1000,1000 Shilling,5.3232,5.3232
+305,Austria,93,Nicaragua,1936,164,1000,1000 Shilling,5.3232,5.3232
+305,Austria,645,Iraq,1936,165,1000,1000 Shilling,5.3232,5.3232
+305,Austria,230,Spain,1936,3067,1000,1000 Shilling,5.3232,5.3232
+305,Austria,360,Romania,1936,101541,1000,1000 Shilling,5.3232,5.3232
+305,Austria,350,Greece,1936,8416,1000,1000 Shilling,5.3232,5.3232
+305,Austria,135,Peru,1936,223,1000,1000 Shilling,5.3232,5.3232
+305,Austria,40,Cuba,1936,344,1000,1000 Shilling,5.3232,5.3232
+305,Austria,155,Chile,1936,4032,1000,1000 Shilling,5.3232,5.3232
+305,Austria,675,Arabia,1936,0,1000,1000 Shilling,5.3232,5.3232
+305,Austria,41,Haiti,1936,10,1000,1000 Shilling,5.3232,5.3232
+305,Austria,225,Switzerland,1936,38996,1000,1000 Shilling,5.3232,5.3232
+305,Austria,339,Albania,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,68,Netherlands Antilles,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,365,Russia,1937,4874,1000,1000 Shilling,5.3288,5.3288
+305,Austria,256,Saar,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,827,Straits Settlement,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,42,Dominican Republic,1937,74,1000,1000 Shilling,5.3288,5.3288
+305,Austria,352,Cyprus,1937,1152,1000,1000 Shilling,5.3288,5.3288
+305,Austria,150,Paraguay,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,645,Iraq,1937,41,1000,1000 Shilling,5.3288,5.3288
+305,Austria,380,Sweden,1937,10995,1000,1000 Shilling,5.3288,5.3288
+305,Austria,95,Panama,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,225,Switzerland,1937,47671,1000,1000 Shilling,5.3288,5.3288
+305,Austria,840,Philippines,1937,49,1000,1000 Shilling,5.3288,5.3288
+305,Austria,3250,Italian Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,615,Algeria,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2205,French Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,1060,French West Indies,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,325,Italy,1937,80260,1000,1000 Shilling,5.3288,5.3288
+305,Austria,770,Pakistan,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,93,Nicaragua,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,616,Tunisia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,145,Bolivia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,360,Romania,1937,87417,1000,1000 Shilling,5.3288,5.3288
+305,Austria,310,Hungary,1937,131712,1000,1000 Shilling,5.3288,5.3288
+305,Austria,665,West Bank And Gaza,1937,1102,1000,1000 Shilling,5.3288,5.3288
+305,Austria,640,Turkey,1937,12063,1000,1000 Shilling,5.3288,5.3288
+305,Austria,368,Lithuania,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,94,Costa Rica,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,41,Haiti,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,70,Mexico,1937,4408,1000,1000 Shilling,5.3288,5.3288
+305,Austria,620,Libya,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,700,Afghanistan,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2355,Portuguese Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,625,Sudan,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,230,Spain,1937,765,1000,1000 Shilling,5.3288,5.3288
+305,Austria,90,Guatemala,1937,1311,1000,1000 Shilling,5.3288,5.3288
+305,Austria,92,El Salvador,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,140,Brazil,1937,9022,1000,1000 Shilling,5.3288,5.3288
+305,Austria,155,Chile,1937,14132,1000,1000 Shilling,5.3288,5.3288
+305,Austria,255,Germany,1937,237516,1000,1000 Shilling,5.3288,5.3288
+305,Austria,291,Danzig,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,780,Sri Lanka,1937,4413,1000,1000 Shilling,5.3288,5.3288
+305,Austria,130,Ecuador,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,315,Czechoslovakia,1937,160601,1000,1000 Shilling,5.3288,5.3288
+305,Austria,530,Ethiopia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,135,Peru,1937,559,1000,1000 Shilling,5.3288,5.3288
+305,Austria,40,Cuba,1937,482,1000,1000 Shilling,5.3288,5.3288
+305,Austria,810,French Indo-China,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,345,Yugoslavia,1937,115320,1000,1000 Shilling,5.3288,5.3288
+305,Austria,101,Venezuela,1937,561,1000,1000 Shilling,5.3288,5.3288
+305,Austria,200,United Kingdom,1937,67299,1000,1000 Shilling,5.3288,5.3288
+305,Austria,100,Colombia,1937,713,1000,1000 Shilling,5.3288,5.3288
+305,Austria,367,Latvia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,670,Saudi Arabia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,290,Poland,1937,67088,1000,1000 Shilling,5.3288,5.3288
+305,Austria,900,Australia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,490,"Congo, Dem. Republic",1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,560,South Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,1050,British West Indies,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,775,Myanmar,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,366,Estonia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,3363,Memel,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,235,Portugal,1937,3159,1000,1000 Shilling,5.3288,5.3288
+305,Austria,390,Denmark,1937,5804,1000,1000 Shilling,5.3288,5.3288
+305,Austria,220,France,1937,40763,1000,1000 Shilling,5.3288,5.3288
+305,Austria,375,Finland,1937,1000,1000,1000 Shilling,5.3288,5.3288
+305,Austria,710,China,1937,10981,1000,1000 Shilling,5.3288,5.3288
+305,Austria,385,Norway,1937,8074,1000,1000 Shilling,5.3288,5.3288
+305,Austria,750,India,1937,23340,1000,1000 Shilling,5.3288,5.3288
+305,Austria,160,Argentina,1937,18307,1000,1000 Shilling,5.3288,5.3288
+305,Austria,210,Netherlands,1937,28727,1000,1000 Shilling,5.3288,5.3288
+305,Austria,800,Thailand,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,850,Indonesia,1937,18084,1000,1000 Shilling,5.3288,5.3288
+305,Austria,651,Egypt,1937,17999,1000,1000 Shilling,5.3288,5.3288
+305,Austria,660,Lebanon,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,740,Japan,1937,11155,1000,1000 Shilling,5.3288,5.3288
+305,Austria,165,Uruguay,1937,2705,1000,1000 Shilling,5.3288,5.3288
+305,Austria,91,Honduras,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2305,Spanish Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,80,Belize,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,573,British South Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,211,Belgium,1937,27463,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2,United States,1937,87296,1000,1000 Shilling,5.3288,5.3288
+305,Austria,652,Syria,1937,2016,1000,1000 Shilling,5.3288,5.3288
+305,Austria,205,Ireland,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,920,New Zealand,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,,,1937,1515984,1000,1000 Shilling,5.3288,5.3288
+305,Austria,675,Arabia,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2005,British Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,20,Canada,1937,5353,1000,1000 Shilling,5.3288,5.3288
+305,Austria,350,Greece,1937,13988,1000,1000 Shilling,5.3288,5.3288
+305,Austria,326,Trieste,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,630,Iran,1937,4608,1000,1000 Shilling,5.3288,5.3288
+305,Austria,212,Luxembourg,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,355,Bulgaria,1937,13406,1000,1000 Shilling,5.3288,5.3288
+305,Austria,2115,Belgian Africa,1937,0,1000,1000 Shilling,5.3288,5.3288
+305,Austria,70,Mexico,1947,62,1000,1000 S,10,10
+305,Austria,660,Lebanon,1947,6,1000,1000 S,10,10
+305,Austria,360,Romania,1947,2460,1000,1000 S,10,10
+305,Austria,775,Myanmar,1947,0,1000,1000 S,10,10
+305,Austria,220,France,1947,45806,1000,1000 S,10,10
+305,Austria,750,India,1947,9533,1000,1000 S,10,10
+305,Austria,2,United States,1947,40183,1000,1000 S,10,10
+305,Austria,80,Belize,1947,0,1000,1000 S,10,10
+305,Austria,780,Sri Lanka,1947,122,1000,1000 S,10,10
+305,Austria,920,New Zealand,1947,2193,1000,1000 S,10,10
+305,Austria,91,Honduras,1947,0,1000,1000 S,10,10
+305,Austria,42,Dominican Republic,1947,4317,1000,1000 S,10,10
+305,Austria,2355,Portuguese Africa,1947,0,1000,1000 S,10,10
+305,Austria,40,Cuba,1947,33,1000,1000 S,10,10
+305,Austria,255,Germany,1947,209643,1000,1000 S,10,10
+305,Austria,230,Spain,1947,532,1000,1000 S,10,10
+305,Austria,625,Sudan,1947,0,1000,1000 S,10,10
+305,Austria,165,Uruguay,1947,261,1000,1000 S,10,10
+305,Austria,645,Iraq,1947,0,1000,1000 S,10,10
+305,Austria,2205,French Africa,1947,304,1000,1000 S,10,10
+305,Austria,355,Bulgaria,1947,14399,1000,1000 S,10,10
+305,Austria,850,Indonesia,1947,246,1000,1000 S,10,10
+305,Austria,665,West Bank And Gaza,1947,6,1000,1000 S,10,10
+305,Austria,92,El Salvador,1947,0,1000,1000 S,10,10
+305,Austria,652,Syria,1947,58,1000,1000 S,10,10
+305,Austria,352,Cyprus,1947,0,1000,1000 S,10,10
+305,Austria,1060,French West Indies,1947,0,1000,1000 S,10,10
+305,Austria,740,Japan,1947,2,1000,1000 S,10,10
+305,Austria,368,Lithuania,1947,0,1000,1000 S,10,10
+305,Austria,385,Norway,1947,16360,1000,1000 S,10,10
+305,Austria,315,Czechoslovakia,1947,155899,1000,1000 S,10,10
+305,Austria,770,Pakistan,1947,0,1000,1000 S,10,10
+305,Austria,3250,Italian Africa,1947,0,1000,1000 S,10,10
+305,Austria,130,Ecuador,1947,0,1000,1000 S,10,10
+305,Austria,640,Turkey,1947,9507,1000,1000 S,10,10
+305,Austria,135,Peru,1947,1823,1000,1000 S,10,10
+305,Austria,235,Portugal,1947,528,1000,1000 S,10,10
+305,Austria,339,Albania,1947,0,1000,1000 S,10,10
+305,Austria,560,South Africa,1947,2886,1000,1000 S,10,10
+305,Austria,100,Colombia,1947,23,1000,1000 S,10,10
+305,Austria,630,Iran,1947,597,1000,1000 S,10,10
+305,Austria,155,Chile,1947,747,1000,1000 S,10,10
+305,Austria,325,Italy,1947,87613,1000,1000 S,10,10
+305,Austria,840,Philippines,1947,17648,1000,1000 S,10,10
+305,Austria,68,Netherlands Antilles,1947,0,1000,1000 S,10,10
+305,Austria,350,Greece,1947,20538,1000,1000 S,10,10
+305,Austria,827,Straits Settlement,1947,0,1000,1000 S,10,10
+305,Austria,291,Danzig,1947,0,1000,1000 S,10,10
+305,Austria,380,Sweden,1947,16290,1000,1000 S,10,10
+305,Austria,310,Hungary,1947,34254,1000,1000 S,10,10
+305,Austria,205,Ireland,1947,207,1000,1000 S,10,10
+305,Austria,150,Paraguay,1947,377,1000,1000 S,10,10
+305,Austria,326,Trieste,1947,1217,1000,1000 S,10,10
+305,Austria,573,British South Africa,1947,2395,1000,1000 S,10,10
+305,Austria,345,Yugoslavia,1947,25888,1000,1000 S,10,10
+305,Austria,375,Finland,1947,659,1000,1000 S,10,10
+305,Austria,710,China,1947,1044,1000,1000 S,10,10
+305,Austria,1050,British West Indies,1947,0,1000,1000 S,10,10
+305,Austria,256,Saar,1947,0,1000,1000 S,10,10
+305,Austria,490,"Congo, Dem. Republic",1947,152,1000,1000 S,10,10
+305,Austria,2005,British Africa,1947,0,1000,1000 S,10,10
+305,Austria,365,Russia,1947,195,1000,1000 S,10,10
+305,Austria,41,Haiti,1947,269,1000,1000 S,10,10
+305,Austria,290,Poland,1947,62827,1000,1000 S,10,10
+305,Austria,615,Algeria,1947,576,1000,1000 S,10,10
+305,Austria,200,United Kingdom,1947,109254,1000,1000 S,10,10
+305,Austria,140,Brazil,1947,24574,1000,1000 S,10,10
+305,Austria,211,Belgium,1947,23005,1000,1000 S,10,10
+305,Austria,20,Canada,1947,674,1000,1000 S,10,10
+305,Austria,3363,Memel,1947,0,1000,1000 S,10,10
+305,Austria,366,Estonia,1947,0,1000,1000 S,10,10
+305,Austria,212,Luxembourg,1947,0,1000,1000 S,10,10
+305,Austria,160,Argentina,1947,1656,1000,1000 S,10,10
+305,Austria,651,Egypt,1947,13503,1000,1000 S,10,10
+305,Austria,145,Bolivia,1947,0,1000,1000 S,10,10
+305,Austria,101,Venezuela,1947,0,1000,1000 S,10,10
+305,Austria,700,Afghanistan,1947,0,1000,1000 S,10,10
+305,Austria,210,Netherlands,1947,30143,1000,1000 S,10,10
+305,Austria,367,Latvia,1947,0,1000,1000 S,10,10
+305,Austria,390,Denmark,1947,25680,1000,1000 S,10,10
+305,Austria,900,Australia,1947,2122,1000,1000 S,10,10
+305,Austria,94,Costa Rica,1947,528,1000,1000 S,10,10
+305,Austria,2305,Spanish Africa,1947,0,1000,1000 S,10,10
+305,Austria,675,Arabia,1947,0,1000,1000 S,10,10
+305,Austria,530,Ethiopia,1947,0,1000,1000 S,10,10
+305,Austria,95,Panama,1947,0,1000,1000 S,10,10
+305,Austria,810,French Indo-China,1947,0,1000,1000 S,10,10
+305,Austria,800,Thailand,1947,136,1000,1000 S,10,10
+305,Austria,670,Saudi Arabia,1947,0,1000,1000 S,10,10
+305,Austria,90,Guatemala,1947,107,1000,1000 S,10,10
+305,Austria,2115,Belgian Africa,1947,0,1000,1000 S,10,10
+305,Austria,620,Libya,1947,0,1000,1000 S,10,10
+305,Austria,93,Nicaragua,1947,0,1000,1000 S,10,10
+305,Austria,616,Tunisia,1947,0,1000,1000 S,10,10
+305,Austria,225,Switzerland,1947,160433,1000,1000 S,10,10
+305,Austria,,,1947,1199912,1000,1000 S,10,10
+305,Austria,710,China,1948,1705,1000,,10,10
+305,Austria,20,Canada,1948,642,1000,,10,10
+305,Austria,780,Sri Lanka,1948,96,1000,,10,10
+305,Austria,40,Cuba,1948,0,1000,,10,10
+305,Austria,900,Australia,1948,0,1000,,10,10
+305,Austria,92,El Salvador,1948,0,1000,,10,10
+305,Austria,255,Germany,1948,228142,1000,,10,10
+305,Austria,368,Lithuania,1948,0,1000,,10,10
+305,Austria,310,Hungary,1948,117242,1000,,10,10
+305,Austria,2305,Spanish Africa,1948,0,1000,,10,10
+305,Austria,375,Finland,1948,2662,1000,,10,10
+305,Austria,230,Spain,1948,7130,1000,,10,10
+305,Austria,211,Belgium,1948,37228,1000,,10,10
+305,Austria,2005,British Africa,1948,0,1000,,10,10
+305,Austria,670,Saudi Arabia,1948,0,1000,,10,10
+305,Austria,616,Tunisia,1948,0,1000,,10,10
+305,Austria,700,Afghanistan,1948,0,1000,,10,10
+305,Austria,530,Ethiopia,1948,0,1000,,10,10
+305,Austria,770,Pakistan,1948,0,1000,,10,10
+305,Austria,91,Honduras,1948,0,1000,,10,10
+305,Austria,850,Indonesia,1948,529,1000,,10,10
+305,Austria,100,Colombia,1948,12,1000,,10,10
+305,Austria,325,Italy,1948,284811,1000,,10,10
+305,Austria,95,Panama,1948,0,1000,,10,10
+305,Austria,800,Thailand,1948,0,1000,,10,10
+305,Austria,367,Latvia,1948,0,1000,,10,10
+305,Austria,2,United States,1948,172608,1000,,10,10
+305,Austria,140,Brazil,1948,20821,1000,,10,10
+305,Austria,365,Russia,1948,18,1000,,10,10
+305,Austria,90,Guatemala,1948,0,1000,,10,10
+305,Austria,94,Costa Rica,1948,0,1000,,10,10
+305,Austria,3250,Italian Africa,1948,0,1000,,10,10
+305,Austria,640,Turkey,1948,21572,1000,,10,10
+305,Austria,827,Straits Settlement,1948,0,1000,,10,10
+305,Austria,68,Netherlands Antilles,1948,0,1000,,10,10
+305,Austria,2355,Portuguese Africa,1948,0,1000,,10,10
+305,Austria,339,Albania,1948,0,1000,,10,10
+305,Austria,360,Romania,1948,22903,1000,,10,10
+305,Austria,775,Myanmar,1948,0,1000,,10,10
+305,Austria,840,Philippines,1948,0,1000,,10,10
+305,Austria,220,France,1948,70153,1000,,10,10
+305,Austria,145,Bolivia,1948,0,1000,,10,10
+305,Austria,41,Haiti,1948,0,1000,,10,10
+305,Austria,560,South Africa,1948,0,1000,,10,10
+305,Austria,920,New Zealand,1948,0,1000,,10,10
+305,Austria,615,Algeria,1948,0,1000,,10,10
+305,Austria,366,Estonia,1948,0,1000,,10,10
+305,Austria,93,Nicaragua,1948,0,1000,,10,10
+305,Austria,390,Denmark,1948,25084,1000,,10,10
+305,Austria,810,French Indo-China,1948,0,1000,,10,10
+305,Austria,675,Arabia,1948,0,1000,,10,10
+305,Austria,155,Chile,1948,985,1000,,10,10
+305,Austria,101,Venezuela,1948,0,1000,,10,10
+305,Austria,130,Ecuador,1948,0,1000,,10,10
+305,Austria,3363,Memel,1948,0,1000,,10,10
+305,Austria,326,Trieste,1948,3266,1000,,10,10
+305,Austria,620,Libya,1948,0,1000,,10,10
+305,Austria,573,British South Africa,1948,0,1000,,10,10
+305,Austria,352,Cyprus,1948,1554,1000,,10,10
+305,Austria,651,Egypt,1948,32668,1000,,10,10
+305,Austria,1050,British West Indies,1948,0,1000,,10,10
+305,Austria,490,"Congo, Dem. Republic",1948,0,1000,,10,10
+305,Austria,290,Poland,1948,119561,1000,,10,10
+305,Austria,625,Sudan,1948,0,1000,,10,10
+305,Austria,315,Czechoslovakia,1948,270187,1000,,10,10
+305,Austria,150,Paraguay,1948,0,1000,,10,10
+305,Austria,2205,French Africa,1948,0,1000,,10,10
+305,Austria,235,Portugal,1948,1334,1000,,10,10
+305,Austria,380,Sweden,1948,41659,1000,,10,10
+305,Austria,630,Iran,1948,1080,1000,,10,10
+305,Austria,665,West Bank And Gaza,1948,491,1000,,10,10
+305,Austria,350,Greece,1948,9814,1000,,10,10
+305,Austria,70,Mexico,1948,5851,1000,,10,10
+305,Austria,200,United Kingdom,1948,143357,1000,,10,10
+305,Austria,355,Bulgaria,1948,34095,1000,,10,10
+305,Austria,205,Ireland,1948,0,1000,,10,10
+305,Austria,160,Argentina,1948,12393,1000,,10,10
+305,Austria,652,Syria,1948,349,1000,,10,10
+305,Austria,80,Belize,1948,0,1000,,10,10
+305,Austria,1060,French West Indies,1948,0,1000,,10,10
+305,Austria,42,Dominican Republic,1948,4362,1000,,10,10
+305,Austria,750,India,1948,46251,1000,,10,10
+305,Austria,660,Lebanon,1948,0,1000,,10,10
+305,Austria,225,Switzerland,1948,220376,1000,,10,10
+305,Austria,740,Japan,1948,332,1000,,10,10
+305,Austria,291,Danzig,1948,0,1000,,10,10
+305,Austria,210,Netherlands,1948,64683,1000,,10,10
+305,Austria,135,Peru,1948,40,1000,,10,10
+305,Austria,212,Luxembourg,1948,0,1000,,10,10
+305,Austria,165,Uruguay,1948,533,1000,,10,10
+305,Austria,345,Yugoslavia,1948,122804,1000,,10,10
+305,Austria,256,Saar,1948,0,1000,,10,10
+305,Austria,,,1948,2248376,1000,,10,10
+305,Austria,2115,Belgian Africa,1948,0,1000,,10,10
+305,Austria,645,Iraq,1948,1006,1000,,10,10
+305,Austria,385,Norway,1948,17133,1000,,10,10
+305,Austria,92,El Salvador,1949,26,1000,1000 S,11.627,11.627
+305,Austria,660,Lebanon,1949,4022,1000,1000 S,11.627,11.627
+305,Austria,560,South Africa,1949,12372,1000,1000 S,11.627,11.627
+305,Austria,615,Algeria,1949,2763,1000,1000 S,11.627,11.627
+305,Austria,255,Germany,1949,763600,1000,1000 S,11.627,11.627
+305,Austria,1060,French West Indies,1949,0,1000,1000 S,11.627,11.627
+305,Austria,665,West Bank And Gaza,1949,8400,1000,1000 S,11.627,11.627
+305,Austria,145,Bolivia,1949,0,1000,1000 S,11.627,11.627
+305,Austria,1050,British West Indies,1949,1247,1000,1000 S,11.627,11.627
+305,Austria,68,Netherlands Antilles,1949,0,1000,1000 S,11.627,11.627
+305,Austria,2,United States,1949,1842658,1000,1000 S,11.627,11.627
+305,Austria,200,United Kingdom,1949,286304,1000,1000 S,11.627,11.627
+305,Austria,750,India,1949,38946,1000,1000 S,11.627,11.627
+305,Austria,355,Bulgaria,1949,45348,1000,1000 S,11.627,11.627
+305,Austria,256,Saar,1949,0,1000,1000 S,11.627,11.627
+305,Austria,700,Afghanistan,1949,0,1000,1000 S,11.627,11.627
+305,Austria,95,Panama,1949,512,1000,1000 S,11.627,11.627
+305,Austria,2115,Belgian Africa,1949,0,1000,1000 S,11.627,11.627
+305,Austria,625,Sudan,1949,876,1000,1000 S,11.627,11.627
+305,Austria,645,Iraq,1949,720,1000,1000 S,11.627,11.627
+305,Austria,490,"Congo, Dem. Republic",1949,1889,1000,1000 S,11.627,11.627
+305,Austria,290,Poland,1949,241871,1000,1000 S,11.627,11.627
+305,Austria,2355,Portuguese Africa,1949,0,1000,1000 S,11.627,11.627
+305,Austria,368,Lithuania,1949,0,1000,1000 S,11.627,11.627
+305,Austria,20,Canada,1949,36949,1000,1000 S,11.627,11.627
+305,Austria,640,Turkey,1949,62017,1000,1000 S,11.627,11.627
+305,Austria,630,Iran,1949,8794,1000,1000 S,11.627,11.627
+305,Austria,325,Italy,1949,545570,1000,1000 S,11.627,11.627
+305,Austria,375,Finland,1949,4078,1000,1000 S,11.627,11.627
+305,Austria,155,Chile,1949,7672,1000,1000 S,11.627,11.627
+305,Austria,800,Thailand,1949,768,1000,1000 S,11.627,11.627
+305,Austria,827,Straits Settlement,1949,0,1000,1000 S,11.627,11.627
+305,Austria,670,Saudi Arabia,1949,0,1000,1000 S,11.627,11.627
+305,Austria,91,Honduras,1949,25,1000,1000 S,11.627,11.627
+305,Austria,225,Switzerland,1949,214212,1000,1000 S,11.627,11.627
+305,Austria,920,New Zealand,1949,15856,1000,1000 S,11.627,11.627
+305,Austria,165,Uruguay,1949,7799,1000,1000 S,11.627,11.627
+305,Austria,94,Costa Rica,1949,917,1000,1000 S,11.627,11.627
+305,Austria,2305,Spanish Africa,1949,0,1000,1000 S,11.627,11.627
+305,Austria,100,Colombia,1949,2856,1000,1000 S,11.627,11.627
+305,Austria,780,Sri Lanka,1949,5313,1000,1000 S,11.627,11.627
+305,Austria,710,China,1949,2042,1000,1000 S,11.627,11.627
+305,Austria,365,Russia,1949,688,1000,1000 S,11.627,11.627
+305,Austria,150,Paraguay,1949,3837,1000,1000 S,11.627,11.627
+305,Austria,210,Netherlands,1949,174599,1000,1000 S,11.627,11.627
+305,Austria,367,Latvia,1949,0,1000,1000 S,11.627,11.627
+305,Austria,90,Guatemala,1949,1969,1000,1000 S,11.627,11.627
+305,Austria,350,Greece,1949,81034,1000,1000 S,11.627,11.627
+305,Austria,310,Hungary,1949,202253,1000,1000 S,11.627,11.627
+305,Austria,345,Yugoslavia,1949,178851,1000,1000 S,11.627,11.627
+305,Austria,160,Argentina,1949,34118,1000,1000 S,11.627,11.627
+305,Austria,3250,Italian Africa,1949,0,1000,1000 S,11.627,11.627
+305,Austria,775,Myanmar,1949,38,1000,1000 S,11.627,11.627
+305,Austria,211,Belgium,1949,139803,1000,1000 S,11.627,11.627
+305,Austria,220,France,1949,202351,1000,1000 S,11.627,11.627
+305,Austria,900,Australia,1949,36156,1000,1000 S,11.627,11.627
+305,Austria,130,Ecuador,1949,530,1000,1000 S,11.627,11.627
+305,Austria,385,Norway,1949,44518,1000,1000 S,11.627,11.627
+305,Austria,291,Danzig,1949,0,1000,1000 S,11.627,11.627
+305,Austria,326,Trieste,1949,28544,1000,1000 S,11.627,11.627
+305,Austria,740,Japan,1949,1602,1000,1000 S,11.627,11.627
+305,Austria,840,Philippines,1949,68161,1000,1000 S,11.627,11.627
+305,Austria,40,Cuba,1949,106454,1000,1000 S,11.627,11.627
+305,Austria,235,Portugal,1949,2939,1000,1000 S,11.627,11.627
+305,Austria,80,Belize,1949,0,1000,1000 S,11.627,11.627
+305,Austria,770,Pakistan,1949,22679,1000,1000 S,11.627,11.627
+305,Austria,616,Tunisia,1949,421,1000,1000 S,11.627,11.627
+305,Austria,2005,British Africa,1949,0,1000,1000 S,11.627,11.627
+305,Austria,212,Luxembourg,1949,0,1000,1000 S,11.627,11.627
+305,Austria,651,Egypt,1949,60105,1000,1000 S,11.627,11.627
+305,Austria,140,Brazil,1949,67306,1000,1000 S,11.627,11.627
+305,Austria,652,Syria,1949,2698,1000,1000 S,11.627,11.627
+305,Austria,620,Libya,1949,201,1000,1000 S,11.627,11.627
+305,Austria,675,Arabia,1949,0,1000,1000 S,11.627,11.627
+305,Austria,41,Haiti,1949,173,1000,1000 S,11.627,11.627
+305,Austria,530,Ethiopia,1949,93,1000,1000 S,11.627,11.627
+305,Austria,352,Cyprus,1949,2911,1000,1000 S,11.627,11.627
+305,Austria,135,Peru,1949,2622,1000,1000 S,11.627,11.627
+305,Austria,339,Albania,1949,0,1000,1000 S,11.627,11.627
+305,Austria,101,Venezuela,1949,376,1000,1000 S,11.627,11.627
+305,Austria,230,Spain,1949,20525,1000,1000 S,11.627,11.627
+305,Austria,3363,Memel,1949,0,1000,1000 S,11.627,11.627
+305,Austria,315,Czechoslovakia,1949,391132,1000,1000 S,11.627,11.627
+305,Austria,366,Estonia,1949,0,1000,1000 S,11.627,11.627
+305,Austria,573,British South Africa,1949,4612,1000,1000 S,11.627,11.627
+305,Austria,205,Ireland,1949,135,1000,1000 S,11.627,11.627
+305,Austria,850,Indonesia,1949,16714,1000,1000 S,11.627,11.627
+305,Austria,70,Mexico,1949,7768,1000,1000 S,11.627,11.627
+305,Austria,810,French Indo-China,1949,0,1000,1000 S,11.627,11.627
+305,Austria,42,Dominican Republic,1949,3178,1000,1000 S,11.627,11.627
+305,Austria,2205,French Africa,1949,702,1000,1000 S,11.627,11.627
+305,Austria,93,Nicaragua,1949,8,1000,1000 S,11.627,11.627
+305,Austria,360,Romania,1949,58566,1000,1000 S,11.627,11.627
+305,Austria,390,Denmark,1949,51339,1000,1000 S,11.627,11.627
+305,Austria,380,Sweden,1949,72249,1000,1000 S,11.627,11.627
+305,Austria,,,1949,6470384,1000,1000 S,11.627,11.627
+305,Austria,,,1915,,,,6.5297,6.5297
+305,Austria,,,1916,,,,8.0138,8.0138
+305,Austria,,,1917,,,,10.1365,10.1365
+305,Austria,,,1918,,,,10.0041,10.0041
+305,Austria,,,1919,,,,54.0152,54.0152
+305,Austria,,,1920,,,,242.4121,242.4121
+305,Austria,,,1921,,,,1137.5203,1137.5203
+305,Austria,,,1938,,,,5.2857,5.2857
+305,Austria,,,1939,,,,5.285,5.285
+305,Austria,,,1940,,,,5.285,5.285
+305,Austria,,,1941,,,,5.285,5.285
+305,Austria,,,1942,,,,5.285,5.285
+305,Austria,,,1943,,,,5.285,5.285
+305,Austria,,,1944,,,,5.285,5.285
+305,Austria,,,1945,,,,8.089700000000001,8.089700000000001
+305,Austria,,,1946,,,,10,10
+305,Austria,,,1950,,,,30.1278,30.1278

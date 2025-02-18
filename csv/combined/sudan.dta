@@ -1,0 +1,433 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+625,Sudan,2,United States,1917,1058,1,Egyptian Pounds
+625,Sudan,2,United States,1918,1,1,Egyptian Pounds
+625,Sudan,2,United States,1919,419,1,Egyptian Pounds
+625,Sudan,2,United States,1920,33871,1,Egyptian Pounds
+625,Sudan,2,United States,1921,55511,1,Egyptian Pounds
+625,Sudan,2,United States,1922,105974,1,Egyptian Pounds
+625,Sudan,2,United States,1923,95208,1,Egyptian Pounds
+625,Sudan,2,United States,1924,80263,1,Egyptian Pounds
+625,Sudan,2,United States,1925,65927,1,Egyptian Pounds
+625,Sudan,2,United States,1926,46348,1,Egyptian Pounds
+625,Sudan,2,United States,1927,120164,1,Egyptian Pounds
+625,Sudan,2,United States,1928,169418,1,Egyptian Pounds
+625,Sudan,2,United States,1929,174696,1,Egyptian Pounds
+625,Sudan,2,United States,1930,160117,1,Egyptian Pounds
+625,Sudan,2,United States,1932,31037,1,Egyptian Pounds
+625,Sudan,2,United States,1933,28516,1,Egyptian Pounds
+625,Sudan,20,Canada,1917,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1918,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1919,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1920,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1921,504,1,Egyptian Pounds
+625,Sudan,20,Canada,1922,25608,1,Egyptian Pounds
+625,Sudan,20,Canada,1923,909,1,Egyptian Pounds
+625,Sudan,20,Canada,1924,1442,1,Egyptian Pounds
+625,Sudan,20,Canada,1925,51559,1,Egyptian Pounds
+625,Sudan,20,Canada,1926,162,1,Egyptian Pounds
+625,Sudan,20,Canada,1927,181,1,Egyptian Pounds
+625,Sudan,20,Canada,1928,39,1,Egyptian Pounds
+625,Sudan,20,Canada,1929,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1930,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1932,0,1,Egyptian Pounds
+625,Sudan,20,Canada,1933,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1917,180,1,Egyptian Pounds
+625,Sudan,140,Brazil,1918,350,1,Egyptian Pounds
+625,Sudan,140,Brazil,1919,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1920,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1921,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1922,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1923,13542,1,Egyptian Pounds
+625,Sudan,140,Brazil,1924,28249,1,Egyptian Pounds
+625,Sudan,140,Brazil,1925,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1926,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1927,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1928,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1929,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1930,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1932,0,1,Egyptian Pounds
+625,Sudan,140,Brazil,1933,0,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1917,396260,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1918,176933,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1919,682981,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1920,1506679,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1921,1585077,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1922,1034000,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1923,1533671,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1924,1648903,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1925,1788330,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1926,1724107,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1927,2257144,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1928,2250247,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1929,2177468,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1930,2117522,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1932,692623,1,Egyptian Pounds
+625,Sudan,200,United Kingdom,1933,799047,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1917,258,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1918,98,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1919,2797,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1920,9747,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1921,17694,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1922,20201,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1923,33510,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1924,27340,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1925,38996,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1926,25227,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1927,31532,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1928,53817,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1929,22658,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1930,20499,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1932,52021,1,Egyptian Pounds
+625,Sudan,210,Netherlands,1933,8940,1,Egyptian Pounds
+625,Sudan,211,Belgium,1917,0,1,Egyptian Pounds
+625,Sudan,211,Belgium,1918,0,1,Egyptian Pounds
+625,Sudan,211,Belgium,1919,0,1,Egyptian Pounds
+625,Sudan,211,Belgium,1920,0,1,Egyptian Pounds
+625,Sudan,211,Belgium,1921,0,1,Egyptian Pounds
+625,Sudan,211,Belgium,1922,175961,1,Egyptian Pounds
+625,Sudan,211,Belgium,1923,41384,1,Egyptian Pounds
+625,Sudan,211,Belgium,1924,60103,1,Egyptian Pounds
+625,Sudan,211,Belgium,1925,122042,1,Egyptian Pounds
+625,Sudan,211,Belgium,1926,415701,1,Egyptian Pounds
+625,Sudan,211,Belgium,1927,247976,1,Egyptian Pounds
+625,Sudan,211,Belgium,1928,406732,1,Egyptian Pounds
+625,Sudan,211,Belgium,1929,535757,1,Egyptian Pounds
+625,Sudan,211,Belgium,1930,521505,1,Egyptian Pounds
+625,Sudan,211,Belgium,1932,143720,1,Egyptian Pounds
+625,Sudan,211,Belgium,1933,66918,1,Egyptian Pounds
+625,Sudan,220,France,1917,2064,1,Egyptian Pounds
+625,Sudan,220,France,1918,1297,1,Egyptian Pounds
+625,Sudan,220,France,1919,1722,1,Egyptian Pounds
+625,Sudan,220,France,1920,14673,1,Egyptian Pounds
+625,Sudan,220,France,1921,57629,1,Egyptian Pounds
+625,Sudan,220,France,1922,47148,1,Egyptian Pounds
+625,Sudan,220,France,1923,64118,1,Egyptian Pounds
+625,Sudan,220,France,1924,79248,1,Egyptian Pounds
+625,Sudan,220,France,1925,98097,1,Egyptian Pounds
+625,Sudan,220,France,1926,84894,1,Egyptian Pounds
+625,Sudan,220,France,1927,126758,1,Egyptian Pounds
+625,Sudan,220,France,1928,112009,1,Egyptian Pounds
+625,Sudan,220,France,1929,113124,1,Egyptian Pounds
+625,Sudan,220,France,1930,122813,1,Egyptian Pounds
+625,Sudan,220,France,1932,37710,1,Egyptian Pounds
+625,Sudan,220,France,1933,34434,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1917,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1918,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1919,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1920,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1921,31302,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1922,1088,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1923,871,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1924,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1925,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1926,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1927,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1928,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1929,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1930,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1932,0,1,Egyptian Pounds
+625,Sudan,225,Switzerland,1933,0,1,Egyptian Pounds
+625,Sudan,255,Germany,1917,0,1,Egyptian Pounds
+625,Sudan,255,Germany,1918,0,1,Egyptian Pounds
+625,Sudan,255,Germany,1919,0,1,Egyptian Pounds
+625,Sudan,255,Germany,1920,0,1,Egyptian Pounds
+625,Sudan,255,Germany,1921,21917,1,Egyptian Pounds
+625,Sudan,255,Germany,1922,54176,1,Egyptian Pounds
+625,Sudan,255,Germany,1923,55342,1,Egyptian Pounds
+625,Sudan,255,Germany,1924,74258,1,Egyptian Pounds
+625,Sudan,255,Germany,1925,52680,1,Egyptian Pounds
+625,Sudan,255,Germany,1926,65616,1,Egyptian Pounds
+625,Sudan,255,Germany,1927,69169,1,Egyptian Pounds
+625,Sudan,255,Germany,1928,80122,1,Egyptian Pounds
+625,Sudan,255,Germany,1929,85380,1,Egyptian Pounds
+625,Sudan,255,Germany,1930,97120,1,Egyptian Pounds
+625,Sudan,255,Germany,1932,29246,1,Egyptian Pounds
+625,Sudan,255,Germany,1933,30749,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1917,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1918,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1919,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1920,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1921,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1922,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1923,4366,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1924,6568,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1925,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1926,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1927,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1928,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1929,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1930,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1932,0,1,Egyptian Pounds
+625,Sudan,315,Czechoslovakia,1933,0,1,Egyptian Pounds
+625,Sudan,325,Italy,1917,11775,1,Egyptian Pounds
+625,Sudan,325,Italy,1918,627,1,Egyptian Pounds
+625,Sudan,325,Italy,1919,2541,1,Egyptian Pounds
+625,Sudan,325,Italy,1920,18291,1,Egyptian Pounds
+625,Sudan,325,Italy,1921,74487,1,Egyptian Pounds
+625,Sudan,325,Italy,1922,56556,1,Egyptian Pounds
+625,Sudan,325,Italy,1923,65655,1,Egyptian Pounds
+625,Sudan,325,Italy,1924,130343,1,Egyptian Pounds
+625,Sudan,325,Italy,1925,98907,1,Egyptian Pounds
+625,Sudan,325,Italy,1926,91001,1,Egyptian Pounds
+625,Sudan,325,Italy,1927,89162,1,Egyptian Pounds
+625,Sudan,325,Italy,1928,124547,1,Egyptian Pounds
+625,Sudan,325,Italy,1929,155036,1,Egyptian Pounds
+625,Sudan,325,Italy,1930,165770,1,Egyptian Pounds
+625,Sudan,325,Italy,1932,34980,1,Egyptian Pounds
+625,Sudan,325,Italy,1933,36275,1,Egyptian Pounds
+625,Sudan,338,Malta,1917,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1918,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1919,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1920,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1921,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1922,31291,1,Egyptian Pounds
+625,Sudan,338,Malta,1923,963,1,Egyptian Pounds
+625,Sudan,338,Malta,1924,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1925,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1926,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1927,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1928,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1929,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1930,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1932,0,1,Egyptian Pounds
+625,Sudan,338,Malta,1933,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1917,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1918,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1919,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1920,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1921,2171,1,Egyptian Pounds
+625,Sudan,350,Greece,1922,5965,1,Egyptian Pounds
+625,Sudan,350,Greece,1923,5527,1,Egyptian Pounds
+625,Sudan,350,Greece,1924,4799,1,Egyptian Pounds
+625,Sudan,350,Greece,1925,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1926,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1927,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1928,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1929,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1930,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1932,0,1,Egyptian Pounds
+625,Sudan,350,Greece,1933,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1917,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1918,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1919,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1920,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1921,2497,1,Egyptian Pounds
+625,Sudan,380,Sweden,1922,8077,1,Egyptian Pounds
+625,Sudan,380,Sweden,1923,7246,1,Egyptian Pounds
+625,Sudan,380,Sweden,1924,10790,1,Egyptian Pounds
+625,Sudan,380,Sweden,1925,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1926,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1927,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1928,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1929,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1930,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1932,0,1,Egyptian Pounds
+625,Sudan,380,Sweden,1933,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1917,11,1,Egyptian Pounds
+625,Sudan,500,Uganda,1918,4264,1,Egyptian Pounds
+625,Sudan,500,Uganda,1919,7715,1,Egyptian Pounds
+625,Sudan,500,Uganda,1920,4392,1,Egyptian Pounds
+625,Sudan,500,Uganda,1921,566,1,Egyptian Pounds
+625,Sudan,500,Uganda,1922,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1923,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1924,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1925,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1926,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1927,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1928,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1929,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1930,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1932,0,1,Egyptian Pounds
+625,Sudan,500,Uganda,1933,0,1,Egyptian Pounds
+625,Sudan,501,Kenya,1917,0,1,Egyptian Pounds
+625,Sudan,501,Kenya,1918,0,1,Egyptian Pounds
+625,Sudan,501,Kenya,1919,0,1,Egyptian Pounds
+625,Sudan,501,Kenya,1920,0,1,Egyptian Pounds
+625,Sudan,501,Kenya,1921,9937,1,Egyptian Pounds
+625,Sudan,501,Kenya,1922,28223,1,Egyptian Pounds
+625,Sudan,501,Kenya,1923,28143,1,Egyptian Pounds
+625,Sudan,501,Kenya,1924,40779,1,Egyptian Pounds
+625,Sudan,501,Kenya,1925,40423,1,Egyptian Pounds
+625,Sudan,501,Kenya,1926,34138,1,Egyptian Pounds
+625,Sudan,501,Kenya,1927,47826,1,Egyptian Pounds
+625,Sudan,501,Kenya,1928,41944,1,Egyptian Pounds
+625,Sudan,501,Kenya,1929,43175,1,Egyptian Pounds
+625,Sudan,501,Kenya,1930,47778,1,Egyptian Pounds
+625,Sudan,501,Kenya,1932,45593,1,Egyptian Pounds
+625,Sudan,501,Kenya,1933,52674,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1917,115635,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1918,181558,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1919,150388,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1920,260739,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1921,170135,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1922,244640,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1923,182689,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1924,259067,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1925,303943,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1926,238523,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1927,180598,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1928,201793,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1929,237287,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1930,234300,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1932,171484,1,Egyptian Pounds
+625,Sudan,530,Ethiopia,1933,154862,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1917,25428,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1918,26837,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1919,25596,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1920,68152,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1921,44587,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1922,24771,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1923,18477,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1924,24002,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1925,24556,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1926,40757,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1927,21491,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1928,12343,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1929,11854,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1930,6414,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1932,2419,1,Egyptian Pounds
+625,Sudan,531,Eritrea,1933,3994,1,Egyptian Pounds
+625,Sudan,630,Iran,1917,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1918,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1919,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1920,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1921,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1922,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1923,18321,1,Egyptian Pounds
+625,Sudan,630,Iran,1924,27820,1,Egyptian Pounds
+625,Sudan,630,Iran,1925,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1926,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1927,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1928,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1929,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1930,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1932,0,1,Egyptian Pounds
+625,Sudan,630,Iran,1933,0,1,Egyptian Pounds
+625,Sudan,651,Egypt,1917,1845162,1,Egyptian Pounds
+625,Sudan,651,Egypt,1918,2776779,1,Egyptian Pounds
+625,Sudan,651,Egypt,1919,2931454,1,Egyptian Pounds
+625,Sudan,651,Egypt,1920,3868335,1,Egyptian Pounds
+625,Sudan,651,Egypt,1921,2309931,1,Egyptian Pounds
+625,Sudan,651,Egypt,1922,1660342,1,Egyptian Pounds
+625,Sudan,651,Egypt,1923,1534497,1,Egyptian Pounds
+625,Sudan,651,Egypt,1924,1824945,1,Egyptian Pounds
+625,Sudan,651,Egypt,1925,1614725,1,Egyptian Pounds
+625,Sudan,651,Egypt,1926,1381984,1,Egyptian Pounds
+625,Sudan,651,Egypt,1927,1733904,1,Egyptian Pounds
+625,Sudan,651,Egypt,1928,1657433,1,Egyptian Pounds
+625,Sudan,651,Egypt,1929,1590446,1,Egyptian Pounds
+625,Sudan,651,Egypt,1930,1335370,1,Egyptian Pounds
+625,Sudan,651,Egypt,1932,668336,1,Egyptian Pounds
+625,Sudan,651,Egypt,1933,766724,1,Egyptian Pounds
+625,Sudan,675,Arabia,1917,18554,1,Egyptian Pounds
+625,Sudan,675,Arabia,1918,15400,1,Egyptian Pounds
+625,Sudan,675,Arabia,1919,26685,1,Egyptian Pounds
+625,Sudan,675,Arabia,1920,16202,1,Egyptian Pounds
+625,Sudan,675,Arabia,1921,14365,1,Egyptian Pounds
+625,Sudan,675,Arabia,1922,10785,1,Egyptian Pounds
+625,Sudan,675,Arabia,1923,9859,1,Egyptian Pounds
+625,Sudan,675,Arabia,1924,9129,1,Egyptian Pounds
+625,Sudan,675,Arabia,1925,20206,1,Egyptian Pounds
+625,Sudan,675,Arabia,1926,29642,1,Egyptian Pounds
+625,Sudan,675,Arabia,1927,13908,1,Egyptian Pounds
+625,Sudan,675,Arabia,1928,4702,1,Egyptian Pounds
+625,Sudan,675,Arabia,1929,6798,1,Egyptian Pounds
+625,Sudan,675,Arabia,1930,9257,1,Egyptian Pounds
+625,Sudan,675,Arabia,1932,66036,1,Egyptian Pounds
+625,Sudan,675,Arabia,1933,16083,1,Egyptian Pounds
+625,Sudan,710,China,1917,0,1,Egyptian Pounds
+625,Sudan,710,China,1918,0,1,Egyptian Pounds
+625,Sudan,710,China,1919,0,1,Egyptian Pounds
+625,Sudan,710,China,1920,0,1,Egyptian Pounds
+625,Sudan,710,China,1921,0,1,Egyptian Pounds
+625,Sudan,710,China,1922,0,1,Egyptian Pounds
+625,Sudan,710,China,1923,5726,1,Egyptian Pounds
+625,Sudan,710,China,1924,31043,1,Egyptian Pounds
+625,Sudan,710,China,1925,0,1,Egyptian Pounds
+625,Sudan,710,China,1926,0,1,Egyptian Pounds
+625,Sudan,710,China,1927,0,1,Egyptian Pounds
+625,Sudan,710,China,1928,0,1,Egyptian Pounds
+625,Sudan,710,China,1929,0,1,Egyptian Pounds
+625,Sudan,710,China,1930,0,1,Egyptian Pounds
+625,Sudan,710,China,1932,0,1,Egyptian Pounds
+625,Sudan,710,China,1933,0,1,Egyptian Pounds
+625,Sudan,740,Japan,1917,241,1,Egyptian Pounds
+625,Sudan,740,Japan,1918,10990,1,Egyptian Pounds
+625,Sudan,740,Japan,1919,9626,1,Egyptian Pounds
+625,Sudan,740,Japan,1920,19767,1,Egyptian Pounds
+625,Sudan,740,Japan,1921,46868,1,Egyptian Pounds
+625,Sudan,740,Japan,1922,59990,1,Egyptian Pounds
+625,Sudan,740,Japan,1923,270819,1,Egyptian Pounds
+625,Sudan,740,Japan,1924,289811,1,Egyptian Pounds
+625,Sudan,740,Japan,1925,332288,1,Egyptian Pounds
+625,Sudan,740,Japan,1926,301968,1,Egyptian Pounds
+625,Sudan,740,Japan,1927,297107,1,Egyptian Pounds
+625,Sudan,740,Japan,1928,295397,1,Egyptian Pounds
+625,Sudan,740,Japan,1929,460741,1,Egyptian Pounds
+625,Sudan,740,Japan,1930,382428,1,Egyptian Pounds
+625,Sudan,740,Japan,1932,422675,1,Egyptian Pounds
+625,Sudan,740,Japan,1933,558750,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1917,3819,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1918,5920,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1919,4180,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1920,9056,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1921,749,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1922,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1923,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1924,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1925,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1926,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1927,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1928,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1929,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1930,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1932,0,1,Egyptian Pounds
+625,Sudan,780,Sri Lanka,1933,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1917,406,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1918,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1919,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1920,77,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1921,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1922,841,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1923,778,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1924,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1925,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1926,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1927,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1928,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1929,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1930,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1932,0,1,Egyptian Pounds
+625,Sudan,827,Straits Settlement,1933,0,1,Egyptian Pounds
+625,Sudan,900,Australia,1917,0,1,Egyptian Pounds
+625,Sudan,900,Australia,1918,0,1,Egyptian Pounds
+625,Sudan,900,Australia,1919,4928,1,Egyptian Pounds
+625,Sudan,900,Australia,1920,25565,1,Egyptian Pounds
+625,Sudan,900,Australia,1921,53268,1,Egyptian Pounds
+625,Sudan,900,Australia,1922,13019,1,Egyptian Pounds
+625,Sudan,900,Australia,1923,67241,1,Egyptian Pounds
+625,Sudan,900,Australia,1924,102708,1,Egyptian Pounds
+625,Sudan,900,Australia,1925,18020,1,Egyptian Pounds
+625,Sudan,900,Australia,1926,55485,1,Egyptian Pounds
+625,Sudan,900,Australia,1927,50032,1,Egyptian Pounds
+625,Sudan,900,Australia,1928,44095,1,Egyptian Pounds
+625,Sudan,900,Australia,1929,96685,1,Egyptian Pounds
+625,Sudan,900,Australia,1930,87614,1,Egyptian Pounds
+625,Sudan,900,Australia,1932,95039,1,Egyptian Pounds
+625,Sudan,900,Australia,1933,82283,1,Egyptian Pounds
+625,Sudan,,,1917,3783383,1,Egyptian Pounds
+625,Sudan,,,1918,4848110,1,Egyptian Pounds
+625,Sudan,,,1919,5760458,1,Egyptian Pounds
+625,Sudan,,,1920,8158184,1,Egyptian Pounds
+625,Sudan,,,1921,7112945,1,Egyptian Pounds
+625,Sudan,,,1922,4897124,1,Egyptian Pounds
+625,Sudan,,,1923,5279146,1,Egyptian Pounds
+625,Sudan,,,1924,6188210,1,Egyptian Pounds
+625,Sudan,,,1925,6204755,1,Egyptian Pounds
+625,Sudan,,,1926,6613249,1,Egyptian Pounds
+625,Sudan,,,1927,7023676,1,Egyptian Pounds
+625,Sudan,,,1928,7471774,1,Egyptian Pounds
+625,Sudan,,,1929,8001123,1,Egyptian Pounds
+625,Sudan,,,1930,7046313,1,Egyptian Pounds
+625,Sudan,,,1932,3616369,1,Egyptian Pounds
+625,Sudan,,,1933,3680989,1,Egyptian Pounds

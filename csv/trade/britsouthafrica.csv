@@ -1,0 +1,2281 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+573,2,1910,2740333,1,Pounds,British South Africa,United States
+573,2,1911,2918388,1,Pounds,British South Africa,United States
+573,2,1912,3314776,1,Pounds,British South Africa,United States
+573,2,1913,3776307,1,Pounds,British South Africa,United States
+573,2,1914,3108246,1,Pounds,British South Africa,United States
+573,2,1915,4532053,1,Pounds,British South Africa,United States
+573,2,1916,6240381,1,,British South Africa,United States
+573,2,1917,6452553,1,,British South Africa,United States
+573,2,1918,6771238,1,,British South Africa,United States
+573,2,1919,11546808,1,,British South Africa,United States
+573,2,1920,17311535,1,,British South Africa,United States
+573,2,1921,8244699,1,,British South Africa,United States
+573,2,1922,5878769,1,,British South Africa,United States
+573,2,1923,7225771,1,,British South Africa,United States
+573,2,1924,9160259,,,British South Africa,United States
+573,2,1925,9915473,,,British South Africa,United States
+573,2,1926,11915251,,,British South Africa,United States
+573,2,1927,12113555,,,British South Africa,United States
+573,2,1928,13570945,,,British South Africa,United States
+573,2,1929,15842187,,,British South Africa,United States
+573,3,1910,0,1,Pounds,British South Africa,Alaska
+573,3,1911,0,1,Pounds,British South Africa,Alaska
+573,3,1912,0,1,Pounds,British South Africa,Alaska
+573,3,1913,0,1,Pounds,British South Africa,Alaska
+573,3,1914,0,1,Pounds,British South Africa,Alaska
+573,3,1915,0,1,Pounds,British South Africa,Alaska
+573,3,1916,0,1,,British South Africa,Alaska
+573,3,1917,0,1,,British South Africa,Alaska
+573,3,1918,0,1,,British South Africa,Alaska
+573,3,1919,0,1,,British South Africa,Alaska
+573,3,1920,0,1,,British South Africa,Alaska
+573,3,1921,0,1,,British South Africa,Alaska
+573,3,1922,0,1,,British South Africa,Alaska
+573,3,1923,0,1,,British South Africa,Alaska
+573,20,1910,647750,1,Pounds,British South Africa,Canada
+573,20,1911,654812,1,Pounds,British South Africa,Canada
+573,20,1912,680707,1,Pounds,British South Africa,Canada
+573,20,1913,880222,1,Pounds,British South Africa,Canada
+573,20,1914,803587,1,Pounds,British South Africa,Canada
+573,20,1915,1005160,1,Pounds,British South Africa,Canada
+573,20,1916,887664,1,,British South Africa,Canada
+573,20,1917,967842,1,,British South Africa,Canada
+573,20,1918,1050209,1,,British South Africa,Canada
+573,20,1919,1922845,1,,British South Africa,Canada
+573,20,1920,2712597,1,,British South Africa,Canada
+573,20,1921,1660273,1,,British South Africa,Canada
+573,20,1922,1194585,1,,British South Africa,Canada
+573,20,1923,1868663,1,,British South Africa,Canada
+573,20,1924,2273912,,,British South Africa,Canada
+573,20,1925,2335851,,,British South Africa,Canada
+573,20,1926,2235805,,,British South Africa,Canada
+573,20,1927,2182924,,,British South Africa,Canada
+573,20,1928,2407979,,,British South Africa,Canada
+573,20,1929,3003591,,,British South Africa,Canada
+573,21,1910,52,1,Pounds,British South Africa,Newfoundland
+573,21,1911,32,1,Pounds,British South Africa,Newfoundland
+573,21,1912,3,1,Pounds,British South Africa,Newfoundland
+573,21,1913,4,1,Pounds,British South Africa,Newfoundland
+573,21,1914,0,1,Pounds,British South Africa,Newfoundland
+573,21,1915,26,1,Pounds,British South Africa,Newfoundland
+573,21,1916,601,1,,British South Africa,Newfoundland
+573,21,1917,855,1,,British South Africa,Newfoundland
+573,21,1918,624,1,,British South Africa,Newfoundland
+573,21,1919,804,1,,British South Africa,Newfoundland
+573,21,1920,258,1,,British South Africa,Newfoundland
+573,21,1921,84,1,,British South Africa,Newfoundland
+573,21,1922,735,1,,British South Africa,Newfoundland
+573,21,1923,1369,1,,British South Africa,Newfoundland
+573,21,1924,1267,,,British South Africa,Newfoundland
+573,21,1925,926,,,British South Africa,Newfoundland
+573,21,1926,168,,,British South Africa,Newfoundland
+573,21,1927,14,,,British South Africa,Newfoundland
+573,21,1928,18,,,British South Africa,Newfoundland
+573,21,1929,68,,,British South Africa,Newfoundland
+573,40,1910,26970,1,Pounds,British South Africa,Cuba
+573,40,1911,32935,1,Pounds,British South Africa,Cuba
+573,40,1912,25116,1,Pounds,British South Africa,Cuba
+573,40,1913,22206,1,Pounds,British South Africa,Cuba
+573,40,1914,19454,1,Pounds,British South Africa,Cuba
+573,40,1915,18272,1,Pounds,British South Africa,Cuba
+573,40,1916,26694,1,,British South Africa,Cuba
+573,40,1917,25727,1,,British South Africa,Cuba
+573,40,1918,28950,1,,British South Africa,Cuba
+573,40,1919,35243,1,,British South Africa,Cuba
+573,40,1920,73504,1,,British South Africa,Cuba
+573,40,1921,20543,1,,British South Africa,Cuba
+573,40,1922,20993,1,,British South Africa,Cuba
+573,40,1923,24297,1,,British South Africa,Cuba
+573,40,1924,27256,,,British South Africa,Cuba
+573,40,1925,28674,,,British South Africa,Cuba
+573,40,1926,28718,,,British South Africa,Cuba
+573,40,1927,34353,,,British South Africa,Cuba
+573,40,1928,32568,,,British South Africa,Cuba
+573,40,1929,35870,,,British South Africa,Cuba
+573,41,1910,0,1,Pounds,British South Africa,Haiti
+573,41,1911,0,1,Pounds,British South Africa,Haiti
+573,41,1912,0,1,Pounds,British South Africa,Haiti
+573,41,1913,0,1,Pounds,British South Africa,Haiti
+573,41,1914,0,1,Pounds,British South Africa,Haiti
+573,41,1915,0,1,Pounds,British South Africa,Haiti
+573,41,1916,0,1,,British South Africa,Haiti
+573,41,1917,0,1,,British South Africa,Haiti
+573,41,1918,0,1,,British South Africa,Haiti
+573,41,1919,0,1,,British South Africa,Haiti
+573,41,1920,0,1,,British South Africa,Haiti
+573,41,1921,0,1,,British South Africa,Haiti
+573,41,1922,0,1,,British South Africa,Haiti
+573,41,1923,0,1,,British South Africa,Haiti
+573,42,1910,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1911,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1912,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1913,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1914,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1915,0,1,Pounds,British South Africa,Dominican Republic
+573,42,1916,0,1,,British South Africa,Dominican Republic
+573,42,1917,0,1,,British South Africa,Dominican Republic
+573,42,1918,0,1,,British South Africa,Dominican Republic
+573,42,1919,0,1,,British South Africa,Dominican Republic
+573,42,1920,0,1,,British South Africa,Dominican Republic
+573,42,1921,0,1,,British South Africa,Dominican Republic
+573,42,1922,0,1,,British South Africa,Dominican Republic
+573,42,1923,0,1,,British South Africa,Dominican Republic
+573,68,1910,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1911,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1912,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1913,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1914,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1915,0,1,Pounds,British South Africa,Netherlands Antilles
+573,68,1916,0,1,,British South Africa,Netherlands Antilles
+573,68,1917,0,1,,British South Africa,Netherlands Antilles
+573,68,1918,0,1,,British South Africa,Netherlands Antilles
+573,68,1919,0,1,,British South Africa,Netherlands Antilles
+573,68,1920,0,1,,British South Africa,Netherlands Antilles
+573,68,1921,0,1,,British South Africa,Netherlands Antilles
+573,68,1922,0,1,,British South Africa,Netherlands Antilles
+573,68,1923,0,1,,British South Africa,Netherlands Antilles
+573,70,1910,202,1,Pounds,British South Africa,Mexico
+573,70,1911,351,1,Pounds,British South Africa,Mexico
+573,70,1912,972,1,Pounds,British South Africa,Mexico
+573,70,1913,1052,1,Pounds,British South Africa,Mexico
+573,70,1914,1726,1,Pounds,British South Africa,Mexico
+573,70,1915,3469,1,Pounds,British South Africa,Mexico
+573,70,1916,3230,1,,British South Africa,Mexico
+573,70,1917,5322,1,,British South Africa,Mexico
+573,70,1918,2556,1,,British South Africa,Mexico
+573,70,1919,3917,1,,British South Africa,Mexico
+573,70,1920,6619,1,,British South Africa,Mexico
+573,70,1921,3736,1,,British South Africa,Mexico
+573,70,1922,6212,1,,British South Africa,Mexico
+573,70,1923,10491,1,,British South Africa,Mexico
+573,70,1924,17640,,,British South Africa,Mexico
+573,70,1925,1775,,,British South Africa,Mexico
+573,70,1926,2420,,,British South Africa,Mexico
+573,70,1927,37429,,,British South Africa,Mexico
+573,70,1928,52484,,,British South Africa,Mexico
+573,70,1929,42459,,,British South Africa,Mexico
+573,80,1910,578,1,Pounds,British South Africa,Belize
+573,80,1911,561,1,Pounds,British South Africa,Belize
+573,80,1912,1420,1,Pounds,British South Africa,Belize
+573,80,1913,1013,1,Pounds,British South Africa,Belize
+573,80,1914,771,1,Pounds,British South Africa,Belize
+573,80,1915,546,1,Pounds,British South Africa,Belize
+573,80,1916,903,1,,British South Africa,Belize
+573,80,1917,492,1,,British South Africa,Belize
+573,80,1918,175,1,,British South Africa,Belize
+573,80,1919,317,1,,British South Africa,Belize
+573,80,1920,4474,1,,British South Africa,Belize
+573,80,1921,12,1,,British South Africa,Belize
+573,80,1922,1145,1,,British South Africa,Belize
+573,80,1923,4223,1,,British South Africa,Belize
+573,80,1924,2434,,,British South Africa,Belize
+573,80,1925,503,,,British South Africa,Belize
+573,80,1926,427,,,British South Africa,Belize
+573,80,1927,1725,,,British South Africa,Belize
+573,80,1928,373,,,British South Africa,Belize
+573,80,1929,299,,,British South Africa,Belize
+573,90,1910,0,1,Pounds,British South Africa,Guatemala
+573,90,1911,0,1,Pounds,British South Africa,Guatemala
+573,90,1912,0,1,Pounds,British South Africa,Guatemala
+573,90,1913,0,1,Pounds,British South Africa,Guatemala
+573,90,1914,0,1,Pounds,British South Africa,Guatemala
+573,90,1915,137,1,Pounds,British South Africa,Guatemala
+573,90,1916,0,1,,British South Africa,Guatemala
+573,90,1917,0,1,,British South Africa,Guatemala
+573,90,1918,0,1,,British South Africa,Guatemala
+573,90,1919,0,1,,British South Africa,Guatemala
+573,90,1920,0,1,,British South Africa,Guatemala
+573,90,1921,0,1,,British South Africa,Guatemala
+573,90,1922,0,1,,British South Africa,Guatemala
+573,90,1923,0,1,,British South Africa,Guatemala
+573,91,1910,0,1,Pounds,British South Africa,Honduras
+573,91,1911,0,1,Pounds,British South Africa,Honduras
+573,91,1912,0,1,Pounds,British South Africa,Honduras
+573,91,1913,0,1,Pounds,British South Africa,Honduras
+573,91,1914,0,1,Pounds,British South Africa,Honduras
+573,91,1915,0,1,Pounds,British South Africa,Honduras
+573,91,1916,0,1,,British South Africa,Honduras
+573,91,1917,0,1,,British South Africa,Honduras
+573,91,1918,0,1,,British South Africa,Honduras
+573,91,1919,0,1,,British South Africa,Honduras
+573,91,1920,0,1,,British South Africa,Honduras
+573,91,1921,0,1,,British South Africa,Honduras
+573,91,1922,0,1,,British South Africa,Honduras
+573,91,1923,0,1,,British South Africa,Honduras
+573,92,1910,6370,1,Pounds,British South Africa,El Salvador
+573,92,1911,6379,1,Pounds,British South Africa,El Salvador
+573,92,1912,59,1,Pounds,British South Africa,El Salvador
+573,92,1913,99,1,Pounds,British South Africa,El Salvador
+573,92,1914,0,1,Pounds,British South Africa,El Salvador
+573,92,1915,157,1,Pounds,British South Africa,El Salvador
+573,92,1916,0,1,,British South Africa,El Salvador
+573,92,1917,13,1,,British South Africa,El Salvador
+573,92,1918,22,1,,British South Africa,El Salvador
+573,92,1919,42,1,,British South Africa,El Salvador
+573,92,1920,15,1,,British South Africa,El Salvador
+573,92,1921,883,1,,British South Africa,El Salvador
+573,92,1922,1420,1,,British South Africa,El Salvador
+573,92,1923,470,1,,British South Africa,El Salvador
+573,92,1924,318,,,British South Africa,El Salvador
+573,92,1925,44,,,British South Africa,El Salvador
+573,92,1926,36,,,British South Africa,El Salvador
+573,92,1927,11,,,British South Africa,El Salvador
+573,92,1928,556,,,British South Africa,El Salvador
+573,92,1929,143,,,British South Africa,El Salvador
+573,93,1910,0,1,Pounds,British South Africa,Nicaragua
+573,93,1911,0,1,Pounds,British South Africa,Nicaragua
+573,93,1912,0,1,Pounds,British South Africa,Nicaragua
+573,93,1913,0,1,Pounds,British South Africa,Nicaragua
+573,93,1914,0,1,Pounds,British South Africa,Nicaragua
+573,93,1915,0,1,Pounds,British South Africa,Nicaragua
+573,93,1916,0,1,,British South Africa,Nicaragua
+573,93,1917,0,1,,British South Africa,Nicaragua
+573,93,1918,0,1,,British South Africa,Nicaragua
+573,93,1919,0,1,,British South Africa,Nicaragua
+573,93,1920,0,1,,British South Africa,Nicaragua
+573,93,1921,0,1,,British South Africa,Nicaragua
+573,93,1922,0,1,,British South Africa,Nicaragua
+573,93,1923,0,1,,British South Africa,Nicaragua
+573,94,1910,10926,1,Pounds,British South Africa,Costa Rica
+573,94,1911,16634,1,Pounds,British South Africa,Costa Rica
+573,94,1912,19827,1,Pounds,British South Africa,Costa Rica
+573,94,1913,18634,1,Pounds,British South Africa,Costa Rica
+573,94,1914,17846,1,Pounds,British South Africa,Costa Rica
+573,94,1915,19694,1,Pounds,British South Africa,Costa Rica
+573,94,1916,12848,1,,British South Africa,Costa Rica
+573,94,1917,956,1,,British South Africa,Costa Rica
+573,94,1918,292,1,,British South Africa,Costa Rica
+573,94,1919,791,1,,British South Africa,Costa Rica
+573,94,1920,2169,1,,British South Africa,Costa Rica
+573,94,1921,2661,1,,British South Africa,Costa Rica
+573,94,1922,2629,1,,British South Africa,Costa Rica
+573,94,1923,2188,1,,British South Africa,Costa Rica
+573,94,1924,3696,,,British South Africa,Costa Rica
+573,94,1925,3373,,,British South Africa,Costa Rica
+573,94,1926,2183,,,British South Africa,Costa Rica
+573,94,1927,3448,,,British South Africa,Costa Rica
+573,94,1928,3322,,,British South Africa,Costa Rica
+573,94,1929,3496,,,British South Africa,Costa Rica
+573,95,1910,293,1,Pounds,British South Africa,Panama
+573,95,1911,146,1,Pounds,British South Africa,Panama
+573,95,1912,801,1,Pounds,British South Africa,Panama
+573,95,1913,698,1,Pounds,British South Africa,Panama
+573,95,1914,377,1,Pounds,British South Africa,Panama
+573,95,1915,303,1,Pounds,British South Africa,Panama
+573,95,1916,792,1,,British South Africa,Panama
+573,95,1917,960,1,,British South Africa,Panama
+573,95,1918,170,1,,British South Africa,Panama
+573,95,1919,68,1,,British South Africa,Panama
+573,95,1920,184,1,,British South Africa,Panama
+573,95,1921,55,1,,British South Africa,Panama
+573,95,1922,185,1,,British South Africa,Panama
+573,95,1923,193,1,,British South Africa,Panama
+573,95,1924,199,,,British South Africa,Panama
+573,95,1925,147,,,British South Africa,Panama
+573,95,1926,52,,,British South Africa,Panama
+573,95,1927,3,,,British South Africa,Panama
+573,95,1928,52,,,British South Africa,Panama
+573,95,1929,8,,,British South Africa,Panama
+573,100,1910,0,1,Pounds,British South Africa,Colombia
+573,100,1911,0,1,Pounds,British South Africa,Colombia
+573,100,1912,0,1,Pounds,British South Africa,Colombia
+573,100,1913,0,1,Pounds,British South Africa,Colombia
+573,100,1914,0,1,Pounds,British South Africa,Colombia
+573,100,1915,0,1,Pounds,British South Africa,Colombia
+573,100,1916,0,1,,British South Africa,Colombia
+573,100,1917,0,1,,British South Africa,Colombia
+573,100,1918,0,1,,British South Africa,Colombia
+573,100,1919,0,1,,British South Africa,Colombia
+573,100,1920,0,1,,British South Africa,Colombia
+573,100,1921,0,1,,British South Africa,Colombia
+573,100,1922,0,1,,British South Africa,Colombia
+573,100,1923,0,1,,British South Africa,Colombia
+573,101,1910,936,1,Pounds,British South Africa,Venezuela
+573,101,1911,1123,1,Pounds,British South Africa,Venezuela
+573,101,1912,1103,1,Pounds,British South Africa,Venezuela
+573,101,1913,1743,1,Pounds,British South Africa,Venezuela
+573,101,1914,1756,1,Pounds,British South Africa,Venezuela
+573,101,1915,2119,1,Pounds,British South Africa,Venezuela
+573,101,1916,478,1,,British South Africa,Venezuela
+573,101,1917,21,1,,British South Africa,Venezuela
+573,101,1918,4,1,,British South Africa,Venezuela
+573,101,1919,130,1,,British South Africa,Venezuela
+573,101,1920,72,1,,British South Africa,Venezuela
+573,101,1921,345,1,,British South Africa,Venezuela
+573,101,1922,218,1,,British South Africa,Venezuela
+573,101,1923,1891,1,,British South Africa,Venezuela
+573,101,1924,1567,,,British South Africa,Venezuela
+573,101,1925,489,,,British South Africa,Venezuela
+573,101,1926,535,,,British South Africa,Venezuela
+573,101,1927,4550,,,British South Africa,Venezuela
+573,101,1928,6009,,,British South Africa,Venezuela
+573,101,1929,14008,,,British South Africa,Venezuela
+573,110,1910,73,1,Pounds,British South Africa,Guyana
+573,110,1911,434,1,Pounds,British South Africa,Guyana
+573,110,1912,22,1,Pounds,British South Africa,Guyana
+573,110,1913,466,1,Pounds,British South Africa,Guyana
+573,110,1914,1766,1,Pounds,British South Africa,Guyana
+573,110,1915,1853,1,Pounds,British South Africa,Guyana
+573,110,1916,3856,1,,British South Africa,Guyana
+573,110,1917,1629,1,,British South Africa,Guyana
+573,110,1918,0,1,,British South Africa,Guyana
+573,110,1919,0,1,,British South Africa,Guyana
+573,110,1920,0,1,,British South Africa,Guyana
+573,110,1921,23,1,,British South Africa,Guyana
+573,110,1922,0,1,,British South Africa,Guyana
+573,110,1923,0,1,,British South Africa,Guyana
+573,110,1926,179,,,British South Africa,Guyana
+573,110,1927,16,,,British South Africa,Guyana
+573,110,1928,114,,,British South Africa,Guyana
+573,110,1929,3,,,British South Africa,Guyana
+573,115,1910,0,1,Pounds,British South Africa,Suriname
+573,115,1911,0,1,Pounds,British South Africa,Suriname
+573,115,1912,0,1,Pounds,British South Africa,Suriname
+573,115,1913,0,1,Pounds,British South Africa,Suriname
+573,115,1914,0,1,Pounds,British South Africa,Suriname
+573,115,1915,0,1,Pounds,British South Africa,Suriname
+573,115,1916,0,1,,British South Africa,Suriname
+573,115,1917,0,1,,British South Africa,Suriname
+573,115,1918,0,1,,British South Africa,Suriname
+573,115,1919,0,1,,British South Africa,Suriname
+573,115,1920,0,1,,British South Africa,Suriname
+573,115,1921,0,1,,British South Africa,Suriname
+573,115,1922,0,1,,British South Africa,Suriname
+573,115,1923,0,1,,British South Africa,Suriname
+573,130,1910,283,1,Pounds,British South Africa,Ecuador
+573,130,1911,467,1,Pounds,British South Africa,Ecuador
+573,130,1912,175,1,Pounds,British South Africa,Ecuador
+573,130,1913,157,1,Pounds,British South Africa,Ecuador
+573,130,1914,465,1,Pounds,British South Africa,Ecuador
+573,130,1915,308,1,Pounds,British South Africa,Ecuador
+573,130,1916,370,1,,British South Africa,Ecuador
+573,130,1917,878,1,,British South Africa,Ecuador
+573,130,1918,1156,1,,British South Africa,Ecuador
+573,130,1919,549,1,,British South Africa,Ecuador
+573,130,1920,3068,1,,British South Africa,Ecuador
+573,130,1921,286,1,,British South Africa,Ecuador
+573,130,1922,987,1,,British South Africa,Ecuador
+573,130,1923,1631,1,,British South Africa,Ecuador
+573,130,1924,940,,,British South Africa,Ecuador
+573,130,1925,1133,,,British South Africa,Ecuador
+573,130,1926,959,,,British South Africa,Ecuador
+573,130,1927,1400,,,British South Africa,Ecuador
+573,130,1928,1014,,,British South Africa,Ecuador
+573,130,1929,350,,,British South Africa,Ecuador
+573,135,1910,19116,1,Pounds,British South Africa,Peru
+573,135,1911,306,1,Pounds,British South Africa,Peru
+573,135,1912,482,1,Pounds,British South Africa,Peru
+573,135,1913,115,1,Pounds,British South Africa,Peru
+573,135,1914,325,1,Pounds,British South Africa,Peru
+573,135,1915,120,1,Pounds,British South Africa,Peru
+573,135,1916,170,1,,British South Africa,Peru
+573,135,1917,179,1,,British South Africa,Peru
+573,135,1918,94,1,,British South Africa,Peru
+573,135,1919,167,1,,British South Africa,Peru
+573,135,1920,1536,1,,British South Africa,Peru
+573,135,1921,15,1,,British South Africa,Peru
+573,135,1922,23,1,,British South Africa,Peru
+573,135,1923,51,1,,British South Africa,Peru
+573,135,1924,43,,,British South Africa,Peru
+573,135,1925,91,,,British South Africa,Peru
+573,135,1926,98,,,British South Africa,Peru
+573,135,1927,181,,,British South Africa,Peru
+573,135,1928,478,,,British South Africa,Peru
+573,135,1929,379,,,British South Africa,Peru
+573,140,1910,478438,1,Pounds,British South Africa,Brazil
+573,140,1911,609059,1,Pounds,British South Africa,Brazil
+573,140,1912,727456,1,Pounds,British South Africa,Brazil
+573,140,1913,628414,1,Pounds,British South Africa,Brazil
+573,140,1914,485346,1,Pounds,British South Africa,Brazil
+573,140,1915,492291,1,Pounds,British South Africa,Brazil
+573,140,1916,521246,1,,British South Africa,Brazil
+573,140,1917,531668,1,,British South Africa,Brazil
+573,140,1918,787145,1,,British South Africa,Brazil
+573,140,1919,635141,1,,British South Africa,Brazil
+573,140,1920,1098339,1,,British South Africa,Brazil
+573,140,1921,565388,1,,British South Africa,Brazil
+573,140,1922,684246,1,,British South Africa,Brazil
+573,140,1923,745439,1,,British South Africa,Brazil
+573,140,1924,977459,,,British South Africa,Brazil
+573,140,1925,1115636,,,British South Africa,Brazil
+573,140,1926,994364,,,British South Africa,Brazil
+573,140,1927,856307,,,British South Africa,Brazil
+573,140,1928,863522,,,British South Africa,Brazil
+573,140,1929,862982,,,British South Africa,Brazil
+573,145,1910,0,1,Pounds,British South Africa,Bolivia
+573,145,1911,0,1,Pounds,British South Africa,Bolivia
+573,145,1912,0,1,Pounds,British South Africa,Bolivia
+573,145,1913,0,1,Pounds,British South Africa,Bolivia
+573,145,1914,0,1,Pounds,British South Africa,Bolivia
+573,145,1915,0,1,Pounds,British South Africa,Bolivia
+573,145,1916,0,1,,British South Africa,Bolivia
+573,145,1917,0,1,,British South Africa,Bolivia
+573,145,1918,0,1,,British South Africa,Bolivia
+573,145,1919,0,1,,British South Africa,Bolivia
+573,145,1920,0,1,,British South Africa,Bolivia
+573,145,1921,0,1,,British South Africa,Bolivia
+573,145,1922,0,1,,British South Africa,Bolivia
+573,145,1923,0,1,,British South Africa,Bolivia
+573,150,1910,0,1,Pounds,British South Africa,Paraguay
+573,150,1911,0,1,Pounds,British South Africa,Paraguay
+573,150,1912,0,1,Pounds,British South Africa,Paraguay
+573,150,1913,0,1,Pounds,British South Africa,Paraguay
+573,150,1914,0,1,Pounds,British South Africa,Paraguay
+573,150,1915,0,1,Pounds,British South Africa,Paraguay
+573,150,1916,0,1,,British South Africa,Paraguay
+573,150,1917,0,1,,British South Africa,Paraguay
+573,150,1918,0,1,,British South Africa,Paraguay
+573,150,1919,0,1,,British South Africa,Paraguay
+573,150,1920,0,1,,British South Africa,Paraguay
+573,150,1921,0,1,,British South Africa,Paraguay
+573,150,1922,0,1,,British South Africa,Paraguay
+573,150,1923,0,1,,British South Africa,Paraguay
+573,155,1910,190478,1,Pounds,British South Africa,Chile
+573,155,1911,170507,1,Pounds,British South Africa,Chile
+573,155,1912,282222,1,Pounds,British South Africa,Chile
+573,155,1913,231916,1,Pounds,British South Africa,Chile
+573,155,1914,214810,1,Pounds,British South Africa,Chile
+573,155,1915,111185,1,Pounds,British South Africa,Chile
+573,155,1916,277480,1,,British South Africa,Chile
+573,155,1917,359951,1,,British South Africa,Chile
+573,155,1918,165316,1,,British South Africa,Chile
+573,155,1919,293548,1,,British South Africa,Chile
+573,155,1920,172317,1,,British South Africa,Chile
+573,155,1921,328492,1,,British South Africa,Chile
+573,155,1922,139648,1,,British South Africa,Chile
+573,155,1923,234469,1,,British South Africa,Chile
+573,155,1924,296224,,,British South Africa,Chile
+573,155,1925,130375,,,British South Africa,Chile
+573,155,1926,219092,,,British South Africa,Chile
+573,155,1927,222024,,,British South Africa,Chile
+573,155,1928,272090,,,British South Africa,Chile
+573,155,1929,232795,,,British South Africa,Chile
+573,160,1910,78993,1,Pounds,British South Africa,Argentina
+573,160,1911,79122,1,Pounds,British South Africa,Argentina
+573,160,1912,29200,1,Pounds,British South Africa,Argentina
+573,160,1913,173370,1,Pounds,British South Africa,Argentina
+573,160,1914,30981,1,Pounds,British South Africa,Argentina
+573,160,1915,315640,1,Pounds,British South Africa,Argentina
+573,160,1916,166912,1,,British South Africa,Argentina
+573,160,1917,81430,1,,British South Africa,Argentina
+573,160,1918,623892,1,,British South Africa,Argentina
+573,160,1919,160575,1,,British South Africa,Argentina
+573,160,1920,1613818,1,,British South Africa,Argentina
+573,160,1921,75926,1,,British South Africa,Argentina
+573,160,1922,138552,1,,British South Africa,Argentina
+573,160,1923,285934,1,,British South Africa,Argentina
+573,160,1924,276218,,,British South Africa,Argentina
+573,160,1925,463395,,,British South Africa,Argentina
+573,160,1926,127804,,,British South Africa,Argentina
+573,160,1927,267443,,,British South Africa,Argentina
+573,160,1928,504506,,,British South Africa,Argentina
+573,160,1929,422905,,,British South Africa,Argentina
+573,165,1910,11036,1,Pounds,British South Africa,Uruguay
+573,165,1911,11403,1,Pounds,British South Africa,Uruguay
+573,165,1912,14663,1,Pounds,British South Africa,Uruguay
+573,165,1913,11298,1,Pounds,British South Africa,Uruguay
+573,165,1914,9202,1,Pounds,British South Africa,Uruguay
+573,165,1915,7899,1,Pounds,British South Africa,Uruguay
+573,165,1916,4737,1,,British South Africa,Uruguay
+573,165,1917,1218,1,,British South Africa,Uruguay
+573,165,1918,15229,1,,British South Africa,Uruguay
+573,165,1919,3084,1,,British South Africa,Uruguay
+573,165,1920,25298,1,,British South Africa,Uruguay
+573,165,1921,979,1,,British South Africa,Uruguay
+573,165,1922,3427,1,,British South Africa,Uruguay
+573,165,1923,3511,1,,British South Africa,Uruguay
+573,165,1924,2997,,,British South Africa,Uruguay
+573,165,1925,18,,,British South Africa,Uruguay
+573,165,1926,11,,,British South Africa,Uruguay
+573,165,1927,997,,,British South Africa,Uruguay
+573,165,1928,9,,,British South Africa,Uruguay
+573,165,1929,1680,,,British South Africa,Uruguay
+573,200,1910,20728373,1,Pounds,British South Africa,United Kingdom
+573,200,1911,21252221,1,Pounds,British South Africa,United Kingdom
+573,200,1912,21869810,1,Pounds,British South Africa,United Kingdom
+573,200,1913,22141489,1,Pounds,British South Africa,United Kingdom
+573,200,1914,18623263,1,Pounds,British South Africa,United Kingdom
+573,200,1915,17686780,1,Pounds,British South Africa,United Kingdom
+573,200,1916,23340967,1,,British South Africa,United Kingdom
+573,200,1917,18814426,1,,British South Africa,United Kingdom
+573,200,1918,26165983,1,,British South Africa,United Kingdom
+573,200,1919,21848032,1,,British South Africa,United Kingdom
+573,200,1920,51374443,1,,British South Africa,United Kingdom
+573,200,1921,28711922,1,,British South Africa,United Kingdom
+573,200,1922,26544740,1,,British South Africa,United Kingdom
+573,200,1923,29261766,1,,British South Africa,United Kingdom
+573,200,1924,30871452,,,British South Africa,United Kingdom
+573,200,1925,33354710,,,British South Africa,United Kingdom
+573,200,1926,34889149,,,British South Africa,United Kingdom
+573,200,1927,34776836,,,British South Africa,United Kingdom
+573,200,1928,36213668,,,British South Africa,United Kingdom
+573,200,1929,36577849,,,British South Africa,United Kingdom
+573,205,1910,0,1,Pounds,British South Africa,Ireland
+573,205,1911,0,1,Pounds,British South Africa,Ireland
+573,205,1912,0,1,Pounds,British South Africa,Ireland
+573,205,1913,0,1,Pounds,British South Africa,Ireland
+573,205,1914,0,1,Pounds,British South Africa,Ireland
+573,205,1915,0,1,Pounds,British South Africa,Ireland
+573,205,1916,0,1,,British South Africa,Ireland
+573,205,1917,0,1,,British South Africa,Ireland
+573,205,1918,0,1,,British South Africa,Ireland
+573,205,1919,0,1,,British South Africa,Ireland
+573,205,1920,0,1,,British South Africa,Ireland
+573,205,1921,0,1,,British South Africa,Ireland
+573,205,1922,0,1,,British South Africa,Ireland
+573,205,1923,0,1,,British South Africa,Ireland
+573,205,1924,21742,,,British South Africa,Ireland
+573,205,1925,21829,,,British South Africa,Ireland
+573,205,1926,18707,,,British South Africa,Ireland
+573,205,1927,85602,,,British South Africa,Ireland
+573,205,1928,25185,,,British South Africa,Ireland
+573,205,1929,31797,,,British South Africa,Ireland
+573,210,1910,538227,1,Pounds,British South Africa,Netherlands
+573,210,1911,636104,1,Pounds,British South Africa,Netherlands
+573,210,1912,752996,1,Pounds,British South Africa,Netherlands
+573,210,1913,854041,1,Pounds,British South Africa,Netherlands
+573,210,1914,576512,1,Pounds,British South Africa,Netherlands
+573,210,1915,521391,1,Pounds,British South Africa,Netherlands
+573,210,1916,536243,1,,British South Africa,Netherlands
+573,210,1917,364075,1,,British South Africa,Netherlands
+573,210,1918,371394,1,,British South Africa,Netherlands
+573,210,1919,201936,1,,British South Africa,Netherlands
+573,210,1920,770632,1,,British South Africa,Netherlands
+573,210,1921,592889,1,,British South Africa,Netherlands
+573,210,1922,448385,1,,British South Africa,Netherlands
+573,210,1923,568962,1,,British South Africa,Netherlands
+573,210,1924,843711,,,British South Africa,Netherlands
+573,210,1925,951965,,,British South Africa,Netherlands
+573,210,1926,1122132,,,British South Africa,Netherlands
+573,210,1927,1160868,,,British South Africa,Netherlands
+573,210,1928,1327727,,,British South Africa,Netherlands
+573,210,1929,1460818,,,British South Africa,Netherlands
+573,211,1910,659164,1,Pounds,British South Africa,Belgium
+573,211,1911,809270,1,Pounds,British South Africa,Belgium
+573,211,1912,719920,1,Pounds,British South Africa,Belgium
+573,211,1913,707669,1,Pounds,British South Africa,Belgium
+573,211,1914,462973,1,Pounds,British South Africa,Belgium
+573,211,1915,31118,1,Pounds,British South Africa,Belgium
+573,211,1916,29121,1,,British South Africa,Belgium
+573,211,1917,11554,1,,British South Africa,Belgium
+573,211,1918,4486,1,,British South Africa,Belgium
+573,211,1919,21439,1,,British South Africa,Belgium
+573,211,1920,840632,1,,British South Africa,Belgium
+573,211,1921,578171,1,,British South Africa,Belgium
+573,211,1922,916522,1,,British South Africa,Belgium
+573,211,1923,1194124,1,,British South Africa,Belgium
+573,211,1924,960595,,,British South Africa,Belgium
+573,211,1925,861148,,,British South Africa,Belgium
+573,211,1926,1080217,,,British South Africa,Belgium
+573,211,1927,1366021,,,British South Africa,Belgium
+573,211,1928,1681961,,,British South Africa,Belgium
+573,211,1929,1689639,,,British South Africa,Belgium
+573,220,1910,563024,1,Pounds,British South Africa,France
+573,220,1911,590445,1,Pounds,British South Africa,France
+573,220,1912,632746,1,Pounds,British South Africa,France
+573,220,1913,612057,1,Pounds,British South Africa,France
+573,220,1914,498799,1,Pounds,British South Africa,France
+573,220,1915,494153,1,Pounds,British South Africa,France
+573,220,1916,517113,1,,British South Africa,France
+573,220,1917,450311,1,,British South Africa,France
+573,220,1918,480981,1,,British South Africa,France
+573,220,1919,619784,1,,British South Africa,France
+573,220,1920,1310072,1,,British South Africa,France
+573,220,1921,790692,1,,British South Africa,France
+573,220,1922,879911,1,,British South Africa,France
+573,220,1923,835048,1,,British South Africa,France
+573,220,1924,1177928,,,British South Africa,France
+573,220,1925,1189689,,,British South Africa,France
+573,220,1926,1402657,,,British South Africa,France
+573,220,1927,1756656,,,British South Africa,France
+573,220,1928,1664651,,,British South Africa,France
+573,220,1929,1588494,,,British South Africa,France
+573,225,1910,149004,1,Pounds,British South Africa,Switzerland
+573,225,1911,171576,1,Pounds,British South Africa,Switzerland
+573,225,1912,192459,1,Pounds,British South Africa,Switzerland
+573,225,1913,195181,1,Pounds,British South Africa,Switzerland
+573,225,1914,202521,1,Pounds,British South Africa,Switzerland
+573,225,1915,319177,1,Pounds,British South Africa,Switzerland
+573,225,1916,387688,1,,British South Africa,Switzerland
+573,225,1917,291700,1,,British South Africa,Switzerland
+573,225,1918,499603,1,,British South Africa,Switzerland
+573,225,1919,346382,1,,British South Africa,Switzerland
+573,225,1920,1001443,1,,British South Africa,Switzerland
+573,225,1921,431030,1,,British South Africa,Switzerland
+573,225,1922,522079,1,,British South Africa,Switzerland
+573,225,1923,556156,1,,British South Africa,Switzerland
+573,225,1924,635586,,,British South Africa,Switzerland
+573,225,1925,742437,,,British South Africa,Switzerland
+573,225,1926,604964,,,British South Africa,Switzerland
+573,225,1927,577456,,,British South Africa,Switzerland
+573,225,1928,630386,,,British South Africa,Switzerland
+573,225,1929,644810,,,British South Africa,Switzerland
+573,230,1910,39966,1,Pounds,British South Africa,Spain
+573,230,1911,47970,1,Pounds,British South Africa,Spain
+573,230,1912,49897,1,Pounds,British South Africa,Spain
+573,230,1913,64788,1,Pounds,British South Africa,Spain
+573,230,1914,38924,1,Pounds,British South Africa,Spain
+573,230,1915,62788,1,Pounds,British South Africa,Spain
+573,230,1916,93586,1,,British South Africa,Spain
+573,230,1917,40398,1,,British South Africa,Spain
+573,230,1918,95624,1,,British South Africa,Spain
+573,230,1919,54797,1,,British South Africa,Spain
+573,230,1920,120077,1,,British South Africa,Spain
+573,230,1921,55186,1,,British South Africa,Spain
+573,230,1922,44573,1,,British South Africa,Spain
+573,230,1923,45061,1,,British South Africa,Spain
+573,230,1924,48174,,,British South Africa,Spain
+573,230,1925,63685,,,British South Africa,Spain
+573,230,1926,60240,,,British South Africa,Spain
+573,230,1927,68673,,,British South Africa,Spain
+573,230,1928,79049,,,British South Africa,Spain
+573,230,1929,88216,,,British South Africa,Spain
+573,231,1910,0,1,Pounds,British South Africa,Gibraltar
+573,231,1911,0,1,Pounds,British South Africa,Gibraltar
+573,231,1912,0,1,Pounds,British South Africa,Gibraltar
+573,231,1913,0,1,Pounds,British South Africa,Gibraltar
+573,231,1914,0,1,Pounds,British South Africa,Gibraltar
+573,231,1915,0,1,Pounds,British South Africa,Gibraltar
+573,231,1916,0,1,,British South Africa,Gibraltar
+573,231,1917,0,1,,British South Africa,Gibraltar
+573,231,1918,0,1,,British South Africa,Gibraltar
+573,231,1919,0,1,,British South Africa,Gibraltar
+573,231,1920,0,1,,British South Africa,Gibraltar
+573,231,1921,0,1,,British South Africa,Gibraltar
+573,231,1922,0,1,,British South Africa,Gibraltar
+573,231,1923,0,1,,British South Africa,Gibraltar
+573,235,1910,34936,1,Pounds,British South Africa,Portugal
+573,235,1911,42266,1,Pounds,British South Africa,Portugal
+573,235,1912,39850,1,Pounds,British South Africa,Portugal
+573,235,1913,42997,1,Pounds,British South Africa,Portugal
+573,235,1914,31344,1,Pounds,British South Africa,Portugal
+573,235,1915,53646,1,Pounds,British South Africa,Portugal
+573,235,1916,55263,1,,British South Africa,Portugal
+573,235,1917,49266,1,,British South Africa,Portugal
+573,235,1918,73404,1,,British South Africa,Portugal
+573,235,1919,57213,1,,British South Africa,Portugal
+573,235,1920,113801,1,,British South Africa,Portugal
+573,235,1921,26950,1,,British South Africa,Portugal
+573,235,1922,25719,1,,British South Africa,Portugal
+573,235,1923,33284,1,,British South Africa,Portugal
+573,235,1924,42018,,,British South Africa,Portugal
+573,235,1925,43390,,,British South Africa,Portugal
+573,235,1926,36312,,,British South Africa,Portugal
+573,235,1927,51242,,,British South Africa,Portugal
+573,235,1928,42400,,,British South Africa,Portugal
+573,235,1929,51043,,,British South Africa,Portugal
+573,255,1910,3619029,1,Pounds,British South Africa,Germany
+573,255,1911,3503932,1,Pounds,British South Africa,Germany
+573,255,1912,3324951,1,Pounds,British South Africa,Germany
+573,255,1913,3524268,1,Pounds,British South Africa,Germany
+573,255,1914,2268362,1,Pounds,British South Africa,Germany
+573,255,1915,119829,1,Pounds,British South Africa,Germany
+573,255,1916,38762,1,,British South Africa,Germany
+573,255,1917,6583,1,,British South Africa,Germany
+573,255,1918,19618,1,,British South Africa,Germany
+573,255,1919,30062,1,,British South Africa,Germany
+573,255,1920,895230,1,,British South Africa,Germany
+573,255,1921,1275142,1,,British South Africa,Germany
+573,255,1922,3017830,1,,British South Africa,Germany
+573,255,1923,3022997,1,,British South Africa,Germany
+573,255,1924,3696888,,,British South Africa,Germany
+573,255,1925,3948632,,,British South Africa,Germany
+573,255,1926,4732964,,,British South Africa,Germany
+573,255,1927,5222476,,,British South Africa,Germany
+573,255,1928,5491427,,,British South Africa,Germany
+573,255,1929,5817559,,,British South Africa,Germany
+573,290,1910,0,1,Pounds,British South Africa,Poland
+573,290,1911,0,1,Pounds,British South Africa,Poland
+573,290,1912,0,1,Pounds,British South Africa,Poland
+573,290,1913,0,1,Pounds,British South Africa,Poland
+573,290,1914,0,1,Pounds,British South Africa,Poland
+573,290,1915,0,1,Pounds,British South Africa,Poland
+573,290,1916,0,1,,British South Africa,Poland
+573,290,1917,0,1,,British South Africa,Poland
+573,290,1918,0,1,,British South Africa,Poland
+573,290,1919,0,1,,British South Africa,Poland
+573,290,1920,12724,1,,British South Africa,Poland
+573,290,1921,7344,1,,British South Africa,Poland
+573,290,1922,15755,1,,British South Africa,Poland
+573,290,1923,28946,1,,British South Africa,Poland
+573,290,1924,43334,,,British South Africa,Poland
+573,290,1925,40376,,,British South Africa,Poland
+573,290,1926,23120,,,British South Africa,Poland
+573,290,1927,96464,,,British South Africa,Poland
+573,290,1928,155068,,,British South Africa,Poland
+573,290,1929,150048,,,British South Africa,Poland
+573,300,1910,123158,1,Pounds,British South Africa,Austria-Hungary
+573,300,1911,134308,1,Pounds,British South Africa,Austria-Hungary
+573,300,1912,142592,1,Pounds,British South Africa,Austria-Hungary
+573,300,1913,152473,1,Pounds,British South Africa,Austria-Hungary
+573,300,1914,121807,1,Pounds,British South Africa,Austria-Hungary
+573,300,1915,7042,1,Pounds,British South Africa,Austria-Hungary
+573,300,1916,1996,1,,British South Africa,Austria-Hungary
+573,300,1917,369,1,,British South Africa,Austria-Hungary
+573,300,1918,73,1,,British South Africa,Austria-Hungary
+573,300,1919,86,1,,British South Africa,Austria-Hungary
+573,300,1920,0,1,,British South Africa,Austria-Hungary
+573,300,1921,0,1,,British South Africa,Austria-Hungary
+573,300,1922,0,1,,British South Africa,Austria-Hungary
+573,300,1923,0,1,,British South Africa,Austria-Hungary
+573,305,1910,0,1,Pounds,British South Africa,Austria
+573,305,1911,0,1,Pounds,British South Africa,Austria
+573,305,1912,0,1,Pounds,British South Africa,Austria
+573,305,1913,0,1,Pounds,British South Africa,Austria
+573,305,1914,0,1,Pounds,British South Africa,Austria
+573,305,1915,0,1,Pounds,British South Africa,Austria
+573,305,1916,0,1,,British South Africa,Austria
+573,305,1917,0,1,,British South Africa,Austria
+573,305,1918,0,1,,British South Africa,Austria
+573,305,1919,0,1,,British South Africa,Austria
+573,305,1920,9729,1,,British South Africa,Austria
+573,305,1921,10409,1,,British South Africa,Austria
+573,305,1922,36342,1,,British South Africa,Austria
+573,305,1923,57939,1,,British South Africa,Austria
+573,305,1924,101884,,,British South Africa,Austria
+573,305,1925,101149,,,British South Africa,Austria
+573,305,1926,114366,,,British South Africa,Austria
+573,305,1927,148635,,,British South Africa,Austria
+573,305,1928,172487,,,British South Africa,Austria
+573,305,1929,184239,,,British South Africa,Austria
+573,310,1910,0,1,Pounds,British South Africa,Hungary
+573,310,1911,0,1,Pounds,British South Africa,Hungary
+573,310,1912,0,1,Pounds,British South Africa,Hungary
+573,310,1913,0,1,Pounds,British South Africa,Hungary
+573,310,1914,0,1,Pounds,British South Africa,Hungary
+573,310,1915,0,1,Pounds,British South Africa,Hungary
+573,310,1916,0,1,,British South Africa,Hungary
+573,310,1917,0,1,,British South Africa,Hungary
+573,310,1918,0,1,,British South Africa,Hungary
+573,310,1919,0,1,,British South Africa,Hungary
+573,310,1920,0,1,,British South Africa,Hungary
+573,310,1921,161,1,,British South Africa,Hungary
+573,310,1922,2382,1,,British South Africa,Hungary
+573,310,1923,10471,1,,British South Africa,Hungary
+573,310,1924,5259,,,British South Africa,Hungary
+573,310,1925,2458,,,British South Africa,Hungary
+573,310,1926,8532,,,British South Africa,Hungary
+573,310,1927,15155,,,British South Africa,Hungary
+573,310,1928,27895,,,British South Africa,Hungary
+573,310,1929,30014,,,British South Africa,Hungary
+573,315,1910,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1911,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1912,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1913,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1914,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1915,0,1,Pounds,British South Africa,Czechoslovakia
+573,315,1916,0,1,,British South Africa,Czechoslovakia
+573,315,1917,0,1,,British South Africa,Czechoslovakia
+573,315,1918,0,1,,British South Africa,Czechoslovakia
+573,315,1919,0,1,,British South Africa,Czechoslovakia
+573,315,1920,15287,1,,British South Africa,Czechoslovakia
+573,315,1921,48159,1,,British South Africa,Czechoslovakia
+573,315,1922,141826,1,,British South Africa,Czechoslovakia
+573,315,1923,178593,1,,British South Africa,Czechoslovakia
+573,315,1924,206658,,,British South Africa,Czechoslovakia
+573,315,1925,261780,,,British South Africa,Czechoslovakia
+573,315,1926,387916,,,British South Africa,Czechoslovakia
+573,315,1927,515730,,,British South Africa,Czechoslovakia
+573,315,1928,674816,,,British South Africa,Czechoslovakia
+573,315,1929,794086,,,British South Africa,Czechoslovakia
+573,317,1910,0,1,Pounds,British South Africa,Slovakia
+573,317,1911,0,1,Pounds,British South Africa,Slovakia
+573,317,1912,0,1,Pounds,British South Africa,Slovakia
+573,317,1913,0,1,Pounds,British South Africa,Slovakia
+573,317,1914,0,1,Pounds,British South Africa,Slovakia
+573,317,1915,0,1,Pounds,British South Africa,Slovakia
+573,317,1916,0,1,,British South Africa,Slovakia
+573,317,1917,0,1,,British South Africa,Slovakia
+573,317,1918,0,1,,British South Africa,Slovakia
+573,317,1919,0,1,,British South Africa,Slovakia
+573,317,1920,0,1,,British South Africa,Slovakia
+573,317,1921,0,1,,British South Africa,Slovakia
+573,317,1922,0,1,,British South Africa,Slovakia
+573,317,1923,0,1,,British South Africa,Slovakia
+573,325,1910,140474,1,Pounds,British South Africa,Italy
+573,325,1911,218305,1,Pounds,British South Africa,Italy
+573,325,1912,248136,1,Pounds,British South Africa,Italy
+573,325,1913,328493,1,Pounds,British South Africa,Italy
+573,325,1914,282715,1,Pounds,British South Africa,Italy
+573,325,1915,358754,1,Pounds,British South Africa,Italy
+573,325,1916,289715,1,,British South Africa,Italy
+573,325,1917,218090,1,,British South Africa,Italy
+573,325,1918,132698,1,,British South Africa,Italy
+573,325,1919,105978,1,,British South Africa,Italy
+573,325,1920,385058,1,,British South Africa,Italy
+573,325,1921,285671,1,,British South Africa,Italy
+573,325,1922,387280,1,,British South Africa,Italy
+573,325,1923,410125,1,,British South Africa,Italy
+573,325,1924,609126,,,British South Africa,Italy
+573,325,1925,657653,,,British South Africa,Italy
+573,325,1926,889475,,,British South Africa,Italy
+573,325,1927,962988,,,British South Africa,Italy
+573,325,1928,1134619,,,British South Africa,Italy
+573,325,1929,1150863,,,British South Africa,Italy
+573,338,1910,2521,1,Pounds,British South Africa,Malta
+573,338,1911,3409,1,Pounds,British South Africa,Malta
+573,338,1912,2682,1,Pounds,British South Africa,Malta
+573,338,1913,3234,1,Pounds,British South Africa,Malta
+573,338,1914,2976,1,Pounds,British South Africa,Malta
+573,338,1915,1492,1,Pounds,British South Africa,Malta
+573,338,1916,1697,1,,British South Africa,Malta
+573,338,1917,1242,1,,British South Africa,Malta
+573,338,1918,2051,1,,British South Africa,Malta
+573,338,1919,1961,1,,British South Africa,Malta
+573,338,1920,2580,1,,British South Africa,Malta
+573,338,1921,1633,1,,British South Africa,Malta
+573,338,1922,210,1,,British South Africa,Malta
+573,338,1923,152,1,,British South Africa,Malta
+573,338,1924,234,,,British South Africa,Malta
+573,338,1925,346,,,British South Africa,Malta
+573,338,1926,246,,,British South Africa,Malta
+573,338,1927,68,,,British South Africa,Malta
+573,338,1928,16,,,British South Africa,Malta
+573,338,1929,56,,,British South Africa,Malta
+573,345,1910,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1911,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1912,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1913,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1914,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1915,0,1,Pounds,British South Africa,Yugoslavia
+573,345,1916,0,1,,British South Africa,Yugoslavia
+573,345,1917,0,1,,British South Africa,Yugoslavia
+573,345,1918,0,1,,British South Africa,Yugoslavia
+573,345,1919,0,1,,British South Africa,Yugoslavia
+573,345,1920,0,1,,British South Africa,Yugoslavia
+573,345,1921,0,1,,British South Africa,Yugoslavia
+573,345,1922,0,1,,British South Africa,Yugoslavia
+573,345,1923,0,1,,British South Africa,Yugoslavia
+573,350,1910,21078,1,Pounds,British South Africa,Greece
+573,350,1911,22455,1,Pounds,British South Africa,Greece
+573,350,1912,23033,1,Pounds,British South Africa,Greece
+573,350,1913,18931,1,Pounds,British South Africa,Greece
+573,350,1914,18719,1,Pounds,British South Africa,Greece
+573,350,1915,22110,1,Pounds,British South Africa,Greece
+573,350,1916,25989,1,,British South Africa,Greece
+573,350,1917,6729,1,,British South Africa,Greece
+573,350,1918,2173,1,,British South Africa,Greece
+573,350,1919,4423,1,,British South Africa,Greece
+573,350,1920,9264,1,,British South Africa,Greece
+573,350,1921,7102,1,,British South Africa,Greece
+573,350,1922,16785,1,,British South Africa,Greece
+573,350,1923,7991,1,,British South Africa,Greece
+573,350,1924,11150,,,British South Africa,Greece
+573,350,1925,12399,,,British South Africa,Greece
+573,350,1926,18548,,,British South Africa,Greece
+573,350,1927,14162,,,British South Africa,Greece
+573,350,1928,16795,,,British South Africa,Greece
+573,350,1929,15284,,,British South Africa,Greece
+573,352,1910,763,1,Pounds,British South Africa,Cyprus
+573,352,1911,724,1,Pounds,British South Africa,Cyprus
+573,352,1912,156,1,Pounds,British South Africa,Cyprus
+573,352,1913,396,1,Pounds,British South Africa,Cyprus
+573,352,1914,33,1,Pounds,British South Africa,Cyprus
+573,352,1915,83,1,Pounds,British South Africa,Cyprus
+573,352,1916,298,1,,British South Africa,Cyprus
+573,352,1917,1,1,,British South Africa,Cyprus
+573,352,1918,17,1,,British South Africa,Cyprus
+573,352,1919,58,1,,British South Africa,Cyprus
+573,352,1920,205,1,,British South Africa,Cyprus
+573,352,1921,86,1,,British South Africa,Cyprus
+573,352,1922,131,1,,British South Africa,Cyprus
+573,352,1923,210,1,,British South Africa,Cyprus
+573,352,1924,11,,,British South Africa,Cyprus
+573,352,1925,96,,,British South Africa,Cyprus
+573,352,1926,122,,,British South Africa,Cyprus
+573,352,1927,269,,,British South Africa,Cyprus
+573,352,1928,110,,,British South Africa,Cyprus
+573,352,1929,35,,,British South Africa,Cyprus
+573,355,1910,0,1,Pounds,British South Africa,Bulgaria
+573,355,1911,0,1,Pounds,British South Africa,Bulgaria
+573,355,1912,0,1,Pounds,British South Africa,Bulgaria
+573,355,1913,0,1,Pounds,British South Africa,Bulgaria
+573,355,1914,0,1,Pounds,British South Africa,Bulgaria
+573,355,1915,0,1,Pounds,British South Africa,Bulgaria
+573,355,1916,0,1,,British South Africa,Bulgaria
+573,355,1917,0,1,,British South Africa,Bulgaria
+573,355,1918,0,1,,British South Africa,Bulgaria
+573,355,1919,0,1,,British South Africa,Bulgaria
+573,355,1920,0,1,,British South Africa,Bulgaria
+573,355,1921,0,1,,British South Africa,Bulgaria
+573,355,1922,0,1,,British South Africa,Bulgaria
+573,355,1923,0,1,,British South Africa,Bulgaria
+573,360,1910,0,1,Pounds,British South Africa,Romania
+573,360,1911,0,1,Pounds,British South Africa,Romania
+573,360,1912,0,1,Pounds,British South Africa,Romania
+573,360,1913,0,1,Pounds,British South Africa,Romania
+573,360,1914,0,1,Pounds,British South Africa,Romania
+573,360,1915,0,1,Pounds,British South Africa,Romania
+573,360,1916,0,1,,British South Africa,Romania
+573,360,1917,0,1,,British South Africa,Romania
+573,360,1918,0,1,,British South Africa,Romania
+573,360,1919,0,1,,British South Africa,Romania
+573,360,1920,0,1,,British South Africa,Romania
+573,360,1921,0,1,,British South Africa,Romania
+573,360,1922,0,1,,British South Africa,Romania
+573,360,1923,0,1,,British South Africa,Romania
+573,365,1910,41265,1,Pounds,British South Africa,Russia
+573,365,1911,35843,1,Pounds,British South Africa,Russia
+573,365,1912,54208,1,Pounds,British South Africa,Russia
+573,365,1913,82786,1,Pounds,British South Africa,Russia
+573,365,1914,91177,1,Pounds,British South Africa,Russia
+573,365,1915,32337,1,Pounds,British South Africa,Russia
+573,365,1916,69391,1,,British South Africa,Russia
+573,365,1917,13240,1,,British South Africa,Russia
+573,365,1918,24937,1,,British South Africa,Russia
+573,365,1919,2954,1,,British South Africa,Russia
+573,365,1920,11964,1,,British South Africa,Russia
+573,365,1921,18357,1,,British South Africa,Russia
+573,365,1922,40335,1,,British South Africa,Russia
+573,365,1923,82341,1,,British South Africa,Russia
+573,365,1924,49875,,,British South Africa,Russia
+573,365,1925,64406,,,British South Africa,Russia
+573,365,1926,89993,,,British South Africa,Russia
+573,365,1927,203526,,,British South Africa,Russia
+573,365,1928,190219,,,British South Africa,Russia
+573,365,1929,229070,,,British South Africa,Russia
+573,366,1910,0,1,Pounds,British South Africa,Estonia
+573,366,1911,0,1,Pounds,British South Africa,Estonia
+573,366,1912,0,1,Pounds,British South Africa,Estonia
+573,366,1913,0,1,Pounds,British South Africa,Estonia
+573,366,1914,0,1,Pounds,British South Africa,Estonia
+573,366,1915,0,1,Pounds,British South Africa,Estonia
+573,366,1916,0,1,,British South Africa,Estonia
+573,366,1917,0,1,,British South Africa,Estonia
+573,366,1918,0,1,,British South Africa,Estonia
+573,366,1919,0,1,,British South Africa,Estonia
+573,366,1920,0,1,,British South Africa,Estonia
+573,366,1921,0,1,,British South Africa,Estonia
+573,366,1922,0,1,,British South Africa,Estonia
+573,366,1923,0,1,,British South Africa,Estonia
+573,367,1910,0,1,Pounds,British South Africa,Latvia
+573,367,1911,0,1,Pounds,British South Africa,Latvia
+573,367,1912,0,1,Pounds,British South Africa,Latvia
+573,367,1913,0,1,Pounds,British South Africa,Latvia
+573,367,1914,0,1,Pounds,British South Africa,Latvia
+573,367,1915,0,1,Pounds,British South Africa,Latvia
+573,367,1916,0,1,,British South Africa,Latvia
+573,367,1917,0,1,,British South Africa,Latvia
+573,367,1918,0,1,,British South Africa,Latvia
+573,367,1919,0,1,,British South Africa,Latvia
+573,367,1920,0,1,,British South Africa,Latvia
+573,367,1921,0,1,,British South Africa,Latvia
+573,367,1922,0,1,,British South Africa,Latvia
+573,367,1923,0,1,,British South Africa,Latvia
+573,368,1910,0,1,Pounds,British South Africa,Lithuania
+573,368,1911,0,1,Pounds,British South Africa,Lithuania
+573,368,1912,0,1,Pounds,British South Africa,Lithuania
+573,368,1913,0,1,Pounds,British South Africa,Lithuania
+573,368,1914,0,1,Pounds,British South Africa,Lithuania
+573,368,1915,0,1,Pounds,British South Africa,Lithuania
+573,368,1916,0,1,,British South Africa,Lithuania
+573,368,1917,0,1,,British South Africa,Lithuania
+573,368,1918,0,1,,British South Africa,Lithuania
+573,368,1919,0,1,,British South Africa,Lithuania
+573,368,1920,0,1,,British South Africa,Lithuania
+573,368,1921,0,1,,British South Africa,Lithuania
+573,368,1922,0,1,,British South Africa,Lithuania
+573,368,1923,0,1,,British South Africa,Lithuania
+573,375,1910,0,1,Pounds,British South Africa,Finland
+573,375,1911,0,1,Pounds,British South Africa,Finland
+573,375,1912,0,1,Pounds,British South Africa,Finland
+573,375,1913,0,1,Pounds,British South Africa,Finland
+573,375,1914,0,1,Pounds,British South Africa,Finland
+573,375,1915,0,1,Pounds,British South Africa,Finland
+573,375,1916,0,1,,British South Africa,Finland
+573,375,1917,0,1,,British South Africa,Finland
+573,375,1918,0,1,,British South Africa,Finland
+573,375,1919,46989,1,,British South Africa,Finland
+573,375,1920,273896,1,,British South Africa,Finland
+573,375,1921,98026,1,,British South Africa,Finland
+573,375,1922,210446,1,,British South Africa,Finland
+573,375,1923,290896,1,,British South Africa,Finland
+573,375,1924,329650,,,British South Africa,Finland
+573,375,1925,401084,,,British South Africa,Finland
+573,375,1926,341244,,,British South Africa,Finland
+573,375,1927,474878,,,British South Africa,Finland
+573,375,1928,587185,,,British South Africa,Finland
+573,375,1929,573749,,,British South Africa,Finland
+573,380,1910,677328,1,Pounds,British South Africa,Sweden
+573,380,1911,678939,1,Pounds,British South Africa,Sweden
+573,380,1912,613475,1,Pounds,British South Africa,Sweden
+573,380,1913,731880,1,Pounds,British South Africa,Sweden
+573,380,1914,544430,1,Pounds,British South Africa,Sweden
+573,380,1915,466874,1,Pounds,British South Africa,Sweden
+573,380,1916,914693,1,,British South Africa,Sweden
+573,380,1917,843064,1,,British South Africa,Sweden
+573,380,1918,979617,1,,British South Africa,Sweden
+573,380,1919,873608,1,,British South Africa,Sweden
+573,380,1920,2107782,1,,British South Africa,Sweden
+573,380,1921,1081583,1,,British South Africa,Sweden
+573,380,1922,913044,1,,British South Africa,Sweden
+573,380,1923,1158337,1,,British South Africa,Sweden
+573,380,1924,1311177,,,British South Africa,Sweden
+573,380,1925,948822,,,British South Africa,Sweden
+573,380,1926,1238224,,,British South Africa,Sweden
+573,380,1927,1392943,,,British South Africa,Sweden
+573,380,1928,1297192,,,British South Africa,Sweden
+573,380,1929,1411562,,,British South Africa,Sweden
+573,385,1910,207505,1,Pounds,British South Africa,Norway
+573,385,1911,268875,1,Pounds,British South Africa,Norway
+573,385,1912,282601,1,Pounds,British South Africa,Norway
+573,385,1913,372443,1,Pounds,British South Africa,Norway
+573,385,1914,232313,1,Pounds,British South Africa,Norway
+573,385,1915,224694,1,Pounds,British South Africa,Norway
+573,385,1916,273389,1,,British South Africa,Norway
+573,385,1917,221594,1,,British South Africa,Norway
+573,385,1918,256631,1,,British South Africa,Norway
+573,385,1919,279893,1,,British South Africa,Norway
+573,385,1920,580025,1,,British South Africa,Norway
+573,385,1921,325858,1,,British South Africa,Norway
+573,385,1922,252736,1,,British South Africa,Norway
+573,385,1923,334046,1,,British South Africa,Norway
+573,385,1924,374502,,,British South Africa,Norway
+573,385,1925,373183,,,British South Africa,Norway
+573,385,1926,382543,,,British South Africa,Norway
+573,385,1927,504617,,,British South Africa,Norway
+573,385,1928,443816,,,British South Africa,Norway
+573,385,1929,438867,,,British South Africa,Norway
+573,390,1910,33251,1,Pounds,British South Africa,Denmark
+573,390,1911,23160,1,Pounds,British South Africa,Denmark
+573,390,1912,56560,1,Pounds,British South Africa,Denmark
+573,390,1913,132225,1,Pounds,British South Africa,Denmark
+573,390,1914,129329,1,Pounds,British South Africa,Denmark
+573,390,1915,112607,1,Pounds,British South Africa,Denmark
+573,390,1916,88810,1,,British South Africa,Denmark
+573,390,1917,34189,1,,British South Africa,Denmark
+573,390,1918,19251,1,,British South Africa,Denmark
+573,390,1919,18115,1,,British South Africa,Denmark
+573,390,1920,39567,1,,British South Africa,Denmark
+573,390,1921,61538,1,,British South Africa,Denmark
+573,390,1922,68889,1,,British South Africa,Denmark
+573,390,1923,58350,1,,British South Africa,Denmark
+573,390,1924,66635,,,British South Africa,Denmark
+573,390,1925,74507,,,British South Africa,Denmark
+573,390,1926,105912,,,British South Africa,Denmark
+573,390,1927,81622,,,British South Africa,Denmark
+573,390,1928,71742,,,British South Africa,Denmark
+573,390,1929,71847,,,British South Africa,Denmark
+573,395,1910,0,1,Pounds,British South Africa,Iceland
+573,395,1911,0,1,Pounds,British South Africa,Iceland
+573,395,1912,0,1,Pounds,British South Africa,Iceland
+573,395,1913,0,1,Pounds,British South Africa,Iceland
+573,395,1914,0,1,Pounds,British South Africa,Iceland
+573,395,1915,0,1,Pounds,British South Africa,Iceland
+573,395,1916,0,1,,British South Africa,Iceland
+573,395,1917,0,1,,British South Africa,Iceland
+573,395,1918,0,1,,British South Africa,Iceland
+573,395,1919,0,1,,British South Africa,Iceland
+573,395,1920,0,1,,British South Africa,Iceland
+573,395,1921,0,1,,British South Africa,Iceland
+573,395,1922,0,1,,British South Africa,Iceland
+573,395,1923,0,1,,British South Africa,Iceland
+573,401,1910,4232,1,Pounds,British South Africa,Madeira
+573,401,1911,5823,1,Pounds,British South Africa,Madeira
+573,401,1912,5609,1,Pounds,British South Africa,Madeira
+573,401,1913,4831,1,Pounds,British South Africa,Madeira
+573,401,1914,2901,1,Pounds,British South Africa,Madeira
+573,401,1915,4072,1,Pounds,British South Africa,Madeira
+573,401,1916,3049,1,,British South Africa,Madeira
+573,401,1917,1468,1,,British South Africa,Madeira
+573,401,1918,2126,1,,British South Africa,Madeira
+573,401,1919,6362,1,,British South Africa,Madeira
+573,401,1920,17687,1,,British South Africa,Madeira
+573,401,1921,14104,1,,British South Africa,Madeira
+573,401,1922,5665,1,,British South Africa,Madeira
+573,401,1923,3456,1,,British South Africa,Madeira
+573,401,1924,3427,,,British South Africa,Madeira
+573,401,1925,2667,,,British South Africa,Madeira
+573,401,1926,1701,,,British South Africa,Madeira
+573,401,1927,2462,,,British South Africa,Madeira
+573,401,1928,2065,,,British South Africa,Madeira
+573,401,1929,2003,,,British South Africa,Madeira
+573,410,1910,1720,1,Pounds,British South Africa,Canary Islands
+573,410,1911,1760,1,Pounds,British South Africa,Canary Islands
+573,410,1912,1685,1,Pounds,British South Africa,Canary Islands
+573,410,1913,2599,1,Pounds,British South Africa,Canary Islands
+573,410,1914,1973,1,Pounds,British South Africa,Canary Islands
+573,410,1915,796,1,Pounds,British South Africa,Canary Islands
+573,410,1916,898,1,,British South Africa,Canary Islands
+573,410,1917,373,1,,British South Africa,Canary Islands
+573,410,1918,544,1,,British South Africa,Canary Islands
+573,410,1919,255,1,,British South Africa,Canary Islands
+573,410,1920,1025,1,,British South Africa,Canary Islands
+573,410,1921,862,1,,British South Africa,Canary Islands
+573,410,1922,785,1,,British South Africa,Canary Islands
+573,410,1923,671,1,,British South Africa,Canary Islands
+573,410,1924,518,,,British South Africa,Canary Islands
+573,410,1925,286,,,British South Africa,Canary Islands
+573,410,1926,709,,,British South Africa,Canary Islands
+573,410,1927,553,,,British South Africa,Canary Islands
+573,410,1928,1465,,,British South Africa,Canary Islands
+573,410,1929,459,,,British South Africa,Canary Islands
+573,450,1910,0,1,Pounds,British South Africa,Liberia
+573,450,1911,0,1,Pounds,British South Africa,Liberia
+573,450,1912,0,1,Pounds,British South Africa,Liberia
+573,450,1913,0,1,Pounds,British South Africa,Liberia
+573,450,1914,0,1,Pounds,British South Africa,Liberia
+573,450,1915,0,1,Pounds,British South Africa,Liberia
+573,450,1916,0,1,,British South Africa,Liberia
+573,450,1917,0,1,,British South Africa,Liberia
+573,450,1918,0,1,,British South Africa,Liberia
+573,450,1919,0,1,,British South Africa,Liberia
+573,450,1920,0,1,,British South Africa,Liberia
+573,450,1921,0,1,,British South Africa,Liberia
+573,450,1922,0,1,,British South Africa,Liberia
+573,450,1923,0,1,,British South Africa,Liberia
+573,465,1910,1265,1,Pounds,British South Africa,British West Africa
+573,465,1911,2000,1,Pounds,British South Africa,British West Africa
+573,465,1912,537,1,Pounds,British South Africa,British West Africa
+573,465,1913,279,1,Pounds,British South Africa,British West Africa
+573,465,1914,13083,1,Pounds,British South Africa,British West Africa
+573,465,1915,13929,1,Pounds,British South Africa,British West Africa
+573,465,1916,88448,1,,British South Africa,British West Africa
+573,465,1917,1114,1,,British South Africa,British West Africa
+573,465,1918,92175,1,,British South Africa,British West Africa
+573,465,1919,509,1,,British South Africa,British West Africa
+573,465,1920,26731,1,,British South Africa,British West Africa
+573,465,1921,3342,1,,British South Africa,British West Africa
+573,465,1922,3631,1,,British South Africa,British West Africa
+573,465,1923,6548,1,,British South Africa,British West Africa
+573,465,1924,3379,,,British South Africa,British West Africa
+573,465,1925,16524,,,British South Africa,British West Africa
+573,465,1926,23959,,,British South Africa,British West Africa
+573,465,1927,3470,,,British South Africa,British West Africa
+573,465,1928,3722,,,British South Africa,British West Africa
+573,465,1929,14790,,,British South Africa,British West Africa
+573,475,1910,0,1,Pounds,British South Africa,Nigeria
+573,475,1911,0,1,Pounds,British South Africa,Nigeria
+573,475,1912,0,1,Pounds,British South Africa,Nigeria
+573,475,1913,0,1,Pounds,British South Africa,Nigeria
+573,475,1914,0,1,Pounds,British South Africa,Nigeria
+573,475,1915,0,1,Pounds,British South Africa,Nigeria
+573,475,1916,0,1,,British South Africa,Nigeria
+573,475,1917,0,1,,British South Africa,Nigeria
+573,475,1918,0,1,,British South Africa,Nigeria
+573,475,1919,0,1,,British South Africa,Nigeria
+573,475,1920,0,1,,British South Africa,Nigeria
+573,475,1921,0,1,,British South Africa,Nigeria
+573,475,1922,0,1,,British South Africa,Nigeria
+573,475,1923,0,1,,British South Africa,Nigeria
+573,480,1910,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1911,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1912,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1913,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1914,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1915,0,1,Pounds,British South Africa,French Equatorial Africa
+573,480,1916,0,1,,British South Africa,French Equatorial Africa
+573,480,1917,0,1,,British South Africa,French Equatorial Africa
+573,480,1918,0,1,,British South Africa,French Equatorial Africa
+573,480,1919,0,1,,British South Africa,French Equatorial Africa
+573,480,1920,0,1,,British South Africa,French Equatorial Africa
+573,480,1921,0,1,,British South Africa,French Equatorial Africa
+573,480,1922,0,1,,British South Africa,French Equatorial Africa
+573,480,1923,0,1,,British South Africa,French Equatorial Africa
+573,490,1910,0,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1911,684,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1912,80140,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1913,172059,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1914,192402,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1915,359560,1,Pounds,British South Africa,"Congo, Dem. Republic"
+573,490,1916,1059086,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1917,1379260,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1918,1016208,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1919,1123267,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1920,897635,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1921,1275934,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1922,1308760,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1923,47453,1,,British South Africa,"Congo, Dem. Republic"
+573,490,1924,12800,,,British South Africa,"Congo, Dem. Republic"
+573,490,1925,6892,,,British South Africa,"Congo, Dem. Republic"
+573,490,1926,5758,,,British South Africa,"Congo, Dem. Republic"
+573,490,1927,21751,,,British South Africa,"Congo, Dem. Republic"
+573,490,1928,26320,,,British South Africa,"Congo, Dem. Republic"
+573,490,1929,53913,,,British South Africa,"Congo, Dem. Republic"
+573,500,1910,0,1,Pounds,British South Africa,Uganda
+573,500,1911,0,1,Pounds,British South Africa,Uganda
+573,500,1912,0,1,Pounds,British South Africa,Uganda
+573,500,1913,0,1,Pounds,British South Africa,Uganda
+573,500,1914,0,1,Pounds,British South Africa,Uganda
+573,500,1915,0,1,Pounds,British South Africa,Uganda
+573,500,1916,0,1,,British South Africa,Uganda
+573,500,1917,0,1,,British South Africa,Uganda
+573,500,1918,0,1,,British South Africa,Uganda
+573,500,1919,0,1,,British South Africa,Uganda
+573,500,1920,0,1,,British South Africa,Uganda
+573,500,1921,0,1,,British South Africa,Uganda
+573,500,1922,0,1,,British South Africa,Uganda
+573,500,1923,0,1,,British South Africa,Uganda
+573,501,1910,0,1,Pounds,British South Africa,Kenya
+573,501,1911,0,1,Pounds,British South Africa,Kenya
+573,501,1912,0,1,Pounds,British South Africa,Kenya
+573,501,1913,0,1,Pounds,British South Africa,Kenya
+573,501,1914,0,1,Pounds,British South Africa,Kenya
+573,501,1915,0,1,Pounds,British South Africa,Kenya
+573,501,1916,0,1,,British South Africa,Kenya
+573,501,1917,0,1,,British South Africa,Kenya
+573,501,1918,139308,1,,British South Africa,Kenya
+573,501,1919,95450,1,,British South Africa,Kenya
+573,501,1920,143491,1,,British South Africa,Kenya
+573,501,1921,65478,1,,British South Africa,Kenya
+573,501,1922,92635,1,,British South Africa,Kenya
+573,501,1923,96166,1,,British South Africa,Kenya
+573,501,1924,99820,,,British South Africa,Kenya
+573,501,1925,97560,,,British South Africa,Kenya
+573,501,1926,78567,,,British South Africa,Kenya
+573,501,1927,94345,,,British South Africa,Kenya
+573,501,1928,127521,,,British South Africa,Kenya
+573,501,1929,114311,,,British South Africa,Kenya
+573,505,1910,1318,1,Pounds,British South Africa,British East Africa
+573,505,1911,1913,1,Pounds,British South Africa,British East Africa
+573,505,1912,5859,1,Pounds,British South Africa,British East Africa
+573,505,1913,17803,1,Pounds,British South Africa,British East Africa
+573,505,1914,3176,1,Pounds,British South Africa,British East Africa
+573,505,1915,4416,1,Pounds,British South Africa,British East Africa
+573,505,1916,10629,1,,British South Africa,British East Africa
+573,505,1917,49753,1,,British South Africa,British East Africa
+573,505,1918,0,1,,British South Africa,British East Africa
+573,505,1919,0,1,,British South Africa,British East Africa
+573,505,1920,0,1,,British South Africa,British East Africa
+573,505,1921,0,1,,British South Africa,British East Africa
+573,505,1922,0,1,,British South Africa,British East Africa
+573,505,1923,0,1,,British South Africa,British East Africa
+573,510,1910,0,1,Pounds,British South Africa,Tanzania
+573,510,1911,0,1,Pounds,British South Africa,Tanzania
+573,510,1912,0,1,Pounds,British South Africa,Tanzania
+573,510,1913,0,1,Pounds,British South Africa,Tanzania
+573,510,1914,0,1,Pounds,British South Africa,Tanzania
+573,510,1915,0,1,Pounds,British South Africa,Tanzania
+573,510,1916,0,1,,British South Africa,Tanzania
+573,510,1917,0,1,,British South Africa,Tanzania
+573,510,1918,0,1,,British South Africa,Tanzania
+573,510,1919,0,1,,British South Africa,Tanzania
+573,510,1920,0,1,,British South Africa,Tanzania
+573,510,1921,0,1,,British South Africa,Tanzania
+573,510,1922,0,1,,British South Africa,Tanzania
+573,510,1923,0,1,,British South Africa,Tanzania
+573,511,1910,1752,1,Pounds,British South Africa,Zanzibar
+573,511,1911,1988,1,Pounds,British South Africa,Zanzibar
+573,511,1912,2097,1,Pounds,British South Africa,Zanzibar
+573,511,1913,3399,1,Pounds,British South Africa,Zanzibar
+573,511,1914,2602,1,Pounds,British South Africa,Zanzibar
+573,511,1915,46524,1,Pounds,British South Africa,Zanzibar
+573,511,1916,49611,1,,British South Africa,Zanzibar
+573,511,1917,76468,1,,British South Africa,Zanzibar
+573,511,1918,295832,1,,British South Africa,Zanzibar
+573,511,1919,139590,1,,British South Africa,Zanzibar
+573,511,1920,86837,1,,British South Africa,Zanzibar
+573,511,1921,21934,1,,British South Africa,Zanzibar
+573,511,1922,27597,1,,British South Africa,Zanzibar
+573,511,1923,14600,1,,British South Africa,Zanzibar
+573,511,1924,7763,,,British South Africa,Zanzibar
+573,511,1925,2832,,,British South Africa,Zanzibar
+573,511,1926,4874,,,British South Africa,Zanzibar
+573,511,1927,4802,,,British South Africa,Zanzibar
+573,511,1928,4771,,,British South Africa,Zanzibar
+573,511,1929,6599,,,British South Africa,Zanzibar
+573,521,1910,0,1,Pounds,British South Africa,British Somaliland
+573,521,1911,0,1,Pounds,British South Africa,British Somaliland
+573,521,1912,0,1,Pounds,British South Africa,British Somaliland
+573,521,1913,0,1,Pounds,British South Africa,British Somaliland
+573,521,1914,0,1,Pounds,British South Africa,British Somaliland
+573,521,1915,0,1,Pounds,British South Africa,British Somaliland
+573,521,1916,0,1,,British South Africa,British Somaliland
+573,521,1917,0,1,,British South Africa,British Somaliland
+573,521,1918,0,1,,British South Africa,British Somaliland
+573,521,1919,0,1,,British South Africa,British Somaliland
+573,521,1920,0,1,,British South Africa,British Somaliland
+573,521,1921,0,1,,British South Africa,British Somaliland
+573,521,1922,0,1,,British South Africa,British Somaliland
+573,521,1923,0,1,,British South Africa,British Somaliland
+573,530,1910,0,1,Pounds,British South Africa,Ethiopia
+573,530,1911,0,1,Pounds,British South Africa,Ethiopia
+573,530,1912,0,1,Pounds,British South Africa,Ethiopia
+573,530,1913,0,1,Pounds,British South Africa,Ethiopia
+573,530,1914,0,1,Pounds,British South Africa,Ethiopia
+573,530,1915,0,1,Pounds,British South Africa,Ethiopia
+573,530,1916,0,1,,British South Africa,Ethiopia
+573,530,1917,0,1,,British South Africa,Ethiopia
+573,530,1918,0,1,,British South Africa,Ethiopia
+573,530,1919,0,1,,British South Africa,Ethiopia
+573,530,1920,0,1,,British South Africa,Ethiopia
+573,530,1921,0,1,,British South Africa,Ethiopia
+573,530,1922,0,1,,British South Africa,Ethiopia
+573,530,1923,0,1,,British South Africa,Ethiopia
+573,540,1910,147,1,Pounds,British South Africa,Angola
+573,540,1911,86,1,Pounds,British South Africa,Angola
+573,540,1912,432,1,Pounds,British South Africa,Angola
+573,540,1913,925,1,Pounds,British South Africa,Angola
+573,540,1914,782,1,Pounds,British South Africa,Angola
+573,540,1915,17395,1,Pounds,British South Africa,Angola
+573,540,1916,4578,1,,British South Africa,Angola
+573,540,1917,11881,1,,British South Africa,Angola
+573,540,1918,14586,1,,British South Africa,Angola
+573,540,1919,8123,1,,British South Africa,Angola
+573,540,1920,6053,1,,British South Africa,Angola
+573,540,1921,10888,1,,British South Africa,Angola
+573,540,1922,4129,1,,British South Africa,Angola
+573,540,1923,5868,1,,British South Africa,Angola
+573,540,1924,3777,,,British South Africa,Angola
+573,540,1925,3139,,,British South Africa,Angola
+573,540,1926,8264,,,British South Africa,Angola
+573,540,1927,2947,,,British South Africa,Angola
+573,540,1928,3051,,,British South Africa,Angola
+573,540,1929,10088,,,British South Africa,Angola
+573,541,1910,88010,1,Pounds,British South Africa,Mozambique
+573,541,1911,122704,1,Pounds,British South Africa,Mozambique
+573,541,1912,175048,1,Pounds,British South Africa,Mozambique
+573,541,1913,213648,1,Pounds,British South Africa,Mozambique
+573,541,1914,172834,1,Pounds,British South Africa,Mozambique
+573,541,1915,154152,1,Pounds,British South Africa,Mozambique
+573,541,1916,171542,1,,British South Africa,Mozambique
+573,541,1917,304196,1,,British South Africa,Mozambique
+573,541,1918,304909,1,,British South Africa,Mozambique
+573,541,1919,189874,1,,British South Africa,Mozambique
+573,541,1920,412024,1,,British South Africa,Mozambique
+573,541,1921,474956,1,,British South Africa,Mozambique
+573,541,1922,639932,1,,British South Africa,Mozambique
+573,541,1923,165582,1,,British South Africa,Mozambique
+573,541,1924,105288,,,British South Africa,Mozambique
+573,541,1925,228395,,,British South Africa,Mozambique
+573,541,1926,255001,,,British South Africa,Mozambique
+573,541,1927,284479,,,British South Africa,Mozambique
+573,541,1928,492450,,,British South Africa,Mozambique
+573,541,1929,431456,,,British South Africa,Mozambique
+573,551,1910,940,1,Pounds,British South Africa,Zambia
+573,551,1911,619,1,Pounds,British South Africa,Zambia
+573,551,1912,566,1,Pounds,British South Africa,Zambia
+573,551,1913,175,1,Pounds,British South Africa,Zambia
+573,551,1914,0,1,Pounds,British South Africa,Zambia
+573,551,1915,12,1,Pounds,British South Africa,Zambia
+573,551,1916,0,1,,British South Africa,Zambia
+573,551,1917,8,1,,British South Africa,Zambia
+573,551,1918,0,1,,British South Africa,Zambia
+573,551,1919,132,1,,British South Africa,Zambia
+573,551,1920,0,1,,British South Africa,Zambia
+573,551,1921,0,1,,British South Africa,Zambia
+573,551,1922,0,1,,British South Africa,Zambia
+573,551,1923,0,1,,British South Africa,Zambia
+573,552,1910,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1911,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1912,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1913,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1914,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1915,0,1,Pounds,British South Africa,Zimbabwe
+573,552,1916,0,1,,British South Africa,Zimbabwe
+573,552,1917,0,1,,British South Africa,Zimbabwe
+573,552,1918,0,1,,British South Africa,Zimbabwe
+573,552,1919,0,1,,British South Africa,Zimbabwe
+573,552,1920,0,1,,British South Africa,Zimbabwe
+573,552,1921,0,1,,British South Africa,Zimbabwe
+573,552,1922,0,1,,British South Africa,Zimbabwe
+573,552,1923,0,1,,British South Africa,Zimbabwe
+573,553,1910,1179,1,Pounds,British South Africa,Malawi
+573,553,1911,1559,1,Pounds,British South Africa,Malawi
+573,553,1912,1312,1,Pounds,British South Africa,Malawi
+573,553,1913,705,1,Pounds,British South Africa,Malawi
+573,553,1914,986,1,Pounds,British South Africa,Malawi
+573,553,1915,1171,1,Pounds,British South Africa,Malawi
+573,553,1916,1211,1,,British South Africa,Malawi
+573,553,1917,3684,1,,British South Africa,Malawi
+573,553,1918,13543,1,,British South Africa,Malawi
+573,553,1919,2798,1,,British South Africa,Malawi
+573,553,1920,2075,1,,British South Africa,Malawi
+573,553,1921,2274,1,,British South Africa,Malawi
+573,553,1922,1092,1,,British South Africa,Malawi
+573,553,1923,1913,1,,British South Africa,Malawi
+573,553,1924,2509,,,British South Africa,Malawi
+573,553,1925,1776,,,British South Africa,Malawi
+573,553,1926,3927,,,British South Africa,Malawi
+573,553,1927,3477,,,British South Africa,Malawi
+573,553,1928,3727,,,British South Africa,Malawi
+573,553,1929,4706,,,British South Africa,Malawi
+573,560,1910,0,1,Pounds,British South Africa,South Africa
+573,560,1911,0,1,Pounds,British South Africa,South Africa
+573,560,1912,0,1,Pounds,British South Africa,South Africa
+573,560,1913,0,1,Pounds,British South Africa,South Africa
+573,560,1914,0,1,Pounds,British South Africa,South Africa
+573,560,1915,0,1,Pounds,British South Africa,South Africa
+573,560,1916,0,1,,British South Africa,South Africa
+573,560,1917,0,1,,British South Africa,South Africa
+573,560,1918,0,1,,British South Africa,South Africa
+573,560,1919,0,1,,British South Africa,South Africa
+573,560,1920,0,1,,British South Africa,South Africa
+573,560,1921,0,1,,British South Africa,South Africa
+573,560,1922,0,1,,British South Africa,South Africa
+573,560,1923,0,1,,British South Africa,South Africa
+573,565,1910,0,1,Pounds,British South Africa,Namibia
+573,565,1911,0,1,Pounds,British South Africa,Namibia
+573,565,1912,0,1,Pounds,British South Africa,Namibia
+573,565,1913,0,1,Pounds,British South Africa,Namibia
+573,565,1914,0,1,Pounds,British South Africa,Namibia
+573,565,1915,12158,1,Pounds,British South Africa,Namibia
+573,565,1916,63440,1,,British South Africa,Namibia
+573,565,1917,49784,1,,British South Africa,Namibia
+573,565,1918,46506,1,,British South Africa,Namibia
+573,565,1919,447623,1,,British South Africa,Namibia
+573,565,1920,428938,1,,British South Africa,Namibia
+573,565,1921,270696,1,,British South Africa,Namibia
+573,565,1922,0,1,,British South Africa,Namibia
+573,565,1923,0,1,,British South Africa,Namibia
+573,571,1910,0,1,Pounds,British South Africa,Botswana
+573,571,1911,0,1,Pounds,British South Africa,Botswana
+573,571,1912,0,1,Pounds,British South Africa,Botswana
+573,571,1913,0,1,Pounds,British South Africa,Botswana
+573,571,1914,0,1,Pounds,British South Africa,Botswana
+573,571,1915,0,1,Pounds,British South Africa,Botswana
+573,571,1916,0,1,,British South Africa,Botswana
+573,571,1917,0,1,,British South Africa,Botswana
+573,571,1918,0,1,,British South Africa,Botswana
+573,571,1919,0,1,,British South Africa,Botswana
+573,571,1920,0,1,,British South Africa,Botswana
+573,571,1921,0,1,,British South Africa,Botswana
+573,571,1922,0,1,,British South Africa,Botswana
+573,571,1923,0,1,,British South Africa,Botswana
+573,573,1910,0,1,Pounds,British South Africa,British South Africa
+573,573,1911,0,1,Pounds,British South Africa,British South Africa
+573,573,1912,0,1,Pounds,British South Africa,British South Africa
+573,573,1913,0,1,Pounds,British South Africa,British South Africa
+573,573,1914,0,1,Pounds,British South Africa,British South Africa
+573,573,1915,0,1,Pounds,British South Africa,British South Africa
+573,573,1916,0,1,,British South Africa,British South Africa
+573,573,1917,0,1,,British South Africa,British South Africa
+573,573,1918,0,1,,British South Africa,British South Africa
+573,573,1919,0,1,,British South Africa,British South Africa
+573,573,1920,0,1,,British South Africa,British South Africa
+573,573,1921,0,1,,British South Africa,British South Africa
+573,573,1922,0,1,,British South Africa,British South Africa
+573,573,1923,0,1,,British South Africa,British South Africa
+573,580,1910,6439,1,Pounds,British South Africa,Madagascar
+573,580,1911,13130,1,Pounds,British South Africa,Madagascar
+573,580,1912,21164,1,Pounds,British South Africa,Madagascar
+573,580,1913,4693,1,Pounds,British South Africa,Madagascar
+573,580,1914,6739,1,Pounds,British South Africa,Madagascar
+573,580,1915,16623,1,Pounds,British South Africa,Madagascar
+573,580,1916,40143,1,,British South Africa,Madagascar
+573,580,1917,21352,1,,British South Africa,Madagascar
+573,580,1918,128356,1,,British South Africa,Madagascar
+573,580,1919,55957,1,,British South Africa,Madagascar
+573,580,1920,132372,1,,British South Africa,Madagascar
+573,580,1921,18156,1,,British South Africa,Madagascar
+573,580,1922,6112,1,,British South Africa,Madagascar
+573,580,1923,12513,1,,British South Africa,Madagascar
+573,580,1924,11779,,,British South Africa,Madagascar
+573,580,1925,8943,,,British South Africa,Madagascar
+573,580,1926,10316,,,British South Africa,Madagascar
+573,580,1927,8083,,,British South Africa,Madagascar
+573,580,1928,9022,,,British South Africa,Madagascar
+573,580,1929,9319,,,British South Africa,Madagascar
+573,585,1910,0,1,Pounds,British South Africa,Reunion
+573,585,1911,0,1,Pounds,British South Africa,Reunion
+573,585,1912,0,1,Pounds,British South Africa,Reunion
+573,585,1913,0,1,Pounds,British South Africa,Reunion
+573,585,1914,0,1,Pounds,British South Africa,Reunion
+573,585,1915,0,1,Pounds,British South Africa,Reunion
+573,585,1916,0,1,,British South Africa,Reunion
+573,585,1917,0,1,,British South Africa,Reunion
+573,585,1918,0,1,,British South Africa,Reunion
+573,585,1919,0,1,,British South Africa,Reunion
+573,585,1920,0,1,,British South Africa,Reunion
+573,585,1921,0,1,,British South Africa,Reunion
+573,585,1922,0,1,,British South Africa,Reunion
+573,585,1923,0,1,,British South Africa,Reunion
+573,590,1910,282671,1,Pounds,British South Africa,Mauritius
+573,590,1911,265760,1,Pounds,British South Africa,Mauritius
+573,590,1912,132478,1,Pounds,British South Africa,Mauritius
+573,590,1913,198029,1,Pounds,British South Africa,Mauritius
+573,590,1914,135344,1,Pounds,British South Africa,Mauritius
+573,590,1915,12917,1,Pounds,British South Africa,Mauritius
+573,590,1916,25624,1,,British South Africa,Mauritius
+573,590,1917,46132,1,,British South Africa,Mauritius
+573,590,1918,174588,1,,British South Africa,Mauritius
+573,590,1919,21512,1,,British South Africa,Mauritius
+573,590,1920,27197,1,,British South Africa,Mauritius
+573,590,1921,13350,1,,British South Africa,Mauritius
+573,590,1922,17913,1,,British South Africa,Mauritius
+573,590,1923,19043,1,,British South Africa,Mauritius
+573,590,1924,11704,,,British South Africa,Mauritius
+573,590,1925,15597,,,British South Africa,Mauritius
+573,590,1926,1035,,,British South Africa,Mauritius
+573,590,1927,2543,,,British South Africa,Mauritius
+573,590,1928,11974,,,British South Africa,Mauritius
+573,590,1929,1570,,,British South Africa,Mauritius
+573,591,1910,95,1,Pounds,British South Africa,Seychelles
+573,591,1911,76,1,Pounds,British South Africa,Seychelles
+573,591,1912,884,1,Pounds,British South Africa,Seychelles
+573,591,1913,733,1,Pounds,British South Africa,Seychelles
+573,591,1914,651,1,Pounds,British South Africa,Seychelles
+573,591,1915,301,1,Pounds,British South Africa,Seychelles
+573,591,1916,2481,1,,British South Africa,Seychelles
+573,591,1917,1110,1,,British South Africa,Seychelles
+573,591,1918,548,1,,British South Africa,Seychelles
+573,591,1919,1917,1,,British South Africa,Seychelles
+573,591,1920,16328,1,,British South Africa,Seychelles
+573,591,1921,2546,1,,British South Africa,Seychelles
+573,591,1922,2566,1,,British South Africa,Seychelles
+573,591,1923,3715,1,,British South Africa,Seychelles
+573,591,1924,15532,,,British South Africa,Seychelles
+573,591,1925,2789,,,British South Africa,Seychelles
+573,591,1926,5356,,,British South Africa,Seychelles
+573,591,1927,3235,,,British South Africa,Seychelles
+573,591,1928,2071,,,British South Africa,Seychelles
+573,591,1929,2721,,,British South Africa,Seychelles
+573,615,1910,201,1,Pounds,British South Africa,Algeria
+573,615,1911,211,1,Pounds,British South Africa,Algeria
+573,615,1912,466,1,Pounds,British South Africa,Algeria
+573,615,1913,478,1,Pounds,British South Africa,Algeria
+573,615,1914,1025,1,Pounds,British South Africa,Algeria
+573,615,1915,584,1,Pounds,British South Africa,Algeria
+573,615,1916,532,1,,British South Africa,Algeria
+573,615,1917,164,1,,British South Africa,Algeria
+573,615,1918,1579,1,,British South Africa,Algeria
+573,615,1919,2547,1,,British South Africa,Algeria
+573,615,1920,297,1,,British South Africa,Algeria
+573,615,1921,192,1,,British South Africa,Algeria
+573,615,1922,190,1,,British South Africa,Algeria
+573,615,1923,76,1,,British South Africa,Algeria
+573,615,1924,55,,,British South Africa,Algeria
+573,615,1925,596,,,British South Africa,Algeria
+573,615,1926,382,,,British South Africa,Algeria
+573,615,1927,597,,,British South Africa,Algeria
+573,615,1928,486,,,British South Africa,Algeria
+573,615,1929,391,,,British South Africa,Algeria
+573,616,1910,0,1,Pounds,British South Africa,Tunisia
+573,616,1911,0,1,Pounds,British South Africa,Tunisia
+573,616,1912,0,1,Pounds,British South Africa,Tunisia
+573,616,1913,0,1,Pounds,British South Africa,Tunisia
+573,616,1914,0,1,Pounds,British South Africa,Tunisia
+573,616,1915,0,1,Pounds,British South Africa,Tunisia
+573,616,1916,0,1,,British South Africa,Tunisia
+573,616,1917,0,1,,British South Africa,Tunisia
+573,616,1918,0,1,,British South Africa,Tunisia
+573,616,1919,0,1,,British South Africa,Tunisia
+573,616,1920,0,1,,British South Africa,Tunisia
+573,616,1921,0,1,,British South Africa,Tunisia
+573,616,1922,0,1,,British South Africa,Tunisia
+573,616,1923,0,1,,British South Africa,Tunisia
+573,620,1910,0,1,Pounds,British South Africa,Libya
+573,620,1911,0,1,Pounds,British South Africa,Libya
+573,620,1912,0,1,Pounds,British South Africa,Libya
+573,620,1913,0,1,Pounds,British South Africa,Libya
+573,620,1914,0,1,Pounds,British South Africa,Libya
+573,620,1915,0,1,Pounds,British South Africa,Libya
+573,620,1916,0,1,,British South Africa,Libya
+573,620,1917,0,1,,British South Africa,Libya
+573,620,1918,0,1,,British South Africa,Libya
+573,620,1919,0,1,,British South Africa,Libya
+573,620,1920,0,1,,British South Africa,Libya
+573,620,1921,0,1,,British South Africa,Libya
+573,620,1922,0,1,,British South Africa,Libya
+573,620,1923,0,1,,British South Africa,Libya
+573,625,1910,0,1,Pounds,British South Africa,Sudan
+573,625,1911,0,1,Pounds,British South Africa,Sudan
+573,625,1912,0,1,Pounds,British South Africa,Sudan
+573,625,1913,0,1,Pounds,British South Africa,Sudan
+573,625,1914,0,1,Pounds,British South Africa,Sudan
+573,625,1915,0,1,Pounds,British South Africa,Sudan
+573,625,1916,0,1,,British South Africa,Sudan
+573,625,1917,0,1,,British South Africa,Sudan
+573,625,1918,0,1,,British South Africa,Sudan
+573,625,1919,0,1,,British South Africa,Sudan
+573,625,1920,0,1,,British South Africa,Sudan
+573,625,1921,0,1,,British South Africa,Sudan
+573,625,1922,0,1,,British South Africa,Sudan
+573,625,1923,0,1,,British South Africa,Sudan
+573,630,1910,2748,1,Pounds,British South Africa,Iran
+573,630,1911,1394,1,Pounds,British South Africa,Iran
+573,630,1912,4236,1,Pounds,British South Africa,Iran
+573,630,1913,5966,1,Pounds,British South Africa,Iran
+573,630,1914,2709,1,Pounds,British South Africa,Iran
+573,630,1915,3047,1,Pounds,British South Africa,Iran
+573,630,1916,1456,1,,British South Africa,Iran
+573,630,1917,1420,1,,British South Africa,Iran
+573,630,1918,6109,1,,British South Africa,Iran
+573,630,1919,8589,1,,British South Africa,Iran
+573,630,1920,16527,1,,British South Africa,Iran
+573,630,1921,11949,1,,British South Africa,Iran
+573,630,1922,3692,1,,British South Africa,Iran
+573,630,1923,2865,1,,British South Africa,Iran
+573,630,1924,29620,,,British South Africa,Iran
+573,630,1925,4544,,,British South Africa,Iran
+573,630,1926,11503,,,British South Africa,Iran
+573,630,1927,22618,,,British South Africa,Iran
+573,630,1928,48529,,,British South Africa,Iran
+573,630,1929,105773,,,British South Africa,Iran
+573,645,1910,0,1,Pounds,British South Africa,Iraq
+573,645,1911,0,1,Pounds,British South Africa,Iraq
+573,645,1912,0,1,Pounds,British South Africa,Iraq
+573,645,1913,0,1,Pounds,British South Africa,Iraq
+573,645,1914,0,1,Pounds,British South Africa,Iraq
+573,645,1915,0,1,Pounds,British South Africa,Iraq
+573,645,1916,0,1,,British South Africa,Iraq
+573,645,1917,0,1,,British South Africa,Iraq
+573,645,1918,0,1,,British South Africa,Iraq
+573,645,1919,0,1,,British South Africa,Iraq
+573,645,1920,0,1,,British South Africa,Iraq
+573,645,1921,0,1,,British South Africa,Iraq
+573,645,1922,0,1,,British South Africa,Iraq
+573,645,1923,0,1,,British South Africa,Iraq
+573,651,1910,5757,1,Pounds,British South Africa,Egypt
+573,651,1911,6182,1,Pounds,British South Africa,Egypt
+573,651,1912,9161,1,Pounds,British South Africa,Egypt
+573,651,1913,7381,1,Pounds,British South Africa,Egypt
+573,651,1914,3930,1,Pounds,British South Africa,Egypt
+573,651,1915,5303,1,Pounds,British South Africa,Egypt
+573,651,1916,3988,1,,British South Africa,Egypt
+573,651,1917,3920,1,,British South Africa,Egypt
+573,651,1918,10754,1,,British South Africa,Egypt
+573,651,1919,20953,1,,British South Africa,Egypt
+573,651,1920,93293,1,,British South Africa,Egypt
+573,651,1921,25896,1,,British South Africa,Egypt
+573,651,1922,5358,1,,British South Africa,Egypt
+573,651,1923,9564,1,,British South Africa,Egypt
+573,651,1924,9509,,,British South Africa,Egypt
+573,651,1925,10683,,,British South Africa,Egypt
+573,651,1926,415856,,,British South Africa,Egypt
+573,651,1927,18772,,,British South Africa,Egypt
+573,651,1928,14911,,,British South Africa,Egypt
+573,651,1929,7158,,,British South Africa,Egypt
+573,665,1910,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1911,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1912,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1913,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1914,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1915,0,1,Pounds,British South Africa,West Bank And Gaza
+573,665,1916,0,1,,British South Africa,West Bank And Gaza
+573,665,1917,0,1,,British South Africa,West Bank And Gaza
+573,665,1918,0,1,,British South Africa,West Bank And Gaza
+573,665,1919,0,1,,British South Africa,West Bank And Gaza
+573,665,1920,0,1,,British South Africa,West Bank And Gaza
+573,665,1921,0,1,,British South Africa,West Bank And Gaza
+573,665,1922,0,1,,British South Africa,West Bank And Gaza
+573,665,1923,0,1,,British South Africa,West Bank And Gaza
+573,666,1910,0,1,Pounds,British South Africa,Israel
+573,666,1911,0,1,Pounds,British South Africa,Israel
+573,666,1912,0,1,Pounds,British South Africa,Israel
+573,666,1913,0,1,Pounds,British South Africa,Israel
+573,666,1914,0,1,Pounds,British South Africa,Israel
+573,666,1915,0,1,Pounds,British South Africa,Israel
+573,666,1916,0,1,,British South Africa,Israel
+573,666,1917,0,1,,British South Africa,Israel
+573,666,1918,0,1,,British South Africa,Israel
+573,666,1919,0,1,,British South Africa,Israel
+573,666,1920,0,1,,British South Africa,Israel
+573,666,1921,0,1,,British South Africa,Israel
+573,666,1922,0,1,,British South Africa,Israel
+573,666,1923,0,1,,British South Africa,Israel
+573,675,1910,0,1,Pounds,British South Africa,Arabia
+573,675,1911,0,1,Pounds,British South Africa,Arabia
+573,675,1912,0,1,Pounds,British South Africa,Arabia
+573,675,1913,0,1,Pounds,British South Africa,Arabia
+573,675,1914,0,1,Pounds,British South Africa,Arabia
+573,675,1915,0,1,Pounds,British South Africa,Arabia
+573,675,1916,0,1,,British South Africa,Arabia
+573,675,1917,0,1,,British South Africa,Arabia
+573,675,1918,0,1,,British South Africa,Arabia
+573,675,1919,0,1,,British South Africa,Arabia
+573,675,1920,0,1,,British South Africa,Arabia
+573,675,1921,0,1,,British South Africa,Arabia
+573,675,1922,0,1,,British South Africa,Arabia
+573,675,1923,0,1,,British South Africa,Arabia
+573,681,1910,245,1,Pounds,British South Africa,Aden
+573,681,1911,662,1,Pounds,British South Africa,Aden
+573,681,1912,466,1,Pounds,British South Africa,Aden
+573,681,1913,333,1,Pounds,British South Africa,Aden
+573,681,1914,343,1,Pounds,British South Africa,Aden
+573,681,1915,342,1,Pounds,British South Africa,Aden
+573,681,1916,681,1,,British South Africa,Aden
+573,681,1917,415,1,,British South Africa,Aden
+573,681,1918,30,1,,British South Africa,Aden
+573,681,1919,471,1,,British South Africa,Aden
+573,681,1920,411,1,,British South Africa,Aden
+573,681,1921,172,1,,British South Africa,Aden
+573,681,1922,80,1,,British South Africa,Aden
+573,681,1923,50,1,,British South Africa,Aden
+573,681,1924,14,,,British South Africa,Aden
+573,681,1925,18,,,British South Africa,Aden
+573,681,1926,25,,,British South Africa,Aden
+573,681,1927,165,,,British South Africa,Aden
+573,681,1928,82,,,British South Africa,Aden
+573,681,1929,4,,,British South Africa,Aden
+573,692,1910,0,1,Pounds,British South Africa,Bahrain
+573,692,1911,0,1,Pounds,British South Africa,Bahrain
+573,692,1912,0,1,Pounds,British South Africa,Bahrain
+573,692,1913,0,1,Pounds,British South Africa,Bahrain
+573,692,1914,0,1,Pounds,British South Africa,Bahrain
+573,692,1915,0,1,Pounds,British South Africa,Bahrain
+573,692,1916,0,1,,British South Africa,Bahrain
+573,692,1917,0,1,,British South Africa,Bahrain
+573,692,1918,0,1,,British South Africa,Bahrain
+573,692,1919,0,1,,British South Africa,Bahrain
+573,692,1920,0,1,,British South Africa,Bahrain
+573,692,1921,0,1,,British South Africa,Bahrain
+573,692,1922,0,1,,British South Africa,Bahrain
+573,692,1923,0,1,,British South Africa,Bahrain
+573,700,1910,0,1,Pounds,British South Africa,Afghanistan
+573,700,1911,0,1,Pounds,British South Africa,Afghanistan
+573,700,1912,0,1,Pounds,British South Africa,Afghanistan
+573,700,1913,0,1,Pounds,British South Africa,Afghanistan
+573,700,1914,0,1,Pounds,British South Africa,Afghanistan
+573,700,1915,0,1,Pounds,British South Africa,Afghanistan
+573,700,1916,0,1,,British South Africa,Afghanistan
+573,700,1917,0,1,,British South Africa,Afghanistan
+573,700,1918,0,1,,British South Africa,Afghanistan
+573,700,1919,0,1,,British South Africa,Afghanistan
+573,700,1920,0,1,,British South Africa,Afghanistan
+573,700,1921,0,1,,British South Africa,Afghanistan
+573,700,1922,0,1,,British South Africa,Afghanistan
+573,700,1923,0,1,,British South Africa,Afghanistan
+573,710,1910,30715,1,Pounds,British South Africa,China
+573,710,1911,36335,1,Pounds,British South Africa,China
+573,710,1912,54598,1,Pounds,British South Africa,China
+573,710,1913,64863,1,Pounds,British South Africa,China
+573,710,1914,46177,1,Pounds,British South Africa,China
+573,710,1915,78529,1,Pounds,British South Africa,China
+573,710,1916,129001,1,,British South Africa,China
+573,710,1917,71339,1,,British South Africa,China
+573,710,1918,102646,1,,British South Africa,China
+573,710,1919,75779,1,,British South Africa,China
+573,710,1920,270775,1,,British South Africa,China
+573,710,1921,311265,1,,British South Africa,China
+573,710,1922,110910,1,,British South Africa,China
+573,710,1923,113647,1,,British South Africa,China
+573,710,1924,106361,,,British South Africa,China
+573,710,1925,73818,,,British South Africa,China
+573,710,1926,88551,,,British South Africa,China
+573,710,1927,81854,,,British South Africa,China
+573,710,1928,83441,,,British South Africa,China
+573,710,1929,80757,,,British South Africa,China
+573,720,1910,8591,1,Pounds,British South Africa,Hong Kong
+573,720,1911,6439,1,Pounds,British South Africa,Hong Kong
+573,720,1912,7256,1,Pounds,British South Africa,Hong Kong
+573,720,1913,11342,1,Pounds,British South Africa,Hong Kong
+573,720,1914,7393,1,Pounds,British South Africa,Hong Kong
+573,720,1915,4400,1,Pounds,British South Africa,Hong Kong
+573,720,1916,6282,1,,British South Africa,Hong Kong
+573,720,1917,8557,1,,British South Africa,Hong Kong
+573,720,1918,15285,1,,British South Africa,Hong Kong
+573,720,1919,5552,1,,British South Africa,Hong Kong
+573,720,1920,14988,1,,British South Africa,Hong Kong
+573,720,1921,3810,1,,British South Africa,Hong Kong
+573,720,1922,7457,1,,British South Africa,Hong Kong
+573,720,1923,7267,1,,British South Africa,Hong Kong
+573,720,1924,15751,,,British South Africa,Hong Kong
+573,720,1925,13553,,,British South Africa,Hong Kong
+573,720,1926,19862,,,British South Africa,Hong Kong
+573,720,1927,18880,,,British South Africa,Hong Kong
+573,720,1928,17694,,,British South Africa,Hong Kong
+573,720,1929,33059,,,British South Africa,Hong Kong
+573,740,1910,81647,1,Pounds,British South Africa,Japan
+573,740,1911,100533,1,Pounds,British South Africa,Japan
+573,740,1912,109876,1,Pounds,British South Africa,Japan
+573,740,1913,115461,1,Pounds,British South Africa,Japan
+573,740,1914,119663,1,Pounds,British South Africa,Japan
+573,740,1915,232774,1,Pounds,British South Africa,Japan
+573,740,1916,555575,1,,British South Africa,Japan
+573,740,1917,745956,1,,British South Africa,Japan
+573,740,1918,2667006,1,,British South Africa,Japan
+573,740,1919,1762149,1,,British South Africa,Japan
+573,740,1920,1443907,1,,British South Africa,Japan
+573,740,1921,755052,1,,British South Africa,Japan
+573,740,1922,639319,1,,British South Africa,Japan
+573,740,1923,538307,1,,British South Africa,Japan
+573,740,1924,742731,,,British South Africa,Japan
+573,740,1925,873087,,,British South Africa,Japan
+573,740,1926,1139351,,,British South Africa,Japan
+573,740,1927,1094920,,,British South Africa,Japan
+573,740,1928,1298398,,,British South Africa,Japan
+573,740,1929,1452304,,,British South Africa,Japan
+573,750,1910,802394,1,Pounds,British South Africa,India
+573,750,1911,875827,1,Pounds,British South Africa,India
+573,750,1912,1024127,1,Pounds,British South Africa,India
+573,750,1913,1138210,1,Pounds,British South Africa,India
+573,750,1914,1052162,1,Pounds,British South Africa,India
+573,750,1915,1301038,1,Pounds,British South Africa,India
+573,750,1916,1498971,1,,British South Africa,India
+573,750,1917,2203192,1,,British South Africa,India
+573,750,1918,3427402,1,,British South Africa,India
+573,750,1919,2623798,1,,British South Africa,India
+573,750,1920,2728234,1,,British South Africa,India
+573,750,1921,1793676,1,,British South Africa,India
+573,750,1922,1977723,1,,British South Africa,India
+573,750,1923,2415498,1,,British South Africa,India
+573,750,1924,2230435,,,British South Africa,India
+573,750,1925,3212265,,,British South Africa,India
+573,750,1926,2680525,,,British South Africa,India
+573,750,1927,2595105,,,British South Africa,India
+573,750,1928,2669500,,,British South Africa,India
+573,750,1929,2710719,,,British South Africa,India
+573,770,1910,0,1,Pounds,British South Africa,Pakistan
+573,770,1911,0,1,Pounds,British South Africa,Pakistan
+573,770,1912,0,1,Pounds,British South Africa,Pakistan
+573,770,1913,0,1,Pounds,British South Africa,Pakistan
+573,770,1914,0,1,Pounds,British South Africa,Pakistan
+573,770,1915,0,1,Pounds,British South Africa,Pakistan
+573,770,1916,0,1,,British South Africa,Pakistan
+573,770,1917,0,1,,British South Africa,Pakistan
+573,770,1918,0,1,,British South Africa,Pakistan
+573,770,1919,0,1,,British South Africa,Pakistan
+573,770,1920,0,1,,British South Africa,Pakistan
+573,770,1921,0,1,,British South Africa,Pakistan
+573,770,1922,0,1,,British South Africa,Pakistan
+573,770,1923,0,1,,British South Africa,Pakistan
+573,775,1910,0,1,Pounds,British South Africa,Myanmar
+573,775,1911,0,1,Pounds,British South Africa,Myanmar
+573,775,1912,0,1,Pounds,British South Africa,Myanmar
+573,775,1913,0,1,Pounds,British South Africa,Myanmar
+573,775,1914,0,1,Pounds,British South Africa,Myanmar
+573,775,1915,0,1,Pounds,British South Africa,Myanmar
+573,775,1916,0,1,,British South Africa,Myanmar
+573,775,1917,0,1,,British South Africa,Myanmar
+573,775,1918,0,1,,British South Africa,Myanmar
+573,775,1919,0,1,,British South Africa,Myanmar
+573,775,1920,0,1,,British South Africa,Myanmar
+573,775,1921,0,1,,British South Africa,Myanmar
+573,775,1922,0,1,,British South Africa,Myanmar
+573,775,1923,0,1,,British South Africa,Myanmar
+573,780,1910,163408,1,Pounds,British South Africa,Sri Lanka
+573,780,1911,180417,1,Pounds,British South Africa,Sri Lanka
+573,780,1912,207552,1,Pounds,British South Africa,Sri Lanka
+573,780,1913,209356,1,Pounds,British South Africa,Sri Lanka
+573,780,1914,213533,1,Pounds,British South Africa,Sri Lanka
+573,780,1915,230639,1,Pounds,British South Africa,Sri Lanka
+573,780,1916,173526,1,,British South Africa,Sri Lanka
+573,780,1917,206907,1,,British South Africa,Sri Lanka
+573,780,1918,261990,1,,British South Africa,Sri Lanka
+573,780,1919,258211,1,,British South Africa,Sri Lanka
+573,780,1920,336529,1,,British South Africa,Sri Lanka
+573,780,1921,245443,1,,British South Africa,Sri Lanka
+573,780,1922,342953,1,,British South Africa,Sri Lanka
+573,780,1923,491904,1,,British South Africa,Sri Lanka
+573,780,1924,588163,,,British South Africa,Sri Lanka
+573,780,1925,602010,,,British South Africa,Sri Lanka
+573,780,1926,736216,,,British South Africa,Sri Lanka
+573,780,1927,811144,,,British South Africa,Sri Lanka
+573,780,1928,773318,,,British South Africa,Sri Lanka
+573,780,1929,769424,,,British South Africa,Sri Lanka
+573,800,1910,25503,1,Pounds,British South Africa,Thailand
+573,800,1911,33983,1,Pounds,British South Africa,Thailand
+573,800,1912,34800,1,Pounds,British South Africa,Thailand
+573,800,1913,39077,1,Pounds,British South Africa,Thailand
+573,800,1914,32093,1,Pounds,British South Africa,Thailand
+573,800,1915,62643,1,Pounds,British South Africa,Thailand
+573,800,1916,62427,1,,British South Africa,Thailand
+573,800,1917,58982,1,,British South Africa,Thailand
+573,800,1918,10415,1,,British South Africa,Thailand
+573,800,1919,66934,1,,British South Africa,Thailand
+573,800,1920,70392,1,,British South Africa,Thailand
+573,800,1921,31678,1,,British South Africa,Thailand
+573,800,1922,49926,1,,British South Africa,Thailand
+573,800,1923,52910,1,,British South Africa,Thailand
+573,800,1924,52621,,,British South Africa,Thailand
+573,800,1925,84862,,,British South Africa,Thailand
+573,800,1926,107627,,,British South Africa,Thailand
+573,800,1927,110618,,,British South Africa,Thailand
+573,800,1928,135229,,,British South Africa,Thailand
+573,800,1929,166662,,,British South Africa,Thailand
+573,820,1910,0,1,Pounds,British South Africa,Malaysia
+573,820,1911,0,1,Pounds,British South Africa,Malaysia
+573,820,1912,0,1,Pounds,British South Africa,Malaysia
+573,820,1913,0,1,Pounds,British South Africa,Malaysia
+573,820,1914,0,1,Pounds,British South Africa,Malaysia
+573,820,1915,0,1,Pounds,British South Africa,Malaysia
+573,820,1916,0,1,,British South Africa,Malaysia
+573,820,1917,0,1,,British South Africa,Malaysia
+573,820,1918,0,1,,British South Africa,Malaysia
+573,820,1919,0,1,,British South Africa,Malaysia
+573,820,1920,0,1,,British South Africa,Malaysia
+573,820,1921,0,1,,British South Africa,Malaysia
+573,820,1922,0,1,,British South Africa,Malaysia
+573,820,1923,0,1,,British South Africa,Malaysia
+573,823,1910,0,1,Pounds,British South Africa,British Borneo
+573,823,1911,0,1,Pounds,British South Africa,British Borneo
+573,823,1912,0,1,Pounds,British South Africa,British Borneo
+573,823,1913,0,1,Pounds,British South Africa,British Borneo
+573,823,1914,0,1,Pounds,British South Africa,British Borneo
+573,823,1915,0,1,Pounds,British South Africa,British Borneo
+573,823,1916,0,1,,British South Africa,British Borneo
+573,823,1917,0,1,,British South Africa,British Borneo
+573,823,1918,0,1,,British South Africa,British Borneo
+573,823,1919,0,1,,British South Africa,British Borneo
+573,823,1920,0,1,,British South Africa,British Borneo
+573,823,1921,0,1,,British South Africa,British Borneo
+573,823,1922,0,1,,British South Africa,British Borneo
+573,823,1923,0,1,,British South Africa,British Borneo
+573,827,1910,8721,1,Pounds,British South Africa,Straits Settlement
+573,827,1911,9650,1,Pounds,British South Africa,Straits Settlement
+573,827,1912,12009,1,Pounds,British South Africa,Straits Settlement
+573,827,1913,12017,1,Pounds,British South Africa,Straits Settlement
+573,827,1914,8959,1,Pounds,British South Africa,Straits Settlement
+573,827,1915,12099,1,Pounds,British South Africa,Straits Settlement
+573,827,1916,13560,1,,British South Africa,Straits Settlement
+573,827,1917,27152,1,,British South Africa,Straits Settlement
+573,827,1918,55131,1,,British South Africa,Straits Settlement
+573,827,1919,16141,1,,British South Africa,Straits Settlement
+573,827,1920,33521,1,,British South Africa,Straits Settlement
+573,827,1921,27235,1,,British South Africa,Straits Settlement
+573,827,1922,47799,1,,British South Africa,Straits Settlement
+573,827,1923,42610,1,,British South Africa,Straits Settlement
+573,827,1924,49730,,,British South Africa,Straits Settlement
+573,827,1925,51353,,,British South Africa,Straits Settlement
+573,827,1926,41106,,,British South Africa,Straits Settlement
+573,827,1927,53490,,,British South Africa,Straits Settlement
+573,827,1928,53955,,,British South Africa,Straits Settlement
+573,827,1929,74550,,,British South Africa,Straits Settlement
+573,840,1910,4412,1,Pounds,British South Africa,Philippines
+573,840,1911,3472,1,Pounds,British South Africa,Philippines
+573,840,1912,3626,1,Pounds,British South Africa,Philippines
+573,840,1913,1806,1,Pounds,British South Africa,Philippines
+573,840,1914,2628,1,Pounds,British South Africa,Philippines
+573,840,1915,1914,1,Pounds,British South Africa,Philippines
+573,840,1916,1151,1,,British South Africa,Philippines
+573,840,1917,443,1,,British South Africa,Philippines
+573,840,1918,998,1,,British South Africa,Philippines
+573,840,1919,984,1,,British South Africa,Philippines
+573,840,1920,2502,1,,British South Africa,Philippines
+573,840,1921,1564,1,,British South Africa,Philippines
+573,840,1922,1711,1,,British South Africa,Philippines
+573,840,1923,934,1,,British South Africa,Philippines
+573,840,1924,660,,,British South Africa,Philippines
+573,840,1925,1980,,,British South Africa,Philippines
+573,840,1926,10098,,,British South Africa,Philippines
+573,840,1927,15041,,,British South Africa,Philippines
+573,840,1928,18453,,,British South Africa,Philippines
+573,840,1929,16386,,,British South Africa,Philippines
+573,850,1910,35422,1,Pounds,British South Africa,Indonesia
+573,850,1911,79876,1,Pounds,British South Africa,Indonesia
+573,850,1912,48763,1,Pounds,British South Africa,Indonesia
+573,850,1913,124754,1,Pounds,British South Africa,Indonesia
+573,850,1914,147645,1,Pounds,British South Africa,Indonesia
+573,850,1915,178217,1,Pounds,British South Africa,Indonesia
+573,850,1916,204426,1,,British South Africa,Indonesia
+573,850,1917,253754,1,,British South Africa,Indonesia
+573,850,1918,324581,1,,British South Africa,Indonesia
+573,850,1919,509887,1,,British South Africa,Indonesia
+573,850,1920,662345,1,,British South Africa,Indonesia
+573,850,1921,801757,1,,British South Africa,Indonesia
+573,850,1922,566846,1,,British South Africa,Indonesia
+573,850,1923,665922,1,,British South Africa,Indonesia
+573,850,1924,563428,,,British South Africa,Indonesia
+573,850,1925,552806,,,British South Africa,Indonesia
+573,850,1926,225347,,,British South Africa,Indonesia
+573,850,1927,696773,,,British South Africa,Indonesia
+573,850,1928,782217,,,British South Africa,Indonesia
+573,850,1929,1124252,,,British South Africa,Indonesia
+573,851,1910,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1911,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1912,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1913,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1914,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1915,0,1,Pounds,British South Africa,Dutch New Guinea
+573,851,1916,0,1,,British South Africa,Dutch New Guinea
+573,851,1917,0,1,,British South Africa,Dutch New Guinea
+573,851,1918,0,1,,British South Africa,Dutch New Guinea
+573,851,1919,0,1,,British South Africa,Dutch New Guinea
+573,851,1920,0,1,,British South Africa,Dutch New Guinea
+573,851,1921,0,1,,British South Africa,Dutch New Guinea
+573,851,1922,0,1,,British South Africa,Dutch New Guinea
+573,851,1923,0,1,,British South Africa,Dutch New Guinea
+573,900,1910,1617682,1,Pounds,British South Africa,Australia
+573,900,1911,1567401,1,Pounds,British South Africa,Australia
+573,900,1912,1254771,1,Pounds,British South Africa,Australia
+573,900,1913,2022989,1,Pounds,British South Africa,Australia
+573,900,1914,1573910,1,Pounds,British South Africa,Australia
+573,900,1915,458939,1,Pounds,British South Africa,Australia
+573,900,1916,1309743,1,,British South Africa,Australia
+573,900,1917,1267711,1,,British South Africa,Australia
+573,900,1918,1177241,1,,British South Africa,Australia
+573,900,1919,1619188,1,,British South Africa,Australia
+573,900,1920,3956989,1,,British South Africa,Australia
+573,900,1921,1332590,1,,British South Africa,Australia
+573,900,1922,1018711,1,,British South Africa,Australia
+573,900,1923,1741711,1,,British South Africa,Australia
+573,900,1924,1974569,,,British South Africa,Australia
+573,900,1925,2023521,,,British South Africa,Australia
+573,900,1926,1432188,,,British South Africa,Australia
+573,900,1927,1577322,,,British South Africa,Australia
+573,900,1928,2154419,,,British South Africa,Australia
+573,900,1929,1691527,,,British South Africa,Australia
+573,920,1910,56406,1,Pounds,British South Africa,New Zealand
+573,920,1911,46593,1,Pounds,British South Africa,New Zealand
+573,920,1912,101666,1,Pounds,British South Africa,New Zealand
+573,920,1913,68886,1,Pounds,British South Africa,New Zealand
+573,920,1914,58272,1,Pounds,British South Africa,New Zealand
+573,920,1915,11700,1,Pounds,British South Africa,New Zealand
+573,920,1916,11960,1,,British South Africa,New Zealand
+573,920,1917,2322,1,,British South Africa,New Zealand
+573,920,1918,467,1,,British South Africa,New Zealand
+573,920,1919,3464,1,,British South Africa,New Zealand
+573,920,1920,11168,1,,British South Africa,New Zealand
+573,920,1921,8021,1,,British South Africa,New Zealand
+573,920,1922,23398,1,,British South Africa,New Zealand
+573,920,1923,54850,1,,British South Africa,New Zealand
+573,920,1924,30775,,,British South Africa,New Zealand
+573,920,1925,26259,,,British South Africa,New Zealand
+573,920,1926,27074,,,British South Africa,New Zealand
+573,920,1927,107315,,,British South Africa,New Zealand
+573,920,1928,92863,,,British South Africa,New Zealand
+573,920,1929,56971,,,British South Africa,New Zealand
+573,950,1910,204,1,Pounds,British South Africa,Fiji
+573,950,1911,761,1,Pounds,British South Africa,Fiji
+573,950,1912,0,1,Pounds,British South Africa,Fiji
+573,950,1913,0,1,Pounds,British South Africa,Fiji
+573,950,1914,0,1,Pounds,British South Africa,Fiji
+573,950,1915,18,1,Pounds,British South Africa,Fiji
+573,950,1916,32,1,,British South Africa,Fiji
+573,950,1917,0,1,,British South Africa,Fiji
+573,950,1918,0,1,,British South Africa,Fiji
+573,950,1919,0,1,,British South Africa,Fiji
+573,950,1920,0,1,,British South Africa,Fiji
+573,950,1921,0,1,,British South Africa,Fiji
+573,950,1922,0,1,,British South Africa,Fiji
+573,950,1923,0,1,,British South Africa,Fiji
+573,1050,1910,10442,1,Pounds,British South Africa,British West Indies
+573,1050,1911,8985,1,Pounds,British South Africa,British West Indies
+573,1050,1912,19312,1,Pounds,British South Africa,British West Indies
+573,1050,1913,9088,1,Pounds,British South Africa,British West Indies
+573,1050,1914,9923,1,Pounds,British South Africa,British West Indies
+573,1050,1915,9349,1,Pounds,British South Africa,British West Indies
+573,1050,1916,39931,1,,British South Africa,British West Indies
+573,1050,1917,51493,1,,British South Africa,British West Indies
+573,1050,1918,51927,1,,British South Africa,British West Indies
+573,1050,1919,10685,1,,British South Africa,British West Indies
+573,1050,1920,16575,1,,British South Africa,British West Indies
+573,1050,1921,5994,1,,British South Africa,British West Indies
+573,1050,1922,18410,1,,British South Africa,British West Indies
+573,1050,1923,7884,1,,British South Africa,British West Indies
+573,1050,1924,18504,,,British South Africa,British West Indies
+573,1050,1925,7406,,,British South Africa,British West Indies
+573,1050,1926,9736,,,British South Africa,British West Indies
+573,1050,1927,22054,,,British South Africa,British West Indies
+573,1050,1928,13312,,,British South Africa,British West Indies
+573,1050,1929,16029,,,British South Africa,British West Indies
+573,1060,1910,0,1,Pounds,British South Africa,French West Indies
+573,1060,1911,0,1,Pounds,British South Africa,French West Indies
+573,1060,1912,49,1,Pounds,British South Africa,French West Indies
+573,1060,1913,0,1,Pounds,British South Africa,French West Indies
+573,1060,1914,5,1,Pounds,British South Africa,French West Indies
+573,1060,1915,0,1,Pounds,British South Africa,French West Indies
+573,1060,1916,0,1,,British South Africa,French West Indies
+573,1060,1917,0,1,,British South Africa,French West Indies
+573,1060,1918,0,1,,British South Africa,French West Indies
+573,1060,1919,0,1,,British South Africa,French West Indies
+573,1060,1920,0,1,,British South Africa,French West Indies
+573,1060,1921,0,1,,British South Africa,French West Indies
+573,1060,1922,0,1,,British South Africa,French West Indies
+573,1060,1923,0,1,,British South Africa,French West Indies
+573,1163,1910,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1911,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1912,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1913,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1914,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1915,0,1,Pounds,British South Africa,Falkland Islands
+573,1163,1916,0,1,,British South Africa,Falkland Islands
+573,1163,1917,0,1,,British South Africa,Falkland Islands
+573,1163,1918,0,1,,British South Africa,Falkland Islands
+573,1163,1919,0,1,,British South Africa,Falkland Islands
+573,1163,1920,0,1,,British South Africa,Falkland Islands
+573,1163,1921,0,1,,British South Africa,Falkland Islands
+573,1163,1922,0,1,,British South Africa,Falkland Islands
+573,1163,1923,0,1,,British South Africa,Falkland Islands
+573,1200,1910,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1911,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1912,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1913,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1914,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1915,0,1,Pounds,British South Africa,Other US possessions
+573,1200,1916,0,1,,British South Africa,Other US possessions
+573,1200,1917,0,1,,British South Africa,Other US possessions
+573,1200,1918,0,1,,British South Africa,Other US possessions
+573,1200,1919,0,1,,British South Africa,Other US possessions
+573,1200,1920,0,1,,British South Africa,Other US possessions
+573,1200,1921,0,1,,British South Africa,Other US possessions
+573,1200,1922,0,1,,British South Africa,Other US possessions
+573,1200,1923,0,1,,British South Africa,Other US possessions
+573,2000,1910,4525,1,Pounds,British South Africa,Other British possessions
+573,2000,1911,1065,1,Pounds,British South Africa,Other British possessions
+573,2000,1912,16562,1,Pounds,British South Africa,Other British possessions
+573,2000,1913,39895,1,Pounds,British South Africa,Other British possessions
+573,2000,1914,29412,1,Pounds,British South Africa,Other British possessions
+573,2000,1915,2284,1,Pounds,British South Africa,Other British possessions
+573,2000,1916,3929,1,,British South Africa,Other British possessions
+573,2000,1917,2573,1,,British South Africa,Other British possessions
+573,2000,1918,18535,1,,British South Africa,Other British possessions
+573,2000,1919,29136,1,,British South Africa,Other British possessions
+573,2000,1920,9931,1,,British South Africa,Other British possessions
+573,2000,1921,10352,1,,British South Africa,Other British possessions
+573,2000,1922,36068,1,,British South Africa,Other British possessions
+573,2000,1923,32346,1,,British South Africa,Other British possessions
+573,2000,1924,41314,,,British South Africa,Other British possessions
+573,2000,1925,34903,,,British South Africa,Other British possessions
+573,2000,1926,58893,,,British South Africa,Other British possessions
+573,2000,1927,146392,,,British South Africa,Other British possessions
+573,2000,1928,132519,,,British South Africa,Other British possessions
+573,2000,1929,178317,,,British South Africa,Other British possessions
+573,2200,1910,452,1,Pounds,British South Africa,Other French possessions
+573,2200,1911,225,1,Pounds,British South Africa,Other French possessions
+573,2200,1912,604,1,Pounds,British South Africa,Other French possessions
+573,2200,1913,1002,1,Pounds,British South Africa,Other French possessions
+573,2200,1914,280,1,Pounds,British South Africa,Other French possessions
+573,2200,1915,938,1,Pounds,British South Africa,Other French possessions
+573,2200,1916,676,1,,British South Africa,Other French possessions
+573,2200,1917,295,1,,British South Africa,Other French possessions
+573,2200,1918,324,1,,British South Africa,Other French possessions
+573,2200,1919,746,1,,British South Africa,Other French possessions
+573,2200,1920,10472,1,,British South Africa,Other French possessions
+573,2200,1921,85768,1,,British South Africa,Other French possessions
+573,2200,1922,43366,1,,British South Africa,Other French possessions
+573,2200,1923,44914,1,,British South Africa,Other French possessions
+573,2200,1924,60625,,,British South Africa,Other French possessions
+573,2200,1925,62780,,,British South Africa,Other French possessions
+573,2200,1926,77513,,,British South Africa,Other French possessions
+573,2200,1927,87125,,,British South Africa,Other French possessions
+573,2200,1928,87476,,,British South Africa,Other French possessions
+573,2200,1929,156428,,,British South Africa,Other French possessions
+573,2205,1910,0,1,Pounds,British South Africa,French Africa
+573,2205,1911,0,1,Pounds,British South Africa,French Africa
+573,2205,1912,0,1,Pounds,British South Africa,French Africa
+573,2205,1913,0,1,Pounds,British South Africa,French Africa
+573,2205,1914,0,1,Pounds,British South Africa,French Africa
+573,2205,1915,0,1,Pounds,British South Africa,French Africa
+573,2205,1916,0,1,,British South Africa,French Africa
+573,2205,1917,0,1,,British South Africa,French Africa
+573,2205,1918,0,1,,British South Africa,French Africa
+573,2205,1919,0,1,,British South Africa,French Africa
+573,2205,1920,0,1,,British South Africa,French Africa
+573,2205,1921,0,1,,British South Africa,French Africa
+573,2205,1922,0,1,,British South Africa,French Africa
+573,2205,1923,0,1,,British South Africa,French Africa
+573,2350,1910,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1911,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1912,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1913,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1914,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1915,0,1,Pounds,British South Africa,Other Portuguese possessions
+573,2350,1916,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1917,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1918,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1919,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1920,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1921,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1922,0,1,,British South Africa,Other Portuguese possessions
+573,2350,1923,0,1,,British South Africa,Other Portuguese possessions
+573,2357,1910,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1911,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1912,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1913,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1914,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1915,0,1,Pounds,British South Africa,Portuguese possessions in Asia
+573,2357,1916,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1917,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1918,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1919,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1920,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1921,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1922,0,1,,British South Africa,Portuguese possessions in Asia
+573,2357,1923,0,1,,British South Africa,Portuguese possessions in Asia
+573,2550,1910,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1911,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1912,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1913,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1914,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1915,0,1,Pounds,British South Africa,Other German possessions
+573,2550,1916,0,1,,British South Africa,Other German possessions
+573,2550,1917,0,1,,British South Africa,Other German possessions
+573,2550,1918,0,1,,British South Africa,Other German possessions
+573,2550,1919,0,1,,British South Africa,Other German possessions
+573,2550,1920,0,1,,British South Africa,Other German possessions
+573,2550,1921,0,1,,British South Africa,Other German possessions
+573,2550,1922,0,1,,British South Africa,Other German possessions
+573,2550,1923,0,1,,British South Africa,Other German possessions
+573,3250,1910,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1911,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1912,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1913,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1914,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1915,0,1,Pounds,British South Africa,Italian Africa
+573,3250,1916,0,1,,British South Africa,Italian Africa
+573,3250,1917,0,1,,British South Africa,Italian Africa
+573,3250,1918,0,1,,British South Africa,Italian Africa
+573,3250,1919,0,1,,British South Africa,Italian Africa
+573,3250,1920,0,1,,British South Africa,Italian Africa
+573,3250,1921,0,1,,British South Africa,Italian Africa
+573,3250,1922,0,1,,British South Africa,Italian Africa
+573,3250,1923,0,1,,British South Africa,Italian Africa
+573,3900,1910,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1911,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1912,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1913,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1914,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1915,0,1,Pounds,British South Africa,Danish possessions
+573,3900,1916,0,1,,British South Africa,Danish possessions
+573,3900,1917,0,1,,British South Africa,Danish possessions
+573,3900,1918,0,1,,British South Africa,Danish possessions
+573,3900,1919,0,1,,British South Africa,Danish possessions
+573,3900,1920,0,1,,British South Africa,Danish possessions
+573,3900,1921,0,1,,British South Africa,Danish possessions
+573,3900,1922,0,1,,British South Africa,Danish possessions
+573,3900,1923,0,1,,British South Africa,Danish possessions
+573,5201,1910,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1911,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1912,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1913,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1914,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1915,0,1,Pounds,British South Africa,Italian East Africa
+573,5201,1916,0,1,,British South Africa,Italian East Africa
+573,5201,1917,0,1,,British South Africa,Italian East Africa
+573,5201,1918,0,1,,British South Africa,Italian East Africa
+573,5201,1919,0,1,,British South Africa,Italian East Africa
+573,5201,1920,0,1,,British South Africa,Italian East Africa
+573,5201,1921,0,1,,British South Africa,Italian East Africa
+573,5201,1922,0,1,,British South Africa,Italian East Africa
+573,5201,1923,0,1,,British South Africa,Italian East Africa
+573,6203,1910,0,1,Pounds,British South Africa,Tripoli
+573,6203,1911,0,1,Pounds,British South Africa,Tripoli
+573,6203,1912,0,1,Pounds,British South Africa,Tripoli
+573,6203,1913,0,1,Pounds,British South Africa,Tripoli
+573,6203,1914,0,1,Pounds,British South Africa,Tripoli
+573,6203,1915,0,1,Pounds,British South Africa,Tripoli
+573,6203,1916,0,1,,British South Africa,Tripoli
+573,6203,1917,0,1,,British South Africa,Tripoli
+573,6203,1918,0,1,,British South Africa,Tripoli
+573,6203,1919,0,1,,British South Africa,Tripoli
+573,6203,1920,0,1,,British South Africa,Tripoli
+573,6203,1921,0,1,,British South Africa,Tripoli
+573,6203,1922,0,1,,British South Africa,Tripoli
+573,6203,1923,0,1,,British South Africa,Tripoli
+573,8151,1910,0,1,Pounds,British South Africa,Cochin China
+573,8151,1911,0,1,Pounds,British South Africa,Cochin China
+573,8151,1912,0,1,Pounds,British South Africa,Cochin China
+573,8151,1913,0,1,Pounds,British South Africa,Cochin China
+573,8151,1914,0,1,Pounds,British South Africa,Cochin China
+573,8151,1915,0,1,Pounds,British South Africa,Cochin China
+573,8151,1916,0,1,,British South Africa,Cochin China
+573,8151,1917,0,1,,British South Africa,Cochin China
+573,8151,1918,0,1,,British South Africa,Cochin China
+573,8151,1919,0,1,,British South Africa,Cochin China
+573,8151,1920,0,1,,British South Africa,Cochin China
+573,8151,1921,0,1,,British South Africa,Cochin China
+573,8151,1922,0,1,,British South Africa,Cochin China
+573,8151,1923,0,1,,British South Africa,Cochin China
+573,,1910,70329886,1,Pounds,British South Africa,
+573,,1911,72950043,1,Pounds,British South Africa,
+573,,1912,75392661,1,Pounds,British South Africa,
+573,,1913,80855820,1,Pounds,British South Africa,
+573,,1914,65557183,1,Pounds,British South Africa,
+573,,1915,60718060,1,Pounds,British South Africa,
+573,,1916,80853271,1,,British South Africa,
+573,,1917,73428287,1,,British South Africa,
+573,,1918,97931698,1,,British South Africa,
+573,,1919,96523411,1,,British South Africa,
+573,,1920,189813127,1,,British South Africa,
+573,,1921,106093364,1,,British South Africa,
+573,,1922,99221958,1,,British South Africa,
+573,,1923,110550468,1,,British South Africa,
+573,,1924,122638296,,,British South Africa,
+573,,1925,132462899,,,British South Africa,
+573,,1926,141996211,,,British South Africa,
+573,,1927,146937535,,,British South Africa,
+573,,1928,157819724,,,British South Africa,
+573,,1929,165979232,,,British South Africa,

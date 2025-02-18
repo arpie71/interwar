@@ -1,0 +1,3361 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+710,2,1900,16724493,1,Hk Taels,China,United States
+710,2,1901,23529606,1,Hk Taels,China,United States
+710,2,1902,30138713,1,Hk Taels,China,United States
+710,2,1903,25871278,1,Hk Taels,China,United States
+710,2,1904,29180946,1,Hk Taels,China,United States
+710,2,1905,76916838,1,Hk Taels,China,United States
+710,2,1906,44436209,1,Hk Taels,China,United States
+710,2,1907,36903476,1,Hk Taels,China,United States
+710,2,1908,41245704,1,Hk Taels,China,United States
+710,2,1909,32606549,1,Hk Taels,China,United States
+710,2,1910,24799494,1,Hk Taels,China,United States
+710,2,1911,40822853,1,Hk Taels,China,United States
+710,2,1912,36197671,1,Hk Taels,China,United States
+710,2,1913,35427198,1,Hk Taels,China,United States
+710,2,1914,41231654,1,Hk Taels,China,United States
+710,2,1915,37043449,1,Hk Taels,China,United States
+710,2,1916,53823799,1,Hk Taels,China,United States
+710,2,1917,60960777,1,Hk Taels,China,United States
+710,2,1918,58686044,1,Hk Taels,China,United States
+710,2,1919,110236706,1,Hk Taels,China,United States
+710,2,1920,143198962,1,Hk Taels,China,United States
+710,2,1921,175789652,1,Hk Taels,China,United States
+710,2,1922,169004534,1,Hk Taels,China,United States
+710,2,1923,154447651,1,Hk Taels,China,United States
+710,2,1924,190956942,1,Hk Taels,China,United States
+710,2,1925,142513422,1,Hk Taels,China,United States
+710,2,1926,187647086,1,Hk Taels,China,United States
+710,2,1927,166793690,1,Hk Taels,China,United States
+710,2,1928,205541351,1,Hk Taels,China,United States
+710,2,1929,230843677,1,Hk Taels,China,United States
+710,2,1930,232405941,1,Hk Taels,China,United States
+710,2,1931,321341671,1,Hk Taels,China,United States
+710,2,1932,269175520,1,Hk Taels,China,United States
+710,2,1933,297468131,1,Standard $,China,United States
+710,2,1934,271732371,1,Standard $,China,United States
+710,2,1935,174930060,1,Standard $,China,United States
+710,2,1936,185511519,1,Standard $,China,United States
+710,2,1937,188859040,1,Standard $,China,United States
+710,2,1938,151253673,1,Standard $,China,United States
+710,2,1939,214100330,1,Standard $,China,United States
+710,2,1940,435485895,1,Standard $,China,United States
+710,2,1946,858047674,1000,C.N. $,China,United States
+710,20,1900,653591,1,Hk Taels,China,Canada
+710,20,1901,1635457,1,Hk Taels,China,Canada
+710,20,1902,2832511,1,Hk Taels,China,Canada
+710,20,1903,627472,1,Hk Taels,China,Canada
+710,20,1904,2162174,1,Hk Taels,China,Canada
+710,20,1905,2387658,1,Hk Taels,China,Canada
+710,20,1906,4460736,1,Hk Taels,China,Canada
+710,20,1907,1130374,1,Hk Taels,China,Canada
+710,20,1908,1202661,1,Hk Taels,China,Canada
+710,20,1909,1390947,1,Hk Taels,China,Canada
+710,20,1910,1157705,1,Hk Taels,China,Canada
+710,20,1911,552877,1,Hk Taels,China,Canada
+710,20,1912,1110708,1,Hk Taels,China,Canada
+710,20,1913,1865735,1,Hk Taels,China,Canada
+710,20,1914,1166944,1,Hk Taels,China,Canada
+710,20,1915,886263,1,Hk Taels,China,Canada
+710,20,1916,1868295,1,Hk Taels,China,Canada
+710,20,1917,9094347,1,Hk Taels,China,Canada
+710,20,1918,10355562,1,Hk Taels,China,Canada
+710,20,1919,18887866,1,Hk Taels,China,Canada
+710,20,1920,20182100,1,Hk Taels,China,Canada
+710,20,1921,11808066,1,Hk Taels,China,Canada
+710,20,1922,8401444,1,Hk Taels,China,Canada
+710,20,1923,10327374,1,Hk Taels,China,Canada
+710,20,1924,15575722,1,Hk Taels,China,Canada
+710,20,1925,7210870,1,Hk Taels,China,Canada
+710,20,1926,24049126,1,Hk Taels,China,Canada
+710,20,1927,12942554,1,Hk Taels,China,Canada
+710,20,1928,16373232,1,Hk Taels,China,Canada
+710,20,1929,38476967,1,Hk Taels,China,Canada
+710,20,1930,13517476,1,Hk Taels,China,Canada
+710,20,1931,22611506,1,Hk Taels,China,Canada
+710,20,1932,16598943,1,Hk Taels,China,Canada
+710,20,1933,23770525,1,Standard $,China,Canada
+710,20,1934,19272198,1,Standard $,China,Canada
+710,20,1935,20415625,1,Standard $,China,Canada
+710,20,1936,19783898,1,Standard $,China,Canada
+710,20,1937,17093072,1,Standard $,China,Canada
+710,20,1938,7871986,1,Standard $,China,Canada
+710,20,1939,10529935,1,Standard $,China,Canada
+710,20,1940,11272376,1,Standard $,China,Canada
+710,20,1946,27242358,1000,C.N. $,China,Canada
+710,40,1900,0,1,Hk Taels,China,Cuba
+710,40,1901,0,1,Hk Taels,China,Cuba
+710,40,1902,0,1,Hk Taels,China,Cuba
+710,40,1903,0,1,Hk Taels,China,Cuba
+710,40,1904,0,1,Hk Taels,China,Cuba
+710,40,1905,0,1,Hk Taels,China,Cuba
+710,40,1906,0,1,Hk Taels,China,Cuba
+710,40,1907,0,1,Hk Taels,China,Cuba
+710,40,1908,0,1,Hk Taels,China,Cuba
+710,40,1909,0,1,Hk Taels,China,Cuba
+710,40,1910,0,1,Hk Taels,China,Cuba
+710,40,1911,0,1,Hk Taels,China,Cuba
+710,40,1912,0,1,Hk Taels,China,Cuba
+710,40,1913,0,1,Hk Taels,China,Cuba
+710,40,1914,0,1,Hk Taels,China,Cuba
+710,40,1915,0,1,Hk Taels,China,Cuba
+710,40,1916,0,1,Hk Taels,China,Cuba
+710,40,1917,0,1,Hk Taels,China,Cuba
+710,40,1918,0,1,Hk Taels,China,Cuba
+710,40,1919,0,1,Hk Taels,China,Cuba
+710,40,1920,0,1,Hk Taels,China,Cuba
+710,40,1921,0,1,Hk Taels,China,Cuba
+710,40,1922,0,1,Hk Taels,China,Cuba
+710,40,1923,0,1,Hk Taels,China,Cuba
+710,40,1924,0,1,Hk Taels,China,Cuba
+710,40,1925,0,1,Hk Taels,China,Cuba
+710,40,1926,0,1,Hk Taels,China,Cuba
+710,40,1927,0,1,Hk Taels,China,Cuba
+710,40,1928,0,1,Hk Taels,China,Cuba
+710,40,1929,3657193,1,Hk Taels,China,Cuba
+710,40,1930,1351427,1,Hk Taels,China,Cuba
+710,40,1931,443978,1,Hk Taels,China,Cuba
+710,40,1932,25570,1,Hk Taels,China,Cuba
+710,40,1933,49863,1,Standard $,China,Cuba
+710,40,1934,161817,1,Standard $,China,Cuba
+710,40,1935,146260,1,Standard $,China,Cuba
+710,40,1936,19516,1,Standard $,China,Cuba
+710,40,1937,29482,1,Standard $,China,Cuba
+710,40,1938,6488,1,Standard $,China,Cuba
+710,40,1939,10980,1,Standard $,China,Cuba
+710,40,1940,23901,1,Standard $,China,Cuba
+710,40,1946,152678,1000,C.N. $,China,Cuba
+710,68,1900,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1901,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1902,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1903,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1904,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1905,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1906,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1907,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1908,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1909,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1910,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1911,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1912,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1913,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1914,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1915,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1916,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1917,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1918,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1919,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1920,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1921,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1922,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1923,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1924,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1925,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1926,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1927,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1928,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1929,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1930,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1931,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1932,0,1,Hk Taels,China,Netherlands Antilles
+710,68,1933,0,1,Standard $,China,Netherlands Antilles
+710,68,1934,0,1,Standard $,China,Netherlands Antilles
+710,68,1935,0,1,Standard $,China,Netherlands Antilles
+710,68,1936,0,1,Standard $,China,Netherlands Antilles
+710,68,1937,76933,1,Standard $,China,Netherlands Antilles
+710,68,1938,5487,1,Standard $,China,Netherlands Antilles
+710,68,1939,108,1,Standard $,China,Netherlands Antilles
+710,68,1940,912,1,Standard $,China,Netherlands Antilles
+710,68,1946,199,1000,C.N. $,China,Netherlands Antilles
+710,70,1900,0,1,Hk Taels,China,Mexico
+710,70,1901,0,1,Hk Taels,China,Mexico
+710,70,1902,0,1,Hk Taels,China,Mexico
+710,70,1903,0,1,Hk Taels,China,Mexico
+710,70,1904,0,1,Hk Taels,China,Mexico
+710,70,1905,0,1,Hk Taels,China,Mexico
+710,70,1906,0,1,Hk Taels,China,Mexico
+710,70,1907,0,1,Hk Taels,China,Mexico
+710,70,1908,0,1,Hk Taels,China,Mexico
+710,70,1909,0,1,Hk Taels,China,Mexico
+710,70,1910,0,1,Hk Taels,China,Mexico
+710,70,1911,0,1,Hk Taels,China,Mexico
+710,70,1912,0,1,Hk Taels,China,Mexico
+710,70,1913,0,1,Hk Taels,China,Mexico
+710,70,1914,0,1,Hk Taels,China,Mexico
+710,70,1915,0,1,Hk Taels,China,Mexico
+710,70,1916,0,1,Hk Taels,China,Mexico
+710,70,1917,0,1,Hk Taels,China,Mexico
+710,70,1918,0,1,Hk Taels,China,Mexico
+710,70,1919,0,1,Hk Taels,China,Mexico
+710,70,1920,0,1,Hk Taels,China,Mexico
+710,70,1921,0,1,Hk Taels,China,Mexico
+710,70,1922,0,1,Hk Taels,China,Mexico
+710,70,1923,0,1,Hk Taels,China,Mexico
+710,70,1924,0,1,Hk Taels,China,Mexico
+710,70,1925,0,1,Hk Taels,China,Mexico
+710,70,1926,0,1,Hk Taels,China,Mexico
+710,70,1927,0,1,Hk Taels,China,Mexico
+710,70,1928,0,1,Hk Taels,China,Mexico
+710,70,1929,0,1,Hk Taels,China,Mexico
+710,70,1930,0,1,Hk Taels,China,Mexico
+710,70,1931,0,1,Hk Taels,China,Mexico
+710,70,1932,23465,1,Hk Taels,China,Mexico
+710,70,1933,2973,1,Standard $,China,Mexico
+710,70,1934,48796,1,Standard $,China,Mexico
+710,70,1935,244851,1,Standard $,China,Mexico
+710,70,1936,75156,1,Standard $,China,Mexico
+710,70,1937,115559,1,Standard $,China,Mexico
+710,70,1938,10598,1,Standard $,China,Mexico
+710,70,1939,104272,1,Standard $,China,Mexico
+710,70,1940,308157,1,Standard $,China,Mexico
+710,70,1946,35229210,1000,C.N. $,China,Mexico
+710,100,1900,0,1,Hk Taels,China,Colombia
+710,100,1901,0,1,Hk Taels,China,Colombia
+710,100,1902,0,1,Hk Taels,China,Colombia
+710,100,1903,0,1,Hk Taels,China,Colombia
+710,100,1904,0,1,Hk Taels,China,Colombia
+710,100,1905,0,1,Hk Taels,China,Colombia
+710,100,1906,0,1,Hk Taels,China,Colombia
+710,100,1907,0,1,Hk Taels,China,Colombia
+710,100,1908,0,1,Hk Taels,China,Colombia
+710,100,1909,0,1,Hk Taels,China,Colombia
+710,100,1910,0,1,Hk Taels,China,Colombia
+710,100,1911,0,1,Hk Taels,China,Colombia
+710,100,1912,0,1,Hk Taels,China,Colombia
+710,100,1913,0,1,Hk Taels,China,Colombia
+710,100,1914,0,1,Hk Taels,China,Colombia
+710,100,1915,0,1,Hk Taels,China,Colombia
+710,100,1916,0,1,Hk Taels,China,Colombia
+710,100,1917,0,1,Hk Taels,China,Colombia
+710,100,1918,0,1,Hk Taels,China,Colombia
+710,100,1919,0,1,Hk Taels,China,Colombia
+710,100,1920,0,1,Hk Taels,China,Colombia
+710,100,1921,0,1,Hk Taels,China,Colombia
+710,100,1922,0,1,Hk Taels,China,Colombia
+710,100,1923,0,1,Hk Taels,China,Colombia
+710,100,1924,0,1,Hk Taels,China,Colombia
+710,100,1925,0,1,Hk Taels,China,Colombia
+710,100,1926,0,1,Hk Taels,China,Colombia
+710,100,1927,0,1,Hk Taels,China,Colombia
+710,100,1928,0,1,Hk Taels,China,Colombia
+710,100,1929,0,1,Hk Taels,China,Colombia
+710,100,1930,0,1,Hk Taels,China,Colombia
+710,100,1931,0,1,Hk Taels,China,Colombia
+710,100,1932,0,1,Hk Taels,China,Colombia
+710,100,1933,0,1,Standard $,China,Colombia
+710,100,1934,0,1,Standard $,China,Colombia
+710,100,1935,2517,1,Standard $,China,Colombia
+710,100,1936,3896,1,Standard $,China,Colombia
+710,100,1937,16070,1,Standard $,China,Colombia
+710,100,1938,10208,1,Standard $,China,Colombia
+710,100,1939,40995,1,Standard $,China,Colombia
+710,100,1940,8021,1,Standard $,China,Colombia
+710,100,1946,1942,1000,C.N. $,China,Colombia
+710,101,1900,0,1,Hk Taels,China,Venezuela
+710,101,1901,0,1,Hk Taels,China,Venezuela
+710,101,1902,0,1,Hk Taels,China,Venezuela
+710,101,1903,0,1,Hk Taels,China,Venezuela
+710,101,1904,0,1,Hk Taels,China,Venezuela
+710,101,1905,0,1,Hk Taels,China,Venezuela
+710,101,1906,0,1,Hk Taels,China,Venezuela
+710,101,1907,0,1,Hk Taels,China,Venezuela
+710,101,1908,0,1,Hk Taels,China,Venezuela
+710,101,1909,0,1,Hk Taels,China,Venezuela
+710,101,1910,0,1,Hk Taels,China,Venezuela
+710,101,1911,0,1,Hk Taels,China,Venezuela
+710,101,1912,0,1,Hk Taels,China,Venezuela
+710,101,1913,0,1,Hk Taels,China,Venezuela
+710,101,1914,0,1,Hk Taels,China,Venezuela
+710,101,1915,0,1,Hk Taels,China,Venezuela
+710,101,1916,0,1,Hk Taels,China,Venezuela
+710,101,1917,0,1,Hk Taels,China,Venezuela
+710,101,1918,0,1,Hk Taels,China,Venezuela
+710,101,1919,0,1,Hk Taels,China,Venezuela
+710,101,1920,0,1,Hk Taels,China,Venezuela
+710,101,1921,0,1,Hk Taels,China,Venezuela
+710,101,1922,0,1,Hk Taels,China,Venezuela
+710,101,1923,0,1,Hk Taels,China,Venezuela
+710,101,1924,0,1,Hk Taels,China,Venezuela
+710,101,1925,0,1,Hk Taels,China,Venezuela
+710,101,1926,0,1,Hk Taels,China,Venezuela
+710,101,1927,0,1,Hk Taels,China,Venezuela
+710,101,1928,0,1,Hk Taels,China,Venezuela
+710,101,1929,0,1,Hk Taels,China,Venezuela
+710,101,1930,0,1,Hk Taels,China,Venezuela
+710,101,1931,0,1,Hk Taels,China,Venezuela
+710,101,1932,0,1,Hk Taels,China,Venezuela
+710,101,1933,0,1,Standard $,China,Venezuela
+710,101,1934,2981,1,Standard $,China,Venezuela
+710,101,1935,20833,1,Standard $,China,Venezuela
+710,101,1936,0,1,Standard $,China,Venezuela
+710,101,1937,6159,1,Standard $,China,Venezuela
+710,101,1938,1641,1,Standard $,China,Venezuela
+710,101,1939,19,1,Standard $,China,Venezuela
+710,101,1940,4006,1,Standard $,China,Venezuela
+710,101,1946,8320,1000,C.N. $,China,Venezuela
+710,115,1900,0,1,Hk Taels,China,Suriname
+710,115,1901,0,1,Hk Taels,China,Suriname
+710,115,1902,0,1,Hk Taels,China,Suriname
+710,115,1903,0,1,Hk Taels,China,Suriname
+710,115,1904,0,1,Hk Taels,China,Suriname
+710,115,1905,0,1,Hk Taels,China,Suriname
+710,115,1906,0,1,Hk Taels,China,Suriname
+710,115,1907,0,1,Hk Taels,China,Suriname
+710,115,1908,0,1,Hk Taels,China,Suriname
+710,115,1909,0,1,Hk Taels,China,Suriname
+710,115,1910,0,1,Hk Taels,China,Suriname
+710,115,1911,0,1,Hk Taels,China,Suriname
+710,115,1912,0,1,Hk Taels,China,Suriname
+710,115,1913,0,1,Hk Taels,China,Suriname
+710,115,1914,0,1,Hk Taels,China,Suriname
+710,115,1915,0,1,Hk Taels,China,Suriname
+710,115,1916,0,1,Hk Taels,China,Suriname
+710,115,1917,0,1,Hk Taels,China,Suriname
+710,115,1918,0,1,Hk Taels,China,Suriname
+710,115,1919,0,1,Hk Taels,China,Suriname
+710,115,1920,0,1,Hk Taels,China,Suriname
+710,115,1921,0,1,Hk Taels,China,Suriname
+710,115,1922,0,1,Hk Taels,China,Suriname
+710,115,1923,0,1,Hk Taels,China,Suriname
+710,115,1924,0,1,Hk Taels,China,Suriname
+710,115,1925,0,1,Hk Taels,China,Suriname
+710,115,1926,0,1,Hk Taels,China,Suriname
+710,115,1927,0,1,Hk Taels,China,Suriname
+710,115,1928,0,1,Hk Taels,China,Suriname
+710,115,1929,0,1,Hk Taels,China,Suriname
+710,115,1930,0,1,Hk Taels,China,Suriname
+710,115,1931,0,1,Hk Taels,China,Suriname
+710,115,1932,0,1,Hk Taels,China,Suriname
+710,115,1933,91,1,Standard $,China,Suriname
+710,115,1934,1477851,1,Standard $,China,Suriname
+710,115,1935,256508,1,Standard $,China,Suriname
+710,115,1936,70460,1,Standard $,China,Suriname
+710,115,1937,0,1,Standard $,China,Suriname
+710,115,1938,0,1,Standard $,China,Suriname
+710,115,1939,0,1,Standard $,China,Suriname
+710,115,1940,0,1,Standard $,China,Suriname
+710,115,1946,0,1000,C.N. $,China,Suriname
+710,130,1900,0,1,Hk Taels,China,Ecuador
+710,130,1901,0,1,Hk Taels,China,Ecuador
+710,130,1902,0,1,Hk Taels,China,Ecuador
+710,130,1903,0,1,Hk Taels,China,Ecuador
+710,130,1904,0,1,Hk Taels,China,Ecuador
+710,130,1905,0,1,Hk Taels,China,Ecuador
+710,130,1906,0,1,Hk Taels,China,Ecuador
+710,130,1907,0,1,Hk Taels,China,Ecuador
+710,130,1908,0,1,Hk Taels,China,Ecuador
+710,130,1909,0,1,Hk Taels,China,Ecuador
+710,130,1910,0,1,Hk Taels,China,Ecuador
+710,130,1911,0,1,Hk Taels,China,Ecuador
+710,130,1912,0,1,Hk Taels,China,Ecuador
+710,130,1913,0,1,Hk Taels,China,Ecuador
+710,130,1914,0,1,Hk Taels,China,Ecuador
+710,130,1915,0,1,Hk Taels,China,Ecuador
+710,130,1916,0,1,Hk Taels,China,Ecuador
+710,130,1917,0,1,Hk Taels,China,Ecuador
+710,130,1918,0,1,Hk Taels,China,Ecuador
+710,130,1919,0,1,Hk Taels,China,Ecuador
+710,130,1920,0,1,Hk Taels,China,Ecuador
+710,130,1921,0,1,Hk Taels,China,Ecuador
+710,130,1922,0,1,Hk Taels,China,Ecuador
+710,130,1923,0,1,Hk Taels,China,Ecuador
+710,130,1924,0,1,Hk Taels,China,Ecuador
+710,130,1925,0,1,Hk Taels,China,Ecuador
+710,130,1926,0,1,Hk Taels,China,Ecuador
+710,130,1927,0,1,Hk Taels,China,Ecuador
+710,130,1928,0,1,Hk Taels,China,Ecuador
+710,130,1929,0,1,Hk Taels,China,Ecuador
+710,130,1930,0,1,Hk Taels,China,Ecuador
+710,130,1931,0,1,Hk Taels,China,Ecuador
+710,130,1932,0,1,Hk Taels,China,Ecuador
+710,130,1933,0,1,Standard $,China,Ecuador
+710,130,1934,0,1,Standard $,China,Ecuador
+710,130,1935,0,1,Standard $,China,Ecuador
+710,130,1936,14518,1,Standard $,China,Ecuador
+710,130,1937,13119,1,Standard $,China,Ecuador
+710,130,1938,4094,1,Standard $,China,Ecuador
+710,130,1939,12266,1,Standard $,China,Ecuador
+710,130,1940,5801,1,Standard $,China,Ecuador
+710,130,1946,45358,1000,C.N. $,China,Ecuador
+710,135,1900,0,1,Hk Taels,China,Peru
+710,135,1901,0,1,Hk Taels,China,Peru
+710,135,1902,0,1,Hk Taels,China,Peru
+710,135,1903,0,1,Hk Taels,China,Peru
+710,135,1904,0,1,Hk Taels,China,Peru
+710,135,1905,0,1,Hk Taels,China,Peru
+710,135,1906,0,1,Hk Taels,China,Peru
+710,135,1907,0,1,Hk Taels,China,Peru
+710,135,1908,0,1,Hk Taels,China,Peru
+710,135,1909,0,1,Hk Taels,China,Peru
+710,135,1910,0,1,Hk Taels,China,Peru
+710,135,1911,0,1,Hk Taels,China,Peru
+710,135,1912,0,1,Hk Taels,China,Peru
+710,135,1913,0,1,Hk Taels,China,Peru
+710,135,1914,0,1,Hk Taels,China,Peru
+710,135,1915,0,1,Hk Taels,China,Peru
+710,135,1916,0,1,Hk Taels,China,Peru
+710,135,1917,0,1,Hk Taels,China,Peru
+710,135,1918,0,1,Hk Taels,China,Peru
+710,135,1919,0,1,Hk Taels,China,Peru
+710,135,1920,0,1,Hk Taels,China,Peru
+710,135,1921,0,1,Hk Taels,China,Peru
+710,135,1922,0,1,Hk Taels,China,Peru
+710,135,1923,0,1,Hk Taels,China,Peru
+710,135,1924,0,1,Hk Taels,China,Peru
+710,135,1925,0,1,Hk Taels,China,Peru
+710,135,1926,0,1,Hk Taels,China,Peru
+710,135,1927,0,1,Hk Taels,China,Peru
+710,135,1928,0,1,Hk Taels,China,Peru
+710,135,1929,0,1,Hk Taels,China,Peru
+710,135,1930,0,1,Hk Taels,China,Peru
+710,135,1931,0,1,Hk Taels,China,Peru
+710,135,1932,2721,1,Hk Taels,China,Peru
+710,135,1933,0,1,Standard $,China,Peru
+710,135,1934,132434,1,Standard $,China,Peru
+710,135,1935,216,1,Standard $,China,Peru
+710,135,1936,26463,1,Standard $,China,Peru
+710,135,1937,32540,1,Standard $,China,Peru
+710,135,1938,51371,1,Standard $,China,Peru
+710,135,1939,47083,1,Standard $,China,Peru
+710,135,1940,1173470,1,Standard $,China,Peru
+710,135,1946,1318744,1000,C.N. $,China,Peru
+710,140,1900,0,1,Hk Taels,China,Brazil
+710,140,1901,0,1,Hk Taels,China,Brazil
+710,140,1902,0,1,Hk Taels,China,Brazil
+710,140,1903,0,1,Hk Taels,China,Brazil
+710,140,1904,0,1,Hk Taels,China,Brazil
+710,140,1905,0,1,Hk Taels,China,Brazil
+710,140,1906,0,1,Hk Taels,China,Brazil
+710,140,1907,0,1,Hk Taels,China,Brazil
+710,140,1908,0,1,Hk Taels,China,Brazil
+710,140,1909,0,1,Hk Taels,China,Brazil
+710,140,1910,0,1,Hk Taels,China,Brazil
+710,140,1911,0,1,Hk Taels,China,Brazil
+710,140,1912,0,1,Hk Taels,China,Brazil
+710,140,1913,0,1,Hk Taels,China,Brazil
+710,140,1914,0,1,Hk Taels,China,Brazil
+710,140,1915,0,1,Hk Taels,China,Brazil
+710,140,1916,0,1,Hk Taels,China,Brazil
+710,140,1917,0,1,Hk Taels,China,Brazil
+710,140,1918,0,1,Hk Taels,China,Brazil
+710,140,1919,0,1,Hk Taels,China,Brazil
+710,140,1920,0,1,Hk Taels,China,Brazil
+710,140,1921,0,1,Hk Taels,China,Brazil
+710,140,1922,0,1,Hk Taels,China,Brazil
+710,140,1923,0,1,Hk Taels,China,Brazil
+710,140,1924,0,1,Hk Taels,China,Brazil
+710,140,1925,0,1,Hk Taels,China,Brazil
+710,140,1926,0,1,Hk Taels,China,Brazil
+710,140,1927,0,1,Hk Taels,China,Brazil
+710,140,1928,0,1,Hk Taels,China,Brazil
+710,140,1929,0,1,Hk Taels,China,Brazil
+710,140,1930,0,1,Hk Taels,China,Brazil
+710,140,1931,0,1,Hk Taels,China,Brazil
+710,140,1932,29568,1,Hk Taels,China,Brazil
+710,140,1933,49872,1,Standard $,China,Brazil
+710,140,1934,79305,1,Standard $,China,Brazil
+710,140,1935,52301,1,Standard $,China,Brazil
+710,140,1936,3607441,1,Standard $,China,Brazil
+710,140,1937,2317270,1,Standard $,China,Brazil
+710,140,1938,2689037,1,Standard $,China,Brazil
+710,140,1939,38242802,1,Standard $,China,Brazil
+710,140,1940,44228598,1,Standard $,China,Brazil
+710,140,1946,61308797,1000,C.N. $,China,Brazil
+710,145,1900,0,1,Hk Taels,China,Bolivia
+710,145,1901,0,1,Hk Taels,China,Bolivia
+710,145,1902,0,1,Hk Taels,China,Bolivia
+710,145,1903,0,1,Hk Taels,China,Bolivia
+710,145,1904,0,1,Hk Taels,China,Bolivia
+710,145,1905,0,1,Hk Taels,China,Bolivia
+710,145,1906,0,1,Hk Taels,China,Bolivia
+710,145,1907,0,1,Hk Taels,China,Bolivia
+710,145,1908,0,1,Hk Taels,China,Bolivia
+710,145,1909,0,1,Hk Taels,China,Bolivia
+710,145,1910,0,1,Hk Taels,China,Bolivia
+710,145,1911,0,1,Hk Taels,China,Bolivia
+710,145,1912,0,1,Hk Taels,China,Bolivia
+710,145,1913,0,1,Hk Taels,China,Bolivia
+710,145,1914,0,1,Hk Taels,China,Bolivia
+710,145,1915,0,1,Hk Taels,China,Bolivia
+710,145,1916,0,1,Hk Taels,China,Bolivia
+710,145,1917,0,1,Hk Taels,China,Bolivia
+710,145,1918,0,1,Hk Taels,China,Bolivia
+710,145,1919,0,1,Hk Taels,China,Bolivia
+710,145,1920,0,1,Hk Taels,China,Bolivia
+710,145,1921,0,1,Hk Taels,China,Bolivia
+710,145,1922,0,1,Hk Taels,China,Bolivia
+710,145,1923,0,1,Hk Taels,China,Bolivia
+710,145,1924,0,1,Hk Taels,China,Bolivia
+710,145,1925,0,1,Hk Taels,China,Bolivia
+710,145,1926,0,1,Hk Taels,China,Bolivia
+710,145,1927,0,1,Hk Taels,China,Bolivia
+710,145,1928,0,1,Hk Taels,China,Bolivia
+710,145,1929,0,1,Hk Taels,China,Bolivia
+710,145,1930,0,1,Hk Taels,China,Bolivia
+710,145,1931,0,1,Hk Taels,China,Bolivia
+710,145,1932,0,1,Hk Taels,China,Bolivia
+710,145,1933,11,1,Standard $,China,Bolivia
+710,145,1934,0,1,Standard $,China,Bolivia
+710,145,1935,0,1,Standard $,China,Bolivia
+710,145,1936,0,1,Standard $,China,Bolivia
+710,145,1937,0,1,Standard $,China,Bolivia
+710,145,1938,0,1,Standard $,China,Bolivia
+710,145,1939,0,1,Standard $,China,Bolivia
+710,145,1940,0,1,Standard $,China,Bolivia
+710,145,1946,0,1000,C.N. $,China,Bolivia
+710,150,1900,0,1,Hk Taels,China,Paraguay
+710,150,1901,0,1,Hk Taels,China,Paraguay
+710,150,1902,0,1,Hk Taels,China,Paraguay
+710,150,1903,0,1,Hk Taels,China,Paraguay
+710,150,1904,0,1,Hk Taels,China,Paraguay
+710,150,1905,0,1,Hk Taels,China,Paraguay
+710,150,1906,0,1,Hk Taels,China,Paraguay
+710,150,1907,0,1,Hk Taels,China,Paraguay
+710,150,1908,0,1,Hk Taels,China,Paraguay
+710,150,1909,0,1,Hk Taels,China,Paraguay
+710,150,1910,0,1,Hk Taels,China,Paraguay
+710,150,1911,0,1,Hk Taels,China,Paraguay
+710,150,1912,0,1,Hk Taels,China,Paraguay
+710,150,1913,0,1,Hk Taels,China,Paraguay
+710,150,1914,0,1,Hk Taels,China,Paraguay
+710,150,1915,0,1,Hk Taels,China,Paraguay
+710,150,1916,0,1,Hk Taels,China,Paraguay
+710,150,1917,0,1,Hk Taels,China,Paraguay
+710,150,1918,0,1,Hk Taels,China,Paraguay
+710,150,1919,0,1,Hk Taels,China,Paraguay
+710,150,1920,0,1,Hk Taels,China,Paraguay
+710,150,1921,0,1,Hk Taels,China,Paraguay
+710,150,1922,0,1,Hk Taels,China,Paraguay
+710,150,1923,0,1,Hk Taels,China,Paraguay
+710,150,1924,0,1,Hk Taels,China,Paraguay
+710,150,1925,0,1,Hk Taels,China,Paraguay
+710,150,1926,0,1,Hk Taels,China,Paraguay
+710,150,1927,0,1,Hk Taels,China,Paraguay
+710,150,1928,0,1,Hk Taels,China,Paraguay
+710,150,1929,0,1,Hk Taels,China,Paraguay
+710,150,1930,0,1,Hk Taels,China,Paraguay
+710,150,1931,0,1,Hk Taels,China,Paraguay
+710,150,1932,0,1,Hk Taels,China,Paraguay
+710,150,1933,0,1,Standard $,China,Paraguay
+710,150,1934,0,1,Standard $,China,Paraguay
+710,150,1935,0,1,Standard $,China,Paraguay
+710,150,1936,0,1,Standard $,China,Paraguay
+710,150,1937,0,1,Standard $,China,Paraguay
+710,150,1938,0,1,Standard $,China,Paraguay
+710,150,1939,0,1,Standard $,China,Paraguay
+710,150,1940,0,1,Standard $,China,Paraguay
+710,150,1946,8642854,1000,C.N. $,China,Paraguay
+710,155,1900,0,1,Hk Taels,China,Chile
+710,155,1901,0,1,Hk Taels,China,Chile
+710,155,1902,0,1,Hk Taels,China,Chile
+710,155,1903,0,1,Hk Taels,China,Chile
+710,155,1904,0,1,Hk Taels,China,Chile
+710,155,1905,0,1,Hk Taels,China,Chile
+710,155,1906,0,1,Hk Taels,China,Chile
+710,155,1907,0,1,Hk Taels,China,Chile
+710,155,1908,0,1,Hk Taels,China,Chile
+710,155,1909,0,1,Hk Taels,China,Chile
+710,155,1910,0,1,Hk Taels,China,Chile
+710,155,1911,0,1,Hk Taels,China,Chile
+710,155,1912,0,1,Hk Taels,China,Chile
+710,155,1913,0,1,Hk Taels,China,Chile
+710,155,1914,0,1,Hk Taels,China,Chile
+710,155,1915,0,1,Hk Taels,China,Chile
+710,155,1916,0,1,Hk Taels,China,Chile
+710,155,1917,0,1,Hk Taels,China,Chile
+710,155,1918,0,1,Hk Taels,China,Chile
+710,155,1919,0,1,Hk Taels,China,Chile
+710,155,1920,0,1,Hk Taels,China,Chile
+710,155,1921,0,1,Hk Taels,China,Chile
+710,155,1922,0,1,Hk Taels,China,Chile
+710,155,1923,0,1,Hk Taels,China,Chile
+710,155,1924,0,1,Hk Taels,China,Chile
+710,155,1925,0,1,Hk Taels,China,Chile
+710,155,1926,0,1,Hk Taels,China,Chile
+710,155,1927,0,1,Hk Taels,China,Chile
+710,155,1928,0,1,Hk Taels,China,Chile
+710,155,1929,0,1,Hk Taels,China,Chile
+710,155,1930,0,1,Hk Taels,China,Chile
+710,155,1931,0,1,Hk Taels,China,Chile
+710,155,1932,63505,1,Hk Taels,China,Chile
+710,155,1933,45974,1,Standard $,China,Chile
+710,155,1934,82207,1,Standard $,China,Chile
+710,155,1935,97077,1,Standard $,China,Chile
+710,155,1936,84590,1,Standard $,China,Chile
+710,155,1937,122608,1,Standard $,China,Chile
+710,155,1938,41070,1,Standard $,China,Chile
+710,155,1939,42485,1,Standard $,China,Chile
+710,155,1940,129101,1,Standard $,China,Chile
+710,155,1946,7567,1000,C.N. $,China,Chile
+710,160,1900,0,1,Hk Taels,China,Argentina
+710,160,1901,0,1,Hk Taels,China,Argentina
+710,160,1902,0,1,Hk Taels,China,Argentina
+710,160,1903,0,1,Hk Taels,China,Argentina
+710,160,1904,0,1,Hk Taels,China,Argentina
+710,160,1905,0,1,Hk Taels,China,Argentina
+710,160,1906,0,1,Hk Taels,China,Argentina
+710,160,1907,0,1,Hk Taels,China,Argentina
+710,160,1908,0,1,Hk Taels,China,Argentina
+710,160,1909,0,1,Hk Taels,China,Argentina
+710,160,1910,0,1,Hk Taels,China,Argentina
+710,160,1911,0,1,Hk Taels,China,Argentina
+710,160,1912,0,1,Hk Taels,China,Argentina
+710,160,1913,0,1,Hk Taels,China,Argentina
+710,160,1914,0,1,Hk Taels,China,Argentina
+710,160,1915,0,1,Hk Taels,China,Argentina
+710,160,1916,0,1,Hk Taels,China,Argentina
+710,160,1917,0,1,Hk Taels,China,Argentina
+710,160,1918,0,1,Hk Taels,China,Argentina
+710,160,1919,0,1,Hk Taels,China,Argentina
+710,160,1920,0,1,Hk Taels,China,Argentina
+710,160,1921,0,1,Hk Taels,China,Argentina
+710,160,1922,0,1,Hk Taels,China,Argentina
+710,160,1923,0,1,Hk Taels,China,Argentina
+710,160,1924,0,1,Hk Taels,China,Argentina
+710,160,1925,0,1,Hk Taels,China,Argentina
+710,160,1926,0,1,Hk Taels,China,Argentina
+710,160,1927,0,1,Hk Taels,China,Argentina
+710,160,1928,0,1,Hk Taels,China,Argentina
+710,160,1929,0,1,Hk Taels,China,Argentina
+710,160,1930,0,1,Hk Taels,China,Argentina
+710,160,1931,239689,1,Hk Taels,China,Argentina
+710,160,1932,645262,1,Hk Taels,China,Argentina
+710,160,1933,10593143,1,Standard $,China,Argentina
+710,160,1934,7313947,1,Standard $,China,Argentina
+710,160,1935,7305716,1,Standard $,China,Argentina
+710,160,1936,993487,1,Standard $,China,Argentina
+710,160,1937,1326903,1,Standard $,China,Argentina
+710,160,1938,1085285,1,Standard $,China,Argentina
+710,160,1939,1698484,1,Standard $,China,Argentina
+710,160,1940,3208621,1,Standard $,China,Argentina
+710,160,1946,3310438,1000,C.N. $,China,Argentina
+710,165,1900,0,1,Hk Taels,China,Uruguay
+710,165,1901,0,1,Hk Taels,China,Uruguay
+710,165,1902,0,1,Hk Taels,China,Uruguay
+710,165,1903,0,1,Hk Taels,China,Uruguay
+710,165,1904,0,1,Hk Taels,China,Uruguay
+710,165,1905,0,1,Hk Taels,China,Uruguay
+710,165,1906,0,1,Hk Taels,China,Uruguay
+710,165,1907,0,1,Hk Taels,China,Uruguay
+710,165,1908,0,1,Hk Taels,China,Uruguay
+710,165,1909,0,1,Hk Taels,China,Uruguay
+710,165,1910,0,1,Hk Taels,China,Uruguay
+710,165,1911,0,1,Hk Taels,China,Uruguay
+710,165,1912,0,1,Hk Taels,China,Uruguay
+710,165,1913,0,1,Hk Taels,China,Uruguay
+710,165,1914,0,1,Hk Taels,China,Uruguay
+710,165,1915,0,1,Hk Taels,China,Uruguay
+710,165,1916,0,1,Hk Taels,China,Uruguay
+710,165,1917,0,1,Hk Taels,China,Uruguay
+710,165,1918,0,1,Hk Taels,China,Uruguay
+710,165,1919,0,1,Hk Taels,China,Uruguay
+710,165,1920,0,1,Hk Taels,China,Uruguay
+710,165,1921,0,1,Hk Taels,China,Uruguay
+710,165,1922,0,1,Hk Taels,China,Uruguay
+710,165,1923,0,1,Hk Taels,China,Uruguay
+710,165,1924,0,1,Hk Taels,China,Uruguay
+710,165,1925,0,1,Hk Taels,China,Uruguay
+710,165,1926,0,1,Hk Taels,China,Uruguay
+710,165,1927,0,1,Hk Taels,China,Uruguay
+710,165,1928,0,1,Hk Taels,China,Uruguay
+710,165,1929,0,1,Hk Taels,China,Uruguay
+710,165,1930,0,1,Hk Taels,China,Uruguay
+710,165,1931,0,1,Hk Taels,China,Uruguay
+710,165,1932,51846,1,Hk Taels,China,Uruguay
+710,165,1933,921,1,Standard $,China,Uruguay
+710,165,1934,9108,1,Standard $,China,Uruguay
+710,165,1935,45890,1,Standard $,China,Uruguay
+710,165,1936,8208,1,Standard $,China,Uruguay
+710,165,1937,1487,1,Standard $,China,Uruguay
+710,165,1938,935,1,Standard $,China,Uruguay
+710,165,1939,8671,1,Standard $,China,Uruguay
+710,165,1940,15005,1,Standard $,China,Uruguay
+710,165,1946,789714,1000,C.N. $,China,Uruguay
+710,200,1900,45467409,1,Hk Taels,China,United Kingdom
+710,200,1901,41223538,1,Hk Taels,China,United Kingdom
+710,200,1902,57624610,1,Hk Taels,China,United Kingdom
+710,200,1903,50603772,1,Hk Taels,China,United Kingdom
+710,200,1904,57220955,1,Hk Taels,China,United Kingdom
+710,200,1905,86472343,1,Hk Taels,China,United Kingdom
+710,200,1906,78738292,1,Hk Taels,China,United Kingdom
+710,200,1907,77562700,1,Hk Taels,China,United Kingdom
+710,200,1908,72560900,1,Hk Taels,China,United Kingdom
+710,200,1909,68229788,1,Hk Taels,China,United Kingdom
+710,200,1910,70949137,1,Hk Taels,China,United Kingdom
+710,200,1911,89997051,1,Hk Taels,China,United Kingdom
+710,200,1912,74856196,1,Hk Taels,China,United Kingdom
+710,200,1913,96910944,1,Hk Taels,China,United Kingdom
+710,200,1914,105207580,1,Hk Taels,China,United Kingdom
+710,200,1915,71558735,1,Hk Taels,China,United Kingdom
+710,200,1916,70353029,1,Hk Taels,China,United Kingdom
+710,200,1917,51989135,1,Hk Taels,China,United Kingdom
+710,200,1918,49890293,1,Hk Taels,China,United Kingdom
+710,200,1919,64292239,1,Hk Taels,China,United Kingdom
+710,200,1920,131719952,1,Hk Taels,China,United Kingdom
+710,200,1921,149935615,1,Hk Taels,China,United Kingdom
+710,200,1922,145292550,1,Hk Taels,China,United Kingdom
+710,200,1923,120397229,1,Hk Taels,China,United Kingdom
+710,200,1924,126011025,1,Hk Taels,China,United Kingdom
+710,200,1925,93137777,1,Hk Taels,China,United Kingdom
+710,200,1926,116269419,1,Hk Taels,China,United Kingdom
+710,200,1927,75072394,1,Hk Taels,China,United Kingdom
+710,200,1928,113756588,1,Hk Taels,China,United Kingdom
+710,200,1929,119148969,1,Hk Taels,China,United Kingdom
+710,200,1930,108257932,1,Hk Taels,China,United Kingdom
+710,200,1931,119985583,1,Hk Taels,China,United Kingdom
+710,200,1932,119192225,1,Hk Taels,China,United Kingdom
+710,200,1933,154040856,1,Standard $,China,United Kingdom
+710,200,1934,124646707,1,Standard $,China,United Kingdom
+710,200,1935,98232336,1,Standard $,China,United Kingdom
+710,200,1936,110497460,1,Standard $,China,United Kingdom
+710,200,1937,111694975,1,Standard $,China,United Kingdom
+710,200,1938,70605668,1,Standard $,China,United Kingdom
+710,200,1939,77860433,1,Standard $,China,United Kingdom
+710,200,1940,81609329,1,Standard $,China,United Kingdom
+710,200,1946,68903143,1000,C.N. $,China,United Kingdom
+710,205,1900,0,1,Hk Taels,China,Ireland
+710,205,1901,0,1,Hk Taels,China,Ireland
+710,205,1902,0,1,Hk Taels,China,Ireland
+710,205,1903,0,1,Hk Taels,China,Ireland
+710,205,1904,0,1,Hk Taels,China,Ireland
+710,205,1905,0,1,Hk Taels,China,Ireland
+710,205,1906,0,1,Hk Taels,China,Ireland
+710,205,1907,0,1,Hk Taels,China,Ireland
+710,205,1908,0,1,Hk Taels,China,Ireland
+710,205,1909,0,1,Hk Taels,China,Ireland
+710,205,1910,0,1,Hk Taels,China,Ireland
+710,205,1911,0,1,Hk Taels,China,Ireland
+710,205,1912,0,1,Hk Taels,China,Ireland
+710,205,1913,0,1,Hk Taels,China,Ireland
+710,205,1914,0,1,Hk Taels,China,Ireland
+710,205,1915,0,1,Hk Taels,China,Ireland
+710,205,1916,0,1,Hk Taels,China,Ireland
+710,205,1917,0,1,Hk Taels,China,Ireland
+710,205,1918,0,1,Hk Taels,China,Ireland
+710,205,1919,0,1,Hk Taels,China,Ireland
+710,205,1920,0,1,Hk Taels,China,Ireland
+710,205,1921,0,1,Hk Taels,China,Ireland
+710,205,1922,0,1,Hk Taels,China,Ireland
+710,205,1923,0,1,Hk Taels,China,Ireland
+710,205,1924,0,1,Hk Taels,China,Ireland
+710,205,1925,0,1,Hk Taels,China,Ireland
+710,205,1926,0,1,Hk Taels,China,Ireland
+710,205,1927,0,1,Hk Taels,China,Ireland
+710,205,1928,0,1,Hk Taels,China,Ireland
+710,205,1929,0,1,Hk Taels,China,Ireland
+710,205,1930,0,1,Hk Taels,China,Ireland
+710,205,1931,0,1,Hk Taels,China,Ireland
+710,205,1932,2087,1,Hk Taels,China,Ireland
+710,205,1933,10052,1,Standard $,China,Ireland
+710,205,1934,38894,1,Standard $,China,Ireland
+710,205,1935,25542,1,Standard $,China,Ireland
+710,205,1936,32407,1,Standard $,China,Ireland
+710,205,1937,18335,1,Standard $,China,Ireland
+710,205,1938,20534,1,Standard $,China,Ireland
+710,205,1939,7375,1,Standard $,China,Ireland
+710,205,1940,43152,1,Standard $,China,Ireland
+710,205,1946,1814,1000,C.N. $,China,Ireland
+710,210,1900,0,1,Hk Taels,China,Netherlands
+710,210,1901,0,1,Hk Taels,China,Netherlands
+710,210,1902,0,1,Hk Taels,China,Netherlands
+710,210,1903,0,1,Hk Taels,China,Netherlands
+710,210,1904,0,1,Hk Taels,China,Netherlands
+710,210,1905,1468127,1,Hk Taels,China,Netherlands
+710,210,1906,1352604,1,Hk Taels,China,Netherlands
+710,210,1907,1318528,1,Hk Taels,China,Netherlands
+710,210,1908,1278023,1,Hk Taels,China,Netherlands
+710,210,1909,1774122,1,Hk Taels,China,Netherlands
+710,210,1910,1198271,1,Hk Taels,China,Netherlands
+710,210,1911,1417156,1,Hk Taels,China,Netherlands
+710,210,1912,982103,1,Hk Taels,China,Netherlands
+710,210,1913,1423864,1,Hk Taels,China,Netherlands
+710,210,1914,1377270,1,Hk Taels,China,Netherlands
+710,210,1915,519360,1,Hk Taels,China,Netherlands
+710,210,1916,230393,1,Hk Taels,China,Netherlands
+710,210,1917,33625,1,Hk Taels,China,Netherlands
+710,210,1918,1110,1,Hk Taels,China,Netherlands
+710,210,1919,111030,1,Hk Taels,China,Netherlands
+710,210,1920,3757383,1,Hk Taels,China,Netherlands
+710,210,1921,4505219,1,Hk Taels,China,Netherlands
+710,210,1922,7628252,1,Hk Taels,China,Netherlands
+710,210,1923,3908222,1,Hk Taels,China,Netherlands
+710,210,1924,20459876,1,Hk Taels,China,Netherlands
+710,210,1925,11075242,1,Hk Taels,China,Netherlands
+710,210,1926,10778903,1,Hk Taels,China,Netherlands
+710,210,1927,9003330,1,Hk Taels,China,Netherlands
+710,210,1928,11405007,1,Hk Taels,China,Netherlands
+710,210,1929,11929873,1,Hk Taels,China,Netherlands
+710,210,1930,10711121,1,Hk Taels,China,Netherlands
+710,210,1931,13541994,1,Hk Taels,China,Netherlands
+710,210,1932,8793213,1,Hk Taels,China,Netherlands
+710,210,1933,10747691,1,Standard $,China,Netherlands
+710,210,1934,7697681,1,Standard $,China,Netherlands
+710,210,1935,4517775,1,Standard $,China,Netherlands
+710,210,1936,4789420,1,Standard $,China,Netherlands
+710,210,1937,6052973,1,Standard $,China,Netherlands
+710,210,1938,4639570,1,Standard $,China,Netherlands
+710,210,1939,3953069,1,Standard $,China,Netherlands
+710,210,1940,3557865,1,Standard $,China,Netherlands
+710,210,1946,1164774,1000,C.N. $,China,Netherlands
+710,211,1900,0,1,Hk Taels,China,Belgium
+710,211,1901,0,1,Hk Taels,China,Belgium
+710,211,1902,0,1,Hk Taels,China,Belgium
+710,211,1903,0,1,Hk Taels,China,Belgium
+710,211,1904,0,1,Hk Taels,China,Belgium
+710,211,1905,9554334,1,Hk Taels,China,Belgium
+710,211,1906,12594880,1,Hk Taels,China,Belgium
+710,211,1907,10581048,1,Hk Taels,China,Belgium
+710,211,1908,8449883,1,Hk Taels,China,Belgium
+710,211,1909,10858266,1,Hk Taels,China,Belgium
+710,211,1910,11550686,1,Hk Taels,China,Belgium
+710,211,1911,10867437,1,Hk Taels,China,Belgium
+710,211,1912,8751495,1,Hk Taels,China,Belgium
+710,211,1913,15830838,1,Hk Taels,China,Belgium
+710,211,1914,17940243,1,Hk Taels,China,Belgium
+710,211,1915,3464707,1,Hk Taels,China,Belgium
+710,211,1916,7704,1,Hk Taels,China,Belgium
+710,211,1917,7597,1,Hk Taels,China,Belgium
+710,211,1918,0,1,Hk Taels,China,Belgium
+710,211,1919,228761,1,Hk Taels,China,Belgium
+710,211,1920,4969994,1,Hk Taels,China,Belgium
+710,211,1921,10640778,1,Hk Taels,China,Belgium
+710,211,1922,11152498,1,Hk Taels,China,Belgium
+710,211,1923,10878750,1,Hk Taels,China,Belgium
+710,211,1924,18278315,1,Hk Taels,China,Belgium
+710,211,1925,10785987,1,Hk Taels,China,Belgium
+710,211,1926,14365472,1,Hk Taels,China,Belgium
+710,211,1927,11993637,1,Hk Taels,China,Belgium
+710,211,1928,16769044,1,Hk Taels,China,Belgium
+710,211,1929,25773388,1,Hk Taels,China,Belgium
+710,211,1930,27456827,1,Hk Taels,China,Belgium
+710,211,1931,30287406,1,Hk Taels,China,Belgium
+710,211,1932,13721808,1,Hk Taels,China,Belgium
+710,211,1933,28235348,1,Standard $,China,Belgium
+710,211,1934,26031973,1,Standard $,China,Belgium
+710,211,1935,18525617,1,Standard $,China,Belgium
+710,211,1936,26011111,1,Standard $,China,Belgium
+710,211,1937,28332665,1,Standard $,China,Belgium
+710,211,1938,18126232,1,Standard $,China,Belgium
+710,211,1939,21043795,1,Standard $,China,Belgium
+710,211,1940,14908249,1,Standard $,China,Belgium
+710,211,1946,15763463,1000,C.N. $,China,Belgium
+710,212,1900,0,1,Hk Taels,China,Luxembourg
+710,212,1901,0,1,Hk Taels,China,Luxembourg
+710,212,1902,0,1,Hk Taels,China,Luxembourg
+710,212,1903,0,1,Hk Taels,China,Luxembourg
+710,212,1904,0,1,Hk Taels,China,Luxembourg
+710,212,1905,0,1,Hk Taels,China,Luxembourg
+710,212,1906,0,1,Hk Taels,China,Luxembourg
+710,212,1907,0,1,Hk Taels,China,Luxembourg
+710,212,1908,0,1,Hk Taels,China,Luxembourg
+710,212,1909,0,1,Hk Taels,China,Luxembourg
+710,212,1910,0,1,Hk Taels,China,Luxembourg
+710,212,1911,0,1,Hk Taels,China,Luxembourg
+710,212,1912,0,1,Hk Taels,China,Luxembourg
+710,212,1913,0,1,Hk Taels,China,Luxembourg
+710,212,1914,0,1,Hk Taels,China,Luxembourg
+710,212,1915,0,1,Hk Taels,China,Luxembourg
+710,212,1916,0,1,Hk Taels,China,Luxembourg
+710,212,1917,0,1,Hk Taels,China,Luxembourg
+710,212,1918,0,1,Hk Taels,China,Luxembourg
+710,212,1919,0,1,Hk Taels,China,Luxembourg
+710,212,1920,0,1,Hk Taels,China,Luxembourg
+710,212,1921,0,1,Hk Taels,China,Luxembourg
+710,212,1922,0,1,Hk Taels,China,Luxembourg
+710,212,1923,0,1,Hk Taels,China,Luxembourg
+710,212,1924,0,1,Hk Taels,China,Luxembourg
+710,212,1925,8437,1,Hk Taels,China,Luxembourg
+710,212,1926,721821,1,Hk Taels,China,Luxembourg
+710,212,1927,1012879,1,Hk Taels,China,Luxembourg
+710,212,1928,1312715,1,Hk Taels,China,Luxembourg
+710,212,1929,0,1,Hk Taels,China,Luxembourg
+710,212,1930,0,1,Hk Taels,China,Luxembourg
+710,212,1931,0,1,Hk Taels,China,Luxembourg
+710,212,1932,1169676,1,Hk Taels,China,Luxembourg
+710,212,1933,3047490,1,Standard $,China,Luxembourg
+710,212,1934,2943816,1,Standard $,China,Luxembourg
+710,212,1935,1402331,1,Standard $,China,Luxembourg
+710,212,1936,1716748,1,Standard $,China,Luxembourg
+710,212,1937,4605318,1,Standard $,China,Luxembourg
+710,212,1938,332382,1,Standard $,China,Luxembourg
+710,212,1939,869232,1,Standard $,China,Luxembourg
+710,212,1940,80726,1,Standard $,China,Luxembourg
+710,212,1946,634834,1000,C.N. $,China,Luxembourg
+710,220,1900,0,1,Hk Taels,China,France
+710,220,1901,0,1,Hk Taels,China,France
+710,220,1902,0,1,Hk Taels,China,France
+710,220,1903,0,1,Hk Taels,China,France
+710,220,1904,0,1,Hk Taels,China,France
+710,220,1905,3811634,1,Hk Taels,China,France
+710,220,1906,4281674,1,Hk Taels,China,France
+710,220,1907,3158626,1,Hk Taels,China,France
+710,220,1908,2403458,1,Hk Taels,China,France
+710,220,1909,2181627,1,Hk Taels,China,France
+710,220,1910,2760932,1,Hk Taels,China,France
+710,220,1911,3018343,1,Hk Taels,China,France
+710,220,1912,2932373,1,Hk Taels,China,France
+710,220,1913,5299517,1,Hk Taels,China,France
+710,220,1914,4951471,1,Hk Taels,China,France
+710,220,1915,2430599,1,Hk Taels,China,France
+710,220,1916,2837884,1,Hk Taels,China,France
+710,220,1917,2309160,1,Hk Taels,China,France
+710,220,1918,1568858,1,Hk Taels,China,France
+710,220,1919,3375809,1,Hk Taels,China,France
+710,220,1920,4878519,1,Hk Taels,China,France
+710,220,1921,9639138,1,Hk Taels,China,France
+710,220,1922,4555510,1,Hk Taels,China,France
+710,220,1923,7548654,1,Hk Taels,China,France
+710,220,1924,10560018,1,Hk Taels,China,France
+710,220,1925,12438967,1,Hk Taels,China,France
+710,220,1926,17016273,1,Hk Taels,China,France
+710,220,1927,14700093,1,Hk Taels,China,France
+710,220,1928,21579338,1,Hk Taels,China,France
+710,220,1929,18185138,1,Hk Taels,China,France
+710,220,1930,16986885,1,Hk Taels,China,France
+710,220,1931,21683949,1,Hk Taels,China,France
+710,220,1932,15546578,1,Hk Taels,China,France
+710,220,1933,23820678,1,Standard $,China,France
+710,220,1934,22419906,1,Standard $,China,France
+710,220,1935,13361864,1,Standard $,China,France
+710,220,1936,18380536,1,Standard $,China,France
+710,220,1937,15106117,1,Standard $,China,France
+710,220,1938,18304233,1,Standard $,China,France
+710,220,1939,11307309,1,Standard $,China,France
+710,220,1940,7815076,1,Standard $,China,France
+710,220,1946,2984048,1000,C.N. $,China,France
+710,225,1900,0,1,Hk Taels,China,Switzerland
+710,225,1901,0,1,Hk Taels,China,Switzerland
+710,225,1902,0,1,Hk Taels,China,Switzerland
+710,225,1903,0,1,Hk Taels,China,Switzerland
+710,225,1904,0,1,Hk Taels,China,Switzerland
+710,225,1905,27975,1,Hk Taels,China,Switzerland
+710,225,1906,45063,1,Hk Taels,China,Switzerland
+710,225,1907,85099,1,Hk Taels,China,Switzerland
+710,225,1908,71846,1,Hk Taels,China,Switzerland
+710,225,1909,38148,1,Hk Taels,China,Switzerland
+710,225,1910,44685,1,Hk Taels,China,Switzerland
+710,225,1911,35633,1,Hk Taels,China,Switzerland
+710,225,1912,30105,1,Hk Taels,China,Switzerland
+710,225,1913,58034,1,Hk Taels,China,Switzerland
+710,225,1914,74270,1,Hk Taels,China,Switzerland
+710,225,1915,16016,1,Hk Taels,China,Switzerland
+710,225,1916,482,1,Hk Taels,China,Switzerland
+710,225,1917,662,1,Hk Taels,China,Switzerland
+710,225,1918,13663,1,Hk Taels,China,Switzerland
+710,225,1919,15838,1,Hk Taels,China,Switzerland
+710,225,1920,3481930,1,Hk Taels,China,Switzerland
+710,225,1921,1540967,1,Hk Taels,China,Switzerland
+710,225,1922,2300233,1,Hk Taels,China,Switzerland
+710,225,1923,3544499,1,Hk Taels,China,Switzerland
+710,225,1924,3543838,1,Hk Taels,China,Switzerland
+710,225,1925,2198825,1,Hk Taels,China,Switzerland
+710,225,1926,2505882,1,Hk Taels,China,Switzerland
+710,225,1927,1695288,1,Hk Taels,China,Switzerland
+710,225,1928,3113842,1,Hk Taels,China,Switzerland
+710,225,1929,2585893,1,Hk Taels,China,Switzerland
+710,225,1930,2699377,1,Hk Taels,China,Switzerland
+710,225,1931,4275059,1,Hk Taels,China,Switzerland
+710,225,1932,3205026,1,Hk Taels,China,Switzerland
+710,225,1933,11548504,1,Standard $,China,Switzerland
+710,225,1934,5760455,1,Standard $,China,Switzerland
+710,225,1935,5065991,1,Standard $,China,Switzerland
+710,225,1936,6328732,1,Standard $,China,Switzerland
+710,225,1937,9743916,1,Standard $,China,Switzerland
+710,225,1938,8928619,1,Standard $,China,Switzerland
+710,225,1939,7578558,1,Standard $,China,Switzerland
+710,225,1940,7161550,1,Standard $,China,Switzerland
+710,225,1946,26541690,1000,C.N. $,China,Switzerland
+710,230,1900,0,1,Hk Taels,China,Spain
+710,230,1901,0,1,Hk Taels,China,Spain
+710,230,1902,0,1,Hk Taels,China,Spain
+710,230,1903,0,1,Hk Taels,China,Spain
+710,230,1904,0,1,Hk Taels,China,Spain
+710,230,1905,478,1,Hk Taels,China,Spain
+710,230,1906,2086,1,Hk Taels,China,Spain
+710,230,1907,2008,1,Hk Taels,China,Spain
+710,230,1908,1612,1,Hk Taels,China,Spain
+710,230,1909,2678,1,Hk Taels,China,Spain
+710,230,1910,8492,1,Hk Taels,China,Spain
+710,230,1911,6911,1,Hk Taels,China,Spain
+710,230,1912,3862,1,Hk Taels,China,Spain
+710,230,1913,3386,1,Hk Taels,China,Spain
+710,230,1914,2318,1,Hk Taels,China,Spain
+710,230,1915,810,1,Hk Taels,China,Spain
+710,230,1916,5397,1,Hk Taels,China,Spain
+710,230,1917,2130,1,Hk Taels,China,Spain
+710,230,1918,2610,1,Hk Taels,China,Spain
+710,230,1919,3205,1,Hk Taels,China,Spain
+710,230,1920,18940,1,Hk Taels,China,Spain
+710,230,1921,5183,1,Hk Taels,China,Spain
+710,230,1922,5081,1,Hk Taels,China,Spain
+710,230,1923,29398,1,Hk Taels,China,Spain
+710,230,1924,32169,1,Hk Taels,China,Spain
+710,230,1925,142197,1,Hk Taels,China,Spain
+710,230,1926,98629,1,Hk Taels,China,Spain
+710,230,1927,2108,1,Hk Taels,China,Spain
+710,230,1928,12556,1,Hk Taels,China,Spain
+710,230,1929,30187,1,Hk Taels,China,Spain
+710,230,1930,57604,1,Hk Taels,China,Spain
+710,230,1931,205402,1,Hk Taels,China,Spain
+710,230,1932,208219,1,Hk Taels,China,Spain
+710,230,1933,467181,1,Standard $,China,Spain
+710,230,1934,288722,1,Standard $,China,Spain
+710,230,1935,337389,1,Standard $,China,Spain
+710,230,1936,136544,1,Standard $,China,Spain
+710,230,1937,166528,1,Standard $,China,Spain
+710,230,1938,72610,1,Standard $,China,Spain
+710,230,1939,99926,1,Standard $,China,Spain
+710,230,1940,88154,1,Standard $,China,Spain
+710,230,1946,52014,1000,C.N. $,China,Spain
+710,231,1900,0,1,Hk Taels,China,Gibraltar
+710,231,1901,0,1,Hk Taels,China,Gibraltar
+710,231,1902,0,1,Hk Taels,China,Gibraltar
+710,231,1903,0,1,Hk Taels,China,Gibraltar
+710,231,1904,0,1,Hk Taels,China,Gibraltar
+710,231,1905,0,1,Hk Taels,China,Gibraltar
+710,231,1906,0,1,Hk Taels,China,Gibraltar
+710,231,1907,0,1,Hk Taels,China,Gibraltar
+710,231,1908,0,1,Hk Taels,China,Gibraltar
+710,231,1909,0,1,Hk Taels,China,Gibraltar
+710,231,1910,0,1,Hk Taels,China,Gibraltar
+710,231,1911,0,1,Hk Taels,China,Gibraltar
+710,231,1912,0,1,Hk Taels,China,Gibraltar
+710,231,1913,0,1,Hk Taels,China,Gibraltar
+710,231,1914,0,1,Hk Taels,China,Gibraltar
+710,231,1915,0,1,Hk Taels,China,Gibraltar
+710,231,1916,0,1,Hk Taels,China,Gibraltar
+710,231,1917,0,1,Hk Taels,China,Gibraltar
+710,231,1918,0,1,Hk Taels,China,Gibraltar
+710,231,1919,0,1,Hk Taels,China,Gibraltar
+710,231,1920,0,1,Hk Taels,China,Gibraltar
+710,231,1921,0,1,Hk Taels,China,Gibraltar
+710,231,1922,0,1,Hk Taels,China,Gibraltar
+710,231,1923,0,1,Hk Taels,China,Gibraltar
+710,231,1924,0,1,Hk Taels,China,Gibraltar
+710,231,1925,0,1,Hk Taels,China,Gibraltar
+710,231,1926,0,1,Hk Taels,China,Gibraltar
+710,231,1927,0,1,Hk Taels,China,Gibraltar
+710,231,1928,0,1,Hk Taels,China,Gibraltar
+710,231,1929,0,1,Hk Taels,China,Gibraltar
+710,231,1930,0,1,Hk Taels,China,Gibraltar
+710,231,1931,0,1,Hk Taels,China,Gibraltar
+710,231,1932,11059,1,Hk Taels,China,Gibraltar
+710,231,1933,3082,1,Standard $,China,Gibraltar
+710,231,1934,26737,1,Standard $,China,Gibraltar
+710,231,1935,4,1,Standard $,China,Gibraltar
+710,231,1936,11,1,Standard $,China,Gibraltar
+710,231,1937,197,1,Standard $,China,Gibraltar
+710,231,1938,0,1,Standard $,China,Gibraltar
+710,231,1939,80,1,Standard $,China,Gibraltar
+710,231,1940,0,1,Standard $,China,Gibraltar
+710,231,1946,574,1000,C.N. $,China,Gibraltar
+710,235,1900,0,1,Hk Taels,China,Portugal
+710,235,1901,0,1,Hk Taels,China,Portugal
+710,235,1902,0,1,Hk Taels,China,Portugal
+710,235,1903,0,1,Hk Taels,China,Portugal
+710,235,1904,0,1,Hk Taels,China,Portugal
+710,235,1905,2397,1,Hk Taels,China,Portugal
+710,235,1906,14547,1,Hk Taels,China,Portugal
+710,235,1907,6453,1,Hk Taels,China,Portugal
+710,235,1908,1309,1,Hk Taels,China,Portugal
+710,235,1909,12516,1,Hk Taels,China,Portugal
+710,235,1910,7319,1,Hk Taels,China,Portugal
+710,235,1911,2831,1,Hk Taels,China,Portugal
+710,235,1912,3257,1,Hk Taels,China,Portugal
+710,235,1913,1173,1,Hk Taels,China,Portugal
+710,235,1914,1526,1,Hk Taels,China,Portugal
+710,235,1915,286,1,Hk Taels,China,Portugal
+710,235,1916,0,1,Hk Taels,China,Portugal
+710,235,1917,0,1,Hk Taels,China,Portugal
+710,235,1918,0,1,Hk Taels,China,Portugal
+710,235,1919,479,1,Hk Taels,China,Portugal
+710,235,1920,1020,1,Hk Taels,China,Portugal
+710,235,1921,13637,1,Hk Taels,China,Portugal
+710,235,1922,6124,1,Hk Taels,China,Portugal
+710,235,1923,4293,1,Hk Taels,China,Portugal
+710,235,1924,7018,1,Hk Taels,China,Portugal
+710,235,1925,3341,1,Hk Taels,China,Portugal
+710,235,1926,5810,1,Hk Taels,China,Portugal
+710,235,1927,52236,1,Hk Taels,China,Portugal
+710,235,1928,54365,1,Hk Taels,China,Portugal
+710,235,1929,84465,1,Hk Taels,China,Portugal
+710,235,1930,108878,1,Hk Taels,China,Portugal
+710,235,1931,73448,1,Hk Taels,China,Portugal
+710,235,1932,59364,1,Hk Taels,China,Portugal
+710,235,1933,228553,1,Standard $,China,Portugal
+710,235,1934,176755,1,Standard $,China,Portugal
+710,235,1935,176224,1,Standard $,China,Portugal
+710,235,1936,966963,1,Standard $,China,Portugal
+710,235,1937,206781,1,Standard $,China,Portugal
+710,235,1938,121363,1,Standard $,China,Portugal
+710,235,1939,146681,1,Standard $,China,Portugal
+710,235,1940,338241,1,Standard $,China,Portugal
+710,235,1946,614568,1000,C.N. $,China,Portugal
+710,255,1900,0,1,Hk Taels,China,Germany
+710,255,1901,0,1,Hk Taels,China,Germany
+710,255,1902,0,1,Hk Taels,China,Germany
+710,255,1903,0,1,Hk Taels,China,Germany
+710,255,1904,0,1,Hk Taels,China,Germany
+710,255,1905,14846075,1,Hk Taels,China,Germany
+710,255,1906,17341768,1,Hk Taels,China,Germany
+710,255,1907,16177400,1,Hk Taels,China,Germany
+710,255,1908,14039232,1,Hk Taels,China,Germany
+710,255,1909,15188966,1,Hk Taels,China,Germany
+710,255,1910,21367748,1,Hk Taels,China,Germany
+710,255,1911,22456670,1,Hk Taels,China,Germany
+710,255,1912,21129947,1,Hk Taels,China,Germany
+710,255,1913,28302403,1,Hk Taels,China,Germany
+710,255,1914,16696945,1,Hk Taels,China,Germany
+710,255,1915,160458,1,Hk Taels,China,Germany
+710,255,1916,24499,1,Hk Taels,China,Germany
+710,255,1917,0,1,Hk Taels,China,Germany
+710,255,1918,0,1,Hk Taels,China,Germany
+710,255,1919,368,1,Hk Taels,China,Germany
+710,255,1920,5417744,1,Hk Taels,China,Germany
+710,255,1921,13348856,1,Hk Taels,China,Germany
+710,255,1922,24744130,1,Hk Taels,China,Germany
+710,255,1923,32456067,1,Hk Taels,China,Germany
+710,255,1924,38687635,1,Hk Taels,China,Germany
+710,255,1925,32510643,1,Hk Taels,China,Germany
+710,255,1926,45677616,1,Hk Taels,China,Germany
+710,255,1927,39354364,1,Hk Taels,China,Germany
+710,255,1928,55696970,1,Hk Taels,China,Germany
+710,255,1929,67075824,1,Hk Taels,China,Germany
+710,255,1930,69105357,1,Hk Taels,China,Germany
+710,255,1931,83514454,1,Hk Taels,China,Germany
+710,255,1932,71913878,1,Hk Taels,China,Germany
+710,255,1933,108015828,1,Standard $,China,Germany
+710,255,1934,93389213,1,Standard $,China,Germany
+710,255,1935,103385294,1,Standard $,China,Germany
+710,255,1936,150238093,1,Standard $,China,Germany
+710,255,1937,146373641,1,Standard $,China,Germany
+710,255,1938,112938855,1,Standard $,China,Germany
+710,255,1939,87167387,1,Standard $,China,Germany
+710,255,1940,55032819,1,Standard $,China,Germany
+710,255,1946,5714004,1000,C.N. $,China,Germany
+710,290,1900,0,1,Hk Taels,China,Poland
+710,290,1901,0,1,Hk Taels,China,Poland
+710,290,1902,0,1,Hk Taels,China,Poland
+710,290,1903,0,1,Hk Taels,China,Poland
+710,290,1904,0,1,Hk Taels,China,Poland
+710,290,1905,0,1,Hk Taels,China,Poland
+710,290,1906,0,1,Hk Taels,China,Poland
+710,290,1907,0,1,Hk Taels,China,Poland
+710,290,1908,0,1,Hk Taels,China,Poland
+710,290,1909,0,1,Hk Taels,China,Poland
+710,290,1910,0,1,Hk Taels,China,Poland
+710,290,1911,0,1,Hk Taels,China,Poland
+710,290,1912,0,1,Hk Taels,China,Poland
+710,290,1913,0,1,Hk Taels,China,Poland
+710,290,1914,0,1,Hk Taels,China,Poland
+710,290,1915,0,1,Hk Taels,China,Poland
+710,290,1916,0,1,Hk Taels,China,Poland
+710,290,1917,0,1,Hk Taels,China,Poland
+710,290,1918,0,1,Hk Taels,China,Poland
+710,290,1919,0,1,Hk Taels,China,Poland
+710,290,1920,0,1,Hk Taels,China,Poland
+710,290,1921,0,1,Hk Taels,China,Poland
+710,290,1922,0,1,Hk Taels,China,Poland
+710,290,1923,0,1,Hk Taels,China,Poland
+710,290,1924,11746,1,Hk Taels,China,Poland
+710,290,1925,37913,1,Hk Taels,China,Poland
+710,290,1926,8209,1,Hk Taels,China,Poland
+710,290,1927,49291,1,Hk Taels,China,Poland
+710,290,1928,2587418,1,Hk Taels,China,Poland
+710,290,1929,437429,1,Hk Taels,China,Poland
+710,290,1930,471852,1,Hk Taels,China,Poland
+710,290,1931,364566,1,Hk Taels,China,Poland
+710,290,1932,305597,1,Hk Taels,China,Poland
+710,290,1933,1009306,1,Standard $,China,Poland
+710,290,1934,2439570,1,Standard $,China,Poland
+710,290,1935,2527223,1,Standard $,China,Poland
+710,290,1936,1695115,1,Standard $,China,Poland
+710,290,1937,1674365,1,Standard $,China,Poland
+710,290,1938,1029677,1,Standard $,China,Poland
+710,290,1939,5817260,1,Standard $,China,Poland
+710,290,1940,1180687,1,Standard $,China,Poland
+710,290,1946,73191,1000,C.N. $,China,Poland
+710,291,1900,0,1,Hk Taels,China,Danzig
+710,291,1901,0,1,Hk Taels,China,Danzig
+710,291,1902,0,1,Hk Taels,China,Danzig
+710,291,1903,0,1,Hk Taels,China,Danzig
+710,291,1904,0,1,Hk Taels,China,Danzig
+710,291,1905,0,1,Hk Taels,China,Danzig
+710,291,1906,0,1,Hk Taels,China,Danzig
+710,291,1907,0,1,Hk Taels,China,Danzig
+710,291,1908,0,1,Hk Taels,China,Danzig
+710,291,1909,0,1,Hk Taels,China,Danzig
+710,291,1910,0,1,Hk Taels,China,Danzig
+710,291,1911,0,1,Hk Taels,China,Danzig
+710,291,1912,0,1,Hk Taels,China,Danzig
+710,291,1913,0,1,Hk Taels,China,Danzig
+710,291,1914,0,1,Hk Taels,China,Danzig
+710,291,1915,0,1,Hk Taels,China,Danzig
+710,291,1916,0,1,Hk Taels,China,Danzig
+710,291,1917,0,1,Hk Taels,China,Danzig
+710,291,1918,0,1,Hk Taels,China,Danzig
+710,291,1919,0,1,Hk Taels,China,Danzig
+710,291,1920,0,1,Hk Taels,China,Danzig
+710,291,1921,0,1,Hk Taels,China,Danzig
+710,291,1922,0,1,Hk Taels,China,Danzig
+710,291,1923,0,1,Hk Taels,China,Danzig
+710,291,1924,0,1,Hk Taels,China,Danzig
+710,291,1925,0,1,Hk Taels,China,Danzig
+710,291,1926,0,1,Hk Taels,China,Danzig
+710,291,1927,44411,1,Hk Taels,China,Danzig
+710,291,1928,32,1,Hk Taels,China,Danzig
+710,291,1929,0,1,Hk Taels,China,Danzig
+710,291,1930,0,1,Hk Taels,China,Danzig
+710,291,1931,0,1,Hk Taels,China,Danzig
+710,291,1932,14717,1,Hk Taels,China,Danzig
+710,291,1933,0,1,Standard $,China,Danzig
+710,291,1934,107,1,Standard $,China,Danzig
+710,291,1935,70,1,Standard $,China,Danzig
+710,291,1936,623,1,Standard $,China,Danzig
+710,291,1937,0,1,Standard $,China,Danzig
+710,291,1938,0,1,Standard $,China,Danzig
+710,291,1939,52369,1,Standard $,China,Danzig
+710,291,1940,0,1,Standard $,China,Danzig
+710,291,1946,0,1000,C.N. $,China,Danzig
+710,300,1900,0,1,Hk Taels,China,Austria-Hungary
+710,300,1901,0,1,Hk Taels,China,Austria-Hungary
+710,300,1902,0,1,Hk Taels,China,Austria-Hungary
+710,300,1903,0,1,Hk Taels,China,Austria-Hungary
+710,300,1904,0,1,Hk Taels,China,Austria-Hungary
+710,300,1905,1340511,1,Hk Taels,China,Austria-Hungary
+710,300,1906,2978582,1,Hk Taels,China,Austria-Hungary
+710,300,1907,1525966,1,Hk Taels,China,Austria-Hungary
+710,300,1908,1136828,1,Hk Taels,China,Austria-Hungary
+710,300,1909,1013364,1,Hk Taels,China,Austria-Hungary
+710,300,1910,1775739,1,Hk Taels,China,Austria-Hungary
+710,300,1911,1353290,1,Hk Taels,China,Austria-Hungary
+710,300,1912,2275380,1,Hk Taels,China,Austria-Hungary
+710,300,1913,4121913,1,Hk Taels,China,Austria-Hungary
+710,300,1914,2293443,1,Hk Taels,China,Austria-Hungary
+710,300,1915,73416,1,Hk Taels,China,Austria-Hungary
+710,300,1916,23747,1,Hk Taels,China,Austria-Hungary
+710,300,1917,1035,1,Hk Taels,China,Austria-Hungary
+710,300,1918,0,1,Hk Taels,China,Austria-Hungary
+710,300,1919,0,1,Hk Taels,China,Austria-Hungary
+710,300,1920,281937,1,Hk Taels,China,Austria-Hungary
+710,300,1921,34720,1,Hk Taels,China,Austria-Hungary
+710,300,1922,71954,1,Hk Taels,China,Austria-Hungary
+710,300,1923,99486,1,Hk Taels,China,Austria-Hungary
+710,300,1924,364845,1,Hk Taels,China,Austria-Hungary
+710,300,1925,85524,1,Hk Taels,China,Austria-Hungary
+710,300,1926,41351,1,Hk Taels,China,Austria-Hungary
+710,300,1927,0,1,Hk Taels,China,Austria-Hungary
+710,300,1928,0,1,Hk Taels,China,Austria-Hungary
+710,300,1929,0,1,Hk Taels,China,Austria-Hungary
+710,300,1930,0,1,Hk Taels,China,Austria-Hungary
+710,300,1931,0,1,Hk Taels,China,Austria-Hungary
+710,300,1932,0,1,Hk Taels,China,Austria-Hungary
+710,300,1933,0,1,Standard $,China,Austria-Hungary
+710,300,1934,0,1,Standard $,China,Austria-Hungary
+710,300,1935,0,1,Standard $,China,Austria-Hungary
+710,300,1936,0,1,Standard $,China,Austria-Hungary
+710,300,1937,0,1,Standard $,China,Austria-Hungary
+710,300,1938,0,1,Standard $,China,Austria-Hungary
+710,300,1939,0,1,Standard $,China,Austria-Hungary
+710,300,1940,0,1,Standard $,China,Austria-Hungary
+710,300,1946,0,1000,C.N. $,China,Austria-Hungary
+710,305,1900,0,1,Hk Taels,China,Austria
+710,305,1901,0,1,Hk Taels,China,Austria
+710,305,1902,0,1,Hk Taels,China,Austria
+710,305,1903,0,1,Hk Taels,China,Austria
+710,305,1904,0,1,Hk Taels,China,Austria
+710,305,1905,0,1,Hk Taels,China,Austria
+710,305,1906,0,1,Hk Taels,China,Austria
+710,305,1907,0,1,Hk Taels,China,Austria
+710,305,1908,0,1,Hk Taels,China,Austria
+710,305,1909,0,1,Hk Taels,China,Austria
+710,305,1910,0,1,Hk Taels,China,Austria
+710,305,1911,0,1,Hk Taels,China,Austria
+710,305,1912,0,1,Hk Taels,China,Austria
+710,305,1913,0,1,Hk Taels,China,Austria
+710,305,1914,0,1,Hk Taels,China,Austria
+710,305,1915,0,1,Hk Taels,China,Austria
+710,305,1916,0,1,Hk Taels,China,Austria
+710,305,1917,0,1,Hk Taels,China,Austria
+710,305,1918,0,1,Hk Taels,China,Austria
+710,305,1919,0,1,Hk Taels,China,Austria
+710,305,1920,0,1,Hk Taels,China,Austria
+710,305,1921,0,1,Hk Taels,China,Austria
+710,305,1922,0,1,Hk Taels,China,Austria
+710,305,1923,0,1,Hk Taels,China,Austria
+710,305,1924,0,1,Hk Taels,China,Austria
+710,305,1925,0,1,Hk Taels,China,Austria
+710,305,1926,0,1,Hk Taels,China,Austria
+710,305,1927,84152,1,Hk Taels,China,Austria
+710,305,1928,468682,1,Hk Taels,China,Austria
+710,305,1929,1026853,1,Hk Taels,China,Austria
+710,305,1930,1168300,1,Hk Taels,China,Austria
+710,305,1931,2204354,1,Hk Taels,China,Austria
+710,305,1932,2152258,1,Hk Taels,China,Austria
+710,305,1933,3373340,1,Standard $,China,Austria
+710,305,1934,3318282,1,Standard $,China,Austria
+710,305,1935,2733549,1,Standard $,China,Austria
+710,305,1936,3933781,1,Standard $,China,Austria
+710,305,1937,7229712,1,Standard $,China,Austria
+710,305,1938,0,1,Standard $,China,Austria
+710,305,1939,0,1,Standard $,China,Austria
+710,305,1940,0,1,Standard $,China,Austria
+710,305,1946,100,1000,C.N. $,China,Austria
+710,310,1900,0,1,Hk Taels,China,Hungary
+710,310,1901,0,1,Hk Taels,China,Hungary
+710,310,1902,0,1,Hk Taels,China,Hungary
+710,310,1903,0,1,Hk Taels,China,Hungary
+710,310,1904,0,1,Hk Taels,China,Hungary
+710,310,1905,0,1,Hk Taels,China,Hungary
+710,310,1906,0,1,Hk Taels,China,Hungary
+710,310,1907,0,1,Hk Taels,China,Hungary
+710,310,1908,0,1,Hk Taels,China,Hungary
+710,310,1909,0,1,Hk Taels,China,Hungary
+710,310,1910,0,1,Hk Taels,China,Hungary
+710,310,1911,0,1,Hk Taels,China,Hungary
+710,310,1912,0,1,Hk Taels,China,Hungary
+710,310,1913,0,1,Hk Taels,China,Hungary
+710,310,1914,0,1,Hk Taels,China,Hungary
+710,310,1915,0,1,Hk Taels,China,Hungary
+710,310,1916,0,1,Hk Taels,China,Hungary
+710,310,1917,0,1,Hk Taels,China,Hungary
+710,310,1918,0,1,Hk Taels,China,Hungary
+710,310,1919,0,1,Hk Taels,China,Hungary
+710,310,1920,0,1,Hk Taels,China,Hungary
+710,310,1921,0,1,Hk Taels,China,Hungary
+710,310,1922,0,1,Hk Taels,China,Hungary
+710,310,1923,0,1,Hk Taels,China,Hungary
+710,310,1924,0,1,Hk Taels,China,Hungary
+710,310,1925,0,1,Hk Taels,China,Hungary
+710,310,1926,0,1,Hk Taels,China,Hungary
+710,310,1927,33,1,Hk Taels,China,Hungary
+710,310,1928,0,1,Hk Taels,China,Hungary
+710,310,1929,7612,1,Hk Taels,China,Hungary
+710,310,1930,14936,1,Hk Taels,China,Hungary
+710,310,1931,18310,1,Hk Taels,China,Hungary
+710,310,1932,52277,1,Hk Taels,China,Hungary
+710,310,1933,130127,1,Standard $,China,Hungary
+710,310,1934,859990,1,Standard $,China,Hungary
+710,310,1935,483057,1,Standard $,China,Hungary
+710,310,1936,560746,1,Standard $,China,Hungary
+710,310,1937,807319,1,Standard $,China,Hungary
+710,310,1938,716775,1,Standard $,China,Hungary
+710,310,1939,600344,1,Standard $,China,Hungary
+710,310,1940,215443,1,Standard $,China,Hungary
+710,310,1946,0,1000,C.N. $,China,Hungary
+710,315,1900,0,1,Hk Taels,China,Czechoslovakia
+710,315,1901,0,1,Hk Taels,China,Czechoslovakia
+710,315,1902,0,1,Hk Taels,China,Czechoslovakia
+710,315,1903,0,1,Hk Taels,China,Czechoslovakia
+710,315,1904,0,1,Hk Taels,China,Czechoslovakia
+710,315,1905,0,1,Hk Taels,China,Czechoslovakia
+710,315,1906,0,1,Hk Taels,China,Czechoslovakia
+710,315,1907,0,1,Hk Taels,China,Czechoslovakia
+710,315,1908,0,1,Hk Taels,China,Czechoslovakia
+710,315,1909,0,1,Hk Taels,China,Czechoslovakia
+710,315,1910,0,1,Hk Taels,China,Czechoslovakia
+710,315,1911,0,1,Hk Taels,China,Czechoslovakia
+710,315,1912,0,1,Hk Taels,China,Czechoslovakia
+710,315,1913,0,1,Hk Taels,China,Czechoslovakia
+710,315,1914,0,1,Hk Taels,China,Czechoslovakia
+710,315,1915,0,1,Hk Taels,China,Czechoslovakia
+710,315,1916,0,1,Hk Taels,China,Czechoslovakia
+710,315,1917,0,1,Hk Taels,China,Czechoslovakia
+710,315,1918,0,1,Hk Taels,China,Czechoslovakia
+710,315,1919,0,1,Hk Taels,China,Czechoslovakia
+710,315,1920,0,1,Hk Taels,China,Czechoslovakia
+710,315,1921,0,1,Hk Taels,China,Czechoslovakia
+710,315,1922,0,1,Hk Taels,China,Czechoslovakia
+710,315,1923,0,1,Hk Taels,China,Czechoslovakia
+710,315,1924,0,1,Hk Taels,China,Czechoslovakia
+710,315,1925,2037,1,Hk Taels,China,Czechoslovakia
+710,315,1926,0,1,Hk Taels,China,Czechoslovakia
+710,315,1927,5426,1,Hk Taels,China,Czechoslovakia
+710,315,1928,202086,1,Hk Taels,China,Czechoslovakia
+710,315,1929,488818,1,Hk Taels,China,Czechoslovakia
+710,315,1930,116114,1,Hk Taels,China,Czechoslovakia
+710,315,1931,2597696,1,Hk Taels,China,Czechoslovakia
+710,315,1932,1012938,1,Hk Taels,China,Czechoslovakia
+710,315,1933,1560049,1,Standard $,China,Czechoslovakia
+710,315,1934,4322880,1,Standard $,China,Czechoslovakia
+710,315,1935,6927551,1,Standard $,China,Czechoslovakia
+710,315,1936,7906692,1,Standard $,China,Czechoslovakia
+710,315,1937,9632635,1,Standard $,China,Czechoslovakia
+710,315,1938,6967945,1,Standard $,China,Czechoslovakia
+710,315,1939,1607421,1,Standard $,China,Czechoslovakia
+710,315,1940,362599,1,Standard $,China,Czechoslovakia
+710,315,1946,754255,1000,C.N. $,China,Czechoslovakia
+710,325,1900,0,1,Hk Taels,China,Italy
+710,325,1901,0,1,Hk Taels,China,Italy
+710,325,1902,0,1,Hk Taels,China,Italy
+710,325,1903,0,1,Hk Taels,China,Italy
+710,325,1904,0,1,Hk Taels,China,Italy
+710,325,1905,424794,1,Hk Taels,China,Italy
+710,325,1906,406742,1,Hk Taels,China,Italy
+710,325,1907,608813,1,Hk Taels,China,Italy
+710,325,1908,508524,1,Hk Taels,China,Italy
+710,325,1909,465882,1,Hk Taels,China,Italy
+710,325,1910,507627,1,Hk Taels,China,Italy
+710,325,1911,675115,1,Hk Taels,China,Italy
+710,325,1912,485547,1,Hk Taels,China,Italy
+710,325,1913,663651,1,Hk Taels,China,Italy
+710,325,1914,777896,1,Hk Taels,China,Italy
+710,325,1915,414182,1,Hk Taels,China,Italy
+710,325,1916,359936,1,Hk Taels,China,Italy
+710,325,1917,467999,1,Hk Taels,China,Italy
+710,325,1918,356674,1,Hk Taels,China,Italy
+710,325,1919,991556,1,Hk Taels,China,Italy
+710,325,1920,341934,1,Hk Taels,China,Italy
+710,325,1921,1264733,1,Hk Taels,China,Italy
+710,325,1922,2318579,1,Hk Taels,China,Italy
+710,325,1923,3735472,1,Hk Taels,China,Italy
+710,325,1924,6272861,1,Hk Taels,China,Italy
+710,325,1925,6075798,1,Hk Taels,China,Italy
+710,325,1926,9150448,1,Hk Taels,China,Italy
+710,325,1927,11723651,1,Hk Taels,China,Italy
+710,325,1928,16112968,1,Hk Taels,China,Italy
+710,325,1929,19978939,1,Hk Taels,China,Italy
+710,325,1930,14699487,1,Hk Taels,China,Italy
+710,325,1931,19484255,1,Hk Taels,China,Italy
+710,325,1932,13868446,1,Hk Taels,China,Italy
+710,325,1933,16728931,1,Standard $,China,Italy
+710,325,1934,12462326,1,Standard $,China,Italy
+710,325,1935,12906738,1,Standard $,China,Italy
+710,325,1936,12225340,1,Standard $,China,Italy
+710,325,1937,9905629,1,Standard $,China,Italy
+710,325,1938,17464882,1,Standard $,China,Italy
+710,325,1939,11107674,1,Standard $,China,Italy
+710,325,1940,6766328,1,Standard $,China,Italy
+710,325,1946,5757709,1000,C.N. $,China,Italy
+710,338,1900,0,1,Hk Taels,China,Malta
+710,338,1901,0,1,Hk Taels,China,Malta
+710,338,1902,0,1,Hk Taels,China,Malta
+710,338,1903,0,1,Hk Taels,China,Malta
+710,338,1904,0,1,Hk Taels,China,Malta
+710,338,1905,0,1,Hk Taels,China,Malta
+710,338,1906,0,1,Hk Taels,China,Malta
+710,338,1907,0,1,Hk Taels,China,Malta
+710,338,1908,0,1,Hk Taels,China,Malta
+710,338,1909,0,1,Hk Taels,China,Malta
+710,338,1910,0,1,Hk Taels,China,Malta
+710,338,1911,0,1,Hk Taels,China,Malta
+710,338,1912,0,1,Hk Taels,China,Malta
+710,338,1913,0,1,Hk Taels,China,Malta
+710,338,1914,0,1,Hk Taels,China,Malta
+710,338,1915,0,1,Hk Taels,China,Malta
+710,338,1916,0,1,Hk Taels,China,Malta
+710,338,1917,0,1,Hk Taels,China,Malta
+710,338,1918,0,1,Hk Taels,China,Malta
+710,338,1919,0,1,Hk Taels,China,Malta
+710,338,1920,0,1,Hk Taels,China,Malta
+710,338,1921,0,1,Hk Taels,China,Malta
+710,338,1922,0,1,Hk Taels,China,Malta
+710,338,1923,0,1,Hk Taels,China,Malta
+710,338,1924,0,1,Hk Taels,China,Malta
+710,338,1925,0,1,Hk Taels,China,Malta
+710,338,1926,0,1,Hk Taels,China,Malta
+710,338,1927,0,1,Hk Taels,China,Malta
+710,338,1928,0,1,Hk Taels,China,Malta
+710,338,1929,0,1,Hk Taels,China,Malta
+710,338,1930,0,1,Hk Taels,China,Malta
+710,338,1931,0,1,Hk Taels,China,Malta
+710,338,1932,761,1,Hk Taels,China,Malta
+710,338,1933,19,1,Standard $,China,Malta
+710,338,1934,16,1,Standard $,China,Malta
+710,338,1935,4,1,Standard $,China,Malta
+710,338,1936,112,1,Standard $,China,Malta
+710,338,1937,0,1,Standard $,China,Malta
+710,338,1938,0,1,Standard $,China,Malta
+710,338,1939,0,1,Standard $,China,Malta
+710,338,1940,0,1,Standard $,China,Malta
+710,338,1946,39179,1000,C.N. $,China,Malta
+710,345,1900,0,1,Hk Taels,China,Yugoslavia
+710,345,1901,0,1,Hk Taels,China,Yugoslavia
+710,345,1902,0,1,Hk Taels,China,Yugoslavia
+710,345,1903,0,1,Hk Taels,China,Yugoslavia
+710,345,1904,0,1,Hk Taels,China,Yugoslavia
+710,345,1905,0,1,Hk Taels,China,Yugoslavia
+710,345,1906,0,1,Hk Taels,China,Yugoslavia
+710,345,1907,0,1,Hk Taels,China,Yugoslavia
+710,345,1908,0,1,Hk Taels,China,Yugoslavia
+710,345,1909,0,1,Hk Taels,China,Yugoslavia
+710,345,1910,0,1,Hk Taels,China,Yugoslavia
+710,345,1911,0,1,Hk Taels,China,Yugoslavia
+710,345,1912,0,1,Hk Taels,China,Yugoslavia
+710,345,1913,0,1,Hk Taels,China,Yugoslavia
+710,345,1914,0,1,Hk Taels,China,Yugoslavia
+710,345,1915,0,1,Hk Taels,China,Yugoslavia
+710,345,1916,0,1,Hk Taels,China,Yugoslavia
+710,345,1917,0,1,Hk Taels,China,Yugoslavia
+710,345,1918,0,1,Hk Taels,China,Yugoslavia
+710,345,1919,0,1,Hk Taels,China,Yugoslavia
+710,345,1920,0,1,Hk Taels,China,Yugoslavia
+710,345,1921,0,1,Hk Taels,China,Yugoslavia
+710,345,1922,0,1,Hk Taels,China,Yugoslavia
+710,345,1923,0,1,Hk Taels,China,Yugoslavia
+710,345,1924,0,1,Hk Taels,China,Yugoslavia
+710,345,1925,0,1,Hk Taels,China,Yugoslavia
+710,345,1926,0,1,Hk Taels,China,Yugoslavia
+710,345,1927,0,1,Hk Taels,China,Yugoslavia
+710,345,1928,0,1,Hk Taels,China,Yugoslavia
+710,345,1929,0,1,Hk Taels,China,Yugoslavia
+710,345,1930,0,1,Hk Taels,China,Yugoslavia
+710,345,1931,0,1,Hk Taels,China,Yugoslavia
+710,345,1932,3498,1,Hk Taels,China,Yugoslavia
+710,345,1933,623,1,Standard $,China,Yugoslavia
+710,345,1934,0,1,Standard $,China,Yugoslavia
+710,345,1935,22061,1,Standard $,China,Yugoslavia
+710,345,1936,25068,1,Standard $,China,Yugoslavia
+710,345,1937,49303,1,Standard $,China,Yugoslavia
+710,345,1938,29337,1,Standard $,China,Yugoslavia
+710,345,1939,50770,1,Standard $,China,Yugoslavia
+710,345,1940,182023,1,Standard $,China,Yugoslavia
+710,345,1946,0,1000,C.N. $,China,Yugoslavia
+710,350,1900,0,1,Hk Taels,China,Greece
+710,350,1901,0,1,Hk Taels,China,Greece
+710,350,1902,0,1,Hk Taels,China,Greece
+710,350,1903,0,1,Hk Taels,China,Greece
+710,350,1904,0,1,Hk Taels,China,Greece
+710,350,1905,0,1,Hk Taels,China,Greece
+710,350,1906,0,1,Hk Taels,China,Greece
+710,350,1907,0,1,Hk Taels,China,Greece
+710,350,1908,0,1,Hk Taels,China,Greece
+710,350,1909,0,1,Hk Taels,China,Greece
+710,350,1910,0,1,Hk Taels,China,Greece
+710,350,1911,0,1,Hk Taels,China,Greece
+710,350,1912,0,1,Hk Taels,China,Greece
+710,350,1913,0,1,Hk Taels,China,Greece
+710,350,1914,0,1,Hk Taels,China,Greece
+710,350,1915,0,1,Hk Taels,China,Greece
+710,350,1916,0,1,Hk Taels,China,Greece
+710,350,1917,0,1,Hk Taels,China,Greece
+710,350,1918,0,1,Hk Taels,China,Greece
+710,350,1919,0,1,Hk Taels,China,Greece
+710,350,1920,0,1,Hk Taels,China,Greece
+710,350,1921,0,1,Hk Taels,China,Greece
+710,350,1922,0,1,Hk Taels,China,Greece
+710,350,1923,0,1,Hk Taels,China,Greece
+710,350,1924,0,1,Hk Taels,China,Greece
+710,350,1925,0,1,Hk Taels,China,Greece
+710,350,1926,31400,1,Hk Taels,China,Greece
+710,350,1927,87,1,Hk Taels,China,Greece
+710,350,1928,0,1,Hk Taels,China,Greece
+710,350,1929,865,1,Hk Taels,China,Greece
+710,350,1930,4377,1,Hk Taels,China,Greece
+710,350,1931,19858,1,Hk Taels,China,Greece
+710,350,1932,20350,1,Hk Taels,China,Greece
+710,350,1933,38709,1,Standard $,China,Greece
+710,350,1934,23456,1,Standard $,China,Greece
+710,350,1935,19983,1,Standard $,China,Greece
+710,350,1936,28109,1,Standard $,China,Greece
+710,350,1937,36432,1,Standard $,China,Greece
+710,350,1938,49472,1,Standard $,China,Greece
+710,350,1939,60756,1,Standard $,China,Greece
+710,350,1940,116867,1,Standard $,China,Greece
+710,350,1946,0,1000,C.N. $,China,Greece
+710,355,1900,0,1,Hk Taels,China,Bulgaria
+710,355,1901,0,1,Hk Taels,China,Bulgaria
+710,355,1902,0,1,Hk Taels,China,Bulgaria
+710,355,1903,0,1,Hk Taels,China,Bulgaria
+710,355,1904,0,1,Hk Taels,China,Bulgaria
+710,355,1905,0,1,Hk Taels,China,Bulgaria
+710,355,1906,0,1,Hk Taels,China,Bulgaria
+710,355,1907,0,1,Hk Taels,China,Bulgaria
+710,355,1908,0,1,Hk Taels,China,Bulgaria
+710,355,1909,0,1,Hk Taels,China,Bulgaria
+710,355,1910,0,1,Hk Taels,China,Bulgaria
+710,355,1911,0,1,Hk Taels,China,Bulgaria
+710,355,1912,0,1,Hk Taels,China,Bulgaria
+710,355,1913,0,1,Hk Taels,China,Bulgaria
+710,355,1914,0,1,Hk Taels,China,Bulgaria
+710,355,1915,0,1,Hk Taels,China,Bulgaria
+710,355,1916,0,1,Hk Taels,China,Bulgaria
+710,355,1917,0,1,Hk Taels,China,Bulgaria
+710,355,1918,0,1,Hk Taels,China,Bulgaria
+710,355,1919,0,1,Hk Taels,China,Bulgaria
+710,355,1920,0,1,Hk Taels,China,Bulgaria
+710,355,1921,0,1,Hk Taels,China,Bulgaria
+710,355,1922,0,1,Hk Taels,China,Bulgaria
+710,355,1923,0,1,Hk Taels,China,Bulgaria
+710,355,1924,0,1,Hk Taels,China,Bulgaria
+710,355,1925,0,1,Hk Taels,China,Bulgaria
+710,355,1926,0,1,Hk Taels,China,Bulgaria
+710,355,1927,0,1,Hk Taels,China,Bulgaria
+710,355,1928,0,1,Hk Taels,China,Bulgaria
+710,355,1929,0,1,Hk Taels,China,Bulgaria
+710,355,1930,0,1,Hk Taels,China,Bulgaria
+710,355,1931,0,1,Hk Taels,China,Bulgaria
+710,355,1932,0,1,Hk Taels,China,Bulgaria
+710,355,1933,2028,1,Standard $,China,Bulgaria
+710,355,1934,15,1,Standard $,China,Bulgaria
+710,355,1935,5057,1,Standard $,China,Bulgaria
+710,355,1936,0,1,Standard $,China,Bulgaria
+710,355,1937,8288,1,Standard $,China,Bulgaria
+710,355,1938,1163,1,Standard $,China,Bulgaria
+710,355,1939,2017,1,Standard $,China,Bulgaria
+710,355,1940,0,1,Standard $,China,Bulgaria
+710,355,1946,0,1000,C.N. $,China,Bulgaria
+710,360,1900,0,1,Hk Taels,China,Romania
+710,360,1901,0,1,Hk Taels,China,Romania
+710,360,1902,0,1,Hk Taels,China,Romania
+710,360,1903,0,1,Hk Taels,China,Romania
+710,360,1904,0,1,Hk Taels,China,Romania
+710,360,1905,0,1,Hk Taels,China,Romania
+710,360,1906,0,1,Hk Taels,China,Romania
+710,360,1907,0,1,Hk Taels,China,Romania
+710,360,1908,0,1,Hk Taels,China,Romania
+710,360,1909,0,1,Hk Taels,China,Romania
+710,360,1910,0,1,Hk Taels,China,Romania
+710,360,1911,0,1,Hk Taels,China,Romania
+710,360,1912,0,1,Hk Taels,China,Romania
+710,360,1913,0,1,Hk Taels,China,Romania
+710,360,1914,0,1,Hk Taels,China,Romania
+710,360,1915,0,1,Hk Taels,China,Romania
+710,360,1916,0,1,Hk Taels,China,Romania
+710,360,1917,0,1,Hk Taels,China,Romania
+710,360,1918,0,1,Hk Taels,China,Romania
+710,360,1919,0,1,Hk Taels,China,Romania
+710,360,1920,0,1,Hk Taels,China,Romania
+710,360,1921,0,1,Hk Taels,China,Romania
+710,360,1922,0,1,Hk Taels,China,Romania
+710,360,1923,0,1,Hk Taels,China,Romania
+710,360,1924,0,1,Hk Taels,China,Romania
+710,360,1925,0,1,Hk Taels,China,Romania
+710,360,1926,0,1,Hk Taels,China,Romania
+710,360,1927,0,1,Hk Taels,China,Romania
+710,360,1928,0,1,Hk Taels,China,Romania
+710,360,1929,0,1,Hk Taels,China,Romania
+710,360,1930,0,1,Hk Taels,China,Romania
+710,360,1931,1968,1,Hk Taels,China,Romania
+710,360,1932,0,1,Hk Taels,China,Romania
+710,360,1933,0,1,Standard $,China,Romania
+710,360,1934,5742,1,Standard $,China,Romania
+710,360,1935,653,1,Standard $,China,Romania
+710,360,1936,73,1,Standard $,China,Romania
+710,360,1937,1662,1,Standard $,China,Romania
+710,360,1938,0,1,Standard $,China,Romania
+710,360,1939,26944,1,Standard $,China,Romania
+710,360,1940,0,1,Standard $,China,Romania
+710,360,1946,0,1000,C.N. $,China,Romania
+710,365,1900,4373463,1,Hk Taels,China,Russia
+710,365,1901,3360179,1,Hk Taels,China,Russia
+710,365,1902,1234534,1,Hk Taels,China,Russia
+710,365,1903,2355000,1,Hk Taels,China,Russia
+710,365,1904,4467476,1,Hk Taels,China,Russia
+710,365,1905,2017012,1,Hk Taels,China,Russia
+710,365,1906,554289,1,Hk Taels,China,Russia
+710,365,1907,913351,1,Hk Taels,China,Russia
+710,365,1908,8652505,1,Hk Taels,China,Russia
+710,365,1909,15415020,1,Hk Taels,China,Russia
+710,365,1910,16046743,1,Hk Taels,China,Russia
+710,365,1911,17265671,1,Hk Taels,China,Russia
+710,365,1912,21232169,1,Hk Taels,China,Russia
+710,365,1913,22152888,1,Hk Taels,China,Russia
+710,365,1914,22275398,1,Hk Taels,China,Russia
+710,365,1915,17027203,1,Hk Taels,China,Russia
+710,365,1916,25694608,1,Hk Taels,China,Russia
+710,365,1917,11217735,1,Hk Taels,China,Russia
+710,365,1918,6388678,1,Hk Taels,China,Russia
+710,365,1919,14061334,1,Hk Taels,China,Russia
+710,365,1920,9625331,1,Hk Taels,China,Russia
+710,365,1921,8759710,1,Hk Taels,China,Russia
+710,365,1922,14276281,1,Hk Taels,China,Russia
+710,365,1923,10202819,1,Hk Taels,China,Russia
+710,365,1924,10098538,1,Hk Taels,China,Russia
+710,365,1925,13465062,1,Hk Taels,China,Russia
+710,365,1926,22712057,1,Hk Taels,China,Russia
+710,365,1927,22607341,1,Hk Taels,China,Russia
+710,365,1928,28562916,1,Hk Taels,China,Russia
+710,365,1929,19377351,1,Hk Taels,China,Russia
+710,365,1930,19020419,1,Hk Taels,China,Russia
+710,365,1931,24999234,1,Hk Taels,China,Russia
+710,365,1932,17333713,1,Hk Taels,China,Russia
+710,365,1933,21960755,1,Standard $,China,Russia
+710,365,1934,8541979,1,Standard $,China,Russia
+710,365,1935,7700514,1,Standard $,China,Russia
+710,365,1936,1243785,1,Standard $,China,Russia
+710,365,1937,703568,1,Standard $,China,Russia
+710,365,1938,5486285,1,Standard $,China,Russia
+710,365,1939,64332,1,Standard $,China,Russia
+710,365,1940,276670,1,Standard $,China,Russia
+710,365,1946,9755802,1000,C.N. $,China,Russia
+710,366,1900,0,1,Hk Taels,China,Estonia
+710,366,1901,0,1,Hk Taels,China,Estonia
+710,366,1902,0,1,Hk Taels,China,Estonia
+710,366,1903,0,1,Hk Taels,China,Estonia
+710,366,1904,0,1,Hk Taels,China,Estonia
+710,366,1905,0,1,Hk Taels,China,Estonia
+710,366,1906,0,1,Hk Taels,China,Estonia
+710,366,1907,0,1,Hk Taels,China,Estonia
+710,366,1908,0,1,Hk Taels,China,Estonia
+710,366,1909,0,1,Hk Taels,China,Estonia
+710,366,1910,0,1,Hk Taels,China,Estonia
+710,366,1911,0,1,Hk Taels,China,Estonia
+710,366,1912,0,1,Hk Taels,China,Estonia
+710,366,1913,0,1,Hk Taels,China,Estonia
+710,366,1914,0,1,Hk Taels,China,Estonia
+710,366,1915,0,1,Hk Taels,China,Estonia
+710,366,1916,0,1,Hk Taels,China,Estonia
+710,366,1917,0,1,Hk Taels,China,Estonia
+710,366,1918,0,1,Hk Taels,China,Estonia
+710,366,1919,0,1,Hk Taels,China,Estonia
+710,366,1920,0,1,Hk Taels,China,Estonia
+710,366,1921,0,1,Hk Taels,China,Estonia
+710,366,1922,0,1,Hk Taels,China,Estonia
+710,366,1923,0,1,Hk Taels,China,Estonia
+710,366,1924,0,1,Hk Taels,China,Estonia
+710,366,1925,0,1,Hk Taels,China,Estonia
+710,366,1926,0,1,Hk Taels,China,Estonia
+710,366,1927,0,1,Hk Taels,China,Estonia
+710,366,1928,0,1,Hk Taels,China,Estonia
+710,366,1929,0,1,Hk Taels,China,Estonia
+710,366,1930,0,1,Hk Taels,China,Estonia
+710,366,1931,0,1,Hk Taels,China,Estonia
+710,366,1932,53445,1,Hk Taels,China,Estonia
+710,366,1933,55524,1,Standard $,China,Estonia
+710,366,1934,179591,1,Standard $,China,Estonia
+710,366,1935,146576,1,Standard $,China,Estonia
+710,366,1936,227554,1,Standard $,China,Estonia
+710,366,1937,37395,1,Standard $,China,Estonia
+710,366,1938,51155,1,Standard $,China,Estonia
+710,366,1939,61299,1,Standard $,China,Estonia
+710,366,1940,2420,1,Standard $,China,Estonia
+710,366,1946,0,1000,C.N. $,China,Estonia
+710,367,1900,0,1,Hk Taels,China,Latvia
+710,367,1901,0,1,Hk Taels,China,Latvia
+710,367,1902,0,1,Hk Taels,China,Latvia
+710,367,1903,0,1,Hk Taels,China,Latvia
+710,367,1904,0,1,Hk Taels,China,Latvia
+710,367,1905,0,1,Hk Taels,China,Latvia
+710,367,1906,0,1,Hk Taels,China,Latvia
+710,367,1907,0,1,Hk Taels,China,Latvia
+710,367,1908,0,1,Hk Taels,China,Latvia
+710,367,1909,0,1,Hk Taels,China,Latvia
+710,367,1910,0,1,Hk Taels,China,Latvia
+710,367,1911,0,1,Hk Taels,China,Latvia
+710,367,1912,0,1,Hk Taels,China,Latvia
+710,367,1913,0,1,Hk Taels,China,Latvia
+710,367,1914,0,1,Hk Taels,China,Latvia
+710,367,1915,0,1,Hk Taels,China,Latvia
+710,367,1916,0,1,Hk Taels,China,Latvia
+710,367,1917,0,1,Hk Taels,China,Latvia
+710,367,1918,0,1,Hk Taels,China,Latvia
+710,367,1919,0,1,Hk Taels,China,Latvia
+710,367,1920,0,1,Hk Taels,China,Latvia
+710,367,1921,0,1,Hk Taels,China,Latvia
+710,367,1922,0,1,Hk Taels,China,Latvia
+710,367,1923,0,1,Hk Taels,China,Latvia
+710,367,1924,0,1,Hk Taels,China,Latvia
+710,367,1925,0,1,Hk Taels,China,Latvia
+710,367,1926,0,1,Hk Taels,China,Latvia
+710,367,1927,0,1,Hk Taels,China,Latvia
+710,367,1928,0,1,Hk Taels,China,Latvia
+710,367,1929,0,1,Hk Taels,China,Latvia
+710,367,1930,0,1,Hk Taels,China,Latvia
+710,367,1931,0,1,Hk Taels,China,Latvia
+710,367,1932,11202,1,Hk Taels,China,Latvia
+710,367,1933,28259,1,Standard $,China,Latvia
+710,367,1934,64766,1,Standard $,China,Latvia
+710,367,1935,76753,1,Standard $,China,Latvia
+710,367,1936,80209,1,Standard $,China,Latvia
+710,367,1937,241907,1,Standard $,China,Latvia
+710,367,1938,56506,1,Standard $,China,Latvia
+710,367,1939,27971,1,Standard $,China,Latvia
+710,367,1940,837,1,Standard $,China,Latvia
+710,367,1946,0,1000,C.N. $,China,Latvia
+710,368,1900,0,1,Hk Taels,China,Lithuania
+710,368,1901,0,1,Hk Taels,China,Lithuania
+710,368,1902,0,1,Hk Taels,China,Lithuania
+710,368,1903,0,1,Hk Taels,China,Lithuania
+710,368,1904,0,1,Hk Taels,China,Lithuania
+710,368,1905,0,1,Hk Taels,China,Lithuania
+710,368,1906,0,1,Hk Taels,China,Lithuania
+710,368,1907,0,1,Hk Taels,China,Lithuania
+710,368,1908,0,1,Hk Taels,China,Lithuania
+710,368,1909,0,1,Hk Taels,China,Lithuania
+710,368,1910,0,1,Hk Taels,China,Lithuania
+710,368,1911,0,1,Hk Taels,China,Lithuania
+710,368,1912,0,1,Hk Taels,China,Lithuania
+710,368,1913,0,1,Hk Taels,China,Lithuania
+710,368,1914,0,1,Hk Taels,China,Lithuania
+710,368,1915,0,1,Hk Taels,China,Lithuania
+710,368,1916,0,1,Hk Taels,China,Lithuania
+710,368,1917,0,1,Hk Taels,China,Lithuania
+710,368,1918,0,1,Hk Taels,China,Lithuania
+710,368,1919,0,1,Hk Taels,China,Lithuania
+710,368,1920,0,1,Hk Taels,China,Lithuania
+710,368,1921,0,1,Hk Taels,China,Lithuania
+710,368,1922,0,1,Hk Taels,China,Lithuania
+710,368,1923,0,1,Hk Taels,China,Lithuania
+710,368,1924,0,1,Hk Taels,China,Lithuania
+710,368,1925,0,1,Hk Taels,China,Lithuania
+710,368,1926,0,1,Hk Taels,China,Lithuania
+710,368,1927,0,1,Hk Taels,China,Lithuania
+710,368,1928,0,1,Hk Taels,China,Lithuania
+710,368,1929,0,1,Hk Taels,China,Lithuania
+710,368,1930,0,1,Hk Taels,China,Lithuania
+710,368,1931,0,1,Hk Taels,China,Lithuania
+710,368,1932,63,1,Hk Taels,China,Lithuania
+710,368,1933,0,1,Standard $,China,Lithuania
+710,368,1934,552,1,Standard $,China,Lithuania
+710,368,1935,118,1,Standard $,China,Lithuania
+710,368,1936,0,1,Standard $,China,Lithuania
+710,368,1937,0,1,Standard $,China,Lithuania
+710,368,1938,0,1,Standard $,China,Lithuania
+710,368,1939,0,1,Standard $,China,Lithuania
+710,368,1940,0,1,Standard $,China,Lithuania
+710,368,1946,0,1000,C.N. $,China,Lithuania
+710,375,1900,0,1,Hk Taels,China,Finland
+710,375,1901,0,1,Hk Taels,China,Finland
+710,375,1902,0,1,Hk Taels,China,Finland
+710,375,1903,0,1,Hk Taels,China,Finland
+710,375,1904,0,1,Hk Taels,China,Finland
+710,375,1905,0,1,Hk Taels,China,Finland
+710,375,1906,0,1,Hk Taels,China,Finland
+710,375,1907,0,1,Hk Taels,China,Finland
+710,375,1908,0,1,Hk Taels,China,Finland
+710,375,1909,0,1,Hk Taels,China,Finland
+710,375,1910,0,1,Hk Taels,China,Finland
+710,375,1911,0,1,Hk Taels,China,Finland
+710,375,1912,0,1,Hk Taels,China,Finland
+710,375,1913,0,1,Hk Taels,China,Finland
+710,375,1914,0,1,Hk Taels,China,Finland
+710,375,1915,0,1,Hk Taels,China,Finland
+710,375,1916,0,1,Hk Taels,China,Finland
+710,375,1917,0,1,Hk Taels,China,Finland
+710,375,1918,0,1,Hk Taels,China,Finland
+710,375,1919,0,1,Hk Taels,China,Finland
+710,375,1920,0,1,Hk Taels,China,Finland
+710,375,1921,0,1,Hk Taels,China,Finland
+710,375,1922,0,1,Hk Taels,China,Finland
+710,375,1923,0,1,Hk Taels,China,Finland
+710,375,1924,111598,1,Hk Taels,China,Finland
+710,375,1925,35836,1,Hk Taels,China,Finland
+710,375,1926,46246,1,Hk Taels,China,Finland
+710,375,1927,68461,1,Hk Taels,China,Finland
+710,375,1928,221498,1,Hk Taels,China,Finland
+710,375,1929,384364,1,Hk Taels,China,Finland
+710,375,1930,549134,1,Hk Taels,China,Finland
+710,375,1931,1018020,1,Hk Taels,China,Finland
+710,375,1932,1214298,1,Hk Taels,China,Finland
+710,375,1933,2436179,1,Standard $,China,Finland
+710,375,1934,2255348,1,Standard $,China,Finland
+710,375,1935,1426729,1,Standard $,China,Finland
+710,375,1936,1221688,1,Standard $,China,Finland
+710,375,1937,2298705,1,Standard $,China,Finland
+710,375,1938,1038455,1,Standard $,China,Finland
+710,375,1939,2058697,1,Standard $,China,Finland
+710,375,1940,1148834,1,Standard $,China,Finland
+710,375,1946,5372335,1000,C.N. $,China,Finland
+710,380,1900,0,1,Hk Taels,China,Sweden
+710,380,1901,0,1,Hk Taels,China,Sweden
+710,380,1902,0,1,Hk Taels,China,Sweden
+710,380,1903,0,1,Hk Taels,China,Sweden
+710,380,1904,0,1,Hk Taels,China,Sweden
+710,380,1905,2058,1,Hk Taels,China,Sweden
+710,380,1906,13876,1,Hk Taels,China,Sweden
+710,380,1907,92206,1,Hk Taels,China,Sweden
+710,380,1908,110531,1,Hk Taels,China,Sweden
+710,380,1909,177588,1,Hk Taels,China,Sweden
+710,380,1910,312535,1,Hk Taels,China,Sweden
+710,380,1911,846212,1,Hk Taels,China,Sweden
+710,380,1912,708560,1,Hk Taels,China,Sweden
+710,380,1913,1540989,1,Hk Taels,China,Sweden
+710,380,1914,1187056,1,Hk Taels,China,Sweden
+710,380,1915,926565,1,Hk Taels,China,Sweden
+710,380,1916,1588004,1,Hk Taels,China,Sweden
+710,380,1917,340113,1,Hk Taels,China,Sweden
+710,380,1918,9868,1,Hk Taels,China,Sweden
+710,380,1919,572929,1,Hk Taels,China,Sweden
+710,380,1920,2778294,1,Hk Taels,China,Sweden
+710,380,1921,2399049,1,Hk Taels,China,Sweden
+710,380,1922,2531716,1,Hk Taels,China,Sweden
+710,380,1923,2213289,1,Hk Taels,China,Sweden
+710,380,1924,2956216,1,Hk Taels,China,Sweden
+710,380,1925,2391840,1,Hk Taels,China,Sweden
+710,380,1926,3474034,1,Hk Taels,China,Sweden
+710,380,1927,2866691,1,Hk Taels,China,Sweden
+710,380,1928,3065962,1,Hk Taels,China,Sweden
+710,380,1929,3832116,1,Hk Taels,China,Sweden
+710,380,1930,4178368,1,Hk Taels,China,Sweden
+710,380,1931,4796229,1,Hk Taels,China,Sweden
+710,380,1932,4444920,1,Hk Taels,China,Sweden
+710,380,1933,12547967,1,Standard $,China,Sweden
+710,380,1934,8777493,1,Standard $,China,Sweden
+710,380,1935,8587284,1,Standard $,China,Sweden
+710,380,1936,6510085,1,Standard $,China,Sweden
+710,380,1937,6722127,1,Standard $,China,Sweden
+710,380,1938,3947228,1,Standard $,China,Sweden
+710,380,1939,3453463,1,Standard $,China,Sweden
+710,380,1940,2551361,1,Standard $,China,Sweden
+710,380,1946,18365583,1000,C.N. $,China,Sweden
+710,385,1900,0,1,Hk Taels,China,Norway
+710,385,1901,0,1,Hk Taels,China,Norway
+710,385,1902,0,1,Hk Taels,China,Norway
+710,385,1903,0,1,Hk Taels,China,Norway
+710,385,1904,0,1,Hk Taels,China,Norway
+710,385,1905,69642,1,Hk Taels,China,Norway
+710,385,1906,3981,1,Hk Taels,China,Norway
+710,385,1907,25703,1,Hk Taels,China,Norway
+710,385,1908,50543,1,Hk Taels,China,Norway
+710,385,1909,35110,1,Hk Taels,China,Norway
+710,385,1910,28448,1,Hk Taels,China,Norway
+710,385,1911,63741,1,Hk Taels,China,Norway
+710,385,1912,83871,1,Hk Taels,China,Norway
+710,385,1913,347590,1,Hk Taels,China,Norway
+710,385,1914,419975,1,Hk Taels,China,Norway
+710,385,1915,587823,1,Hk Taels,China,Norway
+710,385,1916,1181614,1,Hk Taels,China,Norway
+710,385,1917,247539,1,Hk Taels,China,Norway
+710,385,1918,8,1,Hk Taels,China,Norway
+710,385,1919,314068,1,Hk Taels,China,Norway
+710,385,1920,1645937,1,Hk Taels,China,Norway
+710,385,1921,379831,1,Hk Taels,China,Norway
+710,385,1922,1320091,1,Hk Taels,China,Norway
+710,385,1923,2027969,1,Hk Taels,China,Norway
+710,385,1924,1875027,1,Hk Taels,China,Norway
+710,385,1925,3408360,1,Hk Taels,China,Norway
+710,385,1926,2537876,1,Hk Taels,China,Norway
+710,385,1927,4736943,1,Hk Taels,China,Norway
+710,385,1928,7890896,1,Hk Taels,China,Norway
+710,385,1929,4177040,1,Hk Taels,China,Norway
+710,385,1930,3220055,1,Hk Taels,China,Norway
+710,385,1931,2252154,1,Hk Taels,China,Norway
+710,385,1932,4618617,1,Hk Taels,China,Norway
+710,385,1933,6107929,1,Standard $,China,Norway
+710,385,1934,4988161,1,Standard $,China,Norway
+710,385,1935,4858518,1,Standard $,China,Norway
+710,385,1936,2862105,1,Standard $,China,Norway
+710,385,1937,5292389,1,Standard $,China,Norway
+710,385,1938,3570303,1,Standard $,China,Norway
+710,385,1939,2607042,1,Standard $,China,Norway
+710,385,1940,2401590,1,Standard $,China,Norway
+710,385,1946,13962605,1000,C.N. $,China,Norway
+710,390,1900,0,1,Hk Taels,China,Denmark
+710,390,1901,0,1,Hk Taels,China,Denmark
+710,390,1902,0,1,Hk Taels,China,Denmark
+710,390,1903,0,1,Hk Taels,China,Denmark
+710,390,1904,0,1,Hk Taels,China,Denmark
+710,390,1905,47649,1,Hk Taels,China,Denmark
+710,390,1906,62555,1,Hk Taels,China,Denmark
+710,390,1907,509562,1,Hk Taels,China,Denmark
+710,390,1908,192647,1,Hk Taels,China,Denmark
+710,390,1909,203531,1,Hk Taels,China,Denmark
+710,390,1910,93472,1,Hk Taels,China,Denmark
+710,390,1911,87921,1,Hk Taels,China,Denmark
+710,390,1912,85122,1,Hk Taels,China,Denmark
+710,390,1913,100851,1,Hk Taels,China,Denmark
+710,390,1914,381549,1,Hk Taels,China,Denmark
+710,390,1915,236228,1,Hk Taels,China,Denmark
+710,390,1916,127696,1,Hk Taels,China,Denmark
+710,390,1917,67424,1,Hk Taels,China,Denmark
+710,390,1918,192,1,Hk Taels,China,Denmark
+710,390,1919,183584,1,Hk Taels,China,Denmark
+710,390,1920,283963,1,Hk Taels,China,Denmark
+710,390,1921,1696901,1,Hk Taels,China,Denmark
+710,390,1922,1727772,1,Hk Taels,China,Denmark
+710,390,1923,1115286,1,Hk Taels,China,Denmark
+710,390,1924,408570,1,Hk Taels,China,Denmark
+710,390,1925,365878,1,Hk Taels,China,Denmark
+710,390,1926,305189,1,Hk Taels,China,Denmark
+710,390,1927,177517,1,Hk Taels,China,Denmark
+710,390,1928,268547,1,Hk Taels,China,Denmark
+710,390,1929,316877,1,Hk Taels,China,Denmark
+710,390,1930,446430,1,Hk Taels,China,Denmark
+710,390,1931,358746,1,Hk Taels,China,Denmark
+710,390,1932,302713,1,Hk Taels,China,Denmark
+710,390,1933,733637,1,Standard $,China,Denmark
+710,390,1934,1473401,1,Standard $,China,Denmark
+710,390,1935,775209,1,Standard $,China,Denmark
+710,390,1936,2366452,1,Standard $,China,Denmark
+710,390,1937,687390,1,Standard $,China,Denmark
+710,390,1938,269735,1,Standard $,China,Denmark
+710,390,1939,178641,1,Standard $,China,Denmark
+710,390,1940,244476,1,Standard $,China,Denmark
+710,390,1946,554334,1000,C.N. $,China,Denmark
+710,430,1900,0,1,Hk Taels,China,French West Africa
+710,430,1901,0,1,Hk Taels,China,French West Africa
+710,430,1902,0,1,Hk Taels,China,French West Africa
+710,430,1903,0,1,Hk Taels,China,French West Africa
+710,430,1904,0,1,Hk Taels,China,French West Africa
+710,430,1905,0,1,Hk Taels,China,French West Africa
+710,430,1906,0,1,Hk Taels,China,French West Africa
+710,430,1907,0,1,Hk Taels,China,French West Africa
+710,430,1908,0,1,Hk Taels,China,French West Africa
+710,430,1909,0,1,Hk Taels,China,French West Africa
+710,430,1910,0,1,Hk Taels,China,French West Africa
+710,430,1911,0,1,Hk Taels,China,French West Africa
+710,430,1912,0,1,Hk Taels,China,French West Africa
+710,430,1913,0,1,Hk Taels,China,French West Africa
+710,430,1914,0,1,Hk Taels,China,French West Africa
+710,430,1915,0,1,Hk Taels,China,French West Africa
+710,430,1916,0,1,Hk Taels,China,French West Africa
+710,430,1917,0,1,Hk Taels,China,French West Africa
+710,430,1918,0,1,Hk Taels,China,French West Africa
+710,430,1919,0,1,Hk Taels,China,French West Africa
+710,430,1920,0,1,Hk Taels,China,French West Africa
+710,430,1921,0,1,Hk Taels,China,French West Africa
+710,430,1922,0,1,Hk Taels,China,French West Africa
+710,430,1923,0,1,Hk Taels,China,French West Africa
+710,430,1924,0,1,Hk Taels,China,French West Africa
+710,430,1925,0,1,Hk Taels,China,French West Africa
+710,430,1926,0,1,Hk Taels,China,French West Africa
+710,430,1927,0,1,Hk Taels,China,French West Africa
+710,430,1928,0,1,Hk Taels,China,French West Africa
+710,430,1929,0,1,Hk Taels,China,French West Africa
+710,430,1930,0,1,Hk Taels,China,French West Africa
+710,430,1931,0,1,Hk Taels,China,French West Africa
+710,430,1932,5027,1,Hk Taels,China,French West Africa
+710,430,1933,17248,1,Standard $,China,French West Africa
+710,430,1934,8465,1,Standard $,China,French West Africa
+710,430,1935,1963,1,Standard $,China,French West Africa
+710,430,1936,9868,1,Standard $,China,French West Africa
+710,430,1937,2940,1,Standard $,China,French West Africa
+710,430,1938,900,1,Standard $,China,French West Africa
+710,430,1939,0,1,Standard $,China,French West Africa
+710,430,1940,0,1,Standard $,China,French West Africa
+710,430,1946,27258,1000,C.N. $,China,French West Africa
+710,465,1900,0,1,Hk Taels,China,British West Africa
+710,465,1901,0,1,Hk Taels,China,British West Africa
+710,465,1902,0,1,Hk Taels,China,British West Africa
+710,465,1903,0,1,Hk Taels,China,British West Africa
+710,465,1904,0,1,Hk Taels,China,British West Africa
+710,465,1905,0,1,Hk Taels,China,British West Africa
+710,465,1906,0,1,Hk Taels,China,British West Africa
+710,465,1907,0,1,Hk Taels,China,British West Africa
+710,465,1908,0,1,Hk Taels,China,British West Africa
+710,465,1909,0,1,Hk Taels,China,British West Africa
+710,465,1910,0,1,Hk Taels,China,British West Africa
+710,465,1911,0,1,Hk Taels,China,British West Africa
+710,465,1912,0,1,Hk Taels,China,British West Africa
+710,465,1913,0,1,Hk Taels,China,British West Africa
+710,465,1914,0,1,Hk Taels,China,British West Africa
+710,465,1915,0,1,Hk Taels,China,British West Africa
+710,465,1916,0,1,Hk Taels,China,British West Africa
+710,465,1917,0,1,Hk Taels,China,British West Africa
+710,465,1918,0,1,Hk Taels,China,British West Africa
+710,465,1919,0,1,Hk Taels,China,British West Africa
+710,465,1920,0,1,Hk Taels,China,British West Africa
+710,465,1921,0,1,Hk Taels,China,British West Africa
+710,465,1922,0,1,Hk Taels,China,British West Africa
+710,465,1923,0,1,Hk Taels,China,British West Africa
+710,465,1924,0,1,Hk Taels,China,British West Africa
+710,465,1925,0,1,Hk Taels,China,British West Africa
+710,465,1926,0,1,Hk Taels,China,British West Africa
+710,465,1927,0,1,Hk Taels,China,British West Africa
+710,465,1928,0,1,Hk Taels,China,British West Africa
+710,465,1929,0,1,Hk Taels,China,British West Africa
+710,465,1930,0,1,Hk Taels,China,British West Africa
+710,465,1931,0,1,Hk Taels,China,British West Africa
+710,465,1932,0,1,Hk Taels,China,British West Africa
+710,465,1933,2488,1,Standard $,China,British West Africa
+710,465,1934,0,1,Standard $,China,British West Africa
+710,465,1935,0,1,Standard $,China,British West Africa
+710,465,1936,15984,1,Standard $,China,British West Africa
+710,465,1937,24706,1,Standard $,China,British West Africa
+710,465,1938,11450,1,Standard $,China,British West Africa
+710,465,1939,9702,1,Standard $,China,British West Africa
+710,465,1940,59168,1,Standard $,China,British West Africa
+710,465,1946,0,1000,C.N. $,China,British West Africa
+710,505,1900,0,1,Hk Taels,China,British East Africa
+710,505,1901,0,1,Hk Taels,China,British East Africa
+710,505,1902,0,1,Hk Taels,China,British East Africa
+710,505,1903,0,1,Hk Taels,China,British East Africa
+710,505,1904,0,1,Hk Taels,China,British East Africa
+710,505,1905,0,1,Hk Taels,China,British East Africa
+710,505,1906,0,1,Hk Taels,China,British East Africa
+710,505,1907,0,1,Hk Taels,China,British East Africa
+710,505,1908,0,1,Hk Taels,China,British East Africa
+710,505,1909,0,1,Hk Taels,China,British East Africa
+710,505,1910,0,1,Hk Taels,China,British East Africa
+710,505,1911,0,1,Hk Taels,China,British East Africa
+710,505,1912,0,1,Hk Taels,China,British East Africa
+710,505,1913,0,1,Hk Taels,China,British East Africa
+710,505,1914,0,1,Hk Taels,China,British East Africa
+710,505,1915,0,1,Hk Taels,China,British East Africa
+710,505,1916,0,1,Hk Taels,China,British East Africa
+710,505,1917,0,1,Hk Taels,China,British East Africa
+710,505,1918,0,1,Hk Taels,China,British East Africa
+710,505,1919,0,1,Hk Taels,China,British East Africa
+710,505,1920,0,1,Hk Taels,China,British East Africa
+710,505,1921,0,1,Hk Taels,China,British East Africa
+710,505,1922,0,1,Hk Taels,China,British East Africa
+710,505,1923,0,1,Hk Taels,China,British East Africa
+710,505,1924,0,1,Hk Taels,China,British East Africa
+710,505,1925,0,1,Hk Taels,China,British East Africa
+710,505,1926,0,1,Hk Taels,China,British East Africa
+710,505,1927,0,1,Hk Taels,China,British East Africa
+710,505,1928,0,1,Hk Taels,China,British East Africa
+710,505,1929,0,1,Hk Taels,China,British East Africa
+710,505,1930,0,1,Hk Taels,China,British East Africa
+710,505,1931,0,1,Hk Taels,China,British East Africa
+710,505,1932,20324,1,Hk Taels,China,British East Africa
+710,505,1933,299179,1,Standard $,China,British East Africa
+710,505,1934,653110,1,Standard $,China,British East Africa
+710,505,1935,207424,1,Standard $,China,British East Africa
+710,505,1936,1299642,1,Standard $,China,British East Africa
+710,505,1937,976500,1,Standard $,China,British East Africa
+710,505,1938,366512,1,Standard $,China,British East Africa
+710,505,1939,1856571,1,Standard $,China,British East Africa
+710,505,1940,5111642,1,Standard $,China,British East Africa
+710,505,1946,366106,1000,C.N. $,China,British East Africa
+710,530,1900,0,1,Hk Taels,China,Ethiopia
+710,530,1901,0,1,Hk Taels,China,Ethiopia
+710,530,1902,0,1,Hk Taels,China,Ethiopia
+710,530,1903,0,1,Hk Taels,China,Ethiopia
+710,530,1904,0,1,Hk Taels,China,Ethiopia
+710,530,1905,0,1,Hk Taels,China,Ethiopia
+710,530,1906,0,1,Hk Taels,China,Ethiopia
+710,530,1907,0,1,Hk Taels,China,Ethiopia
+710,530,1908,0,1,Hk Taels,China,Ethiopia
+710,530,1909,0,1,Hk Taels,China,Ethiopia
+710,530,1910,0,1,Hk Taels,China,Ethiopia
+710,530,1911,0,1,Hk Taels,China,Ethiopia
+710,530,1912,0,1,Hk Taels,China,Ethiopia
+710,530,1913,0,1,Hk Taels,China,Ethiopia
+710,530,1914,0,1,Hk Taels,China,Ethiopia
+710,530,1915,0,1,Hk Taels,China,Ethiopia
+710,530,1916,0,1,Hk Taels,China,Ethiopia
+710,530,1917,0,1,Hk Taels,China,Ethiopia
+710,530,1918,0,1,Hk Taels,China,Ethiopia
+710,530,1919,0,1,Hk Taels,China,Ethiopia
+710,530,1920,0,1,Hk Taels,China,Ethiopia
+710,530,1921,0,1,Hk Taels,China,Ethiopia
+710,530,1922,0,1,Hk Taels,China,Ethiopia
+710,530,1923,0,1,Hk Taels,China,Ethiopia
+710,530,1924,0,1,Hk Taels,China,Ethiopia
+710,530,1925,0,1,Hk Taels,China,Ethiopia
+710,530,1926,0,1,Hk Taels,China,Ethiopia
+710,530,1927,0,1,Hk Taels,China,Ethiopia
+710,530,1928,0,1,Hk Taels,China,Ethiopia
+710,530,1929,0,1,Hk Taels,China,Ethiopia
+710,530,1930,0,1,Hk Taels,China,Ethiopia
+710,530,1931,0,1,Hk Taels,China,Ethiopia
+710,530,1932,2206,1,Hk Taels,China,Ethiopia
+710,530,1933,6037,1,Standard $,China,Ethiopia
+710,530,1934,0,1,Standard $,China,Ethiopia
+710,530,1935,0,1,Standard $,China,Ethiopia
+710,530,1936,0,1,Standard $,China,Ethiopia
+710,530,1937,0,1,Standard $,China,Ethiopia
+710,530,1938,0,1,Standard $,China,Ethiopia
+710,530,1939,0,1,Standard $,China,Ethiopia
+710,530,1940,0,1,Standard $,China,Ethiopia
+710,530,1946,0,1000,C.N. $,China,Ethiopia
+710,540,1900,0,1,Hk Taels,China,Angola
+710,540,1901,0,1,Hk Taels,China,Angola
+710,540,1902,0,1,Hk Taels,China,Angola
+710,540,1903,0,1,Hk Taels,China,Angola
+710,540,1904,0,1,Hk Taels,China,Angola
+710,540,1905,0,1,Hk Taels,China,Angola
+710,540,1906,0,1,Hk Taels,China,Angola
+710,540,1907,0,1,Hk Taels,China,Angola
+710,540,1908,0,1,Hk Taels,China,Angola
+710,540,1909,0,1,Hk Taels,China,Angola
+710,540,1910,0,1,Hk Taels,China,Angola
+710,540,1911,0,1,Hk Taels,China,Angola
+710,540,1912,0,1,Hk Taels,China,Angola
+710,540,1913,0,1,Hk Taels,China,Angola
+710,540,1914,0,1,Hk Taels,China,Angola
+710,540,1915,0,1,Hk Taels,China,Angola
+710,540,1916,0,1,Hk Taels,China,Angola
+710,540,1917,0,1,Hk Taels,China,Angola
+710,540,1918,0,1,Hk Taels,China,Angola
+710,540,1919,0,1,Hk Taels,China,Angola
+710,540,1920,0,1,Hk Taels,China,Angola
+710,540,1921,0,1,Hk Taels,China,Angola
+710,540,1922,0,1,Hk Taels,China,Angola
+710,540,1923,0,1,Hk Taels,China,Angola
+710,540,1924,0,1,Hk Taels,China,Angola
+710,540,1925,0,1,Hk Taels,China,Angola
+710,540,1926,0,1,Hk Taels,China,Angola
+710,540,1927,0,1,Hk Taels,China,Angola
+710,540,1928,0,1,Hk Taels,China,Angola
+710,540,1929,0,1,Hk Taels,China,Angola
+710,540,1930,0,1,Hk Taels,China,Angola
+710,540,1931,0,1,Hk Taels,China,Angola
+710,540,1932,991,1,Hk Taels,China,Angola
+710,540,1933,0,1,Standard $,China,Angola
+710,540,1934,0,1,Standard $,China,Angola
+710,540,1935,0,1,Standard $,China,Angola
+710,540,1936,0,1,Standard $,China,Angola
+710,540,1937,0,1,Standard $,China,Angola
+710,540,1938,0,1,Standard $,China,Angola
+710,540,1939,0,1,Standard $,China,Angola
+710,540,1940,0,1,Standard $,China,Angola
+710,540,1946,0,1000,C.N. $,China,Angola
+710,541,1900,0,1,Hk Taels,China,Mozambique
+710,541,1901,0,1,Hk Taels,China,Mozambique
+710,541,1902,0,1,Hk Taels,China,Mozambique
+710,541,1903,0,1,Hk Taels,China,Mozambique
+710,541,1904,0,1,Hk Taels,China,Mozambique
+710,541,1905,0,1,Hk Taels,China,Mozambique
+710,541,1906,0,1,Hk Taels,China,Mozambique
+710,541,1907,0,1,Hk Taels,China,Mozambique
+710,541,1908,0,1,Hk Taels,China,Mozambique
+710,541,1909,0,1,Hk Taels,China,Mozambique
+710,541,1910,0,1,Hk Taels,China,Mozambique
+710,541,1911,0,1,Hk Taels,China,Mozambique
+710,541,1912,0,1,Hk Taels,China,Mozambique
+710,541,1913,0,1,Hk Taels,China,Mozambique
+710,541,1914,0,1,Hk Taels,China,Mozambique
+710,541,1915,0,1,Hk Taels,China,Mozambique
+710,541,1916,0,1,Hk Taels,China,Mozambique
+710,541,1917,0,1,Hk Taels,China,Mozambique
+710,541,1918,0,1,Hk Taels,China,Mozambique
+710,541,1919,0,1,Hk Taels,China,Mozambique
+710,541,1920,0,1,Hk Taels,China,Mozambique
+710,541,1921,0,1,Hk Taels,China,Mozambique
+710,541,1922,0,1,Hk Taels,China,Mozambique
+710,541,1923,0,1,Hk Taels,China,Mozambique
+710,541,1924,0,1,Hk Taels,China,Mozambique
+710,541,1925,0,1,Hk Taels,China,Mozambique
+710,541,1926,0,1,Hk Taels,China,Mozambique
+710,541,1927,0,1,Hk Taels,China,Mozambique
+710,541,1928,0,1,Hk Taels,China,Mozambique
+710,541,1929,0,1,Hk Taels,China,Mozambique
+710,541,1930,0,1,Hk Taels,China,Mozambique
+710,541,1931,0,1,Hk Taels,China,Mozambique
+710,541,1932,836,1,Hk Taels,China,Mozambique
+710,541,1933,12,1,Standard $,China,Mozambique
+710,541,1934,42562,1,Standard $,China,Mozambique
+710,541,1935,5037,1,Standard $,China,Mozambique
+710,541,1936,9874,1,Standard $,China,Mozambique
+710,541,1937,989,1,Standard $,China,Mozambique
+710,541,1938,50873,1,Standard $,China,Mozambique
+710,541,1939,4144,1,Standard $,China,Mozambique
+710,541,1940,512444,1,Standard $,China,Mozambique
+710,541,1946,57307,1000,C.N. $,China,Mozambique
+710,615,1900,0,1,Hk Taels,China,Algeria
+710,615,1901,0,1,Hk Taels,China,Algeria
+710,615,1902,0,1,Hk Taels,China,Algeria
+710,615,1903,0,1,Hk Taels,China,Algeria
+710,615,1904,0,1,Hk Taels,China,Algeria
+710,615,1905,0,1,Hk Taels,China,Algeria
+710,615,1906,0,1,Hk Taels,China,Algeria
+710,615,1907,0,1,Hk Taels,China,Algeria
+710,615,1908,0,1,Hk Taels,China,Algeria
+710,615,1909,0,1,Hk Taels,China,Algeria
+710,615,1910,0,1,Hk Taels,China,Algeria
+710,615,1911,0,1,Hk Taels,China,Algeria
+710,615,1912,0,1,Hk Taels,China,Algeria
+710,615,1913,0,1,Hk Taels,China,Algeria
+710,615,1914,0,1,Hk Taels,China,Algeria
+710,615,1915,0,1,Hk Taels,China,Algeria
+710,615,1916,0,1,Hk Taels,China,Algeria
+710,615,1917,0,1,Hk Taels,China,Algeria
+710,615,1918,0,1,Hk Taels,China,Algeria
+710,615,1919,0,1,Hk Taels,China,Algeria
+710,615,1920,0,1,Hk Taels,China,Algeria
+710,615,1921,0,1,Hk Taels,China,Algeria
+710,615,1922,0,1,Hk Taels,China,Algeria
+710,615,1923,0,1,Hk Taels,China,Algeria
+710,615,1924,0,1,Hk Taels,China,Algeria
+710,615,1925,0,1,Hk Taels,China,Algeria
+710,615,1926,0,1,Hk Taels,China,Algeria
+710,615,1927,0,1,Hk Taels,China,Algeria
+710,615,1928,0,1,Hk Taels,China,Algeria
+710,615,1929,0,1,Hk Taels,China,Algeria
+710,615,1930,0,1,Hk Taels,China,Algeria
+710,615,1931,0,1,Hk Taels,China,Algeria
+710,615,1932,20314,1,Hk Taels,China,Algeria
+710,615,1933,71760,1,Standard $,China,Algeria
+710,615,1934,72820,1,Standard $,China,Algeria
+710,615,1935,57798,1,Standard $,China,Algeria
+710,615,1936,16757,1,Standard $,China,Algeria
+710,615,1937,41035,1,Standard $,China,Algeria
+710,615,1938,19447,1,Standard $,China,Algeria
+710,615,1939,30954,1,Standard $,China,Algeria
+710,615,1940,34141,1,Standard $,China,Algeria
+710,615,1946,0,1000,C.N. $,China,Algeria
+710,616,1900,0,1,Hk Taels,China,Tunisia
+710,616,1901,0,1,Hk Taels,China,Tunisia
+710,616,1902,0,1,Hk Taels,China,Tunisia
+710,616,1903,0,1,Hk Taels,China,Tunisia
+710,616,1904,0,1,Hk Taels,China,Tunisia
+710,616,1905,0,1,Hk Taels,China,Tunisia
+710,616,1906,0,1,Hk Taels,China,Tunisia
+710,616,1907,0,1,Hk Taels,China,Tunisia
+710,616,1908,0,1,Hk Taels,China,Tunisia
+710,616,1909,0,1,Hk Taels,China,Tunisia
+710,616,1910,0,1,Hk Taels,China,Tunisia
+710,616,1911,0,1,Hk Taels,China,Tunisia
+710,616,1912,0,1,Hk Taels,China,Tunisia
+710,616,1913,0,1,Hk Taels,China,Tunisia
+710,616,1914,0,1,Hk Taels,China,Tunisia
+710,616,1915,0,1,Hk Taels,China,Tunisia
+710,616,1916,0,1,Hk Taels,China,Tunisia
+710,616,1917,0,1,Hk Taels,China,Tunisia
+710,616,1918,0,1,Hk Taels,China,Tunisia
+710,616,1919,0,1,Hk Taels,China,Tunisia
+710,616,1920,0,1,Hk Taels,China,Tunisia
+710,616,1921,0,1,Hk Taels,China,Tunisia
+710,616,1922,0,1,Hk Taels,China,Tunisia
+710,616,1923,0,1,Hk Taels,China,Tunisia
+710,616,1924,0,1,Hk Taels,China,Tunisia
+710,616,1925,0,1,Hk Taels,China,Tunisia
+710,616,1926,0,1,Hk Taels,China,Tunisia
+710,616,1927,0,1,Hk Taels,China,Tunisia
+710,616,1928,0,1,Hk Taels,China,Tunisia
+710,616,1929,0,1,Hk Taels,China,Tunisia
+710,616,1930,0,1,Hk Taels,China,Tunisia
+710,616,1931,0,1,Hk Taels,China,Tunisia
+710,616,1932,248,1,Hk Taels,China,Tunisia
+710,616,1933,0,1,Standard $,China,Tunisia
+710,616,1934,10,1,Standard $,China,Tunisia
+710,616,1935,54369,1,Standard $,China,Tunisia
+710,616,1936,439,1,Standard $,China,Tunisia
+710,616,1937,2405,1,Standard $,China,Tunisia
+710,616,1938,2565,1,Standard $,China,Tunisia
+710,616,1939,2181,1,Standard $,China,Tunisia
+710,616,1940,0,1,Standard $,China,Tunisia
+710,616,1946,0,1000,C.N. $,China,Tunisia
+710,630,1900,0,1,Hk Taels,China,Iran
+710,630,1901,0,1,Hk Taels,China,Iran
+710,630,1902,0,1,Hk Taels,China,Iran
+710,630,1903,0,1,Hk Taels,China,Iran
+710,630,1904,0,1,Hk Taels,China,Iran
+710,630,1905,0,1,Hk Taels,China,Iran
+710,630,1906,0,1,Hk Taels,China,Iran
+710,630,1907,0,1,Hk Taels,China,Iran
+710,630,1908,0,1,Hk Taels,China,Iran
+710,630,1909,0,1,Hk Taels,China,Iran
+710,630,1910,0,1,Hk Taels,China,Iran
+710,630,1911,0,1,Hk Taels,China,Iran
+710,630,1912,0,1,Hk Taels,China,Iran
+710,630,1913,0,1,Hk Taels,China,Iran
+710,630,1914,0,1,Hk Taels,China,Iran
+710,630,1915,0,1,Hk Taels,China,Iran
+710,630,1916,0,1,Hk Taels,China,Iran
+710,630,1917,0,1,Hk Taels,China,Iran
+710,630,1918,0,1,Hk Taels,China,Iran
+710,630,1919,0,1,Hk Taels,China,Iran
+710,630,1920,0,1,Hk Taels,China,Iran
+710,630,1921,0,1,Hk Taels,China,Iran
+710,630,1922,0,1,Hk Taels,China,Iran
+710,630,1923,0,1,Hk Taels,China,Iran
+710,630,1924,0,1,Hk Taels,China,Iran
+710,630,1925,0,1,Hk Taels,China,Iran
+710,630,1926,0,1,Hk Taels,China,Iran
+710,630,1927,0,1,Hk Taels,China,Iran
+710,630,1928,0,1,Hk Taels,China,Iran
+710,630,1929,0,1,Hk Taels,China,Iran
+710,630,1930,0,1,Hk Taels,China,Iran
+710,630,1931,1134547,1,Hk Taels,China,Iran
+710,630,1932,440866,1,Hk Taels,China,Iran
+710,630,1933,4086,1,Standard $,China,Iran
+710,630,1934,25583,1,Standard $,China,Iran
+710,630,1935,8587,1,Standard $,China,Iran
+710,630,1936,15647,1,Standard $,China,Iran
+710,630,1937,42509,1,Standard $,China,Iran
+710,630,1938,451638,1,Standard $,China,Iran
+710,630,1939,59257,1,Standard $,China,Iran
+710,630,1940,157162,1,Standard $,China,Iran
+710,630,1946,19479256,1000,C.N. $,China,Iran
+710,640,1900,0,1,Hk Taels,China,Turkey
+710,640,1901,0,1,Hk Taels,China,Turkey
+710,640,1902,0,1,Hk Taels,China,Turkey
+710,640,1903,0,1,Hk Taels,China,Turkey
+710,640,1904,0,1,Hk Taels,China,Turkey
+710,640,1905,0,1,Hk Taels,China,Turkey
+710,640,1906,0,1,Hk Taels,China,Turkey
+710,640,1907,0,1,Hk Taels,China,Turkey
+710,640,1908,0,1,Hk Taels,China,Turkey
+710,640,1909,0,1,Hk Taels,China,Turkey
+710,640,1910,0,1,Hk Taels,China,Turkey
+710,640,1911,0,1,Hk Taels,China,Turkey
+710,640,1912,0,1,Hk Taels,China,Turkey
+710,640,1913,0,1,Hk Taels,China,Turkey
+710,640,1914,0,1,Hk Taels,China,Turkey
+710,640,1915,0,1,Hk Taels,China,Turkey
+710,640,1916,0,1,Hk Taels,China,Turkey
+710,640,1917,0,1,Hk Taels,China,Turkey
+710,640,1918,0,1,Hk Taels,China,Turkey
+710,640,1919,0,1,Hk Taels,China,Turkey
+710,640,1920,0,1,Hk Taels,China,Turkey
+710,640,1921,0,1,Hk Taels,China,Turkey
+710,640,1922,0,1,Hk Taels,China,Turkey
+710,640,1923,0,1,Hk Taels,China,Turkey
+710,640,1924,0,1,Hk Taels,China,Turkey
+710,640,1925,0,1,Hk Taels,China,Turkey
+710,640,1926,0,1,Hk Taels,China,Turkey
+710,640,1927,0,1,Hk Taels,China,Turkey
+710,640,1928,0,1,Hk Taels,China,Turkey
+710,640,1929,0,1,Hk Taels,China,Turkey
+710,640,1930,0,1,Hk Taels,China,Turkey
+710,640,1931,171122,1,Hk Taels,China,Turkey
+710,640,1932,47713,1,Hk Taels,China,Turkey
+710,640,1933,4874,1,Standard $,China,Turkey
+710,640,1934,5893,1,Standard $,China,Turkey
+710,640,1935,639,1,Standard $,China,Turkey
+710,640,1936,5385,1,Standard $,China,Turkey
+710,640,1937,6282,1,Standard $,China,Turkey
+710,640,1938,12898,1,Standard $,China,Turkey
+710,640,1939,53,1,Standard $,China,Turkey
+710,640,1940,3275,1,Standard $,China,Turkey
+710,640,1946,26,1000,C.N. $,China,Turkey
+710,651,1900,0,1,Hk Taels,China,Egypt
+710,651,1901,0,1,Hk Taels,China,Egypt
+710,651,1902,0,1,Hk Taels,China,Egypt
+710,651,1903,0,1,Hk Taels,China,Egypt
+710,651,1904,0,1,Hk Taels,China,Egypt
+710,651,1905,0,1,Hk Taels,China,Egypt
+710,651,1906,0,1,Hk Taels,China,Egypt
+710,651,1907,0,1,Hk Taels,China,Egypt
+710,651,1908,0,1,Hk Taels,China,Egypt
+710,651,1909,0,1,Hk Taels,China,Egypt
+710,651,1910,0,1,Hk Taels,China,Egypt
+710,651,1911,0,1,Hk Taels,China,Egypt
+710,651,1912,0,1,Hk Taels,China,Egypt
+710,651,1913,0,1,Hk Taels,China,Egypt
+710,651,1914,0,1,Hk Taels,China,Egypt
+710,651,1915,0,1,Hk Taels,China,Egypt
+710,651,1916,0,1,Hk Taels,China,Egypt
+710,651,1917,0,1,Hk Taels,China,Egypt
+710,651,1918,0,1,Hk Taels,China,Egypt
+710,651,1919,0,1,Hk Taels,China,Egypt
+710,651,1920,0,1,Hk Taels,China,Egypt
+710,651,1921,0,1,Hk Taels,China,Egypt
+710,651,1922,0,1,Hk Taels,China,Egypt
+710,651,1923,0,1,Hk Taels,China,Egypt
+710,651,1924,0,1,Hk Taels,China,Egypt
+710,651,1925,0,1,Hk Taels,China,Egypt
+710,651,1926,0,1,Hk Taels,China,Egypt
+710,651,1927,0,1,Hk Taels,China,Egypt
+710,651,1928,0,1,Hk Taels,China,Egypt
+710,651,1929,0,1,Hk Taels,China,Egypt
+710,651,1930,0,1,Hk Taels,China,Egypt
+710,651,1931,2597929,1,Hk Taels,China,Egypt
+710,651,1932,2431172,1,Hk Taels,China,Egypt
+710,651,1933,2828039,1,Standard $,China,Egypt
+710,651,1934,6908805,1,Standard $,China,Egypt
+710,651,1935,5931869,1,Standard $,China,Egypt
+710,651,1936,7581466,1,Standard $,China,Egypt
+710,651,1937,5444065,1,Standard $,China,Egypt
+710,651,1938,2519554,1,Standard $,China,Egypt
+710,651,1939,8204200,1,Standard $,China,Egypt
+710,651,1940,9179257,1,Standard $,China,Egypt
+710,651,1946,9203443,1000,C.N. $,China,Egypt
+710,652,1900,0,1,Hk Taels,China,Syria
+710,652,1901,0,1,Hk Taels,China,Syria
+710,652,1902,0,1,Hk Taels,China,Syria
+710,652,1903,0,1,Hk Taels,China,Syria
+710,652,1904,0,1,Hk Taels,China,Syria
+710,652,1905,0,1,Hk Taels,China,Syria
+710,652,1906,0,1,Hk Taels,China,Syria
+710,652,1907,0,1,Hk Taels,China,Syria
+710,652,1908,0,1,Hk Taels,China,Syria
+710,652,1909,0,1,Hk Taels,China,Syria
+710,652,1910,0,1,Hk Taels,China,Syria
+710,652,1911,0,1,Hk Taels,China,Syria
+710,652,1912,0,1,Hk Taels,China,Syria
+710,652,1913,0,1,Hk Taels,China,Syria
+710,652,1914,0,1,Hk Taels,China,Syria
+710,652,1915,0,1,Hk Taels,China,Syria
+710,652,1916,0,1,Hk Taels,China,Syria
+710,652,1917,0,1,Hk Taels,China,Syria
+710,652,1918,0,1,Hk Taels,China,Syria
+710,652,1919,0,1,Hk Taels,China,Syria
+710,652,1920,0,1,Hk Taels,China,Syria
+710,652,1921,0,1,Hk Taels,China,Syria
+710,652,1922,0,1,Hk Taels,China,Syria
+710,652,1923,0,1,Hk Taels,China,Syria
+710,652,1924,0,1,Hk Taels,China,Syria
+710,652,1925,0,1,Hk Taels,China,Syria
+710,652,1926,0,1,Hk Taels,China,Syria
+710,652,1927,0,1,Hk Taels,China,Syria
+710,652,1928,0,1,Hk Taels,China,Syria
+710,652,1929,0,1,Hk Taels,China,Syria
+710,652,1930,0,1,Hk Taels,China,Syria
+710,652,1931,0,1,Hk Taels,China,Syria
+710,652,1932,2694,1,Hk Taels,China,Syria
+710,652,1933,370,1,Standard $,China,Syria
+710,652,1934,703,1,Standard $,China,Syria
+710,652,1935,2650,1,Standard $,China,Syria
+710,652,1936,0,1,Standard $,China,Syria
+710,652,1937,359,1,Standard $,China,Syria
+710,652,1938,4354,1,Standard $,China,Syria
+710,652,1939,1375,1,Standard $,China,Syria
+710,652,1940,5,1,Standard $,China,Syria
+710,652,1946,20869,1000,C.N. $,China,Syria
+710,665,1900,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1901,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1902,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1903,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1904,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1905,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1906,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1907,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1908,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1909,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1910,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1911,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1912,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1913,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1914,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1915,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1916,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1917,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1918,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1919,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1920,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1921,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1922,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1923,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1924,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1925,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1926,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1927,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1928,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1929,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1930,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1931,0,1,Hk Taels,China,West Bank And Gaza
+710,665,1932,10927,1,Hk Taels,China,West Bank And Gaza
+710,665,1933,37913,1,Standard $,China,West Bank And Gaza
+710,665,1934,22789,1,Standard $,China,West Bank And Gaza
+710,665,1935,5813,1,Standard $,China,West Bank And Gaza
+710,665,1936,5759,1,Standard $,China,West Bank And Gaza
+710,665,1937,7258,1,Standard $,China,West Bank And Gaza
+710,665,1938,9843,1,Standard $,China,West Bank And Gaza
+710,665,1939,16864,1,Standard $,China,West Bank And Gaza
+710,665,1940,17824,1,Standard $,China,West Bank And Gaza
+710,665,1946,122974,1000,C.N. $,China,West Bank And Gaza
+710,675,1900,0,1,Hk Taels,China,Arabia
+710,675,1901,0,1,Hk Taels,China,Arabia
+710,675,1902,0,1,Hk Taels,China,Arabia
+710,675,1903,0,1,Hk Taels,China,Arabia
+710,675,1904,0,1,Hk Taels,China,Arabia
+710,675,1905,0,1,Hk Taels,China,Arabia
+710,675,1906,0,1,Hk Taels,China,Arabia
+710,675,1907,0,1,Hk Taels,China,Arabia
+710,675,1908,0,1,Hk Taels,China,Arabia
+710,675,1909,0,1,Hk Taels,China,Arabia
+710,675,1910,0,1,Hk Taels,China,Arabia
+710,675,1911,0,1,Hk Taels,China,Arabia
+710,675,1912,0,1,Hk Taels,China,Arabia
+710,675,1913,0,1,Hk Taels,China,Arabia
+710,675,1914,0,1,Hk Taels,China,Arabia
+710,675,1915,0,1,Hk Taels,China,Arabia
+710,675,1916,0,1,Hk Taels,China,Arabia
+710,675,1917,0,1,Hk Taels,China,Arabia
+710,675,1918,0,1,Hk Taels,China,Arabia
+710,675,1919,0,1,Hk Taels,China,Arabia
+710,675,1920,0,1,Hk Taels,China,Arabia
+710,675,1921,0,1,Hk Taels,China,Arabia
+710,675,1922,0,1,Hk Taels,China,Arabia
+710,675,1923,0,1,Hk Taels,China,Arabia
+710,675,1924,0,1,Hk Taels,China,Arabia
+710,675,1925,0,1,Hk Taels,China,Arabia
+710,675,1926,0,1,Hk Taels,China,Arabia
+710,675,1927,0,1,Hk Taels,China,Arabia
+710,675,1928,0,1,Hk Taels,China,Arabia
+710,675,1929,0,1,Hk Taels,China,Arabia
+710,675,1930,0,1,Hk Taels,China,Arabia
+710,675,1931,14507,1,Hk Taels,China,Arabia
+710,675,1932,13193,1,Hk Taels,China,Arabia
+710,675,1933,135267,1,Standard $,China,Arabia
+710,675,1934,9961,1,Standard $,China,Arabia
+710,675,1935,13269,1,Standard $,China,Arabia
+710,675,1936,17300,1,Standard $,China,Arabia
+710,675,1937,24472,1,Standard $,China,Arabia
+710,675,1938,88789,1,Standard $,China,Arabia
+710,675,1939,19508,1,Standard $,China,Arabia
+710,675,1940,34763,1,Standard $,China,Arabia
+710,675,1946,3750782,1000,C.N. $,China,Arabia
+710,720,1900,93846617,1,Hk Taels,China,Hong Kong
+710,720,1901,120329884,1,Hk Taels,China,Hong Kong
+710,720,1902,133524169,1,Hk Taels,China,Hong Kong
+710,720,1903,136520453,1,Hk Taels,China,Hong Kong
+710,720,1904,141085010,1,Hk Taels,China,Hong Kong
+710,720,1905,148071198,1,Hk Taels,China,Hong Kong
+710,720,1906,144936957,1,Hk Taels,China,Hong Kong
+710,720,1907,155642016,1,Hk Taels,China,Hong Kong
+710,720,1908,150252300,1,Hk Taels,China,Hong Kong
+710,720,1909,150471229,1,Hk Taels,China,Hong Kong
+710,720,1910,171465974,1,Hk Taels,China,Hong Kong
+710,720,1911,148249335,1,Hk Taels,China,Hong Kong
+710,720,1912,147801363,1,Hk Taels,China,Hong Kong
+710,720,1913,171636099,1,Hk Taels,China,Hong Kong
+710,720,1914,167993852,1,Hk Taels,China,Hong Kong
+710,720,1915,148436189,1,Hk Taels,China,Hong Kong
+710,720,1916,153347624,1,Hk Taels,China,Hong Kong
+710,720,1917,158602488,1,Hk Taels,China,Hong Kong
+710,720,1918,162191816,1,Hk Taels,China,Hong Kong
+710,720,1919,153631544,1,Hk Taels,China,Hong Kong
+710,720,1920,159313335,1,Hk Taels,China,Hong Kong
+710,720,1921,231138080,1,Hk Taels,China,Hong Kong
+710,720,1922,239347671,1,Hk Taels,China,Hong Kong
+710,720,1923,248083456,1,Hk Taels,China,Hong Kong
+710,720,1924,243919357,1,Hk Taels,China,Hong Kong
+710,720,1925,176311082,1,Hk Taels,China,Hong Kong
+710,720,1926,124472673,1,Hk Taels,China,Hong Kong
+710,720,1927,212592777,1,Hk Taels,China,Hong Kong
+710,720,1928,226077171,1,Hk Taels,China,Hong Kong
+710,720,1929,214481099,1,Hk Taels,China,Hong Kong
+710,720,1930,218369933,1,Hk Taels,China,Hong Kong
+710,720,1931,222076628,1,Hk Taels,China,Hong Kong
+710,720,1932,60473984,1,Hk Taels,China,Hong Kong
+710,720,1933,48287308,1,Standard $,China,Hong Kong
+710,720,1934,29638663,1,Standard $,China,Hong Kong
+710,720,1935,20359397,1,Standard $,China,Hong Kong
+710,720,1936,17794509,1,Standard $,China,Hong Kong
+710,720,1937,19077601,1,Standard $,China,Hong Kong
+710,720,1938,24589195,1,Standard $,China,Hong Kong
+710,720,1939,35416158,1,Standard $,China,Hong Kong
+710,720,1940,146972221,1,Standard $,China,Hong Kong
+710,720,1946,67220723,1000,C.N. $,China,Hong Kong
+710,730,1900,1188538,1,Hk Taels,China,Korea
+710,730,1901,513516,1,Hk Taels,China,Korea
+710,730,1902,1260999,1,Hk Taels,China,Korea
+710,730,1903,1416496,1,Hk Taels,China,Korea
+710,730,1904,879320,1,Hk Taels,China,Korea
+710,730,1905,1753701,1,Hk Taels,China,Korea
+710,730,1906,371681,1,Hk Taels,China,Korea
+710,730,1907,1494204,1,Hk Taels,China,Korea
+710,730,1908,1320296,1,Hk Taels,China,Korea
+710,730,1909,2095853,1,Hk Taels,China,Korea
+710,730,1910,2382113,1,Hk Taels,China,Korea
+710,730,1911,2510224,1,Hk Taels,China,Korea
+710,730,1912,3155334,1,Hk Taels,China,Korea
+710,730,1913,3526881,1,Hk Taels,China,Korea
+710,730,1914,4500579,1,Hk Taels,China,Korea
+710,730,1915,6446167,1,Hk Taels,China,Korea
+710,730,1916,8504624,1,Hk Taels,China,Korea
+710,730,1917,11843006,1,Hk Taels,China,Korea
+710,730,1918,10457222,1,Hk Taels,China,Korea
+710,730,1919,9431450,1,Hk Taels,China,Korea
+710,730,1920,10314374,1,Hk Taels,China,Korea
+710,730,1921,11955147,1,Hk Taels,China,Korea
+710,730,1922,9685698,1,Hk Taels,China,Korea
+710,730,1923,11954940,1,Hk Taels,China,Korea
+710,730,1924,11505586,1,Hk Taels,China,Korea
+710,730,1925,10033051,1,Hk Taels,China,Korea
+710,730,1926,12552259,1,Hk Taels,China,Korea
+710,730,1927,15746777,1,Hk Taels,China,Korea
+710,730,1928,16128147,1,Hk Taels,China,Korea
+710,730,1929,15663902,1,Hk Taels,China,Korea
+710,730,1930,14034513,1,Hk Taels,China,Korea
+710,730,1931,10760146,1,Hk Taels,China,Korea
+710,730,1932,3906808,1,Hk Taels,China,Korea
+710,730,1933,1504088,1,Standard $,China,Korea
+710,730,1934,2431866,1,Standard $,China,Korea
+710,730,1935,2743462,1,Standard $,China,Korea
+710,730,1936,2939569,1,Standard $,China,Korea
+710,730,1937,2346074,1,Standard $,China,Korea
+710,730,1938,5576698,1,Standard $,China,Korea
+710,730,1939,20826647,1,Standard $,China,Korea
+710,730,1940,15957687,1,Standard $,China,Korea
+710,730,1946,17109,1000,C.N. $,China,Korea
+710,740,1900,25752694,1,Hk Taels,China,Japan
+710,740,1901,32567656,1,Hk Taels,China,Japan
+710,740,1902,35342283,1,Hk Taels,China,Japan
+710,740,1903,50298343,1,Hk Taels,China,Japan
+710,740,1904,50164056,1,Hk Taels,China,Japan
+710,740,1905,61315248,1,Hk Taels,China,Japan
+710,740,1906,61052356,1,Hk Taels,China,Japan
+710,740,1907,57461410,1,Hk Taels,China,Japan
+710,740,1908,52500960,1,Hk Taels,China,Japan
+710,740,1909,59975187,1,Hk Taels,China,Japan
+710,740,1910,76755559,1,Hk Taels,China,Japan
+710,740,1911,79506276,1,Hk Taels,China,Japan
+710,740,1912,91016652,1,Hk Taels,China,Japan
+710,740,1913,119346662,1,Hk Taels,China,Japan
+710,740,1914,127119992,1,Hk Taels,China,Japan
+710,740,1915,120249514,1,Hk Taels,China,Japan
+710,740,1916,160490720,1,Hk Taels,China,Japan
+710,740,1917,221666891,1,Hk Taels,China,Japan
+710,740,1918,238858578,1,Hk Taels,China,Japan
+710,740,1919,246940997,1,Hk Taels,China,Japan
+710,740,1920,229135866,1,Hk Taels,China,Japan
+710,740,1921,210359237,1,Hk Taels,China,Japan
+710,740,1922,231428885,1,Hk Taels,China,Japan
+710,740,1923,211024297,1,Hk Taels,China,Japan
+710,740,1924,234761863,1,Hk Taels,China,Japan
+710,740,1925,299755611,1,Hk Taels,China,Japan
+710,740,1926,336909441,1,Hk Taels,China,Japan
+710,740,1927,293793760,1,Hk Taels,China,Japan
+710,740,1928,319293439,1,Hk Taels,China,Japan
+710,740,1929,323141662,1,Hk Taels,China,Japan
+710,740,1930,327164867,1,Hk Taels,China,Japan
+710,740,1931,295727119,1,Hk Taels,China,Japan
+710,740,1932,148431553,1,Hk Taels,China,Japan
+710,740,1933,132349220,1,Standard $,China,Japan
+710,740,1934,126886301,1,Standard $,China,Japan
+710,740,1935,139593056,1,Standard $,China,Japan
+710,740,1936,153576938,1,Standard $,China,Japan
+710,740,1937,150431596,1,Standard $,China,Japan
+710,740,1938,209863917,1,Standard $,China,Japan
+710,740,1939,313397563,1,Standard $,China,Japan
+710,740,1940,466289146,1,Standard $,China,Japan
+710,740,1946,6065119,1000,C.N. $,China,Japan
+710,750,1900,16816029,1,Hk Taels,China,India
+710,750,1901,28949358,1,Hk Taels,China,India
+710,750,1902,33037439,1,Hk Taels,China,India
+710,750,1903,33856203,1,Hk Taels,China,India
+710,750,1904,32219712,1,Hk Taels,China,India
+710,750,1905,34798437,1,Hk Taels,China,India
+710,750,1906,32318732,1,Hk Taels,China,India
+710,750,1907,32913847,1,Hk Taels,China,India
+710,750,1908,30498855,1,Hk Taels,China,India
+710,750,1909,40433828,1,Hk Taels,China,India
+710,750,1910,43958226,1,Hk Taels,China,India
+710,750,1911,37034039,1,Hk Taels,China,India
+710,750,1912,46645977,1,Hk Taels,China,India
+710,750,1913,48292190,1,Hk Taels,China,India
+710,750,1914,39149254,1,Hk Taels,China,India
+710,750,1915,40753196,1,Hk Taels,China,India
+710,750,1916,32754841,1,Hk Taels,China,India
+710,750,1917,26989184,1,Hk Taels,China,India
+710,750,1918,7988896,1,Hk Taels,China,India
+710,750,1919,26980705,1,Hk Taels,China,India
+710,750,1920,32494059,1,Hk Taels,China,India
+710,750,1921,35380635,1,Hk Taels,China,India
+710,750,1922,43139628,1,Hk Taels,China,India
+710,750,1923,55240982,1,Hk Taels,China,India
+710,750,1924,38827688,1,Hk Taels,China,India
+710,750,1925,48809844,1,Hk Taels,China,India
+710,750,1926,79191013,1,Hk Taels,China,India
+710,750,1927,42392614,1,Hk Taels,China,India
+710,750,1928,47415490,1,Hk Taels,China,India
+710,750,1929,54479464,1,Hk Taels,China,India
+710,750,1930,132168471,1,Hk Taels,China,India
+710,750,1931,85186304,1,Hk Taels,China,India
+710,750,1932,25434017,1,Hk Taels,China,India
+710,750,1933,34824623,1,Standard $,China,India
+710,750,1934,32207777,1,Standard $,China,India
+710,750,1935,35480347,1,Standard $,China,India
+710,750,1936,19481238,1,Standard $,China,India
+710,750,1937,12467142,1,Standard $,China,India
+710,750,1938,16214536,1,Standard $,China,India
+710,750,1939,119439345,1,Standard $,China,India
+710,750,1940,175275062,1,Standard $,China,India
+710,750,1946,131299903,1000,C.N. $,China,India
+710,751,1900,0,1,Hk Taels,China,French India
+710,751,1901,0,1,Hk Taels,China,French India
+710,751,1902,0,1,Hk Taels,China,French India
+710,751,1903,0,1,Hk Taels,China,French India
+710,751,1904,0,1,Hk Taels,China,French India
+710,751,1905,0,1,Hk Taels,China,French India
+710,751,1906,0,1,Hk Taels,China,French India
+710,751,1907,0,1,Hk Taels,China,French India
+710,751,1908,0,1,Hk Taels,China,French India
+710,751,1909,0,1,Hk Taels,China,French India
+710,751,1910,0,1,Hk Taels,China,French India
+710,751,1911,0,1,Hk Taels,China,French India
+710,751,1912,0,1,Hk Taels,China,French India
+710,751,1913,0,1,Hk Taels,China,French India
+710,751,1914,0,1,Hk Taels,China,French India
+710,751,1915,0,1,Hk Taels,China,French India
+710,751,1916,0,1,Hk Taels,China,French India
+710,751,1917,0,1,Hk Taels,China,French India
+710,751,1918,0,1,Hk Taels,China,French India
+710,751,1919,0,1,Hk Taels,China,French India
+710,751,1920,0,1,Hk Taels,China,French India
+710,751,1921,0,1,Hk Taels,China,French India
+710,751,1922,0,1,Hk Taels,China,French India
+710,751,1923,0,1,Hk Taels,China,French India
+710,751,1924,0,1,Hk Taels,China,French India
+710,751,1925,0,1,Hk Taels,China,French India
+710,751,1926,0,1,Hk Taels,China,French India
+710,751,1927,0,1,Hk Taels,China,French India
+710,751,1928,0,1,Hk Taels,China,French India
+710,751,1929,0,1,Hk Taels,China,French India
+710,751,1930,0,1,Hk Taels,China,French India
+710,751,1931,0,1,Hk Taels,China,French India
+710,751,1932,2123,1,Hk Taels,China,French India
+710,751,1933,286,1,Standard $,China,French India
+710,751,1934,160446,1,Standard $,China,French India
+710,751,1935,4323,1,Standard $,China,French India
+710,751,1936,0,1,Standard $,China,French India
+710,751,1937,372,1,Standard $,China,French India
+710,751,1938,0,1,Standard $,China,French India
+710,751,1939,1611,1,Standard $,China,French India
+710,751,1940,0,1,Standard $,China,French India
+710,751,1946,0,1000,C.N. $,China,French India
+710,775,1900,0,1,Hk Taels,China,Myanmar
+710,775,1901,0,1,Hk Taels,China,Myanmar
+710,775,1902,0,1,Hk Taels,China,Myanmar
+710,775,1903,0,1,Hk Taels,China,Myanmar
+710,775,1904,0,1,Hk Taels,China,Myanmar
+710,775,1905,0,1,Hk Taels,China,Myanmar
+710,775,1906,0,1,Hk Taels,China,Myanmar
+710,775,1907,0,1,Hk Taels,China,Myanmar
+710,775,1908,0,1,Hk Taels,China,Myanmar
+710,775,1909,0,1,Hk Taels,China,Myanmar
+710,775,1910,0,1,Hk Taels,China,Myanmar
+710,775,1911,0,1,Hk Taels,China,Myanmar
+710,775,1912,0,1,Hk Taels,China,Myanmar
+710,775,1913,0,1,Hk Taels,China,Myanmar
+710,775,1914,0,1,Hk Taels,China,Myanmar
+710,775,1915,0,1,Hk Taels,China,Myanmar
+710,775,1916,0,1,Hk Taels,China,Myanmar
+710,775,1917,0,1,Hk Taels,China,Myanmar
+710,775,1918,0,1,Hk Taels,China,Myanmar
+710,775,1919,0,1,Hk Taels,China,Myanmar
+710,775,1920,0,1,Hk Taels,China,Myanmar
+710,775,1921,0,1,Hk Taels,China,Myanmar
+710,775,1922,0,1,Hk Taels,China,Myanmar
+710,775,1923,0,1,Hk Taels,China,Myanmar
+710,775,1924,0,1,Hk Taels,China,Myanmar
+710,775,1925,0,1,Hk Taels,China,Myanmar
+710,775,1926,0,1,Hk Taels,China,Myanmar
+710,775,1927,0,1,Hk Taels,China,Myanmar
+710,775,1928,0,1,Hk Taels,China,Myanmar
+710,775,1929,0,1,Hk Taels,China,Myanmar
+710,775,1930,0,1,Hk Taels,China,Myanmar
+710,775,1931,0,1,Hk Taels,China,Myanmar
+710,775,1932,39736214,1,Hk Taels,China,Myanmar
+710,775,1933,37414839,1,Standard $,China,Myanmar
+710,775,1934,11067850,1,Standard $,China,Myanmar
+710,775,1935,0,1,Standard $,China,Myanmar
+710,775,1936,5237572,1,Standard $,China,Myanmar
+710,775,1937,8220289,1,Standard $,China,Myanmar
+710,775,1938,12801027,1,Standard $,China,Myanmar
+710,775,1939,6465946,1,Standard $,China,Myanmar
+710,775,1940,13267110,1,Standard $,China,Myanmar
+710,775,1946,1489738,1000,C.N. $,China,Myanmar
+710,780,1900,0,1,Hk Taels,China,Sri Lanka
+710,780,1901,0,1,Hk Taels,China,Sri Lanka
+710,780,1902,0,1,Hk Taels,China,Sri Lanka
+710,780,1903,0,1,Hk Taels,China,Sri Lanka
+710,780,1904,0,1,Hk Taels,China,Sri Lanka
+710,780,1905,0,1,Hk Taels,China,Sri Lanka
+710,780,1906,0,1,Hk Taels,China,Sri Lanka
+710,780,1907,0,1,Hk Taels,China,Sri Lanka
+710,780,1908,0,1,Hk Taels,China,Sri Lanka
+710,780,1909,0,1,Hk Taels,China,Sri Lanka
+710,780,1910,0,1,Hk Taels,China,Sri Lanka
+710,780,1911,0,1,Hk Taels,China,Sri Lanka
+710,780,1912,0,1,Hk Taels,China,Sri Lanka
+710,780,1913,0,1,Hk Taels,China,Sri Lanka
+710,780,1914,0,1,Hk Taels,China,Sri Lanka
+710,780,1915,0,1,Hk Taels,China,Sri Lanka
+710,780,1916,0,1,Hk Taels,China,Sri Lanka
+710,780,1917,0,1,Hk Taels,China,Sri Lanka
+710,780,1918,0,1,Hk Taels,China,Sri Lanka
+710,780,1919,0,1,Hk Taels,China,Sri Lanka
+710,780,1920,0,1,Hk Taels,China,Sri Lanka
+710,780,1921,0,1,Hk Taels,China,Sri Lanka
+710,780,1922,0,1,Hk Taels,China,Sri Lanka
+710,780,1923,0,1,Hk Taels,China,Sri Lanka
+710,780,1924,0,1,Hk Taels,China,Sri Lanka
+710,780,1925,0,1,Hk Taels,China,Sri Lanka
+710,780,1926,0,1,Hk Taels,China,Sri Lanka
+710,780,1927,0,1,Hk Taels,China,Sri Lanka
+710,780,1928,0,1,Hk Taels,China,Sri Lanka
+710,780,1929,0,1,Hk Taels,China,Sri Lanka
+710,780,1930,0,1,Hk Taels,China,Sri Lanka
+710,780,1931,0,1,Hk Taels,China,Sri Lanka
+710,780,1932,184254,1,Hk Taels,China,Sri Lanka
+710,780,1933,201861,1,Standard $,China,Sri Lanka
+710,780,1934,241053,1,Standard $,China,Sri Lanka
+710,780,1935,213928,1,Standard $,China,Sri Lanka
+710,780,1936,243040,1,Standard $,China,Sri Lanka
+710,780,1937,255009,1,Standard $,China,Sri Lanka
+710,780,1938,261034,1,Standard $,China,Sri Lanka
+710,780,1939,278791,1,Standard $,China,Sri Lanka
+710,780,1940,461278,1,Standard $,China,Sri Lanka
+710,780,1946,170389,1000,C.N. $,China,Sri Lanka
+710,800,1900,5669,1,Hk Taels,China,Thailand
+710,800,1901,141994,1,Hk Taels,China,Thailand
+710,800,1902,980691,1,Hk Taels,China,Thailand
+710,800,1903,116774,1,Hk Taels,China,Thailand
+710,800,1904,258259,1,Hk Taels,China,Thailand
+710,800,1905,247847,1,Hk Taels,China,Thailand
+710,800,1906,477585,1,Hk Taels,China,Thailand
+710,800,1907,831355,1,Hk Taels,China,Thailand
+710,800,1908,46802,1,Hk Taels,China,Thailand
+710,800,1909,88405,1,Hk Taels,China,Thailand
+710,800,1910,569668,1,Hk Taels,China,Thailand
+710,800,1911,69228,1,Hk Taels,China,Thailand
+710,800,1912,49865,1,Hk Taels,China,Thailand
+710,800,1913,52247,1,Hk Taels,China,Thailand
+710,800,1914,98872,1,Hk Taels,China,Thailand
+710,800,1915,506343,1,Hk Taels,China,Thailand
+710,800,1916,552346,1,Hk Taels,China,Thailand
+710,800,1917,553852,1,Hk Taels,China,Thailand
+710,800,1918,395360,1,Hk Taels,China,Thailand
+710,800,1919,422060,1,Hk Taels,China,Thailand
+710,800,1920,179164,1,Hk Taels,China,Thailand
+710,800,1921,2262976,1,Hk Taels,China,Thailand
+710,800,1922,3023508,1,Hk Taels,China,Thailand
+710,800,1923,6259635,1,Hk Taels,China,Thailand
+710,800,1924,2377918,1,Hk Taels,China,Thailand
+710,800,1925,10550065,1,Hk Taels,China,Thailand
+710,800,1926,16602099,1,Hk Taels,China,Thailand
+710,800,1927,8608191,1,Hk Taels,China,Thailand
+710,800,1928,6127981,1,Hk Taels,China,Thailand
+710,800,1929,4192255,1,Hk Taels,China,Thailand
+710,800,1930,3441440,1,Hk Taels,China,Thailand
+710,800,1931,4950233,1,Hk Taels,China,Thailand
+710,800,1932,39918192,1,Hk Taels,China,Thailand
+710,800,1933,62066221,1,Standard $,China,Thailand
+710,800,1934,32923420,1,Standard $,China,Thailand
+710,800,1935,27187301,1,Standard $,China,Thailand
+710,800,1936,18868328,1,Standard $,China,Thailand
+710,800,1937,15832867,1,Standard $,China,Thailand
+710,800,1938,24938591,1,Standard $,China,Thailand
+710,800,1939,20966245,1,Standard $,China,Thailand
+710,800,1940,47867962,1,Standard $,China,Thailand
+710,800,1946,6640631,1000,C.N. $,China,Thailand
+710,810,1900,986445,1,Hk Taels,China,French Indo-China
+710,810,1901,887459,1,Hk Taels,China,French Indo-China
+710,810,1902,1851104,1,Hk Taels,China,French Indo-China
+710,810,1903,1731376,1,Hk Taels,China,French Indo-China
+710,810,1904,1754750,1,Hk Taels,China,French Indo-China
+710,810,1905,1653572,1,Hk Taels,China,French Indo-China
+710,810,1906,2669174,1,Hk Taels,China,French Indo-China
+710,810,1907,9216818,1,Hk Taels,China,French Indo-China
+710,810,1908,2687199,1,Hk Taels,China,French Indo-China
+710,810,1909,6044872,1,Hk Taels,China,French Indo-China
+710,810,1910,5981010,1,Hk Taels,China,French Indo-China
+710,810,1911,3382835,1,Hk Taels,China,French Indo-China
+710,810,1912,3319194,1,Hk Taels,China,French Indo-China
+710,810,1913,4782011,1,Hk Taels,China,French Indo-China
+710,810,1914,5617732,1,Hk Taels,China,French Indo-China
+710,810,1915,3249764,1,Hk Taels,China,French Indo-China
+710,810,1916,3584751,1,Hk Taels,China,French Indo-China
+710,810,1917,2461976,1,Hk Taels,China,French Indo-China
+710,810,1918,2759281,1,Hk Taels,China,French Indo-China
+710,810,1919,2879927,1,Hk Taels,China,French Indo-China
+710,810,1920,3750104,1,Hk Taels,China,French Indo-China
+710,810,1921,5161467,1,Hk Taels,China,French Indo-China
+710,810,1922,12062868,1,Hk Taels,China,French Indo-China
+710,810,1923,18438662,1,Hk Taels,China,French Indo-China
+710,810,1924,10183971,1,Hk Taels,China,French Indo-China
+710,810,1925,15808515,1,Hk Taels,China,French Indo-China
+710,810,1926,51795772,1,Hk Taels,China,French Indo-China
+710,810,1927,32510245,1,Hk Taels,China,French Indo-China
+710,810,1928,10657519,1,Hk Taels,China,French Indo-China
+710,810,1929,14522375,1,Hk Taels,China,French Indo-China
+710,810,1930,28181664,1,Hk Taels,China,French Indo-China
+710,810,1931,11483013,1,Hk Taels,China,French Indo-China
+710,810,1932,52380321,1,Hk Taels,China,French Indo-China
+710,810,1933,75525956,1,Standard $,China,French Indo-China
+710,810,1934,41605722,1,Standard $,China,French Indo-China
+710,810,1935,59972920,1,Standard $,China,French Indo-China
+710,810,1936,18047674,1,Standard $,China,French Indo-China
+710,810,1937,29990707,1,Standard $,China,French Indo-China
+710,810,1938,27351295,1,Standard $,China,French Indo-China
+710,810,1939,28507552,1,Standard $,China,French Indo-China
+710,810,1940,138125749,1,Standard $,China,French Indo-China
+710,810,1946,9377344,1000,C.N. $,China,French Indo-China
+710,820,1900,2625258,1,Hk Taels,China,Malaysia
+710,820,1901,3828142,1,Hk Taels,China,Malaysia
+710,820,1902,4108926,1,Hk Taels,China,Malaysia
+710,820,1903,3803322,1,Hk Taels,China,Malaysia
+710,820,1904,4061919,1,Hk Taels,China,Malaysia
+710,820,1905,4061088,1,Hk Taels,China,Malaysia
+710,820,1906,3662427,1,Hk Taels,China,Malaysia
+710,820,1907,5347638,1,Hk Taels,China,Malaysia
+710,820,1908,5418410,1,Hk Taels,China,Malaysia
+710,820,1909,6778823,1,Hk Taels,China,Malaysia
+710,820,1910,8308521,1,Hk Taels,China,Malaysia
+710,820,1911,7735880,1,Hk Taels,China,Malaysia
+710,820,1912,8604904,1,Hk Taels,China,Malaysia
+710,820,1913,8935416,1,Hk Taels,China,Malaysia
+710,820,1914,7663720,1,Hk Taels,China,Malaysia
+710,820,1915,5381386,1,Hk Taels,China,Malaysia
+710,820,1916,4602845,1,Hk Taels,China,Malaysia
+710,820,1917,6877792,1,Hk Taels,China,Malaysia
+710,820,1918,10331544,1,Hk Taels,China,Malaysia
+710,820,1919,10115656,1,Hk Taels,China,Malaysia
+710,820,1920,7803083,1,Hk Taels,China,Malaysia
+710,820,1921,8031246,1,Hk Taels,China,Malaysia
+710,820,1922,8168720,1,Hk Taels,China,Malaysia
+710,820,1923,9213722,1,Hk Taels,China,Malaysia
+710,820,1924,9321664,1,Hk Taels,China,Malaysia
+710,820,1925,9480650,1,Hk Taels,China,Malaysia
+710,820,1926,11339947,1,Hk Taels,China,Malaysia
+710,820,1927,10266488,1,Hk Taels,China,Malaysia
+710,820,1928,12510506,1,Hk Taels,China,Malaysia
+710,820,1929,11882494,1,Hk Taels,China,Malaysia
+710,820,1930,9588686,1,Hk Taels,China,Malaysia
+710,820,1931,8851273,1,Hk Taels,China,Malaysia
+710,820,1932,0,1,Hk Taels,China,Malaysia
+710,820,1933,0,1,Standard $,China,Malaysia
+710,820,1934,0,1,Standard $,China,Malaysia
+710,820,1935,0,1,Standard $,China,Malaysia
+710,820,1936,0,1,Standard $,China,Malaysia
+710,820,1937,0,1,Standard $,China,Malaysia
+710,820,1938,0,1,Standard $,China,Malaysia
+710,820,1939,0,1,Standard $,China,Malaysia
+710,820,1940,0,1,Standard $,China,Malaysia
+710,820,1946,0,1000,C.N. $,China,Malaysia
+710,823,1900,0,1,Hk Taels,China,British Borneo
+710,823,1901,0,1,Hk Taels,China,British Borneo
+710,823,1902,0,1,Hk Taels,China,British Borneo
+710,823,1903,0,1,Hk Taels,China,British Borneo
+710,823,1904,0,1,Hk Taels,China,British Borneo
+710,823,1905,0,1,Hk Taels,China,British Borneo
+710,823,1906,0,1,Hk Taels,China,British Borneo
+710,823,1907,0,1,Hk Taels,China,British Borneo
+710,823,1908,0,1,Hk Taels,China,British Borneo
+710,823,1909,0,1,Hk Taels,China,British Borneo
+710,823,1910,0,1,Hk Taels,China,British Borneo
+710,823,1911,0,1,Hk Taels,China,British Borneo
+710,823,1912,0,1,Hk Taels,China,British Borneo
+710,823,1913,0,1,Hk Taels,China,British Borneo
+710,823,1914,0,1,Hk Taels,China,British Borneo
+710,823,1915,0,1,Hk Taels,China,British Borneo
+710,823,1916,0,1,Hk Taels,China,British Borneo
+710,823,1917,0,1,Hk Taels,China,British Borneo
+710,823,1918,0,1,Hk Taels,China,British Borneo
+710,823,1919,0,1,Hk Taels,China,British Borneo
+710,823,1920,0,1,Hk Taels,China,British Borneo
+710,823,1921,0,1,Hk Taels,China,British Borneo
+710,823,1922,0,1,Hk Taels,China,British Borneo
+710,823,1923,0,1,Hk Taels,China,British Borneo
+710,823,1924,0,1,Hk Taels,China,British Borneo
+710,823,1925,0,1,Hk Taels,China,British Borneo
+710,823,1926,0,1,Hk Taels,China,British Borneo
+710,823,1927,0,1,Hk Taels,China,British Borneo
+710,823,1928,0,1,Hk Taels,China,British Borneo
+710,823,1929,0,1,Hk Taels,China,British Borneo
+710,823,1930,0,1,Hk Taels,China,British Borneo
+710,823,1931,1600629,1,Hk Taels,China,British Borneo
+710,823,1932,1635146,1,Hk Taels,China,British Borneo
+710,823,1933,2222342,1,Standard $,China,British Borneo
+710,823,1934,1475765,1,Standard $,China,British Borneo
+710,823,1935,2113124,1,Standard $,China,British Borneo
+710,823,1936,3349935,1,Standard $,China,British Borneo
+710,823,1937,3362081,1,Standard $,China,British Borneo
+710,823,1938,697216,1,Standard $,China,British Borneo
+710,823,1939,724449,1,Standard $,China,British Borneo
+710,823,1940,628220,1,Standard $,China,British Borneo
+710,823,1946,1423582,1000,C.N. $,China,British Borneo
+710,840,1900,12815,1,Hk Taels,China,Philippines
+710,840,1901,13615,1,Hk Taels,China,Philippines
+710,840,1902,857768,1,Hk Taels,China,Philippines
+710,840,1903,513999,1,Hk Taels,China,Philippines
+710,840,1904,775348,1,Hk Taels,China,Philippines
+710,840,1905,825692,1,Hk Taels,China,Philippines
+710,840,1906,2384684,1,Hk Taels,China,Philippines
+710,840,1907,2576953,1,Hk Taels,China,Philippines
+710,840,1908,1806726,1,Hk Taels,China,Philippines
+710,840,1909,1660033,1,Hk Taels,China,Philippines
+710,840,1910,532114,1,Hk Taels,China,Philippines
+710,840,1911,416238,1,Hk Taels,China,Philippines
+710,840,1912,682229,1,Hk Taels,China,Philippines
+710,840,1913,1392619,1,Hk Taels,China,Philippines
+710,840,1914,1944177,1,Hk Taels,China,Philippines
+710,840,1915,3644483,1,Hk Taels,China,Philippines
+710,840,1916,2292875,1,Hk Taels,China,Philippines
+710,840,1917,1706679,1,Hk Taels,China,Philippines
+710,840,1918,3193524,1,Hk Taels,China,Philippines
+710,840,1919,2547911,1,Hk Taels,China,Philippines
+710,840,1920,1498024,1,Hk Taels,China,Philippines
+710,840,1921,3650076,1,Hk Taels,China,Philippines
+710,840,1922,3196295,1,Hk Taels,China,Philippines
+710,840,1923,1360156,1,Hk Taels,China,Philippines
+710,840,1924,3318302,1,Hk Taels,China,Philippines
+710,840,1925,5381408,1,Hk Taels,China,Philippines
+710,840,1926,5487400,1,Hk Taels,China,Philippines
+710,840,1927,4685209,1,Hk Taels,China,Philippines
+710,840,1928,5775932,1,Hk Taels,China,Philippines
+710,840,1929,5173385,1,Hk Taels,China,Philippines
+710,840,1930,4382623,1,Hk Taels,China,Philippines
+710,840,1931,4120929,1,Hk Taels,China,Philippines
+710,840,1932,2479555,1,Hk Taels,China,Philippines
+710,840,1933,4254089,1,Standard $,China,Philippines
+710,840,1934,4962123,1,Standard $,China,Philippines
+710,840,1935,4853531,1,Standard $,China,Philippines
+710,840,1936,4019120,1,Standard $,China,Philippines
+710,840,1937,3882655,1,Standard $,China,Philippines
+710,840,1938,3521303,1,Standard $,China,Philippines
+710,840,1939,4148350,1,Standard $,China,Philippines
+710,840,1940,5998943,1,Standard $,China,Philippines
+710,840,1946,7876699,1000,C.N. $,China,Philippines
+710,900,1900,0,1,Hk Taels,China,Australia
+710,900,1901,0,1,Hk Taels,China,Australia
+710,900,1902,0,1,Hk Taels,China,Australia
+710,900,1903,0,1,Hk Taels,China,Australia
+710,900,1904,0,1,Hk Taels,China,Australia
+710,900,1905,0,1,Hk Taels,China,Australia
+710,900,1906,0,1,Hk Taels,China,Australia
+710,900,1907,0,1,Hk Taels,China,Australia
+710,900,1908,0,1,Hk Taels,China,Australia
+710,900,1909,0,1,Hk Taels,China,Australia
+710,900,1910,0,1,Hk Taels,China,Australia
+710,900,1911,0,1,Hk Taels,China,Australia
+710,900,1912,0,1,Hk Taels,China,Australia
+710,900,1913,0,1,Hk Taels,China,Australia
+710,900,1914,0,1,Hk Taels,China,Australia
+710,900,1915,0,1,Hk Taels,China,Australia
+710,900,1916,0,1,Hk Taels,China,Australia
+710,900,1917,0,1,Hk Taels,China,Australia
+710,900,1918,0,1,Hk Taels,China,Australia
+710,900,1919,0,1,Hk Taels,China,Australia
+710,900,1920,0,1,Hk Taels,China,Australia
+710,900,1921,0,1,Hk Taels,China,Australia
+710,900,1922,0,1,Hk Taels,China,Australia
+710,900,1923,0,1,Hk Taels,China,Australia
+710,900,1924,0,1,Hk Taels,China,Australia
+710,900,1925,0,1,Hk Taels,China,Australia
+710,900,1926,0,1,Hk Taels,China,Australia
+710,900,1927,0,1,Hk Taels,China,Australia
+710,900,1928,0,1,Hk Taels,China,Australia
+710,900,1929,0,1,Hk Taels,China,Australia
+710,900,1930,0,1,Hk Taels,China,Australia
+710,900,1931,61167633,1,Hk Taels,China,Australia
+710,900,1932,40663865,1,Hk Taels,China,Australia
+710,900,1933,85730581,1,Standard $,China,Australia
+710,900,1934,10959904,1,Standard $,China,Australia
+710,900,1935,37048921,1,Standard $,China,Australia
+710,900,1936,15989594,1,Standard $,China,Australia
+710,900,1937,16336678,1,Standard $,China,Australia
+710,900,1938,28065282,1,Standard $,China,Australia
+710,900,1939,68679787,1,Standard $,China,Australia
+710,900,1940,85762100,1,Standard $,China,Australia
+710,900,1946,20802017,1000,C.N. $,China,Australia
+710,920,1900,0,1,Hk Taels,China,New Zealand
+710,920,1901,0,1,Hk Taels,China,New Zealand
+710,920,1902,0,1,Hk Taels,China,New Zealand
+710,920,1903,0,1,Hk Taels,China,New Zealand
+710,920,1904,0,1,Hk Taels,China,New Zealand
+710,920,1905,0,1,Hk Taels,China,New Zealand
+710,920,1906,0,1,Hk Taels,China,New Zealand
+710,920,1907,0,1,Hk Taels,China,New Zealand
+710,920,1908,0,1,Hk Taels,China,New Zealand
+710,920,1909,0,1,Hk Taels,China,New Zealand
+710,920,1910,0,1,Hk Taels,China,New Zealand
+710,920,1911,0,1,Hk Taels,China,New Zealand
+710,920,1912,0,1,Hk Taels,China,New Zealand
+710,920,1913,0,1,Hk Taels,China,New Zealand
+710,920,1914,0,1,Hk Taels,China,New Zealand
+710,920,1915,0,1,Hk Taels,China,New Zealand
+710,920,1916,0,1,Hk Taels,China,New Zealand
+710,920,1917,0,1,Hk Taels,China,New Zealand
+710,920,1918,0,1,Hk Taels,China,New Zealand
+710,920,1919,0,1,Hk Taels,China,New Zealand
+710,920,1920,0,1,Hk Taels,China,New Zealand
+710,920,1921,0,1,Hk Taels,China,New Zealand
+710,920,1922,0,1,Hk Taels,China,New Zealand
+710,920,1923,0,1,Hk Taels,China,New Zealand
+710,920,1924,0,1,Hk Taels,China,New Zealand
+710,920,1925,0,1,Hk Taels,China,New Zealand
+710,920,1926,0,1,Hk Taels,China,New Zealand
+710,920,1927,0,1,Hk Taels,China,New Zealand
+710,920,1928,0,1,Hk Taels,China,New Zealand
+710,920,1929,0,1,Hk Taels,China,New Zealand
+710,920,1930,0,1,Hk Taels,China,New Zealand
+710,920,1931,160769,1,Hk Taels,China,New Zealand
+710,920,1932,122322,1,Hk Taels,China,New Zealand
+710,920,1933,304083,1,Standard $,China,New Zealand
+710,920,1934,247797,1,Standard $,China,New Zealand
+710,920,1935,142088,1,Standard $,China,New Zealand
+710,920,1936,340494,1,Standard $,China,New Zealand
+710,920,1937,1306059,1,Standard $,China,New Zealand
+710,920,1938,353616,1,Standard $,China,New Zealand
+710,920,1939,1836856,1,Standard $,China,New Zealand
+710,920,1940,124279,1,Standard $,China,New Zealand
+710,920,1946,335017,1000,C.N. $,China,New Zealand
+710,1065,1900,0,1,Hk Taels,China,Curacao
+710,1065,1901,0,1,Hk Taels,China,Curacao
+710,1065,1902,0,1,Hk Taels,China,Curacao
+710,1065,1903,0,1,Hk Taels,China,Curacao
+710,1065,1904,0,1,Hk Taels,China,Curacao
+710,1065,1905,0,1,Hk Taels,China,Curacao
+710,1065,1906,0,1,Hk Taels,China,Curacao
+710,1065,1907,0,1,Hk Taels,China,Curacao
+710,1065,1908,0,1,Hk Taels,China,Curacao
+710,1065,1909,0,1,Hk Taels,China,Curacao
+710,1065,1910,0,1,Hk Taels,China,Curacao
+710,1065,1911,0,1,Hk Taels,China,Curacao
+710,1065,1912,0,1,Hk Taels,China,Curacao
+710,1065,1913,0,1,Hk Taels,China,Curacao
+710,1065,1914,0,1,Hk Taels,China,Curacao
+710,1065,1915,0,1,Hk Taels,China,Curacao
+710,1065,1916,0,1,Hk Taels,China,Curacao
+710,1065,1917,0,1,Hk Taels,China,Curacao
+710,1065,1918,0,1,Hk Taels,China,Curacao
+710,1065,1919,0,1,Hk Taels,China,Curacao
+710,1065,1920,0,1,Hk Taels,China,Curacao
+710,1065,1921,0,1,Hk Taels,China,Curacao
+710,1065,1922,0,1,Hk Taels,China,Curacao
+710,1065,1923,0,1,Hk Taels,China,Curacao
+710,1065,1924,0,1,Hk Taels,China,Curacao
+710,1065,1925,0,1,Hk Taels,China,Curacao
+710,1065,1926,0,1,Hk Taels,China,Curacao
+710,1065,1927,0,1,Hk Taels,China,Curacao
+710,1065,1928,0,1,Hk Taels,China,Curacao
+710,1065,1929,0,1,Hk Taels,China,Curacao
+710,1065,1930,0,1,Hk Taels,China,Curacao
+710,1065,1931,0,1,Hk Taels,China,Curacao
+710,1065,1932,0,1,Hk Taels,China,Curacao
+710,1065,1933,3340501,1,Standard $,China,Curacao
+710,1065,1934,3872690,1,Standard $,China,Curacao
+710,1065,1935,865932,1,Standard $,China,Curacao
+710,1065,1936,108789,1,Standard $,China,Curacao
+710,1065,1937,0,1,Standard $,China,Curacao
+710,1065,1938,0,1,Standard $,China,Curacao
+710,1065,1939,0,1,Standard $,China,Curacao
+710,1065,1940,0,1,Standard $,China,Curacao
+710,1065,1946,0,1000,C.N. $,China,Curacao
+710,2115,1900,0,1,Hk Taels,China,Belgian Africa
+710,2115,1901,0,1,Hk Taels,China,Belgian Africa
+710,2115,1902,0,1,Hk Taels,China,Belgian Africa
+710,2115,1903,0,1,Hk Taels,China,Belgian Africa
+710,2115,1904,0,1,Hk Taels,China,Belgian Africa
+710,2115,1905,0,1,Hk Taels,China,Belgian Africa
+710,2115,1906,0,1,Hk Taels,China,Belgian Africa
+710,2115,1907,0,1,Hk Taels,China,Belgian Africa
+710,2115,1908,0,1,Hk Taels,China,Belgian Africa
+710,2115,1909,0,1,Hk Taels,China,Belgian Africa
+710,2115,1910,0,1,Hk Taels,China,Belgian Africa
+710,2115,1911,0,1,Hk Taels,China,Belgian Africa
+710,2115,1912,0,1,Hk Taels,China,Belgian Africa
+710,2115,1913,0,1,Hk Taels,China,Belgian Africa
+710,2115,1914,0,1,Hk Taels,China,Belgian Africa
+710,2115,1915,0,1,Hk Taels,China,Belgian Africa
+710,2115,1916,0,1,Hk Taels,China,Belgian Africa
+710,2115,1917,0,1,Hk Taels,China,Belgian Africa
+710,2115,1918,0,1,Hk Taels,China,Belgian Africa
+710,2115,1919,0,1,Hk Taels,China,Belgian Africa
+710,2115,1920,0,1,Hk Taels,China,Belgian Africa
+710,2115,1921,0,1,Hk Taels,China,Belgian Africa
+710,2115,1922,0,1,Hk Taels,China,Belgian Africa
+710,2115,1923,0,1,Hk Taels,China,Belgian Africa
+710,2115,1924,0,1,Hk Taels,China,Belgian Africa
+710,2115,1925,0,1,Hk Taels,China,Belgian Africa
+710,2115,1926,0,1,Hk Taels,China,Belgian Africa
+710,2115,1927,0,1,Hk Taels,China,Belgian Africa
+710,2115,1928,0,1,Hk Taels,China,Belgian Africa
+710,2115,1929,0,1,Hk Taels,China,Belgian Africa
+710,2115,1930,0,1,Hk Taels,China,Belgian Africa
+710,2115,1931,0,1,Hk Taels,China,Belgian Africa
+710,2115,1932,2089,1,Hk Taels,China,Belgian Africa
+710,2115,1933,57953,1,Standard $,China,Belgian Africa
+710,2115,1934,0,1,Standard $,China,Belgian Africa
+710,2115,1935,13412,1,Standard $,China,Belgian Africa
+710,2115,1936,56635,1,Standard $,China,Belgian Africa
+710,2115,1937,30929,1,Standard $,China,Belgian Africa
+710,2115,1938,52132,1,Standard $,China,Belgian Africa
+710,2115,1939,106795,1,Standard $,China,Belgian Africa
+710,2115,1940,255367,1,Standard $,China,Belgian Africa
+710,2115,1946,0,1000,C.N. $,China,Belgian Africa
+710,5201,1900,0,1,Hk Taels,China,Italian East Africa
+710,5201,1901,0,1,Hk Taels,China,Italian East Africa
+710,5201,1902,0,1,Hk Taels,China,Italian East Africa
+710,5201,1903,0,1,Hk Taels,China,Italian East Africa
+710,5201,1904,0,1,Hk Taels,China,Italian East Africa
+710,5201,1905,0,1,Hk Taels,China,Italian East Africa
+710,5201,1906,0,1,Hk Taels,China,Italian East Africa
+710,5201,1907,0,1,Hk Taels,China,Italian East Africa
+710,5201,1908,0,1,Hk Taels,China,Italian East Africa
+710,5201,1909,0,1,Hk Taels,China,Italian East Africa
+710,5201,1910,0,1,Hk Taels,China,Italian East Africa
+710,5201,1911,0,1,Hk Taels,China,Italian East Africa
+710,5201,1912,0,1,Hk Taels,China,Italian East Africa
+710,5201,1913,0,1,Hk Taels,China,Italian East Africa
+710,5201,1914,0,1,Hk Taels,China,Italian East Africa
+710,5201,1915,0,1,Hk Taels,China,Italian East Africa
+710,5201,1916,0,1,Hk Taels,China,Italian East Africa
+710,5201,1917,0,1,Hk Taels,China,Italian East Africa
+710,5201,1918,0,1,Hk Taels,China,Italian East Africa
+710,5201,1919,0,1,Hk Taels,China,Italian East Africa
+710,5201,1920,0,1,Hk Taels,China,Italian East Africa
+710,5201,1921,0,1,Hk Taels,China,Italian East Africa
+710,5201,1922,0,1,Hk Taels,China,Italian East Africa
+710,5201,1923,0,1,Hk Taels,China,Italian East Africa
+710,5201,1924,0,1,Hk Taels,China,Italian East Africa
+710,5201,1925,0,1,Hk Taels,China,Italian East Africa
+710,5201,1926,0,1,Hk Taels,China,Italian East Africa
+710,5201,1927,0,1,Hk Taels,China,Italian East Africa
+710,5201,1928,0,1,Hk Taels,China,Italian East Africa
+710,5201,1929,0,1,Hk Taels,China,Italian East Africa
+710,5201,1930,0,1,Hk Taels,China,Italian East Africa
+710,5201,1931,0,1,Hk Taels,China,Italian East Africa
+710,5201,1932,293,1,Hk Taels,China,Italian East Africa
+710,5201,1933,0,1,Standard $,China,Italian East Africa
+710,5201,1934,0,1,Standard $,China,Italian East Africa
+710,5201,1935,7410,1,Standard $,China,Italian East Africa
+710,5201,1936,0,1,Standard $,China,Italian East Africa
+710,5201,1937,0,1,Standard $,China,Italian East Africa
+710,5201,1938,0,1,Standard $,China,Italian East Africa
+710,5201,1939,0,1,Standard $,China,Italian East Africa
+710,5201,1940,0,1,Standard $,China,Italian East Africa
+710,5201,1946,0,1000,C.N. $,China,Italian East Africa
+710,6203,1900,0,1,Hk Taels,China,Tripoli
+710,6203,1901,0,1,Hk Taels,China,Tripoli
+710,6203,1902,0,1,Hk Taels,China,Tripoli
+710,6203,1903,0,1,Hk Taels,China,Tripoli
+710,6203,1904,0,1,Hk Taels,China,Tripoli
+710,6203,1905,0,1,Hk Taels,China,Tripoli
+710,6203,1906,0,1,Hk Taels,China,Tripoli
+710,6203,1907,0,1,Hk Taels,China,Tripoli
+710,6203,1908,0,1,Hk Taels,China,Tripoli
+710,6203,1909,0,1,Hk Taels,China,Tripoli
+710,6203,1910,0,1,Hk Taels,China,Tripoli
+710,6203,1911,0,1,Hk Taels,China,Tripoli
+710,6203,1912,0,1,Hk Taels,China,Tripoli
+710,6203,1913,0,1,Hk Taels,China,Tripoli
+710,6203,1914,0,1,Hk Taels,China,Tripoli
+710,6203,1915,0,1,Hk Taels,China,Tripoli
+710,6203,1916,0,1,Hk Taels,China,Tripoli
+710,6203,1917,0,1,Hk Taels,China,Tripoli
+710,6203,1918,0,1,Hk Taels,China,Tripoli
+710,6203,1919,0,1,Hk Taels,China,Tripoli
+710,6203,1920,0,1,Hk Taels,China,Tripoli
+710,6203,1921,0,1,Hk Taels,China,Tripoli
+710,6203,1922,0,1,Hk Taels,China,Tripoli
+710,6203,1923,0,1,Hk Taels,China,Tripoli
+710,6203,1924,0,1,Hk Taels,China,Tripoli
+710,6203,1925,0,1,Hk Taels,China,Tripoli
+710,6203,1926,0,1,Hk Taels,China,Tripoli
+710,6203,1927,0,1,Hk Taels,China,Tripoli
+710,6203,1928,0,1,Hk Taels,China,Tripoli
+710,6203,1929,0,1,Hk Taels,China,Tripoli
+710,6203,1930,0,1,Hk Taels,China,Tripoli
+710,6203,1931,0,1,Hk Taels,China,Tripoli
+710,6203,1932,104,1,Hk Taels,China,Tripoli
+710,6203,1933,110,1,Standard $,China,Tripoli
+710,6203,1934,0,1,Standard $,China,Tripoli
+710,6203,1935,0,1,Standard $,China,Tripoli
+710,6203,1936,0,1,Standard $,China,Tripoli
+710,6203,1937,113,1,Standard $,China,Tripoli
+710,6203,1938,0,1,Standard $,China,Tripoli
+710,6203,1939,0,1,Standard $,China,Tripoli
+710,6203,1940,0,1,Standard $,China,Tripoli
+710,6203,1946,0,1000,C.N. $,China,Tripoli
+710,,1900,235805925,1,Hk Taels,China,
+710,,1901,297299066,1,Hk Taels,China,
+710,,1902,348298875,1,Hk Taels,China,
+710,,1903,365991780,1,Hk Taels,China,
+710,,1904,390659401,1,Hk Taels,China,
+710,,1905,470272756,1,Hk Taels,China,
+710,,1906,441419094,1,Hk Taels,China,
+710,,1907,442057770,1,Hk Taels,China,
+710,,1908,422671552,1,Hk Taels,China,
+710,,1909,442954880,1,Hk Taels,China,
+710,,1910,490544586,1,Hk Taels,China,
+710,,1911,496778487,1,Hk Taels,China,
+710,,1912,499308276,1,Hk Taels,China,
+710,,1913,600565763,1,Hk Taels,China,
+710,,1914,598344290,1,Hk Taels,China,
+710,,1915,490114868,1,Hk Taels,China,
+710,,1916,546279139,1,Hk Taels,China,
+710,,1917,587321532,1,Hk Taels,China,
+710,,1918,591837825,1,Hk Taels,China,
+710,,1919,692833066,1,Hk Taels,China,
+710,,1920,822848463,1,Hk Taels,China,
+710,,1921,965999761,1,Hk Taels,China,
+710,,1922,1004678344,1,Hk Taels,China,
+710,,1923,972755532,1,Hk Taels,China,
+710,,1924,1077776004,1,Hk Taels,China,
+710,,1925,1016157004,1,Hk Taels,China,
+710,,1926,1193500491,1,Hk Taels,China,
+710,,1927,1072478342,1,Hk Taels,China,
+710,,1928,1271021258,1,Hk Taels,China,
+710,,1929,1351286108,1,Hk Taels,China,
+710,,1930,1392583478,1,Hk Taels,China,
+710,,1931,1510051998,1,Hk Taels,China,
+710,,1932,1141017965,1,Hk Taels,China,
+710,,1933,1487604847,1,Standard $,China,
+710,,1934,1138078249,1,Standard $,China,
+710,,1935,1014755158,1,Standard $,China,
+710,,1936,1049830166,1,Standard $,China,
+710,,1937,1064713396,1,Standard $,China,
+710,,1938,991373848,1,Standard $,China,
+710,,1939,1552386567,1,Standard $,China,
+710,,1940,2294685295,1,Standard $,China,
+710,,1946,1543468328,1000,C.N. $,China,

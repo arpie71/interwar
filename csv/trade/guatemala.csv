@@ -1,0 +1,1680 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+90,2,1920,9437207.92,1,Oro Americano,Guatemala,United States
+90,2,1921,8161475,1,Quetzales,Guatemala,United States
+90,2,1922,6444499,1,Quetzales,Guatemala,United States
+90,2,1923,8149359,1,Quetzales,Guatemala,United States
+90,2,1924,11498681,1,Quetzales,Guatemala,United States
+90,2,1925,13851677,1,Quetzales,Guatemala,United States
+90,2,1926,11407106.29,1,Oro Americano,Guatemala,United States
+90,2,1927,10006451.92,1,Oro Americano,Guatemala,United States
+90,2,1928,12625352.5,1,Oro Americano,Guatemala,United States
+90,2,1929,13540310.13,1,Oro Americano,Guatemala,United States
+90,2,1930,7631109.83,1,Oro Americano,Guatemala,United States
+90,2,1931,5512436,1,Oro Americano,Guatemala,United States
+90,2,1932,2980402,1,Oro Americano,Guatemala,United States
+90,2,1933,3029027,1,Oro Americano,Guatemala,United States
+90,2,1934,4101140,1,Quetzales,Guatemala,United States
+90,2,1935,3950013,1,Quetzales,Guatemala,United States
+90,2,1936,4876990,1,Quetzales,Guatemala,United States
+90,2,1937,7587919,1,Quetzales,Guatemala,United States
+90,2,1938,7492370,1,Quetzales,Guatemala,United States
+90,2,1939,8332365,1,Quetzales,Guatemala,United States
+90,2,1940,9352856,1,Quetzales,Guatemala,United States
+90,2,1941,10533867,1,Quetzales,Guatemala,United States
+90,2,1942,9638416,1,Quetzales,Guatemala,United States
+90,6,1920,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1921,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1922,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1923,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1924,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1925,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1926,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1927,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1928,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1929,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1930,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1931,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1932,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1933,0,1,Oro Americano,Guatemala,Puerto Rico
+90,6,1934,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1935,255,1,Quetzales,Guatemala,Puerto Rico
+90,6,1936,64,1,Quetzales,Guatemala,Puerto Rico
+90,6,1937,22,1,Quetzales,Guatemala,Puerto Rico
+90,6,1938,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1939,45,1,Quetzales,Guatemala,Puerto Rico
+90,6,1940,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1941,0,1,Quetzales,Guatemala,Puerto Rico
+90,6,1942,0,1,Quetzales,Guatemala,Puerto Rico
+90,20,1920,7749,1,Oro Americano,Guatemala,Canada
+90,20,1921,8210,1,Quetzales,Guatemala,Canada
+90,20,1922,9255,1,Quetzales,Guatemala,Canada
+90,20,1923,23631,1,Quetzales,Guatemala,Canada
+90,20,1924,45126,1,Quetzales,Guatemala,Canada
+90,20,1925,65380,1,Quetzales,Guatemala,Canada
+90,20,1926,10538,1,Oro Americano,Guatemala,Canada
+90,20,1927,2555,1,Oro Americano,Guatemala,Canada
+90,20,1928,3164,1,Oro Americano,Guatemala,Canada
+90,20,1929,9920.75,1,Oro Americano,Guatemala,Canada
+90,20,1930,2571,1,Oro Americano,Guatemala,Canada
+90,20,1931,1837,1,Oro Americano,Guatemala,Canada
+90,20,1932,5030,1,Oro Americano,Guatemala,Canada
+90,20,1933,12972,1,Oro Americano,Guatemala,Canada
+90,20,1934,49338,1,Quetzales,Guatemala,Canada
+90,20,1935,39130,1,Quetzales,Guatemala,Canada
+90,20,1936,60819,1,Quetzales,Guatemala,Canada
+90,20,1937,56658,1,Quetzales,Guatemala,Canada
+90,20,1938,41834,1,Quetzales,Guatemala,Canada
+90,20,1939,102487,1,Quetzales,Guatemala,Canada
+90,20,1940,168815,1,Quetzales,Guatemala,Canada
+90,20,1941,204967,1,Quetzales,Guatemala,Canada
+90,20,1942,197836,1,Quetzales,Guatemala,Canada
+90,21,1920,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1921,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1922,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1923,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1924,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1925,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1926,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1927,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1928,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1929,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1930,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1931,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1932,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1933,0,1,Oro Americano,Guatemala,Newfoundland
+90,21,1934,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1935,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1936,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1937,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1938,0,1,Quetzales,Guatemala,Newfoundland
+90,21,1939,173,1,Quetzales,Guatemala,Newfoundland
+90,21,1940,5120,1,Quetzales,Guatemala,Newfoundland
+90,21,1941,3762,1,Quetzales,Guatemala,Newfoundland
+90,21,1942,0,1,Quetzales,Guatemala,Newfoundland
+90,40,1920,17214.23,1,Oro Americano,Guatemala,Cuba
+90,40,1921,9680,1,Quetzales,Guatemala,Cuba
+90,40,1922,7147,1,Quetzales,Guatemala,Cuba
+90,40,1923,13458,1,Quetzales,Guatemala,Cuba
+90,40,1924,5516,1,Quetzales,Guatemala,Cuba
+90,40,1925,8374,1,Quetzales,Guatemala,Cuba
+90,40,1926,2481,1,Oro Americano,Guatemala,Cuba
+90,40,1927,5902,1,Oro Americano,Guatemala,Cuba
+90,40,1928,15276,1,Oro Americano,Guatemala,Cuba
+90,40,1929,13593,1,Oro Americano,Guatemala,Cuba
+90,40,1930,9993,1,Oro Americano,Guatemala,Cuba
+90,40,1931,16579,1,Oro Americano,Guatemala,Cuba
+90,40,1932,11560,1,Oro Americano,Guatemala,Cuba
+90,40,1933,9288,1,Oro Americano,Guatemala,Cuba
+90,40,1934,9161,1,Quetzales,Guatemala,Cuba
+90,40,1935,16118,1,Quetzales,Guatemala,Cuba
+90,40,1936,4076,1,Quetzales,Guatemala,Cuba
+90,40,1937,16724,1,Quetzales,Guatemala,Cuba
+90,40,1938,6162,1,Quetzales,Guatemala,Cuba
+90,40,1939,6185,1,Quetzales,Guatemala,Cuba
+90,40,1940,11752,1,Quetzales,Guatemala,Cuba
+90,40,1941,19157,1,Quetzales,Guatemala,Cuba
+90,40,1942,11725,1,Quetzales,Guatemala,Cuba
+90,41,1920,0,1,Oro Americano,Guatemala,Haiti
+90,41,1921,0,1,Quetzales,Guatemala,Haiti
+90,41,1922,0,1,Quetzales,Guatemala,Haiti
+90,41,1923,0,1,Quetzales,Guatemala,Haiti
+90,41,1924,0,1,Quetzales,Guatemala,Haiti
+90,41,1925,0,1,Quetzales,Guatemala,Haiti
+90,41,1926,0,1,Oro Americano,Guatemala,Haiti
+90,41,1927,0,1,Oro Americano,Guatemala,Haiti
+90,41,1928,0,1,Oro Americano,Guatemala,Haiti
+90,41,1929,0,1,Oro Americano,Guatemala,Haiti
+90,41,1930,100,1,Oro Americano,Guatemala,Haiti
+90,41,1931,0,1,Oro Americano,Guatemala,Haiti
+90,41,1932,0,1,Oro Americano,Guatemala,Haiti
+90,41,1933,0,1,Oro Americano,Guatemala,Haiti
+90,41,1934,0,1,Quetzales,Guatemala,Haiti
+90,41,1935,0,1,Quetzales,Guatemala,Haiti
+90,41,1936,0,1,Quetzales,Guatemala,Haiti
+90,41,1937,0,1,Quetzales,Guatemala,Haiti
+90,41,1938,0,1,Quetzales,Guatemala,Haiti
+90,41,1939,0,1,Quetzales,Guatemala,Haiti
+90,41,1940,0,1,Quetzales,Guatemala,Haiti
+90,41,1941,0,1,Quetzales,Guatemala,Haiti
+90,41,1942,0,1,Quetzales,Guatemala,Haiti
+90,42,1920,0,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1921,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1922,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1923,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1924,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1925,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1926,1186,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1927,1320,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1928,1216,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1929,1027,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1930,725,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1931,344,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1932,6,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1933,547,1,Oro Americano,Guatemala,Dominican Republic
+90,42,1934,162,1,Quetzales,Guatemala,Dominican Republic
+90,42,1935,323,1,Quetzales,Guatemala,Dominican Republic
+90,42,1936,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1937,13,1,Quetzales,Guatemala,Dominican Republic
+90,42,1938,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1939,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1940,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1941,0,1,Quetzales,Guatemala,Dominican Republic
+90,42,1942,0,1,Quetzales,Guatemala,Dominican Republic
+90,51,1920,8628.879999999999,1,Oro Americano,Guatemala,Jamaica
+90,51,1921,665,1,Quetzales,Guatemala,Jamaica
+90,51,1922,3425,1,Quetzales,Guatemala,Jamaica
+90,51,1923,10266,1,Quetzales,Guatemala,Jamaica
+90,51,1924,12789,1,Quetzales,Guatemala,Jamaica
+90,51,1925,14979,1,Quetzales,Guatemala,Jamaica
+90,51,1926,8217,1,Oro Americano,Guatemala,Jamaica
+90,51,1927,10123,1,Oro Americano,Guatemala,Jamaica
+90,51,1928,6762,1,Oro Americano,Guatemala,Jamaica
+90,51,1929,14263,1,Oro Americano,Guatemala,Jamaica
+90,51,1930,4450,1,Oro Americano,Guatemala,Jamaica
+90,51,1931,2742,1,Oro Americano,Guatemala,Jamaica
+90,51,1932,2406,1,Oro Americano,Guatemala,Jamaica
+90,51,1933,1877,1,Oro Americano,Guatemala,Jamaica
+90,51,1934,9928,1,Quetzales,Guatemala,Jamaica
+90,51,1935,7747,1,Quetzales,Guatemala,Jamaica
+90,51,1936,1138,1,Quetzales,Guatemala,Jamaica
+90,51,1937,5573,1,Quetzales,Guatemala,Jamaica
+90,51,1938,2751,1,Quetzales,Guatemala,Jamaica
+90,51,1939,2351,1,Quetzales,Guatemala,Jamaica
+90,51,1940,783,1,Quetzales,Guatemala,Jamaica
+90,51,1941,1793,1,Quetzales,Guatemala,Jamaica
+90,51,1942,456,1,Quetzales,Guatemala,Jamaica
+90,70,1920,180724.6,1,Oro Americano,Guatemala,Mexico
+90,70,1921,103621,1,Quetzales,Guatemala,Mexico
+90,70,1922,70392,1,Quetzales,Guatemala,Mexico
+90,70,1923,127159,1,Quetzales,Guatemala,Mexico
+90,70,1924,249010,1,Quetzales,Guatemala,Mexico
+90,70,1925,1181352,1,Quetzales,Guatemala,Mexico
+90,70,1926,1959759.51,1,Oro Americano,Guatemala,Mexico
+90,70,1927,280112.83,1,Oro Americano,Guatemala,Mexico
+90,70,1928,161738.87,1,Oro Americano,Guatemala,Mexico
+90,70,1929,300024.79,1,Oro Americano,Guatemala,Mexico
+90,70,1930,292480.87,1,Oro Americano,Guatemala,Mexico
+90,70,1931,195523,1,Oro Americano,Guatemala,Mexico
+90,70,1932,180582,1,Oro Americano,Guatemala,Mexico
+90,70,1933,200388,1,Oro Americano,Guatemala,Mexico
+90,70,1934,340647,1,Quetzales,Guatemala,Mexico
+90,70,1935,444121,1,Quetzales,Guatemala,Mexico
+90,70,1936,372748,1,Quetzales,Guatemala,Mexico
+90,70,1937,267320,1,Quetzales,Guatemala,Mexico
+90,70,1938,144878,1,Quetzales,Guatemala,Mexico
+90,70,1939,172081,1,Quetzales,Guatemala,Mexico
+90,70,1940,256572,1,Quetzales,Guatemala,Mexico
+90,70,1941,324886,1,Quetzales,Guatemala,Mexico
+90,70,1942,999521,1,Quetzales,Guatemala,Mexico
+90,80,1920,0,1,Oro Americano,Guatemala,Belize
+90,80,1921,0,1,Quetzales,Guatemala,Belize
+90,80,1922,0,1,Quetzales,Guatemala,Belize
+90,80,1923,0,1,Quetzales,Guatemala,Belize
+90,80,1924,0,1,Quetzales,Guatemala,Belize
+90,80,1925,0,1,Quetzales,Guatemala,Belize
+90,80,1926,0,1,Oro Americano,Guatemala,Belize
+90,80,1927,0,1,Oro Americano,Guatemala,Belize
+90,80,1928,0,1,Oro Americano,Guatemala,Belize
+90,80,1929,60,1,Oro Americano,Guatemala,Belize
+90,80,1930,0,1,Oro Americano,Guatemala,Belize
+90,80,1931,0,1,Oro Americano,Guatemala,Belize
+90,80,1932,0,1,Oro Americano,Guatemala,Belize
+90,80,1933,0,1,Oro Americano,Guatemala,Belize
+90,80,1934,16681,1,Quetzales,Guatemala,Belize
+90,80,1935,14868,1,Quetzales,Guatemala,Belize
+90,80,1936,20055,1,Quetzales,Guatemala,Belize
+90,80,1937,26161,1,Quetzales,Guatemala,Belize
+90,80,1938,63733,1,Quetzales,Guatemala,Belize
+90,80,1939,40134,1,Quetzales,Guatemala,Belize
+90,80,1940,12767,1,Quetzales,Guatemala,Belize
+90,80,1941,259,1,Quetzales,Guatemala,Belize
+90,80,1942,445,1,Quetzales,Guatemala,Belize
+90,91,1920,0,1,Oro Americano,Guatemala,Honduras
+90,91,1921,0,1,Quetzales,Guatemala,Honduras
+90,91,1922,0,1,Quetzales,Guatemala,Honduras
+90,91,1923,0,1,Quetzales,Guatemala,Honduras
+90,91,1924,0,1,Quetzales,Guatemala,Honduras
+90,91,1925,0,1,Quetzales,Guatemala,Honduras
+90,91,1926,35587.35,1,Oro Americano,Guatemala,Honduras
+90,91,1927,16685.5,1,Oro Americano,Guatemala,Honduras
+90,91,1928,24667,1,Oro Americano,Guatemala,Honduras
+90,91,1929,21805,1,Oro Americano,Guatemala,Honduras
+90,91,1930,9123,1,Oro Americano,Guatemala,Honduras
+90,91,1931,2715,1,Oro Americano,Guatemala,Honduras
+90,91,1932,2362,1,Oro Americano,Guatemala,Honduras
+90,91,1933,3559,1,Oro Americano,Guatemala,Honduras
+90,91,1934,25714,1,Quetzales,Guatemala,Honduras
+90,91,1935,14978,1,Quetzales,Guatemala,Honduras
+90,91,1936,29816,1,Quetzales,Guatemala,Honduras
+90,91,1937,69173,1,Quetzales,Guatemala,Honduras
+90,91,1938,25412,1,Quetzales,Guatemala,Honduras
+90,91,1939,13069,1,Quetzales,Guatemala,Honduras
+90,91,1940,14818,1,Quetzales,Guatemala,Honduras
+90,91,1941,58703,1,Quetzales,Guatemala,Honduras
+90,91,1942,56189,1,Quetzales,Guatemala,Honduras
+90,92,1920,1720,1,Oro Americano,Guatemala,El Salvador
+90,92,1921,0,1,Quetzales,Guatemala,El Salvador
+90,92,1922,0,1,Quetzales,Guatemala,El Salvador
+90,92,1923,0,1,Quetzales,Guatemala,El Salvador
+90,92,1924,0,1,Quetzales,Guatemala,El Salvador
+90,92,1925,0,1,Quetzales,Guatemala,El Salvador
+90,92,1926,5614.22,1,Oro Americano,Guatemala,El Salvador
+90,92,1927,2685,1,Oro Americano,Guatemala,El Salvador
+90,92,1928,5732,1,Oro Americano,Guatemala,El Salvador
+90,92,1929,20128.96,1,Oro Americano,Guatemala,El Salvador
+90,92,1930,26026,1,Oro Americano,Guatemala,El Salvador
+90,92,1931,5327,1,Oro Americano,Guatemala,El Salvador
+90,92,1932,3224,1,Oro Americano,Guatemala,El Salvador
+90,92,1933,2324,1,Oro Americano,Guatemala,El Salvador
+90,92,1934,70132,1,Quetzales,Guatemala,El Salvador
+90,92,1935,49993,1,Quetzales,Guatemala,El Salvador
+90,92,1936,91225,1,Quetzales,Guatemala,El Salvador
+90,92,1937,47029,1,Quetzales,Guatemala,El Salvador
+90,92,1938,63764,1,Quetzales,Guatemala,El Salvador
+90,92,1939,44469,1,Quetzales,Guatemala,El Salvador
+90,92,1940,97452,1,Quetzales,Guatemala,El Salvador
+90,92,1941,268469,1,Quetzales,Guatemala,El Salvador
+90,92,1942,618266,1,Quetzales,Guatemala,El Salvador
+90,93,1920,13344.01,1,Oro Americano,Guatemala,Nicaragua
+90,93,1921,0,1,Quetzales,Guatemala,Nicaragua
+90,93,1922,0,1,Quetzales,Guatemala,Nicaragua
+90,93,1923,0,1,Quetzales,Guatemala,Nicaragua
+90,93,1924,0,1,Quetzales,Guatemala,Nicaragua
+90,93,1925,0,1,Quetzales,Guatemala,Nicaragua
+90,93,1926,69718.89,1,Oro Americano,Guatemala,Nicaragua
+90,93,1927,49138,1,Oro Americano,Guatemala,Nicaragua
+90,93,1928,154146.56,1,Oro Americano,Guatemala,Nicaragua
+90,93,1929,169757.03,1,Oro Americano,Guatemala,Nicaragua
+90,93,1930,102053.1,1,Oro Americano,Guatemala,Nicaragua
+90,93,1931,31043,1,Oro Americano,Guatemala,Nicaragua
+90,93,1932,9314,1,Oro Americano,Guatemala,Nicaragua
+90,93,1933,9511.67,1,Oro Americano,Guatemala,Nicaragua
+90,93,1934,10722,1,Quetzales,Guatemala,Nicaragua
+90,93,1935,48337,1,Quetzales,Guatemala,Nicaragua
+90,93,1936,58360,1,Quetzales,Guatemala,Nicaragua
+90,93,1937,51260,1,Quetzales,Guatemala,Nicaragua
+90,93,1938,42177,1,Quetzales,Guatemala,Nicaragua
+90,93,1939,3360,1,Quetzales,Guatemala,Nicaragua
+90,93,1940,8562,1,Quetzales,Guatemala,Nicaragua
+90,93,1941,7531,1,Quetzales,Guatemala,Nicaragua
+90,93,1942,268263,1,Quetzales,Guatemala,Nicaragua
+90,94,1920,8088.37,1,Oro Americano,Guatemala,Costa Rica
+90,94,1921,0,1,Quetzales,Guatemala,Costa Rica
+90,94,1922,0,1,Quetzales,Guatemala,Costa Rica
+90,94,1923,0,1,Quetzales,Guatemala,Costa Rica
+90,94,1924,0,1,Quetzales,Guatemala,Costa Rica
+90,94,1925,0,1,Quetzales,Guatemala,Costa Rica
+90,94,1926,6009,1,Oro Americano,Guatemala,Costa Rica
+90,94,1927,9260.6,1,Oro Americano,Guatemala,Costa Rica
+90,94,1928,1417,1,Oro Americano,Guatemala,Costa Rica
+90,94,1929,4218.5,1,Oro Americano,Guatemala,Costa Rica
+90,94,1930,1900.75,1,Oro Americano,Guatemala,Costa Rica
+90,94,1931,2407,1,Oro Americano,Guatemala,Costa Rica
+90,94,1932,1944,1,Oro Americano,Guatemala,Costa Rica
+90,94,1933,1814,1,Oro Americano,Guatemala,Costa Rica
+90,94,1934,1193,1,Quetzales,Guatemala,Costa Rica
+90,94,1935,2716,1,Quetzales,Guatemala,Costa Rica
+90,94,1936,3508,1,Quetzales,Guatemala,Costa Rica
+90,94,1937,2577,1,Quetzales,Guatemala,Costa Rica
+90,94,1938,548,1,Quetzales,Guatemala,Costa Rica
+90,94,1939,616,1,Quetzales,Guatemala,Costa Rica
+90,94,1940,267,1,Quetzales,Guatemala,Costa Rica
+90,94,1941,889,1,Quetzales,Guatemala,Costa Rica
+90,94,1942,6585,1,Quetzales,Guatemala,Costa Rica
+90,95,1920,1404.49,1,Oro Americano,Guatemala,Panama
+90,95,1921,0,1,Quetzales,Guatemala,Panama
+90,95,1922,0,1,Quetzales,Guatemala,Panama
+90,95,1923,0,1,Quetzales,Guatemala,Panama
+90,95,1924,0,1,Quetzales,Guatemala,Panama
+90,95,1925,0,1,Quetzales,Guatemala,Panama
+90,95,1926,18135.29,1,Oro Americano,Guatemala,Panama
+90,95,1927,5800.34,1,Oro Americano,Guatemala,Panama
+90,95,1928,8434.969999999999,1,Oro Americano,Guatemala,Panama
+90,95,1929,12913.7,1,Oro Americano,Guatemala,Panama
+90,95,1930,14502.82,1,Oro Americano,Guatemala,Panama
+90,95,1931,10011,1,Oro Americano,Guatemala,Panama
+90,95,1932,10100,1,Oro Americano,Guatemala,Panama
+90,95,1933,20174,1,Oro Americano,Guatemala,Panama
+90,95,1934,41744,1,Quetzales,Guatemala,Panama
+90,95,1935,27101,1,Quetzales,Guatemala,Panama
+90,95,1936,28163,1,Quetzales,Guatemala,Panama
+90,95,1937,8391,1,Quetzales,Guatemala,Panama
+90,95,1938,3682,1,Quetzales,Guatemala,Panama
+90,95,1939,350,1,Quetzales,Guatemala,Panama
+90,95,1940,1445,1,Quetzales,Guatemala,Panama
+90,95,1941,1446,1,Quetzales,Guatemala,Panama
+90,95,1942,7755,1,Quetzales,Guatemala,Panama
+90,100,1920,2098,1,Oro Americano,Guatemala,Colombia
+90,100,1921,0,1,Quetzales,Guatemala,Colombia
+90,100,1922,0,1,Quetzales,Guatemala,Colombia
+90,100,1923,0,1,Quetzales,Guatemala,Colombia
+90,100,1924,0,1,Quetzales,Guatemala,Colombia
+90,100,1925,0,1,Quetzales,Guatemala,Colombia
+90,100,1926,2666.98,1,Oro Americano,Guatemala,Colombia
+90,100,1927,471.06,1,Oro Americano,Guatemala,Colombia
+90,100,1928,0,1,Oro Americano,Guatemala,Colombia
+90,100,1929,1455.98,1,Oro Americano,Guatemala,Colombia
+90,100,1930,168,1,Oro Americano,Guatemala,Colombia
+90,100,1931,26,1,Oro Americano,Guatemala,Colombia
+90,100,1932,338,1,Oro Americano,Guatemala,Colombia
+90,100,1933,74,1,Oro Americano,Guatemala,Colombia
+90,100,1934,521,1,Quetzales,Guatemala,Colombia
+90,100,1935,486,1,Quetzales,Guatemala,Colombia
+90,100,1936,1679,1,Quetzales,Guatemala,Colombia
+90,100,1937,560,1,Quetzales,Guatemala,Colombia
+90,100,1938,554,1,Quetzales,Guatemala,Colombia
+90,100,1939,854,1,Quetzales,Guatemala,Colombia
+90,100,1940,604,1,Quetzales,Guatemala,Colombia
+90,100,1941,6038,1,Quetzales,Guatemala,Colombia
+90,100,1942,8298,1,Quetzales,Guatemala,Colombia
+90,101,1920,0,1,Oro Americano,Guatemala,Venezuela
+90,101,1921,0,1,Quetzales,Guatemala,Venezuela
+90,101,1922,0,1,Quetzales,Guatemala,Venezuela
+90,101,1923,0,1,Quetzales,Guatemala,Venezuela
+90,101,1924,0,1,Quetzales,Guatemala,Venezuela
+90,101,1925,0,1,Quetzales,Guatemala,Venezuela
+90,101,1926,0,1,Oro Americano,Guatemala,Venezuela
+90,101,1927,0,1,Oro Americano,Guatemala,Venezuela
+90,101,1928,1958,1,Oro Americano,Guatemala,Venezuela
+90,101,1929,79196.32000000001,1,Oro Americano,Guatemala,Venezuela
+90,101,1930,89897.56,1,Oro Americano,Guatemala,Venezuela
+90,101,1931,87164,1,Oro Americano,Guatemala,Venezuela
+90,101,1932,282,1,Oro Americano,Guatemala,Venezuela
+90,101,1933,270,1,Oro Americano,Guatemala,Venezuela
+90,101,1934,278,1,Quetzales,Guatemala,Venezuela
+90,101,1935,0,1,Quetzales,Guatemala,Venezuela
+90,101,1936,32,1,Quetzales,Guatemala,Venezuela
+90,101,1937,24,1,Quetzales,Guatemala,Venezuela
+90,101,1938,145,1,Quetzales,Guatemala,Venezuela
+90,101,1939,86,1,Quetzales,Guatemala,Venezuela
+90,101,1940,0,1,Quetzales,Guatemala,Venezuela
+90,101,1941,59,1,Quetzales,Guatemala,Venezuela
+90,101,1942,33,1,Quetzales,Guatemala,Venezuela
+90,130,1920,3267,1,Oro Americano,Guatemala,Ecuador
+90,130,1921,0,1,Quetzales,Guatemala,Ecuador
+90,130,1922,0,1,Quetzales,Guatemala,Ecuador
+90,130,1923,0,1,Quetzales,Guatemala,Ecuador
+90,130,1924,0,1,Quetzales,Guatemala,Ecuador
+90,130,1925,0,1,Quetzales,Guatemala,Ecuador
+90,130,1926,0,1,Oro Americano,Guatemala,Ecuador
+90,130,1927,0,1,Oro Americano,Guatemala,Ecuador
+90,130,1928,0,1,Oro Americano,Guatemala,Ecuador
+90,130,1929,132,1,Oro Americano,Guatemala,Ecuador
+90,130,1930,60,1,Oro Americano,Guatemala,Ecuador
+90,130,1931,0,1,Oro Americano,Guatemala,Ecuador
+90,130,1932,142,1,Oro Americano,Guatemala,Ecuador
+90,130,1933,335,1,Oro Americano,Guatemala,Ecuador
+90,130,1934,261,1,Quetzales,Guatemala,Ecuador
+90,130,1935,405,1,Quetzales,Guatemala,Ecuador
+90,130,1936,91,1,Quetzales,Guatemala,Ecuador
+90,130,1937,0,1,Quetzales,Guatemala,Ecuador
+90,130,1938,442,1,Quetzales,Guatemala,Ecuador
+90,130,1939,95,1,Quetzales,Guatemala,Ecuador
+90,130,1940,958,1,Quetzales,Guatemala,Ecuador
+90,130,1941,936,1,Quetzales,Guatemala,Ecuador
+90,130,1942,1843,1,Quetzales,Guatemala,Ecuador
+90,135,1920,18446.92,1,Oro Americano,Guatemala,Peru
+90,135,1921,5145,1,Quetzales,Guatemala,Peru
+90,135,1922,41224,1,Quetzales,Guatemala,Peru
+90,135,1923,29196,1,Quetzales,Guatemala,Peru
+90,135,1924,107565,1,Quetzales,Guatemala,Peru
+90,135,1925,128244,1,Quetzales,Guatemala,Peru
+90,135,1926,181282.07,1,Oro Americano,Guatemala,Peru
+90,135,1927,222605.1,1,Oro Americano,Guatemala,Peru
+90,135,1928,237042.59,1,Oro Americano,Guatemala,Peru
+90,135,1929,278915.08,1,Oro Americano,Guatemala,Peru
+90,135,1930,120269,1,Oro Americano,Guatemala,Peru
+90,135,1931,106503,1,Oro Americano,Guatemala,Peru
+90,135,1932,81458,1,Oro Americano,Guatemala,Peru
+90,135,1933,61280,1,Oro Americano,Guatemala,Peru
+90,135,1934,146903,1,Quetzales,Guatemala,Peru
+90,135,1935,134140,1,Quetzales,Guatemala,Peru
+90,135,1936,153896,1,Quetzales,Guatemala,Peru
+90,135,1937,247287,1,Quetzales,Guatemala,Peru
+90,135,1938,226771,1,Quetzales,Guatemala,Peru
+90,135,1939,255362,1,Quetzales,Guatemala,Peru
+90,135,1940,283083,1,Quetzales,Guatemala,Peru
+90,135,1941,428262,1,Quetzales,Guatemala,Peru
+90,135,1942,556903,1,Quetzales,Guatemala,Peru
+90,140,1920,0,1,Oro Americano,Guatemala,Brazil
+90,140,1921,0,1,Quetzales,Guatemala,Brazil
+90,140,1922,0,1,Quetzales,Guatemala,Brazil
+90,140,1923,0,1,Quetzales,Guatemala,Brazil
+90,140,1924,0,1,Quetzales,Guatemala,Brazil
+90,140,1925,0,1,Quetzales,Guatemala,Brazil
+90,140,1926,0,1,Oro Americano,Guatemala,Brazil
+90,140,1927,0,1,Oro Americano,Guatemala,Brazil
+90,140,1928,0,1,Oro Americano,Guatemala,Brazil
+90,140,1929,5,1,Oro Americano,Guatemala,Brazil
+90,140,1930,0,1,Oro Americano,Guatemala,Brazil
+90,140,1931,0,1,Oro Americano,Guatemala,Brazil
+90,140,1932,8,1,Oro Americano,Guatemala,Brazil
+90,140,1933,0,1,Oro Americano,Guatemala,Brazil
+90,140,1934,264,1,Quetzales,Guatemala,Brazil
+90,140,1935,940,1,Quetzales,Guatemala,Brazil
+90,140,1936,675,1,Quetzales,Guatemala,Brazil
+90,140,1937,627,1,Quetzales,Guatemala,Brazil
+90,140,1938,2661,1,Quetzales,Guatemala,Brazil
+90,140,1939,1229,1,Quetzales,Guatemala,Brazil
+90,140,1940,18405,1,Quetzales,Guatemala,Brazil
+90,140,1941,47764,1,Quetzales,Guatemala,Brazil
+90,140,1942,87770,1,Quetzales,Guatemala,Brazil
+90,145,1920,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1921,0,1,Quetzales,Guatemala,Bolivia
+90,145,1922,0,1,Quetzales,Guatemala,Bolivia
+90,145,1923,0,1,Quetzales,Guatemala,Bolivia
+90,145,1924,0,1,Quetzales,Guatemala,Bolivia
+90,145,1925,0,1,Quetzales,Guatemala,Bolivia
+90,145,1926,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1927,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1928,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1929,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1930,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1931,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1932,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1933,0,1,Oro Americano,Guatemala,Bolivia
+90,145,1934,0,1,Quetzales,Guatemala,Bolivia
+90,145,1935,15,1,Quetzales,Guatemala,Bolivia
+90,145,1936,0,1,Quetzales,Guatemala,Bolivia
+90,145,1937,0,1,Quetzales,Guatemala,Bolivia
+90,145,1938,0,1,Quetzales,Guatemala,Bolivia
+90,145,1939,0,1,Quetzales,Guatemala,Bolivia
+90,145,1940,0,1,Quetzales,Guatemala,Bolivia
+90,145,1941,0,1,Quetzales,Guatemala,Bolivia
+90,145,1942,0,1,Quetzales,Guatemala,Bolivia
+90,150,1920,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1921,0,1,Quetzales,Guatemala,Paraguay
+90,150,1922,0,1,Quetzales,Guatemala,Paraguay
+90,150,1923,0,1,Quetzales,Guatemala,Paraguay
+90,150,1924,0,1,Quetzales,Guatemala,Paraguay
+90,150,1925,0,1,Quetzales,Guatemala,Paraguay
+90,150,1926,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1927,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1928,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1929,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1930,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1931,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1932,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1933,0,1,Oro Americano,Guatemala,Paraguay
+90,150,1934,0,1,Quetzales,Guatemala,Paraguay
+90,150,1935,0,1,Quetzales,Guatemala,Paraguay
+90,150,1936,0,1,Quetzales,Guatemala,Paraguay
+90,150,1937,0,1,Quetzales,Guatemala,Paraguay
+90,150,1938,139,1,Quetzales,Guatemala,Paraguay
+90,150,1939,439,1,Quetzales,Guatemala,Paraguay
+90,150,1940,0,1,Quetzales,Guatemala,Paraguay
+90,150,1941,0,1,Quetzales,Guatemala,Paraguay
+90,150,1942,24,1,Quetzales,Guatemala,Paraguay
+90,155,1920,2271,1,Oro Americano,Guatemala,Chile
+90,155,1921,0,1,Quetzales,Guatemala,Chile
+90,155,1922,0,1,Quetzales,Guatemala,Chile
+90,155,1923,0,1,Quetzales,Guatemala,Chile
+90,155,1924,0,1,Quetzales,Guatemala,Chile
+90,155,1925,0,1,Quetzales,Guatemala,Chile
+90,155,1926,0,1,Oro Americano,Guatemala,Chile
+90,155,1927,0,1,Oro Americano,Guatemala,Chile
+90,155,1928,2123.1,1,Oro Americano,Guatemala,Chile
+90,155,1929,7053.92,1,Oro Americano,Guatemala,Chile
+90,155,1930,369,1,Oro Americano,Guatemala,Chile
+90,155,1931,1687,1,Oro Americano,Guatemala,Chile
+90,155,1932,75,1,Oro Americano,Guatemala,Chile
+90,155,1933,834,1,Oro Americano,Guatemala,Chile
+90,155,1934,60,1,Quetzales,Guatemala,Chile
+90,155,1935,4870,1,Quetzales,Guatemala,Chile
+90,155,1936,1219,1,Quetzales,Guatemala,Chile
+90,155,1937,5227,1,Quetzales,Guatemala,Chile
+90,155,1938,1649,1,Quetzales,Guatemala,Chile
+90,155,1939,2935,1,Quetzales,Guatemala,Chile
+90,155,1940,17527,1,Quetzales,Guatemala,Chile
+90,155,1941,39009,1,Quetzales,Guatemala,Chile
+90,155,1942,26188,1,Quetzales,Guatemala,Chile
+90,160,1920,0,1,Oro Americano,Guatemala,Argentina
+90,160,1921,0,1,Quetzales,Guatemala,Argentina
+90,160,1922,0,1,Quetzales,Guatemala,Argentina
+90,160,1923,0,1,Quetzales,Guatemala,Argentina
+90,160,1924,0,1,Quetzales,Guatemala,Argentina
+90,160,1925,0,1,Quetzales,Guatemala,Argentina
+90,160,1926,385,1,Oro Americano,Guatemala,Argentina
+90,160,1927,0,1,Oro Americano,Guatemala,Argentina
+90,160,1928,1135,1,Oro Americano,Guatemala,Argentina
+90,160,1929,1086,1,Oro Americano,Guatemala,Argentina
+90,160,1930,499,1,Oro Americano,Guatemala,Argentina
+90,160,1931,568,1,Oro Americano,Guatemala,Argentina
+90,160,1932,426,1,Oro Americano,Guatemala,Argentina
+90,160,1933,30,1,Oro Americano,Guatemala,Argentina
+90,160,1934,132,1,Quetzales,Guatemala,Argentina
+90,160,1935,2640,1,Quetzales,Guatemala,Argentina
+90,160,1936,1197,1,Quetzales,Guatemala,Argentina
+90,160,1937,24328,1,Quetzales,Guatemala,Argentina
+90,160,1938,2402,1,Quetzales,Guatemala,Argentina
+90,160,1939,4821,1,Quetzales,Guatemala,Argentina
+90,160,1940,22150,1,Quetzales,Guatemala,Argentina
+90,160,1941,86804,1,Quetzales,Guatemala,Argentina
+90,160,1942,77323,1,Quetzales,Guatemala,Argentina
+90,165,1920,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1921,0,1,Quetzales,Guatemala,Uruguay
+90,165,1922,0,1,Quetzales,Guatemala,Uruguay
+90,165,1923,0,1,Quetzales,Guatemala,Uruguay
+90,165,1924,0,1,Quetzales,Guatemala,Uruguay
+90,165,1925,0,1,Quetzales,Guatemala,Uruguay
+90,165,1926,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1927,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1928,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1929,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1930,326,1,Oro Americano,Guatemala,Uruguay
+90,165,1931,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1932,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1933,0,1,Oro Americano,Guatemala,Uruguay
+90,165,1934,6,1,Quetzales,Guatemala,Uruguay
+90,165,1935,0,1,Quetzales,Guatemala,Uruguay
+90,165,1936,131,1,Quetzales,Guatemala,Uruguay
+90,165,1937,0,1,Quetzales,Guatemala,Uruguay
+90,165,1938,687,1,Quetzales,Guatemala,Uruguay
+90,165,1939,207,1,Quetzales,Guatemala,Uruguay
+90,165,1940,1622,1,Quetzales,Guatemala,Uruguay
+90,165,1941,539,1,Quetzales,Guatemala,Uruguay
+90,165,1942,1832,1,Quetzales,Guatemala,Uruguay
+90,201,1920,3125424.5,1,Oro Americano,Guatemala,England
+90,201,1921,2372071,1,Quetzales,Guatemala,England
+90,201,1922,1599131,1,Quetzales,Guatemala,England
+90,201,1923,2082053,1,Quetzales,Guatemala,England
+90,201,1924,2420011,1,Quetzales,Guatemala,England
+90,201,1925,2893330,1,Quetzales,Guatemala,England
+90,201,1926,2687387.46,1,Oro Americano,Guatemala,England
+90,201,1927,2128874.78,1,Oro Americano,Guatemala,England
+90,201,1928,2468248.59,1,Oro Americano,Guatemala,England
+90,201,1929,2304777.02,1,Oro Americano,Guatemala,England
+90,201,1930,1097501.96,1,Oro Americano,Guatemala,England
+90,201,1931,894247,1,Oro Americano,Guatemala,England
+90,201,1932,615017,1,Oro Americano,Guatemala,England
+90,201,1933,779488,1,Oro Americano,Guatemala,England
+90,201,1934,731857,1,Quetzales,Guatemala,England
+90,201,1935,991436,1,Quetzales,Guatemala,England
+90,201,1936,0,1,Quetzales,Guatemala,England
+90,201,1937,1335925,1,Quetzales,Guatemala,England
+90,201,1938,992181,1,Quetzales,Guatemala,England
+90,201,1939,568398,1,Quetzales,Guatemala,England
+90,201,1940,205993,1,Quetzales,Guatemala,England
+90,201,1941,304132,1,Quetzales,Guatemala,England
+90,201,1942,346274,1,Quetzales,Guatemala,England
+90,202,1920,0,1,Oro Americano,Guatemala,Scotland
+90,202,1921,0,1,Quetzales,Guatemala,Scotland
+90,202,1922,0,1,Quetzales,Guatemala,Scotland
+90,202,1923,0,1,Quetzales,Guatemala,Scotland
+90,202,1924,0,1,Quetzales,Guatemala,Scotland
+90,202,1925,0,1,Quetzales,Guatemala,Scotland
+90,202,1926,0,1,Oro Americano,Guatemala,Scotland
+90,202,1927,0,1,Oro Americano,Guatemala,Scotland
+90,202,1928,0,1,Oro Americano,Guatemala,Scotland
+90,202,1929,0,1,Oro Americano,Guatemala,Scotland
+90,202,1930,0,1,Oro Americano,Guatemala,Scotland
+90,202,1931,0,1,Oro Americano,Guatemala,Scotland
+90,202,1932,0,1,Oro Americano,Guatemala,Scotland
+90,202,1933,1370,1,Oro Americano,Guatemala,Scotland
+90,202,1934,4070,1,Quetzales,Guatemala,Scotland
+90,202,1935,60802,1,Quetzales,Guatemala,Scotland
+90,202,1936,56744,1,Quetzales,Guatemala,Scotland
+90,202,1937,56991,1,Quetzales,Guatemala,Scotland
+90,202,1938,31428,1,Quetzales,Guatemala,Scotland
+90,202,1939,26175,1,Quetzales,Guatemala,Scotland
+90,202,1940,104048,1,Quetzales,Guatemala,Scotland
+90,202,1941,134895,1,Quetzales,Guatemala,Scotland
+90,202,1942,131228,1,Quetzales,Guatemala,Scotland
+90,205,1920,0,1,Oro Americano,Guatemala,Ireland
+90,205,1921,0,1,Quetzales,Guatemala,Ireland
+90,205,1922,0,1,Quetzales,Guatemala,Ireland
+90,205,1923,0,1,Quetzales,Guatemala,Ireland
+90,205,1924,0,1,Quetzales,Guatemala,Ireland
+90,205,1925,0,1,Quetzales,Guatemala,Ireland
+90,205,1926,0,1,Oro Americano,Guatemala,Ireland
+90,205,1927,0,1,Oro Americano,Guatemala,Ireland
+90,205,1928,0,1,Oro Americano,Guatemala,Ireland
+90,205,1929,0,1,Oro Americano,Guatemala,Ireland
+90,205,1930,0,1,Oro Americano,Guatemala,Ireland
+90,205,1931,0,1,Oro Americano,Guatemala,Ireland
+90,205,1932,0,1,Oro Americano,Guatemala,Ireland
+90,205,1933,0,1,Oro Americano,Guatemala,Ireland
+90,205,1934,0,1,Quetzales,Guatemala,Ireland
+90,205,1935,0,1,Quetzales,Guatemala,Ireland
+90,205,1936,1602,1,Quetzales,Guatemala,Ireland
+90,205,1937,443,1,Quetzales,Guatemala,Ireland
+90,205,1938,123,1,Quetzales,Guatemala,Ireland
+90,205,1939,1193,1,Quetzales,Guatemala,Ireland
+90,205,1940,1287,1,Quetzales,Guatemala,Ireland
+90,205,1941,4197,1,Quetzales,Guatemala,Ireland
+90,205,1942,635,1,Quetzales,Guatemala,Ireland
+90,210,1920,80722.53,1,Oro Americano,Guatemala,Netherlands
+90,210,1921,137918,1,Quetzales,Guatemala,Netherlands
+90,210,1922,94218,1,Quetzales,Guatemala,Netherlands
+90,210,1923,163126,1,Quetzales,Guatemala,Netherlands
+90,210,1924,147284,1,Quetzales,Guatemala,Netherlands
+90,210,1925,185978,1,Quetzales,Guatemala,Netherlands
+90,210,1926,274453.77,1,Oro Americano,Guatemala,Netherlands
+90,210,1927,233768,1,Oro Americano,Guatemala,Netherlands
+90,210,1928,281596.75,1,Oro Americano,Guatemala,Netherlands
+90,210,1929,455400.06,1,Oro Americano,Guatemala,Netherlands
+90,210,1930,187565.4,1,Oro Americano,Guatemala,Netherlands
+90,210,1931,218251,1,Oro Americano,Guatemala,Netherlands
+90,210,1932,79520,1,Oro Americano,Guatemala,Netherlands
+90,210,1933,86957,1,Oro Americano,Guatemala,Netherlands
+90,210,1934,118878,1,Quetzales,Guatemala,Netherlands
+90,210,1935,121821,1,Quetzales,Guatemala,Netherlands
+90,210,1936,73469,1,Quetzales,Guatemala,Netherlands
+90,210,1937,139381,1,Quetzales,Guatemala,Netherlands
+90,210,1938,207720,1,Quetzales,Guatemala,Netherlands
+90,210,1939,215439,1,Quetzales,Guatemala,Netherlands
+90,210,1940,85084,1,Quetzales,Guatemala,Netherlands
+90,210,1941,261,1,Quetzales,Guatemala,Netherlands
+90,210,1942,0,1,Quetzales,Guatemala,Netherlands
+90,211,1920,418,1,Oro Americano,Guatemala,Belgium
+90,211,1921,23626,1,Quetzales,Guatemala,Belgium
+90,211,1922,8199,1,Quetzales,Guatemala,Belgium
+90,211,1923,61994,1,Quetzales,Guatemala,Belgium
+90,211,1924,189278,1,Quetzales,Guatemala,Belgium
+90,211,1925,203492,1,Quetzales,Guatemala,Belgium
+90,211,1926,271187.03,1,Oro Americano,Guatemala,Belgium
+90,211,1927,366875.93,1,Oro Americano,Guatemala,Belgium
+90,211,1928,605784.38,1,Oro Americano,Guatemala,Belgium
+90,211,1929,787812.89,1,Oro Americano,Guatemala,Belgium
+90,211,1930,184809.89,1,Oro Americano,Guatemala,Belgium
+90,211,1931,190386,1,Oro Americano,Guatemala,Belgium
+90,211,1932,112899,1,Oro Americano,Guatemala,Belgium
+90,211,1933,113477,1,Oro Americano,Guatemala,Belgium
+90,211,1934,200385,1,Quetzales,Guatemala,Belgium
+90,211,1935,222107,1,Quetzales,Guatemala,Belgium
+90,211,1936,128633,1,Quetzales,Guatemala,Belgium
+90,211,1937,132632,1,Quetzales,Guatemala,Belgium
+90,211,1938,249091,1,Quetzales,Guatemala,Belgium
+90,211,1939,131786,1,Quetzales,Guatemala,Belgium
+90,211,1940,109266,1,Quetzales,Guatemala,Belgium
+90,211,1941,6396,1,Quetzales,Guatemala,Belgium
+90,211,1942,0,1,Quetzales,Guatemala,Belgium
+90,212,1920,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1921,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1922,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1923,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1924,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1925,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1926,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1927,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1928,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1929,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1930,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1931,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1932,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1933,0,1,Oro Americano,Guatemala,Luxembourg
+90,212,1934,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1935,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1936,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1937,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1938,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1939,375,1,Quetzales,Guatemala,Luxembourg
+90,212,1940,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1941,0,1,Quetzales,Guatemala,Luxembourg
+90,212,1942,0,1,Quetzales,Guatemala,Luxembourg
+90,220,1920,401596.44,1,Oro Americano,Guatemala,France
+90,220,1921,545795,1,Quetzales,Guatemala,France
+90,220,1922,355676,1,Quetzales,Guatemala,France
+90,220,1923,383939,1,Quetzales,Guatemala,France
+90,220,1924,696478,1,Quetzales,Guatemala,France
+90,220,1925,718340,1,Quetzales,Guatemala,France
+90,220,1926,566018.23,1,Oro Americano,Guatemala,France
+90,220,1927,508887.57,1,Oro Americano,Guatemala,France
+90,220,1928,615363.55,1,Oro Americano,Guatemala,France
+90,220,1929,877872.97,1,Oro Americano,Guatemala,France
+90,220,1930,378371.23,1,Oro Americano,Guatemala,France
+90,220,1931,357535,1,Oro Americano,Guatemala,France
+90,220,1932,193827,1,Oro Americano,Guatemala,France
+90,220,1933,197131,1,Oro Americano,Guatemala,France
+90,220,1934,235662,1,Quetzales,Guatemala,France
+90,220,1935,219381,1,Quetzales,Guatemala,France
+90,220,1936,211952,1,Quetzales,Guatemala,France
+90,220,1937,181647,1,Quetzales,Guatemala,France
+90,220,1938,254312,1,Quetzales,Guatemala,France
+90,220,1939,213165,1,Quetzales,Guatemala,France
+90,220,1940,137647,1,Quetzales,Guatemala,France
+90,220,1941,11639,1,Quetzales,Guatemala,France
+90,220,1942,3390,1,Quetzales,Guatemala,France
+90,225,1920,1067.05,1,Oro Americano,Guatemala,Switzerland
+90,225,1921,0,1,Quetzales,Guatemala,Switzerland
+90,225,1922,0,1,Quetzales,Guatemala,Switzerland
+90,225,1923,0,1,Quetzales,Guatemala,Switzerland
+90,225,1924,0,1,Quetzales,Guatemala,Switzerland
+90,225,1925,0,1,Quetzales,Guatemala,Switzerland
+90,225,1926,17966,1,Oro Americano,Guatemala,Switzerland
+90,225,1927,18278.83,1,Oro Americano,Guatemala,Switzerland
+90,225,1928,15508,1,Oro Americano,Guatemala,Switzerland
+90,225,1929,142535.73,1,Oro Americano,Guatemala,Switzerland
+90,225,1930,38021.98,1,Oro Americano,Guatemala,Switzerland
+90,225,1931,412584,1,Oro Americano,Guatemala,Switzerland
+90,225,1932,17600,1,Oro Americano,Guatemala,Switzerland
+90,225,1933,10547,1,Oro Americano,Guatemala,Switzerland
+90,225,1934,176839,1,Quetzales,Guatemala,Switzerland
+90,225,1935,12587,1,Quetzales,Guatemala,Switzerland
+90,225,1936,15440,1,Quetzales,Guatemala,Switzerland
+90,225,1937,28488,1,Quetzales,Guatemala,Switzerland
+90,225,1938,59278,1,Quetzales,Guatemala,Switzerland
+90,225,1939,57219,1,Quetzales,Guatemala,Switzerland
+90,225,1940,58693,1,Quetzales,Guatemala,Switzerland
+90,225,1941,57373,1,Quetzales,Guatemala,Switzerland
+90,225,1942,43433,1,Quetzales,Guatemala,Switzerland
+90,230,1920,143272.86,1,Oro Americano,Guatemala,Spain
+90,230,1921,146583,1,Quetzales,Guatemala,Spain
+90,230,1922,131153,1,Quetzales,Guatemala,Spain
+90,230,1923,149023,1,Quetzales,Guatemala,Spain
+90,230,1924,176402,1,Quetzales,Guatemala,Spain
+90,230,1925,223547,1,Quetzales,Guatemala,Spain
+90,230,1926,208328.87,1,Oro Americano,Guatemala,Spain
+90,230,1927,247511.96,1,Oro Americano,Guatemala,Spain
+90,230,1928,252317.34,1,Oro Americano,Guatemala,Spain
+90,230,1929,296399.88,1,Oro Americano,Guatemala,Spain
+90,230,1930,142639.58,1,Oro Americano,Guatemala,Spain
+90,230,1931,123930,1,Oro Americano,Guatemala,Spain
+90,230,1932,65902,1,Oro Americano,Guatemala,Spain
+90,230,1933,61531,1,Oro Americano,Guatemala,Spain
+90,230,1934,93768,1,Quetzales,Guatemala,Spain
+90,230,1935,97781,1,Quetzales,Guatemala,Spain
+90,230,1936,70766,1,Quetzales,Guatemala,Spain
+90,230,1937,36531,1,Quetzales,Guatemala,Spain
+90,230,1938,30555,1,Quetzales,Guatemala,Spain
+90,230,1939,22983,1,Quetzales,Guatemala,Spain
+90,230,1940,38328,1,Quetzales,Guatemala,Spain
+90,230,1941,28576,1,Quetzales,Guatemala,Spain
+90,230,1942,13274,1,Quetzales,Guatemala,Spain
+90,235,1920,800,1,Oro Americano,Guatemala,Portugal
+90,235,1921,0,1,Quetzales,Guatemala,Portugal
+90,235,1922,0,1,Quetzales,Guatemala,Portugal
+90,235,1923,0,1,Quetzales,Guatemala,Portugal
+90,235,1924,0,1,Quetzales,Guatemala,Portugal
+90,235,1925,0,1,Quetzales,Guatemala,Portugal
+90,235,1926,2209.5,1,Oro Americano,Guatemala,Portugal
+90,235,1927,2025,1,Oro Americano,Guatemala,Portugal
+90,235,1928,470,1,Oro Americano,Guatemala,Portugal
+90,235,1929,0,1,Oro Americano,Guatemala,Portugal
+90,235,1930,157,1,Oro Americano,Guatemala,Portugal
+90,235,1931,168,1,Oro Americano,Guatemala,Portugal
+90,235,1932,87,1,Oro Americano,Guatemala,Portugal
+90,235,1933,333,1,Oro Americano,Guatemala,Portugal
+90,235,1934,64,1,Quetzales,Guatemala,Portugal
+90,235,1935,172,1,Quetzales,Guatemala,Portugal
+90,235,1936,1305,1,Quetzales,Guatemala,Portugal
+90,235,1937,905,1,Quetzales,Guatemala,Portugal
+90,235,1938,2292,1,Quetzales,Guatemala,Portugal
+90,235,1939,2212,1,Quetzales,Guatemala,Portugal
+90,235,1940,2042,1,Quetzales,Guatemala,Portugal
+90,235,1941,7393,1,Quetzales,Guatemala,Portugal
+90,235,1942,3107,1,Quetzales,Guatemala,Portugal
+90,255,1920,608261.6899999999,1,Oro Americano,Guatemala,Germany
+90,255,1921,1387447,1,Quetzales,Guatemala,Germany
+90,255,1922,1199911,1,Quetzales,Guatemala,Germany
+90,255,1923,1627835,1,Quetzales,Guatemala,Germany
+90,255,1924,1838236,1,Quetzales,Guatemala,Germany
+90,255,1925,2557972,1,Quetzales,Guatemala,Germany
+90,255,1926,2577058.62,1,Oro Americano,Guatemala,Germany
+90,255,1927,2532869.88,1,Oro Americano,Guatemala,Germany
+90,255,1928,2947296.03,1,Oro Americano,Guatemala,Germany
+90,255,1929,3364569.16,1,Oro Americano,Guatemala,Germany
+90,255,1930,1641208.59,1,Oro Americano,Guatemala,Germany
+90,255,1931,1280852,1,Oro Americano,Guatemala,Germany
+90,255,1932,704641,1,Oro Americano,Guatemala,Germany
+90,255,1933,739869.1,1,Oro Americano,Guatemala,Germany
+90,255,1934,930542,1,Quetzales,Guatemala,Germany
+90,255,1935,2161269,1,Quetzales,Guatemala,Germany
+90,255,1936,3568370,1,Quetzales,Guatemala,Germany
+90,255,1937,5429036,1,Quetzales,Guatemala,Germany
+90,255,1938,5880664,1,Quetzales,Guatemala,Germany
+90,255,1939,4128777,1,Quetzales,Guatemala,Germany
+90,255,1940,362058,1,Quetzales,Guatemala,Germany
+90,255,1941,46448,1,Quetzales,Guatemala,Germany
+90,255,1942,1745,1,Quetzales,Guatemala,Germany
+90,290,1920,0,1,Oro Americano,Guatemala,Poland
+90,290,1921,0,1,Quetzales,Guatemala,Poland
+90,290,1922,0,1,Quetzales,Guatemala,Poland
+90,290,1923,0,1,Quetzales,Guatemala,Poland
+90,290,1924,0,1,Quetzales,Guatemala,Poland
+90,290,1925,0,1,Quetzales,Guatemala,Poland
+90,290,1926,0,1,Oro Americano,Guatemala,Poland
+90,290,1927,0,1,Oro Americano,Guatemala,Poland
+90,290,1928,0,1,Oro Americano,Guatemala,Poland
+90,290,1929,0,1,Oro Americano,Guatemala,Poland
+90,290,1930,0,1,Oro Americano,Guatemala,Poland
+90,290,1931,2550,1,Oro Americano,Guatemala,Poland
+90,290,1932,41,1,Oro Americano,Guatemala,Poland
+90,290,1933,3518,1,Oro Americano,Guatemala,Poland
+90,290,1934,1648,1,Quetzales,Guatemala,Poland
+90,290,1935,535,1,Quetzales,Guatemala,Poland
+90,290,1936,12971,1,Quetzales,Guatemala,Poland
+90,290,1937,6976,1,Quetzales,Guatemala,Poland
+90,290,1938,4116,1,Quetzales,Guatemala,Poland
+90,290,1939,17695,1,Quetzales,Guatemala,Poland
+90,290,1940,8,1,Quetzales,Guatemala,Poland
+90,290,1941,0,1,Quetzales,Guatemala,Poland
+90,290,1942,0,1,Quetzales,Guatemala,Poland
+90,305,1920,0,1,Oro Americano,Guatemala,Austria
+90,305,1921,0,1,Quetzales,Guatemala,Austria
+90,305,1922,0,1,Quetzales,Guatemala,Austria
+90,305,1923,0,1,Quetzales,Guatemala,Austria
+90,305,1924,0,1,Quetzales,Guatemala,Austria
+90,305,1925,0,1,Quetzales,Guatemala,Austria
+90,305,1926,1455,1,Oro Americano,Guatemala,Austria
+90,305,1927,10491,1,Oro Americano,Guatemala,Austria
+90,305,1928,9629.799999999999,1,Oro Americano,Guatemala,Austria
+90,305,1929,24535,1,Oro Americano,Guatemala,Austria
+90,305,1930,23676.35,1,Oro Americano,Guatemala,Austria
+90,305,1931,18636,1,Oro Americano,Guatemala,Austria
+90,305,1932,7811,1,Oro Americano,Guatemala,Austria
+90,305,1933,5163,1,Oro Americano,Guatemala,Austria
+90,305,1934,5720,1,Quetzales,Guatemala,Austria
+90,305,1935,6376,1,Quetzales,Guatemala,Austria
+90,305,1936,4005,1,Quetzales,Guatemala,Austria
+90,305,1937,23130,1,Quetzales,Guatemala,Austria
+90,305,1938,12723,1,Quetzales,Guatemala,Austria
+90,305,1939,0,1,Quetzales,Guatemala,Austria
+90,305,1940,0,1,Quetzales,Guatemala,Austria
+90,305,1941,0,1,Quetzales,Guatemala,Austria
+90,305,1942,0,1,Quetzales,Guatemala,Austria
+90,310,1920,0,1,Oro Americano,Guatemala,Hungary
+90,310,1921,0,1,Quetzales,Guatemala,Hungary
+90,310,1922,0,1,Quetzales,Guatemala,Hungary
+90,310,1923,0,1,Quetzales,Guatemala,Hungary
+90,310,1924,0,1,Quetzales,Guatemala,Hungary
+90,310,1925,0,1,Quetzales,Guatemala,Hungary
+90,310,1926,0,1,Oro Americano,Guatemala,Hungary
+90,310,1927,0,1,Oro Americano,Guatemala,Hungary
+90,310,1928,0,1,Oro Americano,Guatemala,Hungary
+90,310,1929,0,1,Oro Americano,Guatemala,Hungary
+90,310,1930,83,1,Oro Americano,Guatemala,Hungary
+90,310,1931,684,1,Oro Americano,Guatemala,Hungary
+90,310,1932,1237,1,Oro Americano,Guatemala,Hungary
+90,310,1933,1589,1,Oro Americano,Guatemala,Hungary
+90,310,1934,1974,1,Quetzales,Guatemala,Hungary
+90,310,1935,6423,1,Quetzales,Guatemala,Hungary
+90,310,1936,4076,1,Quetzales,Guatemala,Hungary
+90,310,1937,44666,1,Quetzales,Guatemala,Hungary
+90,310,1938,74638,1,Quetzales,Guatemala,Hungary
+90,310,1939,39277,1,Quetzales,Guatemala,Hungary
+90,310,1940,8073,1,Quetzales,Guatemala,Hungary
+90,310,1941,1094,1,Quetzales,Guatemala,Hungary
+90,310,1942,0,1,Quetzales,Guatemala,Hungary
+90,315,1920,0,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1921,0,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1922,0,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1923,0,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1924,0,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1925,0,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1926,414,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1927,0,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1928,364,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1929,6415,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1930,7592.4,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1931,10200,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1932,6236,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1933,8755,1,Oro Americano,Guatemala,Czechoslovakia
+90,315,1934,12565,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1935,11065,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1936,71995,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1937,270840,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1938,146970,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1939,73000,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1940,6365,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1941,17799,1,Quetzales,Guatemala,Czechoslovakia
+90,315,1942,0,1,Quetzales,Guatemala,Czechoslovakia
+90,325,1920,63307.23,1,Oro Americano,Guatemala,Italy
+90,325,1921,110992,1,Quetzales,Guatemala,Italy
+90,325,1922,46183,1,Quetzales,Guatemala,Italy
+90,325,1923,115235,1,Quetzales,Guatemala,Italy
+90,325,1924,103557,1,Quetzales,Guatemala,Italy
+90,325,1925,200842,1,Quetzales,Guatemala,Italy
+90,325,1926,361663.21,1,Oro Americano,Guatemala,Italy
+90,325,1927,514117.09,1,Oro Americano,Guatemala,Italy
+90,325,1928,395547.59,1,Oro Americano,Guatemala,Italy
+90,325,1929,532582.13,1,Oro Americano,Guatemala,Italy
+90,325,1930,358490.3,1,Oro Americano,Guatemala,Italy
+90,325,1931,239477,1,Oro Americano,Guatemala,Italy
+90,325,1932,147030,1,Oro Americano,Guatemala,Italy
+90,325,1933,146890,1,Oro Americano,Guatemala,Italy
+90,325,1934,175149,1,Quetzales,Guatemala,Italy
+90,325,1935,191024,1,Quetzales,Guatemala,Italy
+90,325,1936,168881,1,Quetzales,Guatemala,Italy
+90,325,1937,253196,1,Quetzales,Guatemala,Italy
+90,325,1938,224940,1,Quetzales,Guatemala,Italy
+90,325,1939,265874,1,Quetzales,Guatemala,Italy
+90,325,1940,310880,1,Quetzales,Guatemala,Italy
+90,325,1941,9754,1,Quetzales,Guatemala,Italy
+90,325,1942,86,1,Quetzales,Guatemala,Italy
+90,345,1920,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1921,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1922,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1923,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1924,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1925,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1926,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1927,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1928,200,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1929,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1930,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1931,40,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1932,0,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1933,15,1,Oro Americano,Guatemala,Yugoslavia
+90,345,1934,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1935,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1936,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1937,0,1,Quetzales,Guatemala,Yugoslavia
+90,345,1938,155,1,Quetzales,Guatemala,Yugoslavia
+90,345,1939,274,1,Quetzales,Guatemala,Yugoslavia
+90,345,1940,6200,1,Quetzales,Guatemala,Yugoslavia
+90,345,1941,26,1,Quetzales,Guatemala,Yugoslavia
+90,345,1942,0,1,Quetzales,Guatemala,Yugoslavia
+90,350,1920,0,1,Oro Americano,Guatemala,Greece
+90,350,1921,0,1,Quetzales,Guatemala,Greece
+90,350,1922,0,1,Quetzales,Guatemala,Greece
+90,350,1923,0,1,Quetzales,Guatemala,Greece
+90,350,1924,0,1,Quetzales,Guatemala,Greece
+90,350,1925,0,1,Quetzales,Guatemala,Greece
+90,350,1926,142,1,Oro Americano,Guatemala,Greece
+90,350,1927,0,1,Oro Americano,Guatemala,Greece
+90,350,1928,0,1,Oro Americano,Guatemala,Greece
+90,350,1929,0,1,Oro Americano,Guatemala,Greece
+90,350,1930,0,1,Oro Americano,Guatemala,Greece
+90,350,1931,0,1,Oro Americano,Guatemala,Greece
+90,350,1932,0,1,Oro Americano,Guatemala,Greece
+90,350,1933,0,1,Oro Americano,Guatemala,Greece
+90,350,1934,10,1,Quetzales,Guatemala,Greece
+90,350,1935,0,1,Quetzales,Guatemala,Greece
+90,350,1936,74,1,Quetzales,Guatemala,Greece
+90,350,1937,0,1,Quetzales,Guatemala,Greece
+90,350,1938,0,1,Quetzales,Guatemala,Greece
+90,350,1939,53,1,Quetzales,Guatemala,Greece
+90,350,1940,1095,1,Quetzales,Guatemala,Greece
+90,350,1941,3844,1,Quetzales,Guatemala,Greece
+90,350,1942,664,1,Quetzales,Guatemala,Greece
+90,355,1920,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1921,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1922,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1923,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1924,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1925,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1926,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1927,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1928,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1929,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1930,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1931,0,1,Oro Americano,Guatemala,Bulgaria
+90,355,1932,200,1,Oro Americano,Guatemala,Bulgaria
+90,355,1933,518,1,Oro Americano,Guatemala,Bulgaria
+90,355,1934,162,1,Quetzales,Guatemala,Bulgaria
+90,355,1935,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1936,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1937,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1938,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1939,52,1,Quetzales,Guatemala,Bulgaria
+90,355,1940,0,1,Quetzales,Guatemala,Bulgaria
+90,355,1941,16,1,Quetzales,Guatemala,Bulgaria
+90,355,1942,0,1,Quetzales,Guatemala,Bulgaria
+90,360,1920,0,1,Oro Americano,Guatemala,Romania
+90,360,1921,0,1,Quetzales,Guatemala,Romania
+90,360,1922,0,1,Quetzales,Guatemala,Romania
+90,360,1923,0,1,Quetzales,Guatemala,Romania
+90,360,1924,0,1,Quetzales,Guatemala,Romania
+90,360,1925,0,1,Quetzales,Guatemala,Romania
+90,360,1926,0,1,Oro Americano,Guatemala,Romania
+90,360,1927,0,1,Oro Americano,Guatemala,Romania
+90,360,1928,0,1,Oro Americano,Guatemala,Romania
+90,360,1929,0,1,Oro Americano,Guatemala,Romania
+90,360,1930,0,1,Oro Americano,Guatemala,Romania
+90,360,1931,35,1,Oro Americano,Guatemala,Romania
+90,360,1932,0,1,Oro Americano,Guatemala,Romania
+90,360,1933,0,1,Oro Americano,Guatemala,Romania
+90,360,1934,0,1,Quetzales,Guatemala,Romania
+90,360,1935,0,1,Quetzales,Guatemala,Romania
+90,360,1936,1611,1,Quetzales,Guatemala,Romania
+90,360,1937,507,1,Quetzales,Guatemala,Romania
+90,360,1938,9841,1,Quetzales,Guatemala,Romania
+90,360,1939,5892,1,Quetzales,Guatemala,Romania
+90,360,1940,0,1,Quetzales,Guatemala,Romania
+90,360,1941,0,1,Quetzales,Guatemala,Romania
+90,360,1942,0,1,Quetzales,Guatemala,Romania
+90,365,1920,0,1,Oro Americano,Guatemala,Russia
+90,365,1921,0,1,Quetzales,Guatemala,Russia
+90,365,1922,0,1,Quetzales,Guatemala,Russia
+90,365,1923,0,1,Quetzales,Guatemala,Russia
+90,365,1924,0,1,Quetzales,Guatemala,Russia
+90,365,1925,0,1,Quetzales,Guatemala,Russia
+90,365,1926,0,1,Oro Americano,Guatemala,Russia
+90,365,1927,0,1,Oro Americano,Guatemala,Russia
+90,365,1928,0,1,Oro Americano,Guatemala,Russia
+90,365,1929,0,1,Oro Americano,Guatemala,Russia
+90,365,1930,0,1,Oro Americano,Guatemala,Russia
+90,365,1931,235,1,Oro Americano,Guatemala,Russia
+90,365,1932,0,1,Oro Americano,Guatemala,Russia
+90,365,1933,0,1,Oro Americano,Guatemala,Russia
+90,365,1934,0,1,Quetzales,Guatemala,Russia
+90,365,1935,0,1,Quetzales,Guatemala,Russia
+90,365,1936,0,1,Quetzales,Guatemala,Russia
+90,365,1937,0,1,Quetzales,Guatemala,Russia
+90,365,1938,0,1,Quetzales,Guatemala,Russia
+90,365,1939,209,1,Quetzales,Guatemala,Russia
+90,365,1940,648,1,Quetzales,Guatemala,Russia
+90,365,1941,0,1,Quetzales,Guatemala,Russia
+90,365,1942,56,1,Quetzales,Guatemala,Russia
+90,366,1920,0,1,Oro Americano,Guatemala,Estonia
+90,366,1921,0,1,Quetzales,Guatemala,Estonia
+90,366,1922,0,1,Quetzales,Guatemala,Estonia
+90,366,1923,0,1,Quetzales,Guatemala,Estonia
+90,366,1924,0,1,Quetzales,Guatemala,Estonia
+90,366,1925,0,1,Quetzales,Guatemala,Estonia
+90,366,1926,0,1,Oro Americano,Guatemala,Estonia
+90,366,1927,0,1,Oro Americano,Guatemala,Estonia
+90,366,1928,0,1,Oro Americano,Guatemala,Estonia
+90,366,1929,0,1,Oro Americano,Guatemala,Estonia
+90,366,1930,0,1,Oro Americano,Guatemala,Estonia
+90,366,1931,0,1,Oro Americano,Guatemala,Estonia
+90,366,1932,0,1,Oro Americano,Guatemala,Estonia
+90,366,1933,0,1,Oro Americano,Guatemala,Estonia
+90,366,1934,0,1,Quetzales,Guatemala,Estonia
+90,366,1935,0,1,Quetzales,Guatemala,Estonia
+90,366,1936,0,1,Quetzales,Guatemala,Estonia
+90,366,1937,295,1,Quetzales,Guatemala,Estonia
+90,366,1938,236,1,Quetzales,Guatemala,Estonia
+90,366,1939,0,1,Quetzales,Guatemala,Estonia
+90,366,1940,0,1,Quetzales,Guatemala,Estonia
+90,366,1941,0,1,Quetzales,Guatemala,Estonia
+90,366,1942,0,1,Quetzales,Guatemala,Estonia
+90,367,1920,0,1,Oro Americano,Guatemala,Latvia
+90,367,1921,0,1,Quetzales,Guatemala,Latvia
+90,367,1922,0,1,Quetzales,Guatemala,Latvia
+90,367,1923,0,1,Quetzales,Guatemala,Latvia
+90,367,1924,0,1,Quetzales,Guatemala,Latvia
+90,367,1925,0,1,Quetzales,Guatemala,Latvia
+90,367,1926,0,1,Oro Americano,Guatemala,Latvia
+90,367,1927,0,1,Oro Americano,Guatemala,Latvia
+90,367,1928,0,1,Oro Americano,Guatemala,Latvia
+90,367,1929,0,1,Oro Americano,Guatemala,Latvia
+90,367,1930,0,1,Oro Americano,Guatemala,Latvia
+90,367,1931,0,1,Oro Americano,Guatemala,Latvia
+90,367,1932,0,1,Oro Americano,Guatemala,Latvia
+90,367,1933,0,1,Oro Americano,Guatemala,Latvia
+90,367,1934,0,1,Quetzales,Guatemala,Latvia
+90,367,1935,0,1,Quetzales,Guatemala,Latvia
+90,367,1936,126,1,Quetzales,Guatemala,Latvia
+90,367,1937,0,1,Quetzales,Guatemala,Latvia
+90,367,1938,198,1,Quetzales,Guatemala,Latvia
+90,367,1939,70,1,Quetzales,Guatemala,Latvia
+90,367,1940,4668,1,Quetzales,Guatemala,Latvia
+90,367,1941,0,1,Quetzales,Guatemala,Latvia
+90,367,1942,0,1,Quetzales,Guatemala,Latvia
+90,375,1920,0,1,Oro Americano,Guatemala,Finland
+90,375,1921,0,1,Quetzales,Guatemala,Finland
+90,375,1922,0,1,Quetzales,Guatemala,Finland
+90,375,1923,0,1,Quetzales,Guatemala,Finland
+90,375,1924,0,1,Quetzales,Guatemala,Finland
+90,375,1925,0,1,Quetzales,Guatemala,Finland
+90,375,1926,0,1,Oro Americano,Guatemala,Finland
+90,375,1927,0,1,Oro Americano,Guatemala,Finland
+90,375,1928,0,1,Oro Americano,Guatemala,Finland
+90,375,1929,0,1,Oro Americano,Guatemala,Finland
+90,375,1930,0,1,Oro Americano,Guatemala,Finland
+90,375,1931,359,1,Oro Americano,Guatemala,Finland
+90,375,1932,0,1,Oro Americano,Guatemala,Finland
+90,375,1933,0,1,Oro Americano,Guatemala,Finland
+90,375,1934,0,1,Quetzales,Guatemala,Finland
+90,375,1935,0,1,Quetzales,Guatemala,Finland
+90,375,1936,1352,1,Quetzales,Guatemala,Finland
+90,375,1937,2889,1,Quetzales,Guatemala,Finland
+90,375,1938,2597,1,Quetzales,Guatemala,Finland
+90,375,1939,13672,1,Quetzales,Guatemala,Finland
+90,375,1940,5684,1,Quetzales,Guatemala,Finland
+90,375,1941,6620,1,Quetzales,Guatemala,Finland
+90,375,1942,10,1,Quetzales,Guatemala,Finland
+90,380,1920,87141.8,1,Oro Americano,Guatemala,Sweden
+90,380,1921,41308,1,Quetzales,Guatemala,Sweden
+90,380,1922,51558,1,Quetzales,Guatemala,Sweden
+90,380,1923,58343,1,Quetzales,Guatemala,Sweden
+90,380,1924,95609,1,Quetzales,Guatemala,Sweden
+90,380,1925,98172,1,Quetzales,Guatemala,Sweden
+90,380,1926,48302.07,1,Oro Americano,Guatemala,Sweden
+90,380,1927,74161.95,1,Oro Americano,Guatemala,Sweden
+90,380,1928,96646.50999999999,1,Oro Americano,Guatemala,Sweden
+90,380,1929,95344.59,1,Oro Americano,Guatemala,Sweden
+90,380,1930,126247,1,Oro Americano,Guatemala,Sweden
+90,380,1931,39659,1,Oro Americano,Guatemala,Sweden
+90,380,1932,349338,1,Oro Americano,Guatemala,Sweden
+90,380,1933,183396,1,Oro Americano,Guatemala,Sweden
+90,380,1934,17819,1,Quetzales,Guatemala,Sweden
+90,380,1935,197440,1,Quetzales,Guatemala,Sweden
+90,380,1936,201347,1,Quetzales,Guatemala,Sweden
+90,380,1937,230169,1,Quetzales,Guatemala,Sweden
+90,380,1938,235709,1,Quetzales,Guatemala,Sweden
+90,380,1939,191831,1,Quetzales,Guatemala,Sweden
+90,380,1940,101238,1,Quetzales,Guatemala,Sweden
+90,380,1941,171686,1,Quetzales,Guatemala,Sweden
+90,380,1942,52162,1,Quetzales,Guatemala,Sweden
+90,385,1920,0,1,Oro Americano,Guatemala,Norway
+90,385,1921,0,1,Quetzales,Guatemala,Norway
+90,385,1922,0,1,Quetzales,Guatemala,Norway
+90,385,1923,0,1,Quetzales,Guatemala,Norway
+90,385,1924,0,1,Quetzales,Guatemala,Norway
+90,385,1925,0,1,Quetzales,Guatemala,Norway
+90,385,1926,9959.879999999999,1,Oro Americano,Guatemala,Norway
+90,385,1927,10893.05,1,Oro Americano,Guatemala,Norway
+90,385,1928,11827.42,1,Oro Americano,Guatemala,Norway
+90,385,1929,10369.71,1,Oro Americano,Guatemala,Norway
+90,385,1930,9973,1,Oro Americano,Guatemala,Norway
+90,385,1931,4106,1,Oro Americano,Guatemala,Norway
+90,385,1932,2418,1,Oro Americano,Guatemala,Norway
+90,385,1933,4169,1,Oro Americano,Guatemala,Norway
+90,385,1934,7640,1,Quetzales,Guatemala,Norway
+90,385,1935,18807,1,Quetzales,Guatemala,Norway
+90,385,1936,31711,1,Quetzales,Guatemala,Norway
+90,385,1937,36564,1,Quetzales,Guatemala,Norway
+90,385,1938,25395,1,Quetzales,Guatemala,Norway
+90,385,1939,19561,1,Quetzales,Guatemala,Norway
+90,385,1940,25782,1,Quetzales,Guatemala,Norway
+90,385,1941,1155,1,Quetzales,Guatemala,Norway
+90,385,1942,488,1,Quetzales,Guatemala,Norway
+90,390,1920,3131.68,1,Oro Americano,Guatemala,Denmark
+90,390,1921,0,1,Quetzales,Guatemala,Denmark
+90,390,1922,0,1,Quetzales,Guatemala,Denmark
+90,390,1923,0,1,Quetzales,Guatemala,Denmark
+90,390,1924,0,1,Quetzales,Guatemala,Denmark
+90,390,1925,0,1,Quetzales,Guatemala,Denmark
+90,390,1926,9401.9,1,Oro Americano,Guatemala,Denmark
+90,390,1927,3237.08,1,Oro Americano,Guatemala,Denmark
+90,390,1928,13942.09,1,Oro Americano,Guatemala,Denmark
+90,390,1929,12622.1,1,Oro Americano,Guatemala,Denmark
+90,390,1930,9532,1,Oro Americano,Guatemala,Denmark
+90,390,1931,6953,1,Oro Americano,Guatemala,Denmark
+90,390,1932,7318,1,Oro Americano,Guatemala,Denmark
+90,390,1933,4762,1,Oro Americano,Guatemala,Denmark
+90,390,1934,7174,1,Quetzales,Guatemala,Denmark
+90,390,1935,10759,1,Quetzales,Guatemala,Denmark
+90,390,1936,13528,1,Quetzales,Guatemala,Denmark
+90,390,1937,31792,1,Quetzales,Guatemala,Denmark
+90,390,1938,26070,1,Quetzales,Guatemala,Denmark
+90,390,1939,18902,1,Quetzales,Guatemala,Denmark
+90,390,1940,5252,1,Quetzales,Guatemala,Denmark
+90,390,1941,10,1,Quetzales,Guatemala,Denmark
+90,390,1942,0,1,Quetzales,Guatemala,Denmark
+90,395,1920,0,1,Oro Americano,Guatemala,Iceland
+90,395,1921,0,1,Quetzales,Guatemala,Iceland
+90,395,1922,0,1,Quetzales,Guatemala,Iceland
+90,395,1923,0,1,Quetzales,Guatemala,Iceland
+90,395,1924,0,1,Quetzales,Guatemala,Iceland
+90,395,1925,0,1,Quetzales,Guatemala,Iceland
+90,395,1926,0,1,Oro Americano,Guatemala,Iceland
+90,395,1927,0,1,Oro Americano,Guatemala,Iceland
+90,395,1928,0,1,Oro Americano,Guatemala,Iceland
+90,395,1929,0,1,Oro Americano,Guatemala,Iceland
+90,395,1930,0,1,Oro Americano,Guatemala,Iceland
+90,395,1931,0,1,Oro Americano,Guatemala,Iceland
+90,395,1932,0,1,Oro Americano,Guatemala,Iceland
+90,395,1933,0,1,Oro Americano,Guatemala,Iceland
+90,395,1934,0,1,Quetzales,Guatemala,Iceland
+90,395,1935,0,1,Quetzales,Guatemala,Iceland
+90,395,1936,0,1,Quetzales,Guatemala,Iceland
+90,395,1937,0,1,Quetzales,Guatemala,Iceland
+90,395,1938,0,1,Quetzales,Guatemala,Iceland
+90,395,1939,0,1,Quetzales,Guatemala,Iceland
+90,395,1940,0,1,Quetzales,Guatemala,Iceland
+90,395,1941,245,1,Quetzales,Guatemala,Iceland
+90,395,1942,0,1,Quetzales,Guatemala,Iceland
+90,511,1920,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1921,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1922,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1923,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1924,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1925,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1926,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1927,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1928,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1929,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1930,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1931,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1932,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1933,0,1,Oro Americano,Guatemala,Zanzibar
+90,511,1934,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1935,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1936,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1937,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1938,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1939,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1940,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1941,0,1,Quetzales,Guatemala,Zanzibar
+90,511,1942,1219,1,Quetzales,Guatemala,Zanzibar
+90,521,1920,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1921,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1922,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1923,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1924,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1925,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1926,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1927,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1928,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1929,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1930,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1931,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1932,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1933,0,1,Oro Americano,Guatemala,British Somaliland
+90,521,1934,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1935,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1936,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1937,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1938,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1939,488,1,Quetzales,Guatemala,British Somaliland
+90,521,1940,294,1,Quetzales,Guatemala,British Somaliland
+90,521,1941,0,1,Quetzales,Guatemala,British Somaliland
+90,521,1942,0,1,Quetzales,Guatemala,British Somaliland
+90,580,1920,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1921,0,1,Quetzales,Guatemala,Madagascar
+90,580,1922,0,1,Quetzales,Guatemala,Madagascar
+90,580,1923,0,1,Quetzales,Guatemala,Madagascar
+90,580,1924,0,1,Quetzales,Guatemala,Madagascar
+90,580,1925,0,1,Quetzales,Guatemala,Madagascar
+90,580,1926,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1927,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1928,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1929,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1930,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1931,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1932,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1933,0,1,Oro Americano,Guatemala,Madagascar
+90,580,1934,0,1,Quetzales,Guatemala,Madagascar
+90,580,1935,0,1,Quetzales,Guatemala,Madagascar
+90,580,1936,0,1,Quetzales,Guatemala,Madagascar
+90,580,1937,0,1,Quetzales,Guatemala,Madagascar
+90,580,1938,0,1,Quetzales,Guatemala,Madagascar
+90,580,1939,199,1,Quetzales,Guatemala,Madagascar
+90,580,1940,1126,1,Quetzales,Guatemala,Madagascar
+90,580,1941,331,1,Quetzales,Guatemala,Madagascar
+90,580,1942,0,1,Quetzales,Guatemala,Madagascar
+90,600,1920,0,1,Oro Americano,Guatemala,Morocco
+90,600,1921,0,1,Quetzales,Guatemala,Morocco
+90,600,1922,0,1,Quetzales,Guatemala,Morocco
+90,600,1923,0,1,Quetzales,Guatemala,Morocco
+90,600,1924,0,1,Quetzales,Guatemala,Morocco
+90,600,1925,0,1,Quetzales,Guatemala,Morocco
+90,600,1926,0,1,Oro Americano,Guatemala,Morocco
+90,600,1927,0,1,Oro Americano,Guatemala,Morocco
+90,600,1928,0,1,Oro Americano,Guatemala,Morocco
+90,600,1929,0,1,Oro Americano,Guatemala,Morocco
+90,600,1930,0,1,Oro Americano,Guatemala,Morocco
+90,600,1931,0,1,Oro Americano,Guatemala,Morocco
+90,600,1932,0,1,Oro Americano,Guatemala,Morocco
+90,600,1933,0,1,Oro Americano,Guatemala,Morocco
+90,600,1934,0,1,Quetzales,Guatemala,Morocco
+90,600,1935,0,1,Quetzales,Guatemala,Morocco
+90,600,1936,0,1,Quetzales,Guatemala,Morocco
+90,600,1937,0,1,Quetzales,Guatemala,Morocco
+90,600,1938,0,1,Quetzales,Guatemala,Morocco
+90,600,1939,0,1,Quetzales,Guatemala,Morocco
+90,600,1940,440,1,Quetzales,Guatemala,Morocco
+90,600,1941,2385,1,Quetzales,Guatemala,Morocco
+90,600,1942,1199,1,Quetzales,Guatemala,Morocco
+90,615,1920,0,1,Oro Americano,Guatemala,Algeria
+90,615,1921,0,1,Quetzales,Guatemala,Algeria
+90,615,1922,0,1,Quetzales,Guatemala,Algeria
+90,615,1923,0,1,Quetzales,Guatemala,Algeria
+90,615,1924,0,1,Quetzales,Guatemala,Algeria
+90,615,1925,0,1,Quetzales,Guatemala,Algeria
+90,615,1926,0,1,Oro Americano,Guatemala,Algeria
+90,615,1927,0,1,Oro Americano,Guatemala,Algeria
+90,615,1928,0,1,Oro Americano,Guatemala,Algeria
+90,615,1929,0,1,Oro Americano,Guatemala,Algeria
+90,615,1930,0,1,Oro Americano,Guatemala,Algeria
+90,615,1931,0,1,Oro Americano,Guatemala,Algeria
+90,615,1932,0,1,Oro Americano,Guatemala,Algeria
+90,615,1933,0,1,Oro Americano,Guatemala,Algeria
+90,615,1934,0,1,Quetzales,Guatemala,Algeria
+90,615,1935,0,1,Quetzales,Guatemala,Algeria
+90,615,1936,0,1,Quetzales,Guatemala,Algeria
+90,615,1937,0,1,Quetzales,Guatemala,Algeria
+90,615,1938,0,1,Quetzales,Guatemala,Algeria
+90,615,1939,258,1,Quetzales,Guatemala,Algeria
+90,615,1940,0,1,Quetzales,Guatemala,Algeria
+90,615,1941,191,1,Quetzales,Guatemala,Algeria
+90,615,1942,0,1,Quetzales,Guatemala,Algeria
+90,625,1920,0,1,Oro Americano,Guatemala,Sudan
+90,625,1921,0,1,Quetzales,Guatemala,Sudan
+90,625,1922,0,1,Quetzales,Guatemala,Sudan
+90,625,1923,0,1,Quetzales,Guatemala,Sudan
+90,625,1924,0,1,Quetzales,Guatemala,Sudan
+90,625,1925,0,1,Quetzales,Guatemala,Sudan
+90,625,1926,0,1,Oro Americano,Guatemala,Sudan
+90,625,1927,0,1,Oro Americano,Guatemala,Sudan
+90,625,1928,0,1,Oro Americano,Guatemala,Sudan
+90,625,1929,0,1,Oro Americano,Guatemala,Sudan
+90,625,1930,0,1,Oro Americano,Guatemala,Sudan
+90,625,1931,0,1,Oro Americano,Guatemala,Sudan
+90,625,1932,0,1,Oro Americano,Guatemala,Sudan
+90,625,1933,0,1,Oro Americano,Guatemala,Sudan
+90,625,1934,0,1,Quetzales,Guatemala,Sudan
+90,625,1935,0,1,Quetzales,Guatemala,Sudan
+90,625,1936,0,1,Quetzales,Guatemala,Sudan
+90,625,1937,0,1,Quetzales,Guatemala,Sudan
+90,625,1938,0,1,Quetzales,Guatemala,Sudan
+90,625,1939,118,1,Quetzales,Guatemala,Sudan
+90,625,1940,438,1,Quetzales,Guatemala,Sudan
+90,625,1941,980,1,Quetzales,Guatemala,Sudan
+90,625,1942,93,1,Quetzales,Guatemala,Sudan
+90,640,1920,0,1,Oro Americano,Guatemala,Turkey
+90,640,1921,0,1,Quetzales,Guatemala,Turkey
+90,640,1922,0,1,Quetzales,Guatemala,Turkey
+90,640,1923,0,1,Quetzales,Guatemala,Turkey
+90,640,1924,0,1,Quetzales,Guatemala,Turkey
+90,640,1925,0,1,Quetzales,Guatemala,Turkey
+90,640,1926,0,1,Oro Americano,Guatemala,Turkey
+90,640,1927,0,1,Oro Americano,Guatemala,Turkey
+90,640,1928,0,1,Oro Americano,Guatemala,Turkey
+90,640,1929,0,1,Oro Americano,Guatemala,Turkey
+90,640,1930,0,1,Oro Americano,Guatemala,Turkey
+90,640,1931,18,1,Oro Americano,Guatemala,Turkey
+90,640,1932,0,1,Oro Americano,Guatemala,Turkey
+90,640,1933,0,1,Oro Americano,Guatemala,Turkey
+90,640,1934,0,1,Quetzales,Guatemala,Turkey
+90,640,1935,16,1,Quetzales,Guatemala,Turkey
+90,640,1936,10,1,Quetzales,Guatemala,Turkey
+90,640,1937,0,1,Quetzales,Guatemala,Turkey
+90,640,1938,0,1,Quetzales,Guatemala,Turkey
+90,640,1939,0,1,Quetzales,Guatemala,Turkey
+90,640,1940,0,1,Quetzales,Guatemala,Turkey
+90,640,1941,0,1,Quetzales,Guatemala,Turkey
+90,640,1942,538,1,Quetzales,Guatemala,Turkey
+90,651,1920,0,1,Oro Americano,Guatemala,Egypt
+90,651,1921,0,1,Quetzales,Guatemala,Egypt
+90,651,1922,0,1,Quetzales,Guatemala,Egypt
+90,651,1923,0,1,Quetzales,Guatemala,Egypt
+90,651,1924,0,1,Quetzales,Guatemala,Egypt
+90,651,1925,0,1,Quetzales,Guatemala,Egypt
+90,651,1926,0,1,Oro Americano,Guatemala,Egypt
+90,651,1927,0,1,Oro Americano,Guatemala,Egypt
+90,651,1928,0,1,Oro Americano,Guatemala,Egypt
+90,651,1929,382,1,Oro Americano,Guatemala,Egypt
+90,651,1930,81,1,Oro Americano,Guatemala,Egypt
+90,651,1931,103,1,Oro Americano,Guatemala,Egypt
+90,651,1932,106,1,Oro Americano,Guatemala,Egypt
+90,651,1933,24,1,Oro Americano,Guatemala,Egypt
+90,651,1934,22,1,Quetzales,Guatemala,Egypt
+90,651,1935,25,1,Quetzales,Guatemala,Egypt
+90,651,1936,0,1,Quetzales,Guatemala,Egypt
+90,651,1937,274,1,Quetzales,Guatemala,Egypt
+90,651,1938,0,1,Quetzales,Guatemala,Egypt
+90,651,1939,28,1,Quetzales,Guatemala,Egypt
+90,651,1940,24,1,Quetzales,Guatemala,Egypt
+90,651,1941,0,1,Quetzales,Guatemala,Egypt
+90,651,1942,0,1,Quetzales,Guatemala,Egypt
+90,652,1920,0,1,Oro Americano,Guatemala,Syria
+90,652,1921,0,1,Quetzales,Guatemala,Syria
+90,652,1922,0,1,Quetzales,Guatemala,Syria
+90,652,1923,0,1,Quetzales,Guatemala,Syria
+90,652,1924,0,1,Quetzales,Guatemala,Syria
+90,652,1925,0,1,Quetzales,Guatemala,Syria
+90,652,1926,0,1,Oro Americano,Guatemala,Syria
+90,652,1927,0,1,Oro Americano,Guatemala,Syria
+90,652,1928,0,1,Oro Americano,Guatemala,Syria
+90,652,1929,0,1,Oro Americano,Guatemala,Syria
+90,652,1930,0,1,Oro Americano,Guatemala,Syria
+90,652,1931,0,1,Oro Americano,Guatemala,Syria
+90,652,1932,0,1,Oro Americano,Guatemala,Syria
+90,652,1933,0,1,Oro Americano,Guatemala,Syria
+90,652,1934,0,1,Quetzales,Guatemala,Syria
+90,652,1935,14,1,Quetzales,Guatemala,Syria
+90,652,1936,5,1,Quetzales,Guatemala,Syria
+90,652,1937,66,1,Quetzales,Guatemala,Syria
+90,652,1938,0,1,Quetzales,Guatemala,Syria
+90,652,1939,48,1,Quetzales,Guatemala,Syria
+90,652,1940,90,1,Quetzales,Guatemala,Syria
+90,652,1941,71,1,Quetzales,Guatemala,Syria
+90,652,1942,0,1,Quetzales,Guatemala,Syria
+90,665,1920,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1921,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1922,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1923,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1924,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1925,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1926,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1927,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1928,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1929,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1930,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1931,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1932,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1933,0,1,Oro Americano,Guatemala,West Bank And Gaza
+90,665,1934,11,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1935,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1936,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1937,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1938,47,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1939,171,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1940,40,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1941,15,1,Quetzales,Guatemala,West Bank And Gaza
+90,665,1942,0,1,Quetzales,Guatemala,West Bank And Gaza
+90,710,1920,67616.85000000001,1,Oro Americano,Guatemala,China
+90,710,1921,81421,1,Quetzales,Guatemala,China
+90,710,1922,61558,1,Quetzales,Guatemala,China
+90,710,1923,84470,1,Quetzales,Guatemala,China
+90,710,1924,65909,1,Quetzales,Guatemala,China
+90,710,1925,54156,1,Quetzales,Guatemala,China
+90,710,1926,29640.59,1,Oro Americano,Guatemala,China
+90,710,1927,80203.09,1,Oro Americano,Guatemala,China
+90,710,1928,66078.22,1,Oro Americano,Guatemala,China
+90,710,1929,84713.98,1,Oro Americano,Guatemala,China
+90,710,1930,43069.56,1,Oro Americano,Guatemala,China
+90,710,1931,41768,1,Oro Americano,Guatemala,China
+90,710,1932,19815,1,Oro Americano,Guatemala,China
+90,710,1933,16619,1,Oro Americano,Guatemala,China
+90,710,1934,9401,1,Quetzales,Guatemala,China
+90,710,1935,59790,1,Quetzales,Guatemala,China
+90,710,1936,106101,1,Quetzales,Guatemala,China
+90,710,1937,11220,1,Quetzales,Guatemala,China
+90,710,1938,4306,1,Quetzales,Guatemala,China
+90,710,1939,4862,1,Quetzales,Guatemala,China
+90,710,1940,18756,1,Quetzales,Guatemala,China
+90,710,1941,14227,1,Quetzales,Guatemala,China
+90,710,1942,3108,1,Quetzales,Guatemala,China
+90,720,1920,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1921,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1922,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1923,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1924,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1925,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1926,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1927,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1928,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1929,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1930,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1931,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1932,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1933,0,1,Oro Americano,Guatemala,Hong Kong
+90,720,1934,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1935,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1936,0,1,Quetzales,Guatemala,Hong Kong
+90,720,1937,2708,1,Quetzales,Guatemala,Hong Kong
+90,720,1938,7253,1,Quetzales,Guatemala,Hong Kong
+90,720,1939,6343,1,Quetzales,Guatemala,Hong Kong
+90,720,1940,6788,1,Quetzales,Guatemala,Hong Kong
+90,720,1941,2957,1,Quetzales,Guatemala,Hong Kong
+90,720,1942,949,1,Quetzales,Guatemala,Hong Kong
+90,740,1920,259776.13,1,Oro Americano,Guatemala,Japan
+90,740,1921,146056,1,Quetzales,Guatemala,Japan
+90,740,1922,159938,1,Quetzales,Guatemala,Japan
+90,740,1923,378222,1,Quetzales,Guatemala,Japan
+90,740,1924,397466,1,Quetzales,Guatemala,Japan
+90,740,1925,650070,1,Quetzales,Guatemala,Japan
+90,740,1926,309903.84,1,Oro Americano,Guatemala,Japan
+90,740,1927,562462.64,1,Oro Americano,Guatemala,Japan
+90,740,1928,433938.45,1,Oro Americano,Guatemala,Japan
+90,740,1929,289440.68,1,Oro Americano,Guatemala,Japan
+90,740,1930,290893.27,1,Oro Americano,Guatemala,Japan
+90,740,1931,220357,1,Oro Americano,Guatemala,Japan
+90,740,1932,142356,1,Oro Americano,Guatemala,Japan
+90,740,1933,220154,1,Oro Americano,Guatemala,Japan
+90,740,1934,513869,1,Quetzales,Guatemala,Japan
+90,740,1935,450199,1,Quetzales,Guatemala,Japan
+90,740,1936,65633,1,Quetzales,Guatemala,Japan
+90,740,1937,68763,1,Quetzales,Guatemala,Japan
+90,740,1938,38757,1,Quetzales,Guatemala,Japan
+90,740,1939,48514,1,Quetzales,Guatemala,Japan
+90,740,1940,97766,1,Quetzales,Guatemala,Japan
+90,740,1941,69937,1,Quetzales,Guatemala,Japan
+90,740,1942,2525,1,Quetzales,Guatemala,Japan
+90,750,1920,0,1,Oro Americano,Guatemala,India
+90,750,1921,0,1,Quetzales,Guatemala,India
+90,750,1922,0,1,Quetzales,Guatemala,India
+90,750,1923,0,1,Quetzales,Guatemala,India
+90,750,1924,0,1,Quetzales,Guatemala,India
+90,750,1925,0,1,Quetzales,Guatemala,India
+90,750,1926,0,1,Oro Americano,Guatemala,India
+90,750,1927,0,1,Oro Americano,Guatemala,India
+90,750,1928,0,1,Oro Americano,Guatemala,India
+90,750,1929,40,1,Oro Americano,Guatemala,India
+90,750,1930,1,1,Oro Americano,Guatemala,India
+90,750,1931,0,1,Oro Americano,Guatemala,India
+90,750,1932,0,1,Oro Americano,Guatemala,India
+90,750,1933,155,1,Oro Americano,Guatemala,India
+90,750,1934,2353,1,Quetzales,Guatemala,India
+90,750,1935,0,1,Quetzales,Guatemala,India
+90,750,1936,0,1,Quetzales,Guatemala,India
+90,750,1937,0,1,Quetzales,Guatemala,India
+90,750,1938,34136,1,Quetzales,Guatemala,India
+90,750,1939,24332,1,Quetzales,Guatemala,India
+90,750,1940,86430,1,Quetzales,Guatemala,India
+90,750,1941,25886,1,Quetzales,Guatemala,India
+90,750,1942,109785,1,Quetzales,Guatemala,India
+90,810,1920,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1921,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1922,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1923,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1924,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1925,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1926,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1927,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1928,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1929,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1930,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1931,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1932,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1933,0,1,Oro Americano,Guatemala,French Indo-China
+90,810,1934,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1935,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1936,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1937,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1938,0,1,Quetzales,Guatemala,French Indo-China
+90,810,1939,599,1,Quetzales,Guatemala,French Indo-China
+90,810,1940,8518,1,Quetzales,Guatemala,French Indo-China
+90,810,1941,6048,1,Quetzales,Guatemala,French Indo-China
+90,810,1942,2870,1,Quetzales,Guatemala,French Indo-China
+90,830,1920,0,1,Oro Americano,Guatemala,Singapore
+90,830,1921,0,1,Quetzales,Guatemala,Singapore
+90,830,1922,0,1,Quetzales,Guatemala,Singapore
+90,830,1923,0,1,Quetzales,Guatemala,Singapore
+90,830,1924,0,1,Quetzales,Guatemala,Singapore
+90,830,1925,0,1,Quetzales,Guatemala,Singapore
+90,830,1926,0,1,Oro Americano,Guatemala,Singapore
+90,830,1927,0,1,Oro Americano,Guatemala,Singapore
+90,830,1928,0,1,Oro Americano,Guatemala,Singapore
+90,830,1929,0,1,Oro Americano,Guatemala,Singapore
+90,830,1930,0,1,Oro Americano,Guatemala,Singapore
+90,830,1931,0,1,Oro Americano,Guatemala,Singapore
+90,830,1932,0,1,Oro Americano,Guatemala,Singapore
+90,830,1933,0,1,Oro Americano,Guatemala,Singapore
+90,830,1934,0,1,Quetzales,Guatemala,Singapore
+90,830,1935,0,1,Quetzales,Guatemala,Singapore
+90,830,1936,0,1,Quetzales,Guatemala,Singapore
+90,830,1937,0,1,Quetzales,Guatemala,Singapore
+90,830,1938,0,1,Quetzales,Guatemala,Singapore
+90,830,1939,164,1,Quetzales,Guatemala,Singapore
+90,830,1940,0,1,Quetzales,Guatemala,Singapore
+90,830,1941,184,1,Quetzales,Guatemala,Singapore
+90,830,1942,0,1,Quetzales,Guatemala,Singapore
+90,840,1920,0,1,Oro Americano,Guatemala,Philippines
+90,840,1921,0,1,Quetzales,Guatemala,Philippines
+90,840,1922,0,1,Quetzales,Guatemala,Philippines
+90,840,1923,0,1,Quetzales,Guatemala,Philippines
+90,840,1924,0,1,Quetzales,Guatemala,Philippines
+90,840,1925,0,1,Quetzales,Guatemala,Philippines
+90,840,1926,0,1,Oro Americano,Guatemala,Philippines
+90,840,1927,0,1,Oro Americano,Guatemala,Philippines
+90,840,1928,0,1,Oro Americano,Guatemala,Philippines
+90,840,1929,0,1,Oro Americano,Guatemala,Philippines
+90,840,1930,0,1,Oro Americano,Guatemala,Philippines
+90,840,1931,0,1,Oro Americano,Guatemala,Philippines
+90,840,1932,0,1,Oro Americano,Guatemala,Philippines
+90,840,1933,0,1,Oro Americano,Guatemala,Philippines
+90,840,1934,535,1,Quetzales,Guatemala,Philippines
+90,840,1935,0,1,Quetzales,Guatemala,Philippines
+90,840,1936,0,1,Quetzales,Guatemala,Philippines
+90,840,1937,0,1,Quetzales,Guatemala,Philippines
+90,840,1938,0,1,Quetzales,Guatemala,Philippines
+90,840,1939,0,1,Quetzales,Guatemala,Philippines
+90,840,1940,1214,1,Quetzales,Guatemala,Philippines
+90,840,1941,3321,1,Quetzales,Guatemala,Philippines
+90,840,1942,5719,1,Quetzales,Guatemala,Philippines
+90,900,1920,0,1,Oro Americano,Guatemala,Australia
+90,900,1921,0,1,Quetzales,Guatemala,Australia
+90,900,1922,0,1,Quetzales,Guatemala,Australia
+90,900,1923,0,1,Quetzales,Guatemala,Australia
+90,900,1924,0,1,Quetzales,Guatemala,Australia
+90,900,1925,0,1,Quetzales,Guatemala,Australia
+90,900,1926,0,1,Oro Americano,Guatemala,Australia
+90,900,1927,0,1,Oro Americano,Guatemala,Australia
+90,900,1928,0,1,Oro Americano,Guatemala,Australia
+90,900,1929,0,1,Oro Americano,Guatemala,Australia
+90,900,1930,0,1,Oro Americano,Guatemala,Australia
+90,900,1931,0,1,Oro Americano,Guatemala,Australia
+90,900,1932,0,1,Oro Americano,Guatemala,Australia
+90,900,1933,0,1,Oro Americano,Guatemala,Australia
+90,900,1934,0,1,Quetzales,Guatemala,Australia
+90,900,1935,0,1,Quetzales,Guatemala,Australia
+90,900,1936,0,1,Quetzales,Guatemala,Australia
+90,900,1937,0,1,Quetzales,Guatemala,Australia
+90,900,1938,0,1,Quetzales,Guatemala,Australia
+90,900,1939,15264,1,Quetzales,Guatemala,Australia
+90,900,1940,37405,1,Quetzales,Guatemala,Australia
+90,900,1941,25187,1,Quetzales,Guatemala,Australia
+90,900,1942,17032,1,Quetzales,Guatemala,Australia
+90,920,1920,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1921,0,1,Quetzales,Guatemala,New Zealand
+90,920,1922,0,1,Quetzales,Guatemala,New Zealand
+90,920,1923,0,1,Quetzales,Guatemala,New Zealand
+90,920,1924,0,1,Quetzales,Guatemala,New Zealand
+90,920,1925,0,1,Quetzales,Guatemala,New Zealand
+90,920,1926,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1927,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1928,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1929,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1930,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1931,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1932,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1933,0,1,Oro Americano,Guatemala,New Zealand
+90,920,1934,0,1,Quetzales,Guatemala,New Zealand
+90,920,1935,0,1,Quetzales,Guatemala,New Zealand
+90,920,1936,0,1,Quetzales,Guatemala,New Zealand
+90,920,1937,0,1,Quetzales,Guatemala,New Zealand
+90,920,1938,0,1,Quetzales,Guatemala,New Zealand
+90,920,1939,2944,1,Quetzales,Guatemala,New Zealand
+90,920,1940,1151,1,Quetzales,Guatemala,New Zealand
+90,920,1941,0,1,Quetzales,Guatemala,New Zealand
+90,920,1942,9143,1,Quetzales,Guatemala,New Zealand
+90,,1920,14544701.18,1,Oro Americano,Guatemala,
+90,,1921,13950863,1,Quetzales,Guatemala,
+90,,1922,11219851,1,Quetzales,Guatemala,
+90,,1923,14069685,1,Quetzales,Guatemala,
+90,,1924,18493597,1,Quetzales,Guatemala,
+90,,1925,23751843,1,Quetzales,Guatemala,
+90,,1926,21084178.57,1,Oro Americano,Guatemala,
+90,,1927,17907768.2,1,Oro Americano,Guatemala,
+90,,1928,21464924.31,1,Oro Americano,Guatemala,
+90,,1929,23761791.06,1,Oro Americano,Guatemala,
+90,,1930,12846538.44,1,Oro Americano,Guatemala,
+90,,1931,10040045,1,Oro Americano,Guatemala,
+90,,1932,5763058,1,Oro Americano,Guatemala,
+90,,1933,5940734.77,1,Oro Americano,Guatemala,
+90,,1934,8073104,1,Quetzales,Guatemala,
+90,,1935,9599025,1,Quetzales,Guatemala,
+90,,1936,12506305,1,Quetzales,Guatemala,
+90,,1937,16742907,1,Quetzales,Guatemala,
+90,,1938,16844284,1,Quetzales,Guatemala,
+90,,1939,15489329,1,Quetzales,Guatemala,
+90,,1940,13217563,1,Quetzales,Guatemala,
+90,,1941,13831093,1,Quetzales,Guatemala,
+90,,1942,14026861,1,Quetzales,Guatemala,

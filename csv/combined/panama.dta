@@ -1,0 +1,2026 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+95,Panama,2,United States,1924,8975,1000,Balboas
+95,Panama,2,United States,1925,10903,1000,Balboas
+95,Panama,2,United States,1926,10280,1000,Balboas
+95,Panama,2,United States,1927,9892,1000,Balboas
+95,Panama,2,United States,1929,12999144.33,1,Balboas
+95,Panama,2,United States,1930,11159250,1,Balboas
+95,Panama,2,United States,1931,8159284,1,
+95,Panama,2,United States,1932,5413404,1,
+95,Panama,2,United States,1933,5314347,1,
+95,Panama,2,United States,1934,7073758,1,
+95,Panama,2,United States,1935,8623824,1,
+95,Panama,2,United States,1936,9777674,1,
+95,Panama,2,United States,1937,11359092,1,
+95,Panama,2,United States,1938,10139378,1,
+95,Panama,2,United States,1939,11916685,1,
+95,Panama,2,United States,1940,16645743,1,
+95,Panama,2,United States,1941,26470127,1,Balboas
+95,Panama,2,United States,1942,28720713,1,Balboas
+95,Panama,2,United States,1943,25654096,1,Balboas
+95,Panama,2,United States,1944,25124382.83,1,Balboas
+95,Panama,2,United States,1945,28499135.69,1,Balboas
+95,Panama,2,United States,1946,40590997.62,1,Balboas
+95,Panama,2,United States,1947,57802856,1,Balboas
+95,Panama,2,United States,1948,47803461,1,Balboas
+95,Panama,2,United States,1949,45867421,1,Balboas
+95,Panama,4,Hawaii,1924,0,1000,Balboas
+95,Panama,4,Hawaii,1925,0,1000,Balboas
+95,Panama,4,Hawaii,1926,0,1000,Balboas
+95,Panama,4,Hawaii,1927,0,1000,Balboas
+95,Panama,4,Hawaii,1929,0,1,Balboas
+95,Panama,4,Hawaii,1930,0,1,Balboas
+95,Panama,4,Hawaii,1931,0,1,
+95,Panama,4,Hawaii,1932,0,1,
+95,Panama,4,Hawaii,1933,0,1,
+95,Panama,4,Hawaii,1934,0,1,
+95,Panama,4,Hawaii,1935,0,1,
+95,Panama,4,Hawaii,1936,0,1,
+95,Panama,4,Hawaii,1937,0,1,
+95,Panama,4,Hawaii,1938,0,1,
+95,Panama,4,Hawaii,1939,0,1,
+95,Panama,4,Hawaii,1940,0,1,
+95,Panama,4,Hawaii,1941,0,1,Balboas
+95,Panama,4,Hawaii,1942,0,1,Balboas
+95,Panama,4,Hawaii,1943,0,1,Balboas
+95,Panama,4,Hawaii,1944,0,1,Balboas
+95,Panama,4,Hawaii,1945,0,1,Balboas
+95,Panama,4,Hawaii,1946,0,1,Balboas
+95,Panama,4,Hawaii,1947,213,1,Balboas
+95,Panama,4,Hawaii,1948,133,1,Balboas
+95,Panama,4,Hawaii,1949,11,1,Balboas
+95,Panama,6,Puerto Rico,1924,0,1000,Balboas
+95,Panama,6,Puerto Rico,1925,0,1000,Balboas
+95,Panama,6,Puerto Rico,1926,0,1000,Balboas
+95,Panama,6,Puerto Rico,1927,0,1000,Balboas
+95,Panama,6,Puerto Rico,1929,0,1,Balboas
+95,Panama,6,Puerto Rico,1930,0,1,Balboas
+95,Panama,6,Puerto Rico,1931,0,1,
+95,Panama,6,Puerto Rico,1932,0,1,
+95,Panama,6,Puerto Rico,1933,0,1,
+95,Panama,6,Puerto Rico,1934,0,1,
+95,Panama,6,Puerto Rico,1935,0,1,
+95,Panama,6,Puerto Rico,1936,0,1,
+95,Panama,6,Puerto Rico,1937,0,1,
+95,Panama,6,Puerto Rico,1938,0,1,
+95,Panama,6,Puerto Rico,1939,0,1,
+95,Panama,6,Puerto Rico,1940,0,1,
+95,Panama,6,Puerto Rico,1941,0,1,Balboas
+95,Panama,6,Puerto Rico,1942,0,1,Balboas
+95,Panama,6,Puerto Rico,1943,0,1,Balboas
+95,Panama,6,Puerto Rico,1944,2460.57,1,Balboas
+95,Panama,6,Puerto Rico,1945,24776.96,1,Balboas
+95,Panama,6,Puerto Rico,1946,7083.2,1,Balboas
+95,Panama,6,Puerto Rico,1947,56954,1,Balboas
+95,Panama,6,Puerto Rico,1948,4700,1,Balboas
+95,Panama,6,Puerto Rico,1949,0,1,Balboas
+95,Panama,10,Greenland,1924,0,1000,Balboas
+95,Panama,10,Greenland,1925,0,1000,Balboas
+95,Panama,10,Greenland,1926,0,1000,Balboas
+95,Panama,10,Greenland,1927,0,1000,Balboas
+95,Panama,10,Greenland,1929,0,1,Balboas
+95,Panama,10,Greenland,1930,0,1,Balboas
+95,Panama,10,Greenland,1931,0,1,
+95,Panama,10,Greenland,1932,0,1,
+95,Panama,10,Greenland,1933,0,1,
+95,Panama,10,Greenland,1934,0,1,
+95,Panama,10,Greenland,1935,0,1,
+95,Panama,10,Greenland,1936,0,1,
+95,Panama,10,Greenland,1937,0,1,
+95,Panama,10,Greenland,1938,0,1,
+95,Panama,10,Greenland,1939,0,1,
+95,Panama,10,Greenland,1940,0,1,
+95,Panama,10,Greenland,1941,0,1,Balboas
+95,Panama,10,Greenland,1942,0,1,Balboas
+95,Panama,10,Greenland,1943,0,1,Balboas
+95,Panama,10,Greenland,1944,0,1,Balboas
+95,Panama,10,Greenland,1945,0,1,Balboas
+95,Panama,10,Greenland,1946,0,1,Balboas
+95,Panama,10,Greenland,1947,0,1,Balboas
+95,Panama,10,Greenland,1948,0,1,Balboas
+95,Panama,10,Greenland,1949,0,1,Balboas
+95,Panama,20,Canada,1924,0,1000,Balboas
+95,Panama,20,Canada,1925,0,1000,Balboas
+95,Panama,20,Canada,1926,0,1000,Balboas
+95,Panama,20,Canada,1927,0,1000,Balboas
+95,Panama,20,Canada,1929,29172.9,1,Balboas
+95,Panama,20,Canada,1930,73835,1,Balboas
+95,Panama,20,Canada,1931,62465,1,
+95,Panama,20,Canada,1932,35712,1,
+95,Panama,20,Canada,1933,78103,1,
+95,Panama,20,Canada,1934,88245,1,
+95,Panama,20,Canada,1935,129355,1,
+95,Panama,20,Canada,1936,105621,1,
+95,Panama,20,Canada,1937,108377,1,
+95,Panama,20,Canada,1938,81153,1,
+95,Panama,20,Canada,1939,63982,1,
+95,Panama,20,Canada,1940,93546,1,
+95,Panama,20,Canada,1941,122489,1,Balboas
+95,Panama,20,Canada,1942,183052,1,Balboas
+95,Panama,20,Canada,1943,2181,1,Balboas
+95,Panama,20,Canada,1944,8007.71,1,Balboas
+95,Panama,20,Canada,1945,35462.49,1,Balboas
+95,Panama,20,Canada,1946,378034.35,1,Balboas
+95,Panama,20,Canada,1947,667854,1,Balboas
+95,Panama,20,Canada,1948,941663,1,Balboas
+95,Panama,20,Canada,1949,1307202,1,Balboas
+95,Panama,40,Cuba,1924,0,1000,Balboas
+95,Panama,40,Cuba,1925,0,1000,Balboas
+95,Panama,40,Cuba,1926,0,1000,Balboas
+95,Panama,40,Cuba,1927,0,1000,Balboas
+95,Panama,40,Cuba,1929,184639.66,1,Balboas
+95,Panama,40,Cuba,1930,139799,1,Balboas
+95,Panama,40,Cuba,1931,189504,1,
+95,Panama,40,Cuba,1932,114531,1,
+95,Panama,40,Cuba,1933,93720,1,
+95,Panama,40,Cuba,1934,71934,1,
+95,Panama,40,Cuba,1935,136041,1,
+95,Panama,40,Cuba,1936,156288,1,
+95,Panama,40,Cuba,1937,148023,1,
+95,Panama,40,Cuba,1938,127019,1,
+95,Panama,40,Cuba,1939,130091,1,
+95,Panama,40,Cuba,1940,175552,1,
+95,Panama,40,Cuba,1941,598102,1,Balboas
+95,Panama,40,Cuba,1942,675924,1,Balboas
+95,Panama,40,Cuba,1943,682257,1,Balboas
+95,Panama,40,Cuba,1944,689096.74,1,Balboas
+95,Panama,40,Cuba,1945,953601.6899999999,1,Balboas
+95,Panama,40,Cuba,1946,1056026.25,1,Balboas
+95,Panama,40,Cuba,1947,771731,1,Balboas
+95,Panama,40,Cuba,1948,330289,1,Balboas
+95,Panama,40,Cuba,1949,304085,1,Balboas
+95,Panama,41,Haiti,1924,0,1000,Balboas
+95,Panama,41,Haiti,1925,0,1000,Balboas
+95,Panama,41,Haiti,1926,0,1000,Balboas
+95,Panama,41,Haiti,1927,0,1000,Balboas
+95,Panama,41,Haiti,1929,0,1,Balboas
+95,Panama,41,Haiti,1930,0,1,Balboas
+95,Panama,41,Haiti,1931,0,1,
+95,Panama,41,Haiti,1932,0,1,
+95,Panama,41,Haiti,1933,0,1,
+95,Panama,41,Haiti,1934,0,1,
+95,Panama,41,Haiti,1935,0,1,
+95,Panama,41,Haiti,1936,0,1,
+95,Panama,41,Haiti,1937,0,1,
+95,Panama,41,Haiti,1938,0,1,
+95,Panama,41,Haiti,1939,0,1,
+95,Panama,41,Haiti,1940,0,1,
+95,Panama,41,Haiti,1941,3015,1,Balboas
+95,Panama,41,Haiti,1942,1170,1,Balboas
+95,Panama,41,Haiti,1943,6821,1,Balboas
+95,Panama,41,Haiti,1944,3199.69,1,Balboas
+95,Panama,41,Haiti,1945,2884.06,1,Balboas
+95,Panama,41,Haiti,1946,663.3,1,Balboas
+95,Panama,41,Haiti,1947,1631,1,Balboas
+95,Panama,41,Haiti,1948,3472,1,Balboas
+95,Panama,41,Haiti,1949,595,1,Balboas
+95,Panama,42,Dominican Republic,1924,0,1000,Balboas
+95,Panama,42,Dominican Republic,1925,0,1000,Balboas
+95,Panama,42,Dominican Republic,1926,0,1000,Balboas
+95,Panama,42,Dominican Republic,1927,0,1000,Balboas
+95,Panama,42,Dominican Republic,1929,0,1,Balboas
+95,Panama,42,Dominican Republic,1930,0,1,Balboas
+95,Panama,42,Dominican Republic,1931,0,1,
+95,Panama,42,Dominican Republic,1932,0,1,
+95,Panama,42,Dominican Republic,1933,0,1,
+95,Panama,42,Dominican Republic,1934,0,1,
+95,Panama,42,Dominican Republic,1935,0,1,
+95,Panama,42,Dominican Republic,1936,0,1,
+95,Panama,42,Dominican Republic,1937,0,1,
+95,Panama,42,Dominican Republic,1938,0,1,
+95,Panama,42,Dominican Republic,1939,0,1,
+95,Panama,42,Dominican Republic,1940,0,1,
+95,Panama,42,Dominican Republic,1941,1154,1,Balboas
+95,Panama,42,Dominican Republic,1942,1936,1,Balboas
+95,Panama,42,Dominican Republic,1943,37,1,Balboas
+95,Panama,42,Dominican Republic,1944,97225.55,1,Balboas
+95,Panama,42,Dominican Republic,1945,1676.42,1,Balboas
+95,Panama,42,Dominican Republic,1946,12.21,1,Balboas
+95,Panama,42,Dominican Republic,1947,8855,1,Balboas
+95,Panama,42,Dominican Republic,1948,6920,1,Balboas
+95,Panama,42,Dominican Republic,1949,247273,1,Balboas
+95,Panama,51,Jamaica,1924,52,1000,Balboas
+95,Panama,51,Jamaica,1925,51,1000,Balboas
+95,Panama,51,Jamaica,1926,77,1000,Balboas
+95,Panama,51,Jamaica,1927,46,1000,Balboas
+95,Panama,51,Jamaica,1929,73346.8,1,Balboas
+95,Panama,51,Jamaica,1930,83427,1,Balboas
+95,Panama,51,Jamaica,1931,78655,1,
+95,Panama,51,Jamaica,1932,58718,1,
+95,Panama,51,Jamaica,1933,47800,1,
+95,Panama,51,Jamaica,1934,77768,1,
+95,Panama,51,Jamaica,1935,74227,1,
+95,Panama,51,Jamaica,1936,67878,1,
+95,Panama,51,Jamaica,1937,71368,1,
+95,Panama,51,Jamaica,1938,62257,1,
+95,Panama,51,Jamaica,1939,64191,1,
+95,Panama,51,Jamaica,1940,44958,1,
+95,Panama,51,Jamaica,1941,67029,1,Balboas
+95,Panama,51,Jamaica,1942,60880,1,Balboas
+95,Panama,51,Jamaica,1943,97822,1,Balboas
+95,Panama,51,Jamaica,1944,36132.4,1,Balboas
+95,Panama,51,Jamaica,1945,59544.62,1,Balboas
+95,Panama,51,Jamaica,1946,81579.89,1,Balboas
+95,Panama,51,Jamaica,1947,114731,1,Balboas
+95,Panama,51,Jamaica,1948,85444,1,Balboas
+95,Panama,51,Jamaica,1949,102038,1,Balboas
+95,Panama,52,Trinidad And Tobago,1924,0,1000,Balboas
+95,Panama,52,Trinidad And Tobago,1925,0,1000,Balboas
+95,Panama,52,Trinidad And Tobago,1926,0,1000,Balboas
+95,Panama,52,Trinidad And Tobago,1927,0,1000,Balboas
+95,Panama,52,Trinidad And Tobago,1929,2128.1,1,Balboas
+95,Panama,52,Trinidad And Tobago,1930,6609.67,1,Balboas
+95,Panama,52,Trinidad And Tobago,1931,0,1,
+95,Panama,52,Trinidad And Tobago,1932,0,1,
+95,Panama,52,Trinidad And Tobago,1933,0,1,
+95,Panama,52,Trinidad And Tobago,1934,0,1,
+95,Panama,52,Trinidad And Tobago,1935,0,1,
+95,Panama,52,Trinidad And Tobago,1936,0,1,
+95,Panama,52,Trinidad And Tobago,1937,0,1,
+95,Panama,52,Trinidad And Tobago,1938,0,1,
+95,Panama,52,Trinidad And Tobago,1939,0,1,
+95,Panama,52,Trinidad And Tobago,1940,0,1,
+95,Panama,52,Trinidad And Tobago,1941,1930,1,Balboas
+95,Panama,52,Trinidad And Tobago,1942,708,1,Balboas
+95,Panama,52,Trinidad And Tobago,1943,1020,1,Balboas
+95,Panama,52,Trinidad And Tobago,1944,669,1,Balboas
+95,Panama,52,Trinidad And Tobago,1945,652,1,Balboas
+95,Panama,52,Trinidad And Tobago,1946,6367.98,1,Balboas
+95,Panama,52,Trinidad And Tobago,1947,2287,1,Balboas
+95,Panama,52,Trinidad And Tobago,1948,2302,1,Balboas
+95,Panama,52,Trinidad And Tobago,1949,708,1,Balboas
+95,Panama,53,Barbados,1924,0,1000,Balboas
+95,Panama,53,Barbados,1925,0,1000,Balboas
+95,Panama,53,Barbados,1926,0,1000,Balboas
+95,Panama,53,Barbados,1927,0,1000,Balboas
+95,Panama,53,Barbados,1929,0,1,Balboas
+95,Panama,53,Barbados,1930,0,1,Balboas
+95,Panama,53,Barbados,1931,0,1,
+95,Panama,53,Barbados,1932,0,1,
+95,Panama,53,Barbados,1933,0,1,
+95,Panama,53,Barbados,1934,0,1,
+95,Panama,53,Barbados,1935,0,1,
+95,Panama,53,Barbados,1936,0,1,
+95,Panama,53,Barbados,1937,0,1,
+95,Panama,53,Barbados,1938,0,1,
+95,Panama,53,Barbados,1939,0,1,
+95,Panama,53,Barbados,1940,0,1,
+95,Panama,53,Barbados,1941,114,1,Balboas
+95,Panama,53,Barbados,1942,174,1,Balboas
+95,Panama,53,Barbados,1943,0,1,Balboas
+95,Panama,53,Barbados,1944,12,1,Balboas
+95,Panama,53,Barbados,1945,818.1,1,Balboas
+95,Panama,53,Barbados,1946,16,1,Balboas
+95,Panama,53,Barbados,1947,35,1,Balboas
+95,Panama,53,Barbados,1948,0,1,Balboas
+95,Panama,53,Barbados,1949,0,1,Balboas
+95,Panama,54,Dominica,1924,0,1000,Balboas
+95,Panama,54,Dominica,1925,0,1000,Balboas
+95,Panama,54,Dominica,1926,0,1000,Balboas
+95,Panama,54,Dominica,1927,0,1000,Balboas
+95,Panama,54,Dominica,1929,0,1,Balboas
+95,Panama,54,Dominica,1930,232.41,1,Balboas
+95,Panama,54,Dominica,1931,0,1,
+95,Panama,54,Dominica,1932,0,1,
+95,Panama,54,Dominica,1933,0,1,
+95,Panama,54,Dominica,1934,0,1,
+95,Panama,54,Dominica,1935,0,1,
+95,Panama,54,Dominica,1936,0,1,
+95,Panama,54,Dominica,1937,0,1,
+95,Panama,54,Dominica,1938,0,1,
+95,Panama,54,Dominica,1939,0,1,
+95,Panama,54,Dominica,1940,0,1,
+95,Panama,54,Dominica,1941,0,1,Balboas
+95,Panama,54,Dominica,1942,0,1,Balboas
+95,Panama,54,Dominica,1943,0,1,Balboas
+95,Panama,54,Dominica,1944,0,1,Balboas
+95,Panama,54,Dominica,1945,0,1,Balboas
+95,Panama,54,Dominica,1946,0,1,Balboas
+95,Panama,54,Dominica,1947,0,1,Balboas
+95,Panama,54,Dominica,1948,0,1,Balboas
+95,Panama,54,Dominica,1949,0,1,Balboas
+95,Panama,66,Martinique,1924,0,1000,Balboas
+95,Panama,66,Martinique,1925,0,1000,Balboas
+95,Panama,66,Martinique,1926,0,1000,Balboas
+95,Panama,66,Martinique,1927,0,1000,Balboas
+95,Panama,66,Martinique,1929,0,1,Balboas
+95,Panama,66,Martinique,1930,0,1,Balboas
+95,Panama,66,Martinique,1931,0,1,
+95,Panama,66,Martinique,1932,0,1,
+95,Panama,66,Martinique,1933,0,1,
+95,Panama,66,Martinique,1934,0,1,
+95,Panama,66,Martinique,1935,0,1,
+95,Panama,66,Martinique,1936,0,1,
+95,Panama,66,Martinique,1937,0,1,
+95,Panama,66,Martinique,1938,0,1,
+95,Panama,66,Martinique,1939,0,1,
+95,Panama,66,Martinique,1940,0,1,
+95,Panama,66,Martinique,1941,0,1,Balboas
+95,Panama,66,Martinique,1942,1499,1,Balboas
+95,Panama,66,Martinique,1943,3,1,Balboas
+95,Panama,66,Martinique,1944,0,1,Balboas
+95,Panama,66,Martinique,1945,0,1,Balboas
+95,Panama,66,Martinique,1946,14,1,Balboas
+95,Panama,66,Martinique,1947,142,1,Balboas
+95,Panama,66,Martinique,1948,172,1,Balboas
+95,Panama,66,Martinique,1949,3892,1,Balboas
+95,Panama,70,Mexico,1924,0,1000,Balboas
+95,Panama,70,Mexico,1925,0,1000,Balboas
+95,Panama,70,Mexico,1926,0,1000,Balboas
+95,Panama,70,Mexico,1927,0,1000,Balboas
+95,Panama,70,Mexico,1929,0,1,Balboas
+95,Panama,70,Mexico,1930,734,1,Balboas
+95,Panama,70,Mexico,1931,2673,1,
+95,Panama,70,Mexico,1932,2705,1,
+95,Panama,70,Mexico,1933,2535,1,
+95,Panama,70,Mexico,1934,40513,1,
+95,Panama,70,Mexico,1935,22919,1,
+95,Panama,70,Mexico,1936,18554,1,
+95,Panama,70,Mexico,1937,27856,1,
+95,Panama,70,Mexico,1938,31997,1,
+95,Panama,70,Mexico,1939,27898,1,
+95,Panama,70,Mexico,1940,21914,1,
+95,Panama,70,Mexico,1941,55678,1,Balboas
+95,Panama,70,Mexico,1942,1680889,1,Balboas
+95,Panama,70,Mexico,1943,2363461,1,Balboas
+95,Panama,70,Mexico,1944,1645721.14,1,Balboas
+95,Panama,70,Mexico,1945,2314189.71,1,Balboas
+95,Panama,70,Mexico,1946,1006247.8,1,Balboas
+95,Panama,70,Mexico,1947,998402,1,Balboas
+95,Panama,70,Mexico,1948,956184,1,Balboas
+95,Panama,70,Mexico,1949,699998,1,Balboas
+95,Panama,80,Belize,1924,0,1000,Balboas
+95,Panama,80,Belize,1925,0,1000,Balboas
+95,Panama,80,Belize,1926,0,1000,Balboas
+95,Panama,80,Belize,1927,0,1000,Balboas
+95,Panama,80,Belize,1929,0,1,Balboas
+95,Panama,80,Belize,1930,0,1,Balboas
+95,Panama,80,Belize,1931,0,1,
+95,Panama,80,Belize,1932,0,1,
+95,Panama,80,Belize,1933,0,1,
+95,Panama,80,Belize,1934,0,1,
+95,Panama,80,Belize,1935,0,1,
+95,Panama,80,Belize,1936,0,1,
+95,Panama,80,Belize,1937,0,1,
+95,Panama,80,Belize,1938,0,1,
+95,Panama,80,Belize,1939,0,1,
+95,Panama,80,Belize,1940,0,1,
+95,Panama,80,Belize,1941,2506,1,Balboas
+95,Panama,80,Belize,1942,12793,1,Balboas
+95,Panama,80,Belize,1943,3502,1,Balboas
+95,Panama,80,Belize,1944,2702.5,1,Balboas
+95,Panama,80,Belize,1945,2561,1,Balboas
+95,Panama,80,Belize,1946,3970,1,Balboas
+95,Panama,80,Belize,1947,4760,1,Balboas
+95,Panama,80,Belize,1948,10860,1,Balboas
+95,Panama,80,Belize,1949,26570,1,Balboas
+95,Panama,90,Guatemala,1924,0,1000,Balboas
+95,Panama,90,Guatemala,1925,0,1000,Balboas
+95,Panama,90,Guatemala,1926,0,1000,Balboas
+95,Panama,90,Guatemala,1927,0,1000,Balboas
+95,Panama,90,Guatemala,1929,0,1,Balboas
+95,Panama,90,Guatemala,1930,3042,1,Balboas
+95,Panama,90,Guatemala,1931,1379,1,
+95,Panama,90,Guatemala,1932,1903,1,
+95,Panama,90,Guatemala,1933,3777,1,
+95,Panama,90,Guatemala,1934,19108,1,
+95,Panama,90,Guatemala,1935,9963,1,
+95,Panama,90,Guatemala,1936,17273,1,
+95,Panama,90,Guatemala,1937,15601,1,
+95,Panama,90,Guatemala,1938,15527,1,
+95,Panama,90,Guatemala,1939,14152,1,
+95,Panama,90,Guatemala,1940,14618,1,
+95,Panama,90,Guatemala,1941,14313,1,Balboas
+95,Panama,90,Guatemala,1942,108262,1,Balboas
+95,Panama,90,Guatemala,1943,546050,1,Balboas
+95,Panama,90,Guatemala,1944,664379.39,1,Balboas
+95,Panama,90,Guatemala,1945,592468.42,1,Balboas
+95,Panama,90,Guatemala,1946,308738.65,1,Balboas
+95,Panama,90,Guatemala,1947,210287,1,Balboas
+95,Panama,90,Guatemala,1948,48555,1,Balboas
+95,Panama,90,Guatemala,1949,41434,1,Balboas
+95,Panama,91,Honduras,1924,0,1000,Balboas
+95,Panama,91,Honduras,1925,0,1000,Balboas
+95,Panama,91,Honduras,1926,0,1000,Balboas
+95,Panama,91,Honduras,1927,0,1000,Balboas
+95,Panama,91,Honduras,1929,0,1,Balboas
+95,Panama,91,Honduras,1930,0,1,Balboas
+95,Panama,91,Honduras,1931,0,1,
+95,Panama,91,Honduras,1932,0,1,
+95,Panama,91,Honduras,1933,0,1,
+95,Panama,91,Honduras,1934,0,1,
+95,Panama,91,Honduras,1935,0,1,
+95,Panama,91,Honduras,1936,0,1,
+95,Panama,91,Honduras,1937,0,1,
+95,Panama,91,Honduras,1938,0,1,
+95,Panama,91,Honduras,1939,0,1,
+95,Panama,91,Honduras,1940,0,1,
+95,Panama,91,Honduras,1941,35097,1,Balboas
+95,Panama,91,Honduras,1942,18802,1,Balboas
+95,Panama,91,Honduras,1943,60136,1,Balboas
+95,Panama,91,Honduras,1944,111086.45,1,Balboas
+95,Panama,91,Honduras,1945,278130.89,1,Balboas
+95,Panama,91,Honduras,1946,336583.24,1,Balboas
+95,Panama,91,Honduras,1947,244075,1,Balboas
+95,Panama,91,Honduras,1948,163836,1,Balboas
+95,Panama,91,Honduras,1949,94960,1,Balboas
+95,Panama,92,El Salvador,1924,0,1000,Balboas
+95,Panama,92,El Salvador,1925,0,1000,Balboas
+95,Panama,92,El Salvador,1926,0,1000,Balboas
+95,Panama,92,El Salvador,1927,0,1000,Balboas
+95,Panama,92,El Salvador,1929,0,1,Balboas
+95,Panama,92,El Salvador,1930,200,1,Balboas
+95,Panama,92,El Salvador,1931,80,1,
+95,Panama,92,El Salvador,1932,776,1,
+95,Panama,92,El Salvador,1933,391,1,
+95,Panama,92,El Salvador,1934,8493,1,
+95,Panama,92,El Salvador,1935,12053,1,
+95,Panama,92,El Salvador,1936,16430,1,
+95,Panama,92,El Salvador,1937,25437,1,
+95,Panama,92,El Salvador,1938,12957,1,
+95,Panama,92,El Salvador,1939,12124,1,
+95,Panama,92,El Salvador,1940,12915,1,
+95,Panama,92,El Salvador,1941,14615,1,Balboas
+95,Panama,92,El Salvador,1942,142536,1,Balboas
+95,Panama,92,El Salvador,1943,335825,1,Balboas
+95,Panama,92,El Salvador,1944,153870.62,1,Balboas
+95,Panama,92,El Salvador,1945,85627.22,1,Balboas
+95,Panama,92,El Salvador,1946,107143.94,1,Balboas
+95,Panama,92,El Salvador,1947,417754,1,Balboas
+95,Panama,92,El Salvador,1948,372003,1,Balboas
+95,Panama,92,El Salvador,1949,166638,1,Balboas
+95,Panama,93,Nicaragua,1924,0,1000,Balboas
+95,Panama,93,Nicaragua,1925,0,1000,Balboas
+95,Panama,93,Nicaragua,1926,0,1000,Balboas
+95,Panama,93,Nicaragua,1927,0,1000,Balboas
+95,Panama,93,Nicaragua,1929,37972.9,1,Balboas
+95,Panama,93,Nicaragua,1930,29939,1,Balboas
+95,Panama,93,Nicaragua,1931,16376,1,
+95,Panama,93,Nicaragua,1932,4089,1,
+95,Panama,93,Nicaragua,1933,3229,1,
+95,Panama,93,Nicaragua,1934,14331,1,
+95,Panama,93,Nicaragua,1935,20869,1,
+95,Panama,93,Nicaragua,1936,27374,1,
+95,Panama,93,Nicaragua,1937,35264,1,
+95,Panama,93,Nicaragua,1938,19353,1,
+95,Panama,93,Nicaragua,1939,10456,1,
+95,Panama,93,Nicaragua,1940,8987,1,
+95,Panama,93,Nicaragua,1941,23568,1,Balboas
+95,Panama,93,Nicaragua,1942,117643,1,Balboas
+95,Panama,93,Nicaragua,1943,270835,1,Balboas
+95,Panama,93,Nicaragua,1944,249530.9,1,Balboas
+95,Panama,93,Nicaragua,1945,138868.39,1,Balboas
+95,Panama,93,Nicaragua,1946,362129.94,1,Balboas
+95,Panama,93,Nicaragua,1947,1077708,1,Balboas
+95,Panama,93,Nicaragua,1948,941431,1,Balboas
+95,Panama,93,Nicaragua,1949,318864,1,Balboas
+95,Panama,94,Costa Rica,1924,0,1000,Balboas
+95,Panama,94,Costa Rica,1925,0,1000,Balboas
+95,Panama,94,Costa Rica,1926,0,1000,Balboas
+95,Panama,94,Costa Rica,1927,0,1000,Balboas
+95,Panama,94,Costa Rica,1929,36658.33,1,Balboas
+95,Panama,94,Costa Rica,1930,122852,1,Balboas
+95,Panama,94,Costa Rica,1931,57795,1,
+95,Panama,94,Costa Rica,1932,24627,1,
+95,Panama,94,Costa Rica,1933,41084,1,
+95,Panama,94,Costa Rica,1934,42825,1,
+95,Panama,94,Costa Rica,1935,46605,1,
+95,Panama,94,Costa Rica,1936,70235,1,
+95,Panama,94,Costa Rica,1937,81273,1,
+95,Panama,94,Costa Rica,1938,67617,1,
+95,Panama,94,Costa Rica,1939,59233,1,
+95,Panama,94,Costa Rica,1940,62765,1,
+95,Panama,94,Costa Rica,1941,133180,1,Balboas
+95,Panama,94,Costa Rica,1942,502092,1,Balboas
+95,Panama,94,Costa Rica,1943,250428,1,Balboas
+95,Panama,94,Costa Rica,1944,228627.8,1,Balboas
+95,Panama,94,Costa Rica,1945,186947.72,1,Balboas
+95,Panama,94,Costa Rica,1946,268087.4,1,Balboas
+95,Panama,94,Costa Rica,1947,394915,1,Balboas
+95,Panama,94,Costa Rica,1948,274009,1,Balboas
+95,Panama,94,Costa Rica,1949,295989,1,Balboas
+95,Panama,96,Panama Canal Zone,1924,0,1000,Balboas
+95,Panama,96,Panama Canal Zone,1925,0,1000,Balboas
+95,Panama,96,Panama Canal Zone,1926,0,1000,Balboas
+95,Panama,96,Panama Canal Zone,1927,0,1000,Balboas
+95,Panama,96,Panama Canal Zone,1929,0,1,Balboas
+95,Panama,96,Panama Canal Zone,1930,58117,1,Balboas
+95,Panama,96,Panama Canal Zone,1931,58211,1,
+95,Panama,96,Panama Canal Zone,1932,76433,1,
+95,Panama,96,Panama Canal Zone,1933,80341,1,
+95,Panama,96,Panama Canal Zone,1934,456500,1,
+95,Panama,96,Panama Canal Zone,1935,541579,1,
+95,Panama,96,Panama Canal Zone,1936,659452,1,
+95,Panama,96,Panama Canal Zone,1937,625965,1,
+95,Panama,96,Panama Canal Zone,1938,633778,1,
+95,Panama,96,Panama Canal Zone,1939,581718,1,
+95,Panama,96,Panama Canal Zone,1940,741995,1,
+95,Panama,96,Panama Canal Zone,1941,1383269,1,Balboas
+95,Panama,96,Panama Canal Zone,1942,1765942,1,Balboas
+95,Panama,96,Panama Canal Zone,1943,1924598,1,Balboas
+95,Panama,96,Panama Canal Zone,1944,2084219.01,1,Balboas
+95,Panama,96,Panama Canal Zone,1945,2095974.83,1,Balboas
+95,Panama,96,Panama Canal Zone,1946,2525777.08,1,Balboas
+95,Panama,96,Panama Canal Zone,1947,3576508,1,Balboas
+95,Panama,96,Panama Canal Zone,1948,3751478,1,Balboas
+95,Panama,96,Panama Canal Zone,1949,2901715,1,Balboas
+95,Panama,100,Colombia,1924,0,1000,Balboas
+95,Panama,100,Colombia,1925,0,1000,Balboas
+95,Panama,100,Colombia,1926,0,1000,Balboas
+95,Panama,100,Colombia,1927,0,1000,Balboas
+95,Panama,100,Colombia,1929,79722.12,1,Balboas
+95,Panama,100,Colombia,1930,72197,1,Balboas
+95,Panama,100,Colombia,1931,81867,1,
+95,Panama,100,Colombia,1932,34981,1,
+95,Panama,100,Colombia,1933,27226,1,
+95,Panama,100,Colombia,1934,42396,1,
+95,Panama,100,Colombia,1935,52441,1,
+95,Panama,100,Colombia,1936,61385,1,
+95,Panama,100,Colombia,1937,92713,1,
+95,Panama,100,Colombia,1938,64878,1,
+95,Panama,100,Colombia,1939,53527,1,
+95,Panama,100,Colombia,1940,71779,1,
+95,Panama,100,Colombia,1941,101460,1,Balboas
+95,Panama,100,Colombia,1942,706125,1,Balboas
+95,Panama,100,Colombia,1943,1229131,1,Balboas
+95,Panama,100,Colombia,1944,858019.75,1,Balboas
+95,Panama,100,Colombia,1945,914655.5699999999,1,Balboas
+95,Panama,100,Colombia,1946,1116479.01,1,Balboas
+95,Panama,100,Colombia,1947,603608,1,Balboas
+95,Panama,100,Colombia,1948,452565,1,Balboas
+95,Panama,100,Colombia,1949,532324,1,Balboas
+95,Panama,101,Venezuela,1924,0,1000,Balboas
+95,Panama,101,Venezuela,1925,0,1000,Balboas
+95,Panama,101,Venezuela,1926,0,1000,Balboas
+95,Panama,101,Venezuela,1927,0,1000,Balboas
+95,Panama,101,Venezuela,1929,0,1,Balboas
+95,Panama,101,Venezuela,1930,0,1,Balboas
+95,Panama,101,Venezuela,1931,0,1,
+95,Panama,101,Venezuela,1932,0,1,
+95,Panama,101,Venezuela,1933,0,1,
+95,Panama,101,Venezuela,1934,0,1,
+95,Panama,101,Venezuela,1935,0,1,
+95,Panama,101,Venezuela,1936,0,1,
+95,Panama,101,Venezuela,1937,0,1,
+95,Panama,101,Venezuela,1938,0,1,
+95,Panama,101,Venezuela,1939,0,1,
+95,Panama,101,Venezuela,1940,0,1,
+95,Panama,101,Venezuela,1941,8357,1,Balboas
+95,Panama,101,Venezuela,1942,5895,1,Balboas
+95,Panama,101,Venezuela,1943,24247,1,Balboas
+95,Panama,101,Venezuela,1944,91932.06,1,Balboas
+95,Panama,101,Venezuela,1945,61641.62,1,Balboas
+95,Panama,101,Venezuela,1946,40308.08,1,Balboas
+95,Panama,101,Venezuela,1947,33934,1,Balboas
+95,Panama,101,Venezuela,1948,14070,1,Balboas
+95,Panama,101,Venezuela,1949,28367,1,Balboas
+95,Panama,110,Guyana,1924,0,1000,Balboas
+95,Panama,110,Guyana,1925,0,1000,Balboas
+95,Panama,110,Guyana,1926,0,1000,Balboas
+95,Panama,110,Guyana,1927,0,1000,Balboas
+95,Panama,110,Guyana,1929,0,1,Balboas
+95,Panama,110,Guyana,1930,0,1,Balboas
+95,Panama,110,Guyana,1931,0,1,
+95,Panama,110,Guyana,1932,0,1,
+95,Panama,110,Guyana,1933,0,1,
+95,Panama,110,Guyana,1934,0,1,
+95,Panama,110,Guyana,1935,0,1,
+95,Panama,110,Guyana,1936,0,1,
+95,Panama,110,Guyana,1937,0,1,
+95,Panama,110,Guyana,1938,0,1,
+95,Panama,110,Guyana,1939,0,1,
+95,Panama,110,Guyana,1940,0,1,
+95,Panama,110,Guyana,1941,0,1,Balboas
+95,Panama,110,Guyana,1942,0,1,Balboas
+95,Panama,110,Guyana,1943,0,1,Balboas
+95,Panama,110,Guyana,1944,0,1,Balboas
+95,Panama,110,Guyana,1945,0,1,Balboas
+95,Panama,110,Guyana,1946,0,1,Balboas
+95,Panama,110,Guyana,1947,1,1,Balboas
+95,Panama,110,Guyana,1948,0,1,Balboas
+95,Panama,110,Guyana,1949,160,1,Balboas
+95,Panama,115,Suriname,1924,0,1000,Balboas
+95,Panama,115,Suriname,1925,0,1000,Balboas
+95,Panama,115,Suriname,1926,0,1000,Balboas
+95,Panama,115,Suriname,1927,0,1000,Balboas
+95,Panama,115,Suriname,1929,0,1,Balboas
+95,Panama,115,Suriname,1930,0,1,Balboas
+95,Panama,115,Suriname,1931,0,1,
+95,Panama,115,Suriname,1932,0,1,
+95,Panama,115,Suriname,1933,0,1,
+95,Panama,115,Suriname,1934,0,1,
+95,Panama,115,Suriname,1935,0,1,
+95,Panama,115,Suriname,1936,0,1,
+95,Panama,115,Suriname,1937,0,1,
+95,Panama,115,Suriname,1938,0,1,
+95,Panama,115,Suriname,1939,0,1,
+95,Panama,115,Suriname,1940,0,1,
+95,Panama,115,Suriname,1941,0,1,Balboas
+95,Panama,115,Suriname,1942,0,1,Balboas
+95,Panama,115,Suriname,1943,0,1,Balboas
+95,Panama,115,Suriname,1944,0,1,Balboas
+95,Panama,115,Suriname,1945,0,1,Balboas
+95,Panama,115,Suriname,1946,0,1,Balboas
+95,Panama,115,Suriname,1947,0,1,Balboas
+95,Panama,115,Suriname,1948,654,1,Balboas
+95,Panama,115,Suriname,1949,13,1,Balboas
+95,Panama,120,French Guiana,1924,0,1000,Balboas
+95,Panama,120,French Guiana,1925,0,1000,Balboas
+95,Panama,120,French Guiana,1926,0,1000,Balboas
+95,Panama,120,French Guiana,1927,0,1000,Balboas
+95,Panama,120,French Guiana,1929,0,1,Balboas
+95,Panama,120,French Guiana,1930,0,1,Balboas
+95,Panama,120,French Guiana,1931,0,1,
+95,Panama,120,French Guiana,1932,0,1,
+95,Panama,120,French Guiana,1933,0,1,
+95,Panama,120,French Guiana,1934,0,1,
+95,Panama,120,French Guiana,1935,0,1,
+95,Panama,120,French Guiana,1936,0,1,
+95,Panama,120,French Guiana,1937,0,1,
+95,Panama,120,French Guiana,1938,0,1,
+95,Panama,120,French Guiana,1939,0,1,
+95,Panama,120,French Guiana,1940,0,1,
+95,Panama,120,French Guiana,1941,0,1,Balboas
+95,Panama,120,French Guiana,1942,0,1,Balboas
+95,Panama,120,French Guiana,1943,1318,1,Balboas
+95,Panama,120,French Guiana,1944,0,1,Balboas
+95,Panama,120,French Guiana,1945,0,1,Balboas
+95,Panama,120,French Guiana,1946,0,1,Balboas
+95,Panama,120,French Guiana,1947,5972,1,Balboas
+95,Panama,120,French Guiana,1948,0,1,Balboas
+95,Panama,120,French Guiana,1949,0,1,Balboas
+95,Panama,130,Ecuador,1924,0,1000,Balboas
+95,Panama,130,Ecuador,1925,0,1000,Balboas
+95,Panama,130,Ecuador,1926,0,1000,Balboas
+95,Panama,130,Ecuador,1927,0,1000,Balboas
+95,Panama,130,Ecuador,1929,55498.35000000001,1,Balboas
+95,Panama,130,Ecuador,1930,77012,1,Balboas
+95,Panama,130,Ecuador,1931,18214,1,
+95,Panama,130,Ecuador,1932,24289,1,
+95,Panama,130,Ecuador,1933,34637,1,
+95,Panama,130,Ecuador,1934,59270,1,
+95,Panama,130,Ecuador,1935,56434,1,
+95,Panama,130,Ecuador,1936,53608,1,
+95,Panama,130,Ecuador,1937,59070,1,
+95,Panama,130,Ecuador,1938,46022,1,
+95,Panama,130,Ecuador,1939,59074,1,
+95,Panama,130,Ecuador,1940,102910,1,
+95,Panama,130,Ecuador,1941,223757,1,Balboas
+95,Panama,130,Ecuador,1942,556794,1,Balboas
+95,Panama,130,Ecuador,1943,304009,1,Balboas
+95,Panama,130,Ecuador,1944,387336.2,1,Balboas
+95,Panama,130,Ecuador,1945,379565.18,1,Balboas
+95,Panama,130,Ecuador,1946,839872.01,1,Balboas
+95,Panama,130,Ecuador,1947,426003,1,Balboas
+95,Panama,130,Ecuador,1948,571172,1,Balboas
+95,Panama,130,Ecuador,1949,89910,1,Balboas
+95,Panama,135,Peru,1924,88,1000,Balboas
+95,Panama,135,Peru,1925,135,1000,Balboas
+95,Panama,135,Peru,1926,138,1000,Balboas
+95,Panama,135,Peru,1927,156,1000,Balboas
+95,Panama,135,Peru,1929,189210.47,1,Balboas
+95,Panama,135,Peru,1930,96497,1,Balboas
+95,Panama,135,Peru,1931,89610,1,
+95,Panama,135,Peru,1932,28744,1,
+95,Panama,135,Peru,1933,44264,1,
+95,Panama,135,Peru,1934,48416,1,
+95,Panama,135,Peru,1935,63042,1,
+95,Panama,135,Peru,1936,74142,1,
+95,Panama,135,Peru,1937,64183,1,
+95,Panama,135,Peru,1938,53682,1,
+95,Panama,135,Peru,1939,89064,1,
+95,Panama,135,Peru,1940,34800,1,
+95,Panama,135,Peru,1941,36470,1,Balboas
+95,Panama,135,Peru,1942,288750,1,Balboas
+95,Panama,135,Peru,1943,412952,1,Balboas
+95,Panama,135,Peru,1944,504560.87,1,Balboas
+95,Panama,135,Peru,1945,601096.15,1,Balboas
+95,Panama,135,Peru,1946,116906.19,1,Balboas
+95,Panama,135,Peru,1947,282799,1,Balboas
+95,Panama,135,Peru,1948,58215,1,Balboas
+95,Panama,135,Peru,1949,22133,1,Balboas
+95,Panama,140,Brazil,1924,0,1000,Balboas
+95,Panama,140,Brazil,1925,0,1000,Balboas
+95,Panama,140,Brazil,1926,0,1000,Balboas
+95,Panama,140,Brazil,1927,0,1000,Balboas
+95,Panama,140,Brazil,1929,0,1,Balboas
+95,Panama,140,Brazil,1930,542,1,Balboas
+95,Panama,140,Brazil,1931,390,1,
+95,Panama,140,Brazil,1932,0,1,
+95,Panama,140,Brazil,1933,0,1,
+95,Panama,140,Brazil,1934,3,1,
+95,Panama,140,Brazil,1935,2632,1,
+95,Panama,140,Brazil,1936,6337,1,
+95,Panama,140,Brazil,1937,3059,1,
+95,Panama,140,Brazil,1938,11912,1,
+95,Panama,140,Brazil,1939,23823,1,
+95,Panama,140,Brazil,1940,64114,1,
+95,Panama,140,Brazil,1941,42171,1,Balboas
+95,Panama,140,Brazil,1942,338433,1,Balboas
+95,Panama,140,Brazil,1943,328301,1,Balboas
+95,Panama,140,Brazil,1944,523935.31,1,Balboas
+95,Panama,140,Brazil,1945,1136629.05,1,Balboas
+95,Panama,140,Brazil,1946,304612.89,1,Balboas
+95,Panama,140,Brazil,1947,794104,1,Balboas
+95,Panama,140,Brazil,1948,12258,1,Balboas
+95,Panama,140,Brazil,1949,21699,1,Balboas
+95,Panama,145,Bolivia,1924,0,1000,Balboas
+95,Panama,145,Bolivia,1925,0,1000,Balboas
+95,Panama,145,Bolivia,1926,0,1000,Balboas
+95,Panama,145,Bolivia,1927,0,1000,Balboas
+95,Panama,145,Bolivia,1929,0,1,Balboas
+95,Panama,145,Bolivia,1930,0,1,Balboas
+95,Panama,145,Bolivia,1931,0,1,
+95,Panama,145,Bolivia,1932,0,1,
+95,Panama,145,Bolivia,1933,0,1,
+95,Panama,145,Bolivia,1934,0,1,
+95,Panama,145,Bolivia,1935,0,1,
+95,Panama,145,Bolivia,1936,0,1,
+95,Panama,145,Bolivia,1937,0,1,
+95,Panama,145,Bolivia,1938,0,1,
+95,Panama,145,Bolivia,1939,0,1,
+95,Panama,145,Bolivia,1940,0,1,
+95,Panama,145,Bolivia,1941,10,1,Balboas
+95,Panama,145,Bolivia,1942,0,1,Balboas
+95,Panama,145,Bolivia,1943,100,1,Balboas
+95,Panama,145,Bolivia,1944,175,1,Balboas
+95,Panama,145,Bolivia,1945,3,1,Balboas
+95,Panama,145,Bolivia,1946,16,1,Balboas
+95,Panama,145,Bolivia,1947,12,1,Balboas
+95,Panama,145,Bolivia,1948,9,1,Balboas
+95,Panama,145,Bolivia,1949,29,1,Balboas
+95,Panama,150,Paraguay,1924,0,1000,Balboas
+95,Panama,150,Paraguay,1925,0,1000,Balboas
+95,Panama,150,Paraguay,1926,0,1000,Balboas
+95,Panama,150,Paraguay,1927,0,1000,Balboas
+95,Panama,150,Paraguay,1929,0,1,Balboas
+95,Panama,150,Paraguay,1930,0,1,Balboas
+95,Panama,150,Paraguay,1931,0,1,
+95,Panama,150,Paraguay,1932,0,1,
+95,Panama,150,Paraguay,1933,0,1,
+95,Panama,150,Paraguay,1934,0,1,
+95,Panama,150,Paraguay,1935,0,1,
+95,Panama,150,Paraguay,1936,0,1,
+95,Panama,150,Paraguay,1937,0,1,
+95,Panama,150,Paraguay,1938,0,1,
+95,Panama,150,Paraguay,1939,0,1,
+95,Panama,150,Paraguay,1940,0,1,
+95,Panama,150,Paraguay,1941,0,1,Balboas
+95,Panama,150,Paraguay,1942,0,1,Balboas
+95,Panama,150,Paraguay,1943,0,1,Balboas
+95,Panama,150,Paraguay,1944,20,1,Balboas
+95,Panama,150,Paraguay,1945,21363.56,1,Balboas
+95,Panama,150,Paraguay,1946,23.5,1,Balboas
+95,Panama,150,Paraguay,1947,0,1,Balboas
+95,Panama,150,Paraguay,1948,0,1,Balboas
+95,Panama,150,Paraguay,1949,0,1,Balboas
+95,Panama,155,Chile,1924,0,1000,Balboas
+95,Panama,155,Chile,1925,0,1000,Balboas
+95,Panama,155,Chile,1926,0,1000,Balboas
+95,Panama,155,Chile,1927,0,1000,Balboas
+95,Panama,155,Chile,1929,127702.16,1,Balboas
+95,Panama,155,Chile,1930,147042,1,Balboas
+95,Panama,155,Chile,1931,74904,1,
+95,Panama,155,Chile,1932,59349,1,
+95,Panama,155,Chile,1933,61105,1,
+95,Panama,155,Chile,1934,70222,1,
+95,Panama,155,Chile,1935,88437,1,
+95,Panama,155,Chile,1936,98884,1,
+95,Panama,155,Chile,1937,128808,1,
+95,Panama,155,Chile,1938,97759,1,
+95,Panama,155,Chile,1939,99634,1,
+95,Panama,155,Chile,1940,92202,1,
+95,Panama,155,Chile,1941,122414,1,Balboas
+95,Panama,155,Chile,1942,240328,1,Balboas
+95,Panama,155,Chile,1943,657695,1,Balboas
+95,Panama,155,Chile,1944,994211.6899999999,1,Balboas
+95,Panama,155,Chile,1945,1209246.05,1,Balboas
+95,Panama,155,Chile,1946,977002.73,1,Balboas
+95,Panama,155,Chile,1947,564232,1,Balboas
+95,Panama,155,Chile,1948,546581,1,Balboas
+95,Panama,155,Chile,1949,1187404,1,Balboas
+95,Panama,160,Argentina,1924,0,1000,Balboas
+95,Panama,160,Argentina,1925,0,1000,Balboas
+95,Panama,160,Argentina,1926,0,1000,Balboas
+95,Panama,160,Argentina,1927,0,1000,Balboas
+95,Panama,160,Argentina,1929,20768.05,1,Balboas
+95,Panama,160,Argentina,1930,43053,1,Balboas
+95,Panama,160,Argentina,1931,27594,1,
+95,Panama,160,Argentina,1932,15993,1,
+95,Panama,160,Argentina,1933,21600,1,
+95,Panama,160,Argentina,1934,47500,1,
+95,Panama,160,Argentina,1935,50321,1,
+95,Panama,160,Argentina,1936,46128,1,
+95,Panama,160,Argentina,1937,72841,1,
+95,Panama,160,Argentina,1938,46729,1,
+95,Panama,160,Argentina,1939,67560,1,
+95,Panama,160,Argentina,1940,70882,1,
+95,Panama,160,Argentina,1941,301174,1,Balboas
+95,Panama,160,Argentina,1942,696638,1,Balboas
+95,Panama,160,Argentina,1943,3498143,1,Balboas
+95,Panama,160,Argentina,1944,2546738.24,1,Balboas
+95,Panama,160,Argentina,1945,3826380.61,1,Balboas
+95,Panama,160,Argentina,1946,2287035.27,1,Balboas
+95,Panama,160,Argentina,1947,1362544,1,Balboas
+95,Panama,160,Argentina,1948,410670,1,Balboas
+95,Panama,160,Argentina,1949,266778,1,Balboas
+95,Panama,165,Uruguay,1924,0,1000,Balboas
+95,Panama,165,Uruguay,1925,0,1000,Balboas
+95,Panama,165,Uruguay,1926,0,1000,Balboas
+95,Panama,165,Uruguay,1927,0,1000,Balboas
+95,Panama,165,Uruguay,1929,843,1,Balboas
+95,Panama,165,Uruguay,1930,0,1,Balboas
+95,Panama,165,Uruguay,1931,0,1,
+95,Panama,165,Uruguay,1932,0,1,
+95,Panama,165,Uruguay,1933,0,1,
+95,Panama,165,Uruguay,1934,0,1,
+95,Panama,165,Uruguay,1935,0,1,
+95,Panama,165,Uruguay,1936,0,1,
+95,Panama,165,Uruguay,1937,0,1,
+95,Panama,165,Uruguay,1938,0,1,
+95,Panama,165,Uruguay,1939,0,1,
+95,Panama,165,Uruguay,1940,0,1,
+95,Panama,165,Uruguay,1941,12283,1,Balboas
+95,Panama,165,Uruguay,1942,12388,1,Balboas
+95,Panama,165,Uruguay,1943,4046,1,Balboas
+95,Panama,165,Uruguay,1944,23688.07,1,Balboas
+95,Panama,165,Uruguay,1945,140674.36,1,Balboas
+95,Panama,165,Uruguay,1946,133985.92,1,Balboas
+95,Panama,165,Uruguay,1947,60961,1,Balboas
+95,Panama,165,Uruguay,1948,8037,1,Balboas
+95,Panama,165,Uruguay,1949,6245,1,Balboas
+95,Panama,200,United Kingdom,1924,1314,1000,Balboas
+95,Panama,200,United Kingdom,1925,1521,1000,Balboas
+95,Panama,200,United Kingdom,1926,1285,1000,Balboas
+95,Panama,200,United Kingdom,1927,1330,1000,Balboas
+95,Panama,200,United Kingdom,1929,1618097.7,1,Balboas
+95,Panama,200,United Kingdom,1930,1660662,1,Balboas
+95,Panama,200,United Kingdom,1931,1033008,1,
+95,Panama,200,United Kingdom,1932,740225,1,
+95,Panama,200,United Kingdom,1933,759787,1,
+95,Panama,200,United Kingdom,1934,956122,1,
+95,Panama,200,United Kingdom,1935,1067371,1,
+95,Panama,200,United Kingdom,1936,1165425,1,
+95,Panama,200,United Kingdom,1937,1275465,1,
+95,Panama,200,United Kingdom,1938,840934,1,
+95,Panama,200,United Kingdom,1939,970781,1,
+95,Panama,200,United Kingdom,1940,772482,1,
+95,Panama,200,United Kingdom,1941,1042729,1,Balboas
+95,Panama,200,United Kingdom,1942,582585,1,Balboas
+95,Panama,200,United Kingdom,1943,998373,1,Balboas
+95,Panama,200,United Kingdom,1944,586765.91,1,Balboas
+95,Panama,200,United Kingdom,1945,780864.76,1,Balboas
+95,Panama,200,United Kingdom,1946,908958.37,1,Balboas
+95,Panama,200,United Kingdom,1947,1340736,1,Balboas
+95,Panama,200,United Kingdom,1948,1624195,1,Balboas
+95,Panama,200,United Kingdom,1949,1630257,1,Balboas
+95,Panama,202,Scotland,1924,0,1000,Balboas
+95,Panama,202,Scotland,1925,0,1000,Balboas
+95,Panama,202,Scotland,1926,0,1000,Balboas
+95,Panama,202,Scotland,1927,0,1000,Balboas
+95,Panama,202,Scotland,1929,0,1,Balboas
+95,Panama,202,Scotland,1930,0,1,Balboas
+95,Panama,202,Scotland,1931,0,1,
+95,Panama,202,Scotland,1932,0,1,
+95,Panama,202,Scotland,1933,0,1,
+95,Panama,202,Scotland,1934,0,1,
+95,Panama,202,Scotland,1935,0,1,
+95,Panama,202,Scotland,1936,0,1,
+95,Panama,202,Scotland,1937,0,1,
+95,Panama,202,Scotland,1938,0,1,
+95,Panama,202,Scotland,1939,0,1,
+95,Panama,202,Scotland,1940,0,1,
+95,Panama,202,Scotland,1941,0,1,Balboas
+95,Panama,202,Scotland,1942,0,1,Balboas
+95,Panama,202,Scotland,1943,0,1,Balboas
+95,Panama,202,Scotland,1944,0,1,Balboas
+95,Panama,202,Scotland,1945,0,1,Balboas
+95,Panama,202,Scotland,1946,0,1,Balboas
+95,Panama,202,Scotland,1947,0,1,Balboas
+95,Panama,202,Scotland,1948,0,1,Balboas
+95,Panama,202,Scotland,1949,0,1,Balboas
+95,Panama,205,Ireland,1924,0,1000,Balboas
+95,Panama,205,Ireland,1925,0,1000,Balboas
+95,Panama,205,Ireland,1926,0,1000,Balboas
+95,Panama,205,Ireland,1927,0,1000,Balboas
+95,Panama,205,Ireland,1929,0,1,Balboas
+95,Panama,205,Ireland,1930,0,1,Balboas
+95,Panama,205,Ireland,1931,0,1,
+95,Panama,205,Ireland,1932,0,1,
+95,Panama,205,Ireland,1933,0,1,
+95,Panama,205,Ireland,1934,0,1,
+95,Panama,205,Ireland,1935,0,1,
+95,Panama,205,Ireland,1936,0,1,
+95,Panama,205,Ireland,1937,0,1,
+95,Panama,205,Ireland,1938,0,1,
+95,Panama,205,Ireland,1939,0,1,
+95,Panama,205,Ireland,1940,0,1,
+95,Panama,205,Ireland,1941,3634,1,Balboas
+95,Panama,205,Ireland,1942,205,1,Balboas
+95,Panama,205,Ireland,1943,0,1,Balboas
+95,Panama,205,Ireland,1944,0,1,Balboas
+95,Panama,205,Ireland,1945,0,1,Balboas
+95,Panama,205,Ireland,1946,1804.4,1,Balboas
+95,Panama,205,Ireland,1947,0,1,Balboas
+95,Panama,205,Ireland,1948,690,1,Balboas
+95,Panama,205,Ireland,1949,801,1,Balboas
+95,Panama,210,Netherlands,1924,138,1000,Balboas
+95,Panama,210,Netherlands,1925,192,1000,Balboas
+95,Panama,210,Netherlands,1926,170,1000,Balboas
+95,Panama,210,Netherlands,1927,158,1000,Balboas
+95,Panama,210,Netherlands,1929,282663.05,1,Balboas
+95,Panama,210,Netherlands,1930,242054,1,Balboas
+95,Panama,210,Netherlands,1931,222025,1,
+95,Panama,210,Netherlands,1932,93181,1,
+95,Panama,210,Netherlands,1933,71693,1,
+95,Panama,210,Netherlands,1934,79737,1,
+95,Panama,210,Netherlands,1935,149028,1,
+95,Panama,210,Netherlands,1936,190025,1,
+95,Panama,210,Netherlands,1937,388497,1,
+95,Panama,210,Netherlands,1938,323475,1,
+95,Panama,210,Netherlands,1939,271587,1,
+95,Panama,210,Netherlands,1940,31811,1,
+95,Panama,210,Netherlands,1941,4452,1,Balboas
+95,Panama,210,Netherlands,1942,1608,1,Balboas
+95,Panama,210,Netherlands,1943,0,1,Balboas
+95,Panama,210,Netherlands,1944,0,1,Balboas
+95,Panama,210,Netherlands,1945,0,1,Balboas
+95,Panama,210,Netherlands,1946,86778.31,1,Balboas
+95,Panama,210,Netherlands,1947,85495,1,Balboas
+95,Panama,210,Netherlands,1948,169455,1,Balboas
+95,Panama,210,Netherlands,1949,242927,1,Balboas
+95,Panama,211,Belgium,1924,47,1000,Balboas
+95,Panama,211,Belgium,1925,55,1000,Balboas
+95,Panama,211,Belgium,1926,93,1000,Balboas
+95,Panama,211,Belgium,1927,118,1000,Balboas
+95,Panama,211,Belgium,1929,167714.72,1,Balboas
+95,Panama,211,Belgium,1930,189735,1,Balboas
+95,Panama,211,Belgium,1931,213441,1,
+95,Panama,211,Belgium,1932,75365,1,
+95,Panama,211,Belgium,1933,65906,1,
+95,Panama,211,Belgium,1934,48502,1,
+95,Panama,211,Belgium,1935,73853,1,
+95,Panama,211,Belgium,1936,72734,1,
+95,Panama,211,Belgium,1937,159173,1,
+95,Panama,211,Belgium,1938,56196,1,
+95,Panama,211,Belgium,1939,0,1,
+95,Panama,211,Belgium,1940,0,1,
+95,Panama,211,Belgium,1941,0,1,Balboas
+95,Panama,211,Belgium,1942,0,1,Balboas
+95,Panama,211,Belgium,1943,0,1,Balboas
+95,Panama,211,Belgium,1944,0,1,Balboas
+95,Panama,211,Belgium,1945,0,1,Balboas
+95,Panama,211,Belgium,1946,209761.87,1,Balboas
+95,Panama,211,Belgium,1947,384174,1,Balboas
+95,Panama,211,Belgium,1948,207246,1,Balboas
+95,Panama,211,Belgium,1949,631112,1,Balboas
+95,Panama,220,France,1924,801,1000,Balboas
+95,Panama,220,France,1925,698,1000,Balboas
+95,Panama,220,France,1926,591,1000,Balboas
+95,Panama,220,France,1927,592,1000,Balboas
+95,Panama,220,France,1929,484088.05,1,Balboas
+95,Panama,220,France,1930,549276,1,Balboas
+95,Panama,220,France,1931,461706,1,
+95,Panama,220,France,1932,213497,1,
+95,Panama,220,France,1933,405061,1,
+95,Panama,220,France,1934,579981,1,
+95,Panama,220,France,1935,511683,1,
+95,Panama,220,France,1936,739457,1,
+95,Panama,220,France,1937,672899,1,
+95,Panama,220,France,1938,398950,1,
+95,Panama,220,France,1939,492563,1,
+95,Panama,220,France,1940,270915,1,
+95,Panama,220,France,1941,178,1,Balboas
+95,Panama,220,France,1942,874,1,Balboas
+95,Panama,220,France,1943,30,1,Balboas
+95,Panama,220,France,1944,0,1,Balboas
+95,Panama,220,France,1945,0,1,Balboas
+95,Panama,220,France,1946,303980.52,1,Balboas
+95,Panama,220,France,1947,304509,1,Balboas
+95,Panama,220,France,1948,298233,1,Balboas
+95,Panama,220,France,1949,365606,1,Balboas
+95,Panama,225,Switzerland,1924,0,1000,Balboas
+95,Panama,225,Switzerland,1925,0,1000,Balboas
+95,Panama,225,Switzerland,1926,0,1000,Balboas
+95,Panama,225,Switzerland,1927,0,1000,Balboas
+95,Panama,225,Switzerland,1929,0,1,Balboas
+95,Panama,225,Switzerland,1930,11887,1,Balboas
+95,Panama,225,Switzerland,1931,4145,1,
+95,Panama,225,Switzerland,1932,9788,1,
+95,Panama,225,Switzerland,1933,9641,1,
+95,Panama,225,Switzerland,1934,11004,1,
+95,Panama,225,Switzerland,1935,24368,1,
+95,Panama,225,Switzerland,1936,30270,1,
+95,Panama,225,Switzerland,1937,31083,1,
+95,Panama,225,Switzerland,1938,56939,1,
+95,Panama,225,Switzerland,1939,56644,1,
+95,Panama,225,Switzerland,1940,93775,1,
+95,Panama,225,Switzerland,1941,120490,1,Balboas
+95,Panama,225,Switzerland,1942,216474,1,Balboas
+95,Panama,225,Switzerland,1943,540351,1,Balboas
+95,Panama,225,Switzerland,1944,411224.53,1,Balboas
+95,Panama,225,Switzerland,1945,858853.08,1,Balboas
+95,Panama,225,Switzerland,1946,804687.9399999999,1,Balboas
+95,Panama,225,Switzerland,1947,698112,1,Balboas
+95,Panama,225,Switzerland,1948,474704,1,Balboas
+95,Panama,225,Switzerland,1949,329809,1,Balboas
+95,Panama,230,Spain,1924,182,1000,Balboas
+95,Panama,230,Spain,1925,168,1000,Balboas
+95,Panama,230,Spain,1926,150,1000,Balboas
+95,Panama,230,Spain,1927,139,1000,Balboas
+95,Panama,230,Spain,1929,188875.92,1,Balboas
+95,Panama,230,Spain,1930,208839,1,Balboas
+95,Panama,230,Spain,1931,291858,1,
+95,Panama,230,Spain,1932,168888,1,
+95,Panama,230,Spain,1933,98547,1,
+95,Panama,230,Spain,1934,141199,1,
+95,Panama,230,Spain,1935,172465,1,
+95,Panama,230,Spain,1936,131681,1,
+95,Panama,230,Spain,1937,33908,1,
+95,Panama,230,Spain,1938,11131,1,
+95,Panama,230,Spain,1939,22151,1,
+95,Panama,230,Spain,1940,22070,1,
+95,Panama,230,Spain,1941,62397,1,Balboas
+95,Panama,230,Spain,1942,5537,1,Balboas
+95,Panama,230,Spain,1943,11454,1,Balboas
+95,Panama,230,Spain,1944,67474.10000000001,1,Balboas
+95,Panama,230,Spain,1945,177983.68,1,Balboas
+95,Panama,230,Spain,1946,179569.51,1,Balboas
+95,Panama,230,Spain,1947,127810,1,Balboas
+95,Panama,230,Spain,1948,82418,1,Balboas
+95,Panama,230,Spain,1949,94379,1,Balboas
+95,Panama,231,Gibraltar,1924,0,1000,Balboas
+95,Panama,231,Gibraltar,1925,0,1000,Balboas
+95,Panama,231,Gibraltar,1926,0,1000,Balboas
+95,Panama,231,Gibraltar,1927,0,1000,Balboas
+95,Panama,231,Gibraltar,1929,0,1,Balboas
+95,Panama,231,Gibraltar,1930,0,1,Balboas
+95,Panama,231,Gibraltar,1931,0,1,
+95,Panama,231,Gibraltar,1932,0,1,
+95,Panama,231,Gibraltar,1933,0,1,
+95,Panama,231,Gibraltar,1934,0,1,
+95,Panama,231,Gibraltar,1935,0,1,
+95,Panama,231,Gibraltar,1936,0,1,
+95,Panama,231,Gibraltar,1937,0,1,
+95,Panama,231,Gibraltar,1938,0,1,
+95,Panama,231,Gibraltar,1939,0,1,
+95,Panama,231,Gibraltar,1940,0,1,
+95,Panama,231,Gibraltar,1941,0,1,Balboas
+95,Panama,231,Gibraltar,1942,0,1,Balboas
+95,Panama,231,Gibraltar,1943,0,1,Balboas
+95,Panama,231,Gibraltar,1944,0,1,Balboas
+95,Panama,231,Gibraltar,1945,0,1,Balboas
+95,Panama,231,Gibraltar,1946,0,1,Balboas
+95,Panama,231,Gibraltar,1947,0,1,Balboas
+95,Panama,231,Gibraltar,1948,0,1,Balboas
+95,Panama,231,Gibraltar,1949,0,1,Balboas
+95,Panama,235,Portugal,1924,0,1000,Balboas
+95,Panama,235,Portugal,1925,0,1000,Balboas
+95,Panama,235,Portugal,1926,0,1000,Balboas
+95,Panama,235,Portugal,1927,0,1000,Balboas
+95,Panama,235,Portugal,1929,0,1,Balboas
+95,Panama,235,Portugal,1930,0,1,Balboas
+95,Panama,235,Portugal,1931,0,1,
+95,Panama,235,Portugal,1932,0,1,
+95,Panama,235,Portugal,1933,0,1,
+95,Panama,235,Portugal,1934,0,1,
+95,Panama,235,Portugal,1935,0,1,
+95,Panama,235,Portugal,1936,0,1,
+95,Panama,235,Portugal,1937,0,1,
+95,Panama,235,Portugal,1938,0,1,
+95,Panama,235,Portugal,1939,0,1,
+95,Panama,235,Portugal,1940,0,1,
+95,Panama,235,Portugal,1941,24149,1,Balboas
+95,Panama,235,Portugal,1942,16237,1,Balboas
+95,Panama,235,Portugal,1943,8119,1,Balboas
+95,Panama,235,Portugal,1944,55676.3,1,Balboas
+95,Panama,235,Portugal,1945,120352.18,1,Balboas
+95,Panama,235,Portugal,1946,100252.13,1,Balboas
+95,Panama,235,Portugal,1947,108074,1,Balboas
+95,Panama,235,Portugal,1948,21220,1,Balboas
+95,Panama,235,Portugal,1949,8254,1,Balboas
+95,Panama,255,Germany,1924,559,1000,Balboas
+95,Panama,255,Germany,1925,680,1000,Balboas
+95,Panama,255,Germany,1926,817,1000,Balboas
+95,Panama,255,Germany,1927,844,1000,Balboas
+95,Panama,255,Germany,1929,995079.8700000001,1,Balboas
+95,Panama,255,Germany,1930,913728,1,Balboas
+95,Panama,255,Germany,1931,730055,1,
+95,Panama,255,Germany,1932,474788,1,
+95,Panama,255,Germany,1933,535376,1,
+95,Panama,255,Germany,1934,465747,1,
+95,Panama,255,Germany,1935,635929,1,
+95,Panama,255,Germany,1936,823778,1,
+95,Panama,255,Germany,1937,1168818,1,
+95,Panama,255,Germany,1938,1100827,1,
+95,Panama,255,Germany,1939,1620216,1,
+95,Panama,255,Germany,1940,230071,1,
+95,Panama,255,Germany,1941,492,1,Balboas
+95,Panama,255,Germany,1942,94,1,Balboas
+95,Panama,255,Germany,1943,0,1,Balboas
+95,Panama,255,Germany,1944,0,1,Balboas
+95,Panama,255,Germany,1945,0,1,Balboas
+95,Panama,255,Germany,1946,0,1,Balboas
+95,Panama,255,Germany,1947,0,1,Balboas
+95,Panama,255,Germany,1948,2775,1,Balboas
+95,Panama,255,Germany,1949,34887,1,Balboas
+95,Panama,290,Poland,1924,0,1000,Balboas
+95,Panama,290,Poland,1925,0,1000,Balboas
+95,Panama,290,Poland,1926,0,1000,Balboas
+95,Panama,290,Poland,1927,0,1000,Balboas
+95,Panama,290,Poland,1929,0,1,Balboas
+95,Panama,290,Poland,1930,0,1,Balboas
+95,Panama,290,Poland,1931,0,1,
+95,Panama,290,Poland,1932,0,1,
+95,Panama,290,Poland,1933,0,1,
+95,Panama,290,Poland,1934,0,1,
+95,Panama,290,Poland,1935,0,1,
+95,Panama,290,Poland,1936,0,1,
+95,Panama,290,Poland,1937,0,1,
+95,Panama,290,Poland,1938,0,1,
+95,Panama,290,Poland,1939,0,1,
+95,Panama,290,Poland,1940,0,1,
+95,Panama,290,Poland,1941,0,1,Balboas
+95,Panama,290,Poland,1942,0,1,Balboas
+95,Panama,290,Poland,1943,0,1,Balboas
+95,Panama,290,Poland,1944,0,1,Balboas
+95,Panama,290,Poland,1945,0,1,Balboas
+95,Panama,290,Poland,1946,0,1,Balboas
+95,Panama,290,Poland,1947,0,1,Balboas
+95,Panama,290,Poland,1948,0,1,Balboas
+95,Panama,290,Poland,1949,11,1,Balboas
+95,Panama,305,Austria,1924,0,1000,Balboas
+95,Panama,305,Austria,1925,0,1000,Balboas
+95,Panama,305,Austria,1926,0,1000,Balboas
+95,Panama,305,Austria,1927,0,1000,Balboas
+95,Panama,305,Austria,1929,0,1,Balboas
+95,Panama,305,Austria,1930,0,1,Balboas
+95,Panama,305,Austria,1931,0,1,
+95,Panama,305,Austria,1932,0,1,
+95,Panama,305,Austria,1933,0,1,
+95,Panama,305,Austria,1934,0,1,
+95,Panama,305,Austria,1935,0,1,
+95,Panama,305,Austria,1936,0,1,
+95,Panama,305,Austria,1937,0,1,
+95,Panama,305,Austria,1938,0,1,
+95,Panama,305,Austria,1939,0,1,
+95,Panama,305,Austria,1940,0,1,
+95,Panama,305,Austria,1941,0,1,Balboas
+95,Panama,305,Austria,1942,0,1,Balboas
+95,Panama,305,Austria,1943,0,1,Balboas
+95,Panama,305,Austria,1944,0,1,Balboas
+95,Panama,305,Austria,1945,0,1,Balboas
+95,Panama,305,Austria,1946,0,1,Balboas
+95,Panama,305,Austria,1947,60,1,Balboas
+95,Panama,305,Austria,1948,916,1,Balboas
+95,Panama,305,Austria,1949,291,1,Balboas
+95,Panama,310,Hungary,1924,0,1000,Balboas
+95,Panama,310,Hungary,1925,0,1000,Balboas
+95,Panama,310,Hungary,1926,0,1000,Balboas
+95,Panama,310,Hungary,1927,0,1000,Balboas
+95,Panama,310,Hungary,1929,0,1,Balboas
+95,Panama,310,Hungary,1930,0,1,Balboas
+95,Panama,310,Hungary,1931,0,1,
+95,Panama,310,Hungary,1932,0,1,
+95,Panama,310,Hungary,1933,0,1,
+95,Panama,310,Hungary,1934,0,1,
+95,Panama,310,Hungary,1935,0,1,
+95,Panama,310,Hungary,1936,0,1,
+95,Panama,310,Hungary,1937,0,1,
+95,Panama,310,Hungary,1938,0,1,
+95,Panama,310,Hungary,1939,0,1,
+95,Panama,310,Hungary,1940,0,1,
+95,Panama,310,Hungary,1941,1336,1,Balboas
+95,Panama,310,Hungary,1942,0,1,Balboas
+95,Panama,310,Hungary,1943,0,1,Balboas
+95,Panama,310,Hungary,1944,0,1,Balboas
+95,Panama,310,Hungary,1945,0,1,Balboas
+95,Panama,310,Hungary,1946,3256.71,1,Balboas
+95,Panama,310,Hungary,1947,0,1,Balboas
+95,Panama,310,Hungary,1948,1260,1,Balboas
+95,Panama,310,Hungary,1949,1536,1,Balboas
+95,Panama,315,Czechoslovakia,1924,0,1000,Balboas
+95,Panama,315,Czechoslovakia,1925,0,1000,Balboas
+95,Panama,315,Czechoslovakia,1926,0,1000,Balboas
+95,Panama,315,Czechoslovakia,1927,0,1000,Balboas
+95,Panama,315,Czechoslovakia,1929,0,1,Balboas
+95,Panama,315,Czechoslovakia,1930,0,1,Balboas
+95,Panama,315,Czechoslovakia,1931,0,1,
+95,Panama,315,Czechoslovakia,1932,0,1,
+95,Panama,315,Czechoslovakia,1933,0,1,
+95,Panama,315,Czechoslovakia,1934,0,1,
+95,Panama,315,Czechoslovakia,1935,0,1,
+95,Panama,315,Czechoslovakia,1936,0,1,
+95,Panama,315,Czechoslovakia,1937,0,1,
+95,Panama,315,Czechoslovakia,1938,0,1,
+95,Panama,315,Czechoslovakia,1939,0,1,
+95,Panama,315,Czechoslovakia,1940,0,1,
+95,Panama,315,Czechoslovakia,1941,0,1,Balboas
+95,Panama,315,Czechoslovakia,1942,0,1,Balboas
+95,Panama,315,Czechoslovakia,1943,0,1,Balboas
+95,Panama,315,Czechoslovakia,1944,0,1,Balboas
+95,Panama,315,Czechoslovakia,1945,0,1,Balboas
+95,Panama,315,Czechoslovakia,1946,4403.24,1,Balboas
+95,Panama,315,Czechoslovakia,1947,31096,1,Balboas
+95,Panama,315,Czechoslovakia,1948,39574,1,Balboas
+95,Panama,315,Czechoslovakia,1949,11820,1,Balboas
+95,Panama,325,Italy,1924,100,1000,Balboas
+95,Panama,325,Italy,1925,150,1000,Balboas
+95,Panama,325,Italy,1926,206,1000,Balboas
+95,Panama,325,Italy,1927,173,1000,Balboas
+95,Panama,325,Italy,1929,137692.36,1,Balboas
+95,Panama,325,Italy,1930,285101,1,Balboas
+95,Panama,325,Italy,1931,160782,1,
+95,Panama,325,Italy,1932,130533,1,
+95,Panama,325,Italy,1933,92841,1,
+95,Panama,325,Italy,1934,98333,1,
+95,Panama,325,Italy,1935,114467,1,
+95,Panama,325,Italy,1936,88586,1,
+95,Panama,325,Italy,1937,144095,1,
+95,Panama,325,Italy,1938,143668,1,
+95,Panama,325,Italy,1939,135756,1,
+95,Panama,325,Italy,1940,113093,1,
+95,Panama,325,Italy,1941,4596,1,Balboas
+95,Panama,325,Italy,1942,97,1,Balboas
+95,Panama,325,Italy,1943,0,1,Balboas
+95,Panama,325,Italy,1944,0,1,Balboas
+95,Panama,325,Italy,1945,0,1,Balboas
+95,Panama,325,Italy,1946,12952.91,1,Balboas
+95,Panama,325,Italy,1947,208212,1,Balboas
+95,Panama,325,Italy,1948,378732,1,Balboas
+95,Panama,325,Italy,1949,458105,1,Balboas
+95,Panama,339,Albania,1924,0,1000,Balboas
+95,Panama,339,Albania,1925,0,1000,Balboas
+95,Panama,339,Albania,1926,0,1000,Balboas
+95,Panama,339,Albania,1927,0,1000,Balboas
+95,Panama,339,Albania,1929,0,1,Balboas
+95,Panama,339,Albania,1930,0,1,Balboas
+95,Panama,339,Albania,1931,0,1,
+95,Panama,339,Albania,1932,0,1,
+95,Panama,339,Albania,1933,0,1,
+95,Panama,339,Albania,1934,0,1,
+95,Panama,339,Albania,1935,0,1,
+95,Panama,339,Albania,1936,0,1,
+95,Panama,339,Albania,1937,0,1,
+95,Panama,339,Albania,1938,0,1,
+95,Panama,339,Albania,1939,0,1,
+95,Panama,339,Albania,1940,0,1,
+95,Panama,339,Albania,1941,0,1,Balboas
+95,Panama,339,Albania,1942,0,1,Balboas
+95,Panama,339,Albania,1943,0,1,Balboas
+95,Panama,339,Albania,1944,0,1,Balboas
+95,Panama,339,Albania,1945,0,1,Balboas
+95,Panama,339,Albania,1946,0,1,Balboas
+95,Panama,339,Albania,1947,0,1,Balboas
+95,Panama,339,Albania,1948,0,1,Balboas
+95,Panama,339,Albania,1949,3,1,Balboas
+95,Panama,345,Yugoslavia,1924,0,1000,Balboas
+95,Panama,345,Yugoslavia,1925,0,1000,Balboas
+95,Panama,345,Yugoslavia,1926,0,1000,Balboas
+95,Panama,345,Yugoslavia,1927,0,1000,Balboas
+95,Panama,345,Yugoslavia,1929,0,1,Balboas
+95,Panama,345,Yugoslavia,1930,0,1,Balboas
+95,Panama,345,Yugoslavia,1931,0,1,
+95,Panama,345,Yugoslavia,1932,0,1,
+95,Panama,345,Yugoslavia,1933,0,1,
+95,Panama,345,Yugoslavia,1934,0,1,
+95,Panama,345,Yugoslavia,1935,0,1,
+95,Panama,345,Yugoslavia,1936,0,1,
+95,Panama,345,Yugoslavia,1937,0,1,
+95,Panama,345,Yugoslavia,1938,0,1,
+95,Panama,345,Yugoslavia,1939,0,1,
+95,Panama,345,Yugoslavia,1940,0,1,
+95,Panama,345,Yugoslavia,1941,0,1,Balboas
+95,Panama,345,Yugoslavia,1942,0,1,Balboas
+95,Panama,345,Yugoslavia,1943,0,1,Balboas
+95,Panama,345,Yugoslavia,1944,0,1,Balboas
+95,Panama,345,Yugoslavia,1945,0,1,Balboas
+95,Panama,345,Yugoslavia,1946,1422.17,1,Balboas
+95,Panama,345,Yugoslavia,1947,0,1,Balboas
+95,Panama,345,Yugoslavia,1948,488,1,Balboas
+95,Panama,345,Yugoslavia,1949,6,1,Balboas
+95,Panama,350,Greece,1924,0,1000,Balboas
+95,Panama,350,Greece,1925,0,1000,Balboas
+95,Panama,350,Greece,1926,0,1000,Balboas
+95,Panama,350,Greece,1927,0,1000,Balboas
+95,Panama,350,Greece,1929,0,1,Balboas
+95,Panama,350,Greece,1930,0,1,Balboas
+95,Panama,350,Greece,1931,0,1,
+95,Panama,350,Greece,1932,0,1,
+95,Panama,350,Greece,1933,0,1,
+95,Panama,350,Greece,1934,0,1,
+95,Panama,350,Greece,1935,0,1,
+95,Panama,350,Greece,1936,0,1,
+95,Panama,350,Greece,1937,0,1,
+95,Panama,350,Greece,1938,0,1,
+95,Panama,350,Greece,1939,0,1,
+95,Panama,350,Greece,1940,0,1,
+95,Panama,350,Greece,1941,132,1,Balboas
+95,Panama,350,Greece,1942,0,1,Balboas
+95,Panama,350,Greece,1943,0,1,Balboas
+95,Panama,350,Greece,1944,0,1,Balboas
+95,Panama,350,Greece,1945,20,1,Balboas
+95,Panama,350,Greece,1946,294,1,Balboas
+95,Panama,350,Greece,1947,11943,1,Balboas
+95,Panama,350,Greece,1948,190,1,Balboas
+95,Panama,350,Greece,1949,2,1,Balboas
+95,Panama,355,Bulgaria,1924,0,1000,Balboas
+95,Panama,355,Bulgaria,1925,0,1000,Balboas
+95,Panama,355,Bulgaria,1926,0,1000,Balboas
+95,Panama,355,Bulgaria,1927,0,1000,Balboas
+95,Panama,355,Bulgaria,1929,0,1,Balboas
+95,Panama,355,Bulgaria,1930,0,1,Balboas
+95,Panama,355,Bulgaria,1931,0,1,
+95,Panama,355,Bulgaria,1932,0,1,
+95,Panama,355,Bulgaria,1933,0,1,
+95,Panama,355,Bulgaria,1934,0,1,
+95,Panama,355,Bulgaria,1935,0,1,
+95,Panama,355,Bulgaria,1936,0,1,
+95,Panama,355,Bulgaria,1937,0,1,
+95,Panama,355,Bulgaria,1938,0,1,
+95,Panama,355,Bulgaria,1939,0,1,
+95,Panama,355,Bulgaria,1940,0,1,
+95,Panama,355,Bulgaria,1941,0,1,Balboas
+95,Panama,355,Bulgaria,1942,0,1,Balboas
+95,Panama,355,Bulgaria,1943,0,1,Balboas
+95,Panama,355,Bulgaria,1944,0,1,Balboas
+95,Panama,355,Bulgaria,1945,0,1,Balboas
+95,Panama,355,Bulgaria,1946,0,1,Balboas
+95,Panama,355,Bulgaria,1947,0,1,Balboas
+95,Panama,355,Bulgaria,1948,0,1,Balboas
+95,Panama,355,Bulgaria,1949,0,1,Balboas
+95,Panama,375,Finland,1924,0,1000,Balboas
+95,Panama,375,Finland,1925,0,1000,Balboas
+95,Panama,375,Finland,1926,0,1000,Balboas
+95,Panama,375,Finland,1927,0,1000,Balboas
+95,Panama,375,Finland,1929,0,1,Balboas
+95,Panama,375,Finland,1930,0,1,Balboas
+95,Panama,375,Finland,1931,0,1,
+95,Panama,375,Finland,1932,0,1,
+95,Panama,375,Finland,1933,0,1,
+95,Panama,375,Finland,1934,0,1,
+95,Panama,375,Finland,1935,0,1,
+95,Panama,375,Finland,1936,0,1,
+95,Panama,375,Finland,1937,0,1,
+95,Panama,375,Finland,1938,0,1,
+95,Panama,375,Finland,1939,0,1,
+95,Panama,375,Finland,1940,0,1,
+95,Panama,375,Finland,1941,8582,1,Balboas
+95,Panama,375,Finland,1942,0,1,Balboas
+95,Panama,375,Finland,1943,0,1,Balboas
+95,Panama,375,Finland,1944,0,1,Balboas
+95,Panama,375,Finland,1945,0,1,Balboas
+95,Panama,375,Finland,1946,28204.43,1,Balboas
+95,Panama,375,Finland,1947,14611,1,Balboas
+95,Panama,375,Finland,1948,10942,1,Balboas
+95,Panama,375,Finland,1949,3314,1,Balboas
+95,Panama,380,Sweden,1924,0,1000,Balboas
+95,Panama,380,Sweden,1925,0,1000,Balboas
+95,Panama,380,Sweden,1926,0,1000,Balboas
+95,Panama,380,Sweden,1927,0,1000,Balboas
+95,Panama,380,Sweden,1929,131700.04,1,Balboas
+95,Panama,380,Sweden,1930,88268,1,Balboas
+95,Panama,380,Sweden,1931,79290,1,
+95,Panama,380,Sweden,1932,90915,1,
+95,Panama,380,Sweden,1933,70453,1,
+95,Panama,380,Sweden,1934,57218,1,
+95,Panama,380,Sweden,1935,75554,1,
+95,Panama,380,Sweden,1936,78692,1,
+95,Panama,380,Sweden,1937,104580,1,
+95,Panama,380,Sweden,1938,59239,1,
+95,Panama,380,Sweden,1939,56644,1,
+95,Panama,380,Sweden,1940,48133,1,
+95,Panama,380,Sweden,1941,31305,1,Balboas
+95,Panama,380,Sweden,1942,0,1,Balboas
+95,Panama,380,Sweden,1943,0,1,Balboas
+95,Panama,380,Sweden,1944,0,1,Balboas
+95,Panama,380,Sweden,1945,109845.27,1,Balboas
+95,Panama,380,Sweden,1946,241923.35,1,Balboas
+95,Panama,380,Sweden,1947,443870,1,Balboas
+95,Panama,380,Sweden,1948,604977,1,Balboas
+95,Panama,380,Sweden,1949,494092,1,Balboas
+95,Panama,385,Norway,1924,0,1000,Balboas
+95,Panama,385,Norway,1925,0,1000,Balboas
+95,Panama,385,Norway,1926,0,1000,Balboas
+95,Panama,385,Norway,1927,0,1000,Balboas
+95,Panama,385,Norway,1929,146043.75,1,Balboas
+95,Panama,385,Norway,1930,179014,1,Balboas
+95,Panama,385,Norway,1931,181097,1,
+95,Panama,385,Norway,1932,59498,1,
+95,Panama,385,Norway,1933,51867,1,
+95,Panama,385,Norway,1934,62417,1,
+95,Panama,385,Norway,1935,67291,1,
+95,Panama,385,Norway,1936,76484,1,
+95,Panama,385,Norway,1937,101958,1,
+95,Panama,385,Norway,1938,118148,1,
+95,Panama,385,Norway,1939,76265,1,
+95,Panama,385,Norway,1940,22391,1,
+95,Panama,385,Norway,1941,6,1,Balboas
+95,Panama,385,Norway,1942,0,1,Balboas
+95,Panama,385,Norway,1943,0,1,Balboas
+95,Panama,385,Norway,1944,0,1,Balboas
+95,Panama,385,Norway,1945,0,1,Balboas
+95,Panama,385,Norway,1946,136017.43,1,Balboas
+95,Panama,385,Norway,1947,81943,1,Balboas
+95,Panama,385,Norway,1948,28419,1,Balboas
+95,Panama,385,Norway,1949,10284,1,Balboas
+95,Panama,390,Denmark,1924,0,1000,Balboas
+95,Panama,390,Denmark,1925,0,1000,Balboas
+95,Panama,390,Denmark,1926,0,1000,Balboas
+95,Panama,390,Denmark,1927,0,1000,Balboas
+95,Panama,390,Denmark,1929,0,1,Balboas
+95,Panama,390,Denmark,1930,0,1,Balboas
+95,Panama,390,Denmark,1931,0,1,
+95,Panama,390,Denmark,1932,0,1,
+95,Panama,390,Denmark,1933,0,1,
+95,Panama,390,Denmark,1934,0,1,
+95,Panama,390,Denmark,1935,0,1,
+95,Panama,390,Denmark,1936,0,1,
+95,Panama,390,Denmark,1937,0,1,
+95,Panama,390,Denmark,1938,0,1,
+95,Panama,390,Denmark,1939,0,1,
+95,Panama,390,Denmark,1940,0,1,
+95,Panama,390,Denmark,1941,0,1,Balboas
+95,Panama,390,Denmark,1942,0,1,Balboas
+95,Panama,390,Denmark,1943,6,1,Balboas
+95,Panama,390,Denmark,1944,0,1,Balboas
+95,Panama,390,Denmark,1945,0,1,Balboas
+95,Panama,390,Denmark,1946,44427.01,1,Balboas
+95,Panama,390,Denmark,1947,173059,1,Balboas
+95,Panama,390,Denmark,1948,72604,1,Balboas
+95,Panama,390,Denmark,1949,60645,1,Balboas
+95,Panama,395,Iceland,1924,0,1000,Balboas
+95,Panama,395,Iceland,1925,0,1000,Balboas
+95,Panama,395,Iceland,1926,0,1000,Balboas
+95,Panama,395,Iceland,1927,0,1000,Balboas
+95,Panama,395,Iceland,1929,0,1,Balboas
+95,Panama,395,Iceland,1930,0,1,Balboas
+95,Panama,395,Iceland,1931,0,1,
+95,Panama,395,Iceland,1932,0,1,
+95,Panama,395,Iceland,1933,0,1,
+95,Panama,395,Iceland,1934,0,1,
+95,Panama,395,Iceland,1935,0,1,
+95,Panama,395,Iceland,1936,0,1,
+95,Panama,395,Iceland,1937,0,1,
+95,Panama,395,Iceland,1938,0,1,
+95,Panama,395,Iceland,1939,0,1,
+95,Panama,395,Iceland,1940,0,1,
+95,Panama,395,Iceland,1941,0,1,Balboas
+95,Panama,395,Iceland,1942,0,1,Balboas
+95,Panama,395,Iceland,1943,0,1,Balboas
+95,Panama,395,Iceland,1944,0,1,Balboas
+95,Panama,395,Iceland,1945,0,1,Balboas
+95,Panama,395,Iceland,1946,0,1,Balboas
+95,Panama,395,Iceland,1947,0,1,Balboas
+95,Panama,395,Iceland,1948,605,1,Balboas
+95,Panama,395,Iceland,1949,0,1,Balboas
+95,Panama,560,South Africa,1924,0,1000,Balboas
+95,Panama,560,South Africa,1925,0,1000,Balboas
+95,Panama,560,South Africa,1926,0,1000,Balboas
+95,Panama,560,South Africa,1927,0,1000,Balboas
+95,Panama,560,South Africa,1929,0,1,Balboas
+95,Panama,560,South Africa,1930,0,1,Balboas
+95,Panama,560,South Africa,1931,0,1,
+95,Panama,560,South Africa,1932,0,1,
+95,Panama,560,South Africa,1933,0,1,
+95,Panama,560,South Africa,1934,0,1,
+95,Panama,560,South Africa,1935,0,1,
+95,Panama,560,South Africa,1936,0,1,
+95,Panama,560,South Africa,1937,0,1,
+95,Panama,560,South Africa,1938,0,1,
+95,Panama,560,South Africa,1939,0,1,
+95,Panama,560,South Africa,1940,0,1,
+95,Panama,560,South Africa,1941,1,1,Balboas
+95,Panama,560,South Africa,1942,0,1,Balboas
+95,Panama,560,South Africa,1943,0,1,Balboas
+95,Panama,560,South Africa,1944,0,1,Balboas
+95,Panama,560,South Africa,1945,200,1,Balboas
+95,Panama,560,South Africa,1946,16,1,Balboas
+95,Panama,560,South Africa,1947,7859,1,Balboas
+95,Panama,560,South Africa,1948,3257,1,Balboas
+95,Panama,560,South Africa,1949,0,1,Balboas
+95,Panama,600,Morocco,1924,0,1000,Balboas
+95,Panama,600,Morocco,1925,0,1000,Balboas
+95,Panama,600,Morocco,1926,0,1000,Balboas
+95,Panama,600,Morocco,1927,0,1000,Balboas
+95,Panama,600,Morocco,1929,0,1,Balboas
+95,Panama,600,Morocco,1930,0,1,Balboas
+95,Panama,600,Morocco,1931,0,1,
+95,Panama,600,Morocco,1932,0,1,
+95,Panama,600,Morocco,1933,0,1,
+95,Panama,600,Morocco,1934,0,1,
+95,Panama,600,Morocco,1935,0,1,
+95,Panama,600,Morocco,1936,0,1,
+95,Panama,600,Morocco,1937,0,1,
+95,Panama,600,Morocco,1938,0,1,
+95,Panama,600,Morocco,1939,0,1,
+95,Panama,600,Morocco,1940,0,1,
+95,Panama,600,Morocco,1941,3071,1,Balboas
+95,Panama,600,Morocco,1942,0,1,Balboas
+95,Panama,600,Morocco,1943,0,1,Balboas
+95,Panama,600,Morocco,1944,0,1,Balboas
+95,Panama,600,Morocco,1945,0,1,Balboas
+95,Panama,600,Morocco,1946,0,1,Balboas
+95,Panama,600,Morocco,1947,0,1,Balboas
+95,Panama,600,Morocco,1948,0,1,Balboas
+95,Panama,600,Morocco,1949,0,1,Balboas
+95,Panama,602,Spanish Morocco,1924,0,1000,Balboas
+95,Panama,602,Spanish Morocco,1925,0,1000,Balboas
+95,Panama,602,Spanish Morocco,1926,0,1000,Balboas
+95,Panama,602,Spanish Morocco,1927,0,1000,Balboas
+95,Panama,602,Spanish Morocco,1929,0,1,Balboas
+95,Panama,602,Spanish Morocco,1930,0,1,Balboas
+95,Panama,602,Spanish Morocco,1931,0,1,
+95,Panama,602,Spanish Morocco,1932,0,1,
+95,Panama,602,Spanish Morocco,1933,0,1,
+95,Panama,602,Spanish Morocco,1934,0,1,
+95,Panama,602,Spanish Morocco,1935,0,1,
+95,Panama,602,Spanish Morocco,1936,0,1,
+95,Panama,602,Spanish Morocco,1937,0,1,
+95,Panama,602,Spanish Morocco,1938,0,1,
+95,Panama,602,Spanish Morocco,1939,0,1,
+95,Panama,602,Spanish Morocco,1940,0,1,
+95,Panama,602,Spanish Morocco,1941,0,1,Balboas
+95,Panama,602,Spanish Morocco,1942,0,1,Balboas
+95,Panama,602,Spanish Morocco,1943,0,1,Balboas
+95,Panama,602,Spanish Morocco,1944,0,1,Balboas
+95,Panama,602,Spanish Morocco,1945,0,1,Balboas
+95,Panama,602,Spanish Morocco,1946,10,1,Balboas
+95,Panama,602,Spanish Morocco,1947,0,1,Balboas
+95,Panama,602,Spanish Morocco,1948,0,1,Balboas
+95,Panama,602,Spanish Morocco,1949,0,1,Balboas
+95,Panama,615,Algeria,1924,0,1000,Balboas
+95,Panama,615,Algeria,1925,0,1000,Balboas
+95,Panama,615,Algeria,1926,0,1000,Balboas
+95,Panama,615,Algeria,1927,0,1000,Balboas
+95,Panama,615,Algeria,1929,695.5,1,Balboas
+95,Panama,615,Algeria,1930,354,1,Balboas
+95,Panama,615,Algeria,1931,0,1,
+95,Panama,615,Algeria,1932,0,1,
+95,Panama,615,Algeria,1933,0,1,
+95,Panama,615,Algeria,1934,0,1,
+95,Panama,615,Algeria,1935,0,1,
+95,Panama,615,Algeria,1936,0,1,
+95,Panama,615,Algeria,1937,0,1,
+95,Panama,615,Algeria,1938,0,1,
+95,Panama,615,Algeria,1939,0,1,
+95,Panama,615,Algeria,1940,0,1,
+95,Panama,615,Algeria,1941,0,1,Balboas
+95,Panama,615,Algeria,1942,0,1,Balboas
+95,Panama,615,Algeria,1943,0,1,Balboas
+95,Panama,615,Algeria,1944,0,1,Balboas
+95,Panama,615,Algeria,1945,0,1,Balboas
+95,Panama,615,Algeria,1946,0,1,Balboas
+95,Panama,615,Algeria,1947,0,1,Balboas
+95,Panama,615,Algeria,1948,0,1,Balboas
+95,Panama,615,Algeria,1949,0,1,Balboas
+95,Panama,620,Libya,1924,0,1000,Balboas
+95,Panama,620,Libya,1925,0,1000,Balboas
+95,Panama,620,Libya,1926,0,1000,Balboas
+95,Panama,620,Libya,1927,0,1000,Balboas
+95,Panama,620,Libya,1929,0,1,Balboas
+95,Panama,620,Libya,1930,0,1,Balboas
+95,Panama,620,Libya,1931,0,1,
+95,Panama,620,Libya,1932,0,1,
+95,Panama,620,Libya,1933,0,1,
+95,Panama,620,Libya,1934,0,1,
+95,Panama,620,Libya,1935,0,1,
+95,Panama,620,Libya,1936,0,1,
+95,Panama,620,Libya,1937,0,1,
+95,Panama,620,Libya,1938,0,1,
+95,Panama,620,Libya,1939,0,1,
+95,Panama,620,Libya,1940,0,1,
+95,Panama,620,Libya,1941,581,1,Balboas
+95,Panama,620,Libya,1942,0,1,Balboas
+95,Panama,620,Libya,1943,0,1,Balboas
+95,Panama,620,Libya,1944,0,1,Balboas
+95,Panama,620,Libya,1945,0,1,Balboas
+95,Panama,620,Libya,1946,0,1,Balboas
+95,Panama,620,Libya,1947,0,1,Balboas
+95,Panama,620,Libya,1948,0,1,Balboas
+95,Panama,620,Libya,1949,0,1,Balboas
+95,Panama,630,Iran,1924,0,1000,Balboas
+95,Panama,630,Iran,1925,0,1000,Balboas
+95,Panama,630,Iran,1926,0,1000,Balboas
+95,Panama,630,Iran,1927,0,1000,Balboas
+95,Panama,630,Iran,1929,0,1,Balboas
+95,Panama,630,Iran,1930,0,1,Balboas
+95,Panama,630,Iran,1931,0,1,
+95,Panama,630,Iran,1932,0,1,
+95,Panama,630,Iran,1933,0,1,
+95,Panama,630,Iran,1934,0,1,
+95,Panama,630,Iran,1935,0,1,
+95,Panama,630,Iran,1936,0,1,
+95,Panama,630,Iran,1937,0,1,
+95,Panama,630,Iran,1938,0,1,
+95,Panama,630,Iran,1939,0,1,
+95,Panama,630,Iran,1940,0,1,
+95,Panama,630,Iran,1941,0,1,Balboas
+95,Panama,630,Iran,1942,0,1,Balboas
+95,Panama,630,Iran,1943,0,1,Balboas
+95,Panama,630,Iran,1944,0,1,Balboas
+95,Panama,630,Iran,1945,0,1,Balboas
+95,Panama,630,Iran,1946,0,1,Balboas
+95,Panama,630,Iran,1947,0,1,Balboas
+95,Panama,630,Iran,1948,2,1,Balboas
+95,Panama,630,Iran,1949,0,1,Balboas
+95,Panama,640,Turkey,1924,0,1000,Balboas
+95,Panama,640,Turkey,1925,0,1000,Balboas
+95,Panama,640,Turkey,1926,0,1000,Balboas
+95,Panama,640,Turkey,1927,0,1000,Balboas
+95,Panama,640,Turkey,1929,0,1,Balboas
+95,Panama,640,Turkey,1930,0,1,Balboas
+95,Panama,640,Turkey,1931,0,1,
+95,Panama,640,Turkey,1932,0,1,
+95,Panama,640,Turkey,1933,0,1,
+95,Panama,640,Turkey,1934,0,1,
+95,Panama,640,Turkey,1935,0,1,
+95,Panama,640,Turkey,1936,0,1,
+95,Panama,640,Turkey,1937,0,1,
+95,Panama,640,Turkey,1938,0,1,
+95,Panama,640,Turkey,1939,0,1,
+95,Panama,640,Turkey,1940,0,1,
+95,Panama,640,Turkey,1941,0,1,Balboas
+95,Panama,640,Turkey,1942,0,1,Balboas
+95,Panama,640,Turkey,1943,0,1,Balboas
+95,Panama,640,Turkey,1944,0,1,Balboas
+95,Panama,640,Turkey,1945,0,1,Balboas
+95,Panama,640,Turkey,1946,1112.77,1,Balboas
+95,Panama,640,Turkey,1947,4194,1,Balboas
+95,Panama,640,Turkey,1948,0,1,Balboas
+95,Panama,640,Turkey,1949,0,1,Balboas
+95,Panama,651,Egypt,1924,0,1000,Balboas
+95,Panama,651,Egypt,1925,0,1000,Balboas
+95,Panama,651,Egypt,1926,0,1000,Balboas
+95,Panama,651,Egypt,1927,0,1000,Balboas
+95,Panama,651,Egypt,1929,0,1,Balboas
+95,Panama,651,Egypt,1930,0,1,Balboas
+95,Panama,651,Egypt,1931,0,1,
+95,Panama,651,Egypt,1932,0,1,
+95,Panama,651,Egypt,1933,0,1,
+95,Panama,651,Egypt,1934,0,1,
+95,Panama,651,Egypt,1935,0,1,
+95,Panama,651,Egypt,1936,0,1,
+95,Panama,651,Egypt,1937,0,1,
+95,Panama,651,Egypt,1938,0,1,
+95,Panama,651,Egypt,1939,0,1,
+95,Panama,651,Egypt,1940,0,1,
+95,Panama,651,Egypt,1941,780,1,Balboas
+95,Panama,651,Egypt,1942,0,1,Balboas
+95,Panama,651,Egypt,1943,0,1,Balboas
+95,Panama,651,Egypt,1944,0,1,Balboas
+95,Panama,651,Egypt,1945,5,1,Balboas
+95,Panama,651,Egypt,1946,0,1,Balboas
+95,Panama,651,Egypt,1947,239,1,Balboas
+95,Panama,651,Egypt,1948,27,1,Balboas
+95,Panama,651,Egypt,1949,106,1,Balboas
+95,Panama,665,West Bank And Gaza,1924,0,1000,Balboas
+95,Panama,665,West Bank And Gaza,1925,0,1000,Balboas
+95,Panama,665,West Bank And Gaza,1926,0,1000,Balboas
+95,Panama,665,West Bank And Gaza,1927,0,1000,Balboas
+95,Panama,665,West Bank And Gaza,1929,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1930,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1931,0,1,
+95,Panama,665,West Bank And Gaza,1932,0,1,
+95,Panama,665,West Bank And Gaza,1933,0,1,
+95,Panama,665,West Bank And Gaza,1934,0,1,
+95,Panama,665,West Bank And Gaza,1935,0,1,
+95,Panama,665,West Bank And Gaza,1936,0,1,
+95,Panama,665,West Bank And Gaza,1937,0,1,
+95,Panama,665,West Bank And Gaza,1938,0,1,
+95,Panama,665,West Bank And Gaza,1939,0,1,
+95,Panama,665,West Bank And Gaza,1940,0,1,
+95,Panama,665,West Bank And Gaza,1941,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1942,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1943,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1944,0,1,Balboas
+95,Panama,665,West Bank And Gaza,1945,4,1,Balboas
+95,Panama,665,West Bank And Gaza,1946,1.5,1,Balboas
+95,Panama,665,West Bank And Gaza,1947,3,1,Balboas
+95,Panama,665,West Bank And Gaza,1948,192,1,Balboas
+95,Panama,665,West Bank And Gaza,1949,0,1,Balboas
+95,Panama,675,Arabia,1924,0,1000,Balboas
+95,Panama,675,Arabia,1925,0,1000,Balboas
+95,Panama,675,Arabia,1926,0,1000,Balboas
+95,Panama,675,Arabia,1927,0,1000,Balboas
+95,Panama,675,Arabia,1929,0,1,Balboas
+95,Panama,675,Arabia,1930,0,1,Balboas
+95,Panama,675,Arabia,1931,0,1,
+95,Panama,675,Arabia,1932,0,1,
+95,Panama,675,Arabia,1933,0,1,
+95,Panama,675,Arabia,1934,0,1,
+95,Panama,675,Arabia,1935,0,1,
+95,Panama,675,Arabia,1936,0,1,
+95,Panama,675,Arabia,1937,0,1,
+95,Panama,675,Arabia,1938,0,1,
+95,Panama,675,Arabia,1939,0,1,
+95,Panama,675,Arabia,1940,0,1,
+95,Panama,675,Arabia,1941,0,1,Balboas
+95,Panama,675,Arabia,1942,0,1,Balboas
+95,Panama,675,Arabia,1943,0,1,Balboas
+95,Panama,675,Arabia,1944,0,1,Balboas
+95,Panama,675,Arabia,1945,0,1,Balboas
+95,Panama,675,Arabia,1946,0,1,Balboas
+95,Panama,675,Arabia,1947,0,1,Balboas
+95,Panama,675,Arabia,1948,0,1,Balboas
+95,Panama,675,Arabia,1949,0,1,Balboas
+95,Panama,710,China,1924,717,1000,Balboas
+95,Panama,710,China,1925,908,1000,Balboas
+95,Panama,710,China,1926,961,1000,Balboas
+95,Panama,710,China,1927,693,1000,Balboas
+95,Panama,710,China,1929,805914.85,1,Balboas
+95,Panama,710,China,1930,1539749,1,Balboas
+95,Panama,710,China,1931,713842,1,
+95,Panama,710,China,1932,421621,1,
+95,Panama,710,China,1933,488286,1,
+95,Panama,710,China,1934,691634,1,
+95,Panama,710,China,1935,656461,1,
+95,Panama,710,China,1936,728040,1,
+95,Panama,710,China,1937,886075,1,
+95,Panama,710,China,1938,535867,1,
+95,Panama,710,China,1939,562838,1,
+95,Panama,710,China,1940,728646,1,
+95,Panama,710,China,1941,518647,1,Balboas
+95,Panama,710,China,1942,36857,1,Balboas
+95,Panama,710,China,1943,0,1,Balboas
+95,Panama,710,China,1944,209.33,1,Balboas
+95,Panama,710,China,1945,103.5,1,Balboas
+95,Panama,710,China,1946,62849.5,1,Balboas
+95,Panama,710,China,1947,239325,1,Balboas
+95,Panama,710,China,1948,209514,1,Balboas
+95,Panama,710,China,1949,108564,1,Balboas
+95,Panama,720,Hong Kong,1924,0,1000,Balboas
+95,Panama,720,Hong Kong,1925,0,1000,Balboas
+95,Panama,720,Hong Kong,1926,0,1000,Balboas
+95,Panama,720,Hong Kong,1927,0,1000,Balboas
+95,Panama,720,Hong Kong,1929,0,1,Balboas
+95,Panama,720,Hong Kong,1930,0,1,Balboas
+95,Panama,720,Hong Kong,1931,0,1,
+95,Panama,720,Hong Kong,1932,0,1,
+95,Panama,720,Hong Kong,1933,0,1,
+95,Panama,720,Hong Kong,1934,0,1,
+95,Panama,720,Hong Kong,1935,0,1,
+95,Panama,720,Hong Kong,1936,0,1,
+95,Panama,720,Hong Kong,1937,0,1,
+95,Panama,720,Hong Kong,1938,0,1,
+95,Panama,720,Hong Kong,1939,0,1,
+95,Panama,720,Hong Kong,1940,0,1,
+95,Panama,720,Hong Kong,1941,0,1,Balboas
+95,Panama,720,Hong Kong,1942,1082,1,Balboas
+95,Panama,720,Hong Kong,1943,0,1,Balboas
+95,Panama,720,Hong Kong,1944,0,1,Balboas
+95,Panama,720,Hong Kong,1945,0,1,Balboas
+95,Panama,720,Hong Kong,1946,12699.13,1,Balboas
+95,Panama,720,Hong Kong,1947,171064,1,Balboas
+95,Panama,720,Hong Kong,1948,457258,1,Balboas
+95,Panama,720,Hong Kong,1949,613882,1,Balboas
+95,Panama,740,Japan,1924,241,1000,Balboas
+95,Panama,740,Japan,1925,184,1000,Balboas
+95,Panama,740,Japan,1926,205,1000,Balboas
+95,Panama,740,Japan,1927,166,1000,Balboas
+95,Panama,740,Japan,1929,144799.98,1,Balboas
+95,Panama,740,Japan,1930,181818,1,Balboas
+95,Panama,740,Japan,1931,278983,1,
+95,Panama,740,Japan,1932,322646,1,
+95,Panama,740,Japan,1933,687159,1,
+95,Panama,740,Japan,1934,1648004,1,
+95,Panama,740,Japan,1935,1671316,1,
+95,Panama,740,Japan,1936,2986536,1,
+95,Panama,740,Japan,1937,3089308,1,
+95,Panama,740,Japan,1938,1633923,1,
+95,Panama,740,Japan,1939,2007236,1,
+95,Panama,740,Japan,1940,1759873,1,
+95,Panama,740,Japan,1941,808938,1,Balboas
+95,Panama,740,Japan,1942,7341,1,Balboas
+95,Panama,740,Japan,1943,0,1,Balboas
+95,Panama,740,Japan,1944,3905.65,1,Balboas
+95,Panama,740,Japan,1945,2040.04,1,Balboas
+95,Panama,740,Japan,1946,0,1,Balboas
+95,Panama,740,Japan,1947,0,1,Balboas
+95,Panama,740,Japan,1948,87763,1,Balboas
+95,Panama,740,Japan,1949,95838,1,Balboas
+95,Panama,750,India,1924,0,1000,Balboas
+95,Panama,750,India,1925,0,1000,Balboas
+95,Panama,750,India,1926,0,1000,Balboas
+95,Panama,750,India,1927,0,1000,Balboas
+95,Panama,750,India,1929,0,1,Balboas
+95,Panama,750,India,1930,0,1,Balboas
+95,Panama,750,India,1931,0,1,
+95,Panama,750,India,1932,0,1,
+95,Panama,750,India,1933,0,1,
+95,Panama,750,India,1934,0,1,
+95,Panama,750,India,1935,0,1,
+95,Panama,750,India,1936,0,1,
+95,Panama,750,India,1937,0,1,
+95,Panama,750,India,1938,0,1,
+95,Panama,750,India,1939,0,1,
+95,Panama,750,India,1940,0,1,
+95,Panama,750,India,1941,3414,1,Balboas
+95,Panama,750,India,1942,2481,1,Balboas
+95,Panama,750,India,1943,11661,1,Balboas
+95,Panama,750,India,1944,4464.8,1,Balboas
+95,Panama,750,India,1945,11576.99,1,Balboas
+95,Panama,750,India,1946,13094.31,1,Balboas
+95,Panama,750,India,1947,26010,1,Balboas
+95,Panama,750,India,1948,17469,1,Balboas
+95,Panama,750,India,1949,32128,1,Balboas
+95,Panama,780,Sri Lanka,1924,0,1000,Balboas
+95,Panama,780,Sri Lanka,1925,0,1000,Balboas
+95,Panama,780,Sri Lanka,1926,0,1000,Balboas
+95,Panama,780,Sri Lanka,1927,0,1000,Balboas
+95,Panama,780,Sri Lanka,1929,0,1,Balboas
+95,Panama,780,Sri Lanka,1930,0,1,Balboas
+95,Panama,780,Sri Lanka,1931,0,1,
+95,Panama,780,Sri Lanka,1932,0,1,
+95,Panama,780,Sri Lanka,1933,0,1,
+95,Panama,780,Sri Lanka,1934,0,1,
+95,Panama,780,Sri Lanka,1935,0,1,
+95,Panama,780,Sri Lanka,1936,0,1,
+95,Panama,780,Sri Lanka,1937,0,1,
+95,Panama,780,Sri Lanka,1938,0,1,
+95,Panama,780,Sri Lanka,1939,0,1,
+95,Panama,780,Sri Lanka,1940,0,1,
+95,Panama,780,Sri Lanka,1941,1198,1,Balboas
+95,Panama,780,Sri Lanka,1942,1538,1,Balboas
+95,Panama,780,Sri Lanka,1943,2439,1,Balboas
+95,Panama,780,Sri Lanka,1944,6431.72,1,Balboas
+95,Panama,780,Sri Lanka,1945,4213.13,1,Balboas
+95,Panama,780,Sri Lanka,1946,18515.92,1,Balboas
+95,Panama,780,Sri Lanka,1947,340,1,Balboas
+95,Panama,780,Sri Lanka,1948,990,1,Balboas
+95,Panama,780,Sri Lanka,1949,1937,1,Balboas
+95,Panama,800,Thailand,1924,0,1000,Balboas
+95,Panama,800,Thailand,1925,0,1000,Balboas
+95,Panama,800,Thailand,1926,0,1000,Balboas
+95,Panama,800,Thailand,1927,0,1000,Balboas
+95,Panama,800,Thailand,1929,0,1,Balboas
+95,Panama,800,Thailand,1930,0,1,Balboas
+95,Panama,800,Thailand,1931,0,1,
+95,Panama,800,Thailand,1932,0,1,
+95,Panama,800,Thailand,1933,0,1,
+95,Panama,800,Thailand,1934,0,1,
+95,Panama,800,Thailand,1935,0,1,
+95,Panama,800,Thailand,1936,0,1,
+95,Panama,800,Thailand,1937,0,1,
+95,Panama,800,Thailand,1938,0,1,
+95,Panama,800,Thailand,1939,0,1,
+95,Panama,800,Thailand,1940,0,1,
+95,Panama,800,Thailand,1941,0,1,Balboas
+95,Panama,800,Thailand,1942,0,1,Balboas
+95,Panama,800,Thailand,1943,0,1,Balboas
+95,Panama,800,Thailand,1944,0,1,Balboas
+95,Panama,800,Thailand,1945,0,1,Balboas
+95,Panama,800,Thailand,1946,0,1,Balboas
+95,Panama,800,Thailand,1947,75,1,Balboas
+95,Panama,800,Thailand,1948,182,1,Balboas
+95,Panama,800,Thailand,1949,359,1,Balboas
+95,Panama,810,French Indo-China,1924,0,1000,Balboas
+95,Panama,810,French Indo-China,1925,0,1000,Balboas
+95,Panama,810,French Indo-China,1926,0,1000,Balboas
+95,Panama,810,French Indo-China,1927,0,1000,Balboas
+95,Panama,810,French Indo-China,1929,0,1,Balboas
+95,Panama,810,French Indo-China,1930,0,1,Balboas
+95,Panama,810,French Indo-China,1931,0,1,
+95,Panama,810,French Indo-China,1932,0,1,
+95,Panama,810,French Indo-China,1933,0,1,
+95,Panama,810,French Indo-China,1934,0,1,
+95,Panama,810,French Indo-China,1935,0,1,
+95,Panama,810,French Indo-China,1936,0,1,
+95,Panama,810,French Indo-China,1937,0,1,
+95,Panama,810,French Indo-China,1938,0,1,
+95,Panama,810,French Indo-China,1939,0,1,
+95,Panama,810,French Indo-China,1940,0,1,
+95,Panama,810,French Indo-China,1941,0,1,Balboas
+95,Panama,810,French Indo-China,1942,0,1,Balboas
+95,Panama,810,French Indo-China,1943,0,1,Balboas
+95,Panama,810,French Indo-China,1944,0,1,Balboas
+95,Panama,810,French Indo-China,1945,0,1,Balboas
+95,Panama,810,French Indo-China,1946,0,1,Balboas
+95,Panama,810,French Indo-China,1947,0,1,Balboas
+95,Panama,810,French Indo-China,1948,0,1,Balboas
+95,Panama,810,French Indo-China,1949,0,1,Balboas
+95,Panama,840,Philippines,1924,0,1000,Balboas
+95,Panama,840,Philippines,1925,0,1000,Balboas
+95,Panama,840,Philippines,1926,0,1000,Balboas
+95,Panama,840,Philippines,1927,0,1000,Balboas
+95,Panama,840,Philippines,1929,0,1,Balboas
+95,Panama,840,Philippines,1930,0,1,Balboas
+95,Panama,840,Philippines,1931,0,1,
+95,Panama,840,Philippines,1932,0,1,
+95,Panama,840,Philippines,1933,0,1,
+95,Panama,840,Philippines,1934,0,1,
+95,Panama,840,Philippines,1935,0,1,
+95,Panama,840,Philippines,1936,0,1,
+95,Panama,840,Philippines,1937,0,1,
+95,Panama,840,Philippines,1938,0,1,
+95,Panama,840,Philippines,1939,0,1,
+95,Panama,840,Philippines,1940,0,1,
+95,Panama,840,Philippines,1941,78118,1,Balboas
+95,Panama,840,Philippines,1942,628,1,Balboas
+95,Panama,840,Philippines,1943,0,1,Balboas
+95,Panama,840,Philippines,1944,0,1,Balboas
+95,Panama,840,Philippines,1945,72.16,1,Balboas
+95,Panama,840,Philippines,1946,70688.74000000001,1,Balboas
+95,Panama,840,Philippines,1947,299424,1,Balboas
+95,Panama,840,Philippines,1948,641163,1,Balboas
+95,Panama,840,Philippines,1949,213512,1,Balboas
+95,Panama,900,Australia,1924,0,1000,Balboas
+95,Panama,900,Australia,1925,0,1000,Balboas
+95,Panama,900,Australia,1926,0,1000,Balboas
+95,Panama,900,Australia,1927,0,1000,Balboas
+95,Panama,900,Australia,1929,0,1,Balboas
+95,Panama,900,Australia,1930,0,1,Balboas
+95,Panama,900,Australia,1931,0,1,
+95,Panama,900,Australia,1932,0,1,
+95,Panama,900,Australia,1933,0,1,
+95,Panama,900,Australia,1934,0,1,
+95,Panama,900,Australia,1935,0,1,
+95,Panama,900,Australia,1936,0,1,
+95,Panama,900,Australia,1937,0,1,
+95,Panama,900,Australia,1938,0,1,
+95,Panama,900,Australia,1939,0,1,
+95,Panama,900,Australia,1940,0,1,
+95,Panama,900,Australia,1941,20561,1,Balboas
+95,Panama,900,Australia,1942,0,1,Balboas
+95,Panama,900,Australia,1943,337,1,Balboas
+95,Panama,900,Australia,1944,0,1,Balboas
+95,Panama,900,Australia,1945,0,1,Balboas
+95,Panama,900,Australia,1946,0,1,Balboas
+95,Panama,900,Australia,1947,313,1,Balboas
+95,Panama,900,Australia,1948,33764,1,Balboas
+95,Panama,900,Australia,1949,3854,1,Balboas
+95,Panama,920,New Zealand,1924,0,1000,Balboas
+95,Panama,920,New Zealand,1925,0,1000,Balboas
+95,Panama,920,New Zealand,1926,0,1000,Balboas
+95,Panama,920,New Zealand,1927,0,1000,Balboas
+95,Panama,920,New Zealand,1929,0,1,Balboas
+95,Panama,920,New Zealand,1930,0,1,Balboas
+95,Panama,920,New Zealand,1931,0,1,
+95,Panama,920,New Zealand,1932,0,1,
+95,Panama,920,New Zealand,1933,0,1,
+95,Panama,920,New Zealand,1934,0,1,
+95,Panama,920,New Zealand,1935,0,1,
+95,Panama,920,New Zealand,1936,0,1,
+95,Panama,920,New Zealand,1937,0,1,
+95,Panama,920,New Zealand,1938,0,1,
+95,Panama,920,New Zealand,1939,0,1,
+95,Panama,920,New Zealand,1940,0,1,
+95,Panama,920,New Zealand,1941,188189,1,Balboas
+95,Panama,920,New Zealand,1942,140350,1,Balboas
+95,Panama,920,New Zealand,1943,0,1,Balboas
+95,Panama,920,New Zealand,1944,0,1,Balboas
+95,Panama,920,New Zealand,1945,0,1,Balboas
+95,Panama,920,New Zealand,1946,99.84999999999999,1,Balboas
+95,Panama,920,New Zealand,1947,746,1,Balboas
+95,Panama,920,New Zealand,1948,327772,1,Balboas
+95,Panama,920,New Zealand,1949,411805,1,Balboas
+95,Panama,1065,Curacao,1924,0,1000,Balboas
+95,Panama,1065,Curacao,1925,0,1000,Balboas
+95,Panama,1065,Curacao,1926,0,1000,Balboas
+95,Panama,1065,Curacao,1927,0,1000,Balboas
+95,Panama,1065,Curacao,1929,9008.130000000001,1,Balboas
+95,Panama,1065,Curacao,1930,36241.04,1,Balboas
+95,Panama,1065,Curacao,1931,0,1,
+95,Panama,1065,Curacao,1932,0,1,
+95,Panama,1065,Curacao,1933,0,1,
+95,Panama,1065,Curacao,1934,0,1,
+95,Panama,1065,Curacao,1935,0,1,
+95,Panama,1065,Curacao,1936,0,1,
+95,Panama,1065,Curacao,1937,0,1,
+95,Panama,1065,Curacao,1938,0,1,
+95,Panama,1065,Curacao,1939,0,1,
+95,Panama,1065,Curacao,1940,0,1,
+95,Panama,1065,Curacao,1941,64759,1,Balboas
+95,Panama,1065,Curacao,1942,47122,1,Balboas
+95,Panama,1065,Curacao,1943,35611,1,Balboas
+95,Panama,1065,Curacao,1944,86613.3,1,Balboas
+95,Panama,1065,Curacao,1945,102904.13,1,Balboas
+95,Panama,1065,Curacao,1946,235669.06,1,Balboas
+95,Panama,1065,Curacao,1947,266277,1,Balboas
+95,Panama,1065,Curacao,1948,201560,1,Balboas
+95,Panama,1065,Curacao,1949,181991,1,Balboas
+95,Panama,,,1924,14324,1000,Balboas
+95,Panama,,,1925,16613,1000,Balboas
+95,Panama,,,1926,16507,1000,Balboas
+95,Panama,,,1927,15113,1000,Balboas
+95,Panama,,,1929,18949181.09,1,Balboas
+95,Panama,,,1930,18201106.12,1,Balboas
+95,Panama,,,1931,13289233,1,
+95,Panama,,,1932,8697199,1,
+95,Panama,,,1933,9190776,1,
+95,Panama,,,1934,13001180,1,
+95,Panama,,,1935,15150528,1,
+95,Panama,,,1936,18368971,1,
+95,Panama,,,1937,20974789,1,
+95,Panama,,,1938,16791315,1,
+95,Panama,,,1939,19545893,1,
+95,Panama,,,1940,22352940,1,
+95,Panama,,,1941,32775771,1,Balboas
+95,Panama,,,1942,37904264,1,Balboas
+95,Panama,,,1943,40267553,1,Balboas
+95,Panama,,,1944,38254747.94999999,1,Balboas
+95,Panama,,,1945,45733712.27999999,1,Balboas
+95,Panama,,,1946,56343663.32999999,1,Balboas
+95,Panama,,,1947,75566729,1,Balboas
+95,Panama,,,1948,63806593,1,Balboas
+95,Panama,,,1949,60629020,1,Balboas

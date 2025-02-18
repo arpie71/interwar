@@ -1,0 +1,324 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+450,Liberia,2,United States,1920,287523.28,1,
+450,Liberia,2,United States,1921,145584.37,1,
+450,Liberia,2,United States,1922,131178.34,1,
+450,Liberia,2,United States,1923,173326.09,1,
+450,Liberia,2,United States,1924,116508.77,1,
+450,Liberia,2,United States,1925,210708.36,1,
+450,Liberia,2,United States,1926,359470.21,1,
+450,Liberia,2,United States,1933,80147.17,1,$
+450,Liberia,2,United States,1934,176497,1,$
+450,Liberia,2,United States,1935,350291,1,$
+450,Liberia,2,United States,1938,890074,1,$
+450,Liberia,2,United States,1939,999767,1,$
+450,Liberia,2,United States,1940,1509608,1,$
+450,Liberia,2,United States,1941,2882438,1,$
+450,Liberia,2,United States,1942,3578508,1,$
+450,Liberia,2,United States,1943,3656701,1,$
+450,Liberia,2,United States,1944,2785684,1,$
+450,Liberia,20,Canada,1920,0,1,
+450,Liberia,20,Canada,1921,0,1,
+450,Liberia,20,Canada,1922,0,1,
+450,Liberia,20,Canada,1923,0,1,
+450,Liberia,20,Canada,1924,0,1,
+450,Liberia,20,Canada,1925,0,1,
+450,Liberia,20,Canada,1926,0,1,
+450,Liberia,20,Canada,1933,0,1,$
+450,Liberia,20,Canada,1934,0,1,$
+450,Liberia,20,Canada,1935,0,1,$
+450,Liberia,20,Canada,1938,5127,1,$
+450,Liberia,20,Canada,1939,3029,1,$
+450,Liberia,20,Canada,1940,3774,1,$
+450,Liberia,20,Canada,1941,4606,1,$
+450,Liberia,20,Canada,1942,5897,1,$
+450,Liberia,20,Canada,1943,75,1,$
+450,Liberia,20,Canada,1944,1955,1,$
+450,Liberia,200,United Kingdom,1920,1349214.78,1,
+450,Liberia,200,United Kingdom,1921,584733.48,1,
+450,Liberia,200,United Kingdom,1922,647515.76,1,
+450,Liberia,200,United Kingdom,1923,480496.95,1,
+450,Liberia,200,United Kingdom,1924,479095.03,1,
+450,Liberia,200,United Kingdom,1925,728372.28,1,
+450,Liberia,200,United Kingdom,1926,769675.85,1,
+450,Liberia,200,United Kingdom,1933,290992.3,1,$
+450,Liberia,200,United Kingdom,1934,319741,1,$
+450,Liberia,200,United Kingdom,1935,384973,1,$
+450,Liberia,200,United Kingdom,1938,479962,1,$
+450,Liberia,200,United Kingdom,1939,334507,1,$
+450,Liberia,200,United Kingdom,1940,432174,1,$
+450,Liberia,200,United Kingdom,1941,303140,1,$
+450,Liberia,200,United Kingdom,1942,312412,1,$
+450,Liberia,200,United Kingdom,1943,279817,1,$
+450,Liberia,200,United Kingdom,1944,98575,1,$
+450,Liberia,210,Netherlands,1920,103655.14,1,
+450,Liberia,210,Netherlands,1921,93398.21000000001,1,
+450,Liberia,210,Netherlands,1922,147393.56,1,
+450,Liberia,210,Netherlands,1923,136253.73,1,
+450,Liberia,210,Netherlands,1924,155411.41,1,
+450,Liberia,210,Netherlands,1925,192500.4,1,
+450,Liberia,210,Netherlands,1926,201089.43,1,
+450,Liberia,210,Netherlands,1933,57351.31,1,$
+450,Liberia,210,Netherlands,1934,48995,1,$
+450,Liberia,210,Netherlands,1935,58664,1,$
+450,Liberia,210,Netherlands,1938,141612,1,$
+450,Liberia,210,Netherlands,1939,168083,1,$
+450,Liberia,210,Netherlands,1940,42018,1,$
+450,Liberia,210,Netherlands,1941,111,1,$
+450,Liberia,210,Netherlands,1942,163,1,$
+450,Liberia,210,Netherlands,1943,0,1,$
+450,Liberia,210,Netherlands,1944,2688,1,$
+450,Liberia,211,Belgium,1920,0,1,
+450,Liberia,211,Belgium,1921,0,1,
+450,Liberia,211,Belgium,1922,0,1,
+450,Liberia,211,Belgium,1923,0,1,
+450,Liberia,211,Belgium,1924,0,1,
+450,Liberia,211,Belgium,1925,0,1,
+450,Liberia,211,Belgium,1926,0,1,
+450,Liberia,211,Belgium,1933,0,1,$
+450,Liberia,211,Belgium,1934,0,1,$
+450,Liberia,211,Belgium,1935,0,1,$
+450,Liberia,211,Belgium,1938,23741,1,$
+450,Liberia,211,Belgium,1939,19814,1,$
+450,Liberia,211,Belgium,1940,9094,1,$
+450,Liberia,211,Belgium,1941,122,1,$
+450,Liberia,211,Belgium,1942,0,1,$
+450,Liberia,211,Belgium,1943,0,1,$
+450,Liberia,211,Belgium,1944,0,1,$
+450,Liberia,220,France,1920,3453.39,1,
+450,Liberia,220,France,1921,6351.22,1,
+450,Liberia,220,France,1922,22877.79,1,
+450,Liberia,220,France,1923,9966.67,1,
+450,Liberia,220,France,1924,15539.2,1,
+450,Liberia,220,France,1925,23434.96,1,
+450,Liberia,220,France,1926,30253.27,1,
+450,Liberia,220,France,1933,12003.56,1,$
+450,Liberia,220,France,1934,10887,1,$
+450,Liberia,220,France,1935,13367,1,$
+450,Liberia,220,France,1938,16906,1,$
+450,Liberia,220,France,1939,15815,1,$
+450,Liberia,220,France,1940,11049,1,$
+450,Liberia,220,France,1941,2365,1,$
+450,Liberia,220,France,1942,1348,1,$
+450,Liberia,220,France,1943,1426,1,$
+450,Liberia,220,France,1944,3486,1,$
+450,Liberia,230,Spain,1920,13819.31,1,
+450,Liberia,230,Spain,1921,2405.53,1,
+450,Liberia,230,Spain,1922,55.54,1,
+450,Liberia,230,Spain,1923,6322.98,1,
+450,Liberia,230,Spain,1924,5231.94,1,
+450,Liberia,230,Spain,1925,8310.98,1,
+450,Liberia,230,Spain,1926,20024.79,1,
+450,Liberia,230,Spain,1933,3371.35,1,$
+450,Liberia,230,Spain,1934,4102,1,$
+450,Liberia,230,Spain,1935,13981,1,$
+450,Liberia,230,Spain,1938,6765,1,$
+450,Liberia,230,Spain,1939,5886,1,$
+450,Liberia,230,Spain,1940,8195,1,$
+450,Liberia,230,Spain,1941,0,1,$
+450,Liberia,230,Spain,1942,0,1,$
+450,Liberia,230,Spain,1943,0,1,$
+450,Liberia,230,Spain,1944,0,1,$
+450,Liberia,255,Germany,1920,15494.21,1,
+450,Liberia,255,Germany,1921,250875.17,1,
+450,Liberia,255,Germany,1922,429915.37,1,
+450,Liberia,255,Germany,1923,465503.24,1,
+450,Liberia,255,Germany,1924,577376.38,1,
+450,Liberia,255,Germany,1925,704881.97,1,
+450,Liberia,255,Germany,1926,727675.08,1,
+450,Liberia,255,Germany,1933,131645.19,1,$
+450,Liberia,255,Germany,1934,137674,1,$
+450,Liberia,255,Germany,1935,207601,1,$
+450,Liberia,255,Germany,1938,381863,1,$
+450,Liberia,255,Germany,1939,243085,1,$
+450,Liberia,255,Germany,1940,1261,1,$
+450,Liberia,255,Germany,1941,3415,1,$
+450,Liberia,255,Germany,1942,0,1,$
+450,Liberia,255,Germany,1943,4,1,$
+450,Liberia,255,Germany,1944,27,1,$
+450,Liberia,290,Poland,1920,0,1,
+450,Liberia,290,Poland,1921,0,1,
+450,Liberia,290,Poland,1922,0,1,
+450,Liberia,290,Poland,1923,0,1,
+450,Liberia,290,Poland,1924,0,1,
+450,Liberia,290,Poland,1925,0,1,
+450,Liberia,290,Poland,1926,0,1,
+450,Liberia,290,Poland,1933,0,1,$
+450,Liberia,290,Poland,1934,0,1,$
+450,Liberia,290,Poland,1935,0,1,$
+450,Liberia,290,Poland,1938,1536,1,$
+450,Liberia,290,Poland,1939,0,1,$
+450,Liberia,290,Poland,1940,0,1,$
+450,Liberia,290,Poland,1941,0,1,$
+450,Liberia,290,Poland,1942,0,1,$
+450,Liberia,290,Poland,1943,0,1,$
+450,Liberia,290,Poland,1944,0,1,$
+450,Liberia,315,Czechoslovakia,1920,0,1,
+450,Liberia,315,Czechoslovakia,1921,0,1,
+450,Liberia,315,Czechoslovakia,1922,0,1,
+450,Liberia,315,Czechoslovakia,1923,0,1,
+450,Liberia,315,Czechoslovakia,1924,0,1,
+450,Liberia,315,Czechoslovakia,1925,0,1,
+450,Liberia,315,Czechoslovakia,1926,0,1,
+450,Liberia,315,Czechoslovakia,1933,0,1,$
+450,Liberia,315,Czechoslovakia,1934,0,1,$
+450,Liberia,315,Czechoslovakia,1935,0,1,$
+450,Liberia,315,Czechoslovakia,1938,3525,1,$
+450,Liberia,315,Czechoslovakia,1939,1817,1,$
+450,Liberia,315,Czechoslovakia,1940,0,1,$
+450,Liberia,315,Czechoslovakia,1941,0,1,$
+450,Liberia,315,Czechoslovakia,1942,366,1,$
+450,Liberia,315,Czechoslovakia,1943,0,1,$
+450,Liberia,315,Czechoslovakia,1944,0,1,$
+450,Liberia,325,Italy,1920,0,1,
+450,Liberia,325,Italy,1921,0,1,
+450,Liberia,325,Italy,1922,0,1,
+450,Liberia,325,Italy,1923,0,1,
+450,Liberia,325,Italy,1924,0,1,
+450,Liberia,325,Italy,1925,0,1,
+450,Liberia,325,Italy,1926,0,1,
+450,Liberia,325,Italy,1933,0,1,$
+450,Liberia,325,Italy,1934,0,1,$
+450,Liberia,325,Italy,1935,0,1,$
+450,Liberia,325,Italy,1938,7140,1,$
+450,Liberia,325,Italy,1939,4813,1,$
+450,Liberia,325,Italy,1940,1853,1,$
+450,Liberia,325,Italy,1941,0,1,$
+450,Liberia,325,Italy,1942,0,1,$
+450,Liberia,325,Italy,1943,0,1,$
+450,Liberia,325,Italy,1944,0,1,$
+450,Liberia,360,Romania,1920,0,1,
+450,Liberia,360,Romania,1921,0,1,
+450,Liberia,360,Romania,1922,0,1,
+450,Liberia,360,Romania,1923,0,1,
+450,Liberia,360,Romania,1924,0,1,
+450,Liberia,360,Romania,1925,0,1,
+450,Liberia,360,Romania,1926,0,1,
+450,Liberia,360,Romania,1933,0,1,$
+450,Liberia,360,Romania,1934,0,1,$
+450,Liberia,360,Romania,1935,0,1,$
+450,Liberia,360,Romania,1938,4128,1,$
+450,Liberia,360,Romania,1939,3507,1,$
+450,Liberia,360,Romania,1940,0,1,$
+450,Liberia,360,Romania,1941,0,1,$
+450,Liberia,360,Romania,1942,0,1,$
+450,Liberia,360,Romania,1943,0,1,$
+450,Liberia,360,Romania,1944,0,1,$
+450,Liberia,375,Finland,1920,0,1,
+450,Liberia,375,Finland,1921,0,1,
+450,Liberia,375,Finland,1922,0,1,
+450,Liberia,375,Finland,1923,0,1,
+450,Liberia,375,Finland,1924,0,1,
+450,Liberia,375,Finland,1925,0,1,
+450,Liberia,375,Finland,1926,0,1,
+450,Liberia,375,Finland,1933,0,1,$
+450,Liberia,375,Finland,1934,0,1,$
+450,Liberia,375,Finland,1935,0,1,$
+450,Liberia,375,Finland,1938,2230,1,$
+450,Liberia,375,Finland,1939,0,1,$
+450,Liberia,375,Finland,1940,0,1,$
+450,Liberia,375,Finland,1941,0,1,$
+450,Liberia,375,Finland,1942,0,1,$
+450,Liberia,375,Finland,1943,0,1,$
+450,Liberia,375,Finland,1944,0,1,$
+450,Liberia,380,Sweden,1920,0,1,
+450,Liberia,380,Sweden,1921,0,1,
+450,Liberia,380,Sweden,1922,0,1,
+450,Liberia,380,Sweden,1923,0,1,
+450,Liberia,380,Sweden,1924,0,1,
+450,Liberia,380,Sweden,1925,0,1,
+450,Liberia,380,Sweden,1926,0,1,
+450,Liberia,380,Sweden,1933,0,1,$
+450,Liberia,380,Sweden,1934,0,1,$
+450,Liberia,380,Sweden,1935,0,1,$
+450,Liberia,380,Sweden,1938,11907,1,$
+450,Liberia,380,Sweden,1939,4167,1,$
+450,Liberia,380,Sweden,1940,0,1,$
+450,Liberia,380,Sweden,1941,0,1,$
+450,Liberia,380,Sweden,1942,303,1,$
+450,Liberia,380,Sweden,1943,0,1,$
+450,Liberia,380,Sweden,1944,0,1,$
+450,Liberia,385,Norway,1920,0,1,
+450,Liberia,385,Norway,1921,0,1,
+450,Liberia,385,Norway,1922,0,1,
+450,Liberia,385,Norway,1923,0,1,
+450,Liberia,385,Norway,1924,0,1,
+450,Liberia,385,Norway,1925,0,1,
+450,Liberia,385,Norway,1926,0,1,
+450,Liberia,385,Norway,1933,0,1,$
+450,Liberia,385,Norway,1934,0,1,$
+450,Liberia,385,Norway,1935,0,1,$
+450,Liberia,385,Norway,1938,28577,1,$
+450,Liberia,385,Norway,1939,32827,1,$
+450,Liberia,385,Norway,1940,2286,1,$
+450,Liberia,385,Norway,1941,69,1,$
+450,Liberia,385,Norway,1942,0,1,$
+450,Liberia,385,Norway,1943,0,1,$
+450,Liberia,385,Norway,1944,0,1,$
+450,Liberia,390,Denmark,1920,0,1,
+450,Liberia,390,Denmark,1921,0,1,
+450,Liberia,390,Denmark,1922,0,1,
+450,Liberia,390,Denmark,1923,0,1,
+450,Liberia,390,Denmark,1924,0,1,
+450,Liberia,390,Denmark,1925,0,1,
+450,Liberia,390,Denmark,1926,0,1,
+450,Liberia,390,Denmark,1933,0,1,$
+450,Liberia,390,Denmark,1934,0,1,$
+450,Liberia,390,Denmark,1935,0,1,$
+450,Liberia,390,Denmark,1938,9287,1,$
+450,Liberia,390,Denmark,1939,5425,1,$
+450,Liberia,390,Denmark,1940,0,1,$
+450,Liberia,390,Denmark,1941,0,1,$
+450,Liberia,390,Denmark,1942,0,1,$
+450,Liberia,390,Denmark,1943,0,1,$
+450,Liberia,390,Denmark,1944,0,1,$
+450,Liberia,465,British West Africa,1920,0,1,
+450,Liberia,465,British West Africa,1921,0,1,
+450,Liberia,465,British West Africa,1922,0,1,
+450,Liberia,465,British West Africa,1923,0,1,
+450,Liberia,465,British West Africa,1924,0,1,
+450,Liberia,465,British West Africa,1925,0,1,
+450,Liberia,465,British West Africa,1926,0,1,
+450,Liberia,465,British West Africa,1933,0,1,$
+450,Liberia,465,British West Africa,1934,0,1,$
+450,Liberia,465,British West Africa,1935,0,1,$
+450,Liberia,465,British West Africa,1938,24736,1,$
+450,Liberia,465,British West Africa,1939,23778,1,$
+450,Liberia,465,British West Africa,1940,46583,1,$
+450,Liberia,465,British West Africa,1941,27863,1,$
+450,Liberia,465,British West Africa,1942,26556,1,$
+450,Liberia,465,British West Africa,1943,30092,1,$
+450,Liberia,465,British West Africa,1944,87147,1,$
+450,Liberia,740,Japan,1920,0,1,
+450,Liberia,740,Japan,1921,0,1,
+450,Liberia,740,Japan,1922,0,1,
+450,Liberia,740,Japan,1923,0,1,
+450,Liberia,740,Japan,1924,0,1,
+450,Liberia,740,Japan,1925,0,1,
+450,Liberia,740,Japan,1926,0,1,
+450,Liberia,740,Japan,1933,0,1,$
+450,Liberia,740,Japan,1934,0,1,$
+450,Liberia,740,Japan,1935,0,1,$
+450,Liberia,740,Japan,1938,183807,1,$
+450,Liberia,740,Japan,1939,127942,1,$
+450,Liberia,740,Japan,1940,164723,1,$
+450,Liberia,740,Japan,1941,61201,1,$
+450,Liberia,740,Japan,1942,9108,1,$
+450,Liberia,740,Japan,1943,0,1,$
+450,Liberia,740,Japan,1944,5549,1,$
+450,Liberia,,,1920,2071424.89,1,
+450,Liberia,,,1921,1380055.46,1,
+450,Liberia,,,1922,1624094.68,1,
+450,Liberia,,,1923,1451530.98,1,
+450,Liberia,,,1924,1517206.65,1,
+450,Liberia,,,1925,2361833.21,1,
+450,Liberia,,,1926,2395007.03,1,
+450,Liberia,,,1933,811202.2799999999,1,$
+450,Liberia,,,1934,1013476,1,$
+450,Liberia,,,1935,1561005,1,$
+450,Liberia,,,1938,2260661,1,$
+450,Liberia,,,1939,2011466,1,$
+450,Liberia,,,1940,2239304,1,$
+450,Liberia,,,1941,3298604,1,$
+450,Liberia,,,1942,3952749,1,$
+450,Liberia,,,1943,4000567,1,$
+450,Liberia,,,1944,3058021,1,$

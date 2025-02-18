@@ -1,0 +1,3369 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+94,2,1907,7123776,,,Costa Rica,United States
+94,2,1908,5407853.98,,,Costa Rica,United States
+94,2,1909,6755535.64,,,Costa Rica,United States
+94,2,1911,8836495.699999999,,,Costa Rica,United States
+94,2,1912,9363349.85,,,Costa Rica,United States
+94,2,1915,6520423.67,1,,Costa Rica,United States
+94,2,1916,10058939.55,1,Colones,Costa Rica,United States
+94,2,1917,8360436.25,1,Colones,Costa Rica,United States
+94,2,1919,12669594,1,Colones,Costa Rica,United States
+94,2,1920,25070446,1,Colones,Costa Rica,United States
+94,2,1921,11037507,1,Colones At 215%,Costa Rica,United States
+94,2,1922,10968934,1,Colones At 215%,Costa Rica,United States
+94,2,1923,12411576,1,Colones At 215%,Costa Rica,United States
+94,2,1924,27226832,1,Colones At 400%,Costa Rica,United States
+94,2,1925,29934056,1,Colones At 400%,Costa Rica,United States
+94,2,1926,30822560,1,Colones At 400%,Costa Rica,United States
+94,2,1927,32797676,1,Colones At 400%,Costa Rica,United States
+94,2,1928,35915696,1,Colones At 400%,Costa Rica,United States
+94,2,1929,38727084,1,Colones At 400%,Costa Rica,United States
+94,2,1930,21601940,1,Colones At 400%,Costa Rica,United States
+94,2,1931,18005054,1,Colones At 400%,Costa Rica,United States
+94,2,1932,12644257,1,Colones At 440%,Costa Rica,United States
+94,2,1933,13773560,1,Colones At 455%,Costa Rica,United States
+94,2,1934,17190373,1,Colones At 425%,Costa Rica,United States
+94,2,1935,16272412,1,Colones At 594%,Costa Rica,United States
+94,2,1936,3662998,1,Dolares,Costa Rica,United States
+94,2,1937,5048075,1,Dolares,Costa Rica,United States
+94,2,1938,6194856,1,Dolares,Costa Rica,United States
+94,2,1939,9925240,1,Dolares,Costa Rica,United States
+94,2,1940,12634553,1,Dolares,Costa Rica,United States
+94,2,1941,14414624,1,Dolares,Costa Rica,United States
+94,2,1942,8971342,1,Dolares,Costa Rica,United States
+94,2,1943,12405333,1,Dolares,Costa Rica,United States
+94,2,1944,14437056,1,Dolares,Costa Rica,United States
+94,2,1945,18739929,1,Dolares,Costa Rica,United States
+94,2,1946,25312606,1,Dolares,Costa Rica,United States
+94,2,1947,38692133,1,Dolares,Costa Rica,United States
+94,2,1948,32908736,1,Dolares,Costa Rica,United States
+94,2,1949,31668247,1,Dolares,Costa Rica,United States
+94,4,1915,0,1,,Costa Rica,Hawaii
+94,4,1916,0,1,Colones,Costa Rica,Hawaii
+94,4,1917,0,1,Colones,Costa Rica,Hawaii
+94,4,1919,0,1,Colones,Costa Rica,Hawaii
+94,4,1920,0,1,Colones,Costa Rica,Hawaii
+94,4,1921,0,1,Colones At 215%,Costa Rica,Hawaii
+94,4,1922,0,1,Colones At 215%,Costa Rica,Hawaii
+94,4,1923,0,1,Colones At 215%,Costa Rica,Hawaii
+94,4,1924,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1925,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1926,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1927,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1928,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1929,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1930,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1931,0,1,Colones At 400%,Costa Rica,Hawaii
+94,4,1932,0,1,Colones At 440%,Costa Rica,Hawaii
+94,4,1933,0,1,Colones At 455%,Costa Rica,Hawaii
+94,4,1934,0,1,Colones At 425%,Costa Rica,Hawaii
+94,4,1935,0,1,Colones At 594%,Costa Rica,Hawaii
+94,4,1936,0,1,Dolares,Costa Rica,Hawaii
+94,4,1937,0,1,Dolares,Costa Rica,Hawaii
+94,4,1938,0,1,Dolares,Costa Rica,Hawaii
+94,4,1939,0,1,Dolares,Costa Rica,Hawaii
+94,4,1940,0,1,Dolares,Costa Rica,Hawaii
+94,4,1941,161,1,Dolares,Costa Rica,Hawaii
+94,4,1942,0,1,Dolares,Costa Rica,Hawaii
+94,4,1943,0,1,Dolares,Costa Rica,Hawaii
+94,4,1944,0,1,Dolares,Costa Rica,Hawaii
+94,4,1945,0,1,Dolares,Costa Rica,Hawaii
+94,4,1946,0,1,Dolares,Costa Rica,Hawaii
+94,4,1947,0,1,Dolares,Costa Rica,Hawaii
+94,4,1948,0,1,Dolares,Costa Rica,Hawaii
+94,4,1949,0,1,Dolares,Costa Rica,Hawaii
+94,6,1915,423.55,1,,Costa Rica,Puerto Rico
+94,6,1916,0,1,Colones,Costa Rica,Puerto Rico
+94,6,1917,0,1,Colones,Costa Rica,Puerto Rico
+94,6,1919,0,1,Colones,Costa Rica,Puerto Rico
+94,6,1920,0,1,Colones,Costa Rica,Puerto Rico
+94,6,1921,0,1,Colones At 215%,Costa Rica,Puerto Rico
+94,6,1922,0,1,Colones At 215%,Costa Rica,Puerto Rico
+94,6,1923,0,1,Colones At 215%,Costa Rica,Puerto Rico
+94,6,1924,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1925,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1926,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1927,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1928,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1929,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1930,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1931,0,1,Colones At 400%,Costa Rica,Puerto Rico
+94,6,1932,0,1,Colones At 440%,Costa Rica,Puerto Rico
+94,6,1933,0,1,Colones At 455%,Costa Rica,Puerto Rico
+94,6,1934,0,1,Colones At 425%,Costa Rica,Puerto Rico
+94,6,1935,0,1,Colones At 594%,Costa Rica,Puerto Rico
+94,6,1936,0,1,Dolares,Costa Rica,Puerto Rico
+94,6,1937,0,1,Dolares,Costa Rica,Puerto Rico
+94,6,1938,0,1,Dolares,Costa Rica,Puerto Rico
+94,6,1939,0,1,Dolares,Costa Rica,Puerto Rico
+94,6,1940,0,1,Dolares,Costa Rica,Puerto Rico
+94,6,1941,125,1,Dolares,Costa Rica,Puerto Rico
+94,6,1942,29,1,Dolares,Costa Rica,Puerto Rico
+94,6,1943,105,1,Dolares,Costa Rica,Puerto Rico
+94,6,1944,9,1,Dolares,Costa Rica,Puerto Rico
+94,6,1945,267,1,Dolares,Costa Rica,Puerto Rico
+94,6,1946,457,1,Dolares,Costa Rica,Puerto Rico
+94,6,1947,615,1,Dolares,Costa Rica,Puerto Rico
+94,6,1948,1278,1,Dolares,Costa Rica,Puerto Rico
+94,6,1949,110,1,Dolares,Costa Rica,Puerto Rico
+94,20,1915,0,1,,Costa Rica,Canada
+94,20,1916,0,1,Colones,Costa Rica,Canada
+94,20,1917,0,1,Colones,Costa Rica,Canada
+94,20,1919,0,1,Colones,Costa Rica,Canada
+94,20,1920,0,1,Colones,Costa Rica,Canada
+94,20,1921,0,1,Colones At 215%,Costa Rica,Canada
+94,20,1922,0,1,Colones At 215%,Costa Rica,Canada
+94,20,1923,0,1,Colones At 215%,Costa Rica,Canada
+94,20,1924,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1925,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1926,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1927,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1928,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1929,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1930,0,1,Colones At 400%,Costa Rica,Canada
+94,20,1931,196742,1,Colones At 400%,Costa Rica,Canada
+94,20,1932,102039,1,Colones At 440%,Costa Rica,Canada
+94,20,1933,87400,1,Colones At 455%,Costa Rica,Canada
+94,20,1934,143365,1,Colones At 425%,Costa Rica,Canada
+94,20,1935,145709,1,Colones At 594%,Costa Rica,Canada
+94,20,1936,44884,1,Dolares,Costa Rica,Canada
+94,20,1937,45438,1,Dolares,Costa Rica,Canada
+94,20,1938,53954,1,Dolares,Costa Rica,Canada
+94,20,1939,104013,1,Dolares,Costa Rica,Canada
+94,20,1940,156879,1,Dolares,Costa Rica,Canada
+94,20,1941,239321,1,Dolares,Costa Rica,Canada
+94,20,1942,127010,1,Dolares,Costa Rica,Canada
+94,20,1943,188129,1,Dolares,Costa Rica,Canada
+94,20,1944,331686,1,Dolares,Costa Rica,Canada
+94,20,1945,284429,1,Dolares,Costa Rica,Canada
+94,20,1946,517711,1,Dolares,Costa Rica,Canada
+94,20,1947,1404806,1,Dolares,Costa Rica,Canada
+94,20,1948,808645,1,Dolares,Costa Rica,Canada
+94,20,1949,2045076,1,Dolares,Costa Rica,Canada
+94,40,1908,85080.4235,,,Costa Rica,Cuba
+94,40,1909,27840.35,,,Costa Rica,Cuba
+94,40,1911,63394.9,,,Costa Rica,Cuba
+94,40,1912,159729.95,,,Costa Rica,Cuba
+94,40,1915,17937.45,1,,Costa Rica,Cuba
+94,40,1916,27014.75,1,Colones,Costa Rica,Cuba
+94,40,1917,51627.95,1,Colones,Costa Rica,Cuba
+94,40,1919,22752,1,Colones,Costa Rica,Cuba
+94,40,1920,57156,1,Colones,Costa Rica,Cuba
+94,40,1921,41645,1,Colones At 215%,Costa Rica,Cuba
+94,40,1922,36391,1,Colones At 215%,Costa Rica,Cuba
+94,40,1923,15185,1,Colones At 215%,Costa Rica,Cuba
+94,40,1924,156096,1,Colones At 400%,Costa Rica,Cuba
+94,40,1925,156112,1,Colones At 400%,Costa Rica,Cuba
+94,40,1926,63712,1,Colones At 400%,Costa Rica,Cuba
+94,40,1927,51112,1,Colones At 400%,Costa Rica,Cuba
+94,40,1928,626320,1,Colones At 400%,Costa Rica,Cuba
+94,40,1929,621024,1,Colones At 400%,Costa Rica,Cuba
+94,40,1930,98104,1,Colones At 400%,Costa Rica,Cuba
+94,40,1931,78383,1,Colones At 400%,Costa Rica,Cuba
+94,40,1932,82627,1,Colones At 440%,Costa Rica,Cuba
+94,40,1933,78439,1,Colones At 455%,Costa Rica,Cuba
+94,40,1934,83617,1,Colones At 425%,Costa Rica,Cuba
+94,40,1935,112742,1,Colones At 594%,Costa Rica,Cuba
+94,40,1936,12025,1,Dolares,Costa Rica,Cuba
+94,40,1937,13631,1,Dolares,Costa Rica,Cuba
+94,40,1938,11444,1,Dolares,Costa Rica,Cuba
+94,40,1939,85811,1,Dolares,Costa Rica,Cuba
+94,40,1940,279195,1,Dolares,Costa Rica,Cuba
+94,40,1941,98920,1,Dolares,Costa Rica,Cuba
+94,40,1942,8761,1,Dolares,Costa Rica,Cuba
+94,40,1943,64531,1,Dolares,Costa Rica,Cuba
+94,40,1944,47480,1,Dolares,Costa Rica,Cuba
+94,40,1945,637977,1,Dolares,Costa Rica,Cuba
+94,40,1946,1120359,1,Dolares,Costa Rica,Cuba
+94,40,1947,148979,1,Dolares,Costa Rica,Cuba
+94,40,1948,52916,1,Dolares,Costa Rica,Cuba
+94,40,1949,129816,1,Dolares,Costa Rica,Cuba
+94,41,1915,0,1,,Costa Rica,Haiti
+94,41,1916,0,1,Colones,Costa Rica,Haiti
+94,41,1917,0,1,Colones,Costa Rica,Haiti
+94,41,1919,0,1,Colones,Costa Rica,Haiti
+94,41,1920,0,1,Colones,Costa Rica,Haiti
+94,41,1921,0,1,Colones At 215%,Costa Rica,Haiti
+94,41,1922,0,1,Colones At 215%,Costa Rica,Haiti
+94,41,1923,0,1,Colones At 215%,Costa Rica,Haiti
+94,41,1924,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1925,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1926,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1927,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1928,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1929,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1930,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1931,0,1,Colones At 400%,Costa Rica,Haiti
+94,41,1932,0,1,Colones At 440%,Costa Rica,Haiti
+94,41,1933,0,1,Colones At 455%,Costa Rica,Haiti
+94,41,1934,0,1,Colones At 425%,Costa Rica,Haiti
+94,41,1935,67,1,Colones At 594%,Costa Rica,Haiti
+94,41,1936,0,1,Dolares,Costa Rica,Haiti
+94,41,1937,0,1,Dolares,Costa Rica,Haiti
+94,41,1938,2253,1,Dolares,Costa Rica,Haiti
+94,41,1939,0,1,Dolares,Costa Rica,Haiti
+94,41,1940,0,1,Dolares,Costa Rica,Haiti
+94,41,1941,0,1,Dolares,Costa Rica,Haiti
+94,41,1942,34,1,Dolares,Costa Rica,Haiti
+94,41,1943,1,1,Dolares,Costa Rica,Haiti
+94,41,1944,319,1,Dolares,Costa Rica,Haiti
+94,41,1945,25,1,Dolares,Costa Rica,Haiti
+94,41,1946,2,1,Dolares,Costa Rica,Haiti
+94,41,1947,0,1,Dolares,Costa Rica,Haiti
+94,41,1948,64,1,Dolares,Costa Rica,Haiti
+94,41,1949,8,1,Dolares,Costa Rica,Haiti
+94,42,1915,0,1,,Costa Rica,Dominican Republic
+94,42,1916,0,1,Colones,Costa Rica,Dominican Republic
+94,42,1917,0,1,Colones,Costa Rica,Dominican Republic
+94,42,1919,0,1,Colones,Costa Rica,Dominican Republic
+94,42,1920,0,1,Colones,Costa Rica,Dominican Republic
+94,42,1921,0,1,Colones At 215%,Costa Rica,Dominican Republic
+94,42,1922,0,1,Colones At 215%,Costa Rica,Dominican Republic
+94,42,1923,0,1,Colones At 215%,Costa Rica,Dominican Republic
+94,42,1924,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1925,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1926,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1927,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1928,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1929,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1930,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1931,0,1,Colones At 400%,Costa Rica,Dominican Republic
+94,42,1932,0,1,Colones At 440%,Costa Rica,Dominican Republic
+94,42,1933,0,1,Colones At 455%,Costa Rica,Dominican Republic
+94,42,1934,0,1,Colones At 425%,Costa Rica,Dominican Republic
+94,42,1935,0,1,Colones At 594%,Costa Rica,Dominican Republic
+94,42,1936,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1937,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1938,5,1,Dolares,Costa Rica,Dominican Republic
+94,42,1939,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1940,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1941,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1942,20,1,Dolares,Costa Rica,Dominican Republic
+94,42,1943,0,1,Dolares,Costa Rica,Dominican Republic
+94,42,1944,16,1,Dolares,Costa Rica,Dominican Republic
+94,42,1945,286,1,Dolares,Costa Rica,Dominican Republic
+94,42,1946,143,1,Dolares,Costa Rica,Dominican Republic
+94,42,1947,18,1,Dolares,Costa Rica,Dominican Republic
+94,42,1948,9600,1,Dolares,Costa Rica,Dominican Republic
+94,42,1949,934,1,Dolares,Costa Rica,Dominican Republic
+94,51,1915,0,1,,Costa Rica,Jamaica
+94,51,1916,0,1,Colones,Costa Rica,Jamaica
+94,51,1917,0,1,Colones,Costa Rica,Jamaica
+94,51,1919,0,1,Colones,Costa Rica,Jamaica
+94,51,1920,0,1,Colones,Costa Rica,Jamaica
+94,51,1921,0,1,Colones At 215%,Costa Rica,Jamaica
+94,51,1922,0,1,Colones At 215%,Costa Rica,Jamaica
+94,51,1923,0,1,Colones At 215%,Costa Rica,Jamaica
+94,51,1924,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1925,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1926,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1927,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1928,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1929,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1930,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1931,0,1,Colones At 400%,Costa Rica,Jamaica
+94,51,1932,15486,1,Colones At 440%,Costa Rica,Jamaica
+94,51,1933,17040,1,Colones At 455%,Costa Rica,Jamaica
+94,51,1934,21752,1,Colones At 425%,Costa Rica,Jamaica
+94,51,1935,25583,1,Colones At 594%,Costa Rica,Jamaica
+94,51,1936,5357,1,Dolares,Costa Rica,Jamaica
+94,51,1937,6669,1,Dolares,Costa Rica,Jamaica
+94,51,1938,6157,1,Dolares,Costa Rica,Jamaica
+94,51,1939,18923,1,Dolares,Costa Rica,Jamaica
+94,51,1940,5711,1,Dolares,Costa Rica,Jamaica
+94,51,1941,5466,1,Dolares,Costa Rica,Jamaica
+94,51,1942,2461,1,Dolares,Costa Rica,Jamaica
+94,51,1943,3923,1,Dolares,Costa Rica,Jamaica
+94,51,1944,5098,1,Dolares,Costa Rica,Jamaica
+94,51,1945,5184,1,Dolares,Costa Rica,Jamaica
+94,51,1946,3010,1,Dolares,Costa Rica,Jamaica
+94,51,1947,7455,1,Dolares,Costa Rica,Jamaica
+94,51,1948,7353,1,Dolares,Costa Rica,Jamaica
+94,51,1949,7577,1,Dolares,Costa Rica,Jamaica
+94,52,1915,0,1,,Costa Rica,Trinidad And Tobago
+94,52,1916,0,1,Colones,Costa Rica,Trinidad And Tobago
+94,52,1917,0,1,Colones,Costa Rica,Trinidad And Tobago
+94,52,1919,0,1,Colones,Costa Rica,Trinidad And Tobago
+94,52,1920,0,1,Colones,Costa Rica,Trinidad And Tobago
+94,52,1921,0,1,Colones At 215%,Costa Rica,Trinidad And Tobago
+94,52,1922,0,1,Colones At 215%,Costa Rica,Trinidad And Tobago
+94,52,1923,0,1,Colones At 215%,Costa Rica,Trinidad And Tobago
+94,52,1924,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1925,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1926,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1927,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1928,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1929,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1930,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1931,0,1,Colones At 400%,Costa Rica,Trinidad And Tobago
+94,52,1932,0,1,Colones At 440%,Costa Rica,Trinidad And Tobago
+94,52,1933,0,1,Colones At 455%,Costa Rica,Trinidad And Tobago
+94,52,1934,0,1,Colones At 425%,Costa Rica,Trinidad And Tobago
+94,52,1935,0,1,Colones At 594%,Costa Rica,Trinidad And Tobago
+94,52,1936,0,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1937,0,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1938,0,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1939,0,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1940,0,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1941,3165,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1942,40,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1943,280,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1944,146,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1945,448,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1946,1,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1947,257,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1948,248579,1,Dolares,Costa Rica,Trinidad And Tobago
+94,52,1949,94,1,Dolares,Costa Rica,Trinidad And Tobago
+94,66,1915,0,1,,Costa Rica,Martinique
+94,66,1916,0,1,Colones,Costa Rica,Martinique
+94,66,1917,0,1,Colones,Costa Rica,Martinique
+94,66,1919,0,1,Colones,Costa Rica,Martinique
+94,66,1920,0,1,Colones,Costa Rica,Martinique
+94,66,1921,0,1,Colones At 215%,Costa Rica,Martinique
+94,66,1922,0,1,Colones At 215%,Costa Rica,Martinique
+94,66,1923,0,1,Colones At 215%,Costa Rica,Martinique
+94,66,1924,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1925,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1926,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1927,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1928,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1929,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1930,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1931,0,1,Colones At 400%,Costa Rica,Martinique
+94,66,1932,0,1,Colones At 440%,Costa Rica,Martinique
+94,66,1933,0,1,Colones At 455%,Costa Rica,Martinique
+94,66,1934,0,1,Colones At 425%,Costa Rica,Martinique
+94,66,1935,0,1,Colones At 594%,Costa Rica,Martinique
+94,66,1936,0,1,Dolares,Costa Rica,Martinique
+94,66,1937,0,1,Dolares,Costa Rica,Martinique
+94,66,1938,0,1,Dolares,Costa Rica,Martinique
+94,66,1939,0,1,Dolares,Costa Rica,Martinique
+94,66,1940,0,1,Dolares,Costa Rica,Martinique
+94,66,1941,0,1,Dolares,Costa Rica,Martinique
+94,66,1942,0,1,Dolares,Costa Rica,Martinique
+94,66,1943,0,1,Dolares,Costa Rica,Martinique
+94,66,1944,0,1,Dolares,Costa Rica,Martinique
+94,66,1945,0,1,Dolares,Costa Rica,Martinique
+94,66,1946,0,1,Dolares,Costa Rica,Martinique
+94,66,1947,0,1,Dolares,Costa Rica,Martinique
+94,66,1948,0,1,Dolares,Costa Rica,Martinique
+94,66,1949,0,1,Dolares,Costa Rica,Martinique
+94,68,1915,0,1,,Costa Rica,Netherlands Antilles
+94,68,1916,0,1,Colones,Costa Rica,Netherlands Antilles
+94,68,1917,0,1,Colones,Costa Rica,Netherlands Antilles
+94,68,1919,0,1,Colones,Costa Rica,Netherlands Antilles
+94,68,1920,0,1,Colones,Costa Rica,Netherlands Antilles
+94,68,1921,0,1,Colones At 215%,Costa Rica,Netherlands Antilles
+94,68,1922,0,1,Colones At 215%,Costa Rica,Netherlands Antilles
+94,68,1923,0,1,Colones At 215%,Costa Rica,Netherlands Antilles
+94,68,1924,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1925,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1926,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1927,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1928,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1929,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1930,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1931,0,1,Colones At 400%,Costa Rica,Netherlands Antilles
+94,68,1932,0,1,Colones At 440%,Costa Rica,Netherlands Antilles
+94,68,1933,0,1,Colones At 455%,Costa Rica,Netherlands Antilles
+94,68,1934,0,1,Colones At 425%,Costa Rica,Netherlands Antilles
+94,68,1935,0,1,Colones At 594%,Costa Rica,Netherlands Antilles
+94,68,1936,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1937,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1938,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1939,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1940,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1941,131007,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1942,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1943,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1944,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1945,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1946,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1947,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1948,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,68,1949,0,1,Dolares,Costa Rica,Netherlands Antilles
+94,70,1908,215,,,Costa Rica,Mexico
+94,70,1909,35399.75,,,Costa Rica,Mexico
+94,70,1911,23908.29,,,Costa Rica,Mexico
+94,70,1912,28067.58,,,Costa Rica,Mexico
+94,70,1915,1984.45,1,,Costa Rica,Mexico
+94,70,1916,393.45,1,Colones,Costa Rica,Mexico
+94,70,1917,125506.25,1,Colones,Costa Rica,Mexico
+94,70,1919,75745,1,Colones,Costa Rica,Mexico
+94,70,1920,124074,1,Colones,Costa Rica,Mexico
+94,70,1921,80124,1,Colones At 215%,Costa Rica,Mexico
+94,70,1922,74353,1,Colones At 215%,Costa Rica,Mexico
+94,70,1923,101939,1,Colones At 215%,Costa Rica,Mexico
+94,70,1924,149372,1,Colones At 400%,Costa Rica,Mexico
+94,70,1925,540096,1,Colones At 400%,Costa Rica,Mexico
+94,70,1926,230948,1,Colones At 400%,Costa Rica,Mexico
+94,70,1927,345608,1,Colones At 400%,Costa Rica,Mexico
+94,70,1928,455764,1,Colones At 400%,Costa Rica,Mexico
+94,70,1929,552852,1,Colones At 400%,Costa Rica,Mexico
+94,70,1930,52292,1,Colones At 400%,Costa Rica,Mexico
+94,70,1931,71466,1,Colones At 400%,Costa Rica,Mexico
+94,70,1932,125031,1,Colones At 440%,Costa Rica,Mexico
+94,70,1933,84056,1,Colones At 455%,Costa Rica,Mexico
+94,70,1934,226407,1,Colones At 425%,Costa Rica,Mexico
+94,70,1935,244443,1,Colones At 594%,Costa Rica,Mexico
+94,70,1936,53762,1,Dolares,Costa Rica,Mexico
+94,70,1937,40732,1,Dolares,Costa Rica,Mexico
+94,70,1938,39773,1,Dolares,Costa Rica,Mexico
+94,70,1939,22557,1,Dolares,Costa Rica,Mexico
+94,70,1940,44180,1,Dolares,Costa Rica,Mexico
+94,70,1941,187081,1,Dolares,Costa Rica,Mexico
+94,70,1942,861649,1,Dolares,Costa Rica,Mexico
+94,70,1943,2623011,1,Dolares,Costa Rica,Mexico
+94,70,1944,2060793,1,Dolares,Costa Rica,Mexico
+94,70,1945,1313858,1,Dolares,Costa Rica,Mexico
+94,70,1946,1174309,1,Dolares,Costa Rica,Mexico
+94,70,1947,806861,1,Dolares,Costa Rica,Mexico
+94,70,1948,671492,1,Dolares,Costa Rica,Mexico
+94,70,1949,426500,1,Dolares,Costa Rica,Mexico
+94,80,1915,0,1,,Costa Rica,Belize
+94,80,1916,0,1,Colones,Costa Rica,Belize
+94,80,1917,0,1,Colones,Costa Rica,Belize
+94,80,1919,0,1,Colones,Costa Rica,Belize
+94,80,1920,0,1,Colones,Costa Rica,Belize
+94,80,1921,0,1,Colones At 215%,Costa Rica,Belize
+94,80,1922,0,1,Colones At 215%,Costa Rica,Belize
+94,80,1923,0,1,Colones At 215%,Costa Rica,Belize
+94,80,1924,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1925,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1926,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1927,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1928,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1929,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1930,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1931,0,1,Colones At 400%,Costa Rica,Belize
+94,80,1932,0,1,Colones At 440%,Costa Rica,Belize
+94,80,1933,0,1,Colones At 455%,Costa Rica,Belize
+94,80,1934,0,1,Colones At 425%,Costa Rica,Belize
+94,80,1935,0,1,Colones At 594%,Costa Rica,Belize
+94,80,1936,0,1,Dolares,Costa Rica,Belize
+94,80,1937,0,1,Dolares,Costa Rica,Belize
+94,80,1938,0,1,Dolares,Costa Rica,Belize
+94,80,1939,0,1,Dolares,Costa Rica,Belize
+94,80,1940,0,1,Dolares,Costa Rica,Belize
+94,80,1941,0,1,Dolares,Costa Rica,Belize
+94,80,1942,0,1,Dolares,Costa Rica,Belize
+94,80,1943,0,1,Dolares,Costa Rica,Belize
+94,80,1944,0,1,Dolares,Costa Rica,Belize
+94,80,1945,0,1,Dolares,Costa Rica,Belize
+94,80,1946,232,1,Dolares,Costa Rica,Belize
+94,80,1947,1620,1,Dolares,Costa Rica,Belize
+94,80,1948,52,1,Dolares,Costa Rica,Belize
+94,80,1949,0,1,Dolares,Costa Rica,Belize
+94,90,1908,2338.79,,,Costa Rica,Guatemala
+94,90,1909,6488.7,,,Costa Rica,Guatemala
+94,90,1911,23957,,,Costa Rica,Guatemala
+94,90,1912,21151,,,Costa Rica,Guatemala
+94,90,1915,8239.76,1,,Costa Rica,Guatemala
+94,90,1916,29885.43,1,Colones,Costa Rica,Guatemala
+94,90,1917,81896.55,1,Colones,Costa Rica,Guatemala
+94,90,1919,2332,1,Colones,Costa Rica,Guatemala
+94,90,1920,17640,1,Colones,Costa Rica,Guatemala
+94,90,1921,23039,1,Colones At 215%,Costa Rica,Guatemala
+94,90,1922,8776,1,Colones At 215%,Costa Rica,Guatemala
+94,90,1923,16001,1,Colones At 215%,Costa Rica,Guatemala
+94,90,1924,17716,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1925,22600,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1926,27308,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1927,57128,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1928,71984,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1929,350892,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1930,28792,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1931,18126,1,Colones At 400%,Costa Rica,Guatemala
+94,90,1932,26009,1,Colones At 440%,Costa Rica,Guatemala
+94,90,1933,31316,1,Colones At 455%,Costa Rica,Guatemala
+94,90,1934,17952,1,Colones At 425%,Costa Rica,Guatemala
+94,90,1935,51760,1,Colones At 594%,Costa Rica,Guatemala
+94,90,1936,3362,1,Dolares,Costa Rica,Guatemala
+94,90,1937,783,1,Dolares,Costa Rica,Guatemala
+94,90,1938,9502,1,Dolares,Costa Rica,Guatemala
+94,90,1939,9781,1,Dolares,Costa Rica,Guatemala
+94,90,1940,19166,1,Dolares,Costa Rica,Guatemala
+94,90,1941,22162,1,Dolares,Costa Rica,Guatemala
+94,90,1942,28621,1,Dolares,Costa Rica,Guatemala
+94,90,1943,76094,1,Dolares,Costa Rica,Guatemala
+94,90,1944,84806,1,Dolares,Costa Rica,Guatemala
+94,90,1945,109736,1,Dolares,Costa Rica,Guatemala
+94,90,1946,59732,1,Dolares,Costa Rica,Guatemala
+94,90,1947,69739,1,Dolares,Costa Rica,Guatemala
+94,90,1948,33929,1,Dolares,Costa Rica,Guatemala
+94,90,1949,38246,1,Dolares,Costa Rica,Guatemala
+94,91,1911,1967,,,Costa Rica,Honduras
+94,91,1912,1498,,,Costa Rica,Honduras
+94,91,1915,1210.4,1,,Costa Rica,Honduras
+94,91,1916,4187.46,1,Colones,Costa Rica,Honduras
+94,91,1917,1098.65,1,Colones,Costa Rica,Honduras
+94,91,1919,1772,1,Colones,Costa Rica,Honduras
+94,91,1920,9456,1,Colones,Costa Rica,Honduras
+94,91,1921,5665,1,Colones At 215%,Costa Rica,Honduras
+94,91,1922,634,1,Colones At 215%,Costa Rica,Honduras
+94,91,1923,3651,1,Colones At 215%,Costa Rica,Honduras
+94,91,1924,3996,1,Colones At 400%,Costa Rica,Honduras
+94,91,1925,21524,1,Colones At 400%,Costa Rica,Honduras
+94,91,1926,21452,1,Colones At 400%,Costa Rica,Honduras
+94,91,1927,146144,1,Colones At 400%,Costa Rica,Honduras
+94,91,1928,20476,1,Colones At 400%,Costa Rica,Honduras
+94,91,1929,4308,1,Colones At 400%,Costa Rica,Honduras
+94,91,1930,3744,1,Colones At 400%,Costa Rica,Honduras
+94,91,1931,3886,1,Colones At 400%,Costa Rica,Honduras
+94,91,1932,1819,1,Colones At 440%,Costa Rica,Honduras
+94,91,1933,3903,1,Colones At 455%,Costa Rica,Honduras
+94,91,1934,7731,1,Colones At 425%,Costa Rica,Honduras
+94,91,1935,23417,1,Colones At 594%,Costa Rica,Honduras
+94,91,1936,35578,1,Dolares,Costa Rica,Honduras
+94,91,1937,29283,1,Dolares,Costa Rica,Honduras
+94,91,1938,198602,1,Dolares,Costa Rica,Honduras
+94,91,1939,222699,1,Dolares,Costa Rica,Honduras
+94,91,1940,115933,1,Dolares,Costa Rica,Honduras
+94,91,1941,6734,1,Dolares,Costa Rica,Honduras
+94,91,1942,30936,1,Dolares,Costa Rica,Honduras
+94,91,1943,110567,1,Dolares,Costa Rica,Honduras
+94,91,1944,31526,1,Dolares,Costa Rica,Honduras
+94,91,1945,70860,1,Dolares,Costa Rica,Honduras
+94,91,1946,62328,1,Dolares,Costa Rica,Honduras
+94,91,1947,52918,1,Dolares,Costa Rica,Honduras
+94,91,1948,84901,1,Dolares,Costa Rica,Honduras
+94,91,1949,177356,1,Dolares,Costa Rica,Honduras
+94,92,1908,10262.75,,,Costa Rica,El Salvador
+94,92,1909,41004.8,,,Costa Rica,El Salvador
+94,92,1911,124588.9,,,Costa Rica,El Salvador
+94,92,1912,102529.38,,,Costa Rica,El Salvador
+94,92,1915,51199.75,1,,Costa Rica,El Salvador
+94,92,1916,66055.94,1,Colones,Costa Rica,El Salvador
+94,92,1917,85090.8,1,Colones,Costa Rica,El Salvador
+94,92,1919,48029,1,Colones,Costa Rica,El Salvador
+94,92,1920,191131,1,Colones,Costa Rica,El Salvador
+94,92,1921,461427,1,Colones At 215%,Costa Rica,El Salvador
+94,92,1922,425244,1,Colones At 215%,Costa Rica,El Salvador
+94,92,1923,38255,1,Colones At 215%,Costa Rica,El Salvador
+94,92,1924,98112,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1925,155308,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1926,54572,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1927,106288,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1928,144300,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1929,318412,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1930,0,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1931,100012,1,Colones At 400%,Costa Rica,El Salvador
+94,92,1932,105611,1,Colones At 440%,Costa Rica,El Salvador
+94,92,1933,40759,1,Colones At 455%,Costa Rica,El Salvador
+94,92,1934,84375,1,Colones At 425%,Costa Rica,El Salvador
+94,92,1935,59805,1,Colones At 594%,Costa Rica,El Salvador
+94,92,1936,9404,1,Dolares,Costa Rica,El Salvador
+94,92,1937,10435,1,Dolares,Costa Rica,El Salvador
+94,92,1938,14348,1,Dolares,Costa Rica,El Salvador
+94,92,1939,54188,1,Dolares,Costa Rica,El Salvador
+94,92,1940,33778,1,Dolares,Costa Rica,El Salvador
+94,92,1941,65412,1,Dolares,Costa Rica,El Salvador
+94,92,1942,120336,1,Dolares,Costa Rica,El Salvador
+94,92,1943,533051,1,Dolares,Costa Rica,El Salvador
+94,92,1944,434692,1,Dolares,Costa Rica,El Salvador
+94,92,1945,82621,1,Dolares,Costa Rica,El Salvador
+94,92,1946,168413,1,Dolares,Costa Rica,El Salvador
+94,92,1947,103881,1,Dolares,Costa Rica,El Salvador
+94,92,1948,343534,1,Dolares,Costa Rica,El Salvador
+94,92,1949,539568,1,Dolares,Costa Rica,El Salvador
+94,93,1909,509.55,,,Costa Rica,Nicaragua
+94,93,1911,63268,,,Costa Rica,Nicaragua
+94,93,1912,22840,,,Costa Rica,Nicaragua
+94,93,1915,15953.06,1,,Costa Rica,Nicaragua
+94,93,1916,381205.43,1,Colones,Costa Rica,Nicaragua
+94,93,1917,298169.25,1,Colones,Costa Rica,Nicaragua
+94,93,1919,689898,1,Colones,Costa Rica,Nicaragua
+94,93,1920,2968113,1,Colones,Costa Rica,Nicaragua
+94,93,1921,771588,1,Colones At 215%,Costa Rica,Nicaragua
+94,93,1922,610777,1,Colones At 215%,Costa Rica,Nicaragua
+94,93,1923,397336,1,Colones At 215%,Costa Rica,Nicaragua
+94,93,1924,1179244,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1925,1929404,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1926,729672,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1927,1929960,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1928,2491384,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1929,2839392,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1930,1017912,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1931,978862,1,Colones At 400%,Costa Rica,Nicaragua
+94,93,1932,454597,1,Colones At 440%,Costa Rica,Nicaragua
+94,93,1933,277376,1,Colones At 455%,Costa Rica,Nicaragua
+94,93,1934,640803,1,Colones At 425%,Costa Rica,Nicaragua
+94,93,1935,419169,1,Colones At 594%,Costa Rica,Nicaragua
+94,93,1936,243553,1,Dolares,Costa Rica,Nicaragua
+94,93,1937,265188,1,Dolares,Costa Rica,Nicaragua
+94,93,1938,73704,1,Dolares,Costa Rica,Nicaragua
+94,93,1939,119998,1,Dolares,Costa Rica,Nicaragua
+94,93,1940,120797,1,Dolares,Costa Rica,Nicaragua
+94,93,1941,102803,1,Dolares,Costa Rica,Nicaragua
+94,93,1942,221872,1,Dolares,Costa Rica,Nicaragua
+94,93,1943,751070,1,Dolares,Costa Rica,Nicaragua
+94,93,1944,319844,1,Dolares,Costa Rica,Nicaragua
+94,93,1945,1200659,1,Dolares,Costa Rica,Nicaragua
+94,93,1946,738650,1,Dolares,Costa Rica,Nicaragua
+94,93,1947,1105149,1,Dolares,Costa Rica,Nicaragua
+94,93,1948,156889,1,Dolares,Costa Rica,Nicaragua
+94,93,1949,404014,1,Dolares,Costa Rica,Nicaragua
+94,95,1908,12898.0865,,,Costa Rica,Panama
+94,95,1909,26176.25,,,Costa Rica,Panama
+94,95,1911,85944.10000000001,,,Costa Rica,Panama
+94,95,1912,64289.55,,,Costa Rica,Panama
+94,95,1915,505918.48,1,,Costa Rica,Panama
+94,95,1916,614649.74,1,Colones,Costa Rica,Panama
+94,95,1917,552115.55,1,Colones,Costa Rica,Panama
+94,95,1919,707798,1,Colones,Costa Rica,Panama
+94,95,1920,1307517,1,Colones,Costa Rica,Panama
+94,95,1921,1217748,1,Colones At 215%,Costa Rica,Panama
+94,95,1922,858512,1,Colones At 215%,Costa Rica,Panama
+94,95,1923,1243204,1,Colones At 215%,Costa Rica,Panama
+94,95,1924,2547564,1,Colones At 400%,Costa Rica,Panama
+94,95,1925,1968384,1,Colones At 400%,Costa Rica,Panama
+94,95,1926,1241672,1,Colones At 400%,Costa Rica,Panama
+94,95,1927,1709676,1,Colones At 400%,Costa Rica,Panama
+94,95,1928,1774340,1,Colones At 400%,Costa Rica,Panama
+94,95,1929,1145016,1,Colones At 400%,Costa Rica,Panama
+94,95,1930,725988,1,Colones At 400%,Costa Rica,Panama
+94,95,1931,360993,1,Colones At 400%,Costa Rica,Panama
+94,95,1932,377038,1,Colones At 440%,Costa Rica,Panama
+94,95,1933,679803,1,Colones At 455%,Costa Rica,Panama
+94,95,1934,844935,1,Colones At 425%,Costa Rica,Panama
+94,95,1935,1897206,1,Colones At 594%,Costa Rica,Panama
+94,95,1936,216638,1,Dolares,Costa Rica,Panama
+94,95,1937,118754,1,Dolares,Costa Rica,Panama
+94,95,1938,125332,1,Dolares,Costa Rica,Panama
+94,95,1939,35183,1,Dolares,Costa Rica,Panama
+94,95,1940,8294,1,Dolares,Costa Rica,Panama
+94,95,1941,3397,1,Dolares,Costa Rica,Panama
+94,95,1942,33187,1,Dolares,Costa Rica,Panama
+94,95,1943,37828,1,Dolares,Costa Rica,Panama
+94,95,1944,7195,1,Dolares,Costa Rica,Panama
+94,95,1945,6339,1,Dolares,Costa Rica,Panama
+94,95,1946,27696,1,Dolares,Costa Rica,Panama
+94,95,1947,93792,1,Dolares,Costa Rica,Panama
+94,95,1948,109085,1,Dolares,Costa Rica,Panama
+94,95,1949,114822,1,Dolares,Costa Rica,Panama
+94,96,1915,0,1,,Costa Rica,Panama Canal Zone
+94,96,1916,0,1,Colones,Costa Rica,Panama Canal Zone
+94,96,1917,0,1,Colones,Costa Rica,Panama Canal Zone
+94,96,1919,0,1,Colones,Costa Rica,Panama Canal Zone
+94,96,1920,0,1,Colones,Costa Rica,Panama Canal Zone
+94,96,1921,0,1,Colones At 215%,Costa Rica,Panama Canal Zone
+94,96,1922,0,1,Colones At 215%,Costa Rica,Panama Canal Zone
+94,96,1923,0,1,Colones At 215%,Costa Rica,Panama Canal Zone
+94,96,1924,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1925,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1926,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1927,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1928,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1929,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1930,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1931,0,1,Colones At 400%,Costa Rica,Panama Canal Zone
+94,96,1932,0,1,Colones At 440%,Costa Rica,Panama Canal Zone
+94,96,1933,0,1,Colones At 455%,Costa Rica,Panama Canal Zone
+94,96,1934,0,1,Colones At 425%,Costa Rica,Panama Canal Zone
+94,96,1935,0,1,Colones At 594%,Costa Rica,Panama Canal Zone
+94,96,1936,0,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1937,0,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1938,13675,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1939,7183,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1940,197,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1941,0,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1942,0,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1943,572,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1944,8214,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1945,779,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1946,581,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1947,141316,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1948,33096,1,Dolares,Costa Rica,Panama Canal Zone
+94,96,1949,7486,1,Dolares,Costa Rica,Panama Canal Zone
+94,100,1908,2668.15,,,Costa Rica,Colombia
+94,100,1909,4155.95,,,Costa Rica,Colombia
+94,100,1911,1255.6,,,Costa Rica,Colombia
+94,100,1912,767.55,,,Costa Rica,Colombia
+94,100,1915,333.25,1,,Costa Rica,Colombia
+94,100,1916,96.75,1,Colones,Costa Rica,Colombia
+94,100,1917,17.2,1,Colones,Costa Rica,Colombia
+94,100,1919,1767,1,Colones,Costa Rica,Colombia
+94,100,1920,2752,1,Colones,Costa Rica,Colombia
+94,100,1921,2174,1,Colones At 215%,Costa Rica,Colombia
+94,100,1922,26572,1,Colones At 215%,Costa Rica,Colombia
+94,100,1923,9589,1,Colones At 215%,Costa Rica,Colombia
+94,100,1924,124252,1,Colones At 400%,Costa Rica,Colombia
+94,100,1925,12492,1,Colones At 400%,Costa Rica,Colombia
+94,100,1926,7816,1,Colones At 400%,Costa Rica,Colombia
+94,100,1927,38888,1,Colones At 400%,Costa Rica,Colombia
+94,100,1928,61864,1,Colones At 400%,Costa Rica,Colombia
+94,100,1929,56852,1,Colones At 400%,Costa Rica,Colombia
+94,100,1930,35936,1,Colones At 400%,Costa Rica,Colombia
+94,100,1931,36765,1,Colones At 400%,Costa Rica,Colombia
+94,100,1932,13762,1,Colones At 440%,Costa Rica,Colombia
+94,100,1933,5317,1,Colones At 455%,Costa Rica,Colombia
+94,100,1934,10362,1,Colones At 425%,Costa Rica,Colombia
+94,100,1935,64106,1,Colones At 594%,Costa Rica,Colombia
+94,100,1936,4405,1,Dolares,Costa Rica,Colombia
+94,100,1937,6970,1,Dolares,Costa Rica,Colombia
+94,100,1938,37285,1,Dolares,Costa Rica,Colombia
+94,100,1939,12890,1,Dolares,Costa Rica,Colombia
+94,100,1940,23470,1,Dolares,Costa Rica,Colombia
+94,100,1941,38882,1,Dolares,Costa Rica,Colombia
+94,100,1942,68057,1,Dolares,Costa Rica,Colombia
+94,100,1943,89742,1,Dolares,Costa Rica,Colombia
+94,100,1944,165906,1,Dolares,Costa Rica,Colombia
+94,100,1945,156806,1,Dolares,Costa Rica,Colombia
+94,100,1946,323403,1,Dolares,Costa Rica,Colombia
+94,100,1947,287127,1,Dolares,Costa Rica,Colombia
+94,100,1948,50496,1,Dolares,Costa Rica,Colombia
+94,100,1949,26038,1,Dolares,Costa Rica,Colombia
+94,101,1908,19874.6,,,Costa Rica,Venezuela
+94,101,1911,66.65000000000001,,,Costa Rica,Venezuela
+94,101,1912,64.5,,,Costa Rica,Venezuela
+94,101,1915,10747.85,1,,Costa Rica,Venezuela
+94,101,1916,5895.3,1,Colones,Costa Rica,Venezuela
+94,101,1917,288.1,1,Colones,Costa Rica,Venezuela
+94,101,1919,432,1,Colones,Costa Rica,Venezuela
+94,101,1920,0,1,Colones,Costa Rica,Venezuela
+94,101,1921,16125,1,Colones At 215%,Costa Rica,Venezuela
+94,101,1922,13066,1,Colones At 215%,Costa Rica,Venezuela
+94,101,1923,3881,1,Colones At 215%,Costa Rica,Venezuela
+94,101,1924,12792,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1925,11348,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1926,12096,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1927,40,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1928,11596,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1929,207600,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1930,332732,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1931,397355,1,Colones At 400%,Costa Rica,Venezuela
+94,101,1932,306198,1,Colones At 440%,Costa Rica,Venezuela
+94,101,1933,360900,1,Colones At 455%,Costa Rica,Venezuela
+94,101,1934,335503,1,Colones At 425%,Costa Rica,Venezuela
+94,101,1935,465221,1,Colones At 594%,Costa Rica,Venezuela
+94,101,1936,133208,1,Dolares,Costa Rica,Venezuela
+94,101,1937,172228,1,Dolares,Costa Rica,Venezuela
+94,101,1938,715,1,Dolares,Costa Rica,Venezuela
+94,101,1939,163,1,Dolares,Costa Rica,Venezuela
+94,101,1940,424,1,Dolares,Costa Rica,Venezuela
+94,101,1941,2980,1,Dolares,Costa Rica,Venezuela
+94,101,1942,470,1,Dolares,Costa Rica,Venezuela
+94,101,1943,17544,1,Dolares,Costa Rica,Venezuela
+94,101,1944,23703,1,Dolares,Costa Rica,Venezuela
+94,101,1945,16493,1,Dolares,Costa Rica,Venezuela
+94,101,1946,6104,1,Dolares,Costa Rica,Venezuela
+94,101,1947,22133,1,Dolares,Costa Rica,Venezuela
+94,101,1948,21141,1,Dolares,Costa Rica,Venezuela
+94,101,1949,20480,1,Dolares,Costa Rica,Venezuela
+94,130,1908,11587.425,,,Costa Rica,Ecuador
+94,130,1909,9595.450000000001,,,Costa Rica,Ecuador
+94,130,1911,37936.75,,,Costa Rica,Ecuador
+94,130,1912,16615,,,Costa Rica,Ecuador
+94,130,1915,10732.8,1,,Costa Rica,Ecuador
+94,130,1916,19960.6,1,Colones,Costa Rica,Ecuador
+94,130,1917,33944.2,1,Colones,Costa Rica,Ecuador
+94,130,1919,55653,1,Colones,Costa Rica,Ecuador
+94,130,1920,136376,1,Colones,Costa Rica,Ecuador
+94,130,1921,72046,1,Colones At 215%,Costa Rica,Ecuador
+94,130,1922,24645,1,Colones At 215%,Costa Rica,Ecuador
+94,130,1923,25510,1,Colones At 215%,Costa Rica,Ecuador
+94,130,1924,43420,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1925,77708,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1926,40892,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1927,90020,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1928,23060,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1929,96384,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1930,142792,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1931,8412,1,Colones At 400%,Costa Rica,Ecuador
+94,130,1932,8828,1,Colones At 440%,Costa Rica,Ecuador
+94,130,1933,9044,1,Colones At 455%,Costa Rica,Ecuador
+94,130,1934,10521,1,Colones At 425%,Costa Rica,Ecuador
+94,130,1935,23324,1,Colones At 594%,Costa Rica,Ecuador
+94,130,1936,3177,1,Dolares,Costa Rica,Ecuador
+94,130,1937,6442,1,Dolares,Costa Rica,Ecuador
+94,130,1938,9494,1,Dolares,Costa Rica,Ecuador
+94,130,1939,897,1,Dolares,Costa Rica,Ecuador
+94,130,1940,22182,1,Dolares,Costa Rica,Ecuador
+94,130,1941,41608,1,Dolares,Costa Rica,Ecuador
+94,130,1942,7499,1,Dolares,Costa Rica,Ecuador
+94,130,1943,20737,1,Dolares,Costa Rica,Ecuador
+94,130,1944,338453,1,Dolares,Costa Rica,Ecuador
+94,130,1945,397956,1,Dolares,Costa Rica,Ecuador
+94,130,1946,41239,1,Dolares,Costa Rica,Ecuador
+94,130,1947,19227,1,Dolares,Costa Rica,Ecuador
+94,130,1948,98494,1,Dolares,Costa Rica,Ecuador
+94,130,1949,91619,1,Dolares,Costa Rica,Ecuador
+94,135,1911,43,,,Costa Rica,Peru
+94,135,1912,5601,,,Costa Rica,Peru
+94,135,1915,0,1,,Costa Rica,Peru
+94,135,1916,518.15,1,Colones,Costa Rica,Peru
+94,135,1917,0,1,Colones,Costa Rica,Peru
+94,135,1919,0,1,Colones,Costa Rica,Peru
+94,135,1920,0,1,Colones,Costa Rica,Peru
+94,135,1921,174303,1,Colones At 215%,Costa Rica,Peru
+94,135,1922,133373,1,Colones At 215%,Costa Rica,Peru
+94,135,1923,197770,1,Colones At 215%,Costa Rica,Peru
+94,135,1924,515224,1,Colones At 400%,Costa Rica,Peru
+94,135,1925,737368,1,Colones At 400%,Costa Rica,Peru
+94,135,1926,1019016,1,Colones At 400%,Costa Rica,Peru
+94,135,1927,1263132,1,Colones At 400%,Costa Rica,Peru
+94,135,1928,843060,1,Colones At 400%,Costa Rica,Peru
+94,135,1929,913752,1,Colones At 400%,Costa Rica,Peru
+94,135,1930,796360,1,Colones At 400%,Costa Rica,Peru
+94,135,1931,715119,1,Colones At 400%,Costa Rica,Peru
+94,135,1932,334405,1,Colones At 440%,Costa Rica,Peru
+94,135,1933,73690,1,Colones At 455%,Costa Rica,Peru
+94,135,1934,76027,1,Colones At 425%,Costa Rica,Peru
+94,135,1935,60238,1,Colones At 594%,Costa Rica,Peru
+94,135,1936,19820,1,Dolares,Costa Rica,Peru
+94,135,1937,21626,1,Dolares,Costa Rica,Peru
+94,135,1938,42257,1,Dolares,Costa Rica,Peru
+94,135,1939,113580,1,Dolares,Costa Rica,Peru
+94,135,1940,225416,1,Dolares,Costa Rica,Peru
+94,135,1941,328703,1,Dolares,Costa Rica,Peru
+94,135,1942,342830,1,Dolares,Costa Rica,Peru
+94,135,1943,466466,1,Dolares,Costa Rica,Peru
+94,135,1944,366414,1,Dolares,Costa Rica,Peru
+94,135,1945,958206,1,Dolares,Costa Rica,Peru
+94,135,1946,458837,1,Dolares,Costa Rica,Peru
+94,135,1947,421077,1,Dolares,Costa Rica,Peru
+94,135,1948,209057,1,Dolares,Costa Rica,Peru
+94,135,1949,441563,1,Dolares,Costa Rica,Peru
+94,140,1915,0,1,,Costa Rica,Brazil
+94,140,1916,0,1,Colones,Costa Rica,Brazil
+94,140,1917,0,1,Colones,Costa Rica,Brazil
+94,140,1919,0,1,Colones,Costa Rica,Brazil
+94,140,1920,0,1,Colones,Costa Rica,Brazil
+94,140,1921,0,1,Colones At 215%,Costa Rica,Brazil
+94,140,1922,0,1,Colones At 215%,Costa Rica,Brazil
+94,140,1923,0,1,Colones At 215%,Costa Rica,Brazil
+94,140,1924,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1925,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1926,168,1,Colones At 400%,Costa Rica,Brazil
+94,140,1927,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1928,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1929,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1930,0,1,Colones At 400%,Costa Rica,Brazil
+94,140,1931,1005,1,Colones At 400%,Costa Rica,Brazil
+94,140,1932,1307,1,Colones At 440%,Costa Rica,Brazil
+94,140,1933,6430,1,Colones At 455%,Costa Rica,Brazil
+94,140,1934,5419,1,Colones At 425%,Costa Rica,Brazil
+94,140,1935,3024,1,Colones At 594%,Costa Rica,Brazil
+94,140,1936,710,1,Dolares,Costa Rica,Brazil
+94,140,1937,1671,1,Dolares,Costa Rica,Brazil
+94,140,1938,1419,1,Dolares,Costa Rica,Brazil
+94,140,1939,1575,1,Dolares,Costa Rica,Brazil
+94,140,1940,7613,1,Dolares,Costa Rica,Brazil
+94,140,1941,23718,1,Dolares,Costa Rica,Brazil
+94,140,1942,135663,1,Dolares,Costa Rica,Brazil
+94,140,1943,81300,1,Dolares,Costa Rica,Brazil
+94,140,1944,193937,1,Dolares,Costa Rica,Brazil
+94,140,1945,91689,1,Dolares,Costa Rica,Brazil
+94,140,1946,34655,1,Dolares,Costa Rica,Brazil
+94,140,1947,27916,1,Dolares,Costa Rica,Brazil
+94,140,1948,20128,1,Dolares,Costa Rica,Brazil
+94,140,1949,22847,1,Dolares,Costa Rica,Brazil
+94,145,1915,0,1,,Costa Rica,Bolivia
+94,145,1916,0,1,Colones,Costa Rica,Bolivia
+94,145,1917,0,1,Colones,Costa Rica,Bolivia
+94,145,1919,0,1,Colones,Costa Rica,Bolivia
+94,145,1920,0,1,Colones,Costa Rica,Bolivia
+94,145,1921,0,1,Colones At 215%,Costa Rica,Bolivia
+94,145,1922,0,1,Colones At 215%,Costa Rica,Bolivia
+94,145,1923,0,1,Colones At 215%,Costa Rica,Bolivia
+94,145,1924,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1925,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1926,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1927,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1928,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1929,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1930,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1931,0,1,Colones At 400%,Costa Rica,Bolivia
+94,145,1932,0,1,Colones At 440%,Costa Rica,Bolivia
+94,145,1933,94,1,Colones At 455%,Costa Rica,Bolivia
+94,145,1934,0,1,Colones At 425%,Costa Rica,Bolivia
+94,145,1935,0,1,Colones At 594%,Costa Rica,Bolivia
+94,145,1936,0,1,Dolares,Costa Rica,Bolivia
+94,145,1937,0,1,Dolares,Costa Rica,Bolivia
+94,145,1938,0,1,Dolares,Costa Rica,Bolivia
+94,145,1939,0,1,Dolares,Costa Rica,Bolivia
+94,145,1940,0,1,Dolares,Costa Rica,Bolivia
+94,145,1941,1,1,Dolares,Costa Rica,Bolivia
+94,145,1942,5,1,Dolares,Costa Rica,Bolivia
+94,145,1943,0,1,Dolares,Costa Rica,Bolivia
+94,145,1944,20,1,Dolares,Costa Rica,Bolivia
+94,145,1945,2500,1,Dolares,Costa Rica,Bolivia
+94,145,1946,580,1,Dolares,Costa Rica,Bolivia
+94,145,1947,0,1,Dolares,Costa Rica,Bolivia
+94,145,1948,3,1,Dolares,Costa Rica,Bolivia
+94,145,1949,5,1,Dolares,Costa Rica,Bolivia
+94,150,1915,0,1,,Costa Rica,Paraguay
+94,150,1916,0,1,Colones,Costa Rica,Paraguay
+94,150,1917,0,1,Colones,Costa Rica,Paraguay
+94,150,1919,0,1,Colones,Costa Rica,Paraguay
+94,150,1920,0,1,Colones,Costa Rica,Paraguay
+94,150,1921,0,1,Colones At 215%,Costa Rica,Paraguay
+94,150,1922,0,1,Colones At 215%,Costa Rica,Paraguay
+94,150,1923,0,1,Colones At 215%,Costa Rica,Paraguay
+94,150,1924,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1925,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1926,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1927,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1928,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1929,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1930,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1931,0,1,Colones At 400%,Costa Rica,Paraguay
+94,150,1932,0,1,Colones At 440%,Costa Rica,Paraguay
+94,150,1933,0,1,Colones At 455%,Costa Rica,Paraguay
+94,150,1934,0,1,Colones At 425%,Costa Rica,Paraguay
+94,150,1935,0,1,Colones At 594%,Costa Rica,Paraguay
+94,150,1936,0,1,Dolares,Costa Rica,Paraguay
+94,150,1937,0,1,Dolares,Costa Rica,Paraguay
+94,150,1938,0,1,Dolares,Costa Rica,Paraguay
+94,150,1939,0,1,Dolares,Costa Rica,Paraguay
+94,150,1940,72,1,Dolares,Costa Rica,Paraguay
+94,150,1941,0,1,Dolares,Costa Rica,Paraguay
+94,150,1942,0,1,Dolares,Costa Rica,Paraguay
+94,150,1943,0,1,Dolares,Costa Rica,Paraguay
+94,150,1944,0,1,Dolares,Costa Rica,Paraguay
+94,150,1945,0,1,Dolares,Costa Rica,Paraguay
+94,150,1946,0,1,Dolares,Costa Rica,Paraguay
+94,150,1947,31,1,Dolares,Costa Rica,Paraguay
+94,150,1948,28,1,Dolares,Costa Rica,Paraguay
+94,150,1949,7,1,Dolares,Costa Rica,Paraguay
+94,155,1915,0,1,,Costa Rica,Chile
+94,155,1916,0,1,Colones,Costa Rica,Chile
+94,155,1917,0,1,Colones,Costa Rica,Chile
+94,155,1919,9392,1,Colones,Costa Rica,Chile
+94,155,1920,14479,1,Colones,Costa Rica,Chile
+94,155,1921,2997,1,Colones At 215%,Costa Rica,Chile
+94,155,1922,2621,1,Colones At 215%,Costa Rica,Chile
+94,155,1923,135,1,Colones At 215%,Costa Rica,Chile
+94,155,1924,1716,1,Colones At 400%,Costa Rica,Chile
+94,155,1925,50040,1,Colones At 400%,Costa Rica,Chile
+94,155,1926,2836,1,Colones At 400%,Costa Rica,Chile
+94,155,1927,3880,1,Colones At 400%,Costa Rica,Chile
+94,155,1928,21124,1,Colones At 400%,Costa Rica,Chile
+94,155,1929,36872,1,Colones At 400%,Costa Rica,Chile
+94,155,1930,17600,1,Colones At 400%,Costa Rica,Chile
+94,155,1931,31210,1,Colones At 400%,Costa Rica,Chile
+94,155,1932,50970,1,Colones At 440%,Costa Rica,Chile
+94,155,1933,12058,1,Colones At 455%,Costa Rica,Chile
+94,155,1934,73985,1,Colones At 425%,Costa Rica,Chile
+94,155,1935,79740,1,Colones At 594%,Costa Rica,Chile
+94,155,1936,13547,1,Dolares,Costa Rica,Chile
+94,155,1937,23838,1,Dolares,Costa Rica,Chile
+94,155,1938,10802,1,Dolares,Costa Rica,Chile
+94,155,1939,32003,1,Dolares,Costa Rica,Chile
+94,155,1940,51035,1,Dolares,Costa Rica,Chile
+94,155,1941,50721,1,Dolares,Costa Rica,Chile
+94,155,1942,81228,1,Dolares,Costa Rica,Chile
+94,155,1943,154298,1,Dolares,Costa Rica,Chile
+94,155,1944,325983,1,Dolares,Costa Rica,Chile
+94,155,1945,510731,1,Dolares,Costa Rica,Chile
+94,155,1946,204907,1,Dolares,Costa Rica,Chile
+94,155,1947,371138,1,Dolares,Costa Rica,Chile
+94,155,1948,489642,1,Dolares,Costa Rica,Chile
+94,155,1949,337127,1,Dolares,Costa Rica,Chile
+94,160,1915,0,1,,Costa Rica,Argentina
+94,160,1916,0,1,Colones,Costa Rica,Argentina
+94,160,1917,0,1,Colones,Costa Rica,Argentina
+94,160,1919,0,1,Colones,Costa Rica,Argentina
+94,160,1920,1484,1,Colones,Costa Rica,Argentina
+94,160,1921,0,1,Colones At 215%,Costa Rica,Argentina
+94,160,1922,0,1,Colones At 215%,Costa Rica,Argentina
+94,160,1923,0,1,Colones At 215%,Costa Rica,Argentina
+94,160,1924,0,1,Colones At 400%,Costa Rica,Argentina
+94,160,1925,1080,1,Colones At 400%,Costa Rica,Argentina
+94,160,1926,1520,1,Colones At 400%,Costa Rica,Argentina
+94,160,1927,10288,1,Colones At 400%,Costa Rica,Argentina
+94,160,1928,12472,1,Colones At 400%,Costa Rica,Argentina
+94,160,1929,22832,1,Colones At 400%,Costa Rica,Argentina
+94,160,1930,25312,1,Colones At 400%,Costa Rica,Argentina
+94,160,1931,3337,1,Colones At 400%,Costa Rica,Argentina
+94,160,1932,3909,1,Colones At 440%,Costa Rica,Argentina
+94,160,1933,2051,1,Colones At 455%,Costa Rica,Argentina
+94,160,1934,480,1,Colones At 425%,Costa Rica,Argentina
+94,160,1935,91027,1,Colones At 594%,Costa Rica,Argentina
+94,160,1936,1319,1,Dolares,Costa Rica,Argentina
+94,160,1937,4190,1,Dolares,Costa Rica,Argentina
+94,160,1938,4170,1,Dolares,Costa Rica,Argentina
+94,160,1939,13929,1,Dolares,Costa Rica,Argentina
+94,160,1940,35825,1,Dolares,Costa Rica,Argentina
+94,160,1941,118861,1,Dolares,Costa Rica,Argentina
+94,160,1942,381804,1,Dolares,Costa Rica,Argentina
+94,160,1943,1218001,1,Dolares,Costa Rica,Argentina
+94,160,1944,1030729,1,Dolares,Costa Rica,Argentina
+94,160,1945,584911,1,Dolares,Costa Rica,Argentina
+94,160,1946,258925,1,Dolares,Costa Rica,Argentina
+94,160,1947,132148,1,Dolares,Costa Rica,Argentina
+94,160,1948,92984,1,Dolares,Costa Rica,Argentina
+94,160,1949,48197,1,Dolares,Costa Rica,Argentina
+94,165,1915,0,1,,Costa Rica,Uruguay
+94,165,1916,0,1,Colones,Costa Rica,Uruguay
+94,165,1917,0,1,Colones,Costa Rica,Uruguay
+94,165,1919,0,1,Colones,Costa Rica,Uruguay
+94,165,1920,0,1,Colones,Costa Rica,Uruguay
+94,165,1921,0,1,Colones At 215%,Costa Rica,Uruguay
+94,165,1922,0,1,Colones At 215%,Costa Rica,Uruguay
+94,165,1923,0,1,Colones At 215%,Costa Rica,Uruguay
+94,165,1924,1740,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1925,4920,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1926,13500,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1927,12340,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1928,0,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1929,852,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1930,3240,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1931,0,1,Colones At 400%,Costa Rica,Uruguay
+94,165,1932,7,1,Colones At 440%,Costa Rica,Uruguay
+94,165,1933,0,1,Colones At 455%,Costa Rica,Uruguay
+94,165,1934,0,1,Colones At 425%,Costa Rica,Uruguay
+94,165,1935,0,1,Colones At 594%,Costa Rica,Uruguay
+94,165,1936,0,1,Dolares,Costa Rica,Uruguay
+94,165,1937,0,1,Dolares,Costa Rica,Uruguay
+94,165,1938,1925,1,Dolares,Costa Rica,Uruguay
+94,165,1939,18240,1,Dolares,Costa Rica,Uruguay
+94,165,1940,18653,1,Dolares,Costa Rica,Uruguay
+94,165,1941,33427,1,Dolares,Costa Rica,Uruguay
+94,165,1942,25792,1,Dolares,Costa Rica,Uruguay
+94,165,1943,22894,1,Dolares,Costa Rica,Uruguay
+94,165,1944,118633,1,Dolares,Costa Rica,Uruguay
+94,165,1945,209683,1,Dolares,Costa Rica,Uruguay
+94,165,1946,141921,1,Dolares,Costa Rica,Uruguay
+94,165,1947,90909,1,Dolares,Costa Rica,Uruguay
+94,165,1948,79651,1,Dolares,Costa Rica,Uruguay
+94,165,1949,32448,1,Dolares,Costa Rica,Uruguay
+94,200,1907,3690191,,,Costa Rica,United Kingdom
+94,200,1908,2649254.3,,,Costa Rica,United Kingdom
+94,200,1909,2254832.19,,,Costa Rica,United Kingdom
+94,200,1911,3304507.8,,,Costa Rica,United Kingdom
+94,200,1912,2959580.25,,,Costa Rica,United Kingdom
+94,200,1915,1180236.57,1,,Costa Rica,United Kingdom
+94,200,1916,1700755.74,1,Colones,Costa Rica,United Kingdom
+94,200,1917,1518832.24,1,Colones,Costa Rica,United Kingdom
+94,200,1919,1226448,1,Colones,Costa Rica,United Kingdom
+94,200,1920,6837050,1,Colones,Costa Rica,United Kingdom
+94,200,1921,3342603,1,Colones At 215%,Costa Rica,United Kingdom
+94,200,1922,2518061,1,Colones At 215%,Costa Rica,United Kingdom
+94,200,1923,3291814,1,Colones At 215%,Costa Rica,United Kingdom
+94,200,1924,7945272,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1925,8629988,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1926,7960324,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1927,9730464,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1928,10210312,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1929,10214832,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1930,5261104,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1931,3545294,1,Colones At 400%,Costa Rica,United Kingdom
+94,200,1932,2621738,1,Colones At 440%,Costa Rica,United Kingdom
+94,200,1933,3862281,1,Colones At 455%,Costa Rica,United Kingdom
+94,200,1934,4663682,1,Colones At 425%,Costa Rica,United Kingdom
+94,200,1935,4296353,1,Colones At 594%,Costa Rica,United Kingdom
+94,200,1936,611435,1,Dolares,Costa Rica,United Kingdom
+94,200,1937,858596,1,Dolares,Costa Rica,United Kingdom
+94,200,1938,831190,1,Dolares,Costa Rica,United Kingdom
+94,200,1939,667084,1,Dolares,Costa Rica,United Kingdom
+94,200,1940,765480,1,Dolares,Costa Rica,United Kingdom
+94,200,1941,680369,1,Dolares,Costa Rica,United Kingdom
+94,200,1942,359250,1,Dolares,Costa Rica,United Kingdom
+94,200,1943,515799,1,Dolares,Costa Rica,United Kingdom
+94,200,1944,364722,1,Dolares,Costa Rica,United Kingdom
+94,200,1945,391541,1,Dolares,Costa Rica,United Kingdom
+94,200,1946,615023,1,Dolares,Costa Rica,United Kingdom
+94,200,1947,984854,1,Dolares,Costa Rica,United Kingdom
+94,200,1948,1706884,1,Dolares,Costa Rica,United Kingdom
+94,200,1949,1673037,1,Dolares,Costa Rica,United Kingdom
+94,202,1915,0,1,,Costa Rica,Scotland
+94,202,1916,0,1,Colones,Costa Rica,Scotland
+94,202,1917,0,1,Colones,Costa Rica,Scotland
+94,202,1919,0,1,Colones,Costa Rica,Scotland
+94,202,1920,0,1,Colones,Costa Rica,Scotland
+94,202,1921,0,1,Colones At 215%,Costa Rica,Scotland
+94,202,1922,0,1,Colones At 215%,Costa Rica,Scotland
+94,202,1923,0,1,Colones At 215%,Costa Rica,Scotland
+94,202,1924,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1925,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1926,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1927,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1928,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1929,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1930,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1931,0,1,Colones At 400%,Costa Rica,Scotland
+94,202,1932,15643,1,Colones At 440%,Costa Rica,Scotland
+94,202,1933,102887,1,Colones At 455%,Costa Rica,Scotland
+94,202,1934,228501,1,Colones At 425%,Costa Rica,Scotland
+94,202,1935,139123,1,Colones At 594%,Costa Rica,Scotland
+94,202,1936,36486,1,Dolares,Costa Rica,Scotland
+94,202,1937,68382,1,Dolares,Costa Rica,Scotland
+94,202,1938,84236,1,Dolares,Costa Rica,Scotland
+94,202,1939,91976,1,Dolares,Costa Rica,Scotland
+94,202,1940,129772,1,Dolares,Costa Rica,Scotland
+94,202,1941,162581,1,Dolares,Costa Rica,Scotland
+94,202,1942,139208,1,Dolares,Costa Rica,Scotland
+94,202,1943,302711,1,Dolares,Costa Rica,Scotland
+94,202,1944,203430,1,Dolares,Costa Rica,Scotland
+94,202,1945,177987,1,Dolares,Costa Rica,Scotland
+94,202,1946,124598,1,Dolares,Costa Rica,Scotland
+94,202,1947,201625,1,Dolares,Costa Rica,Scotland
+94,202,1948,204431,1,Dolares,Costa Rica,Scotland
+94,202,1949,160108,1,Dolares,Costa Rica,Scotland
+94,205,1915,0,1,,Costa Rica,Ireland
+94,205,1916,0,1,Colones,Costa Rica,Ireland
+94,205,1917,0,1,Colones,Costa Rica,Ireland
+94,205,1919,0,1,Colones,Costa Rica,Ireland
+94,205,1920,0,1,Colones,Costa Rica,Ireland
+94,205,1921,0,1,Colones At 215%,Costa Rica,Ireland
+94,205,1922,0,1,Colones At 215%,Costa Rica,Ireland
+94,205,1923,0,1,Colones At 215%,Costa Rica,Ireland
+94,205,1924,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1925,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1926,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1927,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1928,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1929,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1930,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1931,0,1,Colones At 400%,Costa Rica,Ireland
+94,205,1932,0,1,Colones At 440%,Costa Rica,Ireland
+94,205,1933,0,1,Colones At 455%,Costa Rica,Ireland
+94,205,1934,0,1,Colones At 425%,Costa Rica,Ireland
+94,205,1935,420,1,Colones At 594%,Costa Rica,Ireland
+94,205,1936,65,1,Dolares,Costa Rica,Ireland
+94,205,1937,253,1,Dolares,Costa Rica,Ireland
+94,205,1938,607,1,Dolares,Costa Rica,Ireland
+94,205,1939,824,1,Dolares,Costa Rica,Ireland
+94,205,1940,1967,1,Dolares,Costa Rica,Ireland
+94,205,1941,1586,1,Dolares,Costa Rica,Ireland
+94,205,1942,862,1,Dolares,Costa Rica,Ireland
+94,205,1943,492,1,Dolares,Costa Rica,Ireland
+94,205,1944,1715,1,Dolares,Costa Rica,Ireland
+94,205,1945,312,1,Dolares,Costa Rica,Ireland
+94,205,1946,1580,1,Dolares,Costa Rica,Ireland
+94,205,1947,7339,1,Dolares,Costa Rica,Ireland
+94,205,1948,3229,1,Dolares,Costa Rica,Ireland
+94,205,1949,1730,1,Dolares,Costa Rica,Ireland
+94,210,1908,1444.8,,,Costa Rica,Netherlands
+94,210,1911,28504.7,,,Costa Rica,Netherlands
+94,210,1912,21016.25,,,Costa Rica,Netherlands
+94,210,1915,94630.10000000001,1,,Costa Rica,Netherlands
+94,210,1916,25640.9,1,Colones,Costa Rica,Netherlands
+94,210,1917,14271.7,1,Colones,Costa Rica,Netherlands
+94,210,1919,3992,1,Colones,Costa Rica,Netherlands
+94,210,1920,1258009,1,Colones,Costa Rica,Netherlands
+94,210,1921,647414,1,Colones At 215%,Costa Rica,Netherlands
+94,210,1922,197985,1,Colones At 215%,Costa Rica,Netherlands
+94,210,1923,286057,1,Colones At 215%,Costa Rica,Netherlands
+94,210,1924,833012,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1925,1016156,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1926,1212624,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1927,1232528,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1928,1446448,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1929,1014856,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1930,678236,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1931,741051,1,Colones At 400%,Costa Rica,Netherlands
+94,210,1932,389812,1,Colones At 440%,Costa Rica,Netherlands
+94,210,1933,378253,1,Colones At 455%,Costa Rica,Netherlands
+94,210,1934,257681,1,Colones At 425%,Costa Rica,Netherlands
+94,210,1935,754419,1,Colones At 594%,Costa Rica,Netherlands
+94,210,1936,73040,1,Dolares,Costa Rica,Netherlands
+94,210,1937,185343,1,Dolares,Costa Rica,Netherlands
+94,210,1938,172849,1,Dolares,Costa Rica,Netherlands
+94,210,1939,192655,1,Dolares,Costa Rica,Netherlands
+94,210,1940,77201,1,Dolares,Costa Rica,Netherlands
+94,210,1941,274,1,Dolares,Costa Rica,Netherlands
+94,210,1942,63,1,Dolares,Costa Rica,Netherlands
+94,210,1943,0,1,Dolares,Costa Rica,Netherlands
+94,210,1944,0,1,Dolares,Costa Rica,Netherlands
+94,210,1945,0,1,Dolares,Costa Rica,Netherlands
+94,210,1946,12410,1,Dolares,Costa Rica,Netherlands
+94,210,1947,163516,1,Dolares,Costa Rica,Netherlands
+94,210,1948,122244,1,Dolares,Costa Rica,Netherlands
+94,210,1949,138928,1,Dolares,Costa Rica,Netherlands
+94,211,1907,123779,,,Costa Rica,Belgium
+94,211,1908,199365.12,,,Costa Rica,Belgium
+94,211,1909,193549,,,Costa Rica,Belgium
+94,211,1911,139251.71,,,Costa Rica,Belgium
+94,211,1912,115561.38,,,Costa Rica,Belgium
+94,211,1915,2005.98,1,,Costa Rica,Belgium
+94,211,1916,0,1,Colones,Costa Rica,Belgium
+94,211,1917,0,1,Colones,Costa Rica,Belgium
+94,211,1919,103,1,Colones,Costa Rica,Belgium
+94,211,1920,17990,1,Colones,Costa Rica,Belgium
+94,211,1921,22549,1,Colones At 215%,Costa Rica,Belgium
+94,211,1922,46126,1,Colones At 215%,Costa Rica,Belgium
+94,211,1923,232667,1,Colones At 215%,Costa Rica,Belgium
+94,211,1924,289620,1,Colones At 400%,Costa Rica,Belgium
+94,211,1925,317304,1,Colones At 400%,Costa Rica,Belgium
+94,211,1926,526208,1,Colones At 400%,Costa Rica,Belgium
+94,211,1927,599296,1,Colones At 400%,Costa Rica,Belgium
+94,211,1928,873412,1,Colones At 400%,Costa Rica,Belgium
+94,211,1929,1486548,1,Colones At 400%,Costa Rica,Belgium
+94,211,1930,1271352,1,Colones At 400%,Costa Rica,Belgium
+94,211,1931,470578,1,Colones At 400%,Costa Rica,Belgium
+94,211,1932,112082,1,Colones At 440%,Costa Rica,Belgium
+94,211,1933,711543,1,Colones At 455%,Costa Rica,Belgium
+94,211,1934,480357,1,Colones At 425%,Costa Rica,Belgium
+94,211,1935,236407,1,Colones At 594%,Costa Rica,Belgium
+94,211,1936,20178,1,Dolares,Costa Rica,Belgium
+94,211,1937,180975,1,Dolares,Costa Rica,Belgium
+94,211,1938,218381,1,Dolares,Costa Rica,Belgium
+94,211,1939,120979,1,Dolares,Costa Rica,Belgium
+94,211,1940,20493,1,Dolares,Costa Rica,Belgium
+94,211,1941,0,1,Dolares,Costa Rica,Belgium
+94,211,1942,1,1,Dolares,Costa Rica,Belgium
+94,211,1943,0,1,Dolares,Costa Rica,Belgium
+94,211,1944,0,1,Dolares,Costa Rica,Belgium
+94,211,1945,0,1,Dolares,Costa Rica,Belgium
+94,211,1946,44405,1,Dolares,Costa Rica,Belgium
+94,211,1947,299718,1,Dolares,Costa Rica,Belgium
+94,211,1948,236970,1,Dolares,Costa Rica,Belgium
+94,211,1949,947185,1,Dolares,Costa Rica,Belgium
+94,212,1915,0,1,,Costa Rica,Luxembourg
+94,212,1916,0,1,Colones,Costa Rica,Luxembourg
+94,212,1917,0,1,Colones,Costa Rica,Luxembourg
+94,212,1919,0,1,Colones,Costa Rica,Luxembourg
+94,212,1920,0,1,Colones,Costa Rica,Luxembourg
+94,212,1921,0,1,Colones At 215%,Costa Rica,Luxembourg
+94,212,1922,0,1,Colones At 215%,Costa Rica,Luxembourg
+94,212,1923,0,1,Colones At 215%,Costa Rica,Luxembourg
+94,212,1924,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1925,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1926,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1927,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1928,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1929,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1930,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1931,0,1,Colones At 400%,Costa Rica,Luxembourg
+94,212,1932,0,1,Colones At 440%,Costa Rica,Luxembourg
+94,212,1933,0,1,Colones At 455%,Costa Rica,Luxembourg
+94,212,1934,0,1,Colones At 425%,Costa Rica,Luxembourg
+94,212,1935,0,1,Colones At 594%,Costa Rica,Luxembourg
+94,212,1936,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1937,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1938,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1939,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1940,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1941,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1942,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1943,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1944,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1945,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1946,400,1,Dolares,Costa Rica,Luxembourg
+94,212,1947,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1948,0,1,Dolares,Costa Rica,Luxembourg
+94,212,1949,9611,1,Dolares,Costa Rica,Luxembourg
+94,220,1907,789621,,,Costa Rica,France
+94,220,1908,903647.54,,,Costa Rica,France
+94,220,1909,772499.55,,,Costa Rica,France
+94,220,1911,944667.53,,,Costa Rica,France
+94,220,1912,902529.3199999999,,,Costa Rica,France
+94,220,1915,180927.85,1,,Costa Rica,France
+94,220,1916,387586.27,1,Colones,Costa Rica,France
+94,220,1917,296717.42,1,Colones,Costa Rica,France
+94,220,1919,158327,1,Colones,Costa Rica,France
+94,220,1920,1247114,1,Colones,Costa Rica,France
+94,220,1921,484816,1,Colones At 215%,Costa Rica,France
+94,220,1922,336041,1,Colones At 215%,Costa Rica,France
+94,220,1923,428951,1,Colones At 215%,Costa Rica,France
+94,220,1924,838448,1,Colones At 400%,Costa Rica,France
+94,220,1925,760288,1,Colones At 400%,Costa Rica,France
+94,220,1926,706320,1,Colones At 400%,Costa Rica,France
+94,220,1927,1135408,1,Colones At 400%,Costa Rica,France
+94,220,1928,1084064,1,Colones At 400%,Costa Rica,France
+94,220,1929,2029256,1,Colones At 400%,Costa Rica,France
+94,220,1930,1256592,1,Colones At 400%,Costa Rica,France
+94,220,1931,894899,1,Colones At 400%,Costa Rica,France
+94,220,1932,630105,1,Colones At 440%,Costa Rica,France
+94,220,1933,776251,1,Colones At 455%,Costa Rica,France
+94,220,1934,798754,1,Colones At 425%,Costa Rica,France
+94,220,1935,665802,1,Colones At 594%,Costa Rica,France
+94,220,1936,102914,1,Dolares,Costa Rica,France
+94,220,1937,159446,1,Dolares,Costa Rica,France
+94,220,1938,164983,1,Dolares,Costa Rica,France
+94,220,1939,220083,1,Dolares,Costa Rica,France
+94,220,1940,111104,1,Dolares,Costa Rica,France
+94,220,1941,7727,1,Dolares,Costa Rica,France
+94,220,1942,3089,1,Dolares,Costa Rica,France
+94,220,1943,586,1,Dolares,Costa Rica,France
+94,220,1944,1469,1,Dolares,Costa Rica,France
+94,220,1945,7488,1,Dolares,Costa Rica,France
+94,220,1946,90132,1,Dolares,Costa Rica,France
+94,220,1947,157292,1,Dolares,Costa Rica,France
+94,220,1948,130492,1,Dolares,Costa Rica,France
+94,220,1949,202727,1,Dolares,Costa Rica,France
+94,225,1911,6374.75,,,Costa Rica,Switzerland
+94,225,1912,9933.700000000001,,,Costa Rica,Switzerland
+94,225,1915,2795,1,,Costa Rica,Switzerland
+94,225,1916,2291.9,1,Colones,Costa Rica,Switzerland
+94,225,1917,5562.05,1,Colones,Costa Rica,Switzerland
+94,225,1919,1488,1,Colones,Costa Rica,Switzerland
+94,225,1920,42194,1,Colones,Costa Rica,Switzerland
+94,225,1921,172,1,Colones At 215%,Costa Rica,Switzerland
+94,225,1922,1860,1,Colones At 215%,Costa Rica,Switzerland
+94,225,1923,135,1,Colones At 215%,Costa Rica,Switzerland
+94,225,1924,480,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1925,26280,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1926,20628,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1927,22416,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1928,73980,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1929,713168,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1930,367328,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1931,283807,1,Colones At 400%,Costa Rica,Switzerland
+94,225,1932,180919,1,Colones At 440%,Costa Rica,Switzerland
+94,225,1933,291064,1,Colones At 455%,Costa Rica,Switzerland
+94,225,1934,252947,1,Colones At 425%,Costa Rica,Switzerland
+94,225,1935,174974,1,Colones At 594%,Costa Rica,Switzerland
+94,225,1936,22217,1,Dolares,Costa Rica,Switzerland
+94,225,1937,51535,1,Dolares,Costa Rica,Switzerland
+94,225,1938,60337,1,Dolares,Costa Rica,Switzerland
+94,225,1939,67667,1,Dolares,Costa Rica,Switzerland
+94,225,1940,75165,1,Dolares,Costa Rica,Switzerland
+94,225,1941,58854,1,Dolares,Costa Rica,Switzerland
+94,225,1942,51245,1,Dolares,Costa Rica,Switzerland
+94,225,1943,90052,1,Dolares,Costa Rica,Switzerland
+94,225,1944,65661,1,Dolares,Costa Rica,Switzerland
+94,225,1945,219491,1,Dolares,Costa Rica,Switzerland
+94,225,1946,188483,1,Dolares,Costa Rica,Switzerland
+94,225,1947,301136,1,Dolares,Costa Rica,Switzerland
+94,225,1948,421070,1,Dolares,Costa Rica,Switzerland
+94,225,1949,294204,1,Dolares,Costa Rica,Switzerland
+94,230,1907,340618,,,Costa Rica,Spain
+94,230,1908,311153.46,,,Costa Rica,Spain
+94,230,1909,313577.02,,,Costa Rica,Spain
+94,230,1911,413781.43,,,Costa Rica,Spain
+94,230,1912,363306,,,Costa Rica,Spain
+94,230,1915,253438.4,1,,Costa Rica,Spain
+94,230,1916,349630.3,1,Colones,Costa Rica,Spain
+94,230,1917,242549.6,1,Colones,Costa Rica,Spain
+94,230,1919,220373,1,Colones,Costa Rica,Spain
+94,230,1920,702932,1,Colones,Costa Rica,Spain
+94,230,1921,366512,1,Colones At 215%,Costa Rica,Spain
+94,230,1922,381599,1,Colones At 215%,Costa Rica,Spain
+94,230,1923,256110,1,Colones At 215%,Costa Rica,Spain
+94,230,1924,659652,1,Colones At 400%,Costa Rica,Spain
+94,230,1925,906776,1,Colones At 400%,Costa Rica,Spain
+94,230,1926,846908,1,Colones At 400%,Costa Rica,Spain
+94,230,1927,915964,1,Colones At 400%,Costa Rica,Spain
+94,230,1928,893736,1,Colones At 400%,Costa Rica,Spain
+94,230,1929,993720,1,Colones At 400%,Costa Rica,Spain
+94,230,1930,625040,1,Colones At 400%,Costa Rica,Spain
+94,230,1931,532293,1,Colones At 400%,Costa Rica,Spain
+94,230,1932,427777,1,Colones At 440%,Costa Rica,Spain
+94,230,1933,619558,1,Colones At 455%,Costa Rica,Spain
+94,230,1934,665099,1,Colones At 425%,Costa Rica,Spain
+94,230,1935,558974,1,Colones At 594%,Costa Rica,Spain
+94,230,1936,69280,1,Dolares,Costa Rica,Spain
+94,230,1937,35044,1,Dolares,Costa Rica,Spain
+94,230,1938,39669,1,Dolares,Costa Rica,Spain
+94,230,1939,23049,1,Dolares,Costa Rica,Spain
+94,230,1940,41704,1,Dolares,Costa Rica,Spain
+94,230,1941,50352,1,Dolares,Costa Rica,Spain
+94,230,1942,10967,1,Dolares,Costa Rica,Spain
+94,230,1943,8839,1,Dolares,Costa Rica,Spain
+94,230,1944,13752,1,Dolares,Costa Rica,Spain
+94,230,1945,34323,1,Dolares,Costa Rica,Spain
+94,230,1946,45878,1,Dolares,Costa Rica,Spain
+94,230,1947,90884,1,Dolares,Costa Rica,Spain
+94,230,1948,73876,1,Dolares,Costa Rica,Spain
+94,230,1949,36676,1,Dolares,Costa Rica,Spain
+94,235,1908,2384.35,,,Costa Rica,Portugal
+94,235,1909,3775.4,,,Costa Rica,Portugal
+94,235,1911,1395.35,,,Costa Rica,Portugal
+94,235,1912,3732.4,,,Costa Rica,Portugal
+94,235,1915,0,1,,Costa Rica,Portugal
+94,235,1916,0,1,Colones,Costa Rica,Portugal
+94,235,1917,0,1,Colones,Costa Rica,Portugal
+94,235,1919,0,1,Colones,Costa Rica,Portugal
+94,235,1920,0,1,Colones,Costa Rica,Portugal
+94,235,1921,2066,1,Colones At 215%,Costa Rica,Portugal
+94,235,1922,8557,1,Colones At 215%,Costa Rica,Portugal
+94,235,1923,355,1,Colones At 215%,Costa Rica,Portugal
+94,235,1924,0,1,Colones At 400%,Costa Rica,Portugal
+94,235,1925,3468,1,Colones At 400%,Costa Rica,Portugal
+94,235,1926,4668,1,Colones At 400%,Costa Rica,Portugal
+94,235,1927,1464,1,Colones At 400%,Costa Rica,Portugal
+94,235,1928,2404,1,Colones At 400%,Costa Rica,Portugal
+94,235,1929,4896,1,Colones At 400%,Costa Rica,Portugal
+94,235,1930,8316,1,Colones At 400%,Costa Rica,Portugal
+94,235,1931,2458,1,Colones At 400%,Costa Rica,Portugal
+94,235,1932,3313,1,Colones At 440%,Costa Rica,Portugal
+94,235,1933,5813,1,Colones At 455%,Costa Rica,Portugal
+94,235,1934,12287,1,Colones At 425%,Costa Rica,Portugal
+94,235,1935,5015,1,Colones At 594%,Costa Rica,Portugal
+94,235,1936,670,1,Dolares,Costa Rica,Portugal
+94,235,1937,2254,1,Dolares,Costa Rica,Portugal
+94,235,1938,7769,1,Dolares,Costa Rica,Portugal
+94,235,1939,10901,1,Dolares,Costa Rica,Portugal
+94,235,1940,6620,1,Dolares,Costa Rica,Portugal
+94,235,1941,7389,1,Dolares,Costa Rica,Portugal
+94,235,1942,928,1,Dolares,Costa Rica,Portugal
+94,235,1943,10457,1,Dolares,Costa Rica,Portugal
+94,235,1944,6124,1,Dolares,Costa Rica,Portugal
+94,235,1945,10565,1,Dolares,Costa Rica,Portugal
+94,235,1946,26474,1,Dolares,Costa Rica,Portugal
+94,235,1947,35334,1,Dolares,Costa Rica,Portugal
+94,235,1948,32868,1,Dolares,Costa Rica,Portugal
+94,235,1949,17488,1,Dolares,Costa Rica,Portugal
+94,255,1907,1715575,,,Costa Rica,Germany
+94,255,1908,1750107.91,,,Costa Rica,Germany
+94,255,1909,1755781.89,,,Costa Rica,Germany
+94,255,1911,3627118.84,,,Costa Rica,Germany
+94,255,1912,3199881.61,,,Costa Rica,Germany
+94,255,1915,92427.38,1,,Costa Rica,Germany
+94,255,1916,2880.99,1,Colones,Costa Rica,Germany
+94,255,1917,1202.07,1,Colones,Costa Rica,Germany
+94,255,1919,33622,1,Colones,Costa Rica,Germany
+94,255,1920,6455726,1,Colones,Costa Rica,Germany
+94,255,1921,404125,1,Colones At 215%,Costa Rica,Germany
+94,255,1922,768161,1,Colones At 215%,Costa Rica,Germany
+94,255,1923,1368664,1,Colones At 215%,Costa Rica,Germany
+94,255,1924,3818992,1,Colones At 400%,Costa Rica,Germany
+94,255,1925,5791144,1,Colones At 400%,Costa Rica,Germany
+94,255,1926,6819832,1,Colones At 400%,Costa Rica,Germany
+94,255,1927,10079200,1,Colones At 400%,Costa Rica,Germany
+94,255,1928,11435464,1,Colones At 400%,Costa Rica,Germany
+94,255,1929,14127408,1,Colones At 400%,Costa Rica,Germany
+94,255,1930,5326224,1,Colones At 400%,Costa Rica,Germany
+94,255,1931,3615630,1,Colones At 400%,Costa Rica,Germany
+94,255,1932,2827552,1,Colones At 440%,Costa Rica,Germany
+94,255,1933,3606166,1,Colones At 455%,Costa Rica,Germany
+94,255,1934,4484643,1,Colones At 425%,Costa Rica,Germany
+94,255,1935,14653808,1,Colones At 594%,Costa Rica,Germany
+94,255,1936,2973562,1,Dolares,Costa Rica,Germany
+94,255,1937,2747976,1,Dolares,Costa Rica,Germany
+94,255,1938,2496216,1,Dolares,Costa Rica,Germany
+94,255,1939,2981580,1,Dolares,Costa Rica,Germany
+94,255,1940,591527,1,Dolares,Costa Rica,Germany
+94,255,1941,59752,1,Dolares,Costa Rica,Germany
+94,255,1942,3357,1,Dolares,Costa Rica,Germany
+94,255,1943,0,1,Dolares,Costa Rica,Germany
+94,255,1944,0,1,Dolares,Costa Rica,Germany
+94,255,1945,0,1,Dolares,Costa Rica,Germany
+94,255,1946,0,1,Dolares,Costa Rica,Germany
+94,255,1947,426,1,Dolares,Costa Rica,Germany
+94,255,1948,14696,1,Dolares,Costa Rica,Germany
+94,255,1949,423914,1,Dolares,Costa Rica,Germany
+94,290,1915,0,1,,Costa Rica,Poland
+94,290,1916,0,1,Colones,Costa Rica,Poland
+94,290,1917,0,1,Colones,Costa Rica,Poland
+94,290,1919,0,1,Colones,Costa Rica,Poland
+94,290,1920,0,1,Colones,Costa Rica,Poland
+94,290,1921,0,1,Colones At 215%,Costa Rica,Poland
+94,290,1922,0,1,Colones At 215%,Costa Rica,Poland
+94,290,1923,0,1,Colones At 215%,Costa Rica,Poland
+94,290,1924,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1925,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1926,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1927,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1928,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1929,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1930,0,1,Colones At 400%,Costa Rica,Poland
+94,290,1931,1036,1,Colones At 400%,Costa Rica,Poland
+94,290,1932,657,1,Colones At 440%,Costa Rica,Poland
+94,290,1933,118,1,Colones At 455%,Costa Rica,Poland
+94,290,1934,2257,1,Colones At 425%,Costa Rica,Poland
+94,290,1935,18317,1,Colones At 594%,Costa Rica,Poland
+94,290,1936,4789,1,Dolares,Costa Rica,Poland
+94,290,1937,24486,1,Dolares,Costa Rica,Poland
+94,290,1938,49322,1,Dolares,Costa Rica,Poland
+94,290,1939,51516,1,Dolares,Costa Rica,Poland
+94,290,1940,0,1,Dolares,Costa Rica,Poland
+94,290,1941,0,1,Dolares,Costa Rica,Poland
+94,290,1942,0,1,Dolares,Costa Rica,Poland
+94,290,1943,0,1,Dolares,Costa Rica,Poland
+94,290,1944,0,1,Dolares,Costa Rica,Poland
+94,290,1945,0,1,Dolares,Costa Rica,Poland
+94,290,1946,0,1,Dolares,Costa Rica,Poland
+94,290,1947,0,1,Dolares,Costa Rica,Poland
+94,290,1948,0,1,Dolares,Costa Rica,Poland
+94,290,1949,7,1,Dolares,Costa Rica,Poland
+94,291,1915,0,1,,Costa Rica,Danzig
+94,291,1916,0,1,Colones,Costa Rica,Danzig
+94,291,1917,0,1,Colones,Costa Rica,Danzig
+94,291,1919,0,1,Colones,Costa Rica,Danzig
+94,291,1920,0,1,Colones,Costa Rica,Danzig
+94,291,1921,0,1,Colones At 215%,Costa Rica,Danzig
+94,291,1922,0,1,Colones At 215%,Costa Rica,Danzig
+94,291,1923,0,1,Colones At 215%,Costa Rica,Danzig
+94,291,1924,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1925,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1926,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1927,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1928,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1929,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1930,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1931,0,1,Colones At 400%,Costa Rica,Danzig
+94,291,1932,0,1,Colones At 440%,Costa Rica,Danzig
+94,291,1933,0,1,Colones At 455%,Costa Rica,Danzig
+94,291,1934,0,1,Colones At 425%,Costa Rica,Danzig
+94,291,1935,0,1,Colones At 594%,Costa Rica,Danzig
+94,291,1936,0,1,Dolares,Costa Rica,Danzig
+94,291,1937,0,1,Dolares,Costa Rica,Danzig
+94,291,1938,0,1,Dolares,Costa Rica,Danzig
+94,291,1939,0,1,Dolares,Costa Rica,Danzig
+94,291,1940,0,1,Dolares,Costa Rica,Danzig
+94,291,1941,0,1,Dolares,Costa Rica,Danzig
+94,291,1942,0,1,Dolares,Costa Rica,Danzig
+94,291,1943,0,1,Dolares,Costa Rica,Danzig
+94,291,1944,0,1,Dolares,Costa Rica,Danzig
+94,291,1945,0,1,Dolares,Costa Rica,Danzig
+94,291,1946,0,1,Dolares,Costa Rica,Danzig
+94,291,1947,0,1,Dolares,Costa Rica,Danzig
+94,291,1948,0,1,Dolares,Costa Rica,Danzig
+94,291,1949,0,1,Dolares,Costa Rica,Danzig
+94,305,1908,1558.32,,,Costa Rica,Austria
+94,305,1909,19711.2,,,Costa Rica,Austria
+94,305,1911,2870.25,,,Costa Rica,Austria
+94,305,1912,4712.75,,,Costa Rica,Austria
+94,305,1915,156.95,1,,Costa Rica,Austria
+94,305,1916,0,1,Colones,Costa Rica,Austria
+94,305,1917,0,1,Colones,Costa Rica,Austria
+94,305,1919,0,1,Colones,Costa Rica,Austria
+94,305,1920,0,1,Colones,Costa Rica,Austria
+94,305,1921,331,1,Colones At 215%,Costa Rica,Austria
+94,305,1922,0,1,Colones At 215%,Costa Rica,Austria
+94,305,1923,0,1,Colones At 215%,Costa Rica,Austria
+94,305,1924,0,1,Colones At 400%,Costa Rica,Austria
+94,305,1925,5960,1,Colones At 400%,Costa Rica,Austria
+94,305,1926,1228,1,Colones At 400%,Costa Rica,Austria
+94,305,1927,636,1,Colones At 400%,Costa Rica,Austria
+94,305,1928,1720,1,Colones At 400%,Costa Rica,Austria
+94,305,1929,10356,1,Colones At 400%,Costa Rica,Austria
+94,305,1930,2408,1,Colones At 400%,Costa Rica,Austria
+94,305,1931,18077,1,Colones At 400%,Costa Rica,Austria
+94,305,1932,12084,1,Colones At 440%,Costa Rica,Austria
+94,305,1933,55820,1,Colones At 455%,Costa Rica,Austria
+94,305,1934,44528,1,Colones At 425%,Costa Rica,Austria
+94,305,1935,24197,1,Colones At 594%,Costa Rica,Austria
+94,305,1936,4885,1,Dolares,Costa Rica,Austria
+94,305,1937,13369,1,Dolares,Costa Rica,Austria
+94,305,1938,978,1,Dolares,Costa Rica,Austria
+94,305,1939,0,1,Dolares,Costa Rica,Austria
+94,305,1940,0,1,Dolares,Costa Rica,Austria
+94,305,1941,0,1,Dolares,Costa Rica,Austria
+94,305,1942,98,1,Dolares,Costa Rica,Austria
+94,305,1943,0,1,Dolares,Costa Rica,Austria
+94,305,1944,0,1,Dolares,Costa Rica,Austria
+94,305,1945,0,1,Dolares,Costa Rica,Austria
+94,305,1946,0,1,Dolares,Costa Rica,Austria
+94,305,1947,116,1,Dolares,Costa Rica,Austria
+94,305,1948,129,1,Dolares,Costa Rica,Austria
+94,305,1949,2132,1,Dolares,Costa Rica,Austria
+94,310,1915,0,1,,Costa Rica,Hungary
+94,310,1916,0,1,Colones,Costa Rica,Hungary
+94,310,1917,0,1,Colones,Costa Rica,Hungary
+94,310,1919,0,1,Colones,Costa Rica,Hungary
+94,310,1920,0,1,Colones,Costa Rica,Hungary
+94,310,1921,0,1,Colones At 215%,Costa Rica,Hungary
+94,310,1922,0,1,Colones At 215%,Costa Rica,Hungary
+94,310,1923,0,1,Colones At 215%,Costa Rica,Hungary
+94,310,1924,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1925,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1926,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1927,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1928,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1929,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1930,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1931,0,1,Colones At 400%,Costa Rica,Hungary
+94,310,1932,0,1,Colones At 440%,Costa Rica,Hungary
+94,310,1933,9315,1,Colones At 455%,Costa Rica,Hungary
+94,310,1934,18405,1,Colones At 425%,Costa Rica,Hungary
+94,310,1935,19255,1,Colones At 594%,Costa Rica,Hungary
+94,310,1936,6604,1,Dolares,Costa Rica,Hungary
+94,310,1937,17225,1,Dolares,Costa Rica,Hungary
+94,310,1938,14111,1,Dolares,Costa Rica,Hungary
+94,310,1939,13419,1,Dolares,Costa Rica,Hungary
+94,310,1940,9391,1,Dolares,Costa Rica,Hungary
+94,310,1941,567,1,Dolares,Costa Rica,Hungary
+94,310,1942,192,1,Dolares,Costa Rica,Hungary
+94,310,1943,0,1,Dolares,Costa Rica,Hungary
+94,310,1944,0,1,Dolares,Costa Rica,Hungary
+94,310,1945,0,1,Dolares,Costa Rica,Hungary
+94,310,1946,0,1,Dolares,Costa Rica,Hungary
+94,310,1947,0,1,Dolares,Costa Rica,Hungary
+94,310,1948,1199,1,Dolares,Costa Rica,Hungary
+94,310,1949,1494,1,Dolares,Costa Rica,Hungary
+94,315,1915,0,1,,Costa Rica,Czechoslovakia
+94,315,1916,0,1,Colones,Costa Rica,Czechoslovakia
+94,315,1917,0,1,Colones,Costa Rica,Czechoslovakia
+94,315,1919,0,1,Colones,Costa Rica,Czechoslovakia
+94,315,1920,0,1,Colones,Costa Rica,Czechoslovakia
+94,315,1921,0,1,Colones At 215%,Costa Rica,Czechoslovakia
+94,315,1922,0,1,Colones At 215%,Costa Rica,Czechoslovakia
+94,315,1923,6951,1,Colones At 215%,Costa Rica,Czechoslovakia
+94,315,1924,20692,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1925,12088,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1926,2612,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1927,9380,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1928,5972,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1929,9068,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1930,6568,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1931,46277,1,Colones At 400%,Costa Rica,Czechoslovakia
+94,315,1932,43479,1,Colones At 440%,Costa Rica,Czechoslovakia
+94,315,1933,159200,1,Colones At 455%,Costa Rica,Czechoslovakia
+94,315,1934,294004,1,Colones At 425%,Costa Rica,Czechoslovakia
+94,315,1935,219393,1,Colones At 594%,Costa Rica,Czechoslovakia
+94,315,1936,16478,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1937,32980,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1938,37289,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1939,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1940,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1941,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1942,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1943,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1944,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1945,0,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1946,231,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1947,62852,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1948,45336,1,Dolares,Costa Rica,Czechoslovakia
+94,315,1949,48835,1,Dolares,Costa Rica,Czechoslovakia
+94,317,1915,0,1,,Costa Rica,Slovakia
+94,317,1916,0,1,Colones,Costa Rica,Slovakia
+94,317,1917,0,1,Colones,Costa Rica,Slovakia
+94,317,1919,0,1,Colones,Costa Rica,Slovakia
+94,317,1920,0,1,Colones,Costa Rica,Slovakia
+94,317,1921,0,1,Colones At 215%,Costa Rica,Slovakia
+94,317,1922,0,1,Colones At 215%,Costa Rica,Slovakia
+94,317,1923,0,1,Colones At 215%,Costa Rica,Slovakia
+94,317,1924,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1925,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1926,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1927,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1928,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1929,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1930,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1931,0,1,Colones At 400%,Costa Rica,Slovakia
+94,317,1932,0,1,Colones At 440%,Costa Rica,Slovakia
+94,317,1933,0,1,Colones At 455%,Costa Rica,Slovakia
+94,317,1934,0,1,Colones At 425%,Costa Rica,Slovakia
+94,317,1935,0,1,Colones At 594%,Costa Rica,Slovakia
+94,317,1936,0,1,Dolares,Costa Rica,Slovakia
+94,317,1937,0,1,Dolares,Costa Rica,Slovakia
+94,317,1938,0,1,Dolares,Costa Rica,Slovakia
+94,317,1939,14019,1,Dolares,Costa Rica,Slovakia
+94,317,1940,0,1,Dolares,Costa Rica,Slovakia
+94,317,1941,0,1,Dolares,Costa Rica,Slovakia
+94,317,1942,102,1,Dolares,Costa Rica,Slovakia
+94,317,1943,0,1,Dolares,Costa Rica,Slovakia
+94,317,1944,0,1,Dolares,Costa Rica,Slovakia
+94,317,1945,0,1,Dolares,Costa Rica,Slovakia
+94,317,1946,0,1,Dolares,Costa Rica,Slovakia
+94,317,1947,0,1,Dolares,Costa Rica,Slovakia
+94,317,1948,0,1,Dolares,Costa Rica,Slovakia
+94,317,1949,0,1,Dolares,Costa Rica,Slovakia
+94,325,1907,401321,,,Costa Rica,Italy
+94,325,1908,254308.55,,,Costa Rica,Italy
+94,325,1909,341206.82,,,Costa Rica,Italy
+94,325,1911,527523.11,,,Costa Rica,Italy
+94,325,1912,390826.19,,,Costa Rica,Italy
+94,325,1915,295947.17,1,,Costa Rica,Italy
+94,325,1916,268651.63,1,Colones,Costa Rica,Italy
+94,325,1917,179627.22,1,Colones,Costa Rica,Italy
+94,325,1919,44134,1,Colones,Costa Rica,Italy
+94,325,1920,1135145,1,Colones,Costa Rica,Italy
+94,325,1921,260160,1,Colones At 215%,Costa Rica,Italy
+94,325,1922,149332,1,Colones At 215%,Costa Rica,Italy
+94,325,1923,320113,1,Colones At 215%,Costa Rica,Italy
+94,325,1924,674760,1,Colones At 400%,Costa Rica,Italy
+94,325,1925,1056784,1,Colones At 400%,Costa Rica,Italy
+94,325,1926,1229784,1,Colones At 400%,Costa Rica,Italy
+94,325,1927,1723772,1,Colones At 400%,Costa Rica,Italy
+94,325,1928,1206088,1,Colones At 400%,Costa Rica,Italy
+94,325,1929,1631684,1,Colones At 400%,Costa Rica,Italy
+94,325,1930,1062200,1,Colones At 400%,Costa Rica,Italy
+94,325,1931,624359,1,Colones At 400%,Costa Rica,Italy
+94,325,1932,660259,1,Colones At 440%,Costa Rica,Italy
+94,325,1933,809597,1,Colones At 455%,Costa Rica,Italy
+94,325,1934,1285983,1,Colones At 425%,Costa Rica,Italy
+94,325,1935,1297814,1,Colones At 594%,Costa Rica,Italy
+94,325,1936,158408,1,Dolares,Costa Rica,Italy
+94,325,1937,300796,1,Dolares,Costa Rica,Italy
+94,325,1938,286095,1,Dolares,Costa Rica,Italy
+94,325,1939,281554,1,Dolares,Costa Rica,Italy
+94,325,1940,365321,1,Dolares,Costa Rica,Italy
+94,325,1941,15807,1,Dolares,Costa Rica,Italy
+94,325,1942,364,1,Dolares,Costa Rica,Italy
+94,325,1943,285,1,Dolares,Costa Rica,Italy
+94,325,1944,0,1,Dolares,Costa Rica,Italy
+94,325,1945,0,1,Dolares,Costa Rica,Italy
+94,325,1946,43687,1,Dolares,Costa Rica,Italy
+94,325,1947,290196,1,Dolares,Costa Rica,Italy
+94,325,1948,280811,1,Dolares,Costa Rica,Italy
+94,325,1949,432011,1,Dolares,Costa Rica,Italy
+94,345,1915,0,1,,Costa Rica,Yugoslavia
+94,345,1916,0,1,Colones,Costa Rica,Yugoslavia
+94,345,1917,0,1,Colones,Costa Rica,Yugoslavia
+94,345,1919,0,1,Colones,Costa Rica,Yugoslavia
+94,345,1920,0,1,Colones,Costa Rica,Yugoslavia
+94,345,1921,0,1,Colones At 215%,Costa Rica,Yugoslavia
+94,345,1922,0,1,Colones At 215%,Costa Rica,Yugoslavia
+94,345,1923,0,1,Colones At 215%,Costa Rica,Yugoslavia
+94,345,1924,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1925,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1926,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1927,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1928,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1929,0,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1930,2924,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1931,977,1,Colones At 400%,Costa Rica,Yugoslavia
+94,345,1932,23730,1,Colones At 440%,Costa Rica,Yugoslavia
+94,345,1933,3632,1,Colones At 455%,Costa Rica,Yugoslavia
+94,345,1934,16899,1,Colones At 425%,Costa Rica,Yugoslavia
+94,345,1935,15987,1,Colones At 594%,Costa Rica,Yugoslavia
+94,345,1936,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1937,12528,1,Dolares,Costa Rica,Yugoslavia
+94,345,1938,1823,1,Dolares,Costa Rica,Yugoslavia
+94,345,1939,992,1,Dolares,Costa Rica,Yugoslavia
+94,345,1940,6760,1,Dolares,Costa Rica,Yugoslavia
+94,345,1941,14,1,Dolares,Costa Rica,Yugoslavia
+94,345,1942,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1943,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1944,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1945,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1946,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1947,0,1,Dolares,Costa Rica,Yugoslavia
+94,345,1948,6428,1,Dolares,Costa Rica,Yugoslavia
+94,345,1949,203,1,Dolares,Costa Rica,Yugoslavia
+94,350,1915,0,1,,Costa Rica,Greece
+94,350,1916,0,1,Colones,Costa Rica,Greece
+94,350,1917,0,1,Colones,Costa Rica,Greece
+94,350,1919,0,1,Colones,Costa Rica,Greece
+94,350,1920,0,1,Colones,Costa Rica,Greece
+94,350,1921,5375,1,Colones At 215%,Costa Rica,Greece
+94,350,1922,1617,1,Colones At 215%,Costa Rica,Greece
+94,350,1923,0,1,Colones At 215%,Costa Rica,Greece
+94,350,1924,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1925,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1926,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1927,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1928,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1929,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1930,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1931,0,1,Colones At 400%,Costa Rica,Greece
+94,350,1932,0,1,Colones At 440%,Costa Rica,Greece
+94,350,1933,1502,1,Colones At 455%,Costa Rica,Greece
+94,350,1934,520,1,Colones At 425%,Costa Rica,Greece
+94,350,1935,0,1,Colones At 594%,Costa Rica,Greece
+94,350,1936,0,1,Dolares,Costa Rica,Greece
+94,350,1937,368,1,Dolares,Costa Rica,Greece
+94,350,1938,1,1,Dolares,Costa Rica,Greece
+94,350,1939,354,1,Dolares,Costa Rica,Greece
+94,350,1940,48,1,Dolares,Costa Rica,Greece
+94,350,1941,0,1,Dolares,Costa Rica,Greece
+94,350,1942,294,1,Dolares,Costa Rica,Greece
+94,350,1943,4257,1,Dolares,Costa Rica,Greece
+94,350,1944,0,1,Dolares,Costa Rica,Greece
+94,350,1945,0,1,Dolares,Costa Rica,Greece
+94,350,1946,0,1,Dolares,Costa Rica,Greece
+94,350,1947,0,1,Dolares,Costa Rica,Greece
+94,350,1948,0,1,Dolares,Costa Rica,Greece
+94,350,1949,0,1,Dolares,Costa Rica,Greece
+94,355,1915,0,1,,Costa Rica,Bulgaria
+94,355,1916,0,1,Colones,Costa Rica,Bulgaria
+94,355,1917,0,1,Colones,Costa Rica,Bulgaria
+94,355,1919,0,1,Colones,Costa Rica,Bulgaria
+94,355,1920,0,1,Colones,Costa Rica,Bulgaria
+94,355,1921,0,1,Colones At 215%,Costa Rica,Bulgaria
+94,355,1922,0,1,Colones At 215%,Costa Rica,Bulgaria
+94,355,1923,0,1,Colones At 215%,Costa Rica,Bulgaria
+94,355,1924,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1925,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1926,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1927,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1928,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1929,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1930,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1931,0,1,Colones At 400%,Costa Rica,Bulgaria
+94,355,1932,0,1,Colones At 440%,Costa Rica,Bulgaria
+94,355,1933,0,1,Colones At 455%,Costa Rica,Bulgaria
+94,355,1934,0,1,Colones At 425%,Costa Rica,Bulgaria
+94,355,1935,0,1,Colones At 594%,Costa Rica,Bulgaria
+94,355,1936,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1937,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1938,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1939,57,1,Dolares,Costa Rica,Bulgaria
+94,355,1940,23,1,Dolares,Costa Rica,Bulgaria
+94,355,1941,211,1,Dolares,Costa Rica,Bulgaria
+94,355,1942,138,1,Dolares,Costa Rica,Bulgaria
+94,355,1943,30,1,Dolares,Costa Rica,Bulgaria
+94,355,1944,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1945,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1946,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1947,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1948,0,1,Dolares,Costa Rica,Bulgaria
+94,355,1949,0,1,Dolares,Costa Rica,Bulgaria
+94,365,1912,500.95,,,Costa Rica,Russia
+94,365,1915,0,1,,Costa Rica,Russia
+94,365,1916,0,1,Colones,Costa Rica,Russia
+94,365,1917,0,1,Colones,Costa Rica,Russia
+94,365,1919,0,1,Colones,Costa Rica,Russia
+94,365,1920,0,1,Colones,Costa Rica,Russia
+94,365,1921,0,1,Colones At 215%,Costa Rica,Russia
+94,365,1922,0,1,Colones At 215%,Costa Rica,Russia
+94,365,1923,0,1,Colones At 215%,Costa Rica,Russia
+94,365,1924,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1925,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1926,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1927,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1928,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1929,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1930,0,1,Colones At 400%,Costa Rica,Russia
+94,365,1931,146,1,Colones At 400%,Costa Rica,Russia
+94,365,1932,1614,1,Colones At 440%,Costa Rica,Russia
+94,365,1933,526,1,Colones At 455%,Costa Rica,Russia
+94,365,1934,5166,1,Colones At 425%,Costa Rica,Russia
+94,365,1935,3585,1,Colones At 594%,Costa Rica,Russia
+94,365,1936,181,1,Dolares,Costa Rica,Russia
+94,365,1937,208,1,Dolares,Costa Rica,Russia
+94,365,1938,402,1,Dolares,Costa Rica,Russia
+94,365,1939,515,1,Dolares,Costa Rica,Russia
+94,365,1940,727,1,Dolares,Costa Rica,Russia
+94,365,1941,461,1,Dolares,Costa Rica,Russia
+94,365,1942,118,1,Dolares,Costa Rica,Russia
+94,365,1943,217,1,Dolares,Costa Rica,Russia
+94,365,1944,0,1,Dolares,Costa Rica,Russia
+94,365,1945,0,1,Dolares,Costa Rica,Russia
+94,365,1946,940,1,Dolares,Costa Rica,Russia
+94,365,1947,2041,1,Dolares,Costa Rica,Russia
+94,365,1948,750,1,Dolares,Costa Rica,Russia
+94,365,1949,42,1,Dolares,Costa Rica,Russia
+94,366,1915,0,1,,Costa Rica,Estonia
+94,366,1916,0,1,Colones,Costa Rica,Estonia
+94,366,1917,0,1,Colones,Costa Rica,Estonia
+94,366,1919,0,1,Colones,Costa Rica,Estonia
+94,366,1920,0,1,Colones,Costa Rica,Estonia
+94,366,1921,0,1,Colones At 215%,Costa Rica,Estonia
+94,366,1922,0,1,Colones At 215%,Costa Rica,Estonia
+94,366,1923,0,1,Colones At 215%,Costa Rica,Estonia
+94,366,1924,0,1,Colones At 400%,Costa Rica,Estonia
+94,366,1925,0,1,Colones At 400%,Costa Rica,Estonia
+94,366,1926,5724,1,Colones At 400%,Costa Rica,Estonia
+94,366,1927,0,1,Colones At 400%,Costa Rica,Estonia
+94,366,1928,0,1,Colones At 400%,Costa Rica,Estonia
+94,366,1929,1000,1,Colones At 400%,Costa Rica,Estonia
+94,366,1930,0,1,Colones At 400%,Costa Rica,Estonia
+94,366,1931,11084,1,Colones At 400%,Costa Rica,Estonia
+94,366,1932,0,1,Colones At 440%,Costa Rica,Estonia
+94,366,1933,0,1,Colones At 455%,Costa Rica,Estonia
+94,366,1934,3327,1,Colones At 425%,Costa Rica,Estonia
+94,366,1935,7738,1,Colones At 594%,Costa Rica,Estonia
+94,366,1936,586,1,Dolares,Costa Rica,Estonia
+94,366,1937,8758,1,Dolares,Costa Rica,Estonia
+94,366,1938,13897,1,Dolares,Costa Rica,Estonia
+94,366,1939,1598,1,Dolares,Costa Rica,Estonia
+94,366,1940,1501,1,Dolares,Costa Rica,Estonia
+94,366,1941,0,1,Dolares,Costa Rica,Estonia
+94,366,1942,0,1,Dolares,Costa Rica,Estonia
+94,366,1943,0,1,Dolares,Costa Rica,Estonia
+94,366,1944,0,1,Dolares,Costa Rica,Estonia
+94,366,1945,0,1,Dolares,Costa Rica,Estonia
+94,366,1946,0,1,Dolares,Costa Rica,Estonia
+94,366,1947,0,1,Dolares,Costa Rica,Estonia
+94,366,1948,0,1,Dolares,Costa Rica,Estonia
+94,366,1949,0,1,Dolares,Costa Rica,Estonia
+94,367,1915,0,1,,Costa Rica,Latvia
+94,367,1916,0,1,Colones,Costa Rica,Latvia
+94,367,1917,0,1,Colones,Costa Rica,Latvia
+94,367,1919,0,1,Colones,Costa Rica,Latvia
+94,367,1920,0,1,Colones,Costa Rica,Latvia
+94,367,1921,0,1,Colones At 215%,Costa Rica,Latvia
+94,367,1922,0,1,Colones At 215%,Costa Rica,Latvia
+94,367,1923,0,1,Colones At 215%,Costa Rica,Latvia
+94,367,1924,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1925,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1926,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1927,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1928,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1929,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1930,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1931,0,1,Colones At 400%,Costa Rica,Latvia
+94,367,1932,0,1,Colones At 440%,Costa Rica,Latvia
+94,367,1933,0,1,Colones At 455%,Costa Rica,Latvia
+94,367,1934,0,1,Colones At 425%,Costa Rica,Latvia
+94,367,1935,1346,1,Colones At 594%,Costa Rica,Latvia
+94,367,1936,0,1,Dolares,Costa Rica,Latvia
+94,367,1937,444,1,Dolares,Costa Rica,Latvia
+94,367,1938,1231,1,Dolares,Costa Rica,Latvia
+94,367,1939,521,1,Dolares,Costa Rica,Latvia
+94,367,1940,0,1,Dolares,Costa Rica,Latvia
+94,367,1941,0,1,Dolares,Costa Rica,Latvia
+94,367,1942,0,1,Dolares,Costa Rica,Latvia
+94,367,1943,0,1,Dolares,Costa Rica,Latvia
+94,367,1944,0,1,Dolares,Costa Rica,Latvia
+94,367,1945,0,1,Dolares,Costa Rica,Latvia
+94,367,1946,0,1,Dolares,Costa Rica,Latvia
+94,367,1947,0,1,Dolares,Costa Rica,Latvia
+94,367,1948,0,1,Dolares,Costa Rica,Latvia
+94,367,1949,0,1,Dolares,Costa Rica,Latvia
+94,368,1915,0,1,,Costa Rica,Lithuania
+94,368,1916,0,1,Colones,Costa Rica,Lithuania
+94,368,1917,0,1,Colones,Costa Rica,Lithuania
+94,368,1919,0,1,Colones,Costa Rica,Lithuania
+94,368,1920,0,1,Colones,Costa Rica,Lithuania
+94,368,1921,0,1,Colones At 215%,Costa Rica,Lithuania
+94,368,1922,0,1,Colones At 215%,Costa Rica,Lithuania
+94,368,1923,0,1,Colones At 215%,Costa Rica,Lithuania
+94,368,1924,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1925,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1926,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1927,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1928,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1929,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1930,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1931,0,1,Colones At 400%,Costa Rica,Lithuania
+94,368,1932,0,1,Colones At 440%,Costa Rica,Lithuania
+94,368,1933,0,1,Colones At 455%,Costa Rica,Lithuania
+94,368,1934,0,1,Colones At 425%,Costa Rica,Lithuania
+94,368,1935,0,1,Colones At 594%,Costa Rica,Lithuania
+94,368,1936,0,1,Dolares,Costa Rica,Lithuania
+94,368,1937,0,1,Dolares,Costa Rica,Lithuania
+94,368,1938,0,1,Dolares,Costa Rica,Lithuania
+94,368,1939,0,1,Dolares,Costa Rica,Lithuania
+94,368,1940,0,1,Dolares,Costa Rica,Lithuania
+94,368,1941,0,1,Dolares,Costa Rica,Lithuania
+94,368,1942,0,1,Dolares,Costa Rica,Lithuania
+94,368,1943,0,1,Dolares,Costa Rica,Lithuania
+94,368,1944,0,1,Dolares,Costa Rica,Lithuania
+94,368,1945,0,1,Dolares,Costa Rica,Lithuania
+94,368,1946,0,1,Dolares,Costa Rica,Lithuania
+94,368,1947,0,1,Dolares,Costa Rica,Lithuania
+94,368,1948,0,1,Dolares,Costa Rica,Lithuania
+94,368,1949,0,1,Dolares,Costa Rica,Lithuania
+94,375,1915,0,1,,Costa Rica,Finland
+94,375,1916,0,1,Colones,Costa Rica,Finland
+94,375,1917,0,1,Colones,Costa Rica,Finland
+94,375,1919,0,1,Colones,Costa Rica,Finland
+94,375,1920,0,1,Colones,Costa Rica,Finland
+94,375,1921,0,1,Colones At 215%,Costa Rica,Finland
+94,375,1922,0,1,Colones At 215%,Costa Rica,Finland
+94,375,1923,0,1,Colones At 215%,Costa Rica,Finland
+94,375,1924,0,1,Colones At 400%,Costa Rica,Finland
+94,375,1925,0,1,Colones At 400%,Costa Rica,Finland
+94,375,1926,0,1,Colones At 400%,Costa Rica,Finland
+94,375,1927,0,1,Colones At 400%,Costa Rica,Finland
+94,375,1928,0,1,Colones At 400%,Costa Rica,Finland
+94,375,1929,3516,1,Colones At 400%,Costa Rica,Finland
+94,375,1930,6880,1,Colones At 400%,Costa Rica,Finland
+94,375,1931,8259,1,Colones At 400%,Costa Rica,Finland
+94,375,1932,8590,1,Colones At 440%,Costa Rica,Finland
+94,375,1933,6373,1,Colones At 455%,Costa Rica,Finland
+94,375,1934,2373,1,Colones At 425%,Costa Rica,Finland
+94,375,1935,11531,1,Colones At 594%,Costa Rica,Finland
+94,375,1936,4404,1,Dolares,Costa Rica,Finland
+94,375,1937,13588,1,Dolares,Costa Rica,Finland
+94,375,1938,17824,1,Dolares,Costa Rica,Finland
+94,375,1939,36795,1,Dolares,Costa Rica,Finland
+94,375,1940,12429,1,Dolares,Costa Rica,Finland
+94,375,1941,3154,1,Dolares,Costa Rica,Finland
+94,375,1942,0,1,Dolares,Costa Rica,Finland
+94,375,1943,0,1,Dolares,Costa Rica,Finland
+94,375,1944,0,1,Dolares,Costa Rica,Finland
+94,375,1945,0,1,Dolares,Costa Rica,Finland
+94,375,1946,574,1,Dolares,Costa Rica,Finland
+94,375,1947,1440,1,Dolares,Costa Rica,Finland
+94,375,1948,20624,1,Dolares,Costa Rica,Finland
+94,375,1949,0,1,Dolares,Costa Rica,Finland
+94,380,1911,991.15,,,Costa Rica,Sweden
+94,380,1912,419.25,,,Costa Rica,Sweden
+94,380,1915,31880.2,1,,Costa Rica,Sweden
+94,380,1916,66647.85000000001,1,Colones,Costa Rica,Sweden
+94,380,1917,24995.9,1,Colones,Costa Rica,Sweden
+94,380,1919,28509,1,Colones,Costa Rica,Sweden
+94,380,1920,92408,1,Colones,Costa Rica,Sweden
+94,380,1921,68095,1,Colones At 215%,Costa Rica,Sweden
+94,380,1922,78587,1,Colones At 215%,Costa Rica,Sweden
+94,380,1923,68951,1,Colones At 215%,Costa Rica,Sweden
+94,380,1924,229280,1,Colones At 400%,Costa Rica,Sweden
+94,380,1925,190516,1,Colones At 400%,Costa Rica,Sweden
+94,380,1926,199624,1,Colones At 400%,Costa Rica,Sweden
+94,380,1927,138048,1,Colones At 400%,Costa Rica,Sweden
+94,380,1928,208024,1,Colones At 400%,Costa Rica,Sweden
+94,380,1929,559364,1,Colones At 400%,Costa Rica,Sweden
+94,380,1930,260060,1,Colones At 400%,Costa Rica,Sweden
+94,380,1931,317065,1,Colones At 400%,Costa Rica,Sweden
+94,380,1932,311555,1,Colones At 440%,Costa Rica,Sweden
+94,380,1933,245759,1,Colones At 455%,Costa Rica,Sweden
+94,380,1934,282793,1,Colones At 425%,Costa Rica,Sweden
+94,380,1935,194574,1,Colones At 594%,Costa Rica,Sweden
+94,380,1936,28081,1,Dolares,Costa Rica,Sweden
+94,380,1937,44177,1,Dolares,Costa Rica,Sweden
+94,380,1938,76220,1,Dolares,Costa Rica,Sweden
+94,380,1939,91634,1,Dolares,Costa Rica,Sweden
+94,380,1940,31062,1,Dolares,Costa Rica,Sweden
+94,380,1941,63960,1,Dolares,Costa Rica,Sweden
+94,380,1942,5056,1,Dolares,Costa Rica,Sweden
+94,380,1943,0,1,Dolares,Costa Rica,Sweden
+94,380,1944,0,1,Dolares,Costa Rica,Sweden
+94,380,1945,45264,1,Dolares,Costa Rica,Sweden
+94,380,1946,402447,1,Dolares,Costa Rica,Sweden
+94,380,1947,348887,1,Dolares,Costa Rica,Sweden
+94,380,1948,347423,1,Dolares,Costa Rica,Sweden
+94,380,1949,234477,1,Dolares,Costa Rica,Sweden
+94,385,1912,40.85,,,Costa Rica,Norway
+94,385,1915,4564.45,1,,Costa Rica,Norway
+94,385,1916,5979.15,1,Colones,Costa Rica,Norway
+94,385,1917,6871.4,1,Colones,Costa Rica,Norway
+94,385,1919,1124,1,Colones,Costa Rica,Norway
+94,385,1920,1441,1,Colones,Costa Rica,Norway
+94,385,1921,370,1,Colones At 215%,Costa Rica,Norway
+94,385,1922,9555,1,Colones At 215%,Costa Rica,Norway
+94,385,1923,18429,1,Colones At 215%,Costa Rica,Norway
+94,385,1924,63188,1,Colones At 400%,Costa Rica,Norway
+94,385,1925,60924,1,Colones At 400%,Costa Rica,Norway
+94,385,1926,151024,1,Colones At 400%,Costa Rica,Norway
+94,385,1927,39920,1,Colones At 400%,Costa Rica,Norway
+94,385,1928,94896,1,Colones At 400%,Costa Rica,Norway
+94,385,1929,294996,1,Colones At 400%,Costa Rica,Norway
+94,385,1930,958596,1,Colones At 400%,Costa Rica,Norway
+94,385,1931,683983,1,Colones At 400%,Costa Rica,Norway
+94,385,1932,144409,1,Colones At 440%,Costa Rica,Norway
+94,385,1933,344749,1,Colones At 455%,Costa Rica,Norway
+94,385,1934,443487,1,Colones At 425%,Costa Rica,Norway
+94,385,1935,205039,1,Colones At 594%,Costa Rica,Norway
+94,385,1936,24995,1,Dolares,Costa Rica,Norway
+94,385,1937,23884,1,Dolares,Costa Rica,Norway
+94,385,1938,61721,1,Dolares,Costa Rica,Norway
+94,385,1939,48733,1,Dolares,Costa Rica,Norway
+94,385,1940,107057,1,Dolares,Costa Rica,Norway
+94,385,1941,60,1,Dolares,Costa Rica,Norway
+94,385,1942,12,1,Dolares,Costa Rica,Norway
+94,385,1943,71,1,Dolares,Costa Rica,Norway
+94,385,1944,0,1,Dolares,Costa Rica,Norway
+94,385,1945,0,1,Dolares,Costa Rica,Norway
+94,385,1946,22057,1,Dolares,Costa Rica,Norway
+94,385,1947,47798,1,Dolares,Costa Rica,Norway
+94,385,1948,103409,1,Dolares,Costa Rica,Norway
+94,385,1949,64054,1,Dolares,Costa Rica,Norway
+94,390,1908,3025.6305,,,Costa Rica,Denmark
+94,390,1909,2059.7,,,Costa Rica,Denmark
+94,390,1911,169.85,,,Costa Rica,Denmark
+94,390,1912,754.65,,,Costa Rica,Denmark
+94,390,1915,13448.25,1,,Costa Rica,Denmark
+94,390,1916,44601.75,1,Colones,Costa Rica,Denmark
+94,390,1917,8694.6,1,Colones,Costa Rica,Denmark
+94,390,1919,3965,1,Colones,Costa Rica,Denmark
+94,390,1920,60795,1,Colones,Costa Rica,Denmark
+94,390,1921,30122,1,Colones At 215%,Costa Rica,Denmark
+94,390,1922,8335,1,Colones At 215%,Costa Rica,Denmark
+94,390,1923,27318,1,Colones At 215%,Costa Rica,Denmark
+94,390,1924,72344,1,Colones At 400%,Costa Rica,Denmark
+94,390,1925,90084,1,Colones At 400%,Costa Rica,Denmark
+94,390,1926,68620,1,Colones At 400%,Costa Rica,Denmark
+94,390,1927,49908,1,Colones At 400%,Costa Rica,Denmark
+94,390,1928,91204,1,Colones At 400%,Costa Rica,Denmark
+94,390,1929,68096,1,Colones At 400%,Costa Rica,Denmark
+94,390,1930,91972,1,Colones At 400%,Costa Rica,Denmark
+94,390,1931,168267,1,Colones At 400%,Costa Rica,Denmark
+94,390,1932,103498,1,Colones At 440%,Costa Rica,Denmark
+94,390,1933,98334,1,Colones At 455%,Costa Rica,Denmark
+94,390,1934,211481,1,Colones At 425%,Costa Rica,Denmark
+94,390,1935,64058,1,Colones At 594%,Costa Rica,Denmark
+94,390,1936,10712,1,Dolares,Costa Rica,Denmark
+94,390,1937,21120,1,Dolares,Costa Rica,Denmark
+94,390,1938,37905,1,Dolares,Costa Rica,Denmark
+94,390,1939,29144,1,Dolares,Costa Rica,Denmark
+94,390,1940,3185,1,Dolares,Costa Rica,Denmark
+94,390,1941,0,1,Dolares,Costa Rica,Denmark
+94,390,1942,0,1,Dolares,Costa Rica,Denmark
+94,390,1943,579,1,Dolares,Costa Rica,Denmark
+94,390,1944,0,1,Dolares,Costa Rica,Denmark
+94,390,1945,0,1,Dolares,Costa Rica,Denmark
+94,390,1946,4197,1,Dolares,Costa Rica,Denmark
+94,390,1947,10776,1,Dolares,Costa Rica,Denmark
+94,390,1948,26156,1,Dolares,Costa Rica,Denmark
+94,390,1949,10168,1,Dolares,Costa Rica,Denmark
+94,395,1915,0,1,,Costa Rica,Iceland
+94,395,1916,0,1,Colones,Costa Rica,Iceland
+94,395,1917,0,1,Colones,Costa Rica,Iceland
+94,395,1919,0,1,Colones,Costa Rica,Iceland
+94,395,1920,0,1,Colones,Costa Rica,Iceland
+94,395,1921,0,1,Colones At 215%,Costa Rica,Iceland
+94,395,1922,0,1,Colones At 215%,Costa Rica,Iceland
+94,395,1923,0,1,Colones At 215%,Costa Rica,Iceland
+94,395,1924,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1925,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1926,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1927,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1928,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1929,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1930,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1931,0,1,Colones At 400%,Costa Rica,Iceland
+94,395,1932,0,1,Colones At 440%,Costa Rica,Iceland
+94,395,1933,0,1,Colones At 455%,Costa Rica,Iceland
+94,395,1934,0,1,Colones At 425%,Costa Rica,Iceland
+94,395,1935,0,1,Colones At 594%,Costa Rica,Iceland
+94,395,1936,0,1,Dolares,Costa Rica,Iceland
+94,395,1937,0,1,Dolares,Costa Rica,Iceland
+94,395,1938,0,1,Dolares,Costa Rica,Iceland
+94,395,1939,0,1,Dolares,Costa Rica,Iceland
+94,395,1940,0,1,Dolares,Costa Rica,Iceland
+94,395,1941,288,1,Dolares,Costa Rica,Iceland
+94,395,1942,0,1,Dolares,Costa Rica,Iceland
+94,395,1943,0,1,Dolares,Costa Rica,Iceland
+94,395,1944,0,1,Dolares,Costa Rica,Iceland
+94,395,1945,561,1,Dolares,Costa Rica,Iceland
+94,395,1946,0,1,Dolares,Costa Rica,Iceland
+94,395,1947,0,1,Dolares,Costa Rica,Iceland
+94,395,1948,1331,1,Dolares,Costa Rica,Iceland
+94,395,1949,0,1,Dolares,Costa Rica,Iceland
+94,410,1915,0,1,,Costa Rica,Canary Islands
+94,410,1916,0,1,Colones,Costa Rica,Canary Islands
+94,410,1917,0,1,Colones,Costa Rica,Canary Islands
+94,410,1919,0,1,Colones,Costa Rica,Canary Islands
+94,410,1920,0,1,Colones,Costa Rica,Canary Islands
+94,410,1921,0,1,Colones At 215%,Costa Rica,Canary Islands
+94,410,1922,0,1,Colones At 215%,Costa Rica,Canary Islands
+94,410,1923,0,1,Colones At 215%,Costa Rica,Canary Islands
+94,410,1924,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1925,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1926,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1927,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1928,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1929,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1930,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1931,0,1,Colones At 400%,Costa Rica,Canary Islands
+94,410,1932,0,1,Colones At 440%,Costa Rica,Canary Islands
+94,410,1933,0,1,Colones At 455%,Costa Rica,Canary Islands
+94,410,1934,0,1,Colones At 425%,Costa Rica,Canary Islands
+94,410,1935,0,1,Colones At 594%,Costa Rica,Canary Islands
+94,410,1936,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1937,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1938,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1939,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1940,307,1,Dolares,Costa Rica,Canary Islands
+94,410,1941,199,1,Dolares,Costa Rica,Canary Islands
+94,410,1942,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1943,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1944,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1945,0,1,Dolares,Costa Rica,Canary Islands
+94,410,1946,249,1,Dolares,Costa Rica,Canary Islands
+94,410,1947,559,1,Dolares,Costa Rica,Canary Islands
+94,410,1948,159,1,Dolares,Costa Rica,Canary Islands
+94,410,1949,3290,1,Dolares,Costa Rica,Canary Islands
+94,511,1915,0,1,,Costa Rica,Zanzibar
+94,511,1916,0,1,Colones,Costa Rica,Zanzibar
+94,511,1917,0,1,Colones,Costa Rica,Zanzibar
+94,511,1919,0,1,Colones,Costa Rica,Zanzibar
+94,511,1920,0,1,Colones,Costa Rica,Zanzibar
+94,511,1921,0,1,Colones At 215%,Costa Rica,Zanzibar
+94,511,1922,0,1,Colones At 215%,Costa Rica,Zanzibar
+94,511,1923,0,1,Colones At 215%,Costa Rica,Zanzibar
+94,511,1924,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1925,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1926,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1927,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1928,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1929,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1930,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1931,0,1,Colones At 400%,Costa Rica,Zanzibar
+94,511,1932,0,1,Colones At 440%,Costa Rica,Zanzibar
+94,511,1933,0,1,Colones At 455%,Costa Rica,Zanzibar
+94,511,1934,0,1,Colones At 425%,Costa Rica,Zanzibar
+94,511,1935,0,1,Colones At 594%,Costa Rica,Zanzibar
+94,511,1936,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1937,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1938,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1939,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1940,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1941,506,1,Dolares,Costa Rica,Zanzibar
+94,511,1942,221,1,Dolares,Costa Rica,Zanzibar
+94,511,1943,367,1,Dolares,Costa Rica,Zanzibar
+94,511,1944,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1945,262,1,Dolares,Costa Rica,Zanzibar
+94,511,1946,338,1,Dolares,Costa Rica,Zanzibar
+94,511,1947,37,1,Dolares,Costa Rica,Zanzibar
+94,511,1948,0,1,Dolares,Costa Rica,Zanzibar
+94,511,1949,0,1,Dolares,Costa Rica,Zanzibar
+94,521,1915,0,1,,Costa Rica,British Somaliland
+94,521,1916,0,1,Colones,Costa Rica,British Somaliland
+94,521,1917,0,1,Colones,Costa Rica,British Somaliland
+94,521,1919,0,1,Colones,Costa Rica,British Somaliland
+94,521,1920,0,1,Colones,Costa Rica,British Somaliland
+94,521,1921,0,1,Colones At 215%,Costa Rica,British Somaliland
+94,521,1922,0,1,Colones At 215%,Costa Rica,British Somaliland
+94,521,1923,0,1,Colones At 215%,Costa Rica,British Somaliland
+94,521,1924,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1925,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1926,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1927,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1928,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1929,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1930,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1931,0,1,Colones At 400%,Costa Rica,British Somaliland
+94,521,1932,0,1,Colones At 440%,Costa Rica,British Somaliland
+94,521,1933,0,1,Colones At 455%,Costa Rica,British Somaliland
+94,521,1934,0,1,Colones At 425%,Costa Rica,British Somaliland
+94,521,1935,0,1,Colones At 594%,Costa Rica,British Somaliland
+94,521,1936,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1937,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1938,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1939,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1940,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1941,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1942,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1943,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1944,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1945,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1946,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1947,30,1,Dolares,Costa Rica,British Somaliland
+94,521,1948,0,1,Dolares,Costa Rica,British Somaliland
+94,521,1949,87,1,Dolares,Costa Rica,British Somaliland
+94,541,1915,0,1,,Costa Rica,Mozambique
+94,541,1916,0,1,Colones,Costa Rica,Mozambique
+94,541,1917,0,1,Colones,Costa Rica,Mozambique
+94,541,1919,0,1,Colones,Costa Rica,Mozambique
+94,541,1920,0,1,Colones,Costa Rica,Mozambique
+94,541,1921,0,1,Colones At 215%,Costa Rica,Mozambique
+94,541,1922,0,1,Colones At 215%,Costa Rica,Mozambique
+94,541,1923,0,1,Colones At 215%,Costa Rica,Mozambique
+94,541,1924,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1925,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1926,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1927,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1928,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1929,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1930,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1931,0,1,Colones At 400%,Costa Rica,Mozambique
+94,541,1932,0,1,Colones At 440%,Costa Rica,Mozambique
+94,541,1933,0,1,Colones At 455%,Costa Rica,Mozambique
+94,541,1934,0,1,Colones At 425%,Costa Rica,Mozambique
+94,541,1935,0,1,Colones At 594%,Costa Rica,Mozambique
+94,541,1936,0,1,Dolares,Costa Rica,Mozambique
+94,541,1937,0,1,Dolares,Costa Rica,Mozambique
+94,541,1938,0,1,Dolares,Costa Rica,Mozambique
+94,541,1939,0,1,Dolares,Costa Rica,Mozambique
+94,541,1940,0,1,Dolares,Costa Rica,Mozambique
+94,541,1941,0,1,Dolares,Costa Rica,Mozambique
+94,541,1942,981,1,Dolares,Costa Rica,Mozambique
+94,541,1943,0,1,Dolares,Costa Rica,Mozambique
+94,541,1944,0,1,Dolares,Costa Rica,Mozambique
+94,541,1945,0,1,Dolares,Costa Rica,Mozambique
+94,541,1946,0,1,Dolares,Costa Rica,Mozambique
+94,541,1947,0,1,Dolares,Costa Rica,Mozambique
+94,541,1948,0,1,Dolares,Costa Rica,Mozambique
+94,541,1949,0,1,Dolares,Costa Rica,Mozambique
+94,580,1915,0,1,,Costa Rica,Madagascar
+94,580,1916,0,1,Colones,Costa Rica,Madagascar
+94,580,1917,0,1,Colones,Costa Rica,Madagascar
+94,580,1919,0,1,Colones,Costa Rica,Madagascar
+94,580,1920,0,1,Colones,Costa Rica,Madagascar
+94,580,1921,0,1,Colones At 215%,Costa Rica,Madagascar
+94,580,1922,0,1,Colones At 215%,Costa Rica,Madagascar
+94,580,1923,0,1,Colones At 215%,Costa Rica,Madagascar
+94,580,1924,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1925,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1926,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1927,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1928,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1929,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1930,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1931,0,1,Colones At 400%,Costa Rica,Madagascar
+94,580,1932,0,1,Colones At 440%,Costa Rica,Madagascar
+94,580,1933,0,1,Colones At 455%,Costa Rica,Madagascar
+94,580,1934,0,1,Colones At 425%,Costa Rica,Madagascar
+94,580,1935,0,1,Colones At 594%,Costa Rica,Madagascar
+94,580,1936,0,1,Dolares,Costa Rica,Madagascar
+94,580,1937,0,1,Dolares,Costa Rica,Madagascar
+94,580,1938,0,1,Dolares,Costa Rica,Madagascar
+94,580,1939,0,1,Dolares,Costa Rica,Madagascar
+94,580,1940,125,1,Dolares,Costa Rica,Madagascar
+94,580,1941,2,1,Dolares,Costa Rica,Madagascar
+94,580,1942,0,1,Dolares,Costa Rica,Madagascar
+94,580,1943,0,1,Dolares,Costa Rica,Madagascar
+94,580,1944,0,1,Dolares,Costa Rica,Madagascar
+94,580,1945,0,1,Dolares,Costa Rica,Madagascar
+94,580,1946,0,1,Dolares,Costa Rica,Madagascar
+94,580,1947,267,1,Dolares,Costa Rica,Madagascar
+94,580,1948,118,1,Dolares,Costa Rica,Madagascar
+94,580,1949,896,1,Dolares,Costa Rica,Madagascar
+94,615,1915,0,1,,Costa Rica,Algeria
+94,615,1916,0,1,Colones,Costa Rica,Algeria
+94,615,1917,0,1,Colones,Costa Rica,Algeria
+94,615,1919,0,1,Colones,Costa Rica,Algeria
+94,615,1920,0,1,Colones,Costa Rica,Algeria
+94,615,1921,0,1,Colones At 215%,Costa Rica,Algeria
+94,615,1922,0,1,Colones At 215%,Costa Rica,Algeria
+94,615,1923,0,1,Colones At 215%,Costa Rica,Algeria
+94,615,1924,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1925,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1926,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1927,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1928,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1929,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1930,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1931,0,1,Colones At 400%,Costa Rica,Algeria
+94,615,1932,0,1,Colones At 440%,Costa Rica,Algeria
+94,615,1933,0,1,Colones At 455%,Costa Rica,Algeria
+94,615,1934,0,1,Colones At 425%,Costa Rica,Algeria
+94,615,1935,0,1,Colones At 594%,Costa Rica,Algeria
+94,615,1936,0,1,Dolares,Costa Rica,Algeria
+94,615,1937,0,1,Dolares,Costa Rica,Algeria
+94,615,1938,0,1,Dolares,Costa Rica,Algeria
+94,615,1939,0,1,Dolares,Costa Rica,Algeria
+94,615,1940,7,1,Dolares,Costa Rica,Algeria
+94,615,1941,0,1,Dolares,Costa Rica,Algeria
+94,615,1942,0,1,Dolares,Costa Rica,Algeria
+94,615,1943,0,1,Dolares,Costa Rica,Algeria
+94,615,1944,0,1,Dolares,Costa Rica,Algeria
+94,615,1945,0,1,Dolares,Costa Rica,Algeria
+94,615,1946,0,1,Dolares,Costa Rica,Algeria
+94,615,1947,0,1,Dolares,Costa Rica,Algeria
+94,615,1948,0,1,Dolares,Costa Rica,Algeria
+94,615,1949,0,1,Dolares,Costa Rica,Algeria
+94,625,1915,0,1,,Costa Rica,Sudan
+94,625,1916,0,1,Colones,Costa Rica,Sudan
+94,625,1917,0,1,Colones,Costa Rica,Sudan
+94,625,1919,0,1,Colones,Costa Rica,Sudan
+94,625,1920,0,1,Colones,Costa Rica,Sudan
+94,625,1921,0,1,Colones At 215%,Costa Rica,Sudan
+94,625,1922,0,1,Colones At 215%,Costa Rica,Sudan
+94,625,1923,0,1,Colones At 215%,Costa Rica,Sudan
+94,625,1924,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1925,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1926,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1927,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1928,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1929,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1930,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1931,0,1,Colones At 400%,Costa Rica,Sudan
+94,625,1932,0,1,Colones At 440%,Costa Rica,Sudan
+94,625,1933,0,1,Colones At 455%,Costa Rica,Sudan
+94,625,1934,0,1,Colones At 425%,Costa Rica,Sudan
+94,625,1935,0,1,Colones At 594%,Costa Rica,Sudan
+94,625,1936,0,1,Dolares,Costa Rica,Sudan
+94,625,1937,0,1,Dolares,Costa Rica,Sudan
+94,625,1938,0,1,Dolares,Costa Rica,Sudan
+94,625,1939,0,1,Dolares,Costa Rica,Sudan
+94,625,1940,49,1,Dolares,Costa Rica,Sudan
+94,625,1941,105,1,Dolares,Costa Rica,Sudan
+94,625,1942,0,1,Dolares,Costa Rica,Sudan
+94,625,1943,139,1,Dolares,Costa Rica,Sudan
+94,625,1944,54,1,Dolares,Costa Rica,Sudan
+94,625,1945,0,1,Dolares,Costa Rica,Sudan
+94,625,1946,88,1,Dolares,Costa Rica,Sudan
+94,625,1947,583,1,Dolares,Costa Rica,Sudan
+94,625,1948,340,1,Dolares,Costa Rica,Sudan
+94,625,1949,702,1,Dolares,Costa Rica,Sudan
+94,630,1915,0,1,,Costa Rica,Iran
+94,630,1916,0,1,Colones,Costa Rica,Iran
+94,630,1917,0,1,Colones,Costa Rica,Iran
+94,630,1919,0,1,Colones,Costa Rica,Iran
+94,630,1920,0,1,Colones,Costa Rica,Iran
+94,630,1921,0,1,Colones At 215%,Costa Rica,Iran
+94,630,1922,0,1,Colones At 215%,Costa Rica,Iran
+94,630,1923,0,1,Colones At 215%,Costa Rica,Iran
+94,630,1924,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1925,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1926,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1927,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1928,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1929,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1930,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1931,0,1,Colones At 400%,Costa Rica,Iran
+94,630,1932,0,1,Colones At 440%,Costa Rica,Iran
+94,630,1933,0,1,Colones At 455%,Costa Rica,Iran
+94,630,1934,0,1,Colones At 425%,Costa Rica,Iran
+94,630,1935,0,1,Colones At 594%,Costa Rica,Iran
+94,630,1936,0,1,Dolares,Costa Rica,Iran
+94,630,1937,0,1,Dolares,Costa Rica,Iran
+94,630,1938,0,1,Dolares,Costa Rica,Iran
+94,630,1939,21,1,Dolares,Costa Rica,Iran
+94,630,1940,70,1,Dolares,Costa Rica,Iran
+94,630,1941,23,1,Dolares,Costa Rica,Iran
+94,630,1942,0,1,Dolares,Costa Rica,Iran
+94,630,1943,0,1,Dolares,Costa Rica,Iran
+94,630,1944,0,1,Dolares,Costa Rica,Iran
+94,630,1945,0,1,Dolares,Costa Rica,Iran
+94,630,1946,0,1,Dolares,Costa Rica,Iran
+94,630,1947,286,1,Dolares,Costa Rica,Iran
+94,630,1948,0,1,Dolares,Costa Rica,Iran
+94,630,1949,4469,1,Dolares,Costa Rica,Iran
+94,640,1915,0,1,,Costa Rica,Turkey
+94,640,1916,0,1,Colones,Costa Rica,Turkey
+94,640,1917,0,1,Colones,Costa Rica,Turkey
+94,640,1919,0,1,Colones,Costa Rica,Turkey
+94,640,1920,0,1,Colones,Costa Rica,Turkey
+94,640,1921,0,1,Colones At 215%,Costa Rica,Turkey
+94,640,1922,0,1,Colones At 215%,Costa Rica,Turkey
+94,640,1923,0,1,Colones At 215%,Costa Rica,Turkey
+94,640,1924,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1925,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1926,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1927,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1928,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1929,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1930,0,1,Colones At 400%,Costa Rica,Turkey
+94,640,1931,40,1,Colones At 400%,Costa Rica,Turkey
+94,640,1932,0,1,Colones At 440%,Costa Rica,Turkey
+94,640,1933,560,1,Colones At 455%,Costa Rica,Turkey
+94,640,1934,2000,1,Colones At 425%,Costa Rica,Turkey
+94,640,1935,990,1,Colones At 594%,Costa Rica,Turkey
+94,640,1936,686,1,Dolares,Costa Rica,Turkey
+94,640,1937,601,1,Dolares,Costa Rica,Turkey
+94,640,1938,0,1,Dolares,Costa Rica,Turkey
+94,640,1939,758,1,Dolares,Costa Rica,Turkey
+94,640,1940,0,1,Dolares,Costa Rica,Turkey
+94,640,1941,1073,1,Dolares,Costa Rica,Turkey
+94,640,1942,1763,1,Dolares,Costa Rica,Turkey
+94,640,1943,17225,1,Dolares,Costa Rica,Turkey
+94,640,1944,5783,1,Dolares,Costa Rica,Turkey
+94,640,1945,27989,1,Dolares,Costa Rica,Turkey
+94,640,1946,0,1,Dolares,Costa Rica,Turkey
+94,640,1947,89,1,Dolares,Costa Rica,Turkey
+94,640,1948,3279,1,Dolares,Costa Rica,Turkey
+94,640,1949,7086,1,Dolares,Costa Rica,Turkey
+94,645,1915,0,1,,Costa Rica,Iraq
+94,645,1916,0,1,Colones,Costa Rica,Iraq
+94,645,1917,0,1,Colones,Costa Rica,Iraq
+94,645,1919,0,1,Colones,Costa Rica,Iraq
+94,645,1920,0,1,Colones,Costa Rica,Iraq
+94,645,1921,0,1,Colones At 215%,Costa Rica,Iraq
+94,645,1922,0,1,Colones At 215%,Costa Rica,Iraq
+94,645,1923,0,1,Colones At 215%,Costa Rica,Iraq
+94,645,1924,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1925,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1926,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1927,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1928,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1929,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1930,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1931,0,1,Colones At 400%,Costa Rica,Iraq
+94,645,1932,0,1,Colones At 440%,Costa Rica,Iraq
+94,645,1933,0,1,Colones At 455%,Costa Rica,Iraq
+94,645,1934,0,1,Colones At 425%,Costa Rica,Iraq
+94,645,1935,0,1,Colones At 594%,Costa Rica,Iraq
+94,645,1936,0,1,Dolares,Costa Rica,Iraq
+94,645,1937,0,1,Dolares,Costa Rica,Iraq
+94,645,1938,0,1,Dolares,Costa Rica,Iraq
+94,645,1939,0,1,Dolares,Costa Rica,Iraq
+94,645,1940,0,1,Dolares,Costa Rica,Iraq
+94,645,1941,312,1,Dolares,Costa Rica,Iraq
+94,645,1942,23,1,Dolares,Costa Rica,Iraq
+94,645,1943,0,1,Dolares,Costa Rica,Iraq
+94,645,1944,0,1,Dolares,Costa Rica,Iraq
+94,645,1945,0,1,Dolares,Costa Rica,Iraq
+94,645,1946,590,1,Dolares,Costa Rica,Iraq
+94,645,1947,209,1,Dolares,Costa Rica,Iraq
+94,645,1948,10,1,Dolares,Costa Rica,Iraq
+94,645,1949,0,1,Dolares,Costa Rica,Iraq
+94,651,1915,0,1,,Costa Rica,Egypt
+94,651,1916,0,1,Colones,Costa Rica,Egypt
+94,651,1917,0,1,Colones,Costa Rica,Egypt
+94,651,1919,0,1,Colones,Costa Rica,Egypt
+94,651,1920,0,1,Colones,Costa Rica,Egypt
+94,651,1921,0,1,Colones At 215%,Costa Rica,Egypt
+94,651,1922,0,1,Colones At 215%,Costa Rica,Egypt
+94,651,1923,0,1,Colones At 215%,Costa Rica,Egypt
+94,651,1924,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1925,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1926,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1927,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1928,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1929,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1930,0,1,Colones At 400%,Costa Rica,Egypt
+94,651,1931,492,1,Colones At 400%,Costa Rica,Egypt
+94,651,1932,44,1,Colones At 440%,Costa Rica,Egypt
+94,651,1933,4,1,Colones At 455%,Costa Rica,Egypt
+94,651,1934,531,1,Colones At 425%,Costa Rica,Egypt
+94,651,1935,1395,1,Colones At 594%,Costa Rica,Egypt
+94,651,1936,136,1,Dolares,Costa Rica,Egypt
+94,651,1937,139,1,Dolares,Costa Rica,Egypt
+94,651,1938,119,1,Dolares,Costa Rica,Egypt
+94,651,1939,30,1,Dolares,Costa Rica,Egypt
+94,651,1940,16,1,Dolares,Costa Rica,Egypt
+94,651,1941,31,1,Dolares,Costa Rica,Egypt
+94,651,1942,0,1,Dolares,Costa Rica,Egypt
+94,651,1943,0,1,Dolares,Costa Rica,Egypt
+94,651,1944,0,1,Dolares,Costa Rica,Egypt
+94,651,1945,0,1,Dolares,Costa Rica,Egypt
+94,651,1946,456,1,Dolares,Costa Rica,Egypt
+94,651,1947,114,1,Dolares,Costa Rica,Egypt
+94,651,1948,0,1,Dolares,Costa Rica,Egypt
+94,651,1949,81,1,Dolares,Costa Rica,Egypt
+94,652,1915,0,1,,Costa Rica,Syria
+94,652,1916,0,1,Colones,Costa Rica,Syria
+94,652,1917,0,1,Colones,Costa Rica,Syria
+94,652,1919,0,1,Colones,Costa Rica,Syria
+94,652,1920,0,1,Colones,Costa Rica,Syria
+94,652,1921,0,1,Colones At 215%,Costa Rica,Syria
+94,652,1922,0,1,Colones At 215%,Costa Rica,Syria
+94,652,1923,0,1,Colones At 215%,Costa Rica,Syria
+94,652,1924,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1925,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1926,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1927,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1928,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1929,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1930,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1931,0,1,Colones At 400%,Costa Rica,Syria
+94,652,1932,0,1,Colones At 440%,Costa Rica,Syria
+94,652,1933,0,1,Colones At 455%,Costa Rica,Syria
+94,652,1934,0,1,Colones At 425%,Costa Rica,Syria
+94,652,1935,0,1,Colones At 594%,Costa Rica,Syria
+94,652,1936,0,1,Dolares,Costa Rica,Syria
+94,652,1937,0,1,Dolares,Costa Rica,Syria
+94,652,1938,0,1,Dolares,Costa Rica,Syria
+94,652,1939,0,1,Dolares,Costa Rica,Syria
+94,652,1940,0,1,Dolares,Costa Rica,Syria
+94,652,1941,0,1,Dolares,Costa Rica,Syria
+94,652,1942,0,1,Dolares,Costa Rica,Syria
+94,652,1943,0,1,Dolares,Costa Rica,Syria
+94,652,1944,0,1,Dolares,Costa Rica,Syria
+94,652,1945,909,1,Dolares,Costa Rica,Syria
+94,652,1946,536,1,Dolares,Costa Rica,Syria
+94,652,1947,5104,1,Dolares,Costa Rica,Syria
+94,652,1948,51,1,Dolares,Costa Rica,Syria
+94,652,1949,52,1,Dolares,Costa Rica,Syria
+94,660,1915,0,1,,Costa Rica,Lebanon
+94,660,1916,0,1,Colones,Costa Rica,Lebanon
+94,660,1917,0,1,Colones,Costa Rica,Lebanon
+94,660,1919,0,1,Colones,Costa Rica,Lebanon
+94,660,1920,0,1,Colones,Costa Rica,Lebanon
+94,660,1921,0,1,Colones At 215%,Costa Rica,Lebanon
+94,660,1922,0,1,Colones At 215%,Costa Rica,Lebanon
+94,660,1923,0,1,Colones At 215%,Costa Rica,Lebanon
+94,660,1924,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1925,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1926,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1927,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1928,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1929,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1930,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1931,0,1,Colones At 400%,Costa Rica,Lebanon
+94,660,1932,0,1,Colones At 440%,Costa Rica,Lebanon
+94,660,1933,0,1,Colones At 455%,Costa Rica,Lebanon
+94,660,1934,0,1,Colones At 425%,Costa Rica,Lebanon
+94,660,1935,0,1,Colones At 594%,Costa Rica,Lebanon
+94,660,1936,0,1,Dolares,Costa Rica,Lebanon
+94,660,1937,0,1,Dolares,Costa Rica,Lebanon
+94,660,1938,0,1,Dolares,Costa Rica,Lebanon
+94,660,1939,0,1,Dolares,Costa Rica,Lebanon
+94,660,1940,0,1,Dolares,Costa Rica,Lebanon
+94,660,1941,0,1,Dolares,Costa Rica,Lebanon
+94,660,1942,0,1,Dolares,Costa Rica,Lebanon
+94,660,1943,0,1,Dolares,Costa Rica,Lebanon
+94,660,1944,0,1,Dolares,Costa Rica,Lebanon
+94,660,1945,0,1,Dolares,Costa Rica,Lebanon
+94,660,1946,0,1,Dolares,Costa Rica,Lebanon
+94,660,1947,1121,1,Dolares,Costa Rica,Lebanon
+94,660,1948,0,1,Dolares,Costa Rica,Lebanon
+94,660,1949,55,1,Dolares,Costa Rica,Lebanon
+94,665,1915,0,1,,Costa Rica,West Bank And Gaza
+94,665,1916,0,1,Colones,Costa Rica,West Bank And Gaza
+94,665,1917,0,1,Colones,Costa Rica,West Bank And Gaza
+94,665,1919,0,1,Colones,Costa Rica,West Bank And Gaza
+94,665,1920,0,1,Colones,Costa Rica,West Bank And Gaza
+94,665,1921,0,1,Colones At 215%,Costa Rica,West Bank And Gaza
+94,665,1922,0,1,Colones At 215%,Costa Rica,West Bank And Gaza
+94,665,1923,0,1,Colones At 215%,Costa Rica,West Bank And Gaza
+94,665,1924,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1925,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1926,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1927,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1928,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1929,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1930,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1931,0,1,Colones At 400%,Costa Rica,West Bank And Gaza
+94,665,1932,0,1,Colones At 440%,Costa Rica,West Bank And Gaza
+94,665,1933,0,1,Colones At 455%,Costa Rica,West Bank And Gaza
+94,665,1934,0,1,Colones At 425%,Costa Rica,West Bank And Gaza
+94,665,1935,0,1,Colones At 594%,Costa Rica,West Bank And Gaza
+94,665,1936,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1937,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1938,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1939,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1940,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1941,576,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1942,7074,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1943,4245,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1944,7757,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1945,3173,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1946,3313,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1947,4315,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1948,2943,1,Dolares,Costa Rica,West Bank And Gaza
+94,665,1949,0,1,Dolares,Costa Rica,West Bank And Gaza
+94,666,1915,0,1,,Costa Rica,Israel
+94,666,1916,0,1,Colones,Costa Rica,Israel
+94,666,1917,0,1,Colones,Costa Rica,Israel
+94,666,1919,0,1,Colones,Costa Rica,Israel
+94,666,1920,0,1,Colones,Costa Rica,Israel
+94,666,1921,0,1,Colones At 215%,Costa Rica,Israel
+94,666,1922,0,1,Colones At 215%,Costa Rica,Israel
+94,666,1923,0,1,Colones At 215%,Costa Rica,Israel
+94,666,1924,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1925,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1926,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1927,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1928,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1929,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1930,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1931,0,1,Colones At 400%,Costa Rica,Israel
+94,666,1932,0,1,Colones At 440%,Costa Rica,Israel
+94,666,1933,0,1,Colones At 455%,Costa Rica,Israel
+94,666,1934,0,1,Colones At 425%,Costa Rica,Israel
+94,666,1935,0,1,Colones At 594%,Costa Rica,Israel
+94,666,1936,0,1,Dolares,Costa Rica,Israel
+94,666,1937,0,1,Dolares,Costa Rica,Israel
+94,666,1938,0,1,Dolares,Costa Rica,Israel
+94,666,1939,0,1,Dolares,Costa Rica,Israel
+94,666,1940,0,1,Dolares,Costa Rica,Israel
+94,666,1941,0,1,Dolares,Costa Rica,Israel
+94,666,1942,0,1,Dolares,Costa Rica,Israel
+94,666,1943,0,1,Dolares,Costa Rica,Israel
+94,666,1944,0,1,Dolares,Costa Rica,Israel
+94,666,1945,0,1,Dolares,Costa Rica,Israel
+94,666,1946,0,1,Dolares,Costa Rica,Israel
+94,666,1947,0,1,Dolares,Costa Rica,Israel
+94,666,1948,0,1,Dolares,Costa Rica,Israel
+94,666,1949,20,1,Dolares,Costa Rica,Israel
+94,675,1915,0,1,,Costa Rica,Arabia
+94,675,1916,0,1,Colones,Costa Rica,Arabia
+94,675,1917,0,1,Colones,Costa Rica,Arabia
+94,675,1919,0,1,Colones,Costa Rica,Arabia
+94,675,1920,0,1,Colones,Costa Rica,Arabia
+94,675,1921,0,1,Colones At 215%,Costa Rica,Arabia
+94,675,1922,0,1,Colones At 215%,Costa Rica,Arabia
+94,675,1923,0,1,Colones At 215%,Costa Rica,Arabia
+94,675,1924,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1925,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1926,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1927,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1928,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1929,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1930,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1931,0,1,Colones At 400%,Costa Rica,Arabia
+94,675,1932,0,1,Colones At 440%,Costa Rica,Arabia
+94,675,1933,0,1,Colones At 455%,Costa Rica,Arabia
+94,675,1934,0,1,Colones At 425%,Costa Rica,Arabia
+94,675,1935,0,1,Colones At 594%,Costa Rica,Arabia
+94,675,1936,0,1,Dolares,Costa Rica,Arabia
+94,675,1937,0,1,Dolares,Costa Rica,Arabia
+94,675,1938,0,1,Dolares,Costa Rica,Arabia
+94,675,1939,0,1,Dolares,Costa Rica,Arabia
+94,675,1940,56,1,Dolares,Costa Rica,Arabia
+94,675,1941,85,1,Dolares,Costa Rica,Arabia
+94,675,1942,45,1,Dolares,Costa Rica,Arabia
+94,675,1943,47,1,Dolares,Costa Rica,Arabia
+94,675,1944,49,1,Dolares,Costa Rica,Arabia
+94,675,1945,0,1,Dolares,Costa Rica,Arabia
+94,675,1946,0,1,Dolares,Costa Rica,Arabia
+94,675,1947,13,1,Dolares,Costa Rica,Arabia
+94,675,1948,0,1,Dolares,Costa Rica,Arabia
+94,675,1949,76,1,Dolares,Costa Rica,Arabia
+94,710,1911,219269.9,,,Costa Rica,China
+94,710,1912,229149,,,Costa Rica,China
+94,710,1915,70805.95,1,,Costa Rica,China
+94,710,1916,58464.95,1,Colones,Costa Rica,China
+94,710,1917,27840.35,1,Colones,Costa Rica,China
+94,710,1919,26666,1,Colones,Costa Rica,China
+94,710,1920,121657,1,Colones,Costa Rica,China
+94,710,1921,74022,1,Colones At 215%,Costa Rica,China
+94,710,1922,93946,1,Colones At 215%,Costa Rica,China
+94,710,1923,153005,1,Colones At 215%,Costa Rica,China
+94,710,1924,178580,1,Colones At 400%,Costa Rica,China
+94,710,1925,499824,1,Colones At 400%,Costa Rica,China
+94,710,1926,957288,1,Colones At 400%,Costa Rica,China
+94,710,1927,350616,1,Colones At 400%,Costa Rica,China
+94,710,1928,235220,1,Colones At 400%,Costa Rica,China
+94,710,1929,323028,1,Colones At 400%,Costa Rica,China
+94,710,1930,293472,1,Colones At 400%,Costa Rica,China
+94,710,1931,342660,1,Colones At 400%,Costa Rica,China
+94,710,1932,47310,1,Colones At 440%,Costa Rica,China
+94,710,1933,43717,1,Colones At 455%,Costa Rica,China
+94,710,1934,54667,1,Colones At 425%,Costa Rica,China
+94,710,1935,51146,1,Colones At 594%,Costa Rica,China
+94,710,1936,10963,1,Dolares,Costa Rica,China
+94,710,1937,31286,1,Dolares,Costa Rica,China
+94,710,1938,10317,1,Dolares,Costa Rica,China
+94,710,1939,9809,1,Dolares,Costa Rica,China
+94,710,1940,10872,1,Dolares,Costa Rica,China
+94,710,1941,12749,1,Dolares,Costa Rica,China
+94,710,1942,17524,1,Dolares,Costa Rica,China
+94,710,1943,3971,1,Dolares,Costa Rica,China
+94,710,1944,3,1,Dolares,Costa Rica,China
+94,710,1945,62,1,Dolares,Costa Rica,China
+94,710,1946,1642,1,Dolares,Costa Rica,China
+94,710,1947,6275,1,Dolares,Costa Rica,China
+94,710,1948,23526,1,Dolares,Costa Rica,China
+94,710,1949,20153,1,Dolares,Costa Rica,China
+94,720,1915,0,1,,Costa Rica,Hong Kong
+94,720,1916,0,1,Colones,Costa Rica,Hong Kong
+94,720,1917,0,1,Colones,Costa Rica,Hong Kong
+94,720,1919,0,1,Colones,Costa Rica,Hong Kong
+94,720,1920,0,1,Colones,Costa Rica,Hong Kong
+94,720,1921,0,1,Colones At 215%,Costa Rica,Hong Kong
+94,720,1922,0,1,Colones At 215%,Costa Rica,Hong Kong
+94,720,1923,0,1,Colones At 215%,Costa Rica,Hong Kong
+94,720,1924,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1925,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1926,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1927,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1928,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1929,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1930,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1931,0,1,Colones At 400%,Costa Rica,Hong Kong
+94,720,1932,0,1,Colones At 440%,Costa Rica,Hong Kong
+94,720,1933,0,1,Colones At 455%,Costa Rica,Hong Kong
+94,720,1934,0,1,Colones At 425%,Costa Rica,Hong Kong
+94,720,1935,0,1,Colones At 594%,Costa Rica,Hong Kong
+94,720,1936,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1937,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1938,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1939,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1940,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1941,17792,1,Dolares,Costa Rica,Hong Kong
+94,720,1942,554,1,Dolares,Costa Rica,Hong Kong
+94,720,1943,466,1,Dolares,Costa Rica,Hong Kong
+94,720,1944,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1945,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1946,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1947,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1948,0,1,Dolares,Costa Rica,Hong Kong
+94,720,1949,0,1,Dolares,Costa Rica,Hong Kong
+94,740,1909,1075,,,Costa Rica,Japan
+94,740,1911,16602.3,,,Costa Rica,Japan
+94,740,1912,8366,,,Costa Rica,Japan
+94,740,1915,8367.799999999999,1,,Costa Rica,Japan
+94,740,1916,17417.15,1,Colones,Costa Rica,Japan
+94,740,1917,60679.45,1,Colones,Costa Rica,Japan
+94,740,1919,73829,1,Colones,Costa Rica,Japan
+94,740,1920,155882,1,Colones,Costa Rica,Japan
+94,740,1921,34753,1,Colones At 215%,Costa Rica,Japan
+94,740,1922,45722,1,Colones At 215%,Costa Rica,Japan
+94,740,1923,54313,1,Colones At 215%,Costa Rica,Japan
+94,740,1924,177796,1,Colones At 400%,Costa Rica,Japan
+94,740,1925,120408,1,Colones At 400%,Costa Rica,Japan
+94,740,1926,155488,1,Colones At 400%,Costa Rica,Japan
+94,740,1927,326848,1,Colones At 400%,Costa Rica,Japan
+94,740,1928,441112,1,Colones At 400%,Costa Rica,Japan
+94,740,1929,419908,1,Colones At 400%,Costa Rica,Japan
+94,740,1930,303068,1,Colones At 400%,Costa Rica,Japan
+94,740,1931,462137,1,Colones At 400%,Costa Rica,Japan
+94,740,1932,334391,1,Colones At 440%,Costa Rica,Japan
+94,740,1933,669061,1,Colones At 455%,Costa Rica,Japan
+94,740,1934,2232099,1,Colones At 425%,Costa Rica,Japan
+94,740,1935,3274577,1,Colones At 594%,Costa Rica,Japan
+94,740,1936,654947,1,Dolares,Costa Rica,Japan
+94,740,1937,976633,1,Dolares,Costa Rica,Japan
+94,740,1938,781687,1,Dolares,Costa Rica,Japan
+94,740,1939,856616,1,Dolares,Costa Rica,Japan
+94,740,1940,418879,1,Dolares,Costa Rica,Japan
+94,740,1941,367733,1,Dolares,Costa Rica,Japan
+94,740,1942,5982,1,Dolares,Costa Rica,Japan
+94,740,1943,96,1,Dolares,Costa Rica,Japan
+94,740,1944,0,1,Dolares,Costa Rica,Japan
+94,740,1945,0,1,Dolares,Costa Rica,Japan
+94,740,1946,0,1,Dolares,Costa Rica,Japan
+94,740,1947,0,1,Dolares,Costa Rica,Japan
+94,740,1948,1925,1,Dolares,Costa Rica,Japan
+94,740,1949,50354,1,Dolares,Costa Rica,Japan
+94,750,1915,0,1,,Costa Rica,India
+94,750,1916,0,1,Colones,Costa Rica,India
+94,750,1917,0,1,Colones,Costa Rica,India
+94,750,1919,0,1,Colones,Costa Rica,India
+94,750,1920,0,1,Colones,Costa Rica,India
+94,750,1921,0,1,Colones At 215%,Costa Rica,India
+94,750,1922,0,1,Colones At 215%,Costa Rica,India
+94,750,1923,0,1,Colones At 215%,Costa Rica,India
+94,750,1924,0,1,Colones At 400%,Costa Rica,India
+94,750,1925,0,1,Colones At 400%,Costa Rica,India
+94,750,1926,0,1,Colones At 400%,Costa Rica,India
+94,750,1927,0,1,Colones At 400%,Costa Rica,India
+94,750,1928,0,1,Colones At 400%,Costa Rica,India
+94,750,1929,0,1,Colones At 400%,Costa Rica,India
+94,750,1930,0,1,Colones At 400%,Costa Rica,India
+94,750,1931,96903,1,Colones At 400%,Costa Rica,India
+94,750,1932,113066,1,Colones At 440%,Costa Rica,India
+94,750,1933,199104,1,Colones At 455%,Costa Rica,India
+94,750,1934,255021,1,Colones At 425%,Costa Rica,India
+94,750,1935,62846,1,Colones At 594%,Costa Rica,India
+94,750,1936,16613,1,Dolares,Costa Rica,India
+94,750,1937,71010,1,Dolares,Costa Rica,India
+94,750,1938,34080,1,Dolares,Costa Rica,India
+94,750,1939,41857,1,Dolares,Costa Rica,India
+94,750,1940,46098,1,Dolares,Costa Rica,India
+94,750,1941,77352,1,Dolares,Costa Rica,India
+94,750,1942,88708,1,Dolares,Costa Rica,India
+94,750,1943,340869,1,Dolares,Costa Rica,India
+94,750,1944,190394,1,Dolares,Costa Rica,India
+94,750,1945,82575,1,Dolares,Costa Rica,India
+94,750,1946,75585,1,Dolares,Costa Rica,India
+94,750,1947,179537,1,Dolares,Costa Rica,India
+94,750,1948,450181,1,Dolares,Costa Rica,India
+94,750,1949,278243,1,Dolares,Costa Rica,India
+94,770,1915,0,1,,Costa Rica,Pakistan
+94,770,1916,0,1,Colones,Costa Rica,Pakistan
+94,770,1917,0,1,Colones,Costa Rica,Pakistan
+94,770,1919,0,1,Colones,Costa Rica,Pakistan
+94,770,1920,0,1,Colones,Costa Rica,Pakistan
+94,770,1921,0,1,Colones At 215%,Costa Rica,Pakistan
+94,770,1922,0,1,Colones At 215%,Costa Rica,Pakistan
+94,770,1923,0,1,Colones At 215%,Costa Rica,Pakistan
+94,770,1924,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1925,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1926,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1927,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1928,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1929,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1930,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1931,0,1,Colones At 400%,Costa Rica,Pakistan
+94,770,1932,0,1,Colones At 440%,Costa Rica,Pakistan
+94,770,1933,0,1,Colones At 455%,Costa Rica,Pakistan
+94,770,1934,0,1,Colones At 425%,Costa Rica,Pakistan
+94,770,1935,0,1,Colones At 594%,Costa Rica,Pakistan
+94,770,1936,0,1,Dolares,Costa Rica,Pakistan
+94,770,1937,0,1,Dolares,Costa Rica,Pakistan
+94,770,1938,0,1,Dolares,Costa Rica,Pakistan
+94,770,1939,0,1,Dolares,Costa Rica,Pakistan
+94,770,1940,0,1,Dolares,Costa Rica,Pakistan
+94,770,1941,0,1,Dolares,Costa Rica,Pakistan
+94,770,1942,0,1,Dolares,Costa Rica,Pakistan
+94,770,1943,0,1,Dolares,Costa Rica,Pakistan
+94,770,1944,0,1,Dolares,Costa Rica,Pakistan
+94,770,1945,0,1,Dolares,Costa Rica,Pakistan
+94,770,1946,0,1,Dolares,Costa Rica,Pakistan
+94,770,1947,0,1,Dolares,Costa Rica,Pakistan
+94,770,1948,0,1,Dolares,Costa Rica,Pakistan
+94,770,1949,0,1,Dolares,Costa Rica,Pakistan
+94,775,1915,0,1,,Costa Rica,Myanmar
+94,775,1916,0,1,Colones,Costa Rica,Myanmar
+94,775,1917,0,1,Colones,Costa Rica,Myanmar
+94,775,1919,0,1,Colones,Costa Rica,Myanmar
+94,775,1920,0,1,Colones,Costa Rica,Myanmar
+94,775,1921,0,1,Colones At 215%,Costa Rica,Myanmar
+94,775,1922,0,1,Colones At 215%,Costa Rica,Myanmar
+94,775,1923,0,1,Colones At 215%,Costa Rica,Myanmar
+94,775,1924,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1925,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1926,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1927,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1928,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1929,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1930,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1931,0,1,Colones At 400%,Costa Rica,Myanmar
+94,775,1932,0,1,Colones At 440%,Costa Rica,Myanmar
+94,775,1933,0,1,Colones At 455%,Costa Rica,Myanmar
+94,775,1934,0,1,Colones At 425%,Costa Rica,Myanmar
+94,775,1935,0,1,Colones At 594%,Costa Rica,Myanmar
+94,775,1936,0,1,Dolares,Costa Rica,Myanmar
+94,775,1937,0,1,Dolares,Costa Rica,Myanmar
+94,775,1938,0,1,Dolares,Costa Rica,Myanmar
+94,775,1939,0,1,Dolares,Costa Rica,Myanmar
+94,775,1940,17981,1,Dolares,Costa Rica,Myanmar
+94,775,1941,24502,1,Dolares,Costa Rica,Myanmar
+94,775,1942,6868,1,Dolares,Costa Rica,Myanmar
+94,775,1943,0,1,Dolares,Costa Rica,Myanmar
+94,775,1944,0,1,Dolares,Costa Rica,Myanmar
+94,775,1945,0,1,Dolares,Costa Rica,Myanmar
+94,775,1946,0,1,Dolares,Costa Rica,Myanmar
+94,775,1947,0,1,Dolares,Costa Rica,Myanmar
+94,775,1948,0,1,Dolares,Costa Rica,Myanmar
+94,775,1949,0,1,Dolares,Costa Rica,Myanmar
+94,780,1915,0,1,,Costa Rica,Sri Lanka
+94,780,1916,0,1,Colones,Costa Rica,Sri Lanka
+94,780,1917,0,1,Colones,Costa Rica,Sri Lanka
+94,780,1919,0,1,Colones,Costa Rica,Sri Lanka
+94,780,1920,0,1,Colones,Costa Rica,Sri Lanka
+94,780,1921,0,1,Colones At 215%,Costa Rica,Sri Lanka
+94,780,1922,0,1,Colones At 215%,Costa Rica,Sri Lanka
+94,780,1923,0,1,Colones At 215%,Costa Rica,Sri Lanka
+94,780,1924,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1925,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1926,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1927,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1928,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1929,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1930,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1931,0,1,Colones At 400%,Costa Rica,Sri Lanka
+94,780,1932,0,1,Colones At 440%,Costa Rica,Sri Lanka
+94,780,1933,0,1,Colones At 455%,Costa Rica,Sri Lanka
+94,780,1934,14381,1,Colones At 425%,Costa Rica,Sri Lanka
+94,780,1935,100385,1,Colones At 594%,Costa Rica,Sri Lanka
+94,780,1936,23754,1,Dolares,Costa Rica,Sri Lanka
+94,780,1937,77057,1,Dolares,Costa Rica,Sri Lanka
+94,780,1938,58820,1,Dolares,Costa Rica,Sri Lanka
+94,780,1939,28906,1,Dolares,Costa Rica,Sri Lanka
+94,780,1940,9762,1,Dolares,Costa Rica,Sri Lanka
+94,780,1941,2452,1,Dolares,Costa Rica,Sri Lanka
+94,780,1942,10548,1,Dolares,Costa Rica,Sri Lanka
+94,780,1943,883,1,Dolares,Costa Rica,Sri Lanka
+94,780,1944,656,1,Dolares,Costa Rica,Sri Lanka
+94,780,1945,1778,1,Dolares,Costa Rica,Sri Lanka
+94,780,1946,1291,1,Dolares,Costa Rica,Sri Lanka
+94,780,1947,20339,1,Dolares,Costa Rica,Sri Lanka
+94,780,1948,4133,1,Dolares,Costa Rica,Sri Lanka
+94,780,1949,2871,1,Dolares,Costa Rica,Sri Lanka
+94,800,1915,0,1,,Costa Rica,Thailand
+94,800,1916,0,1,Colones,Costa Rica,Thailand
+94,800,1917,0,1,Colones,Costa Rica,Thailand
+94,800,1919,0,1,Colones,Costa Rica,Thailand
+94,800,1920,0,1,Colones,Costa Rica,Thailand
+94,800,1921,0,1,Colones At 215%,Costa Rica,Thailand
+94,800,1922,0,1,Colones At 215%,Costa Rica,Thailand
+94,800,1923,0,1,Colones At 215%,Costa Rica,Thailand
+94,800,1924,0,1,Colones At 400%,Costa Rica,Thailand
+94,800,1925,0,1,Colones At 400%,Costa Rica,Thailand
+94,800,1926,0,1,Colones At 400%,Costa Rica,Thailand
+94,800,1927,0,1,Colones At 400%,Costa Rica,Thailand
+94,800,1928,0,1,Colones At 400%,Costa Rica,Thailand
+94,800,1929,61832,1,Colones At 400%,Costa Rica,Thailand
+94,800,1930,72816,1,Colones At 400%,Costa Rica,Thailand
+94,800,1931,367412,1,Colones At 400%,Costa Rica,Thailand
+94,800,1932,27045,1,Colones At 440%,Costa Rica,Thailand
+94,800,1933,0,1,Colones At 455%,Costa Rica,Thailand
+94,800,1934,0,1,Colones At 425%,Costa Rica,Thailand
+94,800,1935,0,1,Colones At 594%,Costa Rica,Thailand
+94,800,1936,0,1,Dolares,Costa Rica,Thailand
+94,800,1937,89491,1,Dolares,Costa Rica,Thailand
+94,800,1938,34483,1,Dolares,Costa Rica,Thailand
+94,800,1939,55716,1,Dolares,Costa Rica,Thailand
+94,800,1940,51600,1,Dolares,Costa Rica,Thailand
+94,800,1941,0,1,Dolares,Costa Rica,Thailand
+94,800,1942,0,1,Dolares,Costa Rica,Thailand
+94,800,1943,0,1,Dolares,Costa Rica,Thailand
+94,800,1944,0,1,Dolares,Costa Rica,Thailand
+94,800,1945,0,1,Dolares,Costa Rica,Thailand
+94,800,1946,0,1,Dolares,Costa Rica,Thailand
+94,800,1947,2867,1,Dolares,Costa Rica,Thailand
+94,800,1948,783,1,Dolares,Costa Rica,Thailand
+94,800,1949,0,1,Dolares,Costa Rica,Thailand
+94,820,1915,0,1,,Costa Rica,Malaysia
+94,820,1916,0,1,Colones,Costa Rica,Malaysia
+94,820,1917,0,1,Colones,Costa Rica,Malaysia
+94,820,1919,0,1,Colones,Costa Rica,Malaysia
+94,820,1920,0,1,Colones,Costa Rica,Malaysia
+94,820,1921,0,1,Colones At 215%,Costa Rica,Malaysia
+94,820,1922,0,1,Colones At 215%,Costa Rica,Malaysia
+94,820,1923,0,1,Colones At 215%,Costa Rica,Malaysia
+94,820,1924,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1925,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1926,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1927,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1928,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1929,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1930,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1931,0,1,Colones At 400%,Costa Rica,Malaysia
+94,820,1932,0,1,Colones At 440%,Costa Rica,Malaysia
+94,820,1933,0,1,Colones At 455%,Costa Rica,Malaysia
+94,820,1934,0,1,Colones At 425%,Costa Rica,Malaysia
+94,820,1935,0,1,Colones At 594%,Costa Rica,Malaysia
+94,820,1936,0,1,Dolares,Costa Rica,Malaysia
+94,820,1937,0,1,Dolares,Costa Rica,Malaysia
+94,820,1938,0,1,Dolares,Costa Rica,Malaysia
+94,820,1939,0,1,Dolares,Costa Rica,Malaysia
+94,820,1940,0,1,Dolares,Costa Rica,Malaysia
+94,820,1941,0,1,Dolares,Costa Rica,Malaysia
+94,820,1942,0,1,Dolares,Costa Rica,Malaysia
+94,820,1943,0,1,Dolares,Costa Rica,Malaysia
+94,820,1944,0,1,Dolares,Costa Rica,Malaysia
+94,820,1945,0,1,Dolares,Costa Rica,Malaysia
+94,820,1946,0,1,Dolares,Costa Rica,Malaysia
+94,820,1947,8178,1,Dolares,Costa Rica,Malaysia
+94,820,1948,0,1,Dolares,Costa Rica,Malaysia
+94,820,1949,0,1,Dolares,Costa Rica,Malaysia
+94,830,1915,0,1,,Costa Rica,Singapore
+94,830,1916,0,1,Colones,Costa Rica,Singapore
+94,830,1917,0,1,Colones,Costa Rica,Singapore
+94,830,1919,0,1,Colones,Costa Rica,Singapore
+94,830,1920,0,1,Colones,Costa Rica,Singapore
+94,830,1921,0,1,Colones At 215%,Costa Rica,Singapore
+94,830,1922,0,1,Colones At 215%,Costa Rica,Singapore
+94,830,1923,0,1,Colones At 215%,Costa Rica,Singapore
+94,830,1924,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1925,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1926,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1927,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1928,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1929,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1930,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1931,0,1,Colones At 400%,Costa Rica,Singapore
+94,830,1932,0,1,Colones At 440%,Costa Rica,Singapore
+94,830,1933,0,1,Colones At 455%,Costa Rica,Singapore
+94,830,1934,0,1,Colones At 425%,Costa Rica,Singapore
+94,830,1935,0,1,Colones At 594%,Costa Rica,Singapore
+94,830,1936,0,1,Dolares,Costa Rica,Singapore
+94,830,1937,0,1,Dolares,Costa Rica,Singapore
+94,830,1938,0,1,Dolares,Costa Rica,Singapore
+94,830,1939,0,1,Dolares,Costa Rica,Singapore
+94,830,1940,0,1,Dolares,Costa Rica,Singapore
+94,830,1941,1808,1,Dolares,Costa Rica,Singapore
+94,830,1942,0,1,Dolares,Costa Rica,Singapore
+94,830,1943,0,1,Dolares,Costa Rica,Singapore
+94,830,1944,0,1,Dolares,Costa Rica,Singapore
+94,830,1945,0,1,Dolares,Costa Rica,Singapore
+94,830,1946,0,1,Dolares,Costa Rica,Singapore
+94,830,1947,5148,1,Dolares,Costa Rica,Singapore
+94,830,1948,197,1,Dolares,Costa Rica,Singapore
+94,830,1949,0,1,Dolares,Costa Rica,Singapore
+94,840,1915,0,1,,Costa Rica,Philippines
+94,840,1916,0,1,Colones,Costa Rica,Philippines
+94,840,1917,0,1,Colones,Costa Rica,Philippines
+94,840,1919,0,1,Colones,Costa Rica,Philippines
+94,840,1920,0,1,Colones,Costa Rica,Philippines
+94,840,1921,0,1,Colones At 215%,Costa Rica,Philippines
+94,840,1922,0,1,Colones At 215%,Costa Rica,Philippines
+94,840,1923,0,1,Colones At 215%,Costa Rica,Philippines
+94,840,1924,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1925,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1926,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1927,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1928,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1929,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1930,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1931,0,1,Colones At 400%,Costa Rica,Philippines
+94,840,1932,0,1,Colones At 440%,Costa Rica,Philippines
+94,840,1933,0,1,Colones At 455%,Costa Rica,Philippines
+94,840,1934,0,1,Colones At 425%,Costa Rica,Philippines
+94,840,1935,0,1,Colones At 594%,Costa Rica,Philippines
+94,840,1936,0,1,Dolares,Costa Rica,Philippines
+94,840,1937,12642,1,Dolares,Costa Rica,Philippines
+94,840,1938,3167,1,Dolares,Costa Rica,Philippines
+94,840,1939,7470,1,Dolares,Costa Rica,Philippines
+94,840,1940,18935,1,Dolares,Costa Rica,Philippines
+94,840,1941,52603,1,Dolares,Costa Rica,Philippines
+94,840,1942,6293,1,Dolares,Costa Rica,Philippines
+94,840,1943,34,1,Dolares,Costa Rica,Philippines
+94,840,1944,0,1,Dolares,Costa Rica,Philippines
+94,840,1945,0,1,Dolares,Costa Rica,Philippines
+94,840,1946,0,1,Dolares,Costa Rica,Philippines
+94,840,1947,619,1,Dolares,Costa Rica,Philippines
+94,840,1948,0,1,Dolares,Costa Rica,Philippines
+94,840,1949,58462,1,Dolares,Costa Rica,Philippines
+94,850,1915,0,1,,Costa Rica,Indonesia
+94,850,1916,0,1,Colones,Costa Rica,Indonesia
+94,850,1917,0,1,Colones,Costa Rica,Indonesia
+94,850,1919,0,1,Colones,Costa Rica,Indonesia
+94,850,1920,0,1,Colones,Costa Rica,Indonesia
+94,850,1921,0,1,Colones At 215%,Costa Rica,Indonesia
+94,850,1922,0,1,Colones At 215%,Costa Rica,Indonesia
+94,850,1923,0,1,Colones At 215%,Costa Rica,Indonesia
+94,850,1924,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1925,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1926,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1927,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1928,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1929,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1930,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1931,0,1,Colones At 400%,Costa Rica,Indonesia
+94,850,1932,0,1,Colones At 440%,Costa Rica,Indonesia
+94,850,1933,0,1,Colones At 455%,Costa Rica,Indonesia
+94,850,1934,0,1,Colones At 425%,Costa Rica,Indonesia
+94,850,1935,0,1,Colones At 594%,Costa Rica,Indonesia
+94,850,1936,0,1,Dolares,Costa Rica,Indonesia
+94,850,1937,0,1,Dolares,Costa Rica,Indonesia
+94,850,1938,0,1,Dolares,Costa Rica,Indonesia
+94,850,1939,0,1,Dolares,Costa Rica,Indonesia
+94,850,1940,0,1,Dolares,Costa Rica,Indonesia
+94,850,1941,13342,1,Dolares,Costa Rica,Indonesia
+94,850,1942,18934,1,Dolares,Costa Rica,Indonesia
+94,850,1943,0,1,Dolares,Costa Rica,Indonesia
+94,850,1944,0,1,Dolares,Costa Rica,Indonesia
+94,850,1945,12,1,Dolares,Costa Rica,Indonesia
+94,850,1946,0,1,Dolares,Costa Rica,Indonesia
+94,850,1947,11310,1,Dolares,Costa Rica,Indonesia
+94,850,1948,289,1,Dolares,Costa Rica,Indonesia
+94,850,1949,1198,1,Dolares,Costa Rica,Indonesia
+94,900,1915,0,1,,Costa Rica,Australia
+94,900,1916,0,1,Colones,Costa Rica,Australia
+94,900,1917,0,1,Colones,Costa Rica,Australia
+94,900,1919,0,1,Colones,Costa Rica,Australia
+94,900,1920,0,1,Colones,Costa Rica,Australia
+94,900,1921,0,1,Colones At 215%,Costa Rica,Australia
+94,900,1922,0,1,Colones At 215%,Costa Rica,Australia
+94,900,1923,0,1,Colones At 215%,Costa Rica,Australia
+94,900,1924,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1925,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1926,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1927,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1928,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1929,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1930,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1931,0,1,Colones At 400%,Costa Rica,Australia
+94,900,1932,0,1,Colones At 440%,Costa Rica,Australia
+94,900,1933,0,1,Colones At 455%,Costa Rica,Australia
+94,900,1934,0,1,Colones At 425%,Costa Rica,Australia
+94,900,1935,0,1,Colones At 594%,Costa Rica,Australia
+94,900,1936,0,1,Dolares,Costa Rica,Australia
+94,900,1937,0,1,Dolares,Costa Rica,Australia
+94,900,1938,139,1,Dolares,Costa Rica,Australia
+94,900,1939,3246,1,Dolares,Costa Rica,Australia
+94,900,1940,1238,1,Dolares,Costa Rica,Australia
+94,900,1941,2464,1,Dolares,Costa Rica,Australia
+94,900,1942,21230,1,Dolares,Costa Rica,Australia
+94,900,1943,1021,1,Dolares,Costa Rica,Australia
+94,900,1944,217,1,Dolares,Costa Rica,Australia
+94,900,1945,0,1,Dolares,Costa Rica,Australia
+94,900,1946,0,1,Dolares,Costa Rica,Australia
+94,900,1947,2442,1,Dolares,Costa Rica,Australia
+94,900,1948,3857,1,Dolares,Costa Rica,Australia
+94,900,1949,2130,1,Dolares,Costa Rica,Australia
+94,920,1915,0,1,,Costa Rica,New Zealand
+94,920,1916,0,1,Colones,Costa Rica,New Zealand
+94,920,1917,0,1,Colones,Costa Rica,New Zealand
+94,920,1919,0,1,Colones,Costa Rica,New Zealand
+94,920,1920,0,1,Colones,Costa Rica,New Zealand
+94,920,1921,0,1,Colones At 215%,Costa Rica,New Zealand
+94,920,1922,0,1,Colones At 215%,Costa Rica,New Zealand
+94,920,1923,0,1,Colones At 215%,Costa Rica,New Zealand
+94,920,1924,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1925,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1926,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1927,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1928,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1929,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1930,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1931,0,1,Colones At 400%,Costa Rica,New Zealand
+94,920,1932,0,1,Colones At 440%,Costa Rica,New Zealand
+94,920,1933,0,1,Colones At 455%,Costa Rica,New Zealand
+94,920,1934,0,1,Colones At 425%,Costa Rica,New Zealand
+94,920,1935,0,1,Colones At 594%,Costa Rica,New Zealand
+94,920,1936,0,1,Dolares,Costa Rica,New Zealand
+94,920,1937,0,1,Dolares,Costa Rica,New Zealand
+94,920,1938,543,1,Dolares,Costa Rica,New Zealand
+94,920,1939,0,1,Dolares,Costa Rica,New Zealand
+94,920,1940,0,1,Dolares,Costa Rica,New Zealand
+94,920,1941,0,1,Dolares,Costa Rica,New Zealand
+94,920,1942,20596,1,Dolares,Costa Rica,New Zealand
+94,920,1943,0,1,Dolares,Costa Rica,New Zealand
+94,920,1944,0,1,Dolares,Costa Rica,New Zealand
+94,920,1945,0,1,Dolares,Costa Rica,New Zealand
+94,920,1946,0,1,Dolares,Costa Rica,New Zealand
+94,920,1947,0,1,Dolares,Costa Rica,New Zealand
+94,920,1948,0,1,Dolares,Costa Rica,New Zealand
+94,920,1949,0,1,Dolares,Costa Rica,New Zealand
+94,1050,1915,0,1,,Costa Rica,British West Indies
+94,1050,1916,0,1,Colones,Costa Rica,British West Indies
+94,1050,1917,0,1,Colones,Costa Rica,British West Indies
+94,1050,1919,0,1,Colones,Costa Rica,British West Indies
+94,1050,1920,0,1,Colones,Costa Rica,British West Indies
+94,1050,1921,0,1,Colones At 215%,Costa Rica,British West Indies
+94,1050,1922,0,1,Colones At 215%,Costa Rica,British West Indies
+94,1050,1923,0,1,Colones At 215%,Costa Rica,British West Indies
+94,1050,1924,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1925,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1926,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1927,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1928,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1929,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1930,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1931,0,1,Colones At 400%,Costa Rica,British West Indies
+94,1050,1932,0,1,Colones At 440%,Costa Rica,British West Indies
+94,1050,1933,0,1,Colones At 455%,Costa Rica,British West Indies
+94,1050,1934,0,1,Colones At 425%,Costa Rica,British West Indies
+94,1050,1935,0,1,Colones At 594%,Costa Rica,British West Indies
+94,1050,1936,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1937,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1938,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1939,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1940,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1941,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1942,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1943,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1944,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1945,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1946,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1947,1011,1,Dolares,Costa Rica,British West Indies
+94,1050,1948,0,1,Dolares,Costa Rica,British West Indies
+94,1050,1949,0,1,Dolares,Costa Rica,British West Indies
+94,1065,1915,0,1,,Costa Rica,Curacao
+94,1065,1916,0,1,Colones,Costa Rica,Curacao
+94,1065,1917,0,1,Colones,Costa Rica,Curacao
+94,1065,1919,0,1,Colones,Costa Rica,Curacao
+94,1065,1920,0,1,Colones,Costa Rica,Curacao
+94,1065,1921,0,1,Colones At 215%,Costa Rica,Curacao
+94,1065,1922,0,1,Colones At 215%,Costa Rica,Curacao
+94,1065,1923,0,1,Colones At 215%,Costa Rica,Curacao
+94,1065,1924,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1925,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1926,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1927,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1928,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1929,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1930,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1931,0,1,Colones At 400%,Costa Rica,Curacao
+94,1065,1932,0,1,Colones At 440%,Costa Rica,Curacao
+94,1065,1933,0,1,Colones At 455%,Costa Rica,Curacao
+94,1065,1934,0,1,Colones At 425%,Costa Rica,Curacao
+94,1065,1935,0,1,Colones At 594%,Costa Rica,Curacao
+94,1065,1936,0,1,Dolares,Costa Rica,Curacao
+94,1065,1937,0,1,Dolares,Costa Rica,Curacao
+94,1065,1938,162638,1,Dolares,Costa Rica,Curacao
+94,1065,1939,134031,1,Dolares,Costa Rica,Curacao
+94,1065,1940,102218,1,Dolares,Costa Rica,Curacao
+94,1065,1941,180188,1,Dolares,Costa Rica,Curacao
+94,1065,1942,1524,1,Dolares,Costa Rica,Curacao
+94,1065,1943,187584,1,Dolares,Costa Rica,Curacao
+94,1065,1944,195568,1,Dolares,Costa Rica,Curacao
+94,1065,1945,316851,1,Dolares,Costa Rica,Curacao
+94,1065,1946,476729,1,Dolares,Costa Rica,Curacao
+94,1065,1947,657371,1,Dolares,Costa Rica,Curacao
+94,1065,1948,1049167,1,Dolares,Costa Rica,Curacao
+94,1065,1949,1166937,1,Dolares,Costa Rica,Curacao
+94,1069,1915,0,1,,Costa Rica,Aruba
+94,1069,1916,0,1,Colones,Costa Rica,Aruba
+94,1069,1917,0,1,Colones,Costa Rica,Aruba
+94,1069,1919,0,1,Colones,Costa Rica,Aruba
+94,1069,1920,0,1,Colones,Costa Rica,Aruba
+94,1069,1921,0,1,Colones At 215%,Costa Rica,Aruba
+94,1069,1922,0,1,Colones At 215%,Costa Rica,Aruba
+94,1069,1923,0,1,Colones At 215%,Costa Rica,Aruba
+94,1069,1924,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1925,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1926,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1927,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1928,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1929,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1930,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1931,0,1,Colones At 400%,Costa Rica,Aruba
+94,1069,1932,0,1,Colones At 440%,Costa Rica,Aruba
+94,1069,1933,0,1,Colones At 455%,Costa Rica,Aruba
+94,1069,1934,0,1,Colones At 425%,Costa Rica,Aruba
+94,1069,1935,0,1,Colones At 594%,Costa Rica,Aruba
+94,1069,1936,0,1,Dolares,Costa Rica,Aruba
+94,1069,1937,0,1,Dolares,Costa Rica,Aruba
+94,1069,1938,0,1,Dolares,Costa Rica,Aruba
+94,1069,1939,0,1,Dolares,Costa Rica,Aruba
+94,1069,1940,0,1,Dolares,Costa Rica,Aruba
+94,1069,1941,0,1,Dolares,Costa Rica,Aruba
+94,1069,1942,33543,1,Dolares,Costa Rica,Aruba
+94,1069,1943,29861,1,Dolares,Costa Rica,Aruba
+94,1069,1944,149294,1,Dolares,Costa Rica,Aruba
+94,1069,1945,245176,1,Dolares,Costa Rica,Aruba
+94,1069,1946,200001,1,Dolares,Costa Rica,Aruba
+94,1069,1947,163649,1,Dolares,Costa Rica,Aruba
+94,1069,1948,395843,1,Dolares,Costa Rica,Aruba
+94,1069,1949,475022,1,Dolares,Costa Rica,Aruba
+94,2005,1915,0,1,,Costa Rica,British Africa
+94,2005,1916,0,1,Colones,Costa Rica,British Africa
+94,2005,1917,0,1,Colones,Costa Rica,British Africa
+94,2005,1919,0,1,Colones,Costa Rica,British Africa
+94,2005,1920,0,1,Colones,Costa Rica,British Africa
+94,2005,1921,0,1,Colones At 215%,Costa Rica,British Africa
+94,2005,1922,0,1,Colones At 215%,Costa Rica,British Africa
+94,2005,1923,0,1,Colones At 215%,Costa Rica,British Africa
+94,2005,1924,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1925,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1926,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1927,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1928,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1929,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1930,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1931,0,1,Colones At 400%,Costa Rica,British Africa
+94,2005,1932,0,1,Colones At 440%,Costa Rica,British Africa
+94,2005,1933,0,1,Colones At 455%,Costa Rica,British Africa
+94,2005,1934,0,1,Colones At 425%,Costa Rica,British Africa
+94,2005,1935,0,1,Colones At 594%,Costa Rica,British Africa
+94,2005,1936,0,1,Dolares,Costa Rica,British Africa
+94,2005,1937,0,1,Dolares,Costa Rica,British Africa
+94,2005,1938,0,1,Dolares,Costa Rica,British Africa
+94,2005,1939,0,1,Dolares,Costa Rica,British Africa
+94,2005,1940,0,1,Dolares,Costa Rica,British Africa
+94,2005,1941,1,1,Dolares,Costa Rica,British Africa
+94,2005,1942,0,1,Dolares,Costa Rica,British Africa
+94,2005,1943,0,1,Dolares,Costa Rica,British Africa
+94,2005,1944,0,1,Dolares,Costa Rica,British Africa
+94,2005,1945,0,1,Dolares,Costa Rica,British Africa
+94,2005,1946,0,1,Dolares,Costa Rica,British Africa
+94,2005,1947,0,1,Dolares,Costa Rica,British Africa
+94,2005,1948,0,1,Dolares,Costa Rica,British Africa
+94,2005,1949,0,1,Dolares,Costa Rica,British Africa
+94,8501,1915,0,1,,Costa Rica,Java
+94,8501,1916,0,1,Colones,Costa Rica,Java
+94,8501,1917,0,1,Colones,Costa Rica,Java
+94,8501,1919,0,1,Colones,Costa Rica,Java
+94,8501,1920,0,1,Colones,Costa Rica,Java
+94,8501,1921,0,1,Colones At 215%,Costa Rica,Java
+94,8501,1922,0,1,Colones At 215%,Costa Rica,Java
+94,8501,1923,0,1,Colones At 215%,Costa Rica,Java
+94,8501,1924,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1925,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1926,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1927,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1928,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1929,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1930,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1931,0,1,Colones At 400%,Costa Rica,Java
+94,8501,1932,0,1,Colones At 440%,Costa Rica,Java
+94,8501,1933,0,1,Colones At 455%,Costa Rica,Java
+94,8501,1934,0,1,Colones At 425%,Costa Rica,Java
+94,8501,1935,0,1,Colones At 594%,Costa Rica,Java
+94,8501,1936,0,1,Dolares,Costa Rica,Java
+94,8501,1937,0,1,Dolares,Costa Rica,Java
+94,8501,1938,0,1,Dolares,Costa Rica,Java
+94,8501,1939,0,1,Dolares,Costa Rica,Java
+94,8501,1940,300,1,Dolares,Costa Rica,Java
+94,8501,1941,9195,1,Dolares,Costa Rica,Java
+94,8501,1942,3872,1,Dolares,Costa Rica,Java
+94,8501,1943,0,1,Dolares,Costa Rica,Java
+94,8501,1944,0,1,Dolares,Costa Rica,Java
+94,8501,1945,44,1,Dolares,Costa Rica,Java
+94,8501,1946,0,1,Dolares,Costa Rica,Java
+94,8501,1947,154,1,Dolares,Costa Rica,Java
+94,8501,1948,4,1,Dolares,Costa Rica,Java
+94,8501,1949,0,1,Dolares,Costa Rica,Java
+94,8502,1915,0,1,,Costa Rica,Sumatra
+94,8502,1916,0,1,Colones,Costa Rica,Sumatra
+94,8502,1917,0,1,Colones,Costa Rica,Sumatra
+94,8502,1919,0,1,Colones,Costa Rica,Sumatra
+94,8502,1920,0,1,Colones,Costa Rica,Sumatra
+94,8502,1921,0,1,Colones At 215%,Costa Rica,Sumatra
+94,8502,1922,0,1,Colones At 215%,Costa Rica,Sumatra
+94,8502,1923,0,1,Colones At 215%,Costa Rica,Sumatra
+94,8502,1924,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1925,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1926,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1927,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1928,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1929,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1930,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1931,0,1,Colones At 400%,Costa Rica,Sumatra
+94,8502,1932,0,1,Colones At 440%,Costa Rica,Sumatra
+94,8502,1933,0,1,Colones At 455%,Costa Rica,Sumatra
+94,8502,1934,0,1,Colones At 425%,Costa Rica,Sumatra
+94,8502,1935,0,1,Colones At 594%,Costa Rica,Sumatra
+94,8502,1936,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1937,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1938,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1939,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1940,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1941,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1942,10,1,Dolares,Costa Rica,Sumatra
+94,8502,1943,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1944,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1945,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1946,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1947,15,1,Dolares,Costa Rica,Sumatra
+94,8502,1948,0,1,Dolares,Costa Rica,Sumatra
+94,8502,1949,0,1,Dolares,Costa Rica,Sumatra
+94,,1907,17514251,,,Costa Rica,
+94,,1908,11773954.4005,,,Costa Rica,
+94,,1909,12715945.01,,,Costa Rica,
+94,,1911,18926620.77,,,Costa Rica,
+94,,1912,18420233.42,,,Costa Rica,
+94,,1915,10098351.77,1,,Costa Rica,
+94,,1916,15414492.13,1,Colones,Costa Rica,
+94,,1917,13317269.25,1,Colones,Costa Rica,
+94,,1919,17843262,1,Colones,Costa Rica,
+94,,1920,53016251,1,Colones,Costa Rica,
+94,,1921,22693424,1,Colones At 215%,Costa Rica,
+94,,1922,20267662,1,Colones At 215%,Costa Rica,
+94,,1923,23153703,1,Colones At 215%,Costa Rica,
+94,,1924,52995188,1,Colones At 400%,Costa Rica,
+94,,1925,61145504,1,Colones At 400%,Costa Rica,
+94,,1926,58916352,1,Colones At 400%,Costa Rica,
+94,,1927,71332728,1,Colones At 400%,Costa Rica,
+94,,1928,78921920,1,Colones At 400%,Costa Rica,
+94,,1929,88616872,1,Colones At 400%,Costa Rica,
+94,,1930,47315624,1,Colones At 400%,Costa Rica,
+94,,1931,38009268,1,Colones At 400%,Costa Rica,
+94,,1932,26188160,1,Colones At 440%,Costa Rica,
+94,,1933,30870769,1,Colones At 455%,Costa Rica,
+94,,1934,39753885,1,Colones At 425%,Costa Rica,
+94,,1935,51236119,1,Colones At 594%,Costa Rica,
+94,,1936,10186336,1,Dolares,Costa Rica,
+94,,1937,12594318,1,Dolares,Costa Rica,
+94,,1938,13209498,1,Dolares,Costa Rica,
+94,,1939,17628456,1,Dolares,Costa Rica,
+94,,1940,17846456,1,Dolares,Costa Rica,
+94,,1941,18923340,1,Dolares,Costa Rica,
+94,,1942,14652209,1,Dolares,Costa Rica,
+94,,1943,26653802,1,Dolares,Costa Rica,
+94,,1944,27089436,1,Dolares,Costa Rica,
+94,,1945,33300046,1,Dolares,Costa Rica,
+94,,1946,37863336,1,Dolares,Costa Rica,
+94,,1947,51832308,1,Dolares,Costa Rica,
+94,,1948,44772904,1,Dolares,Costa Rica,
+94,,1949,46203225,1,Dolares,Costa Rica,

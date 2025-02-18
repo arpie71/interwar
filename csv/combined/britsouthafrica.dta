@@ -1,0 +1,2281 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+573,British South Africa,2,United States,1910,2740333,1,Pounds
+573,British South Africa,2,United States,1911,2918388,1,Pounds
+573,British South Africa,2,United States,1912,3314776,1,Pounds
+573,British South Africa,2,United States,1913,3776307,1,Pounds
+573,British South Africa,2,United States,1914,3108246,1,Pounds
+573,British South Africa,2,United States,1915,4532053,1,Pounds
+573,British South Africa,2,United States,1916,6240381,1,
+573,British South Africa,2,United States,1917,6452553,1,
+573,British South Africa,2,United States,1918,6771238,1,
+573,British South Africa,2,United States,1919,11546808,1,
+573,British South Africa,2,United States,1920,17311535,1,
+573,British South Africa,2,United States,1921,8244699,1,
+573,British South Africa,2,United States,1922,5878769,1,
+573,British South Africa,2,United States,1923,7225771,1,
+573,British South Africa,2,United States,1924,9160259,,
+573,British South Africa,2,United States,1925,9915473,,
+573,British South Africa,2,United States,1926,11915251,,
+573,British South Africa,2,United States,1927,12113555,,
+573,British South Africa,2,United States,1928,13570945,,
+573,British South Africa,2,United States,1929,15842187,,
+573,British South Africa,3,Alaska,1910,0,1,Pounds
+573,British South Africa,3,Alaska,1911,0,1,Pounds
+573,British South Africa,3,Alaska,1912,0,1,Pounds
+573,British South Africa,3,Alaska,1913,0,1,Pounds
+573,British South Africa,3,Alaska,1914,0,1,Pounds
+573,British South Africa,3,Alaska,1915,0,1,Pounds
+573,British South Africa,3,Alaska,1916,0,1,
+573,British South Africa,3,Alaska,1917,0,1,
+573,British South Africa,3,Alaska,1918,0,1,
+573,British South Africa,3,Alaska,1919,0,1,
+573,British South Africa,3,Alaska,1920,0,1,
+573,British South Africa,3,Alaska,1921,0,1,
+573,British South Africa,3,Alaska,1922,0,1,
+573,British South Africa,3,Alaska,1923,0,1,
+573,British South Africa,20,Canada,1910,647750,1,Pounds
+573,British South Africa,20,Canada,1911,654812,1,Pounds
+573,British South Africa,20,Canada,1912,680707,1,Pounds
+573,British South Africa,20,Canada,1913,880222,1,Pounds
+573,British South Africa,20,Canada,1914,803587,1,Pounds
+573,British South Africa,20,Canada,1915,1005160,1,Pounds
+573,British South Africa,20,Canada,1916,887664,1,
+573,British South Africa,20,Canada,1917,967842,1,
+573,British South Africa,20,Canada,1918,1050209,1,
+573,British South Africa,20,Canada,1919,1922845,1,
+573,British South Africa,20,Canada,1920,2712597,1,
+573,British South Africa,20,Canada,1921,1660273,1,
+573,British South Africa,20,Canada,1922,1194585,1,
+573,British South Africa,20,Canada,1923,1868663,1,
+573,British South Africa,20,Canada,1924,2273912,,
+573,British South Africa,20,Canada,1925,2335851,,
+573,British South Africa,20,Canada,1926,2235805,,
+573,British South Africa,20,Canada,1927,2182924,,
+573,British South Africa,20,Canada,1928,2407979,,
+573,British South Africa,20,Canada,1929,3003591,,
+573,British South Africa,21,Newfoundland,1910,52,1,Pounds
+573,British South Africa,21,Newfoundland,1911,32,1,Pounds
+573,British South Africa,21,Newfoundland,1912,3,1,Pounds
+573,British South Africa,21,Newfoundland,1913,4,1,Pounds
+573,British South Africa,21,Newfoundland,1914,0,1,Pounds
+573,British South Africa,21,Newfoundland,1915,26,1,Pounds
+573,British South Africa,21,Newfoundland,1916,601,1,
+573,British South Africa,21,Newfoundland,1917,855,1,
+573,British South Africa,21,Newfoundland,1918,624,1,
+573,British South Africa,21,Newfoundland,1919,804,1,
+573,British South Africa,21,Newfoundland,1920,258,1,
+573,British South Africa,21,Newfoundland,1921,84,1,
+573,British South Africa,21,Newfoundland,1922,735,1,
+573,British South Africa,21,Newfoundland,1923,1369,1,
+573,British South Africa,21,Newfoundland,1924,1267,,
+573,British South Africa,21,Newfoundland,1925,926,,
+573,British South Africa,21,Newfoundland,1926,168,,
+573,British South Africa,21,Newfoundland,1927,14,,
+573,British South Africa,21,Newfoundland,1928,18,,
+573,British South Africa,21,Newfoundland,1929,68,,
+573,British South Africa,40,Cuba,1910,26970,1,Pounds
+573,British South Africa,40,Cuba,1911,32935,1,Pounds
+573,British South Africa,40,Cuba,1912,25116,1,Pounds
+573,British South Africa,40,Cuba,1913,22206,1,Pounds
+573,British South Africa,40,Cuba,1914,19454,1,Pounds
+573,British South Africa,40,Cuba,1915,18272,1,Pounds
+573,British South Africa,40,Cuba,1916,26694,1,
+573,British South Africa,40,Cuba,1917,25727,1,
+573,British South Africa,40,Cuba,1918,28950,1,
+573,British South Africa,40,Cuba,1919,35243,1,
+573,British South Africa,40,Cuba,1920,73504,1,
+573,British South Africa,40,Cuba,1921,20543,1,
+573,British South Africa,40,Cuba,1922,20993,1,
+573,British South Africa,40,Cuba,1923,24297,1,
+573,British South Africa,40,Cuba,1924,27256,,
+573,British South Africa,40,Cuba,1925,28674,,
+573,British South Africa,40,Cuba,1926,28718,,
+573,British South Africa,40,Cuba,1927,34353,,
+573,British South Africa,40,Cuba,1928,32568,,
+573,British South Africa,40,Cuba,1929,35870,,
+573,British South Africa,41,Haiti,1910,0,1,Pounds
+573,British South Africa,41,Haiti,1911,0,1,Pounds
+573,British South Africa,41,Haiti,1912,0,1,Pounds
+573,British South Africa,41,Haiti,1913,0,1,Pounds
+573,British South Africa,41,Haiti,1914,0,1,Pounds
+573,British South Africa,41,Haiti,1915,0,1,Pounds
+573,British South Africa,41,Haiti,1916,0,1,
+573,British South Africa,41,Haiti,1917,0,1,
+573,British South Africa,41,Haiti,1918,0,1,
+573,British South Africa,41,Haiti,1919,0,1,
+573,British South Africa,41,Haiti,1920,0,1,
+573,British South Africa,41,Haiti,1921,0,1,
+573,British South Africa,41,Haiti,1922,0,1,
+573,British South Africa,41,Haiti,1923,0,1,
+573,British South Africa,42,Dominican Republic,1910,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1911,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1912,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1913,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1914,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1915,0,1,Pounds
+573,British South Africa,42,Dominican Republic,1916,0,1,
+573,British South Africa,42,Dominican Republic,1917,0,1,
+573,British South Africa,42,Dominican Republic,1918,0,1,
+573,British South Africa,42,Dominican Republic,1919,0,1,
+573,British South Africa,42,Dominican Republic,1920,0,1,
+573,British South Africa,42,Dominican Republic,1921,0,1,
+573,British South Africa,42,Dominican Republic,1922,0,1,
+573,British South Africa,42,Dominican Republic,1923,0,1,
+573,British South Africa,68,Netherlands Antilles,1910,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1911,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1912,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1913,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1914,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1915,0,1,Pounds
+573,British South Africa,68,Netherlands Antilles,1916,0,1,
+573,British South Africa,68,Netherlands Antilles,1917,0,1,
+573,British South Africa,68,Netherlands Antilles,1918,0,1,
+573,British South Africa,68,Netherlands Antilles,1919,0,1,
+573,British South Africa,68,Netherlands Antilles,1920,0,1,
+573,British South Africa,68,Netherlands Antilles,1921,0,1,
+573,British South Africa,68,Netherlands Antilles,1922,0,1,
+573,British South Africa,68,Netherlands Antilles,1923,0,1,
+573,British South Africa,70,Mexico,1910,202,1,Pounds
+573,British South Africa,70,Mexico,1911,351,1,Pounds
+573,British South Africa,70,Mexico,1912,972,1,Pounds
+573,British South Africa,70,Mexico,1913,1052,1,Pounds
+573,British South Africa,70,Mexico,1914,1726,1,Pounds
+573,British South Africa,70,Mexico,1915,3469,1,Pounds
+573,British South Africa,70,Mexico,1916,3230,1,
+573,British South Africa,70,Mexico,1917,5322,1,
+573,British South Africa,70,Mexico,1918,2556,1,
+573,British South Africa,70,Mexico,1919,3917,1,
+573,British South Africa,70,Mexico,1920,6619,1,
+573,British South Africa,70,Mexico,1921,3736,1,
+573,British South Africa,70,Mexico,1922,6212,1,
+573,British South Africa,70,Mexico,1923,10491,1,
+573,British South Africa,70,Mexico,1924,17640,,
+573,British South Africa,70,Mexico,1925,1775,,
+573,British South Africa,70,Mexico,1926,2420,,
+573,British South Africa,70,Mexico,1927,37429,,
+573,British South Africa,70,Mexico,1928,52484,,
+573,British South Africa,70,Mexico,1929,42459,,
+573,British South Africa,80,Belize,1910,578,1,Pounds
+573,British South Africa,80,Belize,1911,561,1,Pounds
+573,British South Africa,80,Belize,1912,1420,1,Pounds
+573,British South Africa,80,Belize,1913,1013,1,Pounds
+573,British South Africa,80,Belize,1914,771,1,Pounds
+573,British South Africa,80,Belize,1915,546,1,Pounds
+573,British South Africa,80,Belize,1916,903,1,
+573,British South Africa,80,Belize,1917,492,1,
+573,British South Africa,80,Belize,1918,175,1,
+573,British South Africa,80,Belize,1919,317,1,
+573,British South Africa,80,Belize,1920,4474,1,
+573,British South Africa,80,Belize,1921,12,1,
+573,British South Africa,80,Belize,1922,1145,1,
+573,British South Africa,80,Belize,1923,4223,1,
+573,British South Africa,80,Belize,1924,2434,,
+573,British South Africa,80,Belize,1925,503,,
+573,British South Africa,80,Belize,1926,427,,
+573,British South Africa,80,Belize,1927,1725,,
+573,British South Africa,80,Belize,1928,373,,
+573,British South Africa,80,Belize,1929,299,,
+573,British South Africa,90,Guatemala,1910,0,1,Pounds
+573,British South Africa,90,Guatemala,1911,0,1,Pounds
+573,British South Africa,90,Guatemala,1912,0,1,Pounds
+573,British South Africa,90,Guatemala,1913,0,1,Pounds
+573,British South Africa,90,Guatemala,1914,0,1,Pounds
+573,British South Africa,90,Guatemala,1915,137,1,Pounds
+573,British South Africa,90,Guatemala,1916,0,1,
+573,British South Africa,90,Guatemala,1917,0,1,
+573,British South Africa,90,Guatemala,1918,0,1,
+573,British South Africa,90,Guatemala,1919,0,1,
+573,British South Africa,90,Guatemala,1920,0,1,
+573,British South Africa,90,Guatemala,1921,0,1,
+573,British South Africa,90,Guatemala,1922,0,1,
+573,British South Africa,90,Guatemala,1923,0,1,
+573,British South Africa,91,Honduras,1910,0,1,Pounds
+573,British South Africa,91,Honduras,1911,0,1,Pounds
+573,British South Africa,91,Honduras,1912,0,1,Pounds
+573,British South Africa,91,Honduras,1913,0,1,Pounds
+573,British South Africa,91,Honduras,1914,0,1,Pounds
+573,British South Africa,91,Honduras,1915,0,1,Pounds
+573,British South Africa,91,Honduras,1916,0,1,
+573,British South Africa,91,Honduras,1917,0,1,
+573,British South Africa,91,Honduras,1918,0,1,
+573,British South Africa,91,Honduras,1919,0,1,
+573,British South Africa,91,Honduras,1920,0,1,
+573,British South Africa,91,Honduras,1921,0,1,
+573,British South Africa,91,Honduras,1922,0,1,
+573,British South Africa,91,Honduras,1923,0,1,
+573,British South Africa,92,El Salvador,1910,6370,1,Pounds
+573,British South Africa,92,El Salvador,1911,6379,1,Pounds
+573,British South Africa,92,El Salvador,1912,59,1,Pounds
+573,British South Africa,92,El Salvador,1913,99,1,Pounds
+573,British South Africa,92,El Salvador,1914,0,1,Pounds
+573,British South Africa,92,El Salvador,1915,157,1,Pounds
+573,British South Africa,92,El Salvador,1916,0,1,
+573,British South Africa,92,El Salvador,1917,13,1,
+573,British South Africa,92,El Salvador,1918,22,1,
+573,British South Africa,92,El Salvador,1919,42,1,
+573,British South Africa,92,El Salvador,1920,15,1,
+573,British South Africa,92,El Salvador,1921,883,1,
+573,British South Africa,92,El Salvador,1922,1420,1,
+573,British South Africa,92,El Salvador,1923,470,1,
+573,British South Africa,92,El Salvador,1924,318,,
+573,British South Africa,92,El Salvador,1925,44,,
+573,British South Africa,92,El Salvador,1926,36,,
+573,British South Africa,92,El Salvador,1927,11,,
+573,British South Africa,92,El Salvador,1928,556,,
+573,British South Africa,92,El Salvador,1929,143,,
+573,British South Africa,93,Nicaragua,1910,0,1,Pounds
+573,British South Africa,93,Nicaragua,1911,0,1,Pounds
+573,British South Africa,93,Nicaragua,1912,0,1,Pounds
+573,British South Africa,93,Nicaragua,1913,0,1,Pounds
+573,British South Africa,93,Nicaragua,1914,0,1,Pounds
+573,British South Africa,93,Nicaragua,1915,0,1,Pounds
+573,British South Africa,93,Nicaragua,1916,0,1,
+573,British South Africa,93,Nicaragua,1917,0,1,
+573,British South Africa,93,Nicaragua,1918,0,1,
+573,British South Africa,93,Nicaragua,1919,0,1,
+573,British South Africa,93,Nicaragua,1920,0,1,
+573,British South Africa,93,Nicaragua,1921,0,1,
+573,British South Africa,93,Nicaragua,1922,0,1,
+573,British South Africa,93,Nicaragua,1923,0,1,
+573,British South Africa,94,Costa Rica,1910,10926,1,Pounds
+573,British South Africa,94,Costa Rica,1911,16634,1,Pounds
+573,British South Africa,94,Costa Rica,1912,19827,1,Pounds
+573,British South Africa,94,Costa Rica,1913,18634,1,Pounds
+573,British South Africa,94,Costa Rica,1914,17846,1,Pounds
+573,British South Africa,94,Costa Rica,1915,19694,1,Pounds
+573,British South Africa,94,Costa Rica,1916,12848,1,
+573,British South Africa,94,Costa Rica,1917,956,1,
+573,British South Africa,94,Costa Rica,1918,292,1,
+573,British South Africa,94,Costa Rica,1919,791,1,
+573,British South Africa,94,Costa Rica,1920,2169,1,
+573,British South Africa,94,Costa Rica,1921,2661,1,
+573,British South Africa,94,Costa Rica,1922,2629,1,
+573,British South Africa,94,Costa Rica,1923,2188,1,
+573,British South Africa,94,Costa Rica,1924,3696,,
+573,British South Africa,94,Costa Rica,1925,3373,,
+573,British South Africa,94,Costa Rica,1926,2183,,
+573,British South Africa,94,Costa Rica,1927,3448,,
+573,British South Africa,94,Costa Rica,1928,3322,,
+573,British South Africa,94,Costa Rica,1929,3496,,
+573,British South Africa,95,Panama,1910,293,1,Pounds
+573,British South Africa,95,Panama,1911,146,1,Pounds
+573,British South Africa,95,Panama,1912,801,1,Pounds
+573,British South Africa,95,Panama,1913,698,1,Pounds
+573,British South Africa,95,Panama,1914,377,1,Pounds
+573,British South Africa,95,Panama,1915,303,1,Pounds
+573,British South Africa,95,Panama,1916,792,1,
+573,British South Africa,95,Panama,1917,960,1,
+573,British South Africa,95,Panama,1918,170,1,
+573,British South Africa,95,Panama,1919,68,1,
+573,British South Africa,95,Panama,1920,184,1,
+573,British South Africa,95,Panama,1921,55,1,
+573,British South Africa,95,Panama,1922,185,1,
+573,British South Africa,95,Panama,1923,193,1,
+573,British South Africa,95,Panama,1924,199,,
+573,British South Africa,95,Panama,1925,147,,
+573,British South Africa,95,Panama,1926,52,,
+573,British South Africa,95,Panama,1927,3,,
+573,British South Africa,95,Panama,1928,52,,
+573,British South Africa,95,Panama,1929,8,,
+573,British South Africa,100,Colombia,1910,0,1,Pounds
+573,British South Africa,100,Colombia,1911,0,1,Pounds
+573,British South Africa,100,Colombia,1912,0,1,Pounds
+573,British South Africa,100,Colombia,1913,0,1,Pounds
+573,British South Africa,100,Colombia,1914,0,1,Pounds
+573,British South Africa,100,Colombia,1915,0,1,Pounds
+573,British South Africa,100,Colombia,1916,0,1,
+573,British South Africa,100,Colombia,1917,0,1,
+573,British South Africa,100,Colombia,1918,0,1,
+573,British South Africa,100,Colombia,1919,0,1,
+573,British South Africa,100,Colombia,1920,0,1,
+573,British South Africa,100,Colombia,1921,0,1,
+573,British South Africa,100,Colombia,1922,0,1,
+573,British South Africa,100,Colombia,1923,0,1,
+573,British South Africa,101,Venezuela,1910,936,1,Pounds
+573,British South Africa,101,Venezuela,1911,1123,1,Pounds
+573,British South Africa,101,Venezuela,1912,1103,1,Pounds
+573,British South Africa,101,Venezuela,1913,1743,1,Pounds
+573,British South Africa,101,Venezuela,1914,1756,1,Pounds
+573,British South Africa,101,Venezuela,1915,2119,1,Pounds
+573,British South Africa,101,Venezuela,1916,478,1,
+573,British South Africa,101,Venezuela,1917,21,1,
+573,British South Africa,101,Venezuela,1918,4,1,
+573,British South Africa,101,Venezuela,1919,130,1,
+573,British South Africa,101,Venezuela,1920,72,1,
+573,British South Africa,101,Venezuela,1921,345,1,
+573,British South Africa,101,Venezuela,1922,218,1,
+573,British South Africa,101,Venezuela,1923,1891,1,
+573,British South Africa,101,Venezuela,1924,1567,,
+573,British South Africa,101,Venezuela,1925,489,,
+573,British South Africa,101,Venezuela,1926,535,,
+573,British South Africa,101,Venezuela,1927,4550,,
+573,British South Africa,101,Venezuela,1928,6009,,
+573,British South Africa,101,Venezuela,1929,14008,,
+573,British South Africa,110,Guyana,1910,73,1,Pounds
+573,British South Africa,110,Guyana,1911,434,1,Pounds
+573,British South Africa,110,Guyana,1912,22,1,Pounds
+573,British South Africa,110,Guyana,1913,466,1,Pounds
+573,British South Africa,110,Guyana,1914,1766,1,Pounds
+573,British South Africa,110,Guyana,1915,1853,1,Pounds
+573,British South Africa,110,Guyana,1916,3856,1,
+573,British South Africa,110,Guyana,1917,1629,1,
+573,British South Africa,110,Guyana,1918,0,1,
+573,British South Africa,110,Guyana,1919,0,1,
+573,British South Africa,110,Guyana,1920,0,1,
+573,British South Africa,110,Guyana,1921,23,1,
+573,British South Africa,110,Guyana,1922,0,1,
+573,British South Africa,110,Guyana,1923,0,1,
+573,British South Africa,110,Guyana,1926,179,,
+573,British South Africa,110,Guyana,1927,16,,
+573,British South Africa,110,Guyana,1928,114,,
+573,British South Africa,110,Guyana,1929,3,,
+573,British South Africa,115,Suriname,1910,0,1,Pounds
+573,British South Africa,115,Suriname,1911,0,1,Pounds
+573,British South Africa,115,Suriname,1912,0,1,Pounds
+573,British South Africa,115,Suriname,1913,0,1,Pounds
+573,British South Africa,115,Suriname,1914,0,1,Pounds
+573,British South Africa,115,Suriname,1915,0,1,Pounds
+573,British South Africa,115,Suriname,1916,0,1,
+573,British South Africa,115,Suriname,1917,0,1,
+573,British South Africa,115,Suriname,1918,0,1,
+573,British South Africa,115,Suriname,1919,0,1,
+573,British South Africa,115,Suriname,1920,0,1,
+573,British South Africa,115,Suriname,1921,0,1,
+573,British South Africa,115,Suriname,1922,0,1,
+573,British South Africa,115,Suriname,1923,0,1,
+573,British South Africa,130,Ecuador,1910,283,1,Pounds
+573,British South Africa,130,Ecuador,1911,467,1,Pounds
+573,British South Africa,130,Ecuador,1912,175,1,Pounds
+573,British South Africa,130,Ecuador,1913,157,1,Pounds
+573,British South Africa,130,Ecuador,1914,465,1,Pounds
+573,British South Africa,130,Ecuador,1915,308,1,Pounds
+573,British South Africa,130,Ecuador,1916,370,1,
+573,British South Africa,130,Ecuador,1917,878,1,
+573,British South Africa,130,Ecuador,1918,1156,1,
+573,British South Africa,130,Ecuador,1919,549,1,
+573,British South Africa,130,Ecuador,1920,3068,1,
+573,British South Africa,130,Ecuador,1921,286,1,
+573,British South Africa,130,Ecuador,1922,987,1,
+573,British South Africa,130,Ecuador,1923,1631,1,
+573,British South Africa,130,Ecuador,1924,940,,
+573,British South Africa,130,Ecuador,1925,1133,,
+573,British South Africa,130,Ecuador,1926,959,,
+573,British South Africa,130,Ecuador,1927,1400,,
+573,British South Africa,130,Ecuador,1928,1014,,
+573,British South Africa,130,Ecuador,1929,350,,
+573,British South Africa,135,Peru,1910,19116,1,Pounds
+573,British South Africa,135,Peru,1911,306,1,Pounds
+573,British South Africa,135,Peru,1912,482,1,Pounds
+573,British South Africa,135,Peru,1913,115,1,Pounds
+573,British South Africa,135,Peru,1914,325,1,Pounds
+573,British South Africa,135,Peru,1915,120,1,Pounds
+573,British South Africa,135,Peru,1916,170,1,
+573,British South Africa,135,Peru,1917,179,1,
+573,British South Africa,135,Peru,1918,94,1,
+573,British South Africa,135,Peru,1919,167,1,
+573,British South Africa,135,Peru,1920,1536,1,
+573,British South Africa,135,Peru,1921,15,1,
+573,British South Africa,135,Peru,1922,23,1,
+573,British South Africa,135,Peru,1923,51,1,
+573,British South Africa,135,Peru,1924,43,,
+573,British South Africa,135,Peru,1925,91,,
+573,British South Africa,135,Peru,1926,98,,
+573,British South Africa,135,Peru,1927,181,,
+573,British South Africa,135,Peru,1928,478,,
+573,British South Africa,135,Peru,1929,379,,
+573,British South Africa,140,Brazil,1910,478438,1,Pounds
+573,British South Africa,140,Brazil,1911,609059,1,Pounds
+573,British South Africa,140,Brazil,1912,727456,1,Pounds
+573,British South Africa,140,Brazil,1913,628414,1,Pounds
+573,British South Africa,140,Brazil,1914,485346,1,Pounds
+573,British South Africa,140,Brazil,1915,492291,1,Pounds
+573,British South Africa,140,Brazil,1916,521246,1,
+573,British South Africa,140,Brazil,1917,531668,1,
+573,British South Africa,140,Brazil,1918,787145,1,
+573,British South Africa,140,Brazil,1919,635141,1,
+573,British South Africa,140,Brazil,1920,1098339,1,
+573,British South Africa,140,Brazil,1921,565388,1,
+573,British South Africa,140,Brazil,1922,684246,1,
+573,British South Africa,140,Brazil,1923,745439,1,
+573,British South Africa,140,Brazil,1924,977459,,
+573,British South Africa,140,Brazil,1925,1115636,,
+573,British South Africa,140,Brazil,1926,994364,,
+573,British South Africa,140,Brazil,1927,856307,,
+573,British South Africa,140,Brazil,1928,863522,,
+573,British South Africa,140,Brazil,1929,862982,,
+573,British South Africa,145,Bolivia,1910,0,1,Pounds
+573,British South Africa,145,Bolivia,1911,0,1,Pounds
+573,British South Africa,145,Bolivia,1912,0,1,Pounds
+573,British South Africa,145,Bolivia,1913,0,1,Pounds
+573,British South Africa,145,Bolivia,1914,0,1,Pounds
+573,British South Africa,145,Bolivia,1915,0,1,Pounds
+573,British South Africa,145,Bolivia,1916,0,1,
+573,British South Africa,145,Bolivia,1917,0,1,
+573,British South Africa,145,Bolivia,1918,0,1,
+573,British South Africa,145,Bolivia,1919,0,1,
+573,British South Africa,145,Bolivia,1920,0,1,
+573,British South Africa,145,Bolivia,1921,0,1,
+573,British South Africa,145,Bolivia,1922,0,1,
+573,British South Africa,145,Bolivia,1923,0,1,
+573,British South Africa,150,Paraguay,1910,0,1,Pounds
+573,British South Africa,150,Paraguay,1911,0,1,Pounds
+573,British South Africa,150,Paraguay,1912,0,1,Pounds
+573,British South Africa,150,Paraguay,1913,0,1,Pounds
+573,British South Africa,150,Paraguay,1914,0,1,Pounds
+573,British South Africa,150,Paraguay,1915,0,1,Pounds
+573,British South Africa,150,Paraguay,1916,0,1,
+573,British South Africa,150,Paraguay,1917,0,1,
+573,British South Africa,150,Paraguay,1918,0,1,
+573,British South Africa,150,Paraguay,1919,0,1,
+573,British South Africa,150,Paraguay,1920,0,1,
+573,British South Africa,150,Paraguay,1921,0,1,
+573,British South Africa,150,Paraguay,1922,0,1,
+573,British South Africa,150,Paraguay,1923,0,1,
+573,British South Africa,155,Chile,1910,190478,1,Pounds
+573,British South Africa,155,Chile,1911,170507,1,Pounds
+573,British South Africa,155,Chile,1912,282222,1,Pounds
+573,British South Africa,155,Chile,1913,231916,1,Pounds
+573,British South Africa,155,Chile,1914,214810,1,Pounds
+573,British South Africa,155,Chile,1915,111185,1,Pounds
+573,British South Africa,155,Chile,1916,277480,1,
+573,British South Africa,155,Chile,1917,359951,1,
+573,British South Africa,155,Chile,1918,165316,1,
+573,British South Africa,155,Chile,1919,293548,1,
+573,British South Africa,155,Chile,1920,172317,1,
+573,British South Africa,155,Chile,1921,328492,1,
+573,British South Africa,155,Chile,1922,139648,1,
+573,British South Africa,155,Chile,1923,234469,1,
+573,British South Africa,155,Chile,1924,296224,,
+573,British South Africa,155,Chile,1925,130375,,
+573,British South Africa,155,Chile,1926,219092,,
+573,British South Africa,155,Chile,1927,222024,,
+573,British South Africa,155,Chile,1928,272090,,
+573,British South Africa,155,Chile,1929,232795,,
+573,British South Africa,160,Argentina,1910,78993,1,Pounds
+573,British South Africa,160,Argentina,1911,79122,1,Pounds
+573,British South Africa,160,Argentina,1912,29200,1,Pounds
+573,British South Africa,160,Argentina,1913,173370,1,Pounds
+573,British South Africa,160,Argentina,1914,30981,1,Pounds
+573,British South Africa,160,Argentina,1915,315640,1,Pounds
+573,British South Africa,160,Argentina,1916,166912,1,
+573,British South Africa,160,Argentina,1917,81430,1,
+573,British South Africa,160,Argentina,1918,623892,1,
+573,British South Africa,160,Argentina,1919,160575,1,
+573,British South Africa,160,Argentina,1920,1613818,1,
+573,British South Africa,160,Argentina,1921,75926,1,
+573,British South Africa,160,Argentina,1922,138552,1,
+573,British South Africa,160,Argentina,1923,285934,1,
+573,British South Africa,160,Argentina,1924,276218,,
+573,British South Africa,160,Argentina,1925,463395,,
+573,British South Africa,160,Argentina,1926,127804,,
+573,British South Africa,160,Argentina,1927,267443,,
+573,British South Africa,160,Argentina,1928,504506,,
+573,British South Africa,160,Argentina,1929,422905,,
+573,British South Africa,165,Uruguay,1910,11036,1,Pounds
+573,British South Africa,165,Uruguay,1911,11403,1,Pounds
+573,British South Africa,165,Uruguay,1912,14663,1,Pounds
+573,British South Africa,165,Uruguay,1913,11298,1,Pounds
+573,British South Africa,165,Uruguay,1914,9202,1,Pounds
+573,British South Africa,165,Uruguay,1915,7899,1,Pounds
+573,British South Africa,165,Uruguay,1916,4737,1,
+573,British South Africa,165,Uruguay,1917,1218,1,
+573,British South Africa,165,Uruguay,1918,15229,1,
+573,British South Africa,165,Uruguay,1919,3084,1,
+573,British South Africa,165,Uruguay,1920,25298,1,
+573,British South Africa,165,Uruguay,1921,979,1,
+573,British South Africa,165,Uruguay,1922,3427,1,
+573,British South Africa,165,Uruguay,1923,3511,1,
+573,British South Africa,165,Uruguay,1924,2997,,
+573,British South Africa,165,Uruguay,1925,18,,
+573,British South Africa,165,Uruguay,1926,11,,
+573,British South Africa,165,Uruguay,1927,997,,
+573,British South Africa,165,Uruguay,1928,9,,
+573,British South Africa,165,Uruguay,1929,1680,,
+573,British South Africa,200,United Kingdom,1910,20728373,1,Pounds
+573,British South Africa,200,United Kingdom,1911,21252221,1,Pounds
+573,British South Africa,200,United Kingdom,1912,21869810,1,Pounds
+573,British South Africa,200,United Kingdom,1913,22141489,1,Pounds
+573,British South Africa,200,United Kingdom,1914,18623263,1,Pounds
+573,British South Africa,200,United Kingdom,1915,17686780,1,Pounds
+573,British South Africa,200,United Kingdom,1916,23340967,1,
+573,British South Africa,200,United Kingdom,1917,18814426,1,
+573,British South Africa,200,United Kingdom,1918,26165983,1,
+573,British South Africa,200,United Kingdom,1919,21848032,1,
+573,British South Africa,200,United Kingdom,1920,51374443,1,
+573,British South Africa,200,United Kingdom,1921,28711922,1,
+573,British South Africa,200,United Kingdom,1922,26544740,1,
+573,British South Africa,200,United Kingdom,1923,29261766,1,
+573,British South Africa,200,United Kingdom,1924,30871452,,
+573,British South Africa,200,United Kingdom,1925,33354710,,
+573,British South Africa,200,United Kingdom,1926,34889149,,
+573,British South Africa,200,United Kingdom,1927,34776836,,
+573,British South Africa,200,United Kingdom,1928,36213668,,
+573,British South Africa,200,United Kingdom,1929,36577849,,
+573,British South Africa,205,Ireland,1910,0,1,Pounds
+573,British South Africa,205,Ireland,1911,0,1,Pounds
+573,British South Africa,205,Ireland,1912,0,1,Pounds
+573,British South Africa,205,Ireland,1913,0,1,Pounds
+573,British South Africa,205,Ireland,1914,0,1,Pounds
+573,British South Africa,205,Ireland,1915,0,1,Pounds
+573,British South Africa,205,Ireland,1916,0,1,
+573,British South Africa,205,Ireland,1917,0,1,
+573,British South Africa,205,Ireland,1918,0,1,
+573,British South Africa,205,Ireland,1919,0,1,
+573,British South Africa,205,Ireland,1920,0,1,
+573,British South Africa,205,Ireland,1921,0,1,
+573,British South Africa,205,Ireland,1922,0,1,
+573,British South Africa,205,Ireland,1923,0,1,
+573,British South Africa,205,Ireland,1924,21742,,
+573,British South Africa,205,Ireland,1925,21829,,
+573,British South Africa,205,Ireland,1926,18707,,
+573,British South Africa,205,Ireland,1927,85602,,
+573,British South Africa,205,Ireland,1928,25185,,
+573,British South Africa,205,Ireland,1929,31797,,
+573,British South Africa,210,Netherlands,1910,538227,1,Pounds
+573,British South Africa,210,Netherlands,1911,636104,1,Pounds
+573,British South Africa,210,Netherlands,1912,752996,1,Pounds
+573,British South Africa,210,Netherlands,1913,854041,1,Pounds
+573,British South Africa,210,Netherlands,1914,576512,1,Pounds
+573,British South Africa,210,Netherlands,1915,521391,1,Pounds
+573,British South Africa,210,Netherlands,1916,536243,1,
+573,British South Africa,210,Netherlands,1917,364075,1,
+573,British South Africa,210,Netherlands,1918,371394,1,
+573,British South Africa,210,Netherlands,1919,201936,1,
+573,British South Africa,210,Netherlands,1920,770632,1,
+573,British South Africa,210,Netherlands,1921,592889,1,
+573,British South Africa,210,Netherlands,1922,448385,1,
+573,British South Africa,210,Netherlands,1923,568962,1,
+573,British South Africa,210,Netherlands,1924,843711,,
+573,British South Africa,210,Netherlands,1925,951965,,
+573,British South Africa,210,Netherlands,1926,1122132,,
+573,British South Africa,210,Netherlands,1927,1160868,,
+573,British South Africa,210,Netherlands,1928,1327727,,
+573,British South Africa,210,Netherlands,1929,1460818,,
+573,British South Africa,211,Belgium,1910,659164,1,Pounds
+573,British South Africa,211,Belgium,1911,809270,1,Pounds
+573,British South Africa,211,Belgium,1912,719920,1,Pounds
+573,British South Africa,211,Belgium,1913,707669,1,Pounds
+573,British South Africa,211,Belgium,1914,462973,1,Pounds
+573,British South Africa,211,Belgium,1915,31118,1,Pounds
+573,British South Africa,211,Belgium,1916,29121,1,
+573,British South Africa,211,Belgium,1917,11554,1,
+573,British South Africa,211,Belgium,1918,4486,1,
+573,British South Africa,211,Belgium,1919,21439,1,
+573,British South Africa,211,Belgium,1920,840632,1,
+573,British South Africa,211,Belgium,1921,578171,1,
+573,British South Africa,211,Belgium,1922,916522,1,
+573,British South Africa,211,Belgium,1923,1194124,1,
+573,British South Africa,211,Belgium,1924,960595,,
+573,British South Africa,211,Belgium,1925,861148,,
+573,British South Africa,211,Belgium,1926,1080217,,
+573,British South Africa,211,Belgium,1927,1366021,,
+573,British South Africa,211,Belgium,1928,1681961,,
+573,British South Africa,211,Belgium,1929,1689639,,
+573,British South Africa,220,France,1910,563024,1,Pounds
+573,British South Africa,220,France,1911,590445,1,Pounds
+573,British South Africa,220,France,1912,632746,1,Pounds
+573,British South Africa,220,France,1913,612057,1,Pounds
+573,British South Africa,220,France,1914,498799,1,Pounds
+573,British South Africa,220,France,1915,494153,1,Pounds
+573,British South Africa,220,France,1916,517113,1,
+573,British South Africa,220,France,1917,450311,1,
+573,British South Africa,220,France,1918,480981,1,
+573,British South Africa,220,France,1919,619784,1,
+573,British South Africa,220,France,1920,1310072,1,
+573,British South Africa,220,France,1921,790692,1,
+573,British South Africa,220,France,1922,879911,1,
+573,British South Africa,220,France,1923,835048,1,
+573,British South Africa,220,France,1924,1177928,,
+573,British South Africa,220,France,1925,1189689,,
+573,British South Africa,220,France,1926,1402657,,
+573,British South Africa,220,France,1927,1756656,,
+573,British South Africa,220,France,1928,1664651,,
+573,British South Africa,220,France,1929,1588494,,
+573,British South Africa,225,Switzerland,1910,149004,1,Pounds
+573,British South Africa,225,Switzerland,1911,171576,1,Pounds
+573,British South Africa,225,Switzerland,1912,192459,1,Pounds
+573,British South Africa,225,Switzerland,1913,195181,1,Pounds
+573,British South Africa,225,Switzerland,1914,202521,1,Pounds
+573,British South Africa,225,Switzerland,1915,319177,1,Pounds
+573,British South Africa,225,Switzerland,1916,387688,1,
+573,British South Africa,225,Switzerland,1917,291700,1,
+573,British South Africa,225,Switzerland,1918,499603,1,
+573,British South Africa,225,Switzerland,1919,346382,1,
+573,British South Africa,225,Switzerland,1920,1001443,1,
+573,British South Africa,225,Switzerland,1921,431030,1,
+573,British South Africa,225,Switzerland,1922,522079,1,
+573,British South Africa,225,Switzerland,1923,556156,1,
+573,British South Africa,225,Switzerland,1924,635586,,
+573,British South Africa,225,Switzerland,1925,742437,,
+573,British South Africa,225,Switzerland,1926,604964,,
+573,British South Africa,225,Switzerland,1927,577456,,
+573,British South Africa,225,Switzerland,1928,630386,,
+573,British South Africa,225,Switzerland,1929,644810,,
+573,British South Africa,230,Spain,1910,39966,1,Pounds
+573,British South Africa,230,Spain,1911,47970,1,Pounds
+573,British South Africa,230,Spain,1912,49897,1,Pounds
+573,British South Africa,230,Spain,1913,64788,1,Pounds
+573,British South Africa,230,Spain,1914,38924,1,Pounds
+573,British South Africa,230,Spain,1915,62788,1,Pounds
+573,British South Africa,230,Spain,1916,93586,1,
+573,British South Africa,230,Spain,1917,40398,1,
+573,British South Africa,230,Spain,1918,95624,1,
+573,British South Africa,230,Spain,1919,54797,1,
+573,British South Africa,230,Spain,1920,120077,1,
+573,British South Africa,230,Spain,1921,55186,1,
+573,British South Africa,230,Spain,1922,44573,1,
+573,British South Africa,230,Spain,1923,45061,1,
+573,British South Africa,230,Spain,1924,48174,,
+573,British South Africa,230,Spain,1925,63685,,
+573,British South Africa,230,Spain,1926,60240,,
+573,British South Africa,230,Spain,1927,68673,,
+573,British South Africa,230,Spain,1928,79049,,
+573,British South Africa,230,Spain,1929,88216,,
+573,British South Africa,231,Gibraltar,1910,0,1,Pounds
+573,British South Africa,231,Gibraltar,1911,0,1,Pounds
+573,British South Africa,231,Gibraltar,1912,0,1,Pounds
+573,British South Africa,231,Gibraltar,1913,0,1,Pounds
+573,British South Africa,231,Gibraltar,1914,0,1,Pounds
+573,British South Africa,231,Gibraltar,1915,0,1,Pounds
+573,British South Africa,231,Gibraltar,1916,0,1,
+573,British South Africa,231,Gibraltar,1917,0,1,
+573,British South Africa,231,Gibraltar,1918,0,1,
+573,British South Africa,231,Gibraltar,1919,0,1,
+573,British South Africa,231,Gibraltar,1920,0,1,
+573,British South Africa,231,Gibraltar,1921,0,1,
+573,British South Africa,231,Gibraltar,1922,0,1,
+573,British South Africa,231,Gibraltar,1923,0,1,
+573,British South Africa,235,Portugal,1910,34936,1,Pounds
+573,British South Africa,235,Portugal,1911,42266,1,Pounds
+573,British South Africa,235,Portugal,1912,39850,1,Pounds
+573,British South Africa,235,Portugal,1913,42997,1,Pounds
+573,British South Africa,235,Portugal,1914,31344,1,Pounds
+573,British South Africa,235,Portugal,1915,53646,1,Pounds
+573,British South Africa,235,Portugal,1916,55263,1,
+573,British South Africa,235,Portugal,1917,49266,1,
+573,British South Africa,235,Portugal,1918,73404,1,
+573,British South Africa,235,Portugal,1919,57213,1,
+573,British South Africa,235,Portugal,1920,113801,1,
+573,British South Africa,235,Portugal,1921,26950,1,
+573,British South Africa,235,Portugal,1922,25719,1,
+573,British South Africa,235,Portugal,1923,33284,1,
+573,British South Africa,235,Portugal,1924,42018,,
+573,British South Africa,235,Portugal,1925,43390,,
+573,British South Africa,235,Portugal,1926,36312,,
+573,British South Africa,235,Portugal,1927,51242,,
+573,British South Africa,235,Portugal,1928,42400,,
+573,British South Africa,235,Portugal,1929,51043,,
+573,British South Africa,255,Germany,1910,3619029,1,Pounds
+573,British South Africa,255,Germany,1911,3503932,1,Pounds
+573,British South Africa,255,Germany,1912,3324951,1,Pounds
+573,British South Africa,255,Germany,1913,3524268,1,Pounds
+573,British South Africa,255,Germany,1914,2268362,1,Pounds
+573,British South Africa,255,Germany,1915,119829,1,Pounds
+573,British South Africa,255,Germany,1916,38762,1,
+573,British South Africa,255,Germany,1917,6583,1,
+573,British South Africa,255,Germany,1918,19618,1,
+573,British South Africa,255,Germany,1919,30062,1,
+573,British South Africa,255,Germany,1920,895230,1,
+573,British South Africa,255,Germany,1921,1275142,1,
+573,British South Africa,255,Germany,1922,3017830,1,
+573,British South Africa,255,Germany,1923,3022997,1,
+573,British South Africa,255,Germany,1924,3696888,,
+573,British South Africa,255,Germany,1925,3948632,,
+573,British South Africa,255,Germany,1926,4732964,,
+573,British South Africa,255,Germany,1927,5222476,,
+573,British South Africa,255,Germany,1928,5491427,,
+573,British South Africa,255,Germany,1929,5817559,,
+573,British South Africa,290,Poland,1910,0,1,Pounds
+573,British South Africa,290,Poland,1911,0,1,Pounds
+573,British South Africa,290,Poland,1912,0,1,Pounds
+573,British South Africa,290,Poland,1913,0,1,Pounds
+573,British South Africa,290,Poland,1914,0,1,Pounds
+573,British South Africa,290,Poland,1915,0,1,Pounds
+573,British South Africa,290,Poland,1916,0,1,
+573,British South Africa,290,Poland,1917,0,1,
+573,British South Africa,290,Poland,1918,0,1,
+573,British South Africa,290,Poland,1919,0,1,
+573,British South Africa,290,Poland,1920,12724,1,
+573,British South Africa,290,Poland,1921,7344,1,
+573,British South Africa,290,Poland,1922,15755,1,
+573,British South Africa,290,Poland,1923,28946,1,
+573,British South Africa,290,Poland,1924,43334,,
+573,British South Africa,290,Poland,1925,40376,,
+573,British South Africa,290,Poland,1926,23120,,
+573,British South Africa,290,Poland,1927,96464,,
+573,British South Africa,290,Poland,1928,155068,,
+573,British South Africa,290,Poland,1929,150048,,
+573,British South Africa,300,Austria-Hungary,1910,123158,1,Pounds
+573,British South Africa,300,Austria-Hungary,1911,134308,1,Pounds
+573,British South Africa,300,Austria-Hungary,1912,142592,1,Pounds
+573,British South Africa,300,Austria-Hungary,1913,152473,1,Pounds
+573,British South Africa,300,Austria-Hungary,1914,121807,1,Pounds
+573,British South Africa,300,Austria-Hungary,1915,7042,1,Pounds
+573,British South Africa,300,Austria-Hungary,1916,1996,1,
+573,British South Africa,300,Austria-Hungary,1917,369,1,
+573,British South Africa,300,Austria-Hungary,1918,73,1,
+573,British South Africa,300,Austria-Hungary,1919,86,1,
+573,British South Africa,300,Austria-Hungary,1920,0,1,
+573,British South Africa,300,Austria-Hungary,1921,0,1,
+573,British South Africa,300,Austria-Hungary,1922,0,1,
+573,British South Africa,300,Austria-Hungary,1923,0,1,
+573,British South Africa,305,Austria,1910,0,1,Pounds
+573,British South Africa,305,Austria,1911,0,1,Pounds
+573,British South Africa,305,Austria,1912,0,1,Pounds
+573,British South Africa,305,Austria,1913,0,1,Pounds
+573,British South Africa,305,Austria,1914,0,1,Pounds
+573,British South Africa,305,Austria,1915,0,1,Pounds
+573,British South Africa,305,Austria,1916,0,1,
+573,British South Africa,305,Austria,1917,0,1,
+573,British South Africa,305,Austria,1918,0,1,
+573,British South Africa,305,Austria,1919,0,1,
+573,British South Africa,305,Austria,1920,9729,1,
+573,British South Africa,305,Austria,1921,10409,1,
+573,British South Africa,305,Austria,1922,36342,1,
+573,British South Africa,305,Austria,1923,57939,1,
+573,British South Africa,305,Austria,1924,101884,,
+573,British South Africa,305,Austria,1925,101149,,
+573,British South Africa,305,Austria,1926,114366,,
+573,British South Africa,305,Austria,1927,148635,,
+573,British South Africa,305,Austria,1928,172487,,
+573,British South Africa,305,Austria,1929,184239,,
+573,British South Africa,310,Hungary,1910,0,1,Pounds
+573,British South Africa,310,Hungary,1911,0,1,Pounds
+573,British South Africa,310,Hungary,1912,0,1,Pounds
+573,British South Africa,310,Hungary,1913,0,1,Pounds
+573,British South Africa,310,Hungary,1914,0,1,Pounds
+573,British South Africa,310,Hungary,1915,0,1,Pounds
+573,British South Africa,310,Hungary,1916,0,1,
+573,British South Africa,310,Hungary,1917,0,1,
+573,British South Africa,310,Hungary,1918,0,1,
+573,British South Africa,310,Hungary,1919,0,1,
+573,British South Africa,310,Hungary,1920,0,1,
+573,British South Africa,310,Hungary,1921,161,1,
+573,British South Africa,310,Hungary,1922,2382,1,
+573,British South Africa,310,Hungary,1923,10471,1,
+573,British South Africa,310,Hungary,1924,5259,,
+573,British South Africa,310,Hungary,1925,2458,,
+573,British South Africa,310,Hungary,1926,8532,,
+573,British South Africa,310,Hungary,1927,15155,,
+573,British South Africa,310,Hungary,1928,27895,,
+573,British South Africa,310,Hungary,1929,30014,,
+573,British South Africa,315,Czechoslovakia,1910,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1911,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1912,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1913,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1914,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1915,0,1,Pounds
+573,British South Africa,315,Czechoslovakia,1916,0,1,
+573,British South Africa,315,Czechoslovakia,1917,0,1,
+573,British South Africa,315,Czechoslovakia,1918,0,1,
+573,British South Africa,315,Czechoslovakia,1919,0,1,
+573,British South Africa,315,Czechoslovakia,1920,15287,1,
+573,British South Africa,315,Czechoslovakia,1921,48159,1,
+573,British South Africa,315,Czechoslovakia,1922,141826,1,
+573,British South Africa,315,Czechoslovakia,1923,178593,1,
+573,British South Africa,315,Czechoslovakia,1924,206658,,
+573,British South Africa,315,Czechoslovakia,1925,261780,,
+573,British South Africa,315,Czechoslovakia,1926,387916,,
+573,British South Africa,315,Czechoslovakia,1927,515730,,
+573,British South Africa,315,Czechoslovakia,1928,674816,,
+573,British South Africa,315,Czechoslovakia,1929,794086,,
+573,British South Africa,317,Slovakia,1910,0,1,Pounds
+573,British South Africa,317,Slovakia,1911,0,1,Pounds
+573,British South Africa,317,Slovakia,1912,0,1,Pounds
+573,British South Africa,317,Slovakia,1913,0,1,Pounds
+573,British South Africa,317,Slovakia,1914,0,1,Pounds
+573,British South Africa,317,Slovakia,1915,0,1,Pounds
+573,British South Africa,317,Slovakia,1916,0,1,
+573,British South Africa,317,Slovakia,1917,0,1,
+573,British South Africa,317,Slovakia,1918,0,1,
+573,British South Africa,317,Slovakia,1919,0,1,
+573,British South Africa,317,Slovakia,1920,0,1,
+573,British South Africa,317,Slovakia,1921,0,1,
+573,British South Africa,317,Slovakia,1922,0,1,
+573,British South Africa,317,Slovakia,1923,0,1,
+573,British South Africa,325,Italy,1910,140474,1,Pounds
+573,British South Africa,325,Italy,1911,218305,1,Pounds
+573,British South Africa,325,Italy,1912,248136,1,Pounds
+573,British South Africa,325,Italy,1913,328493,1,Pounds
+573,British South Africa,325,Italy,1914,282715,1,Pounds
+573,British South Africa,325,Italy,1915,358754,1,Pounds
+573,British South Africa,325,Italy,1916,289715,1,
+573,British South Africa,325,Italy,1917,218090,1,
+573,British South Africa,325,Italy,1918,132698,1,
+573,British South Africa,325,Italy,1919,105978,1,
+573,British South Africa,325,Italy,1920,385058,1,
+573,British South Africa,325,Italy,1921,285671,1,
+573,British South Africa,325,Italy,1922,387280,1,
+573,British South Africa,325,Italy,1923,410125,1,
+573,British South Africa,325,Italy,1924,609126,,
+573,British South Africa,325,Italy,1925,657653,,
+573,British South Africa,325,Italy,1926,889475,,
+573,British South Africa,325,Italy,1927,962988,,
+573,British South Africa,325,Italy,1928,1134619,,
+573,British South Africa,325,Italy,1929,1150863,,
+573,British South Africa,338,Malta,1910,2521,1,Pounds
+573,British South Africa,338,Malta,1911,3409,1,Pounds
+573,British South Africa,338,Malta,1912,2682,1,Pounds
+573,British South Africa,338,Malta,1913,3234,1,Pounds
+573,British South Africa,338,Malta,1914,2976,1,Pounds
+573,British South Africa,338,Malta,1915,1492,1,Pounds
+573,British South Africa,338,Malta,1916,1697,1,
+573,British South Africa,338,Malta,1917,1242,1,
+573,British South Africa,338,Malta,1918,2051,1,
+573,British South Africa,338,Malta,1919,1961,1,
+573,British South Africa,338,Malta,1920,2580,1,
+573,British South Africa,338,Malta,1921,1633,1,
+573,British South Africa,338,Malta,1922,210,1,
+573,British South Africa,338,Malta,1923,152,1,
+573,British South Africa,338,Malta,1924,234,,
+573,British South Africa,338,Malta,1925,346,,
+573,British South Africa,338,Malta,1926,246,,
+573,British South Africa,338,Malta,1927,68,,
+573,British South Africa,338,Malta,1928,16,,
+573,British South Africa,338,Malta,1929,56,,
+573,British South Africa,345,Yugoslavia,1910,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1911,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1912,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1913,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1914,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1915,0,1,Pounds
+573,British South Africa,345,Yugoslavia,1916,0,1,
+573,British South Africa,345,Yugoslavia,1917,0,1,
+573,British South Africa,345,Yugoslavia,1918,0,1,
+573,British South Africa,345,Yugoslavia,1919,0,1,
+573,British South Africa,345,Yugoslavia,1920,0,1,
+573,British South Africa,345,Yugoslavia,1921,0,1,
+573,British South Africa,345,Yugoslavia,1922,0,1,
+573,British South Africa,345,Yugoslavia,1923,0,1,
+573,British South Africa,350,Greece,1910,21078,1,Pounds
+573,British South Africa,350,Greece,1911,22455,1,Pounds
+573,British South Africa,350,Greece,1912,23033,1,Pounds
+573,British South Africa,350,Greece,1913,18931,1,Pounds
+573,British South Africa,350,Greece,1914,18719,1,Pounds
+573,British South Africa,350,Greece,1915,22110,1,Pounds
+573,British South Africa,350,Greece,1916,25989,1,
+573,British South Africa,350,Greece,1917,6729,1,
+573,British South Africa,350,Greece,1918,2173,1,
+573,British South Africa,350,Greece,1919,4423,1,
+573,British South Africa,350,Greece,1920,9264,1,
+573,British South Africa,350,Greece,1921,7102,1,
+573,British South Africa,350,Greece,1922,16785,1,
+573,British South Africa,350,Greece,1923,7991,1,
+573,British South Africa,350,Greece,1924,11150,,
+573,British South Africa,350,Greece,1925,12399,,
+573,British South Africa,350,Greece,1926,18548,,
+573,British South Africa,350,Greece,1927,14162,,
+573,British South Africa,350,Greece,1928,16795,,
+573,British South Africa,350,Greece,1929,15284,,
+573,British South Africa,352,Cyprus,1910,763,1,Pounds
+573,British South Africa,352,Cyprus,1911,724,1,Pounds
+573,British South Africa,352,Cyprus,1912,156,1,Pounds
+573,British South Africa,352,Cyprus,1913,396,1,Pounds
+573,British South Africa,352,Cyprus,1914,33,1,Pounds
+573,British South Africa,352,Cyprus,1915,83,1,Pounds
+573,British South Africa,352,Cyprus,1916,298,1,
+573,British South Africa,352,Cyprus,1917,1,1,
+573,British South Africa,352,Cyprus,1918,17,1,
+573,British South Africa,352,Cyprus,1919,58,1,
+573,British South Africa,352,Cyprus,1920,205,1,
+573,British South Africa,352,Cyprus,1921,86,1,
+573,British South Africa,352,Cyprus,1922,131,1,
+573,British South Africa,352,Cyprus,1923,210,1,
+573,British South Africa,352,Cyprus,1924,11,,
+573,British South Africa,352,Cyprus,1925,96,,
+573,British South Africa,352,Cyprus,1926,122,,
+573,British South Africa,352,Cyprus,1927,269,,
+573,British South Africa,352,Cyprus,1928,110,,
+573,British South Africa,352,Cyprus,1929,35,,
+573,British South Africa,355,Bulgaria,1910,0,1,Pounds
+573,British South Africa,355,Bulgaria,1911,0,1,Pounds
+573,British South Africa,355,Bulgaria,1912,0,1,Pounds
+573,British South Africa,355,Bulgaria,1913,0,1,Pounds
+573,British South Africa,355,Bulgaria,1914,0,1,Pounds
+573,British South Africa,355,Bulgaria,1915,0,1,Pounds
+573,British South Africa,355,Bulgaria,1916,0,1,
+573,British South Africa,355,Bulgaria,1917,0,1,
+573,British South Africa,355,Bulgaria,1918,0,1,
+573,British South Africa,355,Bulgaria,1919,0,1,
+573,British South Africa,355,Bulgaria,1920,0,1,
+573,British South Africa,355,Bulgaria,1921,0,1,
+573,British South Africa,355,Bulgaria,1922,0,1,
+573,British South Africa,355,Bulgaria,1923,0,1,
+573,British South Africa,360,Romania,1910,0,1,Pounds
+573,British South Africa,360,Romania,1911,0,1,Pounds
+573,British South Africa,360,Romania,1912,0,1,Pounds
+573,British South Africa,360,Romania,1913,0,1,Pounds
+573,British South Africa,360,Romania,1914,0,1,Pounds
+573,British South Africa,360,Romania,1915,0,1,Pounds
+573,British South Africa,360,Romania,1916,0,1,
+573,British South Africa,360,Romania,1917,0,1,
+573,British South Africa,360,Romania,1918,0,1,
+573,British South Africa,360,Romania,1919,0,1,
+573,British South Africa,360,Romania,1920,0,1,
+573,British South Africa,360,Romania,1921,0,1,
+573,British South Africa,360,Romania,1922,0,1,
+573,British South Africa,360,Romania,1923,0,1,
+573,British South Africa,365,Russia,1910,41265,1,Pounds
+573,British South Africa,365,Russia,1911,35843,1,Pounds
+573,British South Africa,365,Russia,1912,54208,1,Pounds
+573,British South Africa,365,Russia,1913,82786,1,Pounds
+573,British South Africa,365,Russia,1914,91177,1,Pounds
+573,British South Africa,365,Russia,1915,32337,1,Pounds
+573,British South Africa,365,Russia,1916,69391,1,
+573,British South Africa,365,Russia,1917,13240,1,
+573,British South Africa,365,Russia,1918,24937,1,
+573,British South Africa,365,Russia,1919,2954,1,
+573,British South Africa,365,Russia,1920,11964,1,
+573,British South Africa,365,Russia,1921,18357,1,
+573,British South Africa,365,Russia,1922,40335,1,
+573,British South Africa,365,Russia,1923,82341,1,
+573,British South Africa,365,Russia,1924,49875,,
+573,British South Africa,365,Russia,1925,64406,,
+573,British South Africa,365,Russia,1926,89993,,
+573,British South Africa,365,Russia,1927,203526,,
+573,British South Africa,365,Russia,1928,190219,,
+573,British South Africa,365,Russia,1929,229070,,
+573,British South Africa,366,Estonia,1910,0,1,Pounds
+573,British South Africa,366,Estonia,1911,0,1,Pounds
+573,British South Africa,366,Estonia,1912,0,1,Pounds
+573,British South Africa,366,Estonia,1913,0,1,Pounds
+573,British South Africa,366,Estonia,1914,0,1,Pounds
+573,British South Africa,366,Estonia,1915,0,1,Pounds
+573,British South Africa,366,Estonia,1916,0,1,
+573,British South Africa,366,Estonia,1917,0,1,
+573,British South Africa,366,Estonia,1918,0,1,
+573,British South Africa,366,Estonia,1919,0,1,
+573,British South Africa,366,Estonia,1920,0,1,
+573,British South Africa,366,Estonia,1921,0,1,
+573,British South Africa,366,Estonia,1922,0,1,
+573,British South Africa,366,Estonia,1923,0,1,
+573,British South Africa,367,Latvia,1910,0,1,Pounds
+573,British South Africa,367,Latvia,1911,0,1,Pounds
+573,British South Africa,367,Latvia,1912,0,1,Pounds
+573,British South Africa,367,Latvia,1913,0,1,Pounds
+573,British South Africa,367,Latvia,1914,0,1,Pounds
+573,British South Africa,367,Latvia,1915,0,1,Pounds
+573,British South Africa,367,Latvia,1916,0,1,
+573,British South Africa,367,Latvia,1917,0,1,
+573,British South Africa,367,Latvia,1918,0,1,
+573,British South Africa,367,Latvia,1919,0,1,
+573,British South Africa,367,Latvia,1920,0,1,
+573,British South Africa,367,Latvia,1921,0,1,
+573,British South Africa,367,Latvia,1922,0,1,
+573,British South Africa,367,Latvia,1923,0,1,
+573,British South Africa,368,Lithuania,1910,0,1,Pounds
+573,British South Africa,368,Lithuania,1911,0,1,Pounds
+573,British South Africa,368,Lithuania,1912,0,1,Pounds
+573,British South Africa,368,Lithuania,1913,0,1,Pounds
+573,British South Africa,368,Lithuania,1914,0,1,Pounds
+573,British South Africa,368,Lithuania,1915,0,1,Pounds
+573,British South Africa,368,Lithuania,1916,0,1,
+573,British South Africa,368,Lithuania,1917,0,1,
+573,British South Africa,368,Lithuania,1918,0,1,
+573,British South Africa,368,Lithuania,1919,0,1,
+573,British South Africa,368,Lithuania,1920,0,1,
+573,British South Africa,368,Lithuania,1921,0,1,
+573,British South Africa,368,Lithuania,1922,0,1,
+573,British South Africa,368,Lithuania,1923,0,1,
+573,British South Africa,375,Finland,1910,0,1,Pounds
+573,British South Africa,375,Finland,1911,0,1,Pounds
+573,British South Africa,375,Finland,1912,0,1,Pounds
+573,British South Africa,375,Finland,1913,0,1,Pounds
+573,British South Africa,375,Finland,1914,0,1,Pounds
+573,British South Africa,375,Finland,1915,0,1,Pounds
+573,British South Africa,375,Finland,1916,0,1,
+573,British South Africa,375,Finland,1917,0,1,
+573,British South Africa,375,Finland,1918,0,1,
+573,British South Africa,375,Finland,1919,46989,1,
+573,British South Africa,375,Finland,1920,273896,1,
+573,British South Africa,375,Finland,1921,98026,1,
+573,British South Africa,375,Finland,1922,210446,1,
+573,British South Africa,375,Finland,1923,290896,1,
+573,British South Africa,375,Finland,1924,329650,,
+573,British South Africa,375,Finland,1925,401084,,
+573,British South Africa,375,Finland,1926,341244,,
+573,British South Africa,375,Finland,1927,474878,,
+573,British South Africa,375,Finland,1928,587185,,
+573,British South Africa,375,Finland,1929,573749,,
+573,British South Africa,380,Sweden,1910,677328,1,Pounds
+573,British South Africa,380,Sweden,1911,678939,1,Pounds
+573,British South Africa,380,Sweden,1912,613475,1,Pounds
+573,British South Africa,380,Sweden,1913,731880,1,Pounds
+573,British South Africa,380,Sweden,1914,544430,1,Pounds
+573,British South Africa,380,Sweden,1915,466874,1,Pounds
+573,British South Africa,380,Sweden,1916,914693,1,
+573,British South Africa,380,Sweden,1917,843064,1,
+573,British South Africa,380,Sweden,1918,979617,1,
+573,British South Africa,380,Sweden,1919,873608,1,
+573,British South Africa,380,Sweden,1920,2107782,1,
+573,British South Africa,380,Sweden,1921,1081583,1,
+573,British South Africa,380,Sweden,1922,913044,1,
+573,British South Africa,380,Sweden,1923,1158337,1,
+573,British South Africa,380,Sweden,1924,1311177,,
+573,British South Africa,380,Sweden,1925,948822,,
+573,British South Africa,380,Sweden,1926,1238224,,
+573,British South Africa,380,Sweden,1927,1392943,,
+573,British South Africa,380,Sweden,1928,1297192,,
+573,British South Africa,380,Sweden,1929,1411562,,
+573,British South Africa,385,Norway,1910,207505,1,Pounds
+573,British South Africa,385,Norway,1911,268875,1,Pounds
+573,British South Africa,385,Norway,1912,282601,1,Pounds
+573,British South Africa,385,Norway,1913,372443,1,Pounds
+573,British South Africa,385,Norway,1914,232313,1,Pounds
+573,British South Africa,385,Norway,1915,224694,1,Pounds
+573,British South Africa,385,Norway,1916,273389,1,
+573,British South Africa,385,Norway,1917,221594,1,
+573,British South Africa,385,Norway,1918,256631,1,
+573,British South Africa,385,Norway,1919,279893,1,
+573,British South Africa,385,Norway,1920,580025,1,
+573,British South Africa,385,Norway,1921,325858,1,
+573,British South Africa,385,Norway,1922,252736,1,
+573,British South Africa,385,Norway,1923,334046,1,
+573,British South Africa,385,Norway,1924,374502,,
+573,British South Africa,385,Norway,1925,373183,,
+573,British South Africa,385,Norway,1926,382543,,
+573,British South Africa,385,Norway,1927,504617,,
+573,British South Africa,385,Norway,1928,443816,,
+573,British South Africa,385,Norway,1929,438867,,
+573,British South Africa,390,Denmark,1910,33251,1,Pounds
+573,British South Africa,390,Denmark,1911,23160,1,Pounds
+573,British South Africa,390,Denmark,1912,56560,1,Pounds
+573,British South Africa,390,Denmark,1913,132225,1,Pounds
+573,British South Africa,390,Denmark,1914,129329,1,Pounds
+573,British South Africa,390,Denmark,1915,112607,1,Pounds
+573,British South Africa,390,Denmark,1916,88810,1,
+573,British South Africa,390,Denmark,1917,34189,1,
+573,British South Africa,390,Denmark,1918,19251,1,
+573,British South Africa,390,Denmark,1919,18115,1,
+573,British South Africa,390,Denmark,1920,39567,1,
+573,British South Africa,390,Denmark,1921,61538,1,
+573,British South Africa,390,Denmark,1922,68889,1,
+573,British South Africa,390,Denmark,1923,58350,1,
+573,British South Africa,390,Denmark,1924,66635,,
+573,British South Africa,390,Denmark,1925,74507,,
+573,British South Africa,390,Denmark,1926,105912,,
+573,British South Africa,390,Denmark,1927,81622,,
+573,British South Africa,390,Denmark,1928,71742,,
+573,British South Africa,390,Denmark,1929,71847,,
+573,British South Africa,395,Iceland,1910,0,1,Pounds
+573,British South Africa,395,Iceland,1911,0,1,Pounds
+573,British South Africa,395,Iceland,1912,0,1,Pounds
+573,British South Africa,395,Iceland,1913,0,1,Pounds
+573,British South Africa,395,Iceland,1914,0,1,Pounds
+573,British South Africa,395,Iceland,1915,0,1,Pounds
+573,British South Africa,395,Iceland,1916,0,1,
+573,British South Africa,395,Iceland,1917,0,1,
+573,British South Africa,395,Iceland,1918,0,1,
+573,British South Africa,395,Iceland,1919,0,1,
+573,British South Africa,395,Iceland,1920,0,1,
+573,British South Africa,395,Iceland,1921,0,1,
+573,British South Africa,395,Iceland,1922,0,1,
+573,British South Africa,395,Iceland,1923,0,1,
+573,British South Africa,401,Madeira,1910,4232,1,Pounds
+573,British South Africa,401,Madeira,1911,5823,1,Pounds
+573,British South Africa,401,Madeira,1912,5609,1,Pounds
+573,British South Africa,401,Madeira,1913,4831,1,Pounds
+573,British South Africa,401,Madeira,1914,2901,1,Pounds
+573,British South Africa,401,Madeira,1915,4072,1,Pounds
+573,British South Africa,401,Madeira,1916,3049,1,
+573,British South Africa,401,Madeira,1917,1468,1,
+573,British South Africa,401,Madeira,1918,2126,1,
+573,British South Africa,401,Madeira,1919,6362,1,
+573,British South Africa,401,Madeira,1920,17687,1,
+573,British South Africa,401,Madeira,1921,14104,1,
+573,British South Africa,401,Madeira,1922,5665,1,
+573,British South Africa,401,Madeira,1923,3456,1,
+573,British South Africa,401,Madeira,1924,3427,,
+573,British South Africa,401,Madeira,1925,2667,,
+573,British South Africa,401,Madeira,1926,1701,,
+573,British South Africa,401,Madeira,1927,2462,,
+573,British South Africa,401,Madeira,1928,2065,,
+573,British South Africa,401,Madeira,1929,2003,,
+573,British South Africa,410,Canary Islands,1910,1720,1,Pounds
+573,British South Africa,410,Canary Islands,1911,1760,1,Pounds
+573,British South Africa,410,Canary Islands,1912,1685,1,Pounds
+573,British South Africa,410,Canary Islands,1913,2599,1,Pounds
+573,British South Africa,410,Canary Islands,1914,1973,1,Pounds
+573,British South Africa,410,Canary Islands,1915,796,1,Pounds
+573,British South Africa,410,Canary Islands,1916,898,1,
+573,British South Africa,410,Canary Islands,1917,373,1,
+573,British South Africa,410,Canary Islands,1918,544,1,
+573,British South Africa,410,Canary Islands,1919,255,1,
+573,British South Africa,410,Canary Islands,1920,1025,1,
+573,British South Africa,410,Canary Islands,1921,862,1,
+573,British South Africa,410,Canary Islands,1922,785,1,
+573,British South Africa,410,Canary Islands,1923,671,1,
+573,British South Africa,410,Canary Islands,1924,518,,
+573,British South Africa,410,Canary Islands,1925,286,,
+573,British South Africa,410,Canary Islands,1926,709,,
+573,British South Africa,410,Canary Islands,1927,553,,
+573,British South Africa,410,Canary Islands,1928,1465,,
+573,British South Africa,410,Canary Islands,1929,459,,
+573,British South Africa,450,Liberia,1910,0,1,Pounds
+573,British South Africa,450,Liberia,1911,0,1,Pounds
+573,British South Africa,450,Liberia,1912,0,1,Pounds
+573,British South Africa,450,Liberia,1913,0,1,Pounds
+573,British South Africa,450,Liberia,1914,0,1,Pounds
+573,British South Africa,450,Liberia,1915,0,1,Pounds
+573,British South Africa,450,Liberia,1916,0,1,
+573,British South Africa,450,Liberia,1917,0,1,
+573,British South Africa,450,Liberia,1918,0,1,
+573,British South Africa,450,Liberia,1919,0,1,
+573,British South Africa,450,Liberia,1920,0,1,
+573,British South Africa,450,Liberia,1921,0,1,
+573,British South Africa,450,Liberia,1922,0,1,
+573,British South Africa,450,Liberia,1923,0,1,
+573,British South Africa,465,British West Africa,1910,1265,1,Pounds
+573,British South Africa,465,British West Africa,1911,2000,1,Pounds
+573,British South Africa,465,British West Africa,1912,537,1,Pounds
+573,British South Africa,465,British West Africa,1913,279,1,Pounds
+573,British South Africa,465,British West Africa,1914,13083,1,Pounds
+573,British South Africa,465,British West Africa,1915,13929,1,Pounds
+573,British South Africa,465,British West Africa,1916,88448,1,
+573,British South Africa,465,British West Africa,1917,1114,1,
+573,British South Africa,465,British West Africa,1918,92175,1,
+573,British South Africa,465,British West Africa,1919,509,1,
+573,British South Africa,465,British West Africa,1920,26731,1,
+573,British South Africa,465,British West Africa,1921,3342,1,
+573,British South Africa,465,British West Africa,1922,3631,1,
+573,British South Africa,465,British West Africa,1923,6548,1,
+573,British South Africa,465,British West Africa,1924,3379,,
+573,British South Africa,465,British West Africa,1925,16524,,
+573,British South Africa,465,British West Africa,1926,23959,,
+573,British South Africa,465,British West Africa,1927,3470,,
+573,British South Africa,465,British West Africa,1928,3722,,
+573,British South Africa,465,British West Africa,1929,14790,,
+573,British South Africa,475,Nigeria,1910,0,1,Pounds
+573,British South Africa,475,Nigeria,1911,0,1,Pounds
+573,British South Africa,475,Nigeria,1912,0,1,Pounds
+573,British South Africa,475,Nigeria,1913,0,1,Pounds
+573,British South Africa,475,Nigeria,1914,0,1,Pounds
+573,British South Africa,475,Nigeria,1915,0,1,Pounds
+573,British South Africa,475,Nigeria,1916,0,1,
+573,British South Africa,475,Nigeria,1917,0,1,
+573,British South Africa,475,Nigeria,1918,0,1,
+573,British South Africa,475,Nigeria,1919,0,1,
+573,British South Africa,475,Nigeria,1920,0,1,
+573,British South Africa,475,Nigeria,1921,0,1,
+573,British South Africa,475,Nigeria,1922,0,1,
+573,British South Africa,475,Nigeria,1923,0,1,
+573,British South Africa,480,French Equatorial Africa,1910,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1911,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1912,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1913,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1914,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1915,0,1,Pounds
+573,British South Africa,480,French Equatorial Africa,1916,0,1,
+573,British South Africa,480,French Equatorial Africa,1917,0,1,
+573,British South Africa,480,French Equatorial Africa,1918,0,1,
+573,British South Africa,480,French Equatorial Africa,1919,0,1,
+573,British South Africa,480,French Equatorial Africa,1920,0,1,
+573,British South Africa,480,French Equatorial Africa,1921,0,1,
+573,British South Africa,480,French Equatorial Africa,1922,0,1,
+573,British South Africa,480,French Equatorial Africa,1923,0,1,
+573,British South Africa,490,"Congo, Dem. Republic",1910,0,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1911,684,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1912,80140,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1913,172059,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1914,192402,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1915,359560,1,Pounds
+573,British South Africa,490,"Congo, Dem. Republic",1916,1059086,1,
+573,British South Africa,490,"Congo, Dem. Republic",1917,1379260,1,
+573,British South Africa,490,"Congo, Dem. Republic",1918,1016208,1,
+573,British South Africa,490,"Congo, Dem. Republic",1919,1123267,1,
+573,British South Africa,490,"Congo, Dem. Republic",1920,897635,1,
+573,British South Africa,490,"Congo, Dem. Republic",1921,1275934,1,
+573,British South Africa,490,"Congo, Dem. Republic",1922,1308760,1,
+573,British South Africa,490,"Congo, Dem. Republic",1923,47453,1,
+573,British South Africa,490,"Congo, Dem. Republic",1924,12800,,
+573,British South Africa,490,"Congo, Dem. Republic",1925,6892,,
+573,British South Africa,490,"Congo, Dem. Republic",1926,5758,,
+573,British South Africa,490,"Congo, Dem. Republic",1927,21751,,
+573,British South Africa,490,"Congo, Dem. Republic",1928,26320,,
+573,British South Africa,490,"Congo, Dem. Republic",1929,53913,,
+573,British South Africa,500,Uganda,1910,0,1,Pounds
+573,British South Africa,500,Uganda,1911,0,1,Pounds
+573,British South Africa,500,Uganda,1912,0,1,Pounds
+573,British South Africa,500,Uganda,1913,0,1,Pounds
+573,British South Africa,500,Uganda,1914,0,1,Pounds
+573,British South Africa,500,Uganda,1915,0,1,Pounds
+573,British South Africa,500,Uganda,1916,0,1,
+573,British South Africa,500,Uganda,1917,0,1,
+573,British South Africa,500,Uganda,1918,0,1,
+573,British South Africa,500,Uganda,1919,0,1,
+573,British South Africa,500,Uganda,1920,0,1,
+573,British South Africa,500,Uganda,1921,0,1,
+573,British South Africa,500,Uganda,1922,0,1,
+573,British South Africa,500,Uganda,1923,0,1,
+573,British South Africa,501,Kenya,1910,0,1,Pounds
+573,British South Africa,501,Kenya,1911,0,1,Pounds
+573,British South Africa,501,Kenya,1912,0,1,Pounds
+573,British South Africa,501,Kenya,1913,0,1,Pounds
+573,British South Africa,501,Kenya,1914,0,1,Pounds
+573,British South Africa,501,Kenya,1915,0,1,Pounds
+573,British South Africa,501,Kenya,1916,0,1,
+573,British South Africa,501,Kenya,1917,0,1,
+573,British South Africa,501,Kenya,1918,139308,1,
+573,British South Africa,501,Kenya,1919,95450,1,
+573,British South Africa,501,Kenya,1920,143491,1,
+573,British South Africa,501,Kenya,1921,65478,1,
+573,British South Africa,501,Kenya,1922,92635,1,
+573,British South Africa,501,Kenya,1923,96166,1,
+573,British South Africa,501,Kenya,1924,99820,,
+573,British South Africa,501,Kenya,1925,97560,,
+573,British South Africa,501,Kenya,1926,78567,,
+573,British South Africa,501,Kenya,1927,94345,,
+573,British South Africa,501,Kenya,1928,127521,,
+573,British South Africa,501,Kenya,1929,114311,,
+573,British South Africa,505,British East Africa,1910,1318,1,Pounds
+573,British South Africa,505,British East Africa,1911,1913,1,Pounds
+573,British South Africa,505,British East Africa,1912,5859,1,Pounds
+573,British South Africa,505,British East Africa,1913,17803,1,Pounds
+573,British South Africa,505,British East Africa,1914,3176,1,Pounds
+573,British South Africa,505,British East Africa,1915,4416,1,Pounds
+573,British South Africa,505,British East Africa,1916,10629,1,
+573,British South Africa,505,British East Africa,1917,49753,1,
+573,British South Africa,505,British East Africa,1918,0,1,
+573,British South Africa,505,British East Africa,1919,0,1,
+573,British South Africa,505,British East Africa,1920,0,1,
+573,British South Africa,505,British East Africa,1921,0,1,
+573,British South Africa,505,British East Africa,1922,0,1,
+573,British South Africa,505,British East Africa,1923,0,1,
+573,British South Africa,510,Tanzania,1910,0,1,Pounds
+573,British South Africa,510,Tanzania,1911,0,1,Pounds
+573,British South Africa,510,Tanzania,1912,0,1,Pounds
+573,British South Africa,510,Tanzania,1913,0,1,Pounds
+573,British South Africa,510,Tanzania,1914,0,1,Pounds
+573,British South Africa,510,Tanzania,1915,0,1,Pounds
+573,British South Africa,510,Tanzania,1916,0,1,
+573,British South Africa,510,Tanzania,1917,0,1,
+573,British South Africa,510,Tanzania,1918,0,1,
+573,British South Africa,510,Tanzania,1919,0,1,
+573,British South Africa,510,Tanzania,1920,0,1,
+573,British South Africa,510,Tanzania,1921,0,1,
+573,British South Africa,510,Tanzania,1922,0,1,
+573,British South Africa,510,Tanzania,1923,0,1,
+573,British South Africa,511,Zanzibar,1910,1752,1,Pounds
+573,British South Africa,511,Zanzibar,1911,1988,1,Pounds
+573,British South Africa,511,Zanzibar,1912,2097,1,Pounds
+573,British South Africa,511,Zanzibar,1913,3399,1,Pounds
+573,British South Africa,511,Zanzibar,1914,2602,1,Pounds
+573,British South Africa,511,Zanzibar,1915,46524,1,Pounds
+573,British South Africa,511,Zanzibar,1916,49611,1,
+573,British South Africa,511,Zanzibar,1917,76468,1,
+573,British South Africa,511,Zanzibar,1918,295832,1,
+573,British South Africa,511,Zanzibar,1919,139590,1,
+573,British South Africa,511,Zanzibar,1920,86837,1,
+573,British South Africa,511,Zanzibar,1921,21934,1,
+573,British South Africa,511,Zanzibar,1922,27597,1,
+573,British South Africa,511,Zanzibar,1923,14600,1,
+573,British South Africa,511,Zanzibar,1924,7763,,
+573,British South Africa,511,Zanzibar,1925,2832,,
+573,British South Africa,511,Zanzibar,1926,4874,,
+573,British South Africa,511,Zanzibar,1927,4802,,
+573,British South Africa,511,Zanzibar,1928,4771,,
+573,British South Africa,511,Zanzibar,1929,6599,,
+573,British South Africa,521,British Somaliland,1910,0,1,Pounds
+573,British South Africa,521,British Somaliland,1911,0,1,Pounds
+573,British South Africa,521,British Somaliland,1912,0,1,Pounds
+573,British South Africa,521,British Somaliland,1913,0,1,Pounds
+573,British South Africa,521,British Somaliland,1914,0,1,Pounds
+573,British South Africa,521,British Somaliland,1915,0,1,Pounds
+573,British South Africa,521,British Somaliland,1916,0,1,
+573,British South Africa,521,British Somaliland,1917,0,1,
+573,British South Africa,521,British Somaliland,1918,0,1,
+573,British South Africa,521,British Somaliland,1919,0,1,
+573,British South Africa,521,British Somaliland,1920,0,1,
+573,British South Africa,521,British Somaliland,1921,0,1,
+573,British South Africa,521,British Somaliland,1922,0,1,
+573,British South Africa,521,British Somaliland,1923,0,1,
+573,British South Africa,530,Ethiopia,1910,0,1,Pounds
+573,British South Africa,530,Ethiopia,1911,0,1,Pounds
+573,British South Africa,530,Ethiopia,1912,0,1,Pounds
+573,British South Africa,530,Ethiopia,1913,0,1,Pounds
+573,British South Africa,530,Ethiopia,1914,0,1,Pounds
+573,British South Africa,530,Ethiopia,1915,0,1,Pounds
+573,British South Africa,530,Ethiopia,1916,0,1,
+573,British South Africa,530,Ethiopia,1917,0,1,
+573,British South Africa,530,Ethiopia,1918,0,1,
+573,British South Africa,530,Ethiopia,1919,0,1,
+573,British South Africa,530,Ethiopia,1920,0,1,
+573,British South Africa,530,Ethiopia,1921,0,1,
+573,British South Africa,530,Ethiopia,1922,0,1,
+573,British South Africa,530,Ethiopia,1923,0,1,
+573,British South Africa,540,Angola,1910,147,1,Pounds
+573,British South Africa,540,Angola,1911,86,1,Pounds
+573,British South Africa,540,Angola,1912,432,1,Pounds
+573,British South Africa,540,Angola,1913,925,1,Pounds
+573,British South Africa,540,Angola,1914,782,1,Pounds
+573,British South Africa,540,Angola,1915,17395,1,Pounds
+573,British South Africa,540,Angola,1916,4578,1,
+573,British South Africa,540,Angola,1917,11881,1,
+573,British South Africa,540,Angola,1918,14586,1,
+573,British South Africa,540,Angola,1919,8123,1,
+573,British South Africa,540,Angola,1920,6053,1,
+573,British South Africa,540,Angola,1921,10888,1,
+573,British South Africa,540,Angola,1922,4129,1,
+573,British South Africa,540,Angola,1923,5868,1,
+573,British South Africa,540,Angola,1924,3777,,
+573,British South Africa,540,Angola,1925,3139,,
+573,British South Africa,540,Angola,1926,8264,,
+573,British South Africa,540,Angola,1927,2947,,
+573,British South Africa,540,Angola,1928,3051,,
+573,British South Africa,540,Angola,1929,10088,,
+573,British South Africa,541,Mozambique,1910,88010,1,Pounds
+573,British South Africa,541,Mozambique,1911,122704,1,Pounds
+573,British South Africa,541,Mozambique,1912,175048,1,Pounds
+573,British South Africa,541,Mozambique,1913,213648,1,Pounds
+573,British South Africa,541,Mozambique,1914,172834,1,Pounds
+573,British South Africa,541,Mozambique,1915,154152,1,Pounds
+573,British South Africa,541,Mozambique,1916,171542,1,
+573,British South Africa,541,Mozambique,1917,304196,1,
+573,British South Africa,541,Mozambique,1918,304909,1,
+573,British South Africa,541,Mozambique,1919,189874,1,
+573,British South Africa,541,Mozambique,1920,412024,1,
+573,British South Africa,541,Mozambique,1921,474956,1,
+573,British South Africa,541,Mozambique,1922,639932,1,
+573,British South Africa,541,Mozambique,1923,165582,1,
+573,British South Africa,541,Mozambique,1924,105288,,
+573,British South Africa,541,Mozambique,1925,228395,,
+573,British South Africa,541,Mozambique,1926,255001,,
+573,British South Africa,541,Mozambique,1927,284479,,
+573,British South Africa,541,Mozambique,1928,492450,,
+573,British South Africa,541,Mozambique,1929,431456,,
+573,British South Africa,551,Zambia,1910,940,1,Pounds
+573,British South Africa,551,Zambia,1911,619,1,Pounds
+573,British South Africa,551,Zambia,1912,566,1,Pounds
+573,British South Africa,551,Zambia,1913,175,1,Pounds
+573,British South Africa,551,Zambia,1914,0,1,Pounds
+573,British South Africa,551,Zambia,1915,12,1,Pounds
+573,British South Africa,551,Zambia,1916,0,1,
+573,British South Africa,551,Zambia,1917,8,1,
+573,British South Africa,551,Zambia,1918,0,1,
+573,British South Africa,551,Zambia,1919,132,1,
+573,British South Africa,551,Zambia,1920,0,1,
+573,British South Africa,551,Zambia,1921,0,1,
+573,British South Africa,551,Zambia,1922,0,1,
+573,British South Africa,551,Zambia,1923,0,1,
+573,British South Africa,552,Zimbabwe,1910,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1911,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1912,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1913,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1914,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1915,0,1,Pounds
+573,British South Africa,552,Zimbabwe,1916,0,1,
+573,British South Africa,552,Zimbabwe,1917,0,1,
+573,British South Africa,552,Zimbabwe,1918,0,1,
+573,British South Africa,552,Zimbabwe,1919,0,1,
+573,British South Africa,552,Zimbabwe,1920,0,1,
+573,British South Africa,552,Zimbabwe,1921,0,1,
+573,British South Africa,552,Zimbabwe,1922,0,1,
+573,British South Africa,552,Zimbabwe,1923,0,1,
+573,British South Africa,553,Malawi,1910,1179,1,Pounds
+573,British South Africa,553,Malawi,1911,1559,1,Pounds
+573,British South Africa,553,Malawi,1912,1312,1,Pounds
+573,British South Africa,553,Malawi,1913,705,1,Pounds
+573,British South Africa,553,Malawi,1914,986,1,Pounds
+573,British South Africa,553,Malawi,1915,1171,1,Pounds
+573,British South Africa,553,Malawi,1916,1211,1,
+573,British South Africa,553,Malawi,1917,3684,1,
+573,British South Africa,553,Malawi,1918,13543,1,
+573,British South Africa,553,Malawi,1919,2798,1,
+573,British South Africa,553,Malawi,1920,2075,1,
+573,British South Africa,553,Malawi,1921,2274,1,
+573,British South Africa,553,Malawi,1922,1092,1,
+573,British South Africa,553,Malawi,1923,1913,1,
+573,British South Africa,553,Malawi,1924,2509,,
+573,British South Africa,553,Malawi,1925,1776,,
+573,British South Africa,553,Malawi,1926,3927,,
+573,British South Africa,553,Malawi,1927,3477,,
+573,British South Africa,553,Malawi,1928,3727,,
+573,British South Africa,553,Malawi,1929,4706,,
+573,British South Africa,560,South Africa,1910,0,1,Pounds
+573,British South Africa,560,South Africa,1911,0,1,Pounds
+573,British South Africa,560,South Africa,1912,0,1,Pounds
+573,British South Africa,560,South Africa,1913,0,1,Pounds
+573,British South Africa,560,South Africa,1914,0,1,Pounds
+573,British South Africa,560,South Africa,1915,0,1,Pounds
+573,British South Africa,560,South Africa,1916,0,1,
+573,British South Africa,560,South Africa,1917,0,1,
+573,British South Africa,560,South Africa,1918,0,1,
+573,British South Africa,560,South Africa,1919,0,1,
+573,British South Africa,560,South Africa,1920,0,1,
+573,British South Africa,560,South Africa,1921,0,1,
+573,British South Africa,560,South Africa,1922,0,1,
+573,British South Africa,560,South Africa,1923,0,1,
+573,British South Africa,565,Namibia,1910,0,1,Pounds
+573,British South Africa,565,Namibia,1911,0,1,Pounds
+573,British South Africa,565,Namibia,1912,0,1,Pounds
+573,British South Africa,565,Namibia,1913,0,1,Pounds
+573,British South Africa,565,Namibia,1914,0,1,Pounds
+573,British South Africa,565,Namibia,1915,12158,1,Pounds
+573,British South Africa,565,Namibia,1916,63440,1,
+573,British South Africa,565,Namibia,1917,49784,1,
+573,British South Africa,565,Namibia,1918,46506,1,
+573,British South Africa,565,Namibia,1919,447623,1,
+573,British South Africa,565,Namibia,1920,428938,1,
+573,British South Africa,565,Namibia,1921,270696,1,
+573,British South Africa,565,Namibia,1922,0,1,
+573,British South Africa,565,Namibia,1923,0,1,
+573,British South Africa,571,Botswana,1910,0,1,Pounds
+573,British South Africa,571,Botswana,1911,0,1,Pounds
+573,British South Africa,571,Botswana,1912,0,1,Pounds
+573,British South Africa,571,Botswana,1913,0,1,Pounds
+573,British South Africa,571,Botswana,1914,0,1,Pounds
+573,British South Africa,571,Botswana,1915,0,1,Pounds
+573,British South Africa,571,Botswana,1916,0,1,
+573,British South Africa,571,Botswana,1917,0,1,
+573,British South Africa,571,Botswana,1918,0,1,
+573,British South Africa,571,Botswana,1919,0,1,
+573,British South Africa,571,Botswana,1920,0,1,
+573,British South Africa,571,Botswana,1921,0,1,
+573,British South Africa,571,Botswana,1922,0,1,
+573,British South Africa,571,Botswana,1923,0,1,
+573,British South Africa,573,British South Africa,1910,0,1,Pounds
+573,British South Africa,573,British South Africa,1911,0,1,Pounds
+573,British South Africa,573,British South Africa,1912,0,1,Pounds
+573,British South Africa,573,British South Africa,1913,0,1,Pounds
+573,British South Africa,573,British South Africa,1914,0,1,Pounds
+573,British South Africa,573,British South Africa,1915,0,1,Pounds
+573,British South Africa,573,British South Africa,1916,0,1,
+573,British South Africa,573,British South Africa,1917,0,1,
+573,British South Africa,573,British South Africa,1918,0,1,
+573,British South Africa,573,British South Africa,1919,0,1,
+573,British South Africa,573,British South Africa,1920,0,1,
+573,British South Africa,573,British South Africa,1921,0,1,
+573,British South Africa,573,British South Africa,1922,0,1,
+573,British South Africa,573,British South Africa,1923,0,1,
+573,British South Africa,580,Madagascar,1910,6439,1,Pounds
+573,British South Africa,580,Madagascar,1911,13130,1,Pounds
+573,British South Africa,580,Madagascar,1912,21164,1,Pounds
+573,British South Africa,580,Madagascar,1913,4693,1,Pounds
+573,British South Africa,580,Madagascar,1914,6739,1,Pounds
+573,British South Africa,580,Madagascar,1915,16623,1,Pounds
+573,British South Africa,580,Madagascar,1916,40143,1,
+573,British South Africa,580,Madagascar,1917,21352,1,
+573,British South Africa,580,Madagascar,1918,128356,1,
+573,British South Africa,580,Madagascar,1919,55957,1,
+573,British South Africa,580,Madagascar,1920,132372,1,
+573,British South Africa,580,Madagascar,1921,18156,1,
+573,British South Africa,580,Madagascar,1922,6112,1,
+573,British South Africa,580,Madagascar,1923,12513,1,
+573,British South Africa,580,Madagascar,1924,11779,,
+573,British South Africa,580,Madagascar,1925,8943,,
+573,British South Africa,580,Madagascar,1926,10316,,
+573,British South Africa,580,Madagascar,1927,8083,,
+573,British South Africa,580,Madagascar,1928,9022,,
+573,British South Africa,580,Madagascar,1929,9319,,
+573,British South Africa,585,Reunion,1910,0,1,Pounds
+573,British South Africa,585,Reunion,1911,0,1,Pounds
+573,British South Africa,585,Reunion,1912,0,1,Pounds
+573,British South Africa,585,Reunion,1913,0,1,Pounds
+573,British South Africa,585,Reunion,1914,0,1,Pounds
+573,British South Africa,585,Reunion,1915,0,1,Pounds
+573,British South Africa,585,Reunion,1916,0,1,
+573,British South Africa,585,Reunion,1917,0,1,
+573,British South Africa,585,Reunion,1918,0,1,
+573,British South Africa,585,Reunion,1919,0,1,
+573,British South Africa,585,Reunion,1920,0,1,
+573,British South Africa,585,Reunion,1921,0,1,
+573,British South Africa,585,Reunion,1922,0,1,
+573,British South Africa,585,Reunion,1923,0,1,
+573,British South Africa,590,Mauritius,1910,282671,1,Pounds
+573,British South Africa,590,Mauritius,1911,265760,1,Pounds
+573,British South Africa,590,Mauritius,1912,132478,1,Pounds
+573,British South Africa,590,Mauritius,1913,198029,1,Pounds
+573,British South Africa,590,Mauritius,1914,135344,1,Pounds
+573,British South Africa,590,Mauritius,1915,12917,1,Pounds
+573,British South Africa,590,Mauritius,1916,25624,1,
+573,British South Africa,590,Mauritius,1917,46132,1,
+573,British South Africa,590,Mauritius,1918,174588,1,
+573,British South Africa,590,Mauritius,1919,21512,1,
+573,British South Africa,590,Mauritius,1920,27197,1,
+573,British South Africa,590,Mauritius,1921,13350,1,
+573,British South Africa,590,Mauritius,1922,17913,1,
+573,British South Africa,590,Mauritius,1923,19043,1,
+573,British South Africa,590,Mauritius,1924,11704,,
+573,British South Africa,590,Mauritius,1925,15597,,
+573,British South Africa,590,Mauritius,1926,1035,,
+573,British South Africa,590,Mauritius,1927,2543,,
+573,British South Africa,590,Mauritius,1928,11974,,
+573,British South Africa,590,Mauritius,1929,1570,,
+573,British South Africa,591,Seychelles,1910,95,1,Pounds
+573,British South Africa,591,Seychelles,1911,76,1,Pounds
+573,British South Africa,591,Seychelles,1912,884,1,Pounds
+573,British South Africa,591,Seychelles,1913,733,1,Pounds
+573,British South Africa,591,Seychelles,1914,651,1,Pounds
+573,British South Africa,591,Seychelles,1915,301,1,Pounds
+573,British South Africa,591,Seychelles,1916,2481,1,
+573,British South Africa,591,Seychelles,1917,1110,1,
+573,British South Africa,591,Seychelles,1918,548,1,
+573,British South Africa,591,Seychelles,1919,1917,1,
+573,British South Africa,591,Seychelles,1920,16328,1,
+573,British South Africa,591,Seychelles,1921,2546,1,
+573,British South Africa,591,Seychelles,1922,2566,1,
+573,British South Africa,591,Seychelles,1923,3715,1,
+573,British South Africa,591,Seychelles,1924,15532,,
+573,British South Africa,591,Seychelles,1925,2789,,
+573,British South Africa,591,Seychelles,1926,5356,,
+573,British South Africa,591,Seychelles,1927,3235,,
+573,British South Africa,591,Seychelles,1928,2071,,
+573,British South Africa,591,Seychelles,1929,2721,,
+573,British South Africa,615,Algeria,1910,201,1,Pounds
+573,British South Africa,615,Algeria,1911,211,1,Pounds
+573,British South Africa,615,Algeria,1912,466,1,Pounds
+573,British South Africa,615,Algeria,1913,478,1,Pounds
+573,British South Africa,615,Algeria,1914,1025,1,Pounds
+573,British South Africa,615,Algeria,1915,584,1,Pounds
+573,British South Africa,615,Algeria,1916,532,1,
+573,British South Africa,615,Algeria,1917,164,1,
+573,British South Africa,615,Algeria,1918,1579,1,
+573,British South Africa,615,Algeria,1919,2547,1,
+573,British South Africa,615,Algeria,1920,297,1,
+573,British South Africa,615,Algeria,1921,192,1,
+573,British South Africa,615,Algeria,1922,190,1,
+573,British South Africa,615,Algeria,1923,76,1,
+573,British South Africa,615,Algeria,1924,55,,
+573,British South Africa,615,Algeria,1925,596,,
+573,British South Africa,615,Algeria,1926,382,,
+573,British South Africa,615,Algeria,1927,597,,
+573,British South Africa,615,Algeria,1928,486,,
+573,British South Africa,615,Algeria,1929,391,,
+573,British South Africa,616,Tunisia,1910,0,1,Pounds
+573,British South Africa,616,Tunisia,1911,0,1,Pounds
+573,British South Africa,616,Tunisia,1912,0,1,Pounds
+573,British South Africa,616,Tunisia,1913,0,1,Pounds
+573,British South Africa,616,Tunisia,1914,0,1,Pounds
+573,British South Africa,616,Tunisia,1915,0,1,Pounds
+573,British South Africa,616,Tunisia,1916,0,1,
+573,British South Africa,616,Tunisia,1917,0,1,
+573,British South Africa,616,Tunisia,1918,0,1,
+573,British South Africa,616,Tunisia,1919,0,1,
+573,British South Africa,616,Tunisia,1920,0,1,
+573,British South Africa,616,Tunisia,1921,0,1,
+573,British South Africa,616,Tunisia,1922,0,1,
+573,British South Africa,616,Tunisia,1923,0,1,
+573,British South Africa,620,Libya,1910,0,1,Pounds
+573,British South Africa,620,Libya,1911,0,1,Pounds
+573,British South Africa,620,Libya,1912,0,1,Pounds
+573,British South Africa,620,Libya,1913,0,1,Pounds
+573,British South Africa,620,Libya,1914,0,1,Pounds
+573,British South Africa,620,Libya,1915,0,1,Pounds
+573,British South Africa,620,Libya,1916,0,1,
+573,British South Africa,620,Libya,1917,0,1,
+573,British South Africa,620,Libya,1918,0,1,
+573,British South Africa,620,Libya,1919,0,1,
+573,British South Africa,620,Libya,1920,0,1,
+573,British South Africa,620,Libya,1921,0,1,
+573,British South Africa,620,Libya,1922,0,1,
+573,British South Africa,620,Libya,1923,0,1,
+573,British South Africa,625,Sudan,1910,0,1,Pounds
+573,British South Africa,625,Sudan,1911,0,1,Pounds
+573,British South Africa,625,Sudan,1912,0,1,Pounds
+573,British South Africa,625,Sudan,1913,0,1,Pounds
+573,British South Africa,625,Sudan,1914,0,1,Pounds
+573,British South Africa,625,Sudan,1915,0,1,Pounds
+573,British South Africa,625,Sudan,1916,0,1,
+573,British South Africa,625,Sudan,1917,0,1,
+573,British South Africa,625,Sudan,1918,0,1,
+573,British South Africa,625,Sudan,1919,0,1,
+573,British South Africa,625,Sudan,1920,0,1,
+573,British South Africa,625,Sudan,1921,0,1,
+573,British South Africa,625,Sudan,1922,0,1,
+573,British South Africa,625,Sudan,1923,0,1,
+573,British South Africa,630,Iran,1910,2748,1,Pounds
+573,British South Africa,630,Iran,1911,1394,1,Pounds
+573,British South Africa,630,Iran,1912,4236,1,Pounds
+573,British South Africa,630,Iran,1913,5966,1,Pounds
+573,British South Africa,630,Iran,1914,2709,1,Pounds
+573,British South Africa,630,Iran,1915,3047,1,Pounds
+573,British South Africa,630,Iran,1916,1456,1,
+573,British South Africa,630,Iran,1917,1420,1,
+573,British South Africa,630,Iran,1918,6109,1,
+573,British South Africa,630,Iran,1919,8589,1,
+573,British South Africa,630,Iran,1920,16527,1,
+573,British South Africa,630,Iran,1921,11949,1,
+573,British South Africa,630,Iran,1922,3692,1,
+573,British South Africa,630,Iran,1923,2865,1,
+573,British South Africa,630,Iran,1924,29620,,
+573,British South Africa,630,Iran,1925,4544,,
+573,British South Africa,630,Iran,1926,11503,,
+573,British South Africa,630,Iran,1927,22618,,
+573,British South Africa,630,Iran,1928,48529,,
+573,British South Africa,630,Iran,1929,105773,,
+573,British South Africa,645,Iraq,1910,0,1,Pounds
+573,British South Africa,645,Iraq,1911,0,1,Pounds
+573,British South Africa,645,Iraq,1912,0,1,Pounds
+573,British South Africa,645,Iraq,1913,0,1,Pounds
+573,British South Africa,645,Iraq,1914,0,1,Pounds
+573,British South Africa,645,Iraq,1915,0,1,Pounds
+573,British South Africa,645,Iraq,1916,0,1,
+573,British South Africa,645,Iraq,1917,0,1,
+573,British South Africa,645,Iraq,1918,0,1,
+573,British South Africa,645,Iraq,1919,0,1,
+573,British South Africa,645,Iraq,1920,0,1,
+573,British South Africa,645,Iraq,1921,0,1,
+573,British South Africa,645,Iraq,1922,0,1,
+573,British South Africa,645,Iraq,1923,0,1,
+573,British South Africa,651,Egypt,1910,5757,1,Pounds
+573,British South Africa,651,Egypt,1911,6182,1,Pounds
+573,British South Africa,651,Egypt,1912,9161,1,Pounds
+573,British South Africa,651,Egypt,1913,7381,1,Pounds
+573,British South Africa,651,Egypt,1914,3930,1,Pounds
+573,British South Africa,651,Egypt,1915,5303,1,Pounds
+573,British South Africa,651,Egypt,1916,3988,1,
+573,British South Africa,651,Egypt,1917,3920,1,
+573,British South Africa,651,Egypt,1918,10754,1,
+573,British South Africa,651,Egypt,1919,20953,1,
+573,British South Africa,651,Egypt,1920,93293,1,
+573,British South Africa,651,Egypt,1921,25896,1,
+573,British South Africa,651,Egypt,1922,5358,1,
+573,British South Africa,651,Egypt,1923,9564,1,
+573,British South Africa,651,Egypt,1924,9509,,
+573,British South Africa,651,Egypt,1925,10683,,
+573,British South Africa,651,Egypt,1926,415856,,
+573,British South Africa,651,Egypt,1927,18772,,
+573,British South Africa,651,Egypt,1928,14911,,
+573,British South Africa,651,Egypt,1929,7158,,
+573,British South Africa,665,West Bank And Gaza,1910,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1911,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1912,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1913,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1914,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1915,0,1,Pounds
+573,British South Africa,665,West Bank And Gaza,1916,0,1,
+573,British South Africa,665,West Bank And Gaza,1917,0,1,
+573,British South Africa,665,West Bank And Gaza,1918,0,1,
+573,British South Africa,665,West Bank And Gaza,1919,0,1,
+573,British South Africa,665,West Bank And Gaza,1920,0,1,
+573,British South Africa,665,West Bank And Gaza,1921,0,1,
+573,British South Africa,665,West Bank And Gaza,1922,0,1,
+573,British South Africa,665,West Bank And Gaza,1923,0,1,
+573,British South Africa,666,Israel,1910,0,1,Pounds
+573,British South Africa,666,Israel,1911,0,1,Pounds
+573,British South Africa,666,Israel,1912,0,1,Pounds
+573,British South Africa,666,Israel,1913,0,1,Pounds
+573,British South Africa,666,Israel,1914,0,1,Pounds
+573,British South Africa,666,Israel,1915,0,1,Pounds
+573,British South Africa,666,Israel,1916,0,1,
+573,British South Africa,666,Israel,1917,0,1,
+573,British South Africa,666,Israel,1918,0,1,
+573,British South Africa,666,Israel,1919,0,1,
+573,British South Africa,666,Israel,1920,0,1,
+573,British South Africa,666,Israel,1921,0,1,
+573,British South Africa,666,Israel,1922,0,1,
+573,British South Africa,666,Israel,1923,0,1,
+573,British South Africa,675,Arabia,1910,0,1,Pounds
+573,British South Africa,675,Arabia,1911,0,1,Pounds
+573,British South Africa,675,Arabia,1912,0,1,Pounds
+573,British South Africa,675,Arabia,1913,0,1,Pounds
+573,British South Africa,675,Arabia,1914,0,1,Pounds
+573,British South Africa,675,Arabia,1915,0,1,Pounds
+573,British South Africa,675,Arabia,1916,0,1,
+573,British South Africa,675,Arabia,1917,0,1,
+573,British South Africa,675,Arabia,1918,0,1,
+573,British South Africa,675,Arabia,1919,0,1,
+573,British South Africa,675,Arabia,1920,0,1,
+573,British South Africa,675,Arabia,1921,0,1,
+573,British South Africa,675,Arabia,1922,0,1,
+573,British South Africa,675,Arabia,1923,0,1,
+573,British South Africa,681,Aden,1910,245,1,Pounds
+573,British South Africa,681,Aden,1911,662,1,Pounds
+573,British South Africa,681,Aden,1912,466,1,Pounds
+573,British South Africa,681,Aden,1913,333,1,Pounds
+573,British South Africa,681,Aden,1914,343,1,Pounds
+573,British South Africa,681,Aden,1915,342,1,Pounds
+573,British South Africa,681,Aden,1916,681,1,
+573,British South Africa,681,Aden,1917,415,1,
+573,British South Africa,681,Aden,1918,30,1,
+573,British South Africa,681,Aden,1919,471,1,
+573,British South Africa,681,Aden,1920,411,1,
+573,British South Africa,681,Aden,1921,172,1,
+573,British South Africa,681,Aden,1922,80,1,
+573,British South Africa,681,Aden,1923,50,1,
+573,British South Africa,681,Aden,1924,14,,
+573,British South Africa,681,Aden,1925,18,,
+573,British South Africa,681,Aden,1926,25,,
+573,British South Africa,681,Aden,1927,165,,
+573,British South Africa,681,Aden,1928,82,,
+573,British South Africa,681,Aden,1929,4,,
+573,British South Africa,692,Bahrain,1910,0,1,Pounds
+573,British South Africa,692,Bahrain,1911,0,1,Pounds
+573,British South Africa,692,Bahrain,1912,0,1,Pounds
+573,British South Africa,692,Bahrain,1913,0,1,Pounds
+573,British South Africa,692,Bahrain,1914,0,1,Pounds
+573,British South Africa,692,Bahrain,1915,0,1,Pounds
+573,British South Africa,692,Bahrain,1916,0,1,
+573,British South Africa,692,Bahrain,1917,0,1,
+573,British South Africa,692,Bahrain,1918,0,1,
+573,British South Africa,692,Bahrain,1919,0,1,
+573,British South Africa,692,Bahrain,1920,0,1,
+573,British South Africa,692,Bahrain,1921,0,1,
+573,British South Africa,692,Bahrain,1922,0,1,
+573,British South Africa,692,Bahrain,1923,0,1,
+573,British South Africa,700,Afghanistan,1910,0,1,Pounds
+573,British South Africa,700,Afghanistan,1911,0,1,Pounds
+573,British South Africa,700,Afghanistan,1912,0,1,Pounds
+573,British South Africa,700,Afghanistan,1913,0,1,Pounds
+573,British South Africa,700,Afghanistan,1914,0,1,Pounds
+573,British South Africa,700,Afghanistan,1915,0,1,Pounds
+573,British South Africa,700,Afghanistan,1916,0,1,
+573,British South Africa,700,Afghanistan,1917,0,1,
+573,British South Africa,700,Afghanistan,1918,0,1,
+573,British South Africa,700,Afghanistan,1919,0,1,
+573,British South Africa,700,Afghanistan,1920,0,1,
+573,British South Africa,700,Afghanistan,1921,0,1,
+573,British South Africa,700,Afghanistan,1922,0,1,
+573,British South Africa,700,Afghanistan,1923,0,1,
+573,British South Africa,710,China,1910,30715,1,Pounds
+573,British South Africa,710,China,1911,36335,1,Pounds
+573,British South Africa,710,China,1912,54598,1,Pounds
+573,British South Africa,710,China,1913,64863,1,Pounds
+573,British South Africa,710,China,1914,46177,1,Pounds
+573,British South Africa,710,China,1915,78529,1,Pounds
+573,British South Africa,710,China,1916,129001,1,
+573,British South Africa,710,China,1917,71339,1,
+573,British South Africa,710,China,1918,102646,1,
+573,British South Africa,710,China,1919,75779,1,
+573,British South Africa,710,China,1920,270775,1,
+573,British South Africa,710,China,1921,311265,1,
+573,British South Africa,710,China,1922,110910,1,
+573,British South Africa,710,China,1923,113647,1,
+573,British South Africa,710,China,1924,106361,,
+573,British South Africa,710,China,1925,73818,,
+573,British South Africa,710,China,1926,88551,,
+573,British South Africa,710,China,1927,81854,,
+573,British South Africa,710,China,1928,83441,,
+573,British South Africa,710,China,1929,80757,,
+573,British South Africa,720,Hong Kong,1910,8591,1,Pounds
+573,British South Africa,720,Hong Kong,1911,6439,1,Pounds
+573,British South Africa,720,Hong Kong,1912,7256,1,Pounds
+573,British South Africa,720,Hong Kong,1913,11342,1,Pounds
+573,British South Africa,720,Hong Kong,1914,7393,1,Pounds
+573,British South Africa,720,Hong Kong,1915,4400,1,Pounds
+573,British South Africa,720,Hong Kong,1916,6282,1,
+573,British South Africa,720,Hong Kong,1917,8557,1,
+573,British South Africa,720,Hong Kong,1918,15285,1,
+573,British South Africa,720,Hong Kong,1919,5552,1,
+573,British South Africa,720,Hong Kong,1920,14988,1,
+573,British South Africa,720,Hong Kong,1921,3810,1,
+573,British South Africa,720,Hong Kong,1922,7457,1,
+573,British South Africa,720,Hong Kong,1923,7267,1,
+573,British South Africa,720,Hong Kong,1924,15751,,
+573,British South Africa,720,Hong Kong,1925,13553,,
+573,British South Africa,720,Hong Kong,1926,19862,,
+573,British South Africa,720,Hong Kong,1927,18880,,
+573,British South Africa,720,Hong Kong,1928,17694,,
+573,British South Africa,720,Hong Kong,1929,33059,,
+573,British South Africa,740,Japan,1910,81647,1,Pounds
+573,British South Africa,740,Japan,1911,100533,1,Pounds
+573,British South Africa,740,Japan,1912,109876,1,Pounds
+573,British South Africa,740,Japan,1913,115461,1,Pounds
+573,British South Africa,740,Japan,1914,119663,1,Pounds
+573,British South Africa,740,Japan,1915,232774,1,Pounds
+573,British South Africa,740,Japan,1916,555575,1,
+573,British South Africa,740,Japan,1917,745956,1,
+573,British South Africa,740,Japan,1918,2667006,1,
+573,British South Africa,740,Japan,1919,1762149,1,
+573,British South Africa,740,Japan,1920,1443907,1,
+573,British South Africa,740,Japan,1921,755052,1,
+573,British South Africa,740,Japan,1922,639319,1,
+573,British South Africa,740,Japan,1923,538307,1,
+573,British South Africa,740,Japan,1924,742731,,
+573,British South Africa,740,Japan,1925,873087,,
+573,British South Africa,740,Japan,1926,1139351,,
+573,British South Africa,740,Japan,1927,1094920,,
+573,British South Africa,740,Japan,1928,1298398,,
+573,British South Africa,740,Japan,1929,1452304,,
+573,British South Africa,750,India,1910,802394,1,Pounds
+573,British South Africa,750,India,1911,875827,1,Pounds
+573,British South Africa,750,India,1912,1024127,1,Pounds
+573,British South Africa,750,India,1913,1138210,1,Pounds
+573,British South Africa,750,India,1914,1052162,1,Pounds
+573,British South Africa,750,India,1915,1301038,1,Pounds
+573,British South Africa,750,India,1916,1498971,1,
+573,British South Africa,750,India,1917,2203192,1,
+573,British South Africa,750,India,1918,3427402,1,
+573,British South Africa,750,India,1919,2623798,1,
+573,British South Africa,750,India,1920,2728234,1,
+573,British South Africa,750,India,1921,1793676,1,
+573,British South Africa,750,India,1922,1977723,1,
+573,British South Africa,750,India,1923,2415498,1,
+573,British South Africa,750,India,1924,2230435,,
+573,British South Africa,750,India,1925,3212265,,
+573,British South Africa,750,India,1926,2680525,,
+573,British South Africa,750,India,1927,2595105,,
+573,British South Africa,750,India,1928,2669500,,
+573,British South Africa,750,India,1929,2710719,,
+573,British South Africa,770,Pakistan,1910,0,1,Pounds
+573,British South Africa,770,Pakistan,1911,0,1,Pounds
+573,British South Africa,770,Pakistan,1912,0,1,Pounds
+573,British South Africa,770,Pakistan,1913,0,1,Pounds
+573,British South Africa,770,Pakistan,1914,0,1,Pounds
+573,British South Africa,770,Pakistan,1915,0,1,Pounds
+573,British South Africa,770,Pakistan,1916,0,1,
+573,British South Africa,770,Pakistan,1917,0,1,
+573,British South Africa,770,Pakistan,1918,0,1,
+573,British South Africa,770,Pakistan,1919,0,1,
+573,British South Africa,770,Pakistan,1920,0,1,
+573,British South Africa,770,Pakistan,1921,0,1,
+573,British South Africa,770,Pakistan,1922,0,1,
+573,British South Africa,770,Pakistan,1923,0,1,
+573,British South Africa,775,Myanmar,1910,0,1,Pounds
+573,British South Africa,775,Myanmar,1911,0,1,Pounds
+573,British South Africa,775,Myanmar,1912,0,1,Pounds
+573,British South Africa,775,Myanmar,1913,0,1,Pounds
+573,British South Africa,775,Myanmar,1914,0,1,Pounds
+573,British South Africa,775,Myanmar,1915,0,1,Pounds
+573,British South Africa,775,Myanmar,1916,0,1,
+573,British South Africa,775,Myanmar,1917,0,1,
+573,British South Africa,775,Myanmar,1918,0,1,
+573,British South Africa,775,Myanmar,1919,0,1,
+573,British South Africa,775,Myanmar,1920,0,1,
+573,British South Africa,775,Myanmar,1921,0,1,
+573,British South Africa,775,Myanmar,1922,0,1,
+573,British South Africa,775,Myanmar,1923,0,1,
+573,British South Africa,780,Sri Lanka,1910,163408,1,Pounds
+573,British South Africa,780,Sri Lanka,1911,180417,1,Pounds
+573,British South Africa,780,Sri Lanka,1912,207552,1,Pounds
+573,British South Africa,780,Sri Lanka,1913,209356,1,Pounds
+573,British South Africa,780,Sri Lanka,1914,213533,1,Pounds
+573,British South Africa,780,Sri Lanka,1915,230639,1,Pounds
+573,British South Africa,780,Sri Lanka,1916,173526,1,
+573,British South Africa,780,Sri Lanka,1917,206907,1,
+573,British South Africa,780,Sri Lanka,1918,261990,1,
+573,British South Africa,780,Sri Lanka,1919,258211,1,
+573,British South Africa,780,Sri Lanka,1920,336529,1,
+573,British South Africa,780,Sri Lanka,1921,245443,1,
+573,British South Africa,780,Sri Lanka,1922,342953,1,
+573,British South Africa,780,Sri Lanka,1923,491904,1,
+573,British South Africa,780,Sri Lanka,1924,588163,,
+573,British South Africa,780,Sri Lanka,1925,602010,,
+573,British South Africa,780,Sri Lanka,1926,736216,,
+573,British South Africa,780,Sri Lanka,1927,811144,,
+573,British South Africa,780,Sri Lanka,1928,773318,,
+573,British South Africa,780,Sri Lanka,1929,769424,,
+573,British South Africa,800,Thailand,1910,25503,1,Pounds
+573,British South Africa,800,Thailand,1911,33983,1,Pounds
+573,British South Africa,800,Thailand,1912,34800,1,Pounds
+573,British South Africa,800,Thailand,1913,39077,1,Pounds
+573,British South Africa,800,Thailand,1914,32093,1,Pounds
+573,British South Africa,800,Thailand,1915,62643,1,Pounds
+573,British South Africa,800,Thailand,1916,62427,1,
+573,British South Africa,800,Thailand,1917,58982,1,
+573,British South Africa,800,Thailand,1918,10415,1,
+573,British South Africa,800,Thailand,1919,66934,1,
+573,British South Africa,800,Thailand,1920,70392,1,
+573,British South Africa,800,Thailand,1921,31678,1,
+573,British South Africa,800,Thailand,1922,49926,1,
+573,British South Africa,800,Thailand,1923,52910,1,
+573,British South Africa,800,Thailand,1924,52621,,
+573,British South Africa,800,Thailand,1925,84862,,
+573,British South Africa,800,Thailand,1926,107627,,
+573,British South Africa,800,Thailand,1927,110618,,
+573,British South Africa,800,Thailand,1928,135229,,
+573,British South Africa,800,Thailand,1929,166662,,
+573,British South Africa,820,Malaysia,1910,0,1,Pounds
+573,British South Africa,820,Malaysia,1911,0,1,Pounds
+573,British South Africa,820,Malaysia,1912,0,1,Pounds
+573,British South Africa,820,Malaysia,1913,0,1,Pounds
+573,British South Africa,820,Malaysia,1914,0,1,Pounds
+573,British South Africa,820,Malaysia,1915,0,1,Pounds
+573,British South Africa,820,Malaysia,1916,0,1,
+573,British South Africa,820,Malaysia,1917,0,1,
+573,British South Africa,820,Malaysia,1918,0,1,
+573,British South Africa,820,Malaysia,1919,0,1,
+573,British South Africa,820,Malaysia,1920,0,1,
+573,British South Africa,820,Malaysia,1921,0,1,
+573,British South Africa,820,Malaysia,1922,0,1,
+573,British South Africa,820,Malaysia,1923,0,1,
+573,British South Africa,823,British Borneo,1910,0,1,Pounds
+573,British South Africa,823,British Borneo,1911,0,1,Pounds
+573,British South Africa,823,British Borneo,1912,0,1,Pounds
+573,British South Africa,823,British Borneo,1913,0,1,Pounds
+573,British South Africa,823,British Borneo,1914,0,1,Pounds
+573,British South Africa,823,British Borneo,1915,0,1,Pounds
+573,British South Africa,823,British Borneo,1916,0,1,
+573,British South Africa,823,British Borneo,1917,0,1,
+573,British South Africa,823,British Borneo,1918,0,1,
+573,British South Africa,823,British Borneo,1919,0,1,
+573,British South Africa,823,British Borneo,1920,0,1,
+573,British South Africa,823,British Borneo,1921,0,1,
+573,British South Africa,823,British Borneo,1922,0,1,
+573,British South Africa,823,British Borneo,1923,0,1,
+573,British South Africa,827,Straits Settlement,1910,8721,1,Pounds
+573,British South Africa,827,Straits Settlement,1911,9650,1,Pounds
+573,British South Africa,827,Straits Settlement,1912,12009,1,Pounds
+573,British South Africa,827,Straits Settlement,1913,12017,1,Pounds
+573,British South Africa,827,Straits Settlement,1914,8959,1,Pounds
+573,British South Africa,827,Straits Settlement,1915,12099,1,Pounds
+573,British South Africa,827,Straits Settlement,1916,13560,1,
+573,British South Africa,827,Straits Settlement,1917,27152,1,
+573,British South Africa,827,Straits Settlement,1918,55131,1,
+573,British South Africa,827,Straits Settlement,1919,16141,1,
+573,British South Africa,827,Straits Settlement,1920,33521,1,
+573,British South Africa,827,Straits Settlement,1921,27235,1,
+573,British South Africa,827,Straits Settlement,1922,47799,1,
+573,British South Africa,827,Straits Settlement,1923,42610,1,
+573,British South Africa,827,Straits Settlement,1924,49730,,
+573,British South Africa,827,Straits Settlement,1925,51353,,
+573,British South Africa,827,Straits Settlement,1926,41106,,
+573,British South Africa,827,Straits Settlement,1927,53490,,
+573,British South Africa,827,Straits Settlement,1928,53955,,
+573,British South Africa,827,Straits Settlement,1929,74550,,
+573,British South Africa,840,Philippines,1910,4412,1,Pounds
+573,British South Africa,840,Philippines,1911,3472,1,Pounds
+573,British South Africa,840,Philippines,1912,3626,1,Pounds
+573,British South Africa,840,Philippines,1913,1806,1,Pounds
+573,British South Africa,840,Philippines,1914,2628,1,Pounds
+573,British South Africa,840,Philippines,1915,1914,1,Pounds
+573,British South Africa,840,Philippines,1916,1151,1,
+573,British South Africa,840,Philippines,1917,443,1,
+573,British South Africa,840,Philippines,1918,998,1,
+573,British South Africa,840,Philippines,1919,984,1,
+573,British South Africa,840,Philippines,1920,2502,1,
+573,British South Africa,840,Philippines,1921,1564,1,
+573,British South Africa,840,Philippines,1922,1711,1,
+573,British South Africa,840,Philippines,1923,934,1,
+573,British South Africa,840,Philippines,1924,660,,
+573,British South Africa,840,Philippines,1925,1980,,
+573,British South Africa,840,Philippines,1926,10098,,
+573,British South Africa,840,Philippines,1927,15041,,
+573,British South Africa,840,Philippines,1928,18453,,
+573,British South Africa,840,Philippines,1929,16386,,
+573,British South Africa,850,Indonesia,1910,35422,1,Pounds
+573,British South Africa,850,Indonesia,1911,79876,1,Pounds
+573,British South Africa,850,Indonesia,1912,48763,1,Pounds
+573,British South Africa,850,Indonesia,1913,124754,1,Pounds
+573,British South Africa,850,Indonesia,1914,147645,1,Pounds
+573,British South Africa,850,Indonesia,1915,178217,1,Pounds
+573,British South Africa,850,Indonesia,1916,204426,1,
+573,British South Africa,850,Indonesia,1917,253754,1,
+573,British South Africa,850,Indonesia,1918,324581,1,
+573,British South Africa,850,Indonesia,1919,509887,1,
+573,British South Africa,850,Indonesia,1920,662345,1,
+573,British South Africa,850,Indonesia,1921,801757,1,
+573,British South Africa,850,Indonesia,1922,566846,1,
+573,British South Africa,850,Indonesia,1923,665922,1,
+573,British South Africa,850,Indonesia,1924,563428,,
+573,British South Africa,850,Indonesia,1925,552806,,
+573,British South Africa,850,Indonesia,1926,225347,,
+573,British South Africa,850,Indonesia,1927,696773,,
+573,British South Africa,850,Indonesia,1928,782217,,
+573,British South Africa,850,Indonesia,1929,1124252,,
+573,British South Africa,851,Dutch New Guinea,1910,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1911,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1912,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1913,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1914,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1915,0,1,Pounds
+573,British South Africa,851,Dutch New Guinea,1916,0,1,
+573,British South Africa,851,Dutch New Guinea,1917,0,1,
+573,British South Africa,851,Dutch New Guinea,1918,0,1,
+573,British South Africa,851,Dutch New Guinea,1919,0,1,
+573,British South Africa,851,Dutch New Guinea,1920,0,1,
+573,British South Africa,851,Dutch New Guinea,1921,0,1,
+573,British South Africa,851,Dutch New Guinea,1922,0,1,
+573,British South Africa,851,Dutch New Guinea,1923,0,1,
+573,British South Africa,900,Australia,1910,1617682,1,Pounds
+573,British South Africa,900,Australia,1911,1567401,1,Pounds
+573,British South Africa,900,Australia,1912,1254771,1,Pounds
+573,British South Africa,900,Australia,1913,2022989,1,Pounds
+573,British South Africa,900,Australia,1914,1573910,1,Pounds
+573,British South Africa,900,Australia,1915,458939,1,Pounds
+573,British South Africa,900,Australia,1916,1309743,1,
+573,British South Africa,900,Australia,1917,1267711,1,
+573,British South Africa,900,Australia,1918,1177241,1,
+573,British South Africa,900,Australia,1919,1619188,1,
+573,British South Africa,900,Australia,1920,3956989,1,
+573,British South Africa,900,Australia,1921,1332590,1,
+573,British South Africa,900,Australia,1922,1018711,1,
+573,British South Africa,900,Australia,1923,1741711,1,
+573,British South Africa,900,Australia,1924,1974569,,
+573,British South Africa,900,Australia,1925,2023521,,
+573,British South Africa,900,Australia,1926,1432188,,
+573,British South Africa,900,Australia,1927,1577322,,
+573,British South Africa,900,Australia,1928,2154419,,
+573,British South Africa,900,Australia,1929,1691527,,
+573,British South Africa,920,New Zealand,1910,56406,1,Pounds
+573,British South Africa,920,New Zealand,1911,46593,1,Pounds
+573,British South Africa,920,New Zealand,1912,101666,1,Pounds
+573,British South Africa,920,New Zealand,1913,68886,1,Pounds
+573,British South Africa,920,New Zealand,1914,58272,1,Pounds
+573,British South Africa,920,New Zealand,1915,11700,1,Pounds
+573,British South Africa,920,New Zealand,1916,11960,1,
+573,British South Africa,920,New Zealand,1917,2322,1,
+573,British South Africa,920,New Zealand,1918,467,1,
+573,British South Africa,920,New Zealand,1919,3464,1,
+573,British South Africa,920,New Zealand,1920,11168,1,
+573,British South Africa,920,New Zealand,1921,8021,1,
+573,British South Africa,920,New Zealand,1922,23398,1,
+573,British South Africa,920,New Zealand,1923,54850,1,
+573,British South Africa,920,New Zealand,1924,30775,,
+573,British South Africa,920,New Zealand,1925,26259,,
+573,British South Africa,920,New Zealand,1926,27074,,
+573,British South Africa,920,New Zealand,1927,107315,,
+573,British South Africa,920,New Zealand,1928,92863,,
+573,British South Africa,920,New Zealand,1929,56971,,
+573,British South Africa,950,Fiji,1910,204,1,Pounds
+573,British South Africa,950,Fiji,1911,761,1,Pounds
+573,British South Africa,950,Fiji,1912,0,1,Pounds
+573,British South Africa,950,Fiji,1913,0,1,Pounds
+573,British South Africa,950,Fiji,1914,0,1,Pounds
+573,British South Africa,950,Fiji,1915,18,1,Pounds
+573,British South Africa,950,Fiji,1916,32,1,
+573,British South Africa,950,Fiji,1917,0,1,
+573,British South Africa,950,Fiji,1918,0,1,
+573,British South Africa,950,Fiji,1919,0,1,
+573,British South Africa,950,Fiji,1920,0,1,
+573,British South Africa,950,Fiji,1921,0,1,
+573,British South Africa,950,Fiji,1922,0,1,
+573,British South Africa,950,Fiji,1923,0,1,
+573,British South Africa,1050,British West Indies,1910,10442,1,Pounds
+573,British South Africa,1050,British West Indies,1911,8985,1,Pounds
+573,British South Africa,1050,British West Indies,1912,19312,1,Pounds
+573,British South Africa,1050,British West Indies,1913,9088,1,Pounds
+573,British South Africa,1050,British West Indies,1914,9923,1,Pounds
+573,British South Africa,1050,British West Indies,1915,9349,1,Pounds
+573,British South Africa,1050,British West Indies,1916,39931,1,
+573,British South Africa,1050,British West Indies,1917,51493,1,
+573,British South Africa,1050,British West Indies,1918,51927,1,
+573,British South Africa,1050,British West Indies,1919,10685,1,
+573,British South Africa,1050,British West Indies,1920,16575,1,
+573,British South Africa,1050,British West Indies,1921,5994,1,
+573,British South Africa,1050,British West Indies,1922,18410,1,
+573,British South Africa,1050,British West Indies,1923,7884,1,
+573,British South Africa,1050,British West Indies,1924,18504,,
+573,British South Africa,1050,British West Indies,1925,7406,,
+573,British South Africa,1050,British West Indies,1926,9736,,
+573,British South Africa,1050,British West Indies,1927,22054,,
+573,British South Africa,1050,British West Indies,1928,13312,,
+573,British South Africa,1050,British West Indies,1929,16029,,
+573,British South Africa,1060,French West Indies,1910,0,1,Pounds
+573,British South Africa,1060,French West Indies,1911,0,1,Pounds
+573,British South Africa,1060,French West Indies,1912,49,1,Pounds
+573,British South Africa,1060,French West Indies,1913,0,1,Pounds
+573,British South Africa,1060,French West Indies,1914,5,1,Pounds
+573,British South Africa,1060,French West Indies,1915,0,1,Pounds
+573,British South Africa,1060,French West Indies,1916,0,1,
+573,British South Africa,1060,French West Indies,1917,0,1,
+573,British South Africa,1060,French West Indies,1918,0,1,
+573,British South Africa,1060,French West Indies,1919,0,1,
+573,British South Africa,1060,French West Indies,1920,0,1,
+573,British South Africa,1060,French West Indies,1921,0,1,
+573,British South Africa,1060,French West Indies,1922,0,1,
+573,British South Africa,1060,French West Indies,1923,0,1,
+573,British South Africa,1163,Falkland Islands,1910,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1911,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1912,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1913,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1914,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1915,0,1,Pounds
+573,British South Africa,1163,Falkland Islands,1916,0,1,
+573,British South Africa,1163,Falkland Islands,1917,0,1,
+573,British South Africa,1163,Falkland Islands,1918,0,1,
+573,British South Africa,1163,Falkland Islands,1919,0,1,
+573,British South Africa,1163,Falkland Islands,1920,0,1,
+573,British South Africa,1163,Falkland Islands,1921,0,1,
+573,British South Africa,1163,Falkland Islands,1922,0,1,
+573,British South Africa,1163,Falkland Islands,1923,0,1,
+573,British South Africa,1200,Other US possessions,1910,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1911,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1912,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1913,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1914,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1915,0,1,Pounds
+573,British South Africa,1200,Other US possessions,1916,0,1,
+573,British South Africa,1200,Other US possessions,1917,0,1,
+573,British South Africa,1200,Other US possessions,1918,0,1,
+573,British South Africa,1200,Other US possessions,1919,0,1,
+573,British South Africa,1200,Other US possessions,1920,0,1,
+573,British South Africa,1200,Other US possessions,1921,0,1,
+573,British South Africa,1200,Other US possessions,1922,0,1,
+573,British South Africa,1200,Other US possessions,1923,0,1,
+573,British South Africa,2000,Other British possessions,1910,4525,1,Pounds
+573,British South Africa,2000,Other British possessions,1911,1065,1,Pounds
+573,British South Africa,2000,Other British possessions,1912,16562,1,Pounds
+573,British South Africa,2000,Other British possessions,1913,39895,1,Pounds
+573,British South Africa,2000,Other British possessions,1914,29412,1,Pounds
+573,British South Africa,2000,Other British possessions,1915,2284,1,Pounds
+573,British South Africa,2000,Other British possessions,1916,3929,1,
+573,British South Africa,2000,Other British possessions,1917,2573,1,
+573,British South Africa,2000,Other British possessions,1918,18535,1,
+573,British South Africa,2000,Other British possessions,1919,29136,1,
+573,British South Africa,2000,Other British possessions,1920,9931,1,
+573,British South Africa,2000,Other British possessions,1921,10352,1,
+573,British South Africa,2000,Other British possessions,1922,36068,1,
+573,British South Africa,2000,Other British possessions,1923,32346,1,
+573,British South Africa,2000,Other British possessions,1924,41314,,
+573,British South Africa,2000,Other British possessions,1925,34903,,
+573,British South Africa,2000,Other British possessions,1926,58893,,
+573,British South Africa,2000,Other British possessions,1927,146392,,
+573,British South Africa,2000,Other British possessions,1928,132519,,
+573,British South Africa,2000,Other British possessions,1929,178317,,
+573,British South Africa,2200,Other French possessions,1910,452,1,Pounds
+573,British South Africa,2200,Other French possessions,1911,225,1,Pounds
+573,British South Africa,2200,Other French possessions,1912,604,1,Pounds
+573,British South Africa,2200,Other French possessions,1913,1002,1,Pounds
+573,British South Africa,2200,Other French possessions,1914,280,1,Pounds
+573,British South Africa,2200,Other French possessions,1915,938,1,Pounds
+573,British South Africa,2200,Other French possessions,1916,676,1,
+573,British South Africa,2200,Other French possessions,1917,295,1,
+573,British South Africa,2200,Other French possessions,1918,324,1,
+573,British South Africa,2200,Other French possessions,1919,746,1,
+573,British South Africa,2200,Other French possessions,1920,10472,1,
+573,British South Africa,2200,Other French possessions,1921,85768,1,
+573,British South Africa,2200,Other French possessions,1922,43366,1,
+573,British South Africa,2200,Other French possessions,1923,44914,1,
+573,British South Africa,2200,Other French possessions,1924,60625,,
+573,British South Africa,2200,Other French possessions,1925,62780,,
+573,British South Africa,2200,Other French possessions,1926,77513,,
+573,British South Africa,2200,Other French possessions,1927,87125,,
+573,British South Africa,2200,Other French possessions,1928,87476,,
+573,British South Africa,2200,Other French possessions,1929,156428,,
+573,British South Africa,2205,French Africa,1910,0,1,Pounds
+573,British South Africa,2205,French Africa,1911,0,1,Pounds
+573,British South Africa,2205,French Africa,1912,0,1,Pounds
+573,British South Africa,2205,French Africa,1913,0,1,Pounds
+573,British South Africa,2205,French Africa,1914,0,1,Pounds
+573,British South Africa,2205,French Africa,1915,0,1,Pounds
+573,British South Africa,2205,French Africa,1916,0,1,
+573,British South Africa,2205,French Africa,1917,0,1,
+573,British South Africa,2205,French Africa,1918,0,1,
+573,British South Africa,2205,French Africa,1919,0,1,
+573,British South Africa,2205,French Africa,1920,0,1,
+573,British South Africa,2205,French Africa,1921,0,1,
+573,British South Africa,2205,French Africa,1922,0,1,
+573,British South Africa,2205,French Africa,1923,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1910,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1911,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1912,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1913,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1914,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1915,0,1,Pounds
+573,British South Africa,2350,Other Portuguese possessions,1916,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1917,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1918,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1919,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1920,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1921,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1922,0,1,
+573,British South Africa,2350,Other Portuguese possessions,1923,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1910,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1911,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1912,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1913,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1914,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1915,0,1,Pounds
+573,British South Africa,2357,Portuguese possessions in Asia,1916,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1917,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1918,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1919,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1920,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1921,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1922,0,1,
+573,British South Africa,2357,Portuguese possessions in Asia,1923,0,1,
+573,British South Africa,2550,Other German possessions,1910,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1911,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1912,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1913,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1914,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1915,0,1,Pounds
+573,British South Africa,2550,Other German possessions,1916,0,1,
+573,British South Africa,2550,Other German possessions,1917,0,1,
+573,British South Africa,2550,Other German possessions,1918,0,1,
+573,British South Africa,2550,Other German possessions,1919,0,1,
+573,British South Africa,2550,Other German possessions,1920,0,1,
+573,British South Africa,2550,Other German possessions,1921,0,1,
+573,British South Africa,2550,Other German possessions,1922,0,1,
+573,British South Africa,2550,Other German possessions,1923,0,1,
+573,British South Africa,3250,Italian Africa,1910,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1911,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1912,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1913,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1914,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1915,0,1,Pounds
+573,British South Africa,3250,Italian Africa,1916,0,1,
+573,British South Africa,3250,Italian Africa,1917,0,1,
+573,British South Africa,3250,Italian Africa,1918,0,1,
+573,British South Africa,3250,Italian Africa,1919,0,1,
+573,British South Africa,3250,Italian Africa,1920,0,1,
+573,British South Africa,3250,Italian Africa,1921,0,1,
+573,British South Africa,3250,Italian Africa,1922,0,1,
+573,British South Africa,3250,Italian Africa,1923,0,1,
+573,British South Africa,3900,Danish possessions,1910,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1911,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1912,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1913,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1914,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1915,0,1,Pounds
+573,British South Africa,3900,Danish possessions,1916,0,1,
+573,British South Africa,3900,Danish possessions,1917,0,1,
+573,British South Africa,3900,Danish possessions,1918,0,1,
+573,British South Africa,3900,Danish possessions,1919,0,1,
+573,British South Africa,3900,Danish possessions,1920,0,1,
+573,British South Africa,3900,Danish possessions,1921,0,1,
+573,British South Africa,3900,Danish possessions,1922,0,1,
+573,British South Africa,3900,Danish possessions,1923,0,1,
+573,British South Africa,5201,Italian East Africa,1910,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1911,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1912,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1913,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1914,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1915,0,1,Pounds
+573,British South Africa,5201,Italian East Africa,1916,0,1,
+573,British South Africa,5201,Italian East Africa,1917,0,1,
+573,British South Africa,5201,Italian East Africa,1918,0,1,
+573,British South Africa,5201,Italian East Africa,1919,0,1,
+573,British South Africa,5201,Italian East Africa,1920,0,1,
+573,British South Africa,5201,Italian East Africa,1921,0,1,
+573,British South Africa,5201,Italian East Africa,1922,0,1,
+573,British South Africa,5201,Italian East Africa,1923,0,1,
+573,British South Africa,6203,Tripoli,1910,0,1,Pounds
+573,British South Africa,6203,Tripoli,1911,0,1,Pounds
+573,British South Africa,6203,Tripoli,1912,0,1,Pounds
+573,British South Africa,6203,Tripoli,1913,0,1,Pounds
+573,British South Africa,6203,Tripoli,1914,0,1,Pounds
+573,British South Africa,6203,Tripoli,1915,0,1,Pounds
+573,British South Africa,6203,Tripoli,1916,0,1,
+573,British South Africa,6203,Tripoli,1917,0,1,
+573,British South Africa,6203,Tripoli,1918,0,1,
+573,British South Africa,6203,Tripoli,1919,0,1,
+573,British South Africa,6203,Tripoli,1920,0,1,
+573,British South Africa,6203,Tripoli,1921,0,1,
+573,British South Africa,6203,Tripoli,1922,0,1,
+573,British South Africa,6203,Tripoli,1923,0,1,
+573,British South Africa,8151,Cochin China,1910,0,1,Pounds
+573,British South Africa,8151,Cochin China,1911,0,1,Pounds
+573,British South Africa,8151,Cochin China,1912,0,1,Pounds
+573,British South Africa,8151,Cochin China,1913,0,1,Pounds
+573,British South Africa,8151,Cochin China,1914,0,1,Pounds
+573,British South Africa,8151,Cochin China,1915,0,1,Pounds
+573,British South Africa,8151,Cochin China,1916,0,1,
+573,British South Africa,8151,Cochin China,1917,0,1,
+573,British South Africa,8151,Cochin China,1918,0,1,
+573,British South Africa,8151,Cochin China,1919,0,1,
+573,British South Africa,8151,Cochin China,1920,0,1,
+573,British South Africa,8151,Cochin China,1921,0,1,
+573,British South Africa,8151,Cochin China,1922,0,1,
+573,British South Africa,8151,Cochin China,1923,0,1,
+573,British South Africa,,,1910,70329886,1,Pounds
+573,British South Africa,,,1911,72950043,1,Pounds
+573,British South Africa,,,1912,75392661,1,Pounds
+573,British South Africa,,,1913,80855820,1,Pounds
+573,British South Africa,,,1914,65557183,1,Pounds
+573,British South Africa,,,1915,60718060,1,Pounds
+573,British South Africa,,,1916,80853271,1,
+573,British South Africa,,,1917,73428287,1,
+573,British South Africa,,,1918,97931698,1,
+573,British South Africa,,,1919,96523411,1,
+573,British South Africa,,,1920,189813127,1,
+573,British South Africa,,,1921,106093364,1,
+573,British South Africa,,,1922,99221958,1,
+573,British South Africa,,,1923,110550468,1,
+573,British South Africa,,,1924,122638296,,
+573,British South Africa,,,1925,132462899,,
+573,British South Africa,,,1926,141996211,,
+573,British South Africa,,,1927,146937535,,
+573,British South Africa,,,1928,157819724,,
+573,British South Africa,,,1929,165979232,,

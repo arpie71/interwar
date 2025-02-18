@@ -1,0 +1,82 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+652,2,1936,47114,1000,Milliers De Francs,Syria,United States
+652,2,1937,78120,1000,Milliers De Francs,Syria,United States
+652,2,1938,130023,1000,Milliers De Francs,Syria,United States
+652,200,1936,72979,1000,Milliers De Francs,Syria,United Kingdom
+652,200,1937,137760,1000,Milliers De Francs,Syria,United Kingdom
+652,200,1938,255154,1000,Milliers De Francs,Syria,United Kingdom
+652,210,1936,8108,1000,Milliers De Francs,Syria,Netherlands
+652,210,1937,17800,1000,Milliers De Francs,Syria,Netherlands
+652,210,1938,18267,1000,Milliers De Francs,Syria,Netherlands
+652,211,1936,40348,1000,Milliers De Francs,Syria,Belgium
+652,211,1937,66400,1000,Milliers De Francs,Syria,Belgium
+652,211,1938,71119,1000,Milliers De Francs,Syria,Belgium
+652,220,1936,83967,1000,Milliers De Francs,Syria,France
+652,220,1937,152160,1000,Milliers De Francs,Syria,France
+652,220,1938,197818,1000,Milliers De Francs,Syria,France
+652,225,1936,4980,1000,Milliers De Francs,Syria,Switzerland
+652,225,1937,13700,1000,Milliers De Francs,Syria,Switzerland
+652,225,1938,15573,1000,Milliers De Francs,Syria,Switzerland
+652,255,1936,43522,1000,Milliers De Francs,Syria,Germany
+652,255,1937,65200,1000,Milliers De Francs,Syria,Germany
+652,255,1938,120371,1000,Milliers De Francs,Syria,Germany
+652,290,1936,8127,1000,Milliers De Francs,Syria,Poland
+652,290,1937,16800,1000,Milliers De Francs,Syria,Poland
+652,290,1938,17498,1000,Milliers De Francs,Syria,Poland
+652,305,1936,8042,1000,Milliers De Francs,Syria,Austria
+652,305,1937,12600,1000,Milliers De Francs,Syria,Austria
+652,305,1938,7855,1000,Milliers De Francs,Syria,Austria
+652,315,1936,15335,1000,Milliers De Francs,Syria,Czechoslovakia
+652,315,1937,28280,1000,Milliers De Francs,Syria,Czechoslovakia
+652,315,1938,29640,1000,Milliers De Francs,Syria,Czechoslovakia
+652,325,1936,11930,1000,Milliers De Francs,Syria,Italy
+652,325,1937,78300,1000,Milliers De Francs,Syria,Italy
+652,325,1938,118920,1000,Milliers De Francs,Syria,Italy
+652,345,1936,2436,1000,Milliers De Francs,Syria,Yugoslavia
+652,345,1937,1700,1000,Milliers De Francs,Syria,Yugoslavia
+652,345,1938,1446,1000,Milliers De Francs,Syria,Yugoslavia
+652,350,1936,3104,1000,Milliers De Francs,Syria,Greece
+652,350,1937,3220,1000,Milliers De Francs,Syria,Greece
+652,350,1938,4233,1000,Milliers De Francs,Syria,Greece
+652,352,1936,908,1000,Milliers De Francs,Syria,Cyprus
+652,352,1937,940,1000,Milliers De Francs,Syria,Cyprus
+652,352,1938,1042,1000,Milliers De Francs,Syria,Cyprus
+652,360,1936,37773,1000,Milliers De Francs,Syria,Romania
+652,360,1937,71500,1000,Milliers De Francs,Syria,Romania
+652,360,1938,98655,1000,Milliers De Francs,Syria,Romania
+652,365,1936,8305,1000,Milliers De Francs,Syria,Russia
+652,365,1937,9560,1000,Milliers De Francs,Syria,Russia
+652,365,1938,1391,1000,Milliers De Francs,Syria,Russia
+652,380,1936,5701,1000,Milliers De Francs,Syria,Sweden
+652,380,1937,13620,1000,Milliers De Francs,Syria,Sweden
+652,380,1938,12498,1000,Milliers De Francs,Syria,Sweden
+652,630,1936,5521,1000,Milliers De Francs,Syria,Iran
+652,630,1937,9580,1000,Milliers De Francs,Syria,Iran
+652,630,1938,6771,1000,Milliers De Francs,Syria,Iran
+652,640,1936,49352,1000,Milliers De Francs,Syria,Turkey
+652,640,1937,68740,1000,Milliers De Francs,Syria,Turkey
+652,640,1938,65912,1000,Milliers De Francs,Syria,Turkey
+652,645,1936,36067,1000,Milliers De Francs,Syria,Iraq
+652,645,1937,66520,1000,Milliers De Francs,Syria,Iraq
+652,645,1938,75655,1000,Milliers De Francs,Syria,Iraq
+652,651,1936,19595,1000,Milliers De Francs,Syria,Egypt
+652,651,1937,26980,1000,Milliers De Francs,Syria,Egypt
+652,651,1938,41178,1000,Milliers De Francs,Syria,Egypt
+652,663,1936,2736,1000,Milliers De Francs,Syria,Jordan
+652,663,1937,13320,1000,Milliers De Francs,Syria,Jordan
+652,663,1938,4728,1000,Milliers De Francs,Syria,Jordan
+652,665,1936,25344,1000,Milliers De Francs,Syria,West Bank And Gaza
+652,665,1937,71440,1000,Milliers De Francs,Syria,West Bank And Gaza
+652,665,1938,86812,1000,Milliers De Francs,Syria,West Bank And Gaza
+652,670,1936,627,1000,Milliers De Francs,Syria,Saudi Arabia
+652,670,1937,220,1000,Milliers De Francs,Syria,Saudi Arabia
+652,670,1938,676,1000,Milliers De Francs,Syria,Saudi Arabia
+652,740,1936,76731,1000,Milliers De Francs,Syria,Japan
+652,740,1937,157320,1000,Milliers De Francs,Syria,Japan
+652,740,1938,165341,1000,Milliers De Francs,Syria,Japan
+652,2200,1936,3310,1000,Milliers De Francs,Syria,Other French possessions
+652,2200,1937,6200,1000,Milliers De Francs,Syria,Other French possessions
+652,2200,1938,7998,1000,Milliers De Francs,Syria,Other French possessions
+652,,1936,732280,1000,Milliers De Francs,Syria,
+652,,1937,1396860,1000,Milliers De Francs,Syria,
+652,,1938,1858818,1000,Milliers De Francs,Syria,

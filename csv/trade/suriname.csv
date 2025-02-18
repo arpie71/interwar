@@ -1,0 +1,1345 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+115,2,1931,1611144,1,,Suriname,United States
+115,2,1932,1212313,1,,Suriname,United States
+115,2,1933,973764,1,,Suriname,United States
+115,2,1934,878063,1,,Suriname,United States
+115,2,1935,970307,1,,Suriname,United States
+115,2,1936,1172547,1,,Suriname,United States
+115,2,1937,1541798,1,,Suriname,United States
+115,2,1938,1756468,1,,Suriname,United States
+115,2,1939,2363621,1,,Suriname,United States
+115,2,1943,11525414,1,,Suriname,United States
+115,2,1944,9328993,1,,Suriname,United States
+115,2,1945,7243296,1,,Suriname,United States
+115,2,1946,8692308,1,,Suriname,United States
+115,2,1947,17885479,1,,Suriname,United States
+115,2,1948,17740885,1,,Suriname,United States
+115,2,1949,19746672,1,,Suriname,United States
+115,3,1931,0,1,,Suriname,Alaska
+115,3,1932,0,1,,Suriname,Alaska
+115,3,1933,0,1,,Suriname,Alaska
+115,3,1934,0,1,,Suriname,Alaska
+115,3,1935,0,1,,Suriname,Alaska
+115,3,1936,0,1,,Suriname,Alaska
+115,3,1937,0,1,,Suriname,Alaska
+115,3,1938,0,1,,Suriname,Alaska
+115,3,1939,0,1,,Suriname,Alaska
+115,3,1943,0,1,,Suriname,Alaska
+115,3,1944,0,1,,Suriname,Alaska
+115,3,1945,0,1,,Suriname,Alaska
+115,3,1946,0,1,,Suriname,Alaska
+115,3,1947,0,1,,Suriname,Alaska
+115,3,1948,2939,1,,Suriname,Alaska
+115,3,1949,0,1,,Suriname,Alaska
+115,6,1931,0,1,,Suriname,Puerto Rico
+115,6,1932,0,1,,Suriname,Puerto Rico
+115,6,1933,496,1,,Suriname,Puerto Rico
+115,6,1934,1722,1,,Suriname,Puerto Rico
+115,6,1935,4676,1,,Suriname,Puerto Rico
+115,6,1936,12839,1,,Suriname,Puerto Rico
+115,6,1937,14862,1,,Suriname,Puerto Rico
+115,6,1938,26941,1,,Suriname,Puerto Rico
+115,6,1939,30872,1,,Suriname,Puerto Rico
+115,6,1943,81944,1,,Suriname,Puerto Rico
+115,6,1944,134655,1,,Suriname,Puerto Rico
+115,6,1945,89240,1,,Suriname,Puerto Rico
+115,6,1946,65,1,,Suriname,Puerto Rico
+115,6,1947,30608,1,,Suriname,Puerto Rico
+115,6,1948,16671,1,,Suriname,Puerto Rico
+115,6,1949,55519,1,,Suriname,Puerto Rico
+115,20,1931,710,1,,Suriname,Canada
+115,20,1932,161777,1,,Suriname,Canada
+115,20,1933,161290,1,,Suriname,Canada
+115,20,1934,93240,1,,Suriname,Canada
+115,20,1935,101058,1,,Suriname,Canada
+115,20,1936,76928,1,,Suriname,Canada
+115,20,1937,95468,1,,Suriname,Canada
+115,20,1938,72016,1,,Suriname,Canada
+115,20,1939,86376,1,,Suriname,Canada
+115,20,1943,246673,1,,Suriname,Canada
+115,20,1944,286749,1,,Suriname,Canada
+115,20,1945,212586,1,,Suriname,Canada
+115,20,1946,362157,1,,Suriname,Canada
+115,20,1947,513865,1,,Suriname,Canada
+115,20,1948,850031,1,,Suriname,Canada
+115,20,1949,942683,1,,Suriname,Canada
+115,40,1931,0,1,,Suriname,Cuba
+115,40,1932,0,1,,Suriname,Cuba
+115,40,1933,0,1,,Suriname,Cuba
+115,40,1934,0,1,,Suriname,Cuba
+115,40,1935,125,1,,Suriname,Cuba
+115,40,1936,0,1,,Suriname,Cuba
+115,40,1937,0,1,,Suriname,Cuba
+115,40,1938,0,1,,Suriname,Cuba
+115,40,1939,4653,1,,Suriname,Cuba
+115,40,1943,77,1,,Suriname,Cuba
+115,40,1944,11743,1,,Suriname,Cuba
+115,40,1945,14424,1,,Suriname,Cuba
+115,40,1946,270,1,,Suriname,Cuba
+115,40,1947,476,1,,Suriname,Cuba
+115,40,1948,155,1,,Suriname,Cuba
+115,40,1949,65,1,,Suriname,Cuba
+115,41,1931,0,1,,Suriname,Haiti
+115,41,1932,0,1,,Suriname,Haiti
+115,41,1933,0,1,,Suriname,Haiti
+115,41,1934,435,1,,Suriname,Haiti
+115,41,1935,22,1,,Suriname,Haiti
+115,41,1936,0,1,,Suriname,Haiti
+115,41,1937,0,1,,Suriname,Haiti
+115,41,1938,0,1,,Suriname,Haiti
+115,41,1939,1,1,,Suriname,Haiti
+115,41,1943,0,1,,Suriname,Haiti
+115,41,1944,0,1,,Suriname,Haiti
+115,41,1945,7514,1,,Suriname,Haiti
+115,41,1946,8133,1,,Suriname,Haiti
+115,41,1947,4201,1,,Suriname,Haiti
+115,41,1948,4044,1,,Suriname,Haiti
+115,41,1949,0,1,,Suriname,Haiti
+115,42,1931,0,1,,Suriname,Dominican Republic
+115,42,1932,0,1,,Suriname,Dominican Republic
+115,42,1933,320,1,,Suriname,Dominican Republic
+115,42,1934,151,1,,Suriname,Dominican Republic
+115,42,1935,0,1,,Suriname,Dominican Republic
+115,42,1936,0,1,,Suriname,Dominican Republic
+115,42,1937,0,1,,Suriname,Dominican Republic
+115,42,1938,0,1,,Suriname,Dominican Republic
+115,42,1939,0,1,,Suriname,Dominican Republic
+115,42,1943,0,1,,Suriname,Dominican Republic
+115,42,1944,0,1,,Suriname,Dominican Republic
+115,42,1945,0,1,,Suriname,Dominican Republic
+115,42,1946,0,1,,Suriname,Dominican Republic
+115,42,1947,0,1,,Suriname,Dominican Republic
+115,42,1948,0,1,,Suriname,Dominican Republic
+115,42,1949,604,1,,Suriname,Dominican Republic
+115,51,1931,0,1,,Suriname,Jamaica
+115,51,1932,0,1,,Suriname,Jamaica
+115,51,1933,16,1,,Suriname,Jamaica
+115,51,1934,121,1,,Suriname,Jamaica
+115,51,1935,0,1,,Suriname,Jamaica
+115,51,1936,153,1,,Suriname,Jamaica
+115,51,1937,0,1,,Suriname,Jamaica
+115,51,1938,927,1,,Suriname,Jamaica
+115,51,1939,18,1,,Suriname,Jamaica
+115,51,1943,0,1,,Suriname,Jamaica
+115,51,1944,3967,1,,Suriname,Jamaica
+115,51,1945,4897,1,,Suriname,Jamaica
+115,51,1946,26832,1,,Suriname,Jamaica
+115,51,1947,10687,1,,Suriname,Jamaica
+115,51,1948,52050,1,,Suriname,Jamaica
+115,51,1949,299,1,,Suriname,Jamaica
+115,52,1931,276863,1,,Suriname,Trinidad And Tobago
+115,52,1932,137097,1,,Suriname,Trinidad And Tobago
+115,52,1933,133425,1,,Suriname,Trinidad And Tobago
+115,52,1934,155008,1,,Suriname,Trinidad And Tobago
+115,52,1935,195774,1,,Suriname,Trinidad And Tobago
+115,52,1936,161597,1,,Suriname,Trinidad And Tobago
+115,52,1937,271282,1,,Suriname,Trinidad And Tobago
+115,52,1938,239792,1,,Suriname,Trinidad And Tobago
+115,52,1939,381303,1,,Suriname,Trinidad And Tobago
+115,52,1943,1185555,1,,Suriname,Trinidad And Tobago
+115,52,1944,1201437,1,,Suriname,Trinidad And Tobago
+115,52,1945,990254,1,,Suriname,Trinidad And Tobago
+115,52,1946,1531271,1,,Suriname,Trinidad And Tobago
+115,52,1947,1729043,1,,Suriname,Trinidad And Tobago
+115,52,1948,2170402,1,,Suriname,Trinidad And Tobago
+115,52,1949,2444796,1,,Suriname,Trinidad And Tobago
+115,53,1931,5222,1,,Suriname,Barbados
+115,53,1932,4146,1,,Suriname,Barbados
+115,53,1933,8484,1,,Suriname,Barbados
+115,53,1934,21760,1,,Suriname,Barbados
+115,53,1935,15769,1,,Suriname,Barbados
+115,53,1936,20022,1,,Suriname,Barbados
+115,53,1937,28519,1,,Suriname,Barbados
+115,53,1938,23145,1,,Suriname,Barbados
+115,53,1939,18833,1,,Suriname,Barbados
+115,53,1943,22320,1,,Suriname,Barbados
+115,53,1944,16692,1,,Suriname,Barbados
+115,53,1945,47415,1,,Suriname,Barbados
+115,53,1946,49056,1,,Suriname,Barbados
+115,53,1947,91075,1,,Suriname,Barbados
+115,53,1948,68952,1,,Suriname,Barbados
+115,53,1949,77304,1,,Suriname,Barbados
+115,54,1931,301,1,,Suriname,Dominica
+115,54,1932,0,1,,Suriname,Dominica
+115,54,1933,0,1,,Suriname,Dominica
+115,54,1934,890,1,,Suriname,Dominica
+115,54,1935,0,1,,Suriname,Dominica
+115,54,1936,0,1,,Suriname,Dominica
+115,54,1937,0,1,,Suriname,Dominica
+115,54,1938,0,1,,Suriname,Dominica
+115,54,1939,0,1,,Suriname,Dominica
+115,54,1943,0,1,,Suriname,Dominica
+115,54,1944,9539,1,,Suriname,Dominica
+115,54,1945,0,1,,Suriname,Dominica
+115,54,1946,0,1,,Suriname,Dominica
+115,54,1947,226075,1,,Suriname,Dominica
+115,54,1948,0,1,,Suriname,Dominica
+115,54,1949,0,1,,Suriname,Dominica
+115,55,1931,0,1,,Suriname,Grenada
+115,55,1932,0,1,,Suriname,Grenada
+115,55,1933,0,1,,Suriname,Grenada
+115,55,1934,0,1,,Suriname,Grenada
+115,55,1935,0,1,,Suriname,Grenada
+115,55,1936,0,1,,Suriname,Grenada
+115,55,1937,0,1,,Suriname,Grenada
+115,55,1938,0,1,,Suriname,Grenada
+115,55,1939,531,1,,Suriname,Grenada
+115,55,1943,2551,1,,Suriname,Grenada
+115,55,1944,498,1,,Suriname,Grenada
+115,55,1945,1544,1,,Suriname,Grenada
+115,55,1946,418,1,,Suriname,Grenada
+115,55,1947,824,1,,Suriname,Grenada
+115,55,1948,1497,1,,Suriname,Grenada
+115,55,1949,0,1,,Suriname,Grenada
+115,56,1931,0,1,,Suriname,St. Lucia
+115,56,1932,0,1,,Suriname,St. Lucia
+115,56,1933,0,1,,Suriname,St. Lucia
+115,56,1934,0,1,,Suriname,St. Lucia
+115,56,1935,0,1,,Suriname,St. Lucia
+115,56,1936,0,1,,Suriname,St. Lucia
+115,56,1937,0,1,,Suriname,St. Lucia
+115,56,1938,3,1,,Suriname,St. Lucia
+115,56,1939,0,1,,Suriname,St. Lucia
+115,56,1943,0,1,,Suriname,St. Lucia
+115,56,1944,0,1,,Suriname,St. Lucia
+115,56,1945,0,1,,Suriname,St. Lucia
+115,56,1946,0,1,,Suriname,St. Lucia
+115,56,1947,50865,1,,Suriname,St. Lucia
+115,56,1948,0,1,,Suriname,St. Lucia
+115,56,1949,0,1,,Suriname,St. Lucia
+115,57,1931,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1932,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1933,191,1,,Suriname,St. Vincent And The Grenadines
+115,57,1934,405,1,,Suriname,St. Vincent And The Grenadines
+115,57,1935,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1936,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1937,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1938,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1939,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1943,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1944,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1945,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1946,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1947,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1948,0,1,,Suriname,St. Vincent And The Grenadines
+115,57,1949,0,1,,Suriname,St. Vincent And The Grenadines
+115,58,1931,0,1,,Suriname,Antigua And Barbuda
+115,58,1932,0,1,,Suriname,Antigua And Barbuda
+115,58,1933,0,1,,Suriname,Antigua And Barbuda
+115,58,1934,0,1,,Suriname,Antigua And Barbuda
+115,58,1935,0,1,,Suriname,Antigua And Barbuda
+115,58,1936,0,1,,Suriname,Antigua And Barbuda
+115,58,1937,0,1,,Suriname,Antigua And Barbuda
+115,58,1938,0,1,,Suriname,Antigua And Barbuda
+115,58,1939,0,1,,Suriname,Antigua And Barbuda
+115,58,1943,0,1,,Suriname,Antigua And Barbuda
+115,58,1944,0,1,,Suriname,Antigua And Barbuda
+115,58,1945,4282,1,,Suriname,Antigua And Barbuda
+115,58,1946,0,1,,Suriname,Antigua And Barbuda
+115,58,1947,200,1,,Suriname,Antigua And Barbuda
+115,58,1948,0,1,,Suriname,Antigua And Barbuda
+115,58,1949,0,1,,Suriname,Antigua And Barbuda
+115,65,1931,0,1,,Suriname,Guadeloupe
+115,65,1932,0,1,,Suriname,Guadeloupe
+115,65,1933,0,1,,Suriname,Guadeloupe
+115,65,1934,0,1,,Suriname,Guadeloupe
+115,65,1935,0,1,,Suriname,Guadeloupe
+115,65,1936,0,1,,Suriname,Guadeloupe
+115,65,1937,300,1,,Suriname,Guadeloupe
+115,65,1938,2,1,,Suriname,Guadeloupe
+115,65,1939,212,1,,Suriname,Guadeloupe
+115,65,1943,0,1,,Suriname,Guadeloupe
+115,65,1944,17,1,,Suriname,Guadeloupe
+115,65,1945,15,1,,Suriname,Guadeloupe
+115,65,1946,0,1,,Suriname,Guadeloupe
+115,65,1947,0,1,,Suriname,Guadeloupe
+115,65,1948,0,1,,Suriname,Guadeloupe
+115,65,1949,0,1,,Suriname,Guadeloupe
+115,66,1931,15308,1,,Suriname,Martinique
+115,66,1932,217,1,,Suriname,Martinique
+115,66,1933,10,1,,Suriname,Martinique
+115,66,1934,0,1,,Suriname,Martinique
+115,66,1935,39,1,,Suriname,Martinique
+115,66,1936,43,1,,Suriname,Martinique
+115,66,1937,100,1,,Suriname,Martinique
+115,66,1938,2284,1,,Suriname,Martinique
+115,66,1939,2971,1,,Suriname,Martinique
+115,66,1943,0,1,,Suriname,Martinique
+115,66,1944,12036,1,,Suriname,Martinique
+115,66,1945,0,1,,Suriname,Martinique
+115,66,1946,956,1,,Suriname,Martinique
+115,66,1947,179,1,,Suriname,Martinique
+115,66,1948,0,1,,Suriname,Martinique
+115,66,1949,94,1,,Suriname,Martinique
+115,68,1931,0,1,,Suriname,Netherlands Antilles
+115,68,1932,0,1,,Suriname,Netherlands Antilles
+115,68,1933,0,1,,Suriname,Netherlands Antilles
+115,68,1934,0,1,,Suriname,Netherlands Antilles
+115,68,1935,0,1,,Suriname,Netherlands Antilles
+115,68,1936,0,1,,Suriname,Netherlands Antilles
+115,68,1937,0,1,,Suriname,Netherlands Antilles
+115,68,1938,0,1,,Suriname,Netherlands Antilles
+115,68,1939,0,1,,Suriname,Netherlands Antilles
+115,68,1943,0,1,,Suriname,Netherlands Antilles
+115,68,1944,0,1,,Suriname,Netherlands Antilles
+115,68,1945,0,1,,Suriname,Netherlands Antilles
+115,68,1946,0,1,,Suriname,Netherlands Antilles
+115,68,1947,0,1,,Suriname,Netherlands Antilles
+115,68,1948,0,1,,Suriname,Netherlands Antilles
+115,68,1949,210236,1,,Suriname,Netherlands Antilles
+115,70,1931,1422,1,,Suriname,Mexico
+115,70,1932,0,1,,Suriname,Mexico
+115,70,1933,0,1,,Suriname,Mexico
+115,70,1934,0,1,,Suriname,Mexico
+115,70,1935,15,1,,Suriname,Mexico
+115,70,1936,4,1,,Suriname,Mexico
+115,70,1937,0,1,,Suriname,Mexico
+115,70,1938,0,1,,Suriname,Mexico
+115,70,1939,2833,1,,Suriname,Mexico
+115,70,1943,18091,1,,Suriname,Mexico
+115,70,1944,24246,1,,Suriname,Mexico
+115,70,1945,72850,1,,Suriname,Mexico
+115,70,1946,11705,1,,Suriname,Mexico
+115,70,1947,19383,1,,Suriname,Mexico
+115,70,1948,17608,1,,Suriname,Mexico
+115,70,1949,137131,1,,Suriname,Mexico
+115,90,1931,0,1,,Suriname,Guatemala
+115,90,1932,0,1,,Suriname,Guatemala
+115,90,1933,0,1,,Suriname,Guatemala
+115,90,1934,0,1,,Suriname,Guatemala
+115,90,1935,0,1,,Suriname,Guatemala
+115,90,1936,0,1,,Suriname,Guatemala
+115,90,1937,0,1,,Suriname,Guatemala
+115,90,1938,0,1,,Suriname,Guatemala
+115,90,1939,0,1,,Suriname,Guatemala
+115,90,1943,36147,1,,Suriname,Guatemala
+115,90,1944,34835,1,,Suriname,Guatemala
+115,90,1945,5128,1,,Suriname,Guatemala
+115,90,1946,7553,1,,Suriname,Guatemala
+115,90,1947,0,1,,Suriname,Guatemala
+115,90,1948,6366,1,,Suriname,Guatemala
+115,90,1949,1922,1,,Suriname,Guatemala
+115,91,1931,0,1,,Suriname,Honduras
+115,91,1932,0,1,,Suriname,Honduras
+115,91,1933,0,1,,Suriname,Honduras
+115,91,1934,0,1,,Suriname,Honduras
+115,91,1935,0,1,,Suriname,Honduras
+115,91,1936,0,1,,Suriname,Honduras
+115,91,1937,0,1,,Suriname,Honduras
+115,91,1938,58,1,,Suriname,Honduras
+115,91,1939,0,1,,Suriname,Honduras
+115,91,1943,0,1,,Suriname,Honduras
+115,91,1944,0,1,,Suriname,Honduras
+115,91,1945,0,1,,Suriname,Honduras
+115,91,1946,0,1,,Suriname,Honduras
+115,91,1947,0,1,,Suriname,Honduras
+115,91,1948,1939,1,,Suriname,Honduras
+115,91,1949,0,1,,Suriname,Honduras
+115,95,1931,0,1,,Suriname,Panama
+115,95,1932,0,1,,Suriname,Panama
+115,95,1933,0,1,,Suriname,Panama
+115,95,1934,0,1,,Suriname,Panama
+115,95,1935,0,1,,Suriname,Panama
+115,95,1936,0,1,,Suriname,Panama
+115,95,1937,0,1,,Suriname,Panama
+115,95,1938,0,1,,Suriname,Panama
+115,95,1939,0,1,,Suriname,Panama
+115,95,1943,0,1,,Suriname,Panama
+115,95,1944,150,1,,Suriname,Panama
+115,95,1945,0,1,,Suriname,Panama
+115,95,1946,21717,1,,Suriname,Panama
+115,95,1947,45576,1,,Suriname,Panama
+115,95,1948,40951,1,,Suriname,Panama
+115,95,1949,58274,1,,Suriname,Panama
+115,96,1931,0,1,,Suriname,Panama Canal Zone
+115,96,1932,0,1,,Suriname,Panama Canal Zone
+115,96,1933,0,1,,Suriname,Panama Canal Zone
+115,96,1934,0,1,,Suriname,Panama Canal Zone
+115,96,1935,0,1,,Suriname,Panama Canal Zone
+115,96,1936,0,1,,Suriname,Panama Canal Zone
+115,96,1937,0,1,,Suriname,Panama Canal Zone
+115,96,1938,0,1,,Suriname,Panama Canal Zone
+115,96,1939,0,1,,Suriname,Panama Canal Zone
+115,96,1943,0,1,,Suriname,Panama Canal Zone
+115,96,1944,0,1,,Suriname,Panama Canal Zone
+115,96,1945,0,1,,Suriname,Panama Canal Zone
+115,96,1946,2217,1,,Suriname,Panama Canal Zone
+115,96,1947,0,1,,Suriname,Panama Canal Zone
+115,96,1948,0,1,,Suriname,Panama Canal Zone
+115,96,1949,0,1,,Suriname,Panama Canal Zone
+115,100,1931,0,1,,Suriname,Colombia
+115,100,1932,0,1,,Suriname,Colombia
+115,100,1933,36,1,,Suriname,Colombia
+115,100,1934,30,1,,Suriname,Colombia
+115,100,1935,0,1,,Suriname,Colombia
+115,100,1936,0,1,,Suriname,Colombia
+115,100,1937,0,1,,Suriname,Colombia
+115,100,1938,0,1,,Suriname,Colombia
+115,100,1939,0,1,,Suriname,Colombia
+115,100,1943,0,1,,Suriname,Colombia
+115,100,1944,21965,1,,Suriname,Colombia
+115,100,1945,3030,1,,Suriname,Colombia
+115,100,1946,18834,1,,Suriname,Colombia
+115,100,1947,11792,1,,Suriname,Colombia
+115,100,1948,4392,1,,Suriname,Colombia
+115,100,1949,0,1,,Suriname,Colombia
+115,101,1931,0,1,,Suriname,Venezuela
+115,101,1932,508,1,,Suriname,Venezuela
+115,101,1933,6253,1,,Suriname,Venezuela
+115,101,1934,2379,1,,Suriname,Venezuela
+115,101,1935,4558,1,,Suriname,Venezuela
+115,101,1936,1878,1,,Suriname,Venezuela
+115,101,1937,13035,1,,Suriname,Venezuela
+115,101,1938,1566,1,,Suriname,Venezuela
+115,101,1939,1062,1,,Suriname,Venezuela
+115,101,1943,64929,1,,Suriname,Venezuela
+115,101,1944,71748,1,,Suriname,Venezuela
+115,101,1945,9587,1,,Suriname,Venezuela
+115,101,1946,2350,1,,Suriname,Venezuela
+115,101,1947,4829,1,,Suriname,Venezuela
+115,101,1948,84596,1,,Suriname,Venezuela
+115,101,1949,46319,1,,Suriname,Venezuela
+115,110,1931,647140,1,,Suriname,Guyana
+115,110,1932,170732,1,,Suriname,Guyana
+115,110,1933,27753,1,,Suriname,Guyana
+115,110,1934,43999,1,,Suriname,Guyana
+115,110,1935,81399,1,,Suriname,Guyana
+115,110,1936,13376,1,,Suriname,Guyana
+115,110,1937,58822,1,,Suriname,Guyana
+115,110,1938,46146,1,,Suriname,Guyana
+115,110,1939,13986,1,,Suriname,Guyana
+115,110,1943,261160,1,,Suriname,Guyana
+115,110,1944,344286,1,,Suriname,Guyana
+115,110,1945,525427,1,,Suriname,Guyana
+115,110,1946,322404,1,,Suriname,Guyana
+115,110,1947,196074,1,,Suriname,Guyana
+115,110,1948,116958,1,,Suriname,Guyana
+115,110,1949,89661,1,,Suriname,Guyana
+115,120,1931,21254,1,,Suriname,French Guiana
+115,120,1932,22475,1,,Suriname,French Guiana
+115,120,1933,23868,1,,Suriname,French Guiana
+115,120,1934,42837,1,,Suriname,French Guiana
+115,120,1935,39026,1,,Suriname,French Guiana
+115,120,1936,53890,1,,Suriname,French Guiana
+115,120,1937,73396,1,,Suriname,French Guiana
+115,120,1938,81509,1,,Suriname,French Guiana
+115,120,1939,70135,1,,Suriname,French Guiana
+115,120,1943,160823,1,,Suriname,French Guiana
+115,120,1944,120702,1,,Suriname,French Guiana
+115,120,1945,177144,1,,Suriname,French Guiana
+115,120,1946,32447,1,,Suriname,French Guiana
+115,120,1947,33711,1,,Suriname,French Guiana
+115,120,1948,92355,1,,Suriname,French Guiana
+115,120,1949,62674,1,,Suriname,French Guiana
+115,130,1931,0,1,,Suriname,Ecuador
+115,130,1932,0,1,,Suriname,Ecuador
+115,130,1933,0,1,,Suriname,Ecuador
+115,130,1934,0,1,,Suriname,Ecuador
+115,130,1935,0,1,,Suriname,Ecuador
+115,130,1936,1207,1,,Suriname,Ecuador
+115,130,1937,1833,1,,Suriname,Ecuador
+115,130,1938,1940,1,,Suriname,Ecuador
+115,130,1939,2312,1,,Suriname,Ecuador
+115,130,1943,4973,1,,Suriname,Ecuador
+115,130,1944,10,1,,Suriname,Ecuador
+115,130,1945,7397,1,,Suriname,Ecuador
+115,130,1946,0,1,,Suriname,Ecuador
+115,130,1947,1860,1,,Suriname,Ecuador
+115,130,1948,25896,1,,Suriname,Ecuador
+115,130,1949,46682,1,,Suriname,Ecuador
+115,135,1931,0,1,,Suriname,Peru
+115,135,1932,0,1,,Suriname,Peru
+115,135,1933,0,1,,Suriname,Peru
+115,135,1934,0,1,,Suriname,Peru
+115,135,1935,0,1,,Suriname,Peru
+115,135,1936,0,1,,Suriname,Peru
+115,135,1937,0,1,,Suriname,Peru
+115,135,1938,0,1,,Suriname,Peru
+115,135,1939,0,1,,Suriname,Peru
+115,135,1943,0,1,,Suriname,Peru
+115,135,1944,0,1,,Suriname,Peru
+115,135,1945,0,1,,Suriname,Peru
+115,135,1946,0,1,,Suriname,Peru
+115,135,1947,0,1,,Suriname,Peru
+115,135,1948,0,1,,Suriname,Peru
+115,135,1949,1007,1,,Suriname,Peru
+115,140,1931,7196,1,,Suriname,Brazil
+115,140,1932,885,1,,Suriname,Brazil
+115,140,1933,5,1,,Suriname,Brazil
+115,140,1934,0,1,,Suriname,Brazil
+115,140,1935,68,1,,Suriname,Brazil
+115,140,1936,5929,1,,Suriname,Brazil
+115,140,1937,844,1,,Suriname,Brazil
+115,140,1938,20574,1,,Suriname,Brazil
+115,140,1939,15347,1,,Suriname,Brazil
+115,140,1943,3365993,1,,Suriname,Brazil
+115,140,1944,492966,1,,Suriname,Brazil
+115,140,1945,196792,1,,Suriname,Brazil
+115,140,1946,76325,1,,Suriname,Brazil
+115,140,1947,432314,1,,Suriname,Brazil
+115,140,1948,286896,1,,Suriname,Brazil
+115,140,1949,68651,1,,Suriname,Brazil
+115,155,1931,0,1,,Suriname,Chile
+115,155,1932,0,1,,Suriname,Chile
+115,155,1933,0,1,,Suriname,Chile
+115,155,1934,50,1,,Suriname,Chile
+115,155,1935,0,1,,Suriname,Chile
+115,155,1936,0,1,,Suriname,Chile
+115,155,1937,0,1,,Suriname,Chile
+115,155,1938,0,1,,Suriname,Chile
+115,155,1939,0,1,,Suriname,Chile
+115,155,1943,13316,1,,Suriname,Chile
+115,155,1944,47686,1,,Suriname,Chile
+115,155,1945,98907,1,,Suriname,Chile
+115,155,1946,63416,1,,Suriname,Chile
+115,155,1947,0,1,,Suriname,Chile
+115,155,1948,9870,1,,Suriname,Chile
+115,155,1949,16983,1,,Suriname,Chile
+115,160,1931,0,1,,Suriname,Argentina
+115,160,1932,37296,1,,Suriname,Argentina
+115,160,1933,64913,1,,Suriname,Argentina
+115,160,1934,102810,1,,Suriname,Argentina
+115,160,1935,90810,1,,Suriname,Argentina
+115,160,1936,120125,1,,Suriname,Argentina
+115,160,1937,149297,1,,Suriname,Argentina
+115,160,1938,150132,1,,Suriname,Argentina
+115,160,1939,194755,1,,Suriname,Argentina
+115,160,1943,4312313,1,,Suriname,Argentina
+115,160,1944,2323968,1,,Suriname,Argentina
+115,160,1945,1796043,1,,Suriname,Argentina
+115,160,1946,1064825,1,,Suriname,Argentina
+115,160,1947,970282,1,,Suriname,Argentina
+115,160,1948,619732,1,,Suriname,Argentina
+115,160,1949,670695,1,,Suriname,Argentina
+115,165,1931,0,1,,Suriname,Uruguay
+115,165,1932,0,1,,Suriname,Uruguay
+115,165,1933,0,1,,Suriname,Uruguay
+115,165,1934,0,1,,Suriname,Uruguay
+115,165,1935,0,1,,Suriname,Uruguay
+115,165,1936,276,1,,Suriname,Uruguay
+115,165,1937,0,1,,Suriname,Uruguay
+115,165,1938,0,1,,Suriname,Uruguay
+115,165,1939,1272,1,,Suriname,Uruguay
+115,165,1943,10973,1,,Suriname,Uruguay
+115,165,1944,10167,1,,Suriname,Uruguay
+115,165,1945,69024,1,,Suriname,Uruguay
+115,165,1946,52819,1,,Suriname,Uruguay
+115,165,1947,111568,1,,Suriname,Uruguay
+115,165,1948,17675,1,,Suriname,Uruguay
+115,165,1949,7453,1,,Suriname,Uruguay
+115,200,1931,108480,1,,Suriname,United Kingdom
+115,200,1932,989574,1,,Suriname,United Kingdom
+115,200,1933,701530,1,,Suriname,United Kingdom
+115,200,1934,503712,1,,Suriname,United Kingdom
+115,200,1935,634069,1,,Suriname,United Kingdom
+115,200,1936,628481,1,,Suriname,United Kingdom
+115,200,1937,622418,1,,Suriname,United Kingdom
+115,200,1938,495098,1,,Suriname,United Kingdom
+115,200,1939,415321,1,,Suriname,United Kingdom
+115,200,1943,408333,1,,Suriname,United Kingdom
+115,200,1944,649103,1,,Suriname,United Kingdom
+115,200,1945,593504,1,,Suriname,United Kingdom
+115,200,1946,948508,1,,Suriname,United Kingdom
+115,200,1947,1193477,1,,Suriname,United Kingdom
+115,200,1948,1364911,1,,Suriname,United Kingdom
+115,200,1949,1636985,1,,Suriname,United Kingdom
+115,205,1931,0,1,,Suriname,Ireland
+115,205,1932,0,1,,Suriname,Ireland
+115,205,1933,0,1,,Suriname,Ireland
+115,205,1934,72,1,,Suriname,Ireland
+115,205,1935,0,1,,Suriname,Ireland
+115,205,1936,0,1,,Suriname,Ireland
+115,205,1937,0,1,,Suriname,Ireland
+115,205,1938,0,1,,Suriname,Ireland
+115,205,1939,0,1,,Suriname,Ireland
+115,205,1943,0,1,,Suriname,Ireland
+115,205,1944,0,1,,Suriname,Ireland
+115,205,1945,0,1,,Suriname,Ireland
+115,205,1946,0,1,,Suriname,Ireland
+115,205,1947,0,1,,Suriname,Ireland
+115,205,1948,0,1,,Suriname,Ireland
+115,205,1949,0,1,,Suriname,Ireland
+115,210,1931,3575720,1,,Suriname,Netherlands
+115,210,1932,2301224,1,,Suriname,Netherlands
+115,210,1933,1911311,1,,Suriname,Netherlands
+115,210,1934,2359454,1,,Suriname,Netherlands
+115,210,1935,2291039,1,,Suriname,Netherlands
+115,210,1936,2217708,1,,Suriname,Netherlands
+115,210,1937,2683671,1,,Suriname,Netherlands
+115,210,1938,2573459,1,,Suriname,Netherlands
+115,210,1939,2715020,1,,Suriname,Netherlands
+115,210,1943,150,1,,Suriname,Netherlands
+115,210,1944,0,1,,Suriname,Netherlands
+115,210,1945,26735,1,,Suriname,Netherlands
+115,210,1946,1577553,1,,Suriname,Netherlands
+115,210,1947,6085439,1,,Suriname,Netherlands
+115,210,1948,11139210,1,,Suriname,Netherlands
+115,210,1949,9963981,1,,Suriname,Netherlands
+115,211,1931,1100,1,,Suriname,Belgium
+115,211,1932,7459,1,,Suriname,Belgium
+115,211,1933,10862,1,,Suriname,Belgium
+115,211,1934,8107,1,,Suriname,Belgium
+115,211,1935,9324,1,,Suriname,Belgium
+115,211,1936,29027,1,,Suriname,Belgium
+115,211,1937,31400,1,,Suriname,Belgium
+115,211,1938,19316,1,,Suriname,Belgium
+115,211,1939,31746,1,,Suriname,Belgium
+115,211,1943,0,1,,Suriname,Belgium
+115,211,1944,0,1,,Suriname,Belgium
+115,211,1945,0,1,,Suriname,Belgium
+115,211,1946,51750,1,,Suriname,Belgium
+115,211,1947,258659,1,,Suriname,Belgium
+115,211,1948,487845,1,,Suriname,Belgium
+115,211,1949,317685,1,,Suriname,Belgium
+115,212,1931,393,1,,Suriname,Luxembourg
+115,212,1932,0,1,,Suriname,Luxembourg
+115,212,1933,3,1,,Suriname,Luxembourg
+115,212,1934,0,1,,Suriname,Luxembourg
+115,212,1935,8,1,,Suriname,Luxembourg
+115,212,1936,0,1,,Suriname,Luxembourg
+115,212,1937,0,1,,Suriname,Luxembourg
+115,212,1938,0,1,,Suriname,Luxembourg
+115,212,1939,80,1,,Suriname,Luxembourg
+115,212,1943,0,1,,Suriname,Luxembourg
+115,212,1944,0,1,,Suriname,Luxembourg
+115,212,1945,0,1,,Suriname,Luxembourg
+115,212,1946,0,1,,Suriname,Luxembourg
+115,212,1947,0,1,,Suriname,Luxembourg
+115,212,1948,0,1,,Suriname,Luxembourg
+115,212,1949,0,1,,Suriname,Luxembourg
+115,220,1931,37759,1,,Suriname,France
+115,220,1932,108558,1,,Suriname,France
+115,220,1933,78203,1,,Suriname,France
+115,220,1934,212690,1,,Suriname,France
+115,220,1935,46578,1,,Suriname,France
+115,220,1936,41134,1,,Suriname,France
+115,220,1937,45049,1,,Suriname,France
+115,220,1938,45517,1,,Suriname,France
+115,220,1939,54825,1,,Suriname,France
+115,220,1943,0,1,,Suriname,France
+115,220,1944,0,1,,Suriname,France
+115,220,1945,0,1,,Suriname,France
+115,220,1946,15084,1,,Suriname,France
+115,220,1947,33599,1,,Suriname,France
+115,220,1948,110467,1,,Suriname,France
+115,220,1949,143930,1,,Suriname,France
+115,225,1931,6490,1,,Suriname,Switzerland
+115,225,1932,2844,1,,Suriname,Switzerland
+115,225,1933,4904,1,,Suriname,Switzerland
+115,225,1934,2805,1,,Suriname,Switzerland
+115,225,1935,2222,1,,Suriname,Switzerland
+115,225,1936,2663,1,,Suriname,Switzerland
+115,225,1937,3093,1,,Suriname,Switzerland
+115,225,1938,4840,1,,Suriname,Switzerland
+115,225,1939,6451,1,,Suriname,Switzerland
+115,225,1943,9320,1,,Suriname,Switzerland
+115,225,1944,8802,1,,Suriname,Switzerland
+115,225,1945,6303,1,,Suriname,Switzerland
+115,225,1946,26079,1,,Suriname,Switzerland
+115,225,1947,57294,1,,Suriname,Switzerland
+115,225,1948,61203,1,,Suriname,Switzerland
+115,225,1949,238178,1,,Suriname,Switzerland
+115,230,1931,0,1,,Suriname,Spain
+115,230,1932,2210,1,,Suriname,Spain
+115,230,1933,3454,1,,Suriname,Spain
+115,230,1934,3551,1,,Suriname,Spain
+115,230,1935,172,1,,Suriname,Spain
+115,230,1936,831,1,,Suriname,Spain
+115,230,1937,222,1,,Suriname,Spain
+115,230,1938,99,1,,Suriname,Spain
+115,230,1939,188,1,,Suriname,Spain
+115,230,1943,0,1,,Suriname,Spain
+115,230,1944,0,1,,Suriname,Spain
+115,230,1945,0,1,,Suriname,Spain
+115,230,1946,0,1,,Suriname,Spain
+115,230,1947,155,1,,Suriname,Spain
+115,230,1948,4814,1,,Suriname,Spain
+115,230,1949,0,1,,Suriname,Spain
+115,231,1931,0,1,,Suriname,Gibraltar
+115,231,1932,0,1,,Suriname,Gibraltar
+115,231,1933,0,1,,Suriname,Gibraltar
+115,231,1934,0,1,,Suriname,Gibraltar
+115,231,1935,0,1,,Suriname,Gibraltar
+115,231,1936,0,1,,Suriname,Gibraltar
+115,231,1937,0,1,,Suriname,Gibraltar
+115,231,1938,0,1,,Suriname,Gibraltar
+115,231,1939,0,1,,Suriname,Gibraltar
+115,231,1943,0,1,,Suriname,Gibraltar
+115,231,1944,0,1,,Suriname,Gibraltar
+115,231,1945,0,1,,Suriname,Gibraltar
+115,231,1946,0,1,,Suriname,Gibraltar
+115,231,1947,0,1,,Suriname,Gibraltar
+115,231,1948,0,1,,Suriname,Gibraltar
+115,231,1949,2996,1,,Suriname,Gibraltar
+115,235,1931,0,1,,Suriname,Portugal
+115,235,1932,1965,1,,Suriname,Portugal
+115,235,1933,737,1,,Suriname,Portugal
+115,235,1934,1235,1,,Suriname,Portugal
+115,235,1935,960,1,,Suriname,Portugal
+115,235,1936,187,1,,Suriname,Portugal
+115,235,1937,1606,1,,Suriname,Portugal
+115,235,1938,1162,1,,Suriname,Portugal
+115,235,1939,702,1,,Suriname,Portugal
+115,235,1943,100,1,,Suriname,Portugal
+115,235,1944,174,1,,Suriname,Portugal
+115,235,1945,8872,1,,Suriname,Portugal
+115,235,1946,13755,1,,Suriname,Portugal
+115,235,1947,41441,1,,Suriname,Portugal
+115,235,1948,28730,1,,Suriname,Portugal
+115,235,1949,11257,1,,Suriname,Portugal
+115,255,1931,88641,1,,Suriname,Germany
+115,255,1932,208672,1,,Suriname,Germany
+115,255,1933,222010,1,,Suriname,Germany
+115,255,1934,235224,1,,Suriname,Germany
+115,255,1935,235623,1,,Suriname,Germany
+115,255,1936,215744,1,,Suriname,Germany
+115,255,1937,261670,1,,Suriname,Germany
+115,255,1938,294222,1,,Suriname,Germany
+115,255,1939,343424,1,,Suriname,Germany
+115,255,1943,0,1,,Suriname,Germany
+115,255,1944,0,1,,Suriname,Germany
+115,255,1945,0,1,,Suriname,Germany
+115,255,1946,0,1,,Suriname,Germany
+115,255,1947,0,1,,Suriname,Germany
+115,255,1948,782,1,,Suriname,Germany
+115,255,1949,26633,1,,Suriname,Germany
+115,290,1931,0,1,,Suriname,Poland
+115,290,1932,260,1,,Suriname,Poland
+115,290,1933,0,1,,Suriname,Poland
+115,290,1934,0,1,,Suriname,Poland
+115,290,1935,0,1,,Suriname,Poland
+115,290,1936,0,1,,Suriname,Poland
+115,290,1937,713,1,,Suriname,Poland
+115,290,1938,0,1,,Suriname,Poland
+115,290,1939,0,1,,Suriname,Poland
+115,290,1943,0,1,,Suriname,Poland
+115,290,1944,0,1,,Suriname,Poland
+115,290,1945,0,1,,Suriname,Poland
+115,290,1946,0,1,,Suriname,Poland
+115,290,1947,0,1,,Suriname,Poland
+115,290,1948,0,1,,Suriname,Poland
+115,290,1949,0,1,,Suriname,Poland
+115,305,1931,144,1,,Suriname,Austria
+115,305,1932,684,1,,Suriname,Austria
+115,305,1933,95,1,,Suriname,Austria
+115,305,1934,775,1,,Suriname,Austria
+115,305,1935,3568,1,,Suriname,Austria
+115,305,1936,2549,1,,Suriname,Austria
+115,305,1937,5233,1,,Suriname,Austria
+115,305,1938,0,1,,Suriname,Austria
+115,305,1939,0,1,,Suriname,Austria
+115,305,1943,0,1,,Suriname,Austria
+115,305,1944,0,1,,Suriname,Austria
+115,305,1945,0,1,,Suriname,Austria
+115,305,1946,0,1,,Suriname,Austria
+115,305,1947,0,1,,Suriname,Austria
+115,305,1948,406,1,,Suriname,Austria
+115,305,1949,1419,1,,Suriname,Austria
+115,310,1931,0,1,,Suriname,Hungary
+115,310,1932,522,1,,Suriname,Hungary
+115,310,1933,153,1,,Suriname,Hungary
+115,310,1934,220,1,,Suriname,Hungary
+115,310,1935,179,1,,Suriname,Hungary
+115,310,1936,232,1,,Suriname,Hungary
+115,310,1937,1324,1,,Suriname,Hungary
+115,310,1938,216,1,,Suriname,Hungary
+115,310,1939,703,1,,Suriname,Hungary
+115,310,1943,0,1,,Suriname,Hungary
+115,310,1944,0,1,,Suriname,Hungary
+115,310,1945,0,1,,Suriname,Hungary
+115,310,1946,0,1,,Suriname,Hungary
+115,310,1947,0,1,,Suriname,Hungary
+115,310,1948,704,1,,Suriname,Hungary
+115,310,1949,5540,1,,Suriname,Hungary
+115,315,1931,307,1,,Suriname,Czechoslovakia
+115,315,1932,6957,1,,Suriname,Czechoslovakia
+115,315,1933,13813,1,,Suriname,Czechoslovakia
+115,315,1934,23609,1,,Suriname,Czechoslovakia
+115,315,1935,29296,1,,Suriname,Czechoslovakia
+115,315,1936,54389,1,,Suriname,Czechoslovakia
+115,315,1937,60644,1,,Suriname,Czechoslovakia
+115,315,1938,102508,1,,Suriname,Czechoslovakia
+115,315,1939,0,1,,Suriname,Czechoslovakia
+115,315,1943,23077,1,,Suriname,Czechoslovakia
+115,315,1944,0,1,,Suriname,Czechoslovakia
+115,315,1945,0,1,,Suriname,Czechoslovakia
+115,315,1946,453,1,,Suriname,Czechoslovakia
+115,315,1947,8266,1,,Suriname,Czechoslovakia
+115,315,1948,73182,1,,Suriname,Czechoslovakia
+115,315,1949,167815,1,,Suriname,Czechoslovakia
+115,325,1931,1759,1,,Suriname,Italy
+115,325,1932,9347,1,,Suriname,Italy
+115,325,1933,17545,1,,Suriname,Italy
+115,325,1934,5817,1,,Suriname,Italy
+115,325,1935,3428,1,,Suriname,Italy
+115,325,1936,1039,1,,Suriname,Italy
+115,325,1937,4156,1,,Suriname,Italy
+115,325,1938,8197,1,,Suriname,Italy
+115,325,1939,5954,1,,Suriname,Italy
+115,325,1943,417,1,,Suriname,Italy
+115,325,1944,0,1,,Suriname,Italy
+115,325,1945,0,1,,Suriname,Italy
+115,325,1946,0,1,,Suriname,Italy
+115,325,1947,11194,1,,Suriname,Italy
+115,325,1948,49809,1,,Suriname,Italy
+115,325,1949,65801,1,,Suriname,Italy
+115,345,1931,0,1,,Suriname,Yugoslavia
+115,345,1932,0,1,,Suriname,Yugoslavia
+115,345,1933,0,1,,Suriname,Yugoslavia
+115,345,1934,0,1,,Suriname,Yugoslavia
+115,345,1935,0,1,,Suriname,Yugoslavia
+115,345,1936,58,1,,Suriname,Yugoslavia
+115,345,1937,0,1,,Suriname,Yugoslavia
+115,345,1938,0,1,,Suriname,Yugoslavia
+115,345,1939,0,1,,Suriname,Yugoslavia
+115,345,1943,0,1,,Suriname,Yugoslavia
+115,345,1944,0,1,,Suriname,Yugoslavia
+115,345,1945,0,1,,Suriname,Yugoslavia
+115,345,1946,0,1,,Suriname,Yugoslavia
+115,345,1947,0,1,,Suriname,Yugoslavia
+115,345,1948,0,1,,Suriname,Yugoslavia
+115,345,1949,0,1,,Suriname,Yugoslavia
+115,355,1931,10,1,,Suriname,Bulgaria
+115,355,1932,0,1,,Suriname,Bulgaria
+115,355,1933,0,1,,Suriname,Bulgaria
+115,355,1934,0,1,,Suriname,Bulgaria
+115,355,1935,0,1,,Suriname,Bulgaria
+115,355,1936,0,1,,Suriname,Bulgaria
+115,355,1937,0,1,,Suriname,Bulgaria
+115,355,1938,0,1,,Suriname,Bulgaria
+115,355,1939,0,1,,Suriname,Bulgaria
+115,355,1943,0,1,,Suriname,Bulgaria
+115,355,1944,0,1,,Suriname,Bulgaria
+115,355,1945,0,1,,Suriname,Bulgaria
+115,355,1946,0,1,,Suriname,Bulgaria
+115,355,1947,0,1,,Suriname,Bulgaria
+115,355,1948,0,1,,Suriname,Bulgaria
+115,355,1949,0,1,,Suriname,Bulgaria
+115,365,1931,0,1,,Suriname,Russia
+115,365,1932,0,1,,Suriname,Russia
+115,365,1933,0,1,,Suriname,Russia
+115,365,1934,0,1,,Suriname,Russia
+115,365,1935,0,1,,Suriname,Russia
+115,365,1936,2,1,,Suriname,Russia
+115,365,1937,0,1,,Suriname,Russia
+115,365,1938,0,1,,Suriname,Russia
+115,365,1939,0,1,,Suriname,Russia
+115,365,1943,0,1,,Suriname,Russia
+115,365,1944,0,1,,Suriname,Russia
+115,365,1945,0,1,,Suriname,Russia
+115,365,1946,825,1,,Suriname,Russia
+115,365,1947,0,1,,Suriname,Russia
+115,365,1948,0,1,,Suriname,Russia
+115,365,1949,0,1,,Suriname,Russia
+115,366,1931,0,1,,Suriname,Estonia
+115,366,1932,0,1,,Suriname,Estonia
+115,366,1933,0,1,,Suriname,Estonia
+115,366,1934,0,1,,Suriname,Estonia
+115,366,1935,87,1,,Suriname,Estonia
+115,366,1936,0,1,,Suriname,Estonia
+115,366,1937,1157,1,,Suriname,Estonia
+115,366,1938,0,1,,Suriname,Estonia
+115,366,1939,0,1,,Suriname,Estonia
+115,366,1943,0,1,,Suriname,Estonia
+115,366,1944,0,1,,Suriname,Estonia
+115,366,1945,0,1,,Suriname,Estonia
+115,366,1946,0,1,,Suriname,Estonia
+115,366,1947,0,1,,Suriname,Estonia
+115,366,1948,0,1,,Suriname,Estonia
+115,366,1949,0,1,,Suriname,Estonia
+115,367,1931,0,1,,Suriname,Latvia
+115,367,1932,0,1,,Suriname,Latvia
+115,367,1933,4,1,,Suriname,Latvia
+115,367,1934,0,1,,Suriname,Latvia
+115,367,1935,0,1,,Suriname,Latvia
+115,367,1936,0,1,,Suriname,Latvia
+115,367,1937,0,1,,Suriname,Latvia
+115,367,1938,0,1,,Suriname,Latvia
+115,367,1939,0,1,,Suriname,Latvia
+115,367,1943,0,1,,Suriname,Latvia
+115,367,1944,0,1,,Suriname,Latvia
+115,367,1945,0,1,,Suriname,Latvia
+115,367,1946,0,1,,Suriname,Latvia
+115,367,1947,0,1,,Suriname,Latvia
+115,367,1948,0,1,,Suriname,Latvia
+115,367,1949,0,1,,Suriname,Latvia
+115,380,1931,0,1,,Suriname,Sweden
+115,380,1932,742,1,,Suriname,Sweden
+115,380,1933,1485,1,,Suriname,Sweden
+115,380,1934,2077,1,,Suriname,Sweden
+115,380,1935,1176,1,,Suriname,Sweden
+115,380,1936,1635,1,,Suriname,Sweden
+115,380,1937,2424,1,,Suriname,Sweden
+115,380,1938,2126,1,,Suriname,Sweden
+115,380,1939,5119,1,,Suriname,Sweden
+115,380,1943,0,1,,Suriname,Sweden
+115,380,1944,0,1,,Suriname,Sweden
+115,380,1945,0,1,,Suriname,Sweden
+115,380,1946,17230,1,,Suriname,Sweden
+115,380,1947,17362,1,,Suriname,Sweden
+115,380,1948,62603,1,,Suriname,Sweden
+115,380,1949,65459,1,,Suriname,Sweden
+115,385,1931,0,1,,Suriname,Norway
+115,385,1932,1082,1,,Suriname,Norway
+115,385,1933,292,1,,Suriname,Norway
+115,385,1934,546,1,,Suriname,Norway
+115,385,1935,4641,1,,Suriname,Norway
+115,385,1936,4379,1,,Suriname,Norway
+115,385,1937,3446,1,,Suriname,Norway
+115,385,1938,1566,1,,Suriname,Norway
+115,385,1939,10359,1,,Suriname,Norway
+115,385,1943,0,1,,Suriname,Norway
+115,385,1944,0,1,,Suriname,Norway
+115,385,1945,0,1,,Suriname,Norway
+115,385,1946,0,1,,Suriname,Norway
+115,385,1947,23876,1,,Suriname,Norway
+115,385,1948,14913,1,,Suriname,Norway
+115,385,1949,8280,1,,Suriname,Norway
+115,390,1931,62,1,,Suriname,Denmark
+115,390,1932,3335,1,,Suriname,Denmark
+115,390,1933,1168,1,,Suriname,Denmark
+115,390,1934,4566,1,,Suriname,Denmark
+115,390,1935,6316,1,,Suriname,Denmark
+115,390,1936,4408,1,,Suriname,Denmark
+115,390,1937,7795,1,,Suriname,Denmark
+115,390,1938,9559,1,,Suriname,Denmark
+115,390,1939,7334,1,,Suriname,Denmark
+115,390,1943,0,1,,Suriname,Denmark
+115,390,1944,0,1,,Suriname,Denmark
+115,390,1945,0,1,,Suriname,Denmark
+115,390,1946,0,1,,Suriname,Denmark
+115,390,1947,58070,1,,Suriname,Denmark
+115,390,1948,11464,1,,Suriname,Denmark
+115,390,1949,6881,1,,Suriname,Denmark
+115,401,1931,21896,1,,Suriname,Madeira
+115,401,1932,18743,1,,Suriname,Madeira
+115,401,1933,21054,1,,Suriname,Madeira
+115,401,1934,15166,1,,Suriname,Madeira
+115,401,1935,23375,1,,Suriname,Madeira
+115,401,1936,22103,1,,Suriname,Madeira
+115,401,1937,22247,1,,Suriname,Madeira
+115,401,1938,24346,1,,Suriname,Madeira
+115,401,1939,27603,1,,Suriname,Madeira
+115,401,1943,0,1,,Suriname,Madeira
+115,401,1944,0,1,,Suriname,Madeira
+115,401,1945,0,1,,Suriname,Madeira
+115,401,1946,90602,1,,Suriname,Madeira
+115,401,1947,92976,1,,Suriname,Madeira
+115,401,1948,75908,1,,Suriname,Madeira
+115,401,1949,11084,1,,Suriname,Madeira
+115,511,1931,0,1,,Suriname,Zanzibar
+115,511,1932,0,1,,Suriname,Zanzibar
+115,511,1933,0,1,,Suriname,Zanzibar
+115,511,1934,0,1,,Suriname,Zanzibar
+115,511,1935,39,1,,Suriname,Zanzibar
+115,511,1936,0,1,,Suriname,Zanzibar
+115,511,1937,0,1,,Suriname,Zanzibar
+115,511,1938,0,1,,Suriname,Zanzibar
+115,511,1939,0,1,,Suriname,Zanzibar
+115,511,1943,0,1,,Suriname,Zanzibar
+115,511,1944,0,1,,Suriname,Zanzibar
+115,511,1945,22217,1,,Suriname,Zanzibar
+115,511,1946,0,1,,Suriname,Zanzibar
+115,511,1947,0,1,,Suriname,Zanzibar
+115,511,1948,0,1,,Suriname,Zanzibar
+115,511,1949,0,1,,Suriname,Zanzibar
+115,554,1931,0,1,,Suriname,Rhodesia
+115,554,1932,0,1,,Suriname,Rhodesia
+115,554,1933,0,1,,Suriname,Rhodesia
+115,554,1934,0,1,,Suriname,Rhodesia
+115,554,1935,0,1,,Suriname,Rhodesia
+115,554,1936,0,1,,Suriname,Rhodesia
+115,554,1937,0,1,,Suriname,Rhodesia
+115,554,1938,0,1,,Suriname,Rhodesia
+115,554,1939,119,1,,Suriname,Rhodesia
+115,554,1943,0,1,,Suriname,Rhodesia
+115,554,1944,0,1,,Suriname,Rhodesia
+115,554,1945,0,1,,Suriname,Rhodesia
+115,554,1946,0,1,,Suriname,Rhodesia
+115,554,1947,0,1,,Suriname,Rhodesia
+115,554,1948,0,1,,Suriname,Rhodesia
+115,554,1949,0,1,,Suriname,Rhodesia
+115,630,1931,0,1,,Suriname,Iran
+115,630,1932,0,1,,Suriname,Iran
+115,630,1933,0,1,,Suriname,Iran
+115,630,1934,56,1,,Suriname,Iran
+115,630,1935,0,1,,Suriname,Iran
+115,630,1936,0,1,,Suriname,Iran
+115,630,1937,0,1,,Suriname,Iran
+115,630,1938,0,1,,Suriname,Iran
+115,630,1939,98,1,,Suriname,Iran
+115,630,1943,8536,1,,Suriname,Iran
+115,630,1944,0,1,,Suriname,Iran
+115,630,1945,0,1,,Suriname,Iran
+115,630,1946,0,1,,Suriname,Iran
+115,630,1947,0,1,,Suriname,Iran
+115,630,1948,0,1,,Suriname,Iran
+115,630,1949,0,1,,Suriname,Iran
+115,640,1931,0,1,,Suriname,Turkey
+115,640,1932,0,1,,Suriname,Turkey
+115,640,1933,0,1,,Suriname,Turkey
+115,640,1934,0,1,,Suriname,Turkey
+115,640,1935,0,1,,Suriname,Turkey
+115,640,1936,0,1,,Suriname,Turkey
+115,640,1937,0,1,,Suriname,Turkey
+115,640,1938,107,1,,Suriname,Turkey
+115,640,1939,804,1,,Suriname,Turkey
+115,640,1943,0,1,,Suriname,Turkey
+115,640,1944,0,1,,Suriname,Turkey
+115,640,1945,0,1,,Suriname,Turkey
+115,640,1946,0,1,,Suriname,Turkey
+115,640,1947,0,1,,Suriname,Turkey
+115,640,1948,0,1,,Suriname,Turkey
+115,640,1949,0,1,,Suriname,Turkey
+115,645,1931,0,1,,Suriname,Iraq
+115,645,1932,0,1,,Suriname,Iraq
+115,645,1933,0,1,,Suriname,Iraq
+115,645,1934,0,1,,Suriname,Iraq
+115,645,1935,12,1,,Suriname,Iraq
+115,645,1936,213,1,,Suriname,Iraq
+115,645,1937,151,1,,Suriname,Iraq
+115,645,1938,0,1,,Suriname,Iraq
+115,645,1939,16,1,,Suriname,Iraq
+115,645,1943,0,1,,Suriname,Iraq
+115,645,1944,0,1,,Suriname,Iraq
+115,645,1945,0,1,,Suriname,Iraq
+115,645,1946,0,1,,Suriname,Iraq
+115,645,1947,0,1,,Suriname,Iraq
+115,645,1948,0,1,,Suriname,Iraq
+115,645,1949,0,1,,Suriname,Iraq
+115,651,1931,0,1,,Suriname,Egypt
+115,651,1932,2,1,,Suriname,Egypt
+115,651,1933,71,1,,Suriname,Egypt
+115,651,1934,15,1,,Suriname,Egypt
+115,651,1935,91,1,,Suriname,Egypt
+115,651,1936,8,1,,Suriname,Egypt
+115,651,1937,0,1,,Suriname,Egypt
+115,651,1938,0,1,,Suriname,Egypt
+115,651,1939,355,1,,Suriname,Egypt
+115,651,1943,0,1,,Suriname,Egypt
+115,651,1944,0,1,,Suriname,Egypt
+115,651,1945,0,1,,Suriname,Egypt
+115,651,1946,0,1,,Suriname,Egypt
+115,651,1947,0,1,,Suriname,Egypt
+115,651,1948,1340,1,,Suriname,Egypt
+115,651,1949,0,1,,Suriname,Egypt
+115,652,1931,0,1,,Suriname,Syria
+115,652,1932,0,1,,Suriname,Syria
+115,652,1933,0,1,,Suriname,Syria
+115,652,1934,0,1,,Suriname,Syria
+115,652,1935,0,1,,Suriname,Syria
+115,652,1936,0,1,,Suriname,Syria
+115,652,1937,0,1,,Suriname,Syria
+115,652,1938,26,1,,Suriname,Syria
+115,652,1939,0,1,,Suriname,Syria
+115,652,1943,0,1,,Suriname,Syria
+115,652,1944,0,1,,Suriname,Syria
+115,652,1945,0,1,,Suriname,Syria
+115,652,1946,0,1,,Suriname,Syria
+115,652,1947,0,1,,Suriname,Syria
+115,652,1948,0,1,,Suriname,Syria
+115,652,1949,0,1,,Suriname,Syria
+115,660,1931,0,1,,Suriname,Lebanon
+115,660,1932,0,1,,Suriname,Lebanon
+115,660,1933,0,1,,Suriname,Lebanon
+115,660,1934,0,1,,Suriname,Lebanon
+115,660,1935,0,1,,Suriname,Lebanon
+115,660,1936,0,1,,Suriname,Lebanon
+115,660,1937,0,1,,Suriname,Lebanon
+115,660,1938,0,1,,Suriname,Lebanon
+115,660,1939,0,1,,Suriname,Lebanon
+115,660,1943,0,1,,Suriname,Lebanon
+115,660,1944,0,1,,Suriname,Lebanon
+115,660,1945,0,1,,Suriname,Lebanon
+115,660,1946,0,1,,Suriname,Lebanon
+115,660,1947,0,1,,Suriname,Lebanon
+115,660,1948,0,1,,Suriname,Lebanon
+115,660,1949,15,1,,Suriname,Lebanon
+115,665,1931,0,1,,Suriname,West Bank And Gaza
+115,665,1932,0,1,,Suriname,West Bank And Gaza
+115,665,1933,0,1,,Suriname,West Bank And Gaza
+115,665,1934,397,1,,Suriname,West Bank And Gaza
+115,665,1935,258,1,,Suriname,West Bank And Gaza
+115,665,1936,4,1,,Suriname,West Bank And Gaza
+115,665,1937,0,1,,Suriname,West Bank And Gaza
+115,665,1938,0,1,,Suriname,West Bank And Gaza
+115,665,1939,14,1,,Suriname,West Bank And Gaza
+115,665,1943,0,1,,Suriname,West Bank And Gaza
+115,665,1944,0,1,,Suriname,West Bank And Gaza
+115,665,1945,0,1,,Suriname,West Bank And Gaza
+115,665,1946,0,1,,Suriname,West Bank And Gaza
+115,665,1947,0,1,,Suriname,West Bank And Gaza
+115,665,1948,0,1,,Suriname,West Bank And Gaza
+115,665,1949,0,1,,Suriname,West Bank And Gaza
+115,710,1931,4952,1,,Suriname,China
+115,710,1932,44939,1,,Suriname,China
+115,710,1933,55233,1,,Suriname,China
+115,710,1934,54758,1,,Suriname,China
+115,710,1935,51092,1,,Suriname,China
+115,710,1936,81931,1,,Suriname,China
+115,710,1937,72590,1,,Suriname,China
+115,710,1938,104629,1,,Suriname,China
+115,710,1939,123940,1,,Suriname,China
+115,710,1943,0,1,,Suriname,China
+115,710,1944,0,1,,Suriname,China
+115,710,1945,200,1,,Suriname,China
+115,710,1946,4239,1,,Suriname,China
+115,710,1947,135769,1,,Suriname,China
+115,710,1948,101694,1,,Suriname,China
+115,710,1949,208747,1,,Suriname,China
+115,740,1931,7019,1,,Suriname,Japan
+115,740,1932,102853,1,,Suriname,Japan
+115,740,1933,307702,1,,Suriname,Japan
+115,740,1934,472986,1,,Suriname,Japan
+115,740,1935,432024,1,,Suriname,Japan
+115,740,1936,691148,1,,Suriname,Japan
+115,740,1937,608091,1,,Suriname,Japan
+115,740,1938,590921,1,,Suriname,Japan
+115,740,1939,742566,1,,Suriname,Japan
+115,740,1943,40,1,,Suriname,Japan
+115,740,1944,0,1,,Suriname,Japan
+115,740,1945,0,1,,Suriname,Japan
+115,740,1946,0,1,,Suriname,Japan
+115,740,1947,0,1,,Suriname,Japan
+115,740,1948,1152,1,,Suriname,Japan
+115,740,1949,3864,1,,Suriname,Japan
+115,750,1931,14028,1,,Suriname,India
+115,750,1932,177,1,,Suriname,India
+115,750,1933,76580,1,,Suriname,India
+115,750,1934,45754,1,,Suriname,India
+115,750,1935,67197,1,,Suriname,India
+115,750,1936,49766,1,,Suriname,India
+115,750,1937,79450,1,,Suriname,India
+115,750,1938,62752,1,,Suriname,India
+115,750,1939,121693,1,,Suriname,India
+115,750,1943,39262,1,,Suriname,India
+115,750,1944,70259,1,,Suriname,India
+115,750,1945,0,1,,Suriname,India
+115,750,1946,9691,1,,Suriname,India
+115,750,1947,86083,1,,Suriname,India
+115,750,1948,61682,1,,Suriname,India
+115,750,1949,131434,1,,Suriname,India
+115,770,1931,0,1,,Suriname,Pakistan
+115,770,1932,0,1,,Suriname,Pakistan
+115,770,1933,0,1,,Suriname,Pakistan
+115,770,1934,0,1,,Suriname,Pakistan
+115,770,1935,0,1,,Suriname,Pakistan
+115,770,1936,0,1,,Suriname,Pakistan
+115,770,1937,0,1,,Suriname,Pakistan
+115,770,1938,0,1,,Suriname,Pakistan
+115,770,1939,0,1,,Suriname,Pakistan
+115,770,1943,0,1,,Suriname,Pakistan
+115,770,1944,0,1,,Suriname,Pakistan
+115,770,1945,0,1,,Suriname,Pakistan
+115,770,1946,0,1,,Suriname,Pakistan
+115,770,1947,0,1,,Suriname,Pakistan
+115,770,1948,0,1,,Suriname,Pakistan
+115,770,1949,18,1,,Suriname,Pakistan
+115,780,1931,3,1,,Suriname,Sri Lanka
+115,780,1932,0,1,,Suriname,Sri Lanka
+115,780,1933,0,1,,Suriname,Sri Lanka
+115,780,1934,0,1,,Suriname,Sri Lanka
+115,780,1935,0,1,,Suriname,Sri Lanka
+115,780,1936,0,1,,Suriname,Sri Lanka
+115,780,1937,0,1,,Suriname,Sri Lanka
+115,780,1938,0,1,,Suriname,Sri Lanka
+115,780,1939,577,1,,Suriname,Sri Lanka
+115,780,1943,4839,1,,Suriname,Sri Lanka
+115,780,1944,0,1,,Suriname,Sri Lanka
+115,780,1945,0,1,,Suriname,Sri Lanka
+115,780,1946,0,1,,Suriname,Sri Lanka
+115,780,1947,0,1,,Suriname,Sri Lanka
+115,780,1948,675,1,,Suriname,Sri Lanka
+115,780,1949,0,1,,Suriname,Sri Lanka
+115,800,1931,0,1,,Suriname,Thailand
+115,800,1932,0,1,,Suriname,Thailand
+115,800,1933,253,1,,Suriname,Thailand
+115,800,1934,2,1,,Suriname,Thailand
+115,800,1935,45,1,,Suriname,Thailand
+115,800,1936,20,1,,Suriname,Thailand
+115,800,1937,0,1,,Suriname,Thailand
+115,800,1938,0,1,,Suriname,Thailand
+115,800,1939,0,1,,Suriname,Thailand
+115,800,1943,0,1,,Suriname,Thailand
+115,800,1944,0,1,,Suriname,Thailand
+115,800,1945,0,1,,Suriname,Thailand
+115,800,1946,0,1,,Suriname,Thailand
+115,800,1947,0,1,,Suriname,Thailand
+115,800,1948,0,1,,Suriname,Thailand
+115,800,1949,0,1,,Suriname,Thailand
+115,827,1931,0,1,,Suriname,Straits Settlement
+115,827,1932,0,1,,Suriname,Straits Settlement
+115,827,1933,0,1,,Suriname,Straits Settlement
+115,827,1934,0,1,,Suriname,Straits Settlement
+115,827,1935,64,1,,Suriname,Straits Settlement
+115,827,1936,0,1,,Suriname,Straits Settlement
+115,827,1937,0,1,,Suriname,Straits Settlement
+115,827,1938,0,1,,Suriname,Straits Settlement
+115,827,1939,0,1,,Suriname,Straits Settlement
+115,827,1943,0,1,,Suriname,Straits Settlement
+115,827,1944,0,1,,Suriname,Straits Settlement
+115,827,1945,0,1,,Suriname,Straits Settlement
+115,827,1946,0,1,,Suriname,Straits Settlement
+115,827,1947,0,1,,Suriname,Straits Settlement
+115,827,1948,0,1,,Suriname,Straits Settlement
+115,827,1949,0,1,,Suriname,Straits Settlement
+115,830,1931,0,1,,Suriname,Singapore
+115,830,1932,0,1,,Suriname,Singapore
+115,830,1933,1449,1,,Suriname,Singapore
+115,830,1934,114,1,,Suriname,Singapore
+115,830,1935,86,1,,Suriname,Singapore
+115,830,1936,171,1,,Suriname,Singapore
+115,830,1937,0,1,,Suriname,Singapore
+115,830,1938,0,1,,Suriname,Singapore
+115,830,1939,0,1,,Suriname,Singapore
+115,830,1943,0,1,,Suriname,Singapore
+115,830,1944,0,1,,Suriname,Singapore
+115,830,1945,0,1,,Suriname,Singapore
+115,830,1946,0,1,,Suriname,Singapore
+115,830,1947,0,1,,Suriname,Singapore
+115,830,1948,0,1,,Suriname,Singapore
+115,830,1949,855,1,,Suriname,Singapore
+115,850,1931,0,1,,Suriname,Indonesia
+115,850,1932,0,1,,Suriname,Indonesia
+115,850,1933,0,1,,Suriname,Indonesia
+115,850,1934,0,1,,Suriname,Indonesia
+115,850,1935,0,1,,Suriname,Indonesia
+115,850,1936,0,1,,Suriname,Indonesia
+115,850,1937,0,1,,Suriname,Indonesia
+115,850,1938,0,1,,Suriname,Indonesia
+115,850,1939,0,1,,Suriname,Indonesia
+115,850,1943,0,1,,Suriname,Indonesia
+115,850,1944,0,1,,Suriname,Indonesia
+115,850,1945,0,1,,Suriname,Indonesia
+115,850,1946,0,1,,Suriname,Indonesia
+115,850,1947,0,1,,Suriname,Indonesia
+115,850,1948,542,1,,Suriname,Indonesia
+115,850,1949,207,1,,Suriname,Indonesia
+115,900,1931,0,1,,Suriname,Australia
+115,900,1932,929,1,,Suriname,Australia
+115,900,1933,4014,1,,Suriname,Australia
+115,900,1934,609,1,,Suriname,Australia
+115,900,1935,1498,1,,Suriname,Australia
+115,900,1936,1339,1,,Suriname,Australia
+115,900,1937,48,1,,Suriname,Australia
+115,900,1938,1275,1,,Suriname,Australia
+115,900,1939,0,1,,Suriname,Australia
+115,900,1943,0,1,,Suriname,Australia
+115,900,1944,0,1,,Suriname,Australia
+115,900,1945,31,1,,Suriname,Australia
+115,900,1946,102,1,,Suriname,Australia
+115,900,1947,155,1,,Suriname,Australia
+115,900,1948,0,1,,Suriname,Australia
+115,900,1949,9,1,,Suriname,Australia
+115,920,1931,0,1,,Suriname,New Zealand
+115,920,1932,0,1,,Suriname,New Zealand
+115,920,1933,0,1,,Suriname,New Zealand
+115,920,1934,0,1,,Suriname,New Zealand
+115,920,1935,0,1,,Suriname,New Zealand
+115,920,1936,0,1,,Suriname,New Zealand
+115,920,1937,0,1,,Suriname,New Zealand
+115,920,1938,0,1,,Suriname,New Zealand
+115,920,1939,32,1,,Suriname,New Zealand
+115,920,1943,0,1,,Suriname,New Zealand
+115,920,1944,0,1,,Suriname,New Zealand
+115,920,1945,0,1,,Suriname,New Zealand
+115,920,1946,0,1,,Suriname,New Zealand
+115,920,1947,0,1,,Suriname,New Zealand
+115,920,1948,0,1,,Suriname,New Zealand
+115,920,1949,0,1,,Suriname,New Zealand
+115,1062,1931,0,1,,Suriname,Anguilla
+115,1062,1932,0,1,,Suriname,Anguilla
+115,1062,1933,0,1,,Suriname,Anguilla
+115,1062,1934,0,1,,Suriname,Anguilla
+115,1062,1935,1559,1,,Suriname,Anguilla
+115,1062,1936,0,1,,Suriname,Anguilla
+115,1062,1937,0,1,,Suriname,Anguilla
+115,1062,1938,0,1,,Suriname,Anguilla
+115,1062,1939,0,1,,Suriname,Anguilla
+115,1062,1943,0,1,,Suriname,Anguilla
+115,1062,1944,0,1,,Suriname,Anguilla
+115,1062,1945,0,1,,Suriname,Anguilla
+115,1062,1946,0,1,,Suriname,Anguilla
+115,1062,1947,0,1,,Suriname,Anguilla
+115,1062,1948,0,1,,Suriname,Anguilla
+115,1062,1949,0,1,,Suriname,Anguilla
+115,1065,1931,110916,1,,Suriname,Curacao
+115,1065,1932,18706,1,,Suriname,Curacao
+115,1065,1933,16448,1,,Suriname,Curacao
+115,1065,1934,15081,1,,Suriname,Curacao
+115,1065,1935,21076,1,,Suriname,Curacao
+115,1065,1936,29687,1,,Suriname,Curacao
+115,1065,1937,64579,1,,Suriname,Curacao
+115,1065,1938,43384,1,,Suriname,Curacao
+115,1065,1939,37204,1,,Suriname,Curacao
+115,1065,1943,546410,1,,Suriname,Curacao
+115,1065,1944,417655,1,,Suriname,Curacao
+115,1065,1945,390811,1,,Suriname,Curacao
+115,1065,1946,460620,1,,Suriname,Curacao
+115,1065,1947,397327,1,,Suriname,Curacao
+115,1065,1948,192100,1,,Suriname,Curacao
+115,1065,1949,0,1,,Suriname,Curacao
+115,1066,1931,0,1,,Suriname,Bonaire
+115,1066,1932,502,1,,Suriname,Bonaire
+115,1066,1933,965,1,,Suriname,Bonaire
+115,1066,1934,381,1,,Suriname,Bonaire
+115,1066,1935,714,1,,Suriname,Bonaire
+115,1066,1936,0,1,,Suriname,Bonaire
+115,1066,1937,0,1,,Suriname,Bonaire
+115,1066,1938,0,1,,Suriname,Bonaire
+115,1066,1939,0,1,,Suriname,Bonaire
+115,1066,1943,30509,1,,Suriname,Bonaire
+115,1066,1944,0,1,,Suriname,Bonaire
+115,1066,1945,0,1,,Suriname,Bonaire
+115,1066,1946,0,1,,Suriname,Bonaire
+115,1066,1947,0,1,,Suriname,Bonaire
+115,1066,1948,0,1,,Suriname,Bonaire
+115,1066,1949,0,1,,Suriname,Bonaire
+115,1069,1931,0,1,,Suriname,Aruba
+115,1069,1932,0,1,,Suriname,Aruba
+115,1069,1933,0,1,,Suriname,Aruba
+115,1069,1934,0,1,,Suriname,Aruba
+115,1069,1935,618,1,,Suriname,Aruba
+115,1069,1936,1532,1,,Suriname,Aruba
+115,1069,1937,406,1,,Suriname,Aruba
+115,1069,1938,40,1,,Suriname,Aruba
+115,1069,1939,109,1,,Suriname,Aruba
+115,1069,1943,16882,1,,Suriname,Aruba
+115,1069,1944,0,1,,Suriname,Aruba
+115,1069,1945,0,1,,Suriname,Aruba
+115,1069,1946,0,1,,Suriname,Aruba
+115,1069,1947,0,1,,Suriname,Aruba
+115,1069,1948,0,1,,Suriname,Aruba
+115,1069,1949,0,1,,Suriname,Aruba
+115,8501,1931,0,1,,Suriname,Java
+115,8501,1932,0,1,,Suriname,Java
+115,8501,1933,0,1,,Suriname,Java
+115,8501,1934,0,1,,Suriname,Java
+115,8501,1935,0,1,,Suriname,Java
+115,8501,1936,0,1,,Suriname,Java
+115,8501,1937,0,1,,Suriname,Java
+115,8501,1938,0,1,,Suriname,Java
+115,8501,1939,45,1,,Suriname,Java
+115,8501,1943,0,1,,Suriname,Java
+115,8501,1944,0,1,,Suriname,Java
+115,8501,1945,0,1,,Suriname,Java
+115,8501,1946,0,1,,Suriname,Java
+115,8501,1947,0,1,,Suriname,Java
+115,8501,1948,0,1,,Suriname,Java
+115,8501,1949,0,1,,Suriname,Java
+115,,1931,6638087,1,,Suriname,
+115,,1932,5721440,1,,Suriname,
+115,,1933,4946210,1,,Suriname,
+115,,1934,5403421,1,,Suriname,
+115,,1935,5464692,1,,Suriname,
+115,,1936,5780956,1,,Suriname,
+115,,1937,6899945,1,,Suriname,
+115,,1938,6914644,1,,Suriname,
+115,,1939,7921212,1,,Suriname,
+115,,1943,22456719,1,,Suriname,
+115,,1944,15645640,1,,Suriname,
+115,,1945,12627835,1,,Suriname,
+115,,1946,15567893,1,,Suriname,
+115,,1947,30902940,1,,Suriname,
+115,,1948,36129174,1,,Suriname,
+115,,1949,37730945,1,,Suriname,

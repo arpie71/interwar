@@ -1,0 +1,3383 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+380,2,1912,60458245,1,,Sweden,United States
+380,2,1913,76583150,1,,Sweden,United States
+380,2,1914,78076212,1,,Sweden,United States
+380,2,1915,321864961,1,,Sweden,United States
+380,2,1916,213935449,1,,Sweden,United States
+380,2,1917,96121682,1,,Sweden,United States
+380,2,1918,82548470,1,,Sweden,United States
+380,2,1919,646250200,1,,Sweden,United States
+380,2,1920,779243938,1,,Sweden,United States
+380,2,1921,242891922,1,,Sweden,United States
+380,2,1922,167371833,1,,Sweden,United States
+380,2,1923,213749920,1,,Sweden,United States
+380,2,1924,227285392,1,Couronnes,Sweden,United States
+380,2,1925,219444193,1,Couronnes,Sweden,United States
+380,2,1926,199377997,1,Couronnes,Sweden,United States
+380,2,1927,200775201,1,Couronnes,Sweden,United States
+380,2,1928,251767237,1,Couronnes,Sweden,United States
+380,2,1929,261405732,1,Couronnes,Sweden,United States
+380,2,1930,229249689,1,Couronnes,Sweden,United States
+380,2,1931,178126311,1,Couronnes,Sweden,United States
+380,2,1932,124841909,1,Couronnes,Sweden,United States
+380,2,1933,112710132,1,Couronnes,Sweden,United States
+380,2,1934,153614052,1,Couronnes,Sweden,United States
+380,2,1935,188867407,1,Couronnes,Sweden,United States
+380,2,1936,210975035,1,Couronnes,Sweden,United States
+380,2,1937,293999307,1,Couronnes,Sweden,United States
+380,2,1938,336533695,1,Couronnes,Sweden,United States
+380,2,1939,414260263,1,Couronnes,Sweden,United States
+380,2,1940,275732076,1,Couronnes,Sweden,United States
+380,2,1941,127616337,1,Couronnes,Sweden,United States
+380,2,1942,73268089,1,Couronnes,Sweden,United States
+380,2,1943,48143187,1,Couronnes,Sweden,United States
+380,2,1944,44480724,1,Couronnes,Sweden,United States
+380,2,1945,175523392,1,Couronnes,Sweden,United States
+380,2,1946,800649923,1,Couronnes,Sweden,United States
+380,2,1947,1640281080,1,Couronnes,Sweden,United States
+380,2,1948,692152198,1,Kronor,Sweden,United States
+380,2,1949,415829423,1,Kronor,Sweden,United States
+380,10,1912,0,1,,Sweden,Greenland
+380,10,1913,0,1,,Sweden,Greenland
+380,10,1914,0,1,,Sweden,Greenland
+380,10,1915,0,1,,Sweden,Greenland
+380,10,1916,0,1,,Sweden,Greenland
+380,10,1917,0,1,,Sweden,Greenland
+380,10,1918,0,1,,Sweden,Greenland
+380,10,1919,0,1,,Sweden,Greenland
+380,10,1920,0,1,,Sweden,Greenland
+380,10,1921,0,1,,Sweden,Greenland
+380,10,1922,0,1,,Sweden,Greenland
+380,10,1923,0,1,,Sweden,Greenland
+380,10,1924,0,1,Couronnes,Sweden,Greenland
+380,10,1925,0,1,Couronnes,Sweden,Greenland
+380,10,1926,0,1,Couronnes,Sweden,Greenland
+380,10,1927,0,1,Couronnes,Sweden,Greenland
+380,10,1928,0,1,Couronnes,Sweden,Greenland
+380,10,1929,0,1,Couronnes,Sweden,Greenland
+380,10,1930,0,1,Couronnes,Sweden,Greenland
+380,10,1931,0,1,Couronnes,Sweden,Greenland
+380,10,1932,0,1,Couronnes,Sweden,Greenland
+380,10,1933,0,1,Couronnes,Sweden,Greenland
+380,10,1934,0,1,Couronnes,Sweden,Greenland
+380,10,1935,40,1,Couronnes,Sweden,Greenland
+380,10,1936,81571,1,Couronnes,Sweden,Greenland
+380,10,1937,58910,1,Couronnes,Sweden,Greenland
+380,10,1938,189031,1,Couronnes,Sweden,Greenland
+380,10,1939,110663,1,Couronnes,Sweden,Greenland
+380,10,1940,1529,1,Couronnes,Sweden,Greenland
+380,10,1941,0,1,Couronnes,Sweden,Greenland
+380,10,1942,0,1,Couronnes,Sweden,Greenland
+380,10,1943,0,1,Couronnes,Sweden,Greenland
+380,10,1944,0,1,Couronnes,Sweden,Greenland
+380,10,1945,93620,1,Couronnes,Sweden,Greenland
+380,10,1946,130079,1,Couronnes,Sweden,Greenland
+380,10,1947,66200,1,Couronnes,Sweden,Greenland
+380,10,1948,56015,1,Kronor,Sweden,Greenland
+380,10,1949,85107,1,Kronor,Sweden,Greenland
+380,20,1912,0,1,,Sweden,Canada
+380,20,1913,0,1,,Sweden,Canada
+380,20,1914,0,1,,Sweden,Canada
+380,20,1915,0,1,,Sweden,Canada
+380,20,1916,0,1,,Sweden,Canada
+380,20,1917,0,1,,Sweden,Canada
+380,20,1918,0,1,,Sweden,Canada
+380,20,1919,0,1,,Sweden,Canada
+380,20,1920,0,1,,Sweden,Canada
+380,20,1921,0,1,,Sweden,Canada
+380,20,1922,0,1,,Sweden,Canada
+380,20,1923,0,1,,Sweden,Canada
+380,20,1924,0,1,Couronnes,Sweden,Canada
+380,20,1925,0,1,Couronnes,Sweden,Canada
+380,20,1926,0,1,Couronnes,Sweden,Canada
+380,20,1927,0,1,Couronnes,Sweden,Canada
+380,20,1928,0,1,Couronnes,Sweden,Canada
+380,20,1929,0,1,Couronnes,Sweden,Canada
+380,20,1930,0,1,Couronnes,Sweden,Canada
+380,20,1931,0,1,Couronnes,Sweden,Canada
+380,20,1932,0,1,Couronnes,Sweden,Canada
+380,20,1933,0,1,Couronnes,Sweden,Canada
+380,20,1934,0,1,Couronnes,Sweden,Canada
+380,20,1935,0,1,Couronnes,Sweden,Canada
+380,20,1936,0,1,Couronnes,Sweden,Canada
+380,20,1937,0,1,Couronnes,Sweden,Canada
+380,20,1938,0,1,Couronnes,Sweden,Canada
+380,20,1939,0,1,Couronnes,Sweden,Canada
+380,20,1940,0,1,Couronnes,Sweden,Canada
+380,20,1941,0,1,Couronnes,Sweden,Canada
+380,20,1942,0,1,Couronnes,Sweden,Canada
+380,20,1943,0,1,Couronnes,Sweden,Canada
+380,20,1944,0,1,Couronnes,Sweden,Canada
+380,20,1945,13730978,1,Couronnes,Sweden,Canada
+380,20,1946,38582140,1,Couronnes,Sweden,Canada
+380,20,1947,52642936,1,Couronnes,Sweden,Canada
+380,20,1948,35674979,1,Kronor,Sweden,Canada
+380,20,1949,28925355,1,Kronor,Sweden,Canada
+380,22,1912,261600,1,,Sweden,British North America
+380,22,1913,201790,1,,Sweden,British North America
+380,22,1914,131107,1,,Sweden,British North America
+380,22,1915,95537,1,,Sweden,British North America
+380,22,1916,94859,1,,Sweden,British North America
+380,22,1917,2141,1,,Sweden,British North America
+380,22,1918,354,1,,Sweden,British North America
+380,22,1919,89131,1,,Sweden,British North America
+380,22,1920,8719830,1,,Sweden,British North America
+380,22,1921,3802886,1,,Sweden,British North America
+380,22,1922,7755549,1,,Sweden,British North America
+380,22,1923,10189587,1,,Sweden,British North America
+380,22,1924,17518748,1,Couronnes,Sweden,British North America
+380,22,1925,16288729,1,Couronnes,Sweden,British North America
+380,22,1926,8750441,1,Couronnes,Sweden,British North America
+380,22,1927,12312896,1,Couronnes,Sweden,British North America
+380,22,1928,20792244,1,Couronnes,Sweden,British North America
+380,22,1929,13292747,1,Couronnes,Sweden,British North America
+380,22,1930,10037769,1,Couronnes,Sweden,British North America
+380,22,1931,6526471,1,Couronnes,Sweden,British North America
+380,22,1932,11031890,1,Couronnes,Sweden,British North America
+380,22,1933,4256542,1,Couronnes,Sweden,British North America
+380,22,1934,2445857,1,Couronnes,Sweden,British North America
+380,22,1935,2489159,1,Couronnes,Sweden,British North America
+380,22,1936,12001885,1,Couronnes,Sweden,British North America
+380,22,1937,15592144,1,Couronnes,Sweden,British North America
+380,22,1938,19836145,1,Couronnes,Sweden,British North America
+380,22,1939,12967334,1,Couronnes,Sweden,British North America
+380,22,1940,7618613,1,Couronnes,Sweden,British North America
+380,22,1941,113090,1,Couronnes,Sweden,British North America
+380,22,1942,233494,1,Couronnes,Sweden,British North America
+380,22,1943,3723,1,Couronnes,Sweden,British North America
+380,22,1944,30363,1,Couronnes,Sweden,British North America
+380,22,1945,0,1,Couronnes,Sweden,British North America
+380,22,1946,0,1,Couronnes,Sweden,British North America
+380,22,1947,0,1,Couronnes,Sweden,British North America
+380,22,1948,0,1,Kronor,Sweden,British North America
+380,22,1949,0,1,Kronor,Sweden,British North America
+380,40,1912,0,1,,Sweden,Cuba
+380,40,1913,0,1,,Sweden,Cuba
+380,40,1914,0,1,,Sweden,Cuba
+380,40,1915,0,1,,Sweden,Cuba
+380,40,1916,0,1,,Sweden,Cuba
+380,40,1917,0,1,,Sweden,Cuba
+380,40,1918,0,1,,Sweden,Cuba
+380,40,1919,0,1,,Sweden,Cuba
+380,40,1920,0,1,,Sweden,Cuba
+380,40,1921,0,1,,Sweden,Cuba
+380,40,1922,0,1,,Sweden,Cuba
+380,40,1923,0,1,,Sweden,Cuba
+380,40,1924,89989,1,Couronnes,Sweden,Cuba
+380,40,1925,213555,1,Couronnes,Sweden,Cuba
+380,40,1926,3710207,1,Couronnes,Sweden,Cuba
+380,40,1927,2679483,1,Couronnes,Sweden,Cuba
+380,40,1928,465733,1,Couronnes,Sweden,Cuba
+380,40,1929,2258742,1,Couronnes,Sweden,Cuba
+380,40,1930,403344,1,Couronnes,Sweden,Cuba
+380,40,1931,899913,1,Couronnes,Sweden,Cuba
+380,40,1932,652073,1,Couronnes,Sweden,Cuba
+380,40,1933,351940,1,Couronnes,Sweden,Cuba
+380,40,1934,619008,1,Couronnes,Sweden,Cuba
+380,40,1935,820660,1,Couronnes,Sweden,Cuba
+380,40,1936,1569798,1,Couronnes,Sweden,Cuba
+380,40,1937,2066766,1,Couronnes,Sweden,Cuba
+380,40,1938,2587213,1,Couronnes,Sweden,Cuba
+380,40,1939,1316811,1,Couronnes,Sweden,Cuba
+380,40,1940,1793680,1,Couronnes,Sweden,Cuba
+380,40,1941,167754,1,Couronnes,Sweden,Cuba
+380,40,1942,641233,1,Couronnes,Sweden,Cuba
+380,40,1943,872126,1,Couronnes,Sweden,Cuba
+380,40,1944,717025,1,Couronnes,Sweden,Cuba
+380,40,1945,742672,1,Couronnes,Sweden,Cuba
+380,40,1946,2207235,1,Couronnes,Sweden,Cuba
+380,40,1947,3918362,1,Couronnes,Sweden,Cuba
+380,40,1948,9794411,1,Kronor,Sweden,Cuba
+380,40,1949,804483,1,Kronor,Sweden,Cuba
+380,70,1912,146673,1,,Sweden,Mexico
+380,70,1913,91228,1,,Sweden,Mexico
+380,70,1914,170877,1,,Sweden,Mexico
+380,70,1915,661690,1,,Sweden,Mexico
+380,70,1916,0,1,,Sweden,Mexico
+380,70,1917,0,1,,Sweden,Mexico
+380,70,1918,39524,1,,Sweden,Mexico
+380,70,1919,1822892,1,,Sweden,Mexico
+380,70,1920,3512016,1,,Sweden,Mexico
+380,70,1921,251698,1,,Sweden,Mexico
+380,70,1922,124135,1,,Sweden,Mexico
+380,70,1923,186254,1,,Sweden,Mexico
+380,70,1924,104535,1,Couronnes,Sweden,Mexico
+380,70,1925,236501,1,Couronnes,Sweden,Mexico
+380,70,1926,125732,1,Couronnes,Sweden,Mexico
+380,70,1927,207885,1,Couronnes,Sweden,Mexico
+380,70,1928,369890,1,Couronnes,Sweden,Mexico
+380,70,1929,618653,1,Couronnes,Sweden,Mexico
+380,70,1930,1259669,1,Couronnes,Sweden,Mexico
+380,70,1931,210127,1,Couronnes,Sweden,Mexico
+380,70,1932,392345,1,Couronnes,Sweden,Mexico
+380,70,1933,208089,1,Couronnes,Sweden,Mexico
+380,70,1934,291921,1,Couronnes,Sweden,Mexico
+380,70,1935,1590871,1,Couronnes,Sweden,Mexico
+380,70,1936,11038384,1,Couronnes,Sweden,Mexico
+380,70,1937,13559349,1,Couronnes,Sweden,Mexico
+380,70,1938,12177113,1,Couronnes,Sweden,Mexico
+380,70,1939,16684886,1,Couronnes,Sweden,Mexico
+380,70,1940,10760515,1,Couronnes,Sweden,Mexico
+380,70,1941,2753804,1,Couronnes,Sweden,Mexico
+380,70,1942,4005749,1,Couronnes,Sweden,Mexico
+380,70,1943,6141912,1,Couronnes,Sweden,Mexico
+380,70,1944,12417274,1,Couronnes,Sweden,Mexico
+380,70,1945,6328969,1,Couronnes,Sweden,Mexico
+380,70,1946,23619637,1,Couronnes,Sweden,Mexico
+380,70,1947,32596021,1,Couronnes,Sweden,Mexico
+380,70,1948,13901435,1,Kronor,Sweden,Mexico
+380,70,1949,4965973,1,Kronor,Sweden,Mexico
+380,80,1912,0,1,,Sweden,Belize
+380,80,1913,0,1,,Sweden,Belize
+380,80,1914,0,1,,Sweden,Belize
+380,80,1915,0,1,,Sweden,Belize
+380,80,1916,0,1,,Sweden,Belize
+380,80,1917,0,1,,Sweden,Belize
+380,80,1918,0,1,,Sweden,Belize
+380,80,1919,0,1,,Sweden,Belize
+380,80,1920,0,1,,Sweden,Belize
+380,80,1921,0,1,,Sweden,Belize
+380,80,1922,0,1,,Sweden,Belize
+380,80,1923,0,1,,Sweden,Belize
+380,80,1924,0,1,Couronnes,Sweden,Belize
+380,80,1925,0,1,Couronnes,Sweden,Belize
+380,80,1926,0,1,Couronnes,Sweden,Belize
+380,80,1927,0,1,Couronnes,Sweden,Belize
+380,80,1928,0,1,Couronnes,Sweden,Belize
+380,80,1929,0,1,Couronnes,Sweden,Belize
+380,80,1930,0,1,Couronnes,Sweden,Belize
+380,80,1931,0,1,Couronnes,Sweden,Belize
+380,80,1932,0,1,Couronnes,Sweden,Belize
+380,80,1933,0,1,Couronnes,Sweden,Belize
+380,80,1934,0,1,Couronnes,Sweden,Belize
+380,80,1935,197,1,Couronnes,Sweden,Belize
+380,80,1936,639449,1,Couronnes,Sweden,Belize
+380,80,1937,617342,1,Couronnes,Sweden,Belize
+380,80,1938,178429,1,Couronnes,Sweden,Belize
+380,80,1939,72868,1,Couronnes,Sweden,Belize
+380,80,1940,949,1,Couronnes,Sweden,Belize
+380,80,1941,1096,1,Couronnes,Sweden,Belize
+380,80,1942,0,1,Couronnes,Sweden,Belize
+380,80,1943,0,1,Couronnes,Sweden,Belize
+380,80,1944,0,1,Couronnes,Sweden,Belize
+380,80,1945,0,1,Couronnes,Sweden,Belize
+380,80,1946,0,1,Couronnes,Sweden,Belize
+380,80,1947,186,1,Couronnes,Sweden,Belize
+380,80,1948,1984,1,Kronor,Sweden,Belize
+380,80,1949,14742,1,Kronor,Sweden,Belize
+380,90,1912,0,1,,Sweden,Guatemala
+380,90,1913,0,1,,Sweden,Guatemala
+380,90,1914,0,1,,Sweden,Guatemala
+380,90,1915,0,1,,Sweden,Guatemala
+380,90,1916,0,1,,Sweden,Guatemala
+380,90,1917,0,1,,Sweden,Guatemala
+380,90,1918,0,1,,Sweden,Guatemala
+380,90,1919,0,1,,Sweden,Guatemala
+380,90,1920,0,1,,Sweden,Guatemala
+380,90,1921,0,1,,Sweden,Guatemala
+380,90,1922,0,1,,Sweden,Guatemala
+380,90,1923,0,1,,Sweden,Guatemala
+380,90,1924,0,1,Couronnes,Sweden,Guatemala
+380,90,1925,0,1,Couronnes,Sweden,Guatemala
+380,90,1926,0,1,Couronnes,Sweden,Guatemala
+380,90,1927,0,1,Couronnes,Sweden,Guatemala
+380,90,1928,0,1,Couronnes,Sweden,Guatemala
+380,90,1929,0,1,Couronnes,Sweden,Guatemala
+380,90,1930,0,1,Couronnes,Sweden,Guatemala
+380,90,1931,0,1,Couronnes,Sweden,Guatemala
+380,90,1932,0,1,Couronnes,Sweden,Guatemala
+380,90,1933,0,1,Couronnes,Sweden,Guatemala
+380,90,1934,0,1,Couronnes,Sweden,Guatemala
+380,90,1935,3705324,1,Couronnes,Sweden,Guatemala
+380,90,1936,3775678,1,Couronnes,Sweden,Guatemala
+380,90,1937,3836251,1,Couronnes,Sweden,Guatemala
+380,90,1938,4553807,1,Couronnes,Sweden,Guatemala
+380,90,1939,4733816,1,Couronnes,Sweden,Guatemala
+380,90,1940,3759618,1,Couronnes,Sweden,Guatemala
+380,90,1941,2280996,1,Couronnes,Sweden,Guatemala
+380,90,1942,259112,1,Couronnes,Sweden,Guatemala
+380,90,1943,30228,1,Couronnes,Sweden,Guatemala
+380,90,1944,8203,1,Couronnes,Sweden,Guatemala
+380,90,1945,51461,1,Couronnes,Sweden,Guatemala
+380,90,1946,6117760,1,Couronnes,Sweden,Guatemala
+380,90,1947,6985785,1,Couronnes,Sweden,Guatemala
+380,90,1948,2258957,1,Kronor,Sweden,Guatemala
+380,90,1949,670141,1,Kronor,Sweden,Guatemala
+380,91,1912,0,1,,Sweden,Honduras
+380,91,1913,0,1,,Sweden,Honduras
+380,91,1914,0,1,,Sweden,Honduras
+380,91,1915,0,1,,Sweden,Honduras
+380,91,1916,0,1,,Sweden,Honduras
+380,91,1917,0,1,,Sweden,Honduras
+380,91,1918,0,1,,Sweden,Honduras
+380,91,1919,0,1,,Sweden,Honduras
+380,91,1920,0,1,,Sweden,Honduras
+380,91,1921,0,1,,Sweden,Honduras
+380,91,1922,0,1,,Sweden,Honduras
+380,91,1923,0,1,,Sweden,Honduras
+380,91,1924,0,1,Couronnes,Sweden,Honduras
+380,91,1925,0,1,Couronnes,Sweden,Honduras
+380,91,1926,0,1,Couronnes,Sweden,Honduras
+380,91,1927,0,1,Couronnes,Sweden,Honduras
+380,91,1928,0,1,Couronnes,Sweden,Honduras
+380,91,1929,0,1,Couronnes,Sweden,Honduras
+380,91,1930,0,1,Couronnes,Sweden,Honduras
+380,91,1931,0,1,Couronnes,Sweden,Honduras
+380,91,1932,0,1,Couronnes,Sweden,Honduras
+380,91,1933,0,1,Couronnes,Sweden,Honduras
+380,91,1934,0,1,Couronnes,Sweden,Honduras
+380,91,1935,14079,1,Couronnes,Sweden,Honduras
+380,91,1936,272331,1,Couronnes,Sweden,Honduras
+380,91,1937,288220,1,Couronnes,Sweden,Honduras
+380,91,1938,1169942,1,Couronnes,Sweden,Honduras
+380,91,1939,384969,1,Couronnes,Sweden,Honduras
+380,91,1940,16642,1,Couronnes,Sweden,Honduras
+380,91,1941,2390,1,Couronnes,Sweden,Honduras
+380,91,1942,8932,1,Couronnes,Sweden,Honduras
+380,91,1943,2300,1,Couronnes,Sweden,Honduras
+380,91,1944,0,1,Couronnes,Sweden,Honduras
+380,91,1945,560,1,Couronnes,Sweden,Honduras
+380,91,1946,208010,1,Couronnes,Sweden,Honduras
+380,91,1947,2345229,1,Couronnes,Sweden,Honduras
+380,91,1948,9664,1,Kronor,Sweden,Honduras
+380,91,1949,105346,1,Kronor,Sweden,Honduras
+380,92,1912,0,1,,Sweden,El Salvador
+380,92,1913,0,1,,Sweden,El Salvador
+380,92,1914,0,1,,Sweden,El Salvador
+380,92,1915,0,1,,Sweden,El Salvador
+380,92,1916,0,1,,Sweden,El Salvador
+380,92,1917,0,1,,Sweden,El Salvador
+380,92,1918,0,1,,Sweden,El Salvador
+380,92,1919,0,1,,Sweden,El Salvador
+380,92,1920,0,1,,Sweden,El Salvador
+380,92,1921,0,1,,Sweden,El Salvador
+380,92,1922,0,1,,Sweden,El Salvador
+380,92,1923,0,1,,Sweden,El Salvador
+380,92,1924,0,1,Couronnes,Sweden,El Salvador
+380,92,1925,0,1,Couronnes,Sweden,El Salvador
+380,92,1926,0,1,Couronnes,Sweden,El Salvador
+380,92,1927,0,1,Couronnes,Sweden,El Salvador
+380,92,1928,0,1,Couronnes,Sweden,El Salvador
+380,92,1929,0,1,Couronnes,Sweden,El Salvador
+380,92,1930,0,1,Couronnes,Sweden,El Salvador
+380,92,1931,0,1,Couronnes,Sweden,El Salvador
+380,92,1932,0,1,Couronnes,Sweden,El Salvador
+380,92,1933,0,1,Couronnes,Sweden,El Salvador
+380,92,1934,0,1,Couronnes,Sweden,El Salvador
+380,92,1935,3429507,1,Couronnes,Sweden,El Salvador
+380,92,1936,3118492,1,Couronnes,Sweden,El Salvador
+380,92,1937,3433870,1,Couronnes,Sweden,El Salvador
+380,92,1938,3339341,1,Couronnes,Sweden,El Salvador
+380,92,1939,3223595,1,Couronnes,Sweden,El Salvador
+380,92,1940,1671814,1,Couronnes,Sweden,El Salvador
+380,92,1941,2064033,1,Couronnes,Sweden,El Salvador
+380,92,1942,1013535,1,Couronnes,Sweden,El Salvador
+380,92,1943,379986,1,Couronnes,Sweden,El Salvador
+380,92,1944,20770,1,Couronnes,Sweden,El Salvador
+380,92,1945,149307,1,Couronnes,Sweden,El Salvador
+380,92,1946,2294216,1,Couronnes,Sweden,El Salvador
+380,92,1947,1938548,1,Couronnes,Sweden,El Salvador
+380,92,1948,1014769,1,Kronor,Sweden,El Salvador
+380,92,1949,214968,1,Kronor,Sweden,El Salvador
+380,93,1912,0,1,,Sweden,Nicaragua
+380,93,1913,0,1,,Sweden,Nicaragua
+380,93,1914,0,1,,Sweden,Nicaragua
+380,93,1915,0,1,,Sweden,Nicaragua
+380,93,1916,0,1,,Sweden,Nicaragua
+380,93,1917,0,1,,Sweden,Nicaragua
+380,93,1918,0,1,,Sweden,Nicaragua
+380,93,1919,0,1,,Sweden,Nicaragua
+380,93,1920,0,1,,Sweden,Nicaragua
+380,93,1921,0,1,,Sweden,Nicaragua
+380,93,1922,0,1,,Sweden,Nicaragua
+380,93,1923,0,1,,Sweden,Nicaragua
+380,93,1924,0,1,Couronnes,Sweden,Nicaragua
+380,93,1925,0,1,Couronnes,Sweden,Nicaragua
+380,93,1926,0,1,Couronnes,Sweden,Nicaragua
+380,93,1927,0,1,Couronnes,Sweden,Nicaragua
+380,93,1928,0,1,Couronnes,Sweden,Nicaragua
+380,93,1929,0,1,Couronnes,Sweden,Nicaragua
+380,93,1930,0,1,Couronnes,Sweden,Nicaragua
+380,93,1931,0,1,Couronnes,Sweden,Nicaragua
+380,93,1932,0,1,Couronnes,Sweden,Nicaragua
+380,93,1933,0,1,Couronnes,Sweden,Nicaragua
+380,93,1934,0,1,Couronnes,Sweden,Nicaragua
+380,93,1935,21468,1,Couronnes,Sweden,Nicaragua
+380,93,1936,77527,1,Couronnes,Sweden,Nicaragua
+380,93,1937,152110,1,Couronnes,Sweden,Nicaragua
+380,93,1938,123197,1,Couronnes,Sweden,Nicaragua
+380,93,1939,235855,1,Couronnes,Sweden,Nicaragua
+380,93,1940,213764,1,Couronnes,Sweden,Nicaragua
+380,93,1941,91939,1,Couronnes,Sweden,Nicaragua
+380,93,1942,2820,1,Couronnes,Sweden,Nicaragua
+380,93,1943,0,1,Couronnes,Sweden,Nicaragua
+380,93,1944,0,1,Couronnes,Sweden,Nicaragua
+380,93,1945,305,1,Couronnes,Sweden,Nicaragua
+380,93,1946,487300,1,Couronnes,Sweden,Nicaragua
+380,93,1947,390642,1,Couronnes,Sweden,Nicaragua
+380,93,1948,216057,1,Kronor,Sweden,Nicaragua
+380,93,1949,133988,1,Kronor,Sweden,Nicaragua
+380,94,1912,0,1,,Sweden,Costa Rica
+380,94,1913,0,1,,Sweden,Costa Rica
+380,94,1914,0,1,,Sweden,Costa Rica
+380,94,1915,0,1,,Sweden,Costa Rica
+380,94,1916,0,1,,Sweden,Costa Rica
+380,94,1917,0,1,,Sweden,Costa Rica
+380,94,1918,0,1,,Sweden,Costa Rica
+380,94,1919,0,1,,Sweden,Costa Rica
+380,94,1920,0,1,,Sweden,Costa Rica
+380,94,1921,0,1,,Sweden,Costa Rica
+380,94,1922,0,1,,Sweden,Costa Rica
+380,94,1923,0,1,,Sweden,Costa Rica
+380,94,1924,0,1,Couronnes,Sweden,Costa Rica
+380,94,1925,0,1,Couronnes,Sweden,Costa Rica
+380,94,1926,0,1,Couronnes,Sweden,Costa Rica
+380,94,1927,0,1,Couronnes,Sweden,Costa Rica
+380,94,1928,0,1,Couronnes,Sweden,Costa Rica
+380,94,1929,0,1,Couronnes,Sweden,Costa Rica
+380,94,1930,0,1,Couronnes,Sweden,Costa Rica
+380,94,1931,0,1,Couronnes,Sweden,Costa Rica
+380,94,1932,0,1,Couronnes,Sweden,Costa Rica
+380,94,1933,0,1,Couronnes,Sweden,Costa Rica
+380,94,1934,0,1,Couronnes,Sweden,Costa Rica
+380,94,1935,157607,1,Couronnes,Sweden,Costa Rica
+380,94,1936,997547,1,Couronnes,Sweden,Costa Rica
+380,94,1937,1148831,1,Couronnes,Sweden,Costa Rica
+380,94,1938,1466332,1,Couronnes,Sweden,Costa Rica
+380,94,1939,1310331,1,Couronnes,Sweden,Costa Rica
+380,94,1940,631041,1,Couronnes,Sweden,Costa Rica
+380,94,1941,212855,1,Couronnes,Sweden,Costa Rica
+380,94,1942,36681,1,Couronnes,Sweden,Costa Rica
+380,94,1943,523,1,Couronnes,Sweden,Costa Rica
+380,94,1944,0,1,Couronnes,Sweden,Costa Rica
+380,94,1945,46150,1,Couronnes,Sweden,Costa Rica
+380,94,1946,687447,1,Couronnes,Sweden,Costa Rica
+380,94,1947,933793,1,Couronnes,Sweden,Costa Rica
+380,94,1948,1093020,1,Kronor,Sweden,Costa Rica
+380,94,1949,149144,1,Kronor,Sweden,Costa Rica
+380,95,1912,0,1,,Sweden,Panama
+380,95,1913,0,1,,Sweden,Panama
+380,95,1914,0,1,,Sweden,Panama
+380,95,1915,0,1,,Sweden,Panama
+380,95,1916,0,1,,Sweden,Panama
+380,95,1917,0,1,,Sweden,Panama
+380,95,1918,0,1,,Sweden,Panama
+380,95,1919,0,1,,Sweden,Panama
+380,95,1920,0,1,,Sweden,Panama
+380,95,1921,0,1,,Sweden,Panama
+380,95,1922,0,1,,Sweden,Panama
+380,95,1923,0,1,,Sweden,Panama
+380,95,1924,0,1,Couronnes,Sweden,Panama
+380,95,1925,0,1,Couronnes,Sweden,Panama
+380,95,1926,0,1,Couronnes,Sweden,Panama
+380,95,1927,0,1,Couronnes,Sweden,Panama
+380,95,1928,0,1,Couronnes,Sweden,Panama
+380,95,1929,0,1,Couronnes,Sweden,Panama
+380,95,1930,0,1,Couronnes,Sweden,Panama
+380,95,1931,0,1,Couronnes,Sweden,Panama
+380,95,1932,0,1,Couronnes,Sweden,Panama
+380,95,1933,0,1,Couronnes,Sweden,Panama
+380,95,1934,0,1,Couronnes,Sweden,Panama
+380,95,1935,82635,1,Couronnes,Sweden,Panama
+380,95,1936,2715,1,Couronnes,Sweden,Panama
+380,95,1937,39347,1,Couronnes,Sweden,Panama
+380,95,1938,3302,1,Couronnes,Sweden,Panama
+380,95,1939,1782,1,Couronnes,Sweden,Panama
+380,95,1940,2041,1,Couronnes,Sweden,Panama
+380,95,1941,830,1,Couronnes,Sweden,Panama
+380,95,1942,0,1,Couronnes,Sweden,Panama
+380,95,1943,0,1,Couronnes,Sweden,Panama
+380,95,1944,0,1,Couronnes,Sweden,Panama
+380,95,1945,537710,1,Couronnes,Sweden,Panama
+380,95,1946,13498937,1,Couronnes,Sweden,Panama
+380,95,1947,2924619,1,Couronnes,Sweden,Panama
+380,95,1948,7901120,1,Kronor,Sweden,Panama
+380,95,1949,97,1,Kronor,Sweden,Panama
+380,100,1912,0,1,,Sweden,Colombia
+380,100,1913,0,1,,Sweden,Colombia
+380,100,1914,0,1,,Sweden,Colombia
+380,100,1915,0,1,,Sweden,Colombia
+380,100,1916,0,1,,Sweden,Colombia
+380,100,1917,0,1,,Sweden,Colombia
+380,100,1918,0,1,,Sweden,Colombia
+380,100,1919,0,1,,Sweden,Colombia
+380,100,1920,0,1,,Sweden,Colombia
+380,100,1921,0,1,,Sweden,Colombia
+380,100,1922,0,1,,Sweden,Colombia
+380,100,1923,0,1,,Sweden,Colombia
+380,100,1924,64320,1,Couronnes,Sweden,Colombia
+380,100,1925,111498,1,Couronnes,Sweden,Colombia
+380,100,1926,123253,1,Couronnes,Sweden,Colombia
+380,100,1927,470128,1,Couronnes,Sweden,Colombia
+380,100,1928,765410,1,Couronnes,Sweden,Colombia
+380,100,1929,943063,1,Couronnes,Sweden,Colombia
+380,100,1930,855089,1,Couronnes,Sweden,Colombia
+380,100,1931,1078186,1,Couronnes,Sweden,Colombia
+380,100,1932,1116278,1,Couronnes,Sweden,Colombia
+380,100,1933,1189067,1,Couronnes,Sweden,Colombia
+380,100,1934,1746742,1,Couronnes,Sweden,Colombia
+380,100,1935,1872941,1,Couronnes,Sweden,Colombia
+380,100,1936,5014981,1,Couronnes,Sweden,Colombia
+380,100,1937,4024018,1,Couronnes,Sweden,Colombia
+380,100,1938,4054701,1,Couronnes,Sweden,Colombia
+380,100,1939,6463446,1,Couronnes,Sweden,Colombia
+380,100,1940,4043722,1,Couronnes,Sweden,Colombia
+380,100,1941,2372605,1,Couronnes,Sweden,Colombia
+380,100,1942,513558,1,Couronnes,Sweden,Colombia
+380,100,1943,40528,1,Couronnes,Sweden,Colombia
+380,100,1944,1793597,1,Couronnes,Sweden,Colombia
+380,100,1945,2247067,1,Couronnes,Sweden,Colombia
+380,100,1946,11651287,1,Couronnes,Sweden,Colombia
+380,100,1947,12686710,1,Couronnes,Sweden,Colombia
+380,100,1948,12876141,1,Kronor,Sweden,Colombia
+380,100,1949,14494225,1,Kronor,Sweden,Colombia
+380,101,1912,392504,1,,Sweden,Venezuela
+380,101,1913,270058,1,,Sweden,Venezuela
+380,101,1914,287906,1,,Sweden,Venezuela
+380,101,1915,112662,1,,Sweden,Venezuela
+380,101,1916,0,1,,Sweden,Venezuela
+380,101,1917,0,1,,Sweden,Venezuela
+380,101,1918,0,1,,Sweden,Venezuela
+380,101,1919,0,1,,Sweden,Venezuela
+380,101,1920,0,1,,Sweden,Venezuela
+380,101,1921,0,1,,Sweden,Venezuela
+380,101,1922,0,1,,Sweden,Venezuela
+380,101,1923,0,1,,Sweden,Venezuela
+380,101,1924,600342,1,Couronnes,Sweden,Venezuela
+380,101,1925,896398,1,Couronnes,Sweden,Venezuela
+380,101,1926,663042,1,Couronnes,Sweden,Venezuela
+380,101,1927,833150,1,Couronnes,Sweden,Venezuela
+380,101,1928,748002,1,Couronnes,Sweden,Venezuela
+380,101,1929,1435147,1,Couronnes,Sweden,Venezuela
+380,101,1930,986885,1,Couronnes,Sweden,Venezuela
+380,101,1931,667193,1,Couronnes,Sweden,Venezuela
+380,101,1932,578865,1,Couronnes,Sweden,Venezuela
+380,101,1933,669881,1,Couronnes,Sweden,Venezuela
+380,101,1934,512882,1,Couronnes,Sweden,Venezuela
+380,101,1935,532403,1,Couronnes,Sweden,Venezuela
+380,101,1936,1937999,1,Couronnes,Sweden,Venezuela
+380,101,1937,894229,1,Couronnes,Sweden,Venezuela
+380,101,1938,1049912,1,Couronnes,Sweden,Venezuela
+380,101,1939,677278,1,Couronnes,Sweden,Venezuela
+380,101,1940,403301,1,Couronnes,Sweden,Venezuela
+380,101,1941,457129,1,Couronnes,Sweden,Venezuela
+380,101,1942,245157,1,Couronnes,Sweden,Venezuela
+380,101,1943,1208137,1,Couronnes,Sweden,Venezuela
+380,101,1944,7361,1,Couronnes,Sweden,Venezuela
+380,101,1945,1458725,1,Couronnes,Sweden,Venezuela
+380,101,1946,29083755,1,Couronnes,Sweden,Venezuela
+380,101,1947,43151921,1,Couronnes,Sweden,Venezuela
+380,101,1948,60363951,1,Kronor,Sweden,Venezuela
+380,101,1949,19476558,1,Kronor,Sweden,Venezuela
+380,130,1912,0,1,,Sweden,Ecuador
+380,130,1913,0,1,,Sweden,Ecuador
+380,130,1914,0,1,,Sweden,Ecuador
+380,130,1915,0,1,,Sweden,Ecuador
+380,130,1916,0,1,,Sweden,Ecuador
+380,130,1917,0,1,,Sweden,Ecuador
+380,130,1918,0,1,,Sweden,Ecuador
+380,130,1919,0,1,,Sweden,Ecuador
+380,130,1920,0,1,,Sweden,Ecuador
+380,130,1921,0,1,,Sweden,Ecuador
+380,130,1922,0,1,,Sweden,Ecuador
+380,130,1923,0,1,,Sweden,Ecuador
+380,130,1924,0,1,Couronnes,Sweden,Ecuador
+380,130,1925,0,1,Couronnes,Sweden,Ecuador
+380,130,1926,172095,1,Couronnes,Sweden,Ecuador
+380,130,1927,36982,1,Couronnes,Sweden,Ecuador
+380,130,1928,83086,1,Couronnes,Sweden,Ecuador
+380,130,1929,180540,1,Couronnes,Sweden,Ecuador
+380,130,1930,112436,1,Couronnes,Sweden,Ecuador
+380,130,1931,97475,1,Couronnes,Sweden,Ecuador
+380,130,1932,169043,1,Couronnes,Sweden,Ecuador
+380,130,1933,59286,1,Couronnes,Sweden,Ecuador
+380,130,1934,42250,1,Couronnes,Sweden,Ecuador
+380,130,1935,47174,1,Couronnes,Sweden,Ecuador
+380,130,1936,203599,1,Couronnes,Sweden,Ecuador
+380,130,1937,273587,1,Couronnes,Sweden,Ecuador
+380,130,1938,276411,1,Couronnes,Sweden,Ecuador
+380,130,1939,402439,1,Couronnes,Sweden,Ecuador
+380,130,1940,350939,1,Couronnes,Sweden,Ecuador
+380,130,1941,129695,1,Couronnes,Sweden,Ecuador
+380,130,1942,65406,1,Couronnes,Sweden,Ecuador
+380,130,1943,124302,1,Couronnes,Sweden,Ecuador
+380,130,1944,129372,1,Couronnes,Sweden,Ecuador
+380,130,1945,1193972,1,Couronnes,Sweden,Ecuador
+380,130,1946,1430652,1,Couronnes,Sweden,Ecuador
+380,130,1947,943358,1,Couronnes,Sweden,Ecuador
+380,130,1948,433178,1,Kronor,Sweden,Ecuador
+380,130,1949,464549,1,Kronor,Sweden,Ecuador
+380,135,1912,0,1,,Sweden,Peru
+380,135,1913,0,1,,Sweden,Peru
+380,135,1914,0,1,,Sweden,Peru
+380,135,1915,0,1,,Sweden,Peru
+380,135,1916,0,1,,Sweden,Peru
+380,135,1917,0,1,,Sweden,Peru
+380,135,1918,0,1,,Sweden,Peru
+380,135,1919,0,1,,Sweden,Peru
+380,135,1920,0,1,,Sweden,Peru
+380,135,1921,0,1,,Sweden,Peru
+380,135,1922,0,1,,Sweden,Peru
+380,135,1923,0,1,,Sweden,Peru
+380,135,1924,1890,1,Couronnes,Sweden,Peru
+380,135,1925,5,1,Couronnes,Sweden,Peru
+380,135,1926,280,1,Couronnes,Sweden,Peru
+380,135,1927,25125,1,Couronnes,Sweden,Peru
+380,135,1928,196678,1,Couronnes,Sweden,Peru
+380,135,1929,208422,1,Couronnes,Sweden,Peru
+380,135,1930,255281,1,Couronnes,Sweden,Peru
+380,135,1931,220924,1,Couronnes,Sweden,Peru
+380,135,1932,16458,1,Couronnes,Sweden,Peru
+380,135,1933,28188,1,Couronnes,Sweden,Peru
+380,135,1934,80311,1,Couronnes,Sweden,Peru
+380,135,1935,8240,1,Couronnes,Sweden,Peru
+380,135,1936,215913,1,Couronnes,Sweden,Peru
+380,135,1937,976400,1,Couronnes,Sweden,Peru
+380,135,1938,2180211,1,Couronnes,Sweden,Peru
+380,135,1939,2657301,1,Couronnes,Sweden,Peru
+380,135,1940,1518804,1,Couronnes,Sweden,Peru
+380,135,1941,884772,1,Couronnes,Sweden,Peru
+380,135,1942,1384916,1,Couronnes,Sweden,Peru
+380,135,1943,2710899,1,Couronnes,Sweden,Peru
+380,135,1944,1325498,1,Couronnes,Sweden,Peru
+380,135,1945,1924156,1,Couronnes,Sweden,Peru
+380,135,1946,4355309,1,Couronnes,Sweden,Peru
+380,135,1947,4160990,1,Couronnes,Sweden,Peru
+380,135,1948,4520144,1,Kronor,Sweden,Peru
+380,135,1949,425339,1,Kronor,Sweden,Peru
+380,140,1912,15552534,1,,Sweden,Brazil
+380,140,1913,17686577,1,,Sweden,Brazil
+380,140,1914,14483849,1,,Sweden,Brazil
+380,140,1915,29427942,1,,Sweden,Brazil
+380,140,1916,39507012,1,,Sweden,Brazil
+380,140,1917,10945944,1,,Sweden,Brazil
+380,140,1918,16203905,1,,Sweden,Brazil
+380,140,1919,44961613,1,,Sweden,Brazil
+380,140,1920,58038976,1,,Sweden,Brazil
+380,140,1921,26636860,1,,Sweden,Brazil
+380,140,1922,22894899,1,,Sweden,Brazil
+380,140,1923,29845468,1,,Sweden,Brazil
+380,140,1924,37781799,1,Couronnes,Sweden,Brazil
+380,140,1925,43800345,1,Couronnes,Sweden,Brazil
+380,140,1926,51830738,1,Couronnes,Sweden,Brazil
+380,140,1927,45819928,1,Couronnes,Sweden,Brazil
+380,140,1928,45926641,1,Couronnes,Sweden,Brazil
+380,140,1929,45542289,1,Couronnes,Sweden,Brazil
+380,140,1930,33116773,1,Couronnes,Sweden,Brazil
+380,140,1931,29710028,1,Couronnes,Sweden,Brazil
+380,140,1932,26191278,1,Couronnes,Sweden,Brazil
+380,140,1933,30574227,1,Couronnes,Sweden,Brazil
+380,140,1934,27673607,1,Couronnes,Sweden,Brazil
+380,140,1935,29207780,1,Couronnes,Sweden,Brazil
+380,140,1936,30564581,1,Couronnes,Sweden,Brazil
+380,140,1937,37838156,1,Couronnes,Sweden,Brazil
+380,140,1938,34345588,1,Couronnes,Sweden,Brazil
+380,140,1939,37808419,1,Couronnes,Sweden,Brazil
+380,140,1940,30771622,1,Couronnes,Sweden,Brazil
+380,140,1941,21607196,1,Couronnes,Sweden,Brazil
+380,140,1942,77335900,1,Couronnes,Sweden,Brazil
+380,140,1943,65081681,1,Couronnes,Sweden,Brazil
+380,140,1944,93777608,1,Couronnes,Sweden,Brazil
+380,140,1945,66035570,1,Couronnes,Sweden,Brazil
+380,140,1946,121936241,1,Couronnes,Sweden,Brazil
+380,140,1947,122528947,1,Couronnes,Sweden,Brazil
+380,140,1948,111391190,1,Kronor,Sweden,Brazil
+380,140,1949,124475318,1,Kronor,Sweden,Brazil
+380,145,1912,0,1,,Sweden,Bolivia
+380,145,1913,0,1,,Sweden,Bolivia
+380,145,1914,0,1,,Sweden,Bolivia
+380,145,1915,0,1,,Sweden,Bolivia
+380,145,1916,0,1,,Sweden,Bolivia
+380,145,1917,0,1,,Sweden,Bolivia
+380,145,1918,0,1,,Sweden,Bolivia
+380,145,1919,0,1,,Sweden,Bolivia
+380,145,1920,0,1,,Sweden,Bolivia
+380,145,1921,0,1,,Sweden,Bolivia
+380,145,1922,0,1,,Sweden,Bolivia
+380,145,1923,0,1,,Sweden,Bolivia
+380,145,1924,0,1,Couronnes,Sweden,Bolivia
+380,145,1925,0,1,Couronnes,Sweden,Bolivia
+380,145,1926,25,1,Couronnes,Sweden,Bolivia
+380,145,1927,13100,1,Couronnes,Sweden,Bolivia
+380,145,1928,9265,1,Couronnes,Sweden,Bolivia
+380,145,1929,21089,1,Couronnes,Sweden,Bolivia
+380,145,1930,2166,1,Couronnes,Sweden,Bolivia
+380,145,1931,20,1,Couronnes,Sweden,Bolivia
+380,145,1932,1635,1,Couronnes,Sweden,Bolivia
+380,145,1933,792,1,Couronnes,Sweden,Bolivia
+380,145,1934,2,1,Couronnes,Sweden,Bolivia
+380,145,1935,0,1,Couronnes,Sweden,Bolivia
+380,145,1936,314476,1,Couronnes,Sweden,Bolivia
+380,145,1937,1141609,1,Couronnes,Sweden,Bolivia
+380,145,1938,3030442,1,Couronnes,Sweden,Bolivia
+380,145,1939,829878,1,Couronnes,Sweden,Bolivia
+380,145,1940,149529,1,Couronnes,Sweden,Bolivia
+380,145,1941,496,1,Couronnes,Sweden,Bolivia
+380,145,1942,25156,1,Couronnes,Sweden,Bolivia
+380,145,1943,0,1,Couronnes,Sweden,Bolivia
+380,145,1944,0,1,Couronnes,Sweden,Bolivia
+380,145,1945,151709,1,Couronnes,Sweden,Bolivia
+380,145,1946,917015,1,Couronnes,Sweden,Bolivia
+380,145,1947,2207636,1,Couronnes,Sweden,Bolivia
+380,145,1948,163614,1,Kronor,Sweden,Bolivia
+380,145,1949,480,1,Kronor,Sweden,Bolivia
+380,155,1912,721013,1,,Sweden,Chile
+380,155,1913,21704,1,,Sweden,Chile
+380,155,1914,48486,1,,Sweden,Chile
+380,155,1915,6343727,1,,Sweden,Chile
+380,155,1916,7630159,1,,Sweden,Chile
+380,155,1917,511,1,,Sweden,Chile
+380,155,1918,2901046,1,,Sweden,Chile
+380,155,1919,10858101,1,,Sweden,Chile
+380,155,1920,7836584,1,,Sweden,Chile
+380,155,1921,5002950,1,,Sweden,Chile
+380,155,1922,835925,1,,Sweden,Chile
+380,155,1923,2087907,1,,Sweden,Chile
+380,155,1924,3108302,1,Couronnes,Sweden,Chile
+380,155,1925,595084,1,Couronnes,Sweden,Chile
+380,155,1926,1190999,1,Couronnes,Sweden,Chile
+380,155,1927,1663616,1,Couronnes,Sweden,Chile
+380,155,1928,2607616,1,Couronnes,Sweden,Chile
+380,155,1929,20068,1,Couronnes,Sweden,Chile
+380,155,1930,46298,1,Couronnes,Sweden,Chile
+380,155,1931,376132,1,Couronnes,Sweden,Chile
+380,155,1932,13397,1,Couronnes,Sweden,Chile
+380,155,1933,1647434,1,Couronnes,Sweden,Chile
+380,155,1934,2953600,1,Couronnes,Sweden,Chile
+380,155,1935,1216818,1,Couronnes,Sweden,Chile
+380,155,1936,20330363,1,Couronnes,Sweden,Chile
+380,155,1937,33166088,1,Couronnes,Sweden,Chile
+380,155,1938,29517316,1,Couronnes,Sweden,Chile
+380,155,1939,41031561,1,Couronnes,Sweden,Chile
+380,155,1940,26551186,1,Couronnes,Sweden,Chile
+380,155,1941,43074,1,Couronnes,Sweden,Chile
+380,155,1942,5486292,1,Couronnes,Sweden,Chile
+380,155,1943,1360520,1,Couronnes,Sweden,Chile
+380,155,1944,6511431,1,Couronnes,Sweden,Chile
+380,155,1945,16929717,1,Couronnes,Sweden,Chile
+380,155,1946,37194812,1,Couronnes,Sweden,Chile
+380,155,1947,37056416,1,Couronnes,Sweden,Chile
+380,155,1948,9743412,1,Kronor,Sweden,Chile
+380,155,1949,16093533,1,Kronor,Sweden,Chile
+380,160,1912,15503516,1,,Sweden,Argentina
+380,160,1913,16988039,1,,Sweden,Argentina
+380,160,1914,14376707,1,,Sweden,Argentina
+380,160,1915,67007328,1,,Sweden,Argentina
+380,160,1916,42001731,1,,Sweden,Argentina
+380,160,1917,10124443,1,,Sweden,Argentina
+380,160,1918,37218907,1,,Sweden,Argentina
+380,160,1919,148070224,1,,Sweden,Argentina
+380,160,1920,128712022,1,,Sweden,Argentina
+380,160,1921,34988769,1,,Sweden,Argentina
+380,160,1922,20131487,1,,Sweden,Argentina
+380,160,1923,36958719,1,,Sweden,Argentina
+380,160,1924,46551993,1,Couronnes,Sweden,Argentina
+380,160,1925,45109709,1,Couronnes,Sweden,Argentina
+380,160,1926,41738811,1,Couronnes,Sweden,Argentina
+380,160,1927,44547974,1,Couronnes,Sweden,Argentina
+380,160,1928,52538768,1,Couronnes,Sweden,Argentina
+380,160,1929,41855265,1,Couronnes,Sweden,Argentina
+380,160,1930,35202765,1,Couronnes,Sweden,Argentina
+380,160,1931,41464921,1,Couronnes,Sweden,Argentina
+380,160,1932,38218690,1,Couronnes,Sweden,Argentina
+380,160,1933,33265333,1,Couronnes,Sweden,Argentina
+380,160,1934,26891800,1,Couronnes,Sweden,Argentina
+380,160,1935,22318502,1,Couronnes,Sweden,Argentina
+380,160,1936,37066521,1,Couronnes,Sweden,Argentina
+380,160,1937,66927513,1,Couronnes,Sweden,Argentina
+380,160,1938,53062586,1,Couronnes,Sweden,Argentina
+380,160,1939,48164403,1,Couronnes,Sweden,Argentina
+380,160,1940,51577367,1,Couronnes,Sweden,Argentina
+380,160,1941,30682972,1,Couronnes,Sweden,Argentina
+380,160,1942,135376996,1,Couronnes,Sweden,Argentina
+380,160,1943,126370059,1,Couronnes,Sweden,Argentina
+380,160,1944,120928203,1,Couronnes,Sweden,Argentina
+380,160,1945,107706781,1,Couronnes,Sweden,Argentina
+380,160,1946,215713222,1,Couronnes,Sweden,Argentina
+380,160,1947,217387772,1,Couronnes,Sweden,Argentina
+380,160,1948,109341542,1,Kronor,Sweden,Argentina
+380,160,1949,114613520,1,Kronor,Sweden,Argentina
+380,165,1912,290858,1,,Sweden,Uruguay
+380,165,1913,12727,1,,Sweden,Uruguay
+380,165,1914,44326,1,,Sweden,Uruguay
+380,165,1915,2243082,1,,Sweden,Uruguay
+380,165,1916,604617,1,,Sweden,Uruguay
+380,165,1917,0,1,,Sweden,Uruguay
+380,165,1918,0,1,,Sweden,Uruguay
+380,165,1919,733391,1,,Sweden,Uruguay
+380,165,1920,9835705,1,,Sweden,Uruguay
+380,165,1921,2716458,1,,Sweden,Uruguay
+380,165,1922,2614786,1,,Sweden,Uruguay
+380,165,1923,2287300,1,,Sweden,Uruguay
+380,165,1924,3570939,1,Couronnes,Sweden,Uruguay
+380,165,1925,2730259,1,Couronnes,Sweden,Uruguay
+380,165,1926,2335319,1,Couronnes,Sweden,Uruguay
+380,165,1927,2328086,1,Couronnes,Sweden,Uruguay
+380,165,1928,2582772,1,Couronnes,Sweden,Uruguay
+380,165,1929,1372218,1,Couronnes,Sweden,Uruguay
+380,165,1930,1905465,1,Couronnes,Sweden,Uruguay
+380,165,1931,1332420,1,Couronnes,Sweden,Uruguay
+380,165,1932,1240239,1,Couronnes,Sweden,Uruguay
+380,165,1933,1169545,1,Couronnes,Sweden,Uruguay
+380,165,1934,1808961,1,Couronnes,Sweden,Uruguay
+380,165,1935,2007360,1,Couronnes,Sweden,Uruguay
+380,165,1936,3485729,1,Couronnes,Sweden,Uruguay
+380,165,1937,5172619,1,Couronnes,Sweden,Uruguay
+380,165,1938,4774937,1,Couronnes,Sweden,Uruguay
+380,165,1939,6815481,1,Couronnes,Sweden,Uruguay
+380,165,1940,10796558,1,Couronnes,Sweden,Uruguay
+380,165,1941,23447024,1,Couronnes,Sweden,Uruguay
+380,165,1942,36599021,1,Couronnes,Sweden,Uruguay
+380,165,1943,18272567,1,Couronnes,Sweden,Uruguay
+380,165,1944,19092887,1,Couronnes,Sweden,Uruguay
+380,165,1945,14486591,1,Couronnes,Sweden,Uruguay
+380,165,1946,23151461,1,Couronnes,Sweden,Uruguay
+380,165,1947,32701994,1,Couronnes,Sweden,Uruguay
+380,165,1948,10658276,1,Kronor,Sweden,Uruguay
+380,165,1949,10178841,1,Kronor,Sweden,Uruguay
+380,200,1912,188893735,1,,Sweden,United Kingdom
+380,200,1913,206801112,1,,Sweden,United Kingdom
+380,200,1914,183756980,1,,Sweden,United Kingdom
+380,200,1915,213524983,1,,Sweden,United Kingdom
+380,200,1916,164415452,1,,Sweden,United Kingdom
+380,200,1917,65079577,1,,Sweden,United Kingdom
+380,200,1918,148730061,1,,Sweden,United Kingdom
+380,200,1919,669478239,1,,Sweden,United Kingdom
+380,200,1920,914757309,1,,Sweden,United Kingdom
+380,200,1921,217516601,1,,Sweden,United Kingdom
+380,200,1922,268311270,1,,Sweden,United Kingdom
+380,200,1923,284242095,1,,Sweden,United Kingdom
+380,200,1924,307659629,1,Couronnes,Sweden,United Kingdom
+380,200,1925,291250724,1,Couronnes,Sweden,United Kingdom
+380,200,1926,221088110,1,Couronnes,Sweden,United Kingdom
+380,200,1927,263995619,1,Couronnes,Sweden,United Kingdom
+380,200,1928,275406935,1,Couronnes,Sweden,United Kingdom
+380,200,1929,308722651,1,Couronnes,Sweden,United Kingdom
+380,200,1930,262343141,1,Couronnes,Sweden,United Kingdom
+380,200,1931,200298899,1,Couronnes,Sweden,United Kingdom
+380,200,1932,193813506,1,Couronnes,Sweden,United Kingdom
+380,200,1933,196984004,1,Couronnes,Sweden,United Kingdom
+380,200,1934,254595812,1,Couronnes,Sweden,United Kingdom
+380,200,1935,284066701,1,Couronnes,Sweden,United Kingdom
+380,200,1936,220285889,1,Couronnes,Sweden,United Kingdom
+380,200,1937,282068475,1,Couronnes,Sweden,United Kingdom
+380,200,1938,252071504,1,Couronnes,Sweden,United Kingdom
+380,200,1939,325719834,1,Couronnes,Sweden,United Kingdom
+380,200,1940,114844443,1,Couronnes,Sweden,United Kingdom
+380,200,1941,18896058,1,Couronnes,Sweden,United Kingdom
+380,200,1942,6612310,1,Couronnes,Sweden,United Kingdom
+380,200,1943,13858141,1,Couronnes,Sweden,United Kingdom
+380,200,1944,8896111,1,Couronnes,Sweden,United Kingdom
+380,200,1945,56789558,1,Couronnes,Sweden,United Kingdom
+380,200,1946,338836590,1,Couronnes,Sweden,United Kingdom
+380,200,1947,441429287,1,Couronnes,Sweden,United Kingdom
+380,200,1948,854880951,1,Kronor,Sweden,United Kingdom
+380,200,1949,743244270,1,Kronor,Sweden,United Kingdom
+380,204,1912,0,1,,Sweden,North Ireland
+380,204,1913,0,1,,Sweden,North Ireland
+380,204,1914,0,1,,Sweden,North Ireland
+380,204,1915,0,1,,Sweden,North Ireland
+380,204,1916,0,1,,Sweden,North Ireland
+380,204,1917,0,1,,Sweden,North Ireland
+380,204,1918,0,1,,Sweden,North Ireland
+380,204,1919,0,1,,Sweden,North Ireland
+380,204,1920,0,1,,Sweden,North Ireland
+380,204,1921,0,1,,Sweden,North Ireland
+380,204,1922,0,1,,Sweden,North Ireland
+380,204,1923,0,1,,Sweden,North Ireland
+380,204,1924,0,1,Couronnes,Sweden,North Ireland
+380,204,1925,0,1,Couronnes,Sweden,North Ireland
+380,204,1926,82418,1,Couronnes,Sweden,North Ireland
+380,204,1927,51627,1,Couronnes,Sweden,North Ireland
+380,204,1928,63796,1,Couronnes,Sweden,North Ireland
+380,204,1929,261460,1,Couronnes,Sweden,North Ireland
+380,204,1930,456240,1,Couronnes,Sweden,North Ireland
+380,204,1931,211934,1,Couronnes,Sweden,North Ireland
+380,204,1932,319305,1,Couronnes,Sweden,North Ireland
+380,204,1933,439773,1,Couronnes,Sweden,North Ireland
+380,204,1934,771607,1,Couronnes,Sweden,North Ireland
+380,204,1935,1136263,1,Couronnes,Sweden,North Ireland
+380,204,1936,1291349,1,Couronnes,Sweden,North Ireland
+380,204,1937,1880137,1,Couronnes,Sweden,North Ireland
+380,204,1938,1295887,1,Couronnes,Sweden,North Ireland
+380,204,1939,1664901,1,Couronnes,Sweden,North Ireland
+380,204,1940,578696,1,Couronnes,Sweden,North Ireland
+380,204,1941,23433,1,Couronnes,Sweden,North Ireland
+380,204,1942,56153,1,Couronnes,Sweden,North Ireland
+380,204,1943,72486,1,Couronnes,Sweden,North Ireland
+380,204,1944,17642,1,Couronnes,Sweden,North Ireland
+380,204,1945,140851,1,Couronnes,Sweden,North Ireland
+380,204,1946,1493396,1,Couronnes,Sweden,North Ireland
+380,204,1947,2490100,1,Couronnes,Sweden,North Ireland
+380,204,1948,4740048,1,Kronor,Sweden,North Ireland
+380,204,1949,4084025,1,Kronor,Sweden,North Ireland
+380,205,1912,56661,1,,Sweden,Ireland
+380,205,1913,13344,1,,Sweden,Ireland
+380,205,1914,51356,1,,Sweden,Ireland
+380,205,1915,2069,1,,Sweden,Ireland
+380,205,1916,0,1,,Sweden,Ireland
+380,205,1917,0,1,,Sweden,Ireland
+380,205,1918,0,1,,Sweden,Ireland
+380,205,1919,0,1,,Sweden,Ireland
+380,205,1920,0,1,,Sweden,Ireland
+380,205,1921,0,1,,Sweden,Ireland
+380,205,1922,0,1,,Sweden,Ireland
+380,205,1923,0,1,,Sweden,Ireland
+380,205,1924,30558,1,Couronnes,Sweden,Ireland
+380,205,1925,48547,1,Couronnes,Sweden,Ireland
+380,205,1926,57239,1,Couronnes,Sweden,Ireland
+380,205,1927,183953,1,Couronnes,Sweden,Ireland
+380,205,1928,148144,1,Couronnes,Sweden,Ireland
+380,205,1929,270136,1,Couronnes,Sweden,Ireland
+380,205,1930,353591,1,Couronnes,Sweden,Ireland
+380,205,1931,322185,1,Couronnes,Sweden,Ireland
+380,205,1932,462053,1,Couronnes,Sweden,Ireland
+380,205,1933,261261,1,Couronnes,Sweden,Ireland
+380,205,1934,178496,1,Couronnes,Sweden,Ireland
+380,205,1935,368264,1,Couronnes,Sweden,Ireland
+380,205,1936,461524,1,Couronnes,Sweden,Ireland
+380,205,1937,476060,1,Couronnes,Sweden,Ireland
+380,205,1938,274890,1,Couronnes,Sweden,Ireland
+380,205,1939,513872,1,Couronnes,Sweden,Ireland
+380,205,1940,7862,1,Couronnes,Sweden,Ireland
+380,205,1941,34450,1,Couronnes,Sweden,Ireland
+380,205,1942,0,1,Couronnes,Sweden,Ireland
+380,205,1943,202719,1,Couronnes,Sweden,Ireland
+380,205,1944,7617,1,Couronnes,Sweden,Ireland
+380,205,1945,122173,1,Couronnes,Sweden,Ireland
+380,205,1946,837177,1,Couronnes,Sweden,Ireland
+380,205,1947,508380,1,Couronnes,Sweden,Ireland
+380,205,1948,1337585,1,Kronor,Sweden,Ireland
+380,205,1949,4866265,1,Kronor,Sweden,Ireland
+380,210,1912,19815917,1,,Sweden,Netherlands
+380,210,1913,20883685,1,,Sweden,Netherlands
+380,210,1914,19302515,1,,Sweden,Netherlands
+380,210,1915,27481578,1,,Sweden,Netherlands
+380,210,1916,21656822,1,,Sweden,Netherlands
+380,210,1917,23096116,1,,Sweden,Netherlands
+380,210,1918,42030306,1,,Sweden,Netherlands
+380,210,1919,59939818,1,,Sweden,Netherlands
+380,210,1920,77649869,1,,Sweden,Netherlands
+380,210,1921,45446137,1,,Sweden,Netherlands
+380,210,1922,39118563,1,,Sweden,Netherlands
+380,210,1923,51731109,1,,Sweden,Netherlands
+380,210,1924,56592833,1,Couronnes,Sweden,Netherlands
+380,210,1925,59021180,1,Couronnes,Sweden,Netherlands
+380,210,1926,58977478,1,Couronnes,Sweden,Netherlands
+380,210,1927,58230348,1,Couronnes,Sweden,Netherlands
+380,210,1928,69278360,1,Couronnes,Sweden,Netherlands
+380,210,1929,73768931,1,Couronnes,Sweden,Netherlands
+380,210,1930,66341294,1,Couronnes,Sweden,Netherlands
+380,210,1931,60560924,1,Couronnes,Sweden,Netherlands
+380,210,1932,47100800,1,Couronnes,Sweden,Netherlands
+380,210,1933,47547377,1,Couronnes,Sweden,Netherlands
+380,210,1934,62949329,1,Couronnes,Sweden,Netherlands
+380,210,1935,73089203,1,Couronnes,Sweden,Netherlands
+380,210,1936,61492424,1,Couronnes,Sweden,Netherlands
+380,210,1937,74307310,1,Couronnes,Sweden,Netherlands
+380,210,1938,81038498,1,Couronnes,Sweden,Netherlands
+380,210,1939,99911617,1,Couronnes,Sweden,Netherlands
+380,210,1940,37921247,1,Couronnes,Sweden,Netherlands
+380,210,1941,28440618,1,Couronnes,Sweden,Netherlands
+380,210,1942,25357461,1,Couronnes,Sweden,Netherlands
+380,210,1943,21137166,1,Couronnes,Sweden,Netherlands
+380,210,1944,17363906,1,Couronnes,Sweden,Netherlands
+380,210,1945,18696675,1,Couronnes,Sweden,Netherlands
+380,210,1946,95513747,1,Couronnes,Sweden,Netherlands
+380,210,1947,172996163,1,Couronnes,Sweden,Netherlands
+380,210,1948,252048203,1,Kronor,Sweden,Netherlands
+380,210,1949,213075238,1,Kronor,Sweden,Netherlands
+380,211,1912,13113540,1,,Sweden,Belgium
+380,211,1913,13398000,1,,Sweden,Belgium
+380,211,1914,8935923,1,,Sweden,Belgium
+380,211,1915,914370,1,,Sweden,Belgium
+380,211,1916,1577527,1,,Sweden,Belgium
+380,211,1917,735761,1,,Sweden,Belgium
+380,211,1918,366333,1,,Sweden,Belgium
+380,211,1919,7494464,1,,Sweden,Belgium
+380,211,1920,31039059,1,,Sweden,Belgium
+380,211,1921,13471270,1,,Sweden,Belgium
+380,211,1922,13966619,1,,Sweden,Belgium
+380,211,1923,23159517,1,,Sweden,Belgium
+380,211,1924,25179718,1,Couronnes,Sweden,Belgium
+380,211,1925,27596237,1,Couronnes,Sweden,Belgium
+380,211,1926,29615344,1,Couronnes,Sweden,Belgium
+380,211,1927,29855218,1,Couronnes,Sweden,Belgium
+380,211,1928,34713418,1,Couronnes,Sweden,Belgium
+380,211,1929,32743433,1,Couronnes,Sweden,Belgium
+380,211,1930,31884888,1,Couronnes,Sweden,Belgium
+380,211,1931,31468708,1,Couronnes,Sweden,Belgium
+380,211,1932,25778961,1,Couronnes,Sweden,Belgium
+380,211,1933,25477401,1,Couronnes,Sweden,Belgium
+380,211,1934,33839406,1,Couronnes,Sweden,Belgium
+380,211,1935,42780267,1,Couronnes,Sweden,Belgium
+380,211,1936,57978403,1,Couronnes,Sweden,Belgium
+380,211,1937,85624638,1,Couronnes,Sweden,Belgium
+380,211,1938,71269191,1,Couronnes,Sweden,Belgium
+380,211,1939,108665542,1,Couronnes,Sweden,Belgium
+380,211,1940,41188591,1,Couronnes,Sweden,Belgium
+380,211,1941,14706037,1,Couronnes,Sweden,Belgium
+380,211,1942,11775478,1,Couronnes,Sweden,Belgium
+380,211,1943,14196005,1,Couronnes,Sweden,Belgium
+380,211,1944,6190408,1,Couronnes,Sweden,Belgium
+380,211,1945,16989874,1,Couronnes,Sweden,Belgium
+380,211,1946,141159503,1,Couronnes,Sweden,Belgium
+380,211,1947,273918668,1,Couronnes,Sweden,Belgium
+380,211,1948,289917555,1,Kronor,Sweden,Belgium
+380,211,1949,239828194,1,Kronor,Sweden,Belgium
+380,212,1912,0,1,,Sweden,Luxembourg
+380,212,1913,0,1,,Sweden,Luxembourg
+380,212,1914,0,1,,Sweden,Luxembourg
+380,212,1915,3,1,,Sweden,Luxembourg
+380,212,1916,0,1,,Sweden,Luxembourg
+380,212,1917,0,1,,Sweden,Luxembourg
+380,212,1918,0,1,,Sweden,Luxembourg
+380,212,1919,0,1,,Sweden,Luxembourg
+380,212,1920,0,1,,Sweden,Luxembourg
+380,212,1921,0,1,,Sweden,Luxembourg
+380,212,1922,0,1,,Sweden,Luxembourg
+380,212,1923,0,1,,Sweden,Luxembourg
+380,212,1924,240663,1,Couronnes,Sweden,Luxembourg
+380,212,1925,1801137,1,Couronnes,Sweden,Luxembourg
+380,212,1926,2371067,1,Couronnes,Sweden,Luxembourg
+380,212,1927,4429154,1,Couronnes,Sweden,Luxembourg
+380,212,1928,3483846,1,Couronnes,Sweden,Luxembourg
+380,212,1929,5186410,1,Couronnes,Sweden,Luxembourg
+380,212,1930,5710024,1,Couronnes,Sweden,Luxembourg
+380,212,1931,4569708,1,Couronnes,Sweden,Luxembourg
+380,212,1932,3473536,1,Couronnes,Sweden,Luxembourg
+380,212,1933,2341514,1,Couronnes,Sweden,Luxembourg
+380,212,1934,6835978,1,Couronnes,Sweden,Luxembourg
+380,212,1935,6568446,1,Couronnes,Sweden,Luxembourg
+380,212,1936,12543123,1,Couronnes,Sweden,Luxembourg
+380,212,1937,19610045,1,Couronnes,Sweden,Luxembourg
+380,212,1938,13569249,1,Couronnes,Sweden,Luxembourg
+380,212,1939,21200291,1,Couronnes,Sweden,Luxembourg
+380,212,1940,5036249,1,Couronnes,Sweden,Luxembourg
+380,212,1941,749764,1,Couronnes,Sweden,Luxembourg
+380,212,1942,1198595,1,Couronnes,Sweden,Luxembourg
+380,212,1943,1442443,1,Couronnes,Sweden,Luxembourg
+380,212,1944,2229422,1,Couronnes,Sweden,Luxembourg
+380,212,1945,496298,1,Couronnes,Sweden,Luxembourg
+380,212,1946,29137937,1,Couronnes,Sweden,Luxembourg
+380,212,1947,28715153,1,Couronnes,Sweden,Luxembourg
+380,212,1948,44153322,1,Kronor,Sweden,Luxembourg
+380,212,1949,38925315,1,Kronor,Sweden,Luxembourg
+380,220,1912,33173946,1,,Sweden,France
+380,220,1913,35283883,1,,Sweden,France
+380,220,1914,28879766,1,,Sweden,France
+380,220,1915,23796321,1,,Sweden,France
+380,220,1916,23562469,1,,Sweden,France
+380,220,1917,15705787,1,,Sweden,France
+380,220,1918,13445076,1,,Sweden,France
+380,220,1919,62555258,1,,Sweden,France
+380,220,1920,96152347,1,,Sweden,France
+380,220,1921,44893686,1,,Sweden,France
+380,220,1922,32366259,1,,Sweden,France
+380,220,1923,38444129,1,,Sweden,France
+380,220,1924,44778271,1,Couronnes,Sweden,France
+380,220,1925,49118067,1,Couronnes,Sweden,France
+380,220,1926,54741103,1,Couronnes,Sweden,France
+380,220,1927,53655019,1,Couronnes,Sweden,France
+380,220,1928,59054846,1,Couronnes,Sweden,France
+380,220,1929,52368625,1,Couronnes,Sweden,France
+380,220,1930,56469805,1,Couronnes,Sweden,France
+380,220,1931,48712531,1,Couronnes,Sweden,France
+380,220,1932,30201945,1,Couronnes,Sweden,France
+380,220,1933,29637094,1,Couronnes,Sweden,France
+380,220,1934,38798468,1,Couronnes,Sweden,France
+380,220,1935,49157989,1,Couronnes,Sweden,France
+380,220,1936,51928959,1,Couronnes,Sweden,France
+380,220,1937,65451003,1,Couronnes,Sweden,France
+380,220,1938,63408269,1,Couronnes,Sweden,France
+380,220,1939,81553092,1,Couronnes,Sweden,France
+380,220,1940,24551736,1,Couronnes,Sweden,France
+380,220,1941,9279981,1,Couronnes,Sweden,France
+380,220,1942,7456808,1,Couronnes,Sweden,France
+380,220,1943,9346877,1,Couronnes,Sweden,France
+380,220,1944,6478668,1,Couronnes,Sweden,France
+380,220,1945,6215471,1,Couronnes,Sweden,France
+380,220,1946,113528808,1,Couronnes,Sweden,France
+380,220,1947,189147183,1,Couronnes,Sweden,France
+380,220,1948,256812398,1,Kronor,Sweden,France
+380,220,1949,238028944,1,Kronor,Sweden,France
+380,225,1912,3316295,1,,Sweden,Switzerland
+380,225,1913,4568570,1,,Sweden,Switzerland
+380,225,1914,3799027,1,,Sweden,Switzerland
+380,225,1915,6129605,1,,Sweden,Switzerland
+380,225,1916,12539848,1,,Sweden,Switzerland
+380,225,1917,24181186,1,,Sweden,Switzerland
+380,225,1918,24549855,1,,Sweden,Switzerland
+380,225,1919,88986000,1,,Sweden,Switzerland
+380,225,1920,44167583,1,,Sweden,Switzerland
+380,225,1921,11637086,1,,Sweden,Switzerland
+380,225,1922,10732356,1,,Sweden,Switzerland
+380,225,1923,12012753,1,,Sweden,Switzerland
+380,225,1924,12900348,1,Couronnes,Sweden,Switzerland
+380,225,1925,12315530,1,Couronnes,Sweden,Switzerland
+380,225,1926,14141316,1,Couronnes,Sweden,Switzerland
+380,225,1927,16287190,1,Couronnes,Sweden,Switzerland
+380,225,1928,17854816,1,Couronnes,Sweden,Switzerland
+380,225,1929,21726162,1,Couronnes,Sweden,Switzerland
+380,225,1930,24499723,1,Couronnes,Sweden,Switzerland
+380,225,1931,20695401,1,Couronnes,Sweden,Switzerland
+380,225,1932,13438192,1,Couronnes,Sweden,Switzerland
+380,225,1933,14303718,1,Couronnes,Sweden,Switzerland
+380,225,1934,17035280,1,Couronnes,Sweden,Switzerland
+380,225,1935,22811083,1,Couronnes,Sweden,Switzerland
+380,225,1936,22443679,1,Couronnes,Sweden,Switzerland
+380,225,1937,27412215,1,Couronnes,Sweden,Switzerland
+380,225,1938,36516678,1,Couronnes,Sweden,Switzerland
+380,225,1939,45846795,1,Couronnes,Sweden,Switzerland
+380,225,1940,59482460,1,Couronnes,Sweden,Switzerland
+380,225,1941,73022771,1,Couronnes,Sweden,Switzerland
+380,225,1942,91233581,1,Couronnes,Sweden,Switzerland
+380,225,1943,109772513,1,Couronnes,Sweden,Switzerland
+380,225,1944,138605596,1,Couronnes,Sweden,Switzerland
+380,225,1945,123704855,1,Couronnes,Sweden,Switzerland
+380,225,1946,229805264,1,Couronnes,Sweden,Switzerland
+380,225,1947,208309041,1,Couronnes,Sweden,Switzerland
+380,225,1948,86525419,1,Kronor,Sweden,Switzerland
+380,225,1949,66271241,1,Kronor,Sweden,Switzerland
+380,230,1912,3731409,1,,Sweden,Spain
+380,230,1913,3966114,1,,Sweden,Spain
+380,230,1914,3027573,1,,Sweden,Spain
+380,230,1915,4618585,1,,Sweden,Spain
+380,230,1916,3831181,1,,Sweden,Spain
+380,230,1917,2262261,1,,Sweden,Spain
+380,230,1918,2285676,1,,Sweden,Spain
+380,230,1919,34389176,1,,Sweden,Spain
+380,230,1920,19546036,1,,Sweden,Spain
+380,230,1921,9545040,1,,Sweden,Spain
+380,230,1922,6853750,1,,Sweden,Spain
+380,230,1923,5894163,1,,Sweden,Spain
+380,230,1924,8179060,1,Couronnes,Sweden,Spain
+380,230,1925,8184864,1,Couronnes,Sweden,Spain
+380,230,1926,8835046,1,Couronnes,Sweden,Spain
+380,230,1927,8419932,1,Couronnes,Sweden,Spain
+380,230,1928,9887333,1,Couronnes,Sweden,Spain
+380,230,1929,11285762,1,Couronnes,Sweden,Spain
+380,230,1930,12273499,1,Couronnes,Sweden,Spain
+380,230,1931,11989880,1,Couronnes,Sweden,Spain
+380,230,1932,15205478,1,Couronnes,Sweden,Spain
+380,230,1933,12442824,1,Couronnes,Sweden,Spain
+380,230,1934,14115795,1,Couronnes,Sweden,Spain
+380,230,1935,14778389,1,Couronnes,Sweden,Spain
+380,230,1936,14863411,1,Couronnes,Sweden,Spain
+380,230,1937,7440528,1,Couronnes,Sweden,Spain
+380,230,1938,2523444,1,Couronnes,Sweden,Spain
+380,230,1939,5247829,1,Couronnes,Sweden,Spain
+380,230,1940,5649157,1,Couronnes,Sweden,Spain
+380,230,1941,3261509,1,Couronnes,Sweden,Spain
+380,230,1942,11582096,1,Couronnes,Sweden,Spain
+380,230,1943,46765415,1,Couronnes,Sweden,Spain
+380,230,1944,65891387,1,Couronnes,Sweden,Spain
+380,230,1945,43881147,1,Couronnes,Sweden,Spain
+380,230,1946,55036000,1,Couronnes,Sweden,Spain
+380,230,1947,38903542,1,Couronnes,Sweden,Spain
+380,230,1948,52762347,1,Kronor,Sweden,Spain
+380,230,1949,58859802,1,Kronor,Sweden,Spain
+380,235,1912,2418263,1,,Sweden,Portugal
+380,235,1913,2568772,1,,Sweden,Portugal
+380,235,1914,1923813,1,,Sweden,Portugal
+380,235,1915,3098080,1,,Sweden,Portugal
+380,235,1916,3089957,1,,Sweden,Portugal
+380,235,1917,2201318,1,,Sweden,Portugal
+380,235,1918,4149355,1,,Sweden,Portugal
+380,235,1919,13286079,1,,Sweden,Portugal
+380,235,1920,10439853,1,,Sweden,Portugal
+380,235,1921,6083139,1,,Sweden,Portugal
+380,235,1922,4154161,1,,Sweden,Portugal
+380,235,1923,4107456,1,,Sweden,Portugal
+380,235,1924,4637364,1,Couronnes,Sweden,Portugal
+380,235,1925,4954988,1,Couronnes,Sweden,Portugal
+380,235,1926,5526678,1,Couronnes,Sweden,Portugal
+380,235,1927,6004036,1,Couronnes,Sweden,Portugal
+380,235,1928,5715345,1,Couronnes,Sweden,Portugal
+380,235,1929,6592347,1,Couronnes,Sweden,Portugal
+380,235,1930,6886056,1,Couronnes,Sweden,Portugal
+380,235,1931,7244618,1,Couronnes,Sweden,Portugal
+380,235,1932,4674724,1,Couronnes,Sweden,Portugal
+380,235,1933,3319514,1,Couronnes,Sweden,Portugal
+380,235,1934,4013085,1,Couronnes,Sweden,Portugal
+380,235,1935,4586380,1,Couronnes,Sweden,Portugal
+380,235,1936,5444017,1,Couronnes,Sweden,Portugal
+380,235,1937,6982371,1,Couronnes,Sweden,Portugal
+380,235,1938,7599600,1,Couronnes,Sweden,Portugal
+380,235,1939,8255577,1,Couronnes,Sweden,Portugal
+380,235,1940,1870718,1,Couronnes,Sweden,Portugal
+380,235,1941,5263449,1,Couronnes,Sweden,Portugal
+380,235,1942,16267080,1,Couronnes,Sweden,Portugal
+380,235,1943,19706458,1,Couronnes,Sweden,Portugal
+380,235,1944,13268393,1,Couronnes,Sweden,Portugal
+380,235,1945,21743378,1,Couronnes,Sweden,Portugal
+380,235,1946,27438411,1,Couronnes,Sweden,Portugal
+380,235,1947,27126452,1,Couronnes,Sweden,Portugal
+380,235,1948,18751549,1,Kronor,Sweden,Portugal
+380,235,1949,20567793,1,Kronor,Sweden,Portugal
+380,255,1912,273857398,1,,Sweden,Germany
+380,255,1913,289902490,1,,Sweden,Germany
+380,255,1914,238549542,1,,Sweden,Germany
+380,255,1915,251498403,1,,Sweden,Germany
+380,255,1916,420173173,1,,Sweden,Germany
+380,255,1917,288227973,1,,Sweden,Germany
+380,255,1918,447943569,1,,Sweden,Germany
+380,255,1919,269329686,1,,Sweden,Germany
+380,255,1920,500134884,1,,Sweden,Germany
+380,255,1921,324566016,1,,Sweden,Germany
+380,255,1922,314101840,1,,Sweden,Germany
+380,255,1923,342020278,1,,Sweden,Germany
+380,255,1924,352786973,1,Couronnes,Sweden,Germany
+380,255,1925,377732308,1,Couronnes,Sweden,Germany
+380,255,1926,459657791,1,Couronnes,Sweden,Germany
+380,255,1927,484980700,1,Couronnes,Sweden,Germany
+380,255,1928,530511174,1,Couronnes,Sweden,Germany
+380,255,1929,548126146,1,Couronnes,Sweden,Germany
+380,255,1930,532956323,1,Couronnes,Sweden,Germany
+380,255,1931,472464490,1,Couronnes,Sweden,Germany
+380,255,1932,338569187,1,Couronnes,Sweden,Germany
+380,255,1933,319760303,1,Couronnes,Sweden,Germany
+380,255,1934,350468643,1,Couronnes,Sweden,Germany
+380,255,1935,357577860,1,Couronnes,Sweden,Germany
+380,255,1936,357479776,1,Couronnes,Sweden,Germany
+380,255,1937,436841822,1,Couronnes,Sweden,Germany
+380,255,1938,453898988,1,Couronnes,Sweden,Germany
+380,255,1939,619800427,1,Couronnes,Sweden,Germany
+380,255,1940,769052104,1,Couronnes,Sweden,Germany
+380,255,1941,870179861,1,Couronnes,Sweden,Germany
+380,255,1942,808336270,1,Couronnes,Sweden,Germany
+380,255,1943,894304196,1,Couronnes,Sweden,Germany
+380,255,1944,798466066,1,Couronnes,Sweden,Germany
+380,255,1945,88342064,1,Couronnes,Sweden,Germany
+380,255,1946,38074004,1,Couronnes,Sweden,Germany
+380,255,1947,110211031,1,Couronnes,Sweden,Germany
+380,255,1948,0,1,Kronor,Sweden,Germany
+380,255,1949,0,1,Kronor,Sweden,Germany
+380,290,1912,0,1,,Sweden,Poland
+380,290,1913,0,1,,Sweden,Poland
+380,290,1914,0,1,,Sweden,Poland
+380,290,1915,0,1,,Sweden,Poland
+380,290,1916,0,1,,Sweden,Poland
+380,290,1917,0,1,,Sweden,Poland
+380,290,1918,0,1,,Sweden,Poland
+380,290,1919,614582,1,,Sweden,Poland
+380,290,1920,1186056,1,,Sweden,Poland
+380,290,1921,648807,1,,Sweden,Poland
+380,290,1922,662662,1,,Sweden,Poland
+380,290,1923,2271862,1,,Sweden,Poland
+380,290,1924,2424695,1,Couronnes,Sweden,Poland
+380,290,1925,2545283,1,Couronnes,Sweden,Poland
+380,290,1926,28675757,1,Couronnes,Sweden,Poland
+380,290,1927,37486823,1,Couronnes,Sweden,Poland
+380,290,1928,29356531,1,Couronnes,Sweden,Poland
+380,290,1929,33095247,1,Couronnes,Sweden,Poland
+380,290,1930,40460719,1,Couronnes,Sweden,Poland
+380,290,1931,43467704,1,Couronnes,Sweden,Poland
+380,290,1932,41796775,1,Couronnes,Sweden,Poland
+380,290,1933,36426970,1,Couronnes,Sweden,Poland
+380,290,1934,38827230,1,Couronnes,Sweden,Poland
+380,290,1935,46086939,1,Couronnes,Sweden,Poland
+380,290,1936,59134983,1,Couronnes,Sweden,Poland
+380,290,1937,81427726,1,Couronnes,Sweden,Poland
+380,290,1938,71901496,1,Couronnes,Sweden,Poland
+380,290,1939,55412922,1,Couronnes,Sweden,Poland
+380,290,1940,5605254,1,Couronnes,Sweden,Poland
+380,290,1941,520440,1,Couronnes,Sweden,Poland
+380,290,1942,929595,1,Couronnes,Sweden,Poland
+380,290,1943,1791899,1,Couronnes,Sweden,Poland
+380,290,1944,1968044,1,Couronnes,Sweden,Poland
+380,290,1945,8582199,1,Couronnes,Sweden,Poland
+380,290,1946,124045689,1,Couronnes,Sweden,Poland
+380,290,1947,173434003,1,Couronnes,Sweden,Poland
+380,290,1948,290000316,1,Kronor,Sweden,Poland
+380,290,1949,207170006,1,Kronor,Sweden,Poland
+380,291,1912,0,1,,Sweden,Danzig
+380,291,1913,0,1,,Sweden,Danzig
+380,291,1914,0,1,,Sweden,Danzig
+380,291,1915,0,1,,Sweden,Danzig
+380,291,1916,0,1,,Sweden,Danzig
+380,291,1917,0,1,,Sweden,Danzig
+380,291,1918,0,1,,Sweden,Danzig
+380,291,1919,0,1,,Sweden,Danzig
+380,291,1920,0,1,,Sweden,Danzig
+380,291,1921,0,1,,Sweden,Danzig
+380,291,1922,0,1,,Sweden,Danzig
+380,291,1923,0,1,,Sweden,Danzig
+380,291,1924,2420664,1,Couronnes,Sweden,Danzig
+380,291,1925,2476838,1,Couronnes,Sweden,Danzig
+380,291,1926,8564033,1,Couronnes,Sweden,Danzig
+380,291,1927,3459669,1,Couronnes,Sweden,Danzig
+380,291,1928,2228936,1,Couronnes,Sweden,Danzig
+380,291,1929,3284299,1,Couronnes,Sweden,Danzig
+380,291,1930,2760332,1,Couronnes,Sweden,Danzig
+380,291,1931,2283187,1,Couronnes,Sweden,Danzig
+380,291,1932,1697630,1,Couronnes,Sweden,Danzig
+380,291,1933,1231580,1,Couronnes,Sweden,Danzig
+380,291,1934,1739430,1,Couronnes,Sweden,Danzig
+380,291,1935,2634764,1,Couronnes,Sweden,Danzig
+380,291,1936,573861,1,Couronnes,Sweden,Danzig
+380,291,1937,889348,1,Couronnes,Sweden,Danzig
+380,291,1938,497684,1,Couronnes,Sweden,Danzig
+380,291,1939,262160,1,Couronnes,Sweden,Danzig
+380,291,1940,42754,1,Couronnes,Sweden,Danzig
+380,291,1941,123231,1,Couronnes,Sweden,Danzig
+380,291,1942,0,1,Couronnes,Sweden,Danzig
+380,291,1943,0,1,Couronnes,Sweden,Danzig
+380,291,1944,310,1,Couronnes,Sweden,Danzig
+380,291,1945,0,1,Couronnes,Sweden,Danzig
+380,291,1946,0,1,Couronnes,Sweden,Danzig
+380,291,1947,0,1,Couronnes,Sweden,Danzig
+380,291,1948,0,1,Kronor,Sweden,Danzig
+380,291,1949,0,1,Kronor,Sweden,Danzig
+380,305,1912,3291919,1,,Sweden,Austria
+380,305,1913,4239321,1,,Sweden,Austria
+380,305,1914,3373950,1,,Sweden,Austria
+380,305,1915,2579976,1,,Sweden,Austria
+380,305,1916,4306320,1,,Sweden,Austria
+380,305,1917,9306133,1,,Sweden,Austria
+380,305,1918,44304971,1,,Sweden,Austria
+380,305,1919,4751900,1,,Sweden,Austria
+380,305,1920,6262521,1,,Sweden,Austria
+380,305,1921,3746260,1,,Sweden,Austria
+380,305,1922,4825918,1,,Sweden,Austria
+380,305,1923,4531470,1,,Sweden,Austria
+380,305,1924,3664132,1,Couronnes,Sweden,Austria
+380,305,1925,3488596,1,Couronnes,Sweden,Austria
+380,305,1926,4411539,1,Couronnes,Sweden,Austria
+380,305,1927,5681403,1,Couronnes,Sweden,Austria
+380,305,1928,6804972,1,Couronnes,Sweden,Austria
+380,305,1929,8684579,1,Couronnes,Sweden,Austria
+380,305,1930,9486538,1,Couronnes,Sweden,Austria
+380,305,1931,8923610,1,Couronnes,Sweden,Austria
+380,305,1932,4571845,1,Couronnes,Sweden,Austria
+380,305,1933,4041852,1,Couronnes,Sweden,Austria
+380,305,1934,6371322,1,Couronnes,Sweden,Austria
+380,305,1935,9058317,1,Couronnes,Sweden,Austria
+380,305,1936,10735907,1,Couronnes,Sweden,Austria
+380,305,1937,14383421,1,Couronnes,Sweden,Austria
+380,305,1938,0,1,Couronnes,Sweden,Austria
+380,305,1939,0,1,Couronnes,Sweden,Austria
+380,305,1940,0,1,Couronnes,Sweden,Austria
+380,305,1941,0,1,Couronnes,Sweden,Austria
+380,305,1942,0,1,Couronnes,Sweden,Austria
+380,305,1943,0,1,Couronnes,Sweden,Austria
+380,305,1944,0,1,Couronnes,Sweden,Austria
+380,305,1945,35151,1,Couronnes,Sweden,Austria
+380,305,1946,3274525,1,Couronnes,Sweden,Austria
+380,305,1947,13532672,1,Couronnes,Sweden,Austria
+380,305,1948,26498016,1,Kronor,Sweden,Austria
+380,305,1949,21837768,1,Kronor,Sweden,Austria
+380,310,1912,357571,1,,Sweden,Hungary
+380,310,1913,319968,1,,Sweden,Hungary
+380,310,1914,161983,1,,Sweden,Hungary
+380,310,1915,151056,1,,Sweden,Hungary
+380,310,1916,318009,1,,Sweden,Hungary
+380,310,1917,139187,1,,Sweden,Hungary
+380,310,1918,2248747,1,,Sweden,Hungary
+380,310,1919,116838,1,,Sweden,Hungary
+380,310,1920,798903,1,,Sweden,Hungary
+380,310,1921,160478,1,,Sweden,Hungary
+380,310,1922,316441,1,,Sweden,Hungary
+380,310,1923,276928,1,,Sweden,Hungary
+380,310,1924,407052,1,Couronnes,Sweden,Hungary
+380,310,1925,377807,1,Couronnes,Sweden,Hungary
+380,310,1926,470583,1,Couronnes,Sweden,Hungary
+380,310,1927,525633,1,Couronnes,Sweden,Hungary
+380,310,1928,1190118,1,Couronnes,Sweden,Hungary
+380,310,1929,2179010,1,Couronnes,Sweden,Hungary
+380,310,1930,1981628,1,Couronnes,Sweden,Hungary
+380,310,1931,1513336,1,Couronnes,Sweden,Hungary
+380,310,1932,1512900,1,Couronnes,Sweden,Hungary
+380,310,1933,1833112,1,Couronnes,Sweden,Hungary
+380,310,1934,2352139,1,Couronnes,Sweden,Hungary
+380,310,1935,5084955,1,Couronnes,Sweden,Hungary
+380,310,1936,7062631,1,Couronnes,Sweden,Hungary
+380,310,1937,10277343,1,Couronnes,Sweden,Hungary
+380,310,1938,15218367,1,Couronnes,Sweden,Hungary
+380,310,1939,16969218,1,Couronnes,Sweden,Hungary
+380,310,1940,13647669,1,Couronnes,Sweden,Hungary
+380,310,1941,23476766,1,Couronnes,Sweden,Hungary
+380,310,1942,33487494,1,Couronnes,Sweden,Hungary
+380,310,1943,38695274,1,Couronnes,Sweden,Hungary
+380,310,1944,20307810,1,Couronnes,Sweden,Hungary
+380,310,1945,941180,1,Couronnes,Sweden,Hungary
+380,310,1946,5588164,1,Couronnes,Sweden,Hungary
+380,310,1947,20666584,1,Couronnes,Sweden,Hungary
+380,310,1948,18751784,1,Kronor,Sweden,Hungary
+380,310,1949,20615380,1,Kronor,Sweden,Hungary
+380,315,1912,0,1,,Sweden,Czechoslovakia
+380,315,1913,0,1,,Sweden,Czechoslovakia
+380,315,1914,0,1,,Sweden,Czechoslovakia
+380,315,1915,0,1,,Sweden,Czechoslovakia
+380,315,1916,0,1,,Sweden,Czechoslovakia
+380,315,1917,0,1,,Sweden,Czechoslovakia
+380,315,1918,0,1,,Sweden,Czechoslovakia
+380,315,1919,1204730,1,,Sweden,Czechoslovakia
+380,315,1920,5286203,1,,Sweden,Czechoslovakia
+380,315,1921,5148627,1,,Sweden,Czechoslovakia
+380,315,1922,5821373,1,,Sweden,Czechoslovakia
+380,315,1923,8769247,1,,Sweden,Czechoslovakia
+380,315,1924,12826726,1,Couronnes,Sweden,Czechoslovakia
+380,315,1925,11596998,1,Couronnes,Sweden,Czechoslovakia
+380,315,1926,12586668,1,Couronnes,Sweden,Czechoslovakia
+380,315,1927,17698383,1,Couronnes,Sweden,Czechoslovakia
+380,315,1928,25171018,1,Couronnes,Sweden,Czechoslovakia
+380,315,1929,23785540,1,Couronnes,Sweden,Czechoslovakia
+380,315,1930,26184917,1,Couronnes,Sweden,Czechoslovakia
+380,315,1931,26790183,1,Couronnes,Sweden,Czechoslovakia
+380,315,1932,16055933,1,Couronnes,Sweden,Czechoslovakia
+380,315,1933,12743381,1,Couronnes,Sweden,Czechoslovakia
+380,315,1934,20299631,1,Couronnes,Sweden,Czechoslovakia
+380,315,1935,28664080,1,Couronnes,Sweden,Czechoslovakia
+380,315,1936,34902655,1,Couronnes,Sweden,Czechoslovakia
+380,315,1937,53763387,1,Couronnes,Sweden,Czechoslovakia
+380,315,1938,46056102,1,Couronnes,Sweden,Czechoslovakia
+380,315,1939,22911026,1,Couronnes,Sweden,Czechoslovakia
+380,315,1940,0,1,Couronnes,Sweden,Czechoslovakia
+380,315,1941,0,1,Couronnes,Sweden,Czechoslovakia
+380,315,1942,0,1,Couronnes,Sweden,Czechoslovakia
+380,315,1943,0,1,Couronnes,Sweden,Czechoslovakia
+380,315,1944,0,1,Couronnes,Sweden,Czechoslovakia
+380,315,1945,4922215,1,Couronnes,Sweden,Czechoslovakia
+380,315,1946,76981068,1,Couronnes,Sweden,Czechoslovakia
+380,315,1947,157189175,1,Couronnes,Sweden,Czechoslovakia
+380,315,1948,113125264,1,Kronor,Sweden,Czechoslovakia
+380,315,1949,103259437,1,Kronor,Sweden,Czechoslovakia
+380,316,1912,0,1,,Sweden,Czech Republic
+380,316,1913,0,1,,Sweden,Czech Republic
+380,316,1914,0,1,,Sweden,Czech Republic
+380,316,1915,0,1,,Sweden,Czech Republic
+380,316,1916,0,1,,Sweden,Czech Republic
+380,316,1917,0,1,,Sweden,Czech Republic
+380,316,1918,0,1,,Sweden,Czech Republic
+380,316,1919,0,1,,Sweden,Czech Republic
+380,316,1920,0,1,,Sweden,Czech Republic
+380,316,1921,0,1,,Sweden,Czech Republic
+380,316,1922,0,1,,Sweden,Czech Republic
+380,316,1923,0,1,,Sweden,Czech Republic
+380,316,1924,0,1,Couronnes,Sweden,Czech Republic
+380,316,1925,0,1,Couronnes,Sweden,Czech Republic
+380,316,1926,0,1,Couronnes,Sweden,Czech Republic
+380,316,1927,0,1,Couronnes,Sweden,Czech Republic
+380,316,1928,0,1,Couronnes,Sweden,Czech Republic
+380,316,1929,0,1,Couronnes,Sweden,Czech Republic
+380,316,1930,0,1,Couronnes,Sweden,Czech Republic
+380,316,1931,0,1,Couronnes,Sweden,Czech Republic
+380,316,1932,0,1,Couronnes,Sweden,Czech Republic
+380,316,1933,0,1,Couronnes,Sweden,Czech Republic
+380,316,1934,0,1,Couronnes,Sweden,Czech Republic
+380,316,1935,0,1,Couronnes,Sweden,Czech Republic
+380,316,1936,0,1,Couronnes,Sweden,Czech Republic
+380,316,1937,0,1,Couronnes,Sweden,Czech Republic
+380,316,1938,0,1,Couronnes,Sweden,Czech Republic
+380,316,1939,0,1,Couronnes,Sweden,Czech Republic
+380,316,1940,19642462,1,Couronnes,Sweden,Czech Republic
+380,316,1941,12103187,1,Couronnes,Sweden,Czech Republic
+380,316,1942,17187748,1,Couronnes,Sweden,Czech Republic
+380,316,1943,12719272,1,Couronnes,Sweden,Czech Republic
+380,316,1944,27345817,1,Couronnes,Sweden,Czech Republic
+380,316,1945,0,1,Couronnes,Sweden,Czech Republic
+380,316,1946,0,1,Couronnes,Sweden,Czech Republic
+380,316,1947,0,1,Couronnes,Sweden,Czech Republic
+380,316,1948,0,1,Kronor,Sweden,Czech Republic
+380,316,1949,0,1,Kronor,Sweden,Czech Republic
+380,317,1912,0,1,,Sweden,Slovakia
+380,317,1913,0,1,,Sweden,Slovakia
+380,317,1914,0,1,,Sweden,Slovakia
+380,317,1915,0,1,,Sweden,Slovakia
+380,317,1916,0,1,,Sweden,Slovakia
+380,317,1917,0,1,,Sweden,Slovakia
+380,317,1918,0,1,,Sweden,Slovakia
+380,317,1919,0,1,,Sweden,Slovakia
+380,317,1920,0,1,,Sweden,Slovakia
+380,317,1921,0,1,,Sweden,Slovakia
+380,317,1922,0,1,,Sweden,Slovakia
+380,317,1923,0,1,,Sweden,Slovakia
+380,317,1924,0,1,Couronnes,Sweden,Slovakia
+380,317,1925,0,1,Couronnes,Sweden,Slovakia
+380,317,1926,0,1,Couronnes,Sweden,Slovakia
+380,317,1927,0,1,Couronnes,Sweden,Slovakia
+380,317,1928,0,1,Couronnes,Sweden,Slovakia
+380,317,1929,0,1,Couronnes,Sweden,Slovakia
+380,317,1930,0,1,Couronnes,Sweden,Slovakia
+380,317,1931,0,1,Couronnes,Sweden,Slovakia
+380,317,1932,0,1,Couronnes,Sweden,Slovakia
+380,317,1933,0,1,Couronnes,Sweden,Slovakia
+380,317,1934,0,1,Couronnes,Sweden,Slovakia
+380,317,1935,0,1,Couronnes,Sweden,Slovakia
+380,317,1936,0,1,Couronnes,Sweden,Slovakia
+380,317,1937,0,1,Couronnes,Sweden,Slovakia
+380,317,1938,0,1,Couronnes,Sweden,Slovakia
+380,317,1939,0,1,Couronnes,Sweden,Slovakia
+380,317,1940,3940872,1,Couronnes,Sweden,Slovakia
+380,317,1941,10855884,1,Couronnes,Sweden,Slovakia
+380,317,1942,7813649,1,Couronnes,Sweden,Slovakia
+380,317,1943,7733307,1,Couronnes,Sweden,Slovakia
+380,317,1944,5616892,1,Couronnes,Sweden,Slovakia
+380,317,1945,0,1,Couronnes,Sweden,Slovakia
+380,317,1946,0,1,Couronnes,Sweden,Slovakia
+380,317,1947,0,1,Couronnes,Sweden,Slovakia
+380,317,1948,0,1,Kronor,Sweden,Slovakia
+380,317,1949,0,1,Kronor,Sweden,Slovakia
+380,325,1912,6329186,1,,Sweden,Italy
+380,325,1913,5682671,1,,Sweden,Italy
+380,325,1914,5836758,1,,Sweden,Italy
+380,325,1915,6942016,1,,Sweden,Italy
+380,325,1916,6498549,1,,Sweden,Italy
+380,325,1917,2282220,1,,Sweden,Italy
+380,325,1918,502620,1,,Sweden,Italy
+380,325,1919,11671276,1,,Sweden,Italy
+380,325,1920,18544627,1,,Sweden,Italy
+380,325,1921,10458660,1,,Sweden,Italy
+380,325,1922,9705763,1,,Sweden,Italy
+380,325,1923,10789978,1,,Sweden,Italy
+380,325,1924,14912968,1,Couronnes,Sweden,Italy
+380,325,1925,15101912,1,Couronnes,Sweden,Italy
+380,325,1926,20166227,1,Couronnes,Sweden,Italy
+380,325,1927,21441335,1,Couronnes,Sweden,Italy
+380,325,1928,19324711,1,Couronnes,Sweden,Italy
+380,325,1929,21224228,1,Couronnes,Sweden,Italy
+380,325,1930,19968251,1,Couronnes,Sweden,Italy
+380,325,1931,20680745,1,Couronnes,Sweden,Italy
+380,325,1932,19441155,1,Couronnes,Sweden,Italy
+380,325,1933,16905998,1,Couronnes,Sweden,Italy
+380,325,1934,18906093,1,Couronnes,Sweden,Italy
+380,325,1935,22861915,1,Couronnes,Sweden,Italy
+380,325,1936,8816196,1,Couronnes,Sweden,Italy
+380,325,1937,25899040,1,Couronnes,Sweden,Italy
+380,325,1938,30973890,1,Couronnes,Sweden,Italy
+380,325,1939,39318135,1,Couronnes,Sweden,Italy
+380,325,1940,102974790,1,Couronnes,Sweden,Italy
+380,325,1941,125587599,1,Couronnes,Sweden,Italy
+380,325,1942,127195961,1,Couronnes,Sweden,Italy
+380,325,1943,78892736,1,Couronnes,Sweden,Italy
+380,325,1944,9760838,1,Couronnes,Sweden,Italy
+380,325,1945,2319053,1,Couronnes,Sweden,Italy
+380,325,1946,100822761,1,Couronnes,Sweden,Italy
+380,325,1947,206459304,1,Couronnes,Sweden,Italy
+380,325,1948,168339562,1,Kronor,Sweden,Italy
+380,325,1949,135242379,1,Kronor,Sweden,Italy
+380,338,1912,0,1,,Sweden,Malta
+380,338,1913,0,1,,Sweden,Malta
+380,338,1914,0,1,,Sweden,Malta
+380,338,1915,97,1,,Sweden,Malta
+380,338,1916,0,1,,Sweden,Malta
+380,338,1917,0,1,,Sweden,Malta
+380,338,1918,0,1,,Sweden,Malta
+380,338,1919,0,1,,Sweden,Malta
+380,338,1920,0,1,,Sweden,Malta
+380,338,1921,0,1,,Sweden,Malta
+380,338,1922,0,1,,Sweden,Malta
+380,338,1923,0,1,,Sweden,Malta
+380,338,1924,85,1,Couronnes,Sweden,Malta
+380,338,1925,2633,1,Couronnes,Sweden,Malta
+380,338,1926,8121,1,Couronnes,Sweden,Malta
+380,338,1927,7256,1,Couronnes,Sweden,Malta
+380,338,1928,3500,1,Couronnes,Sweden,Malta
+380,338,1929,901,1,Couronnes,Sweden,Malta
+380,338,1930,1626,1,Couronnes,Sweden,Malta
+380,338,1931,2816,1,Couronnes,Sweden,Malta
+380,338,1932,2198,1,Couronnes,Sweden,Malta
+380,338,1933,10280,1,Couronnes,Sweden,Malta
+380,338,1934,30976,1,Couronnes,Sweden,Malta
+380,338,1935,39130,1,Couronnes,Sweden,Malta
+380,338,1936,29106,1,Couronnes,Sweden,Malta
+380,338,1937,78827,1,Couronnes,Sweden,Malta
+380,338,1938,28250,1,Couronnes,Sweden,Malta
+380,338,1939,0,1,Couronnes,Sweden,Malta
+380,338,1940,0,1,Couronnes,Sweden,Malta
+380,338,1941,0,1,Couronnes,Sweden,Malta
+380,338,1942,0,1,Couronnes,Sweden,Malta
+380,338,1943,0,1,Couronnes,Sweden,Malta
+380,338,1944,0,1,Couronnes,Sweden,Malta
+380,338,1945,0,1,Couronnes,Sweden,Malta
+380,338,1946,0,1,Couronnes,Sweden,Malta
+380,338,1947,0,1,Couronnes,Sweden,Malta
+380,338,1948,0,1,Kronor,Sweden,Malta
+380,338,1949,0,1,Kronor,Sweden,Malta
+380,339,1912,0,1,,Sweden,Albania
+380,339,1913,0,1,,Sweden,Albania
+380,339,1914,0,1,,Sweden,Albania
+380,339,1915,0,1,,Sweden,Albania
+380,339,1916,0,1,,Sweden,Albania
+380,339,1917,0,1,,Sweden,Albania
+380,339,1918,0,1,,Sweden,Albania
+380,339,1919,0,1,,Sweden,Albania
+380,339,1920,0,1,,Sweden,Albania
+380,339,1921,0,1,,Sweden,Albania
+380,339,1922,0,1,,Sweden,Albania
+380,339,1923,0,1,,Sweden,Albania
+380,339,1924,0,1,Couronnes,Sweden,Albania
+380,339,1925,0,1,Couronnes,Sweden,Albania
+380,339,1926,0,1,Couronnes,Sweden,Albania
+380,339,1927,0,1,Couronnes,Sweden,Albania
+380,339,1928,0,1,Couronnes,Sweden,Albania
+380,339,1929,0,1,Couronnes,Sweden,Albania
+380,339,1930,0,1,Couronnes,Sweden,Albania
+380,339,1931,0,1,Couronnes,Sweden,Albania
+380,339,1932,0,1,Couronnes,Sweden,Albania
+380,339,1933,0,1,Couronnes,Sweden,Albania
+380,339,1934,0,1,Couronnes,Sweden,Albania
+380,339,1935,0,1,Couronnes,Sweden,Albania
+380,339,1936,0,1,Couronnes,Sweden,Albania
+380,339,1937,0,1,Couronnes,Sweden,Albania
+380,339,1938,0,1,Couronnes,Sweden,Albania
+380,339,1939,556,1,Couronnes,Sweden,Albania
+380,339,1940,0,1,Couronnes,Sweden,Albania
+380,339,1941,0,1,Couronnes,Sweden,Albania
+380,339,1942,347,1,Couronnes,Sweden,Albania
+380,339,1943,0,1,Couronnes,Sweden,Albania
+380,339,1944,0,1,Couronnes,Sweden,Albania
+380,339,1945,0,1,Couronnes,Sweden,Albania
+380,339,1946,0,1,Couronnes,Sweden,Albania
+380,339,1947,0,1,Couronnes,Sweden,Albania
+380,339,1948,0,1,Kronor,Sweden,Albania
+380,339,1949,0,1,Kronor,Sweden,Albania
+380,345,1912,37979,1,,Sweden,Yugoslavia
+380,345,1913,17141,1,,Sweden,Yugoslavia
+380,345,1914,12148,1,,Sweden,Yugoslavia
+380,345,1915,7442,1,,Sweden,Yugoslavia
+380,345,1916,0,1,,Sweden,Yugoslavia
+380,345,1917,0,1,,Sweden,Yugoslavia
+380,345,1918,0,1,,Sweden,Yugoslavia
+380,345,1919,0,1,,Sweden,Yugoslavia
+380,345,1920,62755,1,,Sweden,Yugoslavia
+380,345,1921,48045,1,,Sweden,Yugoslavia
+380,345,1922,48732,1,,Sweden,Yugoslavia
+380,345,1923,129128,1,,Sweden,Yugoslavia
+380,345,1924,109093,1,Couronnes,Sweden,Yugoslavia
+380,345,1925,74252,1,Couronnes,Sweden,Yugoslavia
+380,345,1926,98124,1,Couronnes,Sweden,Yugoslavia
+380,345,1927,36970,1,Couronnes,Sweden,Yugoslavia
+380,345,1928,26900,1,Couronnes,Sweden,Yugoslavia
+380,345,1929,210148,1,Couronnes,Sweden,Yugoslavia
+380,345,1930,156736,1,Couronnes,Sweden,Yugoslavia
+380,345,1931,252040,1,Couronnes,Sweden,Yugoslavia
+380,345,1932,312956,1,Couronnes,Sweden,Yugoslavia
+380,345,1933,404690,1,Couronnes,Sweden,Yugoslavia
+380,345,1934,518118,1,Couronnes,Sweden,Yugoslavia
+380,345,1935,763915,1,Couronnes,Sweden,Yugoslavia
+380,345,1936,908289,1,Couronnes,Sweden,Yugoslavia
+380,345,1937,4384484,1,Couronnes,Sweden,Yugoslavia
+380,345,1938,3454418,1,Couronnes,Sweden,Yugoslavia
+380,345,1939,3441359,1,Couronnes,Sweden,Yugoslavia
+380,345,1940,7991659,1,Couronnes,Sweden,Yugoslavia
+380,345,1941,5592517,1,Couronnes,Sweden,Yugoslavia
+380,345,1942,579432,1,Couronnes,Sweden,Yugoslavia
+380,345,1943,155150,1,Couronnes,Sweden,Yugoslavia
+380,345,1944,62407,1,Couronnes,Sweden,Yugoslavia
+380,345,1945,241,1,Couronnes,Sweden,Yugoslavia
+380,345,1946,533575,1,Couronnes,Sweden,Yugoslavia
+380,345,1947,6737705,1,Couronnes,Sweden,Yugoslavia
+380,345,1948,28025542,1,Kronor,Sweden,Yugoslavia
+380,345,1949,26556011,1,Kronor,Sweden,Yugoslavia
+380,350,1912,98053,1,,Sweden,Greece
+380,350,1913,343562,1,,Sweden,Greece
+380,350,1914,449230,1,,Sweden,Greece
+380,350,1915,1246995,1,,Sweden,Greece
+380,350,1916,565978,1,,Sweden,Greece
+380,350,1917,946061,1,,Sweden,Greece
+380,350,1918,108674,1,,Sweden,Greece
+380,350,1919,1359858,1,,Sweden,Greece
+380,350,1920,2698153,1,,Sweden,Greece
+380,350,1921,3220943,1,,Sweden,Greece
+380,350,1922,3546130,1,,Sweden,Greece
+380,350,1923,3288562,1,,Sweden,Greece
+380,350,1924,5822177,1,Couronnes,Sweden,Greece
+380,350,1925,6029022,1,Couronnes,Sweden,Greece
+380,350,1926,6880508,1,Couronnes,Sweden,Greece
+380,350,1927,6726810,1,Couronnes,Sweden,Greece
+380,350,1928,3385456,1,Couronnes,Sweden,Greece
+380,350,1929,12750977,1,Couronnes,Sweden,Greece
+380,350,1930,6103474,1,Couronnes,Sweden,Greece
+380,350,1931,5143298,1,Couronnes,Sweden,Greece
+380,350,1932,6758689,1,Couronnes,Sweden,Greece
+380,350,1933,5508559,1,Couronnes,Sweden,Greece
+380,350,1934,5165666,1,Couronnes,Sweden,Greece
+380,350,1935,14602106,1,Couronnes,Sweden,Greece
+380,350,1936,3010295,1,Couronnes,Sweden,Greece
+380,350,1937,11576811,1,Couronnes,Sweden,Greece
+380,350,1938,4449782,1,Couronnes,Sweden,Greece
+380,350,1939,12298746,1,Couronnes,Sweden,Greece
+380,350,1940,5939265,1,Couronnes,Sweden,Greece
+380,350,1941,2345789,1,Couronnes,Sweden,Greece
+380,350,1942,3933344,1,Couronnes,Sweden,Greece
+380,350,1943,7168550,1,Couronnes,Sweden,Greece
+380,350,1944,132784,1,Couronnes,Sweden,Greece
+380,350,1945,1205214,1,Couronnes,Sweden,Greece
+380,350,1946,3407684,1,Couronnes,Sweden,Greece
+380,350,1947,3704423,1,Couronnes,Sweden,Greece
+380,350,1948,9297451,1,Kronor,Sweden,Greece
+380,350,1949,11478056,1,Kronor,Sweden,Greece
+380,355,1912,573,1,,Sweden,Bulgaria
+380,355,1913,79,1,,Sweden,Bulgaria
+380,355,1914,119152,1,,Sweden,Bulgaria
+380,355,1915,1465,1,,Sweden,Bulgaria
+380,355,1916,819,1,,Sweden,Bulgaria
+380,355,1917,0,1,,Sweden,Bulgaria
+380,355,1918,75724,1,,Sweden,Bulgaria
+380,355,1919,1173936,1,,Sweden,Bulgaria
+380,355,1920,1106500,1,,Sweden,Bulgaria
+380,355,1921,67032,1,,Sweden,Bulgaria
+380,355,1922,778,1,,Sweden,Bulgaria
+380,355,1923,325,1,,Sweden,Bulgaria
+380,355,1924,298037,1,Couronnes,Sweden,Bulgaria
+380,355,1925,399389,1,Couronnes,Sweden,Bulgaria
+380,355,1926,56068,1,Couronnes,Sweden,Bulgaria
+380,355,1927,24802,1,Couronnes,Sweden,Bulgaria
+380,355,1928,307225,1,Couronnes,Sweden,Bulgaria
+380,355,1929,212707,1,Couronnes,Sweden,Bulgaria
+380,355,1930,176671,1,Couronnes,Sweden,Bulgaria
+380,355,1931,295330,1,Couronnes,Sweden,Bulgaria
+380,355,1932,456165,1,Couronnes,Sweden,Bulgaria
+380,355,1933,289798,1,Couronnes,Sweden,Bulgaria
+380,355,1934,341951,1,Couronnes,Sweden,Bulgaria
+380,355,1935,1413341,1,Couronnes,Sweden,Bulgaria
+380,355,1936,2538630,1,Couronnes,Sweden,Bulgaria
+380,355,1937,2407725,1,Couronnes,Sweden,Bulgaria
+380,355,1938,1416011,1,Couronnes,Sweden,Bulgaria
+380,355,1939,1897180,1,Couronnes,Sweden,Bulgaria
+380,355,1940,6240308,1,Couronnes,Sweden,Bulgaria
+380,355,1941,6614615,1,Couronnes,Sweden,Bulgaria
+380,355,1942,9227564,1,Couronnes,Sweden,Bulgaria
+380,355,1943,9004768,1,Couronnes,Sweden,Bulgaria
+380,355,1944,685001,1,Couronnes,Sweden,Bulgaria
+380,355,1945,284406,1,Couronnes,Sweden,Bulgaria
+380,355,1946,429457,1,Couronnes,Sweden,Bulgaria
+380,355,1947,1266779,1,Couronnes,Sweden,Bulgaria
+380,355,1948,5262351,1,Kronor,Sweden,Bulgaria
+380,355,1949,3211995,1,Kronor,Sweden,Bulgaria
+380,360,1912,13899,1,,Sweden,Romania
+380,360,1913,518379,1,,Sweden,Romania
+380,360,1914,573568,1,,Sweden,Romania
+380,360,1915,15,1,,Sweden,Romania
+380,360,1916,0,1,,Sweden,Romania
+380,360,1917,0,1,,Sweden,Romania
+380,360,1918,848861,1,,Sweden,Romania
+380,360,1919,0,1,,Sweden,Romania
+380,360,1920,65500,1,,Sweden,Romania
+380,360,1921,378829,1,,Sweden,Romania
+380,360,1922,10476,1,,Sweden,Romania
+380,360,1923,17610,1,,Sweden,Romania
+380,360,1924,1123545,1,Couronnes,Sweden,Romania
+380,360,1925,1476829,1,Couronnes,Sweden,Romania
+380,360,1926,1884431,1,Couronnes,Sweden,Romania
+380,360,1927,45466,1,Couronnes,Sweden,Romania
+380,360,1928,198607,1,Couronnes,Sweden,Romania
+380,360,1929,185215,1,Couronnes,Sweden,Romania
+380,360,1930,745561,1,Couronnes,Sweden,Romania
+380,360,1931,370838,1,Couronnes,Sweden,Romania
+380,360,1932,884024,1,Couronnes,Sweden,Romania
+380,360,1933,1473656,1,Couronnes,Sweden,Romania
+380,360,1934,211564,1,Couronnes,Sweden,Romania
+380,360,1935,303732,1,Couronnes,Sweden,Romania
+380,360,1936,9181670,1,Couronnes,Sweden,Romania
+380,360,1937,13059903,1,Couronnes,Sweden,Romania
+380,360,1938,5890470,1,Couronnes,Sweden,Romania
+380,360,1939,6793597,1,Couronnes,Sweden,Romania
+380,360,1940,8453815,1,Couronnes,Sweden,Romania
+380,360,1941,39635379,1,Couronnes,Sweden,Romania
+380,360,1942,64579019,1,Couronnes,Sweden,Romania
+380,360,1943,56889093,1,Couronnes,Sweden,Romania
+380,360,1944,41302274,1,Couronnes,Sweden,Romania
+380,360,1945,4302415,1,Couronnes,Sweden,Romania
+380,360,1946,8129,1,Couronnes,Sweden,Romania
+380,360,1947,3977482,1,Couronnes,Sweden,Romania
+380,360,1948,17726547,1,Kronor,Sweden,Romania
+380,360,1949,2460134,1,Kronor,Sweden,Romania
+380,365,1912,33390647,1,,Sweden,Russia
+380,365,1913,29262283,1,,Sweden,Russia
+380,365,1914,14743380,1,,Sweden,Russia
+380,365,1915,24221956,1,,Sweden,Russia
+380,365,1916,10506919,1,,Sweden,Russia
+380,365,1917,19477941,1,,Sweden,Russia
+380,365,1918,23325259,1,,Sweden,Russia
+380,365,1919,5622267,1,,Sweden,Russia
+380,365,1920,1862648,1,,Sweden,Russia
+380,365,1921,4535582,1,,Sweden,Russia
+380,365,1922,3559108,1,,Sweden,Russia
+380,365,1923,3124302,1,,Sweden,Russia
+380,365,1924,4950350,1,Couronnes,Sweden,Russia
+380,365,1925,3282861,1,Couronnes,Sweden,Russia
+380,365,1926,11256589,1,Couronnes,Sweden,Russia
+380,365,1927,17182943,1,Couronnes,Sweden,Russia
+380,365,1928,8699420,1,Couronnes,Sweden,Russia
+380,365,1929,7803154,1,Couronnes,Sweden,Russia
+380,365,1930,12583977,1,Couronnes,Sweden,Russia
+380,365,1931,19751674,1,Couronnes,Sweden,Russia
+380,365,1932,22246330,1,Couronnes,Sweden,Russia
+380,365,1933,23642019,1,Couronnes,Sweden,Russia
+380,365,1934,23685160,1,Couronnes,Sweden,Russia
+380,365,1935,16286659,1,Couronnes,Sweden,Russia
+380,365,1936,13285669,1,Couronnes,Sweden,Russia
+380,365,1937,11277763,1,Couronnes,Sweden,Russia
+380,365,1938,9213029,1,Couronnes,Sweden,Russia
+380,365,1939,10418987,1,Couronnes,Sweden,Russia
+380,365,1940,35574588,1,Couronnes,Sweden,Russia
+380,365,1941,18702687,1,Couronnes,Sweden,Russia
+380,365,1942,359625,1,Couronnes,Sweden,Russia
+380,365,1943,662531,1,Couronnes,Sweden,Russia
+380,365,1944,225090,1,Couronnes,Sweden,Russia
+380,365,1945,24791883,1,Couronnes,Sweden,Russia
+380,365,1946,19001438,1,Couronnes,Sweden,Russia
+380,365,1947,35368835,1,Couronnes,Sweden,Russia
+380,365,1948,43977463,1,Kronor,Sweden,Russia
+380,365,1949,10754644,1,Kronor,Sweden,Russia
+380,366,1912,0,1,,Sweden,Estonia
+380,366,1913,0,1,,Sweden,Estonia
+380,366,1914,0,1,,Sweden,Estonia
+380,366,1915,0,1,,Sweden,Estonia
+380,366,1916,0,1,,Sweden,Estonia
+380,366,1917,0,1,,Sweden,Estonia
+380,366,1918,0,1,,Sweden,Estonia
+380,366,1919,2005311,1,,Sweden,Estonia
+380,366,1920,2629484,1,,Sweden,Estonia
+380,366,1921,1606975,1,,Sweden,Estonia
+380,366,1922,3718965,1,,Sweden,Estonia
+380,366,1923,6292016,1,,Sweden,Estonia
+380,366,1924,6190358,1,Couronnes,Sweden,Estonia
+380,366,1925,7012440,1,Couronnes,Sweden,Estonia
+380,366,1926,4629336,1,Couronnes,Sweden,Estonia
+380,366,1927,6521705,1,Couronnes,Sweden,Estonia
+380,366,1928,7727430,1,Couronnes,Sweden,Estonia
+380,366,1929,3776069,1,Couronnes,Sweden,Estonia
+380,366,1930,4584299,1,Couronnes,Sweden,Estonia
+380,366,1931,3723150,1,Couronnes,Sweden,Estonia
+380,366,1932,1945189,1,Couronnes,Sweden,Estonia
+380,366,1933,1791923,1,Couronnes,Sweden,Estonia
+380,366,1934,2855827,1,Couronnes,Sweden,Estonia
+380,366,1935,4614424,1,Couronnes,Sweden,Estonia
+380,366,1936,4474282,1,Couronnes,Sweden,Estonia
+380,366,1937,4415506,1,Couronnes,Sweden,Estonia
+380,366,1938,4969346,1,Couronnes,Sweden,Estonia
+380,366,1939,6956050,1,Couronnes,Sweden,Estonia
+380,366,1940,5344192,1,Couronnes,Sweden,Estonia
+380,366,1941,536612,1,Couronnes,Sweden,Estonia
+380,366,1942,112668,1,Couronnes,Sweden,Estonia
+380,366,1943,34525,1,Couronnes,Sweden,Estonia
+380,366,1944,497302,1,Couronnes,Sweden,Estonia
+380,366,1945,0,1,Couronnes,Sweden,Estonia
+380,366,1946,0,1,Couronnes,Sweden,Estonia
+380,366,1947,0,1,Couronnes,Sweden,Estonia
+380,366,1948,0,1,Kronor,Sweden,Estonia
+380,366,1949,0,1,Kronor,Sweden,Estonia
+380,367,1912,0,1,,Sweden,Latvia
+380,367,1913,0,1,,Sweden,Latvia
+380,367,1914,0,1,,Sweden,Latvia
+380,367,1915,0,1,,Sweden,Latvia
+380,367,1916,0,1,,Sweden,Latvia
+380,367,1917,0,1,,Sweden,Latvia
+380,367,1918,0,1,,Sweden,Latvia
+380,367,1919,1059850,1,,Sweden,Latvia
+380,367,1920,2981615,1,,Sweden,Latvia
+380,367,1921,581119,1,,Sweden,Latvia
+380,367,1922,1705339,1,,Sweden,Latvia
+380,367,1923,4592518,1,,Sweden,Latvia
+380,367,1924,2701429,1,Couronnes,Sweden,Latvia
+380,367,1925,2646265,1,Couronnes,Sweden,Latvia
+380,367,1926,2348468,1,Couronnes,Sweden,Latvia
+380,367,1927,2906226,1,Couronnes,Sweden,Latvia
+380,367,1928,3978294,1,Couronnes,Sweden,Latvia
+380,367,1929,3023596,1,Couronnes,Sweden,Latvia
+380,367,1930,3585501,1,Couronnes,Sweden,Latvia
+380,367,1931,1698580,1,Couronnes,Sweden,Latvia
+380,367,1932,1185408,1,Couronnes,Sweden,Latvia
+380,367,1933,992802,1,Couronnes,Sweden,Latvia
+380,367,1934,1496156,1,Couronnes,Sweden,Latvia
+380,367,1935,1767854,1,Couronnes,Sweden,Latvia
+380,367,1936,3376134,1,Couronnes,Sweden,Latvia
+380,367,1937,2625382,1,Couronnes,Sweden,Latvia
+380,367,1938,3082309,1,Couronnes,Sweden,Latvia
+380,367,1939,4590406,1,Couronnes,Sweden,Latvia
+380,367,1940,11858891,1,Couronnes,Sweden,Latvia
+380,367,1941,176398,1,Couronnes,Sweden,Latvia
+380,367,1942,1521020,1,Couronnes,Sweden,Latvia
+380,367,1943,1652179,1,Couronnes,Sweden,Latvia
+380,367,1944,861130,1,Couronnes,Sweden,Latvia
+380,367,1945,0,1,Couronnes,Sweden,Latvia
+380,367,1946,0,1,Couronnes,Sweden,Latvia
+380,367,1947,0,1,Couronnes,Sweden,Latvia
+380,367,1948,0,1,Kronor,Sweden,Latvia
+380,367,1949,0,1,Kronor,Sweden,Latvia
+380,368,1912,0,1,,Sweden,Lithuania
+380,368,1913,0,1,,Sweden,Lithuania
+380,368,1914,0,1,,Sweden,Lithuania
+380,368,1915,0,1,,Sweden,Lithuania
+380,368,1916,0,1,,Sweden,Lithuania
+380,368,1917,0,1,,Sweden,Lithuania
+380,368,1918,0,1,,Sweden,Lithuania
+380,368,1919,0,1,,Sweden,Lithuania
+380,368,1920,62400,1,,Sweden,Lithuania
+380,368,1921,396619,1,,Sweden,Lithuania
+380,368,1922,238618,1,,Sweden,Lithuania
+380,368,1923,736322,1,,Sweden,Lithuania
+380,368,1924,779497,1,Couronnes,Sweden,Lithuania
+380,368,1925,1116637,1,Couronnes,Sweden,Lithuania
+380,368,1926,2156860,1,Couronnes,Sweden,Lithuania
+380,368,1927,1347457,1,Couronnes,Sweden,Lithuania
+380,368,1928,1125694,1,Couronnes,Sweden,Lithuania
+380,368,1929,556887,1,Couronnes,Sweden,Lithuania
+380,368,1930,1192894,1,Couronnes,Sweden,Lithuania
+380,368,1931,553684,1,Couronnes,Sweden,Lithuania
+380,368,1932,645967,1,Couronnes,Sweden,Lithuania
+380,368,1933,444676,1,Couronnes,Sweden,Lithuania
+380,368,1934,960964,1,Couronnes,Sweden,Lithuania
+380,368,1935,1897281,1,Couronnes,Sweden,Lithuania
+380,368,1936,3898679,1,Couronnes,Sweden,Lithuania
+380,368,1937,3520294,1,Couronnes,Sweden,Lithuania
+380,368,1938,2376238,1,Couronnes,Sweden,Lithuania
+380,368,1939,4913197,1,Couronnes,Sweden,Lithuania
+380,368,1940,3598558,1,Couronnes,Sweden,Lithuania
+380,368,1941,73699,1,Couronnes,Sweden,Lithuania
+380,368,1942,5490,1,Couronnes,Sweden,Lithuania
+380,368,1943,866034,1,Couronnes,Sweden,Lithuania
+380,368,1944,0,1,Couronnes,Sweden,Lithuania
+380,368,1945,0,1,Couronnes,Sweden,Lithuania
+380,368,1946,0,1,Couronnes,Sweden,Lithuania
+380,368,1947,0,1,Couronnes,Sweden,Lithuania
+380,368,1948,0,1,Kronor,Sweden,Lithuania
+380,368,1949,0,1,Kronor,Sweden,Lithuania
+380,375,1912,18971551,1,,Sweden,Finland
+380,375,1913,21257618,1,,Sweden,Finland
+380,375,1914,9039286,1,,Sweden,Finland
+380,375,1915,11741576,1,,Sweden,Finland
+380,375,1916,9068207,1,,Sweden,Finland
+380,375,1917,20023526,1,,Sweden,Finland
+380,375,1918,16678726,1,,Sweden,Finland
+380,375,1919,23313778,1,,Sweden,Finland
+380,375,1920,37507808,1,,Sweden,Finland
+380,375,1921,36910654,1,,Sweden,Finland
+380,375,1922,23579406,1,,Sweden,Finland
+380,375,1923,22407926,1,,Sweden,Finland
+380,375,1924,21927686,1,Couronnes,Sweden,Finland
+380,375,1925,21509605,1,Couronnes,Sweden,Finland
+380,375,1926,19220672,1,Couronnes,Sweden,Finland
+380,375,1927,15642182,1,Couronnes,Sweden,Finland
+380,375,1928,10781476,1,Couronnes,Sweden,Finland
+380,375,1929,10462922,1,Couronnes,Sweden,Finland
+380,375,1930,13344537,1,Couronnes,Sweden,Finland
+380,375,1931,12053557,1,Couronnes,Sweden,Finland
+380,375,1932,9474771,1,Couronnes,Sweden,Finland
+380,375,1933,10083530,1,Couronnes,Sweden,Finland
+380,375,1934,13414640,1,Couronnes,Sweden,Finland
+380,375,1935,18025458,1,Couronnes,Sweden,Finland
+380,375,1936,22779367,1,Couronnes,Sweden,Finland
+380,375,1937,22798608,1,Couronnes,Sweden,Finland
+380,375,1938,21193163,1,Couronnes,Sweden,Finland
+380,375,1939,26034368,1,Couronnes,Sweden,Finland
+380,375,1940,19376386,1,Couronnes,Sweden,Finland
+380,375,1941,23532296,1,Couronnes,Sweden,Finland
+380,375,1942,27090027,1,Couronnes,Sweden,Finland
+380,375,1943,20537276,1,Couronnes,Sweden,Finland
+380,375,1944,46305401,1,Couronnes,Sweden,Finland
+380,375,1945,37838060,1,Couronnes,Sweden,Finland
+380,375,1946,56198576,1,Couronnes,Sweden,Finland
+380,375,1947,67955166,1,Couronnes,Sweden,Finland
+380,375,1948,73690092,1,Kronor,Sweden,Finland
+380,375,1949,54378543,1,Kronor,Sweden,Finland
+380,385,1912,23677559,1,,Sweden,Norway
+380,385,1913,25928132,1,,Sweden,Norway
+380,385,1914,29035773,1,,Sweden,Norway
+380,385,1915,50489111,1,,Sweden,Norway
+380,385,1916,61138787,1,,Sweden,Norway
+380,385,1917,51666505,1,,Sweden,Norway
+380,385,1918,97515203,1,,Sweden,Norway
+380,385,1919,74552360,1,,Sweden,Norway
+380,385,1920,84669386,1,,Sweden,Norway
+380,385,1921,41181854,1,,Sweden,Norway
+380,385,1922,35270754,1,,Sweden,Norway
+380,385,1923,33561802,1,,Sweden,Norway
+380,385,1924,38027626,1,Couronnes,Sweden,Norway
+380,385,1925,47225926,1,Couronnes,Sweden,Norway
+380,385,1926,46882295,1,Couronnes,Sweden,Norway
+380,385,1927,41892659,1,Couronnes,Sweden,Norway
+380,385,1928,45372540,1,Couronnes,Sweden,Norway
+380,385,1929,50368987,1,Couronnes,Sweden,Norway
+380,385,1930,52157158,1,Couronnes,Sweden,Norway
+380,385,1931,40053809,1,Couronnes,Sweden,Norway
+380,385,1932,38398814,1,Couronnes,Sweden,Norway
+380,385,1933,37148617,1,Couronnes,Sweden,Norway
+380,385,1934,43813656,1,Couronnes,Sweden,Norway
+380,385,1935,50047841,1,Couronnes,Sweden,Norway
+380,385,1936,59719239,1,Couronnes,Sweden,Norway
+380,385,1937,70090847,1,Couronnes,Sweden,Norway
+380,385,1938,72857270,1,Couronnes,Sweden,Norway
+380,385,1939,88490520,1,Couronnes,Sweden,Norway
+380,385,1940,88688695,1,Couronnes,Sweden,Norway
+380,385,1941,62903253,1,Couronnes,Sweden,Norway
+380,385,1942,52968115,1,Couronnes,Sweden,Norway
+380,385,1943,58826132,1,Couronnes,Sweden,Norway
+380,385,1944,34248355,1,Couronnes,Sweden,Norway
+380,385,1945,50638793,1,Couronnes,Sweden,Norway
+380,385,1946,119215027,1,Couronnes,Sweden,Norway
+380,385,1947,158181553,1,Couronnes,Sweden,Norway
+380,385,1948,153347163,1,Kronor,Sweden,Norway
+380,385,1949,168567769,1,Kronor,Sweden,Norway
+380,390,1912,49634759,1,,Sweden,Denmark
+380,390,1913,53679832,1,,Sweden,Denmark
+380,390,1914,51647174,1,,Sweden,Denmark
+380,390,1915,65790241,1,,Sweden,Denmark
+380,390,1916,68026152,1,,Sweden,Denmark
+380,390,1917,112711659,1,,Sweden,Denmark
+380,390,1918,202341500,1,,Sweden,Denmark
+380,390,1919,233464572,1,,Sweden,Denmark
+380,390,1920,305491040,1,,Sweden,Denmark
+380,390,1921,115817515,1,,Sweden,Denmark
+380,390,1922,84617262,1,,Sweden,Denmark
+380,390,1923,103391166,1,,Sweden,Denmark
+380,390,1924,120888861,1,Couronnes,Sweden,Denmark
+380,390,1925,118533743,1,Couronnes,Sweden,Denmark
+380,390,1926,117067619,1,Couronnes,Sweden,Denmark
+380,390,1927,127197868,1,Couronnes,Sweden,Denmark
+380,390,1928,114782471,1,Couronnes,Sweden,Denmark
+380,390,1929,124884811,1,Couronnes,Sweden,Denmark
+380,390,1930,107743344,1,Couronnes,Sweden,Denmark
+380,390,1931,87144644,1,Couronnes,Sweden,Denmark
+380,390,1932,72949590,1,Couronnes,Sweden,Denmark
+380,390,1933,62983473,1,Couronnes,Sweden,Denmark
+380,390,1934,76758192,1,Couronnes,Sweden,Denmark
+380,390,1935,95953006,1,Couronnes,Sweden,Denmark
+380,390,1936,57564632,1,Couronnes,Sweden,Denmark
+380,390,1937,68750050,1,Couronnes,Sweden,Denmark
+380,390,1938,68177071,1,Couronnes,Sweden,Denmark
+380,390,1939,65473994,1,Couronnes,Sweden,Denmark
+380,390,1940,46922391,1,Couronnes,Sweden,Denmark
+380,390,1941,49511043,1,Couronnes,Sweden,Denmark
+380,390,1942,50251121,1,Couronnes,Sweden,Denmark
+380,390,1943,57962877,1,Couronnes,Sweden,Denmark
+380,390,1944,69392907,1,Couronnes,Sweden,Denmark
+380,390,1945,66475320,1,Couronnes,Sweden,Denmark
+380,390,1946,117034218,1,Couronnes,Sweden,Denmark
+380,390,1947,154450425,1,Couronnes,Sweden,Denmark
+380,390,1948,154199328,1,Kronor,Sweden,Denmark
+380,390,1949,156269314,1,Kronor,Sweden,Denmark
+380,395,1912,0,1,,Sweden,Iceland
+380,395,1913,0,1,,Sweden,Iceland
+380,395,1914,0,1,,Sweden,Iceland
+380,395,1915,3976042,1,,Sweden,Iceland
+380,395,1916,11563442,1,,Sweden,Iceland
+380,395,1917,711200,1,,Sweden,Iceland
+380,395,1918,462020,1,,Sweden,Iceland
+380,395,1919,15397723,1,,Sweden,Iceland
+380,395,1920,7020338,1,,Sweden,Iceland
+380,395,1921,4281027,1,,Sweden,Iceland
+380,395,1922,5633355,1,,Sweden,Iceland
+380,395,1923,4985237,1,,Sweden,Iceland
+380,395,1924,3057479,1,Couronnes,Sweden,Iceland
+380,395,1925,5832737,1,Couronnes,Sweden,Iceland
+380,395,1926,4540422,1,Couronnes,Sweden,Iceland
+380,395,1927,5322507,1,Couronnes,Sweden,Iceland
+380,395,1928,4662718,1,Couronnes,Sweden,Iceland
+380,395,1929,5389472,1,Couronnes,Sweden,Iceland
+380,395,1930,6304616,1,Couronnes,Sweden,Iceland
+380,395,1931,3772391,1,Couronnes,Sweden,Iceland
+380,395,1932,3123341,1,Couronnes,Sweden,Iceland
+380,395,1933,2871560,1,Couronnes,Sweden,Iceland
+380,395,1934,3457736,1,Couronnes,Sweden,Iceland
+380,395,1935,5081753,1,Couronnes,Sweden,Iceland
+380,395,1936,6036601,1,Couronnes,Sweden,Iceland
+380,395,1937,5966497,1,Couronnes,Sweden,Iceland
+380,395,1938,7254023,1,Couronnes,Sweden,Iceland
+380,395,1939,9197677,1,Couronnes,Sweden,Iceland
+380,395,1940,1449682,1,Couronnes,Sweden,Iceland
+380,395,1941,1196616,1,Couronnes,Sweden,Iceland
+380,395,1942,4914,1,Couronnes,Sweden,Iceland
+380,395,1943,73279,1,Couronnes,Sweden,Iceland
+380,395,1944,82356,1,Couronnes,Sweden,Iceland
+380,395,1945,10724707,1,Couronnes,Sweden,Iceland
+380,395,1946,10231008,1,Couronnes,Sweden,Iceland
+380,395,1947,5400573,1,Couronnes,Sweden,Iceland
+380,395,1948,7995148,1,Kronor,Sweden,Iceland
+380,395,1949,2797979,1,Kronor,Sweden,Iceland
+380,410,1912,0,1,,Sweden,Canary Islands
+380,410,1913,0,1,,Sweden,Canary Islands
+380,410,1914,0,1,,Sweden,Canary Islands
+380,410,1915,211,1,,Sweden,Canary Islands
+380,410,1916,0,1,,Sweden,Canary Islands
+380,410,1917,0,1,,Sweden,Canary Islands
+380,410,1918,0,1,,Sweden,Canary Islands
+380,410,1919,0,1,,Sweden,Canary Islands
+380,410,1920,0,1,,Sweden,Canary Islands
+380,410,1921,0,1,,Sweden,Canary Islands
+380,410,1922,0,1,,Sweden,Canary Islands
+380,410,1923,0,1,,Sweden,Canary Islands
+380,410,1924,2492,1,Couronnes,Sweden,Canary Islands
+380,410,1925,40758,1,Couronnes,Sweden,Canary Islands
+380,410,1926,1470,1,Couronnes,Sweden,Canary Islands
+380,410,1927,3395,1,Couronnes,Sweden,Canary Islands
+380,410,1928,5479,1,Couronnes,Sweden,Canary Islands
+380,410,1929,2956,1,Couronnes,Sweden,Canary Islands
+380,410,1930,6216,1,Couronnes,Sweden,Canary Islands
+380,410,1931,13973,1,Couronnes,Sweden,Canary Islands
+380,410,1932,16557,1,Couronnes,Sweden,Canary Islands
+380,410,1933,63460,1,Couronnes,Sweden,Canary Islands
+380,410,1934,203465,1,Couronnes,Sweden,Canary Islands
+380,410,1935,366949,1,Couronnes,Sweden,Canary Islands
+380,410,1936,545054,1,Couronnes,Sweden,Canary Islands
+380,410,1937,368563,1,Couronnes,Sweden,Canary Islands
+380,410,1938,452393,1,Couronnes,Sweden,Canary Islands
+380,410,1939,545110,1,Couronnes,Sweden,Canary Islands
+380,410,1940,75613,1,Couronnes,Sweden,Canary Islands
+380,410,1941,2237,1,Couronnes,Sweden,Canary Islands
+380,410,1942,9,1,Couronnes,Sweden,Canary Islands
+380,410,1943,0,1,Couronnes,Sweden,Canary Islands
+380,410,1944,0,1,Couronnes,Sweden,Canary Islands
+380,410,1945,401422,1,Couronnes,Sweden,Canary Islands
+380,410,1946,3896029,1,Couronnes,Sweden,Canary Islands
+380,410,1947,1020223,1,Couronnes,Sweden,Canary Islands
+380,410,1948,2366298,1,Kronor,Sweden,Canary Islands
+380,410,1949,566355,1,Kronor,Sweden,Canary Islands
+380,465,1912,0,1,,Sweden,British West Africa
+380,465,1913,0,1,,Sweden,British West Africa
+380,465,1914,0,1,,Sweden,British West Africa
+380,465,1915,0,1,,Sweden,British West Africa
+380,465,1916,0,1,,Sweden,British West Africa
+380,465,1917,0,1,,Sweden,British West Africa
+380,465,1918,0,1,,Sweden,British West Africa
+380,465,1919,0,1,,Sweden,British West Africa
+380,465,1920,0,1,,Sweden,British West Africa
+380,465,1921,0,1,,Sweden,British West Africa
+380,465,1922,0,1,,Sweden,British West Africa
+380,465,1923,0,1,,Sweden,British West Africa
+380,465,1924,0,1,Couronnes,Sweden,British West Africa
+380,465,1925,0,1,Couronnes,Sweden,British West Africa
+380,465,1926,0,1,Couronnes,Sweden,British West Africa
+380,465,1927,0,1,Couronnes,Sweden,British West Africa
+380,465,1928,0,1,Couronnes,Sweden,British West Africa
+380,465,1929,0,1,Couronnes,Sweden,British West Africa
+380,465,1930,0,1,Couronnes,Sweden,British West Africa
+380,465,1931,0,1,Couronnes,Sweden,British West Africa
+380,465,1932,0,1,Couronnes,Sweden,British West Africa
+380,465,1933,0,1,Couronnes,Sweden,British West Africa
+380,465,1934,0,1,Couronnes,Sweden,British West Africa
+380,465,1935,0,1,Couronnes,Sweden,British West Africa
+380,465,1936,0,1,Couronnes,Sweden,British West Africa
+380,465,1937,0,1,Couronnes,Sweden,British West Africa
+380,465,1938,0,1,Couronnes,Sweden,British West Africa
+380,465,1939,4688668,1,Couronnes,Sweden,British West Africa
+380,465,1940,2735706,1,Couronnes,Sweden,British West Africa
+380,465,1941,370649,1,Couronnes,Sweden,British West Africa
+380,465,1942,22775,1,Couronnes,Sweden,British West Africa
+380,465,1943,5248,1,Couronnes,Sweden,British West Africa
+380,465,1944,0,1,Couronnes,Sweden,British West Africa
+380,465,1945,1375972,1,Couronnes,Sweden,British West Africa
+380,465,1946,4559717,1,Couronnes,Sweden,British West Africa
+380,465,1947,3256371,1,Couronnes,Sweden,British West Africa
+380,465,1948,20217540,1,Kronor,Sweden,British West Africa
+380,465,1949,15529553,1,Kronor,Sweden,British West Africa
+380,490,1912,527361,1,,Sweden,"Congo, Dem. Republic"
+380,490,1913,288710,1,,Sweden,"Congo, Dem. Republic"
+380,490,1914,146651,1,,Sweden,"Congo, Dem. Republic"
+380,490,1915,87578,1,,Sweden,"Congo, Dem. Republic"
+380,490,1916,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1917,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1918,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1919,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1920,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1921,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1922,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1923,0,1,,Sweden,"Congo, Dem. Republic"
+380,490,1924,13039,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1925,1034,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1926,527,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1927,272,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1928,1434,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1929,1487,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1930,1936,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1931,155,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1932,1586,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1933,2586,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1934,15912,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1935,1640,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1936,146000,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1937,232095,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1938,138097,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1939,494666,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1940,1345951,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1941,165949,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1942,0,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1943,0,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1944,0,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1945,69832,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1946,7641164,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1947,5730464,1,Couronnes,Sweden,"Congo, Dem. Republic"
+380,490,1948,22243057,1,Kronor,Sweden,"Congo, Dem. Republic"
+380,490,1949,26190810,1,Kronor,Sweden,"Congo, Dem. Republic"
+380,505,1912,0,1,,Sweden,British East Africa
+380,505,1913,0,1,,Sweden,British East Africa
+380,505,1914,0,1,,Sweden,British East Africa
+380,505,1915,0,1,,Sweden,British East Africa
+380,505,1916,0,1,,Sweden,British East Africa
+380,505,1917,0,1,,Sweden,British East Africa
+380,505,1918,0,1,,Sweden,British East Africa
+380,505,1919,0,1,,Sweden,British East Africa
+380,505,1920,0,1,,Sweden,British East Africa
+380,505,1921,0,1,,Sweden,British East Africa
+380,505,1922,0,1,,Sweden,British East Africa
+380,505,1923,0,1,,Sweden,British East Africa
+380,505,1924,0,1,Couronnes,Sweden,British East Africa
+380,505,1925,0,1,Couronnes,Sweden,British East Africa
+380,505,1926,0,1,Couronnes,Sweden,British East Africa
+380,505,1927,0,1,Couronnes,Sweden,British East Africa
+380,505,1928,0,1,Couronnes,Sweden,British East Africa
+380,505,1929,40124,1,Couronnes,Sweden,British East Africa
+380,505,1930,32690,1,Couronnes,Sweden,British East Africa
+380,505,1931,17146,1,Couronnes,Sweden,British East Africa
+380,505,1932,47025,1,Couronnes,Sweden,British East Africa
+380,505,1933,35820,1,Couronnes,Sweden,British East Africa
+380,505,1934,47515,1,Couronnes,Sweden,British East Africa
+380,505,1935,45787,1,Couronnes,Sweden,British East Africa
+380,505,1936,1370426,1,Couronnes,Sweden,British East Africa
+380,505,1937,1873682,1,Couronnes,Sweden,British East Africa
+380,505,1938,1692298,1,Couronnes,Sweden,British East Africa
+380,505,1939,1990448,1,Couronnes,Sweden,British East Africa
+380,505,1940,818619,1,Couronnes,Sweden,British East Africa
+380,505,1941,112511,1,Couronnes,Sweden,British East Africa
+380,505,1942,120656,1,Couronnes,Sweden,British East Africa
+380,505,1943,5155,1,Couronnes,Sweden,British East Africa
+380,505,1944,115240,1,Couronnes,Sweden,British East Africa
+380,505,1945,116606,1,Couronnes,Sweden,British East Africa
+380,505,1946,851042,1,Couronnes,Sweden,British East Africa
+380,505,1947,909339,1,Couronnes,Sweden,British East Africa
+380,505,1948,5478327,1,Kronor,Sweden,British East Africa
+380,505,1949,5790649,1,Kronor,Sweden,British East Africa
+380,530,1912,0,1,,Sweden,Ethiopia
+380,530,1913,0,1,,Sweden,Ethiopia
+380,530,1914,0,1,,Sweden,Ethiopia
+380,530,1915,0,1,,Sweden,Ethiopia
+380,530,1916,0,1,,Sweden,Ethiopia
+380,530,1917,0,1,,Sweden,Ethiopia
+380,530,1918,0,1,,Sweden,Ethiopia
+380,530,1919,0,1,,Sweden,Ethiopia
+380,530,1920,0,1,,Sweden,Ethiopia
+380,530,1921,0,1,,Sweden,Ethiopia
+380,530,1922,0,1,,Sweden,Ethiopia
+380,530,1923,0,1,,Sweden,Ethiopia
+380,530,1924,0,1,Couronnes,Sweden,Ethiopia
+380,530,1925,0,1,Couronnes,Sweden,Ethiopia
+380,530,1926,0,1,Couronnes,Sweden,Ethiopia
+380,530,1927,0,1,Couronnes,Sweden,Ethiopia
+380,530,1928,0,1,Couronnes,Sweden,Ethiopia
+380,530,1929,0,1,Couronnes,Sweden,Ethiopia
+380,530,1930,0,1,Couronnes,Sweden,Ethiopia
+380,530,1931,0,1,Couronnes,Sweden,Ethiopia
+380,530,1932,0,1,Couronnes,Sweden,Ethiopia
+380,530,1933,0,1,Couronnes,Sweden,Ethiopia
+380,530,1934,0,1,Couronnes,Sweden,Ethiopia
+380,530,1935,0,1,Couronnes,Sweden,Ethiopia
+380,530,1936,0,1,Couronnes,Sweden,Ethiopia
+380,530,1937,0,1,Couronnes,Sweden,Ethiopia
+380,530,1938,0,1,Couronnes,Sweden,Ethiopia
+380,530,1939,0,1,Couronnes,Sweden,Ethiopia
+380,530,1940,0,1,Couronnes,Sweden,Ethiopia
+380,530,1941,0,1,Couronnes,Sweden,Ethiopia
+380,530,1942,0,1,Couronnes,Sweden,Ethiopia
+380,530,1943,0,1,Couronnes,Sweden,Ethiopia
+380,530,1944,0,1,Couronnes,Sweden,Ethiopia
+380,530,1945,24050,1,Couronnes,Sweden,Ethiopia
+380,530,1946,241295,1,Couronnes,Sweden,Ethiopia
+380,530,1947,347871,1,Couronnes,Sweden,Ethiopia
+380,530,1948,717596,1,Kronor,Sweden,Ethiopia
+380,530,1949,1504612,1,Kronor,Sweden,Ethiopia
+380,541,1912,0,1,,Sweden,Mozambique
+380,541,1913,0,1,,Sweden,Mozambique
+380,541,1914,0,1,,Sweden,Mozambique
+380,541,1915,0,1,,Sweden,Mozambique
+380,541,1916,0,1,,Sweden,Mozambique
+380,541,1917,0,1,,Sweden,Mozambique
+380,541,1918,0,1,,Sweden,Mozambique
+380,541,1919,0,1,,Sweden,Mozambique
+380,541,1920,59400,1,,Sweden,Mozambique
+380,541,1921,0,1,,Sweden,Mozambique
+380,541,1922,0,1,,Sweden,Mozambique
+380,541,1923,0,1,,Sweden,Mozambique
+380,541,1924,75,1,Couronnes,Sweden,Mozambique
+380,541,1925,0,1,Couronnes,Sweden,Mozambique
+380,541,1926,0,1,Couronnes,Sweden,Mozambique
+380,541,1927,0,1,Couronnes,Sweden,Mozambique
+380,541,1928,0,1,Couronnes,Sweden,Mozambique
+380,541,1929,0,1,Couronnes,Sweden,Mozambique
+380,541,1930,0,1,Couronnes,Sweden,Mozambique
+380,541,1931,0,1,Couronnes,Sweden,Mozambique
+380,541,1932,40,1,Couronnes,Sweden,Mozambique
+380,541,1933,45,1,Couronnes,Sweden,Mozambique
+380,541,1934,737,1,Couronnes,Sweden,Mozambique
+380,541,1935,26768,1,Couronnes,Sweden,Mozambique
+380,541,1936,279779,1,Couronnes,Sweden,Mozambique
+380,541,1937,108837,1,Couronnes,Sweden,Mozambique
+380,541,1938,124125,1,Couronnes,Sweden,Mozambique
+380,541,1939,776058,1,Couronnes,Sweden,Mozambique
+380,541,1940,935265,1,Couronnes,Sweden,Mozambique
+380,541,1941,7980,1,Couronnes,Sweden,Mozambique
+380,541,1942,6966481,1,Couronnes,Sweden,Mozambique
+380,541,1943,10415537,1,Couronnes,Sweden,Mozambique
+380,541,1944,16867229,1,Couronnes,Sweden,Mozambique
+380,541,1945,14160939,1,Couronnes,Sweden,Mozambique
+380,541,1946,17194682,1,Couronnes,Sweden,Mozambique
+380,541,1947,6080879,1,Couronnes,Sweden,Mozambique
+380,541,1948,5729920,1,Kronor,Sweden,Mozambique
+380,541,1949,10290500,1,Kronor,Sweden,Mozambique
+380,554,1912,0,1,,Sweden,Rhodesia
+380,554,1913,0,1,,Sweden,Rhodesia
+380,554,1914,0,1,,Sweden,Rhodesia
+380,554,1915,0,1,,Sweden,Rhodesia
+380,554,1916,0,1,,Sweden,Rhodesia
+380,554,1917,0,1,,Sweden,Rhodesia
+380,554,1918,0,1,,Sweden,Rhodesia
+380,554,1919,0,1,,Sweden,Rhodesia
+380,554,1920,0,1,,Sweden,Rhodesia
+380,554,1921,0,1,,Sweden,Rhodesia
+380,554,1922,0,1,,Sweden,Rhodesia
+380,554,1923,0,1,,Sweden,Rhodesia
+380,554,1924,0,1,Couronnes,Sweden,Rhodesia
+380,554,1925,0,1,Couronnes,Sweden,Rhodesia
+380,554,1926,0,1,Couronnes,Sweden,Rhodesia
+380,554,1927,0,1,Couronnes,Sweden,Rhodesia
+380,554,1928,0,1,Couronnes,Sweden,Rhodesia
+380,554,1929,0,1,Couronnes,Sweden,Rhodesia
+380,554,1930,0,1,Couronnes,Sweden,Rhodesia
+380,554,1931,0,1,Couronnes,Sweden,Rhodesia
+380,554,1932,0,1,Couronnes,Sweden,Rhodesia
+380,554,1933,0,1,Couronnes,Sweden,Rhodesia
+380,554,1934,0,1,Couronnes,Sweden,Rhodesia
+380,554,1935,0,1,Couronnes,Sweden,Rhodesia
+380,554,1936,0,1,Couronnes,Sweden,Rhodesia
+380,554,1937,0,1,Couronnes,Sweden,Rhodesia
+380,554,1938,0,1,Couronnes,Sweden,Rhodesia
+380,554,1939,2456350,1,Couronnes,Sweden,Rhodesia
+380,554,1940,518132,1,Couronnes,Sweden,Rhodesia
+380,554,1941,0,1,Couronnes,Sweden,Rhodesia
+380,554,1942,0,1,Couronnes,Sweden,Rhodesia
+380,554,1943,629671,1,Couronnes,Sweden,Rhodesia
+380,554,1944,468535,1,Couronnes,Sweden,Rhodesia
+380,554,1945,4104013,1,Couronnes,Sweden,Rhodesia
+380,554,1946,13349627,1,Couronnes,Sweden,Rhodesia
+380,554,1947,22187951,1,Couronnes,Sweden,Rhodesia
+380,554,1948,32408463,1,Kronor,Sweden,Rhodesia
+380,554,1949,31794852,1,Kronor,Sweden,Rhodesia
+380,560,1912,19532,1,,Sweden,South Africa
+380,560,1913,57517,1,,Sweden,South Africa
+380,560,1914,60307,1,,Sweden,South Africa
+380,560,1915,54141,1,,Sweden,South Africa
+380,560,1916,28244,1,,Sweden,South Africa
+380,560,1917,175632,1,,Sweden,South Africa
+380,560,1918,7129,1,,Sweden,South Africa
+380,560,1919,10733,1,,Sweden,South Africa
+380,560,1920,553179,1,,Sweden,South Africa
+380,560,1921,136665,1,,Sweden,South Africa
+380,560,1922,273440,1,,Sweden,South Africa
+380,560,1923,264877,1,,Sweden,South Africa
+380,560,1924,1498788,1,Couronnes,Sweden,South Africa
+380,560,1925,1464081,1,Couronnes,Sweden,South Africa
+380,560,1926,1317473,1,Couronnes,Sweden,South Africa
+380,560,1927,1099699,1,Couronnes,Sweden,South Africa
+380,560,1928,1392538,1,Couronnes,Sweden,South Africa
+380,560,1929,1227624,1,Couronnes,Sweden,South Africa
+380,560,1930,1311311,1,Couronnes,Sweden,South Africa
+380,560,1931,1423580,1,Couronnes,Sweden,South Africa
+380,560,1932,1991113,1,Couronnes,Sweden,South Africa
+380,560,1933,2373189,1,Couronnes,Sweden,South Africa
+380,560,1934,3233689,1,Couronnes,Sweden,South Africa
+380,560,1935,2210504,1,Couronnes,Sweden,South Africa
+380,560,1936,6035849,1,Couronnes,Sweden,South Africa
+380,560,1937,5899521,1,Couronnes,Sweden,South Africa
+380,560,1938,7928616,1,Couronnes,Sweden,South Africa
+380,560,1939,6477715,1,Couronnes,Sweden,South Africa
+380,560,1940,4338836,1,Couronnes,Sweden,South Africa
+380,560,1941,303008,1,Couronnes,Sweden,South Africa
+380,560,1942,450279,1,Couronnes,Sweden,South Africa
+380,560,1943,113684,1,Couronnes,Sweden,South Africa
+380,560,1944,42451,1,Couronnes,Sweden,South Africa
+380,560,1945,4927906,1,Couronnes,Sweden,South Africa
+380,560,1946,24818395,1,Couronnes,Sweden,South Africa
+380,560,1947,14623331,1,Couronnes,Sweden,South Africa
+380,560,1948,25173314,1,Kronor,Sweden,South Africa
+380,560,1949,30055622,1,Kronor,Sweden,South Africa
+380,580,1912,10086,1,,Sweden,Madagascar
+380,580,1913,3,1,,Sweden,Madagascar
+380,580,1914,0,1,,Sweden,Madagascar
+380,580,1915,3190,1,,Sweden,Madagascar
+380,580,1916,0,1,,Sweden,Madagascar
+380,580,1917,0,1,,Sweden,Madagascar
+380,580,1918,0,1,,Sweden,Madagascar
+380,580,1919,0,1,,Sweden,Madagascar
+380,580,1920,0,1,,Sweden,Madagascar
+380,580,1921,0,1,,Sweden,Madagascar
+380,580,1922,0,1,,Sweden,Madagascar
+380,580,1923,0,1,,Sweden,Madagascar
+380,580,1924,0,1,Couronnes,Sweden,Madagascar
+380,580,1925,0,1,Couronnes,Sweden,Madagascar
+380,580,1926,0,1,Couronnes,Sweden,Madagascar
+380,580,1927,0,1,Couronnes,Sweden,Madagascar
+380,580,1928,0,1,Couronnes,Sweden,Madagascar
+380,580,1929,0,1,Couronnes,Sweden,Madagascar
+380,580,1930,0,1,Couronnes,Sweden,Madagascar
+380,580,1931,0,1,Couronnes,Sweden,Madagascar
+380,580,1932,0,1,Couronnes,Sweden,Madagascar
+380,580,1933,0,1,Couronnes,Sweden,Madagascar
+380,580,1934,0,1,Couronnes,Sweden,Madagascar
+380,580,1935,0,1,Couronnes,Sweden,Madagascar
+380,580,1936,0,1,Couronnes,Sweden,Madagascar
+380,580,1937,0,1,Couronnes,Sweden,Madagascar
+380,580,1938,0,1,Couronnes,Sweden,Madagascar
+380,580,1939,0,1,Couronnes,Sweden,Madagascar
+380,580,1940,0,1,Couronnes,Sweden,Madagascar
+380,580,1941,0,1,Couronnes,Sweden,Madagascar
+380,580,1942,0,1,Couronnes,Sweden,Madagascar
+380,580,1943,0,1,Couronnes,Sweden,Madagascar
+380,580,1944,0,1,Couronnes,Sweden,Madagascar
+380,580,1945,0,1,Couronnes,Sweden,Madagascar
+380,580,1946,0,1,Couronnes,Sweden,Madagascar
+380,580,1947,0,1,Couronnes,Sweden,Madagascar
+380,580,1948,0,1,Kronor,Sweden,Madagascar
+380,580,1949,0,1,Kronor,Sweden,Madagascar
+380,615,1912,353089,1,,Sweden,Algeria
+380,615,1913,409026,1,,Sweden,Algeria
+380,615,1914,353617,1,,Sweden,Algeria
+380,615,1915,412424,1,,Sweden,Algeria
+380,615,1916,300038,1,,Sweden,Algeria
+380,615,1917,2000,1,,Sweden,Algeria
+380,615,1918,0,1,,Sweden,Algeria
+380,615,1919,886830,1,,Sweden,Algeria
+380,615,1920,481789,1,,Sweden,Algeria
+380,615,1921,270636,1,,Sweden,Algeria
+380,615,1922,398617,1,,Sweden,Algeria
+380,615,1923,277040,1,,Sweden,Algeria
+380,615,1924,294550,1,Couronnes,Sweden,Algeria
+380,615,1925,306181,1,Couronnes,Sweden,Algeria
+380,615,1926,513465,1,Couronnes,Sweden,Algeria
+380,615,1927,279910,1,Couronnes,Sweden,Algeria
+380,615,1928,556326,1,Couronnes,Sweden,Algeria
+380,615,1929,682944,1,Couronnes,Sweden,Algeria
+380,615,1930,538633,1,Couronnes,Sweden,Algeria
+380,615,1931,237210,1,Couronnes,Sweden,Algeria
+380,615,1932,460733,1,Couronnes,Sweden,Algeria
+380,615,1933,586717,1,Couronnes,Sweden,Algeria
+380,615,1934,559117,1,Couronnes,Sweden,Algeria
+380,615,1935,961122,1,Couronnes,Sweden,Algeria
+380,615,1936,1088330,1,Couronnes,Sweden,Algeria
+380,615,1937,1716697,1,Couronnes,Sweden,Algeria
+380,615,1938,1087789,1,Couronnes,Sweden,Algeria
+380,615,1939,1166353,1,Couronnes,Sweden,Algeria
+380,615,1940,753099,1,Couronnes,Sweden,Algeria
+380,615,1941,294909,1,Couronnes,Sweden,Algeria
+380,615,1942,149886,1,Couronnes,Sweden,Algeria
+380,615,1943,166602,1,Couronnes,Sweden,Algeria
+380,615,1944,8659,1,Couronnes,Sweden,Algeria
+380,615,1945,5779,1,Couronnes,Sweden,Algeria
+380,615,1946,630284,1,Couronnes,Sweden,Algeria
+380,615,1947,1154915,1,Couronnes,Sweden,Algeria
+380,615,1948,2643233,1,Kronor,Sweden,Algeria
+380,615,1949,1235137,1,Kronor,Sweden,Algeria
+380,616,1912,195695,1,,Sweden,Tunisia
+380,616,1913,645055,1,,Sweden,Tunisia
+380,616,1914,73071,1,,Sweden,Tunisia
+380,616,1915,65005,1,,Sweden,Tunisia
+380,616,1916,245061,1,,Sweden,Tunisia
+380,616,1917,1084,1,,Sweden,Tunisia
+380,616,1918,0,1,,Sweden,Tunisia
+380,616,1919,24480,1,,Sweden,Tunisia
+380,616,1920,235656,1,,Sweden,Tunisia
+380,616,1921,167162,1,,Sweden,Tunisia
+380,616,1922,8788,1,,Sweden,Tunisia
+380,616,1923,17224,1,,Sweden,Tunisia
+380,616,1924,191862,1,Couronnes,Sweden,Tunisia
+380,616,1925,356632,1,Couronnes,Sweden,Tunisia
+380,616,1926,197413,1,Couronnes,Sweden,Tunisia
+380,616,1927,181846,1,Couronnes,Sweden,Tunisia
+380,616,1928,133253,1,Couronnes,Sweden,Tunisia
+380,616,1929,51784,1,Couronnes,Sweden,Tunisia
+380,616,1930,70530,1,Couronnes,Sweden,Tunisia
+380,616,1931,58508,1,Couronnes,Sweden,Tunisia
+380,616,1932,191619,1,Couronnes,Sweden,Tunisia
+380,616,1933,232767,1,Couronnes,Sweden,Tunisia
+380,616,1934,226505,1,Couronnes,Sweden,Tunisia
+380,616,1935,188871,1,Couronnes,Sweden,Tunisia
+380,616,1936,129104,1,Couronnes,Sweden,Tunisia
+380,616,1937,569559,1,Couronnes,Sweden,Tunisia
+380,616,1938,411581,1,Couronnes,Sweden,Tunisia
+380,616,1939,261928,1,Couronnes,Sweden,Tunisia
+380,616,1940,32560,1,Couronnes,Sweden,Tunisia
+380,616,1941,4369,1,Couronnes,Sweden,Tunisia
+380,616,1942,17964,1,Couronnes,Sweden,Tunisia
+380,616,1943,0,1,Couronnes,Sweden,Tunisia
+380,616,1944,0,1,Couronnes,Sweden,Tunisia
+380,616,1945,0,1,Couronnes,Sweden,Tunisia
+380,616,1946,649438,1,Couronnes,Sweden,Tunisia
+380,616,1947,1316532,1,Couronnes,Sweden,Tunisia
+380,616,1948,1854017,1,Kronor,Sweden,Tunisia
+380,616,1949,1816517,1,Kronor,Sweden,Tunisia
+380,620,1912,0,1,,Sweden,Libya
+380,620,1913,0,1,,Sweden,Libya
+380,620,1914,0,1,,Sweden,Libya
+380,620,1915,0,1,,Sweden,Libya
+380,620,1916,0,1,,Sweden,Libya
+380,620,1917,0,1,,Sweden,Libya
+380,620,1918,0,1,,Sweden,Libya
+380,620,1919,0,1,,Sweden,Libya
+380,620,1920,0,1,,Sweden,Libya
+380,620,1921,0,1,,Sweden,Libya
+380,620,1922,0,1,,Sweden,Libya
+380,620,1923,0,1,,Sweden,Libya
+380,620,1924,0,1,Couronnes,Sweden,Libya
+380,620,1925,0,1,Couronnes,Sweden,Libya
+380,620,1926,0,1,Couronnes,Sweden,Libya
+380,620,1927,0,1,Couronnes,Sweden,Libya
+380,620,1928,0,1,Couronnes,Sweden,Libya
+380,620,1929,0,1,Couronnes,Sweden,Libya
+380,620,1930,0,1,Couronnes,Sweden,Libya
+380,620,1931,0,1,Couronnes,Sweden,Libya
+380,620,1932,0,1,Couronnes,Sweden,Libya
+380,620,1933,0,1,Couronnes,Sweden,Libya
+380,620,1934,0,1,Couronnes,Sweden,Libya
+380,620,1935,0,1,Couronnes,Sweden,Libya
+380,620,1936,0,1,Couronnes,Sweden,Libya
+380,620,1937,0,1,Couronnes,Sweden,Libya
+380,620,1938,0,1,Couronnes,Sweden,Libya
+380,620,1939,2299,1,Couronnes,Sweden,Libya
+380,620,1940,220,1,Couronnes,Sweden,Libya
+380,620,1941,1315,1,Couronnes,Sweden,Libya
+380,620,1942,23702,1,Couronnes,Sweden,Libya
+380,620,1943,6848,1,Couronnes,Sweden,Libya
+380,620,1944,0,1,Couronnes,Sweden,Libya
+380,620,1945,0,1,Couronnes,Sweden,Libya
+380,620,1946,0,1,Couronnes,Sweden,Libya
+380,620,1947,0,1,Couronnes,Sweden,Libya
+380,620,1948,0,1,Kronor,Sweden,Libya
+380,620,1949,523,1,Kronor,Sweden,Libya
+380,625,1912,0,1,,Sweden,Sudan
+380,625,1913,0,1,,Sweden,Sudan
+380,625,1914,0,1,,Sweden,Sudan
+380,625,1915,0,1,,Sweden,Sudan
+380,625,1916,0,1,,Sweden,Sudan
+380,625,1917,0,1,,Sweden,Sudan
+380,625,1918,0,1,,Sweden,Sudan
+380,625,1919,0,1,,Sweden,Sudan
+380,625,1920,0,1,,Sweden,Sudan
+380,625,1921,0,1,,Sweden,Sudan
+380,625,1922,0,1,,Sweden,Sudan
+380,625,1923,0,1,,Sweden,Sudan
+380,625,1924,0,1,Couronnes,Sweden,Sudan
+380,625,1925,0,1,Couronnes,Sweden,Sudan
+380,625,1926,0,1,Couronnes,Sweden,Sudan
+380,625,1927,0,1,Couronnes,Sweden,Sudan
+380,625,1928,0,1,Couronnes,Sweden,Sudan
+380,625,1929,0,1,Couronnes,Sweden,Sudan
+380,625,1930,0,1,Couronnes,Sweden,Sudan
+380,625,1931,0,1,Couronnes,Sweden,Sudan
+380,625,1932,0,1,Couronnes,Sweden,Sudan
+380,625,1933,0,1,Couronnes,Sweden,Sudan
+380,625,1934,0,1,Couronnes,Sweden,Sudan
+380,625,1935,0,1,Couronnes,Sweden,Sudan
+380,625,1936,0,1,Couronnes,Sweden,Sudan
+380,625,1937,0,1,Couronnes,Sweden,Sudan
+380,625,1938,0,1,Couronnes,Sweden,Sudan
+380,625,1939,0,1,Couronnes,Sweden,Sudan
+380,625,1940,0,1,Couronnes,Sweden,Sudan
+380,625,1941,0,1,Couronnes,Sweden,Sudan
+380,625,1942,0,1,Couronnes,Sweden,Sudan
+380,625,1943,0,1,Couronnes,Sweden,Sudan
+380,625,1944,0,1,Couronnes,Sweden,Sudan
+380,625,1945,0,1,Couronnes,Sweden,Sudan
+380,625,1946,0,1,Couronnes,Sweden,Sudan
+380,625,1947,768736,1,Couronnes,Sweden,Sudan
+380,625,1948,1360386,1,Kronor,Sweden,Sudan
+380,625,1949,428813,1,Kronor,Sweden,Sudan
+380,630,1912,783,1,,Sweden,Iran
+380,630,1913,10610,1,,Sweden,Iran
+380,630,1914,8552,1,,Sweden,Iran
+380,630,1915,5167,1,,Sweden,Iran
+380,630,1916,5163,1,,Sweden,Iran
+380,630,1917,0,1,,Sweden,Iran
+380,630,1918,54097,1,,Sweden,Iran
+380,630,1919,0,1,,Sweden,Iran
+380,630,1920,4522,1,,Sweden,Iran
+380,630,1921,10779,1,,Sweden,Iran
+380,630,1922,94791,1,,Sweden,Iran
+380,630,1923,103385,1,,Sweden,Iran
+380,630,1924,24217,1,Couronnes,Sweden,Iran
+380,630,1925,443992,1,Couronnes,Sweden,Iran
+380,630,1926,57364,1,Couronnes,Sweden,Iran
+380,630,1927,9,1,Couronnes,Sweden,Iran
+380,630,1928,5790,1,Couronnes,Sweden,Iran
+380,630,1929,87956,1,Couronnes,Sweden,Iran
+380,630,1930,9580,1,Couronnes,Sweden,Iran
+380,630,1931,154429,1,Couronnes,Sweden,Iran
+380,630,1932,1010284,1,Couronnes,Sweden,Iran
+380,630,1933,906160,1,Couronnes,Sweden,Iran
+380,630,1934,755557,1,Couronnes,Sweden,Iran
+380,630,1935,1581608,1,Couronnes,Sweden,Iran
+380,630,1936,7382222,1,Couronnes,Sweden,Iran
+380,630,1937,9783016,1,Couronnes,Sweden,Iran
+380,630,1938,7196964,1,Couronnes,Sweden,Iran
+380,630,1939,6559096,1,Couronnes,Sweden,Iran
+380,630,1940,3107055,1,Couronnes,Sweden,Iran
+380,630,1941,2104071,1,Couronnes,Sweden,Iran
+380,630,1942,526364,1,Couronnes,Sweden,Iran
+380,630,1943,144918,1,Couronnes,Sweden,Iran
+380,630,1944,144971,1,Couronnes,Sweden,Iran
+380,630,1945,3132500,1,Couronnes,Sweden,Iran
+380,630,1946,26936308,1,Couronnes,Sweden,Iran
+380,630,1947,50762214,1,Couronnes,Sweden,Iran
+380,630,1948,62884731,1,Kronor,Sweden,Iran
+380,630,1949,74642511,1,Kronor,Sweden,Iran
+380,640,1912,449173,1,,Sweden,Turkey
+380,640,1913,664176,1,,Sweden,Turkey
+380,640,1914,547837,1,,Sweden,Turkey
+380,640,1915,118176,1,,Sweden,Turkey
+380,640,1916,115294,1,,Sweden,Turkey
+380,640,1917,154947,1,,Sweden,Turkey
+380,640,1918,89380,1,,Sweden,Turkey
+380,640,1919,1506747,1,,Sweden,Turkey
+380,640,1920,2344979,1,,Sweden,Turkey
+380,640,1921,1985384,1,,Sweden,Turkey
+380,640,1922,1044172,1,,Sweden,Turkey
+380,640,1923,500928,1,,Sweden,Turkey
+380,640,1924,644318,1,Couronnes,Sweden,Turkey
+380,640,1925,1209305,1,Couronnes,Sweden,Turkey
+380,640,1926,2272686,1,Couronnes,Sweden,Turkey
+380,640,1927,3068959,1,Couronnes,Sweden,Turkey
+380,640,1928,807550,1,Couronnes,Sweden,Turkey
+380,640,1929,518209,1,Couronnes,Sweden,Turkey
+380,640,1930,3927004,1,Couronnes,Sweden,Turkey
+380,640,1931,1825925,1,Couronnes,Sweden,Turkey
+380,640,1932,3941801,1,Couronnes,Sweden,Turkey
+380,640,1933,3676404,1,Couronnes,Sweden,Turkey
+380,640,1934,4328412,1,Couronnes,Sweden,Turkey
+380,640,1935,2736548,1,Couronnes,Sweden,Turkey
+380,640,1936,6016402,1,Couronnes,Sweden,Turkey
+380,640,1937,7753980,1,Couronnes,Sweden,Turkey
+380,640,1938,6127012,1,Couronnes,Sweden,Turkey
+380,640,1939,6471686,1,Couronnes,Sweden,Turkey
+380,640,1940,5675568,1,Couronnes,Sweden,Turkey
+380,640,1941,7566038,1,Couronnes,Sweden,Turkey
+380,640,1942,26639715,1,Couronnes,Sweden,Turkey
+380,640,1943,22168944,1,Couronnes,Sweden,Turkey
+380,640,1944,7577934,1,Couronnes,Sweden,Turkey
+380,640,1945,13401582,1,Couronnes,Sweden,Turkey
+380,640,1946,42004681,1,Couronnes,Sweden,Turkey
+380,640,1947,30432289,1,Couronnes,Sweden,Turkey
+380,640,1948,24076471,1,Kronor,Sweden,Turkey
+380,640,1949,20470211,1,Kronor,Sweden,Turkey
+380,641,1912,232569,1,,Sweden,Turkey in Europe
+380,641,1913,479690,1,,Sweden,Turkey in Europe
+380,641,1914,222651,1,,Sweden,Turkey in Europe
+380,641,1915,49882,1,,Sweden,Turkey in Europe
+380,641,1916,58103,1,,Sweden,Turkey in Europe
+380,641,1917,731998,1,,Sweden,Turkey in Europe
+380,641,1918,2595106,1,,Sweden,Turkey in Europe
+380,641,1919,554681,1,,Sweden,Turkey in Europe
+380,641,1920,668111,1,,Sweden,Turkey in Europe
+380,641,1921,47113,1,,Sweden,Turkey in Europe
+380,641,1922,36201,1,,Sweden,Turkey in Europe
+380,641,1923,54885,1,,Sweden,Turkey in Europe
+380,641,1924,570671,1,Couronnes,Sweden,Turkey in Europe
+380,641,1925,81901,1,Couronnes,Sweden,Turkey in Europe
+380,641,1926,74007,1,Couronnes,Sweden,Turkey in Europe
+380,641,1927,91493,1,Couronnes,Sweden,Turkey in Europe
+380,641,1928,301508,1,Couronnes,Sweden,Turkey in Europe
+380,641,1929,3678157,1,Couronnes,Sweden,Turkey in Europe
+380,641,1930,344571,1,Couronnes,Sweden,Turkey in Europe
+380,641,1931,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1932,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1933,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1934,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1935,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1936,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1937,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1938,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1939,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1940,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1941,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1942,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1943,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1944,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1945,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1946,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1947,0,1,Couronnes,Sweden,Turkey in Europe
+380,641,1948,0,1,Kronor,Sweden,Turkey in Europe
+380,641,1949,0,1,Kronor,Sweden,Turkey in Europe
+380,645,1912,0,1,,Sweden,Iraq
+380,645,1913,0,1,,Sweden,Iraq
+380,645,1914,0,1,,Sweden,Iraq
+380,645,1915,0,1,,Sweden,Iraq
+380,645,1916,0,1,,Sweden,Iraq
+380,645,1917,0,1,,Sweden,Iraq
+380,645,1918,0,1,,Sweden,Iraq
+380,645,1919,0,1,,Sweden,Iraq
+380,645,1920,0,1,,Sweden,Iraq
+380,645,1921,0,1,,Sweden,Iraq
+380,645,1922,0,1,,Sweden,Iraq
+380,645,1923,0,1,,Sweden,Iraq
+380,645,1924,0,1,Couronnes,Sweden,Iraq
+380,645,1925,0,1,Couronnes,Sweden,Iraq
+380,645,1926,0,1,Couronnes,Sweden,Iraq
+380,645,1927,0,1,Couronnes,Sweden,Iraq
+380,645,1928,0,1,Couronnes,Sweden,Iraq
+380,645,1929,442,1,Couronnes,Sweden,Iraq
+380,645,1930,15030,1,Couronnes,Sweden,Iraq
+380,645,1931,74,1,Couronnes,Sweden,Iraq
+380,645,1932,950,1,Couronnes,Sweden,Iraq
+380,645,1933,754,1,Couronnes,Sweden,Iraq
+380,645,1934,422,1,Couronnes,Sweden,Iraq
+380,645,1935,2778,1,Couronnes,Sweden,Iraq
+380,645,1936,8225,1,Couronnes,Sweden,Iraq
+380,645,1937,14719,1,Couronnes,Sweden,Iraq
+380,645,1938,29931,1,Couronnes,Sweden,Iraq
+380,645,1939,14405,1,Couronnes,Sweden,Iraq
+380,645,1940,16754,1,Couronnes,Sweden,Iraq
+380,645,1941,17556,1,Couronnes,Sweden,Iraq
+380,645,1942,0,1,Couronnes,Sweden,Iraq
+380,645,1943,0,1,Couronnes,Sweden,Iraq
+380,645,1944,0,1,Couronnes,Sweden,Iraq
+380,645,1945,0,1,Couronnes,Sweden,Iraq
+380,645,1946,216870,1,Couronnes,Sweden,Iraq
+380,645,1947,214347,1,Couronnes,Sweden,Iraq
+380,645,1948,1208598,1,Kronor,Sweden,Iraq
+380,645,1949,7220581,1,Kronor,Sweden,Iraq
+380,651,1912,984425,1,,Sweden,Egypt
+380,651,1913,278396,1,,Sweden,Egypt
+380,651,1914,379776,1,,Sweden,Egypt
+380,651,1915,225718,1,,Sweden,Egypt
+380,651,1916,222365,1,,Sweden,Egypt
+380,651,1917,80068,1,,Sweden,Egypt
+380,651,1918,61617,1,,Sweden,Egypt
+380,651,1919,1729854,1,,Sweden,Egypt
+380,651,1920,687203,1,,Sweden,Egypt
+380,651,1921,227388,1,,Sweden,Egypt
+380,651,1922,361080,1,,Sweden,Egypt
+380,651,1923,386353,1,,Sweden,Egypt
+380,651,1924,557551,1,Couronnes,Sweden,Egypt
+380,651,1925,602497,1,Couronnes,Sweden,Egypt
+380,651,1926,975970,1,Couronnes,Sweden,Egypt
+380,651,1927,1423651,1,Couronnes,Sweden,Egypt
+380,651,1928,2904980,1,Couronnes,Sweden,Egypt
+380,651,1929,1881069,1,Couronnes,Sweden,Egypt
+380,651,1930,1899337,1,Couronnes,Sweden,Egypt
+380,651,1931,1659619,1,Couronnes,Sweden,Egypt
+380,651,1932,1864052,1,Couronnes,Sweden,Egypt
+380,651,1933,2312226,1,Couronnes,Sweden,Egypt
+380,651,1934,2964980,1,Couronnes,Sweden,Egypt
+380,651,1935,4164587,1,Couronnes,Sweden,Egypt
+380,651,1936,4523948,1,Couronnes,Sweden,Egypt
+380,651,1937,6939846,1,Couronnes,Sweden,Egypt
+380,651,1938,5906827,1,Couronnes,Sweden,Egypt
+380,651,1939,7726380,1,Couronnes,Sweden,Egypt
+380,651,1940,3262102,1,Couronnes,Sweden,Egypt
+380,651,1941,410249,1,Couronnes,Sweden,Egypt
+380,651,1942,1572528,1,Couronnes,Sweden,Egypt
+380,651,1943,343937,1,Couronnes,Sweden,Egypt
+380,651,1944,389376,1,Couronnes,Sweden,Egypt
+380,651,1945,1311873,1,Couronnes,Sweden,Egypt
+380,651,1946,8121659,1,Couronnes,Sweden,Egypt
+380,651,1947,5255398,1,Couronnes,Sweden,Egypt
+380,651,1948,27155564,1,Kronor,Sweden,Egypt
+380,651,1949,21169617,1,Kronor,Sweden,Egypt
+380,652,1912,0,1,,Sweden,Syria
+380,652,1913,0,1,,Sweden,Syria
+380,652,1914,0,1,,Sweden,Syria
+380,652,1915,0,1,,Sweden,Syria
+380,652,1916,0,1,,Sweden,Syria
+380,652,1917,0,1,,Sweden,Syria
+380,652,1918,0,1,,Sweden,Syria
+380,652,1919,0,1,,Sweden,Syria
+380,652,1920,0,1,,Sweden,Syria
+380,652,1921,0,1,,Sweden,Syria
+380,652,1922,0,1,,Sweden,Syria
+380,652,1923,0,1,,Sweden,Syria
+380,652,1924,0,1,Couronnes,Sweden,Syria
+380,652,1925,0,1,Couronnes,Sweden,Syria
+380,652,1926,0,1,Couronnes,Sweden,Syria
+380,652,1927,0,1,Couronnes,Sweden,Syria
+380,652,1928,0,1,Couronnes,Sweden,Syria
+380,652,1929,2644,1,Couronnes,Sweden,Syria
+380,652,1930,3344,1,Couronnes,Sweden,Syria
+380,652,1931,18209,1,Couronnes,Sweden,Syria
+380,652,1932,21541,1,Couronnes,Sweden,Syria
+380,652,1933,68542,1,Couronnes,Sweden,Syria
+380,652,1934,23516,1,Couronnes,Sweden,Syria
+380,652,1935,81771,1,Couronnes,Sweden,Syria
+380,652,1936,140190,1,Couronnes,Sweden,Syria
+380,652,1937,74566,1,Couronnes,Sweden,Syria
+380,652,1938,100032,1,Couronnes,Sweden,Syria
+380,652,1939,66842,1,Couronnes,Sweden,Syria
+380,652,1940,63253,1,Couronnes,Sweden,Syria
+380,652,1941,2157760,1,Couronnes,Sweden,Syria
+380,652,1942,56005,1,Couronnes,Sweden,Syria
+380,652,1943,3339,1,Couronnes,Sweden,Syria
+380,652,1944,0,1,Couronnes,Sweden,Syria
+380,652,1945,143716,1,Couronnes,Sweden,Syria
+380,652,1946,263656,1,Couronnes,Sweden,Syria
+380,652,1947,316281,1,Couronnes,Sweden,Syria
+380,652,1948,0,1,Kronor,Sweden,Syria
+380,652,1949,0,1,Kronor,Sweden,Syria
+380,665,1912,0,1,,Sweden,West Bank And Gaza
+380,665,1913,0,1,,Sweden,West Bank And Gaza
+380,665,1914,0,1,,Sweden,West Bank And Gaza
+380,665,1915,0,1,,Sweden,West Bank And Gaza
+380,665,1916,0,1,,Sweden,West Bank And Gaza
+380,665,1917,0,1,,Sweden,West Bank And Gaza
+380,665,1918,0,1,,Sweden,West Bank And Gaza
+380,665,1919,0,1,,Sweden,West Bank And Gaza
+380,665,1920,0,1,,Sweden,West Bank And Gaza
+380,665,1921,0,1,,Sweden,West Bank And Gaza
+380,665,1922,0,1,,Sweden,West Bank And Gaza
+380,665,1923,0,1,,Sweden,West Bank And Gaza
+380,665,1924,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1925,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1926,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1927,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1928,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1929,16460,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1930,11989,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1931,198847,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1932,449847,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1933,439040,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1934,667887,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1935,1254749,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1936,2565180,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1937,4043197,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1938,5540114,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1939,5728457,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1940,2733659,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1941,1767,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1942,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1943,0,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1944,186,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1945,1985313,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1946,14061229,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1947,9043138,1,Couronnes,Sweden,West Bank And Gaza
+380,665,1948,5632330,1,Kronor,Sweden,West Bank And Gaza
+380,665,1949,12187745,1,Kronor,Sweden,West Bank And Gaza
+380,675,1912,0,1,,Sweden,Arabia
+380,675,1913,0,1,,Sweden,Arabia
+380,675,1914,0,1,,Sweden,Arabia
+380,675,1915,0,1,,Sweden,Arabia
+380,675,1916,0,1,,Sweden,Arabia
+380,675,1917,0,1,,Sweden,Arabia
+380,675,1918,0,1,,Sweden,Arabia
+380,675,1919,0,1,,Sweden,Arabia
+380,675,1920,0,1,,Sweden,Arabia
+380,675,1921,0,1,,Sweden,Arabia
+380,675,1922,0,1,,Sweden,Arabia
+380,675,1923,0,1,,Sweden,Arabia
+380,675,1924,0,1,Couronnes,Sweden,Arabia
+380,675,1925,0,1,Couronnes,Sweden,Arabia
+380,675,1926,0,1,Couronnes,Sweden,Arabia
+380,675,1927,0,1,Couronnes,Sweden,Arabia
+380,675,1928,0,1,Couronnes,Sweden,Arabia
+380,675,1929,177609,1,Couronnes,Sweden,Arabia
+380,675,1930,204717,1,Couronnes,Sweden,Arabia
+380,675,1931,245503,1,Couronnes,Sweden,Arabia
+380,675,1932,203869,1,Couronnes,Sweden,Arabia
+380,675,1933,225845,1,Couronnes,Sweden,Arabia
+380,675,1934,202500,1,Couronnes,Sweden,Arabia
+380,675,1935,198125,1,Couronnes,Sweden,Arabia
+380,675,1936,166215,1,Couronnes,Sweden,Arabia
+380,675,1937,199357,1,Couronnes,Sweden,Arabia
+380,675,1938,208018,1,Couronnes,Sweden,Arabia
+380,675,1939,221893,1,Couronnes,Sweden,Arabia
+380,675,1940,118120,1,Couronnes,Sweden,Arabia
+380,675,1941,33269,1,Couronnes,Sweden,Arabia
+380,675,1942,5749,1,Couronnes,Sweden,Arabia
+380,675,1943,1079,1,Couronnes,Sweden,Arabia
+380,675,1944,1435,1,Couronnes,Sweden,Arabia
+380,675,1945,18250,1,Couronnes,Sweden,Arabia
+380,675,1946,925806,1,Couronnes,Sweden,Arabia
+380,675,1947,11492682,1,Couronnes,Sweden,Arabia
+380,675,1948,39369043,1,Kronor,Sweden,Arabia
+380,675,1949,33014088,1,Kronor,Sweden,Arabia
+380,710,1912,290445,1,,Sweden,China
+380,710,1913,610409,1,,Sweden,China
+380,710,1914,912959,1,,Sweden,China
+380,710,1915,603652,1,,Sweden,China
+380,710,1916,1433166,1,,Sweden,China
+380,710,1917,871103,1,,Sweden,China
+380,710,1918,107431,1,,Sweden,China
+380,710,1919,3116671,1,,Sweden,China
+380,710,1920,1889555,1,,Sweden,China
+380,710,1921,3175325,1,,Sweden,China
+380,710,1922,889753,1,,Sweden,China
+380,710,1923,210864,1,,Sweden,China
+380,710,1924,240871,1,Couronnes,Sweden,China
+380,710,1925,351062,1,Couronnes,Sweden,China
+380,710,1926,1138684,1,Couronnes,Sweden,China
+380,710,1927,364929,1,Couronnes,Sweden,China
+380,710,1928,650138,1,Couronnes,Sweden,China
+380,710,1929,667474,1,Couronnes,Sweden,China
+380,710,1930,862403,1,Couronnes,Sweden,China
+380,710,1931,872116,1,Couronnes,Sweden,China
+380,710,1932,1247662,1,Couronnes,Sweden,China
+380,710,1933,1164997,1,Couronnes,Sweden,China
+380,710,1934,871187,1,Couronnes,Sweden,China
+380,710,1935,1468546,1,Couronnes,Sweden,China
+380,710,1936,28185751,1,Couronnes,Sweden,China
+380,710,1937,31618589,1,Couronnes,Sweden,China
+380,710,1938,31044111,1,Couronnes,Sweden,China
+380,710,1939,5193184,1,Couronnes,Sweden,China
+380,710,1940,9390464,1,Couronnes,Sweden,China
+380,710,1941,5575820,1,Couronnes,Sweden,China
+380,710,1942,1359465,1,Couronnes,Sweden,China
+380,710,1943,1308009,1,Couronnes,Sweden,China
+380,710,1944,515603,1,Couronnes,Sweden,China
+380,710,1945,3398959,1,Couronnes,Sweden,China
+380,710,1946,9825050,1,Couronnes,Sweden,China
+380,710,1947,26272868,1,Couronnes,Sweden,China
+380,710,1948,13232221,1,Kronor,Sweden,China
+380,710,1949,6380712,1,Kronor,Sweden,China
+380,740,1912,478260,1,,Sweden,Japan
+380,740,1913,650691,1,,Sweden,Japan
+380,740,1914,450385,1,,Sweden,Japan
+380,740,1915,1083406,1,,Sweden,Japan
+380,740,1916,4687411,1,,Sweden,Japan
+380,740,1917,40739,1,,Sweden,Japan
+380,740,1918,45185,1,,Sweden,Japan
+380,740,1919,19194051,1,,Sweden,Japan
+380,740,1920,14523483,1,,Sweden,Japan
+380,740,1921,810439,1,,Sweden,Japan
+380,740,1922,1147805,1,,Sweden,Japan
+380,740,1923,1545253,1,,Sweden,Japan
+380,740,1924,929781,1,Couronnes,Sweden,Japan
+380,740,1925,777099,1,Couronnes,Sweden,Japan
+380,740,1926,1013574,1,Couronnes,Sweden,Japan
+380,740,1927,1074182,1,Couronnes,Sweden,Japan
+380,740,1928,1253615,1,Couronnes,Sweden,Japan
+380,740,1929,1917663,1,Couronnes,Sweden,Japan
+380,740,1930,4231382,1,Couronnes,Sweden,Japan
+380,740,1931,2911773,1,Couronnes,Sweden,Japan
+380,740,1932,3615383,1,Couronnes,Sweden,Japan
+380,740,1933,4882215,1,Couronnes,Sweden,Japan
+380,740,1934,7944541,1,Couronnes,Sweden,Japan
+380,740,1935,8927033,1,Couronnes,Sweden,Japan
+380,740,1936,14873849,1,Couronnes,Sweden,Japan
+380,740,1937,17209590,1,Couronnes,Sweden,Japan
+380,740,1938,15627273,1,Couronnes,Sweden,Japan
+380,740,1939,14951469,1,Couronnes,Sweden,Japan
+380,740,1940,13171520,1,Couronnes,Sweden,Japan
+380,740,1941,13712108,1,Couronnes,Sweden,Japan
+380,740,1942,7501029,1,Couronnes,Sweden,Japan
+380,740,1943,1532986,1,Couronnes,Sweden,Japan
+380,740,1944,633541,1,Couronnes,Sweden,Japan
+380,740,1945,277831,1,Couronnes,Sweden,Japan
+380,740,1946,213218,1,Couronnes,Sweden,Japan
+380,740,1947,9996630,1,Couronnes,Sweden,Japan
+380,740,1948,6659496,1,Kronor,Sweden,Japan
+380,740,1949,25860239,1,Kronor,Sweden,Japan
+380,770,1912,0,1,,Sweden,Pakistan
+380,770,1913,0,1,,Sweden,Pakistan
+380,770,1914,0,1,,Sweden,Pakistan
+380,770,1915,0,1,,Sweden,Pakistan
+380,770,1916,0,1,,Sweden,Pakistan
+380,770,1917,0,1,,Sweden,Pakistan
+380,770,1918,0,1,,Sweden,Pakistan
+380,770,1919,0,1,,Sweden,Pakistan
+380,770,1920,0,1,,Sweden,Pakistan
+380,770,1921,0,1,,Sweden,Pakistan
+380,770,1922,0,1,,Sweden,Pakistan
+380,770,1923,0,1,,Sweden,Pakistan
+380,770,1924,0,1,Couronnes,Sweden,Pakistan
+380,770,1925,0,1,Couronnes,Sweden,Pakistan
+380,770,1926,0,1,Couronnes,Sweden,Pakistan
+380,770,1927,0,1,Couronnes,Sweden,Pakistan
+380,770,1928,0,1,Couronnes,Sweden,Pakistan
+380,770,1929,0,1,Couronnes,Sweden,Pakistan
+380,770,1930,0,1,Couronnes,Sweden,Pakistan
+380,770,1931,0,1,Couronnes,Sweden,Pakistan
+380,770,1932,0,1,Couronnes,Sweden,Pakistan
+380,770,1933,0,1,Couronnes,Sweden,Pakistan
+380,770,1934,0,1,Couronnes,Sweden,Pakistan
+380,770,1935,0,1,Couronnes,Sweden,Pakistan
+380,770,1936,0,1,Couronnes,Sweden,Pakistan
+380,770,1937,0,1,Couronnes,Sweden,Pakistan
+380,770,1938,0,1,Couronnes,Sweden,Pakistan
+380,770,1939,0,1,Couronnes,Sweden,Pakistan
+380,770,1940,0,1,Couronnes,Sweden,Pakistan
+380,770,1941,0,1,Couronnes,Sweden,Pakistan
+380,770,1942,0,1,Couronnes,Sweden,Pakistan
+380,770,1943,0,1,Couronnes,Sweden,Pakistan
+380,770,1944,0,1,Couronnes,Sweden,Pakistan
+380,770,1945,0,1,Couronnes,Sweden,Pakistan
+380,770,1946,0,1,Couronnes,Sweden,Pakistan
+380,770,1947,0,1,Couronnes,Sweden,Pakistan
+380,770,1948,0,1,Kronor,Sweden,Pakistan
+380,770,1949,13499784,1,Kronor,Sweden,Pakistan
+380,775,1912,0,1,,Sweden,Myanmar
+380,775,1913,0,1,,Sweden,Myanmar
+380,775,1914,0,1,,Sweden,Myanmar
+380,775,1915,0,1,,Sweden,Myanmar
+380,775,1916,0,1,,Sweden,Myanmar
+380,775,1917,0,1,,Sweden,Myanmar
+380,775,1918,0,1,,Sweden,Myanmar
+380,775,1919,0,1,,Sweden,Myanmar
+380,775,1920,0,1,,Sweden,Myanmar
+380,775,1921,0,1,,Sweden,Myanmar
+380,775,1922,0,1,,Sweden,Myanmar
+380,775,1923,0,1,,Sweden,Myanmar
+380,775,1924,0,1,Couronnes,Sweden,Myanmar
+380,775,1925,0,1,Couronnes,Sweden,Myanmar
+380,775,1926,0,1,Couronnes,Sweden,Myanmar
+380,775,1927,0,1,Couronnes,Sweden,Myanmar
+380,775,1928,0,1,Couronnes,Sweden,Myanmar
+380,775,1929,0,1,Couronnes,Sweden,Myanmar
+380,775,1930,0,1,Couronnes,Sweden,Myanmar
+380,775,1931,0,1,Couronnes,Sweden,Myanmar
+380,775,1932,0,1,Couronnes,Sweden,Myanmar
+380,775,1933,0,1,Couronnes,Sweden,Myanmar
+380,775,1934,0,1,Couronnes,Sweden,Myanmar
+380,775,1935,0,1,Couronnes,Sweden,Myanmar
+380,775,1936,0,1,Couronnes,Sweden,Myanmar
+380,775,1937,0,1,Couronnes,Sweden,Myanmar
+380,775,1938,0,1,Couronnes,Sweden,Myanmar
+380,775,1939,0,1,Couronnes,Sweden,Myanmar
+380,775,1940,642448,1,Couronnes,Sweden,Myanmar
+380,775,1941,0,1,Couronnes,Sweden,Myanmar
+380,775,1942,0,1,Couronnes,Sweden,Myanmar
+380,775,1943,0,1,Couronnes,Sweden,Myanmar
+380,775,1944,0,1,Couronnes,Sweden,Myanmar
+380,775,1945,0,1,Couronnes,Sweden,Myanmar
+380,775,1946,66689,1,Couronnes,Sweden,Myanmar
+380,775,1947,57500,1,Couronnes,Sweden,Myanmar
+380,775,1948,5449955,1,Kronor,Sweden,Myanmar
+380,775,1949,2177481,1,Kronor,Sweden,Myanmar
+380,780,1912,0,1,,Sweden,Sri Lanka
+380,780,1913,0,1,,Sweden,Sri Lanka
+380,780,1914,0,1,,Sweden,Sri Lanka
+380,780,1915,0,1,,Sweden,Sri Lanka
+380,780,1916,0,1,,Sweden,Sri Lanka
+380,780,1917,0,1,,Sweden,Sri Lanka
+380,780,1918,0,1,,Sweden,Sri Lanka
+380,780,1919,0,1,,Sweden,Sri Lanka
+380,780,1920,0,1,,Sweden,Sri Lanka
+380,780,1921,0,1,,Sweden,Sri Lanka
+380,780,1922,0,1,,Sweden,Sri Lanka
+380,780,1923,0,1,,Sweden,Sri Lanka
+380,780,1924,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1925,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1926,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1927,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1928,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1929,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1930,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1931,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1932,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1933,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1934,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1935,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1936,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1937,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1938,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1939,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1940,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1941,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1942,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1943,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1944,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1945,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1946,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1947,0,1,Couronnes,Sweden,Sri Lanka
+380,780,1948,0,1,Kronor,Sweden,Sri Lanka
+380,780,1949,7962841,1,Kronor,Sweden,Sri Lanka
+380,800,1912,9729,1,,Sweden,Thailand
+380,800,1913,220,1,,Sweden,Thailand
+380,800,1914,40332,1,,Sweden,Thailand
+380,800,1915,100,1,,Sweden,Thailand
+380,800,1916,0,1,,Sweden,Thailand
+380,800,1917,0,1,,Sweden,Thailand
+380,800,1918,0,1,,Sweden,Thailand
+380,800,1919,0,1,,Sweden,Thailand
+380,800,1920,0,1,,Sweden,Thailand
+380,800,1921,0,1,,Sweden,Thailand
+380,800,1922,0,1,,Sweden,Thailand
+380,800,1923,0,1,,Sweden,Thailand
+380,800,1924,5022,1,Couronnes,Sweden,Thailand
+380,800,1925,48339,1,Couronnes,Sweden,Thailand
+380,800,1926,19587,1,Couronnes,Sweden,Thailand
+380,800,1927,0,1,Couronnes,Sweden,Thailand
+380,800,1928,135,1,Couronnes,Sweden,Thailand
+380,800,1929,10343,1,Couronnes,Sweden,Thailand
+380,800,1930,9671,1,Couronnes,Sweden,Thailand
+380,800,1931,8732,1,Couronnes,Sweden,Thailand
+380,800,1932,780,1,Couronnes,Sweden,Thailand
+380,800,1933,26313,1,Couronnes,Sweden,Thailand
+380,800,1934,19772,1,Couronnes,Sweden,Thailand
+380,800,1935,53313,1,Couronnes,Sweden,Thailand
+380,800,1936,633747,1,Couronnes,Sweden,Thailand
+380,800,1937,1183140,1,Couronnes,Sweden,Thailand
+380,800,1938,1310126,1,Couronnes,Sweden,Thailand
+380,800,1939,1527978,1,Couronnes,Sweden,Thailand
+380,800,1940,1602154,1,Couronnes,Sweden,Thailand
+380,800,1941,27380,1,Couronnes,Sweden,Thailand
+380,800,1942,0,1,Couronnes,Sweden,Thailand
+380,800,1943,0,1,Couronnes,Sweden,Thailand
+380,800,1944,0,1,Couronnes,Sweden,Thailand
+380,800,1945,0,1,Couronnes,Sweden,Thailand
+380,800,1946,642282,1,Couronnes,Sweden,Thailand
+380,800,1947,5738766,1,Couronnes,Sweden,Thailand
+380,800,1948,5084526,1,Kronor,Sweden,Thailand
+380,800,1949,4325050,1,Kronor,Sweden,Thailand
+380,840,1912,0,1,,Sweden,Philippines
+380,840,1913,8,1,,Sweden,Philippines
+380,840,1914,12,1,,Sweden,Philippines
+380,840,1915,75,1,,Sweden,Philippines
+380,840,1916,0,1,,Sweden,Philippines
+380,840,1917,0,1,,Sweden,Philippines
+380,840,1918,0,1,,Sweden,Philippines
+380,840,1919,0,1,,Sweden,Philippines
+380,840,1920,0,1,,Sweden,Philippines
+380,840,1921,0,1,,Sweden,Philippines
+380,840,1922,0,1,,Sweden,Philippines
+380,840,1923,0,1,,Sweden,Philippines
+380,840,1924,7000,1,Couronnes,Sweden,Philippines
+380,840,1925,6411,1,Couronnes,Sweden,Philippines
+380,840,1926,14380,1,Couronnes,Sweden,Philippines
+380,840,1927,17350,1,Couronnes,Sweden,Philippines
+380,840,1928,109414,1,Couronnes,Sweden,Philippines
+380,840,1929,25172,1,Couronnes,Sweden,Philippines
+380,840,1930,117474,1,Couronnes,Sweden,Philippines
+380,840,1931,797,1,Couronnes,Sweden,Philippines
+380,840,1932,402,1,Couronnes,Sweden,Philippines
+380,840,1933,782,1,Couronnes,Sweden,Philippines
+380,840,1934,17562,1,Couronnes,Sweden,Philippines
+380,840,1935,1183,1,Couronnes,Sweden,Philippines
+380,840,1936,2278715,1,Couronnes,Sweden,Philippines
+380,840,1937,2340124,1,Couronnes,Sweden,Philippines
+380,840,1938,4844328,1,Couronnes,Sweden,Philippines
+380,840,1939,4725608,1,Couronnes,Sweden,Philippines
+380,840,1940,7267470,1,Couronnes,Sweden,Philippines
+380,840,1941,317987,1,Couronnes,Sweden,Philippines
+380,840,1942,351394,1,Couronnes,Sweden,Philippines
+380,840,1943,59,1,Couronnes,Sweden,Philippines
+380,840,1944,336,1,Couronnes,Sweden,Philippines
+380,840,1945,960,1,Couronnes,Sweden,Philippines
+380,840,1946,94512,1,Couronnes,Sweden,Philippines
+380,840,1947,15580316,1,Couronnes,Sweden,Philippines
+380,840,1948,9611225,1,Kronor,Sweden,Philippines
+380,840,1949,10344848,1,Kronor,Sweden,Philippines
+380,850,1912,564638,1,,Sweden,Indonesia
+380,850,1913,122012,1,,Sweden,Indonesia
+380,850,1914,174067,1,,Sweden,Indonesia
+380,850,1915,104893,1,,Sweden,Indonesia
+380,850,1916,114665,1,,Sweden,Indonesia
+380,850,1917,4000,1,,Sweden,Indonesia
+380,850,1918,5746525,1,,Sweden,Indonesia
+380,850,1919,30618090,1,,Sweden,Indonesia
+380,850,1920,52795551,1,,Sweden,Indonesia
+380,850,1921,4984020,1,,Sweden,Indonesia
+380,850,1922,684323,1,,Sweden,Indonesia
+380,850,1923,4243758,1,,Sweden,Indonesia
+380,850,1924,2719795,1,Couronnes,Sweden,Indonesia
+380,850,1925,771260,1,Couronnes,Sweden,Indonesia
+380,850,1926,623053,1,Couronnes,Sweden,Indonesia
+380,850,1927,1022637,1,Couronnes,Sweden,Indonesia
+380,850,1928,1325137,1,Couronnes,Sweden,Indonesia
+380,850,1929,1087625,1,Couronnes,Sweden,Indonesia
+380,850,1930,938471,1,Couronnes,Sweden,Indonesia
+380,850,1931,853683,1,Couronnes,Sweden,Indonesia
+380,850,1932,732197,1,Couronnes,Sweden,Indonesia
+380,850,1933,707817,1,Couronnes,Sweden,Indonesia
+380,850,1934,659622,1,Couronnes,Sweden,Indonesia
+380,850,1935,675696,1,Couronnes,Sweden,Indonesia
+380,850,1936,11332314,1,Couronnes,Sweden,Indonesia
+380,850,1937,14589637,1,Couronnes,Sweden,Indonesia
+380,850,1938,16719240,1,Couronnes,Sweden,Indonesia
+380,850,1939,14801843,1,Couronnes,Sweden,Indonesia
+380,850,1940,15386502,1,Couronnes,Sweden,Indonesia
+380,850,1941,7479924,1,Couronnes,Sweden,Indonesia
+380,850,1942,5123247,1,Couronnes,Sweden,Indonesia
+380,850,1943,2781203,1,Couronnes,Sweden,Indonesia
+380,850,1944,677795,1,Couronnes,Sweden,Indonesia
+380,850,1945,343865,1,Couronnes,Sweden,Indonesia
+380,850,1946,2106444,1,Couronnes,Sweden,Indonesia
+380,850,1947,9662453,1,Couronnes,Sweden,Indonesia
+380,850,1948,23799567,1,Kronor,Sweden,Indonesia
+380,850,1949,31497233,1,Kronor,Sweden,Indonesia
+380,900,1912,1226639,1,,Sweden,Australia
+380,900,1913,1518351,1,,Sweden,Australia
+380,900,1914,3360266,1,,Sweden,Australia
+380,900,1915,317838,1,,Sweden,Australia
+380,900,1916,2149,1,,Sweden,Australia
+380,900,1917,5,1,,Sweden,Australia
+380,900,1918,9886023,1,,Sweden,Australia
+380,900,1919,27699885,1,,Sweden,Australia
+380,900,1920,14735497,1,,Sweden,Australia
+380,900,1921,5360138,1,,Sweden,Australia
+380,900,1922,875336,1,,Sweden,Australia
+380,900,1923,4215508,1,,Sweden,Australia
+380,900,1924,6200350,1,Couronnes,Sweden,Australia
+380,900,1925,8079150,1,Couronnes,Sweden,Australia
+380,900,1926,3063239,1,Couronnes,Sweden,Australia
+380,900,1927,6986672,1,Couronnes,Sweden,Australia
+380,900,1928,8587740,1,Couronnes,Sweden,Australia
+380,900,1929,7910059,1,Couronnes,Sweden,Australia
+380,900,1930,3752906,1,Couronnes,Sweden,Australia
+380,900,1931,3203084,1,Couronnes,Sweden,Australia
+380,900,1932,4455631,1,Couronnes,Sweden,Australia
+380,900,1933,2465360,1,Couronnes,Sweden,Australia
+380,900,1934,4818621,1,Couronnes,Sweden,Australia
+380,900,1935,3962032,1,Couronnes,Sweden,Australia
+380,900,1936,9163816,1,Couronnes,Sweden,Australia
+380,900,1937,11746521,1,Couronnes,Sweden,Australia
+380,900,1938,11508706,1,Couronnes,Sweden,Australia
+380,900,1939,15609860,1,Couronnes,Sweden,Australia
+380,900,1940,1113085,1,Couronnes,Sweden,Australia
+380,900,1941,115675,1,Couronnes,Sweden,Australia
+380,900,1942,0,1,Couronnes,Sweden,Australia
+380,900,1943,17350,1,Couronnes,Sweden,Australia
+380,900,1944,761,1,Couronnes,Sweden,Australia
+380,900,1945,747167,1,Couronnes,Sweden,Australia
+380,900,1946,27978828,1,Couronnes,Sweden,Australia
+380,900,1947,33121327,1,Couronnes,Sweden,Australia
+380,900,1948,59945235,1,Kronor,Sweden,Australia
+380,900,1949,63930024,1,Kronor,Sweden,Australia
+380,920,1912,0,1,,Sweden,New Zealand
+380,920,1913,0,1,,Sweden,New Zealand
+380,920,1914,0,1,,Sweden,New Zealand
+380,920,1915,0,1,,Sweden,New Zealand
+380,920,1916,0,1,,Sweden,New Zealand
+380,920,1917,0,1,,Sweden,New Zealand
+380,920,1918,0,1,,Sweden,New Zealand
+380,920,1919,0,1,,Sweden,New Zealand
+380,920,1920,0,1,,Sweden,New Zealand
+380,920,1921,0,1,,Sweden,New Zealand
+380,920,1922,0,1,,Sweden,New Zealand
+380,920,1923,0,1,,Sweden,New Zealand
+380,920,1924,824,1,Couronnes,Sweden,New Zealand
+380,920,1925,27906,1,Couronnes,Sweden,New Zealand
+380,920,1926,77451,1,Couronnes,Sweden,New Zealand
+380,920,1927,33071,1,Couronnes,Sweden,New Zealand
+380,920,1928,45500,1,Couronnes,Sweden,New Zealand
+380,920,1929,50058,1,Couronnes,Sweden,New Zealand
+380,920,1930,91436,1,Couronnes,Sweden,New Zealand
+380,920,1931,252799,1,Couronnes,Sweden,New Zealand
+380,920,1932,473504,1,Couronnes,Sweden,New Zealand
+380,920,1933,529997,1,Couronnes,Sweden,New Zealand
+380,920,1934,800035,1,Couronnes,Sweden,New Zealand
+380,920,1935,417534,1,Couronnes,Sweden,New Zealand
+380,920,1936,3599824,1,Couronnes,Sweden,New Zealand
+380,920,1937,3800316,1,Couronnes,Sweden,New Zealand
+380,920,1938,2987012,1,Couronnes,Sweden,New Zealand
+380,920,1939,3438653,1,Couronnes,Sweden,New Zealand
+380,920,1940,402421,1,Couronnes,Sweden,New Zealand
+380,920,1941,120,1,Couronnes,Sweden,New Zealand
+380,920,1942,0,1,Couronnes,Sweden,New Zealand
+380,920,1943,0,1,Couronnes,Sweden,New Zealand
+380,920,1944,107,1,Couronnes,Sweden,New Zealand
+380,920,1945,80986,1,Couronnes,Sweden,New Zealand
+380,920,1946,3790494,1,Couronnes,Sweden,New Zealand
+380,920,1947,7537530,1,Couronnes,Sweden,New Zealand
+380,920,1948,18707651,1,Kronor,Sweden,New Zealand
+380,920,1949,13604196,1,Kronor,Sweden,New Zealand
+380,3651,1912,0,1,,Sweden,Siberia
+380,3651,1913,0,1,,Sweden,Siberia
+380,3651,1914,0,1,,Sweden,Siberia
+380,3651,1915,0,1,,Sweden,Siberia
+380,3651,1916,0,1,,Sweden,Siberia
+380,3651,1917,0,1,,Sweden,Siberia
+380,3651,1918,0,1,,Sweden,Siberia
+380,3651,1919,0,1,,Sweden,Siberia
+380,3651,1920,0,1,,Sweden,Siberia
+380,3651,1921,0,1,,Sweden,Siberia
+380,3651,1922,0,1,,Sweden,Siberia
+380,3651,1923,0,1,,Sweden,Siberia
+380,3651,1924,0,1,Couronnes,Sweden,Siberia
+380,3651,1925,0,1,Couronnes,Sweden,Siberia
+380,3651,1926,0,1,Couronnes,Sweden,Siberia
+380,3651,1927,218113,1,Couronnes,Sweden,Siberia
+380,3651,1928,0,1,Couronnes,Sweden,Siberia
+380,3651,1929,49096,1,Couronnes,Sweden,Siberia
+380,3651,1930,3770,1,Couronnes,Sweden,Siberia
+380,3651,1931,4085,1,Couronnes,Sweden,Siberia
+380,3651,1932,743,1,Couronnes,Sweden,Siberia
+380,3651,1933,8048,1,Couronnes,Sweden,Siberia
+380,3651,1934,12597,1,Couronnes,Sweden,Siberia
+380,3651,1935,3775,1,Couronnes,Sweden,Siberia
+380,3651,1936,9442680,1,Couronnes,Sweden,Siberia
+380,3651,1937,7696358,1,Couronnes,Sweden,Siberia
+380,3651,1938,4785436,1,Couronnes,Sweden,Siberia
+380,3651,1939,1054863,1,Couronnes,Sweden,Siberia
+380,3651,1940,1674290,1,Couronnes,Sweden,Siberia
+380,3651,1941,937252,1,Couronnes,Sweden,Siberia
+380,3651,1942,306032,1,Couronnes,Sweden,Siberia
+380,3651,1943,204806,1,Couronnes,Sweden,Siberia
+380,3651,1944,20415,1,Couronnes,Sweden,Siberia
+380,3651,1945,1279048,1,Couronnes,Sweden,Siberia
+380,3651,1946,160096,1,Couronnes,Sweden,Siberia
+380,3651,1947,576323,1,Couronnes,Sweden,Siberia
+380,3651,1948,1431240,1,Kronor,Sweden,Siberia
+380,3651,1949,2866070,1,Kronor,Sweden,Siberia
+380,5201,1912,0,1,,Sweden,Italian East Africa
+380,5201,1913,0,1,,Sweden,Italian East Africa
+380,5201,1914,0,1,,Sweden,Italian East Africa
+380,5201,1915,0,1,,Sweden,Italian East Africa
+380,5201,1916,0,1,,Sweden,Italian East Africa
+380,5201,1917,0,1,,Sweden,Italian East Africa
+380,5201,1918,0,1,,Sweden,Italian East Africa
+380,5201,1919,0,1,,Sweden,Italian East Africa
+380,5201,1920,0,1,,Sweden,Italian East Africa
+380,5201,1921,0,1,,Sweden,Italian East Africa
+380,5201,1922,0,1,,Sweden,Italian East Africa
+380,5201,1923,0,1,,Sweden,Italian East Africa
+380,5201,1924,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1925,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1926,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1927,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1928,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1929,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1930,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1931,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1932,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1933,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1934,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1935,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1936,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1937,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1938,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1939,275633,1,Couronnes,Sweden,Italian East Africa
+380,5201,1940,306487,1,Couronnes,Sweden,Italian East Africa
+380,5201,1941,299892,1,Couronnes,Sweden,Italian East Africa
+380,5201,1942,13816,1,Couronnes,Sweden,Italian East Africa
+380,5201,1943,5289,1,Couronnes,Sweden,Italian East Africa
+380,5201,1944,2970,1,Couronnes,Sweden,Italian East Africa
+380,5201,1945,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1946,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1947,0,1,Couronnes,Sweden,Italian East Africa
+380,5201,1948,0,1,Kronor,Sweden,Italian East Africa
+380,5201,1949,0,1,Kronor,Sweden,Italian East Africa
+380,,1912,792937665,1,,Sweden,
+380,,1913,856850033,1,,Sweden,
+380,,1914,736246896,1,,Sweden,
+380,,1915,1155909560,1,,Sweden,
+380,,1916,1143308017,1,,Sweden,
+380,,1917,759209900,1,,Sweden,
+380,,1918,1237202877,1,,Sweden,
+380,,1919,2548059175,1,,Sweden,
+380,,1920,3371221849,1,,Sweden,
+380,,1921,1281623497,1,,Sweden,
+380,,1922,1127916080,1,,Sweden,
+380,,1923,1311152045,1,,Sweden,
+380,,1924,1442883494,1,Couronnes,Sweden,
+380,,1925,1466091849,1,Couronnes,Sweden,
+380,,1926,1511238842,1,Couronnes,Sweden,
+380,,1927,1603907551,1,Couronnes,Sweden,
+380,,1928,1727728961,1,Couronnes,Sweden,
+380,,1929,1802995264,1,Couronnes,Sweden,
+380,,1930,1682834501,1,Couronnes,Sweden,
+380,,1931,1443396952,1,Couronnes,Sweden,
+380,,1932,1168039746,1,Couronnes,Sweden,
+380,,1933,1111595335,1,Couronnes,Sweden,
+380,,1934,1317632952,1,Couronnes,Sweden,
+380,,1935,1482803294,1,Couronnes,Sweden,
+380,,1936,1697503892,1,Couronnes,Sweden,
+380,,1937,2216255128,1,Couronnes,Sweden,
+380,,1938,2170836253,1,Couronnes,Sweden,
+380,,1939,2596229615,1,Couronnes,Sweden,
+380,,1940,2055595101,1,Couronnes,Sweden,
+380,,1941,1683987760,1,Couronnes,Sweden,
+380,,1942,1795655476,1,Couronnes,Sweden,
+380,,1943,1833268975,1,Couronnes,Sweden,
+380,,1944,1709846418,1,Couronnes,Sweden,
+380,,1945,1117849840,1,Couronnes,Sweden,
+380,,1946,3518407063,1,Couronnes,Sweden,
+380,,1947,5446842030,1,Couronnes,Sweden,
+380,,1948,5409546359,1,Kronor,Sweden,
+380,,1949,4885659798,1,Kronor,Sweden,

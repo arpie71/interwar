@@ -1,0 +1,221 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+810,French Indo-China,2,United States,1933,12690,1000,Mille Francs
+810,French Indo-China,2,United States,1934,5390,1000,Mille Francs
+810,French Indo-China,2,United States,1935,11227,1000,Mille Francs
+810,French Indo-China,2,United States,1936,15759,1000,Mille Francs
+810,French Indo-China,2,United States,1937,32131,1000,Mille Francs
+810,French Indo-China,20,Canada,1933,293,1000,Mille Francs
+810,French Indo-China,20,Canada,1934,2,1000,Mille Francs
+810,French Indo-China,20,Canada,1935,18,1000,Mille Francs
+810,French Indo-China,20,Canada,1936,33,1000,Mille Francs
+810,French Indo-China,20,Canada,1937,84,1000,Mille Francs
+810,French Indo-China,140,Brazil,1933,5,1000,Mille Francs
+810,French Indo-China,140,Brazil,1934,20,1000,Mille Francs
+810,French Indo-China,140,Brazil,1935,0,1000,Mille Francs
+810,French Indo-China,140,Brazil,1936,0,1000,Mille Francs
+810,French Indo-China,140,Brazil,1937,0,1000,Mille Francs
+810,French Indo-China,160,Argentina,1933,5,1000,Mille Francs
+810,French Indo-China,160,Argentina,1934,0,1000,Mille Francs
+810,French Indo-China,160,Argentina,1935,31,1000,Mille Francs
+810,French Indo-China,160,Argentina,1936,7,1000,Mille Francs
+810,French Indo-China,160,Argentina,1937,34,1000,Mille Francs
+810,French Indo-China,200,United Kingdom,1933,8361,1000,Mille Francs
+810,French Indo-China,200,United Kingdom,1934,7154,1000,Mille Francs
+810,French Indo-China,200,United Kingdom,1935,9225,1000,Mille Francs
+810,French Indo-China,200,United Kingdom,1936,13760,1000,Mille Francs
+810,French Indo-China,200,United Kingdom,1937,24499,1000,Mille Francs
+810,French Indo-China,205,Ireland,1933,0,1000,Mille Francs
+810,French Indo-China,205,Ireland,1934,0,1000,Mille Francs
+810,French Indo-China,205,Ireland,1935,0,1000,Mille Francs
+810,French Indo-China,205,Ireland,1936,22,1000,Mille Francs
+810,French Indo-China,205,Ireland,1937,10,1000,Mille Francs
+810,French Indo-China,210,Netherlands,1933,5919,1000,Mille Francs
+810,French Indo-China,210,Netherlands,1934,3875,1000,Mille Francs
+810,French Indo-China,210,Netherlands,1935,4818,1000,Mille Francs
+810,French Indo-China,210,Netherlands,1936,6507,1000,Mille Francs
+810,French Indo-China,210,Netherlands,1937,8272,1000,Mille Francs
+810,French Indo-China,220,France,1933,277626,1000,Mille Francs
+810,French Indo-China,220,France,1934,293838,1000,Mille Francs
+810,French Indo-China,220,France,1935,316720,1000,Mille Francs
+810,French Indo-China,220,France,1936,316736,1000,Mille Francs
+810,French Indo-China,220,France,1937,527032,1000,Mille Francs
+810,French Indo-China,225,Switzerland,1933,5402,1000,Mille Francs
+810,French Indo-China,225,Switzerland,1934,88,1000,Mille Francs
+810,French Indo-China,225,Switzerland,1935,393,1000,Mille Francs
+810,French Indo-China,225,Switzerland,1936,549,1000,Mille Francs
+810,French Indo-China,225,Switzerland,1937,3802,1000,Mille Francs
+810,French Indo-China,230,Spain,1933,441,1000,Mille Francs
+810,French Indo-China,230,Spain,1934,0,1000,Mille Francs
+810,French Indo-China,230,Spain,1935,22,1000,Mille Francs
+810,French Indo-China,230,Spain,1936,20,1000,Mille Francs
+810,French Indo-China,230,Spain,1937,0,1000,Mille Francs
+810,French Indo-China,235,Portugal,1933,170,1000,Mille Francs
+810,French Indo-China,235,Portugal,1934,0,1000,Mille Francs
+810,French Indo-China,235,Portugal,1935,67,1000,Mille Francs
+810,French Indo-China,235,Portugal,1936,87,1000,Mille Francs
+810,French Indo-China,235,Portugal,1937,115,1000,Mille Francs
+810,French Indo-China,255,Germany,1933,3925,1000,Mille Francs
+810,French Indo-China,255,Germany,1934,1007,1000,Mille Francs
+810,French Indo-China,255,Germany,1935,2086,1000,Mille Francs
+810,French Indo-China,255,Germany,1936,3500,1000,Mille Francs
+810,French Indo-China,255,Germany,1937,8342,1000,Mille Francs
+810,French Indo-China,290,Poland,1933,15,1000,Mille Francs
+810,French Indo-China,290,Poland,1934,0,1000,Mille Francs
+810,French Indo-China,290,Poland,1935,0,1000,Mille Francs
+810,French Indo-China,290,Poland,1936,0,1000,Mille Francs
+810,French Indo-China,290,Poland,1937,5,1000,Mille Francs
+810,French Indo-China,305,Austria,1933,327,1000,Mille Francs
+810,French Indo-China,305,Austria,1934,28,1000,Mille Francs
+810,French Indo-China,305,Austria,1935,228,1000,Mille Francs
+810,French Indo-China,305,Austria,1936,297,1000,Mille Francs
+810,French Indo-China,305,Austria,1937,1370,1000,Mille Francs
+810,French Indo-China,310,Hungary,1933,4,1000,Mille Francs
+810,French Indo-China,310,Hungary,1934,40,1000,Mille Francs
+810,French Indo-China,310,Hungary,1935,63,1000,Mille Francs
+810,French Indo-China,310,Hungary,1936,86,1000,Mille Francs
+810,French Indo-China,310,Hungary,1937,175,1000,Mille Francs
+810,French Indo-China,315,Czechoslovakia,1933,1248,1000,Mille Francs
+810,French Indo-China,315,Czechoslovakia,1934,408,1000,Mille Francs
+810,French Indo-China,315,Czechoslovakia,1935,702,1000,Mille Francs
+810,French Indo-China,315,Czechoslovakia,1936,889,1000,Mille Francs
+810,French Indo-China,315,Czechoslovakia,1937,4249,1000,Mille Francs
+810,French Indo-China,325,Italy,1933,1394,1000,Mille Francs
+810,French Indo-China,325,Italy,1934,1096,1000,Mille Francs
+810,French Indo-China,325,Italy,1935,2365,1000,Mille Francs
+810,French Indo-China,325,Italy,1936,1114,1000,Mille Francs
+810,French Indo-China,325,Italy,1937,1930,1000,Mille Francs
+810,French Indo-China,345,Yugoslavia,1933,235,1000,Mille Francs
+810,French Indo-China,345,Yugoslavia,1934,953,1000,Mille Francs
+810,French Indo-China,345,Yugoslavia,1935,303,1000,Mille Francs
+810,French Indo-China,345,Yugoslavia,1936,207,1000,Mille Francs
+810,French Indo-China,345,Yugoslavia,1937,813,1000,Mille Francs
+810,French Indo-China,350,Greece,1933,30,1000,Mille Francs
+810,French Indo-China,350,Greece,1934,6,1000,Mille Francs
+810,French Indo-China,350,Greece,1935,0,1000,Mille Francs
+810,French Indo-China,350,Greece,1936,35,1000,Mille Francs
+810,French Indo-China,350,Greece,1937,21,1000,Mille Francs
+810,French Indo-China,355,Bulgaria,1933,0,1000,Mille Francs
+810,French Indo-China,355,Bulgaria,1934,0,1000,Mille Francs
+810,French Indo-China,355,Bulgaria,1935,0,1000,Mille Francs
+810,French Indo-China,355,Bulgaria,1936,0,1000,Mille Francs
+810,French Indo-China,355,Bulgaria,1937,38,1000,Mille Francs
+810,French Indo-China,360,Romania,1933,11,1000,Mille Francs
+810,French Indo-China,360,Romania,1934,0,1000,Mille Francs
+810,French Indo-China,360,Romania,1935,0,1000,Mille Francs
+810,French Indo-China,360,Romania,1936,0,1000,Mille Francs
+810,French Indo-China,360,Romania,1937,2,1000,Mille Francs
+810,French Indo-China,365,Russia,1933,8,1000,Mille Francs
+810,French Indo-China,365,Russia,1934,0,1000,Mille Francs
+810,French Indo-China,365,Russia,1935,0,1000,Mille Francs
+810,French Indo-China,365,Russia,1936,0,1000,Mille Francs
+810,French Indo-China,365,Russia,1937,0,1000,Mille Francs
+810,French Indo-China,366,Estonia,1933,0,1000,Mille Francs
+810,French Indo-China,366,Estonia,1934,0,1000,Mille Francs
+810,French Indo-China,366,Estonia,1935,65,1000,Mille Francs
+810,French Indo-China,366,Estonia,1936,131,1000,Mille Francs
+810,French Indo-China,366,Estonia,1937,372,1000,Mille Francs
+810,French Indo-China,375,Finland,1933,24,1000,Mille Francs
+810,French Indo-China,375,Finland,1934,0,1000,Mille Francs
+810,French Indo-China,375,Finland,1935,30,1000,Mille Francs
+810,French Indo-China,375,Finland,1936,21,1000,Mille Francs
+810,French Indo-China,375,Finland,1937,110,1000,Mille Francs
+810,French Indo-China,380,Sweden,1933,394,1000,Mille Francs
+810,French Indo-China,380,Sweden,1934,24,1000,Mille Francs
+810,French Indo-China,380,Sweden,1935,174,1000,Mille Francs
+810,French Indo-China,380,Sweden,1936,604,1000,Mille Francs
+810,French Indo-China,380,Sweden,1937,1094,1000,Mille Francs
+810,French Indo-China,385,Norway,1933,177,1000,Mille Francs
+810,French Indo-China,385,Norway,1934,63,1000,Mille Francs
+810,French Indo-China,385,Norway,1935,15,1000,Mille Francs
+810,French Indo-China,385,Norway,1936,17,1000,Mille Francs
+810,French Indo-China,385,Norway,1937,28,1000,Mille Francs
+810,French Indo-China,390,Denmark,1933,133,1000,Mille Francs
+810,French Indo-China,390,Denmark,1934,337,1000,Mille Francs
+810,French Indo-China,390,Denmark,1935,471,1000,Mille Francs
+810,French Indo-China,390,Denmark,1936,612,1000,Mille Francs
+810,French Indo-China,390,Denmark,1937,253,1000,Mille Francs
+810,French Indo-China,560,South Africa,1933,0,1000,Mille Francs
+810,French Indo-China,560,South Africa,1934,177,1000,Mille Francs
+810,French Indo-China,560,South Africa,1935,158,1000,Mille Francs
+810,French Indo-China,560,South Africa,1936,127,1000,Mille Francs
+810,French Indo-China,560,South Africa,1937,169,1000,Mille Francs
+810,French Indo-China,580,Madagascar,1933,15,1000,Mille Francs
+810,French Indo-China,580,Madagascar,1934,12,1000,Mille Francs
+810,French Indo-China,580,Madagascar,1935,9,1000,Mille Francs
+810,French Indo-China,580,Madagascar,1936,14,1000,Mille Francs
+810,French Indo-China,580,Madagascar,1937,13,1000,Mille Francs
+810,French Indo-China,585,Reunion,1933,553,1000,Mille Francs
+810,French Indo-China,585,Reunion,1934,10,1000,Mille Francs
+810,French Indo-China,585,Reunion,1935,1,1000,Mille Francs
+810,French Indo-China,585,Reunion,1936,6,1000,Mille Francs
+810,French Indo-China,585,Reunion,1937,12,1000,Mille Francs
+810,French Indo-China,615,Algeria,1933,8607,1000,Mille Francs
+810,French Indo-China,615,Algeria,1934,3989,1000,Mille Francs
+810,French Indo-China,615,Algeria,1935,10336,1000,Mille Francs
+810,French Indo-China,615,Algeria,1936,15432,1000,Mille Francs
+810,French Indo-China,615,Algeria,1937,22577,1000,Mille Francs
+810,French Indo-China,616,Tunisia,1933,0,1000,Mille Francs
+810,French Indo-China,616,Tunisia,1934,10,1000,Mille Francs
+810,French Indo-China,616,Tunisia,1935,0,1000,Mille Francs
+810,French Indo-China,616,Tunisia,1936,435,1000,Mille Francs
+810,French Indo-China,616,Tunisia,1937,1284,1000,Mille Francs
+810,French Indo-China,640,Turkey,1933,1460,1000,Mille Francs
+810,French Indo-China,640,Turkey,1934,11,1000,Mille Francs
+810,French Indo-China,640,Turkey,1935,0,1000,Mille Francs
+810,French Indo-China,640,Turkey,1936,0,1000,Mille Francs
+810,French Indo-China,640,Turkey,1937,1,1000,Mille Francs
+810,French Indo-China,652,Syria,1933,0,1000,Mille Francs
+810,French Indo-China,652,Syria,1934,30,1000,Mille Francs
+810,French Indo-China,652,Syria,1935,1,1000,Mille Francs
+810,French Indo-China,652,Syria,1936,1,1000,Mille Francs
+810,French Indo-China,652,Syria,1937,0,1000,Mille Francs
+810,French Indo-China,710,China,1933,14998,1000,Mille Francs
+810,French Indo-China,710,China,1934,13882,1000,Mille Francs
+810,French Indo-China,710,China,1935,18972,1000,Mille Francs
+810,French Indo-China,710,China,1936,23131,1000,Mille Francs
+810,French Indo-China,710,China,1937,38496,1000,Mille Francs
+810,French Indo-China,720,Hong Kong,1933,50070,1000,Mille Francs
+810,French Indo-China,720,Hong Kong,1934,46301,1000,Mille Francs
+810,French Indo-China,720,Hong Kong,1935,46144,1000,Mille Francs
+810,French Indo-China,720,Hong Kong,1936,37162,1000,Mille Francs
+810,French Indo-China,720,Hong Kong,1937,72622,1000,Mille Francs
+810,French Indo-China,740,Japan,1933,12796,1000,Mille Francs
+810,French Indo-China,740,Japan,1934,13220,1000,Mille Francs
+810,French Indo-China,740,Japan,1935,19725,1000,Mille Francs
+810,French Indo-China,740,Japan,1936,20862,1000,Mille Francs
+810,French Indo-China,740,Japan,1937,29684,1000,Mille Francs
+810,French Indo-China,780,Sri Lanka,1933,69,1000,Mille Francs
+810,French Indo-China,780,Sri Lanka,1934,76,1000,Mille Francs
+810,French Indo-China,780,Sri Lanka,1935,77,1000,Mille Francs
+810,French Indo-China,780,Sri Lanka,1936,78,1000,Mille Francs
+810,French Indo-China,780,Sri Lanka,1937,714,1000,Mille Francs
+810,French Indo-China,800,Thailand,1933,62,1000,Mille Francs
+810,French Indo-China,800,Thailand,1934,501,1000,Mille Francs
+810,French Indo-China,800,Thailand,1935,787,1000,Mille Francs
+810,French Indo-China,800,Thailand,1936,467,1000,Mille Francs
+810,French Indo-China,800,Thailand,1937,528,1000,Mille Francs
+810,French Indo-China,830,Singapore,1933,42097,1000,Mille Francs
+810,French Indo-China,830,Singapore,1934,54968,1000,Mille Francs
+810,French Indo-China,830,Singapore,1935,60273,1000,Mille Francs
+810,French Indo-China,830,Singapore,1936,37693,1000,Mille Francs
+810,French Indo-China,830,Singapore,1937,54842,1000,Mille Francs
+810,French Indo-China,840,Philippines,1933,37,1000,Mille Francs
+810,French Indo-China,840,Philippines,1934,1811,1000,Mille Francs
+810,French Indo-China,840,Philippines,1935,67,1000,Mille Francs
+810,French Indo-China,840,Philippines,1936,54,1000,Mille Francs
+810,French Indo-China,840,Philippines,1937,974,1000,Mille Francs
+810,French Indo-China,850,Indonesia,1933,51022,1000,Mille Francs
+810,French Indo-China,850,Indonesia,1934,43751,1000,Mille Francs
+810,French Indo-China,850,Indonesia,1935,37747,1000,Mille Francs
+810,French Indo-China,850,Indonesia,1936,40543,1000,Mille Francs
+810,French Indo-China,850,Indonesia,1937,48671,1000,Mille Francs
+810,French Indo-China,900,Australia,1933,739,1000,Mille Francs
+810,French Indo-China,900,Australia,1934,46,1000,Mille Francs
+810,French Indo-China,900,Australia,1935,157,1000,Mille Francs
+810,French Indo-China,900,Australia,1936,1111,1000,Mille Francs
+810,French Indo-China,900,Australia,1937,1682,1000,Mille Francs
+810,French Indo-China,,,1933,34428,1000,Mille Francs
+810,French Indo-China,,,1934,35595,1000,Mille Francs
+810,French Indo-China,,,1935,15607,1000,Mille Francs
+810,French Indo-China,,,1936,31625,1000,Mille Francs
+810,French Indo-China,,,1937,55186,1000,Mille Francs

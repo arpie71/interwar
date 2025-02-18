@@ -1,0 +1,4861 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+385,2,1904,9474200,1,,Norway,United States
+385,2,1905,8050000,1,,Norway,United States
+385,2,1906,14352600,1,,Norway,United States
+385,2,1907,14545300,1,,Norway,United States
+385,2,1908,18103800,1,,Norway,United States
+385,2,1909,28306500,1,,Norway,United States
+385,2,1911,30986800,1,,Norway,United States
+385,2,1912,33806700,1,,Norway,United States
+385,2,1913,39200800,1,,Norway,United States
+385,2,1914,73059900,1,,Norway,United States
+385,2,1915,183627000,1,,Norway,United States
+385,2,1916,337997800,1,,Norway,United States
+385,2,1917,551397200,1,,Norway,United States
+385,2,1918,199698700,1,,Norway,United States
+385,2,1919,752734200,1,,Norway,United States
+385,2,1920,691418900,1,,Norway,United States
+385,2,1921,277410300,1,,Norway,United States
+385,2,1922,243450290,1,,Norway,United States
+385,2,1923,223659130,1,,Norway,United States
+385,2,1924,210673830,1,,Norway,United States
+385,2,1925,194512140,1,,Norway,United States
+385,2,1926,156172740,1,,Norway,United States
+385,2,1927,134184800,1,,Norway,United States
+385,2,1928,121245000,1,,Norway,United States
+385,2,1929,112291900,1,,Norway,United States
+385,2,1930,102943300,1,,Norway,United States
+385,2,1931,66034500,1,,Norway,United States
+385,2,1932,58220,1000,,Norway,United States
+385,2,1933,46117,1000,,Norway,United States
+385,2,1934,63686,1000,,Norway,United States
+385,2,1935,67425,1000,,Norway,United States
+385,2,1936,77645,1000,,Norway,United States
+385,2,1937,110271,1000,,Norway,United States
+385,2,1938,119085,1000,,Norway,United States
+385,2,1939,147323,1000,,Norway,United States
+385,2,1940,108113,1000,,Norway,United States
+385,2,1941,4362,1000,,Norway,United States
+385,2,1942,1177,1000,,Norway,United States
+385,2,1943,521,1000,,Norway,United States
+385,2,1944,24,1000,,Norway,United States
+385,2,1945,142633,1000,,Norway,United States
+385,2,1946,477038,1000,,Norway,United States
+385,2,1947,949917,1000,,Norway,United States
+385,2,1948,496759,1000,,Norway,United States
+385,2,1949,553132,1000,,Norway,United States
+385,3,1904,0,1,,Norway,Alaska
+385,3,1905,0,1,,Norway,Alaska
+385,3,1906,0,1,,Norway,Alaska
+385,3,1907,0,1,,Norway,Alaska
+385,3,1908,0,1,,Norway,Alaska
+385,3,1909,0,1,,Norway,Alaska
+385,3,1911,0,1,,Norway,Alaska
+385,3,1912,0,1,,Norway,Alaska
+385,3,1913,0,1,,Norway,Alaska
+385,3,1914,0,1,,Norway,Alaska
+385,3,1915,0,1,,Norway,Alaska
+385,3,1916,0,1,,Norway,Alaska
+385,3,1917,0,1,,Norway,Alaska
+385,3,1918,0,1,,Norway,Alaska
+385,3,1919,0,1,,Norway,Alaska
+385,3,1920,0,1,,Norway,Alaska
+385,3,1921,0,1,,Norway,Alaska
+385,3,1922,0,1,,Norway,Alaska
+385,3,1923,0,1,,Norway,Alaska
+385,3,1924,0,1,,Norway,Alaska
+385,3,1925,0,1,,Norway,Alaska
+385,3,1926,0,1,,Norway,Alaska
+385,3,1927,0,1,,Norway,Alaska
+385,3,1928,0,1,,Norway,Alaska
+385,3,1929,0,1,,Norway,Alaska
+385,3,1930,0,1,,Norway,Alaska
+385,3,1931,0,1,,Norway,Alaska
+385,3,1932,0,1000,,Norway,Alaska
+385,3,1933,0,1000,,Norway,Alaska
+385,3,1934,0,1000,,Norway,Alaska
+385,3,1935,0,1000,,Norway,Alaska
+385,3,1936,0,1000,,Norway,Alaska
+385,3,1937,13,1000,,Norway,Alaska
+385,3,1938,2,1000,,Norway,Alaska
+385,3,1939,0,1000,,Norway,Alaska
+385,3,1940,2,1000,,Norway,Alaska
+385,3,1941,0,1000,,Norway,Alaska
+385,3,1942,0,1000,,Norway,Alaska
+385,3,1943,0,1000,,Norway,Alaska
+385,3,1944,0,1000,,Norway,Alaska
+385,3,1945,0,1000,,Norway,Alaska
+385,3,1946,0,1000,,Norway,Alaska
+385,3,1947,0,1000,,Norway,Alaska
+385,3,1948,0,1000,,Norway,Alaska
+385,3,1949,0,1000,,Norway,Alaska
+385,4,1904,0,1,,Norway,Hawaii
+385,4,1905,0,1,,Norway,Hawaii
+385,4,1906,0,1,,Norway,Hawaii
+385,4,1907,0,1,,Norway,Hawaii
+385,4,1908,0,1,,Norway,Hawaii
+385,4,1909,0,1,,Norway,Hawaii
+385,4,1911,0,1,,Norway,Hawaii
+385,4,1912,0,1,,Norway,Hawaii
+385,4,1913,0,1,,Norway,Hawaii
+385,4,1914,0,1,,Norway,Hawaii
+385,4,1915,0,1,,Norway,Hawaii
+385,4,1916,0,1,,Norway,Hawaii
+385,4,1917,0,1,,Norway,Hawaii
+385,4,1918,0,1,,Norway,Hawaii
+385,4,1919,0,1,,Norway,Hawaii
+385,4,1920,0,1,,Norway,Hawaii
+385,4,1921,0,1,,Norway,Hawaii
+385,4,1922,0,1,,Norway,Hawaii
+385,4,1923,0,1,,Norway,Hawaii
+385,4,1924,600,1,,Norway,Hawaii
+385,4,1925,18900,1,,Norway,Hawaii
+385,4,1926,200,1,,Norway,Hawaii
+385,4,1927,0,1,,Norway,Hawaii
+385,4,1928,0,1,,Norway,Hawaii
+385,4,1929,0,1,,Norway,Hawaii
+385,4,1930,27600,1,,Norway,Hawaii
+385,4,1931,20000,1,,Norway,Hawaii
+385,4,1932,0,1000,,Norway,Hawaii
+385,4,1933,0,1000,,Norway,Hawaii
+385,4,1934,0,1000,,Norway,Hawaii
+385,4,1935,12,1000,,Norway,Hawaii
+385,4,1936,17,1000,,Norway,Hawaii
+385,4,1937,5,1000,,Norway,Hawaii
+385,4,1938,18,1000,,Norway,Hawaii
+385,4,1939,20,1000,,Norway,Hawaii
+385,4,1940,14,1000,,Norway,Hawaii
+385,4,1941,0,1000,,Norway,Hawaii
+385,4,1942,0,1000,,Norway,Hawaii
+385,4,1943,0,1000,,Norway,Hawaii
+385,4,1944,0,1000,,Norway,Hawaii
+385,4,1945,0,1000,,Norway,Hawaii
+385,4,1946,0,1000,,Norway,Hawaii
+385,4,1947,0,1000,,Norway,Hawaii
+385,4,1948,0,1000,,Norway,Hawaii
+385,4,1949,0,1000,,Norway,Hawaii
+385,10,1904,0,1,,Norway,Greenland
+385,10,1905,0,1,,Norway,Greenland
+385,10,1906,0,1,,Norway,Greenland
+385,10,1907,0,1,,Norway,Greenland
+385,10,1908,0,1,,Norway,Greenland
+385,10,1909,0,1,,Norway,Greenland
+385,10,1911,0,1,,Norway,Greenland
+385,10,1912,0,1,,Norway,Greenland
+385,10,1913,0,1,,Norway,Greenland
+385,10,1914,0,1,,Norway,Greenland
+385,10,1915,0,1,,Norway,Greenland
+385,10,1916,0,1,,Norway,Greenland
+385,10,1917,0,1,,Norway,Greenland
+385,10,1918,0,1,,Norway,Greenland
+385,10,1919,0,1,,Norway,Greenland
+385,10,1920,0,1,,Norway,Greenland
+385,10,1921,0,1,,Norway,Greenland
+385,10,1922,0,1,,Norway,Greenland
+385,10,1923,0,1,,Norway,Greenland
+385,10,1924,0,1,,Norway,Greenland
+385,10,1925,23000,1,,Norway,Greenland
+385,10,1926,500,1,,Norway,Greenland
+385,10,1927,0,1,,Norway,Greenland
+385,10,1928,0,1,,Norway,Greenland
+385,10,1929,15000,1,,Norway,Greenland
+385,10,1930,0,1,,Norway,Greenland
+385,10,1931,300,1,,Norway,Greenland
+385,10,1932,1,1000,,Norway,Greenland
+385,10,1933,1,1000,,Norway,Greenland
+385,10,1934,0,1000,,Norway,Greenland
+385,10,1935,252,1000,,Norway,Greenland
+385,10,1936,32,1000,,Norway,Greenland
+385,10,1937,86,1000,,Norway,Greenland
+385,10,1938,85,1000,,Norway,Greenland
+385,10,1939,66,1000,,Norway,Greenland
+385,10,1940,292,1000,,Norway,Greenland
+385,10,1941,0,1000,,Norway,Greenland
+385,10,1942,1,1000,,Norway,Greenland
+385,10,1943,0,1000,,Norway,Greenland
+385,10,1944,0,1000,,Norway,Greenland
+385,10,1945,0,1000,,Norway,Greenland
+385,10,1946,0,1000,,Norway,Greenland
+385,10,1947,526,1000,,Norway,Greenland
+385,10,1948,131,1000,,Norway,Greenland
+385,10,1949,413,1000,,Norway,Greenland
+385,11,1904,344200,1,,Norway,Faroe Islands
+385,11,1905,399100,1,,Norway,Faroe Islands
+385,11,1906,586600,1,,Norway,Faroe Islands
+385,11,1907,767200,1,,Norway,Faroe Islands
+385,11,1908,685500,1,,Norway,Faroe Islands
+385,11,1909,588300,1,,Norway,Faroe Islands
+385,11,1911,174300,1,,Norway,Faroe Islands
+385,11,1912,157600,1,,Norway,Faroe Islands
+385,11,1913,276500,1,,Norway,Faroe Islands
+385,11,1914,3400,1,,Norway,Faroe Islands
+385,11,1915,45000,1,,Norway,Faroe Islands
+385,11,1916,595600,1,,Norway,Faroe Islands
+385,11,1917,0,1,,Norway,Faroe Islands
+385,11,1918,0,1,,Norway,Faroe Islands
+385,11,1919,12100,1,,Norway,Faroe Islands
+385,11,1920,244300,1,,Norway,Faroe Islands
+385,11,1921,139200,1,,Norway,Faroe Islands
+385,11,1922,139600,1,,Norway,Faroe Islands
+385,11,1923,187500,1,,Norway,Faroe Islands
+385,11,1924,353900,1,,Norway,Faroe Islands
+385,11,1925,74800,1,,Norway,Faroe Islands
+385,11,1926,172700,1,,Norway,Faroe Islands
+385,11,1927,59800,1,,Norway,Faroe Islands
+385,11,1928,581900,1,,Norway,Faroe Islands
+385,11,1929,375300,1,,Norway,Faroe Islands
+385,11,1930,539700,1,,Norway,Faroe Islands
+385,11,1931,6800,1,,Norway,Faroe Islands
+385,11,1932,65,1000,,Norway,Faroe Islands
+385,11,1933,41,1000,,Norway,Faroe Islands
+385,11,1934,74,1000,,Norway,Faroe Islands
+385,11,1935,90,1000,,Norway,Faroe Islands
+385,11,1936,174,1000,,Norway,Faroe Islands
+385,11,1937,393,1000,,Norway,Faroe Islands
+385,11,1938,384,1000,,Norway,Faroe Islands
+385,11,1939,368,1000,,Norway,Faroe Islands
+385,11,1940,0,1000,,Norway,Faroe Islands
+385,11,1941,3,1000,,Norway,Faroe Islands
+385,11,1942,0,1000,,Norway,Faroe Islands
+385,11,1943,0,1000,,Norway,Faroe Islands
+385,11,1944,0,1000,,Norway,Faroe Islands
+385,11,1945,195,1000,,Norway,Faroe Islands
+385,11,1946,108,1000,,Norway,Faroe Islands
+385,11,1947,2,1000,,Norway,Faroe Islands
+385,11,1948,1439,1000,,Norway,Faroe Islands
+385,11,1949,5,1000,,Norway,Faroe Islands
+385,20,1904,0,1,,Norway,Canada
+385,20,1905,0,1,,Norway,Canada
+385,20,1906,0,1,,Norway,Canada
+385,20,1907,0,1,,Norway,Canada
+385,20,1908,0,1,,Norway,Canada
+385,20,1909,457200,1,,Norway,Canada
+385,20,1911,546100,1,,Norway,Canada
+385,20,1912,648500,1,,Norway,Canada
+385,20,1913,811000,1,,Norway,Canada
+385,20,1914,1123100,1,,Norway,Canada
+385,20,1915,339300,1,,Norway,Canada
+385,20,1916,21900,1,,Norway,Canada
+385,20,1917,3244300,1,,Norway,Canada
+385,20,1918,1000,1,,Norway,Canada
+385,20,1919,24493200,1,,Norway,Canada
+385,20,1920,55655800,1,,Norway,Canada
+385,20,1921,34664400,1,,Norway,Canada
+385,20,1922,3877800,1,,Norway,Canada
+385,20,1923,20590690,1,,Norway,Canada
+385,20,1924,30875970,1,,Norway,Canada
+385,20,1925,41496240,1,,Norway,Canada
+385,20,1926,23543550,1,,Norway,Canada
+385,20,1927,26865400,1,,Norway,Canada
+385,20,1928,31427000,1,,Norway,Canada
+385,20,1929,19323600,1,,Norway,Canada
+385,20,1930,13670400,1,,Norway,Canada
+385,20,1931,10550300,1,,Norway,Canada
+385,20,1932,10395,1000,,Norway,Canada
+385,20,1933,15745,1000,,Norway,Canada
+385,20,1934,18764,1000,,Norway,Canada
+385,20,1935,33016,1000,,Norway,Canada
+385,20,1936,37385,1000,,Norway,Canada
+385,20,1937,38897,1000,,Norway,Canada
+385,20,1938,45806,1000,,Norway,Canada
+385,20,1939,56823,1000,,Norway,Canada
+385,20,1940,21319,1000,,Norway,Canada
+385,20,1941,1,1000,,Norway,Canada
+385,20,1942,0,1000,,Norway,Canada
+385,20,1943,0,1000,,Norway,Canada
+385,20,1944,0,1000,,Norway,Canada
+385,20,1945,59906,1000,,Norway,Canada
+385,20,1946,131937,1000,,Norway,Canada
+385,20,1947,100690,1000,,Norway,Canada
+385,20,1948,127017,1000,,Norway,Canada
+385,20,1949,118188,1000,,Norway,Canada
+385,21,1904,0,1,,Norway,Newfoundland
+385,21,1905,0,1,,Norway,Newfoundland
+385,21,1906,0,1,,Norway,Newfoundland
+385,21,1907,0,1,,Norway,Newfoundland
+385,21,1908,0,1,,Norway,Newfoundland
+385,21,1909,0,1,,Norway,Newfoundland
+385,21,1911,0,1,,Norway,Newfoundland
+385,21,1912,0,1,,Norway,Newfoundland
+385,21,1913,0,1,,Norway,Newfoundland
+385,21,1914,0,1,,Norway,Newfoundland
+385,21,1915,0,1,,Norway,Newfoundland
+385,21,1916,0,1,,Norway,Newfoundland
+385,21,1917,0,1,,Norway,Newfoundland
+385,21,1918,0,1,,Norway,Newfoundland
+385,21,1919,0,1,,Norway,Newfoundland
+385,21,1920,0,1,,Norway,Newfoundland
+385,21,1921,0,1,,Norway,Newfoundland
+385,21,1922,0,1,,Norway,Newfoundland
+385,21,1923,0,1,,Norway,Newfoundland
+385,21,1924,0,1,,Norway,Newfoundland
+385,21,1925,0,1,,Norway,Newfoundland
+385,21,1926,0,1,,Norway,Newfoundland
+385,21,1927,0,1,,Norway,Newfoundland
+385,21,1928,0,1,,Norway,Newfoundland
+385,21,1929,0,1,,Norway,Newfoundland
+385,21,1930,0,1,,Norway,Newfoundland
+385,21,1931,0,1,,Norway,Newfoundland
+385,21,1932,2,1000,,Norway,Newfoundland
+385,21,1933,7,1000,,Norway,Newfoundland
+385,21,1934,14,1000,,Norway,Newfoundland
+385,21,1935,31,1000,,Norway,Newfoundland
+385,21,1936,48,1000,,Norway,Newfoundland
+385,21,1937,0,1000,,Norway,Newfoundland
+385,21,1938,462,1000,,Norway,Newfoundland
+385,21,1939,183,1000,,Norway,Newfoundland
+385,21,1940,0,1000,,Norway,Newfoundland
+385,21,1941,0,1000,,Norway,Newfoundland
+385,21,1942,0,1000,,Norway,Newfoundland
+385,21,1943,0,1000,,Norway,Newfoundland
+385,21,1944,0,1000,,Norway,Newfoundland
+385,21,1945,0,1000,,Norway,Newfoundland
+385,21,1946,624,1000,,Norway,Newfoundland
+385,21,1947,1625,1000,,Norway,Newfoundland
+385,21,1948,0,1000,,Norway,Newfoundland
+385,21,1949,0,1000,,Norway,Newfoundland
+385,40,1904,0,1,,Norway,Cuba
+385,40,1905,0,1,,Norway,Cuba
+385,40,1906,0,1,,Norway,Cuba
+385,40,1907,0,1,,Norway,Cuba
+385,40,1908,0,1,,Norway,Cuba
+385,40,1909,19900,1,,Norway,Cuba
+385,40,1911,66600,1,,Norway,Cuba
+385,40,1912,4200,1,,Norway,Cuba
+385,40,1913,4900,1,,Norway,Cuba
+385,40,1914,4100,1,,Norway,Cuba
+385,40,1915,5500,1,,Norway,Cuba
+385,40,1916,19400,1,,Norway,Cuba
+385,40,1917,102000,1,,Norway,Cuba
+385,40,1918,72800,1,,Norway,Cuba
+385,40,1919,467000,1,,Norway,Cuba
+385,40,1920,68000,1,,Norway,Cuba
+385,40,1921,9800,1,,Norway,Cuba
+385,40,1922,99900,1,,Norway,Cuba
+385,40,1923,64600,1,,Norway,Cuba
+385,40,1924,45300,1,,Norway,Cuba
+385,40,1925,47200,1,,Norway,Cuba
+385,40,1926,95000,1,,Norway,Cuba
+385,40,1927,274100,1,,Norway,Cuba
+385,40,1928,35400,1,,Norway,Cuba
+385,40,1929,41500,1,,Norway,Cuba
+385,40,1930,37400,1,,Norway,Cuba
+385,40,1931,28600,1,,Norway,Cuba
+385,40,1932,73,1000,,Norway,Cuba
+385,40,1933,49,1000,,Norway,Cuba
+385,40,1934,66,1000,,Norway,Cuba
+385,40,1935,108,1000,,Norway,Cuba
+385,40,1936,115,1000,,Norway,Cuba
+385,40,1937,231,1000,,Norway,Cuba
+385,40,1938,999,1000,,Norway,Cuba
+385,40,1939,7042,1000,,Norway,Cuba
+385,40,1940,10717,1000,,Norway,Cuba
+385,40,1941,372,1000,,Norway,Cuba
+385,40,1942,12,1000,,Norway,Cuba
+385,40,1943,6,1000,,Norway,Cuba
+385,40,1944,2,1000,,Norway,Cuba
+385,40,1945,174,1000,,Norway,Cuba
+385,40,1946,376,1000,,Norway,Cuba
+385,40,1947,557,1000,,Norway,Cuba
+385,40,1948,20979,1000,,Norway,Cuba
+385,40,1949,8679,1000,,Norway,Cuba
+385,41,1904,0,1,,Norway,Haiti
+385,41,1905,0,1,,Norway,Haiti
+385,41,1906,0,1,,Norway,Haiti
+385,41,1907,0,1,,Norway,Haiti
+385,41,1908,0,1,,Norway,Haiti
+385,41,1909,0,1,,Norway,Haiti
+385,41,1911,0,1,,Norway,Haiti
+385,41,1912,0,1,,Norway,Haiti
+385,41,1913,0,1,,Norway,Haiti
+385,41,1914,0,1,,Norway,Haiti
+385,41,1915,0,1,,Norway,Haiti
+385,41,1916,0,1,,Norway,Haiti
+385,41,1917,0,1,,Norway,Haiti
+385,41,1918,0,1,,Norway,Haiti
+385,41,1919,0,1,,Norway,Haiti
+385,41,1920,0,1,,Norway,Haiti
+385,41,1921,0,1,,Norway,Haiti
+385,41,1922,0,1,,Norway,Haiti
+385,41,1923,0,1,,Norway,Haiti
+385,41,1924,0,1,,Norway,Haiti
+385,41,1925,0,1,,Norway,Haiti
+385,41,1926,0,1,,Norway,Haiti
+385,41,1927,0,1,,Norway,Haiti
+385,41,1928,0,1,,Norway,Haiti
+385,41,1929,0,1,,Norway,Haiti
+385,41,1930,0,1,,Norway,Haiti
+385,41,1931,0,1,,Norway,Haiti
+385,41,1932,119,1000,,Norway,Haiti
+385,41,1933,104,1000,,Norway,Haiti
+385,41,1934,35,1000,,Norway,Haiti
+385,41,1935,30,1000,,Norway,Haiti
+385,41,1936,139,1000,,Norway,Haiti
+385,41,1937,328,1000,,Norway,Haiti
+385,41,1938,372,1000,,Norway,Haiti
+385,41,1939,260,1000,,Norway,Haiti
+385,41,1940,220,1000,,Norway,Haiti
+385,41,1941,0,1000,,Norway,Haiti
+385,41,1942,0,1000,,Norway,Haiti
+385,41,1943,0,1000,,Norway,Haiti
+385,41,1944,0,1000,,Norway,Haiti
+385,41,1945,605,1000,,Norway,Haiti
+385,41,1946,1920,1000,,Norway,Haiti
+385,41,1947,16089,1000,,Norway,Haiti
+385,41,1948,10281,1000,,Norway,Haiti
+385,41,1949,4449,1000,,Norway,Haiti
+385,42,1904,0,1,,Norway,Dominican Republic
+385,42,1905,0,1,,Norway,Dominican Republic
+385,42,1906,0,1,,Norway,Dominican Republic
+385,42,1907,0,1,,Norway,Dominican Republic
+385,42,1908,0,1,,Norway,Dominican Republic
+385,42,1909,0,1,,Norway,Dominican Republic
+385,42,1911,0,1,,Norway,Dominican Republic
+385,42,1912,0,1,,Norway,Dominican Republic
+385,42,1913,0,1,,Norway,Dominican Republic
+385,42,1914,0,1,,Norway,Dominican Republic
+385,42,1915,0,1,,Norway,Dominican Republic
+385,42,1916,0,1,,Norway,Dominican Republic
+385,42,1917,0,1,,Norway,Dominican Republic
+385,42,1918,0,1,,Norway,Dominican Republic
+385,42,1919,0,1,,Norway,Dominican Republic
+385,42,1920,0,1,,Norway,Dominican Republic
+385,42,1921,0,1,,Norway,Dominican Republic
+385,42,1922,0,1,,Norway,Dominican Republic
+385,42,1923,0,1,,Norway,Dominican Republic
+385,42,1924,0,1,,Norway,Dominican Republic
+385,42,1925,0,1,,Norway,Dominican Republic
+385,42,1926,0,1,,Norway,Dominican Republic
+385,42,1927,0,1,,Norway,Dominican Republic
+385,42,1928,0,1,,Norway,Dominican Republic
+385,42,1929,0,1,,Norway,Dominican Republic
+385,42,1930,0,1,,Norway,Dominican Republic
+385,42,1931,0,1,,Norway,Dominican Republic
+385,42,1932,0,1000,,Norway,Dominican Republic
+385,42,1933,0,1000,,Norway,Dominican Republic
+385,42,1934,0,1000,,Norway,Dominican Republic
+385,42,1935,0,1000,,Norway,Dominican Republic
+385,42,1936,17,1000,,Norway,Dominican Republic
+385,42,1937,1,1000,,Norway,Dominican Republic
+385,42,1938,18,1000,,Norway,Dominican Republic
+385,42,1939,5,1000,,Norway,Dominican Republic
+385,42,1940,25,1000,,Norway,Dominican Republic
+385,42,1941,0,1000,,Norway,Dominican Republic
+385,42,1942,0,1000,,Norway,Dominican Republic
+385,42,1943,0,1000,,Norway,Dominican Republic
+385,42,1944,0,1000,,Norway,Dominican Republic
+385,42,1945,0,1000,,Norway,Dominican Republic
+385,42,1946,0,1000,,Norway,Dominican Republic
+385,42,1947,902,1000,,Norway,Dominican Republic
+385,42,1948,35,1000,,Norway,Dominican Republic
+385,42,1949,13,1000,,Norway,Dominican Republic
+385,51,1904,0,1,,Norway,Jamaica
+385,51,1905,0,1,,Norway,Jamaica
+385,51,1906,0,1,,Norway,Jamaica
+385,51,1907,0,1,,Norway,Jamaica
+385,51,1908,0,1,,Norway,Jamaica
+385,51,1909,0,1,,Norway,Jamaica
+385,51,1911,0,1,,Norway,Jamaica
+385,51,1912,0,1,,Norway,Jamaica
+385,51,1913,0,1,,Norway,Jamaica
+385,51,1914,0,1,,Norway,Jamaica
+385,51,1915,0,1,,Norway,Jamaica
+385,51,1916,0,1,,Norway,Jamaica
+385,51,1917,0,1,,Norway,Jamaica
+385,51,1918,0,1,,Norway,Jamaica
+385,51,1919,0,1,,Norway,Jamaica
+385,51,1920,0,1,,Norway,Jamaica
+385,51,1921,0,1,,Norway,Jamaica
+385,51,1922,0,1,,Norway,Jamaica
+385,51,1923,0,1,,Norway,Jamaica
+385,51,1924,0,1,,Norway,Jamaica
+385,51,1925,0,1,,Norway,Jamaica
+385,51,1926,0,1,,Norway,Jamaica
+385,51,1927,0,1,,Norway,Jamaica
+385,51,1928,0,1,,Norway,Jamaica
+385,51,1929,0,1,,Norway,Jamaica
+385,51,1930,0,1,,Norway,Jamaica
+385,51,1931,0,1,,Norway,Jamaica
+385,51,1932,0,1000,,Norway,Jamaica
+385,51,1933,0,1000,,Norway,Jamaica
+385,51,1934,0,1000,,Norway,Jamaica
+385,51,1935,0,1000,,Norway,Jamaica
+385,51,1936,699,1000,,Norway,Jamaica
+385,51,1937,2325,1000,,Norway,Jamaica
+385,51,1938,1512,1000,,Norway,Jamaica
+385,51,1939,704,1000,,Norway,Jamaica
+385,51,1940,63,1000,,Norway,Jamaica
+385,51,1941,3,1000,,Norway,Jamaica
+385,51,1942,1,1000,,Norway,Jamaica
+385,51,1943,0,1000,,Norway,Jamaica
+385,51,1944,0,1000,,Norway,Jamaica
+385,51,1945,4,1000,,Norway,Jamaica
+385,51,1946,354,1000,,Norway,Jamaica
+385,51,1947,289,1000,,Norway,Jamaica
+385,51,1948,368,1000,,Norway,Jamaica
+385,51,1949,149,1000,,Norway,Jamaica
+385,70,1904,0,1,,Norway,Mexico
+385,70,1905,0,1,,Norway,Mexico
+385,70,1906,0,1,,Norway,Mexico
+385,70,1907,0,1,,Norway,Mexico
+385,70,1908,0,1,,Norway,Mexico
+385,70,1909,1108400,1,,Norway,Mexico
+385,70,1911,756200,1,,Norway,Mexico
+385,70,1912,961200,1,,Norway,Mexico
+385,70,1913,1090000,1,,Norway,Mexico
+385,70,1914,1033600,1,,Norway,Mexico
+385,70,1915,422600,1,,Norway,Mexico
+385,70,1916,58400,1,,Norway,Mexico
+385,70,1917,42900,1,,Norway,Mexico
+385,70,1918,400,1,,Norway,Mexico
+385,70,1919,963100,1,,Norway,Mexico
+385,70,1920,221600,1,,Norway,Mexico
+385,70,1921,849100,1,,Norway,Mexico
+385,70,1922,576900,1,,Norway,Mexico
+385,70,1923,1271200,1,,Norway,Mexico
+385,70,1924,264300,1,,Norway,Mexico
+385,70,1925,627300,1,,Norway,Mexico
+385,70,1926,1053600,1,,Norway,Mexico
+385,70,1927,364000,1,,Norway,Mexico
+385,70,1928,70100,1,,Norway,Mexico
+385,70,1929,113200,1,,Norway,Mexico
+385,70,1930,751000,1,,Norway,Mexico
+385,70,1931,95100,1,,Norway,Mexico
+385,70,1932,195,1000,,Norway,Mexico
+385,70,1933,250,1000,,Norway,Mexico
+385,70,1934,442,1000,,Norway,Mexico
+385,70,1935,1467,1000,,Norway,Mexico
+385,70,1936,1755,1000,,Norway,Mexico
+385,70,1937,3116,1000,,Norway,Mexico
+385,70,1938,1525,1000,,Norway,Mexico
+385,70,1939,5218,1000,,Norway,Mexico
+385,70,1940,0,1000,,Norway,Mexico
+385,70,1941,0,1000,,Norway,Mexico
+385,70,1942,0,1000,,Norway,Mexico
+385,70,1943,0,1000,,Norway,Mexico
+385,70,1944,0,1000,,Norway,Mexico
+385,70,1945,1399,1000,,Norway,Mexico
+385,70,1946,747,1000,,Norway,Mexico
+385,70,1947,3334,1000,,Norway,Mexico
+385,70,1948,3939,1000,,Norway,Mexico
+385,70,1949,8917,1000,,Norway,Mexico
+385,80,1904,0,1,,Norway,Belize
+385,80,1905,0,1,,Norway,Belize
+385,80,1906,0,1,,Norway,Belize
+385,80,1907,0,1,,Norway,Belize
+385,80,1908,0,1,,Norway,Belize
+385,80,1909,0,1,,Norway,Belize
+385,80,1911,0,1,,Norway,Belize
+385,80,1912,0,1,,Norway,Belize
+385,80,1913,0,1,,Norway,Belize
+385,80,1914,0,1,,Norway,Belize
+385,80,1915,0,1,,Norway,Belize
+385,80,1916,0,1,,Norway,Belize
+385,80,1917,0,1,,Norway,Belize
+385,80,1918,0,1,,Norway,Belize
+385,80,1919,0,1,,Norway,Belize
+385,80,1920,0,1,,Norway,Belize
+385,80,1921,0,1,,Norway,Belize
+385,80,1922,0,1,,Norway,Belize
+385,80,1923,0,1,,Norway,Belize
+385,80,1924,0,1,,Norway,Belize
+385,80,1925,0,1,,Norway,Belize
+385,80,1926,0,1,,Norway,Belize
+385,80,1927,0,1,,Norway,Belize
+385,80,1928,0,1,,Norway,Belize
+385,80,1929,0,1,,Norway,Belize
+385,80,1930,0,1,,Norway,Belize
+385,80,1931,0,1,,Norway,Belize
+385,80,1932,0,1000,,Norway,Belize
+385,80,1933,0,1000,,Norway,Belize
+385,80,1934,0,1000,,Norway,Belize
+385,80,1935,0,1000,,Norway,Belize
+385,80,1936,443,1000,,Norway,Belize
+385,80,1937,224,1000,,Norway,Belize
+385,80,1938,722,1000,,Norway,Belize
+385,80,1939,28,1000,,Norway,Belize
+385,80,1940,0,1000,,Norway,Belize
+385,80,1941,0,1000,,Norway,Belize
+385,80,1942,0,1000,,Norway,Belize
+385,80,1943,0,1000,,Norway,Belize
+385,80,1944,0,1000,,Norway,Belize
+385,80,1945,0,1000,,Norway,Belize
+385,80,1946,0,1000,,Norway,Belize
+385,80,1947,17,1000,,Norway,Belize
+385,80,1948,0,1000,,Norway,Belize
+385,80,1949,0,1000,,Norway,Belize
+385,90,1904,0,1,,Norway,Guatemala
+385,90,1905,0,1,,Norway,Guatemala
+385,90,1906,0,1,,Norway,Guatemala
+385,90,1907,0,1,,Norway,Guatemala
+385,90,1908,0,1,,Norway,Guatemala
+385,90,1909,0,1,,Norway,Guatemala
+385,90,1911,0,1,,Norway,Guatemala
+385,90,1912,0,1,,Norway,Guatemala
+385,90,1913,0,1,,Norway,Guatemala
+385,90,1914,0,1,,Norway,Guatemala
+385,90,1915,0,1,,Norway,Guatemala
+385,90,1916,0,1,,Norway,Guatemala
+385,90,1917,0,1,,Norway,Guatemala
+385,90,1918,0,1,,Norway,Guatemala
+385,90,1919,0,1,,Norway,Guatemala
+385,90,1920,0,1,,Norway,Guatemala
+385,90,1921,0,1,,Norway,Guatemala
+385,90,1922,0,1,,Norway,Guatemala
+385,90,1923,0,1,,Norway,Guatemala
+385,90,1924,0,1,,Norway,Guatemala
+385,90,1925,0,1,,Norway,Guatemala
+385,90,1926,0,1,,Norway,Guatemala
+385,90,1927,0,1,,Norway,Guatemala
+385,90,1928,0,1,,Norway,Guatemala
+385,90,1929,0,1,,Norway,Guatemala
+385,90,1930,0,1,,Norway,Guatemala
+385,90,1931,0,1,,Norway,Guatemala
+385,90,1932,970,1000,,Norway,Guatemala
+385,90,1933,401,1000,,Norway,Guatemala
+385,90,1934,412,1000,,Norway,Guatemala
+385,90,1935,454,1000,,Norway,Guatemala
+385,90,1936,390,1000,,Norway,Guatemala
+385,90,1937,451,1000,,Norway,Guatemala
+385,90,1938,821,1000,,Norway,Guatemala
+385,90,1939,775,1000,,Norway,Guatemala
+385,90,1940,591,1000,,Norway,Guatemala
+385,90,1941,68,1000,,Norway,Guatemala
+385,90,1942,0,1000,,Norway,Guatemala
+385,90,1943,0,1000,,Norway,Guatemala
+385,90,1944,0,1000,,Norway,Guatemala
+385,90,1945,0,1000,,Norway,Guatemala
+385,90,1946,402,1000,,Norway,Guatemala
+385,90,1947,6,1000,,Norway,Guatemala
+385,90,1948,15,1000,,Norway,Guatemala
+385,90,1949,0,1000,,Norway,Guatemala
+385,91,1904,0,1,,Norway,Honduras
+385,91,1905,0,1,,Norway,Honduras
+385,91,1906,0,1,,Norway,Honduras
+385,91,1907,0,1,,Norway,Honduras
+385,91,1908,0,1,,Norway,Honduras
+385,91,1909,0,1,,Norway,Honduras
+385,91,1911,0,1,,Norway,Honduras
+385,91,1912,0,1,,Norway,Honduras
+385,91,1913,0,1,,Norway,Honduras
+385,91,1914,0,1,,Norway,Honduras
+385,91,1915,0,1,,Norway,Honduras
+385,91,1916,0,1,,Norway,Honduras
+385,91,1917,0,1,,Norway,Honduras
+385,91,1918,0,1,,Norway,Honduras
+385,91,1919,0,1,,Norway,Honduras
+385,91,1920,0,1,,Norway,Honduras
+385,91,1921,0,1,,Norway,Honduras
+385,91,1922,0,1,,Norway,Honduras
+385,91,1923,0,1,,Norway,Honduras
+385,91,1924,0,1,,Norway,Honduras
+385,91,1925,0,1,,Norway,Honduras
+385,91,1926,0,1,,Norway,Honduras
+385,91,1927,0,1,,Norway,Honduras
+385,91,1928,0,1,,Norway,Honduras
+385,91,1929,0,1,,Norway,Honduras
+385,91,1930,0,1,,Norway,Honduras
+385,91,1931,0,1,,Norway,Honduras
+385,91,1932,3,1000,,Norway,Honduras
+385,91,1933,6,1000,,Norway,Honduras
+385,91,1934,0,1000,,Norway,Honduras
+385,91,1935,246,1000,,Norway,Honduras
+385,91,1936,224,1000,,Norway,Honduras
+385,91,1937,454,1000,,Norway,Honduras
+385,91,1938,269,1000,,Norway,Honduras
+385,91,1939,330,1000,,Norway,Honduras
+385,91,1940,22,1000,,Norway,Honduras
+385,91,1941,0,1000,,Norway,Honduras
+385,91,1942,0,1000,,Norway,Honduras
+385,91,1943,0,1000,,Norway,Honduras
+385,91,1944,0,1000,,Norway,Honduras
+385,91,1945,0,1000,,Norway,Honduras
+385,91,1946,0,1000,,Norway,Honduras
+385,91,1947,1297,1000,,Norway,Honduras
+385,91,1948,441,1000,,Norway,Honduras
+385,91,1949,5,1000,,Norway,Honduras
+385,92,1904,0,1,,Norway,El Salvador
+385,92,1905,0,1,,Norway,El Salvador
+385,92,1906,0,1,,Norway,El Salvador
+385,92,1907,0,1,,Norway,El Salvador
+385,92,1908,0,1,,Norway,El Salvador
+385,92,1909,0,1,,Norway,El Salvador
+385,92,1911,0,1,,Norway,El Salvador
+385,92,1912,0,1,,Norway,El Salvador
+385,92,1913,0,1,,Norway,El Salvador
+385,92,1914,0,1,,Norway,El Salvador
+385,92,1915,0,1,,Norway,El Salvador
+385,92,1916,0,1,,Norway,El Salvador
+385,92,1917,0,1,,Norway,El Salvador
+385,92,1918,0,1,,Norway,El Salvador
+385,92,1919,0,1,,Norway,El Salvador
+385,92,1920,0,1,,Norway,El Salvador
+385,92,1921,0,1,,Norway,El Salvador
+385,92,1922,0,1,,Norway,El Salvador
+385,92,1923,0,1,,Norway,El Salvador
+385,92,1924,0,1,,Norway,El Salvador
+385,92,1925,0,1,,Norway,El Salvador
+385,92,1926,0,1,,Norway,El Salvador
+385,92,1927,0,1,,Norway,El Salvador
+385,92,1928,0,1,,Norway,El Salvador
+385,92,1929,0,1,,Norway,El Salvador
+385,92,1930,0,1,,Norway,El Salvador
+385,92,1931,0,1,,Norway,El Salvador
+385,92,1932,0,1000,,Norway,El Salvador
+385,92,1933,0,1000,,Norway,El Salvador
+385,92,1934,0,1000,,Norway,El Salvador
+385,92,1935,0,1000,,Norway,El Salvador
+385,92,1936,3714,1000,,Norway,El Salvador
+385,92,1937,4876,1000,,Norway,El Salvador
+385,92,1938,5135,1000,,Norway,El Salvador
+385,92,1939,5297,1000,,Norway,El Salvador
+385,92,1940,3622,1000,,Norway,El Salvador
+385,92,1941,1068,1000,,Norway,El Salvador
+385,92,1942,2,1000,,Norway,El Salvador
+385,92,1943,0,1000,,Norway,El Salvador
+385,92,1944,0,1000,,Norway,El Salvador
+385,92,1945,17,1000,,Norway,El Salvador
+385,92,1946,1628,1000,,Norway,El Salvador
+385,92,1947,4081,1000,,Norway,El Salvador
+385,92,1948,176,1000,,Norway,El Salvador
+385,92,1949,0,1000,,Norway,El Salvador
+385,93,1904,0,1,,Norway,Nicaragua
+385,93,1905,0,1,,Norway,Nicaragua
+385,93,1906,0,1,,Norway,Nicaragua
+385,93,1907,0,1,,Norway,Nicaragua
+385,93,1908,0,1,,Norway,Nicaragua
+385,93,1909,0,1,,Norway,Nicaragua
+385,93,1911,0,1,,Norway,Nicaragua
+385,93,1912,0,1,,Norway,Nicaragua
+385,93,1913,0,1,,Norway,Nicaragua
+385,93,1914,0,1,,Norway,Nicaragua
+385,93,1915,0,1,,Norway,Nicaragua
+385,93,1916,0,1,,Norway,Nicaragua
+385,93,1917,0,1,,Norway,Nicaragua
+385,93,1918,0,1,,Norway,Nicaragua
+385,93,1919,0,1,,Norway,Nicaragua
+385,93,1920,0,1,,Norway,Nicaragua
+385,93,1921,0,1,,Norway,Nicaragua
+385,93,1922,0,1,,Norway,Nicaragua
+385,93,1923,0,1,,Norway,Nicaragua
+385,93,1924,0,1,,Norway,Nicaragua
+385,93,1925,0,1,,Norway,Nicaragua
+385,93,1926,0,1,,Norway,Nicaragua
+385,93,1927,0,1,,Norway,Nicaragua
+385,93,1928,0,1,,Norway,Nicaragua
+385,93,1929,0,1,,Norway,Nicaragua
+385,93,1930,0,1,,Norway,Nicaragua
+385,93,1931,0,1,,Norway,Nicaragua
+385,93,1932,54,1000,,Norway,Nicaragua
+385,93,1933,37,1000,,Norway,Nicaragua
+385,93,1934,8,1000,,Norway,Nicaragua
+385,93,1935,35,1000,,Norway,Nicaragua
+385,93,1936,10,1000,,Norway,Nicaragua
+385,93,1937,3,1000,,Norway,Nicaragua
+385,93,1938,6,1000,,Norway,Nicaragua
+385,93,1939,19,1000,,Norway,Nicaragua
+385,93,1940,0,1000,,Norway,Nicaragua
+385,93,1941,0,1000,,Norway,Nicaragua
+385,93,1942,0,1000,,Norway,Nicaragua
+385,93,1943,0,1000,,Norway,Nicaragua
+385,93,1944,0,1000,,Norway,Nicaragua
+385,93,1945,0,1000,,Norway,Nicaragua
+385,93,1946,0,1000,,Norway,Nicaragua
+385,93,1947,0,1000,,Norway,Nicaragua
+385,93,1948,0,1000,,Norway,Nicaragua
+385,93,1949,0,1000,,Norway,Nicaragua
+385,94,1904,0,1,,Norway,Costa Rica
+385,94,1905,0,1,,Norway,Costa Rica
+385,94,1906,0,1,,Norway,Costa Rica
+385,94,1907,0,1,,Norway,Costa Rica
+385,94,1908,0,1,,Norway,Costa Rica
+385,94,1909,0,1,,Norway,Costa Rica
+385,94,1911,0,1,,Norway,Costa Rica
+385,94,1912,0,1,,Norway,Costa Rica
+385,94,1913,0,1,,Norway,Costa Rica
+385,94,1914,0,1,,Norway,Costa Rica
+385,94,1915,0,1,,Norway,Costa Rica
+385,94,1916,0,1,,Norway,Costa Rica
+385,94,1917,0,1,,Norway,Costa Rica
+385,94,1918,0,1,,Norway,Costa Rica
+385,94,1919,0,1,,Norway,Costa Rica
+385,94,1920,0,1,,Norway,Costa Rica
+385,94,1921,0,1,,Norway,Costa Rica
+385,94,1922,0,1,,Norway,Costa Rica
+385,94,1923,0,1,,Norway,Costa Rica
+385,94,1924,0,1,,Norway,Costa Rica
+385,94,1925,0,1,,Norway,Costa Rica
+385,94,1926,0,1,,Norway,Costa Rica
+385,94,1927,0,1,,Norway,Costa Rica
+385,94,1928,0,1,,Norway,Costa Rica
+385,94,1929,0,1,,Norway,Costa Rica
+385,94,1930,0,1,,Norway,Costa Rica
+385,94,1931,0,1,,Norway,Costa Rica
+385,94,1932,0,1000,,Norway,Costa Rica
+385,94,1933,0,1000,,Norway,Costa Rica
+385,94,1934,0,1000,,Norway,Costa Rica
+385,94,1935,0,1000,,Norway,Costa Rica
+385,94,1936,189,1000,,Norway,Costa Rica
+385,94,1937,110,1000,,Norway,Costa Rica
+385,94,1938,203,1000,,Norway,Costa Rica
+385,94,1939,282,1000,,Norway,Costa Rica
+385,94,1940,496,1000,,Norway,Costa Rica
+385,94,1941,0,1000,,Norway,Costa Rica
+385,94,1942,0,1000,,Norway,Costa Rica
+385,94,1943,0,1000,,Norway,Costa Rica
+385,94,1944,0,1000,,Norway,Costa Rica
+385,94,1945,1,1000,,Norway,Costa Rica
+385,94,1946,0,1000,,Norway,Costa Rica
+385,94,1947,330,1000,,Norway,Costa Rica
+385,94,1948,1,1000,,Norway,Costa Rica
+385,94,1949,0,1000,,Norway,Costa Rica
+385,95,1904,0,1,,Norway,Panama
+385,95,1905,0,1,,Norway,Panama
+385,95,1906,0,1,,Norway,Panama
+385,95,1907,0,1,,Norway,Panama
+385,95,1908,0,1,,Norway,Panama
+385,95,1909,0,1,,Norway,Panama
+385,95,1911,0,1,,Norway,Panama
+385,95,1912,0,1,,Norway,Panama
+385,95,1913,0,1,,Norway,Panama
+385,95,1914,0,1,,Norway,Panama
+385,95,1915,0,1,,Norway,Panama
+385,95,1916,0,1,,Norway,Panama
+385,95,1917,0,1,,Norway,Panama
+385,95,1918,0,1,,Norway,Panama
+385,95,1919,0,1,,Norway,Panama
+385,95,1920,0,1,,Norway,Panama
+385,95,1921,0,1,,Norway,Panama
+385,95,1922,0,1,,Norway,Panama
+385,95,1923,0,1,,Norway,Panama
+385,95,1924,0,1,,Norway,Panama
+385,95,1925,0,1,,Norway,Panama
+385,95,1926,0,1,,Norway,Panama
+385,95,1927,0,1,,Norway,Panama
+385,95,1928,0,1,,Norway,Panama
+385,95,1929,0,1,,Norway,Panama
+385,95,1930,0,1,,Norway,Panama
+385,95,1931,0,1,,Norway,Panama
+385,95,1932,15,1000,,Norway,Panama
+385,95,1933,10,1000,,Norway,Panama
+385,95,1934,8,1000,,Norway,Panama
+385,95,1935,2,1000,,Norway,Panama
+385,95,1936,4828,1000,,Norway,Panama
+385,95,1937,7164,1000,,Norway,Panama
+385,95,1938,3075,1000,,Norway,Panama
+385,95,1939,6564,1000,,Norway,Panama
+385,95,1940,0,1000,,Norway,Panama
+385,95,1941,0,1000,,Norway,Panama
+385,95,1942,0,1000,,Norway,Panama
+385,95,1943,0,1000,,Norway,Panama
+385,95,1944,0,1000,,Norway,Panama
+385,95,1945,0,1000,,Norway,Panama
+385,95,1946,7810,1000,,Norway,Panama
+385,95,1947,9469,1000,,Norway,Panama
+385,95,1948,4046,1000,,Norway,Panama
+385,95,1949,8332,1000,,Norway,Panama
+385,100,1904,0,1,,Norway,Colombia
+385,100,1905,0,1,,Norway,Colombia
+385,100,1906,0,1,,Norway,Colombia
+385,100,1907,0,1,,Norway,Colombia
+385,100,1908,0,1,,Norway,Colombia
+385,100,1909,0,1,,Norway,Colombia
+385,100,1911,0,1,,Norway,Colombia
+385,100,1912,0,1,,Norway,Colombia
+385,100,1913,0,1,,Norway,Colombia
+385,100,1914,0,1,,Norway,Colombia
+385,100,1915,0,1,,Norway,Colombia
+385,100,1916,0,1,,Norway,Colombia
+385,100,1917,0,1,,Norway,Colombia
+385,100,1918,0,1,,Norway,Colombia
+385,100,1919,0,1,,Norway,Colombia
+385,100,1920,0,1,,Norway,Colombia
+385,100,1921,0,1,,Norway,Colombia
+385,100,1922,0,1,,Norway,Colombia
+385,100,1923,0,1,,Norway,Colombia
+385,100,1924,0,1,,Norway,Colombia
+385,100,1925,0,1,,Norway,Colombia
+385,100,1926,24200,1,,Norway,Colombia
+385,100,1927,326800,1,,Norway,Colombia
+385,100,1928,321800,1,,Norway,Colombia
+385,100,1929,918800,1,,Norway,Colombia
+385,100,1930,164600,1,,Norway,Colombia
+385,100,1931,209500,1,,Norway,Colombia
+385,100,1932,557,1000,,Norway,Colombia
+385,100,1933,333,1000,,Norway,Colombia
+385,100,1934,372,1000,,Norway,Colombia
+385,100,1935,1352,1000,,Norway,Colombia
+385,100,1936,1880,1000,,Norway,Colombia
+385,100,1937,933,1000,,Norway,Colombia
+385,100,1938,1925,1000,,Norway,Colombia
+385,100,1939,2493,1000,,Norway,Colombia
+385,100,1940,1818,1000,,Norway,Colombia
+385,100,1941,159,1000,,Norway,Colombia
+385,100,1942,0,1000,,Norway,Colombia
+385,100,1943,0,1000,,Norway,Colombia
+385,100,1944,0,1000,,Norway,Colombia
+385,100,1945,0,1000,,Norway,Colombia
+385,100,1946,1,1000,,Norway,Colombia
+385,100,1947,6,1000,,Norway,Colombia
+385,100,1948,1,1000,,Norway,Colombia
+385,100,1949,0,1000,,Norway,Colombia
+385,101,1904,0,1,,Norway,Venezuela
+385,101,1905,0,1,,Norway,Venezuela
+385,101,1906,0,1,,Norway,Venezuela
+385,101,1907,0,1,,Norway,Venezuela
+385,101,1908,0,1,,Norway,Venezuela
+385,101,1909,0,1,,Norway,Venezuela
+385,101,1911,0,1,,Norway,Venezuela
+385,101,1912,0,1,,Norway,Venezuela
+385,101,1913,0,1,,Norway,Venezuela
+385,101,1914,0,1,,Norway,Venezuela
+385,101,1915,0,1,,Norway,Venezuela
+385,101,1916,0,1,,Norway,Venezuela
+385,101,1917,0,1,,Norway,Venezuela
+385,101,1918,0,1,,Norway,Venezuela
+385,101,1919,0,1,,Norway,Venezuela
+385,101,1920,0,1,,Norway,Venezuela
+385,101,1921,0,1,,Norway,Venezuela
+385,101,1922,0,1,,Norway,Venezuela
+385,101,1923,0,1,,Norway,Venezuela
+385,101,1924,58300,1,,Norway,Venezuela
+385,101,1925,176800,1,,Norway,Venezuela
+385,101,1926,289400,1,,Norway,Venezuela
+385,101,1927,948600,1,,Norway,Venezuela
+385,101,1928,1114700,1,,Norway,Venezuela
+385,101,1929,1040700,1,,Norway,Venezuela
+385,101,1930,59000,1,,Norway,Venezuela
+385,101,1931,1109000,1,,Norway,Venezuela
+385,101,1932,221,1000,,Norway,Venezuela
+385,101,1933,1223,1000,,Norway,Venezuela
+385,101,1934,1589,1000,,Norway,Venezuela
+385,101,1935,2351,1000,,Norway,Venezuela
+385,101,1936,4059,1000,,Norway,Venezuela
+385,101,1937,209,1000,,Norway,Venezuela
+385,101,1938,195,1000,,Norway,Venezuela
+385,101,1939,149,1000,,Norway,Venezuela
+385,101,1940,49,1000,,Norway,Venezuela
+385,101,1941,0,1000,,Norway,Venezuela
+385,101,1942,0,1000,,Norway,Venezuela
+385,101,1943,0,1000,,Norway,Venezuela
+385,101,1944,0,1000,,Norway,Venezuela
+385,101,1945,451,1000,,Norway,Venezuela
+385,101,1946,5461,1000,,Norway,Venezuela
+385,101,1947,3552,1000,,Norway,Venezuela
+385,101,1948,20187,1000,,Norway,Venezuela
+385,101,1949,5216,1000,,Norway,Venezuela
+385,110,1904,0,1,,Norway,Guyana
+385,110,1905,0,1,,Norway,Guyana
+385,110,1906,0,1,,Norway,Guyana
+385,110,1907,0,1,,Norway,Guyana
+385,110,1908,0,1,,Norway,Guyana
+385,110,1909,0,1,,Norway,Guyana
+385,110,1911,0,1,,Norway,Guyana
+385,110,1912,0,1,,Norway,Guyana
+385,110,1913,0,1,,Norway,Guyana
+385,110,1914,0,1,,Norway,Guyana
+385,110,1915,0,1,,Norway,Guyana
+385,110,1916,0,1,,Norway,Guyana
+385,110,1917,0,1,,Norway,Guyana
+385,110,1918,0,1,,Norway,Guyana
+385,110,1919,0,1,,Norway,Guyana
+385,110,1920,0,1,,Norway,Guyana
+385,110,1921,0,1,,Norway,Guyana
+385,110,1922,0,1,,Norway,Guyana
+385,110,1923,0,1,,Norway,Guyana
+385,110,1924,0,1,,Norway,Guyana
+385,110,1925,0,1,,Norway,Guyana
+385,110,1926,0,1,,Norway,Guyana
+385,110,1927,0,1,,Norway,Guyana
+385,110,1928,0,1,,Norway,Guyana
+385,110,1929,0,1,,Norway,Guyana
+385,110,1930,0,1,,Norway,Guyana
+385,110,1931,0,1,,Norway,Guyana
+385,110,1932,0,1000,,Norway,Guyana
+385,110,1933,0,1000,,Norway,Guyana
+385,110,1934,0,1000,,Norway,Guyana
+385,110,1935,0,1000,,Norway,Guyana
+385,110,1936,18,1000,,Norway,Guyana
+385,110,1937,41,1000,,Norway,Guyana
+385,110,1938,9,1000,,Norway,Guyana
+385,110,1939,16,1000,,Norway,Guyana
+385,110,1940,3,1000,,Norway,Guyana
+385,110,1941,0,1000,,Norway,Guyana
+385,110,1942,0,1000,,Norway,Guyana
+385,110,1943,0,1000,,Norway,Guyana
+385,110,1944,0,1000,,Norway,Guyana
+385,110,1945,0,1000,,Norway,Guyana
+385,110,1946,18,1000,,Norway,Guyana
+385,110,1947,10,1000,,Norway,Guyana
+385,110,1948,23,1000,,Norway,Guyana
+385,110,1949,87,1000,,Norway,Guyana
+385,115,1904,0,1,,Norway,Suriname
+385,115,1905,0,1,,Norway,Suriname
+385,115,1906,0,1,,Norway,Suriname
+385,115,1907,0,1,,Norway,Suriname
+385,115,1908,0,1,,Norway,Suriname
+385,115,1909,0,1,,Norway,Suriname
+385,115,1911,0,1,,Norway,Suriname
+385,115,1912,0,1,,Norway,Suriname
+385,115,1913,0,1,,Norway,Suriname
+385,115,1914,0,1,,Norway,Suriname
+385,115,1915,0,1,,Norway,Suriname
+385,115,1916,0,1,,Norway,Suriname
+385,115,1917,0,1,,Norway,Suriname
+385,115,1918,0,1,,Norway,Suriname
+385,115,1919,0,1,,Norway,Suriname
+385,115,1920,0,1,,Norway,Suriname
+385,115,1921,0,1,,Norway,Suriname
+385,115,1922,0,1,,Norway,Suriname
+385,115,1923,0,1,,Norway,Suriname
+385,115,1924,0,1,,Norway,Suriname
+385,115,1925,0,1,,Norway,Suriname
+385,115,1926,0,1,,Norway,Suriname
+385,115,1927,0,1,,Norway,Suriname
+385,115,1928,0,1,,Norway,Suriname
+385,115,1929,0,1,,Norway,Suriname
+385,115,1930,0,1,,Norway,Suriname
+385,115,1931,0,1,,Norway,Suriname
+385,115,1932,0,1000,,Norway,Suriname
+385,115,1933,0,1000,,Norway,Suriname
+385,115,1934,0,1000,,Norway,Suriname
+385,115,1935,0,1000,,Norway,Suriname
+385,115,1936,953,1000,,Norway,Suriname
+385,115,1937,1285,1000,,Norway,Suriname
+385,115,1938,1030,1000,,Norway,Suriname
+385,115,1939,1155,1000,,Norway,Suriname
+385,115,1940,495,1000,,Norway,Suriname
+385,115,1941,0,1000,,Norway,Suriname
+385,115,1942,0,1000,,Norway,Suriname
+385,115,1943,0,1000,,Norway,Suriname
+385,115,1944,0,1000,,Norway,Suriname
+385,115,1945,0,1000,,Norway,Suriname
+385,115,1946,1178,1000,,Norway,Suriname
+385,115,1947,1372,1000,,Norway,Suriname
+385,115,1948,1221,1000,,Norway,Suriname
+385,115,1949,1578,1000,,Norway,Suriname
+385,120,1904,0,1,,Norway,French Guiana
+385,120,1905,0,1,,Norway,French Guiana
+385,120,1906,0,1,,Norway,French Guiana
+385,120,1907,0,1,,Norway,French Guiana
+385,120,1908,0,1,,Norway,French Guiana
+385,120,1909,0,1,,Norway,French Guiana
+385,120,1911,0,1,,Norway,French Guiana
+385,120,1912,0,1,,Norway,French Guiana
+385,120,1913,0,1,,Norway,French Guiana
+385,120,1914,0,1,,Norway,French Guiana
+385,120,1915,0,1,,Norway,French Guiana
+385,120,1916,0,1,,Norway,French Guiana
+385,120,1917,0,1,,Norway,French Guiana
+385,120,1918,0,1,,Norway,French Guiana
+385,120,1919,0,1,,Norway,French Guiana
+385,120,1920,0,1,,Norway,French Guiana
+385,120,1921,0,1,,Norway,French Guiana
+385,120,1922,0,1,,Norway,French Guiana
+385,120,1923,0,1,,Norway,French Guiana
+385,120,1924,0,1,,Norway,French Guiana
+385,120,1925,0,1,,Norway,French Guiana
+385,120,1926,0,1,,Norway,French Guiana
+385,120,1927,0,1,,Norway,French Guiana
+385,120,1928,0,1,,Norway,French Guiana
+385,120,1929,0,1,,Norway,French Guiana
+385,120,1930,0,1,,Norway,French Guiana
+385,120,1931,0,1,,Norway,French Guiana
+385,120,1932,0,1000,,Norway,French Guiana
+385,120,1933,0,1000,,Norway,French Guiana
+385,120,1934,0,1000,,Norway,French Guiana
+385,120,1935,0,1000,,Norway,French Guiana
+385,120,1936,6,1000,,Norway,French Guiana
+385,120,1937,0,1000,,Norway,French Guiana
+385,120,1938,0,1000,,Norway,French Guiana
+385,120,1939,0,1000,,Norway,French Guiana
+385,120,1940,0,1000,,Norway,French Guiana
+385,120,1941,0,1000,,Norway,French Guiana
+385,120,1942,0,1000,,Norway,French Guiana
+385,120,1943,0,1000,,Norway,French Guiana
+385,120,1944,0,1000,,Norway,French Guiana
+385,120,1945,0,1000,,Norway,French Guiana
+385,120,1946,7,1000,,Norway,French Guiana
+385,120,1947,0,1000,,Norway,French Guiana
+385,120,1948,0,1000,,Norway,French Guiana
+385,120,1949,0,1000,,Norway,French Guiana
+385,130,1904,0,1,,Norway,Ecuador
+385,130,1905,0,1,,Norway,Ecuador
+385,130,1906,0,1,,Norway,Ecuador
+385,130,1907,0,1,,Norway,Ecuador
+385,130,1908,0,1,,Norway,Ecuador
+385,130,1909,0,1,,Norway,Ecuador
+385,130,1911,0,1,,Norway,Ecuador
+385,130,1912,0,1,,Norway,Ecuador
+385,130,1913,0,1,,Norway,Ecuador
+385,130,1914,0,1,,Norway,Ecuador
+385,130,1915,0,1,,Norway,Ecuador
+385,130,1916,0,1,,Norway,Ecuador
+385,130,1917,0,1,,Norway,Ecuador
+385,130,1918,0,1,,Norway,Ecuador
+385,130,1919,0,1,,Norway,Ecuador
+385,130,1920,0,1,,Norway,Ecuador
+385,130,1921,0,1,,Norway,Ecuador
+385,130,1922,0,1,,Norway,Ecuador
+385,130,1923,0,1,,Norway,Ecuador
+385,130,1924,0,1,,Norway,Ecuador
+385,130,1925,0,1,,Norway,Ecuador
+385,130,1926,0,1,,Norway,Ecuador
+385,130,1927,0,1,,Norway,Ecuador
+385,130,1928,0,1,,Norway,Ecuador
+385,130,1929,0,1,,Norway,Ecuador
+385,130,1930,13200,1,,Norway,Ecuador
+385,130,1931,27800,1,,Norway,Ecuador
+385,130,1932,13,1000,,Norway,Ecuador
+385,130,1933,8,1000,,Norway,Ecuador
+385,130,1934,40,1000,,Norway,Ecuador
+385,130,1935,127,1000,,Norway,Ecuador
+385,130,1936,56,1000,,Norway,Ecuador
+385,130,1937,107,1000,,Norway,Ecuador
+385,130,1938,106,1000,,Norway,Ecuador
+385,130,1939,215,1000,,Norway,Ecuador
+385,130,1940,89,1000,,Norway,Ecuador
+385,130,1941,5,1000,,Norway,Ecuador
+385,130,1942,0,1000,,Norway,Ecuador
+385,130,1943,0,1000,,Norway,Ecuador
+385,130,1944,0,1000,,Norway,Ecuador
+385,130,1945,0,1000,,Norway,Ecuador
+385,130,1946,626,1000,,Norway,Ecuador
+385,130,1947,101,1000,,Norway,Ecuador
+385,130,1948,3196,1000,,Norway,Ecuador
+385,130,1949,196,1000,,Norway,Ecuador
+385,135,1904,0,1,,Norway,Peru
+385,135,1905,0,1,,Norway,Peru
+385,135,1906,0,1,,Norway,Peru
+385,135,1907,0,1,,Norway,Peru
+385,135,1908,0,1,,Norway,Peru
+385,135,1909,0,1,,Norway,Peru
+385,135,1911,0,1,,Norway,Peru
+385,135,1912,0,1,,Norway,Peru
+385,135,1913,0,1,,Norway,Peru
+385,135,1914,0,1,,Norway,Peru
+385,135,1915,0,1,,Norway,Peru
+385,135,1916,0,1,,Norway,Peru
+385,135,1917,0,1,,Norway,Peru
+385,135,1918,0,1,,Norway,Peru
+385,135,1919,0,1,,Norway,Peru
+385,135,1920,0,1,,Norway,Peru
+385,135,1921,0,1,,Norway,Peru
+385,135,1922,0,1,,Norway,Peru
+385,135,1923,0,1,,Norway,Peru
+385,135,1924,3882000,1,,Norway,Peru
+385,135,1925,2857000,1,,Norway,Peru
+385,135,1926,1193800,1,,Norway,Peru
+385,135,1927,961000,1,,Norway,Peru
+385,135,1928,3967200,1,,Norway,Peru
+385,135,1929,1651300,1,,Norway,Peru
+385,135,1930,2581000,1,,Norway,Peru
+385,135,1931,2261600,1,,Norway,Peru
+385,135,1932,2338,1000,,Norway,Peru
+385,135,1933,1279,1000,,Norway,Peru
+385,135,1934,2344,1000,,Norway,Peru
+385,135,1935,1203,1000,,Norway,Peru
+385,135,1936,637,1000,,Norway,Peru
+385,135,1937,651,1000,,Norway,Peru
+385,135,1938,1447,1000,,Norway,Peru
+385,135,1939,687,1000,,Norway,Peru
+385,135,1940,253,1000,,Norway,Peru
+385,135,1941,0,1000,,Norway,Peru
+385,135,1942,0,1000,,Norway,Peru
+385,135,1943,0,1000,,Norway,Peru
+385,135,1944,0,1000,,Norway,Peru
+385,135,1945,0,1000,,Norway,Peru
+385,135,1946,354,1000,,Norway,Peru
+385,135,1947,1594,1000,,Norway,Peru
+385,135,1948,3034,1000,,Norway,Peru
+385,135,1949,2410,1000,,Norway,Peru
+385,140,1904,94600,1,,Norway,Brazil
+385,140,1905,29200,1,,Norway,Brazil
+385,140,1906,177000,1,,Norway,Brazil
+385,140,1907,0,1,,Norway,Brazil
+385,140,1908,2700,1,,Norway,Brazil
+385,140,1909,1781900,1,,Norway,Brazil
+385,140,1911,3274400,1,,Norway,Brazil
+385,140,1912,3560800,1,,Norway,Brazil
+385,140,1913,4235800,1,,Norway,Brazil
+385,140,1914,3270600,1,,Norway,Brazil
+385,140,1915,15556000,1,,Norway,Brazil
+385,140,1916,18423300,1,,Norway,Brazil
+385,140,1917,14155500,1,,Norway,Brazil
+385,140,1918,10280500,1,,Norway,Brazil
+385,140,1919,31410200,1,,Norway,Brazil
+385,140,1920,9511500,1,,Norway,Brazil
+385,140,1921,5543600,1,,Norway,Brazil
+385,140,1922,8259920,1,,Norway,Brazil
+385,140,1923,11740200,1,,Norway,Brazil
+385,140,1924,13485300,1,,Norway,Brazil
+385,140,1925,7792800,1,,Norway,Brazil
+385,140,1926,6424500,1,,Norway,Brazil
+385,140,1927,6279900,1,,Norway,Brazil
+385,140,1928,4209400,1,,Norway,Brazil
+385,140,1929,4153000,1,,Norway,Brazil
+385,140,1930,3538100,1,,Norway,Brazil
+385,140,1931,3800900,1,,Norway,Brazil
+385,140,1932,3212,1000,,Norway,Brazil
+385,140,1933,2528,1000,,Norway,Brazil
+385,140,1934,2767,1000,,Norway,Brazil
+385,140,1935,4473,1000,,Norway,Brazil
+385,140,1936,4841,1000,,Norway,Brazil
+385,140,1937,4836,1000,,Norway,Brazil
+385,140,1938,4872,1000,,Norway,Brazil
+385,140,1939,8345,1000,,Norway,Brazil
+385,140,1940,4638,1000,,Norway,Brazil
+385,140,1941,819,1000,,Norway,Brazil
+385,140,1942,21,1000,,Norway,Brazil
+385,140,1943,3,1000,,Norway,Brazil
+385,140,1944,0,1000,,Norway,Brazil
+385,140,1945,30554,1000,,Norway,Brazil
+385,140,1946,39262,1000,,Norway,Brazil
+385,140,1947,39527,1000,,Norway,Brazil
+385,140,1948,83349,1000,,Norway,Brazil
+385,140,1949,44596,1000,,Norway,Brazil
+385,145,1904,0,1,,Norway,Bolivia
+385,145,1905,0,1,,Norway,Bolivia
+385,145,1906,0,1,,Norway,Bolivia
+385,145,1907,0,1,,Norway,Bolivia
+385,145,1908,0,1,,Norway,Bolivia
+385,145,1909,0,1,,Norway,Bolivia
+385,145,1911,0,1,,Norway,Bolivia
+385,145,1912,0,1,,Norway,Bolivia
+385,145,1913,0,1,,Norway,Bolivia
+385,145,1914,0,1,,Norway,Bolivia
+385,145,1915,0,1,,Norway,Bolivia
+385,145,1916,0,1,,Norway,Bolivia
+385,145,1917,0,1,,Norway,Bolivia
+385,145,1918,0,1,,Norway,Bolivia
+385,145,1919,0,1,,Norway,Bolivia
+385,145,1920,0,1,,Norway,Bolivia
+385,145,1921,0,1,,Norway,Bolivia
+385,145,1922,0,1,,Norway,Bolivia
+385,145,1923,0,1,,Norway,Bolivia
+385,145,1924,0,1,,Norway,Bolivia
+385,145,1925,0,1,,Norway,Bolivia
+385,145,1926,0,1,,Norway,Bolivia
+385,145,1927,0,1,,Norway,Bolivia
+385,145,1928,0,1,,Norway,Bolivia
+385,145,1929,0,1,,Norway,Bolivia
+385,145,1930,0,1,,Norway,Bolivia
+385,145,1931,0,1,,Norway,Bolivia
+385,145,1932,32,1000,,Norway,Bolivia
+385,145,1933,6,1000,,Norway,Bolivia
+385,145,1934,12,1000,,Norway,Bolivia
+385,145,1935,13,1000,,Norway,Bolivia
+385,145,1936,9,1000,,Norway,Bolivia
+385,145,1937,64,1000,,Norway,Bolivia
+385,145,1938,1,1000,,Norway,Bolivia
+385,145,1939,355,1000,,Norway,Bolivia
+385,145,1940,1,1000,,Norway,Bolivia
+385,145,1941,0,1000,,Norway,Bolivia
+385,145,1942,0,1000,,Norway,Bolivia
+385,145,1943,0,1000,,Norway,Bolivia
+385,145,1944,0,1000,,Norway,Bolivia
+385,145,1945,0,1000,,Norway,Bolivia
+385,145,1946,0,1000,,Norway,Bolivia
+385,145,1947,0,1000,,Norway,Bolivia
+385,145,1948,0,1000,,Norway,Bolivia
+385,145,1949,0,1000,,Norway,Bolivia
+385,150,1904,0,1,,Norway,Paraguay
+385,150,1905,0,1,,Norway,Paraguay
+385,150,1906,0,1,,Norway,Paraguay
+385,150,1907,0,1,,Norway,Paraguay
+385,150,1908,0,1,,Norway,Paraguay
+385,150,1909,0,1,,Norway,Paraguay
+385,150,1911,0,1,,Norway,Paraguay
+385,150,1912,0,1,,Norway,Paraguay
+385,150,1913,0,1,,Norway,Paraguay
+385,150,1914,0,1,,Norway,Paraguay
+385,150,1915,0,1,,Norway,Paraguay
+385,150,1916,0,1,,Norway,Paraguay
+385,150,1917,0,1,,Norway,Paraguay
+385,150,1918,0,1,,Norway,Paraguay
+385,150,1919,0,1,,Norway,Paraguay
+385,150,1920,0,1,,Norway,Paraguay
+385,150,1921,0,1,,Norway,Paraguay
+385,150,1922,0,1,,Norway,Paraguay
+385,150,1923,0,1,,Norway,Paraguay
+385,150,1924,0,1,,Norway,Paraguay
+385,150,1925,0,1,,Norway,Paraguay
+385,150,1926,0,1,,Norway,Paraguay
+385,150,1927,0,1,,Norway,Paraguay
+385,150,1928,0,1,,Norway,Paraguay
+385,150,1929,0,1,,Norway,Paraguay
+385,150,1930,0,1,,Norway,Paraguay
+385,150,1931,0,1,,Norway,Paraguay
+385,150,1932,12,1000,,Norway,Paraguay
+385,150,1933,0,1000,,Norway,Paraguay
+385,150,1934,0,1000,,Norway,Paraguay
+385,150,1935,33,1000,,Norway,Paraguay
+385,150,1936,29,1000,,Norway,Paraguay
+385,150,1937,0,1000,,Norway,Paraguay
+385,150,1938,53,1000,,Norway,Paraguay
+385,150,1939,39,1000,,Norway,Paraguay
+385,150,1940,0,1000,,Norway,Paraguay
+385,150,1941,0,1000,,Norway,Paraguay
+385,150,1942,0,1000,,Norway,Paraguay
+385,150,1943,0,1000,,Norway,Paraguay
+385,150,1944,0,1000,,Norway,Paraguay
+385,150,1945,0,1000,,Norway,Paraguay
+385,150,1946,269,1000,,Norway,Paraguay
+385,150,1947,727,1000,,Norway,Paraguay
+385,150,1948,515,1000,,Norway,Paraguay
+385,150,1949,2834,1000,,Norway,Paraguay
+385,155,1904,0,1,,Norway,Chile
+385,155,1905,0,1,,Norway,Chile
+385,155,1906,0,1,,Norway,Chile
+385,155,1907,0,1,,Norway,Chile
+385,155,1908,0,1,,Norway,Chile
+385,155,1909,2200,1,,Norway,Chile
+385,155,1911,19000,1,,Norway,Chile
+385,155,1912,100,1,,Norway,Chile
+385,155,1913,0,1,,Norway,Chile
+385,155,1914,0,1,,Norway,Chile
+385,155,1915,0,1,,Norway,Chile
+385,155,1916,3346200,1,,Norway,Chile
+385,155,1917,223000,1,,Norway,Chile
+385,155,1918,0,1,,Norway,Chile
+385,155,1919,0,1,,Norway,Chile
+385,155,1920,19200,1,,Norway,Chile
+385,155,1921,5100,1,,Norway,Chile
+385,155,1922,1200,1,,Norway,Chile
+385,155,1923,700,1,,Norway,Chile
+385,155,1924,78700,1,,Norway,Chile
+385,155,1925,1300,1,,Norway,Chile
+385,155,1926,0,1,,Norway,Chile
+385,155,1927,800,1,,Norway,Chile
+385,155,1928,169900,1,,Norway,Chile
+385,155,1929,39800,1,,Norway,Chile
+385,155,1930,32900,1,,Norway,Chile
+385,155,1931,129900,1,,Norway,Chile
+385,155,1932,167,1000,,Norway,Chile
+385,155,1933,56,1000,,Norway,Chile
+385,155,1934,160,1000,,Norway,Chile
+385,155,1935,417,1000,,Norway,Chile
+385,155,1936,255,1000,,Norway,Chile
+385,155,1937,697,1000,,Norway,Chile
+385,155,1938,962,1000,,Norway,Chile
+385,155,1939,584,1000,,Norway,Chile
+385,155,1940,480,1000,,Norway,Chile
+385,155,1941,0,1000,,Norway,Chile
+385,155,1942,0,1000,,Norway,Chile
+385,155,1943,0,1000,,Norway,Chile
+385,155,1944,0,1000,,Norway,Chile
+385,155,1945,1128,1000,,Norway,Chile
+385,155,1946,1168,1000,,Norway,Chile
+385,155,1947,3938,1000,,Norway,Chile
+385,155,1948,835,1000,,Norway,Chile
+385,155,1949,4460,1000,,Norway,Chile
+385,160,1904,330900,1,,Norway,Argentina
+385,160,1905,516400,1,,Norway,Argentina
+385,160,1906,1299100,1,,Norway,Argentina
+385,160,1907,1132500,1,,Norway,Argentina
+385,160,1908,2477600,1,,Norway,Argentina
+385,160,1909,3238300,1,,Norway,Argentina
+385,160,1911,2043500,1,,Norway,Argentina
+385,160,1912,5037000,1,,Norway,Argentina
+385,160,1913,4058400,1,,Norway,Argentina
+385,160,1914,4177000,1,,Norway,Argentina
+385,160,1915,15699600,1,,Norway,Argentina
+385,160,1916,23811200,1,,Norway,Argentina
+385,160,1917,34620800,1,,Norway,Argentina
+385,160,1918,34716000,1,,Norway,Argentina
+385,160,1919,112378500,1,,Norway,Argentina
+385,160,1920,91171100,1,,Norway,Argentina
+385,160,1921,26125800,1,,Norway,Argentina
+385,160,1922,23314600,1,,Norway,Argentina
+385,160,1923,30698500,1,,Norway,Argentina
+385,160,1924,44536100,1,,Norway,Argentina
+385,160,1925,39802100,1,,Norway,Argentina
+385,160,1926,25319200,1,,Norway,Argentina
+385,160,1927,30748400,1,,Norway,Argentina
+385,160,1928,32830100,1,,Norway,Argentina
+385,160,1929,35123100,1,,Norway,Argentina
+385,160,1930,22763000,1,,Norway,Argentina
+385,160,1931,23078400,1,,Norway,Argentina
+385,160,1932,23337,1000,,Norway,Argentina
+385,160,1933,23168,1000,,Norway,Argentina
+385,160,1934,23162,1000,,Norway,Argentina
+385,160,1935,34167,1000,,Norway,Argentina
+385,160,1936,25544,1000,,Norway,Argentina
+385,160,1937,49342,1000,,Norway,Argentina
+385,160,1938,23022,1000,,Norway,Argentina
+385,160,1939,50236,1000,,Norway,Argentina
+385,160,1940,22885,1000,,Norway,Argentina
+385,160,1941,300,1000,,Norway,Argentina
+385,160,1942,3,1000,,Norway,Argentina
+385,160,1943,0,1000,,Norway,Argentina
+385,160,1944,1,1000,,Norway,Argentina
+385,160,1945,100094,1000,,Norway,Argentina
+385,160,1946,55091,1000,,Norway,Argentina
+385,160,1947,159798,1000,,Norway,Argentina
+385,160,1948,63827,1000,,Norway,Argentina
+385,160,1949,24121,1000,,Norway,Argentina
+385,165,1904,0,1,,Norway,Uruguay
+385,165,1905,0,1,,Norway,Uruguay
+385,165,1906,0,1,,Norway,Uruguay
+385,165,1907,0,1,,Norway,Uruguay
+385,165,1908,0,1,,Norway,Uruguay
+385,165,1909,19100,1,,Norway,Uruguay
+385,165,1911,35200,1,,Norway,Uruguay
+385,165,1912,0,1,,Norway,Uruguay
+385,165,1913,29000,1,,Norway,Uruguay
+385,165,1914,0,1,,Norway,Uruguay
+385,165,1915,0,1,,Norway,Uruguay
+385,165,1916,0,1,,Norway,Uruguay
+385,165,1917,1265400,1,,Norway,Uruguay
+385,165,1918,0,1,,Norway,Uruguay
+385,165,1919,0,1,,Norway,Uruguay
+385,165,1920,0,1,,Norway,Uruguay
+385,165,1921,700,1,,Norway,Uruguay
+385,165,1922,0,1,,Norway,Uruguay
+385,165,1923,0,1,,Norway,Uruguay
+385,165,1924,3300,1,,Norway,Uruguay
+385,165,1925,79500,1,,Norway,Uruguay
+385,165,1926,8900,1,,Norway,Uruguay
+385,165,1927,700,1,,Norway,Uruguay
+385,165,1928,0,1,,Norway,Uruguay
+385,165,1929,1700,1,,Norway,Uruguay
+385,165,1930,12200,1,,Norway,Uruguay
+385,165,1931,97800,1,,Norway,Uruguay
+385,165,1932,164,1000,,Norway,Uruguay
+385,165,1933,98,1000,,Norway,Uruguay
+385,165,1934,178,1000,,Norway,Uruguay
+385,165,1935,372,1000,,Norway,Uruguay
+385,165,1936,448,1000,,Norway,Uruguay
+385,165,1937,879,1000,,Norway,Uruguay
+385,165,1938,3304,1000,,Norway,Uruguay
+385,165,1939,1743,1000,,Norway,Uruguay
+385,165,1940,323,1000,,Norway,Uruguay
+385,165,1941,5,1000,,Norway,Uruguay
+385,165,1942,5,1000,,Norway,Uruguay
+385,165,1943,0,1000,,Norway,Uruguay
+385,165,1944,0,1000,,Norway,Uruguay
+385,165,1945,10573,1000,,Norway,Uruguay
+385,165,1946,4722,1000,,Norway,Uruguay
+385,165,1947,2025,1000,,Norway,Uruguay
+385,165,1948,1390,1000,,Norway,Uruguay
+385,165,1949,6282,1000,,Norway,Uruguay
+385,200,1904,0,1,,Norway,United Kingdom
+385,200,1905,0,1,,Norway,United Kingdom
+385,200,1906,0,1,,Norway,United Kingdom
+385,200,1907,104778500,1,,Norway,United Kingdom
+385,200,1908,94385900,1,,Norway,United Kingdom
+385,200,1909,89235500,1,,Norway,United Kingdom
+385,200,1911,127358400,1,,Norway,United Kingdom
+385,200,1912,147978700,1,,Norway,United Kingdom
+385,200,1913,146238800,1,,Norway,United Kingdom
+385,200,1914,159141900,1,,Norway,United Kingdom
+385,200,1915,253565300,1,,Norway,United Kingdom
+385,200,1916,373949500,1,,Norway,United Kingdom
+385,200,1917,430696300,1,,Norway,United Kingdom
+385,200,1918,362683700,1,,Norway,United Kingdom
+385,200,1919,780624800,1,,Norway,United Kingdom
+385,200,1920,995454000,1,,Norway,United Kingdom
+385,200,1921,376673000,1,,Norway,United Kingdom
+385,200,1922,294260800,1,,Norway,United Kingdom
+385,200,1923,293592300,1,,Norway,United Kingdom
+385,200,1924,365647390,1,,Norway,United Kingdom
+385,200,1925,310889980,1,,Norway,United Kingdom
+385,200,1926,212030800,1,,Norway,United Kingdom
+385,200,1927,199040100,1,,Norway,United Kingdom
+385,200,1928,197234500,1,,Norway,United Kingdom
+385,200,1929,221643300,1,,Norway,United Kingdom
+385,200,1930,273907500,1,,Norway,United Kingdom
+385,200,1931,174499100,1,,Norway,United Kingdom
+385,200,1932,148560,1000,,Norway,United Kingdom
+385,200,1933,151859,1000,,Norway,United Kingdom
+385,200,1934,168770,1000,,Norway,United Kingdom
+385,200,1935,150469,1000,,Norway,United Kingdom
+385,200,1936,164948,1000,,Norway,United Kingdom
+385,200,1937,236472,1000,,Norway,United Kingdom
+385,200,1938,193295,1000,,Norway,United Kingdom
+385,200,1939,230386,1000,,Norway,United Kingdom
+385,200,1940,97928,1000,,Norway,United Kingdom
+385,200,1941,408,1000,,Norway,United Kingdom
+385,200,1942,113,1000,,Norway,United Kingdom
+385,200,1943,79,1000,,Norway,United Kingdom
+385,200,1944,29,1000,,Norway,United Kingdom
+385,200,1945,222689,1000,,Norway,United Kingdom
+385,200,1946,425179,1000,,Norway,United Kingdom
+385,200,1947,737283,1000,,Norway,United Kingdom
+385,200,1948,681540,1000,,Norway,United Kingdom
+385,200,1949,900257,1000,,Norway,United Kingdom
+385,205,1904,0,1,,Norway,Ireland
+385,205,1905,0,1,,Norway,Ireland
+385,205,1906,0,1,,Norway,Ireland
+385,205,1907,300,1,,Norway,Ireland
+385,205,1908,14300,1,,Norway,Ireland
+385,205,1909,86100,1,,Norway,Ireland
+385,205,1911,41800,1,,Norway,Ireland
+385,205,1912,15800,1,,Norway,Ireland
+385,205,1913,4700,1,,Norway,Ireland
+385,205,1914,43900,1,,Norway,Ireland
+385,205,1915,19100,1,,Norway,Ireland
+385,205,1916,56800,1,,Norway,Ireland
+385,205,1917,0,1,,Norway,Ireland
+385,205,1918,300,1,,Norway,Ireland
+385,205,1919,112000,1,,Norway,Ireland
+385,205,1920,96700,1,,Norway,Ireland
+385,205,1921,19800,1,,Norway,Ireland
+385,205,1922,111400,1,,Norway,Ireland
+385,205,1923,236430,1,,Norway,Ireland
+385,205,1924,1140600,1,,Norway,Ireland
+385,205,1925,652100,1,,Norway,Ireland
+385,205,1926,1308500,1,,Norway,Ireland
+385,205,1927,1260800,1,,Norway,Ireland
+385,205,1928,784400,1,,Norway,Ireland
+385,205,1929,5888700,1,,Norway,Ireland
+385,205,1930,477300,1,,Norway,Ireland
+385,205,1931,651300,1,,Norway,Ireland
+385,205,1932,843,1000,,Norway,Ireland
+385,205,1933,861,1000,,Norway,Ireland
+385,205,1934,1018,1000,,Norway,Ireland
+385,205,1935,620,1000,,Norway,Ireland
+385,205,1936,417,1000,,Norway,Ireland
+385,205,1937,291,1000,,Norway,Ireland
+385,205,1938,218,1000,,Norway,Ireland
+385,205,1939,322,1000,,Norway,Ireland
+385,205,1940,252,1000,,Norway,Ireland
+385,205,1941,0,1000,,Norway,Ireland
+385,205,1942,0,1000,,Norway,Ireland
+385,205,1943,0,1000,,Norway,Ireland
+385,205,1944,0,1000,,Norway,Ireland
+385,205,1945,0,1000,,Norway,Ireland
+385,205,1946,308,1000,,Norway,Ireland
+385,205,1947,201,1000,,Norway,Ireland
+385,205,1948,207,1000,,Norway,Ireland
+385,205,1949,1846,1000,,Norway,Ireland
+385,210,1904,13724900,1,,Norway,Netherlands
+385,210,1905,13574800,1,,Norway,Netherlands
+385,210,1906,15120800,1,,Norway,Netherlands
+385,210,1907,17652700,1,,Norway,Netherlands
+385,210,1908,16689600,1,,Norway,Netherlands
+385,210,1909,12878100,1,,Norway,Netherlands
+385,210,1911,16633100,1,,Norway,Netherlands
+385,210,1912,20381900,1,,Norway,Netherlands
+385,210,1913,21081300,1,,Norway,Netherlands
+385,210,1914,22007300,1,,Norway,Netherlands
+385,210,1915,36604700,1,,Norway,Netherlands
+385,210,1916,46810000,1,,Norway,Netherlands
+385,210,1917,44659600,1,,Norway,Netherlands
+385,210,1918,22080100,1,,Norway,Netherlands
+385,210,1919,52229200,1,,Norway,Netherlands
+385,210,1920,84354500,1,,Norway,Netherlands
+385,210,1921,62368400,1,,Norway,Netherlands
+385,210,1922,58594370,1,,Norway,Netherlands
+385,210,1923,65710140,1,,Norway,Netherlands
+385,210,1924,80845990,1,,Norway,Netherlands
+385,210,1925,75024900,1,,Norway,Netherlands
+385,210,1926,53836670,1,,Norway,Netherlands
+385,210,1927,52624600,1,,Norway,Netherlands
+385,210,1928,61414200,1,,Norway,Netherlands
+385,210,1929,48845700,1,,Norway,Netherlands
+385,210,1930,43674900,1,,Norway,Netherlands
+385,210,1931,34594900,1,,Norway,Netherlands
+385,210,1932,29215,1000,,Norway,Netherlands
+385,210,1933,28849,1000,,Norway,Netherlands
+385,210,1934,24911,1000,,Norway,Netherlands
+385,210,1935,19652,1000,,Norway,Netherlands
+385,210,1936,23991,1000,,Norway,Netherlands
+385,210,1937,32627,1000,,Norway,Netherlands
+385,210,1938,38713,1000,,Norway,Netherlands
+385,210,1939,35232,1000,,Norway,Netherlands
+385,210,1940,12628,1000,,Norway,Netherlands
+385,210,1941,9629,1000,,Norway,Netherlands
+385,210,1942,9099,1000,,Norway,Netherlands
+385,210,1943,5446,1000,,Norway,Netherlands
+385,210,1944,2287,1000,,Norway,Netherlands
+385,210,1945,2284,1000,,Norway,Netherlands
+385,210,1946,49267,1000,,Norway,Netherlands
+385,210,1947,117288,1000,,Norway,Netherlands
+385,210,1948,124972,1000,,Norway,Netherlands
+385,210,1949,154021,1000,,Norway,Netherlands
+385,211,1904,11271700,1,,Norway,Belgium
+385,211,1905,12360900,1,,Norway,Belgium
+385,211,1906,13639700,1,,Norway,Belgium
+385,211,1907,15016600,1,,Norway,Belgium
+385,211,1908,14713900,1,,Norway,Belgium
+385,211,1909,12092700,1,,Norway,Belgium
+385,211,1911,12533400,1,,Norway,Belgium
+385,211,1912,16233500,1,,Norway,Belgium
+385,211,1913,17925800,1,,Norway,Belgium
+385,211,1914,12757100,1,,Norway,Belgium
+385,211,1915,398400,1,,Norway,Belgium
+385,211,1916,169700,1,,Norway,Belgium
+385,211,1917,214500,1,,Norway,Belgium
+385,211,1918,90900,1,,Norway,Belgium
+385,211,1919,11932300,1,,Norway,Belgium
+385,211,1920,35958500,1,,Norway,Belgium
+385,211,1921,24531900,1,,Norway,Belgium
+385,211,1922,36463640,1,,Norway,Belgium
+385,211,1923,53266490,1,,Norway,Belgium
+385,211,1924,53686640,1,,Norway,Belgium
+385,211,1925,43245630,1,,Norway,Belgium
+385,211,1926,36395890,1,,Norway,Belgium
+385,211,1927,35927300,1,,Norway,Belgium
+385,211,1928,38736000,1,,Norway,Belgium
+385,211,1929,34588600,1,,Norway,Belgium
+385,211,1930,30351600,1,,Norway,Belgium
+385,211,1931,25113800,1,,Norway,Belgium
+385,211,1932,22681,1000,,Norway,Belgium
+385,211,1933,21168,1000,,Norway,Belgium
+385,211,1934,24595,1000,,Norway,Belgium
+385,211,1935,30064,1000,,Norway,Belgium
+385,211,1936,40157,1000,,Norway,Belgium
+385,211,1937,56382,1000,,Norway,Belgium
+385,211,1938,41766,1000,,Norway,Belgium
+385,211,1939,63489,1000,,Norway,Belgium
+385,211,1940,31796,1000,,Norway,Belgium
+385,211,1941,7773,1000,,Norway,Belgium
+385,211,1942,8914,1000,,Norway,Belgium
+385,211,1943,9520,1000,,Norway,Belgium
+385,211,1944,5126,1000,,Norway,Belgium
+385,211,1945,1329,1000,,Norway,Belgium
+385,211,1946,128598,1000,,Norway,Belgium
+385,211,1947,243121,1000,,Norway,Belgium
+385,211,1948,137040,1000,,Norway,Belgium
+385,211,1949,274939,1000,,Norway,Belgium
+385,220,1904,4307200,1,,Norway,France
+385,220,1905,4512100,1,,Norway,France
+385,220,1906,6010400,1,,Norway,France
+385,220,1907,6641900,1,,Norway,France
+385,220,1908,7270800,1,,Norway,France
+385,220,1909,9472300,1,,Norway,France
+385,220,1911,11898400,1,,Norway,France
+385,220,1912,15074900,1,,Norway,France
+385,220,1913,11718800,1,,Norway,France
+385,220,1914,10586800,1,,Norway,France
+385,220,1915,13852900,1,,Norway,France
+385,220,1916,23349000,1,,Norway,France
+385,220,1917,30997000,1,,Norway,France
+385,220,1918,14205800,1,,Norway,France
+385,220,1919,53596400,1,,Norway,France
+385,220,1920,78681200,1,,Norway,France
+385,220,1921,30455200,1,,Norway,France
+385,220,1922,28579200,1,,Norway,France
+385,220,1923,31528400,1,,Norway,France
+385,220,1924,33810600,1,,Norway,France
+385,220,1925,35817460,1,,Norway,France
+385,220,1926,42924260,1,,Norway,France
+385,220,1927,31093900,1,,Norway,France
+385,220,1928,26103600,1,,Norway,France
+385,220,1929,21165300,1,,Norway,France
+385,220,1930,23203300,1,,Norway,France
+385,220,1931,24495500,1,,Norway,France
+385,220,1932,24469,1000,,Norway,France
+385,220,1933,20531,1000,,Norway,France
+385,220,1934,22469,1000,,Norway,France
+385,220,1935,28791,1000,,Norway,France
+385,220,1936,29869,1000,,Norway,France
+385,220,1937,42802,1000,,Norway,France
+385,220,1938,36331,1000,,Norway,France
+385,220,1939,43832,1000,,Norway,France
+385,220,1940,14281,1000,,Norway,France
+385,220,1941,4271,1000,,Norway,France
+385,220,1942,17768,1000,,Norway,France
+385,220,1943,6011,1000,,Norway,France
+385,220,1944,4564,1000,,Norway,France
+385,220,1945,237,1000,,Norway,France
+385,220,1946,64543,1000,,Norway,France
+385,220,1947,151638,1000,,Norway,France
+385,220,1948,168991,1000,,Norway,France
+385,220,1949,216895,1000,,Norway,France
+385,225,1904,301100,1,,Norway,Switzerland
+385,225,1905,287800,1,,Norway,Switzerland
+385,225,1906,553600,1,,Norway,Switzerland
+385,225,1907,674600,1,,Norway,Switzerland
+385,225,1908,741300,1,,Norway,Switzerland
+385,225,1909,1247700,1,,Norway,Switzerland
+385,225,1911,1514600,1,,Norway,Switzerland
+385,225,1912,1498000,1,,Norway,Switzerland
+385,225,1913,1333300,1,,Norway,Switzerland
+385,225,1914,1984900,1,,Norway,Switzerland
+385,225,1915,2504100,1,,Norway,Switzerland
+385,225,1916,4919000,1,,Norway,Switzerland
+385,225,1917,12365500,1,,Norway,Switzerland
+385,225,1918,11940000,1,,Norway,Switzerland
+385,225,1919,34282000,1,,Norway,Switzerland
+385,225,1920,26750500,1,,Norway,Switzerland
+385,225,1921,10238900,1,,Norway,Switzerland
+385,225,1922,6832590,1,,Norway,Switzerland
+385,225,1923,6965110,1,,Norway,Switzerland
+385,225,1924,8510320,1,,Norway,Switzerland
+385,225,1925,7685120,1,,Norway,Switzerland
+385,225,1926,5078710,1,,Norway,Switzerland
+385,225,1927,4867800,1,,Norway,Switzerland
+385,225,1928,4874800,1,,Norway,Switzerland
+385,225,1929,6577600,1,,Norway,Switzerland
+385,225,1930,6134200,1,,Norway,Switzerland
+385,225,1931,4808300,1,,Norway,Switzerland
+385,225,1932,6223,1000,,Norway,Switzerland
+385,225,1933,4507,1000,,Norway,Switzerland
+385,225,1934,4159,1000,,Norway,Switzerland
+385,225,1935,5807,1000,,Norway,Switzerland
+385,225,1936,7680,1000,,Norway,Switzerland
+385,225,1937,9927,1000,,Norway,Switzerland
+385,225,1938,11984,1000,,Norway,Switzerland
+385,225,1939,16522,1000,,Norway,Switzerland
+385,225,1940,6644,1000,,Norway,Switzerland
+385,225,1941,12864,1000,,Norway,Switzerland
+385,225,1942,4591,1000,,Norway,Switzerland
+385,225,1943,1181,1000,,Norway,Switzerland
+385,225,1944,1944,1000,,Norway,Switzerland
+385,225,1945,1176,1000,,Norway,Switzerland
+385,225,1946,10231,1000,,Norway,Switzerland
+385,225,1947,25027,1000,,Norway,Switzerland
+385,225,1948,36530,1000,,Norway,Switzerland
+385,225,1949,38354,1000,,Norway,Switzerland
+385,230,1904,2362400,1,,Norway,Spain
+385,230,1905,2307100,1,,Norway,Spain
+385,230,1906,2645000,1,,Norway,Spain
+385,230,1907,2745600,1,,Norway,Spain
+385,230,1908,2929900,1,,Norway,Spain
+385,230,1909,3141200,1,,Norway,Spain
+385,230,1911,4199200,1,,Norway,Spain
+385,230,1912,5140700,1,,Norway,Spain
+385,230,1913,4478200,1,,Norway,Spain
+385,230,1914,6087400,1,,Norway,Spain
+385,230,1915,22364400,1,,Norway,Spain
+385,230,1916,44702900,1,,Norway,Spain
+385,230,1917,19874300,1,,Norway,Spain
+385,230,1918,35472600,1,,Norway,Spain
+385,230,1919,56820500,1,,Norway,Spain
+385,230,1920,38441400,1,,Norway,Spain
+385,230,1921,13370100,1,,Norway,Spain
+385,230,1922,18145970,1,,Norway,Spain
+385,230,1923,17587140,1,,Norway,Spain
+385,230,1924,26327100,1,,Norway,Spain
+385,230,1925,20158990,1,,Norway,Spain
+385,230,1926,16750100,1,,Norway,Spain
+385,230,1927,16048300,1,,Norway,Spain
+385,230,1928,15827300,1,,Norway,Spain
+385,230,1929,18272600,1,,Norway,Spain
+385,230,1930,19343800,1,,Norway,Spain
+385,230,1931,15912700,1,,Norway,Spain
+385,230,1932,15174,1000,,Norway,Spain
+385,230,1933,15440,1000,,Norway,Spain
+385,230,1934,14823,1000,,Norway,Spain
+385,230,1935,16454,1000,,Norway,Spain
+385,230,1936,13876,1000,,Norway,Spain
+385,230,1937,7693,1000,,Norway,Spain
+385,230,1938,4915,1000,,Norway,Spain
+385,230,1939,6792,1000,,Norway,Spain
+385,230,1940,5861,1000,,Norway,Spain
+385,230,1941,6058,1000,,Norway,Spain
+385,230,1942,4834,1000,,Norway,Spain
+385,230,1943,3834,1000,,Norway,Spain
+385,230,1944,1888,1000,,Norway,Spain
+385,230,1945,12795,1000,,Norway,Spain
+385,230,1946,36083,1000,,Norway,Spain
+385,230,1947,21794,1000,,Norway,Spain
+385,230,1948,30374,1000,,Norway,Spain
+385,230,1949,40531,1000,,Norway,Spain
+385,235,1904,418600,1,,Norway,Portugal
+385,235,1905,659900,1,,Norway,Portugal
+385,235,1906,564800,1,,Norway,Portugal
+385,235,1907,809200,1,,Norway,Portugal
+385,235,1908,762100,1,,Norway,Portugal
+385,235,1909,895000,1,,Norway,Portugal
+385,235,1911,1471100,1,,Norway,Portugal
+385,235,1912,1482500,1,,Norway,Portugal
+385,235,1913,1702700,1,,Norway,Portugal
+385,235,1914,2961000,1,,Norway,Portugal
+385,235,1915,4612000,1,,Norway,Portugal
+385,235,1916,9505600,1,,Norway,Portugal
+385,235,1917,6428500,1,,Norway,Portugal
+385,235,1918,2567600,1,,Norway,Portugal
+385,235,1919,2455100,1,,Norway,Portugal
+385,235,1920,3634800,1,,Norway,Portugal
+385,235,1921,3685000,1,,Norway,Portugal
+385,235,1922,748700,1,,Norway,Portugal
+385,235,1923,4174400,1,,Norway,Portugal
+385,235,1924,10640600,1,,Norway,Portugal
+385,235,1925,12541500,1,,Norway,Portugal
+385,235,1926,8436600,1,,Norway,Portugal
+385,235,1927,6585400,1,,Norway,Portugal
+385,235,1928,5949000,1,,Norway,Portugal
+385,235,1929,5843800,1,,Norway,Portugal
+385,235,1930,5423600,1,,Norway,Portugal
+385,235,1931,5530500,1,,Norway,Portugal
+385,235,1932,4846,1000,,Norway,Portugal
+385,235,1933,5170,1000,,Norway,Portugal
+385,235,1934,4092,1000,,Norway,Portugal
+385,235,1935,4827,1000,,Norway,Portugal
+385,235,1936,5659,1000,,Norway,Portugal
+385,235,1937,6017,1000,,Norway,Portugal
+385,235,1938,5569,1000,,Norway,Portugal
+385,235,1939,6758,1000,,Norway,Portugal
+385,235,1940,3480,1000,,Norway,Portugal
+385,235,1941,68,1000,,Norway,Portugal
+385,235,1942,46,1000,,Norway,Portugal
+385,235,1943,43,1000,,Norway,Portugal
+385,235,1944,1,1000,,Norway,Portugal
+385,235,1945,1385,1000,,Norway,Portugal
+385,235,1946,8226,1000,,Norway,Portugal
+385,235,1947,17552,1000,,Norway,Portugal
+385,235,1948,11368,1000,,Norway,Portugal
+385,235,1949,8814,1000,,Norway,Portugal
+385,255,1904,83182200,1,,Norway,Germany
+385,255,1905,87189600,1,,Norway,Germany
+385,255,1906,88163100,1,,Norway,Germany
+385,255,1907,101386700,1,,Norway,Germany
+385,255,1908,111582900,1,,Norway,Germany
+385,255,1909,117222700,1,,Norway,Germany
+385,255,1911,147988100,1,,Norway,Germany
+385,255,1912,167955600,1,,Norway,Germany
+385,255,1913,176064500,1,,Norway,Germany
+385,255,1914,151298800,1,,Norway,Germany
+385,255,1915,155217600,1,,Norway,Germany
+385,255,1916,176471400,1,,Norway,Germany
+385,255,1917,156483000,1,,Norway,Germany
+385,255,1918,137847500,1,,Norway,Germany
+385,255,1919,156384800,1,,Norway,Germany
+385,255,1920,322845400,1,,Norway,Germany
+385,255,1921,271048000,1,,Norway,Germany
+385,255,1922,283314420,1,,Norway,Germany
+385,255,1923,308117700,1,,Norway,Germany
+385,255,1924,311718440,1,,Norway,Germany
+385,255,1925,280117580,1,,Norway,Germany
+385,255,1926,222958500,1,,Norway,Germany
+385,255,1927,197421900,1,,Norway,Germany
+385,255,1928,216871400,1,,Norway,Germany
+385,255,1929,261377200,1,,Norway,Germany
+385,255,1930,229300000,1,,Norway,Germany
+385,255,1931,198389800,1,,Norway,Germany
+385,255,1932,147288,1000,,Norway,Germany
+385,255,1933,139391,1000,,Norway,Germany
+385,255,1934,140686,1000,,Norway,Germany
+385,255,1935,139621,1000,,Norway,Germany
+385,255,1936,163344,1000,,Norway,Germany
+385,255,1937,219067,1000,,Norway,Germany
+385,255,1938,219781,1000,,Norway,Germany
+385,255,1939,258969,1000,,Norway,Germany
+385,255,1940,339716,1000,,Norway,Germany
+385,255,1941,757000,1000,,Norway,Germany
+385,255,1942,622510,1000,,Norway,Germany
+385,255,1943,683307,1000,,Norway,Germany
+385,255,1944,458038,1000,,Norway,Germany
+385,255,1945,69362,1000,,Norway,Germany
+385,255,1946,122900,1000,,Norway,Germany
+385,255,1947,69875,1000,,Norway,Germany
+385,255,1948,100578,1000,,Norway,Germany
+385,255,1949,163381,1000,,Norway,Germany
+385,260,1904,0,1,,Norway,West Germany
+385,260,1905,0,1,,Norway,West Germany
+385,260,1906,0,1,,Norway,West Germany
+385,260,1907,0,1,,Norway,West Germany
+385,260,1908,0,1,,Norway,West Germany
+385,260,1909,0,1,,Norway,West Germany
+385,260,1911,0,1,,Norway,West Germany
+385,260,1912,0,1,,Norway,West Germany
+385,260,1913,0,1,,Norway,West Germany
+385,260,1914,0,1,,Norway,West Germany
+385,260,1915,0,1,,Norway,West Germany
+385,260,1916,0,1,,Norway,West Germany
+385,260,1917,0,1,,Norway,West Germany
+385,260,1918,0,1,,Norway,West Germany
+385,260,1919,0,1,,Norway,West Germany
+385,260,1920,0,1,,Norway,West Germany
+385,260,1921,0,1,,Norway,West Germany
+385,260,1922,0,1,,Norway,West Germany
+385,260,1923,0,1,,Norway,West Germany
+385,260,1924,0,1,,Norway,West Germany
+385,260,1925,0,1,,Norway,West Germany
+385,260,1926,0,1,,Norway,West Germany
+385,260,1927,0,1,,Norway,West Germany
+385,260,1928,0,1,,Norway,West Germany
+385,260,1929,0,1,,Norway,West Germany
+385,260,1930,0,1,,Norway,West Germany
+385,260,1931,0,1,,Norway,West Germany
+385,260,1932,0,1000,,Norway,West Germany
+385,260,1933,0,1000,,Norway,West Germany
+385,260,1934,0,1000,,Norway,West Germany
+385,260,1935,0,1000,,Norway,West Germany
+385,260,1936,0,1000,,Norway,West Germany
+385,260,1937,0,1000,,Norway,West Germany
+385,260,1938,0,1000,,Norway,West Germany
+385,260,1939,0,1000,,Norway,West Germany
+385,260,1940,0,1000,,Norway,West Germany
+385,260,1941,0,1000,,Norway,West Germany
+385,260,1942,0,1000,,Norway,West Germany
+385,260,1943,0,1000,,Norway,West Germany
+385,260,1944,0,1000,,Norway,West Germany
+385,260,1945,0,1000,,Norway,West Germany
+385,260,1946,0,1000,,Norway,West Germany
+385,260,1947,0,1000,,Norway,West Germany
+385,260,1948,0,1000,,Norway,West Germany
+385,260,1949,0,1000,,Norway,West Germany
+385,265,1904,0,1,,Norway,East Germany
+385,265,1905,0,1,,Norway,East Germany
+385,265,1906,0,1,,Norway,East Germany
+385,265,1907,0,1,,Norway,East Germany
+385,265,1908,0,1,,Norway,East Germany
+385,265,1909,0,1,,Norway,East Germany
+385,265,1911,0,1,,Norway,East Germany
+385,265,1912,0,1,,Norway,East Germany
+385,265,1913,0,1,,Norway,East Germany
+385,265,1914,0,1,,Norway,East Germany
+385,265,1915,0,1,,Norway,East Germany
+385,265,1916,0,1,,Norway,East Germany
+385,265,1917,0,1,,Norway,East Germany
+385,265,1918,0,1,,Norway,East Germany
+385,265,1919,0,1,,Norway,East Germany
+385,265,1920,0,1,,Norway,East Germany
+385,265,1921,0,1,,Norway,East Germany
+385,265,1922,0,1,,Norway,East Germany
+385,265,1923,0,1,,Norway,East Germany
+385,265,1924,0,1,,Norway,East Germany
+385,265,1925,0,1,,Norway,East Germany
+385,265,1926,0,1,,Norway,East Germany
+385,265,1927,0,1,,Norway,East Germany
+385,265,1928,0,1,,Norway,East Germany
+385,265,1929,0,1,,Norway,East Germany
+385,265,1930,0,1,,Norway,East Germany
+385,265,1931,0,1,,Norway,East Germany
+385,265,1932,0,1000,,Norway,East Germany
+385,265,1933,0,1000,,Norway,East Germany
+385,265,1934,0,1000,,Norway,East Germany
+385,265,1935,0,1000,,Norway,East Germany
+385,265,1936,0,1000,,Norway,East Germany
+385,265,1937,0,1000,,Norway,East Germany
+385,265,1938,0,1000,,Norway,East Germany
+385,265,1939,0,1000,,Norway,East Germany
+385,265,1940,0,1000,,Norway,East Germany
+385,265,1941,0,1000,,Norway,East Germany
+385,265,1942,0,1000,,Norway,East Germany
+385,265,1943,0,1000,,Norway,East Germany
+385,265,1944,0,1000,,Norway,East Germany
+385,265,1945,0,1000,,Norway,East Germany
+385,265,1946,0,1000,,Norway,East Germany
+385,265,1947,0,1000,,Norway,East Germany
+385,265,1948,0,1000,,Norway,East Germany
+385,265,1949,0,1000,,Norway,East Germany
+385,290,1904,0,1,,Norway,Poland
+385,290,1905,0,1,,Norway,Poland
+385,290,1906,0,1,,Norway,Poland
+385,290,1907,0,1,,Norway,Poland
+385,290,1908,0,1,,Norway,Poland
+385,290,1909,0,1,,Norway,Poland
+385,290,1911,0,1,,Norway,Poland
+385,290,1912,0,1,,Norway,Poland
+385,290,1913,0,1,,Norway,Poland
+385,290,1914,0,1,,Norway,Poland
+385,290,1915,0,1,,Norway,Poland
+385,290,1916,0,1,,Norway,Poland
+385,290,1917,0,1,,Norway,Poland
+385,290,1918,0,1,,Norway,Poland
+385,290,1919,0,1,,Norway,Poland
+385,290,1920,20100,1,,Norway,Poland
+385,290,1921,38900,1,,Norway,Poland
+385,290,1922,1814400,1,,Norway,Poland
+385,290,1923,5642960,1,,Norway,Poland
+385,290,1924,6108100,1,,Norway,Poland
+385,290,1925,3719200,1,,Norway,Poland
+385,290,1926,6449340,1,,Norway,Poland
+385,290,1927,16013400,1,,Norway,Poland
+385,290,1928,14545700,1,,Norway,Poland
+385,290,1929,19275400,1,,Norway,Poland
+385,290,1930,21534900,1,,Norway,Poland
+385,290,1931,21369300,1,,Norway,Poland
+385,290,1932,17205,1000,,Norway,Poland
+385,290,1933,17504,1000,,Norway,Poland
+385,290,1934,13430,1000,,Norway,Poland
+385,290,1935,18809,1000,,Norway,Poland
+385,290,1936,21693,1000,,Norway,Poland
+385,290,1937,23013,1000,,Norway,Poland
+385,290,1938,22861,1000,,Norway,Poland
+385,290,1939,22300,1000,,Norway,Poland
+385,290,1940,491,1000,,Norway,Poland
+385,290,1941,4,1000,,Norway,Poland
+385,290,1942,1225,1000,,Norway,Poland
+385,290,1943,2147,1000,,Norway,Poland
+385,290,1944,1315,1000,,Norway,Poland
+385,290,1945,510,1000,,Norway,Poland
+385,290,1946,20457,1000,,Norway,Poland
+385,290,1947,59151,1000,,Norway,Poland
+385,290,1948,114474,1000,,Norway,Poland
+385,290,1949,88634,1000,,Norway,Poland
+385,305,1904,241400,1,,Norway,Austria
+385,305,1905,209700,1,,Norway,Austria
+385,305,1906,1064900,1,,Norway,Austria
+385,305,1907,408400,1,,Norway,Austria
+385,305,1908,501300,1,,Norway,Austria
+385,305,1909,1733300,1,,Norway,Austria
+385,305,1911,1780400,1,,Norway,Austria
+385,305,1912,1727100,1,,Norway,Austria
+385,305,1913,1824000,1,,Norway,Austria
+385,305,1914,1955500,1,,Norway,Austria
+385,305,1915,2846100,1,,Norway,Austria
+385,305,1916,5786100,1,,Norway,Austria
+385,305,1917,1868400,1,,Norway,Austria
+385,305,1918,1764800,1,,Norway,Austria
+385,305,1919,2313600,1,,Norway,Austria
+385,305,1920,4137800,1,,Norway,Austria
+385,305,1921,2178500,1,,Norway,Austria
+385,305,1922,7363570,1,,Norway,Austria
+385,305,1923,3677340,1,,Norway,Austria
+385,305,1924,2424410,1,,Norway,Austria
+385,305,1925,1896800,1,,Norway,Austria
+385,305,1926,1629220,1,,Norway,Austria
+385,305,1927,1935100,1,,Norway,Austria
+385,305,1928,2868600,1,,Norway,Austria
+385,305,1929,2831800,1,,Norway,Austria
+385,305,1930,3242300,1,,Norway,Austria
+385,305,1931,2449900,1,,Norway,Austria
+385,305,1932,2079,1000,,Norway,Austria
+385,305,1933,2251,1000,,Norway,Austria
+385,305,1934,2479,1000,,Norway,Austria
+385,305,1935,4312,1000,,Norway,Austria
+385,305,1936,4859,1000,,Norway,Austria
+385,305,1937,6087,1000,,Norway,Austria
+385,305,1938,0,1000,,Norway,Austria
+385,305,1939,0,1000,,Norway,Austria
+385,305,1940,0,1000,,Norway,Austria
+385,305,1941,0,1000,,Norway,Austria
+385,305,1942,0,1000,,Norway,Austria
+385,305,1943,0,1000,,Norway,Austria
+385,305,1944,0,1000,,Norway,Austria
+385,305,1945,0,1000,,Norway,Austria
+385,305,1946,93,1000,,Norway,Austria
+385,305,1947,649,1000,,Norway,Austria
+385,305,1948,7044,1000,,Norway,Austria
+385,305,1949,11748,1000,,Norway,Austria
+385,310,1904,3100,1,,Norway,Hungary
+385,310,1905,900,1,,Norway,Hungary
+385,310,1906,1300,1,,Norway,Hungary
+385,310,1907,2600,1,,Norway,Hungary
+385,310,1908,1500,1,,Norway,Hungary
+385,310,1909,171300,1,,Norway,Hungary
+385,310,1911,497700,1,,Norway,Hungary
+385,310,1912,178500,1,,Norway,Hungary
+385,310,1913,474900,1,,Norway,Hungary
+385,310,1914,116600,1,,Norway,Hungary
+385,310,1915,121700,1,,Norway,Hungary
+385,310,1916,8000,1,,Norway,Hungary
+385,310,1917,34300,1,,Norway,Hungary
+385,310,1918,79100,1,,Norway,Hungary
+385,310,1919,1700,1,,Norway,Hungary
+385,310,1920,16200,1,,Norway,Hungary
+385,310,1921,144500,1,,Norway,Hungary
+385,310,1922,134240,1,,Norway,Hungary
+385,310,1923,61580,1,,Norway,Hungary
+385,310,1924,24000,1,,Norway,Hungary
+385,310,1925,51800,1,,Norway,Hungary
+385,310,1926,100370,1,,Norway,Hungary
+385,310,1927,129300,1,,Norway,Hungary
+385,310,1928,125500,1,,Norway,Hungary
+385,310,1929,364900,1,,Norway,Hungary
+385,310,1930,540900,1,,Norway,Hungary
+385,310,1931,370700,1,,Norway,Hungary
+385,310,1932,670,1000,,Norway,Hungary
+385,310,1933,807,1000,,Norway,Hungary
+385,310,1934,2006,1000,,Norway,Hungary
+385,310,1935,2845,1000,,Norway,Hungary
+385,310,1936,3687,1000,,Norway,Hungary
+385,310,1937,6414,1000,,Norway,Hungary
+385,310,1938,5528,1000,,Norway,Hungary
+385,310,1939,5617,1000,,Norway,Hungary
+385,310,1940,1668,1000,,Norway,Hungary
+385,310,1941,2527,1000,,Norway,Hungary
+385,310,1942,7414,1000,,Norway,Hungary
+385,310,1943,13576,1000,,Norway,Hungary
+385,310,1944,9584,1000,,Norway,Hungary
+385,310,1945,2795,1000,,Norway,Hungary
+385,310,1946,250,1000,,Norway,Hungary
+385,310,1947,4154,1000,,Norway,Hungary
+385,310,1948,4996,1000,,Norway,Hungary
+385,310,1949,3717,1000,,Norway,Hungary
+385,315,1904,0,1,,Norway,Czechoslovakia
+385,315,1905,0,1,,Norway,Czechoslovakia
+385,315,1906,0,1,,Norway,Czechoslovakia
+385,315,1907,0,1,,Norway,Czechoslovakia
+385,315,1908,0,1,,Norway,Czechoslovakia
+385,315,1909,0,1,,Norway,Czechoslovakia
+385,315,1911,0,1,,Norway,Czechoslovakia
+385,315,1912,0,1,,Norway,Czechoslovakia
+385,315,1913,0,1,,Norway,Czechoslovakia
+385,315,1914,0,1,,Norway,Czechoslovakia
+385,315,1915,0,1,,Norway,Czechoslovakia
+385,315,1916,0,1,,Norway,Czechoslovakia
+385,315,1917,0,1,,Norway,Czechoslovakia
+385,315,1918,0,1,,Norway,Czechoslovakia
+385,315,1919,1462200,1,,Norway,Czechoslovakia
+385,315,1920,5365800,1,,Norway,Czechoslovakia
+385,315,1921,3141100,1,,Norway,Czechoslovakia
+385,315,1922,6361430,1,,Norway,Czechoslovakia
+385,315,1923,7328400,1,,Norway,Czechoslovakia
+385,315,1924,9386070,1,,Norway,Czechoslovakia
+385,315,1925,7094980,1,,Norway,Czechoslovakia
+385,315,1926,9196170,1,,Norway,Czechoslovakia
+385,315,1927,7226500,1,,Norway,Czechoslovakia
+385,315,1928,7982000,1,,Norway,Czechoslovakia
+385,315,1929,8866500,1,,Norway,Czechoslovakia
+385,315,1930,9534400,1,,Norway,Czechoslovakia
+385,315,1931,9914100,1,,Norway,Czechoslovakia
+385,315,1932,9120,1000,,Norway,Czechoslovakia
+385,315,1933,5612,1000,,Norway,Czechoslovakia
+385,315,1934,7057,1000,,Norway,Czechoslovakia
+385,315,1935,15179,1000,,Norway,Czechoslovakia
+385,315,1936,19882,1000,,Norway,Czechoslovakia
+385,315,1937,31129,1000,,Norway,Czechoslovakia
+385,315,1938,23112,1000,,Norway,Czechoslovakia
+385,315,1939,5708,1000,,Norway,Czechoslovakia
+385,315,1940,0,1000,,Norway,Czechoslovakia
+385,315,1941,0,1000,,Norway,Czechoslovakia
+385,315,1942,0,1000,,Norway,Czechoslovakia
+385,315,1943,0,1000,,Norway,Czechoslovakia
+385,315,1944,0,1000,,Norway,Czechoslovakia
+385,315,1945,0,1000,,Norway,Czechoslovakia
+385,315,1946,53129,1000,,Norway,Czechoslovakia
+385,315,1947,69366,1000,,Norway,Czechoslovakia
+385,315,1948,44288,1000,,Norway,Czechoslovakia
+385,315,1949,87110,1000,,Norway,Czechoslovakia
+385,316,1904,0,1,,Norway,Czech Republic
+385,316,1905,0,1,,Norway,Czech Republic
+385,316,1906,0,1,,Norway,Czech Republic
+385,316,1907,0,1,,Norway,Czech Republic
+385,316,1908,0,1,,Norway,Czech Republic
+385,316,1909,0,1,,Norway,Czech Republic
+385,316,1911,0,1,,Norway,Czech Republic
+385,316,1912,0,1,,Norway,Czech Republic
+385,316,1913,0,1,,Norway,Czech Republic
+385,316,1914,0,1,,Norway,Czech Republic
+385,316,1915,0,1,,Norway,Czech Republic
+385,316,1916,0,1,,Norway,Czech Republic
+385,316,1917,0,1,,Norway,Czech Republic
+385,316,1918,0,1,,Norway,Czech Republic
+385,316,1919,0,1,,Norway,Czech Republic
+385,316,1920,0,1,,Norway,Czech Republic
+385,316,1921,0,1,,Norway,Czech Republic
+385,316,1922,0,1,,Norway,Czech Republic
+385,316,1923,0,1,,Norway,Czech Republic
+385,316,1924,0,1,,Norway,Czech Republic
+385,316,1925,0,1,,Norway,Czech Republic
+385,316,1926,0,1,,Norway,Czech Republic
+385,316,1927,0,1,,Norway,Czech Republic
+385,316,1928,0,1,,Norway,Czech Republic
+385,316,1929,0,1,,Norway,Czech Republic
+385,316,1930,0,1,,Norway,Czech Republic
+385,316,1931,0,1,,Norway,Czech Republic
+385,316,1932,0,1000,,Norway,Czech Republic
+385,316,1933,0,1000,,Norway,Czech Republic
+385,316,1934,0,1000,,Norway,Czech Republic
+385,316,1935,0,1000,,Norway,Czech Republic
+385,316,1936,0,1000,,Norway,Czech Republic
+385,316,1937,0,1000,,Norway,Czech Republic
+385,316,1938,0,1000,,Norway,Czech Republic
+385,316,1939,5507,1000,,Norway,Czech Republic
+385,316,1940,10700,1000,,Norway,Czech Republic
+385,316,1941,11138,1000,,Norway,Czech Republic
+385,316,1942,2447,1000,,Norway,Czech Republic
+385,316,1943,1216,1000,,Norway,Czech Republic
+385,316,1944,1982,1000,,Norway,Czech Republic
+385,316,1945,300,1000,,Norway,Czech Republic
+385,316,1946,0,1000,,Norway,Czech Republic
+385,316,1947,0,1000,,Norway,Czech Republic
+385,316,1948,0,1000,,Norway,Czech Republic
+385,316,1949,0,1000,,Norway,Czech Republic
+385,317,1904,0,1,,Norway,Slovakia
+385,317,1905,0,1,,Norway,Slovakia
+385,317,1906,0,1,,Norway,Slovakia
+385,317,1907,0,1,,Norway,Slovakia
+385,317,1908,0,1,,Norway,Slovakia
+385,317,1909,0,1,,Norway,Slovakia
+385,317,1911,0,1,,Norway,Slovakia
+385,317,1912,0,1,,Norway,Slovakia
+385,317,1913,0,1,,Norway,Slovakia
+385,317,1914,0,1,,Norway,Slovakia
+385,317,1915,0,1,,Norway,Slovakia
+385,317,1916,0,1,,Norway,Slovakia
+385,317,1917,0,1,,Norway,Slovakia
+385,317,1918,0,1,,Norway,Slovakia
+385,317,1919,0,1,,Norway,Slovakia
+385,317,1920,0,1,,Norway,Slovakia
+385,317,1921,0,1,,Norway,Slovakia
+385,317,1922,0,1,,Norway,Slovakia
+385,317,1923,0,1,,Norway,Slovakia
+385,317,1924,0,1,,Norway,Slovakia
+385,317,1925,0,1,,Norway,Slovakia
+385,317,1926,0,1,,Norway,Slovakia
+385,317,1927,0,1,,Norway,Slovakia
+385,317,1928,0,1,,Norway,Slovakia
+385,317,1929,0,1,,Norway,Slovakia
+385,317,1930,0,1,,Norway,Slovakia
+385,317,1931,0,1,,Norway,Slovakia
+385,317,1932,0,1000,,Norway,Slovakia
+385,317,1933,0,1000,,Norway,Slovakia
+385,317,1934,0,1000,,Norway,Slovakia
+385,317,1935,0,1000,,Norway,Slovakia
+385,317,1936,0,1000,,Norway,Slovakia
+385,317,1937,0,1000,,Norway,Slovakia
+385,317,1938,0,1000,,Norway,Slovakia
+385,317,1939,860,1000,,Norway,Slovakia
+385,317,1940,478,1000,,Norway,Slovakia
+385,317,1941,231,1000,,Norway,Slovakia
+385,317,1942,50,1000,,Norway,Slovakia
+385,317,1943,29,1000,,Norway,Slovakia
+385,317,1944,14,1000,,Norway,Slovakia
+385,317,1945,0,1000,,Norway,Slovakia
+385,317,1946,0,1000,,Norway,Slovakia
+385,317,1947,0,1000,,Norway,Slovakia
+385,317,1948,0,1000,,Norway,Slovakia
+385,317,1949,0,1000,,Norway,Slovakia
+385,325,1904,2075200,1,,Norway,Italy
+385,325,1905,1660400,1,,Norway,Italy
+385,325,1906,2100300,1,,Norway,Italy
+385,325,1907,2111700,1,,Norway,Italy
+385,325,1908,2020000,1,,Norway,Italy
+385,325,1909,2951700,1,,Norway,Italy
+385,325,1911,3773600,1,,Norway,Italy
+385,325,1912,3665600,1,,Norway,Italy
+385,325,1913,3791300,1,,Norway,Italy
+385,325,1914,4575300,1,,Norway,Italy
+385,325,1915,7045700,1,,Norway,Italy
+385,325,1916,9300000,1,,Norway,Italy
+385,325,1917,7620000,1,,Norway,Italy
+385,325,1918,1341600,1,,Norway,Italy
+385,325,1919,12522300,1,,Norway,Italy
+385,325,1920,14414900,1,,Norway,Italy
+385,325,1921,7391800,1,,Norway,Italy
+385,325,1922,8248550,1,,Norway,Italy
+385,325,1923,8386990,1,,Norway,Italy
+385,325,1924,18828430,1,,Norway,Italy
+385,325,1925,18142670,1,,Norway,Italy
+385,325,1926,11487110,1,,Norway,Italy
+385,325,1927,9437800,1,,Norway,Italy
+385,325,1928,9644100,1,,Norway,Italy
+385,325,1929,13439900,1,,Norway,Italy
+385,325,1930,12881200,1,,Norway,Italy
+385,325,1931,15600900,1,,Norway,Italy
+385,325,1932,8678,1000,,Norway,Italy
+385,325,1933,9891,1000,,Norway,Italy
+385,325,1934,10701,1000,,Norway,Italy
+385,325,1935,11690,1000,,Norway,Italy
+385,325,1936,3950,1000,,Norway,Italy
+385,325,1937,14342,1000,,Norway,Italy
+385,325,1938,22673,1000,,Norway,Italy
+385,325,1939,23712,1000,,Norway,Italy
+385,325,1940,17489,1000,,Norway,Italy
+385,325,1941,24769,1000,,Norway,Italy
+385,325,1942,15202,1000,,Norway,Italy
+385,325,1943,9050,1000,,Norway,Italy
+385,325,1944,2540,1000,,Norway,Italy
+385,325,1945,757,1000,,Norway,Italy
+385,325,1946,51339,1000,,Norway,Italy
+385,325,1947,112563,1000,,Norway,Italy
+385,325,1948,146137,1000,,Norway,Italy
+385,325,1949,100900,1000,,Norway,Italy
+385,345,1904,0,1,,Norway,Yugoslavia
+385,345,1905,0,1,,Norway,Yugoslavia
+385,345,1906,0,1,,Norway,Yugoslavia
+385,345,1907,0,1,,Norway,Yugoslavia
+385,345,1908,0,1,,Norway,Yugoslavia
+385,345,1909,20300,1,,Norway,Yugoslavia
+385,345,1911,22900,1,,Norway,Yugoslavia
+385,345,1912,5400,1,,Norway,Yugoslavia
+385,345,1913,2500,1,,Norway,Yugoslavia
+385,345,1914,300,1,,Norway,Yugoslavia
+385,345,1915,500,1,,Norway,Yugoslavia
+385,345,1916,0,1,,Norway,Yugoslavia
+385,345,1917,0,1,,Norway,Yugoslavia
+385,345,1918,0,1,,Norway,Yugoslavia
+385,345,1919,0,1,,Norway,Yugoslavia
+385,345,1920,221300,1,,Norway,Yugoslavia
+385,345,1921,490900,1,,Norway,Yugoslavia
+385,345,1922,277100,1,,Norway,Yugoslavia
+385,345,1923,232700,1,,Norway,Yugoslavia
+385,345,1924,531000,1,,Norway,Yugoslavia
+385,345,1925,189800,1,,Norway,Yugoslavia
+385,345,1926,308200,1,,Norway,Yugoslavia
+385,345,1927,925300,1,,Norway,Yugoslavia
+385,345,1928,98100,1,,Norway,Yugoslavia
+385,345,1929,104200,1,,Norway,Yugoslavia
+385,345,1930,30300,1,,Norway,Yugoslavia
+385,345,1931,118500,1,,Norway,Yugoslavia
+385,345,1932,92,1000,,Norway,Yugoslavia
+385,345,1933,35,1000,,Norway,Yugoslavia
+385,345,1934,20,1000,,Norway,Yugoslavia
+385,345,1935,385,1000,,Norway,Yugoslavia
+385,345,1936,450,1000,,Norway,Yugoslavia
+385,345,1937,763,1000,,Norway,Yugoslavia
+385,345,1938,1757,1000,,Norway,Yugoslavia
+385,345,1939,1740,1000,,Norway,Yugoslavia
+385,345,1940,990,1000,,Norway,Yugoslavia
+385,345,1941,97,1000,,Norway,Yugoslavia
+385,345,1942,6516,1000,,Norway,Yugoslavia
+385,345,1943,4152,1000,,Norway,Yugoslavia
+385,345,1944,638,1000,,Norway,Yugoslavia
+385,345,1945,0,1000,,Norway,Yugoslavia
+385,345,1946,0,1000,,Norway,Yugoslavia
+385,345,1947,1808,1000,,Norway,Yugoslavia
+385,345,1948,2768,1000,,Norway,Yugoslavia
+385,345,1949,2349,1000,,Norway,Yugoslavia
+385,350,1904,60800,1,,Norway,Greece
+385,350,1905,90400,1,,Norway,Greece
+385,350,1906,110000,1,,Norway,Greece
+385,350,1907,106100,1,,Norway,Greece
+385,350,1908,134800,1,,Norway,Greece
+385,350,1909,232700,1,,Norway,Greece
+385,350,1911,482400,1,,Norway,Greece
+385,350,1912,666400,1,,Norway,Greece
+385,350,1913,396500,1,,Norway,Greece
+385,350,1914,293200,1,,Norway,Greece
+385,350,1915,20947500,1,,Norway,Greece
+385,350,1916,33505200,1,,Norway,Greece
+385,350,1917,4499000,1,,Norway,Greece
+385,350,1918,3400,1,,Norway,Greece
+385,350,1919,788500,1,,Norway,Greece
+385,350,1920,717900,1,,Norway,Greece
+385,350,1921,1306100,1,,Norway,Greece
+385,350,1922,1030200,1,,Norway,Greece
+385,350,1923,557100,1,,Norway,Greece
+385,350,1924,463000,1,,Norway,Greece
+385,350,1925,417600,1,,Norway,Greece
+385,350,1926,79800,1,,Norway,Greece
+385,350,1927,135800,1,,Norway,Greece
+385,350,1928,227800,1,,Norway,Greece
+385,350,1929,1223600,1,,Norway,Greece
+385,350,1930,104700,1,,Norway,Greece
+385,350,1931,172800,1,,Norway,Greece
+385,350,1932,207,1000,,Norway,Greece
+385,350,1933,313,1000,,Norway,Greece
+385,350,1934,233,1000,,Norway,Greece
+385,350,1935,948,1000,,Norway,Greece
+385,350,1936,1321,1000,,Norway,Greece
+385,350,1937,1876,1000,,Norway,Greece
+385,350,1938,1800,1000,,Norway,Greece
+385,350,1939,1853,1000,,Norway,Greece
+385,350,1940,1141,1000,,Norway,Greece
+385,350,1941,477,1000,,Norway,Greece
+385,350,1942,1940,1000,,Norway,Greece
+385,350,1943,2064,1000,,Norway,Greece
+385,350,1944,1310,1000,,Norway,Greece
+385,350,1945,0,1000,,Norway,Greece
+385,350,1946,409,1000,,Norway,Greece
+385,350,1947,6030,1000,,Norway,Greece
+385,350,1948,3857,1000,,Norway,Greece
+385,350,1949,3688,1000,,Norway,Greece
+385,355,1904,0,1,,Norway,Bulgaria
+385,355,1905,0,1,,Norway,Bulgaria
+385,355,1906,0,1,,Norway,Bulgaria
+385,355,1907,0,1,,Norway,Bulgaria
+385,355,1908,400,1,,Norway,Bulgaria
+385,355,1909,0,1,,Norway,Bulgaria
+385,355,1911,108400,1,,Norway,Bulgaria
+385,355,1912,100,1,,Norway,Bulgaria
+385,355,1913,500,1,,Norway,Bulgaria
+385,355,1914,800,1,,Norway,Bulgaria
+385,355,1915,100,1,,Norway,Bulgaria
+385,355,1916,0,1,,Norway,Bulgaria
+385,355,1917,0,1,,Norway,Bulgaria
+385,355,1918,52200,1,,Norway,Bulgaria
+385,355,1919,7300,1,,Norway,Bulgaria
+385,355,1920,0,1,,Norway,Bulgaria
+385,355,1921,0,1,,Norway,Bulgaria
+385,355,1922,300,1,,Norway,Bulgaria
+385,355,1923,38200,1,,Norway,Bulgaria
+385,355,1924,433500,1,,Norway,Bulgaria
+385,355,1925,100,1,,Norway,Bulgaria
+385,355,1926,300,1,,Norway,Bulgaria
+385,355,1927,1900,1,,Norway,Bulgaria
+385,355,1928,2600,1,,Norway,Bulgaria
+385,355,1929,1400,1,,Norway,Bulgaria
+385,355,1930,8300,1,,Norway,Bulgaria
+385,355,1931,16200,1,,Norway,Bulgaria
+385,355,1932,44,1000,,Norway,Bulgaria
+385,355,1933,313,1000,,Norway,Bulgaria
+385,355,1934,15,1000,,Norway,Bulgaria
+385,355,1935,308,1000,,Norway,Bulgaria
+385,355,1936,581,1000,,Norway,Bulgaria
+385,355,1937,1050,1000,,Norway,Bulgaria
+385,355,1938,804,1000,,Norway,Bulgaria
+385,355,1939,878,1000,,Norway,Bulgaria
+385,355,1940,176,1000,,Norway,Bulgaria
+385,355,1941,602,1000,,Norway,Bulgaria
+385,355,1942,934,1000,,Norway,Bulgaria
+385,355,1943,5560,1000,,Norway,Bulgaria
+385,355,1944,3944,1000,,Norway,Bulgaria
+385,355,1945,35,1000,,Norway,Bulgaria
+385,355,1946,1046,1000,,Norway,Bulgaria
+385,355,1947,1335,1000,,Norway,Bulgaria
+385,355,1948,559,1000,,Norway,Bulgaria
+385,355,1949,805,1000,,Norway,Bulgaria
+385,360,1904,426400,1,,Norway,Romania
+385,360,1905,2145900,1,,Norway,Romania
+385,360,1906,2277200,1,,Norway,Romania
+385,360,1907,3493300,1,,Norway,Romania
+385,360,1908,1244500,1,,Norway,Romania
+385,360,1909,1204200,1,,Norway,Romania
+385,360,1911,3617400,1,,Norway,Romania
+385,360,1912,5301700,1,,Norway,Romania
+385,360,1913,3355200,1,,Norway,Romania
+385,360,1914,2629500,1,,Norway,Romania
+385,360,1915,0,1,,Norway,Romania
+385,360,1916,0,1,,Norway,Romania
+385,360,1917,0,1,,Norway,Romania
+385,360,1918,0,1,,Norway,Romania
+385,360,1919,0,1,,Norway,Romania
+385,360,1920,188500,1,,Norway,Romania
+385,360,1921,4295000,1,,Norway,Romania
+385,360,1922,456200,1,,Norway,Romania
+385,360,1923,2715900,1,,Norway,Romania
+385,360,1924,12990600,1,,Norway,Romania
+385,360,1925,4272400,1,,Norway,Romania
+385,360,1926,1641100,1,,Norway,Romania
+385,360,1927,1571200,1,,Norway,Romania
+385,360,1928,644300,1,,Norway,Romania
+385,360,1929,3885300,1,,Norway,Romania
+385,360,1930,3488700,1,,Norway,Romania
+385,360,1931,372300,1,,Norway,Romania
+385,360,1932,114,1000,,Norway,Romania
+385,360,1933,1946,1000,,Norway,Romania
+385,360,1934,24,1000,,Norway,Romania
+385,360,1935,820,1000,,Norway,Romania
+385,360,1936,2384,1000,,Norway,Romania
+385,360,1937,4327,1000,,Norway,Romania
+385,360,1938,154,1000,,Norway,Romania
+385,360,1939,1132,1000,,Norway,Romania
+385,360,1940,667,1000,,Norway,Romania
+385,360,1941,4996,1000,,Norway,Romania
+385,360,1942,2787,1000,,Norway,Romania
+385,360,1943,509,1000,,Norway,Romania
+385,360,1944,0,1000,,Norway,Romania
+385,360,1945,4,1000,,Norway,Romania
+385,360,1946,0,1000,,Norway,Romania
+385,360,1947,30,1000,,Norway,Romania
+385,360,1948,79,1000,,Norway,Romania
+385,360,1949,6313,1000,,Norway,Romania
+385,365,1904,32021100,1,,Norway,Russia
+385,365,1905,31900200,1,,Norway,Russia
+385,365,1906,31146300,1,,Norway,Russia
+385,365,1907,33909900,1,,Norway,Russia
+385,365,1908,26673600,1,,Norway,Russia
+385,365,1909,27803600,1,,Norway,Russia
+385,365,1911,34444100,1,,Norway,Russia
+385,365,1912,21601700,1,,Norway,Russia
+385,365,1913,23228000,1,,Norway,Russia
+385,365,1914,19446100,1,,Norway,Russia
+385,365,1915,1987900,1,,Norway,Russia
+385,365,1916,6181200,1,,Norway,Russia
+385,365,1917,6718200,1,,Norway,Russia
+385,365,1918,9763500,1,,Norway,Russia
+385,365,1919,6255600,1,,Norway,Russia
+385,365,1920,861900,1,,Norway,Russia
+385,365,1921,1325500,1,,Norway,Russia
+385,365,1922,955900,1,,Norway,Russia
+385,365,1923,4593300,1,,Norway,Russia
+385,365,1924,28223600,1,,Norway,Russia
+385,365,1925,12472700,1,,Norway,Russia
+385,365,1926,11852300,1,,Norway,Russia
+385,365,1927,16766100,1,,Norway,Russia
+385,365,1928,4681100,1,,Norway,Russia
+385,365,1929,7055100,1,,Norway,Russia
+385,365,1930,21220500,1,,Norway,Russia
+385,365,1931,20666300,1,,Norway,Russia
+385,365,1932,25487,1000,,Norway,Russia
+385,365,1933,17137,1000,,Norway,Russia
+385,365,1934,14722,1000,,Norway,Russia
+385,365,1935,9312,1000,,Norway,Russia
+385,365,1936,12068,1000,,Norway,Russia
+385,365,1937,15844,1000,,Norway,Russia
+385,365,1938,19257,1000,,Norway,Russia
+385,365,1939,7443,1000,,Norway,Russia
+385,365,1940,529,1000,,Norway,Russia
+385,365,1941,7486,1000,,Norway,Russia
+385,365,1942,255,1000,,Norway,Russia
+385,365,1943,2728,1000,,Norway,Russia
+385,365,1944,2062,1000,,Norway,Russia
+385,365,1945,1606,1000,,Norway,Russia
+385,365,1946,10884,1000,,Norway,Russia
+385,365,1947,52437,1000,,Norway,Russia
+385,365,1948,135238,1000,,Norway,Russia
+385,365,1949,120707,1000,,Norway,Russia
+385,366,1904,0,1,,Norway,Estonia
+385,366,1905,0,1,,Norway,Estonia
+385,366,1906,0,1,,Norway,Estonia
+385,366,1907,0,1,,Norway,Estonia
+385,366,1908,0,1,,Norway,Estonia
+385,366,1909,0,1,,Norway,Estonia
+385,366,1911,0,1,,Norway,Estonia
+385,366,1912,0,1,,Norway,Estonia
+385,366,1913,0,1,,Norway,Estonia
+385,366,1914,0,1,,Norway,Estonia
+385,366,1915,0,1,,Norway,Estonia
+385,366,1916,0,1,,Norway,Estonia
+385,366,1917,0,1,,Norway,Estonia
+385,366,1918,0,1,,Norway,Estonia
+385,366,1919,0,1,,Norway,Estonia
+385,366,1920,0,1,,Norway,Estonia
+385,366,1921,33100,1,,Norway,Estonia
+385,366,1922,170300,1,,Norway,Estonia
+385,366,1923,612400,1,,Norway,Estonia
+385,366,1924,2590500,1,,Norway,Estonia
+385,366,1925,2259800,1,,Norway,Estonia
+385,366,1926,1088300,1,,Norway,Estonia
+385,366,1927,1457300,1,,Norway,Estonia
+385,366,1928,1589100,1,,Norway,Estonia
+385,366,1929,1549400,1,,Norway,Estonia
+385,366,1930,1280800,1,,Norway,Estonia
+385,366,1931,1195300,1,,Norway,Estonia
+385,366,1932,445,1000,,Norway,Estonia
+385,366,1933,600,1000,,Norway,Estonia
+385,366,1934,982,1000,,Norway,Estonia
+385,366,1935,1249,1000,,Norway,Estonia
+385,366,1936,1441,1000,,Norway,Estonia
+385,366,1937,1552,1000,,Norway,Estonia
+385,366,1938,1539,1000,,Norway,Estonia
+385,366,1939,1493,1000,,Norway,Estonia
+385,366,1940,858,1000,,Norway,Estonia
+385,366,1941,2,1000,,Norway,Estonia
+385,366,1942,0,1000,,Norway,Estonia
+385,366,1943,0,1000,,Norway,Estonia
+385,366,1944,0,1000,,Norway,Estonia
+385,366,1945,0,1000,,Norway,Estonia
+385,366,1946,0,1000,,Norway,Estonia
+385,366,1947,0,1000,,Norway,Estonia
+385,366,1948,0,1000,,Norway,Estonia
+385,366,1949,0,1000,,Norway,Estonia
+385,367,1904,0,1,,Norway,Latvia
+385,367,1905,0,1,,Norway,Latvia
+385,367,1906,0,1,,Norway,Latvia
+385,367,1907,0,1,,Norway,Latvia
+385,367,1908,0,1,,Norway,Latvia
+385,367,1909,0,1,,Norway,Latvia
+385,367,1911,0,1,,Norway,Latvia
+385,367,1912,0,1,,Norway,Latvia
+385,367,1913,0,1,,Norway,Latvia
+385,367,1914,0,1,,Norway,Latvia
+385,367,1915,0,1,,Norway,Latvia
+385,367,1916,0,1,,Norway,Latvia
+385,367,1917,0,1,,Norway,Latvia
+385,367,1918,0,1,,Norway,Latvia
+385,367,1919,0,1,,Norway,Latvia
+385,367,1920,21400,1,,Norway,Latvia
+385,367,1921,280800,1,,Norway,Latvia
+385,367,1922,435500,1,,Norway,Latvia
+385,367,1923,2001900,1,,Norway,Latvia
+385,367,1924,1246200,1,,Norway,Latvia
+385,367,1925,1546500,1,,Norway,Latvia
+385,367,1926,606300,1,,Norway,Latvia
+385,367,1927,1062400,1,,Norway,Latvia
+385,367,1928,1216200,1,,Norway,Latvia
+385,367,1929,1419100,1,,Norway,Latvia
+385,367,1930,685000,1,,Norway,Latvia
+385,367,1931,318000,1,,Norway,Latvia
+385,367,1932,333,1000,,Norway,Latvia
+385,367,1933,128,1000,,Norway,Latvia
+385,367,1934,998,1000,,Norway,Latvia
+385,367,1935,475,1000,,Norway,Latvia
+385,367,1936,314,1000,,Norway,Latvia
+385,367,1937,4575,1000,,Norway,Latvia
+385,367,1938,821,1000,,Norway,Latvia
+385,367,1939,906,1000,,Norway,Latvia
+385,367,1940,355,1000,,Norway,Latvia
+385,367,1941,1,1000,,Norway,Latvia
+385,367,1942,0,1000,,Norway,Latvia
+385,367,1943,0,1000,,Norway,Latvia
+385,367,1944,0,1000,,Norway,Latvia
+385,367,1945,0,1000,,Norway,Latvia
+385,367,1946,0,1000,,Norway,Latvia
+385,367,1947,0,1000,,Norway,Latvia
+385,367,1948,0,1000,,Norway,Latvia
+385,367,1949,0,1000,,Norway,Latvia
+385,368,1904,0,1,,Norway,Lithuania
+385,368,1905,0,1,,Norway,Lithuania
+385,368,1906,0,1,,Norway,Lithuania
+385,368,1907,0,1,,Norway,Lithuania
+385,368,1908,0,1,,Norway,Lithuania
+385,368,1909,0,1,,Norway,Lithuania
+385,368,1911,0,1,,Norway,Lithuania
+385,368,1912,0,1,,Norway,Lithuania
+385,368,1913,0,1,,Norway,Lithuania
+385,368,1914,0,1,,Norway,Lithuania
+385,368,1915,0,1,,Norway,Lithuania
+385,368,1916,0,1,,Norway,Lithuania
+385,368,1917,0,1,,Norway,Lithuania
+385,368,1918,0,1,,Norway,Lithuania
+385,368,1919,0,1,,Norway,Lithuania
+385,368,1920,0,1,,Norway,Lithuania
+385,368,1921,293900,1,,Norway,Lithuania
+385,368,1922,23600,1,,Norway,Lithuania
+385,368,1923,108500,1,,Norway,Lithuania
+385,368,1924,6300,1,,Norway,Lithuania
+385,368,1925,360700,1,,Norway,Lithuania
+385,368,1926,13400,1,,Norway,Lithuania
+385,368,1927,256600,1,,Norway,Lithuania
+385,368,1928,18700,1,,Norway,Lithuania
+385,368,1929,298200,1,,Norway,Lithuania
+385,368,1930,5700,1,,Norway,Lithuania
+385,368,1931,8400,1,,Norway,Lithuania
+385,368,1932,9,1000,,Norway,Lithuania
+385,368,1933,75,1000,,Norway,Lithuania
+385,368,1934,164,1000,,Norway,Lithuania
+385,368,1935,536,1000,,Norway,Lithuania
+385,368,1936,708,1000,,Norway,Lithuania
+385,368,1937,106,1000,,Norway,Lithuania
+385,368,1938,597,1000,,Norway,Lithuania
+385,368,1939,659,1000,,Norway,Lithuania
+385,368,1940,116,1000,,Norway,Lithuania
+385,368,1941,0,1000,,Norway,Lithuania
+385,368,1942,0,1000,,Norway,Lithuania
+385,368,1943,0,1000,,Norway,Lithuania
+385,368,1944,0,1000,,Norway,Lithuania
+385,368,1945,0,1000,,Norway,Lithuania
+385,368,1946,0,1000,,Norway,Lithuania
+385,368,1947,0,1000,,Norway,Lithuania
+385,368,1948,0,1000,,Norway,Lithuania
+385,368,1949,0,1000,,Norway,Lithuania
+385,375,1904,67100,1,,Norway,Finland
+385,375,1905,248400,1,,Norway,Finland
+385,375,1906,88100,1,,Norway,Finland
+385,375,1907,140400,1,,Norway,Finland
+385,375,1908,240700,1,,Norway,Finland
+385,375,1909,680000,1,,Norway,Finland
+385,375,1911,913100,1,,Norway,Finland
+385,375,1912,1845800,1,,Norway,Finland
+385,375,1913,2348200,1,,Norway,Finland
+385,375,1914,2217400,1,,Norway,Finland
+385,375,1915,509500,1,,Norway,Finland
+385,375,1916,485700,1,,Norway,Finland
+385,375,1917,313300,1,,Norway,Finland
+385,375,1918,1704300,1,,Norway,Finland
+385,375,1919,427000,1,,Norway,Finland
+385,375,1920,3186200,1,,Norway,Finland
+385,375,1921,2964900,1,,Norway,Finland
+385,375,1922,2329300,1,,Norway,Finland
+385,375,1923,4587450,1,,Norway,Finland
+385,375,1924,4832470,1,,Norway,Finland
+385,375,1925,4208660,1,,Norway,Finland
+385,375,1926,5121620,1,,Norway,Finland
+385,375,1927,1806600,1,,Norway,Finland
+385,375,1928,1183100,1,,Norway,Finland
+385,375,1929,1483800,1,,Norway,Finland
+385,375,1930,1998000,1,,Norway,Finland
+385,375,1931,1838900,1,,Norway,Finland
+385,375,1932,3115,1000,,Norway,Finland
+385,375,1933,3668,1000,,Norway,Finland
+385,375,1934,3885,1000,,Norway,Finland
+385,375,1935,5080,1000,,Norway,Finland
+385,375,1936,6110,1000,,Norway,Finland
+385,375,1937,18695,1000,,Norway,Finland
+385,375,1938,6309,1000,,Norway,Finland
+385,375,1939,7794,1000,,Norway,Finland
+385,375,1940,2741,1000,,Norway,Finland
+385,375,1941,9200,1000,,Norway,Finland
+385,375,1942,6434,1000,,Norway,Finland
+385,375,1943,9306,1000,,Norway,Finland
+385,375,1944,10554,1000,,Norway,Finland
+385,375,1945,152,1000,,Norway,Finland
+385,375,1946,15486,1000,,Norway,Finland
+385,375,1947,29483,1000,,Norway,Finland
+385,375,1948,26386,1000,,Norway,Finland
+385,375,1949,27363,1000,,Norway,Finland
+385,380,1904,34239400,1,,Norway,Sweden
+385,380,1905,38469600,1,,Norway,Sweden
+385,380,1906,40932100,1,,Norway,Sweden
+385,380,1907,46946100,1,,Norway,Sweden
+385,380,1908,41467600,1,,Norway,Sweden
+385,380,1909,41687100,1,,Norway,Sweden
+385,380,1911,57796700,1,,Norway,Sweden
+385,380,1912,70400700,1,,Norway,Sweden
+385,380,1913,84788200,1,,Norway,Sweden
+385,380,1914,46936400,1,,Norway,Sweden
+385,380,1915,75166800,1,,Norway,Sweden
+385,380,1916,132441000,1,,Norway,Sweden
+385,380,1917,162274900,1,,Norway,Sweden
+385,380,1918,221236600,1,,Norway,Sweden
+385,380,1919,189969800,1,,Norway,Sweden
+385,380,1920,188694800,1,,Norway,Sweden
+385,380,1921,126236900,1,,Norway,Sweden
+385,380,1922,128049340,1,,Norway,Sweden
+385,380,1923,91062900,1,,Norway,Sweden
+385,380,1924,98834290,1,,Norway,Sweden
+385,380,1925,93009190,1,,Norway,Sweden
+385,380,1926,83238840,1,,Norway,Sweden
+385,380,1927,78615300,1,,Norway,Sweden
+385,380,1928,86631400,1,,Norway,Sweden
+385,380,1929,96951100,1,,Norway,Sweden
+385,380,1930,89428500,1,,Norway,Sweden
+385,380,1931,88727200,1,,Norway,Sweden
+385,380,1932,58332,1000,,Norway,Sweden
+385,380,1933,56445,1000,,Norway,Sweden
+385,380,1934,79981,1000,,Norway,Sweden
+385,380,1935,82012,1000,,Norway,Sweden
+385,380,1936,105397,1000,,Norway,Sweden
+385,380,1937,138279,1000,,Norway,Sweden
+385,380,1938,137033,1000,,Norway,Sweden
+385,380,1939,139508,1000,,Norway,Sweden
+385,380,1940,94616,1000,,Norway,Sweden
+385,380,1941,72674,1000,,Norway,Sweden
+385,380,1942,60170,1000,,Norway,Sweden
+385,380,1943,66536,1000,,Norway,Sweden
+385,380,1944,48099,1000,,Norway,Sweden
+385,380,1945,361644,1000,,Norway,Sweden
+385,380,1946,225217,1000,,Norway,Sweden
+385,380,1947,322434,1000,,Norway,Sweden
+385,380,1948,492375,1000,,Norway,Sweden
+385,380,1949,592860,1000,,Norway,Sweden
+385,390,1904,17281000,1,,Norway,Denmark
+385,390,1905,20545800,1,,Norway,Denmark
+385,390,1906,19945200,1,,Norway,Denmark
+385,390,1907,25180800,1,,Norway,Denmark
+385,390,1908,27324400,1,,Norway,Denmark
+385,390,1909,19738500,1,,Norway,Denmark
+385,390,1911,21950000,1,,Norway,Denmark
+385,390,1912,26995500,1,,Norway,Denmark
+385,390,1913,28347400,1,,Norway,Denmark
+385,390,1914,29400100,1,,Norway,Denmark
+385,390,1915,33350500,1,,Norway,Denmark
+385,390,1916,69139600,1,,Norway,Denmark
+385,390,1917,104475900,1,,Norway,Denmark
+385,390,1918,129045600,1,,Norway,Denmark
+385,390,1919,140255800,1,,Norway,Denmark
+385,390,1920,192113400,1,,Norway,Denmark
+385,390,1921,95674000,1,,Norway,Denmark
+385,390,1922,103920040,1,,Norway,Denmark
+385,390,1923,90390400,1,,Norway,Denmark
+385,390,1924,75958600,1,,Norway,Denmark
+385,390,1925,83949430,1,,Norway,Denmark
+385,390,1926,82277700,1,,Norway,Denmark
+385,390,1927,52958400,1,,Norway,Denmark
+385,390,1928,72984200,1,,Norway,Denmark
+385,390,1929,65207100,1,,Norway,Denmark
+385,390,1930,73840000,1,,Norway,Denmark
+385,390,1931,69785000,1,,Norway,Denmark
+385,390,1932,33980,1000,,Norway,Denmark
+385,390,1933,31869,1000,,Norway,Denmark
+385,390,1934,41956,1000,,Norway,Denmark
+385,390,1935,43386,1000,,Norway,Denmark
+385,390,1936,37088,1000,,Norway,Denmark
+385,390,1937,58727,1000,,Norway,Denmark
+385,390,1938,41740,1000,,Norway,Denmark
+385,390,1939,49965,1000,,Norway,Denmark
+385,390,1940,34856,1000,,Norway,Denmark
+385,390,1941,75870,1000,,Norway,Denmark
+385,390,1942,62219,1000,,Norway,Denmark
+385,390,1943,83463,1000,,Norway,Denmark
+385,390,1944,59470,1000,,Norway,Denmark
+385,390,1945,149267,1000,,Norway,Denmark
+385,390,1946,107206,1000,,Norway,Denmark
+385,390,1947,182950,1000,,Norway,Denmark
+385,390,1948,185245,1000,,Norway,Denmark
+385,390,1949,182090,1000,,Norway,Denmark
+385,395,1904,3503900,1,,Norway,Iceland
+385,395,1905,6041900,1,,Norway,Iceland
+385,395,1906,5625500,1,,Norway,Iceland
+385,395,1907,3801300,1,,Norway,Iceland
+385,395,1908,1686600,1,,Norway,Iceland
+385,395,1909,1984900,1,,Norway,Iceland
+385,395,1911,2982300,1,,Norway,Iceland
+385,395,1912,2311200,1,,Norway,Iceland
+385,395,1913,3370000,1,,Norway,Iceland
+385,395,1914,4238300,1,,Norway,Iceland
+385,395,1915,5680200,1,,Norway,Iceland
+385,395,1916,6035200,1,,Norway,Iceland
+385,395,1917,4316200,1,,Norway,Iceland
+385,395,1918,9598500,1,,Norway,Iceland
+385,395,1919,11168100,1,,Norway,Iceland
+385,395,1920,7059700,1,,Norway,Iceland
+385,395,1921,4299400,1,,Norway,Iceland
+385,395,1922,6140000,1,,Norway,Iceland
+385,395,1923,5133810,1,,Norway,Iceland
+385,395,1924,8786400,1,,Norway,Iceland
+385,395,1925,6989870,1,,Norway,Iceland
+385,395,1926,5463300,1,,Norway,Iceland
+385,395,1927,5549100,1,,Norway,Iceland
+385,395,1928,8384700,1,,Norway,Iceland
+385,395,1929,4866000,1,,Norway,Iceland
+385,395,1930,4625800,1,,Norway,Iceland
+385,395,1931,4163500,1,,Norway,Iceland
+385,395,1932,2902,1000,,Norway,Iceland
+385,395,1933,3580,1000,,Norway,Iceland
+385,395,1934,3757,1000,,Norway,Iceland
+385,395,1935,3740,1000,,Norway,Iceland
+385,395,1936,4478,1000,,Norway,Iceland
+385,395,1937,7306,1000,,Norway,Iceland
+385,395,1938,4848,1000,,Norway,Iceland
+385,395,1939,6007,1000,,Norway,Iceland
+385,395,1940,956,1000,,Norway,Iceland
+385,395,1941,0,1000,,Norway,Iceland
+385,395,1942,0,1000,,Norway,Iceland
+385,395,1943,2,1000,,Norway,Iceland
+385,395,1944,0,1000,,Norway,Iceland
+385,395,1945,577,1000,,Norway,Iceland
+385,395,1946,1210,1000,,Norway,Iceland
+385,395,1947,3894,1000,,Norway,Iceland
+385,395,1948,1469,1000,,Norway,Iceland
+385,395,1949,506,1000,,Norway,Iceland
+385,410,1904,0,1,,Norway,Canary Islands
+385,410,1905,0,1,,Norway,Canary Islands
+385,410,1906,0,1,,Norway,Canary Islands
+385,410,1907,0,1,,Norway,Canary Islands
+385,410,1908,0,1,,Norway,Canary Islands
+385,410,1909,0,1,,Norway,Canary Islands
+385,410,1911,0,1,,Norway,Canary Islands
+385,410,1912,0,1,,Norway,Canary Islands
+385,410,1913,0,1,,Norway,Canary Islands
+385,410,1914,0,1,,Norway,Canary Islands
+385,410,1915,0,1,,Norway,Canary Islands
+385,410,1916,0,1,,Norway,Canary Islands
+385,410,1917,0,1,,Norway,Canary Islands
+385,410,1918,0,1,,Norway,Canary Islands
+385,410,1919,0,1,,Norway,Canary Islands
+385,410,1920,0,1,,Norway,Canary Islands
+385,410,1921,0,1,,Norway,Canary Islands
+385,410,1922,0,1,,Norway,Canary Islands
+385,410,1923,0,1,,Norway,Canary Islands
+385,410,1924,0,1,,Norway,Canary Islands
+385,410,1925,0,1,,Norway,Canary Islands
+385,410,1926,0,1,,Norway,Canary Islands
+385,410,1927,0,1,,Norway,Canary Islands
+385,410,1928,0,1,,Norway,Canary Islands
+385,410,1929,0,1,,Norway,Canary Islands
+385,410,1930,0,1,,Norway,Canary Islands
+385,410,1931,0,1,,Norway,Canary Islands
+385,410,1932,104,1000,,Norway,Canary Islands
+385,410,1933,139,1000,,Norway,Canary Islands
+385,410,1934,117,1000,,Norway,Canary Islands
+385,410,1935,324,1000,,Norway,Canary Islands
+385,410,1936,255,1000,,Norway,Canary Islands
+385,410,1937,359,1000,,Norway,Canary Islands
+385,410,1938,265,1000,,Norway,Canary Islands
+385,410,1939,284,1000,,Norway,Canary Islands
+385,410,1940,69,1000,,Norway,Canary Islands
+385,410,1941,1,1000,,Norway,Canary Islands
+385,410,1942,0,1000,,Norway,Canary Islands
+385,410,1943,0,1000,,Norway,Canary Islands
+385,410,1944,0,1000,,Norway,Canary Islands
+385,410,1945,1287,1000,,Norway,Canary Islands
+385,410,1946,2,1000,,Norway,Canary Islands
+385,410,1947,93,1000,,Norway,Canary Islands
+385,410,1948,509,1000,,Norway,Canary Islands
+385,410,1949,1,1000,,Norway,Canary Islands
+385,430,1904,0,1,,Norway,French West Africa
+385,430,1905,0,1,,Norway,French West Africa
+385,430,1906,0,1,,Norway,French West Africa
+385,430,1907,0,1,,Norway,French West Africa
+385,430,1908,0,1,,Norway,French West Africa
+385,430,1909,0,1,,Norway,French West Africa
+385,430,1911,0,1,,Norway,French West Africa
+385,430,1912,0,1,,Norway,French West Africa
+385,430,1913,0,1,,Norway,French West Africa
+385,430,1914,0,1,,Norway,French West Africa
+385,430,1915,0,1,,Norway,French West Africa
+385,430,1916,0,1,,Norway,French West Africa
+385,430,1917,0,1,,Norway,French West Africa
+385,430,1918,0,1,,Norway,French West Africa
+385,430,1919,0,1,,Norway,French West Africa
+385,430,1920,0,1,,Norway,French West Africa
+385,430,1921,0,1,,Norway,French West Africa
+385,430,1922,0,1,,Norway,French West Africa
+385,430,1923,0,1,,Norway,French West Africa
+385,430,1924,0,1,,Norway,French West Africa
+385,430,1925,0,1,,Norway,French West Africa
+385,430,1926,0,1,,Norway,French West Africa
+385,430,1927,0,1,,Norway,French West Africa
+385,430,1928,0,1,,Norway,French West Africa
+385,430,1929,0,1,,Norway,French West Africa
+385,430,1930,0,1,,Norway,French West Africa
+385,430,1931,0,1,,Norway,French West Africa
+385,430,1932,54,1000,,Norway,French West Africa
+385,430,1933,2,1000,,Norway,French West Africa
+385,430,1934,5,1000,,Norway,French West Africa
+385,430,1935,15,1000,,Norway,French West Africa
+385,430,1936,40,1000,,Norway,French West Africa
+385,430,1937,59,1000,,Norway,French West Africa
+385,430,1938,61,1000,,Norway,French West Africa
+385,430,1939,33,1000,,Norway,French West Africa
+385,430,1940,12,1000,,Norway,French West Africa
+385,430,1941,0,1000,,Norway,French West Africa
+385,430,1942,0,1000,,Norway,French West Africa
+385,430,1943,0,1000,,Norway,French West Africa
+385,430,1944,0,1000,,Norway,French West Africa
+385,430,1945,0,1000,,Norway,French West Africa
+385,430,1946,6,1000,,Norway,French West Africa
+385,430,1947,4998,1000,,Norway,French West Africa
+385,430,1948,7553,1000,,Norway,French West Africa
+385,430,1949,897,1000,,Norway,French West Africa
+385,450,1904,0,1,,Norway,Liberia
+385,450,1905,0,1,,Norway,Liberia
+385,450,1906,0,1,,Norway,Liberia
+385,450,1907,0,1,,Norway,Liberia
+385,450,1908,0,1,,Norway,Liberia
+385,450,1909,0,1,,Norway,Liberia
+385,450,1911,0,1,,Norway,Liberia
+385,450,1912,0,1,,Norway,Liberia
+385,450,1913,0,1,,Norway,Liberia
+385,450,1914,0,1,,Norway,Liberia
+385,450,1915,0,1,,Norway,Liberia
+385,450,1916,0,1,,Norway,Liberia
+385,450,1917,0,1,,Norway,Liberia
+385,450,1918,0,1,,Norway,Liberia
+385,450,1919,0,1,,Norway,Liberia
+385,450,1920,0,1,,Norway,Liberia
+385,450,1921,0,1,,Norway,Liberia
+385,450,1922,0,1,,Norway,Liberia
+385,450,1923,0,1,,Norway,Liberia
+385,450,1924,0,1,,Norway,Liberia
+385,450,1925,0,1,,Norway,Liberia
+385,450,1926,0,1,,Norway,Liberia
+385,450,1927,0,1,,Norway,Liberia
+385,450,1928,0,1,,Norway,Liberia
+385,450,1929,0,1,,Norway,Liberia
+385,450,1930,0,1,,Norway,Liberia
+385,450,1931,0,1,,Norway,Liberia
+385,450,1932,0,1000,,Norway,Liberia
+385,450,1933,0,1000,,Norway,Liberia
+385,450,1934,0,1000,,Norway,Liberia
+385,450,1935,0,1000,,Norway,Liberia
+385,450,1936,260,1000,,Norway,Liberia
+385,450,1937,291,1000,,Norway,Liberia
+385,450,1938,212,1000,,Norway,Liberia
+385,450,1939,278,1000,,Norway,Liberia
+385,450,1940,188,1000,,Norway,Liberia
+385,450,1941,14,1000,,Norway,Liberia
+385,450,1942,0,1000,,Norway,Liberia
+385,450,1943,0,1000,,Norway,Liberia
+385,450,1944,1,1000,,Norway,Liberia
+385,450,1945,78,1000,,Norway,Liberia
+385,450,1946,38,1000,,Norway,Liberia
+385,450,1947,42,1000,,Norway,Liberia
+385,450,1948,139,1000,,Norway,Liberia
+385,450,1949,77,1000,,Norway,Liberia
+385,465,1904,0,1,,Norway,British West Africa
+385,465,1905,0,1,,Norway,British West Africa
+385,465,1906,0,1,,Norway,British West Africa
+385,465,1907,0,1,,Norway,British West Africa
+385,465,1908,0,1,,Norway,British West Africa
+385,465,1909,0,1,,Norway,British West Africa
+385,465,1911,0,1,,Norway,British West Africa
+385,465,1912,0,1,,Norway,British West Africa
+385,465,1913,0,1,,Norway,British West Africa
+385,465,1914,0,1,,Norway,British West Africa
+385,465,1915,0,1,,Norway,British West Africa
+385,465,1916,0,1,,Norway,British West Africa
+385,465,1917,0,1,,Norway,British West Africa
+385,465,1918,0,1,,Norway,British West Africa
+385,465,1919,0,1,,Norway,British West Africa
+385,465,1920,0,1,,Norway,British West Africa
+385,465,1921,0,1,,Norway,British West Africa
+385,465,1922,0,1,,Norway,British West Africa
+385,465,1923,0,1,,Norway,British West Africa
+385,465,1924,0,1,,Norway,British West Africa
+385,465,1925,0,1,,Norway,British West Africa
+385,465,1926,0,1,,Norway,British West Africa
+385,465,1927,0,1,,Norway,British West Africa
+385,465,1928,0,1,,Norway,British West Africa
+385,465,1929,0,1,,Norway,British West Africa
+385,465,1930,0,1,,Norway,British West Africa
+385,465,1931,0,1,,Norway,British West Africa
+385,465,1932,0,1000,,Norway,British West Africa
+385,465,1933,0,1000,,Norway,British West Africa
+385,465,1934,0,1000,,Norway,British West Africa
+385,465,1935,0,1000,,Norway,British West Africa
+385,465,1936,5008,1000,,Norway,British West Africa
+385,465,1937,8504,1000,,Norway,British West Africa
+385,465,1938,9272,1000,,Norway,British West Africa
+385,465,1939,6992,1000,,Norway,British West Africa
+385,465,1940,6838,1000,,Norway,British West Africa
+385,465,1941,95,1000,,Norway,British West Africa
+385,465,1942,25,1000,,Norway,British West Africa
+385,465,1943,0,1000,,Norway,British West Africa
+385,465,1944,0,1000,,Norway,British West Africa
+385,465,1945,4439,1000,,Norway,British West Africa
+385,465,1946,7362,1000,,Norway,British West Africa
+385,465,1947,21907,1000,,Norway,British West Africa
+385,465,1948,29421,1000,,Norway,British West Africa
+385,465,1949,26533,1000,,Norway,British West Africa
+385,490,1904,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1905,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1906,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1907,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1908,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1909,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1911,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1912,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1913,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1914,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1915,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1916,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1917,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1918,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1919,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1920,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1921,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1922,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1923,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1924,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1925,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1926,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1927,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1928,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1929,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1930,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1931,0,1,,Norway,"Congo, Dem. Republic"
+385,490,1932,4,1000,,Norway,"Congo, Dem. Republic"
+385,490,1933,3,1000,,Norway,"Congo, Dem. Republic"
+385,490,1934,0,1000,,Norway,"Congo, Dem. Republic"
+385,490,1935,95,1000,,Norway,"Congo, Dem. Republic"
+385,490,1936,71,1000,,Norway,"Congo, Dem. Republic"
+385,490,1937,68,1000,,Norway,"Congo, Dem. Republic"
+385,490,1938,156,1000,,Norway,"Congo, Dem. Republic"
+385,490,1939,200,1000,,Norway,"Congo, Dem. Republic"
+385,490,1940,71,1000,,Norway,"Congo, Dem. Republic"
+385,490,1941,2,1000,,Norway,"Congo, Dem. Republic"
+385,490,1942,0,1000,,Norway,"Congo, Dem. Republic"
+385,490,1943,0,1000,,Norway,"Congo, Dem. Republic"
+385,490,1944,0,1000,,Norway,"Congo, Dem. Republic"
+385,490,1945,0,1000,,Norway,"Congo, Dem. Republic"
+385,490,1946,1164,1000,,Norway,"Congo, Dem. Republic"
+385,490,1947,2197,1000,,Norway,"Congo, Dem. Republic"
+385,490,1948,695,1000,,Norway,"Congo, Dem. Republic"
+385,490,1949,566,1000,,Norway,"Congo, Dem. Republic"
+385,505,1904,0,1,,Norway,British East Africa
+385,505,1905,0,1,,Norway,British East Africa
+385,505,1906,0,1,,Norway,British East Africa
+385,505,1907,0,1,,Norway,British East Africa
+385,505,1908,0,1,,Norway,British East Africa
+385,505,1909,0,1,,Norway,British East Africa
+385,505,1911,0,1,,Norway,British East Africa
+385,505,1912,0,1,,Norway,British East Africa
+385,505,1913,0,1,,Norway,British East Africa
+385,505,1914,0,1,,Norway,British East Africa
+385,505,1915,0,1,,Norway,British East Africa
+385,505,1916,0,1,,Norway,British East Africa
+385,505,1917,0,1,,Norway,British East Africa
+385,505,1918,0,1,,Norway,British East Africa
+385,505,1919,0,1,,Norway,British East Africa
+385,505,1920,0,1,,Norway,British East Africa
+385,505,1921,0,1,,Norway,British East Africa
+385,505,1922,0,1,,Norway,British East Africa
+385,505,1923,0,1,,Norway,British East Africa
+385,505,1924,0,1,,Norway,British East Africa
+385,505,1925,0,1,,Norway,British East Africa
+385,505,1926,0,1,,Norway,British East Africa
+385,505,1927,0,1,,Norway,British East Africa
+385,505,1928,0,1,,Norway,British East Africa
+385,505,1929,0,1,,Norway,British East Africa
+385,505,1930,0,1,,Norway,British East Africa
+385,505,1931,0,1,,Norway,British East Africa
+385,505,1932,0,1000,,Norway,British East Africa
+385,505,1933,0,1000,,Norway,British East Africa
+385,505,1934,0,1000,,Norway,British East Africa
+385,505,1935,0,1000,,Norway,British East Africa
+385,505,1936,0,1000,,Norway,British East Africa
+385,505,1937,313,1000,,Norway,British East Africa
+385,505,1938,291,1000,,Norway,British East Africa
+385,505,1939,182,1000,,Norway,British East Africa
+385,505,1940,42,1000,,Norway,British East Africa
+385,505,1941,0,1000,,Norway,British East Africa
+385,505,1942,0,1000,,Norway,British East Africa
+385,505,1943,0,1000,,Norway,British East Africa
+385,505,1944,0,1000,,Norway,British East Africa
+385,505,1945,840,1000,,Norway,British East Africa
+385,505,1946,103,1000,,Norway,British East Africa
+385,505,1947,805,1000,,Norway,British East Africa
+385,505,1948,2879,1000,,Norway,British East Africa
+385,505,1949,2361,1000,,Norway,British East Africa
+385,530,1904,0,1,,Norway,Ethiopia
+385,530,1905,0,1,,Norway,Ethiopia
+385,530,1906,0,1,,Norway,Ethiopia
+385,530,1907,0,1,,Norway,Ethiopia
+385,530,1908,0,1,,Norway,Ethiopia
+385,530,1909,0,1,,Norway,Ethiopia
+385,530,1911,0,1,,Norway,Ethiopia
+385,530,1912,0,1,,Norway,Ethiopia
+385,530,1913,0,1,,Norway,Ethiopia
+385,530,1914,0,1,,Norway,Ethiopia
+385,530,1915,0,1,,Norway,Ethiopia
+385,530,1916,0,1,,Norway,Ethiopia
+385,530,1917,0,1,,Norway,Ethiopia
+385,530,1918,0,1,,Norway,Ethiopia
+385,530,1919,0,1,,Norway,Ethiopia
+385,530,1920,0,1,,Norway,Ethiopia
+385,530,1921,0,1,,Norway,Ethiopia
+385,530,1922,0,1,,Norway,Ethiopia
+385,530,1923,0,1,,Norway,Ethiopia
+385,530,1924,0,1,,Norway,Ethiopia
+385,530,1925,0,1,,Norway,Ethiopia
+385,530,1926,0,1,,Norway,Ethiopia
+385,530,1927,0,1,,Norway,Ethiopia
+385,530,1928,0,1,,Norway,Ethiopia
+385,530,1929,0,1,,Norway,Ethiopia
+385,530,1930,0,1,,Norway,Ethiopia
+385,530,1931,0,1,,Norway,Ethiopia
+385,530,1932,0,1000,,Norway,Ethiopia
+385,530,1933,0,1000,,Norway,Ethiopia
+385,530,1934,0,1000,,Norway,Ethiopia
+385,530,1935,0,1000,,Norway,Ethiopia
+385,530,1936,1096,1000,,Norway,Ethiopia
+385,530,1937,893,1000,,Norway,Ethiopia
+385,530,1938,1143,1000,,Norway,Ethiopia
+385,530,1939,990,1000,,Norway,Ethiopia
+385,530,1940,214,1000,,Norway,Ethiopia
+385,530,1941,3,1000,,Norway,Ethiopia
+385,530,1942,0,1000,,Norway,Ethiopia
+385,530,1943,0,1000,,Norway,Ethiopia
+385,530,1944,0,1000,,Norway,Ethiopia
+385,530,1945,0,1000,,Norway,Ethiopia
+385,530,1946,19,1000,,Norway,Ethiopia
+385,530,1947,27,1000,,Norway,Ethiopia
+385,530,1948,89,1000,,Norway,Ethiopia
+385,530,1949,1167,1000,,Norway,Ethiopia
+385,554,1904,0,1,,Norway,Rhodesia
+385,554,1905,0,1,,Norway,Rhodesia
+385,554,1906,0,1,,Norway,Rhodesia
+385,554,1907,0,1,,Norway,Rhodesia
+385,554,1908,0,1,,Norway,Rhodesia
+385,554,1909,0,1,,Norway,Rhodesia
+385,554,1911,0,1,,Norway,Rhodesia
+385,554,1912,0,1,,Norway,Rhodesia
+385,554,1913,0,1,,Norway,Rhodesia
+385,554,1914,0,1,,Norway,Rhodesia
+385,554,1915,0,1,,Norway,Rhodesia
+385,554,1916,0,1,,Norway,Rhodesia
+385,554,1917,0,1,,Norway,Rhodesia
+385,554,1918,0,1,,Norway,Rhodesia
+385,554,1919,0,1,,Norway,Rhodesia
+385,554,1920,0,1,,Norway,Rhodesia
+385,554,1921,0,1,,Norway,Rhodesia
+385,554,1922,0,1,,Norway,Rhodesia
+385,554,1923,0,1,,Norway,Rhodesia
+385,554,1924,0,1,,Norway,Rhodesia
+385,554,1925,0,1,,Norway,Rhodesia
+385,554,1926,0,1,,Norway,Rhodesia
+385,554,1927,0,1,,Norway,Rhodesia
+385,554,1928,0,1,,Norway,Rhodesia
+385,554,1929,0,1,,Norway,Rhodesia
+385,554,1930,0,1,,Norway,Rhodesia
+385,554,1931,0,1,,Norway,Rhodesia
+385,554,1932,0,1000,,Norway,Rhodesia
+385,554,1933,0,1000,,Norway,Rhodesia
+385,554,1934,0,1000,,Norway,Rhodesia
+385,554,1935,0,1000,,Norway,Rhodesia
+385,554,1936,2298,1000,,Norway,Rhodesia
+385,554,1937,1616,1000,,Norway,Rhodesia
+385,554,1938,2559,1000,,Norway,Rhodesia
+385,554,1939,410,1000,,Norway,Rhodesia
+385,554,1940,0,1000,,Norway,Rhodesia
+385,554,1941,5,1000,,Norway,Rhodesia
+385,554,1942,0,1000,,Norway,Rhodesia
+385,554,1943,0,1000,,Norway,Rhodesia
+385,554,1944,0,1000,,Norway,Rhodesia
+385,554,1945,2645,1000,,Norway,Rhodesia
+385,554,1946,1349,1000,,Norway,Rhodesia
+385,554,1947,958,1000,,Norway,Rhodesia
+385,554,1948,2313,1000,,Norway,Rhodesia
+385,554,1949,2115,1000,,Norway,Rhodesia
+385,560,1904,0,1,,Norway,South Africa
+385,560,1905,0,1,,Norway,South Africa
+385,560,1906,0,1,,Norway,South Africa
+385,560,1907,0,1,,Norway,South Africa
+385,560,1908,0,1,,Norway,South Africa
+385,560,1909,0,1,,Norway,South Africa
+385,560,1911,0,1,,Norway,South Africa
+385,560,1912,0,1,,Norway,South Africa
+385,560,1913,0,1,,Norway,South Africa
+385,560,1914,0,1,,Norway,South Africa
+385,560,1915,0,1,,Norway,South Africa
+385,560,1916,0,1,,Norway,South Africa
+385,560,1917,0,1,,Norway,South Africa
+385,560,1918,0,1,,Norway,South Africa
+385,560,1919,0,1,,Norway,South Africa
+385,560,1920,0,1,,Norway,South Africa
+385,560,1921,0,1,,Norway,South Africa
+385,560,1922,0,1,,Norway,South Africa
+385,560,1923,0,1,,Norway,South Africa
+385,560,1924,0,1,,Norway,South Africa
+385,560,1925,0,1,,Norway,South Africa
+385,560,1926,0,1,,Norway,South Africa
+385,560,1927,0,1,,Norway,South Africa
+385,560,1928,0,1,,Norway,South Africa
+385,560,1929,0,1,,Norway,South Africa
+385,560,1930,0,1,,Norway,South Africa
+385,560,1931,0,1,,Norway,South Africa
+385,560,1932,298,1000,,Norway,South Africa
+385,560,1933,242,1000,,Norway,South Africa
+385,560,1934,139,1000,,Norway,South Africa
+385,560,1935,629,1000,,Norway,South Africa
+385,560,1936,981,1000,,Norway,South Africa
+385,560,1937,1274,1000,,Norway,South Africa
+385,560,1938,1474,1000,,Norway,South Africa
+385,560,1939,7153,1000,,Norway,South Africa
+385,560,1940,3497,1000,,Norway,South Africa
+385,560,1941,3,1000,,Norway,South Africa
+385,560,1942,0,1000,,Norway,South Africa
+385,560,1943,0,1000,,Norway,South Africa
+385,560,1944,0,1000,,Norway,South Africa
+385,560,1945,434,1000,,Norway,South Africa
+385,560,1946,7166,1000,,Norway,South Africa
+385,560,1947,8935,1000,,Norway,South Africa
+385,560,1948,24681,1000,,Norway,South Africa
+385,560,1949,10611,1000,,Norway,South Africa
+385,573,1904,0,1,,Norway,British South Africa
+385,573,1905,0,1,,Norway,British South Africa
+385,573,1906,0,1,,Norway,British South Africa
+385,573,1907,0,1,,Norway,British South Africa
+385,573,1908,0,1,,Norway,British South Africa
+385,573,1909,31500,1,,Norway,British South Africa
+385,573,1911,9600,1,,Norway,British South Africa
+385,573,1912,27800,1,,Norway,British South Africa
+385,573,1913,110800,1,,Norway,British South Africa
+385,573,1914,100000,1,,Norway,British South Africa
+385,573,1915,241500,1,,Norway,British South Africa
+385,573,1916,727500,1,,Norway,British South Africa
+385,573,1917,626100,1,,Norway,British South Africa
+385,573,1918,3100,1,,Norway,British South Africa
+385,573,1919,915600,1,,Norway,British South Africa
+385,573,1920,80900,1,,Norway,British South Africa
+385,573,1921,921700,1,,Norway,British South Africa
+385,573,1922,104600,1,,Norway,British South Africa
+385,573,1923,41500,1,,Norway,British South Africa
+385,573,1924,300,1,,Norway,British South Africa
+385,573,1925,1490100,1,,Norway,British South Africa
+385,573,1926,349800,1,,Norway,British South Africa
+385,573,1927,114800,1,,Norway,British South Africa
+385,573,1928,556200,1,,Norway,British South Africa
+385,573,1929,254000,1,,Norway,British South Africa
+385,573,1930,535100,1,,Norway,British South Africa
+385,573,1931,59100,1,,Norway,British South Africa
+385,573,1932,0,1000,,Norway,British South Africa
+385,573,1933,0,1000,,Norway,British South Africa
+385,573,1934,0,1000,,Norway,British South Africa
+385,573,1935,0,1000,,Norway,British South Africa
+385,573,1936,0,1000,,Norway,British South Africa
+385,573,1937,0,1000,,Norway,British South Africa
+385,573,1938,0,1000,,Norway,British South Africa
+385,573,1939,0,1000,,Norway,British South Africa
+385,573,1940,0,1000,,Norway,British South Africa
+385,573,1941,0,1000,,Norway,British South Africa
+385,573,1942,0,1000,,Norway,British South Africa
+385,573,1943,0,1000,,Norway,British South Africa
+385,573,1944,0,1000,,Norway,British South Africa
+385,573,1945,0,1000,,Norway,British South Africa
+385,573,1946,0,1000,,Norway,British South Africa
+385,573,1947,0,1000,,Norway,British South Africa
+385,573,1948,0,1000,,Norway,British South Africa
+385,573,1949,0,1000,,Norway,British South Africa
+385,580,1904,0,1,,Norway,Madagascar
+385,580,1905,0,1,,Norway,Madagascar
+385,580,1906,0,1,,Norway,Madagascar
+385,580,1907,0,1,,Norway,Madagascar
+385,580,1908,0,1,,Norway,Madagascar
+385,580,1909,0,1,,Norway,Madagascar
+385,580,1911,0,1,,Norway,Madagascar
+385,580,1912,0,1,,Norway,Madagascar
+385,580,1913,0,1,,Norway,Madagascar
+385,580,1914,0,1,,Norway,Madagascar
+385,580,1915,0,1,,Norway,Madagascar
+385,580,1916,0,1,,Norway,Madagascar
+385,580,1917,0,1,,Norway,Madagascar
+385,580,1918,0,1,,Norway,Madagascar
+385,580,1919,0,1,,Norway,Madagascar
+385,580,1920,0,1,,Norway,Madagascar
+385,580,1921,0,1,,Norway,Madagascar
+385,580,1922,0,1,,Norway,Madagascar
+385,580,1923,0,1,,Norway,Madagascar
+385,580,1924,0,1,,Norway,Madagascar
+385,580,1925,0,1,,Norway,Madagascar
+385,580,1926,0,1,,Norway,Madagascar
+385,580,1927,0,1,,Norway,Madagascar
+385,580,1928,0,1,,Norway,Madagascar
+385,580,1929,0,1,,Norway,Madagascar
+385,580,1930,0,1,,Norway,Madagascar
+385,580,1931,0,1,,Norway,Madagascar
+385,580,1932,5,1000,,Norway,Madagascar
+385,580,1933,50,1000,,Norway,Madagascar
+385,580,1934,329,1000,,Norway,Madagascar
+385,580,1935,46,1000,,Norway,Madagascar
+385,580,1936,35,1000,,Norway,Madagascar
+385,580,1937,53,1000,,Norway,Madagascar
+385,580,1938,94,1000,,Norway,Madagascar
+385,580,1939,81,1000,,Norway,Madagascar
+385,580,1940,67,1000,,Norway,Madagascar
+385,580,1941,0,1000,,Norway,Madagascar
+385,580,1942,2,1000,,Norway,Madagascar
+385,580,1943,0,1000,,Norway,Madagascar
+385,580,1944,0,1000,,Norway,Madagascar
+385,580,1945,7,1000,,Norway,Madagascar
+385,580,1946,31,1000,,Norway,Madagascar
+385,580,1947,168,1000,,Norway,Madagascar
+385,580,1948,103,1000,,Norway,Madagascar
+385,580,1949,289,1000,,Norway,Madagascar
+385,600,1904,0,1,,Norway,Morocco
+385,600,1905,0,1,,Norway,Morocco
+385,600,1906,0,1,,Norway,Morocco
+385,600,1907,0,1,,Norway,Morocco
+385,600,1908,0,1,,Norway,Morocco
+385,600,1909,0,1,,Norway,Morocco
+385,600,1911,0,1,,Norway,Morocco
+385,600,1912,0,1,,Norway,Morocco
+385,600,1913,0,1,,Norway,Morocco
+385,600,1914,0,1,,Norway,Morocco
+385,600,1915,0,1,,Norway,Morocco
+385,600,1916,0,1,,Norway,Morocco
+385,600,1917,0,1,,Norway,Morocco
+385,600,1918,0,1,,Norway,Morocco
+385,600,1919,0,1,,Norway,Morocco
+385,600,1920,0,1,,Norway,Morocco
+385,600,1921,0,1,,Norway,Morocco
+385,600,1922,0,1,,Norway,Morocco
+385,600,1923,0,1,,Norway,Morocco
+385,600,1924,0,1,,Norway,Morocco
+385,600,1925,0,1,,Norway,Morocco
+385,600,1926,0,1,,Norway,Morocco
+385,600,1927,0,1,,Norway,Morocco
+385,600,1928,0,1,,Norway,Morocco
+385,600,1929,0,1,,Norway,Morocco
+385,600,1930,0,1,,Norway,Morocco
+385,600,1931,0,1,,Norway,Morocco
+385,600,1932,0,1000,,Norway,Morocco
+385,600,1933,0,1000,,Norway,Morocco
+385,600,1934,0,1000,,Norway,Morocco
+385,600,1935,0,1000,,Norway,Morocco
+385,600,1936,639,1000,,Norway,Morocco
+385,600,1937,1265,1000,,Norway,Morocco
+385,600,1938,1134,1000,,Norway,Morocco
+385,600,1939,1166,1000,,Norway,Morocco
+385,600,1940,894,1000,,Norway,Morocco
+385,600,1941,14,1000,,Norway,Morocco
+385,600,1942,30,1000,,Norway,Morocco
+385,600,1943,53,1000,,Norway,Morocco
+385,600,1944,46,1000,,Norway,Morocco
+385,600,1945,14,1000,,Norway,Morocco
+385,600,1946,951,1000,,Norway,Morocco
+385,600,1947,1695,1000,,Norway,Morocco
+385,600,1948,2591,1000,,Norway,Morocco
+385,600,1949,1840,1000,,Norway,Morocco
+385,601,1904,0,1,,Norway,Tangier
+385,601,1905,0,1,,Norway,Tangier
+385,601,1906,0,1,,Norway,Tangier
+385,601,1907,0,1,,Norway,Tangier
+385,601,1908,0,1,,Norway,Tangier
+385,601,1909,0,1,,Norway,Tangier
+385,601,1911,0,1,,Norway,Tangier
+385,601,1912,0,1,,Norway,Tangier
+385,601,1913,0,1,,Norway,Tangier
+385,601,1914,0,1,,Norway,Tangier
+385,601,1915,0,1,,Norway,Tangier
+385,601,1916,0,1,,Norway,Tangier
+385,601,1917,0,1,,Norway,Tangier
+385,601,1918,0,1,,Norway,Tangier
+385,601,1919,0,1,,Norway,Tangier
+385,601,1920,0,1,,Norway,Tangier
+385,601,1921,0,1,,Norway,Tangier
+385,601,1922,0,1,,Norway,Tangier
+385,601,1923,0,1,,Norway,Tangier
+385,601,1924,0,1,,Norway,Tangier
+385,601,1925,0,1,,Norway,Tangier
+385,601,1926,0,1,,Norway,Tangier
+385,601,1927,0,1,,Norway,Tangier
+385,601,1928,0,1,,Norway,Tangier
+385,601,1929,0,1,,Norway,Tangier
+385,601,1930,0,1,,Norway,Tangier
+385,601,1931,0,1,,Norway,Tangier
+385,601,1932,0,1000,,Norway,Tangier
+385,601,1933,0,1000,,Norway,Tangier
+385,601,1934,0,1000,,Norway,Tangier
+385,601,1935,0,1000,,Norway,Tangier
+385,601,1936,0,1000,,Norway,Tangier
+385,601,1937,0,1000,,Norway,Tangier
+385,601,1938,0,1000,,Norway,Tangier
+385,601,1939,0,1000,,Norway,Tangier
+385,601,1940,0,1000,,Norway,Tangier
+385,601,1941,0,1000,,Norway,Tangier
+385,601,1942,0,1000,,Norway,Tangier
+385,601,1943,0,1000,,Norway,Tangier
+385,601,1944,0,1000,,Norway,Tangier
+385,601,1945,0,1000,,Norway,Tangier
+385,601,1946,0,1000,,Norway,Tangier
+385,601,1947,0,1000,,Norway,Tangier
+385,601,1948,0,1000,,Norway,Tangier
+385,601,1949,0,1000,,Norway,Tangier
+385,615,1904,37900,1,,Norway,Algeria
+385,615,1905,42400,1,,Norway,Algeria
+385,615,1906,87700,1,,Norway,Algeria
+385,615,1907,1400,1,,Norway,Algeria
+385,615,1908,2000,1,,Norway,Algeria
+385,615,1909,29000,1,,Norway,Algeria
+385,615,1911,13500,1,,Norway,Algeria
+385,615,1912,51100,1,,Norway,Algeria
+385,615,1913,65700,1,,Norway,Algeria
+385,615,1914,32700,1,,Norway,Algeria
+385,615,1915,404600,1,,Norway,Algeria
+385,615,1916,519700,1,,Norway,Algeria
+385,615,1917,353400,1,,Norway,Algeria
+385,615,1918,300,1,,Norway,Algeria
+385,615,1919,583400,1,,Norway,Algeria
+385,615,1920,649900,1,,Norway,Algeria
+385,615,1921,666200,1,,Norway,Algeria
+385,615,1922,91600,1,,Norway,Algeria
+385,615,1923,105200,1,,Norway,Algeria
+385,615,1924,209700,1,,Norway,Algeria
+385,615,1925,148400,1,,Norway,Algeria
+385,615,1926,86100,1,,Norway,Algeria
+385,615,1927,122000,1,,Norway,Algeria
+385,615,1928,525000,1,,Norway,Algeria
+385,615,1929,308900,1,,Norway,Algeria
+385,615,1930,368400,1,,Norway,Algeria
+385,615,1931,186100,1,,Norway,Algeria
+385,615,1932,204,1000,,Norway,Algeria
+385,615,1933,148,1000,,Norway,Algeria
+385,615,1934,150,1000,,Norway,Algeria
+385,615,1935,289,1000,,Norway,Algeria
+385,615,1936,300,1000,,Norway,Algeria
+385,615,1937,678,1000,,Norway,Algeria
+385,615,1938,926,1000,,Norway,Algeria
+385,615,1939,917,1000,,Norway,Algeria
+385,615,1940,85,1000,,Norway,Algeria
+385,615,1941,353,1000,,Norway,Algeria
+385,615,1942,41,1000,,Norway,Algeria
+385,615,1943,22,1000,,Norway,Algeria
+385,615,1944,0,1000,,Norway,Algeria
+385,615,1945,0,1000,,Norway,Algeria
+385,615,1946,1135,1000,,Norway,Algeria
+385,615,1947,1365,1000,,Norway,Algeria
+385,615,1948,879,1000,,Norway,Algeria
+385,615,1949,1459,1000,,Norway,Algeria
+385,616,1904,0,1,,Norway,Tunisia
+385,616,1905,0,1,,Norway,Tunisia
+385,616,1906,0,1,,Norway,Tunisia
+385,616,1907,0,1,,Norway,Tunisia
+385,616,1908,0,1,,Norway,Tunisia
+385,616,1909,0,1,,Norway,Tunisia
+385,616,1911,0,1,,Norway,Tunisia
+385,616,1912,0,1,,Norway,Tunisia
+385,616,1913,0,1,,Norway,Tunisia
+385,616,1914,0,1,,Norway,Tunisia
+385,616,1915,0,1,,Norway,Tunisia
+385,616,1916,0,1,,Norway,Tunisia
+385,616,1917,0,1,,Norway,Tunisia
+385,616,1918,0,1,,Norway,Tunisia
+385,616,1919,0,1,,Norway,Tunisia
+385,616,1920,0,1,,Norway,Tunisia
+385,616,1921,0,1,,Norway,Tunisia
+385,616,1922,0,1,,Norway,Tunisia
+385,616,1923,0,1,,Norway,Tunisia
+385,616,1924,0,1,,Norway,Tunisia
+385,616,1925,0,1,,Norway,Tunisia
+385,616,1926,0,1,,Norway,Tunisia
+385,616,1927,0,1,,Norway,Tunisia
+385,616,1928,0,1,,Norway,Tunisia
+385,616,1929,0,1,,Norway,Tunisia
+385,616,1930,0,1,,Norway,Tunisia
+385,616,1931,0,1,,Norway,Tunisia
+385,616,1932,190,1000,,Norway,Tunisia
+385,616,1933,348,1000,,Norway,Tunisia
+385,616,1934,349,1000,,Norway,Tunisia
+385,616,1935,668,1000,,Norway,Tunisia
+385,616,1936,943,1000,,Norway,Tunisia
+385,616,1937,1349,1000,,Norway,Tunisia
+385,616,1938,2495,1000,,Norway,Tunisia
+385,616,1939,1797,1000,,Norway,Tunisia
+385,616,1940,233,1000,,Norway,Tunisia
+385,616,1941,1,1000,,Norway,Tunisia
+385,616,1942,0,1000,,Norway,Tunisia
+385,616,1943,0,1000,,Norway,Tunisia
+385,616,1944,0,1000,,Norway,Tunisia
+385,616,1945,3111,1000,,Norway,Tunisia
+385,616,1946,1023,1000,,Norway,Tunisia
+385,616,1947,2413,1000,,Norway,Tunisia
+385,616,1948,5988,1000,,Norway,Tunisia
+385,616,1949,5311,1000,,Norway,Tunisia
+385,620,1904,0,1,,Norway,Libya
+385,620,1905,0,1,,Norway,Libya
+385,620,1906,0,1,,Norway,Libya
+385,620,1907,0,1,,Norway,Libya
+385,620,1908,0,1,,Norway,Libya
+385,620,1909,0,1,,Norway,Libya
+385,620,1911,0,1,,Norway,Libya
+385,620,1912,0,1,,Norway,Libya
+385,620,1913,0,1,,Norway,Libya
+385,620,1914,0,1,,Norway,Libya
+385,620,1915,0,1,,Norway,Libya
+385,620,1916,0,1,,Norway,Libya
+385,620,1917,0,1,,Norway,Libya
+385,620,1918,0,1,,Norway,Libya
+385,620,1919,0,1,,Norway,Libya
+385,620,1920,0,1,,Norway,Libya
+385,620,1921,0,1,,Norway,Libya
+385,620,1922,0,1,,Norway,Libya
+385,620,1923,0,1,,Norway,Libya
+385,620,1924,0,1,,Norway,Libya
+385,620,1925,0,1,,Norway,Libya
+385,620,1926,0,1,,Norway,Libya
+385,620,1927,0,1,,Norway,Libya
+385,620,1928,0,1,,Norway,Libya
+385,620,1929,0,1,,Norway,Libya
+385,620,1930,0,1,,Norway,Libya
+385,620,1931,0,1,,Norway,Libya
+385,620,1932,3,1000,,Norway,Libya
+385,620,1933,114,1000,,Norway,Libya
+385,620,1934,130,1000,,Norway,Libya
+385,620,1935,153,1000,,Norway,Libya
+385,620,1936,30,1000,,Norway,Libya
+385,620,1937,77,1000,,Norway,Libya
+385,620,1938,6,1000,,Norway,Libya
+385,620,1939,108,1000,,Norway,Libya
+385,620,1940,0,1000,,Norway,Libya
+385,620,1941,0,1000,,Norway,Libya
+385,620,1942,0,1000,,Norway,Libya
+385,620,1943,0,1000,,Norway,Libya
+385,620,1944,0,1000,,Norway,Libya
+385,620,1945,0,1000,,Norway,Libya
+385,620,1946,0,1000,,Norway,Libya
+385,620,1947,0,1000,,Norway,Libya
+385,620,1948,59,1000,,Norway,Libya
+385,620,1949,0,1000,,Norway,Libya
+385,625,1904,0,1,,Norway,Sudan
+385,625,1905,0,1,,Norway,Sudan
+385,625,1906,0,1,,Norway,Sudan
+385,625,1907,0,1,,Norway,Sudan
+385,625,1908,0,1,,Norway,Sudan
+385,625,1909,0,1,,Norway,Sudan
+385,625,1911,0,1,,Norway,Sudan
+385,625,1912,0,1,,Norway,Sudan
+385,625,1913,0,1,,Norway,Sudan
+385,625,1914,0,1,,Norway,Sudan
+385,625,1915,0,1,,Norway,Sudan
+385,625,1916,0,1,,Norway,Sudan
+385,625,1917,0,1,,Norway,Sudan
+385,625,1918,0,1,,Norway,Sudan
+385,625,1919,0,1,,Norway,Sudan
+385,625,1920,0,1,,Norway,Sudan
+385,625,1921,0,1,,Norway,Sudan
+385,625,1922,0,1,,Norway,Sudan
+385,625,1923,0,1,,Norway,Sudan
+385,625,1924,0,1,,Norway,Sudan
+385,625,1925,0,1,,Norway,Sudan
+385,625,1926,0,1,,Norway,Sudan
+385,625,1927,0,1,,Norway,Sudan
+385,625,1928,0,1,,Norway,Sudan
+385,625,1929,0,1,,Norway,Sudan
+385,625,1930,0,1,,Norway,Sudan
+385,625,1931,0,1,,Norway,Sudan
+385,625,1932,0,1000,,Norway,Sudan
+385,625,1933,0,1000,,Norway,Sudan
+385,625,1934,0,1000,,Norway,Sudan
+385,625,1935,0,1000,,Norway,Sudan
+385,625,1936,31,1000,,Norway,Sudan
+385,625,1937,42,1000,,Norway,Sudan
+385,625,1938,74,1000,,Norway,Sudan
+385,625,1939,87,1000,,Norway,Sudan
+385,625,1940,83,1000,,Norway,Sudan
+385,625,1941,0,1000,,Norway,Sudan
+385,625,1942,0,1000,,Norway,Sudan
+385,625,1943,0,1000,,Norway,Sudan
+385,625,1944,0,1000,,Norway,Sudan
+385,625,1945,0,1000,,Norway,Sudan
+385,625,1946,189,1000,,Norway,Sudan
+385,625,1947,213,1000,,Norway,Sudan
+385,625,1948,228,1000,,Norway,Sudan
+385,625,1949,76,1000,,Norway,Sudan
+385,630,1904,0,1,,Norway,Iran
+385,630,1905,0,1,,Norway,Iran
+385,630,1906,0,1,,Norway,Iran
+385,630,1907,0,1,,Norway,Iran
+385,630,1908,0,1,,Norway,Iran
+385,630,1909,0,1,,Norway,Iran
+385,630,1911,0,1,,Norway,Iran
+385,630,1912,0,1,,Norway,Iran
+385,630,1913,0,1,,Norway,Iran
+385,630,1914,0,1,,Norway,Iran
+385,630,1915,0,1,,Norway,Iran
+385,630,1916,0,1,,Norway,Iran
+385,630,1917,0,1,,Norway,Iran
+385,630,1918,0,1,,Norway,Iran
+385,630,1919,0,1,,Norway,Iran
+385,630,1920,0,1,,Norway,Iran
+385,630,1921,0,1,,Norway,Iran
+385,630,1922,0,1,,Norway,Iran
+385,630,1923,0,1,,Norway,Iran
+385,630,1924,0,1,,Norway,Iran
+385,630,1925,0,1,,Norway,Iran
+385,630,1926,0,1,,Norway,Iran
+385,630,1927,0,1,,Norway,Iran
+385,630,1928,0,1,,Norway,Iran
+385,630,1929,1427300,1,,Norway,Iran
+385,630,1930,691800,1,,Norway,Iran
+385,630,1931,300,1,,Norway,Iran
+385,630,1932,1,1000,,Norway,Iran
+385,630,1933,520,1000,,Norway,Iran
+385,630,1934,20,1000,,Norway,Iran
+385,630,1935,9254,1000,,Norway,Iran
+385,630,1936,9931,1000,,Norway,Iran
+385,630,1937,13556,1000,,Norway,Iran
+385,630,1938,12803,1000,,Norway,Iran
+385,630,1939,13034,1000,,Norway,Iran
+385,630,1940,6240,1000,,Norway,Iran
+385,630,1941,7,1000,,Norway,Iran
+385,630,1942,4,1000,,Norway,Iran
+385,630,1943,19,1000,,Norway,Iran
+385,630,1944,0,1000,,Norway,Iran
+385,630,1945,0,1000,,Norway,Iran
+385,630,1946,15740,1000,,Norway,Iran
+385,630,1947,44355,1000,,Norway,Iran
+385,630,1948,75706,1000,,Norway,Iran
+385,630,1949,73238,1000,,Norway,Iran
+385,640,1904,378200,1,,Norway,Turkey
+385,640,1905,53200,1,,Norway,Turkey
+385,640,1906,41300,1,,Norway,Turkey
+385,640,1907,35500,1,,Norway,Turkey
+385,640,1908,127400,1,,Norway,Turkey
+385,640,1909,191100,1,,Norway,Turkey
+385,640,1911,210200,1,,Norway,Turkey
+385,640,1912,486500,1,,Norway,Turkey
+385,640,1913,294900,1,,Norway,Turkey
+385,640,1914,528400,1,,Norway,Turkey
+385,640,1915,144200,1,,Norway,Turkey
+385,640,1916,10900,1,,Norway,Turkey
+385,640,1917,8500,1,,Norway,Turkey
+385,640,1918,100,1,,Norway,Turkey
+385,640,1919,47400,1,,Norway,Turkey
+385,640,1920,276400,1,,Norway,Turkey
+385,640,1921,1437600,1,,Norway,Turkey
+385,640,1922,403200,1,,Norway,Turkey
+385,640,1923,337900,1,,Norway,Turkey
+385,640,1924,21400,1,,Norway,Turkey
+385,640,1925,0,1,,Norway,Turkey
+385,640,1926,0,1,,Norway,Turkey
+385,640,1927,0,1,,Norway,Turkey
+385,640,1928,108900,1,,Norway,Turkey
+385,640,1929,322400,1,,Norway,Turkey
+385,640,1930,174000,1,,Norway,Turkey
+385,640,1931,184300,1,,Norway,Turkey
+385,640,1932,500,1000,,Norway,Turkey
+385,640,1933,658,1000,,Norway,Turkey
+385,640,1934,1049,1000,,Norway,Turkey
+385,640,1935,1608,1000,,Norway,Turkey
+385,640,1936,1642,1000,,Norway,Turkey
+385,640,1937,1556,1000,,Norway,Turkey
+385,640,1938,3052,1000,,Norway,Turkey
+385,640,1939,2693,1000,,Norway,Turkey
+385,640,1940,1577,1000,,Norway,Turkey
+385,640,1941,1260,1000,,Norway,Turkey
+385,640,1942,372,1000,,Norway,Turkey
+385,640,1943,284,1000,,Norway,Turkey
+385,640,1944,269,1000,,Norway,Turkey
+385,640,1945,1419,1000,,Norway,Turkey
+385,640,1946,9197,1000,,Norway,Turkey
+385,640,1947,10068,1000,,Norway,Turkey
+385,640,1948,4608,1000,,Norway,Turkey
+385,640,1949,5772,1000,,Norway,Turkey
+385,641,1904,0,1,,Norway,Turkey in Europe
+385,641,1905,0,1,,Norway,Turkey in Europe
+385,641,1906,0,1,,Norway,Turkey in Europe
+385,641,1907,0,1,,Norway,Turkey in Europe
+385,641,1908,0,1,,Norway,Turkey in Europe
+385,641,1909,0,1,,Norway,Turkey in Europe
+385,641,1911,0,1,,Norway,Turkey in Europe
+385,641,1912,0,1,,Norway,Turkey in Europe
+385,641,1913,0,1,,Norway,Turkey in Europe
+385,641,1914,0,1,,Norway,Turkey in Europe
+385,641,1915,0,1,,Norway,Turkey in Europe
+385,641,1916,0,1,,Norway,Turkey in Europe
+385,641,1917,0,1,,Norway,Turkey in Europe
+385,641,1918,0,1,,Norway,Turkey in Europe
+385,641,1919,0,1,,Norway,Turkey in Europe
+385,641,1920,0,1,,Norway,Turkey in Europe
+385,641,1921,0,1,,Norway,Turkey in Europe
+385,641,1922,0,1,,Norway,Turkey in Europe
+385,641,1923,0,1,,Norway,Turkey in Europe
+385,641,1924,0,1,,Norway,Turkey in Europe
+385,641,1925,17900,1,,Norway,Turkey in Europe
+385,641,1926,71200,1,,Norway,Turkey in Europe
+385,641,1927,78100,1,,Norway,Turkey in Europe
+385,641,1928,0,1,,Norway,Turkey in Europe
+385,641,1929,0,1,,Norway,Turkey in Europe
+385,641,1930,0,1,,Norway,Turkey in Europe
+385,641,1931,0,1,,Norway,Turkey in Europe
+385,641,1932,0,1000,,Norway,Turkey in Europe
+385,641,1933,0,1000,,Norway,Turkey in Europe
+385,641,1934,0,1000,,Norway,Turkey in Europe
+385,641,1935,0,1000,,Norway,Turkey in Europe
+385,641,1936,0,1000,,Norway,Turkey in Europe
+385,641,1937,0,1000,,Norway,Turkey in Europe
+385,641,1938,0,1000,,Norway,Turkey in Europe
+385,641,1939,0,1000,,Norway,Turkey in Europe
+385,641,1940,0,1000,,Norway,Turkey in Europe
+385,641,1941,0,1000,,Norway,Turkey in Europe
+385,641,1942,0,1000,,Norway,Turkey in Europe
+385,641,1943,0,1000,,Norway,Turkey in Europe
+385,641,1944,0,1000,,Norway,Turkey in Europe
+385,641,1945,0,1000,,Norway,Turkey in Europe
+385,641,1946,0,1000,,Norway,Turkey in Europe
+385,641,1947,0,1000,,Norway,Turkey in Europe
+385,641,1948,0,1000,,Norway,Turkey in Europe
+385,641,1949,0,1000,,Norway,Turkey in Europe
+385,645,1904,0,1,,Norway,Iraq
+385,645,1905,0,1,,Norway,Iraq
+385,645,1906,0,1,,Norway,Iraq
+385,645,1907,0,1,,Norway,Iraq
+385,645,1908,0,1,,Norway,Iraq
+385,645,1909,0,1,,Norway,Iraq
+385,645,1911,0,1,,Norway,Iraq
+385,645,1912,0,1,,Norway,Iraq
+385,645,1913,0,1,,Norway,Iraq
+385,645,1914,0,1,,Norway,Iraq
+385,645,1915,0,1,,Norway,Iraq
+385,645,1916,0,1,,Norway,Iraq
+385,645,1917,0,1,,Norway,Iraq
+385,645,1918,0,1,,Norway,Iraq
+385,645,1919,0,1,,Norway,Iraq
+385,645,1920,0,1,,Norway,Iraq
+385,645,1921,0,1,,Norway,Iraq
+385,645,1922,0,1,,Norway,Iraq
+385,645,1923,0,1,,Norway,Iraq
+385,645,1924,0,1,,Norway,Iraq
+385,645,1925,0,1,,Norway,Iraq
+385,645,1926,0,1,,Norway,Iraq
+385,645,1927,0,1,,Norway,Iraq
+385,645,1928,0,1,,Norway,Iraq
+385,645,1929,0,1,,Norway,Iraq
+385,645,1930,0,1,,Norway,Iraq
+385,645,1931,0,1,,Norway,Iraq
+385,645,1932,0,1000,,Norway,Iraq
+385,645,1933,0,1000,,Norway,Iraq
+385,645,1934,0,1000,,Norway,Iraq
+385,645,1935,0,1000,,Norway,Iraq
+385,645,1936,53,1000,,Norway,Iraq
+385,645,1937,31,1000,,Norway,Iraq
+385,645,1938,33,1000,,Norway,Iraq
+385,645,1939,17,1000,,Norway,Iraq
+385,645,1940,14,1000,,Norway,Iraq
+385,645,1941,0,1000,,Norway,Iraq
+385,645,1942,0,1000,,Norway,Iraq
+385,645,1943,0,1000,,Norway,Iraq
+385,645,1944,0,1000,,Norway,Iraq
+385,645,1945,0,1000,,Norway,Iraq
+385,645,1946,96,1000,,Norway,Iraq
+385,645,1947,156,1000,,Norway,Iraq
+385,645,1948,429,1000,,Norway,Iraq
+385,645,1949,90,1000,,Norway,Iraq
+385,651,1904,67500,1,,Norway,Egypt
+385,651,1905,37700,1,,Norway,Egypt
+385,651,1906,114500,1,,Norway,Egypt
+385,651,1907,9600,1,,Norway,Egypt
+385,651,1908,8500,1,,Norway,Egypt
+385,651,1909,58900,1,,Norway,Egypt
+385,651,1911,93300,1,,Norway,Egypt
+385,651,1912,180200,1,,Norway,Egypt
+385,651,1913,151400,1,,Norway,Egypt
+385,651,1914,241600,1,,Norway,Egypt
+385,651,1915,243000,1,,Norway,Egypt
+385,651,1916,295900,1,,Norway,Egypt
+385,651,1917,235900,1,,Norway,Egypt
+385,651,1918,15700,1,,Norway,Egypt
+385,651,1919,634000,1,,Norway,Egypt
+385,651,1920,259400,1,,Norway,Egypt
+385,651,1921,98200,1,,Norway,Egypt
+385,651,1922,169600,1,,Norway,Egypt
+385,651,1923,40230,1,,Norway,Egypt
+385,651,1924,26600,1,,Norway,Egypt
+385,651,1925,91700,1,,Norway,Egypt
+385,651,1926,7200,1,,Norway,Egypt
+385,651,1927,23100,1,,Norway,Egypt
+385,651,1928,36300,1,,Norway,Egypt
+385,651,1929,110900,1,,Norway,Egypt
+385,651,1930,45800,1,,Norway,Egypt
+385,651,1931,740800,1,,Norway,Egypt
+385,651,1932,152,1000,,Norway,Egypt
+385,651,1933,254,1000,,Norway,Egypt
+385,651,1934,678,1000,,Norway,Egypt
+385,651,1935,580,1000,,Norway,Egypt
+385,651,1936,657,1000,,Norway,Egypt
+385,651,1937,1233,1000,,Norway,Egypt
+385,651,1938,602,1000,,Norway,Egypt
+385,651,1939,764,1000,,Norway,Egypt
+385,651,1940,425,1000,,Norway,Egypt
+385,651,1941,1,1000,,Norway,Egypt
+385,651,1942,0,1000,,Norway,Egypt
+385,651,1943,0,1000,,Norway,Egypt
+385,651,1944,0,1000,,Norway,Egypt
+385,651,1945,0,1000,,Norway,Egypt
+385,651,1946,5479,1000,,Norway,Egypt
+385,651,1947,2704,1000,,Norway,Egypt
+385,651,1948,1109,1000,,Norway,Egypt
+385,651,1949,918,1000,,Norway,Egypt
+385,652,1904,0,1,,Norway,Syria
+385,652,1905,0,1,,Norway,Syria
+385,652,1906,0,1,,Norway,Syria
+385,652,1907,0,1,,Norway,Syria
+385,652,1908,0,1,,Norway,Syria
+385,652,1909,0,1,,Norway,Syria
+385,652,1911,0,1,,Norway,Syria
+385,652,1912,0,1,,Norway,Syria
+385,652,1913,0,1,,Norway,Syria
+385,652,1914,0,1,,Norway,Syria
+385,652,1915,0,1,,Norway,Syria
+385,652,1916,0,1,,Norway,Syria
+385,652,1917,0,1,,Norway,Syria
+385,652,1918,0,1,,Norway,Syria
+385,652,1919,0,1,,Norway,Syria
+385,652,1920,0,1,,Norway,Syria
+385,652,1921,0,1,,Norway,Syria
+385,652,1922,0,1,,Norway,Syria
+385,652,1923,0,1,,Norway,Syria
+385,652,1924,0,1,,Norway,Syria
+385,652,1925,0,1,,Norway,Syria
+385,652,1926,0,1,,Norway,Syria
+385,652,1927,0,1,,Norway,Syria
+385,652,1928,0,1,,Norway,Syria
+385,652,1929,0,1,,Norway,Syria
+385,652,1930,0,1,,Norway,Syria
+385,652,1931,0,1,,Norway,Syria
+385,652,1932,23,1000,,Norway,Syria
+385,652,1933,25,1000,,Norway,Syria
+385,652,1934,2,1000,,Norway,Syria
+385,652,1935,39,1000,,Norway,Syria
+385,652,1936,114,1000,,Norway,Syria
+385,652,1937,67,1000,,Norway,Syria
+385,652,1938,37,1000,,Norway,Syria
+385,652,1939,59,1000,,Norway,Syria
+385,652,1940,14,1000,,Norway,Syria
+385,652,1941,4,1000,,Norway,Syria
+385,652,1942,0,1000,,Norway,Syria
+385,652,1943,0,1000,,Norway,Syria
+385,652,1944,0,1000,,Norway,Syria
+385,652,1945,62,1000,,Norway,Syria
+385,652,1946,309,1000,,Norway,Syria
+385,652,1947,212,1000,,Norway,Syria
+385,652,1948,86,1000,,Norway,Syria
+385,652,1949,83,1000,,Norway,Syria
+385,660,1904,0,1,,Norway,Lebanon
+385,660,1905,0,1,,Norway,Lebanon
+385,660,1906,0,1,,Norway,Lebanon
+385,660,1907,0,1,,Norway,Lebanon
+385,660,1908,0,1,,Norway,Lebanon
+385,660,1909,0,1,,Norway,Lebanon
+385,660,1911,0,1,,Norway,Lebanon
+385,660,1912,0,1,,Norway,Lebanon
+385,660,1913,0,1,,Norway,Lebanon
+385,660,1914,0,1,,Norway,Lebanon
+385,660,1915,0,1,,Norway,Lebanon
+385,660,1916,0,1,,Norway,Lebanon
+385,660,1917,0,1,,Norway,Lebanon
+385,660,1918,0,1,,Norway,Lebanon
+385,660,1919,0,1,,Norway,Lebanon
+385,660,1920,0,1,,Norway,Lebanon
+385,660,1921,0,1,,Norway,Lebanon
+385,660,1922,0,1,,Norway,Lebanon
+385,660,1923,0,1,,Norway,Lebanon
+385,660,1924,0,1,,Norway,Lebanon
+385,660,1925,0,1,,Norway,Lebanon
+385,660,1926,0,1,,Norway,Lebanon
+385,660,1927,0,1,,Norway,Lebanon
+385,660,1928,0,1,,Norway,Lebanon
+385,660,1929,0,1,,Norway,Lebanon
+385,660,1930,0,1,,Norway,Lebanon
+385,660,1931,0,1,,Norway,Lebanon
+385,660,1932,0,1000,,Norway,Lebanon
+385,660,1933,0,1000,,Norway,Lebanon
+385,660,1934,0,1000,,Norway,Lebanon
+385,660,1935,0,1000,,Norway,Lebanon
+385,660,1936,0,1000,,Norway,Lebanon
+385,660,1937,0,1000,,Norway,Lebanon
+385,660,1938,0,1000,,Norway,Lebanon
+385,660,1939,0,1000,,Norway,Lebanon
+385,660,1940,0,1000,,Norway,Lebanon
+385,660,1941,0,1000,,Norway,Lebanon
+385,660,1942,0,1000,,Norway,Lebanon
+385,660,1943,0,1000,,Norway,Lebanon
+385,660,1944,0,1000,,Norway,Lebanon
+385,660,1945,0,1000,,Norway,Lebanon
+385,660,1946,0,1000,,Norway,Lebanon
+385,660,1947,0,1000,,Norway,Lebanon
+385,660,1948,26,1000,,Norway,Lebanon
+385,660,1949,5,1000,,Norway,Lebanon
+385,663,1904,0,1,,Norway,Jordan
+385,663,1905,0,1,,Norway,Jordan
+385,663,1906,0,1,,Norway,Jordan
+385,663,1907,0,1,,Norway,Jordan
+385,663,1908,0,1,,Norway,Jordan
+385,663,1909,0,1,,Norway,Jordan
+385,663,1911,0,1,,Norway,Jordan
+385,663,1912,0,1,,Norway,Jordan
+385,663,1913,0,1,,Norway,Jordan
+385,663,1914,0,1,,Norway,Jordan
+385,663,1915,0,1,,Norway,Jordan
+385,663,1916,0,1,,Norway,Jordan
+385,663,1917,0,1,,Norway,Jordan
+385,663,1918,0,1,,Norway,Jordan
+385,663,1919,0,1,,Norway,Jordan
+385,663,1920,0,1,,Norway,Jordan
+385,663,1921,0,1,,Norway,Jordan
+385,663,1922,0,1,,Norway,Jordan
+385,663,1923,0,1,,Norway,Jordan
+385,663,1924,0,1,,Norway,Jordan
+385,663,1925,0,1,,Norway,Jordan
+385,663,1926,0,1,,Norway,Jordan
+385,663,1927,0,1,,Norway,Jordan
+385,663,1928,0,1,,Norway,Jordan
+385,663,1929,0,1,,Norway,Jordan
+385,663,1930,0,1,,Norway,Jordan
+385,663,1931,0,1,,Norway,Jordan
+385,663,1932,0,1000,,Norway,Jordan
+385,663,1933,0,1000,,Norway,Jordan
+385,663,1934,0,1000,,Norway,Jordan
+385,663,1935,0,1000,,Norway,Jordan
+385,663,1936,0,1000,,Norway,Jordan
+385,663,1937,0,1000,,Norway,Jordan
+385,663,1938,0,1000,,Norway,Jordan
+385,663,1939,0,1000,,Norway,Jordan
+385,663,1940,0,1000,,Norway,Jordan
+385,663,1941,0,1000,,Norway,Jordan
+385,663,1942,0,1000,,Norway,Jordan
+385,663,1943,0,1000,,Norway,Jordan
+385,663,1944,0,1000,,Norway,Jordan
+385,663,1945,0,1000,,Norway,Jordan
+385,663,1946,0,1000,,Norway,Jordan
+385,663,1947,0,1000,,Norway,Jordan
+385,663,1948,0,1000,,Norway,Jordan
+385,663,1949,0,1000,,Norway,Jordan
+385,665,1904,0,1,,Norway,West Bank And Gaza
+385,665,1905,0,1,,Norway,West Bank And Gaza
+385,665,1906,0,1,,Norway,West Bank And Gaza
+385,665,1907,0,1,,Norway,West Bank And Gaza
+385,665,1908,0,1,,Norway,West Bank And Gaza
+385,665,1909,0,1,,Norway,West Bank And Gaza
+385,665,1911,0,1,,Norway,West Bank And Gaza
+385,665,1912,0,1,,Norway,West Bank And Gaza
+385,665,1913,0,1,,Norway,West Bank And Gaza
+385,665,1914,0,1,,Norway,West Bank And Gaza
+385,665,1915,0,1,,Norway,West Bank And Gaza
+385,665,1916,0,1,,Norway,West Bank And Gaza
+385,665,1917,0,1,,Norway,West Bank And Gaza
+385,665,1918,0,1,,Norway,West Bank And Gaza
+385,665,1919,0,1,,Norway,West Bank And Gaza
+385,665,1920,0,1,,Norway,West Bank And Gaza
+385,665,1921,0,1,,Norway,West Bank And Gaza
+385,665,1922,0,1,,Norway,West Bank And Gaza
+385,665,1923,0,1,,Norway,West Bank And Gaza
+385,665,1924,0,1,,Norway,West Bank And Gaza
+385,665,1925,0,1,,Norway,West Bank And Gaza
+385,665,1926,0,1,,Norway,West Bank And Gaza
+385,665,1927,0,1,,Norway,West Bank And Gaza
+385,665,1928,0,1,,Norway,West Bank And Gaza
+385,665,1929,0,1,,Norway,West Bank And Gaza
+385,665,1930,0,1,,Norway,West Bank And Gaza
+385,665,1931,0,1,,Norway,West Bank And Gaza
+385,665,1932,310,1000,,Norway,West Bank And Gaza
+385,665,1933,356,1000,,Norway,West Bank And Gaza
+385,665,1934,701,1000,,Norway,West Bank And Gaza
+385,665,1935,1396,1000,,Norway,West Bank And Gaza
+385,665,1936,1619,1000,,Norway,West Bank And Gaza
+385,665,1937,2617,1000,,Norway,West Bank And Gaza
+385,665,1938,5185,1000,,Norway,West Bank And Gaza
+385,665,1939,4791,1000,,Norway,West Bank And Gaza
+385,665,1940,390,1000,,Norway,West Bank And Gaza
+385,665,1941,0,1000,,Norway,West Bank And Gaza
+385,665,1942,0,1000,,Norway,West Bank And Gaza
+385,665,1943,0,1000,,Norway,West Bank And Gaza
+385,665,1944,0,1000,,Norway,West Bank And Gaza
+385,665,1945,6,1000,,Norway,West Bank And Gaza
+385,665,1946,5739,1000,,Norway,West Bank And Gaza
+385,665,1947,5698,1000,,Norway,West Bank And Gaza
+385,665,1948,188,1000,,Norway,West Bank And Gaza
+385,665,1949,1222,1000,,Norway,West Bank And Gaza
+385,666,1904,0,1,,Norway,Israel
+385,666,1905,0,1,,Norway,Israel
+385,666,1906,0,1,,Norway,Israel
+385,666,1907,0,1,,Norway,Israel
+385,666,1908,0,1,,Norway,Israel
+385,666,1909,0,1,,Norway,Israel
+385,666,1911,0,1,,Norway,Israel
+385,666,1912,0,1,,Norway,Israel
+385,666,1913,0,1,,Norway,Israel
+385,666,1914,0,1,,Norway,Israel
+385,666,1915,0,1,,Norway,Israel
+385,666,1916,0,1,,Norway,Israel
+385,666,1917,0,1,,Norway,Israel
+385,666,1918,0,1,,Norway,Israel
+385,666,1919,0,1,,Norway,Israel
+385,666,1920,0,1,,Norway,Israel
+385,666,1921,0,1,,Norway,Israel
+385,666,1922,0,1,,Norway,Israel
+385,666,1923,0,1,,Norway,Israel
+385,666,1924,0,1,,Norway,Israel
+385,666,1925,0,1,,Norway,Israel
+385,666,1926,0,1,,Norway,Israel
+385,666,1927,0,1,,Norway,Israel
+385,666,1928,0,1,,Norway,Israel
+385,666,1929,0,1,,Norway,Israel
+385,666,1930,0,1,,Norway,Israel
+385,666,1931,0,1,,Norway,Israel
+385,666,1932,0,1000,,Norway,Israel
+385,666,1933,0,1000,,Norway,Israel
+385,666,1934,0,1000,,Norway,Israel
+385,666,1935,0,1000,,Norway,Israel
+385,666,1936,0,1000,,Norway,Israel
+385,666,1937,0,1000,,Norway,Israel
+385,666,1938,0,1000,,Norway,Israel
+385,666,1939,0,1000,,Norway,Israel
+385,666,1940,0,1000,,Norway,Israel
+385,666,1941,0,1000,,Norway,Israel
+385,666,1942,0,1000,,Norway,Israel
+385,666,1943,0,1000,,Norway,Israel
+385,666,1944,0,1000,,Norway,Israel
+385,666,1945,0,1000,,Norway,Israel
+385,666,1946,0,1000,,Norway,Israel
+385,666,1947,0,1000,,Norway,Israel
+385,666,1948,0,1000,,Norway,Israel
+385,666,1949,0,1000,,Norway,Israel
+385,675,1904,0,1,,Norway,Arabia
+385,675,1905,0,1,,Norway,Arabia
+385,675,1906,0,1,,Norway,Arabia
+385,675,1907,0,1,,Norway,Arabia
+385,675,1908,0,1,,Norway,Arabia
+385,675,1909,0,1,,Norway,Arabia
+385,675,1911,0,1,,Norway,Arabia
+385,675,1912,0,1,,Norway,Arabia
+385,675,1913,0,1,,Norway,Arabia
+385,675,1914,0,1,,Norway,Arabia
+385,675,1915,0,1,,Norway,Arabia
+385,675,1916,0,1,,Norway,Arabia
+385,675,1917,0,1,,Norway,Arabia
+385,675,1918,0,1,,Norway,Arabia
+385,675,1919,0,1,,Norway,Arabia
+385,675,1920,0,1,,Norway,Arabia
+385,675,1921,0,1,,Norway,Arabia
+385,675,1922,0,1,,Norway,Arabia
+385,675,1923,0,1,,Norway,Arabia
+385,675,1924,0,1,,Norway,Arabia
+385,675,1925,0,1,,Norway,Arabia
+385,675,1926,0,1,,Norway,Arabia
+385,675,1927,0,1,,Norway,Arabia
+385,675,1928,0,1,,Norway,Arabia
+385,675,1929,0,1,,Norway,Arabia
+385,675,1930,0,1,,Norway,Arabia
+385,675,1931,0,1,,Norway,Arabia
+385,675,1932,0,1000,,Norway,Arabia
+385,675,1933,0,1000,,Norway,Arabia
+385,675,1934,0,1000,,Norway,Arabia
+385,675,1935,0,1000,,Norway,Arabia
+385,675,1936,282,1000,,Norway,Arabia
+385,675,1937,687,1000,,Norway,Arabia
+385,675,1938,913,1000,,Norway,Arabia
+385,675,1939,1216,1000,,Norway,Arabia
+385,675,1940,406,1000,,Norway,Arabia
+385,675,1941,0,1000,,Norway,Arabia
+385,675,1942,0,1000,,Norway,Arabia
+385,675,1943,0,1000,,Norway,Arabia
+385,675,1944,0,1000,,Norway,Arabia
+385,675,1945,0,1000,,Norway,Arabia
+385,675,1946,9,1000,,Norway,Arabia
+385,675,1947,0,1000,,Norway,Arabia
+385,675,1948,8,1000,,Norway,Arabia
+385,675,1949,0,1000,,Norway,Arabia
+385,700,1904,0,1,,Norway,Afghanistan
+385,700,1905,0,1,,Norway,Afghanistan
+385,700,1906,0,1,,Norway,Afghanistan
+385,700,1907,0,1,,Norway,Afghanistan
+385,700,1908,0,1,,Norway,Afghanistan
+385,700,1909,0,1,,Norway,Afghanistan
+385,700,1911,0,1,,Norway,Afghanistan
+385,700,1912,0,1,,Norway,Afghanistan
+385,700,1913,0,1,,Norway,Afghanistan
+385,700,1914,0,1,,Norway,Afghanistan
+385,700,1915,0,1,,Norway,Afghanistan
+385,700,1916,0,1,,Norway,Afghanistan
+385,700,1917,0,1,,Norway,Afghanistan
+385,700,1918,0,1,,Norway,Afghanistan
+385,700,1919,0,1,,Norway,Afghanistan
+385,700,1920,0,1,,Norway,Afghanistan
+385,700,1921,0,1,,Norway,Afghanistan
+385,700,1922,0,1,,Norway,Afghanistan
+385,700,1923,0,1,,Norway,Afghanistan
+385,700,1924,0,1,,Norway,Afghanistan
+385,700,1925,0,1,,Norway,Afghanistan
+385,700,1926,0,1,,Norway,Afghanistan
+385,700,1927,0,1,,Norway,Afghanistan
+385,700,1928,0,1,,Norway,Afghanistan
+385,700,1929,0,1,,Norway,Afghanistan
+385,700,1930,0,1,,Norway,Afghanistan
+385,700,1931,0,1,,Norway,Afghanistan
+385,700,1932,0,1000,,Norway,Afghanistan
+385,700,1933,0,1000,,Norway,Afghanistan
+385,700,1934,0,1000,,Norway,Afghanistan
+385,700,1935,0,1000,,Norway,Afghanistan
+385,700,1936,0,1000,,Norway,Afghanistan
+385,700,1937,7,1000,,Norway,Afghanistan
+385,700,1938,6,1000,,Norway,Afghanistan
+385,700,1939,3,1000,,Norway,Afghanistan
+385,700,1940,0,1000,,Norway,Afghanistan
+385,700,1941,0,1000,,Norway,Afghanistan
+385,700,1942,0,1000,,Norway,Afghanistan
+385,700,1943,0,1000,,Norway,Afghanistan
+385,700,1944,0,1000,,Norway,Afghanistan
+385,700,1945,0,1000,,Norway,Afghanistan
+385,700,1946,0,1000,,Norway,Afghanistan
+385,700,1947,43,1000,,Norway,Afghanistan
+385,700,1948,0,1000,,Norway,Afghanistan
+385,700,1949,0,1000,,Norway,Afghanistan
+385,710,1904,0,1,,Norway,China
+385,710,1905,0,1,,Norway,China
+385,710,1906,0,1,,Norway,China
+385,710,1907,0,1,,Norway,China
+385,710,1908,0,1,,Norway,China
+385,710,1909,15900,1,,Norway,China
+385,710,1911,1010800,1,,Norway,China
+385,710,1912,44700,1,,Norway,China
+385,710,1913,18900,1,,Norway,China
+385,710,1914,34200,1,,Norway,China
+385,710,1915,27100,1,,Norway,China
+385,710,1916,1089000,1,,Norway,China
+385,710,1917,1859700,1,,Norway,China
+385,710,1918,5100,1,,Norway,China
+385,710,1919,12224800,1,,Norway,China
+385,710,1920,13291100,1,,Norway,China
+385,710,1921,13952200,1,,Norway,China
+385,710,1922,98500,1,,Norway,China
+385,710,1923,119660,1,,Norway,China
+385,710,1924,116490,1,,Norway,China
+385,710,1925,307840,1,,Norway,China
+385,710,1926,938700,1,,Norway,China
+385,710,1927,411900,1,,Norway,China
+385,710,1928,454200,1,,Norway,China
+385,710,1929,744600,1,,Norway,China
+385,710,1930,470600,1,,Norway,China
+385,710,1931,1218300,1,,Norway,China
+385,710,1932,1838,1000,,Norway,China
+385,710,1933,2006,1000,,Norway,China
+385,710,1934,1523,1000,,Norway,China
+385,710,1935,5027,1000,,Norway,China
+385,710,1936,2989,1000,,Norway,China
+385,710,1937,3765,1000,,Norway,China
+385,710,1938,6110,1000,,Norway,China
+385,710,1939,2589,1000,,Norway,China
+385,710,1940,1726,1000,,Norway,China
+385,710,1941,70,1000,,Norway,China
+385,710,1942,71,1000,,Norway,China
+385,710,1943,0,1000,,Norway,China
+385,710,1944,0,1000,,Norway,China
+385,710,1945,120,1000,,Norway,China
+385,710,1946,3325,1000,,Norway,China
+385,710,1947,8950,1000,,Norway,China
+385,710,1948,13280,1000,,Norway,China
+385,710,1949,12487,1000,,Norway,China
+385,711,1904,0,1,,Norway,Manchukuo
+385,711,1905,0,1,,Norway,Manchukuo
+385,711,1906,0,1,,Norway,Manchukuo
+385,711,1907,0,1,,Norway,Manchukuo
+385,711,1908,0,1,,Norway,Manchukuo
+385,711,1909,0,1,,Norway,Manchukuo
+385,711,1911,0,1,,Norway,Manchukuo
+385,711,1912,0,1,,Norway,Manchukuo
+385,711,1913,0,1,,Norway,Manchukuo
+385,711,1914,0,1,,Norway,Manchukuo
+385,711,1915,0,1,,Norway,Manchukuo
+385,711,1916,0,1,,Norway,Manchukuo
+385,711,1917,0,1,,Norway,Manchukuo
+385,711,1918,0,1,,Norway,Manchukuo
+385,711,1919,0,1,,Norway,Manchukuo
+385,711,1920,0,1,,Norway,Manchukuo
+385,711,1921,0,1,,Norway,Manchukuo
+385,711,1922,0,1,,Norway,Manchukuo
+385,711,1923,0,1,,Norway,Manchukuo
+385,711,1924,0,1,,Norway,Manchukuo
+385,711,1925,0,1,,Norway,Manchukuo
+385,711,1926,0,1,,Norway,Manchukuo
+385,711,1927,0,1,,Norway,Manchukuo
+385,711,1928,0,1,,Norway,Manchukuo
+385,711,1929,0,1,,Norway,Manchukuo
+385,711,1930,0,1,,Norway,Manchukuo
+385,711,1931,0,1,,Norway,Manchukuo
+385,711,1932,0,1000,,Norway,Manchukuo
+385,711,1933,0,1000,,Norway,Manchukuo
+385,711,1934,0,1000,,Norway,Manchukuo
+385,711,1935,0,1000,,Norway,Manchukuo
+385,711,1936,4159,1000,,Norway,Manchukuo
+385,711,1937,5729,1000,,Norway,Manchukuo
+385,711,1938,4460,1000,,Norway,Manchukuo
+385,711,1939,2974,1000,,Norway,Manchukuo
+385,711,1940,1426,1000,,Norway,Manchukuo
+385,711,1941,0,1000,,Norway,Manchukuo
+385,711,1942,0,1000,,Norway,Manchukuo
+385,711,1943,0,1000,,Norway,Manchukuo
+385,711,1944,0,1000,,Norway,Manchukuo
+385,711,1945,0,1000,,Norway,Manchukuo
+385,711,1946,0,1000,,Norway,Manchukuo
+385,711,1947,0,1000,,Norway,Manchukuo
+385,711,1948,0,1000,,Norway,Manchukuo
+385,711,1949,0,1000,,Norway,Manchukuo
+385,720,1904,0,1,,Norway,Hong Kong
+385,720,1905,0,1,,Norway,Hong Kong
+385,720,1906,0,1,,Norway,Hong Kong
+385,720,1907,0,1,,Norway,Hong Kong
+385,720,1908,0,1,,Norway,Hong Kong
+385,720,1909,0,1,,Norway,Hong Kong
+385,720,1911,0,1,,Norway,Hong Kong
+385,720,1912,0,1,,Norway,Hong Kong
+385,720,1913,0,1,,Norway,Hong Kong
+385,720,1914,0,1,,Norway,Hong Kong
+385,720,1915,0,1,,Norway,Hong Kong
+385,720,1916,0,1,,Norway,Hong Kong
+385,720,1917,0,1,,Norway,Hong Kong
+385,720,1918,0,1,,Norway,Hong Kong
+385,720,1919,0,1,,Norway,Hong Kong
+385,720,1920,0,1,,Norway,Hong Kong
+385,720,1921,0,1,,Norway,Hong Kong
+385,720,1922,0,1,,Norway,Hong Kong
+385,720,1923,0,1,,Norway,Hong Kong
+385,720,1924,0,1,,Norway,Hong Kong
+385,720,1925,0,1,,Norway,Hong Kong
+385,720,1926,0,1,,Norway,Hong Kong
+385,720,1927,0,1,,Norway,Hong Kong
+385,720,1928,0,1,,Norway,Hong Kong
+385,720,1929,0,1,,Norway,Hong Kong
+385,720,1930,0,1,,Norway,Hong Kong
+385,720,1931,0,1,,Norway,Hong Kong
+385,720,1932,0,1000,,Norway,Hong Kong
+385,720,1933,0,1000,,Norway,Hong Kong
+385,720,1934,0,1000,,Norway,Hong Kong
+385,720,1935,0,1000,,Norway,Hong Kong
+385,720,1936,1,1000,,Norway,Hong Kong
+385,720,1937,1,1000,,Norway,Hong Kong
+385,720,1938,2,1000,,Norway,Hong Kong
+385,720,1939,9,1000,,Norway,Hong Kong
+385,720,1940,9,1000,,Norway,Hong Kong
+385,720,1941,0,1000,,Norway,Hong Kong
+385,720,1942,0,1000,,Norway,Hong Kong
+385,720,1943,0,1000,,Norway,Hong Kong
+385,720,1944,0,1000,,Norway,Hong Kong
+385,720,1945,0,1000,,Norway,Hong Kong
+385,720,1946,20,1000,,Norway,Hong Kong
+385,720,1947,33,1000,,Norway,Hong Kong
+385,720,1948,99,1000,,Norway,Hong Kong
+385,720,1949,143,1000,,Norway,Hong Kong
+385,740,1904,0,1,,Norway,Japan
+385,740,1905,2300,1,,Norway,Japan
+385,740,1906,1400,1,,Norway,Japan
+385,740,1907,1300,1,,Norway,Japan
+385,740,1908,2300,1,,Norway,Japan
+385,740,1909,22400,1,,Norway,Japan
+385,740,1911,17400,1,,Norway,Japan
+385,740,1912,21000,1,,Norway,Japan
+385,740,1913,19200,1,,Norway,Japan
+385,740,1914,41400,1,,Norway,Japan
+385,740,1915,21500,1,,Norway,Japan
+385,740,1916,2090800,1,,Norway,Japan
+385,740,1917,28820000,1,,Norway,Japan
+385,740,1918,3200,1,,Norway,Japan
+385,740,1919,15905600,1,,Norway,Japan
+385,740,1920,9559600,1,,Norway,Japan
+385,740,1921,1364000,1,,Norway,Japan
+385,740,1922,10340,1,,Norway,Japan
+385,740,1923,58800,1,,Norway,Japan
+385,740,1924,52620,1,,Norway,Japan
+385,740,1925,180450,1,,Norway,Japan
+385,740,1926,58050,1,,Norway,Japan
+385,740,1927,137400,1,,Norway,Japan
+385,740,1928,1397600,1,,Norway,Japan
+385,740,1929,1578800,1,,Norway,Japan
+385,740,1930,2983400,1,,Norway,Japan
+385,740,1931,1279200,1,,Norway,Japan
+385,740,1932,1190,1000,,Norway,Japan
+385,740,1933,2582,1000,,Norway,Japan
+385,740,1934,4718,1000,,Norway,Japan
+385,740,1935,8474,1000,,Norway,Japan
+385,740,1936,10704,1000,,Norway,Japan
+385,740,1937,15202,1000,,Norway,Japan
+385,740,1938,12663,1000,,Norway,Japan
+385,740,1939,7538,1000,,Norway,Japan
+385,740,1940,4289,1000,,Norway,Japan
+385,740,1941,1802,1000,,Norway,Japan
+385,740,1942,11867,1000,,Norway,Japan
+385,740,1943,10,1000,,Norway,Japan
+385,740,1944,0,1000,,Norway,Japan
+385,740,1945,24,1000,,Norway,Japan
+385,740,1946,5,1000,,Norway,Japan
+385,740,1947,16,1000,,Norway,Japan
+385,740,1948,1793,1000,,Norway,Japan
+385,740,1949,3129,1000,,Norway,Japan
+385,750,1904,0,1,,Norway,India
+385,750,1905,0,1,,Norway,India
+385,750,1906,0,1,,Norway,India
+385,750,1907,0,1,,Norway,India
+385,750,1908,0,1,,Norway,India
+385,750,1909,0,1,,Norway,India
+385,750,1911,0,1,,Norway,India
+385,750,1912,0,1,,Norway,India
+385,750,1913,0,1,,Norway,India
+385,750,1914,0,1,,Norway,India
+385,750,1915,0,1,,Norway,India
+385,750,1916,0,1,,Norway,India
+385,750,1917,0,1,,Norway,India
+385,750,1918,0,1,,Norway,India
+385,750,1919,0,1,,Norway,India
+385,750,1920,0,1,,Norway,India
+385,750,1921,0,1,,Norway,India
+385,750,1922,0,1,,Norway,India
+385,750,1923,0,1,,Norway,India
+385,750,1924,0,1,,Norway,India
+385,750,1925,0,1,,Norway,India
+385,750,1926,0,1,,Norway,India
+385,750,1927,0,1,,Norway,India
+385,750,1928,0,1,,Norway,India
+385,750,1929,0,1,,Norway,India
+385,750,1930,0,1,,Norway,India
+385,750,1931,0,1,,Norway,India
+385,750,1932,4354,1000,,Norway,India
+385,750,1933,6069,1000,,Norway,India
+385,750,1934,5313,1000,,Norway,India
+385,750,1935,9981,1000,,Norway,India
+385,750,1936,10011,1000,,Norway,India
+385,750,1937,0,1000,,Norway,India
+385,750,1938,0,1000,,Norway,India
+385,750,1939,0,1000,,Norway,India
+385,750,1940,0,1000,,Norway,India
+385,750,1941,0,1000,,Norway,India
+385,750,1942,0,1000,,Norway,India
+385,750,1943,0,1000,,Norway,India
+385,750,1944,0,1000,,Norway,India
+385,750,1945,0,1000,,Norway,India
+385,750,1946,0,1000,,Norway,India
+385,750,1947,1930,1000,,Norway,India
+385,750,1948,16965,1000,,Norway,India
+385,750,1949,19965,1000,,Norway,India
+385,770,1904,0,1,,Norway,Pakistan
+385,770,1905,0,1,,Norway,Pakistan
+385,770,1906,0,1,,Norway,Pakistan
+385,770,1907,0,1,,Norway,Pakistan
+385,770,1908,0,1,,Norway,Pakistan
+385,770,1909,0,1,,Norway,Pakistan
+385,770,1911,0,1,,Norway,Pakistan
+385,770,1912,0,1,,Norway,Pakistan
+385,770,1913,0,1,,Norway,Pakistan
+385,770,1914,0,1,,Norway,Pakistan
+385,770,1915,0,1,,Norway,Pakistan
+385,770,1916,0,1,,Norway,Pakistan
+385,770,1917,0,1,,Norway,Pakistan
+385,770,1918,0,1,,Norway,Pakistan
+385,770,1919,0,1,,Norway,Pakistan
+385,770,1920,0,1,,Norway,Pakistan
+385,770,1921,0,1,,Norway,Pakistan
+385,770,1922,0,1,,Norway,Pakistan
+385,770,1923,0,1,,Norway,Pakistan
+385,770,1924,0,1,,Norway,Pakistan
+385,770,1925,0,1,,Norway,Pakistan
+385,770,1926,0,1,,Norway,Pakistan
+385,770,1927,0,1,,Norway,Pakistan
+385,770,1928,0,1,,Norway,Pakistan
+385,770,1929,0,1,,Norway,Pakistan
+385,770,1930,0,1,,Norway,Pakistan
+385,770,1931,0,1,,Norway,Pakistan
+385,770,1932,0,1000,,Norway,Pakistan
+385,770,1933,0,1000,,Norway,Pakistan
+385,770,1934,0,1000,,Norway,Pakistan
+385,770,1935,0,1000,,Norway,Pakistan
+385,770,1936,0,1000,,Norway,Pakistan
+385,770,1937,0,1000,,Norway,Pakistan
+385,770,1938,0,1000,,Norway,Pakistan
+385,770,1939,0,1000,,Norway,Pakistan
+385,770,1940,0,1000,,Norway,Pakistan
+385,770,1941,0,1000,,Norway,Pakistan
+385,770,1942,0,1000,,Norway,Pakistan
+385,770,1943,0,1000,,Norway,Pakistan
+385,770,1944,0,1000,,Norway,Pakistan
+385,770,1945,0,1000,,Norway,Pakistan
+385,770,1946,0,1000,,Norway,Pakistan
+385,770,1947,900,1000,,Norway,Pakistan
+385,770,1948,2091,1000,,Norway,Pakistan
+385,770,1949,1789,1000,,Norway,Pakistan
+385,775,1904,0,1,,Norway,Myanmar
+385,775,1905,0,1,,Norway,Myanmar
+385,775,1906,0,1,,Norway,Myanmar
+385,775,1907,0,1,,Norway,Myanmar
+385,775,1908,0,1,,Norway,Myanmar
+385,775,1909,0,1,,Norway,Myanmar
+385,775,1911,0,1,,Norway,Myanmar
+385,775,1912,0,1,,Norway,Myanmar
+385,775,1913,0,1,,Norway,Myanmar
+385,775,1914,0,1,,Norway,Myanmar
+385,775,1915,0,1,,Norway,Myanmar
+385,775,1916,0,1,,Norway,Myanmar
+385,775,1917,0,1,,Norway,Myanmar
+385,775,1918,0,1,,Norway,Myanmar
+385,775,1919,0,1,,Norway,Myanmar
+385,775,1920,0,1,,Norway,Myanmar
+385,775,1921,0,1,,Norway,Myanmar
+385,775,1922,0,1,,Norway,Myanmar
+385,775,1923,0,1,,Norway,Myanmar
+385,775,1924,0,1,,Norway,Myanmar
+385,775,1925,0,1,,Norway,Myanmar
+385,775,1926,0,1,,Norway,Myanmar
+385,775,1927,0,1,,Norway,Myanmar
+385,775,1928,0,1,,Norway,Myanmar
+385,775,1929,0,1,,Norway,Myanmar
+385,775,1930,0,1,,Norway,Myanmar
+385,775,1931,0,1,,Norway,Myanmar
+385,775,1932,0,1000,,Norway,Myanmar
+385,775,1933,0,1000,,Norway,Myanmar
+385,775,1934,0,1000,,Norway,Myanmar
+385,775,1935,0,1000,,Norway,Myanmar
+385,775,1936,0,1000,,Norway,Myanmar
+385,775,1937,0,1000,,Norway,Myanmar
+385,775,1938,0,1000,,Norway,Myanmar
+385,775,1939,0,1000,,Norway,Myanmar
+385,775,1940,0,1000,,Norway,Myanmar
+385,775,1941,0,1000,,Norway,Myanmar
+385,775,1942,0,1000,,Norway,Myanmar
+385,775,1943,0,1000,,Norway,Myanmar
+385,775,1944,0,1000,,Norway,Myanmar
+385,775,1945,0,1000,,Norway,Myanmar
+385,775,1946,0,1000,,Norway,Myanmar
+385,775,1947,125,1000,,Norway,Myanmar
+385,775,1948,555,1000,,Norway,Myanmar
+385,775,1949,663,1000,,Norway,Myanmar
+385,780,1904,0,1,,Norway,Sri Lanka
+385,780,1905,0,1,,Norway,Sri Lanka
+385,780,1906,0,1,,Norway,Sri Lanka
+385,780,1907,0,1,,Norway,Sri Lanka
+385,780,1908,0,1,,Norway,Sri Lanka
+385,780,1909,0,1,,Norway,Sri Lanka
+385,780,1911,0,1,,Norway,Sri Lanka
+385,780,1912,0,1,,Norway,Sri Lanka
+385,780,1913,0,1,,Norway,Sri Lanka
+385,780,1914,0,1,,Norway,Sri Lanka
+385,780,1915,0,1,,Norway,Sri Lanka
+385,780,1916,0,1,,Norway,Sri Lanka
+385,780,1917,0,1,,Norway,Sri Lanka
+385,780,1918,0,1,,Norway,Sri Lanka
+385,780,1919,0,1,,Norway,Sri Lanka
+385,780,1920,0,1,,Norway,Sri Lanka
+385,780,1921,0,1,,Norway,Sri Lanka
+385,780,1922,0,1,,Norway,Sri Lanka
+385,780,1923,0,1,,Norway,Sri Lanka
+385,780,1924,0,1,,Norway,Sri Lanka
+385,780,1925,0,1,,Norway,Sri Lanka
+385,780,1926,0,1,,Norway,Sri Lanka
+385,780,1927,0,1,,Norway,Sri Lanka
+385,780,1928,0,1,,Norway,Sri Lanka
+385,780,1929,0,1,,Norway,Sri Lanka
+385,780,1930,0,1,,Norway,Sri Lanka
+385,780,1931,0,1,,Norway,Sri Lanka
+385,780,1932,438,1000,,Norway,Sri Lanka
+385,780,1933,379,1000,,Norway,Sri Lanka
+385,780,1934,450,1000,,Norway,Sri Lanka
+385,780,1935,731,1000,,Norway,Sri Lanka
+385,780,1936,589,1000,,Norway,Sri Lanka
+385,780,1937,1065,1000,,Norway,Sri Lanka
+385,780,1938,776,1000,,Norway,Sri Lanka
+385,780,1939,781,1000,,Norway,Sri Lanka
+385,780,1940,561,1000,,Norway,Sri Lanka
+385,780,1941,5,1000,,Norway,Sri Lanka
+385,780,1942,2,1000,,Norway,Sri Lanka
+385,780,1943,0,1000,,Norway,Sri Lanka
+385,780,1944,0,1000,,Norway,Sri Lanka
+385,780,1945,685,1000,,Norway,Sri Lanka
+385,780,1946,2324,1000,,Norway,Sri Lanka
+385,780,1947,1542,1000,,Norway,Sri Lanka
+385,780,1948,3728,1000,,Norway,Sri Lanka
+385,780,1949,4159,1000,,Norway,Sri Lanka
+385,800,1904,0,1,,Norway,Thailand
+385,800,1905,0,1,,Norway,Thailand
+385,800,1906,0,1,,Norway,Thailand
+385,800,1907,0,1,,Norway,Thailand
+385,800,1908,0,1,,Norway,Thailand
+385,800,1909,0,1,,Norway,Thailand
+385,800,1911,200,1,,Norway,Thailand
+385,800,1912,100,1,,Norway,Thailand
+385,800,1913,0,1,,Norway,Thailand
+385,800,1914,24000,1,,Norway,Thailand
+385,800,1915,383900,1,,Norway,Thailand
+385,800,1916,31500,1,,Norway,Thailand
+385,800,1917,0,1,,Norway,Thailand
+385,800,1918,0,1,,Norway,Thailand
+385,800,1919,1950800,1,,Norway,Thailand
+385,800,1920,0,1,,Norway,Thailand
+385,800,1921,348200,1,,Norway,Thailand
+385,800,1922,0,1,,Norway,Thailand
+385,800,1923,267800,1,,Norway,Thailand
+385,800,1924,205500,1,,Norway,Thailand
+385,800,1925,18900,1,,Norway,Thailand
+385,800,1926,13400,1,,Norway,Thailand
+385,800,1927,81100,1,,Norway,Thailand
+385,800,1928,205500,1,,Norway,Thailand
+385,800,1929,142000,1,,Norway,Thailand
+385,800,1930,48700,1,,Norway,Thailand
+385,800,1931,10000,1,,Norway,Thailand
+385,800,1932,31,1000,,Norway,Thailand
+385,800,1933,17,1000,,Norway,Thailand
+385,800,1934,40,1000,,Norway,Thailand
+385,800,1935,232,1000,,Norway,Thailand
+385,800,1936,544,1000,,Norway,Thailand
+385,800,1937,450,1000,,Norway,Thailand
+385,800,1938,330,1000,,Norway,Thailand
+385,800,1939,541,1000,,Norway,Thailand
+385,800,1940,327,1000,,Norway,Thailand
+385,800,1941,0,1000,,Norway,Thailand
+385,800,1942,0,1000,,Norway,Thailand
+385,800,1943,0,1000,,Norway,Thailand
+385,800,1944,0,1000,,Norway,Thailand
+385,800,1945,0,1000,,Norway,Thailand
+385,800,1946,130,1000,,Norway,Thailand
+385,800,1947,1946,1000,,Norway,Thailand
+385,800,1948,1561,1000,,Norway,Thailand
+385,800,1949,5386,1000,,Norway,Thailand
+385,810,1904,0,1,,Norway,French Indo-China
+385,810,1905,0,1,,Norway,French Indo-China
+385,810,1906,0,1,,Norway,French Indo-China
+385,810,1907,0,1,,Norway,French Indo-China
+385,810,1908,0,1,,Norway,French Indo-China
+385,810,1909,0,1,,Norway,French Indo-China
+385,810,1911,0,1,,Norway,French Indo-China
+385,810,1912,0,1,,Norway,French Indo-China
+385,810,1913,0,1,,Norway,French Indo-China
+385,810,1914,0,1,,Norway,French Indo-China
+385,810,1915,0,1,,Norway,French Indo-China
+385,810,1916,0,1,,Norway,French Indo-China
+385,810,1917,0,1,,Norway,French Indo-China
+385,810,1918,0,1,,Norway,French Indo-China
+385,810,1919,0,1,,Norway,French Indo-China
+385,810,1920,0,1,,Norway,French Indo-China
+385,810,1921,0,1,,Norway,French Indo-China
+385,810,1922,0,1,,Norway,French Indo-China
+385,810,1923,0,1,,Norway,French Indo-China
+385,810,1924,0,1,,Norway,French Indo-China
+385,810,1925,0,1,,Norway,French Indo-China
+385,810,1926,0,1,,Norway,French Indo-China
+385,810,1927,0,1,,Norway,French Indo-China
+385,810,1928,0,1,,Norway,French Indo-China
+385,810,1929,0,1,,Norway,French Indo-China
+385,810,1930,0,1,,Norway,French Indo-China
+385,810,1931,0,1,,Norway,French Indo-China
+385,810,1932,0,1000,,Norway,French Indo-China
+385,810,1933,2,1000,,Norway,French Indo-China
+385,810,1934,13,1000,,Norway,French Indo-China
+385,810,1935,31,1000,,Norway,French Indo-China
+385,810,1936,15,1000,,Norway,French Indo-China
+385,810,1937,29,1000,,Norway,French Indo-China
+385,810,1938,131,1000,,Norway,French Indo-China
+385,810,1939,264,1000,,Norway,French Indo-China
+385,810,1940,21,1000,,Norway,French Indo-China
+385,810,1941,0,1000,,Norway,French Indo-China
+385,810,1942,0,1000,,Norway,French Indo-China
+385,810,1943,0,1000,,Norway,French Indo-China
+385,810,1944,0,1000,,Norway,French Indo-China
+385,810,1945,0,1000,,Norway,French Indo-China
+385,810,1946,1,1000,,Norway,French Indo-China
+385,810,1947,5,1000,,Norway,French Indo-China
+385,810,1948,42,1000,,Norway,French Indo-China
+385,810,1949,38,1000,,Norway,French Indo-China
+385,820,1904,0,1,,Norway,Malaysia
+385,820,1905,0,1,,Norway,Malaysia
+385,820,1906,0,1,,Norway,Malaysia
+385,820,1907,0,1,,Norway,Malaysia
+385,820,1908,0,1,,Norway,Malaysia
+385,820,1909,0,1,,Norway,Malaysia
+385,820,1911,0,1,,Norway,Malaysia
+385,820,1912,0,1,,Norway,Malaysia
+385,820,1913,0,1,,Norway,Malaysia
+385,820,1914,0,1,,Norway,Malaysia
+385,820,1915,0,1,,Norway,Malaysia
+385,820,1916,0,1,,Norway,Malaysia
+385,820,1917,0,1,,Norway,Malaysia
+385,820,1918,0,1,,Norway,Malaysia
+385,820,1919,0,1,,Norway,Malaysia
+385,820,1920,0,1,,Norway,Malaysia
+385,820,1921,0,1,,Norway,Malaysia
+385,820,1922,0,1,,Norway,Malaysia
+385,820,1923,0,1,,Norway,Malaysia
+385,820,1924,0,1,,Norway,Malaysia
+385,820,1925,0,1,,Norway,Malaysia
+385,820,1926,0,1,,Norway,Malaysia
+385,820,1927,0,1,,Norway,Malaysia
+385,820,1928,0,1,,Norway,Malaysia
+385,820,1929,0,1,,Norway,Malaysia
+385,820,1930,0,1,,Norway,Malaysia
+385,820,1931,0,1,,Norway,Malaysia
+385,820,1932,1602,1000,,Norway,Malaysia
+385,820,1933,578,1000,,Norway,Malaysia
+385,820,1934,1056,1000,,Norway,Malaysia
+385,820,1935,4037,1000,,Norway,Malaysia
+385,820,1936,994,1000,,Norway,Malaysia
+385,820,1937,670,1000,,Norway,Malaysia
+385,820,1938,1237,1000,,Norway,Malaysia
+385,820,1939,992,1000,,Norway,Malaysia
+385,820,1940,338,1000,,Norway,Malaysia
+385,820,1941,1,1000,,Norway,Malaysia
+385,820,1942,0,1000,,Norway,Malaysia
+385,820,1943,0,1000,,Norway,Malaysia
+385,820,1944,0,1000,,Norway,Malaysia
+385,820,1945,0,1000,,Norway,Malaysia
+385,820,1946,1467,1000,,Norway,Malaysia
+385,820,1947,7800,1000,,Norway,Malaysia
+385,820,1948,8136,1000,,Norway,Malaysia
+385,820,1949,17939,1000,,Norway,Malaysia
+385,840,1904,0,1,,Norway,Philippines
+385,840,1905,0,1,,Norway,Philippines
+385,840,1906,0,1,,Norway,Philippines
+385,840,1907,0,1,,Norway,Philippines
+385,840,1908,0,1,,Norway,Philippines
+385,840,1909,0,1,,Norway,Philippines
+385,840,1911,0,1,,Norway,Philippines
+385,840,1912,0,1,,Norway,Philippines
+385,840,1913,0,1,,Norway,Philippines
+385,840,1914,0,1,,Norway,Philippines
+385,840,1915,0,1,,Norway,Philippines
+385,840,1916,0,1,,Norway,Philippines
+385,840,1917,0,1,,Norway,Philippines
+385,840,1918,0,1,,Norway,Philippines
+385,840,1919,0,1,,Norway,Philippines
+385,840,1920,0,1,,Norway,Philippines
+385,840,1921,0,1,,Norway,Philippines
+385,840,1922,0,1,,Norway,Philippines
+385,840,1923,0,1,,Norway,Philippines
+385,840,1924,0,1,,Norway,Philippines
+385,840,1925,193600,1,,Norway,Philippines
+385,840,1926,5800,1,,Norway,Philippines
+385,840,1927,154200,1,,Norway,Philippines
+385,840,1928,610300,1,,Norway,Philippines
+385,840,1929,945400,1,,Norway,Philippines
+385,840,1930,475700,1,,Norway,Philippines
+385,840,1931,425800,1,,Norway,Philippines
+385,840,1932,61,1000,,Norway,Philippines
+385,840,1933,29,1000,,Norway,Philippines
+385,840,1934,53,1000,,Norway,Philippines
+385,840,1935,830,1000,,Norway,Philippines
+385,840,1936,1110,1000,,Norway,Philippines
+385,840,1937,1607,1000,,Norway,Philippines
+385,840,1938,1241,1000,,Norway,Philippines
+385,840,1939,637,1000,,Norway,Philippines
+385,840,1940,559,1000,,Norway,Philippines
+385,840,1941,1,1000,,Norway,Philippines
+385,840,1942,0,1000,,Norway,Philippines
+385,840,1943,0,1000,,Norway,Philippines
+385,840,1944,0,1000,,Norway,Philippines
+385,840,1945,0,1000,,Norway,Philippines
+385,840,1946,1069,1000,,Norway,Philippines
+385,840,1947,26299,1000,,Norway,Philippines
+385,840,1948,19373,1000,,Norway,Philippines
+385,840,1949,14940,1000,,Norway,Philippines
+385,900,1904,0,1,,Norway,Australia
+385,900,1905,0,1,,Norway,Australia
+385,900,1906,100,1,,Norway,Australia
+385,900,1907,100,1,,Norway,Australia
+385,900,1908,400,1,,Norway,Australia
+385,900,1909,1360700,1,,Norway,Australia
+385,900,1911,600,1,,Norway,Australia
+385,900,1912,114900,1,,Norway,Australia
+385,900,1913,9400,1,,Norway,Australia
+385,900,1914,423700,1,,Norway,Australia
+385,900,1915,395200,1,,Norway,Australia
+385,900,1916,0,1,,Norway,Australia
+385,900,1917,3098300,1,,Norway,Australia
+385,900,1918,15917800,1,,Norway,Australia
+385,900,1919,16660100,1,,Norway,Australia
+385,900,1920,16663500,1,,Norway,Australia
+385,900,1921,8931100,1,,Norway,Australia
+385,900,1922,3152400,1,,Norway,Australia
+385,900,1923,1178100,1,,Norway,Australia
+385,900,1924,2786500,1,,Norway,Australia
+385,900,1925,4400400,1,,Norway,Australia
+385,900,1926,1887100,1,,Norway,Australia
+385,900,1927,38100,1,,Norway,Australia
+385,900,1928,566700,1,,Norway,Australia
+385,900,1929,368000,1,,Norway,Australia
+385,900,1930,353500,1,,Norway,Australia
+385,900,1931,662900,1,,Norway,Australia
+385,900,1932,829,1000,,Norway,Australia
+385,900,1933,315,1000,,Norway,Australia
+385,900,1934,274,1000,,Norway,Australia
+385,900,1935,1240,1000,,Norway,Australia
+385,900,1936,1566,1000,,Norway,Australia
+385,900,1937,2704,1000,,Norway,Australia
+385,900,1938,2255,1000,,Norway,Australia
+385,900,1939,1855,1000,,Norway,Australia
+385,900,1940,479,1000,,Norway,Australia
+385,900,1941,0,1000,,Norway,Australia
+385,900,1942,0,1000,,Norway,Australia
+385,900,1943,0,1000,,Norway,Australia
+385,900,1944,0,1000,,Norway,Australia
+385,900,1945,456,1000,,Norway,Australia
+385,900,1946,10565,1000,,Norway,Australia
+385,900,1947,15370,1000,,Norway,Australia
+385,900,1948,25641,1000,,Norway,Australia
+385,900,1949,17434,1000,,Norway,Australia
+385,920,1904,0,1,,Norway,New Zealand
+385,920,1905,0,1,,Norway,New Zealand
+385,920,1906,0,1,,Norway,New Zealand
+385,920,1907,0,1,,Norway,New Zealand
+385,920,1908,0,1,,Norway,New Zealand
+385,920,1909,0,1,,Norway,New Zealand
+385,920,1911,0,1,,Norway,New Zealand
+385,920,1912,300,1,,Norway,New Zealand
+385,920,1913,0,1,,Norway,New Zealand
+385,920,1914,0,1,,Norway,New Zealand
+385,920,1915,0,1,,Norway,New Zealand
+385,920,1916,100,1,,Norway,New Zealand
+385,920,1917,100,1,,Norway,New Zealand
+385,920,1918,0,1,,Norway,New Zealand
+385,920,1919,0,1,,Norway,New Zealand
+385,920,1920,0,1,,Norway,New Zealand
+385,920,1921,0,1,,Norway,New Zealand
+385,920,1922,0,1,,Norway,New Zealand
+385,920,1923,0,1,,Norway,New Zealand
+385,920,1924,0,1,,Norway,New Zealand
+385,920,1925,0,1,,Norway,New Zealand
+385,920,1926,13300,1,,Norway,New Zealand
+385,920,1927,42600,1,,Norway,New Zealand
+385,920,1928,0,1,,Norway,New Zealand
+385,920,1929,500,1,,Norway,New Zealand
+385,920,1930,100,1,,Norway,New Zealand
+385,920,1931,0,1,,Norway,New Zealand
+385,920,1932,11,1000,,Norway,New Zealand
+385,920,1933,25,1000,,Norway,New Zealand
+385,920,1934,62,1000,,Norway,New Zealand
+385,920,1935,198,1000,,Norway,New Zealand
+385,920,1936,218,1000,,Norway,New Zealand
+385,920,1937,634,1000,,Norway,New Zealand
+385,920,1938,490,1000,,Norway,New Zealand
+385,920,1939,200,1000,,Norway,New Zealand
+385,920,1940,6,1000,,Norway,New Zealand
+385,920,1941,102,1000,,Norway,New Zealand
+385,920,1942,0,1000,,Norway,New Zealand
+385,920,1943,0,1000,,Norway,New Zealand
+385,920,1944,0,1000,,Norway,New Zealand
+385,920,1945,298,1000,,Norway,New Zealand
+385,920,1946,2506,1000,,Norway,New Zealand
+385,920,1947,4868,1000,,Norway,New Zealand
+385,920,1948,7516,1000,,Norway,New Zealand
+385,920,1949,11587,1000,,Norway,New Zealand
+385,1029,1904,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1905,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1906,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1907,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1908,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1909,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1911,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1912,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1913,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1914,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1915,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1916,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1917,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1918,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1919,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1920,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1921,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1922,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1923,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1924,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1925,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1926,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1927,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1928,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1929,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1930,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1931,0,1,,Norway,St. Pierre And Miquelon
+385,1029,1932,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1933,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1934,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1935,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1936,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1937,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1938,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1939,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1940,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1941,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1942,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1943,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1944,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1945,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1946,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1947,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1948,0,1000,,Norway,St. Pierre And Miquelon
+385,1029,1949,0,1000,,Norway,St. Pierre And Miquelon
+385,1163,1904,0,1,,Norway,Falkland Islands
+385,1163,1905,0,1,,Norway,Falkland Islands
+385,1163,1906,0,1,,Norway,Falkland Islands
+385,1163,1907,0,1,,Norway,Falkland Islands
+385,1163,1908,0,1,,Norway,Falkland Islands
+385,1163,1909,0,1,,Norway,Falkland Islands
+385,1163,1911,0,1,,Norway,Falkland Islands
+385,1163,1912,0,1,,Norway,Falkland Islands
+385,1163,1913,0,1,,Norway,Falkland Islands
+385,1163,1914,0,1,,Norway,Falkland Islands
+385,1163,1915,0,1,,Norway,Falkland Islands
+385,1163,1916,0,1,,Norway,Falkland Islands
+385,1163,1917,0,1,,Norway,Falkland Islands
+385,1163,1918,0,1,,Norway,Falkland Islands
+385,1163,1919,0,1,,Norway,Falkland Islands
+385,1163,1920,0,1,,Norway,Falkland Islands
+385,1163,1921,0,1,,Norway,Falkland Islands
+385,1163,1922,0,1,,Norway,Falkland Islands
+385,1163,1923,0,1,,Norway,Falkland Islands
+385,1163,1924,0,1,,Norway,Falkland Islands
+385,1163,1925,0,1,,Norway,Falkland Islands
+385,1163,1926,0,1,,Norway,Falkland Islands
+385,1163,1927,0,1,,Norway,Falkland Islands
+385,1163,1928,0,1,,Norway,Falkland Islands
+385,1163,1929,0,1,,Norway,Falkland Islands
+385,1163,1930,0,1,,Norway,Falkland Islands
+385,1163,1931,0,1,,Norway,Falkland Islands
+385,1163,1932,0,1000,,Norway,Falkland Islands
+385,1163,1933,2,1000,,Norway,Falkland Islands
+385,1163,1934,1,1000,,Norway,Falkland Islands
+385,1163,1935,27,1000,,Norway,Falkland Islands
+385,1163,1936,4,1000,,Norway,Falkland Islands
+385,1163,1937,2,1000,,Norway,Falkland Islands
+385,1163,1938,3,1000,,Norway,Falkland Islands
+385,1163,1939,126,1000,,Norway,Falkland Islands
+385,1163,1940,0,1000,,Norway,Falkland Islands
+385,1163,1941,0,1000,,Norway,Falkland Islands
+385,1163,1942,0,1000,,Norway,Falkland Islands
+385,1163,1943,0,1000,,Norway,Falkland Islands
+385,1163,1944,0,1000,,Norway,Falkland Islands
+385,1163,1945,0,1000,,Norway,Falkland Islands
+385,1163,1946,0,1000,,Norway,Falkland Islands
+385,1163,1947,106,1000,,Norway,Falkland Islands
+385,1163,1948,0,1000,,Norway,Falkland Islands
+385,1163,1949,25,1000,,Norway,Falkland Islands
+385,,1904,368079800,1,,Norway,
+385,,1905,393336900,1,,Norway,
+385,,1906,440400000,1,,Norway,
+385,,1907,493894800,1,,Norway,
+385,,1908,474862300,1,,Norway,
+385,,1909,480844600,1,,Norway,
+385,,1911,627633600,1,,Norway,
+385,,1912,714038700,1,,Norway,
+385,,1913,744954200,1,,Norway,
+385,,1914,730962900,1,,Norway,
+385,,1915,1135169000,1,,Norway,
+385,,1916,1749481000,1,,Norway,
+385,,1917,2119419700,1,,Norway,
+385,,1918,1645619000,1,,Norway,
+385,,1919,3463239200,1,,Norway,
+385,,1920,4169568800,1,,Norway,
+385,,1921,1888839000,1,,Norway,
+385,,1922,1643721090,1,,Norway,
+385,,1923,1680896580,1,,Norway,
+385,,1924,1968491890,1,,Norway,
+385,,1925,1747477110,1,,Norway,
+385,,1926,1361660160,1,,Norway,
+385,,1927,1210532300,1,,Norway,
+385,,1928,1263685100,1,,Norway,
+385,,1929,1338490900,1,,Norway,
+385,,1930,1374861500,1,,Norway,
+385,,1931,1064576700,1,,Norway,
+385,,1932,706274,1000,,Norway,
+385,,1933,684154,1000,,Norway,
+385,,1934,755176,1000,,Norway,
+385,,1935,859213,1000,,Norway,
+385,,1936,951864,1000,,Norway,
+385,,1937,1343626,1000,,Norway,
+385,,1938,1251979,1000,,Norway,
+385,,1939,1427991,1000,,Norway,
+385,,1940,1006989,1000,,Norway,
+385,,1941,1230778,1000,,Norway,
+385,,1942,1038574,1000,,Norway,
+385,,1943,1105783,1000,,Norway,
+385,,1944,827278,1000,,Norway,
+385,,1945,1218777,1000,,Norway,
+385,,1946,2251919,1000,,Norway,
+385,,1947,3951103,1000,,Norway,
+385,,1948,3981545,1000,,Norway,
+385,,1949,4539580,1000,,Norway,

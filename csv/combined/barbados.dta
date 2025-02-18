@@ -1,0 +1,506 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+53,Barbados,2,United States,1925,427438,1,834681
+53,Barbados,2,United States,1926,465917,1,664242
+53,Barbados,2,United States,1927,453710,1,764320
+53,Barbados,2,United States,1928,405094,1,827350
+53,Barbados,2,United States,1929,400289,1,691216
+53,Barbados,2,United States,1930,340908,1,582244
+53,Barbados,2,United States,1932,168217,1,749509
+53,Barbados,5,"Virgin Islands, U.S.",1925,382,1,834681
+53,Barbados,5,"Virgin Islands, U.S.",1926,872,1,664242
+53,Barbados,5,"Virgin Islands, U.S.",1927,419,1,764320
+53,Barbados,5,"Virgin Islands, U.S.",1928,234,1,827350
+53,Barbados,5,"Virgin Islands, U.S.",1929,129,1,691216
+53,Barbados,5,"Virgin Islands, U.S.",1930,162,1,582244
+53,Barbados,5,"Virgin Islands, U.S.",1932,408,1,749509
+53,Barbados,6,Puerto Rico,1925,0,1,834681
+53,Barbados,6,Puerto Rico,1926,0,1,664242
+53,Barbados,6,Puerto Rico,1927,0,1,764320
+53,Barbados,6,Puerto Rico,1928,0,1,827350
+53,Barbados,6,Puerto Rico,1929,0,1,691216
+53,Barbados,6,Puerto Rico,1930,1040,1,582244
+53,Barbados,6,Puerto Rico,1932,0,1,749509
+53,Barbados,20,Canada,1925,479979,1,834681
+53,Barbados,20,Canada,1926,442764,1,664242
+53,Barbados,20,Canada,1927,439350,1,764320
+53,Barbados,20,Canada,1928,485110,1,827350
+53,Barbados,20,Canada,1929,381704,1,691216
+53,Barbados,20,Canada,1930,286583,1,582244
+53,Barbados,20,Canada,1932,248560,1,749509
+53,Barbados,21,Newfoundland,1925,48752,1,834681
+53,Barbados,21,Newfoundland,1926,35666,1,664242
+53,Barbados,21,Newfoundland,1927,51590,1,764320
+53,Barbados,21,Newfoundland,1928,58923,1,827350
+53,Barbados,21,Newfoundland,1929,52517,1,691216
+53,Barbados,21,Newfoundland,1930,48726,1,582244
+53,Barbados,21,Newfoundland,1932,41490,1,749509
+53,Barbados,30,Bermuda,1925,1671,1,834681
+53,Barbados,30,Bermuda,1926,2541,1,664242
+53,Barbados,30,Bermuda,1927,736,1,764320
+53,Barbados,30,Bermuda,1928,965,1,827350
+53,Barbados,30,Bermuda,1929,340,1,691216
+53,Barbados,30,Bermuda,1930,331,1,582244
+53,Barbados,30,Bermuda,1932,258,1,749509
+53,Barbados,31,Bahamas,1925,0,1,834681
+53,Barbados,31,Bahamas,1926,0,1,664242
+53,Barbados,31,Bahamas,1927,0,1,764320
+53,Barbados,31,Bahamas,1928,0,1,827350
+53,Barbados,31,Bahamas,1929,0,1,691216
+53,Barbados,31,Bahamas,1930,0,1,582244
+53,Barbados,31,Bahamas,1932,0,1,749509
+53,Barbados,40,Cuba,1925,3,1,834681
+53,Barbados,40,Cuba,1926,0,1,664242
+53,Barbados,40,Cuba,1927,14,1,764320
+53,Barbados,40,Cuba,1928,0,1,827350
+53,Barbados,40,Cuba,1929,0,1,691216
+53,Barbados,40,Cuba,1930,0,1,582244
+53,Barbados,40,Cuba,1932,88,1,749509
+53,Barbados,42,Dominican Republic,1925,0,1,834681
+53,Barbados,42,Dominican Republic,1926,0,1,664242
+53,Barbados,42,Dominican Republic,1927,0,1,764320
+53,Barbados,42,Dominican Republic,1928,0,1,827350
+53,Barbados,42,Dominican Republic,1929,0,1,691216
+53,Barbados,42,Dominican Republic,1930,0,1,582244
+53,Barbados,42,Dominican Republic,1932,327,1,749509
+53,Barbados,51,Jamaica,1925,1199,1,834681
+53,Barbados,51,Jamaica,1926,1380,1,664242
+53,Barbados,51,Jamaica,1927,2231,1,764320
+53,Barbados,51,Jamaica,1928,2459,1,827350
+53,Barbados,51,Jamaica,1929,4048,1,691216
+53,Barbados,51,Jamaica,1930,1714,1,582244
+53,Barbados,51,Jamaica,1932,518,1,749509
+53,Barbados,52,Trinidad And Tobago,1925,76327,1,834681
+53,Barbados,52,Trinidad And Tobago,1926,88344,1,664242
+53,Barbados,52,Trinidad And Tobago,1927,69652,1,764320
+53,Barbados,52,Trinidad And Tobago,1928,63515,1,827350
+53,Barbados,52,Trinidad And Tobago,1929,53116,1,691216
+53,Barbados,52,Trinidad And Tobago,1930,60591,1,582244
+53,Barbados,52,Trinidad And Tobago,1932,64297,1,749509
+53,Barbados,52,Trinidad And Tobago,1934,840062,,
+53,Barbados,54,Dominica,1925,7259,1,834681
+53,Barbados,54,Dominica,1926,5252,1,664242
+53,Barbados,54,Dominica,1927,6235,1,764320
+53,Barbados,54,Dominica,1928,4110,1,827350
+53,Barbados,54,Dominica,1929,3241,1,691216
+53,Barbados,54,Dominica,1930,1299,1,582244
+53,Barbados,54,Dominica,1932,1308,1,749509
+53,Barbados,55,Grenada,1925,6935,1,834681
+53,Barbados,55,Grenada,1926,5972,1,664242
+53,Barbados,55,Grenada,1927,7652,1,764320
+53,Barbados,55,Grenada,1928,5177,1,827350
+53,Barbados,55,Grenada,1929,5583,1,691216
+53,Barbados,55,Grenada,1930,4487,1,582244
+53,Barbados,55,Grenada,1932,3052,1,749509
+53,Barbados,56,St. Lucia,1925,16103,1,834681
+53,Barbados,56,St. Lucia,1926,17489,1,664242
+53,Barbados,56,St. Lucia,1927,13160,1,764320
+53,Barbados,56,St. Lucia,1928,18847,1,827350
+53,Barbados,56,St. Lucia,1929,16325,1,691216
+53,Barbados,56,St. Lucia,1930,16827,1,582244
+53,Barbados,56,St. Lucia,1932,13148,1,749509
+53,Barbados,57,St. Vincent And The Grenadines,1925,10187,1,834681
+53,Barbados,57,St. Vincent And The Grenadines,1926,13719,1,664242
+53,Barbados,57,St. Vincent And The Grenadines,1927,12988,1,764320
+53,Barbados,57,St. Vincent And The Grenadines,1928,11085,1,827350
+53,Barbados,57,St. Vincent And The Grenadines,1929,10156,1,691216
+53,Barbados,57,St. Vincent And The Grenadines,1930,10046,1,582244
+53,Barbados,57,St. Vincent And The Grenadines,1932,5945,1,749509
+53,Barbados,58,Antigua And Barbuda,1925,1151,1,834681
+53,Barbados,58,Antigua And Barbuda,1926,1020,1,664242
+53,Barbados,58,Antigua And Barbuda,1927,1293,1,764320
+53,Barbados,58,Antigua And Barbuda,1928,534,1,827350
+53,Barbados,58,Antigua And Barbuda,1929,417,1,691216
+53,Barbados,58,Antigua And Barbuda,1930,240,1,582244
+53,Barbados,58,Antigua And Barbuda,1932,1370,1,749509
+53,Barbados,59,Montserrat,1925,4493,1,834681
+53,Barbados,59,Montserrat,1926,4561,1,664242
+53,Barbados,59,Montserrat,1927,5088,1,764320
+53,Barbados,59,Montserrat,1928,2601,1,827350
+53,Barbados,59,Montserrat,1929,4326,1,691216
+53,Barbados,59,Montserrat,1930,3327,1,582244
+53,Barbados,59,Montserrat,1932,1877,1,749509
+53,Barbados,60,St. Kitts And Nevis,1925,2128,1,834681
+53,Barbados,60,St. Kitts And Nevis,1926,2644,1,664242
+53,Barbados,60,St. Kitts And Nevis,1927,4596,1,764320
+53,Barbados,60,St. Kitts And Nevis,1928,3720,1,827350
+53,Barbados,60,St. Kitts And Nevis,1929,5821,1,691216
+53,Barbados,60,St. Kitts And Nevis,1930,7152,1,582244
+53,Barbados,60,St. Kitts And Nevis,1932,5195,1,749509
+53,Barbados,68,Netherlands Antilles,1925,19784,1,834681
+53,Barbados,68,Netherlands Antilles,1926,11618,1,664242
+53,Barbados,68,Netherlands Antilles,1927,9209,1,764320
+53,Barbados,68,Netherlands Antilles,1928,4043,1,827350
+53,Barbados,68,Netherlands Antilles,1929,20406,1,691216
+53,Barbados,68,Netherlands Antilles,1930,11318,1,582244
+53,Barbados,68,Netherlands Antilles,1932,10342,1,749509
+53,Barbados,80,Belize,1925,0,1,834681
+53,Barbados,80,Belize,1926,2,1,664242
+53,Barbados,80,Belize,1927,0,1,764320
+53,Barbados,80,Belize,1928,0,1,827350
+53,Barbados,80,Belize,1929,0,1,691216
+53,Barbados,80,Belize,1930,0,1,582244
+53,Barbados,80,Belize,1932,0,1,749509
+53,Barbados,96,Panama Canal Zone,1925,942,1,834681
+53,Barbados,96,Panama Canal Zone,1926,1168,1,664242
+53,Barbados,96,Panama Canal Zone,1927,479,1,764320
+53,Barbados,96,Panama Canal Zone,1928,1803,1,827350
+53,Barbados,96,Panama Canal Zone,1929,723,1,691216
+53,Barbados,96,Panama Canal Zone,1930,447,1,582244
+53,Barbados,96,Panama Canal Zone,1932,963,1,749509
+53,Barbados,100,Colombia,1925,23687,1,834681
+53,Barbados,100,Colombia,1926,8793,1,664242
+53,Barbados,100,Colombia,1927,17993,1,764320
+53,Barbados,100,Colombia,1928,5381,1,827350
+53,Barbados,100,Colombia,1929,4070,1,691216
+53,Barbados,100,Colombia,1930,3806,1,582244
+53,Barbados,100,Colombia,1932,0,1,749509
+53,Barbados,101,Venezuela,1925,8062,1,834681
+53,Barbados,101,Venezuela,1926,7641,1,664242
+53,Barbados,101,Venezuela,1927,6322,1,764320
+53,Barbados,101,Venezuela,1928,7126,1,827350
+53,Barbados,101,Venezuela,1929,6298,1,691216
+53,Barbados,101,Venezuela,1930,4580,1,582244
+53,Barbados,101,Venezuela,1932,9094,1,749509
+53,Barbados,110,Guyana,1925,100275,1,834681
+53,Barbados,110,Guyana,1926,90851,1,664242
+53,Barbados,110,Guyana,1927,144362,1,764320
+53,Barbados,110,Guyana,1928,161564,1,827350
+53,Barbados,110,Guyana,1929,113394,1,691216
+53,Barbados,110,Guyana,1930,95405,1,582244
+53,Barbados,110,Guyana,1932,101538,1,749509
+53,Barbados,115,Suriname,1925,3498,1,834681
+53,Barbados,115,Suriname,1926,3223,1,664242
+53,Barbados,115,Suriname,1927,4344,1,764320
+53,Barbados,115,Suriname,1928,2571,1,827350
+53,Barbados,115,Suriname,1929,4240,1,691216
+53,Barbados,115,Suriname,1930,3246,1,582244
+53,Barbados,115,Suriname,1932,1392,1,749509
+53,Barbados,120,French Guiana,1925,1656,1,834681
+53,Barbados,120,French Guiana,1926,0,1,664242
+53,Barbados,120,French Guiana,1927,0,1,764320
+53,Barbados,120,French Guiana,1928,0,1,827350
+53,Barbados,120,French Guiana,1929,0,1,691216
+53,Barbados,120,French Guiana,1930,0,1,582244
+53,Barbados,120,French Guiana,1932,0,1,749509
+53,Barbados,130,Ecuador,1925,0,1,834681
+53,Barbados,130,Ecuador,1926,0,1,664242
+53,Barbados,130,Ecuador,1927,0,1,764320
+53,Barbados,130,Ecuador,1928,0,1,827350
+53,Barbados,130,Ecuador,1929,0,1,691216
+53,Barbados,130,Ecuador,1930,0,1,582244
+53,Barbados,130,Ecuador,1932,99,1,749509
+53,Barbados,140,Brazil,1925,10854,1,834681
+53,Barbados,140,Brazil,1926,8826,1,664242
+53,Barbados,140,Brazil,1927,8709,1,764320
+53,Barbados,140,Brazil,1928,7620,1,827350
+53,Barbados,140,Brazil,1929,10378,1,691216
+53,Barbados,140,Brazil,1930,4612,1,582244
+53,Barbados,140,Brazil,1932,81,1,749509
+53,Barbados,155,Chile,1925,0,1,834681
+53,Barbados,155,Chile,1926,0,1,664242
+53,Barbados,155,Chile,1927,0,1,764320
+53,Barbados,155,Chile,1928,0,1,827350
+53,Barbados,155,Chile,1929,0,1,691216
+53,Barbados,155,Chile,1930,0,1,582244
+53,Barbados,155,Chile,1932,250,1,749509
+53,Barbados,160,Argentina,1925,20036,1,834681
+53,Barbados,160,Argentina,1926,21905,1,664242
+53,Barbados,160,Argentina,1927,35310,1,764320
+53,Barbados,160,Argentina,1928,49421,1,827350
+53,Barbados,160,Argentina,1929,33008,1,691216
+53,Barbados,160,Argentina,1930,31788,1,582244
+53,Barbados,160,Argentina,1932,29205,1,749509
+53,Barbados,165,Uruguay,1925,54,1,834681
+53,Barbados,165,Uruguay,1926,45,1,664242
+53,Barbados,165,Uruguay,1927,0,1,764320
+53,Barbados,165,Uruguay,1928,0,1,827350
+53,Barbados,165,Uruguay,1929,68,1,691216
+53,Barbados,165,Uruguay,1930,323,1,582244
+53,Barbados,165,Uruguay,1932,0,1,749509
+53,Barbados,200,United Kingdom,1925,834681,1,834681
+53,Barbados,200,United Kingdom,1926,664242,1,664242
+53,Barbados,200,United Kingdom,1927,764320,1,764320
+53,Barbados,200,United Kingdom,1928,827350,1,827350
+53,Barbados,200,United Kingdom,1929,691216,1,691216
+53,Barbados,200,United Kingdom,1930,582244,1,582244
+53,Barbados,200,United Kingdom,1932,749509,1,749509
+53,Barbados,210,Netherlands,1925,74617,1,834681
+53,Barbados,210,Netherlands,1926,65948,1,664242
+53,Barbados,210,Netherlands,1927,55059,1,764320
+53,Barbados,210,Netherlands,1928,64378,1,827350
+53,Barbados,210,Netherlands,1929,46277,1,691216
+53,Barbados,210,Netherlands,1930,57087,1,582244
+53,Barbados,210,Netherlands,1932,44535,1,749509
+53,Barbados,211,Belgium,1925,466,1,834681
+53,Barbados,211,Belgium,1926,719,1,664242
+53,Barbados,211,Belgium,1927,2687,1,764320
+53,Barbados,211,Belgium,1928,1646,1,827350
+53,Barbados,211,Belgium,1929,2001,1,691216
+53,Barbados,211,Belgium,1930,793,1,582244
+53,Barbados,211,Belgium,1932,1863,1,749509
+53,Barbados,220,France,1925,5365,1,834681
+53,Barbados,220,France,1926,10660,1,664242
+53,Barbados,220,France,1927,11848,1,764320
+53,Barbados,220,France,1928,22169,1,827350
+53,Barbados,220,France,1929,30534,1,691216
+53,Barbados,220,France,1930,28237,1,582244
+53,Barbados,220,France,1932,16830,1,749509
+53,Barbados,225,Switzerland,1925,1225,1,834681
+53,Barbados,225,Switzerland,1926,2727,1,664242
+53,Barbados,225,Switzerland,1927,2573,1,764320
+53,Barbados,225,Switzerland,1928,2675,1,827350
+53,Barbados,225,Switzerland,1929,2044,1,691216
+53,Barbados,225,Switzerland,1930,1307,1,582244
+53,Barbados,225,Switzerland,1932,1042,1,749509
+53,Barbados,230,Spain,1925,4515,1,834681
+53,Barbados,230,Spain,1926,3907,1,664242
+53,Barbados,230,Spain,1927,3336,1,764320
+53,Barbados,230,Spain,1928,1694,1,827350
+53,Barbados,230,Spain,1929,1570,1,691216
+53,Barbados,230,Spain,1930,1141,1,582244
+53,Barbados,230,Spain,1932,1473,1,749509
+53,Barbados,235,Portugal,1925,514,1,834681
+53,Barbados,235,Portugal,1926,347,1,664242
+53,Barbados,235,Portugal,1927,191,1,764320
+53,Barbados,235,Portugal,1928,376,1,827350
+53,Barbados,235,Portugal,1929,922,1,691216
+53,Barbados,235,Portugal,1930,665,1,582244
+53,Barbados,235,Portugal,1932,858,1,749509
+53,Barbados,255,Germany,1925,17821,1,834681
+53,Barbados,255,Germany,1926,20322,1,664242
+53,Barbados,255,Germany,1927,24599,1,764320
+53,Barbados,255,Germany,1928,27592,1,827350
+53,Barbados,255,Germany,1929,24047,1,691216
+53,Barbados,255,Germany,1930,37754,1,582244
+53,Barbados,255,Germany,1932,27181,1,749509
+53,Barbados,290,Poland,1925,0,1,834681
+53,Barbados,290,Poland,1926,0,1,664242
+53,Barbados,290,Poland,1927,0,1,764320
+53,Barbados,290,Poland,1928,0,1,827350
+53,Barbados,290,Poland,1929,0,1,691216
+53,Barbados,290,Poland,1930,0,1,582244
+53,Barbados,290,Poland,1932,141,1,749509
+53,Barbados,305,Austria,1925,37,1,834681
+53,Barbados,305,Austria,1926,647,1,664242
+53,Barbados,305,Austria,1927,266,1,764320
+53,Barbados,305,Austria,1928,183,1,827350
+53,Barbados,305,Austria,1929,0,1,691216
+53,Barbados,305,Austria,1930,0,1,582244
+53,Barbados,305,Austria,1932,220,1,749509
+53,Barbados,315,Czechoslovakia,1925,0,1,834681
+53,Barbados,315,Czechoslovakia,1926,0,1,664242
+53,Barbados,315,Czechoslovakia,1927,0,1,764320
+53,Barbados,315,Czechoslovakia,1928,0,1,827350
+53,Barbados,315,Czechoslovakia,1929,0,1,691216
+53,Barbados,315,Czechoslovakia,1930,0,1,582244
+53,Barbados,315,Czechoslovakia,1932,450,1,749509
+53,Barbados,325,Italy,1925,572,1,834681
+53,Barbados,325,Italy,1926,2625,1,664242
+53,Barbados,325,Italy,1927,1476,1,764320
+53,Barbados,325,Italy,1928,2170,1,827350
+53,Barbados,325,Italy,1929,1479,1,691216
+53,Barbados,325,Italy,1930,1458,1,582244
+53,Barbados,325,Italy,1932,1536,1,749509
+53,Barbados,345,Yugoslavia,1925,0,1,834681
+53,Barbados,345,Yugoslavia,1926,0,1,664242
+53,Barbados,345,Yugoslavia,1927,0,1,764320
+53,Barbados,345,Yugoslavia,1928,0,1,827350
+53,Barbados,345,Yugoslavia,1929,0,1,691216
+53,Barbados,345,Yugoslavia,1930,0,1,582244
+53,Barbados,345,Yugoslavia,1932,14,1,749509
+53,Barbados,350,Greece,1925,19,1,834681
+53,Barbados,350,Greece,1926,94,1,664242
+53,Barbados,350,Greece,1927,223,1,764320
+53,Barbados,350,Greece,1928,477,1,827350
+53,Barbados,350,Greece,1929,374,1,691216
+53,Barbados,350,Greece,1930,249,1,582244
+53,Barbados,350,Greece,1932,659,1,749509
+53,Barbados,365,Russia,1925,0,1,834681
+53,Barbados,365,Russia,1926,0,1,664242
+53,Barbados,365,Russia,1927,92,1,764320
+53,Barbados,365,Russia,1928,0,1,827350
+53,Barbados,365,Russia,1929,0,1,691216
+53,Barbados,365,Russia,1930,0,1,582244
+53,Barbados,365,Russia,1932,32,1,749509
+53,Barbados,367,Latvia,1925,0,1,834681
+53,Barbados,367,Latvia,1926,0,1,664242
+53,Barbados,367,Latvia,1927,0,1,764320
+53,Barbados,367,Latvia,1928,0,1,827350
+53,Barbados,367,Latvia,1929,0,1,691216
+53,Barbados,367,Latvia,1930,0,1,582244
+53,Barbados,367,Latvia,1932,3,1,749509
+53,Barbados,375,Finland,1925,0,1,834681
+53,Barbados,375,Finland,1926,0,1,664242
+53,Barbados,375,Finland,1927,0,1,764320
+53,Barbados,375,Finland,1928,0,1,827350
+53,Barbados,375,Finland,1929,0,1,691216
+53,Barbados,375,Finland,1930,0,1,582244
+53,Barbados,375,Finland,1932,85,1,749509
+53,Barbados,380,Sweden,1925,1333,1,834681
+53,Barbados,380,Sweden,1926,1163,1,664242
+53,Barbados,380,Sweden,1927,2100,1,764320
+53,Barbados,380,Sweden,1928,637,1,827350
+53,Barbados,380,Sweden,1929,2613,1,691216
+53,Barbados,380,Sweden,1930,1271,1,582244
+53,Barbados,380,Sweden,1932,1928,1,749509
+53,Barbados,385,Norway,1925,53,1,834681
+53,Barbados,385,Norway,1926,530,1,664242
+53,Barbados,385,Norway,1927,615,1,764320
+53,Barbados,385,Norway,1928,176,1,827350
+53,Barbados,385,Norway,1929,0,1,691216
+53,Barbados,385,Norway,1930,214,1,582244
+53,Barbados,385,Norway,1932,346,1,749509
+53,Barbados,390,Denmark,1925,840,1,834681
+53,Barbados,390,Denmark,1926,1644,1,664242
+53,Barbados,390,Denmark,1927,1539,1,764320
+53,Barbados,390,Denmark,1928,1362,1,827350
+53,Barbados,390,Denmark,1929,1713,1,691216
+53,Barbados,390,Denmark,1930,1418,1,582244
+53,Barbados,390,Denmark,1932,2051,1,749509
+53,Barbados,401,Madeira,1925,0,1,834681
+53,Barbados,401,Madeira,1926,0,1,664242
+53,Barbados,401,Madeira,1927,0,1,764320
+53,Barbados,401,Madeira,1928,6007,1,827350
+53,Barbados,401,Madeira,1929,4301,1,691216
+53,Barbados,401,Madeira,1930,4030,1,582244
+53,Barbados,401,Madeira,1932,3391,1,749509
+53,Barbados,410,Canary Islands,1925,0,1,834681
+53,Barbados,410,Canary Islands,1926,0,1,664242
+53,Barbados,410,Canary Islands,1927,0,1,764320
+53,Barbados,410,Canary Islands,1928,0,1,827350
+53,Barbados,410,Canary Islands,1929,0,1,691216
+53,Barbados,410,Canary Islands,1930,0,1,582244
+53,Barbados,410,Canary Islands,1932,55,1,749509
+53,Barbados,590,Mauritius,1925,0,1,834681
+53,Barbados,590,Mauritius,1926,0,1,664242
+53,Barbados,590,Mauritius,1927,0,1,764320
+53,Barbados,590,Mauritius,1928,0,1,827350
+53,Barbados,590,Mauritius,1929,0,1,691216
+53,Barbados,590,Mauritius,1930,0,1,582244
+53,Barbados,590,Mauritius,1932,3,1,749509
+53,Barbados,640,Turkey,1925,15,1,834681
+53,Barbados,640,Turkey,1926,0,1,664242
+53,Barbados,640,Turkey,1927,0,1,764320
+53,Barbados,640,Turkey,1928,0,1,827350
+53,Barbados,640,Turkey,1929,0,1,691216
+53,Barbados,640,Turkey,1930,0,1,582244
+53,Barbados,640,Turkey,1932,0,1,749509
+53,Barbados,651,Egypt,1925,0,1,834681
+53,Barbados,651,Egypt,1926,0,1,664242
+53,Barbados,651,Egypt,1927,0,1,764320
+53,Barbados,651,Egypt,1928,0,1,827350
+53,Barbados,651,Egypt,1929,0,1,691216
+53,Barbados,651,Egypt,1930,225,1,582244
+53,Barbados,651,Egypt,1932,0,1,749509
+53,Barbados,710,China,1925,531,1,834681
+53,Barbados,710,China,1926,441,1,664242
+53,Barbados,710,China,1927,224,1,764320
+53,Barbados,710,China,1928,594,1,827350
+53,Barbados,710,China,1929,688,1,691216
+53,Barbados,710,China,1930,555,1,582244
+53,Barbados,710,China,1932,557,1,749509
+53,Barbados,720,Hong Kong,1925,0,1,834681
+53,Barbados,720,Hong Kong,1926,0,1,664242
+53,Barbados,720,Hong Kong,1927,37,1,764320
+53,Barbados,720,Hong Kong,1928,255,1,827350
+53,Barbados,720,Hong Kong,1929,162,1,691216
+53,Barbados,720,Hong Kong,1930,167,1,582244
+53,Barbados,720,Hong Kong,1932,156,1,749509
+53,Barbados,740,Japan,1925,381,1,834681
+53,Barbados,740,Japan,1926,2939,1,664242
+53,Barbados,740,Japan,1927,2848,1,764320
+53,Barbados,740,Japan,1928,4185,1,827350
+53,Barbados,740,Japan,1929,3210,1,691216
+53,Barbados,740,Japan,1930,3310,1,582244
+53,Barbados,740,Japan,1932,20440,1,749509
+53,Barbados,750,India,1925,70810,1,834681
+53,Barbados,750,India,1926,124179,1,664242
+53,Barbados,750,India,1927,99795,1,764320
+53,Barbados,750,India,1928,63855,1,827350
+53,Barbados,750,India,1929,86350,1,691216
+53,Barbados,750,India,1930,55756,1,582244
+53,Barbados,750,India,1932,43243,1,749509
+53,Barbados,780,Sri Lanka,1925,0,1,834681
+53,Barbados,780,Sri Lanka,1926,0,1,664242
+53,Barbados,780,Sri Lanka,1927,1233,1,764320
+53,Barbados,780,Sri Lanka,1928,3452,1,827350
+53,Barbados,780,Sri Lanka,1929,1368,1,691216
+53,Barbados,780,Sri Lanka,1930,2131,1,582244
+53,Barbados,780,Sri Lanka,1932,4834,1,749509
+53,Barbados,800,Thailand,1925,0,1,834681
+53,Barbados,800,Thailand,1926,0,1,664242
+53,Barbados,800,Thailand,1927,0,1,764320
+53,Barbados,800,Thailand,1928,0,1,827350
+53,Barbados,800,Thailand,1929,0,1,691216
+53,Barbados,800,Thailand,1930,54,1,582244
+53,Barbados,800,Thailand,1932,0,1,749509
+53,Barbados,827,Straits Settlement,1925,0,1,834681
+53,Barbados,827,Straits Settlement,1926,225,1,664242
+53,Barbados,827,Straits Settlement,1927,0,1,764320
+53,Barbados,827,Straits Settlement,1928,128,1,827350
+53,Barbados,827,Straits Settlement,1929,394,1,691216
+53,Barbados,827,Straits Settlement,1930,194,1,582244
+53,Barbados,827,Straits Settlement,1932,848,1,749509
+53,Barbados,900,Australia,1925,111,1,834681
+53,Barbados,900,Australia,1926,130,1,664242
+53,Barbados,900,Australia,1927,80,1,764320
+53,Barbados,900,Australia,1928,0,1,827350
+53,Barbados,900,Australia,1929,0,1,691216
+53,Barbados,900,Australia,1930,468,1,582244
+53,Barbados,900,Australia,1932,1366,1,749509
+53,Barbados,920,New Zealand,1925,0,1,834681
+53,Barbados,920,New Zealand,1926,0,1,664242
+53,Barbados,920,New Zealand,1927,0,1,764320
+53,Barbados,920,New Zealand,1928,0,1,827350
+53,Barbados,920,New Zealand,1929,614,1,691216
+53,Barbados,920,New Zealand,1930,1471,1,582244
+53,Barbados,920,New Zealand,1932,1973,1,749509
+53,Barbados,1029,St. Pierre And Miquelon,1925,0,1,834681
+53,Barbados,1029,St. Pierre And Miquelon,1926,0,1,664242
+53,Barbados,1029,St. Pierre And Miquelon,1927,0,1,764320
+53,Barbados,1029,St. Pierre And Miquelon,1928,0,1,827350
+53,Barbados,1029,St. Pierre And Miquelon,1929,0,1,691216
+53,Barbados,1029,St. Pierre And Miquelon,1930,0,1,582244
+53,Barbados,1029,St. Pierre And Miquelon,1932,0,1,749509
+53,Barbados,1050,British West Indies,1925,0,1,834681
+53,Barbados,1050,British West Indies,1926,0,1,664242
+53,Barbados,1050,British West Indies,1927,0,1,764320
+53,Barbados,1050,British West Indies,1928,0,1,827350
+53,Barbados,1050,British West Indies,1929,0,1,691216
+53,Barbados,1050,British West Indies,1930,2485,1,582244
+53,Barbados,1050,British West Indies,1932,4043,1,749509
+53,Barbados,1060,French West Indies,1925,3606,1,834681
+53,Barbados,1060,French West Indies,1926,2236,1,664242
+53,Barbados,1060,French West Indies,1927,3722,1,764320
+53,Barbados,1060,French West Indies,1928,1896,1,827350
+53,Barbados,1060,French West Indies,1929,3765,1,691216
+53,Barbados,1060,French West Indies,1930,2118,1,582244
+53,Barbados,1060,French West Indies,1932,1312,1,749509
+53,Barbados,1062,Anguilla,1925,0,1,834681
+53,Barbados,1062,Anguilla,1926,0,1,664242
+53,Barbados,1062,Anguilla,1927,0,1,764320
+53,Barbados,1062,Anguilla,1928,370,1,827350
+53,Barbados,1062,Anguilla,1929,0,1,691216
+53,Barbados,1062,Anguilla,1930,1001,1,582244
+53,Barbados,1062,Anguilla,1932,260,1,749509
+53,Barbados,8501,Java,1925,0,1,834681
+53,Barbados,8501,Java,1926,0,1,664242
+53,Barbados,8501,Java,1927,186,1,764320
+53,Barbados,8501,Java,1928,0,1,827350
+53,Barbados,8501,Java,1929,0,1,691216
+53,Barbados,8501,Java,1930,0,1,582244
+53,Barbados,8501,Java,1932,0,1,749509
+53,Barbados,8502,Sumatra,1925,0,1,834681
+53,Barbados,8502,Sumatra,1926,0,1,664242
+53,Barbados,8502,Sumatra,1927,0,1,764320
+53,Barbados,8502,Sumatra,1928,0,1,827350
+53,Barbados,8502,Sumatra,1929,0,1,691216
+53,Barbados,8502,Sumatra,1930,0,1,582244
+53,Barbados,8502,Sumatra,1932,17,1,749509
+53,Barbados,,,1925,2297113,1,834681
+53,Barbados,,,1926,2158378,1,664242
+53,Barbados,,,1927,2281977,1,764320
+53,Barbados,,,1928,2339978,1,827350
+53,Barbados,,,1929,2041369,1,691216
+53,Barbados,,,1930,1726811,1,582244
+53,Barbados,,,1932,1643200,1,749509

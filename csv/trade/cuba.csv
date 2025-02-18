@@ -1,0 +1,4325 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+40,2,1912,65416475,,,Cuba,United States
+40,2,1914,69304589,,,Cuba,United States
+40,2,1915,104723108,,,Cuba,United States
+40,2,1916,185337194,,,Cuba,United States
+40,2,1919,273202065,1,,Cuba,United States
+40,2,1920,405724040,1,,Cuba,United States
+40,2,1921,266136523,1,,Cuba,United States
+40,2,1922,120713766,1,,Cuba,United States
+40,2,1923,181717272,1,,Cuba,United States
+40,2,1924,192113060,1,,Cuba,United States
+40,2,1925,187223844,1,Pesos Moneda Eua,Cuba,United States
+40,2,1926,160051621,1,Pesos Moneda Eua,Cuba,United States
+40,2,1927,149597681,1,Pesos Moneda Nacional,Cuba,United States
+40,2,1928,122482278,1,Pesos Moneda Nacional,Cuba,United States
+40,2,1929,121144815,1,Pesos Moneda Nacional,Cuba,United States
+40,2,1930,91872214,1,$,Cuba,United States
+40,2,1931,45939647,1,,Cuba,United States
+40,2,1932,27653060,1,,Cuba,United States
+40,2,1933,22674245,1,,Cuba,United States
+40,2,1934,41225012,1,,Cuba,United States
+40,2,1935,55686078,1,,Cuba,United States
+40,2,1936,66494245,1,,Cuba,United States
+40,2,1937,86946267,1,Pesos $,Cuba,United States
+40,2,1938,74082921,1,Pesos $,Cuba,United States
+40,2,1939,77601267,1,Pesos $,Cuba,United States
+40,2,1940,79617444,1,Pesos $,Cuba,United States
+40,2,1941,114896782,1,Pesos $,Cuba,United States
+40,2,1942,119684238,1,Pesos $,Cuba,United States
+40,2,1943,134874974,1,Pesos $,Cuba,United States
+40,2,1944,160904016,1,Pesos $,Cuba,United States
+40,2,1945,177797106,1,Pesos $,Cuba,United States
+40,2,1946,229093749,1,Pesos $,Cuba,United States
+40,2,1947,436448370,1,Pesos $,Cuba,United States
+40,2,1948,420259968,1,Pesos $,Cuba,United States
+40,2,1949,375676478,1,Pesos $,Cuba,United States
+40,3,1919,0,1,,Cuba,Alaska
+40,3,1920,0,1,,Cuba,Alaska
+40,3,1921,0,1,,Cuba,Alaska
+40,3,1922,0,1,,Cuba,Alaska
+40,3,1923,0,1,,Cuba,Alaska
+40,3,1924,0,1,,Cuba,Alaska
+40,3,1925,0,1,Pesos Moneda Eua,Cuba,Alaska
+40,3,1926,0,1,Pesos Moneda Eua,Cuba,Alaska
+40,3,1927,0,1,Pesos Moneda Nacional,Cuba,Alaska
+40,3,1928,0,1,Pesos Moneda Nacional,Cuba,Alaska
+40,3,1929,0,1,Pesos Moneda Nacional,Cuba,Alaska
+40,3,1930,0,1,$,Cuba,Alaska
+40,3,1931,0,1,,Cuba,Alaska
+40,3,1932,0,1,,Cuba,Alaska
+40,3,1933,0,1,,Cuba,Alaska
+40,3,1934,0,1,,Cuba,Alaska
+40,3,1935,0,1,,Cuba,Alaska
+40,3,1936,0,1,,Cuba,Alaska
+40,3,1937,0,1,Pesos $,Cuba,Alaska
+40,3,1938,0,1,Pesos $,Cuba,Alaska
+40,3,1939,0,1,Pesos $,Cuba,Alaska
+40,3,1940,0,1,Pesos $,Cuba,Alaska
+40,3,1941,0,1,Pesos $,Cuba,Alaska
+40,3,1942,0,1,Pesos $,Cuba,Alaska
+40,3,1943,0,1,Pesos $,Cuba,Alaska
+40,3,1944,0,1,Pesos $,Cuba,Alaska
+40,3,1945,0,1,Pesos $,Cuba,Alaska
+40,3,1946,0,1,Pesos $,Cuba,Alaska
+40,3,1947,0,1,Pesos $,Cuba,Alaska
+40,3,1948,610,1,Pesos $,Cuba,Alaska
+40,3,1949,0,1,Pesos $,Cuba,Alaska
+40,4,1919,0,1,,Cuba,Hawaii
+40,4,1920,0,1,,Cuba,Hawaii
+40,4,1921,0,1,,Cuba,Hawaii
+40,4,1922,0,1,,Cuba,Hawaii
+40,4,1923,0,1,,Cuba,Hawaii
+40,4,1924,0,1,,Cuba,Hawaii
+40,4,1925,0,1,Pesos Moneda Eua,Cuba,Hawaii
+40,4,1926,0,1,Pesos Moneda Eua,Cuba,Hawaii
+40,4,1927,7116,1,Pesos Moneda Nacional,Cuba,Hawaii
+40,4,1928,0,1,Pesos Moneda Nacional,Cuba,Hawaii
+40,4,1929,3175,1,Pesos Moneda Nacional,Cuba,Hawaii
+40,4,1930,0,1,$,Cuba,Hawaii
+40,4,1931,34,1,,Cuba,Hawaii
+40,4,1932,0,1,,Cuba,Hawaii
+40,4,1933,0,1,,Cuba,Hawaii
+40,4,1934,0,1,,Cuba,Hawaii
+40,4,1935,350,1,,Cuba,Hawaii
+40,4,1936,0,1,,Cuba,Hawaii
+40,4,1937,0,1,Pesos $,Cuba,Hawaii
+40,4,1938,0,1,Pesos $,Cuba,Hawaii
+40,4,1939,0,1,Pesos $,Cuba,Hawaii
+40,4,1940,0,1,Pesos $,Cuba,Hawaii
+40,4,1941,0,1,Pesos $,Cuba,Hawaii
+40,4,1942,0,1,Pesos $,Cuba,Hawaii
+40,4,1943,0,1,Pesos $,Cuba,Hawaii
+40,4,1944,0,1,Pesos $,Cuba,Hawaii
+40,4,1945,0,1,Pesos $,Cuba,Hawaii
+40,4,1946,0,1,Pesos $,Cuba,Hawaii
+40,4,1947,1687,1,Pesos $,Cuba,Hawaii
+40,4,1948,1801,1,Pesos $,Cuba,Hawaii
+40,4,1949,3096,1,Pesos $,Cuba,Hawaii
+40,6,1912,3305480,,,Cuba,Puerto Rico
+40,6,1914,2308842,,,Cuba,Puerto Rico
+40,6,1915,2422481,,,Cuba,Puerto Rico
+40,6,1916,2508522,,,Cuba,Puerto Rico
+40,6,1919,4062036,1,,Cuba,Puerto Rico
+40,6,1920,6323273,1,,Cuba,Puerto Rico
+40,6,1921,3767438,1,,Cuba,Puerto Rico
+40,6,1922,2010254,1,,Cuba,Puerto Rico
+40,6,1923,2451334,1,,Cuba,Puerto Rico
+40,6,1924,2626151,1,,Cuba,Puerto Rico
+40,6,1925,2155740,1,Pesos Moneda Eua,Cuba,Puerto Rico
+40,6,1926,2417452,1,Pesos Moneda Eua,Cuba,Puerto Rico
+40,6,1927,765056,1,Pesos Moneda Nacional,Cuba,Puerto Rico
+40,6,1928,90095,1,Pesos Moneda Nacional,Cuba,Puerto Rico
+40,6,1929,34854,1,Pesos Moneda Nacional,Cuba,Puerto Rico
+40,6,1930,6937,1,$,Cuba,Puerto Rico
+40,6,1931,8974,1,,Cuba,Puerto Rico
+40,6,1932,5570,1,,Cuba,Puerto Rico
+40,6,1933,1359,1,,Cuba,Puerto Rico
+40,6,1934,2132,1,,Cuba,Puerto Rico
+40,6,1935,2289,1,,Cuba,Puerto Rico
+40,6,1936,16831,1,,Cuba,Puerto Rico
+40,6,1937,9566,1,Pesos $,Cuba,Puerto Rico
+40,6,1938,5488,1,Pesos $,Cuba,Puerto Rico
+40,6,1939,64566,1,Pesos $,Cuba,Puerto Rico
+40,6,1940,163653,1,Pesos $,Cuba,Puerto Rico
+40,6,1941,29281,1,Pesos $,Cuba,Puerto Rico
+40,6,1942,23615,1,Pesos $,Cuba,Puerto Rico
+40,6,1943,26530,1,Pesos $,Cuba,Puerto Rico
+40,6,1944,64341,1,Pesos $,Cuba,Puerto Rico
+40,6,1945,25415,1,Pesos $,Cuba,Puerto Rico
+40,6,1946,96483,1,Pesos $,Cuba,Puerto Rico
+40,6,1947,258942,1,Pesos $,Cuba,Puerto Rico
+40,6,1948,381767,1,Pesos $,Cuba,Puerto Rico
+40,6,1949,220696,1,Pesos $,Cuba,Puerto Rico
+40,10,1919,0,1,,Cuba,Greenland
+40,10,1920,0,1,,Cuba,Greenland
+40,10,1921,0,1,,Cuba,Greenland
+40,10,1922,0,1,,Cuba,Greenland
+40,10,1923,0,1,,Cuba,Greenland
+40,10,1924,0,1,,Cuba,Greenland
+40,10,1925,0,1,Pesos Moneda Eua,Cuba,Greenland
+40,10,1926,0,1,Pesos Moneda Eua,Cuba,Greenland
+40,10,1927,0,1,Pesos Moneda Nacional,Cuba,Greenland
+40,10,1928,0,1,Pesos Moneda Nacional,Cuba,Greenland
+40,10,1929,0,1,Pesos Moneda Nacional,Cuba,Greenland
+40,10,1930,0,1,$,Cuba,Greenland
+40,10,1931,0,1,,Cuba,Greenland
+40,10,1932,0,1,,Cuba,Greenland
+40,10,1933,0,1,,Cuba,Greenland
+40,10,1934,0,1,,Cuba,Greenland
+40,10,1935,0,1,,Cuba,Greenland
+40,10,1936,0,1,,Cuba,Greenland
+40,10,1937,0,1,Pesos $,Cuba,Greenland
+40,10,1938,0,1,Pesos $,Cuba,Greenland
+40,10,1939,0,1,Pesos $,Cuba,Greenland
+40,10,1940,0,1,Pesos $,Cuba,Greenland
+40,10,1941,0,1,Pesos $,Cuba,Greenland
+40,10,1942,0,1,Pesos $,Cuba,Greenland
+40,10,1943,0,1,Pesos $,Cuba,Greenland
+40,10,1944,0,1,Pesos $,Cuba,Greenland
+40,10,1945,0,1,Pesos $,Cuba,Greenland
+40,10,1946,0,1,Pesos $,Cuba,Greenland
+40,10,1947,0,1,Pesos $,Cuba,Greenland
+40,10,1948,0,1,Pesos $,Cuba,Greenland
+40,10,1949,0,1,Pesos $,Cuba,Greenland
+40,20,1912,1531391,,,Cuba,Canada
+40,20,1914,1465231,,,Cuba,Canada
+40,20,1915,1123336,,,Cuba,Canada
+40,20,1916,1766729,,,Cuba,Canada
+40,20,1919,7670385,1,,Cuba,Canada
+40,20,1920,5720628,1,,Cuba,Canada
+40,20,1921,5030825,1,,Cuba,Canada
+40,20,1922,3758900,1,,Cuba,Canada
+40,20,1923,5678341,1,,Cuba,Canada
+40,20,1924,5489630,1,,Cuba,Canada
+40,20,1925,6619148,1,Pesos Moneda Eua,Cuba,Canada
+40,20,1926,7070581,1,Pesos Moneda Eua,Cuba,Canada
+40,20,1927,6031457,1,Pesos Moneda Nacional,Cuba,Canada
+40,20,1928,4756156,1,Pesos Moneda Nacional,Cuba,Canada
+40,20,1929,4915000,1,Pesos Moneda Nacional,Cuba,Canada
+40,20,1930,3657217,1,$,Cuba,Canada
+40,20,1931,1678620,1,,Cuba,Canada
+40,20,1932,1076001,1,,Cuba,Canada
+40,20,1933,891374,1,,Cuba,Canada
+40,20,1934,1196005,1,,Cuba,Canada
+40,20,1935,1171570,1,,Cuba,Canada
+40,20,1936,979754,1,,Cuba,Canada
+40,20,1937,1011147,1,Pesos $,Cuba,Canada
+40,20,1938,815490,1,Pesos $,Cuba,Canada
+40,20,1939,986398,1,Pesos $,Cuba,Canada
+40,20,1940,698631,1,Pesos $,Cuba,Canada
+40,20,1941,1508634,1,Pesos $,Cuba,Canada
+40,20,1942,1311813,1,Pesos $,Cuba,Canada
+40,20,1943,1736526,1,Pesos $,Cuba,Canada
+40,20,1944,2679490,1,Pesos $,Cuba,Canada
+40,20,1945,3116146,1,Pesos $,Cuba,Canada
+40,20,1946,3350041,1,Pesos $,Cuba,Canada
+40,20,1947,4662023,1,Pesos $,Cuba,Canada
+40,20,1948,8968263,1,Pesos $,Cuba,Canada
+40,20,1949,11086049,1,Pesos $,Cuba,Canada
+40,21,1919,0,1,,Cuba,Newfoundland
+40,21,1920,0,1,,Cuba,Newfoundland
+40,21,1921,0,1,,Cuba,Newfoundland
+40,21,1922,0,1,,Cuba,Newfoundland
+40,21,1923,0,1,,Cuba,Newfoundland
+40,21,1924,0,1,,Cuba,Newfoundland
+40,21,1925,0,1,Pesos Moneda Eua,Cuba,Newfoundland
+40,21,1926,0,1,Pesos Moneda Eua,Cuba,Newfoundland
+40,21,1927,0,1,Pesos Moneda Nacional,Cuba,Newfoundland
+40,21,1928,0,1,Pesos Moneda Nacional,Cuba,Newfoundland
+40,21,1929,0,1,Pesos Moneda Nacional,Cuba,Newfoundland
+40,21,1930,0,1,$,Cuba,Newfoundland
+40,21,1931,0,1,,Cuba,Newfoundland
+40,21,1932,0,1,,Cuba,Newfoundland
+40,21,1933,0,1,,Cuba,Newfoundland
+40,21,1934,0,1,,Cuba,Newfoundland
+40,21,1935,0,1,,Cuba,Newfoundland
+40,21,1936,36133,1,,Cuba,Newfoundland
+40,21,1937,74805,1,Pesos $,Cuba,Newfoundland
+40,21,1938,128433,1,Pesos $,Cuba,Newfoundland
+40,21,1939,96436,1,Pesos $,Cuba,Newfoundland
+40,21,1940,143474,1,Pesos $,Cuba,Newfoundland
+40,21,1941,82996,1,Pesos $,Cuba,Newfoundland
+40,21,1942,34679,1,Pesos $,Cuba,Newfoundland
+40,21,1943,600,1,Pesos $,Cuba,Newfoundland
+40,21,1944,0,1,Pesos $,Cuba,Newfoundland
+40,21,1945,0,1,Pesos $,Cuba,Newfoundland
+40,21,1946,0,1,Pesos $,Cuba,Newfoundland
+40,21,1947,15865,1,Pesos $,Cuba,Newfoundland
+40,21,1948,191583,1,Pesos $,Cuba,Newfoundland
+40,21,1949,160274,1,Pesos $,Cuba,Newfoundland
+40,30,1919,0,1,,Cuba,Bermuda
+40,30,1920,0,1,,Cuba,Bermuda
+40,30,1921,0,1,,Cuba,Bermuda
+40,30,1922,0,1,,Cuba,Bermuda
+40,30,1923,0,1,,Cuba,Bermuda
+40,30,1924,0,1,,Cuba,Bermuda
+40,30,1925,0,1,Pesos Moneda Eua,Cuba,Bermuda
+40,30,1926,0,1,Pesos Moneda Eua,Cuba,Bermuda
+40,30,1927,0,1,Pesos Moneda Nacional,Cuba,Bermuda
+40,30,1928,0,1,Pesos Moneda Nacional,Cuba,Bermuda
+40,30,1929,0,1,Pesos Moneda Nacional,Cuba,Bermuda
+40,30,1930,0,1,$,Cuba,Bermuda
+40,30,1931,0,1,,Cuba,Bermuda
+40,30,1932,0,1,,Cuba,Bermuda
+40,30,1933,0,1,,Cuba,Bermuda
+40,30,1934,0,1,,Cuba,Bermuda
+40,30,1935,165,1,,Cuba,Bermuda
+40,30,1936,0,1,,Cuba,Bermuda
+40,30,1937,1448,1,Pesos $,Cuba,Bermuda
+40,30,1938,91,1,Pesos $,Cuba,Bermuda
+40,30,1939,0,1,Pesos $,Cuba,Bermuda
+40,30,1940,120,1,Pesos $,Cuba,Bermuda
+40,30,1941,0,1,Pesos $,Cuba,Bermuda
+40,30,1942,0,1,Pesos $,Cuba,Bermuda
+40,30,1943,105,1,Pesos $,Cuba,Bermuda
+40,30,1944,841,1,Pesos $,Cuba,Bermuda
+40,30,1945,0,1,Pesos $,Cuba,Bermuda
+40,30,1946,0,1,Pesos $,Cuba,Bermuda
+40,30,1947,32,1,Pesos $,Cuba,Bermuda
+40,30,1948,0,1,Pesos $,Cuba,Bermuda
+40,30,1949,60,1,Pesos $,Cuba,Bermuda
+40,31,1919,0,1,,Cuba,Bahamas
+40,31,1920,0,1,,Cuba,Bahamas
+40,31,1921,0,1,,Cuba,Bahamas
+40,31,1922,0,1,,Cuba,Bahamas
+40,31,1923,0,1,,Cuba,Bahamas
+40,31,1924,0,1,,Cuba,Bahamas
+40,31,1925,0,1,Pesos Moneda Eua,Cuba,Bahamas
+40,31,1926,0,1,Pesos Moneda Eua,Cuba,Bahamas
+40,31,1927,0,1,Pesos Moneda Nacional,Cuba,Bahamas
+40,31,1928,0,1,Pesos Moneda Nacional,Cuba,Bahamas
+40,31,1929,0,1,Pesos Moneda Nacional,Cuba,Bahamas
+40,31,1930,0,1,$,Cuba,Bahamas
+40,31,1931,0,1,,Cuba,Bahamas
+40,31,1932,0,1,,Cuba,Bahamas
+40,31,1933,0,1,,Cuba,Bahamas
+40,31,1934,0,1,,Cuba,Bahamas
+40,31,1935,25597,1,,Cuba,Bahamas
+40,31,1936,971,1,,Cuba,Bahamas
+40,31,1937,23130,1,Pesos $,Cuba,Bahamas
+40,31,1938,7210,1,Pesos $,Cuba,Bahamas
+40,31,1939,2280,1,Pesos $,Cuba,Bahamas
+40,31,1940,4649,1,Pesos $,Cuba,Bahamas
+40,31,1941,0,1,Pesos $,Cuba,Bahamas
+40,31,1942,4244,1,Pesos $,Cuba,Bahamas
+40,31,1943,12159,1,Pesos $,Cuba,Bahamas
+40,31,1944,12222,1,Pesos $,Cuba,Bahamas
+40,31,1945,74097,1,Pesos $,Cuba,Bahamas
+40,31,1946,50836,1,Pesos $,Cuba,Bahamas
+40,31,1947,109453,1,Pesos $,Cuba,Bahamas
+40,31,1948,67456,1,Pesos $,Cuba,Bahamas
+40,31,1949,66969,1,Pesos $,Cuba,Bahamas
+40,41,1912,291,,,Cuba,Haiti
+40,41,1914,221,,,Cuba,Haiti
+40,41,1916,1359,,,Cuba,Haiti
+40,41,1919,241682,1,,Cuba,Haiti
+40,41,1920,1239318,1,,Cuba,Haiti
+40,41,1921,0,1,,Cuba,Haiti
+40,41,1922,7433,1,,Cuba,Haiti
+40,41,1923,319673,1,,Cuba,Haiti
+40,41,1924,57023,1,,Cuba,Haiti
+40,41,1925,53969,1,Pesos Moneda Eua,Cuba,Haiti
+40,41,1926,51669,1,Pesos Moneda Eua,Cuba,Haiti
+40,41,1927,551190,1,Pesos Moneda Nacional,Cuba,Haiti
+40,41,1928,307513,1,Pesos Moneda Nacional,Cuba,Haiti
+40,41,1929,149743,1,Pesos Moneda Nacional,Cuba,Haiti
+40,41,1930,91632,1,$,Cuba,Haiti
+40,41,1931,957,1,,Cuba,Haiti
+40,41,1932,135,1,,Cuba,Haiti
+40,41,1933,58,1,,Cuba,Haiti
+40,41,1934,0,1,,Cuba,Haiti
+40,41,1935,15,1,,Cuba,Haiti
+40,41,1936,1224,1,,Cuba,Haiti
+40,41,1937,1565,1,Pesos $,Cuba,Haiti
+40,41,1938,1508,1,Pesos $,Cuba,Haiti
+40,41,1939,121,1,Pesos $,Cuba,Haiti
+40,41,1940,596,1,Pesos $,Cuba,Haiti
+40,41,1941,1305,1,Pesos $,Cuba,Haiti
+40,41,1942,16785,1,Pesos $,Cuba,Haiti
+40,41,1943,97400,1,Pesos $,Cuba,Haiti
+40,41,1944,168238,1,Pesos $,Cuba,Haiti
+40,41,1945,521206,1,Pesos $,Cuba,Haiti
+40,41,1946,643959,1,Pesos $,Cuba,Haiti
+40,41,1947,10159,1,Pesos $,Cuba,Haiti
+40,41,1948,1134,1,Pesos $,Cuba,Haiti
+40,41,1949,58756,1,Pesos $,Cuba,Haiti
+40,42,1912,17337,,,Cuba,Dominican Republic
+40,42,1914,12289,,,Cuba,Dominican Republic
+40,42,1915,24175,,,Cuba,Dominican Republic
+40,42,1916,19638,,,Cuba,Dominican Republic
+40,42,1919,148715,1,,Cuba,Dominican Republic
+40,42,1920,61160,1,,Cuba,Dominican Republic
+40,42,1921,119006,1,,Cuba,Dominican Republic
+40,42,1922,255796,1,,Cuba,Dominican Republic
+40,42,1923,116555,1,,Cuba,Dominican Republic
+40,42,1924,607638,1,,Cuba,Dominican Republic
+40,42,1925,639304,1,Pesos Moneda Eua,Cuba,Dominican Republic
+40,42,1926,669865,1,Pesos Moneda Eua,Cuba,Dominican Republic
+40,42,1927,842138,1,Pesos Moneda Nacional,Cuba,Dominican Republic
+40,42,1928,591157,1,Pesos Moneda Nacional,Cuba,Dominican Republic
+40,42,1929,694789,1,Pesos Moneda Nacional,Cuba,Dominican Republic
+40,42,1930,390778,1,$,Cuba,Dominican Republic
+40,42,1931,52103,1,,Cuba,Dominican Republic
+40,42,1932,5153,1,,Cuba,Dominican Republic
+40,42,1933,3111,1,,Cuba,Dominican Republic
+40,42,1934,2575,1,,Cuba,Dominican Republic
+40,42,1935,8053,1,,Cuba,Dominican Republic
+40,42,1936,29942,1,,Cuba,Dominican Republic
+40,42,1937,75905,1,Pesos $,Cuba,Dominican Republic
+40,42,1938,21591,1,Pesos $,Cuba,Dominican Republic
+40,42,1939,19153,1,Pesos $,Cuba,Dominican Republic
+40,42,1940,205498,1,Pesos $,Cuba,Dominican Republic
+40,42,1941,87862,1,Pesos $,Cuba,Dominican Republic
+40,42,1942,509069,1,Pesos $,Cuba,Dominican Republic
+40,42,1943,137503,1,Pesos $,Cuba,Dominican Republic
+40,42,1944,2682,1,Pesos $,Cuba,Dominican Republic
+40,42,1945,846246,1,Pesos $,Cuba,Dominican Republic
+40,42,1946,1157540,1,Pesos $,Cuba,Dominican Republic
+40,42,1947,367327,1,Pesos $,Cuba,Dominican Republic
+40,42,1948,36934,1,Pesos $,Cuba,Dominican Republic
+40,42,1949,144023,1,Pesos $,Cuba,Dominican Republic
+40,51,1919,0,1,,Cuba,Jamaica
+40,51,1920,0,1,,Cuba,Jamaica
+40,51,1921,0,1,,Cuba,Jamaica
+40,51,1922,0,1,,Cuba,Jamaica
+40,51,1923,0,1,,Cuba,Jamaica
+40,51,1924,0,1,,Cuba,Jamaica
+40,51,1925,0,1,Pesos Moneda Eua,Cuba,Jamaica
+40,51,1926,0,1,Pesos Moneda Eua,Cuba,Jamaica
+40,51,1927,0,1,Pesos Moneda Nacional,Cuba,Jamaica
+40,51,1928,0,1,Pesos Moneda Nacional,Cuba,Jamaica
+40,51,1929,0,1,Pesos Moneda Nacional,Cuba,Jamaica
+40,51,1930,0,1,$,Cuba,Jamaica
+40,51,1931,0,1,,Cuba,Jamaica
+40,51,1932,0,1,,Cuba,Jamaica
+40,51,1933,0,1,,Cuba,Jamaica
+40,51,1934,0,1,,Cuba,Jamaica
+40,51,1935,3139,1,,Cuba,Jamaica
+40,51,1936,10213,1,,Cuba,Jamaica
+40,51,1937,26559,1,Pesos $,Cuba,Jamaica
+40,51,1938,2510,1,Pesos $,Cuba,Jamaica
+40,51,1939,3211,1,Pesos $,Cuba,Jamaica
+40,51,1940,2354,1,Pesos $,Cuba,Jamaica
+40,51,1941,4337,1,Pesos $,Cuba,Jamaica
+40,51,1942,2543,1,Pesos $,Cuba,Jamaica
+40,51,1943,101217,1,Pesos $,Cuba,Jamaica
+40,51,1944,100168,1,Pesos $,Cuba,Jamaica
+40,51,1945,5857,1,Pesos $,Cuba,Jamaica
+40,51,1946,5174,1,Pesos $,Cuba,Jamaica
+40,51,1947,13009,1,Pesos $,Cuba,Jamaica
+40,51,1948,11116,1,Pesos $,Cuba,Jamaica
+40,51,1949,3166,1,Pesos $,Cuba,Jamaica
+40,52,1919,0,1,,Cuba,Trinidad And Tobago
+40,52,1920,0,1,,Cuba,Trinidad And Tobago
+40,52,1921,0,1,,Cuba,Trinidad And Tobago
+40,52,1922,0,1,,Cuba,Trinidad And Tobago
+40,52,1923,0,1,,Cuba,Trinidad And Tobago
+40,52,1924,0,1,,Cuba,Trinidad And Tobago
+40,52,1925,0,1,Pesos Moneda Eua,Cuba,Trinidad And Tobago
+40,52,1926,0,1,Pesos Moneda Eua,Cuba,Trinidad And Tobago
+40,52,1927,0,1,Pesos Moneda Nacional,Cuba,Trinidad And Tobago
+40,52,1928,0,1,Pesos Moneda Nacional,Cuba,Trinidad And Tobago
+40,52,1929,0,1,Pesos Moneda Nacional,Cuba,Trinidad And Tobago
+40,52,1930,0,1,$,Cuba,Trinidad And Tobago
+40,52,1931,0,1,,Cuba,Trinidad And Tobago
+40,52,1932,0,1,,Cuba,Trinidad And Tobago
+40,52,1933,0,1,,Cuba,Trinidad And Tobago
+40,52,1934,0,1,,Cuba,Trinidad And Tobago
+40,52,1935,0,1,,Cuba,Trinidad And Tobago
+40,52,1936,0,1,,Cuba,Trinidad And Tobago
+40,52,1937,1105,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1938,1180,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1939,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1940,2,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1941,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1942,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1943,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1944,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1945,0,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1946,1314,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1947,103786,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1948,1168243,1,Pesos $,Cuba,Trinidad And Tobago
+40,52,1949,928076,1,Pesos $,Cuba,Trinidad And Tobago
+40,65,1919,0,1,,Cuba,Guadeloupe
+40,65,1920,0,1,,Cuba,Guadeloupe
+40,65,1921,0,1,,Cuba,Guadeloupe
+40,65,1922,0,1,,Cuba,Guadeloupe
+40,65,1923,0,1,,Cuba,Guadeloupe
+40,65,1924,0,1,,Cuba,Guadeloupe
+40,65,1925,0,1,Pesos Moneda Eua,Cuba,Guadeloupe
+40,65,1926,0,1,Pesos Moneda Eua,Cuba,Guadeloupe
+40,65,1927,0,1,Pesos Moneda Nacional,Cuba,Guadeloupe
+40,65,1928,0,1,Pesos Moneda Nacional,Cuba,Guadeloupe
+40,65,1929,0,1,Pesos Moneda Nacional,Cuba,Guadeloupe
+40,65,1930,0,1,$,Cuba,Guadeloupe
+40,65,1931,0,1,,Cuba,Guadeloupe
+40,65,1932,0,1,,Cuba,Guadeloupe
+40,65,1933,0,1,,Cuba,Guadeloupe
+40,65,1934,0,1,,Cuba,Guadeloupe
+40,65,1935,0,1,,Cuba,Guadeloupe
+40,65,1936,0,1,,Cuba,Guadeloupe
+40,65,1937,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1938,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1939,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1940,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1941,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1942,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1943,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1944,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1945,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1946,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1947,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1948,0,1,Pesos $,Cuba,Guadeloupe
+40,65,1949,0,1,Pesos $,Cuba,Guadeloupe
+40,66,1919,0,1,,Cuba,Martinique
+40,66,1920,0,1,,Cuba,Martinique
+40,66,1921,0,1,,Cuba,Martinique
+40,66,1922,0,1,,Cuba,Martinique
+40,66,1923,0,1,,Cuba,Martinique
+40,66,1924,0,1,,Cuba,Martinique
+40,66,1925,0,1,Pesos Moneda Eua,Cuba,Martinique
+40,66,1926,0,1,Pesos Moneda Eua,Cuba,Martinique
+40,66,1927,0,1,Pesos Moneda Nacional,Cuba,Martinique
+40,66,1928,0,1,Pesos Moneda Nacional,Cuba,Martinique
+40,66,1929,0,1,Pesos Moneda Nacional,Cuba,Martinique
+40,66,1930,0,1,$,Cuba,Martinique
+40,66,1931,0,1,,Cuba,Martinique
+40,66,1932,0,1,,Cuba,Martinique
+40,66,1933,0,1,,Cuba,Martinique
+40,66,1934,0,1,,Cuba,Martinique
+40,66,1935,0,1,,Cuba,Martinique
+40,66,1936,857,1,,Cuba,Martinique
+40,66,1937,2760,1,Pesos $,Cuba,Martinique
+40,66,1938,5,1,Pesos $,Cuba,Martinique
+40,66,1939,856,1,Pesos $,Cuba,Martinique
+40,66,1940,0,1,Pesos $,Cuba,Martinique
+40,66,1941,0,1,Pesos $,Cuba,Martinique
+40,66,1942,0,1,Pesos $,Cuba,Martinique
+40,66,1943,0,1,Pesos $,Cuba,Martinique
+40,66,1944,0,1,Pesos $,Cuba,Martinique
+40,66,1945,0,1,Pesos $,Cuba,Martinique
+40,66,1946,0,1,Pesos $,Cuba,Martinique
+40,66,1947,0,1,Pesos $,Cuba,Martinique
+40,66,1948,1,1,Pesos $,Cuba,Martinique
+40,66,1949,0,1,Pesos $,Cuba,Martinique
+40,68,1914,517,,,Cuba,Netherlands Antilles
+40,68,1915,1682,,,Cuba,Netherlands Antilles
+40,68,1916,2809,,,Cuba,Netherlands Antilles
+40,68,1919,59019,1,,Cuba,Netherlands Antilles
+40,68,1920,24258,1,,Cuba,Netherlands Antilles
+40,68,1921,18483,1,,Cuba,Netherlands Antilles
+40,68,1922,16536,1,,Cuba,Netherlands Antilles
+40,68,1923,10264,1,,Cuba,Netherlands Antilles
+40,68,1924,10661,1,,Cuba,Netherlands Antilles
+40,68,1925,560,1,Pesos Moneda Eua,Cuba,Netherlands Antilles
+40,68,1926,350766,1,Pesos Moneda Eua,Cuba,Netherlands Antilles
+40,68,1927,292183,1,Pesos Moneda Nacional,Cuba,Netherlands Antilles
+40,68,1928,974789,1,Pesos Moneda Nacional,Cuba,Netherlands Antilles
+40,68,1929,1480314,1,Pesos Moneda Nacional,Cuba,Netherlands Antilles
+40,68,1930,1016103,1,$,Cuba,Netherlands Antilles
+40,68,1931,840380,1,,Cuba,Netherlands Antilles
+40,68,1932,787990,1,,Cuba,Netherlands Antilles
+40,68,1933,535381,1,,Cuba,Netherlands Antilles
+40,68,1934,1623228,1,,Cuba,Netherlands Antilles
+40,68,1935,1596099,1,,Cuba,Netherlands Antilles
+40,68,1936,1758474,1,,Cuba,Netherlands Antilles
+40,68,1937,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1938,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1939,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1940,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1941,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1942,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1943,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1944,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1945,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1946,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1947,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1948,0,1,Pesos $,Cuba,Netherlands Antilles
+40,68,1949,0,1,Pesos $,Cuba,Netherlands Antilles
+40,70,1912,1054225,,,Cuba,Mexico
+40,70,1914,1573926,,,Cuba,Mexico
+40,70,1915,1477978,,,Cuba,Mexico
+40,70,1916,1924630,,,Cuba,Mexico
+40,70,1919,5655127,1,,Cuba,Mexico
+40,70,1920,6165906,1,,Cuba,Mexico
+40,70,1921,4346814,1,,Cuba,Mexico
+40,70,1922,3795305,1,,Cuba,Mexico
+40,70,1923,5016741,1,,Cuba,Mexico
+40,70,1924,6563874,1,,Cuba,Mexico
+40,70,1925,8633345,1,Pesos Moneda Eua,Cuba,Mexico
+40,70,1926,6713211,1,Pesos Moneda Eua,Cuba,Mexico
+40,70,1927,5942986,1,Pesos Moneda Nacional,Cuba,Mexico
+40,70,1928,3485532,1,Pesos Moneda Nacional,Cuba,Mexico
+40,70,1929,2769007,1,Pesos Moneda Nacional,Cuba,Mexico
+40,70,1930,2318644,1,$,Cuba,Mexico
+40,70,1931,1435388,1,,Cuba,Mexico
+40,70,1932,844951,1,,Cuba,Mexico
+40,70,1933,639112,1,,Cuba,Mexico
+40,70,1934,1150042,1,,Cuba,Mexico
+40,70,1935,1083546,1,,Cuba,Mexico
+40,70,1936,1149231,1,,Cuba,Mexico
+40,70,1937,1509534,1,Pesos $,Cuba,Mexico
+40,70,1938,721882,1,Pesos $,Cuba,Mexico
+40,70,1939,769957,1,Pesos $,Cuba,Mexico
+40,70,1940,734290,1,Pesos $,Cuba,Mexico
+40,70,1941,2074708,1,Pesos $,Cuba,Mexico
+40,70,1942,5362957,1,Pesos $,Cuba,Mexico
+40,70,1943,5663510,1,Pesos $,Cuba,Mexico
+40,70,1944,4632146,1,Pesos $,Cuba,Mexico
+40,70,1945,8227223,1,Pesos $,Cuba,Mexico
+40,70,1946,7015802,1,Pesos $,Cuba,Mexico
+40,70,1947,6907052,1,Pesos $,Cuba,Mexico
+40,70,1948,10910780,1,Pesos $,Cuba,Mexico
+40,70,1949,5966697,1,Pesos $,Cuba,Mexico
+40,80,1919,0,1,,Cuba,Belize
+40,80,1920,0,1,,Cuba,Belize
+40,80,1921,0,1,,Cuba,Belize
+40,80,1922,0,1,,Cuba,Belize
+40,80,1923,0,1,,Cuba,Belize
+40,80,1924,0,1,,Cuba,Belize
+40,80,1925,0,1,Pesos Moneda Eua,Cuba,Belize
+40,80,1926,0,1,Pesos Moneda Eua,Cuba,Belize
+40,80,1927,0,1,Pesos Moneda Nacional,Cuba,Belize
+40,80,1928,0,1,Pesos Moneda Nacional,Cuba,Belize
+40,80,1929,0,1,Pesos Moneda Nacional,Cuba,Belize
+40,80,1930,0,1,$,Cuba,Belize
+40,80,1931,0,1,,Cuba,Belize
+40,80,1932,0,1,,Cuba,Belize
+40,80,1933,0,1,,Cuba,Belize
+40,80,1934,0,1,,Cuba,Belize
+40,80,1935,0,1,,Cuba,Belize
+40,80,1936,0,1,,Cuba,Belize
+40,80,1937,0,1,Pesos $,Cuba,Belize
+40,80,1938,0,1,Pesos $,Cuba,Belize
+40,80,1939,0,1,Pesos $,Cuba,Belize
+40,80,1940,0,1,Pesos $,Cuba,Belize
+40,80,1941,0,1,Pesos $,Cuba,Belize
+40,80,1942,0,1,Pesos $,Cuba,Belize
+40,80,1943,0,1,Pesos $,Cuba,Belize
+40,80,1944,0,1,Pesos $,Cuba,Belize
+40,80,1945,0,1,Pesos $,Cuba,Belize
+40,80,1946,0,1,Pesos $,Cuba,Belize
+40,80,1947,4716,1,Pesos $,Cuba,Belize
+40,80,1948,50540,1,Pesos $,Cuba,Belize
+40,80,1949,7213,1,Pesos $,Cuba,Belize
+40,90,1912,1326,,,Cuba,Guatemala
+40,90,1914,840,,,Cuba,Guatemala
+40,90,1916,13344,,,Cuba,Guatemala
+40,90,1919,30955,1,,Cuba,Guatemala
+40,90,1920,0,1,,Cuba,Guatemala
+40,90,1921,111139,1,,Cuba,Guatemala
+40,90,1922,83811,1,,Cuba,Guatemala
+40,90,1923,232638,1,,Cuba,Guatemala
+40,90,1924,132351,1,,Cuba,Guatemala
+40,90,1925,197679,1,Pesos Moneda Eua,Cuba,Guatemala
+40,90,1926,10279,1,Pesos Moneda Eua,Cuba,Guatemala
+40,90,1927,195279,1,Pesos Moneda Nacional,Cuba,Guatemala
+40,90,1928,176259,1,Pesos Moneda Nacional,Cuba,Guatemala
+40,90,1929,114474,1,Pesos Moneda Nacional,Cuba,Guatemala
+40,90,1930,103352,1,$,Cuba,Guatemala
+40,90,1931,2625,1,,Cuba,Guatemala
+40,90,1932,2540,1,,Cuba,Guatemala
+40,90,1933,1100,1,,Cuba,Guatemala
+40,90,1934,525,1,,Cuba,Guatemala
+40,90,1935,681,1,,Cuba,Guatemala
+40,90,1936,2628,1,,Cuba,Guatemala
+40,90,1937,4391,1,Pesos $,Cuba,Guatemala
+40,90,1938,4726,1,Pesos $,Cuba,Guatemala
+40,90,1939,5968,1,Pesos $,Cuba,Guatemala
+40,90,1940,6436,1,Pesos $,Cuba,Guatemala
+40,90,1941,8004,1,Pesos $,Cuba,Guatemala
+40,90,1942,1955,1,Pesos $,Cuba,Guatemala
+40,90,1943,7956,1,Pesos $,Cuba,Guatemala
+40,90,1944,2400,1,Pesos $,Cuba,Guatemala
+40,90,1945,29198,1,Pesos $,Cuba,Guatemala
+40,90,1946,60522,1,Pesos $,Cuba,Guatemala
+40,90,1947,87379,1,Pesos $,Cuba,Guatemala
+40,90,1948,83269,1,Pesos $,Cuba,Guatemala
+40,90,1949,80904,1,Pesos $,Cuba,Guatemala
+40,91,1912,10000,,,Cuba,Honduras
+40,91,1916,42252,,,Cuba,Honduras
+40,91,1919,38665,1,,Cuba,Honduras
+40,91,1920,235933,1,,Cuba,Honduras
+40,91,1921,406,1,,Cuba,Honduras
+40,91,1922,11453,1,,Cuba,Honduras
+40,91,1923,15722,1,,Cuba,Honduras
+40,91,1924,44193,1,,Cuba,Honduras
+40,91,1925,159676,1,Pesos Moneda Eua,Cuba,Honduras
+40,91,1926,81405,1,Pesos Moneda Eua,Cuba,Honduras
+40,91,1927,163093,1,Pesos Moneda Nacional,Cuba,Honduras
+40,91,1928,55199,1,Pesos Moneda Nacional,Cuba,Honduras
+40,91,1929,34892,1,Pesos Moneda Nacional,Cuba,Honduras
+40,91,1930,70934,1,$,Cuba,Honduras
+40,91,1931,4792,1,,Cuba,Honduras
+40,91,1932,7844,1,,Cuba,Honduras
+40,91,1933,2521,1,,Cuba,Honduras
+40,91,1934,3428,1,,Cuba,Honduras
+40,91,1935,35152,1,,Cuba,Honduras
+40,91,1936,2495,1,,Cuba,Honduras
+40,91,1937,620,1,Pesos $,Cuba,Honduras
+40,91,1938,30760,1,Pesos $,Cuba,Honduras
+40,91,1939,433,1,Pesos $,Cuba,Honduras
+40,91,1940,2248,1,Pesos $,Cuba,Honduras
+40,91,1941,1404,1,Pesos $,Cuba,Honduras
+40,91,1942,1675,1,Pesos $,Cuba,Honduras
+40,91,1943,13691,1,Pesos $,Cuba,Honduras
+40,91,1944,29109,1,Pesos $,Cuba,Honduras
+40,91,1945,58955,1,Pesos $,Cuba,Honduras
+40,91,1946,373497,1,Pesos $,Cuba,Honduras
+40,91,1947,1287244,1,Pesos $,Cuba,Honduras
+40,91,1948,1954501,1,Pesos $,Cuba,Honduras
+40,91,1949,678371,1,Pesos $,Cuba,Honduras
+40,92,1919,15053,1,,Cuba,El Salvador
+40,92,1920,49262,1,,Cuba,El Salvador
+40,92,1921,102007,1,,Cuba,El Salvador
+40,92,1922,487817,1,,Cuba,El Salvador
+40,92,1923,640173,1,,Cuba,El Salvador
+40,92,1924,662816,1,,Cuba,El Salvador
+40,92,1925,445503,1,Pesos Moneda Eua,Cuba,El Salvador
+40,92,1926,208866,1,Pesos Moneda Eua,Cuba,El Salvador
+40,92,1927,303486,1,Pesos Moneda Nacional,Cuba,El Salvador
+40,92,1928,596313,1,Pesos Moneda Nacional,Cuba,El Salvador
+40,92,1929,311252,1,Pesos Moneda Nacional,Cuba,El Salvador
+40,92,1930,158182,1,$,Cuba,El Salvador
+40,92,1931,18514,1,,Cuba,El Salvador
+40,92,1932,4405,1,,Cuba,El Salvador
+40,92,1933,92,1,,Cuba,El Salvador
+40,92,1934,138,1,,Cuba,El Salvador
+40,92,1935,64,1,,Cuba,El Salvador
+40,92,1936,0,1,,Cuba,El Salvador
+40,92,1937,304,1,Pesos $,Cuba,El Salvador
+40,92,1938,2,1,Pesos $,Cuba,El Salvador
+40,92,1939,0,1,Pesos $,Cuba,El Salvador
+40,92,1940,3479,1,Pesos $,Cuba,El Salvador
+40,92,1941,986,1,Pesos $,Cuba,El Salvador
+40,92,1942,488,1,Pesos $,Cuba,El Salvador
+40,92,1943,27839,1,Pesos $,Cuba,El Salvador
+40,92,1944,8,1,Pesos $,Cuba,El Salvador
+40,92,1945,2140,1,Pesos $,Cuba,El Salvador
+40,92,1946,109,1,Pesos $,Cuba,El Salvador
+40,92,1947,125124,1,Pesos $,Cuba,El Salvador
+40,92,1948,123976,1,Pesos $,Cuba,El Salvador
+40,92,1949,1523,1,Pesos $,Cuba,El Salvador
+40,93,1915,8769,,,Cuba,Nicaragua
+40,93,1919,0,1,,Cuba,Nicaragua
+40,93,1920,0,1,,Cuba,Nicaragua
+40,93,1921,67014,1,,Cuba,Nicaragua
+40,93,1922,58422,1,,Cuba,Nicaragua
+40,93,1923,323282,1,,Cuba,Nicaragua
+40,93,1924,183475,1,,Cuba,Nicaragua
+40,93,1925,310869,1,Pesos Moneda Eua,Cuba,Nicaragua
+40,93,1926,63553,1,Pesos Moneda Eua,Cuba,Nicaragua
+40,93,1927,87050,1,Pesos Moneda Nacional,Cuba,Nicaragua
+40,93,1928,126699,1,Pesos Moneda Nacional,Cuba,Nicaragua
+40,93,1929,135448,1,Pesos Moneda Nacional,Cuba,Nicaragua
+40,93,1930,43451,1,$,Cuba,Nicaragua
+40,93,1931,0,1,,Cuba,Nicaragua
+40,93,1932,128,1,,Cuba,Nicaragua
+40,93,1933,126,1,,Cuba,Nicaragua
+40,93,1934,19,1,,Cuba,Nicaragua
+40,93,1935,176,1,,Cuba,Nicaragua
+40,93,1936,304,1,,Cuba,Nicaragua
+40,93,1937,0,1,Pesos $,Cuba,Nicaragua
+40,93,1938,229,1,Pesos $,Cuba,Nicaragua
+40,93,1939,254,1,Pesos $,Cuba,Nicaragua
+40,93,1940,318,1,Pesos $,Cuba,Nicaragua
+40,93,1941,1375,1,Pesos $,Cuba,Nicaragua
+40,93,1942,1700,1,Pesos $,Cuba,Nicaragua
+40,93,1943,7,1,Pesos $,Cuba,Nicaragua
+40,93,1944,30098,1,Pesos $,Cuba,Nicaragua
+40,93,1945,26387,1,Pesos $,Cuba,Nicaragua
+40,93,1946,764260,1,Pesos $,Cuba,Nicaragua
+40,93,1947,140755,1,Pesos $,Cuba,Nicaragua
+40,93,1948,378322,1,Pesos $,Cuba,Nicaragua
+40,93,1949,162579,1,Pesos $,Cuba,Nicaragua
+40,94,1914,856,,,Cuba,Costa Rica
+40,94,1915,1255,,,Cuba,Costa Rica
+40,94,1916,324,,,Cuba,Costa Rica
+40,94,1919,212046,1,,Cuba,Costa Rica
+40,94,1920,211707,1,,Cuba,Costa Rica
+40,94,1921,138191,1,,Cuba,Costa Rica
+40,94,1922,5821,1,,Cuba,Costa Rica
+40,94,1923,52926,1,,Cuba,Costa Rica
+40,94,1924,52795,1,,Cuba,Costa Rica
+40,94,1925,125623,1,Pesos Moneda Eua,Cuba,Costa Rica
+40,94,1926,7068,1,Pesos Moneda Eua,Cuba,Costa Rica
+40,94,1927,15351,1,Pesos Moneda Nacional,Cuba,Costa Rica
+40,94,1928,31282,1,Pesos Moneda Nacional,Cuba,Costa Rica
+40,94,1929,6677,1,Pesos Moneda Nacional,Cuba,Costa Rica
+40,94,1930,3634,1,$,Cuba,Costa Rica
+40,94,1931,442,1,,Cuba,Costa Rica
+40,94,1932,2,1,,Cuba,Costa Rica
+40,94,1933,31,1,,Cuba,Costa Rica
+40,94,1934,2,1,,Cuba,Costa Rica
+40,94,1935,6,1,,Cuba,Costa Rica
+40,94,1936,5,1,,Cuba,Costa Rica
+40,94,1937,108,1,Pesos $,Cuba,Costa Rica
+40,94,1938,434,1,Pesos $,Cuba,Costa Rica
+40,94,1939,1288,1,Pesos $,Cuba,Costa Rica
+40,94,1940,129,1,Pesos $,Cuba,Costa Rica
+40,94,1941,226,1,Pesos $,Cuba,Costa Rica
+40,94,1942,1,1,Pesos $,Cuba,Costa Rica
+40,94,1943,665,1,Pesos $,Cuba,Costa Rica
+40,94,1944,2789,1,Pesos $,Cuba,Costa Rica
+40,94,1945,2339,1,Pesos $,Cuba,Costa Rica
+40,94,1946,4501,1,Pesos $,Cuba,Costa Rica
+40,94,1947,12537,1,Pesos $,Cuba,Costa Rica
+40,94,1948,75848,1,Pesos $,Cuba,Costa Rica
+40,94,1949,23351,1,Pesos $,Cuba,Costa Rica
+40,95,1912,2918,,,Cuba,Panama
+40,95,1914,2320,,,Cuba,Panama
+40,95,1915,7891,,,Cuba,Panama
+40,95,1916,13331,,,Cuba,Panama
+40,95,1919,16644,1,,Cuba,Panama
+40,95,1920,45882,1,,Cuba,Panama
+40,95,1921,5507,1,,Cuba,Panama
+40,95,1922,4222,1,,Cuba,Panama
+40,95,1923,46219,1,,Cuba,Panama
+40,95,1924,48959,1,,Cuba,Panama
+40,95,1925,31935,1,Pesos Moneda Eua,Cuba,Panama
+40,95,1926,40447,1,Pesos Moneda Eua,Cuba,Panama
+40,95,1927,6468,1,Pesos Moneda Nacional,Cuba,Panama
+40,95,1928,10552,1,Pesos Moneda Nacional,Cuba,Panama
+40,95,1929,3351,1,Pesos Moneda Nacional,Cuba,Panama
+40,95,1930,6448,1,$,Cuba,Panama
+40,95,1931,3917,1,,Cuba,Panama
+40,95,1932,738,1,,Cuba,Panama
+40,95,1933,6956,1,,Cuba,Panama
+40,95,1934,1915,1,,Cuba,Panama
+40,95,1935,2174,1,,Cuba,Panama
+40,95,1936,7253,1,,Cuba,Panama
+40,95,1937,7438,1,Pesos $,Cuba,Panama
+40,95,1938,2569,1,Pesos $,Cuba,Panama
+40,95,1939,3239,1,Pesos $,Cuba,Panama
+40,95,1940,1899,1,Pesos $,Cuba,Panama
+40,95,1941,2388,1,Pesos $,Cuba,Panama
+40,95,1942,15678,1,Pesos $,Cuba,Panama
+40,95,1943,9695,1,Pesos $,Cuba,Panama
+40,95,1944,20943,1,Pesos $,Cuba,Panama
+40,95,1945,4677,1,Pesos $,Cuba,Panama
+40,95,1946,21004,1,Pesos $,Cuba,Panama
+40,95,1947,4382,1,Pesos $,Cuba,Panama
+40,95,1948,67363,1,Pesos $,Cuba,Panama
+40,95,1949,2171,1,Pesos $,Cuba,Panama
+40,96,1919,0,1,,Cuba,Panama Canal Zone
+40,96,1920,0,1,,Cuba,Panama Canal Zone
+40,96,1921,0,1,,Cuba,Panama Canal Zone
+40,96,1922,0,1,,Cuba,Panama Canal Zone
+40,96,1923,0,1,,Cuba,Panama Canal Zone
+40,96,1924,0,1,,Cuba,Panama Canal Zone
+40,96,1925,0,1,Pesos Moneda Eua,Cuba,Panama Canal Zone
+40,96,1926,0,1,Pesos Moneda Eua,Cuba,Panama Canal Zone
+40,96,1927,0,1,Pesos Moneda Nacional,Cuba,Panama Canal Zone
+40,96,1928,0,1,Pesos Moneda Nacional,Cuba,Panama Canal Zone
+40,96,1929,0,1,Pesos Moneda Nacional,Cuba,Panama Canal Zone
+40,96,1930,0,1,$,Cuba,Panama Canal Zone
+40,96,1931,0,1,,Cuba,Panama Canal Zone
+40,96,1932,0,1,,Cuba,Panama Canal Zone
+40,96,1933,0,1,,Cuba,Panama Canal Zone
+40,96,1934,0,1,,Cuba,Panama Canal Zone
+40,96,1935,0,1,,Cuba,Panama Canal Zone
+40,96,1936,0,1,,Cuba,Panama Canal Zone
+40,96,1937,0,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1938,709,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1939,0,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1940,0,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1941,0,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1942,8340,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1943,15014,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1944,2115,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1945,4117,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1946,3304,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1947,10276,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1948,25044,1,Pesos $,Cuba,Panama Canal Zone
+40,96,1949,1860,1,Pesos $,Cuba,Panama Canal Zone
+40,100,1912,2563,,,Cuba,Colombia
+40,100,1914,6227,,,Cuba,Colombia
+40,100,1915,34030,,,Cuba,Colombia
+40,100,1916,104334,,,Cuba,Colombia
+40,100,1919,584666,1,,Cuba,Colombia
+40,100,1920,239549,1,,Cuba,Colombia
+40,100,1921,139629,1,,Cuba,Colombia
+40,100,1922,9131,1,,Cuba,Colombia
+40,100,1923,23481,1,,Cuba,Colombia
+40,100,1924,160526,1,,Cuba,Colombia
+40,100,1925,61655,1,Pesos Moneda Eua,Cuba,Colombia
+40,100,1926,21572,1,Pesos Moneda Eua,Cuba,Colombia
+40,100,1927,512684,1,Pesos Moneda Nacional,Cuba,Colombia
+40,100,1928,290422,1,Pesos Moneda Nacional,Cuba,Colombia
+40,100,1929,765707,1,Pesos Moneda Nacional,Cuba,Colombia
+40,100,1930,632781,1,$,Cuba,Colombia
+40,100,1931,210029,1,,Cuba,Colombia
+40,100,1932,41960,1,,Cuba,Colombia
+40,100,1933,16007,1,,Cuba,Colombia
+40,100,1934,16160,1,,Cuba,Colombia
+40,100,1935,16043,1,,Cuba,Colombia
+40,100,1936,62924,1,,Cuba,Colombia
+40,100,1937,83143,1,Pesos $,Cuba,Colombia
+40,100,1938,12016,1,Pesos $,Cuba,Colombia
+40,100,1939,6329,1,Pesos $,Cuba,Colombia
+40,100,1940,10593,1,Pesos $,Cuba,Colombia
+40,100,1941,22856,1,Pesos $,Cuba,Colombia
+40,100,1942,10234,1,Pesos $,Cuba,Colombia
+40,100,1943,50992,1,Pesos $,Cuba,Colombia
+40,100,1944,219848,1,Pesos $,Cuba,Colombia
+40,100,1945,395358,1,Pesos $,Cuba,Colombia
+40,100,1946,2064734,1,Pesos $,Cuba,Colombia
+40,100,1947,263889,1,Pesos $,Cuba,Colombia
+40,100,1948,436865,1,Pesos $,Cuba,Colombia
+40,100,1949,232350,1,Pesos $,Cuba,Colombia
+40,101,1912,18312,,,Cuba,Venezuela
+40,101,1914,17019,,,Cuba,Venezuela
+40,101,1915,27771,,,Cuba,Venezuela
+40,101,1916,25988,,,Cuba,Venezuela
+40,101,1919,617282,1,,Cuba,Venezuela
+40,101,1920,1533183,1,,Cuba,Venezuela
+40,101,1921,662231,1,,Cuba,Venezuela
+40,101,1922,65340,1,,Cuba,Venezuela
+40,101,1923,507882,1,,Cuba,Venezuela
+40,101,1924,662286,1,,Cuba,Venezuela
+40,101,1925,626028,1,Pesos Moneda Eua,Cuba,Venezuela
+40,101,1926,443533,1,Pesos Moneda Eua,Cuba,Venezuela
+40,101,1927,135830,1,Pesos Moneda Nacional,Cuba,Venezuela
+40,101,1928,575591,1,Pesos Moneda Nacional,Cuba,Venezuela
+40,101,1929,1225840,1,Pesos Moneda Nacional,Cuba,Venezuela
+40,101,1930,370427,1,$,Cuba,Venezuela
+40,101,1931,19532,1,,Cuba,Venezuela
+40,101,1932,446485,1,,Cuba,Venezuela
+40,101,1933,161,1,,Cuba,Venezuela
+40,101,1934,783019,1,,Cuba,Venezuela
+40,101,1935,663509,1,,Cuba,Venezuela
+40,101,1936,107899,1,,Cuba,Venezuela
+40,101,1937,355297,1,Pesos $,Cuba,Venezuela
+40,101,1938,242182,1,Pesos $,Cuba,Venezuela
+40,101,1939,246,1,Pesos $,Cuba,Venezuela
+40,101,1940,307899,1,Pesos $,Cuba,Venezuela
+40,101,1941,4301,1,Pesos $,Cuba,Venezuela
+40,101,1942,709,1,Pesos $,Cuba,Venezuela
+40,101,1943,5886,1,Pesos $,Cuba,Venezuela
+40,101,1944,34172,1,Pesos $,Cuba,Venezuela
+40,101,1945,288443,1,Pesos $,Cuba,Venezuela
+40,101,1946,212389,1,Pesos $,Cuba,Venezuela
+40,101,1947,88615,1,Pesos $,Cuba,Venezuela
+40,101,1948,22707,1,Pesos $,Cuba,Venezuela
+40,101,1949,320454,1,Pesos $,Cuba,Venezuela
+40,110,1919,0,1,,Cuba,Guyana
+40,110,1920,0,1,,Cuba,Guyana
+40,110,1921,0,1,,Cuba,Guyana
+40,110,1922,0,1,,Cuba,Guyana
+40,110,1923,0,1,,Cuba,Guyana
+40,110,1924,0,1,,Cuba,Guyana
+40,110,1925,0,1,Pesos Moneda Eua,Cuba,Guyana
+40,110,1926,0,1,Pesos Moneda Eua,Cuba,Guyana
+40,110,1927,0,1,Pesos Moneda Nacional,Cuba,Guyana
+40,110,1928,0,1,Pesos Moneda Nacional,Cuba,Guyana
+40,110,1929,0,1,Pesos Moneda Nacional,Cuba,Guyana
+40,110,1930,0,1,$,Cuba,Guyana
+40,110,1931,0,1,,Cuba,Guyana
+40,110,1932,0,1,,Cuba,Guyana
+40,110,1933,0,1,,Cuba,Guyana
+40,110,1934,0,1,,Cuba,Guyana
+40,110,1935,0,1,,Cuba,Guyana
+40,110,1936,0,1,,Cuba,Guyana
+40,110,1937,16350,1,Pesos $,Cuba,Guyana
+40,110,1938,0,1,Pesos $,Cuba,Guyana
+40,110,1939,0,1,Pesos $,Cuba,Guyana
+40,110,1940,0,1,Pesos $,Cuba,Guyana
+40,110,1941,0,1,Pesos $,Cuba,Guyana
+40,110,1942,0,1,Pesos $,Cuba,Guyana
+40,110,1943,23454,1,Pesos $,Cuba,Guyana
+40,110,1944,11543,1,Pesos $,Cuba,Guyana
+40,110,1945,0,1,Pesos $,Cuba,Guyana
+40,110,1946,15,1,Pesos $,Cuba,Guyana
+40,110,1947,22,1,Pesos $,Cuba,Guyana
+40,110,1948,0,1,Pesos $,Cuba,Guyana
+40,110,1949,1,1,Pesos $,Cuba,Guyana
+40,115,1914,907,,,Cuba,Suriname
+40,115,1919,0,1,,Cuba,Suriname
+40,115,1920,0,1,,Cuba,Suriname
+40,115,1921,0,1,,Cuba,Suriname
+40,115,1922,0,1,,Cuba,Suriname
+40,115,1923,0,1,,Cuba,Suriname
+40,115,1924,0,1,,Cuba,Suriname
+40,115,1925,0,1,Pesos Moneda Eua,Cuba,Suriname
+40,115,1926,0,1,Pesos Moneda Eua,Cuba,Suriname
+40,115,1927,0,1,Pesos Moneda Nacional,Cuba,Suriname
+40,115,1928,0,1,Pesos Moneda Nacional,Cuba,Suriname
+40,115,1929,0,1,Pesos Moneda Nacional,Cuba,Suriname
+40,115,1930,0,1,$,Cuba,Suriname
+40,115,1931,0,1,,Cuba,Suriname
+40,115,1932,0,1,,Cuba,Suriname
+40,115,1933,0,1,,Cuba,Suriname
+40,115,1934,0,1,,Cuba,Suriname
+40,115,1935,0,1,,Cuba,Suriname
+40,115,1936,0,1,,Cuba,Suriname
+40,115,1937,0,1,Pesos $,Cuba,Suriname
+40,115,1938,0,1,Pesos $,Cuba,Suriname
+40,115,1939,0,1,Pesos $,Cuba,Suriname
+40,115,1940,0,1,Pesos $,Cuba,Suriname
+40,115,1941,0,1,Pesos $,Cuba,Suriname
+40,115,1942,0,1,Pesos $,Cuba,Suriname
+40,115,1943,0,1,Pesos $,Cuba,Suriname
+40,115,1944,0,1,Pesos $,Cuba,Suriname
+40,115,1945,58,1,Pesos $,Cuba,Suriname
+40,115,1946,0,1,Pesos $,Cuba,Suriname
+40,115,1947,0,1,Pesos $,Cuba,Suriname
+40,115,1948,0,1,Pesos $,Cuba,Suriname
+40,115,1949,3786,1,Pesos $,Cuba,Suriname
+40,120,1919,0,1,,Cuba,French Guiana
+40,120,1920,0,1,,Cuba,French Guiana
+40,120,1921,114076,1,,Cuba,French Guiana
+40,120,1922,0,1,,Cuba,French Guiana
+40,120,1923,202,1,,Cuba,French Guiana
+40,120,1924,0,1,,Cuba,French Guiana
+40,120,1925,0,1,Pesos Moneda Eua,Cuba,French Guiana
+40,120,1926,0,1,Pesos Moneda Eua,Cuba,French Guiana
+40,120,1927,0,1,Pesos Moneda Nacional,Cuba,French Guiana
+40,120,1928,0,1,Pesos Moneda Nacional,Cuba,French Guiana
+40,120,1929,0,1,Pesos Moneda Nacional,Cuba,French Guiana
+40,120,1930,0,1,$,Cuba,French Guiana
+40,120,1931,0,1,,Cuba,French Guiana
+40,120,1932,0,1,,Cuba,French Guiana
+40,120,1933,23,1,,Cuba,French Guiana
+40,120,1934,0,1,,Cuba,French Guiana
+40,120,1935,0,1,,Cuba,French Guiana
+40,120,1936,0,1,,Cuba,French Guiana
+40,120,1937,0,1,Pesos $,Cuba,French Guiana
+40,120,1938,0,1,Pesos $,Cuba,French Guiana
+40,120,1939,0,1,Pesos $,Cuba,French Guiana
+40,120,1940,0,1,Pesos $,Cuba,French Guiana
+40,120,1941,0,1,Pesos $,Cuba,French Guiana
+40,120,1942,0,1,Pesos $,Cuba,French Guiana
+40,120,1943,0,1,Pesos $,Cuba,French Guiana
+40,120,1944,0,1,Pesos $,Cuba,French Guiana
+40,120,1945,0,1,Pesos $,Cuba,French Guiana
+40,120,1946,0,1,Pesos $,Cuba,French Guiana
+40,120,1947,0,1,Pesos $,Cuba,French Guiana
+40,120,1948,518,1,Pesos $,Cuba,French Guiana
+40,120,1949,0,1,Pesos $,Cuba,French Guiana
+40,130,1912,25128,,,Cuba,Ecuador
+40,130,1914,57103,,,Cuba,Ecuador
+40,130,1915,132660,,,Cuba,Ecuador
+40,130,1916,321501,,,Cuba,Ecuador
+40,130,1919,357097,1,,Cuba,Ecuador
+40,130,1920,342158,1,,Cuba,Ecuador
+40,130,1921,194328,1,,Cuba,Ecuador
+40,130,1922,75205,1,,Cuba,Ecuador
+40,130,1923,196847,1,,Cuba,Ecuador
+40,130,1924,136056,1,,Cuba,Ecuador
+40,130,1925,267332,1,Pesos Moneda Eua,Cuba,Ecuador
+40,130,1926,231139,1,Pesos Moneda Eua,Cuba,Ecuador
+40,130,1927,347657,1,Pesos Moneda Nacional,Cuba,Ecuador
+40,130,1928,280170,1,Pesos Moneda Nacional,Cuba,Ecuador
+40,130,1929,365125,1,Pesos Moneda Nacional,Cuba,Ecuador
+40,130,1930,176759,1,$,Cuba,Ecuador
+40,130,1931,111257,1,,Cuba,Ecuador
+40,130,1932,76797,1,,Cuba,Ecuador
+40,130,1933,46723,1,,Cuba,Ecuador
+40,130,1934,79315,1,,Cuba,Ecuador
+40,130,1935,96650,1,,Cuba,Ecuador
+40,130,1936,99807,1,,Cuba,Ecuador
+40,130,1937,82166,1,Pesos $,Cuba,Ecuador
+40,130,1938,88067,1,Pesos $,Cuba,Ecuador
+40,130,1939,72566,1,Pesos $,Cuba,Ecuador
+40,130,1940,79493,1,Pesos $,Cuba,Ecuador
+40,130,1941,292026,1,Pesos $,Cuba,Ecuador
+40,130,1942,1539568,1,Pesos $,Cuba,Ecuador
+40,130,1943,5911337,1,Pesos $,Cuba,Ecuador
+40,130,1944,5647824,1,Pesos $,Cuba,Ecuador
+40,130,1945,4468088,1,Pesos $,Cuba,Ecuador
+40,130,1946,5132306,1,Pesos $,Cuba,Ecuador
+40,130,1947,911516,1,Pesos $,Cuba,Ecuador
+40,130,1948,2608781,1,Pesos $,Cuba,Ecuador
+40,130,1949,908442,1,Pesos $,Cuba,Ecuador
+40,135,1912,2106,,,Cuba,Peru
+40,135,1914,2619,,,Cuba,Peru
+40,135,1915,4864,,,Cuba,Peru
+40,135,1916,9602,,,Cuba,Peru
+40,135,1919,4387,1,,Cuba,Peru
+40,135,1920,24633,1,,Cuba,Peru
+40,135,1921,7382,1,,Cuba,Peru
+40,135,1922,723915,1,,Cuba,Peru
+40,135,1923,1046150,1,,Cuba,Peru
+40,135,1924,1780,1,,Cuba,Peru
+40,135,1925,9494,1,Pesos Moneda Eua,Cuba,Peru
+40,135,1926,74297,1,Pesos Moneda Eua,Cuba,Peru
+40,135,1927,269603,1,Pesos Moneda Nacional,Cuba,Peru
+40,135,1928,72277,1,Pesos Moneda Nacional,Cuba,Peru
+40,135,1929,90681,1,Pesos Moneda Nacional,Cuba,Peru
+40,135,1930,71889,1,$,Cuba,Peru
+40,135,1931,31858,1,,Cuba,Peru
+40,135,1932,596,1,,Cuba,Peru
+40,135,1933,4766,1,,Cuba,Peru
+40,135,1934,0,1,,Cuba,Peru
+40,135,1935,2178,1,,Cuba,Peru
+40,135,1936,102200,1,,Cuba,Peru
+40,135,1937,11304,1,Pesos $,Cuba,Peru
+40,135,1938,7477,1,Pesos $,Cuba,Peru
+40,135,1939,16028,1,Pesos $,Cuba,Peru
+40,135,1940,17092,1,Pesos $,Cuba,Peru
+40,135,1941,24492,1,Pesos $,Cuba,Peru
+40,135,1942,202462,1,Pesos $,Cuba,Peru
+40,135,1943,937062,1,Pesos $,Cuba,Peru
+40,135,1944,676155,1,Pesos $,Cuba,Peru
+40,135,1945,571759,1,Pesos $,Cuba,Peru
+40,135,1946,901176,1,Pesos $,Cuba,Peru
+40,135,1947,303467,1,Pesos $,Cuba,Peru
+40,135,1948,13633,1,Pesos $,Cuba,Peru
+40,135,1949,4984,1,Pesos $,Cuba,Peru
+40,140,1912,6172,,,Cuba,Brazil
+40,140,1914,959,,,Cuba,Brazil
+40,140,1915,16393,,,Cuba,Brazil
+40,140,1916,66955,,,Cuba,Brazil
+40,140,1919,106291,1,,Cuba,Brazil
+40,140,1920,1362218,1,,Cuba,Brazil
+40,140,1921,564831,1,,Cuba,Brazil
+40,140,1922,115214,1,,Cuba,Brazil
+40,140,1923,424121,1,,Cuba,Brazil
+40,140,1924,1307478,1,,Cuba,Brazil
+40,140,1925,1135512,1,Pesos Moneda Eua,Cuba,Brazil
+40,140,1926,161291,1,Pesos Moneda Eua,Cuba,Brazil
+40,140,1927,487075,1,Pesos Moneda Nacional,Cuba,Brazil
+40,140,1928,305493,1,Pesos Moneda Nacional,Cuba,Brazil
+40,140,1929,1019569,1,Pesos Moneda Nacional,Cuba,Brazil
+40,140,1930,1058971,1,$,Cuba,Brazil
+40,140,1931,57489,1,,Cuba,Brazil
+40,140,1932,7915,1,,Cuba,Brazil
+40,140,1933,7392,1,,Cuba,Brazil
+40,140,1934,11593,1,,Cuba,Brazil
+40,140,1935,19222,1,,Cuba,Brazil
+40,140,1936,20412,1,,Cuba,Brazil
+40,140,1937,34519,1,Pesos $,Cuba,Brazil
+40,140,1938,17270,1,Pesos $,Cuba,Brazil
+40,140,1939,16818,1,Pesos $,Cuba,Brazil
+40,140,1940,80723,1,Pesos $,Cuba,Brazil
+40,140,1941,952388,1,Pesos $,Cuba,Brazil
+40,140,1942,317784,1,Pesos $,Cuba,Brazil
+40,140,1943,400223,1,Pesos $,Cuba,Brazil
+40,140,1944,462485,1,Pesos $,Cuba,Brazil
+40,140,1945,596220,1,Pesos $,Cuba,Brazil
+40,140,1946,3238036,1,Pesos $,Cuba,Brazil
+40,140,1947,3035763,1,Pesos $,Cuba,Brazil
+40,140,1948,2560135,1,Pesos $,Cuba,Brazil
+40,140,1949,371098,1,Pesos $,Cuba,Brazil
+40,145,1916,543,,,Cuba,Bolivia
+40,145,1919,0,1,,Cuba,Bolivia
+40,145,1920,0,1,,Cuba,Bolivia
+40,145,1921,0,1,,Cuba,Bolivia
+40,145,1922,0,1,,Cuba,Bolivia
+40,145,1923,0,1,,Cuba,Bolivia
+40,145,1924,0,1,,Cuba,Bolivia
+40,145,1925,6690,1,Pesos Moneda Eua,Cuba,Bolivia
+40,145,1926,0,1,Pesos Moneda Eua,Cuba,Bolivia
+40,145,1927,0,1,Pesos Moneda Nacional,Cuba,Bolivia
+40,145,1928,0,1,Pesos Moneda Nacional,Cuba,Bolivia
+40,145,1929,0,1,Pesos Moneda Nacional,Cuba,Bolivia
+40,145,1930,0,1,$,Cuba,Bolivia
+40,145,1931,0,1,,Cuba,Bolivia
+40,145,1932,0,1,,Cuba,Bolivia
+40,145,1933,16,1,,Cuba,Bolivia
+40,145,1934,0,1,,Cuba,Bolivia
+40,145,1935,151,1,,Cuba,Bolivia
+40,145,1936,0,1,,Cuba,Bolivia
+40,145,1937,0,1,Pesos $,Cuba,Bolivia
+40,145,1938,12,1,Pesos $,Cuba,Bolivia
+40,145,1939,0,1,Pesos $,Cuba,Bolivia
+40,145,1940,0,1,Pesos $,Cuba,Bolivia
+40,145,1941,0,1,Pesos $,Cuba,Bolivia
+40,145,1942,0,1,Pesos $,Cuba,Bolivia
+40,145,1943,0,1,Pesos $,Cuba,Bolivia
+40,145,1944,0,1,Pesos $,Cuba,Bolivia
+40,145,1945,83,1,Pesos $,Cuba,Bolivia
+40,145,1946,1961,1,Pesos $,Cuba,Bolivia
+40,145,1947,1300,1,Pesos $,Cuba,Bolivia
+40,145,1948,2122,1,Pesos $,Cuba,Bolivia
+40,145,1949,6579,1,Pesos $,Cuba,Bolivia
+40,150,1919,0,1,,Cuba,Paraguay
+40,150,1920,0,1,,Cuba,Paraguay
+40,150,1921,0,1,,Cuba,Paraguay
+40,150,1922,0,1,,Cuba,Paraguay
+40,150,1923,0,1,,Cuba,Paraguay
+40,150,1924,0,1,,Cuba,Paraguay
+40,150,1925,0,1,Pesos Moneda Eua,Cuba,Paraguay
+40,150,1926,0,1,Pesos Moneda Eua,Cuba,Paraguay
+40,150,1927,0,1,Pesos Moneda Nacional,Cuba,Paraguay
+40,150,1928,0,1,Pesos Moneda Nacional,Cuba,Paraguay
+40,150,1929,111045,1,Pesos Moneda Nacional,Cuba,Paraguay
+40,150,1930,89600,1,$,Cuba,Paraguay
+40,150,1931,2245,1,,Cuba,Paraguay
+40,150,1932,7155,1,,Cuba,Paraguay
+40,150,1933,2511,1,,Cuba,Paraguay
+40,150,1934,8811,1,,Cuba,Paraguay
+40,150,1935,34370,1,,Cuba,Paraguay
+40,150,1936,6923,1,,Cuba,Paraguay
+40,150,1937,13650,1,Pesos $,Cuba,Paraguay
+40,150,1938,23932,1,Pesos $,Cuba,Paraguay
+40,150,1939,16376,1,Pesos $,Cuba,Paraguay
+40,150,1940,3107,1,Pesos $,Cuba,Paraguay
+40,150,1941,13569,1,Pesos $,Cuba,Paraguay
+40,150,1942,0,1,Pesos $,Cuba,Paraguay
+40,150,1943,265,1,Pesos $,Cuba,Paraguay
+40,150,1944,0,1,Pesos $,Cuba,Paraguay
+40,150,1945,0,1,Pesos $,Cuba,Paraguay
+40,150,1946,6236,1,Pesos $,Cuba,Paraguay
+40,150,1947,7362,1,Pesos $,Cuba,Paraguay
+40,150,1948,104995,1,Pesos $,Cuba,Paraguay
+40,150,1949,221516,1,Pesos $,Cuba,Paraguay
+40,155,1914,57776,,,Cuba,Chile
+40,155,1915,68599,,,Cuba,Chile
+40,155,1916,170253,,,Cuba,Chile
+40,155,1919,1322526,1,,Cuba,Chile
+40,155,1920,227110,1,,Cuba,Chile
+40,155,1921,31501,1,,Cuba,Chile
+40,155,1922,300993,1,,Cuba,Chile
+40,155,1923,399846,1,,Cuba,Chile
+40,155,1924,654808,1,,Cuba,Chile
+40,155,1925,316852,1,Pesos Moneda Eua,Cuba,Chile
+40,155,1926,394194,1,Pesos Moneda Eua,Cuba,Chile
+40,155,1927,543116,1,Pesos Moneda Nacional,Cuba,Chile
+40,155,1928,601747,1,Pesos Moneda Nacional,Cuba,Chile
+40,155,1929,1330074,1,Pesos Moneda Nacional,Cuba,Chile
+40,155,1930,1238311,1,$,Cuba,Chile
+40,155,1931,410047,1,,Cuba,Chile
+40,155,1932,229709,1,,Cuba,Chile
+40,155,1933,360855,1,,Cuba,Chile
+40,155,1934,529006,1,,Cuba,Chile
+40,155,1935,893927,1,,Cuba,Chile
+40,155,1936,965121,1,,Cuba,Chile
+40,155,1937,1209545,1,Pesos $,Cuba,Chile
+40,155,1938,991084,1,Pesos $,Cuba,Chile
+40,155,1939,588049,1,Pesos $,Cuba,Chile
+40,155,1940,710615,1,Pesos $,Cuba,Chile
+40,155,1941,1090952,1,Pesos $,Cuba,Chile
+40,155,1942,1949814,1,Pesos $,Cuba,Chile
+40,155,1943,3521935,1,Pesos $,Cuba,Chile
+40,155,1944,4152208,1,Pesos $,Cuba,Chile
+40,155,1945,5278314,1,Pesos $,Cuba,Chile
+40,155,1946,6524402,1,Pesos $,Cuba,Chile
+40,155,1947,5153639,1,Pesos $,Cuba,Chile
+40,155,1948,6091057,1,Pesos $,Cuba,Chile
+40,155,1949,4267246,1,Pesos $,Cuba,Chile
+40,160,1912,1537270,,,Cuba,Argentina
+40,160,1914,971587,,,Cuba,Argentina
+40,160,1915,1009072,,,Cuba,Argentina
+40,160,1916,701546,,,Cuba,Argentina
+40,160,1919,1228179,1,,Cuba,Argentina
+40,160,1920,2515835,1,,Cuba,Argentina
+40,160,1921,635236,1,,Cuba,Argentina
+40,160,1922,772223,1,,Cuba,Argentina
+40,160,1923,782444,1,,Cuba,Argentina
+40,160,1924,1744222,1,,Cuba,Argentina
+40,160,1925,1779956,1,Pesos Moneda Eua,Cuba,Argentina
+40,160,1926,1483884,1,Pesos Moneda Eua,Cuba,Argentina
+40,160,1927,1454697,1,Pesos Moneda Nacional,Cuba,Argentina
+40,160,1928,851270,1,Pesos Moneda Nacional,Cuba,Argentina
+40,160,1929,659712,1,Pesos Moneda Nacional,Cuba,Argentina
+40,160,1930,347159,1,$,Cuba,Argentina
+40,160,1931,145536,1,,Cuba,Argentina
+40,160,1932,73925,1,,Cuba,Argentina
+40,160,1933,80856,1,,Cuba,Argentina
+40,160,1934,253195,1,,Cuba,Argentina
+40,160,1935,474185,1,,Cuba,Argentina
+40,160,1936,315646,1,,Cuba,Argentina
+40,160,1937,403720,1,Pesos $,Cuba,Argentina
+40,160,1938,213376,1,Pesos $,Cuba,Argentina
+40,160,1939,224584,1,Pesos $,Cuba,Argentina
+40,160,1940,306490,1,Pesos $,Cuba,Argentina
+40,160,1941,866188,1,Pesos $,Cuba,Argentina
+40,160,1942,3495217,1,Pesos $,Cuba,Argentina
+40,160,1943,7442544,1,Pesos $,Cuba,Argentina
+40,160,1944,6394098,1,Pesos $,Cuba,Argentina
+40,160,1945,4734983,1,Pesos $,Cuba,Argentina
+40,160,1946,5081491,1,Pesos $,Cuba,Argentina
+40,160,1947,2517009,1,Pesos $,Cuba,Argentina
+40,160,1948,2007232,1,Pesos $,Cuba,Argentina
+40,160,1949,636262,1,Pesos $,Cuba,Argentina
+40,165,1912,2668912,,,Cuba,Uruguay
+40,165,1914,1439362,,,Cuba,Uruguay
+40,165,1915,1566545,,,Cuba,Uruguay
+40,165,1916,4488538,,,Cuba,Uruguay
+40,165,1919,5176008,1,,Cuba,Uruguay
+40,165,1920,9917395,1,,Cuba,Uruguay
+40,165,1921,7285377,1,,Cuba,Uruguay
+40,165,1922,4134931,1,,Cuba,Uruguay
+40,165,1923,4796032,1,,Cuba,Uruguay
+40,165,1924,5332643,1,,Cuba,Uruguay
+40,165,1925,5622592,1,Pesos Moneda Eua,Cuba,Uruguay
+40,165,1926,4031424,1,Pesos Moneda Eua,Cuba,Uruguay
+40,165,1927,3910785,1,Pesos Moneda Nacional,Cuba,Uruguay
+40,165,1928,2933064,1,Pesos Moneda Nacional,Cuba,Uruguay
+40,165,1929,1663995,1,Pesos Moneda Nacional,Cuba,Uruguay
+40,165,1930,1001198,1,$,Cuba,Uruguay
+40,165,1931,416565,1,,Cuba,Uruguay
+40,165,1932,13812,1,,Cuba,Uruguay
+40,165,1933,0,1,,Cuba,Uruguay
+40,165,1934,0,1,,Cuba,Uruguay
+40,165,1935,15756,1,,Cuba,Uruguay
+40,165,1936,4041,1,,Cuba,Uruguay
+40,165,1937,8037,1,Pesos $,Cuba,Uruguay
+40,165,1938,20239,1,Pesos $,Cuba,Uruguay
+40,165,1939,24827,1,Pesos $,Cuba,Uruguay
+40,165,1940,24479,1,Pesos $,Cuba,Uruguay
+40,165,1941,109548,1,Pesos $,Cuba,Uruguay
+40,165,1942,49652,1,Pesos $,Cuba,Uruguay
+40,165,1943,36970,1,Pesos $,Cuba,Uruguay
+40,165,1944,147640,1,Pesos $,Cuba,Uruguay
+40,165,1945,442255,1,Pesos $,Cuba,Uruguay
+40,165,1946,545854,1,Pesos $,Cuba,Uruguay
+40,165,1947,2551840,1,Pesos $,Cuba,Uruguay
+40,165,1948,3218039,1,Pesos $,Cuba,Uruguay
+40,165,1949,566202,1,Pesos $,Cuba,Uruguay
+40,200,1912,15397649,,,Cuba,United Kingdom
+40,200,1914,12379048,,,Cuba,United Kingdom
+40,200,1915,15287998,,,Cuba,United Kingdom
+40,200,1916,19230658,,,Cuba,United Kingdom
+40,200,1919,8816154,1,,Cuba,United Kingdom
+40,200,1920,17703999,1,,Cuba,United Kingdom
+40,200,1921,17067867,1,,Cuba,United Kingdom
+40,200,1922,9106060,1,,Cuba,United Kingdom
+40,200,1923,12970503,1,,Cuba,United Kingdom
+40,200,1924,12085632,1,,Cuba,United Kingdom
+40,200,1925,12028600,1,Pesos Moneda Eua,Cuba,United Kingdom
+40,200,1926,12473886,1,Pesos Moneda Eua,Cuba,United Kingdom
+40,200,1927,11696994,1,Pesos Moneda Nacional,Cuba,United Kingdom
+40,200,1928,10428053,1,Pesos Moneda Nacional,Cuba,United Kingdom
+40,200,1929,12020591,1,Pesos Moneda Nacional,Cuba,United Kingdom
+40,200,1930,8860142,1,$,Cuba,United Kingdom
+40,200,1931,3976361,1,,Cuba,United Kingdom
+40,200,1932,2985266,1,,Cuba,United Kingdom
+40,200,1933,2428839,1,,Cuba,United Kingdom
+40,200,1934,3941149,1,,Cuba,United Kingdom
+40,200,1935,4105043,1,,Cuba,United Kingdom
+40,200,1936,5096134,1,,Cuba,United Kingdom
+40,200,1937,6321328,1,Pesos $,Cuba,United Kingdom
+40,200,1938,4490069,1,Pesos $,Cuba,United Kingdom
+40,200,1939,3065102,1,Pesos $,Cuba,United Kingdom
+40,200,1940,3538959,1,Pesos $,Cuba,United Kingdom
+40,200,1941,3416295,1,Pesos $,Cuba,United Kingdom
+40,200,1942,2842976,1,Pesos $,Cuba,United Kingdom
+40,200,1943,4255034,1,Pesos $,Cuba,United Kingdom
+40,200,1944,2517945,1,Pesos $,Cuba,United Kingdom
+40,200,1945,2777741,1,Pesos $,Cuba,United Kingdom
+40,200,1946,4272455,1,Pesos $,Cuba,United Kingdom
+40,200,1947,6914810,1,Pesos $,Cuba,United Kingdom
+40,200,1948,8410079,1,Pesos $,Cuba,United Kingdom
+40,200,1949,6484138,1,Pesos $,Cuba,United Kingdom
+40,205,1912,1159387,,,Cuba,Ireland
+40,205,1914,1011292,,,Cuba,Ireland
+40,205,1915,936324,,,Cuba,Ireland
+40,205,1916,1147478,,,Cuba,Ireland
+40,205,1919,677399,1,,Cuba,Ireland
+40,205,1920,1897741,1,,Cuba,Ireland
+40,205,1921,635702,1,,Cuba,Ireland
+40,205,1922,141354,1,,Cuba,Ireland
+40,205,1923,694286,1,,Cuba,Ireland
+40,205,1924,856440,1,,Cuba,Ireland
+40,205,1925,920671,1,Pesos Moneda Eua,Cuba,Ireland
+40,205,1926,979602,1,Pesos Moneda Eua,Cuba,Ireland
+40,205,1927,978719,1,Pesos Moneda Nacional,Cuba,Ireland
+40,205,1928,716940,1,Pesos Moneda Nacional,Cuba,Ireland
+40,205,1929,876639,1,Pesos Moneda Nacional,Cuba,Ireland
+40,205,1930,697810,1,$,Cuba,Ireland
+40,205,1931,243430,1,,Cuba,Ireland
+40,205,1932,163264,1,,Cuba,Ireland
+40,205,1933,219759,1,,Cuba,Ireland
+40,205,1934,517115,1,,Cuba,Ireland
+40,205,1935,667020,1,,Cuba,Ireland
+40,205,1936,105624,1,,Cuba,Ireland
+40,205,1937,12604,1,Pesos $,Cuba,Ireland
+40,205,1938,139712,1,Pesos $,Cuba,Ireland
+40,205,1939,557,1,Pesos $,Cuba,Ireland
+40,205,1940,853,1,Pesos $,Cuba,Ireland
+40,205,1941,238,1,Pesos $,Cuba,Ireland
+40,205,1942,0,1,Pesos $,Cuba,Ireland
+40,205,1943,0,1,Pesos $,Cuba,Ireland
+40,205,1944,12,1,Pesos $,Cuba,Ireland
+40,205,1945,766,1,Pesos $,Cuba,Ireland
+40,205,1946,11618,1,Pesos $,Cuba,Ireland
+40,205,1947,45640,1,Pesos $,Cuba,Ireland
+40,205,1948,146656,1,Pesos $,Cuba,Ireland
+40,205,1949,53472,1,Pesos $,Cuba,Ireland
+40,210,1912,566044,,,Cuba,Netherlands
+40,210,1914,952307,,,Cuba,Netherlands
+40,210,1915,1717178,,,Cuba,Netherlands
+40,210,1916,754229,,,Cuba,Netherlands
+40,210,1919,501349,1,,Cuba,Netherlands
+40,210,1920,1823203,1,,Cuba,Netherlands
+40,210,1921,2008905,1,,Cuba,Netherlands
+40,210,1922,1361876,1,,Cuba,Netherlands
+40,210,1923,1840168,1,,Cuba,Netherlands
+40,210,1924,2418893,1,,Cuba,Netherlands
+40,210,1925,2459511,1,Pesos Moneda Eua,Cuba,Netherlands
+40,210,1926,2263002,1,Pesos Moneda Eua,Cuba,Netherlands
+40,210,1927,2888245,1,Pesos Moneda Nacional,Cuba,Netherlands
+40,210,1928,2403181,1,Pesos Moneda Nacional,Cuba,Netherlands
+40,210,1929,2853954,1,Pesos Moneda Nacional,Cuba,Netherlands
+40,210,1930,2554949,1,$,Cuba,Netherlands
+40,210,1931,1284910,1,,Cuba,Netherlands
+40,210,1932,761454,1,,Cuba,Netherlands
+40,210,1933,518071,1,,Cuba,Netherlands
+40,210,1934,541685,1,,Cuba,Netherlands
+40,210,1935,1147222,1,,Cuba,Netherlands
+40,210,1936,1328518,1,,Cuba,Netherlands
+40,210,1937,1043476,1,Pesos $,Cuba,Netherlands
+40,210,1938,600398,1,Pesos $,Cuba,Netherlands
+40,210,1939,615190,1,Pesos $,Cuba,Netherlands
+40,210,1940,276797,1,Pesos $,Cuba,Netherlands
+40,210,1941,8420,1,Pesos $,Cuba,Netherlands
+40,210,1942,20,1,Pesos $,Cuba,Netherlands
+40,210,1943,0,1,Pesos $,Cuba,Netherlands
+40,210,1944,0,1,Pesos $,Cuba,Netherlands
+40,210,1945,27,1,Pesos $,Cuba,Netherlands
+40,210,1946,190219,1,Pesos $,Cuba,Netherlands
+40,210,1947,571448,1,Pesos $,Cuba,Netherlands
+40,210,1948,774156,1,Pesos $,Cuba,Netherlands
+40,210,1949,1093387,1,Pesos $,Cuba,Netherlands
+40,211,1912,2456308,,,Cuba,Belgium
+40,211,1914,1212758,,,Cuba,Belgium
+40,211,1915,29302,,,Cuba,Belgium
+40,211,1916,2909,,,Cuba,Belgium
+40,211,1919,60678,1,,Cuba,Belgium
+40,211,1920,344164,1,,Cuba,Belgium
+40,211,1921,614008,1,,Cuba,Belgium
+40,211,1922,762175,1,,Cuba,Belgium
+40,211,1923,1168293,1,,Cuba,Belgium
+40,211,1924,3105626,1,,Cuba,Belgium
+40,211,1925,3718278,1,Pesos Moneda Eua,Cuba,Belgium
+40,211,1926,3633623,1,Pesos Moneda Eua,Cuba,Belgium
+40,211,1927,3547304,1,Pesos Moneda Nacional,Cuba,Belgium
+40,211,1928,2930518,1,Pesos Moneda Nacional,Cuba,Belgium
+40,211,1929,3834360,1,Pesos Moneda Nacional,Cuba,Belgium
+40,211,1930,2324777,1,$,Cuba,Belgium
+40,211,1931,1004956,1,,Cuba,Belgium
+40,211,1932,732320,1,,Cuba,Belgium
+40,211,1933,647268,1,,Cuba,Belgium
+40,211,1934,790226,1,,Cuba,Belgium
+40,211,1935,824486,1,,Cuba,Belgium
+40,211,1936,1025108,1,,Cuba,Belgium
+40,211,1937,1825476,1,Pesos $,Cuba,Belgium
+40,211,1938,1321847,1,Pesos $,Cuba,Belgium
+40,211,1939,1094483,1,Pesos $,Cuba,Belgium
+40,211,1940,575557,1,Pesos $,Cuba,Belgium
+40,211,1941,25561,1,Pesos $,Cuba,Belgium
+40,211,1942,3086,1,Pesos $,Cuba,Belgium
+40,211,1943,4938,1,Pesos $,Cuba,Belgium
+40,211,1944,150,1,Pesos $,Cuba,Belgium
+40,211,1945,2,1,Pesos $,Cuba,Belgium
+40,211,1946,681496,1,Pesos $,Cuba,Belgium
+40,211,1947,2148095,1,Pesos $,Cuba,Belgium
+40,211,1948,3362788,1,Pesos $,Cuba,Belgium
+40,211,1949,3776847,1,Pesos $,Cuba,Belgium
+40,212,1919,0,1,,Cuba,Luxembourg
+40,212,1920,0,1,,Cuba,Luxembourg
+40,212,1921,0,1,,Cuba,Luxembourg
+40,212,1922,0,1,,Cuba,Luxembourg
+40,212,1923,0,1,,Cuba,Luxembourg
+40,212,1924,0,1,,Cuba,Luxembourg
+40,212,1925,0,1,Pesos Moneda Eua,Cuba,Luxembourg
+40,212,1926,0,1,Pesos Moneda Eua,Cuba,Luxembourg
+40,212,1927,0,1,Pesos Moneda Nacional,Cuba,Luxembourg
+40,212,1928,0,1,Pesos Moneda Nacional,Cuba,Luxembourg
+40,212,1929,0,1,Pesos Moneda Nacional,Cuba,Luxembourg
+40,212,1930,0,1,$,Cuba,Luxembourg
+40,212,1931,0,1,,Cuba,Luxembourg
+40,212,1932,586,1,,Cuba,Luxembourg
+40,212,1933,0,1,,Cuba,Luxembourg
+40,212,1934,3226,1,,Cuba,Luxembourg
+40,212,1935,5022,1,,Cuba,Luxembourg
+40,212,1936,51679,1,,Cuba,Luxembourg
+40,212,1937,157307,1,Pesos $,Cuba,Luxembourg
+40,212,1938,41192,1,Pesos $,Cuba,Luxembourg
+40,212,1939,443,1,Pesos $,Cuba,Luxembourg
+40,212,1940,0,1,Pesos $,Cuba,Luxembourg
+40,212,1941,0,1,Pesos $,Cuba,Luxembourg
+40,212,1942,0,1,Pesos $,Cuba,Luxembourg
+40,212,1943,0,1,Pesos $,Cuba,Luxembourg
+40,212,1944,0,1,Pesos $,Cuba,Luxembourg
+40,212,1945,0,1,Pesos $,Cuba,Luxembourg
+40,212,1946,0,1,Pesos $,Cuba,Luxembourg
+40,212,1947,0,1,Pesos $,Cuba,Luxembourg
+40,212,1948,60771,1,Pesos $,Cuba,Luxembourg
+40,212,1949,161239,1,Pesos $,Cuba,Luxembourg
+40,220,1912,7706064,,,Cuba,France
+40,220,1914,4731822,,,Cuba,France
+40,220,1915,5197110,,,Cuba,France
+40,220,1916,5930905,,,Cuba,France
+40,220,1919,9929253,1,,Cuba,France
+40,220,1920,16879245,1,,Cuba,France
+40,220,1921,9356096,1,,Cuba,France
+40,220,1922,5957541,1,,Cuba,France
+40,220,1923,8389827,1,,Cuba,France
+40,220,1924,9508246,1,,Cuba,France
+40,220,1925,11327784,1,Pesos Moneda Eua,Cuba,France
+40,220,1926,11873427,1,Pesos Moneda Eua,Cuba,France
+40,220,1927,12459527,1,Pesos Moneda Nacional,Cuba,France
+40,220,1928,9623518,1,Pesos Moneda Nacional,Cuba,France
+40,220,1929,8989712,1,Pesos Moneda Nacional,Cuba,France
+40,220,1930,5464805,1,$,Cuba,France
+40,220,1931,2848997,1,,Cuba,France
+40,220,1932,1688186,1,,Cuba,France
+40,220,1933,1250919,1,,Cuba,France
+40,220,1934,1455673,1,,Cuba,France
+40,220,1935,2436548,1,,Cuba,France
+40,220,1936,2604561,1,,Cuba,France
+40,220,1937,2897195,1,Pesos $,Cuba,France
+40,220,1938,2777771,1,Pesos $,Cuba,France
+40,220,1939,2272985,1,Pesos $,Cuba,France
+40,220,1940,1432789,1,Pesos $,Cuba,France
+40,220,1941,41510,1,Pesos $,Cuba,France
+40,220,1942,6837,1,Pesos $,Cuba,France
+40,220,1943,2032,1,Pesos $,Cuba,France
+40,220,1944,266,1,Pesos $,Cuba,France
+40,220,1945,0,1,Pesos $,Cuba,France
+40,220,1946,577402,1,Pesos $,Cuba,France
+40,220,1947,1410357,1,Pesos $,Cuba,France
+40,220,1948,2051108,1,Pesos $,Cuba,France
+40,220,1949,1720822,1,Pesos $,Cuba,France
+40,225,1912,303125,,,Cuba,Switzerland
+40,225,1914,423987,,,Cuba,Switzerland
+40,225,1915,129883,,,Cuba,Switzerland
+40,225,1916,440405,,,Cuba,Switzerland
+40,225,1919,179846,1,,Cuba,Switzerland
+40,225,1920,708273,1,,Cuba,Switzerland
+40,225,1921,794401,1,,Cuba,Switzerland
+40,225,1922,349594,1,,Cuba,Switzerland
+40,225,1923,418997,1,,Cuba,Switzerland
+40,225,1924,678148,1,,Cuba,Switzerland
+40,225,1925,1465262,1,Pesos Moneda Eua,Cuba,Switzerland
+40,225,1926,861953,1,Pesos Moneda Eua,Cuba,Switzerland
+40,225,1927,800030,1,Pesos Moneda Nacional,Cuba,Switzerland
+40,225,1928,663984,1,Pesos Moneda Nacional,Cuba,Switzerland
+40,225,1929,886922,1,Pesos Moneda Nacional,Cuba,Switzerland
+40,225,1930,576186,1,$,Cuba,Switzerland
+40,225,1931,272508,1,,Cuba,Switzerland
+40,225,1932,165220,1,,Cuba,Switzerland
+40,225,1933,131875,1,,Cuba,Switzerland
+40,225,1934,225276,1,,Cuba,Switzerland
+40,225,1935,239587,1,,Cuba,Switzerland
+40,225,1936,255918,1,,Cuba,Switzerland
+40,225,1937,437822,1,Pesos $,Cuba,Switzerland
+40,225,1938,544566,1,Pesos $,Cuba,Switzerland
+40,225,1939,508935,1,Pesos $,Cuba,Switzerland
+40,225,1940,532458,1,Pesos $,Cuba,Switzerland
+40,225,1941,418476,1,Pesos $,Cuba,Switzerland
+40,225,1942,405047,1,Pesos $,Cuba,Switzerland
+40,225,1943,927744,1,Pesos $,Cuba,Switzerland
+40,225,1944,1245307,1,Pesos $,Cuba,Switzerland
+40,225,1945,2499558,1,Pesos $,Cuba,Switzerland
+40,225,1946,2394113,1,Pesos $,Cuba,Switzerland
+40,225,1947,3349579,1,Pesos $,Cuba,Switzerland
+40,225,1948,1788855,1,Pesos $,Cuba,Switzerland
+40,225,1949,1658994,1,Pesos $,Cuba,Switzerland
+40,230,1912,9774790,,,Cuba,Spain
+40,230,1914,9957403,,,Cuba,Spain
+40,230,1915,10817435,,,Cuba,Spain
+40,230,1916,14408772,,,Cuba,Spain
+40,230,1919,15947350,1,,Cuba,Spain
+40,230,1920,27974309,1,,Cuba,Spain
+40,230,1921,13654172,1,,Cuba,Spain
+40,230,1922,8356437,1,,Cuba,Spain
+40,230,1923,13213009,1,,Cuba,Spain
+40,230,1924,14521013,1,,Cuba,Spain
+40,230,1925,13054616,1,Pesos Moneda Eua,Cuba,Spain
+40,230,1926,11515931,1,Pesos Moneda Eua,Cuba,Spain
+40,230,1927,10618687,1,Pesos Moneda Nacional,Cuba,Spain
+40,230,1928,9382433,1,Pesos Moneda Nacional,Cuba,Spain
+40,230,1929,8929258,1,Pesos Moneda Nacional,Cuba,Spain
+40,230,1930,7583587,1,$,Cuba,Spain
+40,230,1931,4181442,1,,Cuba,Spain
+40,230,1932,2979092,1,,Cuba,Spain
+40,230,1933,2612861,1,,Cuba,Spain
+40,230,1934,4051252,1,,Cuba,Spain
+40,230,1935,4819164,1,,Cuba,Spain
+40,230,1936,3494168,1,,Cuba,Spain
+40,230,1937,1856159,1,Pesos $,Cuba,Spain
+40,230,1938,1593237,1,Pesos $,Cuba,Spain
+40,230,1939,1340881,1,Pesos $,Cuba,Spain
+40,230,1940,1659367,1,Pesos $,Cuba,Spain
+40,230,1941,1179658,1,Pesos $,Cuba,Spain
+40,230,1942,528243,1,Pesos $,Cuba,Spain
+40,230,1943,1191982,1,Pesos $,Cuba,Spain
+40,230,1944,1356048,1,Pesos $,Cuba,Spain
+40,230,1945,3480444,1,Pesos $,Cuba,Spain
+40,230,1946,5174300,1,Pesos $,Cuba,Spain
+40,230,1947,7449722,1,Pesos $,Cuba,Spain
+40,230,1948,6811076,1,Pesos $,Cuba,Spain
+40,230,1949,6939370,1,Pesos $,Cuba,Spain
+40,231,1919,0,1,,Cuba,Gibraltar
+40,231,1920,0,1,,Cuba,Gibraltar
+40,231,1921,0,1,,Cuba,Gibraltar
+40,231,1922,0,1,,Cuba,Gibraltar
+40,231,1923,0,1,,Cuba,Gibraltar
+40,231,1924,0,1,,Cuba,Gibraltar
+40,231,1925,0,1,Pesos Moneda Eua,Cuba,Gibraltar
+40,231,1926,0,1,Pesos Moneda Eua,Cuba,Gibraltar
+40,231,1927,0,1,Pesos Moneda Nacional,Cuba,Gibraltar
+40,231,1928,0,1,Pesos Moneda Nacional,Cuba,Gibraltar
+40,231,1929,0,1,Pesos Moneda Nacional,Cuba,Gibraltar
+40,231,1930,0,1,$,Cuba,Gibraltar
+40,231,1931,0,1,,Cuba,Gibraltar
+40,231,1932,0,1,,Cuba,Gibraltar
+40,231,1933,0,1,,Cuba,Gibraltar
+40,231,1934,0,1,,Cuba,Gibraltar
+40,231,1935,0,1,,Cuba,Gibraltar
+40,231,1936,13,1,,Cuba,Gibraltar
+40,231,1937,0,1,Pesos $,Cuba,Gibraltar
+40,231,1938,0,1,Pesos $,Cuba,Gibraltar
+40,231,1939,0,1,Pesos $,Cuba,Gibraltar
+40,231,1940,0,1,Pesos $,Cuba,Gibraltar
+40,231,1941,0,1,Pesos $,Cuba,Gibraltar
+40,231,1942,0,1,Pesos $,Cuba,Gibraltar
+40,231,1943,0,1,Pesos $,Cuba,Gibraltar
+40,231,1944,0,1,Pesos $,Cuba,Gibraltar
+40,231,1945,0,1,Pesos $,Cuba,Gibraltar
+40,231,1946,0,1,Pesos $,Cuba,Gibraltar
+40,231,1947,0,1,Pesos $,Cuba,Gibraltar
+40,231,1948,0,1,Pesos $,Cuba,Gibraltar
+40,231,1949,0,1,Pesos $,Cuba,Gibraltar
+40,232,1919,0,1,,Cuba,Andorra
+40,232,1920,0,1,,Cuba,Andorra
+40,232,1921,0,1,,Cuba,Andorra
+40,232,1922,0,1,,Cuba,Andorra
+40,232,1923,0,1,,Cuba,Andorra
+40,232,1924,0,1,,Cuba,Andorra
+40,232,1925,0,1,Pesos Moneda Eua,Cuba,Andorra
+40,232,1926,0,1,Pesos Moneda Eua,Cuba,Andorra
+40,232,1927,0,1,Pesos Moneda Nacional,Cuba,Andorra
+40,232,1928,0,1,Pesos Moneda Nacional,Cuba,Andorra
+40,232,1929,0,1,Pesos Moneda Nacional,Cuba,Andorra
+40,232,1930,0,1,$,Cuba,Andorra
+40,232,1931,0,1,,Cuba,Andorra
+40,232,1932,0,1,,Cuba,Andorra
+40,232,1933,0,1,,Cuba,Andorra
+40,232,1934,0,1,,Cuba,Andorra
+40,232,1935,0,1,,Cuba,Andorra
+40,232,1936,0,1,,Cuba,Andorra
+40,232,1937,0,1,Pesos $,Cuba,Andorra
+40,232,1938,0,1,Pesos $,Cuba,Andorra
+40,232,1939,0,1,Pesos $,Cuba,Andorra
+40,232,1940,0,1,Pesos $,Cuba,Andorra
+40,232,1941,0,1,Pesos $,Cuba,Andorra
+40,232,1942,0,1,Pesos $,Cuba,Andorra
+40,232,1943,0,1,Pesos $,Cuba,Andorra
+40,232,1944,0,1,Pesos $,Cuba,Andorra
+40,232,1945,0,1,Pesos $,Cuba,Andorra
+40,232,1946,0,1,Pesos $,Cuba,Andorra
+40,232,1947,0,1,Pesos $,Cuba,Andorra
+40,232,1948,0,1,Pesos $,Cuba,Andorra
+40,232,1949,0,1,Pesos $,Cuba,Andorra
+40,235,1912,12577,,,Cuba,Portugal
+40,235,1914,9977,,,Cuba,Portugal
+40,235,1915,20295,,,Cuba,Portugal
+40,235,1916,9247,,,Cuba,Portugal
+40,235,1919,8079,1,,Cuba,Portugal
+40,235,1920,16281,1,,Cuba,Portugal
+40,235,1921,138140,1,,Cuba,Portugal
+40,235,1922,37068,1,,Cuba,Portugal
+40,235,1923,24106,1,,Cuba,Portugal
+40,235,1924,94455,1,,Cuba,Portugal
+40,235,1925,67901,1,Pesos Moneda Eua,Cuba,Portugal
+40,235,1926,55634,1,Pesos Moneda Eua,Cuba,Portugal
+40,235,1927,49525,1,Pesos Moneda Nacional,Cuba,Portugal
+40,235,1928,54903,1,Pesos Moneda Nacional,Cuba,Portugal
+40,235,1929,57372,1,Pesos Moneda Nacional,Cuba,Portugal
+40,235,1930,58334,1,$,Cuba,Portugal
+40,235,1931,24824,1,,Cuba,Portugal
+40,235,1932,8922,1,,Cuba,Portugal
+40,235,1933,7563,1,,Cuba,Portugal
+40,235,1934,13365,1,,Cuba,Portugal
+40,235,1935,24589,1,,Cuba,Portugal
+40,235,1936,15417,1,,Cuba,Portugal
+40,235,1937,99388,1,Pesos $,Cuba,Portugal
+40,235,1938,147749,1,Pesos $,Cuba,Portugal
+40,235,1939,437516,1,Pesos $,Cuba,Portugal
+40,235,1940,644104,1,Pesos $,Cuba,Portugal
+40,235,1941,129167,1,Pesos $,Cuba,Portugal
+40,235,1942,125171,1,Pesos $,Cuba,Portugal
+40,235,1943,173447,1,Pesos $,Cuba,Portugal
+40,235,1944,876738,1,Pesos $,Cuba,Portugal
+40,235,1945,1188704,1,Pesos $,Cuba,Portugal
+40,235,1946,1038668,1,Pesos $,Cuba,Portugal
+40,235,1947,1033563,1,Pesos $,Cuba,Portugal
+40,235,1948,1224162,1,Pesos $,Cuba,Portugal
+40,235,1949,677270,1,Pesos $,Cuba,Portugal
+40,255,1912,8431201,,,Cuba,Germany
+40,255,1914,5034119,,,Cuba,Germany
+40,255,1915,799903,,,Cuba,Germany
+40,255,1916,25773,,,Cuba,Germany
+40,255,1919,197499,1,,Cuba,Germany
+40,255,1920,2879504,1,,Cuba,Germany
+40,255,1921,5374980,1,,Cuba,Germany
+40,255,1922,3547154,1,,Cuba,Germany
+40,255,1923,7937582,1,,Cuba,Germany
+40,255,1924,9846359,1,,Cuba,Germany
+40,255,1925,9376816,1,Pesos Moneda Eua,Cuba,Germany
+40,255,1926,7742852,1,Pesos Moneda Eua,Cuba,Germany
+40,255,1927,7762063,1,Pesos Moneda Nacional,Cuba,Germany
+40,255,1928,6586279,1,Pesos Moneda Nacional,Cuba,Germany
+40,255,1929,7477468,1,Pesos Moneda Nacional,Cuba,Germany
+40,255,1930,6102925,1,$,Cuba,Germany
+40,255,1931,3023015,1,,Cuba,Germany
+40,255,1932,2133882,1,,Cuba,Germany
+40,255,1933,1897926,1,,Cuba,Germany
+40,255,1934,2905194,1,,Cuba,Germany
+40,255,1935,4427625,1,,Cuba,Germany
+40,255,1936,4797782,1,,Cuba,Germany
+40,255,1937,5845136,1,Pesos $,Cuba,Germany
+40,255,1938,4680694,1,Pesos $,Cuba,Germany
+40,255,1939,3384724,1,Pesos $,Cuba,Germany
+40,255,1940,169572,1,Pesos $,Cuba,Germany
+40,255,1941,46610,1,Pesos $,Cuba,Germany
+40,255,1942,0,1,Pesos $,Cuba,Germany
+40,255,1943,0,1,Pesos $,Cuba,Germany
+40,255,1944,0,1,Pesos $,Cuba,Germany
+40,255,1945,2896,1,Pesos $,Cuba,Germany
+40,255,1946,5368,1,Pesos $,Cuba,Germany
+40,255,1947,3757,1,Pesos $,Cuba,Germany
+40,255,1948,126651,1,Pesos $,Cuba,Germany
+40,255,1949,713215,1,Pesos $,Cuba,Germany
+40,290,1919,0,1,,Cuba,Poland
+40,290,1920,0,1,,Cuba,Poland
+40,290,1921,0,1,,Cuba,Poland
+40,290,1922,0,1,,Cuba,Poland
+40,290,1923,0,1,,Cuba,Poland
+40,290,1924,0,1,,Cuba,Poland
+40,290,1925,0,1,Pesos Moneda Eua,Cuba,Poland
+40,290,1926,0,1,Pesos Moneda Eua,Cuba,Poland
+40,290,1927,0,1,Pesos Moneda Nacional,Cuba,Poland
+40,290,1928,0,1,Pesos Moneda Nacional,Cuba,Poland
+40,290,1929,1280,1,Pesos Moneda Nacional,Cuba,Poland
+40,290,1930,1614,1,$,Cuba,Poland
+40,290,1931,913,1,,Cuba,Poland
+40,290,1932,742,1,,Cuba,Poland
+40,290,1933,781,1,,Cuba,Poland
+40,290,1934,31176,1,,Cuba,Poland
+40,290,1935,54271,1,,Cuba,Poland
+40,290,1936,66858,1,,Cuba,Poland
+40,290,1937,28144,1,Pesos $,Cuba,Poland
+40,290,1938,59381,1,Pesos $,Cuba,Poland
+40,290,1939,80345,1,Pesos $,Cuba,Poland
+40,290,1940,1467,1,Pesos $,Cuba,Poland
+40,290,1941,0,1,Pesos $,Cuba,Poland
+40,290,1942,0,1,Pesos $,Cuba,Poland
+40,290,1943,0,1,Pesos $,Cuba,Poland
+40,290,1944,0,1,Pesos $,Cuba,Poland
+40,290,1945,0,1,Pesos $,Cuba,Poland
+40,290,1946,11,1,Pesos $,Cuba,Poland
+40,290,1947,0,1,Pesos $,Cuba,Poland
+40,290,1948,7555,1,Pesos $,Cuba,Poland
+40,290,1949,6559,1,Pesos $,Cuba,Poland
+40,291,1919,0,1,,Cuba,Danzig
+40,291,1920,0,1,,Cuba,Danzig
+40,291,1921,0,1,,Cuba,Danzig
+40,291,1922,0,1,,Cuba,Danzig
+40,291,1923,0,1,,Cuba,Danzig
+40,291,1924,0,1,,Cuba,Danzig
+40,291,1925,0,1,Pesos Moneda Eua,Cuba,Danzig
+40,291,1926,0,1,Pesos Moneda Eua,Cuba,Danzig
+40,291,1927,0,1,Pesos Moneda Nacional,Cuba,Danzig
+40,291,1928,0,1,Pesos Moneda Nacional,Cuba,Danzig
+40,291,1929,0,1,Pesos Moneda Nacional,Cuba,Danzig
+40,291,1930,0,1,$,Cuba,Danzig
+40,291,1931,0,1,,Cuba,Danzig
+40,291,1932,0,1,,Cuba,Danzig
+40,291,1933,0,1,,Cuba,Danzig
+40,291,1934,0,1,,Cuba,Danzig
+40,291,1935,0,1,,Cuba,Danzig
+40,291,1936,2036,1,,Cuba,Danzig
+40,291,1937,2139,1,Pesos $,Cuba,Danzig
+40,291,1938,1050,1,Pesos $,Cuba,Danzig
+40,291,1939,475,1,Pesos $,Cuba,Danzig
+40,291,1940,0,1,Pesos $,Cuba,Danzig
+40,291,1941,0,1,Pesos $,Cuba,Danzig
+40,291,1942,0,1,Pesos $,Cuba,Danzig
+40,291,1943,0,1,Pesos $,Cuba,Danzig
+40,291,1944,0,1,Pesos $,Cuba,Danzig
+40,291,1945,0,1,Pesos $,Cuba,Danzig
+40,291,1946,0,1,Pesos $,Cuba,Danzig
+40,291,1947,0,1,Pesos $,Cuba,Danzig
+40,291,1948,14540,1,Pesos $,Cuba,Danzig
+40,291,1949,499,1,Pesos $,Cuba,Danzig
+40,305,1912,200595,,,Cuba,Austria
+40,305,1914,303990,,,Cuba,Austria
+40,305,1915,36392,,,Cuba,Austria
+40,305,1916,12659,,,Cuba,Austria
+40,305,1919,0,1,,Cuba,Austria
+40,305,1920,9750,1,,Cuba,Austria
+40,305,1921,47157,1,,Cuba,Austria
+40,305,1922,35750,1,,Cuba,Austria
+40,305,1923,101748,1,,Cuba,Austria
+40,305,1924,100531,1,,Cuba,Austria
+40,305,1925,275245,1,Pesos Moneda Eua,Cuba,Austria
+40,305,1926,174430,1,Pesos Moneda Eua,Cuba,Austria
+40,305,1927,106142,1,Pesos Moneda Nacional,Cuba,Austria
+40,305,1928,102727,1,Pesos Moneda Nacional,Cuba,Austria
+40,305,1929,187205,1,Pesos Moneda Nacional,Cuba,Austria
+40,305,1930,87596,1,$,Cuba,Austria
+40,305,1931,43862,1,,Cuba,Austria
+40,305,1932,20826,1,,Cuba,Austria
+40,305,1933,12799,1,,Cuba,Austria
+40,305,1934,26470,1,,Cuba,Austria
+40,305,1935,72928,1,,Cuba,Austria
+40,305,1936,52353,1,,Cuba,Austria
+40,305,1937,212566,1,Pesos $,Cuba,Austria
+40,305,1938,70619,1,Pesos $,Cuba,Austria
+40,305,1939,0,1,Pesos $,Cuba,Austria
+40,305,1940,0,1,Pesos $,Cuba,Austria
+40,305,1941,0,1,Pesos $,Cuba,Austria
+40,305,1942,0,1,Pesos $,Cuba,Austria
+40,305,1943,0,1,Pesos $,Cuba,Austria
+40,305,1944,0,1,Pesos $,Cuba,Austria
+40,305,1945,0,1,Pesos $,Cuba,Austria
+40,305,1946,0,1,Pesos $,Cuba,Austria
+40,305,1947,2969,1,Pesos $,Cuba,Austria
+40,305,1948,51721,1,Pesos $,Cuba,Austria
+40,305,1949,122235,1,Pesos $,Cuba,Austria
+40,310,1919,0,1,,Cuba,Hungary
+40,310,1920,0,1,,Cuba,Hungary
+40,310,1921,0,1,,Cuba,Hungary
+40,310,1922,0,1,,Cuba,Hungary
+40,310,1923,0,1,,Cuba,Hungary
+40,310,1924,1909,1,,Cuba,Hungary
+40,310,1925,3850,1,Pesos Moneda Eua,Cuba,Hungary
+40,310,1926,396,1,Pesos Moneda Eua,Cuba,Hungary
+40,310,1927,0,1,Pesos Moneda Nacional,Cuba,Hungary
+40,310,1928,0,1,Pesos Moneda Nacional,Cuba,Hungary
+40,310,1929,235,1,Pesos Moneda Nacional,Cuba,Hungary
+40,310,1930,1702,1,$,Cuba,Hungary
+40,310,1931,325,1,,Cuba,Hungary
+40,310,1932,1665,1,,Cuba,Hungary
+40,310,1933,2230,1,,Cuba,Hungary
+40,310,1934,4762,1,,Cuba,Hungary
+40,310,1935,5811,1,,Cuba,Hungary
+40,310,1936,47794,1,,Cuba,Hungary
+40,310,1937,163309,1,Pesos $,Cuba,Hungary
+40,310,1938,173354,1,Pesos $,Cuba,Hungary
+40,310,1939,144063,1,Pesos $,Cuba,Hungary
+40,310,1940,85080,1,Pesos $,Cuba,Hungary
+40,310,1941,10553,1,Pesos $,Cuba,Hungary
+40,310,1942,0,1,Pesos $,Cuba,Hungary
+40,310,1943,0,1,Pesos $,Cuba,Hungary
+40,310,1944,0,1,Pesos $,Cuba,Hungary
+40,310,1945,0,1,Pesos $,Cuba,Hungary
+40,310,1946,0,1,Pesos $,Cuba,Hungary
+40,310,1947,410,1,Pesos $,Cuba,Hungary
+40,310,1948,149995,1,Pesos $,Cuba,Hungary
+40,310,1949,20770,1,Pesos $,Cuba,Hungary
+40,315,1919,0,1,,Cuba,Czechoslovakia
+40,315,1920,0,1,,Cuba,Czechoslovakia
+40,315,1921,0,1,,Cuba,Czechoslovakia
+40,315,1922,0,1,,Cuba,Czechoslovakia
+40,315,1923,0,1,,Cuba,Czechoslovakia
+40,315,1924,0,1,,Cuba,Czechoslovakia
+40,315,1925,0,1,Pesos Moneda Eua,Cuba,Czechoslovakia
+40,315,1926,0,1,Pesos Moneda Eua,Cuba,Czechoslovakia
+40,315,1927,50,1,Pesos Moneda Nacional,Cuba,Czechoslovakia
+40,315,1928,308,1,Pesos Moneda Nacional,Cuba,Czechoslovakia
+40,315,1929,8936,1,Pesos Moneda Nacional,Cuba,Czechoslovakia
+40,315,1930,193140,1,$,Cuba,Czechoslovakia
+40,315,1931,150558,1,,Cuba,Czechoslovakia
+40,315,1932,87979,1,,Cuba,Czechoslovakia
+40,315,1933,54907,1,,Cuba,Czechoslovakia
+40,315,1934,207219,1,,Cuba,Czechoslovakia
+40,315,1935,422225,1,,Cuba,Czechoslovakia
+40,315,1936,422695,1,,Cuba,Czechoslovakia
+40,315,1937,805561,1,Pesos $,Cuba,Czechoslovakia
+40,315,1938,541434,1,Pesos $,Cuba,Czechoslovakia
+40,315,1939,239509,1,Pesos $,Cuba,Czechoslovakia
+40,315,1940,2325,1,Pesos $,Cuba,Czechoslovakia
+40,315,1941,130,1,Pesos $,Cuba,Czechoslovakia
+40,315,1942,0,1,Pesos $,Cuba,Czechoslovakia
+40,315,1943,0,1,Pesos $,Cuba,Czechoslovakia
+40,315,1944,0,1,Pesos $,Cuba,Czechoslovakia
+40,315,1945,2840,1,Pesos $,Cuba,Czechoslovakia
+40,315,1946,100866,1,Pesos $,Cuba,Czechoslovakia
+40,315,1947,503477,1,Pesos $,Cuba,Czechoslovakia
+40,315,1948,313308,1,Pesos $,Cuba,Czechoslovakia
+40,315,1949,250642,1,Pesos $,Cuba,Czechoslovakia
+40,325,1912,539635,,,Cuba,Italy
+40,325,1914,747955,,,Cuba,Italy
+40,325,1915,792982,,,Cuba,Italy
+40,325,1916,710617,,,Cuba,Italy
+40,325,1919,662583,1,,Cuba,Italy
+40,325,1920,818939,1,,Cuba,Italy
+40,325,1921,919134,1,,Cuba,Italy
+40,325,1922,365483,1,,Cuba,Italy
+40,325,1923,1194127,1,,Cuba,Italy
+40,325,1924,2332161,1,,Cuba,Italy
+40,325,1925,2542597,1,Pesos Moneda Eua,Cuba,Italy
+40,325,1926,2266981,1,Pesos Moneda Eua,Cuba,Italy
+40,325,1927,2269093,1,Pesos Moneda Nacional,Cuba,Italy
+40,325,1928,1532650,1,Pesos Moneda Nacional,Cuba,Italy
+40,325,1929,1955106,1,Pesos Moneda Nacional,Cuba,Italy
+40,325,1930,1290760,1,$,Cuba,Italy
+40,325,1931,621112,1,,Cuba,Italy
+40,325,1932,434788,1,,Cuba,Italy
+40,325,1933,368142,1,,Cuba,Italy
+40,325,1934,633887,1,,Cuba,Italy
+40,325,1935,887490,1,,Cuba,Italy
+40,325,1936,187138,1,,Cuba,Italy
+40,325,1937,464679,1,Pesos $,Cuba,Italy
+40,325,1938,671666,1,Pesos $,Cuba,Italy
+40,325,1939,986653,1,Pesos $,Cuba,Italy
+40,325,1940,895555,1,Pesos $,Cuba,Italy
+40,325,1941,43593,1,Pesos $,Cuba,Italy
+40,325,1942,15,1,Pesos $,Cuba,Italy
+40,325,1943,0,1,Pesos $,Cuba,Italy
+40,325,1944,0,1,Pesos $,Cuba,Italy
+40,325,1945,398,1,Pesos $,Cuba,Italy
+40,325,1946,273106,1,Pesos $,Cuba,Italy
+40,325,1947,1457920,1,Pesos $,Cuba,Italy
+40,325,1948,2202311,1,Pesos $,Cuba,Italy
+40,325,1949,2456261,1,Pesos $,Cuba,Italy
+40,339,1919,0,1,,Cuba,Albania
+40,339,1920,0,1,,Cuba,Albania
+40,339,1921,0,1,,Cuba,Albania
+40,339,1922,0,1,,Cuba,Albania
+40,339,1923,0,1,,Cuba,Albania
+40,339,1924,0,1,,Cuba,Albania
+40,339,1925,0,1,Pesos Moneda Eua,Cuba,Albania
+40,339,1926,0,1,Pesos Moneda Eua,Cuba,Albania
+40,339,1927,0,1,Pesos Moneda Nacional,Cuba,Albania
+40,339,1928,0,1,Pesos Moneda Nacional,Cuba,Albania
+40,339,1929,0,1,Pesos Moneda Nacional,Cuba,Albania
+40,339,1930,0,1,$,Cuba,Albania
+40,339,1931,0,1,,Cuba,Albania
+40,339,1932,0,1,,Cuba,Albania
+40,339,1933,0,1,,Cuba,Albania
+40,339,1934,0,1,,Cuba,Albania
+40,339,1935,0,1,,Cuba,Albania
+40,339,1936,0,1,,Cuba,Albania
+40,339,1937,0,1,Pesos $,Cuba,Albania
+40,339,1938,0,1,Pesos $,Cuba,Albania
+40,339,1939,0,1,Pesos $,Cuba,Albania
+40,339,1940,0,1,Pesos $,Cuba,Albania
+40,339,1941,0,1,Pesos $,Cuba,Albania
+40,339,1942,0,1,Pesos $,Cuba,Albania
+40,339,1943,0,1,Pesos $,Cuba,Albania
+40,339,1944,0,1,Pesos $,Cuba,Albania
+40,339,1945,0,1,Pesos $,Cuba,Albania
+40,339,1946,0,1,Pesos $,Cuba,Albania
+40,339,1947,0,1,Pesos $,Cuba,Albania
+40,339,1948,3404,1,Pesos $,Cuba,Albania
+40,339,1949,8,1,Pesos $,Cuba,Albania
+40,345,1919,0,1,,Cuba,Yugoslavia
+40,345,1920,0,1,,Cuba,Yugoslavia
+40,345,1921,0,1,,Cuba,Yugoslavia
+40,345,1922,0,1,,Cuba,Yugoslavia
+40,345,1923,0,1,,Cuba,Yugoslavia
+40,345,1924,0,1,,Cuba,Yugoslavia
+40,345,1925,0,1,Pesos Moneda Eua,Cuba,Yugoslavia
+40,345,1926,0,1,Pesos Moneda Eua,Cuba,Yugoslavia
+40,345,1927,0,1,Pesos Moneda Nacional,Cuba,Yugoslavia
+40,345,1928,0,1,Pesos Moneda Nacional,Cuba,Yugoslavia
+40,345,1929,367,1,Pesos Moneda Nacional,Cuba,Yugoslavia
+40,345,1930,350,1,$,Cuba,Yugoslavia
+40,345,1931,489,1,,Cuba,Yugoslavia
+40,345,1932,228,1,,Cuba,Yugoslavia
+40,345,1933,334,1,,Cuba,Yugoslavia
+40,345,1934,1391,1,,Cuba,Yugoslavia
+40,345,1935,2544,1,,Cuba,Yugoslavia
+40,345,1936,11005,1,,Cuba,Yugoslavia
+40,345,1937,7973,1,Pesos $,Cuba,Yugoslavia
+40,345,1938,19430,1,Pesos $,Cuba,Yugoslavia
+40,345,1939,24186,1,Pesos $,Cuba,Yugoslavia
+40,345,1940,3753,1,Pesos $,Cuba,Yugoslavia
+40,345,1941,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1942,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1943,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1944,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1945,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1946,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1947,0,1,Pesos $,Cuba,Yugoslavia
+40,345,1948,58137,1,Pesos $,Cuba,Yugoslavia
+40,345,1949,0,1,Pesos $,Cuba,Yugoslavia
+40,350,1919,0,1,,Cuba,Greece
+40,350,1920,0,1,,Cuba,Greece
+40,350,1921,0,1,,Cuba,Greece
+40,350,1922,0,1,,Cuba,Greece
+40,350,1923,0,1,,Cuba,Greece
+40,350,1924,0,1,,Cuba,Greece
+40,350,1925,0,1,Pesos Moneda Eua,Cuba,Greece
+40,350,1926,504,1,Pesos Moneda Eua,Cuba,Greece
+40,350,1927,18,1,Pesos Moneda Nacional,Cuba,Greece
+40,350,1928,127,1,Pesos Moneda Nacional,Cuba,Greece
+40,350,1929,568,1,Pesos Moneda Nacional,Cuba,Greece
+40,350,1930,109,1,$,Cuba,Greece
+40,350,1931,1253,1,,Cuba,Greece
+40,350,1932,691,1,,Cuba,Greece
+40,350,1933,2956,1,,Cuba,Greece
+40,350,1934,3065,1,,Cuba,Greece
+40,350,1935,1573,1,,Cuba,Greece
+40,350,1936,1,1,,Cuba,Greece
+40,350,1937,232,1,Pesos $,Cuba,Greece
+40,350,1938,468,1,Pesos $,Cuba,Greece
+40,350,1939,47,1,Pesos $,Cuba,Greece
+40,350,1940,2769,1,Pesos $,Cuba,Greece
+40,350,1941,0,1,Pesos $,Cuba,Greece
+40,350,1942,0,1,Pesos $,Cuba,Greece
+40,350,1943,0,1,Pesos $,Cuba,Greece
+40,350,1944,0,1,Pesos $,Cuba,Greece
+40,350,1945,0,1,Pesos $,Cuba,Greece
+40,350,1946,0,1,Pesos $,Cuba,Greece
+40,350,1947,0,1,Pesos $,Cuba,Greece
+40,350,1948,5680,1,Pesos $,Cuba,Greece
+40,350,1949,16754,1,Pesos $,Cuba,Greece
+40,352,1919,0,1,,Cuba,Cyprus
+40,352,1920,0,1,,Cuba,Cyprus
+40,352,1921,0,1,,Cuba,Cyprus
+40,352,1922,0,1,,Cuba,Cyprus
+40,352,1923,0,1,,Cuba,Cyprus
+40,352,1924,0,1,,Cuba,Cyprus
+40,352,1925,0,1,Pesos Moneda Eua,Cuba,Cyprus
+40,352,1926,0,1,Pesos Moneda Eua,Cuba,Cyprus
+40,352,1927,0,1,Pesos Moneda Nacional,Cuba,Cyprus
+40,352,1928,0,1,Pesos Moneda Nacional,Cuba,Cyprus
+40,352,1929,0,1,Pesos Moneda Nacional,Cuba,Cyprus
+40,352,1930,0,1,$,Cuba,Cyprus
+40,352,1931,0,1,,Cuba,Cyprus
+40,352,1932,0,1,,Cuba,Cyprus
+40,352,1933,0,1,,Cuba,Cyprus
+40,352,1934,0,1,,Cuba,Cyprus
+40,352,1935,0,1,,Cuba,Cyprus
+40,352,1936,0,1,,Cuba,Cyprus
+40,352,1937,0,1,Pesos $,Cuba,Cyprus
+40,352,1938,0,1,Pesos $,Cuba,Cyprus
+40,352,1939,0,1,Pesos $,Cuba,Cyprus
+40,352,1940,0,1,Pesos $,Cuba,Cyprus
+40,352,1941,0,1,Pesos $,Cuba,Cyprus
+40,352,1942,0,1,Pesos $,Cuba,Cyprus
+40,352,1943,0,1,Pesos $,Cuba,Cyprus
+40,352,1944,0,1,Pesos $,Cuba,Cyprus
+40,352,1945,0,1,Pesos $,Cuba,Cyprus
+40,352,1946,0,1,Pesos $,Cuba,Cyprus
+40,352,1947,0,1,Pesos $,Cuba,Cyprus
+40,352,1948,0,1,Pesos $,Cuba,Cyprus
+40,352,1949,0,1,Pesos $,Cuba,Cyprus
+40,355,1919,0,1,,Cuba,Bulgaria
+40,355,1920,0,1,,Cuba,Bulgaria
+40,355,1921,0,1,,Cuba,Bulgaria
+40,355,1922,0,1,,Cuba,Bulgaria
+40,355,1923,0,1,,Cuba,Bulgaria
+40,355,1924,0,1,,Cuba,Bulgaria
+40,355,1925,0,1,Pesos Moneda Eua,Cuba,Bulgaria
+40,355,1926,0,1,Pesos Moneda Eua,Cuba,Bulgaria
+40,355,1927,0,1,Pesos Moneda Nacional,Cuba,Bulgaria
+40,355,1928,0,1,Pesos Moneda Nacional,Cuba,Bulgaria
+40,355,1929,449,1,Pesos Moneda Nacional,Cuba,Bulgaria
+40,355,1930,144,1,$,Cuba,Bulgaria
+40,355,1931,204,1,,Cuba,Bulgaria
+40,355,1932,383,1,,Cuba,Bulgaria
+40,355,1933,297,1,,Cuba,Bulgaria
+40,355,1934,1083,1,,Cuba,Bulgaria
+40,355,1935,254,1,,Cuba,Bulgaria
+40,355,1936,0,1,,Cuba,Bulgaria
+40,355,1937,825,1,Pesos $,Cuba,Bulgaria
+40,355,1938,3292,1,Pesos $,Cuba,Bulgaria
+40,355,1939,0,1,Pesos $,Cuba,Bulgaria
+40,355,1940,2761,1,Pesos $,Cuba,Bulgaria
+40,355,1941,0,1,Pesos $,Cuba,Bulgaria
+40,355,1942,0,1,Pesos $,Cuba,Bulgaria
+40,355,1943,0,1,Pesos $,Cuba,Bulgaria
+40,355,1944,0,1,Pesos $,Cuba,Bulgaria
+40,355,1945,0,1,Pesos $,Cuba,Bulgaria
+40,355,1946,0,1,Pesos $,Cuba,Bulgaria
+40,355,1947,0,1,Pesos $,Cuba,Bulgaria
+40,355,1948,19505,1,Pesos $,Cuba,Bulgaria
+40,355,1949,1039,1,Pesos $,Cuba,Bulgaria
+40,360,1919,0,1,,Cuba,Romania
+40,360,1920,0,1,,Cuba,Romania
+40,360,1921,0,1,,Cuba,Romania
+40,360,1922,10775,1,,Cuba,Romania
+40,360,1923,15594,1,,Cuba,Romania
+40,360,1924,54253,1,,Cuba,Romania
+40,360,1925,71204,1,Pesos Moneda Eua,Cuba,Romania
+40,360,1926,79306,1,Pesos Moneda Eua,Cuba,Romania
+40,360,1927,51883,1,Pesos Moneda Nacional,Cuba,Romania
+40,360,1928,64415,1,Pesos Moneda Nacional,Cuba,Romania
+40,360,1929,26373,1,Pesos Moneda Nacional,Cuba,Romania
+40,360,1930,29159,1,$,Cuba,Romania
+40,360,1931,5933,1,,Cuba,Romania
+40,360,1932,30235,1,,Cuba,Romania
+40,360,1933,45719,1,,Cuba,Romania
+40,360,1934,25575,1,,Cuba,Romania
+40,360,1935,103981,1,,Cuba,Romania
+40,360,1936,43282,1,,Cuba,Romania
+40,360,1937,546,1,Pesos $,Cuba,Romania
+40,360,1938,747,1,Pesos $,Cuba,Romania
+40,360,1939,15423,1,Pesos $,Cuba,Romania
+40,360,1940,11490,1,Pesos $,Cuba,Romania
+40,360,1941,0,1,Pesos $,Cuba,Romania
+40,360,1942,0,1,Pesos $,Cuba,Romania
+40,360,1943,0,1,Pesos $,Cuba,Romania
+40,360,1944,0,1,Pesos $,Cuba,Romania
+40,360,1945,0,1,Pesos $,Cuba,Romania
+40,360,1946,0,1,Pesos $,Cuba,Romania
+40,360,1947,0,1,Pesos $,Cuba,Romania
+40,360,1948,296,1,Pesos $,Cuba,Romania
+40,360,1949,564,1,Pesos $,Cuba,Romania
+40,365,1915,1059,,,Cuba,Russia
+40,365,1919,0,1,,Cuba,Russia
+40,365,1920,0,1,,Cuba,Russia
+40,365,1921,0,1,,Cuba,Russia
+40,365,1922,0,1,,Cuba,Russia
+40,365,1923,19,1,,Cuba,Russia
+40,365,1924,479,1,,Cuba,Russia
+40,365,1925,0,1,Pesos Moneda Eua,Cuba,Russia
+40,365,1926,0,1,Pesos Moneda Eua,Cuba,Russia
+40,365,1927,0,1,Pesos Moneda Nacional,Cuba,Russia
+40,365,1928,62,1,Pesos Moneda Nacional,Cuba,Russia
+40,365,1929,8316,1,Pesos Moneda Nacional,Cuba,Russia
+40,365,1930,106865,1,$,Cuba,Russia
+40,365,1931,8651,1,,Cuba,Russia
+40,365,1932,109454,1,,Cuba,Russia
+40,365,1933,1883,1,,Cuba,Russia
+40,365,1934,20626,1,,Cuba,Russia
+40,365,1935,11735,1,,Cuba,Russia
+40,365,1936,0,1,,Cuba,Russia
+40,365,1937,0,1,Pesos $,Cuba,Russia
+40,365,1938,886,1,Pesos $,Cuba,Russia
+40,365,1939,989,1,Pesos $,Cuba,Russia
+40,365,1940,441,1,Pesos $,Cuba,Russia
+40,365,1941,886,1,Pesos $,Cuba,Russia
+40,365,1942,233,1,Pesos $,Cuba,Russia
+40,365,1943,789,1,Pesos $,Cuba,Russia
+40,365,1944,135,1,Pesos $,Cuba,Russia
+40,365,1945,1447,1,Pesos $,Cuba,Russia
+40,365,1946,7015,1,Pesos $,Cuba,Russia
+40,365,1947,900,1,Pesos $,Cuba,Russia
+40,365,1948,291,1,Pesos $,Cuba,Russia
+40,365,1949,935,1,Pesos $,Cuba,Russia
+40,366,1919,0,1,,Cuba,Estonia
+40,366,1920,0,1,,Cuba,Estonia
+40,366,1921,0,1,,Cuba,Estonia
+40,366,1922,0,1,,Cuba,Estonia
+40,366,1923,0,1,,Cuba,Estonia
+40,366,1924,0,1,,Cuba,Estonia
+40,366,1925,0,1,Pesos Moneda Eua,Cuba,Estonia
+40,366,1926,0,1,Pesos Moneda Eua,Cuba,Estonia
+40,366,1927,0,1,Pesos Moneda Nacional,Cuba,Estonia
+40,366,1928,0,1,Pesos Moneda Nacional,Cuba,Estonia
+40,366,1929,0,1,Pesos Moneda Nacional,Cuba,Estonia
+40,366,1930,0,1,$,Cuba,Estonia
+40,366,1931,0,1,,Cuba,Estonia
+40,366,1932,0,1,,Cuba,Estonia
+40,366,1933,0,1,,Cuba,Estonia
+40,366,1934,5631,1,,Cuba,Estonia
+40,366,1935,0,1,,Cuba,Estonia
+40,366,1936,85,1,,Cuba,Estonia
+40,366,1937,478,1,Pesos $,Cuba,Estonia
+40,366,1938,80,1,Pesos $,Cuba,Estonia
+40,366,1939,207,1,Pesos $,Cuba,Estonia
+40,366,1940,0,1,Pesos $,Cuba,Estonia
+40,366,1941,0,1,Pesos $,Cuba,Estonia
+40,366,1942,0,1,Pesos $,Cuba,Estonia
+40,366,1943,0,1,Pesos $,Cuba,Estonia
+40,366,1944,0,1,Pesos $,Cuba,Estonia
+40,366,1945,0,1,Pesos $,Cuba,Estonia
+40,366,1946,0,1,Pesos $,Cuba,Estonia
+40,366,1947,0,1,Pesos $,Cuba,Estonia
+40,366,1948,977,1,Pesos $,Cuba,Estonia
+40,366,1949,1684,1,Pesos $,Cuba,Estonia
+40,367,1919,0,1,,Cuba,Latvia
+40,367,1920,0,1,,Cuba,Latvia
+40,367,1921,0,1,,Cuba,Latvia
+40,367,1922,0,1,,Cuba,Latvia
+40,367,1923,0,1,,Cuba,Latvia
+40,367,1924,0,1,,Cuba,Latvia
+40,367,1925,0,1,Pesos Moneda Eua,Cuba,Latvia
+40,367,1926,0,1,Pesos Moneda Eua,Cuba,Latvia
+40,367,1927,0,1,Pesos Moneda Nacional,Cuba,Latvia
+40,367,1928,0,1,Pesos Moneda Nacional,Cuba,Latvia
+40,367,1929,0,1,Pesos Moneda Nacional,Cuba,Latvia
+40,367,1930,0,1,$,Cuba,Latvia
+40,367,1931,0,1,,Cuba,Latvia
+40,367,1932,0,1,,Cuba,Latvia
+40,367,1933,0,1,,Cuba,Latvia
+40,367,1934,856,1,,Cuba,Latvia
+40,367,1935,1231,1,,Cuba,Latvia
+40,367,1936,0,1,,Cuba,Latvia
+40,367,1937,0,1,Pesos $,Cuba,Latvia
+40,367,1938,0,1,Pesos $,Cuba,Latvia
+40,367,1939,1561,1,Pesos $,Cuba,Latvia
+40,367,1940,0,1,Pesos $,Cuba,Latvia
+40,367,1941,0,1,Pesos $,Cuba,Latvia
+40,367,1942,0,1,Pesos $,Cuba,Latvia
+40,367,1943,0,1,Pesos $,Cuba,Latvia
+40,367,1944,0,1,Pesos $,Cuba,Latvia
+40,367,1945,0,1,Pesos $,Cuba,Latvia
+40,367,1946,0,1,Pesos $,Cuba,Latvia
+40,367,1947,0,1,Pesos $,Cuba,Latvia
+40,367,1948,1426,1,Pesos $,Cuba,Latvia
+40,367,1949,0,1,Pesos $,Cuba,Latvia
+40,368,1919,0,1,,Cuba,Lithuania
+40,368,1920,0,1,,Cuba,Lithuania
+40,368,1921,0,1,,Cuba,Lithuania
+40,368,1922,0,1,,Cuba,Lithuania
+40,368,1923,0,1,,Cuba,Lithuania
+40,368,1924,0,1,,Cuba,Lithuania
+40,368,1925,0,1,Pesos Moneda Eua,Cuba,Lithuania
+40,368,1926,0,1,Pesos Moneda Eua,Cuba,Lithuania
+40,368,1927,0,1,Pesos Moneda Nacional,Cuba,Lithuania
+40,368,1928,0,1,Pesos Moneda Nacional,Cuba,Lithuania
+40,368,1929,0,1,Pesos Moneda Nacional,Cuba,Lithuania
+40,368,1930,0,1,$,Cuba,Lithuania
+40,368,1931,0,1,,Cuba,Lithuania
+40,368,1932,0,1,,Cuba,Lithuania
+40,368,1933,0,1,,Cuba,Lithuania
+40,368,1934,0,1,,Cuba,Lithuania
+40,368,1935,0,1,,Cuba,Lithuania
+40,368,1936,0,1,,Cuba,Lithuania
+40,368,1937,0,1,Pesos $,Cuba,Lithuania
+40,368,1938,0,1,Pesos $,Cuba,Lithuania
+40,368,1939,734,1,Pesos $,Cuba,Lithuania
+40,368,1940,0,1,Pesos $,Cuba,Lithuania
+40,368,1941,0,1,Pesos $,Cuba,Lithuania
+40,368,1942,0,1,Pesos $,Cuba,Lithuania
+40,368,1943,0,1,Pesos $,Cuba,Lithuania
+40,368,1944,0,1,Pesos $,Cuba,Lithuania
+40,368,1945,0,1,Pesos $,Cuba,Lithuania
+40,368,1946,0,1,Pesos $,Cuba,Lithuania
+40,368,1947,0,1,Pesos $,Cuba,Lithuania
+40,368,1948,4741,1,Pesos $,Cuba,Lithuania
+40,368,1949,0,1,Pesos $,Cuba,Lithuania
+40,375,1919,0,1,,Cuba,Finland
+40,375,1920,0,1,,Cuba,Finland
+40,375,1921,0,1,,Cuba,Finland
+40,375,1922,0,1,,Cuba,Finland
+40,375,1923,0,1,,Cuba,Finland
+40,375,1924,0,1,,Cuba,Finland
+40,375,1925,0,1,Pesos Moneda Eua,Cuba,Finland
+40,375,1926,0,1,Pesos Moneda Eua,Cuba,Finland
+40,375,1927,0,1,Pesos Moneda Nacional,Cuba,Finland
+40,375,1928,693,1,Pesos Moneda Nacional,Cuba,Finland
+40,375,1929,2129,1,Pesos Moneda Nacional,Cuba,Finland
+40,375,1930,37789,1,$,Cuba,Finland
+40,375,1931,145972,1,,Cuba,Finland
+40,375,1932,59519,1,,Cuba,Finland
+40,375,1933,61116,1,,Cuba,Finland
+40,375,1934,50703,1,,Cuba,Finland
+40,375,1935,9352,1,,Cuba,Finland
+40,375,1936,40071,1,,Cuba,Finland
+40,375,1937,58703,1,Pesos $,Cuba,Finland
+40,375,1938,63661,1,Pesos $,Cuba,Finland
+40,375,1939,55542,1,Pesos $,Cuba,Finland
+40,375,1940,23744,1,Pesos $,Cuba,Finland
+40,375,1941,243345,1,Pesos $,Cuba,Finland
+40,375,1942,0,1,Pesos $,Cuba,Finland
+40,375,1943,0,1,Pesos $,Cuba,Finland
+40,375,1944,0,1,Pesos $,Cuba,Finland
+40,375,1945,14402,1,Pesos $,Cuba,Finland
+40,375,1946,9589,1,Pesos $,Cuba,Finland
+40,375,1947,41880,1,Pesos $,Cuba,Finland
+40,375,1948,149113,1,Pesos $,Cuba,Finland
+40,375,1949,67052,1,Pesos $,Cuba,Finland
+40,380,1914,108417,,,Cuba,Sweden
+40,380,1915,82175,,,Cuba,Sweden
+40,380,1916,107262,,,Cuba,Sweden
+40,380,1919,104503,1,,Cuba,Sweden
+40,380,1920,287715,1,,Cuba,Sweden
+40,380,1921,154889,1,,Cuba,Sweden
+40,380,1922,232272,1,,Cuba,Sweden
+40,380,1923,622173,1,,Cuba,Sweden
+40,380,1924,582053,1,,Cuba,Sweden
+40,380,1925,414922,1,Pesos Moneda Eua,Cuba,Sweden
+40,380,1926,631450,1,Pesos Moneda Eua,Cuba,Sweden
+40,380,1927,537747,1,Pesos Moneda Nacional,Cuba,Sweden
+40,380,1928,718896,1,Pesos Moneda Nacional,Cuba,Sweden
+40,380,1929,1100820,1,Pesos Moneda Nacional,Cuba,Sweden
+40,380,1930,788996,1,$,Cuba,Sweden
+40,380,1931,279136,1,,Cuba,Sweden
+40,380,1932,363314,1,,Cuba,Sweden
+40,380,1933,243428,1,,Cuba,Sweden
+40,380,1934,326391,1,,Cuba,Sweden
+40,380,1935,223293,1,,Cuba,Sweden
+40,380,1936,469670,1,,Cuba,Sweden
+40,380,1937,567365,1,Pesos $,Cuba,Sweden
+40,380,1938,959378,1,Pesos $,Cuba,Sweden
+40,380,1939,975103,1,Pesos $,Cuba,Sweden
+40,380,1940,275171,1,Pesos $,Cuba,Sweden
+40,380,1941,270060,1,Pesos $,Cuba,Sweden
+40,380,1942,6295,1,Pesos $,Cuba,Sweden
+40,380,1943,0,1,Pesos $,Cuba,Sweden
+40,380,1944,0,1,Pesos $,Cuba,Sweden
+40,380,1945,2400266,1,Pesos $,Cuba,Sweden
+40,380,1946,4557579,1,Pesos $,Cuba,Sweden
+40,380,1947,3455565,1,Pesos $,Cuba,Sweden
+40,380,1948,3750262,1,Pesos $,Cuba,Sweden
+40,380,1949,2111294,1,Pesos $,Cuba,Sweden
+40,385,1912,792561,,,Cuba,Norway
+40,385,1914,1844658,,,Cuba,Norway
+40,385,1915,2125780,,,Cuba,Norway
+40,385,1916,551951,,,Cuba,Norway
+40,385,1919,405881,1,,Cuba,Norway
+40,385,1920,1001868,1,,Cuba,Norway
+40,385,1921,1070375,1,,Cuba,Norway
+40,385,1922,710490,1,,Cuba,Norway
+40,385,1923,1551386,1,,Cuba,Norway
+40,385,1924,1880142,1,,Cuba,Norway
+40,385,1925,2483469,1,Pesos Moneda Eua,Cuba,Norway
+40,385,1926,1918827,1,Pesos Moneda Eua,Cuba,Norway
+40,385,1927,2549308,1,Pesos Moneda Nacional,Cuba,Norway
+40,385,1928,1958411,1,Pesos Moneda Nacional,Cuba,Norway
+40,385,1929,1951362,1,Pesos Moneda Nacional,Cuba,Norway
+40,385,1930,1928212,1,$,Cuba,Norway
+40,385,1931,1328238,1,,Cuba,Norway
+40,385,1932,571494,1,,Cuba,Norway
+40,385,1933,355001,1,,Cuba,Norway
+40,385,1934,459739,1,,Cuba,Norway
+40,385,1935,656680,1,,Cuba,Norway
+40,385,1936,487143,1,,Cuba,Norway
+40,385,1937,497333,1,Pesos $,Cuba,Norway
+40,385,1938,489219,1,Pesos $,Cuba,Norway
+40,385,1939,448976,1,Pesos $,Cuba,Norway
+40,385,1940,186933,1,Pesos $,Cuba,Norway
+40,385,1941,0,1,Pesos $,Cuba,Norway
+40,385,1942,0,1,Pesos $,Cuba,Norway
+40,385,1943,0,1,Pesos $,Cuba,Norway
+40,385,1944,0,1,Pesos $,Cuba,Norway
+40,385,1945,18157,1,Pesos $,Cuba,Norway
+40,385,1946,2787378,1,Pesos $,Cuba,Norway
+40,385,1947,4102992,1,Pesos $,Cuba,Norway
+40,385,1948,2656035,1,Pesos $,Cuba,Norway
+40,385,1949,2565201,1,Pesos $,Cuba,Norway
+40,390,1912,202622,,,Cuba,Denmark
+40,390,1914,167134,,,Cuba,Denmark
+40,390,1915,275705,,,Cuba,Denmark
+40,390,1916,390491,,,Cuba,Denmark
+40,390,1919,383988,1,,Cuba,Denmark
+40,390,1920,875263,1,,Cuba,Denmark
+40,390,1921,366394,1,,Cuba,Denmark
+40,390,1922,367334,1,,Cuba,Denmark
+40,390,1923,724634,1,,Cuba,Denmark
+40,390,1924,660128,1,,Cuba,Denmark
+40,390,1925,700201,1,Pesos Moneda Eua,Cuba,Denmark
+40,390,1926,602008,1,Pesos Moneda Eua,Cuba,Denmark
+40,390,1927,577100,1,Pesos Moneda Nacional,Cuba,Denmark
+40,390,1928,469198,1,Pesos Moneda Nacional,Cuba,Denmark
+40,390,1929,631616,1,Pesos Moneda Nacional,Cuba,Denmark
+40,390,1930,223427,1,$,Cuba,Denmark
+40,390,1931,136902,1,,Cuba,Denmark
+40,390,1932,106775,1,,Cuba,Denmark
+40,390,1933,81505,1,,Cuba,Denmark
+40,390,1934,78087,1,,Cuba,Denmark
+40,390,1935,213228,1,,Cuba,Denmark
+40,390,1936,258864,1,,Cuba,Denmark
+40,390,1937,87987,1,Pesos $,Cuba,Denmark
+40,390,1938,45293,1,Pesos $,Cuba,Denmark
+40,390,1939,26083,1,Pesos $,Cuba,Denmark
+40,390,1940,9909,1,Pesos $,Cuba,Denmark
+40,390,1941,99,1,Pesos $,Cuba,Denmark
+40,390,1942,0,1,Pesos $,Cuba,Denmark
+40,390,1943,0,1,Pesos $,Cuba,Denmark
+40,390,1944,0,1,Pesos $,Cuba,Denmark
+40,390,1945,4686,1,Pesos $,Cuba,Denmark
+40,390,1946,196917,1,Pesos $,Cuba,Denmark
+40,390,1947,228093,1,Pesos $,Cuba,Denmark
+40,390,1948,67655,1,Pesos $,Cuba,Denmark
+40,390,1949,41272,1,Pesos $,Cuba,Denmark
+40,395,1919,0,1,,Cuba,Iceland
+40,395,1920,0,1,,Cuba,Iceland
+40,395,1921,0,1,,Cuba,Iceland
+40,395,1922,0,1,,Cuba,Iceland
+40,395,1923,0,1,,Cuba,Iceland
+40,395,1924,0,1,,Cuba,Iceland
+40,395,1925,0,1,Pesos Moneda Eua,Cuba,Iceland
+40,395,1926,0,1,Pesos Moneda Eua,Cuba,Iceland
+40,395,1927,0,1,Pesos Moneda Nacional,Cuba,Iceland
+40,395,1928,0,1,Pesos Moneda Nacional,Cuba,Iceland
+40,395,1929,0,1,Pesos Moneda Nacional,Cuba,Iceland
+40,395,1930,0,1,$,Cuba,Iceland
+40,395,1931,0,1,,Cuba,Iceland
+40,395,1932,0,1,,Cuba,Iceland
+40,395,1933,0,1,,Cuba,Iceland
+40,395,1934,0,1,,Cuba,Iceland
+40,395,1935,0,1,,Cuba,Iceland
+40,395,1936,36341,1,,Cuba,Iceland
+40,395,1937,147575,1,Pesos $,Cuba,Iceland
+40,395,1938,148881,1,Pesos $,Cuba,Iceland
+40,395,1939,102049,1,Pesos $,Cuba,Iceland
+40,395,1940,113651,1,Pesos $,Cuba,Iceland
+40,395,1941,59127,1,Pesos $,Cuba,Iceland
+40,395,1942,76624,1,Pesos $,Cuba,Iceland
+40,395,1943,2425,1,Pesos $,Cuba,Iceland
+40,395,1944,27313,1,Pesos $,Cuba,Iceland
+40,395,1945,3704,1,Pesos $,Cuba,Iceland
+40,395,1946,926,1,Pesos $,Cuba,Iceland
+40,395,1947,0,1,Pesos $,Cuba,Iceland
+40,395,1948,95858,1,Pesos $,Cuba,Iceland
+40,395,1949,58442,1,Pesos $,Cuba,Iceland
+40,400,1919,0,1,,Cuba,Azores
+40,400,1920,0,1,,Cuba,Azores
+40,400,1921,0,1,,Cuba,Azores
+40,400,1922,0,1,,Cuba,Azores
+40,400,1923,0,1,,Cuba,Azores
+40,400,1924,0,1,,Cuba,Azores
+40,400,1925,0,1,Pesos Moneda Eua,Cuba,Azores
+40,400,1926,0,1,Pesos Moneda Eua,Cuba,Azores
+40,400,1927,0,1,Pesos Moneda Nacional,Cuba,Azores
+40,400,1928,0,1,Pesos Moneda Nacional,Cuba,Azores
+40,400,1929,0,1,Pesos Moneda Nacional,Cuba,Azores
+40,400,1930,0,1,$,Cuba,Azores
+40,400,1931,0,1,,Cuba,Azores
+40,400,1932,0,1,,Cuba,Azores
+40,400,1933,0,1,,Cuba,Azores
+40,400,1934,0,1,,Cuba,Azores
+40,400,1935,0,1,,Cuba,Azores
+40,400,1936,0,1,,Cuba,Azores
+40,400,1937,0,1,Pesos $,Cuba,Azores
+40,400,1938,0,1,Pesos $,Cuba,Azores
+40,400,1939,0,1,Pesos $,Cuba,Azores
+40,400,1940,0,1,Pesos $,Cuba,Azores
+40,400,1941,0,1,Pesos $,Cuba,Azores
+40,400,1942,0,1,Pesos $,Cuba,Azores
+40,400,1943,0,1,Pesos $,Cuba,Azores
+40,400,1944,0,1,Pesos $,Cuba,Azores
+40,400,1945,0,1,Pesos $,Cuba,Azores
+40,400,1946,0,1,Pesos $,Cuba,Azores
+40,400,1947,0,1,Pesos $,Cuba,Azores
+40,400,1948,1851,1,Pesos $,Cuba,Azores
+40,400,1949,0,1,Pesos $,Cuba,Azores
+40,410,1912,387361,,,Cuba,Canary Islands
+40,410,1914,202076,,,Cuba,Canary Islands
+40,410,1915,297640,,,Cuba,Canary Islands
+40,410,1916,334891,,,Cuba,Canary Islands
+40,410,1919,355837,1,,Cuba,Canary Islands
+40,410,1920,324183,1,,Cuba,Canary Islands
+40,410,1921,293392,1,,Cuba,Canary Islands
+40,410,1922,167342,1,,Cuba,Canary Islands
+40,410,1923,281779,1,,Cuba,Canary Islands
+40,410,1924,276098,1,,Cuba,Canary Islands
+40,410,1925,213807,1,Pesos Moneda Eua,Cuba,Canary Islands
+40,410,1926,322274,1,Pesos Moneda Eua,Cuba,Canary Islands
+40,410,1927,109221,1,Pesos Moneda Nacional,Cuba,Canary Islands
+40,410,1928,87247,1,Pesos Moneda Nacional,Cuba,Canary Islands
+40,410,1929,93975,1,Pesos Moneda Nacional,Cuba,Canary Islands
+40,410,1930,74263,1,$,Cuba,Canary Islands
+40,410,1931,8292,1,,Cuba,Canary Islands
+40,410,1932,1993,1,,Cuba,Canary Islands
+40,410,1933,1988,1,,Cuba,Canary Islands
+40,410,1934,260,1,,Cuba,Canary Islands
+40,410,1935,3238,1,,Cuba,Canary Islands
+40,410,1936,4221,1,,Cuba,Canary Islands
+40,410,1937,0,1,Pesos $,Cuba,Canary Islands
+40,410,1938,0,1,Pesos $,Cuba,Canary Islands
+40,410,1939,0,1,Pesos $,Cuba,Canary Islands
+40,410,1940,0,1,Pesos $,Cuba,Canary Islands
+40,410,1941,0,1,Pesos $,Cuba,Canary Islands
+40,410,1942,0,1,Pesos $,Cuba,Canary Islands
+40,410,1943,0,1,Pesos $,Cuba,Canary Islands
+40,410,1944,0,1,Pesos $,Cuba,Canary Islands
+40,410,1945,0,1,Pesos $,Cuba,Canary Islands
+40,410,1946,0,1,Pesos $,Cuba,Canary Islands
+40,410,1947,0,1,Pesos $,Cuba,Canary Islands
+40,410,1948,376,1,Pesos $,Cuba,Canary Islands
+40,410,1949,1540,1,Pesos $,Cuba,Canary Islands
+40,430,1919,0,1,,Cuba,French West Africa
+40,430,1920,0,1,,Cuba,French West Africa
+40,430,1921,0,1,,Cuba,French West Africa
+40,430,1922,0,1,,Cuba,French West Africa
+40,430,1923,0,1,,Cuba,French West Africa
+40,430,1924,0,1,,Cuba,French West Africa
+40,430,1925,0,1,Pesos Moneda Eua,Cuba,French West Africa
+40,430,1926,0,1,Pesos Moneda Eua,Cuba,French West Africa
+40,430,1927,0,1,Pesos Moneda Nacional,Cuba,French West Africa
+40,430,1928,0,1,Pesos Moneda Nacional,Cuba,French West Africa
+40,430,1929,0,1,Pesos Moneda Nacional,Cuba,French West Africa
+40,430,1930,0,1,$,Cuba,French West Africa
+40,430,1931,0,1,,Cuba,French West Africa
+40,430,1932,0,1,,Cuba,French West Africa
+40,430,1933,0,1,,Cuba,French West Africa
+40,430,1934,0,1,,Cuba,French West Africa
+40,430,1935,0,1,,Cuba,French West Africa
+40,430,1936,0,1,,Cuba,French West Africa
+40,430,1937,0,1,Pesos $,Cuba,French West Africa
+40,430,1938,0,1,Pesos $,Cuba,French West Africa
+40,430,1939,0,1,Pesos $,Cuba,French West Africa
+40,430,1940,0,1,Pesos $,Cuba,French West Africa
+40,430,1941,0,1,Pesos $,Cuba,French West Africa
+40,430,1942,0,1,Pesos $,Cuba,French West Africa
+40,430,1943,0,1,Pesos $,Cuba,French West Africa
+40,430,1944,0,1,Pesos $,Cuba,French West Africa
+40,430,1945,0,1,Pesos $,Cuba,French West Africa
+40,430,1946,0,1,Pesos $,Cuba,French West Africa
+40,430,1947,0,1,Pesos $,Cuba,French West Africa
+40,430,1948,132,1,Pesos $,Cuba,French West Africa
+40,430,1949,135,1,Pesos $,Cuba,French West Africa
+40,450,1919,0,1,,Cuba,Liberia
+40,450,1920,0,1,,Cuba,Liberia
+40,450,1921,0,1,,Cuba,Liberia
+40,450,1922,0,1,,Cuba,Liberia
+40,450,1923,0,1,,Cuba,Liberia
+40,450,1924,0,1,,Cuba,Liberia
+40,450,1925,0,1,Pesos Moneda Eua,Cuba,Liberia
+40,450,1926,0,1,Pesos Moneda Eua,Cuba,Liberia
+40,450,1927,0,1,Pesos Moneda Nacional,Cuba,Liberia
+40,450,1928,0,1,Pesos Moneda Nacional,Cuba,Liberia
+40,450,1929,0,1,Pesos Moneda Nacional,Cuba,Liberia
+40,450,1930,0,1,$,Cuba,Liberia
+40,450,1931,0,1,,Cuba,Liberia
+40,450,1932,0,1,,Cuba,Liberia
+40,450,1933,0,1,,Cuba,Liberia
+40,450,1934,0,1,,Cuba,Liberia
+40,450,1935,0,1,,Cuba,Liberia
+40,450,1936,0,1,,Cuba,Liberia
+40,450,1937,0,1,Pesos $,Cuba,Liberia
+40,450,1938,0,1,Pesos $,Cuba,Liberia
+40,450,1939,0,1,Pesos $,Cuba,Liberia
+40,450,1940,0,1,Pesos $,Cuba,Liberia
+40,450,1941,0,1,Pesos $,Cuba,Liberia
+40,450,1942,0,1,Pesos $,Cuba,Liberia
+40,450,1943,0,1,Pesos $,Cuba,Liberia
+40,450,1944,0,1,Pesos $,Cuba,Liberia
+40,450,1945,0,1,Pesos $,Cuba,Liberia
+40,450,1946,0,1,Pesos $,Cuba,Liberia
+40,450,1947,0,1,Pesos $,Cuba,Liberia
+40,450,1948,1530,1,Pesos $,Cuba,Liberia
+40,450,1949,0,1,Pesos $,Cuba,Liberia
+40,475,1919,0,1,,Cuba,Nigeria
+40,475,1920,0,1,,Cuba,Nigeria
+40,475,1921,0,1,,Cuba,Nigeria
+40,475,1922,0,1,,Cuba,Nigeria
+40,475,1923,0,1,,Cuba,Nigeria
+40,475,1924,0,1,,Cuba,Nigeria
+40,475,1925,0,1,Pesos Moneda Eua,Cuba,Nigeria
+40,475,1926,0,1,Pesos Moneda Eua,Cuba,Nigeria
+40,475,1927,0,1,Pesos Moneda Nacional,Cuba,Nigeria
+40,475,1928,0,1,Pesos Moneda Nacional,Cuba,Nigeria
+40,475,1929,0,1,Pesos Moneda Nacional,Cuba,Nigeria
+40,475,1930,0,1,$,Cuba,Nigeria
+40,475,1931,0,1,,Cuba,Nigeria
+40,475,1932,0,1,,Cuba,Nigeria
+40,475,1933,0,1,,Cuba,Nigeria
+40,475,1934,0,1,,Cuba,Nigeria
+40,475,1935,0,1,,Cuba,Nigeria
+40,475,1936,0,1,,Cuba,Nigeria
+40,475,1937,0,1,Pesos $,Cuba,Nigeria
+40,475,1938,0,1,Pesos $,Cuba,Nigeria
+40,475,1939,0,1,Pesos $,Cuba,Nigeria
+40,475,1940,0,1,Pesos $,Cuba,Nigeria
+40,475,1941,0,1,Pesos $,Cuba,Nigeria
+40,475,1942,0,1,Pesos $,Cuba,Nigeria
+40,475,1943,0,1,Pesos $,Cuba,Nigeria
+40,475,1944,0,1,Pesos $,Cuba,Nigeria
+40,475,1945,0,1,Pesos $,Cuba,Nigeria
+40,475,1946,0,1,Pesos $,Cuba,Nigeria
+40,475,1947,0,1,Pesos $,Cuba,Nigeria
+40,475,1948,293,1,Pesos $,Cuba,Nigeria
+40,475,1949,0,1,Pesos $,Cuba,Nigeria
+40,480,1919,0,1,,Cuba,French Equatorial Africa
+40,480,1920,0,1,,Cuba,French Equatorial Africa
+40,480,1921,0,1,,Cuba,French Equatorial Africa
+40,480,1922,0,1,,Cuba,French Equatorial Africa
+40,480,1923,0,1,,Cuba,French Equatorial Africa
+40,480,1924,0,1,,Cuba,French Equatorial Africa
+40,480,1925,0,1,Pesos Moneda Eua,Cuba,French Equatorial Africa
+40,480,1926,0,1,Pesos Moneda Eua,Cuba,French Equatorial Africa
+40,480,1927,0,1,Pesos Moneda Nacional,Cuba,French Equatorial Africa
+40,480,1928,0,1,Pesos Moneda Nacional,Cuba,French Equatorial Africa
+40,480,1929,0,1,Pesos Moneda Nacional,Cuba,French Equatorial Africa
+40,480,1930,0,1,$,Cuba,French Equatorial Africa
+40,480,1931,0,1,,Cuba,French Equatorial Africa
+40,480,1932,0,1,,Cuba,French Equatorial Africa
+40,480,1933,0,1,,Cuba,French Equatorial Africa
+40,480,1934,0,1,,Cuba,French Equatorial Africa
+40,480,1935,0,1,,Cuba,French Equatorial Africa
+40,480,1936,0,1,,Cuba,French Equatorial Africa
+40,480,1937,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1938,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1939,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1940,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1941,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1942,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1943,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1944,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1945,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1946,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1947,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1948,0,1,Pesos $,Cuba,French Equatorial Africa
+40,480,1949,1059,1,Pesos $,Cuba,French Equatorial Africa
+40,490,1919,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1920,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1921,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1922,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1923,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1924,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1925,0,1,Pesos Moneda Eua,Cuba,"Congo, Dem. Republic"
+40,490,1926,0,1,Pesos Moneda Eua,Cuba,"Congo, Dem. Republic"
+40,490,1927,0,1,Pesos Moneda Nacional,Cuba,"Congo, Dem. Republic"
+40,490,1928,0,1,Pesos Moneda Nacional,Cuba,"Congo, Dem. Republic"
+40,490,1929,0,1,Pesos Moneda Nacional,Cuba,"Congo, Dem. Republic"
+40,490,1930,0,1,$,Cuba,"Congo, Dem. Republic"
+40,490,1931,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1932,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1933,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1934,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1935,0,1,,Cuba,"Congo, Dem. Republic"
+40,490,1936,133298,1,,Cuba,"Congo, Dem. Republic"
+40,490,1937,398688,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1938,227136,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1939,269336,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1940,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1941,2122,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1942,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1943,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1944,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1945,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1946,0,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1947,3100,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1948,15209,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,490,1949,119,1,Pesos $,Cuba,"Congo, Dem. Republic"
+40,505,1919,0,1,,Cuba,British East Africa
+40,505,1920,0,1,,Cuba,British East Africa
+40,505,1921,0,1,,Cuba,British East Africa
+40,505,1922,0,1,,Cuba,British East Africa
+40,505,1923,0,1,,Cuba,British East Africa
+40,505,1924,0,1,,Cuba,British East Africa
+40,505,1925,0,1,Pesos Moneda Eua,Cuba,British East Africa
+40,505,1926,0,1,Pesos Moneda Eua,Cuba,British East Africa
+40,505,1927,0,1,Pesos Moneda Nacional,Cuba,British East Africa
+40,505,1928,0,1,Pesos Moneda Nacional,Cuba,British East Africa
+40,505,1929,0,1,Pesos Moneda Nacional,Cuba,British East Africa
+40,505,1930,0,1,$,Cuba,British East Africa
+40,505,1931,0,1,,Cuba,British East Africa
+40,505,1932,0,1,,Cuba,British East Africa
+40,505,1933,0,1,,Cuba,British East Africa
+40,505,1934,0,1,,Cuba,British East Africa
+40,505,1935,0,1,,Cuba,British East Africa
+40,505,1936,0,1,,Cuba,British East Africa
+40,505,1937,0,1,Pesos $,Cuba,British East Africa
+40,505,1938,0,1,Pesos $,Cuba,British East Africa
+40,505,1939,0,1,Pesos $,Cuba,British East Africa
+40,505,1940,0,1,Pesos $,Cuba,British East Africa
+40,505,1941,0,1,Pesos $,Cuba,British East Africa
+40,505,1942,0,1,Pesos $,Cuba,British East Africa
+40,505,1943,0,1,Pesos $,Cuba,British East Africa
+40,505,1944,0,1,Pesos $,Cuba,British East Africa
+40,505,1945,0,1,Pesos $,Cuba,British East Africa
+40,505,1946,0,1,Pesos $,Cuba,British East Africa
+40,505,1947,0,1,Pesos $,Cuba,British East Africa
+40,505,1948,4874,1,Pesos $,Cuba,British East Africa
+40,505,1949,16978,1,Pesos $,Cuba,British East Africa
+40,521,1919,0,1,,Cuba,British Somaliland
+40,521,1920,0,1,,Cuba,British Somaliland
+40,521,1921,0,1,,Cuba,British Somaliland
+40,521,1922,0,1,,Cuba,British Somaliland
+40,521,1923,0,1,,Cuba,British Somaliland
+40,521,1924,0,1,,Cuba,British Somaliland
+40,521,1925,0,1,Pesos Moneda Eua,Cuba,British Somaliland
+40,521,1926,0,1,Pesos Moneda Eua,Cuba,British Somaliland
+40,521,1927,0,1,Pesos Moneda Nacional,Cuba,British Somaliland
+40,521,1928,0,1,Pesos Moneda Nacional,Cuba,British Somaliland
+40,521,1929,0,1,Pesos Moneda Nacional,Cuba,British Somaliland
+40,521,1930,0,1,$,Cuba,British Somaliland
+40,521,1931,0,1,,Cuba,British Somaliland
+40,521,1932,0,1,,Cuba,British Somaliland
+40,521,1933,0,1,,Cuba,British Somaliland
+40,521,1934,0,1,,Cuba,British Somaliland
+40,521,1935,0,1,,Cuba,British Somaliland
+40,521,1936,0,1,,Cuba,British Somaliland
+40,521,1937,0,1,Pesos $,Cuba,British Somaliland
+40,521,1938,0,1,Pesos $,Cuba,British Somaliland
+40,521,1939,0,1,Pesos $,Cuba,British Somaliland
+40,521,1940,0,1,Pesos $,Cuba,British Somaliland
+40,521,1941,0,1,Pesos $,Cuba,British Somaliland
+40,521,1942,0,1,Pesos $,Cuba,British Somaliland
+40,521,1943,0,1,Pesos $,Cuba,British Somaliland
+40,521,1944,0,1,Pesos $,Cuba,British Somaliland
+40,521,1945,0,1,Pesos $,Cuba,British Somaliland
+40,521,1946,0,1,Pesos $,Cuba,British Somaliland
+40,521,1947,0,1,Pesos $,Cuba,British Somaliland
+40,521,1948,101,1,Pesos $,Cuba,British Somaliland
+40,521,1949,0,1,Pesos $,Cuba,British Somaliland
+40,522,1919,0,1,,Cuba,Djibouti
+40,522,1920,0,1,,Cuba,Djibouti
+40,522,1921,0,1,,Cuba,Djibouti
+40,522,1922,0,1,,Cuba,Djibouti
+40,522,1923,0,1,,Cuba,Djibouti
+40,522,1924,0,1,,Cuba,Djibouti
+40,522,1925,0,1,Pesos Moneda Eua,Cuba,Djibouti
+40,522,1926,0,1,Pesos Moneda Eua,Cuba,Djibouti
+40,522,1927,0,1,Pesos Moneda Nacional,Cuba,Djibouti
+40,522,1928,0,1,Pesos Moneda Nacional,Cuba,Djibouti
+40,522,1929,0,1,Pesos Moneda Nacional,Cuba,Djibouti
+40,522,1930,0,1,$,Cuba,Djibouti
+40,522,1931,0,1,,Cuba,Djibouti
+40,522,1932,0,1,,Cuba,Djibouti
+40,522,1933,0,1,,Cuba,Djibouti
+40,522,1934,0,1,,Cuba,Djibouti
+40,522,1935,0,1,,Cuba,Djibouti
+40,522,1936,0,1,,Cuba,Djibouti
+40,522,1937,0,1,Pesos $,Cuba,Djibouti
+40,522,1938,0,1,Pesos $,Cuba,Djibouti
+40,522,1939,0,1,Pesos $,Cuba,Djibouti
+40,522,1940,0,1,Pesos $,Cuba,Djibouti
+40,522,1941,0,1,Pesos $,Cuba,Djibouti
+40,522,1942,0,1,Pesos $,Cuba,Djibouti
+40,522,1943,0,1,Pesos $,Cuba,Djibouti
+40,522,1944,0,1,Pesos $,Cuba,Djibouti
+40,522,1945,0,1,Pesos $,Cuba,Djibouti
+40,522,1946,0,1,Pesos $,Cuba,Djibouti
+40,522,1947,0,1,Pesos $,Cuba,Djibouti
+40,522,1948,72,1,Pesos $,Cuba,Djibouti
+40,522,1949,0,1,Pesos $,Cuba,Djibouti
+40,530,1919,0,1,,Cuba,Ethiopia
+40,530,1920,0,1,,Cuba,Ethiopia
+40,530,1921,0,1,,Cuba,Ethiopia
+40,530,1922,0,1,,Cuba,Ethiopia
+40,530,1923,0,1,,Cuba,Ethiopia
+40,530,1924,0,1,,Cuba,Ethiopia
+40,530,1925,0,1,Pesos Moneda Eua,Cuba,Ethiopia
+40,530,1926,0,1,Pesos Moneda Eua,Cuba,Ethiopia
+40,530,1927,0,1,Pesos Moneda Nacional,Cuba,Ethiopia
+40,530,1928,0,1,Pesos Moneda Nacional,Cuba,Ethiopia
+40,530,1929,0,1,Pesos Moneda Nacional,Cuba,Ethiopia
+40,530,1930,0,1,$,Cuba,Ethiopia
+40,530,1931,0,1,,Cuba,Ethiopia
+40,530,1932,0,1,,Cuba,Ethiopia
+40,530,1933,0,1,,Cuba,Ethiopia
+40,530,1934,0,1,,Cuba,Ethiopia
+40,530,1935,611,1,,Cuba,Ethiopia
+40,530,1936,0,1,,Cuba,Ethiopia
+40,530,1937,0,1,Pesos $,Cuba,Ethiopia
+40,530,1938,34,1,Pesos $,Cuba,Ethiopia
+40,530,1939,0,1,Pesos $,Cuba,Ethiopia
+40,530,1940,0,1,Pesos $,Cuba,Ethiopia
+40,530,1941,0,1,Pesos $,Cuba,Ethiopia
+40,530,1942,0,1,Pesos $,Cuba,Ethiopia
+40,530,1943,0,1,Pesos $,Cuba,Ethiopia
+40,530,1944,0,1,Pesos $,Cuba,Ethiopia
+40,530,1945,0,1,Pesos $,Cuba,Ethiopia
+40,530,1946,0,1,Pesos $,Cuba,Ethiopia
+40,530,1947,0,1,Pesos $,Cuba,Ethiopia
+40,530,1948,0,1,Pesos $,Cuba,Ethiopia
+40,530,1949,0,1,Pesos $,Cuba,Ethiopia
+40,540,1919,0,1,,Cuba,Angola
+40,540,1920,0,1,,Cuba,Angola
+40,540,1921,0,1,,Cuba,Angola
+40,540,1922,0,1,,Cuba,Angola
+40,540,1923,0,1,,Cuba,Angola
+40,540,1924,0,1,,Cuba,Angola
+40,540,1925,0,1,Pesos Moneda Eua,Cuba,Angola
+40,540,1926,0,1,Pesos Moneda Eua,Cuba,Angola
+40,540,1927,0,1,Pesos Moneda Nacional,Cuba,Angola
+40,540,1928,0,1,Pesos Moneda Nacional,Cuba,Angola
+40,540,1929,0,1,Pesos Moneda Nacional,Cuba,Angola
+40,540,1930,0,1,$,Cuba,Angola
+40,540,1931,0,1,,Cuba,Angola
+40,540,1932,0,1,,Cuba,Angola
+40,540,1933,0,1,,Cuba,Angola
+40,540,1934,0,1,,Cuba,Angola
+40,540,1935,0,1,,Cuba,Angola
+40,540,1936,0,1,,Cuba,Angola
+40,540,1937,0,1,Pesos $,Cuba,Angola
+40,540,1938,0,1,Pesos $,Cuba,Angola
+40,540,1939,0,1,Pesos $,Cuba,Angola
+40,540,1940,0,1,Pesos $,Cuba,Angola
+40,540,1941,0,1,Pesos $,Cuba,Angola
+40,540,1942,0,1,Pesos $,Cuba,Angola
+40,540,1943,0,1,Pesos $,Cuba,Angola
+40,540,1944,0,1,Pesos $,Cuba,Angola
+40,540,1945,0,1,Pesos $,Cuba,Angola
+40,540,1946,0,1,Pesos $,Cuba,Angola
+40,540,1947,0,1,Pesos $,Cuba,Angola
+40,540,1948,0,1,Pesos $,Cuba,Angola
+40,540,1949,542,1,Pesos $,Cuba,Angola
+40,560,1919,0,1,,Cuba,South Africa
+40,560,1920,0,1,,Cuba,South Africa
+40,560,1921,0,1,,Cuba,South Africa
+40,560,1922,0,1,,Cuba,South Africa
+40,560,1923,0,1,,Cuba,South Africa
+40,560,1924,0,1,,Cuba,South Africa
+40,560,1925,0,1,Pesos Moneda Eua,Cuba,South Africa
+40,560,1926,0,1,Pesos Moneda Eua,Cuba,South Africa
+40,560,1927,0,1,Pesos Moneda Nacional,Cuba,South Africa
+40,560,1928,0,1,Pesos Moneda Nacional,Cuba,South Africa
+40,560,1929,0,1,Pesos Moneda Nacional,Cuba,South Africa
+40,560,1930,0,1,$,Cuba,South Africa
+40,560,1931,0,1,,Cuba,South Africa
+40,560,1932,0,1,,Cuba,South Africa
+40,560,1933,0,1,,Cuba,South Africa
+40,560,1934,0,1,,Cuba,South Africa
+40,560,1935,0,1,,Cuba,South Africa
+40,560,1936,0,1,,Cuba,South Africa
+40,560,1937,0,1,Pesos $,Cuba,South Africa
+40,560,1938,0,1,Pesos $,Cuba,South Africa
+40,560,1939,0,1,Pesos $,Cuba,South Africa
+40,560,1940,0,1,Pesos $,Cuba,South Africa
+40,560,1941,0,1,Pesos $,Cuba,South Africa
+40,560,1942,0,1,Pesos $,Cuba,South Africa
+40,560,1943,13830,1,Pesos $,Cuba,South Africa
+40,560,1944,7440,1,Pesos $,Cuba,South Africa
+40,560,1945,61306,1,Pesos $,Cuba,South Africa
+40,560,1946,1026,1,Pesos $,Cuba,South Africa
+40,560,1947,170585,1,Pesos $,Cuba,South Africa
+40,560,1948,58422,1,Pesos $,Cuba,South Africa
+40,560,1949,3732,1,Pesos $,Cuba,South Africa
+40,573,1919,0,1,,Cuba,British South Africa
+40,573,1920,0,1,,Cuba,British South Africa
+40,573,1921,0,1,,Cuba,British South Africa
+40,573,1922,0,1,,Cuba,British South Africa
+40,573,1923,0,1,,Cuba,British South Africa
+40,573,1924,0,1,,Cuba,British South Africa
+40,573,1925,0,1,Pesos Moneda Eua,Cuba,British South Africa
+40,573,1926,0,1,Pesos Moneda Eua,Cuba,British South Africa
+40,573,1927,0,1,Pesos Moneda Nacional,Cuba,British South Africa
+40,573,1928,0,1,Pesos Moneda Nacional,Cuba,British South Africa
+40,573,1929,0,1,Pesos Moneda Nacional,Cuba,British South Africa
+40,573,1930,0,1,$,Cuba,British South Africa
+40,573,1931,0,1,,Cuba,British South Africa
+40,573,1932,0,1,,Cuba,British South Africa
+40,573,1933,0,1,,Cuba,British South Africa
+40,573,1934,0,1,,Cuba,British South Africa
+40,573,1935,0,1,,Cuba,British South Africa
+40,573,1936,0,1,,Cuba,British South Africa
+40,573,1937,0,1,Pesos $,Cuba,British South Africa
+40,573,1938,0,1,Pesos $,Cuba,British South Africa
+40,573,1939,0,1,Pesos $,Cuba,British South Africa
+40,573,1940,0,1,Pesos $,Cuba,British South Africa
+40,573,1941,0,1,Pesos $,Cuba,British South Africa
+40,573,1942,0,1,Pesos $,Cuba,British South Africa
+40,573,1943,0,1,Pesos $,Cuba,British South Africa
+40,573,1944,0,1,Pesos $,Cuba,British South Africa
+40,573,1945,0,1,Pesos $,Cuba,British South Africa
+40,573,1946,0,1,Pesos $,Cuba,British South Africa
+40,573,1947,0,1,Pesos $,Cuba,British South Africa
+40,573,1948,18348,1,Pesos $,Cuba,British South Africa
+40,573,1949,21466,1,Pesos $,Cuba,British South Africa
+40,580,1919,0,1,,Cuba,Madagascar
+40,580,1920,0,1,,Cuba,Madagascar
+40,580,1921,0,1,,Cuba,Madagascar
+40,580,1922,0,1,,Cuba,Madagascar
+40,580,1923,0,1,,Cuba,Madagascar
+40,580,1924,0,1,,Cuba,Madagascar
+40,580,1925,0,1,Pesos Moneda Eua,Cuba,Madagascar
+40,580,1926,0,1,Pesos Moneda Eua,Cuba,Madagascar
+40,580,1927,0,1,Pesos Moneda Nacional,Cuba,Madagascar
+40,580,1928,0,1,Pesos Moneda Nacional,Cuba,Madagascar
+40,580,1929,0,1,Pesos Moneda Nacional,Cuba,Madagascar
+40,580,1930,0,1,$,Cuba,Madagascar
+40,580,1931,0,1,,Cuba,Madagascar
+40,580,1932,0,1,,Cuba,Madagascar
+40,580,1933,0,1,,Cuba,Madagascar
+40,580,1934,0,1,,Cuba,Madagascar
+40,580,1935,664,1,,Cuba,Madagascar
+40,580,1936,2335,1,,Cuba,Madagascar
+40,580,1937,46,1,Pesos $,Cuba,Madagascar
+40,580,1938,307,1,Pesos $,Cuba,Madagascar
+40,580,1939,2356,1,Pesos $,Cuba,Madagascar
+40,580,1940,396,1,Pesos $,Cuba,Madagascar
+40,580,1941,0,1,Pesos $,Cuba,Madagascar
+40,580,1942,0,1,Pesos $,Cuba,Madagascar
+40,580,1943,0,1,Pesos $,Cuba,Madagascar
+40,580,1944,250,1,Pesos $,Cuba,Madagascar
+40,580,1945,400,1,Pesos $,Cuba,Madagascar
+40,580,1946,120,1,Pesos $,Cuba,Madagascar
+40,580,1947,516,1,Pesos $,Cuba,Madagascar
+40,580,1948,11542,1,Pesos $,Cuba,Madagascar
+40,580,1949,7653,1,Pesos $,Cuba,Madagascar
+40,600,1919,0,1,,Cuba,Morocco
+40,600,1920,0,1,,Cuba,Morocco
+40,600,1921,0,1,,Cuba,Morocco
+40,600,1922,0,1,,Cuba,Morocco
+40,600,1923,0,1,,Cuba,Morocco
+40,600,1924,0,1,,Cuba,Morocco
+40,600,1925,0,1,Pesos Moneda Eua,Cuba,Morocco
+40,600,1926,0,1,Pesos Moneda Eua,Cuba,Morocco
+40,600,1927,0,1,Pesos Moneda Nacional,Cuba,Morocco
+40,600,1928,0,1,Pesos Moneda Nacional,Cuba,Morocco
+40,600,1929,0,1,Pesos Moneda Nacional,Cuba,Morocco
+40,600,1930,0,1,$,Cuba,Morocco
+40,600,1931,0,1,,Cuba,Morocco
+40,600,1932,0,1,,Cuba,Morocco
+40,600,1933,0,1,,Cuba,Morocco
+40,600,1934,0,1,,Cuba,Morocco
+40,600,1935,0,1,,Cuba,Morocco
+40,600,1936,502,1,,Cuba,Morocco
+40,600,1937,5578,1,Pesos $,Cuba,Morocco
+40,600,1938,36623,1,Pesos $,Cuba,Morocco
+40,600,1939,36001,1,Pesos $,Cuba,Morocco
+40,600,1940,13467,1,Pesos $,Cuba,Morocco
+40,600,1941,405,1,Pesos $,Cuba,Morocco
+40,600,1942,0,1,Pesos $,Cuba,Morocco
+40,600,1943,0,1,Pesos $,Cuba,Morocco
+40,600,1944,0,1,Pesos $,Cuba,Morocco
+40,600,1945,0,1,Pesos $,Cuba,Morocco
+40,600,1946,0,1,Pesos $,Cuba,Morocco
+40,600,1947,1998,1,Pesos $,Cuba,Morocco
+40,600,1948,1653,1,Pesos $,Cuba,Morocco
+40,600,1949,90999,1,Pesos $,Cuba,Morocco
+40,601,1919,0,1,,Cuba,Tangier
+40,601,1920,0,1,,Cuba,Tangier
+40,601,1921,0,1,,Cuba,Tangier
+40,601,1922,0,1,,Cuba,Tangier
+40,601,1923,0,1,,Cuba,Tangier
+40,601,1924,0,1,,Cuba,Tangier
+40,601,1925,0,1,Pesos Moneda Eua,Cuba,Tangier
+40,601,1926,0,1,Pesos Moneda Eua,Cuba,Tangier
+40,601,1927,0,1,Pesos Moneda Nacional,Cuba,Tangier
+40,601,1928,0,1,Pesos Moneda Nacional,Cuba,Tangier
+40,601,1929,0,1,Pesos Moneda Nacional,Cuba,Tangier
+40,601,1930,0,1,$,Cuba,Tangier
+40,601,1931,0,1,,Cuba,Tangier
+40,601,1932,0,1,,Cuba,Tangier
+40,601,1933,0,1,,Cuba,Tangier
+40,601,1934,0,1,,Cuba,Tangier
+40,601,1935,0,1,,Cuba,Tangier
+40,601,1936,0,1,,Cuba,Tangier
+40,601,1937,0,1,Pesos $,Cuba,Tangier
+40,601,1938,0,1,Pesos $,Cuba,Tangier
+40,601,1939,0,1,Pesos $,Cuba,Tangier
+40,601,1940,0,1,Pesos $,Cuba,Tangier
+40,601,1941,0,1,Pesos $,Cuba,Tangier
+40,601,1942,0,1,Pesos $,Cuba,Tangier
+40,601,1943,0,1,Pesos $,Cuba,Tangier
+40,601,1944,922,1,Pesos $,Cuba,Tangier
+40,601,1945,0,1,Pesos $,Cuba,Tangier
+40,601,1946,0,1,Pesos $,Cuba,Tangier
+40,601,1947,0,1,Pesos $,Cuba,Tangier
+40,601,1948,0,1,Pesos $,Cuba,Tangier
+40,601,1949,11248,1,Pesos $,Cuba,Tangier
+40,602,1919,0,1,,Cuba,Spanish Morocco
+40,602,1920,0,1,,Cuba,Spanish Morocco
+40,602,1921,0,1,,Cuba,Spanish Morocco
+40,602,1922,0,1,,Cuba,Spanish Morocco
+40,602,1923,0,1,,Cuba,Spanish Morocco
+40,602,1924,0,1,,Cuba,Spanish Morocco
+40,602,1925,0,1,Pesos Moneda Eua,Cuba,Spanish Morocco
+40,602,1926,0,1,Pesos Moneda Eua,Cuba,Spanish Morocco
+40,602,1927,0,1,Pesos Moneda Nacional,Cuba,Spanish Morocco
+40,602,1928,0,1,Pesos Moneda Nacional,Cuba,Spanish Morocco
+40,602,1929,0,1,Pesos Moneda Nacional,Cuba,Spanish Morocco
+40,602,1930,0,1,$,Cuba,Spanish Morocco
+40,602,1931,0,1,,Cuba,Spanish Morocco
+40,602,1932,0,1,,Cuba,Spanish Morocco
+40,602,1933,0,1,,Cuba,Spanish Morocco
+40,602,1934,0,1,,Cuba,Spanish Morocco
+40,602,1935,2496,1,,Cuba,Spanish Morocco
+40,602,1936,1930,1,,Cuba,Spanish Morocco
+40,602,1937,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1938,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1939,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1940,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1941,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1942,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1943,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1944,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1945,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1946,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1947,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1948,0,1,Pesos $,Cuba,Spanish Morocco
+40,602,1949,5125,1,Pesos $,Cuba,Spanish Morocco
+40,615,1919,0,1,,Cuba,Algeria
+40,615,1920,0,1,,Cuba,Algeria
+40,615,1921,0,1,,Cuba,Algeria
+40,615,1922,10380,1,,Cuba,Algeria
+40,615,1923,6722,1,,Cuba,Algeria
+40,615,1924,39842,1,,Cuba,Algeria
+40,615,1925,1391,1,Pesos Moneda Eua,Cuba,Algeria
+40,615,1926,19700,1,Pesos Moneda Eua,Cuba,Algeria
+40,615,1927,2009,1,Pesos Moneda Nacional,Cuba,Algeria
+40,615,1928,0,1,Pesos Moneda Nacional,Cuba,Algeria
+40,615,1929,0,1,Pesos Moneda Nacional,Cuba,Algeria
+40,615,1930,0,1,$,Cuba,Algeria
+40,615,1931,0,1,,Cuba,Algeria
+40,615,1932,0,1,,Cuba,Algeria
+40,615,1933,0,1,,Cuba,Algeria
+40,615,1934,0,1,,Cuba,Algeria
+40,615,1935,0,1,,Cuba,Algeria
+40,615,1936,1507,1,,Cuba,Algeria
+40,615,1937,39155,1,Pesos $,Cuba,Algeria
+40,615,1938,179886,1,Pesos $,Cuba,Algeria
+40,615,1939,117470,1,Pesos $,Cuba,Algeria
+40,615,1940,32033,1,Pesos $,Cuba,Algeria
+40,615,1941,0,1,Pesos $,Cuba,Algeria
+40,615,1942,10,1,Pesos $,Cuba,Algeria
+40,615,1943,0,1,Pesos $,Cuba,Algeria
+40,615,1944,0,1,Pesos $,Cuba,Algeria
+40,615,1945,0,1,Pesos $,Cuba,Algeria
+40,615,1946,0,1,Pesos $,Cuba,Algeria
+40,615,1947,406,1,Pesos $,Cuba,Algeria
+40,615,1948,17849,1,Pesos $,Cuba,Algeria
+40,615,1949,40423,1,Pesos $,Cuba,Algeria
+40,616,1919,0,1,,Cuba,Tunisia
+40,616,1920,0,1,,Cuba,Tunisia
+40,616,1921,0,1,,Cuba,Tunisia
+40,616,1922,0,1,,Cuba,Tunisia
+40,616,1923,0,1,,Cuba,Tunisia
+40,616,1924,0,1,,Cuba,Tunisia
+40,616,1925,0,1,Pesos Moneda Eua,Cuba,Tunisia
+40,616,1926,0,1,Pesos Moneda Eua,Cuba,Tunisia
+40,616,1927,0,1,Pesos Moneda Nacional,Cuba,Tunisia
+40,616,1928,0,1,Pesos Moneda Nacional,Cuba,Tunisia
+40,616,1929,0,1,Pesos Moneda Nacional,Cuba,Tunisia
+40,616,1930,0,1,$,Cuba,Tunisia
+40,616,1931,0,1,,Cuba,Tunisia
+40,616,1932,0,1,,Cuba,Tunisia
+40,616,1933,0,1,,Cuba,Tunisia
+40,616,1934,0,1,,Cuba,Tunisia
+40,616,1935,0,1,,Cuba,Tunisia
+40,616,1936,0,1,,Cuba,Tunisia
+40,616,1937,0,1,Pesos $,Cuba,Tunisia
+40,616,1938,1066,1,Pesos $,Cuba,Tunisia
+40,616,1939,202,1,Pesos $,Cuba,Tunisia
+40,616,1940,0,1,Pesos $,Cuba,Tunisia
+40,616,1941,0,1,Pesos $,Cuba,Tunisia
+40,616,1942,0,1,Pesos $,Cuba,Tunisia
+40,616,1943,0,1,Pesos $,Cuba,Tunisia
+40,616,1944,0,1,Pesos $,Cuba,Tunisia
+40,616,1945,0,1,Pesos $,Cuba,Tunisia
+40,616,1946,0,1,Pesos $,Cuba,Tunisia
+40,616,1947,0,1,Pesos $,Cuba,Tunisia
+40,616,1948,0,1,Pesos $,Cuba,Tunisia
+40,616,1949,0,1,Pesos $,Cuba,Tunisia
+40,620,1919,0,1,,Cuba,Libya
+40,620,1920,0,1,,Cuba,Libya
+40,620,1921,0,1,,Cuba,Libya
+40,620,1922,0,1,,Cuba,Libya
+40,620,1923,0,1,,Cuba,Libya
+40,620,1924,0,1,,Cuba,Libya
+40,620,1925,0,1,Pesos Moneda Eua,Cuba,Libya
+40,620,1926,0,1,Pesos Moneda Eua,Cuba,Libya
+40,620,1927,0,1,Pesos Moneda Nacional,Cuba,Libya
+40,620,1928,0,1,Pesos Moneda Nacional,Cuba,Libya
+40,620,1929,0,1,Pesos Moneda Nacional,Cuba,Libya
+40,620,1930,0,1,$,Cuba,Libya
+40,620,1931,0,1,,Cuba,Libya
+40,620,1932,0,1,,Cuba,Libya
+40,620,1933,0,1,,Cuba,Libya
+40,620,1934,0,1,,Cuba,Libya
+40,620,1935,0,1,,Cuba,Libya
+40,620,1936,0,1,,Cuba,Libya
+40,620,1937,0,1,Pesos $,Cuba,Libya
+40,620,1938,0,1,Pesos $,Cuba,Libya
+40,620,1939,0,1,Pesos $,Cuba,Libya
+40,620,1940,0,1,Pesos $,Cuba,Libya
+40,620,1941,0,1,Pesos $,Cuba,Libya
+40,620,1942,0,1,Pesos $,Cuba,Libya
+40,620,1943,0,1,Pesos $,Cuba,Libya
+40,620,1944,0,1,Pesos $,Cuba,Libya
+40,620,1945,0,1,Pesos $,Cuba,Libya
+40,620,1946,0,1,Pesos $,Cuba,Libya
+40,620,1947,0,1,Pesos $,Cuba,Libya
+40,620,1948,0,1,Pesos $,Cuba,Libya
+40,620,1949,0,1,Pesos $,Cuba,Libya
+40,625,1919,0,1,,Cuba,Sudan
+40,625,1920,0,1,,Cuba,Sudan
+40,625,1921,0,1,,Cuba,Sudan
+40,625,1922,0,1,,Cuba,Sudan
+40,625,1923,0,1,,Cuba,Sudan
+40,625,1924,0,1,,Cuba,Sudan
+40,625,1925,0,1,Pesos Moneda Eua,Cuba,Sudan
+40,625,1926,0,1,Pesos Moneda Eua,Cuba,Sudan
+40,625,1927,0,1,Pesos Moneda Nacional,Cuba,Sudan
+40,625,1928,0,1,Pesos Moneda Nacional,Cuba,Sudan
+40,625,1929,0,1,Pesos Moneda Nacional,Cuba,Sudan
+40,625,1930,0,1,$,Cuba,Sudan
+40,625,1931,0,1,,Cuba,Sudan
+40,625,1932,0,1,,Cuba,Sudan
+40,625,1933,0,1,,Cuba,Sudan
+40,625,1934,0,1,,Cuba,Sudan
+40,625,1935,0,1,,Cuba,Sudan
+40,625,1936,1429,1,,Cuba,Sudan
+40,625,1937,936,1,Pesos $,Cuba,Sudan
+40,625,1938,2307,1,Pesos $,Cuba,Sudan
+40,625,1939,2115,1,Pesos $,Cuba,Sudan
+40,625,1940,1387,1,Pesos $,Cuba,Sudan
+40,625,1941,2150,1,Pesos $,Cuba,Sudan
+40,625,1942,0,1,Pesos $,Cuba,Sudan
+40,625,1943,0,1,Pesos $,Cuba,Sudan
+40,625,1944,0,1,Pesos $,Cuba,Sudan
+40,625,1945,0,1,Pesos $,Cuba,Sudan
+40,625,1946,0,1,Pesos $,Cuba,Sudan
+40,625,1947,0,1,Pesos $,Cuba,Sudan
+40,625,1948,652,1,Pesos $,Cuba,Sudan
+40,625,1949,404,1,Pesos $,Cuba,Sudan
+40,630,1912,666,,,Cuba,Iran
+40,630,1914,1039,,,Cuba,Iran
+40,630,1915,207,,,Cuba,Iran
+40,630,1916,16,,,Cuba,Iran
+40,630,1919,0,1,,Cuba,Iran
+40,630,1920,138,1,,Cuba,Iran
+40,630,1921,4673,1,,Cuba,Iran
+40,630,1922,553,1,,Cuba,Iran
+40,630,1923,1944,1,,Cuba,Iran
+40,630,1924,7579,1,,Cuba,Iran
+40,630,1925,1435,1,Pesos Moneda Eua,Cuba,Iran
+40,630,1926,110,1,Pesos Moneda Eua,Cuba,Iran
+40,630,1927,1478,1,Pesos Moneda Nacional,Cuba,Iran
+40,630,1928,14942,1,Pesos Moneda Nacional,Cuba,Iran
+40,630,1929,1486,1,Pesos Moneda Nacional,Cuba,Iran
+40,630,1930,2333,1,$,Cuba,Iran
+40,630,1931,1446,1,,Cuba,Iran
+40,630,1932,2067,1,,Cuba,Iran
+40,630,1933,3156,1,,Cuba,Iran
+40,630,1934,5920,1,,Cuba,Iran
+40,630,1935,2854,1,,Cuba,Iran
+40,630,1936,0,1,,Cuba,Iran
+40,630,1937,0,1,Pesos $,Cuba,Iran
+40,630,1938,967,1,Pesos $,Cuba,Iran
+40,630,1939,133,1,Pesos $,Cuba,Iran
+40,630,1940,0,1,Pesos $,Cuba,Iran
+40,630,1941,0,1,Pesos $,Cuba,Iran
+40,630,1942,0,1,Pesos $,Cuba,Iran
+40,630,1943,0,1,Pesos $,Cuba,Iran
+40,630,1944,0,1,Pesos $,Cuba,Iran
+40,630,1945,0,1,Pesos $,Cuba,Iran
+40,630,1946,397,1,Pesos $,Cuba,Iran
+40,630,1947,0,1,Pesos $,Cuba,Iran
+40,630,1948,11386,1,Pesos $,Cuba,Iran
+40,630,1949,15661,1,Pesos $,Cuba,Iran
+40,640,1912,24617,,,Cuba,Turkey
+40,640,1914,69588,,,Cuba,Turkey
+40,640,1915,56006,,,Cuba,Turkey
+40,640,1916,16737,,,Cuba,Turkey
+40,640,1919,80580,1,,Cuba,Turkey
+40,640,1920,1103,1,,Cuba,Turkey
+40,640,1921,934,1,,Cuba,Turkey
+40,640,1922,512,1,,Cuba,Turkey
+40,640,1923,3900,1,,Cuba,Turkey
+40,640,1924,20753,1,,Cuba,Turkey
+40,640,1925,10395,1,Pesos Moneda Eua,Cuba,Turkey
+40,640,1926,2479,1,Pesos Moneda Eua,Cuba,Turkey
+40,640,1927,95,1,Pesos Moneda Nacional,Cuba,Turkey
+40,640,1928,9499,1,Pesos Moneda Nacional,Cuba,Turkey
+40,640,1929,6825,1,Pesos Moneda Nacional,Cuba,Turkey
+40,640,1930,2710,1,$,Cuba,Turkey
+40,640,1931,6199,1,,Cuba,Turkey
+40,640,1932,5004,1,,Cuba,Turkey
+40,640,1933,13563,1,,Cuba,Turkey
+40,640,1934,6754,1,,Cuba,Turkey
+40,640,1935,8216,1,,Cuba,Turkey
+40,640,1936,11893,1,,Cuba,Turkey
+40,640,1937,20356,1,Pesos $,Cuba,Turkey
+40,640,1938,19088,1,Pesos $,Cuba,Turkey
+40,640,1939,9597,1,Pesos $,Cuba,Turkey
+40,640,1940,0,1,Pesos $,Cuba,Turkey
+40,640,1941,0,1,Pesos $,Cuba,Turkey
+40,640,1942,0,1,Pesos $,Cuba,Turkey
+40,640,1943,0,1,Pesos $,Cuba,Turkey
+40,640,1944,3516,1,Pesos $,Cuba,Turkey
+40,640,1945,0,1,Pesos $,Cuba,Turkey
+40,640,1946,4080,1,Pesos $,Cuba,Turkey
+40,640,1947,96049,1,Pesos $,Cuba,Turkey
+40,640,1948,79855,1,Pesos $,Cuba,Turkey
+40,640,1949,37280,1,Pesos $,Cuba,Turkey
+40,645,1919,0,1,,Cuba,Iraq
+40,645,1920,0,1,,Cuba,Iraq
+40,645,1921,0,1,,Cuba,Iraq
+40,645,1922,0,1,,Cuba,Iraq
+40,645,1923,0,1,,Cuba,Iraq
+40,645,1924,0,1,,Cuba,Iraq
+40,645,1925,0,1,Pesos Moneda Eua,Cuba,Iraq
+40,645,1926,0,1,Pesos Moneda Eua,Cuba,Iraq
+40,645,1927,0,1,Pesos Moneda Nacional,Cuba,Iraq
+40,645,1928,0,1,Pesos Moneda Nacional,Cuba,Iraq
+40,645,1929,0,1,Pesos Moneda Nacional,Cuba,Iraq
+40,645,1930,0,1,$,Cuba,Iraq
+40,645,1931,0,1,,Cuba,Iraq
+40,645,1932,130,1,,Cuba,Iraq
+40,645,1933,0,1,,Cuba,Iraq
+40,645,1934,0,1,,Cuba,Iraq
+40,645,1935,0,1,,Cuba,Iraq
+40,645,1936,0,1,,Cuba,Iraq
+40,645,1937,0,1,Pesos $,Cuba,Iraq
+40,645,1938,0,1,Pesos $,Cuba,Iraq
+40,645,1939,0,1,Pesos $,Cuba,Iraq
+40,645,1940,0,1,Pesos $,Cuba,Iraq
+40,645,1941,0,1,Pesos $,Cuba,Iraq
+40,645,1942,0,1,Pesos $,Cuba,Iraq
+40,645,1943,0,1,Pesos $,Cuba,Iraq
+40,645,1944,0,1,Pesos $,Cuba,Iraq
+40,645,1945,0,1,Pesos $,Cuba,Iraq
+40,645,1946,0,1,Pesos $,Cuba,Iraq
+40,645,1947,0,1,Pesos $,Cuba,Iraq
+40,645,1948,702,1,Pesos $,Cuba,Iraq
+40,645,1949,3649,1,Pesos $,Cuba,Iraq
+40,651,1912,6700,,,Cuba,Egypt
+40,651,1914,1709,,,Cuba,Egypt
+40,651,1915,72,,,Cuba,Egypt
+40,651,1919,0,1,,Cuba,Egypt
+40,651,1920,1991,1,,Cuba,Egypt
+40,651,1921,206,1,,Cuba,Egypt
+40,651,1922,0,1,,Cuba,Egypt
+40,651,1923,21305,1,,Cuba,Egypt
+40,651,1924,72303,1,,Cuba,Egypt
+40,651,1925,142533,1,Pesos Moneda Eua,Cuba,Egypt
+40,651,1926,232526,1,Pesos Moneda Eua,Cuba,Egypt
+40,651,1927,278516,1,Pesos Moneda Nacional,Cuba,Egypt
+40,651,1928,326007,1,Pesos Moneda Nacional,Cuba,Egypt
+40,651,1929,314083,1,Pesos Moneda Nacional,Cuba,Egypt
+40,651,1930,250170,1,$,Cuba,Egypt
+40,651,1931,61727,1,,Cuba,Egypt
+40,651,1932,64505,1,,Cuba,Egypt
+40,651,1933,156271,1,,Cuba,Egypt
+40,651,1934,200240,1,,Cuba,Egypt
+40,651,1935,87250,1,,Cuba,Egypt
+40,651,1936,22227,1,,Cuba,Egypt
+40,651,1937,104905,1,Pesos $,Cuba,Egypt
+40,651,1938,2152,1,Pesos $,Cuba,Egypt
+40,651,1939,41690,1,Pesos $,Cuba,Egypt
+40,651,1940,12188,1,Pesos $,Cuba,Egypt
+40,651,1941,102,1,Pesos $,Cuba,Egypt
+40,651,1942,29,1,Pesos $,Cuba,Egypt
+40,651,1943,0,1,Pesos $,Cuba,Egypt
+40,651,1944,0,1,Pesos $,Cuba,Egypt
+40,651,1945,0,1,Pesos $,Cuba,Egypt
+40,651,1946,48767,1,Pesos $,Cuba,Egypt
+40,651,1947,8061,1,Pesos $,Cuba,Egypt
+40,651,1948,392023,1,Pesos $,Cuba,Egypt
+40,651,1949,32340,1,Pesos $,Cuba,Egypt
+40,652,1919,0,1,,Cuba,Syria
+40,652,1920,0,1,,Cuba,Syria
+40,652,1921,0,1,,Cuba,Syria
+40,652,1922,0,1,,Cuba,Syria
+40,652,1923,0,1,,Cuba,Syria
+40,652,1924,0,1,,Cuba,Syria
+40,652,1925,68,1,Pesos Moneda Eua,Cuba,Syria
+40,652,1926,0,1,Pesos Moneda Eua,Cuba,Syria
+40,652,1927,0,1,Pesos Moneda Nacional,Cuba,Syria
+40,652,1928,519,1,Pesos Moneda Nacional,Cuba,Syria
+40,652,1929,627,1,Pesos Moneda Nacional,Cuba,Syria
+40,652,1930,2880,1,$,Cuba,Syria
+40,652,1931,5512,1,,Cuba,Syria
+40,652,1932,3677,1,,Cuba,Syria
+40,652,1933,250,1,,Cuba,Syria
+40,652,1934,703,1,,Cuba,Syria
+40,652,1935,7741,1,,Cuba,Syria
+40,652,1936,1266,1,,Cuba,Syria
+40,652,1937,7405,1,Pesos $,Cuba,Syria
+40,652,1938,2416,1,Pesos $,Cuba,Syria
+40,652,1939,1964,1,Pesos $,Cuba,Syria
+40,652,1940,5083,1,Pesos $,Cuba,Syria
+40,652,1941,0,1,Pesos $,Cuba,Syria
+40,652,1942,0,1,Pesos $,Cuba,Syria
+40,652,1943,0,1,Pesos $,Cuba,Syria
+40,652,1944,0,1,Pesos $,Cuba,Syria
+40,652,1945,0,1,Pesos $,Cuba,Syria
+40,652,1946,501829,1,Pesos $,Cuba,Syria
+40,652,1947,33594,1,Pesos $,Cuba,Syria
+40,652,1948,10431,1,Pesos $,Cuba,Syria
+40,652,1949,5039,1,Pesos $,Cuba,Syria
+40,665,1919,0,1,,Cuba,West Bank And Gaza
+40,665,1920,0,1,,Cuba,West Bank And Gaza
+40,665,1921,0,1,,Cuba,West Bank And Gaza
+40,665,1922,0,1,,Cuba,West Bank And Gaza
+40,665,1923,0,1,,Cuba,West Bank And Gaza
+40,665,1924,0,1,,Cuba,West Bank And Gaza
+40,665,1925,0,1,Pesos Moneda Eua,Cuba,West Bank And Gaza
+40,665,1926,0,1,Pesos Moneda Eua,Cuba,West Bank And Gaza
+40,665,1927,0,1,Pesos Moneda Nacional,Cuba,West Bank And Gaza
+40,665,1928,0,1,Pesos Moneda Nacional,Cuba,West Bank And Gaza
+40,665,1929,21,1,Pesos Moneda Nacional,Cuba,West Bank And Gaza
+40,665,1930,50,1,$,Cuba,West Bank And Gaza
+40,665,1931,0,1,,Cuba,West Bank And Gaza
+40,665,1932,0,1,,Cuba,West Bank And Gaza
+40,665,1933,106,1,,Cuba,West Bank And Gaza
+40,665,1934,680,1,,Cuba,West Bank And Gaza
+40,665,1935,15,1,,Cuba,West Bank And Gaza
+40,665,1936,289,1,,Cuba,West Bank And Gaza
+40,665,1937,10416,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1938,2472,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1939,8,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1940,1638,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1941,10,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1942,0,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1943,1561,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1944,360,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1945,1856,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1946,243,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1947,6601,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1948,331,1,Pesos $,Cuba,West Bank And Gaza
+40,665,1949,846,1,Pesos $,Cuba,West Bank And Gaza
+40,675,1912,163,,,Cuba,Arabia
+40,675,1914,1455,,,Cuba,Arabia
+40,675,1915,2017,,,Cuba,Arabia
+40,675,1916,1353,,,Cuba,Arabia
+40,675,1919,608,1,,Cuba,Arabia
+40,675,1920,0,1,,Cuba,Arabia
+40,675,1921,0,1,,Cuba,Arabia
+40,675,1922,0,1,,Cuba,Arabia
+40,675,1923,50,1,,Cuba,Arabia
+40,675,1924,387,1,,Cuba,Arabia
+40,675,1925,0,1,Pesos Moneda Eua,Cuba,Arabia
+40,675,1926,0,1,Pesos Moneda Eua,Cuba,Arabia
+40,675,1927,0,1,Pesos Moneda Nacional,Cuba,Arabia
+40,675,1928,5510,1,Pesos Moneda Nacional,Cuba,Arabia
+40,675,1929,421,1,Pesos Moneda Nacional,Cuba,Arabia
+40,675,1930,231,1,$,Cuba,Arabia
+40,675,1931,206,1,,Cuba,Arabia
+40,675,1932,795,1,,Cuba,Arabia
+40,675,1933,1218,1,,Cuba,Arabia
+40,675,1934,1881,1,,Cuba,Arabia
+40,675,1935,1873,1,,Cuba,Arabia
+40,675,1936,0,1,,Cuba,Arabia
+40,675,1937,290,1,Pesos $,Cuba,Arabia
+40,675,1938,254,1,Pesos $,Cuba,Arabia
+40,675,1939,0,1,Pesos $,Cuba,Arabia
+40,675,1940,0,1,Pesos $,Cuba,Arabia
+40,675,1941,398,1,Pesos $,Cuba,Arabia
+40,675,1942,0,1,Pesos $,Cuba,Arabia
+40,675,1943,0,1,Pesos $,Cuba,Arabia
+40,675,1944,0,1,Pesos $,Cuba,Arabia
+40,675,1945,0,1,Pesos $,Cuba,Arabia
+40,675,1946,0,1,Pesos $,Cuba,Arabia
+40,675,1947,0,1,Pesos $,Cuba,Arabia
+40,675,1948,3967,1,Pesos $,Cuba,Arabia
+40,675,1949,3632,1,Pesos $,Cuba,Arabia
+40,700,1919,0,1,,Cuba,Afghanistan
+40,700,1920,0,1,,Cuba,Afghanistan
+40,700,1921,0,1,,Cuba,Afghanistan
+40,700,1922,0,1,,Cuba,Afghanistan
+40,700,1923,0,1,,Cuba,Afghanistan
+40,700,1924,0,1,,Cuba,Afghanistan
+40,700,1925,0,1,Pesos Moneda Eua,Cuba,Afghanistan
+40,700,1926,0,1,Pesos Moneda Eua,Cuba,Afghanistan
+40,700,1927,0,1,Pesos Moneda Nacional,Cuba,Afghanistan
+40,700,1928,0,1,Pesos Moneda Nacional,Cuba,Afghanistan
+40,700,1929,0,1,Pesos Moneda Nacional,Cuba,Afghanistan
+40,700,1930,0,1,$,Cuba,Afghanistan
+40,700,1931,0,1,,Cuba,Afghanistan
+40,700,1932,0,1,,Cuba,Afghanistan
+40,700,1933,0,1,,Cuba,Afghanistan
+40,700,1934,0,1,,Cuba,Afghanistan
+40,700,1935,0,1,,Cuba,Afghanistan
+40,700,1936,0,1,,Cuba,Afghanistan
+40,700,1937,0,1,Pesos $,Cuba,Afghanistan
+40,700,1938,0,1,Pesos $,Cuba,Afghanistan
+40,700,1939,0,1,Pesos $,Cuba,Afghanistan
+40,700,1940,0,1,Pesos $,Cuba,Afghanistan
+40,700,1941,0,1,Pesos $,Cuba,Afghanistan
+40,700,1942,0,1,Pesos $,Cuba,Afghanistan
+40,700,1943,0,1,Pesos $,Cuba,Afghanistan
+40,700,1944,0,1,Pesos $,Cuba,Afghanistan
+40,700,1945,0,1,Pesos $,Cuba,Afghanistan
+40,700,1946,0,1,Pesos $,Cuba,Afghanistan
+40,700,1947,0,1,Pesos $,Cuba,Afghanistan
+40,700,1948,0,1,Pesos $,Cuba,Afghanistan
+40,700,1949,52,1,Pesos $,Cuba,Afghanistan
+40,710,1912,105904,,,Cuba,China
+40,710,1914,118530,,,Cuba,China
+40,710,1915,174670,,,Cuba,China
+40,710,1916,1191643,,,Cuba,China
+40,710,1919,2160147,1,,Cuba,China
+40,710,1920,18693007,1,,Cuba,China
+40,710,1921,4587667,1,,Cuba,China
+40,710,1922,1477607,1,,Cuba,China
+40,710,1923,1344588,1,,Cuba,China
+40,710,1924,1520250,1,,Cuba,China
+40,710,1925,1340294,1,Pesos Moneda Eua,Cuba,China
+40,710,1926,808750,1,Pesos Moneda Eua,Cuba,China
+40,710,1927,707762,1,Pesos Moneda Nacional,Cuba,China
+40,710,1928,562363,1,Pesos Moneda Nacional,Cuba,China
+40,710,1929,812752,1,Pesos Moneda Nacional,Cuba,China
+40,710,1930,442134,1,$,Cuba,China
+40,710,1931,253108,1,,Cuba,China
+40,710,1932,111687,1,,Cuba,China
+40,710,1933,78471,1,,Cuba,China
+40,710,1934,147844,1,,Cuba,China
+40,710,1935,399710,1,,Cuba,China
+40,710,1936,120718,1,,Cuba,China
+40,710,1937,95606,1,Pesos $,Cuba,China
+40,710,1938,33055,1,Pesos $,Cuba,China
+40,710,1939,22613,1,Pesos $,Cuba,China
+40,710,1940,23967,1,Pesos $,Cuba,China
+40,710,1941,25520,1,Pesos $,Cuba,China
+40,710,1942,3637,1,Pesos $,Cuba,China
+40,710,1943,7558,1,Pesos $,Cuba,China
+40,710,1944,684,1,Pesos $,Cuba,China
+40,710,1945,15202,1,Pesos $,Cuba,China
+40,710,1946,12610,1,Pesos $,Cuba,China
+40,710,1947,164146,1,Pesos $,Cuba,China
+40,710,1948,123875,1,Pesos $,Cuba,China
+40,710,1949,170918,1,Pesos $,Cuba,China
+40,711,1919,0,1,,Cuba,Manchukuo
+40,711,1920,0,1,,Cuba,Manchukuo
+40,711,1921,0,1,,Cuba,Manchukuo
+40,711,1922,0,1,,Cuba,Manchukuo
+40,711,1923,0,1,,Cuba,Manchukuo
+40,711,1924,0,1,,Cuba,Manchukuo
+40,711,1925,0,1,Pesos Moneda Eua,Cuba,Manchukuo
+40,711,1926,0,1,Pesos Moneda Eua,Cuba,Manchukuo
+40,711,1927,0,1,Pesos Moneda Nacional,Cuba,Manchukuo
+40,711,1928,0,1,Pesos Moneda Nacional,Cuba,Manchukuo
+40,711,1929,0,1,Pesos Moneda Nacional,Cuba,Manchukuo
+40,711,1930,0,1,$,Cuba,Manchukuo
+40,711,1931,0,1,,Cuba,Manchukuo
+40,711,1932,0,1,,Cuba,Manchukuo
+40,711,1933,0,1,,Cuba,Manchukuo
+40,711,1934,0,1,,Cuba,Manchukuo
+40,711,1935,0,1,,Cuba,Manchukuo
+40,711,1936,0,1,,Cuba,Manchukuo
+40,711,1937,0,1,Pesos $,Cuba,Manchukuo
+40,711,1938,51573,1,Pesos $,Cuba,Manchukuo
+40,711,1939,224,1,Pesos $,Cuba,Manchukuo
+40,711,1940,0,1,Pesos $,Cuba,Manchukuo
+40,711,1941,0,1,Pesos $,Cuba,Manchukuo
+40,711,1942,0,1,Pesos $,Cuba,Manchukuo
+40,711,1943,0,1,Pesos $,Cuba,Manchukuo
+40,711,1944,0,1,Pesos $,Cuba,Manchukuo
+40,711,1945,0,1,Pesos $,Cuba,Manchukuo
+40,711,1946,0,1,Pesos $,Cuba,Manchukuo
+40,711,1947,0,1,Pesos $,Cuba,Manchukuo
+40,711,1948,0,1,Pesos $,Cuba,Manchukuo
+40,711,1949,0,1,Pesos $,Cuba,Manchukuo
+40,720,1919,0,1,,Cuba,Hong Kong
+40,720,1920,0,1,,Cuba,Hong Kong
+40,720,1921,0,1,,Cuba,Hong Kong
+40,720,1922,0,1,,Cuba,Hong Kong
+40,720,1923,0,1,,Cuba,Hong Kong
+40,720,1924,0,1,,Cuba,Hong Kong
+40,720,1925,0,1,Pesos Moneda Eua,Cuba,Hong Kong
+40,720,1926,0,1,Pesos Moneda Eua,Cuba,Hong Kong
+40,720,1927,0,1,Pesos Moneda Nacional,Cuba,Hong Kong
+40,720,1928,0,1,Pesos Moneda Nacional,Cuba,Hong Kong
+40,720,1929,0,1,Pesos Moneda Nacional,Cuba,Hong Kong
+40,720,1930,0,1,$,Cuba,Hong Kong
+40,720,1931,0,1,,Cuba,Hong Kong
+40,720,1932,0,1,,Cuba,Hong Kong
+40,720,1933,0,1,,Cuba,Hong Kong
+40,720,1934,0,1,,Cuba,Hong Kong
+40,720,1935,0,1,,Cuba,Hong Kong
+40,720,1936,0,1,,Cuba,Hong Kong
+40,720,1937,40866,1,Pesos $,Cuba,Hong Kong
+40,720,1938,53295,1,Pesos $,Cuba,Hong Kong
+40,720,1939,72692,1,Pesos $,Cuba,Hong Kong
+40,720,1940,96559,1,Pesos $,Cuba,Hong Kong
+40,720,1941,49490,1,Pesos $,Cuba,Hong Kong
+40,720,1942,11243,1,Pesos $,Cuba,Hong Kong
+40,720,1943,0,1,Pesos $,Cuba,Hong Kong
+40,720,1944,0,1,Pesos $,Cuba,Hong Kong
+40,720,1945,7,1,Pesos $,Cuba,Hong Kong
+40,720,1946,5159,1,Pesos $,Cuba,Hong Kong
+40,720,1947,209930,1,Pesos $,Cuba,Hong Kong
+40,720,1948,339268,1,Pesos $,Cuba,Hong Kong
+40,720,1949,335056,1,Pesos $,Cuba,Hong Kong
+40,740,1912,115495,,,Cuba,Japan
+40,740,1914,123747,,,Cuba,Japan
+40,740,1915,150531,,,Cuba,Japan
+40,740,1916,496281,,,Cuba,Japan
+40,740,1919,10097386,1,,Cuba,Japan
+40,740,1920,11319709,1,,Cuba,Japan
+40,740,1921,1851120,1,,Cuba,Japan
+40,740,1922,532254,1,,Cuba,Japan
+40,740,1923,661050,1,,Cuba,Japan
+40,740,1924,918439,1,,Cuba,Japan
+40,740,1925,1120556,1,Pesos Moneda Eua,Cuba,Japan
+40,740,1926,753016,1,Pesos Moneda Eua,Cuba,Japan
+40,740,1927,937678,1,Pesos Moneda Nacional,Cuba,Japan
+40,740,1928,817485,1,Pesos Moneda Nacional,Cuba,Japan
+40,740,1929,1202407,1,Pesos Moneda Nacional,Cuba,Japan
+40,740,1930,1396983,1,$,Cuba,Japan
+40,740,1931,800759,1,,Cuba,Japan
+40,740,1932,509483,1,,Cuba,Japan
+40,740,1933,857004,1,,Cuba,Japan
+40,740,1934,3136090,1,,Cuba,Japan
+40,740,1935,2548749,1,,Cuba,Japan
+40,740,1936,652209,1,,Cuba,Japan
+40,740,1937,736647,1,Pesos $,Cuba,Japan
+40,740,1938,501775,1,Pesos $,Cuba,Japan
+40,740,1939,378549,1,Pesos $,Cuba,Japan
+40,740,1940,594856,1,Pesos $,Cuba,Japan
+40,740,1941,415835,1,Pesos $,Cuba,Japan
+40,740,1942,4532,1,Pesos $,Cuba,Japan
+40,740,1943,0,1,Pesos $,Cuba,Japan
+40,740,1944,289,1,Pesos $,Cuba,Japan
+40,740,1945,0,1,Pesos $,Cuba,Japan
+40,740,1946,99,1,Pesos $,Cuba,Japan
+40,740,1947,363,1,Pesos $,Cuba,Japan
+40,740,1948,46506,1,Pesos $,Cuba,Japan
+40,740,1949,239244,1,Pesos $,Cuba,Japan
+40,750,1912,2047332,,,Cuba,India
+40,750,1914,2310482,,,Cuba,India
+40,750,1915,3770523,,,Cuba,India
+40,750,1916,4617970,,,Cuba,India
+40,750,1919,7201158,1,,Cuba,India
+40,750,1920,12122202,1,,Cuba,India
+40,750,1921,8440888,1,,Cuba,India
+40,750,1922,9533687,1,,Cuba,India
+40,750,1923,10141704,1,,Cuba,India
+40,750,1924,9483112,1,,Cuba,India
+40,750,1925,16435782,1,Pesos Moneda Eua,Cuba,India
+40,750,1926,16506348,1,Pesos Moneda Eua,Cuba,India
+40,750,1927,15684495,1,Pesos Moneda Nacional,Cuba,India
+40,750,1928,16066700,1,Pesos Moneda Nacional,Cuba,India
+40,750,1929,15600002,1,Pesos Moneda Nacional,Cuba,India
+40,750,1930,15304480,1,$,Cuba,India
+40,750,1931,6902477,1,,Cuba,India
+40,750,1932,4546309,1,,Cuba,India
+40,750,1933,4055559,1,,Cuba,India
+40,750,1934,4580427,1,,Cuba,India
+40,750,1935,5145146,1,,Cuba,India
+40,750,1936,2807758,1,,Cuba,India
+40,750,1937,3154075,1,Pesos $,Cuba,India
+40,750,1938,2034454,1,Pesos $,Cuba,India
+40,750,1939,2062892,1,Pesos $,Cuba,India
+40,750,1940,3031960,1,Pesos $,Cuba,India
+40,750,1941,1563746,1,Pesos $,Cuba,India
+40,750,1942,3368680,1,Pesos $,Cuba,India
+40,750,1943,4280901,1,Pesos $,Cuba,India
+40,750,1944,5630921,1,Pesos $,Cuba,India
+40,750,1945,5493636,1,Pesos $,Cuba,India
+40,750,1946,3744306,1,Pesos $,Cuba,India
+40,750,1947,12349283,1,Pesos $,Cuba,India
+40,750,1948,17914676,1,Pesos $,Cuba,India
+40,750,1949,11136878,1,Pesos $,Cuba,India
+40,751,1919,0,1,,Cuba,French India
+40,751,1920,0,1,,Cuba,French India
+40,751,1921,0,1,,Cuba,French India
+40,751,1922,0,1,,Cuba,French India
+40,751,1923,0,1,,Cuba,French India
+40,751,1924,0,1,,Cuba,French India
+40,751,1925,0,1,Pesos Moneda Eua,Cuba,French India
+40,751,1926,0,1,Pesos Moneda Eua,Cuba,French India
+40,751,1927,0,1,Pesos Moneda Nacional,Cuba,French India
+40,751,1928,0,1,Pesos Moneda Nacional,Cuba,French India
+40,751,1929,34155,1,Pesos Moneda Nacional,Cuba,French India
+40,751,1930,0,1,$,Cuba,French India
+40,751,1931,0,1,,Cuba,French India
+40,751,1932,0,1,,Cuba,French India
+40,751,1933,0,1,,Cuba,French India
+40,751,1934,0,1,,Cuba,French India
+40,751,1935,0,1,,Cuba,French India
+40,751,1936,0,1,,Cuba,French India
+40,751,1937,0,1,Pesos $,Cuba,French India
+40,751,1938,0,1,Pesos $,Cuba,French India
+40,751,1939,0,1,Pesos $,Cuba,French India
+40,751,1940,0,1,Pesos $,Cuba,French India
+40,751,1941,0,1,Pesos $,Cuba,French India
+40,751,1942,0,1,Pesos $,Cuba,French India
+40,751,1943,0,1,Pesos $,Cuba,French India
+40,751,1944,0,1,Pesos $,Cuba,French India
+40,751,1945,0,1,Pesos $,Cuba,French India
+40,751,1946,0,1,Pesos $,Cuba,French India
+40,751,1947,0,1,Pesos $,Cuba,French India
+40,751,1948,0,1,Pesos $,Cuba,French India
+40,751,1949,0,1,Pesos $,Cuba,French India
+40,752,1919,0,1,,Cuba,Portuguese India
+40,752,1920,0,1,,Cuba,Portuguese India
+40,752,1921,0,1,,Cuba,Portuguese India
+40,752,1922,0,1,,Cuba,Portuguese India
+40,752,1923,0,1,,Cuba,Portuguese India
+40,752,1924,0,1,,Cuba,Portuguese India
+40,752,1925,0,1,Pesos Moneda Eua,Cuba,Portuguese India
+40,752,1926,0,1,Pesos Moneda Eua,Cuba,Portuguese India
+40,752,1927,0,1,Pesos Moneda Nacional,Cuba,Portuguese India
+40,752,1928,0,1,Pesos Moneda Nacional,Cuba,Portuguese India
+40,752,1929,0,1,Pesos Moneda Nacional,Cuba,Portuguese India
+40,752,1930,0,1,$,Cuba,Portuguese India
+40,752,1931,0,1,,Cuba,Portuguese India
+40,752,1932,0,1,,Cuba,Portuguese India
+40,752,1933,0,1,,Cuba,Portuguese India
+40,752,1934,0,1,,Cuba,Portuguese India
+40,752,1935,0,1,,Cuba,Portuguese India
+40,752,1936,0,1,,Cuba,Portuguese India
+40,752,1937,0,1,Pesos $,Cuba,Portuguese India
+40,752,1938,0,1,Pesos $,Cuba,Portuguese India
+40,752,1939,0,1,Pesos $,Cuba,Portuguese India
+40,752,1940,0,1,Pesos $,Cuba,Portuguese India
+40,752,1941,0,1,Pesos $,Cuba,Portuguese India
+40,752,1942,0,1,Pesos $,Cuba,Portuguese India
+40,752,1943,0,1,Pesos $,Cuba,Portuguese India
+40,752,1944,0,1,Pesos $,Cuba,Portuguese India
+40,752,1945,0,1,Pesos $,Cuba,Portuguese India
+40,752,1946,0,1,Pesos $,Cuba,Portuguese India
+40,752,1947,0,1,Pesos $,Cuba,Portuguese India
+40,752,1948,345,1,Pesos $,Cuba,Portuguese India
+40,752,1949,0,1,Pesos $,Cuba,Portuguese India
+40,775,1919,0,1,,Cuba,Myanmar
+40,775,1920,0,1,,Cuba,Myanmar
+40,775,1921,0,1,,Cuba,Myanmar
+40,775,1922,0,1,,Cuba,Myanmar
+40,775,1923,0,1,,Cuba,Myanmar
+40,775,1924,0,1,,Cuba,Myanmar
+40,775,1925,0,1,Pesos Moneda Eua,Cuba,Myanmar
+40,775,1926,0,1,Pesos Moneda Eua,Cuba,Myanmar
+40,775,1927,0,1,Pesos Moneda Nacional,Cuba,Myanmar
+40,775,1928,0,1,Pesos Moneda Nacional,Cuba,Myanmar
+40,775,1929,0,1,Pesos Moneda Nacional,Cuba,Myanmar
+40,775,1930,0,1,$,Cuba,Myanmar
+40,775,1931,0,1,,Cuba,Myanmar
+40,775,1932,0,1,,Cuba,Myanmar
+40,775,1933,0,1,,Cuba,Myanmar
+40,775,1934,0,1,,Cuba,Myanmar
+40,775,1935,0,1,,Cuba,Myanmar
+40,775,1936,0,1,,Cuba,Myanmar
+40,775,1937,0,1,Pesos $,Cuba,Myanmar
+40,775,1938,37480,1,Pesos $,Cuba,Myanmar
+40,775,1939,32839,1,Pesos $,Cuba,Myanmar
+40,775,1940,181086,1,Pesos $,Cuba,Myanmar
+40,775,1941,216441,1,Pesos $,Cuba,Myanmar
+40,775,1942,0,1,Pesos $,Cuba,Myanmar
+40,775,1943,0,1,Pesos $,Cuba,Myanmar
+40,775,1944,0,1,Pesos $,Cuba,Myanmar
+40,775,1945,0,1,Pesos $,Cuba,Myanmar
+40,775,1946,0,1,Pesos $,Cuba,Myanmar
+40,775,1947,0,1,Pesos $,Cuba,Myanmar
+40,775,1948,0,1,Pesos $,Cuba,Myanmar
+40,775,1949,0,1,Pesos $,Cuba,Myanmar
+40,780,1919,0,1,,Cuba,Sri Lanka
+40,780,1920,0,1,,Cuba,Sri Lanka
+40,780,1921,0,1,,Cuba,Sri Lanka
+40,780,1922,0,1,,Cuba,Sri Lanka
+40,780,1923,0,1,,Cuba,Sri Lanka
+40,780,1924,0,1,,Cuba,Sri Lanka
+40,780,1925,0,1,Pesos Moneda Eua,Cuba,Sri Lanka
+40,780,1926,0,1,Pesos Moneda Eua,Cuba,Sri Lanka
+40,780,1927,0,1,Pesos Moneda Nacional,Cuba,Sri Lanka
+40,780,1928,0,1,Pesos Moneda Nacional,Cuba,Sri Lanka
+40,780,1929,0,1,Pesos Moneda Nacional,Cuba,Sri Lanka
+40,780,1930,0,1,$,Cuba,Sri Lanka
+40,780,1931,0,1,,Cuba,Sri Lanka
+40,780,1932,0,1,,Cuba,Sri Lanka
+40,780,1933,0,1,,Cuba,Sri Lanka
+40,780,1934,0,1,,Cuba,Sri Lanka
+40,780,1935,135186,1,,Cuba,Sri Lanka
+40,780,1936,38390,1,,Cuba,Sri Lanka
+40,780,1937,92169,1,Pesos $,Cuba,Sri Lanka
+40,780,1938,33099,1,Pesos $,Cuba,Sri Lanka
+40,780,1939,30810,1,Pesos $,Cuba,Sri Lanka
+40,780,1940,38783,1,Pesos $,Cuba,Sri Lanka
+40,780,1941,27294,1,Pesos $,Cuba,Sri Lanka
+40,780,1942,4210,1,Pesos $,Cuba,Sri Lanka
+40,780,1943,0,1,Pesos $,Cuba,Sri Lanka
+40,780,1944,26713,1,Pesos $,Cuba,Sri Lanka
+40,780,1945,5488,1,Pesos $,Cuba,Sri Lanka
+40,780,1946,3350,1,Pesos $,Cuba,Sri Lanka
+40,780,1947,49725,1,Pesos $,Cuba,Sri Lanka
+40,780,1948,73402,1,Pesos $,Cuba,Sri Lanka
+40,780,1949,60048,1,Pesos $,Cuba,Sri Lanka
+40,800,1916,309453,,,Cuba,Thailand
+40,800,1919,576947,1,,Cuba,Thailand
+40,800,1920,501518,1,,Cuba,Thailand
+40,800,1921,71805,1,,Cuba,Thailand
+40,800,1922,226820,1,,Cuba,Thailand
+40,800,1923,555586,1,,Cuba,Thailand
+40,800,1924,448615,1,,Cuba,Thailand
+40,800,1925,330864,1,Pesos Moneda Eua,Cuba,Thailand
+40,800,1926,311055,1,Pesos Moneda Eua,Cuba,Thailand
+40,800,1927,420652,1,Pesos Moneda Nacional,Cuba,Thailand
+40,800,1928,617359,1,Pesos Moneda Nacional,Cuba,Thailand
+40,800,1929,774939,1,Pesos Moneda Nacional,Cuba,Thailand
+40,800,1930,835048,1,$,Cuba,Thailand
+40,800,1931,900496,1,,Cuba,Thailand
+40,800,1932,1036571,1,,Cuba,Thailand
+40,800,1933,894044,1,,Cuba,Thailand
+40,800,1934,1702431,1,,Cuba,Thailand
+40,800,1935,3256104,1,,Cuba,Thailand
+40,800,1936,5862449,1,,Cuba,Thailand
+40,800,1937,4285055,1,Pesos $,Cuba,Thailand
+40,800,1938,2947473,1,Pesos $,Cuba,Thailand
+40,800,1939,2141317,1,Pesos $,Cuba,Thailand
+40,800,1940,1934740,1,Pesos $,Cuba,Thailand
+40,800,1941,134698,1,Pesos $,Cuba,Thailand
+40,800,1942,0,1,Pesos $,Cuba,Thailand
+40,800,1943,0,1,Pesos $,Cuba,Thailand
+40,800,1944,0,1,Pesos $,Cuba,Thailand
+40,800,1945,0,1,Pesos $,Cuba,Thailand
+40,800,1946,0,1,Pesos $,Cuba,Thailand
+40,800,1947,0,1,Pesos $,Cuba,Thailand
+40,800,1948,228619,1,Pesos $,Cuba,Thailand
+40,800,1949,2734,1,Pesos $,Cuba,Thailand
+40,810,1919,0,1,,Cuba,French Indo-China
+40,810,1920,0,1,,Cuba,French Indo-China
+40,810,1921,0,1,,Cuba,French Indo-China
+40,810,1922,0,1,,Cuba,French Indo-China
+40,810,1923,0,1,,Cuba,French Indo-China
+40,810,1924,0,1,,Cuba,French Indo-China
+40,810,1925,0,1,Pesos Moneda Eua,Cuba,French Indo-China
+40,810,1926,0,1,Pesos Moneda Eua,Cuba,French Indo-China
+40,810,1927,0,1,Pesos Moneda Nacional,Cuba,French Indo-China
+40,810,1928,0,1,Pesos Moneda Nacional,Cuba,French Indo-China
+40,810,1929,7685,1,Pesos Moneda Nacional,Cuba,French Indo-China
+40,810,1930,0,1,$,Cuba,French Indo-China
+40,810,1931,61215,1,,Cuba,French Indo-China
+40,810,1932,104,1,,Cuba,French Indo-China
+40,810,1933,2010,1,,Cuba,French Indo-China
+40,810,1934,237992,1,,Cuba,French Indo-China
+40,810,1935,229745,1,,Cuba,French Indo-China
+40,810,1936,321092,1,,Cuba,French Indo-China
+40,810,1937,1167355,1,Pesos $,Cuba,French Indo-China
+40,810,1938,496748,1,Pesos $,Cuba,French Indo-China
+40,810,1939,1096209,1,Pesos $,Cuba,French Indo-China
+40,810,1940,325268,1,Pesos $,Cuba,French Indo-China
+40,810,1941,0,1,Pesos $,Cuba,French Indo-China
+40,810,1942,0,1,Pesos $,Cuba,French Indo-China
+40,810,1943,0,1,Pesos $,Cuba,French Indo-China
+40,810,1944,0,1,Pesos $,Cuba,French Indo-China
+40,810,1945,0,1,Pesos $,Cuba,French Indo-China
+40,810,1946,0,1,Pesos $,Cuba,French Indo-China
+40,810,1947,0,1,Pesos $,Cuba,French Indo-China
+40,810,1948,0,1,Pesos $,Cuba,French Indo-China
+40,810,1949,704,1,Pesos $,Cuba,French Indo-China
+40,820,1919,0,1,,Cuba,Malaysia
+40,820,1920,0,1,,Cuba,Malaysia
+40,820,1921,0,1,,Cuba,Malaysia
+40,820,1922,0,1,,Cuba,Malaysia
+40,820,1923,0,1,,Cuba,Malaysia
+40,820,1924,0,1,,Cuba,Malaysia
+40,820,1925,0,1,Pesos Moneda Eua,Cuba,Malaysia
+40,820,1926,0,1,Pesos Moneda Eua,Cuba,Malaysia
+40,820,1927,0,1,Pesos Moneda Nacional,Cuba,Malaysia
+40,820,1928,0,1,Pesos Moneda Nacional,Cuba,Malaysia
+40,820,1929,0,1,Pesos Moneda Nacional,Cuba,Malaysia
+40,820,1930,0,1,$,Cuba,Malaysia
+40,820,1931,0,1,,Cuba,Malaysia
+40,820,1932,0,1,,Cuba,Malaysia
+40,820,1933,0,1,,Cuba,Malaysia
+40,820,1934,0,1,,Cuba,Malaysia
+40,820,1935,843,1,,Cuba,Malaysia
+40,820,1936,0,1,,Cuba,Malaysia
+40,820,1937,0,1,Pesos $,Cuba,Malaysia
+40,820,1938,0,1,Pesos $,Cuba,Malaysia
+40,820,1939,0,1,Pesos $,Cuba,Malaysia
+40,820,1940,0,1,Pesos $,Cuba,Malaysia
+40,820,1941,0,1,Pesos $,Cuba,Malaysia
+40,820,1942,0,1,Pesos $,Cuba,Malaysia
+40,820,1943,0,1,Pesos $,Cuba,Malaysia
+40,820,1944,0,1,Pesos $,Cuba,Malaysia
+40,820,1945,0,1,Pesos $,Cuba,Malaysia
+40,820,1946,0,1,Pesos $,Cuba,Malaysia
+40,820,1947,0,1,Pesos $,Cuba,Malaysia
+40,820,1948,130750,1,Pesos $,Cuba,Malaysia
+40,820,1949,9984,1,Pesos $,Cuba,Malaysia
+40,827,1919,0,1,,Cuba,Straits Settlement
+40,827,1920,0,1,,Cuba,Straits Settlement
+40,827,1921,0,1,,Cuba,Straits Settlement
+40,827,1922,0,1,,Cuba,Straits Settlement
+40,827,1923,0,1,,Cuba,Straits Settlement
+40,827,1924,0,1,,Cuba,Straits Settlement
+40,827,1925,0,1,Pesos Moneda Eua,Cuba,Straits Settlement
+40,827,1926,0,1,Pesos Moneda Eua,Cuba,Straits Settlement
+40,827,1927,0,1,Pesos Moneda Nacional,Cuba,Straits Settlement
+40,827,1928,0,1,Pesos Moneda Nacional,Cuba,Straits Settlement
+40,827,1929,0,1,Pesos Moneda Nacional,Cuba,Straits Settlement
+40,827,1930,0,1,$,Cuba,Straits Settlement
+40,827,1931,0,1,,Cuba,Straits Settlement
+40,827,1932,0,1,,Cuba,Straits Settlement
+40,827,1933,0,1,,Cuba,Straits Settlement
+40,827,1934,0,1,,Cuba,Straits Settlement
+40,827,1935,0,1,,Cuba,Straits Settlement
+40,827,1936,1265,1,,Cuba,Straits Settlement
+40,827,1937,4765,1,Pesos $,Cuba,Straits Settlement
+40,827,1938,2588,1,Pesos $,Cuba,Straits Settlement
+40,827,1939,2076,1,Pesos $,Cuba,Straits Settlement
+40,827,1940,1920,1,Pesos $,Cuba,Straits Settlement
+40,827,1941,29324,1,Pesos $,Cuba,Straits Settlement
+40,827,1942,165704,1,Pesos $,Cuba,Straits Settlement
+40,827,1943,0,1,Pesos $,Cuba,Straits Settlement
+40,827,1944,0,1,Pesos $,Cuba,Straits Settlement
+40,827,1945,0,1,Pesos $,Cuba,Straits Settlement
+40,827,1946,0,1,Pesos $,Cuba,Straits Settlement
+40,827,1947,318461,1,Pesos $,Cuba,Straits Settlement
+40,827,1948,8642,1,Pesos $,Cuba,Straits Settlement
+40,827,1949,2142,1,Pesos $,Cuba,Straits Settlement
+40,840,1914,25,,,Cuba,Philippines
+40,840,1919,0,1,,Cuba,Philippines
+40,840,1920,0,1,,Cuba,Philippines
+40,840,1921,0,1,,Cuba,Philippines
+40,840,1922,0,1,,Cuba,Philippines
+40,840,1923,0,1,,Cuba,Philippines
+40,840,1924,0,1,,Cuba,Philippines
+40,840,1925,0,1,Pesos Moneda Eua,Cuba,Philippines
+40,840,1926,0,1,Pesos Moneda Eua,Cuba,Philippines
+40,840,1927,0,1,Pesos Moneda Nacional,Cuba,Philippines
+40,840,1928,0,1,Pesos Moneda Nacional,Cuba,Philippines
+40,840,1929,385372,1,Pesos Moneda Nacional,Cuba,Philippines
+40,840,1930,96374,1,$,Cuba,Philippines
+40,840,1931,20846,1,,Cuba,Philippines
+40,840,1932,1940,1,,Cuba,Philippines
+40,840,1933,15192,1,,Cuba,Philippines
+40,840,1934,42592,1,,Cuba,Philippines
+40,840,1935,36065,1,,Cuba,Philippines
+40,840,1936,42259,1,,Cuba,Philippines
+40,840,1937,29692,1,Pesos $,Cuba,Philippines
+40,840,1938,28962,1,Pesos $,Cuba,Philippines
+40,840,1939,21250,1,Pesos $,Cuba,Philippines
+40,840,1940,24139,1,Pesos $,Cuba,Philippines
+40,840,1941,4168,1,Pesos $,Cuba,Philippines
+40,840,1942,0,1,Pesos $,Cuba,Philippines
+40,840,1943,0,1,Pesos $,Cuba,Philippines
+40,840,1944,0,1,Pesos $,Cuba,Philippines
+40,840,1945,0,1,Pesos $,Cuba,Philippines
+40,840,1946,49374,1,Pesos $,Cuba,Philippines
+40,840,1947,37,1,Pesos $,Cuba,Philippines
+40,840,1948,62242,1,Pesos $,Cuba,Philippines
+40,840,1949,14766,1,Pesos $,Cuba,Philippines
+40,900,1919,4434,1,,Cuba,Australia
+40,900,1920,0,1,,Cuba,Australia
+40,900,1921,0,1,,Cuba,Australia
+40,900,1922,0,1,,Cuba,Australia
+40,900,1923,0,1,,Cuba,Australia
+40,900,1924,0,1,,Cuba,Australia
+40,900,1925,0,1,Pesos Moneda Eua,Cuba,Australia
+40,900,1926,352,1,Pesos Moneda Eua,Cuba,Australia
+40,900,1927,0,1,Pesos Moneda Nacional,Cuba,Australia
+40,900,1928,24785,1,Pesos Moneda Nacional,Cuba,Australia
+40,900,1929,0,1,Pesos Moneda Nacional,Cuba,Australia
+40,900,1930,0,1,$,Cuba,Australia
+40,900,1931,0,1,,Cuba,Australia
+40,900,1932,0,1,,Cuba,Australia
+40,900,1933,0,1,,Cuba,Australia
+40,900,1934,0,1,,Cuba,Australia
+40,900,1935,19843,1,,Cuba,Australia
+40,900,1936,13454,1,,Cuba,Australia
+40,900,1937,74662,1,Pesos $,Cuba,Australia
+40,900,1938,56985,1,Pesos $,Cuba,Australia
+40,900,1939,108242,1,Pesos $,Cuba,Australia
+40,900,1940,44492,1,Pesos $,Cuba,Australia
+40,900,1941,15121,1,Pesos $,Cuba,Australia
+40,900,1942,566,1,Pesos $,Cuba,Australia
+40,900,1943,2581,1,Pesos $,Cuba,Australia
+40,900,1944,0,1,Pesos $,Cuba,Australia
+40,900,1945,1003,1,Pesos $,Cuba,Australia
+40,900,1946,3515,1,Pesos $,Cuba,Australia
+40,900,1947,395,1,Pesos $,Cuba,Australia
+40,900,1948,47412,1,Pesos $,Cuba,Australia
+40,900,1949,6524,1,Pesos $,Cuba,Australia
+40,920,1919,0,1,,Cuba,New Zealand
+40,920,1920,0,1,,Cuba,New Zealand
+40,920,1921,0,1,,Cuba,New Zealand
+40,920,1922,0,1,,Cuba,New Zealand
+40,920,1923,0,1,,Cuba,New Zealand
+40,920,1924,0,1,,Cuba,New Zealand
+40,920,1925,0,1,Pesos Moneda Eua,Cuba,New Zealand
+40,920,1926,0,1,Pesos Moneda Eua,Cuba,New Zealand
+40,920,1927,0,1,Pesos Moneda Nacional,Cuba,New Zealand
+40,920,1928,0,1,Pesos Moneda Nacional,Cuba,New Zealand
+40,920,1929,0,1,Pesos Moneda Nacional,Cuba,New Zealand
+40,920,1930,0,1,$,Cuba,New Zealand
+40,920,1931,0,1,,Cuba,New Zealand
+40,920,1932,0,1,,Cuba,New Zealand
+40,920,1933,0,1,,Cuba,New Zealand
+40,920,1934,0,1,,Cuba,New Zealand
+40,920,1935,23509,1,,Cuba,New Zealand
+40,920,1936,5170,1,,Cuba,New Zealand
+40,920,1937,17665,1,Pesos $,Cuba,New Zealand
+40,920,1938,11102,1,Pesos $,Cuba,New Zealand
+40,920,1939,490,1,Pesos $,Cuba,New Zealand
+40,920,1940,0,1,Pesos $,Cuba,New Zealand
+40,920,1941,0,1,Pesos $,Cuba,New Zealand
+40,920,1942,0,1,Pesos $,Cuba,New Zealand
+40,920,1943,0,1,Pesos $,Cuba,New Zealand
+40,920,1944,0,1,Pesos $,Cuba,New Zealand
+40,920,1945,420,1,Pesos $,Cuba,New Zealand
+40,920,1946,241,1,Pesos $,Cuba,New Zealand
+40,920,1947,18,1,Pesos $,Cuba,New Zealand
+40,920,1948,783,1,Pesos $,Cuba,New Zealand
+40,920,1949,42939,1,Pesos $,Cuba,New Zealand
+40,1050,1912,67539,,,Cuba,British West Indies
+40,1050,1914,62906,,,Cuba,British West Indies
+40,1050,1915,95085,,,Cuba,British West Indies
+40,1050,1916,66932,,,Cuba,British West Indies
+40,1050,1919,184144,1,,Cuba,British West Indies
+40,1050,1920,196443,1,,Cuba,British West Indies
+40,1050,1921,50516,1,,Cuba,British West Indies
+40,1050,1922,9074,1,,Cuba,British West Indies
+40,1050,1923,165623,1,,Cuba,British West Indies
+40,1050,1924,106604,1,,Cuba,British West Indies
+40,1050,1925,335326,1,Pesos Moneda Eua,Cuba,British West Indies
+40,1050,1926,66339,1,Pesos Moneda Eua,Cuba,British West Indies
+40,1050,1927,379015,1,Pesos Moneda Nacional,Cuba,British West Indies
+40,1050,1928,81711,1,Pesos Moneda Nacional,Cuba,British West Indies
+40,1050,1929,94757,1,Pesos Moneda Nacional,Cuba,British West Indies
+40,1050,1930,37296,1,$,Cuba,British West Indies
+40,1050,1931,51461,1,,Cuba,British West Indies
+40,1050,1932,24068,1,,Cuba,British West Indies
+40,1050,1933,7655,1,,Cuba,British West Indies
+40,1050,1934,16432,1,,Cuba,British West Indies
+40,1050,1935,533,1,,Cuba,British West Indies
+40,1050,1936,0,1,,Cuba,British West Indies
+40,1050,1937,0,1,Pesos $,Cuba,British West Indies
+40,1050,1938,0,1,Pesos $,Cuba,British West Indies
+40,1050,1939,0,1,Pesos $,Cuba,British West Indies
+40,1050,1940,0,1,Pesos $,Cuba,British West Indies
+40,1050,1941,0,1,Pesos $,Cuba,British West Indies
+40,1050,1942,0,1,Pesos $,Cuba,British West Indies
+40,1050,1943,0,1,Pesos $,Cuba,British West Indies
+40,1050,1944,0,1,Pesos $,Cuba,British West Indies
+40,1050,1945,0,1,Pesos $,Cuba,British West Indies
+40,1050,1946,0,1,Pesos $,Cuba,British West Indies
+40,1050,1947,0,1,Pesos $,Cuba,British West Indies
+40,1050,1948,0,1,Pesos $,Cuba,British West Indies
+40,1050,1949,0,1,Pesos $,Cuba,British West Indies
+40,1060,1912,232,,,Cuba,French West Indies
+40,1060,1919,0,1,,Cuba,French West Indies
+40,1060,1920,0,1,,Cuba,French West Indies
+40,1060,1921,0,1,,Cuba,French West Indies
+40,1060,1922,0,1,,Cuba,French West Indies
+40,1060,1923,0,1,,Cuba,French West Indies
+40,1060,1924,0,1,,Cuba,French West Indies
+40,1060,1925,4241,1,Pesos Moneda Eua,Cuba,French West Indies
+40,1060,1926,0,1,Pesos Moneda Eua,Cuba,French West Indies
+40,1060,1927,0,1,Pesos Moneda Nacional,Cuba,French West Indies
+40,1060,1928,0,1,Pesos Moneda Nacional,Cuba,French West Indies
+40,1060,1929,0,1,Pesos Moneda Nacional,Cuba,French West Indies
+40,1060,1930,0,1,$,Cuba,French West Indies
+40,1060,1931,0,1,,Cuba,French West Indies
+40,1060,1932,0,1,,Cuba,French West Indies
+40,1060,1933,0,1,,Cuba,French West Indies
+40,1060,1934,0,1,,Cuba,French West Indies
+40,1060,1935,0,1,,Cuba,French West Indies
+40,1060,1936,0,1,,Cuba,French West Indies
+40,1060,1937,0,1,Pesos $,Cuba,French West Indies
+40,1060,1938,0,1,Pesos $,Cuba,French West Indies
+40,1060,1939,0,1,Pesos $,Cuba,French West Indies
+40,1060,1940,0,1,Pesos $,Cuba,French West Indies
+40,1060,1941,0,1,Pesos $,Cuba,French West Indies
+40,1060,1942,0,1,Pesos $,Cuba,French West Indies
+40,1060,1943,0,1,Pesos $,Cuba,French West Indies
+40,1060,1944,0,1,Pesos $,Cuba,French West Indies
+40,1060,1945,0,1,Pesos $,Cuba,French West Indies
+40,1060,1946,0,1,Pesos $,Cuba,French West Indies
+40,1060,1947,0,1,Pesos $,Cuba,French West Indies
+40,1060,1948,0,1,Pesos $,Cuba,French West Indies
+40,1060,1949,0,1,Pesos $,Cuba,French West Indies
+40,1065,1919,0,1,,Cuba,Curacao
+40,1065,1920,0,1,,Cuba,Curacao
+40,1065,1921,0,1,,Cuba,Curacao
+40,1065,1922,0,1,,Cuba,Curacao
+40,1065,1923,0,1,,Cuba,Curacao
+40,1065,1924,0,1,,Cuba,Curacao
+40,1065,1925,0,1,Pesos Moneda Eua,Cuba,Curacao
+40,1065,1926,0,1,Pesos Moneda Eua,Cuba,Curacao
+40,1065,1927,0,1,Pesos Moneda Nacional,Cuba,Curacao
+40,1065,1928,0,1,Pesos Moneda Nacional,Cuba,Curacao
+40,1065,1929,0,1,Pesos Moneda Nacional,Cuba,Curacao
+40,1065,1930,0,1,$,Cuba,Curacao
+40,1065,1931,0,1,,Cuba,Curacao
+40,1065,1932,0,1,,Cuba,Curacao
+40,1065,1933,0,1,,Cuba,Curacao
+40,1065,1934,0,1,,Cuba,Curacao
+40,1065,1935,0,1,,Cuba,Curacao
+40,1065,1936,0,1,,Cuba,Curacao
+40,1065,1937,0,1,Pesos $,Cuba,Curacao
+40,1065,1938,0,1,Pesos $,Cuba,Curacao
+40,1065,1939,0,1,Pesos $,Cuba,Curacao
+40,1065,1940,0,1,Pesos $,Cuba,Curacao
+40,1065,1941,0,1,Pesos $,Cuba,Curacao
+40,1065,1942,0,1,Pesos $,Cuba,Curacao
+40,1065,1943,0,1,Pesos $,Cuba,Curacao
+40,1065,1944,0,1,Pesos $,Cuba,Curacao
+40,1065,1945,0,1,Pesos $,Cuba,Curacao
+40,1065,1946,0,1,Pesos $,Cuba,Curacao
+40,1065,1947,1239728,1,Pesos $,Cuba,Curacao
+40,1065,1948,4044916,1,Pesos $,Cuba,Curacao
+40,1065,1949,2401988,1,Pesos $,Cuba,Curacao
+40,1069,1919,0,1,,Cuba,Aruba
+40,1069,1920,0,1,,Cuba,Aruba
+40,1069,1921,0,1,,Cuba,Aruba
+40,1069,1922,0,1,,Cuba,Aruba
+40,1069,1923,0,1,,Cuba,Aruba
+40,1069,1924,0,1,,Cuba,Aruba
+40,1069,1925,0,1,Pesos Moneda Eua,Cuba,Aruba
+40,1069,1926,0,1,Pesos Moneda Eua,Cuba,Aruba
+40,1069,1927,0,1,Pesos Moneda Nacional,Cuba,Aruba
+40,1069,1928,0,1,Pesos Moneda Nacional,Cuba,Aruba
+40,1069,1929,0,1,Pesos Moneda Nacional,Cuba,Aruba
+40,1069,1930,0,1,$,Cuba,Aruba
+40,1069,1931,0,1,,Cuba,Aruba
+40,1069,1932,0,1,,Cuba,Aruba
+40,1069,1933,0,1,,Cuba,Aruba
+40,1069,1934,0,1,,Cuba,Aruba
+40,1069,1935,0,1,,Cuba,Aruba
+40,1069,1936,0,1,,Cuba,Aruba
+40,1069,1937,0,1,Pesos $,Cuba,Aruba
+40,1069,1938,0,1,Pesos $,Cuba,Aruba
+40,1069,1939,0,1,Pesos $,Cuba,Aruba
+40,1069,1940,0,1,Pesos $,Cuba,Aruba
+40,1069,1941,0,1,Pesos $,Cuba,Aruba
+40,1069,1942,0,1,Pesos $,Cuba,Aruba
+40,1069,1943,0,1,Pesos $,Cuba,Aruba
+40,1069,1944,0,1,Pesos $,Cuba,Aruba
+40,1069,1945,0,1,Pesos $,Cuba,Aruba
+40,1069,1946,0,1,Pesos $,Cuba,Aruba
+40,1069,1947,5900079,1,Pesos $,Cuba,Aruba
+40,1069,1948,7430825,1,Pesos $,Cuba,Aruba
+40,1069,1949,2666212,1,Pesos $,Cuba,Aruba
+40,2000,1919,0,1,,Cuba,Other British possessions
+40,2000,1920,0,1,,Cuba,Other British possessions
+40,2000,1921,0,1,,Cuba,Other British possessions
+40,2000,1922,0,1,,Cuba,Other British possessions
+40,2000,1923,0,1,,Cuba,Other British possessions
+40,2000,1924,0,1,,Cuba,Other British possessions
+40,2000,1925,0,1,Pesos Moneda Eua,Cuba,Other British possessions
+40,2000,1926,0,1,Pesos Moneda Eua,Cuba,Other British possessions
+40,2000,1927,0,1,Pesos Moneda Nacional,Cuba,Other British possessions
+40,2000,1928,0,1,Pesos Moneda Nacional,Cuba,Other British possessions
+40,2000,1929,0,1,Pesos Moneda Nacional,Cuba,Other British possessions
+40,2000,1930,0,1,$,Cuba,Other British possessions
+40,2000,1931,0,1,,Cuba,Other British possessions
+40,2000,1932,0,1,,Cuba,Other British possessions
+40,2000,1933,0,1,,Cuba,Other British possessions
+40,2000,1934,0,1,,Cuba,Other British possessions
+40,2000,1935,0,1,,Cuba,Other British possessions
+40,2000,1936,0,1,,Cuba,Other British possessions
+40,2000,1937,2381,1,Pesos $,Cuba,Other British possessions
+40,2000,1938,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1939,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1940,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1941,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1942,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1943,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1944,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1945,10589,1,Pesos $,Cuba,Other British possessions
+40,2000,1946,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1947,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1948,0,1,Pesos $,Cuba,Other British possessions
+40,2000,1949,0,1,Pesos $,Cuba,Other British possessions
+40,2005,1919,0,1,,Cuba,British Africa
+40,2005,1920,0,1,,Cuba,British Africa
+40,2005,1921,0,1,,Cuba,British Africa
+40,2005,1922,34,1,,Cuba,British Africa
+40,2005,1923,0,1,,Cuba,British Africa
+40,2005,1924,96,1,,Cuba,British Africa
+40,2005,1925,143,1,Pesos Moneda Eua,Cuba,British Africa
+40,2005,1926,0,1,Pesos Moneda Eua,Cuba,British Africa
+40,2005,1927,0,1,Pesos Moneda Nacional,Cuba,British Africa
+40,2005,1928,0,1,Pesos Moneda Nacional,Cuba,British Africa
+40,2005,1929,69040,1,Pesos Moneda Nacional,Cuba,British Africa
+40,2005,1930,67313,1,$,Cuba,British Africa
+40,2005,1931,39309,1,,Cuba,British Africa
+40,2005,1932,13925,1,,Cuba,British Africa
+40,2005,1933,16748,1,,Cuba,British Africa
+40,2005,1934,5076,1,,Cuba,British Africa
+40,2005,1935,194874,1,,Cuba,British Africa
+40,2005,1936,1155,1,,Cuba,British Africa
+40,2005,1937,0,1,Pesos $,Cuba,British Africa
+40,2005,1938,0,1,Pesos $,Cuba,British Africa
+40,2005,1939,0,1,Pesos $,Cuba,British Africa
+40,2005,1940,0,1,Pesos $,Cuba,British Africa
+40,2005,1941,0,1,Pesos $,Cuba,British Africa
+40,2005,1942,0,1,Pesos $,Cuba,British Africa
+40,2005,1943,0,1,Pesos $,Cuba,British Africa
+40,2005,1944,0,1,Pesos $,Cuba,British Africa
+40,2005,1945,0,1,Pesos $,Cuba,British Africa
+40,2005,1946,0,1,Pesos $,Cuba,British Africa
+40,2005,1947,0,1,Pesos $,Cuba,British Africa
+40,2005,1948,0,1,Pesos $,Cuba,British Africa
+40,2005,1949,0,1,Pesos $,Cuba,British Africa
+40,2007,1919,0,1,,Cuba,British possessions in Asia
+40,2007,1920,0,1,,Cuba,British possessions in Asia
+40,2007,1921,0,1,,Cuba,British possessions in Asia
+40,2007,1922,0,1,,Cuba,British possessions in Asia
+40,2007,1923,0,1,,Cuba,British possessions in Asia
+40,2007,1924,0,1,,Cuba,British possessions in Asia
+40,2007,1925,0,1,Pesos Moneda Eua,Cuba,British possessions in Asia
+40,2007,1926,0,1,Pesos Moneda Eua,Cuba,British possessions in Asia
+40,2007,1927,0,1,Pesos Moneda Nacional,Cuba,British possessions in Asia
+40,2007,1928,0,1,Pesos Moneda Nacional,Cuba,British possessions in Asia
+40,2007,1929,0,1,Pesos Moneda Nacional,Cuba,British possessions in Asia
+40,2007,1930,422,1,$,Cuba,British possessions in Asia
+40,2007,1931,0,1,,Cuba,British possessions in Asia
+40,2007,1932,0,1,,Cuba,British possessions in Asia
+40,2007,1933,0,1,,Cuba,British possessions in Asia
+40,2007,1934,0,1,,Cuba,British possessions in Asia
+40,2007,1935,0,1,,Cuba,British possessions in Asia
+40,2007,1936,0,1,,Cuba,British possessions in Asia
+40,2007,1937,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1938,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1939,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1940,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1941,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1942,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1943,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1944,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1945,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1946,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1947,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1948,0,1,Pesos $,Cuba,British possessions in Asia
+40,2007,1949,0,1,Pesos $,Cuba,British possessions in Asia
+40,2008,1919,0,1,,Cuba,Other British Oceania
+40,2008,1920,0,1,,Cuba,Other British Oceania
+40,2008,1921,0,1,,Cuba,Other British Oceania
+40,2008,1922,0,1,,Cuba,Other British Oceania
+40,2008,1923,0,1,,Cuba,Other British Oceania
+40,2008,1924,0,1,,Cuba,Other British Oceania
+40,2008,1925,0,1,Pesos Moneda Eua,Cuba,Other British Oceania
+40,2008,1926,0,1,Pesos Moneda Eua,Cuba,Other British Oceania
+40,2008,1927,0,1,Pesos Moneda Nacional,Cuba,Other British Oceania
+40,2008,1928,0,1,Pesos Moneda Nacional,Cuba,Other British Oceania
+40,2008,1929,21217,1,Pesos Moneda Nacional,Cuba,Other British Oceania
+40,2008,1930,6276,1,$,Cuba,Other British Oceania
+40,2008,1931,7182,1,,Cuba,Other British Oceania
+40,2008,1932,3985,1,,Cuba,Other British Oceania
+40,2008,1933,7977,1,,Cuba,Other British Oceania
+40,2008,1934,15850,1,,Cuba,Other British Oceania
+40,2008,1935,0,1,,Cuba,Other British Oceania
+40,2008,1936,0,1,,Cuba,Other British Oceania
+40,2008,1937,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1938,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1939,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1940,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1941,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1942,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1943,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1944,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1945,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1946,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1947,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1948,0,1,Pesos $,Cuba,Other British Oceania
+40,2008,1949,0,1,Pesos $,Cuba,Other British Oceania
+40,2200,1919,0,1,,Cuba,Other French possessions
+40,2200,1920,0,1,,Cuba,Other French possessions
+40,2200,1921,0,1,,Cuba,Other French possessions
+40,2200,1922,0,1,,Cuba,Other French possessions
+40,2200,1923,0,1,,Cuba,Other French possessions
+40,2200,1924,0,1,,Cuba,Other French possessions
+40,2200,1925,0,1,Pesos Moneda Eua,Cuba,Other French possessions
+40,2200,1926,0,1,Pesos Moneda Eua,Cuba,Other French possessions
+40,2200,1927,0,1,Pesos Moneda Nacional,Cuba,Other French possessions
+40,2200,1928,0,1,Pesos Moneda Nacional,Cuba,Other French possessions
+40,2200,1929,0,1,Pesos Moneda Nacional,Cuba,Other French possessions
+40,2200,1930,0,1,$,Cuba,Other French possessions
+40,2200,1931,0,1,,Cuba,Other French possessions
+40,2200,1932,0,1,,Cuba,Other French possessions
+40,2200,1933,0,1,,Cuba,Other French possessions
+40,2200,1934,0,1,,Cuba,Other French possessions
+40,2200,1935,0,1,,Cuba,Other French possessions
+40,2200,1936,0,1,,Cuba,Other French possessions
+40,2200,1937,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1938,563,1,Pesos $,Cuba,Other French possessions
+40,2200,1939,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1940,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1941,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1942,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1943,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1944,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1945,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1946,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1947,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1948,0,1,Pesos $,Cuba,Other French possessions
+40,2200,1949,0,1,Pesos $,Cuba,Other French possessions
+40,2205,1919,0,1,,Cuba,French Africa
+40,2205,1920,0,1,,Cuba,French Africa
+40,2205,1921,0,1,,Cuba,French Africa
+40,2205,1922,140,1,,Cuba,French Africa
+40,2205,1923,161,1,,Cuba,French Africa
+40,2205,1924,7189,1,,Cuba,French Africa
+40,2205,1925,0,1,Pesos Moneda Eua,Cuba,French Africa
+40,2205,1926,0,1,Pesos Moneda Eua,Cuba,French Africa
+40,2205,1927,0,1,Pesos Moneda Nacional,Cuba,French Africa
+40,2205,1928,0,1,Pesos Moneda Nacional,Cuba,French Africa
+40,2205,1929,58095,1,Pesos Moneda Nacional,Cuba,French Africa
+40,2205,1930,15,1,$,Cuba,French Africa
+40,2205,1931,9373,1,,Cuba,French Africa
+40,2205,1932,547,1,,Cuba,French Africa
+40,2205,1933,1768,1,,Cuba,French Africa
+40,2205,1934,2733,1,,Cuba,French Africa
+40,2205,1935,778,1,,Cuba,French Africa
+40,2205,1936,0,1,,Cuba,French Africa
+40,2205,1937,0,1,Pesos $,Cuba,French Africa
+40,2205,1938,0,1,Pesos $,Cuba,French Africa
+40,2205,1939,0,1,Pesos $,Cuba,French Africa
+40,2205,1940,0,1,Pesos $,Cuba,French Africa
+40,2205,1941,0,1,Pesos $,Cuba,French Africa
+40,2205,1942,0,1,Pesos $,Cuba,French Africa
+40,2205,1943,0,1,Pesos $,Cuba,French Africa
+40,2205,1944,0,1,Pesos $,Cuba,French Africa
+40,2205,1945,0,1,Pesos $,Cuba,French Africa
+40,2205,1946,0,1,Pesos $,Cuba,French Africa
+40,2205,1947,0,1,Pesos $,Cuba,French Africa
+40,2205,1948,0,1,Pesos $,Cuba,French Africa
+40,2205,1949,0,1,Pesos $,Cuba,French Africa
+40,2208,1919,0,1,,Cuba,French Oceania
+40,2208,1920,0,1,,Cuba,French Oceania
+40,2208,1921,0,1,,Cuba,French Oceania
+40,2208,1922,133,1,,Cuba,French Oceania
+40,2208,1923,0,1,,Cuba,French Oceania
+40,2208,1924,0,1,,Cuba,French Oceania
+40,2208,1925,0,1,Pesos Moneda Eua,Cuba,French Oceania
+40,2208,1926,0,1,Pesos Moneda Eua,Cuba,French Oceania
+40,2208,1927,0,1,Pesos Moneda Nacional,Cuba,French Oceania
+40,2208,1928,0,1,Pesos Moneda Nacional,Cuba,French Oceania
+40,2208,1929,0,1,Pesos Moneda Nacional,Cuba,French Oceania
+40,2208,1930,0,1,$,Cuba,French Oceania
+40,2208,1931,455,1,,Cuba,French Oceania
+40,2208,1932,381,1,,Cuba,French Oceania
+40,2208,1933,4260,1,,Cuba,French Oceania
+40,2208,1934,707,1,,Cuba,French Oceania
+40,2208,1935,8,1,,Cuba,French Oceania
+40,2208,1936,0,1,,Cuba,French Oceania
+40,2208,1937,0,1,Pesos $,Cuba,French Oceania
+40,2208,1938,0,1,Pesos $,Cuba,French Oceania
+40,2208,1939,0,1,Pesos $,Cuba,French Oceania
+40,2208,1940,0,1,Pesos $,Cuba,French Oceania
+40,2208,1941,0,1,Pesos $,Cuba,French Oceania
+40,2208,1942,0,1,Pesos $,Cuba,French Oceania
+40,2208,1943,0,1,Pesos $,Cuba,French Oceania
+40,2208,1944,0,1,Pesos $,Cuba,French Oceania
+40,2208,1945,0,1,Pesos $,Cuba,French Oceania
+40,2208,1946,0,1,Pesos $,Cuba,French Oceania
+40,2208,1947,0,1,Pesos $,Cuba,French Oceania
+40,2208,1948,0,1,Pesos $,Cuba,French Oceania
+40,2208,1949,0,1,Pesos $,Cuba,French Oceania
+40,2305,1919,0,1,,Cuba,Spanish Africa
+40,2305,1920,0,1,,Cuba,Spanish Africa
+40,2305,1921,0,1,,Cuba,Spanish Africa
+40,2305,1922,99,1,,Cuba,Spanish Africa
+40,2305,1923,507,1,,Cuba,Spanish Africa
+40,2305,1924,18983,1,,Cuba,Spanish Africa
+40,2305,1925,14254,1,Pesos Moneda Eua,Cuba,Spanish Africa
+40,2305,1926,4934,1,Pesos Moneda Eua,Cuba,Spanish Africa
+40,2305,1927,5160,1,Pesos Moneda Nacional,Cuba,Spanish Africa
+40,2305,1928,73991,1,Pesos Moneda Nacional,Cuba,Spanish Africa
+40,2305,1929,402,1,Pesos Moneda Nacional,Cuba,Spanish Africa
+40,2305,1930,14355,1,$,Cuba,Spanish Africa
+40,2305,1931,86,1,,Cuba,Spanish Africa
+40,2305,1932,368,1,,Cuba,Spanish Africa
+40,2305,1933,906,1,,Cuba,Spanish Africa
+40,2305,1934,2909,1,,Cuba,Spanish Africa
+40,2305,1935,0,1,,Cuba,Spanish Africa
+40,2305,1936,0,1,,Cuba,Spanish Africa
+40,2305,1937,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1938,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1939,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1940,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1941,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1942,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1943,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1944,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1945,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1946,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1947,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1948,0,1,Pesos $,Cuba,Spanish Africa
+40,2305,1949,0,1,Pesos $,Cuba,Spanish Africa
+40,2355,1919,0,1,,Cuba,Portuguese Africa
+40,2355,1920,0,1,,Cuba,Portuguese Africa
+40,2355,1921,0,1,,Cuba,Portuguese Africa
+40,2355,1922,0,1,,Cuba,Portuguese Africa
+40,2355,1923,0,1,,Cuba,Portuguese Africa
+40,2355,1924,0,1,,Cuba,Portuguese Africa
+40,2355,1925,0,1,Pesos Moneda Eua,Cuba,Portuguese Africa
+40,2355,1926,0,1,Pesos Moneda Eua,Cuba,Portuguese Africa
+40,2355,1927,0,1,Pesos Moneda Nacional,Cuba,Portuguese Africa
+40,2355,1928,0,1,Pesos Moneda Nacional,Cuba,Portuguese Africa
+40,2355,1929,0,1,Pesos Moneda Nacional,Cuba,Portuguese Africa
+40,2355,1930,0,1,$,Cuba,Portuguese Africa
+40,2355,1931,0,1,,Cuba,Portuguese Africa
+40,2355,1932,0,1,,Cuba,Portuguese Africa
+40,2355,1933,0,1,,Cuba,Portuguese Africa
+40,2355,1934,0,1,,Cuba,Portuguese Africa
+40,2355,1935,0,1,,Cuba,Portuguese Africa
+40,2355,1936,0,1,,Cuba,Portuguese Africa
+40,2355,1937,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1938,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1939,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1940,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1941,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1942,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1943,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1944,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1945,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1946,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1947,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1948,0,1,Pesos $,Cuba,Portuguese Africa
+40,2355,1949,0,1,Pesos $,Cuba,Portuguese Africa
+40,6203,1919,0,1,,Cuba,Tripoli
+40,6203,1920,0,1,,Cuba,Tripoli
+40,6203,1921,0,1,,Cuba,Tripoli
+40,6203,1922,0,1,,Cuba,Tripoli
+40,6203,1923,0,1,,Cuba,Tripoli
+40,6203,1924,0,1,,Cuba,Tripoli
+40,6203,1925,0,1,Pesos Moneda Eua,Cuba,Tripoli
+40,6203,1926,0,1,Pesos Moneda Eua,Cuba,Tripoli
+40,6203,1927,0,1,Pesos Moneda Nacional,Cuba,Tripoli
+40,6203,1928,0,1,Pesos Moneda Nacional,Cuba,Tripoli
+40,6203,1929,0,1,Pesos Moneda Nacional,Cuba,Tripoli
+40,6203,1930,0,1,$,Cuba,Tripoli
+40,6203,1931,0,1,,Cuba,Tripoli
+40,6203,1932,0,1,,Cuba,Tripoli
+40,6203,1933,0,1,,Cuba,Tripoli
+40,6203,1934,0,1,,Cuba,Tripoli
+40,6203,1935,0,1,,Cuba,Tripoli
+40,6203,1936,0,1,,Cuba,Tripoli
+40,6203,1937,0,1,Pesos $,Cuba,Tripoli
+40,6203,1938,0,1,Pesos $,Cuba,Tripoli
+40,6203,1939,0,1,Pesos $,Cuba,Tripoli
+40,6203,1940,440,1,Pesos $,Cuba,Tripoli
+40,6203,1941,0,1,Pesos $,Cuba,Tripoli
+40,6203,1942,0,1,Pesos $,Cuba,Tripoli
+40,6203,1943,0,1,Pesos $,Cuba,Tripoli
+40,6203,1944,0,1,Pesos $,Cuba,Tripoli
+40,6203,1945,0,1,Pesos $,Cuba,Tripoli
+40,6203,1946,0,1,Pesos $,Cuba,Tripoli
+40,6203,1947,0,1,Pesos $,Cuba,Tripoli
+40,6203,1948,0,1,Pesos $,Cuba,Tripoli
+40,6203,1949,0,1,Pesos $,Cuba,Tripoli
+40,8501,1919,0,1,,Cuba,Java
+40,8501,1920,0,1,,Cuba,Java
+40,8501,1921,0,1,,Cuba,Java
+40,8501,1922,0,1,,Cuba,Java
+40,8501,1923,0,1,,Cuba,Java
+40,8501,1924,0,1,,Cuba,Java
+40,8501,1925,0,1,Pesos Moneda Eua,Cuba,Java
+40,8501,1926,0,1,Pesos Moneda Eua,Cuba,Java
+40,8501,1927,0,1,Pesos Moneda Nacional,Cuba,Java
+40,8501,1928,0,1,Pesos Moneda Nacional,Cuba,Java
+40,8501,1929,0,1,Pesos Moneda Nacional,Cuba,Java
+40,8501,1930,0,1,$,Cuba,Java
+40,8501,1931,0,1,,Cuba,Java
+40,8501,1932,0,1,,Cuba,Java
+40,8501,1933,0,1,,Cuba,Java
+40,8501,1934,0,1,,Cuba,Java
+40,8501,1935,23789,1,,Cuba,Java
+40,8501,1936,415,1,,Cuba,Java
+40,8501,1937,126,1,Pesos $,Cuba,Java
+40,8501,1938,97,1,Pesos $,Cuba,Java
+40,8501,1939,0,1,Pesos $,Cuba,Java
+40,8501,1940,3877,1,Pesos $,Cuba,Java
+40,8501,1941,29335,1,Pesos $,Cuba,Java
+40,8501,1942,709,1,Pesos $,Cuba,Java
+40,8501,1943,0,1,Pesos $,Cuba,Java
+40,8501,1944,0,1,Pesos $,Cuba,Java
+40,8501,1945,0,1,Pesos $,Cuba,Java
+40,8501,1946,30,1,Pesos $,Cuba,Java
+40,8501,1947,0,1,Pesos $,Cuba,Java
+40,8501,1948,72,1,Pesos $,Cuba,Java
+40,8501,1949,3069,1,Pesos $,Cuba,Java
+40,8502,1919,0,1,,Cuba,Sumatra
+40,8502,1920,0,1,,Cuba,Sumatra
+40,8502,1921,0,1,,Cuba,Sumatra
+40,8502,1922,0,1,,Cuba,Sumatra
+40,8502,1923,0,1,,Cuba,Sumatra
+40,8502,1924,0,1,,Cuba,Sumatra
+40,8502,1925,0,1,Pesos Moneda Eua,Cuba,Sumatra
+40,8502,1926,0,1,Pesos Moneda Eua,Cuba,Sumatra
+40,8502,1927,0,1,Pesos Moneda Nacional,Cuba,Sumatra
+40,8502,1928,0,1,Pesos Moneda Nacional,Cuba,Sumatra
+40,8502,1929,0,1,Pesos Moneda Nacional,Cuba,Sumatra
+40,8502,1930,0,1,$,Cuba,Sumatra
+40,8502,1931,0,1,,Cuba,Sumatra
+40,8502,1932,0,1,,Cuba,Sumatra
+40,8502,1933,0,1,,Cuba,Sumatra
+40,8502,1934,0,1,,Cuba,Sumatra
+40,8502,1935,139878,1,,Cuba,Sumatra
+40,8502,1936,91733,1,,Cuba,Sumatra
+40,8502,1937,24702,1,Pesos $,Cuba,Sumatra
+40,8502,1938,169100,1,Pesos $,Cuba,Sumatra
+40,8502,1939,37612,1,Pesos $,Cuba,Sumatra
+40,8502,1940,308615,1,Pesos $,Cuba,Sumatra
+40,8502,1941,46826,1,Pesos $,Cuba,Sumatra
+40,8502,1942,0,1,Pesos $,Cuba,Sumatra
+40,8502,1943,0,1,Pesos $,Cuba,Sumatra
+40,8502,1944,0,1,Pesos $,Cuba,Sumatra
+40,8502,1945,0,1,Pesos $,Cuba,Sumatra
+40,8502,1946,0,1,Pesos $,Cuba,Sumatra
+40,8502,1947,0,1,Pesos $,Cuba,Sumatra
+40,8502,1948,0,1,Pesos $,Cuba,Sumatra
+40,8502,1949,127,1,Pesos $,Cuba,Sumatra
+40,,1912,125906009,,,Cuba,
+40,,1914,119003206,,,Cuba,
+40,,1915,155449585,,,Cuba,
+40,,1916,248278534,,,Cuba,
+40,,1919,359368617,1,,Cuba,
+40,,1920,558385934,1,,Cuba,
+40,,1921,357065959,1,,Cuba,
+40,,1922,180809194,1,,Cuba,
+40,,1923,269052696,1,,Cuba,
+40,,1924,290506421,1,,Cuba,
+40,,1925,297363572,1,Pesos Moneda Eua,Cuba,
+40,,1926,260973064,1,Pesos Moneda Eua,Cuba,
+40,,1927,266887627,1,Pesos Moneda Nacional,Cuba,
+40,,1928,219714352,1,Pesos Moneda Nacional,Cuba,
+40,,1929,222121388,1,Pesos Moneda Nacional,Cuba,
+40,,1930,162733204,1,$,Cuba,
+40,,1931,80118093,1,,Cuba,
+40,,1932,51027835,1,,Cuba,
+40,,1933,42383939,1,,Cuba,
+40,,1934,73521845,1,,Cuba,
+40,,1935,95465239,1,,Cuba,
+40,,1936,103215247,1,,Cuba,
+40,,1937,133375004,1,Pesos $,Cuba,
+40,,1938,108052126,1,Pesos $,Cuba,
+40,,1939,108890930,1,Pesos $,Cuba,
+40,,1940,107472168,1,Pesos $,Cuba,
+40,,1941,137246953,1,Pesos $,Cuba,
+40,,1942,151376051,1,Pesos $,Cuba,
+40,,1943,182951811,1,Pesos $,Cuba,
+40,,1944,219204320,1,Pesos $,Cuba,
+40,,1945,252368399,1,Pesos $,Cuba,
+40,,1946,307449789,1,Pesos $,Cuba,
+40,,1947,521102012,1,Pesos $,Cuba,
+40,,1948,527695003,1,Pesos $,Cuba,
+40,,1949,451576106,1,Pesos $,Cuba,

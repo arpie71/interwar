@@ -1,0 +1,1236 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+315,2,1920,4111314678,1,Kc,Czechoslovakia,United States
+315,2,1921,4547247763,1,Kc,Czechoslovakia,United States
+315,2,1922,2286335600,1,Kc,Czechoslovakia,United States
+315,2,1923,714637,1000,Tisicich Kc,Czechoslovakia,United States
+315,2,1924,889432,1000,Tisicich Kc,Czechoslovakia,United States
+315,2,1925,3124290384,1,Tisicich Kc,Czechoslovakia,United States
+315,2,1926,2079154,1000,1000 Kc,Czechoslovakia,United States
+315,2,1927,2551385,1000,1000 Kc,Czechoslovakia,United States
+315,2,1928,2378187,1000,1000 Kc,Czechoslovakia,United States
+315,2,1929,2318670,1000,1000 Kc,Czechoslovakia,United States
+315,2,1930,1750507,1000,1000 Kc,Czechoslovakia,United States
+315,2,1931,1077321,1000,1000 Kc,Czechoslovakia,United States
+315,2,1932,923896,1000,1000 Kc,Czechoslovakia,United States
+315,2,1933,504101,1000,1000 Kc,Czechoslovakia,United States
+315,2,1937,1118746,1000,1000 Kc,Czechoslovakia,United States
+315,2,1945,26,1000,Kc,Czechoslovakia,United States
+315,2,1946,852782,1000,Kc,Czechoslovakia,United States
+315,2,1947,2955310,1000,Kc,Czechoslovakia,United States
+315,2,1948,1819738,1000,Kc,Czechoslovakia,United States
+315,20,1920,0,1,Kc,Czechoslovakia,Canada
+315,20,1921,0,1,Kc,Czechoslovakia,Canada
+315,20,1922,0,1,Kc,Czechoslovakia,Canada
+315,20,1923,2231,1000,Tisicich Kc,Czechoslovakia,Canada
+315,20,1924,0,1000,Tisicich Kc,Czechoslovakia,Canada
+315,20,1925,0,1,Tisicich Kc,Czechoslovakia,Canada
+315,20,1926,0,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1927,326917,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1928,326963,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1929,195926,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1930,0,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1931,0,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1932,0,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1933,0,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1937,42390,1000,1000 Kc,Czechoslovakia,Canada
+315,20,1945,0,1000,Kc,Czechoslovakia,Canada
+315,20,1946,120505,1000,Kc,Czechoslovakia,Canada
+315,20,1947,365374,1000,Kc,Czechoslovakia,Canada
+315,20,1948,664171,1000,Kc,Czechoslovakia,Canada
+315,40,1920,0,1,Kc,Czechoslovakia,Cuba
+315,40,1921,0,1,Kc,Czechoslovakia,Cuba
+315,40,1922,0,1,Kc,Czechoslovakia,Cuba
+315,40,1923,0,1000,Tisicich Kc,Czechoslovakia,Cuba
+315,40,1924,0,1000,Tisicich Kc,Czechoslovakia,Cuba
+315,40,1925,0,1,Tisicich Kc,Czechoslovakia,Cuba
+315,40,1926,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1927,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1928,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1929,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1930,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1931,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1932,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1933,0,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1937,4890,1000,1000 Kc,Czechoslovakia,Cuba
+315,40,1945,0,1000,Kc,Czechoslovakia,Cuba
+315,40,1946,0,1000,Kc,Czechoslovakia,Cuba
+315,40,1947,11256,1000,Kc,Czechoslovakia,Cuba
+315,40,1948,0,1000,Kc,Czechoslovakia,Cuba
+315,70,1920,0,1,Kc,Czechoslovakia,Mexico
+315,70,1921,0,1,Kc,Czechoslovakia,Mexico
+315,70,1922,0,1,Kc,Czechoslovakia,Mexico
+315,70,1923,0,1000,Tisicich Kc,Czechoslovakia,Mexico
+315,70,1924,0,1000,Tisicich Kc,Czechoslovakia,Mexico
+315,70,1925,15481830,1,Tisicich Kc,Czechoslovakia,Mexico
+315,70,1926,14517,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1927,19458,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1928,24993,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1929,34434,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1930,0,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1931,0,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1932,0,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1933,0,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1937,62294,1000,1000 Kc,Czechoslovakia,Mexico
+315,70,1945,0,1000,Kc,Czechoslovakia,Mexico
+315,70,1946,1270,1000,Kc,Czechoslovakia,Mexico
+315,70,1947,18397,1000,Kc,Czechoslovakia,Mexico
+315,70,1948,0,1000,Kc,Czechoslovakia,Mexico
+315,90,1920,0,1,Kc,Czechoslovakia,Guatemala
+315,90,1921,0,1,Kc,Czechoslovakia,Guatemala
+315,90,1922,0,1,Kc,Czechoslovakia,Guatemala
+315,90,1923,0,1000,Tisicich Kc,Czechoslovakia,Guatemala
+315,90,1924,0,1000,Tisicich Kc,Czechoslovakia,Guatemala
+315,90,1925,0,1,Tisicich Kc,Czechoslovakia,Guatemala
+315,90,1926,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1927,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1928,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1929,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1930,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1931,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1932,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1933,0,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1937,5472,1000,1000 Kc,Czechoslovakia,Guatemala
+315,90,1945,0,1000,Kc,Czechoslovakia,Guatemala
+315,90,1946,0,1000,Kc,Czechoslovakia,Guatemala
+315,90,1947,0,1000,Kc,Czechoslovakia,Guatemala
+315,90,1948,0,1000,Kc,Czechoslovakia,Guatemala
+315,100,1920,0,1,Kc,Czechoslovakia,Colombia
+315,100,1921,0,1,Kc,Czechoslovakia,Colombia
+315,100,1922,0,1,Kc,Czechoslovakia,Colombia
+315,100,1923,204,1000,Tisicich Kc,Czechoslovakia,Colombia
+315,100,1924,0,1000,Tisicich Kc,Czechoslovakia,Colombia
+315,100,1925,6868665,1,Tisicich Kc,Czechoslovakia,Colombia
+315,100,1926,3673,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1927,4272,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1928,5149,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1929,5909,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1930,0,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1931,0,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1932,0,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1933,0,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1937,29265,1000,1000 Kc,Czechoslovakia,Colombia
+315,100,1945,0,1000,Kc,Czechoslovakia,Colombia
+315,100,1946,0,1000,Kc,Czechoslovakia,Colombia
+315,100,1947,0,1000,Kc,Czechoslovakia,Colombia
+315,100,1948,0,1000,Kc,Czechoslovakia,Colombia
+315,101,1920,0,1,Kc,Czechoslovakia,Venezuela
+315,101,1921,0,1,Kc,Czechoslovakia,Venezuela
+315,101,1922,0,1,Kc,Czechoslovakia,Venezuela
+315,101,1923,0,1000,Tisicich Kc,Czechoslovakia,Venezuela
+315,101,1924,0,1000,Tisicich Kc,Czechoslovakia,Venezuela
+315,101,1925,3390301,1,Tisicich Kc,Czechoslovakia,Venezuela
+315,101,1926,3016,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1927,4721,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1928,2878,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1929,6653,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1930,0,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1931,0,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1932,0,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1933,0,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1937,4472,1000,1000 Kc,Czechoslovakia,Venezuela
+315,101,1945,0,1000,Kc,Czechoslovakia,Venezuela
+315,101,1946,0,1000,Kc,Czechoslovakia,Venezuela
+315,101,1947,39160,1000,Kc,Czechoslovakia,Venezuela
+315,101,1948,0,1000,Kc,Czechoslovakia,Venezuela
+315,130,1920,0,1,Kc,Czechoslovakia,Ecuador
+315,130,1921,0,1,Kc,Czechoslovakia,Ecuador
+315,130,1922,0,1,Kc,Czechoslovakia,Ecuador
+315,130,1923,0,1000,Tisicich Kc,Czechoslovakia,Ecuador
+315,130,1924,0,1000,Tisicich Kc,Czechoslovakia,Ecuador
+315,130,1925,0,1,Tisicich Kc,Czechoslovakia,Ecuador
+315,130,1926,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1927,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1928,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1929,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1930,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1931,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1932,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1933,0,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1937,11992,1000,1000 Kc,Czechoslovakia,Ecuador
+315,130,1945,0,1000,Kc,Czechoslovakia,Ecuador
+315,130,1946,0,1000,Kc,Czechoslovakia,Ecuador
+315,130,1947,2297,1000,Kc,Czechoslovakia,Ecuador
+315,130,1948,0,1000,Kc,Czechoslovakia,Ecuador
+315,135,1920,0,1,Kc,Czechoslovakia,Peru
+315,135,1921,0,1,Kc,Czechoslovakia,Peru
+315,135,1922,0,1,Kc,Czechoslovakia,Peru
+315,135,1923,0,1000,Tisicich Kc,Czechoslovakia,Peru
+315,135,1924,0,1000,Tisicich Kc,Czechoslovakia,Peru
+315,135,1925,4494370,1,Tisicich Kc,Czechoslovakia,Peru
+315,135,1926,8559,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1927,5500,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1928,13480,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1929,8917,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1930,0,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1931,0,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1932,0,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1933,0,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1937,24431,1000,1000 Kc,Czechoslovakia,Peru
+315,135,1945,0,1000,Kc,Czechoslovakia,Peru
+315,135,1946,14227,1000,Kc,Czechoslovakia,Peru
+315,135,1947,17195,1000,Kc,Czechoslovakia,Peru
+315,135,1948,0,1000,Kc,Czechoslovakia,Peru
+315,140,1920,198784959,1,Kc,Czechoslovakia,Brazil
+315,140,1921,246024487,1,Kc,Czechoslovakia,Brazil
+315,140,1922,138745289,1,Kc,Czechoslovakia,Brazil
+315,140,1923,16903,1000,Tisicich Kc,Czechoslovakia,Brazil
+315,140,1924,16711,1000,Tisicich Kc,Czechoslovakia,Brazil
+315,140,1925,266102992,1,Tisicich Kc,Czechoslovakia,Brazil
+315,140,1926,206256,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1927,233144,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1928,244021,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1929,265819,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1930,166625,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1931,129035,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1932,103396,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1933,67187,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1937,179410,1000,1000 Kc,Czechoslovakia,Brazil
+315,140,1945,0,1000,Kc,Czechoslovakia,Brazil
+315,140,1946,15521,1000,Kc,Czechoslovakia,Brazil
+315,140,1947,814353,1000,Kc,Czechoslovakia,Brazil
+315,140,1948,558815,1000,Kc,Czechoslovakia,Brazil
+315,145,1920,0,1,Kc,Czechoslovakia,Bolivia
+315,145,1921,0,1,Kc,Czechoslovakia,Bolivia
+315,145,1922,0,1,Kc,Czechoslovakia,Bolivia
+315,145,1923,0,1000,Tisicich Kc,Czechoslovakia,Bolivia
+315,145,1924,0,1000,Tisicich Kc,Czechoslovakia,Bolivia
+315,145,1925,0,1,Tisicich Kc,Czechoslovakia,Bolivia
+315,145,1926,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1927,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1928,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1929,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1930,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1931,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1932,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1933,0,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1937,281,1000,1000 Kc,Czechoslovakia,Bolivia
+315,145,1945,0,1000,Kc,Czechoslovakia,Bolivia
+315,145,1946,0,1000,Kc,Czechoslovakia,Bolivia
+315,145,1947,0,1000,Kc,Czechoslovakia,Bolivia
+315,145,1948,0,1000,Kc,Czechoslovakia,Bolivia
+315,150,1920,0,1,Kc,Czechoslovakia,Paraguay
+315,150,1921,0,1,Kc,Czechoslovakia,Paraguay
+315,150,1922,0,1,Kc,Czechoslovakia,Paraguay
+315,150,1923,0,1000,Tisicich Kc,Czechoslovakia,Paraguay
+315,150,1924,0,1000,Tisicich Kc,Czechoslovakia,Paraguay
+315,150,1925,0,1,Tisicich Kc,Czechoslovakia,Paraguay
+315,150,1926,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1927,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1928,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1929,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1930,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1931,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1932,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1933,0,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1937,6783,1000,1000 Kc,Czechoslovakia,Paraguay
+315,150,1945,0,1000,Kc,Czechoslovakia,Paraguay
+315,150,1946,482,1000,Kc,Czechoslovakia,Paraguay
+315,150,1947,6048,1000,Kc,Czechoslovakia,Paraguay
+315,150,1948,0,1000,Kc,Czechoslovakia,Paraguay
+315,155,1920,33409890,1,Kc,Czechoslovakia,Chile
+315,155,1921,151882800,1,Kc,Czechoslovakia,Chile
+315,155,1922,41799126,1,Kc,Czechoslovakia,Chile
+315,155,1923,41426,1000,Tisicich Kc,Czechoslovakia,Chile
+315,155,1924,22850,1000,Tisicich Kc,Czechoslovakia,Chile
+315,155,1925,114724257,1,Tisicich Kc,Czechoslovakia,Chile
+315,155,1926,98042,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1927,113630,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1928,116149,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1929,186390,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1930,59459,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1931,14153,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1932,13365,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1933,30205,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1937,75792,1000,1000 Kc,Czechoslovakia,Chile
+315,155,1945,0,1000,Kc,Czechoslovakia,Chile
+315,155,1946,4620,1000,Kc,Czechoslovakia,Chile
+315,155,1947,2,1000,Kc,Czechoslovakia,Chile
+315,155,1948,0,1000,Kc,Czechoslovakia,Chile
+315,160,1920,197409881,1,Kc,Czechoslovakia,Argentina
+315,160,1921,721460066,1,Kc,Czechoslovakia,Argentina
+315,160,1922,228308022,1,Kc,Czechoslovakia,Argentina
+315,160,1923,33121,1000,Tisicich Kc,Czechoslovakia,Argentina
+315,160,1924,76930,1000,Tisicich Kc,Czechoslovakia,Argentina
+315,160,1925,397709415,1,Tisicich Kc,Czechoslovakia,Argentina
+315,160,1926,245764,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1927,463510,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1928,607099,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1929,433983,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1930,217274,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1931,353665,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1932,208332,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1933,197348,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1937,240603,1000,1000 Kc,Czechoslovakia,Argentina
+315,160,1945,0,1000,Kc,Czechoslovakia,Argentina
+315,160,1946,140009,1000,Kc,Czechoslovakia,Argentina
+315,160,1947,276292,1000,Kc,Czechoslovakia,Argentina
+315,160,1948,797049,1000,Kc,Czechoslovakia,Argentina
+315,165,1920,0,1,Kc,Czechoslovakia,Uruguay
+315,165,1921,0,1,Kc,Czechoslovakia,Uruguay
+315,165,1922,0,1,Kc,Czechoslovakia,Uruguay
+315,165,1923,0,1000,Tisicich Kc,Czechoslovakia,Uruguay
+315,165,1924,0,1000,Tisicich Kc,Czechoslovakia,Uruguay
+315,165,1925,32249460,1,Tisicich Kc,Czechoslovakia,Uruguay
+315,165,1926,12549,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1927,42744,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1928,14876,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1929,45486,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1930,0,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1931,0,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1932,0,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1933,0,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1937,57329,1000,1000 Kc,Czechoslovakia,Uruguay
+315,165,1945,0,1000,Kc,Czechoslovakia,Uruguay
+315,165,1946,0,1000,Kc,Czechoslovakia,Uruguay
+315,165,1947,19615,1000,Kc,Czechoslovakia,Uruguay
+315,165,1948,0,1000,Kc,Czechoslovakia,Uruguay
+315,200,1920,1009004562,1,Kc,Czechoslovakia,United Kingdom
+315,200,1921,1341597601,1,Kc,Czechoslovakia,United Kingdom
+315,200,1922,651980681,1,Kc,Czechoslovakia,United Kingdom
+315,200,1923,0,1000,Tisicich Kc,Czechoslovakia,United Kingdom
+315,200,1924,448043,1000,Tisicich Kc,Czechoslovakia,United Kingdom
+315,200,1925,951449847,1,Tisicich Kc,Czechoslovakia,United Kingdom
+315,200,1926,679183,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1927,847476,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1928,888212,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1929,916542,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1930,619196,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1931,445324,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1932,311691,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1933,239670,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1937,614218,1000,1000 Kc,Czechoslovakia,United Kingdom
+315,200,1945,422,1000,Kc,Czechoslovakia,United Kingdom
+315,200,1946,915508,1000,Kc,Czechoslovakia,United Kingdom
+315,200,1947,3376260,1000,Kc,Czechoslovakia,United Kingdom
+315,200,1948,3816145,1000,Kc,Czechoslovakia,United Kingdom
+315,205,1920,0,1,Kc,Czechoslovakia,Ireland
+315,205,1921,0,1,Kc,Czechoslovakia,Ireland
+315,205,1922,0,1,Kc,Czechoslovakia,Ireland
+315,205,1923,0,1000,Tisicich Kc,Czechoslovakia,Ireland
+315,205,1924,0,1000,Tisicich Kc,Czechoslovakia,Ireland
+315,205,1925,1329817,1,Tisicich Kc,Czechoslovakia,Ireland
+315,205,1926,401,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1927,4151,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1928,3700,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1929,1680,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1930,0,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1931,0,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1932,0,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1933,0,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1937,6012,1000,1000 Kc,Czechoslovakia,Ireland
+315,205,1945,0,1000,Kc,Czechoslovakia,Ireland
+315,205,1946,1709,1000,Kc,Czechoslovakia,Ireland
+315,205,1947,2565,1000,Kc,Czechoslovakia,Ireland
+315,205,1948,0,1000,Kc,Czechoslovakia,Ireland
+315,210,1920,1316133885,1,Kc,Czechoslovakia,Netherlands
+315,210,1921,1106110211,1,Kc,Czechoslovakia,Netherlands
+315,210,1922,428359745,1,Kc,Czechoslovakia,Netherlands
+315,210,1923,0,1000,Tisicich Kc,Czechoslovakia,Netherlands
+315,210,1924,478535,1000,Tisicich Kc,Czechoslovakia,Netherlands
+315,210,1925,141046263,1,Tisicich Kc,Czechoslovakia,Netherlands
+315,210,1926,147608,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1927,215061,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1928,223754,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1929,264310,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1930,190168,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1931,206309,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1932,170244,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1933,160150,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1937,342795,1000,1000 Kc,Czechoslovakia,Netherlands
+315,210,1945,9519,1000,Kc,Czechoslovakia,Netherlands
+315,210,1946,494098,1000,Kc,Czechoslovakia,Netherlands
+315,210,1947,1666511,1000,Kc,Czechoslovakia,Netherlands
+315,210,1948,2035364,1000,Kc,Czechoslovakia,Netherlands
+315,211,1920,1037859905,1,Kc,Czechoslovakia,Belgium
+315,211,1921,447357878,1,Kc,Czechoslovakia,Belgium
+315,211,1922,227954496,1,Kc,Czechoslovakia,Belgium
+315,211,1923,0,1000,Tisicich Kc,Czechoslovakia,Belgium
+315,211,1924,113341,1000,Tisicich Kc,Czechoslovakia,Belgium
+315,211,1925,214421332,1,Tisicich Kc,Czechoslovakia,Belgium
+315,211,1926,200133,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1927,304064,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1928,290615,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1929,292655,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1930,196062,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1931,156569,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1932,107916,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1933,103270,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1937,278403,1000,1000 Kc,Czechoslovakia,Belgium
+315,211,1945,135,1000,Kc,Czechoslovakia,Belgium
+315,211,1946,352954,1000,Kc,Czechoslovakia,Belgium
+315,211,1947,1323128,1000,Kc,Czechoslovakia,Belgium
+315,211,1948,1156821,1000,Kc,Czechoslovakia,Belgium
+315,220,1920,955251312,1,Kc,Czechoslovakia,France
+315,220,1921,638498203,1,Kc,Czechoslovakia,France
+315,220,1922,444943592,1,Kc,Czechoslovakia,France
+315,220,1923,0,1000,Tisicich Kc,Czechoslovakia,France
+315,220,1924,535773,1000,Tisicich Kc,Czechoslovakia,France
+315,220,1925,761863375,1,Tisicich Kc,Czechoslovakia,France
+315,220,1926,709753,1000,1000 Kc,Czechoslovakia,France
+315,220,1927,811567,1000,1000 Kc,Czechoslovakia,France
+315,220,1928,836930,1000,1000 Kc,Czechoslovakia,France
+315,220,1929,783102,1000,1000 Kc,Czechoslovakia,France
+315,220,1930,577138,1000,1000 Kc,Czechoslovakia,France
+315,220,1931,461030,1000,1000 Kc,Czechoslovakia,France
+315,220,1932,321010,1000,1000 Kc,Czechoslovakia,France
+315,220,1933,345480,1000,1000 Kc,Czechoslovakia,France
+315,220,1937,570580,1000,1000 Kc,Czechoslovakia,France
+315,220,1945,512,1000,Kc,Czechoslovakia,France
+315,220,1946,322145,1000,Kc,Czechoslovakia,France
+315,220,1947,1001290,1000,Kc,Czechoslovakia,France
+315,220,1948,930807,1000,Kc,Czechoslovakia,France
+315,225,1920,624660988,1,Kc,Czechoslovakia,Switzerland
+315,225,1921,315587936,1,Kc,Czechoslovakia,Switzerland
+315,225,1922,169331893,1,Kc,Czechoslovakia,Switzerland
+315,225,1923,0,1000,Tisicich Kc,Czechoslovakia,Switzerland
+315,225,1924,369272,1000,Tisicich Kc,Czechoslovakia,Switzerland
+315,225,1925,396190451,1,Tisicich Kc,Czechoslovakia,Switzerland
+315,225,1926,347961,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1927,437938,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1928,470168,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1929,478144,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1930,413305,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1931,358086,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1932,228382,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1933,173861,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1937,356902,1000,1000 Kc,Czechoslovakia,Switzerland
+315,225,1945,149890,1000,Kc,Czechoslovakia,Switzerland
+315,225,1946,1086961,1000,Kc,Czechoslovakia,Switzerland
+315,225,1947,2216202,1000,Kc,Czechoslovakia,Switzerland
+315,225,1948,1784185,1000,Kc,Czechoslovakia,Switzerland
+315,230,1920,37483014,1,Kc,Czechoslovakia,Spain
+315,230,1921,50769310,1,Kc,Czechoslovakia,Spain
+315,230,1922,37870291,1,Kc,Czechoslovakia,Spain
+315,230,1923,0,1000,Tisicich Kc,Czechoslovakia,Spain
+315,230,1924,18264,1000,Tisicich Kc,Czechoslovakia,Spain
+315,230,1925,55044258,1,Tisicich Kc,Czechoslovakia,Spain
+315,230,1926,82473,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1927,102930,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1928,120470,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1929,116416,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1930,114507,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1931,85537,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1932,61966,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1933,48058,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1937,28915,1000,1000 Kc,Czechoslovakia,Spain
+315,230,1945,132,1000,Kc,Czechoslovakia,Spain
+315,230,1946,0,1000,Kc,Czechoslovakia,Spain
+315,230,1947,0,1000,Kc,Czechoslovakia,Spain
+315,230,1948,0,1000,Kc,Czechoslovakia,Spain
+315,235,1920,0,1,Kc,Czechoslovakia,Portugal
+315,235,1921,0,1,Kc,Czechoslovakia,Portugal
+315,235,1922,0,1,Kc,Czechoslovakia,Portugal
+315,235,1923,0,1000,Tisicich Kc,Czechoslovakia,Portugal
+315,235,1924,0,1000,Tisicich Kc,Czechoslovakia,Portugal
+315,235,1925,18137910,1,Tisicich Kc,Czechoslovakia,Portugal
+315,235,1926,21248,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1927,23830,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1928,31299,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1929,43080,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1930,0,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1931,0,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1932,0,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1933,0,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1937,39738,1000,1000 Kc,Czechoslovakia,Portugal
+315,235,1945,0,1000,Kc,Czechoslovakia,Portugal
+315,235,1946,40181,1000,Kc,Czechoslovakia,Portugal
+315,235,1947,177371,1000,Kc,Czechoslovakia,Portugal
+315,235,1948,0,1000,Kc,Czechoslovakia,Portugal
+315,255,1920,5603858189,1,Kc,Czechoslovakia,Germany
+315,255,1921,5862122919,1,Kc,Czechoslovakia,Germany
+315,255,1922,3536466095,1,Kc,Czechoslovakia,Germany
+315,255,1923,4275025,1000,Tisicich Kc,Czechoslovakia,Germany
+315,255,1924,5583550,1000,Tisicich Kc,Czechoslovakia,Germany
+315,255,1925,3278956435,1,Tisicich Kc,Czechoslovakia,Germany
+315,255,1926,3033024,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1927,3575116,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1928,4643124,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1929,4820999,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1930,3803383,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1931,3177060,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1932,1862521,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1933,1157413,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1937,1699920,1000,1000 Kc,Czechoslovakia,Germany
+315,255,1945,58400,1000,Kc,Czechoslovakia,Germany
+315,255,1946,107148,1000,Kc,Czechoslovakia,Germany
+315,255,1947,276404,1000,Kc,Czechoslovakia,Germany
+315,255,1948,0,1000,Kc,Czechoslovakia,Germany
+315,256,1920,0,1,Kc,Czechoslovakia,Saar
+315,256,1921,0,1,Kc,Czechoslovakia,Saar
+315,256,1922,0,1,Kc,Czechoslovakia,Saar
+315,256,1923,0,1000,Tisicich Kc,Czechoslovakia,Saar
+315,256,1924,0,1000,Tisicich Kc,Czechoslovakia,Saar
+315,256,1925,136358,1,Tisicich Kc,Czechoslovakia,Saar
+315,256,1926,179,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1927,774,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1928,2874,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1929,6802,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1930,2078,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1931,1371,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1932,3808,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1933,709,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1937,0,1000,1000 Kc,Czechoslovakia,Saar
+315,256,1945,0,1000,Kc,Czechoslovakia,Saar
+315,256,1946,0,1000,Kc,Czechoslovakia,Saar
+315,256,1947,0,1000,Kc,Czechoslovakia,Saar
+315,256,1948,0,1000,Kc,Czechoslovakia,Saar
+315,290,1920,399159854,1,Kc,Czechoslovakia,Poland
+315,290,1921,383727856,1,Kc,Czechoslovakia,Poland
+315,290,1922,324336986,1,Kc,Czechoslovakia,Poland
+315,290,1923,0,1000,Tisicich Kc,Czechoslovakia,Poland
+315,290,1924,723004,1000,Tisicich Kc,Czechoslovakia,Poland
+315,290,1925,1245567852,1,Tisicich Kc,Czechoslovakia,Poland
+315,290,1926,1094678,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1927,1024033,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1928,1264013,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1929,1292826,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1930,876002,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1931,604530,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1932,355649,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1933,187126,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1937,275739,1000,1000 Kc,Czechoslovakia,Poland
+315,290,1945,1533,1000,Kc,Czechoslovakia,Poland
+315,290,1946,27733,1000,Kc,Czechoslovakia,Poland
+315,290,1947,689481,1000,Kc,Czechoslovakia,Poland
+315,290,1948,2023802,1000,Kc,Czechoslovakia,Poland
+315,305,1920,3041922852,1,Kc,Czechoslovakia,Austria
+315,305,1921,1982698924,1,Kc,Czechoslovakia,Austria
+315,305,1922,986336953,1,Kc,Czechoslovakia,Austria
+315,305,1923,0,1000,Tisicich Kc,Czechoslovakia,Austria
+315,305,1924,1243830,1000,Tisicich Kc,Czechoslovakia,Austria
+315,305,1925,947961523,1,Tisicich Kc,Czechoslovakia,Austria
+315,305,1926,994656,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1927,1135618,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1928,1318199,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1929,1437724,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1930,1069828,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1931,680379,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1932,342110,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1933,258642,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1937,441679,1000,1000 Kc,Czechoslovakia,Austria
+315,305,1945,46241,1000,Kc,Czechoslovakia,Austria
+315,305,1946,406631,1000,Kc,Czechoslovakia,Austria
+315,305,1947,506823,1000,Kc,Czechoslovakia,Austria
+315,305,1948,897889,1000,Kc,Czechoslovakia,Austria
+315,310,1920,655806263,1,Kc,Czechoslovakia,Hungary
+315,310,1921,925578299,1,Kc,Czechoslovakia,Hungary
+315,310,1922,683748230,1,Kc,Czechoslovakia,Hungary
+315,310,1923,0,1000,Tisicich Kc,Czechoslovakia,Hungary
+315,310,1924,879707,1000,Tisicich Kc,Czechoslovakia,Hungary
+315,310,1925,1179813729,1,Tisicich Kc,Czechoslovakia,Hungary
+315,310,1926,1028436,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1927,961668,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1928,846533,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1929,965016,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1930,933258,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1931,132934,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1932,120066,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1933,166478,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1937,160437,1000,1000 Kc,Czechoslovakia,Hungary
+315,310,1945,181947,1000,Kc,Czechoslovakia,Hungary
+315,310,1946,588446,1000,Kc,Czechoslovakia,Hungary
+315,310,1947,568803,1000,Kc,Czechoslovakia,Hungary
+315,310,1948,1037200,1000,Kc,Czechoslovakia,Hungary
+315,325,1920,1002611608,1,Kc,Czechoslovakia,Italy
+315,325,1921,733159477,1,Kc,Czechoslovakia,Italy
+315,325,1922,295750719,1,Kc,Czechoslovakia,Italy
+315,325,1923,0,1000,Tisicich Kc,Czechoslovakia,Italy
+315,325,1924,989162,1000,Tisicich Kc,Czechoslovakia,Italy
+315,325,1925,481116037,1,Tisicich Kc,Czechoslovakia,Italy
+315,325,1926,389708,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1927,476732,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1928,490470,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1929,508125,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1930,442848,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1931,423924,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1932,296700,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1933,249215,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1937,253104,1000,1000 Kc,Czechoslovakia,Italy
+315,325,1945,1139,1000,Kc,Czechoslovakia,Italy
+315,325,1946,223303,1000,Kc,Czechoslovakia,Italy
+315,325,1947,1152978,1000,Kc,Czechoslovakia,Italy
+315,325,1948,896509,1000,Kc,Czechoslovakia,Italy
+315,339,1920,0,1,Kc,Czechoslovakia,Albania
+315,339,1921,0,1,Kc,Czechoslovakia,Albania
+315,339,1922,0,1,Kc,Czechoslovakia,Albania
+315,339,1923,0,1000,Tisicich Kc,Czechoslovakia,Albania
+315,339,1924,0,1000,Tisicich Kc,Czechoslovakia,Albania
+315,339,1925,604469,1,Tisicich Kc,Czechoslovakia,Albania
+315,339,1926,223,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1927,28,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1928,216,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1929,105,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1930,0,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1931,0,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1932,0,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1933,0,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1937,3479,1000,1000 Kc,Czechoslovakia,Albania
+315,339,1945,0,1000,Kc,Czechoslovakia,Albania
+315,339,1946,439,1000,Kc,Czechoslovakia,Albania
+315,339,1947,0,1000,Kc,Czechoslovakia,Albania
+315,339,1948,0,1000,Kc,Czechoslovakia,Albania
+315,345,1920,340064078,1,Kc,Czechoslovakia,Yugoslavia
+315,345,1921,367446509,1,Kc,Czechoslovakia,Yugoslavia
+315,345,1922,267831692,1,Kc,Czechoslovakia,Yugoslavia
+315,345,1923,0,1000,Tisicich Kc,Czechoslovakia,Yugoslavia
+315,345,1924,417785,1000,Tisicich Kc,Czechoslovakia,Yugoslavia
+315,345,1925,561586510,1,Tisicich Kc,Czechoslovakia,Yugoslavia
+315,345,1926,595260,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1927,610891,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1928,472894,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1929,348169,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1930,445760,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1931,389227,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1932,386800,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1933,229432,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1937,401794,1000,1000 Kc,Czechoslovakia,Yugoslavia
+315,345,1945,11668,1000,Kc,Czechoslovakia,Yugoslavia
+315,345,1946,651483,1000,Kc,Czechoslovakia,Yugoslavia
+315,345,1947,1374438,1000,Kc,Czechoslovakia,Yugoslavia
+315,345,1948,2394254,1000,Kc,Czechoslovakia,Yugoslavia
+315,350,1920,0,1,Kc,Czechoslovakia,Greece
+315,350,1921,0,1,Kc,Czechoslovakia,Greece
+315,350,1922,0,1,Kc,Czechoslovakia,Greece
+315,350,1923,0,1000,Tisicich Kc,Czechoslovakia,Greece
+315,350,1924,0,1000,Tisicich Kc,Czechoslovakia,Greece
+315,350,1925,66653849,1,Tisicich Kc,Czechoslovakia,Greece
+315,350,1926,141344,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1927,133299,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1928,74893,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1929,196793,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1930,0,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1931,0,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1932,0,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1933,0,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1937,102448,1000,1000 Kc,Czechoslovakia,Greece
+315,350,1945,0,1000,Kc,Czechoslovakia,Greece
+315,350,1946,0,1000,Kc,Czechoslovakia,Greece
+315,350,1947,267714,1000,Kc,Czechoslovakia,Greece
+315,350,1948,346633,1000,Kc,Czechoslovakia,Greece
+315,355,1920,53378716,1,Kc,Czechoslovakia,Bulgaria
+315,355,1921,178954461,1,Kc,Czechoslovakia,Bulgaria
+315,355,1922,79141942,1,Kc,Czechoslovakia,Bulgaria
+315,355,1923,0,1000,Tisicich Kc,Czechoslovakia,Bulgaria
+315,355,1924,153998,1000,Tisicich Kc,Czechoslovakia,Bulgaria
+315,355,1925,108979163,1,Tisicich Kc,Czechoslovakia,Bulgaria
+315,355,1926,205417,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1927,114394,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1928,80183,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1929,115078,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1930,114668,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1931,105184,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1932,54002,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1933,47202,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1937,95638,1000,1000 Kc,Czechoslovakia,Bulgaria
+315,355,1945,8052,1000,Kc,Czechoslovakia,Bulgaria
+315,355,1946,393035,1000,Kc,Czechoslovakia,Bulgaria
+315,355,1947,892378,1000,Kc,Czechoslovakia,Bulgaria
+315,355,1948,593663,1000,Kc,Czechoslovakia,Bulgaria
+315,360,1920,308477357,1,Kc,Czechoslovakia,Romania
+315,360,1921,481661745,1,Kc,Czechoslovakia,Romania
+315,360,1922,430315398,1,Kc,Czechoslovakia,Romania
+315,360,1923,0,1000,Tisicich Kc,Czechoslovakia,Romania
+315,360,1924,467128,1000,Tisicich Kc,Czechoslovakia,Romania
+315,360,1925,391745393,1,Tisicich Kc,Czechoslovakia,Romania
+315,360,1926,490860,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1927,666744,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1928,537687,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1929,486978,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1930,569406,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1931,580454,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1932,347320,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1933,176587,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1937,531770,1000,1000 Kc,Czechoslovakia,Romania
+315,360,1945,7758,1000,Kc,Czechoslovakia,Romania
+315,360,1946,192218,1000,Kc,Czechoslovakia,Romania
+315,360,1947,245677,1000,Kc,Czechoslovakia,Romania
+315,360,1948,1471060,1000,Kc,Czechoslovakia,Romania
+315,365,1920,138749465,1,Kc,Czechoslovakia,Russia
+315,365,1921,72123866,1,Kc,Czechoslovakia,Russia
+315,365,1922,21264930,1,Kc,Czechoslovakia,Russia
+315,365,1923,0,1000,Tisicich Kc,Czechoslovakia,Russia
+315,365,1924,80415,1000,Tisicich Kc,Czechoslovakia,Russia
+315,365,1925,56226675,1,Tisicich Kc,Czechoslovakia,Russia
+315,365,1926,114921,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1927,205382,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1928,212682,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1929,319691,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1930,383316,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1931,416650,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1932,241466,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1933,136728,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1937,128325,1000,1000 Kc,Czechoslovakia,Russia
+315,365,1945,259186,1000,Kc,Czechoslovakia,Russia
+315,365,1946,1351996,1000,Kc,Czechoslovakia,Russia
+315,365,1947,1946237,1000,Kc,Czechoslovakia,Russia
+315,365,1948,5888369,1000,Kc,Czechoslovakia,Russia
+315,366,1920,0,1,Kc,Czechoslovakia,Estonia
+315,366,1921,0,1,Kc,Czechoslovakia,Estonia
+315,366,1922,0,1,Kc,Czechoslovakia,Estonia
+315,366,1923,0,1000,Tisicich Kc,Czechoslovakia,Estonia
+315,366,1924,0,1000,Tisicich Kc,Czechoslovakia,Estonia
+315,366,1925,3127441,1,Tisicich Kc,Czechoslovakia,Estonia
+315,366,1926,2135,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1927,5873,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1928,1916,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1929,3340,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1930,0,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1931,0,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1932,0,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1933,0,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1937,5485,1000,1000 Kc,Czechoslovakia,Estonia
+315,366,1945,0,1000,Kc,Czechoslovakia,Estonia
+315,366,1946,0,1000,Kc,Czechoslovakia,Estonia
+315,366,1947,0,1000,Kc,Czechoslovakia,Estonia
+315,366,1948,0,1000,Kc,Czechoslovakia,Estonia
+315,367,1920,0,1,Kc,Czechoslovakia,Latvia
+315,367,1921,0,1,Kc,Czechoslovakia,Latvia
+315,367,1922,0,1,Kc,Czechoslovakia,Latvia
+315,367,1923,0,1000,Tisicich Kc,Czechoslovakia,Latvia
+315,367,1924,0,1000,Tisicich Kc,Czechoslovakia,Latvia
+315,367,1925,64152957,1,Tisicich Kc,Czechoslovakia,Latvia
+315,367,1926,32323,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1927,68849,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1928,35603,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1929,32049,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1930,0,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1931,0,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1932,0,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1933,0,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1937,2039,1000,1000 Kc,Czechoslovakia,Latvia
+315,367,1945,0,1000,Kc,Czechoslovakia,Latvia
+315,367,1946,0,1000,Kc,Czechoslovakia,Latvia
+315,367,1947,0,1000,Kc,Czechoslovakia,Latvia
+315,367,1948,0,1000,Kc,Czechoslovakia,Latvia
+315,368,1920,0,1,Kc,Czechoslovakia,Lithuania
+315,368,1921,0,1,Kc,Czechoslovakia,Lithuania
+315,368,1922,0,1,Kc,Czechoslovakia,Lithuania
+315,368,1923,0,1000,Tisicich Kc,Czechoslovakia,Lithuania
+315,368,1924,0,1000,Tisicich Kc,Czechoslovakia,Lithuania
+315,368,1925,49209846,1,Tisicich Kc,Czechoslovakia,Lithuania
+315,368,1926,22243,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1927,36801,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1928,33455,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1929,15668,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1930,0,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1931,0,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1932,0,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1933,0,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1937,38492,1000,1000 Kc,Czechoslovakia,Lithuania
+315,368,1945,0,1000,Kc,Czechoslovakia,Lithuania
+315,368,1946,0,1000,Kc,Czechoslovakia,Lithuania
+315,368,1947,0,1000,Kc,Czechoslovakia,Lithuania
+315,368,1948,0,1000,Kc,Czechoslovakia,Lithuania
+315,375,1920,0,1,Kc,Czechoslovakia,Finland
+315,375,1921,0,1,Kc,Czechoslovakia,Finland
+315,375,1922,0,1,Kc,Czechoslovakia,Finland
+315,375,1923,0,1000,Tisicich Kc,Czechoslovakia,Finland
+315,375,1924,0,1000,Tisicich Kc,Czechoslovakia,Finland
+315,375,1925,3129097,1,Tisicich Kc,Czechoslovakia,Finland
+315,375,1926,2678,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1927,8132,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1928,6270,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1929,10189,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1930,0,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1931,0,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1932,0,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1933,0,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1937,18350,1000,1000 Kc,Czechoslovakia,Finland
+315,375,1945,2260,1000,Kc,Czechoslovakia,Finland
+315,375,1946,7001,1000,Kc,Czechoslovakia,Finland
+315,375,1947,57954,1000,Kc,Czechoslovakia,Finland
+315,375,1948,0,1000,Kc,Czechoslovakia,Finland
+315,380,1920,365770112,1,Kc,Czechoslovakia,Sweden
+315,380,1921,75924495,1,Kc,Czechoslovakia,Sweden
+315,380,1922,46380657,1,Kc,Czechoslovakia,Sweden
+315,380,1923,0,1000,Tisicich Kc,Czechoslovakia,Sweden
+315,380,1924,183579,1000,Tisicich Kc,Czechoslovakia,Sweden
+315,380,1925,260526562,1,Tisicich Kc,Czechoslovakia,Sweden
+315,380,1926,219822,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1927,239681,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1928,274168,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1929,338651,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1930,273709,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1931,223006,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1932,59586,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1933,68344,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1937,416984,1000,1000 Kc,Czechoslovakia,Sweden
+315,380,1945,30167,1000,Kc,Czechoslovakia,Sweden
+315,380,1946,914037,1000,Kc,Czechoslovakia,Sweden
+315,380,1947,1998189,1000,Kc,Czechoslovakia,Sweden
+315,380,1948,1995912,1000,Kc,Czechoslovakia,Sweden
+315,385,1920,141711757,1,Kc,Czechoslovakia,Norway
+315,385,1921,63971938,1,Kc,Czechoslovakia,Norway
+315,385,1922,31061981,1,Kc,Czechoslovakia,Norway
+315,385,1923,0,1000,Tisicich Kc,Czechoslovakia,Norway
+315,385,1924,14248,1000,Tisicich Kc,Czechoslovakia,Norway
+315,385,1925,41820421,1,Tisicich Kc,Czechoslovakia,Norway
+315,385,1926,33118,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1927,34375,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1928,56144,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1929,79035,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1930,56338,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1931,39551,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1932,26933,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1933,43085,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1937,133314,1000,1000 Kc,Czechoslovakia,Norway
+315,385,1945,317,1000,Kc,Czechoslovakia,Norway
+315,385,1946,212079,1000,Kc,Czechoslovakia,Norway
+315,385,1947,664472,1000,Kc,Czechoslovakia,Norway
+315,385,1948,468306,1000,Kc,Czechoslovakia,Norway
+315,390,1920,131216590,1,Kc,Czechoslovakia,Denmark
+315,390,1921,55470962,1,Kc,Czechoslovakia,Denmark
+315,390,1922,177906959,1,Kc,Czechoslovakia,Denmark
+315,390,1923,0,1000,Tisicich Kc,Czechoslovakia,Denmark
+315,390,1924,321997,1000,Tisicich Kc,Czechoslovakia,Denmark
+315,390,1925,43716068,1,Tisicich Kc,Czechoslovakia,Denmark
+315,390,1926,24927,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1927,33557,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1928,53625,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1929,104402,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1930,48239,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1931,39649,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1932,43421,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1933,63968,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1937,57080,1000,1000 Kc,Czechoslovakia,Denmark
+315,390,1945,7406,1000,Kc,Czechoslovakia,Denmark
+315,390,1946,316219,1000,Kc,Czechoslovakia,Denmark
+315,390,1947,800655,1000,Kc,Czechoslovakia,Denmark
+315,390,1948,503374,1000,Kc,Czechoslovakia,Denmark
+315,395,1920,0,1,Kc,Czechoslovakia,Iceland
+315,395,1921,0,1,Kc,Czechoslovakia,Iceland
+315,395,1922,0,1,Kc,Czechoslovakia,Iceland
+315,395,1923,0,1000,Tisicich Kc,Czechoslovakia,Iceland
+315,395,1924,0,1000,Tisicich Kc,Czechoslovakia,Iceland
+315,395,1925,0,1,Tisicich Kc,Czechoslovakia,Iceland
+315,395,1926,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1927,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1928,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1929,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1930,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1931,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1932,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1933,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1937,0,1000,1000 Kc,Czechoslovakia,Iceland
+315,395,1945,0,1000,Kc,Czechoslovakia,Iceland
+315,395,1946,70580,1000,Kc,Czechoslovakia,Iceland
+315,395,1947,104292,1000,Kc,Czechoslovakia,Iceland
+315,395,1948,0,1000,Kc,Czechoslovakia,Iceland
+315,490,1920,0,1,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1921,0,1,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1922,0,1,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1923,0,1000,Tisicich Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1924,0,1000,Tisicich Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1925,0,1,Tisicich Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1926,0,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1927,3257,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1928,7285,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1929,3715,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1930,0,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1931,0,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1932,0,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1933,0,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1937,43719,1000,1000 Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1945,0,1000,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1946,0,1000,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1947,8030,1000,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,490,1948,0,1000,Kc,Czechoslovakia,"Congo, Dem. Republic"
+315,530,1920,0,1,Kc,Czechoslovakia,Ethiopia
+315,530,1921,0,1,Kc,Czechoslovakia,Ethiopia
+315,530,1922,0,1,Kc,Czechoslovakia,Ethiopia
+315,530,1923,0,1000,Tisicich Kc,Czechoslovakia,Ethiopia
+315,530,1924,0,1000,Tisicich Kc,Czechoslovakia,Ethiopia
+315,530,1925,2889826,1,Tisicich Kc,Czechoslovakia,Ethiopia
+315,530,1926,2203,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1927,5230,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1928,7718,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1929,4619,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1930,0,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1931,0,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1932,0,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1933,0,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1937,938,1000,1000 Kc,Czechoslovakia,Ethiopia
+315,530,1945,0,1000,Kc,Czechoslovakia,Ethiopia
+315,530,1946,0,1000,Kc,Czechoslovakia,Ethiopia
+315,530,1947,0,1000,Kc,Czechoslovakia,Ethiopia
+315,530,1948,0,1000,Kc,Czechoslovakia,Ethiopia
+315,600,1920,0,1,Kc,Czechoslovakia,Morocco
+315,600,1921,0,1,Kc,Czechoslovakia,Morocco
+315,600,1922,0,1,Kc,Czechoslovakia,Morocco
+315,600,1923,0,1000,Tisicich Kc,Czechoslovakia,Morocco
+315,600,1924,0,1000,Tisicich Kc,Czechoslovakia,Morocco
+315,600,1925,12522733,1,Tisicich Kc,Czechoslovakia,Morocco
+315,600,1926,14417,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1927,18578,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1928,24766,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1929,25818,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1930,0,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1931,0,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1932,0,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1933,0,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1937,25000,1000,1000 Kc,Czechoslovakia,Morocco
+315,600,1945,0,1000,Kc,Czechoslovakia,Morocco
+315,600,1946,10061,1000,Kc,Czechoslovakia,Morocco
+315,600,1947,18611,1000,Kc,Czechoslovakia,Morocco
+315,600,1948,0,1000,Kc,Czechoslovakia,Morocco
+315,615,1920,0,1,Kc,Czechoslovakia,Algeria
+315,615,1921,0,1,Kc,Czechoslovakia,Algeria
+315,615,1922,0,1,Kc,Czechoslovakia,Algeria
+315,615,1923,0,1000,Tisicich Kc,Czechoslovakia,Algeria
+315,615,1924,0,1000,Tisicich Kc,Czechoslovakia,Algeria
+315,615,1925,16491341,1,Tisicich Kc,Czechoslovakia,Algeria
+315,615,1926,14131,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1927,16099,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1928,17281,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1929,20789,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1930,0,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1931,0,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1932,0,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1933,0,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1937,16016,1000,1000 Kc,Czechoslovakia,Algeria
+315,615,1945,0,1000,Kc,Czechoslovakia,Algeria
+315,615,1946,5330,1000,Kc,Czechoslovakia,Algeria
+315,615,1947,7962,1000,Kc,Czechoslovakia,Algeria
+315,615,1948,0,1000,Kc,Czechoslovakia,Algeria
+315,616,1920,0,1,Kc,Czechoslovakia,Tunisia
+315,616,1921,0,1,Kc,Czechoslovakia,Tunisia
+315,616,1922,0,1,Kc,Czechoslovakia,Tunisia
+315,616,1923,0,1000,Tisicich Kc,Czechoslovakia,Tunisia
+315,616,1924,0,1000,Tisicich Kc,Czechoslovakia,Tunisia
+315,616,1925,2899291,1,Tisicich Kc,Czechoslovakia,Tunisia
+315,616,1926,1154,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1927,2525,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1928,7909,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1929,4718,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1930,0,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1931,0,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1932,0,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1933,0,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1937,8851,1000,1000 Kc,Czechoslovakia,Tunisia
+315,616,1945,0,1000,Kc,Czechoslovakia,Tunisia
+315,616,1946,9669,1000,Kc,Czechoslovakia,Tunisia
+315,616,1947,13606,1000,Kc,Czechoslovakia,Tunisia
+315,616,1948,0,1000,Kc,Czechoslovakia,Tunisia
+315,630,1920,0,1,Kc,Czechoslovakia,Iran
+315,630,1921,0,1,Kc,Czechoslovakia,Iran
+315,630,1922,0,1,Kc,Czechoslovakia,Iran
+315,630,1923,0,1000,Tisicich Kc,Czechoslovakia,Iran
+315,630,1924,0,1000,Tisicich Kc,Czechoslovakia,Iran
+315,630,1925,17069617,1,Tisicich Kc,Czechoslovakia,Iran
+315,630,1926,1726,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1927,2231,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1928,14844,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1929,19323,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1930,0,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1931,0,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1932,0,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1933,0,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1937,0,1000,1000 Kc,Czechoslovakia,Iran
+315,630,1945,0,1000,Kc,Czechoslovakia,Iran
+315,630,1946,2573,1000,Kc,Czechoslovakia,Iran
+315,630,1947,43850,1000,Kc,Czechoslovakia,Iran
+315,630,1948,0,1000,Kc,Czechoslovakia,Iran
+315,640,1920,0,1,Kc,Czechoslovakia,Turkey
+315,640,1921,0,1,Kc,Czechoslovakia,Turkey
+315,640,1922,0,1,Kc,Czechoslovakia,Turkey
+315,640,1923,0,1000,Tisicich Kc,Czechoslovakia,Turkey
+315,640,1924,30779,1000,Tisicich Kc,Czechoslovakia,Turkey
+315,640,1925,139273410,1,Tisicich Kc,Czechoslovakia,Turkey
+315,640,1926,136048,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1927,208280,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1928,77707,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1929,147125,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1930,90955,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1931,118305,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1932,0,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1933,0,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1937,146865,1000,1000 Kc,Czechoslovakia,Turkey
+315,640,1945,28,1000,Kc,Czechoslovakia,Turkey
+315,640,1946,178042,1000,Kc,Czechoslovakia,Turkey
+315,640,1947,797225,1000,Kc,Czechoslovakia,Turkey
+315,640,1948,685154,1000,Kc,Czechoslovakia,Turkey
+315,651,1920,0,1,Kc,Czechoslovakia,Egypt
+315,651,1921,0,1,Kc,Czechoslovakia,Egypt
+315,651,1922,0,1,Kc,Czechoslovakia,Egypt
+315,651,1923,0,1000,Tisicich Kc,Czechoslovakia,Egypt
+315,651,1924,31721,1000,Tisicich Kc,Czechoslovakia,Egypt
+315,651,1925,239305145,1,Tisicich Kc,Czechoslovakia,Egypt
+315,651,1926,157846,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1927,239015,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1928,215745,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1929,206711,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1930,125018,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1931,115330,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1932,89214,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1933,77808,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1937,223430,1000,1000 Kc,Czechoslovakia,Egypt
+315,651,1945,0,1000,Kc,Czechoslovakia,Egypt
+315,651,1946,111481,1000,Kc,Czechoslovakia,Egypt
+315,651,1947,840162,1000,Kc,Czechoslovakia,Egypt
+315,651,1948,1053350,1000,Kc,Czechoslovakia,Egypt
+315,652,1920,0,1,Kc,Czechoslovakia,Syria
+315,652,1921,0,1,Kc,Czechoslovakia,Syria
+315,652,1922,0,1,Kc,Czechoslovakia,Syria
+315,652,1923,0,1000,Tisicich Kc,Czechoslovakia,Syria
+315,652,1924,0,1000,Tisicich Kc,Czechoslovakia,Syria
+315,652,1925,0,1,Tisicich Kc,Czechoslovakia,Syria
+315,652,1926,0,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1927,1397,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1928,316,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1929,4182,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1930,0,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1931,0,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1932,0,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1933,0,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1937,9679,1000,1000 Kc,Czechoslovakia,Syria
+315,652,1945,0,1000,Kc,Czechoslovakia,Syria
+315,652,1946,17455,1000,Kc,Czechoslovakia,Syria
+315,652,1947,30587,1000,Kc,Czechoslovakia,Syria
+315,652,1948,0,1000,Kc,Czechoslovakia,Syria
+315,665,1920,0,1,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1921,0,1,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1922,0,1,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1923,0,1000,Tisicich Kc,Czechoslovakia,West Bank And Gaza
+315,665,1924,0,1000,Tisicich Kc,Czechoslovakia,West Bank And Gaza
+315,665,1925,0,1,Tisicich Kc,Czechoslovakia,West Bank And Gaza
+315,665,1926,0,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1927,694,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1928,593,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1929,1833,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1930,0,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1931,0,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1932,0,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1933,0,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1937,16070,1000,1000 Kc,Czechoslovakia,West Bank And Gaza
+315,665,1945,0,1000,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1946,30773,1000,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1947,112568,1000,Kc,Czechoslovakia,West Bank And Gaza
+315,665,1948,0,1000,Kc,Czechoslovakia,West Bank And Gaza
+315,675,1920,0,1,Kc,Czechoslovakia,Arabia
+315,675,1921,0,1,Kc,Czechoslovakia,Arabia
+315,675,1922,0,1,Kc,Czechoslovakia,Arabia
+315,675,1923,0,1000,Tisicich Kc,Czechoslovakia,Arabia
+315,675,1924,0,1000,Tisicich Kc,Czechoslovakia,Arabia
+315,675,1925,1640971,1,Tisicich Kc,Czechoslovakia,Arabia
+315,675,1926,2246,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1927,2067,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1928,1331,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1929,1450,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1930,0,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1931,0,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1932,0,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1933,0,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1937,5937,1000,1000 Kc,Czechoslovakia,Arabia
+315,675,1945,0,1000,Kc,Czechoslovakia,Arabia
+315,675,1946,0,1000,Kc,Czechoslovakia,Arabia
+315,675,1947,67352,1000,Kc,Czechoslovakia,Arabia
+315,675,1948,0,1000,Kc,Czechoslovakia,Arabia
+315,700,1920,0,1,Kc,Czechoslovakia,Afghanistan
+315,700,1921,0,1,Kc,Czechoslovakia,Afghanistan
+315,700,1922,0,1,Kc,Czechoslovakia,Afghanistan
+315,700,1923,0,1000,Tisicich Kc,Czechoslovakia,Afghanistan
+315,700,1924,0,1000,Tisicich Kc,Czechoslovakia,Afghanistan
+315,700,1925,0,1,Tisicich Kc,Czechoslovakia,Afghanistan
+315,700,1926,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1927,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1928,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1929,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1930,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1931,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1932,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1933,0,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1937,8924,1000,1000 Kc,Czechoslovakia,Afghanistan
+315,700,1945,0,1000,Kc,Czechoslovakia,Afghanistan
+315,700,1946,0,1000,Kc,Czechoslovakia,Afghanistan
+315,700,1947,0,1000,Kc,Czechoslovakia,Afghanistan
+315,700,1948,0,1000,Kc,Czechoslovakia,Afghanistan
+315,710,1920,0,1,Kc,Czechoslovakia,China
+315,710,1921,0,1,Kc,Czechoslovakia,China
+315,710,1922,0,1,Kc,Czechoslovakia,China
+315,710,1923,0,1000,Tisicich Kc,Czechoslovakia,China
+315,710,1924,2497,1000,Tisicich Kc,Czechoslovakia,China
+315,710,1925,46353680,1,Tisicich Kc,Czechoslovakia,China
+315,710,1926,40080,1000,1000 Kc,Czechoslovakia,China
+315,710,1927,56966,1000,1000 Kc,Czechoslovakia,China
+315,710,1928,70779,1000,1000 Kc,Czechoslovakia,China
+315,710,1929,63989,1000,1000 Kc,Czechoslovakia,China
+315,710,1930,49901,1000,1000 Kc,Czechoslovakia,China
+315,710,1931,42767,1000,1000 Kc,Czechoslovakia,China
+315,710,1932,43221,1000,1000 Kc,Czechoslovakia,China
+315,710,1933,32561,1000,1000 Kc,Czechoslovakia,China
+315,710,1937,57233,1000,1000 Kc,Czechoslovakia,China
+315,710,1945,0,1000,Kc,Czechoslovakia,China
+315,710,1946,1014,1000,Kc,Czechoslovakia,China
+315,710,1947,3972,1000,Kc,Czechoslovakia,China
+315,710,1948,0,1000,Kc,Czechoslovakia,China
+315,720,1920,0,1,Kc,Czechoslovakia,Hong Kong
+315,720,1921,0,1,Kc,Czechoslovakia,Hong Kong
+315,720,1922,0,1,Kc,Czechoslovakia,Hong Kong
+315,720,1923,0,1000,Tisicich Kc,Czechoslovakia,Hong Kong
+315,720,1924,0,1000,Tisicich Kc,Czechoslovakia,Hong Kong
+315,720,1925,200312,1,Tisicich Kc,Czechoslovakia,Hong Kong
+315,720,1926,3,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1927,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1928,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1929,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1930,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1931,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1932,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1933,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1937,0,1000,1000 Kc,Czechoslovakia,Hong Kong
+315,720,1945,0,1000,Kc,Czechoslovakia,Hong Kong
+315,720,1946,0,1000,Kc,Czechoslovakia,Hong Kong
+315,720,1947,0,1000,Kc,Czechoslovakia,Hong Kong
+315,720,1948,0,1000,Kc,Czechoslovakia,Hong Kong
+315,740,1920,0,1,Kc,Czechoslovakia,Japan
+315,740,1921,0,1,Kc,Czechoslovakia,Japan
+315,740,1922,0,1,Kc,Czechoslovakia,Japan
+315,740,1923,0,1000,Tisicich Kc,Czechoslovakia,Japan
+315,740,1924,1028,1000,Tisicich Kc,Czechoslovakia,Japan
+315,740,1925,19122694,1,Tisicich Kc,Czechoslovakia,Japan
+315,740,1926,32383,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1927,31587,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1928,32990,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1929,18822,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1930,17979,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1931,17695,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1932,11824,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1933,11115,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1937,101668,1000,1000 Kc,Czechoslovakia,Japan
+315,740,1945,0,1000,Kc,Czechoslovakia,Japan
+315,740,1946,0,1000,Kc,Czechoslovakia,Japan
+315,740,1947,0,1000,Kc,Czechoslovakia,Japan
+315,740,1948,0,1000,Kc,Czechoslovakia,Japan
+315,775,1920,0,1,Kc,Czechoslovakia,Myanmar
+315,775,1921,0,1,Kc,Czechoslovakia,Myanmar
+315,775,1922,0,1,Kc,Czechoslovakia,Myanmar
+315,775,1923,0,1000,Tisicich Kc,Czechoslovakia,Myanmar
+315,775,1924,0,1000,Tisicich Kc,Czechoslovakia,Myanmar
+315,775,1925,0,1,Tisicich Kc,Czechoslovakia,Myanmar
+315,775,1926,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1927,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1928,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1929,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1930,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1931,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1932,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1933,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1937,0,1000,1000 Kc,Czechoslovakia,Myanmar
+315,775,1945,0,1000,Kc,Czechoslovakia,Myanmar
+315,775,1946,0,1000,Kc,Czechoslovakia,Myanmar
+315,775,1947,0,1000,Kc,Czechoslovakia,Myanmar
+315,775,1948,0,1000,Kc,Czechoslovakia,Myanmar
+315,780,1920,0,1,Kc,Czechoslovakia,Sri Lanka
+315,780,1921,0,1,Kc,Czechoslovakia,Sri Lanka
+315,780,1922,0,1,Kc,Czechoslovakia,Sri Lanka
+315,780,1923,0,1000,Tisicich Kc,Czechoslovakia,Sri Lanka
+315,780,1924,0,1000,Tisicich Kc,Czechoslovakia,Sri Lanka
+315,780,1925,9187926,1,Tisicich Kc,Czechoslovakia,Sri Lanka
+315,780,1926,8613,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1927,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1928,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1929,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1930,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1931,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1932,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1933,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1937,0,1000,1000 Kc,Czechoslovakia,Sri Lanka
+315,780,1945,0,1000,Kc,Czechoslovakia,Sri Lanka
+315,780,1946,0,1000,Kc,Czechoslovakia,Sri Lanka
+315,780,1947,0,1000,Kc,Czechoslovakia,Sri Lanka
+315,780,1948,0,1000,Kc,Czechoslovakia,Sri Lanka
+315,800,1920,0,1,Kc,Czechoslovakia,Thailand
+315,800,1921,0,1,Kc,Czechoslovakia,Thailand
+315,800,1922,0,1,Kc,Czechoslovakia,Thailand
+315,800,1923,0,1000,Tisicich Kc,Czechoslovakia,Thailand
+315,800,1924,0,1000,Tisicich Kc,Czechoslovakia,Thailand
+315,800,1925,85584,1,Tisicich Kc,Czechoslovakia,Thailand
+315,800,1926,104,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1927,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1928,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1929,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1930,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1931,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1932,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1933,0,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1937,6795,1000,1000 Kc,Czechoslovakia,Thailand
+315,800,1945,0,1000,Kc,Czechoslovakia,Thailand
+315,800,1946,0,1000,Kc,Czechoslovakia,Thailand
+315,800,1947,31,1000,Kc,Czechoslovakia,Thailand
+315,800,1948,0,1000,Kc,Czechoslovakia,Thailand
+315,840,1920,0,1,Kc,Czechoslovakia,Philippines
+315,840,1921,0,1,Kc,Czechoslovakia,Philippines
+315,840,1922,0,1,Kc,Czechoslovakia,Philippines
+315,840,1923,0,1000,Tisicich Kc,Czechoslovakia,Philippines
+315,840,1924,0,1000,Tisicich Kc,Czechoslovakia,Philippines
+315,840,1925,0,1,Tisicich Kc,Czechoslovakia,Philippines
+315,840,1926,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1927,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1928,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1929,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1930,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1931,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1932,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1933,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1937,0,1000,1000 Kc,Czechoslovakia,Philippines
+315,840,1945,0,1000,Kc,Czechoslovakia,Philippines
+315,840,1946,0,1000,Kc,Czechoslovakia,Philippines
+315,840,1947,70255,1000,Kc,Czechoslovakia,Philippines
+315,840,1948,0,1000,Kc,Czechoslovakia,Philippines
+315,900,1920,0,1,Kc,Czechoslovakia,Australia
+315,900,1921,0,1,Kc,Czechoslovakia,Australia
+315,900,1922,0,1,Kc,Czechoslovakia,Australia
+315,900,1923,9268,1000,Tisicich Kc,Czechoslovakia,Australia
+315,900,1924,0,1000,Tisicich Kc,Czechoslovakia,Australia
+315,900,1925,0,1,Tisicich Kc,Czechoslovakia,Australia
+315,900,1926,0,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1927,177326,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1928,181932,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1929,178115,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1930,0,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1931,0,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1932,0,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1933,0,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1937,176621,1000,1000 Kc,Czechoslovakia,Australia
+315,900,1945,0,1000,Kc,Czechoslovakia,Australia
+315,900,1946,10577,1000,Kc,Czechoslovakia,Australia
+315,900,1947,167031,1000,Kc,Czechoslovakia,Australia
+315,900,1948,183403,1000,Kc,Czechoslovakia,Australia
+315,920,1920,0,1,Kc,Czechoslovakia,New Zealand
+315,920,1921,0,1,Kc,Czechoslovakia,New Zealand
+315,920,1922,0,1,Kc,Czechoslovakia,New Zealand
+315,920,1923,506,1000,Tisicich Kc,Czechoslovakia,New Zealand
+315,920,1924,0,1000,Tisicich Kc,Czechoslovakia,New Zealand
+315,920,1925,21481063,1,Tisicich Kc,Czechoslovakia,New Zealand
+315,920,1926,14780,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1927,16582,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1928,26928,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1929,28080,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1930,0,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1931,0,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1932,0,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1933,0,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1937,33218,1000,1000 Kc,Czechoslovakia,New Zealand
+315,920,1945,0,1000,Kc,Czechoslovakia,New Zealand
+315,920,1946,7973,1000,Kc,Czechoslovakia,New Zealand
+315,920,1947,10563,1000,Kc,Czechoslovakia,New Zealand
+315,920,1948,0,1000,Kc,Czechoslovakia,New Zealand
+315,,1920,25064783655,1,Kc,Czechoslovakia,
+315,,1921,24117208932,1,Kc,Czechoslovakia,
+315,,1922,13854860125,1,Kc,Czechoslovakia,
+315,,1923,5099195,1000,Tisicich Kc,Czechoslovakia,
+315,,1924,17615827,1000,Tisicich Kc,Czechoslovakia,
+315,,1925,19417872665,1,Tisicich Kc,Czechoslovakia,
+315,,1926,16841366,1000,1000 Kc,Czechoslovakia,
+315,,1927,19297185,1000,1000 Kc,Czechoslovakia,
+315,,1928,20723790,1000,1000 Kc,Czechoslovakia,
+315,,1929,21766671,1000,1000 Kc,Czechoslovakia,
+315,,1930,17822079,1000,1000 Kc,Czechoslovakia,
+315,,1931,13206025,1000,1000 Kc,Czechoslovakia,
+315,,1932,9580989,1000,1000 Kc,Czechoslovakia,
+315,,1933,7474649,1000,1000 Kc,Czechoslovakia,
+315,,1937,12211822,1000,1000 Kc,Czechoslovakia,
+315,,1945,776738,1000,Kc,Czechoslovakia,
+315,,1946,10405434,1000,Kc,Czechoslovakia,
+315,,1947,29812420,1000,Kc,Czechoslovakia,
+315,,1948,37381851,1000,Kc,Czechoslovakia,

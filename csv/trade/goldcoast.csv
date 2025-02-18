@@ -1,0 +1,889 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+452,2,1928,1586719,1,Pounds,Ghana,United States
+452,2,1935,754806,1,Pounds,Ghana,United States
+452,2,1936,852482,1,Pounds,Ghana,United States
+452,2,1938,768514,1,Pounds,Ghana,United States
+452,2,1939,715378,1,Pounds,Ghana,United States
+452,2,1944,1448608,1,Pounds,Ghana,United States
+452,2,1946,1163047,1,Pounds,Ghana,United States
+452,2,1947,2974427,1,Pounds,Ghana,United States
+452,20,1928,95511,1,Pounds,Ghana,Canada
+452,20,1935,82713,1,Pounds,Ghana,Canada
+452,20,1936,74272,1,Pounds,Ghana,Canada
+452,20,1938,65620,1,Pounds,Ghana,Canada
+452,20,1939,67675,1,Pounds,Ghana,Canada
+452,20,1944,153484,1,Pounds,Ghana,Canada
+452,20,1946,233884,1,Pounds,Ghana,Canada
+452,20,1947,459855,1,Pounds,Ghana,Canada
+452,21,1928,57,1,Pounds,Ghana,Newfoundland
+452,21,1935,266,1,Pounds,Ghana,Newfoundland
+452,21,1936,275,1,Pounds,Ghana,Newfoundland
+452,21,1938,518,1,Pounds,Ghana,Newfoundland
+452,21,1939,158,1,Pounds,Ghana,Newfoundland
+452,21,1944,0,1,Pounds,Ghana,Newfoundland
+452,21,1946,9481,1,Pounds,Ghana,Newfoundland
+452,21,1947,40848,1,Pounds,Ghana,Newfoundland
+452,30,1928,0,1,Pounds,Ghana,Bermuda
+452,30,1935,0,1,Pounds,Ghana,Bermuda
+452,30,1936,2,1,Pounds,Ghana,Bermuda
+452,30,1938,0,1,Pounds,Ghana,Bermuda
+452,30,1939,0,1,Pounds,Ghana,Bermuda
+452,30,1944,0,1,Pounds,Ghana,Bermuda
+452,30,1946,0,1,Pounds,Ghana,Bermuda
+452,30,1947,0,1,Pounds,Ghana,Bermuda
+452,40,1928,3456,1,Pounds,Ghana,Cuba
+452,40,1935,2606,1,Pounds,Ghana,Cuba
+452,40,1936,5130,1,Pounds,Ghana,Cuba
+452,40,1938,1911,1,Pounds,Ghana,Cuba
+452,40,1939,2844,1,Pounds,Ghana,Cuba
+452,40,1944,0,1,Pounds,Ghana,Cuba
+452,40,1946,7,1,Pounds,Ghana,Cuba
+452,40,1947,0,1,Pounds,Ghana,Cuba
+452,42,1928,0,1,Pounds,Ghana,Dominican Republic
+452,42,1935,18,1,Pounds,Ghana,Dominican Republic
+452,42,1936,16,1,Pounds,Ghana,Dominican Republic
+452,42,1938,0,1,Pounds,Ghana,Dominican Republic
+452,42,1939,0,1,Pounds,Ghana,Dominican Republic
+452,42,1944,0,1,Pounds,Ghana,Dominican Republic
+452,42,1946,0,1,Pounds,Ghana,Dominican Republic
+452,42,1947,0,1,Pounds,Ghana,Dominican Republic
+452,51,1928,337,1,Pounds,Ghana,Jamaica
+452,51,1935,1048,1,Pounds,Ghana,Jamaica
+452,51,1936,2271,1,Pounds,Ghana,Jamaica
+452,51,1938,426,1,Pounds,Ghana,Jamaica
+452,51,1939,388,1,Pounds,Ghana,Jamaica
+452,51,1944,1181,1,Pounds,Ghana,Jamaica
+452,51,1946,2219,1,Pounds,Ghana,Jamaica
+452,51,1947,2261,1,Pounds,Ghana,Jamaica
+452,52,1928,158,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1935,340,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1936,243,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1938,0,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1939,0,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1944,75724,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1946,2721,1,Pounds,Ghana,Trinidad And Tobago
+452,52,1947,109253,1,Pounds,Ghana,Trinidad And Tobago
+452,66,1928,0,1,Pounds,Ghana,Martinique
+452,66,1935,0,1,Pounds,Ghana,Martinique
+452,66,1936,3,1,Pounds,Ghana,Martinique
+452,66,1938,0,1,Pounds,Ghana,Martinique
+452,66,1939,0,1,Pounds,Ghana,Martinique
+452,66,1944,0,1,Pounds,Ghana,Martinique
+452,66,1946,0,1,Pounds,Ghana,Martinique
+452,66,1947,0,1,Pounds,Ghana,Martinique
+452,68,1928,0,1,Pounds,Ghana,Netherlands Antilles
+452,68,1935,72170,1,Pounds,Ghana,Netherlands Antilles
+452,68,1936,81699,1,Pounds,Ghana,Netherlands Antilles
+452,68,1938,292780,1,Pounds,Ghana,Netherlands Antilles
+452,68,1939,342612,1,Pounds,Ghana,Netherlands Antilles
+452,68,1944,757488,1,Pounds,Ghana,Netherlands Antilles
+452,68,1946,551086,1,Pounds,Ghana,Netherlands Antilles
+452,68,1947,515500,1,Pounds,Ghana,Netherlands Antilles
+452,70,1928,0,1,Pounds,Ghana,Mexico
+452,70,1935,0,1,Pounds,Ghana,Mexico
+452,70,1936,22,1,Pounds,Ghana,Mexico
+452,70,1938,0,1,Pounds,Ghana,Mexico
+452,70,1939,0,1,Pounds,Ghana,Mexico
+452,70,1944,54180,1,Pounds,Ghana,Mexico
+452,70,1946,2084,1,Pounds,Ghana,Mexico
+452,70,1947,8655,1,Pounds,Ghana,Mexico
+452,80,1928,0,1,Pounds,Ghana,Belize
+452,80,1935,0,1,Pounds,Ghana,Belize
+452,80,1936,1,1,Pounds,Ghana,Belize
+452,80,1938,0,1,Pounds,Ghana,Belize
+452,80,1939,0,1,Pounds,Ghana,Belize
+452,80,1944,0,1,Pounds,Ghana,Belize
+452,80,1946,0,1,Pounds,Ghana,Belize
+452,80,1947,0,1,Pounds,Ghana,Belize
+452,90,1928,0,1,Pounds,Ghana,Guatemala
+452,90,1935,1,1,Pounds,Ghana,Guatemala
+452,90,1936,0,1,Pounds,Ghana,Guatemala
+452,90,1938,0,1,Pounds,Ghana,Guatemala
+452,90,1939,0,1,Pounds,Ghana,Guatemala
+452,90,1944,0,1,Pounds,Ghana,Guatemala
+452,90,1946,0,1,Pounds,Ghana,Guatemala
+452,90,1947,0,1,Pounds,Ghana,Guatemala
+452,94,1928,0,1,Pounds,Ghana,Costa Rica
+452,94,1935,80,1,Pounds,Ghana,Costa Rica
+452,94,1936,0,1,Pounds,Ghana,Costa Rica
+452,94,1938,0,1,Pounds,Ghana,Costa Rica
+452,94,1939,0,1,Pounds,Ghana,Costa Rica
+452,94,1944,0,1,Pounds,Ghana,Costa Rica
+452,94,1946,0,1,Pounds,Ghana,Costa Rica
+452,94,1947,0,1,Pounds,Ghana,Costa Rica
+452,100,1928,4,1,Pounds,Ghana,Colombia
+452,100,1935,9,1,Pounds,Ghana,Colombia
+452,100,1936,0,1,Pounds,Ghana,Colombia
+452,100,1938,0,1,Pounds,Ghana,Colombia
+452,100,1939,0,1,Pounds,Ghana,Colombia
+452,100,1944,0,1,Pounds,Ghana,Colombia
+452,100,1946,0,1,Pounds,Ghana,Colombia
+452,100,1947,0,1,Pounds,Ghana,Colombia
+452,101,1928,0,1,Pounds,Ghana,Venezuela
+452,101,1935,3165,1,Pounds,Ghana,Venezuela
+452,101,1936,738,1,Pounds,Ghana,Venezuela
+452,101,1938,0,1,Pounds,Ghana,Venezuela
+452,101,1939,2585,1,Pounds,Ghana,Venezuela
+452,101,1944,0,1,Pounds,Ghana,Venezuela
+452,101,1946,0,1,Pounds,Ghana,Venezuela
+452,101,1947,0,1,Pounds,Ghana,Venezuela
+452,110,1928,30,1,Pounds,Ghana,Guyana
+452,110,1935,4,1,Pounds,Ghana,Guyana
+452,110,1936,0,1,Pounds,Ghana,Guyana
+452,110,1938,0,1,Pounds,Ghana,Guyana
+452,110,1939,0,1,Pounds,Ghana,Guyana
+452,110,1944,0,1,Pounds,Ghana,Guyana
+452,110,1946,0,1,Pounds,Ghana,Guyana
+452,110,1947,0,1,Pounds,Ghana,Guyana
+452,135,1928,11,1,Pounds,Ghana,Peru
+452,135,1935,0,1,Pounds,Ghana,Peru
+452,135,1936,5,1,Pounds,Ghana,Peru
+452,135,1938,0,1,Pounds,Ghana,Peru
+452,135,1939,0,1,Pounds,Ghana,Peru
+452,135,1944,0,1,Pounds,Ghana,Peru
+452,135,1946,0,1,Pounds,Ghana,Peru
+452,135,1947,0,1,Pounds,Ghana,Peru
+452,140,1928,124,1,Pounds,Ghana,Brazil
+452,140,1935,875,1,Pounds,Ghana,Brazil
+452,140,1936,621,1,Pounds,Ghana,Brazil
+452,140,1938,1513,1,Pounds,Ghana,Brazil
+452,140,1939,4875,1,Pounds,Ghana,Brazil
+452,140,1944,44236,1,Pounds,Ghana,Brazil
+452,140,1946,9079,1,Pounds,Ghana,Brazil
+452,140,1947,7818,1,Pounds,Ghana,Brazil
+452,155,1928,0,1,Pounds,Ghana,Chile
+452,155,1935,0,1,Pounds,Ghana,Chile
+452,155,1936,4,1,Pounds,Ghana,Chile
+452,155,1938,0,1,Pounds,Ghana,Chile
+452,155,1939,0,1,Pounds,Ghana,Chile
+452,155,1944,0,1,Pounds,Ghana,Chile
+452,155,1946,0,1,Pounds,Ghana,Chile
+452,155,1947,13,1,Pounds,Ghana,Chile
+452,160,1928,74647,1,Pounds,Ghana,Argentina
+452,160,1935,56074,1,Pounds,Ghana,Argentina
+452,160,1936,89100,1,Pounds,Ghana,Argentina
+452,160,1938,44189,1,Pounds,Ghana,Argentina
+452,160,1939,52888,1,Pounds,Ghana,Argentina
+452,160,1944,19190,1,Pounds,Ghana,Argentina
+452,160,1946,6205,1,Pounds,Ghana,Argentina
+452,160,1947,2373,1,Pounds,Ghana,Argentina
+452,165,1928,153,1,Pounds,Ghana,Uruguay
+452,165,1935,19882,1,Pounds,Ghana,Uruguay
+452,165,1936,10665,1,Pounds,Ghana,Uruguay
+452,165,1938,3742,1,Pounds,Ghana,Uruguay
+452,165,1939,4917,1,Pounds,Ghana,Uruguay
+452,165,1944,0,1,Pounds,Ghana,Uruguay
+452,165,1946,0,1,Pounds,Ghana,Uruguay
+452,165,1947,2202,1,Pounds,Ghana,Uruguay
+452,200,1928,6513246,1,Pounds,Ghana,United Kingdom
+452,200,1935,4533683,1,Pounds,Ghana,United Kingdom
+452,200,1936,7499788,1,Pounds,Ghana,United Kingdom
+452,200,1938,6648796,1,Pounds,Ghana,United Kingdom
+452,200,1939,7199842,1,Pounds,Ghana,United Kingdom
+452,200,1944,5841938,1,Pounds,Ghana,United Kingdom
+452,200,1946,13057243,1,Pounds,Ghana,United Kingdom
+452,200,1947,15665680,1,Pounds,Ghana,United Kingdom
+452,205,1928,0,1,Pounds,Ghana,Ireland
+452,205,1935,1721,1,Pounds,Ghana,Ireland
+452,205,1936,2766,1,Pounds,Ghana,Ireland
+452,205,1938,3803,1,Pounds,Ghana,Ireland
+452,205,1939,2246,1,Pounds,Ghana,Ireland
+452,205,1944,0,1,Pounds,Ghana,Ireland
+452,205,1946,61,1,Pounds,Ghana,Ireland
+452,205,1947,908,1,Pounds,Ghana,Ireland
+452,210,1928,932001,1,Pounds,Ghana,Netherlands
+452,210,1935,248875,1,Pounds,Ghana,Netherlands
+452,210,1936,422151,1,Pounds,Ghana,Netherlands
+452,210,1938,162464,1,Pounds,Ghana,Netherlands
+452,210,1939,255100,1,Pounds,Ghana,Netherlands
+452,210,1944,0,1,Pounds,Ghana,Netherlands
+452,210,1946,320668,1,Pounds,Ghana,Netherlands
+452,210,1947,1049835,1,Pounds,Ghana,Netherlands
+452,211,1928,129740,1,Pounds,Ghana,Belgium
+452,211,1935,104239,1,Pounds,Ghana,Belgium
+452,211,1936,181317,1,Pounds,Ghana,Belgium
+452,211,1938,109103,1,Pounds,Ghana,Belgium
+452,211,1939,165441,1,Pounds,Ghana,Belgium
+452,211,1944,0,1,Pounds,Ghana,Belgium
+452,211,1946,170093,1,Pounds,Ghana,Belgium
+452,211,1947,1170826,1,Pounds,Ghana,Belgium
+452,212,1928,0,1,Pounds,Ghana,Luxembourg
+452,212,1935,689,1,Pounds,Ghana,Luxembourg
+452,212,1936,814,1,Pounds,Ghana,Luxembourg
+452,212,1938,0,1,Pounds,Ghana,Luxembourg
+452,212,1939,1057,1,Pounds,Ghana,Luxembourg
+452,212,1944,0,1,Pounds,Ghana,Luxembourg
+452,212,1946,1730,1,Pounds,Ghana,Luxembourg
+452,212,1947,16806,1,Pounds,Ghana,Luxembourg
+452,220,1928,429714,1,Pounds,Ghana,France
+452,220,1935,98075,1,Pounds,Ghana,France
+452,220,1936,102460,1,Pounds,Ghana,France
+452,220,1938,55642,1,Pounds,Ghana,France
+452,220,1939,73967,1,Pounds,Ghana,France
+452,220,1944,1258,1,Pounds,Ghana,France
+452,220,1946,87821,1,Pounds,Ghana,France
+452,220,1947,387020,1,Pounds,Ghana,France
+452,225,1928,152694,1,Pounds,Ghana,Switzerland
+452,225,1935,31057,1,Pounds,Ghana,Switzerland
+452,225,1936,46547,1,Pounds,Ghana,Switzerland
+452,225,1938,60349,1,Pounds,Ghana,Switzerland
+452,225,1939,22829,1,Pounds,Ghana,Switzerland
+452,225,1944,0,1,Pounds,Ghana,Switzerland
+452,225,1946,44781,1,Pounds,Ghana,Switzerland
+452,225,1947,92776,1,Pounds,Ghana,Switzerland
+452,230,1928,4293,1,Pounds,Ghana,Spain
+452,230,1935,16503,1,Pounds,Ghana,Spain
+452,230,1936,22175,1,Pounds,Ghana,Spain
+452,230,1938,5828,1,Pounds,Ghana,Spain
+452,230,1939,6299,1,Pounds,Ghana,Spain
+452,230,1944,0,1,Pounds,Ghana,Spain
+452,230,1946,10736,1,Pounds,Ghana,Spain
+452,230,1947,30388,1,Pounds,Ghana,Spain
+452,231,1928,36,1,Pounds,Ghana,Gibraltar
+452,231,1935,79,1,Pounds,Ghana,Gibraltar
+452,231,1936,115,1,Pounds,Ghana,Gibraltar
+452,231,1938,0,1,Pounds,Ghana,Gibraltar
+452,231,1939,0,1,Pounds,Ghana,Gibraltar
+452,231,1944,0,1,Pounds,Ghana,Gibraltar
+452,231,1946,0,1,Pounds,Ghana,Gibraltar
+452,231,1947,0,1,Pounds,Ghana,Gibraltar
+452,235,1928,91315,1,Pounds,Ghana,Portugal
+452,235,1935,25722,1,Pounds,Ghana,Portugal
+452,235,1936,32690,1,Pounds,Ghana,Portugal
+452,235,1938,21621,1,Pounds,Ghana,Portugal
+452,235,1939,25352,1,Pounds,Ghana,Portugal
+452,235,1944,0,1,Pounds,Ghana,Portugal
+452,235,1946,10464,1,Pounds,Ghana,Portugal
+452,235,1947,82310,1,Pounds,Ghana,Portugal
+452,255,1928,1172485,1,Pounds,Ghana,Germany
+452,255,1935,423400,1,Pounds,Ghana,Germany
+452,255,1936,592733,1,Pounds,Ghana,Germany
+452,255,1938,453802,1,Pounds,Ghana,Germany
+452,255,1939,375446,1,Pounds,Ghana,Germany
+452,255,1944,0,1,Pounds,Ghana,Germany
+452,255,1946,316,1,Pounds,Ghana,Germany
+452,255,1947,5545,1,Pounds,Ghana,Germany
+452,290,1928,11021,1,Pounds,Ghana,Poland
+452,290,1935,13260,1,Pounds,Ghana,Poland
+452,290,1936,10253,1,Pounds,Ghana,Poland
+452,290,1938,6737,1,Pounds,Ghana,Poland
+452,290,1939,10063,1,Pounds,Ghana,Poland
+452,290,1944,0,1,Pounds,Ghana,Poland
+452,290,1946,0,1,Pounds,Ghana,Poland
+452,290,1947,34460,1,Pounds,Ghana,Poland
+452,305,1928,23170,1,Pounds,Ghana,Austria
+452,305,1935,6977,1,Pounds,Ghana,Austria
+452,305,1936,7226,1,Pounds,Ghana,Austria
+452,305,1938,2453,1,Pounds,Ghana,Austria
+452,305,1939,0,1,Pounds,Ghana,Austria
+452,305,1944,0,1,Pounds,Ghana,Austria
+452,305,1946,0,1,Pounds,Ghana,Austria
+452,305,1947,2431,1,Pounds,Ghana,Austria
+452,310,1928,1436,1,Pounds,Ghana,Hungary
+452,310,1935,8062,1,Pounds,Ghana,Hungary
+452,310,1936,6449,1,Pounds,Ghana,Hungary
+452,310,1938,8207,1,Pounds,Ghana,Hungary
+452,310,1939,13015,1,Pounds,Ghana,Hungary
+452,310,1944,0,1,Pounds,Ghana,Hungary
+452,310,1946,0,1,Pounds,Ghana,Hungary
+452,310,1947,15054,1,Pounds,Ghana,Hungary
+452,315,1928,91196,1,Pounds,Ghana,Czechoslovakia
+452,315,1935,165461,1,Pounds,Ghana,Czechoslovakia
+452,315,1936,217116,1,Pounds,Ghana,Czechoslovakia
+452,315,1938,143752,1,Pounds,Ghana,Czechoslovakia
+452,315,1939,72356,1,Pounds,Ghana,Czechoslovakia
+452,315,1944,0,1,Pounds,Ghana,Czechoslovakia
+452,315,1946,52522,1,Pounds,Ghana,Czechoslovakia
+452,315,1947,495679,1,Pounds,Ghana,Czechoslovakia
+452,325,1928,104645,1,Pounds,Ghana,Italy
+452,325,1935,107822,1,Pounds,Ghana,Italy
+452,325,1936,100491,1,Pounds,Ghana,Italy
+452,325,1938,124162,1,Pounds,Ghana,Italy
+452,325,1939,71684,1,Pounds,Ghana,Italy
+452,325,1944,2840,1,Pounds,Ghana,Italy
+452,325,1946,119014,1,Pounds,Ghana,Italy
+452,325,1947,602355,1,Pounds,Ghana,Italy
+452,338,1928,16,1,Pounds,Ghana,Malta
+452,338,1935,1,1,Pounds,Ghana,Malta
+452,338,1936,2,1,Pounds,Ghana,Malta
+452,338,1938,0,1,Pounds,Ghana,Malta
+452,338,1939,0,1,Pounds,Ghana,Malta
+452,338,1944,0,1,Pounds,Ghana,Malta
+452,338,1946,0,1,Pounds,Ghana,Malta
+452,338,1947,2,1,Pounds,Ghana,Malta
+452,345,1928,6079,1,Pounds,Ghana,Yugoslavia
+452,345,1935,6635,1,Pounds,Ghana,Yugoslavia
+452,345,1936,4756,1,Pounds,Ghana,Yugoslavia
+452,345,1938,5479,1,Pounds,Ghana,Yugoslavia
+452,345,1939,5889,1,Pounds,Ghana,Yugoslavia
+452,345,1944,0,1,Pounds,Ghana,Yugoslavia
+452,345,1946,0,1,Pounds,Ghana,Yugoslavia
+452,345,1947,232,1,Pounds,Ghana,Yugoslavia
+452,350,1928,135,1,Pounds,Ghana,Greece
+452,350,1935,798,1,Pounds,Ghana,Greece
+452,350,1936,620,1,Pounds,Ghana,Greece
+452,350,1938,0,1,Pounds,Ghana,Greece
+452,350,1939,0,1,Pounds,Ghana,Greece
+452,350,1944,0,1,Pounds,Ghana,Greece
+452,350,1946,0,1,Pounds,Ghana,Greece
+452,350,1947,986,1,Pounds,Ghana,Greece
+452,352,1928,0,1,Pounds,Ghana,Cyprus
+452,352,1935,0,1,Pounds,Ghana,Cyprus
+452,352,1936,0,1,Pounds,Ghana,Cyprus
+452,352,1938,0,1,Pounds,Ghana,Cyprus
+452,352,1939,0,1,Pounds,Ghana,Cyprus
+452,352,1944,0,1,Pounds,Ghana,Cyprus
+452,352,1946,1,1,Pounds,Ghana,Cyprus
+452,352,1947,287,1,Pounds,Ghana,Cyprus
+452,355,1928,0,1,Pounds,Ghana,Bulgaria
+452,355,1935,227,1,Pounds,Ghana,Bulgaria
+452,355,1936,68,1,Pounds,Ghana,Bulgaria
+452,355,1938,0,1,Pounds,Ghana,Bulgaria
+452,355,1939,0,1,Pounds,Ghana,Bulgaria
+452,355,1944,0,1,Pounds,Ghana,Bulgaria
+452,355,1946,0,1,Pounds,Ghana,Bulgaria
+452,355,1947,0,1,Pounds,Ghana,Bulgaria
+452,360,1928,0,1,Pounds,Ghana,Romania
+452,360,1935,1694,1,Pounds,Ghana,Romania
+452,360,1936,1781,1,Pounds,Ghana,Romania
+452,360,1938,6024,1,Pounds,Ghana,Romania
+452,360,1939,1887,1,Pounds,Ghana,Romania
+452,360,1944,0,1,Pounds,Ghana,Romania
+452,360,1946,0,1,Pounds,Ghana,Romania
+452,360,1947,0,1,Pounds,Ghana,Romania
+452,365,1928,13,1,Pounds,Ghana,Russia
+452,365,1935,42804,1,Pounds,Ghana,Russia
+452,365,1936,8678,1,Pounds,Ghana,Russia
+452,365,1938,1690,1,Pounds,Ghana,Russia
+452,365,1939,952,1,Pounds,Ghana,Russia
+452,365,1944,0,1,Pounds,Ghana,Russia
+452,365,1946,0,1,Pounds,Ghana,Russia
+452,365,1947,0,1,Pounds,Ghana,Russia
+452,366,1928,0,1,Pounds,Ghana,Estonia
+452,366,1935,177,1,Pounds,Ghana,Estonia
+452,366,1936,242,1,Pounds,Ghana,Estonia
+452,366,1938,0,1,Pounds,Ghana,Estonia
+452,366,1939,0,1,Pounds,Ghana,Estonia
+452,366,1944,0,1,Pounds,Ghana,Estonia
+452,366,1946,0,1,Pounds,Ghana,Estonia
+452,366,1947,0,1,Pounds,Ghana,Estonia
+452,367,1928,9,1,Pounds,Ghana,Latvia
+452,367,1935,12,1,Pounds,Ghana,Latvia
+452,367,1936,74,1,Pounds,Ghana,Latvia
+452,367,1938,0,1,Pounds,Ghana,Latvia
+452,367,1939,0,1,Pounds,Ghana,Latvia
+452,367,1944,0,1,Pounds,Ghana,Latvia
+452,367,1946,0,1,Pounds,Ghana,Latvia
+452,367,1947,0,1,Pounds,Ghana,Latvia
+452,368,1928,0,1,Pounds,Ghana,Lithuania
+452,368,1935,673,1,Pounds,Ghana,Lithuania
+452,368,1936,1939,1,Pounds,Ghana,Lithuania
+452,368,1938,3185,1,Pounds,Ghana,Lithuania
+452,368,1939,2711,1,Pounds,Ghana,Lithuania
+452,368,1944,0,1,Pounds,Ghana,Lithuania
+452,368,1946,0,1,Pounds,Ghana,Lithuania
+452,368,1947,0,1,Pounds,Ghana,Lithuania
+452,375,1928,72,1,Pounds,Ghana,Finland
+452,375,1935,2021,1,Pounds,Ghana,Finland
+452,375,1936,2781,1,Pounds,Ghana,Finland
+452,375,1938,3214,1,Pounds,Ghana,Finland
+452,375,1939,1804,1,Pounds,Ghana,Finland
+452,375,1944,0,1,Pounds,Ghana,Finland
+452,375,1946,6074,1,Pounds,Ghana,Finland
+452,375,1947,2603,1,Pounds,Ghana,Finland
+452,380,1928,28954,1,Pounds,Ghana,Sweden
+452,380,1935,37435,1,Pounds,Ghana,Sweden
+452,380,1936,39113,1,Pounds,Ghana,Sweden
+452,380,1938,28968,1,Pounds,Ghana,Sweden
+452,380,1939,30022,1,Pounds,Ghana,Sweden
+452,380,1944,0,1,Pounds,Ghana,Sweden
+452,380,1946,25942,1,Pounds,Ghana,Sweden
+452,380,1947,1303,1,Pounds,Ghana,Sweden
+452,385,1928,7574,1,Pounds,Ghana,Norway
+452,385,1935,9323,1,Pounds,Ghana,Norway
+452,385,1936,9132,1,Pounds,Ghana,Norway
+452,385,1938,9180,1,Pounds,Ghana,Norway
+452,385,1939,9639,1,Pounds,Ghana,Norway
+452,385,1944,0,1,Pounds,Ghana,Norway
+452,385,1946,904,1,Pounds,Ghana,Norway
+452,385,1947,23732,1,Pounds,Ghana,Norway
+452,390,1928,80173,1,Pounds,Ghana,Denmark
+452,390,1935,42678,1,Pounds,Ghana,Denmark
+452,390,1936,43888,1,Pounds,Ghana,Denmark
+452,390,1938,53624,1,Pounds,Ghana,Denmark
+452,390,1939,44526,1,Pounds,Ghana,Denmark
+452,390,1944,0,1,Pounds,Ghana,Denmark
+452,390,1946,10,1,Pounds,Ghana,Denmark
+452,390,1947,19543,1,Pounds,Ghana,Denmark
+452,395,1928,9,1,Pounds,Ghana,Iceland
+452,395,1935,0,1,Pounds,Ghana,Iceland
+452,395,1936,0,1,Pounds,Ghana,Iceland
+452,395,1938,0,1,Pounds,Ghana,Iceland
+452,395,1939,0,1,Pounds,Ghana,Iceland
+452,395,1944,0,1,Pounds,Ghana,Iceland
+452,395,1946,0,1,Pounds,Ghana,Iceland
+452,395,1947,0,1,Pounds,Ghana,Iceland
+452,401,1928,925,1,Pounds,Ghana,Madeira
+452,401,1935,915,1,Pounds,Ghana,Madeira
+452,401,1936,3033,1,Pounds,Ghana,Madeira
+452,401,1938,6448,1,Pounds,Ghana,Madeira
+452,401,1939,5964,1,Pounds,Ghana,Madeira
+452,401,1944,0,1,Pounds,Ghana,Madeira
+452,401,1946,20,1,Pounds,Ghana,Madeira
+452,401,1947,819,1,Pounds,Ghana,Madeira
+452,404,1928,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1935,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1936,3,1,Pounds,Ghana,Guinea-Bissau
+452,404,1938,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1939,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1944,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1946,0,1,Pounds,Ghana,Guinea-Bissau
+452,404,1947,0,1,Pounds,Ghana,Guinea-Bissau
+452,410,1928,87075,1,Pounds,Ghana,Canary Islands
+452,410,1935,54322,1,Pounds,Ghana,Canary Islands
+452,410,1936,65501,1,Pounds,Ghana,Canary Islands
+452,410,1938,49711,1,Pounds,Ghana,Canary Islands
+452,410,1939,24539,1,Pounds,Ghana,Canary Islands
+452,410,1944,0,1,Pounds,Ghana,Canary Islands
+452,410,1946,50436,1,Pounds,Ghana,Canary Islands
+452,410,1947,26376,1,Pounds,Ghana,Canary Islands
+452,420,1928,20039,1,Pounds,Ghana,Gambia
+452,420,1935,150,1,Pounds,Ghana,Gambia
+452,420,1936,169,1,Pounds,Ghana,Gambia
+452,420,1938,128,1,Pounds,Ghana,Gambia
+452,420,1939,28,1,Pounds,Ghana,Gambia
+452,420,1944,0,1,Pounds,Ghana,Gambia
+452,420,1946,84,1,Pounds,Ghana,Gambia
+452,420,1947,20,1,Pounds,Ghana,Gambia
+452,432,1928,20,1,Pounds,Ghana,Mali
+452,432,1935,0,1,Pounds,Ghana,Mali
+452,432,1936,0,1,Pounds,Ghana,Mali
+452,432,1938,0,1,Pounds,Ghana,Mali
+452,432,1939,0,1,Pounds,Ghana,Mali
+452,432,1944,0,1,Pounds,Ghana,Mali
+452,432,1946,3909,1,Pounds,Ghana,Mali
+452,432,1947,4441,1,Pounds,Ghana,Mali
+452,433,1928,3007,1,Pounds,Ghana,Senegal
+452,433,1935,196,1,Pounds,Ghana,Senegal
+452,433,1936,0,1,Pounds,Ghana,Senegal
+452,433,1938,0,1,Pounds,Ghana,Senegal
+452,433,1939,0,1,Pounds,Ghana,Senegal
+452,433,1944,0,1,Pounds,Ghana,Senegal
+452,433,1946,0,1,Pounds,Ghana,Senegal
+452,433,1947,6,1,Pounds,Ghana,Senegal
+452,434,1928,2889,1,Pounds,Ghana,Benin
+452,434,1935,1767,1,Pounds,Ghana,Benin
+452,434,1936,968,1,Pounds,Ghana,Benin
+452,434,1938,0,1,Pounds,Ghana,Benin
+452,434,1939,0,1,Pounds,Ghana,Benin
+452,434,1944,0,1,Pounds,Ghana,Benin
+452,434,1946,4,1,Pounds,Ghana,Benin
+452,434,1947,11,1,Pounds,Ghana,Benin
+452,450,1928,1154,1,Pounds,Ghana,Liberia
+452,450,1935,54,1,Pounds,Ghana,Liberia
+452,450,1936,14,1,Pounds,Ghana,Liberia
+452,450,1938,0,1,Pounds,Ghana,Liberia
+452,450,1939,0,1,Pounds,Ghana,Liberia
+452,450,1944,0,1,Pounds,Ghana,Liberia
+452,450,1946,61,1,Pounds,Ghana,Liberia
+452,450,1947,228,1,Pounds,Ghana,Liberia
+452,451,1928,3875,1,Pounds,Ghana,Sierra Leone
+452,451,1935,1422,1,Pounds,Ghana,Sierra Leone
+452,451,1936,1507,1,Pounds,Ghana,Sierra Leone
+452,451,1938,654,1,Pounds,Ghana,Sierra Leone
+452,451,1939,599,1,Pounds,Ghana,Sierra Leone
+452,451,1944,242,1,Pounds,Ghana,Sierra Leone
+452,451,1946,77,1,Pounds,Ghana,Sierra Leone
+452,451,1947,2838,1,Pounds,Ghana,Sierra Leone
+452,452,1928,0,1,Pounds,Ghana,Ghana
+452,452,1935,0,1,Pounds,Ghana,Ghana
+452,452,1936,0,1,Pounds,Ghana,Ghana
+452,452,1938,0,1,Pounds,Ghana,Ghana
+452,452,1939,0,1,Pounds,Ghana,Ghana
+452,452,1944,0,1,Pounds,Ghana,Ghana
+452,452,1946,0,1,Pounds,Ghana,Ghana
+452,452,1947,171,1,Pounds,Ghana,Ghana
+452,475,1928,224044,1,Pounds,Ghana,Nigeria
+452,475,1935,156777,1,Pounds,Ghana,Nigeria
+452,475,1936,180443,1,Pounds,Ghana,Nigeria
+452,475,1938,178792,1,Pounds,Ghana,Nigeria
+452,475,1939,160521,1,Pounds,Ghana,Nigeria
+452,475,1944,303565,1,Pounds,Ghana,Nigeria
+452,475,1946,472126,1,Pounds,Ghana,Nigeria
+452,475,1947,425627,1,Pounds,Ghana,Nigeria
+452,484,1928,3,1,Pounds,Ghana,"Congo, Republic"
+452,484,1935,0,1,Pounds,Ghana,"Congo, Republic"
+452,484,1936,0,1,Pounds,Ghana,"Congo, Republic"
+452,484,1938,0,1,Pounds,Ghana,"Congo, Republic"
+452,484,1939,0,1,Pounds,Ghana,"Congo, Republic"
+452,484,1944,0,1,Pounds,Ghana,"Congo, Republic"
+452,484,1946,1,1,Pounds,Ghana,"Congo, Republic"
+452,484,1947,0,1,Pounds,Ghana,"Congo, Republic"
+452,490,1928,0,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1935,382,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1936,0,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1938,0,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1939,0,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1944,70300,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1946,47245,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,490,1947,50534,1,Pounds,Ghana,"Congo, Dem. Republic"
+452,500,1928,0,1,Pounds,Ghana,Uganda
+452,500,1935,18,1,Pounds,Ghana,Uganda
+452,500,1936,0,1,Pounds,Ghana,Uganda
+452,500,1938,0,1,Pounds,Ghana,Uganda
+452,500,1939,0,1,Pounds,Ghana,Uganda
+452,500,1944,0,1,Pounds,Ghana,Uganda
+452,500,1946,0,1,Pounds,Ghana,Uganda
+452,500,1947,0,1,Pounds,Ghana,Uganda
+452,501,1928,154,1,Pounds,Ghana,Kenya
+452,501,1935,966,1,Pounds,Ghana,Kenya
+452,501,1936,707,1,Pounds,Ghana,Kenya
+452,501,1938,0,1,Pounds,Ghana,Kenya
+452,501,1939,0,1,Pounds,Ghana,Kenya
+452,501,1944,0,1,Pounds,Ghana,Kenya
+452,501,1946,0,1,Pounds,Ghana,Kenya
+452,501,1947,0,1,Pounds,Ghana,Kenya
+452,505,1928,0,1,Pounds,Ghana,British East Africa
+452,505,1935,0,1,Pounds,Ghana,British East Africa
+452,505,1936,0,1,Pounds,Ghana,British East Africa
+452,505,1938,1408,1,Pounds,Ghana,British East Africa
+452,505,1939,1398,1,Pounds,Ghana,British East Africa
+452,505,1944,23572,1,Pounds,Ghana,British East Africa
+452,505,1946,6193,1,Pounds,Ghana,British East Africa
+452,505,1947,16438,1,Pounds,Ghana,British East Africa
+452,510,1928,0,1,Pounds,Ghana,Tanzania
+452,510,1935,0,1,Pounds,Ghana,Tanzania
+452,510,1936,8,1,Pounds,Ghana,Tanzania
+452,510,1938,0,1,Pounds,Ghana,Tanzania
+452,510,1939,0,1,Pounds,Ghana,Tanzania
+452,510,1944,0,1,Pounds,Ghana,Tanzania
+452,510,1946,0,1,Pounds,Ghana,Tanzania
+452,510,1947,0,1,Pounds,Ghana,Tanzania
+452,511,1928,653,1,Pounds,Ghana,Zanzibar
+452,511,1935,399,1,Pounds,Ghana,Zanzibar
+452,511,1936,412,1,Pounds,Ghana,Zanzibar
+452,511,1938,0,1,Pounds,Ghana,Zanzibar
+452,511,1939,0,1,Pounds,Ghana,Zanzibar
+452,511,1944,0,1,Pounds,Ghana,Zanzibar
+452,511,1946,0,1,Pounds,Ghana,Zanzibar
+452,511,1947,0,1,Pounds,Ghana,Zanzibar
+452,531,1928,0,1,Pounds,Ghana,Eritrea
+452,531,1935,0,1,Pounds,Ghana,Eritrea
+452,531,1936,0,1,Pounds,Ghana,Eritrea
+452,531,1938,0,1,Pounds,Ghana,Eritrea
+452,531,1939,0,1,Pounds,Ghana,Eritrea
+452,531,1944,0,1,Pounds,Ghana,Eritrea
+452,531,1946,167,1,Pounds,Ghana,Eritrea
+452,531,1947,0,1,Pounds,Ghana,Eritrea
+452,540,1928,50,1,Pounds,Ghana,Angola
+452,540,1935,0,1,Pounds,Ghana,Angola
+452,540,1936,0,1,Pounds,Ghana,Angola
+452,540,1938,0,1,Pounds,Ghana,Angola
+452,540,1939,700,1,Pounds,Ghana,Angola
+452,540,1944,0,1,Pounds,Ghana,Angola
+452,540,1946,0,1,Pounds,Ghana,Angola
+452,540,1947,1,1,Pounds,Ghana,Angola
+452,552,1928,0,1,Pounds,Ghana,Zimbabwe
+452,552,1935,0,1,Pounds,Ghana,Zimbabwe
+452,552,1936,0,1,Pounds,Ghana,Zimbabwe
+452,552,1938,0,1,Pounds,Ghana,Zimbabwe
+452,552,1939,0,1,Pounds,Ghana,Zimbabwe
+452,552,1944,2439,1,Pounds,Ghana,Zimbabwe
+452,552,1946,13172,1,Pounds,Ghana,Zimbabwe
+452,552,1947,4,1,Pounds,Ghana,Zimbabwe
+452,553,1928,0,1,Pounds,Ghana,Malawi
+452,553,1935,28,1,Pounds,Ghana,Malawi
+452,553,1936,175,1,Pounds,Ghana,Malawi
+452,553,1938,0,1,Pounds,Ghana,Malawi
+452,553,1939,0,1,Pounds,Ghana,Malawi
+452,553,1944,0,1,Pounds,Ghana,Malawi
+452,553,1946,0,1,Pounds,Ghana,Malawi
+452,553,1947,0,1,Pounds,Ghana,Malawi
+452,580,1928,14,1,Pounds,Ghana,Madagascar
+452,580,1935,0,1,Pounds,Ghana,Madagascar
+452,580,1936,43,1,Pounds,Ghana,Madagascar
+452,580,1938,0,1,Pounds,Ghana,Madagascar
+452,580,1939,0,1,Pounds,Ghana,Madagascar
+452,580,1944,0,1,Pounds,Ghana,Madagascar
+452,580,1946,0,1,Pounds,Ghana,Madagascar
+452,580,1947,0,1,Pounds,Ghana,Madagascar
+452,591,1928,0,1,Pounds,Ghana,Seychelles
+452,591,1935,0,1,Pounds,Ghana,Seychelles
+452,591,1936,0,1,Pounds,Ghana,Seychelles
+452,591,1938,0,1,Pounds,Ghana,Seychelles
+452,591,1939,0,1,Pounds,Ghana,Seychelles
+452,591,1944,0,1,Pounds,Ghana,Seychelles
+452,591,1946,0,1,Pounds,Ghana,Seychelles
+452,591,1947,7,1,Pounds,Ghana,Seychelles
+452,615,1928,111,1,Pounds,Ghana,Algeria
+452,615,1935,34,1,Pounds,Ghana,Algeria
+452,615,1936,61,1,Pounds,Ghana,Algeria
+452,615,1938,0,1,Pounds,Ghana,Algeria
+452,615,1939,0,1,Pounds,Ghana,Algeria
+452,615,1944,0,1,Pounds,Ghana,Algeria
+452,615,1946,0,1,Pounds,Ghana,Algeria
+452,615,1947,674,1,Pounds,Ghana,Algeria
+452,616,1928,0,1,Pounds,Ghana,Tunisia
+452,616,1935,0,1,Pounds,Ghana,Tunisia
+452,616,1936,1,1,Pounds,Ghana,Tunisia
+452,616,1938,0,1,Pounds,Ghana,Tunisia
+452,616,1939,0,1,Pounds,Ghana,Tunisia
+452,616,1944,0,1,Pounds,Ghana,Tunisia
+452,616,1946,0,1,Pounds,Ghana,Tunisia
+452,616,1947,0,1,Pounds,Ghana,Tunisia
+452,620,1928,0,1,Pounds,Ghana,Libya
+452,620,1935,4,1,Pounds,Ghana,Libya
+452,620,1936,4,1,Pounds,Ghana,Libya
+452,620,1938,0,1,Pounds,Ghana,Libya
+452,620,1939,0,1,Pounds,Ghana,Libya
+452,620,1944,0,1,Pounds,Ghana,Libya
+452,620,1946,0,1,Pounds,Ghana,Libya
+452,620,1947,9,1,Pounds,Ghana,Libya
+452,625,1928,0,1,Pounds,Ghana,Sudan
+452,625,1935,6,1,Pounds,Ghana,Sudan
+452,625,1936,0,1,Pounds,Ghana,Sudan
+452,625,1938,0,1,Pounds,Ghana,Sudan
+452,625,1939,0,1,Pounds,Ghana,Sudan
+452,625,1944,0,1,Pounds,Ghana,Sudan
+452,625,1946,2,1,Pounds,Ghana,Sudan
+452,625,1947,0,1,Pounds,Ghana,Sudan
+452,630,1928,0,1,Pounds,Ghana,Iran
+452,630,1935,697,1,Pounds,Ghana,Iran
+452,630,1936,24,1,Pounds,Ghana,Iran
+452,630,1938,0,1,Pounds,Ghana,Iran
+452,630,1939,0,1,Pounds,Ghana,Iran
+452,630,1944,0,1,Pounds,Ghana,Iran
+452,630,1946,0,1,Pounds,Ghana,Iran
+452,630,1947,6,1,Pounds,Ghana,Iran
+452,640,1928,671,1,Pounds,Ghana,Turkey
+452,640,1935,210,1,Pounds,Ghana,Turkey
+452,640,1936,180,1,Pounds,Ghana,Turkey
+452,640,1938,0,1,Pounds,Ghana,Turkey
+452,640,1939,0,1,Pounds,Ghana,Turkey
+452,640,1944,0,1,Pounds,Ghana,Turkey
+452,640,1946,23,1,Pounds,Ghana,Turkey
+452,640,1947,0,1,Pounds,Ghana,Turkey
+452,645,1928,173,1,Pounds,Ghana,Iraq
+452,645,1935,333,1,Pounds,Ghana,Iraq
+452,645,1936,375,1,Pounds,Ghana,Iraq
+452,645,1938,732,1,Pounds,Ghana,Iraq
+452,645,1939,0,1,Pounds,Ghana,Iraq
+452,645,1944,0,1,Pounds,Ghana,Iraq
+452,645,1946,0,1,Pounds,Ghana,Iraq
+452,645,1947,233,1,Pounds,Ghana,Iraq
+452,651,1928,1749,1,Pounds,Ghana,Egypt
+452,651,1935,1704,1,Pounds,Ghana,Egypt
+452,651,1936,1817,1,Pounds,Ghana,Egypt
+452,651,1938,3559,1,Pounds,Ghana,Egypt
+452,651,1939,3097,1,Pounds,Ghana,Egypt
+452,651,1944,0,1,Pounds,Ghana,Egypt
+452,651,1946,423,1,Pounds,Ghana,Egypt
+452,651,1947,619,1,Pounds,Ghana,Egypt
+452,652,1928,130,1,Pounds,Ghana,Syria
+452,652,1935,1932,1,Pounds,Ghana,Syria
+452,652,1936,2134,1,Pounds,Ghana,Syria
+452,652,1938,7246,1,Pounds,Ghana,Syria
+452,652,1939,5917,1,Pounds,Ghana,Syria
+452,652,1944,0,1,Pounds,Ghana,Syria
+452,652,1946,739,1,Pounds,Ghana,Syria
+452,652,1947,1783,1,Pounds,Ghana,Syria
+452,665,1928,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1935,4,1,Pounds,Ghana,West Bank And Gaza
+452,665,1936,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1938,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1939,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1944,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1946,0,1,Pounds,Ghana,West Bank And Gaza
+452,665,1947,230,1,Pounds,Ghana,West Bank And Gaza
+452,675,1928,0,1,Pounds,Ghana,Arabia
+452,675,1935,16,1,Pounds,Ghana,Arabia
+452,675,1936,0,1,Pounds,Ghana,Arabia
+452,675,1938,0,1,Pounds,Ghana,Arabia
+452,675,1939,0,1,Pounds,Ghana,Arabia
+452,675,1944,0,1,Pounds,Ghana,Arabia
+452,675,1946,0,1,Pounds,Ghana,Arabia
+452,675,1947,0,1,Pounds,Ghana,Arabia
+452,710,1928,269,1,Pounds,Ghana,China
+452,710,1935,5502,1,Pounds,Ghana,China
+452,710,1936,44935,1,Pounds,Ghana,China
+452,710,1938,19646,1,Pounds,Ghana,China
+452,710,1939,15206,1,Pounds,Ghana,China
+452,710,1944,0,1,Pounds,Ghana,China
+452,710,1946,960,1,Pounds,Ghana,China
+452,710,1947,42503,1,Pounds,Ghana,China
+452,720,1928,428,1,Pounds,Ghana,Hong Kong
+452,720,1935,6507,1,Pounds,Ghana,Hong Kong
+452,720,1936,27308,1,Pounds,Ghana,Hong Kong
+452,720,1938,24218,1,Pounds,Ghana,Hong Kong
+452,720,1939,16865,1,Pounds,Ghana,Hong Kong
+452,720,1944,0,1,Pounds,Ghana,Hong Kong
+452,720,1946,1885,1,Pounds,Ghana,Hong Kong
+452,720,1947,43962,1,Pounds,Ghana,Hong Kong
+452,740,1928,40202,1,Pounds,Ghana,Japan
+452,740,1935,230512,1,Pounds,Ghana,Japan
+452,740,1936,305023,1,Pounds,Ghana,Japan
+452,740,1938,281887,1,Pounds,Ghana,Japan
+452,740,1939,213242,1,Pounds,Ghana,Japan
+452,740,1944,0,1,Pounds,Ghana,Japan
+452,740,1946,105,1,Pounds,Ghana,Japan
+452,740,1947,131260,1,Pounds,Ghana,Japan
+452,750,1928,139366,1,Pounds,Ghana,India
+452,750,1935,261103,1,Pounds,Ghana,India
+452,750,1936,215819,1,Pounds,Ghana,India
+452,750,1938,154100,1,Pounds,Ghana,India
+452,750,1939,156678,1,Pounds,Ghana,India
+452,750,1944,563545,1,Pounds,Ghana,India
+452,750,1946,572889,1,Pounds,Ghana,India
+452,750,1947,656052,1,Pounds,Ghana,India
+452,751,1928,5516,1,Pounds,Ghana,French India
+452,751,1935,0,1,Pounds,Ghana,French India
+452,751,1936,0,1,Pounds,Ghana,French India
+452,751,1938,0,1,Pounds,Ghana,French India
+452,751,1939,715,1,Pounds,Ghana,French India
+452,751,1944,65711,1,Pounds,Ghana,French India
+452,751,1946,38627,1,Pounds,Ghana,French India
+452,751,1947,6487,1,Pounds,Ghana,French India
+452,775,1928,0,1,Pounds,Ghana,Myanmar
+452,775,1935,0,1,Pounds,Ghana,Myanmar
+452,775,1936,0,1,Pounds,Ghana,Myanmar
+452,775,1938,61690,1,Pounds,Ghana,Myanmar
+452,775,1939,67145,1,Pounds,Ghana,Myanmar
+452,775,1944,0,1,Pounds,Ghana,Myanmar
+452,775,1946,66,1,Pounds,Ghana,Myanmar
+452,775,1947,1045,1,Pounds,Ghana,Myanmar
+452,780,1928,1121,1,Pounds,Ghana,Sri Lanka
+452,780,1935,2171,1,Pounds,Ghana,Sri Lanka
+452,780,1936,2265,1,Pounds,Ghana,Sri Lanka
+452,780,1938,2821,1,Pounds,Ghana,Sri Lanka
+452,780,1939,2381,1,Pounds,Ghana,Sri Lanka
+452,780,1944,0,1,Pounds,Ghana,Sri Lanka
+452,780,1946,2238,1,Pounds,Ghana,Sri Lanka
+452,780,1947,5615,1,Pounds,Ghana,Sri Lanka
+452,800,1928,7233,1,Pounds,Ghana,Thailand
+452,800,1935,110,1,Pounds,Ghana,Thailand
+452,800,1936,114,1,Pounds,Ghana,Thailand
+452,800,1938,0,1,Pounds,Ghana,Thailand
+452,800,1939,0,1,Pounds,Ghana,Thailand
+452,800,1944,0,1,Pounds,Ghana,Thailand
+452,800,1946,100,1,Pounds,Ghana,Thailand
+452,800,1947,0,1,Pounds,Ghana,Thailand
+452,810,1928,185,1,Pounds,Ghana,French Indo-China
+452,810,1935,14591,1,Pounds,Ghana,French Indo-China
+452,810,1936,16403,1,Pounds,Ghana,French Indo-China
+452,810,1938,11275,1,Pounds,Ghana,French Indo-China
+452,810,1939,12057,1,Pounds,Ghana,French Indo-China
+452,810,1944,0,1,Pounds,Ghana,French Indo-China
+452,810,1946,0,1,Pounds,Ghana,French Indo-China
+452,810,1947,0,1,Pounds,Ghana,French Indo-China
+452,820,1928,0,1,Pounds,Ghana,Malaysia
+452,820,1935,0,1,Pounds,Ghana,Malaysia
+452,820,1936,0,1,Pounds,Ghana,Malaysia
+452,820,1938,837,1,Pounds,Ghana,Malaysia
+452,820,1939,669,1,Pounds,Ghana,Malaysia
+452,820,1944,0,1,Pounds,Ghana,Malaysia
+452,820,1946,24,1,Pounds,Ghana,Malaysia
+452,820,1947,908,1,Pounds,Ghana,Malaysia
+452,823,1928,21,1,Pounds,Ghana,British Borneo
+452,823,1935,99,1,Pounds,Ghana,British Borneo
+452,823,1936,82,1,Pounds,Ghana,British Borneo
+452,823,1938,0,1,Pounds,Ghana,British Borneo
+452,823,1939,0,1,Pounds,Ghana,British Borneo
+452,823,1944,0,1,Pounds,Ghana,British Borneo
+452,823,1946,0,1,Pounds,Ghana,British Borneo
+452,823,1947,0,1,Pounds,Ghana,British Borneo
+452,827,1928,342,1,Pounds,Ghana,Straits Settlement
+452,827,1935,237,1,Pounds,Ghana,Straits Settlement
+452,827,1936,194,1,Pounds,Ghana,Straits Settlement
+452,827,1938,0,1,Pounds,Ghana,Straits Settlement
+452,827,1939,0,1,Pounds,Ghana,Straits Settlement
+452,827,1944,0,1,Pounds,Ghana,Straits Settlement
+452,827,1946,0,1,Pounds,Ghana,Straits Settlement
+452,827,1947,0,1,Pounds,Ghana,Straits Settlement
+452,850,1928,0,1,Pounds,Ghana,Indonesia
+452,850,1935,24,1,Pounds,Ghana,Indonesia
+452,850,1936,0,1,Pounds,Ghana,Indonesia
+452,850,1938,0,1,Pounds,Ghana,Indonesia
+452,850,1939,0,1,Pounds,Ghana,Indonesia
+452,850,1944,0,1,Pounds,Ghana,Indonesia
+452,850,1946,0,1,Pounds,Ghana,Indonesia
+452,850,1947,156,1,Pounds,Ghana,Indonesia
+452,900,1928,20476,1,Pounds,Ghana,Australia
+452,900,1935,2473,1,Pounds,Ghana,Australia
+452,900,1936,2396,1,Pounds,Ghana,Australia
+452,900,1938,4161,1,Pounds,Ghana,Australia
+452,900,1939,3764,1,Pounds,Ghana,Australia
+452,900,1944,106,1,Pounds,Ghana,Australia
+452,900,1946,2156,1,Pounds,Ghana,Australia
+452,900,1947,225924,1,Pounds,Ghana,Australia
+452,920,1928,185,1,Pounds,Ghana,New Zealand
+452,920,1935,9369,1,Pounds,Ghana,New Zealand
+452,920,1936,11933,1,Pounds,Ghana,New Zealand
+452,920,1938,17571,1,Pounds,Ghana,New Zealand
+452,920,1939,14289,1,Pounds,Ghana,New Zealand
+452,920,1944,0,1,Pounds,Ghana,New Zealand
+452,920,1946,83,1,Pounds,Ghana,New Zealand
+452,920,1947,6,1,Pounds,Ghana,New Zealand
+452,1050,1928,18,1,Pounds,Ghana,British West Indies
+452,1050,1935,129,1,Pounds,Ghana,British West Indies
+452,1050,1936,264,1,Pounds,Ghana,British West Indies
+452,1050,1938,0,1,Pounds,Ghana,British West Indies
+452,1050,1939,0,1,Pounds,Ghana,British West Indies
+452,1050,1944,0,1,Pounds,Ghana,British West Indies
+452,1050,1946,2792,1,Pounds,Ghana,British West Indies
+452,1050,1947,2612,1,Pounds,Ghana,British West Indies
+452,1060,1928,0,1,Pounds,Ghana,French West Indies
+452,1060,1935,0,1,Pounds,Ghana,French West Indies
+452,1060,1936,0,1,Pounds,Ghana,French West Indies
+452,1060,1938,0,1,Pounds,Ghana,French West Indies
+452,1060,1939,0,1,Pounds,Ghana,French West Indies
+452,1060,1944,0,1,Pounds,Ghana,French West Indies
+452,1060,1946,2,1,Pounds,Ghana,French West Indies
+452,1060,1947,0,1,Pounds,Ghana,French West Indies
+452,2000,1928,0,1,Pounds,Ghana,Other British possessions
+452,2000,1935,0,1,Pounds,Ghana,Other British possessions
+452,2000,1936,0,1,Pounds,Ghana,Other British possessions
+452,2000,1938,843,1,Pounds,Ghana,Other British possessions
+452,2000,1939,827,1,Pounds,Ghana,Other British possessions
+452,2000,1944,1480,1,Pounds,Ghana,Other British possessions
+452,2000,1946,0,1,Pounds,Ghana,Other British possessions
+452,2000,1947,0,1,Pounds,Ghana,Other British possessions
+452,3651,1928,431,1,Pounds,Ghana,Siberia
+452,3651,1935,0,1,Pounds,Ghana,Siberia
+452,3651,1936,0,1,Pounds,Ghana,Siberia
+452,3651,1938,0,1,Pounds,Ghana,Siberia
+452,3651,1939,0,1,Pounds,Ghana,Siberia
+452,3651,1944,0,1,Pounds,Ghana,Siberia
+452,3651,1946,0,1,Pounds,Ghana,Siberia
+452,3651,1947,0,1,Pounds,Ghana,Siberia
+452,6203,1928,158,1,Pounds,Ghana,Tripoli
+452,6203,1935,111,1,Pounds,Ghana,Tripoli
+452,6203,1936,0,1,Pounds,Ghana,Tripoli
+452,6203,1938,0,1,Pounds,Ghana,Tripoli
+452,6203,1939,0,1,Pounds,Ghana,Tripoli
+452,6203,1944,0,1,Pounds,Ghana,Tripoli
+452,6203,1946,0,1,Pounds,Ghana,Tripoli
+452,6203,1947,8,1,Pounds,Ghana,Tripoli
+452,6411,1928,44,1,Pounds,Ghana,Smyrna
+452,6411,1935,0,1,Pounds,Ghana,Smyrna
+452,6411,1936,0,1,Pounds,Ghana,Smyrna
+452,6411,1938,0,1,Pounds,Ghana,Smyrna
+452,6411,1939,0,1,Pounds,Ghana,Smyrna
+452,6411,1944,0,1,Pounds,Ghana,Smyrna
+452,6411,1946,0,1,Pounds,Ghana,Smyrna
+452,6411,1947,0,1,Pounds,Ghana,Smyrna
+452,8501,1928,0,1,Pounds,Ghana,Java
+452,8501,1935,242,1,Pounds,Ghana,Java
+452,8501,1936,223,1,Pounds,Ghana,Java
+452,8501,1938,0,1,Pounds,Ghana,Java
+452,8501,1939,0,1,Pounds,Ghana,Java
+452,8501,1944,0,1,Pounds,Ghana,Java
+452,8501,1946,0,1,Pounds,Ghana,Java
+452,8501,1947,0,1,Pounds,Ghana,Java
+452,,1928,12296126,1,Pounds,Ghana,
+452,,1935,8233884,1,Pounds,Ghana,
+452,,1936,11953186,1,Pounds,Ghana,
+452,,1938,10835623,1,Pounds,Ghana,
+452,,1939,10959520,1,Pounds,Ghana,
+452,,1944,10225101,1,Pounds,Ghana,
+452,,1946,17971796,1,Pounds,Ghana,
+452,,1947,26896367,1,Pounds,Ghana,

@@ -1,0 +1,2321 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+150,2,1921,849453,1,Valor De Tarifa,Paraguay,United States
+150,2,1922,902262,1,Valor De Tarifa,Paraguay,United States
+150,2,1923,1035604,1,Valor De Tarifa,Paraguay,United States
+150,2,1924,1306164,1,,Paraguay,United States
+150,2,1925,2601,1000,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1926,1938409,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1927,2223906,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1928,2291358,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1929,2592827,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1930,2410294,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1931,1628069,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1932,823343,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1933,377366,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1934,396478,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1935,888601,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1936,558299,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1937,942623,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1938,1252002,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1939,1261623,1,Valor Real En Oro Sellado,Paraguay,United States
+150,2,1940,3176959,1,Oro Sellado,Paraguay,United States
+150,2,1941,2385222,1,Oro Sellado,Paraguay,United States
+150,2,1942,3342083,1,Oro Sellado,Paraguay,United States
+150,2,1943,6444731.6,1,Guaranies,Paraguay,United States
+150,2,1944,6041258.93,1,Guaranies,Paraguay,United States
+150,2,1945,7285042.54,1,Guaranies,Paraguay,United States
+150,2,1946,13795889.87,1,Guaranies,Paraguay,United States
+150,2,1947,19889738.3,1,Guaranies,Paraguay,United States
+150,2,1948,23615,1000,Miles De Guaranies,Paraguay,United States
+150,2,1949,26174,1000,Miles De Guaranies,Paraguay,United States
+150,20,1921,0,1,Valor De Tarifa,Paraguay,Canada
+150,20,1922,0,1,Valor De Tarifa,Paraguay,Canada
+150,20,1923,0,1,Valor De Tarifa,Paraguay,Canada
+150,20,1924,3498,1,,Paraguay,Canada
+150,20,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1926,64479,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1927,91925,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1928,129147,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1929,0,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1930,110482,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1931,67341,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1932,9825,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1933,2142,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1934,4517,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1935,14124,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1936,7563,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1937,12469,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1938,5511,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1939,16865,1,Valor Real En Oro Sellado,Paraguay,Canada
+150,20,1940,35232,1,Oro Sellado,Paraguay,Canada
+150,20,1941,28903,1,Oro Sellado,Paraguay,Canada
+150,20,1942,26731,1,Oro Sellado,Paraguay,Canada
+150,20,1943,7498.94,1,Guaranies,Paraguay,Canada
+150,20,1944,90069.87,1,Guaranies,Paraguay,Canada
+150,20,1945,95205.00999999999,1,Guaranies,Paraguay,Canada
+150,20,1946,105678.29,1,Guaranies,Paraguay,Canada
+150,20,1947,124332.63,1,Guaranies,Paraguay,Canada
+150,20,1948,442,1000,Miles De Guaranies,Paraguay,Canada
+150,20,1949,332,1000,Miles De Guaranies,Paraguay,Canada
+150,30,1921,0,1,Valor De Tarifa,Paraguay,Bermuda
+150,30,1922,0,1,Valor De Tarifa,Paraguay,Bermuda
+150,30,1923,0,1,Valor De Tarifa,Paraguay,Bermuda
+150,30,1924,0,1,,Paraguay,Bermuda
+150,30,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1926,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1927,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1928,195,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1929,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1930,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1931,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1932,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1933,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1934,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1935,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1936,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1937,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1938,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1939,0,1,Valor Real En Oro Sellado,Paraguay,Bermuda
+150,30,1940,0,1,Oro Sellado,Paraguay,Bermuda
+150,30,1941,0,1,Oro Sellado,Paraguay,Bermuda
+150,30,1942,0,1,Oro Sellado,Paraguay,Bermuda
+150,30,1943,0,1,Guaranies,Paraguay,Bermuda
+150,30,1944,0,1,Guaranies,Paraguay,Bermuda
+150,30,1945,0,1,Guaranies,Paraguay,Bermuda
+150,30,1946,0,1,Guaranies,Paraguay,Bermuda
+150,30,1947,0,1,Guaranies,Paraguay,Bermuda
+150,30,1948,0,1000,Miles De Guaranies,Paraguay,Bermuda
+150,30,1949,0,1000,Miles De Guaranies,Paraguay,Bermuda
+150,40,1921,4848,1,Valor De Tarifa,Paraguay,Cuba
+150,40,1922,2143,1,Valor De Tarifa,Paraguay,Cuba
+150,40,1923,0,1,Valor De Tarifa,Paraguay,Cuba
+150,40,1924,8701,1,,Paraguay,Cuba
+150,40,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1926,8217,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1927,9678,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1928,12576,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1929,9876,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1930,8905,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1931,3001,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1932,6544,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1933,2078,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1934,748,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1935,3828,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1936,2008,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1937,920,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1938,1079,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1939,2264,1,Valor Real En Oro Sellado,Paraguay,Cuba
+150,40,1940,532,1,Oro Sellado,Paraguay,Cuba
+150,40,1941,909,1,Oro Sellado,Paraguay,Cuba
+150,40,1942,324,1,Oro Sellado,Paraguay,Cuba
+150,40,1943,2.62,1,Guaranies,Paraguay,Cuba
+150,40,1944,186.43,1,Guaranies,Paraguay,Cuba
+150,40,1945,12431.38,1,Guaranies,Paraguay,Cuba
+150,40,1946,395,1,Guaranies,Paraguay,Cuba
+150,40,1947,4316.2,1,Guaranies,Paraguay,Cuba
+150,40,1948,0,1000,Miles De Guaranies,Paraguay,Cuba
+150,40,1949,0,1000,Miles De Guaranies,Paraguay,Cuba
+150,41,1921,0,1,Valor De Tarifa,Paraguay,Haiti
+150,41,1922,0,1,Valor De Tarifa,Paraguay,Haiti
+150,41,1923,0,1,Valor De Tarifa,Paraguay,Haiti
+150,41,1924,0,1,,Paraguay,Haiti
+150,41,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1926,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1927,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1928,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1929,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1930,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1931,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1932,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1933,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1934,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1935,968,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1936,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1937,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1938,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1939,0,1,Valor Real En Oro Sellado,Paraguay,Haiti
+150,41,1940,0,1,Oro Sellado,Paraguay,Haiti
+150,41,1941,0,1,Oro Sellado,Paraguay,Haiti
+150,41,1942,0,1,Oro Sellado,Paraguay,Haiti
+150,41,1943,0,1,Guaranies,Paraguay,Haiti
+150,41,1944,0,1,Guaranies,Paraguay,Haiti
+150,41,1945,0,1,Guaranies,Paraguay,Haiti
+150,41,1946,0,1,Guaranies,Paraguay,Haiti
+150,41,1947,0,1,Guaranies,Paraguay,Haiti
+150,41,1948,0,1000,Miles De Guaranies,Paraguay,Haiti
+150,41,1949,0,1000,Miles De Guaranies,Paraguay,Haiti
+150,42,1921,0,1,Valor De Tarifa,Paraguay,Dominican Republic
+150,42,1922,0,1,Valor De Tarifa,Paraguay,Dominican Republic
+150,42,1923,0,1,Valor De Tarifa,Paraguay,Dominican Republic
+150,42,1924,0,1,,Paraguay,Dominican Republic
+150,42,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1926,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1927,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1928,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1929,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1930,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1931,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1932,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1933,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1934,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1935,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1936,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1937,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1938,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1939,0,1,Valor Real En Oro Sellado,Paraguay,Dominican Republic
+150,42,1940,0,1,Oro Sellado,Paraguay,Dominican Republic
+150,42,1941,0,1,Oro Sellado,Paraguay,Dominican Republic
+150,42,1942,0,1,Oro Sellado,Paraguay,Dominican Republic
+150,42,1943,0,1,Guaranies,Paraguay,Dominican Republic
+150,42,1944,6.5,1,Guaranies,Paraguay,Dominican Republic
+150,42,1945,0,1,Guaranies,Paraguay,Dominican Republic
+150,42,1946,0,1,Guaranies,Paraguay,Dominican Republic
+150,42,1947,0,1,Guaranies,Paraguay,Dominican Republic
+150,42,1948,0,1000,Miles De Guaranies,Paraguay,Dominican Republic
+150,42,1949,0,1000,Miles De Guaranies,Paraguay,Dominican Republic
+150,51,1921,0,1,Valor De Tarifa,Paraguay,Jamaica
+150,51,1922,0,1,Valor De Tarifa,Paraguay,Jamaica
+150,51,1923,0,1,Valor De Tarifa,Paraguay,Jamaica
+150,51,1924,0,1,,Paraguay,Jamaica
+150,51,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1926,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1927,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1928,339,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1929,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1930,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1931,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1932,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1933,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1934,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1935,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1936,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1937,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1938,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1939,0,1,Valor Real En Oro Sellado,Paraguay,Jamaica
+150,51,1940,0,1,Oro Sellado,Paraguay,Jamaica
+150,51,1941,0,1,Oro Sellado,Paraguay,Jamaica
+150,51,1942,0,1,Oro Sellado,Paraguay,Jamaica
+150,51,1943,0,1,Guaranies,Paraguay,Jamaica
+150,51,1944,0,1,Guaranies,Paraguay,Jamaica
+150,51,1945,0,1,Guaranies,Paraguay,Jamaica
+150,51,1946,35.07,1,Guaranies,Paraguay,Jamaica
+150,51,1947,287.37,1,Guaranies,Paraguay,Jamaica
+150,51,1948,0,1000,Miles De Guaranies,Paraguay,Jamaica
+150,51,1949,0,1000,Miles De Guaranies,Paraguay,Jamaica
+150,68,1921,0,1,Valor De Tarifa,Paraguay,Netherlands Antilles
+150,68,1922,0,1,Valor De Tarifa,Paraguay,Netherlands Antilles
+150,68,1923,0,1,Valor De Tarifa,Paraguay,Netherlands Antilles
+150,68,1924,0,1,,Paraguay,Netherlands Antilles
+150,68,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1926,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1927,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1928,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1929,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1930,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1931,22968,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1932,25257,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1933,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1934,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1935,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1936,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1937,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1938,1775,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1939,0,1,Valor Real En Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1940,0,1,Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1941,0,1,Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1942,12578,1,Oro Sellado,Paraguay,Netherlands Antilles
+150,68,1943,116678.71,1,Guaranies,Paraguay,Netherlands Antilles
+150,68,1944,32946.69,1,Guaranies,Paraguay,Netherlands Antilles
+150,68,1945,42713.61,1,Guaranies,Paraguay,Netherlands Antilles
+150,68,1946,11213.43,1,Guaranies,Paraguay,Netherlands Antilles
+150,68,1947,33752.71,1,Guaranies,Paraguay,Netherlands Antilles
+150,68,1948,165,1000,Miles De Guaranies,Paraguay,Netherlands Antilles
+150,68,1949,865,1000,Miles De Guaranies,Paraguay,Netherlands Antilles
+150,70,1921,0,1,Valor De Tarifa,Paraguay,Mexico
+150,70,1922,0,1,Valor De Tarifa,Paraguay,Mexico
+150,70,1923,0,1,Valor De Tarifa,Paraguay,Mexico
+150,70,1924,13490,1,,Paraguay,Mexico
+150,70,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1926,9791,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1927,146,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1928,11,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1929,0,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1930,63265,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1931,68314,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1932,41224,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1933,7300,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1934,0,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1935,7275,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1936,12722,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1937,15493,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1938,4932,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1939,4490,1,Valor Real En Oro Sellado,Paraguay,Mexico
+150,70,1940,36130,1,Oro Sellado,Paraguay,Mexico
+150,70,1941,30377,1,Oro Sellado,Paraguay,Mexico
+150,70,1942,53268,1,Oro Sellado,Paraguay,Mexico
+150,70,1943,7841.96,1,Guaranies,Paraguay,Mexico
+150,70,1944,166826.6,1,Guaranies,Paraguay,Mexico
+150,70,1945,100280.99,1,Guaranies,Paraguay,Mexico
+150,70,1946,477138.58,1,Guaranies,Paraguay,Mexico
+150,70,1947,802521.96,1,Guaranies,Paraguay,Mexico
+150,70,1948,395,1000,Miles De Guaranies,Paraguay,Mexico
+150,70,1949,252,1000,Miles De Guaranies,Paraguay,Mexico
+150,90,1921,0,1,Valor De Tarifa,Paraguay,Guatemala
+150,90,1922,0,1,Valor De Tarifa,Paraguay,Guatemala
+150,90,1923,0,1,Valor De Tarifa,Paraguay,Guatemala
+150,90,1924,0,1,,Paraguay,Guatemala
+150,90,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1926,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1927,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1928,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1929,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1930,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1931,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1932,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1933,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1934,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1935,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1936,5239,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1937,66250,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1938,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1939,0,1,Valor Real En Oro Sellado,Paraguay,Guatemala
+150,90,1940,31,1,Oro Sellado,Paraguay,Guatemala
+150,90,1941,0,1,Oro Sellado,Paraguay,Guatemala
+150,90,1942,59,1,Oro Sellado,Paraguay,Guatemala
+150,90,1943,0,1,Guaranies,Paraguay,Guatemala
+150,90,1944,0,1,Guaranies,Paraguay,Guatemala
+150,90,1945,0,1,Guaranies,Paraguay,Guatemala
+150,90,1946,0,1,Guaranies,Paraguay,Guatemala
+150,90,1947,239.85,1,Guaranies,Paraguay,Guatemala
+150,90,1948,0,1000,Miles De Guaranies,Paraguay,Guatemala
+150,90,1949,0,1000,Miles De Guaranies,Paraguay,Guatemala
+150,91,1921,0,1,Valor De Tarifa,Paraguay,Honduras
+150,91,1922,0,1,Valor De Tarifa,Paraguay,Honduras
+150,91,1923,0,1,Valor De Tarifa,Paraguay,Honduras
+150,91,1924,0,1,,Paraguay,Honduras
+150,91,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1926,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1927,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1928,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1929,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1930,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1931,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1932,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1933,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1934,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1935,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1936,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1937,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1938,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1939,0,1,Valor Real En Oro Sellado,Paraguay,Honduras
+150,91,1940,0,1,Oro Sellado,Paraguay,Honduras
+150,91,1941,0,1,Oro Sellado,Paraguay,Honduras
+150,91,1942,0,1,Oro Sellado,Paraguay,Honduras
+150,91,1943,0,1,Guaranies,Paraguay,Honduras
+150,91,1944,0,1,Guaranies,Paraguay,Honduras
+150,91,1945,0,1,Guaranies,Paraguay,Honduras
+150,91,1946,0,1,Guaranies,Paraguay,Honduras
+150,91,1947,22,1,Guaranies,Paraguay,Honduras
+150,91,1948,0,1000,Miles De Guaranies,Paraguay,Honduras
+150,91,1949,0,1000,Miles De Guaranies,Paraguay,Honduras
+150,92,1921,0,1,Valor De Tarifa,Paraguay,El Salvador
+150,92,1922,0,1,Valor De Tarifa,Paraguay,El Salvador
+150,92,1923,0,1,Valor De Tarifa,Paraguay,El Salvador
+150,92,1924,0,1,,Paraguay,El Salvador
+150,92,1925,0,1000,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1926,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1927,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1928,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1929,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1930,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1931,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1932,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1933,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1934,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1935,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1936,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1937,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1938,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1939,0,1,Valor Real En Oro Sellado,Paraguay,El Salvador
+150,92,1940,0,1,Oro Sellado,Paraguay,El Salvador
+150,92,1941,0,1,Oro Sellado,Paraguay,El Salvador
+150,92,1942,0,1,Oro Sellado,Paraguay,El Salvador
+150,92,1943,0,1,Guaranies,Paraguay,El Salvador
+150,92,1944,50,1,Guaranies,Paraguay,El Salvador
+150,92,1945,0,1,Guaranies,Paraguay,El Salvador
+150,92,1946,0,1,Guaranies,Paraguay,El Salvador
+150,92,1947,0,1,Guaranies,Paraguay,El Salvador
+150,92,1948,0,1000,Miles De Guaranies,Paraguay,El Salvador
+150,92,1949,0,1000,Miles De Guaranies,Paraguay,El Salvador
+150,93,1921,0,1,Valor De Tarifa,Paraguay,Nicaragua
+150,93,1922,0,1,Valor De Tarifa,Paraguay,Nicaragua
+150,93,1923,0,1,Valor De Tarifa,Paraguay,Nicaragua
+150,93,1924,0,1,,Paraguay,Nicaragua
+150,93,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1926,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1927,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1928,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1929,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1930,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1931,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1932,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1933,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1934,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1935,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1936,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1937,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1938,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1939,0,1,Valor Real En Oro Sellado,Paraguay,Nicaragua
+150,93,1940,0,1,Oro Sellado,Paraguay,Nicaragua
+150,93,1941,1,1,Oro Sellado,Paraguay,Nicaragua
+150,93,1942,0,1,Oro Sellado,Paraguay,Nicaragua
+150,93,1943,0,1,Guaranies,Paraguay,Nicaragua
+150,93,1944,0,1,Guaranies,Paraguay,Nicaragua
+150,93,1945,0,1,Guaranies,Paraguay,Nicaragua
+150,93,1946,0,1,Guaranies,Paraguay,Nicaragua
+150,93,1947,0,1,Guaranies,Paraguay,Nicaragua
+150,93,1948,0,1000,Miles De Guaranies,Paraguay,Nicaragua
+150,93,1949,0,1000,Miles De Guaranies,Paraguay,Nicaragua
+150,94,1921,0,1,Valor De Tarifa,Paraguay,Costa Rica
+150,94,1922,0,1,Valor De Tarifa,Paraguay,Costa Rica
+150,94,1923,0,1,Valor De Tarifa,Paraguay,Costa Rica
+150,94,1924,0,1,,Paraguay,Costa Rica
+150,94,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1926,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1927,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1928,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1929,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1930,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1931,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1932,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1933,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1934,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1935,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1936,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1937,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1938,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1939,0,1,Valor Real En Oro Sellado,Paraguay,Costa Rica
+150,94,1940,0,1,Oro Sellado,Paraguay,Costa Rica
+150,94,1941,0,1,Oro Sellado,Paraguay,Costa Rica
+150,94,1942,2,1,Oro Sellado,Paraguay,Costa Rica
+150,94,1943,0,1,Guaranies,Paraguay,Costa Rica
+150,94,1944,0,1,Guaranies,Paraguay,Costa Rica
+150,94,1945,63.7,1,Guaranies,Paraguay,Costa Rica
+150,94,1946,803.4,1,Guaranies,Paraguay,Costa Rica
+150,94,1947,0,1,Guaranies,Paraguay,Costa Rica
+150,94,1948,0,1000,Miles De Guaranies,Paraguay,Costa Rica
+150,94,1949,0,1000,Miles De Guaranies,Paraguay,Costa Rica
+150,95,1921,0,1,Valor De Tarifa,Paraguay,Panama
+150,95,1922,0,1,Valor De Tarifa,Paraguay,Panama
+150,95,1923,0,1,Valor De Tarifa,Paraguay,Panama
+150,95,1924,0,1,,Paraguay,Panama
+150,95,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1926,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1927,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1928,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1929,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1930,422,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1931,191,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1932,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1933,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1934,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1935,70,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1936,84,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1937,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1938,0,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1939,17,1,Valor Real En Oro Sellado,Paraguay,Panama
+150,95,1940,0,1,Oro Sellado,Paraguay,Panama
+150,95,1941,36,1,Oro Sellado,Paraguay,Panama
+150,95,1942,14,1,Oro Sellado,Paraguay,Panama
+150,95,1943,101.55,1,Guaranies,Paraguay,Panama
+150,95,1944,24,1,Guaranies,Paraguay,Panama
+150,95,1945,0,1,Guaranies,Paraguay,Panama
+150,95,1946,264.5,1,Guaranies,Paraguay,Panama
+150,95,1947,1,1,Guaranies,Paraguay,Panama
+150,95,1948,0,1000,Miles De Guaranies,Paraguay,Panama
+150,95,1949,0,1000,Miles De Guaranies,Paraguay,Panama
+150,100,1921,0,1,Valor De Tarifa,Paraguay,Colombia
+150,100,1922,0,1,Valor De Tarifa,Paraguay,Colombia
+150,100,1923,0,1,Valor De Tarifa,Paraguay,Colombia
+150,100,1924,0,1,,Paraguay,Colombia
+150,100,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1926,0,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1927,0,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1928,31,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1929,0,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1930,5,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1931,5,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1932,6,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1933,0,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1934,90794,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1935,53,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1936,1522,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1937,3084,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1938,13,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1939,2,1,Valor Real En Oro Sellado,Paraguay,Colombia
+150,100,1940,70,1,Oro Sellado,Paraguay,Colombia
+150,100,1941,602,1,Oro Sellado,Paraguay,Colombia
+150,100,1942,0,1,Oro Sellado,Paraguay,Colombia
+150,100,1943,1.17,1,Guaranies,Paraguay,Colombia
+150,100,1944,0,1,Guaranies,Paraguay,Colombia
+150,100,1945,2,1,Guaranies,Paraguay,Colombia
+150,100,1946,9222.389999999999,1,Guaranies,Paraguay,Colombia
+150,100,1947,5.5,1,Guaranies,Paraguay,Colombia
+150,100,1948,0,1000,Miles De Guaranies,Paraguay,Colombia
+150,100,1949,0,1000,Miles De Guaranies,Paraguay,Colombia
+150,101,1921,0,1,Valor De Tarifa,Paraguay,Venezuela
+150,101,1922,0,1,Valor De Tarifa,Paraguay,Venezuela
+150,101,1923,0,1,Valor De Tarifa,Paraguay,Venezuela
+150,101,1924,21,1,,Paraguay,Venezuela
+150,101,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1926,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1927,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1928,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1929,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1930,3,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1931,2,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1932,2,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1933,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1934,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1935,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1936,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1937,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1938,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1939,0,1,Valor Real En Oro Sellado,Paraguay,Venezuela
+150,101,1940,0,1,Oro Sellado,Paraguay,Venezuela
+150,101,1941,8360,1,Oro Sellado,Paraguay,Venezuela
+150,101,1942,5,1,Oro Sellado,Paraguay,Venezuela
+150,101,1943,77916.42,1,Guaranies,Paraguay,Venezuela
+150,101,1944,55861.41,1,Guaranies,Paraguay,Venezuela
+150,101,1945,98381.78,1,Guaranies,Paraguay,Venezuela
+150,101,1946,92009.37,1,Guaranies,Paraguay,Venezuela
+150,101,1947,33060.89,1,Guaranies,Paraguay,Venezuela
+150,101,1948,0,1000,Miles De Guaranies,Paraguay,Venezuela
+150,101,1949,0,1000,Miles De Guaranies,Paraguay,Venezuela
+150,130,1921,0,1,Valor De Tarifa,Paraguay,Ecuador
+150,130,1922,0,1,Valor De Tarifa,Paraguay,Ecuador
+150,130,1923,0,1,Valor De Tarifa,Paraguay,Ecuador
+150,130,1924,0,1,,Paraguay,Ecuador
+150,130,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1926,297,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1927,362,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1928,971,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1929,0,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1930,2258,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1931,0,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1932,266,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1933,65,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1934,741,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1935,8848,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1936,13993,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1937,28900,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1938,23800,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1939,15345,1,Valor Real En Oro Sellado,Paraguay,Ecuador
+150,130,1940,17749,1,Oro Sellado,Paraguay,Ecuador
+150,130,1941,16731,1,Oro Sellado,Paraguay,Ecuador
+150,130,1942,46320,1,Oro Sellado,Paraguay,Ecuador
+150,130,1943,46323.46,1,Guaranies,Paraguay,Ecuador
+150,130,1944,54695.7,1,Guaranies,Paraguay,Ecuador
+150,130,1945,65925.34,1,Guaranies,Paraguay,Ecuador
+150,130,1946,59209.26,1,Guaranies,Paraguay,Ecuador
+150,130,1947,23794.53,1,Guaranies,Paraguay,Ecuador
+150,130,1948,0,1000,Miles De Guaranies,Paraguay,Ecuador
+150,130,1949,0,1000,Miles De Guaranies,Paraguay,Ecuador
+150,135,1921,0,1,Valor De Tarifa,Paraguay,Peru
+150,135,1922,0,1,Valor De Tarifa,Paraguay,Peru
+150,135,1923,0,1,Valor De Tarifa,Paraguay,Peru
+150,135,1924,0,1,,Paraguay,Peru
+150,135,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1926,0,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1927,30,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1928,0,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1929,0,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1930,523,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1931,901,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1932,6604,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1933,2,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1934,144415,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1935,198227,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1936,110276,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1937,106729,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1938,13595,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1939,81,1,Valor Real En Oro Sellado,Paraguay,Peru
+150,135,1940,4229,1,Oro Sellado,Paraguay,Peru
+150,135,1941,212202,1,Oro Sellado,Paraguay,Peru
+150,135,1942,48046,1,Oro Sellado,Paraguay,Peru
+150,135,1943,58688.59,1,Guaranies,Paraguay,Peru
+150,135,1944,1260905.5,1,Guaranies,Paraguay,Peru
+150,135,1945,1209788.5,1,Guaranies,Paraguay,Peru
+150,135,1946,106199.61,1,Guaranies,Paraguay,Peru
+150,135,1947,2738.31,1,Guaranies,Paraguay,Peru
+150,135,1948,0,1000,Miles De Guaranies,Paraguay,Peru
+150,135,1949,0,1000,Miles De Guaranies,Paraguay,Peru
+150,140,1921,86197,1,Valor De Tarifa,Paraguay,Brazil
+150,140,1922,176317,1,Valor De Tarifa,Paraguay,Brazil
+150,140,1923,535650,1,Valor De Tarifa,Paraguay,Brazil
+150,140,1924,228381,1,,Paraguay,Brazil
+150,140,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1926,100737,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1927,184589,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1928,106635,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1929,147554,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1930,166149,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1931,78184,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1932,72507,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1933,65221,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1934,211914,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1935,221858,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1936,125904,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1937,157451,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1938,137159,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1939,397848,1,Valor Real En Oro Sellado,Paraguay,Brazil
+150,140,1940,460663,1,Oro Sellado,Paraguay,Brazil
+150,140,1941,540411,1,Oro Sellado,Paraguay,Brazil
+150,140,1942,4228187,1,Oro Sellado,Paraguay,Brazil
+150,140,1943,7904701.31,1,Guaranies,Paraguay,Brazil
+150,140,1944,10071277.9,1,Guaranies,Paraguay,Brazil
+150,140,1945,12152066.61,1,Guaranies,Paraguay,Brazil
+150,140,1946,9714666.23,1,Guaranies,Paraguay,Brazil
+150,140,1947,10134396.38,1,Guaranies,Paraguay,Brazil
+150,140,1948,4477,1000,Miles De Guaranies,Paraguay,Brazil
+150,140,1949,4627,1000,Miles De Guaranies,Paraguay,Brazil
+150,145,1921,0,1,Valor De Tarifa,Paraguay,Bolivia
+150,145,1922,0,1,Valor De Tarifa,Paraguay,Bolivia
+150,145,1923,0,1,Valor De Tarifa,Paraguay,Bolivia
+150,145,1924,0,1,,Paraguay,Bolivia
+150,145,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1926,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1927,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1928,83,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1929,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1930,16,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1931,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1932,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1933,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1934,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1935,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1936,2,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1937,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1938,0,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1939,1,1,Valor Real En Oro Sellado,Paraguay,Bolivia
+150,145,1940,0,1,Oro Sellado,Paraguay,Bolivia
+150,145,1941,10317,1,Oro Sellado,Paraguay,Bolivia
+150,145,1942,3283,1,Oro Sellado,Paraguay,Bolivia
+150,145,1943,89.25,1,Guaranies,Paraguay,Bolivia
+150,145,1944,34937.29,1,Guaranies,Paraguay,Bolivia
+150,145,1945,25163.18,1,Guaranies,Paraguay,Bolivia
+150,145,1946,43239.03,1,Guaranies,Paraguay,Bolivia
+150,145,1947,173.04,1,Guaranies,Paraguay,Bolivia
+150,145,1948,0,1000,Miles De Guaranies,Paraguay,Bolivia
+150,145,1949,0,1000,Miles De Guaranies,Paraguay,Bolivia
+150,150,1921,0,1,Valor De Tarifa,Paraguay,Paraguay
+150,150,1922,0,1,Valor De Tarifa,Paraguay,Paraguay
+150,150,1923,0,1,Valor De Tarifa,Paraguay,Paraguay
+150,150,1924,0,1,,Paraguay,Paraguay
+150,150,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1926,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1927,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1928,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1929,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1930,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1931,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1932,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1933,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1934,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1935,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1936,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1937,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1938,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1939,0,1,Valor Real En Oro Sellado,Paraguay,Paraguay
+150,150,1940,61886,1,Oro Sellado,Paraguay,Paraguay
+150,150,1941,23376,1,Oro Sellado,Paraguay,Paraguay
+150,150,1942,4556,1,Oro Sellado,Paraguay,Paraguay
+150,150,1943,0,1,Guaranies,Paraguay,Paraguay
+150,150,1944,0,1,Guaranies,Paraguay,Paraguay
+150,150,1945,0,1,Guaranies,Paraguay,Paraguay
+150,150,1946,0,1,Guaranies,Paraguay,Paraguay
+150,150,1947,0,1,Guaranies,Paraguay,Paraguay
+150,150,1948,0,1000,Miles De Guaranies,Paraguay,Paraguay
+150,150,1949,0,1000,Miles De Guaranies,Paraguay,Paraguay
+150,155,1921,2429,1,Valor De Tarifa,Paraguay,Chile
+150,155,1922,2921,1,Valor De Tarifa,Paraguay,Chile
+150,155,1923,929,1,Valor De Tarifa,Paraguay,Chile
+150,155,1924,3610,1,,Paraguay,Chile
+150,155,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1926,396,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1927,10694,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1928,26161,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1929,35246,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1930,23687,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1931,6118,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1932,3671,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1933,1199,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1934,4751,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1935,11349,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1936,13271,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1937,11052,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1938,8339,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1939,21309,1,Valor Real En Oro Sellado,Paraguay,Chile
+150,155,1940,42215,1,Oro Sellado,Paraguay,Chile
+150,155,1941,31596,1,Oro Sellado,Paraguay,Chile
+150,155,1942,35185,1,Oro Sellado,Paraguay,Chile
+150,155,1943,46047.98,1,Guaranies,Paraguay,Chile
+150,155,1944,103953.83,1,Guaranies,Paraguay,Chile
+150,155,1945,195755.95,1,Guaranies,Paraguay,Chile
+150,155,1946,64762.98,1,Guaranies,Paraguay,Chile
+150,155,1947,25080.1,1,Guaranies,Paraguay,Chile
+150,155,1948,0,1000,Miles De Guaranies,Paraguay,Chile
+150,155,1949,0,1000,Miles De Guaranies,Paraguay,Chile
+150,160,1921,1932649,1,Valor De Tarifa,Paraguay,Argentina
+150,160,1922,1484847,1,Valor De Tarifa,Paraguay,Argentina
+150,160,1923,2267659,1,Valor De Tarifa,Paraguay,Argentina
+150,160,1924,3471210,1,,Paraguay,Argentina
+150,160,1925,6115,1000,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1926,4099461,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1927,4009115,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1928,5514989,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1929,4851736,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1930,4360267,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1931,2956693,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1932,2487291,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1933,4391095,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1934,6695625,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1935,5867848,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1936,4082160,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1937,4925731,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1938,4999882,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1939,4744929,1,Valor Real En Oro Sellado,Paraguay,Argentina
+150,160,1940,6716012,1,Oro Sellado,Paraguay,Argentina
+150,160,1941,6149759,1,Oro Sellado,Paraguay,Argentina
+150,160,1942,7690785,1,Oro Sellado,Paraguay,Argentina
+150,160,1943,17601642.71,1,Guaranies,Paraguay,Argentina
+150,160,1944,17831338.52,1,Guaranies,Paraguay,Argentina
+150,160,1945,27625584.58,1,Guaranies,Paraguay,Argentina
+150,160,1946,30895861.57,1,Guaranies,Paraguay,Argentina
+150,160,1947,23683900.63,1,Guaranies,Paraguay,Argentina
+150,160,1948,25835,1000,Miles De Guaranies,Paraguay,Argentina
+150,160,1949,19384,1000,Miles De Guaranies,Paraguay,Argentina
+150,165,1921,107557,1,Valor De Tarifa,Paraguay,Uruguay
+150,165,1922,91207,1,Valor De Tarifa,Paraguay,Uruguay
+150,165,1923,170099,1,Valor De Tarifa,Paraguay,Uruguay
+150,165,1924,187311,1,,Paraguay,Uruguay
+150,165,1925,425,1000,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1926,201899,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1927,77813,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1928,156032,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1929,175300,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1930,233271,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1931,67166,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1932,49840,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1933,47398,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1934,314446,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1935,79986,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1936,128329,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1937,159568,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1938,332505,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1939,788242,1,Valor Real En Oro Sellado,Paraguay,Uruguay
+150,165,1940,116087,1,Oro Sellado,Paraguay,Uruguay
+150,165,1941,192053,1,Oro Sellado,Paraguay,Uruguay
+150,165,1942,300560,1,Oro Sellado,Paraguay,Uruguay
+150,165,1943,1659918.8,1,Guaranies,Paraguay,Uruguay
+150,165,1944,1914902.88,1,Guaranies,Paraguay,Uruguay
+150,165,1945,2223615.82,1,Guaranies,Paraguay,Uruguay
+150,165,1946,2927564.71,1,Guaranies,Paraguay,Uruguay
+150,165,1947,1718133.92,1,Guaranies,Paraguay,Uruguay
+150,165,1948,1102,1000,Miles De Guaranies,Paraguay,Uruguay
+150,165,1949,1445,1000,Miles De Guaranies,Paraguay,Uruguay
+150,201,1921,1051893,1,Valor De Tarifa,Paraguay,England
+150,201,1922,975133,1,Valor De Tarifa,Paraguay,England
+150,201,1923,1506430,1,Valor De Tarifa,Paraguay,England
+150,201,1924,1802314,1,,Paraguay,England
+150,201,1925,3007,1000,Valor Real En Oro Sellado,Paraguay,England
+150,201,1926,1688521,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1927,1314461,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1928,1629480,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1929,1682931,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1930,2070149,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1931,1244163,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1932,766231,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1933,651345,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1934,1141964,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1935,905505,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1936,939727,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1937,1107145,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1938,1259692,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1939,887607,1,Valor Real En Oro Sellado,Paraguay,England
+150,201,1940,1275473,1,Oro Sellado,Paraguay,England
+150,201,1941,1039893,1,Oro Sellado,Paraguay,England
+150,201,1942,1049256,1,Oro Sellado,Paraguay,England
+150,201,1943,2630196.13,1,Guaranies,Paraguay,England
+150,201,1944,1061549.4,1,Guaranies,Paraguay,England
+150,201,1945,1342059.84,1,Guaranies,Paraguay,England
+150,201,1946,4765942.72,1,Guaranies,Paraguay,England
+150,201,1947,4114276.31,1,Guaranies,Paraguay,England
+150,201,1948,12802,1000,Miles De Guaranies,Paraguay,England
+150,201,1949,15826,1000,Miles De Guaranies,Paraguay,England
+150,204,1921,0,1,Valor De Tarifa,Paraguay,North Ireland
+150,204,1922,0,1,Valor De Tarifa,Paraguay,North Ireland
+150,204,1923,0,1,Valor De Tarifa,Paraguay,North Ireland
+150,204,1924,0,1,,Paraguay,North Ireland
+150,204,1925,0,1000,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1926,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1927,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1928,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1929,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1930,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1931,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1932,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1933,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1934,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1935,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1936,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1937,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1938,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1939,0,1,Valor Real En Oro Sellado,Paraguay,North Ireland
+150,204,1940,0,1,Oro Sellado,Paraguay,North Ireland
+150,204,1941,0,1,Oro Sellado,Paraguay,North Ireland
+150,204,1942,0,1,Oro Sellado,Paraguay,North Ireland
+150,204,1943,0,1,Guaranies,Paraguay,North Ireland
+150,204,1944,0,1,Guaranies,Paraguay,North Ireland
+150,204,1945,0,1,Guaranies,Paraguay,North Ireland
+150,204,1946,0,1,Guaranies,Paraguay,North Ireland
+150,204,1947,125389.7,1,Guaranies,Paraguay,North Ireland
+150,204,1948,0,1000,Miles De Guaranies,Paraguay,North Ireland
+150,204,1949,0,1000,Miles De Guaranies,Paraguay,North Ireland
+150,205,1921,0,1,Valor De Tarifa,Paraguay,Ireland
+150,205,1922,0,1,Valor De Tarifa,Paraguay,Ireland
+150,205,1923,0,1,Valor De Tarifa,Paraguay,Ireland
+150,205,1924,0,1,,Paraguay,Ireland
+150,205,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1926,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1927,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1928,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1929,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1930,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1931,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1932,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1933,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1934,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1935,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1936,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1937,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1938,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1939,0,1,Valor Real En Oro Sellado,Paraguay,Ireland
+150,205,1940,0,1,Oro Sellado,Paraguay,Ireland
+150,205,1941,0,1,Oro Sellado,Paraguay,Ireland
+150,205,1942,0,1,Oro Sellado,Paraguay,Ireland
+150,205,1943,0,1,Guaranies,Paraguay,Ireland
+150,205,1944,0,1,Guaranies,Paraguay,Ireland
+150,205,1945,0,1,Guaranies,Paraguay,Ireland
+150,205,1946,10740.39,1,Guaranies,Paraguay,Ireland
+150,205,1947,0,1,Guaranies,Paraguay,Ireland
+150,205,1948,0,1000,Miles De Guaranies,Paraguay,Ireland
+150,205,1949,0,1000,Miles De Guaranies,Paraguay,Ireland
+150,210,1921,24662,1,Valor De Tarifa,Paraguay,Netherlands
+150,210,1922,9042,1,Valor De Tarifa,Paraguay,Netherlands
+150,210,1923,51973,1,Valor De Tarifa,Paraguay,Netherlands
+150,210,1924,123349,1,,Paraguay,Netherlands
+150,210,1925,102,1000,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1926,149607,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1927,113128,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1928,152717,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1929,111101,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1930,160468,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1931,124398,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1932,65922,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1933,44424,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1934,53944,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1935,39088,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1936,38576,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1937,80505,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1938,90053,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1939,43386,1,Valor Real En Oro Sellado,Paraguay,Netherlands
+150,210,1940,82941,1,Oro Sellado,Paraguay,Netherlands
+150,210,1941,0,1,Oro Sellado,Paraguay,Netherlands
+150,210,1942,299,1,Oro Sellado,Paraguay,Netherlands
+150,210,1943,0,1,Guaranies,Paraguay,Netherlands
+150,210,1944,0,1,Guaranies,Paraguay,Netherlands
+150,210,1945,0,1,Guaranies,Paraguay,Netherlands
+150,210,1946,70013.63,1,Guaranies,Paraguay,Netherlands
+150,210,1947,171033.13,1,Guaranies,Paraguay,Netherlands
+150,210,1948,315,1000,Miles De Guaranies,Paraguay,Netherlands
+150,210,1949,723,1000,Miles De Guaranies,Paraguay,Netherlands
+150,211,1921,27688,1,Valor De Tarifa,Paraguay,Belgium
+150,211,1922,34071,1,Valor De Tarifa,Paraguay,Belgium
+150,211,1923,47771,1,Valor De Tarifa,Paraguay,Belgium
+150,211,1924,199191,1,,Paraguay,Belgium
+150,211,1925,502,1000,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1926,271889,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1927,247949,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1928,336225,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1929,334213,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1930,848672,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1931,449379,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1932,169162,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1933,112661,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1934,125195,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1935,141636,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1936,231819,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1937,288768,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1938,296628,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1939,325546,1,Valor Real En Oro Sellado,Paraguay,Belgium
+150,211,1940,135861,1,Oro Sellado,Paraguay,Belgium
+150,211,1941,392,1,Oro Sellado,Paraguay,Belgium
+150,211,1942,5485,1,Oro Sellado,Paraguay,Belgium
+150,211,1943,0,1,Guaranies,Paraguay,Belgium
+150,211,1944,0,1,Guaranies,Paraguay,Belgium
+150,211,1945,0,1,Guaranies,Paraguay,Belgium
+150,211,1946,229293.65,1,Guaranies,Paraguay,Belgium
+150,211,1947,1425471.12,1,Guaranies,Paraguay,Belgium
+150,211,1948,2115,1000,Miles De Guaranies,Paraguay,Belgium
+150,211,1949,2396,1000,Miles De Guaranies,Paraguay,Belgium
+150,212,1921,0,1,Valor De Tarifa,Paraguay,Luxembourg
+150,212,1922,0,1,Valor De Tarifa,Paraguay,Luxembourg
+150,212,1923,0,1,Valor De Tarifa,Paraguay,Luxembourg
+150,212,1924,0,1,,Paraguay,Luxembourg
+150,212,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1926,1105,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1927,1925,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1928,559,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1929,0,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1930,4271,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1931,2453,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1932,1689,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1933,0,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1934,5002,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1935,4236,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1936,12306,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1937,4805,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1938,18347,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1939,7315,1,Valor Real En Oro Sellado,Paraguay,Luxembourg
+150,212,1940,0,1,Oro Sellado,Paraguay,Luxembourg
+150,212,1941,0,1,Oro Sellado,Paraguay,Luxembourg
+150,212,1942,0,1,Oro Sellado,Paraguay,Luxembourg
+150,212,1943,0,1,Guaranies,Paraguay,Luxembourg
+150,212,1944,0,1,Guaranies,Paraguay,Luxembourg
+150,212,1945,0,1,Guaranies,Paraguay,Luxembourg
+150,212,1946,0,1,Guaranies,Paraguay,Luxembourg
+150,212,1947,0,1,Guaranies,Paraguay,Luxembourg
+150,212,1948,0,1000,Miles De Guaranies,Paraguay,Luxembourg
+150,212,1949,0,1000,Miles De Guaranies,Paraguay,Luxembourg
+150,220,1921,163934,1,Valor De Tarifa,Paraguay,France
+150,220,1922,73313,1,Valor De Tarifa,Paraguay,France
+150,220,1923,122564,1,Valor De Tarifa,Paraguay,France
+150,220,1924,331764,1,,Paraguay,France
+150,220,1925,556,1000,Valor Real En Oro Sellado,Paraguay,France
+150,220,1926,499007,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1927,502967,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1928,465755,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1929,722642,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1930,862984,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1931,385264,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1932,214472,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1933,110115,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1934,161638,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1935,193855,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1936,135817,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1937,144087,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1938,205551,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1939,236419,1,Valor Real En Oro Sellado,Paraguay,France
+150,220,1940,131573,1,Oro Sellado,Paraguay,France
+150,220,1941,21922,1,Oro Sellado,Paraguay,France
+150,220,1942,957,1,Oro Sellado,Paraguay,France
+150,220,1943,1374.29,1,Guaranies,Paraguay,France
+150,220,1944,0,1,Guaranies,Paraguay,France
+150,220,1945,6,1,Guaranies,Paraguay,France
+150,220,1946,22875.85,1,Guaranies,Paraguay,France
+150,220,1947,493966.83,1,Guaranies,Paraguay,France
+150,220,1948,711,1000,Miles De Guaranies,Paraguay,France
+150,220,1949,510,1000,Miles De Guaranies,Paraguay,France
+150,225,1921,3801,1,Valor De Tarifa,Paraguay,Switzerland
+150,225,1922,3875,1,Valor De Tarifa,Paraguay,Switzerland
+150,225,1923,12597,1,Valor De Tarifa,Paraguay,Switzerland
+150,225,1924,27797,1,,Paraguay,Switzerland
+150,225,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1926,65644,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1927,35770,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1928,50661,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1929,68214,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1930,70146,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1931,67909,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1932,29826,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1933,13459,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1934,12497,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1935,41968,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1936,61356,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1937,56428,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1938,149461,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1939,90441,1,Valor Real En Oro Sellado,Paraguay,Switzerland
+150,225,1940,95624,1,Oro Sellado,Paraguay,Switzerland
+150,225,1941,73521,1,Oro Sellado,Paraguay,Switzerland
+150,225,1942,98808,1,Oro Sellado,Paraguay,Switzerland
+150,225,1943,144239.48,1,Guaranies,Paraguay,Switzerland
+150,225,1944,268075.37,1,Guaranies,Paraguay,Switzerland
+150,225,1945,458112.25,1,Guaranies,Paraguay,Switzerland
+150,225,1946,595605.8100000001,1,Guaranies,Paraguay,Switzerland
+150,225,1947,1561988.17,1,Guaranies,Paraguay,Switzerland
+150,225,1948,918,1000,Miles De Guaranies,Paraguay,Switzerland
+150,225,1949,1812,1000,Miles De Guaranies,Paraguay,Switzerland
+150,230,1921,205906,1,Valor De Tarifa,Paraguay,Spain
+150,230,1922,120882,1,Valor De Tarifa,Paraguay,Spain
+150,230,1923,120084,1,Valor De Tarifa,Paraguay,Spain
+150,230,1924,212267,1,,Paraguay,Spain
+150,230,1925,514,1000,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1926,540870,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1927,835271,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1928,607267,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1929,492590,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1930,653981,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1931,567165,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1932,363757,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1933,275297,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1934,270077,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1935,116835,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1936,74314,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1937,42014,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1938,14873,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1939,6045,1,Valor Real En Oro Sellado,Paraguay,Spain
+150,230,1940,11415,1,Oro Sellado,Paraguay,Spain
+150,230,1941,9501,1,Oro Sellado,Paraguay,Spain
+150,230,1942,13995,1,Oro Sellado,Paraguay,Spain
+150,230,1943,39827.95,1,Guaranies,Paraguay,Spain
+150,230,1944,22139.36,1,Guaranies,Paraguay,Spain
+150,230,1945,20040.95,1,Guaranies,Paraguay,Spain
+150,230,1946,107327.05,1,Guaranies,Paraguay,Spain
+150,230,1947,809174.6899999999,1,Guaranies,Paraguay,Spain
+150,230,1948,740,1000,Miles De Guaranies,Paraguay,Spain
+150,230,1949,265,1000,Miles De Guaranies,Paraguay,Spain
+150,235,1921,0,1,Valor De Tarifa,Paraguay,Portugal
+150,235,1922,0,1,Valor De Tarifa,Paraguay,Portugal
+150,235,1923,0,1,Valor De Tarifa,Paraguay,Portugal
+150,235,1924,3485,1,,Paraguay,Portugal
+150,235,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1926,1906,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1927,784,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1928,1117,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1929,995,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1930,939,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1931,2248,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1932,1324,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1933,420,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1934,1058,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1935,248,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1936,2822,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1937,11414,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1938,22532,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1939,21399,1,Valor Real En Oro Sellado,Paraguay,Portugal
+150,235,1940,24481,1,Oro Sellado,Paraguay,Portugal
+150,235,1941,7504,1,Oro Sellado,Paraguay,Portugal
+150,235,1942,4797,1,Oro Sellado,Paraguay,Portugal
+150,235,1943,12780.32,1,Guaranies,Paraguay,Portugal
+150,235,1944,42656.16,1,Guaranies,Paraguay,Portugal
+150,235,1945,97806.5,1,Guaranies,Paraguay,Portugal
+150,235,1946,33101.04,1,Guaranies,Paraguay,Portugal
+150,235,1947,54870.1,1,Guaranies,Paraguay,Portugal
+150,235,1948,0,1000,Miles De Guaranies,Paraguay,Portugal
+150,235,1949,0,1000,Miles De Guaranies,Paraguay,Portugal
+150,255,1921,330379,1,Valor De Tarifa,Paraguay,Germany
+150,255,1922,298916,1,Valor De Tarifa,Paraguay,Germany
+150,255,1923,379866,1,Valor De Tarifa,Paraguay,Germany
+150,255,1924,749100,1,,Paraguay,Germany
+150,255,1925,1870,1000,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1926,1273568,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1927,1146757,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1928,1446773,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1929,1307512,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1930,1359642,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1931,994225,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1932,512031,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1933,271042,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1934,466284,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1935,571202,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1936,1357924,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1937,1741759,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1938,1496251,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1939,1480416,1,Valor Real En Oro Sellado,Paraguay,Germany
+150,255,1940,159791,1,Oro Sellado,Paraguay,Germany
+150,255,1941,26648,1,Oro Sellado,Paraguay,Germany
+150,255,1942,1890,1,Oro Sellado,Paraguay,Germany
+150,255,1943,10341.48,1,Guaranies,Paraguay,Germany
+150,255,1944,132969.14,1,Guaranies,Paraguay,Germany
+150,255,1945,2189.92,1,Guaranies,Paraguay,Germany
+150,255,1946,19003,1,Guaranies,Paraguay,Germany
+150,255,1947,33845.59,1,Guaranies,Paraguay,Germany
+150,255,1948,166,1000,Miles De Guaranies,Paraguay,Germany
+150,255,1949,440,1000,Miles De Guaranies,Paraguay,Germany
+150,290,1921,0,1,Valor De Tarifa,Paraguay,Poland
+150,290,1922,0,1,Valor De Tarifa,Paraguay,Poland
+150,290,1923,0,1,Valor De Tarifa,Paraguay,Poland
+150,290,1924,1390,1,,Paraguay,Poland
+150,290,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1926,1540,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1927,2936,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1928,6142,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1929,0,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1930,8606,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1931,1404,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1932,176,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1933,432,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1934,2291,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1935,10859,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1936,8160,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1937,5698,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1938,1097,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1939,11995,1,Valor Real En Oro Sellado,Paraguay,Poland
+150,290,1940,0,1,Oro Sellado,Paraguay,Poland
+150,290,1941,0,1,Oro Sellado,Paraguay,Poland
+150,290,1942,0,1,Oro Sellado,Paraguay,Poland
+150,290,1943,0,1,Guaranies,Paraguay,Poland
+150,290,1944,0,1,Guaranies,Paraguay,Poland
+150,290,1945,0,1,Guaranies,Paraguay,Poland
+150,290,1946,0,1,Guaranies,Paraguay,Poland
+150,290,1947,0,1,Guaranies,Paraguay,Poland
+150,290,1948,0,1000,Miles De Guaranies,Paraguay,Poland
+150,290,1949,0,1000,Miles De Guaranies,Paraguay,Poland
+150,305,1921,0,1,Valor De Tarifa,Paraguay,Austria
+150,305,1922,0,1,Valor De Tarifa,Paraguay,Austria
+150,305,1923,0,1,Valor De Tarifa,Paraguay,Austria
+150,305,1924,4706,1,,Paraguay,Austria
+150,305,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1926,12778,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1927,16005,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1928,46940,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1929,0,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1930,69697,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1931,30170,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1932,22958,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1933,10779,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1934,13083,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1935,50990,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1936,27403,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1937,18936,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1938,8202,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1939,471,1,Valor Real En Oro Sellado,Paraguay,Austria
+150,305,1940,0,1,Oro Sellado,Paraguay,Austria
+150,305,1941,0,1,Oro Sellado,Paraguay,Austria
+150,305,1942,2514,1,Oro Sellado,Paraguay,Austria
+150,305,1943,0,1,Guaranies,Paraguay,Austria
+150,305,1944,0,1,Guaranies,Paraguay,Austria
+150,305,1945,0,1,Guaranies,Paraguay,Austria
+150,305,1946,0,1,Guaranies,Paraguay,Austria
+150,305,1947,3738.54,1,Guaranies,Paraguay,Austria
+150,305,1948,1,1000,Miles De Guaranies,Paraguay,Austria
+150,305,1949,42,1000,Miles De Guaranies,Paraguay,Austria
+150,310,1921,0,1,Valor De Tarifa,Paraguay,Hungary
+150,310,1922,0,1,Valor De Tarifa,Paraguay,Hungary
+150,310,1923,0,1,Valor De Tarifa,Paraguay,Hungary
+150,310,1924,320,1,,Paraguay,Hungary
+150,310,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1926,54,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1927,419,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1928,399,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1929,0,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1930,919,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1931,2101,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1932,665,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1933,416,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1934,538,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1935,979,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1936,2600,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1937,214,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1938,8200,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1939,4828,1,Valor Real En Oro Sellado,Paraguay,Hungary
+150,310,1940,5424,1,Oro Sellado,Paraguay,Hungary
+150,310,1941,0,1,Oro Sellado,Paraguay,Hungary
+150,310,1942,0,1,Oro Sellado,Paraguay,Hungary
+150,310,1943,0,1,Guaranies,Paraguay,Hungary
+150,310,1944,0,1,Guaranies,Paraguay,Hungary
+150,310,1945,0,1,Guaranies,Paraguay,Hungary
+150,310,1946,0,1,Guaranies,Paraguay,Hungary
+150,310,1947,71566.46000000001,1,Guaranies,Paraguay,Hungary
+150,310,1948,22,1000,Miles De Guaranies,Paraguay,Hungary
+150,310,1949,8,1000,Miles De Guaranies,Paraguay,Hungary
+150,315,1921,0,1,Valor De Tarifa,Paraguay,Czechoslovakia
+150,315,1922,0,1,Valor De Tarifa,Paraguay,Czechoslovakia
+150,315,1923,0,1,Valor De Tarifa,Paraguay,Czechoslovakia
+150,315,1924,18206,1,,Paraguay,Czechoslovakia
+150,315,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1926,103269,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1927,52850,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1928,70387,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1929,66701,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1930,91738,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1931,49955,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1932,46386,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1933,9160,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1934,17628,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1935,37379,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1936,78828,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1937,75893,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1938,114451,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1939,58182,1,Valor Real En Oro Sellado,Paraguay,Czechoslovakia
+150,315,1940,1887,1,Oro Sellado,Paraguay,Czechoslovakia
+150,315,1941,0,1,Oro Sellado,Paraguay,Czechoslovakia
+150,315,1942,0,1,Oro Sellado,Paraguay,Czechoslovakia
+150,315,1943,0,1,Guaranies,Paraguay,Czechoslovakia
+150,315,1944,0,1,Guaranies,Paraguay,Czechoslovakia
+150,315,1945,0,1,Guaranies,Paraguay,Czechoslovakia
+150,315,1946,2755.08,1,Guaranies,Paraguay,Czechoslovakia
+150,315,1947,51754.52,1,Guaranies,Paraguay,Czechoslovakia
+150,315,1948,0,1000,Miles De Guaranies,Paraguay,Czechoslovakia
+150,315,1949,0,1000,Miles De Guaranies,Paraguay,Czechoslovakia
+150,325,1921,165130,1,Valor De Tarifa,Paraguay,Italy
+150,325,1922,72388,1,Valor De Tarifa,Paraguay,Italy
+150,325,1923,192299,1,Valor De Tarifa,Paraguay,Italy
+150,325,1924,579651,1,,Paraguay,Italy
+150,325,1925,984,1000,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1926,801104,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1927,649147,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1928,784907,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1929,710579,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1930,818396,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1931,607823,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1932,323040,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1933,208373,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1934,207648,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1935,183781,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1936,202662,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1937,311921,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1938,329953,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1939,326297,1,Valor Real En Oro Sellado,Paraguay,Italy
+150,325,1940,276793,1,Oro Sellado,Paraguay,Italy
+150,325,1941,6138,1,Oro Sellado,Paraguay,Italy
+150,325,1942,4495,1,Oro Sellado,Paraguay,Italy
+150,325,1943,3660.37,1,Guaranies,Paraguay,Italy
+150,325,1944,0,1,Guaranies,Paraguay,Italy
+150,325,1945,308,1,Guaranies,Paraguay,Italy
+150,325,1946,27718.16,1,Guaranies,Paraguay,Italy
+150,325,1947,627075.1,1,Guaranies,Paraguay,Italy
+150,325,1948,621,1000,Miles De Guaranies,Paraguay,Italy
+150,325,1949,693,1000,Miles De Guaranies,Paraguay,Italy
+150,338,1921,0,1,Valor De Tarifa,Paraguay,Malta
+150,338,1922,0,1,Valor De Tarifa,Paraguay,Malta
+150,338,1923,0,1,Valor De Tarifa,Paraguay,Malta
+150,338,1924,0,1,,Paraguay,Malta
+150,338,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1926,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1927,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1928,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1929,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1930,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1931,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1932,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1933,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1934,164,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1935,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1936,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1937,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1938,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1939,0,1,Valor Real En Oro Sellado,Paraguay,Malta
+150,338,1940,0,1,Oro Sellado,Paraguay,Malta
+150,338,1941,0,1,Oro Sellado,Paraguay,Malta
+150,338,1942,0,1,Oro Sellado,Paraguay,Malta
+150,338,1943,0,1,Guaranies,Paraguay,Malta
+150,338,1944,0,1,Guaranies,Paraguay,Malta
+150,338,1945,0,1,Guaranies,Paraguay,Malta
+150,338,1946,0,1,Guaranies,Paraguay,Malta
+150,338,1947,0,1,Guaranies,Paraguay,Malta
+150,338,1948,0,1000,Miles De Guaranies,Paraguay,Malta
+150,338,1949,0,1000,Miles De Guaranies,Paraguay,Malta
+150,339,1921,0,1,Valor De Tarifa,Paraguay,Albania
+150,339,1922,0,1,Valor De Tarifa,Paraguay,Albania
+150,339,1923,0,1,Valor De Tarifa,Paraguay,Albania
+150,339,1924,0,1,,Paraguay,Albania
+150,339,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1926,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1927,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1928,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1929,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1930,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1931,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1932,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1933,135,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1934,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1935,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1936,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1937,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1938,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1939,0,1,Valor Real En Oro Sellado,Paraguay,Albania
+150,339,1940,0,1,Oro Sellado,Paraguay,Albania
+150,339,1941,0,1,Oro Sellado,Paraguay,Albania
+150,339,1942,0,1,Oro Sellado,Paraguay,Albania
+150,339,1943,0,1,Guaranies,Paraguay,Albania
+150,339,1944,0,1,Guaranies,Paraguay,Albania
+150,339,1945,0,1,Guaranies,Paraguay,Albania
+150,339,1946,0,1,Guaranies,Paraguay,Albania
+150,339,1947,0,1,Guaranies,Paraguay,Albania
+150,339,1948,0,1000,Miles De Guaranies,Paraguay,Albania
+150,339,1949,0,1000,Miles De Guaranies,Paraguay,Albania
+150,345,1921,0,1,Valor De Tarifa,Paraguay,Yugoslavia
+150,345,1922,0,1,Valor De Tarifa,Paraguay,Yugoslavia
+150,345,1923,0,1,Valor De Tarifa,Paraguay,Yugoslavia
+150,345,1924,0,1,,Paraguay,Yugoslavia
+150,345,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1926,989,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1927,1442,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1928,0,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1929,0,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1930,10,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1931,1213,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1932,2373,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1933,13,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1934,1227,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1935,1601,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1936,8173,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1937,2330,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1938,3933,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1939,6001,1,Valor Real En Oro Sellado,Paraguay,Yugoslavia
+150,345,1940,15715,1,Oro Sellado,Paraguay,Yugoslavia
+150,345,1941,207,1,Oro Sellado,Paraguay,Yugoslavia
+150,345,1942,0,1,Oro Sellado,Paraguay,Yugoslavia
+150,345,1943,0,1,Guaranies,Paraguay,Yugoslavia
+150,345,1944,0,1,Guaranies,Paraguay,Yugoslavia
+150,345,1945,0,1,Guaranies,Paraguay,Yugoslavia
+150,345,1946,0,1,Guaranies,Paraguay,Yugoslavia
+150,345,1947,57,1,Guaranies,Paraguay,Yugoslavia
+150,345,1948,0,1000,Miles De Guaranies,Paraguay,Yugoslavia
+150,345,1949,0,1000,Miles De Guaranies,Paraguay,Yugoslavia
+150,350,1921,0,1,Valor De Tarifa,Paraguay,Greece
+150,350,1922,0,1,Valor De Tarifa,Paraguay,Greece
+150,350,1923,0,1,Valor De Tarifa,Paraguay,Greece
+150,350,1924,0,1,,Paraguay,Greece
+150,350,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1926,269,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1927,195,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1928,219,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1929,0,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1930,38,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1931,10,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1932,10,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1933,1707,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1934,10418,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1935,7949,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1936,3379,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1937,9113,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1938,1072,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1939,694,1,Valor Real En Oro Sellado,Paraguay,Greece
+150,350,1940,365,1,Oro Sellado,Paraguay,Greece
+150,350,1941,0,1,Oro Sellado,Paraguay,Greece
+150,350,1942,0,1,Oro Sellado,Paraguay,Greece
+150,350,1943,0,1,Guaranies,Paraguay,Greece
+150,350,1944,0,1,Guaranies,Paraguay,Greece
+150,350,1945,0,1,Guaranies,Paraguay,Greece
+150,350,1946,0,1,Guaranies,Paraguay,Greece
+150,350,1947,0,1,Guaranies,Paraguay,Greece
+150,350,1948,0,1000,Miles De Guaranies,Paraguay,Greece
+150,350,1949,0,1000,Miles De Guaranies,Paraguay,Greece
+150,355,1921,0,1,Valor De Tarifa,Paraguay,Bulgaria
+150,355,1922,0,1,Valor De Tarifa,Paraguay,Bulgaria
+150,355,1923,0,1,Valor De Tarifa,Paraguay,Bulgaria
+150,355,1924,0,1,,Paraguay,Bulgaria
+150,355,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1926,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1927,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1928,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1929,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1930,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1931,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1932,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1933,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1934,458,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1935,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1936,0,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1937,238,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1938,341,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1939,344,1,Valor Real En Oro Sellado,Paraguay,Bulgaria
+150,355,1940,0,1,Oro Sellado,Paraguay,Bulgaria
+150,355,1941,0,1,Oro Sellado,Paraguay,Bulgaria
+150,355,1942,0,1,Oro Sellado,Paraguay,Bulgaria
+150,355,1943,0,1,Guaranies,Paraguay,Bulgaria
+150,355,1944,0,1,Guaranies,Paraguay,Bulgaria
+150,355,1945,0,1,Guaranies,Paraguay,Bulgaria
+150,355,1946,0,1,Guaranies,Paraguay,Bulgaria
+150,355,1947,0,1,Guaranies,Paraguay,Bulgaria
+150,355,1948,0,1000,Miles De Guaranies,Paraguay,Bulgaria
+150,355,1949,0,1000,Miles De Guaranies,Paraguay,Bulgaria
+150,360,1921,0,1,Valor De Tarifa,Paraguay,Romania
+150,360,1922,0,1,Valor De Tarifa,Paraguay,Romania
+150,360,1923,0,1,Valor De Tarifa,Paraguay,Romania
+150,360,1924,0,1,,Paraguay,Romania
+150,360,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1926,6422,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1927,4,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1928,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1929,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1930,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1931,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1932,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1933,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1934,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1935,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1936,124,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1937,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1938,6,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1939,0,1,Valor Real En Oro Sellado,Paraguay,Romania
+150,360,1940,0,1,Oro Sellado,Paraguay,Romania
+150,360,1941,0,1,Oro Sellado,Paraguay,Romania
+150,360,1942,0,1,Oro Sellado,Paraguay,Romania
+150,360,1943,0,1,Guaranies,Paraguay,Romania
+150,360,1944,0,1,Guaranies,Paraguay,Romania
+150,360,1945,0,1,Guaranies,Paraguay,Romania
+150,360,1946,0,1,Guaranies,Paraguay,Romania
+150,360,1947,0,1,Guaranies,Paraguay,Romania
+150,360,1948,0,1000,Miles De Guaranies,Paraguay,Romania
+150,360,1949,0,1000,Miles De Guaranies,Paraguay,Romania
+150,365,1921,0,1,Valor De Tarifa,Paraguay,Russia
+150,365,1922,0,1,Valor De Tarifa,Paraguay,Russia
+150,365,1923,0,1,Valor De Tarifa,Paraguay,Russia
+150,365,1924,51,1,,Paraguay,Russia
+150,365,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1926,920,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1927,281,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1928,1507,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1929,0,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1930,42244,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1931,22929,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1932,20153,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1933,39166,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1934,58259,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1935,66371,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1936,27544,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1937,1639,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1938,1071,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1939,4,1,Valor Real En Oro Sellado,Paraguay,Russia
+150,365,1940,0,1,Oro Sellado,Paraguay,Russia
+150,365,1941,0,1,Oro Sellado,Paraguay,Russia
+150,365,1942,0,1,Oro Sellado,Paraguay,Russia
+150,365,1943,0,1,Guaranies,Paraguay,Russia
+150,365,1944,0,1,Guaranies,Paraguay,Russia
+150,365,1945,0,1,Guaranies,Paraguay,Russia
+150,365,1946,0,1,Guaranies,Paraguay,Russia
+150,365,1947,0,1,Guaranies,Paraguay,Russia
+150,365,1948,0,1000,Miles De Guaranies,Paraguay,Russia
+150,365,1949,0,1000,Miles De Guaranies,Paraguay,Russia
+150,366,1921,0,1,Valor De Tarifa,Paraguay,Estonia
+150,366,1922,0,1,Valor De Tarifa,Paraguay,Estonia
+150,366,1923,0,1,Valor De Tarifa,Paraguay,Estonia
+150,366,1924,0,1,,Paraguay,Estonia
+150,366,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1926,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1927,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1928,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1929,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1930,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1931,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1932,0,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1933,3011,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1934,8316,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1935,9676,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1936,5098,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1937,2461,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1938,10130,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1939,13831,1,Valor Real En Oro Sellado,Paraguay,Estonia
+150,366,1940,5185,1,Oro Sellado,Paraguay,Estonia
+150,366,1941,0,1,Oro Sellado,Paraguay,Estonia
+150,366,1942,0,1,Oro Sellado,Paraguay,Estonia
+150,366,1943,0,1,Guaranies,Paraguay,Estonia
+150,366,1944,0,1,Guaranies,Paraguay,Estonia
+150,366,1945,0,1,Guaranies,Paraguay,Estonia
+150,366,1946,0,1,Guaranies,Paraguay,Estonia
+150,366,1947,0,1,Guaranies,Paraguay,Estonia
+150,366,1948,0,1000,Miles De Guaranies,Paraguay,Estonia
+150,366,1949,0,1000,Miles De Guaranies,Paraguay,Estonia
+150,367,1921,0,1,Valor De Tarifa,Paraguay,Latvia
+150,367,1922,0,1,Valor De Tarifa,Paraguay,Latvia
+150,367,1923,0,1,Valor De Tarifa,Paraguay,Latvia
+150,367,1924,0,1,,Paraguay,Latvia
+150,367,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1926,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1927,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1928,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1929,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1930,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1931,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1932,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1933,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1934,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1935,619,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1936,0,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1937,1436,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1938,12844,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1939,1,1,Valor Real En Oro Sellado,Paraguay,Latvia
+150,367,1940,0,1,Oro Sellado,Paraguay,Latvia
+150,367,1941,0,1,Oro Sellado,Paraguay,Latvia
+150,367,1942,0,1,Oro Sellado,Paraguay,Latvia
+150,367,1943,0,1,Guaranies,Paraguay,Latvia
+150,367,1944,0,1,Guaranies,Paraguay,Latvia
+150,367,1945,0,1,Guaranies,Paraguay,Latvia
+150,367,1946,0,1,Guaranies,Paraguay,Latvia
+150,367,1947,0,1,Guaranies,Paraguay,Latvia
+150,367,1948,0,1000,Miles De Guaranies,Paraguay,Latvia
+150,367,1949,0,1000,Miles De Guaranies,Paraguay,Latvia
+150,368,1921,0,1,Valor De Tarifa,Paraguay,Lithuania
+150,368,1922,0,1,Valor De Tarifa,Paraguay,Lithuania
+150,368,1923,0,1,Valor De Tarifa,Paraguay,Lithuania
+150,368,1924,0,1,,Paraguay,Lithuania
+150,368,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1926,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1927,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1928,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1929,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1930,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1931,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1932,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1933,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1934,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1935,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1936,1,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1937,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1938,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1939,0,1,Valor Real En Oro Sellado,Paraguay,Lithuania
+150,368,1940,0,1,Oro Sellado,Paraguay,Lithuania
+150,368,1941,0,1,Oro Sellado,Paraguay,Lithuania
+150,368,1942,0,1,Oro Sellado,Paraguay,Lithuania
+150,368,1943,0,1,Guaranies,Paraguay,Lithuania
+150,368,1944,0,1,Guaranies,Paraguay,Lithuania
+150,368,1945,0,1,Guaranies,Paraguay,Lithuania
+150,368,1946,0,1,Guaranies,Paraguay,Lithuania
+150,368,1947,0,1,Guaranies,Paraguay,Lithuania
+150,368,1948,0,1000,Miles De Guaranies,Paraguay,Lithuania
+150,368,1949,0,1000,Miles De Guaranies,Paraguay,Lithuania
+150,375,1921,0,1,Valor De Tarifa,Paraguay,Finland
+150,375,1922,0,1,Valor De Tarifa,Paraguay,Finland
+150,375,1923,0,1,Valor De Tarifa,Paraguay,Finland
+150,375,1924,0,1,,Paraguay,Finland
+150,375,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1926,3226,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1927,13513,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1928,2779,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1929,0,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1930,26893,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1931,22068,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1932,6990,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1933,1346,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1934,10029,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1935,18221,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1936,17255,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1937,17648,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1938,27732,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1939,28797,1,Valor Real En Oro Sellado,Paraguay,Finland
+150,375,1940,23580,1,Oro Sellado,Paraguay,Finland
+150,375,1941,3044,1,Oro Sellado,Paraguay,Finland
+150,375,1942,0,1,Oro Sellado,Paraguay,Finland
+150,375,1943,0,1,Guaranies,Paraguay,Finland
+150,375,1944,0,1,Guaranies,Paraguay,Finland
+150,375,1945,0,1,Guaranies,Paraguay,Finland
+150,375,1946,3091.11,1,Guaranies,Paraguay,Finland
+150,375,1947,40216.37,1,Guaranies,Paraguay,Finland
+150,375,1948,0,1000,Miles De Guaranies,Paraguay,Finland
+150,375,1949,0,1000,Miles De Guaranies,Paraguay,Finland
+150,380,1921,1741,1,Valor De Tarifa,Paraguay,Sweden
+150,380,1922,1308,1,Valor De Tarifa,Paraguay,Sweden
+150,380,1923,3378,1,Valor De Tarifa,Paraguay,Sweden
+150,380,1924,12051,1,,Paraguay,Sweden
+150,380,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1926,25038,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1927,58343,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1928,37885,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1929,80234,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1930,90697,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1931,81126,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1932,22981,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1933,27621,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1934,41977,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1935,59919,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1936,51430,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1937,62042,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1938,100850,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1939,84076,1,Valor Real En Oro Sellado,Paraguay,Sweden
+150,380,1940,45842,1,Oro Sellado,Paraguay,Sweden
+150,380,1941,14808,1,Oro Sellado,Paraguay,Sweden
+150,380,1942,67218,1,Oro Sellado,Paraguay,Sweden
+150,380,1943,14124.56,1,Guaranies,Paraguay,Sweden
+150,380,1944,155349.83,1,Guaranies,Paraguay,Sweden
+150,380,1945,596598.8199999999,1,Guaranies,Paraguay,Sweden
+150,380,1946,776112.5,1,Guaranies,Paraguay,Sweden
+150,380,1947,867533.5,1,Guaranies,Paraguay,Sweden
+150,380,1948,1656,1000,Miles De Guaranies,Paraguay,Sweden
+150,380,1949,1848,1000,Miles De Guaranies,Paraguay,Sweden
+150,385,1921,2708,1,Valor De Tarifa,Paraguay,Norway
+150,385,1922,2835,1,Valor De Tarifa,Paraguay,Norway
+150,385,1923,7233,1,Valor De Tarifa,Paraguay,Norway
+150,385,1924,10729,1,,Paraguay,Norway
+150,385,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1926,19435,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1927,22921,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1928,9934,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1929,0,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1930,9565,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1931,9752,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1932,6731,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1933,7427,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1934,20066,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1935,24932,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1936,18861,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1937,34527,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1938,32603,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1939,19015,1,Valor Real En Oro Sellado,Paraguay,Norway
+150,385,1940,16269,1,Oro Sellado,Paraguay,Norway
+150,385,1941,0,1,Oro Sellado,Paraguay,Norway
+150,385,1942,0,1,Oro Sellado,Paraguay,Norway
+150,385,1943,0,1,Guaranies,Paraguay,Norway
+150,385,1944,0,1,Guaranies,Paraguay,Norway
+150,385,1945,0,1,Guaranies,Paraguay,Norway
+150,385,1946,105747.51,1,Guaranies,Paraguay,Norway
+150,385,1947,276598.84,1,Guaranies,Paraguay,Norway
+150,385,1948,139,1000,Miles De Guaranies,Paraguay,Norway
+150,385,1949,86,1000,Miles De Guaranies,Paraguay,Norway
+150,390,1921,0,1,Valor De Tarifa,Paraguay,Denmark
+150,390,1922,0,1,Valor De Tarifa,Paraguay,Denmark
+150,390,1923,0,1,Valor De Tarifa,Paraguay,Denmark
+150,390,1924,3664,1,,Paraguay,Denmark
+150,390,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1926,11104,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1927,8816,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1928,8471,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1929,45007,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1930,7147,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1931,6175,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1932,10811,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1933,1537,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1934,6962,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1935,9599,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1936,10813,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1937,11098,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1938,16237,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1939,7265,1,Valor Real En Oro Sellado,Paraguay,Denmark
+150,390,1940,235,1,Oro Sellado,Paraguay,Denmark
+150,390,1941,0,1,Oro Sellado,Paraguay,Denmark
+150,390,1942,0,1,Oro Sellado,Paraguay,Denmark
+150,390,1943,0,1,Guaranies,Paraguay,Denmark
+150,390,1944,0,1,Guaranies,Paraguay,Denmark
+150,390,1945,0,1,Guaranies,Paraguay,Denmark
+150,390,1946,23556.91,1,Guaranies,Paraguay,Denmark
+150,390,1947,90736.92999999999,1,Guaranies,Paraguay,Denmark
+150,390,1948,35,1000,Miles De Guaranies,Paraguay,Denmark
+150,390,1949,129,1000,Miles De Guaranies,Paraguay,Denmark
+150,395,1921,0,1,Valor De Tarifa,Paraguay,Iceland
+150,395,1922,0,1,Valor De Tarifa,Paraguay,Iceland
+150,395,1923,0,1,Valor De Tarifa,Paraguay,Iceland
+150,395,1924,0,1,,Paraguay,Iceland
+150,395,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1926,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1927,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1928,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1929,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1930,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1931,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1932,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1933,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1934,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1935,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1936,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1937,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1938,0,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1939,2240,1,Valor Real En Oro Sellado,Paraguay,Iceland
+150,395,1940,2823,1,Oro Sellado,Paraguay,Iceland
+150,395,1941,0,1,Oro Sellado,Paraguay,Iceland
+150,395,1942,0,1,Oro Sellado,Paraguay,Iceland
+150,395,1943,0,1,Guaranies,Paraguay,Iceland
+150,395,1944,0,1,Guaranies,Paraguay,Iceland
+150,395,1945,0,1,Guaranies,Paraguay,Iceland
+150,395,1946,0,1,Guaranies,Paraguay,Iceland
+150,395,1947,0,1,Guaranies,Paraguay,Iceland
+150,395,1948,0,1000,Miles De Guaranies,Paraguay,Iceland
+150,395,1949,0,1000,Miles De Guaranies,Paraguay,Iceland
+150,511,1921,0,1,Valor De Tarifa,Paraguay,Zanzibar
+150,511,1922,0,1,Valor De Tarifa,Paraguay,Zanzibar
+150,511,1923,0,1,Valor De Tarifa,Paraguay,Zanzibar
+150,511,1924,0,1,,Paraguay,Zanzibar
+150,511,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1926,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1927,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1928,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1929,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1930,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1931,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1932,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1933,80,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1934,26,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1935,115,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1936,8,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1937,134,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1938,190,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1939,0,1,Valor Real En Oro Sellado,Paraguay,Zanzibar
+150,511,1940,0,1,Oro Sellado,Paraguay,Zanzibar
+150,511,1941,0,1,Oro Sellado,Paraguay,Zanzibar
+150,511,1942,0,1,Oro Sellado,Paraguay,Zanzibar
+150,511,1943,0,1,Guaranies,Paraguay,Zanzibar
+150,511,1944,0,1,Guaranies,Paraguay,Zanzibar
+150,511,1945,0,1,Guaranies,Paraguay,Zanzibar
+150,511,1946,131.94,1,Guaranies,Paraguay,Zanzibar
+150,511,1947,0,1,Guaranies,Paraguay,Zanzibar
+150,511,1948,0,1000,Miles De Guaranies,Paraguay,Zanzibar
+150,511,1949,0,1000,Miles De Guaranies,Paraguay,Zanzibar
+150,560,1921,0,1,Valor De Tarifa,Paraguay,South Africa
+150,560,1922,0,1,Valor De Tarifa,Paraguay,South Africa
+150,560,1923,0,1,Valor De Tarifa,Paraguay,South Africa
+150,560,1924,0,1,,Paraguay,South Africa
+150,560,1925,0,1000,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1926,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1927,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1928,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1929,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1930,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1931,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1932,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1933,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1934,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1935,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1936,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1937,49,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1938,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1939,0,1,Valor Real En Oro Sellado,Paraguay,South Africa
+150,560,1940,0,1,Oro Sellado,Paraguay,South Africa
+150,560,1941,0,1,Oro Sellado,Paraguay,South Africa
+150,560,1942,0,1,Oro Sellado,Paraguay,South Africa
+150,560,1943,0,1,Guaranies,Paraguay,South Africa
+150,560,1944,0,1,Guaranies,Paraguay,South Africa
+150,560,1945,0,1,Guaranies,Paraguay,South Africa
+150,560,1946,0,1,Guaranies,Paraguay,South Africa
+150,560,1947,0,1,Guaranies,Paraguay,South Africa
+150,560,1948,181,1000,Miles De Guaranies,Paraguay,South Africa
+150,560,1949,273,1000,Miles De Guaranies,Paraguay,South Africa
+150,580,1921,0,1,Valor De Tarifa,Paraguay,Madagascar
+150,580,1922,0,1,Valor De Tarifa,Paraguay,Madagascar
+150,580,1923,0,1,Valor De Tarifa,Paraguay,Madagascar
+150,580,1924,0,1,,Paraguay,Madagascar
+150,580,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1926,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1927,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1928,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1929,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1930,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1931,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1932,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1933,1668,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1934,775,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1935,1414,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1936,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1937,43,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1938,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1939,0,1,Valor Real En Oro Sellado,Paraguay,Madagascar
+150,580,1940,0,1,Oro Sellado,Paraguay,Madagascar
+150,580,1941,0,1,Oro Sellado,Paraguay,Madagascar
+150,580,1942,0,1,Oro Sellado,Paraguay,Madagascar
+150,580,1943,0,1,Guaranies,Paraguay,Madagascar
+150,580,1944,0,1,Guaranies,Paraguay,Madagascar
+150,580,1945,0,1,Guaranies,Paraguay,Madagascar
+150,580,1946,0,1,Guaranies,Paraguay,Madagascar
+150,580,1947,0,1,Guaranies,Paraguay,Madagascar
+150,580,1948,0,1000,Miles De Guaranies,Paraguay,Madagascar
+150,580,1949,0,1000,Miles De Guaranies,Paraguay,Madagascar
+150,615,1921,0,1,Valor De Tarifa,Paraguay,Algeria
+150,615,1922,0,1,Valor De Tarifa,Paraguay,Algeria
+150,615,1923,0,1,Valor De Tarifa,Paraguay,Algeria
+150,615,1924,0,1,,Paraguay,Algeria
+150,615,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1926,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1927,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1928,125,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1929,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1930,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1931,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1932,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1933,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1934,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1935,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1936,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1937,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1938,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1939,0,1,Valor Real En Oro Sellado,Paraguay,Algeria
+150,615,1940,0,1,Oro Sellado,Paraguay,Algeria
+150,615,1941,0,1,Oro Sellado,Paraguay,Algeria
+150,615,1942,0,1,Oro Sellado,Paraguay,Algeria
+150,615,1943,0,1,Guaranies,Paraguay,Algeria
+150,615,1944,0,1,Guaranies,Paraguay,Algeria
+150,615,1945,0,1,Guaranies,Paraguay,Algeria
+150,615,1946,0,1,Guaranies,Paraguay,Algeria
+150,615,1947,0,1,Guaranies,Paraguay,Algeria
+150,615,1948,0,1000,Miles De Guaranies,Paraguay,Algeria
+150,615,1949,0,1000,Miles De Guaranies,Paraguay,Algeria
+150,625,1921,0,1,Valor De Tarifa,Paraguay,Sudan
+150,625,1922,0,1,Valor De Tarifa,Paraguay,Sudan
+150,625,1923,0,1,Valor De Tarifa,Paraguay,Sudan
+150,625,1924,0,1,,Paraguay,Sudan
+150,625,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1926,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1927,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1928,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1929,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1930,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1931,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1932,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1933,31,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1934,373,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1935,534,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1936,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1937,31,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1938,58,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1939,0,1,Valor Real En Oro Sellado,Paraguay,Sudan
+150,625,1940,0,1,Oro Sellado,Paraguay,Sudan
+150,625,1941,0,1,Oro Sellado,Paraguay,Sudan
+150,625,1942,0,1,Oro Sellado,Paraguay,Sudan
+150,625,1943,0,1,Guaranies,Paraguay,Sudan
+150,625,1944,0,1,Guaranies,Paraguay,Sudan
+150,625,1945,0,1,Guaranies,Paraguay,Sudan
+150,625,1946,0,1,Guaranies,Paraguay,Sudan
+150,625,1947,0,1,Guaranies,Paraguay,Sudan
+150,625,1948,0,1000,Miles De Guaranies,Paraguay,Sudan
+150,625,1949,0,1000,Miles De Guaranies,Paraguay,Sudan
+150,630,1921,0,1,Valor De Tarifa,Paraguay,Iran
+150,630,1922,0,1,Valor De Tarifa,Paraguay,Iran
+150,630,1923,0,1,Valor De Tarifa,Paraguay,Iran
+150,630,1924,0,1,,Paraguay,Iran
+150,630,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1926,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1927,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1928,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1929,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1930,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1931,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1932,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1933,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1934,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1935,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1936,28,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1937,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1938,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1939,0,1,Valor Real En Oro Sellado,Paraguay,Iran
+150,630,1940,260,1,Oro Sellado,Paraguay,Iran
+150,630,1941,0,1,Oro Sellado,Paraguay,Iran
+150,630,1942,35,1,Oro Sellado,Paraguay,Iran
+150,630,1943,0,1,Guaranies,Paraguay,Iran
+150,630,1944,0,1,Guaranies,Paraguay,Iran
+150,630,1945,0,1,Guaranies,Paraguay,Iran
+150,630,1946,0,1,Guaranies,Paraguay,Iran
+150,630,1947,0,1,Guaranies,Paraguay,Iran
+150,630,1948,0,1000,Miles De Guaranies,Paraguay,Iran
+150,630,1949,0,1000,Miles De Guaranies,Paraguay,Iran
+150,640,1921,0,1,Valor De Tarifa,Paraguay,Turkey
+150,640,1922,0,1,Valor De Tarifa,Paraguay,Turkey
+150,640,1923,0,1,Valor De Tarifa,Paraguay,Turkey
+150,640,1924,0,1,,Paraguay,Turkey
+150,640,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1926,0,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1927,81,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1928,142,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1929,0,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1930,14,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1931,20,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1932,0,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1933,39,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1934,128,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1935,158,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1936,77,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1937,279,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1938,183,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1939,0,1,Valor Real En Oro Sellado,Paraguay,Turkey
+150,640,1940,0,1,Oro Sellado,Paraguay,Turkey
+150,640,1941,0,1,Oro Sellado,Paraguay,Turkey
+150,640,1942,0,1,Oro Sellado,Paraguay,Turkey
+150,640,1943,0,1,Guaranies,Paraguay,Turkey
+150,640,1944,0,1,Guaranies,Paraguay,Turkey
+150,640,1945,0,1,Guaranies,Paraguay,Turkey
+150,640,1946,0,1,Guaranies,Paraguay,Turkey
+150,640,1947,1717.05,1,Guaranies,Paraguay,Turkey
+150,640,1948,0,1000,Miles De Guaranies,Paraguay,Turkey
+150,640,1949,0,1000,Miles De Guaranies,Paraguay,Turkey
+150,645,1921,0,1,Valor De Tarifa,Paraguay,Iraq
+150,645,1922,0,1,Valor De Tarifa,Paraguay,Iraq
+150,645,1923,0,1,Valor De Tarifa,Paraguay,Iraq
+150,645,1924,0,1,,Paraguay,Iraq
+150,645,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1926,96,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1927,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1928,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1929,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1930,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1931,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1932,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1933,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1934,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1935,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1936,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1937,26,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1938,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1939,0,1,Valor Real En Oro Sellado,Paraguay,Iraq
+150,645,1940,0,1,Oro Sellado,Paraguay,Iraq
+150,645,1941,0,1,Oro Sellado,Paraguay,Iraq
+150,645,1942,0,1,Oro Sellado,Paraguay,Iraq
+150,645,1943,0,1,Guaranies,Paraguay,Iraq
+150,645,1944,0,1,Guaranies,Paraguay,Iraq
+150,645,1945,0,1,Guaranies,Paraguay,Iraq
+150,645,1946,0,1,Guaranies,Paraguay,Iraq
+150,645,1947,0,1,Guaranies,Paraguay,Iraq
+150,645,1948,0,1000,Miles De Guaranies,Paraguay,Iraq
+150,645,1949,0,1000,Miles De Guaranies,Paraguay,Iraq
+150,651,1921,0,1,Valor De Tarifa,Paraguay,Egypt
+150,651,1922,0,1,Valor De Tarifa,Paraguay,Egypt
+150,651,1923,0,1,Valor De Tarifa,Paraguay,Egypt
+150,651,1924,0,1,,Paraguay,Egypt
+150,651,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1926,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1927,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1928,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1929,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1930,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1931,5,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1932,1,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1933,442,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1934,5,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1935,1027,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1936,0,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1937,3,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1938,12,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1939,72,1,Valor Real En Oro Sellado,Paraguay,Egypt
+150,651,1940,0,1,Oro Sellado,Paraguay,Egypt
+150,651,1941,0,1,Oro Sellado,Paraguay,Egypt
+150,651,1942,0,1,Oro Sellado,Paraguay,Egypt
+150,651,1943,0,1,Guaranies,Paraguay,Egypt
+150,651,1944,0,1,Guaranies,Paraguay,Egypt
+150,651,1945,0,1,Guaranies,Paraguay,Egypt
+150,651,1946,1699.35,1,Guaranies,Paraguay,Egypt
+150,651,1947,2854.93,1,Guaranies,Paraguay,Egypt
+150,651,1948,0,1000,Miles De Guaranies,Paraguay,Egypt
+150,651,1949,0,1000,Miles De Guaranies,Paraguay,Egypt
+150,652,1921,0,1,Valor De Tarifa,Paraguay,Syria
+150,652,1922,0,1,Valor De Tarifa,Paraguay,Syria
+150,652,1923,0,1,Valor De Tarifa,Paraguay,Syria
+150,652,1924,0,1,,Paraguay,Syria
+150,652,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1926,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1927,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1928,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1929,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1930,5,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1931,2,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1932,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1933,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1934,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1935,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1936,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1937,0,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1938,7,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1939,1869,1,Valor Real En Oro Sellado,Paraguay,Syria
+150,652,1940,346,1,Oro Sellado,Paraguay,Syria
+150,652,1941,0,1,Oro Sellado,Paraguay,Syria
+150,652,1942,0,1,Oro Sellado,Paraguay,Syria
+150,652,1943,0,1,Guaranies,Paraguay,Syria
+150,652,1944,0,1,Guaranies,Paraguay,Syria
+150,652,1945,0,1,Guaranies,Paraguay,Syria
+150,652,1946,0,1,Guaranies,Paraguay,Syria
+150,652,1947,0,1,Guaranies,Paraguay,Syria
+150,652,1948,0,1000,Miles De Guaranies,Paraguay,Syria
+150,652,1949,0,1000,Miles De Guaranies,Paraguay,Syria
+150,665,1921,0,1,Valor De Tarifa,Paraguay,West Bank And Gaza
+150,665,1922,0,1,Valor De Tarifa,Paraguay,West Bank And Gaza
+150,665,1923,0,1,Valor De Tarifa,Paraguay,West Bank And Gaza
+150,665,1924,0,1,,Paraguay,West Bank And Gaza
+150,665,1925,0,1000,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1926,0,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1927,0,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1928,0,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1929,0,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1930,120,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1931,65,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1932,8,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1933,2222,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1934,0,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1935,10,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1936,2,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1937,4,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1938,7,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1939,507,1,Valor Real En Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1940,30,1,Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1941,0,1,Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1942,0,1,Oro Sellado,Paraguay,West Bank And Gaza
+150,665,1943,0,1,Guaranies,Paraguay,West Bank And Gaza
+150,665,1944,0,1,Guaranies,Paraguay,West Bank And Gaza
+150,665,1945,0,1,Guaranies,Paraguay,West Bank And Gaza
+150,665,1946,0,1,Guaranies,Paraguay,West Bank And Gaza
+150,665,1947,10,1,Guaranies,Paraguay,West Bank And Gaza
+150,665,1948,0,1000,Miles De Guaranies,Paraguay,West Bank And Gaza
+150,665,1949,0,1000,Miles De Guaranies,Paraguay,West Bank And Gaza
+150,675,1921,0,1,Valor De Tarifa,Paraguay,Arabia
+150,675,1922,0,1,Valor De Tarifa,Paraguay,Arabia
+150,675,1923,0,1,Valor De Tarifa,Paraguay,Arabia
+150,675,1924,0,1,,Paraguay,Arabia
+150,675,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1926,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1927,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1928,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1929,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1930,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1931,257,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1932,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1933,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1934,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1935,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1936,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1937,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1938,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1939,0,1,Valor Real En Oro Sellado,Paraguay,Arabia
+150,675,1940,0,1,Oro Sellado,Paraguay,Arabia
+150,675,1941,0,1,Oro Sellado,Paraguay,Arabia
+150,675,1942,215,1,Oro Sellado,Paraguay,Arabia
+150,675,1943,0,1,Guaranies,Paraguay,Arabia
+150,675,1944,0,1,Guaranies,Paraguay,Arabia
+150,675,1945,0,1,Guaranies,Paraguay,Arabia
+150,675,1946,0,1,Guaranies,Paraguay,Arabia
+150,675,1947,0,1,Guaranies,Paraguay,Arabia
+150,675,1948,0,1000,Miles De Guaranies,Paraguay,Arabia
+150,675,1949,0,1000,Miles De Guaranies,Paraguay,Arabia
+150,710,1921,0,1,Valor De Tarifa,Paraguay,China
+150,710,1922,0,1,Valor De Tarifa,Paraguay,China
+150,710,1923,0,1,Valor De Tarifa,Paraguay,China
+150,710,1924,1016,1,,Paraguay,China
+150,710,1925,0,1000,Valor Real En Oro Sellado,Paraguay,China
+150,710,1926,1591,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1927,196,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1928,1370,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1929,0,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1930,7554,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1931,2890,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1932,1101,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1933,1405,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1934,1894,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1935,539,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1936,588,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1937,3112,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1938,3780,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1939,612,1,Valor Real En Oro Sellado,Paraguay,China
+150,710,1940,2266,1,Oro Sellado,Paraguay,China
+150,710,1941,2422,1,Oro Sellado,Paraguay,China
+150,710,1942,0,1,Oro Sellado,Paraguay,China
+150,710,1943,0,1,Guaranies,Paraguay,China
+150,710,1944,0,1,Guaranies,Paraguay,China
+150,710,1945,0,1,Guaranies,Paraguay,China
+150,710,1946,2281.77,1,Guaranies,Paraguay,China
+150,710,1947,509.04,1,Guaranies,Paraguay,China
+150,710,1948,0,1000,Miles De Guaranies,Paraguay,China
+150,710,1949,0,1000,Miles De Guaranies,Paraguay,China
+150,740,1921,29547,1,Valor De Tarifa,Paraguay,Japan
+150,740,1922,7410,1,Valor De Tarifa,Paraguay,Japan
+150,740,1923,25779,1,Valor De Tarifa,Paraguay,Japan
+150,740,1924,140231,1,,Paraguay,Japan
+150,740,1925,224,1000,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1926,242073,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1927,256944,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1928,308597,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1929,297982,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1930,445730,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1931,355857,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1932,216629,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1933,361538,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1934,677478,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1935,1690205,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1936,1361023,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1937,1702700,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1938,1953529,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1939,1601916,1,Valor Real En Oro Sellado,Paraguay,Japan
+150,740,1940,1895585,1,Oro Sellado,Paraguay,Japan
+150,740,1941,1307517,1,Oro Sellado,Paraguay,Japan
+150,740,1942,49071,1,Oro Sellado,Paraguay,Japan
+150,740,1943,5298.02,1,Guaranies,Paraguay,Japan
+150,740,1944,1409.88,1,Guaranies,Paraguay,Japan
+150,740,1945,0,1,Guaranies,Paraguay,Japan
+150,740,1946,0,1,Guaranies,Paraguay,Japan
+150,740,1947,0,1,Guaranies,Paraguay,Japan
+150,740,1948,300,1000,Miles De Guaranies,Paraguay,Japan
+150,740,1949,600,1000,Miles De Guaranies,Paraguay,Japan
+150,750,1921,23667,1,Valor De Tarifa,Paraguay,India
+150,750,1922,79302,1,Valor De Tarifa,Paraguay,India
+150,750,1923,94577,1,Valor De Tarifa,Paraguay,India
+150,750,1924,66545,1,,Paraguay,India
+150,750,1925,0,1000,Valor Real En Oro Sellado,Paraguay,India
+150,750,1926,57971,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1927,79489,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1928,83955,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1929,0,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1930,88758,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1931,142237,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1932,68722,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1933,99627,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1934,147563,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1935,118832,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1936,63811,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1937,80743,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1938,60989,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1939,46249,1,Valor Real En Oro Sellado,Paraguay,India
+150,750,1940,0,1,Oro Sellado,Paraguay,India
+150,750,1941,0,1,Oro Sellado,Paraguay,India
+150,750,1942,35206,1,Oro Sellado,Paraguay,India
+150,750,1943,0,1,Guaranies,Paraguay,India
+150,750,1944,676092.38,1,Guaranies,Paraguay,India
+150,750,1945,900625.71,1,Guaranies,Paraguay,India
+150,750,1946,578924.37,1,Guaranies,Paraguay,India
+150,750,1947,577874.29,1,Guaranies,Paraguay,India
+150,750,1948,2326,1000,Miles De Guaranies,Paraguay,India
+150,750,1949,800,1000,Miles De Guaranies,Paraguay,India
+150,780,1921,0,1,Valor De Tarifa,Paraguay,Sri Lanka
+150,780,1922,0,1,Valor De Tarifa,Paraguay,Sri Lanka
+150,780,1923,0,1,Valor De Tarifa,Paraguay,Sri Lanka
+150,780,1924,583,1,,Paraguay,Sri Lanka
+150,780,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1926,370,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1927,2848,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1928,6527,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1929,0,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1930,144249,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1931,5419,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1932,8690,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1933,4343,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1934,1539,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1935,1882,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1936,930,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1937,1068,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1938,2340,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1939,2978,1,Valor Real En Oro Sellado,Paraguay,Sri Lanka
+150,780,1940,0,1,Oro Sellado,Paraguay,Sri Lanka
+150,780,1941,0,1,Oro Sellado,Paraguay,Sri Lanka
+150,780,1942,1187,1,Oro Sellado,Paraguay,Sri Lanka
+150,780,1943,0,1,Guaranies,Paraguay,Sri Lanka
+150,780,1944,0,1,Guaranies,Paraguay,Sri Lanka
+150,780,1945,0,1,Guaranies,Paraguay,Sri Lanka
+150,780,1946,2589.72,1,Guaranies,Paraguay,Sri Lanka
+150,780,1947,0,1,Guaranies,Paraguay,Sri Lanka
+150,780,1948,0,1000,Miles De Guaranies,Paraguay,Sri Lanka
+150,780,1949,0,1000,Miles De Guaranies,Paraguay,Sri Lanka
+150,800,1921,0,1,Valor De Tarifa,Paraguay,Thailand
+150,800,1922,0,1,Valor De Tarifa,Paraguay,Thailand
+150,800,1923,0,1,Valor De Tarifa,Paraguay,Thailand
+150,800,1924,0,1,,Paraguay,Thailand
+150,800,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1926,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1927,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1928,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1929,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1930,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1931,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1932,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1933,10,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1934,2,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1935,0,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1936,20,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1937,16,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1938,18,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1939,25,1,Valor Real En Oro Sellado,Paraguay,Thailand
+150,800,1940,11,1,Oro Sellado,Paraguay,Thailand
+150,800,1941,0,1,Oro Sellado,Paraguay,Thailand
+150,800,1942,0,1,Oro Sellado,Paraguay,Thailand
+150,800,1943,0,1,Guaranies,Paraguay,Thailand
+150,800,1944,0,1,Guaranies,Paraguay,Thailand
+150,800,1945,0,1,Guaranies,Paraguay,Thailand
+150,800,1946,0,1,Guaranies,Paraguay,Thailand
+150,800,1947,0,1,Guaranies,Paraguay,Thailand
+150,800,1948,0,1000,Miles De Guaranies,Paraguay,Thailand
+150,800,1949,0,1000,Miles De Guaranies,Paraguay,Thailand
+150,840,1921,0,1,Valor De Tarifa,Paraguay,Philippines
+150,840,1922,0,1,Valor De Tarifa,Paraguay,Philippines
+150,840,1923,0,1,Valor De Tarifa,Paraguay,Philippines
+150,840,1924,0,1,,Paraguay,Philippines
+150,840,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1926,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1927,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1928,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1929,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1930,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1931,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1932,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1933,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1934,79,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1935,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1936,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1937,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1938,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1939,0,1,Valor Real En Oro Sellado,Paraguay,Philippines
+150,840,1940,0,1,Oro Sellado,Paraguay,Philippines
+150,840,1941,0,1,Oro Sellado,Paraguay,Philippines
+150,840,1942,0,1,Oro Sellado,Paraguay,Philippines
+150,840,1943,0,1,Guaranies,Paraguay,Philippines
+150,840,1944,0,1,Guaranies,Paraguay,Philippines
+150,840,1945,0,1,Guaranies,Paraguay,Philippines
+150,840,1946,0,1,Guaranies,Paraguay,Philippines
+150,840,1947,0,1,Guaranies,Paraguay,Philippines
+150,840,1948,0,1000,Miles De Guaranies,Paraguay,Philippines
+150,840,1949,0,1000,Miles De Guaranies,Paraguay,Philippines
+150,900,1921,0,1,Valor De Tarifa,Paraguay,Australia
+150,900,1922,0,1,Valor De Tarifa,Paraguay,Australia
+150,900,1923,0,1,Valor De Tarifa,Paraguay,Australia
+150,900,1924,0,1,,Paraguay,Australia
+150,900,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1926,56,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1927,1376,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1928,1157,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1929,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1930,1971,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1931,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1932,2,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1933,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1934,20,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1935,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1936,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1937,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1938,0,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1939,12,1,Valor Real En Oro Sellado,Paraguay,Australia
+150,900,1940,0,1,Oro Sellado,Paraguay,Australia
+150,900,1941,0,1,Oro Sellado,Paraguay,Australia
+150,900,1942,38,1,Oro Sellado,Paraguay,Australia
+150,900,1943,0,1,Guaranies,Paraguay,Australia
+150,900,1944,0,1,Guaranies,Paraguay,Australia
+150,900,1945,1,1,Guaranies,Paraguay,Australia
+150,900,1946,0,1,Guaranies,Paraguay,Australia
+150,900,1947,0,1,Guaranies,Paraguay,Australia
+150,900,1948,0,1000,Miles De Guaranies,Paraguay,Australia
+150,900,1949,0,1000,Miles De Guaranies,Paraguay,Australia
+150,920,1921,0,1,Valor De Tarifa,Paraguay,New Zealand
+150,920,1922,0,1,Valor De Tarifa,Paraguay,New Zealand
+150,920,1923,0,1,Valor De Tarifa,Paraguay,New Zealand
+150,920,1924,0,1,,Paraguay,New Zealand
+150,920,1925,0,1000,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1926,723,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1927,1542,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1928,1821,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1929,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1930,84,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1931,57,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1932,16,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1933,38,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1934,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1935,3,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1936,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1937,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1938,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1939,0,1,Valor Real En Oro Sellado,Paraguay,New Zealand
+150,920,1940,0,1,Oro Sellado,Paraguay,New Zealand
+150,920,1941,0,1,Oro Sellado,Paraguay,New Zealand
+150,920,1942,0,1,Oro Sellado,Paraguay,New Zealand
+150,920,1943,0,1,Guaranies,Paraguay,New Zealand
+150,920,1944,0,1,Guaranies,Paraguay,New Zealand
+150,920,1945,0,1,Guaranies,Paraguay,New Zealand
+150,920,1946,0,1,Guaranies,Paraguay,New Zealand
+150,920,1947,0,1,Guaranies,Paraguay,New Zealand
+150,920,1948,0,1000,Miles De Guaranies,Paraguay,New Zealand
+150,920,1949,0,1000,Miles De Guaranies,Paraguay,New Zealand
+150,3651,1921,0,1,Valor De Tarifa,Paraguay,Siberia
+150,3651,1922,0,1,Valor De Tarifa,Paraguay,Siberia
+150,3651,1923,0,1,Valor De Tarifa,Paraguay,Siberia
+150,3651,1924,0,1,,Paraguay,Siberia
+150,3651,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1926,20,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1927,90,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1928,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1929,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1930,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1931,46,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1932,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1933,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1934,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1935,20,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1936,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1937,19,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1938,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1939,0,1,Valor Real En Oro Sellado,Paraguay,Siberia
+150,3651,1940,0,1,Oro Sellado,Paraguay,Siberia
+150,3651,1941,0,1,Oro Sellado,Paraguay,Siberia
+150,3651,1942,0,1,Oro Sellado,Paraguay,Siberia
+150,3651,1943,0,1,Guaranies,Paraguay,Siberia
+150,3651,1944,0,1,Guaranies,Paraguay,Siberia
+150,3651,1945,0,1,Guaranies,Paraguay,Siberia
+150,3651,1946,0,1,Guaranies,Paraguay,Siberia
+150,3651,1947,0,1,Guaranies,Paraguay,Siberia
+150,3651,1948,0,1000,Miles De Guaranies,Paraguay,Siberia
+150,3651,1949,0,1000,Miles De Guaranies,Paraguay,Siberia
+150,8501,1921,0,1,Valor De Tarifa,Paraguay,Java
+150,8501,1922,0,1,Valor De Tarifa,Paraguay,Java
+150,8501,1923,0,1,Valor De Tarifa,Paraguay,Java
+150,8501,1924,804,1,,Paraguay,Java
+150,8501,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1926,0,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1927,906,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1928,1375,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1929,0,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1930,1331,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1931,34,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1932,1306,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1933,0,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1934,1971,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1935,786,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1936,2862,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1937,2781,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1938,49665,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1939,16723,1,Valor Real En Oro Sellado,Paraguay,Java
+150,8501,1940,0,1,Oro Sellado,Paraguay,Java
+150,8501,1941,0,1,Oro Sellado,Paraguay,Java
+150,8501,1942,0,1,Oro Sellado,Paraguay,Java
+150,8501,1943,0,1,Guaranies,Paraguay,Java
+150,8501,1944,0,1,Guaranies,Paraguay,Java
+150,8501,1945,0,1,Guaranies,Paraguay,Java
+150,8501,1946,0,1,Guaranies,Paraguay,Java
+150,8501,1947,0,1,Guaranies,Paraguay,Java
+150,8501,1948,0,1000,Miles De Guaranies,Paraguay,Java
+150,8501,1949,0,1000,Miles De Guaranies,Paraguay,Java
+150,8502,1921,0,1,Valor De Tarifa,Paraguay,Sumatra
+150,8502,1922,0,1,Valor De Tarifa,Paraguay,Sumatra
+150,8502,1923,0,1,Valor De Tarifa,Paraguay,Sumatra
+150,8502,1924,165,1,,Paraguay,Sumatra
+150,8502,1925,0,1000,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1926,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1927,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1928,410,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1929,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1930,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1931,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1932,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1933,384,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1934,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1935,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1936,0,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1937,313,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1938,1154,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1939,221,1,Valor Real En Oro Sellado,Paraguay,Sumatra
+150,8502,1940,0,1,Oro Sellado,Paraguay,Sumatra
+150,8502,1941,0,1,Oro Sellado,Paraguay,Sumatra
+150,8502,1942,0,1,Oro Sellado,Paraguay,Sumatra
+150,8502,1943,0,1,Guaranies,Paraguay,Sumatra
+150,8502,1944,0,1,Guaranies,Paraguay,Sumatra
+150,8502,1945,0,1,Guaranies,Paraguay,Sumatra
+150,8502,1946,0,1,Guaranies,Paraguay,Sumatra
+150,8502,1947,0,1,Guaranies,Paraguay,Sumatra
+150,8502,1948,0,1000,Miles De Guaranies,Paraguay,Sumatra
+150,8502,1949,0,1000,Miles De Guaranies,Paraguay,Sumatra
+150,,1921,5018699,1,Valor De Tarifa,Paraguay,
+150,,1922,4342530,1,Valor De Tarifa,Paraguay,
+150,,1923,6611990,1,Valor De Tarifa,Paraguay,
+150,,1924,9511765,1,,Paraguay,
+150,,1925,18406,1000,Valor Real En Oro Sellado,Paraguay,
+150,,1926,12205569,1,Valor Real En Oro Sellado,Paraguay,
+150,,1927,11977918,1,Valor Real En Oro Sellado,Paraguay,
+150,,1928,14306107,1,Valor Real En Oro Sellado,Paraguay,
+150,,1929,13966950,1,Valor Real En Oro Sellado,Paraguay,
+150,,1930,15272153,1,Valor Real En Oro Sellado,Paraguay,
+150,,1931,10083692,1,Valor Real En Oro Sellado,Paraguay,
+150,,1932,6424749,1,Valor Real En Oro Sellado,Paraguay,
+150,,1933,7163803,1,Valor Real En Oro Sellado,Paraguay,
+150,,1934,11348343,1,Valor Real En Oro Sellado,Paraguay,
+150,,1935,11644772,1,Valor Real En Oro Sellado,Paraguay,
+150,,1936,9819625,1,Valor Real En Oro Sellado,Paraguay,
+150,,1937,12548770,1,Valor Real En Oro Sellado,Paraguay,
+150,,1938,13089568,1,Valor Real En Oro Sellado,Paraguay,
+150,,1939,12620853,1,Valor Real En Oro Sellado,Paraguay,
+150,,1940,14911516,1,Oro Sellado,Paraguay,
+150,,1941,12231314,1,Oro Sellado,Paraguay,
+150,,1942,17195692,1,Oro Sellado,Paraguay,
+150,,1943,36854500.80999999,1,Guaranies,Paraguay,
+150,,1944,40056798.31,1,Guaranies,Paraguay,
+150,,1945,54771847.80000002,1,Guaranies,Paraguay,
+150,,1946,65759982.18999998,1,Guaranies,Paraguay,
+150,,1947,68294631.91,1,Guaranies,Paraguay,
+150,,1948,81458,1000,Miles De Guaranies,Paraguay,
+150,,1949,82174,1000,Miles De Guaranies,Paraguay,

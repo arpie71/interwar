@@ -1,0 +1,1654 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+553,2,1929,31965,1,Pounds,Malawi,United States
+553,2,1930,35561,1,Pounds,Malawi,United States
+553,2,1931,19570,1,Pounds,Malawi,United States
+553,2,1932,9421,1,Pounds,Malawi,United States
+553,2,1933,4084,1,Pounds,Malawi,United States
+553,2,1934,18071,1,Pounds,Malawi,United States
+553,2,1935,26770,1,Pounds,Malawi,United States
+553,2,1936,34290,1,Pounds,Malawi,United States
+553,2,1937,42012,1,Pounds,Malawi,United States
+553,2,1938,36422,1,Pounds,Malawi,United States
+553,2,1939,65027,1,Pounds,Malawi,United States
+553,2,1940,63762,1,Pounds,Malawi,United States
+553,2,1941,100376,1,Pounds,Malawi,United States
+553,2,1943,79787,1,Pounds,Malawi,United States
+553,2,1944,180408,1,Pounds,Malawi,United States
+553,2,1946,162489,1,Pounds,Malawi,United States
+553,2,1947,1147057,1,Pounds,Malawi,United States
+553,2,1948,515994,1,Pounds,Malawi,United States
+553,2,1949,331503,1,Pounds,Malawi,United States
+553,20,1929,3884,1,Pounds,Malawi,Canada
+553,20,1930,10693,1,Pounds,Malawi,Canada
+553,20,1931,7846,1,Pounds,Malawi,Canada
+553,20,1932,6555,1,Pounds,Malawi,Canada
+553,20,1933,4118,1,Pounds,Malawi,Canada
+553,20,1934,8655,1,Pounds,Malawi,Canada
+553,20,1935,6520,1,Pounds,Malawi,Canada
+553,20,1936,8668,1,Pounds,Malawi,Canada
+553,20,1937,7908,1,Pounds,Malawi,Canada
+553,20,1938,6209,1,Pounds,Malawi,Canada
+553,20,1939,5950,1,Pounds,Malawi,Canada
+553,20,1940,7776,1,Pounds,Malawi,Canada
+553,20,1941,26952,1,Pounds,Malawi,Canada
+553,20,1943,15438,1,Pounds,Malawi,Canada
+553,20,1944,33919,1,Pounds,Malawi,Canada
+553,20,1946,36839,1,Pounds,Malawi,Canada
+553,20,1947,52233,1,Pounds,Malawi,Canada
+553,20,1948,42676,1,Pounds,Malawi,Canada
+553,20,1949,55991,1,Pounds,Malawi,Canada
+553,40,1929,0,1,Pounds,Malawi,Cuba
+553,40,1930,0,1,Pounds,Malawi,Cuba
+553,40,1931,0,1,Pounds,Malawi,Cuba
+553,40,1932,0,1,Pounds,Malawi,Cuba
+553,40,1933,0,1,Pounds,Malawi,Cuba
+553,40,1934,0,1,Pounds,Malawi,Cuba
+553,40,1935,0,1,Pounds,Malawi,Cuba
+553,40,1936,0,1,Pounds,Malawi,Cuba
+553,40,1937,0,1,Pounds,Malawi,Cuba
+553,40,1938,2,1,Pounds,Malawi,Cuba
+553,40,1939,1,1,Pounds,Malawi,Cuba
+553,40,1940,0,1,Pounds,Malawi,Cuba
+553,40,1941,0,1,Pounds,Malawi,Cuba
+553,40,1943,12,1,Pounds,Malawi,Cuba
+553,40,1944,10,1,Pounds,Malawi,Cuba
+553,40,1946,25,1,Pounds,Malawi,Cuba
+553,40,1947,12,1,Pounds,Malawi,Cuba
+553,40,1948,5,1,Pounds,Malawi,Cuba
+553,40,1949,0,1,Pounds,Malawi,Cuba
+553,51,1929,0,1,Pounds,Malawi,Jamaica
+553,51,1930,0,1,Pounds,Malawi,Jamaica
+553,51,1931,0,1,Pounds,Malawi,Jamaica
+553,51,1932,0,1,Pounds,Malawi,Jamaica
+553,51,1933,0,1,Pounds,Malawi,Jamaica
+553,51,1934,0,1,Pounds,Malawi,Jamaica
+553,51,1935,0,1,Pounds,Malawi,Jamaica
+553,51,1936,0,1,Pounds,Malawi,Jamaica
+553,51,1937,0,1,Pounds,Malawi,Jamaica
+553,51,1938,0,1,Pounds,Malawi,Jamaica
+553,51,1939,0,1,Pounds,Malawi,Jamaica
+553,51,1940,0,1,Pounds,Malawi,Jamaica
+553,51,1941,0,1,Pounds,Malawi,Jamaica
+553,51,1943,0,1,Pounds,Malawi,Jamaica
+553,51,1944,0,1,Pounds,Malawi,Jamaica
+553,51,1946,126,1,Pounds,Malawi,Jamaica
+553,51,1947,0,1,Pounds,Malawi,Jamaica
+553,51,1948,0,1,Pounds,Malawi,Jamaica
+553,51,1949,0,1,Pounds,Malawi,Jamaica
+553,52,1929,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1930,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1931,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1932,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1933,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1934,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1935,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1936,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1937,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1938,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1939,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1940,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1941,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1943,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1944,70,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1946,62,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1947,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1948,0,1,Pounds,Malawi,Trinidad And Tobago
+553,52,1949,0,1,Pounds,Malawi,Trinidad And Tobago
+553,68,1929,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1930,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1931,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1932,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1933,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1934,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1935,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1936,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1937,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1938,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1939,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1940,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1941,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1943,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1944,150,1,Pounds,Malawi,Netherlands Antilles
+553,68,1946,1334,1,Pounds,Malawi,Netherlands Antilles
+553,68,1947,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1948,0,1,Pounds,Malawi,Netherlands Antilles
+553,68,1949,0,1,Pounds,Malawi,Netherlands Antilles
+553,70,1929,0,1,Pounds,Malawi,Mexico
+553,70,1930,0,1,Pounds,Malawi,Mexico
+553,70,1931,0,1,Pounds,Malawi,Mexico
+553,70,1932,0,1,Pounds,Malawi,Mexico
+553,70,1933,0,1,Pounds,Malawi,Mexico
+553,70,1934,0,1,Pounds,Malawi,Mexico
+553,70,1935,0,1,Pounds,Malawi,Mexico
+553,70,1936,0,1,Pounds,Malawi,Mexico
+553,70,1937,0,1,Pounds,Malawi,Mexico
+553,70,1938,0,1,Pounds,Malawi,Mexico
+553,70,1939,0,1,Pounds,Malawi,Mexico
+553,70,1940,0,1,Pounds,Malawi,Mexico
+553,70,1941,0,1,Pounds,Malawi,Mexico
+553,70,1943,0,1,Pounds,Malawi,Mexico
+553,70,1944,0,1,Pounds,Malawi,Mexico
+553,70,1946,0,1,Pounds,Malawi,Mexico
+553,70,1947,810,1,Pounds,Malawi,Mexico
+553,70,1948,5407,1,Pounds,Malawi,Mexico
+553,70,1949,0,1,Pounds,Malawi,Mexico
+553,101,1929,0,1,Pounds,Malawi,Venezuela
+553,101,1930,0,1,Pounds,Malawi,Venezuela
+553,101,1931,0,1,Pounds,Malawi,Venezuela
+553,101,1932,0,1,Pounds,Malawi,Venezuela
+553,101,1933,0,1,Pounds,Malawi,Venezuela
+553,101,1934,0,1,Pounds,Malawi,Venezuela
+553,101,1935,0,1,Pounds,Malawi,Venezuela
+553,101,1936,7,1,Pounds,Malawi,Venezuela
+553,101,1937,0,1,Pounds,Malawi,Venezuela
+553,101,1938,0,1,Pounds,Malawi,Venezuela
+553,101,1939,0,1,Pounds,Malawi,Venezuela
+553,101,1940,0,1,Pounds,Malawi,Venezuela
+553,101,1941,0,1,Pounds,Malawi,Venezuela
+553,101,1943,0,1,Pounds,Malawi,Venezuela
+553,101,1944,0,1,Pounds,Malawi,Venezuela
+553,101,1946,0,1,Pounds,Malawi,Venezuela
+553,101,1947,0,1,Pounds,Malawi,Venezuela
+553,101,1948,0,1,Pounds,Malawi,Venezuela
+553,101,1949,0,1,Pounds,Malawi,Venezuela
+553,110,1929,0,1,Pounds,Malawi,Guyana
+553,110,1930,0,1,Pounds,Malawi,Guyana
+553,110,1931,0,1,Pounds,Malawi,Guyana
+553,110,1932,0,1,Pounds,Malawi,Guyana
+553,110,1933,0,1,Pounds,Malawi,Guyana
+553,110,1934,0,1,Pounds,Malawi,Guyana
+553,110,1935,0,1,Pounds,Malawi,Guyana
+553,110,1936,0,1,Pounds,Malawi,Guyana
+553,110,1937,0,1,Pounds,Malawi,Guyana
+553,110,1938,0,1,Pounds,Malawi,Guyana
+553,110,1939,0,1,Pounds,Malawi,Guyana
+553,110,1940,0,1,Pounds,Malawi,Guyana
+553,110,1941,0,1,Pounds,Malawi,Guyana
+553,110,1943,0,1,Pounds,Malawi,Guyana
+553,110,1944,0,1,Pounds,Malawi,Guyana
+553,110,1946,0,1,Pounds,Malawi,Guyana
+553,110,1947,0,1,Pounds,Malawi,Guyana
+553,110,1948,0,1,Pounds,Malawi,Guyana
+553,110,1949,16,1,Pounds,Malawi,Guyana
+553,135,1929,0,1,Pounds,Malawi,Peru
+553,135,1930,0,1,Pounds,Malawi,Peru
+553,135,1931,0,1,Pounds,Malawi,Peru
+553,135,1932,0,1,Pounds,Malawi,Peru
+553,135,1933,0,1,Pounds,Malawi,Peru
+553,135,1934,0,1,Pounds,Malawi,Peru
+553,135,1935,0,1,Pounds,Malawi,Peru
+553,135,1936,0,1,Pounds,Malawi,Peru
+553,135,1937,2,1,Pounds,Malawi,Peru
+553,135,1938,0,1,Pounds,Malawi,Peru
+553,135,1939,0,1,Pounds,Malawi,Peru
+553,135,1940,0,1,Pounds,Malawi,Peru
+553,135,1941,0,1,Pounds,Malawi,Peru
+553,135,1943,0,1,Pounds,Malawi,Peru
+553,135,1944,0,1,Pounds,Malawi,Peru
+553,135,1946,0,1,Pounds,Malawi,Peru
+553,135,1947,0,1,Pounds,Malawi,Peru
+553,135,1948,0,1,Pounds,Malawi,Peru
+553,135,1949,0,1,Pounds,Malawi,Peru
+553,140,1929,0,1,Pounds,Malawi,Brazil
+553,140,1930,0,1,Pounds,Malawi,Brazil
+553,140,1931,0,1,Pounds,Malawi,Brazil
+553,140,1932,0,1,Pounds,Malawi,Brazil
+553,140,1933,0,1,Pounds,Malawi,Brazil
+553,140,1934,20,1,Pounds,Malawi,Brazil
+553,140,1935,19,1,Pounds,Malawi,Brazil
+553,140,1936,26,1,Pounds,Malawi,Brazil
+553,140,1937,29,1,Pounds,Malawi,Brazil
+553,140,1938,8,1,Pounds,Malawi,Brazil
+553,140,1939,51,1,Pounds,Malawi,Brazil
+553,140,1940,8,1,Pounds,Malawi,Brazil
+553,140,1941,0,1,Pounds,Malawi,Brazil
+553,140,1943,10,1,Pounds,Malawi,Brazil
+553,140,1944,724,1,Pounds,Malawi,Brazil
+553,140,1946,67381,1,Pounds,Malawi,Brazil
+553,140,1947,3651,1,Pounds,Malawi,Brazil
+553,140,1948,4113,1,Pounds,Malawi,Brazil
+553,140,1949,8494,1,Pounds,Malawi,Brazil
+553,150,1929,0,1,Pounds,Malawi,Paraguay
+553,150,1930,0,1,Pounds,Malawi,Paraguay
+553,150,1931,0,1,Pounds,Malawi,Paraguay
+553,150,1932,0,1,Pounds,Malawi,Paraguay
+553,150,1933,0,1,Pounds,Malawi,Paraguay
+553,150,1934,0,1,Pounds,Malawi,Paraguay
+553,150,1935,0,1,Pounds,Malawi,Paraguay
+553,150,1936,0,1,Pounds,Malawi,Paraguay
+553,150,1937,5,1,Pounds,Malawi,Paraguay
+553,150,1938,0,1,Pounds,Malawi,Paraguay
+553,150,1939,0,1,Pounds,Malawi,Paraguay
+553,150,1940,0,1,Pounds,Malawi,Paraguay
+553,150,1941,0,1,Pounds,Malawi,Paraguay
+553,150,1943,0,1,Pounds,Malawi,Paraguay
+553,150,1944,0,1,Pounds,Malawi,Paraguay
+553,150,1946,0,1,Pounds,Malawi,Paraguay
+553,150,1947,0,1,Pounds,Malawi,Paraguay
+553,150,1948,0,1,Pounds,Malawi,Paraguay
+553,150,1949,0,1,Pounds,Malawi,Paraguay
+553,155,1929,0,1,Pounds,Malawi,Chile
+553,155,1930,0,1,Pounds,Malawi,Chile
+553,155,1931,0,1,Pounds,Malawi,Chile
+553,155,1932,0,1,Pounds,Malawi,Chile
+553,155,1933,0,1,Pounds,Malawi,Chile
+553,155,1934,166,1,Pounds,Malawi,Chile
+553,155,1935,0,1,Pounds,Malawi,Chile
+553,155,1936,118,1,Pounds,Malawi,Chile
+553,155,1937,133,1,Pounds,Malawi,Chile
+553,155,1938,72,1,Pounds,Malawi,Chile
+553,155,1939,212,1,Pounds,Malawi,Chile
+553,155,1940,83,1,Pounds,Malawi,Chile
+553,155,1941,165,1,Pounds,Malawi,Chile
+553,155,1943,0,1,Pounds,Malawi,Chile
+553,155,1944,0,1,Pounds,Malawi,Chile
+553,155,1946,0,1,Pounds,Malawi,Chile
+553,155,1947,0,1,Pounds,Malawi,Chile
+553,155,1948,1299,1,Pounds,Malawi,Chile
+553,155,1949,422,1,Pounds,Malawi,Chile
+553,160,1929,0,1,Pounds,Malawi,Argentina
+553,160,1930,0,1,Pounds,Malawi,Argentina
+553,160,1931,0,1,Pounds,Malawi,Argentina
+553,160,1932,0,1,Pounds,Malawi,Argentina
+553,160,1933,0,1,Pounds,Malawi,Argentina
+553,160,1934,11,1,Pounds,Malawi,Argentina
+553,160,1935,24,1,Pounds,Malawi,Argentina
+553,160,1936,32,1,Pounds,Malawi,Argentina
+553,160,1937,105,1,Pounds,Malawi,Argentina
+553,160,1938,16,1,Pounds,Malawi,Argentina
+553,160,1939,60,1,Pounds,Malawi,Argentina
+553,160,1940,62,1,Pounds,Malawi,Argentina
+553,160,1941,50,1,Pounds,Malawi,Argentina
+553,160,1943,729,1,Pounds,Malawi,Argentina
+553,160,1944,2379,1,Pounds,Malawi,Argentina
+553,160,1946,641,1,Pounds,Malawi,Argentina
+553,160,1947,1479,1,Pounds,Malawi,Argentina
+553,160,1948,19,1,Pounds,Malawi,Argentina
+553,160,1949,128,1,Pounds,Malawi,Argentina
+553,165,1929,0,1,Pounds,Malawi,Uruguay
+553,165,1930,0,1,Pounds,Malawi,Uruguay
+553,165,1931,0,1,Pounds,Malawi,Uruguay
+553,165,1932,0,1,Pounds,Malawi,Uruguay
+553,165,1933,0,1,Pounds,Malawi,Uruguay
+553,165,1934,0,1,Pounds,Malawi,Uruguay
+553,165,1935,6,1,Pounds,Malawi,Uruguay
+553,165,1936,4,1,Pounds,Malawi,Uruguay
+553,165,1937,0,1,Pounds,Malawi,Uruguay
+553,165,1938,0,1,Pounds,Malawi,Uruguay
+553,165,1939,0,1,Pounds,Malawi,Uruguay
+553,165,1940,0,1,Pounds,Malawi,Uruguay
+553,165,1941,0,1,Pounds,Malawi,Uruguay
+553,165,1943,0,1,Pounds,Malawi,Uruguay
+553,165,1944,0,1,Pounds,Malawi,Uruguay
+553,165,1946,0,1,Pounds,Malawi,Uruguay
+553,165,1947,0,1,Pounds,Malawi,Uruguay
+553,165,1948,0,1,Pounds,Malawi,Uruguay
+553,165,1949,0,1,Pounds,Malawi,Uruguay
+553,200,1929,269703,1,Pounds,Malawi,United Kingdom
+553,200,1930,258957,1,Pounds,Malawi,United Kingdom
+553,200,1931,302534,1,Pounds,Malawi,United Kingdom
+553,200,1932,409092,1,Pounds,Malawi,United Kingdom
+553,200,1933,341484,1,Pounds,Malawi,United Kingdom
+553,200,1934,251509,1,Pounds,Malawi,United Kingdom
+553,200,1935,307707,1,Pounds,Malawi,United Kingdom
+553,200,1936,432044,1,Pounds,Malawi,United Kingdom
+553,200,1937,430335,1,Pounds,Malawi,United Kingdom
+553,200,1938,381682,1,Pounds,Malawi,United Kingdom
+553,200,1939,335821,1,Pounds,Malawi,United Kingdom
+553,200,1940,388828,1,Pounds,Malawi,United Kingdom
+553,200,1941,378985,1,Pounds,Malawi,United Kingdom
+553,200,1943,302103,1,Pounds,Malawi,United Kingdom
+553,200,1944,370743,1,Pounds,Malawi,United Kingdom
+553,200,1946,887877,1,Pounds,Malawi,United Kingdom
+553,200,1947,1428411,1,Pounds,Malawi,United Kingdom
+553,200,1948,1827554,1,Pounds,Malawi,United Kingdom
+553,200,1949,3019148,1,Pounds,Malawi,United Kingdom
+553,205,1929,0,1,Pounds,Malawi,Ireland
+553,205,1930,0,1,Pounds,Malawi,Ireland
+553,205,1931,0,1,Pounds,Malawi,Ireland
+553,205,1932,0,1,Pounds,Malawi,Ireland
+553,205,1933,0,1,Pounds,Malawi,Ireland
+553,205,1934,102,1,Pounds,Malawi,Ireland
+553,205,1935,38,1,Pounds,Malawi,Ireland
+553,205,1936,29,1,Pounds,Malawi,Ireland
+553,205,1937,68,1,Pounds,Malawi,Ireland
+553,205,1938,0,1,Pounds,Malawi,Ireland
+553,205,1939,463,1,Pounds,Malawi,Ireland
+553,205,1940,67,1,Pounds,Malawi,Ireland
+553,205,1941,0,1,Pounds,Malawi,Ireland
+553,205,1943,56,1,Pounds,Malawi,Ireland
+553,205,1944,40,1,Pounds,Malawi,Ireland
+553,205,1946,0,1,Pounds,Malawi,Ireland
+553,205,1947,0,1,Pounds,Malawi,Ireland
+553,205,1948,0,1,Pounds,Malawi,Ireland
+553,205,1949,327,1,Pounds,Malawi,Ireland
+553,210,1929,18501,1,Pounds,Malawi,Netherlands
+553,210,1930,15404,1,Pounds,Malawi,Netherlands
+553,210,1931,21223,1,Pounds,Malawi,Netherlands
+553,210,1932,10587,1,Pounds,Malawi,Netherlands
+553,210,1933,7432,1,Pounds,Malawi,Netherlands
+553,210,1934,7957,1,Pounds,Malawi,Netherlands
+553,210,1935,3881,1,Pounds,Malawi,Netherlands
+553,210,1936,9008,1,Pounds,Malawi,Netherlands
+553,210,1937,8829,1,Pounds,Malawi,Netherlands
+553,210,1938,10827,1,Pounds,Malawi,Netherlands
+553,210,1939,9937,1,Pounds,Malawi,Netherlands
+553,210,1940,9337,1,Pounds,Malawi,Netherlands
+553,210,1941,128,1,Pounds,Malawi,Netherlands
+553,210,1943,23,1,Pounds,Malawi,Netherlands
+553,210,1944,12,1,Pounds,Malawi,Netherlands
+553,210,1946,3374,1,Pounds,Malawi,Netherlands
+553,210,1947,5492,1,Pounds,Malawi,Netherlands
+553,210,1948,18386,1,Pounds,Malawi,Netherlands
+553,210,1949,26192,1,Pounds,Malawi,Netherlands
+553,211,1929,4503,1,Pounds,Malawi,Belgium
+553,211,1930,16702,1,Pounds,Malawi,Belgium
+553,211,1931,3586,1,Pounds,Malawi,Belgium
+553,211,1932,1558,1,Pounds,Malawi,Belgium
+553,211,1933,3454,1,Pounds,Malawi,Belgium
+553,211,1934,2390,1,Pounds,Malawi,Belgium
+553,211,1935,5269,1,Pounds,Malawi,Belgium
+553,211,1936,9030,1,Pounds,Malawi,Belgium
+553,211,1937,9906,1,Pounds,Malawi,Belgium
+553,211,1938,14462,1,Pounds,Malawi,Belgium
+553,211,1939,10385,1,Pounds,Malawi,Belgium
+553,211,1940,5670,1,Pounds,Malawi,Belgium
+553,211,1941,34,1,Pounds,Malawi,Belgium
+553,211,1943,0,1,Pounds,Malawi,Belgium
+553,211,1944,9,1,Pounds,Malawi,Belgium
+553,211,1946,4988,1,Pounds,Malawi,Belgium
+553,211,1947,64341,1,Pounds,Malawi,Belgium
+553,211,1948,84503,1,Pounds,Malawi,Belgium
+553,211,1949,23215,1,Pounds,Malawi,Belgium
+553,212,1929,0,1,Pounds,Malawi,Luxembourg
+553,212,1930,0,1,Pounds,Malawi,Luxembourg
+553,212,1931,0,1,Pounds,Malawi,Luxembourg
+553,212,1932,0,1,Pounds,Malawi,Luxembourg
+553,212,1933,0,1,Pounds,Malawi,Luxembourg
+553,212,1934,0,1,Pounds,Malawi,Luxembourg
+553,212,1935,0,1,Pounds,Malawi,Luxembourg
+553,212,1936,0,1,Pounds,Malawi,Luxembourg
+553,212,1937,0,1,Pounds,Malawi,Luxembourg
+553,212,1938,0,1,Pounds,Malawi,Luxembourg
+553,212,1939,0,1,Pounds,Malawi,Luxembourg
+553,212,1940,0,1,Pounds,Malawi,Luxembourg
+553,212,1941,0,1,Pounds,Malawi,Luxembourg
+553,212,1943,0,1,Pounds,Malawi,Luxembourg
+553,212,1944,0,1,Pounds,Malawi,Luxembourg
+553,212,1946,0,1,Pounds,Malawi,Luxembourg
+553,212,1947,102,1,Pounds,Malawi,Luxembourg
+553,212,1948,0,1,Pounds,Malawi,Luxembourg
+553,212,1949,0,1,Pounds,Malawi,Luxembourg
+553,220,1929,7411,1,Pounds,Malawi,France
+553,220,1930,4928,1,Pounds,Malawi,France
+553,220,1931,5887,1,Pounds,Malawi,France
+553,220,1932,4492,1,Pounds,Malawi,France
+553,220,1933,3791,1,Pounds,Malawi,France
+553,220,1934,4382,1,Pounds,Malawi,France
+553,220,1935,5065,1,Pounds,Malawi,France
+553,220,1936,4285,1,Pounds,Malawi,France
+553,220,1937,4377,1,Pounds,Malawi,France
+553,220,1938,5601,1,Pounds,Malawi,France
+553,220,1939,4930,1,Pounds,Malawi,France
+553,220,1940,4199,1,Pounds,Malawi,France
+553,220,1941,485,1,Pounds,Malawi,France
+553,220,1943,31,1,Pounds,Malawi,France
+553,220,1944,0,1,Pounds,Malawi,France
+553,220,1946,1844,1,Pounds,Malawi,France
+553,220,1947,23507,1,Pounds,Malawi,France
+553,220,1948,10645,1,Pounds,Malawi,France
+553,220,1949,21953,1,Pounds,Malawi,France
+553,225,1929,0,1,Pounds,Malawi,Switzerland
+553,225,1930,0,1,Pounds,Malawi,Switzerland
+553,225,1931,0,1,Pounds,Malawi,Switzerland
+553,225,1932,0,1,Pounds,Malawi,Switzerland
+553,225,1933,0,1,Pounds,Malawi,Switzerland
+553,225,1934,122,1,Pounds,Malawi,Switzerland
+553,225,1935,71,1,Pounds,Malawi,Switzerland
+553,225,1936,253,1,Pounds,Malawi,Switzerland
+553,225,1937,112,1,Pounds,Malawi,Switzerland
+553,225,1938,58,1,Pounds,Malawi,Switzerland
+553,225,1939,191,1,Pounds,Malawi,Switzerland
+553,225,1940,46,1,Pounds,Malawi,Switzerland
+553,225,1941,14,1,Pounds,Malawi,Switzerland
+553,225,1943,995,1,Pounds,Malawi,Switzerland
+553,225,1944,898,1,Pounds,Malawi,Switzerland
+553,225,1946,808,1,Pounds,Malawi,Switzerland
+553,225,1947,1122,1,Pounds,Malawi,Switzerland
+553,225,1948,328,1,Pounds,Malawi,Switzerland
+553,225,1949,2527,1,Pounds,Malawi,Switzerland
+553,230,1929,0,1,Pounds,Malawi,Spain
+553,230,1930,0,1,Pounds,Malawi,Spain
+553,230,1931,0,1,Pounds,Malawi,Spain
+553,230,1932,0,1,Pounds,Malawi,Spain
+553,230,1933,0,1,Pounds,Malawi,Spain
+553,230,1934,1087,1,Pounds,Malawi,Spain
+553,230,1935,1055,1,Pounds,Malawi,Spain
+553,230,1936,1184,1,Pounds,Malawi,Spain
+553,230,1937,966,1,Pounds,Malawi,Spain
+553,230,1938,1230,1,Pounds,Malawi,Spain
+553,230,1939,910,1,Pounds,Malawi,Spain
+553,230,1940,1029,1,Pounds,Malawi,Spain
+553,230,1941,481,1,Pounds,Malawi,Spain
+553,230,1943,836,1,Pounds,Malawi,Spain
+553,230,1944,224,1,Pounds,Malawi,Spain
+553,230,1946,804,1,Pounds,Malawi,Spain
+553,230,1947,10402,1,Pounds,Malawi,Spain
+553,230,1948,1614,1,Pounds,Malawi,Spain
+553,230,1949,3682,1,Pounds,Malawi,Spain
+553,235,1929,83,1,Pounds,Malawi,Portugal
+553,235,1930,311,1,Pounds,Malawi,Portugal
+553,235,1931,502,1,Pounds,Malawi,Portugal
+553,235,1932,1543,1,Pounds,Malawi,Portugal
+553,235,1933,514,1,Pounds,Malawi,Portugal
+553,235,1934,2666,1,Pounds,Malawi,Portugal
+553,235,1935,2267,1,Pounds,Malawi,Portugal
+553,235,1936,568,1,Pounds,Malawi,Portugal
+553,235,1937,666,1,Pounds,Malawi,Portugal
+553,235,1938,497,1,Pounds,Malawi,Portugal
+553,235,1939,563,1,Pounds,Malawi,Portugal
+553,235,1940,4566,1,Pounds,Malawi,Portugal
+553,235,1941,3811,1,Pounds,Malawi,Portugal
+553,235,1943,176138,1,Pounds,Malawi,Portugal
+553,235,1944,77595,1,Pounds,Malawi,Portugal
+553,235,1946,78582,1,Pounds,Malawi,Portugal
+553,235,1947,44194,1,Pounds,Malawi,Portugal
+553,235,1948,13523,1,Pounds,Malawi,Portugal
+553,235,1949,19532,1,Pounds,Malawi,Portugal
+553,255,1929,78466,1,Pounds,Malawi,Germany
+553,255,1930,67568,1,Pounds,Malawi,Germany
+553,255,1931,47669,1,Pounds,Malawi,Germany
+553,255,1932,23614,1,Pounds,Malawi,Germany
+553,255,1933,15941,1,Pounds,Malawi,Germany
+553,255,1934,8860,1,Pounds,Malawi,Germany
+553,255,1935,13422,1,Pounds,Malawi,Germany
+553,255,1936,19345,1,Pounds,Malawi,Germany
+553,255,1937,21120,1,Pounds,Malawi,Germany
+553,255,1938,18560,1,Pounds,Malawi,Germany
+553,255,1939,18983,1,Pounds,Malawi,Germany
+553,255,1940,681,1,Pounds,Malawi,Germany
+553,255,1941,42,1,Pounds,Malawi,Germany
+553,255,1943,55,1,Pounds,Malawi,Germany
+553,255,1944,72,1,Pounds,Malawi,Germany
+553,255,1946,59,1,Pounds,Malawi,Germany
+553,255,1947,149,1,Pounds,Malawi,Germany
+553,255,1948,2618,1,Pounds,Malawi,Germany
+553,255,1949,10661,1,Pounds,Malawi,Germany
+553,290,1929,0,1,Pounds,Malawi,Poland
+553,290,1930,0,1,Pounds,Malawi,Poland
+553,290,1931,0,1,Pounds,Malawi,Poland
+553,290,1932,0,1,Pounds,Malawi,Poland
+553,290,1933,0,1,Pounds,Malawi,Poland
+553,290,1934,31,1,Pounds,Malawi,Poland
+553,290,1935,28,1,Pounds,Malawi,Poland
+553,290,1936,132,1,Pounds,Malawi,Poland
+553,290,1937,6,1,Pounds,Malawi,Poland
+553,290,1938,128,1,Pounds,Malawi,Poland
+553,290,1939,436,1,Pounds,Malawi,Poland
+553,290,1940,0,1,Pounds,Malawi,Poland
+553,290,1941,0,1,Pounds,Malawi,Poland
+553,290,1943,0,1,Pounds,Malawi,Poland
+553,290,1944,0,1,Pounds,Malawi,Poland
+553,290,1946,0,1,Pounds,Malawi,Poland
+553,290,1947,1962,1,Pounds,Malawi,Poland
+553,290,1948,0,1,Pounds,Malawi,Poland
+553,290,1949,4270,1,Pounds,Malawi,Poland
+553,305,1929,0,1,Pounds,Malawi,Austria
+553,305,1930,0,1,Pounds,Malawi,Austria
+553,305,1931,0,1,Pounds,Malawi,Austria
+553,305,1932,0,1,Pounds,Malawi,Austria
+553,305,1933,0,1,Pounds,Malawi,Austria
+553,305,1934,83,1,Pounds,Malawi,Austria
+553,305,1935,87,1,Pounds,Malawi,Austria
+553,305,1936,39,1,Pounds,Malawi,Austria
+553,305,1937,626,1,Pounds,Malawi,Austria
+553,305,1938,148,1,Pounds,Malawi,Austria
+553,305,1939,0,1,Pounds,Malawi,Austria
+553,305,1940,0,1,Pounds,Malawi,Austria
+553,305,1941,0,1,Pounds,Malawi,Austria
+553,305,1943,0,1,Pounds,Malawi,Austria
+553,305,1944,3,1,Pounds,Malawi,Austria
+553,305,1946,25,1,Pounds,Malawi,Austria
+553,305,1947,0,1,Pounds,Malawi,Austria
+553,305,1948,1,1,Pounds,Malawi,Austria
+553,305,1949,16836,1,Pounds,Malawi,Austria
+553,310,1929,0,1,Pounds,Malawi,Hungary
+553,310,1930,0,1,Pounds,Malawi,Hungary
+553,310,1931,0,1,Pounds,Malawi,Hungary
+553,310,1932,0,1,Pounds,Malawi,Hungary
+553,310,1933,0,1,Pounds,Malawi,Hungary
+553,310,1934,1687,1,Pounds,Malawi,Hungary
+553,310,1935,890,1,Pounds,Malawi,Hungary
+553,310,1936,175,1,Pounds,Malawi,Hungary
+553,310,1937,578,1,Pounds,Malawi,Hungary
+553,310,1938,969,1,Pounds,Malawi,Hungary
+553,310,1939,35,1,Pounds,Malawi,Hungary
+553,310,1940,472,1,Pounds,Malawi,Hungary
+553,310,1941,0,1,Pounds,Malawi,Hungary
+553,310,1943,0,1,Pounds,Malawi,Hungary
+553,310,1944,0,1,Pounds,Malawi,Hungary
+553,310,1946,0,1,Pounds,Malawi,Hungary
+553,310,1947,1558,1,Pounds,Malawi,Hungary
+553,310,1948,35028,1,Pounds,Malawi,Hungary
+553,310,1949,4546,1,Pounds,Malawi,Hungary
+553,315,1929,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1930,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1931,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1932,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1933,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1934,2116,1,Pounds,Malawi,Czechoslovakia
+553,315,1935,1064,1,Pounds,Malawi,Czechoslovakia
+553,315,1936,3736,1,Pounds,Malawi,Czechoslovakia
+553,315,1937,2300,1,Pounds,Malawi,Czechoslovakia
+553,315,1938,4832,1,Pounds,Malawi,Czechoslovakia
+553,315,1939,2134,1,Pounds,Malawi,Czechoslovakia
+553,315,1940,957,1,Pounds,Malawi,Czechoslovakia
+553,315,1941,265,1,Pounds,Malawi,Czechoslovakia
+553,315,1943,0,1,Pounds,Malawi,Czechoslovakia
+553,315,1944,2,1,Pounds,Malawi,Czechoslovakia
+553,315,1946,47,1,Pounds,Malawi,Czechoslovakia
+553,315,1947,8043,1,Pounds,Malawi,Czechoslovakia
+553,315,1948,22315,1,Pounds,Malawi,Czechoslovakia
+553,315,1949,15918,1,Pounds,Malawi,Czechoslovakia
+553,325,1929,12880,1,Pounds,Malawi,Italy
+553,325,1930,15012,1,Pounds,Malawi,Italy
+553,325,1931,10730,1,Pounds,Malawi,Italy
+553,325,1932,7959,1,Pounds,Malawi,Italy
+553,325,1933,9219,1,Pounds,Malawi,Italy
+553,325,1934,7439,1,Pounds,Malawi,Italy
+553,325,1935,8730,1,Pounds,Malawi,Italy
+553,325,1936,3450,1,Pounds,Malawi,Italy
+553,325,1937,9945,1,Pounds,Malawi,Italy
+553,325,1938,6874,1,Pounds,Malawi,Italy
+553,325,1939,7789,1,Pounds,Malawi,Italy
+553,325,1940,5072,1,Pounds,Malawi,Italy
+553,325,1941,127,1,Pounds,Malawi,Italy
+553,325,1943,0,1,Pounds,Malawi,Italy
+553,325,1944,50,1,Pounds,Malawi,Italy
+553,325,1946,33470,1,Pounds,Malawi,Italy
+553,325,1947,81343,1,Pounds,Malawi,Italy
+553,325,1948,61169,1,Pounds,Malawi,Italy
+553,325,1949,102659,1,Pounds,Malawi,Italy
+553,345,1929,0,1,Pounds,Malawi,Yugoslavia
+553,345,1930,0,1,Pounds,Malawi,Yugoslavia
+553,345,1931,0,1,Pounds,Malawi,Yugoslavia
+553,345,1932,0,1,Pounds,Malawi,Yugoslavia
+553,345,1933,0,1,Pounds,Malawi,Yugoslavia
+553,345,1934,163,1,Pounds,Malawi,Yugoslavia
+553,345,1935,186,1,Pounds,Malawi,Yugoslavia
+553,345,1936,406,1,Pounds,Malawi,Yugoslavia
+553,345,1937,109,1,Pounds,Malawi,Yugoslavia
+553,345,1938,1847,1,Pounds,Malawi,Yugoslavia
+553,345,1939,3425,1,Pounds,Malawi,Yugoslavia
+553,345,1940,2127,1,Pounds,Malawi,Yugoslavia
+553,345,1941,19,1,Pounds,Malawi,Yugoslavia
+553,345,1943,0,1,Pounds,Malawi,Yugoslavia
+553,345,1944,0,1,Pounds,Malawi,Yugoslavia
+553,345,1946,0,1,Pounds,Malawi,Yugoslavia
+553,345,1947,0,1,Pounds,Malawi,Yugoslavia
+553,345,1948,0,1,Pounds,Malawi,Yugoslavia
+553,345,1949,0,1,Pounds,Malawi,Yugoslavia
+553,350,1929,0,1,Pounds,Malawi,Greece
+553,350,1930,0,1,Pounds,Malawi,Greece
+553,350,1931,0,1,Pounds,Malawi,Greece
+553,350,1932,0,1,Pounds,Malawi,Greece
+553,350,1933,0,1,Pounds,Malawi,Greece
+553,350,1934,64,1,Pounds,Malawi,Greece
+553,350,1935,92,1,Pounds,Malawi,Greece
+553,350,1936,93,1,Pounds,Malawi,Greece
+553,350,1937,231,1,Pounds,Malawi,Greece
+553,350,1938,157,1,Pounds,Malawi,Greece
+553,350,1939,234,1,Pounds,Malawi,Greece
+553,350,1940,40,1,Pounds,Malawi,Greece
+553,350,1941,11,1,Pounds,Malawi,Greece
+553,350,1943,2,1,Pounds,Malawi,Greece
+553,350,1944,0,1,Pounds,Malawi,Greece
+553,350,1946,0,1,Pounds,Malawi,Greece
+553,350,1947,0,1,Pounds,Malawi,Greece
+553,350,1948,199,1,Pounds,Malawi,Greece
+553,350,1949,11,1,Pounds,Malawi,Greece
+553,352,1929,0,1,Pounds,Malawi,Cyprus
+553,352,1930,0,1,Pounds,Malawi,Cyprus
+553,352,1931,0,1,Pounds,Malawi,Cyprus
+553,352,1932,0,1,Pounds,Malawi,Cyprus
+553,352,1933,0,1,Pounds,Malawi,Cyprus
+553,352,1934,0,1,Pounds,Malawi,Cyprus
+553,352,1935,0,1,Pounds,Malawi,Cyprus
+553,352,1936,0,1,Pounds,Malawi,Cyprus
+553,352,1937,0,1,Pounds,Malawi,Cyprus
+553,352,1938,0,1,Pounds,Malawi,Cyprus
+553,352,1939,0,1,Pounds,Malawi,Cyprus
+553,352,1940,103,1,Pounds,Malawi,Cyprus
+553,352,1941,0,1,Pounds,Malawi,Cyprus
+553,352,1943,0,1,Pounds,Malawi,Cyprus
+553,352,1944,0,1,Pounds,Malawi,Cyprus
+553,352,1946,116,1,Pounds,Malawi,Cyprus
+553,352,1947,3,1,Pounds,Malawi,Cyprus
+553,352,1948,67,1,Pounds,Malawi,Cyprus
+553,352,1949,469,1,Pounds,Malawi,Cyprus
+553,355,1929,0,1,Pounds,Malawi,Bulgaria
+553,355,1930,0,1,Pounds,Malawi,Bulgaria
+553,355,1931,0,1,Pounds,Malawi,Bulgaria
+553,355,1932,0,1,Pounds,Malawi,Bulgaria
+553,355,1933,0,1,Pounds,Malawi,Bulgaria
+553,355,1934,0,1,Pounds,Malawi,Bulgaria
+553,355,1935,0,1,Pounds,Malawi,Bulgaria
+553,355,1936,0,1,Pounds,Malawi,Bulgaria
+553,355,1937,6,1,Pounds,Malawi,Bulgaria
+553,355,1938,0,1,Pounds,Malawi,Bulgaria
+553,355,1939,0,1,Pounds,Malawi,Bulgaria
+553,355,1940,0,1,Pounds,Malawi,Bulgaria
+553,355,1941,0,1,Pounds,Malawi,Bulgaria
+553,355,1943,0,1,Pounds,Malawi,Bulgaria
+553,355,1944,0,1,Pounds,Malawi,Bulgaria
+553,355,1946,0,1,Pounds,Malawi,Bulgaria
+553,355,1947,0,1,Pounds,Malawi,Bulgaria
+553,355,1948,0,1,Pounds,Malawi,Bulgaria
+553,355,1949,0,1,Pounds,Malawi,Bulgaria
+553,365,1929,0,1,Pounds,Malawi,Russia
+553,365,1930,0,1,Pounds,Malawi,Russia
+553,365,1931,0,1,Pounds,Malawi,Russia
+553,365,1932,0,1,Pounds,Malawi,Russia
+553,365,1933,0,1,Pounds,Malawi,Russia
+553,365,1934,196,1,Pounds,Malawi,Russia
+553,365,1935,683,1,Pounds,Malawi,Russia
+553,365,1936,280,1,Pounds,Malawi,Russia
+553,365,1937,248,1,Pounds,Malawi,Russia
+553,365,1938,390,1,Pounds,Malawi,Russia
+553,365,1939,96,1,Pounds,Malawi,Russia
+553,365,1940,190,1,Pounds,Malawi,Russia
+553,365,1941,50,1,Pounds,Malawi,Russia
+553,365,1943,0,1,Pounds,Malawi,Russia
+553,365,1944,21,1,Pounds,Malawi,Russia
+553,365,1946,0,1,Pounds,Malawi,Russia
+553,365,1947,0,1,Pounds,Malawi,Russia
+553,365,1948,0,1,Pounds,Malawi,Russia
+553,365,1949,0,1,Pounds,Malawi,Russia
+553,366,1929,0,1,Pounds,Malawi,Estonia
+553,366,1930,0,1,Pounds,Malawi,Estonia
+553,366,1931,0,1,Pounds,Malawi,Estonia
+553,366,1932,0,1,Pounds,Malawi,Estonia
+553,366,1933,0,1,Pounds,Malawi,Estonia
+553,366,1934,525,1,Pounds,Malawi,Estonia
+553,366,1935,0,1,Pounds,Malawi,Estonia
+553,366,1936,0,1,Pounds,Malawi,Estonia
+553,366,1937,1,1,Pounds,Malawi,Estonia
+553,366,1938,0,1,Pounds,Malawi,Estonia
+553,366,1939,242,1,Pounds,Malawi,Estonia
+553,366,1940,1772,1,Pounds,Malawi,Estonia
+553,366,1941,0,1,Pounds,Malawi,Estonia
+553,366,1943,0,1,Pounds,Malawi,Estonia
+553,366,1944,0,1,Pounds,Malawi,Estonia
+553,366,1946,0,1,Pounds,Malawi,Estonia
+553,366,1947,0,1,Pounds,Malawi,Estonia
+553,366,1948,0,1,Pounds,Malawi,Estonia
+553,366,1949,0,1,Pounds,Malawi,Estonia
+553,367,1929,0,1,Pounds,Malawi,Latvia
+553,367,1930,0,1,Pounds,Malawi,Latvia
+553,367,1931,0,1,Pounds,Malawi,Latvia
+553,367,1932,0,1,Pounds,Malawi,Latvia
+553,367,1933,0,1,Pounds,Malawi,Latvia
+553,367,1934,4,1,Pounds,Malawi,Latvia
+553,367,1935,6,1,Pounds,Malawi,Latvia
+553,367,1936,8,1,Pounds,Malawi,Latvia
+553,367,1937,29,1,Pounds,Malawi,Latvia
+553,367,1938,48,1,Pounds,Malawi,Latvia
+553,367,1939,38,1,Pounds,Malawi,Latvia
+553,367,1940,1530,1,Pounds,Malawi,Latvia
+553,367,1941,0,1,Pounds,Malawi,Latvia
+553,367,1943,0,1,Pounds,Malawi,Latvia
+553,367,1944,0,1,Pounds,Malawi,Latvia
+553,367,1946,0,1,Pounds,Malawi,Latvia
+553,367,1947,0,1,Pounds,Malawi,Latvia
+553,367,1948,0,1,Pounds,Malawi,Latvia
+553,367,1949,0,1,Pounds,Malawi,Latvia
+553,368,1929,0,1,Pounds,Malawi,Lithuania
+553,368,1930,0,1,Pounds,Malawi,Lithuania
+553,368,1931,0,1,Pounds,Malawi,Lithuania
+553,368,1932,0,1,Pounds,Malawi,Lithuania
+553,368,1933,0,1,Pounds,Malawi,Lithuania
+553,368,1934,0,1,Pounds,Malawi,Lithuania
+553,368,1935,4,1,Pounds,Malawi,Lithuania
+553,368,1936,0,1,Pounds,Malawi,Lithuania
+553,368,1937,7,1,Pounds,Malawi,Lithuania
+553,368,1938,0,1,Pounds,Malawi,Lithuania
+553,368,1939,0,1,Pounds,Malawi,Lithuania
+553,368,1940,0,1,Pounds,Malawi,Lithuania
+553,368,1941,0,1,Pounds,Malawi,Lithuania
+553,368,1943,0,1,Pounds,Malawi,Lithuania
+553,368,1944,0,1,Pounds,Malawi,Lithuania
+553,368,1946,0,1,Pounds,Malawi,Lithuania
+553,368,1947,0,1,Pounds,Malawi,Lithuania
+553,368,1948,0,1,Pounds,Malawi,Lithuania
+553,368,1949,0,1,Pounds,Malawi,Lithuania
+553,375,1929,0,1,Pounds,Malawi,Finland
+553,375,1930,0,1,Pounds,Malawi,Finland
+553,375,1931,0,1,Pounds,Malawi,Finland
+553,375,1932,0,1,Pounds,Malawi,Finland
+553,375,1933,0,1,Pounds,Malawi,Finland
+553,375,1934,872,1,Pounds,Malawi,Finland
+553,375,1935,1119,1,Pounds,Malawi,Finland
+553,375,1936,1519,1,Pounds,Malawi,Finland
+553,375,1937,1529,1,Pounds,Malawi,Finland
+553,375,1938,3635,1,Pounds,Malawi,Finland
+553,375,1939,1956,1,Pounds,Malawi,Finland
+553,375,1940,813,1,Pounds,Malawi,Finland
+553,375,1941,43,1,Pounds,Malawi,Finland
+553,375,1943,0,1,Pounds,Malawi,Finland
+553,375,1944,0,1,Pounds,Malawi,Finland
+553,375,1946,0,1,Pounds,Malawi,Finland
+553,375,1947,0,1,Pounds,Malawi,Finland
+553,375,1948,223,1,Pounds,Malawi,Finland
+553,375,1949,10208,1,Pounds,Malawi,Finland
+553,380,1929,597,1,Pounds,Malawi,Sweden
+553,380,1930,1390,1,Pounds,Malawi,Sweden
+553,380,1931,2028,1,Pounds,Malawi,Sweden
+553,380,1932,898,1,Pounds,Malawi,Sweden
+553,380,1933,1146,1,Pounds,Malawi,Sweden
+553,380,1934,1974,1,Pounds,Malawi,Sweden
+553,380,1935,1449,1,Pounds,Malawi,Sweden
+553,380,1936,2149,1,Pounds,Malawi,Sweden
+553,380,1937,2579,1,Pounds,Malawi,Sweden
+553,380,1938,2648,1,Pounds,Malawi,Sweden
+553,380,1939,2762,1,Pounds,Malawi,Sweden
+553,380,1940,3914,1,Pounds,Malawi,Sweden
+553,380,1941,369,1,Pounds,Malawi,Sweden
+553,380,1943,608,1,Pounds,Malawi,Sweden
+553,380,1944,1184,1,Pounds,Malawi,Sweden
+553,380,1946,27426,1,Pounds,Malawi,Sweden
+553,380,1947,12567,1,Pounds,Malawi,Sweden
+553,380,1948,15858,1,Pounds,Malawi,Sweden
+553,380,1949,51104,1,Pounds,Malawi,Sweden
+553,385,1929,0,1,Pounds,Malawi,Norway
+553,385,1930,0,1,Pounds,Malawi,Norway
+553,385,1931,0,1,Pounds,Malawi,Norway
+553,385,1932,0,1,Pounds,Malawi,Norway
+553,385,1933,0,1,Pounds,Malawi,Norway
+553,385,1934,152,1,Pounds,Malawi,Norway
+553,385,1935,200,1,Pounds,Malawi,Norway
+553,385,1936,295,1,Pounds,Malawi,Norway
+553,385,1937,356,1,Pounds,Malawi,Norway
+553,385,1938,308,1,Pounds,Malawi,Norway
+553,385,1939,324,1,Pounds,Malawi,Norway
+553,385,1940,1069,1,Pounds,Malawi,Norway
+553,385,1941,158,1,Pounds,Malawi,Norway
+553,385,1943,0,1,Pounds,Malawi,Norway
+553,385,1944,0,1,Pounds,Malawi,Norway
+553,385,1946,879,1,Pounds,Malawi,Norway
+553,385,1947,1017,1,Pounds,Malawi,Norway
+553,385,1948,938,1,Pounds,Malawi,Norway
+553,385,1949,1834,1,Pounds,Malawi,Norway
+553,390,1929,0,1,Pounds,Malawi,Denmark
+553,390,1930,0,1,Pounds,Malawi,Denmark
+553,390,1931,0,1,Pounds,Malawi,Denmark
+553,390,1932,0,1,Pounds,Malawi,Denmark
+553,390,1933,0,1,Pounds,Malawi,Denmark
+553,390,1934,46,1,Pounds,Malawi,Denmark
+553,390,1935,66,1,Pounds,Malawi,Denmark
+553,390,1936,96,1,Pounds,Malawi,Denmark
+553,390,1937,158,1,Pounds,Malawi,Denmark
+553,390,1938,101,1,Pounds,Malawi,Denmark
+553,390,1939,235,1,Pounds,Malawi,Denmark
+553,390,1940,70,1,Pounds,Malawi,Denmark
+553,390,1941,66,1,Pounds,Malawi,Denmark
+553,390,1943,0,1,Pounds,Malawi,Denmark
+553,390,1944,0,1,Pounds,Malawi,Denmark
+553,390,1946,0,1,Pounds,Malawi,Denmark
+553,390,1947,858,1,Pounds,Malawi,Denmark
+553,390,1948,393,1,Pounds,Malawi,Denmark
+553,390,1949,2853,1,Pounds,Malawi,Denmark
+553,401,1929,0,1,Pounds,Malawi,Madeira
+553,401,1930,0,1,Pounds,Malawi,Madeira
+553,401,1931,0,1,Pounds,Malawi,Madeira
+553,401,1932,0,1,Pounds,Malawi,Madeira
+553,401,1933,0,1,Pounds,Malawi,Madeira
+553,401,1934,3,1,Pounds,Malawi,Madeira
+553,401,1935,0,1,Pounds,Malawi,Madeira
+553,401,1936,0,1,Pounds,Malawi,Madeira
+553,401,1937,0,1,Pounds,Malawi,Madeira
+553,401,1938,0,1,Pounds,Malawi,Madeira
+553,401,1939,0,1,Pounds,Malawi,Madeira
+553,401,1940,0,1,Pounds,Malawi,Madeira
+553,401,1941,52,1,Pounds,Malawi,Madeira
+553,401,1943,2,1,Pounds,Malawi,Madeira
+553,401,1944,108,1,Pounds,Malawi,Madeira
+553,401,1946,0,1,Pounds,Malawi,Madeira
+553,401,1947,61,1,Pounds,Malawi,Madeira
+553,401,1948,0,1,Pounds,Malawi,Madeira
+553,401,1949,0,1,Pounds,Malawi,Madeira
+553,451,1929,0,1,Pounds,Malawi,Sierra Leone
+553,451,1930,0,1,Pounds,Malawi,Sierra Leone
+553,451,1931,0,1,Pounds,Malawi,Sierra Leone
+553,451,1932,0,1,Pounds,Malawi,Sierra Leone
+553,451,1933,0,1,Pounds,Malawi,Sierra Leone
+553,451,1934,0,1,Pounds,Malawi,Sierra Leone
+553,451,1935,0,1,Pounds,Malawi,Sierra Leone
+553,451,1936,0,1,Pounds,Malawi,Sierra Leone
+553,451,1937,0,1,Pounds,Malawi,Sierra Leone
+553,451,1938,0,1,Pounds,Malawi,Sierra Leone
+553,451,1939,22,1,Pounds,Malawi,Sierra Leone
+553,451,1940,0,1,Pounds,Malawi,Sierra Leone
+553,451,1941,0,1,Pounds,Malawi,Sierra Leone
+553,451,1943,0,1,Pounds,Malawi,Sierra Leone
+553,451,1944,0,1,Pounds,Malawi,Sierra Leone
+553,451,1946,0,1,Pounds,Malawi,Sierra Leone
+553,451,1947,0,1,Pounds,Malawi,Sierra Leone
+553,451,1948,0,1,Pounds,Malawi,Sierra Leone
+553,451,1949,0,1,Pounds,Malawi,Sierra Leone
+553,452,1929,0,1,Pounds,Malawi,Ghana
+553,452,1930,0,1,Pounds,Malawi,Ghana
+553,452,1931,0,1,Pounds,Malawi,Ghana
+553,452,1932,0,1,Pounds,Malawi,Ghana
+553,452,1933,0,1,Pounds,Malawi,Ghana
+553,452,1934,0,1,Pounds,Malawi,Ghana
+553,452,1935,0,1,Pounds,Malawi,Ghana
+553,452,1936,0,1,Pounds,Malawi,Ghana
+553,452,1937,100,1,Pounds,Malawi,Ghana
+553,452,1938,0,1,Pounds,Malawi,Ghana
+553,452,1939,0,1,Pounds,Malawi,Ghana
+553,452,1940,0,1,Pounds,Malawi,Ghana
+553,452,1941,0,1,Pounds,Malawi,Ghana
+553,452,1943,6,1,Pounds,Malawi,Ghana
+553,452,1944,0,1,Pounds,Malawi,Ghana
+553,452,1946,0,1,Pounds,Malawi,Ghana
+553,452,1947,0,1,Pounds,Malawi,Ghana
+553,452,1948,0,1,Pounds,Malawi,Ghana
+553,452,1949,0,1,Pounds,Malawi,Ghana
+553,475,1929,0,1,Pounds,Malawi,Nigeria
+553,475,1930,0,1,Pounds,Malawi,Nigeria
+553,475,1931,0,1,Pounds,Malawi,Nigeria
+553,475,1932,0,1,Pounds,Malawi,Nigeria
+553,475,1933,0,1,Pounds,Malawi,Nigeria
+553,475,1934,0,1,Pounds,Malawi,Nigeria
+553,475,1935,0,1,Pounds,Malawi,Nigeria
+553,475,1936,0,1,Pounds,Malawi,Nigeria
+553,475,1937,0,1,Pounds,Malawi,Nigeria
+553,475,1938,12,1,Pounds,Malawi,Nigeria
+553,475,1939,0,1,Pounds,Malawi,Nigeria
+553,475,1940,0,1,Pounds,Malawi,Nigeria
+553,475,1941,0,1,Pounds,Malawi,Nigeria
+553,475,1943,0,1,Pounds,Malawi,Nigeria
+553,475,1944,0,1,Pounds,Malawi,Nigeria
+553,475,1946,0,1,Pounds,Malawi,Nigeria
+553,475,1947,0,1,Pounds,Malawi,Nigeria
+553,475,1948,0,1,Pounds,Malawi,Nigeria
+553,475,1949,0,1,Pounds,Malawi,Nigeria
+553,484,1929,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1930,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1931,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1932,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1933,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1934,30,1,Pounds,Malawi,"Congo, Republic"
+553,484,1935,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1936,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1937,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1938,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1939,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1940,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1941,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1943,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1944,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1946,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1947,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1948,0,1,Pounds,Malawi,"Congo, Republic"
+553,484,1949,0,1,Pounds,Malawi,"Congo, Republic"
+553,490,1929,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1930,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1931,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1932,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1933,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1934,95,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1935,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1936,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1937,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1938,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1939,0,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1940,5,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1941,24,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1943,2745,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1944,10187,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1946,18052,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1947,19236,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1948,26508,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,490,1949,8816,1,Pounds,Malawi,"Congo, Dem. Republic"
+553,500,1929,0,1,Pounds,Malawi,Uganda
+553,500,1930,0,1,Pounds,Malawi,Uganda
+553,500,1931,0,1,Pounds,Malawi,Uganda
+553,500,1932,0,1,Pounds,Malawi,Uganda
+553,500,1933,0,1,Pounds,Malawi,Uganda
+553,500,1934,50,1,Pounds,Malawi,Uganda
+553,500,1935,0,1,Pounds,Malawi,Uganda
+553,500,1936,0,1,Pounds,Malawi,Uganda
+553,500,1937,123,1,Pounds,Malawi,Uganda
+553,500,1938,0,1,Pounds,Malawi,Uganda
+553,500,1939,0,1,Pounds,Malawi,Uganda
+553,500,1940,0,1,Pounds,Malawi,Uganda
+553,500,1941,0,1,Pounds,Malawi,Uganda
+553,500,1943,0,1,Pounds,Malawi,Uganda
+553,500,1944,0,1,Pounds,Malawi,Uganda
+553,500,1946,0,1,Pounds,Malawi,Uganda
+553,500,1947,0,1,Pounds,Malawi,Uganda
+553,500,1948,994,1,Pounds,Malawi,Uganda
+553,500,1949,967,1,Pounds,Malawi,Uganda
+553,501,1929,152,1,Pounds,Malawi,Kenya
+553,501,1930,1078,1,Pounds,Malawi,Kenya
+553,501,1931,229,1,Pounds,Malawi,Kenya
+553,501,1932,699,1,Pounds,Malawi,Kenya
+553,501,1933,90,1,Pounds,Malawi,Kenya
+553,501,1934,90,1,Pounds,Malawi,Kenya
+553,501,1935,240,1,Pounds,Malawi,Kenya
+553,501,1936,164,1,Pounds,Malawi,Kenya
+553,501,1937,130,1,Pounds,Malawi,Kenya
+553,501,1938,44,1,Pounds,Malawi,Kenya
+553,501,1939,13,1,Pounds,Malawi,Kenya
+553,501,1940,178,1,Pounds,Malawi,Kenya
+553,501,1941,152,1,Pounds,Malawi,Kenya
+553,501,1943,248,1,Pounds,Malawi,Kenya
+553,501,1944,1124,1,Pounds,Malawi,Kenya
+553,501,1946,18,1,Pounds,Malawi,Kenya
+553,501,1947,10,1,Pounds,Malawi,Kenya
+553,501,1948,858,1,Pounds,Malawi,Kenya
+553,501,1949,7594,1,Pounds,Malawi,Kenya
+553,510,1929,713,1,Pounds,Malawi,Tanzania
+553,510,1930,1025,1,Pounds,Malawi,Tanzania
+553,510,1931,1338,1,Pounds,Malawi,Tanzania
+553,510,1932,651,1,Pounds,Malawi,Tanzania
+553,510,1933,1111,1,Pounds,Malawi,Tanzania
+553,510,1934,53,1,Pounds,Malawi,Tanzania
+553,510,1935,86,1,Pounds,Malawi,Tanzania
+553,510,1936,566,1,Pounds,Malawi,Tanzania
+553,510,1937,529,1,Pounds,Malawi,Tanzania
+553,510,1938,130,1,Pounds,Malawi,Tanzania
+553,510,1939,501,1,Pounds,Malawi,Tanzania
+553,510,1940,601,1,Pounds,Malawi,Tanzania
+553,510,1941,2092,1,Pounds,Malawi,Tanzania
+553,510,1943,1767,1,Pounds,Malawi,Tanzania
+553,510,1944,1337,1,Pounds,Malawi,Tanzania
+553,510,1946,342,1,Pounds,Malawi,Tanzania
+553,510,1947,322,1,Pounds,Malawi,Tanzania
+553,510,1948,1100,1,Pounds,Malawi,Tanzania
+553,510,1949,5349,1,Pounds,Malawi,Tanzania
+553,511,1929,0,1,Pounds,Malawi,Zanzibar
+553,511,1930,334,1,Pounds,Malawi,Zanzibar
+553,511,1931,113,1,Pounds,Malawi,Zanzibar
+553,511,1932,158,1,Pounds,Malawi,Zanzibar
+553,511,1933,190,1,Pounds,Malawi,Zanzibar
+553,511,1934,37,1,Pounds,Malawi,Zanzibar
+553,511,1935,91,1,Pounds,Malawi,Zanzibar
+553,511,1936,41,1,Pounds,Malawi,Zanzibar
+553,511,1937,32,1,Pounds,Malawi,Zanzibar
+553,511,1938,0,1,Pounds,Malawi,Zanzibar
+553,511,1939,0,1,Pounds,Malawi,Zanzibar
+553,511,1940,1,1,Pounds,Malawi,Zanzibar
+553,511,1941,0,1,Pounds,Malawi,Zanzibar
+553,511,1943,0,1,Pounds,Malawi,Zanzibar
+553,511,1944,10,1,Pounds,Malawi,Zanzibar
+553,511,1946,1,1,Pounds,Malawi,Zanzibar
+553,511,1947,4,1,Pounds,Malawi,Zanzibar
+553,511,1948,2470,1,Pounds,Malawi,Zanzibar
+553,511,1949,13999,1,Pounds,Malawi,Zanzibar
+553,521,1929,0,1,Pounds,Malawi,British Somaliland
+553,521,1930,0,1,Pounds,Malawi,British Somaliland
+553,521,1931,0,1,Pounds,Malawi,British Somaliland
+553,521,1932,0,1,Pounds,Malawi,British Somaliland
+553,521,1933,0,1,Pounds,Malawi,British Somaliland
+553,521,1934,0,1,Pounds,Malawi,British Somaliland
+553,521,1935,10,1,Pounds,Malawi,British Somaliland
+553,521,1936,0,1,Pounds,Malawi,British Somaliland
+553,521,1937,0,1,Pounds,Malawi,British Somaliland
+553,521,1938,0,1,Pounds,Malawi,British Somaliland
+553,521,1939,0,1,Pounds,Malawi,British Somaliland
+553,521,1940,0,1,Pounds,Malawi,British Somaliland
+553,521,1941,30,1,Pounds,Malawi,British Somaliland
+553,521,1943,0,1,Pounds,Malawi,British Somaliland
+553,521,1944,0,1,Pounds,Malawi,British Somaliland
+553,521,1946,0,1,Pounds,Malawi,British Somaliland
+553,521,1947,0,1,Pounds,Malawi,British Somaliland
+553,521,1948,0,1,Pounds,Malawi,British Somaliland
+553,521,1949,0,1,Pounds,Malawi,British Somaliland
+553,522,1929,0,1,Pounds,Malawi,Djibouti
+553,522,1930,0,1,Pounds,Malawi,Djibouti
+553,522,1931,0,1,Pounds,Malawi,Djibouti
+553,522,1932,0,1,Pounds,Malawi,Djibouti
+553,522,1933,0,1,Pounds,Malawi,Djibouti
+553,522,1934,675,1,Pounds,Malawi,Djibouti
+553,522,1935,3537,1,Pounds,Malawi,Djibouti
+553,522,1936,3350,1,Pounds,Malawi,Djibouti
+553,522,1937,5822,1,Pounds,Malawi,Djibouti
+553,522,1938,5400,1,Pounds,Malawi,Djibouti
+553,522,1939,4619,1,Pounds,Malawi,Djibouti
+553,522,1940,2965,1,Pounds,Malawi,Djibouti
+553,522,1941,0,1,Pounds,Malawi,Djibouti
+553,522,1943,0,1,Pounds,Malawi,Djibouti
+553,522,1944,0,1,Pounds,Malawi,Djibouti
+553,522,1946,6781,1,Pounds,Malawi,Djibouti
+553,522,1947,4855,1,Pounds,Malawi,Djibouti
+553,522,1948,0,1,Pounds,Malawi,Djibouti
+553,522,1949,0,1,Pounds,Malawi,Djibouti
+553,531,1929,0,1,Pounds,Malawi,Eritrea
+553,531,1930,0,1,Pounds,Malawi,Eritrea
+553,531,1931,0,1,Pounds,Malawi,Eritrea
+553,531,1932,0,1,Pounds,Malawi,Eritrea
+553,531,1933,0,1,Pounds,Malawi,Eritrea
+553,531,1934,0,1,Pounds,Malawi,Eritrea
+553,531,1935,0,1,Pounds,Malawi,Eritrea
+553,531,1936,0,1,Pounds,Malawi,Eritrea
+553,531,1937,0,1,Pounds,Malawi,Eritrea
+553,531,1938,0,1,Pounds,Malawi,Eritrea
+553,531,1939,0,1,Pounds,Malawi,Eritrea
+553,531,1940,0,1,Pounds,Malawi,Eritrea
+553,531,1941,0,1,Pounds,Malawi,Eritrea
+553,531,1943,0,1,Pounds,Malawi,Eritrea
+553,531,1944,0,1,Pounds,Malawi,Eritrea
+553,531,1946,0,1,Pounds,Malawi,Eritrea
+553,531,1947,0,1,Pounds,Malawi,Eritrea
+553,531,1948,0,1,Pounds,Malawi,Eritrea
+553,531,1949,7143,1,Pounds,Malawi,Eritrea
+553,540,1929,0,1,Pounds,Malawi,Angola
+553,540,1930,0,1,Pounds,Malawi,Angola
+553,540,1931,0,1,Pounds,Malawi,Angola
+553,540,1932,0,1,Pounds,Malawi,Angola
+553,540,1933,0,1,Pounds,Malawi,Angola
+553,540,1934,298,1,Pounds,Malawi,Angola
+553,540,1935,477,1,Pounds,Malawi,Angola
+553,540,1936,241,1,Pounds,Malawi,Angola
+553,540,1937,1163,1,Pounds,Malawi,Angola
+553,540,1938,519,1,Pounds,Malawi,Angola
+553,540,1939,421,1,Pounds,Malawi,Angola
+553,540,1940,3916,1,Pounds,Malawi,Angola
+553,540,1941,572,1,Pounds,Malawi,Angola
+553,540,1943,0,1,Pounds,Malawi,Angola
+553,540,1944,0,1,Pounds,Malawi,Angola
+553,540,1946,6843,1,Pounds,Malawi,Angola
+553,540,1947,6838,1,Pounds,Malawi,Angola
+553,540,1948,16091,1,Pounds,Malawi,Angola
+553,540,1949,15365,1,Pounds,Malawi,Angola
+553,541,1929,120764,1,Pounds,Malawi,Mozambique
+553,541,1930,122370,1,Pounds,Malawi,Mozambique
+553,541,1931,104914,1,Pounds,Malawi,Mozambique
+553,541,1932,114827,1,Pounds,Malawi,Mozambique
+553,541,1933,102973,1,Pounds,Malawi,Mozambique
+553,541,1934,17843,1,Pounds,Malawi,Mozambique
+553,541,1935,17421,1,Pounds,Malawi,Mozambique
+553,541,1936,20325,1,Pounds,Malawi,Mozambique
+553,541,1937,16632,1,Pounds,Malawi,Mozambique
+553,541,1938,15886,1,Pounds,Malawi,Mozambique
+553,541,1939,19332,1,Pounds,Malawi,Mozambique
+553,541,1940,19877,1,Pounds,Malawi,Mozambique
+553,541,1941,25765,1,Pounds,Malawi,Mozambique
+553,541,1943,49657,1,Pounds,Malawi,Mozambique
+553,541,1944,48674,1,Pounds,Malawi,Mozambique
+553,541,1946,83842,1,Pounds,Malawi,Mozambique
+553,541,1947,73075,1,Pounds,Malawi,Mozambique
+553,541,1948,155961,1,Pounds,Malawi,Mozambique
+553,541,1949,131740,1,Pounds,Malawi,Mozambique
+553,551,1929,1089,1,Pounds,Malawi,Zambia
+553,551,1930,2153,1,Pounds,Malawi,Zambia
+553,551,1931,1105,1,Pounds,Malawi,Zambia
+553,551,1932,2166,1,Pounds,Malawi,Zambia
+553,551,1933,825,1,Pounds,Malawi,Zambia
+553,551,1934,243,1,Pounds,Malawi,Zambia
+553,551,1935,185,1,Pounds,Malawi,Zambia
+553,551,1936,302,1,Pounds,Malawi,Zambia
+553,551,1937,113,1,Pounds,Malawi,Zambia
+553,551,1938,239,1,Pounds,Malawi,Zambia
+553,551,1939,168,1,Pounds,Malawi,Zambia
+553,551,1940,216,1,Pounds,Malawi,Zambia
+553,551,1941,67,1,Pounds,Malawi,Zambia
+553,551,1943,4380,1,Pounds,Malawi,Zambia
+553,551,1944,555,1,Pounds,Malawi,Zambia
+553,551,1946,8697,1,Pounds,Malawi,Zambia
+553,551,1947,16640,1,Pounds,Malawi,Zambia
+553,551,1948,1318,1,Pounds,Malawi,Zambia
+553,551,1949,23414,1,Pounds,Malawi,Zambia
+553,552,1929,14844,1,Pounds,Malawi,Zimbabwe
+553,552,1930,18527,1,Pounds,Malawi,Zimbabwe
+553,552,1931,17934,1,Pounds,Malawi,Zimbabwe
+553,552,1932,13593,1,Pounds,Malawi,Zimbabwe
+553,552,1933,12736,1,Pounds,Malawi,Zimbabwe
+553,552,1934,7157,1,Pounds,Malawi,Zimbabwe
+553,552,1935,6443,1,Pounds,Malawi,Zimbabwe
+553,552,1936,9285,1,Pounds,Malawi,Zimbabwe
+553,552,1937,11580,1,Pounds,Malawi,Zimbabwe
+553,552,1938,9586,1,Pounds,Malawi,Zimbabwe
+553,552,1939,10323,1,Pounds,Malawi,Zimbabwe
+553,552,1940,22289,1,Pounds,Malawi,Zimbabwe
+553,552,1941,106116,1,Pounds,Malawi,Zimbabwe
+553,552,1943,209870,1,Pounds,Malawi,Zimbabwe
+553,552,1944,85889,1,Pounds,Malawi,Zimbabwe
+553,552,1946,109972,1,Pounds,Malawi,Zimbabwe
+553,552,1947,257356,1,Pounds,Malawi,Zimbabwe
+553,552,1948,693625,1,Pounds,Malawi,Zimbabwe
+553,552,1949,297098,1,Pounds,Malawi,Zimbabwe
+553,573,1929,41955,1,Pounds,Malawi,British South Africa
+553,573,1930,33874,1,Pounds,Malawi,British South Africa
+553,573,1931,32981,1,Pounds,Malawi,British South Africa
+553,573,1932,16207,1,Pounds,Malawi,British South Africa
+553,573,1933,12908,1,Pounds,Malawi,British South Africa
+553,573,1934,9638,1,Pounds,Malawi,British South Africa
+553,573,1935,11703,1,Pounds,Malawi,British South Africa
+553,573,1936,12747,1,Pounds,Malawi,British South Africa
+553,573,1937,11778,1,Pounds,Malawi,British South Africa
+553,573,1938,10755,1,Pounds,Malawi,British South Africa
+553,573,1939,12829,1,Pounds,Malawi,British South Africa
+553,573,1940,27098,1,Pounds,Malawi,British South Africa
+553,573,1941,52940,1,Pounds,Malawi,British South Africa
+553,573,1943,61050,1,Pounds,Malawi,British South Africa
+553,573,1944,84515,1,Pounds,Malawi,British South Africa
+553,573,1946,122353,1,Pounds,Malawi,British South Africa
+553,573,1947,137520,1,Pounds,Malawi,British South Africa
+553,573,1948,179439,1,Pounds,Malawi,British South Africa
+553,573,1949,238621,1,Pounds,Malawi,British South Africa
+553,590,1929,0,1,Pounds,Malawi,Mauritius
+553,590,1930,0,1,Pounds,Malawi,Mauritius
+553,590,1931,0,1,Pounds,Malawi,Mauritius
+553,590,1932,0,1,Pounds,Malawi,Mauritius
+553,590,1933,0,1,Pounds,Malawi,Mauritius
+553,590,1934,0,1,Pounds,Malawi,Mauritius
+553,590,1935,120,1,Pounds,Malawi,Mauritius
+553,590,1936,60,1,Pounds,Malawi,Mauritius
+553,590,1937,68,1,Pounds,Malawi,Mauritius
+553,590,1938,6,1,Pounds,Malawi,Mauritius
+553,590,1939,0,1,Pounds,Malawi,Mauritius
+553,590,1940,10,1,Pounds,Malawi,Mauritius
+553,590,1941,0,1,Pounds,Malawi,Mauritius
+553,590,1943,0,1,Pounds,Malawi,Mauritius
+553,590,1944,0,1,Pounds,Malawi,Mauritius
+553,590,1946,0,1,Pounds,Malawi,Mauritius
+553,590,1947,0,1,Pounds,Malawi,Mauritius
+553,590,1948,0,1,Pounds,Malawi,Mauritius
+553,590,1949,0,1,Pounds,Malawi,Mauritius
+553,591,1929,0,1,Pounds,Malawi,Seychelles
+553,591,1930,0,1,Pounds,Malawi,Seychelles
+553,591,1931,0,1,Pounds,Malawi,Seychelles
+553,591,1932,0,1,Pounds,Malawi,Seychelles
+553,591,1933,0,1,Pounds,Malawi,Seychelles
+553,591,1934,0,1,Pounds,Malawi,Seychelles
+553,591,1935,0,1,Pounds,Malawi,Seychelles
+553,591,1936,0,1,Pounds,Malawi,Seychelles
+553,591,1937,100,1,Pounds,Malawi,Seychelles
+553,591,1938,0,1,Pounds,Malawi,Seychelles
+553,591,1939,0,1,Pounds,Malawi,Seychelles
+553,591,1940,0,1,Pounds,Malawi,Seychelles
+553,591,1941,0,1,Pounds,Malawi,Seychelles
+553,591,1943,0,1,Pounds,Malawi,Seychelles
+553,591,1944,0,1,Pounds,Malawi,Seychelles
+553,591,1946,0,1,Pounds,Malawi,Seychelles
+553,591,1947,0,1,Pounds,Malawi,Seychelles
+553,591,1948,0,1,Pounds,Malawi,Seychelles
+553,591,1949,0,1,Pounds,Malawi,Seychelles
+553,615,1929,0,1,Pounds,Malawi,Algeria
+553,615,1930,0,1,Pounds,Malawi,Algeria
+553,615,1931,0,1,Pounds,Malawi,Algeria
+553,615,1932,0,1,Pounds,Malawi,Algeria
+553,615,1933,0,1,Pounds,Malawi,Algeria
+553,615,1934,0,1,Pounds,Malawi,Algeria
+553,615,1935,0,1,Pounds,Malawi,Algeria
+553,615,1936,0,1,Pounds,Malawi,Algeria
+553,615,1937,0,1,Pounds,Malawi,Algeria
+553,615,1938,1,1,Pounds,Malawi,Algeria
+553,615,1939,0,1,Pounds,Malawi,Algeria
+553,615,1940,6,1,Pounds,Malawi,Algeria
+553,615,1941,0,1,Pounds,Malawi,Algeria
+553,615,1943,0,1,Pounds,Malawi,Algeria
+553,615,1944,0,1,Pounds,Malawi,Algeria
+553,615,1946,0,1,Pounds,Malawi,Algeria
+553,615,1947,0,1,Pounds,Malawi,Algeria
+553,615,1948,0,1,Pounds,Malawi,Algeria
+553,615,1949,0,1,Pounds,Malawi,Algeria
+553,625,1929,0,1,Pounds,Malawi,Sudan
+553,625,1930,0,1,Pounds,Malawi,Sudan
+553,625,1931,0,1,Pounds,Malawi,Sudan
+553,625,1932,0,1,Pounds,Malawi,Sudan
+553,625,1933,0,1,Pounds,Malawi,Sudan
+553,625,1934,2,1,Pounds,Malawi,Sudan
+553,625,1935,0,1,Pounds,Malawi,Sudan
+553,625,1936,0,1,Pounds,Malawi,Sudan
+553,625,1937,593,1,Pounds,Malawi,Sudan
+553,625,1938,181,1,Pounds,Malawi,Sudan
+553,625,1939,0,1,Pounds,Malawi,Sudan
+553,625,1940,205,1,Pounds,Malawi,Sudan
+553,625,1941,0,1,Pounds,Malawi,Sudan
+553,625,1943,0,1,Pounds,Malawi,Sudan
+553,625,1944,0,1,Pounds,Malawi,Sudan
+553,625,1946,0,1,Pounds,Malawi,Sudan
+553,625,1947,0,1,Pounds,Malawi,Sudan
+553,625,1948,0,1,Pounds,Malawi,Sudan
+553,625,1949,0,1,Pounds,Malawi,Sudan
+553,630,1929,0,1,Pounds,Malawi,Iran
+553,630,1930,0,1,Pounds,Malawi,Iran
+553,630,1931,0,1,Pounds,Malawi,Iran
+553,630,1932,0,1,Pounds,Malawi,Iran
+553,630,1933,0,1,Pounds,Malawi,Iran
+553,630,1934,17942,1,Pounds,Malawi,Iran
+553,630,1935,21506,1,Pounds,Malawi,Iran
+553,630,1936,22424,1,Pounds,Malawi,Iran
+553,630,1937,28268,1,Pounds,Malawi,Iran
+553,630,1938,37609,1,Pounds,Malawi,Iran
+553,630,1939,36770,1,Pounds,Malawi,Iran
+553,630,1940,18838,1,Pounds,Malawi,Iran
+553,630,1941,6684,1,Pounds,Malawi,Iran
+553,630,1943,41997,1,Pounds,Malawi,Iran
+553,630,1944,55176,1,Pounds,Malawi,Iran
+553,630,1946,63656,1,Pounds,Malawi,Iran
+553,630,1947,72114,1,Pounds,Malawi,Iran
+553,630,1948,126337,1,Pounds,Malawi,Iran
+553,630,1949,184240,1,Pounds,Malawi,Iran
+553,640,1929,0,1,Pounds,Malawi,Turkey
+553,640,1930,0,1,Pounds,Malawi,Turkey
+553,640,1931,0,1,Pounds,Malawi,Turkey
+553,640,1932,0,1,Pounds,Malawi,Turkey
+553,640,1933,0,1,Pounds,Malawi,Turkey
+553,640,1934,51,1,Pounds,Malawi,Turkey
+553,640,1935,0,1,Pounds,Malawi,Turkey
+553,640,1936,2,1,Pounds,Malawi,Turkey
+553,640,1937,90,1,Pounds,Malawi,Turkey
+553,640,1938,6,1,Pounds,Malawi,Turkey
+553,640,1939,0,1,Pounds,Malawi,Turkey
+553,640,1940,21,1,Pounds,Malawi,Turkey
+553,640,1941,0,1,Pounds,Malawi,Turkey
+553,640,1943,0,1,Pounds,Malawi,Turkey
+553,640,1944,0,1,Pounds,Malawi,Turkey
+553,640,1946,0,1,Pounds,Malawi,Turkey
+553,640,1947,0,1,Pounds,Malawi,Turkey
+553,640,1948,0,1,Pounds,Malawi,Turkey
+553,640,1949,0,1,Pounds,Malawi,Turkey
+553,645,1929,0,1,Pounds,Malawi,Iraq
+553,645,1930,0,1,Pounds,Malawi,Iraq
+553,645,1931,0,1,Pounds,Malawi,Iraq
+553,645,1932,0,1,Pounds,Malawi,Iraq
+553,645,1933,0,1,Pounds,Malawi,Iraq
+553,645,1934,41,1,Pounds,Malawi,Iraq
+553,645,1935,49,1,Pounds,Malawi,Iraq
+553,645,1936,36,1,Pounds,Malawi,Iraq
+553,645,1937,45,1,Pounds,Malawi,Iraq
+553,645,1938,42,1,Pounds,Malawi,Iraq
+553,645,1939,22,1,Pounds,Malawi,Iraq
+553,645,1940,97,1,Pounds,Malawi,Iraq
+553,645,1941,4,1,Pounds,Malawi,Iraq
+553,645,1943,0,1,Pounds,Malawi,Iraq
+553,645,1944,0,1,Pounds,Malawi,Iraq
+553,645,1946,0,1,Pounds,Malawi,Iraq
+553,645,1947,0,1,Pounds,Malawi,Iraq
+553,645,1948,79,1,Pounds,Malawi,Iraq
+553,645,1949,39,1,Pounds,Malawi,Iraq
+553,651,1929,0,1,Pounds,Malawi,Egypt
+553,651,1930,0,1,Pounds,Malawi,Egypt
+553,651,1931,0,1,Pounds,Malawi,Egypt
+553,651,1932,0,1,Pounds,Malawi,Egypt
+553,651,1933,0,1,Pounds,Malawi,Egypt
+553,651,1934,14,1,Pounds,Malawi,Egypt
+553,651,1935,431,1,Pounds,Malawi,Egypt
+553,651,1936,30,1,Pounds,Malawi,Egypt
+553,651,1937,73,1,Pounds,Malawi,Egypt
+553,651,1938,509,1,Pounds,Malawi,Egypt
+553,651,1939,360,1,Pounds,Malawi,Egypt
+553,651,1940,228,1,Pounds,Malawi,Egypt
+553,651,1941,0,1,Pounds,Malawi,Egypt
+553,651,1943,0,1,Pounds,Malawi,Egypt
+553,651,1944,33,1,Pounds,Malawi,Egypt
+553,651,1946,63,1,Pounds,Malawi,Egypt
+553,651,1947,26,1,Pounds,Malawi,Egypt
+553,651,1948,25,1,Pounds,Malawi,Egypt
+553,651,1949,0,1,Pounds,Malawi,Egypt
+553,665,1929,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1930,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1931,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1932,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1933,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1934,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1935,488,1,Pounds,Malawi,West Bank And Gaza
+553,665,1936,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1937,86,1,Pounds,Malawi,West Bank And Gaza
+553,665,1938,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1939,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1940,6,1,Pounds,Malawi,West Bank And Gaza
+553,665,1941,93,1,Pounds,Malawi,West Bank And Gaza
+553,665,1943,225,1,Pounds,Malawi,West Bank And Gaza
+553,665,1944,0,1,Pounds,Malawi,West Bank And Gaza
+553,665,1946,1780,1,Pounds,Malawi,West Bank And Gaza
+553,665,1947,92,1,Pounds,Malawi,West Bank And Gaza
+553,665,1948,460,1,Pounds,Malawi,West Bank And Gaza
+553,665,1949,1675,1,Pounds,Malawi,West Bank And Gaza
+553,675,1929,0,1,Pounds,Malawi,Arabia
+553,675,1930,0,1,Pounds,Malawi,Arabia
+553,675,1931,0,1,Pounds,Malawi,Arabia
+553,675,1932,0,1,Pounds,Malawi,Arabia
+553,675,1933,0,1,Pounds,Malawi,Arabia
+553,675,1934,0,1,Pounds,Malawi,Arabia
+553,675,1935,0,1,Pounds,Malawi,Arabia
+553,675,1936,0,1,Pounds,Malawi,Arabia
+553,675,1937,0,1,Pounds,Malawi,Arabia
+553,675,1938,0,1,Pounds,Malawi,Arabia
+553,675,1939,0,1,Pounds,Malawi,Arabia
+553,675,1940,0,1,Pounds,Malawi,Arabia
+553,675,1941,0,1,Pounds,Malawi,Arabia
+553,675,1943,0,1,Pounds,Malawi,Arabia
+553,675,1944,0,1,Pounds,Malawi,Arabia
+553,675,1946,0,1,Pounds,Malawi,Arabia
+553,675,1947,24,1,Pounds,Malawi,Arabia
+553,675,1948,0,1,Pounds,Malawi,Arabia
+553,675,1949,0,1,Pounds,Malawi,Arabia
+553,681,1929,0,1,Pounds,Malawi,Aden
+553,681,1930,0,1,Pounds,Malawi,Aden
+553,681,1931,0,1,Pounds,Malawi,Aden
+553,681,1932,0,1,Pounds,Malawi,Aden
+553,681,1933,0,1,Pounds,Malawi,Aden
+553,681,1934,0,1,Pounds,Malawi,Aden
+553,681,1935,0,1,Pounds,Malawi,Aden
+553,681,1936,74,1,Pounds,Malawi,Aden
+553,681,1937,174,1,Pounds,Malawi,Aden
+553,681,1938,0,1,Pounds,Malawi,Aden
+553,681,1939,0,1,Pounds,Malawi,Aden
+553,681,1940,30,1,Pounds,Malawi,Aden
+553,681,1941,0,1,Pounds,Malawi,Aden
+553,681,1943,14702,1,Pounds,Malawi,Aden
+553,681,1944,2537,1,Pounds,Malawi,Aden
+553,681,1946,2342,1,Pounds,Malawi,Aden
+553,681,1947,0,1,Pounds,Malawi,Aden
+553,681,1948,0,1,Pounds,Malawi,Aden
+553,681,1949,0,1,Pounds,Malawi,Aden
+553,710,1929,0,1,Pounds,Malawi,China
+553,710,1930,0,1,Pounds,Malawi,China
+553,710,1931,0,1,Pounds,Malawi,China
+553,710,1932,0,1,Pounds,Malawi,China
+553,710,1933,0,1,Pounds,Malawi,China
+553,710,1934,285,1,Pounds,Malawi,China
+553,710,1935,436,1,Pounds,Malawi,China
+553,710,1936,271,1,Pounds,Malawi,China
+553,710,1937,648,1,Pounds,Malawi,China
+553,710,1938,294,1,Pounds,Malawi,China
+553,710,1939,443,1,Pounds,Malawi,China
+553,710,1940,324,1,Pounds,Malawi,China
+553,710,1941,1539,1,Pounds,Malawi,China
+553,710,1943,0,1,Pounds,Malawi,China
+553,710,1944,0,1,Pounds,Malawi,China
+553,710,1946,0,1,Pounds,Malawi,China
+553,710,1947,2765,1,Pounds,Malawi,China
+553,710,1948,36433,1,Pounds,Malawi,China
+553,710,1949,441,1,Pounds,Malawi,China
+553,720,1929,0,1,Pounds,Malawi,Hong Kong
+553,720,1930,0,1,Pounds,Malawi,Hong Kong
+553,720,1931,0,1,Pounds,Malawi,Hong Kong
+553,720,1932,0,1,Pounds,Malawi,Hong Kong
+553,720,1933,0,1,Pounds,Malawi,Hong Kong
+553,720,1934,412,1,Pounds,Malawi,Hong Kong
+553,720,1935,87,1,Pounds,Malawi,Hong Kong
+553,720,1936,119,1,Pounds,Malawi,Hong Kong
+553,720,1937,195,1,Pounds,Malawi,Hong Kong
+553,720,1938,164,1,Pounds,Malawi,Hong Kong
+553,720,1939,208,1,Pounds,Malawi,Hong Kong
+553,720,1940,7289,1,Pounds,Malawi,Hong Kong
+553,720,1941,19028,1,Pounds,Malawi,Hong Kong
+553,720,1943,1008,1,Pounds,Malawi,Hong Kong
+553,720,1944,2,1,Pounds,Malawi,Hong Kong
+553,720,1946,0,1,Pounds,Malawi,Hong Kong
+553,720,1947,0,1,Pounds,Malawi,Hong Kong
+553,720,1948,56624,1,Pounds,Malawi,Hong Kong
+553,720,1949,76285,1,Pounds,Malawi,Hong Kong
+553,740,1929,25169,1,Pounds,Malawi,Japan
+553,740,1930,41757,1,Pounds,Malawi,Japan
+553,740,1931,56364,1,Pounds,Malawi,Japan
+553,740,1932,48881,1,Pounds,Malawi,Japan
+553,740,1933,77125,1,Pounds,Malawi,Japan
+553,740,1934,115375,1,Pounds,Malawi,Japan
+553,740,1935,178252,1,Pounds,Malawi,Japan
+553,740,1936,162378,1,Pounds,Malawi,Japan
+553,740,1937,207354,1,Pounds,Malawi,Japan
+553,740,1938,225060,1,Pounds,Malawi,Japan
+553,740,1939,186491,1,Pounds,Malawi,Japan
+553,740,1940,64761,1,Pounds,Malawi,Japan
+553,740,1941,3669,1,Pounds,Malawi,Japan
+553,740,1943,0,1,Pounds,Malawi,Japan
+553,740,1944,5,1,Pounds,Malawi,Japan
+553,740,1946,0,1,Pounds,Malawi,Japan
+553,740,1947,47188,1,Pounds,Malawi,Japan
+553,740,1948,197132,1,Pounds,Malawi,Japan
+553,740,1949,139941,1,Pounds,Malawi,Japan
+553,750,1929,100618,1,Pounds,Malawi,India
+553,750,1930,78419,1,Pounds,Malawi,India
+553,750,1931,72100,1,Pounds,Malawi,India
+553,750,1932,52401,1,Pounds,Malawi,India
+553,750,1933,18945,1,Pounds,Malawi,India
+553,750,1934,8402,1,Pounds,Malawi,India
+553,750,1935,9402,1,Pounds,Malawi,India
+553,750,1936,10827,1,Pounds,Malawi,India
+553,750,1937,10653,1,Pounds,Malawi,India
+553,750,1938,11759,1,Pounds,Malawi,India
+553,750,1939,12586,1,Pounds,Malawi,India
+553,750,1940,124412,1,Pounds,Malawi,India
+553,750,1941,274053,1,Pounds,Malawi,India
+553,750,1943,462380,1,Pounds,Malawi,India
+553,750,1944,753860,1,Pounds,Malawi,India
+553,750,1946,464343,1,Pounds,Malawi,India
+553,750,1947,424948,1,Pounds,Malawi,India
+553,750,1948,459287,1,Pounds,Malawi,India
+553,750,1949,236713,1,Pounds,Malawi,India
+553,752,1929,0,1,Pounds,Malawi,Portuguese India
+553,752,1930,0,1,Pounds,Malawi,Portuguese India
+553,752,1931,0,1,Pounds,Malawi,Portuguese India
+553,752,1932,0,1,Pounds,Malawi,Portuguese India
+553,752,1933,0,1,Pounds,Malawi,Portuguese India
+553,752,1934,0,1,Pounds,Malawi,Portuguese India
+553,752,1935,0,1,Pounds,Malawi,Portuguese India
+553,752,1936,1,1,Pounds,Malawi,Portuguese India
+553,752,1937,21,1,Pounds,Malawi,Portuguese India
+553,752,1938,0,1,Pounds,Malawi,Portuguese India
+553,752,1939,0,1,Pounds,Malawi,Portuguese India
+553,752,1940,3,1,Pounds,Malawi,Portuguese India
+553,752,1941,0,1,Pounds,Malawi,Portuguese India
+553,752,1943,0,1,Pounds,Malawi,Portuguese India
+553,752,1944,0,1,Pounds,Malawi,Portuguese India
+553,752,1946,0,1,Pounds,Malawi,Portuguese India
+553,752,1947,0,1,Pounds,Malawi,Portuguese India
+553,752,1948,0,1,Pounds,Malawi,Portuguese India
+553,752,1949,0,1,Pounds,Malawi,Portuguese India
+553,775,1929,0,1,Pounds,Malawi,Myanmar
+553,775,1930,0,1,Pounds,Malawi,Myanmar
+553,775,1931,0,1,Pounds,Malawi,Myanmar
+553,775,1932,0,1,Pounds,Malawi,Myanmar
+553,775,1933,0,1,Pounds,Malawi,Myanmar
+553,775,1934,0,1,Pounds,Malawi,Myanmar
+553,775,1935,0,1,Pounds,Malawi,Myanmar
+553,775,1936,0,1,Pounds,Malawi,Myanmar
+553,775,1937,46,1,Pounds,Malawi,Myanmar
+553,775,1938,427,1,Pounds,Malawi,Myanmar
+553,775,1939,466,1,Pounds,Malawi,Myanmar
+553,775,1940,422,1,Pounds,Malawi,Myanmar
+553,775,1941,309,1,Pounds,Malawi,Myanmar
+553,775,1943,0,1,Pounds,Malawi,Myanmar
+553,775,1944,0,1,Pounds,Malawi,Myanmar
+553,775,1946,0,1,Pounds,Malawi,Myanmar
+553,775,1947,0,1,Pounds,Malawi,Myanmar
+553,775,1948,1,1,Pounds,Malawi,Myanmar
+553,775,1949,0,1,Pounds,Malawi,Myanmar
+553,780,1929,15,1,Pounds,Malawi,Sri Lanka
+553,780,1930,294,1,Pounds,Malawi,Sri Lanka
+553,780,1931,147,1,Pounds,Malawi,Sri Lanka
+553,780,1932,3761,1,Pounds,Malawi,Sri Lanka
+553,780,1933,156,1,Pounds,Malawi,Sri Lanka
+553,780,1934,1293,1,Pounds,Malawi,Sri Lanka
+553,780,1935,154,1,Pounds,Malawi,Sri Lanka
+553,780,1936,1997,1,Pounds,Malawi,Sri Lanka
+553,780,1937,3591,1,Pounds,Malawi,Sri Lanka
+553,780,1938,5849,1,Pounds,Malawi,Sri Lanka
+553,780,1939,3674,1,Pounds,Malawi,Sri Lanka
+553,780,1940,4280,1,Pounds,Malawi,Sri Lanka
+553,780,1941,7225,1,Pounds,Malawi,Sri Lanka
+553,780,1943,0,1,Pounds,Malawi,Sri Lanka
+553,780,1944,16,1,Pounds,Malawi,Sri Lanka
+553,780,1946,0,1,Pounds,Malawi,Sri Lanka
+553,780,1947,198,1,Pounds,Malawi,Sri Lanka
+553,780,1948,369,1,Pounds,Malawi,Sri Lanka
+553,780,1949,86,1,Pounds,Malawi,Sri Lanka
+553,810,1929,0,1,Pounds,Malawi,French Indo-China
+553,810,1930,0,1,Pounds,Malawi,French Indo-China
+553,810,1931,0,1,Pounds,Malawi,French Indo-China
+553,810,1932,0,1,Pounds,Malawi,French Indo-China
+553,810,1933,0,1,Pounds,Malawi,French Indo-China
+553,810,1934,0,1,Pounds,Malawi,French Indo-China
+553,810,1935,134,1,Pounds,Malawi,French Indo-China
+553,810,1936,37,1,Pounds,Malawi,French Indo-China
+553,810,1937,69,1,Pounds,Malawi,French Indo-China
+553,810,1938,0,1,Pounds,Malawi,French Indo-China
+553,810,1939,0,1,Pounds,Malawi,French Indo-China
+553,810,1940,0,1,Pounds,Malawi,French Indo-China
+553,810,1941,0,1,Pounds,Malawi,French Indo-China
+553,810,1943,0,1,Pounds,Malawi,French Indo-China
+553,810,1944,0,1,Pounds,Malawi,French Indo-China
+553,810,1946,0,1,Pounds,Malawi,French Indo-China
+553,810,1947,0,1,Pounds,Malawi,French Indo-China
+553,810,1948,0,1,Pounds,Malawi,French Indo-China
+553,810,1949,0,1,Pounds,Malawi,French Indo-China
+553,820,1929,0,1,Pounds,Malawi,Malaysia
+553,820,1930,0,1,Pounds,Malawi,Malaysia
+553,820,1931,0,1,Pounds,Malawi,Malaysia
+553,820,1932,0,1,Pounds,Malawi,Malaysia
+553,820,1933,0,1,Pounds,Malawi,Malaysia
+553,820,1934,37,1,Pounds,Malawi,Malaysia
+553,820,1935,14,1,Pounds,Malawi,Malaysia
+553,820,1936,536,1,Pounds,Malawi,Malaysia
+553,820,1937,301,1,Pounds,Malawi,Malaysia
+553,820,1938,1,1,Pounds,Malawi,Malaysia
+553,820,1939,1,1,Pounds,Malawi,Malaysia
+553,820,1940,736,1,Pounds,Malawi,Malaysia
+553,820,1941,0,1,Pounds,Malawi,Malaysia
+553,820,1943,0,1,Pounds,Malawi,Malaysia
+553,820,1944,0,1,Pounds,Malawi,Malaysia
+553,820,1946,0,1,Pounds,Malawi,Malaysia
+553,820,1947,75,1,Pounds,Malawi,Malaysia
+553,820,1948,233,1,Pounds,Malawi,Malaysia
+553,820,1949,348,1,Pounds,Malawi,Malaysia
+553,850,1929,0,1,Pounds,Malawi,Indonesia
+553,850,1930,0,1,Pounds,Malawi,Indonesia
+553,850,1931,0,1,Pounds,Malawi,Indonesia
+553,850,1932,0,1,Pounds,Malawi,Indonesia
+553,850,1933,0,1,Pounds,Malawi,Indonesia
+553,850,1934,12135,1,Pounds,Malawi,Indonesia
+553,850,1935,14378,1,Pounds,Malawi,Indonesia
+553,850,1936,14471,1,Pounds,Malawi,Indonesia
+553,850,1937,13621,1,Pounds,Malawi,Indonesia
+553,850,1938,7165,1,Pounds,Malawi,Indonesia
+553,850,1939,11090,1,Pounds,Malawi,Indonesia
+553,850,1940,30144,1,Pounds,Malawi,Indonesia
+553,850,1941,46000,1,Pounds,Malawi,Indonesia
+553,850,1943,41,1,Pounds,Malawi,Indonesia
+553,850,1944,0,1,Pounds,Malawi,Indonesia
+553,850,1946,0,1,Pounds,Malawi,Indonesia
+553,850,1947,0,1,Pounds,Malawi,Indonesia
+553,850,1948,0,1,Pounds,Malawi,Indonesia
+553,850,1949,0,1,Pounds,Malawi,Indonesia
+553,900,1929,1630,1,Pounds,Malawi,Australia
+553,900,1930,976,1,Pounds,Malawi,Australia
+553,900,1931,2062,1,Pounds,Malawi,Australia
+553,900,1932,1785,1,Pounds,Malawi,Australia
+553,900,1933,2171,1,Pounds,Malawi,Australia
+553,900,1934,1612,1,Pounds,Malawi,Australia
+553,900,1935,2447,1,Pounds,Malawi,Australia
+553,900,1936,2007,1,Pounds,Malawi,Australia
+553,900,1937,3604,1,Pounds,Malawi,Australia
+553,900,1938,3007,1,Pounds,Malawi,Australia
+553,900,1939,2262,1,Pounds,Malawi,Australia
+553,900,1940,3430,1,Pounds,Malawi,Australia
+553,900,1941,4644,1,Pounds,Malawi,Australia
+553,900,1943,2289,1,Pounds,Malawi,Australia
+553,900,1944,949,1,Pounds,Malawi,Australia
+553,900,1946,3400,1,Pounds,Malawi,Australia
+553,900,1947,14935,1,Pounds,Malawi,Australia
+553,900,1948,27662,1,Pounds,Malawi,Australia
+553,900,1949,43386,1,Pounds,Malawi,Australia
+553,920,1929,0,1,Pounds,Malawi,New Zealand
+553,920,1930,87,1,Pounds,Malawi,New Zealand
+553,920,1931,200,1,Pounds,Malawi,New Zealand
+553,920,1932,16,1,Pounds,Malawi,New Zealand
+553,920,1933,138,1,Pounds,Malawi,New Zealand
+553,920,1934,349,1,Pounds,Malawi,New Zealand
+553,920,1935,295,1,Pounds,Malawi,New Zealand
+553,920,1936,220,1,Pounds,Malawi,New Zealand
+553,920,1937,139,1,Pounds,Malawi,New Zealand
+553,920,1938,175,1,Pounds,Malawi,New Zealand
+553,920,1939,190,1,Pounds,Malawi,New Zealand
+553,920,1940,224,1,Pounds,Malawi,New Zealand
+553,920,1941,291,1,Pounds,Malawi,New Zealand
+553,920,1943,0,1,Pounds,Malawi,New Zealand
+553,920,1944,0,1,Pounds,Malawi,New Zealand
+553,920,1946,131,1,Pounds,Malawi,New Zealand
+553,920,1947,1960,1,Pounds,Malawi,New Zealand
+553,920,1948,2921,1,Pounds,Malawi,New Zealand
+553,920,1949,28,1,Pounds,Malawi,New Zealand
+553,1050,1929,0,1,Pounds,Malawi,British West Indies
+553,1050,1930,0,1,Pounds,Malawi,British West Indies
+553,1050,1931,0,1,Pounds,Malawi,British West Indies
+553,1050,1932,0,1,Pounds,Malawi,British West Indies
+553,1050,1933,0,1,Pounds,Malawi,British West Indies
+553,1050,1934,32,1,Pounds,Malawi,British West Indies
+553,1050,1935,75,1,Pounds,Malawi,British West Indies
+553,1050,1936,89,1,Pounds,Malawi,British West Indies
+553,1050,1937,109,1,Pounds,Malawi,British West Indies
+553,1050,1938,82,1,Pounds,Malawi,British West Indies
+553,1050,1939,116,1,Pounds,Malawi,British West Indies
+553,1050,1940,21,1,Pounds,Malawi,British West Indies
+553,1050,1941,113,1,Pounds,Malawi,British West Indies
+553,1050,1943,2,1,Pounds,Malawi,British West Indies
+553,1050,1944,0,1,Pounds,Malawi,British West Indies
+553,1050,1946,0,1,Pounds,Malawi,British West Indies
+553,1050,1947,212,1,Pounds,Malawi,British West Indies
+553,1050,1948,122,1,Pounds,Malawi,British West Indies
+553,1050,1949,258,1,Pounds,Malawi,British West Indies
+553,2000,1929,908,1,Pounds,Malawi,Other British possessions
+553,2000,1930,182,1,Pounds,Malawi,Other British possessions
+553,2000,1931,607,1,Pounds,Malawi,Other British possessions
+553,2000,1932,404,1,Pounds,Malawi,Other British possessions
+553,2000,1933,1453,1,Pounds,Malawi,Other British possessions
+553,2000,1934,0,1,Pounds,Malawi,Other British possessions
+553,2000,1935,0,1,Pounds,Malawi,Other British possessions
+553,2000,1936,0,1,Pounds,Malawi,Other British possessions
+553,2000,1937,0,1,Pounds,Malawi,Other British possessions
+553,2000,1938,0,1,Pounds,Malawi,Other British possessions
+553,2000,1939,0,1,Pounds,Malawi,Other British possessions
+553,2000,1940,0,1,Pounds,Malawi,Other British possessions
+553,2000,1941,0,1,Pounds,Malawi,Other British possessions
+553,2000,1943,0,1,Pounds,Malawi,Other British possessions
+553,2000,1944,0,1,Pounds,Malawi,Other British possessions
+553,2000,1946,0,1,Pounds,Malawi,Other British possessions
+553,2000,1947,0,1,Pounds,Malawi,Other British possessions
+553,2000,1948,0,1,Pounds,Malawi,Other British possessions
+553,2000,1949,0,1,Pounds,Malawi,Other British possessions
+553,8501,1929,0,1,Pounds,Malawi,Java
+553,8501,1930,0,1,Pounds,Malawi,Java
+553,8501,1931,0,1,Pounds,Malawi,Java
+553,8501,1932,0,1,Pounds,Malawi,Java
+553,8501,1933,0,1,Pounds,Malawi,Java
+553,8501,1934,0,1,Pounds,Malawi,Java
+553,8501,1935,0,1,Pounds,Malawi,Java
+553,8501,1936,0,1,Pounds,Malawi,Java
+553,8501,1937,0,1,Pounds,Malawi,Java
+553,8501,1938,4,1,Pounds,Malawi,Java
+553,8501,1939,0,1,Pounds,Malawi,Java
+553,8501,1940,0,1,Pounds,Malawi,Java
+553,8501,1941,0,1,Pounds,Malawi,Java
+553,8501,1943,0,1,Pounds,Malawi,Java
+553,8501,1944,0,1,Pounds,Malawi,Java
+553,8501,1946,0,1,Pounds,Malawi,Java
+553,8501,1947,29,1,Pounds,Malawi,Java
+553,8501,1948,0,1,Pounds,Malawi,Java
+553,8501,1949,0,1,Pounds,Malawi,Java
+553,,1929,751230,1,Pounds,Malawi,
+553,,1930,761142,1,Pounds,Malawi,
+553,,1931,741431,1,Pounds,Malawi,
+553,,1932,739322,1,Pounds,Malawi,
+553,,1933,636486,1,Pounds,Malawi,
+553,,1934,523544,1,Pounds,Malawi,
+553,,1935,658311,1,Pounds,Malawi,
+553,,1936,794309,1,Pounds,Malawi,
+553,,1937,863803,1,Pounds,Malawi,
+553,,1938,835005,1,Pounds,Malawi,
+553,,1939,778483,1,Pounds,Malawi,
+553,,1940,838246,1,Pounds,Malawi,
+553,,1941,1064707,1,Pounds,Malawi,
+553,,1943,1429652,1,Pounds,Malawi,
+553,,1944,1714190,1,Pounds,Malawi,
+553,,1946,2204778,1,Pounds,Malawi,
+553,,1947,3974924,1,Pounds,Malawi,
+553,,1948,4656380,1,Pounds,Malawi,
+553,,1949,5174859,1,Pounds,Malawi,

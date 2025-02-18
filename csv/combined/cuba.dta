@@ -1,0 +1,4328 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency,xr_gfd,xr_gfd_trade
+40,Cuba,91,Honduras,1912,10000,,,,
+40,Cuba,750,India,1912,2047332,,,,
+40,Cuba,640,Turkey,1912,24617,,,,
+40,Cuba,675,Arabia,1912,163,,,,
+40,Cuba,101,Venezuela,1912,18312,,,,
+40,Cuba,,,1912,125906009,,,,
+40,Cuba,325,Italy,1912,539635,,,,
+40,Cuba,205,Ireland,1912,1159387,,,,
+40,Cuba,160,Argentina,1912,1537270,,,,
+40,Cuba,255,Germany,1912,8431201,,,,
+40,Cuba,210,Netherlands,1912,566044,,,,
+40,Cuba,230,Spain,1912,9774790,,,,
+40,Cuba,220,France,1912,7706064,,,,
+40,Cuba,135,Peru,1912,2106,,,,
+40,Cuba,385,Norway,1912,792561,,,,
+40,Cuba,740,Japan,1912,115495,,,,
+40,Cuba,305,Austria,1912,200595,,,,
+40,Cuba,20,Canada,1912,1531391,,,,
+40,Cuba,410,Canary Islands,1912,387361,,,,
+40,Cuba,42,Dominican Republic,1912,17337,,,,
+40,Cuba,225,Switzerland,1912,303125,,,,
+40,Cuba,165,Uruguay,1912,2668912,,,,
+40,Cuba,235,Portugal,1912,12577,,,,
+40,Cuba,6,Puerto Rico,1912,3305480,,,,
+40,Cuba,2,United States,1912,65416475,,,,
+40,Cuba,70,Mexico,1912,1054225,,,,
+40,Cuba,1060,French West Indies,1912,232,,,,
+40,Cuba,41,Haiti,1912,291,,,,
+40,Cuba,211,Belgium,1912,2456308,,,,
+40,Cuba,100,Colombia,1912,2563,,,,
+40,Cuba,130,Ecuador,1912,25128,,,,
+40,Cuba,95,Panama,1912,2918,,,,
+40,Cuba,200,United Kingdom,1912,15397649,,,,
+40,Cuba,651,Egypt,1912,6700,,,,
+40,Cuba,630,Iran,1912,666,,,,
+40,Cuba,140,Brazil,1912,6172,,,,
+40,Cuba,90,Guatemala,1912,1326,,,,
+40,Cuba,710,China,1912,105904,,,,
+40,Cuba,390,Denmark,1912,202622,,,,
+40,Cuba,1050,British West Indies,1912,67539,,,,
+40,Cuba,101,Venezuela,1914,17019,,,,
+40,Cuba,95,Panama,1914,2320,,,,
+40,Cuba,115,Suriname,1914,907,,,,
+40,Cuba,305,Austria,1914,303990,,,,
+40,Cuba,211,Belgium,1914,1212758,,,,
+40,Cuba,675,Arabia,1914,1455,,,,
+40,Cuba,135,Peru,1914,2619,,,,
+40,Cuba,410,Canary Islands,1914,202076,,,,
+40,Cuba,1050,British West Indies,1914,62906,,,,
+40,Cuba,41,Haiti,1914,221,,,,
+40,Cuba,225,Switzerland,1914,423987,,,,
+40,Cuba,200,United Kingdom,1914,12379048,,,,
+40,Cuba,740,Japan,1914,123747,,,,
+40,Cuba,380,Sweden,1914,108417,,,,
+40,Cuba,6,Puerto Rico,1914,2308842,,,,
+40,Cuba,651,Egypt,1914,1709,,,,
+40,Cuba,385,Norway,1914,1844658,,,,
+40,Cuba,155,Chile,1914,57776,,,,
+40,Cuba,100,Colombia,1914,6227,,,,
+40,Cuba,130,Ecuador,1914,57103,,,,
+40,Cuba,710,China,1914,118530,,,,
+40,Cuba,630,Iran,1914,1039,,,,
+40,Cuba,325,Italy,1914,747955,,,,
+40,Cuba,235,Portugal,1914,9977,,,,
+40,Cuba,42,Dominican Republic,1914,12289,,,,
+40,Cuba,160,Argentina,1914,971587,,,,
+40,Cuba,,,1914,119003206,,,,
+40,Cuba,210,Netherlands,1914,952307,,,,
+40,Cuba,640,Turkey,1914,69588,,,,
+40,Cuba,840,Philippines,1914,25,,,,
+40,Cuba,390,Denmark,1914,167134,,,,
+40,Cuba,2,United States,1914,69304589,,,,
+40,Cuba,205,Ireland,1914,1011292,,,,
+40,Cuba,70,Mexico,1914,1573926,,,,
+40,Cuba,20,Canada,1914,1465231,,,,
+40,Cuba,140,Brazil,1914,959,,,,
+40,Cuba,220,France,1914,4731822,,,,
+40,Cuba,165,Uruguay,1914,1439362,,,,
+40,Cuba,94,Costa Rica,1914,856,,,,
+40,Cuba,230,Spain,1914,9957403,,,,
+40,Cuba,750,India,1914,2310482,,,,
+40,Cuba,90,Guatemala,1914,840,,,,
+40,Cuba,68,Netherlands Antilles,1914,517,,,,
+40,Cuba,255,Germany,1914,5034119,,,,
+40,Cuba,230,Spain,1915,10817435,,,1,1
+40,Cuba,68,Netherlands Antilles,1915,1682,,,1,1
+40,Cuba,42,Dominican Republic,1915,24175,,,1,1
+40,Cuba,235,Portugal,1915,20295,,,1,1
+40,Cuba,20,Canada,1915,1123336,,,1,1
+40,Cuba,410,Canary Islands,1915,297640,,,1,1
+40,Cuba,220,France,1915,5197110,,,1,1
+40,Cuba,135,Peru,1915,4864,,,1,1
+40,Cuba,750,India,1915,3770523,,,1,1
+40,Cuba,140,Brazil,1915,16393,,,1,1
+40,Cuba,675,Arabia,1915,2017,,,1,1
+40,Cuba,93,Nicaragua,1915,8769,,,1,1
+40,Cuba,365,Russia,1915,1059,,,1,1
+40,Cuba,1050,British West Indies,1915,95085,,,1,1
+40,Cuba,2,United States,1915,104723108,,,1,1
+40,Cuba,155,Chile,1915,68599,,,1,1
+40,Cuba,160,Argentina,1915,1009072,,,1,1
+40,Cuba,95,Panama,1915,7891,,,1,1
+40,Cuba,94,Costa Rica,1915,1255,,,1,1
+40,Cuba,325,Italy,1915,792982,,,1,1
+40,Cuba,165,Uruguay,1915,1566545,,,1,1
+40,Cuba,130,Ecuador,1915,132660,,,1,1
+40,Cuba,70,Mexico,1915,1477978,,,1,1
+40,Cuba,,,1915,155449585,,,1,1
+40,Cuba,640,Turkey,1915,56006,,,1,1
+40,Cuba,740,Japan,1915,150531,,,1,1
+40,Cuba,101,Venezuela,1915,27771,,,1,1
+40,Cuba,651,Egypt,1915,72,,,1,1
+40,Cuba,211,Belgium,1915,29302,,,1,1
+40,Cuba,255,Germany,1915,799903,,,1,1
+40,Cuba,390,Denmark,1915,275705,,,1,1
+40,Cuba,385,Norway,1915,2125780,,,1,1
+40,Cuba,710,China,1915,174670,,,1,1
+40,Cuba,210,Netherlands,1915,1717178,,,1,1
+40,Cuba,380,Sweden,1915,82175,,,1,1
+40,Cuba,305,Austria,1915,36392,,,1,1
+40,Cuba,6,Puerto Rico,1915,2422481,,,1,1
+40,Cuba,100,Colombia,1915,34030,,,1,1
+40,Cuba,205,Ireland,1915,936324,,,1,1
+40,Cuba,630,Iran,1915,207,,,1,1
+40,Cuba,225,Switzerland,1915,129883,,,1,1
+40,Cuba,200,United Kingdom,1915,15287998,,,1,1
+40,Cuba,42,Dominican Republic,1916,19638,,,1,1
+40,Cuba,390,Denmark,1916,390491,,,1,1
+40,Cuba,145,Bolivia,1916,543,,,1,1
+40,Cuba,800,Thailand,1916,309453,,,1,1
+40,Cuba,255,Germany,1916,25773,,,1,1
+40,Cuba,165,Uruguay,1916,4488538,,,1,1
+40,Cuba,220,France,1916,5930905,,,1,1
+40,Cuba,100,Colombia,1916,104334,,,1,1
+40,Cuba,710,China,1916,1191643,,,1,1
+40,Cuba,200,United Kingdom,1916,19230658,,,1,1
+40,Cuba,41,Haiti,1916,1359,,,1,1
+40,Cuba,130,Ecuador,1916,321501,,,1,1
+40,Cuba,235,Portugal,1916,9247,,,1,1
+40,Cuba,305,Austria,1916,12659,,,1,1
+40,Cuba,750,India,1916,4617970,,,1,1
+40,Cuba,2,United States,1916,185337194,,,1,1
+40,Cuba,135,Peru,1916,9602,,,1,1
+40,Cuba,90,Guatemala,1916,13344,,,1,1
+40,Cuba,,,1916,248278534,,,1,1
+40,Cuba,385,Norway,1916,551951,,,1,1
+40,Cuba,640,Turkey,1916,16737,,,1,1
+40,Cuba,325,Italy,1916,710617,,,1,1
+40,Cuba,1050,British West Indies,1916,66932,,,1,1
+40,Cuba,68,Netherlands Antilles,1916,2809,,,1,1
+40,Cuba,140,Brazil,1916,66955,,,1,1
+40,Cuba,160,Argentina,1916,701546,,,1,1
+40,Cuba,20,Canada,1916,1766729,,,1,1
+40,Cuba,211,Belgium,1916,2909,,,1,1
+40,Cuba,6,Puerto Rico,1916,2508522,,,1,1
+40,Cuba,230,Spain,1916,14408772,,,1,1
+40,Cuba,155,Chile,1916,170253,,,1,1
+40,Cuba,205,Ireland,1916,1147478,,,1,1
+40,Cuba,410,Canary Islands,1916,334891,,,1,1
+40,Cuba,91,Honduras,1916,42252,,,1,1
+40,Cuba,95,Panama,1916,13331,,,1,1
+40,Cuba,630,Iran,1916,16,,,1,1
+40,Cuba,94,Costa Rica,1916,324,,,1,1
+40,Cuba,225,Switzerland,1916,440405,,,1,1
+40,Cuba,380,Sweden,1916,107262,,,1,1
+40,Cuba,70,Mexico,1916,1924630,,,1,1
+40,Cuba,101,Venezuela,1916,25988,,,1,1
+40,Cuba,675,Arabia,1916,1353,,,1,1
+40,Cuba,210,Netherlands,1916,754229,,,1,1
+40,Cuba,740,Japan,1916,496281,,,1,1
+40,Cuba,31,Bahamas,1919,0,1,,1,1
+40,Cuba,522,Djibouti,1919,0,1,,1,1
+40,Cuba,145,Bolivia,1919,0,1,,1,1
+40,Cuba,810,French Indo-China,1919,0,1,,1,1
+40,Cuba,94,Costa Rica,1919,212046,1,,1,1
+40,Cuba,291,Danzig,1919,0,1,,1,1
+40,Cuba,600,Morocco,1919,0,1,,1,1
+40,Cuba,1060,French West Indies,1919,0,1,,1,1
+40,Cuba,120,French Guiana,1919,0,1,,1,1
+40,Cuba,540,Angola,1919,0,1,,1,1
+40,Cuba,450,Liberia,1919,0,1,,1,1
+40,Cuba,6,Puerto Rico,1919,4062036,1,,1,1
+40,Cuba,90,Guatemala,1919,30955,1,,1,1
+40,Cuba,42,Dominican Republic,1919,148715,1,,1,1
+40,Cuba,2208,French Oceania,1919,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1919,0,1,,1,1
+40,Cuba,2355,Portuguese Africa,1919,0,1,,1,1
+40,Cuba,200,United Kingdom,1919,8816154,1,,1,1
+40,Cuba,350,Greece,1919,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1919,59019,1,,1,1
+40,Cuba,210,Netherlands,1919,501349,1,,1,1
+40,Cuba,616,Tunisia,1919,0,1,,1,1
+40,Cuba,630,Iran,1919,0,1,,1,1
+40,Cuba,3,Alaska,1919,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1919,0,1,,1,1
+40,Cuba,430,French West Africa,1919,0,1,,1,1
+40,Cuba,752,Portuguese India,1919,0,1,,1,1
+40,Cuba,800,Thailand,1919,576947,1,,1,1
+40,Cuba,652,Syria,1919,0,1,,1,1
+40,Cuba,80,Belize,1919,0,1,,1,1
+40,Cuba,400,Azores,1919,0,1,,1,1
+40,Cuba,4,Hawaii,1919,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1919,0,1,,1,1
+40,Cuba,530,Ethiopia,1919,0,1,,1,1
+40,Cuba,380,Sweden,1919,104503,1,,1,1
+40,Cuba,165,Uruguay,1919,5176008,1,,1,1
+40,Cuba,65,Guadeloupe,1919,0,1,,1,1
+40,Cuba,41,Haiti,1919,241682,1,,1,1
+40,Cuba,51,Jamaica,1919,0,1,,1,1
+40,Cuba,160,Argentina,1919,1228179,1,,1,1
+40,Cuba,92,El Salvador,1919,15053,1,,1,1
+40,Cuba,720,Hong Kong,1919,0,1,,1,1
+40,Cuba,820,Malaysia,1919,0,1,,1,1
+40,Cuba,20,Canada,1919,7670385,1,,1,1
+40,Cuba,366,Estonia,1919,0,1,,1,1
+40,Cuba,368,Lithuania,1919,0,1,,1,1
+40,Cuba,1050,British West Indies,1919,184144,1,,1,1
+40,Cuba,710,China,1919,2160147,1,,1,1
+40,Cuba,375,Finland,1919,0,1,,1,1
+40,Cuba,640,Turkey,1919,80580,1,,1,1
+40,Cuba,355,Bulgaria,1919,0,1,,1,1
+40,Cuba,827,Straits Settlement,1919,0,1,,1,1
+40,Cuba,360,Romania,1919,0,1,,1,1
+40,Cuba,225,Switzerland,1919,179846,1,,1,1
+40,Cuba,95,Panama,1919,16644,1,,1,1
+40,Cuba,675,Arabia,1919,608,1,,1,1
+40,Cuba,6203,Tripoli,1919,0,1,,1,1
+40,Cuba,205,Ireland,1919,677399,1,,1,1
+40,Cuba,580,Madagascar,1919,0,1,,1,1
+40,Cuba,110,Guyana,1919,0,1,,1,1
+40,Cuba,395,Iceland,1919,0,1,,1,1
+40,Cuba,2205,French Africa,1919,0,1,,1,1
+40,Cuba,1065,Curacao,1919,0,1,,1,1
+40,Cuba,212,Luxembourg,1919,0,1,,1,1
+40,Cuba,345,Yugoslavia,1919,0,1,,1,1
+40,Cuba,711,Manchukuo,1919,0,1,,1,1
+40,Cuba,475,Nigeria,1919,0,1,,1,1
+40,Cuba,573,British South Africa,1919,0,1,,1,1
+40,Cuba,30,Bermuda,1919,0,1,,1,1
+40,Cuba,352,Cyprus,1919,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1919,0,1,,1,1
+40,Cuba,91,Honduras,1919,38665,1,,1,1
+40,Cuba,135,Peru,1919,4387,1,,1,1
+40,Cuba,211,Belgium,1919,60678,1,,1,1
+40,Cuba,521,British Somaliland,1919,0,1,,1,1
+40,Cuba,96,Panama Canal Zone,1919,0,1,,1,1
+40,Cuba,8502,Sumatra,1919,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1919,0,1,,1,1
+40,Cuba,230,Spain,1919,15947350,1,,1,1
+40,Cuba,2000,Other British possessions,1919,0,1,,1,1
+40,Cuba,367,Latvia,1919,0,1,,1,1
+40,Cuba,775,Myanmar,1919,0,1,,1,1
+40,Cuba,601,Tangier,1919,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1919,0,1,,1,1
+40,Cuba,21,Newfoundland,1919,0,1,,1,1
+40,Cuba,255,Germany,1919,197499,1,,1,1
+40,Cuba,70,Mexico,1919,5655127,1,,1,1
+40,Cuba,231,Gibraltar,1919,0,1,,1,1
+40,Cuba,615,Algeria,1919,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1919,0,1,,1,1
+40,Cuba,150,Paraguay,1919,0,1,,1,1
+40,Cuba,751,French India,1919,0,1,,1,1
+40,Cuba,305,Austria,1919,0,1,,1,1
+40,Cuba,10,Greenland,1919,0,1,,1,1
+40,Cuba,505,British East Africa,1919,0,1,,1,1
+40,Cuba,365,Russia,1919,0,1,,1,1
+40,Cuba,625,Sudan,1919,0,1,,1,1
+40,Cuba,310,Hungary,1919,0,1,,1,1
+40,Cuba,93,Nicaragua,1919,0,1,,1,1
+40,Cuba,2005,British Africa,1919,0,1,,1,1
+40,Cuba,651,Egypt,1919,0,1,,1,1
+40,Cuba,740,Japan,1919,10097386,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1919,0,1,,1,1
+40,Cuba,290,Poland,1919,0,1,,1,1
+40,Cuba,101,Venezuela,1919,617282,1,,1,1
+40,Cuba,390,Denmark,1919,383988,1,,1,1
+40,Cuba,645,Iraq,1919,0,1,,1,1
+40,Cuba,100,Colombia,1919,584666,1,,1,1
+40,Cuba,780,Sri Lanka,1919,0,1,,1,1
+40,Cuba,2,United States,1919,273202065,1,,1,1
+40,Cuba,155,Chile,1919,1322526,1,,1,1
+40,Cuba,232,Andorra,1919,0,1,,1,1
+40,Cuba,140,Brazil,1919,106291,1,,1,1
+40,Cuba,66,Martinique,1919,0,1,,1,1
+40,Cuba,235,Portugal,1919,8079,1,,1,1
+40,Cuba,2200,Other French possessions,1919,0,1,,1,1
+40,Cuba,1069,Aruba,1919,0,1,,1,1
+40,Cuba,385,Norway,1919,405881,1,,1,1
+40,Cuba,700,Afghanistan,1919,0,1,,1,1
+40,Cuba,325,Italy,1919,662583,1,,1,1
+40,Cuba,840,Philippines,1919,0,1,,1,1
+40,Cuba,,,1919,359368617,1,,1,1
+40,Cuba,339,Albania,1919,0,1,,1,1
+40,Cuba,750,India,1919,7201158,1,,1,1
+40,Cuba,410,Canary Islands,1919,355837,1,,1,1
+40,Cuba,602,Spanish Morocco,1919,0,1,,1,1
+40,Cuba,8501,Java,1919,0,1,,1,1
+40,Cuba,115,Suriname,1919,0,1,,1,1
+40,Cuba,900,Australia,1919,4434,1,,1,1
+40,Cuba,560,South Africa,1919,0,1,,1,1
+40,Cuba,220,France,1919,9929253,1,,1,1
+40,Cuba,620,Libya,1919,0,1,,1,1
+40,Cuba,130,Ecuador,1919,357097,1,,1,1
+40,Cuba,920,New Zealand,1919,0,1,,1,1
+40,Cuba,720,Hong Kong,1920,0,1,,1,1
+40,Cuba,560,South Africa,1920,0,1,,1,1
+40,Cuba,750,India,1920,12122202,1,,1,1
+40,Cuba,505,British East Africa,1920,0,1,,1,1
+40,Cuba,475,Nigeria,1920,0,1,,1,1
+40,Cuba,640,Turkey,1920,1103,1,,1,1
+40,Cuba,390,Denmark,1920,875263,1,,1,1
+40,Cuba,350,Greece,1920,0,1,,1,1
+40,Cuba,91,Honduras,1920,235933,1,,1,1
+40,Cuba,652,Syria,1920,0,1,,1,1
+40,Cuba,10,Greenland,1920,0,1,,1,1
+40,Cuba,395,Iceland,1920,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1920,0,1,,1,1
+40,Cuba,305,Austria,1920,9750,1,,1,1
+40,Cuba,95,Panama,1920,45882,1,,1,1
+40,Cuba,2200,Other French possessions,1920,0,1,,1,1
+40,Cuba,231,Gibraltar,1920,0,1,,1,1
+40,Cuba,65,Guadeloupe,1920,0,1,,1,1
+40,Cuba,410,Canary Islands,1920,324183,1,,1,1
+40,Cuba,235,Portugal,1920,16281,1,,1,1
+40,Cuba,96,Panama Canal Zone,1920,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1920,0,1,,1,1
+40,Cuba,450,Liberia,1920,0,1,,1,1
+40,Cuba,225,Switzerland,1920,708273,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1920,0,1,,1,1
+40,Cuba,1069,Aruba,1920,0,1,,1,1
+40,Cuba,93,Nicaragua,1920,0,1,,1,1
+40,Cuba,31,Bahamas,1920,0,1,,1,1
+40,Cuba,380,Sweden,1920,287715,1,,1,1
+40,Cuba,521,British Somaliland,1920,0,1,,1,1
+40,Cuba,230,Spain,1920,27974309,1,,1,1
+40,Cuba,530,Ethiopia,1920,0,1,,1,1
+40,Cuba,110,Guyana,1920,0,1,,1,1
+40,Cuba,135,Peru,1920,24633,1,,1,1
+40,Cuba,651,Egypt,1920,1991,1,,1,1
+40,Cuba,6,Puerto Rico,1920,6323273,1,,1,1
+40,Cuba,130,Ecuador,1920,342158,1,,1,1
+40,Cuba,150,Paraguay,1920,0,1,,1,1
+40,Cuba,80,Belize,1920,0,1,,1,1
+40,Cuba,,,1920,558385934,1,,1,1
+40,Cuba,2305,Spanish Africa,1920,0,1,,1,1
+40,Cuba,366,Estonia,1920,0,1,,1,1
+40,Cuba,400,Azores,1920,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1920,0,1,,1,1
+40,Cuba,205,Ireland,1920,1897741,1,,1,1
+40,Cuba,780,Sri Lanka,1920,0,1,,1,1
+40,Cuba,675,Arabia,1920,0,1,,1,1
+40,Cuba,325,Italy,1920,818939,1,,1,1
+40,Cuba,140,Brazil,1920,1362218,1,,1,1
+40,Cuba,630,Iran,1920,138,1,,1,1
+40,Cuba,522,Djibouti,1920,0,1,,1,1
+40,Cuba,2205,French Africa,1920,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1920,0,1,,1,1
+40,Cuba,540,Angola,1920,0,1,,1,1
+40,Cuba,711,Manchukuo,1920,0,1,,1,1
+40,Cuba,220,France,1920,16879245,1,,1,1
+40,Cuba,620,Libya,1920,0,1,,1,1
+40,Cuba,355,Bulgaria,1920,0,1,,1,1
+40,Cuba,2,United States,1920,405724040,1,,1,1
+40,Cuba,101,Venezuela,1920,1533183,1,,1,1
+40,Cuba,165,Uruguay,1920,9917395,1,,1,1
+40,Cuba,751,French India,1920,0,1,,1,1
+40,Cuba,710,China,1920,18693007,1,,1,1
+40,Cuba,21,Newfoundland,1920,0,1,,1,1
+40,Cuba,385,Norway,1920,1001868,1,,1,1
+40,Cuba,30,Bermuda,1920,0,1,,1,1
+40,Cuba,94,Costa Rica,1920,211707,1,,1,1
+40,Cuba,345,Yugoslavia,1920,0,1,,1,1
+40,Cuba,90,Guatemala,1920,0,1,,1,1
+40,Cuba,820,Malaysia,1920,0,1,,1,1
+40,Cuba,232,Andorra,1920,0,1,,1,1
+40,Cuba,430,French West Africa,1920,0,1,,1,1
+40,Cuba,2005,British Africa,1920,0,1,,1,1
+40,Cuba,212,Luxembourg,1920,0,1,,1,1
+40,Cuba,2355,Portuguese Africa,1920,0,1,,1,1
+40,Cuba,310,Hungary,1920,0,1,,1,1
+40,Cuba,700,Afghanistan,1920,0,1,,1,1
+40,Cuba,255,Germany,1920,2879504,1,,1,1
+40,Cuba,51,Jamaica,1920,0,1,,1,1
+40,Cuba,155,Chile,1920,227110,1,,1,1
+40,Cuba,290,Poland,1920,0,1,,1,1
+40,Cuba,810,French Indo-China,1920,0,1,,1,1
+40,Cuba,200,United Kingdom,1920,17703999,1,,1,1
+40,Cuba,145,Bolivia,1920,0,1,,1,1
+40,Cuba,573,British South Africa,1920,0,1,,1,1
+40,Cuba,211,Belgium,1920,344164,1,,1,1
+40,Cuba,615,Algeria,1920,0,1,,1,1
+40,Cuba,580,Madagascar,1920,0,1,,1,1
+40,Cuba,368,Lithuania,1920,0,1,,1,1
+40,Cuba,827,Straits Settlement,1920,0,1,,1,1
+40,Cuba,920,New Zealand,1920,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1920,0,1,,1,1
+40,Cuba,616,Tunisia,1920,0,1,,1,1
+40,Cuba,365,Russia,1920,0,1,,1,1
+40,Cuba,3,Alaska,1920,0,1,,1,1
+40,Cuba,70,Mexico,1920,6165906,1,,1,1
+40,Cuba,375,Finland,1920,0,1,,1,1
+40,Cuba,66,Martinique,1920,0,1,,1,1
+40,Cuba,339,Albania,1920,0,1,,1,1
+40,Cuba,840,Philippines,1920,0,1,,1,1
+40,Cuba,8502,Sumatra,1920,0,1,,1,1
+40,Cuba,115,Suriname,1920,0,1,,1,1
+40,Cuba,601,Tangier,1920,0,1,,1,1
+40,Cuba,740,Japan,1920,11319709,1,,1,1
+40,Cuba,6203,Tripoli,1920,0,1,,1,1
+40,Cuba,42,Dominican Republic,1920,61160,1,,1,1
+40,Cuba,1050,British West Indies,1920,196443,1,,1,1
+40,Cuba,1060,French West Indies,1920,0,1,,1,1
+40,Cuba,2208,French Oceania,1920,0,1,,1,1
+40,Cuba,160,Argentina,1920,2515835,1,,1,1
+40,Cuba,2000,Other British possessions,1920,0,1,,1,1
+40,Cuba,625,Sudan,1920,0,1,,1,1
+40,Cuba,41,Haiti,1920,1239318,1,,1,1
+40,Cuba,602,Spanish Morocco,1920,0,1,,1,1
+40,Cuba,645,Iraq,1920,0,1,,1,1
+40,Cuba,1065,Curacao,1920,0,1,,1,1
+40,Cuba,360,Romania,1920,0,1,,1,1
+40,Cuba,120,French Guiana,1920,0,1,,1,1
+40,Cuba,4,Hawaii,1920,0,1,,1,1
+40,Cuba,8501,Java,1920,0,1,,1,1
+40,Cuba,352,Cyprus,1920,0,1,,1,1
+40,Cuba,775,Myanmar,1920,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1920,0,1,,1,1
+40,Cuba,210,Netherlands,1920,1823203,1,,1,1
+40,Cuba,367,Latvia,1920,0,1,,1,1
+40,Cuba,100,Colombia,1920,239549,1,,1,1
+40,Cuba,600,Morocco,1920,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1920,24258,1,,1,1
+40,Cuba,752,Portuguese India,1920,0,1,,1,1
+40,Cuba,92,El Salvador,1920,49262,1,,1,1
+40,Cuba,800,Thailand,1920,501518,1,,1,1
+40,Cuba,20,Canada,1920,5720628,1,,1,1
+40,Cuba,900,Australia,1920,0,1,,1,1
+40,Cuba,291,Danzig,1920,0,1,,1,1
+40,Cuba,720,Hong Kong,1921,0,1,,1,1
+40,Cuba,711,Manchukuo,1921,0,1,,1,1
+40,Cuba,521,British Somaliland,1921,0,1,,1,1
+40,Cuba,2205,French Africa,1921,0,1,,1,1
+40,Cuba,8501,Java,1921,0,1,,1,1
+40,Cuba,2200,Other French possessions,1921,0,1,,1,1
+40,Cuba,51,Jamaica,1921,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1921,0,1,,1,1
+40,Cuba,212,Luxembourg,1921,0,1,,1,1
+40,Cuba,540,Angola,1921,0,1,,1,1
+40,Cuba,360,Romania,1921,0,1,,1,1
+40,Cuba,310,Hungary,1921,0,1,,1,1
+40,Cuba,2005,British Africa,1921,0,1,,1,1
+40,Cuba,291,Danzig,1921,0,1,,1,1
+40,Cuba,505,British East Africa,1921,0,1,,1,1
+40,Cuba,620,Libya,1921,0,1,,1,1
+40,Cuba,140,Brazil,1921,564831,1,,1,1
+40,Cuba,96,Panama Canal Zone,1921,0,1,,1,1
+40,Cuba,205,Ireland,1921,635702,1,,1,1
+40,Cuba,625,Sudan,1921,0,1,,1,1
+40,Cuba,820,Malaysia,1921,0,1,,1,1
+40,Cuba,900,Australia,1921,0,1,,1,1
+40,Cuba,395,Iceland,1921,0,1,,1,1
+40,Cuba,230,Spain,1921,13654172,1,,1,1
+40,Cuba,,,1921,357065959,1,,1,1
+40,Cuba,90,Guatemala,1921,111139,1,,1,1
+40,Cuba,1069,Aruba,1921,0,1,,1,1
+40,Cuba,1065,Curacao,1921,0,1,,1,1
+40,Cuba,6,Puerto Rico,1921,3767438,1,,1,1
+40,Cuba,1060,French West Indies,1921,0,1,,1,1
+40,Cuba,2208,French Oceania,1921,0,1,,1,1
+40,Cuba,8502,Sumatra,1921,0,1,,1,1
+40,Cuba,350,Greece,1921,0,1,,1,1
+40,Cuba,150,Paraguay,1921,0,1,,1,1
+40,Cuba,630,Iran,1921,4673,1,,1,1
+40,Cuba,2007,British possessions in Asia,1921,0,1,,1,1
+40,Cuba,4,Hawaii,1921,0,1,,1,1
+40,Cuba,365,Russia,1921,0,1,,1,1
+40,Cuba,352,Cyprus,1921,0,1,,1,1
+40,Cuba,355,Bulgaria,1921,0,1,,1,1
+40,Cuba,110,Guyana,1921,0,1,,1,1
+40,Cuba,573,British South Africa,1921,0,1,,1,1
+40,Cuba,475,Nigeria,1921,0,1,,1,1
+40,Cuba,920,New Zealand,1921,0,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1921,0,1,,1,1
+40,Cuba,775,Myanmar,1921,0,1,,1,1
+40,Cuba,750,India,1921,8440888,1,,1,1
+40,Cuba,130,Ecuador,1921,194328,1,,1,1
+40,Cuba,325,Italy,1921,919134,1,,1,1
+40,Cuba,290,Poland,1921,0,1,,1,1
+40,Cuba,2,United States,1921,266136523,1,,1,1
+40,Cuba,522,Djibouti,1921,0,1,,1,1
+40,Cuba,740,Japan,1921,1851120,1,,1,1
+40,Cuba,80,Belize,1921,0,1,,1,1
+40,Cuba,385,Norway,1921,1070375,1,,1,1
+40,Cuba,601,Tangier,1921,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1921,0,1,,1,1
+40,Cuba,100,Colombia,1921,139629,1,,1,1
+40,Cuba,231,Gibraltar,1921,0,1,,1,1
+40,Cuba,652,Syria,1921,0,1,,1,1
+40,Cuba,345,Yugoslavia,1921,0,1,,1,1
+40,Cuba,530,Ethiopia,1921,0,1,,1,1
+40,Cuba,145,Bolivia,1921,0,1,,1,1
+40,Cuba,95,Panama,1921,5507,1,,1,1
+40,Cuba,232,Andorra,1921,0,1,,1,1
+40,Cuba,640,Turkey,1921,934,1,,1,1
+40,Cuba,400,Azores,1921,0,1,,1,1
+40,Cuba,21,Newfoundland,1921,0,1,,1,1
+40,Cuba,91,Honduras,1921,406,1,,1,1
+40,Cuba,368,Lithuania,1921,0,1,,1,1
+40,Cuba,200,United Kingdom,1921,17067867,1,,1,1
+40,Cuba,651,Egypt,1921,206,1,,1,1
+40,Cuba,752,Portuguese India,1921,0,1,,1,1
+40,Cuba,390,Denmark,1921,366394,1,,1,1
+40,Cuba,93,Nicaragua,1921,67014,1,,1,1
+40,Cuba,580,Madagascar,1921,0,1,,1,1
+40,Cuba,780,Sri Lanka,1921,0,1,,1,1
+40,Cuba,410,Canary Islands,1921,293392,1,,1,1
+40,Cuba,367,Latvia,1921,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1921,0,1,,1,1
+40,Cuba,450,Liberia,1921,0,1,,1,1
+40,Cuba,6203,Tripoli,1921,0,1,,1,1
+40,Cuba,101,Venezuela,1921,662231,1,,1,1
+40,Cuba,2000,Other British possessions,1921,0,1,,1,1
+40,Cuba,42,Dominican Republic,1921,119006,1,,1,1
+40,Cuba,135,Peru,1921,7382,1,,1,1
+40,Cuba,375,Finland,1921,0,1,,1,1
+40,Cuba,31,Bahamas,1921,0,1,,1,1
+40,Cuba,94,Costa Rica,1921,138191,1,,1,1
+40,Cuba,30,Bermuda,1921,0,1,,1,1
+40,Cuba,115,Suriname,1921,0,1,,1,1
+40,Cuba,810,French Indo-China,1921,0,1,,1,1
+40,Cuba,255,Germany,1921,5374980,1,,1,1
+40,Cuba,41,Haiti,1921,0,1,,1,1
+40,Cuba,710,China,1921,4587667,1,,1,1
+40,Cuba,220,France,1921,9356096,1,,1,1
+40,Cuba,92,El Salvador,1921,102007,1,,1,1
+40,Cuba,827,Straits Settlement,1921,0,1,,1,1
+40,Cuba,380,Sweden,1921,154889,1,,1,1
+40,Cuba,560,South Africa,1921,0,1,,1,1
+40,Cuba,615,Algeria,1921,0,1,,1,1
+40,Cuba,66,Martinique,1921,0,1,,1,1
+40,Cuba,211,Belgium,1921,614008,1,,1,1
+40,Cuba,840,Philippines,1921,0,1,,1,1
+40,Cuba,165,Uruguay,1921,7285377,1,,1,1
+40,Cuba,155,Chile,1921,31501,1,,1,1
+40,Cuba,70,Mexico,1921,4346814,1,,1,1
+40,Cuba,235,Portugal,1921,138140,1,,1,1
+40,Cuba,675,Arabia,1921,0,1,,1,1
+40,Cuba,366,Estonia,1921,0,1,,1,1
+40,Cuba,65,Guadeloupe,1921,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1921,0,1,,1,1
+40,Cuba,160,Argentina,1921,635236,1,,1,1
+40,Cuba,225,Switzerland,1921,794401,1,,1,1
+40,Cuba,616,Tunisia,1921,0,1,,1,1
+40,Cuba,1050,British West Indies,1921,50516,1,,1,1
+40,Cuba,305,Austria,1921,47157,1,,1,1
+40,Cuba,68,Netherlands Antilles,1921,18483,1,,1,1
+40,Cuba,2355,Portuguese Africa,1921,0,1,,1,1
+40,Cuba,210,Netherlands,1921,2008905,1,,1,1
+40,Cuba,700,Afghanistan,1921,0,1,,1,1
+40,Cuba,645,Iraq,1921,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1921,0,1,,1,1
+40,Cuba,339,Albania,1921,0,1,,1,1
+40,Cuba,120,French Guiana,1921,114076,1,,1,1
+40,Cuba,3,Alaska,1921,0,1,,1,1
+40,Cuba,600,Morocco,1921,0,1,,1,1
+40,Cuba,751,French India,1921,0,1,,1,1
+40,Cuba,430,French West Africa,1921,0,1,,1,1
+40,Cuba,20,Canada,1921,5030825,1,,1,1
+40,Cuba,602,Spanish Morocco,1921,0,1,,1,1
+40,Cuba,10,Greenland,1921,0,1,,1,1
+40,Cuba,800,Thailand,1921,71805,1,,1,1
+40,Cuba,665,West Bank And Gaza,1921,0,1,,1,1
+40,Cuba,365,Russia,1922,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1922,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1922,0,1,,1,1
+40,Cuba,3,Alaska,1922,0,1,,1,1
+40,Cuba,385,Norway,1922,710490,1,,1,1
+40,Cuba,540,Angola,1922,0,1,,1,1
+40,Cuba,42,Dominican Republic,1922,255796,1,,1,1
+40,Cuba,475,Nigeria,1922,0,1,,1,1
+40,Cuba,560,South Africa,1922,0,1,,1,1
+40,Cuba,4,Hawaii,1922,0,1,,1,1
+40,Cuba,211,Belgium,1922,762175,1,,1,1
+40,Cuba,155,Chile,1922,300993,1,,1,1
+40,Cuba,800,Thailand,1922,226820,1,,1,1
+40,Cuba,740,Japan,1922,532254,1,,1,1
+40,Cuba,345,Yugoslavia,1922,0,1,,1,1
+40,Cuba,51,Jamaica,1922,0,1,,1,1
+40,Cuba,305,Austria,1922,35750,1,,1,1
+40,Cuba,573,British South Africa,1922,0,1,,1,1
+40,Cuba,625,Sudan,1922,0,1,,1,1
+40,Cuba,66,Martinique,1922,0,1,,1,1
+40,Cuba,6203,Tripoli,1922,0,1,,1,1
+40,Cuba,10,Greenland,1922,0,1,,1,1
+40,Cuba,505,British East Africa,1922,0,1,,1,1
+40,Cuba,601,Tangier,1922,0,1,,1,1
+40,Cuba,140,Brazil,1922,115214,1,,1,1
+40,Cuba,1069,Aruba,1922,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1922,99,1,,1,1
+40,Cuba,310,Hungary,1922,0,1,,1,1
+40,Cuba,150,Paraguay,1922,0,1,,1,1
+40,Cuba,2355,Portuguese Africa,1922,0,1,,1,1
+40,Cuba,368,Lithuania,1922,0,1,,1,1
+40,Cuba,231,Gibraltar,1922,0,1,,1,1
+40,Cuba,750,India,1922,9533687,1,,1,1
+40,Cuba,325,Italy,1922,365483,1,,1,1
+40,Cuba,2205,French Africa,1922,140,1,,1,1
+40,Cuba,130,Ecuador,1922,75205,1,,1,1
+40,Cuba,291,Danzig,1922,0,1,,1,1
+40,Cuba,720,Hong Kong,1922,0,1,,1,1
+40,Cuba,390,Denmark,1922,367334,1,,1,1
+40,Cuba,115,Suriname,1922,0,1,,1,1
+40,Cuba,220,France,1922,5957541,1,,1,1
+40,Cuba,810,French Indo-China,1922,0,1,,1,1
+40,Cuba,8501,Java,1922,0,1,,1,1
+40,Cuba,367,Latvia,1922,0,1,,1,1
+40,Cuba,820,Malaysia,1922,0,1,,1,1
+40,Cuba,752,Portuguese India,1922,0,1,,1,1
+40,Cuba,651,Egypt,1922,0,1,,1,1
+40,Cuba,290,Poland,1922,0,1,,1,1
+40,Cuba,430,French West Africa,1922,0,1,,1,1
+40,Cuba,1050,British West Indies,1922,9074,1,,1,1
+40,Cuba,530,Ethiopia,1922,0,1,,1,1
+40,Cuba,410,Canary Islands,1922,167342,1,,1,1
+40,Cuba,94,Costa Rica,1922,5821,1,,1,1
+40,Cuba,395,Iceland,1922,0,1,,1,1
+40,Cuba,135,Peru,1922,723915,1,,1,1
+40,Cuba,31,Bahamas,1922,0,1,,1,1
+40,Cuba,920,New Zealand,1922,0,1,,1,1
+40,Cuba,900,Australia,1922,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1922,16536,1,,1,1
+40,Cuba,652,Syria,1922,0,1,,1,1
+40,Cuba,160,Argentina,1922,772223,1,,1,1
+40,Cuba,205,Ireland,1922,141354,1,,1,1
+40,Cuba,212,Luxembourg,1922,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1922,0,1,,1,1
+40,Cuba,200,United Kingdom,1922,9106060,1,,1,1
+40,Cuba,630,Iran,1922,553,1,,1,1
+40,Cuba,225,Switzerland,1922,349594,1,,1,1
+40,Cuba,8502,Sumatra,1922,0,1,,1,1
+40,Cuba,255,Germany,1922,3547154,1,,1,1
+40,Cuba,165,Uruguay,1922,4134931,1,,1,1
+40,Cuba,352,Cyprus,1922,0,1,,1,1
+40,Cuba,1065,Curacao,1922,0,1,,1,1
+40,Cuba,521,British Somaliland,1922,0,1,,1,1
+40,Cuba,93,Nicaragua,1922,58422,1,,1,1
+40,Cuba,65,Guadeloupe,1922,0,1,,1,1
+40,Cuba,827,Straits Settlement,1922,0,1,,1,1
+40,Cuba,751,French India,1922,0,1,,1,1
+40,Cuba,710,China,1922,1477607,1,,1,1
+40,Cuba,2000,Other British possessions,1922,0,1,,1,1
+40,Cuba,840,Philippines,1922,0,1,,1,1
+40,Cuba,711,Manchukuo,1922,0,1,,1,1
+40,Cuba,620,Libya,1922,0,1,,1,1
+40,Cuba,230,Spain,1922,8356437,1,,1,1
+40,Cuba,2007,British possessions in Asia,1922,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1922,0,1,,1,1
+40,Cuba,616,Tunisia,1922,0,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1922,0,1,,1,1
+40,Cuba,600,Morocco,1922,0,1,,1,1
+40,Cuba,6,Puerto Rico,1922,2010254,1,,1,1
+40,Cuba,145,Bolivia,1922,0,1,,1,1
+40,Cuba,675,Arabia,1922,0,1,,1,1
+40,Cuba,339,Albania,1922,0,1,,1,1
+40,Cuba,580,Madagascar,1922,0,1,,1,1
+40,Cuba,92,El Salvador,1922,487817,1,,1,1
+40,Cuba,,,1922,180809194,1,,1,1
+40,Cuba,2005,British Africa,1922,34,1,,1,1
+40,Cuba,1060,French West Indies,1922,0,1,,1,1
+40,Cuba,615,Algeria,1922,10380,1,,1,1
+40,Cuba,110,Guyana,1922,0,1,,1,1
+40,Cuba,350,Greece,1922,0,1,,1,1
+40,Cuba,120,French Guiana,1922,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1922,0,1,,1,1
+40,Cuba,775,Myanmar,1922,0,1,,1,1
+40,Cuba,21,Newfoundland,1922,0,1,,1,1
+40,Cuba,2208,French Oceania,1922,133,1,,1,1
+40,Cuba,640,Turkey,1922,512,1,,1,1
+40,Cuba,450,Liberia,1922,0,1,,1,1
+40,Cuba,2,United States,1922,120713766,1,,1,1
+40,Cuba,235,Portugal,1922,37068,1,,1,1
+40,Cuba,400,Azores,1922,0,1,,1,1
+40,Cuba,780,Sri Lanka,1922,0,1,,1,1
+40,Cuba,96,Panama Canal Zone,1922,0,1,,1,1
+40,Cuba,90,Guatemala,1922,83811,1,,1,1
+40,Cuba,30,Bermuda,1922,0,1,,1,1
+40,Cuba,522,Djibouti,1922,0,1,,1,1
+40,Cuba,41,Haiti,1922,7433,1,,1,1
+40,Cuba,355,Bulgaria,1922,0,1,,1,1
+40,Cuba,700,Afghanistan,1922,0,1,,1,1
+40,Cuba,80,Belize,1922,0,1,,1,1
+40,Cuba,602,Spanish Morocco,1922,0,1,,1,1
+40,Cuba,91,Honduras,1922,11453,1,,1,1
+40,Cuba,95,Panama,1922,4222,1,,1,1
+40,Cuba,375,Finland,1922,0,1,,1,1
+40,Cuba,100,Colombia,1922,9131,1,,1,1
+40,Cuba,2200,Other French possessions,1922,0,1,,1,1
+40,Cuba,366,Estonia,1922,0,1,,1,1
+40,Cuba,645,Iraq,1922,0,1,,1,1
+40,Cuba,70,Mexico,1922,3795305,1,,1,1
+40,Cuba,232,Andorra,1922,0,1,,1,1
+40,Cuba,101,Venezuela,1922,65340,1,,1,1
+40,Cuba,20,Canada,1922,3758900,1,,1,1
+40,Cuba,210,Netherlands,1922,1361876,1,,1,1
+40,Cuba,360,Romania,1922,10775,1,,1,1
+40,Cuba,380,Sweden,1922,232272,1,,1,1
+40,Cuba,675,Arabia,1923,50,1,,1,1
+40,Cuba,160,Argentina,1923,782444,1,,1,1
+40,Cuba,2205,French Africa,1923,161,1,,1,1
+40,Cuba,200,United Kingdom,1923,12970503,1,,1,1
+40,Cuba,,,1923,269052696,1,,1,1
+40,Cuba,700,Afghanistan,1923,0,1,,1,1
+40,Cuba,145,Bolivia,1923,0,1,,1,1
+40,Cuba,365,Russia,1923,19,1,,1,1
+40,Cuba,395,Iceland,1923,0,1,,1,1
+40,Cuba,20,Canada,1923,5678341,1,,1,1
+40,Cuba,580,Madagascar,1923,0,1,,1,1
+40,Cuba,740,Japan,1923,661050,1,,1,1
+40,Cuba,652,Syria,1923,0,1,,1,1
+40,Cuba,95,Panama,1923,46219,1,,1,1
+40,Cuba,2208,French Oceania,1923,0,1,,1,1
+40,Cuba,651,Egypt,1923,21305,1,,1,1
+40,Cuba,205,Ireland,1923,694286,1,,1,1
+40,Cuba,540,Angola,1923,0,1,,1,1
+40,Cuba,375,Finland,1923,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1923,0,1,,1,1
+40,Cuba,291,Danzig,1923,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1923,0,1,,1,1
+40,Cuba,573,British South Africa,1923,0,1,,1,1
+40,Cuba,65,Guadeloupe,1923,0,1,,1,1
+40,Cuba,8502,Sumatra,1923,0,1,,1,1
+40,Cuba,155,Chile,1923,399846,1,,1,1
+40,Cuba,430,French West Africa,1923,0,1,,1,1
+40,Cuba,31,Bahamas,1923,0,1,,1,1
+40,Cuba,2200,Other French possessions,1923,0,1,,1,1
+40,Cuba,625,Sudan,1923,0,1,,1,1
+40,Cuba,92,El Salvador,1923,640173,1,,1,1
+40,Cuba,4,Hawaii,1923,0,1,,1,1
+40,Cuba,90,Guatemala,1923,232638,1,,1,1
+40,Cuba,352,Cyprus,1923,0,1,,1,1
+40,Cuba,10,Greenland,1923,0,1,,1,1
+40,Cuba,380,Sweden,1923,622173,1,,1,1
+40,Cuba,110,Guyana,1923,0,1,,1,1
+40,Cuba,220,France,1923,8389827,1,,1,1
+40,Cuba,8501,Java,1923,0,1,,1,1
+40,Cuba,560,South Africa,1923,0,1,,1,1
+40,Cuba,225,Switzerland,1923,418997,1,,1,1
+40,Cuba,630,Iran,1923,1944,1,,1,1
+40,Cuba,6,Puerto Rico,1923,2451334,1,,1,1
+40,Cuba,345,Yugoslavia,1923,0,1,,1,1
+40,Cuba,750,India,1923,10141704,1,,1,1
+40,Cuba,602,Spanish Morocco,1923,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1923,0,1,,1,1
+40,Cuba,368,Lithuania,1923,0,1,,1,1
+40,Cuba,2,United States,1923,181717272,1,,1,1
+40,Cuba,21,Newfoundland,1923,0,1,,1,1
+40,Cuba,115,Suriname,1923,0,1,,1,1
+40,Cuba,231,Gibraltar,1923,0,1,,1,1
+40,Cuba,120,French Guiana,1923,202,1,,1,1
+40,Cuba,96,Panama Canal Zone,1923,0,1,,1,1
+40,Cuba,212,Luxembourg,1923,0,1,,1,1
+40,Cuba,350,Greece,1923,0,1,,1,1
+40,Cuba,720,Hong Kong,1923,0,1,,1,1
+40,Cuba,3,Alaska,1923,0,1,,1,1
+40,Cuba,900,Australia,1923,0,1,,1,1
+40,Cuba,211,Belgium,1923,1168293,1,,1,1
+40,Cuba,310,Hungary,1923,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1923,10264,1,,1,1
+40,Cuba,6203,Tripoli,1923,0,1,,1,1
+40,Cuba,140,Brazil,1923,424121,1,,1,1
+40,Cuba,780,Sri Lanka,1923,0,1,,1,1
+40,Cuba,2005,British Africa,1923,0,1,,1,1
+40,Cuba,355,Bulgaria,1923,0,1,,1,1
+40,Cuba,645,Iraq,1923,0,1,,1,1
+40,Cuba,150,Paraguay,1923,0,1,,1,1
+40,Cuba,710,China,1923,1344588,1,,1,1
+40,Cuba,521,British Somaliland,1923,0,1,,1,1
+40,Cuba,91,Honduras,1923,15722,1,,1,1
+40,Cuba,255,Germany,1923,7937582,1,,1,1
+40,Cuba,840,Philippines,1923,0,1,,1,1
+40,Cuba,711,Manchukuo,1923,0,1,,1,1
+40,Cuba,165,Uruguay,1923,4796032,1,,1,1
+40,Cuba,2305,Spanish Africa,1923,507,1,,1,1
+40,Cuba,66,Martinique,1923,0,1,,1,1
+40,Cuba,390,Denmark,1923,724634,1,,1,1
+40,Cuba,230,Spain,1923,13213009,1,,1,1
+40,Cuba,232,Andorra,1923,0,1,,1,1
+40,Cuba,775,Myanmar,1923,0,1,,1,1
+40,Cuba,290,Poland,1923,0,1,,1,1
+40,Cuba,135,Peru,1923,1046150,1,,1,1
+40,Cuba,475,Nigeria,1923,0,1,,1,1
+40,Cuba,920,New Zealand,1923,0,1,,1,1
+40,Cuba,41,Haiti,1923,319673,1,,1,1
+40,Cuba,1060,French West Indies,1923,0,1,,1,1
+40,Cuba,827,Straits Settlement,1923,0,1,,1,1
+40,Cuba,522,Djibouti,1923,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1923,0,1,,1,1
+40,Cuba,210,Netherlands,1923,1840168,1,,1,1
+40,Cuba,820,Malaysia,1923,0,1,,1,1
+40,Cuba,235,Portugal,1923,24106,1,,1,1
+40,Cuba,620,Libya,1923,0,1,,1,1
+40,Cuba,410,Canary Islands,1923,281779,1,,1,1
+40,Cuba,400,Azores,1923,0,1,,1,1
+40,Cuba,360,Romania,1923,15594,1,,1,1
+40,Cuba,600,Morocco,1923,0,1,,1,1
+40,Cuba,51,Jamaica,1923,0,1,,1,1
+40,Cuba,616,Tunisia,1923,0,1,,1,1
+40,Cuba,101,Venezuela,1923,507882,1,,1,1
+40,Cuba,2355,Portuguese Africa,1923,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1923,0,1,,1,1
+40,Cuba,100,Colombia,1923,23481,1,,1,1
+40,Cuba,130,Ecuador,1923,196847,1,,1,1
+40,Cuba,615,Algeria,1923,6722,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1923,0,1,,1,1
+40,Cuba,339,Albania,1923,0,1,,1,1
+40,Cuba,752,Portuguese India,1923,0,1,,1,1
+40,Cuba,367,Latvia,1923,0,1,,1,1
+40,Cuba,1069,Aruba,1923,0,1,,1,1
+40,Cuba,94,Costa Rica,1923,52926,1,,1,1
+40,Cuba,2000,Other British possessions,1923,0,1,,1,1
+40,Cuba,1065,Curacao,1923,0,1,,1,1
+40,Cuba,80,Belize,1923,0,1,,1,1
+40,Cuba,800,Thailand,1923,555586,1,,1,1
+40,Cuba,640,Turkey,1923,3900,1,,1,1
+40,Cuba,751,French India,1923,0,1,,1,1
+40,Cuba,70,Mexico,1923,5016741,1,,1,1
+40,Cuba,601,Tangier,1923,0,1,,1,1
+40,Cuba,366,Estonia,1923,0,1,,1,1
+40,Cuba,325,Italy,1923,1194127,1,,1,1
+40,Cuba,1050,British West Indies,1923,165623,1,,1,1
+40,Cuba,450,Liberia,1923,0,1,,1,1
+40,Cuba,42,Dominican Republic,1923,116555,1,,1,1
+40,Cuba,305,Austria,1923,101748,1,,1,1
+40,Cuba,385,Norway,1923,1551386,1,,1,1
+40,Cuba,810,French Indo-China,1923,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1923,0,1,,1,1
+40,Cuba,30,Bermuda,1923,0,1,,1,1
+40,Cuba,530,Ethiopia,1923,0,1,,1,1
+40,Cuba,93,Nicaragua,1923,323282,1,,1,1
+40,Cuba,505,British East Africa,1923,0,1,,1,1
+40,Cuba,231,Gibraltar,1924,0,1,,1,1
+40,Cuba,305,Austria,1924,100531,1,,1,1
+40,Cuba,160,Argentina,1924,1744222,1,,1,1
+40,Cuba,602,Spanish Morocco,1924,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1924,0,1,,1,1
+40,Cuba,430,French West Africa,1924,0,1,,1,1
+40,Cuba,310,Hungary,1924,1909,1,,1,1
+40,Cuba,651,Egypt,1924,72303,1,,1,1
+40,Cuba,395,Iceland,1924,0,1,,1,1
+40,Cuba,2208,French Oceania,1924,0,1,,1,1
+40,Cuba,230,Spain,1924,14521013,1,,1,1
+40,Cuba,1069,Aruba,1924,0,1,,1,1
+40,Cuba,820,Malaysia,1924,0,1,,1,1
+40,Cuba,3,Alaska,1924,0,1,,1,1
+40,Cuba,920,New Zealand,1924,0,1,,1,1
+40,Cuba,375,Finland,1924,0,1,,1,1
+40,Cuba,675,Arabia,1924,387,1,,1,1
+40,Cuba,92,El Salvador,1924,662816,1,,1,1
+40,Cuba,80,Belize,1924,0,1,,1,1
+40,Cuba,345,Yugoslavia,1924,0,1,,1,1
+40,Cuba,2,United States,1924,192113060,1,,1,1
+40,Cuba,710,China,1924,1520250,1,,1,1
+40,Cuba,66,Martinique,1924,0,1,,1,1
+40,Cuba,211,Belgium,1924,3105626,1,,1,1
+40,Cuba,601,Tangier,1924,0,1,,1,1
+40,Cuba,751,French India,1924,0,1,,1,1
+40,Cuba,255,Germany,1924,9846359,1,,1,1
+40,Cuba,840,Philippines,1924,0,1,,1,1
+40,Cuba,232,Andorra,1924,0,1,,1,1
+40,Cuba,450,Liberia,1924,0,1,,1,1
+40,Cuba,,,1924,290506421,1,,1,1
+40,Cuba,368,Lithuania,1924,0,1,,1,1
+40,Cuba,93,Nicaragua,1924,183475,1,,1,1
+40,Cuba,800,Thailand,1924,448615,1,,1,1
+40,Cuba,720,Hong Kong,1924,0,1,,1,1
+40,Cuba,900,Australia,1924,0,1,,1,1
+40,Cuba,505,British East Africa,1924,0,1,,1,1
+40,Cuba,573,British South Africa,1924,0,1,,1,1
+40,Cuba,355,Bulgaria,1924,0,1,,1,1
+40,Cuba,96,Panama Canal Zone,1924,0,1,,1,1
+40,Cuba,350,Greece,1924,0,1,,1,1
+40,Cuba,367,Latvia,1924,0,1,,1,1
+40,Cuba,752,Portuguese India,1924,0,1,,1,1
+40,Cuba,120,French Guiana,1924,0,1,,1,1
+40,Cuba,366,Estonia,1924,0,1,,1,1
+40,Cuba,560,South Africa,1924,0,1,,1,1
+40,Cuba,140,Brazil,1924,1307478,1,,1,1
+40,Cuba,711,Manchukuo,1924,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1924,0,1,,1,1
+40,Cuba,2000,Other British possessions,1924,0,1,,1,1
+40,Cuba,365,Russia,1924,479,1,,1,1
+40,Cuba,640,Turkey,1924,20753,1,,1,1
+40,Cuba,30,Bermuda,1924,0,1,,1,1
+40,Cuba,475,Nigeria,1924,0,1,,1,1
+40,Cuba,652,Syria,1924,0,1,,1,1
+40,Cuba,115,Suriname,1924,0,1,,1,1
+40,Cuba,1065,Curacao,1924,0,1,,1,1
+40,Cuba,205,Ireland,1924,856440,1,,1,1
+40,Cuba,616,Tunisia,1924,0,1,,1,1
+40,Cuba,390,Denmark,1924,660128,1,,1,1
+40,Cuba,740,Japan,1924,918439,1,,1,1
+40,Cuba,220,France,1924,9508246,1,,1,1
+40,Cuba,42,Dominican Republic,1924,607638,1,,1,1
+40,Cuba,380,Sweden,1924,582053,1,,1,1
+40,Cuba,150,Paraguay,1924,0,1,,1,1
+40,Cuba,1060,French West Indies,1924,0,1,,1,1
+40,Cuba,95,Panama,1924,48959,1,,1,1
+40,Cuba,165,Uruguay,1924,5332643,1,,1,1
+40,Cuba,339,Albania,1924,0,1,,1,1
+40,Cuba,6,Puerto Rico,1924,2626151,1,,1,1
+40,Cuba,65,Guadeloupe,1924,0,1,,1,1
+40,Cuba,145,Bolivia,1924,0,1,,1,1
+40,Cuba,6203,Tripoli,1924,0,1,,1,1
+40,Cuba,41,Haiti,1924,57023,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1924,0,1,,1,1
+40,Cuba,1050,British West Indies,1924,106604,1,,1,1
+40,Cuba,810,French Indo-China,1924,0,1,,1,1
+40,Cuba,130,Ecuador,1924,136056,1,,1,1
+40,Cuba,615,Algeria,1924,39842,1,,1,1
+40,Cuba,625,Sudan,1924,0,1,,1,1
+40,Cuba,645,Iraq,1924,0,1,,1,1
+40,Cuba,8502,Sumatra,1924,0,1,,1,1
+40,Cuba,700,Afghanistan,1924,0,1,,1,1
+40,Cuba,94,Costa Rica,1924,52795,1,,1,1
+40,Cuba,20,Canada,1924,5489630,1,,1,1
+40,Cuba,291,Danzig,1924,0,1,,1,1
+40,Cuba,8501,Java,1924,0,1,,1,1
+40,Cuba,750,India,1924,9483112,1,,1,1
+40,Cuba,400,Azores,1924,0,1,,1,1
+40,Cuba,100,Colombia,1924,160526,1,,1,1
+40,Cuba,235,Portugal,1924,94455,1,,1,1
+40,Cuba,110,Guyana,1924,0,1,,1,1
+40,Cuba,290,Poland,1924,0,1,,1,1
+40,Cuba,4,Hawaii,1924,0,1,,1,1
+40,Cuba,827,Straits Settlement,1924,0,1,,1,1
+40,Cuba,200,United Kingdom,1924,12085632,1,,1,1
+40,Cuba,775,Myanmar,1924,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1924,0,1,,1,1
+40,Cuba,91,Honduras,1924,44193,1,,1,1
+40,Cuba,385,Norway,1924,1880142,1,,1,1
+40,Cuba,225,Switzerland,1924,678148,1,,1,1
+40,Cuba,410,Canary Islands,1924,276098,1,,1,1
+40,Cuba,51,Jamaica,1924,0,1,,1,1
+40,Cuba,212,Luxembourg,1924,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1924,10661,1,,1,1
+40,Cuba,2200,Other French possessions,1924,0,1,,1,1
+40,Cuba,2205,French Africa,1924,7189,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1924,0,1,,1,1
+40,Cuba,600,Morocco,1924,0,1,,1,1
+40,Cuba,21,Newfoundland,1924,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1924,0,1,,1,1
+40,Cuba,580,Madagascar,1924,0,1,,1,1
+40,Cuba,620,Libya,1924,0,1,,1,1
+40,Cuba,780,Sri Lanka,1924,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1924,18983,1,,1,1
+40,Cuba,70,Mexico,1924,6563874,1,,1,1
+40,Cuba,352,Cyprus,1924,0,1,,1,1
+40,Cuba,521,British Somaliland,1924,0,1,,1,1
+40,Cuba,360,Romania,1924,54253,1,,1,1
+40,Cuba,155,Chile,1924,654808,1,,1,1
+40,Cuba,101,Venezuela,1924,662286,1,,1,1
+40,Cuba,480,French Equatorial Africa,1924,0,1,,1,1
+40,Cuba,210,Netherlands,1924,2418893,1,,1,1
+40,Cuba,2355,Portuguese Africa,1924,0,1,,1,1
+40,Cuba,10,Greenland,1924,0,1,,1,1
+40,Cuba,135,Peru,1924,1780,1,,1,1
+40,Cuba,90,Guatemala,1924,132351,1,,1,1
+40,Cuba,31,Bahamas,1924,0,1,,1,1
+40,Cuba,2005,British Africa,1924,96,1,,1,1
+40,Cuba,530,Ethiopia,1924,0,1,,1,1
+40,Cuba,630,Iran,1924,7579,1,,1,1
+40,Cuba,325,Italy,1924,2332161,1,,1,1
+40,Cuba,522,Djibouti,1924,0,1,,1,1
+40,Cuba,540,Angola,1924,0,1,,1,1
+40,Cuba,212,Luxembourg,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,120,French Guiana,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,602,Spanish Morocco,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,625,Sudan,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,522,Djibouti,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,68,Netherlands Antilles,1925,560,1,Pesos Moneda Eua,1,1
+40,Cuba,615,Algeria,1925,1391,1,Pesos Moneda Eua,1,1
+40,Cuba,375,Finland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,450,Liberia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,235,Portugal,1925,67901,1,Pesos Moneda Eua,1,1
+40,Cuba,352,Cyprus,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,665,West Bank And Gaza,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,652,Syria,1925,68,1,Pesos Moneda Eua,1,1
+40,Cuba,366,Estonia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,601,Tangier,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,775,Myanmar,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,325,Italy,1925,2542597,1,Pesos Moneda Eua,1,1
+40,Cuba,800,Thailand,1925,330864,1,Pesos Moneda Eua,1,1
+40,Cuba,540,Angola,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,100,Colombia,1925,61655,1,Pesos Moneda Eua,1,1
+40,Cuba,140,Brazil,1925,1135512,1,Pesos Moneda Eua,1,1
+40,Cuba,115,Suriname,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,305,Austria,1925,275245,1,Pesos Moneda Eua,1,1
+40,Cuba,380,Sweden,1925,414922,1,Pesos Moneda Eua,1,1
+40,Cuba,2007,British possessions in Asia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,395,Iceland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,225,Switzerland,1925,1465262,1,Pesos Moneda Eua,1,1
+40,Cuba,52,Trinidad And Tobago,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,,,1925,297363572,1,Pesos Moneda Eua,1,1
+40,Cuba,630,Iran,1925,1435,1,Pesos Moneda Eua,1,1
+40,Cuba,2305,Spanish Africa,1925,14254,1,Pesos Moneda Eua,1,1
+40,Cuba,620,Libya,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,130,Ecuador,1925,267332,1,Pesos Moneda Eua,1,1
+40,Cuba,365,Russia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2,United States,1925,187223844,1,Pesos Moneda Eua,1,1
+40,Cuba,645,Iraq,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,232,Andorra,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,220,France,1925,11327784,1,Pesos Moneda Eua,1,1
+40,Cuba,4,Hawaii,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,8502,Sumatra,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,70,Mexico,1925,8633345,1,Pesos Moneda Eua,1,1
+40,Cuba,700,Afghanistan,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,1069,Aruba,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,480,French Equatorial Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,1065,Curacao,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,367,Latvia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,41,Haiti,1925,53969,1,Pesos Moneda Eua,1,1
+40,Cuba,740,Japan,1925,1120556,1,Pesos Moneda Eua,1,1
+40,Cuba,752,Portuguese India,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,310,Hungary,1925,3850,1,Pesos Moneda Eua,1,1
+40,Cuba,135,Peru,1925,9494,1,Pesos Moneda Eua,1,1
+40,Cuba,430,French West Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,30,Bermuda,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2205,French Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,6203,Tripoli,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,210,Netherlands,1925,2459511,1,Pesos Moneda Eua,1,1
+40,Cuba,91,Honduras,1925,159676,1,Pesos Moneda Eua,1,1
+40,Cuba,2005,British Africa,1925,143,1,Pesos Moneda Eua,1,1
+40,Cuba,475,Nigeria,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,255,Germany,1925,9376816,1,Pesos Moneda Eua,1,1
+40,Cuba,651,Egypt,1925,142533,1,Pesos Moneda Eua,1,1
+40,Cuba,65,Guadeloupe,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,720,Hong Kong,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,385,Norway,1925,2483469,1,Pesos Moneda Eua,1,1
+40,Cuba,368,Lithuania,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,360,Romania,1925,71204,1,Pesos Moneda Eua,1,1
+40,Cuba,2355,Portuguese Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,400,Azores,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,710,China,1925,1340294,1,Pesos Moneda Eua,1,1
+40,Cuba,600,Morocco,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,810,French Indo-China,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,390,Denmark,1925,700201,1,Pesos Moneda Eua,1,1
+40,Cuba,95,Panama,1925,31935,1,Pesos Moneda Eua,1,1
+40,Cuba,573,British South Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,51,Jamaica,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,66,Martinique,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,155,Chile,1925,316852,1,Pesos Moneda Eua,1,1
+40,Cuba,820,Malaysia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,345,Yugoslavia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,211,Belgium,1925,3718278,1,Pesos Moneda Eua,1,1
+40,Cuba,1050,British West Indies,1925,335326,1,Pesos Moneda Eua,1,1
+40,Cuba,315,Czechoslovakia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,521,British Somaliland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,920,New Zealand,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2008,Other British Oceania,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,94,Costa Rica,1925,125623,1,Pesos Moneda Eua,1,1
+40,Cuba,31,Bahamas,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,1060,French West Indies,1925,4241,1,Pesos Moneda Eua,1,1
+40,Cuba,150,Paraguay,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,780,Sri Lanka,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,80,Belize,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,711,Manchukuo,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,580,Madagascar,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,616,Tunisia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,3,Alaska,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,640,Turkey,1925,10395,1,Pesos Moneda Eua,1,1
+40,Cuba,165,Uruguay,1925,5622592,1,Pesos Moneda Eua,1,1
+40,Cuba,230,Spain,1925,13054616,1,Pesos Moneda Eua,1,1
+40,Cuba,675,Arabia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,205,Ireland,1925,920671,1,Pesos Moneda Eua,1,1
+40,Cuba,505,British East Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,291,Danzig,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,751,French India,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,410,Canary Islands,1925,213807,1,Pesos Moneda Eua,1,1
+40,Cuba,290,Poland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,490,"Congo, Dem. Republic",1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,750,India,1925,16435782,1,Pesos Moneda Eua,1,1
+40,Cuba,8501,Java,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,145,Bolivia,1925,6690,1,Pesos Moneda Eua,1,1
+40,Cuba,2208,French Oceania,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,20,Canada,1925,6619148,1,Pesos Moneda Eua,1,1
+40,Cuba,90,Guatemala,1925,197679,1,Pesos Moneda Eua,1,1
+40,Cuba,355,Bulgaria,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,6,Puerto Rico,1925,2155740,1,Pesos Moneda Eua,1,1
+40,Cuba,160,Argentina,1925,1779956,1,Pesos Moneda Eua,1,1
+40,Cuba,560,South Africa,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2000,Other British possessions,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,530,Ethiopia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,110,Guyana,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,92,El Salvador,1925,445503,1,Pesos Moneda Eua,1,1
+40,Cuba,339,Albania,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,10,Greenland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,42,Dominican Republic,1925,639304,1,Pesos Moneda Eua,1,1
+40,Cuba,900,Australia,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,101,Venezuela,1925,626028,1,Pesos Moneda Eua,1,1
+40,Cuba,827,Straits Settlement,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,840,Philippines,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,350,Greece,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,21,Newfoundland,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2200,Other French possessions,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,200,United Kingdom,1925,12028600,1,Pesos Moneda Eua,1,1
+40,Cuba,96,Panama Canal Zone,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,231,Gibraltar,1925,0,1,Pesos Moneda Eua,1,1
+40,Cuba,93,Nicaragua,1925,310869,1,Pesos Moneda Eua,1,1
+40,Cuba,115,Suriname,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,652,Syria,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,380,Sweden,1926,631450,1,Pesos Moneda Eua,1,1
+40,Cuba,625,Sudan,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,66,Martinique,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2,United States,1926,160051621,1,Pesos Moneda Eua,1,1
+40,Cuba,615,Algeria,1926,19700,1,Pesos Moneda Eua,1,1
+40,Cuba,430,French West Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,145,Bolivia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,616,Tunisia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,366,Estonia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,365,Russia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,210,Netherlands,1926,2263002,1,Pesos Moneda Eua,1,1
+40,Cuba,580,Madagascar,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,205,Ireland,1926,979602,1,Pesos Moneda Eua,1,1
+40,Cuba,490,"Congo, Dem. Republic",1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,96,Panama Canal Zone,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,212,Luxembourg,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,400,Azores,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,211,Belgium,1926,3633623,1,Pesos Moneda Eua,1,1
+40,Cuba,710,China,1926,808750,1,Pesos Moneda Eua,1,1
+40,Cuba,110,Guyana,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,800,Thailand,1926,311055,1,Pesos Moneda Eua,1,1
+40,Cuba,31,Bahamas,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,160,Argentina,1926,1483884,1,Pesos Moneda Eua,1,1
+40,Cuba,645,Iraq,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,355,Bulgaria,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2005,British Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,70,Mexico,1926,6713211,1,Pesos Moneda Eua,1,1
+40,Cuba,90,Guatemala,1926,10279,1,Pesos Moneda Eua,1,1
+40,Cuba,1069,Aruba,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,900,Australia,1926,352,1,Pesos Moneda Eua,1,1
+40,Cuba,573,British South Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,920,New Zealand,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2305,Spanish Africa,1926,4934,1,Pesos Moneda Eua,1,1
+40,Cuba,560,South Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,665,West Bank And Gaza,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,530,Ethiopia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,235,Portugal,1926,55634,1,Pesos Moneda Eua,1,1
+40,Cuba,3,Alaska,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,1060,French West Indies,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,68,Netherlands Antilles,1926,350766,1,Pesos Moneda Eua,1,1
+40,Cuba,230,Spain,1926,11515931,1,Pesos Moneda Eua,1,1
+40,Cuba,51,Jamaica,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,675,Arabia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,352,Cyprus,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,155,Chile,1926,394194,1,Pesos Moneda Eua,1,1
+40,Cuba,101,Venezuela,1926,443533,1,Pesos Moneda Eua,1,1
+40,Cuba,52,Trinidad And Tobago,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,,,1926,260973064,1,Pesos Moneda Eua,1,1
+40,Cuba,780,Sri Lanka,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,751,French India,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,752,Portuguese India,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,480,French Equatorial Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,310,Hungary,1926,396,1,Pesos Moneda Eua,1,1
+40,Cuba,92,El Salvador,1926,208866,1,Pesos Moneda Eua,1,1
+40,Cuba,10,Greenland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2355,Portuguese Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,94,Costa Rica,1926,7068,1,Pesos Moneda Eua,1,1
+40,Cuba,827,Straits Settlement,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,291,Danzig,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,315,Czechoslovakia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,8501,Java,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,521,British Somaliland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,339,Albania,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,450,Liberia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2205,French Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,820,Malaysia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,225,Switzerland,1926,861953,1,Pesos Moneda Eua,1,1
+40,Cuba,345,Yugoslavia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,350,Greece,1926,504,1,Pesos Moneda Eua,1,1
+40,Cuba,305,Austria,1926,174430,1,Pesos Moneda Eua,1,1
+40,Cuba,325,Italy,1926,2266981,1,Pesos Moneda Eua,1,1
+40,Cuba,80,Belize,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,6,Puerto Rico,1926,2417452,1,Pesos Moneda Eua,1,1
+40,Cuba,810,French Indo-China,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2007,British possessions in Asia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,135,Peru,1926,74297,1,Pesos Moneda Eua,1,1
+40,Cuba,375,Finland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,505,British East Africa,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,220,France,1926,11873427,1,Pesos Moneda Eua,1,1
+40,Cuba,640,Turkey,1926,2479,1,Pesos Moneda Eua,1,1
+40,Cuba,93,Nicaragua,1926,63553,1,Pesos Moneda Eua,1,1
+40,Cuba,395,Iceland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,602,Spanish Morocco,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,522,Djibouti,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,600,Morocco,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,1065,Curacao,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,651,Egypt,1926,232526,1,Pesos Moneda Eua,1,1
+40,Cuba,41,Haiti,1926,51669,1,Pesos Moneda Eua,1,1
+40,Cuba,740,Japan,1926,753016,1,Pesos Moneda Eua,1,1
+40,Cuba,750,India,1926,16506348,1,Pesos Moneda Eua,1,1
+40,Cuba,232,Andorra,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,255,Germany,1926,7742852,1,Pesos Moneda Eua,1,1
+40,Cuba,1050,British West Indies,1926,66339,1,Pesos Moneda Eua,1,1
+40,Cuba,2208,French Oceania,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,290,Poland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,21,Newfoundland,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,20,Canada,1926,7070581,1,Pesos Moneda Eua,1,1
+40,Cuba,390,Denmark,1926,602008,1,Pesos Moneda Eua,1,1
+40,Cuba,475,Nigeria,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,95,Panama,1926,40447,1,Pesos Moneda Eua,1,1
+40,Cuba,630,Iran,1926,110,1,Pesos Moneda Eua,1,1
+40,Cuba,91,Honduras,1926,81405,1,Pesos Moneda Eua,1,1
+40,Cuba,360,Romania,1926,79306,1,Pesos Moneda Eua,1,1
+40,Cuba,42,Dominican Republic,1926,669865,1,Pesos Moneda Eua,1,1
+40,Cuba,65,Guadeloupe,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,700,Afghanistan,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,120,French Guiana,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,540,Angola,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,711,Manchukuo,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,775,Myanmar,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,150,Paraguay,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2000,Other British possessions,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,6203,Tripoli,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2008,Other British Oceania,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,620,Libya,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,8502,Sumatra,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,2200,Other French possessions,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,30,Bermuda,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,100,Colombia,1926,21572,1,Pesos Moneda Eua,1,1
+40,Cuba,200,United Kingdom,1926,12473886,1,Pesos Moneda Eua,1,1
+40,Cuba,4,Hawaii,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,165,Uruguay,1926,4031424,1,Pesos Moneda Eua,1,1
+40,Cuba,140,Brazil,1926,161291,1,Pesos Moneda Eua,1,1
+40,Cuba,385,Norway,1926,1918827,1,Pesos Moneda Eua,1,1
+40,Cuba,840,Philippines,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,231,Gibraltar,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,720,Hong Kong,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,130,Ecuador,1926,231139,1,Pesos Moneda Eua,1,1
+40,Cuba,410,Canary Islands,1926,322274,1,Pesos Moneda Eua,1,1
+40,Cuba,368,Lithuania,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,367,Latvia,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,601,Tangier,1926,0,1,Pesos Moneda Eua,1,1
+40,Cuba,395,Iceland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,225,Switzerland,1927,800030,1,Pesos Moneda Nacional,1,1
+40,Cuba,8502,Sumatra,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,94,Costa Rica,1927,15351,1,Pesos Moneda Nacional,1,1
+40,Cuba,2005,British Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,130,Ecuador,1927,347657,1,Pesos Moneda Nacional,1,1
+40,Cuba,4,Hawaii,1927,7116,1,Pesos Moneda Nacional,1,1
+40,Cuba,90,Guatemala,1927,195279,1,Pesos Moneda Nacional,1,1
+40,Cuba,800,Thailand,1927,420652,1,Pesos Moneda Nacional,1,1
+40,Cuba,80,Belize,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,6,Puerto Rico,1927,765056,1,Pesos Moneda Nacional,1,1
+40,Cuba,3,Alaska,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,101,Venezuela,1927,135830,1,Pesos Moneda Nacional,1,1
+40,Cuba,2208,French Oceania,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,367,Latvia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,625,Sudan,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2,United States,1927,149597681,1,Pesos Moneda Nacional,1,1
+40,Cuba,540,Angola,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,350,Greece,1927,18,1,Pesos Moneda Nacional,1,1
+40,Cuba,710,China,1927,707762,1,Pesos Moneda Nacional,1,1
+40,Cuba,521,British Somaliland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,305,Austria,1927,106142,1,Pesos Moneda Nacional,1,1
+40,Cuba,645,Iraq,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,620,Libya,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,810,French Indo-China,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,900,Australia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,522,Djibouti,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,235,Portugal,1927,49525,1,Pesos Moneda Nacional,1,1
+40,Cuba,160,Argentina,1927,1454697,1,Pesos Moneda Nacional,1,1
+40,Cuba,480,French Equatorial Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,66,Martinique,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,220,France,1927,12459527,1,Pesos Moneda Nacional,1,1
+40,Cuba,490,"Congo, Dem. Republic",1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,720,Hong Kong,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,291,Danzig,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,70,Mexico,1927,5942986,1,Pesos Moneda Nacional,1,1
+40,Cuba,600,Morocco,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,42,Dominican Republic,1927,842138,1,Pesos Moneda Nacional,1,1
+40,Cuba,52,Trinidad And Tobago,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2000,Other British possessions,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,135,Peru,1927,269603,1,Pesos Moneda Nacional,1,1
+40,Cuba,675,Arabia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,601,Tangier,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,310,Hungary,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,232,Andorra,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,385,Norway,1927,2549308,1,Pesos Moneda Nacional,1,1
+40,Cuba,750,India,1927,15684495,1,Pesos Moneda Nacional,1,1
+40,Cuba,290,Poland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,651,Egypt,1927,278516,1,Pesos Moneda Nacional,1,1
+40,Cuba,390,Denmark,1927,577100,1,Pesos Moneda Nacional,1,1
+40,Cuba,780,Sri Lanka,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,255,Germany,1927,7762063,1,Pesos Moneda Nacional,1,1
+40,Cuba,360,Romania,1927,51883,1,Pesos Moneda Nacional,1,1
+40,Cuba,10,Greenland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,145,Bolivia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,827,Straits Settlement,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,640,Turkey,1927,95,1,Pesos Moneda Nacional,1,1
+40,Cuba,475,Nigeria,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,430,French West Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1060,French West Indies,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,150,Paraguay,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,602,Spanish Morocco,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,165,Uruguay,1927,3910785,1,Pesos Moneda Nacional,1,1
+40,Cuba,100,Colombia,1927,512684,1,Pesos Moneda Nacional,1,1
+40,Cuba,375,Finland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2008,Other British Oceania,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,41,Haiti,1927,551190,1,Pesos Moneda Nacional,1,1
+40,Cuba,339,Albania,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,68,Netherlands Antilles,1927,292183,1,Pesos Moneda Nacional,1,1
+40,Cuba,230,Spain,1927,10618687,1,Pesos Moneda Nacional,1,1
+40,Cuba,355,Bulgaria,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,120,French Guiana,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,573,British South Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1069,Aruba,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,212,Luxembourg,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,630,Iran,1927,1478,1,Pesos Moneda Nacional,1,1
+40,Cuba,820,Malaysia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,505,British East Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,91,Honduras,1927,163093,1,Pesos Moneda Nacional,1,1
+40,Cuba,51,Jamaica,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,210,Netherlands,1927,2888245,1,Pesos Moneda Nacional,1,1
+40,Cuba,560,South Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,93,Nicaragua,1927,87050,1,Pesos Moneda Nacional,1,1
+40,Cuba,231,Gibraltar,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,211,Belgium,1927,3547304,1,Pesos Moneda Nacional,1,1
+40,Cuba,6203,Tripoli,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,110,Guyana,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,450,Liberia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,8501,Java,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,711,Manchukuo,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1050,British West Indies,1927,379015,1,Pesos Moneda Nacional,1,1
+40,Cuba,752,Portuguese India,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,30,Bermuda,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,775,Myanmar,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,700,Afghanistan,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,345,Yugoslavia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,366,Estonia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,92,El Salvador,1927,303486,1,Pesos Moneda Nacional,1,1
+40,Cuba,400,Azores,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,580,Madagascar,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2305,Spanish Africa,1927,5160,1,Pesos Moneda Nacional,1,1
+40,Cuba,155,Chile,1927,543116,1,Pesos Moneda Nacional,1,1
+40,Cuba,115,Suriname,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,665,West Bank And Gaza,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,740,Japan,1927,937678,1,Pesos Moneda Nacional,1,1
+40,Cuba,368,Lithuania,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,652,Syria,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2007,British possessions in Asia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2355,Portuguese Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2205,French Africa,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,95,Panama,1927,6468,1,Pesos Moneda Nacional,1,1
+40,Cuba,21,Newfoundland,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,352,Cyprus,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,315,Czechoslovakia,1927,50,1,Pesos Moneda Nacional,1,1
+40,Cuba,365,Russia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1065,Curacao,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,96,Panama Canal Zone,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,616,Tunisia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,920,New Zealand,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,205,Ireland,1927,978719,1,Pesos Moneda Nacional,1,1
+40,Cuba,410,Canary Islands,1927,109221,1,Pesos Moneda Nacional,1,1
+40,Cuba,20,Canada,1927,6031457,1,Pesos Moneda Nacional,1,1
+40,Cuba,840,Philippines,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,530,Ethiopia,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,615,Algeria,1927,2009,1,Pesos Moneda Nacional,1,1
+40,Cuba,380,Sweden,1927,537747,1,Pesos Moneda Nacional,1,1
+40,Cuba,325,Italy,1927,2269093,1,Pesos Moneda Nacional,1,1
+40,Cuba,2200,Other French possessions,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,200,United Kingdom,1927,11696994,1,Pesos Moneda Nacional,1,1
+40,Cuba,,,1927,266887627,1,Pesos Moneda Nacional,1,1
+40,Cuba,751,French India,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,140,Brazil,1927,487075,1,Pesos Moneda Nacional,1,1
+40,Cuba,65,Guadeloupe,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,31,Bahamas,1927,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,345,Yugoslavia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,652,Syria,1928,519,1,Pesos Moneda Nacional,1,1
+40,Cuba,602,Spanish Morocco,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,350,Greece,1928,127,1,Pesos Moneda Nacional,1,1
+40,Cuba,80,Belize,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1050,British West Indies,1928,81711,1,Pesos Moneda Nacional,1,1
+40,Cuba,750,India,1928,16066700,1,Pesos Moneda Nacional,1,1
+40,Cuba,810,French Indo-China,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,355,Bulgaria,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,752,Portuguese India,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,305,Austria,1928,102727,1,Pesos Moneda Nacional,1,1
+40,Cuba,150,Paraguay,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,200,United Kingdom,1928,10428053,1,Pesos Moneda Nacional,1,1
+40,Cuba,2000,Other British possessions,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,560,South Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,573,British South Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,740,Japan,1928,817485,1,Pesos Moneda Nacional,1,1
+40,Cuba,380,Sweden,1928,718896,1,Pesos Moneda Nacional,1,1
+40,Cuba,90,Guatemala,1928,176259,1,Pesos Moneda Nacional,1,1
+40,Cuba,52,Trinidad And Tobago,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,475,Nigeria,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,6203,Tripoli,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,620,Libya,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2305,Spanish Africa,1928,73991,1,Pesos Moneda Nacional,1,1
+40,Cuba,135,Peru,1928,72277,1,Pesos Moneda Nacional,1,1
+40,Cuba,100,Colombia,1928,290422,1,Pesos Moneda Nacional,1,1
+40,Cuba,2208,French Oceania,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,368,Lithuania,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,616,Tunisia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,310,Hungary,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,601,Tangier,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,3,Alaska,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,220,France,1928,9623518,1,Pesos Moneda Nacional,1,1
+40,Cuba,10,Greenland,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,375,Finland,1928,693,1,Pesos Moneda Nacional,1,1
+40,Cuba,255,Germany,1928,6586279,1,Pesos Moneda Nacional,1,1
+40,Cuba,210,Netherlands,1928,2403181,1,Pesos Moneda Nacional,1,1
+40,Cuba,51,Jamaica,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,8501,Java,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,95,Panama,1928,10552,1,Pesos Moneda Nacional,1,1
+40,Cuba,2205,French Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,93,Nicaragua,1928,126699,1,Pesos Moneda Nacional,1,1
+40,Cuba,395,Iceland,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,840,Philippines,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,710,China,1928,562363,1,Pesos Moneda Nacional,1,1
+40,Cuba,212,Luxembourg,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,110,Guyana,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,505,British East Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,145,Bolivia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,6,Puerto Rico,1928,90095,1,Pesos Moneda Nacional,1,1
+40,Cuba,521,British Somaliland,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,160,Argentina,1928,851270,1,Pesos Moneda Nacional,1,1
+40,Cuba,70,Mexico,1928,3485532,1,Pesos Moneda Nacional,1,1
+40,Cuba,115,Suriname,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,365,Russia,1928,62,1,Pesos Moneda Nacional,1,1
+40,Cuba,290,Poland,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,352,Cyprus,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,8502,Sumatra,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,390,Denmark,1928,469198,1,Pesos Moneda Nacional,1,1
+40,Cuba,410,Canary Islands,1928,87247,1,Pesos Moneda Nacional,1,1
+40,Cuba,367,Latvia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,339,Albania,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,400,Azores,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,900,Australia,1928,24785,1,Pesos Moneda Nacional,1,1
+40,Cuba,231,Gibraltar,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,615,Algeria,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,94,Costa Rica,1928,31282,1,Pesos Moneda Nacional,1,1
+40,Cuba,490,"Congo, Dem. Republic",1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,775,Myanmar,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,325,Italy,1928,1532650,1,Pesos Moneda Nacional,1,1
+40,Cuba,2200,Other French possessions,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,315,Czechoslovakia,1928,308,1,Pesos Moneda Nacional,1,1
+40,Cuba,101,Venezuela,1928,575591,1,Pesos Moneda Nacional,1,1
+40,Cuba,480,French Equatorial Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,,,1928,219714352,1,Pesos Moneda Nacional,1,1
+40,Cuba,31,Bahamas,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,155,Chile,1928,601747,1,Pesos Moneda Nacional,1,1
+40,Cuba,232,Andorra,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,780,Sri Lanka,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,665,West Bank And Gaza,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,91,Honduras,1928,55199,1,Pesos Moneda Nacional,1,1
+40,Cuba,120,French Guiana,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,65,Guadeloupe,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,235,Portugal,1928,54903,1,Pesos Moneda Nacional,1,1
+40,Cuba,205,Ireland,1928,716940,1,Pesos Moneda Nacional,1,1
+40,Cuba,2008,Other British Oceania,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,625,Sudan,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,21,Newfoundland,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2007,British possessions in Asia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,820,Malaysia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,522,Djibouti,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,800,Thailand,1928,617359,1,Pesos Moneda Nacional,1,1
+40,Cuba,366,Estonia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,450,Liberia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,430,French West Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,530,Ethiopia,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,630,Iran,1928,14942,1,Pesos Moneda Nacional,1,1
+40,Cuba,225,Switzerland,1928,663984,1,Pesos Moneda Nacional,1,1
+40,Cuba,640,Turkey,1928,9499,1,Pesos Moneda Nacional,1,1
+40,Cuba,1060,French West Indies,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,130,Ecuador,1928,280170,1,Pesos Moneda Nacional,1,1
+40,Cuba,920,New Zealand,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,42,Dominican Republic,1928,591157,1,Pesos Moneda Nacional,1,1
+40,Cuba,2005,British Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,291,Danzig,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1069,Aruba,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,68,Netherlands Antilles,1928,974789,1,Pesos Moneda Nacional,1,1
+40,Cuba,96,Panama Canal Zone,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,30,Bermuda,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,675,Arabia,1928,5510,1,Pesos Moneda Nacional,1,1
+40,Cuba,827,Straits Settlement,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,41,Haiti,1928,307513,1,Pesos Moneda Nacional,1,1
+40,Cuba,720,Hong Kong,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2355,Portuguese Africa,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,92,El Salvador,1928,596313,1,Pesos Moneda Nacional,1,1
+40,Cuba,651,Egypt,1928,326007,1,Pesos Moneda Nacional,1,1
+40,Cuba,540,Angola,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,4,Hawaii,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,66,Martinique,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1065,Curacao,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,140,Brazil,1928,305493,1,Pesos Moneda Nacional,1,1
+40,Cuba,20,Canada,1928,4756156,1,Pesos Moneda Nacional,1,1
+40,Cuba,580,Madagascar,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,360,Romania,1928,64415,1,Pesos Moneda Nacional,1,1
+40,Cuba,211,Belgium,1928,2930518,1,Pesos Moneda Nacional,1,1
+40,Cuba,230,Spain,1928,9382433,1,Pesos Moneda Nacional,1,1
+40,Cuba,751,French India,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,600,Morocco,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,165,Uruguay,1928,2933064,1,Pesos Moneda Nacional,1,1
+40,Cuba,385,Norway,1928,1958411,1,Pesos Moneda Nacional,1,1
+40,Cuba,700,Afghanistan,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,711,Manchukuo,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,645,Iraq,1928,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2,United States,1928,122482278,1,Pesos Moneda Nacional,1,1
+40,Cuba,800,Thailand,1929,774939,1,Pesos Moneda Nacional,1,1
+40,Cuba,475,Nigeria,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,450,Liberia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,1069,Aruba,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,665,West Bank And Gaza,1929,21,1,Pesos Moneda Nacional,1,1
+40,Cuba,2355,Portuguese Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,10,Greenland,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,740,Japan,1929,1202407,1,Pesos Moneda Nacional,1,1
+40,Cuba,400,Azores,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,130,Ecuador,1929,365125,1,Pesos Moneda Nacional,1,1
+40,Cuba,30,Bermuda,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,630,Iran,1929,1486,1,Pesos Moneda Nacional,1,1
+40,Cuba,41,Haiti,1929,149743,1,Pesos Moneda Nacional,1,1
+40,Cuba,430,French West Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,366,Estonia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,20,Canada,1929,4915000,1,Pesos Moneda Nacional,1,1
+40,Cuba,505,British East Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,94,Costa Rica,1929,6677,1,Pesos Moneda Nacional,1,1
+40,Cuba,232,Andorra,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,775,Myanmar,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,645,Iraq,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,115,Suriname,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,625,Sudan,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,51,Jamaica,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,155,Chile,1929,1330074,1,Pesos Moneda Nacional,1,1
+40,Cuba,2000,Other British possessions,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2008,Other British Oceania,1929,21217,1,Pesos Moneda Nacional,1,1
+40,Cuba,205,Ireland,1929,876639,1,Pesos Moneda Nacional,1,1
+40,Cuba,310,Hungary,1929,235,1,Pesos Moneda Nacional,1,1
+40,Cuba,490,"Congo, Dem. Republic",1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,375,Finland,1929,2129,1,Pesos Moneda Nacional,1,1
+40,Cuba,751,French India,1929,34155,1,Pesos Moneda Nacional,1,1
+40,Cuba,140,Brazil,1929,1019569,1,Pesos Moneda Nacional,1,1
+40,Cuba,230,Spain,1929,8929258,1,Pesos Moneda Nacional,1,1
+40,Cuba,200,United Kingdom,1929,12020591,1,Pesos Moneda Nacional,1,1
+40,Cuba,2205,French Africa,1929,58095,1,Pesos Moneda Nacional,1,1
+40,Cuba,530,Ethiopia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,8502,Sumatra,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,91,Honduras,1929,34892,1,Pesos Moneda Nacional,1,1
+40,Cuba,68,Netherlands Antilles,1929,1480314,1,Pesos Moneda Nacional,1,1
+40,Cuba,315,Czechoslovakia,1929,8936,1,Pesos Moneda Nacional,1,1
+40,Cuba,920,New Zealand,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,750,India,1929,15600002,1,Pesos Moneda Nacional,1,1
+40,Cuba,95,Panama,1929,3351,1,Pesos Moneda Nacional,1,1
+40,Cuba,700,Afghanistan,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,325,Italy,1929,1955106,1,Pesos Moneda Nacional,1,1
+40,Cuba,368,Lithuania,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,522,Djibouti,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,640,Turkey,1929,6825,1,Pesos Moneda Nacional,1,1
+40,Cuba,780,Sri Lanka,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,21,Newfoundland,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2,United States,1929,121144815,1,Pesos Moneda Nacional,1,1
+40,Cuba,521,British Somaliland,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2005,British Africa,1929,69040,1,Pesos Moneda Nacional,1,1
+40,Cuba,600,Morocco,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,652,Syria,1929,627,1,Pesos Moneda Nacional,1,1
+40,Cuba,350,Greece,1929,568,1,Pesos Moneda Nacional,1,1
+40,Cuba,410,Canary Islands,1929,93975,1,Pesos Moneda Nacional,1,1
+40,Cuba,65,Guadeloupe,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,305,Austria,1929,187205,1,Pesos Moneda Nacional,1,1
+40,Cuba,345,Yugoslavia,1929,367,1,Pesos Moneda Nacional,1,1
+40,Cuba,720,Hong Kong,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,120,French Guiana,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2208,French Oceania,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,93,Nicaragua,1929,135448,1,Pesos Moneda Nacional,1,1
+40,Cuba,711,Manchukuo,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,66,Martinique,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,,,1929,222121388,1,Pesos Moneda Nacional,1,1
+40,Cuba,225,Switzerland,1929,886922,1,Pesos Moneda Nacional,1,1
+40,Cuba,92,El Salvador,1929,311252,1,Pesos Moneda Nacional,1,1
+40,Cuba,540,Angola,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,6203,Tripoli,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,291,Danzig,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,810,French Indo-China,1929,7685,1,Pesos Moneda Nacional,1,1
+40,Cuba,480,French Equatorial Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,602,Spanish Morocco,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,90,Guatemala,1929,114474,1,Pesos Moneda Nacional,1,1
+40,Cuba,675,Arabia,1929,421,1,Pesos Moneda Nacional,1,1
+40,Cuba,352,Cyprus,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,360,Romania,1929,26373,1,Pesos Moneda Nacional,1,1
+40,Cuba,752,Portuguese India,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,710,China,1929,812752,1,Pesos Moneda Nacional,1,1
+40,Cuba,52,Trinidad And Tobago,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,601,Tangier,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,365,Russia,1929,8316,1,Pesos Moneda Nacional,1,1
+40,Cuba,150,Paraguay,1929,111045,1,Pesos Moneda Nacional,1,1
+40,Cuba,560,South Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,96,Panama Canal Zone,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,42,Dominican Republic,1929,694789,1,Pesos Moneda Nacional,1,1
+40,Cuba,220,France,1929,8989712,1,Pesos Moneda Nacional,1,1
+40,Cuba,580,Madagascar,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,616,Tunisia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,70,Mexico,1929,2769007,1,Pesos Moneda Nacional,1,1
+40,Cuba,80,Belize,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2200,Other French possessions,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,212,Luxembourg,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,165,Uruguay,1929,1663995,1,Pesos Moneda Nacional,1,1
+40,Cuba,160,Argentina,1929,659712,1,Pesos Moneda Nacional,1,1
+40,Cuba,355,Bulgaria,1929,449,1,Pesos Moneda Nacional,1,1
+40,Cuba,3,Alaska,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,145,Bolivia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,573,British South Africa,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,231,Gibraltar,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,651,Egypt,1929,314083,1,Pesos Moneda Nacional,1,1
+40,Cuba,385,Norway,1929,1951362,1,Pesos Moneda Nacional,1,1
+40,Cuba,235,Portugal,1929,57372,1,Pesos Moneda Nacional,1,1
+40,Cuba,6,Puerto Rico,1929,34854,1,Pesos Moneda Nacional,1,1
+40,Cuba,339,Albania,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,840,Philippines,1929,385372,1,Pesos Moneda Nacional,1,1
+40,Cuba,135,Peru,1929,90681,1,Pesos Moneda Nacional,1,1
+40,Cuba,1065,Curacao,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2007,British possessions in Asia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,827,Straits Settlement,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,4,Hawaii,1929,3175,1,Pesos Moneda Nacional,1,1
+40,Cuba,615,Algeria,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,211,Belgium,1929,3834360,1,Pesos Moneda Nacional,1,1
+40,Cuba,900,Australia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,8501,Java,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,31,Bahamas,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,390,Denmark,1929,631616,1,Pesos Moneda Nacional,1,1
+40,Cuba,380,Sweden,1929,1100820,1,Pesos Moneda Nacional,1,1
+40,Cuba,395,Iceland,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,255,Germany,1929,7477468,1,Pesos Moneda Nacional,1,1
+40,Cuba,820,Malaysia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,290,Poland,1929,1280,1,Pesos Moneda Nacional,1,1
+40,Cuba,100,Colombia,1929,765707,1,Pesos Moneda Nacional,1,1
+40,Cuba,620,Libya,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,2305,Spanish Africa,1929,402,1,Pesos Moneda Nacional,1,1
+40,Cuba,101,Venezuela,1929,1225840,1,Pesos Moneda Nacional,1,1
+40,Cuba,1050,British West Indies,1929,94757,1,Pesos Moneda Nacional,1,1
+40,Cuba,1060,French West Indies,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,367,Latvia,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,110,Guyana,1929,0,1,Pesos Moneda Nacional,1,1
+40,Cuba,210,Netherlands,1929,2853954,1,Pesos Moneda Nacional,1,1
+40,Cuba,2000,Other British possessions,1930,0,1,$,1,1
+40,Cuba,810,French Indo-China,1930,0,1,$,1,1
+40,Cuba,3,Alaska,1930,0,1,$,1,1
+40,Cuba,10,Greenland,1930,0,1,$,1,1
+40,Cuba,652,Syria,1930,2880,1,$,1,1
+40,Cuba,1065,Curacao,1930,0,1,$,1,1
+40,Cuba,645,Iraq,1930,0,1,$,1,1
+40,Cuba,30,Bermuda,1930,0,1,$,1,1
+40,Cuba,530,Ethiopia,1930,0,1,$,1,1
+40,Cuba,95,Panama,1930,6448,1,$,1,1
+40,Cuba,505,British East Africa,1930,0,1,$,1,1
+40,Cuba,212,Luxembourg,1930,0,1,$,1,1
+40,Cuba,360,Romania,1930,29159,1,$,1,1
+40,Cuba,120,French Guiana,1930,0,1,$,1,1
+40,Cuba,390,Denmark,1930,223427,1,$,1,1
+40,Cuba,155,Chile,1930,1238311,1,$,1,1
+40,Cuba,305,Austria,1930,87596,1,$,1,1
+40,Cuba,291,Danzig,1930,0,1,$,1,1
+40,Cuba,573,British South Africa,1930,0,1,$,1,1
+40,Cuba,2305,Spanish Africa,1930,14355,1,$,1,1
+40,Cuba,310,Hungary,1930,1702,1,$,1,1
+40,Cuba,352,Cyprus,1930,0,1,$,1,1
+40,Cuba,367,Latvia,1930,0,1,$,1,1
+40,Cuba,410,Canary Islands,1930,74263,1,$,1,1
+40,Cuba,52,Trinidad And Tobago,1930,0,1,$,1,1
+40,Cuba,66,Martinique,1930,0,1,$,1,1
+40,Cuba,840,Philippines,1930,96374,1,$,1,1
+40,Cuba,900,Australia,1930,0,1,$,1,1
+40,Cuba,20,Canada,1930,3657217,1,$,1,1
+40,Cuba,1050,British West Indies,1930,37296,1,$,1,1
+40,Cuba,160,Argentina,1930,347159,1,$,1,1
+40,Cuba,145,Bolivia,1930,0,1,$,1,1
+40,Cuba,750,India,1930,15304480,1,$,1,1
+40,Cuba,6203,Tripoli,1930,0,1,$,1,1
+40,Cuba,115,Suriname,1930,0,1,$,1,1
+40,Cuba,720,Hong Kong,1930,0,1,$,1,1
+40,Cuba,375,Finland,1930,37789,1,$,1,1
+40,Cuba,700,Afghanistan,1930,0,1,$,1,1
+40,Cuba,2008,Other British Oceania,1930,6276,1,$,1,1
+40,Cuba,232,Andorra,1930,0,1,$,1,1
+40,Cuba,80,Belize,1930,0,1,$,1,1
+40,Cuba,651,Egypt,1930,250170,1,$,1,1
+40,Cuba,2208,French Oceania,1930,0,1,$,1,1
+40,Cuba,775,Myanmar,1930,0,1,$,1,1
+40,Cuba,430,French West Africa,1930,0,1,$,1,1
+40,Cuba,400,Azores,1930,0,1,$,1,1
+40,Cuba,1069,Aruba,1930,0,1,$,1,1
+40,Cuba,480,French Equatorial Africa,1930,0,1,$,1,1
+40,Cuba,751,French India,1930,0,1,$,1,1
+40,Cuba,211,Belgium,1930,2324777,1,$,1,1
+40,Cuba,601,Tangier,1930,0,1,$,1,1
+40,Cuba,231,Gibraltar,1930,0,1,$,1,1
+40,Cuba,135,Peru,1930,71889,1,$,1,1
+40,Cuba,365,Russia,1930,106865,1,$,1,1
+40,Cuba,2005,British Africa,1930,67313,1,$,1,1
+40,Cuba,625,Sudan,1930,0,1,$,1,1
+40,Cuba,780,Sri Lanka,1930,0,1,$,1,1
+40,Cuba,235,Portugal,1930,58334,1,$,1,1
+40,Cuba,665,West Bank And Gaza,1930,50,1,$,1,1
+40,Cuba,522,Djibouti,1930,0,1,$,1,1
+40,Cuba,92,El Salvador,1930,158182,1,$,1,1
+40,Cuba,290,Poland,1930,1614,1,$,1,1
+40,Cuba,220,France,1930,5464805,1,$,1,1
+40,Cuba,96,Panama Canal Zone,1930,0,1,$,1,1
+40,Cuba,325,Italy,1930,1290760,1,$,1,1
+40,Cuba,65,Guadeloupe,1930,0,1,$,1,1
+40,Cuba,8502,Sumatra,1930,0,1,$,1,1
+40,Cuba,710,China,1930,442134,1,$,1,1
+40,Cuba,380,Sweden,1930,788996,1,$,1,1
+40,Cuba,205,Ireland,1930,697810,1,$,1,1
+40,Cuba,225,Switzerland,1930,576186,1,$,1,1
+40,Cuba,6,Puerto Rico,1930,6937,1,$,1,1
+40,Cuba,752,Portuguese India,1930,0,1,$,1,1
+40,Cuba,31,Bahamas,1930,0,1,$,1,1
+40,Cuba,395,Iceland,1930,0,1,$,1,1
+40,Cuba,93,Nicaragua,1930,43451,1,$,1,1
+40,Cuba,675,Arabia,1930,231,1,$,1,1
+40,Cuba,4,Hawaii,1930,0,1,$,1,1
+40,Cuba,820,Malaysia,1930,0,1,$,1,1
+40,Cuba,1060,French West Indies,1930,0,1,$,1,1
+40,Cuba,800,Thailand,1930,835048,1,$,1,1
+40,Cuba,580,Madagascar,1930,0,1,$,1,1
+40,Cuba,339,Albania,1930,0,1,$,1,1
+40,Cuba,600,Morocco,1930,0,1,$,1,1
+40,Cuba,2205,French Africa,1930,15,1,$,1,1
+40,Cuba,21,Newfoundland,1930,0,1,$,1,1
+40,Cuba,210,Netherlands,1930,2554949,1,$,1,1
+40,Cuba,150,Paraguay,1930,89600,1,$,1,1
+40,Cuba,368,Lithuania,1930,0,1,$,1,1
+40,Cuba,94,Costa Rica,1930,3634,1,$,1,1
+40,Cuba,345,Yugoslavia,1930,350,1,$,1,1
+40,Cuba,711,Manchukuo,1930,0,1,$,1,1
+40,Cuba,630,Iran,1930,2333,1,$,1,1
+40,Cuba,90,Guatemala,1930,103352,1,$,1,1
+40,Cuba,827,Straits Settlement,1930,0,1,$,1,1
+40,Cuba,490,"Congo, Dem. Republic",1930,0,1,$,1,1
+40,Cuba,165,Uruguay,1930,1001198,1,$,1,1
+40,Cuba,620,Libya,1930,0,1,$,1,1
+40,Cuba,,,1930,162733204,1,$,1,1
+40,Cuba,230,Spain,1930,7583587,1,$,1,1
+40,Cuba,140,Brazil,1930,1058971,1,$,1,1
+40,Cuba,615,Algeria,1930,0,1,$,1,1
+40,Cuba,200,United Kingdom,1930,8860142,1,$,1,1
+40,Cuba,740,Japan,1930,1396983,1,$,1,1
+40,Cuba,2355,Portuguese Africa,1930,0,1,$,1,1
+40,Cuba,385,Norway,1930,1928212,1,$,1,1
+40,Cuba,51,Jamaica,1930,0,1,$,1,1
+40,Cuba,366,Estonia,1930,0,1,$,1,1
+40,Cuba,521,British Somaliland,1930,0,1,$,1,1
+40,Cuba,616,Tunisia,1930,0,1,$,1,1
+40,Cuba,2200,Other French possessions,1930,0,1,$,1,1
+40,Cuba,91,Honduras,1930,70934,1,$,1,1
+40,Cuba,640,Turkey,1930,2710,1,$,1,1
+40,Cuba,101,Venezuela,1930,370427,1,$,1,1
+40,Cuba,255,Germany,1930,6102925,1,$,1,1
+40,Cuba,70,Mexico,1930,2318644,1,$,1,1
+40,Cuba,602,Spanish Morocco,1930,0,1,$,1,1
+40,Cuba,350,Greece,1930,109,1,$,1,1
+40,Cuba,475,Nigeria,1930,0,1,$,1,1
+40,Cuba,920,New Zealand,1930,0,1,$,1,1
+40,Cuba,2007,British possessions in Asia,1930,422,1,$,1,1
+40,Cuba,450,Liberia,1930,0,1,$,1,1
+40,Cuba,560,South Africa,1930,0,1,$,1,1
+40,Cuba,355,Bulgaria,1930,144,1,$,1,1
+40,Cuba,2,United States,1930,91872214,1,$,1,1
+40,Cuba,68,Netherlands Antilles,1930,1016103,1,$,1,1
+40,Cuba,540,Angola,1930,0,1,$,1,1
+40,Cuba,42,Dominican Republic,1930,390778,1,$,1,1
+40,Cuba,100,Colombia,1930,632781,1,$,1,1
+40,Cuba,8501,Java,1930,0,1,$,1,1
+40,Cuba,110,Guyana,1930,0,1,$,1,1
+40,Cuba,41,Haiti,1930,91632,1,$,1,1
+40,Cuba,315,Czechoslovakia,1930,193140,1,$,1,1
+40,Cuba,130,Ecuador,1930,176759,1,$,1,1
+40,Cuba,,,1931,80118093,1,,1,1
+40,Cuba,230,Spain,1931,4181442,1,,1,1
+40,Cuba,450,Liberia,1931,0,1,,1,1
+40,Cuba,290,Poland,1931,913,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1931,0,1,,1,1
+40,Cuba,150,Paraguay,1931,2245,1,,1,1
+40,Cuba,315,Czechoslovakia,1931,150558,1,,1,1
+40,Cuba,80,Belize,1931,0,1,,1,1
+40,Cuba,210,Netherlands,1931,1284910,1,,1,1
+40,Cuba,66,Martinique,1931,0,1,,1,1
+40,Cuba,291,Danzig,1931,0,1,,1,1
+40,Cuba,339,Albania,1931,0,1,,1,1
+40,Cuba,2208,French Oceania,1931,455,1,,1,1
+40,Cuba,1050,British West Indies,1931,51461,1,,1,1
+40,Cuba,6,Puerto Rico,1931,8974,1,,1,1
+40,Cuba,630,Iran,1931,1446,1,,1,1
+40,Cuba,165,Uruguay,1931,416565,1,,1,1
+40,Cuba,480,French Equatorial Africa,1931,0,1,,1,1
+40,Cuba,220,France,1931,2848997,1,,1,1
+40,Cuba,70,Mexico,1931,1435388,1,,1,1
+40,Cuba,325,Italy,1931,621112,1,,1,1
+40,Cuba,395,Iceland,1931,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1931,86,1,,1,1
+40,Cuba,235,Portugal,1931,24824,1,,1,1
+40,Cuba,900,Australia,1931,0,1,,1,1
+40,Cuba,752,Portuguese India,1931,0,1,,1,1
+40,Cuba,400,Azores,1931,0,1,,1,1
+40,Cuba,616,Tunisia,1931,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1931,840380,1,,1,1
+40,Cuba,652,Syria,1931,5512,1,,1,1
+40,Cuba,2005,British Africa,1931,39309,1,,1,1
+40,Cuba,380,Sweden,1931,279136,1,,1,1
+40,Cuba,651,Egypt,1931,61727,1,,1,1
+40,Cuba,2,United States,1931,45939647,1,,1,1
+40,Cuba,375,Finland,1931,145972,1,,1,1
+40,Cuba,10,Greenland,1931,0,1,,1,1
+40,Cuba,840,Philippines,1931,20846,1,,1,1
+40,Cuba,41,Haiti,1931,957,1,,1,1
+40,Cuba,8501,Java,1931,0,1,,1,1
+40,Cuba,505,British East Africa,1931,0,1,,1,1
+40,Cuba,615,Algeria,1931,0,1,,1,1
+40,Cuba,352,Cyprus,1931,0,1,,1,1
+40,Cuba,645,Iraq,1931,0,1,,1,1
+40,Cuba,110,Guyana,1931,0,1,,1,1
+40,Cuba,360,Romania,1931,5933,1,,1,1
+40,Cuba,30,Bermuda,1931,0,1,,1,1
+40,Cuba,100,Colombia,1931,210029,1,,1,1
+40,Cuba,700,Afghanistan,1931,0,1,,1,1
+40,Cuba,101,Venezuela,1931,19532,1,,1,1
+40,Cuba,2205,French Africa,1931,9373,1,,1,1
+40,Cuba,305,Austria,1931,43862,1,,1,1
+40,Cuba,560,South Africa,1931,0,1,,1,1
+40,Cuba,2200,Other French possessions,1931,0,1,,1,1
+40,Cuba,205,Ireland,1931,243430,1,,1,1
+40,Cuba,640,Turkey,1931,6199,1,,1,1
+40,Cuba,3,Alaska,1931,0,1,,1,1
+40,Cuba,625,Sudan,1931,0,1,,1,1
+40,Cuba,345,Yugoslavia,1931,489,1,,1,1
+40,Cuba,42,Dominican Republic,1931,52103,1,,1,1
+40,Cuba,225,Switzerland,1931,272508,1,,1,1
+40,Cuba,750,India,1931,6902477,1,,1,1
+40,Cuba,31,Bahamas,1931,0,1,,1,1
+40,Cuba,1060,French West Indies,1931,0,1,,1,1
+40,Cuba,740,Japan,1931,800759,1,,1,1
+40,Cuba,211,Belgium,1931,1004956,1,,1,1
+40,Cuba,51,Jamaica,1931,0,1,,1,1
+40,Cuba,410,Canary Islands,1931,8292,1,,1,1
+40,Cuba,6203,Tripoli,1931,0,1,,1,1
+40,Cuba,430,French West Africa,1931,0,1,,1,1
+40,Cuba,521,British Somaliland,1931,0,1,,1,1
+40,Cuba,573,British South Africa,1931,0,1,,1,1
+40,Cuba,355,Bulgaria,1931,204,1,,1,1
+40,Cuba,390,Denmark,1931,136902,1,,1,1
+40,Cuba,827,Straits Settlement,1931,0,1,,1,1
+40,Cuba,675,Arabia,1931,206,1,,1,1
+40,Cuba,200,United Kingdom,1931,3976361,1,,1,1
+40,Cuba,96,Panama Canal Zone,1931,0,1,,1,1
+40,Cuba,120,French Guiana,1931,0,1,,1,1
+40,Cuba,65,Guadeloupe,1931,0,1,,1,1
+40,Cuba,20,Canada,1931,1678620,1,,1,1
+40,Cuba,385,Norway,1931,1328238,1,,1,1
+40,Cuba,540,Angola,1931,0,1,,1,1
+40,Cuba,367,Latvia,1931,0,1,,1,1
+40,Cuba,780,Sri Lanka,1931,0,1,,1,1
+40,Cuba,620,Libya,1931,0,1,,1,1
+40,Cuba,145,Bolivia,1931,0,1,,1,1
+40,Cuba,751,French India,1931,0,1,,1,1
+40,Cuba,920,New Zealand,1931,0,1,,1,1
+40,Cuba,140,Brazil,1931,57489,1,,1,1
+40,Cuba,1069,Aruba,1931,0,1,,1,1
+40,Cuba,350,Greece,1931,1253,1,,1,1
+40,Cuba,2355,Portuguese Africa,1931,0,1,,1,1
+40,Cuba,155,Chile,1931,410047,1,,1,1
+40,Cuba,600,Morocco,1931,0,1,,1,1
+40,Cuba,820,Malaysia,1931,0,1,,1,1
+40,Cuba,91,Honduras,1931,4792,1,,1,1
+40,Cuba,8502,Sumatra,1931,0,1,,1,1
+40,Cuba,710,China,1931,253108,1,,1,1
+40,Cuba,231,Gibraltar,1931,0,1,,1,1
+40,Cuba,212,Luxembourg,1931,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1931,0,1,,1,1
+40,Cuba,475,Nigeria,1931,0,1,,1,1
+40,Cuba,720,Hong Kong,1931,0,1,,1,1
+40,Cuba,21,Newfoundland,1931,0,1,,1,1
+40,Cuba,115,Suriname,1931,0,1,,1,1
+40,Cuba,90,Guatemala,1931,2625,1,,1,1
+40,Cuba,94,Costa Rica,1931,442,1,,1,1
+40,Cuba,92,El Salvador,1931,18514,1,,1,1
+40,Cuba,368,Lithuania,1931,0,1,,1,1
+40,Cuba,160,Argentina,1931,145536,1,,1,1
+40,Cuba,255,Germany,1931,3023015,1,,1,1
+40,Cuba,775,Myanmar,1931,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1931,0,1,,1,1
+40,Cuba,95,Panama,1931,3917,1,,1,1
+40,Cuba,2008,Other British Oceania,1931,7182,1,,1,1
+40,Cuba,365,Russia,1931,8651,1,,1,1
+40,Cuba,2000,Other British possessions,1931,0,1,,1,1
+40,Cuba,310,Hungary,1931,325,1,,1,1
+40,Cuba,366,Estonia,1931,0,1,,1,1
+40,Cuba,130,Ecuador,1931,111257,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1931,0,1,,1,1
+40,Cuba,93,Nicaragua,1931,0,1,,1,1
+40,Cuba,135,Peru,1931,31858,1,,1,1
+40,Cuba,810,French Indo-China,1931,61215,1,,1,1
+40,Cuba,601,Tangier,1931,0,1,,1,1
+40,Cuba,530,Ethiopia,1931,0,1,,1,1
+40,Cuba,711,Manchukuo,1931,0,1,,1,1
+40,Cuba,522,Djibouti,1931,0,1,,1,1
+40,Cuba,800,Thailand,1931,900496,1,,1,1
+40,Cuba,1065,Curacao,1931,0,1,,1,1
+40,Cuba,232,Andorra,1931,0,1,,1,1
+40,Cuba,4,Hawaii,1931,34,1,,1,1
+40,Cuba,602,Spanish Morocco,1931,0,1,,1,1
+40,Cuba,580,Madagascar,1931,0,1,,1,1
+40,Cuba,8502,Sumatra,1932,0,1,,1,1
+40,Cuba,2000,Other British possessions,1932,0,1,,1,1
+40,Cuba,315,Czechoslovakia,1932,87979,1,,1,1
+40,Cuba,,,1932,51027835,1,,1,1
+40,Cuba,710,China,1932,111687,1,,1,1
+40,Cuba,225,Switzerland,1932,165220,1,,1,1
+40,Cuba,700,Afghanistan,1932,0,1,,1,1
+40,Cuba,6203,Tripoli,1932,0,1,,1,1
+40,Cuba,165,Uruguay,1932,13812,1,,1,1
+40,Cuba,368,Lithuania,1932,0,1,,1,1
+40,Cuba,1069,Aruba,1932,0,1,,1,1
+40,Cuba,900,Australia,1932,0,1,,1,1
+40,Cuba,352,Cyprus,1932,0,1,,1,1
+40,Cuba,155,Chile,1932,229709,1,,1,1
+40,Cuba,200,United Kingdom,1932,2985266,1,,1,1
+40,Cuba,90,Guatemala,1932,2540,1,,1,1
+40,Cuba,740,Japan,1932,509483,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1932,0,1,,1,1
+40,Cuba,380,Sweden,1932,363314,1,,1,1
+40,Cuba,92,El Salvador,1932,4405,1,,1,1
+40,Cuba,400,Azores,1932,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1932,368,1,,1,1
+40,Cuba,410,Canary Islands,1932,1993,1,,1,1
+40,Cuba,101,Venezuela,1932,446485,1,,1,1
+40,Cuba,530,Ethiopia,1932,0,1,,1,1
+40,Cuba,450,Liberia,1932,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1932,3985,1,,1,1
+40,Cuba,232,Andorra,1932,0,1,,1,1
+40,Cuba,150,Paraguay,1932,7155,1,,1,1
+40,Cuba,367,Latvia,1932,0,1,,1,1
+40,Cuba,41,Haiti,1932,135,1,,1,1
+40,Cuba,475,Nigeria,1932,0,1,,1,1
+40,Cuba,1050,British West Indies,1932,24068,1,,1,1
+40,Cuba,751,French India,1932,0,1,,1,1
+40,Cuba,430,French West Africa,1932,0,1,,1,1
+40,Cuba,780,Sri Lanka,1932,0,1,,1,1
+40,Cuba,366,Estonia,1932,0,1,,1,1
+40,Cuba,355,Bulgaria,1932,383,1,,1,1
+40,Cuba,305,Austria,1932,20826,1,,1,1
+40,Cuba,3,Alaska,1932,0,1,,1,1
+40,Cuba,505,British East Africa,1932,0,1,,1,1
+40,Cuba,711,Manchukuo,1932,0,1,,1,1
+40,Cuba,290,Poland,1932,742,1,,1,1
+40,Cuba,210,Netherlands,1932,761454,1,,1,1
+40,Cuba,115,Suriname,1932,0,1,,1,1
+40,Cuba,220,France,1932,1688186,1,,1,1
+40,Cuba,205,Ireland,1932,163264,1,,1,1
+40,Cuba,51,Jamaica,1932,0,1,,1,1
+40,Cuba,4,Hawaii,1932,0,1,,1,1
+40,Cuba,80,Belize,1932,0,1,,1,1
+40,Cuba,255,Germany,1932,2133882,1,,1,1
+40,Cuba,645,Iraq,1932,130,1,,1,1
+40,Cuba,70,Mexico,1932,844951,1,,1,1
+40,Cuba,652,Syria,1932,3677,1,,1,1
+40,Cuba,615,Algeria,1932,0,1,,1,1
+40,Cuba,42,Dominican Republic,1932,5153,1,,1,1
+40,Cuba,775,Myanmar,1932,0,1,,1,1
+40,Cuba,827,Straits Settlement,1932,0,1,,1,1
+40,Cuba,616,Tunisia,1932,0,1,,1,1
+40,Cuba,235,Portugal,1932,8922,1,,1,1
+40,Cuba,100,Colombia,1932,41960,1,,1,1
+40,Cuba,65,Guadeloupe,1932,0,1,,1,1
+40,Cuba,1060,French West Indies,1932,0,1,,1,1
+40,Cuba,2205,French Africa,1932,547,1,,1,1
+40,Cuba,601,Tangier,1932,0,1,,1,1
+40,Cuba,360,Romania,1932,30235,1,,1,1
+40,Cuba,93,Nicaragua,1932,128,1,,1,1
+40,Cuba,625,Sudan,1932,0,1,,1,1
+40,Cuba,91,Honduras,1932,7844,1,,1,1
+40,Cuba,212,Luxembourg,1932,586,1,,1,1
+40,Cuba,920,New Zealand,1932,0,1,,1,1
+40,Cuba,325,Italy,1932,434788,1,,1,1
+40,Cuba,310,Hungary,1932,1665,1,,1,1
+40,Cuba,375,Finland,1932,59519,1,,1,1
+40,Cuba,10,Greenland,1932,0,1,,1,1
+40,Cuba,580,Madagascar,1932,0,1,,1,1
+40,Cuba,395,Iceland,1932,0,1,,1,1
+40,Cuba,521,British Somaliland,1932,0,1,,1,1
+40,Cuba,345,Yugoslavia,1932,228,1,,1,1
+40,Cuba,2005,British Africa,1932,13925,1,,1,1
+40,Cuba,110,Guyana,1932,0,1,,1,1
+40,Cuba,600,Morocco,1932,0,1,,1,1
+40,Cuba,120,French Guiana,1932,0,1,,1,1
+40,Cuba,130,Ecuador,1932,76797,1,,1,1
+40,Cuba,291,Danzig,1932,0,1,,1,1
+40,Cuba,66,Martinique,1932,0,1,,1,1
+40,Cuba,640,Turkey,1932,5004,1,,1,1
+40,Cuba,390,Denmark,1932,106775,1,,1,1
+40,Cuba,752,Portuguese India,1932,0,1,,1,1
+40,Cuba,800,Thailand,1932,1036571,1,,1,1
+40,Cuba,602,Spanish Morocco,1932,0,1,,1,1
+40,Cuba,365,Russia,1932,109454,1,,1,1
+40,Cuba,750,India,1932,4546309,1,,1,1
+40,Cuba,350,Greece,1932,691,1,,1,1
+40,Cuba,96,Panama Canal Zone,1932,0,1,,1,1
+40,Cuba,840,Philippines,1932,1940,1,,1,1
+40,Cuba,560,South Africa,1932,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1932,0,1,,1,1
+40,Cuba,651,Egypt,1932,64505,1,,1,1
+40,Cuba,820,Malaysia,1932,0,1,,1,1
+40,Cuba,540,Angola,1932,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1932,787990,1,,1,1
+40,Cuba,1065,Curacao,1932,0,1,,1,1
+40,Cuba,339,Albania,1932,0,1,,1,1
+40,Cuba,31,Bahamas,1932,0,1,,1,1
+40,Cuba,21,Newfoundland,1932,0,1,,1,1
+40,Cuba,2208,French Oceania,1932,381,1,,1,1
+40,Cuba,2200,Other French possessions,1932,0,1,,1,1
+40,Cuba,6,Puerto Rico,1932,5570,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1932,0,1,,1,1
+40,Cuba,573,British South Africa,1932,0,1,,1,1
+40,Cuba,30,Bermuda,1932,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1932,0,1,,1,1
+40,Cuba,95,Panama,1932,738,1,,1,1
+40,Cuba,385,Norway,1932,571494,1,,1,1
+40,Cuba,8501,Java,1932,0,1,,1,1
+40,Cuba,211,Belgium,1932,732320,1,,1,1
+40,Cuba,620,Libya,1932,0,1,,1,1
+40,Cuba,160,Argentina,1932,73925,1,,1,1
+40,Cuba,810,French Indo-China,1932,104,1,,1,1
+40,Cuba,135,Peru,1932,596,1,,1,1
+40,Cuba,231,Gibraltar,1932,0,1,,1,1
+40,Cuba,140,Brazil,1932,7915,1,,1,1
+40,Cuba,675,Arabia,1932,795,1,,1,1
+40,Cuba,20,Canada,1932,1076001,1,,1,1
+40,Cuba,145,Bolivia,1932,0,1,,1,1
+40,Cuba,230,Spain,1932,2979092,1,,1,1
+40,Cuba,94,Costa Rica,1932,2,1,,1,1
+40,Cuba,2355,Portuguese Africa,1932,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1932,0,1,,1,1
+40,Cuba,522,Djibouti,1932,0,1,,1,1
+40,Cuba,720,Hong Kong,1932,0,1,,1,1
+40,Cuba,2,United States,1932,27653060,1,,1,1
+40,Cuba,630,Iran,1932,2067,1,,1,1
+40,Cuba,522,Djibouti,1933,0,1,,1,1
+40,Cuba,235,Portugal,1933,7563,1,,1,1
+40,Cuba,220,France,1933,1250919,1,,1,1
+40,Cuba,100,Colombia,1933,16007,1,,1,1
+40,Cuba,2208,French Oceania,1933,4260,1,,1,1
+40,Cuba,6,Puerto Rico,1933,1359,1,,1,1
+40,Cuba,367,Latvia,1933,0,1,,1,1
+40,Cuba,780,Sri Lanka,1933,0,1,,1,1
+40,Cuba,31,Bahamas,1933,0,1,,1,1
+40,Cuba,212,Luxembourg,1933,0,1,,1,1
+40,Cuba,395,Iceland,1933,0,1,,1,1
+40,Cuba,645,Iraq,1933,0,1,,1,1
+40,Cuba,430,French West Africa,1933,0,1,,1,1
+40,Cuba,66,Martinique,1933,0,1,,1,1
+40,Cuba,90,Guatemala,1933,1100,1,,1,1
+40,Cuba,255,Germany,1933,1897926,1,,1,1
+40,Cuba,315,Czechoslovakia,1933,54907,1,,1,1
+40,Cuba,2000,Other British possessions,1933,0,1,,1,1
+40,Cuba,530,Ethiopia,1933,0,1,,1,1
+40,Cuba,700,Afghanistan,1933,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1933,106,1,,1,1
+40,Cuba,70,Mexico,1933,639112,1,,1,1
+40,Cuba,920,New Zealand,1933,0,1,,1,1
+40,Cuba,2005,British Africa,1933,16748,1,,1,1
+40,Cuba,205,Ireland,1933,219759,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1933,0,1,,1,1
+40,Cuba,1060,French West Indies,1933,0,1,,1,1
+40,Cuba,2200,Other French possessions,1933,0,1,,1,1
+40,Cuba,115,Suriname,1933,0,1,,1,1
+40,Cuba,400,Azores,1933,0,1,,1,1
+40,Cuba,751,French India,1933,0,1,,1,1
+40,Cuba,2355,Portuguese Africa,1933,0,1,,1,1
+40,Cuba,390,Denmark,1933,81505,1,,1,1
+40,Cuba,810,French Indo-China,1933,2010,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1933,0,1,,1,1
+40,Cuba,521,British Somaliland,1933,0,1,,1,1
+40,Cuba,160,Argentina,1933,80856,1,,1,1
+40,Cuba,580,Madagascar,1933,0,1,,1,1
+40,Cuba,101,Venezuela,1933,161,1,,1,1
+40,Cuba,573,British South Africa,1933,0,1,,1,1
+40,Cuba,1050,British West Indies,1933,7655,1,,1,1
+40,Cuba,710,China,1933,78471,1,,1,1
+40,Cuba,8501,Java,1933,0,1,,1,1
+40,Cuba,2,United States,1933,22674245,1,,1,1
+40,Cuba,711,Manchukuo,1933,0,1,,1,1
+40,Cuba,375,Finland,1933,61116,1,,1,1
+40,Cuba,480,French Equatorial Africa,1933,0,1,,1,1
+40,Cuba,92,El Salvador,1933,92,1,,1,1
+40,Cuba,560,South Africa,1933,0,1,,1,1
+40,Cuba,2205,French Africa,1933,1768,1,,1,1
+40,Cuba,651,Egypt,1933,156271,1,,1,1
+40,Cuba,640,Turkey,1933,13563,1,,1,1
+40,Cuba,230,Spain,1933,2612861,1,,1,1
+40,Cuba,291,Danzig,1933,0,1,,1,1
+40,Cuba,200,United Kingdom,1933,2428839,1,,1,1
+40,Cuba,68,Netherlands Antilles,1933,535381,1,,1,1
+40,Cuba,155,Chile,1933,360855,1,,1,1
+40,Cuba,310,Hungary,1933,2230,1,,1,1
+40,Cuba,601,Tangier,1933,0,1,,1,1
+40,Cuba,360,Romania,1933,45719,1,,1,1
+40,Cuba,410,Canary Islands,1933,1988,1,,1,1
+40,Cuba,900,Australia,1933,0,1,,1,1
+40,Cuba,380,Sweden,1933,243428,1,,1,1
+40,Cuba,210,Netherlands,1933,518071,1,,1,1
+40,Cuba,51,Jamaica,1933,0,1,,1,1
+40,Cuba,140,Brazil,1933,7392,1,,1,1
+40,Cuba,720,Hong Kong,1933,0,1,,1,1
+40,Cuba,145,Bolivia,1933,16,1,,1,1
+40,Cuba,540,Angola,1933,0,1,,1,1
+40,Cuba,110,Guyana,1933,0,1,,1,1
+40,Cuba,165,Uruguay,1933,0,1,,1,1
+40,Cuba,3,Alaska,1933,0,1,,1,1
+40,Cuba,6203,Tripoli,1933,0,1,,1,1
+40,Cuba,130,Ecuador,1933,46723,1,,1,1
+40,Cuba,21,Newfoundland,1933,0,1,,1,1
+40,Cuba,365,Russia,1933,1883,1,,1,1
+40,Cuba,740,Japan,1933,857004,1,,1,1
+40,Cuba,827,Straits Settlement,1933,0,1,,1,1
+40,Cuba,350,Greece,1933,2956,1,,1,1
+40,Cuba,616,Tunisia,1933,0,1,,1,1
+40,Cuba,1069,Aruba,1933,0,1,,1,1
+40,Cuba,42,Dominican Republic,1933,3111,1,,1,1
+40,Cuba,820,Malaysia,1933,0,1,,1,1
+40,Cuba,752,Portuguese India,1933,0,1,,1,1
+40,Cuba,232,Andorra,1933,0,1,,1,1
+40,Cuba,91,Honduras,1933,2521,1,,1,1
+40,Cuba,505,British East Africa,1933,0,1,,1,1
+40,Cuba,615,Algeria,1933,0,1,,1,1
+40,Cuba,120,French Guiana,1933,23,1,,1,1
+40,Cuba,225,Switzerland,1933,131875,1,,1,1
+40,Cuba,20,Canada,1933,891374,1,,1,1
+40,Cuba,325,Italy,1933,368142,1,,1,1
+40,Cuba,95,Panama,1933,6956,1,,1,1
+40,Cuba,8502,Sumatra,1933,0,1,,1,1
+40,Cuba,150,Paraguay,1933,2511,1,,1,1
+40,Cuba,65,Guadeloupe,1933,0,1,,1,1
+40,Cuba,1065,Curacao,1933,0,1,,1,1
+40,Cuba,345,Yugoslavia,1933,334,1,,1,1
+40,Cuba,625,Sudan,1933,0,1,,1,1
+40,Cuba,10,Greenland,1933,0,1,,1,1
+40,Cuba,96,Panama Canal Zone,1933,0,1,,1,1
+40,Cuba,385,Norway,1933,355001,1,,1,1
+40,Cuba,,,1933,42383939,1,,1,1
+40,Cuba,94,Costa Rica,1933,31,1,,1,1
+40,Cuba,600,Morocco,1933,0,1,,1,1
+40,Cuba,675,Arabia,1933,1218,1,,1,1
+40,Cuba,290,Poland,1933,781,1,,1,1
+40,Cuba,2007,British possessions in Asia,1933,0,1,,1,1
+40,Cuba,231,Gibraltar,1933,0,1,,1,1
+40,Cuba,630,Iran,1933,3156,1,,1,1
+40,Cuba,800,Thailand,1933,894044,1,,1,1
+40,Cuba,30,Bermuda,1933,0,1,,1,1
+40,Cuba,4,Hawaii,1933,0,1,,1,1
+40,Cuba,305,Austria,1933,12799,1,,1,1
+40,Cuba,352,Cyprus,1933,0,1,,1,1
+40,Cuba,750,India,1933,4055559,1,,1,1
+40,Cuba,211,Belgium,1933,647268,1,,1,1
+40,Cuba,840,Philippines,1933,15192,1,,1,1
+40,Cuba,339,Albania,1933,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1933,7977,1,,1,1
+40,Cuba,652,Syria,1933,250,1,,1,1
+40,Cuba,2305,Spanish Africa,1933,906,1,,1,1
+40,Cuba,450,Liberia,1933,0,1,,1,1
+40,Cuba,80,Belize,1933,0,1,,1,1
+40,Cuba,93,Nicaragua,1933,126,1,,1,1
+40,Cuba,368,Lithuania,1933,0,1,,1,1
+40,Cuba,620,Libya,1933,0,1,,1,1
+40,Cuba,602,Spanish Morocco,1933,0,1,,1,1
+40,Cuba,366,Estonia,1933,0,1,,1,1
+40,Cuba,775,Myanmar,1933,0,1,,1,1
+40,Cuba,41,Haiti,1933,58,1,,1,1
+40,Cuba,355,Bulgaria,1933,297,1,,1,1
+40,Cuba,135,Peru,1933,4766,1,,1,1
+40,Cuba,475,Nigeria,1933,0,1,,1,1
+40,Cuba,231,Gibraltar,1934,0,1,,1,1
+40,Cuba,255,Germany,1934,2905194,1,,1,1
+40,Cuba,751,French India,1934,0,1,,1,1
+40,Cuba,8501,Java,1934,0,1,,1,1
+40,Cuba,155,Chile,1934,529006,1,,1,1
+40,Cuba,900,Australia,1934,0,1,,1,1
+40,Cuba,675,Arabia,1934,1881,1,,1,1
+40,Cuba,616,Tunisia,1934,0,1,,1,1
+40,Cuba,1065,Curacao,1934,0,1,,1,1
+40,Cuba,65,Guadeloupe,1934,0,1,,1,1
+40,Cuba,395,Iceland,1934,0,1,,1,1
+40,Cuba,165,Uruguay,1934,0,1,,1,1
+40,Cuba,91,Honduras,1934,3428,1,,1,1
+40,Cuba,390,Denmark,1934,78087,1,,1,1
+40,Cuba,90,Guatemala,1934,525,1,,1,1
+40,Cuba,700,Afghanistan,1934,0,1,,1,1
+40,Cuba,115,Suriname,1934,0,1,,1,1
+40,Cuba,540,Angola,1934,0,1,,1,1
+40,Cuba,752,Portuguese India,1934,0,1,,1,1
+40,Cuba,325,Italy,1934,633887,1,,1,1
+40,Cuba,,,1934,73521845,1,,1,1
+40,Cuba,800,Thailand,1934,1702431,1,,1,1
+40,Cuba,522,Djibouti,1934,0,1,,1,1
+40,Cuba,780,Sri Lanka,1934,0,1,,1,1
+40,Cuba,366,Estonia,1934,5631,1,,1,1
+40,Cuba,80,Belize,1934,0,1,,1,1
+40,Cuba,652,Syria,1934,703,1,,1,1
+40,Cuba,4,Hawaii,1934,0,1,,1,1
+40,Cuba,140,Brazil,1934,11593,1,,1,1
+40,Cuba,600,Morocco,1934,0,1,,1,1
+40,Cuba,70,Mexico,1934,1150042,1,,1,1
+40,Cuba,601,Tangier,1934,0,1,,1,1
+40,Cuba,2,United States,1934,41225012,1,,1,1
+40,Cuba,93,Nicaragua,1934,19,1,,1,1
+40,Cuba,110,Guyana,1934,0,1,,1,1
+40,Cuba,530,Ethiopia,1934,0,1,,1,1
+40,Cuba,827,Straits Settlement,1934,0,1,,1,1
+40,Cuba,92,El Salvador,1934,138,1,,1,1
+40,Cuba,651,Egypt,1934,200240,1,,1,1
+40,Cuba,205,Ireland,1934,517115,1,,1,1
+40,Cuba,30,Bermuda,1934,0,1,,1,1
+40,Cuba,630,Iran,1934,5920,1,,1,1
+40,Cuba,230,Spain,1934,4051252,1,,1,1
+40,Cuba,66,Martinique,1934,0,1,,1,1
+40,Cuba,3,Alaska,1934,0,1,,1,1
+40,Cuba,8502,Sumatra,1934,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1934,1623228,1,,1,1
+40,Cuba,135,Peru,1934,0,1,,1,1
+40,Cuba,1060,French West Indies,1934,0,1,,1,1
+40,Cuba,10,Greenland,1934,0,1,,1,1
+40,Cuba,145,Bolivia,1934,0,1,,1,1
+40,Cuba,2205,French Africa,1934,2733,1,,1,1
+40,Cuba,101,Venezuela,1934,783019,1,,1,1
+40,Cuba,385,Norway,1934,459739,1,,1,1
+40,Cuba,665,West Bank And Gaza,1934,680,1,,1,1
+40,Cuba,580,Madagascar,1934,0,1,,1,1
+40,Cuba,2305,Spanish Africa,1934,2909,1,,1,1
+40,Cuba,365,Russia,1934,20626,1,,1,1
+40,Cuba,775,Myanmar,1934,0,1,,1,1
+40,Cuba,615,Algeria,1934,0,1,,1,1
+40,Cuba,20,Canada,1934,1196005,1,,1,1
+40,Cuba,710,China,1934,147844,1,,1,1
+40,Cuba,400,Azores,1934,0,1,,1,1
+40,Cuba,310,Hungary,1934,4762,1,,1,1
+40,Cuba,200,United Kingdom,1934,3941149,1,,1,1
+40,Cuba,6,Puerto Rico,1934,2132,1,,1,1
+40,Cuba,410,Canary Islands,1934,260,1,,1,1
+40,Cuba,505,British East Africa,1934,0,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1934,0,1,,1,1
+40,Cuba,21,Newfoundland,1934,0,1,,1,1
+40,Cuba,2005,British Africa,1934,5076,1,,1,1
+40,Cuba,220,France,1934,1455673,1,,1,1
+40,Cuba,367,Latvia,1934,856,1,,1,1
+40,Cuba,352,Cyprus,1934,0,1,,1,1
+40,Cuba,640,Turkey,1934,6754,1,,1,1
+40,Cuba,210,Netherlands,1934,541685,1,,1,1
+40,Cuba,368,Lithuania,1934,0,1,,1,1
+40,Cuba,810,French Indo-China,1934,237992,1,,1,1
+40,Cuba,100,Colombia,1934,16160,1,,1,1
+40,Cuba,430,French West Africa,1934,0,1,,1,1
+40,Cuba,740,Japan,1934,3136090,1,,1,1
+40,Cuba,920,New Zealand,1934,0,1,,1,1
+40,Cuba,339,Albania,1934,0,1,,1,1
+40,Cuba,2208,French Oceania,1934,707,1,,1,1
+40,Cuba,291,Danzig,1934,0,1,,1,1
+40,Cuba,475,Nigeria,1934,0,1,,1,1
+40,Cuba,345,Yugoslavia,1934,1391,1,,1,1
+40,Cuba,820,Malaysia,1934,0,1,,1,1
+40,Cuba,711,Manchukuo,1934,0,1,,1,1
+40,Cuba,305,Austria,1934,26470,1,,1,1
+40,Cuba,560,South Africa,1934,0,1,,1,1
+40,Cuba,602,Spanish Morocco,1934,0,1,,1,1
+40,Cuba,94,Costa Rica,1934,2,1,,1,1
+40,Cuba,160,Argentina,1934,253195,1,,1,1
+40,Cuba,315,Czechoslovakia,1934,207219,1,,1,1
+40,Cuba,6203,Tripoli,1934,0,1,,1,1
+40,Cuba,2007,British possessions in Asia,1934,0,1,,1,1
+40,Cuba,290,Poland,1934,31176,1,,1,1
+40,Cuba,480,French Equatorial Africa,1934,0,1,,1,1
+40,Cuba,620,Libya,1934,0,1,,1,1
+40,Cuba,212,Luxembourg,1934,3226,1,,1,1
+40,Cuba,96,Panama Canal Zone,1934,0,1,,1,1
+40,Cuba,750,India,1934,4580427,1,,1,1
+40,Cuba,31,Bahamas,1934,0,1,,1,1
+40,Cuba,2000,Other British possessions,1934,0,1,,1,1
+40,Cuba,625,Sudan,1934,0,1,,1,1
+40,Cuba,150,Paraguay,1934,8811,1,,1,1
+40,Cuba,41,Haiti,1934,0,1,,1,1
+40,Cuba,450,Liberia,1934,0,1,,1,1
+40,Cuba,840,Philippines,1934,42592,1,,1,1
+40,Cuba,120,French Guiana,1934,0,1,,1,1
+40,Cuba,573,British South Africa,1934,0,1,,1,1
+40,Cuba,350,Greece,1934,3065,1,,1,1
+40,Cuba,51,Jamaica,1934,0,1,,1,1
+40,Cuba,375,Finland,1934,50703,1,,1,1
+40,Cuba,355,Bulgaria,1934,1083,1,,1,1
+40,Cuba,95,Panama,1934,1915,1,,1,1
+40,Cuba,211,Belgium,1934,790226,1,,1,1
+40,Cuba,232,Andorra,1934,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1934,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1934,15850,1,,1,1
+40,Cuba,2355,Portuguese Africa,1934,0,1,,1,1
+40,Cuba,380,Sweden,1934,326391,1,,1,1
+40,Cuba,1050,British West Indies,1934,16432,1,,1,1
+40,Cuba,225,Switzerland,1934,225276,1,,1,1
+40,Cuba,235,Portugal,1934,13365,1,,1,1
+40,Cuba,130,Ecuador,1934,79315,1,,1,1
+40,Cuba,645,Iraq,1934,0,1,,1,1
+40,Cuba,720,Hong Kong,1934,0,1,,1,1
+40,Cuba,521,British Somaliland,1934,0,1,,1,1
+40,Cuba,2200,Other French possessions,1934,0,1,,1,1
+40,Cuba,42,Dominican Republic,1934,2575,1,,1,1
+40,Cuba,360,Romania,1934,25575,1,,1,1
+40,Cuba,1069,Aruba,1934,0,1,,1,1
+40,Cuba,225,Switzerland,1935,239587,1,,1,1
+40,Cuba,601,Tangier,1935,0,1,,1,1
+40,Cuba,255,Germany,1935,4427625,1,,1,1
+40,Cuba,645,Iraq,1935,0,1,,1,1
+40,Cuba,400,Azores,1935,0,1,,1,1
+40,Cuba,230,Spain,1935,4819164,1,,1,1
+40,Cuba,305,Austria,1935,72928,1,,1,1
+40,Cuba,290,Poland,1935,54271,1,,1,1
+40,Cuba,530,Ethiopia,1935,611,1,,1,1
+40,Cuba,231,Gibraltar,1935,0,1,,1,1
+40,Cuba,94,Costa Rica,1935,6,1,,1,1
+40,Cuba,820,Malaysia,1935,843,1,,1,1
+40,Cuba,385,Norway,1935,656680,1,,1,1
+40,Cuba,450,Liberia,1935,0,1,,1,1
+40,Cuba,2355,Portuguese Africa,1935,0,1,,1,1
+40,Cuba,21,Newfoundland,1935,0,1,,1,1
+40,Cuba,2,United States,1935,55686078,1,,1,1
+40,Cuba,375,Finland,1935,9352,1,,1,1
+40,Cuba,752,Portuguese India,1935,0,1,,1,1
+40,Cuba,560,South Africa,1935,0,1,,1,1
+40,Cuba,325,Italy,1935,887490,1,,1,1
+40,Cuba,51,Jamaica,1935,3139,1,,1,1
+40,Cuba,135,Peru,1935,2178,1,,1,1
+40,Cuba,700,Afghanistan,1935,0,1,,1,1
+40,Cuba,720,Hong Kong,1935,0,1,,1,1
+40,Cuba,751,French India,1935,0,1,,1,1
+40,Cuba,150,Paraguay,1935,34370,1,,1,1
+40,Cuba,775,Myanmar,1935,0,1,,1,1
+40,Cuba,505,British East Africa,1935,0,1,,1,1
+40,Cuba,65,Guadeloupe,1935,0,1,,1,1
+40,Cuba,41,Haiti,1935,15,1,,1,1
+40,Cuba,91,Honduras,1935,35152,1,,1,1
+40,Cuba,3,Alaska,1935,0,1,,1,1
+40,Cuba,100,Colombia,1935,16043,1,,1,1
+40,Cuba,540,Angola,1935,0,1,,1,1
+40,Cuba,350,Greece,1935,1573,1,,1,1
+40,Cuba,2305,Spanish Africa,1935,0,1,,1,1
+40,Cuba,780,Sri Lanka,1935,135186,1,,1,1
+40,Cuba,1050,British West Indies,1935,533,1,,1,1
+40,Cuba,70,Mexico,1935,1083546,1,,1,1
+40,Cuba,367,Latvia,1935,1231,1,,1,1
+40,Cuba,616,Tunisia,1935,0,1,,1,1
+40,Cuba,95,Panama,1935,2174,1,,1,1
+40,Cuba,840,Philippines,1935,36065,1,,1,1
+40,Cuba,430,French West Africa,1935,0,1,,1,1
+40,Cuba,652,Syria,1935,7741,1,,1,1
+40,Cuba,101,Venezuela,1935,663509,1,,1,1
+40,Cuba,1060,French West Indies,1935,0,1,,1,1
+40,Cuba,165,Uruguay,1935,15756,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1935,0,1,,1,1
+40,Cuba,90,Guatemala,1935,681,1,,1,1
+40,Cuba,310,Hungary,1935,5811,1,,1,1
+40,Cuba,390,Denmark,1935,213228,1,,1,1
+40,Cuba,6203,Tripoli,1935,0,1,,1,1
+40,Cuba,395,Iceland,1935,0,1,,1,1
+40,Cuba,115,Suriname,1935,0,1,,1,1
+40,Cuba,480,French Equatorial Africa,1935,0,1,,1,1
+40,Cuba,1069,Aruba,1935,0,1,,1,1
+40,Cuba,810,French Indo-China,1935,229745,1,,1,1
+40,Cuba,475,Nigeria,1935,0,1,,1,1
+40,Cuba,600,Morocco,1935,0,1,,1,1
+40,Cuba,615,Algeria,1935,0,1,,1,1
+40,Cuba,2008,Other British Oceania,1935,0,1,,1,1
+40,Cuba,96,Panama Canal Zone,1935,0,1,,1,1
+40,Cuba,355,Bulgaria,1935,254,1,,1,1
+40,Cuba,365,Russia,1935,11735,1,,1,1
+40,Cuba,80,Belize,1935,0,1,,1,1
+40,Cuba,2000,Other British possessions,1935,0,1,,1,1
+40,Cuba,92,El Salvador,1935,64,1,,1,1
+40,Cuba,827,Straits Settlement,1935,0,1,,1,1
+40,Cuba,920,New Zealand,1935,23509,1,,1,1
+40,Cuba,220,France,1935,2436548,1,,1,1
+40,Cuba,740,Japan,1935,2548749,1,,1,1
+40,Cuba,580,Madagascar,1935,664,1,,1,1
+40,Cuba,2200,Other French possessions,1935,0,1,,1,1
+40,Cuba,2208,French Oceania,1935,8,1,,1,1
+40,Cuba,2005,British Africa,1935,194874,1,,1,1
+40,Cuba,710,China,1935,399710,1,,1,1
+40,Cuba,345,Yugoslavia,1935,2544,1,,1,1
+40,Cuba,42,Dominican Republic,1935,8053,1,,1,1
+40,Cuba,2007,British possessions in Asia,1935,0,1,,1,1
+40,Cuba,602,Spanish Morocco,1935,2496,1,,1,1
+40,Cuba,160,Argentina,1935,474185,1,,1,1
+40,Cuba,200,United Kingdom,1935,4105043,1,,1,1
+40,Cuba,4,Hawaii,1935,350,1,,1,1
+40,Cuba,711,Manchukuo,1935,0,1,,1,1
+40,Cuba,,,1935,95465239,1,,1,1
+40,Cuba,205,Ireland,1935,667020,1,,1,1
+40,Cuba,210,Netherlands,1935,1147222,1,,1,1
+40,Cuba,68,Netherlands Antilles,1935,1596099,1,,1,1
+40,Cuba,155,Chile,1935,893927,1,,1,1
+40,Cuba,380,Sweden,1935,223293,1,,1,1
+40,Cuba,212,Luxembourg,1935,5022,1,,1,1
+40,Cuba,140,Brazil,1935,19222,1,,1,1
+40,Cuba,800,Thailand,1935,3256104,1,,1,1
+40,Cuba,366,Estonia,1935,0,1,,1,1
+40,Cuba,522,Djibouti,1935,0,1,,1,1
+40,Cuba,30,Bermuda,1935,165,1,,1,1
+40,Cuba,675,Arabia,1935,1873,1,,1,1
+40,Cuba,8501,Java,1935,23789,1,,1,1
+40,Cuba,900,Australia,1935,19843,1,,1,1
+40,Cuba,110,Guyana,1935,0,1,,1,1
+40,Cuba,2205,French Africa,1935,778,1,,1,1
+40,Cuba,235,Portugal,1935,24589,1,,1,1
+40,Cuba,120,French Guiana,1935,0,1,,1,1
+40,Cuba,20,Canada,1935,1171570,1,,1,1
+40,Cuba,66,Martinique,1935,0,1,,1,1
+40,Cuba,1065,Curacao,1935,0,1,,1,1
+40,Cuba,750,India,1935,5145146,1,,1,1
+40,Cuba,352,Cyprus,1935,0,1,,1,1
+40,Cuba,232,Andorra,1935,0,1,,1,1
+40,Cuba,93,Nicaragua,1935,176,1,,1,1
+40,Cuba,8502,Sumatra,1935,139878,1,,1,1
+40,Cuba,315,Czechoslovakia,1935,422225,1,,1,1
+40,Cuba,521,British Somaliland,1935,0,1,,1,1
+40,Cuba,625,Sudan,1935,0,1,,1,1
+40,Cuba,360,Romania,1935,103981,1,,1,1
+40,Cuba,130,Ecuador,1935,96650,1,,1,1
+40,Cuba,145,Bolivia,1935,151,1,,1,1
+40,Cuba,10,Greenland,1935,0,1,,1,1
+40,Cuba,410,Canary Islands,1935,3238,1,,1,1
+40,Cuba,6,Puerto Rico,1935,2289,1,,1,1
+40,Cuba,573,British South Africa,1935,0,1,,1,1
+40,Cuba,630,Iran,1935,2854,1,,1,1
+40,Cuba,211,Belgium,1935,824486,1,,1,1
+40,Cuba,640,Turkey,1935,8216,1,,1,1
+40,Cuba,339,Albania,1935,0,1,,1,1
+40,Cuba,368,Lithuania,1935,0,1,,1,1
+40,Cuba,665,West Bank And Gaza,1935,15,1,,1,1
+40,Cuba,291,Danzig,1935,0,1,,1,1
+40,Cuba,651,Egypt,1935,87250,1,,1,1
+40,Cuba,620,Libya,1935,0,1,,1,1
+40,Cuba,31,Bahamas,1935,25597,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1935,0,1,,1,1
+40,Cuba,368,Lithuania,1936,0,1,,1,1
+40,Cuba,400,Azores,1936,0,1,,1,1
+40,Cuba,615,Algeria,1936,1507,1,,1,1
+40,Cuba,360,Romania,1936,43282,1,,1,1
+40,Cuba,220,France,1936,2604561,1,,1,1
+40,Cuba,2,United States,1936,66494245,1,,1,1
+40,Cuba,645,Iraq,1936,0,1,,1,1
+40,Cuba,51,Jamaica,1936,10213,1,,1,1
+40,Cuba,1069,Aruba,1936,0,1,,1,1
+40,Cuba,410,Canary Islands,1936,4221,1,,1,1
+40,Cuba,41,Haiti,1936,1224,1,,1,1
+40,Cuba,290,Poland,1936,66858,1,,1,1
+40,Cuba,820,Malaysia,1936,0,1,,1,1
+40,Cuba,1050,British West Indies,1936,0,1,,1,1
+40,Cuba,120,French Guiana,1936,0,1,,1,1
+40,Cuba,255,Germany,1936,4797782,1,,1,1
+40,Cuba,6203,Tripoli,1936,0,1,,1,1
+40,Cuba,91,Honduras,1936,2495,1,,1,1
+40,Cuba,21,Newfoundland,1936,36133,1,,1,1
+40,Cuba,70,Mexico,1936,1149231,1,,1,1
+40,Cuba,2007,British possessions in Asia,1936,0,1,,1,1
+40,Cuba,68,Netherlands Antilles,1936,1758474,1,,1,1
+40,Cuba,602,Spanish Morocco,1936,1930,1,,1,1
+40,Cuba,52,Trinidad And Tobago,1936,0,1,,1,1
+40,Cuba,42,Dominican Republic,1936,29942,1,,1,1
+40,Cuba,8501,Java,1936,415,1,,1,1
+40,Cuba,573,British South Africa,1936,0,1,,1,1
+40,Cuba,540,Angola,1936,0,1,,1,1
+40,Cuba,475,Nigeria,1936,0,1,,1,1
+40,Cuba,225,Switzerland,1936,255918,1,,1,1
+40,Cuba,720,Hong Kong,1936,0,1,,1,1
+40,Cuba,145,Bolivia,1936,0,1,,1,1
+40,Cuba,210,Netherlands,1936,1328518,1,,1,1
+40,Cuba,66,Martinique,1936,857,1,,1,1
+40,Cuba,522,Djibouti,1936,0,1,,1,1
+40,Cuba,2200,Other French possessions,1936,0,1,,1,1
+40,Cuba,101,Venezuela,1936,107899,1,,1,1
+40,Cuba,100,Colombia,1936,62924,1,,1,1
+40,Cuba,165,Uruguay,1936,4041,1,,1,1
+40,Cuba,800,Thailand,1936,5862449,1,,1,1
+40,Cuba,2208,French Oceania,1936,0,1,,1,1
+40,Cuba,752,Portuguese India,1936,0,1,,1,1
+40,Cuba,95,Panama,1936,7253,1,,1,1
+40,Cuba,4,Hawaii,1936,0,1,,1,1
+40,Cuba,775,Myanmar,1936,0,1,,1,1
+40,Cuba,115,Suriname,1936,0,1,,1,1
+40,Cuba,8502,Sumatra,1936,91733,1,,1,1
+40,Cuba,212,Luxembourg,1936,51679,1,,1,1
+40,Cuba,630,Iran,1936,0,1,,1,1
+40,Cuba,10,Greenland,1936,0,1,,1,1
+40,Cuba,601,Tangier,1936,0,1,,1,1
+40,Cuba,580,Madagascar,1936,2335,1,,1,1
+40,Cuba,920,New Zealand,1936,5170,1,,1,1
+40,Cuba,450,Liberia,1936,0,1,,1,1
+40,Cuba,310,Hungary,1936,47794,1,,1,1
+40,Cuba,315,Czechoslovakia,1936,422695,1,,1,1
+40,Cuba,352,Cyprus,1936,0,1,,1,1
+40,Cuba,740,Japan,1936,652209,1,,1,1
+40,Cuba,480,French Equatorial Africa,1936,0,1,,1,1
+40,Cuba,430,French West Africa,1936,0,1,,1,1
+40,Cuba,20,Canada,1936,979754,1,,1,1
+40,Cuba,235,Portugal,1936,15417,1,,1,1
+40,Cuba,92,El Salvador,1936,0,1,,1,1
+40,Cuba,827,Straits Settlement,1936,1265,1,,1,1
+40,Cuba,780,Sri Lanka,1936,38390,1,,1,1
+40,Cuba,93,Nicaragua,1936,304,1,,1,1
+40,Cuba,305,Austria,1936,52353,1,,1,1
+40,Cuba,700,Afghanistan,1936,0,1,,1,1
+40,Cuba,490,"Congo, Dem. Republic",1936,133298,1,,1,1
+40,Cuba,211,Belgium,1936,1025108,1,,1,1
+40,Cuba,110,Guyana,1936,0,1,,1,1
+40,Cuba,625,Sudan,1936,1429,1,,1,1
+40,Cuba,3,Alaska,1936,0,1,,1,1
+40,Cuba,521,British Somaliland,1936,0,1,,1,1
+40,Cuba,751,French India,1936,0,1,,1,1
+40,Cuba,31,Bahamas,1936,971,1,,1,1
+40,Cuba,345,Yugoslavia,1936,11005,1,,1,1
+40,Cuba,231,Gibraltar,1936,13,1,,1,1
+40,Cuba,96,Panama Canal Zone,1936,0,1,,1,1
+40,Cuba,291,Danzig,1936,2036,1,,1,1
+40,Cuba,365,Russia,1936,0,1,,1,1
+40,Cuba,130,Ecuador,1936,99807,1,,1,1
+40,Cuba,600,Morocco,1936,502,1,,1,1
+40,Cuba,94,Costa Rica,1936,5,1,,1,1
+40,Cuba,395,Iceland,1936,36341,1,,1,1
+40,Cuba,,,1936,103215247,1,,1,1
+40,Cuba,505,British East Africa,1936,0,1,,1,1
+40,Cuba,530,Ethiopia,1936,0,1,,1,1
+40,Cuba,366,Estonia,1936,85,1,,1,1
+40,Cuba,65,Guadeloupe,1936,0,1,,1,1
+40,Cuba,2000,Other British possessions,1936,0,1,,1,1
+40,Cuba,2005,British Africa,1936,1155,1,,1,1
+40,Cuba,367,Latvia,1936,0,1,,1,1
+40,Cuba,155,Chile,1936,965121,1,,1,1
+40,Cuba,232,Andorra,1936,0,1,,1,1
+40,Cuba,390,Denmark,1936,258864,1,,1,1
+40,Cuba,711,Manchukuo,1936,0,1,,1,1
+40,Cuba,385,Norway,1936,487143,1,,1,1
+40,Cuba,652,Syria,1936,1266,1,,1,1
+40,Cuba,1065,Curacao,1936,0,1,,1,1
+40,Cuba,840,Philippines,1936,42259,1,,1,1
+40,Cuba,620,Libya,1936,0,1,,1,1
+40,Cuba,651,Egypt,1936,22227,1,,1,1
+40,Cuba,810,French Indo-China,1936,321092,1,,1,1
+40,Cuba,2305,Spanish Africa,1936,0,1,,1,1
+40,Cuba,200,United Kingdom,1936,5096134,1,,1,1
+40,Cuba,339,Albania,1936,0,1,,1,1
+40,Cuba,205,Ireland,1936,105624,1,,1,1
+40,Cuba,640,Turkey,1936,11893,1,,1,1
+40,Cuba,2008,Other British Oceania,1936,0,1,,1,1
+40,Cuba,90,Guatemala,1936,2628,1,,1,1
+40,Cuba,160,Argentina,1936,315646,1,,1,1
+40,Cuba,375,Finland,1936,40071,1,,1,1
+40,Cuba,710,China,1936,120718,1,,1,1
+40,Cuba,135,Peru,1936,102200,1,,1,1
+40,Cuba,350,Greece,1936,1,1,,1,1
+40,Cuba,150,Paraguay,1936,6923,1,,1,1
+40,Cuba,665,West Bank And Gaza,1936,289,1,,1,1
+40,Cuba,2355,Portuguese Africa,1936,0,1,,1,1
+40,Cuba,1060,French West Indies,1936,0,1,,1,1
+40,Cuba,2205,French Africa,1936,0,1,,1,1
+40,Cuba,750,India,1936,2807758,1,,1,1
+40,Cuba,675,Arabia,1936,0,1,,1,1
+40,Cuba,616,Tunisia,1936,0,1,,1,1
+40,Cuba,900,Australia,1936,13454,1,,1,1
+40,Cuba,560,South Africa,1936,0,1,,1,1
+40,Cuba,355,Bulgaria,1936,0,1,,1,1
+40,Cuba,30,Bermuda,1936,0,1,,1,1
+40,Cuba,380,Sweden,1936,469670,1,,1,1
+40,Cuba,80,Belize,1936,0,1,,1,1
+40,Cuba,6,Puerto Rico,1936,16831,1,,1,1
+40,Cuba,325,Italy,1936,187138,1,,1,1
+40,Cuba,230,Spain,1936,3494168,1,,1,1
+40,Cuba,140,Brazil,1936,20412,1,,1,1
+40,Cuba,2008,Other British Oceania,1937,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1937,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1937,12604,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1937,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1937,497333,1,Pesos $,1,1
+40,Cuba,66,Martinique,1937,2760,1,Pesos $,1,1
+40,Cuba,600,Morocco,1937,5578,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1937,1167355,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1937,0,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1937,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1937,23130,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1937,355297,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1937,8037,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1937,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1937,74805,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1937,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1937,16350,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1937,6321328,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1937,4391,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1937,7973,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1937,0,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1937,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1937,4765,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1937,9566,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1937,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1937,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1937,108,1,Pesos $,1,1
+40,Cuba,140,Brazil,1937,34519,1,Pesos $,1,1
+40,Cuba,115,Suriname,1937,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1937,478,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1937,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1937,0,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1937,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1937,11304,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1937,82166,1,Pesos $,1,1
+40,Cuba,,,1937,133375004,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1937,2381,1,Pesos $,1,1
+40,Cuba,651,Egypt,1937,104905,1,Pesos $,1,1
+40,Cuba,365,Russia,1937,0,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1937,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1937,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1937,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1937,1043476,1,Pesos $,1,1
+40,Cuba,625,Sudan,1937,936,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1937,1448,1,Pesos $,1,1
+40,Cuba,840,Philippines,1937,29692,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1937,1105,1,Pesos $,1,1
+40,Cuba,751,French India,1937,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1937,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1937,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1937,0,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1937,24702,1,Pesos $,1,1
+40,Cuba,710,China,1937,95606,1,Pesos $,1,1
+40,Cuba,900,Australia,1937,74662,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1937,304,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1937,157307,1,Pesos $,1,1
+40,Cuba,360,Romania,1937,546,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1937,805561,1,Pesos $,1,1
+40,Cuba,255,Germany,1937,5845136,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1937,13650,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1937,0,1,Pesos $,1,1
+40,Cuba,750,India,1937,3154075,1,Pesos $,1,1
+40,Cuba,395,Iceland,1937,147575,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1937,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1937,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1937,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1937,567365,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1937,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1937,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1937,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1937,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1937,26559,1,Pesos $,1,1
+40,Cuba,350,Greece,1937,232,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1937,0,1,Pesos $,1,1
+40,Cuba,230,Spain,1937,1856159,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1937,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1937,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1937,1509534,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1937,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1937,163309,1,Pesos $,1,1
+40,Cuba,220,France,1937,2897195,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1937,398688,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1937,825,1,Pesos $,1,1
+40,Cuba,375,Finland,1937,58703,1,Pesos $,1,1
+40,Cuba,367,Latvia,1937,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1937,0,1,Pesos $,1,1
+40,Cuba,291,Danzig,1937,2139,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1937,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1937,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1937,4285055,1,Pesos $,1,1
+40,Cuba,325,Italy,1937,464679,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1937,10416,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1937,0,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1937,46,1,Pesos $,1,1
+40,Cuba,95,Panama,1937,7438,1,Pesos $,1,1
+40,Cuba,100,Colombia,1937,83143,1,Pesos $,1,1
+40,Cuba,155,Chile,1937,1209545,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1937,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1937,403720,1,Pesos $,1,1
+40,Cuba,3,Alaska,1937,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1937,1825476,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1937,75905,1,Pesos $,1,1
+40,Cuba,235,Portugal,1937,99388,1,Pesos $,1,1
+40,Cuba,630,Iran,1937,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1937,40866,1,Pesos $,1,1
+40,Cuba,20,Canada,1937,1011147,1,Pesos $,1,1
+40,Cuba,740,Japan,1937,736647,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1937,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1937,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1937,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1937,437822,1,Pesos $,1,1
+40,Cuba,305,Austria,1937,212566,1,Pesos $,1,1
+40,Cuba,675,Arabia,1937,290,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1937,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1937,126,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1937,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1937,620,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1937,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1937,0,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1937,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1937,1565,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1937,92169,1,Pesos $,1,1
+40,Cuba,80,Belize,1937,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1937,17665,1,Pesos $,1,1
+40,Cuba,615,Algeria,1937,39155,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1937,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1937,7405,1,Pesos $,1,1
+40,Cuba,290,Poland,1937,28144,1,Pesos $,1,1
+40,Cuba,390,Denmark,1937,87987,1,Pesos $,1,1
+40,Cuba,640,Turkey,1937,20356,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1937,0,1,Pesos $,1,1
+40,Cuba,2,United States,1937,86946267,1,Pesos $,1,1
+40,Cuba,601,Tangier,1937,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1937,0,1,Pesos $,1,1
+40,Cuba,750,India,1938,2034454,1,Pesos $,1,1
+40,Cuba,325,Italy,1938,671666,1,Pesos $,1,1
+40,Cuba,645,Iraq,1938,0,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1938,242182,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1938,20239,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1938,7210,1,Pesos $,1,1
+40,Cuba,400,Azores,1938,0,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1938,169100,1,Pesos $,1,1
+40,Cuba,675,Arabia,1938,254,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1938,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1938,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1938,0,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1938,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1938,2152,1,Pesos $,1,1
+40,Cuba,366,Estonia,1938,80,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1938,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1938,0,1,Pesos $,1,1
+40,Cuba,600,Morocco,1938,36623,1,Pesos $,1,1
+40,Cuba,840,Philippines,1938,28962,1,Pesos $,1,1
+40,Cuba,160,Argentina,1938,213376,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1938,2,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1938,541434,1,Pesos $,1,1
+40,Cuba,601,Tangier,1938,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1938,34,1,Pesos $,1,1
+40,Cuba,291,Danzig,1938,1050,1,Pesos $,1,1
+40,Cuba,310,Hungary,1938,173354,1,Pesos $,1,1
+40,Cuba,360,Romania,1938,747,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1938,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1938,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1938,128433,1,Pesos $,1,1
+40,Cuba,41,Haiti,1938,1508,1,Pesos $,1,1
+40,Cuba,230,Spain,1938,1593237,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1938,53295,1,Pesos $,1,1
+40,Cuba,385,Norway,1938,489219,1,Pesos $,1,1
+40,Cuba,66,Martinique,1938,5,1,Pesos $,1,1
+40,Cuba,625,Sudan,1938,2307,1,Pesos $,1,1
+40,Cuba,652,Syria,1938,2416,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1938,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1938,23932,1,Pesos $,1,1
+40,Cuba,615,Algeria,1938,179886,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1938,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1938,1066,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1938,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1938,148881,1,Pesos $,1,1
+40,Cuba,710,China,1938,33055,1,Pesos $,1,1
+40,Cuba,290,Poland,1938,59381,1,Pesos $,1,1
+40,Cuba,390,Denmark,1938,45293,1,Pesos $,1,1
+40,Cuba,115,Suriname,1938,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1938,600398,1,Pesos $,1,1
+40,Cuba,100,Colombia,1938,12016,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1938,91,1,Pesos $,1,1
+40,Cuba,,,1938,108052126,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1938,37480,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1938,1180,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1938,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1938,33099,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1938,5488,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1938,496748,1,Pesos $,1,1
+40,Cuba,140,Brazil,1938,17270,1,Pesos $,1,1
+40,Cuba,375,Finland,1938,63661,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1938,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1938,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1938,21591,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1938,2588,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1938,0,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1938,19430,1,Pesos $,1,1
+40,Cuba,450,Liberia,1938,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1938,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1938,2510,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1938,41192,1,Pesos $,1,1
+40,Cuba,305,Austria,1938,70619,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1938,51573,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1938,2472,1,Pesos $,1,1
+40,Cuba,380,Sweden,1938,959378,1,Pesos $,1,1
+40,Cuba,740,Japan,1938,501775,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1938,4726,1,Pesos $,1,1
+40,Cuba,20,Canada,1938,815490,1,Pesos $,1,1
+40,Cuba,900,Australia,1938,56985,1,Pesos $,1,1
+40,Cuba,350,Greece,1938,468,1,Pesos $,1,1
+40,Cuba,80,Belize,1938,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1938,544566,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1938,229,1,Pesos $,1,1
+40,Cuba,155,Chile,1938,991084,1,Pesos $,1,1
+40,Cuba,135,Peru,1938,7477,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1938,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1938,3292,1,Pesos $,1,1
+40,Cuba,620,Libya,1938,0,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1938,0,1,Pesos $,1,1
+40,Cuba,2,United States,1938,74082921,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1938,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1938,1321847,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1938,0,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1938,227136,1,Pesos $,1,1
+40,Cuba,560,South Africa,1938,0,1,Pesos $,1,1
+40,Cuba,95,Panama,1938,2569,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1938,307,1,Pesos $,1,1
+40,Cuba,10,Greenland,1938,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1938,97,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1938,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1938,0,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1938,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1938,88067,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1938,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1938,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1938,139712,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1938,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1938,30760,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1938,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1938,721882,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1938,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1938,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1938,0,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1938,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1938,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1938,147749,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1938,434,1,Pesos $,1,1
+40,Cuba,640,Turkey,1938,19088,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1938,4490069,1,Pesos $,1,1
+40,Cuba,339,Albania,1938,0,1,Pesos $,1,1
+40,Cuba,220,France,1938,2777771,1,Pesos $,1,1
+40,Cuba,3,Alaska,1938,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1938,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1938,563,1,Pesos $,1,1
+40,Cuba,800,Thailand,1938,2947473,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1938,709,1,Pesos $,1,1
+40,Cuba,255,Germany,1938,4680694,1,Pesos $,1,1
+40,Cuba,751,French India,1938,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1938,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1938,11102,1,Pesos $,1,1
+40,Cuba,540,Angola,1938,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1938,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1938,12,1,Pesos $,1,1
+40,Cuba,630,Iran,1938,967,1,Pesos $,1,1
+40,Cuba,365,Russia,1938,886,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1939,8,1,Pesos $,1,1
+40,Cuba,400,Azores,1939,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1939,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1939,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1939,378549,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1939,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1939,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1939,0,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1939,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1939,16028,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1939,37612,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1939,1288,1,Pesos $,1,1
+40,Cuba,601,Tangier,1939,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1939,508935,1,Pesos $,1,1
+40,Cuba,645,Iraq,1939,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1939,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1939,26083,1,Pesos $,1,1
+40,Cuba,305,Austria,1939,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1939,9597,1,Pesos $,1,1
+40,Cuba,710,China,1939,22613,1,Pesos $,1,1
+40,Cuba,651,Egypt,1939,41690,1,Pesos $,1,1
+40,Cuba,750,India,1939,2062892,1,Pesos $,1,1
+40,Cuba,140,Brazil,1939,16818,1,Pesos $,1,1
+40,Cuba,3,Alaska,1939,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1939,30810,1,Pesos $,1,1
+40,Cuba,232,Andorra,1939,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1939,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1939,856,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1939,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1939,989,1,Pesos $,1,1
+40,Cuba,367,Latvia,1939,1561,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1939,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1939,3211,1,Pesos $,1,1
+40,Cuba,235,Portugal,1939,437516,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1939,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1939,202,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1939,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1939,32839,1,Pesos $,1,1
+40,Cuba,600,Morocco,1939,36001,1,Pesos $,1,1
+40,Cuba,100,Colombia,1939,6329,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1939,490,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1939,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1939,224584,1,Pesos $,1,1
+40,Cuba,,,1939,108890930,1,Pesos $,1,1
+40,Cuba,751,French India,1939,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1939,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1939,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1939,448976,1,Pesos $,1,1
+40,Cuba,70,Mexico,1939,769957,1,Pesos $,1,1
+40,Cuba,675,Arabia,1939,0,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1939,246,1,Pesos $,1,1
+40,Cuba,900,Australia,1939,108242,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1939,1096209,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1939,615190,1,Pesos $,1,1
+40,Cuba,205,Ireland,1939,557,1,Pesos $,1,1
+40,Cuba,450,Liberia,1939,0,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1939,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1939,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1939,0,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1939,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1939,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1939,443,1,Pesos $,1,1
+40,Cuba,255,Germany,1939,3384724,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1939,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1939,3065102,1,Pesos $,1,1
+40,Cuba,625,Sudan,1939,2115,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1939,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1939,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1939,986398,1,Pesos $,1,1
+40,Cuba,155,Chile,1939,588049,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1939,269336,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1939,2280,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1939,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1939,986653,1,Pesos $,1,1
+40,Cuba,560,South Africa,1939,0,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1939,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1939,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1939,15423,1,Pesos $,1,1
+40,Cuba,540,Angola,1939,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1939,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1939,1094483,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1939,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1939,0,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1939,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1939,19153,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1939,16376,1,Pesos $,1,1
+40,Cuba,290,Poland,1939,80345,1,Pesos $,1,1
+40,Cuba,95,Panama,1939,3239,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1939,96436,1,Pesos $,1,1
+40,Cuba,41,Haiti,1939,121,1,Pesos $,1,1
+40,Cuba,80,Belize,1939,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1939,433,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1939,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1939,64566,1,Pesos $,1,1
+40,Cuba,366,Estonia,1939,207,1,Pesos $,1,1
+40,Cuba,375,Finland,1939,55542,1,Pesos $,1,1
+40,Cuba,230,Spain,1939,1340881,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1939,0,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1939,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1939,734,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1939,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1939,0,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1939,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1939,1964,1,Pesos $,1,1
+40,Cuba,840,Philippines,1939,21250,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1939,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1939,102049,1,Pesos $,1,1
+40,Cuba,620,Libya,1939,0,1,Pesos $,1,1
+40,Cuba,291,Danzig,1939,475,1,Pesos $,1,1
+40,Cuba,800,Thailand,1939,2141317,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1939,224,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1939,0,1,Pesos $,1,1
+40,Cuba,2,United States,1939,77601267,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1939,2356,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1939,72566,1,Pesos $,1,1
+40,Cuba,615,Algeria,1939,117470,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1939,239509,1,Pesos $,1,1
+40,Cuba,220,France,1939,2272985,1,Pesos $,1,1
+40,Cuba,339,Albania,1939,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1939,72692,1,Pesos $,1,1
+40,Cuba,350,Greece,1939,47,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1939,0,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1939,24186,1,Pesos $,1,1
+40,Cuba,8501,Java,1939,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1939,975103,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1939,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1939,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1939,5968,1,Pesos $,1,1
+40,Cuba,310,Hungary,1939,144063,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1939,254,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1939,24827,1,Pesos $,1,1
+40,Cuba,630,Iran,1939,133,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1939,2076,1,Pesos $,1,1
+40,Cuba,115,Suriname,1939,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1940,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1940,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1940,12188,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1940,2761,1,Pesos $,1,1
+40,Cuba,255,Germany,1940,169572,1,Pesos $,1,1
+40,Cuba,395,Iceland,1940,113651,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1940,163653,1,Pesos $,1,1
+40,Cuba,366,Estonia,1940,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1940,318,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1940,3479,1,Pesos $,1,1
+40,Cuba,211,Belgium,1940,575557,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1940,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1940,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1940,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1940,895555,1,Pesos $,1,1
+40,Cuba,220,France,1940,1432789,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1940,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1940,0,1,Pesos $,1,1
+40,Cuba,230,Spain,1940,1659367,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1940,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1940,96559,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1940,4649,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1940,3753,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1940,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1940,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1940,1920,1,Pesos $,1,1
+40,Cuba,232,Andorra,1940,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1940,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1940,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1940,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1940,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1940,1934740,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1940,6436,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1940,129,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1940,325268,1,Pesos $,1,1
+40,Cuba,450,Liberia,1940,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1940,17092,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1940,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1940,0,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1940,308615,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1940,3538959,1,Pesos $,1,1
+40,Cuba,750,India,1940,3031960,1,Pesos $,1,1
+40,Cuba,600,Morocco,1940,13467,1,Pesos $,1,1
+40,Cuba,625,Sudan,1940,1387,1,Pesos $,1,1
+40,Cuba,385,Norway,1940,186933,1,Pesos $,1,1
+40,Cuba,160,Argentina,1940,306490,1,Pesos $,1,1
+40,Cuba,3,Alaska,1940,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1940,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1940,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1940,532458,1,Pesos $,1,1
+40,Cuba,140,Brazil,1940,80723,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1940,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1940,734290,1,Pesos $,1,1
+40,Cuba,710,China,1940,23967,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1940,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1940,2354,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1940,120,1,Pesos $,1,1
+40,Cuba,601,Tangier,1940,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1940,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1940,1467,1,Pesos $,1,1
+40,Cuba,380,Sweden,1940,275171,1,Pesos $,1,1
+40,Cuba,640,Turkey,1940,0,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1940,24479,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1940,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1940,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1940,596,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1940,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1940,9909,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1940,0,1,Pesos $,1,1
+40,Cuba,80,Belize,1940,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1940,440,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1940,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1940,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1940,0,1,Pesos $,1,1
+40,Cuba,751,French India,1940,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1940,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1940,853,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1940,2325,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1940,396,1,Pesos $,1,1
+40,Cuba,291,Danzig,1940,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1940,205498,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1940,0,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1940,2,1,Pesos $,1,1
+40,Cuba,305,Austria,1940,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1940,5083,1,Pesos $,1,1
+40,Cuba,20,Canada,1940,698631,1,Pesos $,1,1
+40,Cuba,155,Chile,1940,710615,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1940,0,1,Pesos $,1,1
+40,Cuba,95,Panama,1940,1899,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1940,0,1,Pesos $,1,1
+40,Cuba,2,United States,1940,79617444,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1940,143474,1,Pesos $,1,1
+40,Cuba,235,Portugal,1940,644104,1,Pesos $,1,1
+40,Cuba,,,1940,107472168,1,Pesos $,1,1
+40,Cuba,66,Martinique,1940,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1940,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1940,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1940,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1940,24139,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1940,0,1,Pesos $,1,1
+40,Cuba,100,Colombia,1940,10593,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1940,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1940,0,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1940,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1940,3107,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1940,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1940,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1940,181086,1,Pesos $,1,1
+40,Cuba,350,Greece,1940,2769,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1940,0,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1940,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1940,0,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1940,1638,1,Pesos $,1,1
+40,Cuba,560,South Africa,1940,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1940,276797,1,Pesos $,1,1
+40,Cuba,115,Suriname,1940,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1940,11490,1,Pesos $,1,1
+40,Cuba,91,Honduras,1940,2248,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1940,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1940,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1940,441,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1940,0,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1940,0,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1940,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1940,3877,1,Pesos $,1,1
+40,Cuba,375,Finland,1940,23744,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1940,79493,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1940,307899,1,Pesos $,1,1
+40,Cuba,900,Australia,1940,44492,1,Pesos $,1,1
+40,Cuba,740,Japan,1940,594856,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1940,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1940,38783,1,Pesos $,1,1
+40,Cuba,310,Hungary,1940,85080,1,Pesos $,1,1
+40,Cuba,615,Algeria,1940,32033,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1941,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1941,0,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1941,2122,1,Pesos $,1,1
+40,Cuba,645,Iraq,1941,0,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1941,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1941,25561,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1941,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1941,952388,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1941,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1941,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1941,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1941,238,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1941,27294,1,Pesos $,1,1
+40,Cuba,339,Albania,1941,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1941,102,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1941,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1941,415835,1,Pesos $,1,1
+40,Cuba,8501,Java,1941,29335,1,Pesos $,1,1
+40,Cuba,2,United States,1941,114896782,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1941,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1941,1375,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1941,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1941,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1941,129167,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1941,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1941,1508634,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1941,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1941,1305,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1941,216441,1,Pesos $,1,1
+40,Cuba,365,Russia,1941,886,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1941,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1941,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1941,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1941,29281,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1941,0,1,Pesos $,1,1
+40,Cuba,291,Danzig,1941,0,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1941,0,1,Pesos $,1,1
+40,Cuba,95,Panama,1941,2388,1,Pesos $,1,1
+40,Cuba,375,Finland,1941,243345,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1941,109548,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1941,49490,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1941,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1941,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1941,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1941,82996,1,Pesos $,1,1
+40,Cuba,840,Philippines,1941,4168,1,Pesos $,1,1
+40,Cuba,230,Spain,1941,1179658,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1941,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1941,0,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1941,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1941,59127,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1941,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1941,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1941,270060,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1941,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1941,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1941,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1941,292026,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1941,4337,1,Pesos $,1,1
+40,Cuba,367,Latvia,1941,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1941,0,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1941,0,1,Pesos $,1,1
+40,Cuba,601,Tangier,1941,0,1,Pesos $,1,1
+40,Cuba,710,China,1941,25520,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1941,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1941,1404,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1941,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1941,8420,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1941,0,1,Pesos $,1,1
+40,Cuba,155,Chile,1941,1090952,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1941,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1941,0,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1941,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1941,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1941,418476,1,Pesos $,1,1
+40,Cuba,135,Peru,1941,24492,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1941,226,1,Pesos $,1,1
+40,Cuba,750,India,1941,1563746,1,Pesos $,1,1
+40,Cuba,70,Mexico,1941,2074708,1,Pesos $,1,1
+40,Cuba,80,Belize,1941,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1941,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1941,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1941,87862,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1941,986,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1941,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1941,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1941,0,1,Pesos $,1,1
+40,Cuba,615,Algeria,1941,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1941,3416295,1,Pesos $,1,1
+40,Cuba,751,French India,1941,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1941,10553,1,Pesos $,1,1
+40,Cuba,100,Colombia,1941,22856,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1941,0,1,Pesos $,1,1
+40,Cuba,350,Greece,1941,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1941,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1941,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1941,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1941,0,1,Pesos $,1,1
+40,Cuba,625,Sudan,1941,2150,1,Pesos $,1,1
+40,Cuba,900,Australia,1941,15121,1,Pesos $,1,1
+40,Cuba,600,Morocco,1941,405,1,Pesos $,1,1
+40,Cuba,800,Thailand,1941,134698,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1941,29324,1,Pesos $,1,1
+40,Cuba,390,Denmark,1941,99,1,Pesos $,1,1
+40,Cuba,,,1941,137246953,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1941,0,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1941,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1941,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1941,8004,1,Pesos $,1,1
+40,Cuba,115,Suriname,1941,0,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1941,4301,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1941,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1941,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1941,0,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1941,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1941,398,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1941,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1941,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1941,13569,1,Pesos $,1,1
+40,Cuba,385,Norway,1941,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1941,0,1,Pesos $,1,1
+40,Cuba,220,France,1941,41510,1,Pesos $,1,1
+40,Cuba,325,Italy,1941,43593,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1941,46826,1,Pesos $,1,1
+40,Cuba,160,Argentina,1941,866188,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1941,10,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1941,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1941,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1941,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1941,130,1,Pesos $,1,1
+40,Cuba,232,Andorra,1941,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1941,0,1,Pesos $,1,1
+40,Cuba,255,Germany,1941,46610,1,Pesos $,1,1
+40,Cuba,305,Austria,1941,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1942,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1942,0,1,Pesos $,1,1
+40,Cuba,255,Germany,1942,0,1,Pesos $,1,1
+40,Cuba,600,Morocco,1942,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1942,3495217,1,Pesos $,1,1
+40,Cuba,70,Mexico,1942,5362957,1,Pesos $,1,1
+40,Cuba,8501,Java,1942,709,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1942,0,1,Pesos $,1,1
+40,Cuba,230,Spain,1942,528243,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1942,0,1,Pesos $,1,1
+40,Cuba,900,Australia,1942,566,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1942,488,1,Pesos $,1,1
+40,Cuba,20,Canada,1942,1311813,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1942,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1942,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1942,23615,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1942,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1942,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1942,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1942,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1942,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1942,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1942,2842976,1,Pesos $,1,1
+40,Cuba,95,Panama,1942,15678,1,Pesos $,1,1
+40,Cuba,380,Sweden,1942,6295,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1942,20,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1942,0,1,Pesos $,1,1
+40,Cuba,220,France,1942,6837,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1942,0,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1942,0,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1942,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1942,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1942,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1942,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1942,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1942,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1942,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1942,76624,1,Pesos $,1,1
+40,Cuba,135,Peru,1942,202462,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1942,709,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1942,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1942,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1942,2543,1,Pesos $,1,1
+40,Cuba,601,Tangier,1942,0,1,Pesos $,1,1
+40,Cuba,100,Colombia,1942,10234,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1942,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1942,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1942,1539568,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1942,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1942,4210,1,Pesos $,1,1
+40,Cuba,625,Sudan,1942,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1942,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1942,0,1,Pesos $,1,1
+40,Cuba,2,United States,1942,119684238,1,Pesos $,1,1
+40,Cuba,,,1942,151376051,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1942,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1942,0,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1942,0,1,Pesos $,1,1
+40,Cuba,80,Belize,1942,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1942,0,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1942,49652,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1942,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1942,4532,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1942,1700,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1942,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1942,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1942,509069,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1942,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1942,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1942,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1942,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1942,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1942,317784,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1942,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1942,1675,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1942,11243,1,Pesos $,1,1
+40,Cuba,66,Martinique,1942,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1942,0,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1942,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1942,16785,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1942,34679,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1942,8340,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1942,0,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1942,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1942,0,1,Pesos $,1,1
+40,Cuba,750,India,1942,3368680,1,Pesos $,1,1
+40,Cuba,10,Greenland,1942,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1942,0,1,Pesos $,1,1
+40,Cuba,615,Algeria,1942,10,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1942,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1942,165704,1,Pesos $,1,1
+40,Cuba,675,Arabia,1942,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1942,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1942,3086,1,Pesos $,1,1
+40,Cuba,305,Austria,1942,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1942,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1942,15,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1942,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1942,405047,1,Pesos $,1,1
+40,Cuba,560,South Africa,1942,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1942,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1942,0,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1942,0,1,Pesos $,1,1
+40,Cuba,710,China,1942,3637,1,Pesos $,1,1
+40,Cuba,235,Portugal,1942,125171,1,Pesos $,1,1
+40,Cuba,290,Poland,1942,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1942,233,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1942,0,1,Pesos $,1,1
+40,Cuba,155,Chile,1942,1949814,1,Pesos $,1,1
+40,Cuba,291,Danzig,1942,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1942,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1942,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1942,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1942,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1942,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1942,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1942,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1942,1,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1942,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1942,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1942,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1942,4244,1,Pesos $,1,1
+40,Cuba,651,Egypt,1942,29,1,Pesos $,1,1
+40,Cuba,800,Thailand,1942,0,1,Pesos $,1,1
+40,Cuba,350,Greece,1942,0,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1942,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1942,1955,1,Pesos $,1,1
+40,Cuba,115,Suriname,1942,0,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1942,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1942,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1942,0,1,Pesos $,1,1
+40,Cuba,751,French India,1942,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1942,0,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1942,0,1,Pesos $,1,1
+40,Cuba,2,United States,1943,134874974,1,Pesos $,1,1
+40,Cuba,366,Estonia,1943,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1943,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1943,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1943,0,1,Pesos $,1,1
+40,Cuba,750,India,1943,4280901,1,Pesos $,1,1
+40,Cuba,160,Argentina,1943,7442544,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1943,0,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1943,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1943,137503,1,Pesos $,1,1
+40,Cuba,840,Philippines,1943,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1943,0,1,Pesos $,1,1
+40,Cuba,,,1943,182951811,1,Pesos $,1,1
+40,Cuba,710,China,1943,7558,1,Pesos $,1,1
+40,Cuba,310,Hungary,1943,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1943,12159,1,Pesos $,1,1
+40,Cuba,900,Australia,1943,2581,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1943,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1943,600,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1943,26530,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1943,7,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1943,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1943,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1943,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1943,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1943,927744,1,Pesos $,1,1
+40,Cuba,291,Danzig,1943,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1943,0,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1943,1561,1,Pesos $,1,1
+40,Cuba,100,Colombia,1943,50992,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1943,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1943,23454,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1943,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1943,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1943,105,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1943,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1943,0,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1943,0,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1943,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1943,173447,1,Pesos $,1,1
+40,Cuba,620,Libya,1943,0,1,Pesos $,1,1
+40,Cuba,80,Belize,1943,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1943,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1943,0,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1943,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1943,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1943,13830,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1943,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1943,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1943,0,1,Pesos $,1,1
+40,Cuba,615,Algeria,1943,0,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1943,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1943,400223,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1943,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1943,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1943,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1943,937062,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1943,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1943,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1943,1736526,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1943,0,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1943,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1943,4938,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1943,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1943,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1943,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1943,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1943,13691,1,Pesos $,1,1
+40,Cuba,230,Spain,1943,1191982,1,Pesos $,1,1
+40,Cuba,390,Denmark,1943,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1943,4255034,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1943,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1943,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1943,0,1,Pesos $,1,1
+40,Cuba,155,Chile,1943,3521935,1,Pesos $,1,1
+40,Cuba,385,Norway,1943,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1943,7956,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1943,5886,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1943,36970,1,Pesos $,1,1
+40,Cuba,395,Iceland,1943,2425,1,Pesos $,1,1
+40,Cuba,305,Austria,1943,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1943,0,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1943,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1943,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1943,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1943,0,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1943,0,1,Pesos $,1,1
+40,Cuba,350,Greece,1943,0,1,Pesos $,1,1
+40,Cuba,601,Tangier,1943,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1943,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1943,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1943,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1943,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1943,0,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1943,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1943,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1943,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1943,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1943,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1943,265,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1943,0,1,Pesos $,1,1
+40,Cuba,220,France,1943,2032,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1943,0,1,Pesos $,1,1
+40,Cuba,600,Morocco,1943,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1943,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1943,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1943,5911337,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1943,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1943,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1943,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1943,5663510,1,Pesos $,1,1
+40,Cuba,8501,Java,1943,0,1,Pesos $,1,1
+40,Cuba,255,Germany,1943,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1943,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1943,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1943,665,1,Pesos $,1,1
+40,Cuba,66,Martinique,1943,0,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1943,15014,1,Pesos $,1,1
+40,Cuba,365,Russia,1943,789,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1943,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1943,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1943,0,1,Pesos $,1,1
+40,Cuba,625,Sudan,1943,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1943,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1943,0,1,Pesos $,1,1
+40,Cuba,115,Suriname,1943,0,1,Pesos $,1,1
+40,Cuba,751,French India,1943,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1943,97400,1,Pesos $,1,1
+40,Cuba,645,Iraq,1943,0,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1943,0,1,Pesos $,1,1
+40,Cuba,95,Panama,1943,9695,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1943,101217,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1943,0,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1943,27839,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1944,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1944,5647824,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1944,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1944,135,1,Pesos $,1,1
+40,Cuba,310,Hungary,1944,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1944,0,1,Pesos $,1,1
+40,Cuba,2,United States,1944,160904016,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1944,0,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1944,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1944,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1944,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1944,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1944,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1944,0,1,Pesos $,1,1
+40,Cuba,220,France,1944,266,1,Pesos $,1,1
+40,Cuba,100,Colombia,1944,219848,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1944,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1944,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1944,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1944,12222,1,Pesos $,1,1
+40,Cuba,80,Belize,1944,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1944,4632146,1,Pesos $,1,1
+40,Cuba,95,Panama,1944,20943,1,Pesos $,1,1
+40,Cuba,630,Iran,1944,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1944,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1944,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1944,0,1,Pesos $,1,1
+40,Cuba,291,Danzig,1944,0,1,Pesos $,1,1
+40,Cuba,255,Germany,1944,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1944,2682,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1944,841,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1944,0,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1944,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1944,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1944,30098,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1944,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1944,7440,1,Pesos $,1,1
+40,Cuba,235,Portugal,1944,876738,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1944,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1944,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1944,2517945,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1944,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1944,0,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1944,147640,1,Pesos $,1,1
+40,Cuba,740,Japan,1944,289,1,Pesos $,1,1
+40,Cuba,651,Egypt,1944,0,1,Pesos $,1,1
+40,Cuba,751,French India,1944,0,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1944,250,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1944,0,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1944,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1944,0,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1944,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1944,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1944,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1944,2789,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1944,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1944,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1944,462485,1,Pesos $,1,1
+40,Cuba,395,Iceland,1944,27313,1,Pesos $,1,1
+40,Cuba,800,Thailand,1944,0,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1944,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1944,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1944,11543,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1944,0,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1944,34172,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1944,0,1,Pesos $,1,1
+40,Cuba,,,1944,219204320,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1944,2115,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1944,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1944,29109,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1944,2400,1,Pesos $,1,1
+40,Cuba,155,Chile,1944,4152208,1,Pesos $,1,1
+40,Cuba,115,Suriname,1944,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1944,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1944,0,1,Pesos $,1,1
+40,Cuba,750,India,1944,5630921,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1944,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1944,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1944,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1944,0,1,Pesos $,1,1
+40,Cuba,601,Tangier,1944,922,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1944,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1944,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1944,26713,1,Pesos $,1,1
+40,Cuba,615,Algeria,1944,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1944,12,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1944,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1944,64341,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1944,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1944,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1944,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1944,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1944,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1944,0,1,Pesos $,1,1
+40,Cuba,305,Austria,1944,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1944,0,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1944,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1944,100168,1,Pesos $,1,1
+40,Cuba,380,Sweden,1944,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1944,0,1,Pesos $,1,1
+40,Cuba,710,China,1944,684,1,Pesos $,1,1
+40,Cuba,230,Spain,1944,1356048,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1944,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1944,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1944,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1944,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1944,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1944,1245307,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1944,8,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1944,0,1,Pesos $,1,1
+40,Cuba,350,Greece,1944,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1944,2679490,1,Pesos $,1,1
+40,Cuba,600,Morocco,1944,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1944,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1944,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1944,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1944,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1944,6394098,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1944,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1944,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1944,676155,1,Pesos $,1,1
+40,Cuba,385,Norway,1944,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1944,3516,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1944,0,1,Pesos $,1,1
+40,Cuba,900,Australia,1944,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1944,0,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1944,360,1,Pesos $,1,1
+40,Cuba,211,Belgium,1944,150,1,Pesos $,1,1
+40,Cuba,41,Haiti,1944,168238,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1944,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1944,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1944,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1944,0,1,Pesos $,1,1
+40,Cuba,625,Sudan,1944,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1945,0,1,Pesos $,1,1
+40,Cuba,400,Azores,1945,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1945,27,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1945,420,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1945,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1945,1447,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1945,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1945,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1945,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1945,18157,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1945,25415,1,Pesos $,1,1
+40,Cuba,601,Tangier,1945,0,1,Pesos $,1,1
+40,Cuba,350,Greece,1945,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1945,58955,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1945,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1945,29198,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1945,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1945,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1945,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1945,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1945,521206,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1945,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1945,0,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1945,0,1,Pesos $,1,1
+40,Cuba,305,Austria,1945,0,1,Pesos $,1,1
+40,Cuba,255,Germany,1945,2896,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1945,7,1,Pesos $,1,1
+40,Cuba,140,Brazil,1945,596220,1,Pesos $,1,1
+40,Cuba,66,Martinique,1945,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1945,5857,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1945,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1945,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1945,0,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1945,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1945,4468088,1,Pesos $,1,1
+40,Cuba,380,Sweden,1945,2400266,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1945,26387,1,Pesos $,1,1
+40,Cuba,155,Chile,1945,5278314,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1945,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1945,0,1,Pesos $,1,1
+40,Cuba,710,China,1945,15202,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1945,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1945,0,1,Pesos $,1,1
+40,Cuba,600,Morocco,1945,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1945,0,1,Pesos $,1,1
+40,Cuba,900,Australia,1945,1003,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1945,0,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1945,0,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1945,400,1,Pesos $,1,1
+40,Cuba,230,Spain,1945,3480444,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1945,4117,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1945,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1945,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1945,5488,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1945,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1945,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1945,3116146,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1945,74097,1,Pesos $,1,1
+40,Cuba,750,India,1945,5493636,1,Pesos $,1,1
+40,Cuba,645,Iraq,1945,0,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1945,0,1,Pesos $,1,1
+40,Cuba,100,Colombia,1945,395358,1,Pesos $,1,1
+40,Cuba,95,Panama,1945,4677,1,Pesos $,1,1
+40,Cuba,325,Italy,1945,398,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1945,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1945,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1945,0,1,Pesos $,1,1
+40,Cuba,751,French India,1945,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1945,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1945,0,1,Pesos $,1,1
+40,Cuba,115,Suriname,1945,58,1,Pesos $,1,1
+40,Cuba,8501,Java,1945,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1945,2840,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1945,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1945,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1945,2339,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1945,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1945,3704,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1945,288443,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1945,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1945,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1945,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1945,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1945,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1945,0,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1945,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1945,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1945,0,1,Pesos $,1,1
+40,Cuba,110,Guyana,1945,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1945,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1945,766,1,Pesos $,1,1
+40,Cuba,291,Danzig,1945,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1945,4686,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1945,10589,1,Pesos $,1,1
+40,Cuba,652,Syria,1945,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1945,14402,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1945,442255,1,Pesos $,1,1
+40,Cuba,640,Turkey,1945,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1945,61306,1,Pesos $,1,1
+40,Cuba,80,Belize,1945,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1945,1188704,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1945,0,1,Pesos $,1,1
+40,Cuba,220,France,1945,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1945,83,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1945,0,1,Pesos $,1,1
+40,Cuba,620,Libya,1945,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1945,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1945,0,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1945,0,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1945,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1945,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1945,2777741,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1945,846246,1,Pesos $,1,1
+40,Cuba,2,United States,1945,177797106,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1945,1856,1,Pesos $,1,1
+40,Cuba,70,Mexico,1945,8227223,1,Pesos $,1,1
+40,Cuba,615,Algeria,1945,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1945,0,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1945,2499558,1,Pesos $,1,1
+40,Cuba,211,Belgium,1945,2,1,Pesos $,1,1
+40,Cuba,,,1945,252368399,1,Pesos $,1,1
+40,Cuba,339,Albania,1945,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1945,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1945,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1945,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1945,4734983,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1945,2140,1,Pesos $,1,1
+40,Cuba,625,Sudan,1945,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1945,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1945,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1945,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1945,571759,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1945,0,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1945,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1946,196917,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1946,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1946,9589,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1946,0,1,Pesos $,1,1
+40,Cuba,615,Algeria,1946,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1946,5081491,1,Pesos $,1,1
+40,Cuba,325,Italy,1946,273106,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1946,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1946,764260,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1946,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1946,2787378,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1946,0,1,Pesos $,1,1
+40,Cuba,232,Andorra,1946,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1946,60522,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1946,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1946,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1946,1961,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1946,109,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1946,0,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1946,545854,1,Pesos $,1,1
+40,Cuba,,,1946,307449789,1,Pesos $,1,1
+40,Cuba,601,Tangier,1946,0,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1946,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1946,397,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1946,3304,1,Pesos $,1,1
+40,Cuba,310,Hungary,1946,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1946,50836,1,Pesos $,1,1
+40,Cuba,640,Turkey,1946,4080,1,Pesos $,1,1
+40,Cuba,10,Greenland,1946,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1946,6236,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1946,0,1,Pesos $,1,1
+40,Cuba,2,United States,1946,229093749,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1946,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1946,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1946,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1946,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1946,0,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1946,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1946,4272455,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1946,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1946,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1946,30,1,Pesos $,1,1
+40,Cuba,710,China,1946,12610,1,Pesos $,1,1
+40,Cuba,100,Colombia,1946,2064734,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1946,0,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1946,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1946,373497,1,Pesos $,1,1
+40,Cuba,620,Libya,1946,0,1,Pesos $,1,1
+40,Cuba,540,Angola,1946,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1946,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1946,0,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1946,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1946,5174,1,Pesos $,1,1
+40,Cuba,339,Albania,1946,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1946,11618,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1946,0,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1946,1314,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1946,0,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1946,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1946,0,1,Pesos $,1,1
+40,Cuba,41,Haiti,1946,643959,1,Pesos $,1,1
+40,Cuba,652,Syria,1946,501829,1,Pesos $,1,1
+40,Cuba,350,Greece,1946,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1946,190219,1,Pesos $,1,1
+40,Cuba,600,Morocco,1946,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1946,3350,1,Pesos $,1,1
+40,Cuba,95,Panama,1946,21004,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1946,243,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1946,96483,1,Pesos $,1,1
+40,Cuba,900,Australia,1946,3515,1,Pesos $,1,1
+40,Cuba,135,Peru,1946,901176,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1946,5159,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1946,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1946,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1946,99,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1946,0,1,Pesos $,1,1
+40,Cuba,70,Mexico,1946,7015802,1,Pesos $,1,1
+40,Cuba,751,French India,1946,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1946,0,1,Pesos $,1,1
+40,Cuba,651,Egypt,1946,48767,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1946,120,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1946,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1946,3238036,1,Pesos $,1,1
+40,Cuba,450,Liberia,1946,0,1,Pesos $,1,1
+40,Cuba,291,Danzig,1946,0,1,Pesos $,1,1
+40,Cuba,395,Iceland,1946,926,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1946,241,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1946,0,1,Pesos $,1,1
+40,Cuba,155,Chile,1946,6524402,1,Pesos $,1,1
+40,Cuba,20,Canada,1946,3350041,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1946,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1946,0,1,Pesos $,1,1
+40,Cuba,625,Sudan,1946,0,1,Pesos $,1,1
+40,Cuba,220,France,1946,577402,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1946,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1946,0,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1946,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1946,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1946,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1946,4557579,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1946,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1946,1038668,1,Pesos $,1,1
+40,Cuba,675,Arabia,1946,0,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1946,0,1,Pesos $,1,1
+40,Cuba,367,Latvia,1946,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1946,1157540,1,Pesos $,1,1
+40,Cuba,80,Belize,1946,0,1,Pesos $,1,1
+40,Cuba,230,Spain,1946,5174300,1,Pesos $,1,1
+40,Cuba,255,Germany,1946,5368,1,Pesos $,1,1
+40,Cuba,110,Guyana,1946,15,1,Pesos $,1,1
+40,Cuba,305,Austria,1946,0,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1946,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1946,1026,1,Pesos $,1,1
+40,Cuba,211,Belgium,1946,681496,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1946,100866,1,Pesos $,1,1
+40,Cuba,750,India,1946,3744306,1,Pesos $,1,1
+40,Cuba,290,Poland,1946,11,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1946,2394113,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1946,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1946,49374,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1946,212389,1,Pesos $,1,1
+40,Cuba,400,Azores,1946,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1946,0,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1946,0,1,Pesos $,1,1
+40,Cuba,366,Estonia,1946,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1946,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1946,4501,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1946,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1946,5132306,1,Pesos $,1,1
+40,Cuba,115,Suriname,1946,0,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1946,0,1,Pesos $,1,1
+40,Cuba,365,Russia,1946,7015,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1946,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1946,0,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1947,911516,1,Pesos $,1,1
+40,Cuba,211,Belgium,1947,2148095,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1947,0,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1947,0,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1947,103786,1,Pesos $,1,1
+40,Cuba,540,Angola,1947,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1947,1033563,1,Pesos $,1,1
+40,Cuba,652,Syria,1947,33594,1,Pesos $,1,1
+40,Cuba,400,Azores,1947,0,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1947,125124,1,Pesos $,1,1
+40,Cuba,110,Guyana,1947,22,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1947,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1947,1287244,1,Pesos $,1,1
+40,Cuba,160,Argentina,1947,2517009,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1947,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1947,0,1,Pesos $,1,1
+40,Cuba,3,Alaska,1947,0,1,Pesos $,1,1
+40,Cuba,230,Spain,1947,7449722,1,Pesos $,1,1
+40,Cuba,291,Danzig,1947,0,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1947,0,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1947,6601,1,Pesos $,1,1
+40,Cuba,750,India,1947,12349283,1,Pesos $,1,1
+40,Cuba,100,Colombia,1947,263889,1,Pesos $,1,1
+40,Cuba,80,Belize,1947,4716,1,Pesos $,1,1
+40,Cuba,205,Ireland,1947,45640,1,Pesos $,1,1
+40,Cuba,395,Iceland,1947,0,1,Pesos $,1,1
+40,Cuba,380,Sweden,1947,3455565,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1947,2551840,1,Pesos $,1,1
+40,Cuba,66,Martinique,1947,0,1,Pesos $,1,1
+40,Cuba,220,France,1947,1410357,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1947,15865,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1947,109453,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1947,0,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1947,10276,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1947,209930,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1947,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1947,170585,1,Pesos $,1,1
+40,Cuba,600,Morocco,1947,1998,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1947,5900079,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1947,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1947,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1947,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1947,0,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1947,18,1,Pesos $,1,1
+40,Cuba,651,Egypt,1947,8061,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1947,0,1,Pesos $,1,1
+40,Cuba,155,Chile,1947,5153639,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1947,0,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1947,0,1,Pesos $,1,1
+40,Cuba,2,United States,1947,436448370,1,Pesos $,1,1
+40,Cuba,305,Austria,1947,2969,1,Pesos $,1,1
+40,Cuba,615,Algeria,1947,406,1,Pesos $,1,1
+40,Cuba,620,Libya,1947,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1947,7362,1,Pesos $,1,1
+40,Cuba,70,Mexico,1947,6907052,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1947,0,1,Pesos $,1,1
+40,Cuba,95,Panama,1947,4382,1,Pesos $,1,1
+40,Cuba,366,Estonia,1947,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1947,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1947,0,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1947,0,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1947,88615,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1947,571448,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1947,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1947,363,1,Pesos $,1,1
+40,Cuba,710,China,1947,164146,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1947,0,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1947,0,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1947,12537,1,Pesos $,1,1
+40,Cuba,20,Canada,1947,4662023,1,Pesos $,1,1
+40,Cuba,255,Germany,1947,3757,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1947,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1947,87379,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1947,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1947,32,1,Pesos $,1,1
+40,Cuba,367,Latvia,1947,0,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1947,367327,1,Pesos $,1,1
+40,Cuba,751,French India,1947,0,1,Pesos $,1,1
+40,Cuba,645,Iraq,1947,0,1,Pesos $,1,1
+40,Cuba,900,Australia,1947,395,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1947,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1947,318461,1,Pesos $,1,1
+40,Cuba,365,Russia,1947,900,1,Pesos $,1,1
+40,Cuba,135,Peru,1947,303467,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1947,49725,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1947,516,1,Pesos $,1,1
+40,Cuba,350,Greece,1947,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1947,0,1,Pesos $,1,1
+40,Cuba,,,1947,521102012,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1947,3349579,1,Pesos $,1,1
+40,Cuba,310,Hungary,1947,410,1,Pesos $,1,1
+40,Cuba,675,Arabia,1947,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1947,1239728,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1947,0,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1947,6914810,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1947,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1947,37,1,Pesos $,1,1
+40,Cuba,232,Andorra,1947,0,1,Pesos $,1,1
+40,Cuba,290,Poland,1947,0,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1947,1300,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1947,0,1,Pesos $,1,1
+40,Cuba,390,Denmark,1947,228093,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1947,0,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1947,3100,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1947,0,1,Pesos $,1,1
+40,Cuba,450,Liberia,1947,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1947,258942,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1947,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1947,140755,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1947,0,1,Pesos $,1,1
+40,Cuba,601,Tangier,1947,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1947,3035763,1,Pesos $,1,1
+40,Cuba,41,Haiti,1947,10159,1,Pesos $,1,1
+40,Cuba,10,Greenland,1947,0,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1947,503477,1,Pesos $,1,1
+40,Cuba,325,Italy,1947,1457920,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1947,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1947,1687,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1947,0,1,Pesos $,1,1
+40,Cuba,115,Suriname,1947,0,1,Pesos $,1,1
+40,Cuba,630,Iran,1947,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1947,41880,1,Pesos $,1,1
+40,Cuba,339,Albania,1947,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1947,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1947,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1947,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1947,4102992,1,Pesos $,1,1
+40,Cuba,8501,Java,1947,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1947,13009,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1947,0,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1947,0,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1947,0,1,Pesos $,1,1
+40,Cuba,625,Sudan,1947,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1947,96049,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1948,130750,1,Pesos $,1,1
+40,Cuba,675,Arabia,1948,3967,1,Pesos $,1,1
+40,Cuba,291,Danzig,1948,14540,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1948,0,1,Pesos $,1,1
+40,Cuba,91,Honduras,1948,1954501,1,Pesos $,1,1
+40,Cuba,70,Mexico,1948,10910780,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1948,376,1,Pesos $,1,1
+40,Cuba,2,United States,1948,420259968,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1948,0,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1948,378322,1,Pesos $,1,1
+40,Cuba,115,Suriname,1948,0,1,Pesos $,1,1
+40,Cuba,375,Finland,1948,149113,1,Pesos $,1,1
+40,Cuba,255,Germany,1948,126651,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1948,25044,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1948,1801,1,Pesos $,1,1
+40,Cuba,900,Australia,1948,47412,1,Pesos $,1,1
+40,Cuba,652,Syria,1948,10431,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1948,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1948,73402,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1948,75848,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1948,11116,1,Pesos $,1,1
+40,Cuba,230,Spain,1948,6811076,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1948,8642,1,Pesos $,1,1
+40,Cuba,360,Romania,1948,296,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1948,22707,1,Pesos $,1,1
+40,Cuba,600,Morocco,1948,1653,1,Pesos $,1,1
+40,Cuba,3,Alaska,1948,610,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1948,19505,1,Pesos $,1,1
+40,Cuba,211,Belgium,1948,3362788,1,Pesos $,1,1
+40,Cuba,,,1948,527695003,1,Pesos $,1,1
+40,Cuba,380,Sweden,1948,3750262,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1948,0,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1948,104995,1,Pesos $,1,1
+40,Cuba,625,Sudan,1948,652,1,Pesos $,1,1
+40,Cuba,155,Chile,1948,6091057,1,Pesos $,1,1
+40,Cuba,367,Latvia,1948,1426,1,Pesos $,1,1
+40,Cuba,750,India,1948,17914676,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1948,2122,1,Pesos $,1,1
+40,Cuba,651,Egypt,1948,392023,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1948,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1948,1,1,Pesos $,1,1
+40,Cuba,385,Norway,1948,2656035,1,Pesos $,1,1
+40,Cuba,232,Andorra,1948,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1948,149995,1,Pesos $,1,1
+40,Cuba,400,Azores,1948,1851,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1948,0,1,Pesos $,1,1
+40,Cuba,640,Turkey,1948,79855,1,Pesos $,1,1
+40,Cuba,366,Estonia,1948,977,1,Pesos $,1,1
+40,Cuba,290,Poland,1948,7555,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1948,2608781,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1948,1788855,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1948,132,1,Pesos $,1,1
+40,Cuba,160,Argentina,1948,2007232,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1948,0,1,Pesos $,1,1
+40,Cuba,135,Peru,1948,13633,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1948,15209,1,Pesos $,1,1
+40,Cuba,220,France,1948,2051108,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1948,101,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1948,7430825,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1948,0,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1948,0,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1948,191583,1,Pesos $,1,1
+40,Cuba,365,Russia,1948,291,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1948,0,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1948,4874,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1948,783,1,Pesos $,1,1
+40,Cuba,235,Portugal,1948,1224162,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1948,60771,1,Pesos $,1,1
+40,Cuba,751,French India,1948,0,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1948,0,1,Pesos $,1,1
+40,Cuba,8501,Java,1948,72,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1948,0,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1948,0,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1948,0,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1948,293,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1948,0,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1948,339268,1,Pesos $,1,1
+40,Cuba,645,Iraq,1948,702,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1948,0,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1948,381767,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1948,345,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1948,0,1,Pesos $,1,1
+40,Cuba,100,Colombia,1948,436865,1,Pesos $,1,1
+40,Cuba,20,Canada,1948,8968263,1,Pesos $,1,1
+40,Cuba,620,Libya,1948,0,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1948,0,1,Pesos $,1,1
+40,Cuba,601,Tangier,1948,0,1,Pesos $,1,1
+40,Cuba,339,Albania,1948,3404,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1948,58137,1,Pesos $,1,1
+40,Cuba,95,Panama,1948,67363,1,Pesos $,1,1
+40,Cuba,390,Denmark,1948,67655,1,Pesos $,1,1
+40,Cuba,450,Liberia,1948,1530,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1948,72,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1948,0,1,Pesos $,1,1
+40,Cuba,710,China,1948,123875,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1948,1168243,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1948,3218039,1,Pesos $,1,1
+40,Cuba,110,Guyana,1948,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1948,774156,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1948,8410079,1,Pesos $,1,1
+40,Cuba,840,Philippines,1948,62242,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1948,0,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1948,4044916,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1948,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1948,0,1,Pesos $,1,1
+40,Cuba,305,Austria,1948,51721,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1948,36934,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1948,0,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1948,83269,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1948,313308,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1948,11542,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1948,123976,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1948,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1948,0,1,Pesos $,1,1
+40,Cuba,800,Thailand,1948,228619,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1948,4741,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1948,518,1,Pesos $,1,1
+40,Cuba,140,Brazil,1948,2560135,1,Pesos $,1,1
+40,Cuba,540,Angola,1948,0,1,Pesos $,1,1
+40,Cuba,615,Algeria,1948,17849,1,Pesos $,1,1
+40,Cuba,740,Japan,1948,46506,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1948,67456,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1948,18348,1,Pesos $,1,1
+40,Cuba,41,Haiti,1948,1134,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1948,0,1,Pesos $,1,1
+40,Cuba,205,Ireland,1948,146656,1,Pesos $,1,1
+40,Cuba,325,Italy,1948,2202311,1,Pesos $,1,1
+40,Cuba,80,Belize,1948,50540,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1948,0,1,Pesos $,1,1
+40,Cuba,560,South Africa,1948,58422,1,Pesos $,1,1
+40,Cuba,630,Iran,1948,11386,1,Pesos $,1,1
+40,Cuba,350,Greece,1948,5680,1,Pesos $,1,1
+40,Cuba,395,Iceland,1948,95858,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1948,331,1,Pesos $,1,1
+40,Cuba,6203,Tripoli,1949,0,1,Pesos $,1,1
+40,Cuba,310,Hungary,1949,20770,1,Pesos $,1,1
+40,Cuba,6,Puerto Rico,1949,220696,1,Pesos $,1,1
+40,Cuba,205,Ireland,1949,53472,1,Pesos $,1,1
+40,Cuba,2200,Other French possessions,1949,0,1,Pesos $,1,1
+40,Cuba,4,Hawaii,1949,3096,1,Pesos $,1,1
+40,Cuba,91,Honduras,1949,678371,1,Pesos $,1,1
+40,Cuba,290,Poland,1949,6559,1,Pesos $,1,1
+40,Cuba,480,French Equatorial Africa,1949,1059,1,Pesos $,1,1
+40,Cuba,2205,French Africa,1949,0,1,Pesos $,1,1
+40,Cuba,355,Bulgaria,1949,1039,1,Pesos $,1,1
+40,Cuba,2008,Other British Oceania,1949,0,1,Pesos $,1,1
+40,Cuba,360,Romania,1949,564,1,Pesos $,1,1
+40,Cuba,80,Belize,1949,7213,1,Pesos $,1,1
+40,Cuba,1065,Curacao,1949,2401988,1,Pesos $,1,1
+40,Cuba,1050,British West Indies,1949,0,1,Pesos $,1,1
+40,Cuba,235,Portugal,1949,677270,1,Pesos $,1,1
+40,Cuba,380,Sweden,1949,2111294,1,Pesos $,1,1
+40,Cuba,475,Nigeria,1949,0,1,Pesos $,1,1
+40,Cuba,616,Tunisia,1949,0,1,Pesos $,1,1
+40,Cuba,740,Japan,1949,239244,1,Pesos $,1,1
+40,Cuba,130,Ecuador,1949,908442,1,Pesos $,1,1
+40,Cuba,400,Azores,1949,0,1,Pesos $,1,1
+40,Cuba,827,Straits Settlement,1949,2142,1,Pesos $,1,1
+40,Cuba,375,Finland,1949,67052,1,Pesos $,1,1
+40,Cuba,90,Guatemala,1949,80904,1,Pesos $,1,1
+40,Cuba,665,West Bank And Gaza,1949,846,1,Pesos $,1,1
+40,Cuba,110,Guyana,1949,1,1,Pesos $,1,1
+40,Cuba,95,Panama,1949,2171,1,Pesos $,1,1
+40,Cuba,775,Myanmar,1949,0,1,Pesos $,1,1
+40,Cuba,752,Portuguese India,1949,0,1,Pesos $,1,1
+40,Cuba,160,Argentina,1949,636262,1,Pesos $,1,1
+40,Cuba,751,French India,1949,0,1,Pesos $,1,1
+40,Cuba,900,Australia,1949,6524,1,Pesos $,1,1
+40,Cuba,200,United Kingdom,1949,6484138,1,Pesos $,1,1
+40,Cuba,522,Djibouti,1949,0,1,Pesos $,1,1
+40,Cuba,652,Syria,1949,5039,1,Pesos $,1,1
+40,Cuba,41,Haiti,1949,58756,1,Pesos $,1,1
+40,Cuba,315,Czechoslovakia,1949,250642,1,Pesos $,1,1
+40,Cuba,630,Iran,1949,15661,1,Pesos $,1,1
+40,Cuba,410,Canary Islands,1949,1540,1,Pesos $,1,1
+40,Cuba,52,Trinidad And Tobago,1949,928076,1,Pesos $,1,1
+40,Cuba,750,India,1949,11136878,1,Pesos $,1,1
+40,Cuba,2355,Portuguese Africa,1949,0,1,Pesos $,1,1
+40,Cuba,602,Spanish Morocco,1949,5125,1,Pesos $,1,1
+40,Cuba,601,Tangier,1949,11248,1,Pesos $,1,1
+40,Cuba,530,Ethiopia,1949,0,1,Pesos $,1,1
+40,Cuba,385,Norway,1949,2565201,1,Pesos $,1,1
+40,Cuba,620,Libya,1949,0,1,Pesos $,1,1
+40,Cuba,211,Belgium,1949,3776847,1,Pesos $,1,1
+40,Cuba,573,British South Africa,1949,21466,1,Pesos $,1,1
+40,Cuba,920,New Zealand,1949,42939,1,Pesos $,1,1
+40,Cuba,1069,Aruba,1949,2666212,1,Pesos $,1,1
+40,Cuba,350,Greece,1949,16754,1,Pesos $,1,1
+40,Cuba,366,Estonia,1949,1684,1,Pesos $,1,1
+40,Cuba,94,Costa Rica,1949,23351,1,Pesos $,1,1
+40,Cuba,115,Suriname,1949,3786,1,Pesos $,1,1
+40,Cuba,93,Nicaragua,1949,162579,1,Pesos $,1,1
+40,Cuba,390,Denmark,1949,41272,1,Pesos $,1,1
+40,Cuba,8501,Java,1949,3069,1,Pesos $,1,1
+40,Cuba,2005,British Africa,1949,0,1,Pesos $,1,1
+40,Cuba,810,French Indo-China,1949,704,1,Pesos $,1,1
+40,Cuba,395,Iceland,1949,58442,1,Pesos $,1,1
+40,Cuba,560,South Africa,1949,3732,1,Pesos $,1,1
+40,Cuba,615,Algeria,1949,40423,1,Pesos $,1,1
+40,Cuba,255,Germany,1949,713215,1,Pesos $,1,1
+40,Cuba,645,Iraq,1949,3649,1,Pesos $,1,1
+40,Cuba,651,Egypt,1949,32340,1,Pesos $,1,1
+40,Cuba,365,Russia,1949,935,1,Pesos $,1,1
+40,Cuba,8502,Sumatra,1949,127,1,Pesos $,1,1
+40,Cuba,700,Afghanistan,1949,52,1,Pesos $,1,1
+40,Cuba,21,Newfoundland,1949,160274,1,Pesos $,1,1
+40,Cuba,232,Andorra,1949,0,1,Pesos $,1,1
+40,Cuba,120,French Guiana,1949,0,1,Pesos $,1,1
+40,Cuba,220,France,1949,1720822,1,Pesos $,1,1
+40,Cuba,352,Cyprus,1949,0,1,Pesos $,1,1
+40,Cuba,840,Philippines,1949,14766,1,Pesos $,1,1
+40,Cuba,150,Paraguay,1949,221516,1,Pesos $,1,1
+40,Cuba,165,Uruguay,1949,566202,1,Pesos $,1,1
+40,Cuba,339,Albania,1949,8,1,Pesos $,1,1
+40,Cuba,820,Malaysia,1949,9984,1,Pesos $,1,1
+40,Cuba,2,United States,1949,375676478,1,Pesos $,1,1
+40,Cuba,640,Turkey,1949,37280,1,Pesos $,1,1
+40,Cuba,155,Chile,1949,4267246,1,Pesos $,1,1
+40,Cuba,800,Thailand,1949,2734,1,Pesos $,1,1
+40,Cuba,505,British East Africa,1949,16978,1,Pesos $,1,1
+40,Cuba,450,Liberia,1949,0,1,Pesos $,1,1
+40,Cuba,711,Manchukuo,1949,0,1,Pesos $,1,1
+40,Cuba,2007,British possessions in Asia,1949,0,1,Pesos $,1,1
+40,Cuba,231,Gibraltar,1949,0,1,Pesos $,1,1
+40,Cuba,66,Martinique,1949,0,1,Pesos $,1,1
+40,Cuba,210,Netherlands,1949,1093387,1,Pesos $,1,1
+40,Cuba,230,Spain,1949,6939370,1,Pesos $,1,1
+40,Cuba,710,China,1949,170918,1,Pesos $,1,1
+40,Cuba,70,Mexico,1949,5966697,1,Pesos $,1,1
+40,Cuba,145,Bolivia,1949,6579,1,Pesos $,1,1
+40,Cuba,3,Alaska,1949,0,1,Pesos $,1,1
+40,Cuba,20,Canada,1949,11086049,1,Pesos $,1,1
+40,Cuba,1060,French West Indies,1949,0,1,Pesos $,1,1
+40,Cuba,675,Arabia,1949,3632,1,Pesos $,1,1
+40,Cuba,540,Angola,1949,542,1,Pesos $,1,1
+40,Cuba,30,Bermuda,1949,60,1,Pesos $,1,1
+40,Cuba,68,Netherlands Antilles,1949,0,1,Pesos $,1,1
+40,Cuba,51,Jamaica,1949,3166,1,Pesos $,1,1
+40,Cuba,305,Austria,1949,122235,1,Pesos $,1,1
+40,Cuba,625,Sudan,1949,404,1,Pesos $,1,1
+40,Cuba,345,Yugoslavia,1949,0,1,Pesos $,1,1
+40,Cuba,780,Sri Lanka,1949,60048,1,Pesos $,1,1
+40,Cuba,96,Panama Canal Zone,1949,1860,1,Pesos $,1,1
+40,Cuba,225,Switzerland,1949,1658994,1,Pesos $,1,1
+40,Cuba,135,Peru,1949,4984,1,Pesos $,1,1
+40,Cuba,367,Latvia,1949,0,1,Pesos $,1,1
+40,Cuba,31,Bahamas,1949,66969,1,Pesos $,1,1
+40,Cuba,101,Venezuela,1949,320454,1,Pesos $,1,1
+40,Cuba,2305,Spanish Africa,1949,0,1,Pesos $,1,1
+40,Cuba,600,Morocco,1949,90999,1,Pesos $,1,1
+40,Cuba,42,Dominican Republic,1949,144023,1,Pesos $,1,1
+40,Cuba,580,Madagascar,1949,7653,1,Pesos $,1,1
+40,Cuba,291,Danzig,1949,499,1,Pesos $,1,1
+40,Cuba,100,Colombia,1949,232350,1,Pesos $,1,1
+40,Cuba,368,Lithuania,1949,0,1,Pesos $,1,1
+40,Cuba,140,Brazil,1949,371098,1,Pesos $,1,1
+40,Cuba,65,Guadeloupe,1949,0,1,Pesos $,1,1
+40,Cuba,325,Italy,1949,2456261,1,Pesos $,1,1
+40,Cuba,720,Hong Kong,1949,335056,1,Pesos $,1,1
+40,Cuba,2000,Other British possessions,1949,0,1,Pesos $,1,1
+40,Cuba,212,Luxembourg,1949,161239,1,Pesos $,1,1
+40,Cuba,92,El Salvador,1949,1523,1,Pesos $,1,1
+40,Cuba,521,British Somaliland,1949,0,1,Pesos $,1,1
+40,Cuba,2208,French Oceania,1949,0,1,Pesos $,1,1
+40,Cuba,10,Greenland,1949,0,1,Pesos $,1,1
+40,Cuba,430,French West Africa,1949,135,1,Pesos $,1,1
+40,Cuba,490,"Congo, Dem. Republic",1949,119,1,Pesos $,1,1
+40,Cuba,,,1949,451576106,1,Pesos $,1,1
+40,Cuba,,,1917,,,,1,1
+40,Cuba,,,1918,,,,1,1
+40,Cuba,,,1950,,,,1,1

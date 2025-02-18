@@ -1,0 +1,1461 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+338,2,1920,1227900,1,Pounds,Malta,United States
+338,2,1921,630592,1,Pounds,Malta,United States
+338,2,1922,713826,1,Pounds,Malta,United States
+338,2,1923,373476,1,Pounds,Malta,United States
+338,2,1924,320470,1,Pounds,Malta,United States
+338,2,1925,443063,1,Pounds,Malta,United States
+338,2,1926,380590,1,Pounds,Malta,United States
+338,2,1928,250458,1,Pounds,Malta,United States
+338,2,1929,305151,1,Pounds,Malta,United States
+338,2,1930,220654,1,Pounds,Malta,United States
+338,2,1931,152033,1,Pounds,Malta,United States
+338,2,1932,130357,1,,Malta,United States
+338,2,1933,137189,1,,Malta,United States
+338,2,1934,153724,1,Pounds,Malta,United States
+338,2,1935,105770,1,,Malta,United States
+338,2,1936,72933,1,Pounds,Malta,United States
+338,2,1937,113411,1,Pounds,Malta,United States
+338,2,1938,138394,1,Pounds,Malta,United States
+338,2,1939,141047,1,,Malta,United States
+338,2,1940,49145,1,,Malta,United States
+338,20,1920,23338,1,Pounds,Malta,Canada
+338,20,1921,64,1,Pounds,Malta,Canada
+338,20,1922,36417,1,Pounds,Malta,Canada
+338,20,1923,55356,1,Pounds,Malta,Canada
+338,20,1924,100894,1,Pounds,Malta,Canada
+338,20,1925,59724,1,Pounds,Malta,Canada
+338,20,1926,78892,1,Pounds,Malta,Canada
+338,20,1928,218032,1,Pounds,Malta,Canada
+338,20,1929,147143,1,Pounds,Malta,Canada
+338,20,1930,125967,1,Pounds,Malta,Canada
+338,20,1931,86684,1,Pounds,Malta,Canada
+338,20,1932,58826,1,,Malta,Canada
+338,20,1933,72655,1,,Malta,Canada
+338,20,1934,65226,1,Pounds,Malta,Canada
+338,20,1935,124664,1,,Malta,Canada
+338,20,1936,112801,1,Pounds,Malta,Canada
+338,20,1937,145232,1,Pounds,Malta,Canada
+338,20,1938,94733,1,Pounds,Malta,Canada
+338,20,1939,97614,1,,Malta,Canada
+338,20,1940,22601,1,,Malta,Canada
+338,21,1920,540,1,Pounds,Malta,Newfoundland
+338,21,1921,990,1,Pounds,Malta,Newfoundland
+338,21,1922,1434,1,Pounds,Malta,Newfoundland
+338,21,1923,160,1,Pounds,Malta,Newfoundland
+338,21,1924,847,1,Pounds,Malta,Newfoundland
+338,21,1925,5693,1,Pounds,Malta,Newfoundland
+338,21,1926,6675,1,Pounds,Malta,Newfoundland
+338,21,1928,1633,1,Pounds,Malta,Newfoundland
+338,21,1929,2232,1,Pounds,Malta,Newfoundland
+338,21,1930,0,1,Pounds,Malta,Newfoundland
+338,21,1931,0,1,Pounds,Malta,Newfoundland
+338,21,1932,0,1,,Malta,Newfoundland
+338,21,1933,0,1,,Malta,Newfoundland
+338,21,1934,0,1,Pounds,Malta,Newfoundland
+338,21,1935,0,1,,Malta,Newfoundland
+338,21,1936,3358,1,Pounds,Malta,Newfoundland
+338,21,1937,4687,1,Pounds,Malta,Newfoundland
+338,21,1938,4223,1,Pounds,Malta,Newfoundland
+338,21,1939,0,1,,Malta,Newfoundland
+338,21,1940,0,1,,Malta,Newfoundland
+338,70,1920,0,1,Pounds,Malta,Mexico
+338,70,1921,28037,1,Pounds,Malta,Mexico
+338,70,1922,0,1,Pounds,Malta,Mexico
+338,70,1923,52814,1,Pounds,Malta,Mexico
+338,70,1924,67893,1,Pounds,Malta,Mexico
+338,70,1925,12750,1,Pounds,Malta,Mexico
+338,70,1926,0,1,Pounds,Malta,Mexico
+338,70,1928,0,1,Pounds,Malta,Mexico
+338,70,1929,0,1,Pounds,Malta,Mexico
+338,70,1930,0,1,Pounds,Malta,Mexico
+338,70,1931,0,1,Pounds,Malta,Mexico
+338,70,1932,0,1,,Malta,Mexico
+338,70,1933,0,1,,Malta,Mexico
+338,70,1934,0,1,Pounds,Malta,Mexico
+338,70,1935,0,1,,Malta,Mexico
+338,70,1936,0,1,Pounds,Malta,Mexico
+338,70,1937,0,1,Pounds,Malta,Mexico
+338,70,1938,0,1,Pounds,Malta,Mexico
+338,70,1939,0,1,,Malta,Mexico
+338,70,1940,0,1,,Malta,Mexico
+338,101,1920,0,1,Pounds,Malta,Venezuela
+338,101,1921,0,1,Pounds,Malta,Venezuela
+338,101,1922,0,1,Pounds,Malta,Venezuela
+338,101,1923,0,1,Pounds,Malta,Venezuela
+338,101,1924,0,1,Pounds,Malta,Venezuela
+338,101,1925,0,1,Pounds,Malta,Venezuela
+338,101,1926,0,1,Pounds,Malta,Venezuela
+338,101,1928,0,1,Pounds,Malta,Venezuela
+338,101,1929,0,1,Pounds,Malta,Venezuela
+338,101,1930,0,1,Pounds,Malta,Venezuela
+338,101,1931,0,1,Pounds,Malta,Venezuela
+338,101,1932,0,1,,Malta,Venezuela
+338,101,1933,0,1,,Malta,Venezuela
+338,101,1934,0,1,Pounds,Malta,Venezuela
+338,101,1935,0,1,,Malta,Venezuela
+338,101,1936,0,1,Pounds,Malta,Venezuela
+338,101,1937,2437,1,Pounds,Malta,Venezuela
+338,101,1938,1851,1,Pounds,Malta,Venezuela
+338,101,1939,0,1,,Malta,Venezuela
+338,101,1940,0,1,,Malta,Venezuela
+338,130,1920,0,1,Pounds,Malta,Ecuador
+338,130,1921,0,1,Pounds,Malta,Ecuador
+338,130,1922,0,1,Pounds,Malta,Ecuador
+338,130,1923,0,1,Pounds,Malta,Ecuador
+338,130,1924,0,1,Pounds,Malta,Ecuador
+338,130,1925,0,1,Pounds,Malta,Ecuador
+338,130,1926,0,1,Pounds,Malta,Ecuador
+338,130,1928,0,1,Pounds,Malta,Ecuador
+338,130,1929,0,1,Pounds,Malta,Ecuador
+338,130,1930,0,1,Pounds,Malta,Ecuador
+338,130,1931,0,1,Pounds,Malta,Ecuador
+338,130,1932,0,1,,Malta,Ecuador
+338,130,1933,0,1,,Malta,Ecuador
+338,130,1934,0,1,Pounds,Malta,Ecuador
+338,130,1935,0,1,,Malta,Ecuador
+338,130,1936,0,1,Pounds,Malta,Ecuador
+338,130,1937,4882,1,Pounds,Malta,Ecuador
+338,130,1938,2081,1,Pounds,Malta,Ecuador
+338,130,1939,0,1,,Malta,Ecuador
+338,130,1940,0,1,,Malta,Ecuador
+338,140,1920,4277,1,Pounds,Malta,Brazil
+338,140,1921,4999,1,Pounds,Malta,Brazil
+338,140,1922,19630,1,Pounds,Malta,Brazil
+338,140,1923,25677,1,Pounds,Malta,Brazil
+338,140,1924,19867,1,Pounds,Malta,Brazil
+338,140,1925,49026,1,Pounds,Malta,Brazil
+338,140,1926,45767,1,Pounds,Malta,Brazil
+338,140,1928,31459,1,Pounds,Malta,Brazil
+338,140,1929,17156,1,Pounds,Malta,Brazil
+338,140,1930,14222,1,Pounds,Malta,Brazil
+338,140,1931,17252,1,Pounds,Malta,Brazil
+338,140,1932,3371,1,,Malta,Brazil
+338,140,1933,34852,1,,Malta,Brazil
+338,140,1934,20432,1,Pounds,Malta,Brazil
+338,140,1935,71008,1,,Malta,Brazil
+338,140,1936,14672,1,Pounds,Malta,Brazil
+338,140,1937,2246,1,Pounds,Malta,Brazil
+338,140,1938,40073,1,Pounds,Malta,Brazil
+338,140,1939,28210,1,,Malta,Brazil
+338,140,1940,5685,1,,Malta,Brazil
+338,150,1920,0,1,Pounds,Malta,Paraguay
+338,150,1921,0,1,Pounds,Malta,Paraguay
+338,150,1922,0,1,Pounds,Malta,Paraguay
+338,150,1923,0,1,Pounds,Malta,Paraguay
+338,150,1924,0,1,Pounds,Malta,Paraguay
+338,150,1925,0,1,Pounds,Malta,Paraguay
+338,150,1926,0,1,Pounds,Malta,Paraguay
+338,150,1928,0,1,Pounds,Malta,Paraguay
+338,150,1929,0,1,Pounds,Malta,Paraguay
+338,150,1930,0,1,Pounds,Malta,Paraguay
+338,150,1931,0,1,Pounds,Malta,Paraguay
+338,150,1932,0,1,,Malta,Paraguay
+338,150,1933,0,1,,Malta,Paraguay
+338,150,1934,0,1,Pounds,Malta,Paraguay
+338,150,1935,0,1,,Malta,Paraguay
+338,150,1936,0,1,Pounds,Malta,Paraguay
+338,150,1937,2242,1,Pounds,Malta,Paraguay
+338,150,1938,1568,1,Pounds,Malta,Paraguay
+338,150,1939,0,1,,Malta,Paraguay
+338,150,1940,0,1,,Malta,Paraguay
+338,155,1920,0,1,Pounds,Malta,Chile
+338,155,1921,0,1,Pounds,Malta,Chile
+338,155,1922,0,1,Pounds,Malta,Chile
+338,155,1923,0,1,Pounds,Malta,Chile
+338,155,1924,0,1,Pounds,Malta,Chile
+338,155,1925,0,1,Pounds,Malta,Chile
+338,155,1926,0,1,Pounds,Malta,Chile
+338,155,1928,0,1,Pounds,Malta,Chile
+338,155,1929,0,1,Pounds,Malta,Chile
+338,155,1930,0,1,Pounds,Malta,Chile
+338,155,1931,0,1,Pounds,Malta,Chile
+338,155,1932,0,1,,Malta,Chile
+338,155,1933,0,1,,Malta,Chile
+338,155,1934,0,1,Pounds,Malta,Chile
+338,155,1935,0,1,,Malta,Chile
+338,155,1936,0,1,Pounds,Malta,Chile
+338,155,1937,0,1,Pounds,Malta,Chile
+338,155,1938,1465,1,Pounds,Malta,Chile
+338,155,1939,0,1,,Malta,Chile
+338,155,1940,0,1,,Malta,Chile
+338,160,1920,158653,1,Pounds,Malta,Argentina
+338,160,1921,0,1,Pounds,Malta,Argentina
+338,160,1922,0,1,Pounds,Malta,Argentina
+338,160,1923,42427,1,Pounds,Malta,Argentina
+338,160,1924,356,1,Pounds,Malta,Argentina
+338,160,1925,1378,1,Pounds,Malta,Argentina
+338,160,1926,38620,1,Pounds,Malta,Argentina
+338,160,1928,5256,1,Pounds,Malta,Argentina
+338,160,1929,23682,1,Pounds,Malta,Argentina
+338,160,1930,5267,1,Pounds,Malta,Argentina
+338,160,1931,5574,1,Pounds,Malta,Argentina
+338,160,1932,9071,1,,Malta,Argentina
+338,160,1933,27521,1,,Malta,Argentina
+338,160,1934,38826,1,Pounds,Malta,Argentina
+338,160,1935,18681,1,,Malta,Argentina
+338,160,1936,24733,1,Pounds,Malta,Argentina
+338,160,1937,42319,1,Pounds,Malta,Argentina
+338,160,1938,42160,1,Pounds,Malta,Argentina
+338,160,1939,40005,1,,Malta,Argentina
+338,160,1940,624,1,,Malta,Argentina
+338,165,1920,0,1,Pounds,Malta,Uruguay
+338,165,1921,0,1,Pounds,Malta,Uruguay
+338,165,1922,0,1,Pounds,Malta,Uruguay
+338,165,1923,0,1,Pounds,Malta,Uruguay
+338,165,1924,0,1,Pounds,Malta,Uruguay
+338,165,1925,0,1,Pounds,Malta,Uruguay
+338,165,1926,0,1,Pounds,Malta,Uruguay
+338,165,1928,0,1,Pounds,Malta,Uruguay
+338,165,1929,0,1,Pounds,Malta,Uruguay
+338,165,1930,0,1,Pounds,Malta,Uruguay
+338,165,1931,0,1,Pounds,Malta,Uruguay
+338,165,1932,0,1,,Malta,Uruguay
+338,165,1933,0,1,,Malta,Uruguay
+338,165,1934,0,1,Pounds,Malta,Uruguay
+338,165,1935,0,1,,Malta,Uruguay
+338,165,1936,0,1,Pounds,Malta,Uruguay
+338,165,1937,0,1,Pounds,Malta,Uruguay
+338,165,1938,4275,1,Pounds,Malta,Uruguay
+338,165,1939,0,1,,Malta,Uruguay
+338,165,1940,0,1,,Malta,Uruguay
+338,200,1920,2672887,1,Pounds,Malta,United Kingdom
+338,200,1921,1250350,1,Pounds,Malta,United Kingdom
+338,200,1922,1233711,1,Pounds,Malta,United Kingdom
+338,200,1923,1294722,1,Pounds,Malta,United Kingdom
+338,200,1924,1367291,1,Pounds,Malta,United Kingdom
+338,200,1925,1270913,1,Pounds,Malta,United Kingdom
+338,200,1926,1043370,1,Pounds,Malta,United Kingdom
+338,200,1928,1143012,1,Pounds,Malta,United Kingdom
+338,200,1929,1153200,1,Pounds,Malta,United Kingdom
+338,200,1930,992523,1,Pounds,Malta,United Kingdom
+338,200,1931,921686,1,Pounds,Malta,United Kingdom
+338,200,1932,940554,1,,Malta,United Kingdom
+338,200,1933,991777,1,,Malta,United Kingdom
+338,200,1934,959511,1,Pounds,Malta,United Kingdom
+338,200,1935,1023593,1,,Malta,United Kingdom
+338,200,1936,1007136,1,Pounds,Malta,United Kingdom
+338,200,1937,1031212,1,Pounds,Malta,United Kingdom
+338,200,1938,1077835,1,Pounds,Malta,United Kingdom
+338,200,1939,1190327,1,,Malta,United Kingdom
+338,200,1940,931942,1,,Malta,United Kingdom
+338,205,1920,0,1,Pounds,Malta,Ireland
+338,205,1921,0,1,Pounds,Malta,Ireland
+338,205,1922,0,1,Pounds,Malta,Ireland
+338,205,1923,0,1,Pounds,Malta,Ireland
+338,205,1924,0,1,Pounds,Malta,Ireland
+338,205,1925,0,1,Pounds,Malta,Ireland
+338,205,1926,0,1,Pounds,Malta,Ireland
+338,205,1928,0,1,Pounds,Malta,Ireland
+338,205,1929,0,1,Pounds,Malta,Ireland
+338,205,1930,0,1,Pounds,Malta,Ireland
+338,205,1931,0,1,Pounds,Malta,Ireland
+338,205,1932,0,1,,Malta,Ireland
+338,205,1933,0,1,,Malta,Ireland
+338,205,1934,409,1,Pounds,Malta,Ireland
+338,205,1935,0,1,,Malta,Ireland
+338,205,1936,12683,1,Pounds,Malta,Ireland
+338,205,1937,16491,1,Pounds,Malta,Ireland
+338,205,1938,17779,1,Pounds,Malta,Ireland
+338,205,1939,25484,1,,Malta,Ireland
+338,205,1940,12224,1,,Malta,Ireland
+338,210,1920,88681,1,Pounds,Malta,Netherlands
+338,210,1921,91569,1,Pounds,Malta,Netherlands
+338,210,1922,89264,1,Pounds,Malta,Netherlands
+338,210,1923,86553,1,Pounds,Malta,Netherlands
+338,210,1924,141039,1,Pounds,Malta,Netherlands
+338,210,1925,109463,1,Pounds,Malta,Netherlands
+338,210,1926,156019,1,Pounds,Malta,Netherlands
+338,210,1928,127399,1,Pounds,Malta,Netherlands
+338,210,1929,148781,1,Pounds,Malta,Netherlands
+338,210,1930,156396,1,Pounds,Malta,Netherlands
+338,210,1931,150905,1,Pounds,Malta,Netherlands
+338,210,1932,114626,1,,Malta,Netherlands
+338,210,1933,119158,1,,Malta,Netherlands
+338,210,1934,109674,1,Pounds,Malta,Netherlands
+338,210,1935,137494,1,,Malta,Netherlands
+338,210,1936,132195,1,Pounds,Malta,Netherlands
+338,210,1937,145180,1,Pounds,Malta,Netherlands
+338,210,1938,131251,1,Pounds,Malta,Netherlands
+338,210,1939,168744,1,,Malta,Netherlands
+338,210,1940,20235,1,,Malta,Netherlands
+338,211,1920,20311,1,Pounds,Malta,Belgium
+338,211,1921,36080,1,Pounds,Malta,Belgium
+338,211,1922,49580,1,Pounds,Malta,Belgium
+338,211,1923,42210,1,Pounds,Malta,Belgium
+338,211,1924,55009,1,Pounds,Malta,Belgium
+338,211,1925,66083,1,Pounds,Malta,Belgium
+338,211,1926,65915,1,Pounds,Malta,Belgium
+338,211,1928,81930,1,Pounds,Malta,Belgium
+338,211,1929,94338,1,Pounds,Malta,Belgium
+338,211,1930,77589,1,Pounds,Malta,Belgium
+338,211,1931,75019,1,Pounds,Malta,Belgium
+338,211,1932,79981,1,,Malta,Belgium
+338,211,1933,96844,1,,Malta,Belgium
+338,211,1934,95314,1,Pounds,Malta,Belgium
+338,211,1935,113002,1,,Malta,Belgium
+338,211,1936,102795,1,Pounds,Malta,Belgium
+338,211,1937,122577,1,Pounds,Malta,Belgium
+338,211,1938,107787,1,Pounds,Malta,Belgium
+338,211,1939,107747,1,,Malta,Belgium
+338,211,1940,45993,1,,Malta,Belgium
+338,212,1920,13,1,Pounds,Malta,Luxembourg
+338,212,1921,0,1,Pounds,Malta,Luxembourg
+338,212,1922,168,1,Pounds,Malta,Luxembourg
+338,212,1923,0,1,Pounds,Malta,Luxembourg
+338,212,1924,0,1,Pounds,Malta,Luxembourg
+338,212,1925,0,1,Pounds,Malta,Luxembourg
+338,212,1926,0,1,Pounds,Malta,Luxembourg
+338,212,1928,0,1,Pounds,Malta,Luxembourg
+338,212,1929,0,1,Pounds,Malta,Luxembourg
+338,212,1930,0,1,Pounds,Malta,Luxembourg
+338,212,1931,0,1,Pounds,Malta,Luxembourg
+338,212,1932,0,1,,Malta,Luxembourg
+338,212,1933,0,1,,Malta,Luxembourg
+338,212,1934,0,1,Pounds,Malta,Luxembourg
+338,212,1935,0,1,,Malta,Luxembourg
+338,212,1936,0,1,Pounds,Malta,Luxembourg
+338,212,1937,0,1,Pounds,Malta,Luxembourg
+338,212,1938,0,1,Pounds,Malta,Luxembourg
+338,212,1939,0,1,,Malta,Luxembourg
+338,212,1940,0,1,,Malta,Luxembourg
+338,220,1920,85278,1,Pounds,Malta,France
+338,220,1921,71257,1,Pounds,Malta,France
+338,220,1922,78985,1,Pounds,Malta,France
+338,220,1923,76556,1,Pounds,Malta,France
+338,220,1924,98411,1,Pounds,Malta,France
+338,220,1925,119934,1,Pounds,Malta,France
+338,220,1926,127001,1,Pounds,Malta,France
+338,220,1928,137918,1,Pounds,Malta,France
+338,220,1929,140488,1,Pounds,Malta,France
+338,220,1930,140765,1,Pounds,Malta,France
+338,220,1931,119021,1,Pounds,Malta,France
+338,220,1932,96688,1,,Malta,France
+338,220,1933,81917,1,,Malta,France
+338,220,1934,96401,1,Pounds,Malta,France
+338,220,1935,126407,1,,Malta,France
+338,220,1936,66482,1,Pounds,Malta,France
+338,220,1937,63520,1,Pounds,Malta,France
+338,220,1938,57395,1,Pounds,Malta,France
+338,220,1939,44757,1,,Malta,France
+338,220,1940,33110,1,,Malta,France
+338,225,1920,16350,1,Pounds,Malta,Switzerland
+338,225,1921,20678,1,Pounds,Malta,Switzerland
+338,225,1922,11594,1,Pounds,Malta,Switzerland
+338,225,1923,7291,1,Pounds,Malta,Switzerland
+338,225,1924,28594,1,Pounds,Malta,Switzerland
+338,225,1925,36018,1,Pounds,Malta,Switzerland
+338,225,1926,26607,1,Pounds,Malta,Switzerland
+338,225,1928,36570,1,Pounds,Malta,Switzerland
+338,225,1929,41395,1,Pounds,Malta,Switzerland
+338,225,1930,32621,1,Pounds,Malta,Switzerland
+338,225,1931,33627,1,Pounds,Malta,Switzerland
+338,225,1932,21275,1,,Malta,Switzerland
+338,225,1933,26241,1,,Malta,Switzerland
+338,225,1934,18265,1,Pounds,Malta,Switzerland
+338,225,1935,16294,1,,Malta,Switzerland
+338,225,1936,18882,1,Pounds,Malta,Switzerland
+338,225,1937,16697,1,Pounds,Malta,Switzerland
+338,225,1938,21606,1,Pounds,Malta,Switzerland
+338,225,1939,21761,1,,Malta,Switzerland
+338,225,1940,2632,1,,Malta,Switzerland
+338,230,1920,138468,1,Pounds,Malta,Spain
+338,230,1921,125612,1,Pounds,Malta,Spain
+338,230,1922,55599,1,Pounds,Malta,Spain
+338,230,1923,57851,1,Pounds,Malta,Spain
+338,230,1924,59857,1,Pounds,Malta,Spain
+338,230,1925,39015,1,Pounds,Malta,Spain
+338,230,1926,34527,1,Pounds,Malta,Spain
+338,230,1928,22511,1,Pounds,Malta,Spain
+338,230,1929,20636,1,Pounds,Malta,Spain
+338,230,1930,26356,1,Pounds,Malta,Spain
+338,230,1931,25336,1,Pounds,Malta,Spain
+338,230,1932,27411,1,,Malta,Spain
+338,230,1933,17089,1,,Malta,Spain
+338,230,1934,22336,1,Pounds,Malta,Spain
+338,230,1935,24209,1,,Malta,Spain
+338,230,1936,24197,1,Pounds,Malta,Spain
+338,230,1937,9268,1,Pounds,Malta,Spain
+338,230,1938,6629,1,Pounds,Malta,Spain
+338,230,1939,0,1,,Malta,Spain
+338,230,1940,0,1,,Malta,Spain
+338,231,1920,34796,1,Pounds,Malta,Gibraltar
+338,231,1921,17531,1,Pounds,Malta,Gibraltar
+338,231,1922,5313,1,Pounds,Malta,Gibraltar
+338,231,1923,2031,1,Pounds,Malta,Gibraltar
+338,231,1924,3049,1,Pounds,Malta,Gibraltar
+338,231,1925,2546,1,Pounds,Malta,Gibraltar
+338,231,1926,2348,1,Pounds,Malta,Gibraltar
+338,231,1928,3593,1,Pounds,Malta,Gibraltar
+338,231,1929,1855,1,Pounds,Malta,Gibraltar
+338,231,1930,1820,1,Pounds,Malta,Gibraltar
+338,231,1931,1766,1,Pounds,Malta,Gibraltar
+338,231,1932,1782,1,,Malta,Gibraltar
+338,231,1933,1330,1,,Malta,Gibraltar
+338,231,1934,836,1,Pounds,Malta,Gibraltar
+338,231,1935,518,1,,Malta,Gibraltar
+338,231,1936,319,1,Pounds,Malta,Gibraltar
+338,231,1937,1637,1,Pounds,Malta,Gibraltar
+338,231,1938,661,1,Pounds,Malta,Gibraltar
+338,231,1939,29,1,,Malta,Gibraltar
+338,231,1940,20,1,,Malta,Gibraltar
+338,235,1920,535,1,Pounds,Malta,Portugal
+338,235,1921,452,1,Pounds,Malta,Portugal
+338,235,1922,618,1,Pounds,Malta,Portugal
+338,235,1923,849,1,Pounds,Malta,Portugal
+338,235,1924,232,1,Pounds,Malta,Portugal
+338,235,1925,537,1,Pounds,Malta,Portugal
+338,235,1926,0,1,Pounds,Malta,Portugal
+338,235,1928,675,1,Pounds,Malta,Portugal
+338,235,1929,520,1,Pounds,Malta,Portugal
+338,235,1930,621,1,Pounds,Malta,Portugal
+338,235,1931,623,1,Pounds,Malta,Portugal
+338,235,1932,730,1,,Malta,Portugal
+338,235,1933,809,1,,Malta,Portugal
+338,235,1934,3428,1,Pounds,Malta,Portugal
+338,235,1935,2542,1,,Malta,Portugal
+338,235,1936,9565,1,Pounds,Malta,Portugal
+338,235,1937,6856,1,Pounds,Malta,Portugal
+338,235,1938,6046,1,Pounds,Malta,Portugal
+338,235,1939,4109,1,,Malta,Portugal
+338,235,1940,4164,1,,Malta,Portugal
+338,255,1920,15495,1,Pounds,Malta,Germany
+338,255,1921,37600,1,Pounds,Malta,Germany
+338,255,1922,99201,1,Pounds,Malta,Germany
+338,255,1923,132655,1,Pounds,Malta,Germany
+338,255,1924,152510,1,Pounds,Malta,Germany
+338,255,1925,236942,1,Pounds,Malta,Germany
+338,255,1926,323049,1,Pounds,Malta,Germany
+338,255,1928,270355,1,Pounds,Malta,Germany
+338,255,1929,284426,1,Pounds,Malta,Germany
+338,255,1930,248863,1,Pounds,Malta,Germany
+338,255,1931,223368,1,Pounds,Malta,Germany
+338,255,1932,177080,1,,Malta,Germany
+338,255,1933,190757,1,,Malta,Germany
+338,255,1934,161923,1,Pounds,Malta,Germany
+338,255,1935,170357,1,,Malta,Germany
+338,255,1936,219215,1,Pounds,Malta,Germany
+338,255,1937,192424,1,Pounds,Malta,Germany
+338,255,1938,203969,1,Pounds,Malta,Germany
+338,255,1939,130108,1,,Malta,Germany
+338,255,1940,1877,1,,Malta,Germany
+338,290,1920,0,1,Pounds,Malta,Poland
+338,290,1921,0,1,Pounds,Malta,Poland
+338,290,1922,0,1,Pounds,Malta,Poland
+338,290,1923,0,1,Pounds,Malta,Poland
+338,290,1924,0,1,Pounds,Malta,Poland
+338,290,1925,0,1,Pounds,Malta,Poland
+338,290,1926,0,1,Pounds,Malta,Poland
+338,290,1928,0,1,Pounds,Malta,Poland
+338,290,1929,0,1,Pounds,Malta,Poland
+338,290,1930,0,1,Pounds,Malta,Poland
+338,290,1931,0,1,Pounds,Malta,Poland
+338,290,1932,0,1,,Malta,Poland
+338,290,1933,0,1,,Malta,Poland
+338,290,1934,23001,1,Pounds,Malta,Poland
+338,290,1935,0,1,,Malta,Poland
+338,290,1936,77941,1,Pounds,Malta,Poland
+338,290,1937,126353,1,Pounds,Malta,Poland
+338,290,1938,95337,1,Pounds,Malta,Poland
+338,290,1939,65892,1,,Malta,Poland
+338,290,1940,0,1,,Malta,Poland
+338,305,1920,2805,1,Pounds,Malta,Austria
+338,305,1921,252,1,Pounds,Malta,Austria
+338,305,1922,1343,1,Pounds,Malta,Austria
+338,305,1923,1101,1,Pounds,Malta,Austria
+338,305,1924,2542,1,Pounds,Malta,Austria
+338,305,1925,5020,1,Pounds,Malta,Austria
+338,305,1926,11073,1,Pounds,Malta,Austria
+338,305,1928,11083,1,Pounds,Malta,Austria
+338,305,1929,15304,1,Pounds,Malta,Austria
+338,305,1930,21626,1,Pounds,Malta,Austria
+338,305,1931,27751,1,Pounds,Malta,Austria
+338,305,1932,0,1,,Malta,Austria
+338,305,1933,0,1,,Malta,Austria
+338,305,1934,24076,1,Pounds,Malta,Austria
+338,305,1935,0,1,,Malta,Austria
+338,305,1936,27350,1,Pounds,Malta,Austria
+338,305,1937,38824,1,Pounds,Malta,Austria
+338,305,1938,9218,1,Pounds,Malta,Austria
+338,305,1939,0,1,,Malta,Austria
+338,305,1940,0,1,,Malta,Austria
+338,310,1920,0,1,Pounds,Malta,Hungary
+338,310,1921,0,1,Pounds,Malta,Hungary
+338,310,1922,0,1,Pounds,Malta,Hungary
+338,310,1923,0,1,Pounds,Malta,Hungary
+338,310,1924,0,1,Pounds,Malta,Hungary
+338,310,1925,0,1,Pounds,Malta,Hungary
+338,310,1926,0,1,Pounds,Malta,Hungary
+338,310,1928,1789,1,Pounds,Malta,Hungary
+338,310,1929,2261,1,Pounds,Malta,Hungary
+338,310,1930,3309,1,Pounds,Malta,Hungary
+338,310,1931,2759,1,Pounds,Malta,Hungary
+338,310,1932,0,1,,Malta,Hungary
+338,310,1933,0,1,,Malta,Hungary
+338,310,1934,13877,1,Pounds,Malta,Hungary
+338,310,1935,0,1,,Malta,Hungary
+338,310,1936,12782,1,Pounds,Malta,Hungary
+338,310,1937,31599,1,Pounds,Malta,Hungary
+338,310,1938,27200,1,Pounds,Malta,Hungary
+338,310,1939,75546,1,,Malta,Hungary
+338,310,1940,70088,1,,Malta,Hungary
+338,315,1920,2643,1,Pounds,Malta,Czechoslovakia
+338,315,1921,0,1,Pounds,Malta,Czechoslovakia
+338,315,1922,3346,1,Pounds,Malta,Czechoslovakia
+338,315,1923,2360,1,Pounds,Malta,Czechoslovakia
+338,315,1924,9734,1,Pounds,Malta,Czechoslovakia
+338,315,1925,53628,1,Pounds,Malta,Czechoslovakia
+338,315,1926,96166,1,Pounds,Malta,Czechoslovakia
+338,315,1928,31916,1,Pounds,Malta,Czechoslovakia
+338,315,1929,25714,1,Pounds,Malta,Czechoslovakia
+338,315,1930,35361,1,Pounds,Malta,Czechoslovakia
+338,315,1931,31564,1,Pounds,Malta,Czechoslovakia
+338,315,1932,31033,1,,Malta,Czechoslovakia
+338,315,1933,34436,1,,Malta,Czechoslovakia
+338,315,1934,34372,1,Pounds,Malta,Czechoslovakia
+338,315,1935,51741,1,,Malta,Czechoslovakia
+338,315,1936,55736,1,Pounds,Malta,Czechoslovakia
+338,315,1937,55982,1,Pounds,Malta,Czechoslovakia
+338,315,1938,49803,1,Pounds,Malta,Czechoslovakia
+338,315,1939,20580,1,,Malta,Czechoslovakia
+338,315,1940,354,1,,Malta,Czechoslovakia
+338,325,1920,418285,1,Pounds,Malta,Italy
+338,325,1921,325378,1,Pounds,Malta,Italy
+338,325,1922,494686,1,Pounds,Malta,Italy
+338,325,1923,512987,1,Pounds,Malta,Italy
+338,325,1924,676503,1,Pounds,Malta,Italy
+338,325,1925,649658,1,Pounds,Malta,Italy
+338,325,1926,643769,1,Pounds,Malta,Italy
+338,325,1928,615509,1,Pounds,Malta,Italy
+338,325,1929,680170,1,Pounds,Malta,Italy
+338,325,1930,543090,1,Pounds,Malta,Italy
+338,325,1931,536152,1,Pounds,Malta,Italy
+338,325,1932,480215,1,,Malta,Italy
+338,325,1933,494236,1,,Malta,Italy
+338,325,1934,330371,1,Pounds,Malta,Italy
+338,325,1935,245683,1,,Malta,Italy
+338,325,1936,112370,1,Pounds,Malta,Italy
+338,325,1937,310794,1,Pounds,Malta,Italy
+338,325,1938,271187,1,Pounds,Malta,Italy
+338,325,1939,282707,1,,Malta,Italy
+338,325,1940,137616,1,,Malta,Italy
+338,339,1920,1280,1,Pounds,Malta,Albania
+338,339,1921,550,1,Pounds,Malta,Albania
+338,339,1922,2689,1,Pounds,Malta,Albania
+338,339,1923,4531,1,Pounds,Malta,Albania
+338,339,1924,2156,1,Pounds,Malta,Albania
+338,339,1925,380,1,Pounds,Malta,Albania
+338,339,1926,2470,1,Pounds,Malta,Albania
+338,339,1928,4496,1,Pounds,Malta,Albania
+338,339,1929,5605,1,Pounds,Malta,Albania
+338,339,1930,5370,1,Pounds,Malta,Albania
+338,339,1931,2035,1,Pounds,Malta,Albania
+338,339,1932,0,1,,Malta,Albania
+338,339,1933,0,1,,Malta,Albania
+338,339,1934,7635,1,Pounds,Malta,Albania
+338,339,1935,0,1,,Malta,Albania
+338,339,1936,6430,1,Pounds,Malta,Albania
+338,339,1937,8311,1,Pounds,Malta,Albania
+338,339,1938,11981,1,Pounds,Malta,Albania
+338,339,1939,0,1,,Malta,Albania
+338,339,1940,0,1,,Malta,Albania
+338,345,1920,0,1,Pounds,Malta,Yugoslavia
+338,345,1921,1722,1,Pounds,Malta,Yugoslavia
+338,345,1922,5211,1,Pounds,Malta,Yugoslavia
+338,345,1923,7042,1,Pounds,Malta,Yugoslavia
+338,345,1924,15200,1,Pounds,Malta,Yugoslavia
+338,345,1925,18901,1,Pounds,Malta,Yugoslavia
+338,345,1926,26894,1,Pounds,Malta,Yugoslavia
+338,345,1928,60395,1,Pounds,Malta,Yugoslavia
+338,345,1929,84187,1,Pounds,Malta,Yugoslavia
+338,345,1930,44997,1,Pounds,Malta,Yugoslavia
+338,345,1931,41497,1,Pounds,Malta,Yugoslavia
+338,345,1932,41497,1,,Malta,Yugoslavia
+338,345,1933,44997,1,,Malta,Yugoslavia
+338,345,1934,64695,1,Pounds,Malta,Yugoslavia
+338,345,1935,70088,1,,Malta,Yugoslavia
+338,345,1936,119905,1,Pounds,Malta,Yugoslavia
+338,345,1937,138179,1,Pounds,Malta,Yugoslavia
+338,345,1938,115690,1,Pounds,Malta,Yugoslavia
+338,345,1939,94260,1,,Malta,Yugoslavia
+338,345,1940,33094,1,,Malta,Yugoslavia
+338,350,1920,58829,1,Pounds,Malta,Greece
+338,350,1921,29806,1,Pounds,Malta,Greece
+338,350,1922,65639,1,Pounds,Malta,Greece
+338,350,1923,42522,1,Pounds,Malta,Greece
+338,350,1924,53143,1,Pounds,Malta,Greece
+338,350,1925,61333,1,Pounds,Malta,Greece
+338,350,1926,75787,1,Pounds,Malta,Greece
+338,350,1928,87992,1,Pounds,Malta,Greece
+338,350,1929,73647,1,Pounds,Malta,Greece
+338,350,1930,63845,1,Pounds,Malta,Greece
+338,350,1931,69929,1,Pounds,Malta,Greece
+338,350,1932,62406,1,,Malta,Greece
+338,350,1933,58981,1,,Malta,Greece
+338,350,1934,52925,1,Pounds,Malta,Greece
+338,350,1935,46889,1,,Malta,Greece
+338,350,1936,57952,1,Pounds,Malta,Greece
+338,350,1937,37073,1,Pounds,Malta,Greece
+338,350,1938,48972,1,Pounds,Malta,Greece
+338,350,1939,34917,1,,Malta,Greece
+338,350,1940,18039,1,,Malta,Greece
+338,351,1920,10232,1,Pounds,Malta,Crete
+338,351,1921,1480,1,Pounds,Malta,Crete
+338,351,1922,25584,1,Pounds,Malta,Crete
+338,351,1923,8245,1,Pounds,Malta,Crete
+338,351,1924,895,1,Pounds,Malta,Crete
+338,351,1925,35,1,Pounds,Malta,Crete
+338,351,1926,109,1,Pounds,Malta,Crete
+338,351,1928,4574,1,Pounds,Malta,Crete
+338,351,1929,5494,1,Pounds,Malta,Crete
+338,351,1930,4507,1,Pounds,Malta,Crete
+338,351,1931,0,1,Pounds,Malta,Crete
+338,351,1932,0,1,,Malta,Crete
+338,351,1933,0,1,,Malta,Crete
+338,351,1934,0,1,Pounds,Malta,Crete
+338,351,1935,0,1,,Malta,Crete
+338,351,1936,0,1,Pounds,Malta,Crete
+338,351,1937,0,1,Pounds,Malta,Crete
+338,351,1938,0,1,Pounds,Malta,Crete
+338,351,1939,0,1,,Malta,Crete
+338,351,1940,0,1,,Malta,Crete
+338,352,1920,7667,1,Pounds,Malta,Cyprus
+338,352,1921,760,1,Pounds,Malta,Cyprus
+338,352,1922,1515,1,Pounds,Malta,Cyprus
+338,352,1923,0,1,Pounds,Malta,Cyprus
+338,352,1924,2761,1,Pounds,Malta,Cyprus
+338,352,1925,33,1,Pounds,Malta,Cyprus
+338,352,1926,0,1,Pounds,Malta,Cyprus
+338,352,1928,311,1,Pounds,Malta,Cyprus
+338,352,1929,0,1,Pounds,Malta,Cyprus
+338,352,1930,3203,1,Pounds,Malta,Cyprus
+338,352,1931,10924,1,Pounds,Malta,Cyprus
+338,352,1932,1037,1,,Malta,Cyprus
+338,352,1933,2629,1,,Malta,Cyprus
+338,352,1934,1242,1,Pounds,Malta,Cyprus
+338,352,1935,5290,1,,Malta,Cyprus
+338,352,1936,12193,1,Pounds,Malta,Cyprus
+338,352,1937,13601,1,Pounds,Malta,Cyprus
+338,352,1938,11560,1,Pounds,Malta,Cyprus
+338,352,1939,16659,1,,Malta,Cyprus
+338,352,1940,25656,1,,Malta,Cyprus
+338,355,1920,0,1,Pounds,Malta,Bulgaria
+338,355,1921,0,1,Pounds,Malta,Bulgaria
+338,355,1922,0,1,Pounds,Malta,Bulgaria
+338,355,1923,0,1,Pounds,Malta,Bulgaria
+338,355,1924,0,1,Pounds,Malta,Bulgaria
+338,355,1925,0,1,Pounds,Malta,Bulgaria
+338,355,1926,0,1,Pounds,Malta,Bulgaria
+338,355,1928,1678,1,Pounds,Malta,Bulgaria
+338,355,1929,1439,1,Pounds,Malta,Bulgaria
+338,355,1930,2605,1,Pounds,Malta,Bulgaria
+338,355,1931,0,1,Pounds,Malta,Bulgaria
+338,355,1932,0,1,,Malta,Bulgaria
+338,355,1933,0,1,,Malta,Bulgaria
+338,355,1934,31467,1,Pounds,Malta,Bulgaria
+338,355,1935,0,1,,Malta,Bulgaria
+338,355,1936,26801,1,Pounds,Malta,Bulgaria
+338,355,1937,40708,1,Pounds,Malta,Bulgaria
+338,355,1938,18454,1,Pounds,Malta,Bulgaria
+338,355,1939,27983,1,,Malta,Bulgaria
+338,355,1940,19815,1,,Malta,Bulgaria
+338,360,1920,0,1,Pounds,Malta,Romania
+338,360,1921,12368,1,Pounds,Malta,Romania
+338,360,1922,0,1,Pounds,Malta,Romania
+338,360,1923,825,1,Pounds,Malta,Romania
+338,360,1924,86265,1,Pounds,Malta,Romania
+338,360,1925,9325,1,Pounds,Malta,Romania
+338,360,1926,355,1,Pounds,Malta,Romania
+338,360,1928,110891,1,Pounds,Malta,Romania
+338,360,1929,106503,1,Pounds,Malta,Romania
+338,360,1930,193890,1,Pounds,Malta,Romania
+338,360,1931,399599,1,Pounds,Malta,Romania
+338,360,1932,0,1,,Malta,Romania
+338,360,1933,0,1,,Malta,Romania
+338,360,1934,213424,1,Pounds,Malta,Romania
+338,360,1935,0,1,,Malta,Romania
+338,360,1936,265444,1,Pounds,Malta,Romania
+338,360,1937,290797,1,Pounds,Malta,Romania
+338,360,1938,275666,1,Pounds,Malta,Romania
+338,360,1939,336581,1,,Malta,Romania
+338,360,1940,272119,1,,Malta,Romania
+338,365,1920,103600,1,Pounds,Malta,Russia
+338,365,1921,53107,1,Pounds,Malta,Russia
+338,365,1922,97162,1,Pounds,Malta,Russia
+338,365,1923,11888,1,Pounds,Malta,Russia
+338,365,1924,21893,1,Pounds,Malta,Russia
+338,365,1925,87581,1,Pounds,Malta,Russia
+338,365,1926,102693,1,Pounds,Malta,Russia
+338,365,1928,0,1,Pounds,Malta,Russia
+338,365,1929,0,1,Pounds,Malta,Russia
+338,365,1930,0,1,Pounds,Malta,Russia
+338,365,1931,32373,1,Pounds,Malta,Russia
+338,365,1932,13770,1,,Malta,Russia
+338,365,1933,23436,1,,Malta,Russia
+338,365,1934,42034,1,Pounds,Malta,Russia
+338,365,1935,45110,1,,Malta,Russia
+338,365,1936,5949,1,Pounds,Malta,Russia
+338,365,1937,2537,1,Pounds,Malta,Russia
+338,365,1938,13664,1,Pounds,Malta,Russia
+338,365,1939,0,1,,Malta,Russia
+338,365,1940,0,1,,Malta,Russia
+338,366,1920,0,1,Pounds,Malta,Estonia
+338,366,1921,0,1,Pounds,Malta,Estonia
+338,366,1922,0,1,Pounds,Malta,Estonia
+338,366,1923,0,1,Pounds,Malta,Estonia
+338,366,1924,0,1,Pounds,Malta,Estonia
+338,366,1925,0,1,Pounds,Malta,Estonia
+338,366,1926,0,1,Pounds,Malta,Estonia
+338,366,1928,0,1,Pounds,Malta,Estonia
+338,366,1929,0,1,Pounds,Malta,Estonia
+338,366,1930,0,1,Pounds,Malta,Estonia
+338,366,1931,0,1,Pounds,Malta,Estonia
+338,366,1932,0,1,,Malta,Estonia
+338,366,1933,0,1,,Malta,Estonia
+338,366,1934,1404,1,Pounds,Malta,Estonia
+338,366,1935,0,1,,Malta,Estonia
+338,366,1936,2921,1,Pounds,Malta,Estonia
+338,366,1937,0,1,Pounds,Malta,Estonia
+338,366,1938,0,1,Pounds,Malta,Estonia
+338,366,1939,0,1,,Malta,Estonia
+338,366,1940,0,1,,Malta,Estonia
+338,367,1920,0,1,Pounds,Malta,Latvia
+338,367,1921,0,1,Pounds,Malta,Latvia
+338,367,1922,0,1,Pounds,Malta,Latvia
+338,367,1923,0,1,Pounds,Malta,Latvia
+338,367,1924,0,1,Pounds,Malta,Latvia
+338,367,1925,0,1,Pounds,Malta,Latvia
+338,367,1926,0,1,Pounds,Malta,Latvia
+338,367,1928,0,1,Pounds,Malta,Latvia
+338,367,1929,0,1,Pounds,Malta,Latvia
+338,367,1930,0,1,Pounds,Malta,Latvia
+338,367,1931,0,1,Pounds,Malta,Latvia
+338,367,1932,0,1,,Malta,Latvia
+338,367,1933,0,1,,Malta,Latvia
+338,367,1934,87,1,Pounds,Malta,Latvia
+338,367,1935,0,1,,Malta,Latvia
+338,367,1936,164,1,Pounds,Malta,Latvia
+338,367,1937,0,1,Pounds,Malta,Latvia
+338,367,1938,0,1,Pounds,Malta,Latvia
+338,367,1939,0,1,,Malta,Latvia
+338,367,1940,0,1,,Malta,Latvia
+338,368,1920,0,1,Pounds,Malta,Lithuania
+338,368,1921,0,1,Pounds,Malta,Lithuania
+338,368,1922,0,1,Pounds,Malta,Lithuania
+338,368,1923,0,1,Pounds,Malta,Lithuania
+338,368,1924,0,1,Pounds,Malta,Lithuania
+338,368,1925,0,1,Pounds,Malta,Lithuania
+338,368,1926,0,1,Pounds,Malta,Lithuania
+338,368,1928,0,1,Pounds,Malta,Lithuania
+338,368,1929,0,1,Pounds,Malta,Lithuania
+338,368,1930,0,1,Pounds,Malta,Lithuania
+338,368,1931,0,1,Pounds,Malta,Lithuania
+338,368,1932,0,1,,Malta,Lithuania
+338,368,1933,0,1,,Malta,Lithuania
+338,368,1934,4290,1,Pounds,Malta,Lithuania
+338,368,1935,0,1,,Malta,Lithuania
+338,368,1936,13009,1,Pounds,Malta,Lithuania
+338,368,1937,9719,1,Pounds,Malta,Lithuania
+338,368,1938,11386,1,Pounds,Malta,Lithuania
+338,368,1939,0,1,,Malta,Lithuania
+338,368,1940,0,1,,Malta,Lithuania
+338,375,1920,0,1,Pounds,Malta,Finland
+338,375,1921,0,1,Pounds,Malta,Finland
+338,375,1922,0,1,Pounds,Malta,Finland
+338,375,1923,0,1,Pounds,Malta,Finland
+338,375,1924,0,1,Pounds,Malta,Finland
+338,375,1925,0,1,Pounds,Malta,Finland
+338,375,1926,0,1,Pounds,Malta,Finland
+338,375,1928,0,1,Pounds,Malta,Finland
+338,375,1929,0,1,Pounds,Malta,Finland
+338,375,1930,0,1,Pounds,Malta,Finland
+338,375,1931,0,1,Pounds,Malta,Finland
+338,375,1932,0,1,,Malta,Finland
+338,375,1933,0,1,,Malta,Finland
+338,375,1934,3975,1,Pounds,Malta,Finland
+338,375,1935,0,1,,Malta,Finland
+338,375,1936,6190,1,Pounds,Malta,Finland
+338,375,1937,7446,1,Pounds,Malta,Finland
+338,375,1938,5501,1,Pounds,Malta,Finland
+338,375,1939,0,1,,Malta,Finland
+338,375,1940,0,1,,Malta,Finland
+338,380,1920,1354,1,Pounds,Malta,Sweden
+338,380,1921,256,1,Pounds,Malta,Sweden
+338,380,1922,191,1,Pounds,Malta,Sweden
+338,380,1923,963,1,Pounds,Malta,Sweden
+338,380,1924,1527,1,Pounds,Malta,Sweden
+338,380,1925,3708,1,Pounds,Malta,Sweden
+338,380,1926,4605,1,Pounds,Malta,Sweden
+338,380,1928,7186,1,Pounds,Malta,Sweden
+338,380,1929,11935,1,Pounds,Malta,Sweden
+338,380,1930,10554,1,Pounds,Malta,Sweden
+338,380,1931,11109,1,Pounds,Malta,Sweden
+338,380,1932,13778,1,,Malta,Sweden
+338,380,1933,14809,1,,Malta,Sweden
+338,380,1934,15678,1,Pounds,Malta,Sweden
+338,380,1935,16115,1,,Malta,Sweden
+338,380,1936,13356,1,Pounds,Malta,Sweden
+338,380,1937,15296,1,Pounds,Malta,Sweden
+338,380,1938,23815,1,Pounds,Malta,Sweden
+338,380,1939,27913,1,,Malta,Sweden
+338,380,1940,6400,1,,Malta,Sweden
+338,385,1920,920,1,Pounds,Malta,Norway
+338,385,1921,664,1,Pounds,Malta,Norway
+338,385,1922,493,1,Pounds,Malta,Norway
+338,385,1923,9572,1,Pounds,Malta,Norway
+338,385,1924,9631,1,Pounds,Malta,Norway
+338,385,1925,5926,1,Pounds,Malta,Norway
+338,385,1926,5890,1,Pounds,Malta,Norway
+338,385,1928,3729,1,Pounds,Malta,Norway
+338,385,1929,3993,1,Pounds,Malta,Norway
+338,385,1930,5700,1,Pounds,Malta,Norway
+338,385,1931,4669,1,Pounds,Malta,Norway
+338,385,1932,10685,1,,Malta,Norway
+338,385,1933,8117,1,,Malta,Norway
+338,385,1934,4464,1,Pounds,Malta,Norway
+338,385,1935,11838,1,,Malta,Norway
+338,385,1936,13344,1,Pounds,Malta,Norway
+338,385,1937,24531,1,Pounds,Malta,Norway
+338,385,1938,30520,1,Pounds,Malta,Norway
+338,385,1939,41108,1,,Malta,Norway
+338,385,1940,12020,1,,Malta,Norway
+338,390,1920,2005,1,Pounds,Malta,Denmark
+338,390,1921,2079,1,Pounds,Malta,Denmark
+338,390,1922,699,1,Pounds,Malta,Denmark
+338,390,1923,974,1,Pounds,Malta,Denmark
+338,390,1924,2460,1,Pounds,Malta,Denmark
+338,390,1925,2594,1,Pounds,Malta,Denmark
+338,390,1926,6335,1,Pounds,Malta,Denmark
+338,390,1928,7908,1,Pounds,Malta,Denmark
+338,390,1929,8236,1,Pounds,Malta,Denmark
+338,390,1930,7944,1,Pounds,Malta,Denmark
+338,390,1931,7767,1,Pounds,Malta,Denmark
+338,390,1932,12227,1,,Malta,Denmark
+338,390,1933,17573,1,,Malta,Denmark
+338,390,1934,34455,1,Pounds,Malta,Denmark
+338,390,1935,43194,1,,Malta,Denmark
+338,390,1936,48785,1,Pounds,Malta,Denmark
+338,390,1937,60725,1,Pounds,Malta,Denmark
+338,390,1938,55081,1,Pounds,Malta,Denmark
+338,390,1939,38741,1,,Malta,Denmark
+338,390,1940,7490,1,,Malta,Denmark
+338,410,1920,0,1,Pounds,Malta,Canary Islands
+338,410,1921,0,1,Pounds,Malta,Canary Islands
+338,410,1922,0,1,Pounds,Malta,Canary Islands
+338,410,1923,0,1,Pounds,Malta,Canary Islands
+338,410,1924,0,1,Pounds,Malta,Canary Islands
+338,410,1925,0,1,Pounds,Malta,Canary Islands
+338,410,1926,0,1,Pounds,Malta,Canary Islands
+338,410,1928,0,1,Pounds,Malta,Canary Islands
+338,410,1929,0,1,Pounds,Malta,Canary Islands
+338,410,1930,0,1,Pounds,Malta,Canary Islands
+338,410,1931,0,1,Pounds,Malta,Canary Islands
+338,410,1932,0,1,,Malta,Canary Islands
+338,410,1933,0,1,,Malta,Canary Islands
+338,410,1934,0,1,Pounds,Malta,Canary Islands
+338,410,1935,0,1,,Malta,Canary Islands
+338,410,1936,0,1,Pounds,Malta,Canary Islands
+338,410,1937,11794,1,Pounds,Malta,Canary Islands
+338,410,1938,6386,1,Pounds,Malta,Canary Islands
+338,410,1939,0,1,,Malta,Canary Islands
+338,410,1940,0,1,,Malta,Canary Islands
+338,465,1920,0,1,Pounds,Malta,British West Africa
+338,465,1921,0,1,Pounds,Malta,British West Africa
+338,465,1922,0,1,Pounds,Malta,British West Africa
+338,465,1923,0,1,Pounds,Malta,British West Africa
+338,465,1924,0,1,Pounds,Malta,British West Africa
+338,465,1925,0,1,Pounds,Malta,British West Africa
+338,465,1926,0,1,Pounds,Malta,British West Africa
+338,465,1928,0,1,Pounds,Malta,British West Africa
+338,465,1929,0,1,Pounds,Malta,British West Africa
+338,465,1930,0,1,Pounds,Malta,British West Africa
+338,465,1931,0,1,Pounds,Malta,British West Africa
+338,465,1932,0,1,,Malta,British West Africa
+338,465,1933,0,1,,Malta,British West Africa
+338,465,1934,0,1,Pounds,Malta,British West Africa
+338,465,1935,0,1,,Malta,British West Africa
+338,465,1936,0,1,Pounds,Malta,British West Africa
+338,465,1937,7210,1,Pounds,Malta,British West Africa
+338,465,1938,4850,1,Pounds,Malta,British West Africa
+338,465,1939,0,1,,Malta,British West Africa
+338,465,1940,0,1,,Malta,British West Africa
+338,554,1920,0,1,Pounds,Malta,Rhodesia
+338,554,1921,0,1,Pounds,Malta,Rhodesia
+338,554,1922,0,1,Pounds,Malta,Rhodesia
+338,554,1923,0,1,Pounds,Malta,Rhodesia
+338,554,1924,0,1,Pounds,Malta,Rhodesia
+338,554,1925,0,1,Pounds,Malta,Rhodesia
+338,554,1926,0,1,Pounds,Malta,Rhodesia
+338,554,1928,0,1,Pounds,Malta,Rhodesia
+338,554,1929,0,1,Pounds,Malta,Rhodesia
+338,554,1930,0,1,Pounds,Malta,Rhodesia
+338,554,1931,0,1,Pounds,Malta,Rhodesia
+338,554,1932,0,1,,Malta,Rhodesia
+338,554,1933,0,1,,Malta,Rhodesia
+338,554,1934,0,1,Pounds,Malta,Rhodesia
+338,554,1935,0,1,,Malta,Rhodesia
+338,554,1936,0,1,Pounds,Malta,Rhodesia
+338,554,1937,1926,1,Pounds,Malta,Rhodesia
+338,554,1938,612,1,Pounds,Malta,Rhodesia
+338,554,1939,0,1,,Malta,Rhodesia
+338,554,1940,0,1,,Malta,Rhodesia
+338,560,1920,0,1,Pounds,Malta,South Africa
+338,560,1921,0,1,Pounds,Malta,South Africa
+338,560,1922,0,1,Pounds,Malta,South Africa
+338,560,1923,0,1,Pounds,Malta,South Africa
+338,560,1924,0,1,Pounds,Malta,South Africa
+338,560,1925,0,1,Pounds,Malta,South Africa
+338,560,1926,0,1,Pounds,Malta,South Africa
+338,560,1928,0,1,Pounds,Malta,South Africa
+338,560,1929,0,1,Pounds,Malta,South Africa
+338,560,1930,0,1,Pounds,Malta,South Africa
+338,560,1931,0,1,Pounds,Malta,South Africa
+338,560,1932,0,1,,Malta,South Africa
+338,560,1933,0,1,,Malta,South Africa
+338,560,1934,0,1,Pounds,Malta,South Africa
+338,560,1935,0,1,,Malta,South Africa
+338,560,1936,0,1,Pounds,Malta,South Africa
+338,560,1937,2226,1,Pounds,Malta,South Africa
+338,560,1938,2091,1,Pounds,Malta,South Africa
+338,560,1939,0,1,,Malta,South Africa
+338,560,1940,0,1,,Malta,South Africa
+338,580,1920,0,1,Pounds,Malta,Madagascar
+338,580,1921,0,1,Pounds,Malta,Madagascar
+338,580,1922,0,1,Pounds,Malta,Madagascar
+338,580,1923,0,1,Pounds,Malta,Madagascar
+338,580,1924,0,1,Pounds,Malta,Madagascar
+338,580,1925,0,1,Pounds,Malta,Madagascar
+338,580,1926,0,1,Pounds,Malta,Madagascar
+338,580,1928,0,1,Pounds,Malta,Madagascar
+338,580,1929,0,1,Pounds,Malta,Madagascar
+338,580,1930,0,1,Pounds,Malta,Madagascar
+338,580,1931,0,1,Pounds,Malta,Madagascar
+338,580,1932,0,1,,Malta,Madagascar
+338,580,1933,0,1,,Malta,Madagascar
+338,580,1934,0,1,Pounds,Malta,Madagascar
+338,580,1935,0,1,,Malta,Madagascar
+338,580,1936,0,1,Pounds,Malta,Madagascar
+338,580,1937,1081,1,Pounds,Malta,Madagascar
+338,580,1938,1199,1,Pounds,Malta,Madagascar
+338,580,1939,0,1,,Malta,Madagascar
+338,580,1940,0,1,,Malta,Madagascar
+338,615,1920,2652,1,Pounds,Malta,Algeria
+338,615,1921,41017,1,Pounds,Malta,Algeria
+338,615,1922,12028,1,Pounds,Malta,Algeria
+338,615,1923,13975,1,Pounds,Malta,Algeria
+338,615,1924,18076,1,Pounds,Malta,Algeria
+338,615,1925,15097,1,Pounds,Malta,Algeria
+338,615,1926,22934,1,Pounds,Malta,Algeria
+338,615,1928,17313,1,Pounds,Malta,Algeria
+338,615,1929,24309,1,Pounds,Malta,Algeria
+338,615,1930,29943,1,Pounds,Malta,Algeria
+338,615,1931,6046,1,Pounds,Malta,Algeria
+338,615,1932,4112,1,,Malta,Algeria
+338,615,1933,6381,1,,Malta,Algeria
+338,615,1934,14751,1,Pounds,Malta,Algeria
+338,615,1935,37322,1,,Malta,Algeria
+338,615,1936,13692,1,Pounds,Malta,Algeria
+338,615,1937,16951,1,Pounds,Malta,Algeria
+338,615,1938,2185,1,Pounds,Malta,Algeria
+338,615,1939,5012,1,,Malta,Algeria
+338,615,1940,841,1,,Malta,Algeria
+338,616,1920,234735,1,Pounds,Malta,Tunisia
+338,616,1921,336698,1,Pounds,Malta,Tunisia
+338,616,1922,234590,1,Pounds,Malta,Tunisia
+338,616,1923,237716,1,Pounds,Malta,Tunisia
+338,616,1924,262255,1,Pounds,Malta,Tunisia
+338,616,1925,306103,1,Pounds,Malta,Tunisia
+338,616,1926,293960,1,Pounds,Malta,Tunisia
+338,616,1928,301803,1,Pounds,Malta,Tunisia
+338,616,1929,244487,1,Pounds,Malta,Tunisia
+338,616,1930,246037,1,Pounds,Malta,Tunisia
+338,616,1931,116793,1,Pounds,Malta,Tunisia
+338,616,1932,105988,1,,Malta,Tunisia
+338,616,1933,56973,1,,Malta,Tunisia
+338,616,1934,53898,1,Pounds,Malta,Tunisia
+338,616,1935,90015,1,,Malta,Tunisia
+338,616,1936,24965,1,Pounds,Malta,Tunisia
+338,616,1937,35582,1,Pounds,Malta,Tunisia
+338,616,1938,44716,1,Pounds,Malta,Tunisia
+338,616,1939,149845,1,,Malta,Tunisia
+338,616,1940,30079,1,,Malta,Tunisia
+338,620,1920,29577,1,Pounds,Malta,Libya
+338,620,1921,10223,1,Pounds,Malta,Libya
+338,620,1922,4877,1,Pounds,Malta,Libya
+338,620,1923,5892,1,Pounds,Malta,Libya
+338,620,1924,2018,1,Pounds,Malta,Libya
+338,620,1925,2781,1,Pounds,Malta,Libya
+338,620,1926,3843,1,Pounds,Malta,Libya
+338,620,1928,1877,1,Pounds,Malta,Libya
+338,620,1929,3358,1,Pounds,Malta,Libya
+338,620,1930,7311,1,Pounds,Malta,Libya
+338,620,1931,8848,1,Pounds,Malta,Libya
+338,620,1932,5907,1,,Malta,Libya
+338,620,1933,6744,1,,Malta,Libya
+338,620,1934,3324,1,Pounds,Malta,Libya
+338,620,1935,1518,1,,Malta,Libya
+338,620,1936,768,1,Pounds,Malta,Libya
+338,620,1937,0,1,Pounds,Malta,Libya
+338,620,1938,1432,1,Pounds,Malta,Libya
+338,620,1939,1322,1,,Malta,Libya
+338,620,1940,41,1,,Malta,Libya
+338,625,1920,0,1,Pounds,Malta,Sudan
+338,625,1921,0,1,Pounds,Malta,Sudan
+338,625,1922,0,1,Pounds,Malta,Sudan
+338,625,1923,16556,1,Pounds,Malta,Sudan
+338,625,1924,7851,1,Pounds,Malta,Sudan
+338,625,1925,25674,1,Pounds,Malta,Sudan
+338,625,1926,0,1,Pounds,Malta,Sudan
+338,625,1928,0,1,Pounds,Malta,Sudan
+338,625,1929,0,1,Pounds,Malta,Sudan
+338,625,1930,0,1,Pounds,Malta,Sudan
+338,625,1931,0,1,Pounds,Malta,Sudan
+338,625,1932,0,1,,Malta,Sudan
+338,625,1933,0,1,,Malta,Sudan
+338,625,1934,0,1,Pounds,Malta,Sudan
+338,625,1935,0,1,,Malta,Sudan
+338,625,1936,20489,1,Pounds,Malta,Sudan
+338,625,1937,0,1,Pounds,Malta,Sudan
+338,625,1938,0,1,Pounds,Malta,Sudan
+338,625,1939,0,1,,Malta,Sudan
+338,625,1940,0,1,,Malta,Sudan
+338,630,1920,16000,1,Pounds,Malta,Iran
+338,630,1921,19400,1,Pounds,Malta,Iran
+338,630,1922,0,1,Pounds,Malta,Iran
+338,630,1923,0,1,Pounds,Malta,Iran
+338,630,1924,0,1,Pounds,Malta,Iran
+338,630,1925,0,1,Pounds,Malta,Iran
+338,630,1926,406758,1,Pounds,Malta,Iran
+338,630,1928,0,1,Pounds,Malta,Iran
+338,630,1929,0,1,Pounds,Malta,Iran
+338,630,1930,0,1,Pounds,Malta,Iran
+338,630,1931,0,1,Pounds,Malta,Iran
+338,630,1932,0,1,,Malta,Iran
+338,630,1933,0,1,,Malta,Iran
+338,630,1934,6409,1,Pounds,Malta,Iran
+338,630,1935,0,1,,Malta,Iran
+338,630,1936,59712,1,Pounds,Malta,Iran
+338,630,1937,39995,1,Pounds,Malta,Iran
+338,630,1938,63806,1,Pounds,Malta,Iran
+338,630,1939,127187,1,,Malta,Iran
+338,630,1940,63431,1,,Malta,Iran
+338,640,1920,658,1,Pounds,Malta,Turkey
+338,640,1921,1580,1,Pounds,Malta,Turkey
+338,640,1922,2360,1,Pounds,Malta,Turkey
+338,640,1923,5333,1,Pounds,Malta,Turkey
+338,640,1924,6985,1,Pounds,Malta,Turkey
+338,640,1925,13501,1,Pounds,Malta,Turkey
+338,640,1926,21559,1,Pounds,Malta,Turkey
+338,640,1928,33967,1,Pounds,Malta,Turkey
+338,640,1929,5667,1,Pounds,Malta,Turkey
+338,640,1930,29794,1,Pounds,Malta,Turkey
+338,640,1931,79195,1,Pounds,Malta,Turkey
+338,640,1932,89365,1,,Malta,Turkey
+338,640,1933,165624,1,,Malta,Turkey
+338,640,1934,232477,1,Pounds,Malta,Turkey
+338,640,1935,139218,1,,Malta,Turkey
+338,640,1936,71742,1,Pounds,Malta,Turkey
+338,640,1937,180708,1,Pounds,Malta,Turkey
+338,640,1938,78670,1,Pounds,Malta,Turkey
+338,640,1939,38939,1,,Malta,Turkey
+338,640,1940,33293,1,,Malta,Turkey
+338,645,1920,0,1,Pounds,Malta,Iraq
+338,645,1921,0,1,Pounds,Malta,Iraq
+338,645,1922,0,1,Pounds,Malta,Iraq
+338,645,1923,0,1,Pounds,Malta,Iraq
+338,645,1924,0,1,Pounds,Malta,Iraq
+338,645,1925,0,1,Pounds,Malta,Iraq
+338,645,1926,0,1,Pounds,Malta,Iraq
+338,645,1928,0,1,Pounds,Malta,Iraq
+338,645,1929,0,1,Pounds,Malta,Iraq
+338,645,1930,0,1,Pounds,Malta,Iraq
+338,645,1931,0,1,Pounds,Malta,Iraq
+338,645,1932,0,1,,Malta,Iraq
+338,645,1933,0,1,,Malta,Iraq
+338,645,1934,0,1,Pounds,Malta,Iraq
+338,645,1935,0,1,,Malta,Iraq
+338,645,1936,0,1,Pounds,Malta,Iraq
+338,645,1937,3295,1,Pounds,Malta,Iraq
+338,645,1938,6731,1,Pounds,Malta,Iraq
+338,645,1939,0,1,,Malta,Iraq
+338,645,1940,0,1,,Malta,Iraq
+338,651,1920,206696,1,Pounds,Malta,Egypt
+338,651,1921,160473,1,Pounds,Malta,Egypt
+338,651,1922,161388,1,Pounds,Malta,Egypt
+338,651,1923,462420,1,Pounds,Malta,Egypt
+338,651,1924,436528,1,Pounds,Malta,Egypt
+338,651,1925,358363,1,Pounds,Malta,Egypt
+338,651,1926,181475,1,Pounds,Malta,Egypt
+338,651,1928,28835,1,Pounds,Malta,Egypt
+338,651,1929,16060,1,Pounds,Malta,Egypt
+338,651,1930,116184,1,Pounds,Malta,Egypt
+338,651,1931,58463,1,Pounds,Malta,Egypt
+338,651,1932,49182,1,,Malta,Egypt
+338,651,1933,120062,1,,Malta,Egypt
+338,651,1934,52064,1,Pounds,Malta,Egypt
+338,651,1935,30768,1,,Malta,Egypt
+338,651,1936,70958,1,Pounds,Malta,Egypt
+338,651,1937,68501,1,Pounds,Malta,Egypt
+338,651,1938,68160,1,Pounds,Malta,Egypt
+338,651,1939,119862,1,,Malta,Egypt
+338,651,1940,105360,1,,Malta,Egypt
+338,652,1920,0,1,Pounds,Malta,Syria
+338,652,1921,0,1,Pounds,Malta,Syria
+338,652,1922,0,1,Pounds,Malta,Syria
+338,652,1923,0,1,Pounds,Malta,Syria
+338,652,1924,0,1,Pounds,Malta,Syria
+338,652,1925,0,1,Pounds,Malta,Syria
+338,652,1926,0,1,Pounds,Malta,Syria
+338,652,1928,19539,1,Pounds,Malta,Syria
+338,652,1929,33602,1,Pounds,Malta,Syria
+338,652,1930,104854,1,Pounds,Malta,Syria
+338,652,1931,104592,1,Pounds,Malta,Syria
+338,652,1932,0,1,,Malta,Syria
+338,652,1933,0,1,,Malta,Syria
+338,652,1934,17854,1,Pounds,Malta,Syria
+338,652,1935,0,1,,Malta,Syria
+338,652,1936,26912,1,Pounds,Malta,Syria
+338,652,1937,29362,1,Pounds,Malta,Syria
+338,652,1938,92431,1,Pounds,Malta,Syria
+338,652,1939,62752,1,,Malta,Syria
+338,652,1940,44043,1,,Malta,Syria
+338,665,1920,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1921,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1922,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1923,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1924,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1925,0,1,Pounds,Malta,West Bank And Gaza
+338,665,1926,5642,1,Pounds,Malta,West Bank And Gaza
+338,665,1928,12913,1,Pounds,Malta,West Bank And Gaza
+338,665,1929,1380,1,Pounds,Malta,West Bank And Gaza
+338,665,1930,2665,1,Pounds,Malta,West Bank And Gaza
+338,665,1931,4835,1,Pounds,Malta,West Bank And Gaza
+338,665,1932,0,1,,Malta,West Bank And Gaza
+338,665,1933,0,1,,Malta,West Bank And Gaza
+338,665,1934,593,1,Pounds,Malta,West Bank And Gaza
+338,665,1935,0,1,,Malta,West Bank And Gaza
+338,665,1936,7468,1,Pounds,Malta,West Bank And Gaza
+338,665,1937,7376,1,Pounds,Malta,West Bank And Gaza
+338,665,1938,5729,1,Pounds,Malta,West Bank And Gaza
+338,665,1939,1486,1,,Malta,West Bank And Gaza
+338,665,1940,5708,1,,Malta,West Bank And Gaza
+338,710,1920,643,1,Pounds,Malta,China
+338,710,1921,6,1,Pounds,Malta,China
+338,710,1922,189,1,Pounds,Malta,China
+338,710,1923,1244,1,Pounds,Malta,China
+338,710,1924,254,1,Pounds,Malta,China
+338,710,1925,165,1,Pounds,Malta,China
+338,710,1926,281,1,Pounds,Malta,China
+338,710,1928,1325,1,Pounds,Malta,China
+338,710,1929,1048,1,Pounds,Malta,China
+338,710,1930,603,1,Pounds,Malta,China
+338,710,1931,631,1,Pounds,Malta,China
+338,710,1932,1022,1,,Malta,China
+338,710,1933,1355,1,,Malta,China
+338,710,1934,7858,1,Pounds,Malta,China
+338,710,1935,25229,1,,Malta,China
+338,710,1936,68947,1,Pounds,Malta,China
+338,710,1937,34250,1,Pounds,Malta,China
+338,710,1938,16473,1,Pounds,Malta,China
+338,710,1939,31587,1,,Malta,China
+338,710,1940,943,1,,Malta,China
+338,711,1920,0,1,Pounds,Malta,Manchukuo
+338,711,1921,0,1,Pounds,Malta,Manchukuo
+338,711,1922,0,1,Pounds,Malta,Manchukuo
+338,711,1923,0,1,Pounds,Malta,Manchukuo
+338,711,1924,0,1,Pounds,Malta,Manchukuo
+338,711,1925,0,1,Pounds,Malta,Manchukuo
+338,711,1926,0,1,Pounds,Malta,Manchukuo
+338,711,1928,0,1,Pounds,Malta,Manchukuo
+338,711,1929,0,1,Pounds,Malta,Manchukuo
+338,711,1930,0,1,Pounds,Malta,Manchukuo
+338,711,1931,0,1,Pounds,Malta,Manchukuo
+338,711,1932,0,1,,Malta,Manchukuo
+338,711,1933,0,1,,Malta,Manchukuo
+338,711,1934,0,1,Pounds,Malta,Manchukuo
+338,711,1935,0,1,,Malta,Manchukuo
+338,711,1936,0,1,Pounds,Malta,Manchukuo
+338,711,1937,0,1,Pounds,Malta,Manchukuo
+338,711,1938,2670,1,Pounds,Malta,Manchukuo
+338,711,1939,0,1,,Malta,Manchukuo
+338,711,1940,0,1,,Malta,Manchukuo
+338,720,1920,0,1,Pounds,Malta,Hong Kong
+338,720,1921,0,1,Pounds,Malta,Hong Kong
+338,720,1922,0,1,Pounds,Malta,Hong Kong
+338,720,1923,0,1,Pounds,Malta,Hong Kong
+338,720,1924,0,1,Pounds,Malta,Hong Kong
+338,720,1925,0,1,Pounds,Malta,Hong Kong
+338,720,1926,0,1,Pounds,Malta,Hong Kong
+338,720,1928,1675,1,Pounds,Malta,Hong Kong
+338,720,1929,2574,1,Pounds,Malta,Hong Kong
+338,720,1930,1716,1,Pounds,Malta,Hong Kong
+338,720,1931,1428,1,Pounds,Malta,Hong Kong
+338,720,1932,0,1,,Malta,Hong Kong
+338,720,1933,0,1,,Malta,Hong Kong
+338,720,1934,1284,1,Pounds,Malta,Hong Kong
+338,720,1935,0,1,,Malta,Hong Kong
+338,720,1936,729,1,Pounds,Malta,Hong Kong
+338,720,1937,0,1,Pounds,Malta,Hong Kong
+338,720,1938,0,1,Pounds,Malta,Hong Kong
+338,720,1939,0,1,,Malta,Hong Kong
+338,720,1940,0,1,,Malta,Hong Kong
+338,740,1920,3100,1,Pounds,Malta,Japan
+338,740,1921,7158,1,Pounds,Malta,Japan
+338,740,1922,4008,1,Pounds,Malta,Japan
+338,740,1923,2766,1,Pounds,Malta,Japan
+338,740,1924,1182,1,Pounds,Malta,Japan
+338,740,1925,3017,1,Pounds,Malta,Japan
+338,740,1926,3993,1,Pounds,Malta,Japan
+338,740,1928,6147,1,Pounds,Malta,Japan
+338,740,1929,14187,1,Pounds,Malta,Japan
+338,740,1930,16544,1,Pounds,Malta,Japan
+338,740,1931,25965,1,Pounds,Malta,Japan
+338,740,1932,48674,1,,Malta,Japan
+338,740,1933,116237,1,,Malta,Japan
+338,740,1934,143015,1,Pounds,Malta,Japan
+338,740,1935,118393,1,,Malta,Japan
+338,740,1936,116043,1,Pounds,Malta,Japan
+338,740,1937,98385,1,Pounds,Malta,Japan
+338,740,1938,104041,1,Pounds,Malta,Japan
+338,740,1939,74133,1,,Malta,Japan
+338,740,1940,41561,1,,Malta,Japan
+338,750,1920,7228,1,Pounds,Malta,India
+338,750,1921,5164,1,Pounds,Malta,India
+338,750,1922,2588,1,Pounds,Malta,India
+338,750,1923,2337,1,Pounds,Malta,India
+338,750,1924,8934,1,Pounds,Malta,India
+338,750,1925,4016,1,Pounds,Malta,India
+338,750,1926,7293,1,Pounds,Malta,India
+338,750,1928,3046,1,Pounds,Malta,India
+338,750,1929,5119,1,Pounds,Malta,India
+338,750,1930,2841,1,Pounds,Malta,India
+338,750,1931,3050,1,Pounds,Malta,India
+338,750,1932,5049,1,,Malta,India
+338,750,1933,9460,1,,Malta,India
+338,750,1934,13524,1,Pounds,Malta,India
+338,750,1935,19246,1,,Malta,India
+338,750,1936,25199,1,Pounds,Malta,India
+338,750,1937,19118,1,Pounds,Malta,India
+338,750,1938,11261,1,Pounds,Malta,India
+338,750,1939,14001,1,,Malta,India
+338,750,1940,22373,1,,Malta,India
+338,775,1920,0,1,Pounds,Malta,Myanmar
+338,775,1921,0,1,Pounds,Malta,Myanmar
+338,775,1922,0,1,Pounds,Malta,Myanmar
+338,775,1923,0,1,Pounds,Malta,Myanmar
+338,775,1924,0,1,Pounds,Malta,Myanmar
+338,775,1925,0,1,Pounds,Malta,Myanmar
+338,775,1926,0,1,Pounds,Malta,Myanmar
+338,775,1928,0,1,Pounds,Malta,Myanmar
+338,775,1929,0,1,Pounds,Malta,Myanmar
+338,775,1930,0,1,Pounds,Malta,Myanmar
+338,775,1931,0,1,Pounds,Malta,Myanmar
+338,775,1932,0,1,,Malta,Myanmar
+338,775,1933,0,1,,Malta,Myanmar
+338,775,1934,0,1,Pounds,Malta,Myanmar
+338,775,1935,0,1,,Malta,Myanmar
+338,775,1936,0,1,Pounds,Malta,Myanmar
+338,775,1937,0,1,Pounds,Malta,Myanmar
+338,775,1938,8764,1,Pounds,Malta,Myanmar
+338,775,1939,0,1,,Malta,Myanmar
+338,775,1940,0,1,,Malta,Myanmar
+338,780,1920,4983,1,Pounds,Malta,Sri Lanka
+338,780,1921,534,1,Pounds,Malta,Sri Lanka
+338,780,1922,193,1,Pounds,Malta,Sri Lanka
+338,780,1923,3770,1,Pounds,Malta,Sri Lanka
+338,780,1924,8429,1,Pounds,Malta,Sri Lanka
+338,780,1925,10919,1,Pounds,Malta,Sri Lanka
+338,780,1926,14581,1,Pounds,Malta,Sri Lanka
+338,780,1928,15705,1,Pounds,Malta,Sri Lanka
+338,780,1929,12095,1,Pounds,Malta,Sri Lanka
+338,780,1930,8008,1,Pounds,Malta,Sri Lanka
+338,780,1931,13098,1,Pounds,Malta,Sri Lanka
+338,780,1932,9875,1,,Malta,Sri Lanka
+338,780,1933,3973,1,,Malta,Sri Lanka
+338,780,1934,15728,1,Pounds,Malta,Sri Lanka
+338,780,1935,16496,1,,Malta,Sri Lanka
+338,780,1936,7563,1,Pounds,Malta,Sri Lanka
+338,780,1937,10943,1,Pounds,Malta,Sri Lanka
+338,780,1938,15704,1,Pounds,Malta,Sri Lanka
+338,780,1939,14602,1,,Malta,Sri Lanka
+338,780,1940,25015,1,,Malta,Sri Lanka
+338,827,1920,0,1,Pounds,Malta,Straits Settlement
+338,827,1921,0,1,Pounds,Malta,Straits Settlement
+338,827,1922,0,1,Pounds,Malta,Straits Settlement
+338,827,1923,0,1,Pounds,Malta,Straits Settlement
+338,827,1924,0,1,Pounds,Malta,Straits Settlement
+338,827,1925,0,1,Pounds,Malta,Straits Settlement
+338,827,1926,0,1,Pounds,Malta,Straits Settlement
+338,827,1928,0,1,Pounds,Malta,Straits Settlement
+338,827,1929,0,1,Pounds,Malta,Straits Settlement
+338,827,1930,0,1,Pounds,Malta,Straits Settlement
+338,827,1931,0,1,Pounds,Malta,Straits Settlement
+338,827,1932,0,1,,Malta,Straits Settlement
+338,827,1933,0,1,,Malta,Straits Settlement
+338,827,1934,0,1,Pounds,Malta,Straits Settlement
+338,827,1935,0,1,,Malta,Straits Settlement
+338,827,1936,0,1,Pounds,Malta,Straits Settlement
+338,827,1937,1897,1,Pounds,Malta,Straits Settlement
+338,827,1938,1979,1,Pounds,Malta,Straits Settlement
+338,827,1939,0,1,,Malta,Straits Settlement
+338,827,1940,0,1,,Malta,Straits Settlement
+338,900,1920,46910,1,Pounds,Malta,Australia
+338,900,1921,315884,1,Pounds,Malta,Australia
+338,900,1922,68640,1,Pounds,Malta,Australia
+338,900,1923,99755,1,Pounds,Malta,Australia
+338,900,1924,122705,1,Pounds,Malta,Australia
+338,900,1925,150854,1,Pounds,Malta,Australia
+338,900,1926,125147,1,Pounds,Malta,Australia
+338,900,1928,73302,1,Pounds,Malta,Australia
+338,900,1929,135163,1,Pounds,Malta,Australia
+338,900,1930,128209,1,Pounds,Malta,Australia
+338,900,1931,117861,1,Pounds,Malta,Australia
+338,900,1932,139166,1,,Malta,Australia
+338,900,1933,98070,1,,Malta,Australia
+338,900,1934,74180,1,Pounds,Malta,Australia
+338,900,1935,146570,1,,Malta,Australia
+338,900,1936,85936,1,Pounds,Malta,Australia
+338,900,1937,161537,1,Pounds,Malta,Australia
+338,900,1938,153266,1,Pounds,Malta,Australia
+338,900,1939,153120,1,,Malta,Australia
+338,900,1940,180682,1,,Malta,Australia
+338,920,1920,666,1,Pounds,Malta,New Zealand
+338,920,1921,0,1,Pounds,Malta,New Zealand
+338,920,1922,0,1,Pounds,Malta,New Zealand
+338,920,1923,0,1,Pounds,Malta,New Zealand
+338,920,1924,0,1,Pounds,Malta,New Zealand
+338,920,1925,0,1,Pounds,Malta,New Zealand
+338,920,1926,0,1,Pounds,Malta,New Zealand
+338,920,1928,0,1,Pounds,Malta,New Zealand
+338,920,1929,0,1,Pounds,Malta,New Zealand
+338,920,1930,0,1,Pounds,Malta,New Zealand
+338,920,1931,0,1,Pounds,Malta,New Zealand
+338,920,1932,0,1,,Malta,New Zealand
+338,920,1933,0,1,,Malta,New Zealand
+338,920,1934,27185,1,Pounds,Malta,New Zealand
+338,920,1935,0,1,,Malta,New Zealand
+338,920,1936,31754,1,Pounds,Malta,New Zealand
+338,920,1937,40518,1,Pounds,Malta,New Zealand
+338,920,1938,32042,1,Pounds,Malta,New Zealand
+338,920,1939,18759,1,,Malta,New Zealand
+338,920,1940,3654,1,,Malta,New Zealand
+338,2000,1920,0,1,Pounds,Malta,Other British possessions
+338,2000,1921,13920,1,Pounds,Malta,Other British possessions
+338,2000,1922,15380,1,Pounds,Malta,Other British possessions
+338,2000,1923,2586,1,Pounds,Malta,Other British possessions
+338,2000,1924,1567,1,Pounds,Malta,Other British possessions
+338,2000,1925,4178,1,Pounds,Malta,Other British possessions
+338,2000,1926,7451,1,Pounds,Malta,Other British possessions
+338,2000,1928,318,1,Pounds,Malta,Other British possessions
+338,2000,1929,3522,1,Pounds,Malta,Other British possessions
+338,2000,1930,7308,1,Pounds,Malta,Other British possessions
+338,2000,1931,3990,1,Pounds,Malta,Other British possessions
+338,2000,1932,0,1,,Malta,Other British possessions
+338,2000,1933,0,1,,Malta,Other British possessions
+338,2000,1934,32129,1,Pounds,Malta,Other British possessions
+338,2000,1935,0,1,,Malta,Other British possessions
+338,2000,1936,14741,1,Pounds,Malta,Other British possessions
+338,2000,1937,2278,1,Pounds,Malta,Other British possessions
+338,2000,1938,1826,1,Pounds,Malta,Other British possessions
+338,2000,1939,0,1,,Malta,Other British possessions
+338,2000,1940,0,1,,Malta,Other British possessions
+338,2100,1920,0,1,Pounds,Malta,Other Dutch possessions
+338,2100,1921,1356,1,Pounds,Malta,Other Dutch possessions
+338,2100,1922,62,1,Pounds,Malta,Other Dutch possessions
+338,2100,1923,20523,1,Pounds,Malta,Other Dutch possessions
+338,2100,1924,23968,1,Pounds,Malta,Other Dutch possessions
+338,2100,1925,41230,1,Pounds,Malta,Other Dutch possessions
+338,2100,1926,451,1,Pounds,Malta,Other Dutch possessions
+338,2100,1928,61021,1,Pounds,Malta,Other Dutch possessions
+338,2100,1929,18189,1,Pounds,Malta,Other Dutch possessions
+338,2100,1930,11630,1,Pounds,Malta,Other Dutch possessions
+338,2100,1931,140971,1,Pounds,Malta,Other Dutch possessions
+338,2100,1932,50199,1,,Malta,Other Dutch possessions
+338,2100,1933,25772,1,,Malta,Other Dutch possessions
+338,2100,1934,85170,1,Pounds,Malta,Other Dutch possessions
+338,2100,1935,100172,1,,Malta,Other Dutch possessions
+338,2100,1936,56973,1,Pounds,Malta,Other Dutch possessions
+338,2100,1937,65992,1,Pounds,Malta,Other Dutch possessions
+338,2100,1938,64713,1,Pounds,Malta,Other Dutch possessions
+338,2100,1939,123925,1,,Malta,Other Dutch possessions
+338,2100,1940,5461,1,,Malta,Other Dutch possessions
+338,2200,1920,0,1,Pounds,Malta,Other French possessions
+338,2200,1921,16954,1,Pounds,Malta,Other French possessions
+338,2200,1922,2483,1,Pounds,Malta,Other French possessions
+338,2200,1923,31372,1,Pounds,Malta,Other French possessions
+338,2200,1924,19325,1,Pounds,Malta,Other French possessions
+338,2200,1925,10460,1,Pounds,Malta,Other French possessions
+338,2200,1926,34102,1,Pounds,Malta,Other French possessions
+338,2200,1928,113,1,Pounds,Malta,Other French possessions
+338,2200,1929,172,1,Pounds,Malta,Other French possessions
+338,2200,1930,484,1,Pounds,Malta,Other French possessions
+338,2200,1931,72,1,Pounds,Malta,Other French possessions
+338,2200,1932,0,1,,Malta,Other French possessions
+338,2200,1933,0,1,,Malta,Other French possessions
+338,2200,1934,925,1,Pounds,Malta,Other French possessions
+338,2200,1935,0,1,,Malta,Other French possessions
+338,2200,1936,1050,1,Pounds,Malta,Other French possessions
+338,2200,1937,0,1,Pounds,Malta,Other French possessions
+338,2200,1938,0,1,Pounds,Malta,Other French possessions
+338,2200,1939,0,1,,Malta,Other French possessions
+338,2200,1940,0,1,,Malta,Other French possessions
+338,2300,1920,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1921,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1922,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1923,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1924,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1925,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1926,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1928,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1929,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1930,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1931,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1932,0,1,,Malta,Other Spanish possessions
+338,2300,1933,0,1,,Malta,Other Spanish possessions
+338,2300,1934,2718,1,Pounds,Malta,Other Spanish possessions
+338,2300,1935,0,1,,Malta,Other Spanish possessions
+338,2300,1936,4532,1,Pounds,Malta,Other Spanish possessions
+338,2300,1937,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1938,0,1,Pounds,Malta,Other Spanish possessions
+338,2300,1939,0,1,,Malta,Other Spanish possessions
+338,2300,1940,0,1,,Malta,Other Spanish possessions
+338,6411,1920,45387,1,Pounds,Malta,Smyrna
+338,6411,1921,4156,1,Pounds,Malta,Smyrna
+338,6411,1922,2935,1,Pounds,Malta,Smyrna
+338,6411,1923,393,1,Pounds,Malta,Smyrna
+338,6411,1924,36,1,Pounds,Malta,Smyrna
+338,6411,1925,0,1,Pounds,Malta,Smyrna
+338,6411,1926,0,1,Pounds,Malta,Smyrna
+338,6411,1928,0,1,Pounds,Malta,Smyrna
+338,6411,1929,0,1,Pounds,Malta,Smyrna
+338,6411,1930,0,1,Pounds,Malta,Smyrna
+338,6411,1931,0,1,Pounds,Malta,Smyrna
+338,6411,1932,0,1,,Malta,Smyrna
+338,6411,1933,0,1,,Malta,Smyrna
+338,6411,1934,0,1,Pounds,Malta,Smyrna
+338,6411,1935,0,1,,Malta,Smyrna
+338,6411,1936,0,1,Pounds,Malta,Smyrna
+338,6411,1937,0,1,Pounds,Malta,Smyrna
+338,6411,1938,0,1,Pounds,Malta,Smyrna
+338,6411,1939,0,1,,Malta,Smyrna
+338,6411,1940,0,1,,Malta,Smyrna
+338,,1920,6038873,1,Pounds,Malta,
+338,,1921,3768872,1,Pounds,Malta,
+338,,1922,3741093,1,Pounds,Malta,
+338,,1923,3923310,1,Pounds,Malta,
+338,,1924,4611704,1,Pounds,Malta,
+338,,1925,4694367,1,Pounds,Malta,
+338,,1926,4643118,1,Pounds,Malta,
+338,,1928,4102405,1,Pounds,Malta,
+338,,1929,4157429,1,Pounds,Malta,
+338,,1930,3929196,1,Pounds,Malta,
+338,,1931,3752200,1,Pounds,Malta,
+338,,1932,2853901,1,,Malta,
+338,,1933,3116318,1,,Malta,
+338,,1934,3503207,1,Pounds,Malta,
+338,,1935,3272658,1,,Malta,
+338,,1936,3455477,1,Pounds,Malta,
+338,,1937,4053704,1,Pounds,Malta,
+338,,1938,3899497,1,Pounds,Malta,
+338,,1939,4088629,1,,Malta,
+338,,1940,2340006,1,,Malta,

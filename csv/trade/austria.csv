@@ -1,0 +1,1825 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+305,2,1922,144450,1000,Goldkronen,Austria,United States
+305,2,1923,175519,1000,Shilling,Austria,United States
+305,2,1924,192024,1000,Shilling,Austria,United States
+305,2,1925,222010,1000,Shilling,Austria,United States
+305,2,1926,150780,1000,Shilling,Austria,United States
+305,2,1927,192732,1000,Shilling,Austria,United States
+305,2,1928,218295,1000,Shilling,Austria,United States
+305,2,1929,198039,1000,Shilling,Austria,United States
+305,2,1930,144969,1000,Shilling,Austria,United States
+305,2,1931,96148,1000,Shilling,Austria,United States
+305,2,1932,56234,1000,Shilling,Austria,United States
+305,2,1933,61876,1000,Shilling,Austria,United States
+305,2,1934,61855,1000,Shilling,Austria,United States
+305,2,1935,70805,1000,1000 Shilling,Austria,United States
+305,2,1936,77907,1000,1000 Shilling,Austria,United States
+305,2,1937,87296,1000,1000 Shilling,Austria,United States
+305,2,1947,40183,1000,1000 S,Austria,United States
+305,2,1948,172608,1000,,Austria,United States
+305,2,1949,1842658,1000,1000 S,Austria,United States
+305,20,1922,831,1000,Goldkronen,Austria,Canada
+305,20,1923,3390,1000,Shilling,Austria,Canada
+305,20,1924,1687,1000,Shilling,Austria,Canada
+305,20,1925,2615,1000,Shilling,Austria,Canada
+305,20,1926,6914,1000,Shilling,Austria,Canada
+305,20,1927,16887,1000,Shilling,Austria,Canada
+305,20,1928,21557,1000,Shilling,Austria,Canada
+305,20,1929,11583,1000,Shilling,Austria,Canada
+305,20,1930,20085,1000,Shilling,Austria,Canada
+305,20,1931,12393,1000,Shilling,Austria,Canada
+305,20,1932,11067,1000,Shilling,Austria,Canada
+305,20,1933,13333,1000,Shilling,Austria,Canada
+305,20,1934,4206,1000,Shilling,Austria,Canada
+305,20,1935,2555,1000,1000 Shilling,Austria,Canada
+305,20,1936,4247,1000,1000 Shilling,Austria,Canada
+305,20,1937,5353,1000,1000 Shilling,Austria,Canada
+305,20,1947,674,1000,1000 S,Austria,Canada
+305,20,1948,642,1000,,Austria,Canada
+305,20,1949,36949,1000,1000 S,Austria,Canada
+305,40,1922,165,1000,Goldkronen,Austria,Cuba
+305,40,1923,595,1000,Shilling,Austria,Cuba
+305,40,1924,570,1000,Shilling,Austria,Cuba
+305,40,1925,1344,1000,Shilling,Austria,Cuba
+305,40,1926,818,1000,Shilling,Austria,Cuba
+305,40,1927,2140,1000,Shilling,Austria,Cuba
+305,40,1928,1230,1000,Shilling,Austria,Cuba
+305,40,1929,2116,1000,Shilling,Austria,Cuba
+305,40,1930,1370,1000,Shilling,Austria,Cuba
+305,40,1931,1144,1000,Shilling,Austria,Cuba
+305,40,1932,32,1000,Shilling,Austria,Cuba
+305,40,1933,31,1000,Shilling,Austria,Cuba
+305,40,1934,85,1000,Shilling,Austria,Cuba
+305,40,1935,345,1000,1000 Shilling,Austria,Cuba
+305,40,1936,344,1000,1000 Shilling,Austria,Cuba
+305,40,1937,482,1000,1000 Shilling,Austria,Cuba
+305,40,1947,33,1000,1000 S,Austria,Cuba
+305,40,1948,0,1000,,Austria,Cuba
+305,40,1949,106454,1000,1000 S,Austria,Cuba
+305,41,1922,0,1000,Goldkronen,Austria,Haiti
+305,41,1923,0,1000,Shilling,Austria,Haiti
+305,41,1924,0,1000,Shilling,Austria,Haiti
+305,41,1925,0,1000,Shilling,Austria,Haiti
+305,41,1926,56,1000,Shilling,Austria,Haiti
+305,41,1927,332,1000,Shilling,Austria,Haiti
+305,41,1928,94,1000,Shilling,Austria,Haiti
+305,41,1929,52,1000,Shilling,Austria,Haiti
+305,41,1930,28,1000,Shilling,Austria,Haiti
+305,41,1931,18,1000,Shilling,Austria,Haiti
+305,41,1932,15,1000,Shilling,Austria,Haiti
+305,41,1933,11,1000,Shilling,Austria,Haiti
+305,41,1934,7,1000,Shilling,Austria,Haiti
+305,41,1935,0,1000,1000 Shilling,Austria,Haiti
+305,41,1936,10,1000,1000 Shilling,Austria,Haiti
+305,41,1937,0,1000,1000 Shilling,Austria,Haiti
+305,41,1947,269,1000,1000 S,Austria,Haiti
+305,41,1948,0,1000,,Austria,Haiti
+305,41,1949,173,1000,1000 S,Austria,Haiti
+305,42,1922,0,1000,Goldkronen,Austria,Dominican Republic
+305,42,1923,2943,1000,Shilling,Austria,Dominican Republic
+305,42,1924,2598,1000,Shilling,Austria,Dominican Republic
+305,42,1925,849,1000,Shilling,Austria,Dominican Republic
+305,42,1926,637,1000,Shilling,Austria,Dominican Republic
+305,42,1927,63,1000,Shilling,Austria,Dominican Republic
+305,42,1928,5,1000,Shilling,Austria,Dominican Republic
+305,42,1929,12,1000,Shilling,Austria,Dominican Republic
+305,42,1930,3,1000,Shilling,Austria,Dominican Republic
+305,42,1931,194,1000,Shilling,Austria,Dominican Republic
+305,42,1932,13,1000,Shilling,Austria,Dominican Republic
+305,42,1933,128,1000,Shilling,Austria,Dominican Republic
+305,42,1934,68,1000,Shilling,Austria,Dominican Republic
+305,42,1935,116,1000,1000 Shilling,Austria,Dominican Republic
+305,42,1936,66,1000,1000 Shilling,Austria,Dominican Republic
+305,42,1937,74,1000,1000 Shilling,Austria,Dominican Republic
+305,42,1947,4317,1000,1000 S,Austria,Dominican Republic
+305,42,1948,4362,1000,,Austria,Dominican Republic
+305,42,1949,3178,1000,1000 S,Austria,Dominican Republic
+305,68,1922,0,1000,Goldkronen,Austria,Netherlands Antilles
+305,68,1923,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1924,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1925,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1926,84,1000,Shilling,Austria,Netherlands Antilles
+305,68,1927,29,1000,Shilling,Austria,Netherlands Antilles
+305,68,1928,95,1000,Shilling,Austria,Netherlands Antilles
+305,68,1929,38,1000,Shilling,Austria,Netherlands Antilles
+305,68,1930,134,1000,Shilling,Austria,Netherlands Antilles
+305,68,1931,12,1000,Shilling,Austria,Netherlands Antilles
+305,68,1932,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1933,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1934,0,1000,Shilling,Austria,Netherlands Antilles
+305,68,1935,0,1000,1000 Shilling,Austria,Netherlands Antilles
+305,68,1936,0,1000,1000 Shilling,Austria,Netherlands Antilles
+305,68,1937,0,1000,1000 Shilling,Austria,Netherlands Antilles
+305,68,1947,0,1000,1000 S,Austria,Netherlands Antilles
+305,68,1948,0,1000,,Austria,Netherlands Antilles
+305,68,1949,0,1000,1000 S,Austria,Netherlands Antilles
+305,70,1922,304,1000,Goldkronen,Austria,Mexico
+305,70,1923,883,1000,Shilling,Austria,Mexico
+305,70,1924,585,1000,Shilling,Austria,Mexico
+305,70,1925,3590,1000,Shilling,Austria,Mexico
+305,70,1926,872,1000,Shilling,Austria,Mexico
+305,70,1927,14312,1000,Shilling,Austria,Mexico
+305,70,1928,5111,1000,Shilling,Austria,Mexico
+305,70,1929,3593,1000,Shilling,Austria,Mexico
+305,70,1930,3540,1000,Shilling,Austria,Mexico
+305,70,1931,2075,1000,Shilling,Austria,Mexico
+305,70,1932,906,1000,Shilling,Austria,Mexico
+305,70,1933,787,1000,Shilling,Austria,Mexico
+305,70,1934,586,1000,Shilling,Austria,Mexico
+305,70,1935,871,1000,1000 Shilling,Austria,Mexico
+305,70,1936,1115,1000,1000 Shilling,Austria,Mexico
+305,70,1937,4408,1000,1000 Shilling,Austria,Mexico
+305,70,1947,62,1000,1000 S,Austria,Mexico
+305,70,1948,5851,1000,,Austria,Mexico
+305,70,1949,7768,1000,1000 S,Austria,Mexico
+305,80,1922,0,1000,Goldkronen,Austria,Belize
+305,80,1923,0,1000,Shilling,Austria,Belize
+305,80,1924,0,1000,Shilling,Austria,Belize
+305,80,1925,0,1000,Shilling,Austria,Belize
+305,80,1926,0,1000,Shilling,Austria,Belize
+305,80,1927,0,1000,Shilling,Austria,Belize
+305,80,1928,0,1000,Shilling,Austria,Belize
+305,80,1929,0,1000,Shilling,Austria,Belize
+305,80,1930,0,1000,Shilling,Austria,Belize
+305,80,1931,0,1000,Shilling,Austria,Belize
+305,80,1932,0,1000,Shilling,Austria,Belize
+305,80,1933,2,1000,Shilling,Austria,Belize
+305,80,1934,8,1000,Shilling,Austria,Belize
+305,80,1935,0,1000,1000 Shilling,Austria,Belize
+305,80,1936,0,1000,1000 Shilling,Austria,Belize
+305,80,1937,0,1000,1000 Shilling,Austria,Belize
+305,80,1947,0,1000,1000 S,Austria,Belize
+305,80,1948,0,1000,,Austria,Belize
+305,80,1949,0,1000,1000 S,Austria,Belize
+305,90,1922,0,1000,Goldkronen,Austria,Guatemala
+305,90,1923,0,1000,Shilling,Austria,Guatemala
+305,90,1924,0,1000,Shilling,Austria,Guatemala
+305,90,1925,0,1000,Shilling,Austria,Guatemala
+305,90,1926,271,1000,Shilling,Austria,Guatemala
+305,90,1927,498,1000,Shilling,Austria,Guatemala
+305,90,1928,1067,1000,Shilling,Austria,Guatemala
+305,90,1929,1221,1000,Shilling,Austria,Guatemala
+305,90,1930,1590,1000,Shilling,Austria,Guatemala
+305,90,1931,1459,1000,Shilling,Austria,Guatemala
+305,90,1932,1512,1000,Shilling,Austria,Guatemala
+305,90,1933,1214,1000,Shilling,Austria,Guatemala
+305,90,1934,1290,1000,Shilling,Austria,Guatemala
+305,90,1935,1284,1000,1000 Shilling,Austria,Guatemala
+305,90,1936,1406,1000,1000 Shilling,Austria,Guatemala
+305,90,1937,1311,1000,1000 Shilling,Austria,Guatemala
+305,90,1947,107,1000,1000 S,Austria,Guatemala
+305,90,1948,0,1000,,Austria,Guatemala
+305,90,1949,1969,1000,1000 S,Austria,Guatemala
+305,91,1922,0,1000,Goldkronen,Austria,Honduras
+305,91,1923,0,1000,Shilling,Austria,Honduras
+305,91,1924,0,1000,Shilling,Austria,Honduras
+305,91,1925,0,1000,Shilling,Austria,Honduras
+305,91,1926,2,1000,Shilling,Austria,Honduras
+305,91,1927,0,1000,Shilling,Austria,Honduras
+305,91,1928,9,1000,Shilling,Austria,Honduras
+305,91,1929,14,1000,Shilling,Austria,Honduras
+305,91,1930,43,1000,Shilling,Austria,Honduras
+305,91,1931,0,1000,Shilling,Austria,Honduras
+305,91,1932,13,1000,Shilling,Austria,Honduras
+305,91,1933,4,1000,Shilling,Austria,Honduras
+305,91,1934,1,1000,Shilling,Austria,Honduras
+305,91,1935,2,1000,1000 Shilling,Austria,Honduras
+305,91,1936,1,1000,1000 Shilling,Austria,Honduras
+305,91,1937,0,1000,1000 Shilling,Austria,Honduras
+305,91,1947,0,1000,1000 S,Austria,Honduras
+305,91,1948,0,1000,,Austria,Honduras
+305,91,1949,25,1000,1000 S,Austria,Honduras
+305,92,1922,0,1000,Goldkronen,Austria,El Salvador
+305,92,1923,0,1000,Shilling,Austria,El Salvador
+305,92,1924,0,1000,Shilling,Austria,El Salvador
+305,92,1925,0,1000,Shilling,Austria,El Salvador
+305,92,1926,87,1000,Shilling,Austria,El Salvador
+305,92,1927,25,1000,Shilling,Austria,El Salvador
+305,92,1928,134,1000,Shilling,Austria,El Salvador
+305,92,1929,288,1000,Shilling,Austria,El Salvador
+305,92,1930,428,1000,Shilling,Austria,El Salvador
+305,92,1931,520,1000,Shilling,Austria,El Salvador
+305,92,1932,274,1000,Shilling,Austria,El Salvador
+305,92,1933,283,1000,Shilling,Austria,El Salvador
+305,92,1934,308,1000,Shilling,Austria,El Salvador
+305,92,1935,215,1000,1000 Shilling,Austria,El Salvador
+305,92,1936,271,1000,1000 Shilling,Austria,El Salvador
+305,92,1937,0,1000,1000 Shilling,Austria,El Salvador
+305,92,1947,0,1000,1000 S,Austria,El Salvador
+305,92,1948,0,1000,,Austria,El Salvador
+305,92,1949,26,1000,1000 S,Austria,El Salvador
+305,93,1922,0,1000,Goldkronen,Austria,Nicaragua
+305,93,1923,0,1000,Shilling,Austria,Nicaragua
+305,93,1924,0,1000,Shilling,Austria,Nicaragua
+305,93,1925,0,1000,Shilling,Austria,Nicaragua
+305,93,1926,83,1000,Shilling,Austria,Nicaragua
+305,93,1927,24,1000,Shilling,Austria,Nicaragua
+305,93,1928,46,1000,Shilling,Austria,Nicaragua
+305,93,1929,66,1000,Shilling,Austria,Nicaragua
+305,93,1930,289,1000,Shilling,Austria,Nicaragua
+305,93,1931,147,1000,Shilling,Austria,Nicaragua
+305,93,1932,80,1000,Shilling,Austria,Nicaragua
+305,93,1933,226,1000,Shilling,Austria,Nicaragua
+305,93,1934,149,1000,Shilling,Austria,Nicaragua
+305,93,1935,126,1000,1000 Shilling,Austria,Nicaragua
+305,93,1936,164,1000,1000 Shilling,Austria,Nicaragua
+305,93,1937,0,1000,1000 Shilling,Austria,Nicaragua
+305,93,1947,0,1000,1000 S,Austria,Nicaragua
+305,93,1948,0,1000,,Austria,Nicaragua
+305,93,1949,8,1000,1000 S,Austria,Nicaragua
+305,94,1922,0,1000,Goldkronen,Austria,Costa Rica
+305,94,1923,0,1000,Shilling,Austria,Costa Rica
+305,94,1924,0,1000,Shilling,Austria,Costa Rica
+305,94,1925,0,1000,Shilling,Austria,Costa Rica
+305,94,1926,11,1000,Shilling,Austria,Costa Rica
+305,94,1927,23,1000,Shilling,Austria,Costa Rica
+305,94,1928,33,1000,Shilling,Austria,Costa Rica
+305,94,1929,150,1000,Shilling,Austria,Costa Rica
+305,94,1930,599,1000,Shilling,Austria,Costa Rica
+305,94,1931,657,1000,Shilling,Austria,Costa Rica
+305,94,1932,411,1000,Shilling,Austria,Costa Rica
+305,94,1933,590,1000,Shilling,Austria,Costa Rica
+305,94,1934,623,1000,Shilling,Austria,Costa Rica
+305,94,1935,867,1000,1000 Shilling,Austria,Costa Rica
+305,94,1936,787,1000,1000 Shilling,Austria,Costa Rica
+305,94,1937,0,1000,1000 Shilling,Austria,Costa Rica
+305,94,1947,528,1000,1000 S,Austria,Costa Rica
+305,94,1948,0,1000,,Austria,Costa Rica
+305,94,1949,917,1000,1000 S,Austria,Costa Rica
+305,95,1922,0,1000,Goldkronen,Austria,Panama
+305,95,1923,0,1000,Shilling,Austria,Panama
+305,95,1924,0,1000,Shilling,Austria,Panama
+305,95,1925,0,1000,Shilling,Austria,Panama
+305,95,1926,1,1000,Shilling,Austria,Panama
+305,95,1927,12,1000,Shilling,Austria,Panama
+305,95,1928,0,1000,Shilling,Austria,Panama
+305,95,1929,0,1000,Shilling,Austria,Panama
+305,95,1930,49,1000,Shilling,Austria,Panama
+305,95,1931,0,1000,Shilling,Austria,Panama
+305,95,1932,4,1000,Shilling,Austria,Panama
+305,95,1933,0,1000,Shilling,Austria,Panama
+305,95,1934,12,1000,Shilling,Austria,Panama
+305,95,1935,2,1000,1000 Shilling,Austria,Panama
+305,95,1936,0,1000,1000 Shilling,Austria,Panama
+305,95,1937,0,1000,1000 Shilling,Austria,Panama
+305,95,1947,0,1000,1000 S,Austria,Panama
+305,95,1948,0,1000,,Austria,Panama
+305,95,1949,512,1000,1000 S,Austria,Panama
+305,100,1922,0,1000,Goldkronen,Austria,Colombia
+305,100,1923,25,1000,Shilling,Austria,Colombia
+305,100,1924,40,1000,Shilling,Austria,Colombia
+305,100,1925,158,1000,Shilling,Austria,Colombia
+305,100,1926,66,1000,Shilling,Austria,Colombia
+305,100,1927,267,1000,Shilling,Austria,Colombia
+305,100,1928,100,1000,Shilling,Austria,Colombia
+305,100,1929,287,1000,Shilling,Austria,Colombia
+305,100,1930,249,1000,Shilling,Austria,Colombia
+305,100,1931,287,1000,Shilling,Austria,Colombia
+305,100,1932,268,1000,Shilling,Austria,Colombia
+305,100,1933,632,1000,Shilling,Austria,Colombia
+305,100,1934,741,1000,Shilling,Austria,Colombia
+305,100,1935,463,1000,1000 Shilling,Austria,Colombia
+305,100,1936,435,1000,1000 Shilling,Austria,Colombia
+305,100,1937,713,1000,1000 Shilling,Austria,Colombia
+305,100,1947,23,1000,1000 S,Austria,Colombia
+305,100,1948,12,1000,,Austria,Colombia
+305,100,1949,2856,1000,1000 S,Austria,Colombia
+305,101,1922,21,1000,Goldkronen,Austria,Venezuela
+305,101,1923,154,1000,Shilling,Austria,Venezuela
+305,101,1924,72,1000,Shilling,Austria,Venezuela
+305,101,1925,23,1000,Shilling,Austria,Venezuela
+305,101,1926,62,1000,Shilling,Austria,Venezuela
+305,101,1927,282,1000,Shilling,Austria,Venezuela
+305,101,1928,823,1000,Shilling,Austria,Venezuela
+305,101,1929,567,1000,Shilling,Austria,Venezuela
+305,101,1930,399,1000,Shilling,Austria,Venezuela
+305,101,1931,347,1000,Shilling,Austria,Venezuela
+305,101,1932,182,1000,Shilling,Austria,Venezuela
+305,101,1933,97,1000,Shilling,Austria,Venezuela
+305,101,1934,1003,1000,Shilling,Austria,Venezuela
+305,101,1935,1456,1000,1000 Shilling,Austria,Venezuela
+305,101,1936,792,1000,1000 Shilling,Austria,Venezuela
+305,101,1937,561,1000,1000 Shilling,Austria,Venezuela
+305,101,1947,0,1000,1000 S,Austria,Venezuela
+305,101,1948,0,1000,,Austria,Venezuela
+305,101,1949,376,1000,1000 S,Austria,Venezuela
+305,130,1922,0,1000,Goldkronen,Austria,Ecuador
+305,130,1923,0,1000,Shilling,Austria,Ecuador
+305,130,1924,0,1000,Shilling,Austria,Ecuador
+305,130,1925,0,1000,Shilling,Austria,Ecuador
+305,130,1926,128,1000,Shilling,Austria,Ecuador
+305,130,1927,172,1000,Shilling,Austria,Ecuador
+305,130,1928,503,1000,Shilling,Austria,Ecuador
+305,130,1929,312,1000,Shilling,Austria,Ecuador
+305,130,1930,179,1000,Shilling,Austria,Ecuador
+305,130,1931,80,1000,Shilling,Austria,Ecuador
+305,130,1932,135,1000,Shilling,Austria,Ecuador
+305,130,1933,192,1000,Shilling,Austria,Ecuador
+305,130,1934,340,1000,Shilling,Austria,Ecuador
+305,130,1935,304,1000,1000 Shilling,Austria,Ecuador
+305,130,1936,590,1000,1000 Shilling,Austria,Ecuador
+305,130,1937,0,1000,1000 Shilling,Austria,Ecuador
+305,130,1947,0,1000,1000 S,Austria,Ecuador
+305,130,1948,0,1000,,Austria,Ecuador
+305,130,1949,530,1000,1000 S,Austria,Ecuador
+305,135,1922,14,1000,Goldkronen,Austria,Peru
+305,135,1923,1,1000,Shilling,Austria,Peru
+305,135,1924,35,1000,Shilling,Austria,Peru
+305,135,1925,14,1000,Shilling,Austria,Peru
+305,135,1926,50,1000,Shilling,Austria,Peru
+305,135,1927,159,1000,Shilling,Austria,Peru
+305,135,1928,917,1000,Shilling,Austria,Peru
+305,135,1929,288,1000,Shilling,Austria,Peru
+305,135,1930,477,1000,Shilling,Austria,Peru
+305,135,1931,239,1000,Shilling,Austria,Peru
+305,135,1932,170,1000,Shilling,Austria,Peru
+305,135,1933,239,1000,Shilling,Austria,Peru
+305,135,1934,353,1000,Shilling,Austria,Peru
+305,135,1935,327,1000,1000 Shilling,Austria,Peru
+305,135,1936,223,1000,1000 Shilling,Austria,Peru
+305,135,1937,559,1000,1000 Shilling,Austria,Peru
+305,135,1947,1823,1000,1000 S,Austria,Peru
+305,135,1948,40,1000,,Austria,Peru
+305,135,1949,2622,1000,1000 S,Austria,Peru
+305,140,1922,9974,1000,Goldkronen,Austria,Brazil
+305,140,1923,15443,1000,Shilling,Austria,Brazil
+305,140,1924,30294,1000,Shilling,Austria,Brazil
+305,140,1925,35278,1000,Shilling,Austria,Brazil
+305,140,1926,31528,1000,Shilling,Austria,Brazil
+305,140,1927,27759,1000,Shilling,Austria,Brazil
+305,140,1928,34281,1000,Shilling,Austria,Brazil
+305,140,1929,35276,1000,Shilling,Austria,Brazil
+305,140,1930,23434,1000,Shilling,Austria,Brazil
+305,140,1931,20298,1000,Shilling,Austria,Brazil
+305,140,1932,14777,1000,Shilling,Austria,Brazil
+305,140,1933,7507,1000,Shilling,Austria,Brazil
+305,140,1934,7711,1000,Shilling,Austria,Brazil
+305,140,1935,7542,1000,1000 Shilling,Austria,Brazil
+305,140,1936,7200,1000,1000 Shilling,Austria,Brazil
+305,140,1937,9022,1000,1000 Shilling,Austria,Brazil
+305,140,1947,24574,1000,1000 S,Austria,Brazil
+305,140,1948,20821,1000,,Austria,Brazil
+305,140,1949,67306,1000,1000 S,Austria,Brazil
+305,145,1922,0,1000,Goldkronen,Austria,Bolivia
+305,145,1923,0,1000,Shilling,Austria,Bolivia
+305,145,1924,0,1000,Shilling,Austria,Bolivia
+305,145,1925,0,1000,Shilling,Austria,Bolivia
+305,145,1926,36,1000,Shilling,Austria,Bolivia
+305,145,1927,2,1000,Shilling,Austria,Bolivia
+305,145,1928,27,1000,Shilling,Austria,Bolivia
+305,145,1929,13,1000,Shilling,Austria,Bolivia
+305,145,1930,11,1000,Shilling,Austria,Bolivia
+305,145,1931,49,1000,Shilling,Austria,Bolivia
+305,145,1932,5,1000,Shilling,Austria,Bolivia
+305,145,1933,6,1000,Shilling,Austria,Bolivia
+305,145,1934,75,1000,Shilling,Austria,Bolivia
+305,145,1935,76,1000,1000 Shilling,Austria,Bolivia
+305,145,1936,0,1000,1000 Shilling,Austria,Bolivia
+305,145,1937,0,1000,1000 Shilling,Austria,Bolivia
+305,145,1947,0,1000,1000 S,Austria,Bolivia
+305,145,1948,0,1000,,Austria,Bolivia
+305,145,1949,0,1000,1000 S,Austria,Bolivia
+305,150,1922,0,1000,Goldkronen,Austria,Paraguay
+305,150,1923,529,1000,Shilling,Austria,Paraguay
+305,150,1924,289,1000,Shilling,Austria,Paraguay
+305,150,1925,1440,1000,Shilling,Austria,Paraguay
+305,150,1926,24,1000,Shilling,Austria,Paraguay
+305,150,1927,1,1000,Shilling,Austria,Paraguay
+305,150,1928,162,1000,Shilling,Austria,Paraguay
+305,150,1929,162,1000,Shilling,Austria,Paraguay
+305,150,1930,217,1000,Shilling,Austria,Paraguay
+305,150,1931,0,1000,Shilling,Austria,Paraguay
+305,150,1932,4,1000,Shilling,Austria,Paraguay
+305,150,1933,116,1000,Shilling,Austria,Paraguay
+305,150,1934,89,1000,Shilling,Austria,Paraguay
+305,150,1935,105,1000,1000 Shilling,Austria,Paraguay
+305,150,1936,140,1000,1000 Shilling,Austria,Paraguay
+305,150,1937,0,1000,1000 Shilling,Austria,Paraguay
+305,150,1947,377,1000,1000 S,Austria,Paraguay
+305,150,1948,0,1000,,Austria,Paraguay
+305,150,1949,3837,1000,1000 S,Austria,Paraguay
+305,155,1922,255,1000,Goldkronen,Austria,Chile
+305,155,1923,1390,1000,Shilling,Austria,Chile
+305,155,1924,2334,1000,Shilling,Austria,Chile
+305,155,1925,2167,1000,Shilling,Austria,Chile
+305,155,1926,4701,1000,Shilling,Austria,Chile
+305,155,1927,3607,1000,Shilling,Austria,Chile
+305,155,1928,2099,1000,Shilling,Austria,Chile
+305,155,1929,4803,1000,Shilling,Austria,Chile
+305,155,1930,1400,1000,Shilling,Austria,Chile
+305,155,1931,1704,1000,Shilling,Austria,Chile
+305,155,1932,499,1000,Shilling,Austria,Chile
+305,155,1933,462,1000,Shilling,Austria,Chile
+305,155,1934,2263,1000,Shilling,Austria,Chile
+305,155,1935,3949,1000,1000 Shilling,Austria,Chile
+305,155,1936,4032,1000,1000 Shilling,Austria,Chile
+305,155,1937,14132,1000,1000 Shilling,Austria,Chile
+305,155,1947,747,1000,1000 S,Austria,Chile
+305,155,1948,985,1000,,Austria,Chile
+305,155,1949,7672,1000,1000 S,Austria,Chile
+305,160,1922,28887,1000,Goldkronen,Austria,Argentina
+305,160,1923,30335,1000,Shilling,Austria,Argentina
+305,160,1924,36147,1000,Shilling,Austria,Argentina
+305,160,1925,58708,1000,Shilling,Austria,Argentina
+305,160,1926,21434,1000,Shilling,Austria,Argentina
+305,160,1927,30211,1000,Shilling,Austria,Argentina
+305,160,1928,43991,1000,Shilling,Austria,Argentina
+305,160,1929,32515,1000,Shilling,Austria,Argentina
+305,160,1930,16116,1000,Shilling,Austria,Argentina
+305,160,1931,24739,1000,Shilling,Austria,Argentina
+305,160,1932,13507,1000,Shilling,Austria,Argentina
+305,160,1933,15965,1000,Shilling,Austria,Argentina
+305,160,1934,9462,1000,Shilling,Austria,Argentina
+305,160,1935,20391,1000,1000 Shilling,Austria,Argentina
+305,160,1936,14429,1000,1000 Shilling,Austria,Argentina
+305,160,1937,18307,1000,1000 Shilling,Austria,Argentina
+305,160,1947,1656,1000,1000 S,Austria,Argentina
+305,160,1948,12393,1000,,Austria,Argentina
+305,160,1949,34118,1000,1000 S,Austria,Argentina
+305,165,1922,18,1000,Goldkronen,Austria,Uruguay
+305,165,1923,279,1000,Shilling,Austria,Uruguay
+305,165,1924,1426,1000,Shilling,Austria,Uruguay
+305,165,1925,145,1000,Shilling,Austria,Uruguay
+305,165,1926,641,1000,Shilling,Austria,Uruguay
+305,165,1927,4536,1000,Shilling,Austria,Uruguay
+305,165,1928,4897,1000,Shilling,Austria,Uruguay
+305,165,1929,3167,1000,Shilling,Austria,Uruguay
+305,165,1930,3711,1000,Shilling,Austria,Uruguay
+305,165,1931,3035,1000,Shilling,Austria,Uruguay
+305,165,1932,432,1000,Shilling,Austria,Uruguay
+305,165,1933,453,1000,Shilling,Austria,Uruguay
+305,165,1934,648,1000,Shilling,Austria,Uruguay
+305,165,1935,1496,1000,1000 Shilling,Austria,Uruguay
+305,165,1936,2463,1000,1000 Shilling,Austria,Uruguay
+305,165,1937,2705,1000,1000 Shilling,Austria,Uruguay
+305,165,1947,261,1000,1000 S,Austria,Uruguay
+305,165,1948,533,1000,,Austria,Uruguay
+305,165,1949,7799,1000,1000 S,Austria,Uruguay
+305,200,1922,41382,1000,Goldkronen,Austria,United Kingdom
+305,200,1923,66133,1000,Shilling,Austria,United Kingdom
+305,200,1924,107705,1000,Shilling,Austria,United Kingdom
+305,200,1925,105169,1000,Shilling,Austria,United Kingdom
+305,200,1926,102580,1000,Shilling,Austria,United Kingdom
+305,200,1927,134822,1000,Shilling,Austria,United Kingdom
+305,200,1928,145912,1000,Shilling,Austria,United Kingdom
+305,200,1929,119655,1000,Shilling,Austria,United Kingdom
+305,200,1930,93537,1000,Shilling,Austria,United Kingdom
+305,200,1931,75161,1000,Shilling,Austria,United Kingdom
+305,200,1932,37435,1000,Shilling,Austria,United Kingdom
+305,200,1933,37051,1000,Shilling,Austria,United Kingdom
+305,200,1934,51312,1000,Shilling,Austria,United Kingdom
+305,200,1935,54336,1000,1000 Shilling,Austria,United Kingdom
+305,200,1936,55430,1000,1000 Shilling,Austria,United Kingdom
+305,200,1937,67299,1000,1000 Shilling,Austria,United Kingdom
+305,200,1947,109254,1000,1000 S,Austria,United Kingdom
+305,200,1948,143357,1000,,Austria,United Kingdom
+305,200,1949,286304,1000,1000 S,Austria,United Kingdom
+305,205,1922,0,1000,Goldkronen,Austria,Ireland
+305,205,1923,0,1000,Shilling,Austria,Ireland
+305,205,1924,0,1000,Shilling,Austria,Ireland
+305,205,1925,0,1000,Shilling,Austria,Ireland
+305,205,1926,0,1000,Shilling,Austria,Ireland
+305,205,1927,0,1000,Shilling,Austria,Ireland
+305,205,1928,0,1000,Shilling,Austria,Ireland
+305,205,1929,0,1000,Shilling,Austria,Ireland
+305,205,1930,0,1000,Shilling,Austria,Ireland
+305,205,1931,0,1000,Shilling,Austria,Ireland
+305,205,1932,15,1000,Shilling,Austria,Ireland
+305,205,1933,32,1000,Shilling,Austria,Ireland
+305,205,1934,40,1000,Shilling,Austria,Ireland
+305,205,1935,41,1000,1000 Shilling,Austria,Ireland
+305,205,1936,61,1000,1000 Shilling,Austria,Ireland
+305,205,1937,0,1000,1000 Shilling,Austria,Ireland
+305,205,1947,207,1000,1000 S,Austria,Ireland
+305,205,1948,0,1000,,Austria,Ireland
+305,205,1949,135,1000,1000 S,Austria,Ireland
+305,210,1922,27917,1000,Goldkronen,Austria,Netherlands
+305,210,1923,40329,1000,Shilling,Austria,Netherlands
+305,210,1924,41477,1000,Shilling,Austria,Netherlands
+305,210,1925,30631,1000,Shilling,Austria,Netherlands
+305,210,1926,36052,1000,Shilling,Austria,Netherlands
+305,210,1927,38886,1000,Shilling,Austria,Netherlands
+305,210,1928,36492,1000,Shilling,Austria,Netherlands
+305,210,1929,38938,1000,Shilling,Austria,Netherlands
+305,210,1930,32356,1000,Shilling,Austria,Netherlands
+305,210,1931,25368,1000,Shilling,Austria,Netherlands
+305,210,1932,14774,1000,Shilling,Austria,Netherlands
+305,210,1933,16428,1000,Shilling,Austria,Netherlands
+305,210,1934,17453,1000,Shilling,Austria,Netherlands
+305,210,1935,21695,1000,1000 Shilling,Austria,Netherlands
+305,210,1936,25955,1000,1000 Shilling,Austria,Netherlands
+305,210,1937,28727,1000,1000 Shilling,Austria,Netherlands
+305,210,1947,30143,1000,1000 S,Austria,Netherlands
+305,210,1948,64683,1000,,Austria,Netherlands
+305,210,1949,174599,1000,1000 S,Austria,Netherlands
+305,211,1922,9269,1000,Goldkronen,Austria,Belgium
+305,211,1923,11435,1000,Shilling,Austria,Belgium
+305,211,1924,22231,1000,Shilling,Austria,Belgium
+305,211,1925,15215,1000,Shilling,Austria,Belgium
+305,211,1926,14573,1000,Shilling,Austria,Belgium
+305,211,1927,25102,1000,Shilling,Austria,Belgium
+305,211,1928,29234,1000,Shilling,Austria,Belgium
+305,211,1929,32357,1000,Shilling,Austria,Belgium
+305,211,1930,21642,1000,Shilling,Austria,Belgium
+305,211,1931,15528,1000,Shilling,Austria,Belgium
+305,211,1932,8380,1000,Shilling,Austria,Belgium
+305,211,1933,8476,1000,Shilling,Austria,Belgium
+305,211,1934,10339,1000,Shilling,Austria,Belgium
+305,211,1935,15399,1000,1000 Shilling,Austria,Belgium
+305,211,1936,19600,1000,1000 Shilling,Austria,Belgium
+305,211,1937,27463,1000,1000 Shilling,Austria,Belgium
+305,211,1947,23005,1000,1000 S,Austria,Belgium
+305,211,1948,37228,1000,,Austria,Belgium
+305,211,1949,139803,1000,1000 S,Austria,Belgium
+305,212,1922,350,1000,Goldkronen,Austria,Luxembourg
+305,212,1923,812,1000,Shilling,Austria,Luxembourg
+305,212,1924,926,1000,Shilling,Austria,Luxembourg
+305,212,1925,598,1000,Shilling,Austria,Luxembourg
+305,212,1926,608,1000,Shilling,Austria,Luxembourg
+305,212,1927,491,1000,Shilling,Austria,Luxembourg
+305,212,1928,288,1000,Shilling,Austria,Luxembourg
+305,212,1929,331,1000,Shilling,Austria,Luxembourg
+305,212,1930,190,1000,Shilling,Austria,Luxembourg
+305,212,1931,132,1000,Shilling,Austria,Luxembourg
+305,212,1932,163,1000,Shilling,Austria,Luxembourg
+305,212,1933,46,1000,Shilling,Austria,Luxembourg
+305,212,1934,79,1000,Shilling,Austria,Luxembourg
+305,212,1935,365,1000,1000 Shilling,Austria,Luxembourg
+305,212,1936,281,1000,1000 Shilling,Austria,Luxembourg
+305,212,1937,0,1000,1000 Shilling,Austria,Luxembourg
+305,212,1947,0,1000,1000 S,Austria,Luxembourg
+305,212,1948,0,1000,,Austria,Luxembourg
+305,212,1949,0,1000,1000 S,Austria,Luxembourg
+305,220,1922,21496,1000,Goldkronen,Austria,France
+305,220,1923,48240,1000,Shilling,Austria,France
+305,220,1924,81497,1000,Shilling,Austria,France
+305,220,1925,54512,1000,Shilling,Austria,France
+305,220,1926,65865,1000,Shilling,Austria,France
+305,220,1927,81280,1000,Shilling,Austria,France
+305,220,1928,89774,1000,Shilling,Austria,France
+305,220,1929,88455,1000,Shilling,Austria,France
+305,220,1930,71248,1000,Shilling,Austria,France
+305,220,1931,56994,1000,Shilling,Austria,France
+305,220,1932,27603,1000,Shilling,Austria,France
+305,220,1933,32654,1000,Shilling,Austria,France
+305,220,1934,36930,1000,Shilling,Austria,France
+305,220,1935,38011,1000,1000 Shilling,Austria,France
+305,220,1936,46286,1000,1000 Shilling,Austria,France
+305,220,1937,40763,1000,1000 Shilling,Austria,France
+305,220,1947,45806,1000,1000 S,Austria,France
+305,220,1948,70153,1000,,Austria,France
+305,220,1949,202351,1000,1000 S,Austria,France
+305,225,1922,89654,1000,Goldkronen,Austria,Switzerland
+305,225,1923,158560,1000,Shilling,Austria,Switzerland
+305,225,1924,196670,1000,Shilling,Austria,Switzerland
+305,225,1925,126957,1000,Shilling,Austria,Switzerland
+305,225,1926,129907,1000,Shilling,Austria,Switzerland
+305,225,1927,157884,1000,Shilling,Austria,Switzerland
+305,225,1928,167836,1000,Shilling,Austria,Switzerland
+305,225,1929,148830,1000,Shilling,Austria,Switzerland
+305,225,1930,116404,1000,Shilling,Austria,Switzerland
+305,225,1931,93531,1000,Shilling,Austria,Switzerland
+305,225,1932,48769,1000,Shilling,Austria,Switzerland
+305,225,1933,43881,1000,Shilling,Austria,Switzerland
+305,225,1934,45464,1000,Shilling,Austria,Switzerland
+305,225,1935,40011,1000,1000 Shilling,Austria,Switzerland
+305,225,1936,38996,1000,1000 Shilling,Austria,Switzerland
+305,225,1937,47671,1000,1000 Shilling,Austria,Switzerland
+305,225,1947,160433,1000,1000 S,Austria,Switzerland
+305,225,1948,220376,1000,,Austria,Switzerland
+305,225,1949,214212,1000,1000 S,Austria,Switzerland
+305,230,1922,1270,1000,Goldkronen,Austria,Spain
+305,230,1923,763,1000,Shilling,Austria,Spain
+305,230,1924,1987,1000,Shilling,Austria,Spain
+305,230,1925,2970,1000,Shilling,Austria,Spain
+305,230,1926,5677,1000,Shilling,Austria,Spain
+305,230,1927,6177,1000,Shilling,Austria,Spain
+305,230,1928,10422,1000,Shilling,Austria,Spain
+305,230,1929,12046,1000,Shilling,Austria,Spain
+305,230,1930,9896,1000,Shilling,Austria,Spain
+305,230,1931,7281,1000,Shilling,Austria,Spain
+305,230,1932,4621,1000,Shilling,Austria,Spain
+305,230,1933,2192,1000,Shilling,Austria,Spain
+305,230,1934,3043,1000,Shilling,Austria,Spain
+305,230,1935,2984,1000,1000 Shilling,Austria,Spain
+305,230,1936,3067,1000,1000 Shilling,Austria,Spain
+305,230,1937,765,1000,1000 Shilling,Austria,Spain
+305,230,1947,532,1000,1000 S,Austria,Spain
+305,230,1948,7130,1000,,Austria,Spain
+305,230,1949,20525,1000,1000 S,Austria,Spain
+305,235,1922,782,1000,Goldkronen,Austria,Portugal
+305,235,1923,2580,1000,Shilling,Austria,Portugal
+305,235,1924,2933,1000,Shilling,Austria,Portugal
+305,235,1925,1561,1000,Shilling,Austria,Portugal
+305,235,1926,2335,1000,Shilling,Austria,Portugal
+305,235,1927,2284,1000,Shilling,Austria,Portugal
+305,235,1928,2669,1000,Shilling,Austria,Portugal
+305,235,1929,3435,1000,Shilling,Austria,Portugal
+305,235,1930,3280,1000,Shilling,Austria,Portugal
+305,235,1931,3311,1000,Shilling,Austria,Portugal
+305,235,1932,2235,1000,Shilling,Austria,Portugal
+305,235,1933,1493,1000,Shilling,Austria,Portugal
+305,235,1934,1858,1000,Shilling,Austria,Portugal
+305,235,1935,2562,1000,1000 Shilling,Austria,Portugal
+305,235,1936,2950,1000,1000 Shilling,Austria,Portugal
+305,235,1937,3159,1000,1000 Shilling,Austria,Portugal
+305,235,1947,528,1000,1000 S,Austria,Portugal
+305,235,1948,1334,1000,,Austria,Portugal
+305,235,1949,2939,1000,1000 S,Austria,Portugal
+305,255,1922,392402,1000,Goldkronen,Austria,Germany
+305,255,1923,498223,1000,Shilling,Austria,Germany
+305,255,1924,518804,1000,Shilling,Austria,Germany
+305,255,1925,456500,1000,Shilling,Austria,Germany
+305,255,1926,471999,1000,Shilling,Austria,Germany
+305,255,1927,531688,1000,Shilling,Austria,Germany
+305,255,1928,656905,1000,Shilling,Austria,Germany
+305,255,1929,695517,1000,Shilling,Austria,Germany
+305,255,1930,580024,1000,Shilling,Austria,Germany
+305,255,1931,488125,1000,Shilling,Austria,Germany
+305,255,1932,285708,1000,Shilling,Austria,Germany
+305,255,1933,234180,1000,Shilling,Austria,Germany
+305,255,1934,204399,1000,Shilling,Austria,Germany
+305,255,1935,203748,1000,1000 Shilling,Austria,Germany
+305,255,1936,216462,1000,1000 Shilling,Austria,Germany
+305,255,1937,237516,1000,1000 Shilling,Austria,Germany
+305,255,1947,209643,1000,1000 S,Austria,Germany
+305,255,1948,228142,1000,,Austria,Germany
+305,255,1949,763600,1000,1000 S,Austria,Germany
+305,256,1922,6205,1000,Goldkronen,Austria,Saar
+305,256,1923,9685,1000,Shilling,Austria,Saar
+305,256,1924,12406,1000,Shilling,Austria,Saar
+305,256,1925,9264,1000,Shilling,Austria,Saar
+305,256,1926,1497,1000,Shilling,Austria,Saar
+305,256,1927,2723,1000,Shilling,Austria,Saar
+305,256,1928,7762,1000,Shilling,Austria,Saar
+305,256,1929,4931,1000,Shilling,Austria,Saar
+305,256,1930,3029,1000,Shilling,Austria,Saar
+305,256,1931,2639,1000,Shilling,Austria,Saar
+305,256,1932,4584,1000,Shilling,Austria,Saar
+305,256,1933,2414,1000,Shilling,Austria,Saar
+305,256,1934,4204,1000,Shilling,Austria,Saar
+305,256,1935,291,1000,1000 Shilling,Austria,Saar
+305,256,1936,0,1000,1000 Shilling,Austria,Saar
+305,256,1937,0,1000,1000 Shilling,Austria,Saar
+305,256,1947,0,1000,1000 S,Austria,Saar
+305,256,1948,0,1000,,Austria,Saar
+305,256,1949,0,1000,1000 S,Austria,Saar
+305,290,1922,82192,1000,Goldkronen,Austria,Poland
+305,290,1923,171160,1000,Shilling,Austria,Poland
+305,290,1924,258992,1000,Shilling,Austria,Poland
+305,290,1925,248544,1000,Shilling,Austria,Poland
+305,290,1926,252444,1000,Shilling,Austria,Poland
+305,290,1927,269739,1000,Shilling,Austria,Poland
+305,290,1928,300712,1000,Shilling,Austria,Poland
+305,290,1929,291457,1000,Shilling,Austria,Poland
+305,290,1930,216981,1000,Shilling,Austria,Poland
+305,290,1931,178346,1000,Shilling,Austria,Poland
+305,290,1932,105819,1000,Shilling,Austria,Poland
+305,290,1933,76789,1000,Shilling,Austria,Poland
+305,290,1934,72553,1000,Shilling,Austria,Poland
+305,290,1935,77133,1000,1000 Shilling,Austria,Poland
+305,290,1936,74165,1000,1000 Shilling,Austria,Poland
+305,290,1937,67088,1000,1000 Shilling,Austria,Poland
+305,290,1947,62827,1000,1000 S,Austria,Poland
+305,290,1948,119561,1000,,Austria,Poland
+305,290,1949,241871,1000,1000 S,Austria,Poland
+305,291,1922,76,1000,Goldkronen,Austria,Danzig
+305,291,1923,7,1000,Shilling,Austria,Danzig
+305,291,1924,0,1000,Shilling,Austria,Danzig
+305,291,1925,19,1000,Shilling,Austria,Danzig
+305,291,1926,40,1000,Shilling,Austria,Danzig
+305,291,1927,18,1000,Shilling,Austria,Danzig
+305,291,1928,6,1000,Shilling,Austria,Danzig
+305,291,1929,491,1000,Shilling,Austria,Danzig
+305,291,1930,40,1000,Shilling,Austria,Danzig
+305,291,1931,19,1000,Shilling,Austria,Danzig
+305,291,1932,28,1000,Shilling,Austria,Danzig
+305,291,1933,12,1000,Shilling,Austria,Danzig
+305,291,1934,41,1000,Shilling,Austria,Danzig
+305,291,1935,15,1000,1000 Shilling,Austria,Danzig
+305,291,1936,54,1000,1000 Shilling,Austria,Danzig
+305,291,1937,0,1000,1000 Shilling,Austria,Danzig
+305,291,1947,0,1000,1000 S,Austria,Danzig
+305,291,1948,0,1000,,Austria,Danzig
+305,291,1949,0,1000,1000 S,Austria,Danzig
+305,310,1922,195728,1000,Goldkronen,Austria,Hungary
+305,310,1923,300561,1000,Shilling,Austria,Hungary
+305,310,1924,402409,1000,Shilling,Austria,Hungary
+305,310,1925,318319,1000,Shilling,Austria,Hungary
+305,310,1926,361261,1000,Shilling,Austria,Hungary
+305,310,1927,297962,1000,Shilling,Austria,Hungary
+305,310,1928,279313,1000,Shilling,Austria,Hungary
+305,310,1929,327779,1000,Shilling,Austria,Hungary
+305,310,1930,285142,1000,Shilling,Austria,Hungary
+305,310,1931,197598,1000,Shilling,Austria,Hungary
+305,310,1932,135909,1000,Shilling,Austria,Hungary
+305,310,1933,134517,1000,Shilling,Austria,Hungary
+305,310,1934,129150,1000,Shilling,Austria,Hungary
+305,310,1935,115008,1000,1000 Shilling,Austria,Hungary
+305,310,1936,118305,1000,1000 Shilling,Austria,Hungary
+305,310,1937,131712,1000,1000 Shilling,Austria,Hungary
+305,310,1947,34254,1000,1000 S,Austria,Hungary
+305,310,1948,117242,1000,,Austria,Hungary
+305,310,1949,202253,1000,1000 S,Austria,Hungary
+305,315,1922,414438,1000,Goldkronen,Austria,Czechoslovakia
+305,315,1923,633168,1000,Shilling,Austria,Czechoslovakia
+305,315,1924,780129,1000,Shilling,Austria,Czechoslovakia
+305,315,1925,566449,1000,Shilling,Austria,Czechoslovakia
+305,315,1926,554160,1000,Shilling,Austria,Czechoslovakia
+305,315,1927,568482,1000,Shilling,Austria,Czechoslovakia
+305,315,1928,595626,1000,Shilling,Austria,Czechoslovakia
+305,315,1929,591130,1000,Shilling,Austria,Czechoslovakia
+305,315,1930,479625,1000,Shilling,Austria,Czechoslovakia
+305,315,1931,367060,1000,Shilling,Austria,Czechoslovakia
+305,315,1932,213269,1000,Shilling,Austria,Czechoslovakia
+305,315,1933,158274,1000,Shilling,Austria,Czechoslovakia
+305,315,1934,159578,1000,Shilling,Austria,Czechoslovakia
+305,315,1935,155539,1000,1000 Shilling,Austria,Czechoslovakia
+305,315,1936,144043,1000,1000 Shilling,Austria,Czechoslovakia
+305,315,1937,160601,1000,1000 Shilling,Austria,Czechoslovakia
+305,315,1947,155899,1000,1000 S,Austria,Czechoslovakia
+305,315,1948,270187,1000,,Austria,Czechoslovakia
+305,315,1949,391132,1000,1000 S,Austria,Czechoslovakia
+305,325,1922,88870,1000,Goldkronen,Austria,Italy
+305,325,1923,192383,1000,Shilling,Austria,Italy
+305,325,1924,248916,1000,Shilling,Austria,Italy
+305,325,1925,161255,1000,Shilling,Austria,Italy
+305,325,1926,131273,1000,Shilling,Austria,Italy
+305,325,1927,128986,1000,Shilling,Austria,Italy
+305,325,1928,110588,1000,Shilling,Austria,Italy
+305,325,1929,120597,1000,Shilling,Austria,Italy
+305,325,1930,107138,1000,Shilling,Austria,Italy
+305,325,1931,93995,1000,Shilling,Austria,Italy
+305,325,1932,68409,1000,Shilling,Austria,Italy
+305,325,1933,51477,1000,Shilling,Austria,Italy
+305,325,1934,49583,1000,Shilling,Austria,Italy
+305,325,1935,57394,1000,1000 Shilling,Austria,Italy
+305,325,1936,58983,1000,1000 Shilling,Austria,Italy
+305,325,1937,80260,1000,1000 Shilling,Austria,Italy
+305,325,1947,87613,1000,1000 S,Austria,Italy
+305,325,1948,284811,1000,,Austria,Italy
+305,325,1949,545570,1000,1000 S,Austria,Italy
+305,326,1922,2450,1000,Goldkronen,Austria,Trieste
+305,326,1923,991,1000,Shilling,Austria,Trieste
+305,326,1924,747,1000,Shilling,Austria,Trieste
+305,326,1925,16336,1000,Shilling,Austria,Trieste
+305,326,1926,12075,1000,Shilling,Austria,Trieste
+305,326,1927,10616,1000,Shilling,Austria,Trieste
+305,326,1928,3954,1000,Shilling,Austria,Trieste
+305,326,1929,3372,1000,Shilling,Austria,Trieste
+305,326,1930,3142,1000,Shilling,Austria,Trieste
+305,326,1931,2197,1000,Shilling,Austria,Trieste
+305,326,1932,0,1000,Shilling,Austria,Trieste
+305,326,1933,0,1000,Shilling,Austria,Trieste
+305,326,1934,0,1000,Shilling,Austria,Trieste
+305,326,1935,0,1000,1000 Shilling,Austria,Trieste
+305,326,1936,0,1000,1000 Shilling,Austria,Trieste
+305,326,1937,0,1000,1000 Shilling,Austria,Trieste
+305,326,1947,1217,1000,1000 S,Austria,Trieste
+305,326,1948,3266,1000,,Austria,Trieste
+305,326,1949,28544,1000,1000 S,Austria,Trieste
+305,339,1922,0,1000,Goldkronen,Austria,Albania
+305,339,1923,0,1000,Shilling,Austria,Albania
+305,339,1924,0,1000,Shilling,Austria,Albania
+305,339,1925,0,1000,Shilling,Austria,Albania
+305,339,1926,11,1000,Shilling,Austria,Albania
+305,339,1927,37,1000,Shilling,Austria,Albania
+305,339,1928,20,1000,Shilling,Austria,Albania
+305,339,1929,35,1000,Shilling,Austria,Albania
+305,339,1930,75,1000,Shilling,Austria,Albania
+305,339,1931,42,1000,Shilling,Austria,Albania
+305,339,1932,76,1000,Shilling,Austria,Albania
+305,339,1933,22,1000,Shilling,Austria,Albania
+305,339,1934,16,1000,Shilling,Austria,Albania
+305,339,1935,27,1000,1000 Shilling,Austria,Albania
+305,339,1936,412,1000,1000 Shilling,Austria,Albania
+305,339,1937,0,1000,1000 Shilling,Austria,Albania
+305,339,1947,0,1000,1000 S,Austria,Albania
+305,339,1948,0,1000,,Austria,Albania
+305,339,1949,0,1000,1000 S,Austria,Albania
+305,345,1922,72056,1000,Goldkronen,Austria,Yugoslavia
+305,345,1923,141527,1000,Shilling,Austria,Yugoslavia
+305,345,1924,151231,1000,Shilling,Austria,Yugoslavia
+305,345,1925,134041,1000,Shilling,Austria,Yugoslavia
+305,345,1926,166382,1000,Shilling,Austria,Yugoslavia
+305,345,1927,176422,1000,Shilling,Austria,Yugoslavia
+305,345,1928,131509,1000,Shilling,Austria,Yugoslavia
+305,345,1929,132425,1000,Shilling,Austria,Yugoslavia
+305,345,1930,149240,1000,Shilling,Austria,Yugoslavia
+305,345,1931,95601,1000,Shilling,Austria,Yugoslavia
+305,345,1932,108026,1000,Shilling,Austria,Yugoslavia
+305,345,1933,104212,1000,Shilling,Austria,Yugoslavia
+305,345,1934,97873,1000,Shilling,Austria,Yugoslavia
+305,345,1935,82462,1000,1000 Shilling,Austria,Yugoslavia
+305,345,1936,76806,1000,1000 Shilling,Austria,Yugoslavia
+305,345,1937,115320,1000,1000 Shilling,Austria,Yugoslavia
+305,345,1947,25888,1000,1000 S,Austria,Yugoslavia
+305,345,1948,122804,1000,,Austria,Yugoslavia
+305,345,1949,178851,1000,1000 S,Austria,Yugoslavia
+305,350,1922,4734,1000,Goldkronen,Austria,Greece
+305,350,1923,11193,1000,Shilling,Austria,Greece
+305,350,1924,7814,1000,Shilling,Austria,Greece
+305,350,1925,5471,1000,Shilling,Austria,Greece
+305,350,1926,11132,1000,Shilling,Austria,Greece
+305,350,1927,50071,1000,Shilling,Austria,Greece
+305,350,1928,19781,1000,Shilling,Austria,Greece
+305,350,1929,34816,1000,Shilling,Austria,Greece
+305,350,1930,18629,1000,Shilling,Austria,Greece
+305,350,1931,36059,1000,Shilling,Austria,Greece
+305,350,1932,26338,1000,Shilling,Austria,Greece
+305,350,1933,11201,1000,Shilling,Austria,Greece
+305,350,1934,12980,1000,Shilling,Austria,Greece
+305,350,1935,9130,1000,1000 Shilling,Austria,Greece
+305,350,1936,8416,1000,1000 Shilling,Austria,Greece
+305,350,1937,13988,1000,1000 Shilling,Austria,Greece
+305,350,1947,20538,1000,1000 S,Austria,Greece
+305,350,1948,9814,1000,,Austria,Greece
+305,350,1949,81034,1000,1000 S,Austria,Greece
+305,352,1922,0,1000,Goldkronen,Austria,Cyprus
+305,352,1923,0,1000,Shilling,Austria,Cyprus
+305,352,1924,0,1000,Shilling,Austria,Cyprus
+305,352,1925,0,1000,Shilling,Austria,Cyprus
+305,352,1926,0,1000,Shilling,Austria,Cyprus
+305,352,1927,0,1000,Shilling,Austria,Cyprus
+305,352,1928,0,1000,Shilling,Austria,Cyprus
+305,352,1929,0,1000,Shilling,Austria,Cyprus
+305,352,1930,0,1000,Shilling,Austria,Cyprus
+305,352,1931,0,1000,Shilling,Austria,Cyprus
+305,352,1932,648,1000,Shilling,Austria,Cyprus
+305,352,1933,1025,1000,Shilling,Austria,Cyprus
+305,352,1934,850,1000,Shilling,Austria,Cyprus
+305,352,1935,802,1000,1000 Shilling,Austria,Cyprus
+305,352,1936,729,1000,1000 Shilling,Austria,Cyprus
+305,352,1937,1152,1000,1000 Shilling,Austria,Cyprus
+305,352,1947,0,1000,1000 S,Austria,Cyprus
+305,352,1948,1554,1000,,Austria,Cyprus
+305,352,1949,2911,1000,1000 S,Austria,Cyprus
+305,355,1922,22067,1000,Goldkronen,Austria,Bulgaria
+305,355,1923,51470,1000,Shilling,Austria,Bulgaria
+305,355,1924,76092,1000,Shilling,Austria,Bulgaria
+305,355,1925,30226,1000,Shilling,Austria,Bulgaria
+305,355,1926,8090,1000,Shilling,Austria,Bulgaria
+305,355,1927,25983,1000,Shilling,Austria,Bulgaria
+305,355,1928,30022,1000,Shilling,Austria,Bulgaria
+305,355,1929,18716,1000,Shilling,Austria,Bulgaria
+305,355,1930,16126,1000,Shilling,Austria,Bulgaria
+305,355,1931,38505,1000,Shilling,Austria,Bulgaria
+305,355,1932,25453,1000,Shilling,Austria,Bulgaria
+305,355,1933,15867,1000,Shilling,Austria,Bulgaria
+305,355,1934,7213,1000,Shilling,Austria,Bulgaria
+305,355,1935,9994,1000,1000 Shilling,Austria,Bulgaria
+305,355,1936,7949,1000,1000 Shilling,Austria,Bulgaria
+305,355,1937,13406,1000,1000 Shilling,Austria,Bulgaria
+305,355,1947,14399,1000,1000 S,Austria,Bulgaria
+305,355,1948,34095,1000,,Austria,Bulgaria
+305,355,1949,45348,1000,1000 S,Austria,Bulgaria
+305,360,1922,24386,1000,Goldkronen,Austria,Romania
+305,360,1923,61062,1000,Shilling,Austria,Romania
+305,360,1924,87403,1000,Shilling,Austria,Romania
+305,360,1925,106236,1000,Shilling,Austria,Romania
+305,360,1926,131916,1000,Shilling,Austria,Romania
+305,360,1927,173384,1000,Shilling,Austria,Romania
+305,360,1928,147303,1000,Shilling,Austria,Romania
+305,360,1929,127721,1000,Shilling,Austria,Romania
+305,360,1930,130545,1000,Shilling,Austria,Romania
+305,360,1931,122148,1000,Shilling,Austria,Romania
+305,360,1932,80875,1000,Shilling,Austria,Romania
+305,360,1933,53105,1000,Shilling,Austria,Romania
+305,360,1934,64945,1000,Shilling,Austria,Romania
+305,360,1935,84149,1000,1000 Shilling,Austria,Romania
+305,360,1936,101541,1000,1000 Shilling,Austria,Romania
+305,360,1937,87417,1000,1000 Shilling,Austria,Romania
+305,360,1947,2460,1000,1000 S,Austria,Romania
+305,360,1948,22903,1000,,Austria,Romania
+305,360,1949,58566,1000,1000 S,Austria,Romania
+305,365,1922,1606,1000,Goldkronen,Austria,Russia
+305,365,1923,4121,1000,Shilling,Austria,Russia
+305,365,1924,10932,1000,Shilling,Austria,Russia
+305,365,1925,9357,1000,Shilling,Austria,Russia
+305,365,1926,5019,1000,Shilling,Austria,Russia
+305,365,1927,17771,1000,Shilling,Austria,Russia
+305,365,1928,28346,1000,Shilling,Austria,Russia
+305,365,1929,26992,1000,Shilling,Austria,Russia
+305,365,1930,17584,1000,Shilling,Austria,Russia
+305,365,1931,30480,1000,Shilling,Austria,Russia
+305,365,1932,17230,1000,Shilling,Austria,Russia
+305,365,1933,7443,1000,Shilling,Austria,Russia
+305,365,1934,4815,1000,Shilling,Austria,Russia
+305,365,1935,6016,1000,1000 Shilling,Austria,Russia
+305,365,1936,5693,1000,1000 Shilling,Austria,Russia
+305,365,1937,4874,1000,1000 Shilling,Austria,Russia
+305,365,1947,195,1000,1000 S,Austria,Russia
+305,365,1948,18,1000,,Austria,Russia
+305,365,1949,688,1000,1000 S,Austria,Russia
+305,366,1922,0,1000,Goldkronen,Austria,Estonia
+305,366,1923,20,1000,Shilling,Austria,Estonia
+305,366,1924,299,1000,Shilling,Austria,Estonia
+305,366,1925,60,1000,Shilling,Austria,Estonia
+305,366,1926,82,1000,Shilling,Austria,Estonia
+305,366,1927,485,1000,Shilling,Austria,Estonia
+305,366,1928,115,1000,Shilling,Austria,Estonia
+305,366,1929,178,1000,Shilling,Austria,Estonia
+305,366,1930,112,1000,Shilling,Austria,Estonia
+305,366,1931,110,1000,Shilling,Austria,Estonia
+305,366,1932,79,1000,Shilling,Austria,Estonia
+305,366,1933,31,1000,Shilling,Austria,Estonia
+305,366,1934,25,1000,Shilling,Austria,Estonia
+305,366,1935,207,1000,1000 Shilling,Austria,Estonia
+305,366,1936,283,1000,1000 Shilling,Austria,Estonia
+305,366,1937,0,1000,1000 Shilling,Austria,Estonia
+305,366,1947,0,1000,1000 S,Austria,Estonia
+305,366,1948,0,1000,,Austria,Estonia
+305,366,1949,0,1000,1000 S,Austria,Estonia
+305,367,1922,4,1000,Goldkronen,Austria,Latvia
+305,367,1923,71,1000,Shilling,Austria,Latvia
+305,367,1924,543,1000,Shilling,Austria,Latvia
+305,367,1925,339,1000,Shilling,Austria,Latvia
+305,367,1926,631,1000,Shilling,Austria,Latvia
+305,367,1927,712,1000,Shilling,Austria,Latvia
+305,367,1928,635,1000,Shilling,Austria,Latvia
+305,367,1929,958,1000,Shilling,Austria,Latvia
+305,367,1930,245,1000,Shilling,Austria,Latvia
+305,367,1931,268,1000,Shilling,Austria,Latvia
+305,367,1932,70,1000,Shilling,Austria,Latvia
+305,367,1933,109,1000,Shilling,Austria,Latvia
+305,367,1934,328,1000,Shilling,Austria,Latvia
+305,367,1935,742,1000,1000 Shilling,Austria,Latvia
+305,367,1936,538,1000,1000 Shilling,Austria,Latvia
+305,367,1937,0,1000,1000 Shilling,Austria,Latvia
+305,367,1947,0,1000,1000 S,Austria,Latvia
+305,367,1948,0,1000,,Austria,Latvia
+305,367,1949,0,1000,1000 S,Austria,Latvia
+305,368,1922,0,1000,Goldkronen,Austria,Lithuania
+305,368,1923,68,1000,Shilling,Austria,Lithuania
+305,368,1924,134,1000,Shilling,Austria,Lithuania
+305,368,1925,31,1000,Shilling,Austria,Lithuania
+305,368,1926,79,1000,Shilling,Austria,Lithuania
+305,368,1927,15,1000,Shilling,Austria,Lithuania
+305,368,1928,140,1000,Shilling,Austria,Lithuania
+305,368,1929,119,1000,Shilling,Austria,Lithuania
+305,368,1930,345,1000,Shilling,Austria,Lithuania
+305,368,1931,218,1000,Shilling,Austria,Lithuania
+305,368,1932,119,1000,Shilling,Austria,Lithuania
+305,368,1933,204,1000,Shilling,Austria,Lithuania
+305,368,1934,1049,1000,Shilling,Austria,Lithuania
+305,368,1935,1803,1000,1000 Shilling,Austria,Lithuania
+305,368,1936,1836,1000,1000 Shilling,Austria,Lithuania
+305,368,1937,0,1000,1000 Shilling,Austria,Lithuania
+305,368,1947,0,1000,1000 S,Austria,Lithuania
+305,368,1948,0,1000,,Austria,Lithuania
+305,368,1949,0,1000,1000 S,Austria,Lithuania
+305,375,1922,263,1000,Goldkronen,Austria,Finland
+305,375,1923,261,1000,Shilling,Austria,Finland
+305,375,1924,255,1000,Shilling,Austria,Finland
+305,375,1925,383,1000,Shilling,Austria,Finland
+305,375,1926,450,1000,Shilling,Austria,Finland
+305,375,1927,424,1000,Shilling,Austria,Finland
+305,375,1928,204,1000,Shilling,Austria,Finland
+305,375,1929,407,1000,Shilling,Austria,Finland
+305,375,1930,632,1000,Shilling,Austria,Finland
+305,375,1931,511,1000,Shilling,Austria,Finland
+305,375,1932,459,1000,Shilling,Austria,Finland
+305,375,1933,356,1000,Shilling,Austria,Finland
+305,375,1934,516,1000,Shilling,Austria,Finland
+305,375,1935,824,1000,1000 Shilling,Austria,Finland
+305,375,1936,893,1000,1000 Shilling,Austria,Finland
+305,375,1937,1000,1000,1000 Shilling,Austria,Finland
+305,375,1947,659,1000,1000 S,Austria,Finland
+305,375,1948,2662,1000,,Austria,Finland
+305,375,1949,4078,1000,1000 S,Austria,Finland
+305,380,1922,853,1000,Goldkronen,Austria,Sweden
+305,380,1923,2909,1000,Shilling,Austria,Sweden
+305,380,1924,7008,1000,Shilling,Austria,Sweden
+305,380,1925,4921,1000,Shilling,Austria,Sweden
+305,380,1926,6610,1000,Shilling,Austria,Sweden
+305,380,1927,7816,1000,Shilling,Austria,Sweden
+305,380,1928,8902,1000,Shilling,Austria,Sweden
+305,380,1929,8121,1000,Shilling,Austria,Sweden
+305,380,1930,7428,1000,Shilling,Austria,Sweden
+305,380,1931,5258,1000,Shilling,Austria,Sweden
+305,380,1932,3154,1000,Shilling,Austria,Sweden
+305,380,1933,4535,1000,Shilling,Austria,Sweden
+305,380,1934,4389,1000,Shilling,Austria,Sweden
+305,380,1935,4984,1000,1000 Shilling,Austria,Sweden
+305,380,1936,5800,1000,1000 Shilling,Austria,Sweden
+305,380,1937,10995,1000,1000 Shilling,Austria,Sweden
+305,380,1947,16290,1000,1000 S,Austria,Sweden
+305,380,1948,41659,1000,,Austria,Sweden
+305,380,1949,72249,1000,1000 S,Austria,Sweden
+305,385,1922,2685,1000,Goldkronen,Austria,Norway
+305,385,1923,2504,1000,Shilling,Austria,Norway
+305,385,1924,4119,1000,Shilling,Austria,Norway
+305,385,1925,4255,1000,Shilling,Austria,Norway
+305,385,1926,4245,1000,Shilling,Austria,Norway
+305,385,1927,3774,1000,Shilling,Austria,Norway
+305,385,1928,4346,1000,Shilling,Austria,Norway
+305,385,1929,4704,1000,Shilling,Austria,Norway
+305,385,1930,4827,1000,Shilling,Austria,Norway
+305,385,1931,4126,1000,Shilling,Austria,Norway
+305,385,1932,3853,1000,Shilling,Austria,Norway
+305,385,1933,6306,1000,Shilling,Austria,Norway
+305,385,1934,3685,1000,Shilling,Austria,Norway
+305,385,1935,4761,1000,1000 Shilling,Austria,Norway
+305,385,1936,6734,1000,1000 Shilling,Austria,Norway
+305,385,1937,8074,1000,1000 Shilling,Austria,Norway
+305,385,1947,16360,1000,1000 S,Austria,Norway
+305,385,1948,17133,1000,,Austria,Norway
+305,385,1949,44518,1000,1000 S,Austria,Norway
+305,390,1922,4057,1000,Goldkronen,Austria,Denmark
+305,390,1923,10970,1000,Shilling,Austria,Denmark
+305,390,1924,12691,1000,Shilling,Austria,Denmark
+305,390,1925,4478,1000,Shilling,Austria,Denmark
+305,390,1926,3827,1000,Shilling,Austria,Denmark
+305,390,1927,5191,1000,Shilling,Austria,Denmark
+305,390,1928,4275,1000,Shilling,Austria,Denmark
+305,390,1929,4036,1000,Shilling,Austria,Denmark
+305,390,1930,3826,1000,Shilling,Austria,Denmark
+305,390,1931,2972,1000,Shilling,Austria,Denmark
+305,390,1932,4350,1000,Shilling,Austria,Denmark
+305,390,1933,5374,1000,Shilling,Austria,Denmark
+305,390,1934,4725,1000,Shilling,Austria,Denmark
+305,390,1935,5207,1000,1000 Shilling,Austria,Denmark
+305,390,1936,5471,1000,1000 Shilling,Austria,Denmark
+305,390,1937,5804,1000,1000 Shilling,Austria,Denmark
+305,390,1947,25680,1000,1000 S,Austria,Denmark
+305,390,1948,25084,1000,,Austria,Denmark
+305,390,1949,51339,1000,1000 S,Austria,Denmark
+305,490,1922,0,1000,Goldkronen,Austria,"Congo, Dem. Republic"
+305,490,1923,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1924,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1925,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1926,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1927,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1928,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1929,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1930,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1931,0,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1932,606,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1933,845,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1934,1677,1000,Shilling,Austria,"Congo, Dem. Republic"
+305,490,1935,3650,1000,1000 Shilling,Austria,"Congo, Dem. Republic"
+305,490,1936,6280,1000,1000 Shilling,Austria,"Congo, Dem. Republic"
+305,490,1937,0,1000,1000 Shilling,Austria,"Congo, Dem. Republic"
+305,490,1947,152,1000,1000 S,Austria,"Congo, Dem. Republic"
+305,490,1948,0,1000,,Austria,"Congo, Dem. Republic"
+305,490,1949,1889,1000,1000 S,Austria,"Congo, Dem. Republic"
+305,530,1922,0,1000,Goldkronen,Austria,Ethiopia
+305,530,1923,0,1000,Shilling,Austria,Ethiopia
+305,530,1924,10,1000,Shilling,Austria,Ethiopia
+305,530,1925,14,1000,Shilling,Austria,Ethiopia
+305,530,1926,210,1000,Shilling,Austria,Ethiopia
+305,530,1927,21,1000,Shilling,Austria,Ethiopia
+305,530,1928,78,1000,Shilling,Austria,Ethiopia
+305,530,1929,7,1000,Shilling,Austria,Ethiopia
+305,530,1930,3,1000,Shilling,Austria,Ethiopia
+305,530,1931,18,1000,Shilling,Austria,Ethiopia
+305,530,1932,7,1000,Shilling,Austria,Ethiopia
+305,530,1933,12,1000,Shilling,Austria,Ethiopia
+305,530,1934,13,1000,Shilling,Austria,Ethiopia
+305,530,1935,94,1000,1000 Shilling,Austria,Ethiopia
+305,530,1936,41,1000,1000 Shilling,Austria,Ethiopia
+305,530,1937,0,1000,1000 Shilling,Austria,Ethiopia
+305,530,1947,0,1000,1000 S,Austria,Ethiopia
+305,530,1948,0,1000,,Austria,Ethiopia
+305,530,1949,93,1000,1000 S,Austria,Ethiopia
+305,560,1922,0,1000,Goldkronen,Austria,South Africa
+305,560,1923,0,1000,Shilling,Austria,South Africa
+305,560,1924,0,1000,Shilling,Austria,South Africa
+305,560,1925,0,1000,Shilling,Austria,South Africa
+305,560,1926,0,1000,Shilling,Austria,South Africa
+305,560,1927,0,1000,Shilling,Austria,South Africa
+305,560,1928,0,1000,Shilling,Austria,South Africa
+305,560,1929,0,1000,Shilling,Austria,South Africa
+305,560,1930,0,1000,Shilling,Austria,South Africa
+305,560,1931,0,1000,Shilling,Austria,South Africa
+305,560,1932,2841,1000,Shilling,Austria,South Africa
+305,560,1933,1513,1000,Shilling,Austria,South Africa
+305,560,1934,1151,1000,Shilling,Austria,South Africa
+305,560,1935,922,1000,1000 Shilling,Austria,South Africa
+305,560,1936,1379,1000,1000 Shilling,Austria,South Africa
+305,560,1937,0,1000,1000 Shilling,Austria,South Africa
+305,560,1947,2886,1000,1000 S,Austria,South Africa
+305,560,1948,0,1000,,Austria,South Africa
+305,560,1949,12372,1000,1000 S,Austria,South Africa
+305,573,1922,0,1000,Goldkronen,Austria,British South Africa
+305,573,1923,0,1000,Shilling,Austria,British South Africa
+305,573,1924,0,1000,Shilling,Austria,British South Africa
+305,573,1925,0,1000,Shilling,Austria,British South Africa
+305,573,1926,0,1000,Shilling,Austria,British South Africa
+305,573,1927,0,1000,Shilling,Austria,British South Africa
+305,573,1928,0,1000,Shilling,Austria,British South Africa
+305,573,1929,0,1000,Shilling,Austria,British South Africa
+305,573,1930,0,1000,Shilling,Austria,British South Africa
+305,573,1931,0,1000,Shilling,Austria,British South Africa
+305,573,1932,834,1000,Shilling,Austria,British South Africa
+305,573,1933,94,1000,Shilling,Austria,British South Africa
+305,573,1934,187,1000,Shilling,Austria,British South Africa
+305,573,1935,896,1000,1000 Shilling,Austria,British South Africa
+305,573,1936,328,1000,1000 Shilling,Austria,British South Africa
+305,573,1937,0,1000,1000 Shilling,Austria,British South Africa
+305,573,1947,2395,1000,1000 S,Austria,British South Africa
+305,573,1948,0,1000,,Austria,British South Africa
+305,573,1949,4612,1000,1000 S,Austria,British South Africa
+305,615,1922,0,1000,Goldkronen,Austria,Algeria
+305,615,1923,0,1000,Shilling,Austria,Algeria
+305,615,1924,0,1000,Shilling,Austria,Algeria
+305,615,1925,0,1000,Shilling,Austria,Algeria
+305,615,1926,0,1000,Shilling,Austria,Algeria
+305,615,1927,0,1000,Shilling,Austria,Algeria
+305,615,1928,0,1000,Shilling,Austria,Algeria
+305,615,1929,0,1000,Shilling,Austria,Algeria
+305,615,1930,0,1000,Shilling,Austria,Algeria
+305,615,1931,0,1000,Shilling,Austria,Algeria
+305,615,1932,1547,1000,Shilling,Austria,Algeria
+305,615,1933,1062,1000,Shilling,Austria,Algeria
+305,615,1934,891,1000,Shilling,Austria,Algeria
+305,615,1935,989,1000,1000 Shilling,Austria,Algeria
+305,615,1936,1228,1000,1000 Shilling,Austria,Algeria
+305,615,1937,0,1000,1000 Shilling,Austria,Algeria
+305,615,1947,576,1000,1000 S,Austria,Algeria
+305,615,1948,0,1000,,Austria,Algeria
+305,615,1949,2763,1000,1000 S,Austria,Algeria
+305,616,1922,0,1000,Goldkronen,Austria,Tunisia
+305,616,1923,0,1000,Shilling,Austria,Tunisia
+305,616,1924,0,1000,Shilling,Austria,Tunisia
+305,616,1925,0,1000,Shilling,Austria,Tunisia
+305,616,1926,0,1000,Shilling,Austria,Tunisia
+305,616,1927,0,1000,Shilling,Austria,Tunisia
+305,616,1928,0,1000,Shilling,Austria,Tunisia
+305,616,1929,0,1000,Shilling,Austria,Tunisia
+305,616,1930,0,1000,Shilling,Austria,Tunisia
+305,616,1931,0,1000,Shilling,Austria,Tunisia
+305,616,1932,121,1000,Shilling,Austria,Tunisia
+305,616,1933,9,1000,Shilling,Austria,Tunisia
+305,616,1934,73,1000,Shilling,Austria,Tunisia
+305,616,1935,151,1000,1000 Shilling,Austria,Tunisia
+305,616,1936,208,1000,1000 Shilling,Austria,Tunisia
+305,616,1937,0,1000,1000 Shilling,Austria,Tunisia
+305,616,1947,0,1000,1000 S,Austria,Tunisia
+305,616,1948,0,1000,,Austria,Tunisia
+305,616,1949,421,1000,1000 S,Austria,Tunisia
+305,620,1922,0,1000,Goldkronen,Austria,Libya
+305,620,1923,0,1000,Shilling,Austria,Libya
+305,620,1924,0,1000,Shilling,Austria,Libya
+305,620,1925,0,1000,Shilling,Austria,Libya
+305,620,1926,0,1000,Shilling,Austria,Libya
+305,620,1927,0,1000,Shilling,Austria,Libya
+305,620,1928,0,1000,Shilling,Austria,Libya
+305,620,1929,0,1000,Shilling,Austria,Libya
+305,620,1930,0,1000,Shilling,Austria,Libya
+305,620,1931,0,1000,Shilling,Austria,Libya
+305,620,1932,8,1000,Shilling,Austria,Libya
+305,620,1933,0,1000,Shilling,Austria,Libya
+305,620,1934,0,1000,Shilling,Austria,Libya
+305,620,1935,4,1000,1000 Shilling,Austria,Libya
+305,620,1936,5,1000,1000 Shilling,Austria,Libya
+305,620,1937,0,1000,1000 Shilling,Austria,Libya
+305,620,1947,0,1000,1000 S,Austria,Libya
+305,620,1948,0,1000,,Austria,Libya
+305,620,1949,201,1000,1000 S,Austria,Libya
+305,625,1922,0,1000,Goldkronen,Austria,Sudan
+305,625,1923,0,1000,Shilling,Austria,Sudan
+305,625,1924,0,1000,Shilling,Austria,Sudan
+305,625,1925,0,1000,Shilling,Austria,Sudan
+305,625,1926,0,1000,Shilling,Austria,Sudan
+305,625,1927,0,1000,Shilling,Austria,Sudan
+305,625,1928,0,1000,Shilling,Austria,Sudan
+305,625,1929,0,1000,Shilling,Austria,Sudan
+305,625,1930,0,1000,Shilling,Austria,Sudan
+305,625,1931,0,1000,Shilling,Austria,Sudan
+305,625,1932,148,1000,Shilling,Austria,Sudan
+305,625,1933,939,1000,Shilling,Austria,Sudan
+305,625,1934,1526,1000,Shilling,Austria,Sudan
+305,625,1935,222,1000,1000 Shilling,Austria,Sudan
+305,625,1936,319,1000,1000 Shilling,Austria,Sudan
+305,625,1937,0,1000,1000 Shilling,Austria,Sudan
+305,625,1947,0,1000,1000 S,Austria,Sudan
+305,625,1948,0,1000,,Austria,Sudan
+305,625,1949,876,1000,1000 S,Austria,Sudan
+305,630,1922,209,1000,Goldkronen,Austria,Iran
+305,630,1923,1066,1000,Shilling,Austria,Iran
+305,630,1924,2873,1000,Shilling,Austria,Iran
+305,630,1925,1769,1000,Shilling,Austria,Iran
+305,630,1926,1587,1000,Shilling,Austria,Iran
+305,630,1927,1086,1000,Shilling,Austria,Iran
+305,630,1928,1275,1000,Shilling,Austria,Iran
+305,630,1929,1832,1000,Shilling,Austria,Iran
+305,630,1930,1800,1000,Shilling,Austria,Iran
+305,630,1931,2814,1000,Shilling,Austria,Iran
+305,630,1932,2507,1000,Shilling,Austria,Iran
+305,630,1933,1525,1000,Shilling,Austria,Iran
+305,630,1934,1820,1000,Shilling,Austria,Iran
+305,630,1935,2522,1000,1000 Shilling,Austria,Iran
+305,630,1936,2836,1000,1000 Shilling,Austria,Iran
+305,630,1937,4608,1000,1000 Shilling,Austria,Iran
+305,630,1947,597,1000,1000 S,Austria,Iran
+305,630,1948,1080,1000,,Austria,Iran
+305,630,1949,8794,1000,1000 S,Austria,Iran
+305,640,1922,7763,1000,Goldkronen,Austria,Turkey
+305,640,1923,14905,1000,Shilling,Austria,Turkey
+305,640,1924,24657,1000,Shilling,Austria,Turkey
+305,640,1925,6283,1000,Shilling,Austria,Turkey
+305,640,1926,25468,1000,Shilling,Austria,Turkey
+305,640,1927,16382,1000,Shilling,Austria,Turkey
+305,640,1928,22941,1000,Shilling,Austria,Turkey
+305,640,1929,19039,1000,Shilling,Austria,Turkey
+305,640,1930,17770,1000,Shilling,Austria,Turkey
+305,640,1931,19170,1000,Shilling,Austria,Turkey
+305,640,1932,13634,1000,Shilling,Austria,Turkey
+305,640,1933,7369,1000,Shilling,Austria,Turkey
+305,640,1934,9949,1000,Shilling,Austria,Turkey
+305,640,1935,9180,1000,1000 Shilling,Austria,Turkey
+305,640,1936,9180,1000,1000 Shilling,Austria,Turkey
+305,640,1937,12063,1000,1000 Shilling,Austria,Turkey
+305,640,1947,9507,1000,1000 S,Austria,Turkey
+305,640,1948,21572,1000,,Austria,Turkey
+305,640,1949,62017,1000,1000 S,Austria,Turkey
+305,645,1922,0,1000,Goldkronen,Austria,Iraq
+305,645,1923,0,1000,Shilling,Austria,Iraq
+305,645,1924,0,1000,Shilling,Austria,Iraq
+305,645,1925,0,1000,Shilling,Austria,Iraq
+305,645,1926,9,1000,Shilling,Austria,Iraq
+305,645,1927,0,1000,Shilling,Austria,Iraq
+305,645,1928,17,1000,Shilling,Austria,Iraq
+305,645,1929,16,1000,Shilling,Austria,Iraq
+305,645,1930,8,1000,Shilling,Austria,Iraq
+305,645,1931,11,1000,Shilling,Austria,Iraq
+305,645,1932,13,1000,Shilling,Austria,Iraq
+305,645,1933,11,1000,Shilling,Austria,Iraq
+305,645,1934,44,1000,Shilling,Austria,Iraq
+305,645,1935,175,1000,1000 Shilling,Austria,Iraq
+305,645,1936,165,1000,1000 Shilling,Austria,Iraq
+305,645,1937,41,1000,1000 Shilling,Austria,Iraq
+305,645,1947,0,1000,1000 S,Austria,Iraq
+305,645,1948,1006,1000,,Austria,Iraq
+305,645,1949,720,1000,1000 S,Austria,Iraq
+305,651,1922,1605,1000,Goldkronen,Austria,Egypt
+305,651,1923,4743,1000,Shilling,Austria,Egypt
+305,651,1924,4934,1000,Shilling,Austria,Egypt
+305,651,1925,3731,1000,Shilling,Austria,Egypt
+305,651,1926,3483,1000,Shilling,Austria,Egypt
+305,651,1927,6415,1000,Shilling,Austria,Egypt
+305,651,1928,7438,1000,Shilling,Austria,Egypt
+305,651,1929,6234,1000,Shilling,Austria,Egypt
+305,651,1930,6755,1000,Shilling,Austria,Egypt
+305,651,1931,9169,1000,Shilling,Austria,Egypt
+305,651,1932,4007,1000,Shilling,Austria,Egypt
+305,651,1933,5943,1000,Shilling,Austria,Egypt
+305,651,1934,9589,1000,Shilling,Austria,Egypt
+305,651,1935,12540,1000,1000 Shilling,Austria,Egypt
+305,651,1936,15185,1000,1000 Shilling,Austria,Egypt
+305,651,1937,17999,1000,1000 Shilling,Austria,Egypt
+305,651,1947,13503,1000,1000 S,Austria,Egypt
+305,651,1948,32668,1000,,Austria,Egypt
+305,651,1949,60105,1000,1000 S,Austria,Egypt
+305,652,1922,3,1000,Goldkronen,Austria,Syria
+305,652,1923,59,1000,Shilling,Austria,Syria
+305,652,1924,128,1000,Shilling,Austria,Syria
+305,652,1925,39,1000,Shilling,Austria,Syria
+305,652,1926,186,1000,Shilling,Austria,Syria
+305,652,1927,129,1000,Shilling,Austria,Syria
+305,652,1928,72,1000,Shilling,Austria,Syria
+305,652,1929,139,1000,Shilling,Austria,Syria
+305,652,1930,112,1000,Shilling,Austria,Syria
+305,652,1931,54,1000,Shilling,Austria,Syria
+305,652,1932,753,1000,Shilling,Austria,Syria
+305,652,1933,398,1000,Shilling,Austria,Syria
+305,652,1934,874,1000,Shilling,Austria,Syria
+305,652,1935,1420,1000,1000 Shilling,Austria,Syria
+305,652,1936,1253,1000,1000 Shilling,Austria,Syria
+305,652,1937,2016,1000,1000 Shilling,Austria,Syria
+305,652,1947,58,1000,1000 S,Austria,Syria
+305,652,1948,349,1000,,Austria,Syria
+305,652,1949,2698,1000,1000 S,Austria,Syria
+305,660,1922,0,1000,Goldkronen,Austria,Lebanon
+305,660,1923,0,1000,Shilling,Austria,Lebanon
+305,660,1924,0,1000,Shilling,Austria,Lebanon
+305,660,1925,0,1000,Shilling,Austria,Lebanon
+305,660,1926,0,1000,Shilling,Austria,Lebanon
+305,660,1927,0,1000,Shilling,Austria,Lebanon
+305,660,1928,0,1000,Shilling,Austria,Lebanon
+305,660,1929,0,1000,Shilling,Austria,Lebanon
+305,660,1930,0,1000,Shilling,Austria,Lebanon
+305,660,1931,0,1000,Shilling,Austria,Lebanon
+305,660,1932,0,1000,Shilling,Austria,Lebanon
+305,660,1933,0,1000,Shilling,Austria,Lebanon
+305,660,1934,0,1000,Shilling,Austria,Lebanon
+305,660,1935,0,1000,1000 Shilling,Austria,Lebanon
+305,660,1936,0,1000,1000 Shilling,Austria,Lebanon
+305,660,1937,0,1000,1000 Shilling,Austria,Lebanon
+305,660,1947,6,1000,1000 S,Austria,Lebanon
+305,660,1948,0,1000,,Austria,Lebanon
+305,660,1949,4022,1000,1000 S,Austria,Lebanon
+305,665,1922,0,1000,Goldkronen,Austria,West Bank And Gaza
+305,665,1923,34,1000,Shilling,Austria,West Bank And Gaza
+305,665,1924,40,1000,Shilling,Austria,West Bank And Gaza
+305,665,1925,17,1000,Shilling,Austria,West Bank And Gaza
+305,665,1926,29,1000,Shilling,Austria,West Bank And Gaza
+305,665,1927,25,1000,Shilling,Austria,West Bank And Gaza
+305,665,1928,758,1000,Shilling,Austria,West Bank And Gaza
+305,665,1929,1238,1000,Shilling,Austria,West Bank And Gaza
+305,665,1930,375,1000,Shilling,Austria,West Bank And Gaza
+305,665,1931,988,1000,Shilling,Austria,West Bank And Gaza
+305,665,1932,232,1000,Shilling,Austria,West Bank And Gaza
+305,665,1933,119,1000,Shilling,Austria,West Bank And Gaza
+305,665,1934,225,1000,Shilling,Austria,West Bank And Gaza
+305,665,1935,768,1000,1000 Shilling,Austria,West Bank And Gaza
+305,665,1936,661,1000,1000 Shilling,Austria,West Bank And Gaza
+305,665,1937,1102,1000,1000 Shilling,Austria,West Bank And Gaza
+305,665,1947,6,1000,1000 S,Austria,West Bank And Gaza
+305,665,1948,491,1000,,Austria,West Bank And Gaza
+305,665,1949,8400,1000,1000 S,Austria,West Bank And Gaza
+305,670,1922,0,1000,Goldkronen,Austria,Saudi Arabia
+305,670,1923,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1924,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1925,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1926,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1927,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1928,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1929,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1930,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1931,0,1000,Shilling,Austria,Saudi Arabia
+305,670,1932,75,1000,Shilling,Austria,Saudi Arabia
+305,670,1933,63,1000,Shilling,Austria,Saudi Arabia
+305,670,1934,48,1000,Shilling,Austria,Saudi Arabia
+305,670,1935,34,1000,1000 Shilling,Austria,Saudi Arabia
+305,670,1936,39,1000,1000 Shilling,Austria,Saudi Arabia
+305,670,1937,0,1000,1000 Shilling,Austria,Saudi Arabia
+305,670,1947,0,1000,1000 S,Austria,Saudi Arabia
+305,670,1948,0,1000,,Austria,Saudi Arabia
+305,670,1949,0,1000,1000 S,Austria,Saudi Arabia
+305,675,1922,0,1000,Goldkronen,Austria,Arabia
+305,675,1923,0,1000,Shilling,Austria,Arabia
+305,675,1924,0,1000,Shilling,Austria,Arabia
+305,675,1925,0,1000,Shilling,Austria,Arabia
+305,675,1926,7,1000,Shilling,Austria,Arabia
+305,675,1927,26,1000,Shilling,Austria,Arabia
+305,675,1928,50,1000,Shilling,Austria,Arabia
+305,675,1929,43,1000,Shilling,Austria,Arabia
+305,675,1930,65,1000,Shilling,Austria,Arabia
+305,675,1931,42,1000,Shilling,Austria,Arabia
+305,675,1932,0,1000,Shilling,Austria,Arabia
+305,675,1933,0,1000,Shilling,Austria,Arabia
+305,675,1934,0,1000,Shilling,Austria,Arabia
+305,675,1935,0,1000,1000 Shilling,Austria,Arabia
+305,675,1936,0,1000,1000 Shilling,Austria,Arabia
+305,675,1937,0,1000,1000 Shilling,Austria,Arabia
+305,675,1947,0,1000,1000 S,Austria,Arabia
+305,675,1948,0,1000,,Austria,Arabia
+305,675,1949,0,1000,1000 S,Austria,Arabia
+305,700,1922,0,1000,Goldkronen,Austria,Afghanistan
+305,700,1923,0,1000,Shilling,Austria,Afghanistan
+305,700,1924,0,1000,Shilling,Austria,Afghanistan
+305,700,1925,0,1000,Shilling,Austria,Afghanistan
+305,700,1926,0,1000,Shilling,Austria,Afghanistan
+305,700,1927,0,1000,Shilling,Austria,Afghanistan
+305,700,1928,0,1000,Shilling,Austria,Afghanistan
+305,700,1929,1,1000,Shilling,Austria,Afghanistan
+305,700,1930,0,1000,Shilling,Austria,Afghanistan
+305,700,1931,0,1000,Shilling,Austria,Afghanistan
+305,700,1932,0,1000,Shilling,Austria,Afghanistan
+305,700,1933,0,1000,Shilling,Austria,Afghanistan
+305,700,1934,0,1000,Shilling,Austria,Afghanistan
+305,700,1935,0,1000,1000 Shilling,Austria,Afghanistan
+305,700,1936,0,1000,1000 Shilling,Austria,Afghanistan
+305,700,1937,0,1000,1000 Shilling,Austria,Afghanistan
+305,700,1947,0,1000,1000 S,Austria,Afghanistan
+305,700,1948,0,1000,,Austria,Afghanistan
+305,700,1949,0,1000,1000 S,Austria,Afghanistan
+305,710,1922,1547,1000,Goldkronen,Austria,China
+305,710,1923,2979,1000,Shilling,Austria,China
+305,710,1924,4978,1000,Shilling,Austria,China
+305,710,1925,4198,1000,Shilling,Austria,China
+305,710,1926,6028,1000,Shilling,Austria,China
+305,710,1927,6059,1000,Shilling,Austria,China
+305,710,1928,8511,1000,Shilling,Austria,China
+305,710,1929,7876,1000,Shilling,Austria,China
+305,710,1930,6545,1000,Shilling,Austria,China
+305,710,1931,4930,1000,Shilling,Austria,China
+305,710,1932,2793,1000,Shilling,Austria,China
+305,710,1933,2845,1000,Shilling,Austria,China
+305,710,1934,3826,1000,Shilling,Austria,China
+305,710,1935,5996,1000,1000 Shilling,Austria,China
+305,710,1936,10417,1000,1000 Shilling,Austria,China
+305,710,1937,10981,1000,1000 Shilling,Austria,China
+305,710,1947,1044,1000,1000 S,Austria,China
+305,710,1948,1705,1000,,Austria,China
+305,710,1949,2042,1000,1000 S,Austria,China
+305,740,1922,729,1000,Goldkronen,Austria,Japan
+305,740,1923,603,1000,Shilling,Austria,Japan
+305,740,1924,479,1000,Shilling,Austria,Japan
+305,740,1925,790,1000,Shilling,Austria,Japan
+305,740,1926,1004,1000,Shilling,Austria,Japan
+305,740,1927,1481,1000,Shilling,Austria,Japan
+305,740,1928,1928,1000,Shilling,Austria,Japan
+305,740,1929,2772,1000,Shilling,Austria,Japan
+305,740,1930,2250,1000,Shilling,Austria,Japan
+305,740,1931,2173,1000,Shilling,Austria,Japan
+305,740,1932,1487,1000,Shilling,Austria,Japan
+305,740,1933,1615,1000,Shilling,Austria,Japan
+305,740,1934,4822,1000,Shilling,Austria,Japan
+305,740,1935,6340,1000,1000 Shilling,Austria,Japan
+305,740,1936,7507,1000,1000 Shilling,Austria,Japan
+305,740,1937,11155,1000,1000 Shilling,Austria,Japan
+305,740,1947,2,1000,1000 S,Austria,Japan
+305,740,1948,332,1000,,Austria,Japan
+305,740,1949,1602,1000,1000 S,Austria,Japan
+305,750,1922,21439,1000,Goldkronen,Austria,India
+305,750,1923,45848,1000,Shilling,Austria,India
+305,750,1924,68793,1000,Shilling,Austria,India
+305,750,1925,65928,1000,Shilling,Austria,India
+305,750,1926,45914,1000,Shilling,Austria,India
+305,750,1927,41577,1000,Shilling,Austria,India
+305,750,1928,50984,1000,Shilling,Austria,India
+305,750,1929,44472,1000,Shilling,Austria,India
+305,750,1930,33764,1000,Shilling,Austria,India
+305,750,1931,20699,1000,Shilling,Austria,India
+305,750,1932,9272,1000,Shilling,Austria,India
+305,750,1933,12698,1000,Shilling,Austria,India
+305,750,1934,15707,1000,Shilling,Austria,India
+305,750,1935,18095,1000,1000 Shilling,Austria,India
+305,750,1936,16115,1000,1000 Shilling,Austria,India
+305,750,1937,23340,1000,1000 Shilling,Austria,India
+305,750,1947,9533,1000,1000 S,Austria,India
+305,750,1948,46251,1000,,Austria,India
+305,750,1949,38946,1000,1000 S,Austria,India
+305,770,1922,0,1000,Goldkronen,Austria,Pakistan
+305,770,1923,0,1000,Shilling,Austria,Pakistan
+305,770,1924,0,1000,Shilling,Austria,Pakistan
+305,770,1925,0,1000,Shilling,Austria,Pakistan
+305,770,1926,0,1000,Shilling,Austria,Pakistan
+305,770,1927,0,1000,Shilling,Austria,Pakistan
+305,770,1928,0,1000,Shilling,Austria,Pakistan
+305,770,1929,0,1000,Shilling,Austria,Pakistan
+305,770,1930,0,1000,Shilling,Austria,Pakistan
+305,770,1931,0,1000,Shilling,Austria,Pakistan
+305,770,1932,0,1000,Shilling,Austria,Pakistan
+305,770,1933,0,1000,Shilling,Austria,Pakistan
+305,770,1934,0,1000,Shilling,Austria,Pakistan
+305,770,1935,0,1000,1000 Shilling,Austria,Pakistan
+305,770,1936,0,1000,1000 Shilling,Austria,Pakistan
+305,770,1937,0,1000,1000 Shilling,Austria,Pakistan
+305,770,1947,0,1000,1000 S,Austria,Pakistan
+305,770,1948,0,1000,,Austria,Pakistan
+305,770,1949,22679,1000,1000 S,Austria,Pakistan
+305,775,1922,0,1000,Goldkronen,Austria,Myanmar
+305,775,1923,0,1000,Shilling,Austria,Myanmar
+305,775,1924,0,1000,Shilling,Austria,Myanmar
+305,775,1925,0,1000,Shilling,Austria,Myanmar
+305,775,1926,0,1000,Shilling,Austria,Myanmar
+305,775,1927,0,1000,Shilling,Austria,Myanmar
+305,775,1928,0,1000,Shilling,Austria,Myanmar
+305,775,1929,0,1000,Shilling,Austria,Myanmar
+305,775,1930,0,1000,Shilling,Austria,Myanmar
+305,775,1931,0,1000,Shilling,Austria,Myanmar
+305,775,1932,0,1000,Shilling,Austria,Myanmar
+305,775,1933,0,1000,Shilling,Austria,Myanmar
+305,775,1934,0,1000,Shilling,Austria,Myanmar
+305,775,1935,0,1000,1000 Shilling,Austria,Myanmar
+305,775,1936,0,1000,1000 Shilling,Austria,Myanmar
+305,775,1937,0,1000,1000 Shilling,Austria,Myanmar
+305,775,1947,0,1000,1000 S,Austria,Myanmar
+305,775,1948,0,1000,,Austria,Myanmar
+305,775,1949,38,1000,1000 S,Austria,Myanmar
+305,780,1922,0,1000,Goldkronen,Austria,Sri Lanka
+305,780,1923,0,1000,Shilling,Austria,Sri Lanka
+305,780,1924,0,1000,Shilling,Austria,Sri Lanka
+305,780,1925,0,1000,Shilling,Austria,Sri Lanka
+305,780,1926,0,1000,Shilling,Austria,Sri Lanka
+305,780,1927,0,1000,Shilling,Austria,Sri Lanka
+305,780,1928,0,1000,Shilling,Austria,Sri Lanka
+305,780,1929,0,1000,Shilling,Austria,Sri Lanka
+305,780,1930,0,1000,Shilling,Austria,Sri Lanka
+305,780,1931,0,1000,Shilling,Austria,Sri Lanka
+305,780,1932,2631,1000,Shilling,Austria,Sri Lanka
+305,780,1933,2235,1000,Shilling,Austria,Sri Lanka
+305,780,1934,3394,1000,Shilling,Austria,Sri Lanka
+305,780,1935,2426,1000,1000 Shilling,Austria,Sri Lanka
+305,780,1936,2004,1000,1000 Shilling,Austria,Sri Lanka
+305,780,1937,4413,1000,1000 Shilling,Austria,Sri Lanka
+305,780,1947,122,1000,1000 S,Austria,Sri Lanka
+305,780,1948,96,1000,,Austria,Sri Lanka
+305,780,1949,5313,1000,1000 S,Austria,Sri Lanka
+305,800,1922,0,1000,Goldkronen,Austria,Thailand
+305,800,1923,0,1000,Shilling,Austria,Thailand
+305,800,1924,0,1000,Shilling,Austria,Thailand
+305,800,1925,0,1000,Shilling,Austria,Thailand
+305,800,1926,77,1000,Shilling,Austria,Thailand
+305,800,1927,55,1000,Shilling,Austria,Thailand
+305,800,1928,202,1000,Shilling,Austria,Thailand
+305,800,1929,329,1000,Shilling,Austria,Thailand
+305,800,1930,141,1000,Shilling,Austria,Thailand
+305,800,1931,8,1000,Shilling,Austria,Thailand
+305,800,1932,9,1000,Shilling,Austria,Thailand
+305,800,1933,202,1000,Shilling,Austria,Thailand
+305,800,1934,505,1000,Shilling,Austria,Thailand
+305,800,1935,785,1000,1000 Shilling,Austria,Thailand
+305,800,1936,337,1000,1000 Shilling,Austria,Thailand
+305,800,1937,0,1000,1000 Shilling,Austria,Thailand
+305,800,1947,136,1000,1000 S,Austria,Thailand
+305,800,1948,0,1000,,Austria,Thailand
+305,800,1949,768,1000,1000 S,Austria,Thailand
+305,810,1922,0,1000,Goldkronen,Austria,French Indo-China
+305,810,1923,0,1000,Shilling,Austria,French Indo-China
+305,810,1924,0,1000,Shilling,Austria,French Indo-China
+305,810,1925,0,1000,Shilling,Austria,French Indo-China
+305,810,1926,2,1000,Shilling,Austria,French Indo-China
+305,810,1927,0,1000,Shilling,Austria,French Indo-China
+305,810,1928,44,1000,Shilling,Austria,French Indo-China
+305,810,1929,38,1000,Shilling,Austria,French Indo-China
+305,810,1930,5,1000,Shilling,Austria,French Indo-China
+305,810,1931,13,1000,Shilling,Austria,French Indo-China
+305,810,1932,0,1000,Shilling,Austria,French Indo-China
+305,810,1933,0,1000,Shilling,Austria,French Indo-China
+305,810,1934,0,1000,Shilling,Austria,French Indo-China
+305,810,1935,0,1000,1000 Shilling,Austria,French Indo-China
+305,810,1936,0,1000,1000 Shilling,Austria,French Indo-China
+305,810,1937,0,1000,1000 Shilling,Austria,French Indo-China
+305,810,1947,0,1000,1000 S,Austria,French Indo-China
+305,810,1948,0,1000,,Austria,French Indo-China
+305,810,1949,0,1000,1000 S,Austria,French Indo-China
+305,827,1922,0,1000,Goldkronen,Austria,Straits Settlement
+305,827,1923,3013,1000,Shilling,Austria,Straits Settlement
+305,827,1924,2189,1000,Shilling,Austria,Straits Settlement
+305,827,1925,650,1000,Shilling,Austria,Straits Settlement
+305,827,1926,1615,1000,Shilling,Austria,Straits Settlement
+305,827,1927,3397,1000,Shilling,Austria,Straits Settlement
+305,827,1928,2285,1000,Shilling,Austria,Straits Settlement
+305,827,1929,4151,1000,Shilling,Austria,Straits Settlement
+305,827,1930,2978,1000,Shilling,Austria,Straits Settlement
+305,827,1931,2360,1000,Shilling,Austria,Straits Settlement
+305,827,1932,2942,1000,Shilling,Austria,Straits Settlement
+305,827,1933,0,1000,Shilling,Austria,Straits Settlement
+305,827,1934,2201,1000,Shilling,Austria,Straits Settlement
+305,827,1935,2368,1000,1000 Shilling,Austria,Straits Settlement
+305,827,1936,2608,1000,1000 Shilling,Austria,Straits Settlement
+305,827,1937,0,1000,1000 Shilling,Austria,Straits Settlement
+305,827,1947,0,1000,1000 S,Austria,Straits Settlement
+305,827,1948,0,1000,,Austria,Straits Settlement
+305,827,1949,0,1000,1000 S,Austria,Straits Settlement
+305,840,1922,2,1000,Goldkronen,Austria,Philippines
+305,840,1923,1577,1000,Shilling,Austria,Philippines
+305,840,1924,104,1000,Shilling,Austria,Philippines
+305,840,1925,83,1000,Shilling,Austria,Philippines
+305,840,1926,34,1000,Shilling,Austria,Philippines
+305,840,1927,15,1000,Shilling,Austria,Philippines
+305,840,1928,28,1000,Shilling,Austria,Philippines
+305,840,1929,20,1000,Shilling,Austria,Philippines
+305,840,1930,10,1000,Shilling,Austria,Philippines
+305,840,1931,154,1000,Shilling,Austria,Philippines
+305,840,1932,22,1000,Shilling,Austria,Philippines
+305,840,1933,550,1000,Shilling,Austria,Philippines
+305,840,1934,39,1000,Shilling,Austria,Philippines
+305,840,1935,469,1000,1000 Shilling,Austria,Philippines
+305,840,1936,571,1000,1000 Shilling,Austria,Philippines
+305,840,1937,49,1000,1000 Shilling,Austria,Philippines
+305,840,1947,17648,1000,1000 S,Austria,Philippines
+305,840,1948,0,1000,,Austria,Philippines
+305,840,1949,68161,1000,1000 S,Austria,Philippines
+305,850,1922,10327,1000,Goldkronen,Austria,Indonesia
+305,850,1923,10909,1000,Shilling,Austria,Indonesia
+305,850,1924,21785,1000,Shilling,Austria,Indonesia
+305,850,1925,19347,1000,Shilling,Austria,Indonesia
+305,850,1926,19310,1000,Shilling,Austria,Indonesia
+305,850,1927,24684,1000,Shilling,Austria,Indonesia
+305,850,1928,19769,1000,Shilling,Austria,Indonesia
+305,850,1929,21026,1000,Shilling,Austria,Indonesia
+305,850,1930,17282,1000,Shilling,Austria,Indonesia
+305,850,1931,8763,1000,Shilling,Austria,Indonesia
+305,850,1932,5824,1000,Shilling,Austria,Indonesia
+305,850,1933,8363,1000,Shilling,Austria,Indonesia
+305,850,1934,9908,1000,Shilling,Austria,Indonesia
+305,850,1935,13359,1000,1000 Shilling,Austria,Indonesia
+305,850,1936,13730,1000,1000 Shilling,Austria,Indonesia
+305,850,1937,18084,1000,1000 Shilling,Austria,Indonesia
+305,850,1947,246,1000,1000 S,Austria,Indonesia
+305,850,1948,529,1000,,Austria,Indonesia
+305,850,1949,16714,1000,1000 S,Austria,Indonesia
+305,900,1922,14569,1000,Goldkronen,Austria,Australia
+305,900,1923,18854,1000,Shilling,Austria,Australia
+305,900,1924,23220,1000,Shilling,Austria,Australia
+305,900,1925,19947,1000,Shilling,Austria,Australia
+305,900,1926,18396,1000,Shilling,Austria,Australia
+305,900,1927,19406,1000,Shilling,Austria,Australia
+305,900,1928,23140,1000,Shilling,Austria,Australia
+305,900,1929,27322,1000,Shilling,Austria,Australia
+305,900,1930,17258,1000,Shilling,Austria,Australia
+305,900,1931,9339,1000,Shilling,Austria,Australia
+305,900,1932,10795,1000,Shilling,Austria,Australia
+305,900,1933,19548,1000,Shilling,Austria,Australia
+305,900,1934,15262,1000,Shilling,Austria,Australia
+305,900,1935,19543,1000,1000 Shilling,Austria,Australia
+305,900,1936,21214,1000,1000 Shilling,Austria,Australia
+305,900,1937,0,1000,1000 Shilling,Austria,Australia
+305,900,1947,2122,1000,1000 S,Austria,Australia
+305,900,1948,0,1000,,Austria,Australia
+305,900,1949,36156,1000,1000 S,Austria,Australia
+305,920,1922,0,1000,Goldkronen,Austria,New Zealand
+305,920,1923,0,1000,Shilling,Austria,New Zealand
+305,920,1924,0,1000,Shilling,Austria,New Zealand
+305,920,1925,0,1000,Shilling,Austria,New Zealand
+305,920,1926,363,1000,Shilling,Austria,New Zealand
+305,920,1927,1591,1000,Shilling,Austria,New Zealand
+305,920,1928,644,1000,Shilling,Austria,New Zealand
+305,920,1929,1032,1000,Shilling,Austria,New Zealand
+305,920,1930,589,1000,Shilling,Austria,New Zealand
+305,920,1931,810,1000,Shilling,Austria,New Zealand
+305,920,1932,590,1000,Shilling,Austria,New Zealand
+305,920,1933,231,1000,Shilling,Austria,New Zealand
+305,920,1934,406,1000,Shilling,Austria,New Zealand
+305,920,1935,692,1000,1000 Shilling,Austria,New Zealand
+305,920,1936,1285,1000,1000 Shilling,Austria,New Zealand
+305,920,1937,0,1000,1000 Shilling,Austria,New Zealand
+305,920,1947,2193,1000,1000 S,Austria,New Zealand
+305,920,1948,0,1000,,Austria,New Zealand
+305,920,1949,15856,1000,1000 S,Austria,New Zealand
+305,1050,1922,327,1000,Goldkronen,Austria,British West Indies
+305,1050,1923,278,1000,Shilling,Austria,British West Indies
+305,1050,1924,266,1000,Shilling,Austria,British West Indies
+305,1050,1925,412,1000,Shilling,Austria,British West Indies
+305,1050,1926,1016,1000,Shilling,Austria,British West Indies
+305,1050,1927,2450,1000,Shilling,Austria,British West Indies
+305,1050,1928,5351,1000,Shilling,Austria,British West Indies
+305,1050,1929,4897,1000,Shilling,Austria,British West Indies
+305,1050,1930,4596,1000,Shilling,Austria,British West Indies
+305,1050,1931,3626,1000,Shilling,Austria,British West Indies
+305,1050,1932,897,1000,Shilling,Austria,British West Indies
+305,1050,1933,561,1000,Shilling,Austria,British West Indies
+305,1050,1934,555,1000,Shilling,Austria,British West Indies
+305,1050,1935,669,1000,1000 Shilling,Austria,British West Indies
+305,1050,1936,828,1000,1000 Shilling,Austria,British West Indies
+305,1050,1937,0,1000,1000 Shilling,Austria,British West Indies
+305,1050,1947,0,1000,1000 S,Austria,British West Indies
+305,1050,1948,0,1000,,Austria,British West Indies
+305,1050,1949,1247,1000,1000 S,Austria,British West Indies
+305,1060,1922,0,1000,Goldkronen,Austria,French West Indies
+305,1060,1923,0,1000,Shilling,Austria,French West Indies
+305,1060,1924,0,1000,Shilling,Austria,French West Indies
+305,1060,1925,0,1000,Shilling,Austria,French West Indies
+305,1060,1926,1,1000,Shilling,Austria,French West Indies
+305,1060,1927,0,1000,Shilling,Austria,French West Indies
+305,1060,1928,0,1000,Shilling,Austria,French West Indies
+305,1060,1929,0,1000,Shilling,Austria,French West Indies
+305,1060,1930,0,1000,Shilling,Austria,French West Indies
+305,1060,1931,0,1000,Shilling,Austria,French West Indies
+305,1060,1932,0,1000,Shilling,Austria,French West Indies
+305,1060,1933,0,1000,Shilling,Austria,French West Indies
+305,1060,1934,0,1000,Shilling,Austria,French West Indies
+305,1060,1935,0,1000,1000 Shilling,Austria,French West Indies
+305,1060,1936,0,1000,1000 Shilling,Austria,French West Indies
+305,1060,1937,0,1000,1000 Shilling,Austria,French West Indies
+305,1060,1947,0,1000,1000 S,Austria,French West Indies
+305,1060,1948,0,1000,,Austria,French West Indies
+305,1060,1949,0,1000,1000 S,Austria,French West Indies
+305,2005,1922,3116,1000,Goldkronen,Austria,British Africa
+305,2005,1923,4214,1000,Shilling,Austria,British Africa
+305,2005,1924,3758,1000,Shilling,Austria,British Africa
+305,2005,1925,6398,1000,Shilling,Austria,British Africa
+305,2005,1926,4308,1000,Shilling,Austria,British Africa
+305,2005,1927,37747,1000,Shilling,Austria,British Africa
+305,2005,1928,14102,1000,Shilling,Austria,British Africa
+305,2005,1929,18998,1000,Shilling,Austria,British Africa
+305,2005,1930,11859,1000,Shilling,Austria,British Africa
+305,2005,1931,9618,1000,Shilling,Austria,British Africa
+305,2005,1932,0,1000,Shilling,Austria,British Africa
+305,2005,1933,0,1000,Shilling,Austria,British Africa
+305,2005,1934,0,1000,Shilling,Austria,British Africa
+305,2005,1935,0,1000,1000 Shilling,Austria,British Africa
+305,2005,1936,0,1000,1000 Shilling,Austria,British Africa
+305,2005,1937,0,1000,1000 Shilling,Austria,British Africa
+305,2005,1947,0,1000,1000 S,Austria,British Africa
+305,2005,1948,0,1000,,Austria,British Africa
+305,2005,1949,0,1000,1000 S,Austria,British Africa
+305,2115,1922,26,1000,Goldkronen,Austria,Belgian Africa
+305,2115,1923,222,1000,Shilling,Austria,Belgian Africa
+305,2115,1924,428,1000,Shilling,Austria,Belgian Africa
+305,2115,1925,303,1000,Shilling,Austria,Belgian Africa
+305,2115,1926,231,1000,Shilling,Austria,Belgian Africa
+305,2115,1927,349,1000,Shilling,Austria,Belgian Africa
+305,2115,1928,394,1000,Shilling,Austria,Belgian Africa
+305,2115,1929,232,1000,Shilling,Austria,Belgian Africa
+305,2115,1930,224,1000,Shilling,Austria,Belgian Africa
+305,2115,1931,408,1000,Shilling,Austria,Belgian Africa
+305,2115,1932,0,1000,Shilling,Austria,Belgian Africa
+305,2115,1933,0,1000,Shilling,Austria,Belgian Africa
+305,2115,1934,0,1000,Shilling,Austria,Belgian Africa
+305,2115,1935,0,1000,1000 Shilling,Austria,Belgian Africa
+305,2115,1936,0,1000,1000 Shilling,Austria,Belgian Africa
+305,2115,1937,0,1000,1000 Shilling,Austria,Belgian Africa
+305,2115,1947,0,1000,1000 S,Austria,Belgian Africa
+305,2115,1948,0,1000,,Austria,Belgian Africa
+305,2115,1949,0,1000,1000 S,Austria,Belgian Africa
+305,2205,1922,461,1000,Goldkronen,Austria,French Africa
+305,2205,1923,2128,1000,Shilling,Austria,French Africa
+305,2205,1924,1575,1000,Shilling,Austria,French Africa
+305,2205,1925,3331,1000,Shilling,Austria,French Africa
+305,2205,1926,5208,1000,Shilling,Austria,French Africa
+305,2205,1927,4758,1000,Shilling,Austria,French Africa
+305,2205,1928,4065,1000,Shilling,Austria,French Africa
+305,2205,1929,5280,1000,Shilling,Austria,French Africa
+305,2205,1930,4233,1000,Shilling,Austria,French Africa
+305,2205,1931,4191,1000,Shilling,Austria,French Africa
+305,2205,1932,943,1000,Shilling,Austria,French Africa
+305,2205,1933,373,1000,Shilling,Austria,French Africa
+305,2205,1934,452,1000,Shilling,Austria,French Africa
+305,2205,1935,428,1000,1000 Shilling,Austria,French Africa
+305,2205,1936,732,1000,1000 Shilling,Austria,French Africa
+305,2205,1937,0,1000,1000 Shilling,Austria,French Africa
+305,2205,1947,304,1000,1000 S,Austria,French Africa
+305,2205,1948,0,1000,,Austria,French Africa
+305,2205,1949,702,1000,1000 S,Austria,French Africa
+305,2305,1922,22,1000,Goldkronen,Austria,Spanish Africa
+305,2305,1923,17,1000,Shilling,Austria,Spanish Africa
+305,2305,1924,213,1000,Shilling,Austria,Spanish Africa
+305,2305,1925,5,1000,Shilling,Austria,Spanish Africa
+305,2305,1926,100,1000,Shilling,Austria,Spanish Africa
+305,2305,1927,193,1000,Shilling,Austria,Spanish Africa
+305,2305,1928,161,1000,Shilling,Austria,Spanish Africa
+305,2305,1929,53,1000,Shilling,Austria,Spanish Africa
+305,2305,1930,46,1000,Shilling,Austria,Spanish Africa
+305,2305,1931,130,1000,Shilling,Austria,Spanish Africa
+305,2305,1932,0,1000,Shilling,Austria,Spanish Africa
+305,2305,1933,0,1000,Shilling,Austria,Spanish Africa
+305,2305,1934,0,1000,Shilling,Austria,Spanish Africa
+305,2305,1935,0,1000,1000 Shilling,Austria,Spanish Africa
+305,2305,1936,0,1000,1000 Shilling,Austria,Spanish Africa
+305,2305,1937,0,1000,1000 Shilling,Austria,Spanish Africa
+305,2305,1947,0,1000,1000 S,Austria,Spanish Africa
+305,2305,1948,0,1000,,Austria,Spanish Africa
+305,2305,1949,0,1000,1000 S,Austria,Spanish Africa
+305,2355,1922,135,1000,Goldkronen,Austria,Portuguese Africa
+305,2355,1923,70,1000,Shilling,Austria,Portuguese Africa
+305,2355,1924,121,1000,Shilling,Austria,Portuguese Africa
+305,2355,1925,43,1000,Shilling,Austria,Portuguese Africa
+305,2355,1926,23,1000,Shilling,Austria,Portuguese Africa
+305,2355,1927,96,1000,Shilling,Austria,Portuguese Africa
+305,2355,1928,402,1000,Shilling,Austria,Portuguese Africa
+305,2355,1929,73,1000,Shilling,Austria,Portuguese Africa
+305,2355,1930,147,1000,Shilling,Austria,Portuguese Africa
+305,2355,1931,38,1000,Shilling,Austria,Portuguese Africa
+305,2355,1932,0,1000,Shilling,Austria,Portuguese Africa
+305,2355,1933,0,1000,Shilling,Austria,Portuguese Africa
+305,2355,1934,0,1000,Shilling,Austria,Portuguese Africa
+305,2355,1935,0,1000,1000 Shilling,Austria,Portuguese Africa
+305,2355,1936,0,1000,1000 Shilling,Austria,Portuguese Africa
+305,2355,1937,0,1000,1000 Shilling,Austria,Portuguese Africa
+305,2355,1947,0,1000,1000 S,Austria,Portuguese Africa
+305,2355,1948,0,1000,,Austria,Portuguese Africa
+305,2355,1949,0,1000,1000 S,Austria,Portuguese Africa
+305,3250,1922,3,1000,Goldkronen,Austria,Italian Africa
+305,3250,1923,65,1000,Shilling,Austria,Italian Africa
+305,3250,1924,235,1000,Shilling,Austria,Italian Africa
+305,3250,1925,150,1000,Shilling,Austria,Italian Africa
+305,3250,1926,65,1000,Shilling,Austria,Italian Africa
+305,3250,1927,223,1000,Shilling,Austria,Italian Africa
+305,3250,1928,408,1000,Shilling,Austria,Italian Africa
+305,3250,1929,182,1000,Shilling,Austria,Italian Africa
+305,3250,1930,226,1000,Shilling,Austria,Italian Africa
+305,3250,1931,72,1000,Shilling,Austria,Italian Africa
+305,3250,1932,0,1000,Shilling,Austria,Italian Africa
+305,3250,1933,0,1000,Shilling,Austria,Italian Africa
+305,3250,1934,0,1000,Shilling,Austria,Italian Africa
+305,3250,1935,0,1000,1000 Shilling,Austria,Italian Africa
+305,3250,1936,0,1000,1000 Shilling,Austria,Italian Africa
+305,3250,1937,0,1000,1000 Shilling,Austria,Italian Africa
+305,3250,1947,0,1000,1000 S,Austria,Italian Africa
+305,3250,1948,0,1000,,Austria,Italian Africa
+305,3250,1949,0,1000,1000 S,Austria,Italian Africa
+305,3363,1922,0,1000,Goldkronen,Austria,Memel
+305,3363,1923,0,1000,Shilling,Austria,Memel
+305,3363,1924,0,1000,Shilling,Austria,Memel
+305,3363,1925,0,1000,Shilling,Austria,Memel
+305,3363,1926,0,1000,Shilling,Austria,Memel
+305,3363,1927,0,1000,Shilling,Austria,Memel
+305,3363,1928,0,1000,Shilling,Austria,Memel
+305,3363,1929,0,1000,Shilling,Austria,Memel
+305,3363,1930,0,1000,Shilling,Austria,Memel
+305,3363,1931,0,1000,Shilling,Austria,Memel
+305,3363,1932,0,1000,Shilling,Austria,Memel
+305,3363,1933,0,1000,Shilling,Austria,Memel
+305,3363,1934,0,1000,Shilling,Austria,Memel
+305,3363,1935,0,1000,1000 Shilling,Austria,Memel
+305,3363,1936,0,1000,1000 Shilling,Austria,Memel
+305,3363,1937,0,1000,1000 Shilling,Austria,Memel
+305,3363,1947,0,1000,1000 S,Austria,Memel
+305,3363,1948,0,1000,,Austria,Memel
+305,3363,1949,0,1000,1000 S,Austria,Memel
+305,,1922,1757982,1000,Goldkronen,Austria,
+305,,1923,2771726,1000,Shilling,Austria,
+305,,1924,3482331,1000,Shilling,Austria,
+305,,1925,2906972,1000,Shilling,Austria,
+305,,1926,2854326,1000,Shilling,Austria,
+305,,1927,3199887,1000,Shilling,Austria,
+305,,1928,3320122,1000,Shilling,Austria,
+305,,1929,3334961,1000,Shilling,Austria,
+305,,1930,2756207,1000,Shilling,Austria,
+305,,1931,2211240,1000,Shilling,Austria,
+305,,1932,1404865,1000,Shilling,Austria,
+305,,1933,1197399,1000,Shilling,Austria,
+305,,1934,1175766,1000,Shilling,Austria,
+305,,1935,1225880,1000,1000 Shilling,Austria,
+305,,1936,1275352,1000,1000 Shilling,Austria,
+305,,1937,1515984,1000,1000 Shilling,Austria,
+305,,1947,1199912,1000,1000 S,Austria,
+305,,1948,2248376,1000,,Austria,
+305,,1949,6470384,1000,1000 S,Austria,

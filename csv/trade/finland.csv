@@ -1,0 +1,3326 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+375,2,1901,0,1,,Finland,United States
+375,2,1902,0,1,,Finland,United States
+375,2,1903,1768746,1,,Finland,United States
+375,2,1904,9132,1,,Finland,United States
+375,2,1905,1434,1,,Finland,United States
+375,2,1906,266,1,,Finland,United States
+375,2,1907,518,1,Marks,Finland,United States
+375,2,1908,378,1,Marks,Finland,United States
+375,2,1909,440,1,Marks,Finland,United States
+375,2,1910,434,1,Marks,Finland,United States
+375,2,1911,1666,1,Marks,Finland,United States
+375,2,1912,2475,1,Marks,Finland,United States
+375,2,1913,3687,1,Marks,Finland,United States
+375,2,1914,1722,1,Marks,Finland,United States
+375,2,1915,1980,1,Marks,Finland,United States
+375,2,1916,142936,1,Marks,Finland,United States
+375,2,1917,203498,1,Marks,Finland,United States
+375,2,1918,6068481,1,Marks,Finland,United States
+375,2,1919,638895482,1,Marks,Finland,United States
+375,2,1920,794846590,1,Marks,Finland,United States
+375,2,1921,613898613,1,Marks,Finland,United States
+375,2,1922,609022840,1,Marks,Finland,United States
+375,2,1923,583457733,1,Marks,Finland,United States
+375,2,1924,629085764,1,Marks,Finland,United States
+375,2,1925,811580223,1,Fmk,Finland,United States
+375,2,1926,801226356,1,Fmk,Finland,United States
+375,2,1927,980961529,1,Fmk,Finland,United States
+375,2,1928,1179148208,1,Fmk,Finland,United States
+375,2,1929,873435809,1,Fmk,Finland,United States
+375,2,1930,638435276,1,Fmk,Finland,United States
+375,2,1931,372406396,1,Fmk,Finland,United States
+375,2,1932,268774672,1,Fmk,Finland,United States
+375,2,1933,288565241,1,Fmk,Finland,United States
+375,2,1934,411762376,1,Fmk,Finland,United States
+375,2,1935,520902635,1,Fmk,Finland,United States
+375,3,1901,0,1,,Finland,Alaska
+375,3,1902,0,1,,Finland,Alaska
+375,3,1903,0,1,,Finland,Alaska
+375,3,1904,0,1,,Finland,Alaska
+375,3,1905,0,1,,Finland,Alaska
+375,3,1906,0,1,,Finland,Alaska
+375,3,1907,0,1,Marks,Finland,Alaska
+375,3,1908,0,1,Marks,Finland,Alaska
+375,3,1909,0,1,Marks,Finland,Alaska
+375,3,1910,0,1,Marks,Finland,Alaska
+375,3,1911,0,1,Marks,Finland,Alaska
+375,3,1912,0,1,Marks,Finland,Alaska
+375,3,1913,0,1,Marks,Finland,Alaska
+375,3,1914,0,1,Marks,Finland,Alaska
+375,3,1915,0,1,Marks,Finland,Alaska
+375,3,1916,0,1,Marks,Finland,Alaska
+375,3,1917,0,1,Marks,Finland,Alaska
+375,3,1918,0,1,Marks,Finland,Alaska
+375,3,1919,0,1,Marks,Finland,Alaska
+375,3,1920,0,1,Marks,Finland,Alaska
+375,3,1921,0,1,Marks,Finland,Alaska
+375,3,1922,0,1,Marks,Finland,Alaska
+375,3,1923,0,1,Marks,Finland,Alaska
+375,3,1924,0,1,Marks,Finland,Alaska
+375,3,1925,0,1,Fmk,Finland,Alaska
+375,3,1926,0,1,Fmk,Finland,Alaska
+375,3,1927,0,1,Fmk,Finland,Alaska
+375,3,1928,0,1,Fmk,Finland,Alaska
+375,3,1929,0,1,Fmk,Finland,Alaska
+375,3,1930,0,1,Fmk,Finland,Alaska
+375,3,1931,0,1,Fmk,Finland,Alaska
+375,3,1932,0,1,Fmk,Finland,Alaska
+375,3,1933,0,1,Fmk,Finland,Alaska
+375,3,1934,0,1,Fmk,Finland,Alaska
+375,3,1935,1000,1,Fmk,Finland,Alaska
+375,4,1901,0,1,,Finland,Hawaii
+375,4,1902,0,1,,Finland,Hawaii
+375,4,1903,0,1,,Finland,Hawaii
+375,4,1904,0,1,,Finland,Hawaii
+375,4,1905,0,1,,Finland,Hawaii
+375,4,1906,0,1,,Finland,Hawaii
+375,4,1907,0,1,Marks,Finland,Hawaii
+375,4,1908,0,1,Marks,Finland,Hawaii
+375,4,1909,0,1,Marks,Finland,Hawaii
+375,4,1910,0,1,Marks,Finland,Hawaii
+375,4,1911,0,1,Marks,Finland,Hawaii
+375,4,1912,0,1,Marks,Finland,Hawaii
+375,4,1913,0,1,Marks,Finland,Hawaii
+375,4,1914,0,1,Marks,Finland,Hawaii
+375,4,1915,0,1,Marks,Finland,Hawaii
+375,4,1916,0,1,Marks,Finland,Hawaii
+375,4,1917,0,1,Marks,Finland,Hawaii
+375,4,1918,0,1,Marks,Finland,Hawaii
+375,4,1919,0,1,Marks,Finland,Hawaii
+375,4,1920,0,1,Marks,Finland,Hawaii
+375,4,1921,0,1,Marks,Finland,Hawaii
+375,4,1922,0,1,Marks,Finland,Hawaii
+375,4,1923,0,1,Marks,Finland,Hawaii
+375,4,1924,0,1,Marks,Finland,Hawaii
+375,4,1925,0,1,Fmk,Finland,Hawaii
+375,4,1926,0,1,Fmk,Finland,Hawaii
+375,4,1927,0,1,Fmk,Finland,Hawaii
+375,4,1928,0,1,Fmk,Finland,Hawaii
+375,4,1929,0,1,Fmk,Finland,Hawaii
+375,4,1930,0,1,Fmk,Finland,Hawaii
+375,4,1931,0,1,Fmk,Finland,Hawaii
+375,4,1932,0,1,Fmk,Finland,Hawaii
+375,4,1933,0,1,Fmk,Finland,Hawaii
+375,4,1934,0,1,Fmk,Finland,Hawaii
+375,4,1935,15557,1,Fmk,Finland,Hawaii
+375,10,1901,0,1,,Finland,Greenland
+375,10,1902,0,1,,Finland,Greenland
+375,10,1903,0,1,,Finland,Greenland
+375,10,1904,0,1,,Finland,Greenland
+375,10,1905,0,1,,Finland,Greenland
+375,10,1906,0,1,,Finland,Greenland
+375,10,1907,0,1,Marks,Finland,Greenland
+375,10,1908,0,1,Marks,Finland,Greenland
+375,10,1909,0,1,Marks,Finland,Greenland
+375,10,1910,0,1,Marks,Finland,Greenland
+375,10,1911,0,1,Marks,Finland,Greenland
+375,10,1912,0,1,Marks,Finland,Greenland
+375,10,1913,0,1,Marks,Finland,Greenland
+375,10,1914,0,1,Marks,Finland,Greenland
+375,10,1915,0,1,Marks,Finland,Greenland
+375,10,1916,0,1,Marks,Finland,Greenland
+375,10,1917,0,1,Marks,Finland,Greenland
+375,10,1918,0,1,Marks,Finland,Greenland
+375,10,1919,0,1,Marks,Finland,Greenland
+375,10,1920,0,1,Marks,Finland,Greenland
+375,10,1921,0,1,Marks,Finland,Greenland
+375,10,1922,1200,1,Marks,Finland,Greenland
+375,10,1923,6600,1,Marks,Finland,Greenland
+375,10,1924,2340,1,Marks,Finland,Greenland
+375,10,1925,7800,1,Fmk,Finland,Greenland
+375,10,1926,0,1,Fmk,Finland,Greenland
+375,10,1927,0,1,Fmk,Finland,Greenland
+375,10,1928,0,1,Fmk,Finland,Greenland
+375,10,1929,0,1,Fmk,Finland,Greenland
+375,10,1930,0,1,Fmk,Finland,Greenland
+375,10,1931,0,1,Fmk,Finland,Greenland
+375,10,1932,0,1,Fmk,Finland,Greenland
+375,10,1933,0,1,Fmk,Finland,Greenland
+375,10,1934,0,1,Fmk,Finland,Greenland
+375,10,1935,85315,1,Fmk,Finland,Greenland
+375,20,1901,0,1,,Finland,Canada
+375,20,1902,0,1,,Finland,Canada
+375,20,1903,113,1,,Finland,Canada
+375,20,1904,100,1,,Finland,Canada
+375,20,1905,290,1,,Finland,Canada
+375,20,1906,983,1,,Finland,Canada
+375,20,1907,388,1,Marks,Finland,Canada
+375,20,1908,342,1,Marks,Finland,Canada
+375,20,1909,456,1,Marks,Finland,Canada
+375,20,1910,633,1,Marks,Finland,Canada
+375,20,1911,805,1,Marks,Finland,Canada
+375,20,1912,1197,1,Marks,Finland,Canada
+375,20,1913,1457,1,Marks,Finland,Canada
+375,20,1914,631,1,Marks,Finland,Canada
+375,20,1915,320,1,Marks,Finland,Canada
+375,20,1916,129,1,Marks,Finland,Canada
+375,20,1917,1214,1,Marks,Finland,Canada
+375,20,1918,110,1,Marks,Finland,Canada
+375,20,1919,30570916,1,Marks,Finland,Canada
+375,20,1920,16065355,1,Marks,Finland,Canada
+375,20,1921,4260968,1,Marks,Finland,Canada
+375,20,1922,0,1,Marks,Finland,Canada
+375,20,1923,0,1,Marks,Finland,Canada
+375,20,1924,0,1,Marks,Finland,Canada
+375,20,1925,0,1,Fmk,Finland,Canada
+375,20,1926,0,1,Fmk,Finland,Canada
+375,20,1927,0,1,Fmk,Finland,Canada
+375,20,1928,0,1,Fmk,Finland,Canada
+375,20,1929,0,1,Fmk,Finland,Canada
+375,20,1930,0,1,Fmk,Finland,Canada
+375,20,1931,0,1,Fmk,Finland,Canada
+375,20,1932,0,1,Fmk,Finland,Canada
+375,20,1933,0,1,Fmk,Finland,Canada
+375,20,1934,31467678,1,Fmk,Finland,Canada
+375,20,1935,49368415,1,Fmk,Finland,Canada
+375,22,1901,0,1,,Finland,British North America
+375,22,1902,0,1,,Finland,British North America
+375,22,1903,0,1,,Finland,British North America
+375,22,1904,0,1,,Finland,British North America
+375,22,1905,0,1,,Finland,British North America
+375,22,1906,0,1,,Finland,British North America
+375,22,1907,0,1,Marks,Finland,British North America
+375,22,1908,0,1,Marks,Finland,British North America
+375,22,1909,0,1,Marks,Finland,British North America
+375,22,1910,0,1,Marks,Finland,British North America
+375,22,1911,0,1,Marks,Finland,British North America
+375,22,1912,0,1,Marks,Finland,British North America
+375,22,1913,0,1,Marks,Finland,British North America
+375,22,1914,0,1,Marks,Finland,British North America
+375,22,1915,0,1,Marks,Finland,British North America
+375,22,1916,0,1,Marks,Finland,British North America
+375,22,1917,0,1,Marks,Finland,British North America
+375,22,1918,0,1,Marks,Finland,British North America
+375,22,1919,0,1,Marks,Finland,British North America
+375,22,1920,0,1,Marks,Finland,British North America
+375,22,1921,0,1,Marks,Finland,British North America
+375,22,1922,15327397,1,Marks,Finland,British North America
+375,22,1923,14622082,1,Marks,Finland,British North America
+375,22,1924,21013393,1,Marks,Finland,British North America
+375,22,1925,31188965,1,Fmk,Finland,British North America
+375,22,1926,21082359,1,Fmk,Finland,British North America
+375,22,1927,27343388,1,Fmk,Finland,British North America
+375,22,1928,56860657,1,Fmk,Finland,British North America
+375,22,1929,34625212,1,Fmk,Finland,British North America
+375,22,1930,28965826,1,Fmk,Finland,British North America
+375,22,1931,15313479,1,Fmk,Finland,British North America
+375,22,1932,20693913,1,Fmk,Finland,British North America
+375,22,1933,28319316,1,Fmk,Finland,British North America
+375,22,1934,0,1,Fmk,Finland,British North America
+375,22,1935,0,1,Fmk,Finland,British North America
+375,40,1901,0,1,,Finland,Cuba
+375,40,1902,0,1,,Finland,Cuba
+375,40,1903,0,1,,Finland,Cuba
+375,40,1904,0,1,,Finland,Cuba
+375,40,1905,0,1,,Finland,Cuba
+375,40,1906,0,1,,Finland,Cuba
+375,40,1907,0,1,Marks,Finland,Cuba
+375,40,1908,45,1,Marks,Finland,Cuba
+375,40,1909,0,1,Marks,Finland,Cuba
+375,40,1910,0,1,Marks,Finland,Cuba
+375,40,1911,30,1,Marks,Finland,Cuba
+375,40,1912,75,1,Marks,Finland,Cuba
+375,40,1913,0,1,Marks,Finland,Cuba
+375,40,1914,0,1,Marks,Finland,Cuba
+375,40,1915,0,1,Marks,Finland,Cuba
+375,40,1916,0,1,Marks,Finland,Cuba
+375,40,1917,0,1,Marks,Finland,Cuba
+375,40,1918,0,1,Marks,Finland,Cuba
+375,40,1919,0,1,Marks,Finland,Cuba
+375,40,1920,7574,1,Marks,Finland,Cuba
+375,40,1921,83666,1,Marks,Finland,Cuba
+375,40,1922,0,1,Marks,Finland,Cuba
+375,40,1923,0,1,Marks,Finland,Cuba
+375,40,1924,0,1,Marks,Finland,Cuba
+375,40,1925,0,1,Fmk,Finland,Cuba
+375,40,1926,0,1,Fmk,Finland,Cuba
+375,40,1927,0,1,Fmk,Finland,Cuba
+375,40,1928,0,1,Fmk,Finland,Cuba
+375,40,1929,0,1,Fmk,Finland,Cuba
+375,40,1930,0,1,Fmk,Finland,Cuba
+375,40,1931,0,1,Fmk,Finland,Cuba
+375,40,1932,0,1,Fmk,Finland,Cuba
+375,40,1933,0,1,Fmk,Finland,Cuba
+375,40,1934,4184148,1,Fmk,Finland,Cuba
+375,40,1935,2730823,1,Fmk,Finland,Cuba
+375,41,1901,0,1,,Finland,Haiti
+375,41,1902,0,1,,Finland,Haiti
+375,41,1903,0,1,,Finland,Haiti
+375,41,1904,0,1,,Finland,Haiti
+375,41,1905,0,1,,Finland,Haiti
+375,41,1906,0,1,,Finland,Haiti
+375,41,1907,0,1,Marks,Finland,Haiti
+375,41,1908,0,1,Marks,Finland,Haiti
+375,41,1909,0,1,Marks,Finland,Haiti
+375,41,1910,0,1,Marks,Finland,Haiti
+375,41,1911,0,1,Marks,Finland,Haiti
+375,41,1912,0,1,Marks,Finland,Haiti
+375,41,1913,0,1,Marks,Finland,Haiti
+375,41,1914,0,1,Marks,Finland,Haiti
+375,41,1915,0,1,Marks,Finland,Haiti
+375,41,1916,0,1,Marks,Finland,Haiti
+375,41,1917,0,1,Marks,Finland,Haiti
+375,41,1918,0,1,Marks,Finland,Haiti
+375,41,1919,0,1,Marks,Finland,Haiti
+375,41,1920,0,1,Marks,Finland,Haiti
+375,41,1921,0,1,Marks,Finland,Haiti
+375,41,1922,0,1,Marks,Finland,Haiti
+375,41,1923,0,1,Marks,Finland,Haiti
+375,41,1924,0,1,Marks,Finland,Haiti
+375,41,1925,0,1,Fmk,Finland,Haiti
+375,41,1926,0,1,Fmk,Finland,Haiti
+375,41,1927,0,1,Fmk,Finland,Haiti
+375,41,1928,0,1,Fmk,Finland,Haiti
+375,41,1929,0,1,Fmk,Finland,Haiti
+375,41,1930,0,1,Fmk,Finland,Haiti
+375,41,1931,0,1,Fmk,Finland,Haiti
+375,41,1932,0,1,Fmk,Finland,Haiti
+375,41,1933,0,1,Fmk,Finland,Haiti
+375,41,1934,106932,1,Fmk,Finland,Haiti
+375,41,1935,294343,1,Fmk,Finland,Haiti
+375,51,1901,0,1,,Finland,Jamaica
+375,51,1902,0,1,,Finland,Jamaica
+375,51,1903,0,1,,Finland,Jamaica
+375,51,1904,0,1,,Finland,Jamaica
+375,51,1905,0,1,,Finland,Jamaica
+375,51,1906,0,1,,Finland,Jamaica
+375,51,1907,0,1,Marks,Finland,Jamaica
+375,51,1908,0,1,Marks,Finland,Jamaica
+375,51,1909,0,1,Marks,Finland,Jamaica
+375,51,1910,0,1,Marks,Finland,Jamaica
+375,51,1911,0,1,Marks,Finland,Jamaica
+375,51,1912,0,1,Marks,Finland,Jamaica
+375,51,1913,0,1,Marks,Finland,Jamaica
+375,51,1914,0,1,Marks,Finland,Jamaica
+375,51,1915,0,1,Marks,Finland,Jamaica
+375,51,1916,0,1,Marks,Finland,Jamaica
+375,51,1917,0,1,Marks,Finland,Jamaica
+375,51,1918,0,1,Marks,Finland,Jamaica
+375,51,1919,0,1,Marks,Finland,Jamaica
+375,51,1920,0,1,Marks,Finland,Jamaica
+375,51,1921,0,1,Marks,Finland,Jamaica
+375,51,1922,0,1,Marks,Finland,Jamaica
+375,51,1923,0,1,Marks,Finland,Jamaica
+375,51,1924,0,1,Marks,Finland,Jamaica
+375,51,1925,0,1,Fmk,Finland,Jamaica
+375,51,1926,0,1,Fmk,Finland,Jamaica
+375,51,1927,0,1,Fmk,Finland,Jamaica
+375,51,1928,0,1,Fmk,Finland,Jamaica
+375,51,1929,0,1,Fmk,Finland,Jamaica
+375,51,1930,0,1,Fmk,Finland,Jamaica
+375,51,1931,0,1,Fmk,Finland,Jamaica
+375,51,1932,0,1,Fmk,Finland,Jamaica
+375,51,1933,0,1,Fmk,Finland,Jamaica
+375,51,1934,283633,1,Fmk,Finland,Jamaica
+375,51,1935,8008952,1,Fmk,Finland,Jamaica
+375,70,1901,0,1,,Finland,Mexico
+375,70,1902,0,1,,Finland,Mexico
+375,70,1903,0,1,,Finland,Mexico
+375,70,1904,40,1,,Finland,Mexico
+375,70,1905,0,1,,Finland,Mexico
+375,70,1906,0,1,,Finland,Mexico
+375,70,1907,0,1,Marks,Finland,Mexico
+375,70,1908,0,1,Marks,Finland,Mexico
+375,70,1909,0,1,Marks,Finland,Mexico
+375,70,1910,0,1,Marks,Finland,Mexico
+375,70,1911,77,1,Marks,Finland,Mexico
+375,70,1912,0,1,Marks,Finland,Mexico
+375,70,1913,10,1,Marks,Finland,Mexico
+375,70,1914,20,1,Marks,Finland,Mexico
+375,70,1915,0,1,Marks,Finland,Mexico
+375,70,1916,0,1,Marks,Finland,Mexico
+375,70,1917,0,1,Marks,Finland,Mexico
+375,70,1918,0,1,Marks,Finland,Mexico
+375,70,1919,0,1,Marks,Finland,Mexico
+375,70,1920,746665,1,Marks,Finland,Mexico
+375,70,1921,5973628,1,Marks,Finland,Mexico
+375,70,1922,6009893,1,Marks,Finland,Mexico
+375,70,1923,211543,1,Marks,Finland,Mexico
+375,70,1924,8352516,1,Marks,Finland,Mexico
+375,70,1925,2360800,1,Fmk,Finland,Mexico
+375,70,1926,1368228,1,Fmk,Finland,Mexico
+375,70,1927,2164545,1,Fmk,Finland,Mexico
+375,70,1928,2801160,1,Fmk,Finland,Mexico
+375,70,1929,267740,1,Fmk,Finland,Mexico
+375,70,1930,3951025,1,Fmk,Finland,Mexico
+375,70,1931,2458919,1,Fmk,Finland,Mexico
+375,70,1932,705201,1,Fmk,Finland,Mexico
+375,70,1933,2801154,1,Fmk,Finland,Mexico
+375,70,1934,4920439,1,Fmk,Finland,Mexico
+375,70,1935,25635717,1,Fmk,Finland,Mexico
+375,80,1901,0,1,,Finland,Belize
+375,80,1902,0,1,,Finland,Belize
+375,80,1903,0,1,,Finland,Belize
+375,80,1904,0,1,,Finland,Belize
+375,80,1905,0,1,,Finland,Belize
+375,80,1906,0,1,,Finland,Belize
+375,80,1907,0,1,Marks,Finland,Belize
+375,80,1908,0,1,Marks,Finland,Belize
+375,80,1909,0,1,Marks,Finland,Belize
+375,80,1910,0,1,Marks,Finland,Belize
+375,80,1911,0,1,Marks,Finland,Belize
+375,80,1912,0,1,Marks,Finland,Belize
+375,80,1913,0,1,Marks,Finland,Belize
+375,80,1914,0,1,Marks,Finland,Belize
+375,80,1915,0,1,Marks,Finland,Belize
+375,80,1916,0,1,Marks,Finland,Belize
+375,80,1917,0,1,Marks,Finland,Belize
+375,80,1918,0,1,Marks,Finland,Belize
+375,80,1919,0,1,Marks,Finland,Belize
+375,80,1920,0,1,Marks,Finland,Belize
+375,80,1921,0,1,Marks,Finland,Belize
+375,80,1922,0,1,Marks,Finland,Belize
+375,80,1923,0,1,Marks,Finland,Belize
+375,80,1924,0,1,Marks,Finland,Belize
+375,80,1925,0,1,Fmk,Finland,Belize
+375,80,1926,0,1,Fmk,Finland,Belize
+375,80,1927,0,1,Fmk,Finland,Belize
+375,80,1928,0,1,Fmk,Finland,Belize
+375,80,1929,0,1,Fmk,Finland,Belize
+375,80,1930,0,1,Fmk,Finland,Belize
+375,80,1931,0,1,Fmk,Finland,Belize
+375,80,1932,0,1,Fmk,Finland,Belize
+375,80,1933,0,1,Fmk,Finland,Belize
+375,80,1934,0,1,Fmk,Finland,Belize
+375,80,1935,204509,1,Fmk,Finland,Belize
+375,90,1901,0,1,,Finland,Guatemala
+375,90,1902,0,1,,Finland,Guatemala
+375,90,1903,0,1,,Finland,Guatemala
+375,90,1904,0,1,,Finland,Guatemala
+375,90,1905,0,1,,Finland,Guatemala
+375,90,1906,0,1,,Finland,Guatemala
+375,90,1907,0,1,Marks,Finland,Guatemala
+375,90,1908,0,1,Marks,Finland,Guatemala
+375,90,1909,0,1,Marks,Finland,Guatemala
+375,90,1910,0,1,Marks,Finland,Guatemala
+375,90,1911,0,1,Marks,Finland,Guatemala
+375,90,1912,0,1,Marks,Finland,Guatemala
+375,90,1913,0,1,Marks,Finland,Guatemala
+375,90,1914,0,1,Marks,Finland,Guatemala
+375,90,1915,0,1,Marks,Finland,Guatemala
+375,90,1916,0,1,Marks,Finland,Guatemala
+375,90,1917,0,1,Marks,Finland,Guatemala
+375,90,1918,0,1,Marks,Finland,Guatemala
+375,90,1919,0,1,Marks,Finland,Guatemala
+375,90,1920,4073800,1,Marks,Finland,Guatemala
+375,90,1921,0,1,Marks,Finland,Guatemala
+375,90,1922,0,1,Marks,Finland,Guatemala
+375,90,1923,0,1,Marks,Finland,Guatemala
+375,90,1924,0,1,Marks,Finland,Guatemala
+375,90,1925,0,1,Fmk,Finland,Guatemala
+375,90,1926,0,1,Fmk,Finland,Guatemala
+375,90,1927,0,1,Fmk,Finland,Guatemala
+375,90,1928,0,1,Fmk,Finland,Guatemala
+375,90,1929,0,1,Fmk,Finland,Guatemala
+375,90,1930,0,1,Fmk,Finland,Guatemala
+375,90,1931,0,1,Fmk,Finland,Guatemala
+375,90,1932,0,1,Fmk,Finland,Guatemala
+375,90,1933,0,1,Fmk,Finland,Guatemala
+375,90,1934,800458,1,Fmk,Finland,Guatemala
+375,90,1935,4414193,1,Fmk,Finland,Guatemala
+375,91,1901,0,1,,Finland,Honduras
+375,91,1902,0,1,,Finland,Honduras
+375,91,1903,0,1,,Finland,Honduras
+375,91,1904,0,1,,Finland,Honduras
+375,91,1905,0,1,,Finland,Honduras
+375,91,1906,0,1,,Finland,Honduras
+375,91,1907,0,1,Marks,Finland,Honduras
+375,91,1908,0,1,Marks,Finland,Honduras
+375,91,1909,0,1,Marks,Finland,Honduras
+375,91,1910,0,1,Marks,Finland,Honduras
+375,91,1911,0,1,Marks,Finland,Honduras
+375,91,1912,0,1,Marks,Finland,Honduras
+375,91,1913,0,1,Marks,Finland,Honduras
+375,91,1914,0,1,Marks,Finland,Honduras
+375,91,1915,0,1,Marks,Finland,Honduras
+375,91,1916,0,1,Marks,Finland,Honduras
+375,91,1917,0,1,Marks,Finland,Honduras
+375,91,1918,0,1,Marks,Finland,Honduras
+375,91,1919,0,1,Marks,Finland,Honduras
+375,91,1920,0,1,Marks,Finland,Honduras
+375,91,1921,0,1,Marks,Finland,Honduras
+375,91,1922,0,1,Marks,Finland,Honduras
+375,91,1923,0,1,Marks,Finland,Honduras
+375,91,1924,0,1,Marks,Finland,Honduras
+375,91,1925,0,1,Fmk,Finland,Honduras
+375,91,1926,0,1,Fmk,Finland,Honduras
+375,91,1927,0,1,Fmk,Finland,Honduras
+375,91,1928,0,1,Fmk,Finland,Honduras
+375,91,1929,0,1,Fmk,Finland,Honduras
+375,91,1930,0,1,Fmk,Finland,Honduras
+375,91,1931,0,1,Fmk,Finland,Honduras
+375,91,1932,0,1,Fmk,Finland,Honduras
+375,91,1933,0,1,Fmk,Finland,Honduras
+375,91,1934,0,1,Fmk,Finland,Honduras
+375,91,1935,54322,1,Fmk,Finland,Honduras
+375,92,1901,0,1,,Finland,El Salvador
+375,92,1902,0,1,,Finland,El Salvador
+375,92,1903,0,1,,Finland,El Salvador
+375,92,1904,0,1,,Finland,El Salvador
+375,92,1905,0,1,,Finland,El Salvador
+375,92,1906,0,1,,Finland,El Salvador
+375,92,1907,0,1,Marks,Finland,El Salvador
+375,92,1908,0,1,Marks,Finland,El Salvador
+375,92,1909,0,1,Marks,Finland,El Salvador
+375,92,1910,0,1,Marks,Finland,El Salvador
+375,92,1911,0,1,Marks,Finland,El Salvador
+375,92,1912,0,1,Marks,Finland,El Salvador
+375,92,1913,0,1,Marks,Finland,El Salvador
+375,92,1914,0,1,Marks,Finland,El Salvador
+375,92,1915,0,1,Marks,Finland,El Salvador
+375,92,1916,0,1,Marks,Finland,El Salvador
+375,92,1917,0,1,Marks,Finland,El Salvador
+375,92,1918,0,1,Marks,Finland,El Salvador
+375,92,1919,0,1,Marks,Finland,El Salvador
+375,92,1920,0,1,Marks,Finland,El Salvador
+375,92,1921,0,1,Marks,Finland,El Salvador
+375,92,1922,0,1,Marks,Finland,El Salvador
+375,92,1923,0,1,Marks,Finland,El Salvador
+375,92,1924,0,1,Marks,Finland,El Salvador
+375,92,1925,0,1,Fmk,Finland,El Salvador
+375,92,1926,0,1,Fmk,Finland,El Salvador
+375,92,1927,0,1,Fmk,Finland,El Salvador
+375,92,1928,0,1,Fmk,Finland,El Salvador
+375,92,1929,0,1,Fmk,Finland,El Salvador
+375,92,1930,0,1,Fmk,Finland,El Salvador
+375,92,1931,0,1,Fmk,Finland,El Salvador
+375,92,1932,0,1,Fmk,Finland,El Salvador
+375,92,1933,0,1,Fmk,Finland,El Salvador
+375,92,1934,3266962,1,Fmk,Finland,El Salvador
+375,92,1935,6697550,1,Fmk,Finland,El Salvador
+375,93,1901,0,1,,Finland,Nicaragua
+375,93,1902,0,1,,Finland,Nicaragua
+375,93,1903,0,1,,Finland,Nicaragua
+375,93,1904,0,1,,Finland,Nicaragua
+375,93,1905,9,1,,Finland,Nicaragua
+375,93,1906,0,1,,Finland,Nicaragua
+375,93,1907,0,1,Marks,Finland,Nicaragua
+375,93,1908,0,1,Marks,Finland,Nicaragua
+375,93,1909,0,1,Marks,Finland,Nicaragua
+375,93,1910,0,1,Marks,Finland,Nicaragua
+375,93,1911,0,1,Marks,Finland,Nicaragua
+375,93,1912,0,1,Marks,Finland,Nicaragua
+375,93,1913,0,1,Marks,Finland,Nicaragua
+375,93,1914,0,1,Marks,Finland,Nicaragua
+375,93,1915,0,1,Marks,Finland,Nicaragua
+375,93,1916,0,1,Marks,Finland,Nicaragua
+375,93,1917,0,1,Marks,Finland,Nicaragua
+375,93,1918,0,1,Marks,Finland,Nicaragua
+375,93,1919,0,1,Marks,Finland,Nicaragua
+375,93,1920,0,1,Marks,Finland,Nicaragua
+375,93,1921,0,1,Marks,Finland,Nicaragua
+375,93,1922,0,1,Marks,Finland,Nicaragua
+375,93,1923,0,1,Marks,Finland,Nicaragua
+375,93,1924,0,1,Marks,Finland,Nicaragua
+375,93,1925,0,1,Fmk,Finland,Nicaragua
+375,93,1926,0,1,Fmk,Finland,Nicaragua
+375,93,1927,0,1,Fmk,Finland,Nicaragua
+375,93,1928,0,1,Fmk,Finland,Nicaragua
+375,93,1929,0,1,Fmk,Finland,Nicaragua
+375,93,1930,0,1,Fmk,Finland,Nicaragua
+375,93,1931,0,1,Fmk,Finland,Nicaragua
+375,93,1932,0,1,Fmk,Finland,Nicaragua
+375,93,1933,0,1,Fmk,Finland,Nicaragua
+375,93,1934,1024055,1,Fmk,Finland,Nicaragua
+375,93,1935,3291627,1,Fmk,Finland,Nicaragua
+375,94,1901,0,1,,Finland,Costa Rica
+375,94,1902,0,1,,Finland,Costa Rica
+375,94,1903,0,1,,Finland,Costa Rica
+375,94,1904,0,1,,Finland,Costa Rica
+375,94,1905,0,1,,Finland,Costa Rica
+375,94,1906,0,1,,Finland,Costa Rica
+375,94,1907,0,1,Marks,Finland,Costa Rica
+375,94,1908,0,1,Marks,Finland,Costa Rica
+375,94,1909,0,1,Marks,Finland,Costa Rica
+375,94,1910,0,1,Marks,Finland,Costa Rica
+375,94,1911,0,1,Marks,Finland,Costa Rica
+375,94,1912,0,1,Marks,Finland,Costa Rica
+375,94,1913,0,1,Marks,Finland,Costa Rica
+375,94,1914,0,1,Marks,Finland,Costa Rica
+375,94,1915,0,1,Marks,Finland,Costa Rica
+375,94,1916,0,1,Marks,Finland,Costa Rica
+375,94,1917,0,1,Marks,Finland,Costa Rica
+375,94,1918,0,1,Marks,Finland,Costa Rica
+375,94,1919,0,1,Marks,Finland,Costa Rica
+375,94,1920,0,1,Marks,Finland,Costa Rica
+375,94,1921,0,1,Marks,Finland,Costa Rica
+375,94,1922,0,1,Marks,Finland,Costa Rica
+375,94,1923,0,1,Marks,Finland,Costa Rica
+375,94,1924,0,1,Marks,Finland,Costa Rica
+375,94,1925,0,1,Fmk,Finland,Costa Rica
+375,94,1926,0,1,Fmk,Finland,Costa Rica
+375,94,1927,0,1,Fmk,Finland,Costa Rica
+375,94,1928,0,1,Fmk,Finland,Costa Rica
+375,94,1929,0,1,Fmk,Finland,Costa Rica
+375,94,1930,0,1,Fmk,Finland,Costa Rica
+375,94,1931,0,1,Fmk,Finland,Costa Rica
+375,94,1932,0,1,Fmk,Finland,Costa Rica
+375,94,1933,0,1,Fmk,Finland,Costa Rica
+375,94,1934,1940,1,Fmk,Finland,Costa Rica
+375,94,1935,363001,1,Fmk,Finland,Costa Rica
+375,95,1901,0,1,,Finland,Panama
+375,95,1902,0,1,,Finland,Panama
+375,95,1903,0,1,,Finland,Panama
+375,95,1904,0,1,,Finland,Panama
+375,95,1905,0,1,,Finland,Panama
+375,95,1906,0,1,,Finland,Panama
+375,95,1907,0,1,Marks,Finland,Panama
+375,95,1908,0,1,Marks,Finland,Panama
+375,95,1909,0,1,Marks,Finland,Panama
+375,95,1910,0,1,Marks,Finland,Panama
+375,95,1911,0,1,Marks,Finland,Panama
+375,95,1912,0,1,Marks,Finland,Panama
+375,95,1913,0,1,Marks,Finland,Panama
+375,95,1914,0,1,Marks,Finland,Panama
+375,95,1915,0,1,Marks,Finland,Panama
+375,95,1916,0,1,Marks,Finland,Panama
+375,95,1917,0,1,Marks,Finland,Panama
+375,95,1918,0,1,Marks,Finland,Panama
+375,95,1919,0,1,Marks,Finland,Panama
+375,95,1920,0,1,Marks,Finland,Panama
+375,95,1921,0,1,Marks,Finland,Panama
+375,95,1922,0,1,Marks,Finland,Panama
+375,95,1923,0,1,Marks,Finland,Panama
+375,95,1924,0,1,Marks,Finland,Panama
+375,95,1925,0,1,Fmk,Finland,Panama
+375,95,1926,0,1,Fmk,Finland,Panama
+375,95,1927,0,1,Fmk,Finland,Panama
+375,95,1928,0,1,Fmk,Finland,Panama
+375,95,1929,0,1,Fmk,Finland,Panama
+375,95,1930,0,1,Fmk,Finland,Panama
+375,95,1931,0,1,Fmk,Finland,Panama
+375,95,1932,0,1,Fmk,Finland,Panama
+375,95,1933,0,1,Fmk,Finland,Panama
+375,95,1934,42000,1,Fmk,Finland,Panama
+375,95,1935,341954,1,Fmk,Finland,Panama
+375,100,1901,0,1,,Finland,Colombia
+375,100,1902,0,1,,Finland,Colombia
+375,100,1903,0,1,,Finland,Colombia
+375,100,1904,0,1,,Finland,Colombia
+375,100,1905,0,1,,Finland,Colombia
+375,100,1906,0,1,,Finland,Colombia
+375,100,1907,0,1,Marks,Finland,Colombia
+375,100,1908,0,1,Marks,Finland,Colombia
+375,100,1909,0,1,Marks,Finland,Colombia
+375,100,1910,0,1,Marks,Finland,Colombia
+375,100,1911,0,1,Marks,Finland,Colombia
+375,100,1912,0,1,Marks,Finland,Colombia
+375,100,1913,0,1,Marks,Finland,Colombia
+375,100,1914,0,1,Marks,Finland,Colombia
+375,100,1915,0,1,Marks,Finland,Colombia
+375,100,1916,0,1,Marks,Finland,Colombia
+375,100,1917,0,1,Marks,Finland,Colombia
+375,100,1918,0,1,Marks,Finland,Colombia
+375,100,1919,0,1,Marks,Finland,Colombia
+375,100,1920,0,1,Marks,Finland,Colombia
+375,100,1921,0,1,Marks,Finland,Colombia
+375,100,1922,0,1,Marks,Finland,Colombia
+375,100,1923,0,1,Marks,Finland,Colombia
+375,100,1924,0,1,Marks,Finland,Colombia
+375,100,1925,110045,1,Fmk,Finland,Colombia
+375,100,1926,21638,1,Fmk,Finland,Colombia
+375,100,1927,3301483,1,Fmk,Finland,Colombia
+375,100,1928,6508610,1,Fmk,Finland,Colombia
+375,100,1929,2061790,1,Fmk,Finland,Colombia
+375,100,1930,1372840,1,Fmk,Finland,Colombia
+375,100,1931,632101,1,Fmk,Finland,Colombia
+375,100,1932,677761,1,Fmk,Finland,Colombia
+375,100,1933,1422572,1,Fmk,Finland,Colombia
+375,100,1934,4237902,1,Fmk,Finland,Colombia
+375,100,1935,11105074,1,Fmk,Finland,Colombia
+375,101,1901,0,1,,Finland,Venezuela
+375,101,1902,0,1,,Finland,Venezuela
+375,101,1903,0,1,,Finland,Venezuela
+375,101,1904,0,1,,Finland,Venezuela
+375,101,1905,0,1,,Finland,Venezuela
+375,101,1906,0,1,,Finland,Venezuela
+375,101,1907,0,1,Marks,Finland,Venezuela
+375,101,1908,0,1,Marks,Finland,Venezuela
+375,101,1909,0,1,Marks,Finland,Venezuela
+375,101,1910,0,1,Marks,Finland,Venezuela
+375,101,1911,0,1,Marks,Finland,Venezuela
+375,101,1912,0,1,Marks,Finland,Venezuela
+375,101,1913,0,1,Marks,Finland,Venezuela
+375,101,1914,0,1,Marks,Finland,Venezuela
+375,101,1915,0,1,Marks,Finland,Venezuela
+375,101,1916,0,1,Marks,Finland,Venezuela
+375,101,1917,0,1,Marks,Finland,Venezuela
+375,101,1918,0,1,Marks,Finland,Venezuela
+375,101,1919,670000,1,Marks,Finland,Venezuela
+375,101,1920,0,1,Marks,Finland,Venezuela
+375,101,1921,0,1,Marks,Finland,Venezuela
+375,101,1922,115882,1,Marks,Finland,Venezuela
+375,101,1923,1398447,1,Marks,Finland,Venezuela
+375,101,1924,618295,1,Marks,Finland,Venezuela
+375,101,1925,925851,1,Fmk,Finland,Venezuela
+375,101,1926,2017626,1,Fmk,Finland,Venezuela
+375,101,1927,1564567,1,Fmk,Finland,Venezuela
+375,101,1928,5748551,1,Fmk,Finland,Venezuela
+375,101,1929,3501345,1,Fmk,Finland,Venezuela
+375,101,1930,3119859,1,Fmk,Finland,Venezuela
+375,101,1931,1150451,1,Fmk,Finland,Venezuela
+375,101,1932,1033366,1,Fmk,Finland,Venezuela
+375,101,1933,2921372,1,Fmk,Finland,Venezuela
+375,101,1934,2808484,1,Fmk,Finland,Venezuela
+375,101,1935,13752132,1,Fmk,Finland,Venezuela
+375,130,1901,0,1,,Finland,Ecuador
+375,130,1902,0,1,,Finland,Ecuador
+375,130,1903,0,1,,Finland,Ecuador
+375,130,1904,0,1,,Finland,Ecuador
+375,130,1905,0,1,,Finland,Ecuador
+375,130,1906,0,1,,Finland,Ecuador
+375,130,1907,0,1,Marks,Finland,Ecuador
+375,130,1908,0,1,Marks,Finland,Ecuador
+375,130,1909,0,1,Marks,Finland,Ecuador
+375,130,1910,0,1,Marks,Finland,Ecuador
+375,130,1911,0,1,Marks,Finland,Ecuador
+375,130,1912,0,1,Marks,Finland,Ecuador
+375,130,1913,0,1,Marks,Finland,Ecuador
+375,130,1914,0,1,Marks,Finland,Ecuador
+375,130,1915,0,1,Marks,Finland,Ecuador
+375,130,1916,0,1,Marks,Finland,Ecuador
+375,130,1917,0,1,Marks,Finland,Ecuador
+375,130,1918,0,1,Marks,Finland,Ecuador
+375,130,1919,0,1,Marks,Finland,Ecuador
+375,130,1920,0,1,Marks,Finland,Ecuador
+375,130,1921,0,1,Marks,Finland,Ecuador
+375,130,1922,0,1,Marks,Finland,Ecuador
+375,130,1923,0,1,Marks,Finland,Ecuador
+375,130,1924,0,1,Marks,Finland,Ecuador
+375,130,1925,0,1,Fmk,Finland,Ecuador
+375,130,1926,0,1,Fmk,Finland,Ecuador
+375,130,1927,0,1,Fmk,Finland,Ecuador
+375,130,1928,0,1,Fmk,Finland,Ecuador
+375,130,1929,0,1,Fmk,Finland,Ecuador
+375,130,1930,0,1,Fmk,Finland,Ecuador
+375,130,1931,0,1,Fmk,Finland,Ecuador
+375,130,1932,0,1,Fmk,Finland,Ecuador
+375,130,1933,0,1,Fmk,Finland,Ecuador
+375,130,1934,0,1,Fmk,Finland,Ecuador
+375,130,1935,353958,1,Fmk,Finland,Ecuador
+375,135,1901,0,1,,Finland,Peru
+375,135,1902,0,1,,Finland,Peru
+375,135,1903,0,1,,Finland,Peru
+375,135,1904,0,1,,Finland,Peru
+375,135,1905,0,1,,Finland,Peru
+375,135,1906,0,1,,Finland,Peru
+375,135,1907,0,1,Marks,Finland,Peru
+375,135,1908,0,1,Marks,Finland,Peru
+375,135,1909,0,1,Marks,Finland,Peru
+375,135,1910,0,1,Marks,Finland,Peru
+375,135,1911,0,1,Marks,Finland,Peru
+375,135,1912,0,1,Marks,Finland,Peru
+375,135,1913,0,1,Marks,Finland,Peru
+375,135,1914,0,1,Marks,Finland,Peru
+375,135,1915,0,1,Marks,Finland,Peru
+375,135,1916,0,1,Marks,Finland,Peru
+375,135,1917,0,1,Marks,Finland,Peru
+375,135,1918,0,1,Marks,Finland,Peru
+375,135,1919,0,1,Marks,Finland,Peru
+375,135,1920,0,1,Marks,Finland,Peru
+375,135,1921,0,1,Marks,Finland,Peru
+375,135,1922,0,1,Marks,Finland,Peru
+375,135,1923,0,1,Marks,Finland,Peru
+375,135,1924,0,1,Marks,Finland,Peru
+375,135,1925,0,1,Fmk,Finland,Peru
+375,135,1926,6233,1,Fmk,Finland,Peru
+375,135,1927,110594,1,Fmk,Finland,Peru
+375,135,1928,339147,1,Fmk,Finland,Peru
+375,135,1929,34100,1,Fmk,Finland,Peru
+375,135,1930,0,1,Fmk,Finland,Peru
+375,135,1931,73921,1,Fmk,Finland,Peru
+375,135,1932,11760,1,Fmk,Finland,Peru
+375,135,1933,165460,1,Fmk,Finland,Peru
+375,135,1934,381138,1,Fmk,Finland,Peru
+375,135,1935,7798870,1,Fmk,Finland,Peru
+375,140,1901,0,1,,Finland,Brazil
+375,140,1902,0,1,,Finland,Brazil
+375,140,1903,1152568,1,,Finland,Brazil
+375,140,1904,1099708,1,,Finland,Brazil
+375,140,1905,445238,1,,Finland,Brazil
+375,140,1906,961309,1,,Finland,Brazil
+375,140,1907,1137984,1,Marks,Finland,Brazil
+375,140,1908,512003,1,Marks,Finland,Brazil
+375,140,1909,1015099,1,Marks,Finland,Brazil
+375,140,1910,946886,1,Marks,Finland,Brazil
+375,140,1911,0,1,Marks,Finland,Brazil
+375,140,1912,0,1,Marks,Finland,Brazil
+375,140,1913,0,1,Marks,Finland,Brazil
+375,140,1914,0,1,Marks,Finland,Brazil
+375,140,1915,0,1,Marks,Finland,Brazil
+375,140,1916,0,1,Marks,Finland,Brazil
+375,140,1917,0,1,Marks,Finland,Brazil
+375,140,1918,49625,1,Marks,Finland,Brazil
+375,140,1919,45950506,1,Marks,Finland,Brazil
+375,140,1920,47246825,1,Marks,Finland,Brazil
+375,140,1921,76805125,1,Marks,Finland,Brazil
+375,140,1922,107249008,1,Marks,Finland,Brazil
+375,140,1923,81004325,1,Marks,Finland,Brazil
+375,140,1924,103582941,1,Marks,Finland,Brazil
+375,140,1925,165917381,1,Fmk,Finland,Brazil
+375,140,1926,105631416,1,Fmk,Finland,Brazil
+375,140,1927,113872766,1,Fmk,Finland,Brazil
+375,140,1928,107389872,1,Fmk,Finland,Brazil
+375,140,1929,112383767,1,Fmk,Finland,Brazil
+375,140,1930,99008081,1,Fmk,Finland,Brazil
+375,140,1931,56956778,1,Fmk,Finland,Brazil
+375,140,1932,99322459,1,Fmk,Finland,Brazil
+375,140,1933,131614278,1,Fmk,Finland,Brazil
+375,140,1934,122564258,1,Fmk,Finland,Brazil
+375,140,1935,173575135,1,Fmk,Finland,Brazil
+375,145,1901,0,1,,Finland,Bolivia
+375,145,1902,0,1,,Finland,Bolivia
+375,145,1903,0,1,,Finland,Bolivia
+375,145,1904,0,1,,Finland,Bolivia
+375,145,1905,0,1,,Finland,Bolivia
+375,145,1906,0,1,,Finland,Bolivia
+375,145,1907,0,1,Marks,Finland,Bolivia
+375,145,1908,0,1,Marks,Finland,Bolivia
+375,145,1909,0,1,Marks,Finland,Bolivia
+375,145,1910,0,1,Marks,Finland,Bolivia
+375,145,1911,0,1,Marks,Finland,Bolivia
+375,145,1912,0,1,Marks,Finland,Bolivia
+375,145,1913,0,1,Marks,Finland,Bolivia
+375,145,1914,0,1,Marks,Finland,Bolivia
+375,145,1915,0,1,Marks,Finland,Bolivia
+375,145,1916,0,1,Marks,Finland,Bolivia
+375,145,1917,0,1,Marks,Finland,Bolivia
+375,145,1918,0,1,Marks,Finland,Bolivia
+375,145,1919,0,1,Marks,Finland,Bolivia
+375,145,1920,0,1,Marks,Finland,Bolivia
+375,145,1921,0,1,Marks,Finland,Bolivia
+375,145,1922,0,1,Marks,Finland,Bolivia
+375,145,1923,0,1,Marks,Finland,Bolivia
+375,145,1924,0,1,Marks,Finland,Bolivia
+375,145,1925,420,1,Fmk,Finland,Bolivia
+375,145,1926,10635,1,Fmk,Finland,Bolivia
+375,145,1927,25449,1,Fmk,Finland,Bolivia
+375,145,1928,0,1,Fmk,Finland,Bolivia
+375,145,1929,31200,1,Fmk,Finland,Bolivia
+375,145,1930,0,1,Fmk,Finland,Bolivia
+375,145,1931,0,1,Fmk,Finland,Bolivia
+375,145,1932,0,1,Fmk,Finland,Bolivia
+375,145,1933,0,1,Fmk,Finland,Bolivia
+375,145,1934,2220,1,Fmk,Finland,Bolivia
+375,145,1935,64725,1,Fmk,Finland,Bolivia
+375,150,1901,0,1,,Finland,Paraguay
+375,150,1902,0,1,,Finland,Paraguay
+375,150,1903,0,1,,Finland,Paraguay
+375,150,1904,0,1,,Finland,Paraguay
+375,150,1905,0,1,,Finland,Paraguay
+375,150,1906,0,1,,Finland,Paraguay
+375,150,1907,0,1,Marks,Finland,Paraguay
+375,150,1908,0,1,Marks,Finland,Paraguay
+375,150,1909,0,1,Marks,Finland,Paraguay
+375,150,1910,0,1,Marks,Finland,Paraguay
+375,150,1911,0,1,Marks,Finland,Paraguay
+375,150,1912,0,1,Marks,Finland,Paraguay
+375,150,1913,0,1,Marks,Finland,Paraguay
+375,150,1914,0,1,Marks,Finland,Paraguay
+375,150,1915,0,1,Marks,Finland,Paraguay
+375,150,1916,0,1,Marks,Finland,Paraguay
+375,150,1917,0,1,Marks,Finland,Paraguay
+375,150,1918,0,1,Marks,Finland,Paraguay
+375,150,1919,0,1,Marks,Finland,Paraguay
+375,150,1920,0,1,Marks,Finland,Paraguay
+375,150,1921,109430,1,Marks,Finland,Paraguay
+375,150,1922,0,1,Marks,Finland,Paraguay
+375,150,1923,0,1,Marks,Finland,Paraguay
+375,150,1924,0,1,Marks,Finland,Paraguay
+375,150,1925,0,1,Fmk,Finland,Paraguay
+375,150,1926,0,1,Fmk,Finland,Paraguay
+375,150,1927,410498,1,Fmk,Finland,Paraguay
+375,150,1928,848000,1,Fmk,Finland,Paraguay
+375,150,1929,0,1,Fmk,Finland,Paraguay
+375,150,1930,0,1,Fmk,Finland,Paraguay
+375,150,1931,250,1,Fmk,Finland,Paraguay
+375,150,1932,0,1,Fmk,Finland,Paraguay
+375,150,1933,0,1,Fmk,Finland,Paraguay
+375,150,1934,16000,1,Fmk,Finland,Paraguay
+375,150,1935,1592051,1,Fmk,Finland,Paraguay
+375,155,1901,0,1,,Finland,Chile
+375,155,1902,0,1,,Finland,Chile
+375,155,1903,0,1,,Finland,Chile
+375,155,1904,0,1,,Finland,Chile
+375,155,1905,0,1,,Finland,Chile
+375,155,1906,0,1,,Finland,Chile
+375,155,1907,0,1,Marks,Finland,Chile
+375,155,1908,0,1,Marks,Finland,Chile
+375,155,1909,0,1,Marks,Finland,Chile
+375,155,1910,0,1,Marks,Finland,Chile
+375,155,1911,2,1,Marks,Finland,Chile
+375,155,1912,30,1,Marks,Finland,Chile
+375,155,1913,0,1,Marks,Finland,Chile
+375,155,1914,0,1,Marks,Finland,Chile
+375,155,1915,0,1,Marks,Finland,Chile
+375,155,1916,0,1,Marks,Finland,Chile
+375,155,1917,0,1,Marks,Finland,Chile
+375,155,1918,0,1,Marks,Finland,Chile
+375,155,1919,0,1,Marks,Finland,Chile
+375,155,1920,0,1,Marks,Finland,Chile
+375,155,1921,0,1,Marks,Finland,Chile
+375,155,1922,8500,1,Marks,Finland,Chile
+375,155,1923,0,1,Marks,Finland,Chile
+375,155,1924,93720,1,Marks,Finland,Chile
+375,155,1925,0,1,Fmk,Finland,Chile
+375,155,1926,47500,1,Fmk,Finland,Chile
+375,155,1927,64803,1,Fmk,Finland,Chile
+375,155,1928,38414,1,Fmk,Finland,Chile
+375,155,1929,28321,1,Fmk,Finland,Chile
+375,155,1930,8495,1,Fmk,Finland,Chile
+375,155,1931,9800,1,Fmk,Finland,Chile
+375,155,1932,85,1,Fmk,Finland,Chile
+375,155,1933,524760,1,Fmk,Finland,Chile
+375,155,1934,576882,1,Fmk,Finland,Chile
+375,155,1935,9201372,1,Fmk,Finland,Chile
+375,160,1901,0,1,,Finland,Argentina
+375,160,1902,0,1,,Finland,Argentina
+375,160,1903,0,1,,Finland,Argentina
+375,160,1904,0,1,,Finland,Argentina
+375,160,1905,0,1,,Finland,Argentina
+375,160,1906,561078,1,,Finland,Argentina
+375,160,1907,0,1,Marks,Finland,Argentina
+375,160,1908,764591,1,Marks,Finland,Argentina
+375,160,1909,816398,1,Marks,Finland,Argentina
+375,160,1910,462015,1,Marks,Finland,Argentina
+375,160,1911,549242,1,Marks,Finland,Argentina
+375,160,1912,718023,1,Marks,Finland,Argentina
+375,160,1913,607213,1,Marks,Finland,Argentina
+375,160,1914,5,1,Marks,Finland,Argentina
+375,160,1915,0,1,Marks,Finland,Argentina
+375,160,1916,0,1,Marks,Finland,Argentina
+375,160,1917,0,1,Marks,Finland,Argentina
+375,160,1918,0,1,Marks,Finland,Argentina
+375,160,1919,69879601,1,Marks,Finland,Argentina
+375,160,1920,133299118,1,Marks,Finland,Argentina
+375,160,1921,23424824,1,Marks,Finland,Argentina
+375,160,1922,12301682,1,Marks,Finland,Argentina
+375,160,1923,38619979,1,Marks,Finland,Argentina
+375,160,1924,22643583,1,Marks,Finland,Argentina
+375,160,1925,28453183,1,Fmk,Finland,Argentina
+375,160,1926,37955574,1,Fmk,Finland,Argentina
+375,160,1927,34466763,1,Fmk,Finland,Argentina
+375,160,1928,58655300,1,Fmk,Finland,Argentina
+375,160,1929,59346431,1,Fmk,Finland,Argentina
+375,160,1930,22310399,1,Fmk,Finland,Argentina
+375,160,1931,17756810,1,Fmk,Finland,Argentina
+375,160,1932,45597460,1,Fmk,Finland,Argentina
+375,160,1933,67793590,1,Fmk,Finland,Argentina
+375,160,1934,85759721,1,Fmk,Finland,Argentina
+375,160,1935,111242540,1,Fmk,Finland,Argentina
+375,165,1901,0,1,,Finland,Uruguay
+375,165,1902,0,1,,Finland,Uruguay
+375,165,1903,0,1,,Finland,Uruguay
+375,165,1904,15,1,,Finland,Uruguay
+375,165,1905,0,1,,Finland,Uruguay
+375,165,1906,0,1,,Finland,Uruguay
+375,165,1907,5,1,Marks,Finland,Uruguay
+375,165,1908,0,1,Marks,Finland,Uruguay
+375,165,1909,0,1,Marks,Finland,Uruguay
+375,165,1910,0,1,Marks,Finland,Uruguay
+375,165,1911,0,1,Marks,Finland,Uruguay
+375,165,1912,0,1,Marks,Finland,Uruguay
+375,165,1913,1,1,Marks,Finland,Uruguay
+375,165,1914,0,1,Marks,Finland,Uruguay
+375,165,1915,0,1,Marks,Finland,Uruguay
+375,165,1916,0,1,Marks,Finland,Uruguay
+375,165,1917,0,1,Marks,Finland,Uruguay
+375,165,1918,0,1,Marks,Finland,Uruguay
+375,165,1919,0,1,Marks,Finland,Uruguay
+375,165,1920,0,1,Marks,Finland,Uruguay
+375,165,1921,0,1,Marks,Finland,Uruguay
+375,165,1922,0,1,Marks,Finland,Uruguay
+375,165,1923,0,1,Marks,Finland,Uruguay
+375,165,1924,3479018,1,Marks,Finland,Uruguay
+375,165,1925,76300,1,Fmk,Finland,Uruguay
+375,165,1926,1250262,1,Fmk,Finland,Uruguay
+375,165,1927,3148798,1,Fmk,Finland,Uruguay
+375,165,1928,13313335,1,Fmk,Finland,Uruguay
+375,165,1929,482000,1,Fmk,Finland,Uruguay
+375,165,1930,468095,1,Fmk,Finland,Uruguay
+375,165,1931,84095,1,Fmk,Finland,Uruguay
+375,165,1932,0,1,Fmk,Finland,Uruguay
+375,165,1933,427126,1,Fmk,Finland,Uruguay
+375,165,1934,2795341,1,Fmk,Finland,Uruguay
+375,165,1935,7779094,1,Fmk,Finland,Uruguay
+375,200,1901,0,1,,Finland,United Kingdom
+375,200,1902,0,1,,Finland,United Kingdom
+375,200,1903,27120083,1,,Finland,United Kingdom
+375,200,1904,26780800,1,,Finland,United Kingdom
+375,200,1905,28979490,1,,Finland,United Kingdom
+375,200,1906,36078883,1,,Finland,United Kingdom
+375,200,1907,45636303,1,Marks,Finland,United Kingdom
+375,200,1908,46626729,1,Marks,Finland,United Kingdom
+375,200,1909,41306932,1,Marks,Finland,United Kingdom
+375,200,1910,45708097,1,Marks,Finland,United Kingdom
+375,200,1911,61724420,1,Marks,Finland,United Kingdom
+375,200,1912,68334987,1,Marks,Finland,United Kingdom
+375,200,1913,60660418,1,Marks,Finland,United Kingdom
+375,200,1914,33618597,1,Marks,Finland,United Kingdom
+375,200,1915,4894069,1,Marks,Finland,United Kingdom
+375,200,1916,1204130,1,Marks,Finland,United Kingdom
+375,200,1917,1192844,1,Marks,Finland,United Kingdom
+375,200,1918,29466276,1,Marks,Finland,United Kingdom
+375,200,1919,676452640,1,Marks,Finland,United Kingdom
+375,200,1920,1002789694,1,Marks,Finland,United Kingdom
+375,200,1921,708970952,1,Marks,Finland,United Kingdom
+375,200,1922,866733676,1,Marks,Finland,United Kingdom
+375,200,1923,848094587,1,Marks,Finland,United Kingdom
+375,200,1924,884318937,1,Marks,Finland,United Kingdom
+375,200,1925,936942914,1,Fmk,Finland,United Kingdom
+375,200,1926,726747979,1,Fmk,Finland,United Kingdom
+375,200,1927,923625041,1,Fmk,Finland,United Kingdom
+375,200,1928,990418294,1,Fmk,Finland,United Kingdom
+375,200,1929,911926572,1,Fmk,Finland,United Kingdom
+375,200,1930,714642609,1,Fmk,Finland,United Kingdom
+375,200,1931,434598767,1,Fmk,Finland,United Kingdom
+375,200,1932,641096099,1,Fmk,Finland,United Kingdom
+375,200,1933,808203479,1,Fmk,Finland,United Kingdom
+375,200,1934,1089747323,1,Fmk,Finland,United Kingdom
+375,200,1935,1056348386,1,Fmk,Finland,United Kingdom
+375,205,1901,0,1,,Finland,Ireland
+375,205,1902,0,1,,Finland,Ireland
+375,205,1903,0,1,,Finland,Ireland
+375,205,1904,0,1,,Finland,Ireland
+375,205,1905,0,1,,Finland,Ireland
+375,205,1906,0,1,,Finland,Ireland
+375,205,1907,0,1,Marks,Finland,Ireland
+375,205,1908,0,1,Marks,Finland,Ireland
+375,205,1909,0,1,Marks,Finland,Ireland
+375,205,1910,0,1,Marks,Finland,Ireland
+375,205,1911,0,1,Marks,Finland,Ireland
+375,205,1912,0,1,Marks,Finland,Ireland
+375,205,1913,0,1,Marks,Finland,Ireland
+375,205,1914,0,1,Marks,Finland,Ireland
+375,205,1915,0,1,Marks,Finland,Ireland
+375,205,1916,0,1,Marks,Finland,Ireland
+375,205,1917,0,1,Marks,Finland,Ireland
+375,205,1918,0,1,Marks,Finland,Ireland
+375,205,1919,0,1,Marks,Finland,Ireland
+375,205,1920,0,1,Marks,Finland,Ireland
+375,205,1921,0,1,Marks,Finland,Ireland
+375,205,1922,0,1,Marks,Finland,Ireland
+375,205,1923,0,1,Marks,Finland,Ireland
+375,205,1924,0,1,Marks,Finland,Ireland
+375,205,1925,0,1,Fmk,Finland,Ireland
+375,205,1926,0,1,Fmk,Finland,Ireland
+375,205,1927,0,1,Fmk,Finland,Ireland
+375,205,1928,0,1,Fmk,Finland,Ireland
+375,205,1929,0,1,Fmk,Finland,Ireland
+375,205,1930,0,1,Fmk,Finland,Ireland
+375,205,1931,0,1,Fmk,Finland,Ireland
+375,205,1932,0,1,Fmk,Finland,Ireland
+375,205,1933,0,1,Fmk,Finland,Ireland
+375,205,1934,47700,1,Fmk,Finland,Ireland
+375,205,1935,919001,1,Fmk,Finland,Ireland
+375,210,1901,0,1,,Finland,Netherlands
+375,210,1902,0,1,,Finland,Netherlands
+375,210,1903,290150,1,,Finland,Netherlands
+375,210,1904,363453,1,,Finland,Netherlands
+375,210,1905,301069,1,,Finland,Netherlands
+375,210,1906,1622886,1,,Finland,Netherlands
+375,210,1907,2479133,1,Marks,Finland,Netherlands
+375,210,1908,5079567,1,Marks,Finland,Netherlands
+375,210,1909,6455193,1,Marks,Finland,Netherlands
+375,210,1910,6710418,1,Marks,Finland,Netherlands
+375,210,1911,7262470,1,Marks,Finland,Netherlands
+375,210,1912,9214630,1,Marks,Finland,Netherlands
+375,210,1913,10412116,1,Marks,Finland,Netherlands
+375,210,1914,7964409,1,Marks,Finland,Netherlands
+375,210,1915,1841474,1,Marks,Finland,Netherlands
+375,210,1916,1016691,1,Marks,Finland,Netherlands
+375,210,1917,892018,1,Marks,Finland,Netherlands
+375,210,1918,19286878,1,Marks,Finland,Netherlands
+375,210,1919,80699998,1,Marks,Finland,Netherlands
+375,210,1920,55211046,1,Marks,Finland,Netherlands
+375,210,1921,190195043,1,Marks,Finland,Netherlands
+375,210,1922,202072170,1,Marks,Finland,Netherlands
+375,210,1923,246089250,1,Marks,Finland,Netherlands
+375,210,1924,224518840,1,Marks,Finland,Netherlands
+375,210,1925,306500476,1,Fmk,Finland,Netherlands
+375,210,1926,327000472,1,Fmk,Finland,Netherlands
+375,210,1927,277941730,1,Fmk,Finland,Netherlands
+375,210,1928,374006543,1,Fmk,Finland,Netherlands
+375,210,1929,328235678,1,Fmk,Finland,Netherlands
+375,210,1930,227921967,1,Fmk,Finland,Netherlands
+375,210,1931,174088833,1,Fmk,Finland,Netherlands
+375,210,1932,154507861,1,Fmk,Finland,Netherlands
+375,210,1933,140093547,1,Fmk,Finland,Netherlands
+375,210,1934,185095077,1,Fmk,Finland,Netherlands
+375,210,1935,147360230,1,Fmk,Finland,Netherlands
+375,211,1901,0,1,,Finland,Belgium
+375,211,1902,0,1,,Finland,Belgium
+375,211,1903,4820261,1,,Finland,Belgium
+375,211,1904,4725511,1,,Finland,Belgium
+375,211,1905,6540449,1,,Finland,Belgium
+375,211,1906,7970105,1,,Finland,Belgium
+375,211,1907,8034359,1,Marks,Finland,Belgium
+375,211,1908,7058138,1,Marks,Finland,Belgium
+375,211,1909,6387327,1,Marks,Finland,Belgium
+375,211,1910,6657308,1,Marks,Finland,Belgium
+375,211,1911,6141920,1,Marks,Finland,Belgium
+375,211,1912,6527127,1,Marks,Finland,Belgium
+375,211,1913,8039501,1,Marks,Finland,Belgium
+375,211,1914,6109385,1,Marks,Finland,Belgium
+375,211,1915,466840,1,Marks,Finland,Belgium
+375,211,1916,69676,1,Marks,Finland,Belgium
+375,211,1917,140,1,Marks,Finland,Belgium
+375,211,1918,39000,1,Marks,Finland,Belgium
+375,211,1919,10328414,1,Marks,Finland,Belgium
+375,211,1920,42297853,1,Marks,Finland,Belgium
+375,211,1921,30130551,1,Marks,Finland,Belgium
+375,211,1922,96798839,1,Marks,Finland,Belgium
+375,211,1923,145678984,1,Marks,Finland,Belgium
+375,211,1924,135982585,1,Marks,Finland,Belgium
+375,211,1925,149986075,1,Fmk,Finland,Belgium
+375,211,1926,175123329,1,Fmk,Finland,Belgium
+375,211,1927,211357600,1,Fmk,Finland,Belgium
+375,211,1928,299729228,1,Fmk,Finland,Belgium
+375,211,1929,197604278,1,Fmk,Finland,Belgium
+375,211,1930,160454529,1,Fmk,Finland,Belgium
+375,211,1931,121140408,1,Fmk,Finland,Belgium
+375,211,1932,96145626,1,Fmk,Finland,Belgium
+375,211,1933,125879546,1,Fmk,Finland,Belgium
+375,211,1934,211889281,1,Fmk,Finland,Belgium
+375,211,1935,197085491,1,Fmk,Finland,Belgium
+375,212,1901,0,1,,Finland,Luxembourg
+375,212,1902,0,1,,Finland,Luxembourg
+375,212,1903,0,1,,Finland,Luxembourg
+375,212,1904,0,1,,Finland,Luxembourg
+375,212,1905,0,1,,Finland,Luxembourg
+375,212,1906,0,1,,Finland,Luxembourg
+375,212,1907,0,1,Marks,Finland,Luxembourg
+375,212,1908,0,1,Marks,Finland,Luxembourg
+375,212,1909,0,1,Marks,Finland,Luxembourg
+375,212,1910,0,1,Marks,Finland,Luxembourg
+375,212,1911,0,1,Marks,Finland,Luxembourg
+375,212,1912,0,1,Marks,Finland,Luxembourg
+375,212,1913,0,1,Marks,Finland,Luxembourg
+375,212,1914,0,1,Marks,Finland,Luxembourg
+375,212,1915,0,1,Marks,Finland,Luxembourg
+375,212,1916,0,1,Marks,Finland,Luxembourg
+375,212,1917,0,1,Marks,Finland,Luxembourg
+375,212,1918,0,1,Marks,Finland,Luxembourg
+375,212,1919,0,1,Marks,Finland,Luxembourg
+375,212,1920,0,1,Marks,Finland,Luxembourg
+375,212,1921,0,1,Marks,Finland,Luxembourg
+375,212,1922,602,1,Marks,Finland,Luxembourg
+375,212,1923,328109,1,Marks,Finland,Luxembourg
+375,212,1924,1400014,1,Marks,Finland,Luxembourg
+375,212,1925,880979,1,Fmk,Finland,Luxembourg
+375,212,1926,487071,1,Fmk,Finland,Luxembourg
+375,212,1927,1175547,1,Fmk,Finland,Luxembourg
+375,212,1928,1234280,1,Fmk,Finland,Luxembourg
+375,212,1929,335628,1,Fmk,Finland,Luxembourg
+375,212,1930,0,1,Fmk,Finland,Luxembourg
+375,212,1931,0,1,Fmk,Finland,Luxembourg
+375,212,1932,0,1,Fmk,Finland,Luxembourg
+375,212,1933,0,1,Fmk,Finland,Luxembourg
+375,212,1934,0,1,Fmk,Finland,Luxembourg
+375,212,1935,0,1,Fmk,Finland,Luxembourg
+375,220,1901,0,1,,Finland,France
+375,220,1902,0,1,,Finland,France
+375,220,1903,5620946,1,,Finland,France
+375,220,1904,5547781,1,,Finland,France
+375,220,1905,4624834,1,,Finland,France
+375,220,1906,4423431,1,,Finland,France
+375,220,1907,4589212,1,Marks,Finland,France
+375,220,1908,4590609,1,Marks,Finland,France
+375,220,1909,5291658,1,Marks,Finland,France
+375,220,1910,5754010,1,Marks,Finland,France
+375,220,1911,6435995,1,Marks,Finland,France
+375,220,1912,7437066,1,Marks,Finland,France
+375,220,1913,7113267,1,Marks,Finland,France
+375,220,1914,3485985,1,Marks,Finland,France
+375,220,1915,1820381,1,Marks,Finland,France
+375,220,1916,688663,1,Marks,Finland,France
+375,220,1917,393503,1,Marks,Finland,France
+375,220,1918,2637970,1,Marks,Finland,France
+375,220,1919,11573415,1,Marks,Finland,France
+375,220,1920,29630714,1,Marks,Finland,France
+375,220,1921,45750337,1,Marks,Finland,France
+375,220,1922,59150214,1,Marks,Finland,France
+375,220,1923,88240909,1,Marks,Finland,France
+375,220,1924,114227125,1,Marks,Finland,France
+375,220,1925,167277941,1,Fmk,Finland,France
+375,220,1926,200122613,1,Fmk,Finland,France
+375,220,1927,199619889,1,Fmk,Finland,France
+375,220,1928,202734225,1,Fmk,Finland,France
+375,220,1929,189631199,1,Fmk,Finland,France
+375,220,1930,120347261,1,Fmk,Finland,France
+375,220,1931,91566186,1,Fmk,Finland,France
+375,220,1932,74580232,1,Fmk,Finland,France
+375,220,1933,72701005,1,Fmk,Finland,France
+375,220,1934,121037179,1,Fmk,Finland,France
+375,220,1935,154328146,1,Fmk,Finland,France
+375,225,1901,0,1,,Finland,Switzerland
+375,225,1902,0,1,,Finland,Switzerland
+375,225,1903,411725,1,,Finland,Switzerland
+375,225,1904,479769,1,,Finland,Switzerland
+375,225,1905,557927,1,,Finland,Switzerland
+375,225,1906,937942,1,,Finland,Switzerland
+375,225,1907,1090378,1,Marks,Finland,Switzerland
+375,225,1908,984547,1,Marks,Finland,Switzerland
+375,225,1909,837240,1,Marks,Finland,Switzerland
+375,225,1910,991997,1,Marks,Finland,Switzerland
+375,225,1911,1083603,1,Marks,Finland,Switzerland
+375,225,1912,1180424,1,Marks,Finland,Switzerland
+375,225,1913,1071528,1,Marks,Finland,Switzerland
+375,225,1914,577266,1,Marks,Finland,Switzerland
+375,225,1915,120664,1,Marks,Finland,Switzerland
+375,225,1916,417189,1,Marks,Finland,Switzerland
+375,225,1917,708245,1,Marks,Finland,Switzerland
+375,225,1918,2333284,1,Marks,Finland,Switzerland
+375,225,1919,14069103,1,Marks,Finland,Switzerland
+375,225,1920,27095499,1,Marks,Finland,Switzerland
+375,225,1921,14114816,1,Marks,Finland,Switzerland
+375,225,1922,23946005,1,Marks,Finland,Switzerland
+375,225,1923,31032825,1,Marks,Finland,Switzerland
+375,225,1924,30021126,1,Marks,Finland,Switzerland
+375,225,1925,28660391,1,Fmk,Finland,Switzerland
+375,225,1926,32777488,1,Fmk,Finland,Switzerland
+375,225,1927,36734241,1,Fmk,Finland,Switzerland
+375,225,1928,46934073,1,Fmk,Finland,Switzerland
+375,225,1929,39204418,1,Fmk,Finland,Switzerland
+375,225,1930,37406374,1,Fmk,Finland,Switzerland
+375,225,1931,38588109,1,Fmk,Finland,Switzerland
+375,225,1932,18717453,1,Fmk,Finland,Switzerland
+375,225,1933,24138376,1,Fmk,Finland,Switzerland
+375,225,1934,68839760,1,Fmk,Finland,Switzerland
+375,225,1935,53485914,1,Fmk,Finland,Switzerland
+375,230,1901,0,1,,Finland,Spain
+375,230,1902,0,1,,Finland,Spain
+375,230,1903,1965685,1,,Finland,Spain
+375,230,1904,1915770,1,,Finland,Spain
+375,230,1905,1712990,1,,Finland,Spain
+375,230,1906,1743278,1,,Finland,Spain
+375,230,1907,2057094,1,Marks,Finland,Spain
+375,230,1908,3070171,1,Marks,Finland,Spain
+375,230,1909,1850874,1,Marks,Finland,Spain
+375,230,1910,2314937,1,Marks,Finland,Spain
+375,230,1911,2216657,1,Marks,Finland,Spain
+375,230,1912,2235898,1,Marks,Finland,Spain
+375,230,1913,2691701,1,Marks,Finland,Spain
+375,230,1914,1490660,1,Marks,Finland,Spain
+375,230,1915,385278,1,Marks,Finland,Spain
+375,230,1916,22313,1,Marks,Finland,Spain
+375,230,1917,378,1,Marks,Finland,Spain
+375,230,1918,0,1,Marks,Finland,Spain
+375,230,1919,13799499,1,Marks,Finland,Spain
+375,230,1920,15602659,1,Marks,Finland,Spain
+375,230,1921,6394723,1,Marks,Finland,Spain
+375,230,1922,10567046,1,Marks,Finland,Spain
+375,230,1923,9937502,1,Marks,Finland,Spain
+375,230,1924,13240791,1,Marks,Finland,Spain
+375,230,1925,17173387,1,Fmk,Finland,Spain
+375,230,1926,33901608,1,Fmk,Finland,Spain
+375,230,1927,29958679,1,Fmk,Finland,Spain
+375,230,1928,29955578,1,Fmk,Finland,Spain
+375,230,1929,27818288,1,Fmk,Finland,Spain
+375,230,1930,21780573,1,Fmk,Finland,Spain
+375,230,1931,19442582,1,Fmk,Finland,Spain
+375,230,1932,28755929,1,Fmk,Finland,Spain
+375,230,1933,24247093,1,Fmk,Finland,Spain
+375,230,1934,26609268,1,Fmk,Finland,Spain
+375,230,1935,32806403,1,Fmk,Finland,Spain
+375,235,1901,0,1,,Finland,Portugal
+375,235,1902,0,1,,Finland,Portugal
+375,235,1903,191795,1,,Finland,Portugal
+375,235,1904,305551,1,,Finland,Portugal
+375,235,1905,300350,1,,Finland,Portugal
+375,235,1906,527959,1,,Finland,Portugal
+375,235,1907,423344,1,Marks,Finland,Portugal
+375,235,1908,409332,1,Marks,Finland,Portugal
+375,235,1909,323635,1,Marks,Finland,Portugal
+375,235,1910,263112,1,Marks,Finland,Portugal
+375,235,1911,535071,1,Marks,Finland,Portugal
+375,235,1912,402176,1,Marks,Finland,Portugal
+375,235,1913,448237,1,Marks,Finland,Portugal
+375,235,1914,258627,1,Marks,Finland,Portugal
+375,235,1915,128920,1,Marks,Finland,Portugal
+375,235,1916,119,1,Marks,Finland,Portugal
+375,235,1917,2268,1,Marks,Finland,Portugal
+375,235,1918,0,1,Marks,Finland,Portugal
+375,235,1919,951209,1,Marks,Finland,Portugal
+375,235,1920,3003541,1,Marks,Finland,Portugal
+375,235,1921,697243,1,Marks,Finland,Portugal
+375,235,1922,1548414,1,Marks,Finland,Portugal
+375,235,1923,1458855,1,Marks,Finland,Portugal
+375,235,1924,1919612,1,Marks,Finland,Portugal
+375,235,1925,2847517,1,Fmk,Finland,Portugal
+375,235,1926,3226068,1,Fmk,Finland,Portugal
+375,235,1927,3085188,1,Fmk,Finland,Portugal
+375,235,1928,2508813,1,Fmk,Finland,Portugal
+375,235,1929,3138146,1,Fmk,Finland,Portugal
+375,235,1930,2381732,1,Fmk,Finland,Portugal
+375,235,1931,2018438,1,Fmk,Finland,Portugal
+375,235,1932,2170062,1,Fmk,Finland,Portugal
+375,235,1933,4233510,1,Fmk,Finland,Portugal
+375,235,1934,3303833,1,Fmk,Finland,Portugal
+375,235,1935,7722886,1,Fmk,Finland,Portugal
+375,255,1901,0,1,,Finland,Germany
+375,255,1902,0,1,,Finland,Germany
+375,255,1903,97462289,1,,Finland,Germany
+375,255,1904,94905095,1,,Finland,Germany
+375,255,1905,101287577,1,,Finland,Germany
+375,255,1906,123686730,1,,Finland,Germany
+375,255,1907,152937960,1,Marks,Finland,Germany
+375,255,1908,146007051,1,Marks,Finland,Germany
+375,255,1909,144577333,1,Marks,Finland,Germany
+375,255,1910,159679959,1,Marks,Finland,Germany
+375,255,1911,173373012,1,Marks,Finland,Germany
+375,255,1912,186763651,1,Marks,Finland,Germany
+375,255,1913,202534531,1,Marks,Finland,Germany
+375,255,1914,118377858,1,Marks,Finland,Germany
+375,255,1915,6944313,1,Marks,Finland,Germany
+375,255,1916,450604,1,Marks,Finland,Germany
+375,255,1917,110835,1,Marks,Finland,Germany
+375,255,1918,101181781,1,Marks,Finland,Germany
+375,255,1919,157005221,1,Marks,Finland,Germany
+375,255,1920,611182010,1,Marks,Finland,Germany
+375,255,1921,1205899007,1,Marks,Finland,Germany
+375,255,1922,1316124084,1,Marks,Finland,Germany
+375,255,1923,1564409557,1,Marks,Finland,Germany
+375,255,1924,1410941722,1,Marks,Finland,Germany
+375,255,1925,1759942579,1,Fmk,Finland,Germany
+375,255,1926,1975168707,1,Fmk,Finland,Germany
+375,255,1927,2075341815,1,Fmk,Finland,Germany
+375,255,1928,2961768113,1,Fmk,Finland,Germany
+375,255,1929,2683009228,1,Fmk,Finland,Germany
+375,255,1930,1936711091,1,Fmk,Finland,Germany
+375,255,1931,1209883446,1,Fmk,Finland,Germany
+375,255,1932,1002547652,1,Fmk,Finland,Germany
+375,255,1933,1081421930,1,Fmk,Finland,Germany
+375,255,1934,988172896,1,Fmk,Finland,Germany
+375,255,1935,927669927,1,Fmk,Finland,Germany
+375,290,1901,0,1,,Finland,Poland
+375,290,1902,0,1,,Finland,Poland
+375,290,1903,0,1,,Finland,Poland
+375,290,1904,0,1,,Finland,Poland
+375,290,1905,0,1,,Finland,Poland
+375,290,1906,0,1,,Finland,Poland
+375,290,1907,0,1,Marks,Finland,Poland
+375,290,1908,0,1,Marks,Finland,Poland
+375,290,1909,0,1,Marks,Finland,Poland
+375,290,1910,0,1,Marks,Finland,Poland
+375,290,1911,0,1,Marks,Finland,Poland
+375,290,1912,0,1,Marks,Finland,Poland
+375,290,1913,0,1,Marks,Finland,Poland
+375,290,1914,0,1,Marks,Finland,Poland
+375,290,1915,0,1,Marks,Finland,Poland
+375,290,1916,0,1,Marks,Finland,Poland
+375,290,1917,0,1,Marks,Finland,Poland
+375,290,1918,0,1,Marks,Finland,Poland
+375,290,1919,0,1,Marks,Finland,Poland
+375,290,1920,1185,1,Marks,Finland,Poland
+375,290,1921,3278124,1,Marks,Finland,Poland
+375,290,1922,18067343,1,Marks,Finland,Poland
+375,290,1923,29148900,1,Marks,Finland,Poland
+375,290,1924,49327580,1,Marks,Finland,Poland
+375,290,1925,49101673,1,Fmk,Finland,Poland
+375,290,1926,86509981,1,Fmk,Finland,Poland
+375,290,1927,49537291,1,Fmk,Finland,Poland
+375,290,1928,93388070,1,Fmk,Finland,Poland
+375,290,1929,117591647,1,Fmk,Finland,Poland
+375,290,1930,115926360,1,Fmk,Finland,Poland
+375,290,1931,124268094,1,Fmk,Finland,Poland
+375,290,1932,96537908,1,Fmk,Finland,Poland
+375,290,1933,131578468,1,Fmk,Finland,Poland
+375,290,1934,131638521,1,Fmk,Finland,Poland
+375,290,1935,150918930,1,Fmk,Finland,Poland
+375,291,1901,0,1,,Finland,Danzig
+375,291,1902,0,1,,Finland,Danzig
+375,291,1903,0,1,,Finland,Danzig
+375,291,1904,0,1,,Finland,Danzig
+375,291,1905,0,1,,Finland,Danzig
+375,291,1906,0,1,,Finland,Danzig
+375,291,1907,0,1,Marks,Finland,Danzig
+375,291,1908,0,1,Marks,Finland,Danzig
+375,291,1909,0,1,Marks,Finland,Danzig
+375,291,1910,0,1,Marks,Finland,Danzig
+375,291,1911,0,1,Marks,Finland,Danzig
+375,291,1912,0,1,Marks,Finland,Danzig
+375,291,1913,0,1,Marks,Finland,Danzig
+375,291,1914,0,1,Marks,Finland,Danzig
+375,291,1915,0,1,Marks,Finland,Danzig
+375,291,1916,0,1,Marks,Finland,Danzig
+375,291,1917,0,1,Marks,Finland,Danzig
+375,291,1918,0,1,Marks,Finland,Danzig
+375,291,1919,0,1,Marks,Finland,Danzig
+375,291,1920,0,1,Marks,Finland,Danzig
+375,291,1921,13765436,1,Marks,Finland,Danzig
+375,291,1922,35940388,1,Marks,Finland,Danzig
+375,291,1923,28222048,1,Marks,Finland,Danzig
+375,291,1924,29885961,1,Marks,Finland,Danzig
+375,291,1925,19345132,1,Fmk,Finland,Danzig
+375,291,1926,38491343,1,Fmk,Finland,Danzig
+375,291,1927,20009559,1,Fmk,Finland,Danzig
+375,291,1928,33773006,1,Fmk,Finland,Danzig
+375,291,1929,35042218,1,Fmk,Finland,Danzig
+375,291,1930,24460759,1,Fmk,Finland,Danzig
+375,291,1931,0,1,Fmk,Finland,Danzig
+375,291,1932,0,1,Fmk,Finland,Danzig
+375,291,1933,0,1,Fmk,Finland,Danzig
+375,291,1934,0,1,Fmk,Finland,Danzig
+375,291,1935,0,1,Fmk,Finland,Danzig
+375,305,1901,0,1,,Finland,Austria
+375,305,1902,0,1,,Finland,Austria
+375,305,1903,0,1,,Finland,Austria
+375,305,1904,0,1,,Finland,Austria
+375,305,1905,0,1,,Finland,Austria
+375,305,1906,0,1,,Finland,Austria
+375,305,1907,0,1,Marks,Finland,Austria
+375,305,1908,0,1,Marks,Finland,Austria
+375,305,1909,0,1,Marks,Finland,Austria
+375,305,1910,0,1,Marks,Finland,Austria
+375,305,1911,0,1,Marks,Finland,Austria
+375,305,1912,0,1,Marks,Finland,Austria
+375,305,1913,0,1,Marks,Finland,Austria
+375,305,1914,0,1,Marks,Finland,Austria
+375,305,1915,0,1,Marks,Finland,Austria
+375,305,1916,0,1,Marks,Finland,Austria
+375,305,1917,0,1,Marks,Finland,Austria
+375,305,1918,0,1,Marks,Finland,Austria
+375,305,1919,423334,1,Marks,Finland,Austria
+375,305,1920,1877380,1,Marks,Finland,Austria
+375,305,1921,1341965,1,Marks,Finland,Austria
+375,305,1922,3908402,1,Marks,Finland,Austria
+375,305,1923,5811688,1,Marks,Finland,Austria
+375,305,1924,7086456,1,Marks,Finland,Austria
+375,305,1925,10023350,1,Fmk,Finland,Austria
+375,305,1926,10478389,1,Fmk,Finland,Austria
+375,305,1927,14859326,1,Fmk,Finland,Austria
+375,305,1928,15905230,1,Fmk,Finland,Austria
+375,305,1929,12922003,1,Fmk,Finland,Austria
+375,305,1930,11648707,1,Fmk,Finland,Austria
+375,305,1931,9171413,1,Fmk,Finland,Austria
+375,305,1932,8402700,1,Fmk,Finland,Austria
+375,305,1933,8637868,1,Fmk,Finland,Austria
+375,305,1934,32094705,1,Fmk,Finland,Austria
+375,305,1935,47277344,1,Fmk,Finland,Austria
+375,310,1901,0,1,,Finland,Hungary
+375,310,1902,0,1,,Finland,Hungary
+375,310,1903,0,1,,Finland,Hungary
+375,310,1904,0,1,,Finland,Hungary
+375,310,1905,0,1,,Finland,Hungary
+375,310,1906,0,1,,Finland,Hungary
+375,310,1907,0,1,Marks,Finland,Hungary
+375,310,1908,0,1,Marks,Finland,Hungary
+375,310,1909,0,1,Marks,Finland,Hungary
+375,310,1910,0,1,Marks,Finland,Hungary
+375,310,1911,0,1,Marks,Finland,Hungary
+375,310,1912,0,1,Marks,Finland,Hungary
+375,310,1913,0,1,Marks,Finland,Hungary
+375,310,1914,0,1,Marks,Finland,Hungary
+375,310,1915,0,1,Marks,Finland,Hungary
+375,310,1916,0,1,Marks,Finland,Hungary
+375,310,1917,0,1,Marks,Finland,Hungary
+375,310,1918,0,1,Marks,Finland,Hungary
+375,310,1919,0,1,Marks,Finland,Hungary
+375,310,1920,0,1,Marks,Finland,Hungary
+375,310,1921,215296,1,Marks,Finland,Hungary
+375,310,1922,1603723,1,Marks,Finland,Hungary
+375,310,1923,758516,1,Marks,Finland,Hungary
+375,310,1924,930332,1,Marks,Finland,Hungary
+375,310,1925,2007495,1,Fmk,Finland,Hungary
+375,310,1926,1783574,1,Fmk,Finland,Hungary
+375,310,1927,3612383,1,Fmk,Finland,Hungary
+375,310,1928,5414996,1,Fmk,Finland,Hungary
+375,310,1929,25037563,1,Fmk,Finland,Hungary
+375,310,1930,9211068,1,Fmk,Finland,Hungary
+375,310,1931,8001260,1,Fmk,Finland,Hungary
+375,310,1932,3273367,1,Fmk,Finland,Hungary
+375,310,1933,4931994,1,Fmk,Finland,Hungary
+375,310,1934,9941502,1,Fmk,Finland,Hungary
+375,310,1935,14348396,1,Fmk,Finland,Hungary
+375,315,1901,0,1,,Finland,Czechoslovakia
+375,315,1902,0,1,,Finland,Czechoslovakia
+375,315,1903,0,1,,Finland,Czechoslovakia
+375,315,1904,0,1,,Finland,Czechoslovakia
+375,315,1905,0,1,,Finland,Czechoslovakia
+375,315,1906,0,1,,Finland,Czechoslovakia
+375,315,1907,0,1,Marks,Finland,Czechoslovakia
+375,315,1908,0,1,Marks,Finland,Czechoslovakia
+375,315,1909,0,1,Marks,Finland,Czechoslovakia
+375,315,1910,0,1,Marks,Finland,Czechoslovakia
+375,315,1911,0,1,Marks,Finland,Czechoslovakia
+375,315,1912,0,1,Marks,Finland,Czechoslovakia
+375,315,1913,0,1,Marks,Finland,Czechoslovakia
+375,315,1914,0,1,Marks,Finland,Czechoslovakia
+375,315,1915,0,1,Marks,Finland,Czechoslovakia
+375,315,1916,0,1,Marks,Finland,Czechoslovakia
+375,315,1917,0,1,Marks,Finland,Czechoslovakia
+375,315,1918,0,1,Marks,Finland,Czechoslovakia
+375,315,1919,0,1,Marks,Finland,Czechoslovakia
+375,315,1920,722158,1,Marks,Finland,Czechoslovakia
+375,315,1921,16158067,1,Marks,Finland,Czechoslovakia
+375,315,1922,11851997,1,Marks,Finland,Czechoslovakia
+375,315,1923,29673611,1,Marks,Finland,Czechoslovakia
+375,315,1924,32836797,1,Marks,Finland,Czechoslovakia
+375,315,1925,67469367,1,Fmk,Finland,Czechoslovakia
+375,315,1926,40301138,1,Fmk,Finland,Czechoslovakia
+375,315,1927,75107471,1,Fmk,Finland,Czechoslovakia
+375,315,1928,114727038,1,Fmk,Finland,Czechoslovakia
+375,315,1929,99474743,1,Fmk,Finland,Czechoslovakia
+375,315,1930,79135295,1,Fmk,Finland,Czechoslovakia
+375,315,1931,58134017,1,Fmk,Finland,Czechoslovakia
+375,315,1932,38855784,1,Fmk,Finland,Czechoslovakia
+375,315,1933,17899083,1,Fmk,Finland,Czechoslovakia
+375,315,1934,68391344,1,Fmk,Finland,Czechoslovakia
+375,315,1935,93882896,1,Fmk,Finland,Czechoslovakia
+375,325,1901,0,1,,Finland,Italy
+375,325,1902,0,1,,Finland,Italy
+375,325,1903,435996,1,,Finland,Italy
+375,325,1904,611558,1,,Finland,Italy
+375,325,1905,1018879,1,,Finland,Italy
+375,325,1906,768513,1,,Finland,Italy
+375,325,1907,1204540,1,Marks,Finland,Italy
+375,325,1908,1273726,1,Marks,Finland,Italy
+375,325,1909,1273066,1,Marks,Finland,Italy
+375,325,1910,1572030,1,Marks,Finland,Italy
+375,325,1911,1143080,1,Marks,Finland,Italy
+375,325,1912,1634600,1,Marks,Finland,Italy
+375,325,1913,1717042,1,Marks,Finland,Italy
+375,325,1914,1663266,1,Marks,Finland,Italy
+375,325,1915,81951,1,Marks,Finland,Italy
+375,325,1916,13364,1,Marks,Finland,Italy
+375,325,1917,5345,1,Marks,Finland,Italy
+375,325,1918,87806,1,Marks,Finland,Italy
+375,325,1919,1351309,1,Marks,Finland,Italy
+375,325,1920,15745948,1,Marks,Finland,Italy
+375,325,1921,9914222,1,Marks,Finland,Italy
+375,325,1922,8335881,1,Marks,Finland,Italy
+375,325,1923,14118211,1,Marks,Finland,Italy
+375,325,1924,17621060,1,Marks,Finland,Italy
+375,325,1925,30206059,1,Fmk,Finland,Italy
+375,325,1926,39439812,1,Fmk,Finland,Italy
+375,325,1927,37970926,1,Fmk,Finland,Italy
+375,325,1928,48392961,1,Fmk,Finland,Italy
+375,325,1929,52017612,1,Fmk,Finland,Italy
+375,325,1930,39892177,1,Fmk,Finland,Italy
+375,325,1931,53449756,1,Fmk,Finland,Italy
+375,325,1932,91658266,1,Fmk,Finland,Italy
+375,325,1933,38040553,1,Fmk,Finland,Italy
+375,325,1934,36917421,1,Fmk,Finland,Italy
+375,325,1935,63288627,1,Fmk,Finland,Italy
+375,339,1901,0,1,,Finland,Albania
+375,339,1902,0,1,,Finland,Albania
+375,339,1903,0,1,,Finland,Albania
+375,339,1904,0,1,,Finland,Albania
+375,339,1905,0,1,,Finland,Albania
+375,339,1906,0,1,,Finland,Albania
+375,339,1907,0,1,Marks,Finland,Albania
+375,339,1908,0,1,Marks,Finland,Albania
+375,339,1909,0,1,Marks,Finland,Albania
+375,339,1910,0,1,Marks,Finland,Albania
+375,339,1911,0,1,Marks,Finland,Albania
+375,339,1912,0,1,Marks,Finland,Albania
+375,339,1913,0,1,Marks,Finland,Albania
+375,339,1914,0,1,Marks,Finland,Albania
+375,339,1915,0,1,Marks,Finland,Albania
+375,339,1916,0,1,Marks,Finland,Albania
+375,339,1917,0,1,Marks,Finland,Albania
+375,339,1918,0,1,Marks,Finland,Albania
+375,339,1919,0,1,Marks,Finland,Albania
+375,339,1920,0,1,Marks,Finland,Albania
+375,339,1921,0,1,Marks,Finland,Albania
+375,339,1922,0,1,Marks,Finland,Albania
+375,339,1923,4560,1,Marks,Finland,Albania
+375,339,1924,0,1,Marks,Finland,Albania
+375,339,1925,0,1,Fmk,Finland,Albania
+375,339,1926,0,1,Fmk,Finland,Albania
+375,339,1927,0,1,Fmk,Finland,Albania
+375,339,1928,0,1,Fmk,Finland,Albania
+375,339,1929,0,1,Fmk,Finland,Albania
+375,339,1930,0,1,Fmk,Finland,Albania
+375,339,1931,0,1,Fmk,Finland,Albania
+375,339,1932,0,1,Fmk,Finland,Albania
+375,339,1933,0,1,Fmk,Finland,Albania
+375,339,1934,0,1,Fmk,Finland,Albania
+375,339,1935,0,1,Fmk,Finland,Albania
+375,345,1901,0,1,,Finland,Yugoslavia
+375,345,1902,0,1,,Finland,Yugoslavia
+375,345,1903,115,1,,Finland,Yugoslavia
+375,345,1904,0,1,,Finland,Yugoslavia
+375,345,1905,0,1,,Finland,Yugoslavia
+375,345,1906,3,1,,Finland,Yugoslavia
+375,345,1907,0,1,Marks,Finland,Yugoslavia
+375,345,1908,80,1,Marks,Finland,Yugoslavia
+375,345,1909,0,1,Marks,Finland,Yugoslavia
+375,345,1910,9,1,Marks,Finland,Yugoslavia
+375,345,1911,0,1,Marks,Finland,Yugoslavia
+375,345,1912,0,1,Marks,Finland,Yugoslavia
+375,345,1913,10,1,Marks,Finland,Yugoslavia
+375,345,1914,32,1,Marks,Finland,Yugoslavia
+375,345,1915,0,1,Marks,Finland,Yugoslavia
+375,345,1916,0,1,Marks,Finland,Yugoslavia
+375,345,1917,0,1,Marks,Finland,Yugoslavia
+375,345,1918,0,1,Marks,Finland,Yugoslavia
+375,345,1919,0,1,Marks,Finland,Yugoslavia
+375,345,1920,0,1,Marks,Finland,Yugoslavia
+375,345,1921,0,1,Marks,Finland,Yugoslavia
+375,345,1922,28277,1,Marks,Finland,Yugoslavia
+375,345,1923,1933261,1,Marks,Finland,Yugoslavia
+375,345,1924,539374,1,Marks,Finland,Yugoslavia
+375,345,1925,37831,1,Fmk,Finland,Yugoslavia
+375,345,1926,28585,1,Fmk,Finland,Yugoslavia
+375,345,1927,43952,1,Fmk,Finland,Yugoslavia
+375,345,1928,40833,1,Fmk,Finland,Yugoslavia
+375,345,1929,29609,1,Fmk,Finland,Yugoslavia
+375,345,1930,42960,1,Fmk,Finland,Yugoslavia
+375,345,1931,63762,1,Fmk,Finland,Yugoslavia
+375,345,1932,151284,1,Fmk,Finland,Yugoslavia
+375,345,1933,118260,1,Fmk,Finland,Yugoslavia
+375,345,1934,174268,1,Fmk,Finland,Yugoslavia
+375,345,1935,1572493,1,Fmk,Finland,Yugoslavia
+375,350,1901,0,1,,Finland,Greece
+375,350,1902,0,1,,Finland,Greece
+375,350,1903,26,1,,Finland,Greece
+375,350,1904,118,1,,Finland,Greece
+375,350,1905,16,1,,Finland,Greece
+375,350,1906,185,1,,Finland,Greece
+375,350,1907,2866,1,Marks,Finland,Greece
+375,350,1908,117,1,Marks,Finland,Greece
+375,350,1909,1002,1,Marks,Finland,Greece
+375,350,1910,82,1,Marks,Finland,Greece
+375,350,1911,275,1,Marks,Finland,Greece
+375,350,1912,326,1,Marks,Finland,Greece
+375,350,1913,110,1,Marks,Finland,Greece
+375,350,1914,88,1,Marks,Finland,Greece
+375,350,1915,6702,1,Marks,Finland,Greece
+375,350,1916,0,1,Marks,Finland,Greece
+375,350,1917,0,1,Marks,Finland,Greece
+375,350,1918,23230,1,Marks,Finland,Greece
+375,350,1919,14708546,1,Marks,Finland,Greece
+375,350,1920,14720637,1,Marks,Finland,Greece
+375,350,1921,1650282,1,Marks,Finland,Greece
+375,350,1922,3309599,1,Marks,Finland,Greece
+375,350,1923,1299279,1,Marks,Finland,Greece
+375,350,1924,869420,1,Marks,Finland,Greece
+375,350,1925,3314692,1,Fmk,Finland,Greece
+375,350,1926,6458832,1,Fmk,Finland,Greece
+375,350,1927,10249722,1,Fmk,Finland,Greece
+375,350,1928,8647895,1,Fmk,Finland,Greece
+375,350,1929,14136087,1,Fmk,Finland,Greece
+375,350,1930,22233089,1,Fmk,Finland,Greece
+375,350,1931,2407405,1,Fmk,Finland,Greece
+375,350,1932,1742189,1,Fmk,Finland,Greece
+375,350,1933,2981913,1,Fmk,Finland,Greece
+375,350,1934,7995327,1,Fmk,Finland,Greece
+375,350,1935,31809124,1,Fmk,Finland,Greece
+375,352,1901,0,1,,Finland,Cyprus
+375,352,1902,0,1,,Finland,Cyprus
+375,352,1903,0,1,,Finland,Cyprus
+375,352,1904,0,1,,Finland,Cyprus
+375,352,1905,0,1,,Finland,Cyprus
+375,352,1906,0,1,,Finland,Cyprus
+375,352,1907,0,1,Marks,Finland,Cyprus
+375,352,1908,0,1,Marks,Finland,Cyprus
+375,352,1909,0,1,Marks,Finland,Cyprus
+375,352,1910,0,1,Marks,Finland,Cyprus
+375,352,1911,0,1,Marks,Finland,Cyprus
+375,352,1912,0,1,Marks,Finland,Cyprus
+375,352,1913,0,1,Marks,Finland,Cyprus
+375,352,1914,0,1,Marks,Finland,Cyprus
+375,352,1915,0,1,Marks,Finland,Cyprus
+375,352,1916,0,1,Marks,Finland,Cyprus
+375,352,1917,0,1,Marks,Finland,Cyprus
+375,352,1918,0,1,Marks,Finland,Cyprus
+375,352,1919,0,1,Marks,Finland,Cyprus
+375,352,1920,0,1,Marks,Finland,Cyprus
+375,352,1921,0,1,Marks,Finland,Cyprus
+375,352,1922,0,1,Marks,Finland,Cyprus
+375,352,1923,0,1,Marks,Finland,Cyprus
+375,352,1924,0,1,Marks,Finland,Cyprus
+375,352,1925,0,1,Fmk,Finland,Cyprus
+375,352,1926,3200,1,Fmk,Finland,Cyprus
+375,352,1927,0,1,Fmk,Finland,Cyprus
+375,352,1928,0,1,Fmk,Finland,Cyprus
+375,352,1929,400,1,Fmk,Finland,Cyprus
+375,352,1930,0,1,Fmk,Finland,Cyprus
+375,352,1931,0,1,Fmk,Finland,Cyprus
+375,352,1932,0,1,Fmk,Finland,Cyprus
+375,352,1933,0,1,Fmk,Finland,Cyprus
+375,352,1934,91900,1,Fmk,Finland,Cyprus
+375,352,1935,605977,1,Fmk,Finland,Cyprus
+375,355,1901,0,1,,Finland,Bulgaria
+375,355,1902,0,1,,Finland,Bulgaria
+375,355,1903,0,1,,Finland,Bulgaria
+375,355,1904,100,1,,Finland,Bulgaria
+375,355,1905,0,1,,Finland,Bulgaria
+375,355,1906,40,1,,Finland,Bulgaria
+375,355,1907,0,1,Marks,Finland,Bulgaria
+375,355,1908,50,1,Marks,Finland,Bulgaria
+375,355,1909,0,1,Marks,Finland,Bulgaria
+375,355,1910,76,1,Marks,Finland,Bulgaria
+375,355,1911,306,1,Marks,Finland,Bulgaria
+375,355,1912,5,1,Marks,Finland,Bulgaria
+375,355,1913,20,1,Marks,Finland,Bulgaria
+375,355,1914,0,1,Marks,Finland,Bulgaria
+375,355,1915,10,1,Marks,Finland,Bulgaria
+375,355,1916,0,1,Marks,Finland,Bulgaria
+375,355,1917,0,1,Marks,Finland,Bulgaria
+375,355,1918,0,1,Marks,Finland,Bulgaria
+375,355,1919,0,1,Marks,Finland,Bulgaria
+375,355,1920,0,1,Marks,Finland,Bulgaria
+375,355,1921,562021,1,Marks,Finland,Bulgaria
+375,355,1922,709713,1,Marks,Finland,Bulgaria
+375,355,1923,244628,1,Marks,Finland,Bulgaria
+375,355,1924,175568,1,Marks,Finland,Bulgaria
+375,355,1925,2498374,1,Fmk,Finland,Bulgaria
+375,355,1926,6784649,1,Fmk,Finland,Bulgaria
+375,355,1927,3120382,1,Fmk,Finland,Bulgaria
+375,355,1928,4011271,1,Fmk,Finland,Bulgaria
+375,355,1929,887726,1,Fmk,Finland,Bulgaria
+375,355,1930,225041,1,Fmk,Finland,Bulgaria
+375,355,1931,350999,1,Fmk,Finland,Bulgaria
+375,355,1932,2085497,1,Fmk,Finland,Bulgaria
+375,355,1933,459613,1,Fmk,Finland,Bulgaria
+375,355,1934,474868,1,Fmk,Finland,Bulgaria
+375,355,1935,6289904,1,Fmk,Finland,Bulgaria
+375,360,1901,0,1,,Finland,Romania
+375,360,1902,0,1,,Finland,Romania
+375,360,1903,10,1,,Finland,Romania
+375,360,1904,0,1,,Finland,Romania
+375,360,1905,0,1,,Finland,Romania
+375,360,1906,0,1,,Finland,Romania
+375,360,1907,0,1,Marks,Finland,Romania
+375,360,1908,79,1,Marks,Finland,Romania
+375,360,1909,0,1,Marks,Finland,Romania
+375,360,1910,285,1,Marks,Finland,Romania
+375,360,1911,190,1,Marks,Finland,Romania
+375,360,1912,162,1,Marks,Finland,Romania
+375,360,1913,105,1,Marks,Finland,Romania
+375,360,1914,0,1,Marks,Finland,Romania
+375,360,1915,0,1,Marks,Finland,Romania
+375,360,1916,0,1,Marks,Finland,Romania
+375,360,1917,0,1,Marks,Finland,Romania
+375,360,1918,0,1,Marks,Finland,Romania
+375,360,1919,0,1,Marks,Finland,Romania
+375,360,1920,0,1,Marks,Finland,Romania
+375,360,1921,0,1,Marks,Finland,Romania
+375,360,1922,0,1,Marks,Finland,Romania
+375,360,1923,204303,1,Marks,Finland,Romania
+375,360,1924,339410,1,Marks,Finland,Romania
+375,360,1925,23380,1,Fmk,Finland,Romania
+375,360,1926,126575,1,Fmk,Finland,Romania
+375,360,1927,163795,1,Fmk,Finland,Romania
+375,360,1928,40535,1,Fmk,Finland,Romania
+375,360,1929,251135,1,Fmk,Finland,Romania
+375,360,1930,5068657,1,Fmk,Finland,Romania
+375,360,1931,381372,1,Fmk,Finland,Romania
+375,360,1932,731361,1,Fmk,Finland,Romania
+375,360,1933,1888201,1,Fmk,Finland,Romania
+375,360,1934,3563379,1,Fmk,Finland,Romania
+375,360,1935,30908374,1,Fmk,Finland,Romania
+375,365,1901,86114605,1,,Finland,Russia
+375,365,1902,92400401,1,,Finland,Russia
+375,365,1903,102126451,1,,Finland,Russia
+375,365,1904,104886791,1,,Finland,Russia
+375,365,1905,94495474,1,,Finland,Russia
+375,365,1906,95498784,1,,Finland,Russia
+375,365,1907,110836044,1,Marks,Finland,Russia
+375,365,1908,98634483,1,Marks,Finland,Russia
+375,365,1909,116819894,1,Marks,Finland,Russia
+375,365,1910,109676786,1,Marks,Finland,Russia
+375,365,1911,137037578,1,Marks,Finland,Russia
+375,365,1912,131150448,1,Marks,Finland,Russia
+375,365,1913,139505420,1,Marks,Finland,Russia
+375,365,1914,144440054,1,Marks,Finland,Russia
+375,365,1915,382326298,1,Marks,Finland,Russia
+375,365,1916,594537779,1,Marks,Finland,Russia
+375,365,1917,572377310,1,Marks,Finland,Russia
+375,365,1918,47813419,1,Marks,Finland,Russia
+375,365,1919,6034732,1,Marks,Finland,Russia
+375,365,1920,1194786,1,Marks,Finland,Russia
+375,365,1921,500528,1,Marks,Finland,Russia
+375,365,1922,18598263,1,Marks,Finland,Russia
+375,365,1923,215496559,1,Marks,Finland,Russia
+375,365,1924,221020465,1,Marks,Finland,Russia
+375,365,1925,74437375,1,Fmk,Finland,Russia
+375,365,1926,107602493,1,Fmk,Finland,Russia
+375,365,1927,209224739,1,Fmk,Finland,Russia
+375,365,1928,126081566,1,Fmk,Finland,Russia
+375,365,1929,119067913,1,Fmk,Finland,Russia
+375,365,1930,131838543,1,Fmk,Finland,Russia
+375,365,1931,95517468,1,Fmk,Finland,Russia
+375,365,1932,178440150,1,Fmk,Finland,Russia
+375,365,1933,183842880,1,Fmk,Finland,Russia
+375,365,1934,247422401,1,Fmk,Finland,Russia
+375,365,1935,174492795,1,Fmk,Finland,Russia
+375,366,1901,0,1,,Finland,Estonia
+375,366,1902,0,1,,Finland,Estonia
+375,366,1903,0,1,,Finland,Estonia
+375,366,1904,0,1,,Finland,Estonia
+375,366,1905,0,1,,Finland,Estonia
+375,366,1906,0,1,,Finland,Estonia
+375,366,1907,0,1,Marks,Finland,Estonia
+375,366,1908,0,1,Marks,Finland,Estonia
+375,366,1909,0,1,Marks,Finland,Estonia
+375,366,1910,0,1,Marks,Finland,Estonia
+375,366,1911,0,1,Marks,Finland,Estonia
+375,366,1912,0,1,Marks,Finland,Estonia
+375,366,1913,0,1,Marks,Finland,Estonia
+375,366,1914,0,1,Marks,Finland,Estonia
+375,366,1915,0,1,Marks,Finland,Estonia
+375,366,1916,0,1,Marks,Finland,Estonia
+375,366,1917,0,1,Marks,Finland,Estonia
+375,366,1918,20177083,1,Marks,Finland,Estonia
+375,366,1919,29729062,1,Marks,Finland,Estonia
+375,366,1920,15025374,1,Marks,Finland,Estonia
+375,366,1921,28161727,1,Marks,Finland,Estonia
+375,366,1922,55619359,1,Marks,Finland,Estonia
+375,366,1923,55810235,1,Marks,Finland,Estonia
+375,366,1924,58206520,1,Marks,Finland,Estonia
+375,366,1925,39832339,1,Fmk,Finland,Estonia
+375,366,1926,37527453,1,Fmk,Finland,Estonia
+375,366,1927,57557328,1,Fmk,Finland,Estonia
+375,366,1928,92772247,1,Fmk,Finland,Estonia
+375,366,1929,56460020,1,Fmk,Finland,Estonia
+375,366,1930,36544818,1,Fmk,Finland,Estonia
+375,366,1931,29016071,1,Fmk,Finland,Estonia
+375,366,1932,37255185,1,Fmk,Finland,Estonia
+375,366,1933,32576692,1,Fmk,Finland,Estonia
+375,366,1934,33034928,1,Fmk,Finland,Estonia
+375,366,1935,87981451,1,Fmk,Finland,Estonia
+375,367,1901,0,1,,Finland,Latvia
+375,367,1902,0,1,,Finland,Latvia
+375,367,1903,0,1,,Finland,Latvia
+375,367,1904,0,1,,Finland,Latvia
+375,367,1905,0,1,,Finland,Latvia
+375,367,1906,0,1,,Finland,Latvia
+375,367,1907,0,1,Marks,Finland,Latvia
+375,367,1908,0,1,Marks,Finland,Latvia
+375,367,1909,0,1,Marks,Finland,Latvia
+375,367,1910,0,1,Marks,Finland,Latvia
+375,367,1911,0,1,Marks,Finland,Latvia
+375,367,1912,0,1,Marks,Finland,Latvia
+375,367,1913,0,1,Marks,Finland,Latvia
+375,367,1914,0,1,Marks,Finland,Latvia
+375,367,1915,0,1,Marks,Finland,Latvia
+375,367,1916,0,1,Marks,Finland,Latvia
+375,367,1917,0,1,Marks,Finland,Latvia
+375,367,1918,0,1,Marks,Finland,Latvia
+375,367,1919,0,1,Marks,Finland,Latvia
+375,367,1920,12018158,1,Marks,Finland,Latvia
+375,367,1921,4023278,1,Marks,Finland,Latvia
+375,367,1922,8995309,1,Marks,Finland,Latvia
+375,367,1923,10566717,1,Marks,Finland,Latvia
+375,367,1924,12686222,1,Marks,Finland,Latvia
+375,367,1925,17490532,1,Fmk,Finland,Latvia
+375,367,1926,16177129,1,Fmk,Finland,Latvia
+375,367,1927,30161690,1,Fmk,Finland,Latvia
+375,367,1928,27300706,1,Fmk,Finland,Latvia
+375,367,1929,25941752,1,Fmk,Finland,Latvia
+375,367,1930,16390701,1,Fmk,Finland,Latvia
+375,367,1931,9304383,1,Fmk,Finland,Latvia
+375,367,1932,6337437,1,Fmk,Finland,Latvia
+375,367,1933,6520841,1,Fmk,Finland,Latvia
+375,367,1934,9585088,1,Fmk,Finland,Latvia
+375,367,1935,22244489,1,Fmk,Finland,Latvia
+375,368,1901,0,1,,Finland,Lithuania
+375,368,1902,0,1,,Finland,Lithuania
+375,368,1903,0,1,,Finland,Lithuania
+375,368,1904,0,1,,Finland,Lithuania
+375,368,1905,0,1,,Finland,Lithuania
+375,368,1906,0,1,,Finland,Lithuania
+375,368,1907,0,1,Marks,Finland,Lithuania
+375,368,1908,0,1,Marks,Finland,Lithuania
+375,368,1909,0,1,Marks,Finland,Lithuania
+375,368,1910,0,1,Marks,Finland,Lithuania
+375,368,1911,0,1,Marks,Finland,Lithuania
+375,368,1912,0,1,Marks,Finland,Lithuania
+375,368,1913,0,1,Marks,Finland,Lithuania
+375,368,1914,0,1,Marks,Finland,Lithuania
+375,368,1915,0,1,Marks,Finland,Lithuania
+375,368,1916,0,1,Marks,Finland,Lithuania
+375,368,1917,0,1,Marks,Finland,Lithuania
+375,368,1918,0,1,Marks,Finland,Lithuania
+375,368,1919,0,1,Marks,Finland,Lithuania
+375,368,1920,6262568,1,Marks,Finland,Lithuania
+375,368,1921,3131300,1,Marks,Finland,Lithuania
+375,368,1922,4983565,1,Marks,Finland,Lithuania
+375,368,1923,1638531,1,Marks,Finland,Lithuania
+375,368,1924,6902925,1,Marks,Finland,Lithuania
+375,368,1925,2187309,1,Fmk,Finland,Lithuania
+375,368,1926,1518472,1,Fmk,Finland,Lithuania
+375,368,1927,1669854,1,Fmk,Finland,Lithuania
+375,368,1928,289655,1,Fmk,Finland,Lithuania
+375,368,1929,338900,1,Fmk,Finland,Lithuania
+375,368,1930,157021,1,Fmk,Finland,Lithuania
+375,368,1931,447002,1,Fmk,Finland,Lithuania
+375,368,1932,129071,1,Fmk,Finland,Lithuania
+375,368,1933,267457,1,Fmk,Finland,Lithuania
+375,368,1934,757245,1,Fmk,Finland,Lithuania
+375,368,1935,5137351,1,Fmk,Finland,Lithuania
+375,380,1901,0,1,,Finland,Sweden
+375,380,1902,0,1,,Finland,Sweden
+375,380,1903,11240927,1,,Finland,Sweden
+375,380,1904,11982819,1,,Finland,Sweden
+375,380,1905,13137490,1,,Finland,Sweden
+375,380,1906,16287877,1,,Finland,Sweden
+375,380,1907,19369986,1,Marks,Finland,Sweden
+375,380,1908,19516523,1,Marks,Finland,Sweden
+375,380,1909,18450118,1,Marks,Finland,Sweden
+375,380,1910,19422839,1,Marks,Finland,Sweden
+375,380,1911,21013045,1,Marks,Finland,Sweden
+375,380,1912,25371233,1,Marks,Finland,Sweden
+375,380,1913,27520561,1,Marks,Finland,Sweden
+375,380,1914,40133231,1,Marks,Finland,Sweden
+375,380,1915,163919897,1,Marks,Finland,Sweden
+375,380,1916,323541826,1,Marks,Finland,Sweden
+375,380,1917,580006559,1,Marks,Finland,Sweden
+375,380,1918,139619024,1,Marks,Finland,Sweden
+375,380,1919,320483153,1,Marks,Finland,Sweden
+375,380,1920,385079302,1,Marks,Finland,Sweden
+375,380,1921,267259374,1,Marks,Finland,Sweden
+375,380,1922,248401151,1,Marks,Finland,Sweden
+375,380,1923,264109984,1,Marks,Finland,Sweden
+375,380,1924,293628851,1,Marks,Finland,Sweden
+375,380,1925,358176255,1,Fmk,Finland,Sweden
+375,380,1926,417517795,1,Fmk,Finland,Sweden
+375,380,1927,523435899,1,Fmk,Finland,Sweden
+375,380,1928,657379230,1,Fmk,Finland,Sweden
+375,380,1929,539897764,1,Fmk,Finland,Sweden
+375,380,1930,389906788,1,Fmk,Finland,Sweden
+375,380,1931,287049101,1,Fmk,Finland,Sweden
+375,380,1932,344720765,1,Fmk,Finland,Sweden
+375,380,1933,387422163,1,Fmk,Finland,Sweden
+375,380,1934,500527728,1,Fmk,Finland,Sweden
+375,380,1935,489731572,1,Fmk,Finland,Sweden
+375,385,1901,0,1,,Finland,Norway
+375,385,1902,0,1,,Finland,Norway
+375,385,1903,650552,1,,Finland,Norway
+375,385,1904,342949,1,,Finland,Norway
+375,385,1905,698939,1,,Finland,Norway
+375,385,1906,1880000,1,,Finland,Norway
+375,385,1907,416186,1,Marks,Finland,Norway
+375,385,1908,1134323,1,Marks,Finland,Norway
+375,385,1909,788390,1,Marks,Finland,Norway
+375,385,1910,676128,1,Marks,Finland,Norway
+375,385,1911,567051,1,Marks,Finland,Norway
+375,385,1912,716414,1,Marks,Finland,Norway
+375,385,1913,573489,1,Marks,Finland,Norway
+375,385,1914,1653591,1,Marks,Finland,Norway
+375,385,1915,387566,1,Marks,Finland,Norway
+375,385,1916,4857554,1,Marks,Finland,Norway
+375,385,1917,1921768,1,Marks,Finland,Norway
+375,385,1918,31659799,1,Marks,Finland,Norway
+375,385,1919,57449836,1,Marks,Finland,Norway
+375,385,1920,33722108,1,Marks,Finland,Norway
+375,385,1921,24820820,1,Marks,Finland,Norway
+375,385,1922,37425672,1,Marks,Finland,Norway
+375,385,1923,29368957,1,Marks,Finland,Norway
+375,385,1924,37115266,1,Marks,Finland,Norway
+375,385,1925,47307454,1,Fmk,Finland,Norway
+375,385,1926,55003750,1,Fmk,Finland,Norway
+375,385,1927,61360253,1,Fmk,Finland,Norway
+375,385,1928,56770820,1,Fmk,Finland,Norway
+375,385,1929,56260192,1,Fmk,Finland,Norway
+375,385,1930,54223726,1,Fmk,Finland,Norway
+375,385,1931,42359579,1,Fmk,Finland,Norway
+375,385,1932,62297816,1,Fmk,Finland,Norway
+375,385,1933,91076715,1,Fmk,Finland,Norway
+375,385,1934,83879044,1,Fmk,Finland,Norway
+375,385,1935,104250763,1,Fmk,Finland,Norway
+375,390,1901,0,1,,Finland,Denmark
+375,390,1902,0,1,,Finland,Denmark
+375,390,1903,10503514,1,,Finland,Denmark
+375,390,1904,11544947,1,,Finland,Denmark
+375,390,1905,12414750,1,,Finland,Denmark
+375,390,1906,18983479,1,,Finland,Denmark
+375,390,1907,26834678,1,Marks,Finland,Denmark
+375,390,1908,25619073,1,Marks,Finland,Denmark
+375,390,1909,19236137,1,Marks,Finland,Denmark
+375,390,1910,20858011,1,Marks,Finland,Denmark
+375,390,1911,23071115,1,Marks,Finland,Denmark
+375,390,1912,25213474,1,Marks,Finland,Denmark
+375,390,1913,29353142,1,Marks,Finland,Denmark
+375,390,1914,17615705,1,Marks,Finland,Denmark
+375,390,1915,12399399,1,Marks,Finland,Denmark
+375,390,1916,23303819,1,Marks,Finland,Denmark
+375,390,1917,19485159,1,Marks,Finland,Denmark
+375,390,1918,96592685,1,Marks,Finland,Denmark
+375,390,1919,276392018,1,Marks,Finland,Denmark
+375,390,1920,179730035,1,Marks,Finland,Denmark
+375,390,1921,243648458,1,Marks,Finland,Denmark
+375,390,1922,175924058,1,Marks,Finland,Denmark
+375,390,1923,238734114,1,Marks,Finland,Denmark
+375,390,1924,319515832,1,Marks,Finland,Denmark
+375,390,1925,345534576,1,Fmk,Finland,Denmark
+375,390,1926,310903005,1,Fmk,Finland,Denmark
+375,390,1927,321599368,1,Fmk,Finland,Denmark
+375,390,1928,322347661,1,Fmk,Finland,Denmark
+375,390,1929,333256399,1,Fmk,Finland,Denmark
+375,390,1930,195357513,1,Fmk,Finland,Denmark
+375,390,1931,126846803,1,Fmk,Finland,Denmark
+375,390,1932,116353471,1,Fmk,Finland,Denmark
+375,390,1933,143253046,1,Fmk,Finland,Denmark
+375,390,1934,160110585,1,Fmk,Finland,Denmark
+375,390,1935,168454689,1,Fmk,Finland,Denmark
+375,395,1901,0,1,,Finland,Iceland
+375,395,1902,0,1,,Finland,Iceland
+375,395,1903,0,1,,Finland,Iceland
+375,395,1904,0,1,,Finland,Iceland
+375,395,1905,0,1,,Finland,Iceland
+375,395,1906,0,1,,Finland,Iceland
+375,395,1907,0,1,Marks,Finland,Iceland
+375,395,1908,0,1,Marks,Finland,Iceland
+375,395,1909,0,1,Marks,Finland,Iceland
+375,395,1910,0,1,Marks,Finland,Iceland
+375,395,1911,0,1,Marks,Finland,Iceland
+375,395,1912,0,1,Marks,Finland,Iceland
+375,395,1913,0,1,Marks,Finland,Iceland
+375,395,1914,0,1,Marks,Finland,Iceland
+375,395,1915,0,1,Marks,Finland,Iceland
+375,395,1916,0,1,Marks,Finland,Iceland
+375,395,1917,0,1,Marks,Finland,Iceland
+375,395,1918,0,1,Marks,Finland,Iceland
+375,395,1919,150,1,Marks,Finland,Iceland
+375,395,1920,433829,1,Marks,Finland,Iceland
+375,395,1921,20000,1,Marks,Finland,Iceland
+375,395,1922,434,1,Marks,Finland,Iceland
+375,395,1923,207520,1,Marks,Finland,Iceland
+375,395,1924,152113,1,Marks,Finland,Iceland
+375,395,1925,1165475,1,Fmk,Finland,Iceland
+375,395,1926,573686,1,Fmk,Finland,Iceland
+375,395,1927,238551,1,Fmk,Finland,Iceland
+375,395,1928,1701897,1,Fmk,Finland,Iceland
+375,395,1929,684394,1,Fmk,Finland,Iceland
+375,395,1930,89928,1,Fmk,Finland,Iceland
+375,395,1931,57845,1,Fmk,Finland,Iceland
+375,395,1932,15970,1,Fmk,Finland,Iceland
+375,395,1933,31482,1,Fmk,Finland,Iceland
+375,395,1934,37430,1,Fmk,Finland,Iceland
+375,395,1935,323773,1,Fmk,Finland,Iceland
+375,401,1901,0,1,,Finland,Madeira
+375,401,1902,0,1,,Finland,Madeira
+375,401,1903,3034,1,,Finland,Madeira
+375,401,1904,970,1,,Finland,Madeira
+375,401,1905,1016,1,,Finland,Madeira
+375,401,1906,389,1,,Finland,Madeira
+375,401,1907,0,1,Marks,Finland,Madeira
+375,401,1908,255,1,Marks,Finland,Madeira
+375,401,1909,160,1,Marks,Finland,Madeira
+375,401,1910,29,1,Marks,Finland,Madeira
+375,401,1911,4850,1,Marks,Finland,Madeira
+375,401,1912,0,1,Marks,Finland,Madeira
+375,401,1913,793,1,Marks,Finland,Madeira
+375,401,1914,410,1,Marks,Finland,Madeira
+375,401,1915,0,1,Marks,Finland,Madeira
+375,401,1916,0,1,Marks,Finland,Madeira
+375,401,1917,0,1,Marks,Finland,Madeira
+375,401,1918,0,1,Marks,Finland,Madeira
+375,401,1919,0,1,Marks,Finland,Madeira
+375,401,1920,0,1,Marks,Finland,Madeira
+375,401,1921,0,1,Marks,Finland,Madeira
+375,401,1922,0,1,Marks,Finland,Madeira
+375,401,1923,0,1,Marks,Finland,Madeira
+375,401,1924,0,1,Marks,Finland,Madeira
+375,401,1925,0,1,Fmk,Finland,Madeira
+375,401,1926,0,1,Fmk,Finland,Madeira
+375,401,1927,0,1,Fmk,Finland,Madeira
+375,401,1928,0,1,Fmk,Finland,Madeira
+375,401,1929,0,1,Fmk,Finland,Madeira
+375,401,1930,0,1,Fmk,Finland,Madeira
+375,401,1931,0,1,Fmk,Finland,Madeira
+375,401,1932,0,1,Fmk,Finland,Madeira
+375,401,1933,0,1,Fmk,Finland,Madeira
+375,401,1934,0,1,Fmk,Finland,Madeira
+375,401,1935,0,1,Fmk,Finland,Madeira
+375,433,1901,0,1,,Finland,Senegal
+375,433,1902,0,1,,Finland,Senegal
+375,433,1903,0,1,,Finland,Senegal
+375,433,1904,0,1,,Finland,Senegal
+375,433,1905,0,1,,Finland,Senegal
+375,433,1906,0,1,,Finland,Senegal
+375,433,1907,0,1,Marks,Finland,Senegal
+375,433,1908,0,1,Marks,Finland,Senegal
+375,433,1909,0,1,Marks,Finland,Senegal
+375,433,1910,0,1,Marks,Finland,Senegal
+375,433,1911,0,1,Marks,Finland,Senegal
+375,433,1912,0,1,Marks,Finland,Senegal
+375,433,1913,0,1,Marks,Finland,Senegal
+375,433,1914,0,1,Marks,Finland,Senegal
+375,433,1915,0,1,Marks,Finland,Senegal
+375,433,1916,0,1,Marks,Finland,Senegal
+375,433,1917,0,1,Marks,Finland,Senegal
+375,433,1918,0,1,Marks,Finland,Senegal
+375,433,1919,0,1,Marks,Finland,Senegal
+375,433,1920,0,1,Marks,Finland,Senegal
+375,433,1921,0,1,Marks,Finland,Senegal
+375,433,1922,0,1,Marks,Finland,Senegal
+375,433,1923,0,1,Marks,Finland,Senegal
+375,433,1924,0,1,Marks,Finland,Senegal
+375,433,1925,0,1,Fmk,Finland,Senegal
+375,433,1926,0,1,Fmk,Finland,Senegal
+375,433,1927,0,1,Fmk,Finland,Senegal
+375,433,1928,0,1,Fmk,Finland,Senegal
+375,433,1929,0,1,Fmk,Finland,Senegal
+375,433,1930,0,1,Fmk,Finland,Senegal
+375,433,1931,0,1,Fmk,Finland,Senegal
+375,433,1932,0,1,Fmk,Finland,Senegal
+375,433,1933,0,1,Fmk,Finland,Senegal
+375,433,1934,0,1,Fmk,Finland,Senegal
+375,433,1935,1150,1,Fmk,Finland,Senegal
+375,450,1901,0,1,,Finland,Liberia
+375,450,1902,0,1,,Finland,Liberia
+375,450,1903,0,1,,Finland,Liberia
+375,450,1904,0,1,,Finland,Liberia
+375,450,1905,0,1,,Finland,Liberia
+375,450,1906,0,1,,Finland,Liberia
+375,450,1907,0,1,Marks,Finland,Liberia
+375,450,1908,0,1,Marks,Finland,Liberia
+375,450,1909,0,1,Marks,Finland,Liberia
+375,450,1910,0,1,Marks,Finland,Liberia
+375,450,1911,25,1,Marks,Finland,Liberia
+375,450,1912,0,1,Marks,Finland,Liberia
+375,450,1913,0,1,Marks,Finland,Liberia
+375,450,1914,0,1,Marks,Finland,Liberia
+375,450,1915,0,1,Marks,Finland,Liberia
+375,450,1916,0,1,Marks,Finland,Liberia
+375,450,1917,0,1,Marks,Finland,Liberia
+375,450,1918,0,1,Marks,Finland,Liberia
+375,450,1919,0,1,Marks,Finland,Liberia
+375,450,1920,0,1,Marks,Finland,Liberia
+375,450,1921,0,1,Marks,Finland,Liberia
+375,450,1922,0,1,Marks,Finland,Liberia
+375,450,1923,6070,1,Marks,Finland,Liberia
+375,450,1924,0,1,Marks,Finland,Liberia
+375,450,1925,0,1,Fmk,Finland,Liberia
+375,450,1926,0,1,Fmk,Finland,Liberia
+375,450,1927,0,1,Fmk,Finland,Liberia
+375,450,1928,20500,1,Fmk,Finland,Liberia
+375,450,1929,11200,1,Fmk,Finland,Liberia
+375,450,1930,43732,1,Fmk,Finland,Liberia
+375,450,1931,31372,1,Fmk,Finland,Liberia
+375,450,1932,40226,1,Fmk,Finland,Liberia
+375,450,1933,93375,1,Fmk,Finland,Liberia
+375,450,1934,19443,1,Fmk,Finland,Liberia
+375,450,1935,783666,1,Fmk,Finland,Liberia
+375,465,1901,0,1,,Finland,British West Africa
+375,465,1902,0,1,,Finland,British West Africa
+375,465,1903,0,1,,Finland,British West Africa
+375,465,1904,0,1,,Finland,British West Africa
+375,465,1905,0,1,,Finland,British West Africa
+375,465,1906,0,1,,Finland,British West Africa
+375,465,1907,0,1,Marks,Finland,British West Africa
+375,465,1908,0,1,Marks,Finland,British West Africa
+375,465,1909,0,1,Marks,Finland,British West Africa
+375,465,1910,0,1,Marks,Finland,British West Africa
+375,465,1911,0,1,Marks,Finland,British West Africa
+375,465,1912,0,1,Marks,Finland,British West Africa
+375,465,1913,0,1,Marks,Finland,British West Africa
+375,465,1914,0,1,Marks,Finland,British West Africa
+375,465,1915,0,1,Marks,Finland,British West Africa
+375,465,1916,0,1,Marks,Finland,British West Africa
+375,465,1917,0,1,Marks,Finland,British West Africa
+375,465,1918,0,1,Marks,Finland,British West Africa
+375,465,1919,0,1,Marks,Finland,British West Africa
+375,465,1920,0,1,Marks,Finland,British West Africa
+375,465,1921,0,1,Marks,Finland,British West Africa
+375,465,1922,0,1,Marks,Finland,British West Africa
+375,465,1923,0,1,Marks,Finland,British West Africa
+375,465,1924,0,1,Marks,Finland,British West Africa
+375,465,1925,0,1,Fmk,Finland,British West Africa
+375,465,1926,55150,1,Fmk,Finland,British West Africa
+375,465,1927,45934,1,Fmk,Finland,British West Africa
+375,465,1928,0,1,Fmk,Finland,British West Africa
+375,465,1929,0,1,Fmk,Finland,British West Africa
+375,465,1930,0,1,Fmk,Finland,British West Africa
+375,465,1931,0,1,Fmk,Finland,British West Africa
+375,465,1932,500,1,Fmk,Finland,British West Africa
+375,465,1933,0,1,Fmk,Finland,British West Africa
+375,465,1934,0,1,Fmk,Finland,British West Africa
+375,465,1935,0,1,Fmk,Finland,British West Africa
+375,475,1901,0,1,,Finland,Nigeria
+375,475,1902,0,1,,Finland,Nigeria
+375,475,1903,0,1,,Finland,Nigeria
+375,475,1904,0,1,,Finland,Nigeria
+375,475,1905,0,1,,Finland,Nigeria
+375,475,1906,0,1,,Finland,Nigeria
+375,475,1907,0,1,Marks,Finland,Nigeria
+375,475,1908,0,1,Marks,Finland,Nigeria
+375,475,1909,0,1,Marks,Finland,Nigeria
+375,475,1910,0,1,Marks,Finland,Nigeria
+375,475,1911,0,1,Marks,Finland,Nigeria
+375,475,1912,0,1,Marks,Finland,Nigeria
+375,475,1913,0,1,Marks,Finland,Nigeria
+375,475,1914,0,1,Marks,Finland,Nigeria
+375,475,1915,0,1,Marks,Finland,Nigeria
+375,475,1916,0,1,Marks,Finland,Nigeria
+375,475,1917,0,1,Marks,Finland,Nigeria
+375,475,1918,0,1,Marks,Finland,Nigeria
+375,475,1919,0,1,Marks,Finland,Nigeria
+375,475,1920,0,1,Marks,Finland,Nigeria
+375,475,1921,0,1,Marks,Finland,Nigeria
+375,475,1922,0,1,Marks,Finland,Nigeria
+375,475,1923,0,1,Marks,Finland,Nigeria
+375,475,1924,0,1,Marks,Finland,Nigeria
+375,475,1925,0,1,Fmk,Finland,Nigeria
+375,475,1926,0,1,Fmk,Finland,Nigeria
+375,475,1927,0,1,Fmk,Finland,Nigeria
+375,475,1928,0,1,Fmk,Finland,Nigeria
+375,475,1929,0,1,Fmk,Finland,Nigeria
+375,475,1930,0,1,Fmk,Finland,Nigeria
+375,475,1931,0,1,Fmk,Finland,Nigeria
+375,475,1932,0,1,Fmk,Finland,Nigeria
+375,475,1933,0,1,Fmk,Finland,Nigeria
+375,475,1934,40996,1,Fmk,Finland,Nigeria
+375,475,1935,404328,1,Fmk,Finland,Nigeria
+375,490,1901,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1902,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1903,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1904,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1905,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1906,0,1,,Finland,"Congo, Dem. Republic"
+375,490,1907,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1908,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1909,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1910,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1911,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1912,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1913,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1914,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1915,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1916,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1917,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1918,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1919,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1920,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1921,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1922,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1923,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1924,0,1,Marks,Finland,"Congo, Dem. Republic"
+375,490,1925,2443,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1926,160,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1927,0,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1928,90,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1929,0,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1930,60900,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1931,34498,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1932,35866,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1933,2100,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1934,0,1,Fmk,Finland,"Congo, Dem. Republic"
+375,490,1935,421664,1,Fmk,Finland,"Congo, Dem. Republic"
+375,511,1901,0,1,,Finland,Zanzibar
+375,511,1902,0,1,,Finland,Zanzibar
+375,511,1903,0,1,,Finland,Zanzibar
+375,511,1904,0,1,,Finland,Zanzibar
+375,511,1905,0,1,,Finland,Zanzibar
+375,511,1906,0,1,,Finland,Zanzibar
+375,511,1907,0,1,Marks,Finland,Zanzibar
+375,511,1908,0,1,Marks,Finland,Zanzibar
+375,511,1909,0,1,Marks,Finland,Zanzibar
+375,511,1910,0,1,Marks,Finland,Zanzibar
+375,511,1911,0,1,Marks,Finland,Zanzibar
+375,511,1912,0,1,Marks,Finland,Zanzibar
+375,511,1913,0,1,Marks,Finland,Zanzibar
+375,511,1914,0,1,Marks,Finland,Zanzibar
+375,511,1915,0,1,Marks,Finland,Zanzibar
+375,511,1916,0,1,Marks,Finland,Zanzibar
+375,511,1917,0,1,Marks,Finland,Zanzibar
+375,511,1918,0,1,Marks,Finland,Zanzibar
+375,511,1919,0,1,Marks,Finland,Zanzibar
+375,511,1920,0,1,Marks,Finland,Zanzibar
+375,511,1921,0,1,Marks,Finland,Zanzibar
+375,511,1922,0,1,Marks,Finland,Zanzibar
+375,511,1923,0,1,Marks,Finland,Zanzibar
+375,511,1924,0,1,Marks,Finland,Zanzibar
+375,511,1925,0,1,Fmk,Finland,Zanzibar
+375,511,1926,0,1,Fmk,Finland,Zanzibar
+375,511,1927,0,1,Fmk,Finland,Zanzibar
+375,511,1928,0,1,Fmk,Finland,Zanzibar
+375,511,1929,0,1,Fmk,Finland,Zanzibar
+375,511,1930,0,1,Fmk,Finland,Zanzibar
+375,511,1931,0,1,Fmk,Finland,Zanzibar
+375,511,1932,0,1,Fmk,Finland,Zanzibar
+375,511,1933,0,1,Fmk,Finland,Zanzibar
+375,511,1934,0,1,Fmk,Finland,Zanzibar
+375,511,1935,46118,1,Fmk,Finland,Zanzibar
+375,530,1901,0,1,,Finland,Ethiopia
+375,530,1902,0,1,,Finland,Ethiopia
+375,530,1903,0,1,,Finland,Ethiopia
+375,530,1904,0,1,,Finland,Ethiopia
+375,530,1905,0,1,,Finland,Ethiopia
+375,530,1906,0,1,,Finland,Ethiopia
+375,530,1907,0,1,Marks,Finland,Ethiopia
+375,530,1908,0,1,Marks,Finland,Ethiopia
+375,530,1909,0,1,Marks,Finland,Ethiopia
+375,530,1910,0,1,Marks,Finland,Ethiopia
+375,530,1911,0,1,Marks,Finland,Ethiopia
+375,530,1912,0,1,Marks,Finland,Ethiopia
+375,530,1913,0,1,Marks,Finland,Ethiopia
+375,530,1914,0,1,Marks,Finland,Ethiopia
+375,530,1915,0,1,Marks,Finland,Ethiopia
+375,530,1916,0,1,Marks,Finland,Ethiopia
+375,530,1917,0,1,Marks,Finland,Ethiopia
+375,530,1918,0,1,Marks,Finland,Ethiopia
+375,530,1919,0,1,Marks,Finland,Ethiopia
+375,530,1920,0,1,Marks,Finland,Ethiopia
+375,530,1921,0,1,Marks,Finland,Ethiopia
+375,530,1922,0,1,Marks,Finland,Ethiopia
+375,530,1923,0,1,Marks,Finland,Ethiopia
+375,530,1924,0,1,Marks,Finland,Ethiopia
+375,530,1925,0,1,Fmk,Finland,Ethiopia
+375,530,1926,0,1,Fmk,Finland,Ethiopia
+375,530,1927,0,1,Fmk,Finland,Ethiopia
+375,530,1928,84350,1,Fmk,Finland,Ethiopia
+375,530,1929,365118,1,Fmk,Finland,Ethiopia
+375,530,1930,622174,1,Fmk,Finland,Ethiopia
+375,530,1931,70160,1,Fmk,Finland,Ethiopia
+375,530,1932,132697,1,Fmk,Finland,Ethiopia
+375,530,1933,242347,1,Fmk,Finland,Ethiopia
+375,530,1934,746177,1,Fmk,Finland,Ethiopia
+375,530,1935,2084041,1,Fmk,Finland,Ethiopia
+375,540,1901,0,1,,Finland,Angola
+375,540,1902,0,1,,Finland,Angola
+375,540,1903,0,1,,Finland,Angola
+375,540,1904,0,1,,Finland,Angola
+375,540,1905,0,1,,Finland,Angola
+375,540,1906,0,1,,Finland,Angola
+375,540,1907,0,1,Marks,Finland,Angola
+375,540,1908,0,1,Marks,Finland,Angola
+375,540,1909,0,1,Marks,Finland,Angola
+375,540,1910,0,1,Marks,Finland,Angola
+375,540,1911,0,1,Marks,Finland,Angola
+375,540,1912,0,1,Marks,Finland,Angola
+375,540,1913,0,1,Marks,Finland,Angola
+375,540,1914,0,1,Marks,Finland,Angola
+375,540,1915,0,1,Marks,Finland,Angola
+375,540,1916,0,1,Marks,Finland,Angola
+375,540,1917,0,1,Marks,Finland,Angola
+375,540,1918,0,1,Marks,Finland,Angola
+375,540,1919,0,1,Marks,Finland,Angola
+375,540,1920,0,1,Marks,Finland,Angola
+375,540,1921,0,1,Marks,Finland,Angola
+375,540,1922,0,1,Marks,Finland,Angola
+375,540,1923,0,1,Marks,Finland,Angola
+375,540,1924,0,1,Marks,Finland,Angola
+375,540,1925,0,1,Fmk,Finland,Angola
+375,540,1926,0,1,Fmk,Finland,Angola
+375,540,1927,0,1,Fmk,Finland,Angola
+375,540,1928,0,1,Fmk,Finland,Angola
+375,540,1929,0,1,Fmk,Finland,Angola
+375,540,1930,0,1,Fmk,Finland,Angola
+375,540,1931,0,1,Fmk,Finland,Angola
+375,540,1932,0,1,Fmk,Finland,Angola
+375,540,1933,0,1,Fmk,Finland,Angola
+375,540,1934,1360,1,Fmk,Finland,Angola
+375,540,1935,113685,1,Fmk,Finland,Angola
+375,541,1901,0,1,,Finland,Mozambique
+375,541,1902,0,1,,Finland,Mozambique
+375,541,1903,0,1,,Finland,Mozambique
+375,541,1904,0,1,,Finland,Mozambique
+375,541,1905,0,1,,Finland,Mozambique
+375,541,1906,0,1,,Finland,Mozambique
+375,541,1907,0,1,Marks,Finland,Mozambique
+375,541,1908,0,1,Marks,Finland,Mozambique
+375,541,1909,0,1,Marks,Finland,Mozambique
+375,541,1910,0,1,Marks,Finland,Mozambique
+375,541,1911,0,1,Marks,Finland,Mozambique
+375,541,1912,0,1,Marks,Finland,Mozambique
+375,541,1913,0,1,Marks,Finland,Mozambique
+375,541,1914,0,1,Marks,Finland,Mozambique
+375,541,1915,0,1,Marks,Finland,Mozambique
+375,541,1916,0,1,Marks,Finland,Mozambique
+375,541,1917,0,1,Marks,Finland,Mozambique
+375,541,1918,0,1,Marks,Finland,Mozambique
+375,541,1919,0,1,Marks,Finland,Mozambique
+375,541,1920,0,1,Marks,Finland,Mozambique
+375,541,1921,0,1,Marks,Finland,Mozambique
+375,541,1922,0,1,Marks,Finland,Mozambique
+375,541,1923,0,1,Marks,Finland,Mozambique
+375,541,1924,0,1,Marks,Finland,Mozambique
+375,541,1925,0,1,Fmk,Finland,Mozambique
+375,541,1926,0,1,Fmk,Finland,Mozambique
+375,541,1927,0,1,Fmk,Finland,Mozambique
+375,541,1928,0,1,Fmk,Finland,Mozambique
+375,541,1929,0,1,Fmk,Finland,Mozambique
+375,541,1930,0,1,Fmk,Finland,Mozambique
+375,541,1931,0,1,Fmk,Finland,Mozambique
+375,541,1932,0,1,Fmk,Finland,Mozambique
+375,541,1933,1383,1,Fmk,Finland,Mozambique
+375,541,1934,0,1,Fmk,Finland,Mozambique
+375,541,1935,147082,1,Fmk,Finland,Mozambique
+375,560,1901,0,1,,Finland,South Africa
+375,560,1902,0,1,,Finland,South Africa
+375,560,1903,0,1,,Finland,South Africa
+375,560,1904,0,1,,Finland,South Africa
+375,560,1905,0,1,,Finland,South Africa
+375,560,1906,0,1,,Finland,South Africa
+375,560,1907,0,1,Marks,Finland,South Africa
+375,560,1908,0,1,Marks,Finland,South Africa
+375,560,1909,0,1,Marks,Finland,South Africa
+375,560,1910,0,1,Marks,Finland,South Africa
+375,560,1911,0,1,Marks,Finland,South Africa
+375,560,1912,0,1,Marks,Finland,South Africa
+375,560,1913,0,1,Marks,Finland,South Africa
+375,560,1914,0,1,Marks,Finland,South Africa
+375,560,1915,60,1,Marks,Finland,South Africa
+375,560,1916,0,1,Marks,Finland,South Africa
+375,560,1917,0,1,Marks,Finland,South Africa
+375,560,1918,0,1,Marks,Finland,South Africa
+375,560,1919,27514,1,Marks,Finland,South Africa
+375,560,1920,55,1,Marks,Finland,South Africa
+375,560,1921,6340,1,Marks,Finland,South Africa
+375,560,1922,295978,1,Marks,Finland,South Africa
+375,560,1923,29925,1,Marks,Finland,South Africa
+375,560,1924,344553,1,Marks,Finland,South Africa
+375,560,1925,469959,1,Fmk,Finland,South Africa
+375,560,1926,200381,1,Fmk,Finland,South Africa
+375,560,1927,389047,1,Fmk,Finland,South Africa
+375,560,1928,1735455,1,Fmk,Finland,South Africa
+375,560,1929,972,1,Fmk,Finland,South Africa
+375,560,1930,45014,1,Fmk,Finland,South Africa
+375,560,1931,79090,1,Fmk,Finland,South Africa
+375,560,1932,25180,1,Fmk,Finland,South Africa
+375,560,1933,309744,1,Fmk,Finland,South Africa
+375,560,1934,0,1,Fmk,Finland,South Africa
+375,560,1935,0,1,Fmk,Finland,South Africa
+375,580,1901,0,1,,Finland,Madagascar
+375,580,1902,0,1,,Finland,Madagascar
+375,580,1903,0,1,,Finland,Madagascar
+375,580,1904,0,1,,Finland,Madagascar
+375,580,1905,0,1,,Finland,Madagascar
+375,580,1906,0,1,,Finland,Madagascar
+375,580,1907,0,1,Marks,Finland,Madagascar
+375,580,1908,0,1,Marks,Finland,Madagascar
+375,580,1909,0,1,Marks,Finland,Madagascar
+375,580,1910,0,1,Marks,Finland,Madagascar
+375,580,1911,0,1,Marks,Finland,Madagascar
+375,580,1912,0,1,Marks,Finland,Madagascar
+375,580,1913,0,1,Marks,Finland,Madagascar
+375,580,1914,0,1,Marks,Finland,Madagascar
+375,580,1915,0,1,Marks,Finland,Madagascar
+375,580,1916,0,1,Marks,Finland,Madagascar
+375,580,1917,0,1,Marks,Finland,Madagascar
+375,580,1918,0,1,Marks,Finland,Madagascar
+375,580,1919,0,1,Marks,Finland,Madagascar
+375,580,1920,0,1,Marks,Finland,Madagascar
+375,580,1921,0,1,Marks,Finland,Madagascar
+375,580,1922,0,1,Marks,Finland,Madagascar
+375,580,1923,0,1,Marks,Finland,Madagascar
+375,580,1924,0,1,Marks,Finland,Madagascar
+375,580,1925,0,1,Fmk,Finland,Madagascar
+375,580,1926,0,1,Fmk,Finland,Madagascar
+375,580,1927,0,1,Fmk,Finland,Madagascar
+375,580,1928,0,1,Fmk,Finland,Madagascar
+375,580,1929,0,1,Fmk,Finland,Madagascar
+375,580,1930,0,1,Fmk,Finland,Madagascar
+375,580,1931,0,1,Fmk,Finland,Madagascar
+375,580,1932,0,1,Fmk,Finland,Madagascar
+375,580,1933,0,1,Fmk,Finland,Madagascar
+375,580,1934,0,1,Fmk,Finland,Madagascar
+375,580,1935,241884,1,Fmk,Finland,Madagascar
+375,590,1901,0,1,,Finland,Mauritius
+375,590,1902,0,1,,Finland,Mauritius
+375,590,1903,0,1,,Finland,Mauritius
+375,590,1904,0,1,,Finland,Mauritius
+375,590,1905,0,1,,Finland,Mauritius
+375,590,1906,0,1,,Finland,Mauritius
+375,590,1907,0,1,Marks,Finland,Mauritius
+375,590,1908,0,1,Marks,Finland,Mauritius
+375,590,1909,0,1,Marks,Finland,Mauritius
+375,590,1910,0,1,Marks,Finland,Mauritius
+375,590,1911,0,1,Marks,Finland,Mauritius
+375,590,1912,0,1,Marks,Finland,Mauritius
+375,590,1913,0,1,Marks,Finland,Mauritius
+375,590,1914,0,1,Marks,Finland,Mauritius
+375,590,1915,0,1,Marks,Finland,Mauritius
+375,590,1916,0,1,Marks,Finland,Mauritius
+375,590,1917,0,1,Marks,Finland,Mauritius
+375,590,1918,0,1,Marks,Finland,Mauritius
+375,590,1919,0,1,Marks,Finland,Mauritius
+375,590,1920,0,1,Marks,Finland,Mauritius
+375,590,1921,0,1,Marks,Finland,Mauritius
+375,590,1922,0,1,Marks,Finland,Mauritius
+375,590,1923,0,1,Marks,Finland,Mauritius
+375,590,1924,0,1,Marks,Finland,Mauritius
+375,590,1925,0,1,Fmk,Finland,Mauritius
+375,590,1926,0,1,Fmk,Finland,Mauritius
+375,590,1927,0,1,Fmk,Finland,Mauritius
+375,590,1928,0,1,Fmk,Finland,Mauritius
+375,590,1929,0,1,Fmk,Finland,Mauritius
+375,590,1930,0,1,Fmk,Finland,Mauritius
+375,590,1931,0,1,Fmk,Finland,Mauritius
+375,590,1932,0,1,Fmk,Finland,Mauritius
+375,590,1933,0,1,Fmk,Finland,Mauritius
+375,590,1934,0,1,Fmk,Finland,Mauritius
+375,590,1935,8700,1,Fmk,Finland,Mauritius
+375,615,1901,0,1,,Finland,Algeria
+375,615,1902,0,1,,Finland,Algeria
+375,615,1903,2,1,,Finland,Algeria
+375,615,1904,25,1,,Finland,Algeria
+375,615,1905,0,1,,Finland,Algeria
+375,615,1906,1135,1,,Finland,Algeria
+375,615,1907,22,1,Marks,Finland,Algeria
+375,615,1908,59,1,Marks,Finland,Algeria
+375,615,1909,68,1,Marks,Finland,Algeria
+375,615,1910,108836,1,Marks,Finland,Algeria
+375,615,1911,222,1,Marks,Finland,Algeria
+375,615,1912,20,1,Marks,Finland,Algeria
+375,615,1913,153,1,Marks,Finland,Algeria
+375,615,1914,73,1,Marks,Finland,Algeria
+375,615,1915,0,1,Marks,Finland,Algeria
+375,615,1916,0,1,Marks,Finland,Algeria
+375,615,1917,0,1,Marks,Finland,Algeria
+375,615,1918,0,1,Marks,Finland,Algeria
+375,615,1919,0,1,Marks,Finland,Algeria
+375,615,1920,19783,1,Marks,Finland,Algeria
+375,615,1921,38611,1,Marks,Finland,Algeria
+375,615,1922,212624,1,Marks,Finland,Algeria
+375,615,1923,242249,1,Marks,Finland,Algeria
+375,615,1924,244079,1,Marks,Finland,Algeria
+375,615,1925,521286,1,Fmk,Finland,Algeria
+375,615,1926,335786,1,Fmk,Finland,Algeria
+375,615,1927,266167,1,Fmk,Finland,Algeria
+375,615,1928,960832,1,Fmk,Finland,Algeria
+375,615,1929,1251955,1,Fmk,Finland,Algeria
+375,615,1930,567100,1,Fmk,Finland,Algeria
+375,615,1931,248449,1,Fmk,Finland,Algeria
+375,615,1932,285368,1,Fmk,Finland,Algeria
+375,615,1933,341063,1,Fmk,Finland,Algeria
+375,615,1934,343551,1,Fmk,Finland,Algeria
+375,615,1935,1199636,1,Fmk,Finland,Algeria
+375,616,1901,0,1,,Finland,Tunisia
+375,616,1902,0,1,,Finland,Tunisia
+375,616,1903,2341,1,,Finland,Tunisia
+375,616,1904,74,1,,Finland,Tunisia
+375,616,1905,0,1,,Finland,Tunisia
+375,616,1906,9713,1,,Finland,Tunisia
+375,616,1907,133,1,Marks,Finland,Tunisia
+375,616,1908,0,1,Marks,Finland,Tunisia
+375,616,1909,135332,1,Marks,Finland,Tunisia
+375,616,1910,62414,1,Marks,Finland,Tunisia
+375,616,1911,52535,1,Marks,Finland,Tunisia
+375,616,1912,0,1,Marks,Finland,Tunisia
+375,616,1913,0,1,Marks,Finland,Tunisia
+375,616,1914,0,1,Marks,Finland,Tunisia
+375,616,1915,0,1,Marks,Finland,Tunisia
+375,616,1916,0,1,Marks,Finland,Tunisia
+375,616,1917,0,1,Marks,Finland,Tunisia
+375,616,1918,0,1,Marks,Finland,Tunisia
+375,616,1919,0,1,Marks,Finland,Tunisia
+375,616,1920,0,1,Marks,Finland,Tunisia
+375,616,1921,117,1,Marks,Finland,Tunisia
+375,616,1922,50,1,Marks,Finland,Tunisia
+375,616,1923,53,1,Marks,Finland,Tunisia
+375,616,1924,251247,1,Marks,Finland,Tunisia
+375,616,1925,1421027,1,Fmk,Finland,Tunisia
+375,616,1926,691877,1,Fmk,Finland,Tunisia
+375,616,1927,814929,1,Fmk,Finland,Tunisia
+375,616,1928,1359060,1,Fmk,Finland,Tunisia
+375,616,1929,599072,1,Fmk,Finland,Tunisia
+375,616,1930,1294699,1,Fmk,Finland,Tunisia
+375,616,1931,372900,1,Fmk,Finland,Tunisia
+375,616,1932,1126305,1,Fmk,Finland,Tunisia
+375,616,1933,1268650,1,Fmk,Finland,Tunisia
+375,616,1934,1131770,1,Fmk,Finland,Tunisia
+375,616,1935,1403692,1,Fmk,Finland,Tunisia
+375,620,1901,0,1,,Finland,Libya
+375,620,1902,0,1,,Finland,Libya
+375,620,1903,0,1,,Finland,Libya
+375,620,1904,0,1,,Finland,Libya
+375,620,1905,0,1,,Finland,Libya
+375,620,1906,0,1,,Finland,Libya
+375,620,1907,0,1,Marks,Finland,Libya
+375,620,1908,0,1,Marks,Finland,Libya
+375,620,1909,0,1,Marks,Finland,Libya
+375,620,1910,0,1,Marks,Finland,Libya
+375,620,1911,0,1,Marks,Finland,Libya
+375,620,1912,0,1,Marks,Finland,Libya
+375,620,1913,0,1,Marks,Finland,Libya
+375,620,1914,0,1,Marks,Finland,Libya
+375,620,1915,0,1,Marks,Finland,Libya
+375,620,1916,0,1,Marks,Finland,Libya
+375,620,1917,0,1,Marks,Finland,Libya
+375,620,1918,0,1,Marks,Finland,Libya
+375,620,1919,0,1,Marks,Finland,Libya
+375,620,1920,0,1,Marks,Finland,Libya
+375,620,1921,0,1,Marks,Finland,Libya
+375,620,1922,0,1,Marks,Finland,Libya
+375,620,1923,0,1,Marks,Finland,Libya
+375,620,1924,0,1,Marks,Finland,Libya
+375,620,1925,0,1,Fmk,Finland,Libya
+375,620,1926,0,1,Fmk,Finland,Libya
+375,620,1927,0,1,Fmk,Finland,Libya
+375,620,1928,0,1,Fmk,Finland,Libya
+375,620,1929,0,1,Fmk,Finland,Libya
+375,620,1930,0,1,Fmk,Finland,Libya
+375,620,1931,0,1,Fmk,Finland,Libya
+375,620,1932,0,1,Fmk,Finland,Libya
+375,620,1933,0,1,Fmk,Finland,Libya
+375,620,1934,0,1,Fmk,Finland,Libya
+375,620,1935,41903,1,Fmk,Finland,Libya
+375,625,1901,0,1,,Finland,Sudan
+375,625,1902,0,1,,Finland,Sudan
+375,625,1903,0,1,,Finland,Sudan
+375,625,1904,0,1,,Finland,Sudan
+375,625,1905,0,1,,Finland,Sudan
+375,625,1906,0,1,,Finland,Sudan
+375,625,1907,0,1,Marks,Finland,Sudan
+375,625,1908,0,1,Marks,Finland,Sudan
+375,625,1909,0,1,Marks,Finland,Sudan
+375,625,1910,0,1,Marks,Finland,Sudan
+375,625,1911,0,1,Marks,Finland,Sudan
+375,625,1912,0,1,Marks,Finland,Sudan
+375,625,1913,0,1,Marks,Finland,Sudan
+375,625,1914,0,1,Marks,Finland,Sudan
+375,625,1915,0,1,Marks,Finland,Sudan
+375,625,1916,0,1,Marks,Finland,Sudan
+375,625,1917,0,1,Marks,Finland,Sudan
+375,625,1918,0,1,Marks,Finland,Sudan
+375,625,1919,0,1,Marks,Finland,Sudan
+375,625,1920,0,1,Marks,Finland,Sudan
+375,625,1921,0,1,Marks,Finland,Sudan
+375,625,1922,0,1,Marks,Finland,Sudan
+375,625,1923,0,1,Marks,Finland,Sudan
+375,625,1924,0,1,Marks,Finland,Sudan
+375,625,1925,0,1,Fmk,Finland,Sudan
+375,625,1926,0,1,Fmk,Finland,Sudan
+375,625,1927,0,1,Fmk,Finland,Sudan
+375,625,1928,0,1,Fmk,Finland,Sudan
+375,625,1929,0,1,Fmk,Finland,Sudan
+375,625,1930,73975,1,Fmk,Finland,Sudan
+375,625,1931,22600,1,Fmk,Finland,Sudan
+375,625,1932,22570,1,Fmk,Finland,Sudan
+375,625,1933,67750,1,Fmk,Finland,Sudan
+375,625,1934,0,1,Fmk,Finland,Sudan
+375,625,1935,0,1,Fmk,Finland,Sudan
+375,630,1901,0,1,,Finland,Iran
+375,630,1902,0,1,,Finland,Iran
+375,630,1903,0,1,,Finland,Iran
+375,630,1904,0,1,,Finland,Iran
+375,630,1905,0,1,,Finland,Iran
+375,630,1906,0,1,,Finland,Iran
+375,630,1907,0,1,Marks,Finland,Iran
+375,630,1908,5,1,Marks,Finland,Iran
+375,630,1909,0,1,Marks,Finland,Iran
+375,630,1910,0,1,Marks,Finland,Iran
+375,630,1911,0,1,Marks,Finland,Iran
+375,630,1912,0,1,Marks,Finland,Iran
+375,630,1913,0,1,Marks,Finland,Iran
+375,630,1914,0,1,Marks,Finland,Iran
+375,630,1915,0,1,Marks,Finland,Iran
+375,630,1916,0,1,Marks,Finland,Iran
+375,630,1917,0,1,Marks,Finland,Iran
+375,630,1918,0,1,Marks,Finland,Iran
+375,630,1919,0,1,Marks,Finland,Iran
+375,630,1920,0,1,Marks,Finland,Iran
+375,630,1921,0,1,Marks,Finland,Iran
+375,630,1922,2740,1,Marks,Finland,Iran
+375,630,1923,40,1,Marks,Finland,Iran
+375,630,1924,3100,1,Marks,Finland,Iran
+375,630,1925,5936205,1,Fmk,Finland,Iran
+375,630,1926,222025,1,Fmk,Finland,Iran
+375,630,1927,0,1,Fmk,Finland,Iran
+375,630,1928,800,1,Fmk,Finland,Iran
+375,630,1929,0,1,Fmk,Finland,Iran
+375,630,1930,0,1,Fmk,Finland,Iran
+375,630,1931,30,1,Fmk,Finland,Iran
+375,630,1932,22530,1,Fmk,Finland,Iran
+375,630,1933,64178,1,Fmk,Finland,Iran
+375,630,1934,68572,1,Fmk,Finland,Iran
+375,630,1935,5975834,1,Fmk,Finland,Iran
+375,640,1901,0,1,,Finland,Turkey
+375,640,1902,0,1,,Finland,Turkey
+375,640,1903,190,1,,Finland,Turkey
+375,640,1904,281,1,,Finland,Turkey
+375,640,1905,57,1,,Finland,Turkey
+375,640,1906,106,1,,Finland,Turkey
+375,640,1907,48,1,Marks,Finland,Turkey
+375,640,1908,268,1,Marks,Finland,Turkey
+375,640,1909,114,1,Marks,Finland,Turkey
+375,640,1910,1687,1,Marks,Finland,Turkey
+375,640,1911,2166,1,Marks,Finland,Turkey
+375,640,1912,5447,1,Marks,Finland,Turkey
+375,640,1913,2767,1,Marks,Finland,Turkey
+375,640,1914,2680,1,Marks,Finland,Turkey
+375,640,1915,0,1,Marks,Finland,Turkey
+375,640,1916,0,1,Marks,Finland,Turkey
+375,640,1917,0,1,Marks,Finland,Turkey
+375,640,1918,0,1,Marks,Finland,Turkey
+375,640,1919,13736403,1,Marks,Finland,Turkey
+375,640,1920,1783602,1,Marks,Finland,Turkey
+375,640,1921,3907,1,Marks,Finland,Turkey
+375,640,1922,74735,1,Marks,Finland,Turkey
+375,640,1923,410005,1,Marks,Finland,Turkey
+375,640,1924,27970,1,Marks,Finland,Turkey
+375,640,1925,1444083,1,Fmk,Finland,Turkey
+375,640,1926,1699882,1,Fmk,Finland,Turkey
+375,640,1927,1417245,1,Fmk,Finland,Turkey
+375,640,1928,859299,1,Fmk,Finland,Turkey
+375,640,1929,599335,1,Fmk,Finland,Turkey
+375,640,1930,1391887,1,Fmk,Finland,Turkey
+375,640,1931,675648,1,Fmk,Finland,Turkey
+375,640,1932,3905902,1,Fmk,Finland,Turkey
+375,640,1933,3823555,1,Fmk,Finland,Turkey
+375,640,1934,1623402,1,Fmk,Finland,Turkey
+375,640,1935,15468322,1,Fmk,Finland,Turkey
+375,645,1901,0,1,,Finland,Iraq
+375,645,1902,0,1,,Finland,Iraq
+375,645,1903,0,1,,Finland,Iraq
+375,645,1904,0,1,,Finland,Iraq
+375,645,1905,0,1,,Finland,Iraq
+375,645,1906,0,1,,Finland,Iraq
+375,645,1907,0,1,Marks,Finland,Iraq
+375,645,1908,0,1,Marks,Finland,Iraq
+375,645,1909,0,1,Marks,Finland,Iraq
+375,645,1910,0,1,Marks,Finland,Iraq
+375,645,1911,0,1,Marks,Finland,Iraq
+375,645,1912,0,1,Marks,Finland,Iraq
+375,645,1913,0,1,Marks,Finland,Iraq
+375,645,1914,0,1,Marks,Finland,Iraq
+375,645,1915,0,1,Marks,Finland,Iraq
+375,645,1916,0,1,Marks,Finland,Iraq
+375,645,1917,0,1,Marks,Finland,Iraq
+375,645,1918,0,1,Marks,Finland,Iraq
+375,645,1919,0,1,Marks,Finland,Iraq
+375,645,1920,0,1,Marks,Finland,Iraq
+375,645,1921,0,1,Marks,Finland,Iraq
+375,645,1922,0,1,Marks,Finland,Iraq
+375,645,1923,0,1,Marks,Finland,Iraq
+375,645,1924,0,1,Marks,Finland,Iraq
+375,645,1925,0,1,Fmk,Finland,Iraq
+375,645,1926,8776,1,Fmk,Finland,Iraq
+375,645,1927,20700,1,Fmk,Finland,Iraq
+375,645,1928,2200,1,Fmk,Finland,Iraq
+375,645,1929,0,1,Fmk,Finland,Iraq
+375,645,1930,7050,1,Fmk,Finland,Iraq
+375,645,1931,11400,1,Fmk,Finland,Iraq
+375,645,1932,5873,1,Fmk,Finland,Iraq
+375,645,1933,354,1,Fmk,Finland,Iraq
+375,645,1934,700,1,Fmk,Finland,Iraq
+375,645,1935,2400213,1,Fmk,Finland,Iraq
+375,651,1901,0,1,,Finland,Egypt
+375,651,1902,0,1,,Finland,Egypt
+375,651,1903,0,1,,Finland,Egypt
+375,651,1904,417,1,,Finland,Egypt
+375,651,1905,50,1,,Finland,Egypt
+375,651,1906,264,1,,Finland,Egypt
+375,651,1907,183,1,Marks,Finland,Egypt
+375,651,1908,233,1,Marks,Finland,Egypt
+375,651,1909,979,1,Marks,Finland,Egypt
+375,651,1910,760,1,Marks,Finland,Egypt
+375,651,1911,1224,1,Marks,Finland,Egypt
+375,651,1912,434,1,Marks,Finland,Egypt
+375,651,1913,460977,1,Marks,Finland,Egypt
+375,651,1914,365,1,Marks,Finland,Egypt
+375,651,1915,1466,1,Marks,Finland,Egypt
+375,651,1916,0,1,Marks,Finland,Egypt
+375,651,1917,0,1,Marks,Finland,Egypt
+375,651,1918,0,1,Marks,Finland,Egypt
+375,651,1919,0,1,Marks,Finland,Egypt
+375,651,1920,96,1,Marks,Finland,Egypt
+375,651,1921,600,1,Marks,Finland,Egypt
+375,651,1922,37993,1,Marks,Finland,Egypt
+375,651,1923,6918,1,Marks,Finland,Egypt
+375,651,1924,104866,1,Marks,Finland,Egypt
+375,651,1925,121921,1,Fmk,Finland,Egypt
+375,651,1926,55814,1,Fmk,Finland,Egypt
+375,651,1927,60956,1,Fmk,Finland,Egypt
+375,651,1928,540677,1,Fmk,Finland,Egypt
+375,651,1929,307180,1,Fmk,Finland,Egypt
+375,651,1930,104921,1,Fmk,Finland,Egypt
+375,651,1931,1146716,1,Fmk,Finland,Egypt
+375,651,1932,1353425,1,Fmk,Finland,Egypt
+375,651,1933,726218,1,Fmk,Finland,Egypt
+375,651,1934,1535253,1,Fmk,Finland,Egypt
+375,651,1935,17520989,1,Fmk,Finland,Egypt
+375,652,1901,0,1,,Finland,Syria
+375,652,1902,0,1,,Finland,Syria
+375,652,1903,0,1,,Finland,Syria
+375,652,1904,0,1,,Finland,Syria
+375,652,1905,0,1,,Finland,Syria
+375,652,1906,0,1,,Finland,Syria
+375,652,1907,0,1,Marks,Finland,Syria
+375,652,1908,0,1,Marks,Finland,Syria
+375,652,1909,0,1,Marks,Finland,Syria
+375,652,1910,0,1,Marks,Finland,Syria
+375,652,1911,0,1,Marks,Finland,Syria
+375,652,1912,0,1,Marks,Finland,Syria
+375,652,1913,0,1,Marks,Finland,Syria
+375,652,1914,0,1,Marks,Finland,Syria
+375,652,1915,0,1,Marks,Finland,Syria
+375,652,1916,0,1,Marks,Finland,Syria
+375,652,1917,0,1,Marks,Finland,Syria
+375,652,1918,0,1,Marks,Finland,Syria
+375,652,1919,0,1,Marks,Finland,Syria
+375,652,1920,0,1,Marks,Finland,Syria
+375,652,1921,0,1,Marks,Finland,Syria
+375,652,1922,300,1,Marks,Finland,Syria
+375,652,1923,0,1,Marks,Finland,Syria
+375,652,1924,0,1,Marks,Finland,Syria
+375,652,1925,40,1,Fmk,Finland,Syria
+375,652,1926,0,1,Fmk,Finland,Syria
+375,652,1927,810,1,Fmk,Finland,Syria
+375,652,1928,300,1,Fmk,Finland,Syria
+375,652,1929,3071,1,Fmk,Finland,Syria
+375,652,1930,0,1,Fmk,Finland,Syria
+375,652,1931,0,1,Fmk,Finland,Syria
+375,652,1932,0,1,Fmk,Finland,Syria
+375,652,1933,19900,1,Fmk,Finland,Syria
+375,652,1934,82234,1,Fmk,Finland,Syria
+375,652,1935,182794,1,Fmk,Finland,Syria
+375,665,1901,0,1,,Finland,West Bank And Gaza
+375,665,1902,0,1,,Finland,West Bank And Gaza
+375,665,1903,0,1,,Finland,West Bank And Gaza
+375,665,1904,0,1,,Finland,West Bank And Gaza
+375,665,1905,0,1,,Finland,West Bank And Gaza
+375,665,1906,0,1,,Finland,West Bank And Gaza
+375,665,1907,43,1,Marks,Finland,West Bank And Gaza
+375,665,1908,0,1,Marks,Finland,West Bank And Gaza
+375,665,1909,0,1,Marks,Finland,West Bank And Gaza
+375,665,1910,0,1,Marks,Finland,West Bank And Gaza
+375,665,1911,0,1,Marks,Finland,West Bank And Gaza
+375,665,1912,291,1,Marks,Finland,West Bank And Gaza
+375,665,1913,0,1,Marks,Finland,West Bank And Gaza
+375,665,1914,0,1,Marks,Finland,West Bank And Gaza
+375,665,1915,0,1,Marks,Finland,West Bank And Gaza
+375,665,1916,0,1,Marks,Finland,West Bank And Gaza
+375,665,1917,0,1,Marks,Finland,West Bank And Gaza
+375,665,1918,0,1,Marks,Finland,West Bank And Gaza
+375,665,1919,0,1,Marks,Finland,West Bank And Gaza
+375,665,1920,0,1,Marks,Finland,West Bank And Gaza
+375,665,1921,0,1,Marks,Finland,West Bank And Gaza
+375,665,1922,42,1,Marks,Finland,West Bank And Gaza
+375,665,1923,215,1,Marks,Finland,West Bank And Gaza
+375,665,1924,2250,1,Marks,Finland,West Bank And Gaza
+375,665,1925,7028,1,Fmk,Finland,West Bank And Gaza
+375,665,1926,72901,1,Fmk,Finland,West Bank And Gaza
+375,665,1927,19631,1,Fmk,Finland,West Bank And Gaza
+375,665,1928,87550,1,Fmk,Finland,West Bank And Gaza
+375,665,1929,47580,1,Fmk,Finland,West Bank And Gaza
+375,665,1930,65245,1,Fmk,Finland,West Bank And Gaza
+375,665,1931,78358,1,Fmk,Finland,West Bank And Gaza
+375,665,1932,138344,1,Fmk,Finland,West Bank And Gaza
+375,665,1933,989947,1,Fmk,Finland,West Bank And Gaza
+375,665,1934,2724894,1,Fmk,Finland,West Bank And Gaza
+375,665,1935,5670315,1,Fmk,Finland,West Bank And Gaza
+375,675,1901,0,1,,Finland,Arabia
+375,675,1902,0,1,,Finland,Arabia
+375,675,1903,0,1,,Finland,Arabia
+375,675,1904,0,1,,Finland,Arabia
+375,675,1905,0,1,,Finland,Arabia
+375,675,1906,0,1,,Finland,Arabia
+375,675,1907,0,1,Marks,Finland,Arabia
+375,675,1908,0,1,Marks,Finland,Arabia
+375,675,1909,0,1,Marks,Finland,Arabia
+375,675,1910,0,1,Marks,Finland,Arabia
+375,675,1911,0,1,Marks,Finland,Arabia
+375,675,1912,0,1,Marks,Finland,Arabia
+375,675,1913,0,1,Marks,Finland,Arabia
+375,675,1914,0,1,Marks,Finland,Arabia
+375,675,1915,0,1,Marks,Finland,Arabia
+375,675,1916,0,1,Marks,Finland,Arabia
+375,675,1917,0,1,Marks,Finland,Arabia
+375,675,1918,0,1,Marks,Finland,Arabia
+375,675,1919,0,1,Marks,Finland,Arabia
+375,675,1920,0,1,Marks,Finland,Arabia
+375,675,1921,0,1,Marks,Finland,Arabia
+375,675,1922,0,1,Marks,Finland,Arabia
+375,675,1923,0,1,Marks,Finland,Arabia
+375,675,1924,0,1,Marks,Finland,Arabia
+375,675,1925,0,1,Fmk,Finland,Arabia
+375,675,1926,0,1,Fmk,Finland,Arabia
+375,675,1927,323689,1,Fmk,Finland,Arabia
+375,675,1928,645673,1,Fmk,Finland,Arabia
+375,675,1929,705449,1,Fmk,Finland,Arabia
+375,675,1930,798041,1,Fmk,Finland,Arabia
+375,675,1931,593315,1,Fmk,Finland,Arabia
+375,675,1932,628662,1,Fmk,Finland,Arabia
+375,675,1933,993443,1,Fmk,Finland,Arabia
+375,675,1934,0,1,Fmk,Finland,Arabia
+375,675,1935,0,1,Fmk,Finland,Arabia
+375,681,1901,0,1,,Finland,Aden
+375,681,1902,0,1,,Finland,Aden
+375,681,1903,0,1,,Finland,Aden
+375,681,1904,0,1,,Finland,Aden
+375,681,1905,0,1,,Finland,Aden
+375,681,1906,0,1,,Finland,Aden
+375,681,1907,0,1,Marks,Finland,Aden
+375,681,1908,0,1,Marks,Finland,Aden
+375,681,1909,0,1,Marks,Finland,Aden
+375,681,1910,0,1,Marks,Finland,Aden
+375,681,1911,0,1,Marks,Finland,Aden
+375,681,1912,0,1,Marks,Finland,Aden
+375,681,1913,0,1,Marks,Finland,Aden
+375,681,1914,0,1,Marks,Finland,Aden
+375,681,1915,0,1,Marks,Finland,Aden
+375,681,1916,0,1,Marks,Finland,Aden
+375,681,1917,0,1,Marks,Finland,Aden
+375,681,1918,0,1,Marks,Finland,Aden
+375,681,1919,0,1,Marks,Finland,Aden
+375,681,1920,0,1,Marks,Finland,Aden
+375,681,1921,0,1,Marks,Finland,Aden
+375,681,1922,0,1,Marks,Finland,Aden
+375,681,1923,0,1,Marks,Finland,Aden
+375,681,1924,0,1,Marks,Finland,Aden
+375,681,1925,0,1,Fmk,Finland,Aden
+375,681,1926,0,1,Fmk,Finland,Aden
+375,681,1927,0,1,Fmk,Finland,Aden
+375,681,1928,0,1,Fmk,Finland,Aden
+375,681,1929,0,1,Fmk,Finland,Aden
+375,681,1930,0,1,Fmk,Finland,Aden
+375,681,1931,0,1,Fmk,Finland,Aden
+375,681,1932,0,1,Fmk,Finland,Aden
+375,681,1933,0,1,Fmk,Finland,Aden
+375,681,1934,552465,1,Fmk,Finland,Aden
+375,681,1935,806610,1,Fmk,Finland,Aden
+375,690,1901,0,1,,Finland,Kuwait
+375,690,1902,0,1,,Finland,Kuwait
+375,690,1903,0,1,,Finland,Kuwait
+375,690,1904,0,1,,Finland,Kuwait
+375,690,1905,0,1,,Finland,Kuwait
+375,690,1906,0,1,,Finland,Kuwait
+375,690,1907,0,1,Marks,Finland,Kuwait
+375,690,1908,0,1,Marks,Finland,Kuwait
+375,690,1909,0,1,Marks,Finland,Kuwait
+375,690,1910,0,1,Marks,Finland,Kuwait
+375,690,1911,0,1,Marks,Finland,Kuwait
+375,690,1912,0,1,Marks,Finland,Kuwait
+375,690,1913,0,1,Marks,Finland,Kuwait
+375,690,1914,0,1,Marks,Finland,Kuwait
+375,690,1915,0,1,Marks,Finland,Kuwait
+375,690,1916,0,1,Marks,Finland,Kuwait
+375,690,1917,0,1,Marks,Finland,Kuwait
+375,690,1918,0,1,Marks,Finland,Kuwait
+375,690,1919,0,1,Marks,Finland,Kuwait
+375,690,1920,0,1,Marks,Finland,Kuwait
+375,690,1921,0,1,Marks,Finland,Kuwait
+375,690,1922,0,1,Marks,Finland,Kuwait
+375,690,1923,0,1,Marks,Finland,Kuwait
+375,690,1924,0,1,Marks,Finland,Kuwait
+375,690,1925,0,1,Fmk,Finland,Kuwait
+375,690,1926,0,1,Fmk,Finland,Kuwait
+375,690,1927,0,1,Fmk,Finland,Kuwait
+375,690,1928,0,1,Fmk,Finland,Kuwait
+375,690,1929,0,1,Fmk,Finland,Kuwait
+375,690,1930,0,1,Fmk,Finland,Kuwait
+375,690,1931,0,1,Fmk,Finland,Kuwait
+375,690,1932,0,1,Fmk,Finland,Kuwait
+375,690,1933,0,1,Fmk,Finland,Kuwait
+375,690,1934,0,1,Fmk,Finland,Kuwait
+375,690,1935,200,1,Fmk,Finland,Kuwait
+375,700,1901,0,1,,Finland,Afghanistan
+375,700,1902,0,1,,Finland,Afghanistan
+375,700,1903,0,1,,Finland,Afghanistan
+375,700,1904,0,1,,Finland,Afghanistan
+375,700,1905,0,1,,Finland,Afghanistan
+375,700,1906,0,1,,Finland,Afghanistan
+375,700,1907,0,1,Marks,Finland,Afghanistan
+375,700,1908,0,1,Marks,Finland,Afghanistan
+375,700,1909,0,1,Marks,Finland,Afghanistan
+375,700,1910,0,1,Marks,Finland,Afghanistan
+375,700,1911,0,1,Marks,Finland,Afghanistan
+375,700,1912,0,1,Marks,Finland,Afghanistan
+375,700,1913,0,1,Marks,Finland,Afghanistan
+375,700,1914,0,1,Marks,Finland,Afghanistan
+375,700,1915,0,1,Marks,Finland,Afghanistan
+375,700,1916,0,1,Marks,Finland,Afghanistan
+375,700,1917,0,1,Marks,Finland,Afghanistan
+375,700,1918,0,1,Marks,Finland,Afghanistan
+375,700,1919,0,1,Marks,Finland,Afghanistan
+375,700,1920,0,1,Marks,Finland,Afghanistan
+375,700,1921,0,1,Marks,Finland,Afghanistan
+375,700,1922,0,1,Marks,Finland,Afghanistan
+375,700,1923,0,1,Marks,Finland,Afghanistan
+375,700,1924,0,1,Marks,Finland,Afghanistan
+375,700,1925,0,1,Fmk,Finland,Afghanistan
+375,700,1926,0,1,Fmk,Finland,Afghanistan
+375,700,1927,0,1,Fmk,Finland,Afghanistan
+375,700,1928,0,1,Fmk,Finland,Afghanistan
+375,700,1929,0,1,Fmk,Finland,Afghanistan
+375,700,1930,0,1,Fmk,Finland,Afghanistan
+375,700,1931,0,1,Fmk,Finland,Afghanistan
+375,700,1932,0,1,Fmk,Finland,Afghanistan
+375,700,1933,0,1,Fmk,Finland,Afghanistan
+375,700,1934,0,1,Fmk,Finland,Afghanistan
+375,700,1935,17576,1,Fmk,Finland,Afghanistan
+375,710,1901,0,1,,Finland,China
+375,710,1902,0,1,,Finland,China
+375,710,1903,1293,1,,Finland,China
+375,710,1904,160,1,,Finland,China
+375,710,1905,11,1,,Finland,China
+375,710,1906,41,1,,Finland,China
+375,710,1907,128,1,Marks,Finland,China
+375,710,1908,3,1,Marks,Finland,China
+375,710,1909,68,1,Marks,Finland,China
+375,710,1910,35,1,Marks,Finland,China
+375,710,1911,384,1,Marks,Finland,China
+375,710,1912,238,1,Marks,Finland,China
+375,710,1913,204,1,Marks,Finland,China
+375,710,1914,1637,1,Marks,Finland,China
+375,710,1915,246,1,Marks,Finland,China
+375,710,1916,426,1,Marks,Finland,China
+375,710,1917,337,1,Marks,Finland,China
+375,710,1918,12480,1,Marks,Finland,China
+375,710,1919,512,1,Marks,Finland,China
+375,710,1920,1155,1,Marks,Finland,China
+375,710,1921,78890,1,Marks,Finland,China
+375,710,1922,12124,1,Marks,Finland,China
+375,710,1923,718360,1,Marks,Finland,China
+375,710,1924,504802,1,Marks,Finland,China
+375,710,1925,196311,1,Fmk,Finland,China
+375,710,1926,2178978,1,Fmk,Finland,China
+375,710,1927,1349903,1,Fmk,Finland,China
+375,710,1928,2809856,1,Fmk,Finland,China
+375,710,1929,1712018,1,Fmk,Finland,China
+375,710,1930,849678,1,Fmk,Finland,China
+375,710,1931,581147,1,Fmk,Finland,China
+375,710,1932,1856457,1,Fmk,Finland,China
+375,710,1933,1311923,1,Fmk,Finland,China
+375,710,1934,654935,1,Fmk,Finland,China
+375,710,1935,19040607,1,Fmk,Finland,China
+375,730,1901,0,1,,Finland,Korea
+375,730,1902,0,1,,Finland,Korea
+375,730,1903,3,1,,Finland,Korea
+375,730,1904,0,1,,Finland,Korea
+375,730,1905,0,1,,Finland,Korea
+375,730,1906,0,1,,Finland,Korea
+375,730,1907,0,1,Marks,Finland,Korea
+375,730,1908,0,1,Marks,Finland,Korea
+375,730,1909,0,1,Marks,Finland,Korea
+375,730,1910,109,1,Marks,Finland,Korea
+375,730,1911,0,1,Marks,Finland,Korea
+375,730,1912,0,1,Marks,Finland,Korea
+375,730,1913,0,1,Marks,Finland,Korea
+375,730,1914,0,1,Marks,Finland,Korea
+375,730,1915,0,1,Marks,Finland,Korea
+375,730,1916,0,1,Marks,Finland,Korea
+375,730,1917,0,1,Marks,Finland,Korea
+375,730,1918,0,1,Marks,Finland,Korea
+375,730,1919,0,1,Marks,Finland,Korea
+375,730,1920,0,1,Marks,Finland,Korea
+375,730,1921,187046,1,Marks,Finland,Korea
+375,730,1922,206760,1,Marks,Finland,Korea
+375,730,1923,0,1,Marks,Finland,Korea
+375,730,1924,0,1,Marks,Finland,Korea
+375,730,1925,0,1,Fmk,Finland,Korea
+375,730,1926,0,1,Fmk,Finland,Korea
+375,730,1927,0,1,Fmk,Finland,Korea
+375,730,1928,0,1,Fmk,Finland,Korea
+375,730,1929,0,1,Fmk,Finland,Korea
+375,730,1930,0,1,Fmk,Finland,Korea
+375,730,1931,0,1,Fmk,Finland,Korea
+375,730,1932,0,1,Fmk,Finland,Korea
+375,730,1933,0,1,Fmk,Finland,Korea
+375,730,1934,0,1,Fmk,Finland,Korea
+375,730,1935,20924,1,Fmk,Finland,Korea
+375,740,1901,0,1,,Finland,Japan
+375,740,1902,0,1,,Finland,Japan
+375,740,1903,0,1,,Finland,Japan
+375,740,1904,40,1,,Finland,Japan
+375,740,1905,0,1,,Finland,Japan
+375,740,1906,285,1,,Finland,Japan
+375,740,1907,79,1,Marks,Finland,Japan
+375,740,1908,175,1,Marks,Finland,Japan
+375,740,1909,22,1,Marks,Finland,Japan
+375,740,1910,468,1,Marks,Finland,Japan
+375,740,1911,1241,1,Marks,Finland,Japan
+375,740,1912,758,1,Marks,Finland,Japan
+375,740,1913,374,1,Marks,Finland,Japan
+375,740,1914,49,1,Marks,Finland,Japan
+375,740,1915,9008,1,Marks,Finland,Japan
+375,740,1916,51855,1,Marks,Finland,Japan
+375,740,1917,584795,1,Marks,Finland,Japan
+375,740,1918,199437,1,Marks,Finland,Japan
+375,740,1919,17351975,1,Marks,Finland,Japan
+375,740,1920,290016,1,Marks,Finland,Japan
+375,740,1921,84408,1,Marks,Finland,Japan
+375,740,1922,474332,1,Marks,Finland,Japan
+375,740,1923,171589,1,Marks,Finland,Japan
+375,740,1924,112937,1,Marks,Finland,Japan
+375,740,1925,333904,1,Fmk,Finland,Japan
+375,740,1926,396851,1,Fmk,Finland,Japan
+375,740,1927,631947,1,Fmk,Finland,Japan
+375,740,1928,1253137,1,Fmk,Finland,Japan
+375,740,1929,1403927,1,Fmk,Finland,Japan
+375,740,1930,2381680,1,Fmk,Finland,Japan
+375,740,1931,1578232,1,Fmk,Finland,Japan
+375,740,1932,2668696,1,Fmk,Finland,Japan
+375,740,1933,4777454,1,Fmk,Finland,Japan
+375,740,1934,15875606,1,Fmk,Finland,Japan
+375,740,1935,36073193,1,Fmk,Finland,Japan
+375,780,1901,0,1,,Finland,Sri Lanka
+375,780,1902,0,1,,Finland,Sri Lanka
+375,780,1903,0,1,,Finland,Sri Lanka
+375,780,1904,0,1,,Finland,Sri Lanka
+375,780,1905,0,1,,Finland,Sri Lanka
+375,780,1906,0,1,,Finland,Sri Lanka
+375,780,1907,0,1,Marks,Finland,Sri Lanka
+375,780,1908,0,1,Marks,Finland,Sri Lanka
+375,780,1909,0,1,Marks,Finland,Sri Lanka
+375,780,1910,0,1,Marks,Finland,Sri Lanka
+375,780,1911,0,1,Marks,Finland,Sri Lanka
+375,780,1912,0,1,Marks,Finland,Sri Lanka
+375,780,1913,0,1,Marks,Finland,Sri Lanka
+375,780,1914,0,1,Marks,Finland,Sri Lanka
+375,780,1915,0,1,Marks,Finland,Sri Lanka
+375,780,1916,0,1,Marks,Finland,Sri Lanka
+375,780,1917,0,1,Marks,Finland,Sri Lanka
+375,780,1918,0,1,Marks,Finland,Sri Lanka
+375,780,1919,0,1,Marks,Finland,Sri Lanka
+375,780,1920,0,1,Marks,Finland,Sri Lanka
+375,780,1921,0,1,Marks,Finland,Sri Lanka
+375,780,1922,0,1,Marks,Finland,Sri Lanka
+375,780,1923,0,1,Marks,Finland,Sri Lanka
+375,780,1924,0,1,Marks,Finland,Sri Lanka
+375,780,1925,0,1,Fmk,Finland,Sri Lanka
+375,780,1926,0,1,Fmk,Finland,Sri Lanka
+375,780,1927,0,1,Fmk,Finland,Sri Lanka
+375,780,1928,0,1,Fmk,Finland,Sri Lanka
+375,780,1929,0,1,Fmk,Finland,Sri Lanka
+375,780,1930,0,1,Fmk,Finland,Sri Lanka
+375,780,1931,0,1,Fmk,Finland,Sri Lanka
+375,780,1932,0,1,Fmk,Finland,Sri Lanka
+375,780,1933,0,1,Fmk,Finland,Sri Lanka
+375,780,1934,1322064,1,Fmk,Finland,Sri Lanka
+375,780,1935,7661595,1,Fmk,Finland,Sri Lanka
+375,800,1901,0,1,,Finland,Thailand
+375,800,1902,0,1,,Finland,Thailand
+375,800,1903,0,1,,Finland,Thailand
+375,800,1904,0,1,,Finland,Thailand
+375,800,1905,0,1,,Finland,Thailand
+375,800,1906,0,1,,Finland,Thailand
+375,800,1907,0,1,Marks,Finland,Thailand
+375,800,1908,0,1,Marks,Finland,Thailand
+375,800,1909,0,1,Marks,Finland,Thailand
+375,800,1910,0,1,Marks,Finland,Thailand
+375,800,1911,0,1,Marks,Finland,Thailand
+375,800,1912,10,1,Marks,Finland,Thailand
+375,800,1913,0,1,Marks,Finland,Thailand
+375,800,1914,78,1,Marks,Finland,Thailand
+375,800,1915,0,1,Marks,Finland,Thailand
+375,800,1916,0,1,Marks,Finland,Thailand
+375,800,1917,0,1,Marks,Finland,Thailand
+375,800,1918,0,1,Marks,Finland,Thailand
+375,800,1919,0,1,Marks,Finland,Thailand
+375,800,1920,0,1,Marks,Finland,Thailand
+375,800,1921,0,1,Marks,Finland,Thailand
+375,800,1922,0,1,Marks,Finland,Thailand
+375,800,1923,0,1,Marks,Finland,Thailand
+375,800,1924,26800,1,Marks,Finland,Thailand
+375,800,1925,0,1,Fmk,Finland,Thailand
+375,800,1926,0,1,Fmk,Finland,Thailand
+375,800,1927,0,1,Fmk,Finland,Thailand
+375,800,1928,0,1,Fmk,Finland,Thailand
+375,800,1929,0,1,Fmk,Finland,Thailand
+375,800,1930,0,1,Fmk,Finland,Thailand
+375,800,1931,0,1,Fmk,Finland,Thailand
+375,800,1932,0,1,Fmk,Finland,Thailand
+375,800,1933,0,1,Fmk,Finland,Thailand
+375,800,1934,0,1,Fmk,Finland,Thailand
+375,800,1935,782190,1,Fmk,Finland,Thailand
+375,840,1901,0,1,,Finland,Philippines
+375,840,1902,0,1,,Finland,Philippines
+375,840,1903,0,1,,Finland,Philippines
+375,840,1904,0,1,,Finland,Philippines
+375,840,1905,0,1,,Finland,Philippines
+375,840,1906,0,1,,Finland,Philippines
+375,840,1907,0,1,Marks,Finland,Philippines
+375,840,1908,0,1,Marks,Finland,Philippines
+375,840,1909,0,1,Marks,Finland,Philippines
+375,840,1910,0,1,Marks,Finland,Philippines
+375,840,1911,0,1,Marks,Finland,Philippines
+375,840,1912,0,1,Marks,Finland,Philippines
+375,840,1913,0,1,Marks,Finland,Philippines
+375,840,1914,0,1,Marks,Finland,Philippines
+375,840,1915,0,1,Marks,Finland,Philippines
+375,840,1916,0,1,Marks,Finland,Philippines
+375,840,1917,0,1,Marks,Finland,Philippines
+375,840,1918,0,1,Marks,Finland,Philippines
+375,840,1919,0,1,Marks,Finland,Philippines
+375,840,1920,0,1,Marks,Finland,Philippines
+375,840,1921,0,1,Marks,Finland,Philippines
+375,840,1922,0,1,Marks,Finland,Philippines
+375,840,1923,0,1,Marks,Finland,Philippines
+375,840,1924,0,1,Marks,Finland,Philippines
+375,840,1925,0,1,Fmk,Finland,Philippines
+375,840,1926,0,1,Fmk,Finland,Philippines
+375,840,1927,0,1,Fmk,Finland,Philippines
+375,840,1928,0,1,Fmk,Finland,Philippines
+375,840,1929,0,1,Fmk,Finland,Philippines
+375,840,1930,0,1,Fmk,Finland,Philippines
+375,840,1931,0,1,Fmk,Finland,Philippines
+375,840,1932,0,1,Fmk,Finland,Philippines
+375,840,1933,0,1,Fmk,Finland,Philippines
+375,840,1934,0,1,Fmk,Finland,Philippines
+375,840,1935,655972,1,Fmk,Finland,Philippines
+375,900,1901,0,1,,Finland,Australia
+375,900,1902,0,1,,Finland,Australia
+375,900,1903,5,1,,Finland,Australia
+375,900,1904,2,1,,Finland,Australia
+375,900,1905,0,1,,Finland,Australia
+375,900,1906,55,1,,Finland,Australia
+375,900,1907,0,1,Marks,Finland,Australia
+375,900,1908,0,1,Marks,Finland,Australia
+375,900,1909,10,1,Marks,Finland,Australia
+375,900,1910,25,1,Marks,Finland,Australia
+375,900,1911,0,1,Marks,Finland,Australia
+375,900,1912,83,1,Marks,Finland,Australia
+375,900,1913,100,1,Marks,Finland,Australia
+375,900,1914,0,1,Marks,Finland,Australia
+375,900,1915,0,1,Marks,Finland,Australia
+375,900,1916,0,1,Marks,Finland,Australia
+375,900,1917,0,1,Marks,Finland,Australia
+375,900,1918,0,1,Marks,Finland,Australia
+375,900,1919,54,1,Marks,Finland,Australia
+375,900,1920,42679,1,Marks,Finland,Australia
+375,900,1921,261579,1,Marks,Finland,Australia
+375,900,1922,263440,1,Marks,Finland,Australia
+375,900,1923,1078983,1,Marks,Finland,Australia
+375,900,1924,1320448,1,Marks,Finland,Australia
+375,900,1925,3657916,1,Fmk,Finland,Australia
+375,900,1926,11376125,1,Fmk,Finland,Australia
+375,900,1927,8756751,1,Fmk,Finland,Australia
+375,900,1928,7637963,1,Fmk,Finland,Australia
+375,900,1929,5854440,1,Fmk,Finland,Australia
+375,900,1930,4790931,1,Fmk,Finland,Australia
+375,900,1931,1944534,1,Fmk,Finland,Australia
+375,900,1932,4764725,1,Fmk,Finland,Australia
+375,900,1933,3924642,1,Fmk,Finland,Australia
+375,900,1934,9620811,1,Fmk,Finland,Australia
+375,900,1935,32912936,1,Fmk,Finland,Australia
+375,1065,1901,0,1,,Finland,Curacao
+375,1065,1902,0,1,,Finland,Curacao
+375,1065,1903,0,1,,Finland,Curacao
+375,1065,1904,0,1,,Finland,Curacao
+375,1065,1905,0,1,,Finland,Curacao
+375,1065,1906,0,1,,Finland,Curacao
+375,1065,1907,0,1,Marks,Finland,Curacao
+375,1065,1908,0,1,Marks,Finland,Curacao
+375,1065,1909,0,1,Marks,Finland,Curacao
+375,1065,1910,0,1,Marks,Finland,Curacao
+375,1065,1911,0,1,Marks,Finland,Curacao
+375,1065,1912,0,1,Marks,Finland,Curacao
+375,1065,1913,0,1,Marks,Finland,Curacao
+375,1065,1914,0,1,Marks,Finland,Curacao
+375,1065,1915,0,1,Marks,Finland,Curacao
+375,1065,1916,0,1,Marks,Finland,Curacao
+375,1065,1917,0,1,Marks,Finland,Curacao
+375,1065,1918,0,1,Marks,Finland,Curacao
+375,1065,1919,0,1,Marks,Finland,Curacao
+375,1065,1920,0,1,Marks,Finland,Curacao
+375,1065,1921,0,1,Marks,Finland,Curacao
+375,1065,1922,0,1,Marks,Finland,Curacao
+375,1065,1923,0,1,Marks,Finland,Curacao
+375,1065,1924,0,1,Marks,Finland,Curacao
+375,1065,1925,0,1,Fmk,Finland,Curacao
+375,1065,1926,0,1,Fmk,Finland,Curacao
+375,1065,1927,0,1,Fmk,Finland,Curacao
+375,1065,1928,0,1,Fmk,Finland,Curacao
+375,1065,1929,0,1,Fmk,Finland,Curacao
+375,1065,1930,0,1,Fmk,Finland,Curacao
+375,1065,1931,0,1,Fmk,Finland,Curacao
+375,1065,1932,0,1,Fmk,Finland,Curacao
+375,1065,1933,0,1,Fmk,Finland,Curacao
+375,1065,1934,10870215,1,Fmk,Finland,Curacao
+375,1065,1935,44489883,1,Fmk,Finland,Curacao
+375,3651,1901,0,1,,Finland,Siberia
+375,3651,1902,0,1,,Finland,Siberia
+375,3651,1903,0,1,,Finland,Siberia
+375,3651,1904,0,1,,Finland,Siberia
+375,3651,1905,0,1,,Finland,Siberia
+375,3651,1906,0,1,,Finland,Siberia
+375,3651,1907,0,1,Marks,Finland,Siberia
+375,3651,1908,0,1,Marks,Finland,Siberia
+375,3651,1909,0,1,Marks,Finland,Siberia
+375,3651,1910,0,1,Marks,Finland,Siberia
+375,3651,1911,0,1,Marks,Finland,Siberia
+375,3651,1912,0,1,Marks,Finland,Siberia
+375,3651,1913,0,1,Marks,Finland,Siberia
+375,3651,1914,0,1,Marks,Finland,Siberia
+375,3651,1915,0,1,Marks,Finland,Siberia
+375,3651,1916,0,1,Marks,Finland,Siberia
+375,3651,1917,0,1,Marks,Finland,Siberia
+375,3651,1918,0,1,Marks,Finland,Siberia
+375,3651,1919,0,1,Marks,Finland,Siberia
+375,3651,1920,0,1,Marks,Finland,Siberia
+375,3651,1921,0,1,Marks,Finland,Siberia
+375,3651,1922,0,1,Marks,Finland,Siberia
+375,3651,1923,0,1,Marks,Finland,Siberia
+375,3651,1924,0,1,Marks,Finland,Siberia
+375,3651,1925,0,1,Fmk,Finland,Siberia
+375,3651,1926,0,1,Fmk,Finland,Siberia
+375,3651,1927,0,1,Fmk,Finland,Siberia
+375,3651,1928,0,1,Fmk,Finland,Siberia
+375,3651,1929,0,1,Fmk,Finland,Siberia
+375,3651,1930,0,1,Fmk,Finland,Siberia
+375,3651,1931,0,1,Fmk,Finland,Siberia
+375,3651,1932,0,1,Fmk,Finland,Siberia
+375,3651,1933,0,1,Fmk,Finland,Siberia
+375,3651,1934,0,1,Fmk,Finland,Siberia
+375,3651,1935,0,1,Fmk,Finland,Siberia
+375,8501,1901,0,1,,Finland,Java
+375,8501,1902,0,1,,Finland,Java
+375,8501,1903,0,1,,Finland,Java
+375,8501,1904,0,1,,Finland,Java
+375,8501,1905,0,1,,Finland,Java
+375,8501,1906,0,1,,Finland,Java
+375,8501,1907,0,1,Marks,Finland,Java
+375,8501,1908,0,1,Marks,Finland,Java
+375,8501,1909,0,1,Marks,Finland,Java
+375,8501,1910,0,1,Marks,Finland,Java
+375,8501,1911,0,1,Marks,Finland,Java
+375,8501,1912,27,1,Marks,Finland,Java
+375,8501,1913,0,1,Marks,Finland,Java
+375,8501,1914,61,1,Marks,Finland,Java
+375,8501,1915,0,1,Marks,Finland,Java
+375,8501,1916,0,1,Marks,Finland,Java
+375,8501,1917,0,1,Marks,Finland,Java
+375,8501,1918,0,1,Marks,Finland,Java
+375,8501,1919,0,1,Marks,Finland,Java
+375,8501,1920,0,1,Marks,Finland,Java
+375,8501,1921,0,1,Marks,Finland,Java
+375,8501,1922,0,1,Marks,Finland,Java
+375,8501,1923,0,1,Marks,Finland,Java
+375,8501,1924,0,1,Marks,Finland,Java
+375,8501,1925,0,1,Fmk,Finland,Java
+375,8501,1926,0,1,Fmk,Finland,Java
+375,8501,1927,0,1,Fmk,Finland,Java
+375,8501,1928,0,1,Fmk,Finland,Java
+375,8501,1929,0,1,Fmk,Finland,Java
+375,8501,1930,0,1,Fmk,Finland,Java
+375,8501,1931,0,1,Fmk,Finland,Java
+375,8501,1932,0,1,Fmk,Finland,Java
+375,8501,1933,0,1,Fmk,Finland,Java
+375,8501,1934,0,1,Fmk,Finland,Java
+375,8501,1935,0,1,Fmk,Finland,Java
+375,,1901,86114605,1,,Finland,
+375,,1902,92400401,1,,Finland,
+375,,1903,269199720,1,,Finland,
+375,,1904,268684562,1,,Finland,
+375,,1905,269953333,1,,Finland,
+375,,1906,315844645,1,,Finland,
+375,,1907,381059658,1,Marks,Finland,
+375,,1908,365796107,1,Marks,Finland,
+375,,1909,368686339,1,Marks,Finland,
+375,,1910,386309793,1,Marks,Finland,
+375,,1911,446788445,1,Marks,Finland,
+375,,1912,473162443,1,Marks,Finland,
+375,,1913,498150180,1,Marks,Finland,
+375,,1914,382932463,1,Marks,Finland,
+375,,1915,581080400,1,Marks,Finland,
+375,,1916,975308205,1,Marks,Finland,
+375,,1917,1285973148,1,Marks,Finland,
+375,,1918,511974574,1,Marks,Finland,
+375,,1919,2531293088,1,Marks,Finland,
+375,,1920,3801188647,1,Marks,Finland,
+375,,1921,3625524834,1,Marks,Finland,
+375,,1922,3977440964,1,Marks,Finland,
+375,,1923,4615996316,1,Marks,Finland,
+375,,1924,4733707992,1,Marks,Finland,
+375,,1925,5543923470,1,Fmk,Finland,
+375,,1926,5695718981,1,Fmk,Finland,
+375,,1927,6411466701,1,Fmk,Finland,
+375,,1928,8057890222,1,Fmk,Finland,
+375,,1929,7033566276,1,Fmk,Finland,
+375,,1930,5330605952,1,Fmk,Finland,
+375,,1931,3517045742,1,Fmk,Finland,
+375,,1932,3543255774,1,Fmk,Finland,
+375,,1933,3980151618,1,Fmk,Finland,
+375,,1934,4807311318,1,Fmk,Finland,
+375,,1935,5461490436,1,Fmk,Finland,

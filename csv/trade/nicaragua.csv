@@ -1,0 +1,1629 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+93,2,1913,3244008,1,Cordobas,Nicaragua,United States
+93,2,1914,2566368,1,Cordobas,Nicaragua,United States
+93,2,1915,2592799,1,Cordobas,Nicaragua,United States
+93,2,1916,3855900,1,Cordobas,Nicaragua,United States
+93,2,1917,5171468,1,Cordobas,Nicaragua,United States
+93,2,1918,4630057,1,Cordobas,Nicaragua,United States
+93,2,1919,6687712,1,Cordobas,Nicaragua,United States
+93,2,1920,11247589,1,Cordobas,Nicaragua,United States
+93,2,1921,3857202,1,Cordobas,Nicaragua,United States
+93,2,1922,4127205,1,Cordobas,Nicaragua,United States
+93,2,1923,5509254,1,Cordobas,Nicaragua,United States
+93,2,1924,6425242,1,Cordobas,Nicaragua,United States
+93,2,1925,7272191,1,Cordobas,Nicaragua,United States
+93,2,1926,7116715,1,Cordobas,Nicaragua,United States
+93,2,1927,6777574,1,Cordobas,Nicaragua,United States
+93,2,1928,8383750,1,Cordobas,Nicaragua,United States
+93,2,1929,7389738,1,Cordobas,Nicaragua,United States
+93,2,1930,5023615,1,Cordobas,Nicaragua,United States
+93,2,1931,3684213,1,Cordobas,Nicaragua,United States
+93,2,1932,2180956,1,Cordobas,Nicaragua,United States
+93,2,1933,2393820,1,Cordobas,Nicaragua,United States
+93,2,1934,2712145,1,Cordobas,Nicaragua,United States
+93,2,1935,2537630,1,Cordobas,Nicaragua,United States
+93,2,1936,2579813,1,Cordobas,Nicaragua,United States
+93,2,1937,3044606,1,Dolares,Nicaragua,United States
+93,2,1938,3057952,1,Dolares,Nicaragua,United States
+93,2,1939,4352460,1,Dolares,Nicaragua,United States
+93,2,1940,5921077,1,Dolares,Nicaragua,United States
+93,2,1941,9141506,1,Dolares,Nicaragua,United States
+93,2,1942,5185203,1,Dolares,Nicaragua,United States
+93,2,1943,8256952,1,Dolares,Nicaragua,United States
+93,2,1944,7601073,1,Dolares,Nicaragua,United States
+93,2,1945,8926364,1,Dolares,Nicaragua,United States
+93,2,1946,11396845,1,Dolares,Nicaragua,United States
+93,2,1947,17904466,1,Dolares,Nicaragua,United States
+93,2,1948,20179547,1,Dolares,Nicaragua,United States
+93,2,1949,16789634,1,Dolares,Nicaragua,United States
+93,6,1913,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1914,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1915,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1916,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1917,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1918,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1919,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1920,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1921,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1922,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1923,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1924,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1925,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1926,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1927,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1928,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1929,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1930,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1931,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1932,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1933,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1934,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1935,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1936,0,1,Cordobas,Nicaragua,Puerto Rico
+93,6,1937,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1938,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1939,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1940,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1941,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1942,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1943,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1944,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1945,0,1,Dolares,Nicaragua,Puerto Rico
+93,6,1946,2,1,Dolares,Nicaragua,Puerto Rico
+93,6,1947,128,1,Dolares,Nicaragua,Puerto Rico
+93,6,1948,29,1,Dolares,Nicaragua,Puerto Rico
+93,6,1949,348,1,Dolares,Nicaragua,Puerto Rico
+93,20,1913,0,1,Cordobas,Nicaragua,Canada
+93,20,1914,0,1,Cordobas,Nicaragua,Canada
+93,20,1915,0,1,Cordobas,Nicaragua,Canada
+93,20,1916,0,1,Cordobas,Nicaragua,Canada
+93,20,1917,0,1,Cordobas,Nicaragua,Canada
+93,20,1918,0,1,Cordobas,Nicaragua,Canada
+93,20,1919,0,1,Cordobas,Nicaragua,Canada
+93,20,1920,0,1,Cordobas,Nicaragua,Canada
+93,20,1921,0,1,Cordobas,Nicaragua,Canada
+93,20,1922,0,1,Cordobas,Nicaragua,Canada
+93,20,1923,0,1,Cordobas,Nicaragua,Canada
+93,20,1924,0,1,Cordobas,Nicaragua,Canada
+93,20,1925,0,1,Cordobas,Nicaragua,Canada
+93,20,1926,0,1,Cordobas,Nicaragua,Canada
+93,20,1927,0,1,Cordobas,Nicaragua,Canada
+93,20,1928,0,1,Cordobas,Nicaragua,Canada
+93,20,1929,0,1,Cordobas,Nicaragua,Canada
+93,20,1930,0,1,Cordobas,Nicaragua,Canada
+93,20,1931,0,1,Cordobas,Nicaragua,Canada
+93,20,1932,0,1,Cordobas,Nicaragua,Canada
+93,20,1933,0,1,Cordobas,Nicaragua,Canada
+93,20,1934,0,1,Cordobas,Nicaragua,Canada
+93,20,1935,0,1,Cordobas,Nicaragua,Canada
+93,20,1936,0,1,Cordobas,Nicaragua,Canada
+93,20,1937,0,1,Dolares,Nicaragua,Canada
+93,20,1938,0,1,Dolares,Nicaragua,Canada
+93,20,1939,0,1,Dolares,Nicaragua,Canada
+93,20,1940,0,1,Dolares,Nicaragua,Canada
+93,20,1941,0,1,Dolares,Nicaragua,Canada
+93,20,1942,0,1,Dolares,Nicaragua,Canada
+93,20,1943,0,1,Dolares,Nicaragua,Canada
+93,20,1944,0,1,Dolares,Nicaragua,Canada
+93,20,1945,17298,1,Dolares,Nicaragua,Canada
+93,20,1946,17906,1,Dolares,Nicaragua,Canada
+93,20,1947,92023,1,Dolares,Nicaragua,Canada
+93,20,1948,153832,1,Dolares,Nicaragua,Canada
+93,20,1949,203166,1,Dolares,Nicaragua,Canada
+93,40,1913,0,1,Cordobas,Nicaragua,Cuba
+93,40,1914,0,1,Cordobas,Nicaragua,Cuba
+93,40,1915,0,1,Cordobas,Nicaragua,Cuba
+93,40,1916,0,1,Cordobas,Nicaragua,Cuba
+93,40,1917,0,1,Cordobas,Nicaragua,Cuba
+93,40,1918,0,1,Cordobas,Nicaragua,Cuba
+93,40,1919,0,1,Cordobas,Nicaragua,Cuba
+93,40,1920,0,1,Cordobas,Nicaragua,Cuba
+93,40,1921,0,1,Cordobas,Nicaragua,Cuba
+93,40,1922,0,1,Cordobas,Nicaragua,Cuba
+93,40,1923,0,1,Cordobas,Nicaragua,Cuba
+93,40,1924,0,1,Cordobas,Nicaragua,Cuba
+93,40,1925,0,1,Cordobas,Nicaragua,Cuba
+93,40,1926,0,1,Cordobas,Nicaragua,Cuba
+93,40,1927,0,1,Cordobas,Nicaragua,Cuba
+93,40,1928,0,1,Cordobas,Nicaragua,Cuba
+93,40,1929,0,1,Cordobas,Nicaragua,Cuba
+93,40,1930,0,1,Cordobas,Nicaragua,Cuba
+93,40,1931,0,1,Cordobas,Nicaragua,Cuba
+93,40,1932,0,1,Cordobas,Nicaragua,Cuba
+93,40,1933,0,1,Cordobas,Nicaragua,Cuba
+93,40,1934,0,1,Cordobas,Nicaragua,Cuba
+93,40,1935,0,1,Cordobas,Nicaragua,Cuba
+93,40,1936,0,1,Cordobas,Nicaragua,Cuba
+93,40,1937,0,1,Dolares,Nicaragua,Cuba
+93,40,1938,0,1,Dolares,Nicaragua,Cuba
+93,40,1939,0,1,Dolares,Nicaragua,Cuba
+93,40,1940,0,1,Dolares,Nicaragua,Cuba
+93,40,1941,0,1,Dolares,Nicaragua,Cuba
+93,40,1942,3535,1,Dolares,Nicaragua,Cuba
+93,40,1943,11537,1,Dolares,Nicaragua,Cuba
+93,40,1944,21775,1,Dolares,Nicaragua,Cuba
+93,40,1945,20575,1,Dolares,Nicaragua,Cuba
+93,40,1946,15898,1,Dolares,Nicaragua,Cuba
+93,40,1947,18456,1,Dolares,Nicaragua,Cuba
+93,40,1948,20366,1,Dolares,Nicaragua,Cuba
+93,40,1949,11979,1,Dolares,Nicaragua,Cuba
+93,42,1913,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1914,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1915,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1916,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1917,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1918,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1919,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1920,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1921,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1922,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1923,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1924,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1925,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1926,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1927,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1928,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1929,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1930,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1931,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1932,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1933,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1934,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1935,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1936,0,1,Cordobas,Nicaragua,Dominican Republic
+93,42,1937,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1938,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1939,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1940,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1941,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1942,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1943,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1944,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1945,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1946,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1947,0,1,Dolares,Nicaragua,Dominican Republic
+93,42,1948,202,1,Dolares,Nicaragua,Dominican Republic
+93,42,1949,95,1,Dolares,Nicaragua,Dominican Republic
+93,51,1913,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1914,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1915,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1916,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1917,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1918,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1919,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1920,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1921,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1922,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1923,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1924,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1925,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1926,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1927,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1928,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1929,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1930,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1931,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1932,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1933,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1934,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1935,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1936,0,1,Cordobas,Nicaragua,Jamaica
+93,51,1937,0,1,Dolares,Nicaragua,Jamaica
+93,51,1938,0,1,Dolares,Nicaragua,Jamaica
+93,51,1939,0,1,Dolares,Nicaragua,Jamaica
+93,51,1940,0,1,Dolares,Nicaragua,Jamaica
+93,51,1941,0,1,Dolares,Nicaragua,Jamaica
+93,51,1942,0,1,Dolares,Nicaragua,Jamaica
+93,51,1943,0,1,Dolares,Nicaragua,Jamaica
+93,51,1944,0,1,Dolares,Nicaragua,Jamaica
+93,51,1945,0,1,Dolares,Nicaragua,Jamaica
+93,51,1946,0,1,Dolares,Nicaragua,Jamaica
+93,51,1947,0,1,Dolares,Nicaragua,Jamaica
+93,51,1948,1009,1,Dolares,Nicaragua,Jamaica
+93,51,1949,514,1,Dolares,Nicaragua,Jamaica
+93,70,1913,0,1,Cordobas,Nicaragua,Mexico
+93,70,1914,0,1,Cordobas,Nicaragua,Mexico
+93,70,1915,0,1,Cordobas,Nicaragua,Mexico
+93,70,1916,0,1,Cordobas,Nicaragua,Mexico
+93,70,1917,0,1,Cordobas,Nicaragua,Mexico
+93,70,1918,0,1,Cordobas,Nicaragua,Mexico
+93,70,1919,30471,1,Cordobas,Nicaragua,Mexico
+93,70,1920,51972,1,Cordobas,Nicaragua,Mexico
+93,70,1921,15318,1,Cordobas,Nicaragua,Mexico
+93,70,1922,11159,1,Cordobas,Nicaragua,Mexico
+93,70,1923,24423,1,Cordobas,Nicaragua,Mexico
+93,70,1924,39090,1,Cordobas,Nicaragua,Mexico
+93,70,1925,35405,1,Cordobas,Nicaragua,Mexico
+93,70,1926,35143,1,Cordobas,Nicaragua,Mexico
+93,70,1927,12907,1,Cordobas,Nicaragua,Mexico
+93,70,1928,1427,1,Cordobas,Nicaragua,Mexico
+93,70,1929,2953,1,Cordobas,Nicaragua,Mexico
+93,70,1930,3595,1,Cordobas,Nicaragua,Mexico
+93,70,1931,2617,1,Cordobas,Nicaragua,Mexico
+93,70,1932,3781,1,Cordobas,Nicaragua,Mexico
+93,70,1933,10055,1,Cordobas,Nicaragua,Mexico
+93,70,1934,24686,1,Cordobas,Nicaragua,Mexico
+93,70,1935,44546,1,Cordobas,Nicaragua,Mexico
+93,70,1936,39263,1,Cordobas,Nicaragua,Mexico
+93,70,1937,19112,1,Dolares,Nicaragua,Mexico
+93,70,1938,51412,1,Dolares,Nicaragua,Mexico
+93,70,1939,88388,1,Dolares,Nicaragua,Mexico
+93,70,1940,40320,1,Dolares,Nicaragua,Mexico
+93,70,1941,79892,1,Dolares,Nicaragua,Mexico
+93,70,1942,585290,1,Dolares,Nicaragua,Mexico
+93,70,1943,2789673,1,Dolares,Nicaragua,Mexico
+93,70,1944,743715,1,Dolares,Nicaragua,Mexico
+93,70,1945,1175926,1,Dolares,Nicaragua,Mexico
+93,70,1946,1527179,1,Dolares,Nicaragua,Mexico
+93,70,1947,833702,1,Dolares,Nicaragua,Mexico
+93,70,1948,948566,1,Dolares,Nicaragua,Mexico
+93,70,1949,331181,1,Dolares,Nicaragua,Mexico
+93,80,1913,0,1,Cordobas,Nicaragua,Belize
+93,80,1914,0,1,Cordobas,Nicaragua,Belize
+93,80,1915,0,1,Cordobas,Nicaragua,Belize
+93,80,1916,952,1,Cordobas,Nicaragua,Belize
+93,80,1917,375,1,Cordobas,Nicaragua,Belize
+93,80,1918,0,1,Cordobas,Nicaragua,Belize
+93,80,1919,0,1,Cordobas,Nicaragua,Belize
+93,80,1920,0,1,Cordobas,Nicaragua,Belize
+93,80,1921,1170,1,Cordobas,Nicaragua,Belize
+93,80,1922,40,1,Cordobas,Nicaragua,Belize
+93,80,1923,0,1,Cordobas,Nicaragua,Belize
+93,80,1924,0,1,Cordobas,Nicaragua,Belize
+93,80,1925,154,1,Cordobas,Nicaragua,Belize
+93,80,1926,870,1,Cordobas,Nicaragua,Belize
+93,80,1927,140,1,Cordobas,Nicaragua,Belize
+93,80,1928,0,1,Cordobas,Nicaragua,Belize
+93,80,1929,0,1,Cordobas,Nicaragua,Belize
+93,80,1930,0,1,Cordobas,Nicaragua,Belize
+93,80,1931,0,1,Cordobas,Nicaragua,Belize
+93,80,1932,0,1,Cordobas,Nicaragua,Belize
+93,80,1933,20,1,Cordobas,Nicaragua,Belize
+93,80,1934,75,1,Cordobas,Nicaragua,Belize
+93,80,1935,677,1,Cordobas,Nicaragua,Belize
+93,80,1936,0,1,Cordobas,Nicaragua,Belize
+93,80,1937,0,1,Dolares,Nicaragua,Belize
+93,80,1938,120,1,Dolares,Nicaragua,Belize
+93,80,1939,236,1,Dolares,Nicaragua,Belize
+93,80,1940,941,1,Dolares,Nicaragua,Belize
+93,80,1941,950,1,Dolares,Nicaragua,Belize
+93,80,1942,8474,1,Dolares,Nicaragua,Belize
+93,80,1943,5539,1,Dolares,Nicaragua,Belize
+93,80,1944,7920,1,Dolares,Nicaragua,Belize
+93,80,1945,3246,1,Dolares,Nicaragua,Belize
+93,80,1946,434,1,Dolares,Nicaragua,Belize
+93,80,1947,4591,1,Dolares,Nicaragua,Belize
+93,80,1948,2218,1,Dolares,Nicaragua,Belize
+93,80,1949,811135,1,Dolares,Nicaragua,Belize
+93,90,1913,798,1,Cordobas,Nicaragua,Guatemala
+93,90,1914,1553,1,Cordobas,Nicaragua,Guatemala
+93,90,1915,914,1,Cordobas,Nicaragua,Guatemala
+93,90,1916,1381,1,Cordobas,Nicaragua,Guatemala
+93,90,1917,3322,1,Cordobas,Nicaragua,Guatemala
+93,90,1918,9661,1,Cordobas,Nicaragua,Guatemala
+93,90,1919,5449,1,Cordobas,Nicaragua,Guatemala
+93,90,1920,8106,1,Cordobas,Nicaragua,Guatemala
+93,90,1921,8855,1,Cordobas,Nicaragua,Guatemala
+93,90,1922,5938,1,Cordobas,Nicaragua,Guatemala
+93,90,1923,6323,1,Cordobas,Nicaragua,Guatemala
+93,90,1924,6103,1,Cordobas,Nicaragua,Guatemala
+93,90,1925,9412,1,Cordobas,Nicaragua,Guatemala
+93,90,1926,5624,1,Cordobas,Nicaragua,Guatemala
+93,90,1927,8943,1,Cordobas,Nicaragua,Guatemala
+93,90,1928,11220,1,Cordobas,Nicaragua,Guatemala
+93,90,1929,16220,1,Cordobas,Nicaragua,Guatemala
+93,90,1930,24911,1,Cordobas,Nicaragua,Guatemala
+93,90,1931,25529,1,Cordobas,Nicaragua,Guatemala
+93,90,1932,7201,1,Cordobas,Nicaragua,Guatemala
+93,90,1933,21393,1,Cordobas,Nicaragua,Guatemala
+93,90,1934,9319,1,Cordobas,Nicaragua,Guatemala
+93,90,1935,18587,1,Cordobas,Nicaragua,Guatemala
+93,90,1936,14527,1,Cordobas,Nicaragua,Guatemala
+93,90,1937,9024,1,Dolares,Nicaragua,Guatemala
+93,90,1938,4958,1,Dolares,Nicaragua,Guatemala
+93,90,1939,5049,1,Dolares,Nicaragua,Guatemala
+93,90,1940,21528,1,Dolares,Nicaragua,Guatemala
+93,90,1941,61773,1,Dolares,Nicaragua,Guatemala
+93,90,1942,49553,1,Dolares,Nicaragua,Guatemala
+93,90,1943,99697,1,Dolares,Nicaragua,Guatemala
+93,90,1944,57416,1,Dolares,Nicaragua,Guatemala
+93,90,1945,83441,1,Dolares,Nicaragua,Guatemala
+93,90,1946,60607,1,Dolares,Nicaragua,Guatemala
+93,90,1947,37259,1,Dolares,Nicaragua,Guatemala
+93,90,1948,36857,1,Dolares,Nicaragua,Guatemala
+93,90,1949,20059,1,Dolares,Nicaragua,Guatemala
+93,91,1913,141,1,Cordobas,Nicaragua,Honduras
+93,91,1914,1206,1,Cordobas,Nicaragua,Honduras
+93,91,1915,2106,1,Cordobas,Nicaragua,Honduras
+93,91,1916,8516,1,Cordobas,Nicaragua,Honduras
+93,91,1917,4145,1,Cordobas,Nicaragua,Honduras
+93,91,1918,4787,1,Cordobas,Nicaragua,Honduras
+93,91,1919,26575,1,Cordobas,Nicaragua,Honduras
+93,91,1920,39547,1,Cordobas,Nicaragua,Honduras
+93,91,1921,33646,1,Cordobas,Nicaragua,Honduras
+93,91,1922,15739,1,Cordobas,Nicaragua,Honduras
+93,91,1923,16355,1,Cordobas,Nicaragua,Honduras
+93,91,1924,53678,1,Cordobas,Nicaragua,Honduras
+93,91,1925,68175,1,Cordobas,Nicaragua,Honduras
+93,91,1926,112542,1,Cordobas,Nicaragua,Honduras
+93,91,1927,239995,1,Cordobas,Nicaragua,Honduras
+93,91,1928,218704,1,Cordobas,Nicaragua,Honduras
+93,91,1929,88888,1,Cordobas,Nicaragua,Honduras
+93,91,1930,95596,1,Cordobas,Nicaragua,Honduras
+93,91,1931,147486,1,Cordobas,Nicaragua,Honduras
+93,91,1932,20864,1,Cordobas,Nicaragua,Honduras
+93,91,1933,8866,1,Cordobas,Nicaragua,Honduras
+93,91,1934,21530,1,Cordobas,Nicaragua,Honduras
+93,91,1935,44066,1,Cordobas,Nicaragua,Honduras
+93,91,1936,26168,1,Cordobas,Nicaragua,Honduras
+93,91,1937,23457,1,Dolares,Nicaragua,Honduras
+93,91,1938,11152,1,Dolares,Nicaragua,Honduras
+93,91,1939,12737,1,Dolares,Nicaragua,Honduras
+93,91,1940,36425,1,Dolares,Nicaragua,Honduras
+93,91,1941,11954,1,Dolares,Nicaragua,Honduras
+93,91,1942,53433,1,Dolares,Nicaragua,Honduras
+93,91,1943,147943,1,Dolares,Nicaragua,Honduras
+93,91,1944,109291,1,Dolares,Nicaragua,Honduras
+93,91,1945,120188,1,Dolares,Nicaragua,Honduras
+93,91,1946,51302,1,Dolares,Nicaragua,Honduras
+93,91,1947,109849,1,Dolares,Nicaragua,Honduras
+93,91,1948,164745,1,Dolares,Nicaragua,Honduras
+93,91,1949,57650,1,Dolares,Nicaragua,Honduras
+93,92,1913,13203,1,Cordobas,Nicaragua,El Salvador
+93,92,1914,3779,1,Cordobas,Nicaragua,El Salvador
+93,92,1915,3059,1,Cordobas,Nicaragua,El Salvador
+93,92,1916,9288,1,Cordobas,Nicaragua,El Salvador
+93,92,1917,29985,1,Cordobas,Nicaragua,El Salvador
+93,92,1918,35704,1,Cordobas,Nicaragua,El Salvador
+93,92,1919,32992,1,Cordobas,Nicaragua,El Salvador
+93,92,1920,66903,1,Cordobas,Nicaragua,El Salvador
+93,92,1921,29341,1,Cordobas,Nicaragua,El Salvador
+93,92,1922,10801,1,Cordobas,Nicaragua,El Salvador
+93,92,1923,15529,1,Cordobas,Nicaragua,El Salvador
+93,92,1924,56639,1,Cordobas,Nicaragua,El Salvador
+93,92,1925,19134,1,Cordobas,Nicaragua,El Salvador
+93,92,1926,21471,1,Cordobas,Nicaragua,El Salvador
+93,92,1927,8928,1,Cordobas,Nicaragua,El Salvador
+93,92,1928,8234,1,Cordobas,Nicaragua,El Salvador
+93,92,1929,14054,1,Cordobas,Nicaragua,El Salvador
+93,92,1930,9471,1,Cordobas,Nicaragua,El Salvador
+93,92,1931,6186,1,Cordobas,Nicaragua,El Salvador
+93,92,1932,9148,1,Cordobas,Nicaragua,El Salvador
+93,92,1933,5862,1,Cordobas,Nicaragua,El Salvador
+93,92,1934,11694,1,Cordobas,Nicaragua,El Salvador
+93,92,1935,12348,1,Cordobas,Nicaragua,El Salvador
+93,92,1936,13378,1,Cordobas,Nicaragua,El Salvador
+93,92,1937,26004,1,Dolares,Nicaragua,El Salvador
+93,92,1938,16314,1,Dolares,Nicaragua,El Salvador
+93,92,1939,26120,1,Dolares,Nicaragua,El Salvador
+93,92,1940,26793,1,Dolares,Nicaragua,El Salvador
+93,92,1941,48950,1,Dolares,Nicaragua,El Salvador
+93,92,1942,77329,1,Dolares,Nicaragua,El Salvador
+93,92,1943,194302,1,Dolares,Nicaragua,El Salvador
+93,92,1944,94661,1,Dolares,Nicaragua,El Salvador
+93,92,1945,105864,1,Dolares,Nicaragua,El Salvador
+93,92,1946,158692,1,Dolares,Nicaragua,El Salvador
+93,92,1947,184431,1,Dolares,Nicaragua,El Salvador
+93,92,1948,168875,1,Dolares,Nicaragua,El Salvador
+93,92,1949,298486,1,Dolares,Nicaragua,El Salvador
+93,94,1913,3234,1,Cordobas,Nicaragua,Costa Rica
+93,94,1914,3299,1,Cordobas,Nicaragua,Costa Rica
+93,94,1915,4030,1,Cordobas,Nicaragua,Costa Rica
+93,94,1916,4196,1,Cordobas,Nicaragua,Costa Rica
+93,94,1917,10628,1,Cordobas,Nicaragua,Costa Rica
+93,94,1918,65472,1,Cordobas,Nicaragua,Costa Rica
+93,94,1919,29905,1,Cordobas,Nicaragua,Costa Rica
+93,94,1920,56671,1,Cordobas,Nicaragua,Costa Rica
+93,94,1921,25170,1,Cordobas,Nicaragua,Costa Rica
+93,94,1922,18791,1,Cordobas,Nicaragua,Costa Rica
+93,94,1923,30102,1,Cordobas,Nicaragua,Costa Rica
+93,94,1924,17527,1,Cordobas,Nicaragua,Costa Rica
+93,94,1925,29588,1,Cordobas,Nicaragua,Costa Rica
+93,94,1926,18360,1,Cordobas,Nicaragua,Costa Rica
+93,94,1927,26351,1,Cordobas,Nicaragua,Costa Rica
+93,94,1928,21030,1,Cordobas,Nicaragua,Costa Rica
+93,94,1929,13723,1,Cordobas,Nicaragua,Costa Rica
+93,94,1930,10237,1,Cordobas,Nicaragua,Costa Rica
+93,94,1931,15422,1,Cordobas,Nicaragua,Costa Rica
+93,94,1932,5267,1,Cordobas,Nicaragua,Costa Rica
+93,94,1933,4417,1,Cordobas,Nicaragua,Costa Rica
+93,94,1934,9738,1,Cordobas,Nicaragua,Costa Rica
+93,94,1935,29962,1,Cordobas,Nicaragua,Costa Rica
+93,94,1936,23095,1,Cordobas,Nicaragua,Costa Rica
+93,94,1937,26606,1,Dolares,Nicaragua,Costa Rica
+93,94,1938,12610,1,Dolares,Nicaragua,Costa Rica
+93,94,1939,18532,1,Dolares,Nicaragua,Costa Rica
+93,94,1940,60248,1,Dolares,Nicaragua,Costa Rica
+93,94,1941,67522,1,Dolares,Nicaragua,Costa Rica
+93,94,1942,118815,1,Dolares,Nicaragua,Costa Rica
+93,94,1943,335839,1,Dolares,Nicaragua,Costa Rica
+93,94,1944,317806,1,Dolares,Nicaragua,Costa Rica
+93,94,1945,302344,1,Dolares,Nicaragua,Costa Rica
+93,94,1946,335355,1,Dolares,Nicaragua,Costa Rica
+93,94,1947,251748,1,Dolares,Nicaragua,Costa Rica
+93,94,1948,107726,1,Dolares,Nicaragua,Costa Rica
+93,94,1949,170302,1,Dolares,Nicaragua,Costa Rica
+93,95,1913,0,1,Cordobas,Nicaragua,Panama
+93,95,1914,0,1,Cordobas,Nicaragua,Panama
+93,95,1915,0,1,Cordobas,Nicaragua,Panama
+93,95,1916,0,1,Cordobas,Nicaragua,Panama
+93,95,1917,0,1,Cordobas,Nicaragua,Panama
+93,95,1918,138559,1,Cordobas,Nicaragua,Panama
+93,95,1919,147613,1,Cordobas,Nicaragua,Panama
+93,95,1920,89567,1,Cordobas,Nicaragua,Panama
+93,95,1921,31238,1,Cordobas,Nicaragua,Panama
+93,95,1922,24114,1,Cordobas,Nicaragua,Panama
+93,95,1923,48649,1,Cordobas,Nicaragua,Panama
+93,95,1924,67895,1,Cordobas,Nicaragua,Panama
+93,95,1925,107225,1,Cordobas,Nicaragua,Panama
+93,95,1926,115251,1,Cordobas,Nicaragua,Panama
+93,95,1927,130950,1,Cordobas,Nicaragua,Panama
+93,95,1928,145620,1,Cordobas,Nicaragua,Panama
+93,95,1929,232936,1,Cordobas,Nicaragua,Panama
+93,95,1930,135592,1,Cordobas,Nicaragua,Panama
+93,95,1931,72927,1,Cordobas,Nicaragua,Panama
+93,95,1932,46469,1,Cordobas,Nicaragua,Panama
+93,95,1933,45659,1,Cordobas,Nicaragua,Panama
+93,95,1934,82950,1,Cordobas,Nicaragua,Panama
+93,95,1935,101769,1,Cordobas,Nicaragua,Panama
+93,95,1936,83024,1,Cordobas,Nicaragua,Panama
+93,95,1937,110375,1,Dolares,Nicaragua,Panama
+93,95,1938,96260,1,Dolares,Nicaragua,Panama
+93,95,1939,59368,1,Dolares,Nicaragua,Panama
+93,95,1940,61632,1,Dolares,Nicaragua,Panama
+93,95,1941,75690,1,Dolares,Nicaragua,Panama
+93,95,1942,63547,1,Dolares,Nicaragua,Panama
+93,95,1943,387090,1,Dolares,Nicaragua,Panama
+93,95,1944,346149,1,Dolares,Nicaragua,Panama
+93,95,1945,484091,1,Dolares,Nicaragua,Panama
+93,95,1946,487018,1,Dolares,Nicaragua,Panama
+93,95,1947,228282,1,Dolares,Nicaragua,Panama
+93,95,1948,233594,1,Dolares,Nicaragua,Panama
+93,95,1949,240452,1,Dolares,Nicaragua,Panama
+93,100,1913,0,1,Cordobas,Nicaragua,Colombia
+93,100,1914,0,1,Cordobas,Nicaragua,Colombia
+93,100,1915,0,1,Cordobas,Nicaragua,Colombia
+93,100,1916,0,1,Cordobas,Nicaragua,Colombia
+93,100,1917,0,1,Cordobas,Nicaragua,Colombia
+93,100,1918,0,1,Cordobas,Nicaragua,Colombia
+93,100,1919,0,1,Cordobas,Nicaragua,Colombia
+93,100,1920,0,1,Cordobas,Nicaragua,Colombia
+93,100,1921,0,1,Cordobas,Nicaragua,Colombia
+93,100,1922,0,1,Cordobas,Nicaragua,Colombia
+93,100,1923,0,1,Cordobas,Nicaragua,Colombia
+93,100,1924,0,1,Cordobas,Nicaragua,Colombia
+93,100,1925,0,1,Cordobas,Nicaragua,Colombia
+93,100,1926,0,1,Cordobas,Nicaragua,Colombia
+93,100,1927,0,1,Cordobas,Nicaragua,Colombia
+93,100,1928,0,1,Cordobas,Nicaragua,Colombia
+93,100,1929,0,1,Cordobas,Nicaragua,Colombia
+93,100,1930,0,1,Cordobas,Nicaragua,Colombia
+93,100,1931,0,1,Cordobas,Nicaragua,Colombia
+93,100,1932,0,1,Cordobas,Nicaragua,Colombia
+93,100,1933,0,1,Cordobas,Nicaragua,Colombia
+93,100,1934,0,1,Cordobas,Nicaragua,Colombia
+93,100,1935,0,1,Cordobas,Nicaragua,Colombia
+93,100,1936,0,1,Cordobas,Nicaragua,Colombia
+93,100,1937,0,1,Dolares,Nicaragua,Colombia
+93,100,1938,0,1,Dolares,Nicaragua,Colombia
+93,100,1939,0,1,Dolares,Nicaragua,Colombia
+93,100,1940,0,1,Dolares,Nicaragua,Colombia
+93,100,1941,0,1,Dolares,Nicaragua,Colombia
+93,100,1942,0,1,Dolares,Nicaragua,Colombia
+93,100,1943,0,1,Dolares,Nicaragua,Colombia
+93,100,1944,0,1,Dolares,Nicaragua,Colombia
+93,100,1945,57155,1,Dolares,Nicaragua,Colombia
+93,100,1946,80776,1,Dolares,Nicaragua,Colombia
+93,100,1947,32782,1,Dolares,Nicaragua,Colombia
+93,100,1948,15587,1,Dolares,Nicaragua,Colombia
+93,100,1949,3626,1,Dolares,Nicaragua,Colombia
+93,101,1913,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1914,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1915,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1916,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1917,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1918,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1919,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1920,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1921,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1922,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1923,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1924,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1925,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1926,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1927,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1928,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1929,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1930,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1931,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1932,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1933,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1934,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1935,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1936,0,1,Cordobas,Nicaragua,Venezuela
+93,101,1937,0,1,Dolares,Nicaragua,Venezuela
+93,101,1938,0,1,Dolares,Nicaragua,Venezuela
+93,101,1939,0,1,Dolares,Nicaragua,Venezuela
+93,101,1940,0,1,Dolares,Nicaragua,Venezuela
+93,101,1941,0,1,Dolares,Nicaragua,Venezuela
+93,101,1942,0,1,Dolares,Nicaragua,Venezuela
+93,101,1943,0,1,Dolares,Nicaragua,Venezuela
+93,101,1944,0,1,Dolares,Nicaragua,Venezuela
+93,101,1945,78,1,Dolares,Nicaragua,Venezuela
+93,101,1946,442,1,Dolares,Nicaragua,Venezuela
+93,101,1947,578,1,Dolares,Nicaragua,Venezuela
+93,101,1948,78,1,Dolares,Nicaragua,Venezuela
+93,101,1949,1270,1,Dolares,Nicaragua,Venezuela
+93,130,1913,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1914,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1915,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1916,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1917,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1918,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1919,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1920,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1921,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1922,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1923,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1924,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1925,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1926,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1927,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1928,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1929,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1930,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1931,13504,1,Cordobas,Nicaragua,Ecuador
+93,130,1932,654,1,Cordobas,Nicaragua,Ecuador
+93,130,1933,2136,1,Cordobas,Nicaragua,Ecuador
+93,130,1934,447,1,Cordobas,Nicaragua,Ecuador
+93,130,1935,35,1,Cordobas,Nicaragua,Ecuador
+93,130,1936,0,1,Cordobas,Nicaragua,Ecuador
+93,130,1937,0,1,Dolares,Nicaragua,Ecuador
+93,130,1938,0,1,Dolares,Nicaragua,Ecuador
+93,130,1939,0,1,Dolares,Nicaragua,Ecuador
+93,130,1940,0,1,Dolares,Nicaragua,Ecuador
+93,130,1941,0,1,Dolares,Nicaragua,Ecuador
+93,130,1942,0,1,Dolares,Nicaragua,Ecuador
+93,130,1943,0,1,Dolares,Nicaragua,Ecuador
+93,130,1944,0,1,Dolares,Nicaragua,Ecuador
+93,130,1945,2190,1,Dolares,Nicaragua,Ecuador
+93,130,1946,5907,1,Dolares,Nicaragua,Ecuador
+93,130,1947,4932,1,Dolares,Nicaragua,Ecuador
+93,130,1948,1749,1,Dolares,Nicaragua,Ecuador
+93,130,1949,7959,1,Dolares,Nicaragua,Ecuador
+93,135,1913,0,1,Cordobas,Nicaragua,Peru
+93,135,1914,0,1,Cordobas,Nicaragua,Peru
+93,135,1915,0,1,Cordobas,Nicaragua,Peru
+93,135,1916,0,1,Cordobas,Nicaragua,Peru
+93,135,1917,0,1,Cordobas,Nicaragua,Peru
+93,135,1918,0,1,Cordobas,Nicaragua,Peru
+93,135,1919,0,1,Cordobas,Nicaragua,Peru
+93,135,1920,60030,1,Cordobas,Nicaragua,Peru
+93,135,1921,228806,1,Cordobas,Nicaragua,Peru
+93,135,1922,160355,1,Cordobas,Nicaragua,Peru
+93,135,1923,166743,1,Cordobas,Nicaragua,Peru
+93,135,1924,175464,1,Cordobas,Nicaragua,Peru
+93,135,1925,165538,1,Cordobas,Nicaragua,Peru
+93,135,1926,183993,1,Cordobas,Nicaragua,Peru
+93,135,1927,181571,1,Cordobas,Nicaragua,Peru
+93,135,1928,307081,1,Cordobas,Nicaragua,Peru
+93,135,1929,310048,1,Cordobas,Nicaragua,Peru
+93,135,1930,296810,1,Cordobas,Nicaragua,Peru
+93,135,1931,286734,1,Cordobas,Nicaragua,Peru
+93,135,1932,173879,1,Cordobas,Nicaragua,Peru
+93,135,1933,187331,1,Cordobas,Nicaragua,Peru
+93,135,1934,125306,1,Cordobas,Nicaragua,Peru
+93,135,1935,152450,1,Cordobas,Nicaragua,Peru
+93,135,1936,163233,1,Cordobas,Nicaragua,Peru
+93,135,1937,185688,1,Dolares,Nicaragua,Peru
+93,135,1938,132700,1,Dolares,Nicaragua,Peru
+93,135,1939,172584,1,Dolares,Nicaragua,Peru
+93,135,1940,191305,1,Dolares,Nicaragua,Peru
+93,135,1941,330371,1,Dolares,Nicaragua,Peru
+93,135,1942,277291,1,Dolares,Nicaragua,Peru
+93,135,1943,553227,1,Dolares,Nicaragua,Peru
+93,135,1944,56914,1,Dolares,Nicaragua,Peru
+93,135,1945,158040,1,Dolares,Nicaragua,Peru
+93,135,1946,146595,1,Dolares,Nicaragua,Peru
+93,135,1947,408018,1,Dolares,Nicaragua,Peru
+93,135,1948,217017,1,Dolares,Nicaragua,Peru
+93,135,1949,309944,1,Dolares,Nicaragua,Peru
+93,140,1913,0,1,Cordobas,Nicaragua,Brazil
+93,140,1914,0,1,Cordobas,Nicaragua,Brazil
+93,140,1915,0,1,Cordobas,Nicaragua,Brazil
+93,140,1916,0,1,Cordobas,Nicaragua,Brazil
+93,140,1917,0,1,Cordobas,Nicaragua,Brazil
+93,140,1918,0,1,Cordobas,Nicaragua,Brazil
+93,140,1919,0,1,Cordobas,Nicaragua,Brazil
+93,140,1920,0,1,Cordobas,Nicaragua,Brazil
+93,140,1921,0,1,Cordobas,Nicaragua,Brazil
+93,140,1922,0,1,Cordobas,Nicaragua,Brazil
+93,140,1923,0,1,Cordobas,Nicaragua,Brazil
+93,140,1924,0,1,Cordobas,Nicaragua,Brazil
+93,140,1925,0,1,Cordobas,Nicaragua,Brazil
+93,140,1926,0,1,Cordobas,Nicaragua,Brazil
+93,140,1927,0,1,Cordobas,Nicaragua,Brazil
+93,140,1928,0,1,Cordobas,Nicaragua,Brazil
+93,140,1929,0,1,Cordobas,Nicaragua,Brazil
+93,140,1930,0,1,Cordobas,Nicaragua,Brazil
+93,140,1931,0,1,Cordobas,Nicaragua,Brazil
+93,140,1932,2,1,Cordobas,Nicaragua,Brazil
+93,140,1933,178,1,Cordobas,Nicaragua,Brazil
+93,140,1934,617,1,Cordobas,Nicaragua,Brazil
+93,140,1935,1088,1,Cordobas,Nicaragua,Brazil
+93,140,1936,1173,1,Cordobas,Nicaragua,Brazil
+93,140,1937,1115,1,Dolares,Nicaragua,Brazil
+93,140,1938,3,1,Dolares,Nicaragua,Brazil
+93,140,1939,2859,1,Dolares,Nicaragua,Brazil
+93,140,1940,704,1,Dolares,Nicaragua,Brazil
+93,140,1941,5638,1,Dolares,Nicaragua,Brazil
+93,140,1942,74116,1,Dolares,Nicaragua,Brazil
+93,140,1943,141473,1,Dolares,Nicaragua,Brazil
+93,140,1944,145677,1,Dolares,Nicaragua,Brazil
+93,140,1945,30136,1,Dolares,Nicaragua,Brazil
+93,140,1946,47680,1,Dolares,Nicaragua,Brazil
+93,140,1947,16065,1,Dolares,Nicaragua,Brazil
+93,140,1948,45402,1,Dolares,Nicaragua,Brazil
+93,140,1949,12865,1,Dolares,Nicaragua,Brazil
+93,145,1913,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1914,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1915,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1916,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1917,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1918,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1919,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1920,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1921,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1922,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1923,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1924,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1925,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1926,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1927,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1928,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1929,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1930,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1931,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1932,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1933,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1934,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1935,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1936,0,1,Cordobas,Nicaragua,Bolivia
+93,145,1937,0,1,Dolares,Nicaragua,Bolivia
+93,145,1938,0,1,Dolares,Nicaragua,Bolivia
+93,145,1939,0,1,Dolares,Nicaragua,Bolivia
+93,145,1940,0,1,Dolares,Nicaragua,Bolivia
+93,145,1941,0,1,Dolares,Nicaragua,Bolivia
+93,145,1942,0,1,Dolares,Nicaragua,Bolivia
+93,145,1943,0,1,Dolares,Nicaragua,Bolivia
+93,145,1944,0,1,Dolares,Nicaragua,Bolivia
+93,145,1945,0,1,Dolares,Nicaragua,Bolivia
+93,145,1946,0,1,Dolares,Nicaragua,Bolivia
+93,145,1947,6,1,Dolares,Nicaragua,Bolivia
+93,145,1948,0,1,Dolares,Nicaragua,Bolivia
+93,145,1949,0,1,Dolares,Nicaragua,Bolivia
+93,155,1913,0,1,Cordobas,Nicaragua,Chile
+93,155,1914,0,1,Cordobas,Nicaragua,Chile
+93,155,1915,0,1,Cordobas,Nicaragua,Chile
+93,155,1916,0,1,Cordobas,Nicaragua,Chile
+93,155,1917,0,1,Cordobas,Nicaragua,Chile
+93,155,1918,139789,1,Cordobas,Nicaragua,Chile
+93,155,1919,0,1,Cordobas,Nicaragua,Chile
+93,155,1920,0,1,Cordobas,Nicaragua,Chile
+93,155,1921,0,1,Cordobas,Nicaragua,Chile
+93,155,1922,0,1,Cordobas,Nicaragua,Chile
+93,155,1923,95,1,Cordobas,Nicaragua,Chile
+93,155,1924,1,1,Cordobas,Nicaragua,Chile
+93,155,1925,2399,1,Cordobas,Nicaragua,Chile
+93,155,1926,0,1,Cordobas,Nicaragua,Chile
+93,155,1927,0,1,Cordobas,Nicaragua,Chile
+93,155,1928,16,1,Cordobas,Nicaragua,Chile
+93,155,1929,64,1,Cordobas,Nicaragua,Chile
+93,155,1930,92,1,Cordobas,Nicaragua,Chile
+93,155,1931,1565,1,Cordobas,Nicaragua,Chile
+93,155,1932,476,1,Cordobas,Nicaragua,Chile
+93,155,1933,357,1,Cordobas,Nicaragua,Chile
+93,155,1934,1776,1,Cordobas,Nicaragua,Chile
+93,155,1935,715,1,Cordobas,Nicaragua,Chile
+93,155,1936,263,1,Cordobas,Nicaragua,Chile
+93,155,1937,150,1,Dolares,Nicaragua,Chile
+93,155,1938,6892,1,Dolares,Nicaragua,Chile
+93,155,1939,1118,1,Dolares,Nicaragua,Chile
+93,155,1940,3039,1,Dolares,Nicaragua,Chile
+93,155,1941,2604,1,Dolares,Nicaragua,Chile
+93,155,1942,5707,1,Dolares,Nicaragua,Chile
+93,155,1943,1505,1,Dolares,Nicaragua,Chile
+93,155,1944,14710,1,Dolares,Nicaragua,Chile
+93,155,1945,2907,1,Dolares,Nicaragua,Chile
+93,155,1946,13198,1,Dolares,Nicaragua,Chile
+93,155,1947,8990,1,Dolares,Nicaragua,Chile
+93,155,1948,3450,1,Dolares,Nicaragua,Chile
+93,155,1949,3070,1,Dolares,Nicaragua,Chile
+93,160,1913,0,1,Cordobas,Nicaragua,Argentina
+93,160,1914,0,1,Cordobas,Nicaragua,Argentina
+93,160,1915,0,1,Cordobas,Nicaragua,Argentina
+93,160,1916,0,1,Cordobas,Nicaragua,Argentina
+93,160,1917,0,1,Cordobas,Nicaragua,Argentina
+93,160,1918,0,1,Cordobas,Nicaragua,Argentina
+93,160,1919,0,1,Cordobas,Nicaragua,Argentina
+93,160,1920,0,1,Cordobas,Nicaragua,Argentina
+93,160,1921,0,1,Cordobas,Nicaragua,Argentina
+93,160,1922,0,1,Cordobas,Nicaragua,Argentina
+93,160,1923,0,1,Cordobas,Nicaragua,Argentina
+93,160,1924,0,1,Cordobas,Nicaragua,Argentina
+93,160,1925,0,1,Cordobas,Nicaragua,Argentina
+93,160,1926,0,1,Cordobas,Nicaragua,Argentina
+93,160,1927,0,1,Cordobas,Nicaragua,Argentina
+93,160,1928,0,1,Cordobas,Nicaragua,Argentina
+93,160,1929,0,1,Cordobas,Nicaragua,Argentina
+93,160,1930,0,1,Cordobas,Nicaragua,Argentina
+93,160,1931,0,1,Cordobas,Nicaragua,Argentina
+93,160,1932,0,1,Cordobas,Nicaragua,Argentina
+93,160,1933,0,1,Cordobas,Nicaragua,Argentina
+93,160,1934,0,1,Cordobas,Nicaragua,Argentina
+93,160,1935,0,1,Cordobas,Nicaragua,Argentina
+93,160,1936,0,1,Cordobas,Nicaragua,Argentina
+93,160,1937,0,1,Dolares,Nicaragua,Argentina
+93,160,1938,0,1,Dolares,Nicaragua,Argentina
+93,160,1939,0,1,Dolares,Nicaragua,Argentina
+93,160,1940,0,1,Dolares,Nicaragua,Argentina
+93,160,1941,0,1,Dolares,Nicaragua,Argentina
+93,160,1942,0,1,Dolares,Nicaragua,Argentina
+93,160,1943,0,1,Dolares,Nicaragua,Argentina
+93,160,1944,0,1,Dolares,Nicaragua,Argentina
+93,160,1945,70881,1,Dolares,Nicaragua,Argentina
+93,160,1946,30282,1,Dolares,Nicaragua,Argentina
+93,160,1947,40436,1,Dolares,Nicaragua,Argentina
+93,160,1948,18218,1,Dolares,Nicaragua,Argentina
+93,160,1949,3019,1,Dolares,Nicaragua,Argentina
+93,165,1913,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1914,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1915,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1916,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1917,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1918,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1919,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1920,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1921,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1922,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1923,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1924,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1925,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1926,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1927,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1928,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1929,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1930,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1931,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1932,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1933,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1934,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1935,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1936,0,1,Cordobas,Nicaragua,Uruguay
+93,165,1937,0,1,Dolares,Nicaragua,Uruguay
+93,165,1938,0,1,Dolares,Nicaragua,Uruguay
+93,165,1939,0,1,Dolares,Nicaragua,Uruguay
+93,165,1940,0,1,Dolares,Nicaragua,Uruguay
+93,165,1941,0,1,Dolares,Nicaragua,Uruguay
+93,165,1942,0,1,Dolares,Nicaragua,Uruguay
+93,165,1943,0,1,Dolares,Nicaragua,Uruguay
+93,165,1944,0,1,Dolares,Nicaragua,Uruguay
+93,165,1945,32455,1,Dolares,Nicaragua,Uruguay
+93,165,1946,46811,1,Dolares,Nicaragua,Uruguay
+93,165,1947,25232,1,Dolares,Nicaragua,Uruguay
+93,165,1948,12043,1,Dolares,Nicaragua,Uruguay
+93,165,1949,80,1,Dolares,Nicaragua,Uruguay
+93,200,1913,1150611,1,Cordobas,Nicaragua,United Kingdom
+93,200,1914,718264,1,Cordobas,Nicaragua,United Kingdom
+93,200,1915,302294,1,Cordobas,Nicaragua,United Kingdom
+93,200,1916,610521,1,Cordobas,Nicaragua,United Kingdom
+93,200,1917,818614,1,Cordobas,Nicaragua,United Kingdom
+93,200,1918,596809,1,Cordobas,Nicaragua,United Kingdom
+93,200,1919,689721,1,Cordobas,Nicaragua,United Kingdom
+93,200,1920,1634624,1,Cordobas,Nicaragua,United Kingdom
+93,200,1921,654426,1,Cordobas,Nicaragua,United Kingdom
+93,200,1922,485498,1,Cordobas,Nicaragua,United Kingdom
+93,200,1923,873173,1,Cordobas,Nicaragua,United Kingdom
+93,200,1924,1042858,1,Cordobas,Nicaragua,United Kingdom
+93,200,1925,1230378,1,Cordobas,Nicaragua,United Kingdom
+93,200,1926,1127637,1,Cordobas,Nicaragua,United Kingdom
+93,200,1927,1169632,1,Cordobas,Nicaragua,United Kingdom
+93,200,1928,1493887,1,Cordobas,Nicaragua,United Kingdom
+93,200,1929,1275806,1,Cordobas,Nicaragua,United Kingdom
+93,200,1930,798599,1,Cordobas,Nicaragua,United Kingdom
+93,200,1931,544283,1,Cordobas,Nicaragua,United Kingdom
+93,200,1932,357277,1,Cordobas,Nicaragua,United Kingdom
+93,200,1933,492861,1,Cordobas,Nicaragua,United Kingdom
+93,200,1934,549064,1,Cordobas,Nicaragua,United Kingdom
+93,200,1935,593166,1,Cordobas,Nicaragua,United Kingdom
+93,200,1936,696805,1,Cordobas,Nicaragua,United Kingdom
+93,200,1937,476873,1,Dolares,Nicaragua,United Kingdom
+93,200,1938,422467,1,Dolares,Nicaragua,United Kingdom
+93,200,1939,333067,1,Dolares,Nicaragua,United Kingdom
+93,200,1940,209816,1,Dolares,Nicaragua,United Kingdom
+93,200,1941,153463,1,Dolares,Nicaragua,United Kingdom
+93,200,1942,142532,1,Dolares,Nicaragua,United Kingdom
+93,200,1943,272491,1,Dolares,Nicaragua,United Kingdom
+93,200,1944,178615,1,Dolares,Nicaragua,United Kingdom
+93,200,1945,136608,1,Dolares,Nicaragua,United Kingdom
+93,200,1946,199625,1,Dolares,Nicaragua,United Kingdom
+93,200,1947,369503,1,Dolares,Nicaragua,United Kingdom
+93,200,1948,448096,1,Dolares,Nicaragua,United Kingdom
+93,200,1949,350574,1,Dolares,Nicaragua,United Kingdom
+93,210,1913,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1914,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1915,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1916,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1917,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1918,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1919,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1920,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1921,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1922,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1923,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1924,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1925,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1926,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1927,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1928,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1929,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1930,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1931,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1932,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1933,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1934,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1935,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1936,0,1,Cordobas,Nicaragua,Netherlands
+93,210,1937,0,1,Dolares,Nicaragua,Netherlands
+93,210,1938,0,1,Dolares,Nicaragua,Netherlands
+93,210,1939,0,1,Dolares,Nicaragua,Netherlands
+93,210,1940,0,1,Dolares,Nicaragua,Netherlands
+93,210,1941,0,1,Dolares,Nicaragua,Netherlands
+93,210,1942,0,1,Dolares,Nicaragua,Netherlands
+93,210,1943,0,1,Dolares,Nicaragua,Netherlands
+93,210,1944,0,1,Dolares,Nicaragua,Netherlands
+93,210,1945,0,1,Dolares,Nicaragua,Netherlands
+93,210,1946,2314,1,Dolares,Nicaragua,Netherlands
+93,210,1947,36758,1,Dolares,Nicaragua,Netherlands
+93,210,1948,89234,1,Dolares,Nicaragua,Netherlands
+93,210,1949,90097,1,Dolares,Nicaragua,Netherlands
+93,211,1913,0,1,Cordobas,Nicaragua,Belgium
+93,211,1914,0,1,Cordobas,Nicaragua,Belgium
+93,211,1915,0,1,Cordobas,Nicaragua,Belgium
+93,211,1916,0,1,Cordobas,Nicaragua,Belgium
+93,211,1917,0,1,Cordobas,Nicaragua,Belgium
+93,211,1918,0,1,Cordobas,Nicaragua,Belgium
+93,211,1919,0,1,Cordobas,Nicaragua,Belgium
+93,211,1920,0,1,Cordobas,Nicaragua,Belgium
+93,211,1921,0,1,Cordobas,Nicaragua,Belgium
+93,211,1922,0,1,Cordobas,Nicaragua,Belgium
+93,211,1923,0,1,Cordobas,Nicaragua,Belgium
+93,211,1924,0,1,Cordobas,Nicaragua,Belgium
+93,211,1925,0,1,Cordobas,Nicaragua,Belgium
+93,211,1926,0,1,Cordobas,Nicaragua,Belgium
+93,211,1927,0,1,Cordobas,Nicaragua,Belgium
+93,211,1928,0,1,Cordobas,Nicaragua,Belgium
+93,211,1929,0,1,Cordobas,Nicaragua,Belgium
+93,211,1930,0,1,Cordobas,Nicaragua,Belgium
+93,211,1931,0,1,Cordobas,Nicaragua,Belgium
+93,211,1932,0,1,Cordobas,Nicaragua,Belgium
+93,211,1933,33555,1,Cordobas,Nicaragua,Belgium
+93,211,1934,67643,1,Cordobas,Nicaragua,Belgium
+93,211,1935,23806,1,Cordobas,Nicaragua,Belgium
+93,211,1936,60122,1,Cordobas,Nicaragua,Belgium
+93,211,1937,76306,1,Dolares,Nicaragua,Belgium
+93,211,1938,63540,1,Dolares,Nicaragua,Belgium
+93,211,1939,84642,1,Dolares,Nicaragua,Belgium
+93,211,1940,26471,1,Dolares,Nicaragua,Belgium
+93,211,1941,0,1,Dolares,Nicaragua,Belgium
+93,211,1942,0,1,Dolares,Nicaragua,Belgium
+93,211,1943,0,1,Dolares,Nicaragua,Belgium
+93,211,1944,0,1,Dolares,Nicaragua,Belgium
+93,211,1945,0,1,Dolares,Nicaragua,Belgium
+93,211,1946,3885,1,Dolares,Nicaragua,Belgium
+93,211,1947,48688,1,Dolares,Nicaragua,Belgium
+93,211,1948,116276,1,Dolares,Nicaragua,Belgium
+93,211,1949,245177,1,Dolares,Nicaragua,Belgium
+93,220,1913,400776,1,Cordobas,Nicaragua,France
+93,220,1914,254108,1,Cordobas,Nicaragua,France
+93,220,1915,138218,1,Cordobas,Nicaragua,France
+93,220,1916,202205,1,Cordobas,Nicaragua,France
+93,220,1917,249359,1,Cordobas,Nicaragua,France
+93,220,1918,154324,1,Cordobas,Nicaragua,France
+93,220,1919,146330,1,Cordobas,Nicaragua,France
+93,220,1920,220958,1,Cordobas,Nicaragua,France
+93,220,1921,199816,1,Cordobas,Nicaragua,France
+93,220,1922,77887,1,Cordobas,Nicaragua,France
+93,220,1923,98648,1,Cordobas,Nicaragua,France
+93,220,1924,199299,1,Cordobas,Nicaragua,France
+93,220,1925,283436,1,Cordobas,Nicaragua,France
+93,220,1926,253738,1,Cordobas,Nicaragua,France
+93,220,1927,317577,1,Cordobas,Nicaragua,France
+93,220,1928,434881,1,Cordobas,Nicaragua,France
+93,220,1929,345881,1,Cordobas,Nicaragua,France
+93,220,1930,247792,1,Cordobas,Nicaragua,France
+93,220,1931,172856,1,Cordobas,Nicaragua,France
+93,220,1932,118390,1,Cordobas,Nicaragua,France
+93,220,1933,115047,1,Cordobas,Nicaragua,France
+93,220,1934,120095,1,Cordobas,Nicaragua,France
+93,220,1935,126990,1,Cordobas,Nicaragua,France
+93,220,1936,185996,1,Cordobas,Nicaragua,France
+93,220,1937,126854,1,Dolares,Nicaragua,France
+93,220,1938,106894,1,Dolares,Nicaragua,France
+93,220,1939,165202,1,Dolares,Nicaragua,France
+93,220,1940,101968,1,Dolares,Nicaragua,France
+93,220,1941,7719,1,Dolares,Nicaragua,France
+93,220,1942,0,1,Dolares,Nicaragua,France
+93,220,1943,0,1,Dolares,Nicaragua,France
+93,220,1944,0,1,Dolares,Nicaragua,France
+93,220,1945,0,1,Dolares,Nicaragua,France
+93,220,1946,31697,1,Dolares,Nicaragua,France
+93,220,1947,55237,1,Dolares,Nicaragua,France
+93,220,1948,71587,1,Dolares,Nicaragua,France
+93,220,1949,94374,1,Dolares,Nicaragua,France
+93,225,1913,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1914,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1915,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1916,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1917,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1918,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1919,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1920,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1921,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1922,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1923,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1924,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1925,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1926,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1927,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1928,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1929,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1930,0,1,Cordobas,Nicaragua,Switzerland
+93,225,1931,68719,1,Cordobas,Nicaragua,Switzerland
+93,225,1932,19209,1,Cordobas,Nicaragua,Switzerland
+93,225,1933,13480,1,Cordobas,Nicaragua,Switzerland
+93,225,1934,16950,1,Cordobas,Nicaragua,Switzerland
+93,225,1935,24094,1,Cordobas,Nicaragua,Switzerland
+93,225,1936,13284,1,Cordobas,Nicaragua,Switzerland
+93,225,1937,24205,1,Dolares,Nicaragua,Switzerland
+93,225,1938,14297,1,Dolares,Nicaragua,Switzerland
+93,225,1939,12949,1,Dolares,Nicaragua,Switzerland
+93,225,1940,10645,1,Dolares,Nicaragua,Switzerland
+93,225,1941,5235,1,Dolares,Nicaragua,Switzerland
+93,225,1942,11582,1,Dolares,Nicaragua,Switzerland
+93,225,1943,6346,1,Dolares,Nicaragua,Switzerland
+93,225,1944,11109,1,Dolares,Nicaragua,Switzerland
+93,225,1945,5939,1,Dolares,Nicaragua,Switzerland
+93,225,1946,16498,1,Dolares,Nicaragua,Switzerland
+93,225,1947,62585,1,Dolares,Nicaragua,Switzerland
+93,225,1948,55696,1,Dolares,Nicaragua,Switzerland
+93,225,1949,57268,1,Dolares,Nicaragua,Switzerland
+93,230,1913,55883,1,Cordobas,Nicaragua,Spain
+93,230,1914,53969,1,Cordobas,Nicaragua,Spain
+93,230,1915,20247,1,Cordobas,Nicaragua,Spain
+93,230,1916,29399,1,Cordobas,Nicaragua,Spain
+93,230,1917,32407,1,Cordobas,Nicaragua,Spain
+93,230,1918,7989,1,Cordobas,Nicaragua,Spain
+93,230,1919,33190,1,Cordobas,Nicaragua,Spain
+93,230,1920,120087,1,Cordobas,Nicaragua,Spain
+93,230,1921,34015,1,Cordobas,Nicaragua,Spain
+93,230,1922,17181,1,Cordobas,Nicaragua,Spain
+93,230,1923,21361,1,Cordobas,Nicaragua,Spain
+93,230,1924,32079,1,Cordobas,Nicaragua,Spain
+93,230,1925,69290,1,Cordobas,Nicaragua,Spain
+93,230,1926,57188,1,Cordobas,Nicaragua,Spain
+93,230,1927,34169,1,Cordobas,Nicaragua,Spain
+93,230,1928,70515,1,Cordobas,Nicaragua,Spain
+93,230,1929,38207,1,Cordobas,Nicaragua,Spain
+93,230,1930,74069,1,Cordobas,Nicaragua,Spain
+93,230,1931,41971,1,Cordobas,Nicaragua,Spain
+93,230,1932,17336,1,Cordobas,Nicaragua,Spain
+93,230,1933,20416,1,Cordobas,Nicaragua,Spain
+93,230,1934,30601,1,Cordobas,Nicaragua,Spain
+93,230,1935,26001,1,Cordobas,Nicaragua,Spain
+93,230,1936,26430,1,Cordobas,Nicaragua,Spain
+93,230,1937,1227,1,Dolares,Nicaragua,Spain
+93,230,1938,1167,1,Dolares,Nicaragua,Spain
+93,230,1939,549,1,Dolares,Nicaragua,Spain
+93,230,1940,3485,1,Dolares,Nicaragua,Spain
+93,230,1941,203,1,Dolares,Nicaragua,Spain
+93,230,1942,1456,1,Dolares,Nicaragua,Spain
+93,230,1943,1372,1,Dolares,Nicaragua,Spain
+93,230,1944,151,1,Dolares,Nicaragua,Spain
+93,230,1945,0,1,Dolares,Nicaragua,Spain
+93,230,1946,1761,1,Dolares,Nicaragua,Spain
+93,230,1947,15138,1,Dolares,Nicaragua,Spain
+93,230,1948,17428,1,Dolares,Nicaragua,Spain
+93,230,1949,48568,1,Dolares,Nicaragua,Spain
+93,235,1913,0,1,Cordobas,Nicaragua,Portugal
+93,235,1914,0,1,Cordobas,Nicaragua,Portugal
+93,235,1915,0,1,Cordobas,Nicaragua,Portugal
+93,235,1916,0,1,Cordobas,Nicaragua,Portugal
+93,235,1917,0,1,Cordobas,Nicaragua,Portugal
+93,235,1918,0,1,Cordobas,Nicaragua,Portugal
+93,235,1919,0,1,Cordobas,Nicaragua,Portugal
+93,235,1920,0,1,Cordobas,Nicaragua,Portugal
+93,235,1921,0,1,Cordobas,Nicaragua,Portugal
+93,235,1922,0,1,Cordobas,Nicaragua,Portugal
+93,235,1923,0,1,Cordobas,Nicaragua,Portugal
+93,235,1924,0,1,Cordobas,Nicaragua,Portugal
+93,235,1925,0,1,Cordobas,Nicaragua,Portugal
+93,235,1926,0,1,Cordobas,Nicaragua,Portugal
+93,235,1927,0,1,Cordobas,Nicaragua,Portugal
+93,235,1928,0,1,Cordobas,Nicaragua,Portugal
+93,235,1929,0,1,Cordobas,Nicaragua,Portugal
+93,235,1930,0,1,Cordobas,Nicaragua,Portugal
+93,235,1931,0,1,Cordobas,Nicaragua,Portugal
+93,235,1932,0,1,Cordobas,Nicaragua,Portugal
+93,235,1933,0,1,Cordobas,Nicaragua,Portugal
+93,235,1934,0,1,Cordobas,Nicaragua,Portugal
+93,235,1935,0,1,Cordobas,Nicaragua,Portugal
+93,235,1936,0,1,Cordobas,Nicaragua,Portugal
+93,235,1937,0,1,Dolares,Nicaragua,Portugal
+93,235,1938,0,1,Dolares,Nicaragua,Portugal
+93,235,1939,0,1,Dolares,Nicaragua,Portugal
+93,235,1940,0,1,Dolares,Nicaragua,Portugal
+93,235,1941,0,1,Dolares,Nicaragua,Portugal
+93,235,1942,0,1,Dolares,Nicaragua,Portugal
+93,235,1943,0,1,Dolares,Nicaragua,Portugal
+93,235,1944,0,1,Dolares,Nicaragua,Portugal
+93,235,1945,0,1,Dolares,Nicaragua,Portugal
+93,235,1946,2010,1,Dolares,Nicaragua,Portugal
+93,235,1947,22417,1,Dolares,Nicaragua,Portugal
+93,235,1948,4769,1,Dolares,Nicaragua,Portugal
+93,235,1949,1347,1,Dolares,Nicaragua,Portugal
+93,255,1913,619212,1,Cordobas,Nicaragua,Germany
+93,255,1914,391411,1,Cordobas,Nicaragua,Germany
+93,255,1915,36961,1,Cordobas,Nicaragua,Germany
+93,255,1916,321,1,Cordobas,Nicaragua,Germany
+93,255,1917,389,1,Cordobas,Nicaragua,Germany
+93,255,1918,827,1,Cordobas,Nicaragua,Germany
+93,255,1919,24,1,Cordobas,Nicaragua,Germany
+93,255,1920,145014,1,Cordobas,Nicaragua,Germany
+93,255,1921,101047,1,Cordobas,Nicaragua,Germany
+93,255,1922,73966,1,Cordobas,Nicaragua,Germany
+93,255,1923,230519,1,Cordobas,Nicaragua,Germany
+93,255,1924,395506,1,Cordobas,Nicaragua,Germany
+93,255,1925,607118,1,Cordobas,Nicaragua,Germany
+93,255,1926,726880,1,Cordobas,Nicaragua,Germany
+93,255,1927,687812,1,Cordobas,Nicaragua,Germany
+93,255,1928,1178859,1,Cordobas,Nicaragua,Germany
+93,255,1929,1085920,1,Cordobas,Nicaragua,Germany
+93,255,1930,736281,1,Cordobas,Nicaragua,Germany
+93,255,1931,565202,1,Cordobas,Nicaragua,Germany
+93,255,1932,298663,1,Cordobas,Nicaragua,Germany
+93,255,1933,269675,1,Cordobas,Nicaragua,Germany
+93,255,1934,378337,1,Cordobas,Nicaragua,Germany
+93,255,1935,855164,1,Cordobas,Nicaragua,Germany
+93,255,1936,1336568,1,Cordobas,Nicaragua,Germany
+93,255,1937,857055,1,Dolares,Nicaragua,Germany
+93,255,1938,512934,1,Dolares,Nicaragua,Germany
+93,255,1939,776707,1,Dolares,Nicaragua,Germany
+93,255,1940,55662,1,Dolares,Nicaragua,Germany
+93,255,1941,4173,1,Dolares,Nicaragua,Germany
+93,255,1942,7338,1,Dolares,Nicaragua,Germany
+93,255,1943,1862,1,Dolares,Nicaragua,Germany
+93,255,1944,0,1,Dolares,Nicaragua,Germany
+93,255,1945,0,1,Dolares,Nicaragua,Germany
+93,255,1946,0,1,Dolares,Nicaragua,Germany
+93,255,1947,2866,1,Dolares,Nicaragua,Germany
+93,255,1948,159,1,Dolares,Nicaragua,Germany
+93,255,1949,15767,1,Dolares,Nicaragua,Germany
+93,310,1913,0,1,Cordobas,Nicaragua,Hungary
+93,310,1914,0,1,Cordobas,Nicaragua,Hungary
+93,310,1915,0,1,Cordobas,Nicaragua,Hungary
+93,310,1916,0,1,Cordobas,Nicaragua,Hungary
+93,310,1917,0,1,Cordobas,Nicaragua,Hungary
+93,310,1918,0,1,Cordobas,Nicaragua,Hungary
+93,310,1919,0,1,Cordobas,Nicaragua,Hungary
+93,310,1920,0,1,Cordobas,Nicaragua,Hungary
+93,310,1921,0,1,Cordobas,Nicaragua,Hungary
+93,310,1922,0,1,Cordobas,Nicaragua,Hungary
+93,310,1923,0,1,Cordobas,Nicaragua,Hungary
+93,310,1924,0,1,Cordobas,Nicaragua,Hungary
+93,310,1925,0,1,Cordobas,Nicaragua,Hungary
+93,310,1926,0,1,Cordobas,Nicaragua,Hungary
+93,310,1927,0,1,Cordobas,Nicaragua,Hungary
+93,310,1928,0,1,Cordobas,Nicaragua,Hungary
+93,310,1929,0,1,Cordobas,Nicaragua,Hungary
+93,310,1930,0,1,Cordobas,Nicaragua,Hungary
+93,310,1931,0,1,Cordobas,Nicaragua,Hungary
+93,310,1932,0,1,Cordobas,Nicaragua,Hungary
+93,310,1933,0,1,Cordobas,Nicaragua,Hungary
+93,310,1934,0,1,Cordobas,Nicaragua,Hungary
+93,310,1935,0,1,Cordobas,Nicaragua,Hungary
+93,310,1936,0,1,Cordobas,Nicaragua,Hungary
+93,310,1937,0,1,Dolares,Nicaragua,Hungary
+93,310,1938,0,1,Dolares,Nicaragua,Hungary
+93,310,1939,0,1,Dolares,Nicaragua,Hungary
+93,310,1940,0,1,Dolares,Nicaragua,Hungary
+93,310,1941,0,1,Dolares,Nicaragua,Hungary
+93,310,1942,0,1,Dolares,Nicaragua,Hungary
+93,310,1943,0,1,Dolares,Nicaragua,Hungary
+93,310,1944,0,1,Dolares,Nicaragua,Hungary
+93,310,1945,0,1,Dolares,Nicaragua,Hungary
+93,310,1946,0,1,Dolares,Nicaragua,Hungary
+93,310,1947,0,1,Dolares,Nicaragua,Hungary
+93,310,1948,0,1,Dolares,Nicaragua,Hungary
+93,310,1949,5,1,Dolares,Nicaragua,Hungary
+93,315,1913,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1914,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1915,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1916,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1917,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1918,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1919,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1920,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1921,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1922,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1923,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1924,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1925,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1926,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1927,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1928,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1929,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1930,0,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1931,9391,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1932,3991,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1933,8502,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1934,2318,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1935,14857,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1936,33789,1,Cordobas,Nicaragua,Czechoslovakia
+93,315,1937,41798,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1938,83900,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1939,15183,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1940,3258,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1941,0,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1942,0,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1943,0,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1944,0,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1945,0,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1946,165,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1947,6119,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1948,15201,1,Dolares,Nicaragua,Czechoslovakia
+93,315,1949,28121,1,Dolares,Nicaragua,Czechoslovakia
+93,325,1913,144361,1,Cordobas,Nicaragua,Italy
+93,325,1914,115313,1,Cordobas,Nicaragua,Italy
+93,325,1915,43963,1,Cordobas,Nicaragua,Italy
+93,325,1916,34246,1,Cordobas,Nicaragua,Italy
+93,325,1917,40968,1,Cordobas,Nicaragua,Italy
+93,325,1918,16680,1,Cordobas,Nicaragua,Italy
+93,325,1919,38838,1,Cordobas,Nicaragua,Italy
+93,325,1920,47644,1,Cordobas,Nicaragua,Italy
+93,325,1921,27268,1,Cordobas,Nicaragua,Italy
+93,325,1922,21088,1,Cordobas,Nicaragua,Italy
+93,325,1923,75081,1,Cordobas,Nicaragua,Italy
+93,325,1924,110427,1,Cordobas,Nicaragua,Italy
+93,325,1925,191143,1,Cordobas,Nicaragua,Italy
+93,325,1926,164935,1,Cordobas,Nicaragua,Italy
+93,325,1927,150995,1,Cordobas,Nicaragua,Italy
+93,325,1928,251206,1,Cordobas,Nicaragua,Italy
+93,325,1929,239485,1,Cordobas,Nicaragua,Italy
+93,325,1930,174939,1,Cordobas,Nicaragua,Italy
+93,325,1931,98950,1,Cordobas,Nicaragua,Italy
+93,325,1932,58160,1,Cordobas,Nicaragua,Italy
+93,325,1933,46869,1,Cordobas,Nicaragua,Italy
+93,325,1934,25687,1,Cordobas,Nicaragua,Italy
+93,325,1935,34888,1,Cordobas,Nicaragua,Italy
+93,325,1936,41933,1,Cordobas,Nicaragua,Italy
+93,325,1937,39019,1,Dolares,Nicaragua,Italy
+93,325,1938,291690,1,Dolares,Nicaragua,Italy
+93,325,1939,33065,1,Dolares,Nicaragua,Italy
+93,325,1940,29291,1,Dolares,Nicaragua,Italy
+93,325,1941,2157,1,Dolares,Nicaragua,Italy
+93,325,1942,738,1,Dolares,Nicaragua,Italy
+93,325,1943,0,1,Dolares,Nicaragua,Italy
+93,325,1944,0,1,Dolares,Nicaragua,Italy
+93,325,1945,0,1,Dolares,Nicaragua,Italy
+93,325,1946,35,1,Dolares,Nicaragua,Italy
+93,325,1947,22619,1,Dolares,Nicaragua,Italy
+93,325,1948,36940,1,Dolares,Nicaragua,Italy
+93,325,1949,39645,1,Dolares,Nicaragua,Italy
+93,345,1913,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1914,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1915,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1916,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1917,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1918,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1919,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1920,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1921,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1922,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1923,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1924,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1925,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1926,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1927,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1928,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1929,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1930,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1931,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1932,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1933,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1934,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1935,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1936,0,1,Cordobas,Nicaragua,Yugoslavia
+93,345,1937,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1938,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1939,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1940,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1941,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1942,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1943,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1944,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1945,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1946,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1947,0,1,Dolares,Nicaragua,Yugoslavia
+93,345,1948,56,1,Dolares,Nicaragua,Yugoslavia
+93,345,1949,0,1,Dolares,Nicaragua,Yugoslavia
+93,375,1913,0,1,Cordobas,Nicaragua,Finland
+93,375,1914,0,1,Cordobas,Nicaragua,Finland
+93,375,1915,0,1,Cordobas,Nicaragua,Finland
+93,375,1916,0,1,Cordobas,Nicaragua,Finland
+93,375,1917,0,1,Cordobas,Nicaragua,Finland
+93,375,1918,0,1,Cordobas,Nicaragua,Finland
+93,375,1919,0,1,Cordobas,Nicaragua,Finland
+93,375,1920,0,1,Cordobas,Nicaragua,Finland
+93,375,1921,0,1,Cordobas,Nicaragua,Finland
+93,375,1922,0,1,Cordobas,Nicaragua,Finland
+93,375,1923,0,1,Cordobas,Nicaragua,Finland
+93,375,1924,0,1,Cordobas,Nicaragua,Finland
+93,375,1925,0,1,Cordobas,Nicaragua,Finland
+93,375,1926,0,1,Cordobas,Nicaragua,Finland
+93,375,1927,0,1,Cordobas,Nicaragua,Finland
+93,375,1928,0,1,Cordobas,Nicaragua,Finland
+93,375,1929,0,1,Cordobas,Nicaragua,Finland
+93,375,1930,0,1,Cordobas,Nicaragua,Finland
+93,375,1931,0,1,Cordobas,Nicaragua,Finland
+93,375,1932,0,1,Cordobas,Nicaragua,Finland
+93,375,1933,0,1,Cordobas,Nicaragua,Finland
+93,375,1934,0,1,Cordobas,Nicaragua,Finland
+93,375,1935,0,1,Cordobas,Nicaragua,Finland
+93,375,1936,0,1,Cordobas,Nicaragua,Finland
+93,375,1937,0,1,Dolares,Nicaragua,Finland
+93,375,1938,0,1,Dolares,Nicaragua,Finland
+93,375,1939,0,1,Dolares,Nicaragua,Finland
+93,375,1940,0,1,Dolares,Nicaragua,Finland
+93,375,1941,0,1,Dolares,Nicaragua,Finland
+93,375,1942,0,1,Dolares,Nicaragua,Finland
+93,375,1943,0,1,Dolares,Nicaragua,Finland
+93,375,1944,0,1,Dolares,Nicaragua,Finland
+93,375,1945,0,1,Dolares,Nicaragua,Finland
+93,375,1946,0,1,Dolares,Nicaragua,Finland
+93,375,1947,0,1,Dolares,Nicaragua,Finland
+93,375,1948,0,1,Dolares,Nicaragua,Finland
+93,375,1949,7137,1,Dolares,Nicaragua,Finland
+93,380,1913,0,1,Cordobas,Nicaragua,Sweden
+93,380,1914,0,1,Cordobas,Nicaragua,Sweden
+93,380,1915,0,1,Cordobas,Nicaragua,Sweden
+93,380,1916,0,1,Cordobas,Nicaragua,Sweden
+93,380,1917,0,1,Cordobas,Nicaragua,Sweden
+93,380,1918,0,1,Cordobas,Nicaragua,Sweden
+93,380,1919,0,1,Cordobas,Nicaragua,Sweden
+93,380,1920,0,1,Cordobas,Nicaragua,Sweden
+93,380,1921,0,1,Cordobas,Nicaragua,Sweden
+93,380,1922,0,1,Cordobas,Nicaragua,Sweden
+93,380,1923,0,1,Cordobas,Nicaragua,Sweden
+93,380,1924,0,1,Cordobas,Nicaragua,Sweden
+93,380,1925,0,1,Cordobas,Nicaragua,Sweden
+93,380,1926,0,1,Cordobas,Nicaragua,Sweden
+93,380,1927,0,1,Cordobas,Nicaragua,Sweden
+93,380,1928,0,1,Cordobas,Nicaragua,Sweden
+93,380,1929,0,1,Cordobas,Nicaragua,Sweden
+93,380,1930,0,1,Cordobas,Nicaragua,Sweden
+93,380,1931,0,1,Cordobas,Nicaragua,Sweden
+93,380,1932,0,1,Cordobas,Nicaragua,Sweden
+93,380,1933,0,1,Cordobas,Nicaragua,Sweden
+93,380,1934,0,1,Cordobas,Nicaragua,Sweden
+93,380,1935,0,1,Cordobas,Nicaragua,Sweden
+93,380,1936,0,1,Cordobas,Nicaragua,Sweden
+93,380,1937,0,1,Dolares,Nicaragua,Sweden
+93,380,1938,0,1,Dolares,Nicaragua,Sweden
+93,380,1939,0,1,Dolares,Nicaragua,Sweden
+93,380,1940,0,1,Dolares,Nicaragua,Sweden
+93,380,1941,0,1,Dolares,Nicaragua,Sweden
+93,380,1942,0,1,Dolares,Nicaragua,Sweden
+93,380,1943,0,1,Dolares,Nicaragua,Sweden
+93,380,1944,0,1,Dolares,Nicaragua,Sweden
+93,380,1945,0,1,Dolares,Nicaragua,Sweden
+93,380,1946,3501,1,Dolares,Nicaragua,Sweden
+93,380,1947,23524,1,Dolares,Nicaragua,Sweden
+93,380,1948,78203,1,Dolares,Nicaragua,Sweden
+93,380,1949,25205,1,Dolares,Nicaragua,Sweden
+93,385,1913,0,1,Cordobas,Nicaragua,Norway
+93,385,1914,0,1,Cordobas,Nicaragua,Norway
+93,385,1915,0,1,Cordobas,Nicaragua,Norway
+93,385,1916,0,1,Cordobas,Nicaragua,Norway
+93,385,1917,0,1,Cordobas,Nicaragua,Norway
+93,385,1918,0,1,Cordobas,Nicaragua,Norway
+93,385,1919,0,1,Cordobas,Nicaragua,Norway
+93,385,1920,0,1,Cordobas,Nicaragua,Norway
+93,385,1921,0,1,Cordobas,Nicaragua,Norway
+93,385,1922,0,1,Cordobas,Nicaragua,Norway
+93,385,1923,0,1,Cordobas,Nicaragua,Norway
+93,385,1924,0,1,Cordobas,Nicaragua,Norway
+93,385,1925,0,1,Cordobas,Nicaragua,Norway
+93,385,1926,0,1,Cordobas,Nicaragua,Norway
+93,385,1927,0,1,Cordobas,Nicaragua,Norway
+93,385,1928,0,1,Cordobas,Nicaragua,Norway
+93,385,1929,0,1,Cordobas,Nicaragua,Norway
+93,385,1930,0,1,Cordobas,Nicaragua,Norway
+93,385,1931,0,1,Cordobas,Nicaragua,Norway
+93,385,1932,0,1,Cordobas,Nicaragua,Norway
+93,385,1933,0,1,Cordobas,Nicaragua,Norway
+93,385,1934,0,1,Cordobas,Nicaragua,Norway
+93,385,1935,0,1,Cordobas,Nicaragua,Norway
+93,385,1936,0,1,Cordobas,Nicaragua,Norway
+93,385,1937,0,1,Dolares,Nicaragua,Norway
+93,385,1938,5101,1,Dolares,Nicaragua,Norway
+93,385,1939,4314,1,Dolares,Nicaragua,Norway
+93,385,1940,2001,1,Dolares,Nicaragua,Norway
+93,385,1941,0,1,Dolares,Nicaragua,Norway
+93,385,1942,0,1,Dolares,Nicaragua,Norway
+93,385,1943,0,1,Dolares,Nicaragua,Norway
+93,385,1944,0,1,Dolares,Nicaragua,Norway
+93,385,1945,0,1,Dolares,Nicaragua,Norway
+93,385,1946,0,1,Dolares,Nicaragua,Norway
+93,385,1947,2463,1,Dolares,Nicaragua,Norway
+93,385,1948,124,1,Dolares,Nicaragua,Norway
+93,385,1949,168,1,Dolares,Nicaragua,Norway
+93,390,1913,0,1,Cordobas,Nicaragua,Denmark
+93,390,1914,0,1,Cordobas,Nicaragua,Denmark
+93,390,1915,0,1,Cordobas,Nicaragua,Denmark
+93,390,1916,0,1,Cordobas,Nicaragua,Denmark
+93,390,1917,0,1,Cordobas,Nicaragua,Denmark
+93,390,1918,0,1,Cordobas,Nicaragua,Denmark
+93,390,1919,0,1,Cordobas,Nicaragua,Denmark
+93,390,1920,0,1,Cordobas,Nicaragua,Denmark
+93,390,1921,0,1,Cordobas,Nicaragua,Denmark
+93,390,1922,0,1,Cordobas,Nicaragua,Denmark
+93,390,1923,0,1,Cordobas,Nicaragua,Denmark
+93,390,1924,0,1,Cordobas,Nicaragua,Denmark
+93,390,1925,0,1,Cordobas,Nicaragua,Denmark
+93,390,1926,0,1,Cordobas,Nicaragua,Denmark
+93,390,1927,0,1,Cordobas,Nicaragua,Denmark
+93,390,1928,0,1,Cordobas,Nicaragua,Denmark
+93,390,1929,0,1,Cordobas,Nicaragua,Denmark
+93,390,1930,0,1,Cordobas,Nicaragua,Denmark
+93,390,1931,37104,1,Cordobas,Nicaragua,Denmark
+93,390,1932,14301,1,Cordobas,Nicaragua,Denmark
+93,390,1933,12859,1,Cordobas,Nicaragua,Denmark
+93,390,1934,20164,1,Cordobas,Nicaragua,Denmark
+93,390,1935,21393,1,Cordobas,Nicaragua,Denmark
+93,390,1936,18385,1,Cordobas,Nicaragua,Denmark
+93,390,1937,23472,1,Dolares,Nicaragua,Denmark
+93,390,1938,14631,1,Dolares,Nicaragua,Denmark
+93,390,1939,10781,1,Dolares,Nicaragua,Denmark
+93,390,1940,2073,1,Dolares,Nicaragua,Denmark
+93,390,1941,0,1,Dolares,Nicaragua,Denmark
+93,390,1942,0,1,Dolares,Nicaragua,Denmark
+93,390,1943,0,1,Dolares,Nicaragua,Denmark
+93,390,1944,0,1,Dolares,Nicaragua,Denmark
+93,390,1945,0,1,Dolares,Nicaragua,Denmark
+93,390,1946,2197,1,Dolares,Nicaragua,Denmark
+93,390,1947,16238,1,Dolares,Nicaragua,Denmark
+93,390,1948,21971,1,Dolares,Nicaragua,Denmark
+93,390,1949,8194,1,Dolares,Nicaragua,Denmark
+93,665,1913,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1914,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1915,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1916,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1917,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1918,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1919,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1920,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1921,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1922,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1923,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1924,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1925,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1926,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1927,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1928,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1929,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1930,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1931,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1932,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1933,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1934,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1935,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1936,0,1,Cordobas,Nicaragua,West Bank And Gaza
+93,665,1937,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1938,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1939,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1940,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1941,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1942,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1943,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1944,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1945,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1946,65,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1947,501,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1948,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,665,1949,0,1,Dolares,Nicaragua,West Bank And Gaza
+93,710,1913,67932,1,Cordobas,Nicaragua,China
+93,710,1914,665,1,Cordobas,Nicaragua,China
+93,710,1915,196,1,Cordobas,Nicaragua,China
+93,710,1916,39,1,Cordobas,Nicaragua,China
+93,710,1917,28,1,Cordobas,Nicaragua,China
+93,710,1918,3,1,Cordobas,Nicaragua,China
+93,710,1919,3572,1,Cordobas,Nicaragua,China
+93,710,1920,4636,1,Cordobas,Nicaragua,China
+93,710,1921,202,1,Cordobas,Nicaragua,China
+93,710,1922,2969,1,Cordobas,Nicaragua,China
+93,710,1923,5992,1,Cordobas,Nicaragua,China
+93,710,1924,3024,1,Cordobas,Nicaragua,China
+93,710,1925,4239,1,Cordobas,Nicaragua,China
+93,710,1926,14387,1,Cordobas,Nicaragua,China
+93,710,1927,19339,1,Cordobas,Nicaragua,China
+93,710,1928,9577,1,Cordobas,Nicaragua,China
+93,710,1929,15213,1,Cordobas,Nicaragua,China
+93,710,1930,12524,1,Cordobas,Nicaragua,China
+93,710,1931,8121,1,Cordobas,Nicaragua,China
+93,710,1932,7203,1,Cordobas,Nicaragua,China
+93,710,1933,2753,1,Cordobas,Nicaragua,China
+93,710,1934,9431,1,Cordobas,Nicaragua,China
+93,710,1935,10867,1,Cordobas,Nicaragua,China
+93,710,1936,1345,1,Cordobas,Nicaragua,China
+93,710,1937,3462,1,Dolares,Nicaragua,China
+93,710,1938,647,1,Dolares,Nicaragua,China
+93,710,1939,4574,1,Dolares,Nicaragua,China
+93,710,1940,3370,1,Dolares,Nicaragua,China
+93,710,1941,9438,1,Dolares,Nicaragua,China
+93,710,1942,318,1,Dolares,Nicaragua,China
+93,710,1943,0,1,Dolares,Nicaragua,China
+93,710,1944,0,1,Dolares,Nicaragua,China
+93,710,1945,0,1,Dolares,Nicaragua,China
+93,710,1946,0,1,Dolares,Nicaragua,China
+93,710,1947,72,1,Dolares,Nicaragua,China
+93,710,1948,739,1,Dolares,Nicaragua,China
+93,710,1949,2009,1,Dolares,Nicaragua,China
+93,740,1913,5227,1,Cordobas,Nicaragua,Japan
+93,740,1914,1,1,Cordobas,Nicaragua,Japan
+93,740,1915,136,1,Cordobas,Nicaragua,Japan
+93,740,1916,146,1,Cordobas,Nicaragua,Japan
+93,740,1917,441,1,Cordobas,Nicaragua,Japan
+93,740,1918,831,1,Cordobas,Nicaragua,Japan
+93,740,1919,512,1,Cordobas,Nicaragua,Japan
+93,740,1920,748,1,Cordobas,Nicaragua,Japan
+93,740,1921,2938,1,Cordobas,Nicaragua,Japan
+93,740,1922,7677,1,Cordobas,Nicaragua,Japan
+93,740,1923,32847,1,Cordobas,Nicaragua,Japan
+93,740,1924,33290,1,Cordobas,Nicaragua,Japan
+93,740,1925,48942,1,Cordobas,Nicaragua,Japan
+93,740,1926,75377,1,Cordobas,Nicaragua,Japan
+93,740,1927,68140,1,Cordobas,Nicaragua,Japan
+93,740,1928,133956,1,Cordobas,Nicaragua,Japan
+93,740,1929,165527,1,Cordobas,Nicaragua,Japan
+93,740,1930,94031,1,Cordobas,Nicaragua,Japan
+93,740,1931,44173,1,Cordobas,Nicaragua,Japan
+93,740,1932,30288,1,Cordobas,Nicaragua,Japan
+93,740,1933,44832,1,Cordobas,Nicaragua,Japan
+93,740,1934,207503,1,Cordobas,Nicaragua,Japan
+93,740,1935,324182,1,Cordobas,Nicaragua,Japan
+93,740,1936,143325,1,Cordobas,Nicaragua,Japan
+93,740,1937,243073,1,Dolares,Nicaragua,Japan
+93,740,1938,80292,1,Dolares,Nicaragua,Japan
+93,740,1939,54854,1,Dolares,Nicaragua,Japan
+93,740,1940,162227,1,Dolares,Nicaragua,Japan
+93,740,1941,216519,1,Dolares,Nicaragua,Japan
+93,740,1942,27410,1,Dolares,Nicaragua,Japan
+93,740,1943,0,1,Dolares,Nicaragua,Japan
+93,740,1944,0,1,Dolares,Nicaragua,Japan
+93,740,1945,0,1,Dolares,Nicaragua,Japan
+93,740,1946,0,1,Dolares,Nicaragua,Japan
+93,740,1947,0,1,Dolares,Nicaragua,Japan
+93,740,1948,0,1,Dolares,Nicaragua,Japan
+93,740,1949,91,1,Dolares,Nicaragua,Japan
+93,750,1913,0,1,Cordobas,Nicaragua,India
+93,750,1914,0,1,Cordobas,Nicaragua,India
+93,750,1915,0,1,Cordobas,Nicaragua,India
+93,750,1916,0,1,Cordobas,Nicaragua,India
+93,750,1917,0,1,Cordobas,Nicaragua,India
+93,750,1918,0,1,Cordobas,Nicaragua,India
+93,750,1919,23250,1,Cordobas,Nicaragua,India
+93,750,1920,0,1,Cordobas,Nicaragua,India
+93,750,1921,0,1,Cordobas,Nicaragua,India
+93,750,1922,1007,1,Cordobas,Nicaragua,India
+93,750,1923,8892,1,Cordobas,Nicaragua,India
+93,750,1924,804,1,Cordobas,Nicaragua,India
+93,750,1925,242,1,Cordobas,Nicaragua,India
+93,750,1926,22058,1,Cordobas,Nicaragua,India
+93,750,1927,51673,1,Cordobas,Nicaragua,India
+93,750,1928,58461,1,Cordobas,Nicaragua,India
+93,750,1929,17135,1,Cordobas,Nicaragua,India
+93,750,1930,9310,1,Cordobas,Nicaragua,India
+93,750,1931,6894,1,Cordobas,Nicaragua,India
+93,750,1932,936,1,Cordobas,Nicaragua,India
+93,750,1933,3358,1,Cordobas,Nicaragua,India
+93,750,1934,5476,1,Cordobas,Nicaragua,India
+93,750,1935,2496,1,Cordobas,Nicaragua,India
+93,750,1936,93,1,Cordobas,Nicaragua,India
+93,750,1937,7,1,Dolares,Nicaragua,India
+93,750,1938,3384,1,Dolares,Nicaragua,India
+93,750,1939,5223,1,Dolares,Nicaragua,India
+93,750,1940,5969,1,Dolares,Nicaragua,India
+93,750,1941,3150,1,Dolares,Nicaragua,India
+93,750,1942,66,1,Dolares,Nicaragua,India
+93,750,1943,109188,1,Dolares,Nicaragua,India
+93,750,1944,69736,1,Dolares,Nicaragua,India
+93,750,1945,0,1,Dolares,Nicaragua,India
+93,750,1946,8300,1,Dolares,Nicaragua,India
+93,750,1947,67,1,Dolares,Nicaragua,India
+93,750,1948,62424,1,Dolares,Nicaragua,India
+93,750,1949,139497,1,Dolares,Nicaragua,India
+93,840,1913,0,1,Cordobas,Nicaragua,Philippines
+93,840,1914,0,1,Cordobas,Nicaragua,Philippines
+93,840,1915,0,1,Cordobas,Nicaragua,Philippines
+93,840,1916,0,1,Cordobas,Nicaragua,Philippines
+93,840,1917,0,1,Cordobas,Nicaragua,Philippines
+93,840,1918,0,1,Cordobas,Nicaragua,Philippines
+93,840,1919,0,1,Cordobas,Nicaragua,Philippines
+93,840,1920,0,1,Cordobas,Nicaragua,Philippines
+93,840,1921,0,1,Cordobas,Nicaragua,Philippines
+93,840,1922,0,1,Cordobas,Nicaragua,Philippines
+93,840,1923,0,1,Cordobas,Nicaragua,Philippines
+93,840,1924,0,1,Cordobas,Nicaragua,Philippines
+93,840,1925,0,1,Cordobas,Nicaragua,Philippines
+93,840,1926,0,1,Cordobas,Nicaragua,Philippines
+93,840,1927,0,1,Cordobas,Nicaragua,Philippines
+93,840,1928,0,1,Cordobas,Nicaragua,Philippines
+93,840,1929,0,1,Cordobas,Nicaragua,Philippines
+93,840,1930,0,1,Cordobas,Nicaragua,Philippines
+93,840,1931,0,1,Cordobas,Nicaragua,Philippines
+93,840,1932,0,1,Cordobas,Nicaragua,Philippines
+93,840,1933,0,1,Cordobas,Nicaragua,Philippines
+93,840,1934,0,1,Cordobas,Nicaragua,Philippines
+93,840,1935,0,1,Cordobas,Nicaragua,Philippines
+93,840,1936,0,1,Cordobas,Nicaragua,Philippines
+93,840,1937,0,1,Dolares,Nicaragua,Philippines
+93,840,1938,0,1,Dolares,Nicaragua,Philippines
+93,840,1939,0,1,Dolares,Nicaragua,Philippines
+93,840,1940,0,1,Dolares,Nicaragua,Philippines
+93,840,1941,0,1,Dolares,Nicaragua,Philippines
+93,840,1942,0,1,Dolares,Nicaragua,Philippines
+93,840,1943,0,1,Dolares,Nicaragua,Philippines
+93,840,1944,0,1,Dolares,Nicaragua,Philippines
+93,840,1945,0,1,Dolares,Nicaragua,Philippines
+93,840,1946,0,1,Dolares,Nicaragua,Philippines
+93,840,1947,0,1,Dolares,Nicaragua,Philippines
+93,840,1948,0,1,Dolares,Nicaragua,Philippines
+93,840,1949,477,1,Dolares,Nicaragua,Philippines
+93,,1913,5834626,1,Cordobas,Nicaragua,
+93,,1914,4158710,1,Cordobas,Nicaragua,
+93,,1915,3173517,1,Cordobas,Nicaragua,
+93,,1916,4798084,1,Cordobas,Nicaragua,
+93,,1917,6424007,1,Cordobas,Nicaragua,
+93,,1918,6058114,1,Cordobas,Nicaragua,
+93,,1919,7929152,1,Cordobas,Nicaragua,
+93,,1920,13934682,1,Cordobas,Nicaragua,
+93,,1921,5369346,1,Cordobas,Nicaragua,
+93,,1922,5185595,1,Cordobas,Nicaragua,
+93,,1923,7372878,1,Cordobas,Nicaragua,
+93,,1924,8954866,1,Cordobas,Nicaragua,
+93,,1925,10608573,1,Cordobas,Nicaragua,
+93,,1926,10456855,1,Cordobas,Nicaragua,
+93,,1927,10529788,1,Cordobas,Nicaragua,
+93,,1928,13972478,1,Cordobas,Nicaragua,
+93,,1929,12343082,1,Cordobas,Nicaragua,
+93,,1930,8597256,1,Cordobas,Nicaragua,
+93,,1931,6177115,1,Cordobas,Nicaragua,
+93,,1932,3585305,1,Cordobas,Nicaragua,
+93,,1933,3884221,1,Cordobas,Nicaragua,
+93,,1934,4786708,1,Cordobas,Nicaragua,
+93,,1935,5143975,1,Cordobas,Nicaragua,
+93,,1936,5657228,1,Cordobas,Nicaragua,
+93,,1937,5882254,1,Dolares,Nicaragua,
+93,,1938,5247841,1,Dolares,Nicaragua,
+93,,1939,6489221,1,Dolares,Nicaragua,
+93,,1940,7124724,1,Dolares,Nicaragua,
+93,,1941,10647635,1,Dolares,Nicaragua,
+93,,1942,6850813,1,Dolares,Nicaragua,
+93,,1943,13743704,1,Dolares,Nicaragua,
+93,,1944,10525986,1,Dolares,Nicaragua,
+93,,1945,12186436,1,Dolares,Nicaragua,
+93,,1946,15283880,1,Dolares,Nicaragua,
+93,,1947,21284931,1,Dolares,Nicaragua,
+93,,1948,24917393,1,Dolares,Nicaragua,
+93,,1949,22228483,1,Dolares,Nicaragua,

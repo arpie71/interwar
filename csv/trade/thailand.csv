@@ -1,0 +1,1559 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+800,2,1929,0,1,Baht,Thailand,United States
+800,2,1930,5562154,1,Baht,Thailand,United States
+800,2,1931,3175387,1,Baht,Thailand,United States
+800,2,1932,2158099,1,Baht,Thailand,United States
+800,2,1933,2732578,1,Baht,Thailand,United States
+800,2,1934,2780850,1,Baht,Thailand,United States
+800,2,1935,3258299,1,Baht,Thailand,United States
+800,2,1936,4103790,1,Baht,Thailand,United States
+800,2,1937,5636266,1,Baht,Thailand,United States
+800,2,1938,6062584,1,Baht,Thailand,United States
+800,2,1939,10353069,1,Baht,Thailand,United States
+800,2,1940,28050213,1,Baht,Thailand,United States
+800,2,1941,23713081,1,Baht,Thailand,United States
+800,2,1942,2487998,1,Baht,Thailand,United States
+800,2,1943,15043,1,Baht,Thailand,United States
+800,2,1944,0,1,Baht,Thailand,United States
+800,2,1945,18715,1,Baht,Thailand,United States
+800,2,1946,33495072,1,Baht,Thailand,United States
+800,2,1947,316259077,1,Baht,Thailand,United States
+800,4,1929,0,1,Baht,Thailand,Hawaii
+800,4,1930,0,1,Baht,Thailand,Hawaii
+800,4,1931,0,1,Baht,Thailand,Hawaii
+800,4,1932,0,1,Baht,Thailand,Hawaii
+800,4,1933,0,1,Baht,Thailand,Hawaii
+800,4,1934,0,1,Baht,Thailand,Hawaii
+800,4,1935,0,1,Baht,Thailand,Hawaii
+800,4,1936,0,1,Baht,Thailand,Hawaii
+800,4,1937,0,1,Baht,Thailand,Hawaii
+800,4,1938,0,1,Baht,Thailand,Hawaii
+800,4,1939,493,1,Baht,Thailand,Hawaii
+800,4,1940,31,1,Baht,Thailand,Hawaii
+800,4,1941,1120,1,Baht,Thailand,Hawaii
+800,4,1942,0,1,Baht,Thailand,Hawaii
+800,4,1943,0,1,Baht,Thailand,Hawaii
+800,4,1944,0,1,Baht,Thailand,Hawaii
+800,4,1945,0,1,Baht,Thailand,Hawaii
+800,4,1946,0,1,Baht,Thailand,Hawaii
+800,4,1947,32677,1,Baht,Thailand,Hawaii
+800,20,1929,0,1,Baht,Thailand,Canada
+800,20,1930,3253,1,Baht,Thailand,Canada
+800,20,1931,998,1,Baht,Thailand,Canada
+800,20,1932,7913,1,Baht,Thailand,Canada
+800,20,1933,10651,1,Baht,Thailand,Canada
+800,20,1934,4342,1,Baht,Thailand,Canada
+800,20,1935,2476,1,Baht,Thailand,Canada
+800,20,1936,14488,1,Baht,Thailand,Canada
+800,20,1937,11553,1,Baht,Thailand,Canada
+800,20,1938,12411,1,Baht,Thailand,Canada
+800,20,1939,145020,1,Baht,Thailand,Canada
+800,20,1940,443198,1,Baht,Thailand,Canada
+800,20,1941,473940,1,Baht,Thailand,Canada
+800,20,1942,36,1,Baht,Thailand,Canada
+800,20,1943,0,1,Baht,Thailand,Canada
+800,20,1944,0,1,Baht,Thailand,Canada
+800,20,1945,0,1,Baht,Thailand,Canada
+800,20,1946,35759,1,Baht,Thailand,Canada
+800,20,1947,3142940,1,Baht,Thailand,Canada
+800,21,1929,0,1,Baht,Thailand,Newfoundland
+800,21,1930,0,1,Baht,Thailand,Newfoundland
+800,21,1931,0,1,Baht,Thailand,Newfoundland
+800,21,1932,0,1,Baht,Thailand,Newfoundland
+800,21,1933,0,1,Baht,Thailand,Newfoundland
+800,21,1934,0,1,Baht,Thailand,Newfoundland
+800,21,1935,0,1,Baht,Thailand,Newfoundland
+800,21,1936,0,1,Baht,Thailand,Newfoundland
+800,21,1937,0,1,Baht,Thailand,Newfoundland
+800,21,1938,0,1,Baht,Thailand,Newfoundland
+800,21,1939,0,1,Baht,Thailand,Newfoundland
+800,21,1940,12206,1,Baht,Thailand,Newfoundland
+800,21,1941,27721,1,Baht,Thailand,Newfoundland
+800,21,1942,0,1,Baht,Thailand,Newfoundland
+800,21,1943,0,1,Baht,Thailand,Newfoundland
+800,21,1944,0,1,Baht,Thailand,Newfoundland
+800,21,1945,0,1,Baht,Thailand,Newfoundland
+800,21,1946,0,1,Baht,Thailand,Newfoundland
+800,21,1947,0,1,Baht,Thailand,Newfoundland
+800,40,1929,0,1,Baht,Thailand,Cuba
+800,40,1930,0,1,Baht,Thailand,Cuba
+800,40,1931,0,1,Baht,Thailand,Cuba
+800,40,1932,0,1,Baht,Thailand,Cuba
+800,40,1933,0,1,Baht,Thailand,Cuba
+800,40,1934,0,1,Baht,Thailand,Cuba
+800,40,1935,0,1,Baht,Thailand,Cuba
+800,40,1936,0,1,Baht,Thailand,Cuba
+800,40,1937,0,1,Baht,Thailand,Cuba
+800,40,1938,0,1,Baht,Thailand,Cuba
+800,40,1939,0,1,Baht,Thailand,Cuba
+800,40,1940,1,1,Baht,Thailand,Cuba
+800,40,1941,241370,1,Baht,Thailand,Cuba
+800,40,1942,0,1,Baht,Thailand,Cuba
+800,40,1943,0,1,Baht,Thailand,Cuba
+800,40,1944,0,1,Baht,Thailand,Cuba
+800,40,1945,0,1,Baht,Thailand,Cuba
+800,40,1946,0,1,Baht,Thailand,Cuba
+800,40,1947,0,1,Baht,Thailand,Cuba
+800,70,1929,0,1,Baht,Thailand,Mexico
+800,70,1930,0,1,Baht,Thailand,Mexico
+800,70,1931,0,1,Baht,Thailand,Mexico
+800,70,1932,0,1,Baht,Thailand,Mexico
+800,70,1933,0,1,Baht,Thailand,Mexico
+800,70,1934,0,1,Baht,Thailand,Mexico
+800,70,1935,0,1,Baht,Thailand,Mexico
+800,70,1936,0,1,Baht,Thailand,Mexico
+800,70,1937,0,1,Baht,Thailand,Mexico
+800,70,1938,3,1,Baht,Thailand,Mexico
+800,70,1939,0,1,Baht,Thailand,Mexico
+800,70,1940,0,1,Baht,Thailand,Mexico
+800,70,1941,0,1,Baht,Thailand,Mexico
+800,70,1942,0,1,Baht,Thailand,Mexico
+800,70,1943,0,1,Baht,Thailand,Mexico
+800,70,1944,0,1,Baht,Thailand,Mexico
+800,70,1945,0,1,Baht,Thailand,Mexico
+800,70,1946,10,1,Baht,Thailand,Mexico
+800,70,1947,67315,1,Baht,Thailand,Mexico
+800,94,1929,0,1,Baht,Thailand,Costa Rica
+800,94,1930,0,1,Baht,Thailand,Costa Rica
+800,94,1931,0,1,Baht,Thailand,Costa Rica
+800,94,1932,0,1,Baht,Thailand,Costa Rica
+800,94,1933,0,1,Baht,Thailand,Costa Rica
+800,94,1934,0,1,Baht,Thailand,Costa Rica
+800,94,1935,0,1,Baht,Thailand,Costa Rica
+800,94,1936,0,1,Baht,Thailand,Costa Rica
+800,94,1937,0,1,Baht,Thailand,Costa Rica
+800,94,1938,0,1,Baht,Thailand,Costa Rica
+800,94,1939,0,1,Baht,Thailand,Costa Rica
+800,94,1940,0,1,Baht,Thailand,Costa Rica
+800,94,1941,0,1,Baht,Thailand,Costa Rica
+800,94,1942,0,1,Baht,Thailand,Costa Rica
+800,94,1943,0,1,Baht,Thailand,Costa Rica
+800,94,1944,0,1,Baht,Thailand,Costa Rica
+800,94,1945,0,1,Baht,Thailand,Costa Rica
+800,94,1946,0,1,Baht,Thailand,Costa Rica
+800,94,1947,31,1,Baht,Thailand,Costa Rica
+800,95,1929,0,1,Baht,Thailand,Panama
+800,95,1930,0,1,Baht,Thailand,Panama
+800,95,1931,0,1,Baht,Thailand,Panama
+800,95,1932,0,1,Baht,Thailand,Panama
+800,95,1933,0,1,Baht,Thailand,Panama
+800,95,1934,0,1,Baht,Thailand,Panama
+800,95,1935,0,1,Baht,Thailand,Panama
+800,95,1936,0,1,Baht,Thailand,Panama
+800,95,1937,0,1,Baht,Thailand,Panama
+800,95,1938,0,1,Baht,Thailand,Panama
+800,95,1939,0,1,Baht,Thailand,Panama
+800,95,1940,0,1,Baht,Thailand,Panama
+800,95,1941,0,1,Baht,Thailand,Panama
+800,95,1942,0,1,Baht,Thailand,Panama
+800,95,1943,0,1,Baht,Thailand,Panama
+800,95,1944,0,1,Baht,Thailand,Panama
+800,95,1945,0,1,Baht,Thailand,Panama
+800,95,1946,0,1,Baht,Thailand,Panama
+800,95,1947,0,1,Baht,Thailand,Panama
+800,100,1929,0,1,Baht,Thailand,Colombia
+800,100,1930,0,1,Baht,Thailand,Colombia
+800,100,1931,0,1,Baht,Thailand,Colombia
+800,100,1932,0,1,Baht,Thailand,Colombia
+800,100,1933,0,1,Baht,Thailand,Colombia
+800,100,1934,0,1,Baht,Thailand,Colombia
+800,100,1935,0,1,Baht,Thailand,Colombia
+800,100,1936,0,1,Baht,Thailand,Colombia
+800,100,1937,0,1,Baht,Thailand,Colombia
+800,100,1938,0,1,Baht,Thailand,Colombia
+800,100,1939,0,1,Baht,Thailand,Colombia
+800,100,1940,0,1,Baht,Thailand,Colombia
+800,100,1941,0,1,Baht,Thailand,Colombia
+800,100,1942,0,1,Baht,Thailand,Colombia
+800,100,1943,0,1,Baht,Thailand,Colombia
+800,100,1944,0,1,Baht,Thailand,Colombia
+800,100,1945,0,1,Baht,Thailand,Colombia
+800,100,1946,0,1,Baht,Thailand,Colombia
+800,100,1947,0,1,Baht,Thailand,Colombia
+800,101,1929,0,1,Baht,Thailand,Venezuela
+800,101,1930,0,1,Baht,Thailand,Venezuela
+800,101,1931,0,1,Baht,Thailand,Venezuela
+800,101,1932,0,1,Baht,Thailand,Venezuela
+800,101,1933,0,1,Baht,Thailand,Venezuela
+800,101,1934,0,1,Baht,Thailand,Venezuela
+800,101,1935,0,1,Baht,Thailand,Venezuela
+800,101,1936,0,1,Baht,Thailand,Venezuela
+800,101,1937,0,1,Baht,Thailand,Venezuela
+800,101,1938,0,1,Baht,Thailand,Venezuela
+800,101,1939,1,1,Baht,Thailand,Venezuela
+800,101,1940,16,1,Baht,Thailand,Venezuela
+800,101,1941,0,1,Baht,Thailand,Venezuela
+800,101,1942,0,1,Baht,Thailand,Venezuela
+800,101,1943,0,1,Baht,Thailand,Venezuela
+800,101,1944,0,1,Baht,Thailand,Venezuela
+800,101,1945,0,1,Baht,Thailand,Venezuela
+800,101,1946,0,1,Baht,Thailand,Venezuela
+800,101,1947,30,1,Baht,Thailand,Venezuela
+800,130,1929,0,1,Baht,Thailand,Ecuador
+800,130,1930,0,1,Baht,Thailand,Ecuador
+800,130,1931,0,1,Baht,Thailand,Ecuador
+800,130,1932,0,1,Baht,Thailand,Ecuador
+800,130,1933,0,1,Baht,Thailand,Ecuador
+800,130,1934,0,1,Baht,Thailand,Ecuador
+800,130,1935,0,1,Baht,Thailand,Ecuador
+800,130,1936,0,1,Baht,Thailand,Ecuador
+800,130,1937,0,1,Baht,Thailand,Ecuador
+800,130,1938,3,1,Baht,Thailand,Ecuador
+800,130,1939,0,1,Baht,Thailand,Ecuador
+800,130,1940,0,1,Baht,Thailand,Ecuador
+800,130,1941,0,1,Baht,Thailand,Ecuador
+800,130,1942,0,1,Baht,Thailand,Ecuador
+800,130,1943,0,1,Baht,Thailand,Ecuador
+800,130,1944,0,1,Baht,Thailand,Ecuador
+800,130,1945,0,1,Baht,Thailand,Ecuador
+800,130,1946,0,1,Baht,Thailand,Ecuador
+800,130,1947,0,1,Baht,Thailand,Ecuador
+800,135,1929,0,1,Baht,Thailand,Peru
+800,135,1930,0,1,Baht,Thailand,Peru
+800,135,1931,0,1,Baht,Thailand,Peru
+800,135,1932,0,1,Baht,Thailand,Peru
+800,135,1933,0,1,Baht,Thailand,Peru
+800,135,1934,0,1,Baht,Thailand,Peru
+800,135,1935,0,1,Baht,Thailand,Peru
+800,135,1936,0,1,Baht,Thailand,Peru
+800,135,1937,46,1,Baht,Thailand,Peru
+800,135,1938,0,1,Baht,Thailand,Peru
+800,135,1939,8,1,Baht,Thailand,Peru
+800,135,1940,0,1,Baht,Thailand,Peru
+800,135,1941,0,1,Baht,Thailand,Peru
+800,135,1942,0,1,Baht,Thailand,Peru
+800,135,1943,0,1,Baht,Thailand,Peru
+800,135,1944,0,1,Baht,Thailand,Peru
+800,135,1945,0,1,Baht,Thailand,Peru
+800,135,1946,0,1,Baht,Thailand,Peru
+800,135,1947,0,1,Baht,Thailand,Peru
+800,140,1929,0,1,Baht,Thailand,Brazil
+800,140,1930,0,1,Baht,Thailand,Brazil
+800,140,1931,0,1,Baht,Thailand,Brazil
+800,140,1932,0,1,Baht,Thailand,Brazil
+800,140,1933,0,1,Baht,Thailand,Brazil
+800,140,1934,0,1,Baht,Thailand,Brazil
+800,140,1935,0,1,Baht,Thailand,Brazil
+800,140,1936,0,1,Baht,Thailand,Brazil
+800,140,1937,14,1,Baht,Thailand,Brazil
+800,140,1938,27,1,Baht,Thailand,Brazil
+800,140,1939,1559,1,Baht,Thailand,Brazil
+800,140,1940,0,1,Baht,Thailand,Brazil
+800,140,1941,2,1,Baht,Thailand,Brazil
+800,140,1942,0,1,Baht,Thailand,Brazil
+800,140,1943,0,1,Baht,Thailand,Brazil
+800,140,1944,0,1,Baht,Thailand,Brazil
+800,140,1945,0,1,Baht,Thailand,Brazil
+800,140,1946,0,1,Baht,Thailand,Brazil
+800,140,1947,6621,1,Baht,Thailand,Brazil
+800,150,1929,0,1,Baht,Thailand,Paraguay
+800,150,1930,0,1,Baht,Thailand,Paraguay
+800,150,1931,0,1,Baht,Thailand,Paraguay
+800,150,1932,0,1,Baht,Thailand,Paraguay
+800,150,1933,0,1,Baht,Thailand,Paraguay
+800,150,1934,0,1,Baht,Thailand,Paraguay
+800,150,1935,0,1,Baht,Thailand,Paraguay
+800,150,1936,0,1,Baht,Thailand,Paraguay
+800,150,1937,0,1,Baht,Thailand,Paraguay
+800,150,1938,1122,1,Baht,Thailand,Paraguay
+800,150,1939,0,1,Baht,Thailand,Paraguay
+800,150,1940,0,1,Baht,Thailand,Paraguay
+800,150,1941,0,1,Baht,Thailand,Paraguay
+800,150,1942,0,1,Baht,Thailand,Paraguay
+800,150,1943,0,1,Baht,Thailand,Paraguay
+800,150,1944,0,1,Baht,Thailand,Paraguay
+800,150,1945,0,1,Baht,Thailand,Paraguay
+800,150,1946,0,1,Baht,Thailand,Paraguay
+800,150,1947,0,1,Baht,Thailand,Paraguay
+800,155,1929,0,1,Baht,Thailand,Chile
+800,155,1930,0,1,Baht,Thailand,Chile
+800,155,1931,0,1,Baht,Thailand,Chile
+800,155,1932,0,1,Baht,Thailand,Chile
+800,155,1933,0,1,Baht,Thailand,Chile
+800,155,1934,0,1,Baht,Thailand,Chile
+800,155,1935,0,1,Baht,Thailand,Chile
+800,155,1936,0,1,Baht,Thailand,Chile
+800,155,1937,0,1,Baht,Thailand,Chile
+800,155,1938,0,1,Baht,Thailand,Chile
+800,155,1939,0,1,Baht,Thailand,Chile
+800,155,1940,68743,1,Baht,Thailand,Chile
+800,155,1941,0,1,Baht,Thailand,Chile
+800,155,1942,0,1,Baht,Thailand,Chile
+800,155,1943,0,1,Baht,Thailand,Chile
+800,155,1944,0,1,Baht,Thailand,Chile
+800,155,1945,0,1,Baht,Thailand,Chile
+800,155,1946,0,1,Baht,Thailand,Chile
+800,155,1947,0,1,Baht,Thailand,Chile
+800,160,1929,0,1,Baht,Thailand,Argentina
+800,160,1930,0,1,Baht,Thailand,Argentina
+800,160,1931,0,1,Baht,Thailand,Argentina
+800,160,1932,0,1,Baht,Thailand,Argentina
+800,160,1933,0,1,Baht,Thailand,Argentina
+800,160,1934,0,1,Baht,Thailand,Argentina
+800,160,1935,0,1,Baht,Thailand,Argentina
+800,160,1936,0,1,Baht,Thailand,Argentina
+800,160,1937,9665,1,Baht,Thailand,Argentina
+800,160,1938,3423,1,Baht,Thailand,Argentina
+800,160,1939,829,1,Baht,Thailand,Argentina
+800,160,1940,5680,1,Baht,Thailand,Argentina
+800,160,1941,25316,1,Baht,Thailand,Argentina
+800,160,1942,0,1,Baht,Thailand,Argentina
+800,160,1943,0,1,Baht,Thailand,Argentina
+800,160,1944,0,1,Baht,Thailand,Argentina
+800,160,1945,0,1,Baht,Thailand,Argentina
+800,160,1946,54873,1,Baht,Thailand,Argentina
+800,160,1947,25392,1,Baht,Thailand,Argentina
+800,165,1929,0,1,Baht,Thailand,Uruguay
+800,165,1930,0,1,Baht,Thailand,Uruguay
+800,165,1931,0,1,Baht,Thailand,Uruguay
+800,165,1932,0,1,Baht,Thailand,Uruguay
+800,165,1933,0,1,Baht,Thailand,Uruguay
+800,165,1934,0,1,Baht,Thailand,Uruguay
+800,165,1935,0,1,Baht,Thailand,Uruguay
+800,165,1936,0,1,Baht,Thailand,Uruguay
+800,165,1937,0,1,Baht,Thailand,Uruguay
+800,165,1938,0,1,Baht,Thailand,Uruguay
+800,165,1939,241,1,Baht,Thailand,Uruguay
+800,165,1940,0,1,Baht,Thailand,Uruguay
+800,165,1941,0,1,Baht,Thailand,Uruguay
+800,165,1942,0,1,Baht,Thailand,Uruguay
+800,165,1943,0,1,Baht,Thailand,Uruguay
+800,165,1944,0,1,Baht,Thailand,Uruguay
+800,165,1945,0,1,Baht,Thailand,Uruguay
+800,165,1946,0,1,Baht,Thailand,Uruguay
+800,165,1947,0,1,Baht,Thailand,Uruguay
+800,200,1929,0,1,Baht,Thailand,United Kingdom
+800,200,1930,23422101,1,Baht,Thailand,United Kingdom
+800,200,1931,12763932,1,Baht,Thailand,United Kingdom
+800,200,1932,12256780,1,Baht,Thailand,United Kingdom
+800,200,1933,10866675,1,Baht,Thailand,United Kingdom
+800,200,1934,11456564,1,Baht,Thailand,United Kingdom
+800,200,1935,12590020,1,Baht,Thailand,United Kingdom
+800,200,1936,11167318,1,Baht,Thailand,United Kingdom
+800,200,1937,13678528,1,Baht,Thailand,United Kingdom
+800,200,1938,15237620,1,Baht,Thailand,United Kingdom
+800,200,1939,76843973,1,Baht,Thailand,United Kingdom
+800,200,1940,9234853,1,Baht,Thailand,United Kingdom
+800,200,1941,7726764,1,Baht,Thailand,United Kingdom
+800,200,1942,101811,1,Baht,Thailand,United Kingdom
+800,200,1943,210254,1,Baht,Thailand,United Kingdom
+800,200,1944,935,1,Baht,Thailand,United Kingdom
+800,200,1945,62282,1,Baht,Thailand,United Kingdom
+800,200,1946,13461839,1,Baht,Thailand,United Kingdom
+800,200,1947,101783455,1,Baht,Thailand,United Kingdom
+800,205,1929,0,1,Baht,Thailand,Ireland
+800,205,1930,0,1,Baht,Thailand,Ireland
+800,205,1931,0,1,Baht,Thailand,Ireland
+800,205,1932,0,1,Baht,Thailand,Ireland
+800,205,1933,0,1,Baht,Thailand,Ireland
+800,205,1934,0,1,Baht,Thailand,Ireland
+800,205,1935,0,1,Baht,Thailand,Ireland
+800,205,1936,0,1,Baht,Thailand,Ireland
+800,205,1937,0,1,Baht,Thailand,Ireland
+800,205,1938,0,1,Baht,Thailand,Ireland
+800,205,1939,0,1,Baht,Thailand,Ireland
+800,205,1940,26666,1,Baht,Thailand,Ireland
+800,205,1941,14534,1,Baht,Thailand,Ireland
+800,205,1942,0,1,Baht,Thailand,Ireland
+800,205,1943,0,1,Baht,Thailand,Ireland
+800,205,1944,0,1,Baht,Thailand,Ireland
+800,205,1945,0,1,Baht,Thailand,Ireland
+800,205,1946,0,1,Baht,Thailand,Ireland
+800,205,1947,120,1,Baht,Thailand,Ireland
+800,210,1929,0,1,Baht,Thailand,Netherlands
+800,210,1930,2589659,1,Baht,Thailand,Netherlands
+800,210,1931,1571413,1,Baht,Thailand,Netherlands
+800,210,1932,1700170,1,Baht,Thailand,Netherlands
+800,210,1933,1464205,1,Baht,Thailand,Netherlands
+800,210,1934,1129006,1,Baht,Thailand,Netherlands
+800,210,1935,1333107,1,Baht,Thailand,Netherlands
+800,210,1936,1729259,1,Baht,Thailand,Netherlands
+800,210,1937,2205780,1,Baht,Thailand,Netherlands
+800,210,1938,3281226,1,Baht,Thailand,Netherlands
+800,210,1939,4971724,1,Baht,Thailand,Netherlands
+800,210,1940,1040346,1,Baht,Thailand,Netherlands
+800,210,1941,2845,1,Baht,Thailand,Netherlands
+800,210,1942,0,1,Baht,Thailand,Netherlands
+800,210,1943,0,1,Baht,Thailand,Netherlands
+800,210,1944,0,1,Baht,Thailand,Netherlands
+800,210,1945,0,1,Baht,Thailand,Netherlands
+800,210,1946,2160385,1,Baht,Thailand,Netherlands
+800,210,1947,23592679,1,Baht,Thailand,Netherlands
+800,211,1929,0,1,Baht,Thailand,Belgium
+800,211,1930,1495339,1,Baht,Thailand,Belgium
+800,211,1931,1529831,1,Baht,Thailand,Belgium
+800,211,1932,301369,1,Baht,Thailand,Belgium
+800,211,1933,203689,1,Baht,Thailand,Belgium
+800,211,1934,233638,1,Baht,Thailand,Belgium
+800,211,1935,262753,1,Baht,Thailand,Belgium
+800,211,1936,460847,1,Baht,Thailand,Belgium
+800,211,1937,766971,1,Baht,Thailand,Belgium
+800,211,1938,1911518,1,Baht,Thailand,Belgium
+800,211,1939,1366108,1,Baht,Thailand,Belgium
+800,211,1940,543986,1,Baht,Thailand,Belgium
+800,211,1941,171,1,Baht,Thailand,Belgium
+800,211,1942,0,1,Baht,Thailand,Belgium
+800,211,1943,450,1,Baht,Thailand,Belgium
+800,211,1944,0,1,Baht,Thailand,Belgium
+800,211,1945,0,1,Baht,Thailand,Belgium
+800,211,1946,880958,1,Baht,Thailand,Belgium
+800,211,1947,22346042,1,Baht,Thailand,Belgium
+800,212,1929,0,1,Baht,Thailand,Luxembourg
+800,212,1930,0,1,Baht,Thailand,Luxembourg
+800,212,1931,0,1,Baht,Thailand,Luxembourg
+800,212,1932,0,1,Baht,Thailand,Luxembourg
+800,212,1933,0,1,Baht,Thailand,Luxembourg
+800,212,1934,0,1,Baht,Thailand,Luxembourg
+800,212,1935,0,1,Baht,Thailand,Luxembourg
+800,212,1936,0,1,Baht,Thailand,Luxembourg
+800,212,1937,0,1,Baht,Thailand,Luxembourg
+800,212,1938,0,1,Baht,Thailand,Luxembourg
+800,212,1939,0,1,Baht,Thailand,Luxembourg
+800,212,1940,0,1,Baht,Thailand,Luxembourg
+800,212,1941,0,1,Baht,Thailand,Luxembourg
+800,212,1942,0,1,Baht,Thailand,Luxembourg
+800,212,1943,0,1,Baht,Thailand,Luxembourg
+800,212,1944,0,1,Baht,Thailand,Luxembourg
+800,212,1945,0,1,Baht,Thailand,Luxembourg
+800,212,1946,0,1,Baht,Thailand,Luxembourg
+800,212,1947,405433,1,Baht,Thailand,Luxembourg
+800,220,1929,0,1,Baht,Thailand,France
+800,220,1930,3720021,1,Baht,Thailand,France
+800,220,1931,1488144,1,Baht,Thailand,France
+800,220,1932,864813,1,Baht,Thailand,France
+800,220,1933,778319,1,Baht,Thailand,France
+800,220,1934,733826,1,Baht,Thailand,France
+800,220,1935,628718,1,Baht,Thailand,France
+800,220,1936,749408,1,Baht,Thailand,France
+800,220,1937,730154,1,Baht,Thailand,France
+800,220,1938,845475,1,Baht,Thailand,France
+800,220,1939,968547,1,Baht,Thailand,France
+800,220,1940,337251,1,Baht,Thailand,France
+800,220,1941,2690,1,Baht,Thailand,France
+800,220,1942,157,1,Baht,Thailand,France
+800,220,1943,0,1,Baht,Thailand,France
+800,220,1944,0,1,Baht,Thailand,France
+800,220,1945,0,1,Baht,Thailand,France
+800,220,1946,82520,1,Baht,Thailand,France
+800,220,1947,3036155,1,Baht,Thailand,France
+800,225,1929,0,1,Baht,Thailand,Switzerland
+800,225,1930,1482177,1,Baht,Thailand,Switzerland
+800,225,1931,1606042,1,Baht,Thailand,Switzerland
+800,225,1932,1509720,1,Baht,Thailand,Switzerland
+800,225,1933,1132439,1,Baht,Thailand,Switzerland
+800,225,1934,1074877,1,Baht,Thailand,Switzerland
+800,225,1935,1377202,1,Baht,Thailand,Switzerland
+800,225,1936,1467182,1,Baht,Thailand,Switzerland
+800,225,1937,2236250,1,Baht,Thailand,Switzerland
+800,225,1938,2915528,1,Baht,Thailand,Switzerland
+800,225,1939,2516370,1,Baht,Thailand,Switzerland
+800,225,1940,1550145,1,Baht,Thailand,Switzerland
+800,225,1941,1611815,1,Baht,Thailand,Switzerland
+800,225,1942,32157,1,Baht,Thailand,Switzerland
+800,225,1943,1610,1,Baht,Thailand,Switzerland
+800,225,1944,0,1,Baht,Thailand,Switzerland
+800,225,1945,0,1,Baht,Thailand,Switzerland
+800,225,1946,2971833,1,Baht,Thailand,Switzerland
+800,225,1947,12976889,1,Baht,Thailand,Switzerland
+800,230,1929,0,1,Baht,Thailand,Spain
+800,230,1930,17694,1,Baht,Thailand,Spain
+800,230,1931,9480,1,Baht,Thailand,Spain
+800,230,1932,3204,1,Baht,Thailand,Spain
+800,230,1933,1445,1,Baht,Thailand,Spain
+800,230,1934,6827,1,Baht,Thailand,Spain
+800,230,1935,11022,1,Baht,Thailand,Spain
+800,230,1936,6348,1,Baht,Thailand,Spain
+800,230,1937,2347,1,Baht,Thailand,Spain
+800,230,1938,4834,1,Baht,Thailand,Spain
+800,230,1939,1845,1,Baht,Thailand,Spain
+800,230,1940,7598,1,Baht,Thailand,Spain
+800,230,1941,1630,1,Baht,Thailand,Spain
+800,230,1942,0,1,Baht,Thailand,Spain
+800,230,1943,0,1,Baht,Thailand,Spain
+800,230,1944,0,1,Baht,Thailand,Spain
+800,230,1945,0,1,Baht,Thailand,Spain
+800,230,1946,14272,1,Baht,Thailand,Spain
+800,230,1947,401137,1,Baht,Thailand,Spain
+800,231,1929,0,1,Baht,Thailand,Gibraltar
+800,231,1930,910,1,Baht,Thailand,Gibraltar
+800,231,1931,212,1,Baht,Thailand,Gibraltar
+800,231,1932,606,1,Baht,Thailand,Gibraltar
+800,231,1933,106,1,Baht,Thailand,Gibraltar
+800,231,1934,0,1,Baht,Thailand,Gibraltar
+800,231,1935,197,1,Baht,Thailand,Gibraltar
+800,231,1936,0,1,Baht,Thailand,Gibraltar
+800,231,1937,0,1,Baht,Thailand,Gibraltar
+800,231,1938,0,1,Baht,Thailand,Gibraltar
+800,231,1939,0,1,Baht,Thailand,Gibraltar
+800,231,1940,0,1,Baht,Thailand,Gibraltar
+800,231,1941,0,1,Baht,Thailand,Gibraltar
+800,231,1942,0,1,Baht,Thailand,Gibraltar
+800,231,1943,0,1,Baht,Thailand,Gibraltar
+800,231,1944,0,1,Baht,Thailand,Gibraltar
+800,231,1945,0,1,Baht,Thailand,Gibraltar
+800,231,1946,0,1,Baht,Thailand,Gibraltar
+800,231,1947,0,1,Baht,Thailand,Gibraltar
+800,235,1929,0,1,Baht,Thailand,Portugal
+800,235,1930,1678,1,Baht,Thailand,Portugal
+800,235,1931,6,1,Baht,Thailand,Portugal
+800,235,1932,418,1,Baht,Thailand,Portugal
+800,235,1933,176,1,Baht,Thailand,Portugal
+800,235,1934,1807,1,Baht,Thailand,Portugal
+800,235,1935,130,1,Baht,Thailand,Portugal
+800,235,1936,1071,1,Baht,Thailand,Portugal
+800,235,1937,0,1,Baht,Thailand,Portugal
+800,235,1938,1218,1,Baht,Thailand,Portugal
+800,235,1939,859,1,Baht,Thailand,Portugal
+800,235,1940,31676,1,Baht,Thailand,Portugal
+800,235,1941,19784,1,Baht,Thailand,Portugal
+800,235,1942,0,1,Baht,Thailand,Portugal
+800,235,1943,0,1,Baht,Thailand,Portugal
+800,235,1944,0,1,Baht,Thailand,Portugal
+800,235,1945,0,1,Baht,Thailand,Portugal
+800,235,1946,7251,1,Baht,Thailand,Portugal
+800,235,1947,215037,1,Baht,Thailand,Portugal
+800,255,1929,0,1,Baht,Thailand,Germany
+800,255,1930,7603746,1,Baht,Thailand,Germany
+800,255,1931,3991668,1,Baht,Thailand,Germany
+800,255,1932,3156866,1,Baht,Thailand,Germany
+800,255,1933,3050311,1,Baht,Thailand,Germany
+800,255,1934,3582083,1,Baht,Thailand,Germany
+800,255,1935,4656659,1,Baht,Thailand,Germany
+800,255,1936,5940543,1,Baht,Thailand,Germany
+800,255,1937,6966059,1,Baht,Thailand,Germany
+800,255,1938,8479509,1,Baht,Thailand,Germany
+800,255,1939,6039402,1,Baht,Thailand,Germany
+800,255,1940,35654,1,Baht,Thailand,Germany
+800,255,1941,105297,1,Baht,Thailand,Germany
+800,255,1942,2283036,1,Baht,Thailand,Germany
+800,255,1943,1563105,1,Baht,Thailand,Germany
+800,255,1944,2324116,1,Baht,Thailand,Germany
+800,255,1945,0,1,Baht,Thailand,Germany
+800,255,1946,83,1,Baht,Thailand,Germany
+800,255,1947,430884,1,Baht,Thailand,Germany
+800,290,1929,0,1,Baht,Thailand,Poland
+800,290,1930,47293,1,Baht,Thailand,Poland
+800,290,1931,0,1,Baht,Thailand,Poland
+800,290,1932,3971,1,Baht,Thailand,Poland
+800,290,1933,0,1,Baht,Thailand,Poland
+800,290,1934,0,1,Baht,Thailand,Poland
+800,290,1935,3,1,Baht,Thailand,Poland
+800,290,1936,5683,1,Baht,Thailand,Poland
+800,290,1937,11221,1,Baht,Thailand,Poland
+800,290,1938,32357,1,Baht,Thailand,Poland
+800,290,1939,115605,1,Baht,Thailand,Poland
+800,290,1940,0,1,Baht,Thailand,Poland
+800,290,1941,1,1,Baht,Thailand,Poland
+800,290,1942,0,1,Baht,Thailand,Poland
+800,290,1943,0,1,Baht,Thailand,Poland
+800,290,1944,0,1,Baht,Thailand,Poland
+800,290,1945,0,1,Baht,Thailand,Poland
+800,290,1946,0,1,Baht,Thailand,Poland
+800,290,1947,1,1,Baht,Thailand,Poland
+800,305,1929,0,1,Baht,Thailand,Austria
+800,305,1930,63741,1,Baht,Thailand,Austria
+800,305,1931,19220,1,Baht,Thailand,Austria
+800,305,1932,21261,1,Baht,Thailand,Austria
+800,305,1933,17925,1,Baht,Thailand,Austria
+800,305,1934,22576,1,Baht,Thailand,Austria
+800,305,1935,14556,1,Baht,Thailand,Austria
+800,305,1936,12252,1,Baht,Thailand,Austria
+800,305,1937,18030,1,Baht,Thailand,Austria
+800,305,1938,35323,1,Baht,Thailand,Austria
+800,305,1939,3716,1,Baht,Thailand,Austria
+800,305,1940,0,1,Baht,Thailand,Austria
+800,305,1941,0,1,Baht,Thailand,Austria
+800,305,1942,0,1,Baht,Thailand,Austria
+800,305,1943,0,1,Baht,Thailand,Austria
+800,305,1944,0,1,Baht,Thailand,Austria
+800,305,1945,0,1,Baht,Thailand,Austria
+800,305,1946,0,1,Baht,Thailand,Austria
+800,305,1947,680,1,Baht,Thailand,Austria
+800,310,1929,0,1,Baht,Thailand,Hungary
+800,310,1930,7273,1,Baht,Thailand,Hungary
+800,310,1931,9400,1,Baht,Thailand,Hungary
+800,310,1932,2374,1,Baht,Thailand,Hungary
+800,310,1933,3082,1,Baht,Thailand,Hungary
+800,310,1934,1455,1,Baht,Thailand,Hungary
+800,310,1935,2615,1,Baht,Thailand,Hungary
+800,310,1936,5234,1,Baht,Thailand,Hungary
+800,310,1937,7788,1,Baht,Thailand,Hungary
+800,310,1938,12725,1,Baht,Thailand,Hungary
+800,310,1939,18971,1,Baht,Thailand,Hungary
+800,310,1940,5607,1,Baht,Thailand,Hungary
+800,310,1941,29463,1,Baht,Thailand,Hungary
+800,310,1942,0,1,Baht,Thailand,Hungary
+800,310,1943,0,1,Baht,Thailand,Hungary
+800,310,1944,0,1,Baht,Thailand,Hungary
+800,310,1945,0,1,Baht,Thailand,Hungary
+800,310,1946,0,1,Baht,Thailand,Hungary
+800,310,1947,0,1,Baht,Thailand,Hungary
+800,315,1929,0,1,Baht,Thailand,Czechoslovakia
+800,315,1930,521664,1,Baht,Thailand,Czechoslovakia
+800,315,1931,341405,1,Baht,Thailand,Czechoslovakia
+800,315,1932,62155,1,Baht,Thailand,Czechoslovakia
+800,315,1933,39083,1,Baht,Thailand,Czechoslovakia
+800,315,1934,58066,1,Baht,Thailand,Czechoslovakia
+800,315,1935,33356,1,Baht,Thailand,Czechoslovakia
+800,315,1936,28289,1,Baht,Thailand,Czechoslovakia
+800,315,1937,590714,1,Baht,Thailand,Czechoslovakia
+800,315,1938,115873,1,Baht,Thailand,Czechoslovakia
+800,315,1939,148563,1,Baht,Thailand,Czechoslovakia
+800,315,1940,203346,1,Baht,Thailand,Czechoslovakia
+800,315,1941,2133,1,Baht,Thailand,Czechoslovakia
+800,315,1942,0,1,Baht,Thailand,Czechoslovakia
+800,315,1943,0,1,Baht,Thailand,Czechoslovakia
+800,315,1944,0,1,Baht,Thailand,Czechoslovakia
+800,315,1945,0,1,Baht,Thailand,Czechoslovakia
+800,315,1946,0,1,Baht,Thailand,Czechoslovakia
+800,315,1947,253317,1,Baht,Thailand,Czechoslovakia
+800,325,1929,0,1,Baht,Thailand,Italy
+800,325,1930,1268899,1,Baht,Thailand,Italy
+800,325,1931,707701,1,Baht,Thailand,Italy
+800,325,1932,739844,1,Baht,Thailand,Italy
+800,325,1933,380482,1,Baht,Thailand,Italy
+800,325,1934,250397,1,Baht,Thailand,Italy
+800,325,1935,208452,1,Baht,Thailand,Italy
+800,325,1936,95535,1,Baht,Thailand,Italy
+800,325,1937,152515,1,Baht,Thailand,Italy
+800,325,1938,351239,1,Baht,Thailand,Italy
+800,325,1939,511943,1,Baht,Thailand,Italy
+800,325,1940,415527,1,Baht,Thailand,Italy
+800,325,1941,452395,1,Baht,Thailand,Italy
+800,325,1942,4690,1,Baht,Thailand,Italy
+800,325,1943,0,1,Baht,Thailand,Italy
+800,325,1944,0,1,Baht,Thailand,Italy
+800,325,1945,0,1,Baht,Thailand,Italy
+800,325,1946,169575,1,Baht,Thailand,Italy
+800,325,1947,4942798,1,Baht,Thailand,Italy
+800,338,1929,0,1,Baht,Thailand,Malta
+800,338,1930,0,1,Baht,Thailand,Malta
+800,338,1931,0,1,Baht,Thailand,Malta
+800,338,1932,0,1,Baht,Thailand,Malta
+800,338,1933,0,1,Baht,Thailand,Malta
+800,338,1934,0,1,Baht,Thailand,Malta
+800,338,1935,0,1,Baht,Thailand,Malta
+800,338,1936,0,1,Baht,Thailand,Malta
+800,338,1937,0,1,Baht,Thailand,Malta
+800,338,1938,0,1,Baht,Thailand,Malta
+800,338,1939,0,1,Baht,Thailand,Malta
+800,338,1940,0,1,Baht,Thailand,Malta
+800,338,1941,0,1,Baht,Thailand,Malta
+800,338,1942,0,1,Baht,Thailand,Malta
+800,338,1943,0,1,Baht,Thailand,Malta
+800,338,1944,0,1,Baht,Thailand,Malta
+800,338,1945,0,1,Baht,Thailand,Malta
+800,338,1946,0,1,Baht,Thailand,Malta
+800,338,1947,0,1,Baht,Thailand,Malta
+800,339,1929,0,1,Baht,Thailand,Albania
+800,339,1930,0,1,Baht,Thailand,Albania
+800,339,1931,0,1,Baht,Thailand,Albania
+800,339,1932,0,1,Baht,Thailand,Albania
+800,339,1933,0,1,Baht,Thailand,Albania
+800,339,1934,0,1,Baht,Thailand,Albania
+800,339,1935,0,1,Baht,Thailand,Albania
+800,339,1936,0,1,Baht,Thailand,Albania
+800,339,1937,0,1,Baht,Thailand,Albania
+800,339,1938,0,1,Baht,Thailand,Albania
+800,339,1939,0,1,Baht,Thailand,Albania
+800,339,1940,0,1,Baht,Thailand,Albania
+800,339,1941,0,1,Baht,Thailand,Albania
+800,339,1942,0,1,Baht,Thailand,Albania
+800,339,1943,0,1,Baht,Thailand,Albania
+800,339,1944,0,1,Baht,Thailand,Albania
+800,339,1945,0,1,Baht,Thailand,Albania
+800,339,1946,0,1,Baht,Thailand,Albania
+800,339,1947,10,1,Baht,Thailand,Albania
+800,345,1929,0,1,Baht,Thailand,Yugoslavia
+800,345,1930,2272,1,Baht,Thailand,Yugoslavia
+800,345,1931,2425,1,Baht,Thailand,Yugoslavia
+800,345,1932,3486,1,Baht,Thailand,Yugoslavia
+800,345,1933,6,1,Baht,Thailand,Yugoslavia
+800,345,1934,12,1,Baht,Thailand,Yugoslavia
+800,345,1935,171,1,Baht,Thailand,Yugoslavia
+800,345,1936,1917,1,Baht,Thailand,Yugoslavia
+800,345,1937,6595,1,Baht,Thailand,Yugoslavia
+800,345,1938,2583,1,Baht,Thailand,Yugoslavia
+800,345,1939,171,1,Baht,Thailand,Yugoslavia
+800,345,1940,2806,1,Baht,Thailand,Yugoslavia
+800,345,1941,0,1,Baht,Thailand,Yugoslavia
+800,345,1942,0,1,Baht,Thailand,Yugoslavia
+800,345,1943,0,1,Baht,Thailand,Yugoslavia
+800,345,1944,0,1,Baht,Thailand,Yugoslavia
+800,345,1945,0,1,Baht,Thailand,Yugoslavia
+800,345,1946,0,1,Baht,Thailand,Yugoslavia
+800,345,1947,2,1,Baht,Thailand,Yugoslavia
+800,350,1929,0,1,Baht,Thailand,Greece
+800,350,1930,0,1,Baht,Thailand,Greece
+800,350,1931,0,1,Baht,Thailand,Greece
+800,350,1932,181,1,Baht,Thailand,Greece
+800,350,1933,0,1,Baht,Thailand,Greece
+800,350,1934,0,1,Baht,Thailand,Greece
+800,350,1935,1860,1,Baht,Thailand,Greece
+800,350,1936,464,1,Baht,Thailand,Greece
+800,350,1937,19686,1,Baht,Thailand,Greece
+800,350,1938,230,1,Baht,Thailand,Greece
+800,350,1939,251,1,Baht,Thailand,Greece
+800,350,1940,2,1,Baht,Thailand,Greece
+800,350,1941,53,1,Baht,Thailand,Greece
+800,350,1942,0,1,Baht,Thailand,Greece
+800,350,1943,0,1,Baht,Thailand,Greece
+800,350,1944,0,1,Baht,Thailand,Greece
+800,350,1945,0,1,Baht,Thailand,Greece
+800,350,1946,0,1,Baht,Thailand,Greece
+800,350,1947,98,1,Baht,Thailand,Greece
+800,352,1929,0,1,Baht,Thailand,Cyprus
+800,352,1930,0,1,Baht,Thailand,Cyprus
+800,352,1931,0,1,Baht,Thailand,Cyprus
+800,352,1932,0,1,Baht,Thailand,Cyprus
+800,352,1933,0,1,Baht,Thailand,Cyprus
+800,352,1934,0,1,Baht,Thailand,Cyprus
+800,352,1935,0,1,Baht,Thailand,Cyprus
+800,352,1936,0,1,Baht,Thailand,Cyprus
+800,352,1937,214,1,Baht,Thailand,Cyprus
+800,352,1938,21997,1,Baht,Thailand,Cyprus
+800,352,1939,40776,1,Baht,Thailand,Cyprus
+800,352,1940,184,1,Baht,Thailand,Cyprus
+800,352,1941,33849,1,Baht,Thailand,Cyprus
+800,352,1942,0,1,Baht,Thailand,Cyprus
+800,352,1943,0,1,Baht,Thailand,Cyprus
+800,352,1944,0,1,Baht,Thailand,Cyprus
+800,352,1945,0,1,Baht,Thailand,Cyprus
+800,352,1946,259498,1,Baht,Thailand,Cyprus
+800,352,1947,404686,1,Baht,Thailand,Cyprus
+800,355,1929,0,1,Baht,Thailand,Bulgaria
+800,355,1930,0,1,Baht,Thailand,Bulgaria
+800,355,1931,0,1,Baht,Thailand,Bulgaria
+800,355,1932,0,1,Baht,Thailand,Bulgaria
+800,355,1933,0,1,Baht,Thailand,Bulgaria
+800,355,1934,0,1,Baht,Thailand,Bulgaria
+800,355,1935,0,1,Baht,Thailand,Bulgaria
+800,355,1936,0,1,Baht,Thailand,Bulgaria
+800,355,1937,0,1,Baht,Thailand,Bulgaria
+800,355,1938,0,1,Baht,Thailand,Bulgaria
+800,355,1939,6,1,Baht,Thailand,Bulgaria
+800,355,1940,1,1,Baht,Thailand,Bulgaria
+800,355,1941,0,1,Baht,Thailand,Bulgaria
+800,355,1942,0,1,Baht,Thailand,Bulgaria
+800,355,1943,0,1,Baht,Thailand,Bulgaria
+800,355,1944,0,1,Baht,Thailand,Bulgaria
+800,355,1945,0,1,Baht,Thailand,Bulgaria
+800,355,1946,0,1,Baht,Thailand,Bulgaria
+800,355,1947,0,1,Baht,Thailand,Bulgaria
+800,360,1929,0,1,Baht,Thailand,Romania
+800,360,1930,0,1,Baht,Thailand,Romania
+800,360,1931,0,1,Baht,Thailand,Romania
+800,360,1932,0,1,Baht,Thailand,Romania
+800,360,1933,0,1,Baht,Thailand,Romania
+800,360,1934,0,1,Baht,Thailand,Romania
+800,360,1935,0,1,Baht,Thailand,Romania
+800,360,1936,0,1,Baht,Thailand,Romania
+800,360,1937,4,1,Baht,Thailand,Romania
+800,360,1938,0,1,Baht,Thailand,Romania
+800,360,1939,0,1,Baht,Thailand,Romania
+800,360,1940,1,1,Baht,Thailand,Romania
+800,360,1941,0,1,Baht,Thailand,Romania
+800,360,1942,0,1,Baht,Thailand,Romania
+800,360,1943,0,1,Baht,Thailand,Romania
+800,360,1944,0,1,Baht,Thailand,Romania
+800,360,1945,0,1,Baht,Thailand,Romania
+800,360,1946,0,1,Baht,Thailand,Romania
+800,360,1947,210,1,Baht,Thailand,Romania
+800,365,1929,0,1,Baht,Thailand,Russia
+800,365,1930,4007,1,Baht,Thailand,Russia
+800,365,1931,24704,1,Baht,Thailand,Russia
+800,365,1932,0,1,Baht,Thailand,Russia
+800,365,1933,0,1,Baht,Thailand,Russia
+800,365,1934,5,1,Baht,Thailand,Russia
+800,365,1935,130,1,Baht,Thailand,Russia
+800,365,1936,0,1,Baht,Thailand,Russia
+800,365,1937,29,1,Baht,Thailand,Russia
+800,365,1938,0,1,Baht,Thailand,Russia
+800,365,1939,0,1,Baht,Thailand,Russia
+800,365,1940,500,1,Baht,Thailand,Russia
+800,365,1941,0,1,Baht,Thailand,Russia
+800,365,1942,0,1,Baht,Thailand,Russia
+800,365,1943,0,1,Baht,Thailand,Russia
+800,365,1944,0,1,Baht,Thailand,Russia
+800,365,1945,0,1,Baht,Thailand,Russia
+800,365,1946,0,1,Baht,Thailand,Russia
+800,365,1947,0,1,Baht,Thailand,Russia
+800,366,1929,0,1,Baht,Thailand,Estonia
+800,366,1930,0,1,Baht,Thailand,Estonia
+800,366,1931,840,1,Baht,Thailand,Estonia
+800,366,1932,0,1,Baht,Thailand,Estonia
+800,366,1933,0,1,Baht,Thailand,Estonia
+800,366,1934,4230,1,Baht,Thailand,Estonia
+800,366,1935,0,1,Baht,Thailand,Estonia
+800,366,1936,0,1,Baht,Thailand,Estonia
+800,366,1937,0,1,Baht,Thailand,Estonia
+800,366,1938,0,1,Baht,Thailand,Estonia
+800,366,1939,0,1,Baht,Thailand,Estonia
+800,366,1940,0,1,Baht,Thailand,Estonia
+800,366,1941,0,1,Baht,Thailand,Estonia
+800,366,1942,0,1,Baht,Thailand,Estonia
+800,366,1943,0,1,Baht,Thailand,Estonia
+800,366,1944,0,1,Baht,Thailand,Estonia
+800,366,1945,0,1,Baht,Thailand,Estonia
+800,366,1946,0,1,Baht,Thailand,Estonia
+800,366,1947,0,1,Baht,Thailand,Estonia
+800,367,1929,0,1,Baht,Thailand,Latvia
+800,367,1930,0,1,Baht,Thailand,Latvia
+800,367,1931,0,1,Baht,Thailand,Latvia
+800,367,1932,0,1,Baht,Thailand,Latvia
+800,367,1933,0,1,Baht,Thailand,Latvia
+800,367,1934,0,1,Baht,Thailand,Latvia
+800,367,1935,0,1,Baht,Thailand,Latvia
+800,367,1936,0,1,Baht,Thailand,Latvia
+800,367,1937,0,1,Baht,Thailand,Latvia
+800,367,1938,0,1,Baht,Thailand,Latvia
+800,367,1939,0,1,Baht,Thailand,Latvia
+800,367,1940,0,1,Baht,Thailand,Latvia
+800,367,1941,0,1,Baht,Thailand,Latvia
+800,367,1942,0,1,Baht,Thailand,Latvia
+800,367,1943,0,1,Baht,Thailand,Latvia
+800,367,1944,0,1,Baht,Thailand,Latvia
+800,367,1945,0,1,Baht,Thailand,Latvia
+800,367,1946,0,1,Baht,Thailand,Latvia
+800,367,1947,0,1,Baht,Thailand,Latvia
+800,375,1929,0,1,Baht,Thailand,Finland
+800,375,1930,0,1,Baht,Thailand,Finland
+800,375,1931,0,1,Baht,Thailand,Finland
+800,375,1932,2675,1,Baht,Thailand,Finland
+800,375,1933,21311,1,Baht,Thailand,Finland
+800,375,1934,52744,1,Baht,Thailand,Finland
+800,375,1935,40549,1,Baht,Thailand,Finland
+800,375,1936,63265,1,Baht,Thailand,Finland
+800,375,1937,43026,1,Baht,Thailand,Finland
+800,375,1938,74680,1,Baht,Thailand,Finland
+800,375,1939,69125,1,Baht,Thailand,Finland
+800,375,1940,0,1,Baht,Thailand,Finland
+800,375,1941,0,1,Baht,Thailand,Finland
+800,375,1942,29,1,Baht,Thailand,Finland
+800,375,1943,0,1,Baht,Thailand,Finland
+800,375,1944,0,1,Baht,Thailand,Finland
+800,375,1945,0,1,Baht,Thailand,Finland
+800,375,1946,0,1,Baht,Thailand,Finland
+800,375,1947,20757,1,Baht,Thailand,Finland
+800,380,1929,0,1,Baht,Thailand,Sweden
+800,380,1930,584377,1,Baht,Thailand,Sweden
+800,380,1931,343247,1,Baht,Thailand,Sweden
+800,380,1932,214296,1,Baht,Thailand,Sweden
+800,380,1933,125209,1,Baht,Thailand,Sweden
+800,380,1934,134471,1,Baht,Thailand,Sweden
+800,380,1935,168566,1,Baht,Thailand,Sweden
+800,380,1936,186564,1,Baht,Thailand,Sweden
+800,380,1937,189351,1,Baht,Thailand,Sweden
+800,380,1938,374865,1,Baht,Thailand,Sweden
+800,380,1939,370033,1,Baht,Thailand,Sweden
+800,380,1940,207255,1,Baht,Thailand,Sweden
+800,380,1941,17545,1,Baht,Thailand,Sweden
+800,380,1942,2468,1,Baht,Thailand,Sweden
+800,380,1943,0,1,Baht,Thailand,Sweden
+800,380,1944,0,1,Baht,Thailand,Sweden
+800,380,1945,0,1,Baht,Thailand,Sweden
+800,380,1946,1201840,1,Baht,Thailand,Sweden
+800,380,1947,1216369,1,Baht,Thailand,Sweden
+800,385,1929,0,1,Baht,Thailand,Norway
+800,385,1930,278707,1,Baht,Thailand,Norway
+800,385,1931,118397,1,Baht,Thailand,Norway
+800,385,1932,136538,1,Baht,Thailand,Norway
+800,385,1933,75258,1,Baht,Thailand,Norway
+800,385,1934,217059,1,Baht,Thailand,Norway
+800,385,1935,133268,1,Baht,Thailand,Norway
+800,385,1936,142830,1,Baht,Thailand,Norway
+800,385,1937,211271,1,Baht,Thailand,Norway
+800,385,1938,337283,1,Baht,Thailand,Norway
+800,385,1939,279604,1,Baht,Thailand,Norway
+800,385,1940,71239,1,Baht,Thailand,Norway
+800,385,1941,2064,1,Baht,Thailand,Norway
+800,385,1942,0,1,Baht,Thailand,Norway
+800,385,1943,0,1,Baht,Thailand,Norway
+800,385,1944,0,1,Baht,Thailand,Norway
+800,385,1945,0,1,Baht,Thailand,Norway
+800,385,1946,967579,1,Baht,Thailand,Norway
+800,385,1947,2571224,1,Baht,Thailand,Norway
+800,390,1929,0,1,Baht,Thailand,Denmark
+800,390,1930,961852,1,Baht,Thailand,Denmark
+800,390,1931,2579237,1,Baht,Thailand,Denmark
+800,390,1932,1229206,1,Baht,Thailand,Denmark
+800,390,1933,977291,1,Baht,Thailand,Denmark
+800,390,1934,995060,1,Baht,Thailand,Denmark
+800,390,1935,880444,1,Baht,Thailand,Denmark
+800,390,1936,1060152,1,Baht,Thailand,Denmark
+800,390,1937,1308809,1,Baht,Thailand,Denmark
+800,390,1938,2009466,1,Baht,Thailand,Denmark
+800,390,1939,3743240,1,Baht,Thailand,Denmark
+800,390,1940,476358,1,Baht,Thailand,Denmark
+800,390,1941,1787,1,Baht,Thailand,Denmark
+800,390,1942,0,1,Baht,Thailand,Denmark
+800,390,1943,0,1,Baht,Thailand,Denmark
+800,390,1944,0,1,Baht,Thailand,Denmark
+800,390,1945,0,1,Baht,Thailand,Denmark
+800,390,1946,5524363,1,Baht,Thailand,Denmark
+800,390,1947,19211731,1,Baht,Thailand,Denmark
+800,395,1929,0,1,Baht,Thailand,Iceland
+800,395,1930,0,1,Baht,Thailand,Iceland
+800,395,1931,0,1,Baht,Thailand,Iceland
+800,395,1932,0,1,Baht,Thailand,Iceland
+800,395,1933,0,1,Baht,Thailand,Iceland
+800,395,1934,0,1,Baht,Thailand,Iceland
+800,395,1935,0,1,Baht,Thailand,Iceland
+800,395,1936,0,1,Baht,Thailand,Iceland
+800,395,1937,0,1,Baht,Thailand,Iceland
+800,395,1938,0,1,Baht,Thailand,Iceland
+800,395,1939,0,1,Baht,Thailand,Iceland
+800,395,1940,0,1,Baht,Thailand,Iceland
+800,395,1941,0,1,Baht,Thailand,Iceland
+800,395,1942,0,1,Baht,Thailand,Iceland
+800,395,1943,0,1,Baht,Thailand,Iceland
+800,395,1944,0,1,Baht,Thailand,Iceland
+800,395,1945,0,1,Baht,Thailand,Iceland
+800,395,1946,0,1,Baht,Thailand,Iceland
+800,395,1947,0,1,Baht,Thailand,Iceland
+800,490,1929,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1930,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1931,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1932,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1933,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1934,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1935,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1936,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1937,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1938,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1939,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1940,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1941,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1942,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1943,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1944,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1945,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1946,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,490,1947,0,1,Baht,Thailand,"Congo, Dem. Republic"
+800,530,1929,0,1,Baht,Thailand,Ethiopia
+800,530,1930,0,1,Baht,Thailand,Ethiopia
+800,530,1931,0,1,Baht,Thailand,Ethiopia
+800,530,1932,0,1,Baht,Thailand,Ethiopia
+800,530,1933,0,1,Baht,Thailand,Ethiopia
+800,530,1934,0,1,Baht,Thailand,Ethiopia
+800,530,1935,2000,1,Baht,Thailand,Ethiopia
+800,530,1936,0,1,Baht,Thailand,Ethiopia
+800,530,1937,0,1,Baht,Thailand,Ethiopia
+800,530,1938,0,1,Baht,Thailand,Ethiopia
+800,530,1939,0,1,Baht,Thailand,Ethiopia
+800,530,1940,0,1,Baht,Thailand,Ethiopia
+800,530,1941,0,1,Baht,Thailand,Ethiopia
+800,530,1942,0,1,Baht,Thailand,Ethiopia
+800,530,1943,0,1,Baht,Thailand,Ethiopia
+800,530,1944,0,1,Baht,Thailand,Ethiopia
+800,530,1945,0,1,Baht,Thailand,Ethiopia
+800,530,1946,0,1,Baht,Thailand,Ethiopia
+800,530,1947,0,1,Baht,Thailand,Ethiopia
+800,560,1929,0,1,Baht,Thailand,South Africa
+800,560,1930,2675,1,Baht,Thailand,South Africa
+800,560,1931,5895,1,Baht,Thailand,South Africa
+800,560,1932,6205,1,Baht,Thailand,South Africa
+800,560,1933,9484,1,Baht,Thailand,South Africa
+800,560,1934,6164,1,Baht,Thailand,South Africa
+800,560,1935,7163,1,Baht,Thailand,South Africa
+800,560,1936,25662,1,Baht,Thailand,South Africa
+800,560,1937,22057,1,Baht,Thailand,South Africa
+800,560,1938,47874,1,Baht,Thailand,South Africa
+800,560,1939,78768,1,Baht,Thailand,South Africa
+800,560,1940,192302,1,Baht,Thailand,South Africa
+800,560,1941,115529,1,Baht,Thailand,South Africa
+800,560,1942,10,1,Baht,Thailand,South Africa
+800,560,1943,0,1,Baht,Thailand,South Africa
+800,560,1944,2800,1,Baht,Thailand,South Africa
+800,560,1945,0,1,Baht,Thailand,South Africa
+800,560,1946,27498,1,Baht,Thailand,South Africa
+800,560,1947,418224,1,Baht,Thailand,South Africa
+800,580,1929,0,1,Baht,Thailand,Madagascar
+800,580,1930,0,1,Baht,Thailand,Madagascar
+800,580,1931,0,1,Baht,Thailand,Madagascar
+800,580,1932,0,1,Baht,Thailand,Madagascar
+800,580,1933,0,1,Baht,Thailand,Madagascar
+800,580,1934,0,1,Baht,Thailand,Madagascar
+800,580,1935,0,1,Baht,Thailand,Madagascar
+800,580,1936,0,1,Baht,Thailand,Madagascar
+800,580,1937,50,1,Baht,Thailand,Madagascar
+800,580,1938,0,1,Baht,Thailand,Madagascar
+800,580,1939,0,1,Baht,Thailand,Madagascar
+800,580,1940,0,1,Baht,Thailand,Madagascar
+800,580,1941,0,1,Baht,Thailand,Madagascar
+800,580,1942,0,1,Baht,Thailand,Madagascar
+800,580,1943,0,1,Baht,Thailand,Madagascar
+800,580,1944,0,1,Baht,Thailand,Madagascar
+800,580,1945,0,1,Baht,Thailand,Madagascar
+800,580,1946,0,1,Baht,Thailand,Madagascar
+800,580,1947,0,1,Baht,Thailand,Madagascar
+800,585,1929,0,1,Baht,Thailand,Reunion
+800,585,1930,0,1,Baht,Thailand,Reunion
+800,585,1931,0,1,Baht,Thailand,Reunion
+800,585,1932,0,1,Baht,Thailand,Reunion
+800,585,1933,0,1,Baht,Thailand,Reunion
+800,585,1934,0,1,Baht,Thailand,Reunion
+800,585,1935,0,1,Baht,Thailand,Reunion
+800,585,1936,0,1,Baht,Thailand,Reunion
+800,585,1937,0,1,Baht,Thailand,Reunion
+800,585,1938,0,1,Baht,Thailand,Reunion
+800,585,1939,0,1,Baht,Thailand,Reunion
+800,585,1940,0,1,Baht,Thailand,Reunion
+800,585,1941,0,1,Baht,Thailand,Reunion
+800,585,1942,0,1,Baht,Thailand,Reunion
+800,585,1943,0,1,Baht,Thailand,Reunion
+800,585,1944,0,1,Baht,Thailand,Reunion
+800,585,1945,0,1,Baht,Thailand,Reunion
+800,585,1946,0,1,Baht,Thailand,Reunion
+800,585,1947,0,1,Baht,Thailand,Reunion
+800,590,1929,0,1,Baht,Thailand,Mauritius
+800,590,1930,0,1,Baht,Thailand,Mauritius
+800,590,1931,0,1,Baht,Thailand,Mauritius
+800,590,1932,0,1,Baht,Thailand,Mauritius
+800,590,1933,0,1,Baht,Thailand,Mauritius
+800,590,1934,0,1,Baht,Thailand,Mauritius
+800,590,1935,0,1,Baht,Thailand,Mauritius
+800,590,1936,0,1,Baht,Thailand,Mauritius
+800,590,1937,2000,1,Baht,Thailand,Mauritius
+800,590,1938,6,1,Baht,Thailand,Mauritius
+800,590,1939,12801,1,Baht,Thailand,Mauritius
+800,590,1940,1067,1,Baht,Thailand,Mauritius
+800,590,1941,3641,1,Baht,Thailand,Mauritius
+800,590,1942,0,1,Baht,Thailand,Mauritius
+800,590,1943,0,1,Baht,Thailand,Mauritius
+800,590,1944,0,1,Baht,Thailand,Mauritius
+800,590,1945,0,1,Baht,Thailand,Mauritius
+800,590,1946,0,1,Baht,Thailand,Mauritius
+800,590,1947,0,1,Baht,Thailand,Mauritius
+800,615,1929,0,1,Baht,Thailand,Algeria
+800,615,1930,73571,1,Baht,Thailand,Algeria
+800,615,1931,8811,1,Baht,Thailand,Algeria
+800,615,1932,21541,1,Baht,Thailand,Algeria
+800,615,1933,6,1,Baht,Thailand,Algeria
+800,615,1934,654,1,Baht,Thailand,Algeria
+800,615,1935,3,1,Baht,Thailand,Algeria
+800,615,1936,0,1,Baht,Thailand,Algeria
+800,615,1937,399,1,Baht,Thailand,Algeria
+800,615,1938,0,1,Baht,Thailand,Algeria
+800,615,1939,0,1,Baht,Thailand,Algeria
+800,615,1940,0,1,Baht,Thailand,Algeria
+800,615,1941,0,1,Baht,Thailand,Algeria
+800,615,1942,0,1,Baht,Thailand,Algeria
+800,615,1943,0,1,Baht,Thailand,Algeria
+800,615,1944,0,1,Baht,Thailand,Algeria
+800,615,1945,0,1,Baht,Thailand,Algeria
+800,615,1946,0,1,Baht,Thailand,Algeria
+800,615,1947,0,1,Baht,Thailand,Algeria
+800,616,1929,0,1,Baht,Thailand,Tunisia
+800,616,1930,0,1,Baht,Thailand,Tunisia
+800,616,1931,0,1,Baht,Thailand,Tunisia
+800,616,1932,0,1,Baht,Thailand,Tunisia
+800,616,1933,0,1,Baht,Thailand,Tunisia
+800,616,1934,0,1,Baht,Thailand,Tunisia
+800,616,1935,0,1,Baht,Thailand,Tunisia
+800,616,1936,0,1,Baht,Thailand,Tunisia
+800,616,1937,0,1,Baht,Thailand,Tunisia
+800,616,1938,0,1,Baht,Thailand,Tunisia
+800,616,1939,0,1,Baht,Thailand,Tunisia
+800,616,1940,0,1,Baht,Thailand,Tunisia
+800,616,1941,0,1,Baht,Thailand,Tunisia
+800,616,1942,0,1,Baht,Thailand,Tunisia
+800,616,1943,0,1,Baht,Thailand,Tunisia
+800,616,1944,0,1,Baht,Thailand,Tunisia
+800,616,1945,0,1,Baht,Thailand,Tunisia
+800,616,1946,0,1,Baht,Thailand,Tunisia
+800,616,1947,0,1,Baht,Thailand,Tunisia
+800,630,1929,0,1,Baht,Thailand,Iran
+800,630,1930,0,1,Baht,Thailand,Iran
+800,630,1931,347454,1,Baht,Thailand,Iran
+800,630,1932,159,1,Baht,Thailand,Iran
+800,630,1933,2909,1,Baht,Thailand,Iran
+800,630,1934,1330,1,Baht,Thailand,Iran
+800,630,1935,0,1,Baht,Thailand,Iran
+800,630,1936,720,1,Baht,Thailand,Iran
+800,630,1937,0,1,Baht,Thailand,Iran
+800,630,1938,855743,1,Baht,Thailand,Iran
+800,630,1939,0,1,Baht,Thailand,Iran
+800,630,1940,523444,1,Baht,Thailand,Iran
+800,630,1941,1336363,1,Baht,Thailand,Iran
+800,630,1942,0,1,Baht,Thailand,Iran
+800,630,1943,0,1,Baht,Thailand,Iran
+800,630,1944,0,1,Baht,Thailand,Iran
+800,630,1945,0,1,Baht,Thailand,Iran
+800,630,1946,757928,1,Baht,Thailand,Iran
+800,630,1947,9264080,1,Baht,Thailand,Iran
+800,640,1929,0,1,Baht,Thailand,Turkey
+800,640,1930,0,1,Baht,Thailand,Turkey
+800,640,1931,10091,1,Baht,Thailand,Turkey
+800,640,1932,144,1,Baht,Thailand,Turkey
+800,640,1933,11,1,Baht,Thailand,Turkey
+800,640,1934,0,1,Baht,Thailand,Turkey
+800,640,1935,0,1,Baht,Thailand,Turkey
+800,640,1936,0,1,Baht,Thailand,Turkey
+800,640,1937,1203,1,Baht,Thailand,Turkey
+800,640,1938,0,1,Baht,Thailand,Turkey
+800,640,1939,0,1,Baht,Thailand,Turkey
+800,640,1940,0,1,Baht,Thailand,Turkey
+800,640,1941,0,1,Baht,Thailand,Turkey
+800,640,1942,0,1,Baht,Thailand,Turkey
+800,640,1943,0,1,Baht,Thailand,Turkey
+800,640,1944,0,1,Baht,Thailand,Turkey
+800,640,1945,0,1,Baht,Thailand,Turkey
+800,640,1946,0,1,Baht,Thailand,Turkey
+800,640,1947,57832,1,Baht,Thailand,Turkey
+800,645,1929,0,1,Baht,Thailand,Iraq
+800,645,1930,0,1,Baht,Thailand,Iraq
+800,645,1931,0,1,Baht,Thailand,Iraq
+800,645,1932,0,1,Baht,Thailand,Iraq
+800,645,1933,0,1,Baht,Thailand,Iraq
+800,645,1934,0,1,Baht,Thailand,Iraq
+800,645,1935,0,1,Baht,Thailand,Iraq
+800,645,1936,0,1,Baht,Thailand,Iraq
+800,645,1937,0,1,Baht,Thailand,Iraq
+800,645,1938,15,1,Baht,Thailand,Iraq
+800,645,1939,200,1,Baht,Thailand,Iraq
+800,645,1940,1013,1,Baht,Thailand,Iraq
+800,645,1941,33,1,Baht,Thailand,Iraq
+800,645,1942,0,1,Baht,Thailand,Iraq
+800,645,1943,0,1,Baht,Thailand,Iraq
+800,645,1944,0,1,Baht,Thailand,Iraq
+800,645,1945,0,1,Baht,Thailand,Iraq
+800,645,1946,0,1,Baht,Thailand,Iraq
+800,645,1947,0,1,Baht,Thailand,Iraq
+800,651,1929,0,1,Baht,Thailand,Egypt
+800,651,1930,5042,1,Baht,Thailand,Egypt
+800,651,1931,2355,1,Baht,Thailand,Egypt
+800,651,1932,2708,1,Baht,Thailand,Egypt
+800,651,1933,1171,1,Baht,Thailand,Egypt
+800,651,1934,864,1,Baht,Thailand,Egypt
+800,651,1935,1129,1,Baht,Thailand,Egypt
+800,651,1936,1240,1,Baht,Thailand,Egypt
+800,651,1937,17114,1,Baht,Thailand,Egypt
+800,651,1938,4112,1,Baht,Thailand,Egypt
+800,651,1939,3069,1,Baht,Thailand,Egypt
+800,651,1940,108,1,Baht,Thailand,Egypt
+800,651,1941,23,1,Baht,Thailand,Egypt
+800,651,1942,0,1,Baht,Thailand,Egypt
+800,651,1943,0,1,Baht,Thailand,Egypt
+800,651,1944,0,1,Baht,Thailand,Egypt
+800,651,1945,0,1,Baht,Thailand,Egypt
+800,651,1946,1600,1,Baht,Thailand,Egypt
+800,651,1947,2397737,1,Baht,Thailand,Egypt
+800,652,1929,0,1,Baht,Thailand,Syria
+800,652,1930,0,1,Baht,Thailand,Syria
+800,652,1931,0,1,Baht,Thailand,Syria
+800,652,1932,0,1,Baht,Thailand,Syria
+800,652,1933,0,1,Baht,Thailand,Syria
+800,652,1934,0,1,Baht,Thailand,Syria
+800,652,1935,0,1,Baht,Thailand,Syria
+800,652,1936,0,1,Baht,Thailand,Syria
+800,652,1937,0,1,Baht,Thailand,Syria
+800,652,1938,31,1,Baht,Thailand,Syria
+800,652,1939,0,1,Baht,Thailand,Syria
+800,652,1940,0,1,Baht,Thailand,Syria
+800,652,1941,0,1,Baht,Thailand,Syria
+800,652,1942,0,1,Baht,Thailand,Syria
+800,652,1943,0,1,Baht,Thailand,Syria
+800,652,1944,0,1,Baht,Thailand,Syria
+800,652,1945,0,1,Baht,Thailand,Syria
+800,652,1946,0,1,Baht,Thailand,Syria
+800,652,1947,36872189,1,Baht,Thailand,Syria
+800,665,1929,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1930,376,1,Baht,Thailand,West Bank And Gaza
+800,665,1931,204,1,Baht,Thailand,West Bank And Gaza
+800,665,1932,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1933,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1934,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1935,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1936,184,1,Baht,Thailand,West Bank And Gaza
+800,665,1937,5,1,Baht,Thailand,West Bank And Gaza
+800,665,1938,1225,1,Baht,Thailand,West Bank And Gaza
+800,665,1939,950,1,Baht,Thailand,West Bank And Gaza
+800,665,1940,2971,1,Baht,Thailand,West Bank And Gaza
+800,665,1941,1269,1,Baht,Thailand,West Bank And Gaza
+800,665,1942,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1943,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1944,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1945,0,1,Baht,Thailand,West Bank And Gaza
+800,665,1946,41,1,Baht,Thailand,West Bank And Gaza
+800,665,1947,14875,1,Baht,Thailand,West Bank And Gaza
+800,675,1929,0,1,Baht,Thailand,Arabia
+800,675,1930,8,1,Baht,Thailand,Arabia
+800,675,1931,555,1,Baht,Thailand,Arabia
+800,675,1932,0,1,Baht,Thailand,Arabia
+800,675,1933,36,1,Baht,Thailand,Arabia
+800,675,1934,0,1,Baht,Thailand,Arabia
+800,675,1935,6,1,Baht,Thailand,Arabia
+800,675,1936,1003,1,Baht,Thailand,Arabia
+800,675,1937,365,1,Baht,Thailand,Arabia
+800,675,1938,1908,1,Baht,Thailand,Arabia
+800,675,1939,0,1,Baht,Thailand,Arabia
+800,675,1940,450,1,Baht,Thailand,Arabia
+800,675,1941,13,1,Baht,Thailand,Arabia
+800,675,1942,0,1,Baht,Thailand,Arabia
+800,675,1943,0,1,Baht,Thailand,Arabia
+800,675,1944,0,1,Baht,Thailand,Arabia
+800,675,1945,0,1,Baht,Thailand,Arabia
+800,675,1946,0,1,Baht,Thailand,Arabia
+800,675,1947,0,1,Baht,Thailand,Arabia
+800,681,1929,0,1,Baht,Thailand,Aden
+800,681,1930,8,1,Baht,Thailand,Aden
+800,681,1931,6,1,Baht,Thailand,Aden
+800,681,1932,2427,1,Baht,Thailand,Aden
+800,681,1933,980,1,Baht,Thailand,Aden
+800,681,1934,0,1,Baht,Thailand,Aden
+800,681,1935,176,1,Baht,Thailand,Aden
+800,681,1936,300,1,Baht,Thailand,Aden
+800,681,1937,150,1,Baht,Thailand,Aden
+800,681,1938,1350,1,Baht,Thailand,Aden
+800,681,1939,1541,1,Baht,Thailand,Aden
+800,681,1940,0,1,Baht,Thailand,Aden
+800,681,1941,0,1,Baht,Thailand,Aden
+800,681,1942,0,1,Baht,Thailand,Aden
+800,681,1943,0,1,Baht,Thailand,Aden
+800,681,1944,0,1,Baht,Thailand,Aden
+800,681,1945,0,1,Baht,Thailand,Aden
+800,681,1946,0,1,Baht,Thailand,Aden
+800,681,1947,6,1,Baht,Thailand,Aden
+800,700,1929,0,1,Baht,Thailand,Afghanistan
+800,700,1930,0,1,Baht,Thailand,Afghanistan
+800,700,1931,0,1,Baht,Thailand,Afghanistan
+800,700,1932,0,1,Baht,Thailand,Afghanistan
+800,700,1933,0,1,Baht,Thailand,Afghanistan
+800,700,1934,0,1,Baht,Thailand,Afghanistan
+800,700,1935,0,1,Baht,Thailand,Afghanistan
+800,700,1936,0,1,Baht,Thailand,Afghanistan
+800,700,1937,0,1,Baht,Thailand,Afghanistan
+800,700,1938,0,1,Baht,Thailand,Afghanistan
+800,700,1939,0,1,Baht,Thailand,Afghanistan
+800,700,1940,0,1,Baht,Thailand,Afghanistan
+800,700,1941,160584,1,Baht,Thailand,Afghanistan
+800,700,1942,0,1,Baht,Thailand,Afghanistan
+800,700,1943,0,1,Baht,Thailand,Afghanistan
+800,700,1944,0,1,Baht,Thailand,Afghanistan
+800,700,1945,0,1,Baht,Thailand,Afghanistan
+800,700,1946,0,1,Baht,Thailand,Afghanistan
+800,700,1947,0,1,Baht,Thailand,Afghanistan
+800,710,1929,0,1,Baht,Thailand,China
+800,710,1930,10335523,1,Baht,Thailand,China
+800,710,1931,6391103,1,Baht,Thailand,China
+800,710,1932,5256298,1,Baht,Thailand,China
+800,710,1933,4042274,1,Baht,Thailand,China
+800,710,1934,3994766,1,Baht,Thailand,China
+800,710,1935,4064563,1,Baht,Thailand,China
+800,710,1936,4447620,1,Baht,Thailand,China
+800,710,1937,3585738,1,Baht,Thailand,China
+800,710,1938,5242810,1,Baht,Thailand,China
+800,710,1939,6597137,1,Baht,Thailand,China
+800,710,1940,7425377,1,Baht,Thailand,China
+800,710,1941,13836930,1,Baht,Thailand,China
+800,710,1942,9105813,1,Baht,Thailand,China
+800,710,1943,21255797,1,Baht,Thailand,China
+800,710,1944,4292840,1,Baht,Thailand,China
+800,710,1945,23943,1,Baht,Thailand,China
+800,710,1946,36834340,1,Baht,Thailand,China
+800,710,1947,58489123,1,Baht,Thailand,China
+800,720,1929,0,1,Baht,Thailand,Hong Kong
+800,720,1930,30620421,1,Baht,Thailand,Hong Kong
+800,720,1931,18068977,1,Baht,Thailand,Hong Kong
+800,720,1932,15378647,1,Baht,Thailand,Hong Kong
+800,720,1933,11273419,1,Baht,Thailand,Hong Kong
+800,720,1934,12075463,1,Baht,Thailand,Hong Kong
+800,720,1935,9659942,1,Baht,Thailand,Hong Kong
+800,720,1936,10152173,1,Baht,Thailand,Hong Kong
+800,720,1937,8539502,1,Baht,Thailand,Hong Kong
+800,720,1938,13263319,1,Baht,Thailand,Hong Kong
+800,720,1939,13843035,1,Baht,Thailand,Hong Kong
+800,720,1940,15475021,1,Baht,Thailand,Hong Kong
+800,720,1941,17079217,1,Baht,Thailand,Hong Kong
+800,720,1942,799211,1,Baht,Thailand,Hong Kong
+800,720,1943,689050,1,Baht,Thailand,Hong Kong
+800,720,1944,543968,1,Baht,Thailand,Hong Kong
+800,720,1945,1714942,1,Baht,Thailand,Hong Kong
+800,720,1946,214938246,1,Baht,Thailand,Hong Kong
+800,720,1947,424293875,1,Baht,Thailand,Hong Kong
+800,730,1929,0,1,Baht,Thailand,Korea
+800,730,1930,0,1,Baht,Thailand,Korea
+800,730,1931,30,1,Baht,Thailand,Korea
+800,730,1932,9000,1,Baht,Thailand,Korea
+800,730,1933,0,1,Baht,Thailand,Korea
+800,730,1934,0,1,Baht,Thailand,Korea
+800,730,1935,0,1,Baht,Thailand,Korea
+800,730,1936,0,1,Baht,Thailand,Korea
+800,730,1937,0,1,Baht,Thailand,Korea
+800,730,1938,0,1,Baht,Thailand,Korea
+800,730,1939,0,1,Baht,Thailand,Korea
+800,730,1940,10376,1,Baht,Thailand,Korea
+800,730,1941,27945,1,Baht,Thailand,Korea
+800,730,1942,294535,1,Baht,Thailand,Korea
+800,730,1943,27859,1,Baht,Thailand,Korea
+800,730,1944,0,1,Baht,Thailand,Korea
+800,730,1945,0,1,Baht,Thailand,Korea
+800,730,1946,0,1,Baht,Thailand,Korea
+800,730,1947,0,1,Baht,Thailand,Korea
+800,740,1929,0,1,Baht,Thailand,Japan
+800,740,1930,11447500,1,Baht,Thailand,Japan
+800,740,1931,5831735,1,Baht,Thailand,Japan
+800,740,1932,9798372,1,Baht,Thailand,Japan
+800,740,1933,14648969,1,Baht,Thailand,Japan
+800,740,1934,21125280,1,Baht,Thailand,Japan
+800,740,1935,27792745,1,Baht,Thailand,Japan
+800,740,1936,28258745,1,Baht,Thailand,Japan
+800,740,1937,22097289,1,Baht,Thailand,Japan
+800,740,1938,19127030,1,Baht,Thailand,Japan
+800,740,1939,18208554,1,Baht,Thailand,Japan
+800,740,1940,20583581,1,Baht,Thailand,Japan
+800,740,1941,53477209,1,Baht,Thailand,Japan
+800,740,1942,60396205,1,Baht,Thailand,Japan
+800,740,1943,102797687,1,Baht,Thailand,Japan
+800,740,1944,36310271,1,Baht,Thailand,Japan
+800,740,1945,1397229,1,Baht,Thailand,Japan
+800,740,1946,182626,1,Baht,Thailand,Japan
+800,740,1947,300190,1,Baht,Thailand,Japan
+800,750,1929,0,1,Baht,Thailand,India
+800,750,1930,7771024,1,Baht,Thailand,India
+800,750,1931,6236807,1,Baht,Thailand,India
+800,750,1932,3744544,1,Baht,Thailand,India
+800,750,1933,6877218,1,Baht,Thailand,India
+800,750,1934,4880161,1,Baht,Thailand,India
+800,750,1935,3651128,1,Baht,Thailand,India
+800,750,1936,4689283,1,Baht,Thailand,India
+800,750,1937,4381754,1,Baht,Thailand,India
+800,750,1938,7693360,1,Baht,Thailand,India
+800,750,1939,15077960,1,Baht,Thailand,India
+800,750,1940,7756407,1,Baht,Thailand,India
+800,750,1941,6428632,1,Baht,Thailand,India
+800,750,1942,11224,1,Baht,Thailand,India
+800,750,1943,0,1,Baht,Thailand,India
+800,750,1944,0,1,Baht,Thailand,India
+800,750,1945,2510,1,Baht,Thailand,India
+800,750,1946,181254,1,Baht,Thailand,India
+800,750,1947,16969964,1,Baht,Thailand,India
+800,775,1929,0,1,Baht,Thailand,Myanmar
+800,775,1930,1508079,1,Baht,Thailand,Myanmar
+800,775,1931,709453,1,Baht,Thailand,Myanmar
+800,775,1932,198499,1,Baht,Thailand,Myanmar
+800,775,1933,118411,1,Baht,Thailand,Myanmar
+800,775,1934,442230,1,Baht,Thailand,Myanmar
+800,775,1935,426332,1,Baht,Thailand,Myanmar
+800,775,1936,98647,1,Baht,Thailand,Myanmar
+800,775,1937,96191,1,Baht,Thailand,Myanmar
+800,775,1938,122265,1,Baht,Thailand,Myanmar
+800,775,1939,137077,1,Baht,Thailand,Myanmar
+800,775,1940,184651,1,Baht,Thailand,Myanmar
+800,775,1941,114456,1,Baht,Thailand,Myanmar
+800,775,1942,477094,1,Baht,Thailand,Myanmar
+800,775,1943,10995674,1,Baht,Thailand,Myanmar
+800,775,1944,1008499,1,Baht,Thailand,Myanmar
+800,775,1945,871142,1,Baht,Thailand,Myanmar
+800,775,1946,4466956,1,Baht,Thailand,Myanmar
+800,775,1947,3376098,1,Baht,Thailand,Myanmar
+800,780,1929,0,1,Baht,Thailand,Sri Lanka
+800,780,1930,59363,1,Baht,Thailand,Sri Lanka
+800,780,1931,115361,1,Baht,Thailand,Sri Lanka
+800,780,1932,46402,1,Baht,Thailand,Sri Lanka
+800,780,1933,56934,1,Baht,Thailand,Sri Lanka
+800,780,1934,42031,1,Baht,Thailand,Sri Lanka
+800,780,1935,61127,1,Baht,Thailand,Sri Lanka
+800,780,1936,83670,1,Baht,Thailand,Sri Lanka
+800,780,1937,49810,1,Baht,Thailand,Sri Lanka
+800,780,1938,57001,1,Baht,Thailand,Sri Lanka
+800,780,1939,74729,1,Baht,Thailand,Sri Lanka
+800,780,1940,51548,1,Baht,Thailand,Sri Lanka
+800,780,1941,65590,1,Baht,Thailand,Sri Lanka
+800,780,1942,44,1,Baht,Thailand,Sri Lanka
+800,780,1943,0,1,Baht,Thailand,Sri Lanka
+800,780,1944,0,1,Baht,Thailand,Sri Lanka
+800,780,1945,0,1,Baht,Thailand,Sri Lanka
+800,780,1946,0,1,Baht,Thailand,Sri Lanka
+800,780,1947,2176523,1,Baht,Thailand,Sri Lanka
+800,810,1929,0,1,Baht,Thailand,French Indo-China
+800,810,1930,411543,1,Baht,Thailand,French Indo-China
+800,810,1931,304196,1,Baht,Thailand,French Indo-China
+800,810,1932,460178,1,Baht,Thailand,French Indo-China
+800,810,1933,495110,1,Baht,Thailand,French Indo-China
+800,810,1934,389576,1,Baht,Thailand,French Indo-China
+800,810,1935,449563,1,Baht,Thailand,French Indo-China
+800,810,1936,427379,1,Baht,Thailand,French Indo-China
+800,810,1937,631299,1,Baht,Thailand,French Indo-China
+800,810,1938,504331,1,Baht,Thailand,French Indo-China
+800,810,1939,952527,1,Baht,Thailand,French Indo-China
+800,810,1940,621614,1,Baht,Thailand,French Indo-China
+800,810,1941,799232,1,Baht,Thailand,French Indo-China
+800,810,1942,3108446,1,Baht,Thailand,French Indo-China
+800,810,1943,7264556,1,Baht,Thailand,French Indo-China
+800,810,1944,27829286,1,Baht,Thailand,French Indo-China
+800,810,1945,31624347,1,Baht,Thailand,French Indo-China
+800,810,1946,42397099,1,Baht,Thailand,French Indo-China
+800,810,1947,44182347,1,Baht,Thailand,French Indo-China
+800,823,1929,0,1,Baht,Thailand,British Borneo
+800,823,1930,1210,1,Baht,Thailand,British Borneo
+800,823,1931,299,1,Baht,Thailand,British Borneo
+800,823,1932,0,1,Baht,Thailand,British Borneo
+800,823,1933,0,1,Baht,Thailand,British Borneo
+800,823,1934,0,1,Baht,Thailand,British Borneo
+800,823,1935,8,1,Baht,Thailand,British Borneo
+800,823,1936,0,1,Baht,Thailand,British Borneo
+800,823,1937,50,1,Baht,Thailand,British Borneo
+800,823,1938,0,1,Baht,Thailand,British Borneo
+800,823,1939,10180,1,Baht,Thailand,British Borneo
+800,823,1940,0,1,Baht,Thailand,British Borneo
+800,823,1941,100,1,Baht,Thailand,British Borneo
+800,823,1942,0,1,Baht,Thailand,British Borneo
+800,823,1943,0,1,Baht,Thailand,British Borneo
+800,823,1944,0,1,Baht,Thailand,British Borneo
+800,823,1945,0,1,Baht,Thailand,British Borneo
+800,823,1946,7,1,Baht,Thailand,British Borneo
+800,823,1947,50,1,Baht,Thailand,British Borneo
+800,830,1929,0,1,Baht,Thailand,Singapore
+800,830,1930,13988621,1,Baht,Thailand,Singapore
+800,830,1931,9884496,1,Baht,Thailand,Singapore
+800,830,1932,11364718,1,Baht,Thailand,Singapore
+800,830,1933,12600655,1,Baht,Thailand,Singapore
+800,830,1934,13922310,1,Baht,Thailand,Singapore
+800,830,1935,15347887,1,Baht,Thailand,Singapore
+800,830,1936,17794522,1,Baht,Thailand,Singapore
+800,830,1937,17867471,1,Baht,Thailand,Singapore
+800,830,1938,19972855,1,Baht,Thailand,Singapore
+800,830,1939,12004738,1,Baht,Thailand,Singapore
+800,830,1940,10372670,1,Baht,Thailand,Singapore
+800,830,1941,16423415,1,Baht,Thailand,Singapore
+800,830,1942,1524135,1,Baht,Thailand,Singapore
+800,830,1943,13342580,1,Baht,Thailand,Singapore
+800,830,1944,32020996,1,Baht,Thailand,Singapore
+800,830,1945,36872547,1,Baht,Thailand,Singapore
+800,830,1946,122844632,1,Baht,Thailand,Singapore
+800,830,1947,189177857,1,Baht,Thailand,Singapore
+800,840,1929,0,1,Baht,Thailand,Philippines
+800,840,1930,256975,1,Baht,Thailand,Philippines
+800,840,1931,165613,1,Baht,Thailand,Philippines
+800,840,1932,115469,1,Baht,Thailand,Philippines
+800,840,1933,193841,1,Baht,Thailand,Philippines
+800,840,1934,175038,1,Baht,Thailand,Philippines
+800,840,1935,267509,1,Baht,Thailand,Philippines
+800,840,1936,346214,1,Baht,Thailand,Philippines
+800,840,1937,352247,1,Baht,Thailand,Philippines
+800,840,1938,342875,1,Baht,Thailand,Philippines
+800,840,1939,468025,1,Baht,Thailand,Philippines
+800,840,1940,291976,1,Baht,Thailand,Philippines
+800,840,1941,1767635,1,Baht,Thailand,Philippines
+800,840,1942,2559,1,Baht,Thailand,Philippines
+800,840,1943,222714,1,Baht,Thailand,Philippines
+800,840,1944,0,1,Baht,Thailand,Philippines
+800,840,1945,0,1,Baht,Thailand,Philippines
+800,840,1946,918362,1,Baht,Thailand,Philippines
+800,840,1947,15796842,1,Baht,Thailand,Philippines
+800,852,1929,0,1,Baht,Thailand,Dutch Borneo
+800,852,1930,114729,1,Baht,Thailand,Dutch Borneo
+800,852,1931,13390,1,Baht,Thailand,Dutch Borneo
+800,852,1932,1131,1,Baht,Thailand,Dutch Borneo
+800,852,1933,159,1,Baht,Thailand,Dutch Borneo
+800,852,1934,982,1,Baht,Thailand,Dutch Borneo
+800,852,1935,8612,1,Baht,Thailand,Dutch Borneo
+800,852,1936,283,1,Baht,Thailand,Dutch Borneo
+800,852,1937,0,1,Baht,Thailand,Dutch Borneo
+800,852,1938,0,1,Baht,Thailand,Dutch Borneo
+800,852,1939,65094,1,Baht,Thailand,Dutch Borneo
+800,852,1940,0,1,Baht,Thailand,Dutch Borneo
+800,852,1941,0,1,Baht,Thailand,Dutch Borneo
+800,852,1942,0,1,Baht,Thailand,Dutch Borneo
+800,852,1943,0,1,Baht,Thailand,Dutch Borneo
+800,852,1944,0,1,Baht,Thailand,Dutch Borneo
+800,852,1945,0,1,Baht,Thailand,Dutch Borneo
+800,852,1946,0,1,Baht,Thailand,Dutch Borneo
+800,852,1947,0,1,Baht,Thailand,Dutch Borneo
+800,900,1929,0,1,Baht,Thailand,Australia
+800,900,1930,1023208,1,Baht,Thailand,Australia
+800,900,1931,648417,1,Baht,Thailand,Australia
+800,900,1932,741386,1,Baht,Thailand,Australia
+800,900,1933,769350,1,Baht,Thailand,Australia
+800,900,1934,824736,1,Baht,Thailand,Australia
+800,900,1935,1094621,1,Baht,Thailand,Australia
+800,900,1936,1371245,1,Baht,Thailand,Australia
+800,900,1937,1121122,1,Baht,Thailand,Australia
+800,900,1938,1319077,1,Baht,Thailand,Australia
+800,900,1939,1491283,1,Baht,Thailand,Australia
+800,900,1940,1534974,1,Baht,Thailand,Australia
+800,900,1941,1416473,1,Baht,Thailand,Australia
+800,900,1942,27330,1,Baht,Thailand,Australia
+800,900,1943,77,1,Baht,Thailand,Australia
+800,900,1944,0,1,Baht,Thailand,Australia
+800,900,1945,0,1,Baht,Thailand,Australia
+800,900,1946,705848,1,Baht,Thailand,Australia
+800,900,1947,4286504,1,Baht,Thailand,Australia
+800,920,1929,0,1,Baht,Thailand,New Zealand
+800,920,1930,3935,1,Baht,Thailand,New Zealand
+800,920,1931,8,1,Baht,Thailand,New Zealand
+800,920,1932,0,1,Baht,Thailand,New Zealand
+800,920,1933,0,1,Baht,Thailand,New Zealand
+800,920,1934,3,1,Baht,Thailand,New Zealand
+800,920,1935,0,1,Baht,Thailand,New Zealand
+800,920,1936,4,1,Baht,Thailand,New Zealand
+800,920,1937,9966,1,Baht,Thailand,New Zealand
+800,920,1938,4436,1,Baht,Thailand,New Zealand
+800,920,1939,13919,1,Baht,Thailand,New Zealand
+800,920,1940,542,1,Baht,Thailand,New Zealand
+800,920,1941,42393,1,Baht,Thailand,New Zealand
+800,920,1942,0,1,Baht,Thailand,New Zealand
+800,920,1943,0,1,Baht,Thailand,New Zealand
+800,920,1944,0,1,Baht,Thailand,New Zealand
+800,920,1945,0,1,Baht,Thailand,New Zealand
+800,920,1946,54,1,Baht,Thailand,New Zealand
+800,920,1947,389583,1,Baht,Thailand,New Zealand
+800,1050,1929,0,1,Baht,Thailand,British West Indies
+800,1050,1930,609,1,Baht,Thailand,British West Indies
+800,1050,1931,801,1,Baht,Thailand,British West Indies
+800,1050,1932,322,1,Baht,Thailand,British West Indies
+800,1050,1933,270,1,Baht,Thailand,British West Indies
+800,1050,1934,272,1,Baht,Thailand,British West Indies
+800,1050,1935,72,1,Baht,Thailand,British West Indies
+800,1050,1936,45,1,Baht,Thailand,British West Indies
+800,1050,1937,9,1,Baht,Thailand,British West Indies
+800,1050,1938,0,1,Baht,Thailand,British West Indies
+800,1050,1939,13,1,Baht,Thailand,British West Indies
+800,1050,1940,932,1,Baht,Thailand,British West Indies
+800,1050,1941,0,1,Baht,Thailand,British West Indies
+800,1050,1942,0,1,Baht,Thailand,British West Indies
+800,1050,1943,0,1,Baht,Thailand,British West Indies
+800,1050,1944,0,1,Baht,Thailand,British West Indies
+800,1050,1945,0,1,Baht,Thailand,British West Indies
+800,1050,1946,0,1,Baht,Thailand,British West Indies
+800,1050,1947,15,1,Baht,Thailand,British West Indies
+800,8272,1929,0,1,Baht,Thailand,Penang
+800,8272,1930,10943585,1,Baht,Thailand,Penang
+800,8272,1931,7228549,1,Baht,Thailand,Penang
+800,8272,1932,5724494,1,Baht,Thailand,Penang
+800,8272,1933,7645364,1,Baht,Thailand,Penang
+800,8272,1934,8458899,1,Baht,Thailand,Penang
+800,8272,1935,7741177,1,Baht,Thailand,Penang
+800,8272,1936,8703044,1,Baht,Thailand,Penang
+800,8272,1937,11785700,1,Baht,Thailand,Penang
+800,8272,1938,11902191,1,Baht,Thailand,Penang
+800,8272,1939,10338654,1,Baht,Thailand,Penang
+800,8272,1940,10530219,1,Baht,Thailand,Penang
+800,8272,1941,11233248,1,Baht,Thailand,Penang
+800,8272,1942,10802099,1,Baht,Thailand,Penang
+800,8272,1943,18442020,1,Baht,Thailand,Penang
+800,8272,1944,15568331,1,Baht,Thailand,Penang
+800,8272,1945,10757078,1,Baht,Thailand,Penang
+800,8272,1946,41931083,1,Baht,Thailand,Penang
+800,8272,1947,40913017,1,Baht,Thailand,Penang
+800,,1929,0,1,Baht,Thailand,
+800,,1930,171810952,1,Baht,Thailand,
+800,,1931,113559379,1,Baht,Thailand,
+800,,1932,101746257,1,Baht,Thailand,
+800,,1933,105309950,1,Baht,Thailand,
+800,,1934,114372788,1,Baht,Thailand,
+800,,1935,121327778,1,Baht,Thailand,
+800,,1936,116442874,1,Baht,Thailand,
+800,,1937,118284585,1,Baht,Thailand,
+800,,1938,136672526,1,Baht,Thailand,
+800,,1939,201315938,1,Baht,Thailand,
+800,,1940,130165598,1,Baht,Thailand,
+800,,1941,178840560,1,Baht,Thailand,
+800,,1942,110141819,1,Baht,Thailand,
+800,,1943,228693962,1,Baht,Thailand,
+800,,1944,193446622,1,Baht,Thailand,
+800,,1945,135325059,1,Baht,Thailand,
+800,,1946,603424670,1,Baht,Thailand,
+800,,1947,1404823806,1,Baht,Thailand,

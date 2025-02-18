@@ -1,0 +1,506 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+53,2,1925,427438,1,834681,Barbados,United States
+53,2,1926,465917,1,664242,Barbados,United States
+53,2,1927,453710,1,764320,Barbados,United States
+53,2,1928,405094,1,827350,Barbados,United States
+53,2,1929,400289,1,691216,Barbados,United States
+53,2,1930,340908,1,582244,Barbados,United States
+53,2,1932,168217,1,749509,Barbados,United States
+53,5,1925,382,1,834681,Barbados,"Virgin Islands, U.S."
+53,5,1926,872,1,664242,Barbados,"Virgin Islands, U.S."
+53,5,1927,419,1,764320,Barbados,"Virgin Islands, U.S."
+53,5,1928,234,1,827350,Barbados,"Virgin Islands, U.S."
+53,5,1929,129,1,691216,Barbados,"Virgin Islands, U.S."
+53,5,1930,162,1,582244,Barbados,"Virgin Islands, U.S."
+53,5,1932,408,1,749509,Barbados,"Virgin Islands, U.S."
+53,6,1925,0,1,834681,Barbados,Puerto Rico
+53,6,1926,0,1,664242,Barbados,Puerto Rico
+53,6,1927,0,1,764320,Barbados,Puerto Rico
+53,6,1928,0,1,827350,Barbados,Puerto Rico
+53,6,1929,0,1,691216,Barbados,Puerto Rico
+53,6,1930,1040,1,582244,Barbados,Puerto Rico
+53,6,1932,0,1,749509,Barbados,Puerto Rico
+53,20,1925,479979,1,834681,Barbados,Canada
+53,20,1926,442764,1,664242,Barbados,Canada
+53,20,1927,439350,1,764320,Barbados,Canada
+53,20,1928,485110,1,827350,Barbados,Canada
+53,20,1929,381704,1,691216,Barbados,Canada
+53,20,1930,286583,1,582244,Barbados,Canada
+53,20,1932,248560,1,749509,Barbados,Canada
+53,21,1925,48752,1,834681,Barbados,Newfoundland
+53,21,1926,35666,1,664242,Barbados,Newfoundland
+53,21,1927,51590,1,764320,Barbados,Newfoundland
+53,21,1928,58923,1,827350,Barbados,Newfoundland
+53,21,1929,52517,1,691216,Barbados,Newfoundland
+53,21,1930,48726,1,582244,Barbados,Newfoundland
+53,21,1932,41490,1,749509,Barbados,Newfoundland
+53,30,1925,1671,1,834681,Barbados,Bermuda
+53,30,1926,2541,1,664242,Barbados,Bermuda
+53,30,1927,736,1,764320,Barbados,Bermuda
+53,30,1928,965,1,827350,Barbados,Bermuda
+53,30,1929,340,1,691216,Barbados,Bermuda
+53,30,1930,331,1,582244,Barbados,Bermuda
+53,30,1932,258,1,749509,Barbados,Bermuda
+53,31,1925,0,1,834681,Barbados,Bahamas
+53,31,1926,0,1,664242,Barbados,Bahamas
+53,31,1927,0,1,764320,Barbados,Bahamas
+53,31,1928,0,1,827350,Barbados,Bahamas
+53,31,1929,0,1,691216,Barbados,Bahamas
+53,31,1930,0,1,582244,Barbados,Bahamas
+53,31,1932,0,1,749509,Barbados,Bahamas
+53,40,1925,3,1,834681,Barbados,Cuba
+53,40,1926,0,1,664242,Barbados,Cuba
+53,40,1927,14,1,764320,Barbados,Cuba
+53,40,1928,0,1,827350,Barbados,Cuba
+53,40,1929,0,1,691216,Barbados,Cuba
+53,40,1930,0,1,582244,Barbados,Cuba
+53,40,1932,88,1,749509,Barbados,Cuba
+53,42,1925,0,1,834681,Barbados,Dominican Republic
+53,42,1926,0,1,664242,Barbados,Dominican Republic
+53,42,1927,0,1,764320,Barbados,Dominican Republic
+53,42,1928,0,1,827350,Barbados,Dominican Republic
+53,42,1929,0,1,691216,Barbados,Dominican Republic
+53,42,1930,0,1,582244,Barbados,Dominican Republic
+53,42,1932,327,1,749509,Barbados,Dominican Republic
+53,51,1925,1199,1,834681,Barbados,Jamaica
+53,51,1926,1380,1,664242,Barbados,Jamaica
+53,51,1927,2231,1,764320,Barbados,Jamaica
+53,51,1928,2459,1,827350,Barbados,Jamaica
+53,51,1929,4048,1,691216,Barbados,Jamaica
+53,51,1930,1714,1,582244,Barbados,Jamaica
+53,51,1932,518,1,749509,Barbados,Jamaica
+53,52,1925,76327,1,834681,Barbados,Trinidad And Tobago
+53,52,1926,88344,1,664242,Barbados,Trinidad And Tobago
+53,52,1927,69652,1,764320,Barbados,Trinidad And Tobago
+53,52,1928,63515,1,827350,Barbados,Trinidad And Tobago
+53,52,1929,53116,1,691216,Barbados,Trinidad And Tobago
+53,52,1930,60591,1,582244,Barbados,Trinidad And Tobago
+53,52,1932,64297,1,749509,Barbados,Trinidad And Tobago
+53,52,1934,840062,,,Barbados,Trinidad And Tobago
+53,54,1925,7259,1,834681,Barbados,Dominica
+53,54,1926,5252,1,664242,Barbados,Dominica
+53,54,1927,6235,1,764320,Barbados,Dominica
+53,54,1928,4110,1,827350,Barbados,Dominica
+53,54,1929,3241,1,691216,Barbados,Dominica
+53,54,1930,1299,1,582244,Barbados,Dominica
+53,54,1932,1308,1,749509,Barbados,Dominica
+53,55,1925,6935,1,834681,Barbados,Grenada
+53,55,1926,5972,1,664242,Barbados,Grenada
+53,55,1927,7652,1,764320,Barbados,Grenada
+53,55,1928,5177,1,827350,Barbados,Grenada
+53,55,1929,5583,1,691216,Barbados,Grenada
+53,55,1930,4487,1,582244,Barbados,Grenada
+53,55,1932,3052,1,749509,Barbados,Grenada
+53,56,1925,16103,1,834681,Barbados,St. Lucia
+53,56,1926,17489,1,664242,Barbados,St. Lucia
+53,56,1927,13160,1,764320,Barbados,St. Lucia
+53,56,1928,18847,1,827350,Barbados,St. Lucia
+53,56,1929,16325,1,691216,Barbados,St. Lucia
+53,56,1930,16827,1,582244,Barbados,St. Lucia
+53,56,1932,13148,1,749509,Barbados,St. Lucia
+53,57,1925,10187,1,834681,Barbados,St. Vincent And The Grenadines
+53,57,1926,13719,1,664242,Barbados,St. Vincent And The Grenadines
+53,57,1927,12988,1,764320,Barbados,St. Vincent And The Grenadines
+53,57,1928,11085,1,827350,Barbados,St. Vincent And The Grenadines
+53,57,1929,10156,1,691216,Barbados,St. Vincent And The Grenadines
+53,57,1930,10046,1,582244,Barbados,St. Vincent And The Grenadines
+53,57,1932,5945,1,749509,Barbados,St. Vincent And The Grenadines
+53,58,1925,1151,1,834681,Barbados,Antigua And Barbuda
+53,58,1926,1020,1,664242,Barbados,Antigua And Barbuda
+53,58,1927,1293,1,764320,Barbados,Antigua And Barbuda
+53,58,1928,534,1,827350,Barbados,Antigua And Barbuda
+53,58,1929,417,1,691216,Barbados,Antigua And Barbuda
+53,58,1930,240,1,582244,Barbados,Antigua And Barbuda
+53,58,1932,1370,1,749509,Barbados,Antigua And Barbuda
+53,59,1925,4493,1,834681,Barbados,Montserrat
+53,59,1926,4561,1,664242,Barbados,Montserrat
+53,59,1927,5088,1,764320,Barbados,Montserrat
+53,59,1928,2601,1,827350,Barbados,Montserrat
+53,59,1929,4326,1,691216,Barbados,Montserrat
+53,59,1930,3327,1,582244,Barbados,Montserrat
+53,59,1932,1877,1,749509,Barbados,Montserrat
+53,60,1925,2128,1,834681,Barbados,St. Kitts And Nevis
+53,60,1926,2644,1,664242,Barbados,St. Kitts And Nevis
+53,60,1927,4596,1,764320,Barbados,St. Kitts And Nevis
+53,60,1928,3720,1,827350,Barbados,St. Kitts And Nevis
+53,60,1929,5821,1,691216,Barbados,St. Kitts And Nevis
+53,60,1930,7152,1,582244,Barbados,St. Kitts And Nevis
+53,60,1932,5195,1,749509,Barbados,St. Kitts And Nevis
+53,68,1925,19784,1,834681,Barbados,Netherlands Antilles
+53,68,1926,11618,1,664242,Barbados,Netherlands Antilles
+53,68,1927,9209,1,764320,Barbados,Netherlands Antilles
+53,68,1928,4043,1,827350,Barbados,Netherlands Antilles
+53,68,1929,20406,1,691216,Barbados,Netherlands Antilles
+53,68,1930,11318,1,582244,Barbados,Netherlands Antilles
+53,68,1932,10342,1,749509,Barbados,Netherlands Antilles
+53,80,1925,0,1,834681,Barbados,Belize
+53,80,1926,2,1,664242,Barbados,Belize
+53,80,1927,0,1,764320,Barbados,Belize
+53,80,1928,0,1,827350,Barbados,Belize
+53,80,1929,0,1,691216,Barbados,Belize
+53,80,1930,0,1,582244,Barbados,Belize
+53,80,1932,0,1,749509,Barbados,Belize
+53,96,1925,942,1,834681,Barbados,Panama Canal Zone
+53,96,1926,1168,1,664242,Barbados,Panama Canal Zone
+53,96,1927,479,1,764320,Barbados,Panama Canal Zone
+53,96,1928,1803,1,827350,Barbados,Panama Canal Zone
+53,96,1929,723,1,691216,Barbados,Panama Canal Zone
+53,96,1930,447,1,582244,Barbados,Panama Canal Zone
+53,96,1932,963,1,749509,Barbados,Panama Canal Zone
+53,100,1925,23687,1,834681,Barbados,Colombia
+53,100,1926,8793,1,664242,Barbados,Colombia
+53,100,1927,17993,1,764320,Barbados,Colombia
+53,100,1928,5381,1,827350,Barbados,Colombia
+53,100,1929,4070,1,691216,Barbados,Colombia
+53,100,1930,3806,1,582244,Barbados,Colombia
+53,100,1932,0,1,749509,Barbados,Colombia
+53,101,1925,8062,1,834681,Barbados,Venezuela
+53,101,1926,7641,1,664242,Barbados,Venezuela
+53,101,1927,6322,1,764320,Barbados,Venezuela
+53,101,1928,7126,1,827350,Barbados,Venezuela
+53,101,1929,6298,1,691216,Barbados,Venezuela
+53,101,1930,4580,1,582244,Barbados,Venezuela
+53,101,1932,9094,1,749509,Barbados,Venezuela
+53,110,1925,100275,1,834681,Barbados,Guyana
+53,110,1926,90851,1,664242,Barbados,Guyana
+53,110,1927,144362,1,764320,Barbados,Guyana
+53,110,1928,161564,1,827350,Barbados,Guyana
+53,110,1929,113394,1,691216,Barbados,Guyana
+53,110,1930,95405,1,582244,Barbados,Guyana
+53,110,1932,101538,1,749509,Barbados,Guyana
+53,115,1925,3498,1,834681,Barbados,Suriname
+53,115,1926,3223,1,664242,Barbados,Suriname
+53,115,1927,4344,1,764320,Barbados,Suriname
+53,115,1928,2571,1,827350,Barbados,Suriname
+53,115,1929,4240,1,691216,Barbados,Suriname
+53,115,1930,3246,1,582244,Barbados,Suriname
+53,115,1932,1392,1,749509,Barbados,Suriname
+53,120,1925,1656,1,834681,Barbados,French Guiana
+53,120,1926,0,1,664242,Barbados,French Guiana
+53,120,1927,0,1,764320,Barbados,French Guiana
+53,120,1928,0,1,827350,Barbados,French Guiana
+53,120,1929,0,1,691216,Barbados,French Guiana
+53,120,1930,0,1,582244,Barbados,French Guiana
+53,120,1932,0,1,749509,Barbados,French Guiana
+53,130,1925,0,1,834681,Barbados,Ecuador
+53,130,1926,0,1,664242,Barbados,Ecuador
+53,130,1927,0,1,764320,Barbados,Ecuador
+53,130,1928,0,1,827350,Barbados,Ecuador
+53,130,1929,0,1,691216,Barbados,Ecuador
+53,130,1930,0,1,582244,Barbados,Ecuador
+53,130,1932,99,1,749509,Barbados,Ecuador
+53,140,1925,10854,1,834681,Barbados,Brazil
+53,140,1926,8826,1,664242,Barbados,Brazil
+53,140,1927,8709,1,764320,Barbados,Brazil
+53,140,1928,7620,1,827350,Barbados,Brazil
+53,140,1929,10378,1,691216,Barbados,Brazil
+53,140,1930,4612,1,582244,Barbados,Brazil
+53,140,1932,81,1,749509,Barbados,Brazil
+53,155,1925,0,1,834681,Barbados,Chile
+53,155,1926,0,1,664242,Barbados,Chile
+53,155,1927,0,1,764320,Barbados,Chile
+53,155,1928,0,1,827350,Barbados,Chile
+53,155,1929,0,1,691216,Barbados,Chile
+53,155,1930,0,1,582244,Barbados,Chile
+53,155,1932,250,1,749509,Barbados,Chile
+53,160,1925,20036,1,834681,Barbados,Argentina
+53,160,1926,21905,1,664242,Barbados,Argentina
+53,160,1927,35310,1,764320,Barbados,Argentina
+53,160,1928,49421,1,827350,Barbados,Argentina
+53,160,1929,33008,1,691216,Barbados,Argentina
+53,160,1930,31788,1,582244,Barbados,Argentina
+53,160,1932,29205,1,749509,Barbados,Argentina
+53,165,1925,54,1,834681,Barbados,Uruguay
+53,165,1926,45,1,664242,Barbados,Uruguay
+53,165,1927,0,1,764320,Barbados,Uruguay
+53,165,1928,0,1,827350,Barbados,Uruguay
+53,165,1929,68,1,691216,Barbados,Uruguay
+53,165,1930,323,1,582244,Barbados,Uruguay
+53,165,1932,0,1,749509,Barbados,Uruguay
+53,200,1925,834681,1,834681,Barbados,United Kingdom
+53,200,1926,664242,1,664242,Barbados,United Kingdom
+53,200,1927,764320,1,764320,Barbados,United Kingdom
+53,200,1928,827350,1,827350,Barbados,United Kingdom
+53,200,1929,691216,1,691216,Barbados,United Kingdom
+53,200,1930,582244,1,582244,Barbados,United Kingdom
+53,200,1932,749509,1,749509,Barbados,United Kingdom
+53,210,1925,74617,1,834681,Barbados,Netherlands
+53,210,1926,65948,1,664242,Barbados,Netherlands
+53,210,1927,55059,1,764320,Barbados,Netherlands
+53,210,1928,64378,1,827350,Barbados,Netherlands
+53,210,1929,46277,1,691216,Barbados,Netherlands
+53,210,1930,57087,1,582244,Barbados,Netherlands
+53,210,1932,44535,1,749509,Barbados,Netherlands
+53,211,1925,466,1,834681,Barbados,Belgium
+53,211,1926,719,1,664242,Barbados,Belgium
+53,211,1927,2687,1,764320,Barbados,Belgium
+53,211,1928,1646,1,827350,Barbados,Belgium
+53,211,1929,2001,1,691216,Barbados,Belgium
+53,211,1930,793,1,582244,Barbados,Belgium
+53,211,1932,1863,1,749509,Barbados,Belgium
+53,220,1925,5365,1,834681,Barbados,France
+53,220,1926,10660,1,664242,Barbados,France
+53,220,1927,11848,1,764320,Barbados,France
+53,220,1928,22169,1,827350,Barbados,France
+53,220,1929,30534,1,691216,Barbados,France
+53,220,1930,28237,1,582244,Barbados,France
+53,220,1932,16830,1,749509,Barbados,France
+53,225,1925,1225,1,834681,Barbados,Switzerland
+53,225,1926,2727,1,664242,Barbados,Switzerland
+53,225,1927,2573,1,764320,Barbados,Switzerland
+53,225,1928,2675,1,827350,Barbados,Switzerland
+53,225,1929,2044,1,691216,Barbados,Switzerland
+53,225,1930,1307,1,582244,Barbados,Switzerland
+53,225,1932,1042,1,749509,Barbados,Switzerland
+53,230,1925,4515,1,834681,Barbados,Spain
+53,230,1926,3907,1,664242,Barbados,Spain
+53,230,1927,3336,1,764320,Barbados,Spain
+53,230,1928,1694,1,827350,Barbados,Spain
+53,230,1929,1570,1,691216,Barbados,Spain
+53,230,1930,1141,1,582244,Barbados,Spain
+53,230,1932,1473,1,749509,Barbados,Spain
+53,235,1925,514,1,834681,Barbados,Portugal
+53,235,1926,347,1,664242,Barbados,Portugal
+53,235,1927,191,1,764320,Barbados,Portugal
+53,235,1928,376,1,827350,Barbados,Portugal
+53,235,1929,922,1,691216,Barbados,Portugal
+53,235,1930,665,1,582244,Barbados,Portugal
+53,235,1932,858,1,749509,Barbados,Portugal
+53,255,1925,17821,1,834681,Barbados,Germany
+53,255,1926,20322,1,664242,Barbados,Germany
+53,255,1927,24599,1,764320,Barbados,Germany
+53,255,1928,27592,1,827350,Barbados,Germany
+53,255,1929,24047,1,691216,Barbados,Germany
+53,255,1930,37754,1,582244,Barbados,Germany
+53,255,1932,27181,1,749509,Barbados,Germany
+53,290,1925,0,1,834681,Barbados,Poland
+53,290,1926,0,1,664242,Barbados,Poland
+53,290,1927,0,1,764320,Barbados,Poland
+53,290,1928,0,1,827350,Barbados,Poland
+53,290,1929,0,1,691216,Barbados,Poland
+53,290,1930,0,1,582244,Barbados,Poland
+53,290,1932,141,1,749509,Barbados,Poland
+53,305,1925,37,1,834681,Barbados,Austria
+53,305,1926,647,1,664242,Barbados,Austria
+53,305,1927,266,1,764320,Barbados,Austria
+53,305,1928,183,1,827350,Barbados,Austria
+53,305,1929,0,1,691216,Barbados,Austria
+53,305,1930,0,1,582244,Barbados,Austria
+53,305,1932,220,1,749509,Barbados,Austria
+53,315,1925,0,1,834681,Barbados,Czechoslovakia
+53,315,1926,0,1,664242,Barbados,Czechoslovakia
+53,315,1927,0,1,764320,Barbados,Czechoslovakia
+53,315,1928,0,1,827350,Barbados,Czechoslovakia
+53,315,1929,0,1,691216,Barbados,Czechoslovakia
+53,315,1930,0,1,582244,Barbados,Czechoslovakia
+53,315,1932,450,1,749509,Barbados,Czechoslovakia
+53,325,1925,572,1,834681,Barbados,Italy
+53,325,1926,2625,1,664242,Barbados,Italy
+53,325,1927,1476,1,764320,Barbados,Italy
+53,325,1928,2170,1,827350,Barbados,Italy
+53,325,1929,1479,1,691216,Barbados,Italy
+53,325,1930,1458,1,582244,Barbados,Italy
+53,325,1932,1536,1,749509,Barbados,Italy
+53,345,1925,0,1,834681,Barbados,Yugoslavia
+53,345,1926,0,1,664242,Barbados,Yugoslavia
+53,345,1927,0,1,764320,Barbados,Yugoslavia
+53,345,1928,0,1,827350,Barbados,Yugoslavia
+53,345,1929,0,1,691216,Barbados,Yugoslavia
+53,345,1930,0,1,582244,Barbados,Yugoslavia
+53,345,1932,14,1,749509,Barbados,Yugoslavia
+53,350,1925,19,1,834681,Barbados,Greece
+53,350,1926,94,1,664242,Barbados,Greece
+53,350,1927,223,1,764320,Barbados,Greece
+53,350,1928,477,1,827350,Barbados,Greece
+53,350,1929,374,1,691216,Barbados,Greece
+53,350,1930,249,1,582244,Barbados,Greece
+53,350,1932,659,1,749509,Barbados,Greece
+53,365,1925,0,1,834681,Barbados,Russia
+53,365,1926,0,1,664242,Barbados,Russia
+53,365,1927,92,1,764320,Barbados,Russia
+53,365,1928,0,1,827350,Barbados,Russia
+53,365,1929,0,1,691216,Barbados,Russia
+53,365,1930,0,1,582244,Barbados,Russia
+53,365,1932,32,1,749509,Barbados,Russia
+53,367,1925,0,1,834681,Barbados,Latvia
+53,367,1926,0,1,664242,Barbados,Latvia
+53,367,1927,0,1,764320,Barbados,Latvia
+53,367,1928,0,1,827350,Barbados,Latvia
+53,367,1929,0,1,691216,Barbados,Latvia
+53,367,1930,0,1,582244,Barbados,Latvia
+53,367,1932,3,1,749509,Barbados,Latvia
+53,375,1925,0,1,834681,Barbados,Finland
+53,375,1926,0,1,664242,Barbados,Finland
+53,375,1927,0,1,764320,Barbados,Finland
+53,375,1928,0,1,827350,Barbados,Finland
+53,375,1929,0,1,691216,Barbados,Finland
+53,375,1930,0,1,582244,Barbados,Finland
+53,375,1932,85,1,749509,Barbados,Finland
+53,380,1925,1333,1,834681,Barbados,Sweden
+53,380,1926,1163,1,664242,Barbados,Sweden
+53,380,1927,2100,1,764320,Barbados,Sweden
+53,380,1928,637,1,827350,Barbados,Sweden
+53,380,1929,2613,1,691216,Barbados,Sweden
+53,380,1930,1271,1,582244,Barbados,Sweden
+53,380,1932,1928,1,749509,Barbados,Sweden
+53,385,1925,53,1,834681,Barbados,Norway
+53,385,1926,530,1,664242,Barbados,Norway
+53,385,1927,615,1,764320,Barbados,Norway
+53,385,1928,176,1,827350,Barbados,Norway
+53,385,1929,0,1,691216,Barbados,Norway
+53,385,1930,214,1,582244,Barbados,Norway
+53,385,1932,346,1,749509,Barbados,Norway
+53,390,1925,840,1,834681,Barbados,Denmark
+53,390,1926,1644,1,664242,Barbados,Denmark
+53,390,1927,1539,1,764320,Barbados,Denmark
+53,390,1928,1362,1,827350,Barbados,Denmark
+53,390,1929,1713,1,691216,Barbados,Denmark
+53,390,1930,1418,1,582244,Barbados,Denmark
+53,390,1932,2051,1,749509,Barbados,Denmark
+53,401,1925,0,1,834681,Barbados,Madeira
+53,401,1926,0,1,664242,Barbados,Madeira
+53,401,1927,0,1,764320,Barbados,Madeira
+53,401,1928,6007,1,827350,Barbados,Madeira
+53,401,1929,4301,1,691216,Barbados,Madeira
+53,401,1930,4030,1,582244,Barbados,Madeira
+53,401,1932,3391,1,749509,Barbados,Madeira
+53,410,1925,0,1,834681,Barbados,Canary Islands
+53,410,1926,0,1,664242,Barbados,Canary Islands
+53,410,1927,0,1,764320,Barbados,Canary Islands
+53,410,1928,0,1,827350,Barbados,Canary Islands
+53,410,1929,0,1,691216,Barbados,Canary Islands
+53,410,1930,0,1,582244,Barbados,Canary Islands
+53,410,1932,55,1,749509,Barbados,Canary Islands
+53,590,1925,0,1,834681,Barbados,Mauritius
+53,590,1926,0,1,664242,Barbados,Mauritius
+53,590,1927,0,1,764320,Barbados,Mauritius
+53,590,1928,0,1,827350,Barbados,Mauritius
+53,590,1929,0,1,691216,Barbados,Mauritius
+53,590,1930,0,1,582244,Barbados,Mauritius
+53,590,1932,3,1,749509,Barbados,Mauritius
+53,640,1925,15,1,834681,Barbados,Turkey
+53,640,1926,0,1,664242,Barbados,Turkey
+53,640,1927,0,1,764320,Barbados,Turkey
+53,640,1928,0,1,827350,Barbados,Turkey
+53,640,1929,0,1,691216,Barbados,Turkey
+53,640,1930,0,1,582244,Barbados,Turkey
+53,640,1932,0,1,749509,Barbados,Turkey
+53,651,1925,0,1,834681,Barbados,Egypt
+53,651,1926,0,1,664242,Barbados,Egypt
+53,651,1927,0,1,764320,Barbados,Egypt
+53,651,1928,0,1,827350,Barbados,Egypt
+53,651,1929,0,1,691216,Barbados,Egypt
+53,651,1930,225,1,582244,Barbados,Egypt
+53,651,1932,0,1,749509,Barbados,Egypt
+53,710,1925,531,1,834681,Barbados,China
+53,710,1926,441,1,664242,Barbados,China
+53,710,1927,224,1,764320,Barbados,China
+53,710,1928,594,1,827350,Barbados,China
+53,710,1929,688,1,691216,Barbados,China
+53,710,1930,555,1,582244,Barbados,China
+53,710,1932,557,1,749509,Barbados,China
+53,720,1925,0,1,834681,Barbados,Hong Kong
+53,720,1926,0,1,664242,Barbados,Hong Kong
+53,720,1927,37,1,764320,Barbados,Hong Kong
+53,720,1928,255,1,827350,Barbados,Hong Kong
+53,720,1929,162,1,691216,Barbados,Hong Kong
+53,720,1930,167,1,582244,Barbados,Hong Kong
+53,720,1932,156,1,749509,Barbados,Hong Kong
+53,740,1925,381,1,834681,Barbados,Japan
+53,740,1926,2939,1,664242,Barbados,Japan
+53,740,1927,2848,1,764320,Barbados,Japan
+53,740,1928,4185,1,827350,Barbados,Japan
+53,740,1929,3210,1,691216,Barbados,Japan
+53,740,1930,3310,1,582244,Barbados,Japan
+53,740,1932,20440,1,749509,Barbados,Japan
+53,750,1925,70810,1,834681,Barbados,India
+53,750,1926,124179,1,664242,Barbados,India
+53,750,1927,99795,1,764320,Barbados,India
+53,750,1928,63855,1,827350,Barbados,India
+53,750,1929,86350,1,691216,Barbados,India
+53,750,1930,55756,1,582244,Barbados,India
+53,750,1932,43243,1,749509,Barbados,India
+53,780,1925,0,1,834681,Barbados,Sri Lanka
+53,780,1926,0,1,664242,Barbados,Sri Lanka
+53,780,1927,1233,1,764320,Barbados,Sri Lanka
+53,780,1928,3452,1,827350,Barbados,Sri Lanka
+53,780,1929,1368,1,691216,Barbados,Sri Lanka
+53,780,1930,2131,1,582244,Barbados,Sri Lanka
+53,780,1932,4834,1,749509,Barbados,Sri Lanka
+53,800,1925,0,1,834681,Barbados,Thailand
+53,800,1926,0,1,664242,Barbados,Thailand
+53,800,1927,0,1,764320,Barbados,Thailand
+53,800,1928,0,1,827350,Barbados,Thailand
+53,800,1929,0,1,691216,Barbados,Thailand
+53,800,1930,54,1,582244,Barbados,Thailand
+53,800,1932,0,1,749509,Barbados,Thailand
+53,827,1925,0,1,834681,Barbados,Straits Settlement
+53,827,1926,225,1,664242,Barbados,Straits Settlement
+53,827,1927,0,1,764320,Barbados,Straits Settlement
+53,827,1928,128,1,827350,Barbados,Straits Settlement
+53,827,1929,394,1,691216,Barbados,Straits Settlement
+53,827,1930,194,1,582244,Barbados,Straits Settlement
+53,827,1932,848,1,749509,Barbados,Straits Settlement
+53,900,1925,111,1,834681,Barbados,Australia
+53,900,1926,130,1,664242,Barbados,Australia
+53,900,1927,80,1,764320,Barbados,Australia
+53,900,1928,0,1,827350,Barbados,Australia
+53,900,1929,0,1,691216,Barbados,Australia
+53,900,1930,468,1,582244,Barbados,Australia
+53,900,1932,1366,1,749509,Barbados,Australia
+53,920,1925,0,1,834681,Barbados,New Zealand
+53,920,1926,0,1,664242,Barbados,New Zealand
+53,920,1927,0,1,764320,Barbados,New Zealand
+53,920,1928,0,1,827350,Barbados,New Zealand
+53,920,1929,614,1,691216,Barbados,New Zealand
+53,920,1930,1471,1,582244,Barbados,New Zealand
+53,920,1932,1973,1,749509,Barbados,New Zealand
+53,1029,1925,0,1,834681,Barbados,St. Pierre And Miquelon
+53,1029,1926,0,1,664242,Barbados,St. Pierre And Miquelon
+53,1029,1927,0,1,764320,Barbados,St. Pierre And Miquelon
+53,1029,1928,0,1,827350,Barbados,St. Pierre And Miquelon
+53,1029,1929,0,1,691216,Barbados,St. Pierre And Miquelon
+53,1029,1930,0,1,582244,Barbados,St. Pierre And Miquelon
+53,1029,1932,0,1,749509,Barbados,St. Pierre And Miquelon
+53,1050,1925,0,1,834681,Barbados,British West Indies
+53,1050,1926,0,1,664242,Barbados,British West Indies
+53,1050,1927,0,1,764320,Barbados,British West Indies
+53,1050,1928,0,1,827350,Barbados,British West Indies
+53,1050,1929,0,1,691216,Barbados,British West Indies
+53,1050,1930,2485,1,582244,Barbados,British West Indies
+53,1050,1932,4043,1,749509,Barbados,British West Indies
+53,1060,1925,3606,1,834681,Barbados,French West Indies
+53,1060,1926,2236,1,664242,Barbados,French West Indies
+53,1060,1927,3722,1,764320,Barbados,French West Indies
+53,1060,1928,1896,1,827350,Barbados,French West Indies
+53,1060,1929,3765,1,691216,Barbados,French West Indies
+53,1060,1930,2118,1,582244,Barbados,French West Indies
+53,1060,1932,1312,1,749509,Barbados,French West Indies
+53,1062,1925,0,1,834681,Barbados,Anguilla
+53,1062,1926,0,1,664242,Barbados,Anguilla
+53,1062,1927,0,1,764320,Barbados,Anguilla
+53,1062,1928,370,1,827350,Barbados,Anguilla
+53,1062,1929,0,1,691216,Barbados,Anguilla
+53,1062,1930,1001,1,582244,Barbados,Anguilla
+53,1062,1932,260,1,749509,Barbados,Anguilla
+53,8501,1925,0,1,834681,Barbados,Java
+53,8501,1926,0,1,664242,Barbados,Java
+53,8501,1927,186,1,764320,Barbados,Java
+53,8501,1928,0,1,827350,Barbados,Java
+53,8501,1929,0,1,691216,Barbados,Java
+53,8501,1930,0,1,582244,Barbados,Java
+53,8501,1932,0,1,749509,Barbados,Java
+53,8502,1925,0,1,834681,Barbados,Sumatra
+53,8502,1926,0,1,664242,Barbados,Sumatra
+53,8502,1927,0,1,764320,Barbados,Sumatra
+53,8502,1928,0,1,827350,Barbados,Sumatra
+53,8502,1929,0,1,691216,Barbados,Sumatra
+53,8502,1930,0,1,582244,Barbados,Sumatra
+53,8502,1932,17,1,749509,Barbados,Sumatra
+53,,1925,2297113,1,834681,Barbados,
+53,,1926,2158378,1,664242,Barbados,
+53,,1927,2281977,1,764320,Barbados,
+53,,1928,2339978,1,827350,Barbados,
+53,,1929,2041369,1,691216,Barbados,
+53,,1930,1726811,1,582244,Barbados,
+53,,1932,1643200,1,749509,Barbados,

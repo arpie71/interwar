@@ -1,0 +1,639 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency,xr_gfd,xr_gfd_trade
+339,Albania,368,Lithuania,1921,0,1,Fr. Ar,,
+339,Albania,290,Poland,1921,0,1,Fr. Ar,,
+339,Albania,211,Belgium,1921,0,1,Fr. Ar,,
+339,Albania,212,Luxembourg,1921,0,1,Fr. Ar,,
+339,Albania,350,Greece,1921,2250193,1,Fr. Ar,,
+339,Albania,800,Thailand,1921,0,1,Fr. Ar,,
+339,Albania,325,Italy,1921,13175009,1,Fr. Ar,,
+339,Albania,630,Iran,1921,0,1,Fr. Ar,,
+339,Albania,20,Canada,1921,0,1,Fr. Ar,,
+339,Albania,230,Spain,1921,0,1,Fr. Ar,,
+339,Albania,140,Brazil,1921,0,1,Fr. Ar,,
+339,Albania,345,Yugoslavia,1921,334741,1,Fr. Ar,,
+339,Albania,360,Romania,1921,0,1,Fr. Ar,,
+339,Albania,710,China,1921,0,1,Fr. Ar,,
+339,Albania,200,United Kingdom,1921,1135344,1,Fr. Ar,,
+339,Albania,235,Portugal,1921,0,1,Fr. Ar,,
+339,Albania,750,India,1921,0,1,Fr. Ar,,
+339,Albania,380,Sweden,1921,0,1,Fr. Ar,,
+339,Albania,651,Egypt,1921,0,1,Fr. Ar,,
+339,Albania,310,Hungary,1921,0,1,Fr. Ar,,
+339,Albania,40,Cuba,1921,0,1,Fr. Ar,,
+339,Albania,305,Austria,1921,669466,1,Fr. Ar,,
+339,Albania,365,Russia,1921,0,1,Fr. Ar,,
+339,Albania,210,Netherlands,1921,0,1,Fr. Ar,,
+339,Albania,900,Australia,1921,0,1,Fr. Ar,,
+339,Albania,740,Japan,1921,0,1,Fr. Ar,,
+339,Albania,160,Argentina,1921,0,1,Fr. Ar,,
+339,Albania,355,Bulgaria,1921,0,1,Fr. Ar,,
+339,Albania,220,France,1921,0,1,Fr. Ar,,
+339,Albania,255,Germany,1921,0,1,Fr. Ar,,
+339,Albania,640,Turkey,1921,671038,1,Fr. Ar,,
+339,Albania,315,Czechoslovakia,1921,0,1,Fr. Ar,,
+339,Albania,,,1921,18235791,1,Fr. Ar,,
+339,Albania,8501,Java,1921,0,1,Fr. Ar,,
+339,Albania,670,Saudi Arabia,1921,0,1,Fr. Ar,,
+339,Albania,225,Switzerland,1921,0,1,Fr. Ar,,
+339,Albania,390,Denmark,1921,0,1,Fr. Ar,,
+339,Albania,2,United States,1921,0,1,Fr. Ar,,
+339,Albania,385,Norway,1921,0,1,Fr. Ar,,
+339,Albania,235,Portugal,1922,0,1,Fr. Ar,,
+339,Albania,350,Greece,1922,1406377,1,Fr. Ar,,
+339,Albania,315,Czechoslovakia,1922,0,1,Fr. Ar,,
+339,Albania,325,Italy,1922,8389517,1,Fr. Ar,,
+339,Albania,310,Hungary,1922,0,1,Fr. Ar,,
+339,Albania,640,Turkey,1922,660154,1,Fr. Ar,,
+339,Albania,670,Saudi Arabia,1922,0,1,Fr. Ar,,
+339,Albania,140,Brazil,1922,0,1,Fr. Ar,,
+339,Albania,390,Denmark,1922,0,1,Fr. Ar,,
+339,Albania,305,Austria,1922,372185,1,Fr. Ar,,
+339,Albania,365,Russia,1922,0,1,Fr. Ar,,
+339,Albania,20,Canada,1922,0,1,Fr. Ar,,
+339,Albania,800,Thailand,1922,0,1,Fr. Ar,,
+339,Albania,,,1922,12099516,1,Fr. Ar,,
+339,Albania,225,Switzerland,1922,0,1,Fr. Ar,,
+339,Albania,368,Lithuania,1922,0,1,Fr. Ar,,
+339,Albania,345,Yugoslavia,1922,596020,1,Fr. Ar,,
+339,Albania,355,Bulgaria,1922,0,1,Fr. Ar,,
+339,Albania,200,United Kingdom,1922,426298,1,Fr. Ar,,
+339,Albania,230,Spain,1922,0,1,Fr. Ar,,
+339,Albania,210,Netherlands,1922,0,1,Fr. Ar,,
+339,Albania,8501,Java,1922,0,1,Fr. Ar,,
+339,Albania,710,China,1922,0,1,Fr. Ar,,
+339,Albania,211,Belgium,1922,0,1,Fr. Ar,,
+339,Albania,160,Argentina,1922,0,1,Fr. Ar,,
+339,Albania,290,Poland,1922,0,1,Fr. Ar,,
+339,Albania,630,Iran,1922,0,1,Fr. Ar,,
+339,Albania,380,Sweden,1922,0,1,Fr. Ar,,
+339,Albania,360,Romania,1922,0,1,Fr. Ar,,
+339,Albania,750,India,1922,0,1,Fr. Ar,,
+339,Albania,2,United States,1922,192924,1,Fr. Ar,,
+339,Albania,385,Norway,1922,0,1,Fr. Ar,,
+339,Albania,212,Luxembourg,1922,0,1,Fr. Ar,,
+339,Albania,740,Japan,1922,0,1,Fr. Ar,,
+339,Albania,220,France,1922,0,1,Fr. Ar,,
+339,Albania,900,Australia,1922,0,1,Fr. Ar,,
+339,Albania,255,Germany,1922,56041,1,Fr. Ar,,
+339,Albania,40,Cuba,1922,0,1,Fr. Ar,,
+339,Albania,651,Egypt,1922,0,1,Fr. Ar,,
+339,Albania,630,Iran,1923,0,1,Fr. Ar,,
+339,Albania,8501,Java,1923,0,1,Fr. Ar,,
+339,Albania,345,Yugoslavia,1923,1699314,1,Fr. Ar,,
+339,Albania,200,United Kingdom,1923,58441,1,Fr. Ar,,
+339,Albania,390,Denmark,1923,0,1,Fr. Ar,,
+339,Albania,255,Germany,1923,26978,1,Fr. Ar,,
+339,Albania,220,France,1923,825,1,Fr. Ar,,
+339,Albania,325,Italy,1923,15953777,1,Fr. Ar,,
+339,Albania,900,Australia,1923,0,1,Fr. Ar,,
+339,Albania,160,Argentina,1923,0,1,Fr. Ar,,
+339,Albania,380,Sweden,1923,0,1,Fr. Ar,,
+339,Albania,211,Belgium,1923,0,1,Fr. Ar,,
+339,Albania,315,Czechoslovakia,1923,0,1,Fr. Ar,,
+339,Albania,710,China,1923,0,1,Fr. Ar,,
+339,Albania,140,Brazil,1923,0,1,Fr. Ar,,
+339,Albania,355,Bulgaria,1923,130134,1,Fr. Ar,,
+339,Albania,640,Turkey,1923,498915,1,Fr. Ar,,
+339,Albania,750,India,1923,0,1,Fr. Ar,,
+339,Albania,385,Norway,1923,0,1,Fr. Ar,,
+339,Albania,,,1923,24176187,1,Fr. Ar,,
+339,Albania,235,Portugal,1923,0,1,Fr. Ar,,
+339,Albania,40,Cuba,1923,0,1,Fr. Ar,,
+339,Albania,670,Saudi Arabia,1923,0,1,Fr. Ar,,
+339,Albania,740,Japan,1923,5698,1,Fr. Ar,,
+339,Albania,20,Canada,1923,0,1,Fr. Ar,,
+339,Albania,212,Luxembourg,1923,0,1,Fr. Ar,,
+339,Albania,310,Hungary,1923,0,1,Fr. Ar,,
+339,Albania,360,Romania,1923,370597,1,Fr. Ar,,
+339,Albania,368,Lithuania,1923,0,1,Fr. Ar,,
+339,Albania,651,Egypt,1923,9702,1,Fr. Ar,,
+339,Albania,800,Thailand,1923,0,1,Fr. Ar,,
+339,Albania,350,Greece,1923,3744141,1,Fr. Ar,,
+339,Albania,2,United States,1923,63370,1,Fr. Ar,,
+339,Albania,225,Switzerland,1923,0,1,Fr. Ar,,
+339,Albania,230,Spain,1923,0,1,Fr. Ar,,
+339,Albania,210,Netherlands,1923,0,1,Fr. Ar,,
+339,Albania,290,Poland,1923,0,1,Fr. Ar,,
+339,Albania,305,Austria,1923,97991,1,Fr. Ar,,
+339,Albania,365,Russia,1923,0,1,Fr. Ar,,
+339,Albania,212,Luxembourg,1924,0,1,Fr. Ar,,
+339,Albania,211,Belgium,1924,0,1,Fr. Ar,,
+339,Albania,355,Bulgaria,1924,250729,1,Fr. Ar,,
+339,Albania,325,Italy,1924,15462923,1,Fr. Ar,,
+339,Albania,640,Turkey,1924,83392,1,Fr. Ar,,
+339,Albania,800,Thailand,1924,0,1,Fr. Ar,,
+339,Albania,630,Iran,1924,0,1,Fr. Ar,,
+339,Albania,651,Egypt,1924,3750,1,Fr. Ar,,
+339,Albania,365,Russia,1924,0,1,Fr. Ar,,
+339,Albania,710,China,1924,0,1,Fr. Ar,,
+339,Albania,380,Sweden,1924,22163,1,Fr. Ar,,
+339,Albania,290,Poland,1924,0,1,Fr. Ar,,
+339,Albania,230,Spain,1924,0,1,Fr. Ar,,
+339,Albania,750,India,1924,0,1,Fr. Ar,,
+339,Albania,670,Saudi Arabia,1924,0,1,Fr. Ar,,
+339,Albania,350,Greece,1924,3898801,1,Fr. Ar,,
+339,Albania,368,Lithuania,1924,0,1,Fr. Ar,,
+339,Albania,360,Romania,1924,3980,1,Fr. Ar,,
+339,Albania,8501,Java,1924,0,1,Fr. Ar,,
+339,Albania,345,Yugoslavia,1924,554137,1,Fr. Ar,,
+339,Albania,225,Switzerland,1924,0,1,Fr. Ar,,
+339,Albania,20,Canada,1924,0,1,Fr. Ar,,
+339,Albania,160,Argentina,1924,0,1,Fr. Ar,,
+339,Albania,900,Australia,1924,0,1,Fr. Ar,,
+339,Albania,385,Norway,1924,0,1,Fr. Ar,,
+339,Albania,255,Germany,1924,4976,1,Fr. Ar,,
+339,Albania,310,Hungary,1924,0,1,Fr. Ar,,
+339,Albania,200,United Kingdom,1924,20592,1,Fr. Ar,,
+339,Albania,390,Denmark,1924,0,1,Fr. Ar,,
+339,Albania,210,Netherlands,1924,0,1,Fr. Ar,,
+339,Albania,140,Brazil,1924,0,1,Fr. Ar,,
+339,Albania,220,France,1924,24005,1,Fr. Ar,,
+339,Albania,,,1924,20490725,1,Fr. Ar,,
+339,Albania,315,Czechoslovakia,1924,0,1,Fr. Ar,,
+339,Albania,305,Austria,1924,20415,1,Fr. Ar,,
+339,Albania,40,Cuba,1924,0,1,Fr. Ar,,
+339,Albania,740,Japan,1924,2250,1,Fr. Ar,,
+339,Albania,235,Portugal,1924,0,1,Fr. Ar,,
+339,Albania,2,United States,1924,136338,1,Fr. Ar,,
+339,Albania,390,Denmark,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,20,Canada,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,2,United States,1925,83437,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,315,Czechoslovakia,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,710,China,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,8501,Java,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,325,Italy,1925,16386670,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,212,Luxembourg,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,750,India,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,290,Poland,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,800,Thailand,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,310,Hungary,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,255,Germany,1925,988,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,211,Belgium,1925,316,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,345,Yugoslavia,1925,708694,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,160,Argentina,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,651,Egypt,1925,1784,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,210,Netherlands,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,350,Greece,1925,4521759,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,140,Brazil,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,355,Bulgaria,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,305,Austria,1925,25365,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,740,Japan,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,40,Cuba,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,230,Spain,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,900,Australia,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,,,1925,21799411,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,360,Romania,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,220,France,1925,7721,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,640,Turkey,1925,46050,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,368,Lithuania,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,630,Iran,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,225,Switzerland,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,235,Portugal,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,380,Sweden,1925,16492,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,385,Norway,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,200,United Kingdom,1925,135,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,365,Russia,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,670,Saudi Arabia,1925,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,640,Turkey,1926,96754,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,365,Russia,1926,2520,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,800,Thailand,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,390,Denmark,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,355,Bulgaria,1926,31340,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,900,Australia,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,740,Japan,1926,77825,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,210,Netherlands,1926,106633,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,385,Norway,1926,2844,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,20,Canada,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,350,Greece,1926,3105255,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,710,China,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,315,Czechoslovakia,1926,378948,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,8501,Java,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,212,Luxembourg,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,310,Hungary,1926,6829,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,360,Romania,1926,208100,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,,,1926,24864731,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,630,Iran,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,305,Austria,1926,222278,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,140,Brazil,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,368,Lithuania,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,160,Argentina,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,651,Egypt,1926,49188,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,200,United Kingdom,1926,1233768,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,225,Switzerland,1926,12403,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,211,Belgium,1926,113679,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,750,India,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,380,Sweden,1926,36215,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,2,United States,1926,563855,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,235,Portugal,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,670,Saudi Arabia,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,325,Italy,1926,16673559,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,290,Poland,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,255,Germany,1926,260499,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,220,France,1926,550955,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,345,Yugoslavia,1926,1131014,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,230,Spain,1926,270,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,40,Cuba,1926,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,900,Australia,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,230,Spain,1927,1912,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,380,Sweden,1927,20155,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,390,Denmark,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,325,Italy,1927,15441539,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,211,Belgium,1927,318747,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,365,Russia,1927,2621,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,630,Iran,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,350,Greece,1927,1204685,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,310,Hungary,1927,9850,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,235,Portugal,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,651,Egypt,1927,71741,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,345,Yugoslavia,1927,1261877,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,368,Lithuania,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,800,Thailand,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,140,Brazil,1927,2430,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,360,Romania,1927,200081,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,290,Poland,1927,800,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,670,Saudi Arabia,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,640,Turkey,1927,82226,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,305,Austria,1927,466972,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,212,Luxembourg,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,740,Japan,1927,137215,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,255,Germany,1927,493115,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,710,China,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,315,Czechoslovakia,1927,1393259,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,2,United States,1927,1004596,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,40,Cuba,1927,25,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,20,Canada,1927,1500,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,210,Netherlands,1927,22711,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,200,United Kingdom,1927,1769921,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,750,India,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,355,Bulgaria,1927,40573,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,8501,Java,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,225,Switzerland,1927,86790,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,160,Argentina,1927,0,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,220,France,1927,633813,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,385,Norway,1927,9827,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,,,1927,24684797,1,Fr. Ar,5.1799998,5.1799998
+339,Albania,8501,Java,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,20,Canada,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,290,Poland,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,255,Germany,1928,1388420,1,Frs. Or,5.1799998,5.1799998
+339,Albania,368,Lithuania,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,230,Spain,1928,4954,1,Frs. Or,5.1799998,5.1799998
+339,Albania,,,1928,32311582,1,Frs. Or,5.1799998,5.1799998
+339,Albania,310,Hungary,1928,88745,1,Frs. Or,5.1799998,5.1799998
+339,Albania,220,France,1928,660407,1,Frs. Or,5.1799998,5.1799998
+339,Albania,710,China,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,350,Greece,1928,1878495,1,Frs. Or,5.1799998,5.1799998
+339,Albania,651,Egypt,1928,1125775,1,Frs. Or,5.1799998,5.1799998
+339,Albania,200,United Kingdom,1928,2062426,1,Frs. Or,5.1799998,5.1799998
+339,Albania,380,Sweden,1928,62725,1,Frs. Or,5.1799998,5.1799998
+339,Albania,670,Saudi Arabia,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,390,Denmark,1928,350,1,Frs. Or,5.1799998,5.1799998
+339,Albania,900,Australia,1928,1340,1,Frs. Or,5.1799998,5.1799998
+339,Albania,630,Iran,1928,4310,1,Frs. Or,5.1799998,5.1799998
+339,Albania,40,Cuba,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,325,Italy,1928,15623810,1,Frs. Or,5.1799998,5.1799998
+339,Albania,225,Switzerland,1928,96809,1,Frs. Or,5.1799998,5.1799998
+339,Albania,355,Bulgaria,1928,60339,1,Frs. Or,5.1799998,5.1799998
+339,Albania,235,Portugal,1928,8490,1,Frs. Or,5.1799998,5.1799998
+339,Albania,212,Luxembourg,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,211,Belgium,1928,422221,1,Frs. Or,5.1799998,5.1799998
+339,Albania,385,Norway,1928,5598,1,Frs. Or,5.1799998,5.1799998
+339,Albania,140,Brazil,1928,56935,1,Frs. Or,5.1799998,5.1799998
+339,Albania,740,Japan,1928,11043,1,Frs. Or,5.1799998,5.1799998
+339,Albania,305,Austria,1928,926997,1,Frs. Or,5.1799998,5.1799998
+339,Albania,640,Turkey,1928,68486,1,Frs. Or,5.1799998,5.1799998
+339,Albania,2,United States,1928,2651053,1,Frs. Or,5.1799998,5.1799998
+339,Albania,750,India,1928,8571,1,Frs. Or,5.1799998,5.1799998
+339,Albania,345,Yugoslavia,1928,1828815,1,Frs. Or,5.1799998,5.1799998
+339,Albania,800,Thailand,1928,0,1,Frs. Or,5.1799998,5.1799998
+339,Albania,160,Argentina,1928,77666,1,Frs. Or,5.1799998,5.1799998
+339,Albania,210,Netherlands,1928,42872,1,Frs. Or,5.1799998,5.1799998
+339,Albania,360,Romania,1928,743059,1,Frs. Or,5.1799998,5.1799998
+339,Albania,365,Russia,1928,13904,1,Frs. Or,5.1799998,5.1799998
+339,Albania,315,Czechoslovakia,1928,2386967,1,Frs. Or,5.1799998,5.1799998
+339,Albania,385,Norway,1929,6690,1,Frs. Or,5.2021999,5.2021999
+339,Albania,380,Sweden,1929,52090,1,Frs. Or,5.2021999,5.2021999
+339,Albania,20,Canada,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,200,United Kingdom,1929,2694200,1,Frs. Or,5.2021999,5.2021999
+339,Albania,365,Russia,1929,8165,1,Frs. Or,5.2021999,5.2021999
+339,Albania,368,Lithuania,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,160,Argentina,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,290,Poland,1929,5169,1,Frs. Or,5.2021999,5.2021999
+339,Albania,630,Iran,1929,17480,1,Frs. Or,5.2021999,5.2021999
+339,Albania,900,Australia,1929,62640,1,Frs. Or,5.2021999,5.2021999
+339,Albania,,,1929,38644950,1,Frs. Or,5.2021999,5.2021999
+339,Albania,220,France,1929,788200,1,Frs. Or,5.2021999,5.2021999
+339,Albania,651,Egypt,1929,2015400,1,Frs. Or,5.2021999,5.2021999
+339,Albania,355,Bulgaria,1929,12200,1,Frs. Or,5.2021999,5.2021999
+339,Albania,40,Cuba,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,211,Belgium,1929,796600,1,Frs. Or,5.2021999,5.2021999
+339,Albania,235,Portugal,1929,3000,1,Frs. Or,5.2021999,5.2021999
+339,Albania,315,Czechoslovakia,1929,2414700,1,Frs. Or,5.2021999,5.2021999
+339,Albania,310,Hungary,1929,167100,1,Frs. Or,5.2021999,5.2021999
+339,Albania,212,Luxembourg,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,360,Romania,1929,67390,1,Frs. Or,5.2021999,5.2021999
+339,Albania,8501,Java,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,640,Turkey,1929,47590,1,Frs. Or,5.2021999,5.2021999
+339,Albania,305,Austria,1929,1079300,1,Frs. Or,5.2021999,5.2021999
+339,Albania,325,Italy,1929,17840100,1,Frs. Or,5.2021999,5.2021999
+339,Albania,750,India,1929,25206,1,Frs. Or,5.2021999,5.2021999
+339,Albania,255,Germany,1929,1892700,1,Frs. Or,5.2021999,5.2021999
+339,Albania,345,Yugoslavia,1929,3061400,1,Frs. Or,5.2021999,5.2021999
+339,Albania,140,Brazil,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,740,Japan,1929,6700,1,Frs. Or,5.2021999,5.2021999
+339,Albania,210,Netherlands,1929,31460,1,Frs. Or,5.2021999,5.2021999
+339,Albania,230,Spain,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,2,United States,1929,3919500,1,Frs. Or,5.2021999,5.2021999
+339,Albania,390,Denmark,1929,670,1,Frs. Or,5.2021999,5.2021999
+339,Albania,350,Greece,1929,1598500,1,Frs. Or,5.2021999,5.2021999
+339,Albania,710,China,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,225,Switzerland,1929,30800,1,Frs. Or,5.2021999,5.2021999
+339,Albania,670,Saudi Arabia,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,800,Thailand,1929,0,1,Frs. Or,5.2021999,5.2021999
+339,Albania,305,Austria,1930,1120400,1,Frs. Or,5.1931,5.1931
+339,Albania,40,Cuba,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,230,Spain,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,220,France,1930,947500,1,Frs. Or,5.1931,5.1931
+339,Albania,355,Bulgaria,1930,12000,1,Frs. Or,5.1931,5.1931
+339,Albania,8501,Java,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,235,Portugal,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,390,Denmark,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,255,Germany,1930,1801100,1,Frs. Or,5.1931,5.1931
+339,Albania,750,India,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,310,Hungary,1930,310300,1,Frs. Or,5.1931,5.1931
+339,Albania,325,Italy,1930,16707000,1,Frs. Or,5.1931,5.1931
+339,Albania,360,Romania,1930,27000,1,Frs. Or,5.1931,5.1931
+339,Albania,800,Thailand,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,710,China,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,350,Greece,1930,1186200,1,Frs. Or,5.1931,5.1931
+339,Albania,140,Brazil,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,380,Sweden,1930,16000,1,Frs. Or,5.1931,5.1931
+339,Albania,225,Switzerland,1930,152000,1,Frs. Or,5.1931,5.1931
+339,Albania,365,Russia,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,210,Netherlands,1930,63000,1,Frs. Or,5.1931,5.1931
+339,Albania,670,Saudi Arabia,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,290,Poland,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,345,Yugoslavia,1930,2554100,1,Frs. Or,5.1931,5.1931
+339,Albania,,,1930,33448900,1,Frs. Or,5.1931,5.1931
+339,Albania,20,Canada,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,160,Argentina,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,640,Turkey,1930,82000,1,Frs. Or,5.1931,5.1931
+339,Albania,900,Australia,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,385,Norway,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,2,United States,1930,2416500,1,Frs. Or,5.1931,5.1931
+339,Albania,740,Japan,1930,32000,1,Frs. Or,5.1931,5.1931
+339,Albania,630,Iran,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,651,Egypt,1930,111000,1,Frs. Or,5.1931,5.1931
+339,Albania,212,Luxembourg,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,200,United Kingdom,1930,2464600,1,Frs. Or,5.1931,5.1931
+339,Albania,211,Belgium,1930,695800,1,Frs. Or,5.1931,5.1931
+339,Albania,368,Lithuania,1930,0,1,Frs. Or,5.1931,5.1931
+339,Albania,315,Czechoslovakia,1930,2430400,1,Frs. Or,5.1931,5.1931
+339,Albania,160,Argentina,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,630,Iran,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,800,Thailand,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,,,1931,29975000,1,Frs. Or,5.1726999,5.1726999
+339,Albania,670,Saudi Arabia,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,740,Japan,1931,115500,1,Frs. Or,5.1726999,5.1726999
+339,Albania,20,Canada,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,345,Yugoslavia,1931,2733300,1,Frs. Or,5.1726999,5.1726999
+339,Albania,290,Poland,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,368,Lithuania,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,350,Greece,1931,1076200,1,Frs. Or,5.1726999,5.1726999
+339,Albania,750,India,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,2,United States,1931,2803600,1,Frs. Or,5.1726999,5.1726999
+339,Albania,212,Luxembourg,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,710,China,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,225,Switzerland,1931,116100,1,Frs. Or,5.1726999,5.1726999
+339,Albania,140,Brazil,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,390,Denmark,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,220,France,1931,672000,1,Frs. Or,5.1726999,5.1726999
+339,Albania,315,Czechoslovakia,1931,1982000,1,Frs. Or,5.1726999,5.1726999
+339,Albania,305,Austria,1931,951400,1,Frs. Or,5.1726999,5.1726999
+339,Albania,651,Egypt,1931,110000,1,Frs. Or,5.1726999,5.1726999
+339,Albania,355,Bulgaria,1931,224600,1,Frs. Or,5.1726999,5.1726999
+339,Albania,360,Romania,1931,117300,1,Frs. Or,5.1726999,5.1726999
+339,Albania,211,Belgium,1931,600100,1,Frs. Or,5.1726999,5.1726999
+339,Albania,230,Spain,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,900,Australia,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,640,Turkey,1931,131400,1,Frs. Or,5.1726999,5.1726999
+339,Albania,200,United Kingdom,1931,1770900,1,Frs. Or,5.1726999,5.1726999
+339,Albania,325,Italy,1931,13839500,1,Frs. Or,5.1726999,5.1726999
+339,Albania,255,Germany,1931,1325300,1,Frs. Or,5.1726999,5.1726999
+339,Albania,385,Norway,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,235,Portugal,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,8501,Java,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,310,Hungary,1931,430400,1,Frs. Or,5.1726999,5.1726999
+339,Albania,365,Russia,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,40,Cuba,1931,0,1,Frs. Or,5.1726999,5.1726999
+339,Albania,380,Sweden,1931,11500,1,Frs. Or,5.1726999,5.1726999
+339,Albania,210,Netherlands,1931,40500,1,Frs. Or,5.1726999,5.1726999
+339,Albania,255,Germany,1932,1113200,1,Frs. Or,5.1655002,5.1655002
+339,Albania,305,Austria,1932,667300,1,Frs. Or,5.1655002,5.1655002
+339,Albania,390,Denmark,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,630,Iran,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,200,United Kingdom,1932,1586200,1,Frs. Or,5.1655002,5.1655002
+339,Albania,365,Russia,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,8501,Java,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,235,Portugal,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,40,Cuba,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,225,Switzerland,1932,77800,1,Frs. Or,5.1655002,5.1655002
+339,Albania,315,Czechoslovakia,1932,1766900,1,Frs. Or,5.1655002,5.1655002
+339,Albania,290,Poland,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,670,Saudi Arabia,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,160,Argentina,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,640,Turkey,1932,53300,1,Frs. Or,5.1655002,5.1655002
+339,Albania,710,China,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,220,France,1932,436800,1,Frs. Or,5.1655002,5.1655002
+339,Albania,140,Brazil,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,380,Sweden,1932,10400,1,Frs. Or,5.1655002,5.1655002
+339,Albania,740,Japan,1932,290000,1,Frs. Or,5.1655002,5.1655002
+339,Albania,2,United States,1932,2215700,1,Frs. Or,5.1655002,5.1655002
+339,Albania,230,Spain,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,,,1932,23178800,1,Frs. Or,5.1655002,5.1655002
+339,Albania,20,Canada,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,350,Greece,1932,644900,1,Frs. Or,5.1655002,5.1655002
+339,Albania,325,Italy,1932,8918800,1,Frs. Or,5.1655002,5.1655002
+339,Albania,800,Thailand,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,651,Egypt,1932,35300,1,Frs. Or,5.1655002,5.1655002
+339,Albania,355,Bulgaria,1932,862200,1,Frs. Or,5.1655002,5.1655002
+339,Albania,385,Norway,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,212,Luxembourg,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,750,India,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,210,Netherlands,1932,48100,1,Frs. Or,5.1655002,5.1655002
+339,Albania,345,Yugoslavia,1932,2063000,1,Frs. Or,5.1655002,5.1655002
+339,Albania,360,Romania,1932,1030800,1,Frs. Or,5.1655002,5.1655002
+339,Albania,900,Australia,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,368,Lithuania,1932,0,1,Frs. Or,5.1655002,5.1655002
+339,Albania,211,Belgium,1932,374700,1,Frs. Or,5.1655002,5.1655002
+339,Albania,310,Hungary,1932,255000,1,Frs. Or,5.1655002,5.1655002
+339,Albania,750,India,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,385,Norway,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,8501,Java,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,200,United Kingdom,1933,1438222,1,Frs. Or,4.2013998,4.2013998
+339,Albania,,,1933,16105506,1,Frs. Or,4.2013998,4.2013998
+339,Albania,315,Czechoslovakia,1933,1078134,1,Frs. Or,4.2013998,4.2013998
+339,Albania,345,Yugoslavia,1933,967817,1,Frs. Or,4.2013998,4.2013998
+339,Albania,310,Hungary,1933,249750,1,Frs. Or,4.2013998,4.2013998
+339,Albania,210,Netherlands,1933,67775,1,Frs. Or,4.2013998,4.2013998
+339,Albania,220,France,1933,509910,1,Frs. Or,4.2013998,4.2013998
+339,Albania,211,Belgium,1933,380655,1,Frs. Or,4.2013998,4.2013998
+339,Albania,235,Portugal,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,40,Cuba,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,350,Greece,1933,823150,1,Frs. Or,4.2013998,4.2013998
+339,Albania,380,Sweden,1933,32929,1,Frs. Or,4.2013998,4.2013998
+339,Albania,368,Lithuania,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,390,Denmark,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,670,Saudi Arabia,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,800,Thailand,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,230,Spain,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,640,Turkey,1933,19242,1,Frs. Or,4.2013998,4.2013998
+339,Albania,900,Australia,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,2,United States,1933,1012842,1,Frs. Or,4.2013998,4.2013998
+339,Albania,360,Romania,1933,2946,1,Frs. Or,4.2013998,4.2013998
+339,Albania,140,Brazil,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,290,Poland,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,651,Egypt,1933,60382,1,Frs. Or,4.2013998,4.2013998
+339,Albania,710,China,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,355,Bulgaria,1933,2035,1,Frs. Or,4.2013998,4.2013998
+339,Albania,325,Italy,1933,6675655,1,Frs. Or,4.2013998,4.2013998
+339,Albania,305,Austria,1933,434298,1,Frs. Or,4.2013998,4.2013998
+339,Albania,212,Luxembourg,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,630,Iran,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,225,Switzerland,1933,57750,1,Frs. Or,4.2013998,4.2013998
+339,Albania,20,Canada,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,255,Germany,1933,973013,1,Frs. Or,4.2013998,4.2013998
+339,Albania,365,Russia,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,160,Argentina,1933,0,1,Frs. Or,4.2013998,4.2013998
+339,Albania,740,Japan,1933,984431,1,Frs. Or,4.2013998,4.2013998
+339,Albania,640,Turkey,1934,11863,1,Frs. Or,3.1183,3.1183
+339,Albania,365,Russia,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,800,Thailand,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,200,United Kingdom,1934,1134154,1,Frs. Or,3.1183,3.1183
+339,Albania,212,Luxembourg,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,210,Netherlands,1934,61184,1,Frs. Or,3.1183,3.1183
+339,Albania,290,Poland,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,40,Cuba,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,310,Hungary,1934,392169,1,Frs. Or,3.1183,3.1183
+339,Albania,360,Romania,1934,3236,1,Frs. Or,3.1183,3.1183
+339,Albania,368,Lithuania,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,230,Spain,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,380,Sweden,1934,27827,1,Frs. Or,3.1183,3.1183
+339,Albania,385,Norway,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,160,Argentina,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,390,Denmark,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,355,Bulgaria,1934,4123,1,Frs. Or,3.1183,3.1183
+339,Albania,670,Saudi Arabia,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,325,Italy,1934,4203080,1,Frs. Or,3.1183,3.1183
+339,Albania,740,Japan,1934,1442825,1,Frs. Or,3.1183,3.1183
+339,Albania,211,Belgium,1934,409596,1,Frs. Or,3.1183,3.1183
+339,Albania,345,Yugoslavia,1934,826636,1,Frs. Or,3.1183,3.1183
+339,Albania,20,Canada,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,2,United States,1934,705281,1,Frs. Or,3.1183,3.1183
+339,Albania,255,Germany,1934,640837,1,Frs. Or,3.1183,3.1183
+339,Albania,630,Iran,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,235,Portugal,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,,,1934,12565957,1,Frs. Or,3.1183,3.1183
+339,Albania,900,Australia,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,651,Egypt,1934,85755,1,Frs. Or,3.1183,3.1183
+339,Albania,8501,Java,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,220,France,1934,362264,1,Frs. Or,3.1183,3.1183
+339,Albania,315,Czechoslovakia,1934,679320,1,Frs. Or,3.1183,3.1183
+339,Albania,305,Austria,1934,429468,1,Frs. Or,3.1183,3.1183
+339,Albania,140,Brazil,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,350,Greece,1934,633882,1,Frs. Or,3.1183,3.1183
+339,Albania,225,Switzerland,1934,45955,1,Frs. Or,3.1183,3.1183
+339,Albania,750,India,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,710,China,1934,0,1,Frs. Or,3.1183,3.1183
+339,Albania,640,Turkey,1935,9861,1,Frs. Or,3.062,3.062
+339,Albania,2,United States,1935,550346,1,Frs. Or,3.062,3.062
+339,Albania,710,China,1935,580,1,Frs. Or,3.062,3.062
+339,Albania,210,Netherlands,1935,71415,1,Frs. Or,3.062,3.062
+339,Albania,800,Thailand,1935,1500,1,Frs. Or,3.062,3.062
+339,Albania,670,Saudi Arabia,1935,534,1,Frs. Or,3.062,3.062
+339,Albania,315,Czechoslovakia,1935,948431,1,Frs. Or,3.062,3.062
+339,Albania,160,Argentina,1935,0,1,Frs. Or,3.062,3.062
+339,Albania,310,Hungary,1935,318236,1,Frs. Or,3.062,3.062
+339,Albania,230,Spain,1935,1735,1,Frs. Or,3.062,3.062
+339,Albania,365,Russia,1935,4209,1,Frs. Or,3.062,3.062
+339,Albania,8501,Java,1935,1010,1,Frs. Or,3.062,3.062
+339,Albania,212,Luxembourg,1935,1188,1,Frs. Or,3.062,3.062
+339,Albania,211,Belgium,1935,457219,1,Frs. Or,3.062,3.062
+339,Albania,200,United Kingdom,1935,1344524,1,Frs. Or,3.062,3.062
+339,Albania,385,Norway,1935,8565,1,Frs. Or,3.062,3.062
+339,Albania,380,Sweden,1935,19117,1,Frs. Or,3.062,3.062
+339,Albania,350,Greece,1935,581913,1,Frs. Or,3.062,3.062
+339,Albania,355,Bulgaria,1935,3525,1,Frs. Or,3.062,3.062
+339,Albania,305,Austria,1935,522093,1,Frs. Or,3.062,3.062
+339,Albania,368,Lithuania,1935,1490,1,Frs. Or,3.062,3.062
+339,Albania,651,Egypt,1935,181298,1,Frs. Or,3.062,3.062
+339,Albania,40,Cuba,1935,0,1,Frs. Or,3.062,3.062
+339,Albania,20,Canada,1935,1222,1,Frs. Or,3.062,3.062
+339,Albania,255,Germany,1935,1114493,1,Frs. Or,3.062,3.062
+339,Albania,345,Yugoslavia,1935,617154,1,Frs. Or,3.062,3.062
+339,Albania,740,Japan,1935,1583801,1,Frs. Or,3.062,3.062
+339,Albania,140,Brazil,1935,317187,1,Frs. Or,3.062,3.062
+339,Albania,360,Romania,1935,564153,1,Frs. Or,3.062,3.062
+339,Albania,,,1935,13730137,1,Frs. Or,3.062,3.062
+339,Albania,235,Portugal,1935,3413,1,Frs. Or,3.062,3.062
+339,Albania,290,Poland,1935,8620,1,Frs. Or,3.062,3.062
+339,Albania,220,France,1935,385210,1,Frs. Or,3.062,3.062
+339,Albania,225,Switzerland,1935,95333,1,Frs. Or,3.062,3.062
+339,Albania,630,Iran,1935,0,1,Frs. Or,3.062,3.062
+339,Albania,390,Denmark,1935,2177,1,Frs. Or,3.062,3.062
+339,Albania,750,India,1935,101404,1,Frs. Or,3.062,3.062
+339,Albania,325,Italy,1935,3905374,1,Frs. Or,3.062,3.062
+339,Albania,900,Australia,1935,1807,1,Frs. Or,3.062,3.062
+339,Albania,220,France,1936,526934,1,Frs. Or,3.0550001,3.0550001
+339,Albania,255,Germany,1936,1025293,1,Frs. Or,3.0550001,3.0550001
+339,Albania,360,Romania,1936,621408,1,Frs. Or,3.0550001,3.0550001
+339,Albania,305,Austria,1936,492548,1,Frs. Or,3.0550001,3.0550001
+339,Albania,350,Greece,1936,728299,1,Frs. Or,3.0550001,3.0550001
+339,Albania,225,Switzerland,1936,414996,1,Frs. Or,3.0550001,3.0550001
+339,Albania,750,India,1936,44475,1,Frs. Or,3.0550001,3.0550001
+339,Albania,385,Norway,1936,26232,1,Frs. Or,3.0550001,3.0550001
+339,Albania,210,Netherlands,1936,96404,1,Frs. Or,3.0550001,3.0550001
+339,Albania,235,Portugal,1936,6137,1,Frs. Or,3.0550001,3.0550001
+339,Albania,200,United Kingdom,1936,1407614,1,Frs. Or,3.0550001,3.0550001
+339,Albania,325,Italy,1936,4176823,1,Frs. Or,3.0550001,3.0550001
+339,Albania,740,Japan,1936,1504408,1,Frs. Or,3.0550001,3.0550001
+339,Albania,140,Brazil,1936,312877,1,Frs. Or,3.0550001,3.0550001
+339,Albania,211,Belgium,1936,629331,1,Frs. Or,3.0550001,3.0550001
+339,Albania,390,Denmark,1936,6072,1,Frs. Or,3.0550001,3.0550001
+339,Albania,40,Cuba,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,670,Saudi Arabia,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,290,Poland,1936,16659,1,Frs. Or,3.0550001,3.0550001
+339,Albania,230,Spain,1936,2230,1,Frs. Or,3.0550001,3.0550001
+339,Albania,365,Russia,1936,1845,1,Frs. Or,3.0550001,3.0550001
+339,Albania,710,China,1936,2645,1,Frs. Or,3.0550001,3.0550001
+339,Albania,368,Lithuania,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,160,Argentina,1936,76727,1,Frs. Or,3.0550001,3.0550001
+339,Albania,2,United States,1936,804680,1,Frs. Or,3.0550001,3.0550001
+339,Albania,20,Canada,1936,312,1,Frs. Or,3.0550001,3.0550001
+339,Albania,8501,Java,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,651,Egypt,1936,188190,1,Frs. Or,3.0550001,3.0550001
+339,Albania,212,Luxembourg,1936,2347,1,Frs. Or,3.0550001,3.0550001
+339,Albania,315,Czechoslovakia,1936,1138332,1,Frs. Or,3.0550001,3.0550001
+339,Albania,630,Iran,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,800,Thailand,1936,390,1,Frs. Or,3.0550001,3.0550001
+339,Albania,345,Yugoslavia,1936,1257729,1,Frs. Or,3.0550001,3.0550001
+339,Albania,,,1936,16777691,1,Frs. Or,3.0550001,3.0550001
+339,Albania,900,Australia,1936,0,1,Frs. Or,3.0550001,3.0550001
+339,Albania,355,Bulgaria,1936,829105,1,Frs. Or,3.0550001,3.0550001
+339,Albania,640,Turkey,1936,20021,1,Frs. Or,3.0550001,3.0550001
+339,Albania,380,Sweden,1936,23539,1,Frs. Or,3.0550001,3.0550001
+339,Albania,310,Hungary,1936,393089,1,Frs. Or,3.0550001,3.0550001
+339,Albania,,,1937,,,,3.056,3.056
+339,Albania,,,1938,,,,3.0574999,3.0574999
+339,Albania,,,1939,,,,3.0890999,3.0890999
+339,Albania,,,1940,,,,3.1789999,3.1789999
+339,Albania,,,1941,,,,3.0769,3.0769
+339,Albania,,,1942,,,,3.0380001,3.0380001
+339,Albania,,,1943,,,,11.946,11.946
+339,Albania,,,1944,,,,16,16
+339,Albania,,,1945,,,,17.3333,17.3333
+339,Albania,,,1946,,,,25,25
+339,Albania,,,1947,,,,50,50
+339,Albania,,,1948,,,,50,50
+339,Albania,,,1949,,,,50,50
+339,Albania,,,1950,,,,50,50

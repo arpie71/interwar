@@ -1,0 +1,2247 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency,xr_gfd,xr_gfd_trade
+130,Ecuador,135,Peru,1904,359452,,,,
+130,Ecuador,,,1904,15116350,,,,
+130,Ecuador,211,Belgium,1904,587940,,,,
+130,Ecuador,2,United States,1904,4897848,,,,
+130,Ecuador,94,Costa Rica,1904,110,,,,
+130,Ecuador,255,Germany,1904,2985114,,,,
+130,Ecuador,40,Cuba,1904,3741,,,,
+130,Ecuador,155,Chile,1904,24452,,,,
+130,Ecuador,201,England,1904,4009757,,,,
+130,Ecuador,325,Italy,1904,477892,,,,
+130,Ecuador,710,China,1904,61655,,,,
+130,Ecuador,220,France,1904,1234516,,,,
+130,Ecuador,230,Spain,1904,369798,,,,
+130,Ecuador,100,Colombia,1904,2069,,,,
+130,Ecuador,92,El Salvador,1904,30661,,,,
+130,Ecuador,235,Portugal,1904,750,,,,
+130,Ecuador,210,Netherlands,1904,95,,,,
+130,Ecuador,305,Austria,1904,1525,,,,
+130,Ecuador,900,Australia,1904,68975,,,,
+130,Ecuador,155,Chile,1905,246511,,,,
+130,Ecuador,211,Belgium,1905,457182,,,,
+130,Ecuador,,,1905,15733891,,,,
+130,Ecuador,220,France,1905,1118793,,,,
+130,Ecuador,710,China,1905,56505,,,,
+130,Ecuador,40,Cuba,1905,2331,,,,
+130,Ecuador,305,Austria,1905,1521,,,,
+130,Ecuador,255,Germany,1905,3101957,,,,
+130,Ecuador,325,Italy,1905,583533,,,,
+130,Ecuador,900,Australia,1905,106559,,,,
+130,Ecuador,201,England,1905,4558547,,,,
+130,Ecuador,2,United States,1905,4542242,,,,
+130,Ecuador,92,El Salvador,1905,12572,,,,
+130,Ecuador,230,Spain,1905,419019,,,,
+130,Ecuador,100,Colombia,1905,52310,,,,
+130,Ecuador,210,Netherlands,1905,510,,,,
+130,Ecuador,135,Peru,1905,473799,,,,
+130,Ecuador,355,Bulgaria,1916,0,1,Sucres,,
+130,Ecuador,325,Italy,1916,529458,1,Sucres,,
+130,Ecuador,665,West Bank And Gaza,1916,0,1,Sucres,,
+130,Ecuador,641,Turkey in Europe,1916,0,1,Sucres,,
+130,Ecuador,95,Panama,1916,26760,1,Sucres,,
+130,Ecuador,2,United States,1916,11017017,1,Sucres,,
+130,Ecuador,135,Peru,1916,315557,1,Sucres,,
+130,Ecuador,100,Colombia,1916,70282,1,Sucres,,
+130,Ecuador,6,Puerto Rico,1916,0,1,Sucres,,
+130,Ecuador,410,Canary Islands,1916,2671,1,Sucres,,
+130,Ecuador,305,Austria,1916,0,1,Sucres,,
+130,Ecuador,290,Poland,1916,0,1,Sucres,,
+130,Ecuador,53,Barbados,1916,0,1,Sucres,,
+130,Ecuador,366,Estonia,1916,0,1,Sucres,,
+130,Ecuador,780,Sri Lanka,1916,0,1,Sucres,,
+130,Ecuador,8502,Sumatra,1916,0,1,Sucres,,
+130,Ecuador,750,India,1916,4070,1,Sucres,,
+130,Ecuador,231,Gibraltar,1916,0,1,Sucres,,
+130,Ecuador,21,Newfoundland,1916,0,1,Sucres,,
+130,Ecuador,380,Sweden,1916,77707,1,Sucres,,
+130,Ecuador,338,Malta,1916,0,1,Sucres,,
+130,Ecuador,165,Uruguay,1916,1653,1,Sucres,,
+130,Ecuador,42,Dominican Republic,1916,0,1,Sucres,,
+130,Ecuador,385,Norway,1916,6491,1,Sucres,,
+130,Ecuador,625,Sudan,1916,0,1,Sucres,,
+130,Ecuador,201,England,1916,4878602,1,Sucres,,
+130,Ecuador,390,Denmark,1916,9504,1,Sucres,,
+130,Ecuador,345,Yugoslavia,1916,0,1,Sucres,,
+130,Ecuador,52,Trinidad And Tobago,1916,0,1,Sucres,,
+130,Ecuador,220,France,1916,800913,1,Sucres,,
+130,Ecuador,211,Belgium,1916,1088,1,Sucres,,
+130,Ecuador,720,Hong Kong,1916,0,1,Sucres,,
+130,Ecuador,710,China,1916,54401,1,Sucres,,
+130,Ecuador,315,Czechoslovakia,1916,0,1,Sucres,,
+130,Ecuador,645,Iraq,1916,0,1,Sucres,,
+130,Ecuador,651,Egypt,1916,0,1,Sucres,,
+130,Ecuador,145,Bolivia,1916,0,1,Sucres,,
+130,Ecuador,475,Nigeria,1916,0,1,Sucres,,
+130,Ecuador,101,Venezuela,1916,0,1,Sucres,,
+130,Ecuador,210,Netherlands,1916,50059,1,Sucres,,
+130,Ecuador,1065,Curacao,1916,0,1,Sucres,,
+130,Ecuador,230,Spain,1916,1012675,1,Sucres,,
+130,Ecuador,317,Slovakia,1916,0,1,Sucres,,
+130,Ecuador,367,Latvia,1916,0,1,Sucres,,
+130,Ecuador,827,Straits Settlement,1916,0,1,Sucres,,
+130,Ecuador,40,Cuba,1916,16151,1,Sucres,,
+130,Ecuador,155,Chile,1916,147143,1,Sucres,,
+130,Ecuador,310,Hungary,1916,0,1,Sucres,,
+130,Ecuador,225,Switzerland,1916,0,1,Sucres,,
+130,Ecuador,20,Canada,1916,0,1,Sucres,,
+130,Ecuador,840,Philippines,1916,0,1,Sucres,,
+130,Ecuador,205,Ireland,1916,0,1,Sucres,,
+130,Ecuador,511,Zanzibar,1916,0,1,Sucres,,
+130,Ecuador,8501,Java,1916,0,1,Sucres,,
+130,Ecuador,110,Guyana,1916,0,1,Sucres,,
+130,Ecuador,150,Paraguay,1916,0,1,Sucres,,
+130,Ecuador,326,Trieste,1916,0,1,Sucres,,
+130,Ecuador,630,Iran,1916,0,1,Sucres,,
+130,Ecuador,93,Nicaragua,1916,0,1,Sucres,,
+130,Ecuador,51,Jamaica,1916,0,1,Sucres,,
+130,Ecuador,640,Turkey,1916,0,1,Sucres,,
+130,Ecuador,675,Arabia,1916,0,1,Sucres,,
+130,Ecuador,70,Mexico,1916,0,1,Sucres,,
+130,Ecuador,900,Australia,1916,60499,1,Sucres,,
+130,Ecuador,235,Portugal,1916,1596,1,Sucres,,
+130,Ecuador,41,Haiti,1916,0,1,Sucres,,
+130,Ecuador,90,Guatemala,1916,0,1,Sucres,,
+130,Ecuador,920,New Zealand,1916,0,1,Sucres,,
+130,Ecuador,365,Russia,1916,0,1,Sucres,,
+130,Ecuador,740,Japan,1916,48832,1,Sucres,,
+130,Ecuador,96,Panama Canal Zone,1916,0,1,Sucres,,
+130,Ecuador,92,El Salvador,1916,13000,1,Sucres,,
+130,Ecuador,202,Scotland,1916,36615,1,Sucres,,
+130,Ecuador,352,Cyprus,1916,0,1,Sucres,,
+130,Ecuador,1069,Aruba,1916,0,1,Sucres,,
+130,Ecuador,350,Greece,1916,0,1,Sucres,,
+130,Ecuador,360,Romania,1916,0,1,Sucres,,
+130,Ecuador,580,Madagascar,1916,0,1,Sucres,,
+130,Ecuador,652,Syria,1916,0,1,Sucres,,
+130,Ecuador,140,Brazil,1916,0,1,Sucres,,
+130,Ecuador,91,Honduras,1916,0,1,Sucres,,
+130,Ecuador,810,French Indo-China,1916,0,1,Sucres,,
+130,Ecuador,255,Germany,1916,12898,1,Sucres,,
+130,Ecuador,94,Costa Rica,1916,0,1,Sucres,,
+130,Ecuador,115,Suriname,1916,0,1,Sucres,,
+130,Ecuador,160,Argentina,1916,0,1,Sucres,,
+130,Ecuador,375,Finland,1916,0,1,Sucres,,
+130,Ecuador,,,1916,19200126,1,Sucres,,
+130,Ecuador,52,Trinidad And Tobago,1917,0,1,Sucres,,
+130,Ecuador,225,Switzerland,1917,0,1,Sucres,,
+130,Ecuador,675,Arabia,1917,0,1,Sucres,,
+130,Ecuador,325,Italy,1917,401112,1,Sucres,,
+130,Ecuador,352,Cyprus,1917,0,1,Sucres,,
+130,Ecuador,255,Germany,1917,0,1,Sucres,,
+130,Ecuador,202,Scotland,1917,13306,1,Sucres,,
+130,Ecuador,91,Honduras,1917,0,1,Sucres,,
+130,Ecuador,580,Madagascar,1917,0,1,Sucres,,
+130,Ecuador,101,Venezuela,1917,0,1,Sucres,,
+130,Ecuador,920,New Zealand,1917,0,1,Sucres,,
+130,Ecuador,230,Spain,1917,1046641,1,Sucres,,
+130,Ecuador,645,Iraq,1917,0,1,Sucres,,
+130,Ecuador,350,Greece,1917,0,1,Sucres,,
+130,Ecuador,511,Zanzibar,1917,0,1,Sucres,,
+130,Ecuador,380,Sweden,1917,9621,1,Sucres,,
+130,Ecuador,385,Norway,1917,7296,1,Sucres,,
+130,Ecuador,160,Argentina,1917,1408,1,Sucres,,
+130,Ecuador,145,Bolivia,1917,0,1,Sucres,,
+130,Ecuador,110,Guyana,1917,0,1,Sucres,,
+130,Ecuador,93,Nicaragua,1917,0,1,Sucres,,
+130,Ecuador,345,Yugoslavia,1917,0,1,Sucres,,
+130,Ecuador,231,Gibraltar,1917,0,1,Sucres,,
+130,Ecuador,205,Ireland,1917,0,1,Sucres,,
+130,Ecuador,115,Suriname,1917,0,1,Sucres,,
+130,Ecuador,41,Haiti,1917,0,1,Sucres,,
+130,Ecuador,305,Austria,1917,0,1,Sucres,,
+130,Ecuador,211,Belgium,1917,0,1,Sucres,,
+130,Ecuador,338,Malta,1917,0,1,Sucres,,
+130,Ecuador,750,India,1917,80000,1,Sucres,,
+130,Ecuador,375,Finland,1917,0,1,Sucres,,
+130,Ecuador,100,Colombia,1917,89758,1,Sucres,,
+130,Ecuador,390,Denmark,1917,5884,1,Sucres,,
+130,Ecuador,20,Canada,1917,0,1,Sucres,,
+130,Ecuador,135,Peru,1917,524205,1,Sucres,,
+130,Ecuador,210,Netherlands,1917,33762,1,Sucres,,
+130,Ecuador,155,Chile,1917,340328,1,Sucres,,
+130,Ecuador,2,United States,1917,12205897,1,Sucres,,
+130,Ecuador,96,Panama Canal Zone,1917,0,1,Sucres,,
+130,Ecuador,8502,Sumatra,1917,0,1,Sucres,,
+130,Ecuador,317,Slovakia,1917,0,1,Sucres,,
+130,Ecuador,94,Costa Rica,1917,0,1,Sucres,,
+130,Ecuador,315,Czechoslovakia,1917,0,1,Sucres,,
+130,Ecuador,840,Philippines,1917,0,1,Sucres,,
+130,Ecuador,625,Sudan,1917,0,1,Sucres,,
+130,Ecuador,740,Japan,1917,124414,1,Sucres,,
+130,Ecuador,90,Guatemala,1917,0,1,Sucres,,
+130,Ecuador,6,Puerto Rico,1917,0,1,Sucres,,
+130,Ecuador,53,Barbados,1917,0,1,Sucres,,
+130,Ecuador,8501,Java,1917,0,1,Sucres,,
+130,Ecuador,235,Portugal,1917,0,1,Sucres,,
+130,Ecuador,42,Dominican Republic,1917,0,1,Sucres,,
+130,Ecuador,290,Poland,1917,0,1,Sucres,,
+130,Ecuador,360,Romania,1917,0,1,Sucres,,
+130,Ecuador,827,Straits Settlement,1917,0,1,Sucres,,
+130,Ecuador,51,Jamaica,1917,0,1,Sucres,,
+130,Ecuador,355,Bulgaria,1917,0,1,Sucres,,
+130,Ecuador,21,Newfoundland,1917,0,1,Sucres,,
+130,Ecuador,201,England,1917,5047648,1,Sucres,,
+130,Ecuador,810,French Indo-China,1917,0,1,Sucres,,
+130,Ecuador,326,Trieste,1917,0,1,Sucres,,
+130,Ecuador,780,Sri Lanka,1917,0,1,Sucres,,
+130,Ecuador,710,China,1917,66522,1,Sucres,,
+130,Ecuador,165,Uruguay,1917,480,1,Sucres,,
+130,Ecuador,367,Latvia,1917,0,1,Sucres,,
+130,Ecuador,366,Estonia,1917,0,1,Sucres,,
+130,Ecuador,410,Canary Islands,1917,750,1,Sucres,,
+130,Ecuador,900,Australia,1917,0,1,Sucres,,
+130,Ecuador,652,Syria,1917,0,1,Sucres,,
+130,Ecuador,,,1917,20943590,1,Sucres,,
+130,Ecuador,70,Mexico,1917,0,1,Sucres,,
+130,Ecuador,1065,Curacao,1917,0,1,Sucres,,
+130,Ecuador,720,Hong Kong,1917,0,1,Sucres,,
+130,Ecuador,365,Russia,1917,0,1,Sucres,,
+130,Ecuador,220,France,1917,667717,1,Sucres,,
+130,Ecuador,140,Brazil,1917,12000,1,Sucres,,
+130,Ecuador,630,Iran,1917,0,1,Sucres,,
+130,Ecuador,1069,Aruba,1917,0,1,Sucres,,
+130,Ecuador,475,Nigeria,1917,0,1,Sucres,,
+130,Ecuador,641,Turkey in Europe,1917,0,1,Sucres,,
+130,Ecuador,150,Paraguay,1917,0,1,Sucres,,
+130,Ecuador,40,Cuba,1917,23684,1,Sucres,,
+130,Ecuador,92,El Salvador,1917,47402,1,Sucres,,
+130,Ecuador,651,Egypt,1917,0,1,Sucres,,
+130,Ecuador,665,West Bank And Gaza,1917,0,1,Sucres,,
+130,Ecuador,640,Turkey,1917,0,1,Sucres,,
+130,Ecuador,310,Hungary,1917,0,1,Sucres,,
+130,Ecuador,95,Panama,1917,186769,1,Sucres,,
+130,Ecuador,210,Netherlands,1918,32235,1,Sucres,,
+130,Ecuador,2,United States,1918,9532430,1,Sucres,,
+130,Ecuador,827,Straits Settlement,1918,0,1,Sucres,,
+130,Ecuador,305,Austria,1918,0,1,Sucres,,
+130,Ecuador,8502,Sumatra,1918,0,1,Sucres,,
+130,Ecuador,20,Canada,1918,0,1,Sucres,,
+130,Ecuador,366,Estonia,1918,0,1,Sucres,,
+130,Ecuador,165,Uruguay,1918,8833,1,Sucres,,
+130,Ecuador,70,Mexico,1918,0,1,Sucres,,
+130,Ecuador,92,El Salvador,1918,27844,1,Sucres,,
+130,Ecuador,750,India,1918,99148,1,Sucres,,
+130,Ecuador,95,Panama,1918,98702,1,Sucres,,
+130,Ecuador,201,England,1918,3887415,1,Sucres,,
+130,Ecuador,255,Germany,1918,0,1,Sucres,,
+130,Ecuador,385,Norway,1918,0,1,Sucres,,
+130,Ecuador,6,Puerto Rico,1918,0,1,Sucres,,
+130,Ecuador,710,China,1918,5788,1,Sucres,,
+130,Ecuador,202,Scotland,1918,44304,1,Sucres,,
+130,Ecuador,380,Sweden,1918,34714,1,Sucres,,
+130,Ecuador,145,Bolivia,1918,0,1,Sucres,,
+130,Ecuador,900,Australia,1918,0,1,Sucres,,
+130,Ecuador,317,Slovakia,1918,0,1,Sucres,,
+130,Ecuador,625,Sudan,1918,0,1,Sucres,,
+130,Ecuador,640,Turkey,1918,0,1,Sucres,,
+130,Ecuador,352,Cyprus,1918,0,1,Sucres,,
+130,Ecuador,220,France,1918,326658,1,Sucres,,
+130,Ecuador,310,Hungary,1918,0,1,Sucres,,
+130,Ecuador,135,Peru,1918,462997,1,Sucres,,
+130,Ecuador,315,Czechoslovakia,1918,0,1,Sucres,,
+130,Ecuador,41,Haiti,1918,0,1,Sucres,,
+130,Ecuador,367,Latvia,1918,0,1,Sucres,,
+130,Ecuador,90,Guatemala,1918,0,1,Sucres,,
+130,Ecuador,93,Nicaragua,1918,0,1,Sucres,,
+130,Ecuador,920,New Zealand,1918,0,1,Sucres,,
+130,Ecuador,231,Gibraltar,1918,0,1,Sucres,,
+130,Ecuador,390,Denmark,1918,8168,1,Sucres,,
+130,Ecuador,720,Hong Kong,1918,0,1,Sucres,,
+130,Ecuador,51,Jamaica,1918,410,1,Sucres,,
+130,Ecuador,110,Guyana,1918,0,1,Sucres,,
+130,Ecuador,40,Cuba,1918,23759,1,Sucres,,
+130,Ecuador,211,Belgium,1918,0,1,Sucres,,
+130,Ecuador,580,Madagascar,1918,0,1,Sucres,,
+130,Ecuador,1065,Curacao,1918,0,1,Sucres,,
+130,Ecuador,652,Syria,1918,0,1,Sucres,,
+130,Ecuador,780,Sri Lanka,1918,0,1,Sucres,,
+130,Ecuador,230,Spain,1918,286204,1,Sucres,,
+130,Ecuador,53,Barbados,1918,0,1,Sucres,,
+130,Ecuador,810,French Indo-China,1918,0,1,Sucres,,
+130,Ecuador,645,Iraq,1918,0,1,Sucres,,
+130,Ecuador,675,Arabia,1918,0,1,Sucres,,
+130,Ecuador,338,Malta,1918,0,1,Sucres,,
+130,Ecuador,100,Colombia,1918,110040,1,Sucres,,
+130,Ecuador,101,Venezuela,1918,0,1,Sucres,,
+130,Ecuador,325,Italy,1918,245839,1,Sucres,,
+130,Ecuador,355,Bulgaria,1918,0,1,Sucres,,
+130,Ecuador,91,Honduras,1918,0,1,Sucres,,
+130,Ecuador,475,Nigeria,1918,0,1,Sucres,,
+130,Ecuador,360,Romania,1918,0,1,Sucres,,
+130,Ecuador,665,West Bank And Gaza,1918,0,1,Sucres,,
+130,Ecuador,21,Newfoundland,1918,0,1,Sucres,,
+130,Ecuador,365,Russia,1918,0,1,Sucres,,
+130,Ecuador,840,Philippines,1918,0,1,Sucres,,
+130,Ecuador,651,Egypt,1918,0,1,Sucres,,
+130,Ecuador,345,Yugoslavia,1918,0,1,Sucres,,
+130,Ecuador,375,Finland,1918,0,1,Sucres,,
+130,Ecuador,511,Zanzibar,1918,0,1,Sucres,,
+130,Ecuador,740,Japan,1918,127741,1,Sucres,,
+130,Ecuador,155,Chile,1918,1292617,1,Sucres,,
+130,Ecuador,225,Switzerland,1918,0,1,Sucres,,
+130,Ecuador,8501,Java,1918,0,1,Sucres,,
+130,Ecuador,290,Poland,1918,0,1,Sucres,,
+130,Ecuador,140,Brazil,1918,0,1,Sucres,,
+130,Ecuador,205,Ireland,1918,0,1,Sucres,,
+130,Ecuador,96,Panama Canal Zone,1918,0,1,Sucres,,
+130,Ecuador,235,Portugal,1918,0,1,Sucres,,
+130,Ecuador,150,Paraguay,1918,0,1,Sucres,,
+130,Ecuador,160,Argentina,1918,0,1,Sucres,,
+130,Ecuador,410,Canary Islands,1918,0,1,Sucres,,
+130,Ecuador,326,Trieste,1918,0,1,Sucres,,
+130,Ecuador,52,Trinidad And Tobago,1918,0,1,Sucres,,
+130,Ecuador,641,Turkey in Europe,1918,0,1,Sucres,,
+130,Ecuador,350,Greece,1918,0,1,Sucres,,
+130,Ecuador,94,Costa Rica,1918,0,1,Sucres,,
+130,Ecuador,1069,Aruba,1918,0,1,Sucres,,
+130,Ecuador,42,Dominican Republic,1918,0,1,Sucres,,
+130,Ecuador,630,Iran,1918,0,1,Sucres,,
+130,Ecuador,,,1918,16725594,1,Sucres,,
+130,Ecuador,115,Suriname,1918,0,1,Sucres,,
+130,Ecuador,365,Russia,1919,0,1,Sucres,,
+130,Ecuador,145,Bolivia,1919,0,1,Sucres,,
+130,Ecuador,315,Czechoslovakia,1919,0,1,Sucres,,
+130,Ecuador,380,Sweden,1919,59033,1,Sucres,,
+130,Ecuador,100,Colombia,1919,11350,1,Sucres,,
+130,Ecuador,225,Switzerland,1919,0,1,Sucres,,
+130,Ecuador,201,England,1919,3150186,1,Sucres,,
+130,Ecuador,52,Trinidad And Tobago,1919,0,1,Sucres,,
+130,Ecuador,53,Barbados,1919,0,1,Sucres,,
+130,Ecuador,155,Chile,1919,986496,1,Sucres,,
+130,Ecuador,645,Iraq,1919,0,1,Sucres,,
+130,Ecuador,652,Syria,1919,0,1,Sucres,,
+130,Ecuador,211,Belgium,1919,0,1,Sucres,,
+130,Ecuador,140,Brazil,1919,0,1,Sucres,,
+130,Ecuador,290,Poland,1919,0,1,Sucres,,
+130,Ecuador,51,Jamaica,1919,0,1,Sucres,,
+130,Ecuador,410,Canary Islands,1919,0,1,Sucres,,
+130,Ecuador,810,French Indo-China,1919,0,1,Sucres,,
+130,Ecuador,310,Hungary,1919,0,1,Sucres,,
+130,Ecuador,41,Haiti,1919,0,1,Sucres,,
+130,Ecuador,350,Greece,1919,0,1,Sucres,,
+130,Ecuador,355,Bulgaria,1919,0,1,Sucres,,
+130,Ecuador,580,Madagascar,1919,0,1,Sucres,,
+130,Ecuador,651,Egypt,1919,0,1,Sucres,,
+130,Ecuador,366,Estonia,1919,0,1,Sucres,,
+130,Ecuador,220,France,1919,639142,1,Sucres,,
+130,Ecuador,641,Turkey in Europe,1919,0,1,Sucres,,
+130,Ecuador,42,Dominican Republic,1919,0,1,Sucres,,
+130,Ecuador,1065,Curacao,1919,0,1,Sucres,,
+130,Ecuador,326,Trieste,1919,0,1,Sucres,,
+130,Ecuador,230,Spain,1919,523665,1,Sucres,,
+130,Ecuador,338,Malta,1919,0,1,Sucres,,
+130,Ecuador,235,Portugal,1919,0,1,Sucres,,
+130,Ecuador,21,Newfoundland,1919,0,1,Sucres,,
+130,Ecuador,710,China,1919,9,1,Sucres,,
+130,Ecuador,,,1919,24008184,1,Sucres,,
+130,Ecuador,675,Arabia,1919,0,1,Sucres,,
+130,Ecuador,115,Suriname,1919,0,1,Sucres,,
+130,Ecuador,6,Puerto Rico,1919,0,1,Sucres,,
+130,Ecuador,20,Canada,1919,0,1,Sucres,,
+130,Ecuador,630,Iran,1919,0,1,Sucres,,
+130,Ecuador,210,Netherlands,1919,72026,1,Sucres,,
+130,Ecuador,101,Venezuela,1919,0,1,Sucres,,
+130,Ecuador,900,Australia,1919,0,1,Sucres,,
+130,Ecuador,780,Sri Lanka,1919,0,1,Sucres,,
+130,Ecuador,325,Italy,1919,164575,1,Sucres,,
+130,Ecuador,40,Cuba,1919,16725,1,Sucres,,
+130,Ecuador,96,Panama Canal Zone,1919,0,1,Sucres,,
+130,Ecuador,360,Romania,1919,0,1,Sucres,,
+130,Ecuador,640,Turkey,1919,0,1,Sucres,,
+130,Ecuador,231,Gibraltar,1919,0,1,Sucres,,
+130,Ecuador,94,Costa Rica,1919,0,1,Sucres,,
+130,Ecuador,352,Cyprus,1919,0,1,Sucres,,
+130,Ecuador,367,Latvia,1919,0,1,Sucres,,
+130,Ecuador,91,Honduras,1919,0,1,Sucres,,
+130,Ecuador,165,Uruguay,1919,0,1,Sucres,,
+130,Ecuador,202,Scotland,1919,125032,1,Sucres,,
+130,Ecuador,375,Finland,1919,0,1,Sucres,,
+130,Ecuador,205,Ireland,1919,0,1,Sucres,,
+130,Ecuador,720,Hong Kong,1919,0,1,Sucres,,
+130,Ecuador,385,Norway,1919,0,1,Sucres,,
+130,Ecuador,475,Nigeria,1919,0,1,Sucres,,
+130,Ecuador,1069,Aruba,1919,0,1,Sucres,,
+130,Ecuador,92,El Salvador,1919,14500,1,Sucres,,
+130,Ecuador,840,Philippines,1919,0,1,Sucres,,
+130,Ecuador,750,India,1919,506049,1,Sucres,,
+130,Ecuador,317,Slovakia,1919,0,1,Sucres,,
+130,Ecuador,2,United States,1919,16812770,1,Sucres,,
+130,Ecuador,390,Denmark,1919,4802,1,Sucres,,
+130,Ecuador,920,New Zealand,1919,0,1,Sucres,,
+130,Ecuador,8501,Java,1919,0,1,Sucres,,
+130,Ecuador,160,Argentina,1919,1800,1,Sucres,,
+130,Ecuador,827,Straits Settlement,1919,0,1,Sucres,,
+130,Ecuador,625,Sudan,1919,0,1,Sucres,,
+130,Ecuador,511,Zanzibar,1919,0,1,Sucres,,
+130,Ecuador,8502,Sumatra,1919,0,1,Sucres,,
+130,Ecuador,255,Germany,1919,1786,1,Sucres,,
+130,Ecuador,345,Yugoslavia,1919,0,1,Sucres,,
+130,Ecuador,70,Mexico,1919,0,1,Sucres,,
+130,Ecuador,110,Guyana,1919,0,1,Sucres,,
+130,Ecuador,150,Paraguay,1919,0,1,Sucres,,
+130,Ecuador,95,Panama,1919,131100,1,Sucres,,
+130,Ecuador,665,West Bank And Gaza,1919,0,1,Sucres,,
+130,Ecuador,90,Guatemala,1919,4000,1,Sucres,,
+130,Ecuador,740,Japan,1919,124379,1,Sucres,,
+130,Ecuador,135,Peru,1919,657767,1,Sucres,,
+130,Ecuador,93,Nicaragua,1919,0,1,Sucres,,
+130,Ecuador,305,Austria,1919,0,1,Sucres,,
+130,Ecuador,92,El Salvador,1920,76857,1,Sucres,,
+130,Ecuador,385,Norway,1920,21925,1,Sucres,,
+130,Ecuador,1069,Aruba,1920,0,1,Sucres,,
+130,Ecuador,315,Czechoslovakia,1920,0,1,Sucres,,
+130,Ecuador,40,Cuba,1920,13104,1,Sucres,,
+130,Ecuador,366,Estonia,1920,0,1,Sucres,,
+130,Ecuador,225,Switzerland,1920,174,1,Sucres,,
+130,Ecuador,110,Guyana,1920,0,1,Sucres,,
+130,Ecuador,645,Iraq,1920,0,1,Sucres,,
+130,Ecuador,160,Argentina,1920,11526,1,Sucres,,
+130,Ecuador,202,Scotland,1920,261212,1,Sucres,,
+130,Ecuador,21,Newfoundland,1920,0,1,Sucres,,
+130,Ecuador,8502,Sumatra,1920,0,1,Sucres,,
+130,Ecuador,375,Finland,1920,0,1,Sucres,,
+130,Ecuador,93,Nicaragua,1920,0,1,Sucres,,
+130,Ecuador,150,Paraguay,1920,0,1,Sucres,,
+130,Ecuador,205,Ireland,1920,1086,1,Sucres,,
+130,Ecuador,810,French Indo-China,1920,0,1,Sucres,,
+130,Ecuador,210,Netherlands,1920,265336,1,Sucres,,
+130,Ecuador,135,Peru,1920,965394,1,Sucres,,
+130,Ecuador,750,India,1920,401627,1,Sucres,,
+130,Ecuador,710,China,1920,21555,1,Sucres,,
+130,Ecuador,1065,Curacao,1920,0,1,Sucres,,
+130,Ecuador,53,Barbados,1920,0,1,Sucres,,
+130,Ecuador,630,Iran,1920,0,1,Sucres,,
+130,Ecuador,95,Panama,1920,74897,1,Sucres,,
+130,Ecuador,410,Canary Islands,1920,1421,1,Sucres,,
+130,Ecuador,41,Haiti,1920,0,1,Sucres,,
+130,Ecuador,220,France,1920,1394277,1,Sucres,,
+130,Ecuador,6,Puerto Rico,1920,0,1,Sucres,,
+130,Ecuador,255,Germany,1920,1122890,1,Sucres,,
+130,Ecuador,675,Arabia,1920,0,1,Sucres,,
+130,Ecuador,365,Russia,1920,0,1,Sucres,,
+130,Ecuador,380,Sweden,1920,165828,1,Sucres,,
+130,Ecuador,840,Philippines,1920,0,1,Sucres,,
+130,Ecuador,652,Syria,1920,0,1,Sucres,,
+130,Ecuador,367,Latvia,1920,0,1,Sucres,,
+130,Ecuador,52,Trinidad And Tobago,1920,0,1,Sucres,,
+130,Ecuador,920,New Zealand,1920,0,1,Sucres,,
+130,Ecuador,352,Cyprus,1920,0,1,Sucres,,
+130,Ecuador,326,Trieste,1920,0,1,Sucres,,
+130,Ecuador,145,Bolivia,1920,0,1,Sucres,,
+130,Ecuador,390,Denmark,1920,38272,1,Sucres,,
+130,Ecuador,355,Bulgaria,1920,0,1,Sucres,,
+130,Ecuador,70,Mexico,1920,0,1,Sucres,,
+130,Ecuador,827,Straits Settlement,1920,0,1,Sucres,,
+130,Ecuador,101,Venezuela,1920,0,1,Sucres,,
+130,Ecuador,305,Austria,1920,0,1,Sucres,,
+130,Ecuador,900,Australia,1920,0,1,Sucres,,
+130,Ecuador,640,Turkey,1920,0,1,Sucres,,
+130,Ecuador,580,Madagascar,1920,0,1,Sucres,,
+130,Ecuador,325,Italy,1920,570710,1,Sucres,,
+130,Ecuador,641,Turkey in Europe,1920,0,1,Sucres,,
+130,Ecuador,165,Uruguay,1920,7099,1,Sucres,,
+130,Ecuador,665,West Bank And Gaza,1920,0,1,Sucres,,
+130,Ecuador,740,Japan,1920,182541,1,Sucres,,
+130,Ecuador,100,Colombia,1920,65140,1,Sucres,,
+130,Ecuador,51,Jamaica,1920,0,1,Sucres,,
+130,Ecuador,360,Romania,1920,0,1,Sucres,,
+130,Ecuador,140,Brazil,1920,0,1,Sucres,,
+130,Ecuador,317,Slovakia,1920,0,1,Sucres,,
+130,Ecuador,90,Guatemala,1920,0,1,Sucres,,
+130,Ecuador,42,Dominican Republic,1920,0,1,Sucres,,
+130,Ecuador,235,Portugal,1920,0,1,Sucres,,
+130,Ecuador,2,United States,1920,25424972,1,Sucres,,
+130,Ecuador,201,England,1920,9829014,1,Sucres,,
+130,Ecuador,625,Sudan,1920,0,1,Sucres,,
+130,Ecuador,20,Canada,1920,0,1,Sucres,,
+130,Ecuador,651,Egypt,1920,0,1,Sucres,,
+130,Ecuador,310,Hungary,1920,0,1,Sucres,,
+130,Ecuador,511,Zanzibar,1920,0,1,Sucres,,
+130,Ecuador,475,Nigeria,1920,0,1,Sucres,,
+130,Ecuador,211,Belgium,1920,577310,1,Sucres,,
+130,Ecuador,231,Gibraltar,1920,0,1,Sucres,,
+130,Ecuador,94,Costa Rica,1920,0,1,Sucres,,
+130,Ecuador,350,Greece,1920,0,1,Sucres,,
+130,Ecuador,155,Chile,1920,864121,1,Sucres,,
+130,Ecuador,,,1920,43499508,1,Sucres,,
+130,Ecuador,91,Honduras,1920,0,1,Sucres,,
+130,Ecuador,345,Yugoslavia,1920,0,1,Sucres,,
+130,Ecuador,720,Hong Kong,1920,0,1,Sucres,,
+130,Ecuador,8501,Java,1920,0,1,Sucres,,
+130,Ecuador,780,Sri Lanka,1920,0,1,Sucres,,
+130,Ecuador,115,Suriname,1920,0,1,Sucres,,
+130,Ecuador,338,Malta,1920,0,1,Sucres,,
+130,Ecuador,96,Panama Canal Zone,1920,0,1,Sucres,,
+130,Ecuador,290,Poland,1920,0,1,Sucres,,
+130,Ecuador,230,Spain,1920,1131314,1,Sucres,,
+130,Ecuador,225,Switzerland,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,385,Norway,1921,46832,1,Sucres,3.7091999,3.7091999
+130,Ecuador,150,Paraguay,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,380,Sweden,1921,236062,1,Sucres,3.7091999,3.7091999
+130,Ecuador,93,Nicaragua,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,6,Puerto Rico,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,640,Turkey,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,827,Straits Settlement,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,51,Jamaica,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,140,Brazil,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,202,Scotland,1921,693335,1,Sucres,3.7091999,3.7091999
+130,Ecuador,231,Gibraltar,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,641,Turkey in Europe,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,350,Greece,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,580,Madagascar,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,90,Guatemala,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,8502,Sumatra,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,101,Venezuela,1921,411,1,Sucres,3.7091999,3.7091999
+130,Ecuador,42,Dominican Republic,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,365,Russia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,352,Cyprus,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,115,Suriname,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,94,Costa Rica,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,675,Arabia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,750,India,1921,80936,1,Sucres,3.7091999,3.7091999
+130,Ecuador,345,Yugoslavia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,367,Latvia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,95,Panama,1921,96194,1,Sucres,3.7091999,3.7091999
+130,Ecuador,920,New Zealand,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,780,Sri Lanka,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,8501,Java,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,338,Malta,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,160,Argentina,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,710,China,1921,15891,1,Sucres,3.7091999,3.7091999
+130,Ecuador,326,Trieste,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,651,Egypt,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,53,Barbados,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,165,Uruguay,1921,15648,1,Sucres,3.7091999,3.7091999
+130,Ecuador,290,Poland,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,,,1921,23498057,1,Sucres,3.7091999,3.7091999
+130,Ecuador,410,Canary Islands,1921,938,1,Sucres,3.7091999,3.7091999
+130,Ecuador,375,Finland,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,315,Czechoslovakia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,366,Estonia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,230,Spain,1921,979628,1,Sucres,3.7091999,3.7091999
+130,Ecuador,317,Slovakia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,20,Canada,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,720,Hong Kong,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,740,Japan,1921,38357,1,Sucres,3.7091999,3.7091999
+130,Ecuador,1069,Aruba,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,96,Panama Canal Zone,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,205,Ireland,1921,806,1,Sucres,3.7091999,3.7091999
+130,Ecuador,145,Bolivia,1921,1000,1,Sucres,3.7091999,3.7091999
+130,Ecuador,235,Portugal,1921,900,1,Sucres,3.7091999,3.7091999
+130,Ecuador,52,Trinidad And Tobago,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,840,Philippines,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,810,French Indo-China,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,220,France,1921,1703932,1,Sucres,3.7091999,3.7091999
+130,Ecuador,652,Syria,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,665,West Bank And Gaza,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,355,Bulgaria,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,211,Belgium,1921,414293,1,Sucres,3.7091999,3.7091999
+130,Ecuador,360,Romania,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,900,Australia,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,630,Iran,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,2,United States,1921,8945710,1,Sucres,3.7091999,3.7091999
+130,Ecuador,91,Honduras,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,645,Iraq,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,41,Haiti,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,305,Austria,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,155,Chile,1921,484791,1,Sucres,3.7091999,3.7091999
+130,Ecuador,625,Sudan,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,135,Peru,1921,935997,1,Sucres,3.7091999,3.7091999
+130,Ecuador,210,Netherlands,1921,127456,1,Sucres,3.7091999,3.7091999
+130,Ecuador,110,Guyana,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,390,Denmark,1921,164621,1,Sucres,3.7091999,3.7091999
+130,Ecuador,70,Mexico,1921,156,1,Sucres,3.7091999,3.7091999
+130,Ecuador,40,Cuba,1921,22626,1,Sucres,3.7091999,3.7091999
+130,Ecuador,100,Colombia,1921,82937,1,Sucres,3.7091999,3.7091999
+130,Ecuador,475,Nigeria,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,201,England,1921,6158307,1,Sucres,3.7091999,3.7091999
+130,Ecuador,511,Zanzibar,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,21,Newfoundland,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,310,Hungary,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,325,Italy,1921,303551,1,Sucres,3.7091999,3.7091999
+130,Ecuador,92,El Salvador,1921,28579,1,Sucres,3.7091999,3.7091999
+130,Ecuador,255,Germany,1921,1894429,1,Sucres,3.7091999,3.7091999
+130,Ecuador,1065,Curacao,1921,0,1,Sucres,3.7091999,3.7091999
+130,Ecuador,315,Czechoslovakia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,225,Switzerland,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,93,Nicaragua,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,355,Bulgaria,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,625,Sudan,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,255,Germany,1922,2510456,1,Sucres,4.2995,4.2995
+130,Ecuador,1069,Aruba,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,317,Slovakia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,840,Philippines,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,41,Haiti,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,90,Guatemala,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,101,Venezuela,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,740,Japan,1922,11093,1,Sucres,4.2995,4.2995
+130,Ecuador,338,Malta,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,900,Australia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,115,Suriname,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,145,Bolivia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,367,Latvia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,155,Chile,1922,112022,1,Sucres,4.2995,4.2995
+130,Ecuador,1065,Curacao,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,51,Jamaica,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,52,Trinidad And Tobago,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,645,Iraq,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,326,Trieste,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,165,Uruguay,1922,2785,1,Sucres,4.2995,4.2995
+130,Ecuador,630,Iran,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,91,Honduras,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,8501,Java,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,2,United States,1922,15523230,1,Sucres,4.2995,4.2995
+130,Ecuador,100,Colombia,1922,80803,1,Sucres,4.2995,4.2995
+130,Ecuador,110,Guyana,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,94,Costa Rica,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,40,Cuba,1922,454,1,Sucres,4.2995,4.2995
+130,Ecuador,21,Newfoundland,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,810,French Indo-China,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,160,Argentina,1922,720,1,Sucres,4.2995,4.2995
+130,Ecuador,641,Turkey in Europe,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,365,Russia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,231,Gibraltar,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,42,Dominican Republic,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,410,Canary Islands,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,750,India,1922,454467,1,Sucres,4.2995,4.2995
+130,Ecuador,235,Portugal,1922,912,1,Sucres,4.2995,4.2995
+130,Ecuador,360,Romania,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,352,Cyprus,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,202,Scotland,1922,1079655,1,Sucres,4.2995,4.2995
+130,Ecuador,640,Turkey,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,205,Ireland,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,665,West Bank And Gaza,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,8502,Sumatra,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,211,Belgium,1922,737662,1,Sucres,4.2995,4.2995
+130,Ecuador,920,New Zealand,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,780,Sri Lanka,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,96,Panama Canal Zone,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,511,Zanzibar,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,710,China,1922,67369,1,Sucres,4.2995,4.2995
+130,Ecuador,652,Syria,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,375,Finland,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,720,Hong Kong,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,651,Egypt,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,135,Peru,1922,1261915,1,Sucres,4.2995,4.2995
+130,Ecuador,210,Netherlands,1922,249622,1,Sucres,4.2995,4.2995
+130,Ecuador,53,Barbados,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,70,Mexico,1922,300,1,Sucres,4.2995,4.2995
+130,Ecuador,95,Panama,1922,141469,1,Sucres,4.2995,4.2995
+130,Ecuador,385,Norway,1922,182878,1,Sucres,4.2995,4.2995
+130,Ecuador,20,Canada,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,325,Italy,1922,353505,1,Sucres,4.2995,4.2995
+130,Ecuador,305,Austria,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,6,Puerto Rico,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,310,Hungary,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,150,Paraguay,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,,,1922,33581897,1,Sucres,4.2995,4.2995
+130,Ecuador,390,Denmark,1922,86936,1,Sucres,4.2995,4.2995
+130,Ecuador,290,Poland,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,140,Brazil,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,366,Estonia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,475,Nigeria,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,220,France,1922,1319074,1,Sucres,4.2995,4.2995
+130,Ecuador,350,Greece,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,230,Spain,1922,881238,1,Sucres,4.2995,4.2995
+130,Ecuador,92,El Salvador,1922,6680,1,Sucres,4.2995,4.2995
+130,Ecuador,201,England,1922,8474045,1,Sucres,4.2995,4.2995
+130,Ecuador,380,Sweden,1922,42607,1,Sucres,4.2995,4.2995
+130,Ecuador,345,Yugoslavia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,580,Madagascar,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,827,Straits Settlement,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,675,Arabia,1922,0,1,Sucres,4.2995,4.2995
+130,Ecuador,6,Puerto Rico,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,317,Slovakia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,211,Belgium,1923,1288911,1,Sucres,3.7886,3.7886
+130,Ecuador,220,France,1923,1669341,1,Sucres,3.7886,3.7886
+130,Ecuador,41,Haiti,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,920,New Zealand,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,92,El Salvador,1923,13208,1,Sucres,3.7886,3.7886
+130,Ecuador,40,Cuba,1923,2156,1,Sucres,3.7886,3.7886
+130,Ecuador,475,Nigeria,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,115,Suriname,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,380,Sweden,1923,117100,1,Sucres,3.7886,3.7886
+130,Ecuador,,,1923,36834898,1,Sucres,3.7886,3.7886
+130,Ecuador,750,India,1923,314991,1,Sucres,3.7886,3.7886
+130,Ecuador,511,Zanzibar,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,652,Syria,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,53,Barbados,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,367,Latvia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,325,Italy,1923,636790,1,Sucres,3.7886,3.7886
+130,Ecuador,385,Norway,1923,195547,1,Sucres,3.7886,3.7886
+130,Ecuador,352,Cyprus,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,630,Iran,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,165,Uruguay,1923,1630,1,Sucres,3.7886,3.7886
+130,Ecuador,160,Argentina,1923,3116,1,Sucres,3.7886,3.7886
+130,Ecuador,710,China,1923,50734,1,Sucres,3.7886,3.7886
+130,Ecuador,355,Bulgaria,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,225,Switzerland,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,720,Hong Kong,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,360,Romania,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,140,Brazil,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,255,Germany,1923,5448770,1,Sucres,3.7886,3.7886
+130,Ecuador,205,Ireland,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,52,Trinidad And Tobago,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,91,Honduras,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,201,England,1923,8626891,1,Sucres,3.7886,3.7886
+130,Ecuador,70,Mexico,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,231,Gibraltar,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,93,Nicaragua,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,651,Egypt,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,810,French Indo-China,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,8501,Java,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,100,Colombia,1923,20315,1,Sucres,3.7886,3.7886
+130,Ecuador,625,Sudan,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,155,Chile,1923,410554,1,Sucres,3.7886,3.7886
+130,Ecuador,1069,Aruba,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,410,Canary Islands,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,645,Iraq,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,51,Jamaica,1923,1093,1,Sucres,3.7886,3.7886
+130,Ecuador,42,Dominican Republic,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,345,Yugoslavia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,580,Madagascar,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,94,Costa Rica,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,150,Paraguay,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,1065,Curacao,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,827,Straits Settlement,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,338,Malta,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,135,Peru,1923,1285620,1,Sucres,3.7886,3.7886
+130,Ecuador,900,Australia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,315,Czechoslovakia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,390,Denmark,1923,100825,1,Sucres,3.7886,3.7886
+130,Ecuador,202,Scotland,1923,421363,1,Sucres,3.7886,3.7886
+130,Ecuador,90,Guatemala,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,96,Panama Canal Zone,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,235,Portugal,1923,19820,1,Sucres,3.7886,3.7886
+130,Ecuador,665,West Bank And Gaza,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,305,Austria,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,2,United States,1923,14615144,1,Sucres,3.7886,3.7886
+130,Ecuador,110,Guyana,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,20,Canada,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,95,Panama,1923,63813,1,Sucres,3.7886,3.7886
+130,Ecuador,840,Philippines,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,290,Poland,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,8502,Sumatra,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,230,Spain,1923,1085036,1,Sucres,3.7886,3.7886
+130,Ecuador,145,Bolivia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,310,Hungary,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,641,Turkey in Europe,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,675,Arabia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,365,Russia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,210,Netherlands,1923,337367,1,Sucres,3.7886,3.7886
+130,Ecuador,101,Venezuela,1923,1842,1,Sucres,3.7886,3.7886
+130,Ecuador,780,Sri Lanka,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,740,Japan,1923,42641,1,Sucres,3.7886,3.7886
+130,Ecuador,375,Finland,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,326,Trieste,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,350,Greece,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,21,Newfoundland,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,640,Turkey,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,366,Estonia,1923,0,1,Sucres,3.7886,3.7886
+130,Ecuador,94,Costa Rica,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,21,Newfoundland,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,360,Romania,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,210,Netherlands,1924,1662093,1,Sucres,4.9631,4.9631
+130,Ecuador,135,Peru,1924,1361617,1,Sucres,4.9631,4.9631
+130,Ecuador,385,Norway,1924,188693,1,Sucres,4.9631,4.9631
+130,Ecuador,231,Gibraltar,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,720,Hong Kong,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,827,Straits Settlement,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,165,Uruguay,1924,11614,1,Sucres,4.9631,4.9631
+130,Ecuador,920,New Zealand,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,95,Panama,1924,220429,1,Sucres,4.9631,4.9631
+130,Ecuador,1069,Aruba,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,900,Australia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,367,Latvia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,101,Venezuela,1924,2558,1,Sucres,4.9631,4.9631
+130,Ecuador,345,Yugoslavia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,40,Cuba,1924,388,1,Sucres,4.9631,4.9631
+130,Ecuador,100,Colombia,1924,5608,1,Sucres,4.9631,4.9631
+130,Ecuador,365,Russia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,352,Cyprus,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,315,Czechoslovakia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,205,Ireland,1924,359,1,Sucres,4.9631,4.9631
+130,Ecuador,580,Madagascar,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,52,Trinidad And Tobago,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,2,United States,1924,20956403,1,Sucres,4.9631,4.9631
+130,Ecuador,160,Argentina,1924,33810,1,Sucres,4.9631,4.9631
+130,Ecuador,740,Japan,1924,43349,1,Sucres,4.9631,4.9631
+130,Ecuador,305,Austria,1924,1527,1,Sucres,4.9631,4.9631
+130,Ecuador,225,Switzerland,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,93,Nicaragua,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,652,Syria,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,255,Germany,1924,6221260,1,Sucres,4.9631,4.9631
+130,Ecuador,645,Iraq,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,310,Hungary,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,235,Portugal,1924,2116,1,Sucres,4.9631,4.9631
+130,Ecuador,96,Panama Canal Zone,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,325,Italy,1924,2278185,1,Sucres,4.9631,4.9631
+130,Ecuador,641,Turkey in Europe,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,675,Arabia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,8501,Java,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,150,Paraguay,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,380,Sweden,1924,61688,1,Sucres,4.9631,4.9631
+130,Ecuador,1065,Curacao,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,42,Dominican Republic,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,145,Bolivia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,350,Greece,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,6,Puerto Rico,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,390,Denmark,1924,99994,1,Sucres,4.9631,4.9631
+130,Ecuador,630,Iran,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,70,Mexico,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,41,Haiti,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,780,Sri Lanka,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,366,Estonia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,810,French Indo-China,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,230,Spain,1924,1040930,1,Sucres,4.9631,4.9631
+130,Ecuador,211,Belgium,1924,1622738,1,Sucres,4.9631,4.9631
+130,Ecuador,8502,Sumatra,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,475,Nigeria,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,326,Trieste,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,290,Poland,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,140,Brazil,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,317,Slovakia,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,115,Suriname,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,651,Egypt,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,91,Honduras,1924,25343,1,Sucres,4.9631,4.9631
+130,Ecuador,375,Finland,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,155,Chile,1924,552237,1,Sucres,4.9631,4.9631
+130,Ecuador,220,France,1924,2215682,1,Sucres,4.9631,4.9631
+130,Ecuador,840,Philippines,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,338,Malta,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,355,Bulgaria,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,640,Turkey,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,53,Barbados,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,202,Scotland,1924,806101,1,Sucres,4.9631,4.9631
+130,Ecuador,110,Guyana,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,511,Zanzibar,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,750,India,1924,331511,1,Sucres,4.9631,4.9631
+130,Ecuador,90,Guatemala,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,,,1924,52042109,1,Sucres,4.9631,4.9631
+130,Ecuador,410,Canary Islands,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,20,Canada,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,201,England,1924,12106609,1,Sucres,4.9631,4.9631
+130,Ecuador,51,Jamaica,1924,13419,1,Sucres,4.9631,4.9631
+130,Ecuador,665,West Bank And Gaza,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,710,China,1924,74344,1,Sucres,4.9631,4.9631
+130,Ecuador,92,El Salvador,1924,23328,1,Sucres,4.9631,4.9631
+130,Ecuador,625,Sudan,1924,0,1,Sucres,4.9631,4.9631
+130,Ecuador,710,China,1925,32478,1,Sucres,4.5549998,4.5549998
+130,Ecuador,220,France,1925,2055022,1,Sucres,4.5549998,4.5549998
+130,Ecuador,135,Peru,1925,1918280,1,Sucres,4.5549998,4.5549998
+130,Ecuador,720,Hong Kong,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,315,Czechoslovakia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,21,Newfoundland,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,92,El Salvador,1925,4200,1,Sucres,4.5549998,4.5549998
+130,Ecuador,410,Canary Islands,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,165,Uruguay,1925,9369,1,Sucres,4.5549998,4.5549998
+130,Ecuador,93,Nicaragua,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,110,Guyana,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,675,Arabia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,740,Japan,1925,32931,1,Sucres,4.5549998,4.5549998
+130,Ecuador,511,Zanzibar,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,255,Germany,1925,5672098,1,Sucres,4.5549998,4.5549998
+130,Ecuador,651,Egypt,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,235,Portugal,1925,10271,1,Sucres,4.5549998,4.5549998
+130,Ecuador,201,England,1925,11716424,1,Sucres,4.5549998,4.5549998
+130,Ecuador,231,Gibraltar,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,53,Barbados,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,390,Denmark,1925,43971,1,Sucres,4.5549998,4.5549998
+130,Ecuador,1069,Aruba,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,6,Puerto Rico,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,367,Latvia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,,,1925,55277851,1,Sucres,4.5549998,4.5549998
+130,Ecuador,52,Trinidad And Tobago,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,305,Austria,1925,1065,1,Sucres,4.5549998,4.5549998
+130,Ecuador,205,Ireland,1925,317730,1,Sucres,4.5549998,4.5549998
+130,Ecuador,8501,Java,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,230,Spain,1925,1342866,1,Sucres,4.5549998,4.5549998
+130,Ecuador,160,Argentina,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,352,Cyprus,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,40,Cuba,1925,97000,1,Sucres,4.5549998,4.5549998
+130,Ecuador,900,Australia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,375,Finland,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,750,India,1925,417421,1,Sucres,4.5549998,4.5549998
+130,Ecuador,625,Sudan,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,210,Netherlands,1925,877966,1,Sucres,4.5549998,4.5549998
+130,Ecuador,140,Brazil,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,380,Sweden,1925,130721,1,Sucres,4.5549998,4.5549998
+130,Ecuador,51,Jamaica,1925,500,1,Sucres,4.5549998,4.5549998
+130,Ecuador,317,Slovakia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,1065,Curacao,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,326,Trieste,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,338,Malta,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,810,French Indo-China,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,202,Scotland,1925,285360,1,Sucres,4.5549998,4.5549998
+130,Ecuador,840,Philippines,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,155,Chile,1925,724555,1,Sucres,4.5549998,4.5549998
+130,Ecuador,920,New Zealand,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,645,Iraq,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,101,Venezuela,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,360,Romania,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,780,Sri Lanka,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,366,Estonia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,325,Italy,1925,2429107,1,Sucres,4.5549998,4.5549998
+130,Ecuador,41,Haiti,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,475,Nigeria,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,640,Turkey,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,641,Turkey in Europe,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,827,Straits Settlement,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,385,Norway,1925,223720,1,Sucres,4.5549998,4.5549998
+130,Ecuador,310,Hungary,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,665,West Bank And Gaza,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,365,Russia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,96,Panama Canal Zone,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,115,Suriname,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,94,Costa Rica,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,90,Guatemala,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,145,Bolivia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,150,Paraguay,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,290,Poland,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,20,Canada,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,355,Bulgaria,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,70,Mexico,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,211,Belgium,1925,1607859,1,Sucres,4.5549998,4.5549998
+130,Ecuador,42,Dominican Republic,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,2,United States,1925,24774278,1,Sucres,4.5549998,4.5549998
+130,Ecuador,100,Colombia,1925,36288,1,Sucres,4.5549998,4.5549998
+130,Ecuador,580,Madagascar,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,345,Yugoslavia,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,225,Switzerland,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,8502,Sumatra,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,350,Greece,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,95,Panama,1925,426517,1,Sucres,4.5549998,4.5549998
+130,Ecuador,630,Iran,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,652,Syria,1925,0,1,Sucres,4.5549998,4.5549998
+130,Ecuador,91,Honduras,1925,4000,1,Sucres,4.5549998,4.5549998
+130,Ecuador,350,Greece,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,205,Ireland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,665,West Bank And Gaza,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,52,Trinidad And Tobago,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,810,French Indo-China,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,140,Brazil,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,740,Japan,1926,90,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,511,Zanzibar,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,150,Paraguay,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,827,Straits Settlement,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,42,Dominican Republic,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,366,Estonia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,40,Cuba,1926,173,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,625,Sudan,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,630,Iran,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,220,France,1926,2208,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,225,Switzerland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,410,Canary Islands,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,367,Latvia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,93,Nicaragua,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,160,Argentina,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,900,Australia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,317,Slovakia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,8501,Java,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,305,Austria,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,375,Finland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,652,Syria,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,135,Peru,1926,1495,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,651,Egypt,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,710,China,1926,47,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,385,Norway,1926,152,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,290,Poland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,53,Barbados,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,840,Philippines,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,640,Turkey,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,51,Jamaica,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,96,Panama Canal Zone,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,720,Hong Kong,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,338,Malta,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,380,Sweden,1926,75,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,352,Cyprus,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,645,Iraq,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,20,Canada,1926,5,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,91,Honduras,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,101,Venezuela,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,360,Romania,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,310,Hungary,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,355,Bulgaria,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,780,Sri Lanka,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,110,Guyana,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,92,El Salvador,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,211,Belgium,1926,2036,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,,,1926,47451,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,70,Mexico,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,641,Turkey in Europe,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,750,India,1926,125,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,345,Yugoslavia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,325,Italy,1926,2785,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,145,Bolivia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,201,England,1926,10631,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,920,New Zealand,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,210,Netherlands,1926,725,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,95,Panama,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,21,Newfoundland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,365,Russia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,231,Gibraltar,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,165,Uruguay,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,1069,Aruba,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,2,United States,1926,19956,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,8502,Sumatra,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,6,Puerto Rico,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,580,Madagascar,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,94,Costa Rica,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,230,Spain,1926,674,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,1065,Curacao,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,41,Haiti,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,475,Nigeria,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,675,Arabia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,115,Suriname,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,255,Germany,1926,5103,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,202,Scotland,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,90,Guatemala,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,315,Czechoslovakia,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,100,Colombia,1926,37,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,155,Chile,1926,378,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,235,Portugal,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,390,Denmark,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,326,Trieste,1926,0,1000,Sucres,4.9840999,4.9840999
+130,Ecuador,675,Arabia,1929,0,1,,5,5
+130,Ecuador,475,Nigeria,1929,0,1,,5,5
+130,Ecuador,367,Latvia,1929,0,1,,5,5
+130,Ecuador,385,Norway,1929,0,1,,5,5
+130,Ecuador,115,Suriname,1929,0,1,,5,5
+130,Ecuador,651,Egypt,1929,0,1,,5,5
+130,Ecuador,350,Greece,1929,0,1,,5,5
+130,Ecuador,91,Honduras,1929,0,1,,5,5
+130,Ecuador,52,Trinidad And Tobago,1929,0,1,,5,5
+130,Ecuador,51,Jamaica,1929,0,1,,5,5
+130,Ecuador,305,Austria,1929,0,1,,5,5
+130,Ecuador,375,Finland,1929,0,1,,5,5
+130,Ecuador,6,Puerto Rico,1929,0,1,,5,5
+130,Ecuador,225,Switzerland,1929,0,1,,5,5
+130,Ecuador,95,Panama,1929,0,1,,5,5
+130,Ecuador,150,Paraguay,1929,0,1,,5,5
+130,Ecuador,810,French Indo-China,1929,0,1,,5,5
+130,Ecuador,,,1929,91427730,1,,5,5
+130,Ecuador,665,West Bank And Gaza,1929,0,1,,5,5
+130,Ecuador,211,Belgium,1929,3762277,1,,5,5
+130,Ecuador,780,Sri Lanka,1929,0,1,,5,5
+130,Ecuador,317,Slovakia,1929,0,1,,5,5
+130,Ecuador,135,Peru,1929,1634218,1,,5,5
+130,Ecuador,380,Sweden,1929,1829988,1,,5,5
+130,Ecuador,140,Brazil,1929,0,1,,5,5
+130,Ecuador,840,Philippines,1929,0,1,,5,5
+130,Ecuador,41,Haiti,1929,0,1,,5,5
+130,Ecuador,40,Cuba,1929,0,1,,5,5
+130,Ecuador,325,Italy,1929,3831174,1,,5,5
+130,Ecuador,580,Madagascar,1929,0,1,,5,5
+130,Ecuador,511,Zanzibar,1929,0,1,,5,5
+130,Ecuador,290,Poland,1929,0,1,,5,5
+130,Ecuador,352,Cyprus,1929,0,1,,5,5
+130,Ecuador,652,Syria,1929,0,1,,5,5
+130,Ecuador,231,Gibraltar,1929,0,1,,5,5
+130,Ecuador,110,Guyana,1929,0,1,,5,5
+130,Ecuador,315,Czechoslovakia,1929,0,1,,5,5
+130,Ecuador,740,Japan,1929,0,1,,5,5
+130,Ecuador,360,Romania,1929,0,1,,5,5
+130,Ecuador,94,Costa Rica,1929,0,1,,5,5
+130,Ecuador,338,Malta,1929,0,1,,5,5
+130,Ecuador,255,Germany,1929,10710100,1,,5,5
+130,Ecuador,220,France,1929,5614285,1,,5,5
+130,Ecuador,920,New Zealand,1929,0,1,,5,5
+130,Ecuador,101,Venezuela,1929,0,1,,5,5
+130,Ecuador,145,Bolivia,1929,0,1,,5,5
+130,Ecuador,366,Estonia,1929,0,1,,5,5
+130,Ecuador,1069,Aruba,1929,0,1,,5,5
+130,Ecuador,42,Dominican Republic,1929,0,1,,5,5
+130,Ecuador,410,Canary Islands,1929,0,1,,5,5
+130,Ecuador,326,Trieste,1929,0,1,,5,5
+130,Ecuador,827,Straits Settlement,1929,0,1,,5,5
+130,Ecuador,720,Hong Kong,1929,0,1,,5,5
+130,Ecuador,21,Newfoundland,1929,0,1,,5,5
+130,Ecuador,235,Portugal,1929,0,1,,5,5
+130,Ecuador,92,El Salvador,1929,0,1,,5,5
+130,Ecuador,630,Iran,1929,0,1,,5,5
+130,Ecuador,625,Sudan,1929,0,1,,5,5
+130,Ecuador,93,Nicaragua,1929,0,1,,5,5
+130,Ecuador,900,Australia,1929,0,1,,5,5
+130,Ecuador,96,Panama Canal Zone,1929,0,1,,5,5
+130,Ecuador,70,Mexico,1929,0,1,,5,5
+130,Ecuador,750,India,1929,0,1,,5,5
+130,Ecuador,365,Russia,1929,0,1,,5,5
+130,Ecuador,8501,Java,1929,0,1,,5,5
+130,Ecuador,160,Argentina,1929,0,1,,5,5
+130,Ecuador,641,Turkey in Europe,1929,0,1,,5,5
+130,Ecuador,155,Chile,1929,0,1,,5,5
+130,Ecuador,202,Scotland,1929,0,1,,5,5
+130,Ecuador,645,Iraq,1929,0,1,,5,5
+130,Ecuador,8502,Sumatra,1929,0,1,,5,5
+130,Ecuador,710,China,1929,0,1,,5,5
+130,Ecuador,20,Canada,1929,0,1,,5,5
+130,Ecuador,205,Ireland,1929,0,1,,5,5
+130,Ecuador,201,England,1929,16215138,1,,5,5
+130,Ecuador,90,Guatemala,1929,0,1,,5,5
+130,Ecuador,1065,Curacao,1929,0,1,,5,5
+130,Ecuador,355,Bulgaria,1929,0,1,,5,5
+130,Ecuador,640,Turkey,1929,0,1,,5,5
+130,Ecuador,2,United States,1929,34645616,1,,5,5
+130,Ecuador,390,Denmark,1929,0,1,,5,5
+130,Ecuador,210,Netherlands,1929,0,1,,5,5
+130,Ecuador,165,Uruguay,1929,0,1,,5,5
+130,Ecuador,310,Hungary,1929,0,1,,5,5
+130,Ecuador,53,Barbados,1929,0,1,,5,5
+130,Ecuador,100,Colombia,1929,0,1,,5,5
+130,Ecuador,230,Spain,1929,0,1,,5,5
+130,Ecuador,345,Yugoslavia,1929,0,1,,5,5
+130,Ecuador,21,Newfoundland,1930,0,1,,5,5
+130,Ecuador,338,Malta,1930,0,1,,5,5
+130,Ecuador,160,Argentina,1930,0,1,,5,5
+130,Ecuador,52,Trinidad And Tobago,1930,0,1,,5,5
+130,Ecuador,1065,Curacao,1930,0,1,,5,5
+130,Ecuador,740,Japan,1930,0,1,,5,5
+130,Ecuador,255,Germany,1930,8339376,1,,5,5
+130,Ecuador,211,Belgium,1930,1867451,1,,5,5
+130,Ecuador,115,Suriname,1930,0,1,,5,5
+130,Ecuador,150,Paraguay,1930,0,1,,5,5
+130,Ecuador,6,Puerto Rico,1930,0,1,,5,5
+130,Ecuador,640,Turkey,1930,0,1,,5,5
+130,Ecuador,40,Cuba,1930,0,1,,5,5
+130,Ecuador,475,Nigeria,1930,0,1,,5,5
+130,Ecuador,710,China,1930,0,1,,5,5
+130,Ecuador,625,Sudan,1930,0,1,,5,5
+130,Ecuador,355,Bulgaria,1930,0,1,,5,5
+130,Ecuador,20,Canada,1930,0,1,,5,5
+130,Ecuador,645,Iraq,1930,0,1,,5,5
+130,Ecuador,165,Uruguay,1930,0,1,,5,5
+130,Ecuador,375,Finland,1930,0,1,,5,5
+130,Ecuador,135,Peru,1930,1523681,1,,5,5
+130,Ecuador,90,Guatemala,1930,0,1,,5,5
+130,Ecuador,641,Turkey in Europe,1930,0,1,,5,5
+130,Ecuador,651,Egypt,1930,0,1,,5,5
+130,Ecuador,630,Iran,1930,0,1,,5,5
+130,Ecuador,42,Dominican Republic,1930,0,1,,5,5
+130,Ecuador,95,Panama,1930,0,1,,5,5
+130,Ecuador,230,Spain,1930,0,1,,5,5
+130,Ecuador,750,India,1930,0,1,,5,5
+130,Ecuador,720,Hong Kong,1930,0,1,,5,5
+130,Ecuador,675,Arabia,1930,0,1,,5,5
+130,Ecuador,365,Russia,1930,0,1,,5,5
+130,Ecuador,231,Gibraltar,1930,0,1,,5,5
+130,Ecuador,352,Cyprus,1930,0,1,,5,5
+130,Ecuador,100,Colombia,1930,0,1,,5,5
+130,Ecuador,205,Ireland,1930,0,1,,5,5
+130,Ecuador,101,Venezuela,1930,0,1,,5,5
+130,Ecuador,51,Jamaica,1930,0,1,,5,5
+130,Ecuador,1069,Aruba,1930,0,1,,5,5
+130,Ecuador,920,New Zealand,1930,0,1,,5,5
+130,Ecuador,92,El Salvador,1930,0,1,,5,5
+130,Ecuador,70,Mexico,1930,0,1,,5,5
+130,Ecuador,390,Denmark,1930,0,1,,5,5
+130,Ecuador,360,Romania,1930,0,1,,5,5
+130,Ecuador,580,Madagascar,1930,0,1,,5,5
+130,Ecuador,810,French Indo-China,1930,0,1,,5,5
+130,Ecuador,155,Chile,1930,0,1,,5,5
+130,Ecuador,220,France,1930,4061828,1,,5,5
+130,Ecuador,366,Estonia,1930,0,1,,5,5
+130,Ecuador,53,Barbados,1930,0,1,,5,5
+130,Ecuador,665,West Bank And Gaza,1930,0,1,,5,5
+130,Ecuador,201,England,1930,11635458,1,,5,5
+130,Ecuador,41,Haiti,1930,0,1,,5,5
+130,Ecuador,140,Brazil,1930,0,1,,5,5
+130,Ecuador,91,Honduras,1930,0,1,,5,5
+130,Ecuador,202,Scotland,1930,0,1,,5,5
+130,Ecuador,310,Hungary,1930,0,1,,5,5
+130,Ecuador,652,Syria,1930,0,1,,5,5
+130,Ecuador,94,Costa Rica,1930,0,1,,5,5
+130,Ecuador,235,Portugal,1930,0,1,,5,5
+130,Ecuador,326,Trieste,1930,0,1,,5,5
+130,Ecuador,145,Bolivia,1930,0,1,,5,5
+130,Ecuador,345,Yugoslavia,1930,0,1,,5,5
+130,Ecuador,840,Philippines,1930,0,1,,5,5
+130,Ecuador,367,Latvia,1930,0,1,,5,5
+130,Ecuador,385,Norway,1930,0,1,,5,5
+130,Ecuador,315,Czechoslovakia,1930,0,1,,5,5
+130,Ecuador,210,Netherlands,1930,0,1,,5,5
+130,Ecuador,325,Italy,1930,2486073,1,,5,5
+130,Ecuador,93,Nicaragua,1930,0,1,,5,5
+130,Ecuador,350,Greece,1930,0,1,,5,5
+130,Ecuador,8501,Java,1930,0,1,,5,5
+130,Ecuador,410,Canary Islands,1930,0,1,,5,5
+130,Ecuador,110,Guyana,1930,0,1,,5,5
+130,Ecuador,2,United States,1930,25685527,1,,5,5
+130,Ecuador,96,Panama Canal Zone,1930,0,1,,5,5
+130,Ecuador,305,Austria,1930,0,1,,5,5
+130,Ecuador,290,Poland,1930,0,1,,5,5
+130,Ecuador,317,Slovakia,1930,0,1,,5,5
+130,Ecuador,780,Sri Lanka,1930,0,1,,5,5
+130,Ecuador,380,Sweden,1930,1973036,1,,5,5
+130,Ecuador,827,Straits Settlement,1930,0,1,,5,5
+130,Ecuador,,,1930,70389782,1,,5,5
+130,Ecuador,225,Switzerland,1930,0,1,,5,5
+130,Ecuador,900,Australia,1930,0,1,,5,5
+130,Ecuador,511,Zanzibar,1930,0,1,,5,5
+130,Ecuador,8502,Sumatra,1930,0,1,,5,5
+130,Ecuador,42,Dominican Republic,1938,514,1,Sucres,13.8929,13.8929
+130,Ecuador,920,New Zealand,1938,19619,1,Sucres,13.8929,13.8929
+130,Ecuador,110,Guyana,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,94,Costa Rica,1938,8018,1,Sucres,13.8929,13.8929
+130,Ecuador,900,Australia,1938,101587,1,Sucres,13.8929,13.8929
+130,Ecuador,385,Norway,1938,867676,1,Sucres,13.8929,13.8929
+130,Ecuador,,,1938,148315420,1,Sucres,13.8929,13.8929
+130,Ecuador,95,Panama,1938,110656,1,Sucres,13.8929,13.8929
+130,Ecuador,345,Yugoslavia,1938,6428,1,Sucres,13.8929,13.8929
+130,Ecuador,355,Bulgaria,1938,1998,1,Sucres,13.8929,13.8929
+130,Ecuador,827,Straits Settlement,1938,21456,1,Sucres,13.8929,13.8929
+130,Ecuador,625,Sudan,1938,12839,1,Sucres,13.8929,13.8929
+130,Ecuador,710,China,1938,53033,1,Sucres,13.8929,13.8929
+130,Ecuador,365,Russia,1938,1541,1,Sucres,13.8929,13.8929
+130,Ecuador,640,Turkey,1938,5842,1,Sucres,13.8929,13.8929
+130,Ecuador,1069,Aruba,1938,634294,1,Sucres,13.8929,13.8929
+130,Ecuador,225,Switzerland,1938,4823115,1,Sucres,13.8929,13.8929
+130,Ecuador,8502,Sumatra,1938,45500,1,Sucres,13.8929,13.8929
+130,Ecuador,641,Turkey in Europe,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,155,Chile,1938,2309740,1,Sucres,13.8929,13.8929
+130,Ecuador,165,Uruguay,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,630,Iran,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,145,Bolivia,1938,5197,1,Sucres,13.8929,13.8929
+130,Ecuador,70,Mexico,1938,31146,1,Sucres,13.8929,13.8929
+130,Ecuador,2,United States,1938,51311200,1,Sucres,13.8929,13.8929
+130,Ecuador,675,Arabia,1938,213,1,Sucres,13.8929,13.8929
+130,Ecuador,305,Austria,1938,53525,1,Sucres,13.8929,13.8929
+130,Ecuador,201,England,1938,11461907,1,Sucres,13.8929,13.8929
+130,Ecuador,375,Finland,1938,6465131,1,Sucres,13.8929,13.8929
+130,Ecuador,202,Scotland,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,652,Syria,1938,16473,1,Sucres,13.8929,13.8929
+130,Ecuador,410,Canary Islands,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,720,Hong Kong,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,290,Poland,1938,131335,1,Sucres,13.8929,13.8929
+130,Ecuador,21,Newfoundland,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,475,Nigeria,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,235,Portugal,1938,171283,1,Sucres,13.8929,13.8929
+130,Ecuador,205,Ireland,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,135,Peru,1938,2108510,1,Sucres,13.8929,13.8929
+130,Ecuador,6,Puerto Rico,1938,1740,1,Sucres,13.8929,13.8929
+130,Ecuador,338,Malta,1938,61954,1,Sucres,13.8929,13.8929
+130,Ecuador,310,Hungary,1938,284136,1,Sucres,13.8929,13.8929
+130,Ecuador,8501,Java,1938,51286,1,Sucres,13.8929,13.8929
+130,Ecuador,740,Japan,1938,10948515,1,Sucres,13.8929,13.8929
+130,Ecuador,150,Paraguay,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,96,Panama Canal Zone,1938,69556,1,Sucres,13.8929,13.8929
+130,Ecuador,52,Trinidad And Tobago,1938,1702,1,Sucres,13.8929,13.8929
+130,Ecuador,750,India,1938,711958,1,Sucres,13.8929,13.8929
+130,Ecuador,317,Slovakia,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,230,Spain,1938,159811,1,Sucres,13.8929,13.8929
+130,Ecuador,40,Cuba,1938,4143697,1,Sucres,13.8929,13.8929
+130,Ecuador,350,Greece,1938,19348,1,Sucres,13.8929,13.8929
+130,Ecuador,255,Germany,1938,35766816,1,Sucres,13.8929,13.8929
+130,Ecuador,140,Brazil,1938,323619,1,Sucres,13.8929,13.8929
+130,Ecuador,51,Jamaica,1938,29304,1,Sucres,13.8929,13.8929
+130,Ecuador,580,Madagascar,1938,4211,1,Sucres,13.8929,13.8929
+130,Ecuador,360,Romania,1938,625,1,Sucres,13.8929,13.8929
+130,Ecuador,352,Cyprus,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,101,Venezuela,1938,2794,1,Sucres,13.8929,13.8929
+130,Ecuador,20,Canada,1938,673697,1,Sucres,13.8929,13.8929
+130,Ecuador,91,Honduras,1938,2220,1,Sucres,13.8929,13.8929
+130,Ecuador,380,Sweden,1938,1489349,1,Sucres,13.8929,13.8929
+130,Ecuador,326,Trieste,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,93,Nicaragua,1938,15333,1,Sucres,13.8929,13.8929
+130,Ecuador,665,West Bank And Gaza,1938,8035,1,Sucres,13.8929,13.8929
+130,Ecuador,92,El Salvador,1938,31663,1,Sucres,13.8929,13.8929
+130,Ecuador,1065,Curacao,1938,662738,1,Sucres,13.8929,13.8929
+130,Ecuador,210,Netherlands,1938,1435485,1,Sucres,13.8929,13.8929
+130,Ecuador,100,Colombia,1938,163692,1,Sucres,13.8929,13.8929
+130,Ecuador,41,Haiti,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,211,Belgium,1938,2550483,1,Sucres,13.8929,13.8929
+130,Ecuador,115,Suriname,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,780,Sri Lanka,1938,173336,1,Sucres,13.8929,13.8929
+130,Ecuador,53,Barbados,1938,42,1,Sucres,13.8929,13.8929
+130,Ecuador,366,Estonia,1938,66190,1,Sucres,13.8929,13.8929
+130,Ecuador,90,Guatemala,1938,2991,1,Sucres,13.8929,13.8929
+130,Ecuador,511,Zanzibar,1938,3400,1,Sucres,13.8929,13.8929
+130,Ecuador,367,Latvia,1938,17114,1,Sucres,13.8929,13.8929
+130,Ecuador,810,French Indo-China,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,651,Egypt,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,840,Philippines,1938,0,1,Sucres,13.8929,13.8929
+130,Ecuador,220,France,1938,360928,1,Sucres,13.8929,13.8929
+130,Ecuador,160,Argentina,1938,506879,1,Sucres,13.8929,13.8929
+130,Ecuador,325,Italy,1938,4685325,1,Sucres,13.8929,13.8929
+130,Ecuador,231,Gibraltar,1938,540,1,Sucres,13.8929,13.8929
+130,Ecuador,645,Iraq,1938,21,1,Sucres,13.8929,13.8929
+130,Ecuador,315,Czechoslovakia,1938,1802765,1,Sucres,13.8929,13.8929
+130,Ecuador,390,Denmark,1938,301328,1,Sucres,13.8929,13.8929
+130,Ecuador,290,Poland,1939,49812,1,Sucres,14.4494,14.4494
+130,Ecuador,1065,Curacao,1939,659946,1,Sucres,14.4494,14.4494
+130,Ecuador,385,Norway,1939,881356,1,Sucres,14.4494,14.4494
+130,Ecuador,390,Denmark,1939,233262,1,Sucres,14.4494,14.4494
+130,Ecuador,640,Turkey,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,8502,Sumatra,1939,84149,1,Sucres,14.4494,14.4494
+130,Ecuador,210,Netherlands,1939,1661332,1,Sucres,14.4494,14.4494
+130,Ecuador,315,Czechoslovakia,1939,718122,1,Sucres,14.4494,14.4494
+130,Ecuador,225,Switzerland,1939,1264276,1,Sucres,14.4494,14.4494
+130,Ecuador,630,Iran,1939,2763,1,Sucres,14.4494,14.4494
+130,Ecuador,140,Brazil,1939,236961,1,Sucres,14.4494,14.4494
+130,Ecuador,94,Costa Rica,1939,3932,1,Sucres,14.4494,14.4494
+130,Ecuador,352,Cyprus,1939,483,1,Sucres,14.4494,14.4494
+130,Ecuador,740,Japan,1939,7810378,1,Sucres,14.4494,14.4494
+130,Ecuador,8501,Java,1939,170911,1,Sucres,14.4494,14.4494
+130,Ecuador,90,Guatemala,1939,4068,1,Sucres,14.4494,14.4494
+130,Ecuador,310,Hungary,1939,187943,1,Sucres,14.4494,14.4494
+130,Ecuador,150,Paraguay,1939,755,1,Sucres,14.4494,14.4494
+130,Ecuador,,,1939,147860226,1,Sucres,14.4494,14.4494
+130,Ecuador,93,Nicaragua,1939,6972,1,Sucres,14.4494,14.4494
+130,Ecuador,110,Guyana,1939,346,1,Sucres,14.4494,14.4494
+130,Ecuador,675,Arabia,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,367,Latvia,1939,1552,1,Sucres,14.4494,14.4494
+130,Ecuador,2,United States,1939,71949632,1,Sucres,14.4494,14.4494
+130,Ecuador,220,France,1939,86076,1,Sucres,14.4494,14.4494
+130,Ecuador,92,El Salvador,1939,8218,1,Sucres,14.4494,14.4494
+130,Ecuador,645,Iraq,1939,1485,1,Sucres,14.4494,14.4494
+130,Ecuador,135,Peru,1939,3788655,1,Sucres,14.4494,14.4494
+130,Ecuador,1069,Aruba,1939,500700,1,Sucres,14.4494,14.4494
+130,Ecuador,710,China,1939,65208,1,Sucres,14.4494,14.4494
+130,Ecuador,235,Portugal,1939,210734,1,Sucres,14.4494,14.4494
+130,Ecuador,231,Gibraltar,1939,18,1,Sucres,14.4494,14.4494
+130,Ecuador,345,Yugoslavia,1939,29487,1,Sucres,14.4494,14.4494
+130,Ecuador,625,Sudan,1939,46060,1,Sucres,14.4494,14.4494
+130,Ecuador,305,Austria,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,255,Germany,1939,26767281,1,Sucres,14.4494,14.4494
+130,Ecuador,380,Sweden,1939,793845,1,Sucres,14.4494,14.4494
+130,Ecuador,511,Zanzibar,1939,7413,1,Sucres,14.4494,14.4494
+130,Ecuador,810,French Indo-China,1939,15983,1,Sucres,14.4494,14.4494
+130,Ecuador,155,Chile,1939,1959031,1,Sucres,14.4494,14.4494
+130,Ecuador,350,Greece,1939,743,1,Sucres,14.4494,14.4494
+130,Ecuador,325,Italy,1939,4572650,1,Sucres,14.4494,14.4494
+130,Ecuador,20,Canada,1939,550621,1,Sucres,14.4494,14.4494
+130,Ecuador,145,Bolivia,1939,1609,1,Sucres,14.4494,14.4494
+130,Ecuador,375,Finland,1939,7339291,1,Sucres,14.4494,14.4494
+130,Ecuador,230,Spain,1939,110672,1,Sucres,14.4494,14.4494
+130,Ecuador,21,Newfoundland,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,96,Panama Canal Zone,1939,76530,1,Sucres,14.4494,14.4494
+130,Ecuador,205,Ireland,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,355,Bulgaria,1939,7679,1,Sucres,14.4494,14.4494
+130,Ecuador,780,Sri Lanka,1939,302279,1,Sucres,14.4494,14.4494
+130,Ecuador,410,Canary Islands,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,365,Russia,1939,5269,1,Sucres,14.4494,14.4494
+130,Ecuador,201,England,1939,8093892,1,Sucres,14.4494,14.4494
+130,Ecuador,338,Malta,1939,10484,1,Sucres,14.4494,14.4494
+130,Ecuador,70,Mexico,1939,67956,1,Sucres,14.4494,14.4494
+130,Ecuador,42,Dominican Republic,1939,486,1,Sucres,14.4494,14.4494
+130,Ecuador,53,Barbados,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,41,Haiti,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,160,Argentina,1939,500191,1,Sucres,14.4494,14.4494
+130,Ecuador,720,Hong Kong,1939,7204,1,Sucres,14.4494,14.4494
+130,Ecuador,326,Trieste,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,100,Colombia,1939,457361,1,Sucres,14.4494,14.4494
+130,Ecuador,211,Belgium,1939,1466161,1,Sucres,14.4494,14.4494
+130,Ecuador,95,Panama,1939,144403,1,Sucres,14.4494,14.4494
+130,Ecuador,920,New Zealand,1939,43506,1,Sucres,14.4494,14.4494
+130,Ecuador,641,Turkey in Europe,1939,15,1,Sucres,14.4494,14.4494
+130,Ecuador,827,Straits Settlement,1939,41506,1,Sucres,14.4494,14.4494
+130,Ecuador,317,Slovakia,1939,178,1,Sucres,14.4494,14.4494
+130,Ecuador,202,Scotland,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,475,Nigeria,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,360,Romania,1939,5616,1,Sucres,14.4494,14.4494
+130,Ecuador,52,Trinidad And Tobago,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,115,Suriname,1939,35,1,Sucres,14.4494,14.4494
+130,Ecuador,165,Uruguay,1939,325,1,Sucres,14.4494,14.4494
+130,Ecuador,652,Syria,1939,6881,1,Sucres,14.4494,14.4494
+130,Ecuador,366,Estonia,1939,7390,1,Sucres,14.4494,14.4494
+130,Ecuador,665,West Bank And Gaza,1939,459,1,Sucres,14.4494,14.4494
+130,Ecuador,91,Honduras,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,101,Venezuela,1939,10437,1,Sucres,14.4494,14.4494
+130,Ecuador,750,India,1939,728266,1,Sucres,14.4494,14.4494
+130,Ecuador,840,Philippines,1939,0,1,Sucres,14.4494,14.4494
+130,Ecuador,51,Jamaica,1939,11915,1,Sucres,14.4494,14.4494
+130,Ecuador,40,Cuba,1939,3041877,1,Sucres,14.4494,14.4494
+130,Ecuador,6,Puerto Rico,1939,648,1,Sucres,14.4494,14.4494
+130,Ecuador,651,Egypt,1939,717,1,Sucres,14.4494,14.4494
+130,Ecuador,580,Madagascar,1939,20546,1,Sucres,14.4494,14.4494
+130,Ecuador,900,Australia,1939,15283,1,Sucres,14.4494,14.4494
+130,Ecuador,305,Austria,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,360,Romania,1940,370,1,Sucres,14.8858,14.8858
+130,Ecuador,780,Sri Lanka,1940,261994,1,Sucres,14.8858,14.8858
+130,Ecuador,155,Chile,1940,2475657,1,Sucres,14.8858,14.8858
+130,Ecuador,53,Barbados,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,652,Syria,1940,22490,1,Sucres,14.8858,14.8858
+130,Ecuador,230,Spain,1940,1021740,1,Sucres,14.8858,14.8858
+130,Ecuador,255,Germany,1940,3396837,1,Sucres,14.8858,14.8858
+130,Ecuador,52,Trinidad And Tobago,1940,14244,1,Sucres,14.8858,14.8858
+130,Ecuador,20,Canada,1940,2436489,1,Sucres,14.8858,14.8858
+130,Ecuador,325,Italy,1940,7144489,1,Sucres,14.8858,14.8858
+130,Ecuador,145,Bolivia,1940,1766,1,Sucres,14.8858,14.8858
+130,Ecuador,135,Peru,1940,1773532,1,Sucres,14.8858,14.8858
+130,Ecuador,211,Belgium,1940,1624233,1,Sucres,14.8858,14.8858
+130,Ecuador,720,Hong Kong,1940,24748,1,Sucres,14.8858,14.8858
+130,Ecuador,740,Japan,1940,18190470,1,Sucres,14.8858,14.8858
+130,Ecuador,2,United States,1940,103213884,1,Sucres,14.8858,14.8858
+130,Ecuador,375,Finland,1940,6306691,1,Sucres,14.8858,14.8858
+130,Ecuador,750,India,1940,1277907,1,Sucres,14.8858,14.8858
+130,Ecuador,315,Czechoslovakia,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,95,Panama,1940,79927,1,Sucres,14.8858,14.8858
+130,Ecuador,51,Jamaica,1940,46446,1,Sucres,14.8858,14.8858
+130,Ecuador,367,Latvia,1940,74,1,Sucres,14.8858,14.8858
+130,Ecuador,92,El Salvador,1940,20142,1,Sucres,14.8858,14.8858
+130,Ecuador,6,Puerto Rico,1940,503,1,Sucres,14.8858,14.8858
+130,Ecuador,390,Denmark,1940,452671,1,Sucres,14.8858,14.8858
+130,Ecuador,651,Egypt,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,1065,Curacao,1940,270,1,Sucres,14.8858,14.8858
+130,Ecuador,220,France,1940,193357,1,Sucres,14.8858,14.8858
+130,Ecuador,625,Sudan,1940,57501,1,Sucres,14.8858,14.8858
+130,Ecuador,201,England,1940,12979758,1,Sucres,14.8858,14.8858
+130,Ecuador,96,Panama Canal Zone,1940,20465,1,Sucres,14.8858,14.8858
+130,Ecuador,140,Brazil,1940,957131,1,Sucres,14.8858,14.8858
+130,Ecuador,290,Poland,1940,72,1,Sucres,14.8858,14.8858
+130,Ecuador,630,Iran,1940,9856,1,Sucres,14.8858,14.8858
+130,Ecuador,40,Cuba,1940,8384,1,Sucres,14.8858,14.8858
+130,Ecuador,338,Malta,1940,2857,1,Sucres,14.8858,14.8858
+130,Ecuador,511,Zanzibar,1940,9609,1,Sucres,14.8858,14.8858
+130,Ecuador,165,Uruguay,1940,4190,1,Sucres,14.8858,14.8858
+130,Ecuador,385,Norway,1940,423179,1,Sucres,14.8858,14.8858
+130,Ecuador,380,Sweden,1940,944883,1,Sucres,14.8858,14.8858
+130,Ecuador,345,Yugoslavia,1940,22429,1,Sucres,14.8858,14.8858
+130,Ecuador,21,Newfoundland,1940,65413,1,Sucres,14.8858,14.8858
+130,Ecuador,101,Venezuela,1940,11151,1,Sucres,14.8858,14.8858
+130,Ecuador,810,French Indo-China,1940,5196,1,Sucres,14.8858,14.8858
+130,Ecuador,231,Gibraltar,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,205,Ireland,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,160,Argentina,1940,1437614,1,Sucres,14.8858,14.8858
+130,Ecuador,110,Guyana,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,210,Netherlands,1940,1544831,1,Sucres,14.8858,14.8858
+130,Ecuador,1069,Aruba,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,326,Trieste,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,8501,Java,1940,25950,1,Sucres,14.8858,14.8858
+130,Ecuador,640,Turkey,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,840,Philippines,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,641,Turkey in Europe,1940,5042,1,Sucres,14.8858,14.8858
+130,Ecuador,235,Portugal,1940,220191,1,Sucres,14.8858,14.8858
+130,Ecuador,317,Slovakia,1940,1116,1,Sucres,14.8858,14.8858
+130,Ecuador,202,Scotland,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,365,Russia,1940,3394,1,Sucres,14.8858,14.8858
+130,Ecuador,42,Dominican Republic,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,115,Suriname,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,100,Colombia,1940,2497713,1,Sucres,14.8858,14.8858
+130,Ecuador,,,1940,173769292,1,Sucres,14.8858,14.8858
+130,Ecuador,665,West Bank And Gaza,1940,1471,1,Sucres,14.8858,14.8858
+130,Ecuador,91,Honduras,1940,487,1,Sucres,14.8858,14.8858
+130,Ecuador,350,Greece,1940,320,1,Sucres,14.8858,14.8858
+130,Ecuador,475,Nigeria,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,150,Paraguay,1940,283,1,Sucres,14.8858,14.8858
+130,Ecuador,580,Madagascar,1940,13024,1,Sucres,14.8858,14.8858
+130,Ecuador,90,Guatemala,1940,63317,1,Sucres,14.8858,14.8858
+130,Ecuador,900,Australia,1940,151310,1,Sucres,14.8858,14.8858
+130,Ecuador,352,Cyprus,1940,15018,1,Sucres,14.8858,14.8858
+130,Ecuador,410,Canary Islands,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,675,Arabia,1940,13336,1,Sucres,14.8858,14.8858
+130,Ecuador,366,Estonia,1940,40,1,Sucres,14.8858,14.8858
+130,Ecuador,8502,Sumatra,1940,57120,1,Sucres,14.8858,14.8858
+130,Ecuador,310,Hungary,1940,125600,1,Sucres,14.8858,14.8858
+130,Ecuador,645,Iraq,1940,798,1,Sucres,14.8858,14.8858
+130,Ecuador,41,Haiti,1940,4400,1,Sucres,14.8858,14.8858
+130,Ecuador,94,Costa Rica,1940,3115,1,Sucres,14.8858,14.8858
+130,Ecuador,827,Straits Settlement,1940,26543,1,Sucres,14.8858,14.8858
+130,Ecuador,355,Bulgaria,1940,778,1,Sucres,14.8858,14.8858
+130,Ecuador,70,Mexico,1940,245266,1,Sucres,14.8858,14.8858
+130,Ecuador,93,Nicaragua,1940,24,1,Sucres,14.8858,14.8858
+130,Ecuador,225,Switzerland,1940,1675075,1,Sucres,14.8858,14.8858
+130,Ecuador,710,China,1940,101151,1,Sucres,14.8858,14.8858
+130,Ecuador,920,New Zealand,1940,0,1,Sucres,14.8858,14.8858
+130,Ecuador,317,Slovakia,1941,33588,1,Sucres,14.9164,14.9164
+130,Ecuador,367,Latvia,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,651,Egypt,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,6,Puerto Rico,1941,1076,1,Sucres,14.9164,14.9164
+130,Ecuador,202,Scotland,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,230,Spain,1941,577342,1,Sucres,14.9164,14.9164
+130,Ecuador,652,Syria,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,1065,Curacao,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,145,Bolivia,1941,618,1,Sucres,14.9164,14.9164
+130,Ecuador,380,Sweden,1941,292590,1,Sucres,14.9164,14.9164
+130,Ecuador,235,Portugal,1941,193176,1,Sucres,14.9164,14.9164
+130,Ecuador,511,Zanzibar,1941,3283,1,Sucres,14.9164,14.9164
+130,Ecuador,290,Poland,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,410,Canary Islands,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,2,United States,1941,110421800,1,Sucres,14.9164,14.9164
+130,Ecuador,51,Jamaica,1941,18,1,Sucres,14.9164,14.9164
+130,Ecuador,315,Czechoslovakia,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,710,China,1941,165205,1,Sucres,14.9164,14.9164
+130,Ecuador,210,Netherlands,1941,25648,1,Sucres,14.9164,14.9164
+130,Ecuador,345,Yugoslavia,1941,14088,1,Sucres,14.9164,14.9164
+130,Ecuador,101,Venezuela,1941,10017,1,Sucres,14.9164,14.9164
+130,Ecuador,640,Turkey,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,95,Panama,1941,27351,1,Sucres,14.9164,14.9164
+130,Ecuador,641,Turkey in Europe,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,625,Sudan,1941,17135,1,Sucres,14.9164,14.9164
+130,Ecuador,8501,Java,1941,226658,1,Sucres,14.9164,14.9164
+130,Ecuador,720,Hong Kong,1941,33662,1,Sucres,14.9164,14.9164
+130,Ecuador,42,Dominican Republic,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,390,Denmark,1941,668,1,Sucres,14.9164,14.9164
+130,Ecuador,780,Sri Lanka,1941,237872,1,Sucres,14.9164,14.9164
+130,Ecuador,305,Austria,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,675,Arabia,1941,728,1,Sucres,14.9164,14.9164
+130,Ecuador,231,Gibraltar,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,211,Belgium,1941,64436,1,Sucres,14.9164,14.9164
+130,Ecuador,20,Canada,1941,1814984,1,Sucres,14.9164,14.9164
+130,Ecuador,1069,Aruba,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,645,Iraq,1941,520,1,Sucres,14.9164,14.9164
+130,Ecuador,201,England,1941,10123627,1,Sucres,14.9164,14.9164
+130,Ecuador,365,Russia,1941,35015,1,Sucres,14.9164,14.9164
+130,Ecuador,326,Trieste,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,475,Nigeria,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,8502,Sumatra,1941,230201,1,Sucres,14.9164,14.9164
+130,Ecuador,92,El Salvador,1941,61537,1,Sucres,14.9164,14.9164
+130,Ecuador,385,Norway,1941,9862,1,Sucres,14.9164,14.9164
+130,Ecuador,96,Panama Canal Zone,1941,2528,1,Sucres,14.9164,14.9164
+130,Ecuador,225,Switzerland,1941,876776,1,Sucres,14.9164,14.9164
+130,Ecuador,94,Costa Rica,1941,5952,1,Sucres,14.9164,14.9164
+130,Ecuador,630,Iran,1941,1564,1,Sucres,14.9164,14.9164
+130,Ecuador,375,Finland,1941,474838,1,Sucres,14.9164,14.9164
+130,Ecuador,41,Haiti,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,160,Argentina,1941,5565215,1,Sucres,14.9164,14.9164
+130,Ecuador,352,Cyprus,1941,2145,1,Sucres,14.9164,14.9164
+130,Ecuador,90,Guatemala,1941,3621,1,Sucres,14.9164,14.9164
+130,Ecuador,40,Cuba,1941,98901,1,Sucres,14.9164,14.9164
+130,Ecuador,255,Germany,1941,1201511,1,Sucres,14.9164,14.9164
+130,Ecuador,135,Peru,1941,2352152,1,Sucres,14.9164,14.9164
+130,Ecuador,100,Colombia,1941,612144,1,Sucres,14.9164,14.9164
+130,Ecuador,53,Barbados,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,,,1941,149499361,1,Sucres,14.9164,14.9164
+130,Ecuador,325,Italy,1941,308038,1,Sucres,14.9164,14.9164
+130,Ecuador,70,Mexico,1941,994589,1,Sucres,14.9164,14.9164
+130,Ecuador,920,New Zealand,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,580,Madagascar,1941,13799,1,Sucres,14.9164,14.9164
+130,Ecuador,115,Suriname,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,750,India,1941,1281388,1,Sucres,14.9164,14.9164
+130,Ecuador,338,Malta,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,355,Bulgaria,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,52,Trinidad And Tobago,1941,8194,1,Sucres,14.9164,14.9164
+130,Ecuador,840,Philippines,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,140,Brazil,1941,2990873,1,Sucres,14.9164,14.9164
+130,Ecuador,310,Hungary,1941,531,1,Sucres,14.9164,14.9164
+130,Ecuador,360,Romania,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,93,Nicaragua,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,165,Uruguay,1941,5645,1,Sucres,14.9164,14.9164
+130,Ecuador,150,Paraguay,1941,30,1,Sucres,14.9164,14.9164
+130,Ecuador,827,Straits Settlement,1941,102052,1,Sucres,14.9164,14.9164
+130,Ecuador,900,Australia,1941,12643,1,Sucres,14.9164,14.9164
+130,Ecuador,21,Newfoundland,1941,429289,1,Sucres,14.9164,14.9164
+130,Ecuador,205,Ireland,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,220,France,1941,89965,1,Sucres,14.9164,14.9164
+130,Ecuador,350,Greece,1941,11566,1,Sucres,14.9164,14.9164
+130,Ecuador,740,Japan,1941,4414218,1,Sucres,14.9164,14.9164
+130,Ecuador,810,French Indo-China,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,91,Honduras,1941,206,1,Sucres,14.9164,14.9164
+130,Ecuador,155,Chile,1941,3015752,1,Sucres,14.9164,14.9164
+130,Ecuador,366,Estonia,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,110,Guyana,1941,261,1,Sucres,14.9164,14.9164
+130,Ecuador,665,West Bank And Gaza,1941,0,1,Sucres,14.9164,14.9164
+130,Ecuador,345,Yugoslavia,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,365,Russia,1942,5317,1,Sucres,14.2651,14.2651
+130,Ecuador,92,El Salvador,1942,49292,1,Sucres,14.2651,14.2651
+130,Ecuador,21,Newfoundland,1942,92748,1,Sucres,14.2651,14.2651
+130,Ecuador,641,Turkey in Europe,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,8502,Sumatra,1942,246612,1,Sucres,14.2651,14.2651
+130,Ecuador,840,Philippines,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,210,Netherlands,1942,395,1,Sucres,14.2651,14.2651
+130,Ecuador,380,Sweden,1942,224148,1,Sucres,14.2651,14.2651
+130,Ecuador,315,Czechoslovakia,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,255,Germany,1942,67423,1,Sucres,14.2651,14.2651
+130,Ecuador,110,Guyana,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,165,Uruguay,1942,342723,1,Sucres,14.2651,14.2651
+130,Ecuador,8501,Java,1942,200097,1,Sucres,14.2651,14.2651
+130,Ecuador,211,Belgium,1942,705,1,Sucres,14.2651,14.2651
+130,Ecuador,920,New Zealand,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,350,Greece,1942,257,1,Sucres,14.2651,14.2651
+130,Ecuador,810,French Indo-China,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,720,Hong Kong,1942,1471,1,Sucres,14.2651,14.2651
+130,Ecuador,410,Canary Islands,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,96,Panama Canal Zone,1942,3913,1,Sucres,14.2651,14.2651
+130,Ecuador,900,Australia,1942,17854,1,Sucres,14.2651,14.2651
+130,Ecuador,6,Puerto Rico,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,652,Syria,1942,2469,1,Sucres,14.2651,14.2651
+130,Ecuador,1065,Curacao,1942,1500,1,Sucres,14.2651,14.2651
+130,Ecuador,740,Japan,1942,169818,1,Sucres,14.2651,14.2651
+130,Ecuador,42,Dominican Republic,1942,28,1,Sucres,14.2651,14.2651
+130,Ecuador,220,France,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,160,Argentina,1942,20668480,1,Sucres,14.2651,14.2651
+130,Ecuador,100,Colombia,1942,733339,1,Sucres,14.2651,14.2651
+130,Ecuador,94,Costa Rica,1942,1521,1,Sucres,14.2651,14.2651
+130,Ecuador,352,Cyprus,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,91,Honduras,1942,20,1,Sucres,14.2651,14.2651
+130,Ecuador,1069,Aruba,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,225,Switzerland,1942,1016843,1,Sucres,14.2651,14.2651
+130,Ecuador,630,Iran,1942,28666,1,Sucres,14.2651,14.2651
+130,Ecuador,827,Straits Settlement,1942,600,1,Sucres,14.2651,14.2651
+130,Ecuador,366,Estonia,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,780,Sri Lanka,1942,155624,1,Sucres,14.2651,14.2651
+130,Ecuador,625,Sudan,1942,160802,1,Sucres,14.2651,14.2651
+130,Ecuador,53,Barbados,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,135,Peru,1942,7949232,1,Sucres,14.2651,14.2651
+130,Ecuador,,,1942,199718253,1,Sucres,14.2651,14.2651
+130,Ecuador,710,China,1942,194782,1,Sucres,14.2651,14.2651
+130,Ecuador,580,Madagascar,1942,3384,1,Sucres,14.2651,14.2651
+130,Ecuador,115,Suriname,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,70,Mexico,1942,1515674,1,Sucres,14.2651,14.2651
+130,Ecuador,155,Chile,1942,4734940,1,Sucres,14.2651,14.2651
+130,Ecuador,675,Arabia,1942,7045,1,Sucres,14.2651,14.2651
+130,Ecuador,310,Hungary,1942,5401,1,Sucres,14.2651,14.2651
+130,Ecuador,235,Portugal,1942,27125,1,Sucres,14.2651,14.2651
+130,Ecuador,645,Iraq,1942,5579,1,Sucres,14.2651,14.2651
+130,Ecuador,140,Brazil,1942,8492382,1,Sucres,14.2651,14.2651
+130,Ecuador,338,Malta,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,750,India,1942,1715023,1,Sucres,14.2651,14.2651
+130,Ecuador,2,United States,1942,138729163,1,Sucres,14.2651,14.2651
+130,Ecuador,305,Austria,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,511,Zanzibar,1942,31329,1,Sucres,14.2651,14.2651
+130,Ecuador,93,Nicaragua,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,367,Latvia,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,20,Canada,1942,3257840,1,Sucres,14.2651,14.2651
+130,Ecuador,651,Egypt,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,360,Romania,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,390,Denmark,1942,2565,1,Sucres,14.2651,14.2651
+130,Ecuador,52,Trinidad And Tobago,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,231,Gibraltar,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,317,Slovakia,1942,13265,1,Sucres,14.2651,14.2651
+130,Ecuador,202,Scotland,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,385,Norway,1942,1090,1,Sucres,14.2651,14.2651
+130,Ecuador,640,Turkey,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,375,Finland,1942,33950,1,Sucres,14.2651,14.2651
+130,Ecuador,325,Italy,1942,12333,1,Sucres,14.2651,14.2651
+130,Ecuador,290,Poland,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,201,England,1942,8108122,1,Sucres,14.2651,14.2651
+130,Ecuador,95,Panama,1942,43971,1,Sucres,14.2651,14.2651
+130,Ecuador,230,Spain,1942,293885,1,Sucres,14.2651,14.2651
+130,Ecuador,101,Venezuela,1942,12911,1,Sucres,14.2651,14.2651
+130,Ecuador,475,Nigeria,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,90,Guatemala,1942,1837,1,Sucres,14.2651,14.2651
+130,Ecuador,150,Paraguay,1942,310743,1,Sucres,14.2651,14.2651
+130,Ecuador,665,West Bank And Gaza,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,205,Ireland,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,355,Bulgaria,1942,436,1,Sucres,14.2651,14.2651
+130,Ecuador,41,Haiti,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,145,Bolivia,1942,894,1,Sucres,14.2651,14.2651
+130,Ecuador,51,Jamaica,1942,409,1,Sucres,14.2651,14.2651
+130,Ecuador,40,Cuba,1942,13998,1,Sucres,14.2651,14.2651
+130,Ecuador,326,Trieste,1942,0,1,Sucres,14.2651,14.2651
+130,Ecuador,8502,Sumatra,1943,0,1,$,14.1052,14.1052
+130,Ecuador,315,Czechoslovakia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,205,Ireland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,290,Poland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,840,Philippines,1943,0,1,$,14.1052,14.1052
+130,Ecuador,326,Trieste,1943,0,1,$,14.1052,14.1052
+130,Ecuador,305,Austria,1943,0,1,$,14.1052,14.1052
+130,Ecuador,352,Cyprus,1943,0,1,$,14.1052,14.1052
+130,Ecuador,1069,Aruba,1943,0,1,$,14.1052,14.1052
+130,Ecuador,53,Barbados,1943,0,1,$,14.1052,14.1052
+130,Ecuador,317,Slovakia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,95,Panama,1943,0,1,$,14.1052,14.1052
+130,Ecuador,345,Yugoslavia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,140,Brazil,1943,1357880,1,$,14.1052,14.1052
+130,Ecuador,41,Haiti,1943,0,1,$,14.1052,14.1052
+130,Ecuador,201,England,1943,750513,1,$,14.1052,14.1052
+130,Ecuador,235,Portugal,1943,0,1,$,14.1052,14.1052
+130,Ecuador,900,Australia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,96,Panama Canal Zone,1943,0,1,$,14.1052,14.1052
+130,Ecuador,135,Peru,1943,646868,1,$,14.1052,14.1052
+130,Ecuador,780,Sri Lanka,1943,0,1,$,14.1052,14.1052
+130,Ecuador,202,Scotland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,720,Hong Kong,1943,0,1,$,14.1052,14.1052
+130,Ecuador,93,Nicaragua,1943,0,1,$,14.1052,14.1052
+130,Ecuador,230,Spain,1943,0,1,$,14.1052,14.1052
+130,Ecuador,652,Syria,1943,0,1,$,14.1052,14.1052
+130,Ecuador,6,Puerto Rico,1943,0,1,$,14.1052,14.1052
+130,Ecuador,110,Guyana,1943,0,1,$,14.1052,14.1052
+130,Ecuador,8501,Java,1943,0,1,$,14.1052,14.1052
+130,Ecuador,810,French Indo-China,1943,0,1,$,14.1052,14.1052
+130,Ecuador,210,Netherlands,1943,0,1,$,14.1052,14.1052
+130,Ecuador,920,New Zealand,1943,0,1,$,14.1052,14.1052
+130,Ecuador,390,Denmark,1943,0,1,$,14.1052,14.1052
+130,Ecuador,255,Germany,1943,0,1,$,14.1052,14.1052
+130,Ecuador,380,Sweden,1943,0,1,$,14.1052,14.1052
+130,Ecuador,750,India,1943,0,1,$,14.1052,14.1052
+130,Ecuador,1065,Curacao,1943,0,1,$,14.1052,14.1052
+130,Ecuador,310,Hungary,1943,0,1,$,14.1052,14.1052
+130,Ecuador,827,Straits Settlement,1943,0,1,$,14.1052,14.1052
+130,Ecuador,155,Chile,1943,565580,1,$,14.1052,14.1052
+130,Ecuador,350,Greece,1943,0,1,$,14.1052,14.1052
+130,Ecuador,511,Zanzibar,1943,0,1,$,14.1052,14.1052
+130,Ecuador,51,Jamaica,1943,0,1,$,14.1052,14.1052
+130,Ecuador,366,Estonia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,325,Italy,1943,0,1,$,14.1052,14.1052
+130,Ecuador,145,Bolivia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,338,Malta,1943,0,1,$,14.1052,14.1052
+130,Ecuador,101,Venezuela,1943,0,1,$,14.1052,14.1052
+130,Ecuador,641,Turkey in Europe,1943,0,1,$,14.1052,14.1052
+130,Ecuador,651,Egypt,1943,0,1,$,14.1052,14.1052
+130,Ecuador,665,West Bank And Gaza,1943,0,1,$,14.1052,14.1052
+130,Ecuador,475,Nigeria,1943,0,1,$,14.1052,14.1052
+130,Ecuador,220,France,1943,0,1,$,14.1052,14.1052
+130,Ecuador,160,Argentina,1943,4558199,1,$,14.1052,14.1052
+130,Ecuador,365,Russia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,40,Cuba,1943,0,1,$,14.1052,14.1052
+130,Ecuador,225,Switzerland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,20,Canada,1943,0,1,$,14.1052,14.1052
+130,Ecuador,625,Sudan,1943,0,1,$,14.1052,14.1052
+130,Ecuador,2,United States,1943,7872136,1,$,14.1052,14.1052
+130,Ecuador,410,Canary Islands,1943,0,1,$,14.1052,14.1052
+130,Ecuador,211,Belgium,1943,0,1,$,14.1052,14.1052
+130,Ecuador,375,Finland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,367,Latvia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,90,Guatemala,1943,0,1,$,14.1052,14.1052
+130,Ecuador,710,China,1943,0,1,$,14.1052,14.1052
+130,Ecuador,42,Dominican Republic,1943,0,1,$,14.1052,14.1052
+130,Ecuador,165,Uruguay,1943,73382,1,$,14.1052,14.1052
+130,Ecuador,100,Colombia,1943,85056,1,$,14.1052,14.1052
+130,Ecuador,355,Bulgaria,1943,0,1,$,14.1052,14.1052
+130,Ecuador,70,Mexico,1943,276265,1,$,14.1052,14.1052
+130,Ecuador,231,Gibraltar,1943,0,1,$,14.1052,14.1052
+130,Ecuador,94,Costa Rica,1943,0,1,$,14.1052,14.1052
+130,Ecuador,645,Iraq,1943,0,1,$,14.1052,14.1052
+130,Ecuador,92,El Salvador,1943,0,1,$,14.1052,14.1052
+130,Ecuador,21,Newfoundland,1943,0,1,$,14.1052,14.1052
+130,Ecuador,675,Arabia,1943,0,1,$,14.1052,14.1052
+130,Ecuador,640,Turkey,1943,0,1,$,14.1052,14.1052
+130,Ecuador,360,Romania,1943,0,1,$,14.1052,14.1052
+130,Ecuador,740,Japan,1943,0,1,$,14.1052,14.1052
+130,Ecuador,385,Norway,1943,0,1,$,14.1052,14.1052
+130,Ecuador,580,Madagascar,1943,0,1,$,14.1052,14.1052
+130,Ecuador,115,Suriname,1943,0,1,$,14.1052,14.1052
+130,Ecuador,630,Iran,1943,0,1,$,14.1052,14.1052
+130,Ecuador,,,1943,17119411,1,$,14.1052,14.1052
+130,Ecuador,91,Honduras,1943,0,1,$,14.1052,14.1052
+130,Ecuador,52,Trinidad And Tobago,1943,0,1,$,14.1052,14.1052
+130,Ecuador,150,Paraguay,1943,0,1,$,14.1052,14.1052
+130,Ecuador,135,Peru,1944,2104426,1,$,14.0825,14.0825
+130,Ecuador,290,Poland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,740,Japan,1944,0,1,$,14.0825,14.0825
+130,Ecuador,675,Arabia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,145,Bolivia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,900,Australia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,640,Turkey,1944,0,1,$,14.0825,14.0825
+130,Ecuador,52,Trinidad And Tobago,1944,0,1,$,14.0825,14.0825
+130,Ecuador,140,Brazil,1944,810142,1,$,14.0825,14.0825
+130,Ecuador,511,Zanzibar,1944,0,1,$,14.0825,14.0825
+130,Ecuador,220,France,1944,0,1,$,14.0825,14.0825
+130,Ecuador,101,Venezuela,1944,0,1,$,14.0825,14.0825
+130,Ecuador,93,Nicaragua,1944,0,1,$,14.0825,14.0825
+130,Ecuador,780,Sri Lanka,1944,0,1,$,14.0825,14.0825
+130,Ecuador,110,Guyana,1944,0,1,$,14.0825,14.0825
+130,Ecuador,410,Canary Islands,1944,0,1,$,14.0825,14.0825
+130,Ecuador,230,Spain,1944,0,1,$,14.0825,14.0825
+130,Ecuador,235,Portugal,1944,0,1,$,14.0825,14.0825
+130,Ecuador,625,Sudan,1944,0,1,$,14.0825,14.0825
+130,Ecuador,652,Syria,1944,0,1,$,14.0825,14.0825
+130,Ecuador,651,Egypt,1944,0,1,$,14.0825,14.0825
+130,Ecuador,710,China,1944,0,1,$,14.0825,14.0825
+130,Ecuador,326,Trieste,1944,0,1,$,14.0825,14.0825
+130,Ecuador,94,Costa Rica,1944,0,1,$,14.0825,14.0825
+130,Ecuador,165,Uruguay,1944,192804,1,$,14.0825,14.0825
+130,Ecuador,355,Bulgaria,1944,0,1,$,14.0825,14.0825
+130,Ecuador,641,Turkey in Europe,1944,0,1,$,14.0825,14.0825
+130,Ecuador,96,Panama Canal Zone,1944,0,1,$,14.0825,14.0825
+130,Ecuador,645,Iraq,1944,0,1,$,14.0825,14.0825
+130,Ecuador,201,England,1944,1159126,1,$,14.0825,14.0825
+130,Ecuador,352,Cyprus,1944,0,1,$,14.0825,14.0825
+130,Ecuador,360,Romania,1944,0,1,$,14.0825,14.0825
+130,Ecuador,210,Netherlands,1944,0,1,$,14.0825,14.0825
+130,Ecuador,21,Newfoundland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,,,1944,22548233,1,$,14.0825,14.0825
+130,Ecuador,20,Canada,1944,165257,1,$,14.0825,14.0825
+130,Ecuador,367,Latvia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,720,Hong Kong,1944,0,1,$,14.0825,14.0825
+130,Ecuador,630,Iran,1944,0,1,$,14.0825,14.0825
+130,Ecuador,338,Malta,1944,0,1,$,14.0825,14.0825
+130,Ecuador,580,Madagascar,1944,0,1,$,14.0825,14.0825
+130,Ecuador,155,Chile,1944,536325,1,$,14.0825,14.0825
+130,Ecuador,380,Sweden,1944,0,1,$,14.0825,14.0825
+130,Ecuador,211,Belgium,1944,0,1,$,14.0825,14.0825
+130,Ecuador,665,West Bank And Gaza,1944,0,1,$,14.0825,14.0825
+130,Ecuador,53,Barbados,1944,0,1,$,14.0825,14.0825
+130,Ecuador,375,Finland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,40,Cuba,1944,0,1,$,14.0825,14.0825
+130,Ecuador,70,Mexico,1944,1656650,1,$,14.0825,14.0825
+130,Ecuador,8502,Sumatra,1944,0,1,$,14.0825,14.0825
+130,Ecuador,840,Philippines,1944,0,1,$,14.0825,14.0825
+130,Ecuador,385,Norway,1944,0,1,$,14.0825,14.0825
+130,Ecuador,255,Germany,1944,0,1,$,14.0825,14.0825
+130,Ecuador,310,Hungary,1944,0,1,$,14.0825,14.0825
+130,Ecuador,827,Straits Settlement,1944,0,1,$,14.0825,14.0825
+130,Ecuador,390,Denmark,1944,0,1,$,14.0825,14.0825
+130,Ecuador,8501,Java,1944,0,1,$,14.0825,14.0825
+130,Ecuador,51,Jamaica,1944,0,1,$,14.0825,14.0825
+130,Ecuador,6,Puerto Rico,1944,0,1,$,14.0825,14.0825
+130,Ecuador,365,Russia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,366,Estonia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,41,Haiti,1944,0,1,$,14.0825,14.0825
+130,Ecuador,115,Suriname,1944,0,1,$,14.0825,14.0825
+130,Ecuador,305,Austria,1944,0,1,$,14.0825,14.0825
+130,Ecuador,750,India,1944,0,1,$,14.0825,14.0825
+130,Ecuador,225,Switzerland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,160,Argentina,1944,1892315,1,$,14.0825,14.0825
+130,Ecuador,42,Dominican Republic,1944,0,1,$,14.0825,14.0825
+130,Ecuador,91,Honduras,1944,0,1,$,14.0825,14.0825
+130,Ecuador,350,Greece,1944,0,1,$,14.0825,14.0825
+130,Ecuador,1065,Curacao,1944,0,1,$,14.0825,14.0825
+130,Ecuador,1069,Aruba,1944,0,1,$,14.0825,14.0825
+130,Ecuador,325,Italy,1944,0,1,$,14.0825,14.0825
+130,Ecuador,100,Colombia,1944,459863,1,$,14.0825,14.0825
+130,Ecuador,475,Nigeria,1944,0,1,$,14.0825,14.0825
+130,Ecuador,202,Scotland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,317,Slovakia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,95,Panama,1944,0,1,$,14.0825,14.0825
+130,Ecuador,90,Guatemala,1944,0,1,$,14.0825,14.0825
+130,Ecuador,92,El Salvador,1944,0,1,$,14.0825,14.0825
+130,Ecuador,2,United States,1944,12944967,1,$,14.0825,14.0825
+130,Ecuador,345,Yugoslavia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,920,New Zealand,1944,0,1,$,14.0825,14.0825
+130,Ecuador,150,Paraguay,1944,0,1,$,14.0825,14.0825
+130,Ecuador,810,French Indo-China,1944,0,1,$,14.0825,14.0825
+130,Ecuador,231,Gibraltar,1944,0,1,$,14.0825,14.0825
+130,Ecuador,205,Ireland,1944,0,1,$,14.0825,14.0825
+130,Ecuador,315,Czechoslovakia,1944,0,1,$,14.0825,14.0825
+130,Ecuador,326,Trieste,1945,0,1,$,13.75,13.75
+130,Ecuador,625,Sudan,1945,0,1,$,13.75,13.75
+130,Ecuador,2,United States,1945,14094376,1,$,13.75,13.75
+130,Ecuador,150,Paraguay,1945,0,1,$,13.75,13.75
+130,Ecuador,352,Cyprus,1945,0,1,$,13.75,13.75
+130,Ecuador,580,Madagascar,1945,0,1,$,13.75,13.75
+130,Ecuador,165,Uruguay,1945,293958,1,$,13.75,13.75
+130,Ecuador,202,Scotland,1945,0,1,$,13.75,13.75
+130,Ecuador,96,Panama Canal Zone,1945,0,1,$,13.75,13.75
+130,Ecuador,201,England,1945,909974,1,$,13.75,13.75
+130,Ecuador,640,Turkey,1945,0,1,$,13.75,13.75
+130,Ecuador,145,Bolivia,1945,0,1,$,13.75,13.75
+130,Ecuador,290,Poland,1945,0,1,$,13.75,13.75
+130,Ecuador,360,Romania,1945,0,1,$,13.75,13.75
+130,Ecuador,338,Malta,1945,0,1,$,13.75,13.75
+130,Ecuador,255,Germany,1945,0,1,$,13.75,13.75
+130,Ecuador,230,Spain,1945,0,1,$,13.75,13.75
+130,Ecuador,160,Argentina,1945,2641530,1,$,13.75,13.75
+130,Ecuador,310,Hungary,1945,0,1,$,13.75,13.75
+130,Ecuador,740,Japan,1945,0,1,$,13.75,13.75
+130,Ecuador,365,Russia,1945,0,1,$,13.75,13.75
+130,Ecuador,231,Gibraltar,1945,0,1,$,13.75,13.75
+130,Ecuador,350,Greece,1945,0,1,$,13.75,13.75
+130,Ecuador,317,Slovakia,1945,0,1,$,13.75,13.75
+130,Ecuador,840,Philippines,1945,0,1,$,13.75,13.75
+130,Ecuador,115,Suriname,1945,0,1,$,13.75,13.75
+130,Ecuador,355,Bulgaria,1945,0,1,$,13.75,13.75
+130,Ecuador,305,Austria,1945,0,1,$,13.75,13.75
+130,Ecuador,94,Costa Rica,1945,0,1,$,13.75,13.75
+130,Ecuador,750,India,1945,0,1,$,13.75,13.75
+130,Ecuador,920,New Zealand,1945,0,1,$,13.75,13.75
+130,Ecuador,410,Canary Islands,1945,0,1,$,13.75,13.75
+130,Ecuador,1069,Aruba,1945,37337,1,$,13.75,13.75
+130,Ecuador,710,China,1945,0,1,$,13.75,13.75
+130,Ecuador,52,Trinidad And Tobago,1945,0,1,$,13.75,13.75
+130,Ecuador,511,Zanzibar,1945,0,1,$,13.75,13.75
+130,Ecuador,210,Netherlands,1945,10910,1,$,13.75,13.75
+130,Ecuador,827,Straits Settlement,1945,0,1,$,13.75,13.75
+130,Ecuador,92,El Salvador,1945,0,1,$,13.75,13.75
+130,Ecuador,810,French Indo-China,1945,0,1,$,13.75,13.75
+130,Ecuador,630,Iran,1945,0,1,$,13.75,13.75
+130,Ecuador,380,Sweden,1945,127073,1,$,13.75,13.75
+130,Ecuador,665,West Bank And Gaza,1945,0,1,$,13.75,13.75
+130,Ecuador,780,Sri Lanka,1945,0,1,$,13.75,13.75
+130,Ecuador,70,Mexico,1945,472559,1,$,13.75,13.75
+130,Ecuador,91,Honduras,1945,0,1,$,13.75,13.75
+130,Ecuador,101,Venezuela,1945,20765,1,$,13.75,13.75
+130,Ecuador,385,Norway,1945,0,1,$,13.75,13.75
+130,Ecuador,20,Canada,1945,159748,1,$,13.75,13.75
+130,Ecuador,135,Peru,1945,881320,1,$,13.75,13.75
+130,Ecuador,100,Colombia,1945,535383,1,$,13.75,13.75
+130,Ecuador,93,Nicaragua,1945,0,1,$,13.75,13.75
+130,Ecuador,155,Chile,1945,1069167,1,$,13.75,13.75
+130,Ecuador,366,Estonia,1945,0,1,$,13.75,13.75
+130,Ecuador,641,Turkey in Europe,1945,0,1,$,13.75,13.75
+130,Ecuador,720,Hong Kong,1945,0,1,$,13.75,13.75
+130,Ecuador,42,Dominican Republic,1945,0,1,$,13.75,13.75
+130,Ecuador,40,Cuba,1945,1754582,1,$,13.75,13.75
+130,Ecuador,375,Finland,1945,0,1,$,13.75,13.75
+130,Ecuador,235,Portugal,1945,0,1,$,13.75,13.75
+130,Ecuador,110,Guyana,1945,0,1,$,13.75,13.75
+130,Ecuador,675,Arabia,1945,0,1,$,13.75,13.75
+130,Ecuador,6,Puerto Rico,1945,0,1,$,13.75,13.75
+130,Ecuador,90,Guatemala,1945,0,1,$,13.75,13.75
+130,Ecuador,51,Jamaica,1945,0,1,$,13.75,13.75
+130,Ecuador,900,Australia,1945,0,1,$,13.75,13.75
+130,Ecuador,8502,Sumatra,1945,0,1,$,13.75,13.75
+130,Ecuador,1065,Curacao,1945,0,1,$,13.75,13.75
+130,Ecuador,345,Yugoslavia,1945,0,1,$,13.75,13.75
+130,Ecuador,325,Italy,1945,0,1,$,13.75,13.75
+130,Ecuador,225,Switzerland,1945,0,1,$,13.75,13.75
+130,Ecuador,645,Iraq,1945,0,1,$,13.75,13.75
+130,Ecuador,652,Syria,1945,0,1,$,13.75,13.75
+130,Ecuador,,,1945,25063016,1,$,13.75,13.75
+130,Ecuador,140,Brazil,1945,1630311,1,$,13.75,13.75
+130,Ecuador,651,Egypt,1945,0,1,$,13.75,13.75
+130,Ecuador,53,Barbados,1945,0,1,$,13.75,13.75
+130,Ecuador,21,Newfoundland,1945,0,1,$,13.75,13.75
+130,Ecuador,211,Belgium,1945,0,1,$,13.75,13.75
+130,Ecuador,315,Czechoslovakia,1945,0,1,$,13.75,13.75
+130,Ecuador,8501,Java,1945,0,1,$,13.75,13.75
+130,Ecuador,95,Panama,1945,93517,1,$,13.75,13.75
+130,Ecuador,390,Denmark,1945,0,1,$,13.75,13.75
+130,Ecuador,41,Haiti,1945,0,1,$,13.75,13.75
+130,Ecuador,205,Ireland,1945,0,1,$,13.75,13.75
+130,Ecuador,475,Nigeria,1945,0,1,$,13.75,13.75
+130,Ecuador,367,Latvia,1945,0,1,$,13.75,13.75
+130,Ecuador,220,France,1945,0,1,$,13.75,13.75
+130,Ecuador,390,Denmark,1946,27.3,1000,Sucres,14.6225,14.6225
+130,Ecuador,135,Peru,1946,15589.8,1000,Sucres,14.6225,14.6225
+130,Ecuador,475,Nigeria,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,740,Japan,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,375,Finland,1946,.1,1000,Sucres,14.6225,14.6225
+130,Ecuador,145,Bolivia,1946,.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,205,Ireland,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,355,Bulgaria,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,580,Madagascar,1946,6.9,1000,Sucres,14.6225,14.6225
+130,Ecuador,53,Barbados,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,225,Switzerland,1946,4326.3,1000,Sucres,14.6225,14.6225
+130,Ecuador,366,Estonia,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,315,Czechoslovakia,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,380,Sweden,1946,9061.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,710,China,1946,53.9,1000,Sucres,14.6225,14.6225
+130,Ecuador,231,Gibraltar,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,780,Sri Lanka,1946,471.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,230,Spain,1946,623.3,1000,Sucres,14.6225,14.6225
+130,Ecuador,345,Yugoslavia,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,305,Austria,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,52,Trinidad And Tobago,1946,80.09999999999999,1000,Sucres,14.6225,14.6225
+130,Ecuador,93,Nicaragua,1946,5.1,1000,Sucres,14.6225,14.6225
+130,Ecuador,90,Guatemala,1946,3.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,410,Canary Islands,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,290,Poland,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,95,Panama,1946,171.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,625,Sudan,1946,16.3,1000,Sucres,14.6225,14.6225
+130,Ecuador,652,Syria,1946,339.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,165,Uruguay,1946,3612.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,352,Cyprus,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,40,Cuba,1946,8011,1000,Sucres,14.6225,14.6225
+130,Ecuador,51,Jamaica,1946,55.1,1000,Sucres,14.6225,14.6225
+130,Ecuador,150,Paraguay,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,100,Colombia,1946,16683.8,1000,Sucres,14.6225,14.6225
+130,Ecuador,840,Philippines,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,750,India,1946,4464.8,1000,Sucres,14.6225,14.6225
+130,Ecuador,211,Belgium,1946,57.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,338,Malta,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,675,Arabia,1946,11.2,1000,Sucres,14.6225,14.6225
+130,Ecuador,511,Zanzibar,1946,46.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,,,1946,414268.1,1000,Sucres,14.6225,14.6225
+130,Ecuador,115,Suriname,1946,8.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,6,Puerto Rico,1946,105.9,1000,Sucres,14.6225,14.6225
+130,Ecuador,900,Australia,1946,3.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,325,Italy,1946,682.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,101,Venezuela,1946,295.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,202,Scotland,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,21,Newfoundland,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,310,Hungary,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,645,Iraq,1946,8.699999999999999,1000,Sucres,14.6225,14.6225
+130,Ecuador,235,Portugal,1946,763.2,1000,Sucres,14.6225,14.6225
+130,Ecuador,255,Germany,1946,18.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,210,Netherlands,1946,85.09999999999999,1000,Sucres,14.6225,14.6225
+130,Ecuador,326,Trieste,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,641,Turkey in Europe,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,92,El Salvador,1946,63.2,1000,Sucres,14.6225,14.6225
+130,Ecuador,1069,Aruba,1946,576.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,41,Haiti,1946,.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,367,Latvia,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,350,Greece,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,155,Chile,1946,15564,1000,Sucres,14.6225,14.6225
+130,Ecuador,70,Mexico,1946,5955.8,1000,Sucres,14.6225,14.6225
+130,Ecuador,920,New Zealand,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,140,Brazil,1946,10573.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,201,England,1946,28392.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,385,Norway,1946,223.3,1000,Sucres,14.6225,14.6225
+130,Ecuador,160,Argentina,1946,33033.9,1000,Sucres,14.6225,14.6225
+130,Ecuador,110,Guyana,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,2,United States,1946,240232.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,1065,Curacao,1946,551.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,651,Egypt,1946,1.2,1000,Sucres,14.6225,14.6225
+130,Ecuador,220,France,1946,889.2,1000,Sucres,14.6225,14.6225
+130,Ecuador,96,Panama Canal Zone,1946,5.9,1000,Sucres,14.6225,14.6225
+130,Ecuador,42,Dominican Republic,1946,1.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,317,Slovakia,1946,25.6,1000,Sucres,14.6225,14.6225
+130,Ecuador,810,French Indo-China,1946,91.90000000000001,1000,Sucres,14.6225,14.6225
+130,Ecuador,360,Romania,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,640,Turkey,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,630,Iran,1946,22.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,365,Russia,1946,18.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,8502,Sumatra,1946,115.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,20,Canada,1946,12177.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,91,Honduras,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,665,West Bank And Gaza,1946,.5,1000,Sucres,14.6225,14.6225
+130,Ecuador,8501,Java,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,94,Costa Rica,1946,42.4,1000,Sucres,14.6225,14.6225
+130,Ecuador,827,Straits Settlement,1946,0,1000,Sucres,14.6225,14.6225
+130,Ecuador,720,Hong Kong,1946,12.7,1000,Sucres,14.6225,14.6225
+130,Ecuador,315,Czechoslovakia,1947,1687454,1,Sucres,15,15
+130,Ecuador,352,Cyprus,1947,0,1,Sucres,15,15
+130,Ecuador,235,Portugal,1947,270184,1,Sucres,15,15
+130,Ecuador,20,Canada,1947,20912069,1,Sucres,15,15
+130,Ecuador,652,Syria,1947,590821,1,Sucres,15,15
+130,Ecuador,91,Honduras,1947,3353,1,Sucres,15,15
+130,Ecuador,202,Scotland,1947,0,1,Sucres,15,15
+130,Ecuador,90,Guatemala,1947,9092,1,Sucres,15,15
+130,Ecuador,385,Norway,1947,1374965,1,Sucres,15,15
+130,Ecuador,53,Barbados,1947,0,1,Sucres,15,15
+130,Ecuador,135,Peru,1947,18762936,1,Sucres,15,15
+130,Ecuador,710,China,1947,222989,1,Sucres,15,15
+130,Ecuador,52,Trinidad And Tobago,1947,40344,1,Sucres,15,15
+130,Ecuador,42,Dominican Republic,1947,333,1,Sucres,15,15
+130,Ecuador,345,Yugoslavia,1947,0,1,Sucres,15,15
+130,Ecuador,2,United States,1947,429905546,1,Sucres,15,15
+130,Ecuador,375,Finland,1947,122348,1,Sucres,15,15
+130,Ecuador,1065,Curacao,1947,1191884,1,Sucres,15,15
+130,Ecuador,95,Panama,1947,237261,1,Sucres,15,15
+130,Ecuador,201,England,1947,40983345,1,Sucres,15,15
+130,Ecuador,900,Australia,1947,111698,1,Sucres,15,15
+130,Ecuador,380,Sweden,1947,9702882,1,Sucres,15,15
+130,Ecuador,155,Chile,1947,14754588,1,Sucres,15,15
+130,Ecuador,625,Sudan,1947,33906,1,Sucres,15,15
+130,Ecuador,840,Philippines,1947,13253,1,Sucres,15,15
+130,Ecuador,580,Madagascar,1947,25992,1,Sucres,15,15
+130,Ecuador,230,Spain,1947,1006086,1,Sucres,15,15
+130,Ecuador,720,Hong Kong,1947,737,1,Sucres,15,15
+130,Ecuador,630,Iran,1947,263910,1,Sucres,15,15
+130,Ecuador,665,West Bank And Gaza,1947,25469,1,Sucres,15,15
+130,Ecuador,8502,Sumatra,1947,417156,1,Sucres,15,15
+130,Ecuador,145,Bolivia,1947,952,1,Sucres,15,15
+130,Ecuador,360,Romania,1947,0,1,Sucres,15,15
+130,Ecuador,350,Greece,1947,8829,1,Sucres,15,15
+130,Ecuador,326,Trieste,1947,0,1,Sucres,15,15
+130,Ecuador,780,Sri Lanka,1947,590741,1,Sucres,15,15
+130,Ecuador,6,Puerto Rico,1947,8384,1,Sucres,15,15
+130,Ecuador,94,Costa Rica,1947,88892,1,Sucres,15,15
+130,Ecuador,21,Newfoundland,1947,0,1,Sucres,15,15
+130,Ecuador,310,Hungary,1947,91416,1,Sucres,15,15
+130,Ecuador,366,Estonia,1947,0,1,Sucres,15,15
+130,Ecuador,41,Haiti,1947,6493,1,Sucres,15,15
+130,Ecuador,305,Austria,1947,66,1,Sucres,15,15
+130,Ecuador,338,Malta,1947,0,1,Sucres,15,15
+130,Ecuador,115,Suriname,1947,3,1,Sucres,15,15
+130,Ecuador,40,Cuba,1947,209920,1,Sucres,15,15
+130,Ecuador,641,Turkey in Europe,1947,10870,1,Sucres,15,15
+130,Ecuador,475,Nigeria,1947,2582,1,Sucres,15,15
+130,Ecuador,160,Argentina,1947,6485878,1,Sucres,15,15
+130,Ecuador,51,Jamaica,1947,44066,1,Sucres,15,15
+130,Ecuador,810,French Indo-China,1947,195523,1,Sucres,15,15
+130,Ecuador,100,Colombia,1947,11980580,1,Sucres,15,15
+130,Ecuador,511,Zanzibar,1947,4189,1,Sucres,15,15
+130,Ecuador,225,Switzerland,1947,6850784,1,Sucres,15,15
+130,Ecuador,325,Italy,1947,4824253,1,Sucres,15,15
+130,Ecuador,96,Panama Canal Zone,1947,21017,1,Sucres,15,15
+130,Ecuador,645,Iraq,1947,4698,1,Sucres,15,15
+130,Ecuador,640,Turkey,1947,25394,1,Sucres,15,15
+130,Ecuador,255,Germany,1947,2497,1,Sucres,15,15
+130,Ecuador,211,Belgium,1947,5090055,1,Sucres,15,15
+130,Ecuador,140,Brazil,1947,3120512,1,Sucres,15,15
+130,Ecuador,365,Russia,1947,23765,1,Sucres,15,15
+130,Ecuador,205,Ireland,1947,0,1,Sucres,15,15
+130,Ecuador,150,Paraguay,1947,0,1,Sucres,15,15
+130,Ecuador,390,Denmark,1947,541942,1,Sucres,15,15
+130,Ecuador,290,Poland,1947,5,1,Sucres,15,15
+130,Ecuador,101,Venezuela,1947,307880,1,Sucres,15,15
+130,Ecuador,750,India,1947,3150771,1,Sucres,15,15
+130,Ecuador,740,Japan,1947,5433,1,Sucres,15,15
+130,Ecuador,93,Nicaragua,1947,1861,1,Sucres,15,15
+130,Ecuador,92,El Salvador,1947,17584,1,Sucres,15,15
+130,Ecuador,70,Mexico,1947,3471524,1,Sucres,15,15
+130,Ecuador,1069,Aruba,1947,0,1,Sucres,15,15
+130,Ecuador,827,Straits Settlement,1947,239325,1,Sucres,15,15
+130,Ecuador,220,France,1947,7279074,1,Sucres,15,15
+130,Ecuador,367,Latvia,1947,0,1,Sucres,15,15
+130,Ecuador,317,Slovakia,1947,0,1,Sucres,15,15
+130,Ecuador,,,1947,604479779,1,Sucres,15,15
+130,Ecuador,210,Netherlands,1947,1032388,1,Sucres,15,15
+130,Ecuador,355,Bulgaria,1947,0,1,Sucres,15,15
+130,Ecuador,110,Guyana,1947,0,1,Sucres,15,15
+130,Ecuador,8501,Java,1947,28791,1,Sucres,15,15
+130,Ecuador,410,Canary Islands,1947,0,1,Sucres,15,15
+130,Ecuador,651,Egypt,1947,4090,1,Sucres,15,15
+130,Ecuador,231,Gibraltar,1947,0,1,Sucres,15,15
+130,Ecuador,920,New Zealand,1947,0,1,Sucres,15,15
+130,Ecuador,675,Arabia,1947,0,1,Sucres,15,15
+130,Ecuador,165,Uruguay,1947,6035031,1,Sucres,15,15
+130,Ecuador,96,Panama Canal Zone,1948,0,1,Sucres,15,15
+130,Ecuador,90,Guatemala,1948,0,1,Sucres,15,15
+130,Ecuador,150,Paraguay,1948,0,1,Sucres,15,15
+130,Ecuador,21,Newfoundland,1948,0,1,Sucres,15,15
+130,Ecuador,70,Mexico,1948,4444961,1,Sucres,15,15
+130,Ecuador,651,Egypt,1948,0,1,Sucres,15,15
+130,Ecuador,625,Sudan,1948,0,1,Sucres,15,15
+130,Ecuador,641,Turkey in Europe,1948,0,1,Sucres,15,15
+130,Ecuador,810,French Indo-China,1948,0,1,Sucres,15,15
+130,Ecuador,235,Portugal,1948,322713,1,Sucres,15,15
+130,Ecuador,511,Zanzibar,1948,0,1,Sucres,15,15
+130,Ecuador,6,Puerto Rico,1948,0,1,Sucres,15,15
+130,Ecuador,1065,Curacao,1948,2475022,1,Sucres,15,15
+130,Ecuador,230,Spain,1948,1525619,1,Sucres,15,15
+130,Ecuador,92,El Salvador,1948,6258019,1,Sucres,15,15
+130,Ecuador,201,England,1948,35595847,1,Sucres,15,15
+130,Ecuador,367,Latvia,1948,0,1,Sucres,15,15
+130,Ecuador,41,Haiti,1948,0,1,Sucres,15,15
+130,Ecuador,160,Argentina,1948,1999290,1,Sucres,15,15
+130,Ecuador,580,Madagascar,1948,0,1,Sucres,15,15
+130,Ecuador,652,Syria,1948,0,1,Sucres,15,15
+130,Ecuador,375,Finland,1948,0,1,Sucres,15,15
+130,Ecuador,231,Gibraltar,1948,0,1,Sucres,15,15
+130,Ecuador,365,Russia,1948,0,1,Sucres,15,15
+130,Ecuador,8501,Java,1948,0,1,Sucres,15,15
+130,Ecuador,350,Greece,1948,0,1,Sucres,15,15
+130,Ecuador,345,Yugoslavia,1948,0,1,Sucres,15,15
+130,Ecuador,115,Suriname,1948,0,1,Sucres,15,15
+130,Ecuador,710,China,1948,24799,1,Sucres,15,15
+130,Ecuador,640,Turkey,1948,0,1,Sucres,15,15
+130,Ecuador,165,Uruguay,1948,4568153,1,Sucres,15,15
+130,Ecuador,355,Bulgaria,1948,0,1,Sucres,15,15
+130,Ecuador,380,Sweden,1948,13108397,1,Sucres,15,15
+130,Ecuador,305,Austria,1948,0,1,Sucres,15,15
+130,Ecuador,100,Colombia,1948,132213,1,Sucres,15,15
+130,Ecuador,225,Switzerland,1948,114785,1,Sucres,15,15
+130,Ecuador,110,Guyana,1948,0,1,Sucres,15,15
+130,Ecuador,740,Japan,1948,0,1,Sucres,15,15
+130,Ecuador,155,Chile,1948,11200649,1,Sucres,15,15
+130,Ecuador,52,Trinidad And Tobago,1948,145271,1,Sucres,15,15
+130,Ecuador,310,Hungary,1948,0,1,Sucres,15,15
+130,Ecuador,827,Straits Settlement,1948,0,1,Sucres,15,15
+130,Ecuador,135,Peru,1948,11120030,1,Sucres,15,15
+130,Ecuador,8502,Sumatra,1948,0,1,Sucres,15,15
+130,Ecuador,95,Panama,1948,2716180,1,Sucres,15,15
+130,Ecuador,352,Cyprus,1948,0,1,Sucres,15,15
+130,Ecuador,325,Italy,1948,11001927,1,Sucres,15,15
+130,Ecuador,317,Slovakia,1948,0,1,Sucres,15,15
+130,Ecuador,202,Scotland,1948,0,1,Sucres,15,15
+130,Ecuador,145,Bolivia,1948,0,1,Sucres,15,15
+130,Ecuador,210,Netherlands,1948,5620697,1,Sucres,15,15
+130,Ecuador,205,Ireland,1948,0,1,Sucres,15,15
+130,Ecuador,475,Nigeria,1948,0,1,Sucres,15,15
+130,Ecuador,315,Czechoslovakia,1948,0,1,Sucres,15,15
+130,Ecuador,630,Iran,1948,0,1,Sucres,15,15
+130,Ecuador,91,Honduras,1948,0,1,Sucres,15,15
+130,Ecuador,51,Jamaica,1948,6644,1,Sucres,15,15
+130,Ecuador,40,Cuba,1948,54410,1,Sucres,15,15
+130,Ecuador,385,Norway,1948,415207,1,Sucres,15,15
+130,Ecuador,,,1948,568240151,1,Sucres,15,15
+130,Ecuador,2,United States,1948,412802698,1,Sucres,15,15
+130,Ecuador,390,Denmark,1948,325380,1,Sucres,15,15
+130,Ecuador,53,Barbados,1948,0,1,Sucres,15,15
+130,Ecuador,750,India,1948,3863445,1,Sucres,15,15
+130,Ecuador,338,Malta,1948,0,1,Sucres,15,15
+130,Ecuador,900,Australia,1948,0,1,Sucres,15,15
+130,Ecuador,255,Germany,1948,31381,1,Sucres,15,15
+130,Ecuador,665,West Bank And Gaza,1948,0,1,Sucres,15,15
+130,Ecuador,360,Romania,1948,0,1,Sucres,15,15
+130,Ecuador,220,France,1948,6428420,1,Sucres,15,15
+130,Ecuador,93,Nicaragua,1948,30375,1,Sucres,15,15
+130,Ecuador,20,Canada,1948,1204925,1,Sucres,15,15
+130,Ecuador,326,Trieste,1948,28350,1,Sucres,15,15
+130,Ecuador,920,New Zealand,1948,0,1,Sucres,15,15
+130,Ecuador,1069,Aruba,1948,0,1,Sucres,15,15
+130,Ecuador,94,Costa Rica,1948,9344,1,Sucres,15,15
+130,Ecuador,290,Poland,1948,0,1,Sucres,15,15
+130,Ecuador,645,Iraq,1948,0,1,Sucres,15,15
+130,Ecuador,42,Dominican Republic,1948,0,1,Sucres,15,15
+130,Ecuador,675,Arabia,1948,0,1,Sucres,15,15
+130,Ecuador,140,Brazil,1948,8851899,1,Sucres,15,15
+130,Ecuador,840,Philippines,1948,0,1,Sucres,15,15
+130,Ecuador,101,Venezuela,1948,81993,1,Sucres,15,15
+130,Ecuador,366,Estonia,1948,0,1,Sucres,15,15
+130,Ecuador,780,Sri Lanka,1948,0,1,Sucres,15,15
+130,Ecuador,211,Belgium,1948,21495277,1,Sucres,15,15
+130,Ecuador,720,Hong Kong,1948,47283,1,Sucres,15,15
+130,Ecuador,410,Canary Islands,1948,0,1,Sucres,15,15
+130,Ecuador,8501,Java,1949,0,1,Sucres,15,15
+130,Ecuador,390,Denmark,1949,320371,1,Sucres,15,15
+130,Ecuador,325,Italy,1949,12560102,1,Sucres,15,15
+130,Ecuador,40,Cuba,1949,283359,1,Sucres,15,15
+130,Ecuador,652,Syria,1949,0,1,Sucres,15,15
+130,Ecuador,310,Hungary,1949,0,1,Sucres,15,15
+130,Ecuador,211,Belgium,1949,21717448,1,Sucres,15,15
+130,Ecuador,202,Scotland,1949,0,1,Sucres,15,15
+130,Ecuador,6,Puerto Rico,1949,68793,1,Sucres,15,15
+130,Ecuador,366,Estonia,1949,0,1,Sucres,15,15
+130,Ecuador,367,Latvia,1949,0,1,Sucres,15,15
+130,Ecuador,145,Bolivia,1949,0,1,Sucres,15,15
+130,Ecuador,580,Madagascar,1949,0,1,Sucres,15,15
+130,Ecuador,317,Slovakia,1949,0,1,Sucres,15,15
+130,Ecuador,201,England,1949,31036181,1,Sucres,15,15
+130,Ecuador,840,Philippines,1949,155483,1,Sucres,15,15
+130,Ecuador,827,Straits Settlement,1949,0,1,Sucres,15,15
+130,Ecuador,315,Czechoslovakia,1949,0,1,Sucres,15,15
+130,Ecuador,96,Panama Canal Zone,1949,0,1,Sucres,15,15
+130,Ecuador,231,Gibraltar,1949,0,1,Sucres,15,15
+130,Ecuador,290,Poland,1949,15836,1,Sucres,15,15
+130,Ecuador,205,Ireland,1949,0,1,Sucres,15,15
+130,Ecuador,780,Sri Lanka,1949,180341,1,Sucres,15,15
+130,Ecuador,,,1949,552165056,1,Sucres,15,15
+130,Ecuador,475,Nigeria,1949,0,1,Sucres,15,15
+130,Ecuador,255,Germany,1949,3628590,1,Sucres,15,15
+130,Ecuador,165,Uruguay,1949,406571,1,Sucres,15,15
+130,Ecuador,900,Australia,1949,40608,1,Sucres,15,15
+130,Ecuador,21,Newfoundland,1949,0,1,Sucres,15,15
+130,Ecuador,720,Hong Kong,1949,245759,1,Sucres,15,15
+130,Ecuador,365,Russia,1949,0,1,Sucres,15,15
+130,Ecuador,920,New Zealand,1949,0,1,Sucres,15,15
+130,Ecuador,385,Norway,1949,306955,1,Sucres,15,15
+130,Ecuador,150,Paraguay,1949,0,1,Sucres,15,15
+130,Ecuador,410,Canary Islands,1949,0,1,Sucres,15,15
+130,Ecuador,740,Japan,1949,163586,1,Sucres,15,15
+130,Ecuador,2,United States,1949,421580269,1,Sucres,15,15
+130,Ecuador,1065,Curacao,1949,1263606,1,Sucres,15,15
+130,Ecuador,70,Mexico,1949,465862,1,Sucres,15,15
+130,Ecuador,350,Greece,1949,0,1,Sucres,15,15
+130,Ecuador,675,Arabia,1949,0,1,Sucres,15,15
+130,Ecuador,94,Costa Rica,1949,21212,1,Sucres,15,15
+130,Ecuador,52,Trinidad And Tobago,1949,197028,1,Sucres,15,15
+130,Ecuador,640,Turkey,1949,0,1,Sucres,15,15
+130,Ecuador,665,West Bank And Gaza,1949,0,1,Sucres,15,15
+130,Ecuador,338,Malta,1949,0,1,Sucres,15,15
+130,Ecuador,326,Trieste,1949,0,1,Sucres,15,15
+130,Ecuador,380,Sweden,1949,10073436,1,Sucres,15,15
+130,Ecuador,625,Sudan,1949,0,1,Sucres,15,15
+130,Ecuador,645,Iraq,1949,0,1,Sucres,15,15
+130,Ecuador,375,Finland,1949,0,1,Sucres,15,15
+130,Ecuador,8502,Sumatra,1949,0,1,Sucres,15,15
+130,Ecuador,220,France,1949,6135487,1,Sucres,15,15
+130,Ecuador,360,Romania,1949,0,1,Sucres,15,15
+130,Ecuador,641,Turkey in Europe,1949,0,1,Sucres,15,15
+130,Ecuador,750,India,1949,4828191,1,Sucres,15,15
+130,Ecuador,91,Honduras,1949,0,1,Sucres,15,15
+130,Ecuador,355,Bulgaria,1949,0,1,Sucres,15,15
+130,Ecuador,53,Barbados,1949,0,1,Sucres,15,15
+130,Ecuador,20,Canada,1949,6449841,1,Sucres,15,15
+130,Ecuador,110,Guyana,1949,0,1,Sucres,15,15
+130,Ecuador,630,Iran,1949,0,1,Sucres,15,15
+130,Ecuador,135,Peru,1949,7187563,1,Sucres,15,15
+130,Ecuador,115,Suriname,1949,0,1,Sucres,15,15
+130,Ecuador,51,Jamaica,1949,0,1,Sucres,15,15
+130,Ecuador,230,Spain,1949,3267239,1,Sucres,15,15
+130,Ecuador,95,Panama,1949,2771366,1,Sucres,15,15
+130,Ecuador,1069,Aruba,1949,0,1,Sucres,15,15
+130,Ecuador,235,Portugal,1949,173842,1,Sucres,15,15
+130,Ecuador,210,Netherlands,1949,8443698,1,Sucres,15,15
+130,Ecuador,305,Austria,1949,0,1,Sucres,15,15
+130,Ecuador,710,China,1949,240972,1,Sucres,15,15
+130,Ecuador,41,Haiti,1949,0,1,Sucres,15,15
+130,Ecuador,160,Argentina,1949,291445,1,Sucres,15,15
+130,Ecuador,90,Guatemala,1949,45872,1,Sucres,15,15
+130,Ecuador,810,French Indo-China,1949,0,1,Sucres,15,15
+130,Ecuador,100,Colombia,1949,89361,1,Sucres,15,15
+130,Ecuador,511,Zanzibar,1949,0,1,Sucres,15,15
+130,Ecuador,140,Brazil,1949,1142191,1,Sucres,15,15
+130,Ecuador,345,Yugoslavia,1949,0,1,Sucres,15,15
+130,Ecuador,92,El Salvador,1949,15377,1,Sucres,15,15
+130,Ecuador,101,Venezuela,1949,68847,1,Sucres,15,15
+130,Ecuador,225,Switzerland,1949,0,1,Sucres,15,15
+130,Ecuador,651,Egypt,1949,0,1,Sucres,15,15
+130,Ecuador,155,Chile,1949,6149474,1,Sucres,15,15
+130,Ecuador,42,Dominican Republic,1949,0,1,Sucres,15,15
+130,Ecuador,352,Cyprus,1949,0,1,Sucres,15,15
+130,Ecuador,93,Nicaragua,1949,0,1,Sucres,15,15
+130,Ecuador,,,1927,,,,5.2279,5.2279
+130,Ecuador,,,1928,,,,5,5
+130,Ecuador,,,1931,,,,5,5
+130,Ecuador,,,1932,,,,5.7171001,5.7171001
+130,Ecuador,,,1933,,,,6.0282001,6.0282001
+130,Ecuador,,,1934,,,,6,6
+130,Ecuador,,,1935,,,,8.1013002,8.1013002
+130,Ecuador,,,1936,,,,10.5,10.5
+130,Ecuador,,,1937,,,,10.6013,10.6013
+130,Ecuador,,,1950,,,,15,15

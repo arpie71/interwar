@@ -1,0 +1,3442 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+352,2,1919,12051,1,Pounds,Cyprus,United States
+352,2,1920,110029,1,,Cyprus,United States
+352,2,1921,53680,1,,Cyprus,United States
+352,2,1922,60070,1,,Cyprus,United States
+352,2,1923,36434,1,,Cyprus,United States
+352,2,1924,84863,1,,Cyprus,United States
+352,2,1925,119265,1,,Cyprus,United States
+352,2,1926,106750,1,Pounds,Cyprus,United States
+352,2,1927,77343,1,Pounds,Cyprus,United States
+352,2,1928,66155,1,Pounds,Cyprus,United States
+352,2,1929,72114,1,Pounds,Cyprus,United States
+352,2,1930,65124,1,Pounds,Cyprus,United States
+352,2,1931,28660,1,Pounds,Cyprus,United States
+352,2,1932,15554,1,Pounds,Cyprus,United States
+352,2,1933,11607,1,,Cyprus,United States
+352,2,1934,24641,1,,Cyprus,United States
+352,2,1935,33692,1,,Cyprus,United States
+352,2,1936,43140,1,,Cyprus,United States
+352,2,1937,70102,1,Pounds,Cyprus,United States
+352,2,1938,89986,1,Pounds,Cyprus,United States
+352,2,1939,71632,1,Pounds,Cyprus,United States
+352,2,1940,80369,1,Pounds,Cyprus,United States
+352,2,1941,54083,1,Pounds,Cyprus,United States
+352,2,1942,56069,1,Pounds,Cyprus,United States
+352,2,1943,194731,1,Pounds,Cyprus,United States
+352,2,1944,190616,1,Pounds,Cyprus,United States
+352,2,1945,383676,1,Pounds,Cyprus,United States
+352,2,1946,734946,1,Pounds,Cyprus,United States
+352,2,1947,719087,1,Pounds,Cyprus,United States
+352,2,1948,674385,1,Pounds,Cyprus,United States
+352,2,1949,671115,1,Pounds,Cyprus,United States
+352,20,1919,1863,1,Pounds,Cyprus,Canada
+352,20,1920,1690,1,,Cyprus,Canada
+352,20,1921,14,1,,Cyprus,Canada
+352,20,1922,566,1,,Cyprus,Canada
+352,20,1923,8951,1,,Cyprus,Canada
+352,20,1924,3037,1,,Cyprus,Canada
+352,20,1925,10325,1,,Cyprus,Canada
+352,20,1926,17608,1,Pounds,Cyprus,Canada
+352,20,1927,25801,1,Pounds,Cyprus,Canada
+352,20,1928,60989,1,Pounds,Cyprus,Canada
+352,20,1929,56197,1,Pounds,Cyprus,Canada
+352,20,1930,23486,1,Pounds,Cyprus,Canada
+352,20,1931,20375,1,Pounds,Cyprus,Canada
+352,20,1932,12855,1,Pounds,Cyprus,Canada
+352,20,1933,8002,1,,Cyprus,Canada
+352,20,1934,18989,1,,Cyprus,Canada
+352,20,1935,19903,1,,Cyprus,Canada
+352,20,1936,18058,1,,Cyprus,Canada
+352,20,1937,29573,1,Pounds,Cyprus,Canada
+352,20,1938,36079,1,Pounds,Cyprus,Canada
+352,20,1939,58848,1,Pounds,Cyprus,Canada
+352,20,1940,4419,1,Pounds,Cyprus,Canada
+352,20,1941,48708,1,Pounds,Cyprus,Canada
+352,20,1942,621126,1,Pounds,Cyprus,Canada
+352,20,1943,89720,1,Pounds,Cyprus,Canada
+352,20,1944,676205,1,Pounds,Cyprus,Canada
+352,20,1945,987136,1,Pounds,Cyprus,Canada
+352,20,1946,762628,1,Pounds,Cyprus,Canada
+352,20,1947,1588463,1,Pounds,Cyprus,Canada
+352,20,1948,821991,1,Pounds,Cyprus,Canada
+352,20,1949,17870,1,Pounds,Cyprus,Canada
+352,31,1919,0,1,Pounds,Cyprus,Bahamas
+352,31,1920,0,1,,Cyprus,Bahamas
+352,31,1921,0,1,,Cyprus,Bahamas
+352,31,1922,0,1,,Cyprus,Bahamas
+352,31,1923,0,1,,Cyprus,Bahamas
+352,31,1924,0,1,,Cyprus,Bahamas
+352,31,1925,0,1,,Cyprus,Bahamas
+352,31,1926,0,1,Pounds,Cyprus,Bahamas
+352,31,1927,0,1,Pounds,Cyprus,Bahamas
+352,31,1928,0,1,Pounds,Cyprus,Bahamas
+352,31,1929,0,1,Pounds,Cyprus,Bahamas
+352,31,1930,0,1,Pounds,Cyprus,Bahamas
+352,31,1931,0,1,Pounds,Cyprus,Bahamas
+352,31,1932,0,1,Pounds,Cyprus,Bahamas
+352,31,1933,0,1,,Cyprus,Bahamas
+352,31,1934,0,1,,Cyprus,Bahamas
+352,31,1935,0,1,,Cyprus,Bahamas
+352,31,1936,0,1,,Cyprus,Bahamas
+352,31,1937,0,1,Pounds,Cyprus,Bahamas
+352,31,1938,0,1,Pounds,Cyprus,Bahamas
+352,31,1939,0,1,Pounds,Cyprus,Bahamas
+352,31,1940,0,1,Pounds,Cyprus,Bahamas
+352,31,1941,0,1,Pounds,Cyprus,Bahamas
+352,31,1942,0,1,Pounds,Cyprus,Bahamas
+352,31,1943,0,1,Pounds,Cyprus,Bahamas
+352,31,1944,0,1,Pounds,Cyprus,Bahamas
+352,31,1945,0,1,Pounds,Cyprus,Bahamas
+352,31,1946,0,1,Pounds,Cyprus,Bahamas
+352,31,1947,0,1,Pounds,Cyprus,Bahamas
+352,31,1948,1,1,Pounds,Cyprus,Bahamas
+352,31,1949,0,1,Pounds,Cyprus,Bahamas
+352,40,1919,0,1,Pounds,Cyprus,Cuba
+352,40,1920,0,1,,Cyprus,Cuba
+352,40,1921,0,1,,Cyprus,Cuba
+352,40,1922,0,1,,Cyprus,Cuba
+352,40,1923,0,1,,Cyprus,Cuba
+352,40,1924,0,1,,Cyprus,Cuba
+352,40,1925,0,1,,Cyprus,Cuba
+352,40,1926,0,1,Pounds,Cyprus,Cuba
+352,40,1927,0,1,Pounds,Cyprus,Cuba
+352,40,1928,0,1,Pounds,Cyprus,Cuba
+352,40,1929,0,1,Pounds,Cyprus,Cuba
+352,40,1930,0,1,Pounds,Cyprus,Cuba
+352,40,1931,0,1,Pounds,Cyprus,Cuba
+352,40,1932,0,1,Pounds,Cyprus,Cuba
+352,40,1933,0,1,,Cyprus,Cuba
+352,40,1934,0,1,,Cyprus,Cuba
+352,40,1935,0,1,,Cyprus,Cuba
+352,40,1936,0,1,,Cyprus,Cuba
+352,40,1937,1,1,Pounds,Cyprus,Cuba
+352,40,1938,4,1,Pounds,Cyprus,Cuba
+352,40,1939,26,1,Pounds,Cyprus,Cuba
+352,40,1940,0,1,Pounds,Cyprus,Cuba
+352,40,1941,0,1,Pounds,Cyprus,Cuba
+352,40,1942,0,1,Pounds,Cyprus,Cuba
+352,40,1943,0,1,Pounds,Cyprus,Cuba
+352,40,1944,0,1,Pounds,Cyprus,Cuba
+352,40,1945,359,1,Pounds,Cyprus,Cuba
+352,40,1946,0,1,Pounds,Cyprus,Cuba
+352,40,1947,0,1,Pounds,Cyprus,Cuba
+352,40,1948,0,1,Pounds,Cyprus,Cuba
+352,40,1949,0,1,Pounds,Cyprus,Cuba
+352,51,1919,30,1,Pounds,Cyprus,Jamaica
+352,51,1920,0,1,,Cyprus,Jamaica
+352,51,1921,18,1,,Cyprus,Jamaica
+352,51,1922,0,1,,Cyprus,Jamaica
+352,51,1923,0,1,,Cyprus,Jamaica
+352,51,1924,0,1,,Cyprus,Jamaica
+352,51,1925,0,1,,Cyprus,Jamaica
+352,51,1926,0,1,Pounds,Cyprus,Jamaica
+352,51,1927,0,1,Pounds,Cyprus,Jamaica
+352,51,1928,0,1,Pounds,Cyprus,Jamaica
+352,51,1929,0,1,Pounds,Cyprus,Jamaica
+352,51,1930,0,1,Pounds,Cyprus,Jamaica
+352,51,1931,0,1,Pounds,Cyprus,Jamaica
+352,51,1932,0,1,Pounds,Cyprus,Jamaica
+352,51,1933,0,1,,Cyprus,Jamaica
+352,51,1934,0,1,,Cyprus,Jamaica
+352,51,1935,0,1,,Cyprus,Jamaica
+352,51,1936,0,1,,Cyprus,Jamaica
+352,51,1937,0,1,Pounds,Cyprus,Jamaica
+352,51,1938,0,1,Pounds,Cyprus,Jamaica
+352,51,1939,0,1,Pounds,Cyprus,Jamaica
+352,51,1940,0,1,Pounds,Cyprus,Jamaica
+352,51,1941,0,1,Pounds,Cyprus,Jamaica
+352,51,1942,0,1,Pounds,Cyprus,Jamaica
+352,51,1943,0,1,Pounds,Cyprus,Jamaica
+352,51,1944,0,1,Pounds,Cyprus,Jamaica
+352,51,1945,0,1,Pounds,Cyprus,Jamaica
+352,51,1946,0,1,Pounds,Cyprus,Jamaica
+352,51,1947,0,1,Pounds,Cyprus,Jamaica
+352,51,1948,0,1,Pounds,Cyprus,Jamaica
+352,51,1949,0,1,Pounds,Cyprus,Jamaica
+352,70,1919,0,1,Pounds,Cyprus,Mexico
+352,70,1920,0,1,,Cyprus,Mexico
+352,70,1921,0,1,,Cyprus,Mexico
+352,70,1922,0,1,,Cyprus,Mexico
+352,70,1923,0,1,,Cyprus,Mexico
+352,70,1924,0,1,,Cyprus,Mexico
+352,70,1925,0,1,,Cyprus,Mexico
+352,70,1926,0,1,Pounds,Cyprus,Mexico
+352,70,1927,0,1,Pounds,Cyprus,Mexico
+352,70,1928,0,1,Pounds,Cyprus,Mexico
+352,70,1929,0,1,Pounds,Cyprus,Mexico
+352,70,1930,0,1,Pounds,Cyprus,Mexico
+352,70,1931,36,1,Pounds,Cyprus,Mexico
+352,70,1932,0,1,Pounds,Cyprus,Mexico
+352,70,1933,0,1,,Cyprus,Mexico
+352,70,1934,0,1,,Cyprus,Mexico
+352,70,1935,0,1,,Cyprus,Mexico
+352,70,1936,0,1,,Cyprus,Mexico
+352,70,1937,159,1,Pounds,Cyprus,Mexico
+352,70,1938,0,1,Pounds,Cyprus,Mexico
+352,70,1939,0,1,Pounds,Cyprus,Mexico
+352,70,1940,0,1,Pounds,Cyprus,Mexico
+352,70,1941,0,1,Pounds,Cyprus,Mexico
+352,70,1942,0,1,Pounds,Cyprus,Mexico
+352,70,1943,0,1,Pounds,Cyprus,Mexico
+352,70,1944,0,1,Pounds,Cyprus,Mexico
+352,70,1945,0,1,Pounds,Cyprus,Mexico
+352,70,1946,137,1,Pounds,Cyprus,Mexico
+352,70,1947,1,1,Pounds,Cyprus,Mexico
+352,70,1948,2,1,Pounds,Cyprus,Mexico
+352,70,1949,1,1,Pounds,Cyprus,Mexico
+352,80,1919,0,1,Pounds,Cyprus,Belize
+352,80,1920,0,1,,Cyprus,Belize
+352,80,1921,0,1,,Cyprus,Belize
+352,80,1922,0,1,,Cyprus,Belize
+352,80,1923,0,1,,Cyprus,Belize
+352,80,1924,0,1,,Cyprus,Belize
+352,80,1925,0,1,,Cyprus,Belize
+352,80,1926,0,1,Pounds,Cyprus,Belize
+352,80,1927,0,1,Pounds,Cyprus,Belize
+352,80,1928,0,1,Pounds,Cyprus,Belize
+352,80,1929,0,1,Pounds,Cyprus,Belize
+352,80,1930,0,1,Pounds,Cyprus,Belize
+352,80,1931,0,1,Pounds,Cyprus,Belize
+352,80,1932,0,1,Pounds,Cyprus,Belize
+352,80,1933,0,1,,Cyprus,Belize
+352,80,1934,0,1,,Cyprus,Belize
+352,80,1935,0,1,,Cyprus,Belize
+352,80,1936,0,1,,Cyprus,Belize
+352,80,1937,0,1,Pounds,Cyprus,Belize
+352,80,1938,0,1,Pounds,Cyprus,Belize
+352,80,1939,0,1,Pounds,Cyprus,Belize
+352,80,1940,0,1,Pounds,Cyprus,Belize
+352,80,1941,0,1,Pounds,Cyprus,Belize
+352,80,1942,0,1,Pounds,Cyprus,Belize
+352,80,1943,0,1,Pounds,Cyprus,Belize
+352,80,1944,0,1,Pounds,Cyprus,Belize
+352,80,1945,0,1,Pounds,Cyprus,Belize
+352,80,1946,0,1,Pounds,Cyprus,Belize
+352,80,1947,1,1,Pounds,Cyprus,Belize
+352,80,1948,0,1,Pounds,Cyprus,Belize
+352,80,1949,1,1,Pounds,Cyprus,Belize
+352,92,1919,0,1,Pounds,Cyprus,El Salvador
+352,92,1920,0,1,,Cyprus,El Salvador
+352,92,1921,0,1,,Cyprus,El Salvador
+352,92,1922,0,1,,Cyprus,El Salvador
+352,92,1923,0,1,,Cyprus,El Salvador
+352,92,1924,0,1,,Cyprus,El Salvador
+352,92,1925,0,1,,Cyprus,El Salvador
+352,92,1926,0,1,Pounds,Cyprus,El Salvador
+352,92,1927,0,1,Pounds,Cyprus,El Salvador
+352,92,1928,0,1,Pounds,Cyprus,El Salvador
+352,92,1929,0,1,Pounds,Cyprus,El Salvador
+352,92,1930,0,1,Pounds,Cyprus,El Salvador
+352,92,1931,0,1,Pounds,Cyprus,El Salvador
+352,92,1932,0,1,Pounds,Cyprus,El Salvador
+352,92,1933,0,1,,Cyprus,El Salvador
+352,92,1934,0,1,,Cyprus,El Salvador
+352,92,1935,0,1,,Cyprus,El Salvador
+352,92,1936,0,1,,Cyprus,El Salvador
+352,92,1937,7,1,Pounds,Cyprus,El Salvador
+352,92,1938,8,1,Pounds,Cyprus,El Salvador
+352,92,1939,1,1,Pounds,Cyprus,El Salvador
+352,92,1940,0,1,Pounds,Cyprus,El Salvador
+352,92,1941,0,1,Pounds,Cyprus,El Salvador
+352,92,1942,0,1,Pounds,Cyprus,El Salvador
+352,92,1943,0,1,Pounds,Cyprus,El Salvador
+352,92,1944,3,1,Pounds,Cyprus,El Salvador
+352,92,1945,0,1,Pounds,Cyprus,El Salvador
+352,92,1946,14,1,Pounds,Cyprus,El Salvador
+352,92,1947,1,1,Pounds,Cyprus,El Salvador
+352,92,1948,4,1,Pounds,Cyprus,El Salvador
+352,92,1949,0,1,Pounds,Cyprus,El Salvador
+352,100,1919,0,1,Pounds,Cyprus,Colombia
+352,100,1920,0,1,,Cyprus,Colombia
+352,100,1921,0,1,,Cyprus,Colombia
+352,100,1922,0,1,,Cyprus,Colombia
+352,100,1923,0,1,,Cyprus,Colombia
+352,100,1924,0,1,,Cyprus,Colombia
+352,100,1925,0,1,,Cyprus,Colombia
+352,100,1926,0,1,Pounds,Cyprus,Colombia
+352,100,1927,0,1,Pounds,Cyprus,Colombia
+352,100,1928,0,1,Pounds,Cyprus,Colombia
+352,100,1929,0,1,Pounds,Cyprus,Colombia
+352,100,1930,0,1,Pounds,Cyprus,Colombia
+352,100,1931,0,1,Pounds,Cyprus,Colombia
+352,100,1932,0,1,Pounds,Cyprus,Colombia
+352,100,1933,0,1,,Cyprus,Colombia
+352,100,1934,0,1,,Cyprus,Colombia
+352,100,1935,0,1,,Cyprus,Colombia
+352,100,1936,0,1,,Cyprus,Colombia
+352,100,1937,0,1,Pounds,Cyprus,Colombia
+352,100,1938,1,1,Pounds,Cyprus,Colombia
+352,100,1939,0,1,Pounds,Cyprus,Colombia
+352,100,1940,0,1,Pounds,Cyprus,Colombia
+352,100,1941,0,1,Pounds,Cyprus,Colombia
+352,100,1942,0,1,Pounds,Cyprus,Colombia
+352,100,1943,0,1,Pounds,Cyprus,Colombia
+352,100,1944,0,1,Pounds,Cyprus,Colombia
+352,100,1945,0,1,Pounds,Cyprus,Colombia
+352,100,1946,0,1,Pounds,Cyprus,Colombia
+352,100,1947,0,1,Pounds,Cyprus,Colombia
+352,100,1948,0,1,Pounds,Cyprus,Colombia
+352,100,1949,6,1,Pounds,Cyprus,Colombia
+352,101,1919,0,1,Pounds,Cyprus,Venezuela
+352,101,1920,0,1,,Cyprus,Venezuela
+352,101,1921,0,1,,Cyprus,Venezuela
+352,101,1922,0,1,,Cyprus,Venezuela
+352,101,1923,0,1,,Cyprus,Venezuela
+352,101,1924,0,1,,Cyprus,Venezuela
+352,101,1925,0,1,,Cyprus,Venezuela
+352,101,1926,0,1,Pounds,Cyprus,Venezuela
+352,101,1927,0,1,Pounds,Cyprus,Venezuela
+352,101,1928,0,1,Pounds,Cyprus,Venezuela
+352,101,1929,0,1,Pounds,Cyprus,Venezuela
+352,101,1930,0,1,Pounds,Cyprus,Venezuela
+352,101,1931,62,1,Pounds,Cyprus,Venezuela
+352,101,1932,0,1,Pounds,Cyprus,Venezuela
+352,101,1933,0,1,,Cyprus,Venezuela
+352,101,1934,0,1,,Cyprus,Venezuela
+352,101,1935,0,1,,Cyprus,Venezuela
+352,101,1936,0,1,,Cyprus,Venezuela
+352,101,1937,0,1,Pounds,Cyprus,Venezuela
+352,101,1938,119,1,Pounds,Cyprus,Venezuela
+352,101,1939,1,1,Pounds,Cyprus,Venezuela
+352,101,1940,0,1,Pounds,Cyprus,Venezuela
+352,101,1941,0,1,Pounds,Cyprus,Venezuela
+352,101,1942,0,1,Pounds,Cyprus,Venezuela
+352,101,1943,0,1,Pounds,Cyprus,Venezuela
+352,101,1944,0,1,Pounds,Cyprus,Venezuela
+352,101,1945,0,1,Pounds,Cyprus,Venezuela
+352,101,1946,0,1,Pounds,Cyprus,Venezuela
+352,101,1947,1,1,Pounds,Cyprus,Venezuela
+352,101,1948,2,1,Pounds,Cyprus,Venezuela
+352,101,1949,0,1,Pounds,Cyprus,Venezuela
+352,110,1919,0,1,Pounds,Cyprus,Guyana
+352,110,1920,0,1,,Cyprus,Guyana
+352,110,1921,0,1,,Cyprus,Guyana
+352,110,1922,0,1,,Cyprus,Guyana
+352,110,1923,0,1,,Cyprus,Guyana
+352,110,1924,0,1,,Cyprus,Guyana
+352,110,1925,0,1,,Cyprus,Guyana
+352,110,1926,0,1,Pounds,Cyprus,Guyana
+352,110,1927,0,1,Pounds,Cyprus,Guyana
+352,110,1928,0,1,Pounds,Cyprus,Guyana
+352,110,1929,0,1,Pounds,Cyprus,Guyana
+352,110,1930,0,1,Pounds,Cyprus,Guyana
+352,110,1931,0,1,Pounds,Cyprus,Guyana
+352,110,1932,0,1,Pounds,Cyprus,Guyana
+352,110,1933,0,1,,Cyprus,Guyana
+352,110,1934,0,1,,Cyprus,Guyana
+352,110,1935,0,1,,Cyprus,Guyana
+352,110,1936,0,1,,Cyprus,Guyana
+352,110,1937,0,1,Pounds,Cyprus,Guyana
+352,110,1938,599,1,Pounds,Cyprus,Guyana
+352,110,1939,0,1,Pounds,Cyprus,Guyana
+352,110,1940,0,1,Pounds,Cyprus,Guyana
+352,110,1941,0,1,Pounds,Cyprus,Guyana
+352,110,1942,0,1,Pounds,Cyprus,Guyana
+352,110,1943,0,1,Pounds,Cyprus,Guyana
+352,110,1944,0,1,Pounds,Cyprus,Guyana
+352,110,1945,0,1,Pounds,Cyprus,Guyana
+352,110,1946,0,1,Pounds,Cyprus,Guyana
+352,110,1947,0,1,Pounds,Cyprus,Guyana
+352,110,1948,0,1,Pounds,Cyprus,Guyana
+352,110,1949,84,1,Pounds,Cyprus,Guyana
+352,130,1919,0,1,Pounds,Cyprus,Ecuador
+352,130,1920,0,1,,Cyprus,Ecuador
+352,130,1921,0,1,,Cyprus,Ecuador
+352,130,1922,0,1,,Cyprus,Ecuador
+352,130,1923,0,1,,Cyprus,Ecuador
+352,130,1924,0,1,,Cyprus,Ecuador
+352,130,1925,0,1,,Cyprus,Ecuador
+352,130,1926,0,1,Pounds,Cyprus,Ecuador
+352,130,1927,0,1,Pounds,Cyprus,Ecuador
+352,130,1928,0,1,Pounds,Cyprus,Ecuador
+352,130,1929,0,1,Pounds,Cyprus,Ecuador
+352,130,1930,0,1,Pounds,Cyprus,Ecuador
+352,130,1931,0,1,Pounds,Cyprus,Ecuador
+352,130,1932,0,1,Pounds,Cyprus,Ecuador
+352,130,1933,0,1,,Cyprus,Ecuador
+352,130,1934,0,1,,Cyprus,Ecuador
+352,130,1935,0,1,,Cyprus,Ecuador
+352,130,1936,0,1,,Cyprus,Ecuador
+352,130,1937,513,1,Pounds,Cyprus,Ecuador
+352,130,1938,4317,1,Pounds,Cyprus,Ecuador
+352,130,1939,3207,1,Pounds,Cyprus,Ecuador
+352,130,1940,0,1,Pounds,Cyprus,Ecuador
+352,130,1941,0,1,Pounds,Cyprus,Ecuador
+352,130,1942,0,1,Pounds,Cyprus,Ecuador
+352,130,1943,0,1,Pounds,Cyprus,Ecuador
+352,130,1944,0,1,Pounds,Cyprus,Ecuador
+352,130,1945,0,1,Pounds,Cyprus,Ecuador
+352,130,1946,0,1,Pounds,Cyprus,Ecuador
+352,130,1947,0,1,Pounds,Cyprus,Ecuador
+352,130,1948,25,1,Pounds,Cyprus,Ecuador
+352,130,1949,0,1,Pounds,Cyprus,Ecuador
+352,135,1919,0,1,Pounds,Cyprus,Peru
+352,135,1920,0,1,,Cyprus,Peru
+352,135,1921,0,1,,Cyprus,Peru
+352,135,1922,0,1,,Cyprus,Peru
+352,135,1923,0,1,,Cyprus,Peru
+352,135,1924,0,1,,Cyprus,Peru
+352,135,1925,0,1,,Cyprus,Peru
+352,135,1926,0,1,Pounds,Cyprus,Peru
+352,135,1927,0,1,Pounds,Cyprus,Peru
+352,135,1928,0,1,Pounds,Cyprus,Peru
+352,135,1929,2,1,Pounds,Cyprus,Peru
+352,135,1930,1,1,Pounds,Cyprus,Peru
+352,135,1931,0,1,Pounds,Cyprus,Peru
+352,135,1932,68,1,Pounds,Cyprus,Peru
+352,135,1933,0,1,,Cyprus,Peru
+352,135,1934,0,1,,Cyprus,Peru
+352,135,1935,0,1,,Cyprus,Peru
+352,135,1936,0,1,,Cyprus,Peru
+352,135,1937,141,1,Pounds,Cyprus,Peru
+352,135,1938,3,1,Pounds,Cyprus,Peru
+352,135,1939,1,1,Pounds,Cyprus,Peru
+352,135,1940,0,1,Pounds,Cyprus,Peru
+352,135,1941,0,1,Pounds,Cyprus,Peru
+352,135,1942,0,1,Pounds,Cyprus,Peru
+352,135,1943,0,1,Pounds,Cyprus,Peru
+352,135,1944,0,1,Pounds,Cyprus,Peru
+352,135,1945,0,1,Pounds,Cyprus,Peru
+352,135,1946,8,1,Pounds,Cyprus,Peru
+352,135,1947,0,1,Pounds,Cyprus,Peru
+352,135,1948,16,1,Pounds,Cyprus,Peru
+352,135,1949,2,1,Pounds,Cyprus,Peru
+352,140,1919,0,1,Pounds,Cyprus,Brazil
+352,140,1920,4459,1,,Cyprus,Brazil
+352,140,1921,2362,1,,Cyprus,Brazil
+352,140,1922,1760,1,,Cyprus,Brazil
+352,140,1923,11561,1,,Cyprus,Brazil
+352,140,1924,17220,1,,Cyprus,Brazil
+352,140,1925,23110,1,,Cyprus,Brazil
+352,140,1926,21200,1,Pounds,Cyprus,Brazil
+352,140,1927,16858,1,Pounds,Cyprus,Brazil
+352,140,1928,21811,1,Pounds,Cyprus,Brazil
+352,140,1929,27774,1,Pounds,Cyprus,Brazil
+352,140,1930,15679,1,Pounds,Cyprus,Brazil
+352,140,1931,12852,1,Pounds,Cyprus,Brazil
+352,140,1932,15267,1,Pounds,Cyprus,Brazil
+352,140,1933,17839,1,,Cyprus,Brazil
+352,140,1934,13636,1,,Cyprus,Brazil
+352,140,1935,22461,1,,Cyprus,Brazil
+352,140,1936,6988,1,,Cyprus,Brazil
+352,140,1937,16887,1,Pounds,Cyprus,Brazil
+352,140,1938,25824,1,Pounds,Cyprus,Brazil
+352,140,1939,2916,1,Pounds,Cyprus,Brazil
+352,140,1940,28022,1,Pounds,Cyprus,Brazil
+352,140,1941,21997,1,Pounds,Cyprus,Brazil
+352,140,1942,1743,1,Pounds,Cyprus,Brazil
+352,140,1943,0,1,Pounds,Cyprus,Brazil
+352,140,1944,0,1,Pounds,Cyprus,Brazil
+352,140,1945,945,1,Pounds,Cyprus,Brazil
+352,140,1946,756,1,Pounds,Cyprus,Brazil
+352,140,1947,20823,1,Pounds,Cyprus,Brazil
+352,140,1948,146495,1,Pounds,Cyprus,Brazil
+352,140,1949,98853,1,Pounds,Cyprus,Brazil
+352,150,1919,0,1,Pounds,Cyprus,Paraguay
+352,150,1920,0,1,,Cyprus,Paraguay
+352,150,1921,0,1,,Cyprus,Paraguay
+352,150,1922,0,1,,Cyprus,Paraguay
+352,150,1923,0,1,,Cyprus,Paraguay
+352,150,1924,0,1,,Cyprus,Paraguay
+352,150,1925,0,1,,Cyprus,Paraguay
+352,150,1926,0,1,Pounds,Cyprus,Paraguay
+352,150,1927,0,1,Pounds,Cyprus,Paraguay
+352,150,1928,0,1,Pounds,Cyprus,Paraguay
+352,150,1929,0,1,Pounds,Cyprus,Paraguay
+352,150,1930,0,1,Pounds,Cyprus,Paraguay
+352,150,1931,0,1,Pounds,Cyprus,Paraguay
+352,150,1932,0,1,Pounds,Cyprus,Paraguay
+352,150,1933,0,1,,Cyprus,Paraguay
+352,150,1934,0,1,,Cyprus,Paraguay
+352,150,1935,0,1,,Cyprus,Paraguay
+352,150,1936,0,1,,Cyprus,Paraguay
+352,150,1937,0,1,Pounds,Cyprus,Paraguay
+352,150,1938,8,1,Pounds,Cyprus,Paraguay
+352,150,1939,26,1,Pounds,Cyprus,Paraguay
+352,150,1940,0,1,Pounds,Cyprus,Paraguay
+352,150,1941,0,1,Pounds,Cyprus,Paraguay
+352,150,1942,0,1,Pounds,Cyprus,Paraguay
+352,150,1943,0,1,Pounds,Cyprus,Paraguay
+352,150,1944,0,1,Pounds,Cyprus,Paraguay
+352,150,1945,0,1,Pounds,Cyprus,Paraguay
+352,150,1946,0,1,Pounds,Cyprus,Paraguay
+352,150,1947,0,1,Pounds,Cyprus,Paraguay
+352,150,1948,0,1,Pounds,Cyprus,Paraguay
+352,150,1949,0,1,Pounds,Cyprus,Paraguay
+352,155,1919,0,1,Pounds,Cyprus,Chile
+352,155,1920,0,1,,Cyprus,Chile
+352,155,1921,0,1,,Cyprus,Chile
+352,155,1922,0,1,,Cyprus,Chile
+352,155,1923,0,1,,Cyprus,Chile
+352,155,1924,0,1,,Cyprus,Chile
+352,155,1925,0,1,,Cyprus,Chile
+352,155,1926,0,1,Pounds,Cyprus,Chile
+352,155,1927,0,1,Pounds,Cyprus,Chile
+352,155,1928,0,1,Pounds,Cyprus,Chile
+352,155,1929,0,1,Pounds,Cyprus,Chile
+352,155,1930,0,1,Pounds,Cyprus,Chile
+352,155,1931,0,1,Pounds,Cyprus,Chile
+352,155,1932,0,1,Pounds,Cyprus,Chile
+352,155,1933,0,1,,Cyprus,Chile
+352,155,1934,0,1,,Cyprus,Chile
+352,155,1935,0,1,,Cyprus,Chile
+352,155,1936,0,1,,Cyprus,Chile
+352,155,1937,0,1,Pounds,Cyprus,Chile
+352,155,1938,298,1,Pounds,Cyprus,Chile
+352,155,1939,776,1,Pounds,Cyprus,Chile
+352,155,1940,0,1,Pounds,Cyprus,Chile
+352,155,1941,0,1,Pounds,Cyprus,Chile
+352,155,1942,0,1,Pounds,Cyprus,Chile
+352,155,1943,0,1,Pounds,Cyprus,Chile
+352,155,1944,1,1,Pounds,Cyprus,Chile
+352,155,1945,0,1,Pounds,Cyprus,Chile
+352,155,1946,0,1,Pounds,Cyprus,Chile
+352,155,1947,1973,1,Pounds,Cyprus,Chile
+352,155,1948,0,1,Pounds,Cyprus,Chile
+352,155,1949,0,1,Pounds,Cyprus,Chile
+352,160,1919,0,1,Pounds,Cyprus,Argentina
+352,160,1920,33927,1,,Cyprus,Argentina
+352,160,1921,2097,1,,Cyprus,Argentina
+352,160,1922,0,1,,Cyprus,Argentina
+352,160,1923,0,1,,Cyprus,Argentina
+352,160,1924,0,1,,Cyprus,Argentina
+352,160,1925,0,1,,Cyprus,Argentina
+352,160,1926,21,1,Pounds,Cyprus,Argentina
+352,160,1927,25,1,Pounds,Cyprus,Argentina
+352,160,1928,295,1,Pounds,Cyprus,Argentina
+352,160,1929,936,1,Pounds,Cyprus,Argentina
+352,160,1930,362,1,Pounds,Cyprus,Argentina
+352,160,1931,62,1,Pounds,Cyprus,Argentina
+352,160,1932,1179,1,Pounds,Cyprus,Argentina
+352,160,1933,0,1,,Cyprus,Argentina
+352,160,1934,0,1,,Cyprus,Argentina
+352,160,1935,0,1,,Cyprus,Argentina
+352,160,1936,0,1,,Cyprus,Argentina
+352,160,1937,2212,1,Pounds,Cyprus,Argentina
+352,160,1938,2084,1,Pounds,Cyprus,Argentina
+352,160,1939,1702,1,Pounds,Cyprus,Argentina
+352,160,1940,0,1,Pounds,Cyprus,Argentina
+352,160,1941,0,1,Pounds,Cyprus,Argentina
+352,160,1942,0,1,Pounds,Cyprus,Argentina
+352,160,1943,0,1,Pounds,Cyprus,Argentina
+352,160,1944,0,1,Pounds,Cyprus,Argentina
+352,160,1945,0,1,Pounds,Cyprus,Argentina
+352,160,1946,29452,1,Pounds,Cyprus,Argentina
+352,160,1947,18032,1,Pounds,Cyprus,Argentina
+352,160,1948,25967,1,Pounds,Cyprus,Argentina
+352,160,1949,58,1,Pounds,Cyprus,Argentina
+352,165,1919,0,1,Pounds,Cyprus,Uruguay
+352,165,1920,0,1,,Cyprus,Uruguay
+352,165,1921,0,1,,Cyprus,Uruguay
+352,165,1922,0,1,,Cyprus,Uruguay
+352,165,1923,0,1,,Cyprus,Uruguay
+352,165,1924,0,1,,Cyprus,Uruguay
+352,165,1925,0,1,,Cyprus,Uruguay
+352,165,1926,6,1,Pounds,Cyprus,Uruguay
+352,165,1927,14,1,Pounds,Cyprus,Uruguay
+352,165,1928,12,1,Pounds,Cyprus,Uruguay
+352,165,1929,11,1,Pounds,Cyprus,Uruguay
+352,165,1930,11,1,Pounds,Cyprus,Uruguay
+352,165,1931,2,1,Pounds,Cyprus,Uruguay
+352,165,1932,0,1,Pounds,Cyprus,Uruguay
+352,165,1933,0,1,,Cyprus,Uruguay
+352,165,1934,0,1,,Cyprus,Uruguay
+352,165,1935,0,1,,Cyprus,Uruguay
+352,165,1936,0,1,,Cyprus,Uruguay
+352,165,1937,6,1,Pounds,Cyprus,Uruguay
+352,165,1938,59,1,Pounds,Cyprus,Uruguay
+352,165,1939,141,1,Pounds,Cyprus,Uruguay
+352,165,1940,0,1,Pounds,Cyprus,Uruguay
+352,165,1941,0,1,Pounds,Cyprus,Uruguay
+352,165,1942,0,1,Pounds,Cyprus,Uruguay
+352,165,1943,0,1,Pounds,Cyprus,Uruguay
+352,165,1944,95,1,Pounds,Cyprus,Uruguay
+352,165,1945,118,1,Pounds,Cyprus,Uruguay
+352,165,1946,165,1,Pounds,Cyprus,Uruguay
+352,165,1947,5777,1,Pounds,Cyprus,Uruguay
+352,165,1948,22,1,Pounds,Cyprus,Uruguay
+352,165,1949,1,1,Pounds,Cyprus,Uruguay
+352,200,1919,552626,1,Pounds,Cyprus,United Kingdom
+352,200,1920,774421,1,,Cyprus,United Kingdom
+352,200,1921,586519,1,,Cyprus,United Kingdom
+352,200,1922,432269,1,,Cyprus,United Kingdom
+352,200,1923,314178,1,,Cyprus,United Kingdom
+352,200,1924,315896,1,,Cyprus,United Kingdom
+352,200,1925,423664,1,,Cyprus,United Kingdom
+352,200,1926,421052,1,Pounds,Cyprus,United Kingdom
+352,200,1927,406724,1,Pounds,Cyprus,United Kingdom
+352,200,1928,470997,1,Pounds,Cyprus,United Kingdom
+352,200,1929,513141,1,Pounds,Cyprus,United Kingdom
+352,200,1930,394829,1,Pounds,Cyprus,United Kingdom
+352,200,1931,413551,1,Pounds,Cyprus,United Kingdom
+352,200,1932,386730,1,Pounds,Cyprus,United Kingdom
+352,200,1933,400631,1,,Cyprus,United Kingdom
+352,200,1934,495923,1,,Cyprus,United Kingdom
+352,200,1935,528541,1,,Cyprus,United Kingdom
+352,200,1936,491579,1,,Cyprus,United Kingdom
+352,200,1937,661379,1,Pounds,Cyprus,United Kingdom
+352,200,1938,727164,1,Pounds,Cyprus,United Kingdom
+352,200,1939,616336,1,Pounds,Cyprus,United Kingdom
+352,200,1940,465583,1,Pounds,Cyprus,United Kingdom
+352,200,1941,380659,1,Pounds,Cyprus,United Kingdom
+352,200,1942,325784,1,Pounds,Cyprus,United Kingdom
+352,200,1943,288339,1,Pounds,Cyprus,United Kingdom
+352,200,1944,663810,1,Pounds,Cyprus,United Kingdom
+352,200,1945,892398,1,Pounds,Cyprus,United Kingdom
+352,200,1946,2996568,1,Pounds,Cyprus,United Kingdom
+352,200,1947,4259730,1,Pounds,Cyprus,United Kingdom
+352,200,1948,5871951,1,Pounds,Cyprus,United Kingdom
+352,200,1949,4862511,1,Pounds,Cyprus,United Kingdom
+352,205,1919,0,1,Pounds,Cyprus,Ireland
+352,205,1920,0,1,,Cyprus,Ireland
+352,205,1921,0,1,,Cyprus,Ireland
+352,205,1922,0,1,,Cyprus,Ireland
+352,205,1923,0,1,,Cyprus,Ireland
+352,205,1924,0,1,,Cyprus,Ireland
+352,205,1925,0,1,,Cyprus,Ireland
+352,205,1926,0,1,Pounds,Cyprus,Ireland
+352,205,1927,0,1,Pounds,Cyprus,Ireland
+352,205,1928,0,1,Pounds,Cyprus,Ireland
+352,205,1929,0,1,Pounds,Cyprus,Ireland
+352,205,1930,0,1,Pounds,Cyprus,Ireland
+352,205,1931,0,1,Pounds,Cyprus,Ireland
+352,205,1932,0,1,Pounds,Cyprus,Ireland
+352,205,1933,0,1,,Cyprus,Ireland
+352,205,1934,0,1,,Cyprus,Ireland
+352,205,1935,0,1,,Cyprus,Ireland
+352,205,1936,0,1,,Cyprus,Ireland
+352,205,1937,0,1,Pounds,Cyprus,Ireland
+352,205,1938,0,1,Pounds,Cyprus,Ireland
+352,205,1939,0,1,Pounds,Cyprus,Ireland
+352,205,1940,0,1,Pounds,Cyprus,Ireland
+352,205,1941,0,1,Pounds,Cyprus,Ireland
+352,205,1942,0,1,Pounds,Cyprus,Ireland
+352,205,1943,0,1,Pounds,Cyprus,Ireland
+352,205,1944,0,1,Pounds,Cyprus,Ireland
+352,205,1945,0,1,Pounds,Cyprus,Ireland
+352,205,1946,321,1,Pounds,Cyprus,Ireland
+352,205,1947,80,1,Pounds,Cyprus,Ireland
+352,205,1948,1,1,Pounds,Cyprus,Ireland
+352,205,1949,11142,1,Pounds,Cyprus,Ireland
+352,210,1919,866,1,Pounds,Cyprus,Netherlands
+352,210,1920,8210,1,,Cyprus,Netherlands
+352,210,1921,20260,1,,Cyprus,Netherlands
+352,210,1922,20051,1,,Cyprus,Netherlands
+352,210,1923,13173,1,,Cyprus,Netherlands
+352,210,1924,19789,1,,Cyprus,Netherlands
+352,210,1925,28037,1,,Cyprus,Netherlands
+352,210,1926,22297,1,Pounds,Cyprus,Netherlands
+352,210,1927,20414,1,Pounds,Cyprus,Netherlands
+352,210,1928,24346,1,Pounds,Cyprus,Netherlands
+352,210,1929,34186,1,Pounds,Cyprus,Netherlands
+352,210,1930,18130,1,Pounds,Cyprus,Netherlands
+352,210,1931,16835,1,Pounds,Cyprus,Netherlands
+352,210,1932,14257,1,Pounds,Cyprus,Netherlands
+352,210,1933,13754,1,,Cyprus,Netherlands
+352,210,1934,19081,1,,Cyprus,Netherlands
+352,210,1935,17682,1,,Cyprus,Netherlands
+352,210,1936,16323,1,,Cyprus,Netherlands
+352,210,1937,30559,1,Pounds,Cyprus,Netherlands
+352,210,1938,36695,1,Pounds,Cyprus,Netherlands
+352,210,1939,30941,1,Pounds,Cyprus,Netherlands
+352,210,1940,10492,1,Pounds,Cyprus,Netherlands
+352,210,1941,49,1,Pounds,Cyprus,Netherlands
+352,210,1942,102,1,Pounds,Cyprus,Netherlands
+352,210,1943,9,1,Pounds,Cyprus,Netherlands
+352,210,1944,15,1,Pounds,Cyprus,Netherlands
+352,210,1945,12,1,Pounds,Cyprus,Netherlands
+352,210,1946,29960,1,Pounds,Cyprus,Netherlands
+352,210,1947,404930,1,Pounds,Cyprus,Netherlands
+352,210,1948,626654,1,Pounds,Cyprus,Netherlands
+352,210,1949,464416,1,Pounds,Cyprus,Netherlands
+352,211,1919,578,1,Pounds,Cyprus,Belgium
+352,211,1920,14703,1,,Cyprus,Belgium
+352,211,1921,28028,1,,Cyprus,Belgium
+352,211,1922,35326,1,,Cyprus,Belgium
+352,211,1923,20713,1,,Cyprus,Belgium
+352,211,1924,31802,1,,Cyprus,Belgium
+352,211,1925,34590,1,,Cyprus,Belgium
+352,211,1926,36883,1,Pounds,Cyprus,Belgium
+352,211,1927,38742,1,Pounds,Cyprus,Belgium
+352,211,1928,42067,1,Pounds,Cyprus,Belgium
+352,211,1929,60564,1,Pounds,Cyprus,Belgium
+352,211,1930,47382,1,Pounds,Cyprus,Belgium
+352,211,1931,33350,1,Pounds,Cyprus,Belgium
+352,211,1932,23255,1,Pounds,Cyprus,Belgium
+352,211,1933,25171,1,,Cyprus,Belgium
+352,211,1934,33126,1,,Cyprus,Belgium
+352,211,1935,47850,1,,Cyprus,Belgium
+352,211,1936,51965,1,,Cyprus,Belgium
+352,211,1937,70577,1,Pounds,Cyprus,Belgium
+352,211,1938,74659,1,Pounds,Cyprus,Belgium
+352,211,1939,67196,1,Pounds,Cyprus,Belgium
+352,211,1940,30698,1,Pounds,Cyprus,Belgium
+352,211,1941,0,1,Pounds,Cyprus,Belgium
+352,211,1942,0,1,Pounds,Cyprus,Belgium
+352,211,1943,38,1,Pounds,Cyprus,Belgium
+352,211,1944,96,1,Pounds,Cyprus,Belgium
+352,211,1945,170,1,Pounds,Cyprus,Belgium
+352,211,1946,147232,1,Pounds,Cyprus,Belgium
+352,211,1947,612166,1,Pounds,Cyprus,Belgium
+352,211,1948,313021,1,Pounds,Cyprus,Belgium
+352,211,1949,40364,1,Pounds,Cyprus,Belgium
+352,212,1919,0,1,Pounds,Cyprus,Luxembourg
+352,212,1920,0,1,,Cyprus,Luxembourg
+352,212,1921,0,1,,Cyprus,Luxembourg
+352,212,1922,0,1,,Cyprus,Luxembourg
+352,212,1923,0,1,,Cyprus,Luxembourg
+352,212,1924,0,1,,Cyprus,Luxembourg
+352,212,1925,0,1,,Cyprus,Luxembourg
+352,212,1926,0,1,Pounds,Cyprus,Luxembourg
+352,212,1927,0,1,Pounds,Cyprus,Luxembourg
+352,212,1928,0,1,Pounds,Cyprus,Luxembourg
+352,212,1929,0,1,Pounds,Cyprus,Luxembourg
+352,212,1930,0,1,Pounds,Cyprus,Luxembourg
+352,212,1931,0,1,Pounds,Cyprus,Luxembourg
+352,212,1932,0,1,Pounds,Cyprus,Luxembourg
+352,212,1933,0,1,,Cyprus,Luxembourg
+352,212,1934,0,1,,Cyprus,Luxembourg
+352,212,1935,0,1,,Cyprus,Luxembourg
+352,212,1936,0,1,,Cyprus,Luxembourg
+352,212,1937,10062,1,Pounds,Cyprus,Luxembourg
+352,212,1938,4436,1,Pounds,Cyprus,Luxembourg
+352,212,1939,1826,1,Pounds,Cyprus,Luxembourg
+352,212,1940,0,1,Pounds,Cyprus,Luxembourg
+352,212,1941,0,1,Pounds,Cyprus,Luxembourg
+352,212,1942,0,1,Pounds,Cyprus,Luxembourg
+352,212,1943,0,1,Pounds,Cyprus,Luxembourg
+352,212,1944,0,1,Pounds,Cyprus,Luxembourg
+352,212,1945,0,1,Pounds,Cyprus,Luxembourg
+352,212,1946,863,1,Pounds,Cyprus,Luxembourg
+352,212,1947,17965,1,Pounds,Cyprus,Luxembourg
+352,212,1948,24531,1,Pounds,Cyprus,Luxembourg
+352,212,1949,0,1,Pounds,Cyprus,Luxembourg
+352,220,1919,22891,1,Pounds,Cyprus,France
+352,220,1920,113209,1,,Cyprus,France
+352,220,1921,68513,1,,Cyprus,France
+352,220,1922,53752,1,,Cyprus,France
+352,220,1923,56266,1,,Cyprus,France
+352,220,1924,64922,1,,Cyprus,France
+352,220,1925,83842,1,,Cyprus,France
+352,220,1926,121319,1,Pounds,Cyprus,France
+352,220,1927,106179,1,Pounds,Cyprus,France
+352,220,1928,128329,1,Pounds,Cyprus,France
+352,220,1929,126701,1,Pounds,Cyprus,France
+352,220,1930,73480,1,Pounds,Cyprus,France
+352,220,1931,62804,1,Pounds,Cyprus,France
+352,220,1932,45236,1,Pounds,Cyprus,France
+352,220,1933,82422,1,,Cyprus,France
+352,220,1934,26505,1,,Cyprus,France
+352,220,1935,26239,1,,Cyprus,France
+352,220,1936,22228,1,,Cyprus,France
+352,220,1937,33632,1,Pounds,Cyprus,France
+352,220,1938,53802,1,Pounds,Cyprus,France
+352,220,1939,45129,1,Pounds,Cyprus,France
+352,220,1940,16481,1,Pounds,Cyprus,France
+352,220,1941,210,1,Pounds,Cyprus,France
+352,220,1942,48,1,Pounds,Cyprus,France
+352,220,1943,195,1,Pounds,Cyprus,France
+352,220,1944,1190,1,Pounds,Cyprus,France
+352,220,1945,4,1,Pounds,Cyprus,France
+352,220,1946,50350,1,Pounds,Cyprus,France
+352,220,1947,237825,1,Pounds,Cyprus,France
+352,220,1948,227298,1,Pounds,Cyprus,France
+352,220,1949,196016,1,Pounds,Cyprus,France
+352,225,1919,2253,1,Pounds,Cyprus,Switzerland
+352,225,1920,13556,1,,Cyprus,Switzerland
+352,225,1921,9388,1,,Cyprus,Switzerland
+352,225,1922,13607,1,,Cyprus,Switzerland
+352,225,1923,9085,1,,Cyprus,Switzerland
+352,225,1924,12283,1,,Cyprus,Switzerland
+352,225,1925,9888,1,,Cyprus,Switzerland
+352,225,1926,9530,1,Pounds,Cyprus,Switzerland
+352,225,1927,10537,1,Pounds,Cyprus,Switzerland
+352,225,1928,10650,1,Pounds,Cyprus,Switzerland
+352,225,1929,12632,1,Pounds,Cyprus,Switzerland
+352,225,1930,10654,1,Pounds,Cyprus,Switzerland
+352,225,1931,9873,1,Pounds,Cyprus,Switzerland
+352,225,1932,6188,1,Pounds,Cyprus,Switzerland
+352,225,1933,3276,1,,Cyprus,Switzerland
+352,225,1934,3123,1,,Cyprus,Switzerland
+352,225,1935,4307,1,,Cyprus,Switzerland
+352,225,1936,5350,1,,Cyprus,Switzerland
+352,225,1937,10711,1,Pounds,Cyprus,Switzerland
+352,225,1938,15131,1,Pounds,Cyprus,Switzerland
+352,225,1939,12947,1,Pounds,Cyprus,Switzerland
+352,225,1940,5051,1,Pounds,Cyprus,Switzerland
+352,225,1941,694,1,Pounds,Cyprus,Switzerland
+352,225,1942,75,1,Pounds,Cyprus,Switzerland
+352,225,1943,340,1,Pounds,Cyprus,Switzerland
+352,225,1944,2798,1,Pounds,Cyprus,Switzerland
+352,225,1945,20366,1,Pounds,Cyprus,Switzerland
+352,225,1946,17134,1,Pounds,Cyprus,Switzerland
+352,225,1947,6894,1,Pounds,Cyprus,Switzerland
+352,225,1948,12661,1,Pounds,Cyprus,Switzerland
+352,225,1949,2165,1,Pounds,Cyprus,Switzerland
+352,230,1919,646,1,Pounds,Cyprus,Spain
+352,230,1920,260,1,,Cyprus,Spain
+352,230,1921,82,1,,Cyprus,Spain
+352,230,1922,47,1,,Cyprus,Spain
+352,230,1923,207,1,,Cyprus,Spain
+352,230,1924,352,1,,Cyprus,Spain
+352,230,1925,731,1,,Cyprus,Spain
+352,230,1926,468,1,Pounds,Cyprus,Spain
+352,230,1927,393,1,Pounds,Cyprus,Spain
+352,230,1928,577,1,Pounds,Cyprus,Spain
+352,230,1929,631,1,Pounds,Cyprus,Spain
+352,230,1930,1132,1,Pounds,Cyprus,Spain
+352,230,1931,969,1,Pounds,Cyprus,Spain
+352,230,1932,1035,1,Pounds,Cyprus,Spain
+352,230,1933,665,1,,Cyprus,Spain
+352,230,1934,958,1,,Cyprus,Spain
+352,230,1935,840,1,,Cyprus,Spain
+352,230,1936,839,1,,Cyprus,Spain
+352,230,1937,1518,1,Pounds,Cyprus,Spain
+352,230,1938,517,1,Pounds,Cyprus,Spain
+352,230,1939,101,1,Pounds,Cyprus,Spain
+352,230,1940,29,1,Pounds,Cyprus,Spain
+352,230,1941,33,1,Pounds,Cyprus,Spain
+352,230,1942,0,1,Pounds,Cyprus,Spain
+352,230,1943,0,1,Pounds,Cyprus,Spain
+352,230,1944,0,1,Pounds,Cyprus,Spain
+352,230,1945,39,1,Pounds,Cyprus,Spain
+352,230,1946,1534,1,Pounds,Cyprus,Spain
+352,230,1947,3923,1,Pounds,Cyprus,Spain
+352,230,1948,42787,1,Pounds,Cyprus,Spain
+352,230,1949,339,1,Pounds,Cyprus,Spain
+352,231,1919,1,1,Pounds,Cyprus,Gibraltar
+352,231,1920,684,1,,Cyprus,Gibraltar
+352,231,1921,0,1,,Cyprus,Gibraltar
+352,231,1922,0,1,,Cyprus,Gibraltar
+352,231,1923,0,1,,Cyprus,Gibraltar
+352,231,1924,0,1,,Cyprus,Gibraltar
+352,231,1925,0,1,,Cyprus,Gibraltar
+352,231,1926,0,1,Pounds,Cyprus,Gibraltar
+352,231,1927,0,1,Pounds,Cyprus,Gibraltar
+352,231,1928,0,1,Pounds,Cyprus,Gibraltar
+352,231,1929,0,1,Pounds,Cyprus,Gibraltar
+352,231,1930,0,1,Pounds,Cyprus,Gibraltar
+352,231,1931,0,1,Pounds,Cyprus,Gibraltar
+352,231,1932,0,1,Pounds,Cyprus,Gibraltar
+352,231,1933,0,1,,Cyprus,Gibraltar
+352,231,1934,0,1,,Cyprus,Gibraltar
+352,231,1935,0,1,,Cyprus,Gibraltar
+352,231,1936,0,1,,Cyprus,Gibraltar
+352,231,1937,2,1,Pounds,Cyprus,Gibraltar
+352,231,1938,0,1,Pounds,Cyprus,Gibraltar
+352,231,1939,0,1,Pounds,Cyprus,Gibraltar
+352,231,1940,0,1,Pounds,Cyprus,Gibraltar
+352,231,1941,0,1,Pounds,Cyprus,Gibraltar
+352,231,1942,0,1,Pounds,Cyprus,Gibraltar
+352,231,1943,0,1,Pounds,Cyprus,Gibraltar
+352,231,1944,0,1,Pounds,Cyprus,Gibraltar
+352,231,1945,0,1,Pounds,Cyprus,Gibraltar
+352,231,1946,0,1,Pounds,Cyprus,Gibraltar
+352,231,1947,0,1,Pounds,Cyprus,Gibraltar
+352,231,1948,0,1,Pounds,Cyprus,Gibraltar
+352,231,1949,70,1,Pounds,Cyprus,Gibraltar
+352,235,1919,0,1,Pounds,Cyprus,Portugal
+352,235,1920,744,1,,Cyprus,Portugal
+352,235,1921,1581,1,,Cyprus,Portugal
+352,235,1922,3952,1,,Cyprus,Portugal
+352,235,1923,3588,1,,Cyprus,Portugal
+352,235,1924,1588,1,,Cyprus,Portugal
+352,235,1925,2968,1,,Cyprus,Portugal
+352,235,1926,2936,1,Pounds,Cyprus,Portugal
+352,235,1927,3232,1,Pounds,Cyprus,Portugal
+352,235,1928,3989,1,Pounds,Cyprus,Portugal
+352,235,1929,3618,1,Pounds,Cyprus,Portugal
+352,235,1930,2533,1,Pounds,Cyprus,Portugal
+352,235,1931,2308,1,Pounds,Cyprus,Portugal
+352,235,1932,2936,1,Pounds,Cyprus,Portugal
+352,235,1933,1929,1,,Cyprus,Portugal
+352,235,1934,2794,1,,Cyprus,Portugal
+352,235,1935,3241,1,,Cyprus,Portugal
+352,235,1936,3516,1,,Cyprus,Portugal
+352,235,1937,3947,1,Pounds,Cyprus,Portugal
+352,235,1938,4317,1,Pounds,Cyprus,Portugal
+352,235,1939,3366,1,Pounds,Cyprus,Portugal
+352,235,1940,1857,1,Pounds,Cyprus,Portugal
+352,235,1941,1509,1,Pounds,Cyprus,Portugal
+352,235,1942,2030,1,Pounds,Cyprus,Portugal
+352,235,1943,414,1,Pounds,Cyprus,Portugal
+352,235,1944,13506,1,Pounds,Cyprus,Portugal
+352,235,1945,10786,1,Pounds,Cyprus,Portugal
+352,235,1946,76083,1,Pounds,Cyprus,Portugal
+352,235,1947,103409,1,Pounds,Cyprus,Portugal
+352,235,1948,110346,1,Pounds,Cyprus,Portugal
+352,235,1949,59598,1,Pounds,Cyprus,Portugal
+352,255,1919,1,1,Pounds,Cyprus,Germany
+352,255,1920,8615,1,,Cyprus,Germany
+352,255,1921,34478,1,,Cyprus,Germany
+352,255,1922,102223,1,,Cyprus,Germany
+352,255,1923,82513,1,,Cyprus,Germany
+352,255,1924,79842,1,,Cyprus,Germany
+352,255,1925,73429,1,,Cyprus,Germany
+352,255,1926,74602,1,Pounds,Cyprus,Germany
+352,255,1927,78038,1,Pounds,Cyprus,Germany
+352,255,1928,113119,1,Pounds,Cyprus,Germany
+352,255,1929,116824,1,Pounds,Cyprus,Germany
+352,255,1930,87615,1,Pounds,Cyprus,Germany
+352,255,1931,85120,1,Pounds,Cyprus,Germany
+352,255,1932,66582,1,Pounds,Cyprus,Germany
+352,255,1933,75030,1,,Cyprus,Germany
+352,255,1934,81092,1,,Cyprus,Germany
+352,255,1935,101198,1,,Cyprus,Germany
+352,255,1936,117494,1,,Cyprus,Germany
+352,255,1937,153534,1,Pounds,Cyprus,Germany
+352,255,1938,141600,1,Pounds,Cyprus,Germany
+352,255,1939,143621,1,Pounds,Cyprus,Germany
+352,255,1940,1757,1,Pounds,Cyprus,Germany
+352,255,1941,713,1,Pounds,Cyprus,Germany
+352,255,1942,865,1,Pounds,Cyprus,Germany
+352,255,1943,213,1,Pounds,Cyprus,Germany
+352,255,1944,920,1,Pounds,Cyprus,Germany
+352,255,1945,66,1,Pounds,Cyprus,Germany
+352,255,1946,2063,1,Pounds,Cyprus,Germany
+352,255,1947,502,1,Pounds,Cyprus,Germany
+352,255,1948,5565,1,Pounds,Cyprus,Germany
+352,255,1949,19868,1,Pounds,Cyprus,Germany
+352,290,1919,0,1,Pounds,Cyprus,Poland
+352,290,1920,0,1,,Cyprus,Poland
+352,290,1921,0,1,,Cyprus,Poland
+352,290,1922,0,1,,Cyprus,Poland
+352,290,1923,0,1,,Cyprus,Poland
+352,290,1924,0,1,,Cyprus,Poland
+352,290,1925,0,1,,Cyprus,Poland
+352,290,1926,1358,1,Pounds,Cyprus,Poland
+352,290,1927,1096,1,Pounds,Cyprus,Poland
+352,290,1928,855,1,Pounds,Cyprus,Poland
+352,290,1929,579,1,Pounds,Cyprus,Poland
+352,290,1930,1748,1,Pounds,Cyprus,Poland
+352,290,1931,1328,1,Pounds,Cyprus,Poland
+352,290,1932,2122,1,Pounds,Cyprus,Poland
+352,290,1933,1752,1,,Cyprus,Poland
+352,290,1934,3610,1,,Cyprus,Poland
+352,290,1935,10511,1,,Cyprus,Poland
+352,290,1936,9561,1,,Cyprus,Poland
+352,290,1937,5341,1,Pounds,Cyprus,Poland
+352,290,1938,7933,1,Pounds,Cyprus,Poland
+352,290,1939,10270,1,Pounds,Cyprus,Poland
+352,290,1940,624,1,Pounds,Cyprus,Poland
+352,290,1941,0,1,Pounds,Cyprus,Poland
+352,290,1942,0,1,Pounds,Cyprus,Poland
+352,290,1943,0,1,Pounds,Cyprus,Poland
+352,290,1944,0,1,Pounds,Cyprus,Poland
+352,290,1945,0,1,Pounds,Cyprus,Poland
+352,290,1946,0,1,Pounds,Cyprus,Poland
+352,290,1947,5003,1,Pounds,Cyprus,Poland
+352,290,1948,28832,1,Pounds,Cyprus,Poland
+352,290,1949,8805,1,Pounds,Cyprus,Poland
+352,291,1919,0,1,Pounds,Cyprus,Danzig
+352,291,1920,0,1,,Cyprus,Danzig
+352,291,1921,0,1,,Cyprus,Danzig
+352,291,1922,0,1,,Cyprus,Danzig
+352,291,1923,0,1,,Cyprus,Danzig
+352,291,1924,0,1,,Cyprus,Danzig
+352,291,1925,0,1,,Cyprus,Danzig
+352,291,1926,0,1,Pounds,Cyprus,Danzig
+352,291,1927,0,1,Pounds,Cyprus,Danzig
+352,291,1928,0,1,Pounds,Cyprus,Danzig
+352,291,1929,0,1,Pounds,Cyprus,Danzig
+352,291,1930,0,1,Pounds,Cyprus,Danzig
+352,291,1931,0,1,Pounds,Cyprus,Danzig
+352,291,1932,0,1,Pounds,Cyprus,Danzig
+352,291,1933,0,1,,Cyprus,Danzig
+352,291,1934,0,1,,Cyprus,Danzig
+352,291,1935,0,1,,Cyprus,Danzig
+352,291,1936,0,1,,Cyprus,Danzig
+352,291,1937,9,1,Pounds,Cyprus,Danzig
+352,291,1938,50,1,Pounds,Cyprus,Danzig
+352,291,1939,172,1,Pounds,Cyprus,Danzig
+352,291,1940,0,1,Pounds,Cyprus,Danzig
+352,291,1941,0,1,Pounds,Cyprus,Danzig
+352,291,1942,0,1,Pounds,Cyprus,Danzig
+352,291,1943,0,1,Pounds,Cyprus,Danzig
+352,291,1944,0,1,Pounds,Cyprus,Danzig
+352,291,1945,0,1,Pounds,Cyprus,Danzig
+352,291,1946,0,1,Pounds,Cyprus,Danzig
+352,291,1947,0,1,Pounds,Cyprus,Danzig
+352,291,1948,0,1,Pounds,Cyprus,Danzig
+352,291,1949,0,1,Pounds,Cyprus,Danzig
+352,305,1919,1,1,Pounds,Cyprus,Austria
+352,305,1920,2757,1,,Cyprus,Austria
+352,305,1921,4398,1,,Cyprus,Austria
+352,305,1922,17594,1,,Cyprus,Austria
+352,305,1923,20067,1,,Cyprus,Austria
+352,305,1924,14344,1,,Cyprus,Austria
+352,305,1925,18290,1,,Cyprus,Austria
+352,305,1926,20806,1,Pounds,Cyprus,Austria
+352,305,1927,20691,1,Pounds,Cyprus,Austria
+352,305,1928,18980,1,Pounds,Cyprus,Austria
+352,305,1929,20787,1,Pounds,Cyprus,Austria
+352,305,1930,18424,1,Pounds,Cyprus,Austria
+352,305,1931,15931,1,Pounds,Cyprus,Austria
+352,305,1932,11741,1,Pounds,Cyprus,Austria
+352,305,1933,14635,1,,Cyprus,Austria
+352,305,1934,13682,1,,Cyprus,Austria
+352,305,1935,16412,1,,Cyprus,Austria
+352,305,1936,16360,1,,Cyprus,Austria
+352,305,1937,24014,1,Pounds,Cyprus,Austria
+352,305,1938,18474,1,Pounds,Cyprus,Austria
+352,305,1939,0,1,Pounds,Cyprus,Austria
+352,305,1940,0,1,Pounds,Cyprus,Austria
+352,305,1941,0,1,Pounds,Cyprus,Austria
+352,305,1942,0,1,Pounds,Cyprus,Austria
+352,305,1943,0,1,Pounds,Cyprus,Austria
+352,305,1944,0,1,Pounds,Cyprus,Austria
+352,305,1945,0,1,Pounds,Cyprus,Austria
+352,305,1946,1,1,Pounds,Cyprus,Austria
+352,305,1947,25932,1,Pounds,Cyprus,Austria
+352,305,1948,66208,1,Pounds,Cyprus,Austria
+352,305,1949,78938,1,Pounds,Cyprus,Austria
+352,310,1919,0,1,Pounds,Cyprus,Hungary
+352,310,1920,0,1,,Cyprus,Hungary
+352,310,1921,0,1,,Cyprus,Hungary
+352,310,1922,0,1,,Cyprus,Hungary
+352,310,1923,0,1,,Cyprus,Hungary
+352,310,1924,0,1,,Cyprus,Hungary
+352,310,1925,0,1,,Cyprus,Hungary
+352,310,1926,148,1,Pounds,Cyprus,Hungary
+352,310,1927,750,1,Pounds,Cyprus,Hungary
+352,310,1928,1518,1,Pounds,Cyprus,Hungary
+352,310,1929,1410,1,Pounds,Cyprus,Hungary
+352,310,1930,3421,1,Pounds,Cyprus,Hungary
+352,310,1931,5640,1,Pounds,Cyprus,Hungary
+352,310,1932,4946,1,Pounds,Cyprus,Hungary
+352,310,1933,2810,1,,Cyprus,Hungary
+352,310,1934,3328,1,,Cyprus,Hungary
+352,310,1935,7063,1,,Cyprus,Hungary
+352,310,1936,10719,1,,Cyprus,Hungary
+352,310,1937,16514,1,Pounds,Cyprus,Hungary
+352,310,1938,16081,1,Pounds,Cyprus,Hungary
+352,310,1939,14683,1,Pounds,Cyprus,Hungary
+352,310,1940,5267,1,Pounds,Cyprus,Hungary
+352,310,1941,0,1,Pounds,Cyprus,Hungary
+352,310,1942,0,1,Pounds,Cyprus,Hungary
+352,310,1943,0,1,Pounds,Cyprus,Hungary
+352,310,1944,132,1,Pounds,Cyprus,Hungary
+352,310,1945,0,1,Pounds,Cyprus,Hungary
+352,310,1946,0,1,Pounds,Cyprus,Hungary
+352,310,1947,12850,1,Pounds,Cyprus,Hungary
+352,310,1948,37684,1,Pounds,Cyprus,Hungary
+352,310,1949,8880,1,Pounds,Cyprus,Hungary
+352,315,1919,0,1,Pounds,Cyprus,Czechoslovakia
+352,315,1920,0,1,,Cyprus,Czechoslovakia
+352,315,1921,949,1,,Cyprus,Czechoslovakia
+352,315,1922,0,1,,Cyprus,Czechoslovakia
+352,315,1923,0,1,,Cyprus,Czechoslovakia
+352,315,1924,0,1,,Cyprus,Czechoslovakia
+352,315,1925,0,1,,Cyprus,Czechoslovakia
+352,315,1926,41483,1,Pounds,Cyprus,Czechoslovakia
+352,315,1927,57743,1,Pounds,Cyprus,Czechoslovakia
+352,315,1928,62018,1,Pounds,Cyprus,Czechoslovakia
+352,315,1929,66579,1,Pounds,Cyprus,Czechoslovakia
+352,315,1930,57472,1,Pounds,Cyprus,Czechoslovakia
+352,315,1931,54876,1,Pounds,Cyprus,Czechoslovakia
+352,315,1932,24607,1,Pounds,Cyprus,Czechoslovakia
+352,315,1933,19069,1,,Cyprus,Czechoslovakia
+352,315,1934,19343,1,,Cyprus,Czechoslovakia
+352,315,1935,24590,1,,Cyprus,Czechoslovakia
+352,315,1936,21596,1,,Cyprus,Czechoslovakia
+352,315,1937,32312,1,Pounds,Cyprus,Czechoslovakia
+352,315,1938,42504,1,Pounds,Cyprus,Czechoslovakia
+352,315,1939,18176,1,Pounds,Cyprus,Czechoslovakia
+352,315,1940,60,1,Pounds,Cyprus,Czechoslovakia
+352,315,1941,5,1,Pounds,Cyprus,Czechoslovakia
+352,315,1942,10,1,Pounds,Cyprus,Czechoslovakia
+352,315,1943,238,1,Pounds,Cyprus,Czechoslovakia
+352,315,1944,0,1,Pounds,Cyprus,Czechoslovakia
+352,315,1945,0,1,Pounds,Cyprus,Czechoslovakia
+352,315,1946,11134,1,Pounds,Cyprus,Czechoslovakia
+352,315,1947,144577,1,Pounds,Cyprus,Czechoslovakia
+352,315,1948,250028,1,Pounds,Cyprus,Czechoslovakia
+352,315,1949,100108,1,Pounds,Cyprus,Czechoslovakia
+352,325,1919,64557,1,Pounds,Cyprus,Italy
+352,325,1920,133222,1,,Cyprus,Italy
+352,325,1921,89795,1,,Cyprus,Italy
+352,325,1922,127501,1,,Cyprus,Italy
+352,325,1923,98398,1,,Cyprus,Italy
+352,325,1924,82249,1,,Cyprus,Italy
+352,325,1925,115501,1,,Cyprus,Italy
+352,325,1926,107150,1,Pounds,Cyprus,Italy
+352,325,1927,88059,1,Pounds,Cyprus,Italy
+352,325,1928,106625,1,Pounds,Cyprus,Italy
+352,325,1929,108726,1,Pounds,Cyprus,Italy
+352,325,1930,80696,1,Pounds,Cyprus,Italy
+352,325,1931,80275,1,Pounds,Cyprus,Italy
+352,325,1932,94883,1,Pounds,Cyprus,Italy
+352,325,1933,114331,1,,Cyprus,Italy
+352,325,1934,93599,1,,Cyprus,Italy
+352,325,1935,60034,1,,Cyprus,Italy
+352,325,1936,14306,1,,Cyprus,Italy
+352,325,1937,66417,1,Pounds,Cyprus,Italy
+352,325,1938,62517,1,Pounds,Cyprus,Italy
+352,325,1939,46226,1,Pounds,Cyprus,Italy
+352,325,1940,29238,1,Pounds,Cyprus,Italy
+352,325,1941,75,1,Pounds,Cyprus,Italy
+352,325,1942,2028,1,Pounds,Cyprus,Italy
+352,325,1943,23,1,Pounds,Cyprus,Italy
+352,325,1944,109,1,Pounds,Cyprus,Italy
+352,325,1945,93,1,Pounds,Cyprus,Italy
+352,325,1946,246071,1,Pounds,Cyprus,Italy
+352,325,1947,783835,1,Pounds,Cyprus,Italy
+352,325,1948,814901,1,Pounds,Cyprus,Italy
+352,325,1949,552667,1,Pounds,Cyprus,Italy
+352,338,1919,120,1,Pounds,Cyprus,Malta
+352,338,1920,1257,1,,Cyprus,Malta
+352,338,1921,445,1,,Cyprus,Malta
+352,338,1922,175,1,,Cyprus,Malta
+352,338,1923,133,1,,Cyprus,Malta
+352,338,1924,127,1,,Cyprus,Malta
+352,338,1925,211,1,,Cyprus,Malta
+352,338,1926,129,1,Pounds,Cyprus,Malta
+352,338,1927,47,1,Pounds,Cyprus,Malta
+352,338,1928,58,1,Pounds,Cyprus,Malta
+352,338,1929,40,1,Pounds,Cyprus,Malta
+352,338,1930,120,1,Pounds,Cyprus,Malta
+352,338,1931,177,1,Pounds,Cyprus,Malta
+352,338,1932,725,1,Pounds,Cyprus,Malta
+352,338,1933,294,1,,Cyprus,Malta
+352,338,1934,440,1,,Cyprus,Malta
+352,338,1935,1299,1,,Cyprus,Malta
+352,338,1936,1220,1,,Cyprus,Malta
+352,338,1937,553,1,Pounds,Cyprus,Malta
+352,338,1938,425,1,Pounds,Cyprus,Malta
+352,338,1939,239,1,Pounds,Cyprus,Malta
+352,338,1940,165,1,Pounds,Cyprus,Malta
+352,338,1941,0,1,Pounds,Cyprus,Malta
+352,338,1942,0,1,Pounds,Cyprus,Malta
+352,338,1943,1,1,Pounds,Cyprus,Malta
+352,338,1944,9,1,Pounds,Cyprus,Malta
+352,338,1945,2724,1,Pounds,Cyprus,Malta
+352,338,1946,4898,1,Pounds,Cyprus,Malta
+352,338,1947,2850,1,Pounds,Cyprus,Malta
+352,338,1948,2110,1,Pounds,Cyprus,Malta
+352,338,1949,1263,1,Pounds,Cyprus,Malta
+352,345,1919,0,1,Pounds,Cyprus,Yugoslavia
+352,345,1920,0,1,,Cyprus,Yugoslavia
+352,345,1921,386,1,,Cyprus,Yugoslavia
+352,345,1922,0,1,,Cyprus,Yugoslavia
+352,345,1923,0,1,,Cyprus,Yugoslavia
+352,345,1924,0,1,,Cyprus,Yugoslavia
+352,345,1925,0,1,,Cyprus,Yugoslavia
+352,345,1926,8475,1,Pounds,Cyprus,Yugoslavia
+352,345,1927,13759,1,Pounds,Cyprus,Yugoslavia
+352,345,1928,12376,1,Pounds,Cyprus,Yugoslavia
+352,345,1929,18462,1,Pounds,Cyprus,Yugoslavia
+352,345,1930,9287,1,Pounds,Cyprus,Yugoslavia
+352,345,1931,9186,1,Pounds,Cyprus,Yugoslavia
+352,345,1932,10072,1,Pounds,Cyprus,Yugoslavia
+352,345,1933,9663,1,,Cyprus,Yugoslavia
+352,345,1934,14333,1,,Cyprus,Yugoslavia
+352,345,1935,19311,1,,Cyprus,Yugoslavia
+352,345,1936,18241,1,,Cyprus,Yugoslavia
+352,345,1937,27205,1,Pounds,Cyprus,Yugoslavia
+352,345,1938,28323,1,Pounds,Cyprus,Yugoslavia
+352,345,1939,35850,1,Pounds,Cyprus,Yugoslavia
+352,345,1940,6116,1,Pounds,Cyprus,Yugoslavia
+352,345,1941,0,1,Pounds,Cyprus,Yugoslavia
+352,345,1942,323,1,Pounds,Cyprus,Yugoslavia
+352,345,1943,0,1,Pounds,Cyprus,Yugoslavia
+352,345,1944,0,1,Pounds,Cyprus,Yugoslavia
+352,345,1945,70,1,Pounds,Cyprus,Yugoslavia
+352,345,1946,48223,1,Pounds,Cyprus,Yugoslavia
+352,345,1947,148696,1,Pounds,Cyprus,Yugoslavia
+352,345,1948,198763,1,Pounds,Cyprus,Yugoslavia
+352,345,1949,54506,1,Pounds,Cyprus,Yugoslavia
+352,350,1919,48749,1,Pounds,Cyprus,Greece
+352,350,1920,52025,1,,Cyprus,Greece
+352,350,1921,71966,1,,Cyprus,Greece
+352,350,1922,84224,1,,Cyprus,Greece
+352,350,1923,56949,1,,Cyprus,Greece
+352,350,1924,68107,1,,Cyprus,Greece
+352,350,1925,103030,1,,Cyprus,Greece
+352,350,1926,90502,1,Pounds,Cyprus,Greece
+352,350,1927,122675,1,Pounds,Cyprus,Greece
+352,350,1928,119364,1,Pounds,Cyprus,Greece
+352,350,1929,132515,1,Pounds,Cyprus,Greece
+352,350,1930,71748,1,Pounds,Cyprus,Greece
+352,350,1931,66607,1,Pounds,Cyprus,Greece
+352,350,1932,67185,1,Pounds,Cyprus,Greece
+352,350,1933,65692,1,,Cyprus,Greece
+352,350,1934,70358,1,,Cyprus,Greece
+352,350,1935,78641,1,,Cyprus,Greece
+352,350,1936,68191,1,,Cyprus,Greece
+352,350,1937,82790,1,Pounds,Cyprus,Greece
+352,350,1938,91310,1,Pounds,Cyprus,Greece
+352,350,1939,91961,1,Pounds,Cyprus,Greece
+352,350,1940,62899,1,Pounds,Cyprus,Greece
+352,350,1941,46167,1,Pounds,Cyprus,Greece
+352,350,1942,2411,1,Pounds,Cyprus,Greece
+352,350,1943,24152,1,Pounds,Cyprus,Greece
+352,350,1944,21953,1,Pounds,Cyprus,Greece
+352,350,1945,57705,1,Pounds,Cyprus,Greece
+352,350,1946,153815,1,Pounds,Cyprus,Greece
+352,350,1947,221452,1,Pounds,Cyprus,Greece
+352,350,1948,304189,1,Pounds,Cyprus,Greece
+352,350,1949,90217,1,Pounds,Cyprus,Greece
+352,355,1919,0,1,Pounds,Cyprus,Bulgaria
+352,355,1920,0,1,,Cyprus,Bulgaria
+352,355,1921,160,1,,Cyprus,Bulgaria
+352,355,1922,0,1,,Cyprus,Bulgaria
+352,355,1923,0,1,,Cyprus,Bulgaria
+352,355,1924,0,1,,Cyprus,Bulgaria
+352,355,1925,0,1,,Cyprus,Bulgaria
+352,355,1926,13867,1,Pounds,Cyprus,Bulgaria
+352,355,1927,16726,1,Pounds,Cyprus,Bulgaria
+352,355,1928,20535,1,Pounds,Cyprus,Bulgaria
+352,355,1929,13247,1,Pounds,Cyprus,Bulgaria
+352,355,1930,11460,1,Pounds,Cyprus,Bulgaria
+352,355,1931,19777,1,Pounds,Cyprus,Bulgaria
+352,355,1932,64321,1,Pounds,Cyprus,Bulgaria
+352,355,1933,13548,1,,Cyprus,Bulgaria
+352,355,1934,13417,1,,Cyprus,Bulgaria
+352,355,1935,11003,1,,Cyprus,Bulgaria
+352,355,1936,12242,1,,Cyprus,Bulgaria
+352,355,1937,11700,1,Pounds,Cyprus,Bulgaria
+352,355,1938,2480,1,Pounds,Cyprus,Bulgaria
+352,355,1939,147,1,Pounds,Cyprus,Bulgaria
+352,355,1940,0,1,Pounds,Cyprus,Bulgaria
+352,355,1941,0,1,Pounds,Cyprus,Bulgaria
+352,355,1942,0,1,Pounds,Cyprus,Bulgaria
+352,355,1943,0,1,Pounds,Cyprus,Bulgaria
+352,355,1944,0,1,Pounds,Cyprus,Bulgaria
+352,355,1945,0,1,Pounds,Cyprus,Bulgaria
+352,355,1946,6490,1,Pounds,Cyprus,Bulgaria
+352,355,1947,0,1,Pounds,Cyprus,Bulgaria
+352,355,1948,0,1,Pounds,Cyprus,Bulgaria
+352,355,1949,7629,1,Pounds,Cyprus,Bulgaria
+352,360,1919,0,1,Pounds,Cyprus,Romania
+352,360,1920,0,1,,Cyprus,Romania
+352,360,1921,0,1,,Cyprus,Romania
+352,360,1922,10844,1,,Cyprus,Romania
+352,360,1923,10866,1,,Cyprus,Romania
+352,360,1924,10186,1,,Cyprus,Romania
+352,360,1925,20769,1,,Cyprus,Romania
+352,360,1926,31018,1,Pounds,Cyprus,Romania
+352,360,1927,34074,1,Pounds,Cyprus,Romania
+352,360,1928,58063,1,Pounds,Cyprus,Romania
+352,360,1929,88684,1,Pounds,Cyprus,Romania
+352,360,1930,72575,1,Pounds,Cyprus,Romania
+352,360,1931,100729,1,Pounds,Cyprus,Romania
+352,360,1932,87376,1,Pounds,Cyprus,Romania
+352,360,1933,81071,1,,Cyprus,Romania
+352,360,1934,100410,1,,Cyprus,Romania
+352,360,1935,111921,1,,Cyprus,Romania
+352,360,1936,119645,1,,Cyprus,Romania
+352,360,1937,208897,1,Pounds,Cyprus,Romania
+352,360,1938,178675,1,Pounds,Cyprus,Romania
+352,360,1939,189745,1,Pounds,Cyprus,Romania
+352,360,1940,106014,1,Pounds,Cyprus,Romania
+352,360,1941,109,1,Pounds,Cyprus,Romania
+352,360,1942,0,1,Pounds,Cyprus,Romania
+352,360,1943,60,1,Pounds,Cyprus,Romania
+352,360,1944,0,1,Pounds,Cyprus,Romania
+352,360,1945,0,1,Pounds,Cyprus,Romania
+352,360,1946,3,1,Pounds,Cyprus,Romania
+352,360,1947,270,1,Pounds,Cyprus,Romania
+352,360,1948,20972,1,Pounds,Cyprus,Romania
+352,360,1949,3,1,Pounds,Cyprus,Romania
+352,365,1919,0,1,Pounds,Cyprus,Russia
+352,365,1920,0,1,,Cyprus,Russia
+352,365,1921,0,1,,Cyprus,Russia
+352,365,1922,0,1,,Cyprus,Russia
+352,365,1923,0,1,,Cyprus,Russia
+352,365,1924,0,1,,Cyprus,Russia
+352,365,1925,0,1,,Cyprus,Russia
+352,365,1926,10989,1,Pounds,Cyprus,Russia
+352,365,1927,14351,1,Pounds,Cyprus,Russia
+352,365,1928,26857,1,Pounds,Cyprus,Russia
+352,365,1929,26775,1,Pounds,Cyprus,Russia
+352,365,1930,24389,1,Pounds,Cyprus,Russia
+352,365,1931,6632,1,Pounds,Cyprus,Russia
+352,365,1932,4488,1,Pounds,Cyprus,Russia
+352,365,1933,3247,1,,Cyprus,Russia
+352,365,1934,4577,1,,Cyprus,Russia
+352,365,1935,6161,1,,Cyprus,Russia
+352,365,1936,6529,1,,Cyprus,Russia
+352,365,1937,500,1,Pounds,Cyprus,Russia
+352,365,1938,18507,1,Pounds,Cyprus,Russia
+352,365,1939,1078,1,Pounds,Cyprus,Russia
+352,365,1940,55,1,Pounds,Cyprus,Russia
+352,365,1941,115,1,Pounds,Cyprus,Russia
+352,365,1942,0,1,Pounds,Cyprus,Russia
+352,365,1943,167,1,Pounds,Cyprus,Russia
+352,365,1944,12,1,Pounds,Cyprus,Russia
+352,365,1945,16,1,Pounds,Cyprus,Russia
+352,365,1946,109,1,Pounds,Cyprus,Russia
+352,365,1947,3,1,Pounds,Cyprus,Russia
+352,365,1948,279961,1,Pounds,Cyprus,Russia
+352,365,1949,112932,1,Pounds,Cyprus,Russia
+352,366,1919,0,1,Pounds,Cyprus,Estonia
+352,366,1920,0,1,,Cyprus,Estonia
+352,366,1921,0,1,,Cyprus,Estonia
+352,366,1922,0,1,,Cyprus,Estonia
+352,366,1923,0,1,,Cyprus,Estonia
+352,366,1924,0,1,,Cyprus,Estonia
+352,366,1925,0,1,,Cyprus,Estonia
+352,366,1926,0,1,Pounds,Cyprus,Estonia
+352,366,1927,0,1,Pounds,Cyprus,Estonia
+352,366,1928,0,1,Pounds,Cyprus,Estonia
+352,366,1929,0,1,Pounds,Cyprus,Estonia
+352,366,1930,0,1,Pounds,Cyprus,Estonia
+352,366,1931,0,1,Pounds,Cyprus,Estonia
+352,366,1932,0,1,Pounds,Cyprus,Estonia
+352,366,1933,0,1,,Cyprus,Estonia
+352,366,1934,0,1,,Cyprus,Estonia
+352,366,1935,0,1,,Cyprus,Estonia
+352,366,1936,0,1,,Cyprus,Estonia
+352,366,1937,263,1,Pounds,Cyprus,Estonia
+352,366,1938,29,1,Pounds,Cyprus,Estonia
+352,366,1939,17,1,Pounds,Cyprus,Estonia
+352,366,1940,0,1,Pounds,Cyprus,Estonia
+352,366,1941,0,1,Pounds,Cyprus,Estonia
+352,366,1942,0,1,Pounds,Cyprus,Estonia
+352,366,1943,0,1,Pounds,Cyprus,Estonia
+352,366,1944,0,1,Pounds,Cyprus,Estonia
+352,366,1945,0,1,Pounds,Cyprus,Estonia
+352,366,1946,0,1,Pounds,Cyprus,Estonia
+352,366,1947,0,1,Pounds,Cyprus,Estonia
+352,366,1948,0,1,Pounds,Cyprus,Estonia
+352,366,1949,0,1,Pounds,Cyprus,Estonia
+352,367,1919,0,1,Pounds,Cyprus,Latvia
+352,367,1920,0,1,,Cyprus,Latvia
+352,367,1921,0,1,,Cyprus,Latvia
+352,367,1922,0,1,,Cyprus,Latvia
+352,367,1923,0,1,,Cyprus,Latvia
+352,367,1924,0,1,,Cyprus,Latvia
+352,367,1925,0,1,,Cyprus,Latvia
+352,367,1926,0,1,Pounds,Cyprus,Latvia
+352,367,1927,0,1,Pounds,Cyprus,Latvia
+352,367,1928,32,1,Pounds,Cyprus,Latvia
+352,367,1929,0,1,Pounds,Cyprus,Latvia
+352,367,1930,0,1,Pounds,Cyprus,Latvia
+352,367,1931,0,1,Pounds,Cyprus,Latvia
+352,367,1932,0,1,Pounds,Cyprus,Latvia
+352,367,1933,0,1,,Cyprus,Latvia
+352,367,1934,0,1,,Cyprus,Latvia
+352,367,1935,0,1,,Cyprus,Latvia
+352,367,1936,0,1,,Cyprus,Latvia
+352,367,1937,381,1,Pounds,Cyprus,Latvia
+352,367,1938,5,1,Pounds,Cyprus,Latvia
+352,367,1939,40,1,Pounds,Cyprus,Latvia
+352,367,1940,0,1,Pounds,Cyprus,Latvia
+352,367,1941,0,1,Pounds,Cyprus,Latvia
+352,367,1942,0,1,Pounds,Cyprus,Latvia
+352,367,1943,0,1,Pounds,Cyprus,Latvia
+352,367,1944,0,1,Pounds,Cyprus,Latvia
+352,367,1945,0,1,Pounds,Cyprus,Latvia
+352,367,1946,0,1,Pounds,Cyprus,Latvia
+352,367,1947,0,1,Pounds,Cyprus,Latvia
+352,367,1948,0,1,Pounds,Cyprus,Latvia
+352,367,1949,0,1,Pounds,Cyprus,Latvia
+352,368,1919,0,1,Pounds,Cyprus,Lithuania
+352,368,1920,0,1,,Cyprus,Lithuania
+352,368,1921,0,1,,Cyprus,Lithuania
+352,368,1922,0,1,,Cyprus,Lithuania
+352,368,1923,0,1,,Cyprus,Lithuania
+352,368,1924,0,1,,Cyprus,Lithuania
+352,368,1925,0,1,,Cyprus,Lithuania
+352,368,1926,0,1,Pounds,Cyprus,Lithuania
+352,368,1927,0,1,Pounds,Cyprus,Lithuania
+352,368,1928,0,1,Pounds,Cyprus,Lithuania
+352,368,1929,4,1,Pounds,Cyprus,Lithuania
+352,368,1930,0,1,Pounds,Cyprus,Lithuania
+352,368,1931,0,1,Pounds,Cyprus,Lithuania
+352,368,1932,0,1,Pounds,Cyprus,Lithuania
+352,368,1933,0,1,,Cyprus,Lithuania
+352,368,1934,0,1,,Cyprus,Lithuania
+352,368,1935,0,1,,Cyprus,Lithuania
+352,368,1936,0,1,,Cyprus,Lithuania
+352,368,1937,32,1,Pounds,Cyprus,Lithuania
+352,368,1938,7,1,Pounds,Cyprus,Lithuania
+352,368,1939,11,1,Pounds,Cyprus,Lithuania
+352,368,1940,0,1,Pounds,Cyprus,Lithuania
+352,368,1941,0,1,Pounds,Cyprus,Lithuania
+352,368,1942,0,1,Pounds,Cyprus,Lithuania
+352,368,1943,0,1,Pounds,Cyprus,Lithuania
+352,368,1944,0,1,Pounds,Cyprus,Lithuania
+352,368,1945,0,1,Pounds,Cyprus,Lithuania
+352,368,1946,0,1,Pounds,Cyprus,Lithuania
+352,368,1947,0,1,Pounds,Cyprus,Lithuania
+352,368,1948,0,1,Pounds,Cyprus,Lithuania
+352,368,1949,0,1,Pounds,Cyprus,Lithuania
+352,375,1919,0,1,Pounds,Cyprus,Finland
+352,375,1920,0,1,,Cyprus,Finland
+352,375,1921,0,1,,Cyprus,Finland
+352,375,1922,0,1,,Cyprus,Finland
+352,375,1923,0,1,,Cyprus,Finland
+352,375,1924,0,1,,Cyprus,Finland
+352,375,1925,0,1,,Cyprus,Finland
+352,375,1926,85,1,Pounds,Cyprus,Finland
+352,375,1927,71,1,Pounds,Cyprus,Finland
+352,375,1928,87,1,Pounds,Cyprus,Finland
+352,375,1929,1,1,Pounds,Cyprus,Finland
+352,375,1930,42,1,Pounds,Cyprus,Finland
+352,375,1931,0,1,Pounds,Cyprus,Finland
+352,375,1932,177,1,Pounds,Cyprus,Finland
+352,375,1933,0,1,,Cyprus,Finland
+352,375,1934,0,1,,Cyprus,Finland
+352,375,1935,0,1,,Cyprus,Finland
+352,375,1936,0,1,,Cyprus,Finland
+352,375,1937,4220,1,Pounds,Cyprus,Finland
+352,375,1938,2916,1,Pounds,Cyprus,Finland
+352,375,1939,2141,1,Pounds,Cyprus,Finland
+352,375,1940,0,1,Pounds,Cyprus,Finland
+352,375,1941,0,1,Pounds,Cyprus,Finland
+352,375,1942,0,1,Pounds,Cyprus,Finland
+352,375,1943,0,1,Pounds,Cyprus,Finland
+352,375,1944,0,1,Pounds,Cyprus,Finland
+352,375,1945,0,1,Pounds,Cyprus,Finland
+352,375,1946,15879,1,Pounds,Cyprus,Finland
+352,375,1947,74831,1,Pounds,Cyprus,Finland
+352,375,1948,53402,1,Pounds,Cyprus,Finland
+352,375,1949,30889,1,Pounds,Cyprus,Finland
+352,380,1919,5373,1,Pounds,Cyprus,Sweden
+352,380,1920,17366,1,,Cyprus,Sweden
+352,380,1921,6521,1,,Cyprus,Sweden
+352,380,1922,10282,1,,Cyprus,Sweden
+352,380,1923,8507,1,,Cyprus,Sweden
+352,380,1924,8758,1,,Cyprus,Sweden
+352,380,1925,9394,1,,Cyprus,Sweden
+352,380,1926,6223,1,Pounds,Cyprus,Sweden
+352,380,1927,8495,1,Pounds,Cyprus,Sweden
+352,380,1928,11790,1,Pounds,Cyprus,Sweden
+352,380,1929,10062,1,Pounds,Cyprus,Sweden
+352,380,1930,11605,1,Pounds,Cyprus,Sweden
+352,380,1931,13422,1,Pounds,Cyprus,Sweden
+352,380,1932,14515,1,Pounds,Cyprus,Sweden
+352,380,1933,11872,1,,Cyprus,Sweden
+352,380,1934,16209,1,,Cyprus,Sweden
+352,380,1935,20291,1,,Cyprus,Sweden
+352,380,1936,18370,1,,Cyprus,Sweden
+352,380,1937,25365,1,Pounds,Cyprus,Sweden
+352,380,1938,29675,1,Pounds,Cyprus,Sweden
+352,380,1939,23478,1,Pounds,Cyprus,Sweden
+352,380,1940,18927,1,Pounds,Cyprus,Sweden
+352,380,1941,28,1,Pounds,Cyprus,Sweden
+352,380,1942,0,1,Pounds,Cyprus,Sweden
+352,380,1943,7,1,Pounds,Cyprus,Sweden
+352,380,1944,0,1,Pounds,Cyprus,Sweden
+352,380,1945,11432,1,Pounds,Cyprus,Sweden
+352,380,1946,108755,1,Pounds,Cyprus,Sweden
+352,380,1947,46378,1,Pounds,Cyprus,Sweden
+352,380,1948,166191,1,Pounds,Cyprus,Sweden
+352,380,1949,159344,1,Pounds,Cyprus,Sweden
+352,385,1919,73,1,Pounds,Cyprus,Norway
+352,385,1920,2921,1,,Cyprus,Norway
+352,385,1921,1250,1,,Cyprus,Norway
+352,385,1922,0,1,,Cyprus,Norway
+352,385,1923,0,1,,Cyprus,Norway
+352,385,1924,0,1,,Cyprus,Norway
+352,385,1925,0,1,,Cyprus,Norway
+352,385,1926,905,1,Pounds,Cyprus,Norway
+352,385,1927,1704,1,Pounds,Cyprus,Norway
+352,385,1928,2034,1,Pounds,Cyprus,Norway
+352,385,1929,1079,1,Pounds,Cyprus,Norway
+352,385,1930,1024,1,Pounds,Cyprus,Norway
+352,385,1931,582,1,Pounds,Cyprus,Norway
+352,385,1932,2528,1,Pounds,Cyprus,Norway
+352,385,1933,2289,1,,Cyprus,Norway
+352,385,1934,1550,1,,Cyprus,Norway
+352,385,1935,758,1,,Cyprus,Norway
+352,385,1936,1147,1,,Cyprus,Norway
+352,385,1937,893,1,Pounds,Cyprus,Norway
+352,385,1938,550,1,Pounds,Cyprus,Norway
+352,385,1939,859,1,Pounds,Cyprus,Norway
+352,385,1940,86,1,Pounds,Cyprus,Norway
+352,385,1941,69,1,Pounds,Cyprus,Norway
+352,385,1942,0,1,Pounds,Cyprus,Norway
+352,385,1943,0,1,Pounds,Cyprus,Norway
+352,385,1944,0,1,Pounds,Cyprus,Norway
+352,385,1945,0,1,Pounds,Cyprus,Norway
+352,385,1946,18103,1,Pounds,Cyprus,Norway
+352,385,1947,94542,1,Pounds,Cyprus,Norway
+352,385,1948,53826,1,Pounds,Cyprus,Norway
+352,385,1949,34981,1,Pounds,Cyprus,Norway
+352,390,1919,1722,1,Pounds,Cyprus,Denmark
+352,390,1920,4238,1,,Cyprus,Denmark
+352,390,1921,1359,1,,Cyprus,Denmark
+352,390,1922,1185,1,,Cyprus,Denmark
+352,390,1923,2104,1,,Cyprus,Denmark
+352,390,1924,2591,1,,Cyprus,Denmark
+352,390,1925,2990,1,,Cyprus,Denmark
+352,390,1926,2914,1,Pounds,Cyprus,Denmark
+352,390,1927,3774,1,Pounds,Cyprus,Denmark
+352,390,1928,4978,1,Pounds,Cyprus,Denmark
+352,390,1929,11452,1,Pounds,Cyprus,Denmark
+352,390,1930,2503,1,Pounds,Cyprus,Denmark
+352,390,1931,1897,1,Pounds,Cyprus,Denmark
+352,390,1932,1648,1,Pounds,Cyprus,Denmark
+352,390,1933,16429,1,,Cyprus,Denmark
+352,390,1934,22925,1,,Cyprus,Denmark
+352,390,1935,13038,1,,Cyprus,Denmark
+352,390,1936,18224,1,,Cyprus,Denmark
+352,390,1937,27073,1,Pounds,Cyprus,Denmark
+352,390,1938,16815,1,Pounds,Cyprus,Denmark
+352,390,1939,8854,1,Pounds,Cyprus,Denmark
+352,390,1940,1115,1,Pounds,Cyprus,Denmark
+352,390,1941,168,1,Pounds,Cyprus,Denmark
+352,390,1942,5,1,Pounds,Cyprus,Denmark
+352,390,1943,0,1,Pounds,Cyprus,Denmark
+352,390,1944,0,1,Pounds,Cyprus,Denmark
+352,390,1945,0,1,Pounds,Cyprus,Denmark
+352,390,1946,18203,1,Pounds,Cyprus,Denmark
+352,390,1947,234882,1,Pounds,Cyprus,Denmark
+352,390,1948,154574,1,Pounds,Cyprus,Denmark
+352,390,1949,93112,1,Pounds,Cyprus,Denmark
+352,395,1919,0,1,Pounds,Cyprus,Iceland
+352,395,1920,0,1,,Cyprus,Iceland
+352,395,1921,0,1,,Cyprus,Iceland
+352,395,1922,0,1,,Cyprus,Iceland
+352,395,1923,0,1,,Cyprus,Iceland
+352,395,1924,0,1,,Cyprus,Iceland
+352,395,1925,0,1,,Cyprus,Iceland
+352,395,1926,0,1,Pounds,Cyprus,Iceland
+352,395,1927,0,1,Pounds,Cyprus,Iceland
+352,395,1928,0,1,Pounds,Cyprus,Iceland
+352,395,1929,0,1,Pounds,Cyprus,Iceland
+352,395,1930,0,1,Pounds,Cyprus,Iceland
+352,395,1931,0,1,Pounds,Cyprus,Iceland
+352,395,1932,0,1,Pounds,Cyprus,Iceland
+352,395,1933,0,1,,Cyprus,Iceland
+352,395,1934,0,1,,Cyprus,Iceland
+352,395,1935,0,1,,Cyprus,Iceland
+352,395,1936,0,1,,Cyprus,Iceland
+352,395,1937,0,1,Pounds,Cyprus,Iceland
+352,395,1938,0,1,Pounds,Cyprus,Iceland
+352,395,1939,0,1,Pounds,Cyprus,Iceland
+352,395,1940,0,1,Pounds,Cyprus,Iceland
+352,395,1941,0,1,Pounds,Cyprus,Iceland
+352,395,1942,0,1,Pounds,Cyprus,Iceland
+352,395,1943,0,1,Pounds,Cyprus,Iceland
+352,395,1944,0,1,Pounds,Cyprus,Iceland
+352,395,1945,0,1,Pounds,Cyprus,Iceland
+352,395,1946,0,1,Pounds,Cyprus,Iceland
+352,395,1947,10,1,Pounds,Cyprus,Iceland
+352,395,1948,0,1,Pounds,Cyprus,Iceland
+352,395,1949,0,1,Pounds,Cyprus,Iceland
+352,410,1919,0,1,Pounds,Cyprus,Canary Islands
+352,410,1920,0,1,,Cyprus,Canary Islands
+352,410,1921,0,1,,Cyprus,Canary Islands
+352,410,1922,0,1,,Cyprus,Canary Islands
+352,410,1923,0,1,,Cyprus,Canary Islands
+352,410,1924,0,1,,Cyprus,Canary Islands
+352,410,1925,0,1,,Cyprus,Canary Islands
+352,410,1926,0,1,Pounds,Cyprus,Canary Islands
+352,410,1927,0,1,Pounds,Cyprus,Canary Islands
+352,410,1928,0,1,Pounds,Cyprus,Canary Islands
+352,410,1929,0,1,Pounds,Cyprus,Canary Islands
+352,410,1930,0,1,Pounds,Cyprus,Canary Islands
+352,410,1931,0,1,Pounds,Cyprus,Canary Islands
+352,410,1932,0,1,Pounds,Cyprus,Canary Islands
+352,410,1933,0,1,,Cyprus,Canary Islands
+352,410,1934,0,1,,Cyprus,Canary Islands
+352,410,1935,0,1,,Cyprus,Canary Islands
+352,410,1936,0,1,,Cyprus,Canary Islands
+352,410,1937,18,1,Pounds,Cyprus,Canary Islands
+352,410,1938,19,1,Pounds,Cyprus,Canary Islands
+352,410,1939,60,1,Pounds,Cyprus,Canary Islands
+352,410,1940,0,1,Pounds,Cyprus,Canary Islands
+352,410,1941,0,1,Pounds,Cyprus,Canary Islands
+352,410,1942,0,1,Pounds,Cyprus,Canary Islands
+352,410,1943,0,1,Pounds,Cyprus,Canary Islands
+352,410,1944,0,1,Pounds,Cyprus,Canary Islands
+352,410,1945,0,1,Pounds,Cyprus,Canary Islands
+352,410,1946,0,1,Pounds,Cyprus,Canary Islands
+352,410,1947,0,1,Pounds,Cyprus,Canary Islands
+352,410,1948,0,1,Pounds,Cyprus,Canary Islands
+352,410,1949,0,1,Pounds,Cyprus,Canary Islands
+352,430,1919,0,1,Pounds,Cyprus,French West Africa
+352,430,1920,0,1,,Cyprus,French West Africa
+352,430,1921,0,1,,Cyprus,French West Africa
+352,430,1922,0,1,,Cyprus,French West Africa
+352,430,1923,0,1,,Cyprus,French West Africa
+352,430,1924,0,1,,Cyprus,French West Africa
+352,430,1925,0,1,,Cyprus,French West Africa
+352,430,1926,0,1,Pounds,Cyprus,French West Africa
+352,430,1927,0,1,Pounds,Cyprus,French West Africa
+352,430,1928,0,1,Pounds,Cyprus,French West Africa
+352,430,1929,0,1,Pounds,Cyprus,French West Africa
+352,430,1930,0,1,Pounds,Cyprus,French West Africa
+352,430,1931,0,1,Pounds,Cyprus,French West Africa
+352,430,1932,0,1,Pounds,Cyprus,French West Africa
+352,430,1933,0,1,,Cyprus,French West Africa
+352,430,1934,0,1,,Cyprus,French West Africa
+352,430,1935,0,1,,Cyprus,French West Africa
+352,430,1936,0,1,,Cyprus,French West Africa
+352,430,1937,0,1,Pounds,Cyprus,French West Africa
+352,430,1938,0,1,Pounds,Cyprus,French West Africa
+352,430,1939,0,1,Pounds,Cyprus,French West Africa
+352,430,1940,0,1,Pounds,Cyprus,French West Africa
+352,430,1941,0,1,Pounds,Cyprus,French West Africa
+352,430,1942,0,1,Pounds,Cyprus,French West Africa
+352,430,1943,0,1,Pounds,Cyprus,French West Africa
+352,430,1944,13,1,Pounds,Cyprus,French West Africa
+352,430,1945,0,1,Pounds,Cyprus,French West Africa
+352,430,1946,0,1,Pounds,Cyprus,French West Africa
+352,430,1947,0,1,Pounds,Cyprus,French West Africa
+352,430,1948,0,1,Pounds,Cyprus,French West Africa
+352,430,1949,0,1,Pounds,Cyprus,French West Africa
+352,465,1919,0,1,Pounds,Cyprus,British West Africa
+352,465,1920,0,1,,Cyprus,British West Africa
+352,465,1921,0,1,,Cyprus,British West Africa
+352,465,1922,0,1,,Cyprus,British West Africa
+352,465,1923,0,1,,Cyprus,British West Africa
+352,465,1924,0,1,,Cyprus,British West Africa
+352,465,1925,0,1,,Cyprus,British West Africa
+352,465,1926,22,1,Pounds,Cyprus,British West Africa
+352,465,1927,0,1,Pounds,Cyprus,British West Africa
+352,465,1928,0,1,Pounds,Cyprus,British West Africa
+352,465,1929,0,1,Pounds,Cyprus,British West Africa
+352,465,1930,0,1,Pounds,Cyprus,British West Africa
+352,465,1931,0,1,Pounds,Cyprus,British West Africa
+352,465,1932,0,1,Pounds,Cyprus,British West Africa
+352,465,1933,0,1,,Cyprus,British West Africa
+352,465,1934,0,1,,Cyprus,British West Africa
+352,465,1935,0,1,,Cyprus,British West Africa
+352,465,1936,0,1,,Cyprus,British West Africa
+352,465,1937,277,1,Pounds,Cyprus,British West Africa
+352,465,1938,125,1,Pounds,Cyprus,British West Africa
+352,465,1939,40,1,Pounds,Cyprus,British West Africa
+352,465,1940,0,1,Pounds,Cyprus,British West Africa
+352,465,1941,0,1,Pounds,Cyprus,British West Africa
+352,465,1942,0,1,Pounds,Cyprus,British West Africa
+352,465,1943,0,1,Pounds,Cyprus,British West Africa
+352,465,1944,39,1,Pounds,Cyprus,British West Africa
+352,465,1945,783,1,Pounds,Cyprus,British West Africa
+352,465,1946,5676,1,Pounds,Cyprus,British West Africa
+352,465,1947,5393,1,Pounds,Cyprus,British West Africa
+352,465,1948,3474,1,Pounds,Cyprus,British West Africa
+352,465,1949,2583,1,Pounds,Cyprus,British West Africa
+352,490,1919,26,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1920,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1921,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1922,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1923,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1924,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1925,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1926,13,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1927,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1928,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1929,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1930,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1931,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1932,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1933,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1934,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1935,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1936,0,1,,Cyprus,"Congo, Dem. Republic"
+352,490,1937,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1938,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1939,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1940,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1941,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1942,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1943,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1944,293,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1945,479,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1946,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1947,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1948,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,490,1949,0,1,Pounds,Cyprus,"Congo, Dem. Republic"
+352,505,1919,0,1,Pounds,Cyprus,British East Africa
+352,505,1920,0,1,,Cyprus,British East Africa
+352,505,1921,0,1,,Cyprus,British East Africa
+352,505,1922,0,1,,Cyprus,British East Africa
+352,505,1923,0,1,,Cyprus,British East Africa
+352,505,1924,0,1,,Cyprus,British East Africa
+352,505,1925,0,1,,Cyprus,British East Africa
+352,505,1926,34,1,Pounds,Cyprus,British East Africa
+352,505,1927,44,1,Pounds,Cyprus,British East Africa
+352,505,1928,182,1,Pounds,Cyprus,British East Africa
+352,505,1929,117,1,Pounds,Cyprus,British East Africa
+352,505,1930,242,1,Pounds,Cyprus,British East Africa
+352,505,1931,148,1,Pounds,Cyprus,British East Africa
+352,505,1932,556,1,Pounds,Cyprus,British East Africa
+352,505,1933,0,1,,Cyprus,British East Africa
+352,505,1934,0,1,,Cyprus,British East Africa
+352,505,1935,0,1,,Cyprus,British East Africa
+352,505,1936,0,1,,Cyprus,British East Africa
+352,505,1937,24,1,Pounds,Cyprus,British East Africa
+352,505,1938,306,1,Pounds,Cyprus,British East Africa
+352,505,1939,878,1,Pounds,Cyprus,British East Africa
+352,505,1940,10703,1,Pounds,Cyprus,British East Africa
+352,505,1941,14490,1,Pounds,Cyprus,British East Africa
+352,505,1942,73750,1,Pounds,Cyprus,British East Africa
+352,505,1943,27371,1,Pounds,Cyprus,British East Africa
+352,505,1944,48231,1,Pounds,Cyprus,British East Africa
+352,505,1945,86275,1,Pounds,Cyprus,British East Africa
+352,505,1946,45356,1,Pounds,Cyprus,British East Africa
+352,505,1947,77462,1,Pounds,Cyprus,British East Africa
+352,505,1948,39735,1,Pounds,Cyprus,British East Africa
+352,505,1949,47790,1,Pounds,Cyprus,British East Africa
+352,521,1919,0,1,Pounds,Cyprus,British Somaliland
+352,521,1920,43,1,,Cyprus,British Somaliland
+352,521,1921,0,1,,Cyprus,British Somaliland
+352,521,1922,0,1,,Cyprus,British Somaliland
+352,521,1923,0,1,,Cyprus,British Somaliland
+352,521,1924,0,1,,Cyprus,British Somaliland
+352,521,1925,0,1,,Cyprus,British Somaliland
+352,521,1926,0,1,Pounds,Cyprus,British Somaliland
+352,521,1927,0,1,Pounds,Cyprus,British Somaliland
+352,521,1928,0,1,Pounds,Cyprus,British Somaliland
+352,521,1929,0,1,Pounds,Cyprus,British Somaliland
+352,521,1930,0,1,Pounds,Cyprus,British Somaliland
+352,521,1931,0,1,Pounds,Cyprus,British Somaliland
+352,521,1932,0,1,Pounds,Cyprus,British Somaliland
+352,521,1933,0,1,,Cyprus,British Somaliland
+352,521,1934,0,1,,Cyprus,British Somaliland
+352,521,1935,0,1,,Cyprus,British Somaliland
+352,521,1936,0,1,,Cyprus,British Somaliland
+352,521,1937,49,1,Pounds,Cyprus,British Somaliland
+352,521,1938,0,1,Pounds,Cyprus,British Somaliland
+352,521,1939,89,1,Pounds,Cyprus,British Somaliland
+352,521,1940,0,1,Pounds,Cyprus,British Somaliland
+352,521,1941,0,1,Pounds,Cyprus,British Somaliland
+352,521,1942,0,1,Pounds,Cyprus,British Somaliland
+352,521,1943,0,1,Pounds,Cyprus,British Somaliland
+352,521,1944,126,1,Pounds,Cyprus,British Somaliland
+352,521,1945,0,1,Pounds,Cyprus,British Somaliland
+352,521,1946,541,1,Pounds,Cyprus,British Somaliland
+352,521,1947,0,1,Pounds,Cyprus,British Somaliland
+352,521,1948,0,1,Pounds,Cyprus,British Somaliland
+352,521,1949,0,1,Pounds,Cyprus,British Somaliland
+352,530,1919,2,1,Pounds,Cyprus,Ethiopia
+352,530,1920,0,1,,Cyprus,Ethiopia
+352,530,1921,71,1,,Cyprus,Ethiopia
+352,530,1922,0,1,,Cyprus,Ethiopia
+352,530,1923,0,1,,Cyprus,Ethiopia
+352,530,1924,0,1,,Cyprus,Ethiopia
+352,530,1925,0,1,,Cyprus,Ethiopia
+352,530,1926,1685,1,Pounds,Cyprus,Ethiopia
+352,530,1927,817,1,Pounds,Cyprus,Ethiopia
+352,530,1928,15,1,Pounds,Cyprus,Ethiopia
+352,530,1929,6,1,Pounds,Cyprus,Ethiopia
+352,530,1930,40,1,Pounds,Cyprus,Ethiopia
+352,530,1931,74,1,Pounds,Cyprus,Ethiopia
+352,530,1932,32,1,Pounds,Cyprus,Ethiopia
+352,530,1933,0,1,,Cyprus,Ethiopia
+352,530,1934,0,1,,Cyprus,Ethiopia
+352,530,1935,0,1,,Cyprus,Ethiopia
+352,530,1936,0,1,,Cyprus,Ethiopia
+352,530,1937,25,1,Pounds,Cyprus,Ethiopia
+352,530,1938,2,1,Pounds,Cyprus,Ethiopia
+352,530,1939,4,1,Pounds,Cyprus,Ethiopia
+352,530,1940,0,1,Pounds,Cyprus,Ethiopia
+352,530,1941,0,1,Pounds,Cyprus,Ethiopia
+352,530,1942,0,1,Pounds,Cyprus,Ethiopia
+352,530,1943,595,1,Pounds,Cyprus,Ethiopia
+352,530,1944,13931,1,Pounds,Cyprus,Ethiopia
+352,530,1945,30553,1,Pounds,Cyprus,Ethiopia
+352,530,1946,1663,1,Pounds,Cyprus,Ethiopia
+352,530,1947,34426,1,Pounds,Cyprus,Ethiopia
+352,530,1948,48450,1,Pounds,Cyprus,Ethiopia
+352,530,1949,23547,1,Pounds,Cyprus,Ethiopia
+352,531,1919,0,1,Pounds,Cyprus,Eritrea
+352,531,1920,0,1,,Cyprus,Eritrea
+352,531,1921,0,1,,Cyprus,Eritrea
+352,531,1922,0,1,,Cyprus,Eritrea
+352,531,1923,0,1,,Cyprus,Eritrea
+352,531,1924,0,1,,Cyprus,Eritrea
+352,531,1925,0,1,,Cyprus,Eritrea
+352,531,1926,0,1,Pounds,Cyprus,Eritrea
+352,531,1927,0,1,Pounds,Cyprus,Eritrea
+352,531,1928,0,1,Pounds,Cyprus,Eritrea
+352,531,1929,0,1,Pounds,Cyprus,Eritrea
+352,531,1930,0,1,Pounds,Cyprus,Eritrea
+352,531,1931,0,1,Pounds,Cyprus,Eritrea
+352,531,1932,0,1,Pounds,Cyprus,Eritrea
+352,531,1933,0,1,,Cyprus,Eritrea
+352,531,1934,0,1,,Cyprus,Eritrea
+352,531,1935,0,1,,Cyprus,Eritrea
+352,531,1936,0,1,,Cyprus,Eritrea
+352,531,1937,1,1,Pounds,Cyprus,Eritrea
+352,531,1938,0,1,Pounds,Cyprus,Eritrea
+352,531,1939,0,1,Pounds,Cyprus,Eritrea
+352,531,1940,0,1,Pounds,Cyprus,Eritrea
+352,531,1941,0,1,Pounds,Cyprus,Eritrea
+352,531,1942,0,1,Pounds,Cyprus,Eritrea
+352,531,1943,42002,1,Pounds,Cyprus,Eritrea
+352,531,1944,55851,1,Pounds,Cyprus,Eritrea
+352,531,1945,83874,1,Pounds,Cyprus,Eritrea
+352,531,1946,49365,1,Pounds,Cyprus,Eritrea
+352,531,1947,18984,1,Pounds,Cyprus,Eritrea
+352,531,1948,606,1,Pounds,Cyprus,Eritrea
+352,531,1949,4254,1,Pounds,Cyprus,Eritrea
+352,554,1919,0,1,Pounds,Cyprus,Rhodesia
+352,554,1920,0,1,,Cyprus,Rhodesia
+352,554,1921,0,1,,Cyprus,Rhodesia
+352,554,1922,0,1,,Cyprus,Rhodesia
+352,554,1923,0,1,,Cyprus,Rhodesia
+352,554,1924,0,1,,Cyprus,Rhodesia
+352,554,1925,0,1,,Cyprus,Rhodesia
+352,554,1926,0,1,Pounds,Cyprus,Rhodesia
+352,554,1927,0,1,Pounds,Cyprus,Rhodesia
+352,554,1928,0,1,Pounds,Cyprus,Rhodesia
+352,554,1929,0,1,Pounds,Cyprus,Rhodesia
+352,554,1930,0,1,Pounds,Cyprus,Rhodesia
+352,554,1931,0,1,Pounds,Cyprus,Rhodesia
+352,554,1932,0,1,Pounds,Cyprus,Rhodesia
+352,554,1933,0,1,,Cyprus,Rhodesia
+352,554,1934,0,1,,Cyprus,Rhodesia
+352,554,1935,0,1,,Cyprus,Rhodesia
+352,554,1936,0,1,,Cyprus,Rhodesia
+352,554,1937,0,1,Pounds,Cyprus,Rhodesia
+352,554,1938,0,1,Pounds,Cyprus,Rhodesia
+352,554,1939,0,1,Pounds,Cyprus,Rhodesia
+352,554,1940,0,1,Pounds,Cyprus,Rhodesia
+352,554,1941,0,1,Pounds,Cyprus,Rhodesia
+352,554,1942,0,1,Pounds,Cyprus,Rhodesia
+352,554,1943,0,1,Pounds,Cyprus,Rhodesia
+352,554,1944,0,1,Pounds,Cyprus,Rhodesia
+352,554,1945,0,1,Pounds,Cyprus,Rhodesia
+352,554,1946,0,1,Pounds,Cyprus,Rhodesia
+352,554,1947,0,1,Pounds,Cyprus,Rhodesia
+352,554,1948,0,1,Pounds,Cyprus,Rhodesia
+352,554,1949,0,1,Pounds,Cyprus,Rhodesia
+352,560,1919,0,1,Pounds,Cyprus,South Africa
+352,560,1920,0,1,,Cyprus,South Africa
+352,560,1921,0,1,,Cyprus,South Africa
+352,560,1922,0,1,,Cyprus,South Africa
+352,560,1923,0,1,,Cyprus,South Africa
+352,560,1924,0,1,,Cyprus,South Africa
+352,560,1925,0,1,,Cyprus,South Africa
+352,560,1926,0,1,Pounds,Cyprus,South Africa
+352,560,1927,0,1,Pounds,Cyprus,South Africa
+352,560,1928,0,1,Pounds,Cyprus,South Africa
+352,560,1929,0,1,Pounds,Cyprus,South Africa
+352,560,1930,0,1,Pounds,Cyprus,South Africa
+352,560,1931,0,1,Pounds,Cyprus,South Africa
+352,560,1932,0,1,Pounds,Cyprus,South Africa
+352,560,1933,0,1,,Cyprus,South Africa
+352,560,1934,0,1,,Cyprus,South Africa
+352,560,1935,0,1,,Cyprus,South Africa
+352,560,1936,0,1,,Cyprus,South Africa
+352,560,1937,0,1,Pounds,Cyprus,South Africa
+352,560,1938,0,1,Pounds,Cyprus,South Africa
+352,560,1939,0,1,Pounds,Cyprus,South Africa
+352,560,1940,0,1,Pounds,Cyprus,South Africa
+352,560,1941,0,1,Pounds,Cyprus,South Africa
+352,560,1942,0,1,Pounds,Cyprus,South Africa
+352,560,1943,0,1,Pounds,Cyprus,South Africa
+352,560,1944,0,1,Pounds,Cyprus,South Africa
+352,560,1945,0,1,Pounds,Cyprus,South Africa
+352,560,1946,0,1,Pounds,Cyprus,South Africa
+352,560,1947,0,1,Pounds,Cyprus,South Africa
+352,560,1948,145138,1,Pounds,Cyprus,South Africa
+352,560,1949,84447,1,Pounds,Cyprus,South Africa
+352,573,1919,0,1,Pounds,Cyprus,British South Africa
+352,573,1920,2,1,,Cyprus,British South Africa
+352,573,1921,0,1,,Cyprus,British South Africa
+352,573,1922,0,1,,Cyprus,British South Africa
+352,573,1923,0,1,,Cyprus,British South Africa
+352,573,1924,0,1,,Cyprus,British South Africa
+352,573,1925,0,1,,Cyprus,British South Africa
+352,573,1926,264,1,Pounds,Cyprus,British South Africa
+352,573,1927,122,1,Pounds,Cyprus,British South Africa
+352,573,1928,105,1,Pounds,Cyprus,British South Africa
+352,573,1929,190,1,Pounds,Cyprus,British South Africa
+352,573,1930,79,1,Pounds,Cyprus,British South Africa
+352,573,1931,1212,1,Pounds,Cyprus,British South Africa
+352,573,1932,819,1,Pounds,Cyprus,British South Africa
+352,573,1933,0,1,,Cyprus,British South Africa
+352,573,1934,0,1,,Cyprus,British South Africa
+352,573,1935,0,1,,Cyprus,British South Africa
+352,573,1936,0,1,,Cyprus,British South Africa
+352,573,1937,84,1,Pounds,Cyprus,British South Africa
+352,573,1938,107,1,Pounds,Cyprus,British South Africa
+352,573,1939,199,1,Pounds,Cyprus,British South Africa
+352,573,1940,102,1,Pounds,Cyprus,British South Africa
+352,573,1941,2302,1,Pounds,Cyprus,British South Africa
+352,573,1942,6291,1,Pounds,Cyprus,British South Africa
+352,573,1943,2836,1,Pounds,Cyprus,British South Africa
+352,573,1944,2059,1,Pounds,Cyprus,British South Africa
+352,573,1945,14097,1,Pounds,Cyprus,British South Africa
+352,573,1946,54656,1,Pounds,Cyprus,British South Africa
+352,573,1947,94990,1,Pounds,Cyprus,British South Africa
+352,573,1948,0,1,Pounds,Cyprus,British South Africa
+352,573,1949,0,1,Pounds,Cyprus,British South Africa
+352,590,1919,0,1,Pounds,Cyprus,Mauritius
+352,590,1920,0,1,,Cyprus,Mauritius
+352,590,1921,0,1,,Cyprus,Mauritius
+352,590,1922,0,1,,Cyprus,Mauritius
+352,590,1923,0,1,,Cyprus,Mauritius
+352,590,1924,0,1,,Cyprus,Mauritius
+352,590,1925,0,1,,Cyprus,Mauritius
+352,590,1926,0,1,Pounds,Cyprus,Mauritius
+352,590,1927,0,1,Pounds,Cyprus,Mauritius
+352,590,1928,0,1,Pounds,Cyprus,Mauritius
+352,590,1929,0,1,Pounds,Cyprus,Mauritius
+352,590,1930,0,1,Pounds,Cyprus,Mauritius
+352,590,1931,0,1,Pounds,Cyprus,Mauritius
+352,590,1932,0,1,Pounds,Cyprus,Mauritius
+352,590,1933,0,1,,Cyprus,Mauritius
+352,590,1934,0,1,,Cyprus,Mauritius
+352,590,1935,0,1,,Cyprus,Mauritius
+352,590,1936,0,1,,Cyprus,Mauritius
+352,590,1937,0,1,Pounds,Cyprus,Mauritius
+352,590,1938,0,1,Pounds,Cyprus,Mauritius
+352,590,1939,0,1,Pounds,Cyprus,Mauritius
+352,590,1940,0,1,Pounds,Cyprus,Mauritius
+352,590,1941,0,1,Pounds,Cyprus,Mauritius
+352,590,1942,0,1,Pounds,Cyprus,Mauritius
+352,590,1943,72607,1,Pounds,Cyprus,Mauritius
+352,590,1944,82907,1,Pounds,Cyprus,Mauritius
+352,590,1945,94426,1,Pounds,Cyprus,Mauritius
+352,590,1946,1889,1,Pounds,Cyprus,Mauritius
+352,590,1947,201127,1,Pounds,Cyprus,Mauritius
+352,590,1948,103473,1,Pounds,Cyprus,Mauritius
+352,590,1949,0,1,Pounds,Cyprus,Mauritius
+352,615,1919,0,1,Pounds,Cyprus,Algeria
+352,615,1920,0,1,,Cyprus,Algeria
+352,615,1921,0,1,,Cyprus,Algeria
+352,615,1922,0,1,,Cyprus,Algeria
+352,615,1923,0,1,,Cyprus,Algeria
+352,615,1924,0,1,,Cyprus,Algeria
+352,615,1925,0,1,,Cyprus,Algeria
+352,615,1926,92,1,Pounds,Cyprus,Algeria
+352,615,1927,0,1,Pounds,Cyprus,Algeria
+352,615,1928,28,1,Pounds,Cyprus,Algeria
+352,615,1929,0,1,Pounds,Cyprus,Algeria
+352,615,1930,0,1,Pounds,Cyprus,Algeria
+352,615,1931,0,1,Pounds,Cyprus,Algeria
+352,615,1932,0,1,Pounds,Cyprus,Algeria
+352,615,1933,0,1,,Cyprus,Algeria
+352,615,1934,0,1,,Cyprus,Algeria
+352,615,1935,0,1,,Cyprus,Algeria
+352,615,1936,0,1,,Cyprus,Algeria
+352,615,1937,0,1,Pounds,Cyprus,Algeria
+352,615,1938,0,1,Pounds,Cyprus,Algeria
+352,615,1939,0,1,Pounds,Cyprus,Algeria
+352,615,1940,0,1,Pounds,Cyprus,Algeria
+352,615,1941,0,1,Pounds,Cyprus,Algeria
+352,615,1942,0,1,Pounds,Cyprus,Algeria
+352,615,1943,0,1,Pounds,Cyprus,Algeria
+352,615,1944,0,1,Pounds,Cyprus,Algeria
+352,615,1945,0,1,Pounds,Cyprus,Algeria
+352,615,1946,0,1,Pounds,Cyprus,Algeria
+352,615,1947,0,1,Pounds,Cyprus,Algeria
+352,615,1948,4870,1,Pounds,Cyprus,Algeria
+352,615,1949,0,1,Pounds,Cyprus,Algeria
+352,616,1919,0,1,Pounds,Cyprus,Tunisia
+352,616,1920,0,1,,Cyprus,Tunisia
+352,616,1921,0,1,,Cyprus,Tunisia
+352,616,1922,0,1,,Cyprus,Tunisia
+352,616,1923,0,1,,Cyprus,Tunisia
+352,616,1924,0,1,,Cyprus,Tunisia
+352,616,1925,0,1,,Cyprus,Tunisia
+352,616,1926,17,1,Pounds,Cyprus,Tunisia
+352,616,1927,0,1,Pounds,Cyprus,Tunisia
+352,616,1928,0,1,Pounds,Cyprus,Tunisia
+352,616,1929,0,1,Pounds,Cyprus,Tunisia
+352,616,1930,0,1,Pounds,Cyprus,Tunisia
+352,616,1931,0,1,Pounds,Cyprus,Tunisia
+352,616,1932,0,1,Pounds,Cyprus,Tunisia
+352,616,1933,0,1,,Cyprus,Tunisia
+352,616,1934,0,1,,Cyprus,Tunisia
+352,616,1935,0,1,,Cyprus,Tunisia
+352,616,1936,0,1,,Cyprus,Tunisia
+352,616,1937,0,1,Pounds,Cyprus,Tunisia
+352,616,1938,1,1,Pounds,Cyprus,Tunisia
+352,616,1939,0,1,Pounds,Cyprus,Tunisia
+352,616,1940,0,1,Pounds,Cyprus,Tunisia
+352,616,1941,0,1,Pounds,Cyprus,Tunisia
+352,616,1942,0,1,Pounds,Cyprus,Tunisia
+352,616,1943,0,1,Pounds,Cyprus,Tunisia
+352,616,1944,0,1,Pounds,Cyprus,Tunisia
+352,616,1945,0,1,Pounds,Cyprus,Tunisia
+352,616,1946,0,1,Pounds,Cyprus,Tunisia
+352,616,1947,0,1,Pounds,Cyprus,Tunisia
+352,616,1948,0,1,Pounds,Cyprus,Tunisia
+352,616,1949,0,1,Pounds,Cyprus,Tunisia
+352,620,1919,0,1,Pounds,Cyprus,Libya
+352,620,1920,0,1,,Cyprus,Libya
+352,620,1921,0,1,,Cyprus,Libya
+352,620,1922,0,1,,Cyprus,Libya
+352,620,1923,0,1,,Cyprus,Libya
+352,620,1924,0,1,,Cyprus,Libya
+352,620,1925,0,1,,Cyprus,Libya
+352,620,1926,0,1,Pounds,Cyprus,Libya
+352,620,1927,0,1,Pounds,Cyprus,Libya
+352,620,1928,0,1,Pounds,Cyprus,Libya
+352,620,1929,0,1,Pounds,Cyprus,Libya
+352,620,1930,0,1,Pounds,Cyprus,Libya
+352,620,1931,0,1,Pounds,Cyprus,Libya
+352,620,1932,0,1,Pounds,Cyprus,Libya
+352,620,1933,0,1,,Cyprus,Libya
+352,620,1934,0,1,,Cyprus,Libya
+352,620,1935,0,1,,Cyprus,Libya
+352,620,1936,0,1,,Cyprus,Libya
+352,620,1937,0,1,Pounds,Cyprus,Libya
+352,620,1938,0,1,Pounds,Cyprus,Libya
+352,620,1939,0,1,Pounds,Cyprus,Libya
+352,620,1940,0,1,Pounds,Cyprus,Libya
+352,620,1941,0,1,Pounds,Cyprus,Libya
+352,620,1942,0,1,Pounds,Cyprus,Libya
+352,620,1943,0,1,Pounds,Cyprus,Libya
+352,620,1944,0,1,Pounds,Cyprus,Libya
+352,620,1945,0,1,Pounds,Cyprus,Libya
+352,620,1946,145626,1,Pounds,Cyprus,Libya
+352,620,1947,8235,1,Pounds,Cyprus,Libya
+352,620,1948,5259,1,Pounds,Cyprus,Libya
+352,620,1949,847,1,Pounds,Cyprus,Libya
+352,625,1919,352,1,Pounds,Cyprus,Sudan
+352,625,1920,104,1,,Cyprus,Sudan
+352,625,1921,129,1,,Cyprus,Sudan
+352,625,1922,0,1,,Cyprus,Sudan
+352,625,1923,0,1,,Cyprus,Sudan
+352,625,1924,0,1,,Cyprus,Sudan
+352,625,1925,0,1,,Cyprus,Sudan
+352,625,1926,1298,1,Pounds,Cyprus,Sudan
+352,625,1927,983,1,Pounds,Cyprus,Sudan
+352,625,1928,415,1,Pounds,Cyprus,Sudan
+352,625,1929,519,1,Pounds,Cyprus,Sudan
+352,625,1930,784,1,Pounds,Cyprus,Sudan
+352,625,1931,291,1,Pounds,Cyprus,Sudan
+352,625,1932,233,1,Pounds,Cyprus,Sudan
+352,625,1933,0,1,,Cyprus,Sudan
+352,625,1934,0,1,,Cyprus,Sudan
+352,625,1935,0,1,,Cyprus,Sudan
+352,625,1936,0,1,,Cyprus,Sudan
+352,625,1937,1338,1,Pounds,Cyprus,Sudan
+352,625,1938,7442,1,Pounds,Cyprus,Sudan
+352,625,1939,10044,1,Pounds,Cyprus,Sudan
+352,625,1940,12414,1,Pounds,Cyprus,Sudan
+352,625,1941,20075,1,Pounds,Cyprus,Sudan
+352,625,1942,48711,1,Pounds,Cyprus,Sudan
+352,625,1943,54314,1,Pounds,Cyprus,Sudan
+352,625,1944,53999,1,Pounds,Cyprus,Sudan
+352,625,1945,122426,1,Pounds,Cyprus,Sudan
+352,625,1946,80038,1,Pounds,Cyprus,Sudan
+352,625,1947,79803,1,Pounds,Cyprus,Sudan
+352,625,1948,30478,1,Pounds,Cyprus,Sudan
+352,625,1949,40849,1,Pounds,Cyprus,Sudan
+352,630,1919,1363,1,Pounds,Cyprus,Iran
+352,630,1920,1759,1,,Cyprus,Iran
+352,630,1921,512,1,,Cyprus,Iran
+352,630,1922,568,1,,Cyprus,Iran
+352,630,1923,1979,1,,Cyprus,Iran
+352,630,1924,5432,1,,Cyprus,Iran
+352,630,1925,9270,1,,Cyprus,Iran
+352,630,1926,12056,1,Pounds,Cyprus,Iran
+352,630,1927,14021,1,Pounds,Cyprus,Iran
+352,630,1928,25442,1,Pounds,Cyprus,Iran
+352,630,1929,21516,1,Pounds,Cyprus,Iran
+352,630,1930,10247,1,Pounds,Cyprus,Iran
+352,630,1931,1889,1,Pounds,Cyprus,Iran
+352,630,1932,2002,1,Pounds,Cyprus,Iran
+352,630,1933,2675,1,,Cyprus,Iran
+352,630,1934,5016,1,,Cyprus,Iran
+352,630,1935,3434,1,,Cyprus,Iran
+352,630,1936,9741,1,,Cyprus,Iran
+352,630,1937,8885,1,Pounds,Cyprus,Iran
+352,630,1938,10175,1,Pounds,Cyprus,Iran
+352,630,1939,31990,1,Pounds,Cyprus,Iran
+352,630,1940,47947,1,Pounds,Cyprus,Iran
+352,630,1941,1726,1,Pounds,Cyprus,Iran
+352,630,1942,2065,1,Pounds,Cyprus,Iran
+352,630,1943,5067,1,Pounds,Cyprus,Iran
+352,630,1944,6750,1,Pounds,Cyprus,Iran
+352,630,1945,5458,1,Pounds,Cyprus,Iran
+352,630,1946,4890,1,Pounds,Cyprus,Iran
+352,630,1947,6099,1,Pounds,Cyprus,Iran
+352,630,1948,342648,1,Pounds,Cyprus,Iran
+352,630,1949,509757,1,Pounds,Cyprus,Iran
+352,640,1919,778,1,Pounds,Cyprus,Turkey
+352,640,1920,19235,1,,Cyprus,Turkey
+352,640,1921,21472,1,,Cyprus,Turkey
+352,640,1922,45078,1,,Cyprus,Turkey
+352,640,1923,24633,1,,Cyprus,Turkey
+352,640,1924,22841,1,,Cyprus,Turkey
+352,640,1925,29030,1,,Cyprus,Turkey
+352,640,1926,32913,1,Pounds,Cyprus,Turkey
+352,640,1927,22897,1,Pounds,Cyprus,Turkey
+352,640,1928,25529,1,Pounds,Cyprus,Turkey
+352,640,1929,26034,1,Pounds,Cyprus,Turkey
+352,640,1930,21954,1,Pounds,Cyprus,Turkey
+352,640,1931,49747,1,Pounds,Cyprus,Turkey
+352,640,1932,87190,1,Pounds,Cyprus,Turkey
+352,640,1933,23067,1,,Cyprus,Turkey
+352,640,1934,20087,1,,Cyprus,Turkey
+352,640,1935,7444,1,,Cyprus,Turkey
+352,640,1936,4567,1,,Cyprus,Turkey
+352,640,1937,17779,1,Pounds,Cyprus,Turkey
+352,640,1938,8286,1,Pounds,Cyprus,Turkey
+352,640,1939,3474,1,Pounds,Cyprus,Turkey
+352,640,1940,58513,1,Pounds,Cyprus,Turkey
+352,640,1941,25103,1,Pounds,Cyprus,Turkey
+352,640,1942,31578,1,Pounds,Cyprus,Turkey
+352,640,1943,43818,1,Pounds,Cyprus,Turkey
+352,640,1944,20446,1,Pounds,Cyprus,Turkey
+352,640,1945,83631,1,Pounds,Cyprus,Turkey
+352,640,1946,326922,1,Pounds,Cyprus,Turkey
+352,640,1947,284522,1,Pounds,Cyprus,Turkey
+352,640,1948,64685,1,Pounds,Cyprus,Turkey
+352,640,1949,33890,1,Pounds,Cyprus,Turkey
+352,645,1919,0,1,Pounds,Cyprus,Iraq
+352,645,1920,3,1,,Cyprus,Iraq
+352,645,1921,0,1,,Cyprus,Iraq
+352,645,1922,0,1,,Cyprus,Iraq
+352,645,1923,0,1,,Cyprus,Iraq
+352,645,1924,0,1,,Cyprus,Iraq
+352,645,1925,0,1,,Cyprus,Iraq
+352,645,1926,132,1,Pounds,Cyprus,Iraq
+352,645,1927,2050,1,Pounds,Cyprus,Iraq
+352,645,1928,3036,1,Pounds,Cyprus,Iraq
+352,645,1929,432,1,Pounds,Cyprus,Iraq
+352,645,1930,464,1,Pounds,Cyprus,Iraq
+352,645,1931,932,1,Pounds,Cyprus,Iraq
+352,645,1932,95,1,Pounds,Cyprus,Iraq
+352,645,1933,0,1,,Cyprus,Iraq
+352,645,1934,0,1,,Cyprus,Iraq
+352,645,1935,0,1,,Cyprus,Iraq
+352,645,1936,0,1,,Cyprus,Iraq
+352,645,1937,29839,1,Pounds,Cyprus,Iraq
+352,645,1938,29393,1,Pounds,Cyprus,Iraq
+352,645,1939,4282,1,Pounds,Cyprus,Iraq
+352,645,1940,52623,1,Pounds,Cyprus,Iraq
+352,645,1941,9644,1,Pounds,Cyprus,Iraq
+352,645,1942,2476,1,Pounds,Cyprus,Iraq
+352,645,1943,2254,1,Pounds,Cyprus,Iraq
+352,645,1944,343844,1,Pounds,Cyprus,Iraq
+352,645,1945,449289,1,Pounds,Cyprus,Iraq
+352,645,1946,6464,1,Pounds,Cyprus,Iraq
+352,645,1947,269431,1,Pounds,Cyprus,Iraq
+352,645,1948,195738,1,Pounds,Cyprus,Iraq
+352,645,1949,1442,1,Pounds,Cyprus,Iraq
+352,651,1919,614724,1,Pounds,Cyprus,Egypt
+352,651,1920,449789,1,,Cyprus,Egypt
+352,651,1921,324817,1,,Cyprus,Egypt
+352,651,1922,249251,1,,Cyprus,Egypt
+352,651,1923,136131,1,,Cyprus,Egypt
+352,651,1924,78274,1,,Cyprus,Egypt
+352,651,1925,71703,1,,Cyprus,Egypt
+352,651,1926,58079,1,Pounds,Cyprus,Egypt
+352,651,1927,70943,1,Pounds,Cyprus,Egypt
+352,651,1928,76993,1,Pounds,Cyprus,Egypt
+352,651,1929,60083,1,Pounds,Cyprus,Egypt
+352,651,1930,51491,1,Pounds,Cyprus,Egypt
+352,651,1931,63182,1,Pounds,Cyprus,Egypt
+352,651,1932,65170,1,Pounds,Cyprus,Egypt
+352,651,1933,63961,1,,Cyprus,Egypt
+352,651,1934,68148,1,,Cyprus,Egypt
+352,651,1935,60655,1,,Cyprus,Egypt
+352,651,1936,48841,1,,Cyprus,Egypt
+352,651,1937,90124,1,Pounds,Cyprus,Egypt
+352,651,1938,47937,1,Pounds,Cyprus,Egypt
+352,651,1939,59794,1,Pounds,Cyprus,Egypt
+352,651,1940,260954,1,Pounds,Cyprus,Egypt
+352,651,1941,534824,1,Pounds,Cyprus,Egypt
+352,651,1942,236673,1,Pounds,Cyprus,Egypt
+352,651,1943,160020,1,Pounds,Cyprus,Egypt
+352,651,1944,450927,1,Pounds,Cyprus,Egypt
+352,651,1945,660703,1,Pounds,Cyprus,Egypt
+352,651,1946,570602,1,Pounds,Cyprus,Egypt
+352,651,1947,547288,1,Pounds,Cyprus,Egypt
+352,651,1948,535026,1,Pounds,Cyprus,Egypt
+352,651,1949,194541,1,Pounds,Cyprus,Egypt
+352,652,1919,21009,1,Pounds,Cyprus,Syria
+352,652,1920,17448,1,,Cyprus,Syria
+352,652,1921,11688,1,,Cyprus,Syria
+352,652,1922,0,1,,Cyprus,Syria
+352,652,1923,0,1,,Cyprus,Syria
+352,652,1924,0,1,,Cyprus,Syria
+352,652,1925,0,1,,Cyprus,Syria
+352,652,1926,23400,1,Pounds,Cyprus,Syria
+352,652,1927,11895,1,Pounds,Cyprus,Syria
+352,652,1928,11288,1,Pounds,Cyprus,Syria
+352,652,1929,13464,1,Pounds,Cyprus,Syria
+352,652,1930,16404,1,Pounds,Cyprus,Syria
+352,652,1931,11068,1,Pounds,Cyprus,Syria
+352,652,1932,10170,1,Pounds,Cyprus,Syria
+352,652,1933,5912,1,,Cyprus,Syria
+352,652,1934,4247,1,,Cyprus,Syria
+352,652,1935,4937,1,,Cyprus,Syria
+352,652,1936,48678,1,,Cyprus,Syria
+352,652,1937,44487,1,Pounds,Cyprus,Syria
+352,652,1938,31503,1,Pounds,Cyprus,Syria
+352,652,1939,24811,1,Pounds,Cyprus,Syria
+352,652,1940,8214,1,Pounds,Cyprus,Syria
+352,652,1941,3067,1,Pounds,Cyprus,Syria
+352,652,1942,3994,1,Pounds,Cyprus,Syria
+352,652,1943,228518,1,Pounds,Cyprus,Syria
+352,652,1944,512721,1,Pounds,Cyprus,Syria
+352,652,1945,119033,1,Pounds,Cyprus,Syria
+352,652,1946,32471,1,Pounds,Cyprus,Syria
+352,652,1947,79619,1,Pounds,Cyprus,Syria
+352,652,1948,15815,1,Pounds,Cyprus,Syria
+352,652,1949,8733,1,Pounds,Cyprus,Syria
+352,660,1919,0,1,Pounds,Cyprus,Lebanon
+352,660,1920,0,1,,Cyprus,Lebanon
+352,660,1921,0,1,,Cyprus,Lebanon
+352,660,1922,0,1,,Cyprus,Lebanon
+352,660,1923,0,1,,Cyprus,Lebanon
+352,660,1924,0,1,,Cyprus,Lebanon
+352,660,1925,0,1,,Cyprus,Lebanon
+352,660,1926,0,1,Pounds,Cyprus,Lebanon
+352,660,1927,0,1,Pounds,Cyprus,Lebanon
+352,660,1928,0,1,Pounds,Cyprus,Lebanon
+352,660,1929,0,1,Pounds,Cyprus,Lebanon
+352,660,1930,0,1,Pounds,Cyprus,Lebanon
+352,660,1931,0,1,Pounds,Cyprus,Lebanon
+352,660,1932,0,1,Pounds,Cyprus,Lebanon
+352,660,1933,0,1,,Cyprus,Lebanon
+352,660,1934,0,1,,Cyprus,Lebanon
+352,660,1935,0,1,,Cyprus,Lebanon
+352,660,1936,0,1,,Cyprus,Lebanon
+352,660,1937,0,1,Pounds,Cyprus,Lebanon
+352,660,1938,0,1,Pounds,Cyprus,Lebanon
+352,660,1939,0,1,Pounds,Cyprus,Lebanon
+352,660,1940,0,1,Pounds,Cyprus,Lebanon
+352,660,1941,0,1,Pounds,Cyprus,Lebanon
+352,660,1942,0,1,Pounds,Cyprus,Lebanon
+352,660,1943,0,1,Pounds,Cyprus,Lebanon
+352,660,1944,0,1,Pounds,Cyprus,Lebanon
+352,660,1945,0,1,Pounds,Cyprus,Lebanon
+352,660,1946,26191,1,Pounds,Cyprus,Lebanon
+352,660,1947,59952,1,Pounds,Cyprus,Lebanon
+352,660,1948,45723,1,Pounds,Cyprus,Lebanon
+352,660,1949,23713,1,Pounds,Cyprus,Lebanon
+352,663,1919,0,1,Pounds,Cyprus,Jordan
+352,663,1920,0,1,,Cyprus,Jordan
+352,663,1921,0,1,,Cyprus,Jordan
+352,663,1922,0,1,,Cyprus,Jordan
+352,663,1923,0,1,,Cyprus,Jordan
+352,663,1924,0,1,,Cyprus,Jordan
+352,663,1925,0,1,,Cyprus,Jordan
+352,663,1926,0,1,Pounds,Cyprus,Jordan
+352,663,1927,0,1,Pounds,Cyprus,Jordan
+352,663,1928,0,1,Pounds,Cyprus,Jordan
+352,663,1929,0,1,Pounds,Cyprus,Jordan
+352,663,1930,0,1,Pounds,Cyprus,Jordan
+352,663,1931,0,1,Pounds,Cyprus,Jordan
+352,663,1932,0,1,Pounds,Cyprus,Jordan
+352,663,1933,0,1,,Cyprus,Jordan
+352,663,1934,0,1,,Cyprus,Jordan
+352,663,1935,0,1,,Cyprus,Jordan
+352,663,1936,0,1,,Cyprus,Jordan
+352,663,1937,0,1,Pounds,Cyprus,Jordan
+352,663,1938,0,1,Pounds,Cyprus,Jordan
+352,663,1939,0,1,Pounds,Cyprus,Jordan
+352,663,1940,0,1,Pounds,Cyprus,Jordan
+352,663,1941,0,1,Pounds,Cyprus,Jordan
+352,663,1942,0,1,Pounds,Cyprus,Jordan
+352,663,1943,0,1,Pounds,Cyprus,Jordan
+352,663,1944,0,1,Pounds,Cyprus,Jordan
+352,663,1945,0,1,Pounds,Cyprus,Jordan
+352,663,1946,2,1,Pounds,Cyprus,Jordan
+352,663,1947,0,1,Pounds,Cyprus,Jordan
+352,663,1948,8,1,Pounds,Cyprus,Jordan
+352,663,1949,2,1,Pounds,Cyprus,Jordan
+352,665,1919,67,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1920,778,1,,Cyprus,West Bank And Gaza
+352,665,1921,0,1,,Cyprus,West Bank And Gaza
+352,665,1922,0,1,,Cyprus,West Bank And Gaza
+352,665,1923,0,1,,Cyprus,West Bank And Gaza
+352,665,1924,0,1,,Cyprus,West Bank And Gaza
+352,665,1925,0,1,,Cyprus,West Bank And Gaza
+352,665,1926,955,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1927,1976,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1928,2061,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1929,4635,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1930,6502,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1931,3901,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1932,5701,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1933,4980,1,,Cyprus,West Bank And Gaza
+352,665,1934,4222,1,,Cyprus,West Bank And Gaza
+352,665,1935,6545,1,,Cyprus,West Bank And Gaza
+352,665,1936,5542,1,,Cyprus,West Bank And Gaza
+352,665,1937,11488,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1938,28047,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1939,18320,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1940,49428,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1941,209890,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1942,326564,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1943,584769,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1944,788165,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1945,592504,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1946,869756,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1947,1101546,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1948,518191,1,Pounds,Cyprus,West Bank And Gaza
+352,665,1949,53749,1,Pounds,Cyprus,West Bank And Gaza
+352,666,1919,0,1,Pounds,Cyprus,Israel
+352,666,1920,0,1,,Cyprus,Israel
+352,666,1921,0,1,,Cyprus,Israel
+352,666,1922,0,1,,Cyprus,Israel
+352,666,1923,0,1,,Cyprus,Israel
+352,666,1924,0,1,,Cyprus,Israel
+352,666,1925,0,1,,Cyprus,Israel
+352,666,1926,0,1,Pounds,Cyprus,Israel
+352,666,1927,0,1,Pounds,Cyprus,Israel
+352,666,1928,0,1,Pounds,Cyprus,Israel
+352,666,1929,0,1,Pounds,Cyprus,Israel
+352,666,1930,0,1,Pounds,Cyprus,Israel
+352,666,1931,0,1,Pounds,Cyprus,Israel
+352,666,1932,0,1,Pounds,Cyprus,Israel
+352,666,1933,0,1,,Cyprus,Israel
+352,666,1934,0,1,,Cyprus,Israel
+352,666,1935,0,1,,Cyprus,Israel
+352,666,1936,0,1,,Cyprus,Israel
+352,666,1937,0,1,Pounds,Cyprus,Israel
+352,666,1938,0,1,Pounds,Cyprus,Israel
+352,666,1939,0,1,Pounds,Cyprus,Israel
+352,666,1940,0,1,Pounds,Cyprus,Israel
+352,666,1941,0,1,Pounds,Cyprus,Israel
+352,666,1942,0,1,Pounds,Cyprus,Israel
+352,666,1943,0,1,Pounds,Cyprus,Israel
+352,666,1944,0,1,Pounds,Cyprus,Israel
+352,666,1945,0,1,Pounds,Cyprus,Israel
+352,666,1946,0,1,Pounds,Cyprus,Israel
+352,666,1947,0,1,Pounds,Cyprus,Israel
+352,666,1948,0,1,Pounds,Cyprus,Israel
+352,666,1949,0,1,Pounds,Cyprus,Israel
+352,675,1919,0,1,Pounds,Cyprus,Arabia
+352,675,1920,0,1,,Cyprus,Arabia
+352,675,1921,0,1,,Cyprus,Arabia
+352,675,1922,0,1,,Cyprus,Arabia
+352,675,1923,0,1,,Cyprus,Arabia
+352,675,1924,0,1,,Cyprus,Arabia
+352,675,1925,0,1,,Cyprus,Arabia
+352,675,1926,0,1,Pounds,Cyprus,Arabia
+352,675,1927,3,1,Pounds,Cyprus,Arabia
+352,675,1928,0,1,Pounds,Cyprus,Arabia
+352,675,1929,5,1,Pounds,Cyprus,Arabia
+352,675,1930,24,1,Pounds,Cyprus,Arabia
+352,675,1931,68,1,Pounds,Cyprus,Arabia
+352,675,1932,0,1,Pounds,Cyprus,Arabia
+352,675,1933,0,1,,Cyprus,Arabia
+352,675,1934,0,1,,Cyprus,Arabia
+352,675,1935,0,1,,Cyprus,Arabia
+352,675,1936,0,1,,Cyprus,Arabia
+352,675,1937,19,1,Pounds,Cyprus,Arabia
+352,675,1938,36,1,Pounds,Cyprus,Arabia
+352,675,1939,0,1,Pounds,Cyprus,Arabia
+352,675,1940,0,1,Pounds,Cyprus,Arabia
+352,675,1941,0,1,Pounds,Cyprus,Arabia
+352,675,1942,0,1,Pounds,Cyprus,Arabia
+352,675,1943,0,1,Pounds,Cyprus,Arabia
+352,675,1944,0,1,Pounds,Cyprus,Arabia
+352,675,1945,0,1,Pounds,Cyprus,Arabia
+352,675,1946,0,1,Pounds,Cyprus,Arabia
+352,675,1947,9841,1,Pounds,Cyprus,Arabia
+352,675,1948,59199,1,Pounds,Cyprus,Arabia
+352,675,1949,279334,1,Pounds,Cyprus,Arabia
+352,681,1919,0,1,Pounds,Cyprus,Aden
+352,681,1920,0,1,,Cyprus,Aden
+352,681,1921,6,1,,Cyprus,Aden
+352,681,1922,0,1,,Cyprus,Aden
+352,681,1923,0,1,,Cyprus,Aden
+352,681,1924,0,1,,Cyprus,Aden
+352,681,1925,0,1,,Cyprus,Aden
+352,681,1926,0,1,Pounds,Cyprus,Aden
+352,681,1927,0,1,Pounds,Cyprus,Aden
+352,681,1928,0,1,Pounds,Cyprus,Aden
+352,681,1929,0,1,Pounds,Cyprus,Aden
+352,681,1930,0,1,Pounds,Cyprus,Aden
+352,681,1931,0,1,Pounds,Cyprus,Aden
+352,681,1932,0,1,Pounds,Cyprus,Aden
+352,681,1933,0,1,,Cyprus,Aden
+352,681,1934,0,1,,Cyprus,Aden
+352,681,1935,0,1,,Cyprus,Aden
+352,681,1936,0,1,,Cyprus,Aden
+352,681,1937,0,1,Pounds,Cyprus,Aden
+352,681,1938,5,1,Pounds,Cyprus,Aden
+352,681,1939,6,1,Pounds,Cyprus,Aden
+352,681,1940,0,1,Pounds,Cyprus,Aden
+352,681,1941,0,1,Pounds,Cyprus,Aden
+352,681,1942,0,1,Pounds,Cyprus,Aden
+352,681,1943,0,1,Pounds,Cyprus,Aden
+352,681,1944,2641,1,Pounds,Cyprus,Aden
+352,681,1945,5317,1,Pounds,Cyprus,Aden
+352,681,1946,8485,1,Pounds,Cyprus,Aden
+352,681,1947,131655,1,Pounds,Cyprus,Aden
+352,681,1948,47791,1,Pounds,Cyprus,Aden
+352,681,1949,12292,1,Pounds,Cyprus,Aden
+352,690,1919,0,1,Pounds,Cyprus,Kuwait
+352,690,1920,0,1,,Cyprus,Kuwait
+352,690,1921,0,1,,Cyprus,Kuwait
+352,690,1922,0,1,,Cyprus,Kuwait
+352,690,1923,0,1,,Cyprus,Kuwait
+352,690,1924,0,1,,Cyprus,Kuwait
+352,690,1925,0,1,,Cyprus,Kuwait
+352,690,1926,0,1,Pounds,Cyprus,Kuwait
+352,690,1927,0,1,Pounds,Cyprus,Kuwait
+352,690,1928,0,1,Pounds,Cyprus,Kuwait
+352,690,1929,0,1,Pounds,Cyprus,Kuwait
+352,690,1930,0,1,Pounds,Cyprus,Kuwait
+352,690,1931,0,1,Pounds,Cyprus,Kuwait
+352,690,1932,0,1,Pounds,Cyprus,Kuwait
+352,690,1933,0,1,,Cyprus,Kuwait
+352,690,1934,0,1,,Cyprus,Kuwait
+352,690,1935,0,1,,Cyprus,Kuwait
+352,690,1936,0,1,,Cyprus,Kuwait
+352,690,1937,0,1,Pounds,Cyprus,Kuwait
+352,690,1938,0,1,Pounds,Cyprus,Kuwait
+352,690,1939,0,1,Pounds,Cyprus,Kuwait
+352,690,1940,0,1,Pounds,Cyprus,Kuwait
+352,690,1941,0,1,Pounds,Cyprus,Kuwait
+352,690,1942,0,1,Pounds,Cyprus,Kuwait
+352,690,1943,0,1,Pounds,Cyprus,Kuwait
+352,690,1944,0,1,Pounds,Cyprus,Kuwait
+352,690,1945,0,1,Pounds,Cyprus,Kuwait
+352,690,1946,0,1,Pounds,Cyprus,Kuwait
+352,690,1947,0,1,Pounds,Cyprus,Kuwait
+352,690,1948,0,1,Pounds,Cyprus,Kuwait
+352,690,1949,45,1,Pounds,Cyprus,Kuwait
+352,692,1919,0,1,Pounds,Cyprus,Bahrain
+352,692,1920,0,1,,Cyprus,Bahrain
+352,692,1921,0,1,,Cyprus,Bahrain
+352,692,1922,0,1,,Cyprus,Bahrain
+352,692,1923,0,1,,Cyprus,Bahrain
+352,692,1924,0,1,,Cyprus,Bahrain
+352,692,1925,0,1,,Cyprus,Bahrain
+352,692,1926,0,1,Pounds,Cyprus,Bahrain
+352,692,1927,0,1,Pounds,Cyprus,Bahrain
+352,692,1928,0,1,Pounds,Cyprus,Bahrain
+352,692,1929,0,1,Pounds,Cyprus,Bahrain
+352,692,1930,0,1,Pounds,Cyprus,Bahrain
+352,692,1931,0,1,Pounds,Cyprus,Bahrain
+352,692,1932,0,1,Pounds,Cyprus,Bahrain
+352,692,1933,0,1,,Cyprus,Bahrain
+352,692,1934,0,1,,Cyprus,Bahrain
+352,692,1935,0,1,,Cyprus,Bahrain
+352,692,1936,0,1,,Cyprus,Bahrain
+352,692,1937,0,1,Pounds,Cyprus,Bahrain
+352,692,1938,0,1,Pounds,Cyprus,Bahrain
+352,692,1939,0,1,Pounds,Cyprus,Bahrain
+352,692,1940,0,1,Pounds,Cyprus,Bahrain
+352,692,1941,0,1,Pounds,Cyprus,Bahrain
+352,692,1942,0,1,Pounds,Cyprus,Bahrain
+352,692,1943,0,1,Pounds,Cyprus,Bahrain
+352,692,1944,0,1,Pounds,Cyprus,Bahrain
+352,692,1945,0,1,Pounds,Cyprus,Bahrain
+352,692,1946,4603,1,Pounds,Cyprus,Bahrain
+352,692,1947,0,1,Pounds,Cyprus,Bahrain
+352,692,1948,0,1,Pounds,Cyprus,Bahrain
+352,692,1949,0,1,Pounds,Cyprus,Bahrain
+352,710,1919,7764,1,Pounds,Cyprus,China
+352,710,1920,12465,1,,Cyprus,China
+352,710,1921,35618,1,,Cyprus,China
+352,710,1922,0,1,,Cyprus,China
+352,710,1923,0,1,,Cyprus,China
+352,710,1924,0,1,,Cyprus,China
+352,710,1925,0,1,,Cyprus,China
+352,710,1926,4765,1,Pounds,Cyprus,China
+352,710,1927,1737,1,Pounds,Cyprus,China
+352,710,1928,2175,1,Pounds,Cyprus,China
+352,710,1929,1055,1,Pounds,Cyprus,China
+352,710,1930,1270,1,Pounds,Cyprus,China
+352,710,1931,1602,1,Pounds,Cyprus,China
+352,710,1932,1082,1,Pounds,Cyprus,China
+352,710,1933,0,1,,Cyprus,China
+352,710,1934,0,1,,Cyprus,China
+352,710,1935,0,1,,Cyprus,China
+352,710,1936,0,1,,Cyprus,China
+352,710,1937,6135,1,Pounds,Cyprus,China
+352,710,1938,4817,1,Pounds,Cyprus,China
+352,710,1939,3924,1,Pounds,Cyprus,China
+352,710,1940,4504,1,Pounds,Cyprus,China
+352,710,1941,1945,1,Pounds,Cyprus,China
+352,710,1942,652,1,Pounds,Cyprus,China
+352,710,1943,99,1,Pounds,Cyprus,China
+352,710,1944,0,1,Pounds,Cyprus,China
+352,710,1945,0,1,Pounds,Cyprus,China
+352,710,1946,5178,1,Pounds,Cyprus,China
+352,710,1947,14576,1,Pounds,Cyprus,China
+352,710,1948,24537,1,Pounds,Cyprus,China
+352,710,1949,2335,1,Pounds,Cyprus,China
+352,720,1919,40,1,Pounds,Cyprus,Hong Kong
+352,720,1920,3,1,,Cyprus,Hong Kong
+352,720,1921,553,1,,Cyprus,Hong Kong
+352,720,1922,0,1,,Cyprus,Hong Kong
+352,720,1923,0,1,,Cyprus,Hong Kong
+352,720,1924,0,1,,Cyprus,Hong Kong
+352,720,1925,0,1,,Cyprus,Hong Kong
+352,720,1926,0,1,Pounds,Cyprus,Hong Kong
+352,720,1927,0,1,Pounds,Cyprus,Hong Kong
+352,720,1928,0,1,Pounds,Cyprus,Hong Kong
+352,720,1929,0,1,Pounds,Cyprus,Hong Kong
+352,720,1930,0,1,Pounds,Cyprus,Hong Kong
+352,720,1931,0,1,Pounds,Cyprus,Hong Kong
+352,720,1932,0,1,Pounds,Cyprus,Hong Kong
+352,720,1933,41,1,,Cyprus,Hong Kong
+352,720,1934,0,1,,Cyprus,Hong Kong
+352,720,1935,61,1,,Cyprus,Hong Kong
+352,720,1936,442,1,,Cyprus,Hong Kong
+352,720,1937,7106,1,Pounds,Cyprus,Hong Kong
+352,720,1938,10176,1,Pounds,Cyprus,Hong Kong
+352,720,1939,9244,1,Pounds,Cyprus,Hong Kong
+352,720,1940,9669,1,Pounds,Cyprus,Hong Kong
+352,720,1941,2654,1,Pounds,Cyprus,Hong Kong
+352,720,1942,3191,1,Pounds,Cyprus,Hong Kong
+352,720,1943,2392,1,Pounds,Cyprus,Hong Kong
+352,720,1944,0,1,Pounds,Cyprus,Hong Kong
+352,720,1945,0,1,Pounds,Cyprus,Hong Kong
+352,720,1946,811,1,Pounds,Cyprus,Hong Kong
+352,720,1947,53895,1,Pounds,Cyprus,Hong Kong
+352,720,1948,54605,1,Pounds,Cyprus,Hong Kong
+352,720,1949,57443,1,Pounds,Cyprus,Hong Kong
+352,730,1919,0,1,Pounds,Cyprus,Korea
+352,730,1920,0,1,,Cyprus,Korea
+352,730,1921,0,1,,Cyprus,Korea
+352,730,1922,0,1,,Cyprus,Korea
+352,730,1923,0,1,,Cyprus,Korea
+352,730,1924,0,1,,Cyprus,Korea
+352,730,1925,0,1,,Cyprus,Korea
+352,730,1926,0,1,Pounds,Cyprus,Korea
+352,730,1927,0,1,Pounds,Cyprus,Korea
+352,730,1928,0,1,Pounds,Cyprus,Korea
+352,730,1929,0,1,Pounds,Cyprus,Korea
+352,730,1930,0,1,Pounds,Cyprus,Korea
+352,730,1931,0,1,Pounds,Cyprus,Korea
+352,730,1932,0,1,Pounds,Cyprus,Korea
+352,730,1933,0,1,,Cyprus,Korea
+352,730,1934,0,1,,Cyprus,Korea
+352,730,1935,0,1,,Cyprus,Korea
+352,730,1936,0,1,,Cyprus,Korea
+352,730,1937,0,1,Pounds,Cyprus,Korea
+352,730,1938,0,1,Pounds,Cyprus,Korea
+352,730,1939,0,1,Pounds,Cyprus,Korea
+352,730,1940,0,1,Pounds,Cyprus,Korea
+352,730,1941,0,1,Pounds,Cyprus,Korea
+352,730,1942,0,1,Pounds,Cyprus,Korea
+352,730,1943,0,1,Pounds,Cyprus,Korea
+352,730,1944,0,1,Pounds,Cyprus,Korea
+352,730,1945,0,1,Pounds,Cyprus,Korea
+352,730,1946,0,1,Pounds,Cyprus,Korea
+352,730,1947,0,1,Pounds,Cyprus,Korea
+352,730,1948,0,1,Pounds,Cyprus,Korea
+352,730,1949,5620,1,Pounds,Cyprus,Korea
+352,740,1919,10719,1,Pounds,Cyprus,Japan
+352,740,1920,3143,1,,Cyprus,Japan
+352,740,1921,2313,1,,Cyprus,Japan
+352,740,1922,0,1,,Cyprus,Japan
+352,740,1923,0,1,,Cyprus,Japan
+352,740,1924,0,1,,Cyprus,Japan
+352,740,1925,0,1,,Cyprus,Japan
+352,740,1926,6466,1,Pounds,Cyprus,Japan
+352,740,1927,8834,1,Pounds,Cyprus,Japan
+352,740,1928,13145,1,Pounds,Cyprus,Japan
+352,740,1929,17660,1,Pounds,Cyprus,Japan
+352,740,1930,22386,1,Pounds,Cyprus,Japan
+352,740,1931,35133,1,Pounds,Cyprus,Japan
+352,740,1932,45138,1,Pounds,Cyprus,Japan
+352,740,1933,64628,1,,Cyprus,Japan
+352,740,1934,79239,1,,Cyprus,Japan
+352,740,1935,71047,1,,Cyprus,Japan
+352,740,1936,70354,1,,Cyprus,Japan
+352,740,1937,52149,1,Pounds,Cyprus,Japan
+352,740,1938,45520,1,Pounds,Cyprus,Japan
+352,740,1939,30778,1,Pounds,Cyprus,Japan
+352,740,1940,13690,1,Pounds,Cyprus,Japan
+352,740,1941,5643,1,Pounds,Cyprus,Japan
+352,740,1942,18,1,Pounds,Cyprus,Japan
+352,740,1943,0,1,Pounds,Cyprus,Japan
+352,740,1944,15,1,Pounds,Cyprus,Japan
+352,740,1945,0,1,Pounds,Cyprus,Japan
+352,740,1946,3,1,Pounds,Cyprus,Japan
+352,740,1947,14,1,Pounds,Cyprus,Japan
+352,740,1948,10987,1,Pounds,Cyprus,Japan
+352,740,1949,32415,1,Pounds,Cyprus,Japan
+352,750,1919,69439,1,Pounds,Cyprus,India
+352,750,1920,47332,1,,Cyprus,India
+352,750,1921,35647,1,,Cyprus,India
+352,750,1922,28990,1,,Cyprus,India
+352,750,1923,33361,1,,Cyprus,India
+352,750,1924,60462,1,,Cyprus,India
+352,750,1925,72261,1,,Cyprus,India
+352,750,1926,74970,1,Pounds,Cyprus,India
+352,750,1927,70146,1,Pounds,Cyprus,India
+352,750,1928,49960,1,Pounds,Cyprus,India
+352,750,1929,70048,1,Pounds,Cyprus,India
+352,750,1930,30253,1,Pounds,Cyprus,India
+352,750,1931,31012,1,Pounds,Cyprus,India
+352,750,1932,23712,1,Pounds,Cyprus,India
+352,750,1933,26287,1,,Cyprus,India
+352,750,1934,36720,1,,Cyprus,India
+352,750,1935,57464,1,,Cyprus,India
+352,750,1936,66106,1,,Cyprus,India
+352,750,1937,147669,1,Pounds,Cyprus,India
+352,750,1938,121342,1,Pounds,Cyprus,India
+352,750,1939,56778,1,Pounds,Cyprus,India
+352,750,1940,113221,1,Pounds,Cyprus,India
+352,750,1941,351564,1,Pounds,Cyprus,India
+352,750,1942,384384,1,Pounds,Cyprus,India
+352,750,1943,410588,1,Pounds,Cyprus,India
+352,750,1944,352649,1,Pounds,Cyprus,India
+352,750,1945,225550,1,Pounds,Cyprus,India
+352,750,1946,188084,1,Pounds,Cyprus,India
+352,750,1947,306469,1,Pounds,Cyprus,India
+352,750,1948,188650,1,Pounds,Cyprus,India
+352,750,1949,220879,1,Pounds,Cyprus,India
+352,770,1919,0,1,Pounds,Cyprus,Pakistan
+352,770,1920,0,1,,Cyprus,Pakistan
+352,770,1921,7450,1,,Cyprus,Pakistan
+352,770,1922,0,1,,Cyprus,Pakistan
+352,770,1923,0,1,,Cyprus,Pakistan
+352,770,1924,0,1,,Cyprus,Pakistan
+352,770,1925,0,1,,Cyprus,Pakistan
+352,770,1926,0,1,Pounds,Cyprus,Pakistan
+352,770,1927,0,1,Pounds,Cyprus,Pakistan
+352,770,1928,0,1,Pounds,Cyprus,Pakistan
+352,770,1929,0,1,Pounds,Cyprus,Pakistan
+352,770,1930,0,1,Pounds,Cyprus,Pakistan
+352,770,1931,0,1,Pounds,Cyprus,Pakistan
+352,770,1932,0,1,Pounds,Cyprus,Pakistan
+352,770,1933,0,1,,Cyprus,Pakistan
+352,770,1934,0,1,,Cyprus,Pakistan
+352,770,1935,0,1,,Cyprus,Pakistan
+352,770,1936,0,1,,Cyprus,Pakistan
+352,770,1937,0,1,Pounds,Cyprus,Pakistan
+352,770,1938,0,1,Pounds,Cyprus,Pakistan
+352,770,1939,0,1,Pounds,Cyprus,Pakistan
+352,770,1940,0,1,Pounds,Cyprus,Pakistan
+352,770,1941,0,1,Pounds,Cyprus,Pakistan
+352,770,1942,0,1,Pounds,Cyprus,Pakistan
+352,770,1943,0,1,Pounds,Cyprus,Pakistan
+352,770,1944,0,1,Pounds,Cyprus,Pakistan
+352,770,1945,0,1,Pounds,Cyprus,Pakistan
+352,770,1946,0,1,Pounds,Cyprus,Pakistan
+352,770,1947,0,1,Pounds,Cyprus,Pakistan
+352,770,1948,0,1,Pounds,Cyprus,Pakistan
+352,770,1949,0,1,Pounds,Cyprus,Pakistan
+352,775,1919,0,1,Pounds,Cyprus,Myanmar
+352,775,1920,0,1,,Cyprus,Myanmar
+352,775,1921,0,1,,Cyprus,Myanmar
+352,775,1922,0,1,,Cyprus,Myanmar
+352,775,1923,0,1,,Cyprus,Myanmar
+352,775,1924,0,1,,Cyprus,Myanmar
+352,775,1925,0,1,,Cyprus,Myanmar
+352,775,1926,0,1,Pounds,Cyprus,Myanmar
+352,775,1927,0,1,Pounds,Cyprus,Myanmar
+352,775,1928,0,1,Pounds,Cyprus,Myanmar
+352,775,1929,0,1,Pounds,Cyprus,Myanmar
+352,775,1930,0,1,Pounds,Cyprus,Myanmar
+352,775,1931,0,1,Pounds,Cyprus,Myanmar
+352,775,1932,0,1,Pounds,Cyprus,Myanmar
+352,775,1933,0,1,,Cyprus,Myanmar
+352,775,1934,0,1,,Cyprus,Myanmar
+352,775,1935,0,1,,Cyprus,Myanmar
+352,775,1936,0,1,,Cyprus,Myanmar
+352,775,1937,0,1,Pounds,Cyprus,Myanmar
+352,775,1938,8448,1,Pounds,Cyprus,Myanmar
+352,775,1939,6881,1,Pounds,Cyprus,Myanmar
+352,775,1940,3676,1,Pounds,Cyprus,Myanmar
+352,775,1941,3401,1,Pounds,Cyprus,Myanmar
+352,775,1942,1,1,Pounds,Cyprus,Myanmar
+352,775,1943,0,1,Pounds,Cyprus,Myanmar
+352,775,1944,0,1,Pounds,Cyprus,Myanmar
+352,775,1945,0,1,Pounds,Cyprus,Myanmar
+352,775,1946,0,1,Pounds,Cyprus,Myanmar
+352,775,1947,0,1,Pounds,Cyprus,Myanmar
+352,775,1948,80,1,Pounds,Cyprus,Myanmar
+352,775,1949,0,1,Pounds,Cyprus,Myanmar
+352,780,1919,408,1,Pounds,Cyprus,Sri Lanka
+352,780,1920,393,1,,Cyprus,Sri Lanka
+352,780,1921,213,1,,Cyprus,Sri Lanka
+352,780,1922,0,1,,Cyprus,Sri Lanka
+352,780,1923,0,1,,Cyprus,Sri Lanka
+352,780,1924,0,1,,Cyprus,Sri Lanka
+352,780,1925,0,1,,Cyprus,Sri Lanka
+352,780,1926,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1927,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1928,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1929,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1930,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1931,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1932,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1933,0,1,,Cyprus,Sri Lanka
+352,780,1934,0,1,,Cyprus,Sri Lanka
+352,780,1935,0,1,,Cyprus,Sri Lanka
+352,780,1936,0,1,,Cyprus,Sri Lanka
+352,780,1937,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1938,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1939,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1940,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1941,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1942,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1943,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1944,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1945,0,1,Pounds,Cyprus,Sri Lanka
+352,780,1946,11887,1,Pounds,Cyprus,Sri Lanka
+352,780,1947,65999,1,Pounds,Cyprus,Sri Lanka
+352,780,1948,74940,1,Pounds,Cyprus,Sri Lanka
+352,780,1949,39111,1,Pounds,Cyprus,Sri Lanka
+352,800,1919,0,1,Pounds,Cyprus,Thailand
+352,800,1920,0,1,,Cyprus,Thailand
+352,800,1921,0,1,,Cyprus,Thailand
+352,800,1922,0,1,,Cyprus,Thailand
+352,800,1923,0,1,,Cyprus,Thailand
+352,800,1924,0,1,,Cyprus,Thailand
+352,800,1925,0,1,,Cyprus,Thailand
+352,800,1926,0,1,Pounds,Cyprus,Thailand
+352,800,1927,0,1,Pounds,Cyprus,Thailand
+352,800,1928,0,1,Pounds,Cyprus,Thailand
+352,800,1929,0,1,Pounds,Cyprus,Thailand
+352,800,1930,0,1,Pounds,Cyprus,Thailand
+352,800,1931,0,1,Pounds,Cyprus,Thailand
+352,800,1932,61,1,Pounds,Cyprus,Thailand
+352,800,1933,0,1,,Cyprus,Thailand
+352,800,1934,0,1,,Cyprus,Thailand
+352,800,1935,0,1,,Cyprus,Thailand
+352,800,1936,0,1,,Cyprus,Thailand
+352,800,1937,2513,1,Pounds,Cyprus,Thailand
+352,800,1938,5878,1,Pounds,Cyprus,Thailand
+352,800,1939,8692,1,Pounds,Cyprus,Thailand
+352,800,1940,0,1,Pounds,Cyprus,Thailand
+352,800,1941,0,1,Pounds,Cyprus,Thailand
+352,800,1942,0,1,Pounds,Cyprus,Thailand
+352,800,1943,0,1,Pounds,Cyprus,Thailand
+352,800,1944,0,1,Pounds,Cyprus,Thailand
+352,800,1945,0,1,Pounds,Cyprus,Thailand
+352,800,1946,0,1,Pounds,Cyprus,Thailand
+352,800,1947,29153,1,Pounds,Cyprus,Thailand
+352,800,1948,9390,1,Pounds,Cyprus,Thailand
+352,800,1949,0,1,Pounds,Cyprus,Thailand
+352,820,1919,0,1,Pounds,Cyprus,Malaysia
+352,820,1920,0,1,,Cyprus,Malaysia
+352,820,1921,0,1,,Cyprus,Malaysia
+352,820,1922,0,1,,Cyprus,Malaysia
+352,820,1923,0,1,,Cyprus,Malaysia
+352,820,1924,0,1,,Cyprus,Malaysia
+352,820,1925,0,1,,Cyprus,Malaysia
+352,820,1926,0,1,Pounds,Cyprus,Malaysia
+352,820,1927,0,1,Pounds,Cyprus,Malaysia
+352,820,1928,0,1,Pounds,Cyprus,Malaysia
+352,820,1929,0,1,Pounds,Cyprus,Malaysia
+352,820,1930,0,1,Pounds,Cyprus,Malaysia
+352,820,1931,0,1,Pounds,Cyprus,Malaysia
+352,820,1932,0,1,Pounds,Cyprus,Malaysia
+352,820,1933,0,1,,Cyprus,Malaysia
+352,820,1934,0,1,,Cyprus,Malaysia
+352,820,1935,0,1,,Cyprus,Malaysia
+352,820,1936,0,1,,Cyprus,Malaysia
+352,820,1937,0,1,Pounds,Cyprus,Malaysia
+352,820,1938,0,1,Pounds,Cyprus,Malaysia
+352,820,1939,0,1,Pounds,Cyprus,Malaysia
+352,820,1940,0,1,Pounds,Cyprus,Malaysia
+352,820,1941,0,1,Pounds,Cyprus,Malaysia
+352,820,1942,0,1,Pounds,Cyprus,Malaysia
+352,820,1943,0,1,Pounds,Cyprus,Malaysia
+352,820,1944,0,1,Pounds,Cyprus,Malaysia
+352,820,1945,0,1,Pounds,Cyprus,Malaysia
+352,820,1946,0,1,Pounds,Cyprus,Malaysia
+352,820,1947,3978,1,Pounds,Cyprus,Malaysia
+352,820,1948,8892,1,Pounds,Cyprus,Malaysia
+352,820,1949,9535,1,Pounds,Cyprus,Malaysia
+352,823,1919,0,1,Pounds,Cyprus,British Borneo
+352,823,1920,0,1,,Cyprus,British Borneo
+352,823,1921,0,1,,Cyprus,British Borneo
+352,823,1922,0,1,,Cyprus,British Borneo
+352,823,1923,0,1,,Cyprus,British Borneo
+352,823,1924,0,1,,Cyprus,British Borneo
+352,823,1925,0,1,,Cyprus,British Borneo
+352,823,1926,0,1,Pounds,Cyprus,British Borneo
+352,823,1927,0,1,Pounds,Cyprus,British Borneo
+352,823,1928,0,1,Pounds,Cyprus,British Borneo
+352,823,1929,1081,1,Pounds,Cyprus,British Borneo
+352,823,1930,1800,1,Pounds,Cyprus,British Borneo
+352,823,1931,145,1,Pounds,Cyprus,British Borneo
+352,823,1932,865,1,Pounds,Cyprus,British Borneo
+352,823,1933,0,1,,Cyprus,British Borneo
+352,823,1934,0,1,,Cyprus,British Borneo
+352,823,1935,0,1,,Cyprus,British Borneo
+352,823,1936,0,1,,Cyprus,British Borneo
+352,823,1937,0,1,Pounds,Cyprus,British Borneo
+352,823,1938,157,1,Pounds,Cyprus,British Borneo
+352,823,1939,28,1,Pounds,Cyprus,British Borneo
+352,823,1940,17714,1,Pounds,Cyprus,British Borneo
+352,823,1941,0,1,Pounds,Cyprus,British Borneo
+352,823,1942,0,1,Pounds,Cyprus,British Borneo
+352,823,1943,0,1,Pounds,Cyprus,British Borneo
+352,823,1944,0,1,Pounds,Cyprus,British Borneo
+352,823,1945,0,1,Pounds,Cyprus,British Borneo
+352,823,1946,0,1,Pounds,Cyprus,British Borneo
+352,823,1947,0,1,Pounds,Cyprus,British Borneo
+352,823,1948,0,1,Pounds,Cyprus,British Borneo
+352,823,1949,0,1,Pounds,Cyprus,British Borneo
+352,827,1919,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1920,0,1,,Cyprus,Straits Settlement
+352,827,1921,0,1,,Cyprus,Straits Settlement
+352,827,1922,0,1,,Cyprus,Straits Settlement
+352,827,1923,0,1,,Cyprus,Straits Settlement
+352,827,1924,0,1,,Cyprus,Straits Settlement
+352,827,1925,0,1,,Cyprus,Straits Settlement
+352,827,1926,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1927,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1928,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1929,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1930,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1931,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1932,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1933,0,1,,Cyprus,Straits Settlement
+352,827,1934,0,1,,Cyprus,Straits Settlement
+352,827,1935,0,1,,Cyprus,Straits Settlement
+352,827,1936,0,1,,Cyprus,Straits Settlement
+352,827,1937,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1938,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1939,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1940,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1941,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1942,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1943,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1944,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1945,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1946,0,1,Pounds,Cyprus,Straits Settlement
+352,827,1947,112467,1,Pounds,Cyprus,Straits Settlement
+352,827,1948,59763,1,Pounds,Cyprus,Straits Settlement
+352,827,1949,9152,1,Pounds,Cyprus,Straits Settlement
+352,830,1919,2,1,Pounds,Cyprus,Singapore
+352,830,1920,0,1,,Cyprus,Singapore
+352,830,1921,0,1,,Cyprus,Singapore
+352,830,1922,0,1,,Cyprus,Singapore
+352,830,1923,0,1,,Cyprus,Singapore
+352,830,1924,0,1,,Cyprus,Singapore
+352,830,1925,0,1,,Cyprus,Singapore
+352,830,1926,0,1,Pounds,Cyprus,Singapore
+352,830,1927,0,1,Pounds,Cyprus,Singapore
+352,830,1928,0,1,Pounds,Cyprus,Singapore
+352,830,1929,0,1,Pounds,Cyprus,Singapore
+352,830,1930,0,1,Pounds,Cyprus,Singapore
+352,830,1931,0,1,Pounds,Cyprus,Singapore
+352,830,1932,0,1,Pounds,Cyprus,Singapore
+352,830,1933,0,1,,Cyprus,Singapore
+352,830,1934,0,1,,Cyprus,Singapore
+352,830,1935,0,1,,Cyprus,Singapore
+352,830,1936,0,1,,Cyprus,Singapore
+352,830,1937,0,1,Pounds,Cyprus,Singapore
+352,830,1938,0,1,Pounds,Cyprus,Singapore
+352,830,1939,0,1,Pounds,Cyprus,Singapore
+352,830,1940,0,1,Pounds,Cyprus,Singapore
+352,830,1941,0,1,Pounds,Cyprus,Singapore
+352,830,1942,0,1,Pounds,Cyprus,Singapore
+352,830,1943,0,1,Pounds,Cyprus,Singapore
+352,830,1944,0,1,Pounds,Cyprus,Singapore
+352,830,1945,0,1,Pounds,Cyprus,Singapore
+352,830,1946,0,1,Pounds,Cyprus,Singapore
+352,830,1947,0,1,Pounds,Cyprus,Singapore
+352,830,1948,0,1,Pounds,Cyprus,Singapore
+352,830,1949,0,1,Pounds,Cyprus,Singapore
+352,840,1919,0,1,Pounds,Cyprus,Philippines
+352,840,1920,0,1,,Cyprus,Philippines
+352,840,1921,0,1,,Cyprus,Philippines
+352,840,1922,0,1,,Cyprus,Philippines
+352,840,1923,0,1,,Cyprus,Philippines
+352,840,1924,0,1,,Cyprus,Philippines
+352,840,1925,0,1,,Cyprus,Philippines
+352,840,1926,6,1,Pounds,Cyprus,Philippines
+352,840,1927,0,1,Pounds,Cyprus,Philippines
+352,840,1928,13,1,Pounds,Cyprus,Philippines
+352,840,1929,27,1,Pounds,Cyprus,Philippines
+352,840,1930,0,1,Pounds,Cyprus,Philippines
+352,840,1931,13,1,Pounds,Cyprus,Philippines
+352,840,1932,0,1,Pounds,Cyprus,Philippines
+352,840,1933,0,1,,Cyprus,Philippines
+352,840,1934,0,1,,Cyprus,Philippines
+352,840,1935,0,1,,Cyprus,Philippines
+352,840,1936,0,1,,Cyprus,Philippines
+352,840,1937,1,1,Pounds,Cyprus,Philippines
+352,840,1938,4,1,Pounds,Cyprus,Philippines
+352,840,1939,21,1,Pounds,Cyprus,Philippines
+352,840,1940,0,1,Pounds,Cyprus,Philippines
+352,840,1941,0,1,Pounds,Cyprus,Philippines
+352,840,1942,0,1,Pounds,Cyprus,Philippines
+352,840,1943,0,1,Pounds,Cyprus,Philippines
+352,840,1944,0,1,Pounds,Cyprus,Philippines
+352,840,1945,0,1,Pounds,Cyprus,Philippines
+352,840,1946,0,1,Pounds,Cyprus,Philippines
+352,840,1947,0,1,Pounds,Cyprus,Philippines
+352,840,1948,0,1,Pounds,Cyprus,Philippines
+352,840,1949,0,1,Pounds,Cyprus,Philippines
+352,850,1919,0,1,Pounds,Cyprus,Indonesia
+352,850,1920,0,1,,Cyprus,Indonesia
+352,850,1921,0,1,,Cyprus,Indonesia
+352,850,1922,0,1,,Cyprus,Indonesia
+352,850,1923,0,1,,Cyprus,Indonesia
+352,850,1924,0,1,,Cyprus,Indonesia
+352,850,1925,0,1,,Cyprus,Indonesia
+352,850,1926,7,1,Pounds,Cyprus,Indonesia
+352,850,1927,8,1,Pounds,Cyprus,Indonesia
+352,850,1928,0,1,Pounds,Cyprus,Indonesia
+352,850,1929,0,1,Pounds,Cyprus,Indonesia
+352,850,1930,0,1,Pounds,Cyprus,Indonesia
+352,850,1931,0,1,Pounds,Cyprus,Indonesia
+352,850,1932,0,1,Pounds,Cyprus,Indonesia
+352,850,1933,0,1,,Cyprus,Indonesia
+352,850,1934,0,1,,Cyprus,Indonesia
+352,850,1935,0,1,,Cyprus,Indonesia
+352,850,1936,0,1,,Cyprus,Indonesia
+352,850,1937,0,1,Pounds,Cyprus,Indonesia
+352,850,1938,0,1,Pounds,Cyprus,Indonesia
+352,850,1939,0,1,Pounds,Cyprus,Indonesia
+352,850,1940,0,1,Pounds,Cyprus,Indonesia
+352,850,1941,0,1,Pounds,Cyprus,Indonesia
+352,850,1942,0,1,Pounds,Cyprus,Indonesia
+352,850,1943,0,1,Pounds,Cyprus,Indonesia
+352,850,1944,1,1,Pounds,Cyprus,Indonesia
+352,850,1945,0,1,Pounds,Cyprus,Indonesia
+352,850,1946,0,1,Pounds,Cyprus,Indonesia
+352,850,1947,0,1,Pounds,Cyprus,Indonesia
+352,850,1948,0,1,Pounds,Cyprus,Indonesia
+352,850,1949,6357,1,Pounds,Cyprus,Indonesia
+352,900,1919,20521,1,Pounds,Cyprus,Australia
+352,900,1920,149698,1,,Cyprus,Australia
+352,900,1921,8578,1,,Cyprus,Australia
+352,900,1922,44622,1,,Cyprus,Australia
+352,900,1923,31380,1,,Cyprus,Australia
+352,900,1924,133211,1,,Cyprus,Australia
+352,900,1925,190682,1,,Cyprus,Australia
+352,900,1926,168184,1,Pounds,Cyprus,Australia
+352,900,1927,198404,1,Pounds,Cyprus,Australia
+352,900,1928,227842,1,Pounds,Cyprus,Australia
+352,900,1929,215775,1,Pounds,Cyprus,Australia
+352,900,1930,122242,1,Pounds,Cyprus,Australia
+352,900,1931,136629,1,Pounds,Cyprus,Australia
+352,900,1932,116637,1,Pounds,Cyprus,Australia
+352,900,1933,54209,1,,Cyprus,Australia
+352,900,1934,82470,1,,Cyprus,Australia
+352,900,1935,51079,1,,Cyprus,Australia
+352,900,1936,84971,1,,Cyprus,Australia
+352,900,1937,160406,1,Pounds,Cyprus,Australia
+352,900,1938,141278,1,Pounds,Cyprus,Australia
+352,900,1939,85660,1,Pounds,Cyprus,Australia
+352,900,1940,72808,1,Pounds,Cyprus,Australia
+352,900,1941,103990,1,Pounds,Cyprus,Australia
+352,900,1942,70443,1,Pounds,Cyprus,Australia
+352,900,1943,6694,1,Pounds,Cyprus,Australia
+352,900,1944,349527,1,Pounds,Cyprus,Australia
+352,900,1945,224640,1,Pounds,Cyprus,Australia
+352,900,1946,167649,1,Pounds,Cyprus,Australia
+352,900,1947,145107,1,Pounds,Cyprus,Australia
+352,900,1948,1382703,1,Pounds,Cyprus,Australia
+352,900,1949,1516534,1,Pounds,Cyprus,Australia
+352,920,1919,0,1,Pounds,Cyprus,New Zealand
+352,920,1920,0,1,,Cyprus,New Zealand
+352,920,1921,0,1,,Cyprus,New Zealand
+352,920,1922,0,1,,Cyprus,New Zealand
+352,920,1923,0,1,,Cyprus,New Zealand
+352,920,1924,0,1,,Cyprus,New Zealand
+352,920,1925,0,1,,Cyprus,New Zealand
+352,920,1926,0,1,Pounds,Cyprus,New Zealand
+352,920,1927,0,1,Pounds,Cyprus,New Zealand
+352,920,1928,0,1,Pounds,Cyprus,New Zealand
+352,920,1929,0,1,Pounds,Cyprus,New Zealand
+352,920,1930,0,1,Pounds,Cyprus,New Zealand
+352,920,1931,0,1,Pounds,Cyprus,New Zealand
+352,920,1932,0,1,Pounds,Cyprus,New Zealand
+352,920,1933,0,1,,Cyprus,New Zealand
+352,920,1934,0,1,,Cyprus,New Zealand
+352,920,1935,0,1,,Cyprus,New Zealand
+352,920,1936,0,1,,Cyprus,New Zealand
+352,920,1937,0,1,Pounds,Cyprus,New Zealand
+352,920,1938,0,1,Pounds,Cyprus,New Zealand
+352,920,1939,0,1,Pounds,Cyprus,New Zealand
+352,920,1940,0,1,Pounds,Cyprus,New Zealand
+352,920,1941,0,1,Pounds,Cyprus,New Zealand
+352,920,1942,0,1,Pounds,Cyprus,New Zealand
+352,920,1943,0,1,Pounds,Cyprus,New Zealand
+352,920,1944,178,1,Pounds,Cyprus,New Zealand
+352,920,1945,95,1,Pounds,Cyprus,New Zealand
+352,920,1946,819,1,Pounds,Cyprus,New Zealand
+352,920,1947,7002,1,Pounds,Cyprus,New Zealand
+352,920,1948,769,1,Pounds,Cyprus,New Zealand
+352,920,1949,462,1,Pounds,Cyprus,New Zealand
+352,950,1919,0,1,Pounds,Cyprus,Fiji
+352,950,1920,45,1,,Cyprus,Fiji
+352,950,1921,0,1,,Cyprus,Fiji
+352,950,1922,0,1,,Cyprus,Fiji
+352,950,1923,0,1,,Cyprus,Fiji
+352,950,1924,0,1,,Cyprus,Fiji
+352,950,1925,0,1,,Cyprus,Fiji
+352,950,1926,0,1,Pounds,Cyprus,Fiji
+352,950,1927,0,1,Pounds,Cyprus,Fiji
+352,950,1928,0,1,Pounds,Cyprus,Fiji
+352,950,1929,0,1,Pounds,Cyprus,Fiji
+352,950,1930,0,1,Pounds,Cyprus,Fiji
+352,950,1931,0,1,Pounds,Cyprus,Fiji
+352,950,1932,0,1,Pounds,Cyprus,Fiji
+352,950,1933,0,1,,Cyprus,Fiji
+352,950,1934,0,1,,Cyprus,Fiji
+352,950,1935,0,1,,Cyprus,Fiji
+352,950,1936,0,1,,Cyprus,Fiji
+352,950,1937,0,1,Pounds,Cyprus,Fiji
+352,950,1938,0,1,Pounds,Cyprus,Fiji
+352,950,1939,0,1,Pounds,Cyprus,Fiji
+352,950,1940,0,1,Pounds,Cyprus,Fiji
+352,950,1941,0,1,Pounds,Cyprus,Fiji
+352,950,1942,0,1,Pounds,Cyprus,Fiji
+352,950,1943,0,1,Pounds,Cyprus,Fiji
+352,950,1944,0,1,Pounds,Cyprus,Fiji
+352,950,1945,0,1,Pounds,Cyprus,Fiji
+352,950,1946,0,1,Pounds,Cyprus,Fiji
+352,950,1947,0,1,Pounds,Cyprus,Fiji
+352,950,1948,0,1,Pounds,Cyprus,Fiji
+352,950,1949,0,1,Pounds,Cyprus,Fiji
+352,1050,1919,0,1,Pounds,Cyprus,British West Indies
+352,1050,1920,0,1,,Cyprus,British West Indies
+352,1050,1921,0,1,,Cyprus,British West Indies
+352,1050,1922,0,1,,Cyprus,British West Indies
+352,1050,1923,0,1,,Cyprus,British West Indies
+352,1050,1924,0,1,,Cyprus,British West Indies
+352,1050,1925,0,1,,Cyprus,British West Indies
+352,1050,1926,48,1,Pounds,Cyprus,British West Indies
+352,1050,1927,26,1,Pounds,Cyprus,British West Indies
+352,1050,1928,30,1,Pounds,Cyprus,British West Indies
+352,1050,1929,80,1,Pounds,Cyprus,British West Indies
+352,1050,1930,43,1,Pounds,Cyprus,British West Indies
+352,1050,1931,71,1,Pounds,Cyprus,British West Indies
+352,1050,1932,0,1,Pounds,Cyprus,British West Indies
+352,1050,1933,0,1,,Cyprus,British West Indies
+352,1050,1934,0,1,,Cyprus,British West Indies
+352,1050,1935,0,1,,Cyprus,British West Indies
+352,1050,1936,0,1,,Cyprus,British West Indies
+352,1050,1937,20,1,Pounds,Cyprus,British West Indies
+352,1050,1938,23,1,Pounds,Cyprus,British West Indies
+352,1050,1939,6404,1,Pounds,Cyprus,British West Indies
+352,1050,1940,0,1,Pounds,Cyprus,British West Indies
+352,1050,1941,0,1,Pounds,Cyprus,British West Indies
+352,1050,1942,0,1,Pounds,Cyprus,British West Indies
+352,1050,1943,0,1,Pounds,Cyprus,British West Indies
+352,1050,1944,44,1,Pounds,Cyprus,British West Indies
+352,1050,1945,401,1,Pounds,Cyprus,British West Indies
+352,1050,1946,1025,1,Pounds,Cyprus,British West Indies
+352,1050,1947,293,1,Pounds,Cyprus,British West Indies
+352,1050,1948,7532,1,Pounds,Cyprus,British West Indies
+352,1050,1949,991,1,Pounds,Cyprus,British West Indies
+352,2000,1919,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1920,0,1,,Cyprus,Other British possessions
+352,2000,1921,0,1,,Cyprus,Other British possessions
+352,2000,1922,9474,1,,Cyprus,Other British possessions
+352,2000,1923,2069,1,,Cyprus,Other British possessions
+352,2000,1924,595,1,,Cyprus,Other British possessions
+352,2000,1925,2266,1,,Cyprus,Other British possessions
+352,2000,1926,1,1,Pounds,Cyprus,Other British possessions
+352,2000,1927,18,1,Pounds,Cyprus,Other British possessions
+352,2000,1928,158,1,Pounds,Cyprus,Other British possessions
+352,2000,1929,32,1,Pounds,Cyprus,Other British possessions
+352,2000,1930,156,1,Pounds,Cyprus,Other British possessions
+352,2000,1931,29,1,Pounds,Cyprus,Other British possessions
+352,2000,1932,61,1,Pounds,Cyprus,Other British possessions
+352,2000,1933,1367,1,,Cyprus,Other British possessions
+352,2000,1934,1308,1,,Cyprus,Other British possessions
+352,2000,1935,976,1,,Cyprus,Other British possessions
+352,2000,1936,1201,1,,Cyprus,Other British possessions
+352,2000,1937,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1938,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1939,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1940,550,1,Pounds,Cyprus,Other British possessions
+352,2000,1941,382,1,Pounds,Cyprus,Other British possessions
+352,2000,1942,2477,1,Pounds,Cyprus,Other British possessions
+352,2000,1943,103,1,Pounds,Cyprus,Other British possessions
+352,2000,1944,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1945,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1946,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1947,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1948,0,1,Pounds,Cyprus,Other British possessions
+352,2000,1949,0,1,Pounds,Cyprus,Other British possessions
+352,2008,1919,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1920,0,1,,Cyprus,Other British Oceania
+352,2008,1921,0,1,,Cyprus,Other British Oceania
+352,2008,1922,0,1,,Cyprus,Other British Oceania
+352,2008,1923,0,1,,Cyprus,Other British Oceania
+352,2008,1924,0,1,,Cyprus,Other British Oceania
+352,2008,1925,0,1,,Cyprus,Other British Oceania
+352,2008,1926,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1927,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1928,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1929,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1930,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1931,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1932,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1933,0,1,,Cyprus,Other British Oceania
+352,2008,1934,0,1,,Cyprus,Other British Oceania
+352,2008,1935,0,1,,Cyprus,Other British Oceania
+352,2008,1936,0,1,,Cyprus,Other British Oceania
+352,2008,1937,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1938,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1939,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1940,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1941,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1942,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1943,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1944,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1945,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1946,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1947,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1948,0,1,Pounds,Cyprus,Other British Oceania
+352,2008,1949,0,1,Pounds,Cyprus,Other British Oceania
+352,2100,1919,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1920,0,1,,Cyprus,Other Dutch possessions
+352,2100,1921,0,1,,Cyprus,Other Dutch possessions
+352,2100,1922,0,1,,Cyprus,Other Dutch possessions
+352,2100,1923,0,1,,Cyprus,Other Dutch possessions
+352,2100,1924,0,1,,Cyprus,Other Dutch possessions
+352,2100,1925,0,1,,Cyprus,Other Dutch possessions
+352,2100,1926,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1927,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1928,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1929,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1930,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1931,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1932,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1933,0,1,,Cyprus,Other Dutch possessions
+352,2100,1934,0,1,,Cyprus,Other Dutch possessions
+352,2100,1935,0,1,,Cyprus,Other Dutch possessions
+352,2100,1936,0,1,,Cyprus,Other Dutch possessions
+352,2100,1937,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1938,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1939,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1940,31938,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1941,124166,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1942,36081,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1943,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1944,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1945,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1946,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1947,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1948,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2100,1949,0,1,Pounds,Cyprus,Other Dutch possessions
+352,2107,1919,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1920,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1921,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1922,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1923,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1924,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1925,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1926,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1927,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1928,848,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1929,9628,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1930,24501,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1931,9463,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1932,47,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1933,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1934,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1935,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1936,0,1,,Cyprus,Dutch possessions in Asia
+352,2107,1937,2102,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1938,2279,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1939,15489,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1940,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1941,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1942,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1943,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1944,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1945,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1946,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1947,12180,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1948,45525,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2107,1949,0,1,Pounds,Cyprus,Dutch possessions in Asia
+352,2115,1919,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1920,0,1,,Cyprus,Belgian Africa
+352,2115,1921,0,1,,Cyprus,Belgian Africa
+352,2115,1922,0,1,,Cyprus,Belgian Africa
+352,2115,1923,0,1,,Cyprus,Belgian Africa
+352,2115,1924,0,1,,Cyprus,Belgian Africa
+352,2115,1925,0,1,,Cyprus,Belgian Africa
+352,2115,1926,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1927,90,1,Pounds,Cyprus,Belgian Africa
+352,2115,1928,36,1,Pounds,Cyprus,Belgian Africa
+352,2115,1929,48,1,Pounds,Cyprus,Belgian Africa
+352,2115,1930,46,1,Pounds,Cyprus,Belgian Africa
+352,2115,1931,28,1,Pounds,Cyprus,Belgian Africa
+352,2115,1932,32,1,Pounds,Cyprus,Belgian Africa
+352,2115,1933,0,1,,Cyprus,Belgian Africa
+352,2115,1934,0,1,,Cyprus,Belgian Africa
+352,2115,1935,0,1,,Cyprus,Belgian Africa
+352,2115,1936,0,1,,Cyprus,Belgian Africa
+352,2115,1937,16,1,Pounds,Cyprus,Belgian Africa
+352,2115,1938,47,1,Pounds,Cyprus,Belgian Africa
+352,2115,1939,19,1,Pounds,Cyprus,Belgian Africa
+352,2115,1940,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1941,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1942,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1943,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1944,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1945,0,1,Pounds,Cyprus,Belgian Africa
+352,2115,1946,312,1,Pounds,Cyprus,Belgian Africa
+352,2115,1947,367,1,Pounds,Cyprus,Belgian Africa
+352,2115,1948,1741,1,Pounds,Cyprus,Belgian Africa
+352,2115,1949,296,1,Pounds,Cyprus,Belgian Africa
+352,2205,1919,0,1,Pounds,Cyprus,French Africa
+352,2205,1920,0,1,,Cyprus,French Africa
+352,2205,1921,0,1,,Cyprus,French Africa
+352,2205,1922,0,1,,Cyprus,French Africa
+352,2205,1923,0,1,,Cyprus,French Africa
+352,2205,1924,0,1,,Cyprus,French Africa
+352,2205,1925,0,1,,Cyprus,French Africa
+352,2205,1926,0,1,Pounds,Cyprus,French Africa
+352,2205,1927,15,1,Pounds,Cyprus,French Africa
+352,2205,1928,0,1,Pounds,Cyprus,French Africa
+352,2205,1929,9,1,Pounds,Cyprus,French Africa
+352,2205,1930,68,1,Pounds,Cyprus,French Africa
+352,2205,1931,225,1,Pounds,Cyprus,French Africa
+352,2205,1932,109,1,Pounds,Cyprus,French Africa
+352,2205,1933,0,1,,Cyprus,French Africa
+352,2205,1934,0,1,,Cyprus,French Africa
+352,2205,1935,0,1,,Cyprus,French Africa
+352,2205,1936,0,1,,Cyprus,French Africa
+352,2205,1937,263,1,Pounds,Cyprus,French Africa
+352,2205,1938,482,1,Pounds,Cyprus,French Africa
+352,2205,1939,358,1,Pounds,Cyprus,French Africa
+352,2205,1940,0,1,Pounds,Cyprus,French Africa
+352,2205,1941,0,1,Pounds,Cyprus,French Africa
+352,2205,1942,0,1,Pounds,Cyprus,French Africa
+352,2205,1943,0,1,Pounds,Cyprus,French Africa
+352,2205,1944,0,1,Pounds,Cyprus,French Africa
+352,2205,1945,0,1,Pounds,Cyprus,French Africa
+352,2205,1946,10670,1,Pounds,Cyprus,French Africa
+352,2205,1947,2598,1,Pounds,Cyprus,French Africa
+352,2205,1948,9457,1,Pounds,Cyprus,French Africa
+352,2205,1949,7640,1,Pounds,Cyprus,French Africa
+352,2207,1919,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1920,0,1,,Cyprus,French possessions in Asia
+352,2207,1921,0,1,,Cyprus,French possessions in Asia
+352,2207,1922,0,1,,Cyprus,French possessions in Asia
+352,2207,1923,0,1,,Cyprus,French possessions in Asia
+352,2207,1924,0,1,,Cyprus,French possessions in Asia
+352,2207,1925,0,1,,Cyprus,French possessions in Asia
+352,2207,1926,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1927,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1928,8,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1929,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1930,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1931,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1932,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1933,0,1,,Cyprus,French possessions in Asia
+352,2207,1934,0,1,,Cyprus,French possessions in Asia
+352,2207,1935,0,1,,Cyprus,French possessions in Asia
+352,2207,1936,0,1,,Cyprus,French possessions in Asia
+352,2207,1937,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1938,35,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1939,168,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1940,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1941,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1942,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1943,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1944,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1945,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1946,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1947,196,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1948,0,1,Pounds,Cyprus,French possessions in Asia
+352,2207,1949,0,1,Pounds,Cyprus,French possessions in Asia
+352,2355,1919,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1920,0,1,,Cyprus,Portuguese Africa
+352,2355,1921,0,1,,Cyprus,Portuguese Africa
+352,2355,1922,0,1,,Cyprus,Portuguese Africa
+352,2355,1923,0,1,,Cyprus,Portuguese Africa
+352,2355,1924,0,1,,Cyprus,Portuguese Africa
+352,2355,1925,0,1,,Cyprus,Portuguese Africa
+352,2355,1926,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1927,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1928,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1929,3,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1930,4,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1931,1,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1932,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1933,0,1,,Cyprus,Portuguese Africa
+352,2355,1934,0,1,,Cyprus,Portuguese Africa
+352,2355,1935,0,1,,Cyprus,Portuguese Africa
+352,2355,1936,0,1,,Cyprus,Portuguese Africa
+352,2355,1937,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1938,21,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1939,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1940,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1941,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1942,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1943,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1944,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1945,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1946,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1947,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1948,0,1,Pounds,Cyprus,Portuguese Africa
+352,2355,1949,1363,1,Pounds,Cyprus,Portuguese Africa
+352,2357,1919,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1920,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1921,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1922,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1923,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1924,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1925,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1926,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1927,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1928,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1929,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1930,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1931,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1932,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1933,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1934,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1935,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1936,0,1,,Cyprus,Portuguese possessions in Asia
+352,2357,1937,1,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1938,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1939,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1940,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1941,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1942,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1943,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1944,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1945,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1946,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1947,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1948,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,2357,1949,0,1,Pounds,Cyprus,Portuguese possessions in Asia
+352,3250,1919,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1920,0,1,,Cyprus,Italian Africa
+352,3250,1921,0,1,,Cyprus,Italian Africa
+352,3250,1922,0,1,,Cyprus,Italian Africa
+352,3250,1923,0,1,,Cyprus,Italian Africa
+352,3250,1924,0,1,,Cyprus,Italian Africa
+352,3250,1925,0,1,,Cyprus,Italian Africa
+352,3250,1926,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1927,56,1,Pounds,Cyprus,Italian Africa
+352,3250,1928,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1929,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1930,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1931,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1932,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1933,0,1,,Cyprus,Italian Africa
+352,3250,1934,0,1,,Cyprus,Italian Africa
+352,3250,1935,0,1,,Cyprus,Italian Africa
+352,3250,1936,0,1,,Cyprus,Italian Africa
+352,3250,1937,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1938,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1939,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1940,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1941,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1942,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1943,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1944,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1945,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1946,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1947,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1948,0,1,Pounds,Cyprus,Italian Africa
+352,3250,1949,0,1,Pounds,Cyprus,Italian Africa
+352,3353,1919,154,1,Pounds,Cyprus,Dodecanese
+352,3353,1920,2156,1,,Cyprus,Dodecanese
+352,3353,1921,2446,1,,Cyprus,Dodecanese
+352,3353,1922,0,1,,Cyprus,Dodecanese
+352,3353,1923,0,1,,Cyprus,Dodecanese
+352,3353,1924,0,1,,Cyprus,Dodecanese
+352,3353,1925,0,1,,Cyprus,Dodecanese
+352,3353,1926,2959,1,Pounds,Cyprus,Dodecanese
+352,3353,1927,1477,1,Pounds,Cyprus,Dodecanese
+352,3353,1928,2115,1,Pounds,Cyprus,Dodecanese
+352,3353,1929,2662,1,Pounds,Cyprus,Dodecanese
+352,3353,1930,1135,1,Pounds,Cyprus,Dodecanese
+352,3353,1931,568,1,Pounds,Cyprus,Dodecanese
+352,3353,1932,400,1,Pounds,Cyprus,Dodecanese
+352,3353,1933,0,1,,Cyprus,Dodecanese
+352,3353,1934,0,1,,Cyprus,Dodecanese
+352,3353,1935,0,1,,Cyprus,Dodecanese
+352,3353,1936,0,1,,Cyprus,Dodecanese
+352,3353,1937,139,1,Pounds,Cyprus,Dodecanese
+352,3353,1938,43,1,Pounds,Cyprus,Dodecanese
+352,3353,1939,231,1,Pounds,Cyprus,Dodecanese
+352,3353,1940,0,1,Pounds,Cyprus,Dodecanese
+352,3353,1941,0,1,Pounds,Cyprus,Dodecanese
+352,3353,1942,0,1,Pounds,Cyprus,Dodecanese
+352,3353,1943,177,1,Pounds,Cyprus,Dodecanese
+352,3353,1944,28,1,Pounds,Cyprus,Dodecanese
+352,3353,1945,3585,1,Pounds,Cyprus,Dodecanese
+352,3353,1946,28296,1,Pounds,Cyprus,Dodecanese
+352,3353,1947,16534,1,Pounds,Cyprus,Dodecanese
+352,3353,1948,90,1,Pounds,Cyprus,Dodecanese
+352,3353,1949,330,1,Pounds,Cyprus,Dodecanese
+352,5200,1919,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1920,0,1,,Cyprus,Italian Somaliland
+352,5200,1921,0,1,,Cyprus,Italian Somaliland
+352,5200,1922,0,1,,Cyprus,Italian Somaliland
+352,5200,1923,0,1,,Cyprus,Italian Somaliland
+352,5200,1924,0,1,,Cyprus,Italian Somaliland
+352,5200,1925,0,1,,Cyprus,Italian Somaliland
+352,5200,1926,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1927,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1928,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1929,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1930,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1931,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1932,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1933,0,1,,Cyprus,Italian Somaliland
+352,5200,1934,0,1,,Cyprus,Italian Somaliland
+352,5200,1935,0,1,,Cyprus,Italian Somaliland
+352,5200,1936,0,1,,Cyprus,Italian Somaliland
+352,5200,1937,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1938,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1939,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1940,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1941,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1942,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1943,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1944,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1945,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1946,0,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1947,5677,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1948,757,1,Pounds,Cyprus,Italian Somaliland
+352,5200,1949,2198,1,Pounds,Cyprus,Italian Somaliland
+352,8501,1919,8913,1,Pounds,Cyprus,Java
+352,8501,1920,7999,1,,Cyprus,Java
+352,8501,1921,21064,1,,Cyprus,Java
+352,8501,1922,0,1,,Cyprus,Java
+352,8501,1923,0,1,,Cyprus,Java
+352,8501,1924,0,1,,Cyprus,Java
+352,8501,1925,0,1,,Cyprus,Java
+352,8501,1926,4711,1,Pounds,Cyprus,Java
+352,8501,1927,11207,1,Pounds,Cyprus,Java
+352,8501,1928,13805,1,Pounds,Cyprus,Java
+352,8501,1929,9558,1,Pounds,Cyprus,Java
+352,8501,1930,292,1,Pounds,Cyprus,Java
+352,8501,1931,0,1,Pounds,Cyprus,Java
+352,8501,1932,105,1,Pounds,Cyprus,Java
+352,8501,1933,0,1,,Cyprus,Java
+352,8501,1934,0,1,,Cyprus,Java
+352,8501,1935,0,1,,Cyprus,Java
+352,8501,1936,0,1,,Cyprus,Java
+352,8501,1937,0,1,Pounds,Cyprus,Java
+352,8501,1938,0,1,Pounds,Cyprus,Java
+352,8501,1939,0,1,Pounds,Cyprus,Java
+352,8501,1940,0,1,Pounds,Cyprus,Java
+352,8501,1941,0,1,Pounds,Cyprus,Java
+352,8501,1942,0,1,Pounds,Cyprus,Java
+352,8501,1943,0,1,Pounds,Cyprus,Java
+352,8501,1944,0,1,Pounds,Cyprus,Java
+352,8501,1945,0,1,Pounds,Cyprus,Java
+352,8501,1946,0,1,Pounds,Cyprus,Java
+352,8501,1947,0,1,Pounds,Cyprus,Java
+352,8501,1948,0,1,Pounds,Cyprus,Java
+352,8501,1949,0,1,Pounds,Cyprus,Java
+352,,1919,1621346,1,Pounds,Cyprus,
+352,,1920,2136480,1,,Cyprus,
+352,,1921,1567750,1,,Cyprus,
+352,,1922,1469983,1,,Cyprus,
+352,,1923,1161724,1,,Cyprus,
+352,,1924,1370781,1,,Cyprus,
+352,,1925,1719320,1,,Cyprus,
+352,,1926,1576371,1,Pounds,Cyprus,
+352,,1927,1592042,1,Pounds,Cyprus,
+352,,1928,1855941,1,Pounds,Cyprus,
+352,,1929,1988192,1,Pounds,Cyprus,
+352,,1930,1425849,1,Pounds,Cyprus,
+352,,1931,1419877,1,Pounds,Cyprus,
+352,,1932,1352497,1,Pounds,Cyprus,
+352,,1933,1270357,1,,Cyprus,
+352,,1934,1439218,1,,Cyprus,
+352,,1935,1513253,1,,Cyprus,
+352,,1936,1517158,1,,Cyprus,
+352,,1937,2225900,1,Pounds,Cyprus,
+352,,1938,2253950,1,Pounds,Cyprus,
+352,,1939,1900823,1,Pounds,Cyprus,
+352,,1940,1690084,1,Pounds,Cyprus,
+352,,1941,2001549,1,Pounds,Cyprus,
+352,,1942,2267522,1,Pounds,Cyprus,
+352,,1943,2251625,1,Pounds,Cyprus,
+352,,1944,4952751,1,Pounds,Cyprus,
+352,,1945,5489286,1,Pounds,Cyprus,
+352,,1946,8131834,1,Pounds,Cyprus,
+352,,1947,13585206,1,Pounds,Cyprus,
+352,,1948,15422091,1,Pounds,Cyprus,
+352,,1949,11013230,1,Pounds,Cyprus,

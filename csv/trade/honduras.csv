@@ -1,0 +1,2549 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+91,2,1921,28058127.02,1,Plata,Honduras,United States
+91,2,1922,10857418.53,1,Gold Us $,Honduras,United States
+91,2,1923,12016,1000,Gold Us $,Honduras,United States
+91,2,1924,9784,1000,Gold Us $,Honduras,United States
+91,2,1925,10263996.22,1,Oro,Honduras,United States
+91,2,1926,8116317.29,1,Oro,Honduras,United States
+91,2,1927,8445384.09,1,Oro,Honduras,United States
+91,2,1928,10028998.25,1,Oro,Honduras,United States
+91,2,1929,11563364.2,1,Oro,Honduras,United States
+91,2,1930,11885509.97,1,Oro,Honduras,United States
+91,2,1932,6375865.28,1,Oro,Honduras,United States
+91,2,1933,4644491.64,1,Oro,Honduras,United States
+91,2,1934,5881999.72,1,Oro,Honduras,United States
+91,2,1935,6189064.25,1,Oro,Honduras,United States
+91,2,1936,5796217.96,1,Oro,Honduras,United States
+91,2,1937,6029495.04,1,Us $,Honduras,United States
+91,2,1938,12693375.2,1,Lempiras,Honduras,United States
+91,2,1939,12665064.62,1,Lempiras,Honduras,United States
+91,2,1940,12653446.18,1,Lempiras,Honduras,United States
+91,2,1941,15612108.9,1,Lempiras,Honduras,United States
+91,2,1942,18264914.04,1,Lempiras,Honduras,United States
+91,2,1943,14841551.06,1,Lempiras,Honduras,United States
+91,2,1944,17790555.54,1,Lempiras,Honduras,United States
+91,2,1945,21515742.21,1,Lempiras,Honduras,United States
+91,2,1946,28778106.4,1,Lempiras,Honduras,United States
+91,2,1947,45583262.2,1,Lempiras,Honduras,United States
+91,2,1948,56031357.82,1,Lempiras,Honduras,United States
+91,2,1949,53885324.8,1,Lempiras,Honduras,United States
+91,4,1921,0,1,Plata,Honduras,Hawaii
+91,4,1922,0,1,Gold Us $,Honduras,Hawaii
+91,4,1923,0,1000,Gold Us $,Honduras,Hawaii
+91,4,1924,0,1000,Gold Us $,Honduras,Hawaii
+91,4,1925,0,1,Oro,Honduras,Hawaii
+91,4,1926,0,1,Oro,Honduras,Hawaii
+91,4,1927,0,1,Oro,Honduras,Hawaii
+91,4,1928,0,1,Oro,Honduras,Hawaii
+91,4,1929,0,1,Oro,Honduras,Hawaii
+91,4,1930,0,1,Oro,Honduras,Hawaii
+91,4,1932,0,1,Oro,Honduras,Hawaii
+91,4,1933,0,1,Oro,Honduras,Hawaii
+91,4,1934,0,1,Oro,Honduras,Hawaii
+91,4,1935,0,1,Oro,Honduras,Hawaii
+91,4,1936,0,1,Oro,Honduras,Hawaii
+91,4,1937,0,1,Us $,Honduras,Hawaii
+91,4,1938,0,1,Lempiras,Honduras,Hawaii
+91,4,1939,0,1,Lempiras,Honduras,Hawaii
+91,4,1940,0,1,Lempiras,Honduras,Hawaii
+91,4,1941,0,1,Lempiras,Honduras,Hawaii
+91,4,1942,0,1,Lempiras,Honduras,Hawaii
+91,4,1943,0,1,Lempiras,Honduras,Hawaii
+91,4,1944,0,1,Lempiras,Honduras,Hawaii
+91,4,1945,0,1,Lempiras,Honduras,Hawaii
+91,4,1946,0,1,Lempiras,Honduras,Hawaii
+91,4,1947,0,1,Lempiras,Honduras,Hawaii
+91,4,1948,23.9,1,Lempiras,Honduras,Hawaii
+91,4,1949,0,1,Lempiras,Honduras,Hawaii
+91,6,1921,0,1,Plata,Honduras,Puerto Rico
+91,6,1922,0,1,Gold Us $,Honduras,Puerto Rico
+91,6,1923,0,1000,Gold Us $,Honduras,Puerto Rico
+91,6,1924,0,1000,Gold Us $,Honduras,Puerto Rico
+91,6,1925,0,1,Oro,Honduras,Puerto Rico
+91,6,1926,0,1,Oro,Honduras,Puerto Rico
+91,6,1927,0,1,Oro,Honduras,Puerto Rico
+91,6,1928,0,1,Oro,Honduras,Puerto Rico
+91,6,1929,0,1,Oro,Honduras,Puerto Rico
+91,6,1930,0,1,Oro,Honduras,Puerto Rico
+91,6,1932,0,1,Oro,Honduras,Puerto Rico
+91,6,1933,0,1,Oro,Honduras,Puerto Rico
+91,6,1934,0,1,Oro,Honduras,Puerto Rico
+91,6,1935,0,1,Oro,Honduras,Puerto Rico
+91,6,1936,0,1,Oro,Honduras,Puerto Rico
+91,6,1937,13.9,1,Us $,Honduras,Puerto Rico
+91,6,1938,30,1,Lempiras,Honduras,Puerto Rico
+91,6,1939,2,1,Lempiras,Honduras,Puerto Rico
+91,6,1940,0,1,Lempiras,Honduras,Puerto Rico
+91,6,1941,0,1,Lempiras,Honduras,Puerto Rico
+91,6,1942,153.02,1,Lempiras,Honduras,Puerto Rico
+91,6,1943,62,1,Lempiras,Honduras,Puerto Rico
+91,6,1944,0,1,Lempiras,Honduras,Puerto Rico
+91,6,1945,42.74,1,Lempiras,Honduras,Puerto Rico
+91,6,1946,532.34,1,Lempiras,Honduras,Puerto Rico
+91,6,1947,140829.14,1,Lempiras,Honduras,Puerto Rico
+91,6,1948,3306.02,1,Lempiras,Honduras,Puerto Rico
+91,6,1949,14.12,1,Lempiras,Honduras,Puerto Rico
+91,20,1921,37541.32,1,Plata,Honduras,Canada
+91,20,1922,10440.67,1,Gold Us $,Honduras,Canada
+91,20,1923,0,1000,Gold Us $,Honduras,Canada
+91,20,1924,0,1000,Gold Us $,Honduras,Canada
+91,20,1925,45521.16,1,Oro,Honduras,Canada
+91,20,1926,19949.71,1,Oro,Honduras,Canada
+91,20,1927,19295.42,1,Oro,Honduras,Canada
+91,20,1928,16287.48,1,Oro,Honduras,Canada
+91,20,1929,7970.7,1,Oro,Honduras,Canada
+91,20,1930,6973.49,1,Oro,Honduras,Canada
+91,20,1932,2077.05,1,Oro,Honduras,Canada
+91,20,1933,2408.12,1,Oro,Honduras,Canada
+91,20,1934,534.45,1,Oro,Honduras,Canada
+91,20,1935,26004.03,1,Oro,Honduras,Canada
+91,20,1936,104940.39,1,Oro,Honduras,Canada
+91,20,1937,138066.23,1,Us $,Honduras,Canada
+91,20,1938,88336.72,1,Lempiras,Honduras,Canada
+91,20,1939,9942.9,1,Lempiras,Honduras,Canada
+91,20,1940,42817.2,1,Lempiras,Honduras,Canada
+91,20,1941,98119.72,1,Lempiras,Honduras,Canada
+91,20,1942,136796.86,1,Lempiras,Honduras,Canada
+91,20,1943,155583.44,1,Lempiras,Honduras,Canada
+91,20,1944,284644.38,1,Lempiras,Honduras,Canada
+91,20,1945,449332.46,1,Lempiras,Honduras,Canada
+91,20,1946,120630.7,1,Lempiras,Honduras,Canada
+91,20,1947,385459.48,1,Lempiras,Honduras,Canada
+91,20,1948,180727.24,1,Lempiras,Honduras,Canada
+91,20,1949,227121.36,1,Lempiras,Honduras,Canada
+91,40,1921,11312.6,1,Plata,Honduras,Cuba
+91,40,1922,5662.4,1,Gold Us $,Honduras,Cuba
+91,40,1923,0,1000,Gold Us $,Honduras,Cuba
+91,40,1924,0,1000,Gold Us $,Honduras,Cuba
+91,40,1925,11430.01,1,Oro,Honduras,Cuba
+91,40,1926,14328.93,1,Oro,Honduras,Cuba
+91,40,1927,8798.940000000001,1,Oro,Honduras,Cuba
+91,40,1928,7471.83,1,Oro,Honduras,Cuba
+91,40,1929,5252.71,1,Oro,Honduras,Cuba
+91,40,1930,8113.28,1,Oro,Honduras,Cuba
+91,40,1932,23306.96,1,Oro,Honduras,Cuba
+91,40,1933,14336.67,1,Oro,Honduras,Cuba
+91,40,1934,13807.67,1,Oro,Honduras,Cuba
+91,40,1935,23622.97,1,Oro,Honduras,Cuba
+91,40,1936,52415.91,1,Oro,Honduras,Cuba
+91,40,1937,53725.04,1,Us $,Honduras,Cuba
+91,40,1938,121918.5,1,Lempiras,Honduras,Cuba
+91,40,1939,44517.04,1,Lempiras,Honduras,Cuba
+91,40,1940,74790.92,1,Lempiras,Honduras,Cuba
+91,40,1941,130798.24,1,Lempiras,Honduras,Cuba
+91,40,1942,135208.32,1,Lempiras,Honduras,Cuba
+91,40,1943,68828.39999999999,1,Lempiras,Honduras,Cuba
+91,40,1944,172926.1,1,Lempiras,Honduras,Cuba
+91,40,1945,1024396.56,1,Lempiras,Honduras,Cuba
+91,40,1946,359194.4,1,Lempiras,Honduras,Cuba
+91,40,1947,1708409.14,1,Lempiras,Honduras,Cuba
+91,40,1948,1117466.6,1,Lempiras,Honduras,Cuba
+91,40,1949,299523.34,1,Lempiras,Honduras,Cuba
+91,41,1921,0,1,Plata,Honduras,Haiti
+91,41,1922,0,1,Gold Us $,Honduras,Haiti
+91,41,1923,0,1000,Gold Us $,Honduras,Haiti
+91,41,1924,0,1000,Gold Us $,Honduras,Haiti
+91,41,1925,0,1,Oro,Honduras,Haiti
+91,41,1926,0,1,Oro,Honduras,Haiti
+91,41,1927,0,1,Oro,Honduras,Haiti
+91,41,1928,0,1,Oro,Honduras,Haiti
+91,41,1929,0,1,Oro,Honduras,Haiti
+91,41,1930,0,1,Oro,Honduras,Haiti
+91,41,1932,0,1,Oro,Honduras,Haiti
+91,41,1933,0,1,Oro,Honduras,Haiti
+91,41,1934,0,1,Oro,Honduras,Haiti
+91,41,1935,0,1,Oro,Honduras,Haiti
+91,41,1936,0,1,Oro,Honduras,Haiti
+91,41,1937,0,1,Us $,Honduras,Haiti
+91,41,1938,0,1,Lempiras,Honduras,Haiti
+91,41,1939,0,1,Lempiras,Honduras,Haiti
+91,41,1940,0,1,Lempiras,Honduras,Haiti
+91,41,1941,189.8,1,Lempiras,Honduras,Haiti
+91,41,1942,0,1,Lempiras,Honduras,Haiti
+91,41,1943,0,1,Lempiras,Honduras,Haiti
+91,41,1944,0,1,Lempiras,Honduras,Haiti
+91,41,1945,370,1,Lempiras,Honduras,Haiti
+91,41,1946,0,1,Lempiras,Honduras,Haiti
+91,41,1947,0,1,Lempiras,Honduras,Haiti
+91,41,1948,421.66,1,Lempiras,Honduras,Haiti
+91,41,1949,0,1,Lempiras,Honduras,Haiti
+91,42,1921,0,1,Plata,Honduras,Dominican Republic
+91,42,1922,0,1,Gold Us $,Honduras,Dominican Republic
+91,42,1923,0,1000,Gold Us $,Honduras,Dominican Republic
+91,42,1924,0,1000,Gold Us $,Honduras,Dominican Republic
+91,42,1925,0,1,Oro,Honduras,Dominican Republic
+91,42,1926,0,1,Oro,Honduras,Dominican Republic
+91,42,1927,0,1,Oro,Honduras,Dominican Republic
+91,42,1928,0,1,Oro,Honduras,Dominican Republic
+91,42,1929,0,1,Oro,Honduras,Dominican Republic
+91,42,1930,0,1,Oro,Honduras,Dominican Republic
+91,42,1932,0,1,Oro,Honduras,Dominican Republic
+91,42,1933,0,1,Oro,Honduras,Dominican Republic
+91,42,1934,0,1,Oro,Honduras,Dominican Republic
+91,42,1935,0,1,Oro,Honduras,Dominican Republic
+91,42,1936,0,1,Oro,Honduras,Dominican Republic
+91,42,1937,0,1,Us $,Honduras,Dominican Republic
+91,42,1938,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1939,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1940,60,1,Lempiras,Honduras,Dominican Republic
+91,42,1941,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1942,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1943,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1944,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1945,0,1,Lempiras,Honduras,Dominican Republic
+91,42,1946,20.18,1,Lempiras,Honduras,Dominican Republic
+91,42,1947,16,1,Lempiras,Honduras,Dominican Republic
+91,42,1948,21.2,1,Lempiras,Honduras,Dominican Republic
+91,42,1949,741862.48,1,Lempiras,Honduras,Dominican Republic
+91,51,1921,13431.3,1,Plata,Honduras,Jamaica
+91,51,1922,5018.87,1,Gold Us $,Honduras,Jamaica
+91,51,1923,0,1000,Gold Us $,Honduras,Jamaica
+91,51,1924,0,1000,Gold Us $,Honduras,Jamaica
+91,51,1925,26156.36,1,Oro,Honduras,Jamaica
+91,51,1926,24807.25,1,Oro,Honduras,Jamaica
+91,51,1927,41248.53,1,Oro,Honduras,Jamaica
+91,51,1928,13408.14,1,Oro,Honduras,Jamaica
+91,51,1929,35617.43,1,Oro,Honduras,Jamaica
+91,51,1930,42195.35,1,Oro,Honduras,Jamaica
+91,51,1932,2856.24,1,Oro,Honduras,Jamaica
+91,51,1933,5091.47,1,Oro,Honduras,Jamaica
+91,51,1934,16996.83,1,Oro,Honduras,Jamaica
+91,51,1935,2703.82,1,Oro,Honduras,Jamaica
+91,51,1936,5426.77,1,Oro,Honduras,Jamaica
+91,51,1937,624.25,1,Us $,Honduras,Jamaica
+91,51,1938,642.98,1,Lempiras,Honduras,Jamaica
+91,51,1939,10835.5,1,Lempiras,Honduras,Jamaica
+91,51,1940,1286.42,1,Lempiras,Honduras,Jamaica
+91,51,1941,22681.02,1,Lempiras,Honduras,Jamaica
+91,51,1942,22386.48,1,Lempiras,Honduras,Jamaica
+91,51,1943,4024.1,1,Lempiras,Honduras,Jamaica
+91,51,1944,22,1,Lempiras,Honduras,Jamaica
+91,51,1945,0,1,Lempiras,Honduras,Jamaica
+91,51,1946,7900.6,1,Lempiras,Honduras,Jamaica
+91,51,1947,12.16,1,Lempiras,Honduras,Jamaica
+91,51,1948,3188.6,1,Lempiras,Honduras,Jamaica
+91,51,1949,2197.08,1,Lempiras,Honduras,Jamaica
+91,52,1921,0,1,Plata,Honduras,Trinidad And Tobago
+91,52,1922,0,1,Gold Us $,Honduras,Trinidad And Tobago
+91,52,1923,0,1000,Gold Us $,Honduras,Trinidad And Tobago
+91,52,1924,0,1000,Gold Us $,Honduras,Trinidad And Tobago
+91,52,1925,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1926,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1927,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1928,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1929,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1930,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1932,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1933,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1934,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1935,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1936,0,1,Oro,Honduras,Trinidad And Tobago
+91,52,1937,0,1,Us $,Honduras,Trinidad And Tobago
+91,52,1938,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1939,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1940,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1941,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1942,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1943,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1944,464,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1945,2,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1946,411.38,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1947,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1948,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,52,1949,0,1,Lempiras,Honduras,Trinidad And Tobago
+91,68,1921,0,1,Plata,Honduras,Netherlands Antilles
+91,68,1922,0,1,Gold Us $,Honduras,Netherlands Antilles
+91,68,1923,0,1000,Gold Us $,Honduras,Netherlands Antilles
+91,68,1924,0,1000,Gold Us $,Honduras,Netherlands Antilles
+91,68,1925,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1926,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1927,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1928,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1929,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1930,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1932,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1933,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1934,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1935,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1936,0,1,Oro,Honduras,Netherlands Antilles
+91,68,1937,0,1,Us $,Honduras,Netherlands Antilles
+91,68,1938,848507.9,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1939,757961.2,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1940,828006.62,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1941,830830.72,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1942,562480.74,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1943,139715.44,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1944,766731.84,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1945,945945,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1946,1377487.96,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1947,1865038.36,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1948,3655771.14,1,Lempiras,Honduras,Netherlands Antilles
+91,68,1949,3441853.7,1,Lempiras,Honduras,Netherlands Antilles
+91,70,1921,326439.7,1,Plata,Honduras,Mexico
+91,70,1922,71608.03999999999,1,Gold Us $,Honduras,Mexico
+91,70,1923,0,1000,Gold Us $,Honduras,Mexico
+91,70,1924,56,1000,Gold Us $,Honduras,Mexico
+91,70,1925,243294.82,1,Oro,Honduras,Mexico
+91,70,1926,91436.48,1,Oro,Honduras,Mexico
+91,70,1927,108686.01,1,Oro,Honduras,Mexico
+91,70,1928,26787.17,1,Oro,Honduras,Mexico
+91,70,1929,30964.37,1,Oro,Honduras,Mexico
+91,70,1930,45869.72,1,Oro,Honduras,Mexico
+91,70,1932,7037.29,1,Oro,Honduras,Mexico
+91,70,1933,5804.33,1,Oro,Honduras,Mexico
+91,70,1934,9074.200000000001,1,Oro,Honduras,Mexico
+91,70,1935,14134.81,1,Oro,Honduras,Mexico
+91,70,1936,9098.139999999999,1,Oro,Honduras,Mexico
+91,70,1937,3572.9,1,Us $,Honduras,Mexico
+91,70,1938,6704.84,1,Lempiras,Honduras,Mexico
+91,70,1939,10159.82,1,Lempiras,Honduras,Mexico
+91,70,1940,46188.56,1,Lempiras,Honduras,Mexico
+91,70,1941,77524.2,1,Lempiras,Honduras,Mexico
+91,70,1942,474914.48,1,Lempiras,Honduras,Mexico
+91,70,1943,2349312.34,1,Lempiras,Honduras,Mexico
+91,70,1944,2434446.18,1,Lempiras,Honduras,Mexico
+91,70,1945,1899577.68,1,Lempiras,Honduras,Mexico
+91,70,1946,2380177.86,1,Lempiras,Honduras,Mexico
+91,70,1947,2454439.14,1,Lempiras,Honduras,Mexico
+91,70,1948,3473115.32,1,Lempiras,Honduras,Mexico
+91,70,1949,1004276.54,1,Lempiras,Honduras,Mexico
+91,80,1921,38301.88,1,Plata,Honduras,Belize
+91,80,1922,14997.63,1,Gold Us $,Honduras,Belize
+91,80,1923,0,1000,Gold Us $,Honduras,Belize
+91,80,1924,0,1000,Gold Us $,Honduras,Belize
+91,80,1925,4590.92,1,Oro,Honduras,Belize
+91,80,1926,6118.92,1,Oro,Honduras,Belize
+91,80,1927,8067.94,1,Oro,Honduras,Belize
+91,80,1928,2186.66,1,Oro,Honduras,Belize
+91,80,1929,17658.54,1,Oro,Honduras,Belize
+91,80,1930,23985.4,1,Oro,Honduras,Belize
+91,80,1932,3925.72,1,Oro,Honduras,Belize
+91,80,1933,3506.65,1,Oro,Honduras,Belize
+91,80,1934,9640.02,1,Oro,Honduras,Belize
+91,80,1935,7156.35,1,Oro,Honduras,Belize
+91,80,1936,1831.11,1,Oro,Honduras,Belize
+91,80,1937,2308.21,1,Us $,Honduras,Belize
+91,80,1938,40509.4,1,Lempiras,Honduras,Belize
+91,80,1939,12166.5,1,Lempiras,Honduras,Belize
+91,80,1940,8548.82,1,Lempiras,Honduras,Belize
+91,80,1941,2474.02,1,Lempiras,Honduras,Belize
+91,80,1942,3359.8,1,Lempiras,Honduras,Belize
+91,80,1943,4210.6,1,Lempiras,Honduras,Belize
+91,80,1944,12078.9,1,Lempiras,Honduras,Belize
+91,80,1945,5623.74,1,Lempiras,Honduras,Belize
+91,80,1946,34897.02,1,Lempiras,Honduras,Belize
+91,80,1947,30192.3,1,Lempiras,Honduras,Belize
+91,80,1948,35943.86,1,Lempiras,Honduras,Belize
+91,80,1949,8286.26,1,Lempiras,Honduras,Belize
+91,90,1921,65027.34,1,Plata,Honduras,Guatemala
+91,90,1922,26951.98,1,Gold Us $,Honduras,Guatemala
+91,90,1923,0,1000,Gold Us $,Honduras,Guatemala
+91,90,1924,0,1000,Gold Us $,Honduras,Guatemala
+91,90,1925,63270.71,1,Oro,Honduras,Guatemala
+91,90,1926,65497.49,1,Oro,Honduras,Guatemala
+91,90,1927,45736.71,1,Oro,Honduras,Guatemala
+91,90,1928,66592.16,1,Oro,Honduras,Guatemala
+91,90,1929,61422.83,1,Oro,Honduras,Guatemala
+91,90,1930,73265.97,1,Oro,Honduras,Guatemala
+91,90,1932,23373.51,1,Oro,Honduras,Guatemala
+91,90,1933,22066.12,1,Oro,Honduras,Guatemala
+91,90,1934,10514.96,1,Oro,Honduras,Guatemala
+91,90,1935,23003.55,1,Oro,Honduras,Guatemala
+91,90,1936,20845.63,1,Oro,Honduras,Guatemala
+91,90,1937,18006.17,1,Us $,Honduras,Guatemala
+91,90,1938,20275.56,1,Lempiras,Honduras,Guatemala
+91,90,1939,24201.58,1,Lempiras,Honduras,Guatemala
+91,90,1940,21375.26,1,Lempiras,Honduras,Guatemala
+91,90,1941,152641.86,1,Lempiras,Honduras,Guatemala
+91,90,1942,125186.84,1,Lempiras,Honduras,Guatemala
+91,90,1943,232646.52,1,Lempiras,Honduras,Guatemala
+91,90,1944,267222.02,1,Lempiras,Honduras,Guatemala
+91,90,1945,419564.78,1,Lempiras,Honduras,Guatemala
+91,90,1946,80507.88,1,Lempiras,Honduras,Guatemala
+91,90,1947,86019.8,1,Lempiras,Honduras,Guatemala
+91,90,1948,73234.74000000001,1,Lempiras,Honduras,Guatemala
+91,90,1949,126889.38,1,Lempiras,Honduras,Guatemala
+91,92,1921,49262.24,1,Plata,Honduras,El Salvador
+91,92,1922,14182.67,1,Gold Us $,Honduras,El Salvador
+91,92,1923,0,1000,Gold Us $,Honduras,El Salvador
+91,92,1924,0,1000,Gold Us $,Honduras,El Salvador
+91,92,1925,13034,1,Oro,Honduras,El Salvador
+91,92,1926,16253.84,1,Oro,Honduras,El Salvador
+91,92,1927,113332.43,1,Oro,Honduras,El Salvador
+91,92,1928,140789.58,1,Oro,Honduras,El Salvador
+91,92,1929,139364.87,1,Oro,Honduras,El Salvador
+91,92,1930,160923.83,1,Oro,Honduras,El Salvador
+91,92,1932,34519.42,1,Oro,Honduras,El Salvador
+91,92,1933,17516.78,1,Oro,Honduras,El Salvador
+91,92,1934,58817.4,1,Oro,Honduras,El Salvador
+91,92,1935,102456.37,1,Oro,Honduras,El Salvador
+91,92,1936,117164.62,1,Oro,Honduras,El Salvador
+91,92,1937,251847.96,1,Us $,Honduras,El Salvador
+91,92,1938,705193.34,1,Lempiras,Honduras,El Salvador
+91,92,1939,957363.72,1,Lempiras,Honduras,El Salvador
+91,92,1940,1100100.02,1,Lempiras,Honduras,El Salvador
+91,92,1941,1253359.88,1,Lempiras,Honduras,El Salvador
+91,92,1942,1608151.72,1,Lempiras,Honduras,El Salvador
+91,92,1943,1790834.26,1,Lempiras,Honduras,El Salvador
+91,92,1944,3107044.24,1,Lempiras,Honduras,El Salvador
+91,92,1945,1974106.66,1,Lempiras,Honduras,El Salvador
+91,92,1946,3106818.76,1,Lempiras,Honduras,El Salvador
+91,92,1947,3539416.92,1,Lempiras,Honduras,El Salvador
+91,92,1948,3632146.22,1,Lempiras,Honduras,El Salvador
+91,92,1949,4175524.52,1,Lempiras,Honduras,El Salvador
+91,93,1921,130136.02,1,Plata,Honduras,Nicaragua
+91,93,1922,41095.13,1,Gold Us $,Honduras,Nicaragua
+91,93,1923,0,1000,Gold Us $,Honduras,Nicaragua
+91,93,1924,0,1000,Gold Us $,Honduras,Nicaragua
+91,93,1925,25626.32,1,Oro,Honduras,Nicaragua
+91,93,1926,42806.35,1,Oro,Honduras,Nicaragua
+91,93,1927,37686.78,1,Oro,Honduras,Nicaragua
+91,93,1928,138562.12,1,Oro,Honduras,Nicaragua
+91,93,1929,202896.59,1,Oro,Honduras,Nicaragua
+91,93,1930,222386.7,1,Oro,Honduras,Nicaragua
+91,93,1932,108072,1,Oro,Honduras,Nicaragua
+91,93,1933,66824.33,1,Oro,Honduras,Nicaragua
+91,93,1934,85527.12,1,Oro,Honduras,Nicaragua
+91,93,1935,137471.39,1,Oro,Honduras,Nicaragua
+91,93,1936,145831.6,1,Oro,Honduras,Nicaragua
+91,93,1937,27324.68,1,Us $,Honduras,Nicaragua
+91,93,1938,45114.12,1,Lempiras,Honduras,Nicaragua
+91,93,1939,38117.54,1,Lempiras,Honduras,Nicaragua
+91,93,1940,39855.46,1,Lempiras,Honduras,Nicaragua
+91,93,1941,33072.1,1,Lempiras,Honduras,Nicaragua
+91,93,1942,36559.02,1,Lempiras,Honduras,Nicaragua
+91,93,1943,48983.74,1,Lempiras,Honduras,Nicaragua
+91,93,1944,681910.7,1,Lempiras,Honduras,Nicaragua
+91,93,1945,104905.16,1,Lempiras,Honduras,Nicaragua
+91,93,1946,67713.3,1,Lempiras,Honduras,Nicaragua
+91,93,1947,100208.82,1,Lempiras,Honduras,Nicaragua
+91,93,1948,62513,1,Lempiras,Honduras,Nicaragua
+91,93,1949,45196.22,1,Lempiras,Honduras,Nicaragua
+91,94,1921,936,1,Plata,Honduras,Costa Rica
+91,94,1922,3578.85,1,Gold Us $,Honduras,Costa Rica
+91,94,1923,0,1000,Gold Us $,Honduras,Costa Rica
+91,94,1924,0,1000,Gold Us $,Honduras,Costa Rica
+91,94,1925,15,1,Oro,Honduras,Costa Rica
+91,94,1926,2417.66,1,Oro,Honduras,Costa Rica
+91,94,1927,1202.07,1,Oro,Honduras,Costa Rica
+91,94,1928,1325.1,1,Oro,Honduras,Costa Rica
+91,94,1929,338.25,1,Oro,Honduras,Costa Rica
+91,94,1930,1363.59,1,Oro,Honduras,Costa Rica
+91,94,1932,6550.54,1,Oro,Honduras,Costa Rica
+91,94,1933,1771.75,1,Oro,Honduras,Costa Rica
+91,94,1934,1584.58,1,Oro,Honduras,Costa Rica
+91,94,1935,1216.78,1,Oro,Honduras,Costa Rica
+91,94,1936,1750.72,1,Oro,Honduras,Costa Rica
+91,94,1937,3181.62,1,Us $,Honduras,Costa Rica
+91,94,1938,4999.72,1,Lempiras,Honduras,Costa Rica
+91,94,1939,6131.7,1,Lempiras,Honduras,Costa Rica
+91,94,1940,15120.48,1,Lempiras,Honduras,Costa Rica
+91,94,1941,23095.28,1,Lempiras,Honduras,Costa Rica
+91,94,1942,27379.32,1,Lempiras,Honduras,Costa Rica
+91,94,1943,28324.12,1,Lempiras,Honduras,Costa Rica
+91,94,1944,22114.02,1,Lempiras,Honduras,Costa Rica
+91,94,1945,31411.98,1,Lempiras,Honduras,Costa Rica
+91,94,1946,35299.16,1,Lempiras,Honduras,Costa Rica
+91,94,1947,103354.22,1,Lempiras,Honduras,Costa Rica
+91,94,1948,69272.38,1,Lempiras,Honduras,Costa Rica
+91,94,1949,56986.16,1,Lempiras,Honduras,Costa Rica
+91,95,1921,5339.2,1,Plata,Honduras,Panama
+91,95,1922,16155.74,1,Gold Us $,Honduras,Panama
+91,95,1923,0,1000,Gold Us $,Honduras,Panama
+91,95,1924,0,1000,Gold Us $,Honduras,Panama
+91,95,1925,2301.63,1,Oro,Honduras,Panama
+91,95,1926,3275.85,1,Oro,Honduras,Panama
+91,95,1927,10008.89,1,Oro,Honduras,Panama
+91,95,1928,9384.58,1,Oro,Honduras,Panama
+91,95,1929,54741.57,1,Oro,Honduras,Panama
+91,95,1930,70076.87,1,Oro,Honduras,Panama
+91,95,1932,204807.01,1,Oro,Honduras,Panama
+91,95,1933,9012.450000000001,1,Oro,Honduras,Panama
+91,95,1934,18682.89,1,Oro,Honduras,Panama
+91,95,1935,10054.12,1,Oro,Honduras,Panama
+91,95,1936,10165.07,1,Oro,Honduras,Panama
+91,95,1937,20526.73,1,Us $,Honduras,Panama
+91,95,1938,44528.94,1,Lempiras,Honduras,Panama
+91,95,1939,40983.4,1,Lempiras,Honduras,Panama
+91,95,1940,34378.08,1,Lempiras,Honduras,Panama
+91,95,1941,30043.08,1,Lempiras,Honduras,Panama
+91,95,1942,57075,1,Lempiras,Honduras,Panama
+91,95,1943,140419.78,1,Lempiras,Honduras,Panama
+91,95,1944,123073.72,1,Lempiras,Honduras,Panama
+91,95,1945,92146.22,1,Lempiras,Honduras,Panama
+91,95,1946,291305.3,1,Lempiras,Honduras,Panama
+91,95,1947,188927.9,1,Lempiras,Honduras,Panama
+91,95,1948,77786.94,1,Lempiras,Honduras,Panama
+91,95,1949,118410.8,1,Lempiras,Honduras,Panama
+91,100,1921,0,1,Plata,Honduras,Colombia
+91,100,1922,0,1,Gold Us $,Honduras,Colombia
+91,100,1923,0,1000,Gold Us $,Honduras,Colombia
+91,100,1924,0,1000,Gold Us $,Honduras,Colombia
+91,100,1925,0,1,Oro,Honduras,Colombia
+91,100,1926,0,1,Oro,Honduras,Colombia
+91,100,1927,200,1,Oro,Honduras,Colombia
+91,100,1928,16.08,1,Oro,Honduras,Colombia
+91,100,1929,0,1,Oro,Honduras,Colombia
+91,100,1930,2.75,1,Oro,Honduras,Colombia
+91,100,1932,0,1,Oro,Honduras,Colombia
+91,100,1933,0,1,Oro,Honduras,Colombia
+91,100,1934,163.5,1,Oro,Honduras,Colombia
+91,100,1935,2500,1,Oro,Honduras,Colombia
+91,100,1936,448,1,Oro,Honduras,Colombia
+91,100,1937,25,1,Us $,Honduras,Colombia
+91,100,1938,184.52,1,Lempiras,Honduras,Colombia
+91,100,1939,12,1,Lempiras,Honduras,Colombia
+91,100,1940,854.68,1,Lempiras,Honduras,Colombia
+91,100,1941,4578.1,1,Lempiras,Honduras,Colombia
+91,100,1942,812.76,1,Lempiras,Honduras,Colombia
+91,100,1943,0,1,Lempiras,Honduras,Colombia
+91,100,1944,1653.2,1,Lempiras,Honduras,Colombia
+91,100,1945,44061.18,1,Lempiras,Honduras,Colombia
+91,100,1946,131131.3,1,Lempiras,Honduras,Colombia
+91,100,1947,235870.84,1,Lempiras,Honduras,Colombia
+91,100,1948,241374.12,1,Lempiras,Honduras,Colombia
+91,100,1949,87834.60000000001,1,Lempiras,Honduras,Colombia
+91,101,1921,0,1,Plata,Honduras,Venezuela
+91,101,1922,0,1,Gold Us $,Honduras,Venezuela
+91,101,1923,0,1000,Gold Us $,Honduras,Venezuela
+91,101,1924,0,1000,Gold Us $,Honduras,Venezuela
+91,101,1925,0,1,Oro,Honduras,Venezuela
+91,101,1926,0,1,Oro,Honduras,Venezuela
+91,101,1927,0,1,Oro,Honduras,Venezuela
+91,101,1928,0,1,Oro,Honduras,Venezuela
+91,101,1929,675.5,1,Oro,Honduras,Venezuela
+91,101,1930,0,1,Oro,Honduras,Venezuela
+91,101,1932,0,1,Oro,Honduras,Venezuela
+91,101,1933,75.90000000000001,1,Oro,Honduras,Venezuela
+91,101,1934,13.27,1,Oro,Honduras,Venezuela
+91,101,1935,0,1,Oro,Honduras,Venezuela
+91,101,1936,0,1,Oro,Honduras,Venezuela
+91,101,1937,0,1,Us $,Honduras,Venezuela
+91,101,1938,0,1,Lempiras,Honduras,Venezuela
+91,101,1939,900,1,Lempiras,Honduras,Venezuela
+91,101,1940,11.26,1,Lempiras,Honduras,Venezuela
+91,101,1941,0,1,Lempiras,Honduras,Venezuela
+91,101,1942,0,1,Lempiras,Honduras,Venezuela
+91,101,1943,30,1,Lempiras,Honduras,Venezuela
+91,101,1944,0,1,Lempiras,Honduras,Venezuela
+91,101,1945,100,1,Lempiras,Honduras,Venezuela
+91,101,1946,346.5,1,Lempiras,Honduras,Venezuela
+91,101,1947,1765.72,1,Lempiras,Honduras,Venezuela
+91,101,1948,135.88,1,Lempiras,Honduras,Venezuela
+91,101,1949,760,1,Lempiras,Honduras,Venezuela
+91,110,1921,0,1,Plata,Honduras,Guyana
+91,110,1922,0,1,Gold Us $,Honduras,Guyana
+91,110,1923,0,1000,Gold Us $,Honduras,Guyana
+91,110,1924,0,1000,Gold Us $,Honduras,Guyana
+91,110,1925,0,1,Oro,Honduras,Guyana
+91,110,1926,0,1,Oro,Honduras,Guyana
+91,110,1927,0,1,Oro,Honduras,Guyana
+91,110,1928,0,1,Oro,Honduras,Guyana
+91,110,1929,0,1,Oro,Honduras,Guyana
+91,110,1930,0,1,Oro,Honduras,Guyana
+91,110,1932,0,1,Oro,Honduras,Guyana
+91,110,1933,0,1,Oro,Honduras,Guyana
+91,110,1934,0,1,Oro,Honduras,Guyana
+91,110,1935,0,1,Oro,Honduras,Guyana
+91,110,1936,0,1,Oro,Honduras,Guyana
+91,110,1937,0,1,Us $,Honduras,Guyana
+91,110,1938,0,1,Lempiras,Honduras,Guyana
+91,110,1939,0,1,Lempiras,Honduras,Guyana
+91,110,1940,0,1,Lempiras,Honduras,Guyana
+91,110,1941,0,1,Lempiras,Honduras,Guyana
+91,110,1942,0,1,Lempiras,Honduras,Guyana
+91,110,1943,0,1,Lempiras,Honduras,Guyana
+91,110,1944,0,1,Lempiras,Honduras,Guyana
+91,110,1945,0,1,Lempiras,Honduras,Guyana
+91,110,1946,32412.8,1,Lempiras,Honduras,Guyana
+91,110,1947,0,1,Lempiras,Honduras,Guyana
+91,110,1948,0,1,Lempiras,Honduras,Guyana
+91,110,1949,0,1,Lempiras,Honduras,Guyana
+91,115,1921,0,1,Plata,Honduras,Suriname
+91,115,1922,0,1,Gold Us $,Honduras,Suriname
+91,115,1923,0,1000,Gold Us $,Honduras,Suriname
+91,115,1924,0,1000,Gold Us $,Honduras,Suriname
+91,115,1925,0,1,Oro,Honduras,Suriname
+91,115,1926,0,1,Oro,Honduras,Suriname
+91,115,1927,0,1,Oro,Honduras,Suriname
+91,115,1928,0,1,Oro,Honduras,Suriname
+91,115,1929,0,1,Oro,Honduras,Suriname
+91,115,1930,0,1,Oro,Honduras,Suriname
+91,115,1932,0,1,Oro,Honduras,Suriname
+91,115,1933,0,1,Oro,Honduras,Suriname
+91,115,1934,0,1,Oro,Honduras,Suriname
+91,115,1935,0,1,Oro,Honduras,Suriname
+91,115,1936,0,1,Oro,Honduras,Suriname
+91,115,1937,0,1,Us $,Honduras,Suriname
+91,115,1938,46362.46,1,Lempiras,Honduras,Suriname
+91,115,1939,0,1,Lempiras,Honduras,Suriname
+91,115,1940,0,1,Lempiras,Honduras,Suriname
+91,115,1941,0,1,Lempiras,Honduras,Suriname
+91,115,1942,0,1,Lempiras,Honduras,Suriname
+91,115,1943,0,1,Lempiras,Honduras,Suriname
+91,115,1944,0,1,Lempiras,Honduras,Suriname
+91,115,1945,0,1,Lempiras,Honduras,Suriname
+91,115,1946,0,1,Lempiras,Honduras,Suriname
+91,115,1947,0,1,Lempiras,Honduras,Suriname
+91,115,1948,0,1,Lempiras,Honduras,Suriname
+91,115,1949,0,1,Lempiras,Honduras,Suriname
+91,130,1921,0,1,Plata,Honduras,Ecuador
+91,130,1922,0,1,Gold Us $,Honduras,Ecuador
+91,130,1923,0,1000,Gold Us $,Honduras,Ecuador
+91,130,1924,0,1000,Gold Us $,Honduras,Ecuador
+91,130,1925,0,1,Oro,Honduras,Ecuador
+91,130,1926,0,1,Oro,Honduras,Ecuador
+91,130,1927,0,1,Oro,Honduras,Ecuador
+91,130,1928,0,1,Oro,Honduras,Ecuador
+91,130,1929,0,1,Oro,Honduras,Ecuador
+91,130,1930,0,1,Oro,Honduras,Ecuador
+91,130,1932,0,1,Oro,Honduras,Ecuador
+91,130,1933,1116,1,Oro,Honduras,Ecuador
+91,130,1934,1219.8,1,Oro,Honduras,Ecuador
+91,130,1935,1,1,Oro,Honduras,Ecuador
+91,130,1936,30,1,Oro,Honduras,Ecuador
+91,130,1937,110,1,Us $,Honduras,Ecuador
+91,130,1938,230,1,Lempiras,Honduras,Ecuador
+91,130,1939,590,1,Lempiras,Honduras,Ecuador
+91,130,1940,102.84,1,Lempiras,Honduras,Ecuador
+91,130,1941,2768.9,1,Lempiras,Honduras,Ecuador
+91,130,1942,5693.86,1,Lempiras,Honduras,Ecuador
+91,130,1943,33118.04,1,Lempiras,Honduras,Ecuador
+91,130,1944,8590.540000000001,1,Lempiras,Honduras,Ecuador
+91,130,1945,364,1,Lempiras,Honduras,Ecuador
+91,130,1946,7448.64,1,Lempiras,Honduras,Ecuador
+91,130,1947,1197.44,1,Lempiras,Honduras,Ecuador
+91,130,1948,872.0599999999999,1,Lempiras,Honduras,Ecuador
+91,130,1949,347.18,1,Lempiras,Honduras,Ecuador
+91,135,1921,1920,1,Plata,Honduras,Peru
+91,135,1922,32949,1,Gold Us $,Honduras,Peru
+91,135,1923,0,1000,Gold Us $,Honduras,Peru
+91,135,1924,0,1000,Gold Us $,Honduras,Peru
+91,135,1925,25116.66,1,Oro,Honduras,Peru
+91,135,1926,28910.01,1,Oro,Honduras,Peru
+91,135,1927,54869.5,1,Oro,Honduras,Peru
+91,135,1928,63176.5,1,Oro,Honduras,Peru
+91,135,1929,39893.2,1,Oro,Honduras,Peru
+91,135,1930,41758.15,1,Oro,Honduras,Peru
+91,135,1932,36287.04,1,Oro,Honduras,Peru
+91,135,1933,16406.9,1,Oro,Honduras,Peru
+91,135,1934,30536.47,1,Oro,Honduras,Peru
+91,135,1935,59431.32,1,Oro,Honduras,Peru
+91,135,1936,81631.86,1,Oro,Honduras,Peru
+91,135,1937,63085.29,1,Us $,Honduras,Peru
+91,135,1938,103069.44,1,Lempiras,Honduras,Peru
+91,135,1939,112058.76,1,Lempiras,Honduras,Peru
+91,135,1940,69000.44,1,Lempiras,Honduras,Peru
+91,135,1941,66051.94,1,Lempiras,Honduras,Peru
+91,135,1942,63496.38,1,Lempiras,Honduras,Peru
+91,135,1943,242398.58,1,Lempiras,Honduras,Peru
+91,135,1944,436515.36,1,Lempiras,Honduras,Peru
+91,135,1945,330717.36,1,Lempiras,Honduras,Peru
+91,135,1946,1134005.64,1,Lempiras,Honduras,Peru
+91,135,1947,294023.7,1,Lempiras,Honduras,Peru
+91,135,1948,365341.82,1,Lempiras,Honduras,Peru
+91,135,1949,491730.32,1,Lempiras,Honduras,Peru
+91,140,1921,0,1,Plata,Honduras,Brazil
+91,140,1922,0,1,Gold Us $,Honduras,Brazil
+91,140,1923,0,1000,Gold Us $,Honduras,Brazil
+91,140,1924,0,1000,Gold Us $,Honduras,Brazil
+91,140,1925,0,1,Oro,Honduras,Brazil
+91,140,1926,0,1,Oro,Honduras,Brazil
+91,140,1927,0,1,Oro,Honduras,Brazil
+91,140,1928,0,1,Oro,Honduras,Brazil
+91,140,1929,0,1,Oro,Honduras,Brazil
+91,140,1930,0,1,Oro,Honduras,Brazil
+91,140,1932,0,1,Oro,Honduras,Brazil
+91,140,1933,118.5,1,Oro,Honduras,Brazil
+91,140,1934,1015.3,1,Oro,Honduras,Brazil
+91,140,1935,944.15,1,Oro,Honduras,Brazil
+91,140,1936,648.5,1,Oro,Honduras,Brazil
+91,140,1937,1070.83,1,Us $,Honduras,Brazil
+91,140,1938,955.74,1,Lempiras,Honduras,Brazil
+91,140,1939,1366.46,1,Lempiras,Honduras,Brazil
+91,140,1940,5118.5,1,Lempiras,Honduras,Brazil
+91,140,1941,4403.64,1,Lempiras,Honduras,Brazil
+91,140,1942,14944.1,1,Lempiras,Honduras,Brazil
+91,140,1943,19370.56,1,Lempiras,Honduras,Brazil
+91,140,1944,66326.5,1,Lempiras,Honduras,Brazil
+91,140,1945,112889.7,1,Lempiras,Honduras,Brazil
+91,140,1946,249380.98,1,Lempiras,Honduras,Brazil
+91,140,1947,41062.04,1,Lempiras,Honduras,Brazil
+91,140,1948,44642.12,1,Lempiras,Honduras,Brazil
+91,140,1949,22708.22,1,Lempiras,Honduras,Brazil
+91,145,1921,0,1,Plata,Honduras,Bolivia
+91,145,1922,0,1,Gold Us $,Honduras,Bolivia
+91,145,1923,0,1000,Gold Us $,Honduras,Bolivia
+91,145,1924,0,1000,Gold Us $,Honduras,Bolivia
+91,145,1925,0,1,Oro,Honduras,Bolivia
+91,145,1926,0,1,Oro,Honduras,Bolivia
+91,145,1927,0,1,Oro,Honduras,Bolivia
+91,145,1928,0,1,Oro,Honduras,Bolivia
+91,145,1929,0,1,Oro,Honduras,Bolivia
+91,145,1930,0,1,Oro,Honduras,Bolivia
+91,145,1932,0,1,Oro,Honduras,Bolivia
+91,145,1933,0,1,Oro,Honduras,Bolivia
+91,145,1934,0,1,Oro,Honduras,Bolivia
+91,145,1935,0,1,Oro,Honduras,Bolivia
+91,145,1936,0,1,Oro,Honduras,Bolivia
+91,145,1937,0,1,Us $,Honduras,Bolivia
+91,145,1938,0,1,Lempiras,Honduras,Bolivia
+91,145,1939,0,1,Lempiras,Honduras,Bolivia
+91,145,1940,0,1,Lempiras,Honduras,Bolivia
+91,145,1941,12,1,Lempiras,Honduras,Bolivia
+91,145,1942,25.4,1,Lempiras,Honduras,Bolivia
+91,145,1943,26,1,Lempiras,Honduras,Bolivia
+91,145,1944,0,1,Lempiras,Honduras,Bolivia
+91,145,1945,0,1,Lempiras,Honduras,Bolivia
+91,145,1946,0,1,Lempiras,Honduras,Bolivia
+91,145,1947,412.26,1,Lempiras,Honduras,Bolivia
+91,145,1948,0,1,Lempiras,Honduras,Bolivia
+91,145,1949,0,1,Lempiras,Honduras,Bolivia
+91,150,1921,0,1,Plata,Honduras,Paraguay
+91,150,1922,0,1,Gold Us $,Honduras,Paraguay
+91,150,1923,0,1000,Gold Us $,Honduras,Paraguay
+91,150,1924,0,1000,Gold Us $,Honduras,Paraguay
+91,150,1925,0,1,Oro,Honduras,Paraguay
+91,150,1926,0,1,Oro,Honduras,Paraguay
+91,150,1927,0,1,Oro,Honduras,Paraguay
+91,150,1928,0,1,Oro,Honduras,Paraguay
+91,150,1929,320,1,Oro,Honduras,Paraguay
+91,150,1930,0,1,Oro,Honduras,Paraguay
+91,150,1932,0,1,Oro,Honduras,Paraguay
+91,150,1933,0,1,Oro,Honduras,Paraguay
+91,150,1934,0,1,Oro,Honduras,Paraguay
+91,150,1935,0,1,Oro,Honduras,Paraguay
+91,150,1936,0,1,Oro,Honduras,Paraguay
+91,150,1937,0,1,Us $,Honduras,Paraguay
+91,150,1938,0,1,Lempiras,Honduras,Paraguay
+91,150,1939,0,1,Lempiras,Honduras,Paraguay
+91,150,1940,0,1,Lempiras,Honduras,Paraguay
+91,150,1941,0,1,Lempiras,Honduras,Paraguay
+91,150,1942,0,1,Lempiras,Honduras,Paraguay
+91,150,1943,0,1,Lempiras,Honduras,Paraguay
+91,150,1944,0,1,Lempiras,Honduras,Paraguay
+91,150,1945,0,1,Lempiras,Honduras,Paraguay
+91,150,1946,0,1,Lempiras,Honduras,Paraguay
+91,150,1947,0,1,Lempiras,Honduras,Paraguay
+91,150,1948,0,1,Lempiras,Honduras,Paraguay
+91,150,1949,0,1,Lempiras,Honduras,Paraguay
+91,155,1921,0,1,Plata,Honduras,Chile
+91,155,1922,0,1,Gold Us $,Honduras,Chile
+91,155,1923,0,1000,Gold Us $,Honduras,Chile
+91,155,1924,0,1000,Gold Us $,Honduras,Chile
+91,155,1925,0,1,Oro,Honduras,Chile
+91,155,1926,0,1,Oro,Honduras,Chile
+91,155,1927,0,1,Oro,Honduras,Chile
+91,155,1928,30,1,Oro,Honduras,Chile
+91,155,1929,85.25,1,Oro,Honduras,Chile
+91,155,1930,43.06,1,Oro,Honduras,Chile
+91,155,1932,0,1,Oro,Honduras,Chile
+91,155,1933,202.6,1,Oro,Honduras,Chile
+91,155,1934,285,1,Oro,Honduras,Chile
+91,155,1935,5,1,Oro,Honduras,Chile
+91,155,1936,85,1,Oro,Honduras,Chile
+91,155,1937,1,1,Us $,Honduras,Chile
+91,155,1938,366.22,1,Lempiras,Honduras,Chile
+91,155,1939,8.26,1,Lempiras,Honduras,Chile
+91,155,1940,0,1,Lempiras,Honduras,Chile
+91,155,1941,3542,1,Lempiras,Honduras,Chile
+91,155,1942,261317.68,1,Lempiras,Honduras,Chile
+91,155,1943,2144.08,1,Lempiras,Honduras,Chile
+91,155,1944,11258.44,1,Lempiras,Honduras,Chile
+91,155,1945,922668.88,1,Lempiras,Honduras,Chile
+91,155,1946,134419.16,1,Lempiras,Honduras,Chile
+91,155,1947,347155.98,1,Lempiras,Honduras,Chile
+91,155,1948,262964.08,1,Lempiras,Honduras,Chile
+91,155,1949,581303.52,1,Lempiras,Honduras,Chile
+91,160,1921,0,1,Plata,Honduras,Argentina
+91,160,1922,0,1,Gold Us $,Honduras,Argentina
+91,160,1923,0,1000,Gold Us $,Honduras,Argentina
+91,160,1924,0,1000,Gold Us $,Honduras,Argentina
+91,160,1925,0,1,Oro,Honduras,Argentina
+91,160,1926,0,1,Oro,Honduras,Argentina
+91,160,1927,1662,1,Oro,Honduras,Argentina
+91,160,1928,255.25,1,Oro,Honduras,Argentina
+91,160,1929,1830.9,1,Oro,Honduras,Argentina
+91,160,1930,5350.2,1,Oro,Honduras,Argentina
+91,160,1932,0,1,Oro,Honduras,Argentina
+91,160,1933,932.6,1,Oro,Honduras,Argentina
+91,160,1934,1042.65,1,Oro,Honduras,Argentina
+91,160,1935,6705.87,1,Oro,Honduras,Argentina
+91,160,1936,7042.87,1,Oro,Honduras,Argentina
+91,160,1937,17034.54,1,Us $,Honduras,Argentina
+91,160,1938,35227.98,1,Lempiras,Honduras,Argentina
+91,160,1939,2120.9,1,Lempiras,Honduras,Argentina
+91,160,1940,17702.68,1,Lempiras,Honduras,Argentina
+91,160,1941,28386.36,1,Lempiras,Honduras,Argentina
+91,160,1942,15593.16,1,Lempiras,Honduras,Argentina
+91,160,1943,3803.62,1,Lempiras,Honduras,Argentina
+91,160,1944,48800.1,1,Lempiras,Honduras,Argentina
+91,160,1945,93396.67999999999,1,Lempiras,Honduras,Argentina
+91,160,1946,87748.86,1,Lempiras,Honduras,Argentina
+91,160,1947,91966.48,1,Lempiras,Honduras,Argentina
+91,160,1948,38969.98,1,Lempiras,Honduras,Argentina
+91,160,1949,42434.14,1,Lempiras,Honduras,Argentina
+91,165,1921,0,1,Plata,Honduras,Uruguay
+91,165,1922,0,1,Gold Us $,Honduras,Uruguay
+91,165,1923,0,1000,Gold Us $,Honduras,Uruguay
+91,165,1924,0,1000,Gold Us $,Honduras,Uruguay
+91,165,1925,0,1,Oro,Honduras,Uruguay
+91,165,1926,0,1,Oro,Honduras,Uruguay
+91,165,1927,0,1,Oro,Honduras,Uruguay
+91,165,1928,0,1,Oro,Honduras,Uruguay
+91,165,1929,12,1,Oro,Honduras,Uruguay
+91,165,1930,501,1,Oro,Honduras,Uruguay
+91,165,1932,0,1,Oro,Honduras,Uruguay
+91,165,1933,0,1,Oro,Honduras,Uruguay
+91,165,1934,0,1,Oro,Honduras,Uruguay
+91,165,1935,0,1,Oro,Honduras,Uruguay
+91,165,1936,0,1,Oro,Honduras,Uruguay
+91,165,1937,0,1,Us $,Honduras,Uruguay
+91,165,1938,0,1,Lempiras,Honduras,Uruguay
+91,165,1939,0,1,Lempiras,Honduras,Uruguay
+91,165,1940,0,1,Lempiras,Honduras,Uruguay
+91,165,1941,11449.76,1,Lempiras,Honduras,Uruguay
+91,165,1942,22088.42,1,Lempiras,Honduras,Uruguay
+91,165,1943,7.26,1,Lempiras,Honduras,Uruguay
+91,165,1944,266.5,1,Lempiras,Honduras,Uruguay
+91,165,1945,85692.03999999999,1,Lempiras,Honduras,Uruguay
+91,165,1946,101631.64,1,Lempiras,Honduras,Uruguay
+91,165,1947,93744.5,1,Lempiras,Honduras,Uruguay
+91,165,1948,31335.38,1,Lempiras,Honduras,Uruguay
+91,165,1949,3130.04,1,Lempiras,Honduras,Uruguay
+91,201,1921,2792050.6,1,Plata,Honduras,England
+91,201,1922,553522.54,1,Gold Us $,Honduras,England
+91,201,1923,626,1000,Gold Us $,Honduras,England
+91,201,1924,412,1000,Gold Us $,Honduras,England
+91,201,1925,795921.61,1,Oro,Honduras,England
+91,201,1926,642409.61,1,Oro,Honduras,England
+91,201,1927,748037.2,1,Oro,Honduras,England
+91,201,1928,735312.52,1,Oro,Honduras,England
+91,201,1929,824598.49,1,Oro,Honduras,England
+91,201,1930,923166.97,1,Oro,Honduras,England
+91,201,1932,329605.45,1,Oro,Honduras,England
+91,201,1933,312759.39,1,Oro,Honduras,England
+91,201,1934,436392.79,1,Oro,Honduras,England
+91,201,1935,588837.92,1,Oro,Honduras,England
+91,201,1936,302355.95,1,Oro,Honduras,England
+91,201,1937,328004.48,1,Us $,Honduras,England
+91,201,1938,619637.98,1,Lempiras,Honduras,England
+91,201,1939,590407.76,1,Lempiras,Honduras,England
+91,201,1940,587516.14,1,Lempiras,Honduras,England
+91,201,1941,383538.86,1,Lempiras,Honduras,England
+91,201,1942,272193.28,1,Lempiras,Honduras,England
+91,201,1943,349153.56,1,Lempiras,Honduras,England
+91,201,1944,390810.46,1,Lempiras,Honduras,England
+91,201,1945,284206.36,1,Lempiras,Honduras,England
+91,201,1946,409501.98,1,Lempiras,Honduras,England
+91,201,1947,607741.6800000001,1,Lempiras,Honduras,England
+91,201,1948,756455.3,1,Lempiras,Honduras,England
+91,201,1949,972776.58,1,Lempiras,Honduras,England
+91,202,1921,0,1,Plata,Honduras,Scotland
+91,202,1922,1200,1,Gold Us $,Honduras,Scotland
+91,202,1923,0,1000,Gold Us $,Honduras,Scotland
+91,202,1924,0,1000,Gold Us $,Honduras,Scotland
+91,202,1925,425.91,1,Oro,Honduras,Scotland
+91,202,1926,430,1,Oro,Honduras,Scotland
+91,202,1927,4435.6,1,Oro,Honduras,Scotland
+91,202,1928,14439.19,1,Oro,Honduras,Scotland
+91,202,1929,13209.45,1,Oro,Honduras,Scotland
+91,202,1930,7935.93,1,Oro,Honduras,Scotland
+91,202,1932,4126.65,1,Oro,Honduras,Scotland
+91,202,1933,8154.19,1,Oro,Honduras,Scotland
+91,202,1934,13722.87,1,Oro,Honduras,Scotland
+91,202,1935,16622,1,Oro,Honduras,Scotland
+91,202,1936,7193.83,1,Oro,Honduras,Scotland
+91,202,1937,11250.36,1,Us $,Honduras,Scotland
+91,202,1938,59.28,1,Lempiras,Honduras,Scotland
+91,202,1939,26067.98,1,Lempiras,Honduras,Scotland
+91,202,1940,4991.82,1,Lempiras,Honduras,Scotland
+91,202,1941,3333.2,1,Lempiras,Honduras,Scotland
+91,202,1942,21090.48,1,Lempiras,Honduras,Scotland
+91,202,1943,24711.02,1,Lempiras,Honduras,Scotland
+91,202,1944,23715.56,1,Lempiras,Honduras,Scotland
+91,202,1945,1962.34,1,Lempiras,Honduras,Scotland
+91,202,1946,14906.72,1,Lempiras,Honduras,Scotland
+91,202,1947,25746.22,1,Lempiras,Honduras,Scotland
+91,202,1948,55611.02,1,Lempiras,Honduras,Scotland
+91,202,1949,49445.66,1,Lempiras,Honduras,Scotland
+91,205,1921,0,1,Plata,Honduras,Ireland
+91,205,1922,698.95,1,Gold Us $,Honduras,Ireland
+91,205,1923,0,1000,Gold Us $,Honduras,Ireland
+91,205,1924,0,1000,Gold Us $,Honduras,Ireland
+91,205,1925,81.23999999999999,1,Oro,Honduras,Ireland
+91,205,1926,0,1,Oro,Honduras,Ireland
+91,205,1927,0,1,Oro,Honduras,Ireland
+91,205,1928,0,1,Oro,Honduras,Ireland
+91,205,1929,19.16,1,Oro,Honduras,Ireland
+91,205,1930,649.7,1,Oro,Honduras,Ireland
+91,205,1932,0,1,Oro,Honduras,Ireland
+91,205,1933,296.83,1,Oro,Honduras,Ireland
+91,205,1934,2055.22,1,Oro,Honduras,Ireland
+91,205,1935,1309.23,1,Oro,Honduras,Ireland
+91,205,1936,1842.23,1,Oro,Honduras,Ireland
+91,205,1937,2456.69,1,Us $,Honduras,Ireland
+91,205,1938,0,1,Lempiras,Honduras,Ireland
+91,205,1939,668.42,1,Lempiras,Honduras,Ireland
+91,205,1940,5340.7,1,Lempiras,Honduras,Ireland
+91,205,1941,727.3200000000001,1,Lempiras,Honduras,Ireland
+91,205,1942,424,1,Lempiras,Honduras,Ireland
+91,205,1943,0,1,Lempiras,Honduras,Ireland
+91,205,1944,0,1,Lempiras,Honduras,Ireland
+91,205,1945,0,1,Lempiras,Honduras,Ireland
+91,205,1946,0,1,Lempiras,Honduras,Ireland
+91,205,1947,2920.14,1,Lempiras,Honduras,Ireland
+91,205,1948,12281.78,1,Lempiras,Honduras,Ireland
+91,205,1949,3377.5,1,Lempiras,Honduras,Ireland
+91,210,1921,33555.64,1,Plata,Honduras,Netherlands
+91,210,1922,24132.51,1,Gold Us $,Honduras,Netherlands
+91,210,1923,0,1000,Gold Us $,Honduras,Netherlands
+91,210,1924,56,1000,Gold Us $,Honduras,Netherlands
+91,210,1925,16707.43,1,Oro,Honduras,Netherlands
+91,210,1926,26998.37,1,Oro,Honduras,Netherlands
+91,210,1927,30832.15,1,Oro,Honduras,Netherlands
+91,210,1928,39468.11,1,Oro,Honduras,Netherlands
+91,210,1929,54384.39,1,Oro,Honduras,Netherlands
+91,210,1930,49723.03,1,Oro,Honduras,Netherlands
+91,210,1932,47390.29,1,Oro,Honduras,Netherlands
+91,210,1933,55272.99,1,Oro,Honduras,Netherlands
+91,210,1934,96457.53,1,Oro,Honduras,Netherlands
+91,210,1935,80523.07000000001,1,Oro,Honduras,Netherlands
+91,210,1936,73656.77,1,Oro,Honduras,Netherlands
+91,210,1937,93571.32000000001,1,Us $,Honduras,Netherlands
+91,210,1938,87341.38,1,Lempiras,Honduras,Netherlands
+91,210,1939,102595.62,1,Lempiras,Honduras,Netherlands
+91,210,1940,74565.24000000001,1,Lempiras,Honduras,Netherlands
+91,210,1941,2052.36,1,Lempiras,Honduras,Netherlands
+91,210,1942,473.66,1,Lempiras,Honduras,Netherlands
+91,210,1943,0,1,Lempiras,Honduras,Netherlands
+91,210,1944,0,1,Lempiras,Honduras,Netherlands
+91,210,1945,0,1,Lempiras,Honduras,Netherlands
+91,210,1946,0,1,Lempiras,Honduras,Netherlands
+91,210,1947,24989.04,1,Lempiras,Honduras,Netherlands
+91,210,1948,76847.24000000001,1,Lempiras,Honduras,Netherlands
+91,210,1949,91074.34,1,Lempiras,Honduras,Netherlands
+91,211,1921,29034.74,1,Plata,Honduras,Belgium
+91,211,1922,9506.25,1,Gold Us $,Honduras,Belgium
+91,211,1923,0,1000,Gold Us $,Honduras,Belgium
+91,211,1924,0,1000,Gold Us $,Honduras,Belgium
+91,211,1925,16542.25,1,Oro,Honduras,Belgium
+91,211,1926,21812.68,1,Oro,Honduras,Belgium
+91,211,1927,23114.61,1,Oro,Honduras,Belgium
+91,211,1928,29462.9,1,Oro,Honduras,Belgium
+91,211,1929,20655.23,1,Oro,Honduras,Belgium
+91,211,1930,68136.21000000001,1,Oro,Honduras,Belgium
+91,211,1932,109720.8,1,Oro,Honduras,Belgium
+91,211,1933,24861.08,1,Oro,Honduras,Belgium
+91,211,1934,47423.9,1,Oro,Honduras,Belgium
+91,211,1935,29353.73,1,Oro,Honduras,Belgium
+91,211,1936,29199.83,1,Oro,Honduras,Belgium
+91,211,1937,38626.87,1,Us $,Honduras,Belgium
+91,211,1938,168792.74,1,Lempiras,Honduras,Belgium
+91,211,1939,144321.6,1,Lempiras,Honduras,Belgium
+91,211,1940,37628.32,1,Lempiras,Honduras,Belgium
+91,211,1941,975,1,Lempiras,Honduras,Belgium
+91,211,1942,0,1,Lempiras,Honduras,Belgium
+91,211,1943,0,1,Lempiras,Honduras,Belgium
+91,211,1944,0,1,Lempiras,Honduras,Belgium
+91,211,1945,400,1,Lempiras,Honduras,Belgium
+91,211,1946,0,1,Lempiras,Honduras,Belgium
+91,211,1947,16977.14,1,Lempiras,Honduras,Belgium
+91,211,1948,69439.42,1,Lempiras,Honduras,Belgium
+91,211,1949,122103.98,1,Lempiras,Honduras,Belgium
+91,220,1921,562093.4399999999,1,Plata,Honduras,France
+91,220,1922,234618.62,1,Gold Us $,Honduras,France
+91,220,1923,246,1000,Gold Us $,Honduras,France
+91,220,1924,260,1000,Gold Us $,Honduras,France
+91,220,1925,438792.93,1,Oro,Honduras,France
+91,220,1926,159224.69,1,Oro,Honduras,France
+91,220,1927,192974.11,1,Oro,Honduras,France
+91,220,1928,278707.21,1,Oro,Honduras,France
+91,220,1929,295578.85,1,Oro,Honduras,France
+91,220,1930,359752.19,1,Oro,Honduras,France
+91,220,1932,236767.21,1,Oro,Honduras,France
+91,220,1933,109359.98,1,Oro,Honduras,France
+91,220,1934,114869.41,1,Oro,Honduras,France
+91,220,1935,144772.97,1,Oro,Honduras,France
+91,220,1936,83512.14999999999,1,Oro,Honduras,France
+91,220,1937,94365.47,1,Us $,Honduras,France
+91,220,1938,162801.06,1,Lempiras,Honduras,France
+91,220,1939,193310.52,1,Lempiras,Honduras,France
+91,220,1940,149145.58,1,Lempiras,Honduras,France
+91,220,1941,20314.34,1,Lempiras,Honduras,France
+91,220,1942,463.84,1,Lempiras,Honduras,France
+91,220,1943,0,1,Lempiras,Honduras,France
+91,220,1944,17,1,Lempiras,Honduras,France
+91,220,1945,0,1,Lempiras,Honduras,France
+91,220,1946,0,1,Lempiras,Honduras,France
+91,220,1947,266223,1,Lempiras,Honduras,France
+91,220,1948,176848.78,1,Lempiras,Honduras,France
+91,220,1949,379212.96,1,Lempiras,Honduras,France
+91,225,1921,13273.58,1,Plata,Honduras,Switzerland
+91,225,1922,474,1,Gold Us $,Honduras,Switzerland
+91,225,1923,0,1000,Gold Us $,Honduras,Switzerland
+91,225,1924,0,1000,Gold Us $,Honduras,Switzerland
+91,225,1925,2569.09,1,Oro,Honduras,Switzerland
+91,225,1926,2977.44,1,Oro,Honduras,Switzerland
+91,225,1927,6070.46,1,Oro,Honduras,Switzerland
+91,225,1928,27742.46,1,Oro,Honduras,Switzerland
+91,225,1929,46436.72,1,Oro,Honduras,Switzerland
+91,225,1930,70924.32000000001,1,Oro,Honduras,Switzerland
+91,225,1932,24826.87,1,Oro,Honduras,Switzerland
+91,225,1933,13188.35,1,Oro,Honduras,Switzerland
+91,225,1934,20848.44,1,Oro,Honduras,Switzerland
+91,225,1935,12950.68,1,Oro,Honduras,Switzerland
+91,225,1936,11780.42,1,Oro,Honduras,Switzerland
+91,225,1937,11640.82,1,Us $,Honduras,Switzerland
+91,225,1938,28787,1,Lempiras,Honduras,Switzerland
+91,225,1939,27260.4,1,Lempiras,Honduras,Switzerland
+91,225,1940,37681.32,1,Lempiras,Honduras,Switzerland
+91,225,1941,28841.8,1,Lempiras,Honduras,Switzerland
+91,225,1942,25275.38,1,Lempiras,Honduras,Switzerland
+91,225,1943,24700.34,1,Lempiras,Honduras,Switzerland
+91,225,1944,32160.74,1,Lempiras,Honduras,Switzerland
+91,225,1945,33137.12,1,Lempiras,Honduras,Switzerland
+91,225,1946,135091.36,1,Lempiras,Honduras,Switzerland
+91,225,1947,220774.22,1,Lempiras,Honduras,Switzerland
+91,225,1948,227743.18,1,Lempiras,Honduras,Switzerland
+91,225,1949,269434.66,1,Lempiras,Honduras,Switzerland
+91,230,1921,210627,1,Plata,Honduras,Spain
+91,230,1922,71755.23,1,Gold Us $,Honduras,Spain
+91,230,1923,76,1000,Gold Us $,Honduras,Spain
+91,230,1924,47,1000,Gold Us $,Honduras,Spain
+91,230,1925,147148.61,1,Oro,Honduras,Spain
+91,230,1926,59006.67,1,Oro,Honduras,Spain
+91,230,1927,55625.63,1,Oro,Honduras,Spain
+91,230,1928,59298.15,1,Oro,Honduras,Spain
+91,230,1929,67406.09,1,Oro,Honduras,Spain
+91,230,1930,85505.66,1,Oro,Honduras,Spain
+91,230,1932,28154.14,1,Oro,Honduras,Spain
+91,230,1933,26849.64,1,Oro,Honduras,Spain
+91,230,1934,36949.62,1,Oro,Honduras,Spain
+91,230,1935,52011.35,1,Oro,Honduras,Spain
+91,230,1936,53770.26,1,Oro,Honduras,Spain
+91,230,1937,26944.46,1,Us $,Honduras,Spain
+91,230,1938,35126.32,1,Lempiras,Honduras,Spain
+91,230,1939,11747.5,1,Lempiras,Honduras,Spain
+91,230,1940,21444.58,1,Lempiras,Honduras,Spain
+91,230,1941,24058.4,1,Lempiras,Honduras,Spain
+91,230,1942,9730.200000000001,1,Lempiras,Honduras,Spain
+91,230,1943,4759.98,1,Lempiras,Honduras,Spain
+91,230,1944,6597.36,1,Lempiras,Honduras,Spain
+91,230,1945,11941.86,1,Lempiras,Honduras,Spain
+91,230,1946,49701.98,1,Lempiras,Honduras,Spain
+91,230,1947,81920.48,1,Lempiras,Honduras,Spain
+91,230,1948,96007.12,1,Lempiras,Honduras,Spain
+91,230,1949,53307.48,1,Lempiras,Honduras,Spain
+91,235,1921,1125,1,Plata,Honduras,Portugal
+91,235,1922,0,1,Gold Us $,Honduras,Portugal
+91,235,1923,0,1000,Gold Us $,Honduras,Portugal
+91,235,1924,0,1000,Gold Us $,Honduras,Portugal
+91,235,1925,0,1,Oro,Honduras,Portugal
+91,235,1926,0,1,Oro,Honduras,Portugal
+91,235,1927,103.88,1,Oro,Honduras,Portugal
+91,235,1928,650.03,1,Oro,Honduras,Portugal
+91,235,1929,827.67,1,Oro,Honduras,Portugal
+91,235,1930,574.93,1,Oro,Honduras,Portugal
+91,235,1932,0,1,Oro,Honduras,Portugal
+91,235,1933,280.35,1,Oro,Honduras,Portugal
+91,235,1934,586.65,1,Oro,Honduras,Portugal
+91,235,1935,249.22,1,Oro,Honduras,Portugal
+91,235,1936,44.29,1,Oro,Honduras,Portugal
+91,235,1937,641.55,1,Us $,Honduras,Portugal
+91,235,1938,1306.52,1,Lempiras,Honduras,Portugal
+91,235,1939,1131.02,1,Lempiras,Honduras,Portugal
+91,235,1940,186.66,1,Lempiras,Honduras,Portugal
+91,235,1941,19.84,1,Lempiras,Honduras,Portugal
+91,235,1942,2228.48,1,Lempiras,Honduras,Portugal
+91,235,1943,4977.24,1,Lempiras,Honduras,Portugal
+91,235,1944,0,1,Lempiras,Honduras,Portugal
+91,235,1945,771.22,1,Lempiras,Honduras,Portugal
+91,235,1946,5526.6,1,Lempiras,Honduras,Portugal
+91,235,1947,9776.76,1,Lempiras,Honduras,Portugal
+91,235,1948,4472.92,1,Lempiras,Honduras,Portugal
+91,235,1949,6456.38,1,Lempiras,Honduras,Portugal
+91,255,1921,636104.3,1,Plata,Honduras,Germany
+91,255,1922,548601.71,1,Gold Us $,Honduras,Germany
+91,255,1923,817,1000,Gold Us $,Honduras,Germany
+91,255,1924,199,1000,Gold Us $,Honduras,Germany
+91,255,1925,308197.78,1,Oro,Honduras,Germany
+91,255,1926,383581.53,1,Oro,Honduras,Germany
+91,255,1927,456297.01,1,Oro,Honduras,Germany
+91,255,1928,500970.27,1,Oro,Honduras,Germany
+91,255,1929,631520.3100000001,1,Oro,Honduras,Germany
+91,255,1930,729826.59,1,Oro,Honduras,Germany
+91,255,1932,304026.31,1,Oro,Honduras,Germany
+91,255,1933,283936.49,1,Oro,Honduras,Germany
+91,255,1934,276022.81,1,Oro,Honduras,Germany
+91,255,1935,325068.12,1,Oro,Honduras,Germany
+91,255,1936,545338.96,1,Oro,Honduras,Germany
+91,255,1937,989722.3199999999,1,Us $,Honduras,Germany
+91,255,1938,2353266.88,1,Lempiras,Honduras,Germany
+91,255,1939,2206669.12,1,Lempiras,Honduras,Germany
+91,255,1940,1314268.74,1,Lempiras,Honduras,Germany
+91,255,1941,247925.48,1,Lempiras,Honduras,Germany
+91,255,1942,13450.34,1,Lempiras,Honduras,Germany
+91,255,1943,0,1,Lempiras,Honduras,Germany
+91,255,1944,0,1,Lempiras,Honduras,Germany
+91,255,1945,0,1,Lempiras,Honduras,Germany
+91,255,1946,0,1,Lempiras,Honduras,Germany
+91,255,1947,8800,1,Lempiras,Honduras,Germany
+91,255,1948,28,1,Lempiras,Honduras,Germany
+91,255,1949,5247.78,1,Lempiras,Honduras,Germany
+91,290,1921,0,1,Plata,Honduras,Poland
+91,290,1922,0,1,Gold Us $,Honduras,Poland
+91,290,1923,0,1000,Gold Us $,Honduras,Poland
+91,290,1924,0,1000,Gold Us $,Honduras,Poland
+91,290,1925,0,1,Oro,Honduras,Poland
+91,290,1926,505.2,1,Oro,Honduras,Poland
+91,290,1927,9140,1,Oro,Honduras,Poland
+91,290,1928,1052.05,1,Oro,Honduras,Poland
+91,290,1929,692.11,1,Oro,Honduras,Poland
+91,290,1930,3612.47,1,Oro,Honduras,Poland
+91,290,1932,2249.76,1,Oro,Honduras,Poland
+91,290,1933,1115.3,1,Oro,Honduras,Poland
+91,290,1934,1011.53,1,Oro,Honduras,Poland
+91,290,1935,1503.33,1,Oro,Honduras,Poland
+91,290,1936,1210.32,1,Oro,Honduras,Poland
+91,290,1937,954.5700000000001,1,Us $,Honduras,Poland
+91,290,1938,1991.68,1,Lempiras,Honduras,Poland
+91,290,1939,1212.06,1,Lempiras,Honduras,Poland
+91,290,1940,1611.56,1,Lempiras,Honduras,Poland
+91,290,1941,0,1,Lempiras,Honduras,Poland
+91,290,1942,0,1,Lempiras,Honduras,Poland
+91,290,1943,0,1,Lempiras,Honduras,Poland
+91,290,1944,0,1,Lempiras,Honduras,Poland
+91,290,1945,0,1,Lempiras,Honduras,Poland
+91,290,1946,0,1,Lempiras,Honduras,Poland
+91,290,1947,0,1,Lempiras,Honduras,Poland
+91,290,1948,0,1,Lempiras,Honduras,Poland
+91,290,1949,0,1,Lempiras,Honduras,Poland
+91,291,1921,0,1,Plata,Honduras,Danzig
+91,291,1922,0,1,Gold Us $,Honduras,Danzig
+91,291,1923,0,1000,Gold Us $,Honduras,Danzig
+91,291,1924,0,1000,Gold Us $,Honduras,Danzig
+91,291,1925,0,1,Oro,Honduras,Danzig
+91,291,1926,0,1,Oro,Honduras,Danzig
+91,291,1927,0,1,Oro,Honduras,Danzig
+91,291,1928,0,1,Oro,Honduras,Danzig
+91,291,1929,0,1,Oro,Honduras,Danzig
+91,291,1930,0,1,Oro,Honduras,Danzig
+91,291,1932,0,1,Oro,Honduras,Danzig
+91,291,1933,0,1,Oro,Honduras,Danzig
+91,291,1934,0,1,Oro,Honduras,Danzig
+91,291,1935,0,1,Oro,Honduras,Danzig
+91,291,1936,0,1,Oro,Honduras,Danzig
+91,291,1937,1150.51,1,Us $,Honduras,Danzig
+91,291,1938,1942.92,1,Lempiras,Honduras,Danzig
+91,291,1939,0,1,Lempiras,Honduras,Danzig
+91,291,1940,0,1,Lempiras,Honduras,Danzig
+91,291,1941,0,1,Lempiras,Honduras,Danzig
+91,291,1942,0,1,Lempiras,Honduras,Danzig
+91,291,1943,0,1,Lempiras,Honduras,Danzig
+91,291,1944,0,1,Lempiras,Honduras,Danzig
+91,291,1945,0,1,Lempiras,Honduras,Danzig
+91,291,1946,0,1,Lempiras,Honduras,Danzig
+91,291,1947,0,1,Lempiras,Honduras,Danzig
+91,291,1948,0,1,Lempiras,Honduras,Danzig
+91,291,1949,0,1,Lempiras,Honduras,Danzig
+91,305,1921,0,1,Plata,Honduras,Austria
+91,305,1922,0,1,Gold Us $,Honduras,Austria
+91,305,1923,0,1000,Gold Us $,Honduras,Austria
+91,305,1924,0,1000,Gold Us $,Honduras,Austria
+91,305,1925,0,1,Oro,Honduras,Austria
+91,305,1926,451.85,1,Oro,Honduras,Austria
+91,305,1927,485.55,1,Oro,Honduras,Austria
+91,305,1928,1821.36,1,Oro,Honduras,Austria
+91,305,1929,2269.74,1,Oro,Honduras,Austria
+91,305,1930,8873.440000000001,1,Oro,Honduras,Austria
+91,305,1932,2145.78,1,Oro,Honduras,Austria
+91,305,1933,3339.1,1,Oro,Honduras,Austria
+91,305,1934,1446.64,1,Oro,Honduras,Austria
+91,305,1935,747.53,1,Oro,Honduras,Austria
+91,305,1936,629.36,1,Oro,Honduras,Austria
+91,305,1937,3367,1,Us $,Honduras,Austria
+91,305,1938,5444.68,1,Lempiras,Honduras,Austria
+91,305,1939,2973.38,1,Lempiras,Honduras,Austria
+91,305,1940,639.5,1,Lempiras,Honduras,Austria
+91,305,1941,10.5,1,Lempiras,Honduras,Austria
+91,305,1942,0,1,Lempiras,Honduras,Austria
+91,305,1943,0,1,Lempiras,Honduras,Austria
+91,305,1944,0,1,Lempiras,Honduras,Austria
+91,305,1945,0,1,Lempiras,Honduras,Austria
+91,305,1946,0,1,Lempiras,Honduras,Austria
+91,305,1947,0,1,Lempiras,Honduras,Austria
+91,305,1948,3863.8,1,Lempiras,Honduras,Austria
+91,305,1949,8506.24,1,Lempiras,Honduras,Austria
+91,310,1921,0,1,Plata,Honduras,Hungary
+91,310,1922,0,1,Gold Us $,Honduras,Hungary
+91,310,1923,0,1000,Gold Us $,Honduras,Hungary
+91,310,1924,0,1000,Gold Us $,Honduras,Hungary
+91,310,1925,0,1,Oro,Honduras,Hungary
+91,310,1926,286,1,Oro,Honduras,Hungary
+91,310,1927,0,1,Oro,Honduras,Hungary
+91,310,1928,0,1,Oro,Honduras,Hungary
+91,310,1929,0,1,Oro,Honduras,Hungary
+91,310,1930,0,1,Oro,Honduras,Hungary
+91,310,1932,2139.03,1,Oro,Honduras,Hungary
+91,310,1933,2740.68,1,Oro,Honduras,Hungary
+91,310,1934,1196.62,1,Oro,Honduras,Hungary
+91,310,1935,4579.18,1,Oro,Honduras,Hungary
+91,310,1936,971.0700000000001,1,Oro,Honduras,Hungary
+91,310,1937,1571.7,1,Us $,Honduras,Hungary
+91,310,1938,43491.54,1,Lempiras,Honduras,Hungary
+91,310,1939,15639.14,1,Lempiras,Honduras,Hungary
+91,310,1940,21932.1,1,Lempiras,Honduras,Hungary
+91,310,1941,481.04,1,Lempiras,Honduras,Hungary
+91,310,1942,0,1,Lempiras,Honduras,Hungary
+91,310,1943,0,1,Lempiras,Honduras,Hungary
+91,310,1944,0,1,Lempiras,Honduras,Hungary
+91,310,1945,0,1,Lempiras,Honduras,Hungary
+91,310,1946,0,1,Lempiras,Honduras,Hungary
+91,310,1947,0,1,Lempiras,Honduras,Hungary
+91,310,1948,0,1,Lempiras,Honduras,Hungary
+91,310,1949,0,1,Lempiras,Honduras,Hungary
+91,315,1921,0,1,Plata,Honduras,Czechoslovakia
+91,315,1922,0,1,Gold Us $,Honduras,Czechoslovakia
+91,315,1923,0,1000,Gold Us $,Honduras,Czechoslovakia
+91,315,1924,0,1000,Gold Us $,Honduras,Czechoslovakia
+91,315,1925,0,1,Oro,Honduras,Czechoslovakia
+91,315,1926,0,1,Oro,Honduras,Czechoslovakia
+91,315,1927,58.73,1,Oro,Honduras,Czechoslovakia
+91,315,1928,3509.81,1,Oro,Honduras,Czechoslovakia
+91,315,1929,4507.89,1,Oro,Honduras,Czechoslovakia
+91,315,1930,12160.06,1,Oro,Honduras,Czechoslovakia
+91,315,1932,6338.7,1,Oro,Honduras,Czechoslovakia
+91,315,1933,7731.58,1,Oro,Honduras,Czechoslovakia
+91,315,1934,9644.719999999999,1,Oro,Honduras,Czechoslovakia
+91,315,1935,19733.38,1,Oro,Honduras,Czechoslovakia
+91,315,1936,21786.46,1,Oro,Honduras,Czechoslovakia
+91,315,1937,23834.51,1,Us $,Honduras,Czechoslovakia
+91,315,1938,85724.8,1,Lempiras,Honduras,Czechoslovakia
+91,315,1939,48946.48,1,Lempiras,Honduras,Czechoslovakia
+91,315,1940,18729.52,1,Lempiras,Honduras,Czechoslovakia
+91,315,1941,132.24,1,Lempiras,Honduras,Czechoslovakia
+91,315,1942,0,1,Lempiras,Honduras,Czechoslovakia
+91,315,1943,0,1,Lempiras,Honduras,Czechoslovakia
+91,315,1944,0,1,Lempiras,Honduras,Czechoslovakia
+91,315,1945,0,1,Lempiras,Honduras,Czechoslovakia
+91,315,1946,0,1,Lempiras,Honduras,Czechoslovakia
+91,315,1947,6970.78,1,Lempiras,Honduras,Czechoslovakia
+91,315,1948,26867.02,1,Lempiras,Honduras,Czechoslovakia
+91,315,1949,39680.2,1,Lempiras,Honduras,Czechoslovakia
+91,316,1921,0,1,Plata,Honduras,Czech Republic
+91,316,1922,0,1,Gold Us $,Honduras,Czech Republic
+91,316,1923,0,1000,Gold Us $,Honduras,Czech Republic
+91,316,1924,0,1000,Gold Us $,Honduras,Czech Republic
+91,316,1925,0,1,Oro,Honduras,Czech Republic
+91,316,1926,760.5,1,Oro,Honduras,Czech Republic
+91,316,1927,0,1,Oro,Honduras,Czech Republic
+91,316,1928,0,1,Oro,Honduras,Czech Republic
+91,316,1929,81,1,Oro,Honduras,Czech Republic
+91,316,1930,31.6,1,Oro,Honduras,Czech Republic
+91,316,1932,0,1,Oro,Honduras,Czech Republic
+91,316,1933,0,1,Oro,Honduras,Czech Republic
+91,316,1934,0,1,Oro,Honduras,Czech Republic
+91,316,1935,0,1,Oro,Honduras,Czech Republic
+91,316,1936,0,1,Oro,Honduras,Czech Republic
+91,316,1937,0,1,Us $,Honduras,Czech Republic
+91,316,1938,0,1,Lempiras,Honduras,Czech Republic
+91,316,1939,0,1,Lempiras,Honduras,Czech Republic
+91,316,1940,0,1,Lempiras,Honduras,Czech Republic
+91,316,1941,0,1,Lempiras,Honduras,Czech Republic
+91,316,1942,0,1,Lempiras,Honduras,Czech Republic
+91,316,1943,0,1,Lempiras,Honduras,Czech Republic
+91,316,1944,0,1,Lempiras,Honduras,Czech Republic
+91,316,1945,0,1,Lempiras,Honduras,Czech Republic
+91,316,1946,0,1,Lempiras,Honduras,Czech Republic
+91,316,1947,0,1,Lempiras,Honduras,Czech Republic
+91,316,1948,0,1,Lempiras,Honduras,Czech Republic
+91,316,1949,0,1,Lempiras,Honduras,Czech Republic
+91,325,1921,363272.64,1,Plata,Honduras,Italy
+91,325,1922,53124.82,1,Gold Us $,Honduras,Italy
+91,325,1923,94,1000,Gold Us $,Honduras,Italy
+91,325,1924,80,1000,Gold Us $,Honduras,Italy
+91,325,1925,222955.86,1,Oro,Honduras,Italy
+91,325,1926,101212.43,1,Oro,Honduras,Italy
+91,325,1927,113179.6,1,Oro,Honduras,Italy
+91,325,1928,106106.83,1,Oro,Honduras,Italy
+91,325,1929,162067.27,1,Oro,Honduras,Italy
+91,325,1930,258021.14,1,Oro,Honduras,Italy
+91,325,1932,69307.81,1,Oro,Honduras,Italy
+91,325,1933,80881.05,1,Oro,Honduras,Italy
+91,325,1934,105796.26,1,Oro,Honduras,Italy
+91,325,1935,88902.35000000001,1,Oro,Honduras,Italy
+91,325,1936,22665.95,1,Oro,Honduras,Italy
+91,325,1937,20691.19,1,Us $,Honduras,Italy
+91,325,1938,187999.54,1,Lempiras,Honduras,Italy
+91,325,1939,86075.72,1,Lempiras,Honduras,Italy
+91,325,1940,87878,1,Lempiras,Honduras,Italy
+91,325,1941,10694.38,1,Lempiras,Honduras,Italy
+91,325,1942,206,1,Lempiras,Honduras,Italy
+91,325,1943,274.52,1,Lempiras,Honduras,Italy
+91,325,1944,681.92,1,Lempiras,Honduras,Italy
+91,325,1945,0,1,Lempiras,Honduras,Italy
+91,325,1946,0,1,Lempiras,Honduras,Italy
+91,325,1947,121684.5,1,Lempiras,Honduras,Italy
+91,325,1948,111165.36,1,Lempiras,Honduras,Italy
+91,325,1949,306362.12,1,Lempiras,Honduras,Italy
+91,345,1921,0,1,Plata,Honduras,Yugoslavia
+91,345,1922,0,1,Gold Us $,Honduras,Yugoslavia
+91,345,1923,0,1000,Gold Us $,Honduras,Yugoslavia
+91,345,1924,0,1000,Gold Us $,Honduras,Yugoslavia
+91,345,1925,0,1,Oro,Honduras,Yugoslavia
+91,345,1926,0,1,Oro,Honduras,Yugoslavia
+91,345,1927,0,1,Oro,Honduras,Yugoslavia
+91,345,1928,0,1,Oro,Honduras,Yugoslavia
+91,345,1929,0,1,Oro,Honduras,Yugoslavia
+91,345,1930,0,1,Oro,Honduras,Yugoslavia
+91,345,1932,0,1,Oro,Honduras,Yugoslavia
+91,345,1933,0,1,Oro,Honduras,Yugoslavia
+91,345,1934,0,1,Oro,Honduras,Yugoslavia
+91,345,1935,0,1,Oro,Honduras,Yugoslavia
+91,345,1936,0,1,Oro,Honduras,Yugoslavia
+91,345,1937,292,1,Us $,Honduras,Yugoslavia
+91,345,1938,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1939,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1940,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1941,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1942,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1943,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1944,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1945,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1946,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1947,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1948,0,1,Lempiras,Honduras,Yugoslavia
+91,345,1949,0,1,Lempiras,Honduras,Yugoslavia
+91,350,1921,0,1,Plata,Honduras,Greece
+91,350,1922,0,1,Gold Us $,Honduras,Greece
+91,350,1923,0,1000,Gold Us $,Honduras,Greece
+91,350,1924,0,1000,Gold Us $,Honduras,Greece
+91,350,1925,0,1,Oro,Honduras,Greece
+91,350,1926,0,1,Oro,Honduras,Greece
+91,350,1927,0,1,Oro,Honduras,Greece
+91,350,1928,0,1,Oro,Honduras,Greece
+91,350,1929,0,1,Oro,Honduras,Greece
+91,350,1930,5,1,Oro,Honduras,Greece
+91,350,1932,0,1,Oro,Honduras,Greece
+91,350,1933,87.75,1,Oro,Honduras,Greece
+91,350,1934,153,1,Oro,Honduras,Greece
+91,350,1935,295.5,1,Oro,Honduras,Greece
+91,350,1936,0,1,Oro,Honduras,Greece
+91,350,1937,0,1,Us $,Honduras,Greece
+91,350,1938,13.5,1,Lempiras,Honduras,Greece
+91,350,1939,0,1,Lempiras,Honduras,Greece
+91,350,1940,0,1,Lempiras,Honduras,Greece
+91,350,1941,36.44,1,Lempiras,Honduras,Greece
+91,350,1942,0,1,Lempiras,Honduras,Greece
+91,350,1943,0,1,Lempiras,Honduras,Greece
+91,350,1944,0,1,Lempiras,Honduras,Greece
+91,350,1945,0,1,Lempiras,Honduras,Greece
+91,350,1946,0,1,Lempiras,Honduras,Greece
+91,350,1947,1016.32,1,Lempiras,Honduras,Greece
+91,350,1948,50,1,Lempiras,Honduras,Greece
+91,350,1949,276,1,Lempiras,Honduras,Greece
+91,355,1921,0,1,Plata,Honduras,Bulgaria
+91,355,1922,0,1,Gold Us $,Honduras,Bulgaria
+91,355,1923,0,1000,Gold Us $,Honduras,Bulgaria
+91,355,1924,0,1000,Gold Us $,Honduras,Bulgaria
+91,355,1925,0,1,Oro,Honduras,Bulgaria
+91,355,1926,0,1,Oro,Honduras,Bulgaria
+91,355,1927,0,1,Oro,Honduras,Bulgaria
+91,355,1928,2,1,Oro,Honduras,Bulgaria
+91,355,1929,0,1,Oro,Honduras,Bulgaria
+91,355,1930,1111.5,1,Oro,Honduras,Bulgaria
+91,355,1932,0,1,Oro,Honduras,Bulgaria
+91,355,1933,0,1,Oro,Honduras,Bulgaria
+91,355,1934,0,1,Oro,Honduras,Bulgaria
+91,355,1935,0,1,Oro,Honduras,Bulgaria
+91,355,1936,0,1,Oro,Honduras,Bulgaria
+91,355,1937,0,1,Us $,Honduras,Bulgaria
+91,355,1938,0,1,Lempiras,Honduras,Bulgaria
+91,355,1939,0,1,Lempiras,Honduras,Bulgaria
+91,355,1940,0,1,Lempiras,Honduras,Bulgaria
+91,355,1941,0,1,Lempiras,Honduras,Bulgaria
+91,355,1942,0,1,Lempiras,Honduras,Bulgaria
+91,355,1943,0,1,Lempiras,Honduras,Bulgaria
+91,355,1944,0,1,Lempiras,Honduras,Bulgaria
+91,355,1945,0,1,Lempiras,Honduras,Bulgaria
+91,355,1946,0,1,Lempiras,Honduras,Bulgaria
+91,355,1947,0,1,Lempiras,Honduras,Bulgaria
+91,355,1948,0,1,Lempiras,Honduras,Bulgaria
+91,355,1949,0,1,Lempiras,Honduras,Bulgaria
+91,365,1921,0,1,Plata,Honduras,Russia
+91,365,1922,0,1,Gold Us $,Honduras,Russia
+91,365,1923,0,1000,Gold Us $,Honduras,Russia
+91,365,1924,0,1000,Gold Us $,Honduras,Russia
+91,365,1925,0,1,Oro,Honduras,Russia
+91,365,1926,0,1,Oro,Honduras,Russia
+91,365,1927,0,1,Oro,Honduras,Russia
+91,365,1928,429.08,1,Oro,Honduras,Russia
+91,365,1929,168.6,1,Oro,Honduras,Russia
+91,365,1930,128.7,1,Oro,Honduras,Russia
+91,365,1932,0,1,Oro,Honduras,Russia
+91,365,1933,21.9,1,Oro,Honduras,Russia
+91,365,1934,50.43,1,Oro,Honduras,Russia
+91,365,1935,29.31,1,Oro,Honduras,Russia
+91,365,1936,30.35,1,Oro,Honduras,Russia
+91,365,1937,0,1,Us $,Honduras,Russia
+91,365,1938,66.84,1,Lempiras,Honduras,Russia
+91,365,1939,0,1,Lempiras,Honduras,Russia
+91,365,1940,0,1,Lempiras,Honduras,Russia
+91,365,1941,0,1,Lempiras,Honduras,Russia
+91,365,1942,0,1,Lempiras,Honduras,Russia
+91,365,1943,0,1,Lempiras,Honduras,Russia
+91,365,1944,0,1,Lempiras,Honduras,Russia
+91,365,1945,0,1,Lempiras,Honduras,Russia
+91,365,1946,0,1,Lempiras,Honduras,Russia
+91,365,1947,0,1,Lempiras,Honduras,Russia
+91,365,1948,0,1,Lempiras,Honduras,Russia
+91,365,1949,0,1,Lempiras,Honduras,Russia
+91,366,1921,0,1,Plata,Honduras,Estonia
+91,366,1922,0,1,Gold Us $,Honduras,Estonia
+91,366,1923,0,1000,Gold Us $,Honduras,Estonia
+91,366,1924,0,1000,Gold Us $,Honduras,Estonia
+91,366,1925,0,1,Oro,Honduras,Estonia
+91,366,1926,0,1,Oro,Honduras,Estonia
+91,366,1927,0,1,Oro,Honduras,Estonia
+91,366,1928,0,1,Oro,Honduras,Estonia
+91,366,1929,0,1,Oro,Honduras,Estonia
+91,366,1930,351.33,1,Oro,Honduras,Estonia
+91,366,1932,0,1,Oro,Honduras,Estonia
+91,366,1933,3,1,Oro,Honduras,Estonia
+91,366,1934,1.5,1,Oro,Honduras,Estonia
+91,366,1935,0,1,Oro,Honduras,Estonia
+91,366,1936,0,1,Oro,Honduras,Estonia
+91,366,1937,211,1,Us $,Honduras,Estonia
+91,366,1938,0,1,Lempiras,Honduras,Estonia
+91,366,1939,13.26,1,Lempiras,Honduras,Estonia
+91,366,1940,0,1,Lempiras,Honduras,Estonia
+91,366,1941,0,1,Lempiras,Honduras,Estonia
+91,366,1942,0,1,Lempiras,Honduras,Estonia
+91,366,1943,0,1,Lempiras,Honduras,Estonia
+91,366,1944,0,1,Lempiras,Honduras,Estonia
+91,366,1945,0,1,Lempiras,Honduras,Estonia
+91,366,1946,0,1,Lempiras,Honduras,Estonia
+91,366,1947,0,1,Lempiras,Honduras,Estonia
+91,366,1948,0,1,Lempiras,Honduras,Estonia
+91,366,1949,0,1,Lempiras,Honduras,Estonia
+91,367,1921,0,1,Plata,Honduras,Latvia
+91,367,1922,0,1,Gold Us $,Honduras,Latvia
+91,367,1923,0,1000,Gold Us $,Honduras,Latvia
+91,367,1924,0,1000,Gold Us $,Honduras,Latvia
+91,367,1925,0,1,Oro,Honduras,Latvia
+91,367,1926,0,1,Oro,Honduras,Latvia
+91,367,1927,0,1,Oro,Honduras,Latvia
+91,367,1928,0,1,Oro,Honduras,Latvia
+91,367,1929,0,1,Oro,Honduras,Latvia
+91,367,1930,0,1,Oro,Honduras,Latvia
+91,367,1932,0,1,Oro,Honduras,Latvia
+91,367,1933,0,1,Oro,Honduras,Latvia
+91,367,1934,0,1,Oro,Honduras,Latvia
+91,367,1935,0,1,Oro,Honduras,Latvia
+91,367,1936,432.63,1,Oro,Honduras,Latvia
+91,367,1937,0,1,Us $,Honduras,Latvia
+91,367,1938,764.72,1,Lempiras,Honduras,Latvia
+91,367,1939,892.3,1,Lempiras,Honduras,Latvia
+91,367,1940,447.52,1,Lempiras,Honduras,Latvia
+91,367,1941,0,1,Lempiras,Honduras,Latvia
+91,367,1942,0,1,Lempiras,Honduras,Latvia
+91,367,1943,0,1,Lempiras,Honduras,Latvia
+91,367,1944,0,1,Lempiras,Honduras,Latvia
+91,367,1945,0,1,Lempiras,Honduras,Latvia
+91,367,1946,0,1,Lempiras,Honduras,Latvia
+91,367,1947,0,1,Lempiras,Honduras,Latvia
+91,367,1948,0,1,Lempiras,Honduras,Latvia
+91,367,1949,0,1,Lempiras,Honduras,Latvia
+91,375,1921,0,1,Plata,Honduras,Finland
+91,375,1922,0,1,Gold Us $,Honduras,Finland
+91,375,1923,0,1000,Gold Us $,Honduras,Finland
+91,375,1924,0,1000,Gold Us $,Honduras,Finland
+91,375,1925,0,1,Oro,Honduras,Finland
+91,375,1926,0,1,Oro,Honduras,Finland
+91,375,1927,0,1,Oro,Honduras,Finland
+91,375,1928,180,1,Oro,Honduras,Finland
+91,375,1929,148,1,Oro,Honduras,Finland
+91,375,1930,0,1,Oro,Honduras,Finland
+91,375,1932,0,1,Oro,Honduras,Finland
+91,375,1933,0,1,Oro,Honduras,Finland
+91,375,1934,0,1,Oro,Honduras,Finland
+91,375,1935,343.86,1,Oro,Honduras,Finland
+91,375,1936,1866,1,Oro,Honduras,Finland
+91,375,1937,635.5,1,Us $,Honduras,Finland
+91,375,1938,2074.52,1,Lempiras,Honduras,Finland
+91,375,1939,357.86,1,Lempiras,Honduras,Finland
+91,375,1940,3002.68,1,Lempiras,Honduras,Finland
+91,375,1941,0,1,Lempiras,Honduras,Finland
+91,375,1942,317.04,1,Lempiras,Honduras,Finland
+91,375,1943,0,1,Lempiras,Honduras,Finland
+91,375,1944,0,1,Lempiras,Honduras,Finland
+91,375,1945,0,1,Lempiras,Honduras,Finland
+91,375,1946,0,1,Lempiras,Honduras,Finland
+91,375,1947,0,1,Lempiras,Honduras,Finland
+91,375,1948,4150.06,1,Lempiras,Honduras,Finland
+91,375,1949,427.68,1,Lempiras,Honduras,Finland
+91,380,1921,8865.9,1,Plata,Honduras,Sweden
+91,380,1922,17245.07,1,Gold Us $,Honduras,Sweden
+91,380,1923,0,1000,Gold Us $,Honduras,Sweden
+91,380,1924,0,1000,Gold Us $,Honduras,Sweden
+91,380,1925,15895.09,1,Oro,Honduras,Sweden
+91,380,1926,19161.84,1,Oro,Honduras,Sweden
+91,380,1927,19679.45,1,Oro,Honduras,Sweden
+91,380,1928,21564.91,1,Oro,Honduras,Sweden
+91,380,1929,17782.73,1,Oro,Honduras,Sweden
+91,380,1930,29678.5,1,Oro,Honduras,Sweden
+91,380,1932,27036.1,1,Oro,Honduras,Sweden
+91,380,1933,31040.5,1,Oro,Honduras,Sweden
+91,380,1934,18911.51,1,Oro,Honduras,Sweden
+91,380,1935,38598.06,1,Oro,Honduras,Sweden
+91,380,1936,14743.74,1,Oro,Honduras,Sweden
+91,380,1937,21288.68,1,Us $,Honduras,Sweden
+91,380,1938,35791.22,1,Lempiras,Honduras,Sweden
+91,380,1939,12795.38,1,Lempiras,Honduras,Sweden
+91,380,1940,15672.32,1,Lempiras,Honduras,Sweden
+91,380,1941,973.14,1,Lempiras,Honduras,Sweden
+91,380,1942,0,1,Lempiras,Honduras,Sweden
+91,380,1943,0,1,Lempiras,Honduras,Sweden
+91,380,1944,0,1,Lempiras,Honduras,Sweden
+91,380,1945,0,1,Lempiras,Honduras,Sweden
+91,380,1946,1359.7,1,Lempiras,Honduras,Sweden
+91,380,1947,111742,1,Lempiras,Honduras,Sweden
+91,380,1948,112583.84,1,Lempiras,Honduras,Sweden
+91,380,1949,136749.26,1,Lempiras,Honduras,Sweden
+91,385,1921,2323.3,1,Plata,Honduras,Norway
+91,385,1922,603,1,Gold Us $,Honduras,Norway
+91,385,1923,0,1000,Gold Us $,Honduras,Norway
+91,385,1924,0,1000,Gold Us $,Honduras,Norway
+91,385,1925,6463.28,1,Oro,Honduras,Norway
+91,385,1926,3735.16,1,Oro,Honduras,Norway
+91,385,1927,7956.61,1,Oro,Honduras,Norway
+91,385,1928,11252.6,1,Oro,Honduras,Norway
+91,385,1929,11543.9,1,Oro,Honduras,Norway
+91,385,1930,21469.06,1,Oro,Honduras,Norway
+91,385,1932,6780.31,1,Oro,Honduras,Norway
+91,385,1933,4099.92,1,Oro,Honduras,Norway
+91,385,1934,5655.73,1,Oro,Honduras,Norway
+91,385,1935,9048.15,1,Oro,Honduras,Norway
+91,385,1936,4931.82,1,Oro,Honduras,Norway
+91,385,1937,2802.35,1,Us $,Honduras,Norway
+91,385,1938,1989.42,1,Lempiras,Honduras,Norway
+91,385,1939,9716.040000000001,1,Lempiras,Honduras,Norway
+91,385,1940,6521.14,1,Lempiras,Honduras,Norway
+91,385,1941,0,1,Lempiras,Honduras,Norway
+91,385,1942,0,1,Lempiras,Honduras,Norway
+91,385,1943,0,1,Lempiras,Honduras,Norway
+91,385,1944,0,1,Lempiras,Honduras,Norway
+91,385,1945,0,1,Lempiras,Honduras,Norway
+91,385,1946,3326,1,Lempiras,Honduras,Norway
+91,385,1947,4016.7,1,Lempiras,Honduras,Norway
+91,385,1948,44069.48,1,Lempiras,Honduras,Norway
+91,385,1949,15510.92,1,Lempiras,Honduras,Norway
+91,390,1921,8298.620000000001,1,Plata,Honduras,Denmark
+91,390,1922,180,1,Gold Us $,Honduras,Denmark
+91,390,1923,0,1000,Gold Us $,Honduras,Denmark
+91,390,1924,0,1000,Gold Us $,Honduras,Denmark
+91,390,1925,9411.02,1,Oro,Honduras,Denmark
+91,390,1926,7371.6,1,Oro,Honduras,Denmark
+91,390,1927,11870.11,1,Oro,Honduras,Denmark
+91,390,1928,17917.28,1,Oro,Honduras,Denmark
+91,390,1929,14344.16,1,Oro,Honduras,Denmark
+91,390,1930,19109.66,1,Oro,Honduras,Denmark
+91,390,1932,9221.5,1,Oro,Honduras,Denmark
+91,390,1933,7600.95,1,Oro,Honduras,Denmark
+91,390,1934,7978.12,1,Oro,Honduras,Denmark
+91,390,1935,9970.6,1,Oro,Honduras,Denmark
+91,390,1936,10954.27,1,Oro,Honduras,Denmark
+91,390,1937,9849.52,1,Us $,Honduras,Denmark
+91,390,1938,122877,1,Lempiras,Honduras,Denmark
+91,390,1939,28580.36,1,Lempiras,Honduras,Denmark
+91,390,1940,144838.42,1,Lempiras,Honduras,Denmark
+91,390,1941,746.2,1,Lempiras,Honduras,Denmark
+91,390,1942,0,1,Lempiras,Honduras,Denmark
+91,390,1943,416,1,Lempiras,Honduras,Denmark
+91,390,1944,0,1,Lempiras,Honduras,Denmark
+91,390,1945,0,1,Lempiras,Honduras,Denmark
+91,390,1946,0,1,Lempiras,Honduras,Denmark
+91,390,1947,1232,1,Lempiras,Honduras,Denmark
+91,390,1948,2635.12,1,Lempiras,Honduras,Denmark
+91,390,1949,14569.82,1,Lempiras,Honduras,Denmark
+91,395,1921,0,1,Plata,Honduras,Iceland
+91,395,1922,0,1,Gold Us $,Honduras,Iceland
+91,395,1923,0,1000,Gold Us $,Honduras,Iceland
+91,395,1924,0,1000,Gold Us $,Honduras,Iceland
+91,395,1925,0,1,Oro,Honduras,Iceland
+91,395,1926,0,1,Oro,Honduras,Iceland
+91,395,1927,0,1,Oro,Honduras,Iceland
+91,395,1928,0,1,Oro,Honduras,Iceland
+91,395,1929,0,1,Oro,Honduras,Iceland
+91,395,1930,0,1,Oro,Honduras,Iceland
+91,395,1932,0,1,Oro,Honduras,Iceland
+91,395,1933,0,1,Oro,Honduras,Iceland
+91,395,1934,0,1,Oro,Honduras,Iceland
+91,395,1935,0,1,Oro,Honduras,Iceland
+91,395,1936,0,1,Oro,Honduras,Iceland
+91,395,1937,0,1,Us $,Honduras,Iceland
+91,395,1938,0,1,Lempiras,Honduras,Iceland
+91,395,1939,0,1,Lempiras,Honduras,Iceland
+91,395,1940,0,1,Lempiras,Honduras,Iceland
+91,395,1941,0,1,Lempiras,Honduras,Iceland
+91,395,1942,0,1,Lempiras,Honduras,Iceland
+91,395,1943,208.88,1,Lempiras,Honduras,Iceland
+91,395,1944,1930.84,1,Lempiras,Honduras,Iceland
+91,395,1945,1477.28,1,Lempiras,Honduras,Iceland
+91,395,1946,62,1,Lempiras,Honduras,Iceland
+91,395,1947,0,1,Lempiras,Honduras,Iceland
+91,395,1948,0,1,Lempiras,Honduras,Iceland
+91,395,1949,0,1,Lempiras,Honduras,Iceland
+91,451,1921,0,1,Plata,Honduras,Sierra Leone
+91,451,1922,0,1,Gold Us $,Honduras,Sierra Leone
+91,451,1923,0,1000,Gold Us $,Honduras,Sierra Leone
+91,451,1924,0,1000,Gold Us $,Honduras,Sierra Leone
+91,451,1925,0,1,Oro,Honduras,Sierra Leone
+91,451,1926,0,1,Oro,Honduras,Sierra Leone
+91,451,1927,0,1,Oro,Honduras,Sierra Leone
+91,451,1928,0,1,Oro,Honduras,Sierra Leone
+91,451,1929,0,1,Oro,Honduras,Sierra Leone
+91,451,1930,0,1,Oro,Honduras,Sierra Leone
+91,451,1932,0,1,Oro,Honduras,Sierra Leone
+91,451,1933,0,1,Oro,Honduras,Sierra Leone
+91,451,1934,0,1,Oro,Honduras,Sierra Leone
+91,451,1935,0,1,Oro,Honduras,Sierra Leone
+91,451,1936,0,1,Oro,Honduras,Sierra Leone
+91,451,1937,0,1,Us $,Honduras,Sierra Leone
+91,451,1938,2.44,1,Lempiras,Honduras,Sierra Leone
+91,451,1939,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1940,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1941,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1942,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1943,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1944,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1945,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1946,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1947,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1948,0,1,Lempiras,Honduras,Sierra Leone
+91,451,1949,0,1,Lempiras,Honduras,Sierra Leone
+91,511,1921,0,1,Plata,Honduras,Zanzibar
+91,511,1922,0,1,Gold Us $,Honduras,Zanzibar
+91,511,1923,0,1000,Gold Us $,Honduras,Zanzibar
+91,511,1924,0,1000,Gold Us $,Honduras,Zanzibar
+91,511,1925,0,1,Oro,Honduras,Zanzibar
+91,511,1926,0,1,Oro,Honduras,Zanzibar
+91,511,1927,0,1,Oro,Honduras,Zanzibar
+91,511,1928,0,1,Oro,Honduras,Zanzibar
+91,511,1929,0,1,Oro,Honduras,Zanzibar
+91,511,1930,0,1,Oro,Honduras,Zanzibar
+91,511,1932,0,1,Oro,Honduras,Zanzibar
+91,511,1933,0,1,Oro,Honduras,Zanzibar
+91,511,1934,0,1,Oro,Honduras,Zanzibar
+91,511,1935,0,1,Oro,Honduras,Zanzibar
+91,511,1936,0,1,Oro,Honduras,Zanzibar
+91,511,1937,0,1,Us $,Honduras,Zanzibar
+91,511,1938,234.14,1,Lempiras,Honduras,Zanzibar
+91,511,1939,0,1,Lempiras,Honduras,Zanzibar
+91,511,1940,0,1,Lempiras,Honduras,Zanzibar
+91,511,1941,114.32,1,Lempiras,Honduras,Zanzibar
+91,511,1942,32,1,Lempiras,Honduras,Zanzibar
+91,511,1943,0,1,Lempiras,Honduras,Zanzibar
+91,511,1944,0,1,Lempiras,Honduras,Zanzibar
+91,511,1945,134.96,1,Lempiras,Honduras,Zanzibar
+91,511,1946,126.12,1,Lempiras,Honduras,Zanzibar
+91,511,1947,44.1,1,Lempiras,Honduras,Zanzibar
+91,511,1948,0,1,Lempiras,Honduras,Zanzibar
+91,511,1949,0,1,Lempiras,Honduras,Zanzibar
+91,521,1921,0,1,Plata,Honduras,British Somaliland
+91,521,1922,0,1,Gold Us $,Honduras,British Somaliland
+91,521,1923,0,1000,Gold Us $,Honduras,British Somaliland
+91,521,1924,0,1000,Gold Us $,Honduras,British Somaliland
+91,521,1925,0,1,Oro,Honduras,British Somaliland
+91,521,1926,0,1,Oro,Honduras,British Somaliland
+91,521,1927,0,1,Oro,Honduras,British Somaliland
+91,521,1928,0,1,Oro,Honduras,British Somaliland
+91,521,1929,0,1,Oro,Honduras,British Somaliland
+91,521,1930,0,1,Oro,Honduras,British Somaliland
+91,521,1932,0,1,Oro,Honduras,British Somaliland
+91,521,1933,0,1,Oro,Honduras,British Somaliland
+91,521,1934,0,1,Oro,Honduras,British Somaliland
+91,521,1935,0,1,Oro,Honduras,British Somaliland
+91,521,1936,0,1,Oro,Honduras,British Somaliland
+91,521,1937,0,1,Us $,Honduras,British Somaliland
+91,521,1938,3.74,1,Lempiras,Honduras,British Somaliland
+91,521,1939,0,1,Lempiras,Honduras,British Somaliland
+91,521,1940,0,1,Lempiras,Honduras,British Somaliland
+91,521,1941,0,1,Lempiras,Honduras,British Somaliland
+91,521,1942,0,1,Lempiras,Honduras,British Somaliland
+91,521,1943,0,1,Lempiras,Honduras,British Somaliland
+91,521,1944,0,1,Lempiras,Honduras,British Somaliland
+91,521,1945,0,1,Lempiras,Honduras,British Somaliland
+91,521,1946,0,1,Lempiras,Honduras,British Somaliland
+91,521,1947,59.4,1,Lempiras,Honduras,British Somaliland
+91,521,1948,0,1,Lempiras,Honduras,British Somaliland
+91,521,1949,9.699999999999999,1,Lempiras,Honduras,British Somaliland
+91,530,1921,0,1,Plata,Honduras,Ethiopia
+91,530,1922,0,1,Gold Us $,Honduras,Ethiopia
+91,530,1923,0,1000,Gold Us $,Honduras,Ethiopia
+91,530,1924,0,1000,Gold Us $,Honduras,Ethiopia
+91,530,1925,0,1,Oro,Honduras,Ethiopia
+91,530,1926,0,1,Oro,Honduras,Ethiopia
+91,530,1927,0,1,Oro,Honduras,Ethiopia
+91,530,1928,0,1,Oro,Honduras,Ethiopia
+91,530,1929,0,1,Oro,Honduras,Ethiopia
+91,530,1930,0,1,Oro,Honduras,Ethiopia
+91,530,1932,0,1,Oro,Honduras,Ethiopia
+91,530,1933,0,1,Oro,Honduras,Ethiopia
+91,530,1934,0,1,Oro,Honduras,Ethiopia
+91,530,1935,0,1,Oro,Honduras,Ethiopia
+91,530,1936,0,1,Oro,Honduras,Ethiopia
+91,530,1937,0,1,Us $,Honduras,Ethiopia
+91,530,1938,0,1,Lempiras,Honduras,Ethiopia
+91,530,1939,0,1,Lempiras,Honduras,Ethiopia
+91,530,1940,0,1,Lempiras,Honduras,Ethiopia
+91,530,1941,0,1,Lempiras,Honduras,Ethiopia
+91,530,1942,0,1,Lempiras,Honduras,Ethiopia
+91,530,1943,160,1,Lempiras,Honduras,Ethiopia
+91,530,1944,0,1,Lempiras,Honduras,Ethiopia
+91,530,1945,0,1,Lempiras,Honduras,Ethiopia
+91,530,1946,0,1,Lempiras,Honduras,Ethiopia
+91,530,1947,0,1,Lempiras,Honduras,Ethiopia
+91,530,1948,0,1,Lempiras,Honduras,Ethiopia
+91,530,1949,0,1,Lempiras,Honduras,Ethiopia
+91,554,1921,0,1,Plata,Honduras,Rhodesia
+91,554,1922,0,1,Gold Us $,Honduras,Rhodesia
+91,554,1923,0,1000,Gold Us $,Honduras,Rhodesia
+91,554,1924,0,1000,Gold Us $,Honduras,Rhodesia
+91,554,1925,0,1,Oro,Honduras,Rhodesia
+91,554,1926,0,1,Oro,Honduras,Rhodesia
+91,554,1927,0,1,Oro,Honduras,Rhodesia
+91,554,1928,0,1,Oro,Honduras,Rhodesia
+91,554,1929,0,1,Oro,Honduras,Rhodesia
+91,554,1930,0,1,Oro,Honduras,Rhodesia
+91,554,1932,0,1,Oro,Honduras,Rhodesia
+91,554,1933,0,1,Oro,Honduras,Rhodesia
+91,554,1934,0,1,Oro,Honduras,Rhodesia
+91,554,1935,0,1,Oro,Honduras,Rhodesia
+91,554,1936,0,1,Oro,Honduras,Rhodesia
+91,554,1937,0,1,Us $,Honduras,Rhodesia
+91,554,1938,0,1,Lempiras,Honduras,Rhodesia
+91,554,1939,0,1,Lempiras,Honduras,Rhodesia
+91,554,1940,0,1,Lempiras,Honduras,Rhodesia
+91,554,1941,0,1,Lempiras,Honduras,Rhodesia
+91,554,1942,0,1,Lempiras,Honduras,Rhodesia
+91,554,1943,0,1,Lempiras,Honduras,Rhodesia
+91,554,1944,0,1,Lempiras,Honduras,Rhodesia
+91,554,1945,0,1,Lempiras,Honduras,Rhodesia
+91,554,1946,0,1,Lempiras,Honduras,Rhodesia
+91,554,1947,0,1,Lempiras,Honduras,Rhodesia
+91,554,1948,0,1,Lempiras,Honduras,Rhodesia
+91,554,1949,0,1,Lempiras,Honduras,Rhodesia
+91,580,1921,0,1,Plata,Honduras,Madagascar
+91,580,1922,0,1,Gold Us $,Honduras,Madagascar
+91,580,1923,0,1000,Gold Us $,Honduras,Madagascar
+91,580,1924,0,1000,Gold Us $,Honduras,Madagascar
+91,580,1925,0,1,Oro,Honduras,Madagascar
+91,580,1926,0,1,Oro,Honduras,Madagascar
+91,580,1927,0,1,Oro,Honduras,Madagascar
+91,580,1928,0,1,Oro,Honduras,Madagascar
+91,580,1929,0,1,Oro,Honduras,Madagascar
+91,580,1930,0,1,Oro,Honduras,Madagascar
+91,580,1932,0,1,Oro,Honduras,Madagascar
+91,580,1933,0,1,Oro,Honduras,Madagascar
+91,580,1934,0,1,Oro,Honduras,Madagascar
+91,580,1935,10.45,1,Oro,Honduras,Madagascar
+91,580,1936,0,1,Oro,Honduras,Madagascar
+91,580,1937,0,1,Us $,Honduras,Madagascar
+91,580,1938,0,1,Lempiras,Honduras,Madagascar
+91,580,1939,0,1,Lempiras,Honduras,Madagascar
+91,580,1940,0,1,Lempiras,Honduras,Madagascar
+91,580,1941,0,1,Lempiras,Honduras,Madagascar
+91,580,1942,0,1,Lempiras,Honduras,Madagascar
+91,580,1943,0,1,Lempiras,Honduras,Madagascar
+91,580,1944,0,1,Lempiras,Honduras,Madagascar
+91,580,1945,0,1,Lempiras,Honduras,Madagascar
+91,580,1946,0,1,Lempiras,Honduras,Madagascar
+91,580,1947,0,1,Lempiras,Honduras,Madagascar
+91,580,1948,425.4,1,Lempiras,Honduras,Madagascar
+91,580,1949,0,1,Lempiras,Honduras,Madagascar
+91,600,1921,0,1,Plata,Honduras,Morocco
+91,600,1922,0,1,Gold Us $,Honduras,Morocco
+91,600,1923,0,1000,Gold Us $,Honduras,Morocco
+91,600,1924,0,1000,Gold Us $,Honduras,Morocco
+91,600,1925,0,1,Oro,Honduras,Morocco
+91,600,1926,0,1,Oro,Honduras,Morocco
+91,600,1927,0,1,Oro,Honduras,Morocco
+91,600,1928,0,1,Oro,Honduras,Morocco
+91,600,1929,0,1,Oro,Honduras,Morocco
+91,600,1930,0,1,Oro,Honduras,Morocco
+91,600,1932,0,1,Oro,Honduras,Morocco
+91,600,1933,0,1,Oro,Honduras,Morocco
+91,600,1934,0,1,Oro,Honduras,Morocco
+91,600,1935,0,1,Oro,Honduras,Morocco
+91,600,1936,0,1,Oro,Honduras,Morocco
+91,600,1937,0,1,Us $,Honduras,Morocco
+91,600,1938,37.6,1,Lempiras,Honduras,Morocco
+91,600,1939,0,1,Lempiras,Honduras,Morocco
+91,600,1940,0,1,Lempiras,Honduras,Morocco
+91,600,1941,0,1,Lempiras,Honduras,Morocco
+91,600,1942,0,1,Lempiras,Honduras,Morocco
+91,600,1943,0,1,Lempiras,Honduras,Morocco
+91,600,1944,0,1,Lempiras,Honduras,Morocco
+91,600,1945,0,1,Lempiras,Honduras,Morocco
+91,600,1946,0,1,Lempiras,Honduras,Morocco
+91,600,1947,0,1,Lempiras,Honduras,Morocco
+91,600,1948,0,1,Lempiras,Honduras,Morocco
+91,600,1949,0,1,Lempiras,Honduras,Morocco
+91,602,1921,0,1,Plata,Honduras,Spanish Morocco
+91,602,1922,0,1,Gold Us $,Honduras,Spanish Morocco
+91,602,1923,0,1000,Gold Us $,Honduras,Spanish Morocco
+91,602,1924,0,1000,Gold Us $,Honduras,Spanish Morocco
+91,602,1925,0,1,Oro,Honduras,Spanish Morocco
+91,602,1926,0,1,Oro,Honduras,Spanish Morocco
+91,602,1927,0,1,Oro,Honduras,Spanish Morocco
+91,602,1928,0,1,Oro,Honduras,Spanish Morocco
+91,602,1929,0,1,Oro,Honduras,Spanish Morocco
+91,602,1930,0,1,Oro,Honduras,Spanish Morocco
+91,602,1932,0,1,Oro,Honduras,Spanish Morocco
+91,602,1933,0,1,Oro,Honduras,Spanish Morocco
+91,602,1934,0,1,Oro,Honduras,Spanish Morocco
+91,602,1935,0,1,Oro,Honduras,Spanish Morocco
+91,602,1936,0,1,Oro,Honduras,Spanish Morocco
+91,602,1937,0,1,Us $,Honduras,Spanish Morocco
+91,602,1938,242.4,1,Lempiras,Honduras,Spanish Morocco
+91,602,1939,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1940,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1941,39.6,1,Lempiras,Honduras,Spanish Morocco
+91,602,1942,74.92,1,Lempiras,Honduras,Spanish Morocco
+91,602,1943,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1944,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1945,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1946,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1947,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1948,0,1,Lempiras,Honduras,Spanish Morocco
+91,602,1949,0,1,Lempiras,Honduras,Spanish Morocco
+91,615,1921,0,1,Plata,Honduras,Algeria
+91,615,1922,0,1,Gold Us $,Honduras,Algeria
+91,615,1923,0,1000,Gold Us $,Honduras,Algeria
+91,615,1924,0,1000,Gold Us $,Honduras,Algeria
+91,615,1925,0,1,Oro,Honduras,Algeria
+91,615,1926,0,1,Oro,Honduras,Algeria
+91,615,1927,0,1,Oro,Honduras,Algeria
+91,615,1928,0,1,Oro,Honduras,Algeria
+91,615,1929,0,1,Oro,Honduras,Algeria
+91,615,1930,0,1,Oro,Honduras,Algeria
+91,615,1932,0,1,Oro,Honduras,Algeria
+91,615,1933,0,1,Oro,Honduras,Algeria
+91,615,1934,0,1,Oro,Honduras,Algeria
+91,615,1935,0,1,Oro,Honduras,Algeria
+91,615,1936,0,1,Oro,Honduras,Algeria
+91,615,1937,0,1,Us $,Honduras,Algeria
+91,615,1938,41.62,1,Lempiras,Honduras,Algeria
+91,615,1939,0,1,Lempiras,Honduras,Algeria
+91,615,1940,0,1,Lempiras,Honduras,Algeria
+91,615,1941,0,1,Lempiras,Honduras,Algeria
+91,615,1942,0,1,Lempiras,Honduras,Algeria
+91,615,1943,0,1,Lempiras,Honduras,Algeria
+91,615,1944,0,1,Lempiras,Honduras,Algeria
+91,615,1945,0,1,Lempiras,Honduras,Algeria
+91,615,1946,0,1,Lempiras,Honduras,Algeria
+91,615,1947,0,1,Lempiras,Honduras,Algeria
+91,615,1948,0,1,Lempiras,Honduras,Algeria
+91,615,1949,0,1,Lempiras,Honduras,Algeria
+91,625,1921,0,1,Plata,Honduras,Sudan
+91,625,1922,0,1,Gold Us $,Honduras,Sudan
+91,625,1923,0,1000,Gold Us $,Honduras,Sudan
+91,625,1924,0,1000,Gold Us $,Honduras,Sudan
+91,625,1925,0,1,Oro,Honduras,Sudan
+91,625,1926,0,1,Oro,Honduras,Sudan
+91,625,1927,0,1,Oro,Honduras,Sudan
+91,625,1928,0,1,Oro,Honduras,Sudan
+91,625,1929,0,1,Oro,Honduras,Sudan
+91,625,1930,0,1,Oro,Honduras,Sudan
+91,625,1932,0,1,Oro,Honduras,Sudan
+91,625,1933,0,1,Oro,Honduras,Sudan
+91,625,1934,0,1,Oro,Honduras,Sudan
+91,625,1935,0,1,Oro,Honduras,Sudan
+91,625,1936,0,1,Oro,Honduras,Sudan
+91,625,1937,37.5,1,Us $,Honduras,Sudan
+91,625,1938,0,1,Lempiras,Honduras,Sudan
+91,625,1939,0,1,Lempiras,Honduras,Sudan
+91,625,1940,0,1,Lempiras,Honduras,Sudan
+91,625,1941,0,1,Lempiras,Honduras,Sudan
+91,625,1942,0,1,Lempiras,Honduras,Sudan
+91,625,1943,0,1,Lempiras,Honduras,Sudan
+91,625,1944,0,1,Lempiras,Honduras,Sudan
+91,625,1945,0,1,Lempiras,Honduras,Sudan
+91,625,1946,0,1,Lempiras,Honduras,Sudan
+91,625,1947,0,1,Lempiras,Honduras,Sudan
+91,625,1948,0,1,Lempiras,Honduras,Sudan
+91,625,1949,0,1,Lempiras,Honduras,Sudan
+91,630,1921,0,1,Plata,Honduras,Iran
+91,630,1922,0,1,Gold Us $,Honduras,Iran
+91,630,1923,0,1000,Gold Us $,Honduras,Iran
+91,630,1924,0,1000,Gold Us $,Honduras,Iran
+91,630,1925,0,1,Oro,Honduras,Iran
+91,630,1926,0,1,Oro,Honduras,Iran
+91,630,1927,0,1,Oro,Honduras,Iran
+91,630,1928,0,1,Oro,Honduras,Iran
+91,630,1929,0,1,Oro,Honduras,Iran
+91,630,1930,0,1,Oro,Honduras,Iran
+91,630,1932,0,1,Oro,Honduras,Iran
+91,630,1933,0,1,Oro,Honduras,Iran
+91,630,1934,0,1,Oro,Honduras,Iran
+91,630,1935,0,1,Oro,Honduras,Iran
+91,630,1936,0,1,Oro,Honduras,Iran
+91,630,1937,0,1,Us $,Honduras,Iran
+91,630,1938,75.95999999999999,1,Lempiras,Honduras,Iran
+91,630,1939,0,1,Lempiras,Honduras,Iran
+91,630,1940,0,1,Lempiras,Honduras,Iran
+91,630,1941,0,1,Lempiras,Honduras,Iran
+91,630,1942,0,1,Lempiras,Honduras,Iran
+91,630,1943,0,1,Lempiras,Honduras,Iran
+91,630,1944,0,1,Lempiras,Honduras,Iran
+91,630,1945,0,1,Lempiras,Honduras,Iran
+91,630,1946,0,1,Lempiras,Honduras,Iran
+91,630,1947,3479.7,1,Lempiras,Honduras,Iran
+91,630,1948,4639.200000000001,1,Lempiras,Honduras,Iran
+91,630,1949,2232.46,1,Lempiras,Honduras,Iran
+91,640,1921,0,1,Plata,Honduras,Turkey
+91,640,1922,0,1,Gold Us $,Honduras,Turkey
+91,640,1923,0,1000,Gold Us $,Honduras,Turkey
+91,640,1924,0,1000,Gold Us $,Honduras,Turkey
+91,640,1925,0,1,Oro,Honduras,Turkey
+91,640,1926,230,1,Oro,Honduras,Turkey
+91,640,1927,0,1,Oro,Honduras,Turkey
+91,640,1928,9.4,1,Oro,Honduras,Turkey
+91,640,1929,1.25,1,Oro,Honduras,Turkey
+91,640,1930,0,1,Oro,Honduras,Turkey
+91,640,1932,0,1,Oro,Honduras,Turkey
+91,640,1933,0,1,Oro,Honduras,Turkey
+91,640,1934,0,1,Oro,Honduras,Turkey
+91,640,1935,0,1,Oro,Honduras,Turkey
+91,640,1936,5,1,Oro,Honduras,Turkey
+91,640,1937,0,1,Us $,Honduras,Turkey
+91,640,1938,0,1,Lempiras,Honduras,Turkey
+91,640,1939,13.2,1,Lempiras,Honduras,Turkey
+91,640,1940,0,1,Lempiras,Honduras,Turkey
+91,640,1941,0,1,Lempiras,Honduras,Turkey
+91,640,1942,0,1,Lempiras,Honduras,Turkey
+91,640,1943,450,1,Lempiras,Honduras,Turkey
+91,640,1944,0,1,Lempiras,Honduras,Turkey
+91,640,1945,0,1,Lempiras,Honduras,Turkey
+91,640,1946,3962.42,1,Lempiras,Honduras,Turkey
+91,640,1947,137.1,1,Lempiras,Honduras,Turkey
+91,640,1948,0,1,Lempiras,Honduras,Turkey
+91,640,1949,0,1,Lempiras,Honduras,Turkey
+91,645,1921,0,1,Plata,Honduras,Iraq
+91,645,1922,0,1,Gold Us $,Honduras,Iraq
+91,645,1923,0,1000,Gold Us $,Honduras,Iraq
+91,645,1924,0,1000,Gold Us $,Honduras,Iraq
+91,645,1925,0,1,Oro,Honduras,Iraq
+91,645,1926,0,1,Oro,Honduras,Iraq
+91,645,1927,0,1,Oro,Honduras,Iraq
+91,645,1928,0,1,Oro,Honduras,Iraq
+91,645,1929,0,1,Oro,Honduras,Iraq
+91,645,1930,0,1,Oro,Honduras,Iraq
+91,645,1932,0,1,Oro,Honduras,Iraq
+91,645,1933,0,1,Oro,Honduras,Iraq
+91,645,1934,0,1,Oro,Honduras,Iraq
+91,645,1935,0,1,Oro,Honduras,Iraq
+91,645,1936,0,1,Oro,Honduras,Iraq
+91,645,1937,0,1,Us $,Honduras,Iraq
+91,645,1938,66.59999999999999,1,Lempiras,Honduras,Iraq
+91,645,1939,15.4,1,Lempiras,Honduras,Iraq
+91,645,1940,6.7,1,Lempiras,Honduras,Iraq
+91,645,1941,0,1,Lempiras,Honduras,Iraq
+91,645,1942,0,1,Lempiras,Honduras,Iraq
+91,645,1943,0,1,Lempiras,Honduras,Iraq
+91,645,1944,0,1,Lempiras,Honduras,Iraq
+91,645,1945,0,1,Lempiras,Honduras,Iraq
+91,645,1946,0,1,Lempiras,Honduras,Iraq
+91,645,1947,49,1,Lempiras,Honduras,Iraq
+91,645,1948,0,1,Lempiras,Honduras,Iraq
+91,645,1949,0,1,Lempiras,Honduras,Iraq
+91,651,1921,0,1,Plata,Honduras,Egypt
+91,651,1922,0,1,Gold Us $,Honduras,Egypt
+91,651,1923,0,1000,Gold Us $,Honduras,Egypt
+91,651,1924,0,1000,Gold Us $,Honduras,Egypt
+91,651,1925,0,1,Oro,Honduras,Egypt
+91,651,1926,0,1,Oro,Honduras,Egypt
+91,651,1927,0,1,Oro,Honduras,Egypt
+91,651,1928,3,1,Oro,Honduras,Egypt
+91,651,1929,3.6,1,Oro,Honduras,Egypt
+91,651,1930,15.5,1,Oro,Honduras,Egypt
+91,651,1932,0,1,Oro,Honduras,Egypt
+91,651,1933,8.5,1,Oro,Honduras,Egypt
+91,651,1934,0,1,Oro,Honduras,Egypt
+91,651,1935,0,1,Oro,Honduras,Egypt
+91,651,1936,0,1,Oro,Honduras,Egypt
+91,651,1937,0,1,Us $,Honduras,Egypt
+91,651,1938,0,1,Lempiras,Honduras,Egypt
+91,651,1939,0,1,Lempiras,Honduras,Egypt
+91,651,1940,87.31999999999999,1,Lempiras,Honduras,Egypt
+91,651,1941,0,1,Lempiras,Honduras,Egypt
+91,651,1942,0,1,Lempiras,Honduras,Egypt
+91,651,1943,0,1,Lempiras,Honduras,Egypt
+91,651,1944,0,1,Lempiras,Honduras,Egypt
+91,651,1945,11.92,1,Lempiras,Honduras,Egypt
+91,651,1946,53.1,1,Lempiras,Honduras,Egypt
+91,651,1947,4.34,1,Lempiras,Honduras,Egypt
+91,651,1948,1,1,Lempiras,Honduras,Egypt
+91,651,1949,911.68,1,Lempiras,Honduras,Egypt
+91,652,1921,0,1,Plata,Honduras,Syria
+91,652,1922,0,1,Gold Us $,Honduras,Syria
+91,652,1923,0,1000,Gold Us $,Honduras,Syria
+91,652,1924,0,1000,Gold Us $,Honduras,Syria
+91,652,1925,0,1,Oro,Honduras,Syria
+91,652,1926,0,1,Oro,Honduras,Syria
+91,652,1927,0,1,Oro,Honduras,Syria
+91,652,1928,0,1,Oro,Honduras,Syria
+91,652,1929,0,1,Oro,Honduras,Syria
+91,652,1930,0,1,Oro,Honduras,Syria
+91,652,1932,0,1,Oro,Honduras,Syria
+91,652,1933,0,1,Oro,Honduras,Syria
+91,652,1934,0,1,Oro,Honduras,Syria
+91,652,1935,0,1,Oro,Honduras,Syria
+91,652,1936,0,1,Oro,Honduras,Syria
+91,652,1937,0,1,Us $,Honduras,Syria
+91,652,1938,36.32,1,Lempiras,Honduras,Syria
+91,652,1939,0,1,Lempiras,Honduras,Syria
+91,652,1940,0,1,Lempiras,Honduras,Syria
+91,652,1941,57.5,1,Lempiras,Honduras,Syria
+91,652,1942,0,1,Lempiras,Honduras,Syria
+91,652,1943,32.5,1,Lempiras,Honduras,Syria
+91,652,1944,0,1,Lempiras,Honduras,Syria
+91,652,1945,310.18,1,Lempiras,Honduras,Syria
+91,652,1946,552,1,Lempiras,Honduras,Syria
+91,652,1947,5353.14,1,Lempiras,Honduras,Syria
+91,652,1948,1584.28,1,Lempiras,Honduras,Syria
+91,652,1949,1189,1,Lempiras,Honduras,Syria
+91,660,1921,0,1,Plata,Honduras,Lebanon
+91,660,1922,0,1,Gold Us $,Honduras,Lebanon
+91,660,1923,0,1000,Gold Us $,Honduras,Lebanon
+91,660,1924,0,1000,Gold Us $,Honduras,Lebanon
+91,660,1925,0,1,Oro,Honduras,Lebanon
+91,660,1926,0,1,Oro,Honduras,Lebanon
+91,660,1927,0,1,Oro,Honduras,Lebanon
+91,660,1928,0,1,Oro,Honduras,Lebanon
+91,660,1929,0,1,Oro,Honduras,Lebanon
+91,660,1930,0,1,Oro,Honduras,Lebanon
+91,660,1932,0,1,Oro,Honduras,Lebanon
+91,660,1933,0,1,Oro,Honduras,Lebanon
+91,660,1934,0,1,Oro,Honduras,Lebanon
+91,660,1935,0,1,Oro,Honduras,Lebanon
+91,660,1936,0,1,Oro,Honduras,Lebanon
+91,660,1937,11.71,1,Us $,Honduras,Lebanon
+91,660,1938,2,1,Lempiras,Honduras,Lebanon
+91,660,1939,0,1,Lempiras,Honduras,Lebanon
+91,660,1940,0,1,Lempiras,Honduras,Lebanon
+91,660,1941,0,1,Lempiras,Honduras,Lebanon
+91,660,1942,0,1,Lempiras,Honduras,Lebanon
+91,660,1943,0,1,Lempiras,Honduras,Lebanon
+91,660,1944,0,1,Lempiras,Honduras,Lebanon
+91,660,1945,0,1,Lempiras,Honduras,Lebanon
+91,660,1946,0,1,Lempiras,Honduras,Lebanon
+91,660,1947,10,1,Lempiras,Honduras,Lebanon
+91,660,1948,0,1,Lempiras,Honduras,Lebanon
+91,660,1949,0,1,Lempiras,Honduras,Lebanon
+91,663,1921,0,1,Plata,Honduras,Jordan
+91,663,1922,0,1,Gold Us $,Honduras,Jordan
+91,663,1923,0,1000,Gold Us $,Honduras,Jordan
+91,663,1924,0,1000,Gold Us $,Honduras,Jordan
+91,663,1925,0,1,Oro,Honduras,Jordan
+91,663,1926,0,1,Oro,Honduras,Jordan
+91,663,1927,0,1,Oro,Honduras,Jordan
+91,663,1928,0,1,Oro,Honduras,Jordan
+91,663,1929,0,1,Oro,Honduras,Jordan
+91,663,1930,0,1,Oro,Honduras,Jordan
+91,663,1932,0,1,Oro,Honduras,Jordan
+91,663,1933,0,1,Oro,Honduras,Jordan
+91,663,1934,0,1,Oro,Honduras,Jordan
+91,663,1935,0,1,Oro,Honduras,Jordan
+91,663,1936,0,1,Oro,Honduras,Jordan
+91,663,1937,0,1,Us $,Honduras,Jordan
+91,663,1938,0,1,Lempiras,Honduras,Jordan
+91,663,1939,0,1,Lempiras,Honduras,Jordan
+91,663,1940,0,1,Lempiras,Honduras,Jordan
+91,663,1941,0,1,Lempiras,Honduras,Jordan
+91,663,1942,0,1,Lempiras,Honduras,Jordan
+91,663,1943,0,1,Lempiras,Honduras,Jordan
+91,663,1944,0,1,Lempiras,Honduras,Jordan
+91,663,1945,0,1,Lempiras,Honduras,Jordan
+91,663,1946,0,1,Lempiras,Honduras,Jordan
+91,663,1947,0,1,Lempiras,Honduras,Jordan
+91,663,1948,0,1,Lempiras,Honduras,Jordan
+91,663,1949,0,1,Lempiras,Honduras,Jordan
+91,665,1921,0,1,Plata,Honduras,West Bank And Gaza
+91,665,1922,0,1,Gold Us $,Honduras,West Bank And Gaza
+91,665,1923,0,1000,Gold Us $,Honduras,West Bank And Gaza
+91,665,1924,0,1000,Gold Us $,Honduras,West Bank And Gaza
+91,665,1925,0,1,Oro,Honduras,West Bank And Gaza
+91,665,1926,0,1,Oro,Honduras,West Bank And Gaza
+91,665,1927,0,1,Oro,Honduras,West Bank And Gaza
+91,665,1928,1048.78,1,Oro,Honduras,West Bank And Gaza
+91,665,1929,645.55,1,Oro,Honduras,West Bank And Gaza
+91,665,1930,835.41,1,Oro,Honduras,West Bank And Gaza
+91,665,1932,0,1,Oro,Honduras,West Bank And Gaza
+91,665,1933,443.22,1,Oro,Honduras,West Bank And Gaza
+91,665,1934,289.15,1,Oro,Honduras,West Bank And Gaza
+91,665,1935,714.37,1,Oro,Honduras,West Bank And Gaza
+91,665,1936,1738.76,1,Oro,Honduras,West Bank And Gaza
+91,665,1937,79.36,1,Us $,Honduras,West Bank And Gaza
+91,665,1938,256.32,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1939,135.12,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1940,148.8,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1941,28,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1942,0,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1943,0,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1944,0,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1945,0,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1946,0,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1947,30,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1948,151.44,1,Lempiras,Honduras,West Bank And Gaza
+91,665,1949,0,1,Lempiras,Honduras,West Bank And Gaza
+91,675,1921,0,1,Plata,Honduras,Arabia
+91,675,1922,0,1,Gold Us $,Honduras,Arabia
+91,675,1923,0,1000,Gold Us $,Honduras,Arabia
+91,675,1924,0,1000,Gold Us $,Honduras,Arabia
+91,675,1925,0,1,Oro,Honduras,Arabia
+91,675,1926,0,1,Oro,Honduras,Arabia
+91,675,1927,0,1,Oro,Honduras,Arabia
+91,675,1928,0,1,Oro,Honduras,Arabia
+91,675,1929,0,1,Oro,Honduras,Arabia
+91,675,1930,0,1,Oro,Honduras,Arabia
+91,675,1932,0,1,Oro,Honduras,Arabia
+91,675,1933,0,1,Oro,Honduras,Arabia
+91,675,1934,0,1,Oro,Honduras,Arabia
+91,675,1935,0,1,Oro,Honduras,Arabia
+91,675,1936,0,1,Oro,Honduras,Arabia
+91,675,1937,0,1,Us $,Honduras,Arabia
+91,675,1938,0,1,Lempiras,Honduras,Arabia
+91,675,1939,0,1,Lempiras,Honduras,Arabia
+91,675,1940,0,1,Lempiras,Honduras,Arabia
+91,675,1941,0,1,Lempiras,Honduras,Arabia
+91,675,1942,0,1,Lempiras,Honduras,Arabia
+91,675,1943,0,1,Lempiras,Honduras,Arabia
+91,675,1944,101.52,1,Lempiras,Honduras,Arabia
+91,675,1945,0,1,Lempiras,Honduras,Arabia
+91,675,1946,0,1,Lempiras,Honduras,Arabia
+91,675,1947,7.84,1,Lempiras,Honduras,Arabia
+91,675,1948,0,1,Lempiras,Honduras,Arabia
+91,675,1949,3.86,1,Lempiras,Honduras,Arabia
+91,710,1921,10039.36,1,Plata,Honduras,China
+91,710,1922,12202.4,1,Gold Us $,Honduras,China
+91,710,1923,0,1000,Gold Us $,Honduras,China
+91,710,1924,0,1000,Gold Us $,Honduras,China
+91,710,1925,8562.15,1,Oro,Honduras,China
+91,710,1926,7674.27,1,Oro,Honduras,China
+91,710,1927,8019.96,1,Oro,Honduras,China
+91,710,1928,6730.2,1,Oro,Honduras,China
+91,710,1929,3083.48,1,Oro,Honduras,China
+91,710,1930,16624.39,1,Oro,Honduras,China
+91,710,1932,4007.93,1,Oro,Honduras,China
+91,710,1933,9751.84,1,Oro,Honduras,China
+91,710,1934,6225.83,1,Oro,Honduras,China
+91,710,1935,3178.14,1,Oro,Honduras,China
+91,710,1936,1038.88,1,Oro,Honduras,China
+91,710,1937,1729.26,1,Us $,Honduras,China
+91,710,1938,11139.84,1,Lempiras,Honduras,China
+91,710,1939,2148.36,1,Lempiras,Honduras,China
+91,710,1940,5294.54,1,Lempiras,Honduras,China
+91,710,1941,6332.48,1,Lempiras,Honduras,China
+91,710,1942,9917.040000000001,1,Lempiras,Honduras,China
+91,710,1943,1515.2,1,Lempiras,Honduras,China
+91,710,1944,0,1,Lempiras,Honduras,China
+91,710,1945,0,1,Lempiras,Honduras,China
+91,710,1946,0,1,Lempiras,Honduras,China
+91,710,1947,3456.2,1,Lempiras,Honduras,China
+91,710,1948,4152.38,1,Lempiras,Honduras,China
+91,710,1949,38818.06,1,Lempiras,Honduras,China
+91,720,1921,0,1,Plata,Honduras,Hong Kong
+91,720,1922,0,1,Gold Us $,Honduras,Hong Kong
+91,720,1923,0,1000,Gold Us $,Honduras,Hong Kong
+91,720,1924,0,1000,Gold Us $,Honduras,Hong Kong
+91,720,1925,0,1,Oro,Honduras,Hong Kong
+91,720,1926,0,1,Oro,Honduras,Hong Kong
+91,720,1927,0,1,Oro,Honduras,Hong Kong
+91,720,1928,0,1,Oro,Honduras,Hong Kong
+91,720,1929,0,1,Oro,Honduras,Hong Kong
+91,720,1930,0,1,Oro,Honduras,Hong Kong
+91,720,1932,0,1,Oro,Honduras,Hong Kong
+91,720,1933,0,1,Oro,Honduras,Hong Kong
+91,720,1934,0,1,Oro,Honduras,Hong Kong
+91,720,1935,0,1,Oro,Honduras,Hong Kong
+91,720,1936,0,1,Oro,Honduras,Hong Kong
+91,720,1937,0,1,Us $,Honduras,Hong Kong
+91,720,1938,0,1,Lempiras,Honduras,Hong Kong
+91,720,1939,0,1,Lempiras,Honduras,Hong Kong
+91,720,1940,21.4,1,Lempiras,Honduras,Hong Kong
+91,720,1941,116,1,Lempiras,Honduras,Hong Kong
+91,720,1942,2994.98,1,Lempiras,Honduras,Hong Kong
+91,720,1943,0,1,Lempiras,Honduras,Hong Kong
+91,720,1944,0,1,Lempiras,Honduras,Hong Kong
+91,720,1945,0,1,Lempiras,Honduras,Hong Kong
+91,720,1946,0,1,Lempiras,Honduras,Hong Kong
+91,720,1947,0,1,Lempiras,Honduras,Hong Kong
+91,720,1948,0,1,Lempiras,Honduras,Hong Kong
+91,720,1949,0,1,Lempiras,Honduras,Hong Kong
+91,740,1921,36960.68,1,Plata,Honduras,Japan
+91,740,1922,176183.48,1,Gold Us $,Honduras,Japan
+91,740,1923,0,1000,Gold Us $,Honduras,Japan
+91,740,1924,9,1000,Gold Us $,Honduras,Japan
+91,740,1925,38396.28,1,Oro,Honduras,Japan
+91,740,1926,27577.91,1,Oro,Honduras,Japan
+91,740,1927,32204.15,1,Oro,Honduras,Japan
+91,740,1928,50481.81,1,Oro,Honduras,Japan
+91,740,1929,71225.83,1,Oro,Honduras,Japan
+91,740,1930,91927.52,1,Oro,Honduras,Japan
+91,740,1932,42165.61,1,Oro,Honduras,Japan
+91,740,1933,67897.11,1,Oro,Honduras,Japan
+91,740,1934,267837.29,1,Oro,Honduras,Japan
+91,740,1935,1014255.1,1,Oro,Honduras,Japan
+91,740,1936,666751.5600000001,1,Oro,Honduras,Japan
+91,740,1937,1515945.97,1,Us $,Honduras,Japan
+91,740,1938,1908129.48,1,Lempiras,Honduras,Japan
+91,740,1939,1168492.12,1,Lempiras,Honduras,Japan
+91,740,1940,2666177.9,1,Lempiras,Honduras,Japan
+91,740,1941,1372921.46,1,Lempiras,Honduras,Japan
+91,740,1942,97213.62,1,Lempiras,Honduras,Japan
+91,740,1943,0,1,Lempiras,Honduras,Japan
+91,740,1944,553.92,1,Lempiras,Honduras,Japan
+91,740,1945,113.2,1,Lempiras,Honduras,Japan
+91,740,1946,0,1,Lempiras,Honduras,Japan
+91,740,1947,0,1,Lempiras,Honduras,Japan
+91,740,1948,2469,1,Lempiras,Honduras,Japan
+91,740,1949,44673.98,1,Lempiras,Honduras,Japan
+91,770,1921,0,1,Plata,Honduras,Pakistan
+91,770,1922,0,1,Gold Us $,Honduras,Pakistan
+91,770,1923,0,1000,Gold Us $,Honduras,Pakistan
+91,770,1924,0,1000,Gold Us $,Honduras,Pakistan
+91,770,1925,0,1,Oro,Honduras,Pakistan
+91,770,1926,0,1,Oro,Honduras,Pakistan
+91,770,1927,0,1,Oro,Honduras,Pakistan
+91,770,1928,0,1,Oro,Honduras,Pakistan
+91,770,1929,0,1,Oro,Honduras,Pakistan
+91,770,1930,0,1,Oro,Honduras,Pakistan
+91,770,1932,0,1,Oro,Honduras,Pakistan
+91,770,1933,0,1,Oro,Honduras,Pakistan
+91,770,1934,0,1,Oro,Honduras,Pakistan
+91,770,1935,0,1,Oro,Honduras,Pakistan
+91,770,1936,0,1,Oro,Honduras,Pakistan
+91,770,1937,0,1,Us $,Honduras,Pakistan
+91,770,1938,0,1,Lempiras,Honduras,Pakistan
+91,770,1939,0,1,Lempiras,Honduras,Pakistan
+91,770,1940,0,1,Lempiras,Honduras,Pakistan
+91,770,1941,0,1,Lempiras,Honduras,Pakistan
+91,770,1942,0,1,Lempiras,Honduras,Pakistan
+91,770,1943,0,1,Lempiras,Honduras,Pakistan
+91,770,1944,0,1,Lempiras,Honduras,Pakistan
+91,770,1945,0,1,Lempiras,Honduras,Pakistan
+91,770,1946,0,1,Lempiras,Honduras,Pakistan
+91,770,1947,0,1,Lempiras,Honduras,Pakistan
+91,770,1948,0,1,Lempiras,Honduras,Pakistan
+91,770,1949,0,1,Lempiras,Honduras,Pakistan
+91,780,1921,0,1,Plata,Honduras,Sri Lanka
+91,780,1922,0,1,Gold Us $,Honduras,Sri Lanka
+91,780,1923,0,1000,Gold Us $,Honduras,Sri Lanka
+91,780,1924,0,1000,Gold Us $,Honduras,Sri Lanka
+91,780,1925,0,1,Oro,Honduras,Sri Lanka
+91,780,1926,0,1,Oro,Honduras,Sri Lanka
+91,780,1927,0,1,Oro,Honduras,Sri Lanka
+91,780,1928,0,1,Oro,Honduras,Sri Lanka
+91,780,1929,0,1,Oro,Honduras,Sri Lanka
+91,780,1930,0,1,Oro,Honduras,Sri Lanka
+91,780,1932,0,1,Oro,Honduras,Sri Lanka
+91,780,1933,484.71,1,Oro,Honduras,Sri Lanka
+91,780,1934,21,1,Oro,Honduras,Sri Lanka
+91,780,1935,0,1,Oro,Honduras,Sri Lanka
+91,780,1936,0,1,Oro,Honduras,Sri Lanka
+91,780,1937,0,1,Us $,Honduras,Sri Lanka
+91,780,1938,1010.08,1,Lempiras,Honduras,Sri Lanka
+91,780,1939,330.48,1,Lempiras,Honduras,Sri Lanka
+91,780,1940,0,1,Lempiras,Honduras,Sri Lanka
+91,780,1941,105.04,1,Lempiras,Honduras,Sri Lanka
+91,780,1942,97.36,1,Lempiras,Honduras,Sri Lanka
+91,780,1943,577.74,1,Lempiras,Honduras,Sri Lanka
+91,780,1944,689.98,1,Lempiras,Honduras,Sri Lanka
+91,780,1945,1810.1,1,Lempiras,Honduras,Sri Lanka
+91,780,1946,1375.2,1,Lempiras,Honduras,Sri Lanka
+91,780,1947,5538.52,1,Lempiras,Honduras,Sri Lanka
+91,780,1948,775.84,1,Lempiras,Honduras,Sri Lanka
+91,780,1949,712.8,1,Lempiras,Honduras,Sri Lanka
+91,810,1921,0,1,Plata,Honduras,French Indo-China
+91,810,1922,0,1,Gold Us $,Honduras,French Indo-China
+91,810,1923,0,1000,Gold Us $,Honduras,French Indo-China
+91,810,1924,0,1000,Gold Us $,Honduras,French Indo-China
+91,810,1925,0,1,Oro,Honduras,French Indo-China
+91,810,1926,0,1,Oro,Honduras,French Indo-China
+91,810,1927,0,1,Oro,Honduras,French Indo-China
+91,810,1928,0,1,Oro,Honduras,French Indo-China
+91,810,1929,0,1,Oro,Honduras,French Indo-China
+91,810,1930,0,1,Oro,Honduras,French Indo-China
+91,810,1932,0,1,Oro,Honduras,French Indo-China
+91,810,1933,0,1,Oro,Honduras,French Indo-China
+91,810,1934,0,1,Oro,Honduras,French Indo-China
+91,810,1935,0,1,Oro,Honduras,French Indo-China
+91,810,1936,0,1,Oro,Honduras,French Indo-China
+91,810,1937,0,1,Us $,Honduras,French Indo-China
+91,810,1938,389.2,1,Lempiras,Honduras,French Indo-China
+91,810,1939,0,1,Lempiras,Honduras,French Indo-China
+91,810,1940,0,1,Lempiras,Honduras,French Indo-China
+91,810,1941,0,1,Lempiras,Honduras,French Indo-China
+91,810,1942,0,1,Lempiras,Honduras,French Indo-China
+91,810,1943,0,1,Lempiras,Honduras,French Indo-China
+91,810,1944,0,1,Lempiras,Honduras,French Indo-China
+91,810,1945,0,1,Lempiras,Honduras,French Indo-China
+91,810,1946,0,1,Lempiras,Honduras,French Indo-China
+91,810,1947,0,1,Lempiras,Honduras,French Indo-China
+91,810,1948,0,1,Lempiras,Honduras,French Indo-China
+91,810,1949,0,1,Lempiras,Honduras,French Indo-China
+91,820,1921,0,1,Plata,Honduras,Malaysia
+91,820,1922,0,1,Gold Us $,Honduras,Malaysia
+91,820,1923,0,1000,Gold Us $,Honduras,Malaysia
+91,820,1924,0,1000,Gold Us $,Honduras,Malaysia
+91,820,1925,0,1,Oro,Honduras,Malaysia
+91,820,1926,0,1,Oro,Honduras,Malaysia
+91,820,1927,0,1,Oro,Honduras,Malaysia
+91,820,1928,0,1,Oro,Honduras,Malaysia
+91,820,1929,0,1,Oro,Honduras,Malaysia
+91,820,1930,0,1,Oro,Honduras,Malaysia
+91,820,1932,0,1,Oro,Honduras,Malaysia
+91,820,1933,0,1,Oro,Honduras,Malaysia
+91,820,1934,0,1,Oro,Honduras,Malaysia
+91,820,1935,0,1,Oro,Honduras,Malaysia
+91,820,1936,0,1,Oro,Honduras,Malaysia
+91,820,1937,0,1,Us $,Honduras,Malaysia
+91,820,1938,0,1,Lempiras,Honduras,Malaysia
+91,820,1939,0,1,Lempiras,Honduras,Malaysia
+91,820,1940,0,1,Lempiras,Honduras,Malaysia
+91,820,1941,0,1,Lempiras,Honduras,Malaysia
+91,820,1942,0,1,Lempiras,Honduras,Malaysia
+91,820,1943,0,1,Lempiras,Honduras,Malaysia
+91,820,1944,0,1,Lempiras,Honduras,Malaysia
+91,820,1945,0,1,Lempiras,Honduras,Malaysia
+91,820,1946,0,1,Lempiras,Honduras,Malaysia
+91,820,1947,10007.88,1,Lempiras,Honduras,Malaysia
+91,820,1948,16.64,1,Lempiras,Honduras,Malaysia
+91,820,1949,0,1,Lempiras,Honduras,Malaysia
+91,840,1921,0,1,Plata,Honduras,Philippines
+91,840,1922,0,1,Gold Us $,Honduras,Philippines
+91,840,1923,0,1000,Gold Us $,Honduras,Philippines
+91,840,1924,0,1000,Gold Us $,Honduras,Philippines
+91,840,1925,0,1,Oro,Honduras,Philippines
+91,840,1926,0,1,Oro,Honduras,Philippines
+91,840,1927,0,1,Oro,Honduras,Philippines
+91,840,1928,.5,1,Oro,Honduras,Philippines
+91,840,1929,0,1,Oro,Honduras,Philippines
+91,840,1930,0,1,Oro,Honduras,Philippines
+91,840,1932,0,1,Oro,Honduras,Philippines
+91,840,1933,0,1,Oro,Honduras,Philippines
+91,840,1934,0,1,Oro,Honduras,Philippines
+91,840,1935,170,1,Oro,Honduras,Philippines
+91,840,1936,309.05,1,Oro,Honduras,Philippines
+91,840,1937,162.8,1,Us $,Honduras,Philippines
+91,840,1938,1617.02,1,Lempiras,Honduras,Philippines
+91,840,1939,0,1,Lempiras,Honduras,Philippines
+91,840,1940,2888.82,1,Lempiras,Honduras,Philippines
+91,840,1941,9761.540000000001,1,Lempiras,Honduras,Philippines
+91,840,1942,11931.74,1,Lempiras,Honduras,Philippines
+91,840,1943,0,1,Lempiras,Honduras,Philippines
+91,840,1944,0,1,Lempiras,Honduras,Philippines
+91,840,1945,0,1,Lempiras,Honduras,Philippines
+91,840,1946,0,1,Lempiras,Honduras,Philippines
+91,840,1947,3065.34,1,Lempiras,Honduras,Philippines
+91,840,1948,1098.32,1,Lempiras,Honduras,Philippines
+91,840,1949,2,1,Lempiras,Honduras,Philippines
+91,850,1921,0,1,Plata,Honduras,Indonesia
+91,850,1922,0,1,Gold Us $,Honduras,Indonesia
+91,850,1923,0,1000,Gold Us $,Honduras,Indonesia
+91,850,1924,0,1000,Gold Us $,Honduras,Indonesia
+91,850,1925,0,1,Oro,Honduras,Indonesia
+91,850,1926,0,1,Oro,Honduras,Indonesia
+91,850,1927,0,1,Oro,Honduras,Indonesia
+91,850,1928,0,1,Oro,Honduras,Indonesia
+91,850,1929,0,1,Oro,Honduras,Indonesia
+91,850,1930,0,1,Oro,Honduras,Indonesia
+91,850,1932,0,1,Oro,Honduras,Indonesia
+91,850,1933,0,1,Oro,Honduras,Indonesia
+91,850,1934,0,1,Oro,Honduras,Indonesia
+91,850,1935,0,1,Oro,Honduras,Indonesia
+91,850,1936,0,1,Oro,Honduras,Indonesia
+91,850,1937,0,1,Us $,Honduras,Indonesia
+91,850,1938,0,1,Lempiras,Honduras,Indonesia
+91,850,1939,0,1,Lempiras,Honduras,Indonesia
+91,850,1940,0,1,Lempiras,Honduras,Indonesia
+91,850,1941,0,1,Lempiras,Honduras,Indonesia
+91,850,1942,0,1,Lempiras,Honduras,Indonesia
+91,850,1943,0,1,Lempiras,Honduras,Indonesia
+91,850,1944,0,1,Lempiras,Honduras,Indonesia
+91,850,1945,0,1,Lempiras,Honduras,Indonesia
+91,850,1946,0,1,Lempiras,Honduras,Indonesia
+91,850,1947,0,1,Lempiras,Honduras,Indonesia
+91,850,1948,0,1,Lempiras,Honduras,Indonesia
+91,850,1949,0,1,Lempiras,Honduras,Indonesia
+91,900,1921,0,1,Plata,Honduras,Australia
+91,900,1922,0,1,Gold Us $,Honduras,Australia
+91,900,1923,0,1000,Gold Us $,Honduras,Australia
+91,900,1924,0,1000,Gold Us $,Honduras,Australia
+91,900,1925,0,1,Oro,Honduras,Australia
+91,900,1926,0,1,Oro,Honduras,Australia
+91,900,1927,0,1,Oro,Honduras,Australia
+91,900,1928,.5,1,Oro,Honduras,Australia
+91,900,1929,0,1,Oro,Honduras,Australia
+91,900,1930,0,1,Oro,Honduras,Australia
+91,900,1932,0,1,Oro,Honduras,Australia
+91,900,1933,1.4,1,Oro,Honduras,Australia
+91,900,1934,0,1,Oro,Honduras,Australia
+91,900,1935,.25,1,Oro,Honduras,Australia
+91,900,1936,0,1,Oro,Honduras,Australia
+91,900,1937,0,1,Us $,Honduras,Australia
+91,900,1938,1227.88,1,Lempiras,Honduras,Australia
+91,900,1939,0,1,Lempiras,Honduras,Australia
+91,900,1940,0,1,Lempiras,Honduras,Australia
+91,900,1941,0,1,Lempiras,Honduras,Australia
+91,900,1942,490.2,1,Lempiras,Honduras,Australia
+91,900,1943,118,1,Lempiras,Honduras,Australia
+91,900,1944,0,1,Lempiras,Honduras,Australia
+91,900,1945,0,1,Lempiras,Honduras,Australia
+91,900,1946,0,1,Lempiras,Honduras,Australia
+91,900,1947,.58,1,Lempiras,Honduras,Australia
+91,900,1948,23.44,1,Lempiras,Honduras,Australia
+91,900,1949,0,1,Lempiras,Honduras,Australia
+91,920,1921,0,1,Plata,Honduras,New Zealand
+91,920,1922,0,1,Gold Us $,Honduras,New Zealand
+91,920,1923,0,1000,Gold Us $,Honduras,New Zealand
+91,920,1924,0,1000,Gold Us $,Honduras,New Zealand
+91,920,1925,0,1,Oro,Honduras,New Zealand
+91,920,1926,0,1,Oro,Honduras,New Zealand
+91,920,1927,0,1,Oro,Honduras,New Zealand
+91,920,1928,0,1,Oro,Honduras,New Zealand
+91,920,1929,0,1,Oro,Honduras,New Zealand
+91,920,1930,0,1,Oro,Honduras,New Zealand
+91,920,1932,0,1,Oro,Honduras,New Zealand
+91,920,1933,0,1,Oro,Honduras,New Zealand
+91,920,1934,0,1,Oro,Honduras,New Zealand
+91,920,1935,0,1,Oro,Honduras,New Zealand
+91,920,1936,7.66,1,Oro,Honduras,New Zealand
+91,920,1937,0,1,Us $,Honduras,New Zealand
+91,920,1938,0,1,Lempiras,Honduras,New Zealand
+91,920,1939,0,1,Lempiras,Honduras,New Zealand
+91,920,1940,0,1,Lempiras,Honduras,New Zealand
+91,920,1941,0,1,Lempiras,Honduras,New Zealand
+91,920,1942,4,1,Lempiras,Honduras,New Zealand
+91,920,1943,0,1,Lempiras,Honduras,New Zealand
+91,920,1944,0,1,Lempiras,Honduras,New Zealand
+91,920,1945,0,1,Lempiras,Honduras,New Zealand
+91,920,1946,4,1,Lempiras,Honduras,New Zealand
+91,920,1947,0,1,Lempiras,Honduras,New Zealand
+91,920,1948,12.06,1,Lempiras,Honduras,New Zealand
+91,920,1949,161.32,1,Lempiras,Honduras,New Zealand
+91,1065,1921,0,1,Plata,Honduras,Curacao
+91,1065,1922,0,1,Gold Us $,Honduras,Curacao
+91,1065,1923,0,1000,Gold Us $,Honduras,Curacao
+91,1065,1924,0,1000,Gold Us $,Honduras,Curacao
+91,1065,1925,0,1,Oro,Honduras,Curacao
+91,1065,1926,0,1,Oro,Honduras,Curacao
+91,1065,1927,0,1,Oro,Honduras,Curacao
+91,1065,1928,143517.4,1,Oro,Honduras,Curacao
+91,1065,1929,450575.76,1,Oro,Honduras,Curacao
+91,1065,1930,587192.9300000001,1,Oro,Honduras,Curacao
+91,1065,1932,270465.23,1,Oro,Honduras,Curacao
+91,1065,1933,419519.73,1,Oro,Honduras,Curacao
+91,1065,1934,754450.6899999999,1,Oro,Honduras,Curacao
+91,1065,1935,530054.9,1,Oro,Honduras,Curacao
+91,1065,1936,499996.47,1,Oro,Honduras,Curacao
+91,1065,1937,554903.6800000001,1,Us $,Honduras,Curacao
+91,1065,1938,0,1,Lempiras,Honduras,Curacao
+91,1065,1939,0,1,Lempiras,Honduras,Curacao
+91,1065,1940,0,1,Lempiras,Honduras,Curacao
+91,1065,1941,0,1,Lempiras,Honduras,Curacao
+91,1065,1942,0,1,Lempiras,Honduras,Curacao
+91,1065,1943,0,1,Lempiras,Honduras,Curacao
+91,1065,1944,0,1,Lempiras,Honduras,Curacao
+91,1065,1945,0,1,Lempiras,Honduras,Curacao
+91,1065,1946,0,1,Lempiras,Honduras,Curacao
+91,1065,1947,0,1,Lempiras,Honduras,Curacao
+91,1065,1948,0,1,Lempiras,Honduras,Curacao
+91,1065,1949,0,1,Lempiras,Honduras,Curacao
+91,3651,1921,0,1,Plata,Honduras,Siberia
+91,3651,1922,0,1,Gold Us $,Honduras,Siberia
+91,3651,1923,0,1000,Gold Us $,Honduras,Siberia
+91,3651,1924,0,1000,Gold Us $,Honduras,Siberia
+91,3651,1925,0,1,Oro,Honduras,Siberia
+91,3651,1926,0,1,Oro,Honduras,Siberia
+91,3651,1927,100.77,1,Oro,Honduras,Siberia
+91,3651,1928,519.2,1,Oro,Honduras,Siberia
+91,3651,1929,1069.64,1,Oro,Honduras,Siberia
+91,3651,1930,0,1,Oro,Honduras,Siberia
+91,3651,1932,0,1,Oro,Honduras,Siberia
+91,3651,1933,0,1,Oro,Honduras,Siberia
+91,3651,1934,0,1,Oro,Honduras,Siberia
+91,3651,1935,0,1,Oro,Honduras,Siberia
+91,3651,1936,0,1,Oro,Honduras,Siberia
+91,3651,1937,0,1,Us $,Honduras,Siberia
+91,3651,1938,0,1,Lempiras,Honduras,Siberia
+91,3651,1939,0,1,Lempiras,Honduras,Siberia
+91,3651,1940,0,1,Lempiras,Honduras,Siberia
+91,3651,1941,0,1,Lempiras,Honduras,Siberia
+91,3651,1942,0,1,Lempiras,Honduras,Siberia
+91,3651,1943,0,1,Lempiras,Honduras,Siberia
+91,3651,1944,0,1,Lempiras,Honduras,Siberia
+91,3651,1945,0,1,Lempiras,Honduras,Siberia
+91,3651,1946,0,1,Lempiras,Honduras,Siberia
+91,3651,1947,0,1,Lempiras,Honduras,Siberia
+91,3651,1948,0,1,Lempiras,Honduras,Siberia
+91,3651,1949,0,1,Lempiras,Honduras,Siberia
+91,8502,1921,0,1,Plata,Honduras,Sumatra
+91,8502,1922,0,1,Gold Us $,Honduras,Sumatra
+91,8502,1923,0,1000,Gold Us $,Honduras,Sumatra
+91,8502,1924,0,1000,Gold Us $,Honduras,Sumatra
+91,8502,1925,0,1,Oro,Honduras,Sumatra
+91,8502,1926,0,1,Oro,Honduras,Sumatra
+91,8502,1927,0,1,Oro,Honduras,Sumatra
+91,8502,1928,0,1,Oro,Honduras,Sumatra
+91,8502,1929,0,1,Oro,Honduras,Sumatra
+91,8502,1930,0,1,Oro,Honduras,Sumatra
+91,8502,1932,0,1,Oro,Honduras,Sumatra
+91,8502,1933,0,1,Oro,Honduras,Sumatra
+91,8502,1934,0,1,Oro,Honduras,Sumatra
+91,8502,1935,1032.6,1,Oro,Honduras,Sumatra
+91,8502,1936,0,1,Oro,Honduras,Sumatra
+91,8502,1937,0,1,Us $,Honduras,Sumatra
+91,8502,1938,0,1,Lempiras,Honduras,Sumatra
+91,8502,1939,0,1,Lempiras,Honduras,Sumatra
+91,8502,1940,0,1,Lempiras,Honduras,Sumatra
+91,8502,1941,0,1,Lempiras,Honduras,Sumatra
+91,8502,1942,0,1,Lempiras,Honduras,Sumatra
+91,8502,1943,0,1,Lempiras,Honduras,Sumatra
+91,8502,1944,0,1,Lempiras,Honduras,Sumatra
+91,8502,1945,1127.3,1,Lempiras,Honduras,Sumatra
+91,8502,1946,0,1,Lempiras,Honduras,Sumatra
+91,8502,1947,6.7,1,Lempiras,Honduras,Sumatra
+91,8502,1948,1756.48,1,Lempiras,Honduras,Sumatra
+91,8502,1949,3331.9,1,Lempiras,Honduras,Sumatra
+91,,1921,33445399.42,1,Plata,Honduras,
+91,,1922,12804408.89,1,Gold Us $,Honduras,
+91,,1923,14809,1000,Gold Us $,Honduras,
+91,,1924,11373,1000,Gold Us $,Honduras,
+91,,1925,12753102.34,1,Oro,Honduras,
+91,,1926,9902371.529999994,1,Oro,Honduras,
+91,,1927,10644466.55,1,Oro,Honduras,
+91,,1928,12579722.55,1,Oro,Honduras,
+91,,1929,14864606.98,1,Oro,Honduras,
+91,,1930,15956593.67,1,Oro,Honduras,
+91,,1932,8380880.399999998,1,Oro,Honduras,
+91,,1933,6291716.5,1,Oro,Honduras,
+91,,1934,8396713.709999999,1,Oro,Honduras,
+91,,1935,9590098.550000003,1,Oro,Honduras,
+91,,1936,8731922.23,1,Oro,Honduras,
+91,,1937,10387780.04,1,Us $,Honduras,
+91,,1938,20694620.07999999,1,Lempiras,Honduras,
+91,,1939,19436288.34,1,Lempiras,Honduras,
+91,,1940,20172845.75999999,1,Lempiras,Honduras,
+91,,1941,20516470.95999999,1,Lempiras,Honduras,
+91,,1942,22318706.51999999,1,Lempiras,Honduras,
+91,,1943,20519920.15999999,1,Lempiras,Honduras,
+91,,1944,26698125.98,1,Lempiras,Honduras,
+91,,1945,30399484.74999999,1,Lempiras,Honduras,
+91,,1946,39157992.61999999,1,Lempiras,Honduras,
+91,,1947,58884627.92000003,1,Lempiras,Honduras,
+91,,1948,71214910.63999999,1,Lempiras,Honduras,
+91,,1949,67970797.18000001,1,Lempiras,Honduras,

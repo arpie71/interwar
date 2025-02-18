@@ -1,0 +1,2941 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+70,2,1920,280148714,1,,Mexico,United States
+70,2,1921,332560479,1,,Mexico,United States
+70,2,1922,197813705,1,,Mexico,United States
+70,2,1923,235432707,1,,Mexico,United States
+70,2,1924,233194744,1,,Mexico,United States
+70,2,1925,274495561,1,,Mexico,United States
+70,2,1926,268622421,1,,Mexico,United States
+70,2,1927,232835157,1,,Mexico,United States
+70,2,1928,241612651,1,,Mexico,United States
+70,2,1929,264010226,1,,Mexico,United States
+70,2,1930,239055226,1,,Mexico,United States
+70,2,1931,144584283,1,,Mexico,United States
+70,2,1932,115430644,1,Pesos,Mexico,United States
+70,2,1933,146544913,1,Pesos,Mexico,United States
+70,2,1934,202704614,1,Pesos,Mexico,United States
+70,2,1935,265348342,1,Pesos,Mexico,United States
+70,2,1936,274457269,1,Pesos,Mexico,United States
+70,2,1937,381479268,1,Pesos,Mexico,United States
+70,2,1938,284933491,1,Pesos,Mexico,United States
+70,2,1939,415834280,1,Pesos,Mexico,United States
+70,2,1940,527285017,1,,Mexico,United States
+70,2,1941,771232177,1,,Mexico,United States
+70,2,1942,655222929,1,,Mexico,United States
+70,2,1943,805472811,1,,Mexico,United States
+70,2,1944,1699169910,1,,Mexico,United States
+70,2,1945,1321544074,1,,Mexico,United States
+70,2,1946,2204432101,1,,Mexico,United States
+70,2,1947,2856287306,1,,Mexico,United States
+70,2,1948,2560560667,1,,Mexico,United States
+70,2,1949,3068414,1000,Pesos,Mexico,United States
+70,6,1920,215,1,,Mexico,Puerto Rico
+70,6,1921,333,1,,Mexico,Puerto Rico
+70,6,1922,3691,1,,Mexico,Puerto Rico
+70,6,1923,2632,1,,Mexico,Puerto Rico
+70,6,1924,930,1,,Mexico,Puerto Rico
+70,6,1925,1560,1,,Mexico,Puerto Rico
+70,6,1926,18,1,,Mexico,Puerto Rico
+70,6,1927,86,1,,Mexico,Puerto Rico
+70,6,1928,535,1,,Mexico,Puerto Rico
+70,6,1929,2669,1,,Mexico,Puerto Rico
+70,6,1930,3146,1,,Mexico,Puerto Rico
+70,6,1931,338,1,,Mexico,Puerto Rico
+70,6,1932,10125,1,Pesos,Mexico,Puerto Rico
+70,6,1933,212,1,Pesos,Mexico,Puerto Rico
+70,6,1934,421,1,Pesos,Mexico,Puerto Rico
+70,6,1935,797,1,Pesos,Mexico,Puerto Rico
+70,6,1936,4997,1,Pesos,Mexico,Puerto Rico
+70,6,1937,8771,1,Pesos,Mexico,Puerto Rico
+70,6,1938,4925,1,Pesos,Mexico,Puerto Rico
+70,6,1939,1192,1,Pesos,Mexico,Puerto Rico
+70,6,1940,4638,1,,Mexico,Puerto Rico
+70,6,1941,3005,1,,Mexico,Puerto Rico
+70,6,1942,13,1,,Mexico,Puerto Rico
+70,6,1943,25,1,,Mexico,Puerto Rico
+70,6,1944,173,1,,Mexico,Puerto Rico
+70,6,1945,12756,1,,Mexico,Puerto Rico
+70,6,1946,9876,1,,Mexico,Puerto Rico
+70,6,1947,9599563,1,,Mexico,Puerto Rico
+70,6,1948,173798,1,,Mexico,Puerto Rico
+70,6,1949,9,1000,Pesos,Mexico,Puerto Rico
+70,20,1920,456300,1,,Mexico,Canada
+70,20,1921,441738,1,,Mexico,Canada
+70,20,1922,1161900,1,,Mexico,Canada
+70,20,1923,1556689,1,,Mexico,Canada
+70,20,1924,2192122,1,,Mexico,Canada
+70,20,1925,3145767,1,,Mexico,Canada
+70,20,1926,5577847,1,,Mexico,Canada
+70,20,1927,4790232,1,,Mexico,Canada
+70,20,1928,4386969,1,,Mexico,Canada
+70,20,1929,4024313,1,,Mexico,Canada
+70,20,1930,671569,1,,Mexico,Canada
+70,20,1931,1157058,1,,Mexico,Canada
+70,20,1932,581021,1,Pesos,Mexico,Canada
+70,20,1933,964523,1,Pesos,Mexico,Canada
+70,20,1934,2321369,1,Pesos,Mexico,Canada
+70,20,1935,3171123,1,Pesos,Mexico,Canada
+70,20,1936,4997870,1,Pesos,Mexico,Canada
+70,20,1937,6626223,1,Pesos,Mexico,Canada
+70,20,1938,5155039,1,Pesos,Mexico,Canada
+70,20,1939,7035229,1,Pesos,Mexico,Canada
+70,20,1940,14786107,1,,Mexico,Canada
+70,20,1941,12060635,1,,Mexico,Canada
+70,20,1942,20627444,1,,Mexico,Canada
+70,20,1943,16470805,1,,Mexico,Canada
+70,20,1944,25219974,1,,Mexico,Canada
+70,20,1945,35708672,1,,Mexico,Canada
+70,20,1946,34769410,1,,Mexico,Canada
+70,20,1947,45830855,1,,Mexico,Canada
+70,20,1948,63689049,1,,Mexico,Canada
+70,20,1949,99268,1000,Pesos,Mexico,Canada
+70,21,1920,0,1,,Mexico,Newfoundland
+70,21,1921,0,1,,Mexico,Newfoundland
+70,21,1922,0,1,,Mexico,Newfoundland
+70,21,1923,0,1,,Mexico,Newfoundland
+70,21,1924,163,1,,Mexico,Newfoundland
+70,21,1925,0,1,,Mexico,Newfoundland
+70,21,1926,0,1,,Mexico,Newfoundland
+70,21,1927,0,1,,Mexico,Newfoundland
+70,21,1928,0,1,,Mexico,Newfoundland
+70,21,1929,0,1,,Mexico,Newfoundland
+70,21,1930,0,1,,Mexico,Newfoundland
+70,21,1931,0,1,,Mexico,Newfoundland
+70,21,1932,0,1,Pesos,Mexico,Newfoundland
+70,21,1933,0,1,Pesos,Mexico,Newfoundland
+70,21,1934,0,1,Pesos,Mexico,Newfoundland
+70,21,1935,0,1,Pesos,Mexico,Newfoundland
+70,21,1936,0,1,Pesos,Mexico,Newfoundland
+70,21,1937,0,1,Pesos,Mexico,Newfoundland
+70,21,1938,0,1,Pesos,Mexico,Newfoundland
+70,21,1939,0,1,Pesos,Mexico,Newfoundland
+70,21,1940,0,1,,Mexico,Newfoundland
+70,21,1941,0,1,,Mexico,Newfoundland
+70,21,1942,0,1,,Mexico,Newfoundland
+70,21,1943,0,1,,Mexico,Newfoundland
+70,21,1944,0,1,,Mexico,Newfoundland
+70,21,1945,0,1,,Mexico,Newfoundland
+70,21,1946,0,1,,Mexico,Newfoundland
+70,21,1947,0,1,,Mexico,Newfoundland
+70,21,1948,0,1,,Mexico,Newfoundland
+70,21,1949,0,1000,Pesos,Mexico,Newfoundland
+70,30,1920,0,1,,Mexico,Bermuda
+70,30,1921,0,1,,Mexico,Bermuda
+70,30,1922,0,1,,Mexico,Bermuda
+70,30,1923,0,1,,Mexico,Bermuda
+70,30,1924,0,1,,Mexico,Bermuda
+70,30,1925,0,1,,Mexico,Bermuda
+70,30,1926,0,1,,Mexico,Bermuda
+70,30,1927,0,1,,Mexico,Bermuda
+70,30,1928,0,1,,Mexico,Bermuda
+70,30,1929,0,1,,Mexico,Bermuda
+70,30,1930,0,1,,Mexico,Bermuda
+70,30,1931,0,1,,Mexico,Bermuda
+70,30,1932,0,1,Pesos,Mexico,Bermuda
+70,30,1933,1,1,Pesos,Mexico,Bermuda
+70,30,1934,0,1,Pesos,Mexico,Bermuda
+70,30,1935,0,1,Pesos,Mexico,Bermuda
+70,30,1936,10,1,Pesos,Mexico,Bermuda
+70,30,1937,0,1,Pesos,Mexico,Bermuda
+70,30,1938,5,1,Pesos,Mexico,Bermuda
+70,30,1939,255,1,Pesos,Mexico,Bermuda
+70,30,1940,13,1,,Mexico,Bermuda
+70,30,1941,270,1,,Mexico,Bermuda
+70,30,1942,0,1,,Mexico,Bermuda
+70,30,1943,0,1,,Mexico,Bermuda
+70,30,1944,12400,1,,Mexico,Bermuda
+70,30,1945,1500,1,,Mexico,Bermuda
+70,30,1946,0,1,,Mexico,Bermuda
+70,30,1947,10,1,,Mexico,Bermuda
+70,30,1948,39155,1,,Mexico,Bermuda
+70,30,1949,0,1000,Pesos,Mexico,Bermuda
+70,31,1920,0,1,,Mexico,Bahamas
+70,31,1921,0,1,,Mexico,Bahamas
+70,31,1922,0,1,,Mexico,Bahamas
+70,31,1923,312,1,,Mexico,Bahamas
+70,31,1924,0,1,,Mexico,Bahamas
+70,31,1925,0,1,,Mexico,Bahamas
+70,31,1926,0,1,,Mexico,Bahamas
+70,31,1927,79,1,,Mexico,Bahamas
+70,31,1928,0,1,,Mexico,Bahamas
+70,31,1929,302,1,,Mexico,Bahamas
+70,31,1930,247,1,,Mexico,Bahamas
+70,31,1931,2,1,,Mexico,Bahamas
+70,31,1932,60,1,Pesos,Mexico,Bahamas
+70,31,1933,61,1,Pesos,Mexico,Bahamas
+70,31,1934,0,1,Pesos,Mexico,Bahamas
+70,31,1935,0,1,Pesos,Mexico,Bahamas
+70,31,1936,0,1,Pesos,Mexico,Bahamas
+70,31,1937,0,1,Pesos,Mexico,Bahamas
+70,31,1938,0,1,Pesos,Mexico,Bahamas
+70,31,1939,0,1,Pesos,Mexico,Bahamas
+70,31,1940,0,1,,Mexico,Bahamas
+70,31,1941,0,1,,Mexico,Bahamas
+70,31,1942,0,1,,Mexico,Bahamas
+70,31,1943,0,1,,Mexico,Bahamas
+70,31,1944,0,1,,Mexico,Bahamas
+70,31,1945,300,1,,Mexico,Bahamas
+70,31,1946,5267,1,,Mexico,Bahamas
+70,31,1947,0,1,,Mexico,Bahamas
+70,31,1948,362,1,,Mexico,Bahamas
+70,31,1949,5,1000,Pesos,Mexico,Bahamas
+70,40,1920,115098,1,,Mexico,Cuba
+70,40,1921,274539,1,,Mexico,Cuba
+70,40,1922,425744,1,,Mexico,Cuba
+70,40,1923,237476,1,,Mexico,Cuba
+70,40,1924,75752,1,,Mexico,Cuba
+70,40,1925,107628,1,,Mexico,Cuba
+70,40,1926,83398,1,,Mexico,Cuba
+70,40,1927,59963,1,,Mexico,Cuba
+70,40,1928,80655,1,,Mexico,Cuba
+70,40,1929,123474,1,,Mexico,Cuba
+70,40,1930,226772,1,,Mexico,Cuba
+70,40,1931,97510,1,,Mexico,Cuba
+70,40,1932,88134,1,Pesos,Mexico,Cuba
+70,40,1933,69253,1,Pesos,Mexico,Cuba
+70,40,1934,275597,1,Pesos,Mexico,Cuba
+70,40,1935,113159,1,Pesos,Mexico,Cuba
+70,40,1936,72781,1,Pesos,Mexico,Cuba
+70,40,1937,304084,1,Pesos,Mexico,Cuba
+70,40,1938,106049,1,Pesos,Mexico,Cuba
+70,40,1939,73803,1,Pesos,Mexico,Cuba
+70,40,1940,172209,1,,Mexico,Cuba
+70,40,1941,10007362,1,,Mexico,Cuba
+70,40,1942,206883,1,,Mexico,Cuba
+70,40,1943,3914000,1,,Mexico,Cuba
+70,40,1944,5499021,1,,Mexico,Cuba
+70,40,1945,21346977,1,,Mexico,Cuba
+70,40,1946,70236527,1,,Mexico,Cuba
+70,40,1947,2766379,1,,Mexico,Cuba
+70,40,1948,2093989,1,,Mexico,Cuba
+70,40,1949,5238,1000,Pesos,Mexico,Cuba
+70,41,1920,28529,1,,Mexico,Haiti
+70,41,1921,310,1,,Mexico,Haiti
+70,41,1922,1048,1,,Mexico,Haiti
+70,41,1923,35944,1,,Mexico,Haiti
+70,41,1924,44319,1,,Mexico,Haiti
+70,41,1925,1443,1,,Mexico,Haiti
+70,41,1926,5869,1,,Mexico,Haiti
+70,41,1927,1022,1,,Mexico,Haiti
+70,41,1928,1071,1,,Mexico,Haiti
+70,41,1929,1055,1,,Mexico,Haiti
+70,41,1930,5855,1,,Mexico,Haiti
+70,41,1931,0,1,,Mexico,Haiti
+70,41,1932,35,1,Pesos,Mexico,Haiti
+70,41,1933,4397,1,Pesos,Mexico,Haiti
+70,41,1934,3,1,Pesos,Mexico,Haiti
+70,41,1935,0,1,Pesos,Mexico,Haiti
+70,41,1936,18,1,Pesos,Mexico,Haiti
+70,41,1937,6863,1,Pesos,Mexico,Haiti
+70,41,1938,2539,1,Pesos,Mexico,Haiti
+70,41,1939,5877,1,Pesos,Mexico,Haiti
+70,41,1940,3,1,,Mexico,Haiti
+70,41,1941,107,1,,Mexico,Haiti
+70,41,1942,15099,1,,Mexico,Haiti
+70,41,1943,21,1,,Mexico,Haiti
+70,41,1944,127,1,,Mexico,Haiti
+70,41,1945,1255,1,,Mexico,Haiti
+70,41,1946,0,1,,Mexico,Haiti
+70,41,1947,230,1,,Mexico,Haiti
+70,41,1948,59220,1,,Mexico,Haiti
+70,41,1949,0,1000,Pesos,Mexico,Haiti
+70,42,1920,235797,1,,Mexico,Dominican Republic
+70,42,1921,84448,1,,Mexico,Dominican Republic
+70,42,1922,216696,1,,Mexico,Dominican Republic
+70,42,1923,138739,1,,Mexico,Dominican Republic
+70,42,1924,215952,1,,Mexico,Dominican Republic
+70,42,1925,288716,1,,Mexico,Dominican Republic
+70,42,1926,296959,1,,Mexico,Dominican Republic
+70,42,1927,293110,1,,Mexico,Dominican Republic
+70,42,1928,264904,1,,Mexico,Dominican Republic
+70,42,1929,162549,1,,Mexico,Dominican Republic
+70,42,1930,125052,1,,Mexico,Dominican Republic
+70,42,1931,82383,1,,Mexico,Dominican Republic
+70,42,1932,70305,1,Pesos,Mexico,Dominican Republic
+70,42,1933,132299,1,Pesos,Mexico,Dominican Republic
+70,42,1934,130890,1,Pesos,Mexico,Dominican Republic
+70,42,1935,56106,1,Pesos,Mexico,Dominican Republic
+70,42,1936,22828,1,Pesos,Mexico,Dominican Republic
+70,42,1937,224337,1,Pesos,Mexico,Dominican Republic
+70,42,1938,18021,1,Pesos,Mexico,Dominican Republic
+70,42,1939,164,1,Pesos,Mexico,Dominican Republic
+70,42,1940,49937,1,,Mexico,Dominican Republic
+70,42,1941,75838,1,,Mexico,Dominican Republic
+70,42,1942,1359994,1,,Mexico,Dominican Republic
+70,42,1943,411515,1,,Mexico,Dominican Republic
+70,42,1944,2460711,1,,Mexico,Dominican Republic
+70,42,1945,4923202,1,,Mexico,Dominican Republic
+70,42,1946,3140519,1,,Mexico,Dominican Republic
+70,42,1947,442658,1,,Mexico,Dominican Republic
+70,42,1948,1235,1,,Mexico,Dominican Republic
+70,42,1949,9,1000,Pesos,Mexico,Dominican Republic
+70,51,1920,542,1,,Mexico,Jamaica
+70,51,1921,2073,1,,Mexico,Jamaica
+70,51,1922,1455,1,,Mexico,Jamaica
+70,51,1923,15354,1,,Mexico,Jamaica
+70,51,1924,4723,1,,Mexico,Jamaica
+70,51,1925,32780,1,,Mexico,Jamaica
+70,51,1926,9912,1,,Mexico,Jamaica
+70,51,1927,40272,1,,Mexico,Jamaica
+70,51,1928,25703,1,,Mexico,Jamaica
+70,51,1929,13447,1,,Mexico,Jamaica
+70,51,1930,12427,1,,Mexico,Jamaica
+70,51,1931,10,1,,Mexico,Jamaica
+70,51,1932,70,1,Pesos,Mexico,Jamaica
+70,51,1933,331,1,Pesos,Mexico,Jamaica
+70,51,1934,541,1,Pesos,Mexico,Jamaica
+70,51,1935,10104,1,Pesos,Mexico,Jamaica
+70,51,1936,20,1,Pesos,Mexico,Jamaica
+70,51,1937,10,1,Pesos,Mexico,Jamaica
+70,51,1938,1221,1,Pesos,Mexico,Jamaica
+70,51,1939,191,1,Pesos,Mexico,Jamaica
+70,51,1940,45,1,,Mexico,Jamaica
+70,51,1941,48,1,,Mexico,Jamaica
+70,51,1942,137352,1,,Mexico,Jamaica
+70,51,1943,0,1,,Mexico,Jamaica
+70,51,1944,18675,1,,Mexico,Jamaica
+70,51,1945,28742,1,,Mexico,Jamaica
+70,51,1946,30723,1,,Mexico,Jamaica
+70,51,1947,2977,1,,Mexico,Jamaica
+70,51,1948,12588,1,,Mexico,Jamaica
+70,51,1949,21,1000,Pesos,Mexico,Jamaica
+70,68,1920,0,1,,Mexico,Netherlands Antilles
+70,68,1921,0,1,,Mexico,Netherlands Antilles
+70,68,1922,0,1,,Mexico,Netherlands Antilles
+70,68,1923,0,1,,Mexico,Netherlands Antilles
+70,68,1924,0,1,,Mexico,Netherlands Antilles
+70,68,1925,0,1,,Mexico,Netherlands Antilles
+70,68,1926,0,1,,Mexico,Netherlands Antilles
+70,68,1927,0,1,,Mexico,Netherlands Antilles
+70,68,1928,429,1,,Mexico,Netherlands Antilles
+70,68,1929,5995,1,,Mexico,Netherlands Antilles
+70,68,1930,107584,1,,Mexico,Netherlands Antilles
+70,68,1931,905186,1,,Mexico,Netherlands Antilles
+70,68,1932,252054,1,Pesos,Mexico,Netherlands Antilles
+70,68,1933,742316,1,Pesos,Mexico,Netherlands Antilles
+70,68,1934,501052,1,Pesos,Mexico,Netherlands Antilles
+70,68,1935,2345,1,Pesos,Mexico,Netherlands Antilles
+70,68,1936,0,1,Pesos,Mexico,Netherlands Antilles
+70,68,1937,112074,1,Pesos,Mexico,Netherlands Antilles
+70,68,1938,2041,1,Pesos,Mexico,Netherlands Antilles
+70,68,1939,145,1,Pesos,Mexico,Netherlands Antilles
+70,68,1940,25,1,,Mexico,Netherlands Antilles
+70,68,1941,15,1,,Mexico,Netherlands Antilles
+70,68,1942,0,1,,Mexico,Netherlands Antilles
+70,68,1943,0,1,,Mexico,Netherlands Antilles
+70,68,1944,5360,1,,Mexico,Netherlands Antilles
+70,68,1945,145,1,,Mexico,Netherlands Antilles
+70,68,1946,0,1,,Mexico,Netherlands Antilles
+70,68,1947,0,1,,Mexico,Netherlands Antilles
+70,68,1948,30,1,,Mexico,Netherlands Antilles
+70,68,1949,1175,1000,Pesos,Mexico,Netherlands Antilles
+70,80,1920,9356,1,,Mexico,Belize
+70,80,1921,2354,1,,Mexico,Belize
+70,80,1922,23815,1,,Mexico,Belize
+70,80,1923,21839,1,,Mexico,Belize
+70,80,1924,11212,1,,Mexico,Belize
+70,80,1925,44802,1,,Mexico,Belize
+70,80,1926,78346,1,,Mexico,Belize
+70,80,1927,70363,1,,Mexico,Belize
+70,80,1928,113510,1,,Mexico,Belize
+70,80,1929,86047,1,,Mexico,Belize
+70,80,1930,323816,1,,Mexico,Belize
+70,80,1931,157052,1,,Mexico,Belize
+70,80,1932,78272,1,Pesos,Mexico,Belize
+70,80,1933,71558,1,Pesos,Mexico,Belize
+70,80,1934,61038,1,Pesos,Mexico,Belize
+70,80,1935,55416,1,Pesos,Mexico,Belize
+70,80,1936,271452,1,Pesos,Mexico,Belize
+70,80,1937,304454,1,Pesos,Mexico,Belize
+70,80,1938,81176,1,Pesos,Mexico,Belize
+70,80,1939,82563,1,Pesos,Mexico,Belize
+70,80,1940,35396,1,,Mexico,Belize
+70,80,1941,197921,1,,Mexico,Belize
+70,80,1942,812753,1,,Mexico,Belize
+70,80,1943,1998233,1,,Mexico,Belize
+70,80,1944,3605242,1,,Mexico,Belize
+70,80,1945,858379,1,,Mexico,Belize
+70,80,1946,1051988,1,,Mexico,Belize
+70,80,1947,1566448,1,,Mexico,Belize
+70,80,1948,497568,1,,Mexico,Belize
+70,80,1949,1364,1000,Pesos,Mexico,Belize
+70,90,1920,263104,1,,Mexico,Guatemala
+70,90,1921,575698,1,,Mexico,Guatemala
+70,90,1922,325306,1,,Mexico,Guatemala
+70,90,1923,118698,1,,Mexico,Guatemala
+70,90,1924,93513,1,,Mexico,Guatemala
+70,90,1925,135865,1,,Mexico,Guatemala
+70,90,1926,84528,1,,Mexico,Guatemala
+70,90,1927,59835,1,,Mexico,Guatemala
+70,90,1928,68984,1,,Mexico,Guatemala
+70,90,1929,58373,1,,Mexico,Guatemala
+70,90,1930,99906,1,,Mexico,Guatemala
+70,90,1931,69684,1,,Mexico,Guatemala
+70,90,1932,58068,1,Pesos,Mexico,Guatemala
+70,90,1933,144020,1,Pesos,Mexico,Guatemala
+70,90,1934,25084,1,Pesos,Mexico,Guatemala
+70,90,1935,25006,1,Pesos,Mexico,Guatemala
+70,90,1936,46180,1,Pesos,Mexico,Guatemala
+70,90,1937,123827,1,Pesos,Mexico,Guatemala
+70,90,1938,104989,1,Pesos,Mexico,Guatemala
+70,90,1939,139317,1,Pesos,Mexico,Guatemala
+70,90,1940,378127,1,,Mexico,Guatemala
+70,90,1941,1112441,1,,Mexico,Guatemala
+70,90,1942,1200570,1,,Mexico,Guatemala
+70,90,1943,5164642,1,,Mexico,Guatemala
+70,90,1944,6138331,1,,Mexico,Guatemala
+70,90,1945,6894026,1,,Mexico,Guatemala
+70,90,1946,6406003,1,,Mexico,Guatemala
+70,90,1947,2342723,1,,Mexico,Guatemala
+70,90,1948,1971772,1,,Mexico,Guatemala
+70,90,1949,1339,1000,Pesos,Mexico,Guatemala
+70,91,1920,36969,1,,Mexico,Honduras
+70,91,1921,53512,1,,Mexico,Honduras
+70,91,1922,27992,1,,Mexico,Honduras
+70,91,1923,11962,1,,Mexico,Honduras
+70,91,1924,6791,1,,Mexico,Honduras
+70,91,1925,34904,1,,Mexico,Honduras
+70,91,1926,96697,1,,Mexico,Honduras
+70,91,1927,47794,1,,Mexico,Honduras
+70,91,1928,18740,1,,Mexico,Honduras
+70,91,1929,21444,1,,Mexico,Honduras
+70,91,1930,23662,1,,Mexico,Honduras
+70,91,1931,9365,1,,Mexico,Honduras
+70,91,1932,1900,1,Pesos,Mexico,Honduras
+70,91,1933,2480,1,Pesos,Mexico,Honduras
+70,91,1934,1765,1,Pesos,Mexico,Honduras
+70,91,1935,2648,1,Pesos,Mexico,Honduras
+70,91,1936,1344,1,Pesos,Mexico,Honduras
+70,91,1937,8738,1,Pesos,Mexico,Honduras
+70,91,1938,13635,1,Pesos,Mexico,Honduras
+70,91,1939,4969,1,Pesos,Mexico,Honduras
+70,91,1940,811,1,,Mexico,Honduras
+70,91,1941,5826,1,,Mexico,Honduras
+70,91,1942,16969,1,,Mexico,Honduras
+70,91,1943,320458,1,,Mexico,Honduras
+70,91,1944,219158,1,,Mexico,Honduras
+70,91,1945,217408,1,,Mexico,Honduras
+70,91,1946,432125,1,,Mexico,Honduras
+70,91,1947,192858,1,,Mexico,Honduras
+70,91,1948,116364,1,,Mexico,Honduras
+70,91,1949,68,1000,Pesos,Mexico,Honduras
+70,92,1920,118247,1,,Mexico,El Salvador
+70,92,1921,106175,1,,Mexico,El Salvador
+70,92,1922,91768,1,,Mexico,El Salvador
+70,92,1923,21521,1,,Mexico,El Salvador
+70,92,1924,61990,1,,Mexico,El Salvador
+70,92,1925,37077,1,,Mexico,El Salvador
+70,92,1926,2335,1,,Mexico,El Salvador
+70,92,1927,620,1,,Mexico,El Salvador
+70,92,1928,10131,1,,Mexico,El Salvador
+70,92,1929,19499,1,,Mexico,El Salvador
+70,92,1930,2794,1,,Mexico,El Salvador
+70,92,1931,10704,1,,Mexico,El Salvador
+70,92,1932,9484,1,Pesos,Mexico,El Salvador
+70,92,1933,3260,1,Pesos,Mexico,El Salvador
+70,92,1934,18575,1,Pesos,Mexico,El Salvador
+70,92,1935,15725,1,Pesos,Mexico,El Salvador
+70,92,1936,6040,1,Pesos,Mexico,El Salvador
+70,92,1937,8310,1,Pesos,Mexico,El Salvador
+70,92,1938,132011,1,Pesos,Mexico,El Salvador
+70,92,1939,10142,1,Pesos,Mexico,El Salvador
+70,92,1940,9642,1,,Mexico,El Salvador
+70,92,1941,12280,1,,Mexico,El Salvador
+70,92,1942,8319,1,,Mexico,El Salvador
+70,92,1943,613420,1,,Mexico,El Salvador
+70,92,1944,761788,1,,Mexico,El Salvador
+70,92,1945,1023246,1,,Mexico,El Salvador
+70,92,1946,975534,1,,Mexico,El Salvador
+70,92,1947,130931,1,,Mexico,El Salvador
+70,92,1948,103979,1,,Mexico,El Salvador
+70,92,1949,27,1000,Pesos,Mexico,El Salvador
+70,93,1920,47853,1,,Mexico,Nicaragua
+70,93,1921,252368,1,,Mexico,Nicaragua
+70,93,1922,94161,1,,Mexico,Nicaragua
+70,93,1923,27323,1,,Mexico,Nicaragua
+70,93,1924,968,1,,Mexico,Nicaragua
+70,93,1925,314,1,,Mexico,Nicaragua
+70,93,1926,7812,1,,Mexico,Nicaragua
+70,93,1927,831,1,,Mexico,Nicaragua
+70,93,1928,4493,1,,Mexico,Nicaragua
+70,93,1929,269,1,,Mexico,Nicaragua
+70,93,1930,7066,1,,Mexico,Nicaragua
+70,93,1931,446,1,,Mexico,Nicaragua
+70,93,1932,2717,1,Pesos,Mexico,Nicaragua
+70,93,1933,5250,1,Pesos,Mexico,Nicaragua
+70,93,1934,1267,1,Pesos,Mexico,Nicaragua
+70,93,1935,1766,1,Pesos,Mexico,Nicaragua
+70,93,1936,2307,1,Pesos,Mexico,Nicaragua
+70,93,1937,1449,1,Pesos,Mexico,Nicaragua
+70,93,1938,82565,1,Pesos,Mexico,Nicaragua
+70,93,1939,2500,1,Pesos,Mexico,Nicaragua
+70,93,1940,1107,1,,Mexico,Nicaragua
+70,93,1941,36351,1,,Mexico,Nicaragua
+70,93,1942,215,1,,Mexico,Nicaragua
+70,93,1943,405373,1,,Mexico,Nicaragua
+70,93,1944,1693595,1,,Mexico,Nicaragua
+70,93,1945,53414,1,,Mexico,Nicaragua
+70,93,1946,661693,1,,Mexico,Nicaragua
+70,93,1947,62560,1,,Mexico,Nicaragua
+70,93,1948,143305,1,,Mexico,Nicaragua
+70,93,1949,37,1000,Pesos,Mexico,Nicaragua
+70,94,1920,7338,1,,Mexico,Costa Rica
+70,94,1921,2435,1,,Mexico,Costa Rica
+70,94,1922,241103,1,,Mexico,Costa Rica
+70,94,1923,36960,1,,Mexico,Costa Rica
+70,94,1924,11845,1,,Mexico,Costa Rica
+70,94,1925,39061,1,,Mexico,Costa Rica
+70,94,1926,48357,1,,Mexico,Costa Rica
+70,94,1927,8456,1,,Mexico,Costa Rica
+70,94,1928,22427,1,,Mexico,Costa Rica
+70,94,1929,39303,1,,Mexico,Costa Rica
+70,94,1930,26072,1,,Mexico,Costa Rica
+70,94,1931,2712,1,,Mexico,Costa Rica
+70,94,1932,4048,1,Pesos,Mexico,Costa Rica
+70,94,1933,16404,1,Pesos,Mexico,Costa Rica
+70,94,1934,61865,1,Pesos,Mexico,Costa Rica
+70,94,1935,13473,1,Pesos,Mexico,Costa Rica
+70,94,1936,1818,1,Pesos,Mexico,Costa Rica
+70,94,1937,3177,1,Pesos,Mexico,Costa Rica
+70,94,1938,18620,1,Pesos,Mexico,Costa Rica
+70,94,1939,3116,1,Pesos,Mexico,Costa Rica
+70,94,1940,803,1,,Mexico,Costa Rica
+70,94,1941,56054,1,,Mexico,Costa Rica
+70,94,1942,1003458,1,,Mexico,Costa Rica
+70,94,1943,2259034,1,,Mexico,Costa Rica
+70,94,1944,970666,1,,Mexico,Costa Rica
+70,94,1945,193867,1,,Mexico,Costa Rica
+70,94,1946,1685153,1,,Mexico,Costa Rica
+70,94,1947,796908,1,,Mexico,Costa Rica
+70,94,1948,145429,1,,Mexico,Costa Rica
+70,94,1949,84,1000,Pesos,Mexico,Costa Rica
+70,95,1920,88,1,,Mexico,Panama
+70,95,1921,1084,1,,Mexico,Panama
+70,95,1922,8972,1,,Mexico,Panama
+70,95,1923,5614,1,,Mexico,Panama
+70,95,1924,262,1,,Mexico,Panama
+70,95,1925,11385,1,,Mexico,Panama
+70,95,1926,18944,1,,Mexico,Panama
+70,95,1927,8114,1,,Mexico,Panama
+70,95,1928,5730,1,,Mexico,Panama
+70,95,1929,2276,1,,Mexico,Panama
+70,95,1930,4033,1,,Mexico,Panama
+70,95,1931,5249,1,,Mexico,Panama
+70,95,1932,224109,1,Pesos,Mexico,Panama
+70,95,1933,19344,1,Pesos,Mexico,Panama
+70,95,1934,11297,1,Pesos,Mexico,Panama
+70,95,1935,14654,1,Pesos,Mexico,Panama
+70,95,1936,13588,1,Pesos,Mexico,Panama
+70,95,1937,32839,1,Pesos,Mexico,Panama
+70,95,1938,14099,1,Pesos,Mexico,Panama
+70,95,1939,81372,1,Pesos,Mexico,Panama
+70,95,1940,68350,1,,Mexico,Panama
+70,95,1941,80666,1,,Mexico,Panama
+70,95,1942,19091,1,,Mexico,Panama
+70,95,1943,162397,1,,Mexico,Panama
+70,95,1944,491081,1,,Mexico,Panama
+70,95,1945,1054879,1,,Mexico,Panama
+70,95,1946,1330199,1,,Mexico,Panama
+70,95,1947,627063,1,,Mexico,Panama
+70,95,1948,990463,1,,Mexico,Panama
+70,95,1949,438,1000,Pesos,Mexico,Panama
+70,100,1920,21929,1,,Mexico,Colombia
+70,100,1921,54320,1,,Mexico,Colombia
+70,100,1922,1135804,1,,Mexico,Colombia
+70,100,1923,1479342,1,,Mexico,Colombia
+70,100,1924,538930,1,,Mexico,Colombia
+70,100,1925,391638,1,,Mexico,Colombia
+70,100,1926,153389,1,,Mexico,Colombia
+70,100,1927,1671,1,,Mexico,Colombia
+70,100,1928,12894,1,,Mexico,Colombia
+70,100,1929,27102,1,,Mexico,Colombia
+70,100,1930,68446,1,,Mexico,Colombia
+70,100,1931,2582,1,,Mexico,Colombia
+70,100,1932,1500,1,Pesos,Mexico,Colombia
+70,100,1933,5179,1,Pesos,Mexico,Colombia
+70,100,1934,8521,1,Pesos,Mexico,Colombia
+70,100,1935,26142,1,Pesos,Mexico,Colombia
+70,100,1936,3772,1,Pesos,Mexico,Colombia
+70,100,1937,40378,1,Pesos,Mexico,Colombia
+70,100,1938,20928,1,Pesos,Mexico,Colombia
+70,100,1939,39625,1,Pesos,Mexico,Colombia
+70,100,1940,45974,1,,Mexico,Colombia
+70,100,1941,64881,1,,Mexico,Colombia
+70,100,1942,7681,1,,Mexico,Colombia
+70,100,1943,3426048,1,,Mexico,Colombia
+70,100,1944,6899585,1,,Mexico,Colombia
+70,100,1945,6685682,1,,Mexico,Colombia
+70,100,1946,4343405,1,,Mexico,Colombia
+70,100,1947,97690,1,,Mexico,Colombia
+70,100,1948,80221,1,,Mexico,Colombia
+70,100,1949,51,1000,Pesos,Mexico,Colombia
+70,101,1920,115446,1,,Mexico,Venezuela
+70,101,1921,89536,1,,Mexico,Venezuela
+70,101,1922,165018,1,,Mexico,Venezuela
+70,101,1923,19148,1,,Mexico,Venezuela
+70,101,1924,42135,1,,Mexico,Venezuela
+70,101,1925,70708,1,,Mexico,Venezuela
+70,101,1926,41491,1,,Mexico,Venezuela
+70,101,1927,7941663,1,,Mexico,Venezuela
+70,101,1928,187500,1,,Mexico,Venezuela
+70,101,1929,830789,1,,Mexico,Venezuela
+70,101,1930,121647,1,,Mexico,Venezuela
+70,101,1931,1895,1,,Mexico,Venezuela
+70,101,1932,182285,1,Pesos,Mexico,Venezuela
+70,101,1933,228376,1,Pesos,Mexico,Venezuela
+70,101,1934,280278,1,Pesos,Mexico,Venezuela
+70,101,1935,294,1,Pesos,Mexico,Venezuela
+70,101,1936,10245,1,Pesos,Mexico,Venezuela
+70,101,1937,26021,1,Pesos,Mexico,Venezuela
+70,101,1938,772,1,Pesos,Mexico,Venezuela
+70,101,1939,5719,1,Pesos,Mexico,Venezuela
+70,101,1940,1842,1,,Mexico,Venezuela
+70,101,1941,11372,1,,Mexico,Venezuela
+70,101,1942,8794,1,,Mexico,Venezuela
+70,101,1943,235142,1,,Mexico,Venezuela
+70,101,1944,849663,1,,Mexico,Venezuela
+70,101,1945,302763,1,,Mexico,Venezuela
+70,101,1946,167275,1,,Mexico,Venezuela
+70,101,1947,21249,1,,Mexico,Venezuela
+70,101,1948,254521,1,,Mexico,Venezuela
+70,101,1949,150,1000,Pesos,Mexico,Venezuela
+70,110,1920,0,1,,Mexico,Guyana
+70,110,1921,0,1,,Mexico,Guyana
+70,110,1922,0,1,,Mexico,Guyana
+70,110,1923,0,1,,Mexico,Guyana
+70,110,1924,0,1,,Mexico,Guyana
+70,110,1925,0,1,,Mexico,Guyana
+70,110,1926,0,1,,Mexico,Guyana
+70,110,1927,0,1,,Mexico,Guyana
+70,110,1928,0,1,,Mexico,Guyana
+70,110,1929,0,1,,Mexico,Guyana
+70,110,1930,0,1,,Mexico,Guyana
+70,110,1931,0,1,,Mexico,Guyana
+70,110,1932,0,1,Pesos,Mexico,Guyana
+70,110,1933,0,1,Pesos,Mexico,Guyana
+70,110,1934,0,1,Pesos,Mexico,Guyana
+70,110,1935,0,1,Pesos,Mexico,Guyana
+70,110,1936,0,1,Pesos,Mexico,Guyana
+70,110,1937,0,1,Pesos,Mexico,Guyana
+70,110,1938,0,1,Pesos,Mexico,Guyana
+70,110,1939,0,1,Pesos,Mexico,Guyana
+70,110,1940,28467,1,,Mexico,Guyana
+70,110,1941,0,1,,Mexico,Guyana
+70,110,1942,0,1,,Mexico,Guyana
+70,110,1943,0,1,,Mexico,Guyana
+70,110,1944,0,1,,Mexico,Guyana
+70,110,1945,0,1,,Mexico,Guyana
+70,110,1946,0,1,,Mexico,Guyana
+70,110,1947,82597,1,,Mexico,Guyana
+70,110,1948,0,1,,Mexico,Guyana
+70,110,1949,0,1000,Pesos,Mexico,Guyana
+70,130,1920,116644,1,,Mexico,Ecuador
+70,130,1921,73159,1,,Mexico,Ecuador
+70,130,1922,67215,1,,Mexico,Ecuador
+70,130,1923,39089,1,,Mexico,Ecuador
+70,130,1924,81974,1,,Mexico,Ecuador
+70,130,1925,34521,1,,Mexico,Ecuador
+70,130,1926,25775,1,,Mexico,Ecuador
+70,130,1927,59689,1,,Mexico,Ecuador
+70,130,1928,45158,1,,Mexico,Ecuador
+70,130,1929,29085,1,,Mexico,Ecuador
+70,130,1930,15292,1,,Mexico,Ecuador
+70,130,1931,503,1,,Mexico,Ecuador
+70,130,1932,13230,1,Pesos,Mexico,Ecuador
+70,130,1933,18933,1,Pesos,Mexico,Ecuador
+70,130,1934,27841,1,Pesos,Mexico,Ecuador
+70,130,1935,13090,1,Pesos,Mexico,Ecuador
+70,130,1936,23084,1,Pesos,Mexico,Ecuador
+70,130,1937,17562,1,Pesos,Mexico,Ecuador
+70,130,1938,6889,1,Pesos,Mexico,Ecuador
+70,130,1939,10964,1,Pesos,Mexico,Ecuador
+70,130,1940,6055,1,,Mexico,Ecuador
+70,130,1941,43065,1,,Mexico,Ecuador
+70,130,1942,333105,1,,Mexico,Ecuador
+70,130,1943,11650,1,,Mexico,Ecuador
+70,130,1944,42087,1,,Mexico,Ecuador
+70,130,1945,379074,1,,Mexico,Ecuador
+70,130,1946,2463095,1,,Mexico,Ecuador
+70,130,1947,2758285,1,,Mexico,Ecuador
+70,130,1948,28781,1,,Mexico,Ecuador
+70,130,1949,6,1000,Pesos,Mexico,Ecuador
+70,135,1920,31049,1,,Mexico,Peru
+70,135,1921,5835,1,,Mexico,Peru
+70,135,1922,94,1,,Mexico,Peru
+70,135,1923,1396,1,,Mexico,Peru
+70,135,1924,102360,1,,Mexico,Peru
+70,135,1925,2823,1,,Mexico,Peru
+70,135,1926,332,1,,Mexico,Peru
+70,135,1927,4066,1,,Mexico,Peru
+70,135,1928,4132,1,,Mexico,Peru
+70,135,1929,1560,1,,Mexico,Peru
+70,135,1930,2705,1,,Mexico,Peru
+70,135,1931,8781,1,,Mexico,Peru
+70,135,1932,8352,1,Pesos,Mexico,Peru
+70,135,1933,3988,1,Pesos,Mexico,Peru
+70,135,1934,55955,1,Pesos,Mexico,Peru
+70,135,1935,17800,1,Pesos,Mexico,Peru
+70,135,1936,8403,1,Pesos,Mexico,Peru
+70,135,1937,1891,1,Pesos,Mexico,Peru
+70,135,1938,744,1,Pesos,Mexico,Peru
+70,135,1939,19010,1,Pesos,Mexico,Peru
+70,135,1940,89426,1,,Mexico,Peru
+70,135,1941,102366,1,,Mexico,Peru
+70,135,1942,1529777,1,,Mexico,Peru
+70,135,1943,1652712,1,,Mexico,Peru
+70,135,1944,9243551,1,,Mexico,Peru
+70,135,1945,21572523,1,,Mexico,Peru
+70,135,1946,9189397,1,,Mexico,Peru
+70,135,1947,939554,1,,Mexico,Peru
+70,135,1948,982424,1,,Mexico,Peru
+70,135,1949,426,1000,Pesos,Mexico,Peru
+70,140,1920,52802,1,,Mexico,Brazil
+70,140,1921,47076,1,,Mexico,Brazil
+70,140,1922,34311,1,,Mexico,Brazil
+70,140,1923,354180,1,,Mexico,Brazil
+70,140,1924,32609,1,,Mexico,Brazil
+70,140,1925,11467,1,,Mexico,Brazil
+70,140,1926,26145,1,,Mexico,Brazil
+70,140,1927,26269,1,,Mexico,Brazil
+70,140,1928,16661,1,,Mexico,Brazil
+70,140,1929,18255,1,,Mexico,Brazil
+70,140,1930,5517,1,,Mexico,Brazil
+70,140,1931,3066,1,,Mexico,Brazil
+70,140,1932,339,1,Pesos,Mexico,Brazil
+70,140,1933,10336,1,Pesos,Mexico,Brazil
+70,140,1934,34497,1,Pesos,Mexico,Brazil
+70,140,1935,22435,1,Pesos,Mexico,Brazil
+70,140,1936,53924,1,Pesos,Mexico,Brazil
+70,140,1937,93107,1,Pesos,Mexico,Brazil
+70,140,1938,101477,1,Pesos,Mexico,Brazil
+70,140,1939,520148,1,Pesos,Mexico,Brazil
+70,140,1940,694003,1,,Mexico,Brazil
+70,140,1941,1075008,1,,Mexico,Brazil
+70,140,1942,481131,1,,Mexico,Brazil
+70,140,1943,844531,1,,Mexico,Brazil
+70,140,1944,1338896,1,,Mexico,Brazil
+70,140,1945,5251782,1,,Mexico,Brazil
+70,140,1946,12539847,1,,Mexico,Brazil
+70,140,1947,5280330,1,,Mexico,Brazil
+70,140,1948,2121803,1,,Mexico,Brazil
+70,140,1949,1663,1000,Pesos,Mexico,Brazil
+70,145,1920,0,1,,Mexico,Bolivia
+70,145,1921,0,1,,Mexico,Bolivia
+70,145,1922,0,1,,Mexico,Bolivia
+70,145,1923,10,1,,Mexico,Bolivia
+70,145,1924,0,1,,Mexico,Bolivia
+70,145,1925,42,1,,Mexico,Bolivia
+70,145,1926,60,1,,Mexico,Bolivia
+70,145,1927,313,1,,Mexico,Bolivia
+70,145,1928,241,1,,Mexico,Bolivia
+70,145,1929,11,1,,Mexico,Bolivia
+70,145,1930,129,1,,Mexico,Bolivia
+70,145,1931,385,1,,Mexico,Bolivia
+70,145,1932,42,1,Pesos,Mexico,Bolivia
+70,145,1933,5,1,Pesos,Mexico,Bolivia
+70,145,1934,111,1,Pesos,Mexico,Bolivia
+70,145,1935,111,1,Pesos,Mexico,Bolivia
+70,145,1936,939,1,Pesos,Mexico,Bolivia
+70,145,1937,7568395,1,Pesos,Mexico,Bolivia
+70,145,1938,73,1,Pesos,Mexico,Bolivia
+70,145,1939,426,1,Pesos,Mexico,Bolivia
+70,145,1940,9,1,,Mexico,Bolivia
+70,145,1941,94,1,,Mexico,Bolivia
+70,145,1942,156,1,,Mexico,Bolivia
+70,145,1943,43001,1,,Mexico,Bolivia
+70,145,1944,841,1,,Mexico,Bolivia
+70,145,1945,3595,1,,Mexico,Bolivia
+70,145,1946,3873,1,,Mexico,Bolivia
+70,145,1947,408,1,,Mexico,Bolivia
+70,145,1948,1736,1,,Mexico,Bolivia
+70,145,1949,2,1000,Pesos,Mexico,Bolivia
+70,150,1920,0,1,,Mexico,Paraguay
+70,150,1921,0,1,,Mexico,Paraguay
+70,150,1922,1545,1,,Mexico,Paraguay
+70,150,1923,1548,1,,Mexico,Paraguay
+70,150,1924,86,1,,Mexico,Paraguay
+70,150,1925,0,1,,Mexico,Paraguay
+70,150,1926,5468,1,,Mexico,Paraguay
+70,150,1927,99849,1,,Mexico,Paraguay
+70,150,1928,198090,1,,Mexico,Paraguay
+70,150,1929,234500,1,,Mexico,Paraguay
+70,150,1930,9875,1,,Mexico,Paraguay
+70,150,1931,140,1,,Mexico,Paraguay
+70,150,1932,104,1,Pesos,Mexico,Paraguay
+70,150,1933,671,1,Pesos,Mexico,Paraguay
+70,150,1934,69,1,Pesos,Mexico,Paraguay
+70,150,1935,18,1,Pesos,Mexico,Paraguay
+70,150,1936,102,1,Pesos,Mexico,Paraguay
+70,150,1937,41,1,Pesos,Mexico,Paraguay
+70,150,1938,0,1,Pesos,Mexico,Paraguay
+70,150,1939,13198,1,Pesos,Mexico,Paraguay
+70,150,1940,58,1,,Mexico,Paraguay
+70,150,1941,31885,1,,Mexico,Paraguay
+70,150,1942,2539,1,,Mexico,Paraguay
+70,150,1943,3070,1,,Mexico,Paraguay
+70,150,1944,240,1,,Mexico,Paraguay
+70,150,1945,35209,1,,Mexico,Paraguay
+70,150,1946,39310,1,,Mexico,Paraguay
+70,150,1947,5348,1,,Mexico,Paraguay
+70,150,1948,41445,1,,Mexico,Paraguay
+70,150,1949,396,1000,Pesos,Mexico,Paraguay
+70,155,1920,65995,1,,Mexico,Chile
+70,155,1921,100236,1,,Mexico,Chile
+70,155,1922,4130,1,,Mexico,Chile
+70,155,1923,10862,1,,Mexico,Chile
+70,155,1924,53982,1,,Mexico,Chile
+70,155,1925,125792,1,,Mexico,Chile
+70,155,1926,128644,1,,Mexico,Chile
+70,155,1927,313721,1,,Mexico,Chile
+70,155,1928,307685,1,,Mexico,Chile
+70,155,1929,38268,1,,Mexico,Chile
+70,155,1930,133306,1,,Mexico,Chile
+70,155,1931,110444,1,,Mexico,Chile
+70,155,1932,10516,1,Pesos,Mexico,Chile
+70,155,1933,27261,1,Pesos,Mexico,Chile
+70,155,1934,59094,1,Pesos,Mexico,Chile
+70,155,1935,69948,1,Pesos,Mexico,Chile
+70,155,1936,103810,1,Pesos,Mexico,Chile
+70,155,1937,330172,1,Pesos,Mexico,Chile
+70,155,1938,403472,1,Pesos,Mexico,Chile
+70,155,1939,1213871,1,Pesos,Mexico,Chile
+70,155,1940,1584472,1,,Mexico,Chile
+70,155,1941,3306433,1,,Mexico,Chile
+70,155,1942,1121276,1,,Mexico,Chile
+70,155,1943,3692593,1,,Mexico,Chile
+70,155,1944,2263536,1,,Mexico,Chile
+70,155,1945,3816455,1,,Mexico,Chile
+70,155,1946,2380100,1,,Mexico,Chile
+70,155,1947,4527605,1,,Mexico,Chile
+70,155,1948,3874371,1,,Mexico,Chile
+70,155,1949,3254,1000,Pesos,Mexico,Chile
+70,160,1920,1028218,1,,Mexico,Argentina
+70,160,1921,352041,1,,Mexico,Argentina
+70,160,1922,306166,1,,Mexico,Argentina
+70,160,1923,317481,1,,Mexico,Argentina
+70,160,1924,219629,1,,Mexico,Argentina
+70,160,1925,608336,1,,Mexico,Argentina
+70,160,1926,1895334,1,,Mexico,Argentina
+70,160,1927,408884,1,,Mexico,Argentina
+70,160,1928,220391,1,,Mexico,Argentina
+70,160,1929,2433844,1,,Mexico,Argentina
+70,160,1930,748727,1,,Mexico,Argentina
+70,160,1931,586347,1,,Mexico,Argentina
+70,160,1932,319372,1,Pesos,Mexico,Argentina
+70,160,1933,415434,1,Pesos,Mexico,Argentina
+70,160,1934,992731,1,Pesos,Mexico,Argentina
+70,160,1935,1220599,1,Pesos,Mexico,Argentina
+70,160,1936,2005846,1,Pesos,Mexico,Argentina
+70,160,1937,1955733,1,Pesos,Mexico,Argentina
+70,160,1938,1745008,1,Pesos,Mexico,Argentina
+70,160,1939,2472803,1,Pesos,Mexico,Argentina
+70,160,1940,4050394,1,,Mexico,Argentina
+70,160,1941,9487032,1,,Mexico,Argentina
+70,160,1942,20605476,1,,Mexico,Argentina
+70,160,1943,22111436,1,,Mexico,Argentina
+70,160,1944,62961678,1,,Mexico,Argentina
+70,160,1945,66440575,1,,Mexico,Argentina
+70,160,1946,79707497,1,,Mexico,Argentina
+70,160,1947,17621015,1,,Mexico,Argentina
+70,160,1948,9763430,1,,Mexico,Argentina
+70,160,1949,7092,1000,Pesos,Mexico,Argentina
+70,165,1920,67328,1,,Mexico,Uruguay
+70,165,1921,111065,1,,Mexico,Uruguay
+70,165,1922,55806,1,,Mexico,Uruguay
+70,165,1923,69906,1,,Mexico,Uruguay
+70,165,1924,14751,1,,Mexico,Uruguay
+70,165,1925,77926,1,,Mexico,Uruguay
+70,165,1926,367842,1,,Mexico,Uruguay
+70,165,1927,142539,1,,Mexico,Uruguay
+70,165,1928,31487,1,,Mexico,Uruguay
+70,165,1929,55071,1,,Mexico,Uruguay
+70,165,1930,55965,1,,Mexico,Uruguay
+70,165,1931,1225,1,,Mexico,Uruguay
+70,165,1932,537,1,Pesos,Mexico,Uruguay
+70,165,1933,153,1,Pesos,Mexico,Uruguay
+70,165,1934,169955,1,Pesos,Mexico,Uruguay
+70,165,1935,427778,1,Pesos,Mexico,Uruguay
+70,165,1936,189489,1,Pesos,Mexico,Uruguay
+70,165,1937,560635,1,Pesos,Mexico,Uruguay
+70,165,1938,682381,1,Pesos,Mexico,Uruguay
+70,165,1939,1295534,1,Pesos,Mexico,Uruguay
+70,165,1940,2958978,1,,Mexico,Uruguay
+70,165,1941,2287111,1,,Mexico,Uruguay
+70,165,1942,2523121,1,,Mexico,Uruguay
+70,165,1943,177843,1,,Mexico,Uruguay
+70,165,1944,1448698,1,,Mexico,Uruguay
+70,165,1945,935120,1,,Mexico,Uruguay
+70,165,1946,8631423,1,,Mexico,Uruguay
+70,165,1947,838287,1,,Mexico,Uruguay
+70,165,1948,2101743,1,,Mexico,Uruguay
+70,165,1949,1778,1000,Pesos,Mexico,Uruguay
+70,200,1920,32477944,1,,Mexico,United Kingdom
+70,200,1921,43690094,1,,Mexico,United Kingdom
+70,200,1922,23778496,1,,Mexico,United Kingdom
+70,200,1923,21504225,1,,Mexico,United Kingdom
+70,200,1924,22535049,1,,Mexico,United Kingdom
+70,200,1925,30665354,1,,Mexico,United Kingdom
+70,200,1926,28245003,1,,Mexico,United Kingdom
+70,200,1927,22525471,1,,Mexico,United Kingdom
+70,200,1928,26285516,1,,Mexico,United Kingdom
+70,200,1929,25648141,1,,Mexico,United Kingdom
+70,200,1930,20766620,1,,Mexico,United Kingdom
+70,200,1931,15640045,1,,Mexico,United Kingdom
+70,200,1932,14348172,1,Pesos,Mexico,United Kingdom
+70,200,1933,21752564,1,Pesos,Mexico,United Kingdom
+70,200,1934,35965556,1,Pesos,Mexico,United Kingdom
+70,200,1935,23438262,1,Pesos,Mexico,United Kingdom
+70,200,1936,23708900,1,Pesos,Mexico,United Kingdom
+70,200,1937,28558534,1,Pesos,Mexico,United Kingdom
+70,200,1938,20160723,1,Pesos,Mexico,United Kingdom
+70,200,1939,16584753,1,Pesos,Mexico,United Kingdom
+70,200,1940,21722829,1,,Mexico,United Kingdom
+70,200,1941,30901768,1,,Mexico,United Kingdom
+70,200,1942,27827013,1,,Mexico,United Kingdom
+70,200,1943,18227589,1,,Mexico,United Kingdom
+70,200,1944,17268996,1,,Mexico,United Kingdom
+70,200,1945,23666107,1,,Mexico,United Kingdom
+70,200,1946,50569575,1,,Mexico,United Kingdom
+70,200,1947,65432673,1,,Mexico,United Kingdom
+70,200,1948,86467979,1,,Mexico,United Kingdom
+70,200,1949,79001,1000,Pesos,Mexico,United Kingdom
+70,205,1920,0,1,,Mexico,Ireland
+70,205,1921,0,1,,Mexico,Ireland
+70,205,1922,8611,1,,Mexico,Ireland
+70,205,1923,42406,1,,Mexico,Ireland
+70,205,1924,62193,1,,Mexico,Ireland
+70,205,1925,115982,1,,Mexico,Ireland
+70,205,1926,61185,1,,Mexico,Ireland
+70,205,1927,91671,1,,Mexico,Ireland
+70,205,1928,100724,1,,Mexico,Ireland
+70,205,1929,125690,1,,Mexico,Ireland
+70,205,1930,16291,1,,Mexico,Ireland
+70,205,1931,1603,1,,Mexico,Ireland
+70,205,1932,85,1,Pesos,Mexico,Ireland
+70,205,1933,573,1,Pesos,Mexico,Ireland
+70,205,1934,29005,1,Pesos,Mexico,Ireland
+70,205,1935,12783,1,Pesos,Mexico,Ireland
+70,205,1936,1793,1,Pesos,Mexico,Ireland
+70,205,1937,21247,1,Pesos,Mexico,Ireland
+70,205,1938,6656,1,Pesos,Mexico,Ireland
+70,205,1939,15719,1,Pesos,Mexico,Ireland
+70,205,1940,29146,1,,Mexico,Ireland
+70,205,1941,14584,1,,Mexico,Ireland
+70,205,1942,6441,1,,Mexico,Ireland
+70,205,1943,1737,1,,Mexico,Ireland
+70,205,1944,0,1,,Mexico,Ireland
+70,205,1945,12099,1,,Mexico,Ireland
+70,205,1946,21801,1,,Mexico,Ireland
+70,205,1947,19754,1,,Mexico,Ireland
+70,205,1948,213855,1,,Mexico,Ireland
+70,205,1949,0,1000,Pesos,Mexico,Ireland
+70,210,1920,538384,1,,Mexico,Netherlands
+70,210,1921,1518644,1,,Mexico,Netherlands
+70,210,1922,1352083,1,,Mexico,Netherlands
+70,210,1923,1018707,1,,Mexico,Netherlands
+70,210,1924,1194307,1,,Mexico,Netherlands
+70,210,1925,1554234,1,,Mexico,Netherlands
+70,210,1926,1844966,1,,Mexico,Netherlands
+70,210,1927,1401464,1,,Mexico,Netherlands
+70,210,1928,2330162,1,,Mexico,Netherlands
+70,210,1929,2749488,1,,Mexico,Netherlands
+70,210,1930,4162906,1,,Mexico,Netherlands
+70,210,1931,1971680,1,,Mexico,Netherlands
+70,210,1932,2466957,1,Pesos,Mexico,Netherlands
+70,210,1933,3229720,1,Pesos,Mexico,Netherlands
+70,210,1934,3602275,1,Pesos,Mexico,Netherlands
+70,210,1935,4138450,1,Pesos,Mexico,Netherlands
+70,210,1936,5516025,1,Pesos,Mexico,Netherlands
+70,210,1937,6878924,1,Pesos,Mexico,Netherlands
+70,210,1938,4743879,1,Pesos,Mexico,Netherlands
+70,210,1939,5563785,1,Pesos,Mexico,Netherlands
+70,210,1940,2924612,1,,Mexico,Netherlands
+70,210,1941,49353,1,,Mexico,Netherlands
+70,210,1942,65,1,,Mexico,Netherlands
+70,210,1943,0,1,,Mexico,Netherlands
+70,210,1944,85,1,,Mexico,Netherlands
+70,210,1945,15,1,,Mexico,Netherlands
+70,210,1946,2173935,1,,Mexico,Netherlands
+70,210,1947,9857622,1,,Mexico,Netherlands
+70,210,1948,7363712,1,,Mexico,Netherlands
+70,210,1949,8841,1000,Pesos,Mexico,Netherlands
+70,211,1920,1189199,1,,Mexico,Belgium
+70,211,1921,4365505,1,,Mexico,Belgium
+70,211,1922,2605769,1,,Mexico,Belgium
+70,211,1923,2138136,1,,Mexico,Belgium
+70,211,1924,2135905,1,,Mexico,Belgium
+70,211,1925,2999288,1,,Mexico,Belgium
+70,211,1926,2681589,1,,Mexico,Belgium
+70,211,1927,5769176,1,,Mexico,Belgium
+70,211,1928,5861609,1,,Mexico,Belgium
+70,211,1929,4265667,1,,Mexico,Belgium
+70,211,1930,7307971,1,,Mexico,Belgium
+70,211,1931,2709394,1,,Mexico,Belgium
+70,211,1932,1605464,1,Pesos,Mexico,Belgium
+70,211,1933,2018921,1,Pesos,Mexico,Belgium
+70,211,1934,2594167,1,Pesos,Mexico,Belgium
+70,211,1935,3876523,1,Pesos,Mexico,Belgium
+70,211,1936,7470442,1,Pesos,Mexico,Belgium
+70,211,1937,6500428,1,Pesos,Mexico,Belgium
+70,211,1938,6983994,1,Pesos,Mexico,Belgium
+70,211,1939,10199405,1,Pesos,Mexico,Belgium
+70,211,1940,4769415,1,,Mexico,Belgium
+70,211,1941,167627,1,,Mexico,Belgium
+70,211,1942,7038,1,,Mexico,Belgium
+70,211,1943,0,1,,Mexico,Belgium
+70,211,1944,0,1,,Mexico,Belgium
+70,211,1945,350758,1,,Mexico,Belgium
+70,211,1946,5596371,1,,Mexico,Belgium
+70,211,1947,12708801,1,,Mexico,Belgium
+70,211,1948,12204823,1,,Mexico,Belgium
+70,211,1949,15739,1000,Pesos,Mexico,Belgium
+70,220,1920,20276878,1,,Mexico,France
+70,220,1921,46229437,1,,Mexico,France
+70,220,1922,20222284,1,,Mexico,France
+70,220,1923,13666097,1,,Mexico,France
+70,220,1924,16057137,1,,Mexico,France
+70,220,1925,20907015,1,,Mexico,France
+70,220,1926,17603235,1,,Mexico,France
+70,220,1927,17111312,1,,Mexico,France
+70,220,1928,17667519,1,,Mexico,France
+70,220,1929,19253281,1,,Mexico,France
+70,220,1930,20403941,1,,Mexico,France
+70,220,1931,11636134,1,,Mexico,France
+70,220,1932,10034396,1,Pesos,Mexico,France
+70,220,1933,16481220,1,Pesos,Mexico,France
+70,220,1934,16609956,1,Pesos,Mexico,France
+70,220,1935,16017134,1,Pesos,Mexico,France
+70,220,1936,16769958,1,Pesos,Mexico,France
+70,220,1937,20260969,1,Pesos,Mexico,France
+70,220,1938,19945842,1,Pesos,Mexico,France
+70,220,1939,23163293,1,Pesos,Mexico,France
+70,220,1940,13309774,1,,Mexico,France
+70,220,1941,126464,1,,Mexico,France
+70,220,1942,32605,1,,Mexico,France
+70,220,1943,1,1,,Mexico,France
+70,220,1944,20837,1,,Mexico,France
+70,220,1945,413953,1,,Mexico,France
+70,220,1946,9300358,1,,Mexico,France
+70,220,1947,25622101,1,,Mexico,France
+70,220,1948,12818627,1,,Mexico,France
+70,220,1949,21891,1000,Pesos,Mexico,France
+70,225,1920,3009178,1,,Mexico,Switzerland
+70,225,1921,7128959,1,,Mexico,Switzerland
+70,225,1922,3571732,1,,Mexico,Switzerland
+70,225,1923,3665501,1,,Mexico,Switzerland
+70,225,1924,3065657,1,,Mexico,Switzerland
+70,225,1925,4141746,1,,Mexico,Switzerland
+70,225,1926,3380766,1,,Mexico,Switzerland
+70,225,1927,3076120,1,,Mexico,Switzerland
+70,225,1928,3694027,1,,Mexico,Switzerland
+70,225,1929,3574937,1,,Mexico,Switzerland
+70,225,1930,2639308,1,,Mexico,Switzerland
+70,225,1931,2023026,1,,Mexico,Switzerland
+70,225,1932,2652618,1,Pesos,Mexico,Switzerland
+70,225,1933,4405956,1,Pesos,Mexico,Switzerland
+70,225,1934,5112382,1,Pesos,Mexico,Switzerland
+70,225,1935,3741491,1,Pesos,Mexico,Switzerland
+70,225,1936,6349628,1,Pesos,Mexico,Switzerland
+70,225,1937,8539590,1,Pesos,Mexico,Switzerland
+70,225,1938,7912270,1,Pesos,Mexico,Switzerland
+70,225,1939,7814415,1,Pesos,Mexico,Switzerland
+70,225,1940,9723690,1,,Mexico,Switzerland
+70,225,1941,8639599,1,,Mexico,Switzerland
+70,225,1942,8183965,1,,Mexico,Switzerland
+70,225,1943,10724448,1,,Mexico,Switzerland
+70,225,1944,8889507,1,,Mexico,Switzerland
+70,225,1945,17764580,1,,Mexico,Switzerland
+70,225,1946,25708947,1,,Mexico,Switzerland
+70,225,1947,39906086,1,,Mexico,Switzerland
+70,225,1948,34922570,1,,Mexico,Switzerland
+70,225,1949,50046,1000,Pesos,Mexico,Switzerland
+70,230,1920,8786922,1,,Mexico,Spain
+70,230,1921,19584608,1,,Mexico,Spain
+70,230,1922,8228664,1,,Mexico,Spain
+70,230,1923,6202856,1,,Mexico,Spain
+70,230,1924,7476839,1,,Mexico,Spain
+70,230,1925,8131331,1,,Mexico,Spain
+70,230,1926,7683646,1,,Mexico,Spain
+70,230,1927,5843332,1,,Mexico,Spain
+70,230,1928,6655006,1,,Mexico,Spain
+70,230,1929,6200908,1,,Mexico,Spain
+70,230,1930,6978652,1,,Mexico,Spain
+70,230,1931,4620322,1,,Mexico,Spain
+70,230,1932,4858926,1,Pesos,Mexico,Spain
+70,230,1933,5999805,1,Pesos,Mexico,Spain
+70,230,1934,7675991,1,Pesos,Mexico,Spain
+70,230,1935,11773081,1,Pesos,Mexico,Spain
+70,230,1936,22811329,1,Pesos,Mexico,Spain
+70,230,1937,2576966,1,Pesos,Mexico,Spain
+70,230,1938,2121948,1,Pesos,Mexico,Spain
+70,230,1939,2411984,1,Pesos,Mexico,Spain
+70,230,1940,4353453,1,,Mexico,Spain
+70,230,1941,5040980,1,,Mexico,Spain
+70,230,1942,1931500,1,,Mexico,Spain
+70,230,1943,5837822,1,,Mexico,Spain
+70,230,1944,10228426,1,,Mexico,Spain
+70,230,1945,15057810,1,,Mexico,Spain
+70,230,1946,19310395,1,,Mexico,Spain
+70,230,1947,20532046,1,,Mexico,Spain
+70,230,1948,10147282,1,,Mexico,Spain
+70,230,1949,13556,1000,Pesos,Mexico,Spain
+70,235,1920,184251,1,,Mexico,Portugal
+70,235,1921,319584,1,,Mexico,Portugal
+70,235,1922,65197,1,,Mexico,Portugal
+70,235,1923,62335,1,,Mexico,Portugal
+70,235,1924,103523,1,,Mexico,Portugal
+70,235,1925,76481,1,,Mexico,Portugal
+70,235,1926,79963,1,,Mexico,Portugal
+70,235,1927,74641,1,,Mexico,Portugal
+70,235,1928,119650,1,,Mexico,Portugal
+70,235,1929,116962,1,,Mexico,Portugal
+70,235,1930,105178,1,,Mexico,Portugal
+70,235,1931,90289,1,,Mexico,Portugal
+70,235,1932,94287,1,Pesos,Mexico,Portugal
+70,235,1933,140413,1,Pesos,Mexico,Portugal
+70,235,1934,246000,1,Pesos,Mexico,Portugal
+70,235,1935,248849,1,Pesos,Mexico,Portugal
+70,235,1936,418703,1,Pesos,Mexico,Portugal
+70,235,1937,943833,1,Pesos,Mexico,Portugal
+70,235,1938,1849543,1,Pesos,Mexico,Portugal
+70,235,1939,2380016,1,Pesos,Mexico,Portugal
+70,235,1940,2655779,1,,Mexico,Portugal
+70,235,1941,3537824,1,,Mexico,Portugal
+70,235,1942,2191196,1,,Mexico,Portugal
+70,235,1943,1887223,1,,Mexico,Portugal
+70,235,1944,3764819,1,,Mexico,Portugal
+70,235,1945,3418881,1,,Mexico,Portugal
+70,235,1946,10359461,1,,Mexico,Portugal
+70,235,1947,8689428,1,,Mexico,Portugal
+70,235,1948,7447348,1,,Mexico,Portugal
+70,235,1949,5349,1000,Pesos,Mexico,Portugal
+70,255,1920,37114670,1,,Mexico,Germany
+70,255,1921,23473092,1,,Mexico,Germany
+70,255,1922,37581334,1,,Mexico,Germany
+70,255,1923,19628723,1,,Mexico,Germany
+70,255,1924,23203101,1,,Mexico,Germany
+70,255,1925,29867999,1,,Mexico,Germany
+70,255,1926,28075710,1,,Mexico,Germany
+70,255,1927,29483429,1,,Mexico,Germany
+70,255,1928,32623036,1,,Mexico,Germany
+70,255,1929,30741517,1,,Mexico,Germany
+70,255,1930,32912344,1,,Mexico,Germany
+70,255,1931,19494362,1,,Mexico,Germany
+70,255,1932,20564588,1,Pesos,Mexico,Germany
+70,255,1933,29263691,1,Pesos,Mexico,Germany
+70,255,1934,34390493,1,Pesos,Mexico,Germany
+70,255,1935,48466245,1,Pesos,Mexico,Germany
+70,255,1936,71444264,1,Pesos,Mexico,Germany
+70,255,1937,98622346,1,Pesos,Mexico,Germany
+70,255,1938,93436866,1,Pesos,Mexico,Germany
+70,255,1939,80284344,1,Pesos,Mexico,Germany
+70,255,1940,8431437,1,,Mexico,Germany
+70,255,1941,2100697,1,,Mexico,Germany
+70,255,1942,38935,1,,Mexico,Germany
+70,255,1943,16830,1,,Mexico,Germany
+70,255,1944,7292,1,,Mexico,Germany
+70,255,1945,13093,1,,Mexico,Germany
+70,255,1946,48293,1,,Mexico,Germany
+70,255,1947,75138,1,,Mexico,Germany
+70,255,1948,1571705,1,,Mexico,Germany
+70,255,1949,14233,1000,Pesos,Mexico,Germany
+70,290,1920,0,1,,Mexico,Poland
+70,290,1921,0,1,,Mexico,Poland
+70,290,1922,10701,1,,Mexico,Poland
+70,290,1923,13225,1,,Mexico,Poland
+70,290,1924,8901,1,,Mexico,Poland
+70,290,1925,39920,1,,Mexico,Poland
+70,290,1926,101373,1,,Mexico,Poland
+70,290,1927,73543,1,,Mexico,Poland
+70,290,1928,158851,1,,Mexico,Poland
+70,290,1929,180879,1,,Mexico,Poland
+70,290,1930,66874,1,,Mexico,Poland
+70,290,1931,71124,1,,Mexico,Poland
+70,290,1932,87200,1,Pesos,Mexico,Poland
+70,290,1933,240203,1,Pesos,Mexico,Poland
+70,290,1934,381786,1,Pesos,Mexico,Poland
+70,290,1935,601023,1,Pesos,Mexico,Poland
+70,290,1936,678451,1,Pesos,Mexico,Poland
+70,290,1937,1800749,1,Pesos,Mexico,Poland
+70,290,1938,1993852,1,Pesos,Mexico,Poland
+70,290,1939,984496,1,Pesos,Mexico,Poland
+70,290,1940,13890,1,,Mexico,Poland
+70,290,1941,0,1,,Mexico,Poland
+70,290,1942,0,1,,Mexico,Poland
+70,290,1943,0,1,,Mexico,Poland
+70,290,1944,0,1,,Mexico,Poland
+70,290,1945,0,1,,Mexico,Poland
+70,290,1946,0,1,,Mexico,Poland
+70,290,1947,1109957,1,,Mexico,Poland
+70,290,1948,3448,1,,Mexico,Poland
+70,290,1949,4,1000,Pesos,Mexico,Poland
+70,291,1920,0,1,,Mexico,Danzig
+70,291,1921,0,1,,Mexico,Danzig
+70,291,1922,5529,1,,Mexico,Danzig
+70,291,1923,17154,1,,Mexico,Danzig
+70,291,1924,0,1,,Mexico,Danzig
+70,291,1925,0,1,,Mexico,Danzig
+70,291,1926,0,1,,Mexico,Danzig
+70,291,1927,3236,1,,Mexico,Danzig
+70,291,1928,42,1,,Mexico,Danzig
+70,291,1929,1239,1,,Mexico,Danzig
+70,291,1930,36394,1,,Mexico,Danzig
+70,291,1931,25777,1,,Mexico,Danzig
+70,291,1932,2399,1,Pesos,Mexico,Danzig
+70,291,1933,4100,1,Pesos,Mexico,Danzig
+70,291,1934,3640,1,Pesos,Mexico,Danzig
+70,291,1935,207662,1,Pesos,Mexico,Danzig
+70,291,1936,114118,1,Pesos,Mexico,Danzig
+70,291,1937,15788,1,Pesos,Mexico,Danzig
+70,291,1938,141039,1,Pesos,Mexico,Danzig
+70,291,1939,29761,1,Pesos,Mexico,Danzig
+70,291,1940,0,1,,Mexico,Danzig
+70,291,1941,0,1,,Mexico,Danzig
+70,291,1942,0,1,,Mexico,Danzig
+70,291,1943,0,1,,Mexico,Danzig
+70,291,1944,0,1,,Mexico,Danzig
+70,291,1945,0,1,,Mexico,Danzig
+70,291,1946,0,1,,Mexico,Danzig
+70,291,1947,0,1,,Mexico,Danzig
+70,291,1948,0,1,,Mexico,Danzig
+70,291,1949,0,1000,Pesos,Mexico,Danzig
+70,305,1920,1126646,1,,Mexico,Austria
+70,305,1921,412352,1,,Mexico,Austria
+70,305,1922,627615,1,,Mexico,Austria
+70,305,1923,492375,1,,Mexico,Austria
+70,305,1924,442535,1,,Mexico,Austria
+70,305,1925,700047,1,,Mexico,Austria
+70,305,1926,697552,1,,Mexico,Austria
+70,305,1927,835881,1,,Mexico,Austria
+70,305,1928,785728,1,,Mexico,Austria
+70,305,1929,843655,1,,Mexico,Austria
+70,305,1930,460253,1,,Mexico,Austria
+70,305,1931,405022,1,,Mexico,Austria
+70,305,1932,267042,1,Pesos,Mexico,Austria
+70,305,1933,347218,1,Pesos,Mexico,Austria
+70,305,1934,582575,1,Pesos,Mexico,Austria
+70,305,1935,407168,1,Pesos,Mexico,Austria
+70,305,1936,848954,1,Pesos,Mexico,Austria
+70,305,1937,565853,1,Pesos,Mexico,Austria
+70,305,1938,0,1,Pesos,Mexico,Austria
+70,305,1939,0,1,Pesos,Mexico,Austria
+70,305,1940,0,1,,Mexico,Austria
+70,305,1941,0,1,,Mexico,Austria
+70,305,1942,0,1,,Mexico,Austria
+70,305,1943,0,1,,Mexico,Austria
+70,305,1944,0,1,,Mexico,Austria
+70,305,1945,0,1,,Mexico,Austria
+70,305,1946,47919,1,,Mexico,Austria
+70,305,1947,943,1,,Mexico,Austria
+70,305,1948,353038,1,,Mexico,Austria
+70,305,1949,620,1000,Pesos,Mexico,Austria
+70,310,1920,0,1,,Mexico,Hungary
+70,310,1921,10634,1,,Mexico,Hungary
+70,310,1922,27048,1,,Mexico,Hungary
+70,310,1923,787,1,,Mexico,Hungary
+70,310,1924,25689,1,,Mexico,Hungary
+70,310,1925,5046,1,,Mexico,Hungary
+70,310,1926,46992,1,,Mexico,Hungary
+70,310,1927,24547,1,,Mexico,Hungary
+70,310,1928,23046,1,,Mexico,Hungary
+70,310,1929,50690,1,,Mexico,Hungary
+70,310,1930,10837,1,,Mexico,Hungary
+70,310,1931,107534,1,,Mexico,Hungary
+70,310,1932,71336,1,Pesos,Mexico,Hungary
+70,310,1933,148896,1,Pesos,Mexico,Hungary
+70,310,1934,312892,1,Pesos,Mexico,Hungary
+70,310,1935,325664,1,Pesos,Mexico,Hungary
+70,310,1936,356021,1,Pesos,Mexico,Hungary
+70,310,1937,500924,1,Pesos,Mexico,Hungary
+70,310,1938,777877,1,Pesos,Mexico,Hungary
+70,310,1939,1328716,1,Pesos,Mexico,Hungary
+70,310,1940,1354344,1,,Mexico,Hungary
+70,310,1941,33529,1,,Mexico,Hungary
+70,310,1942,275,1,,Mexico,Hungary
+70,310,1943,125,1,,Mexico,Hungary
+70,310,1944,0,1,,Mexico,Hungary
+70,310,1945,0,1,,Mexico,Hungary
+70,310,1946,0,1,,Mexico,Hungary
+70,310,1947,22811,1,,Mexico,Hungary
+70,310,1948,227391,1,,Mexico,Hungary
+70,310,1949,0,1000,Pesos,Mexico,Hungary
+70,315,1920,0,1,,Mexico,Czechoslovakia
+70,315,1921,496673,1,,Mexico,Czechoslovakia
+70,315,1922,1376477,1,,Mexico,Czechoslovakia
+70,315,1923,480649,1,,Mexico,Czechoslovakia
+70,315,1924,2000297,1,,Mexico,Czechoslovakia
+70,315,1925,1747027,1,,Mexico,Czechoslovakia
+70,315,1926,1656601,1,,Mexico,Czechoslovakia
+70,315,1927,1501600,1,,Mexico,Czechoslovakia
+70,315,1928,1626803,1,,Mexico,Czechoslovakia
+70,315,1929,2600772,1,,Mexico,Czechoslovakia
+70,315,1930,904262,1,,Mexico,Czechoslovakia
+70,315,1931,554840,1,,Mexico,Czechoslovakia
+70,315,1932,368185,1,Pesos,Mexico,Czechoslovakia
+70,315,1933,685038,1,Pesos,Mexico,Czechoslovakia
+70,315,1934,1187719,1,Pesos,Mexico,Czechoslovakia
+70,315,1935,1742814,1,Pesos,Mexico,Czechoslovakia
+70,315,1936,2318302,1,Pesos,Mexico,Czechoslovakia
+70,315,1937,3111342,1,Pesos,Mexico,Czechoslovakia
+70,315,1938,2753752,1,Pesos,Mexico,Czechoslovakia
+70,315,1939,0,1,Pesos,Mexico,Czechoslovakia
+70,315,1940,0,1,,Mexico,Czechoslovakia
+70,315,1941,0,1,,Mexico,Czechoslovakia
+70,315,1942,0,1,,Mexico,Czechoslovakia
+70,315,1943,0,1,,Mexico,Czechoslovakia
+70,315,1944,0,1,,Mexico,Czechoslovakia
+70,315,1945,0,1,,Mexico,Czechoslovakia
+70,315,1946,860225,1,,Mexico,Czechoslovakia
+70,315,1947,6010862,1,,Mexico,Czechoslovakia
+70,315,1948,5370721,1,,Mexico,Czechoslovakia
+70,315,1949,4816,1000,Pesos,Mexico,Czechoslovakia
+70,316,1920,0,1,,Mexico,Czech Republic
+70,316,1921,0,1,,Mexico,Czech Republic
+70,316,1922,0,1,,Mexico,Czech Republic
+70,316,1923,0,1,,Mexico,Czech Republic
+70,316,1924,0,1,,Mexico,Czech Republic
+70,316,1925,0,1,,Mexico,Czech Republic
+70,316,1926,0,1,,Mexico,Czech Republic
+70,316,1927,0,1,,Mexico,Czech Republic
+70,316,1928,0,1,,Mexico,Czech Republic
+70,316,1929,0,1,,Mexico,Czech Republic
+70,316,1930,0,1,,Mexico,Czech Republic
+70,316,1931,0,1,,Mexico,Czech Republic
+70,316,1932,0,1,Pesos,Mexico,Czech Republic
+70,316,1933,0,1,Pesos,Mexico,Czech Republic
+70,316,1934,0,1,Pesos,Mexico,Czech Republic
+70,316,1935,0,1,Pesos,Mexico,Czech Republic
+70,316,1936,0,1,Pesos,Mexico,Czech Republic
+70,316,1937,0,1,Pesos,Mexico,Czech Republic
+70,316,1938,0,1,Pesos,Mexico,Czech Republic
+70,316,1939,790382,1,Pesos,Mexico,Czech Republic
+70,316,1940,13377,1,,Mexico,Czech Republic
+70,316,1941,0,1,,Mexico,Czech Republic
+70,316,1942,0,1,,Mexico,Czech Republic
+70,316,1943,0,1,,Mexico,Czech Republic
+70,316,1944,0,1,,Mexico,Czech Republic
+70,316,1945,0,1,,Mexico,Czech Republic
+70,316,1946,0,1,,Mexico,Czech Republic
+70,316,1947,0,1,,Mexico,Czech Republic
+70,316,1948,0,1,,Mexico,Czech Republic
+70,316,1949,0,1000,Pesos,Mexico,Czech Republic
+70,317,1920,0,1,,Mexico,Slovakia
+70,317,1921,0,1,,Mexico,Slovakia
+70,317,1922,0,1,,Mexico,Slovakia
+70,317,1923,0,1,,Mexico,Slovakia
+70,317,1924,0,1,,Mexico,Slovakia
+70,317,1925,0,1,,Mexico,Slovakia
+70,317,1926,0,1,,Mexico,Slovakia
+70,317,1927,0,1,,Mexico,Slovakia
+70,317,1928,0,1,,Mexico,Slovakia
+70,317,1929,0,1,,Mexico,Slovakia
+70,317,1930,0,1,,Mexico,Slovakia
+70,317,1931,0,1,,Mexico,Slovakia
+70,317,1932,0,1,Pesos,Mexico,Slovakia
+70,317,1933,0,1,Pesos,Mexico,Slovakia
+70,317,1934,0,1,Pesos,Mexico,Slovakia
+70,317,1935,0,1,Pesos,Mexico,Slovakia
+70,317,1936,0,1,Pesos,Mexico,Slovakia
+70,317,1937,0,1,Pesos,Mexico,Slovakia
+70,317,1938,0,1,Pesos,Mexico,Slovakia
+70,317,1939,0,1,Pesos,Mexico,Slovakia
+70,317,1940,2108,1,,Mexico,Slovakia
+70,317,1941,0,1,,Mexico,Slovakia
+70,317,1942,0,1,,Mexico,Slovakia
+70,317,1943,0,1,,Mexico,Slovakia
+70,317,1944,0,1,,Mexico,Slovakia
+70,317,1945,0,1,,Mexico,Slovakia
+70,317,1946,0,1,,Mexico,Slovakia
+70,317,1947,0,1,,Mexico,Slovakia
+70,317,1948,0,1,,Mexico,Slovakia
+70,317,1949,0,1000,Pesos,Mexico,Slovakia
+70,325,1920,1995446,1,,Mexico,Italy
+70,325,1921,5661304,1,,Mexico,Italy
+70,325,1922,2460397,1,,Mexico,Italy
+70,325,1923,1390398,1,,Mexico,Italy
+70,325,1924,1758367,1,,Mexico,Italy
+70,325,1925,3008943,1,,Mexico,Italy
+70,325,1926,2825650,1,,Mexico,Italy
+70,325,1927,2499818,1,,Mexico,Italy
+70,325,1928,2560722,1,,Mexico,Italy
+70,325,1929,3478910,1,,Mexico,Italy
+70,325,1930,3199651,1,,Mexico,Italy
+70,325,1931,2140078,1,,Mexico,Italy
+70,325,1932,1786777,1,Pesos,Mexico,Italy
+70,325,1933,2092172,1,Pesos,Mexico,Italy
+70,325,1934,3934206,1,Pesos,Mexico,Italy
+70,325,1935,5885215,1,Pesos,Mexico,Italy
+70,325,1936,2019706,1,Pesos,Mexico,Italy
+70,325,1937,6015089,1,Pesos,Mexico,Italy
+70,325,1938,9610185,1,Pesos,Mexico,Italy
+70,325,1939,14154676,1,Pesos,Mexico,Italy
+70,325,1940,11351274,1,,Mexico,Italy
+70,325,1941,6191978,1,,Mexico,Italy
+70,325,1942,147329,1,,Mexico,Italy
+70,325,1943,86,1,,Mexico,Italy
+70,325,1944,100,1,,Mexico,Italy
+70,325,1945,4270,1,,Mexico,Italy
+70,325,1946,4686464,1,,Mexico,Italy
+70,325,1947,9502191,1,,Mexico,Italy
+70,325,1948,39662920,1,,Mexico,Italy
+70,325,1949,19023,1000,Pesos,Mexico,Italy
+70,339,1920,0,1,,Mexico,Albania
+70,339,1921,0,1,,Mexico,Albania
+70,339,1922,0,1,,Mexico,Albania
+70,339,1923,0,1,,Mexico,Albania
+70,339,1924,0,1,,Mexico,Albania
+70,339,1925,0,1,,Mexico,Albania
+70,339,1926,0,1,,Mexico,Albania
+70,339,1927,0,1,,Mexico,Albania
+70,339,1928,0,1,,Mexico,Albania
+70,339,1929,1674,1,,Mexico,Albania
+70,339,1930,141,1,,Mexico,Albania
+70,339,1931,0,1,,Mexico,Albania
+70,339,1932,14,1,Pesos,Mexico,Albania
+70,339,1933,0,1,Pesos,Mexico,Albania
+70,339,1934,0,1,Pesos,Mexico,Albania
+70,339,1935,0,1,Pesos,Mexico,Albania
+70,339,1936,0,1,Pesos,Mexico,Albania
+70,339,1937,0,1,Pesos,Mexico,Albania
+70,339,1938,0,1,Pesos,Mexico,Albania
+70,339,1939,0,1,Pesos,Mexico,Albania
+70,339,1940,0,1,,Mexico,Albania
+70,339,1941,0,1,,Mexico,Albania
+70,339,1942,0,1,,Mexico,Albania
+70,339,1943,0,1,,Mexico,Albania
+70,339,1944,0,1,,Mexico,Albania
+70,339,1945,0,1,,Mexico,Albania
+70,339,1946,0,1,,Mexico,Albania
+70,339,1947,0,1,,Mexico,Albania
+70,339,1948,0,1,,Mexico,Albania
+70,339,1949,0,1000,Pesos,Mexico,Albania
+70,345,1920,0,1,,Mexico,Yugoslavia
+70,345,1921,0,1,,Mexico,Yugoslavia
+70,345,1922,40,1,,Mexico,Yugoslavia
+70,345,1923,2079,1,,Mexico,Yugoslavia
+70,345,1924,16154,1,,Mexico,Yugoslavia
+70,345,1925,295,1,,Mexico,Yugoslavia
+70,345,1926,17988,1,,Mexico,Yugoslavia
+70,345,1927,12325,1,,Mexico,Yugoslavia
+70,345,1928,25846,1,,Mexico,Yugoslavia
+70,345,1929,21562,1,,Mexico,Yugoslavia
+70,345,1930,118,1,,Mexico,Yugoslavia
+70,345,1931,7286,1,,Mexico,Yugoslavia
+70,345,1932,4118,1,Pesos,Mexico,Yugoslavia
+70,345,1933,98,1,Pesos,Mexico,Yugoslavia
+70,345,1934,2926,1,Pesos,Mexico,Yugoslavia
+70,345,1935,1566,1,Pesos,Mexico,Yugoslavia
+70,345,1936,1012,1,Pesos,Mexico,Yugoslavia
+70,345,1937,3720,1,Pesos,Mexico,Yugoslavia
+70,345,1938,936,1,Pesos,Mexico,Yugoslavia
+70,345,1939,71862,1,Pesos,Mexico,Yugoslavia
+70,345,1940,77,1,,Mexico,Yugoslavia
+70,345,1941,125,1,,Mexico,Yugoslavia
+70,345,1942,0,1,,Mexico,Yugoslavia
+70,345,1943,200,1,,Mexico,Yugoslavia
+70,345,1944,2,1,,Mexico,Yugoslavia
+70,345,1945,0,1,,Mexico,Yugoslavia
+70,345,1946,0,1,,Mexico,Yugoslavia
+70,345,1947,896,1,,Mexico,Yugoslavia
+70,345,1948,4504,1,,Mexico,Yugoslavia
+70,345,1949,13,1000,Pesos,Mexico,Yugoslavia
+70,350,1920,27488,1,,Mexico,Greece
+70,350,1921,32136,1,,Mexico,Greece
+70,350,1922,28175,1,,Mexico,Greece
+70,350,1923,9640,1,,Mexico,Greece
+70,350,1924,6064,1,,Mexico,Greece
+70,350,1925,8148,1,,Mexico,Greece
+70,350,1926,24184,1,,Mexico,Greece
+70,350,1927,13492,1,,Mexico,Greece
+70,350,1928,22168,1,,Mexico,Greece
+70,350,1929,28566,1,,Mexico,Greece
+70,350,1930,4919,1,,Mexico,Greece
+70,350,1931,4532,1,,Mexico,Greece
+70,350,1932,3656,1,Pesos,Mexico,Greece
+70,350,1933,8920,1,Pesos,Mexico,Greece
+70,350,1934,11923,1,Pesos,Mexico,Greece
+70,350,1935,15404,1,Pesos,Mexico,Greece
+70,350,1936,23936,1,Pesos,Mexico,Greece
+70,350,1937,98852,1,Pesos,Mexico,Greece
+70,350,1938,90843,1,Pesos,Mexico,Greece
+70,350,1939,63732,1,Pesos,Mexico,Greece
+70,350,1940,53816,1,,Mexico,Greece
+70,350,1941,3218,1,,Mexico,Greece
+70,350,1942,0,1,,Mexico,Greece
+70,350,1943,0,1,,Mexico,Greece
+70,350,1944,0,1,,Mexico,Greece
+70,350,1945,2,1,,Mexico,Greece
+70,350,1946,29157,1,,Mexico,Greece
+70,350,1947,158259,1,,Mexico,Greece
+70,350,1948,79763,1,,Mexico,Greece
+70,350,1949,141,1000,Pesos,Mexico,Greece
+70,352,1920,0,1,,Mexico,Cyprus
+70,352,1921,0,1,,Mexico,Cyprus
+70,352,1922,0,1,,Mexico,Cyprus
+70,352,1923,0,1,,Mexico,Cyprus
+70,352,1924,0,1,,Mexico,Cyprus
+70,352,1925,0,1,,Mexico,Cyprus
+70,352,1926,0,1,,Mexico,Cyprus
+70,352,1927,0,1,,Mexico,Cyprus
+70,352,1928,0,1,,Mexico,Cyprus
+70,352,1929,0,1,,Mexico,Cyprus
+70,352,1930,0,1,,Mexico,Cyprus
+70,352,1931,0,1,,Mexico,Cyprus
+70,352,1932,0,1,Pesos,Mexico,Cyprus
+70,352,1933,135,1,Pesos,Mexico,Cyprus
+70,352,1934,0,1,Pesos,Mexico,Cyprus
+70,352,1935,0,1,Pesos,Mexico,Cyprus
+70,352,1936,3056,1,Pesos,Mexico,Cyprus
+70,352,1937,1842,1,Pesos,Mexico,Cyprus
+70,352,1938,0,1,Pesos,Mexico,Cyprus
+70,352,1939,8206,1,Pesos,Mexico,Cyprus
+70,352,1940,12648,1,,Mexico,Cyprus
+70,352,1941,4571,1,,Mexico,Cyprus
+70,352,1942,12647,1,,Mexico,Cyprus
+70,352,1943,0,1,,Mexico,Cyprus
+70,352,1944,0,1,,Mexico,Cyprus
+70,352,1945,0,1,,Mexico,Cyprus
+70,352,1946,0,1,,Mexico,Cyprus
+70,352,1947,0,1,,Mexico,Cyprus
+70,352,1948,5808,1,,Mexico,Cyprus
+70,352,1949,0,1000,Pesos,Mexico,Cyprus
+70,355,1920,0,1,,Mexico,Bulgaria
+70,355,1921,0,1,,Mexico,Bulgaria
+70,355,1922,0,1,,Mexico,Bulgaria
+70,355,1923,208,1,,Mexico,Bulgaria
+70,355,1924,0,1,,Mexico,Bulgaria
+70,355,1925,3,1,,Mexico,Bulgaria
+70,355,1926,399,1,,Mexico,Bulgaria
+70,355,1927,400,1,,Mexico,Bulgaria
+70,355,1928,2573,1,,Mexico,Bulgaria
+70,355,1929,283,1,,Mexico,Bulgaria
+70,355,1930,921,1,,Mexico,Bulgaria
+70,355,1931,198,1,,Mexico,Bulgaria
+70,355,1932,43,1,Pesos,Mexico,Bulgaria
+70,355,1933,460,1,Pesos,Mexico,Bulgaria
+70,355,1934,87,1,Pesos,Mexico,Bulgaria
+70,355,1935,184,1,Pesos,Mexico,Bulgaria
+70,355,1936,22,1,Pesos,Mexico,Bulgaria
+70,355,1937,1076,1,Pesos,Mexico,Bulgaria
+70,355,1938,5254,1,Pesos,Mexico,Bulgaria
+70,355,1939,556,1,Pesos,Mexico,Bulgaria
+70,355,1940,2,1,,Mexico,Bulgaria
+70,355,1941,51,1,,Mexico,Bulgaria
+70,355,1942,0,1,,Mexico,Bulgaria
+70,355,1943,0,1,,Mexico,Bulgaria
+70,355,1944,0,1,,Mexico,Bulgaria
+70,355,1945,0,1,,Mexico,Bulgaria
+70,355,1946,0,1,,Mexico,Bulgaria
+70,355,1947,33,1,,Mexico,Bulgaria
+70,355,1948,138,1,,Mexico,Bulgaria
+70,355,1949,0,1000,Pesos,Mexico,Bulgaria
+70,360,1920,0,1,,Mexico,Romania
+70,360,1921,0,1,,Mexico,Romania
+70,360,1922,0,1,,Mexico,Romania
+70,360,1923,0,1,,Mexico,Romania
+70,360,1924,0,1,,Mexico,Romania
+70,360,1925,12186,1,,Mexico,Romania
+70,360,1926,18044,1,,Mexico,Romania
+70,360,1927,190,1,,Mexico,Romania
+70,360,1928,88,1,,Mexico,Romania
+70,360,1929,177,1,,Mexico,Romania
+70,360,1930,131,1,,Mexico,Romania
+70,360,1931,90,1,,Mexico,Romania
+70,360,1932,9,1,Pesos,Mexico,Romania
+70,360,1933,1378,1,Pesos,Mexico,Romania
+70,360,1934,28829,1,Pesos,Mexico,Romania
+70,360,1935,243585,1,Pesos,Mexico,Romania
+70,360,1936,289931,1,Pesos,Mexico,Romania
+70,360,1937,51984,1,Pesos,Mexico,Romania
+70,360,1938,35047,1,Pesos,Mexico,Romania
+70,360,1939,4959,1,Pesos,Mexico,Romania
+70,360,1940,153,1,,Mexico,Romania
+70,360,1941,0,1,,Mexico,Romania
+70,360,1942,0,1,,Mexico,Romania
+70,360,1943,0,1,,Mexico,Romania
+70,360,1944,0,1,,Mexico,Romania
+70,360,1945,0,1,,Mexico,Romania
+70,360,1946,26,1,,Mexico,Romania
+70,360,1947,0,1,,Mexico,Romania
+70,360,1948,149,1,,Mexico,Romania
+70,360,1949,0,1000,Pesos,Mexico,Romania
+70,365,1920,504019,1,,Mexico,Russia
+70,365,1921,34418,1,,Mexico,Russia
+70,365,1922,19564,1,,Mexico,Russia
+70,365,1923,9929,1,,Mexico,Russia
+70,365,1924,2482,1,,Mexico,Russia
+70,365,1925,9089,1,,Mexico,Russia
+70,365,1926,30066,1,,Mexico,Russia
+70,365,1927,36075,1,,Mexico,Russia
+70,365,1928,35026,1,,Mexico,Russia
+70,365,1929,127316,1,,Mexico,Russia
+70,365,1930,152554,1,,Mexico,Russia
+70,365,1931,8591,1,,Mexico,Russia
+70,365,1932,12244,1,Pesos,Mexico,Russia
+70,365,1933,3590,1,Pesos,Mexico,Russia
+70,365,1934,3743,1,Pesos,Mexico,Russia
+70,365,1935,837,1,Pesos,Mexico,Russia
+70,365,1936,14126,1,Pesos,Mexico,Russia
+70,365,1937,28823,1,Pesos,Mexico,Russia
+70,365,1938,18363,1,Pesos,Mexico,Russia
+70,365,1939,19420,1,Pesos,Mexico,Russia
+70,365,1940,6159,1,,Mexico,Russia
+70,365,1941,32198,1,,Mexico,Russia
+70,365,1942,13924,1,,Mexico,Russia
+70,365,1943,1946,1,,Mexico,Russia
+70,365,1944,1502,1,,Mexico,Russia
+70,365,1945,138631,1,,Mexico,Russia
+70,365,1946,337787,1,,Mexico,Russia
+70,365,1947,198650,1,,Mexico,Russia
+70,365,1948,17276,1,,Mexico,Russia
+70,365,1949,56,1000,Pesos,Mexico,Russia
+70,366,1920,0,1,,Mexico,Estonia
+70,366,1921,0,1,,Mexico,Estonia
+70,366,1922,9807,1,,Mexico,Estonia
+70,366,1923,0,1,,Mexico,Estonia
+70,366,1924,0,1,,Mexico,Estonia
+70,366,1925,0,1,,Mexico,Estonia
+70,366,1926,0,1,,Mexico,Estonia
+70,366,1927,0,1,,Mexico,Estonia
+70,366,1928,0,1,,Mexico,Estonia
+70,366,1929,0,1,,Mexico,Estonia
+70,366,1930,98,1,,Mexico,Estonia
+70,366,1931,2813,1,,Mexico,Estonia
+70,366,1932,114,1,Pesos,Mexico,Estonia
+70,366,1933,11397,1,Pesos,Mexico,Estonia
+70,366,1934,35,1,Pesos,Mexico,Estonia
+70,366,1935,12263,1,Pesos,Mexico,Estonia
+70,366,1936,23431,1,Pesos,Mexico,Estonia
+70,366,1937,55059,1,Pesos,Mexico,Estonia
+70,366,1938,5824,1,Pesos,Mexico,Estonia
+70,366,1939,3825,1,Pesos,Mexico,Estonia
+70,366,1940,0,1,,Mexico,Estonia
+70,366,1941,0,1,,Mexico,Estonia
+70,366,1942,0,1,,Mexico,Estonia
+70,366,1943,0,1,,Mexico,Estonia
+70,366,1944,0,1,,Mexico,Estonia
+70,366,1945,0,1,,Mexico,Estonia
+70,366,1946,0,1,,Mexico,Estonia
+70,366,1947,0,1,,Mexico,Estonia
+70,366,1948,1,1,,Mexico,Estonia
+70,366,1949,0,1000,Pesos,Mexico,Estonia
+70,367,1920,0,1,,Mexico,Latvia
+70,367,1921,0,1,,Mexico,Latvia
+70,367,1922,0,1,,Mexico,Latvia
+70,367,1923,0,1,,Mexico,Latvia
+70,367,1924,0,1,,Mexico,Latvia
+70,367,1925,0,1,,Mexico,Latvia
+70,367,1926,0,1,,Mexico,Latvia
+70,367,1927,0,1,,Mexico,Latvia
+70,367,1928,0,1,,Mexico,Latvia
+70,367,1929,0,1,,Mexico,Latvia
+70,367,1930,63947,1,,Mexico,Latvia
+70,367,1931,385,1,,Mexico,Latvia
+70,367,1932,5396,1,Pesos,Mexico,Latvia
+70,367,1933,1136,1,Pesos,Mexico,Latvia
+70,367,1934,2152,1,Pesos,Mexico,Latvia
+70,367,1935,4193,1,Pesos,Mexico,Latvia
+70,367,1936,29642,1,Pesos,Mexico,Latvia
+70,367,1937,42159,1,Pesos,Mexico,Latvia
+70,367,1938,72494,1,Pesos,Mexico,Latvia
+70,367,1939,45063,1,Pesos,Mexico,Latvia
+70,367,1940,20091,1,,Mexico,Latvia
+70,367,1941,265,1,,Mexico,Latvia
+70,367,1942,0,1,,Mexico,Latvia
+70,367,1943,0,1,,Mexico,Latvia
+70,367,1944,0,1,,Mexico,Latvia
+70,367,1945,27,1,,Mexico,Latvia
+70,367,1946,0,1,,Mexico,Latvia
+70,367,1947,0,1,,Mexico,Latvia
+70,367,1948,60,1,,Mexico,Latvia
+70,367,1949,0,1000,Pesos,Mexico,Latvia
+70,368,1920,0,1,,Mexico,Lithuania
+70,368,1921,0,1,,Mexico,Lithuania
+70,368,1922,11225,1,,Mexico,Lithuania
+70,368,1923,6120,1,,Mexico,Lithuania
+70,368,1924,6393,1,,Mexico,Lithuania
+70,368,1925,0,1,,Mexico,Lithuania
+70,368,1926,740,1,,Mexico,Lithuania
+70,368,1927,63633,1,,Mexico,Lithuania
+70,368,1928,65405,1,,Mexico,Lithuania
+70,368,1929,107724,1,,Mexico,Lithuania
+70,368,1930,116927,1,,Mexico,Lithuania
+70,368,1931,13146,1,,Mexico,Lithuania
+70,368,1932,17335,1,Pesos,Mexico,Lithuania
+70,368,1933,20489,1,Pesos,Mexico,Lithuania
+70,368,1934,23102,1,Pesos,Mexico,Lithuania
+70,368,1935,24316,1,Pesos,Mexico,Lithuania
+70,368,1936,16631,1,Pesos,Mexico,Lithuania
+70,368,1937,15284,1,Pesos,Mexico,Lithuania
+70,368,1938,51116,1,Pesos,Mexico,Lithuania
+70,368,1939,4541,1,Pesos,Mexico,Lithuania
+70,368,1940,0,1,,Mexico,Lithuania
+70,368,1941,0,1,,Mexico,Lithuania
+70,368,1942,0,1,,Mexico,Lithuania
+70,368,1943,0,1,,Mexico,Lithuania
+70,368,1944,0,1,,Mexico,Lithuania
+70,368,1945,0,1,,Mexico,Lithuania
+70,368,1946,0,1,,Mexico,Lithuania
+70,368,1947,558,1,,Mexico,Lithuania
+70,368,1948,6251,1,,Mexico,Lithuania
+70,368,1949,0,1000,Pesos,Mexico,Lithuania
+70,375,1920,0,1,,Mexico,Finland
+70,375,1921,0,1,,Mexico,Finland
+70,375,1922,10313,1,,Mexico,Finland
+70,375,1923,143412,1,,Mexico,Finland
+70,375,1924,8205,1,,Mexico,Finland
+70,375,1925,24902,1,,Mexico,Finland
+70,375,1926,32056,1,,Mexico,Finland
+70,375,1927,31436,1,,Mexico,Finland
+70,375,1928,79882,1,,Mexico,Finland
+70,375,1929,213971,1,,Mexico,Finland
+70,375,1930,25084,1,,Mexico,Finland
+70,375,1931,52656,1,,Mexico,Finland
+70,375,1932,84202,1,Pesos,Mexico,Finland
+70,375,1933,367406,1,Pesos,Mexico,Finland
+70,375,1934,688237,1,Pesos,Mexico,Finland
+70,375,1935,373984,1,Pesos,Mexico,Finland
+70,375,1936,111399,1,Pesos,Mexico,Finland
+70,375,1937,209391,1,Pesos,Mexico,Finland
+70,375,1938,203687,1,Pesos,Mexico,Finland
+70,375,1939,1718483,1,Pesos,Mexico,Finland
+70,375,1940,825565,1,,Mexico,Finland
+70,375,1941,3778858,1,,Mexico,Finland
+70,375,1942,0,1,,Mexico,Finland
+70,375,1943,0,1,,Mexico,Finland
+70,375,1944,0,1,,Mexico,Finland
+70,375,1945,10,1,,Mexico,Finland
+70,375,1946,120833,1,,Mexico,Finland
+70,375,1947,1192660,1,,Mexico,Finland
+70,375,1948,1579797,1,,Mexico,Finland
+70,375,1949,5477,1000,Pesos,Mexico,Finland
+70,380,1920,379519,1,,Mexico,Sweden
+70,380,1921,1666169,1,,Mexico,Sweden
+70,380,1922,1178430,1,,Mexico,Sweden
+70,380,1923,734102,1,,Mexico,Sweden
+70,380,1924,820853,1,,Mexico,Sweden
+70,380,1925,1439854,1,,Mexico,Sweden
+70,380,1926,1800928,1,,Mexico,Sweden
+70,380,1927,2140445,1,,Mexico,Sweden
+70,380,1928,2579102,1,,Mexico,Sweden
+70,380,1929,3628772,1,,Mexico,Sweden
+70,380,1930,2393359,1,,Mexico,Sweden
+70,380,1931,4278048,1,,Mexico,Sweden
+70,380,1932,2584486,1,Pesos,Mexico,Sweden
+70,380,1933,3116606,1,Pesos,Mexico,Sweden
+70,380,1934,4381896,1,Pesos,Mexico,Sweden
+70,380,1935,4267509,1,Pesos,Mexico,Sweden
+70,380,1936,4707461,1,Pesos,Mexico,Sweden
+70,380,1937,8708770,1,Pesos,Mexico,Sweden
+70,380,1938,11640825,1,Pesos,Mexico,Sweden
+70,380,1939,12246791,1,Pesos,Mexico,Sweden
+70,380,1940,8446644,1,,Mexico,Sweden
+70,380,1941,7320222,1,,Mexico,Sweden
+70,380,1942,390935,1,,Mexico,Sweden
+70,380,1943,1815,1,,Mexico,Sweden
+70,380,1944,21027,1,,Mexico,Sweden
+70,380,1945,18130544,1,,Mexico,Sweden
+70,380,1946,40614244,1,,Mexico,Sweden
+70,380,1947,45487509,1,,Mexico,Sweden
+70,380,1948,45720463,1,,Mexico,Sweden
+70,380,1949,40543,1000,Pesos,Mexico,Sweden
+70,385,1920,120609,1,,Mexico,Norway
+70,385,1921,322057,1,,Mexico,Norway
+70,385,1922,264841,1,,Mexico,Norway
+70,385,1923,382366,1,,Mexico,Norway
+70,385,1924,384239,1,,Mexico,Norway
+70,385,1925,407465,1,,Mexico,Norway
+70,385,1926,504067,1,,Mexico,Norway
+70,385,1927,594320,1,,Mexico,Norway
+70,385,1928,468066,1,,Mexico,Norway
+70,385,1929,824910,1,,Mexico,Norway
+70,385,1930,672931,1,,Mexico,Norway
+70,385,1931,327256,1,,Mexico,Norway
+70,385,1932,400577,1,Pesos,Mexico,Norway
+70,385,1933,438695,1,Pesos,Mexico,Norway
+70,385,1934,789390,1,Pesos,Mexico,Norway
+70,385,1935,921350,1,Pesos,Mexico,Norway
+70,385,1936,856405,1,Pesos,Mexico,Norway
+70,385,1937,1212746,1,Pesos,Mexico,Norway
+70,385,1938,1307418,1,Pesos,Mexico,Norway
+70,385,1939,1422600,1,Pesos,Mexico,Norway
+70,385,1940,1029856,1,,Mexico,Norway
+70,385,1941,1637,1,,Mexico,Norway
+70,385,1942,54,1,,Mexico,Norway
+70,385,1943,0,1,,Mexico,Norway
+70,385,1944,0,1,,Mexico,Norway
+70,385,1945,22547,1,,Mexico,Norway
+70,385,1946,1859156,1,,Mexico,Norway
+70,385,1947,2479247,1,,Mexico,Norway
+70,385,1948,2839887,1,,Mexico,Norway
+70,385,1949,4151,1000,Pesos,Mexico,Norway
+70,390,1920,89888,1,,Mexico,Denmark
+70,390,1921,197207,1,,Mexico,Denmark
+70,390,1922,125159,1,,Mexico,Denmark
+70,390,1923,320479,1,,Mexico,Denmark
+70,390,1924,166590,1,,Mexico,Denmark
+70,390,1925,200330,1,,Mexico,Denmark
+70,390,1926,268857,1,,Mexico,Denmark
+70,390,1927,195179,1,,Mexico,Denmark
+70,390,1928,198394,1,,Mexico,Denmark
+70,390,1929,228289,1,,Mexico,Denmark
+70,390,1930,104870,1,,Mexico,Denmark
+70,390,1931,103355,1,,Mexico,Denmark
+70,390,1932,115049,1,Pesos,Mexico,Denmark
+70,390,1933,178682,1,Pesos,Mexico,Denmark
+70,390,1934,529644,1,Pesos,Mexico,Denmark
+70,390,1935,334154,1,Pesos,Mexico,Denmark
+70,390,1936,500630,1,Pesos,Mexico,Denmark
+70,390,1937,1717756,1,Pesos,Mexico,Denmark
+70,390,1938,1048686,1,Pesos,Mexico,Denmark
+70,390,1939,814998,1,Pesos,Mexico,Denmark
+70,390,1940,368829,1,,Mexico,Denmark
+70,390,1941,32820,1,,Mexico,Denmark
+70,390,1942,448,1,,Mexico,Denmark
+70,390,1943,0,1,,Mexico,Denmark
+70,390,1944,0,1,,Mexico,Denmark
+70,390,1945,29121,1,,Mexico,Denmark
+70,390,1946,1269549,1,,Mexico,Denmark
+70,390,1947,585472,1,,Mexico,Denmark
+70,390,1948,2554234,1,,Mexico,Denmark
+70,390,1949,1534,1000,Pesos,Mexico,Denmark
+70,450,1920,0,1,,Mexico,Liberia
+70,450,1921,0,1,,Mexico,Liberia
+70,450,1922,0,1,,Mexico,Liberia
+70,450,1923,0,1,,Mexico,Liberia
+70,450,1924,0,1,,Mexico,Liberia
+70,450,1925,0,1,,Mexico,Liberia
+70,450,1926,0,1,,Mexico,Liberia
+70,450,1927,0,1,,Mexico,Liberia
+70,450,1928,0,1,,Mexico,Liberia
+70,450,1929,0,1,,Mexico,Liberia
+70,450,1930,0,1,,Mexico,Liberia
+70,450,1931,0,1,,Mexico,Liberia
+70,450,1932,0,1,Pesos,Mexico,Liberia
+70,450,1933,0,1,Pesos,Mexico,Liberia
+70,450,1934,0,1,Pesos,Mexico,Liberia
+70,450,1935,0,1,Pesos,Mexico,Liberia
+70,450,1936,0,1,Pesos,Mexico,Liberia
+70,450,1937,0,1,Pesos,Mexico,Liberia
+70,450,1938,0,1,Pesos,Mexico,Liberia
+70,450,1939,0,1,Pesos,Mexico,Liberia
+70,450,1940,0,1,,Mexico,Liberia
+70,450,1941,0,1,,Mexico,Liberia
+70,450,1942,0,1,,Mexico,Liberia
+70,450,1943,0,1,,Mexico,Liberia
+70,450,1944,0,1,,Mexico,Liberia
+70,450,1945,0,1,,Mexico,Liberia
+70,450,1946,0,1,,Mexico,Liberia
+70,450,1947,0,1,,Mexico,Liberia
+70,450,1948,10,1,,Mexico,Liberia
+70,450,1949,0,1000,Pesos,Mexico,Liberia
+70,490,1920,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1921,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1922,7,1,,Mexico,"Congo, Dem. Republic"
+70,490,1923,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1924,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1925,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1926,123,1,,Mexico,"Congo, Dem. Republic"
+70,490,1927,158,1,,Mexico,"Congo, Dem. Republic"
+70,490,1928,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1929,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1930,855,1,,Mexico,"Congo, Dem. Republic"
+70,490,1931,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1932,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1933,2,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1934,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1935,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1936,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1937,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1938,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1939,0,1,Pesos,Mexico,"Congo, Dem. Republic"
+70,490,1940,599,1,,Mexico,"Congo, Dem. Republic"
+70,490,1941,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1942,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1943,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1944,300,1,,Mexico,"Congo, Dem. Republic"
+70,490,1945,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1946,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1947,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1948,0,1,,Mexico,"Congo, Dem. Republic"
+70,490,1949,25,1000,Pesos,Mexico,"Congo, Dem. Republic"
+70,530,1920,0,1,,Mexico,Ethiopia
+70,530,1921,0,1,,Mexico,Ethiopia
+70,530,1922,429,1,,Mexico,Ethiopia
+70,530,1923,0,1,,Mexico,Ethiopia
+70,530,1924,0,1,,Mexico,Ethiopia
+70,530,1925,0,1,,Mexico,Ethiopia
+70,530,1926,180,1,,Mexico,Ethiopia
+70,530,1927,0,1,,Mexico,Ethiopia
+70,530,1928,12,1,,Mexico,Ethiopia
+70,530,1929,54,1,,Mexico,Ethiopia
+70,530,1930,134,1,,Mexico,Ethiopia
+70,530,1931,1,1,,Mexico,Ethiopia
+70,530,1932,0,1,Pesos,Mexico,Ethiopia
+70,530,1933,0,1,Pesos,Mexico,Ethiopia
+70,530,1934,0,1,Pesos,Mexico,Ethiopia
+70,530,1935,0,1,Pesos,Mexico,Ethiopia
+70,530,1936,0,1,Pesos,Mexico,Ethiopia
+70,530,1937,0,1,Pesos,Mexico,Ethiopia
+70,530,1938,0,1,Pesos,Mexico,Ethiopia
+70,530,1939,0,1,Pesos,Mexico,Ethiopia
+70,530,1940,0,1,,Mexico,Ethiopia
+70,530,1941,0,1,,Mexico,Ethiopia
+70,530,1942,0,1,,Mexico,Ethiopia
+70,530,1943,0,1,,Mexico,Ethiopia
+70,530,1944,0,1,,Mexico,Ethiopia
+70,530,1945,0,1,,Mexico,Ethiopia
+70,530,1946,0,1,,Mexico,Ethiopia
+70,530,1947,0,1,,Mexico,Ethiopia
+70,530,1948,0,1,,Mexico,Ethiopia
+70,530,1949,0,1000,Pesos,Mexico,Ethiopia
+70,540,1920,0,1,,Mexico,Angola
+70,540,1921,0,1,,Mexico,Angola
+70,540,1922,0,1,,Mexico,Angola
+70,540,1923,0,1,,Mexico,Angola
+70,540,1924,0,1,,Mexico,Angola
+70,540,1925,0,1,,Mexico,Angola
+70,540,1926,0,1,,Mexico,Angola
+70,540,1927,0,1,,Mexico,Angola
+70,540,1928,0,1,,Mexico,Angola
+70,540,1929,0,1,,Mexico,Angola
+70,540,1930,25,1,,Mexico,Angola
+70,540,1931,0,1,,Mexico,Angola
+70,540,1932,0,1,Pesos,Mexico,Angola
+70,540,1933,0,1,Pesos,Mexico,Angola
+70,540,1934,0,1,Pesos,Mexico,Angola
+70,540,1935,0,1,Pesos,Mexico,Angola
+70,540,1936,0,1,Pesos,Mexico,Angola
+70,540,1937,0,1,Pesos,Mexico,Angola
+70,540,1938,0,1,Pesos,Mexico,Angola
+70,540,1939,0,1,Pesos,Mexico,Angola
+70,540,1940,0,1,,Mexico,Angola
+70,540,1941,0,1,,Mexico,Angola
+70,540,1942,0,1,,Mexico,Angola
+70,540,1943,0,1,,Mexico,Angola
+70,540,1944,0,1,,Mexico,Angola
+70,540,1945,0,1,,Mexico,Angola
+70,540,1946,0,1,,Mexico,Angola
+70,540,1947,0,1,,Mexico,Angola
+70,540,1948,0,1,,Mexico,Angola
+70,540,1949,0,1000,Pesos,Mexico,Angola
+70,541,1920,0,1,,Mexico,Mozambique
+70,541,1921,0,1,,Mexico,Mozambique
+70,541,1922,0,1,,Mexico,Mozambique
+70,541,1923,0,1,,Mexico,Mozambique
+70,541,1924,0,1,,Mexico,Mozambique
+70,541,1925,0,1,,Mexico,Mozambique
+70,541,1926,0,1,,Mexico,Mozambique
+70,541,1927,0,1,,Mexico,Mozambique
+70,541,1928,0,1,,Mexico,Mozambique
+70,541,1929,0,1,,Mexico,Mozambique
+70,541,1930,0,1,,Mexico,Mozambique
+70,541,1931,0,1,,Mexico,Mozambique
+70,541,1932,69,1,Pesos,Mexico,Mozambique
+70,541,1933,1820,1,Pesos,Mexico,Mozambique
+70,541,1934,14,1,Pesos,Mexico,Mozambique
+70,541,1935,0,1,Pesos,Mexico,Mozambique
+70,541,1936,0,1,Pesos,Mexico,Mozambique
+70,541,1937,0,1,Pesos,Mexico,Mozambique
+70,541,1938,0,1,Pesos,Mexico,Mozambique
+70,541,1939,0,1,Pesos,Mexico,Mozambique
+70,541,1940,0,1,,Mexico,Mozambique
+70,541,1941,0,1,,Mexico,Mozambique
+70,541,1942,0,1,,Mexico,Mozambique
+70,541,1943,0,1,,Mexico,Mozambique
+70,541,1944,0,1,,Mexico,Mozambique
+70,541,1945,0,1,,Mexico,Mozambique
+70,541,1946,0,1,,Mexico,Mozambique
+70,541,1947,0,1,,Mexico,Mozambique
+70,541,1948,5919,1,,Mexico,Mozambique
+70,541,1949,0,1000,Pesos,Mexico,Mozambique
+70,560,1920,0,1,,Mexico,South Africa
+70,560,1921,0,1,,Mexico,South Africa
+70,560,1922,8837,1,,Mexico,South Africa
+70,560,1923,0,1,,Mexico,South Africa
+70,560,1924,0,1,,Mexico,South Africa
+70,560,1925,0,1,,Mexico,South Africa
+70,560,1926,130,1,,Mexico,South Africa
+70,560,1927,29,1,,Mexico,South Africa
+70,560,1928,329,1,,Mexico,South Africa
+70,560,1929,239,1,,Mexico,South Africa
+70,560,1930,339272,1,,Mexico,South Africa
+70,560,1931,507,1,,Mexico,South Africa
+70,560,1932,64,1,Pesos,Mexico,South Africa
+70,560,1933,14,1,Pesos,Mexico,South Africa
+70,560,1934,7,1,Pesos,Mexico,South Africa
+70,560,1935,0,1,Pesos,Mexico,South Africa
+70,560,1936,29,1,Pesos,Mexico,South Africa
+70,560,1937,163,1,Pesos,Mexico,South Africa
+70,560,1938,56,1,Pesos,Mexico,South Africa
+70,560,1939,960193,1,Pesos,Mexico,South Africa
+70,560,1940,826913,1,,Mexico,South Africa
+70,560,1941,63875,1,,Mexico,South Africa
+70,560,1942,17381,1,,Mexico,South Africa
+70,560,1943,316465,1,,Mexico,South Africa
+70,560,1944,246358,1,,Mexico,South Africa
+70,560,1945,886921,1,,Mexico,South Africa
+70,560,1946,2205721,1,,Mexico,South Africa
+70,560,1947,33111,1,,Mexico,South Africa
+70,560,1948,260412,1,,Mexico,South Africa
+70,560,1949,768,1000,Pesos,Mexico,South Africa
+70,580,1920,0,1,,Mexico,Madagascar
+70,580,1921,0,1,,Mexico,Madagascar
+70,580,1922,0,1,,Mexico,Madagascar
+70,580,1923,0,1,,Mexico,Madagascar
+70,580,1924,0,1,,Mexico,Madagascar
+70,580,1925,360,1,,Mexico,Madagascar
+70,580,1926,254,1,,Mexico,Madagascar
+70,580,1927,1419,1,,Mexico,Madagascar
+70,580,1928,147,1,,Mexico,Madagascar
+70,580,1929,731,1,,Mexico,Madagascar
+70,580,1930,0,1,,Mexico,Madagascar
+70,580,1931,1214,1,,Mexico,Madagascar
+70,580,1932,0,1,Pesos,Mexico,Madagascar
+70,580,1933,0,1,Pesos,Mexico,Madagascar
+70,580,1934,0,1,Pesos,Mexico,Madagascar
+70,580,1935,0,1,Pesos,Mexico,Madagascar
+70,580,1936,0,1,Pesos,Mexico,Madagascar
+70,580,1937,0,1,Pesos,Mexico,Madagascar
+70,580,1938,0,1,Pesos,Mexico,Madagascar
+70,580,1939,0,1,Pesos,Mexico,Madagascar
+70,580,1940,0,1,,Mexico,Madagascar
+70,580,1941,0,1,,Mexico,Madagascar
+70,580,1942,0,1,,Mexico,Madagascar
+70,580,1943,0,1,,Mexico,Madagascar
+70,580,1944,0,1,,Mexico,Madagascar
+70,580,1945,0,1,,Mexico,Madagascar
+70,580,1946,0,1,,Mexico,Madagascar
+70,580,1947,0,1,,Mexico,Madagascar
+70,580,1948,0,1,,Mexico,Madagascar
+70,580,1949,0,1000,Pesos,Mexico,Madagascar
+70,600,1920,4112,1,,Mexico,Morocco
+70,600,1921,940,1,,Mexico,Morocco
+70,600,1922,2408,1,,Mexico,Morocco
+70,600,1923,13493,1,,Mexico,Morocco
+70,600,1924,8297,1,,Mexico,Morocco
+70,600,1925,3908,1,,Mexico,Morocco
+70,600,1926,1903,1,,Mexico,Morocco
+70,600,1927,1602,1,,Mexico,Morocco
+70,600,1928,3509,1,,Mexico,Morocco
+70,600,1929,49792,1,,Mexico,Morocco
+70,600,1930,10004,1,,Mexico,Morocco
+70,600,1931,920,1,,Mexico,Morocco
+70,600,1932,0,1,Pesos,Mexico,Morocco
+70,600,1933,738,1,Pesos,Mexico,Morocco
+70,600,1934,1,1,Pesos,Mexico,Morocco
+70,600,1935,0,1,Pesos,Mexico,Morocco
+70,600,1936,0,1,Pesos,Mexico,Morocco
+70,600,1937,0,1,Pesos,Mexico,Morocco
+70,600,1938,3639,1,Pesos,Mexico,Morocco
+70,600,1939,13652,1,Pesos,Mexico,Morocco
+70,600,1940,5275,1,,Mexico,Morocco
+70,600,1941,0,1,,Mexico,Morocco
+70,600,1942,0,1,,Mexico,Morocco
+70,600,1943,0,1,,Mexico,Morocco
+70,600,1944,0,1,,Mexico,Morocco
+70,600,1945,0,1,,Mexico,Morocco
+70,600,1946,0,1,,Mexico,Morocco
+70,600,1947,25,1,,Mexico,Morocco
+70,600,1948,11521,1,,Mexico,Morocco
+70,600,1949,58,1000,Pesos,Mexico,Morocco
+70,602,1920,0,1,,Mexico,Spanish Morocco
+70,602,1921,0,1,,Mexico,Spanish Morocco
+70,602,1922,0,1,,Mexico,Spanish Morocco
+70,602,1923,0,1,,Mexico,Spanish Morocco
+70,602,1924,0,1,,Mexico,Spanish Morocco
+70,602,1925,0,1,,Mexico,Spanish Morocco
+70,602,1926,0,1,,Mexico,Spanish Morocco
+70,602,1927,0,1,,Mexico,Spanish Morocco
+70,602,1928,0,1,,Mexico,Spanish Morocco
+70,602,1929,0,1,,Mexico,Spanish Morocco
+70,602,1930,0,1,,Mexico,Spanish Morocco
+70,602,1931,0,1,,Mexico,Spanish Morocco
+70,602,1932,0,1,Pesos,Mexico,Spanish Morocco
+70,602,1933,263,1,Pesos,Mexico,Spanish Morocco
+70,602,1934,10,1,Pesos,Mexico,Spanish Morocco
+70,602,1935,2509,1,Pesos,Mexico,Spanish Morocco
+70,602,1936,23,1,Pesos,Mexico,Spanish Morocco
+70,602,1937,84,1,Pesos,Mexico,Spanish Morocco
+70,602,1938,3,1,Pesos,Mexico,Spanish Morocco
+70,602,1939,1850,1,Pesos,Mexico,Spanish Morocco
+70,602,1940,0,1,,Mexico,Spanish Morocco
+70,602,1941,0,1,,Mexico,Spanish Morocco
+70,602,1942,0,1,,Mexico,Spanish Morocco
+70,602,1943,0,1,,Mexico,Spanish Morocco
+70,602,1944,0,1,,Mexico,Spanish Morocco
+70,602,1945,0,1,,Mexico,Spanish Morocco
+70,602,1946,0,1,,Mexico,Spanish Morocco
+70,602,1947,0,1,,Mexico,Spanish Morocco
+70,602,1948,42,1,,Mexico,Spanish Morocco
+70,602,1949,24,1000,Pesos,Mexico,Spanish Morocco
+70,620,1920,0,1,,Mexico,Libya
+70,620,1921,0,1,,Mexico,Libya
+70,620,1922,0,1,,Mexico,Libya
+70,620,1923,0,1,,Mexico,Libya
+70,620,1924,0,1,,Mexico,Libya
+70,620,1925,0,1,,Mexico,Libya
+70,620,1926,0,1,,Mexico,Libya
+70,620,1927,0,1,,Mexico,Libya
+70,620,1928,0,1,,Mexico,Libya
+70,620,1929,0,1,,Mexico,Libya
+70,620,1930,0,1,,Mexico,Libya
+70,620,1931,0,1,,Mexico,Libya
+70,620,1932,0,1,Pesos,Mexico,Libya
+70,620,1933,0,1,Pesos,Mexico,Libya
+70,620,1934,0,1,Pesos,Mexico,Libya
+70,620,1935,0,1,Pesos,Mexico,Libya
+70,620,1936,0,1,Pesos,Mexico,Libya
+70,620,1937,3,1,Pesos,Mexico,Libya
+70,620,1938,215,1,Pesos,Mexico,Libya
+70,620,1939,10,1,Pesos,Mexico,Libya
+70,620,1940,0,1,,Mexico,Libya
+70,620,1941,0,1,,Mexico,Libya
+70,620,1942,0,1,,Mexico,Libya
+70,620,1943,0,1,,Mexico,Libya
+70,620,1944,0,1,,Mexico,Libya
+70,620,1945,0,1,,Mexico,Libya
+70,620,1946,0,1,,Mexico,Libya
+70,620,1947,2072,1,,Mexico,Libya
+70,620,1948,0,1,,Mexico,Libya
+70,620,1949,0,1000,Pesos,Mexico,Libya
+70,630,1920,8588,1,,Mexico,Iran
+70,630,1921,12537,1,,Mexico,Iran
+70,630,1922,28431,1,,Mexico,Iran
+70,630,1923,23526,1,,Mexico,Iran
+70,630,1924,37031,1,,Mexico,Iran
+70,630,1925,64990,1,,Mexico,Iran
+70,630,1926,75953,1,,Mexico,Iran
+70,630,1927,82299,1,,Mexico,Iran
+70,630,1928,83918,1,,Mexico,Iran
+70,630,1929,80391,1,,Mexico,Iran
+70,630,1930,4163,1,,Mexico,Iran
+70,630,1931,1610,1,,Mexico,Iran
+70,630,1932,1900,1,Pesos,Mexico,Iran
+70,630,1933,4712,1,Pesos,Mexico,Iran
+70,630,1934,1,1,Pesos,Mexico,Iran
+70,630,1935,1358,1,Pesos,Mexico,Iran
+70,630,1936,6730,1,Pesos,Mexico,Iran
+70,630,1937,11147,1,Pesos,Mexico,Iran
+70,630,1938,480,1,Pesos,Mexico,Iran
+70,630,1939,448,1,Pesos,Mexico,Iran
+70,630,1940,1244,1,,Mexico,Iran
+70,630,1941,7956,1,,Mexico,Iran
+70,630,1942,0,1,,Mexico,Iran
+70,630,1943,0,1,,Mexico,Iran
+70,630,1944,0,1,,Mexico,Iran
+70,630,1945,32556,1,,Mexico,Iran
+70,630,1946,289369,1,,Mexico,Iran
+70,630,1947,194236,1,,Mexico,Iran
+70,630,1948,6490,1,,Mexico,Iran
+70,630,1949,0,1000,Pesos,Mexico,Iran
+70,640,1920,8094,1,,Mexico,Turkey
+70,640,1921,35298,1,,Mexico,Turkey
+70,640,1922,10626,1,,Mexico,Turkey
+70,640,1923,14959,1,,Mexico,Turkey
+70,640,1924,13334,1,,Mexico,Turkey
+70,640,1925,18170,1,,Mexico,Turkey
+70,640,1926,25403,1,,Mexico,Turkey
+70,640,1927,19839,1,,Mexico,Turkey
+70,640,1928,26386,1,,Mexico,Turkey
+70,640,1929,13260,1,,Mexico,Turkey
+70,640,1930,25290,1,,Mexico,Turkey
+70,640,1931,2351,1,,Mexico,Turkey
+70,640,1932,332,1,Pesos,Mexico,Turkey
+70,640,1933,2472,1,Pesos,Mexico,Turkey
+70,640,1934,6797,1,Pesos,Mexico,Turkey
+70,640,1935,4083,1,Pesos,Mexico,Turkey
+70,640,1936,3490,1,Pesos,Mexico,Turkey
+70,640,1937,2559,1,Pesos,Mexico,Turkey
+70,640,1938,8517,1,Pesos,Mexico,Turkey
+70,640,1939,5362,1,Pesos,Mexico,Turkey
+70,640,1940,24,1,,Mexico,Turkey
+70,640,1941,0,1,,Mexico,Turkey
+70,640,1942,0,1,,Mexico,Turkey
+70,640,1943,0,1,,Mexico,Turkey
+70,640,1944,22,1,,Mexico,Turkey
+70,640,1945,777,1,,Mexico,Turkey
+70,640,1946,13,1,,Mexico,Turkey
+70,640,1947,158833,1,,Mexico,Turkey
+70,640,1948,149598,1,,Mexico,Turkey
+70,640,1949,0,1000,Pesos,Mexico,Turkey
+70,645,1920,0,1,,Mexico,Iraq
+70,645,1921,0,1,,Mexico,Iraq
+70,645,1922,0,1,,Mexico,Iraq
+70,645,1923,0,1,,Mexico,Iraq
+70,645,1924,0,1,,Mexico,Iraq
+70,645,1925,0,1,,Mexico,Iraq
+70,645,1926,0,1,,Mexico,Iraq
+70,645,1927,0,1,,Mexico,Iraq
+70,645,1928,0,1,,Mexico,Iraq
+70,645,1929,0,1,,Mexico,Iraq
+70,645,1930,0,1,,Mexico,Iraq
+70,645,1931,0,1,,Mexico,Iraq
+70,645,1932,0,1,Pesos,Mexico,Iraq
+70,645,1933,0,1,Pesos,Mexico,Iraq
+70,645,1934,0,1,Pesos,Mexico,Iraq
+70,645,1935,0,1,Pesos,Mexico,Iraq
+70,645,1936,0,1,Pesos,Mexico,Iraq
+70,645,1937,3,1,Pesos,Mexico,Iraq
+70,645,1938,1231,1,Pesos,Mexico,Iraq
+70,645,1939,5,1,Pesos,Mexico,Iraq
+70,645,1940,0,1,,Mexico,Iraq
+70,645,1941,0,1,,Mexico,Iraq
+70,645,1942,0,1,,Mexico,Iraq
+70,645,1943,0,1,,Mexico,Iraq
+70,645,1944,0,1,,Mexico,Iraq
+70,645,1945,0,1,,Mexico,Iraq
+70,645,1946,0,1,,Mexico,Iraq
+70,645,1947,197022,1,,Mexico,Iraq
+70,645,1948,13660,1,,Mexico,Iraq
+70,645,1949,0,1000,Pesos,Mexico,Iraq
+70,651,1920,167234,1,,Mexico,Egypt
+70,651,1921,144147,1,,Mexico,Egypt
+70,651,1922,145245,1,,Mexico,Egypt
+70,651,1923,228906,1,,Mexico,Egypt
+70,651,1924,19311,1,,Mexico,Egypt
+70,651,1925,170689,1,,Mexico,Egypt
+70,651,1926,155515,1,,Mexico,Egypt
+70,651,1927,140939,1,,Mexico,Egypt
+70,651,1928,161330,1,,Mexico,Egypt
+70,651,1929,48938,1,,Mexico,Egypt
+70,651,1930,6302,1,,Mexico,Egypt
+70,651,1931,342,1,,Mexico,Egypt
+70,651,1932,2351,1,Pesos,Mexico,Egypt
+70,651,1933,207104,1,Pesos,Mexico,Egypt
+70,651,1934,194974,1,Pesos,Mexico,Egypt
+70,651,1935,156980,1,Pesos,Mexico,Egypt
+70,651,1936,254432,1,Pesos,Mexico,Egypt
+70,651,1937,693030,1,Pesos,Mexico,Egypt
+70,651,1938,619805,1,Pesos,Mexico,Egypt
+70,651,1939,1140699,1,Pesos,Mexico,Egypt
+70,651,1940,384359,1,,Mexico,Egypt
+70,651,1941,449400,1,,Mexico,Egypt
+70,651,1942,173509,1,,Mexico,Egypt
+70,651,1943,316243,1,,Mexico,Egypt
+70,651,1944,20,1,,Mexico,Egypt
+70,651,1945,10,1,,Mexico,Egypt
+70,651,1946,24659,1,,Mexico,Egypt
+70,651,1947,581239,1,,Mexico,Egypt
+70,651,1948,576,1,,Mexico,Egypt
+70,651,1949,2536,1000,Pesos,Mexico,Egypt
+70,652,1920,0,1,,Mexico,Syria
+70,652,1921,0,1,,Mexico,Syria
+70,652,1922,12519,1,,Mexico,Syria
+70,652,1923,9130,1,,Mexico,Syria
+70,652,1924,17301,1,,Mexico,Syria
+70,652,1925,20210,1,,Mexico,Syria
+70,652,1926,17829,1,,Mexico,Syria
+70,652,1927,30590,1,,Mexico,Syria
+70,652,1928,35415,1,,Mexico,Syria
+70,652,1929,22820,1,,Mexico,Syria
+70,652,1930,39149,1,,Mexico,Syria
+70,652,1931,36151,1,,Mexico,Syria
+70,652,1932,20350,1,Pesos,Mexico,Syria
+70,652,1933,11372,1,Pesos,Mexico,Syria
+70,652,1934,13138,1,Pesos,Mexico,Syria
+70,652,1935,19864,1,Pesos,Mexico,Syria
+70,652,1936,21125,1,Pesos,Mexico,Syria
+70,652,1937,22096,1,Pesos,Mexico,Syria
+70,652,1938,52003,1,Pesos,Mexico,Syria
+70,652,1939,18214,1,Pesos,Mexico,Syria
+70,652,1940,34780,1,,Mexico,Syria
+70,652,1941,0,1,,Mexico,Syria
+70,652,1942,0,1,,Mexico,Syria
+70,652,1943,0,1,,Mexico,Syria
+70,652,1944,7,1,,Mexico,Syria
+70,652,1945,40,1,,Mexico,Syria
+70,652,1946,88814,1,,Mexico,Syria
+70,652,1947,179301,1,,Mexico,Syria
+70,652,1948,5381,1,,Mexico,Syria
+70,652,1949,3,1000,Pesos,Mexico,Syria
+70,660,1920,0,1,,Mexico,Lebanon
+70,660,1921,0,1,,Mexico,Lebanon
+70,660,1922,0,1,,Mexico,Lebanon
+70,660,1923,0,1,,Mexico,Lebanon
+70,660,1924,0,1,,Mexico,Lebanon
+70,660,1925,0,1,,Mexico,Lebanon
+70,660,1926,0,1,,Mexico,Lebanon
+70,660,1927,0,1,,Mexico,Lebanon
+70,660,1928,0,1,,Mexico,Lebanon
+70,660,1929,0,1,,Mexico,Lebanon
+70,660,1930,0,1,,Mexico,Lebanon
+70,660,1931,0,1,,Mexico,Lebanon
+70,660,1932,0,1,Pesos,Mexico,Lebanon
+70,660,1933,0,1,Pesos,Mexico,Lebanon
+70,660,1934,0,1,Pesos,Mexico,Lebanon
+70,660,1935,0,1,Pesos,Mexico,Lebanon
+70,660,1936,0,1,Pesos,Mexico,Lebanon
+70,660,1937,0,1,Pesos,Mexico,Lebanon
+70,660,1938,0,1,Pesos,Mexico,Lebanon
+70,660,1939,0,1,Pesos,Mexico,Lebanon
+70,660,1940,0,1,,Mexico,Lebanon
+70,660,1941,0,1,,Mexico,Lebanon
+70,660,1942,0,1,,Mexico,Lebanon
+70,660,1943,0,1,,Mexico,Lebanon
+70,660,1944,0,1,,Mexico,Lebanon
+70,660,1945,0,1,,Mexico,Lebanon
+70,660,1946,0,1,,Mexico,Lebanon
+70,660,1947,89976,1,,Mexico,Lebanon
+70,660,1948,18088,1,,Mexico,Lebanon
+70,660,1949,91,1000,Pesos,Mexico,Lebanon
+70,665,1920,0,1,,Mexico,West Bank And Gaza
+70,665,1921,0,1,,Mexico,West Bank And Gaza
+70,665,1922,0,1,,Mexico,West Bank And Gaza
+70,665,1923,0,1,,Mexico,West Bank And Gaza
+70,665,1924,552,1,,Mexico,West Bank And Gaza
+70,665,1925,0,1,,Mexico,West Bank And Gaza
+70,665,1926,0,1,,Mexico,West Bank And Gaza
+70,665,1927,0,1,,Mexico,West Bank And Gaza
+70,665,1928,0,1,,Mexico,West Bank And Gaza
+70,665,1929,0,1,,Mexico,West Bank And Gaza
+70,665,1930,0,1,,Mexico,West Bank And Gaza
+70,665,1931,0,1,,Mexico,West Bank And Gaza
+70,665,1932,2396,1,Pesos,Mexico,West Bank And Gaza
+70,665,1933,618,1,Pesos,Mexico,West Bank And Gaza
+70,665,1934,8528,1,Pesos,Mexico,West Bank And Gaza
+70,665,1935,22003,1,Pesos,Mexico,West Bank And Gaza
+70,665,1936,13343,1,Pesos,Mexico,West Bank And Gaza
+70,665,1937,10203,1,Pesos,Mexico,West Bank And Gaza
+70,665,1938,22942,1,Pesos,Mexico,West Bank And Gaza
+70,665,1939,13872,1,Pesos,Mexico,West Bank And Gaza
+70,665,1940,6396,1,,Mexico,West Bank And Gaza
+70,665,1941,938,1,,Mexico,West Bank And Gaza
+70,665,1942,3237,1,,Mexico,West Bank And Gaza
+70,665,1943,0,1,,Mexico,West Bank And Gaza
+70,665,1944,12564,1,,Mexico,West Bank And Gaza
+70,665,1945,173672,1,,Mexico,West Bank And Gaza
+70,665,1946,0,1,,Mexico,West Bank And Gaza
+70,665,1947,52814,1,,Mexico,West Bank And Gaza
+70,665,1948,4062,1,,Mexico,West Bank And Gaza
+70,665,1949,0,1000,Pesos,Mexico,West Bank And Gaza
+70,666,1920,0,1,,Mexico,Israel
+70,666,1921,0,1,,Mexico,Israel
+70,666,1922,0,1,,Mexico,Israel
+70,666,1923,0,1,,Mexico,Israel
+70,666,1924,0,1,,Mexico,Israel
+70,666,1925,0,1,,Mexico,Israel
+70,666,1926,0,1,,Mexico,Israel
+70,666,1927,0,1,,Mexico,Israel
+70,666,1928,0,1,,Mexico,Israel
+70,666,1929,0,1,,Mexico,Israel
+70,666,1930,0,1,,Mexico,Israel
+70,666,1931,0,1,,Mexico,Israel
+70,666,1932,0,1,Pesos,Mexico,Israel
+70,666,1933,0,1,Pesos,Mexico,Israel
+70,666,1934,0,1,Pesos,Mexico,Israel
+70,666,1935,0,1,Pesos,Mexico,Israel
+70,666,1936,0,1,Pesos,Mexico,Israel
+70,666,1937,0,1,Pesos,Mexico,Israel
+70,666,1938,0,1,Pesos,Mexico,Israel
+70,666,1939,0,1,Pesos,Mexico,Israel
+70,666,1940,0,1,,Mexico,Israel
+70,666,1941,0,1,,Mexico,Israel
+70,666,1942,0,1,,Mexico,Israel
+70,666,1943,0,1,,Mexico,Israel
+70,666,1944,0,1,,Mexico,Israel
+70,666,1945,0,1,,Mexico,Israel
+70,666,1946,0,1,,Mexico,Israel
+70,666,1947,0,1,,Mexico,Israel
+70,666,1948,0,1,,Mexico,Israel
+70,666,1949,4,1000,Pesos,Mexico,Israel
+70,675,1920,23992,1,,Mexico,Arabia
+70,675,1921,2889,1,,Mexico,Arabia
+70,675,1922,31360,1,,Mexico,Arabia
+70,675,1923,8684,1,,Mexico,Arabia
+70,675,1924,648,1,,Mexico,Arabia
+70,675,1925,1543,1,,Mexico,Arabia
+70,675,1926,7423,1,,Mexico,Arabia
+70,675,1927,6622,1,,Mexico,Arabia
+70,675,1928,57796,1,,Mexico,Arabia
+70,675,1929,1180,1,,Mexico,Arabia
+70,675,1930,2201,1,,Mexico,Arabia
+70,675,1931,2775,1,,Mexico,Arabia
+70,675,1932,17,1,Pesos,Mexico,Arabia
+70,675,1933,322,1,Pesos,Mexico,Arabia
+70,675,1934,9448,1,Pesos,Mexico,Arabia
+70,675,1935,1815,1,Pesos,Mexico,Arabia
+70,675,1936,679,1,Pesos,Mexico,Arabia
+70,675,1937,1548,1,Pesos,Mexico,Arabia
+70,675,1938,0,1,Pesos,Mexico,Arabia
+70,675,1939,1112,1,Pesos,Mexico,Arabia
+70,675,1940,5327,1,,Mexico,Arabia
+70,675,1941,374,1,,Mexico,Arabia
+70,675,1942,0,1,,Mexico,Arabia
+70,675,1943,0,1,,Mexico,Arabia
+70,675,1944,0,1,,Mexico,Arabia
+70,675,1945,0,1,,Mexico,Arabia
+70,675,1946,0,1,,Mexico,Arabia
+70,675,1947,598,1,,Mexico,Arabia
+70,675,1948,12,1,,Mexico,Arabia
+70,675,1949,0,1000,Pesos,Mexico,Arabia
+70,710,1920,362276,1,,Mexico,China
+70,710,1921,446548,1,,Mexico,China
+70,710,1922,382591,1,,Mexico,China
+70,710,1923,551496,1,,Mexico,China
+70,710,1924,431149,1,,Mexico,China
+70,710,1925,833050,1,,Mexico,China
+70,710,1926,836786,1,,Mexico,China
+70,710,1927,431187,1,,Mexico,China
+70,710,1928,415478,1,,Mexico,China
+70,710,1929,373871,1,,Mexico,China
+70,710,1930,223056,1,,Mexico,China
+70,710,1931,471554,1,,Mexico,China
+70,710,1932,67267,1,Pesos,Mexico,China
+70,710,1933,148419,1,Pesos,Mexico,China
+70,710,1934,260816,1,Pesos,Mexico,China
+70,710,1935,199912,1,Pesos,Mexico,China
+70,710,1936,205080,1,Pesos,Mexico,China
+70,710,1937,375452,1,Pesos,Mexico,China
+70,710,1938,428774,1,Pesos,Mexico,China
+70,710,1939,610311,1,Pesos,Mexico,China
+70,710,1940,1129798,1,,Mexico,China
+70,710,1941,1242554,1,,Mexico,China
+70,710,1942,91116,1,,Mexico,China
+70,710,1943,100,1,,Mexico,China
+70,710,1944,0,1,,Mexico,China
+70,710,1945,22,1,,Mexico,China
+70,710,1946,545435,1,,Mexico,China
+70,710,1947,1738956,1,,Mexico,China
+70,710,1948,2144537,1,,Mexico,China
+70,710,1949,1810,1000,Pesos,Mexico,China
+70,711,1920,0,1,,Mexico,Manchukuo
+70,711,1921,0,1,,Mexico,Manchukuo
+70,711,1922,0,1,,Mexico,Manchukuo
+70,711,1923,0,1,,Mexico,Manchukuo
+70,711,1924,0,1,,Mexico,Manchukuo
+70,711,1925,0,1,,Mexico,Manchukuo
+70,711,1926,0,1,,Mexico,Manchukuo
+70,711,1927,0,1,,Mexico,Manchukuo
+70,711,1928,0,1,,Mexico,Manchukuo
+70,711,1929,0,1,,Mexico,Manchukuo
+70,711,1930,0,1,,Mexico,Manchukuo
+70,711,1931,0,1,,Mexico,Manchukuo
+70,711,1932,0,1,Pesos,Mexico,Manchukuo
+70,711,1933,0,1,Pesos,Mexico,Manchukuo
+70,711,1934,0,1,Pesos,Mexico,Manchukuo
+70,711,1935,0,1,Pesos,Mexico,Manchukuo
+70,711,1936,2831,1,Pesos,Mexico,Manchukuo
+70,711,1937,0,1,Pesos,Mexico,Manchukuo
+70,711,1938,396,1,Pesos,Mexico,Manchukuo
+70,711,1939,0,1,Pesos,Mexico,Manchukuo
+70,711,1940,3,1,,Mexico,Manchukuo
+70,711,1941,0,1,,Mexico,Manchukuo
+70,711,1942,0,1,,Mexico,Manchukuo
+70,711,1943,0,1,,Mexico,Manchukuo
+70,711,1944,0,1,,Mexico,Manchukuo
+70,711,1945,0,1,,Mexico,Manchukuo
+70,711,1946,0,1,,Mexico,Manchukuo
+70,711,1947,0,1,,Mexico,Manchukuo
+70,711,1948,0,1,,Mexico,Manchukuo
+70,711,1949,0,1000,Pesos,Mexico,Manchukuo
+70,740,1920,1658920,1,,Mexico,Japan
+70,740,1921,1092826,1,,Mexico,Japan
+70,740,1922,633348,1,,Mexico,Japan
+70,740,1923,733679,1,,Mexico,Japan
+70,740,1924,713726,1,,Mexico,Japan
+70,740,1925,1494096,1,,Mexico,Japan
+70,740,1926,1180619,1,,Mexico,Japan
+70,740,1927,1295534,1,,Mexico,Japan
+70,740,1928,1481707,1,,Mexico,Japan
+70,740,1929,1386718,1,,Mexico,Japan
+70,740,1930,1095153,1,,Mexico,Japan
+70,740,1931,1025874,1,,Mexico,Japan
+70,740,1932,650412,1,Pesos,Mexico,Japan
+70,740,1933,1481974,1,Pesos,Mexico,Japan
+70,740,1934,3028045,1,Pesos,Mexico,Japan
+70,740,1935,4901679,1,Pesos,Mexico,Japan
+70,740,1936,7324816,1,Pesos,Mexico,Japan
+70,740,1937,10769016,1,Pesos,Mexico,Japan
+70,740,1938,8770669,1,Pesos,Mexico,Japan
+70,740,1939,7268499,1,Pesos,Mexico,Japan
+70,740,1940,17512204,1,,Mexico,Japan
+70,740,1941,25372217,1,,Mexico,Japan
+70,740,1942,1056996,1,,Mexico,Japan
+70,740,1943,2874,1,,Mexico,Japan
+70,740,1944,0,1,,Mexico,Japan
+70,740,1945,0,1,,Mexico,Japan
+70,740,1946,18,1,,Mexico,Japan
+70,740,1947,2490,1,,Mexico,Japan
+70,740,1948,175950,1,,Mexico,Japan
+70,740,1949,2527,1000,Pesos,Mexico,Japan
+70,750,1920,3119909,1,,Mexico,India
+70,750,1921,848837,1,,Mexico,India
+70,750,1922,1249330,1,,Mexico,India
+70,750,1923,1319301,1,,Mexico,India
+70,750,1924,1172800,1,,Mexico,India
+70,750,1925,2060704,1,,Mexico,India
+70,750,1926,2155078,1,,Mexico,India
+70,750,1927,1522983,1,,Mexico,India
+70,750,1928,1512021,1,,Mexico,India
+70,750,1929,1413448,1,,Mexico,India
+70,750,1930,586083,1,,Mexico,India
+70,750,1931,104576,1,,Mexico,India
+70,750,1932,12822,1,Pesos,Mexico,India
+70,750,1933,158082,1,Pesos,Mexico,India
+70,750,1934,82597,1,Pesos,Mexico,India
+70,750,1935,397028,1,Pesos,Mexico,India
+70,750,1936,738723,1,Pesos,Mexico,India
+70,750,1937,676442,1,Pesos,Mexico,India
+70,750,1938,81521,1,Pesos,Mexico,India
+70,750,1939,148490,1,Pesos,Mexico,India
+70,750,1940,61053,1,,Mexico,India
+70,750,1941,17125,1,,Mexico,India
+70,750,1942,5134,1,,Mexico,India
+70,750,1943,3536,1,,Mexico,India
+70,750,1944,42793,1,,Mexico,India
+70,750,1945,113071,1,,Mexico,India
+70,750,1946,122869,1,,Mexico,India
+70,750,1947,2448451,1,,Mexico,India
+70,750,1948,424036,1,,Mexico,India
+70,750,1949,247,1000,Pesos,Mexico,India
+70,770,1920,0,1,,Mexico,Pakistan
+70,770,1921,0,1,,Mexico,Pakistan
+70,770,1922,0,1,,Mexico,Pakistan
+70,770,1923,0,1,,Mexico,Pakistan
+70,770,1924,0,1,,Mexico,Pakistan
+70,770,1925,0,1,,Mexico,Pakistan
+70,770,1926,0,1,,Mexico,Pakistan
+70,770,1927,0,1,,Mexico,Pakistan
+70,770,1928,0,1,,Mexico,Pakistan
+70,770,1929,0,1,,Mexico,Pakistan
+70,770,1930,0,1,,Mexico,Pakistan
+70,770,1931,0,1,,Mexico,Pakistan
+70,770,1932,0,1,Pesos,Mexico,Pakistan
+70,770,1933,0,1,Pesos,Mexico,Pakistan
+70,770,1934,0,1,Pesos,Mexico,Pakistan
+70,770,1935,0,1,Pesos,Mexico,Pakistan
+70,770,1936,0,1,Pesos,Mexico,Pakistan
+70,770,1937,0,1,Pesos,Mexico,Pakistan
+70,770,1938,0,1,Pesos,Mexico,Pakistan
+70,770,1939,0,1,Pesos,Mexico,Pakistan
+70,770,1940,0,1,,Mexico,Pakistan
+70,770,1941,0,1,,Mexico,Pakistan
+70,770,1942,0,1,,Mexico,Pakistan
+70,770,1943,0,1,,Mexico,Pakistan
+70,770,1944,0,1,,Mexico,Pakistan
+70,770,1945,0,1,,Mexico,Pakistan
+70,770,1946,0,1,,Mexico,Pakistan
+70,770,1947,0,1,,Mexico,Pakistan
+70,770,1948,0,1,,Mexico,Pakistan
+70,770,1949,0,1000,Pesos,Mexico,Pakistan
+70,780,1920,337,1,,Mexico,Sri Lanka
+70,780,1921,510,1,,Mexico,Sri Lanka
+70,780,1922,110425,1,,Mexico,Sri Lanka
+70,780,1923,71956,1,,Mexico,Sri Lanka
+70,780,1924,330206,1,,Mexico,Sri Lanka
+70,780,1925,403447,1,,Mexico,Sri Lanka
+70,780,1926,1093789,1,,Mexico,Sri Lanka
+70,780,1927,1355022,1,,Mexico,Sri Lanka
+70,780,1928,1443399,1,,Mexico,Sri Lanka
+70,780,1929,1190133,1,,Mexico,Sri Lanka
+70,780,1930,367880,1,,Mexico,Sri Lanka
+70,780,1931,360114,1,,Mexico,Sri Lanka
+70,780,1932,369265,1,Pesos,Mexico,Sri Lanka
+70,780,1933,593132,1,Pesos,Mexico,Sri Lanka
+70,780,1934,1219823,1,Pesos,Mexico,Sri Lanka
+70,780,1935,561770,1,Pesos,Mexico,Sri Lanka
+70,780,1936,261527,1,Pesos,Mexico,Sri Lanka
+70,780,1937,410336,1,Pesos,Mexico,Sri Lanka
+70,780,1938,255260,1,Pesos,Mexico,Sri Lanka
+70,780,1939,166015,1,Pesos,Mexico,Sri Lanka
+70,780,1940,185973,1,,Mexico,Sri Lanka
+70,780,1941,208292,1,,Mexico,Sri Lanka
+70,780,1942,172880,1,,Mexico,Sri Lanka
+70,780,1943,0,1,,Mexico,Sri Lanka
+70,780,1944,14416,1,,Mexico,Sri Lanka
+70,780,1945,77393,1,,Mexico,Sri Lanka
+70,780,1946,264684,1,,Mexico,Sri Lanka
+70,780,1947,900660,1,,Mexico,Sri Lanka
+70,780,1948,1290579,1,,Mexico,Sri Lanka
+70,780,1949,4484,1000,Pesos,Mexico,Sri Lanka
+70,800,1920,0,1,,Mexico,Thailand
+70,800,1921,0,1,,Mexico,Thailand
+70,800,1922,8,1,,Mexico,Thailand
+70,800,1923,156,1,,Mexico,Thailand
+70,800,1924,6904,1,,Mexico,Thailand
+70,800,1925,502,1,,Mexico,Thailand
+70,800,1926,237,1,,Mexico,Thailand
+70,800,1927,309,1,,Mexico,Thailand
+70,800,1928,31,1,,Mexico,Thailand
+70,800,1929,1786,1,,Mexico,Thailand
+70,800,1930,430,1,,Mexico,Thailand
+70,800,1931,100,1,,Mexico,Thailand
+70,800,1932,15,1,Pesos,Mexico,Thailand
+70,800,1933,1,1,Pesos,Mexico,Thailand
+70,800,1934,0,1,Pesos,Mexico,Thailand
+70,800,1935,7,1,Pesos,Mexico,Thailand
+70,800,1936,0,1,Pesos,Mexico,Thailand
+70,800,1937,0,1,Pesos,Mexico,Thailand
+70,800,1938,2,1,Pesos,Mexico,Thailand
+70,800,1939,90,1,Pesos,Mexico,Thailand
+70,800,1940,0,1,,Mexico,Thailand
+70,800,1941,0,1,,Mexico,Thailand
+70,800,1942,0,1,,Mexico,Thailand
+70,800,1943,0,1,,Mexico,Thailand
+70,800,1944,0,1,,Mexico,Thailand
+70,800,1945,0,1,,Mexico,Thailand
+70,800,1946,0,1,,Mexico,Thailand
+70,800,1947,6902,1,,Mexico,Thailand
+70,800,1948,14238,1,,Mexico,Thailand
+70,800,1949,290,1000,Pesos,Mexico,Thailand
+70,810,1920,1821,1,,Mexico,French Indo-China
+70,810,1921,11457,1,,Mexico,French Indo-China
+70,810,1922,6474,1,,Mexico,French Indo-China
+70,810,1923,0,1,,Mexico,French Indo-China
+70,810,1924,582,1,,Mexico,French Indo-China
+70,810,1925,369,1,,Mexico,French Indo-China
+70,810,1926,226,1,,Mexico,French Indo-China
+70,810,1927,5020,1,,Mexico,French Indo-China
+70,810,1928,371,1,,Mexico,French Indo-China
+70,810,1929,1999,1,,Mexico,French Indo-China
+70,810,1930,5660,1,,Mexico,French Indo-China
+70,810,1931,485,1,,Mexico,French Indo-China
+70,810,1932,49,1,Pesos,Mexico,French Indo-China
+70,810,1933,2,1,Pesos,Mexico,French Indo-China
+70,810,1934,10,1,Pesos,Mexico,French Indo-China
+70,810,1935,5,1,Pesos,Mexico,French Indo-China
+70,810,1936,106925,1,Pesos,Mexico,French Indo-China
+70,810,1937,3315,1,Pesos,Mexico,French Indo-China
+70,810,1938,0,1,Pesos,Mexico,French Indo-China
+70,810,1939,1840,1,Pesos,Mexico,French Indo-China
+70,810,1940,10,1,,Mexico,French Indo-China
+70,810,1941,0,1,,Mexico,French Indo-China
+70,810,1942,0,1,,Mexico,French Indo-China
+70,810,1943,0,1,,Mexico,French Indo-China
+70,810,1944,0,1,,Mexico,French Indo-China
+70,810,1945,0,1,,Mexico,French Indo-China
+70,810,1946,0,1,,Mexico,French Indo-China
+70,810,1947,0,1,,Mexico,French Indo-China
+70,810,1948,0,1,,Mexico,French Indo-China
+70,810,1949,5,1000,Pesos,Mexico,French Indo-China
+70,827,1920,0,1,,Mexico,Straits Settlement
+70,827,1921,0,1,,Mexico,Straits Settlement
+70,827,1922,7596,1,,Mexico,Straits Settlement
+70,827,1923,4443,1,,Mexico,Straits Settlement
+70,827,1924,1157,1,,Mexico,Straits Settlement
+70,827,1925,3688,1,,Mexico,Straits Settlement
+70,827,1926,62004,1,,Mexico,Straits Settlement
+70,827,1927,29782,1,,Mexico,Straits Settlement
+70,827,1928,80502,1,,Mexico,Straits Settlement
+70,827,1929,70939,1,,Mexico,Straits Settlement
+70,827,1930,34756,1,,Mexico,Straits Settlement
+70,827,1931,522,1,,Mexico,Straits Settlement
+70,827,1932,0,1,Pesos,Mexico,Straits Settlement
+70,827,1933,77812,1,Pesos,Mexico,Straits Settlement
+70,827,1934,143966,1,Pesos,Mexico,Straits Settlement
+70,827,1935,0,1,Pesos,Mexico,Straits Settlement
+70,827,1936,241,1,Pesos,Mexico,Straits Settlement
+70,827,1937,420,1,Pesos,Mexico,Straits Settlement
+70,827,1938,2516,1,Pesos,Mexico,Straits Settlement
+70,827,1939,153,1,Pesos,Mexico,Straits Settlement
+70,827,1940,0,1,,Mexico,Straits Settlement
+70,827,1941,273988,1,,Mexico,Straits Settlement
+70,827,1942,0,1,,Mexico,Straits Settlement
+70,827,1943,0,1,,Mexico,Straits Settlement
+70,827,1944,0,1,,Mexico,Straits Settlement
+70,827,1945,0,1,,Mexico,Straits Settlement
+70,827,1946,0,1,,Mexico,Straits Settlement
+70,827,1947,5515375,1,,Mexico,Straits Settlement
+70,827,1948,18152169,1,,Mexico,Straits Settlement
+70,827,1949,14608,1000,Pesos,Mexico,Straits Settlement
+70,840,1920,0,1,,Mexico,Philippines
+70,840,1921,0,1,,Mexico,Philippines
+70,840,1922,739,1,,Mexico,Philippines
+70,840,1923,112,1,,Mexico,Philippines
+70,840,1924,5453,1,,Mexico,Philippines
+70,840,1925,2367,1,,Mexico,Philippines
+70,840,1926,1015,1,,Mexico,Philippines
+70,840,1927,91773,1,,Mexico,Philippines
+70,840,1928,24558,1,,Mexico,Philippines
+70,840,1929,83,1,,Mexico,Philippines
+70,840,1930,35,1,,Mexico,Philippines
+70,840,1931,16,1,,Mexico,Philippines
+70,840,1932,5,1,Pesos,Mexico,Philippines
+70,840,1933,395760,1,Pesos,Mexico,Philippines
+70,840,1934,1565996,1,Pesos,Mexico,Philippines
+70,840,1935,376579,1,Pesos,Mexico,Philippines
+70,840,1936,1336,1,Pesos,Mexico,Philippines
+70,840,1937,171,1,Pesos,Mexico,Philippines
+70,840,1938,253077,1,Pesos,Mexico,Philippines
+70,840,1939,3961331,1,Pesos,Mexico,Philippines
+70,840,1940,347900,1,,Mexico,Philippines
+70,840,1941,212,1,,Mexico,Philippines
+70,840,1942,90,1,,Mexico,Philippines
+70,840,1943,0,1,,Mexico,Philippines
+70,840,1944,0,1,,Mexico,Philippines
+70,840,1945,18,1,,Mexico,Philippines
+70,840,1946,10,1,,Mexico,Philippines
+70,840,1947,2372843,1,,Mexico,Philippines
+70,840,1948,384441,1,,Mexico,Philippines
+70,840,1949,35,1000,Pesos,Mexico,Philippines
+70,900,1920,0,1,,Mexico,Australia
+70,900,1921,12,1,,Mexico,Australia
+70,900,1922,6982,1,,Mexico,Australia
+70,900,1923,33190,1,,Mexico,Australia
+70,900,1924,13671,1,,Mexico,Australia
+70,900,1925,4520,1,,Mexico,Australia
+70,900,1926,70961,1,,Mexico,Australia
+70,900,1927,68233,1,,Mexico,Australia
+70,900,1928,76067,1,,Mexico,Australia
+70,900,1929,18159,1,,Mexico,Australia
+70,900,1930,289505,1,,Mexico,Australia
+70,900,1931,98485,1,,Mexico,Australia
+70,900,1932,153,1,Pesos,Mexico,Australia
+70,900,1933,783880,1,Pesos,Mexico,Australia
+70,900,1934,235507,1,Pesos,Mexico,Australia
+70,900,1935,676212,1,Pesos,Mexico,Australia
+70,900,1936,963724,1,Pesos,Mexico,Australia
+70,900,1937,1913888,1,Pesos,Mexico,Australia
+70,900,1938,2981428,1,Pesos,Mexico,Australia
+70,900,1939,2520104,1,Pesos,Mexico,Australia
+70,900,1940,694667,1,,Mexico,Australia
+70,900,1941,2038545,1,,Mexico,Australia
+70,900,1942,3068029,1,,Mexico,Australia
+70,900,1943,2833919,1,,Mexico,Australia
+70,900,1944,23353116,1,,Mexico,Australia
+70,900,1945,24779057,1,,Mexico,Australia
+70,900,1946,15419576,1,,Mexico,Australia
+70,900,1947,13012953,1,,Mexico,Australia
+70,900,1948,6943799,1,,Mexico,Australia
+70,900,1949,21273,1000,Pesos,Mexico,Australia
+70,920,1920,0,1,,Mexico,New Zealand
+70,920,1921,535,1,,Mexico,New Zealand
+70,920,1922,0,1,,Mexico,New Zealand
+70,920,1923,589,1,,Mexico,New Zealand
+70,920,1924,0,1,,Mexico,New Zealand
+70,920,1925,3061,1,,Mexico,New Zealand
+70,920,1926,10142,1,,Mexico,New Zealand
+70,920,1927,10447,1,,Mexico,New Zealand
+70,920,1928,36585,1,,Mexico,New Zealand
+70,920,1929,16236,1,,Mexico,New Zealand
+70,920,1930,19845,1,,Mexico,New Zealand
+70,920,1931,7142,1,,Mexico,New Zealand
+70,920,1932,6,1,Pesos,Mexico,New Zealand
+70,920,1933,1,1,Pesos,Mexico,New Zealand
+70,920,1934,16,1,Pesos,Mexico,New Zealand
+70,920,1935,175,1,Pesos,Mexico,New Zealand
+70,920,1936,11,1,Pesos,Mexico,New Zealand
+70,920,1937,20,1,Pesos,Mexico,New Zealand
+70,920,1938,111,1,Pesos,Mexico,New Zealand
+70,920,1939,711,1,Pesos,Mexico,New Zealand
+70,920,1940,10,1,,Mexico,New Zealand
+70,920,1941,0,1,,Mexico,New Zealand
+70,920,1942,0,1,,Mexico,New Zealand
+70,920,1943,23,1,,Mexico,New Zealand
+70,920,1944,0,1,,Mexico,New Zealand
+70,920,1945,0,1,,Mexico,New Zealand
+70,920,1946,1800,1,,Mexico,New Zealand
+70,920,1947,13661,1,,Mexico,New Zealand
+70,920,1948,15143,1,,Mexico,New Zealand
+70,920,1949,80,1000,Pesos,Mexico,New Zealand
+70,1060,1920,0,1,,Mexico,French West Indies
+70,1060,1921,0,1,,Mexico,French West Indies
+70,1060,1922,0,1,,Mexico,French West Indies
+70,1060,1923,0,1,,Mexico,French West Indies
+70,1060,1924,588,1,,Mexico,French West Indies
+70,1060,1925,392,1,,Mexico,French West Indies
+70,1060,1926,301,1,,Mexico,French West Indies
+70,1060,1927,1175,1,,Mexico,French West Indies
+70,1060,1928,2529,1,,Mexico,French West Indies
+70,1060,1929,3588,1,,Mexico,French West Indies
+70,1060,1930,15088,1,,Mexico,French West Indies
+70,1060,1931,0,1,,Mexico,French West Indies
+70,1060,1932,0,1,Pesos,Mexico,French West Indies
+70,1060,1933,0,1,Pesos,Mexico,French West Indies
+70,1060,1934,0,1,Pesos,Mexico,French West Indies
+70,1060,1935,0,1,Pesos,Mexico,French West Indies
+70,1060,1936,0,1,Pesos,Mexico,French West Indies
+70,1060,1937,0,1,Pesos,Mexico,French West Indies
+70,1060,1938,7,1,Pesos,Mexico,French West Indies
+70,1060,1939,0,1,Pesos,Mexico,French West Indies
+70,1060,1940,0,1,,Mexico,French West Indies
+70,1060,1941,0,1,,Mexico,French West Indies
+70,1060,1942,0,1,,Mexico,French West Indies
+70,1060,1943,0,1,,Mexico,French West Indies
+70,1060,1944,0,1,,Mexico,French West Indies
+70,1060,1945,14568,1,,Mexico,French West Indies
+70,1060,1946,0,1,,Mexico,French West Indies
+70,1060,1947,0,1,,Mexico,French West Indies
+70,1060,1948,0,1,,Mexico,French West Indies
+70,1060,1949,0,1000,Pesos,Mexico,French West Indies
+70,2007,1920,0,1,,Mexico,British possessions in Asia
+70,2007,1921,0,1,,Mexico,British possessions in Asia
+70,2007,1922,0,1,,Mexico,British possessions in Asia
+70,2007,1923,0,1,,Mexico,British possessions in Asia
+70,2007,1924,0,1,,Mexico,British possessions in Asia
+70,2007,1925,0,1,,Mexico,British possessions in Asia
+70,2007,1926,26722,1,,Mexico,British possessions in Asia
+70,2007,1927,0,1,,Mexico,British possessions in Asia
+70,2007,1928,0,1,,Mexico,British possessions in Asia
+70,2007,1929,0,1,,Mexico,British possessions in Asia
+70,2007,1930,0,1,,Mexico,British possessions in Asia
+70,2007,1931,0,1,,Mexico,British possessions in Asia
+70,2007,1932,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1933,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1934,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1935,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1936,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1937,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1938,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1939,0,1,Pesos,Mexico,British possessions in Asia
+70,2007,1940,0,1,,Mexico,British possessions in Asia
+70,2007,1941,0,1,,Mexico,British possessions in Asia
+70,2007,1942,0,1,,Mexico,British possessions in Asia
+70,2007,1943,0,1,,Mexico,British possessions in Asia
+70,2007,1944,0,1,,Mexico,British possessions in Asia
+70,2007,1945,0,1,,Mexico,British possessions in Asia
+70,2007,1946,0,1,,Mexico,British possessions in Asia
+70,2007,1947,0,1,,Mexico,British possessions in Asia
+70,2007,1948,0,1,,Mexico,British possessions in Asia
+70,2007,1949,0,1000,Pesos,Mexico,British possessions in Asia
+70,2008,1920,0,1,,Mexico,Other British Oceania
+70,2008,1921,17500,1,,Mexico,Other British Oceania
+70,2008,1922,114,1,,Mexico,Other British Oceania
+70,2008,1923,220,1,,Mexico,Other British Oceania
+70,2008,1924,0,1,,Mexico,Other British Oceania
+70,2008,1925,0,1,,Mexico,Other British Oceania
+70,2008,1926,28814,1,,Mexico,Other British Oceania
+70,2008,1927,115421,1,,Mexico,Other British Oceania
+70,2008,1928,54092,1,,Mexico,Other British Oceania
+70,2008,1929,428,1,,Mexico,Other British Oceania
+70,2008,1930,0,1,,Mexico,Other British Oceania
+70,2008,1931,0,1,,Mexico,Other British Oceania
+70,2008,1932,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1933,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1934,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1935,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1936,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1937,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1938,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1939,0,1,Pesos,Mexico,Other British Oceania
+70,2008,1940,0,1,,Mexico,Other British Oceania
+70,2008,1941,0,1,,Mexico,Other British Oceania
+70,2008,1942,0,1,,Mexico,Other British Oceania
+70,2008,1943,0,1,,Mexico,Other British Oceania
+70,2008,1944,0,1,,Mexico,Other British Oceania
+70,2008,1945,0,1,,Mexico,Other British Oceania
+70,2008,1946,0,1,,Mexico,Other British Oceania
+70,2008,1947,0,1,,Mexico,Other British Oceania
+70,2008,1948,0,1,,Mexico,Other British Oceania
+70,2008,1949,0,1000,Pesos,Mexico,Other British Oceania
+70,2208,1920,0,1,,Mexico,French Oceania
+70,2208,1921,0,1,,Mexico,French Oceania
+70,2208,1922,0,1,,Mexico,French Oceania
+70,2208,1923,119175,1,,Mexico,French Oceania
+70,2208,1924,0,1,,Mexico,French Oceania
+70,2208,1925,0,1,,Mexico,French Oceania
+70,2208,1926,24009,1,,Mexico,French Oceania
+70,2208,1927,289724,1,,Mexico,French Oceania
+70,2208,1928,438094,1,,Mexico,French Oceania
+70,2208,1929,14763,1,,Mexico,French Oceania
+70,2208,1930,0,1,,Mexico,French Oceania
+70,2208,1931,0,1,,Mexico,French Oceania
+70,2208,1932,0,1,Pesos,Mexico,French Oceania
+70,2208,1933,0,1,Pesos,Mexico,French Oceania
+70,2208,1934,0,1,Pesos,Mexico,French Oceania
+70,2208,1935,0,1,Pesos,Mexico,French Oceania
+70,2208,1936,0,1,Pesos,Mexico,French Oceania
+70,2208,1937,0,1,Pesos,Mexico,French Oceania
+70,2208,1938,0,1,Pesos,Mexico,French Oceania
+70,2208,1939,0,1,Pesos,Mexico,French Oceania
+70,2208,1940,0,1,,Mexico,French Oceania
+70,2208,1941,0,1,,Mexico,French Oceania
+70,2208,1942,0,1,,Mexico,French Oceania
+70,2208,1943,0,1,,Mexico,French Oceania
+70,2208,1944,0,1,,Mexico,French Oceania
+70,2208,1945,0,1,,Mexico,French Oceania
+70,2208,1946,0,1,,Mexico,French Oceania
+70,2208,1947,0,1,,Mexico,French Oceania
+70,2208,1948,0,1,,Mexico,French Oceania
+70,2208,1949,0,1000,Pesos,Mexico,French Oceania
+70,3250,1920,0,1,,Mexico,Italian Africa
+70,3250,1921,0,1,,Mexico,Italian Africa
+70,3250,1922,0,1,,Mexico,Italian Africa
+70,3250,1923,0,1,,Mexico,Italian Africa
+70,3250,1924,0,1,,Mexico,Italian Africa
+70,3250,1925,0,1,,Mexico,Italian Africa
+70,3250,1926,0,1,,Mexico,Italian Africa
+70,3250,1927,0,1,,Mexico,Italian Africa
+70,3250,1928,0,1,,Mexico,Italian Africa
+70,3250,1929,0,1,,Mexico,Italian Africa
+70,3250,1930,0,1,,Mexico,Italian Africa
+70,3250,1931,0,1,,Mexico,Italian Africa
+70,3250,1932,200,1,Pesos,Mexico,Italian Africa
+70,3250,1933,0,1,Pesos,Mexico,Italian Africa
+70,3250,1934,0,1,Pesos,Mexico,Italian Africa
+70,3250,1935,0,1,Pesos,Mexico,Italian Africa
+70,3250,1936,0,1,Pesos,Mexico,Italian Africa
+70,3250,1937,79,1,Pesos,Mexico,Italian Africa
+70,3250,1938,0,1,Pesos,Mexico,Italian Africa
+70,3250,1939,0,1,Pesos,Mexico,Italian Africa
+70,3250,1940,0,1,,Mexico,Italian Africa
+70,3250,1941,0,1,,Mexico,Italian Africa
+70,3250,1942,0,1,,Mexico,Italian Africa
+70,3250,1943,0,1,,Mexico,Italian Africa
+70,3250,1944,0,1,,Mexico,Italian Africa
+70,3250,1945,0,1,,Mexico,Italian Africa
+70,3250,1946,0,1,,Mexico,Italian Africa
+70,3250,1947,0,1,,Mexico,Italian Africa
+70,3250,1948,0,1,,Mexico,Italian Africa
+70,3250,1949,0,1000,Pesos,Mexico,Italian Africa
+70,6203,1920,0,1,,Mexico,Tripoli
+70,6203,1921,0,1,,Mexico,Tripoli
+70,6203,1922,0,1,,Mexico,Tripoli
+70,6203,1923,21,1,,Mexico,Tripoli
+70,6203,1924,0,1,,Mexico,Tripoli
+70,6203,1925,0,1,,Mexico,Tripoli
+70,6203,1926,0,1,,Mexico,Tripoli
+70,6203,1927,0,1,,Mexico,Tripoli
+70,6203,1928,0,1,,Mexico,Tripoli
+70,6203,1929,0,1,,Mexico,Tripoli
+70,6203,1930,0,1,,Mexico,Tripoli
+70,6203,1931,2292,1,,Mexico,Tripoli
+70,6203,1932,0,1,Pesos,Mexico,Tripoli
+70,6203,1933,0,1,Pesos,Mexico,Tripoli
+70,6203,1934,0,1,Pesos,Mexico,Tripoli
+70,6203,1935,0,1,Pesos,Mexico,Tripoli
+70,6203,1936,0,1,Pesos,Mexico,Tripoli
+70,6203,1937,0,1,Pesos,Mexico,Tripoli
+70,6203,1938,0,1,Pesos,Mexico,Tripoli
+70,6203,1939,0,1,Pesos,Mexico,Tripoli
+70,6203,1940,0,1,,Mexico,Tripoli
+70,6203,1941,0,1,,Mexico,Tripoli
+70,6203,1942,0,1,,Mexico,Tripoli
+70,6203,1943,0,1,,Mexico,Tripoli
+70,6203,1944,0,1,,Mexico,Tripoli
+70,6203,1945,0,1,,Mexico,Tripoli
+70,6203,1946,0,1,,Mexico,Tripoli
+70,6203,1947,0,1,,Mexico,Tripoli
+70,6203,1948,0,1,,Mexico,Tripoli
+70,6203,1949,0,1000,Pesos,Mexico,Tripoli
+70,,1920,397219637,1,,Mexico,
+70,,1921,493375759,1,,Mexico,
+70,,1922,308584819,1,,Mexico,
+70,,1923,315195375,1,,Mexico,
+70,,1924,321380364,1,,Mexico,
+70,,1925,391143477,1,,Mexico,
+70,,1926,381491181,1,,Mexico,
+70,,1927,346657103,1,,Mexico,
+70,,1928,357980278,1,,Mexico,
+70,,1929,382530012,1,,Mexico,
+70,,1930,351927628,1,,Mexico,
+70,,1931,216966865,1,,Mexico,
+70,,1932,180913751,1,Pesos,Mexico,
+70,,1933,244691172,1,Pesos,Mexico,
+70,,1934,334343085,1,Pesos,Mexico,
+70,,1935,407239901,1,Pesos,Mexico,
+70,,1936,468677933,1,Pesos,Mexico,
+70,,1937,615722518,1,Pesos,Mexico,
+70,,1938,494202509,1,Pesos,Mexico,
+70,,1939,631586295,1,Pesos,Mexico,
+70,,1940,673165513,1,,Mexico,
+70,,1941,921276381,1,,Mexico,
+70,,1942,753461099,1,,Mexico,
+70,,1943,909602862,1,,Mexico,
+70,,1944,1895209354,1,,Mexico,
+70,,1945,1604422763,1,,Mexico,
+70,,1946,2637064116,1,,Mexico,
+70,,1947,3230671944,1,,Mexico,
+70,,1948,2951537023,1,,Mexico,
+70,,1949,3528422,1000,Pesos,Mexico,

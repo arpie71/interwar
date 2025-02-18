@@ -1,0 +1,565 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+461,2,1938,8379,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1939,7936,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1940,0,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1941,0,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1942,0,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1943,0,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1944,0,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1945,52902,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1946,74684,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1947,74693,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1948,73481,1000,Milliers De Franc Cfa,Togo,United States
+461,2,1949,118675,1000,Milliers De Franc Cfa,Togo,United States
+461,20,1938,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1939,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1940,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1941,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1942,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1943,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1944,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1945,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1946,0,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1947,199,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1948,2083,1000,Milliers De Franc Cfa,Togo,Canada
+461,20,1949,1,1000,Milliers De Franc Cfa,Togo,Canada
+461,66,1938,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1939,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1940,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1941,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1942,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1943,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1944,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1945,2685,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1946,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1947,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1948,0,1000,Milliers De Franc Cfa,Togo,Martinique
+461,66,1949,5,1000,Milliers De Franc Cfa,Togo,Martinique
+461,70,1938,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1939,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1940,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1941,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1942,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1943,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1944,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1945,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1946,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1947,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1948,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,70,1949,0,1000,Milliers De Franc Cfa,Togo,Mexico
+461,140,1938,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1939,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1940,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1941,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1942,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1943,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1944,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1945,154,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1946,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1947,7242,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1948,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,140,1949,0,1000,Milliers De Franc Cfa,Togo,Brazil
+461,160,1938,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1939,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1940,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1941,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1942,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1943,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1944,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1945,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1946,55,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1947,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1948,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,160,1949,0,1000,Milliers De Franc Cfa,Togo,Argentina
+461,165,1938,36,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1939,28,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1940,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1941,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1942,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1943,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1944,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1945,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1946,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1947,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1948,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,165,1949,0,1000,Milliers De Franc Cfa,Togo,Uruguay
+461,200,1938,10498,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1939,19478,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1940,0,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1941,0,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1942,0,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1943,0,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1944,0,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1945,6968,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1946,27364,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1947,24040,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1948,22836,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,200,1949,21979,1000,Milliers De Franc Cfa,Togo,United Kingdom
+461,205,1938,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1939,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1940,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1941,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1942,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1943,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1944,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1945,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1946,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1947,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1948,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,205,1949,0,1000,Milliers De Franc Cfa,Togo,Ireland
+461,210,1938,3902,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1939,3983,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1940,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1941,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1942,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1943,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1944,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1945,0,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1946,291,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1947,17537,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1948,18405,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,210,1949,12132,1000,Milliers De Franc Cfa,Togo,Netherlands
+461,211,1938,1702,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1939,3874,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1940,0,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1941,0,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1942,0,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1943,0,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1944,0,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1945,96,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1946,1046,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1947,6976,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1948,17790,1000,Milliers De Franc Cfa,Togo,Belgium
+461,211,1949,9252,1000,Milliers De Franc Cfa,Togo,Belgium
+461,220,1938,11720,1000,Milliers De Franc Cfa,Togo,France
+461,220,1939,13959,1000,Milliers De Franc Cfa,Togo,France
+461,220,1940,0,1000,Milliers De Franc Cfa,Togo,France
+461,220,1941,0,1000,Milliers De Franc Cfa,Togo,France
+461,220,1942,0,1000,Milliers De Franc Cfa,Togo,France
+461,220,1943,0,1000,Milliers De Franc Cfa,Togo,France
+461,220,1944,0,1000,Milliers De Franc Cfa,Togo,France
+461,220,1945,25354,1000,Milliers De Franc Cfa,Togo,France
+461,220,1946,72817,1000,Milliers De Franc Cfa,Togo,France
+461,220,1947,303274,1000,Milliers De Franc Cfa,Togo,France
+461,220,1948,495274,1000,Milliers De Franc Cfa,Togo,France
+461,220,1949,1006205,1000,Milliers De Franc Cfa,Togo,France
+461,225,1938,620,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1939,40,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1940,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1941,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1942,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1943,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1944,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1945,0,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1946,3556,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1947,2384,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1948,5470,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,225,1949,3750,1000,Milliers De Franc Cfa,Togo,Switzerland
+461,230,1938,294,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1939,238,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1940,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1941,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1942,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1943,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1944,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1945,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1946,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1947,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1948,0,1000,Milliers De Franc Cfa,Togo,Spain
+461,230,1949,1918,1000,Milliers De Franc Cfa,Togo,Spain
+461,235,1938,351,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1939,232,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1940,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1941,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1942,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1943,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1944,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1945,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1946,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1947,287,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1948,0,1000,Milliers De Franc Cfa,Togo,Portugal
+461,235,1949,1192,1000,Milliers De Franc Cfa,Togo,Portugal
+461,255,1938,3579,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1939,4863,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1940,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1941,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1942,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1943,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1944,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1945,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1946,15,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1947,0,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1948,667,1000,Milliers De Franc Cfa,Togo,Germany
+461,255,1949,2056,1000,Milliers De Franc Cfa,Togo,Germany
+461,256,1938,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1939,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1940,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1941,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1942,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1943,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1944,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1945,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1946,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1947,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1948,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,256,1949,0,1000,Milliers De Franc Cfa,Togo,Saar
+461,290,1938,29,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1939,12,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1940,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1941,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1942,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1943,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1944,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1945,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1946,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1947,0,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1948,971,1000,Milliers De Franc Cfa,Togo,Poland
+461,290,1949,762,1000,Milliers De Franc Cfa,Togo,Poland
+461,305,1938,18,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1939,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1940,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1941,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1942,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1943,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1944,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1945,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1946,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1947,1567,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1948,0,1000,Milliers De Franc Cfa,Togo,Austria
+461,305,1949,113,1000,Milliers De Franc Cfa,Togo,Austria
+461,310,1938,101,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1939,98,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1940,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1941,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1942,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1943,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1944,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1945,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1946,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1947,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1948,0,1000,Milliers De Franc Cfa,Togo,Hungary
+461,310,1949,3278,1000,Milliers De Franc Cfa,Togo,Hungary
+461,315,1938,1520,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1939,1479,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1940,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1941,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1942,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1943,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1944,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1945,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1946,0,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1947,2327,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1948,1077,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,315,1949,5085,1000,Milliers De Franc Cfa,Togo,Czechoslovakia
+461,325,1938,666,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1939,934,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1940,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1941,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1942,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1943,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1944,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1945,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1946,0,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1947,73,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1948,145,1000,Milliers De Franc Cfa,Togo,Italy
+461,325,1949,4641,1000,Milliers De Franc Cfa,Togo,Italy
+461,345,1938,375,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1939,627,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1940,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1941,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1942,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1943,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1944,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1945,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1946,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1947,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1948,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,345,1949,0,1000,Milliers De Franc Cfa,Togo,Yugoslavia
+461,375,1938,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1939,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1940,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1941,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1942,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1943,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1944,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1945,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1946,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1947,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1948,0,1000,Milliers De Franc Cfa,Togo,Finland
+461,375,1949,183,1000,Milliers De Franc Cfa,Togo,Finland
+461,385,1938,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1939,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1940,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1941,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1942,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1943,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1944,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1945,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1946,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1947,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1948,0,1000,Milliers De Franc Cfa,Togo,Norway
+461,385,1949,241,1000,Milliers De Franc Cfa,Togo,Norway
+461,390,1938,92,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1939,68,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1940,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1941,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1942,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1943,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1944,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1945,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1946,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1947,0,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1948,143,1000,Milliers De Franc Cfa,Togo,Denmark
+461,390,1949,3417,1000,Milliers De Franc Cfa,Togo,Denmark
+461,402,1938,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1939,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1940,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1941,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1942,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1943,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1944,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1945,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1946,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1947,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1948,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,402,1949,0,1000,Milliers De Franc Cfa,Togo,Cape Verde
+461,430,1938,1769,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1939,1806,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1940,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1941,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1942,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1943,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1944,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1945,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1946,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1947,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1948,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,430,1949,0,1000,Milliers De Franc Cfa,Togo,French West Africa
+461,433,1938,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1939,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1940,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1941,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1942,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1943,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1944,0,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1945,6078,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1946,7190,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1947,8826,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1948,8552,1000,Milliers De Franc Cfa,Togo,Senegal
+461,433,1949,9432,1000,Milliers De Franc Cfa,Togo,Senegal
+461,434,1938,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1939,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1940,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1941,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1942,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1943,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1944,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1945,235,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1946,498,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1947,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1948,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,434,1949,0,1000,Milliers De Franc Cfa,Togo,Benin
+461,452,1938,4143,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1939,9781,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1940,0,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1941,0,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1942,0,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1943,0,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1944,0,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1945,26795,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1946,26324,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1947,35132,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1948,75891,1000,Milliers De Franc Cfa,Togo,Ghana
+461,452,1949,96358,1000,Milliers De Franc Cfa,Togo,Ghana
+461,475,1938,73,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1939,103,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1940,0,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1941,0,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1942,0,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1943,0,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1944,0,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1945,653,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1946,3492,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1947,346,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1948,706,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,475,1949,2,1000,Milliers De Franc Cfa,Togo,Nigeria
+461,480,1938,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1939,10,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1940,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1941,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1942,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1943,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1944,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1945,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1946,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1947,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1948,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,480,1949,0,1000,Milliers De Franc Cfa,Togo,French Equatorial Africa
+461,490,1938,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1939,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1940,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1941,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1942,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1943,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1944,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1945,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1946,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1947,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1948,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,490,1949,0,1000,Milliers De Franc Cfa,Togo,"Congo, Dem. Republic"
+461,560,1938,17,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1939,89,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1940,0,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1941,0,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1942,0,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1943,0,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1944,0,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1945,239,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1946,52,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1947,925,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1948,203,1000,Milliers De Franc Cfa,Togo,South Africa
+461,560,1949,85,1000,Milliers De Franc Cfa,Togo,South Africa
+461,580,1938,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1939,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1940,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1941,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1942,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1943,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1944,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1945,0,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1946,276,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1947,723,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1948,343,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,580,1949,1122,1000,Milliers De Franc Cfa,Togo,Madagascar
+461,585,1938,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1939,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1940,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1941,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1942,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1943,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1944,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1945,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1946,127,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1947,5579,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1948,0,1000,Milliers De Franc Cfa,Togo,Reunion
+461,585,1949,308,1000,Milliers De Franc Cfa,Togo,Reunion
+461,615,1938,213,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1939,163,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1940,0,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1941,0,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1942,0,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1943,0,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1944,0,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1945,3441,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1946,5104,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1947,15150,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1948,21742,1000,Milliers De Franc Cfa,Togo,Algeria
+461,615,1949,23404,1000,Milliers De Franc Cfa,Togo,Algeria
+461,616,1938,5,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1939,61,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1940,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1941,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1942,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1943,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1944,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1945,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1946,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1947,26,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1948,0,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,616,1949,25,1000,Milliers De Franc Cfa,Togo,Tunisia
+461,670,1938,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1939,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1940,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1941,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1942,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1943,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1944,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1945,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1946,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1947,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1948,0,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,670,1949,1557,1000,Milliers De Franc Cfa,Togo,Saudi Arabia
+461,710,1938,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1939,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1940,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1941,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1942,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1943,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1944,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1945,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1946,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1947,0,1000,Milliers De Franc Cfa,Togo,China
+461,710,1948,514,1000,Milliers De Franc Cfa,Togo,China
+461,710,1949,0,1000,Milliers De Franc Cfa,Togo,China
+461,720,1938,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1939,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1940,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1941,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1942,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1943,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1944,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1945,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1946,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1947,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1948,2353,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,720,1949,0,1000,Milliers De Franc Cfa,Togo,Hong Kong
+461,740,1938,8480,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1939,11136,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1940,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1941,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1942,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1943,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1944,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1945,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1946,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1947,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1948,0,1000,Milliers De Franc Cfa,Togo,Japan
+461,740,1949,2314,1000,Milliers De Franc Cfa,Togo,Japan
+461,751,1938,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1939,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1940,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1941,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1942,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1943,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1944,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1945,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1946,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1947,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1948,0,1000,Milliers De Franc Cfa,Togo,French India
+461,751,1949,0,1000,Milliers De Franc Cfa,Togo,French India
+461,2000,1938,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1939,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1940,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1941,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1942,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1943,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1944,0,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1945,453,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1946,872,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1947,160,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1948,535,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2000,1949,124,1000,Milliers De Franc Cfa,Togo,Other British possessions
+461,2200,1938,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1939,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1940,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1941,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1942,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1943,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1944,0,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1945,3417,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1946,7864,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1947,9500,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1948,9450,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,2200,1949,28302,1000,Milliers De Franc Cfa,Togo,Other French possessions
+461,,1938,88918,1000,Milliers De Franc Cfa,Togo,
+461,,1939,102290,1000,Milliers De Franc Cfa,Togo,
+461,,1940,0,1000,Milliers De Franc Cfa,Togo,
+461,,1941,0,1000,Milliers De Franc Cfa,Togo,
+461,,1942,0,1000,Milliers De Franc Cfa,Togo,
+461,,1943,0,1000,Milliers De Franc Cfa,Togo,
+461,,1944,0,1000,Milliers De Franc Cfa,Togo,
+461,,1945,148010,1000,Milliers De Franc Cfa,Togo,
+461,,1946,270805,1000,Milliers De Franc Cfa,Togo,
+461,,1947,612734,1000,Milliers De Franc Cfa,Togo,
+461,,1948,916491,1000,Milliers De Franc Cfa,Togo,
+461,,1949,1550942,1000,Milliers De Franc Cfa,Togo,

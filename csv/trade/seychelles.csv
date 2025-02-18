@@ -1,0 +1,460 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+591,2,1930,29336,1,Rs,Seychelles,United States
+591,2,1931,1218,1,Rs,Seychelles,United States
+591,2,1932,1377,1,Rs,Seychelles,United States
+591,2,1933,6224,1,Rs,Seychelles,United States
+591,2,1934,2056,1,Rs,Seychelles,United States
+591,2,1935,5878,1,Rs,Seychelles,United States
+591,2,1936,9707,1,Rs,Seychelles,United States
+591,2,1937,17957,1,Rs,Seychelles,United States
+591,2,1938,8912,1,Rs,Seychelles,United States
+591,20,1930,4253,1,Rs,Seychelles,Canada
+591,20,1931,1700,1,Rs,Seychelles,Canada
+591,20,1932,1460,1,Rs,Seychelles,Canada
+591,20,1933,811,1,Rs,Seychelles,Canada
+591,20,1934,1661,1,Rs,Seychelles,Canada
+591,20,1935,586,1,Rs,Seychelles,Canada
+591,20,1936,9993,1,Rs,Seychelles,Canada
+591,20,1937,7779,1,Rs,Seychelles,Canada
+591,20,1938,7594,1,Rs,Seychelles,Canada
+591,21,1930,0,1,Rs,Seychelles,Newfoundland
+591,21,1931,0,1,Rs,Seychelles,Newfoundland
+591,21,1932,0,1,Rs,Seychelles,Newfoundland
+591,21,1933,0,1,Rs,Seychelles,Newfoundland
+591,21,1934,0,1,Rs,Seychelles,Newfoundland
+591,21,1935,46,1,Rs,Seychelles,Newfoundland
+591,21,1936,0,1,Rs,Seychelles,Newfoundland
+591,21,1937,52,1,Rs,Seychelles,Newfoundland
+591,21,1938,0,1,Rs,Seychelles,Newfoundland
+591,51,1930,70,1,Rs,Seychelles,Jamaica
+591,51,1931,0,1,Rs,Seychelles,Jamaica
+591,51,1932,0,1,Rs,Seychelles,Jamaica
+591,51,1933,0,1,Rs,Seychelles,Jamaica
+591,51,1934,0,1,Rs,Seychelles,Jamaica
+591,51,1935,0,1,Rs,Seychelles,Jamaica
+591,51,1936,0,1,Rs,Seychelles,Jamaica
+591,51,1937,0,1,Rs,Seychelles,Jamaica
+591,51,1938,0,1,Rs,Seychelles,Jamaica
+591,160,1930,0,1,Rs,Seychelles,Argentina
+591,160,1931,0,1,Rs,Seychelles,Argentina
+591,160,1932,0,1,Rs,Seychelles,Argentina
+591,160,1933,436,1,Rs,Seychelles,Argentina
+591,160,1934,468,1,Rs,Seychelles,Argentina
+591,160,1935,856,1,Rs,Seychelles,Argentina
+591,160,1936,1164,1,Rs,Seychelles,Argentina
+591,160,1937,1449,1,Rs,Seychelles,Argentina
+591,160,1938,1400,1,Rs,Seychelles,Argentina
+591,200,1930,530054,1,Rs,Seychelles,United Kingdom
+591,200,1931,326107,1,Rs,Seychelles,United Kingdom
+591,200,1932,273166,1,Rs,Seychelles,United Kingdom
+591,200,1933,256478,1,Rs,Seychelles,United Kingdom
+591,200,1934,295301,1,Rs,Seychelles,United Kingdom
+591,200,1935,302449,1,Rs,Seychelles,United Kingdom
+591,200,1936,438405,1,Rs,Seychelles,United Kingdom
+591,200,1937,452607,1,Rs,Seychelles,United Kingdom
+591,200,1938,415524,1,Rs,Seychelles,United Kingdom
+591,205,1930,0,1,Rs,Seychelles,Ireland
+591,205,1931,0,1,Rs,Seychelles,Ireland
+591,205,1932,0,1,Rs,Seychelles,Ireland
+591,205,1933,0,1,Rs,Seychelles,Ireland
+591,205,1934,870,1,Rs,Seychelles,Ireland
+591,205,1935,520,1,Rs,Seychelles,Ireland
+591,205,1936,422,1,Rs,Seychelles,Ireland
+591,205,1937,150,1,Rs,Seychelles,Ireland
+591,205,1938,199,1,Rs,Seychelles,Ireland
+591,210,1930,7832,1,Rs,Seychelles,Netherlands
+591,210,1931,6595,1,Rs,Seychelles,Netherlands
+591,210,1932,6035,1,Rs,Seychelles,Netherlands
+591,210,1933,1968,1,Rs,Seychelles,Netherlands
+591,210,1934,1465,1,Rs,Seychelles,Netherlands
+591,210,1935,2779,1,Rs,Seychelles,Netherlands
+591,210,1936,3975,1,Rs,Seychelles,Netherlands
+591,210,1937,8429,1,Rs,Seychelles,Netherlands
+591,210,1938,5176,1,Rs,Seychelles,Netherlands
+591,211,1930,3835,1,Rs,Seychelles,Belgium
+591,211,1931,2064,1,Rs,Seychelles,Belgium
+591,211,1932,5449,1,Rs,Seychelles,Belgium
+591,211,1933,3037,1,Rs,Seychelles,Belgium
+591,211,1934,2746,1,Rs,Seychelles,Belgium
+591,211,1935,6493,1,Rs,Seychelles,Belgium
+591,211,1936,3189,1,Rs,Seychelles,Belgium
+591,211,1937,2391,1,Rs,Seychelles,Belgium
+591,211,1938,4342,1,Rs,Seychelles,Belgium
+591,212,1930,0,1,Rs,Seychelles,Luxembourg
+591,212,1931,0,1,Rs,Seychelles,Luxembourg
+591,212,1932,0,1,Rs,Seychelles,Luxembourg
+591,212,1933,0,1,Rs,Seychelles,Luxembourg
+591,212,1934,0,1,Rs,Seychelles,Luxembourg
+591,212,1935,0,1,Rs,Seychelles,Luxembourg
+591,212,1936,0,1,Rs,Seychelles,Luxembourg
+591,212,1937,203,1,Rs,Seychelles,Luxembourg
+591,212,1938,0,1,Rs,Seychelles,Luxembourg
+591,220,1930,127205,1,Rs,Seychelles,France
+591,220,1931,85223,1,Rs,Seychelles,France
+591,220,1932,60360,1,Rs,Seychelles,France
+591,220,1933,38743,1,Rs,Seychelles,France
+591,220,1934,44102,1,Rs,Seychelles,France
+591,220,1935,35942,1,Rs,Seychelles,France
+591,220,1936,41271,1,Rs,Seychelles,France
+591,220,1937,48380,1,Rs,Seychelles,France
+591,220,1938,40485,1,Rs,Seychelles,France
+591,225,1930,4199,1,Rs,Seychelles,Switzerland
+591,225,1931,1889,1,Rs,Seychelles,Switzerland
+591,225,1932,490,1,Rs,Seychelles,Switzerland
+591,225,1933,1904,1,Rs,Seychelles,Switzerland
+591,225,1934,4676,1,Rs,Seychelles,Switzerland
+591,225,1935,540,1,Rs,Seychelles,Switzerland
+591,225,1936,1152,1,Rs,Seychelles,Switzerland
+591,225,1937,1541,1,Rs,Seychelles,Switzerland
+591,225,1938,568,1,Rs,Seychelles,Switzerland
+591,230,1930,28784,1,Rs,Seychelles,Spain
+591,230,1931,25960,1,Rs,Seychelles,Spain
+591,230,1932,13596,1,Rs,Seychelles,Spain
+591,230,1933,11231,1,Rs,Seychelles,Spain
+591,230,1934,9308,1,Rs,Seychelles,Spain
+591,230,1935,6789,1,Rs,Seychelles,Spain
+591,230,1936,8811,1,Rs,Seychelles,Spain
+591,230,1937,6202,1,Rs,Seychelles,Spain
+591,230,1938,4513,1,Rs,Seychelles,Spain
+591,235,1930,1041,1,Rs,Seychelles,Portugal
+591,235,1931,350,1,Rs,Seychelles,Portugal
+591,235,1932,318,1,Rs,Seychelles,Portugal
+591,235,1933,729,1,Rs,Seychelles,Portugal
+591,235,1934,370,1,Rs,Seychelles,Portugal
+591,235,1935,583,1,Rs,Seychelles,Portugal
+591,235,1936,1159,1,Rs,Seychelles,Portugal
+591,235,1937,1353,1,Rs,Seychelles,Portugal
+591,235,1938,4061,1,Rs,Seychelles,Portugal
+591,255,1930,18312,1,Rs,Seychelles,Germany
+591,255,1931,14351,1,Rs,Seychelles,Germany
+591,255,1932,11979,1,Rs,Seychelles,Germany
+591,255,1933,11420,1,Rs,Seychelles,Germany
+591,255,1934,10270,1,Rs,Seychelles,Germany
+591,255,1935,9558,1,Rs,Seychelles,Germany
+591,255,1936,10496,1,Rs,Seychelles,Germany
+591,255,1937,16021,1,Rs,Seychelles,Germany
+591,255,1938,17849,1,Rs,Seychelles,Germany
+591,305,1930,150,1,Rs,Seychelles,Austria
+591,305,1931,732,1,Rs,Seychelles,Austria
+591,305,1932,0,1,Rs,Seychelles,Austria
+591,305,1933,222,1,Rs,Seychelles,Austria
+591,305,1934,460,1,Rs,Seychelles,Austria
+591,305,1935,417,1,Rs,Seychelles,Austria
+591,305,1936,850,1,Rs,Seychelles,Austria
+591,305,1937,1121,1,Rs,Seychelles,Austria
+591,305,1938,372,1,Rs,Seychelles,Austria
+591,315,1930,5157,1,Rs,Seychelles,Czechoslovakia
+591,315,1931,3572,1,Rs,Seychelles,Czechoslovakia
+591,315,1932,1771,1,Rs,Seychelles,Czechoslovakia
+591,315,1933,4018,1,Rs,Seychelles,Czechoslovakia
+591,315,1934,884,1,Rs,Seychelles,Czechoslovakia
+591,315,1935,1000,1,Rs,Seychelles,Czechoslovakia
+591,315,1936,1447,1,Rs,Seychelles,Czechoslovakia
+591,315,1937,1498,1,Rs,Seychelles,Czechoslovakia
+591,315,1938,1060,1,Rs,Seychelles,Czechoslovakia
+591,325,1930,3336,1,Rs,Seychelles,Italy
+591,325,1931,3662,1,Rs,Seychelles,Italy
+591,325,1932,865,1,Rs,Seychelles,Italy
+591,325,1933,2862,1,Rs,Seychelles,Italy
+591,325,1934,2735,1,Rs,Seychelles,Italy
+591,325,1935,1726,1,Rs,Seychelles,Italy
+591,325,1936,335,1,Rs,Seychelles,Italy
+591,325,1937,4994,1,Rs,Seychelles,Italy
+591,325,1938,1985,1,Rs,Seychelles,Italy
+591,345,1930,0,1,Rs,Seychelles,Yugoslavia
+591,345,1931,0,1,Rs,Seychelles,Yugoslavia
+591,345,1932,0,1,Rs,Seychelles,Yugoslavia
+591,345,1933,0,1,Rs,Seychelles,Yugoslavia
+591,345,1934,188,1,Rs,Seychelles,Yugoslavia
+591,345,1935,0,1,Rs,Seychelles,Yugoslavia
+591,345,1936,400,1,Rs,Seychelles,Yugoslavia
+591,345,1937,0,1,Rs,Seychelles,Yugoslavia
+591,345,1938,0,1,Rs,Seychelles,Yugoslavia
+591,350,1930,0,1,Rs,Seychelles,Greece
+591,350,1931,0,1,Rs,Seychelles,Greece
+591,350,1932,0,1,Rs,Seychelles,Greece
+591,350,1933,214,1,Rs,Seychelles,Greece
+591,350,1934,169,1,Rs,Seychelles,Greece
+591,350,1935,272,1,Rs,Seychelles,Greece
+591,350,1936,192,1,Rs,Seychelles,Greece
+591,350,1937,336,1,Rs,Seychelles,Greece
+591,350,1938,181,1,Rs,Seychelles,Greece
+591,352,1930,0,1,Rs,Seychelles,Cyprus
+591,352,1931,0,1,Rs,Seychelles,Cyprus
+591,352,1932,0,1,Rs,Seychelles,Cyprus
+591,352,1933,0,1,Rs,Seychelles,Cyprus
+591,352,1934,0,1,Rs,Seychelles,Cyprus
+591,352,1935,585,1,Rs,Seychelles,Cyprus
+591,352,1936,322,1,Rs,Seychelles,Cyprus
+591,352,1937,0,1,Rs,Seychelles,Cyprus
+591,352,1938,0,1,Rs,Seychelles,Cyprus
+591,365,1930,0,1,Rs,Seychelles,Russia
+591,365,1931,1062,1,Rs,Seychelles,Russia
+591,365,1932,0,1,Rs,Seychelles,Russia
+591,365,1933,0,1,Rs,Seychelles,Russia
+591,365,1934,335,1,Rs,Seychelles,Russia
+591,365,1935,280,1,Rs,Seychelles,Russia
+591,365,1936,412,1,Rs,Seychelles,Russia
+591,365,1937,76,1,Rs,Seychelles,Russia
+591,365,1938,64,1,Rs,Seychelles,Russia
+591,380,1930,2753,1,Rs,Seychelles,Sweden
+591,380,1931,3847,1,Rs,Seychelles,Sweden
+591,380,1932,3384,1,Rs,Seychelles,Sweden
+591,380,1933,4668,1,Rs,Seychelles,Sweden
+591,380,1934,3473,1,Rs,Seychelles,Sweden
+591,380,1935,3774,1,Rs,Seychelles,Sweden
+591,380,1936,5236,1,Rs,Seychelles,Sweden
+591,380,1937,5876,1,Rs,Seychelles,Sweden
+591,380,1938,7910,1,Rs,Seychelles,Sweden
+591,385,1930,4714,1,Rs,Seychelles,Norway
+591,385,1931,9212,1,Rs,Seychelles,Norway
+591,385,1932,2195,1,Rs,Seychelles,Norway
+591,385,1933,5734,1,Rs,Seychelles,Norway
+591,385,1934,2339,1,Rs,Seychelles,Norway
+591,385,1935,1444,1,Rs,Seychelles,Norway
+591,385,1936,2312,1,Rs,Seychelles,Norway
+591,385,1937,1128,1,Rs,Seychelles,Norway
+591,385,1938,3584,1,Rs,Seychelles,Norway
+591,390,1930,3532,1,Rs,Seychelles,Denmark
+591,390,1931,915,1,Rs,Seychelles,Denmark
+591,390,1932,2057,1,Rs,Seychelles,Denmark
+591,390,1933,3057,1,Rs,Seychelles,Denmark
+591,390,1934,696,1,Rs,Seychelles,Denmark
+591,390,1935,0,1,Rs,Seychelles,Denmark
+591,390,1936,0,1,Rs,Seychelles,Denmark
+591,390,1937,393,1,Rs,Seychelles,Denmark
+591,390,1938,1415,1,Rs,Seychelles,Denmark
+591,501,1930,12778,1,Rs,Seychelles,Kenya
+591,501,1931,9654,1,Rs,Seychelles,Kenya
+591,501,1932,17784,1,Rs,Seychelles,Kenya
+591,501,1933,13305,1,Rs,Seychelles,Kenya
+591,501,1934,12154,1,Rs,Seychelles,Kenya
+591,501,1935,11471,1,Rs,Seychelles,Kenya
+591,501,1936,12810,1,Rs,Seychelles,Kenya
+591,501,1937,16568,1,Rs,Seychelles,Kenya
+591,501,1938,16579,1,Rs,Seychelles,Kenya
+591,510,1930,0,1,Rs,Seychelles,Tanzania
+591,510,1931,0,1,Rs,Seychelles,Tanzania
+591,510,1932,0,1,Rs,Seychelles,Tanzania
+591,510,1933,0,1,Rs,Seychelles,Tanzania
+591,510,1934,0,1,Rs,Seychelles,Tanzania
+591,510,1935,0,1,Rs,Seychelles,Tanzania
+591,510,1936,0,1,Rs,Seychelles,Tanzania
+591,510,1937,168,1,Rs,Seychelles,Tanzania
+591,510,1938,0,1,Rs,Seychelles,Tanzania
+591,553,1930,0,1,Rs,Seychelles,Malawi
+591,553,1931,0,1,Rs,Seychelles,Malawi
+591,553,1932,0,1,Rs,Seychelles,Malawi
+591,553,1933,0,1,Rs,Seychelles,Malawi
+591,553,1934,0,1,Rs,Seychelles,Malawi
+591,553,1935,0,1,Rs,Seychelles,Malawi
+591,553,1936,765,1,Rs,Seychelles,Malawi
+591,553,1937,498,1,Rs,Seychelles,Malawi
+591,553,1938,735,1,Rs,Seychelles,Malawi
+591,554,1930,0,1,Rs,Seychelles,Rhodesia
+591,554,1931,0,1,Rs,Seychelles,Rhodesia
+591,554,1932,0,1,Rs,Seychelles,Rhodesia
+591,554,1933,0,1,Rs,Seychelles,Rhodesia
+591,554,1934,0,1,Rs,Seychelles,Rhodesia
+591,554,1935,547,1,Rs,Seychelles,Rhodesia
+591,554,1936,0,1,Rs,Seychelles,Rhodesia
+591,554,1937,138,1,Rs,Seychelles,Rhodesia
+591,554,1938,0,1,Rs,Seychelles,Rhodesia
+591,573,1930,1502,1,Rs,Seychelles,British South Africa
+591,573,1931,2390,1,Rs,Seychelles,British South Africa
+591,573,1932,254,1,Rs,Seychelles,British South Africa
+591,573,1933,781,1,Rs,Seychelles,British South Africa
+591,573,1934,1688,1,Rs,Seychelles,British South Africa
+591,573,1935,897,1,Rs,Seychelles,British South Africa
+591,573,1936,1624,1,Rs,Seychelles,British South Africa
+591,573,1937,1294,1,Rs,Seychelles,British South Africa
+591,573,1938,1255,1,Rs,Seychelles,British South Africa
+591,590,1930,10960,1,Rs,Seychelles,Mauritius
+591,590,1931,2225,1,Rs,Seychelles,Mauritius
+591,590,1932,3159,1,Rs,Seychelles,Mauritius
+591,590,1933,3452,1,Rs,Seychelles,Mauritius
+591,590,1934,3274,1,Rs,Seychelles,Mauritius
+591,590,1935,3716,1,Rs,Seychelles,Mauritius
+591,590,1936,5176,1,Rs,Seychelles,Mauritius
+591,590,1937,6629,1,Rs,Seychelles,Mauritius
+591,590,1938,6026,1,Rs,Seychelles,Mauritius
+591,630,1930,0,1,Rs,Seychelles,Iran
+591,630,1931,0,1,Rs,Seychelles,Iran
+591,630,1932,450,1,Rs,Seychelles,Iran
+591,630,1933,466,1,Rs,Seychelles,Iran
+591,630,1934,755,1,Rs,Seychelles,Iran
+591,630,1935,2190,1,Rs,Seychelles,Iran
+591,630,1936,4807,1,Rs,Seychelles,Iran
+591,630,1937,10176,1,Rs,Seychelles,Iran
+591,630,1938,11388,1,Rs,Seychelles,Iran
+591,640,1930,0,1,Rs,Seychelles,Turkey
+591,640,1931,0,1,Rs,Seychelles,Turkey
+591,640,1932,0,1,Rs,Seychelles,Turkey
+591,640,1933,44,1,Rs,Seychelles,Turkey
+591,640,1934,52,1,Rs,Seychelles,Turkey
+591,640,1935,36,1,Rs,Seychelles,Turkey
+591,640,1936,20,1,Rs,Seychelles,Turkey
+591,640,1937,43,1,Rs,Seychelles,Turkey
+591,640,1938,60,1,Rs,Seychelles,Turkey
+591,645,1930,0,1,Rs,Seychelles,Iraq
+591,645,1931,0,1,Rs,Seychelles,Iraq
+591,645,1932,0,1,Rs,Seychelles,Iraq
+591,645,1933,128,1,Rs,Seychelles,Iraq
+591,645,1934,392,1,Rs,Seychelles,Iraq
+591,645,1935,376,1,Rs,Seychelles,Iraq
+591,645,1936,472,1,Rs,Seychelles,Iraq
+591,645,1937,475,1,Rs,Seychelles,Iraq
+591,645,1938,316,1,Rs,Seychelles,Iraq
+591,651,1930,32906,1,Rs,Seychelles,Egypt
+591,651,1931,5531,1,Rs,Seychelles,Egypt
+591,651,1932,5168,1,Rs,Seychelles,Egypt
+591,651,1933,0,1,Rs,Seychelles,Egypt
+591,651,1934,1580,1,Rs,Seychelles,Egypt
+591,651,1935,290,1,Rs,Seychelles,Egypt
+591,651,1936,0,1,Rs,Seychelles,Egypt
+591,651,1937,0,1,Rs,Seychelles,Egypt
+591,651,1938,0,1,Rs,Seychelles,Egypt
+591,675,1930,37275,1,Rs,Seychelles,Arabia
+591,675,1931,16283,1,Rs,Seychelles,Arabia
+591,675,1932,15661,1,Rs,Seychelles,Arabia
+591,675,1933,21250,1,Rs,Seychelles,Arabia
+591,675,1934,18006,1,Rs,Seychelles,Arabia
+591,675,1935,16342,1,Rs,Seychelles,Arabia
+591,675,1936,15220,1,Rs,Seychelles,Arabia
+591,675,1937,11192,1,Rs,Seychelles,Arabia
+591,675,1938,11195,1,Rs,Seychelles,Arabia
+591,681,1930,0,1,Rs,Seychelles,Aden
+591,681,1931,0,1,Rs,Seychelles,Aden
+591,681,1932,1415,1,Rs,Seychelles,Aden
+591,681,1933,595,1,Rs,Seychelles,Aden
+591,681,1934,0,1,Rs,Seychelles,Aden
+591,681,1935,0,1,Rs,Seychelles,Aden
+591,681,1936,0,1,Rs,Seychelles,Aden
+591,681,1937,0,1,Rs,Seychelles,Aden
+591,681,1938,0,1,Rs,Seychelles,Aden
+591,710,1930,6034,1,Rs,Seychelles,China
+591,710,1931,0,1,Rs,Seychelles,China
+591,710,1932,0,1,Rs,Seychelles,China
+591,710,1933,697,1,Rs,Seychelles,China
+591,710,1934,68,1,Rs,Seychelles,China
+591,710,1935,837,1,Rs,Seychelles,China
+591,710,1936,52,1,Rs,Seychelles,China
+591,710,1937,1020,1,Rs,Seychelles,China
+591,710,1938,997,1,Rs,Seychelles,China
+591,720,1930,0,1,Rs,Seychelles,Hong Kong
+591,720,1931,15135,1,Rs,Seychelles,Hong Kong
+591,720,1932,11161,1,Rs,Seychelles,Hong Kong
+591,720,1933,7879,1,Rs,Seychelles,Hong Kong
+591,720,1934,7010,1,Rs,Seychelles,Hong Kong
+591,720,1935,3857,1,Rs,Seychelles,Hong Kong
+591,720,1936,2838,1,Rs,Seychelles,Hong Kong
+591,720,1937,12574,1,Rs,Seychelles,Hong Kong
+591,720,1938,7800,1,Rs,Seychelles,Hong Kong
+591,740,1930,77672,1,Rs,Seychelles,Japan
+591,740,1931,44710,1,Rs,Seychelles,Japan
+591,740,1932,93878,1,Rs,Seychelles,Japan
+591,740,1933,63039,1,Rs,Seychelles,Japan
+591,740,1934,54746,1,Rs,Seychelles,Japan
+591,740,1935,53652,1,Rs,Seychelles,Japan
+591,740,1936,59443,1,Rs,Seychelles,Japan
+591,740,1937,63645,1,Rs,Seychelles,Japan
+591,740,1938,45405,1,Rs,Seychelles,Japan
+591,750,1930,564814,1,Rs,Seychelles,India
+591,750,1931,373247,1,Rs,Seychelles,India
+591,750,1932,358358,1,Rs,Seychelles,India
+591,750,1933,247003,1,Rs,Seychelles,India
+591,750,1934,235022,1,Rs,Seychelles,India
+591,750,1935,311406,1,Rs,Seychelles,India
+591,750,1936,380899,1,Rs,Seychelles,India
+591,750,1937,413855,1,Rs,Seychelles,India
+591,750,1938,263737,1,Rs,Seychelles,India
+591,775,1930,0,1,Rs,Seychelles,Myanmar
+591,775,1931,0,1,Rs,Seychelles,Myanmar
+591,775,1932,0,1,Rs,Seychelles,Myanmar
+591,775,1933,0,1,Rs,Seychelles,Myanmar
+591,775,1934,0,1,Rs,Seychelles,Myanmar
+591,775,1935,0,1,Rs,Seychelles,Myanmar
+591,775,1936,0,1,Rs,Seychelles,Myanmar
+591,775,1937,0,1,Rs,Seychelles,Myanmar
+591,775,1938,117182,1,Rs,Seychelles,Myanmar
+591,780,1930,682,1,Rs,Seychelles,Sri Lanka
+591,780,1931,3074,1,Rs,Seychelles,Sri Lanka
+591,780,1932,1457,1,Rs,Seychelles,Sri Lanka
+591,780,1933,496,1,Rs,Seychelles,Sri Lanka
+591,780,1934,875,1,Rs,Seychelles,Sri Lanka
+591,780,1935,574,1,Rs,Seychelles,Sri Lanka
+591,780,1936,986,1,Rs,Seychelles,Sri Lanka
+591,780,1937,972,1,Rs,Seychelles,Sri Lanka
+591,780,1938,4211,1,Rs,Seychelles,Sri Lanka
+591,823,1930,0,1,Rs,Seychelles,British Borneo
+591,823,1931,0,1,Rs,Seychelles,British Borneo
+591,823,1932,0,1,Rs,Seychelles,British Borneo
+591,823,1933,0,1,Rs,Seychelles,British Borneo
+591,823,1934,0,1,Rs,Seychelles,British Borneo
+591,823,1935,2236,1,Rs,Seychelles,British Borneo
+591,823,1936,68,1,Rs,Seychelles,British Borneo
+591,823,1937,386,1,Rs,Seychelles,British Borneo
+591,823,1938,0,1,Rs,Seychelles,British Borneo
+591,830,1930,583,1,Rs,Seychelles,Singapore
+591,830,1931,1891,1,Rs,Seychelles,Singapore
+591,830,1932,2210,1,Rs,Seychelles,Singapore
+591,830,1933,61,1,Rs,Seychelles,Singapore
+591,830,1934,946,1,Rs,Seychelles,Singapore
+591,830,1935,147,1,Rs,Seychelles,Singapore
+591,830,1936,134,1,Rs,Seychelles,Singapore
+591,830,1937,370,1,Rs,Seychelles,Singapore
+591,830,1938,699,1,Rs,Seychelles,Singapore
+591,900,1930,499,1,Rs,Seychelles,Australia
+591,900,1931,1151,1,Rs,Seychelles,Australia
+591,900,1932,1905,1,Rs,Seychelles,Australia
+591,900,1933,16850,1,Rs,Seychelles,Australia
+591,900,1934,21542,1,Rs,Seychelles,Australia
+591,900,1935,33009,1,Rs,Seychelles,Australia
+591,900,1936,23000,1,Rs,Seychelles,Australia
+591,900,1937,38435,1,Rs,Seychelles,Australia
+591,900,1938,38426,1,Rs,Seychelles,Australia
+591,920,1930,818,1,Rs,Seychelles,New Zealand
+591,920,1931,236,1,Rs,Seychelles,New Zealand
+591,920,1932,0,1,Rs,Seychelles,New Zealand
+591,920,1933,296,1,Rs,Seychelles,New Zealand
+591,920,1934,0,1,Rs,Seychelles,New Zealand
+591,920,1935,0,1,Rs,Seychelles,New Zealand
+591,920,1936,0,1,Rs,Seychelles,New Zealand
+591,920,1937,19,1,Rs,Seychelles,New Zealand
+591,920,1938,20,1,Rs,Seychelles,New Zealand
+591,2100,1930,93665,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1931,87654,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1932,80486,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1933,52417,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1934,35157,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1935,32375,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1936,43499,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1937,69320,1,Rs,Seychelles,Other Dutch possessions
+591,2100,1938,56878,1,Rs,Seychelles,Other Dutch possessions
+591,2200,1930,16326,1,Rs,Seychelles,Other French possessions
+591,2200,1931,7359,1,Rs,Seychelles,Other French possessions
+591,2200,1932,6103,1,Rs,Seychelles,Other French possessions
+591,2200,1933,7039,1,Rs,Seychelles,Other French possessions
+591,2200,1934,12654,1,Rs,Seychelles,Other French possessions
+591,2200,1935,1154,1,Rs,Seychelles,Other French possessions
+591,2200,1936,1250,1,Rs,Seychelles,Other French possessions
+591,2200,1937,110,1,Rs,Seychelles,Other French possessions
+591,2200,1938,1381,1,Rs,Seychelles,Other French possessions
+591,2350,1930,0,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1931,10959,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1932,24160,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1933,45389,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1934,33460,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1935,33755,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1936,37828,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1937,35528,1,Rs,Seychelles,Other Portuguese possessions
+591,2350,1938,25650,1,Rs,Seychelles,Other Portuguese possessions
+591,,1930,1631077,1,Rs,Seychelles,
+591,,1931,1069958,1,Rs,Seychelles,
+591,,1932,1008111,1,Rs,Seychelles,
+591,,1933,834943,1,Rs,Seychelles,
+591,,1934,823953,1,Rs,Seychelles,
+591,,1935,891384,1,Rs,Seychelles,
+591,,1936,1132141,1,Rs,Seychelles,
+591,,1937,1263351,1,Rs,Seychelles,
+591,,1938,1137134,1,Rs,Seychelles,

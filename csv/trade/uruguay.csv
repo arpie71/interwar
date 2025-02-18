@@ -1,0 +1,2753 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+165,2,1915,7270986,1,,Uruguay,United States
+165,2,1919,15352054,1,Pesos,Uruguay,United States
+165,2,1920,14674104,1,Pesos,Uruguay,United States
+165,2,1921,10329961,1,Pesos,Uruguay,United States
+165,2,1922,9183344,1,Pesos,Uruguay,United States
+165,2,1923,0,1,,Uruguay,United States
+165,2,1924,15202988,1,Pesos,Uruguay,United States
+165,2,1925,20630791,1,Pesos,Uruguay,United States
+165,2,1926,21323244,1,Pesos,Uruguay,United States
+165,2,1927,24883214,1,Pesos,Uruguay,United States
+165,2,1928,28474473,1,Pesos,Uruguay,United States
+165,2,1929,28182156,1,Pesos,Uruguay,United States
+165,2,1930,23476829,1,Pesos,Uruguay,United States
+165,2,1931,17089919,1,,Uruguay,United States
+165,2,1932,5317822,1,,Uruguay,United States
+165,2,1933,5501977,1,,Uruguay,United States
+165,2,1934,9003612,1,,Uruguay,United States
+165,2,1935,10210544,1,,Uruguay,United States
+165,2,1936,9039877,1,,Uruguay,United States
+165,2,1937,10873643,1,,Uruguay,United States
+165,2,1938,8845532,1,,Uruguay,United States
+165,2,1939,3469780,1,,Uruguay,United States
+165,2,1940,10392413,1,Us $,Uruguay,United States
+165,2,1941,19424393,1,Us $,Uruguay,United States
+165,2,1942,20069145,1,Us $,Uruguay,United States
+165,2,1943,16094681,1,Us $,Uruguay,United States
+165,2,1944,18856027,1,Us $,Uruguay,United States
+165,2,1945,29900166,1,Us $,Uruguay,United States
+165,2,1946,48137712,1,Us $,Uruguay,United States
+165,2,1947,82341717,1,Us $,Uruguay,United States
+165,2,1948,67454813,1,Us $,Uruguay,United States
+165,2,1949,39516986,1,Us $,Uruguay,United States
+165,4,1915,0,1,,Uruguay,Hawaii
+165,4,1919,0,1,Pesos,Uruguay,Hawaii
+165,4,1920,0,1,Pesos,Uruguay,Hawaii
+165,4,1921,0,1,Pesos,Uruguay,Hawaii
+165,4,1922,0,1,Pesos,Uruguay,Hawaii
+165,4,1923,0,1,,Uruguay,Hawaii
+165,4,1924,0,1,Pesos,Uruguay,Hawaii
+165,4,1925,0,1,Pesos,Uruguay,Hawaii
+165,4,1926,0,1,Pesos,Uruguay,Hawaii
+165,4,1927,0,1,Pesos,Uruguay,Hawaii
+165,4,1928,0,1,Pesos,Uruguay,Hawaii
+165,4,1929,0,1,Pesos,Uruguay,Hawaii
+165,4,1930,0,1,Pesos,Uruguay,Hawaii
+165,4,1931,0,1,,Uruguay,Hawaii
+165,4,1932,0,1,,Uruguay,Hawaii
+165,4,1933,0,1,,Uruguay,Hawaii
+165,4,1934,0,1,,Uruguay,Hawaii
+165,4,1935,0,1,,Uruguay,Hawaii
+165,4,1936,0,1,,Uruguay,Hawaii
+165,4,1937,0,1,,Uruguay,Hawaii
+165,4,1938,0,1,,Uruguay,Hawaii
+165,4,1939,0,1,,Uruguay,Hawaii
+165,4,1940,0,1,Us $,Uruguay,Hawaii
+165,4,1941,0,1,Us $,Uruguay,Hawaii
+165,4,1942,0,1,Us $,Uruguay,Hawaii
+165,4,1943,0,1,Us $,Uruguay,Hawaii
+165,4,1944,0,1,Us $,Uruguay,Hawaii
+165,4,1945,0,1,Us $,Uruguay,Hawaii
+165,4,1946,0,1,Us $,Uruguay,Hawaii
+165,4,1947,0,1,Us $,Uruguay,Hawaii
+165,4,1948,0,1,Us $,Uruguay,Hawaii
+165,4,1949,0,1,Us $,Uruguay,Hawaii
+165,6,1915,0,1,,Uruguay,Puerto Rico
+165,6,1919,564,1,Pesos,Uruguay,Puerto Rico
+165,6,1920,0,1,Pesos,Uruguay,Puerto Rico
+165,6,1921,0,1,Pesos,Uruguay,Puerto Rico
+165,6,1922,442,1,Pesos,Uruguay,Puerto Rico
+165,6,1923,0,1,,Uruguay,Puerto Rico
+165,6,1924,0,1,Pesos,Uruguay,Puerto Rico
+165,6,1925,5509,1,Pesos,Uruguay,Puerto Rico
+165,6,1926,18232,1,Pesos,Uruguay,Puerto Rico
+165,6,1927,23805,1,Pesos,Uruguay,Puerto Rico
+165,6,1928,14657,1,Pesos,Uruguay,Puerto Rico
+165,6,1929,19273,1,Pesos,Uruguay,Puerto Rico
+165,6,1930,22285,1,Pesos,Uruguay,Puerto Rico
+165,6,1931,14800,1,,Uruguay,Puerto Rico
+165,6,1932,35310,1,,Uruguay,Puerto Rico
+165,6,1933,0,1,,Uruguay,Puerto Rico
+165,6,1934,0,1,,Uruguay,Puerto Rico
+165,6,1935,0,1,,Uruguay,Puerto Rico
+165,6,1936,0,1,,Uruguay,Puerto Rico
+165,6,1937,690,1,,Uruguay,Puerto Rico
+165,6,1938,0,1,,Uruguay,Puerto Rico
+165,6,1939,0,1,,Uruguay,Puerto Rico
+165,6,1940,0,1,Us $,Uruguay,Puerto Rico
+165,6,1941,0,1,Us $,Uruguay,Puerto Rico
+165,6,1942,0,1,Us $,Uruguay,Puerto Rico
+165,6,1943,0,1,Us $,Uruguay,Puerto Rico
+165,6,1944,0,1,Us $,Uruguay,Puerto Rico
+165,6,1945,0,1,Us $,Uruguay,Puerto Rico
+165,6,1946,0,1,Us $,Uruguay,Puerto Rico
+165,6,1947,0,1,Us $,Uruguay,Puerto Rico
+165,6,1948,0,1,Us $,Uruguay,Puerto Rico
+165,6,1949,0,1,Us $,Uruguay,Puerto Rico
+165,20,1915,0,1,,Uruguay,Canada
+165,20,1919,40114,1,Pesos,Uruguay,Canada
+165,20,1920,9310,1,Pesos,Uruguay,Canada
+165,20,1921,22805,1,Pesos,Uruguay,Canada
+165,20,1922,15363,1,Pesos,Uruguay,Canada
+165,20,1923,0,1,,Uruguay,Canada
+165,20,1924,20709,1,Pesos,Uruguay,Canada
+165,20,1925,51457,1,Pesos,Uruguay,Canada
+165,20,1926,482888,1,Pesos,Uruguay,Canada
+165,20,1927,209616,1,Pesos,Uruguay,Canada
+165,20,1928,93267,1,Pesos,Uruguay,Canada
+165,20,1929,95829,1,Pesos,Uruguay,Canada
+165,20,1930,23641,1,Pesos,Uruguay,Canada
+165,20,1931,94359,1,,Uruguay,Canada
+165,20,1932,30941,1,,Uruguay,Canada
+165,20,1933,24337,1,,Uruguay,Canada
+165,20,1934,57266,1,,Uruguay,Canada
+165,20,1935,313068,1,,Uruguay,Canada
+165,20,1936,571276,1,,Uruguay,Canada
+165,20,1937,481689,1,,Uruguay,Canada
+165,20,1938,253340,1,,Uruguay,Canada
+165,20,1939,85867,1,,Uruguay,Canada
+165,20,1940,606640,1,Us $,Uruguay,Canada
+165,20,1941,1055884,1,Us $,Uruguay,Canada
+165,20,1942,1313022,1,Us $,Uruguay,Canada
+165,20,1943,1364564,1,Us $,Uruguay,Canada
+165,20,1944,1255443,1,Us $,Uruguay,Canada
+165,20,1945,2181382,1,Us $,Uruguay,Canada
+165,20,1946,2932897,1,Us $,Uruguay,Canada
+165,20,1947,3912447,1,Us $,Uruguay,Canada
+165,20,1948,5275415,1,Us $,Uruguay,Canada
+165,20,1949,2495903,1,Us $,Uruguay,Canada
+165,21,1915,0,1,,Uruguay,Newfoundland
+165,21,1919,0,1,Pesos,Uruguay,Newfoundland
+165,21,1920,0,1,Pesos,Uruguay,Newfoundland
+165,21,1921,0,1,Pesos,Uruguay,Newfoundland
+165,21,1922,0,1,Pesos,Uruguay,Newfoundland
+165,21,1923,0,1,,Uruguay,Newfoundland
+165,21,1924,0,1,Pesos,Uruguay,Newfoundland
+165,21,1925,0,1,Pesos,Uruguay,Newfoundland
+165,21,1926,0,1,Pesos,Uruguay,Newfoundland
+165,21,1927,0,1,Pesos,Uruguay,Newfoundland
+165,21,1928,0,1,Pesos,Uruguay,Newfoundland
+165,21,1929,0,1,Pesos,Uruguay,Newfoundland
+165,21,1930,0,1,Pesos,Uruguay,Newfoundland
+165,21,1931,0,1,,Uruguay,Newfoundland
+165,21,1932,0,1,,Uruguay,Newfoundland
+165,21,1933,0,1,,Uruguay,Newfoundland
+165,21,1934,0,1,,Uruguay,Newfoundland
+165,21,1935,0,1,,Uruguay,Newfoundland
+165,21,1936,0,1,,Uruguay,Newfoundland
+165,21,1937,0,1,,Uruguay,Newfoundland
+165,21,1938,0,1,,Uruguay,Newfoundland
+165,21,1939,0,1,,Uruguay,Newfoundland
+165,21,1940,0,1,Us $,Uruguay,Newfoundland
+165,21,1941,0,1,Us $,Uruguay,Newfoundland
+165,21,1942,0,1,Us $,Uruguay,Newfoundland
+165,21,1943,3931,1,Us $,Uruguay,Newfoundland
+165,21,1944,0,1,Us $,Uruguay,Newfoundland
+165,21,1945,0,1,Us $,Uruguay,Newfoundland
+165,21,1946,0,1,Us $,Uruguay,Newfoundland
+165,21,1947,0,1,Us $,Uruguay,Newfoundland
+165,21,1948,0,1,Us $,Uruguay,Newfoundland
+165,21,1949,0,1,Us $,Uruguay,Newfoundland
+165,40,1915,228680,1,,Uruguay,Cuba
+165,40,1919,117977,1,Pesos,Uruguay,Cuba
+165,40,1920,210179,1,Pesos,Uruguay,Cuba
+165,40,1921,240855,1,Pesos,Uruguay,Cuba
+165,40,1922,396367,1,Pesos,Uruguay,Cuba
+165,40,1923,0,1,,Uruguay,Cuba
+165,40,1924,433841,1,Pesos,Uruguay,Cuba
+165,40,1925,509727,1,Pesos,Uruguay,Cuba
+165,40,1926,511227,1,Pesos,Uruguay,Cuba
+165,40,1927,521697,1,Pesos,Uruguay,Cuba
+165,40,1928,667287,1,Pesos,Uruguay,Cuba
+165,40,1929,571551,1,Pesos,Uruguay,Cuba
+165,40,1930,598810,1,Pesos,Uruguay,Cuba
+165,40,1931,753495,1,,Uruguay,Cuba
+165,40,1932,406972,1,,Uruguay,Cuba
+165,40,1933,461829,1,,Uruguay,Cuba
+165,40,1934,140403,1,,Uruguay,Cuba
+165,40,1935,72564,1,,Uruguay,Cuba
+165,40,1936,220376,1,,Uruguay,Cuba
+165,40,1937,91249,1,,Uruguay,Cuba
+165,40,1938,95026,1,,Uruguay,Cuba
+165,40,1939,100534,1,,Uruguay,Cuba
+165,40,1940,106507,1,Us $,Uruguay,Cuba
+165,40,1941,244594,1,Us $,Uruguay,Cuba
+165,40,1942,291451,1,Us $,Uruguay,Cuba
+165,40,1943,317472,1,Us $,Uruguay,Cuba
+165,40,1944,234612,1,Us $,Uruguay,Cuba
+165,40,1945,434747,1,Us $,Uruguay,Cuba
+165,40,1946,6918263,1,Us $,Uruguay,Cuba
+165,40,1947,562383,1,Us $,Uruguay,Cuba
+165,40,1948,517172,1,Us $,Uruguay,Cuba
+165,40,1949,820000,1,Us $,Uruguay,Cuba
+165,41,1915,0,1,,Uruguay,Haiti
+165,41,1919,0,1,Pesos,Uruguay,Haiti
+165,41,1920,0,1,Pesos,Uruguay,Haiti
+165,41,1921,0,1,Pesos,Uruguay,Haiti
+165,41,1922,0,1,Pesos,Uruguay,Haiti
+165,41,1923,0,1,,Uruguay,Haiti
+165,41,1924,0,1,Pesos,Uruguay,Haiti
+165,41,1925,0,1,Pesos,Uruguay,Haiti
+165,41,1926,0,1,Pesos,Uruguay,Haiti
+165,41,1927,0,1,Pesos,Uruguay,Haiti
+165,41,1928,0,1,Pesos,Uruguay,Haiti
+165,41,1929,0,1,Pesos,Uruguay,Haiti
+165,41,1930,0,1,Pesos,Uruguay,Haiti
+165,41,1931,0,1,,Uruguay,Haiti
+165,41,1932,0,1,,Uruguay,Haiti
+165,41,1933,0,1,,Uruguay,Haiti
+165,41,1934,0,1,,Uruguay,Haiti
+165,41,1935,0,1,,Uruguay,Haiti
+165,41,1936,0,1,,Uruguay,Haiti
+165,41,1937,0,1,,Uruguay,Haiti
+165,41,1938,0,1,,Uruguay,Haiti
+165,41,1939,0,1,,Uruguay,Haiti
+165,41,1940,0,1,Us $,Uruguay,Haiti
+165,41,1941,0,1,Us $,Uruguay,Haiti
+165,41,1942,0,1,Us $,Uruguay,Haiti
+165,41,1943,0,1,Us $,Uruguay,Haiti
+165,41,1944,981,1,Us $,Uruguay,Haiti
+165,41,1945,1180,1,Us $,Uruguay,Haiti
+165,41,1946,0,1,Us $,Uruguay,Haiti
+165,41,1947,0,1,Us $,Uruguay,Haiti
+165,41,1948,0,1,Us $,Uruguay,Haiti
+165,41,1949,0,1,Us $,Uruguay,Haiti
+165,42,1915,0,1,,Uruguay,Dominican Republic
+165,42,1919,0,1,Pesos,Uruguay,Dominican Republic
+165,42,1920,0,1,Pesos,Uruguay,Dominican Republic
+165,42,1921,0,1,Pesos,Uruguay,Dominican Republic
+165,42,1922,0,1,Pesos,Uruguay,Dominican Republic
+165,42,1923,0,1,,Uruguay,Dominican Republic
+165,42,1924,387,1,Pesos,Uruguay,Dominican Republic
+165,42,1925,3000,1,Pesos,Uruguay,Dominican Republic
+165,42,1926,12434,1,Pesos,Uruguay,Dominican Republic
+165,42,1927,11853,1,Pesos,Uruguay,Dominican Republic
+165,42,1928,12123,1,Pesos,Uruguay,Dominican Republic
+165,42,1929,261,1,Pesos,Uruguay,Dominican Republic
+165,42,1930,0,1,Pesos,Uruguay,Dominican Republic
+165,42,1931,106,1,,Uruguay,Dominican Republic
+165,42,1932,101,1,,Uruguay,Dominican Republic
+165,42,1933,572,1,,Uruguay,Dominican Republic
+165,42,1934,1517,1,,Uruguay,Dominican Republic
+165,42,1935,0,1,,Uruguay,Dominican Republic
+165,42,1936,0,1,,Uruguay,Dominican Republic
+165,42,1937,4926,1,,Uruguay,Dominican Republic
+165,42,1938,9645,1,,Uruguay,Dominican Republic
+165,42,1939,19447,1,,Uruguay,Dominican Republic
+165,42,1940,12408,1,Us $,Uruguay,Dominican Republic
+165,42,1941,24923,1,Us $,Uruguay,Dominican Republic
+165,42,1942,7939,1,Us $,Uruguay,Dominican Republic
+165,42,1943,16805,1,Us $,Uruguay,Dominican Republic
+165,42,1944,55857,1,Us $,Uruguay,Dominican Republic
+165,42,1945,51219,1,Us $,Uruguay,Dominican Republic
+165,42,1946,176909,1,Us $,Uruguay,Dominican Republic
+165,42,1947,42932,1,Us $,Uruguay,Dominican Republic
+165,42,1948,22379,1,Us $,Uruguay,Dominican Republic
+165,42,1949,107012,1,Us $,Uruguay,Dominican Republic
+165,51,1915,0,1,,Uruguay,Jamaica
+165,51,1919,0,1,Pesos,Uruguay,Jamaica
+165,51,1920,0,1,Pesos,Uruguay,Jamaica
+165,51,1921,0,1,Pesos,Uruguay,Jamaica
+165,51,1922,0,1,Pesos,Uruguay,Jamaica
+165,51,1923,0,1,,Uruguay,Jamaica
+165,51,1924,0,1,Pesos,Uruguay,Jamaica
+165,51,1925,0,1,Pesos,Uruguay,Jamaica
+165,51,1926,0,1,Pesos,Uruguay,Jamaica
+165,51,1927,0,1,Pesos,Uruguay,Jamaica
+165,51,1928,60,1,Pesos,Uruguay,Jamaica
+165,51,1929,560,1,Pesos,Uruguay,Jamaica
+165,51,1930,0,1,Pesos,Uruguay,Jamaica
+165,51,1931,0,1,,Uruguay,Jamaica
+165,51,1932,0,1,,Uruguay,Jamaica
+165,51,1933,0,1,,Uruguay,Jamaica
+165,51,1934,0,1,,Uruguay,Jamaica
+165,51,1935,0,1,,Uruguay,Jamaica
+165,51,1936,0,1,,Uruguay,Jamaica
+165,51,1937,0,1,,Uruguay,Jamaica
+165,51,1938,0,1,,Uruguay,Jamaica
+165,51,1939,0,1,,Uruguay,Jamaica
+165,51,1940,0,1,Us $,Uruguay,Jamaica
+165,51,1941,0,1,Us $,Uruguay,Jamaica
+165,51,1942,0,1,Us $,Uruguay,Jamaica
+165,51,1943,2184,1,Us $,Uruguay,Jamaica
+165,51,1944,0,1,Us $,Uruguay,Jamaica
+165,51,1945,2116,1,Us $,Uruguay,Jamaica
+165,51,1946,0,1,Us $,Uruguay,Jamaica
+165,51,1947,0,1,Us $,Uruguay,Jamaica
+165,51,1948,0,1,Us $,Uruguay,Jamaica
+165,51,1949,0,1,Us $,Uruguay,Jamaica
+165,52,1915,0,1,,Uruguay,Trinidad And Tobago
+165,52,1919,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1920,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1921,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1922,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1923,0,1,,Uruguay,Trinidad And Tobago
+165,52,1924,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1925,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1926,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1927,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1928,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1929,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1930,0,1,Pesos,Uruguay,Trinidad And Tobago
+165,52,1931,0,1,,Uruguay,Trinidad And Tobago
+165,52,1932,0,1,,Uruguay,Trinidad And Tobago
+165,52,1933,0,1,,Uruguay,Trinidad And Tobago
+165,52,1934,0,1,,Uruguay,Trinidad And Tobago
+165,52,1935,0,1,,Uruguay,Trinidad And Tobago
+165,52,1936,0,1,,Uruguay,Trinidad And Tobago
+165,52,1937,0,1,,Uruguay,Trinidad And Tobago
+165,52,1938,0,1,,Uruguay,Trinidad And Tobago
+165,52,1939,0,1,,Uruguay,Trinidad And Tobago
+165,52,1940,0,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1941,0,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1942,0,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1943,21577,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1944,106629,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1945,24721,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1946,1278,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1947,20565,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1948,19646,1,Us $,Uruguay,Trinidad And Tobago
+165,52,1949,59342,1,Us $,Uruguay,Trinidad And Tobago
+165,66,1915,0,1,,Uruguay,Martinique
+165,66,1919,0,1,Pesos,Uruguay,Martinique
+165,66,1920,0,1,Pesos,Uruguay,Martinique
+165,66,1921,0,1,Pesos,Uruguay,Martinique
+165,66,1922,0,1,Pesos,Uruguay,Martinique
+165,66,1923,0,1,,Uruguay,Martinique
+165,66,1924,0,1,Pesos,Uruguay,Martinique
+165,66,1925,0,1,Pesos,Uruguay,Martinique
+165,66,1926,0,1,Pesos,Uruguay,Martinique
+165,66,1927,0,1,Pesos,Uruguay,Martinique
+165,66,1928,0,1,Pesos,Uruguay,Martinique
+165,66,1929,0,1,Pesos,Uruguay,Martinique
+165,66,1930,0,1,Pesos,Uruguay,Martinique
+165,66,1931,0,1,,Uruguay,Martinique
+165,66,1932,0,1,,Uruguay,Martinique
+165,66,1933,0,1,,Uruguay,Martinique
+165,66,1934,0,1,,Uruguay,Martinique
+165,66,1935,0,1,,Uruguay,Martinique
+165,66,1936,0,1,,Uruguay,Martinique
+165,66,1937,0,1,,Uruguay,Martinique
+165,66,1938,0,1,,Uruguay,Martinique
+165,66,1939,0,1,,Uruguay,Martinique
+165,66,1940,0,1,Us $,Uruguay,Martinique
+165,66,1941,0,1,Us $,Uruguay,Martinique
+165,66,1942,0,1,Us $,Uruguay,Martinique
+165,66,1943,144,1,Us $,Uruguay,Martinique
+165,66,1944,0,1,Us $,Uruguay,Martinique
+165,66,1945,0,1,Us $,Uruguay,Martinique
+165,66,1946,0,1,Us $,Uruguay,Martinique
+165,66,1947,0,1,Us $,Uruguay,Martinique
+165,66,1948,0,1,Us $,Uruguay,Martinique
+165,66,1949,0,1,Us $,Uruguay,Martinique
+165,68,1915,0,1,,Uruguay,Netherlands Antilles
+165,68,1919,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1920,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1921,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1922,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1923,0,1,,Uruguay,Netherlands Antilles
+165,68,1924,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1925,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1926,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1927,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1928,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1929,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1930,0,1,Pesos,Uruguay,Netherlands Antilles
+165,68,1931,0,1,,Uruguay,Netherlands Antilles
+165,68,1932,0,1,,Uruguay,Netherlands Antilles
+165,68,1933,0,1,,Uruguay,Netherlands Antilles
+165,68,1934,0,1,,Uruguay,Netherlands Antilles
+165,68,1935,4548471,1,,Uruguay,Netherlands Antilles
+165,68,1936,7792551,1,,Uruguay,Netherlands Antilles
+165,68,1937,7078465,1,,Uruguay,Netherlands Antilles
+165,68,1938,3189196,1,,Uruguay,Netherlands Antilles
+165,68,1939,3216745,1,,Uruguay,Netherlands Antilles
+165,68,1940,2698099,1,Us $,Uruguay,Netherlands Antilles
+165,68,1941,3059671,1,Us $,Uruguay,Netherlands Antilles
+165,68,1942,1800950,1,Us $,Uruguay,Netherlands Antilles
+165,68,1943,542309,1,Us $,Uruguay,Netherlands Antilles
+165,68,1944,697191,1,Us $,Uruguay,Netherlands Antilles
+165,68,1945,56151,1,Us $,Uruguay,Netherlands Antilles
+165,68,1946,2927769,1,Us $,Uruguay,Netherlands Antilles
+165,68,1947,3850982,1,Us $,Uruguay,Netherlands Antilles
+165,68,1948,2073274,1,Us $,Uruguay,Netherlands Antilles
+165,68,1949,901455,1,Us $,Uruguay,Netherlands Antilles
+165,70,1915,39880,1,,Uruguay,Mexico
+165,70,1919,374211,1,Pesos,Uruguay,Mexico
+165,70,1920,1059706,1,Pesos,Uruguay,Mexico
+165,70,1921,1612927,1,Pesos,Uruguay,Mexico
+165,70,1922,2325378,1,Pesos,Uruguay,Mexico
+165,70,1923,0,1,,Uruguay,Mexico
+165,70,1924,2836959,1,Pesos,Uruguay,Mexico
+165,70,1925,2454250,1,Pesos,Uruguay,Mexico
+165,70,1926,1522891,1,Pesos,Uruguay,Mexico
+165,70,1927,1618998,1,Pesos,Uruguay,Mexico
+165,70,1928,3113129,1,Pesos,Uruguay,Mexico
+165,70,1929,1923980,1,Pesos,Uruguay,Mexico
+165,70,1930,1387726,1,Pesos,Uruguay,Mexico
+165,70,1931,1190456,1,,Uruguay,Mexico
+165,70,1932,887118,1,,Uruguay,Mexico
+165,70,1933,581800,1,,Uruguay,Mexico
+165,70,1934,758539,1,,Uruguay,Mexico
+165,70,1935,521614,1,,Uruguay,Mexico
+165,70,1936,1672327,1,,Uruguay,Mexico
+165,70,1937,1475492,1,,Uruguay,Mexico
+165,70,1938,268051,1,,Uruguay,Mexico
+165,70,1939,282323,1,,Uruguay,Mexico
+165,70,1940,308974,1,Us $,Uruguay,Mexico
+165,70,1941,431767,1,Us $,Uruguay,Mexico
+165,70,1942,339515,1,Us $,Uruguay,Mexico
+165,70,1943,157761,1,Us $,Uruguay,Mexico
+165,70,1944,793515,1,Us $,Uruguay,Mexico
+165,70,1945,790876,1,Us $,Uruguay,Mexico
+165,70,1946,1615925,1,Us $,Uruguay,Mexico
+165,70,1947,2096144,1,Us $,Uruguay,Mexico
+165,70,1948,806008,1,Us $,Uruguay,Mexico
+165,70,1949,196113,1,Us $,Uruguay,Mexico
+165,90,1915,0,1,,Uruguay,Guatemala
+165,90,1919,0,1,Pesos,Uruguay,Guatemala
+165,90,1920,0,1,Pesos,Uruguay,Guatemala
+165,90,1921,0,1,Pesos,Uruguay,Guatemala
+165,90,1922,0,1,Pesos,Uruguay,Guatemala
+165,90,1923,0,1,,Uruguay,Guatemala
+165,90,1924,0,1,Pesos,Uruguay,Guatemala
+165,90,1925,0,1,Pesos,Uruguay,Guatemala
+165,90,1926,0,1,Pesos,Uruguay,Guatemala
+165,90,1927,0,1,Pesos,Uruguay,Guatemala
+165,90,1928,0,1,Pesos,Uruguay,Guatemala
+165,90,1929,0,1,Pesos,Uruguay,Guatemala
+165,90,1930,0,1,Pesos,Uruguay,Guatemala
+165,90,1931,0,1,,Uruguay,Guatemala
+165,90,1932,0,1,,Uruguay,Guatemala
+165,90,1933,0,1,,Uruguay,Guatemala
+165,90,1934,0,1,,Uruguay,Guatemala
+165,90,1935,0,1,,Uruguay,Guatemala
+165,90,1936,0,1,,Uruguay,Guatemala
+165,90,1937,0,1,,Uruguay,Guatemala
+165,90,1938,0,1,,Uruguay,Guatemala
+165,90,1939,82416,1,,Uruguay,Guatemala
+165,90,1940,0,1,Us $,Uruguay,Guatemala
+165,90,1941,0,1,Us $,Uruguay,Guatemala
+165,90,1942,0,1,Us $,Uruguay,Guatemala
+165,90,1943,0,1,Us $,Uruguay,Guatemala
+165,90,1944,0,1,Us $,Uruguay,Guatemala
+165,90,1945,0,1,Us $,Uruguay,Guatemala
+165,90,1946,0,1,Us $,Uruguay,Guatemala
+165,90,1947,0,1,Us $,Uruguay,Guatemala
+165,90,1948,0,1,Us $,Uruguay,Guatemala
+165,90,1949,0,1,Us $,Uruguay,Guatemala
+165,91,1915,0,1,,Uruguay,Honduras
+165,91,1919,0,1,Pesos,Uruguay,Honduras
+165,91,1920,0,1,Pesos,Uruguay,Honduras
+165,91,1921,0,1,Pesos,Uruguay,Honduras
+165,91,1922,0,1,Pesos,Uruguay,Honduras
+165,91,1923,0,1,,Uruguay,Honduras
+165,91,1924,0,1,Pesos,Uruguay,Honduras
+165,91,1925,0,1,Pesos,Uruguay,Honduras
+165,91,1926,0,1,Pesos,Uruguay,Honduras
+165,91,1927,0,1,Pesos,Uruguay,Honduras
+165,91,1928,0,1,Pesos,Uruguay,Honduras
+165,91,1929,0,1,Pesos,Uruguay,Honduras
+165,91,1930,0,1,Pesos,Uruguay,Honduras
+165,91,1931,0,1,,Uruguay,Honduras
+165,91,1932,0,1,,Uruguay,Honduras
+165,91,1933,0,1,,Uruguay,Honduras
+165,91,1934,0,1,,Uruguay,Honduras
+165,91,1935,0,1,,Uruguay,Honduras
+165,91,1936,0,1,,Uruguay,Honduras
+165,91,1937,0,1,,Uruguay,Honduras
+165,91,1938,0,1,,Uruguay,Honduras
+165,91,1939,0,1,,Uruguay,Honduras
+165,91,1940,0,1,Us $,Uruguay,Honduras
+165,91,1941,0,1,Us $,Uruguay,Honduras
+165,91,1942,0,1,Us $,Uruguay,Honduras
+165,91,1943,0,1,Us $,Uruguay,Honduras
+165,91,1944,0,1,Us $,Uruguay,Honduras
+165,91,1945,0,1,Us $,Uruguay,Honduras
+165,91,1946,0,1,Us $,Uruguay,Honduras
+165,91,1947,0,1,Us $,Uruguay,Honduras
+165,91,1948,0,1,Us $,Uruguay,Honduras
+165,91,1949,0,1,Us $,Uruguay,Honduras
+165,92,1915,0,1,,Uruguay,El Salvador
+165,92,1919,0,1,Pesos,Uruguay,El Salvador
+165,92,1920,0,1,Pesos,Uruguay,El Salvador
+165,92,1921,0,1,Pesos,Uruguay,El Salvador
+165,92,1922,0,1,Pesos,Uruguay,El Salvador
+165,92,1923,0,1,,Uruguay,El Salvador
+165,92,1924,0,1,Pesos,Uruguay,El Salvador
+165,92,1925,0,1,Pesos,Uruguay,El Salvador
+165,92,1926,0,1,Pesos,Uruguay,El Salvador
+165,92,1927,0,1,Pesos,Uruguay,El Salvador
+165,92,1928,0,1,Pesos,Uruguay,El Salvador
+165,92,1929,0,1,Pesos,Uruguay,El Salvador
+165,92,1930,0,1,Pesos,Uruguay,El Salvador
+165,92,1931,0,1,,Uruguay,El Salvador
+165,92,1932,0,1,,Uruguay,El Salvador
+165,92,1933,0,1,,Uruguay,El Salvador
+165,92,1934,0,1,,Uruguay,El Salvador
+165,92,1935,0,1,,Uruguay,El Salvador
+165,92,1936,0,1,,Uruguay,El Salvador
+165,92,1937,0,1,,Uruguay,El Salvador
+165,92,1938,0,1,,Uruguay,El Salvador
+165,92,1939,0,1,,Uruguay,El Salvador
+165,92,1940,0,1,Us $,Uruguay,El Salvador
+165,92,1941,0,1,Us $,Uruguay,El Salvador
+165,92,1942,0,1,Us $,Uruguay,El Salvador
+165,92,1943,1027,1,Us $,Uruguay,El Salvador
+165,92,1944,24,1,Us $,Uruguay,El Salvador
+165,92,1945,0,1,Us $,Uruguay,El Salvador
+165,92,1946,0,1,Us $,Uruguay,El Salvador
+165,92,1947,0,1,Us $,Uruguay,El Salvador
+165,92,1948,0,1,Us $,Uruguay,El Salvador
+165,92,1949,0,1,Us $,Uruguay,El Salvador
+165,93,1915,0,1,,Uruguay,Nicaragua
+165,93,1919,0,1,Pesos,Uruguay,Nicaragua
+165,93,1920,0,1,Pesos,Uruguay,Nicaragua
+165,93,1921,0,1,Pesos,Uruguay,Nicaragua
+165,93,1922,0,1,Pesos,Uruguay,Nicaragua
+165,93,1923,0,1,,Uruguay,Nicaragua
+165,93,1924,0,1,Pesos,Uruguay,Nicaragua
+165,93,1925,0,1,Pesos,Uruguay,Nicaragua
+165,93,1926,0,1,Pesos,Uruguay,Nicaragua
+165,93,1927,0,1,Pesos,Uruguay,Nicaragua
+165,93,1928,0,1,Pesos,Uruguay,Nicaragua
+165,93,1929,0,1,Pesos,Uruguay,Nicaragua
+165,93,1930,0,1,Pesos,Uruguay,Nicaragua
+165,93,1931,0,1,,Uruguay,Nicaragua
+165,93,1932,0,1,,Uruguay,Nicaragua
+165,93,1933,0,1,,Uruguay,Nicaragua
+165,93,1934,0,1,,Uruguay,Nicaragua
+165,93,1935,0,1,,Uruguay,Nicaragua
+165,93,1936,0,1,,Uruguay,Nicaragua
+165,93,1937,0,1,,Uruguay,Nicaragua
+165,93,1938,0,1,,Uruguay,Nicaragua
+165,93,1939,0,1,,Uruguay,Nicaragua
+165,93,1940,0,1,Us $,Uruguay,Nicaragua
+165,93,1941,0,1,Us $,Uruguay,Nicaragua
+165,93,1942,0,1,Us $,Uruguay,Nicaragua
+165,93,1943,0,1,Us $,Uruguay,Nicaragua
+165,93,1944,0,1,Us $,Uruguay,Nicaragua
+165,93,1945,0,1,Us $,Uruguay,Nicaragua
+165,93,1946,0,1,Us $,Uruguay,Nicaragua
+165,93,1947,0,1,Us $,Uruguay,Nicaragua
+165,93,1948,0,1,Us $,Uruguay,Nicaragua
+165,93,1949,0,1,Us $,Uruguay,Nicaragua
+165,94,1915,0,1,,Uruguay,Costa Rica
+165,94,1919,0,1,Pesos,Uruguay,Costa Rica
+165,94,1920,0,1,Pesos,Uruguay,Costa Rica
+165,94,1921,0,1,Pesos,Uruguay,Costa Rica
+165,94,1922,0,1,Pesos,Uruguay,Costa Rica
+165,94,1923,0,1,,Uruguay,Costa Rica
+165,94,1924,0,1,Pesos,Uruguay,Costa Rica
+165,94,1925,0,1,Pesos,Uruguay,Costa Rica
+165,94,1926,0,1,Pesos,Uruguay,Costa Rica
+165,94,1927,0,1,Pesos,Uruguay,Costa Rica
+165,94,1928,0,1,Pesos,Uruguay,Costa Rica
+165,94,1929,0,1,Pesos,Uruguay,Costa Rica
+165,94,1930,0,1,Pesos,Uruguay,Costa Rica
+165,94,1931,0,1,,Uruguay,Costa Rica
+165,94,1932,0,1,,Uruguay,Costa Rica
+165,94,1933,0,1,,Uruguay,Costa Rica
+165,94,1934,0,1,,Uruguay,Costa Rica
+165,94,1935,1384,1,,Uruguay,Costa Rica
+165,94,1936,690,1,,Uruguay,Costa Rica
+165,94,1937,0,1,,Uruguay,Costa Rica
+165,94,1938,686,1,,Uruguay,Costa Rica
+165,94,1939,706,1,,Uruguay,Costa Rica
+165,94,1940,0,1,Us $,Uruguay,Costa Rica
+165,94,1941,0,1,Us $,Uruguay,Costa Rica
+165,94,1942,0,1,Us $,Uruguay,Costa Rica
+165,94,1943,5403,1,Us $,Uruguay,Costa Rica
+165,94,1944,6949,1,Us $,Uruguay,Costa Rica
+165,94,1945,4752,1,Us $,Uruguay,Costa Rica
+165,94,1946,5501,1,Us $,Uruguay,Costa Rica
+165,94,1947,26607,1,Us $,Uruguay,Costa Rica
+165,94,1948,59124,1,Us $,Uruguay,Costa Rica
+165,94,1949,0,1,Us $,Uruguay,Costa Rica
+165,95,1915,0,1,,Uruguay,Panama
+165,95,1919,0,1,Pesos,Uruguay,Panama
+165,95,1920,0,1,Pesos,Uruguay,Panama
+165,95,1921,0,1,Pesos,Uruguay,Panama
+165,95,1922,0,1,Pesos,Uruguay,Panama
+165,95,1923,0,1,,Uruguay,Panama
+165,95,1924,0,1,Pesos,Uruguay,Panama
+165,95,1925,0,1,Pesos,Uruguay,Panama
+165,95,1926,0,1,Pesos,Uruguay,Panama
+165,95,1927,0,1,Pesos,Uruguay,Panama
+165,95,1928,0,1,Pesos,Uruguay,Panama
+165,95,1929,0,1,Pesos,Uruguay,Panama
+165,95,1930,0,1,Pesos,Uruguay,Panama
+165,95,1931,0,1,,Uruguay,Panama
+165,95,1932,0,1,,Uruguay,Panama
+165,95,1933,0,1,,Uruguay,Panama
+165,95,1934,0,1,,Uruguay,Panama
+165,95,1935,0,1,,Uruguay,Panama
+165,95,1936,0,1,,Uruguay,Panama
+165,95,1937,0,1,,Uruguay,Panama
+165,95,1938,0,1,,Uruguay,Panama
+165,95,1939,0,1,,Uruguay,Panama
+165,95,1940,0,1,Us $,Uruguay,Panama
+165,95,1941,0,1,Us $,Uruguay,Panama
+165,95,1942,0,1,Us $,Uruguay,Panama
+165,95,1943,20,1,Us $,Uruguay,Panama
+165,95,1944,3644,1,Us $,Uruguay,Panama
+165,95,1945,0,1,Us $,Uruguay,Panama
+165,95,1946,0,1,Us $,Uruguay,Panama
+165,95,1947,0,1,Us $,Uruguay,Panama
+165,95,1948,0,1,Us $,Uruguay,Panama
+165,95,1949,0,1,Us $,Uruguay,Panama
+165,100,1915,0,1,,Uruguay,Colombia
+165,100,1919,0,1,Pesos,Uruguay,Colombia
+165,100,1920,0,1,Pesos,Uruguay,Colombia
+165,100,1921,0,1,Pesos,Uruguay,Colombia
+165,100,1922,0,1,Pesos,Uruguay,Colombia
+165,100,1923,0,1,,Uruguay,Colombia
+165,100,1924,1241,1,Pesos,Uruguay,Colombia
+165,100,1925,0,1,Pesos,Uruguay,Colombia
+165,100,1926,0,1,Pesos,Uruguay,Colombia
+165,100,1927,0,1,Pesos,Uruguay,Colombia
+165,100,1928,0,1,Pesos,Uruguay,Colombia
+165,100,1929,119600,1,Pesos,Uruguay,Colombia
+165,100,1930,547782,1,Pesos,Uruguay,Colombia
+165,100,1931,31200,1,,Uruguay,Colombia
+165,100,1932,812,1,,Uruguay,Colombia
+165,100,1933,487,1,,Uruguay,Colombia
+165,100,1934,28175,1,,Uruguay,Colombia
+165,100,1935,0,1,,Uruguay,Colombia
+165,100,1936,0,1,,Uruguay,Colombia
+165,100,1937,0,1,,Uruguay,Colombia
+165,100,1938,0,1,,Uruguay,Colombia
+165,100,1939,1498,1,,Uruguay,Colombia
+165,100,1940,0,1,Us $,Uruguay,Colombia
+165,100,1941,0,1,Us $,Uruguay,Colombia
+165,100,1942,0,1,Us $,Uruguay,Colombia
+165,100,1943,665669,1,Us $,Uruguay,Colombia
+165,100,1944,160649,1,Us $,Uruguay,Colombia
+165,100,1945,39124,1,Us $,Uruguay,Colombia
+165,100,1946,0,1,Us $,Uruguay,Colombia
+165,100,1947,0,1,Us $,Uruguay,Colombia
+165,100,1948,0,1,Us $,Uruguay,Colombia
+165,100,1949,0,1,Us $,Uruguay,Colombia
+165,101,1915,0,1,,Uruguay,Venezuela
+165,101,1919,1320,1,Pesos,Uruguay,Venezuela
+165,101,1920,865,1,Pesos,Uruguay,Venezuela
+165,101,1921,924,1,Pesos,Uruguay,Venezuela
+165,101,1922,1213,1,Pesos,Uruguay,Venezuela
+165,101,1923,0,1,,Uruguay,Venezuela
+165,101,1924,1350,1,Pesos,Uruguay,Venezuela
+165,101,1925,2521,1,Pesos,Uruguay,Venezuela
+165,101,1926,4344,1,Pesos,Uruguay,Venezuela
+165,101,1927,3701,1,Pesos,Uruguay,Venezuela
+165,101,1928,48774,1,Pesos,Uruguay,Venezuela
+165,101,1929,524179,1,Pesos,Uruguay,Venezuela
+165,101,1930,2719000,1,Pesos,Uruguay,Venezuela
+165,101,1931,2292531,1,,Uruguay,Venezuela
+165,101,1932,1987702,1,,Uruguay,Venezuela
+165,101,1933,1624576,1,,Uruguay,Venezuela
+165,101,1934,1556704,1,,Uruguay,Venezuela
+165,101,1935,730649,1,,Uruguay,Venezuela
+165,101,1936,833178,1,,Uruguay,Venezuela
+165,101,1937,900,1,,Uruguay,Venezuela
+165,101,1938,728,1,,Uruguay,Venezuela
+165,101,1939,266171,1,,Uruguay,Venezuela
+165,101,1940,717601,1,Us $,Uruguay,Venezuela
+165,101,1941,2286327,1,Us $,Uruguay,Venezuela
+165,101,1942,2621444,1,Us $,Uruguay,Venezuela
+165,101,1943,2836038,1,Us $,Uruguay,Venezuela
+165,101,1944,4124611,1,Us $,Uruguay,Venezuela
+165,101,1945,6044333,1,Us $,Uruguay,Venezuela
+165,101,1946,2252013,1,Us $,Uruguay,Venezuela
+165,101,1947,1682984,1,Us $,Uruguay,Venezuela
+165,101,1948,4244427,1,Us $,Uruguay,Venezuela
+165,101,1949,8777850,1,Us $,Uruguay,Venezuela
+165,130,1915,0,1,,Uruguay,Ecuador
+165,130,1919,7520,1,Pesos,Uruguay,Ecuador
+165,130,1920,3088,1,Pesos,Uruguay,Ecuador
+165,130,1921,1616,1,Pesos,Uruguay,Ecuador
+165,130,1922,1145,1,Pesos,Uruguay,Ecuador
+165,130,1923,0,1,,Uruguay,Ecuador
+165,130,1924,3575,1,Pesos,Uruguay,Ecuador
+165,130,1925,4084,1,Pesos,Uruguay,Ecuador
+165,130,1926,1314,1,Pesos,Uruguay,Ecuador
+165,130,1927,800,1,Pesos,Uruguay,Ecuador
+165,130,1928,0,1,Pesos,Uruguay,Ecuador
+165,130,1929,0,1,Pesos,Uruguay,Ecuador
+165,130,1930,1242,1,Pesos,Uruguay,Ecuador
+165,130,1931,810,1,,Uruguay,Ecuador
+165,130,1932,18874,1,,Uruguay,Ecuador
+165,130,1933,35450,1,,Uruguay,Ecuador
+165,130,1934,1273,1,,Uruguay,Ecuador
+165,130,1935,8825,1,,Uruguay,Ecuador
+165,130,1936,11775,1,,Uruguay,Ecuador
+165,130,1937,2120903,1,,Uruguay,Ecuador
+165,130,1938,1620512,1,,Uruguay,Ecuador
+165,130,1939,1733758,1,,Uruguay,Ecuador
+165,130,1940,1589901,1,Us $,Uruguay,Ecuador
+165,130,1941,1944124,1,Us $,Uruguay,Ecuador
+165,130,1942,2438762,1,Us $,Uruguay,Ecuador
+165,130,1943,2636193,1,Us $,Uruguay,Ecuador
+165,130,1944,3854525,1,Us $,Uruguay,Ecuador
+165,130,1945,389205,1,Us $,Uruguay,Ecuador
+165,130,1946,1927654,1,Us $,Uruguay,Ecuador
+165,130,1947,1923569,1,Us $,Uruguay,Ecuador
+165,130,1948,1683543,1,Us $,Uruguay,Ecuador
+165,130,1949,2968823,1,Us $,Uruguay,Ecuador
+165,135,1915,0,1,,Uruguay,Peru
+165,135,1919,282204,1,Pesos,Uruguay,Peru
+165,135,1920,24138,1,Pesos,Uruguay,Peru
+165,135,1921,0,1,Pesos,Uruguay,Peru
+165,135,1922,0,1,Pesos,Uruguay,Peru
+165,135,1923,0,1,,Uruguay,Peru
+165,135,1924,0,1,Pesos,Uruguay,Peru
+165,135,1925,800,1,Pesos,Uruguay,Peru
+165,135,1926,507474,1,Pesos,Uruguay,Peru
+165,135,1927,118200,1,Pesos,Uruguay,Peru
+165,135,1928,307910,1,Pesos,Uruguay,Peru
+165,135,1929,521913,1,Pesos,Uruguay,Peru
+165,135,1930,337643,1,Pesos,Uruguay,Peru
+165,135,1931,242001,1,,Uruguay,Peru
+165,135,1932,436263,1,,Uruguay,Peru
+165,135,1933,2972742,1,,Uruguay,Peru
+165,135,1934,4437762,1,,Uruguay,Peru
+165,135,1935,4255018,1,,Uruguay,Peru
+165,135,1936,2013312,1,,Uruguay,Peru
+165,135,1937,2644181,1,,Uruguay,Peru
+165,135,1938,2502974,1,,Uruguay,Peru
+165,135,1939,3540098,1,,Uruguay,Peru
+165,135,1940,1563109,1,Us $,Uruguay,Peru
+165,135,1941,2752457,1,Us $,Uruguay,Peru
+165,135,1942,1674100,1,Us $,Uruguay,Peru
+165,135,1943,3427015,1,Us $,Uruguay,Peru
+165,135,1944,2998840,1,Us $,Uruguay,Peru
+165,135,1945,3798352,1,Us $,Uruguay,Peru
+165,135,1946,10928042,1,Us $,Uruguay,Peru
+165,135,1947,10951322,1,Us $,Uruguay,Peru
+165,135,1948,6948995,1,Us $,Uruguay,Peru
+165,135,1949,5235082,1,Us $,Uruguay,Peru
+165,140,1915,4864680,1,,Uruguay,Brazil
+165,140,1919,5534924,1,Pesos,Uruguay,Brazil
+165,140,1920,4817732,1,Pesos,Uruguay,Brazil
+165,140,1921,5578144,1,Pesos,Uruguay,Brazil
+165,140,1922,4808706,1,Pesos,Uruguay,Brazil
+165,140,1923,0,1,,Uruguay,Brazil
+165,140,1924,5695568,1,Pesos,Uruguay,Brazil
+165,140,1925,4181196,1,Pesos,Uruguay,Brazil
+165,140,1926,3843421,1,Pesos,Uruguay,Brazil
+165,140,1927,4427172,1,Pesos,Uruguay,Brazil
+165,140,1928,4727070,1,Pesos,Uruguay,Brazil
+165,140,1929,6649205,1,Pesos,Uruguay,Brazil
+165,140,1930,7123879,1,Pesos,Uruguay,Brazil
+165,140,1931,8355348,1,,Uruguay,Brazil
+165,140,1932,5722751,1,,Uruguay,Brazil
+165,140,1933,7336303,1,,Uruguay,Brazil
+165,140,1934,3974819,1,,Uruguay,Brazil
+165,140,1935,4651986,1,,Uruguay,Brazil
+165,140,1936,4643131,1,,Uruguay,Brazil
+165,140,1937,4994231,1,,Uruguay,Brazil
+165,140,1938,5803526,1,,Uruguay,Brazil
+165,140,1939,5465570,1,,Uruguay,Brazil
+165,140,1940,2903232,1,Us $,Uruguay,Brazil
+165,140,1941,4439181,1,Us $,Uruguay,Brazil
+165,140,1942,9963116,1,Us $,Uruguay,Brazil
+165,140,1943,11187401,1,Us $,Uruguay,Brazil
+165,140,1944,16046214,1,Us $,Uruguay,Brazil
+165,140,1945,19327085,1,Us $,Uruguay,Brazil
+165,140,1946,17164291,1,Us $,Uruguay,Brazil
+165,140,1947,18369838,1,Us $,Uruguay,Brazil
+165,140,1948,19602732,1,Us $,Uruguay,Brazil
+165,140,1949,16699796,1,Us $,Uruguay,Brazil
+165,145,1915,0,1,,Uruguay,Bolivia
+165,145,1919,300,1,Pesos,Uruguay,Bolivia
+165,145,1920,0,1,Pesos,Uruguay,Bolivia
+165,145,1921,0,1,Pesos,Uruguay,Bolivia
+165,145,1922,0,1,Pesos,Uruguay,Bolivia
+165,145,1923,0,1,,Uruguay,Bolivia
+165,145,1924,0,1,Pesos,Uruguay,Bolivia
+165,145,1925,1344,1,Pesos,Uruguay,Bolivia
+165,145,1926,2700,1,Pesos,Uruguay,Bolivia
+165,145,1927,0,1,Pesos,Uruguay,Bolivia
+165,145,1928,11092,1,Pesos,Uruguay,Bolivia
+165,145,1929,2268,1,Pesos,Uruguay,Bolivia
+165,145,1930,1087,1,Pesos,Uruguay,Bolivia
+165,145,1931,0,1,,Uruguay,Bolivia
+165,145,1932,3516,1,,Uruguay,Bolivia
+165,145,1933,0,1,,Uruguay,Bolivia
+165,145,1934,0,1,,Uruguay,Bolivia
+165,145,1935,0,1,,Uruguay,Bolivia
+165,145,1936,0,1,,Uruguay,Bolivia
+165,145,1937,0,1,,Uruguay,Bolivia
+165,145,1938,30,1,,Uruguay,Bolivia
+165,145,1939,13584,1,,Uruguay,Bolivia
+165,145,1940,0,1,Us $,Uruguay,Bolivia
+165,145,1941,0,1,Us $,Uruguay,Bolivia
+165,145,1942,0,1,Us $,Uruguay,Bolivia
+165,145,1943,0,1,Us $,Uruguay,Bolivia
+165,145,1944,105,1,Us $,Uruguay,Bolivia
+165,145,1945,11623,1,Us $,Uruguay,Bolivia
+165,145,1946,0,1,Us $,Uruguay,Bolivia
+165,145,1947,0,1,Us $,Uruguay,Bolivia
+165,145,1948,0,1,Us $,Uruguay,Bolivia
+165,145,1949,0,1,Us $,Uruguay,Bolivia
+165,150,1915,73246,1,,Uruguay,Paraguay
+165,150,1919,79482,1,Pesos,Uruguay,Paraguay
+165,150,1920,277307,1,Pesos,Uruguay,Paraguay
+165,150,1921,116035,1,Pesos,Uruguay,Paraguay
+165,150,1922,79099,1,Pesos,Uruguay,Paraguay
+165,150,1923,0,1,,Uruguay,Paraguay
+165,150,1924,194053,1,Pesos,Uruguay,Paraguay
+165,150,1925,220812,1,Pesos,Uruguay,Paraguay
+165,150,1926,286849,1,Pesos,Uruguay,Paraguay
+165,150,1927,239384,1,Pesos,Uruguay,Paraguay
+165,150,1928,361000,1,Pesos,Uruguay,Paraguay
+165,150,1929,440178,1,Pesos,Uruguay,Paraguay
+165,150,1930,329346,1,Pesos,Uruguay,Paraguay
+165,150,1931,234195,1,,Uruguay,Paraguay
+165,150,1932,155655,1,,Uruguay,Paraguay
+165,150,1933,168699,1,,Uruguay,Paraguay
+165,150,1934,256939,1,,Uruguay,Paraguay
+165,150,1935,245304,1,,Uruguay,Paraguay
+165,150,1936,185084,1,,Uruguay,Paraguay
+165,150,1937,227907,1,,Uruguay,Paraguay
+165,150,1938,270896,1,,Uruguay,Paraguay
+165,150,1939,394426,1,,Uruguay,Paraguay
+165,150,1940,243039,1,Us $,Uruguay,Paraguay
+165,150,1941,683271,1,Us $,Uruguay,Paraguay
+165,150,1942,1338091,1,Us $,Uruguay,Paraguay
+165,150,1943,1485538,1,Us $,Uruguay,Paraguay
+165,150,1944,1243661,1,Us $,Uruguay,Paraguay
+165,150,1945,1781862,1,Us $,Uruguay,Paraguay
+165,150,1946,3961976,1,Us $,Uruguay,Paraguay
+165,150,1947,3922053,1,Us $,Uruguay,Paraguay
+165,150,1948,3029484,1,Us $,Uruguay,Paraguay
+165,150,1949,3320899,1,Us $,Uruguay,Paraguay
+165,155,1915,65871,1,,Uruguay,Chile
+165,155,1919,133432,1,Pesos,Uruguay,Chile
+165,155,1920,82531,1,Pesos,Uruguay,Chile
+165,155,1921,164213,1,Pesos,Uruguay,Chile
+165,155,1922,140984,1,Pesos,Uruguay,Chile
+165,155,1923,0,1,,Uruguay,Chile
+165,155,1924,133891,1,Pesos,Uruguay,Chile
+165,155,1925,304820,1,Pesos,Uruguay,Chile
+165,155,1926,100769,1,Pesos,Uruguay,Chile
+165,155,1927,87887,1,Pesos,Uruguay,Chile
+165,155,1928,144735,1,Pesos,Uruguay,Chile
+165,155,1929,164118,1,Pesos,Uruguay,Chile
+165,155,1930,171625,1,Pesos,Uruguay,Chile
+165,155,1931,178254,1,,Uruguay,Chile
+165,155,1932,181300,1,,Uruguay,Chile
+165,155,1933,151370,1,,Uruguay,Chile
+165,155,1934,238333,1,,Uruguay,Chile
+165,155,1935,158664,1,,Uruguay,Chile
+165,155,1936,185893,1,,Uruguay,Chile
+165,155,1937,251104,1,,Uruguay,Chile
+165,155,1938,391871,1,,Uruguay,Chile
+165,155,1939,225755,1,,Uruguay,Chile
+165,155,1940,160838,1,Us $,Uruguay,Chile
+165,155,1941,187730,1,Us $,Uruguay,Chile
+165,155,1942,605682,1,Us $,Uruguay,Chile
+165,155,1943,996909,1,Us $,Uruguay,Chile
+165,155,1944,879411,1,Us $,Uruguay,Chile
+165,155,1945,1166604,1,Us $,Uruguay,Chile
+165,155,1946,1535987,1,Us $,Uruguay,Chile
+165,155,1947,1892872,1,Us $,Uruguay,Chile
+165,155,1948,1218121,1,Us $,Uruguay,Chile
+165,155,1949,695794,1,Us $,Uruguay,Chile
+165,160,1915,7373843,1,,Uruguay,Argentina
+165,160,1919,8440344,1,Pesos,Uruguay,Argentina
+165,160,1920,10748882,1,Pesos,Uruguay,Argentina
+165,160,1921,5154887,1,Pesos,Uruguay,Argentina
+165,160,1922,5718423,1,Pesos,Uruguay,Argentina
+165,160,1923,0,1,,Uruguay,Argentina
+165,160,1924,6316146,1,Pesos,Uruguay,Argentina
+165,160,1925,6322106,1,Pesos,Uruguay,Argentina
+165,160,1926,7238422,1,Pesos,Uruguay,Argentina
+165,160,1927,9140736,1,Pesos,Uruguay,Argentina
+165,160,1928,8032070,1,Pesos,Uruguay,Argentina
+165,160,1929,8442032,1,Pesos,Uruguay,Argentina
+165,160,1930,8976107,1,Pesos,Uruguay,Argentina
+165,160,1931,11370410,1,,Uruguay,Argentina
+165,160,1932,9671811,1,,Uruguay,Argentina
+165,160,1933,10308017,1,,Uruguay,Argentina
+165,160,1934,6105928,1,,Uruguay,Argentina
+165,160,1935,4315275,1,,Uruguay,Argentina
+165,160,1936,3055439,1,,Uruguay,Argentina
+165,160,1937,5843858,1,,Uruguay,Argentina
+165,160,1938,3393466,1,,Uruguay,Argentina
+165,160,1939,4454679,1,,Uruguay,Argentina
+165,160,1940,4595022,1,Us $,Uruguay,Argentina
+165,160,1941,6581257,1,Us $,Uruguay,Argentina
+165,160,1942,6522892,1,Us $,Uruguay,Argentina
+165,160,1943,10512713,1,Us $,Uruguay,Argentina
+165,160,1944,9279450,1,Us $,Uruguay,Argentina
+165,160,1945,11777248,1,Us $,Uruguay,Argentina
+165,160,1946,12045745,1,Us $,Uruguay,Argentina
+165,160,1947,25196743,1,Us $,Uruguay,Argentina
+165,160,1948,16575041,1,Us $,Uruguay,Argentina
+165,160,1949,2096862,1,Us $,Uruguay,Argentina
+165,200,1915,6851113,1,,Uruguay,United Kingdom
+165,200,1919,7498954,1,Pesos,Uruguay,United Kingdom
+165,200,1920,9770030,1,Pesos,Uruguay,United Kingdom
+165,200,1921,6920791,1,Pesos,Uruguay,United Kingdom
+165,200,1922,8033341,1,Pesos,Uruguay,United Kingdom
+165,200,1923,0,1,,Uruguay,United Kingdom
+165,200,1924,11334288,1,Pesos,Uruguay,United Kingdom
+165,200,1925,12492699,1,Pesos,Uruguay,United Kingdom
+165,200,1926,10656829,1,Pesos,Uruguay,United Kingdom
+165,200,1927,12384290,1,Pesos,Uruguay,United Kingdom
+165,200,1928,14624637,1,Pesos,Uruguay,United Kingdom
+165,200,1929,15464823,1,Pesos,Uruguay,United Kingdom
+165,200,1930,15742819,1,Pesos,Uruguay,United Kingdom
+165,200,1931,16895493,1,,Uruguay,United Kingdom
+165,200,1932,10483841,1,,Uruguay,United Kingdom
+165,200,1933,12205518,1,,Uruguay,United Kingdom
+165,200,1934,11556595,1,,Uruguay,United Kingdom
+165,200,1935,10071378,1,,Uruguay,United Kingdom
+165,200,1936,12393352,1,,Uruguay,United Kingdom
+165,200,1937,13435330,1,,Uruguay,United Kingdom
+165,200,1938,15219308,1,,Uruguay,United Kingdom
+165,200,1939,11992568,1,,Uruguay,United Kingdom
+165,200,1940,12343043,1,Us $,Uruguay,United Kingdom
+165,200,1941,11941778,1,Us $,Uruguay,United Kingdom
+165,200,1942,8340898,1,Us $,Uruguay,United Kingdom
+165,200,1943,6538199,1,Us $,Uruguay,United Kingdom
+165,200,1944,3269725,1,Us $,Uruguay,United Kingdom
+165,200,1945,4503914,1,Us $,Uruguay,United Kingdom
+165,200,1946,12914196,1,Us $,Uruguay,United Kingdom
+165,200,1947,17886968,1,Us $,Uruguay,United Kingdom
+165,200,1948,24349321,1,Us $,Uruguay,United Kingdom
+165,200,1949,42242857,1,Us $,Uruguay,United Kingdom
+165,202,1915,0,1,,Uruguay,Scotland
+165,202,1919,0,1,Pesos,Uruguay,Scotland
+165,202,1920,0,1,Pesos,Uruguay,Scotland
+165,202,1921,0,1,Pesos,Uruguay,Scotland
+165,202,1922,0,1,Pesos,Uruguay,Scotland
+165,202,1923,0,1,,Uruguay,Scotland
+165,202,1924,0,1,Pesos,Uruguay,Scotland
+165,202,1925,0,1,Pesos,Uruguay,Scotland
+165,202,1926,0,1,Pesos,Uruguay,Scotland
+165,202,1927,0,1,Pesos,Uruguay,Scotland
+165,202,1928,0,1,Pesos,Uruguay,Scotland
+165,202,1929,0,1,Pesos,Uruguay,Scotland
+165,202,1930,0,1,Pesos,Uruguay,Scotland
+165,202,1931,0,1,,Uruguay,Scotland
+165,202,1932,0,1,,Uruguay,Scotland
+165,202,1933,0,1,,Uruguay,Scotland
+165,202,1934,0,1,,Uruguay,Scotland
+165,202,1935,0,1,,Uruguay,Scotland
+165,202,1936,0,1,,Uruguay,Scotland
+165,202,1937,0,1,,Uruguay,Scotland
+165,202,1938,0,1,,Uruguay,Scotland
+165,202,1939,0,1,,Uruguay,Scotland
+165,202,1940,1859,1,Us $,Uruguay,Scotland
+165,202,1941,2680,1,Us $,Uruguay,Scotland
+165,202,1942,0,1,Us $,Uruguay,Scotland
+165,202,1943,0,1,Us $,Uruguay,Scotland
+165,202,1944,0,1,Us $,Uruguay,Scotland
+165,202,1945,0,1,Us $,Uruguay,Scotland
+165,202,1946,0,1,Us $,Uruguay,Scotland
+165,202,1947,0,1,Us $,Uruguay,Scotland
+165,202,1948,0,1,Us $,Uruguay,Scotland
+165,202,1949,0,1,Us $,Uruguay,Scotland
+165,205,1915,0,1,,Uruguay,Ireland
+165,205,1919,0,1,Pesos,Uruguay,Ireland
+165,205,1920,0,1,Pesos,Uruguay,Ireland
+165,205,1921,0,1,Pesos,Uruguay,Ireland
+165,205,1922,0,1,Pesos,Uruguay,Ireland
+165,205,1923,0,1,,Uruguay,Ireland
+165,205,1924,0,1,Pesos,Uruguay,Ireland
+165,205,1925,0,1,Pesos,Uruguay,Ireland
+165,205,1926,0,1,Pesos,Uruguay,Ireland
+165,205,1927,0,1,Pesos,Uruguay,Ireland
+165,205,1928,0,1,Pesos,Uruguay,Ireland
+165,205,1929,0,1,Pesos,Uruguay,Ireland
+165,205,1930,0,1,Pesos,Uruguay,Ireland
+165,205,1931,0,1,,Uruguay,Ireland
+165,205,1932,0,1,,Uruguay,Ireland
+165,205,1933,0,1,,Uruguay,Ireland
+165,205,1934,0,1,,Uruguay,Ireland
+165,205,1935,0,1,,Uruguay,Ireland
+165,205,1936,0,1,,Uruguay,Ireland
+165,205,1937,0,1,,Uruguay,Ireland
+165,205,1938,0,1,,Uruguay,Ireland
+165,205,1939,0,1,,Uruguay,Ireland
+165,205,1940,1000,1,Us $,Uruguay,Ireland
+165,205,1941,542,1,Us $,Uruguay,Ireland
+165,205,1942,0,1,Us $,Uruguay,Ireland
+165,205,1943,819,1,Us $,Uruguay,Ireland
+165,205,1944,1943,1,Us $,Uruguay,Ireland
+165,205,1945,0,1,Us $,Uruguay,Ireland
+165,205,1946,0,1,Us $,Uruguay,Ireland
+165,205,1947,0,1,Us $,Uruguay,Ireland
+165,205,1948,0,1,Us $,Uruguay,Ireland
+165,205,1949,0,1,Us $,Uruguay,Ireland
+165,210,1915,367599,1,,Uruguay,Netherlands
+165,210,1919,100749,1,Pesos,Uruguay,Netherlands
+165,210,1920,259319,1,Pesos,Uruguay,Netherlands
+165,210,1921,317105,1,Pesos,Uruguay,Netherlands
+165,210,1922,273296,1,Pesos,Uruguay,Netherlands
+165,210,1923,0,1,,Uruguay,Netherlands
+165,210,1924,609136,1,Pesos,Uruguay,Netherlands
+165,210,1925,791288,1,Pesos,Uruguay,Netherlands
+165,210,1926,865215,1,Pesos,Uruguay,Netherlands
+165,210,1927,745549,1,Pesos,Uruguay,Netherlands
+165,210,1928,1372283,1,Pesos,Uruguay,Netherlands
+165,210,1929,1797584,1,Pesos,Uruguay,Netherlands
+165,210,1930,2256710,1,Pesos,Uruguay,Netherlands
+165,210,1931,2358714,1,,Uruguay,Netherlands
+165,210,1932,1001513,1,,Uruguay,Netherlands
+165,210,1933,1139780,1,,Uruguay,Netherlands
+165,210,1934,1099434,1,,Uruguay,Netherlands
+165,210,1935,1169321,1,,Uruguay,Netherlands
+165,210,1936,1219445,1,,Uruguay,Netherlands
+165,210,1937,2370751,1,,Uruguay,Netherlands
+165,210,1938,1487828,1,,Uruguay,Netherlands
+165,210,1939,2147686,1,,Uruguay,Netherlands
+165,210,1940,1045760,1,Us $,Uruguay,Netherlands
+165,210,1941,32513,1,Us $,Uruguay,Netherlands
+165,210,1942,5145,1,Us $,Uruguay,Netherlands
+165,210,1943,8450,1,Us $,Uruguay,Netherlands
+165,210,1944,739,1,Us $,Uruguay,Netherlands
+165,210,1945,18,1,Us $,Uruguay,Netherlands
+165,210,1946,560096,1,Us $,Uruguay,Netherlands
+165,210,1947,1765047,1,Us $,Uruguay,Netherlands
+165,210,1948,2220708,1,Us $,Uruguay,Netherlands
+165,210,1949,4480077,1,Us $,Uruguay,Netherlands
+165,211,1915,194066,1,,Uruguay,Belgium
+165,211,1919,24530,1,Pesos,Uruguay,Belgium
+165,211,1920,522050,1,Pesos,Uruguay,Belgium
+165,211,1921,1084572,1,Pesos,Uruguay,Belgium
+165,211,1922,1170593,1,Pesos,Uruguay,Belgium
+165,211,1923,0,1,,Uruguay,Belgium
+165,211,1924,2752207,1,Pesos,Uruguay,Belgium
+165,211,1925,3853757,1,Pesos,Uruguay,Belgium
+165,211,1926,4046093,1,Pesos,Uruguay,Belgium
+165,211,1927,5063068,1,Pesos,Uruguay,Belgium
+165,211,1928,4585512,1,Pesos,Uruguay,Belgium
+165,211,1929,5057971,1,Pesos,Uruguay,Belgium
+165,211,1930,4499700,1,Pesos,Uruguay,Belgium
+165,211,1931,4906434,1,,Uruguay,Belgium
+165,211,1932,2319085,1,,Uruguay,Belgium
+165,211,1933,2282294,1,,Uruguay,Belgium
+165,211,1934,2512723,1,,Uruguay,Belgium
+165,211,1935,2546576,1,,Uruguay,Belgium
+165,211,1936,3435181,1,,Uruguay,Belgium
+165,211,1937,3941708,1,,Uruguay,Belgium
+165,211,1938,2145690,1,,Uruguay,Belgium
+165,211,1939,1629716,1,,Uruguay,Belgium
+165,211,1940,2366684,1,Us $,Uruguay,Belgium
+165,211,1941,111960,1,Us $,Uruguay,Belgium
+165,211,1942,11818,1,Us $,Uruguay,Belgium
+165,211,1943,263,1,Us $,Uruguay,Belgium
+165,211,1944,7636,1,Us $,Uruguay,Belgium
+165,211,1945,776,1,Us $,Uruguay,Belgium
+165,211,1946,2993299,1,Us $,Uruguay,Belgium
+165,211,1947,5349859,1,Us $,Uruguay,Belgium
+165,211,1948,9130501,1,Us $,Uruguay,Belgium
+165,211,1949,13550079,1,Us $,Uruguay,Belgium
+165,212,1915,0,1,,Uruguay,Luxembourg
+165,212,1919,0,1,Pesos,Uruguay,Luxembourg
+165,212,1920,0,1,Pesos,Uruguay,Luxembourg
+165,212,1921,0,1,Pesos,Uruguay,Luxembourg
+165,212,1922,0,1,Pesos,Uruguay,Luxembourg
+165,212,1923,0,1,,Uruguay,Luxembourg
+165,212,1924,0,1,Pesos,Uruguay,Luxembourg
+165,212,1925,0,1,Pesos,Uruguay,Luxembourg
+165,212,1926,0,1,Pesos,Uruguay,Luxembourg
+165,212,1927,0,1,Pesos,Uruguay,Luxembourg
+165,212,1928,0,1,Pesos,Uruguay,Luxembourg
+165,212,1929,0,1,Pesos,Uruguay,Luxembourg
+165,212,1930,0,1,Pesos,Uruguay,Luxembourg
+165,212,1931,0,1,,Uruguay,Luxembourg
+165,212,1932,0,1,,Uruguay,Luxembourg
+165,212,1933,3588,1,,Uruguay,Luxembourg
+165,212,1934,1503,1,,Uruguay,Luxembourg
+165,212,1935,67219,1,,Uruguay,Luxembourg
+165,212,1936,91244,1,,Uruguay,Luxembourg
+165,212,1937,261222,1,,Uruguay,Luxembourg
+165,212,1938,57985,1,,Uruguay,Luxembourg
+165,212,1939,6076,1,,Uruguay,Luxembourg
+165,212,1940,20178,1,Us $,Uruguay,Luxembourg
+165,212,1941,0,1,Us $,Uruguay,Luxembourg
+165,212,1942,0,1,Us $,Uruguay,Luxembourg
+165,212,1943,0,1,Us $,Uruguay,Luxembourg
+165,212,1944,0,1,Us $,Uruguay,Luxembourg
+165,212,1945,0,1,Us $,Uruguay,Luxembourg
+165,212,1946,99745,1,Us $,Uruguay,Luxembourg
+165,212,1947,224692,1,Us $,Uruguay,Luxembourg
+165,212,1948,423012,1,Us $,Uruguay,Luxembourg
+165,212,1949,452140,1,Us $,Uruguay,Luxembourg
+165,220,1915,1635143,1,,Uruguay,France
+165,220,1919,1320282,1,Pesos,Uruguay,France
+165,220,1920,2594209,1,Pesos,Uruguay,France
+165,220,1921,1795163,1,Pesos,Uruguay,France
+165,220,1922,1641270,1,Pesos,Uruguay,France
+165,220,1923,0,1,,Uruguay,France
+165,220,1924,3469133,1,Pesos,Uruguay,France
+165,220,1925,4032300,1,Pesos,Uruguay,France
+165,220,1926,5329696,1,Pesos,Uruguay,France
+165,220,1927,5165402,1,Pesos,Uruguay,France
+165,220,1928,5558453,1,Pesos,Uruguay,France
+165,220,1929,3638869,1,Pesos,Uruguay,France
+165,220,1930,3410805,1,Pesos,Uruguay,France
+165,220,1931,2930165,1,,Uruguay,France
+165,220,1932,1854612,1,,Uruguay,France
+165,220,1933,1761366,1,,Uruguay,France
+165,220,1934,1231728,1,,Uruguay,France
+165,220,1935,1556265,1,,Uruguay,France
+165,220,1936,1567037,1,,Uruguay,France
+165,220,1937,1977547,1,,Uruguay,France
+165,220,1938,1622601,1,,Uruguay,France
+165,220,1939,1568152,1,,Uruguay,France
+165,220,1940,1558350,1,Us $,Uruguay,France
+165,220,1941,64923,1,Us $,Uruguay,France
+165,220,1942,18099,1,Us $,Uruguay,France
+165,220,1943,5892,1,Us $,Uruguay,France
+165,220,1944,35118,1,Us $,Uruguay,France
+165,220,1945,86669,1,Us $,Uruguay,France
+165,220,1946,1266297,1,Us $,Uruguay,France
+165,220,1947,3901758,1,Us $,Uruguay,France
+165,220,1948,5309883,1,Us $,Uruguay,France
+165,220,1949,7373647,1,Us $,Uruguay,France
+165,225,1915,47763,1,,Uruguay,Switzerland
+165,225,1919,27196,1,Pesos,Uruguay,Switzerland
+165,225,1920,41226,1,Pesos,Uruguay,Switzerland
+165,225,1921,27012,1,Pesos,Uruguay,Switzerland
+165,225,1922,13915,1,Pesos,Uruguay,Switzerland
+165,225,1923,0,1,,Uruguay,Switzerland
+165,225,1924,77302,1,Pesos,Uruguay,Switzerland
+165,225,1925,57242,1,Pesos,Uruguay,Switzerland
+165,225,1926,85276,1,Pesos,Uruguay,Switzerland
+165,225,1927,52710,1,Pesos,Uruguay,Switzerland
+165,225,1928,84104,1,Pesos,Uruguay,Switzerland
+165,225,1929,59714,1,Pesos,Uruguay,Switzerland
+165,225,1930,47755,1,Pesos,Uruguay,Switzerland
+165,225,1931,59046,1,,Uruguay,Switzerland
+165,225,1932,40962,1,,Uruguay,Switzerland
+165,225,1933,68736,1,,Uruguay,Switzerland
+165,225,1934,56835,1,,Uruguay,Switzerland
+165,225,1935,97068,1,,Uruguay,Switzerland
+165,225,1936,167817,1,,Uruguay,Switzerland
+165,225,1937,496721,1,,Uruguay,Switzerland
+165,225,1938,649854,1,,Uruguay,Switzerland
+165,225,1939,246819,1,,Uruguay,Switzerland
+165,225,1940,914509,1,Us $,Uruguay,Switzerland
+165,225,1941,1016312,1,Us $,Uruguay,Switzerland
+165,225,1942,934638,1,Us $,Uruguay,Switzerland
+165,225,1943,557527,1,Us $,Uruguay,Switzerland
+165,225,1944,588047,1,Us $,Uruguay,Switzerland
+165,225,1945,1382262,1,Us $,Uruguay,Switzerland
+165,225,1946,3459503,1,Us $,Uruguay,Switzerland
+165,225,1947,4764262,1,Us $,Uruguay,Switzerland
+165,225,1948,4089284,1,Us $,Uruguay,Switzerland
+165,225,1949,3194755,1,Us $,Uruguay,Switzerland
+165,230,1915,2276857,1,,Uruguay,Spain
+165,230,1919,2864590,1,Pesos,Uruguay,Spain
+165,230,1920,2535502,1,Pesos,Uruguay,Spain
+165,230,1921,2097724,1,Pesos,Uruguay,Spain
+165,230,1922,1956872,1,Pesos,Uruguay,Spain
+165,230,1923,0,1,,Uruguay,Spain
+165,230,1924,2718293,1,Pesos,Uruguay,Spain
+165,230,1925,3317130,1,Pesos,Uruguay,Spain
+165,230,1926,3419082,1,Pesos,Uruguay,Spain
+165,230,1927,2488044,1,Pesos,Uruguay,Spain
+165,230,1928,3494513,1,Pesos,Uruguay,Spain
+165,230,1929,2950737,1,Pesos,Uruguay,Spain
+165,230,1930,3686558,1,Pesos,Uruguay,Spain
+165,230,1931,3571378,1,,Uruguay,Spain
+165,230,1932,2185385,1,,Uruguay,Spain
+165,230,1933,1738334,1,,Uruguay,Spain
+165,230,1934,1062782,1,,Uruguay,Spain
+165,230,1935,756453,1,,Uruguay,Spain
+165,230,1936,1395004,1,,Uruguay,Spain
+165,230,1937,630697,1,,Uruguay,Spain
+165,230,1938,161446,1,,Uruguay,Spain
+165,230,1939,151899,1,,Uruguay,Spain
+165,230,1940,159887,1,Us $,Uruguay,Spain
+165,230,1941,185553,1,Us $,Uruguay,Spain
+165,230,1942,256821,1,Us $,Uruguay,Spain
+165,230,1943,130596,1,Us $,Uruguay,Spain
+165,230,1944,340074,1,Us $,Uruguay,Spain
+165,230,1945,709245,1,Us $,Uruguay,Spain
+165,230,1946,1275670,1,Us $,Uruguay,Spain
+165,230,1947,1761248,1,Us $,Uruguay,Spain
+165,230,1948,854565,1,Us $,Uruguay,Spain
+165,230,1949,759313,1,Us $,Uruguay,Spain
+165,235,1915,44080,1,,Uruguay,Portugal
+165,235,1919,43964,1,Pesos,Uruguay,Portugal
+165,235,1920,50859,1,Pesos,Uruguay,Portugal
+165,235,1921,42319,1,Pesos,Uruguay,Portugal
+165,235,1922,60839,1,Pesos,Uruguay,Portugal
+165,235,1923,0,1,,Uruguay,Portugal
+165,235,1924,89660,1,Pesos,Uruguay,Portugal
+165,235,1925,62203,1,Pesos,Uruguay,Portugal
+165,235,1926,61894,1,Pesos,Uruguay,Portugal
+165,235,1927,25889,1,Pesos,Uruguay,Portugal
+165,235,1928,38475,1,Pesos,Uruguay,Portugal
+165,235,1929,64025,1,Pesos,Uruguay,Portugal
+165,235,1930,37758,1,Pesos,Uruguay,Portugal
+165,235,1931,34804,1,,Uruguay,Portugal
+165,235,1932,25834,1,,Uruguay,Portugal
+165,235,1933,24793,1,,Uruguay,Portugal
+165,235,1934,63496,1,,Uruguay,Portugal
+165,235,1935,106506,1,,Uruguay,Portugal
+165,235,1936,261565,1,,Uruguay,Portugal
+165,235,1937,582873,1,,Uruguay,Portugal
+165,235,1938,134254,1,,Uruguay,Portugal
+165,235,1939,83710,1,,Uruguay,Portugal
+165,235,1940,109163,1,Us $,Uruguay,Portugal
+165,235,1941,132220,1,Us $,Uruguay,Portugal
+165,235,1942,203326,1,Us $,Uruguay,Portugal
+165,235,1943,162197,1,Us $,Uruguay,Portugal
+165,235,1944,259815,1,Us $,Uruguay,Portugal
+165,235,1945,419654,1,Us $,Uruguay,Portugal
+165,235,1946,489654,1,Us $,Uruguay,Portugal
+165,235,1947,483238,1,Us $,Uruguay,Portugal
+165,235,1948,469549,1,Us $,Uruguay,Portugal
+165,235,1949,289163,1,Us $,Uruguay,Portugal
+165,255,1915,749375,1,,Uruguay,Germany
+165,255,1919,45861,1,Pesos,Uruguay,Germany
+165,255,1920,1269190,1,Pesos,Uruguay,Germany
+165,255,1921,2417937,1,Pesos,Uruguay,Germany
+165,255,1922,4343227,1,Pesos,Uruguay,Germany
+165,255,1923,0,1,,Uruguay,Germany
+165,255,1924,6830138,1,Pesos,Uruguay,Germany
+165,255,1925,8079694,1,Pesos,Uruguay,Germany
+165,255,1926,8143521,1,Pesos,Uruguay,Germany
+165,255,1927,8810259,1,Pesos,Uruguay,Germany
+165,255,1928,11719467,1,Pesos,Uruguay,Germany
+165,255,1929,9029469,1,Pesos,Uruguay,Germany
+165,255,1930,8904323,1,Pesos,Uruguay,Germany
+165,255,1931,9678825,1,,Uruguay,Germany
+165,255,1932,5316682,1,,Uruguay,Germany
+165,255,1933,5482274,1,,Uruguay,Germany
+165,255,1934,5444447,1,,Uruguay,Germany
+165,255,1935,5225668,1,,Uruguay,Germany
+165,255,1936,6509576,1,,Uruguay,Germany
+165,255,1937,8382616,1,,Uruguay,Germany
+165,255,1938,12288444,1,,Uruguay,Germany
+165,255,1939,11068409,1,,Uruguay,Germany
+165,255,1940,782134,1,Us $,Uruguay,Germany
+165,255,1941,153974,1,Us $,Uruguay,Germany
+165,255,1942,146183,1,Us $,Uruguay,Germany
+165,255,1943,5801,1,Us $,Uruguay,Germany
+165,255,1944,16658,1,Us $,Uruguay,Germany
+165,255,1945,592,1,Us $,Uruguay,Germany
+165,255,1946,5,1,Us $,Uruguay,Germany
+165,255,1947,18314,1,Us $,Uruguay,Germany
+165,255,1948,460771,1,Us $,Uruguay,Germany
+165,255,1949,1200098,1,Us $,Uruguay,Germany
+165,290,1915,0,1,,Uruguay,Poland
+165,290,1919,0,1,Pesos,Uruguay,Poland
+165,290,1920,0,1,Pesos,Uruguay,Poland
+165,290,1921,0,1,Pesos,Uruguay,Poland
+165,290,1922,0,1,Pesos,Uruguay,Poland
+165,290,1923,0,1,,Uruguay,Poland
+165,290,1924,0,1,Pesos,Uruguay,Poland
+165,290,1925,0,1,Pesos,Uruguay,Poland
+165,290,1926,0,1,Pesos,Uruguay,Poland
+165,290,1927,144,1,Pesos,Uruguay,Poland
+165,290,1928,536,1,Pesos,Uruguay,Poland
+165,290,1929,1087,1,Pesos,Uruguay,Poland
+165,290,1930,2232,1,Pesos,Uruguay,Poland
+165,290,1931,0,1,,Uruguay,Poland
+165,290,1932,1254,1,,Uruguay,Poland
+165,290,1933,1507,1,,Uruguay,Poland
+165,290,1934,596,1,,Uruguay,Poland
+165,290,1935,40566,1,,Uruguay,Poland
+165,290,1936,186826,1,,Uruguay,Poland
+165,290,1937,463729,1,,Uruguay,Poland
+165,290,1938,440433,1,,Uruguay,Poland
+165,290,1939,1450753,1,,Uruguay,Poland
+165,290,1940,13232,1,Us $,Uruguay,Poland
+165,290,1941,49,1,Us $,Uruguay,Poland
+165,290,1942,0,1,Us $,Uruguay,Poland
+165,290,1943,0,1,Us $,Uruguay,Poland
+165,290,1944,216,1,Us $,Uruguay,Poland
+165,290,1945,0,1,Us $,Uruguay,Poland
+165,290,1946,0,1,Us $,Uruguay,Poland
+165,290,1947,0,1,Us $,Uruguay,Poland
+165,290,1948,0,1,Us $,Uruguay,Poland
+165,290,1949,0,1,Us $,Uruguay,Poland
+165,305,1915,29718,1,,Uruguay,Austria
+165,305,1919,0,1,Pesos,Uruguay,Austria
+165,305,1920,177,1,Pesos,Uruguay,Austria
+165,305,1921,2018,1,Pesos,Uruguay,Austria
+165,305,1922,3398,1,Pesos,Uruguay,Austria
+165,305,1923,0,1,,Uruguay,Austria
+165,305,1924,24459,1,Pesos,Uruguay,Austria
+165,305,1925,18362,1,Pesos,Uruguay,Austria
+165,305,1926,6064,1,Pesos,Uruguay,Austria
+165,305,1927,7423,1,Pesos,Uruguay,Austria
+165,305,1928,21693,1,Pesos,Uruguay,Austria
+165,305,1929,17675,1,Pesos,Uruguay,Austria
+165,305,1930,25552,1,Pesos,Uruguay,Austria
+165,305,1931,24603,1,,Uruguay,Austria
+165,305,1932,32780,1,,Uruguay,Austria
+165,305,1933,19594,1,,Uruguay,Austria
+165,305,1934,44125,1,,Uruguay,Austria
+165,305,1935,26052,1,,Uruguay,Austria
+165,305,1936,284480,1,,Uruguay,Austria
+165,305,1937,174692,1,,Uruguay,Austria
+165,305,1938,174641,1,,Uruguay,Austria
+165,305,1939,14443,1,,Uruguay,Austria
+165,305,1940,299,1,Us $,Uruguay,Austria
+165,305,1941,0,1,Us $,Uruguay,Austria
+165,305,1942,0,1,Us $,Uruguay,Austria
+165,305,1943,0,1,Us $,Uruguay,Austria
+165,305,1944,0,1,Us $,Uruguay,Austria
+165,305,1945,0,1,Us $,Uruguay,Austria
+165,305,1946,0,1,Us $,Uruguay,Austria
+165,305,1947,73902,1,Us $,Uruguay,Austria
+165,305,1948,80029,1,Us $,Uruguay,Austria
+165,305,1949,325539,1,Us $,Uruguay,Austria
+165,310,1915,0,1,,Uruguay,Hungary
+165,310,1919,0,1,Pesos,Uruguay,Hungary
+165,310,1920,0,1,Pesos,Uruguay,Hungary
+165,310,1921,0,1,Pesos,Uruguay,Hungary
+165,310,1922,0,1,Pesos,Uruguay,Hungary
+165,310,1923,0,1,,Uruguay,Hungary
+165,310,1924,0,1,Pesos,Uruguay,Hungary
+165,310,1925,0,1,Pesos,Uruguay,Hungary
+165,310,1926,0,1,Pesos,Uruguay,Hungary
+165,310,1927,0,1,Pesos,Uruguay,Hungary
+165,310,1928,0,1,Pesos,Uruguay,Hungary
+165,310,1929,10151,1,Pesos,Uruguay,Hungary
+165,310,1930,0,1,Pesos,Uruguay,Hungary
+165,310,1931,13695,1,,Uruguay,Hungary
+165,310,1932,20083,1,,Uruguay,Hungary
+165,310,1933,1611,1,,Uruguay,Hungary
+165,310,1934,13974,1,,Uruguay,Hungary
+165,310,1935,4727,1,,Uruguay,Hungary
+165,310,1936,306791,1,,Uruguay,Hungary
+165,310,1937,38750,1,,Uruguay,Hungary
+165,310,1938,1085663,1,,Uruguay,Hungary
+165,310,1939,164626,1,,Uruguay,Hungary
+165,310,1940,127048,1,Us $,Uruguay,Hungary
+165,310,1941,35067,1,Us $,Uruguay,Hungary
+165,310,1942,46,1,Us $,Uruguay,Hungary
+165,310,1943,1923,1,Us $,Uruguay,Hungary
+165,310,1944,184,1,Us $,Uruguay,Hungary
+165,310,1945,0,1,Us $,Uruguay,Hungary
+165,310,1946,0,1,Us $,Uruguay,Hungary
+165,310,1947,55744,1,Us $,Uruguay,Hungary
+165,310,1948,140307,1,Us $,Uruguay,Hungary
+165,310,1949,0,1,Us $,Uruguay,Hungary
+165,315,1915,0,1,,Uruguay,Czechoslovakia
+165,315,1919,0,1,Pesos,Uruguay,Czechoslovakia
+165,315,1920,0,1,Pesos,Uruguay,Czechoslovakia
+165,315,1921,0,1,Pesos,Uruguay,Czechoslovakia
+165,315,1922,0,1,Pesos,Uruguay,Czechoslovakia
+165,315,1923,0,1,,Uruguay,Czechoslovakia
+165,315,1924,36266,1,Pesos,Uruguay,Czechoslovakia
+165,315,1925,37896,1,Pesos,Uruguay,Czechoslovakia
+165,315,1926,20580,1,Pesos,Uruguay,Czechoslovakia
+165,315,1927,102750,1,Pesos,Uruguay,Czechoslovakia
+165,315,1928,107876,1,Pesos,Uruguay,Czechoslovakia
+165,315,1929,115534,1,Pesos,Uruguay,Czechoslovakia
+165,315,1930,148328,1,Pesos,Uruguay,Czechoslovakia
+165,315,1931,93876,1,,Uruguay,Czechoslovakia
+165,315,1932,160600,1,,Uruguay,Czechoslovakia
+165,315,1933,114746,1,,Uruguay,Czechoslovakia
+165,315,1934,96452,1,,Uruguay,Czechoslovakia
+165,315,1935,226121,1,,Uruguay,Czechoslovakia
+165,315,1936,236145,1,,Uruguay,Czechoslovakia
+165,315,1937,753946,1,,Uruguay,Czechoslovakia
+165,315,1938,939286,1,,Uruguay,Czechoslovakia
+165,315,1939,612078,1,,Uruguay,Czechoslovakia
+165,315,1940,36588,1,Us $,Uruguay,Czechoslovakia
+165,315,1941,2513,1,Us $,Uruguay,Czechoslovakia
+165,315,1942,0,1,Us $,Uruguay,Czechoslovakia
+165,315,1943,0,1,Us $,Uruguay,Czechoslovakia
+165,315,1944,0,1,Us $,Uruguay,Czechoslovakia
+165,315,1945,250,1,Us $,Uruguay,Czechoslovakia
+165,315,1946,60440,1,Us $,Uruguay,Czechoslovakia
+165,315,1947,1181785,1,Us $,Uruguay,Czechoslovakia
+165,315,1948,1339253,1,Us $,Uruguay,Czechoslovakia
+165,315,1949,1528180,1,Us $,Uruguay,Czechoslovakia
+165,325,1915,2535450,1,,Uruguay,Italy
+165,325,1919,545586,1,Pesos,Uruguay,Italy
+165,325,1920,1113885,1,Pesos,Uruguay,Italy
+165,325,1921,1436001,1,Pesos,Uruguay,Italy
+165,325,1922,1286799,1,Pesos,Uruguay,Italy
+165,325,1923,0,1,,Uruguay,Italy
+165,325,1924,2872135,1,Pesos,Uruguay,Italy
+165,325,1925,4249375,1,Pesos,Uruguay,Italy
+165,325,1926,4042428,1,Pesos,Uruguay,Italy
+165,325,1927,3540152,1,Pesos,Uruguay,Italy
+165,325,1928,3971779,1,Pesos,Uruguay,Italy
+165,325,1929,4167714,1,Pesos,Uruguay,Italy
+165,325,1930,3781121,1,Pesos,Uruguay,Italy
+165,325,1931,3229482,1,,Uruguay,Italy
+165,325,1932,2287806,1,,Uruguay,Italy
+165,325,1933,3223930,1,,Uruguay,Italy
+165,325,1934,3276729,1,,Uruguay,Italy
+165,325,1935,2738606,1,,Uruguay,Italy
+165,325,1936,2109650,1,,Uruguay,Italy
+165,325,1937,2910497,1,,Uruguay,Italy
+165,325,1938,3100839,1,,Uruguay,Italy
+165,325,1939,4211618,1,,Uruguay,Italy
+165,325,1940,3087419,1,Us $,Uruguay,Italy
+165,325,1941,180108,1,Us $,Uruguay,Italy
+165,325,1942,16613,1,Us $,Uruguay,Italy
+165,325,1943,502,1,Us $,Uruguay,Italy
+165,325,1944,2932,1,Us $,Uruguay,Italy
+165,325,1945,857,1,Us $,Uruguay,Italy
+165,325,1946,2256936,1,Us $,Uruguay,Italy
+165,325,1947,8528432,1,Us $,Uruguay,Italy
+165,325,1948,6196927,1,Us $,Uruguay,Italy
+165,325,1949,5064592,1,Us $,Uruguay,Italy
+165,339,1915,0,1,,Uruguay,Albania
+165,339,1919,0,1,Pesos,Uruguay,Albania
+165,339,1920,0,1,Pesos,Uruguay,Albania
+165,339,1921,0,1,Pesos,Uruguay,Albania
+165,339,1922,0,1,Pesos,Uruguay,Albania
+165,339,1923,0,1,,Uruguay,Albania
+165,339,1924,0,1,Pesos,Uruguay,Albania
+165,339,1925,0,1,Pesos,Uruguay,Albania
+165,339,1926,0,1,Pesos,Uruguay,Albania
+165,339,1927,216,1,Pesos,Uruguay,Albania
+165,339,1928,0,1,Pesos,Uruguay,Albania
+165,339,1929,0,1,Pesos,Uruguay,Albania
+165,339,1930,0,1,Pesos,Uruguay,Albania
+165,339,1931,0,1,,Uruguay,Albania
+165,339,1932,0,1,,Uruguay,Albania
+165,339,1933,0,1,,Uruguay,Albania
+165,339,1934,0,1,,Uruguay,Albania
+165,339,1935,0,1,,Uruguay,Albania
+165,339,1936,0,1,,Uruguay,Albania
+165,339,1937,0,1,,Uruguay,Albania
+165,339,1938,0,1,,Uruguay,Albania
+165,339,1939,0,1,,Uruguay,Albania
+165,339,1940,1401,1,Us $,Uruguay,Albania
+165,339,1941,0,1,Us $,Uruguay,Albania
+165,339,1942,0,1,Us $,Uruguay,Albania
+165,339,1943,0,1,Us $,Uruguay,Albania
+165,339,1944,0,1,Us $,Uruguay,Albania
+165,339,1945,0,1,Us $,Uruguay,Albania
+165,339,1946,0,1,Us $,Uruguay,Albania
+165,339,1947,0,1,Us $,Uruguay,Albania
+165,339,1948,0,1,Us $,Uruguay,Albania
+165,339,1949,0,1,Us $,Uruguay,Albania
+165,345,1915,0,1,,Uruguay,Yugoslavia
+165,345,1919,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1920,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1921,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1922,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1923,0,1,,Uruguay,Yugoslavia
+165,345,1924,8885,1,Pesos,Uruguay,Yugoslavia
+165,345,1925,861,1,Pesos,Uruguay,Yugoslavia
+165,345,1926,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1927,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1928,0,1,Pesos,Uruguay,Yugoslavia
+165,345,1929,2896,1,Pesos,Uruguay,Yugoslavia
+165,345,1930,4756,1,Pesos,Uruguay,Yugoslavia
+165,345,1931,2465,1,,Uruguay,Yugoslavia
+165,345,1932,1837,1,,Uruguay,Yugoslavia
+165,345,1933,2506,1,,Uruguay,Yugoslavia
+165,345,1934,5948,1,,Uruguay,Yugoslavia
+165,345,1935,15225,1,,Uruguay,Yugoslavia
+165,345,1936,50327,1,,Uruguay,Yugoslavia
+165,345,1937,235792,1,,Uruguay,Yugoslavia
+165,345,1938,140666,1,,Uruguay,Yugoslavia
+165,345,1939,255391,1,,Uruguay,Yugoslavia
+165,345,1940,228043,1,Us $,Uruguay,Yugoslavia
+165,345,1941,6484,1,Us $,Uruguay,Yugoslavia
+165,345,1942,0,1,Us $,Uruguay,Yugoslavia
+165,345,1943,0,1,Us $,Uruguay,Yugoslavia
+165,345,1944,0,1,Us $,Uruguay,Yugoslavia
+165,345,1945,0,1,Us $,Uruguay,Yugoslavia
+165,345,1946,0,1,Us $,Uruguay,Yugoslavia
+165,345,1947,87439,1,Us $,Uruguay,Yugoslavia
+165,345,1948,25669,1,Us $,Uruguay,Yugoslavia
+165,345,1949,63542,1,Us $,Uruguay,Yugoslavia
+165,350,1915,0,1,,Uruguay,Greece
+165,350,1919,0,1,Pesos,Uruguay,Greece
+165,350,1920,0,1,Pesos,Uruguay,Greece
+165,350,1921,905,1,Pesos,Uruguay,Greece
+165,350,1922,0,1,Pesos,Uruguay,Greece
+165,350,1923,0,1,,Uruguay,Greece
+165,350,1924,2112,1,Pesos,Uruguay,Greece
+165,350,1925,0,1,Pesos,Uruguay,Greece
+165,350,1926,137,1,Pesos,Uruguay,Greece
+165,350,1927,0,1,Pesos,Uruguay,Greece
+165,350,1928,0,1,Pesos,Uruguay,Greece
+165,350,1929,202,1,Pesos,Uruguay,Greece
+165,350,1930,0,1,Pesos,Uruguay,Greece
+165,350,1931,0,1,,Uruguay,Greece
+165,350,1932,0,1,,Uruguay,Greece
+165,350,1933,0,1,,Uruguay,Greece
+165,350,1934,118253,1,,Uruguay,Greece
+165,350,1935,79929,1,,Uruguay,Greece
+165,350,1936,141558,1,,Uruguay,Greece
+165,350,1937,41904,1,,Uruguay,Greece
+165,350,1938,53044,1,,Uruguay,Greece
+165,350,1939,85341,1,,Uruguay,Greece
+165,350,1940,148750,1,Us $,Uruguay,Greece
+165,350,1941,123449,1,Us $,Uruguay,Greece
+165,350,1942,20375,1,Us $,Uruguay,Greece
+165,350,1943,6063,1,Us $,Uruguay,Greece
+165,350,1944,10521,1,Us $,Uruguay,Greece
+165,350,1945,0,1,Us $,Uruguay,Greece
+165,350,1946,35343,1,Us $,Uruguay,Greece
+165,350,1947,65247,1,Us $,Uruguay,Greece
+165,350,1948,65386,1,Us $,Uruguay,Greece
+165,350,1949,151202,1,Us $,Uruguay,Greece
+165,355,1915,0,1,,Uruguay,Bulgaria
+165,355,1919,0,1,Pesos,Uruguay,Bulgaria
+165,355,1920,0,1,Pesos,Uruguay,Bulgaria
+165,355,1921,0,1,Pesos,Uruguay,Bulgaria
+165,355,1922,0,1,Pesos,Uruguay,Bulgaria
+165,355,1923,0,1,,Uruguay,Bulgaria
+165,355,1924,0,1,Pesos,Uruguay,Bulgaria
+165,355,1925,0,1,Pesos,Uruguay,Bulgaria
+165,355,1926,0,1,Pesos,Uruguay,Bulgaria
+165,355,1927,0,1,Pesos,Uruguay,Bulgaria
+165,355,1928,0,1,Pesos,Uruguay,Bulgaria
+165,355,1929,0,1,Pesos,Uruguay,Bulgaria
+165,355,1930,0,1,Pesos,Uruguay,Bulgaria
+165,355,1931,0,1,,Uruguay,Bulgaria
+165,355,1932,0,1,,Uruguay,Bulgaria
+165,355,1933,0,1,,Uruguay,Bulgaria
+165,355,1934,0,1,,Uruguay,Bulgaria
+165,355,1935,1432,1,,Uruguay,Bulgaria
+165,355,1936,3044,1,,Uruguay,Bulgaria
+165,355,1937,1593,1,,Uruguay,Bulgaria
+165,355,1938,0,1,,Uruguay,Bulgaria
+165,355,1939,0,1,,Uruguay,Bulgaria
+165,355,1940,0,1,Us $,Uruguay,Bulgaria
+165,355,1941,0,1,Us $,Uruguay,Bulgaria
+165,355,1942,0,1,Us $,Uruguay,Bulgaria
+165,355,1943,0,1,Us $,Uruguay,Bulgaria
+165,355,1944,0,1,Us $,Uruguay,Bulgaria
+165,355,1945,0,1,Us $,Uruguay,Bulgaria
+165,355,1946,0,1,Us $,Uruguay,Bulgaria
+165,355,1947,0,1,Us $,Uruguay,Bulgaria
+165,355,1948,0,1,Us $,Uruguay,Bulgaria
+165,355,1949,0,1,Us $,Uruguay,Bulgaria
+165,360,1915,0,1,,Uruguay,Romania
+165,360,1919,0,1,Pesos,Uruguay,Romania
+165,360,1920,0,1,Pesos,Uruguay,Romania
+165,360,1921,0,1,Pesos,Uruguay,Romania
+165,360,1922,0,1,Pesos,Uruguay,Romania
+165,360,1923,0,1,,Uruguay,Romania
+165,360,1924,0,1,Pesos,Uruguay,Romania
+165,360,1925,0,1,Pesos,Uruguay,Romania
+165,360,1926,199,1,Pesos,Uruguay,Romania
+165,360,1927,1104,1,Pesos,Uruguay,Romania
+165,360,1928,207,1,Pesos,Uruguay,Romania
+165,360,1929,0,1,Pesos,Uruguay,Romania
+165,360,1930,887,1,Pesos,Uruguay,Romania
+165,360,1931,0,1,,Uruguay,Romania
+165,360,1932,0,1,,Uruguay,Romania
+165,360,1933,0,1,,Uruguay,Romania
+165,360,1934,2364,1,,Uruguay,Romania
+165,360,1935,0,1,,Uruguay,Romania
+165,360,1936,329456,1,,Uruguay,Romania
+165,360,1937,5566,1,,Uruguay,Romania
+165,360,1938,0,1,,Uruguay,Romania
+165,360,1939,0,1,,Uruguay,Romania
+165,360,1940,603,1,Us $,Uruguay,Romania
+165,360,1941,0,1,Us $,Uruguay,Romania
+165,360,1942,0,1,Us $,Uruguay,Romania
+165,360,1943,0,1,Us $,Uruguay,Romania
+165,360,1944,0,1,Us $,Uruguay,Romania
+165,360,1945,0,1,Us $,Uruguay,Romania
+165,360,1946,0,1,Us $,Uruguay,Romania
+165,360,1947,0,1,Us $,Uruguay,Romania
+165,360,1948,0,1,Us $,Uruguay,Romania
+165,360,1949,0,1,Us $,Uruguay,Romania
+165,365,1915,50,1,,Uruguay,Russia
+165,365,1919,0,1,Pesos,Uruguay,Russia
+165,365,1920,0,1,Pesos,Uruguay,Russia
+165,365,1921,0,1,Pesos,Uruguay,Russia
+165,365,1922,0,1,Pesos,Uruguay,Russia
+165,365,1923,0,1,,Uruguay,Russia
+165,365,1924,0,1,Pesos,Uruguay,Russia
+165,365,1925,2903,1,Pesos,Uruguay,Russia
+165,365,1926,195,1,Pesos,Uruguay,Russia
+165,365,1927,28,1,Pesos,Uruguay,Russia
+165,365,1928,159338,1,Pesos,Uruguay,Russia
+165,365,1929,948986,1,Pesos,Uruguay,Russia
+165,365,1930,1198991,1,Pesos,Uruguay,Russia
+165,365,1931,1656161,1,,Uruguay,Russia
+165,365,1932,3489577,1,,Uruguay,Russia
+165,365,1933,4288318,1,,Uruguay,Russia
+165,365,1934,3645281,1,,Uruguay,Russia
+165,365,1935,826679,1,,Uruguay,Russia
+165,365,1936,475872,1,,Uruguay,Russia
+165,365,1937,60663,1,,Uruguay,Russia
+165,365,1938,4143,1,,Uruguay,Russia
+165,365,1939,20,1,,Uruguay,Russia
+165,365,1940,9167,1,Us $,Uruguay,Russia
+165,365,1941,17336,1,Us $,Uruguay,Russia
+165,365,1942,0,1,Us $,Uruguay,Russia
+165,365,1943,21,1,Us $,Uruguay,Russia
+165,365,1944,1162,1,Us $,Uruguay,Russia
+165,365,1945,150,1,Us $,Uruguay,Russia
+165,365,1946,0,1,Us $,Uruguay,Russia
+165,365,1947,0,1,Us $,Uruguay,Russia
+165,365,1948,0,1,Us $,Uruguay,Russia
+165,365,1949,0,1,Us $,Uruguay,Russia
+165,366,1915,0,1,,Uruguay,Estonia
+165,366,1919,0,1,Pesos,Uruguay,Estonia
+165,366,1920,0,1,Pesos,Uruguay,Estonia
+165,366,1921,0,1,Pesos,Uruguay,Estonia
+165,366,1922,0,1,Pesos,Uruguay,Estonia
+165,366,1923,0,1,,Uruguay,Estonia
+165,366,1924,0,1,Pesos,Uruguay,Estonia
+165,366,1925,0,1,Pesos,Uruguay,Estonia
+165,366,1926,0,1,Pesos,Uruguay,Estonia
+165,366,1927,0,1,Pesos,Uruguay,Estonia
+165,366,1928,0,1,Pesos,Uruguay,Estonia
+165,366,1929,0,1,Pesos,Uruguay,Estonia
+165,366,1930,0,1,Pesos,Uruguay,Estonia
+165,366,1931,0,1,,Uruguay,Estonia
+165,366,1932,0,1,,Uruguay,Estonia
+165,366,1933,0,1,,Uruguay,Estonia
+165,366,1934,0,1,,Uruguay,Estonia
+165,366,1935,200,1,,Uruguay,Estonia
+165,366,1936,8328,1,,Uruguay,Estonia
+165,366,1937,17470,1,,Uruguay,Estonia
+165,366,1938,29183,1,,Uruguay,Estonia
+165,366,1939,0,1,,Uruguay,Estonia
+165,366,1940,0,1,Us $,Uruguay,Estonia
+165,366,1941,0,1,Us $,Uruguay,Estonia
+165,366,1942,0,1,Us $,Uruguay,Estonia
+165,366,1943,0,1,Us $,Uruguay,Estonia
+165,366,1944,0,1,Us $,Uruguay,Estonia
+165,366,1945,0,1,Us $,Uruguay,Estonia
+165,366,1946,0,1,Us $,Uruguay,Estonia
+165,366,1947,0,1,Us $,Uruguay,Estonia
+165,366,1948,0,1,Us $,Uruguay,Estonia
+165,366,1949,0,1,Us $,Uruguay,Estonia
+165,367,1915,0,1,,Uruguay,Latvia
+165,367,1919,0,1,Pesos,Uruguay,Latvia
+165,367,1920,0,1,Pesos,Uruguay,Latvia
+165,367,1921,0,1,Pesos,Uruguay,Latvia
+165,367,1922,0,1,Pesos,Uruguay,Latvia
+165,367,1923,0,1,,Uruguay,Latvia
+165,367,1924,0,1,Pesos,Uruguay,Latvia
+165,367,1925,0,1,Pesos,Uruguay,Latvia
+165,367,1926,0,1,Pesos,Uruguay,Latvia
+165,367,1927,0,1,Pesos,Uruguay,Latvia
+165,367,1928,0,1,Pesos,Uruguay,Latvia
+165,367,1929,0,1,Pesos,Uruguay,Latvia
+165,367,1930,0,1,Pesos,Uruguay,Latvia
+165,367,1931,0,1,,Uruguay,Latvia
+165,367,1932,0,1,,Uruguay,Latvia
+165,367,1933,0,1,,Uruguay,Latvia
+165,367,1934,272,1,,Uruguay,Latvia
+165,367,1935,1134,1,,Uruguay,Latvia
+165,367,1936,1270,1,,Uruguay,Latvia
+165,367,1937,5808,1,,Uruguay,Latvia
+165,367,1938,4825,1,,Uruguay,Latvia
+165,367,1939,25929,1,,Uruguay,Latvia
+165,367,1940,550,1,Us $,Uruguay,Latvia
+165,367,1941,0,1,Us $,Uruguay,Latvia
+165,367,1942,0,1,Us $,Uruguay,Latvia
+165,367,1943,0,1,Us $,Uruguay,Latvia
+165,367,1944,0,1,Us $,Uruguay,Latvia
+165,367,1945,0,1,Us $,Uruguay,Latvia
+165,367,1946,0,1,Us $,Uruguay,Latvia
+165,367,1947,0,1,Us $,Uruguay,Latvia
+165,367,1948,0,1,Us $,Uruguay,Latvia
+165,367,1949,0,1,Us $,Uruguay,Latvia
+165,368,1915,0,1,,Uruguay,Lithuania
+165,368,1919,0,1,Pesos,Uruguay,Lithuania
+165,368,1920,0,1,Pesos,Uruguay,Lithuania
+165,368,1921,0,1,Pesos,Uruguay,Lithuania
+165,368,1922,0,1,Pesos,Uruguay,Lithuania
+165,368,1923,0,1,,Uruguay,Lithuania
+165,368,1924,0,1,Pesos,Uruguay,Lithuania
+165,368,1925,0,1,Pesos,Uruguay,Lithuania
+165,368,1926,0,1,Pesos,Uruguay,Lithuania
+165,368,1927,0,1,Pesos,Uruguay,Lithuania
+165,368,1928,0,1,Pesos,Uruguay,Lithuania
+165,368,1929,0,1,Pesos,Uruguay,Lithuania
+165,368,1930,0,1,Pesos,Uruguay,Lithuania
+165,368,1931,0,1,,Uruguay,Lithuania
+165,368,1932,0,1,,Uruguay,Lithuania
+165,368,1933,0,1,,Uruguay,Lithuania
+165,368,1934,44,1,,Uruguay,Lithuania
+165,368,1935,4294,1,,Uruguay,Lithuania
+165,368,1936,0,1,,Uruguay,Lithuania
+165,368,1937,0,1,,Uruguay,Lithuania
+165,368,1938,834,1,,Uruguay,Lithuania
+165,368,1939,2471,1,,Uruguay,Lithuania
+165,368,1940,0,1,Us $,Uruguay,Lithuania
+165,368,1941,0,1,Us $,Uruguay,Lithuania
+165,368,1942,0,1,Us $,Uruguay,Lithuania
+165,368,1943,0,1,Us $,Uruguay,Lithuania
+165,368,1944,0,1,Us $,Uruguay,Lithuania
+165,368,1945,0,1,Us $,Uruguay,Lithuania
+165,368,1946,0,1,Us $,Uruguay,Lithuania
+165,368,1947,0,1,Us $,Uruguay,Lithuania
+165,368,1948,0,1,Us $,Uruguay,Lithuania
+165,368,1949,0,1,Us $,Uruguay,Lithuania
+165,375,1915,0,1,,Uruguay,Finland
+165,375,1919,0,1,Pesos,Uruguay,Finland
+165,375,1920,0,1,Pesos,Uruguay,Finland
+165,375,1921,0,1,Pesos,Uruguay,Finland
+165,375,1922,0,1,Pesos,Uruguay,Finland
+165,375,1923,0,1,,Uruguay,Finland
+165,375,1924,0,1,Pesos,Uruguay,Finland
+165,375,1925,0,1,Pesos,Uruguay,Finland
+165,375,1926,0,1,Pesos,Uruguay,Finland
+165,375,1927,0,1,Pesos,Uruguay,Finland
+165,375,1928,0,1,Pesos,Uruguay,Finland
+165,375,1929,0,1,Pesos,Uruguay,Finland
+165,375,1930,0,1,Pesos,Uruguay,Finland
+165,375,1931,1663,1,,Uruguay,Finland
+165,375,1932,360,1,,Uruguay,Finland
+165,375,1933,32293,1,,Uruguay,Finland
+165,375,1934,37195,1,,Uruguay,Finland
+165,375,1935,150126,1,,Uruguay,Finland
+165,375,1936,122782,1,,Uruguay,Finland
+165,375,1937,123860,1,,Uruguay,Finland
+165,375,1938,194890,1,,Uruguay,Finland
+165,375,1939,167430,1,,Uruguay,Finland
+165,375,1940,156959,1,Us $,Uruguay,Finland
+165,375,1941,443793,1,Us $,Uruguay,Finland
+165,375,1942,1264,1,Us $,Uruguay,Finland
+165,375,1943,0,1,Us $,Uruguay,Finland
+165,375,1944,0,1,Us $,Uruguay,Finland
+165,375,1945,0,1,Us $,Uruguay,Finland
+165,375,1946,117754,1,Us $,Uruguay,Finland
+165,375,1947,147122,1,Us $,Uruguay,Finland
+165,375,1948,105975,1,Us $,Uruguay,Finland
+165,375,1949,349165,1,Us $,Uruguay,Finland
+165,380,1915,264722,1,,Uruguay,Sweden
+165,380,1919,11778,1,Pesos,Uruguay,Sweden
+165,380,1920,53724,1,Pesos,Uruguay,Sweden
+165,380,1921,35131,1,Pesos,Uruguay,Sweden
+165,380,1922,61595,1,Pesos,Uruguay,Sweden
+165,380,1923,0,1,,Uruguay,Sweden
+165,380,1924,151154,1,Pesos,Uruguay,Sweden
+165,380,1925,246468,1,Pesos,Uruguay,Sweden
+165,380,1926,234115,1,Pesos,Uruguay,Sweden
+165,380,1927,271208,1,Pesos,Uruguay,Sweden
+165,380,1928,419645,1,Pesos,Uruguay,Sweden
+165,380,1929,459360,1,Pesos,Uruguay,Sweden
+165,380,1930,396087,1,Pesos,Uruguay,Sweden
+165,380,1931,521858,1,,Uruguay,Sweden
+165,380,1932,277385,1,,Uruguay,Sweden
+165,380,1933,330048,1,,Uruguay,Sweden
+165,380,1934,310107,1,,Uruguay,Sweden
+165,380,1935,501364,1,,Uruguay,Sweden
+165,380,1936,562192,1,,Uruguay,Sweden
+165,380,1937,658933,1,,Uruguay,Sweden
+165,380,1938,1008737,1,,Uruguay,Sweden
+165,380,1939,1643613,1,,Uruguay,Sweden
+165,380,1940,1134542,1,Us $,Uruguay,Sweden
+165,380,1941,1244228,1,Us $,Uruguay,Sweden
+165,380,1942,1489604,1,Us $,Uruguay,Sweden
+165,380,1943,12642,1,Us $,Uruguay,Sweden
+165,380,1944,2322083,1,Us $,Uruguay,Sweden
+165,380,1945,3043930,1,Us $,Uruguay,Sweden
+165,380,1946,3170188,1,Us $,Uruguay,Sweden
+165,380,1947,3859219,1,Us $,Uruguay,Sweden
+165,380,1948,5517091,1,Us $,Uruguay,Sweden
+165,380,1949,5632221,1,Us $,Uruguay,Sweden
+165,385,1915,16985,1,,Uruguay,Norway
+165,385,1919,21484,1,Pesos,Uruguay,Norway
+165,385,1920,30073,1,Pesos,Uruguay,Norway
+165,385,1921,21669,1,Pesos,Uruguay,Norway
+165,385,1922,33162,1,Pesos,Uruguay,Norway
+165,385,1923,0,1,,Uruguay,Norway
+165,385,1924,114098,1,Pesos,Uruguay,Norway
+165,385,1925,172396,1,Pesos,Uruguay,Norway
+165,385,1926,138620,1,Pesos,Uruguay,Norway
+165,385,1927,116512,1,Pesos,Uruguay,Norway
+165,385,1928,157078,1,Pesos,Uruguay,Norway
+165,385,1929,78475,1,Pesos,Uruguay,Norway
+165,385,1930,114874,1,Pesos,Uruguay,Norway
+165,385,1931,57347,1,,Uruguay,Norway
+165,385,1932,80880,1,,Uruguay,Norway
+165,385,1933,239401,1,,Uruguay,Norway
+165,385,1934,293085,1,,Uruguay,Norway
+165,385,1935,221770,1,,Uruguay,Norway
+165,385,1936,219520,1,,Uruguay,Norway
+165,385,1937,444522,1,,Uruguay,Norway
+165,385,1938,679859,1,,Uruguay,Norway
+165,385,1939,612175,1,,Uruguay,Norway
+165,385,1940,425722,1,Us $,Uruguay,Norway
+165,385,1941,21801,1,Us $,Uruguay,Norway
+165,385,1942,0,1,Us $,Uruguay,Norway
+165,385,1943,0,1,Us $,Uruguay,Norway
+165,385,1944,0,1,Us $,Uruguay,Norway
+165,385,1945,74322,1,Us $,Uruguay,Norway
+165,385,1946,525078,1,Us $,Uruguay,Norway
+165,385,1947,643684,1,Us $,Uruguay,Norway
+165,385,1948,519227,1,Us $,Uruguay,Norway
+165,385,1949,163634,1,Us $,Uruguay,Norway
+165,390,1915,2460,1,,Uruguay,Denmark
+165,390,1919,630,1,Pesos,Uruguay,Denmark
+165,390,1920,0,1,Pesos,Uruguay,Denmark
+165,390,1921,0,1,Pesos,Uruguay,Denmark
+165,390,1922,5103,1,Pesos,Uruguay,Denmark
+165,390,1923,0,1,,Uruguay,Denmark
+165,390,1924,33657,1,Pesos,Uruguay,Denmark
+165,390,1925,29007,1,Pesos,Uruguay,Denmark
+165,390,1926,13504,1,Pesos,Uruguay,Denmark
+165,390,1927,8052,1,Pesos,Uruguay,Denmark
+165,390,1928,901,1,Pesos,Uruguay,Denmark
+165,390,1929,500,1,Pesos,Uruguay,Denmark
+165,390,1930,334,1,Pesos,Uruguay,Denmark
+165,390,1931,1712,1,,Uruguay,Denmark
+165,390,1932,3356,1,,Uruguay,Denmark
+165,390,1933,6250,1,,Uruguay,Denmark
+165,390,1934,40036,1,,Uruguay,Denmark
+165,390,1935,35805,1,,Uruguay,Denmark
+165,390,1936,42734,1,,Uruguay,Denmark
+165,390,1937,96319,1,,Uruguay,Denmark
+165,390,1938,615759,1,,Uruguay,Denmark
+165,390,1939,339188,1,,Uruguay,Denmark
+165,390,1940,70087,1,Us $,Uruguay,Denmark
+165,390,1941,3495,1,Us $,Uruguay,Denmark
+165,390,1942,32,1,Us $,Uruguay,Denmark
+165,390,1943,182,1,Us $,Uruguay,Denmark
+165,390,1944,6375,1,Us $,Uruguay,Denmark
+165,390,1945,0,1,Us $,Uruguay,Denmark
+165,390,1946,23521,1,Us $,Uruguay,Denmark
+165,390,1947,944670,1,Us $,Uruguay,Denmark
+165,390,1948,233533,1,Us $,Uruguay,Denmark
+165,390,1949,500640,1,Us $,Uruguay,Denmark
+165,395,1915,0,1,,Uruguay,Iceland
+165,395,1919,0,1,Pesos,Uruguay,Iceland
+165,395,1920,0,1,Pesos,Uruguay,Iceland
+165,395,1921,0,1,Pesos,Uruguay,Iceland
+165,395,1922,0,1,Pesos,Uruguay,Iceland
+165,395,1923,0,1,,Uruguay,Iceland
+165,395,1924,0,1,Pesos,Uruguay,Iceland
+165,395,1925,0,1,Pesos,Uruguay,Iceland
+165,395,1926,0,1,Pesos,Uruguay,Iceland
+165,395,1927,0,1,Pesos,Uruguay,Iceland
+165,395,1928,0,1,Pesos,Uruguay,Iceland
+165,395,1929,0,1,Pesos,Uruguay,Iceland
+165,395,1930,0,1,Pesos,Uruguay,Iceland
+165,395,1931,0,1,,Uruguay,Iceland
+165,395,1932,0,1,,Uruguay,Iceland
+165,395,1933,0,1,,Uruguay,Iceland
+165,395,1934,0,1,,Uruguay,Iceland
+165,395,1935,0,1,,Uruguay,Iceland
+165,395,1936,0,1,,Uruguay,Iceland
+165,395,1937,0,1,,Uruguay,Iceland
+165,395,1938,0,1,,Uruguay,Iceland
+165,395,1939,0,1,,Uruguay,Iceland
+165,395,1940,10750,1,Us $,Uruguay,Iceland
+165,395,1941,13954,1,Us $,Uruguay,Iceland
+165,395,1942,6689,1,Us $,Uruguay,Iceland
+165,395,1943,0,1,Us $,Uruguay,Iceland
+165,395,1944,0,1,Us $,Uruguay,Iceland
+165,395,1945,0,1,Us $,Uruguay,Iceland
+165,395,1946,0,1,Us $,Uruguay,Iceland
+165,395,1947,0,1,Us $,Uruguay,Iceland
+165,395,1948,0,1,Us $,Uruguay,Iceland
+165,395,1949,0,1,Us $,Uruguay,Iceland
+165,433,1915,0,1,,Uruguay,Senegal
+165,433,1919,0,1,Pesos,Uruguay,Senegal
+165,433,1920,0,1,Pesos,Uruguay,Senegal
+165,433,1921,0,1,Pesos,Uruguay,Senegal
+165,433,1922,0,1,Pesos,Uruguay,Senegal
+165,433,1923,0,1,,Uruguay,Senegal
+165,433,1924,0,1,Pesos,Uruguay,Senegal
+165,433,1925,0,1,Pesos,Uruguay,Senegal
+165,433,1926,0,1,Pesos,Uruguay,Senegal
+165,433,1927,3205,1,Pesos,Uruguay,Senegal
+165,433,1928,3466,1,Pesos,Uruguay,Senegal
+165,433,1929,0,1,Pesos,Uruguay,Senegal
+165,433,1930,0,1,Pesos,Uruguay,Senegal
+165,433,1931,0,1,,Uruguay,Senegal
+165,433,1932,0,1,,Uruguay,Senegal
+165,433,1933,0,1,,Uruguay,Senegal
+165,433,1934,0,1,,Uruguay,Senegal
+165,433,1935,0,1,,Uruguay,Senegal
+165,433,1936,0,1,,Uruguay,Senegal
+165,433,1937,0,1,,Uruguay,Senegal
+165,433,1938,0,1,,Uruguay,Senegal
+165,433,1939,0,1,,Uruguay,Senegal
+165,433,1940,0,1,Us $,Uruguay,Senegal
+165,433,1941,0,1,Us $,Uruguay,Senegal
+165,433,1942,0,1,Us $,Uruguay,Senegal
+165,433,1943,0,1,Us $,Uruguay,Senegal
+165,433,1944,0,1,Us $,Uruguay,Senegal
+165,433,1945,0,1,Us $,Uruguay,Senegal
+165,433,1946,0,1,Us $,Uruguay,Senegal
+165,433,1947,0,1,Us $,Uruguay,Senegal
+165,433,1948,0,1,Us $,Uruguay,Senegal
+165,433,1949,0,1,Us $,Uruguay,Senegal
+165,490,1915,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1919,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1920,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1921,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1922,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1923,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1924,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1925,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1926,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1927,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1928,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1929,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1930,0,1,Pesos,Uruguay,"Congo, Dem. Republic"
+165,490,1931,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1932,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1933,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1934,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1935,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1936,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1937,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1938,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1939,0,1,,Uruguay,"Congo, Dem. Republic"
+165,490,1940,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1941,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1942,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1943,39256,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1944,12588,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1945,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1946,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1947,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1948,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,490,1949,0,1,Us $,Uruguay,"Congo, Dem. Republic"
+165,554,1915,0,1,,Uruguay,Rhodesia
+165,554,1919,0,1,Pesos,Uruguay,Rhodesia
+165,554,1920,0,1,Pesos,Uruguay,Rhodesia
+165,554,1921,0,1,Pesos,Uruguay,Rhodesia
+165,554,1922,0,1,Pesos,Uruguay,Rhodesia
+165,554,1923,0,1,,Uruguay,Rhodesia
+165,554,1924,0,1,Pesos,Uruguay,Rhodesia
+165,554,1925,0,1,Pesos,Uruguay,Rhodesia
+165,554,1926,0,1,Pesos,Uruguay,Rhodesia
+165,554,1927,0,1,Pesos,Uruguay,Rhodesia
+165,554,1928,0,1,Pesos,Uruguay,Rhodesia
+165,554,1929,0,1,Pesos,Uruguay,Rhodesia
+165,554,1930,0,1,Pesos,Uruguay,Rhodesia
+165,554,1931,0,1,,Uruguay,Rhodesia
+165,554,1932,0,1,,Uruguay,Rhodesia
+165,554,1933,0,1,,Uruguay,Rhodesia
+165,554,1934,0,1,,Uruguay,Rhodesia
+165,554,1935,0,1,,Uruguay,Rhodesia
+165,554,1936,0,1,,Uruguay,Rhodesia
+165,554,1937,0,1,,Uruguay,Rhodesia
+165,554,1938,0,1,,Uruguay,Rhodesia
+165,554,1939,0,1,,Uruguay,Rhodesia
+165,554,1940,0,1,Us $,Uruguay,Rhodesia
+165,554,1941,0,1,Us $,Uruguay,Rhodesia
+165,554,1942,0,1,Us $,Uruguay,Rhodesia
+165,554,1943,36403,1,Us $,Uruguay,Rhodesia
+165,554,1944,81611,1,Us $,Uruguay,Rhodesia
+165,554,1945,51244,1,Us $,Uruguay,Rhodesia
+165,554,1946,0,1,Us $,Uruguay,Rhodesia
+165,554,1947,0,1,Us $,Uruguay,Rhodesia
+165,554,1948,0,1,Us $,Uruguay,Rhodesia
+165,554,1949,0,1,Us $,Uruguay,Rhodesia
+165,560,1915,0,1,,Uruguay,South Africa
+165,560,1919,0,1,Pesos,Uruguay,South Africa
+165,560,1920,0,1,Pesos,Uruguay,South Africa
+165,560,1921,0,1,Pesos,Uruguay,South Africa
+165,560,1922,0,1,Pesos,Uruguay,South Africa
+165,560,1923,0,1,,Uruguay,South Africa
+165,560,1924,0,1,Pesos,Uruguay,South Africa
+165,560,1925,0,1,Pesos,Uruguay,South Africa
+165,560,1926,0,1,Pesos,Uruguay,South Africa
+165,560,1927,0,1,Pesos,Uruguay,South Africa
+165,560,1928,0,1,Pesos,Uruguay,South Africa
+165,560,1929,0,1,Pesos,Uruguay,South Africa
+165,560,1930,0,1,Pesos,Uruguay,South Africa
+165,560,1931,0,1,,Uruguay,South Africa
+165,560,1932,0,1,,Uruguay,South Africa
+165,560,1933,0,1,,Uruguay,South Africa
+165,560,1934,0,1,,Uruguay,South Africa
+165,560,1935,0,1,,Uruguay,South Africa
+165,560,1936,0,1,,Uruguay,South Africa
+165,560,1937,0,1,,Uruguay,South Africa
+165,560,1938,0,1,,Uruguay,South Africa
+165,560,1939,0,1,,Uruguay,South Africa
+165,560,1940,0,1,Us $,Uruguay,South Africa
+165,560,1941,9523,1,Us $,Uruguay,South Africa
+165,560,1942,72989,1,Us $,Uruguay,South Africa
+165,560,1943,1921343,1,Us $,Uruguay,South Africa
+165,560,1944,2885860,1,Us $,Uruguay,South Africa
+165,560,1945,3791472,1,Us $,Uruguay,South Africa
+165,560,1946,1474427,1,Us $,Uruguay,South Africa
+165,560,1947,1781574,1,Us $,Uruguay,South Africa
+165,560,1948,632693,1,Us $,Uruguay,South Africa
+165,560,1949,665854,1,Us $,Uruguay,South Africa
+165,580,1915,0,1,,Uruguay,Madagascar
+165,580,1919,0,1,Pesos,Uruguay,Madagascar
+165,580,1920,0,1,Pesos,Uruguay,Madagascar
+165,580,1921,0,1,Pesos,Uruguay,Madagascar
+165,580,1922,0,1,Pesos,Uruguay,Madagascar
+165,580,1923,0,1,,Uruguay,Madagascar
+165,580,1924,0,1,Pesos,Uruguay,Madagascar
+165,580,1925,0,1,Pesos,Uruguay,Madagascar
+165,580,1926,0,1,Pesos,Uruguay,Madagascar
+165,580,1927,0,1,Pesos,Uruguay,Madagascar
+165,580,1928,0,1,Pesos,Uruguay,Madagascar
+165,580,1929,0,1,Pesos,Uruguay,Madagascar
+165,580,1930,0,1,Pesos,Uruguay,Madagascar
+165,580,1931,0,1,,Uruguay,Madagascar
+165,580,1932,0,1,,Uruguay,Madagascar
+165,580,1933,0,1,,Uruguay,Madagascar
+165,580,1934,0,1,,Uruguay,Madagascar
+165,580,1935,0,1,,Uruguay,Madagascar
+165,580,1936,0,1,,Uruguay,Madagascar
+165,580,1937,0,1,,Uruguay,Madagascar
+165,580,1938,0,1,,Uruguay,Madagascar
+165,580,1939,0,1,,Uruguay,Madagascar
+165,580,1940,8390,1,Us $,Uruguay,Madagascar
+165,580,1941,0,1,Us $,Uruguay,Madagascar
+165,580,1942,0,1,Us $,Uruguay,Madagascar
+165,580,1943,0,1,Us $,Uruguay,Madagascar
+165,580,1944,0,1,Us $,Uruguay,Madagascar
+165,580,1945,0,1,Us $,Uruguay,Madagascar
+165,580,1946,0,1,Us $,Uruguay,Madagascar
+165,580,1947,0,1,Us $,Uruguay,Madagascar
+165,580,1948,0,1,Us $,Uruguay,Madagascar
+165,580,1949,0,1,Us $,Uruguay,Madagascar
+165,600,1915,0,1,,Uruguay,Morocco
+165,600,1919,0,1,Pesos,Uruguay,Morocco
+165,600,1920,0,1,Pesos,Uruguay,Morocco
+165,600,1921,0,1,Pesos,Uruguay,Morocco
+165,600,1922,0,1,Pesos,Uruguay,Morocco
+165,600,1923,0,1,,Uruguay,Morocco
+165,600,1924,0,1,Pesos,Uruguay,Morocco
+165,600,1925,0,1,Pesos,Uruguay,Morocco
+165,600,1926,0,1,Pesos,Uruguay,Morocco
+165,600,1927,0,1,Pesos,Uruguay,Morocco
+165,600,1928,0,1,Pesos,Uruguay,Morocco
+165,600,1929,0,1,Pesos,Uruguay,Morocco
+165,600,1930,0,1,Pesos,Uruguay,Morocco
+165,600,1931,0,1,,Uruguay,Morocco
+165,600,1932,0,1,,Uruguay,Morocco
+165,600,1933,0,1,,Uruguay,Morocco
+165,600,1934,0,1,,Uruguay,Morocco
+165,600,1935,0,1,,Uruguay,Morocco
+165,600,1936,0,1,,Uruguay,Morocco
+165,600,1937,0,1,,Uruguay,Morocco
+165,600,1938,0,1,,Uruguay,Morocco
+165,600,1939,0,1,,Uruguay,Morocco
+165,600,1940,16075,1,Us $,Uruguay,Morocco
+165,600,1941,8530,1,Us $,Uruguay,Morocco
+165,600,1942,0,1,Us $,Uruguay,Morocco
+165,600,1943,0,1,Us $,Uruguay,Morocco
+165,600,1944,0,1,Us $,Uruguay,Morocco
+165,600,1945,0,1,Us $,Uruguay,Morocco
+165,600,1946,0,1,Us $,Uruguay,Morocco
+165,600,1947,0,1,Us $,Uruguay,Morocco
+165,600,1948,0,1,Us $,Uruguay,Morocco
+165,600,1949,0,1,Us $,Uruguay,Morocco
+165,615,1915,0,1,,Uruguay,Algeria
+165,615,1919,0,1,Pesos,Uruguay,Algeria
+165,615,1920,0,1,Pesos,Uruguay,Algeria
+165,615,1921,0,1,Pesos,Uruguay,Algeria
+165,615,1922,0,1,Pesos,Uruguay,Algeria
+165,615,1923,0,1,,Uruguay,Algeria
+165,615,1924,0,1,Pesos,Uruguay,Algeria
+165,615,1925,0,1,Pesos,Uruguay,Algeria
+165,615,1926,0,1,Pesos,Uruguay,Algeria
+165,615,1927,0,1,Pesos,Uruguay,Algeria
+165,615,1928,0,1,Pesos,Uruguay,Algeria
+165,615,1929,0,1,Pesos,Uruguay,Algeria
+165,615,1930,0,1,Pesos,Uruguay,Algeria
+165,615,1931,0,1,,Uruguay,Algeria
+165,615,1932,0,1,,Uruguay,Algeria
+165,615,1933,0,1,,Uruguay,Algeria
+165,615,1934,0,1,,Uruguay,Algeria
+165,615,1935,0,1,,Uruguay,Algeria
+165,615,1936,0,1,,Uruguay,Algeria
+165,615,1937,0,1,,Uruguay,Algeria
+165,615,1938,0,1,,Uruguay,Algeria
+165,615,1939,0,1,,Uruguay,Algeria
+165,615,1940,228,1,Us $,Uruguay,Algeria
+165,615,1941,15872,1,Us $,Uruguay,Algeria
+165,615,1942,0,1,Us $,Uruguay,Algeria
+165,615,1943,0,1,Us $,Uruguay,Algeria
+165,615,1944,0,1,Us $,Uruguay,Algeria
+165,615,1945,0,1,Us $,Uruguay,Algeria
+165,615,1946,8188,1,Us $,Uruguay,Algeria
+165,615,1947,4489,1,Us $,Uruguay,Algeria
+165,615,1948,14176,1,Us $,Uruguay,Algeria
+165,615,1949,135454,1,Us $,Uruguay,Algeria
+165,630,1915,0,1,,Uruguay,Iran
+165,630,1919,0,1,Pesos,Uruguay,Iran
+165,630,1920,0,1,Pesos,Uruguay,Iran
+165,630,1921,0,1,Pesos,Uruguay,Iran
+165,630,1922,0,1,Pesos,Uruguay,Iran
+165,630,1923,0,1,,Uruguay,Iran
+165,630,1924,0,1,Pesos,Uruguay,Iran
+165,630,1925,0,1,Pesos,Uruguay,Iran
+165,630,1926,0,1,Pesos,Uruguay,Iran
+165,630,1927,0,1,Pesos,Uruguay,Iran
+165,630,1928,0,1,Pesos,Uruguay,Iran
+165,630,1929,0,1,Pesos,Uruguay,Iran
+165,630,1930,0,1,Pesos,Uruguay,Iran
+165,630,1931,0,1,,Uruguay,Iran
+165,630,1932,0,1,,Uruguay,Iran
+165,630,1933,0,1,,Uruguay,Iran
+165,630,1934,0,1,,Uruguay,Iran
+165,630,1935,0,1,,Uruguay,Iran
+165,630,1936,0,1,,Uruguay,Iran
+165,630,1937,735,1,,Uruguay,Iran
+165,630,1938,0,1,,Uruguay,Iran
+165,630,1939,0,1,,Uruguay,Iran
+165,630,1940,280,1,Us $,Uruguay,Iran
+165,630,1941,1236,1,Us $,Uruguay,Iran
+165,630,1942,0,1,Us $,Uruguay,Iran
+165,630,1943,0,1,Us $,Uruguay,Iran
+165,630,1944,0,1,Us $,Uruguay,Iran
+165,630,1945,0,1,Us $,Uruguay,Iran
+165,630,1946,0,1,Us $,Uruguay,Iran
+165,630,1947,0,1,Us $,Uruguay,Iran
+165,630,1948,0,1,Us $,Uruguay,Iran
+165,630,1949,0,1,Us $,Uruguay,Iran
+165,640,1915,305,1,,Uruguay,Turkey
+165,640,1919,48,1,Pesos,Uruguay,Turkey
+165,640,1920,0,1,Pesos,Uruguay,Turkey
+165,640,1921,0,1,Pesos,Uruguay,Turkey
+165,640,1922,0,1,Pesos,Uruguay,Turkey
+165,640,1923,0,1,,Uruguay,Turkey
+165,640,1924,824,1,Pesos,Uruguay,Turkey
+165,640,1925,261,1,Pesos,Uruguay,Turkey
+165,640,1926,592,1,Pesos,Uruguay,Turkey
+165,640,1927,848,1,Pesos,Uruguay,Turkey
+165,640,1928,1409,1,Pesos,Uruguay,Turkey
+165,640,1929,481,1,Pesos,Uruguay,Turkey
+165,640,1930,0,1,Pesos,Uruguay,Turkey
+165,640,1931,1393,1,,Uruguay,Turkey
+165,640,1932,289,1,,Uruguay,Turkey
+165,640,1933,971,1,,Uruguay,Turkey
+165,640,1934,6198,1,,Uruguay,Turkey
+165,640,1935,4298,1,,Uruguay,Turkey
+165,640,1936,0,1,,Uruguay,Turkey
+165,640,1937,5307,1,,Uruguay,Turkey
+165,640,1938,100194,1,,Uruguay,Turkey
+165,640,1939,377251,1,,Uruguay,Turkey
+165,640,1940,268701,1,Us $,Uruguay,Turkey
+165,640,1941,94763,1,Us $,Uruguay,Turkey
+165,640,1942,0,1,Us $,Uruguay,Turkey
+165,640,1943,24,1,Us $,Uruguay,Turkey
+165,640,1944,9461,1,Us $,Uruguay,Turkey
+165,640,1945,77385,1,Us $,Uruguay,Turkey
+165,640,1946,108591,1,Us $,Uruguay,Turkey
+165,640,1947,206675,1,Us $,Uruguay,Turkey
+165,640,1948,357234,1,Us $,Uruguay,Turkey
+165,640,1949,279258,1,Us $,Uruguay,Turkey
+165,645,1915,0,1,,Uruguay,Iraq
+165,645,1919,0,1,Pesos,Uruguay,Iraq
+165,645,1920,0,1,Pesos,Uruguay,Iraq
+165,645,1921,0,1,Pesos,Uruguay,Iraq
+165,645,1922,0,1,Pesos,Uruguay,Iraq
+165,645,1923,0,1,,Uruguay,Iraq
+165,645,1924,0,1,Pesos,Uruguay,Iraq
+165,645,1925,0,1,Pesos,Uruguay,Iraq
+165,645,1926,0,1,Pesos,Uruguay,Iraq
+165,645,1927,0,1,Pesos,Uruguay,Iraq
+165,645,1928,0,1,Pesos,Uruguay,Iraq
+165,645,1929,0,1,Pesos,Uruguay,Iraq
+165,645,1930,0,1,Pesos,Uruguay,Iraq
+165,645,1931,0,1,,Uruguay,Iraq
+165,645,1932,0,1,,Uruguay,Iraq
+165,645,1933,0,1,,Uruguay,Iraq
+165,645,1934,0,1,,Uruguay,Iraq
+165,645,1935,0,1,,Uruguay,Iraq
+165,645,1936,0,1,,Uruguay,Iraq
+165,645,1937,0,1,,Uruguay,Iraq
+165,645,1938,0,1,,Uruguay,Iraq
+165,645,1939,0,1,,Uruguay,Iraq
+165,645,1940,0,1,Us $,Uruguay,Iraq
+165,645,1941,0,1,Us $,Uruguay,Iraq
+165,645,1942,0,1,Us $,Uruguay,Iraq
+165,645,1943,60402,1,Us $,Uruguay,Iraq
+165,645,1944,0,1,Us $,Uruguay,Iraq
+165,645,1945,0,1,Us $,Uruguay,Iraq
+165,645,1946,0,1,Us $,Uruguay,Iraq
+165,645,1947,0,1,Us $,Uruguay,Iraq
+165,645,1948,0,1,Us $,Uruguay,Iraq
+165,645,1949,0,1,Us $,Uruguay,Iraq
+165,651,1915,0,1,,Uruguay,Egypt
+165,651,1919,0,1,Pesos,Uruguay,Egypt
+165,651,1920,0,1,Pesos,Uruguay,Egypt
+165,651,1921,0,1,Pesos,Uruguay,Egypt
+165,651,1922,0,1,Pesos,Uruguay,Egypt
+165,651,1923,0,1,,Uruguay,Egypt
+165,651,1924,15,1,Pesos,Uruguay,Egypt
+165,651,1925,0,1,Pesos,Uruguay,Egypt
+165,651,1926,0,1,Pesos,Uruguay,Egypt
+165,651,1927,0,1,Pesos,Uruguay,Egypt
+165,651,1928,259,1,Pesos,Uruguay,Egypt
+165,651,1929,0,1,Pesos,Uruguay,Egypt
+165,651,1930,0,1,Pesos,Uruguay,Egypt
+165,651,1931,38,1,,Uruguay,Egypt
+165,651,1932,0,1,,Uruguay,Egypt
+165,651,1933,0,1,,Uruguay,Egypt
+165,651,1934,0,1,,Uruguay,Egypt
+165,651,1935,0,1,,Uruguay,Egypt
+165,651,1936,1664,1,,Uruguay,Egypt
+165,651,1937,3026,1,,Uruguay,Egypt
+165,651,1938,59,1,,Uruguay,Egypt
+165,651,1939,0,1,,Uruguay,Egypt
+165,651,1940,0,1,Us $,Uruguay,Egypt
+165,651,1941,0,1,Us $,Uruguay,Egypt
+165,651,1942,0,1,Us $,Uruguay,Egypt
+165,651,1943,64,1,Us $,Uruguay,Egypt
+165,651,1944,1975,1,Us $,Uruguay,Egypt
+165,651,1945,0,1,Us $,Uruguay,Egypt
+165,651,1946,0,1,Us $,Uruguay,Egypt
+165,651,1947,0,1,Us $,Uruguay,Egypt
+165,651,1948,0,1,Us $,Uruguay,Egypt
+165,651,1949,0,1,Us $,Uruguay,Egypt
+165,660,1915,0,1,,Uruguay,Lebanon
+165,660,1919,0,1,Pesos,Uruguay,Lebanon
+165,660,1920,0,1,Pesos,Uruguay,Lebanon
+165,660,1921,0,1,Pesos,Uruguay,Lebanon
+165,660,1922,0,1,Pesos,Uruguay,Lebanon
+165,660,1923,0,1,,Uruguay,Lebanon
+165,660,1924,0,1,Pesos,Uruguay,Lebanon
+165,660,1925,0,1,Pesos,Uruguay,Lebanon
+165,660,1926,0,1,Pesos,Uruguay,Lebanon
+165,660,1927,0,1,Pesos,Uruguay,Lebanon
+165,660,1928,0,1,Pesos,Uruguay,Lebanon
+165,660,1929,0,1,Pesos,Uruguay,Lebanon
+165,660,1930,0,1,Pesos,Uruguay,Lebanon
+165,660,1931,0,1,,Uruguay,Lebanon
+165,660,1932,0,1,,Uruguay,Lebanon
+165,660,1933,0,1,,Uruguay,Lebanon
+165,660,1934,0,1,,Uruguay,Lebanon
+165,660,1935,0,1,,Uruguay,Lebanon
+165,660,1936,160,1,,Uruguay,Lebanon
+165,660,1937,0,1,,Uruguay,Lebanon
+165,660,1938,0,1,,Uruguay,Lebanon
+165,660,1939,451,1,,Uruguay,Lebanon
+165,660,1940,0,1,Us $,Uruguay,Lebanon
+165,660,1941,0,1,Us $,Uruguay,Lebanon
+165,660,1942,0,1,Us $,Uruguay,Lebanon
+165,660,1943,0,1,Us $,Uruguay,Lebanon
+165,660,1944,0,1,Us $,Uruguay,Lebanon
+165,660,1945,0,1,Us $,Uruguay,Lebanon
+165,660,1946,0,1,Us $,Uruguay,Lebanon
+165,660,1947,0,1,Us $,Uruguay,Lebanon
+165,660,1948,0,1,Us $,Uruguay,Lebanon
+165,660,1949,0,1,Us $,Uruguay,Lebanon
+165,665,1915,0,1,,Uruguay,West Bank And Gaza
+165,665,1919,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1920,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1921,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1922,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1923,0,1,,Uruguay,West Bank And Gaza
+165,665,1924,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1925,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1926,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1927,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1928,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1929,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1930,0,1,Pesos,Uruguay,West Bank And Gaza
+165,665,1931,0,1,,Uruguay,West Bank And Gaza
+165,665,1932,0,1,,Uruguay,West Bank And Gaza
+165,665,1933,0,1,,Uruguay,West Bank And Gaza
+165,665,1934,0,1,,Uruguay,West Bank And Gaza
+165,665,1935,0,1,,Uruguay,West Bank And Gaza
+165,665,1936,468,1,,Uruguay,West Bank And Gaza
+165,665,1937,0,1,,Uruguay,West Bank And Gaza
+165,665,1938,0,1,,Uruguay,West Bank And Gaza
+165,665,1939,0,1,,Uruguay,West Bank And Gaza
+165,665,1940,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1941,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1942,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1943,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1944,5844,1,Us $,Uruguay,West Bank And Gaza
+165,665,1945,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1946,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1947,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1948,0,1,Us $,Uruguay,West Bank And Gaza
+165,665,1949,0,1,Us $,Uruguay,West Bank And Gaza
+165,675,1915,0,1,,Uruguay,Arabia
+165,675,1919,0,1,Pesos,Uruguay,Arabia
+165,675,1920,0,1,Pesos,Uruguay,Arabia
+165,675,1921,0,1,Pesos,Uruguay,Arabia
+165,675,1922,494,1,Pesos,Uruguay,Arabia
+165,675,1923,0,1,,Uruguay,Arabia
+165,675,1924,1271,1,Pesos,Uruguay,Arabia
+165,675,1925,931,1,Pesos,Uruguay,Arabia
+165,675,1926,619,1,Pesos,Uruguay,Arabia
+165,675,1927,235,1,Pesos,Uruguay,Arabia
+165,675,1928,593,1,Pesos,Uruguay,Arabia
+165,675,1929,449,1,Pesos,Uruguay,Arabia
+165,675,1930,0,1,Pesos,Uruguay,Arabia
+165,675,1931,0,1,,Uruguay,Arabia
+165,675,1932,1172,1,,Uruguay,Arabia
+165,675,1933,492,1,,Uruguay,Arabia
+165,675,1934,958,1,,Uruguay,Arabia
+165,675,1935,1178,1,,Uruguay,Arabia
+165,675,1936,1999,1,,Uruguay,Arabia
+165,675,1937,989,1,,Uruguay,Arabia
+165,675,1938,497,1,,Uruguay,Arabia
+165,675,1939,0,1,,Uruguay,Arabia
+165,675,1940,0,1,Us $,Uruguay,Arabia
+165,675,1941,0,1,Us $,Uruguay,Arabia
+165,675,1942,0,1,Us $,Uruguay,Arabia
+165,675,1943,0,1,Us $,Uruguay,Arabia
+165,675,1944,0,1,Us $,Uruguay,Arabia
+165,675,1945,0,1,Us $,Uruguay,Arabia
+165,675,1946,0,1,Us $,Uruguay,Arabia
+165,675,1947,215977,1,Us $,Uruguay,Arabia
+165,675,1948,1475996,1,Us $,Uruguay,Arabia
+165,675,1949,2208799,1,Us $,Uruguay,Arabia
+165,710,1915,528,1,,Uruguay,China
+165,710,1919,1403,1,Pesos,Uruguay,China
+165,710,1920,0,1,Pesos,Uruguay,China
+165,710,1921,24,1,Pesos,Uruguay,China
+165,710,1922,6019,1,Pesos,Uruguay,China
+165,710,1923,0,1,,Uruguay,China
+165,710,1924,37974,1,Pesos,Uruguay,China
+165,710,1925,8893,1,Pesos,Uruguay,China
+165,710,1926,6330,1,Pesos,Uruguay,China
+165,710,1927,8189,1,Pesos,Uruguay,China
+165,710,1928,13001,1,Pesos,Uruguay,China
+165,710,1929,7180,1,Pesos,Uruguay,China
+165,710,1930,8745,1,Pesos,Uruguay,China
+165,710,1931,7702,1,,Uruguay,China
+165,710,1932,3875,1,,Uruguay,China
+165,710,1933,2632,1,,Uruguay,China
+165,710,1934,12598,1,,Uruguay,China
+165,710,1935,5995,1,,Uruguay,China
+165,710,1936,9645,1,,Uruguay,China
+165,710,1937,82881,1,,Uruguay,China
+165,710,1938,18132,1,,Uruguay,China
+165,710,1939,47646,1,,Uruguay,China
+165,710,1940,15756,1,Us $,Uruguay,China
+165,710,1941,29722,1,Us $,Uruguay,China
+165,710,1942,16157,1,Us $,Uruguay,China
+165,710,1943,5831,1,Us $,Uruguay,China
+165,710,1944,0,1,Us $,Uruguay,China
+165,710,1945,370,1,Us $,Uruguay,China
+165,710,1946,0,1,Us $,Uruguay,China
+165,710,1947,0,1,Us $,Uruguay,China
+165,710,1948,0,1,Us $,Uruguay,China
+165,710,1949,0,1,Us $,Uruguay,China
+165,720,1915,0,1,,Uruguay,Hong Kong
+165,720,1919,0,1,Pesos,Uruguay,Hong Kong
+165,720,1920,0,1,Pesos,Uruguay,Hong Kong
+165,720,1921,0,1,Pesos,Uruguay,Hong Kong
+165,720,1922,0,1,Pesos,Uruguay,Hong Kong
+165,720,1923,0,1,,Uruguay,Hong Kong
+165,720,1924,0,1,Pesos,Uruguay,Hong Kong
+165,720,1925,0,1,Pesos,Uruguay,Hong Kong
+165,720,1926,0,1,Pesos,Uruguay,Hong Kong
+165,720,1927,0,1,Pesos,Uruguay,Hong Kong
+165,720,1928,0,1,Pesos,Uruguay,Hong Kong
+165,720,1929,0,1,Pesos,Uruguay,Hong Kong
+165,720,1930,0,1,Pesos,Uruguay,Hong Kong
+165,720,1931,0,1,,Uruguay,Hong Kong
+165,720,1932,0,1,,Uruguay,Hong Kong
+165,720,1933,0,1,,Uruguay,Hong Kong
+165,720,1934,0,1,,Uruguay,Hong Kong
+165,720,1935,0,1,,Uruguay,Hong Kong
+165,720,1936,0,1,,Uruguay,Hong Kong
+165,720,1937,0,1,,Uruguay,Hong Kong
+165,720,1938,0,1,,Uruguay,Hong Kong
+165,720,1939,0,1,,Uruguay,Hong Kong
+165,720,1940,0,1,Us $,Uruguay,Hong Kong
+165,720,1941,0,1,Us $,Uruguay,Hong Kong
+165,720,1942,0,1,Us $,Uruguay,Hong Kong
+165,720,1943,0,1,Us $,Uruguay,Hong Kong
+165,720,1944,0,1,Us $,Uruguay,Hong Kong
+165,720,1945,0,1,Us $,Uruguay,Hong Kong
+165,720,1946,11489,1,Us $,Uruguay,Hong Kong
+165,720,1947,1373,1,Us $,Uruguay,Hong Kong
+165,720,1948,14164,1,Us $,Uruguay,Hong Kong
+165,720,1949,70698,1,Us $,Uruguay,Hong Kong
+165,740,1915,1941,1,,Uruguay,Japan
+165,740,1919,225808,1,Pesos,Uruguay,Japan
+165,740,1920,297202,1,Pesos,Uruguay,Japan
+165,740,1921,217532,1,Pesos,Uruguay,Japan
+165,740,1922,104650,1,Pesos,Uruguay,Japan
+165,740,1923,0,1,,Uruguay,Japan
+165,740,1924,425242,1,Pesos,Uruguay,Japan
+165,740,1925,529313,1,Pesos,Uruguay,Japan
+165,740,1926,589165,1,Pesos,Uruguay,Japan
+165,740,1927,690172,1,Pesos,Uruguay,Japan
+165,740,1928,991047,1,Pesos,Uruguay,Japan
+165,740,1929,1049302,1,Pesos,Uruguay,Japan
+165,740,1930,860091,1,Pesos,Uruguay,Japan
+165,740,1931,438172,1,,Uruguay,Japan
+165,740,1932,432887,1,,Uruguay,Japan
+165,740,1933,759593,1,,Uruguay,Japan
+165,740,1934,2363265,1,,Uruguay,Japan
+165,740,1935,2708388,1,,Uruguay,Japan
+165,740,1936,3396372,1,,Uruguay,Japan
+165,740,1937,3696697,1,,Uruguay,Japan
+165,740,1938,3580234,1,,Uruguay,Japan
+165,740,1939,1760227,1,,Uruguay,Japan
+165,740,1940,1726993,1,Us $,Uruguay,Japan
+165,740,1941,1882023,1,Us $,Uruguay,Japan
+165,740,1942,322640,1,Us $,Uruguay,Japan
+165,740,1943,8832,1,Us $,Uruguay,Japan
+165,740,1944,38,1,Us $,Uruguay,Japan
+165,740,1945,33,1,Us $,Uruguay,Japan
+165,740,1946,0,1,Us $,Uruguay,Japan
+165,740,1947,26,1,Us $,Uruguay,Japan
+165,740,1948,55,1,Us $,Uruguay,Japan
+165,740,1949,464483,1,Us $,Uruguay,Japan
+165,750,1915,0,1,,Uruguay,India
+165,750,1919,97868,1,Pesos,Uruguay,India
+165,750,1920,8072,1,Pesos,Uruguay,India
+165,750,1921,36806,1,Pesos,Uruguay,India
+165,750,1922,112632,1,Pesos,Uruguay,India
+165,750,1923,0,1,,Uruguay,India
+165,750,1924,469703,1,Pesos,Uruguay,India
+165,750,1925,592753,1,Pesos,Uruguay,India
+165,750,1926,540882,1,Pesos,Uruguay,India
+165,750,1927,921452,1,Pesos,Uruguay,India
+165,750,1928,588289,1,Pesos,Uruguay,India
+165,750,1929,669576,1,Pesos,Uruguay,India
+165,750,1930,424998,1,Pesos,Uruguay,India
+165,750,1931,429199,1,,Uruguay,India
+165,750,1932,400953,1,,Uruguay,India
+165,750,1933,417590,1,,Uruguay,India
+165,750,1934,378195,1,,Uruguay,India
+165,750,1935,218034,1,,Uruguay,India
+165,750,1936,488853,1,,Uruguay,India
+165,750,1937,820472,1,,Uruguay,India
+165,750,1938,865802,1,,Uruguay,India
+165,750,1939,1020742,1,,Uruguay,India
+165,750,1940,1108711,1,Us $,Uruguay,India
+165,750,1941,1048424,1,Us $,Uruguay,India
+165,750,1942,1883744,1,Us $,Uruguay,India
+165,750,1943,1922513,1,Us $,Uruguay,India
+165,750,1944,1693559,1,Us $,Uruguay,India
+165,750,1945,1692699,1,Us $,Uruguay,India
+165,750,1946,1807212,1,Us $,Uruguay,India
+165,750,1947,2319919,1,Us $,Uruguay,India
+165,750,1948,5709812,1,Us $,Uruguay,India
+165,750,1949,4046737,1,Us $,Uruguay,India
+165,780,1915,0,1,,Uruguay,Sri Lanka
+165,780,1919,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1920,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1921,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1922,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1923,0,1,,Uruguay,Sri Lanka
+165,780,1924,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1925,3731,1,Pesos,Uruguay,Sri Lanka
+165,780,1926,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1927,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1928,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1929,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1930,0,1,Pesos,Uruguay,Sri Lanka
+165,780,1931,8172,1,,Uruguay,Sri Lanka
+165,780,1932,0,1,,Uruguay,Sri Lanka
+165,780,1933,0,1,,Uruguay,Sri Lanka
+165,780,1934,0,1,,Uruguay,Sri Lanka
+165,780,1935,0,1,,Uruguay,Sri Lanka
+165,780,1936,923,1,,Uruguay,Sri Lanka
+165,780,1937,4281,1,,Uruguay,Sri Lanka
+165,780,1938,0,1,,Uruguay,Sri Lanka
+165,780,1939,6801,1,,Uruguay,Sri Lanka
+165,780,1940,58231,1,Us $,Uruguay,Sri Lanka
+165,780,1941,84716,1,Us $,Uruguay,Sri Lanka
+165,780,1942,232534,1,Us $,Uruguay,Sri Lanka
+165,780,1943,30583,1,Us $,Uruguay,Sri Lanka
+165,780,1944,125230,1,Us $,Uruguay,Sri Lanka
+165,780,1945,52560,1,Us $,Uruguay,Sri Lanka
+165,780,1946,79035,1,Us $,Uruguay,Sri Lanka
+165,780,1947,274600,1,Us $,Uruguay,Sri Lanka
+165,780,1948,314026,1,Us $,Uruguay,Sri Lanka
+165,780,1949,451361,1,Us $,Uruguay,Sri Lanka
+165,810,1915,0,1,,Uruguay,French Indo-China
+165,810,1919,0,1,Pesos,Uruguay,French Indo-China
+165,810,1920,0,1,Pesos,Uruguay,French Indo-China
+165,810,1921,0,1,Pesos,Uruguay,French Indo-China
+165,810,1922,0,1,Pesos,Uruguay,French Indo-China
+165,810,1923,0,1,,Uruguay,French Indo-China
+165,810,1924,0,1,Pesos,Uruguay,French Indo-China
+165,810,1925,0,1,Pesos,Uruguay,French Indo-China
+165,810,1926,0,1,Pesos,Uruguay,French Indo-China
+165,810,1927,2112,1,Pesos,Uruguay,French Indo-China
+165,810,1928,0,1,Pesos,Uruguay,French Indo-China
+165,810,1929,0,1,Pesos,Uruguay,French Indo-China
+165,810,1930,0,1,Pesos,Uruguay,French Indo-China
+165,810,1931,0,1,,Uruguay,French Indo-China
+165,810,1932,0,1,,Uruguay,French Indo-China
+165,810,1933,0,1,,Uruguay,French Indo-China
+165,810,1934,0,1,,Uruguay,French Indo-China
+165,810,1935,0,1,,Uruguay,French Indo-China
+165,810,1936,3060,1,,Uruguay,French Indo-China
+165,810,1937,52620,1,,Uruguay,French Indo-China
+165,810,1938,0,1,,Uruguay,French Indo-China
+165,810,1939,0,1,,Uruguay,French Indo-China
+165,810,1940,0,1,Us $,Uruguay,French Indo-China
+165,810,1941,0,1,Us $,Uruguay,French Indo-China
+165,810,1942,0,1,Us $,Uruguay,French Indo-China
+165,810,1943,0,1,Us $,Uruguay,French Indo-China
+165,810,1944,0,1,Us $,Uruguay,French Indo-China
+165,810,1945,0,1,Us $,Uruguay,French Indo-China
+165,810,1946,0,1,Us $,Uruguay,French Indo-China
+165,810,1947,0,1,Us $,Uruguay,French Indo-China
+165,810,1948,0,1,Us $,Uruguay,French Indo-China
+165,810,1949,0,1,Us $,Uruguay,French Indo-China
+165,830,1915,0,1,,Uruguay,Singapore
+165,830,1919,0,1,Pesos,Uruguay,Singapore
+165,830,1920,0,1,Pesos,Uruguay,Singapore
+165,830,1921,0,1,Pesos,Uruguay,Singapore
+165,830,1922,0,1,Pesos,Uruguay,Singapore
+165,830,1923,0,1,,Uruguay,Singapore
+165,830,1924,0,1,Pesos,Uruguay,Singapore
+165,830,1925,0,1,Pesos,Uruguay,Singapore
+165,830,1926,0,1,Pesos,Uruguay,Singapore
+165,830,1927,0,1,Pesos,Uruguay,Singapore
+165,830,1928,0,1,Pesos,Uruguay,Singapore
+165,830,1929,0,1,Pesos,Uruguay,Singapore
+165,830,1930,0,1,Pesos,Uruguay,Singapore
+165,830,1931,0,1,,Uruguay,Singapore
+165,830,1932,0,1,,Uruguay,Singapore
+165,830,1933,0,1,,Uruguay,Singapore
+165,830,1934,0,1,,Uruguay,Singapore
+165,830,1935,0,1,,Uruguay,Singapore
+165,830,1936,0,1,,Uruguay,Singapore
+165,830,1937,0,1,,Uruguay,Singapore
+165,830,1938,0,1,,Uruguay,Singapore
+165,830,1939,0,1,,Uruguay,Singapore
+165,830,1940,4541,1,Us $,Uruguay,Singapore
+165,830,1941,91451,1,Us $,Uruguay,Singapore
+165,830,1942,24130,1,Us $,Uruguay,Singapore
+165,830,1943,0,1,Us $,Uruguay,Singapore
+165,830,1944,0,1,Us $,Uruguay,Singapore
+165,830,1945,0,1,Us $,Uruguay,Singapore
+165,830,1946,69444,1,Us $,Uruguay,Singapore
+165,830,1947,19043,1,Us $,Uruguay,Singapore
+165,830,1948,146914,1,Us $,Uruguay,Singapore
+165,830,1949,145542,1,Us $,Uruguay,Singapore
+165,840,1915,10613,1,,Uruguay,Philippines
+165,840,1919,7505,1,Pesos,Uruguay,Philippines
+165,840,1920,0,1,Pesos,Uruguay,Philippines
+165,840,1921,632,1,Pesos,Uruguay,Philippines
+165,840,1922,8620,1,Pesos,Uruguay,Philippines
+165,840,1923,0,1,,Uruguay,Philippines
+165,840,1924,23205,1,Pesos,Uruguay,Philippines
+165,840,1925,30728,1,Pesos,Uruguay,Philippines
+165,840,1926,24074,1,Pesos,Uruguay,Philippines
+165,840,1927,24478,1,Pesos,Uruguay,Philippines
+165,840,1928,26231,1,Pesos,Uruguay,Philippines
+165,840,1929,22691,1,Pesos,Uruguay,Philippines
+165,840,1930,18401,1,Pesos,Uruguay,Philippines
+165,840,1931,8823,1,,Uruguay,Philippines
+165,840,1932,2913,1,,Uruguay,Philippines
+165,840,1933,2090,1,,Uruguay,Philippines
+165,840,1934,1615,1,,Uruguay,Philippines
+165,840,1935,9249,1,,Uruguay,Philippines
+165,840,1936,847,1,,Uruguay,Philippines
+165,840,1937,834,1,,Uruguay,Philippines
+165,840,1938,1640,1,,Uruguay,Philippines
+165,840,1939,5792,1,,Uruguay,Philippines
+165,840,1940,0,1,Us $,Uruguay,Philippines
+165,840,1941,0,1,Us $,Uruguay,Philippines
+165,840,1942,0,1,Us $,Uruguay,Philippines
+165,840,1943,0,1,Us $,Uruguay,Philippines
+165,840,1944,0,1,Us $,Uruguay,Philippines
+165,840,1945,0,1,Us $,Uruguay,Philippines
+165,840,1946,0,1,Us $,Uruguay,Philippines
+165,840,1947,40186,1,Us $,Uruguay,Philippines
+165,840,1948,35568,1,Us $,Uruguay,Philippines
+165,840,1949,55304,1,Us $,Uruguay,Philippines
+165,900,1915,33685,1,,Uruguay,Australia
+165,900,1919,0,1,Pesos,Uruguay,Australia
+165,900,1920,4700,1,Pesos,Uruguay,Australia
+165,900,1921,0,1,Pesos,Uruguay,Australia
+165,900,1922,0,1,Pesos,Uruguay,Australia
+165,900,1923,0,1,,Uruguay,Australia
+165,900,1924,0,1,Pesos,Uruguay,Australia
+165,900,1925,11707,1,Pesos,Uruguay,Australia
+165,900,1926,897,1,Pesos,Uruguay,Australia
+165,900,1927,77786,1,Pesos,Uruguay,Australia
+165,900,1928,872,1,Pesos,Uruguay,Australia
+165,900,1929,7579,1,Pesos,Uruguay,Australia
+165,900,1930,4095,1,Pesos,Uruguay,Australia
+165,900,1931,0,1,,Uruguay,Australia
+165,900,1932,0,1,,Uruguay,Australia
+165,900,1933,0,1,,Uruguay,Australia
+165,900,1934,600,1,,Uruguay,Australia
+165,900,1935,0,1,,Uruguay,Australia
+165,900,1936,3400,1,,Uruguay,Australia
+165,900,1937,0,1,,Uruguay,Australia
+165,900,1938,0,1,,Uruguay,Australia
+165,900,1939,1200,1,,Uruguay,Australia
+165,900,1940,0,1,Us $,Uruguay,Australia
+165,900,1941,80,1,Us $,Uruguay,Australia
+165,900,1942,112801,1,Us $,Uruguay,Australia
+165,900,1943,41871,1,Us $,Uruguay,Australia
+165,900,1944,0,1,Us $,Uruguay,Australia
+165,900,1945,0,1,Us $,Uruguay,Australia
+165,900,1946,0,1,Us $,Uruguay,Australia
+165,900,1947,0,1,Us $,Uruguay,Australia
+165,900,1948,0,1,Us $,Uruguay,Australia
+165,900,1949,0,1,Us $,Uruguay,Australia
+165,920,1915,0,1,,Uruguay,New Zealand
+165,920,1919,0,1,Pesos,Uruguay,New Zealand
+165,920,1920,0,1,Pesos,Uruguay,New Zealand
+165,920,1921,0,1,Pesos,Uruguay,New Zealand
+165,920,1922,0,1,Pesos,Uruguay,New Zealand
+165,920,1923,0,1,,Uruguay,New Zealand
+165,920,1924,2987,1,Pesos,Uruguay,New Zealand
+165,920,1925,49760,1,Pesos,Uruguay,New Zealand
+165,920,1926,14232,1,Pesos,Uruguay,New Zealand
+165,920,1927,5894,1,Pesos,Uruguay,New Zealand
+165,920,1928,1965,1,Pesos,Uruguay,New Zealand
+165,920,1929,1040,1,Pesos,Uruguay,New Zealand
+165,920,1930,926,1,Pesos,Uruguay,New Zealand
+165,920,1931,0,1,,Uruguay,New Zealand
+165,920,1932,1162,1,,Uruguay,New Zealand
+165,920,1933,100675,1,,Uruguay,New Zealand
+165,920,1934,30461,1,,Uruguay,New Zealand
+165,920,1935,22840,1,,Uruguay,New Zealand
+165,920,1936,83871,1,,Uruguay,New Zealand
+165,920,1937,22200,1,,Uruguay,New Zealand
+165,920,1938,43600,1,,Uruguay,New Zealand
+165,920,1939,10100,1,,Uruguay,New Zealand
+165,920,1940,0,1,Us $,Uruguay,New Zealand
+165,920,1941,36662,1,Us $,Uruguay,New Zealand
+165,920,1942,6666,1,Us $,Uruguay,New Zealand
+165,920,1943,173,1,Us $,Uruguay,New Zealand
+165,920,1944,0,1,Us $,Uruguay,New Zealand
+165,920,1945,0,1,Us $,Uruguay,New Zealand
+165,920,1946,18380,1,Us $,Uruguay,New Zealand
+165,920,1947,124062,1,Us $,Uruguay,New Zealand
+165,920,1948,75788,1,Us $,Uruguay,New Zealand
+165,920,1949,62263,1,Us $,Uruguay,New Zealand
+165,1050,1915,0,1,,Uruguay,British West Indies
+165,1050,1919,0,1,Pesos,Uruguay,British West Indies
+165,1050,1920,0,1,Pesos,Uruguay,British West Indies
+165,1050,1921,0,1,Pesos,Uruguay,British West Indies
+165,1050,1922,0,1,Pesos,Uruguay,British West Indies
+165,1050,1923,0,1,,Uruguay,British West Indies
+165,1050,1924,0,1,Pesos,Uruguay,British West Indies
+165,1050,1925,0,1,Pesos,Uruguay,British West Indies
+165,1050,1926,0,1,Pesos,Uruguay,British West Indies
+165,1050,1927,0,1,Pesos,Uruguay,British West Indies
+165,1050,1928,0,1,Pesos,Uruguay,British West Indies
+165,1050,1929,0,1,Pesos,Uruguay,British West Indies
+165,1050,1930,0,1,Pesos,Uruguay,British West Indies
+165,1050,1931,0,1,,Uruguay,British West Indies
+165,1050,1932,0,1,,Uruguay,British West Indies
+165,1050,1933,0,1,,Uruguay,British West Indies
+165,1050,1934,0,1,,Uruguay,British West Indies
+165,1050,1935,0,1,,Uruguay,British West Indies
+165,1050,1936,0,1,,Uruguay,British West Indies
+165,1050,1937,0,1,,Uruguay,British West Indies
+165,1050,1938,0,1,,Uruguay,British West Indies
+165,1050,1939,0,1,,Uruguay,British West Indies
+165,1050,1940,0,1,Us $,Uruguay,British West Indies
+165,1050,1941,0,1,Us $,Uruguay,British West Indies
+165,1050,1942,0,1,Us $,Uruguay,British West Indies
+165,1050,1943,0,1,Us $,Uruguay,British West Indies
+165,1050,1944,0,1,Us $,Uruguay,British West Indies
+165,1050,1945,0,1,Us $,Uruguay,British West Indies
+165,1050,1946,0,1,Us $,Uruguay,British West Indies
+165,1050,1947,0,1,Us $,Uruguay,British West Indies
+165,1050,1948,0,1,Us $,Uruguay,British West Indies
+165,1050,1949,0,1,Us $,Uruguay,British West Indies
+165,1060,1915,0,1,,Uruguay,French West Indies
+165,1060,1919,0,1,Pesos,Uruguay,French West Indies
+165,1060,1920,0,1,Pesos,Uruguay,French West Indies
+165,1060,1921,0,1,Pesos,Uruguay,French West Indies
+165,1060,1922,0,1,Pesos,Uruguay,French West Indies
+165,1060,1923,0,1,,Uruguay,French West Indies
+165,1060,1924,0,1,Pesos,Uruguay,French West Indies
+165,1060,1925,0,1,Pesos,Uruguay,French West Indies
+165,1060,1926,0,1,Pesos,Uruguay,French West Indies
+165,1060,1927,0,1,Pesos,Uruguay,French West Indies
+165,1060,1928,0,1,Pesos,Uruguay,French West Indies
+165,1060,1929,0,1,Pesos,Uruguay,French West Indies
+165,1060,1930,0,1,Pesos,Uruguay,French West Indies
+165,1060,1931,0,1,,Uruguay,French West Indies
+165,1060,1932,0,1,,Uruguay,French West Indies
+165,1060,1933,0,1,,Uruguay,French West Indies
+165,1060,1934,0,1,,Uruguay,French West Indies
+165,1060,1935,0,1,,Uruguay,French West Indies
+165,1060,1936,0,1,,Uruguay,French West Indies
+165,1060,1937,0,1,,Uruguay,French West Indies
+165,1060,1938,0,1,,Uruguay,French West Indies
+165,1060,1939,0,1,,Uruguay,French West Indies
+165,1060,1940,0,1,Us $,Uruguay,French West Indies
+165,1060,1941,0,1,Us $,Uruguay,French West Indies
+165,1060,1942,0,1,Us $,Uruguay,French West Indies
+165,1060,1943,0,1,Us $,Uruguay,French West Indies
+165,1060,1944,0,1,Us $,Uruguay,French West Indies
+165,1060,1945,0,1,Us $,Uruguay,French West Indies
+165,1060,1946,0,1,Us $,Uruguay,French West Indies
+165,1060,1947,0,1,Us $,Uruguay,French West Indies
+165,1060,1948,0,1,Us $,Uruguay,French West Indies
+165,1060,1949,0,1,Us $,Uruguay,French West Indies
+165,1163,1915,0,1,,Uruguay,Falkland Islands
+165,1163,1919,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1920,1200,1,Pesos,Uruguay,Falkland Islands
+165,1163,1921,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1922,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1923,0,1,,Uruguay,Falkland Islands
+165,1163,1924,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1925,72,1,Pesos,Uruguay,Falkland Islands
+165,1163,1926,9656,1,Pesos,Uruguay,Falkland Islands
+165,1163,1927,554,1,Pesos,Uruguay,Falkland Islands
+165,1163,1928,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1929,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1930,0,1,Pesos,Uruguay,Falkland Islands
+165,1163,1931,0,1,,Uruguay,Falkland Islands
+165,1163,1932,0,1,,Uruguay,Falkland Islands
+165,1163,1933,8,1,,Uruguay,Falkland Islands
+165,1163,1934,0,1,,Uruguay,Falkland Islands
+165,1163,1935,0,1,,Uruguay,Falkland Islands
+165,1163,1936,2100,1,,Uruguay,Falkland Islands
+165,1163,1937,0,1,,Uruguay,Falkland Islands
+165,1163,1938,0,1,,Uruguay,Falkland Islands
+165,1163,1939,0,1,,Uruguay,Falkland Islands
+165,1163,1940,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1941,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1942,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1943,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1944,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1945,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1946,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1947,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1948,0,1,Us $,Uruguay,Falkland Islands
+165,1163,1949,0,1,Us $,Uruguay,Falkland Islands
+165,,1915,34979639,1,,Uruguay,
+165,,1919,43202682,1,Pesos,Uruguay,
+165,,1920,50721700,1,Pesos,Uruguay,
+165,,1921,39761668,1,Pesos,Uruguay,
+165,,1922,44400829,1,Pesos,Uruguay,
+165,,1923,0,1,,Uruguay,
+165,,1924,62937132,1,Pesos,Uruguay,
+165,,1925,73370607,1,Pesos,Uruguay,
+165,,1926,74117158,1,Pesos,Uruguay,
+165,,1927,81854958,1,Pesos,Uruguay,
+165,,1928,93958626,1,Pesos,Uruguay,
+165,,1929,93286851,1,Pesos,Uruguay,
+165,,1930,91306844,1,Pesos,Uruguay,
+165,,1931,88784708,1,,Uruguay,
+165,,1932,55736781,1,,Uruguay,
+165,,1933,64160029,1,,Uruguay,
+165,,1934,62479864,1,,Uruguay,
+165,,1935,59478882,1,,Uruguay,
+165,,1936,66366233,1,,Uruguay,
+165,,1937,80859603,1,,Uruguay,
+165,,1938,76365553,1,,Uruguay,
+165,,1939,66841296,1,,Uruguay,
+165,,1940,56067958,1,Us $,Uruguay,
+165,,1941,64103353,1,Us $,Uruguay,
+165,,1942,64214319,1,Us $,Uruguay,
+165,,1943,63840988,1,Us $,Uruguay,
+165,,1944,72615210,1,Us $,Uruguay,
+165,,1945,93719986,1,Us $,Uruguay,
+165,,1946,149482163,1,Us $,Uruguay,
+165,,1947,216688300,1,Us $,Uruguay,
+165,,1948,201023115,1,Us $,Uruguay,
+165,,1949,182672478,1,Us $,Uruguay,

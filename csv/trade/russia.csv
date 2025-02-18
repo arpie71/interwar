@@ -1,0 +1,1585 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+365,2,1913,275647,1000,Rubles,Russia,United States
+365,2,1918,49962,1000,Rubles,Russia,United States
+365,2,1919,10,1000,Rubles,Russia,United States
+365,2,1920,3405,1000,Rubles,Russia,United States
+365,2,1921,140917,1000,Rubles,Russia,United States
+365,2,1922,153309,1000,Rubles,Russia,United States
+365,2,1923,15435,1000,Rubles,Russia,United States
+365,2,1924,177744,1000,Rubles,Russia,United States
+365,2,1925,703366,1000,Rubles,Russia,United States
+365,2,1926,425747,1000,Rubles,Russia,United States
+365,2,1927,508361,1000,Rubles,Russia,United States
+365,2,1928,654376,1000,Rubles,Russia,United States
+365,2,1929,617588,1000,Rubles,Russia,United States
+365,2,1930,921436,1000,Rubles,Russia,United States
+365,2,1931,801277,1000,Rubles,Russia,United States
+365,2,1932,110356,1000,Rubles,Russia,United States
+365,2,1933,57783,1000,Rubles,Russia,United States
+365,2,1934,62296,1000,Rubles,Russia,United States
+365,2,1935,102755,1000,Rubles,Russia,United States
+365,2,1936,166321,1000,Rubles,Russia,United States
+365,2,1937,185600,1000,Rubles,Russia,United States
+365,2,1938,308376,1000,Rubles,Russia,United States
+365,2,1939,228980,1000,Rubles,Russia,United States
+365,2,1940,338424,1000,Rubles,Russia,United States
+365,20,1913,0,1000,Rubles,Russia,Canada
+365,20,1918,0,1000,Rubles,Russia,Canada
+365,20,1919,0,1000,Rubles,Russia,Canada
+365,20,1920,0,1000,Rubles,Russia,Canada
+365,20,1921,4441,1000,Rubles,Russia,Canada
+365,20,1922,4600,1000,Rubles,Russia,Canada
+365,20,1923,14,1000,Rubles,Russia,Canada
+365,20,1924,422,1000,Rubles,Russia,Canada
+365,20,1925,8343,1000,Rubles,Russia,Canada
+365,20,1926,2258,1000,Rubles,Russia,Canada
+365,20,1927,8894,1000,Rubles,Russia,Canada
+365,20,1928,39699,1000,Rubles,Russia,Canada
+365,20,1929,3628,1000,Rubles,Russia,Canada
+365,20,1930,4973,1000,Rubles,Russia,Canada
+365,20,1931,502,1000,Rubles,Russia,Canada
+365,20,1932,7172,1000,Rubles,Russia,Canada
+365,20,1933,2652,1000,Rubles,Russia,Canada
+365,20,1934,5057,1000,Rubles,Russia,Canada
+365,20,1935,7465,1000,Rubles,Russia,Canada
+365,20,1936,2581,1000,Rubles,Russia,Canada
+365,20,1937,41461,1000,Rubles,Russia,Canada
+365,20,1938,23133,1000,Rubles,Russia,Canada
+365,20,1939,3598,1000,Rubles,Russia,Canada
+365,20,1940,1180,1000,Rubles,Russia,Canada
+365,40,1913,0,1000,Rubles,Russia,Cuba
+365,40,1918,0,1000,Rubles,Russia,Cuba
+365,40,1919,0,1000,Rubles,Russia,Cuba
+365,40,1920,0,1000,Rubles,Russia,Cuba
+365,40,1921,0,1000,Rubles,Russia,Cuba
+365,40,1922,0,1000,Rubles,Russia,Cuba
+365,40,1923,0,1000,Rubles,Russia,Cuba
+365,40,1924,0,1000,Rubles,Russia,Cuba
+365,40,1925,0,1000,Rubles,Russia,Cuba
+365,40,1926,0,1000,Rubles,Russia,Cuba
+365,40,1927,0,1000,Rubles,Russia,Cuba
+365,40,1928,0,1000,Rubles,Russia,Cuba
+365,40,1929,9274,1000,Rubles,Russia,Cuba
+365,40,1930,38430,1000,Rubles,Russia,Cuba
+365,40,1931,98,1000,Rubles,Russia,Cuba
+365,40,1932,0,1000,Rubles,Russia,Cuba
+365,40,1933,0,1000,Rubles,Russia,Cuba
+365,40,1934,7,1000,Rubles,Russia,Cuba
+365,40,1935,24,1000,Rubles,Russia,Cuba
+365,40,1936,64,1000,Rubles,Russia,Cuba
+365,40,1937,78,1000,Rubles,Russia,Cuba
+365,40,1938,9,1000,Rubles,Russia,Cuba
+365,40,1939,3,1000,Rubles,Russia,Cuba
+365,40,1940,0,1000,Rubles,Russia,Cuba
+365,51,1913,0,1000,Rubles,Russia,Jamaica
+365,51,1918,0,1000,Rubles,Russia,Jamaica
+365,51,1919,0,1000,Rubles,Russia,Jamaica
+365,51,1920,0,1000,Rubles,Russia,Jamaica
+365,51,1921,0,1000,Rubles,Russia,Jamaica
+365,51,1922,0,1000,Rubles,Russia,Jamaica
+365,51,1923,0,1000,Rubles,Russia,Jamaica
+365,51,1924,0,1000,Rubles,Russia,Jamaica
+365,51,1925,0,1000,Rubles,Russia,Jamaica
+365,51,1926,0,1000,Rubles,Russia,Jamaica
+365,51,1927,0,1000,Rubles,Russia,Jamaica
+365,51,1928,0,1000,Rubles,Russia,Jamaica
+365,51,1929,223,1000,Rubles,Russia,Jamaica
+365,51,1930,209,1000,Rubles,Russia,Jamaica
+365,51,1931,178,1000,Rubles,Russia,Jamaica
+365,51,1932,143,1000,Rubles,Russia,Jamaica
+365,51,1933,28,1000,Rubles,Russia,Jamaica
+365,51,1934,49,1000,Rubles,Russia,Jamaica
+365,51,1935,0,1000,Rubles,Russia,Jamaica
+365,51,1936,131,1000,Rubles,Russia,Jamaica
+365,51,1937,105,1000,Rubles,Russia,Jamaica
+365,51,1938,171,1000,Rubles,Russia,Jamaica
+365,51,1939,188,1000,Rubles,Russia,Jamaica
+365,51,1940,119,1000,Rubles,Russia,Jamaica
+365,70,1913,0,1000,Rubles,Russia,Mexico
+365,70,1918,0,1000,Rubles,Russia,Mexico
+365,70,1919,0,1000,Rubles,Russia,Mexico
+365,70,1920,0,1000,Rubles,Russia,Mexico
+365,70,1921,0,1000,Rubles,Russia,Mexico
+365,70,1922,0,1000,Rubles,Russia,Mexico
+365,70,1923,0,1000,Rubles,Russia,Mexico
+365,70,1924,0,1000,Rubles,Russia,Mexico
+365,70,1925,1,1000,Rubles,Russia,Mexico
+365,70,1926,1906,1000,Rubles,Russia,Mexico
+365,70,1927,2757,1000,Rubles,Russia,Mexico
+365,70,1928,1018,1000,Rubles,Russia,Mexico
+365,70,1929,6284,1000,Rubles,Russia,Mexico
+365,70,1930,7319,1000,Rubles,Russia,Mexico
+365,70,1931,3415,1000,Rubles,Russia,Mexico
+365,70,1932,1296,1000,Rubles,Russia,Mexico
+365,70,1933,59,1000,Rubles,Russia,Mexico
+365,70,1934,861,1000,Rubles,Russia,Mexico
+365,70,1935,5736,1000,Rubles,Russia,Mexico
+365,70,1936,9117,1000,Rubles,Russia,Mexico
+365,70,1937,4663,1000,Rubles,Russia,Mexico
+365,70,1938,4014,1000,Rubles,Russia,Mexico
+365,70,1939,349,1000,Rubles,Russia,Mexico
+365,70,1940,42,1000,Rubles,Russia,Mexico
+365,90,1913,0,1000,Rubles,Russia,Guatemala
+365,90,1918,0,1000,Rubles,Russia,Guatemala
+365,90,1919,0,1000,Rubles,Russia,Guatemala
+365,90,1920,0,1000,Rubles,Russia,Guatemala
+365,90,1921,0,1000,Rubles,Russia,Guatemala
+365,90,1922,0,1000,Rubles,Russia,Guatemala
+365,90,1923,0,1000,Rubles,Russia,Guatemala
+365,90,1924,0,1000,Rubles,Russia,Guatemala
+365,90,1925,0,1000,Rubles,Russia,Guatemala
+365,90,1926,0,1000,Rubles,Russia,Guatemala
+365,90,1927,0,1000,Rubles,Russia,Guatemala
+365,90,1928,0,1000,Rubles,Russia,Guatemala
+365,90,1929,0,1000,Rubles,Russia,Guatemala
+365,90,1930,0,1000,Rubles,Russia,Guatemala
+365,90,1931,0,1000,Rubles,Russia,Guatemala
+365,90,1932,0,1000,Rubles,Russia,Guatemala
+365,90,1933,0,1000,Rubles,Russia,Guatemala
+365,90,1934,0,1000,Rubles,Russia,Guatemala
+365,90,1935,0,1000,Rubles,Russia,Guatemala
+365,90,1936,0,1000,Rubles,Russia,Guatemala
+365,90,1937,0,1000,Rubles,Russia,Guatemala
+365,90,1938,206,1000,Rubles,Russia,Guatemala
+365,90,1939,0,1000,Rubles,Russia,Guatemala
+365,90,1940,0,1000,Rubles,Russia,Guatemala
+365,100,1913,0,1000,Rubles,Russia,Colombia
+365,100,1918,0,1000,Rubles,Russia,Colombia
+365,100,1919,0,1000,Rubles,Russia,Colombia
+365,100,1920,0,1000,Rubles,Russia,Colombia
+365,100,1921,0,1000,Rubles,Russia,Colombia
+365,100,1922,0,1000,Rubles,Russia,Colombia
+365,100,1923,0,1000,Rubles,Russia,Colombia
+365,100,1924,0,1000,Rubles,Russia,Colombia
+365,100,1925,0,1000,Rubles,Russia,Colombia
+365,100,1926,0,1000,Rubles,Russia,Colombia
+365,100,1927,0,1000,Rubles,Russia,Colombia
+365,100,1928,0,1000,Rubles,Russia,Colombia
+365,100,1929,0,1000,Rubles,Russia,Colombia
+365,100,1930,0,1000,Rubles,Russia,Colombia
+365,100,1931,0,1000,Rubles,Russia,Colombia
+365,100,1932,0,1000,Rubles,Russia,Colombia
+365,100,1933,0,1000,Rubles,Russia,Colombia
+365,100,1934,0,1000,Rubles,Russia,Colombia
+365,100,1935,0,1000,Rubles,Russia,Colombia
+365,100,1936,0,1000,Rubles,Russia,Colombia
+365,100,1937,0,1000,Rubles,Russia,Colombia
+365,100,1938,105,1000,Rubles,Russia,Colombia
+365,100,1939,429,1000,Rubles,Russia,Colombia
+365,100,1940,0,1000,Rubles,Russia,Colombia
+365,101,1913,0,1000,Rubles,Russia,Venezuela
+365,101,1918,0,1000,Rubles,Russia,Venezuela
+365,101,1919,0,1000,Rubles,Russia,Venezuela
+365,101,1920,0,1000,Rubles,Russia,Venezuela
+365,101,1921,0,1000,Rubles,Russia,Venezuela
+365,101,1922,0,1000,Rubles,Russia,Venezuela
+365,101,1923,0,1000,Rubles,Russia,Venezuela
+365,101,1924,0,1000,Rubles,Russia,Venezuela
+365,101,1925,282,1000,Rubles,Russia,Venezuela
+365,101,1926,136,1000,Rubles,Russia,Venezuela
+365,101,1927,0,1000,Rubles,Russia,Venezuela
+365,101,1928,66,1000,Rubles,Russia,Venezuela
+365,101,1929,0,1000,Rubles,Russia,Venezuela
+365,101,1930,0,1000,Rubles,Russia,Venezuela
+365,101,1931,0,1000,Rubles,Russia,Venezuela
+365,101,1932,0,1000,Rubles,Russia,Venezuela
+365,101,1933,0,1000,Rubles,Russia,Venezuela
+365,101,1934,0,1000,Rubles,Russia,Venezuela
+365,101,1935,0,1000,Rubles,Russia,Venezuela
+365,101,1936,0,1000,Rubles,Russia,Venezuela
+365,101,1937,0,1000,Rubles,Russia,Venezuela
+365,101,1938,20,1000,Rubles,Russia,Venezuela
+365,101,1939,0,1000,Rubles,Russia,Venezuela
+365,101,1940,0,1000,Rubles,Russia,Venezuela
+365,130,1913,0,1000,Rubles,Russia,Ecuador
+365,130,1918,0,1000,Rubles,Russia,Ecuador
+365,130,1919,0,1000,Rubles,Russia,Ecuador
+365,130,1920,0,1000,Rubles,Russia,Ecuador
+365,130,1921,0,1000,Rubles,Russia,Ecuador
+365,130,1922,0,1000,Rubles,Russia,Ecuador
+365,130,1923,0,1000,Rubles,Russia,Ecuador
+365,130,1924,0,1000,Rubles,Russia,Ecuador
+365,130,1925,0,1000,Rubles,Russia,Ecuador
+365,130,1926,0,1000,Rubles,Russia,Ecuador
+365,130,1927,0,1000,Rubles,Russia,Ecuador
+365,130,1928,505,1000,Rubles,Russia,Ecuador
+365,130,1929,195,1000,Rubles,Russia,Ecuador
+365,130,1930,3,1000,Rubles,Russia,Ecuador
+365,130,1931,0,1000,Rubles,Russia,Ecuador
+365,130,1932,0,1000,Rubles,Russia,Ecuador
+365,130,1933,0,1000,Rubles,Russia,Ecuador
+365,130,1934,3,1000,Rubles,Russia,Ecuador
+365,130,1935,157,1000,Rubles,Russia,Ecuador
+365,130,1936,0,1000,Rubles,Russia,Ecuador
+365,130,1937,0,1000,Rubles,Russia,Ecuador
+365,130,1938,4,1000,Rubles,Russia,Ecuador
+365,130,1939,226,1000,Rubles,Russia,Ecuador
+365,130,1940,0,1000,Rubles,Russia,Ecuador
+365,140,1913,2192,1000,Rubles,Russia,Brazil
+365,140,1918,0,1000,Rubles,Russia,Brazil
+365,140,1919,0,1000,Rubles,Russia,Brazil
+365,140,1920,0,1000,Rubles,Russia,Brazil
+365,140,1921,94,1000,Rubles,Russia,Brazil
+365,140,1922,21,1000,Rubles,Russia,Brazil
+365,140,1923,3,1000,Rubles,Russia,Brazil
+365,140,1924,258,1000,Rubles,Russia,Brazil
+365,140,1925,4555,1000,Rubles,Russia,Brazil
+365,140,1926,2527,1000,Rubles,Russia,Brazil
+365,140,1927,6454,1000,Rubles,Russia,Brazil
+365,140,1928,14055,1000,Rubles,Russia,Brazil
+365,140,1929,8957,1000,Rubles,Russia,Brazil
+365,140,1930,4869,1000,Rubles,Russia,Brazil
+365,140,1931,2415,1000,Rubles,Russia,Brazil
+365,140,1932,408,1000,Rubles,Russia,Brazil
+365,140,1933,56,1000,Rubles,Russia,Brazil
+365,140,1934,829,1000,Rubles,Russia,Brazil
+365,140,1935,1673,1000,Rubles,Russia,Brazil
+365,140,1936,4064,1000,Rubles,Russia,Brazil
+365,140,1937,6008,1000,Rubles,Russia,Brazil
+365,140,1938,3167,1000,Rubles,Russia,Brazil
+365,140,1939,713,1000,Rubles,Russia,Brazil
+365,140,1940,783,1000,Rubles,Russia,Brazil
+365,145,1913,0,1000,Rubles,Russia,Bolivia
+365,145,1918,0,1000,Rubles,Russia,Bolivia
+365,145,1919,0,1000,Rubles,Russia,Bolivia
+365,145,1920,0,1000,Rubles,Russia,Bolivia
+365,145,1921,0,1000,Rubles,Russia,Bolivia
+365,145,1922,0,1000,Rubles,Russia,Bolivia
+365,145,1923,0,1000,Rubles,Russia,Bolivia
+365,145,1924,0,1000,Rubles,Russia,Bolivia
+365,145,1925,0,1000,Rubles,Russia,Bolivia
+365,145,1926,0,1000,Rubles,Russia,Bolivia
+365,145,1927,0,1000,Rubles,Russia,Bolivia
+365,145,1928,0,1000,Rubles,Russia,Bolivia
+365,145,1929,0,1000,Rubles,Russia,Bolivia
+365,145,1930,0,1000,Rubles,Russia,Bolivia
+365,145,1931,0,1000,Rubles,Russia,Bolivia
+365,145,1932,0,1000,Rubles,Russia,Bolivia
+365,145,1933,0,1000,Rubles,Russia,Bolivia
+365,145,1934,0,1000,Rubles,Russia,Bolivia
+365,145,1935,0,1000,Rubles,Russia,Bolivia
+365,145,1936,0,1000,Rubles,Russia,Bolivia
+365,145,1937,0,1000,Rubles,Russia,Bolivia
+365,145,1938,229,1000,Rubles,Russia,Bolivia
+365,145,1939,0,1000,Rubles,Russia,Bolivia
+365,145,1940,0,1000,Rubles,Russia,Bolivia
+365,150,1913,0,1000,Rubles,Russia,Paraguay
+365,150,1918,0,1000,Rubles,Russia,Paraguay
+365,150,1919,0,1000,Rubles,Russia,Paraguay
+365,150,1920,0,1000,Rubles,Russia,Paraguay
+365,150,1921,0,1000,Rubles,Russia,Paraguay
+365,150,1922,0,1000,Rubles,Russia,Paraguay
+365,150,1923,0,1000,Rubles,Russia,Paraguay
+365,150,1924,0,1000,Rubles,Russia,Paraguay
+365,150,1925,0,1000,Rubles,Russia,Paraguay
+365,150,1926,0,1000,Rubles,Russia,Paraguay
+365,150,1927,0,1000,Rubles,Russia,Paraguay
+365,150,1928,0,1000,Rubles,Russia,Paraguay
+365,150,1929,143,1000,Rubles,Russia,Paraguay
+365,150,1930,49,1000,Rubles,Russia,Paraguay
+365,150,1931,112,1000,Rubles,Russia,Paraguay
+365,150,1932,0,1000,Rubles,Russia,Paraguay
+365,150,1933,0,1000,Rubles,Russia,Paraguay
+365,150,1934,0,1000,Rubles,Russia,Paraguay
+365,150,1935,303,1000,Rubles,Russia,Paraguay
+365,150,1936,0,1000,Rubles,Russia,Paraguay
+365,150,1937,0,1000,Rubles,Russia,Paraguay
+365,150,1938,0,1000,Rubles,Russia,Paraguay
+365,150,1939,0,1000,Rubles,Russia,Paraguay
+365,150,1940,0,1000,Rubles,Russia,Paraguay
+365,155,1913,645,1000,Rubles,Russia,Chile
+365,155,1918,0,1000,Rubles,Russia,Chile
+365,155,1919,0,1000,Rubles,Russia,Chile
+365,155,1920,0,1000,Rubles,Russia,Chile
+365,155,1921,0,1000,Rubles,Russia,Chile
+365,155,1922,0,1000,Rubles,Russia,Chile
+365,155,1923,0,1000,Rubles,Russia,Chile
+365,155,1924,0,1000,Rubles,Russia,Chile
+365,155,1925,0,1000,Rubles,Russia,Chile
+365,155,1926,0,1000,Rubles,Russia,Chile
+365,155,1927,429,1000,Rubles,Russia,Chile
+365,155,1928,13662,1000,Rubles,Russia,Chile
+365,155,1929,6894,1000,Rubles,Russia,Chile
+365,155,1930,5001,1000,Rubles,Russia,Chile
+365,155,1931,3105,1000,Rubles,Russia,Chile
+365,155,1932,0,1000,Rubles,Russia,Chile
+365,155,1933,45,1000,Rubles,Russia,Chile
+365,155,1934,0,1000,Rubles,Russia,Chile
+365,155,1935,4984,1000,Rubles,Russia,Chile
+365,155,1936,3509,1000,Rubles,Russia,Chile
+365,155,1937,747,1000,Rubles,Russia,Chile
+365,155,1938,19399,1000,Rubles,Russia,Chile
+365,155,1939,9392,1000,Rubles,Russia,Chile
+365,155,1940,0,1000,Rubles,Russia,Chile
+365,160,1913,0,1000,Rubles,Russia,Argentina
+365,160,1918,0,1000,Rubles,Russia,Argentina
+365,160,1919,0,1000,Rubles,Russia,Argentina
+365,160,1920,0,1000,Rubles,Russia,Argentina
+365,160,1921,2248,1000,Rubles,Russia,Argentina
+365,160,1922,15704,1000,Rubles,Russia,Argentina
+365,160,1923,45,1000,Rubles,Russia,Argentina
+365,160,1924,4674,1000,Rubles,Russia,Argentina
+365,160,1925,37099,1000,Rubles,Russia,Argentina
+365,160,1926,36304,1000,Rubles,Russia,Argentina
+365,160,1927,89672,1000,Rubles,Russia,Argentina
+365,160,1928,169188,1000,Rubles,Russia,Argentina
+365,160,1929,98928,1000,Rubles,Russia,Argentina
+365,160,1930,60522,1000,Rubles,Russia,Argentina
+365,160,1931,25128,1000,Rubles,Russia,Argentina
+365,160,1932,6332,1000,Rubles,Russia,Argentina
+365,160,1933,777,1000,Rubles,Russia,Argentina
+365,160,1934,2349,1000,Rubles,Russia,Argentina
+365,160,1935,3081,1000,Rubles,Russia,Argentina
+365,160,1936,5146,1000,Rubles,Russia,Argentina
+365,160,1937,5363,1000,Rubles,Russia,Argentina
+365,160,1938,3188,1000,Rubles,Russia,Argentina
+365,160,1939,228,1000,Rubles,Russia,Argentina
+365,160,1940,0,1000,Rubles,Russia,Argentina
+365,165,1913,0,1000,Rubles,Russia,Uruguay
+365,165,1918,0,1000,Rubles,Russia,Uruguay
+365,165,1919,0,1000,Rubles,Russia,Uruguay
+365,165,1920,0,1000,Rubles,Russia,Uruguay
+365,165,1921,0,1000,Rubles,Russia,Uruguay
+365,165,1922,0,1000,Rubles,Russia,Uruguay
+365,165,1923,0,1000,Rubles,Russia,Uruguay
+365,165,1924,0,1000,Rubles,Russia,Uruguay
+365,165,1925,0,1000,Rubles,Russia,Uruguay
+365,165,1926,0,1000,Rubles,Russia,Uruguay
+365,165,1927,0,1000,Rubles,Russia,Uruguay
+365,165,1928,0,1000,Rubles,Russia,Uruguay
+365,165,1929,13202,1000,Rubles,Russia,Uruguay
+365,165,1930,9797,1000,Rubles,Russia,Uruguay
+365,165,1931,5730,1000,Rubles,Russia,Uruguay
+365,165,1932,7249,1000,Rubles,Russia,Uruguay
+365,165,1933,3597,1000,Rubles,Russia,Uruguay
+365,165,1934,7291,1000,Rubles,Russia,Uruguay
+365,165,1935,5301,1000,Rubles,Russia,Uruguay
+365,165,1936,0,1000,Rubles,Russia,Uruguay
+365,165,1937,0,1000,Rubles,Russia,Uruguay
+365,165,1938,1453,1000,Rubles,Russia,Uruguay
+365,165,1939,0,1000,Rubles,Russia,Uruguay
+365,165,1940,0,1000,Rubles,Russia,Uruguay
+365,201,1913,602964,1000,Rubles,Russia,England
+365,201,1918,41877,1000,Rubles,Russia,England
+365,201,1919,94,1000,Rubles,Russia,England
+365,201,1920,20973,1000,Rubles,Russia,England
+365,201,1921,215212,1000,Rubles,Russia,England
+365,201,1922,185101,1000,Rubles,Russia,England
+365,201,1923,129708,1000,Rubles,Russia,England
+365,201,1924,170606,1000,Rubles,Russia,England
+365,201,1925,385811,1000,Rubles,Russia,England
+365,201,1926,451491,1000,Rubles,Russia,England
+365,201,1927,352298,1000,Rubles,Russia,England
+365,201,1928,165615,1000,Rubles,Russia,England
+365,201,1929,190788,1000,Rubles,Russia,England
+365,201,1930,279258,1000,Rubles,Russia,England
+365,201,1931,255740,1000,Rubles,Russia,England
+365,201,1932,320378,1000,Rubles,Russia,England
+365,201,1933,106609,1000,Rubles,Russia,England
+365,201,1934,109181,1000,Rubles,Russia,England
+365,201,1935,78474,1000,Rubles,Russia,England
+365,201,1936,76667,1000,Rubles,Russia,England
+365,201,1937,47593,1000,Rubles,Russia,England
+365,201,1938,131667,1000,Rubles,Russia,England
+365,201,1939,85141,1000,Rubles,Russia,England
+365,201,1940,10012,1000,Rubles,Russia,England
+365,205,1913,0,1000,Rubles,Russia,Ireland
+365,205,1918,0,1000,Rubles,Russia,Ireland
+365,205,1919,0,1000,Rubles,Russia,Ireland
+365,205,1920,0,1000,Rubles,Russia,Ireland
+365,205,1921,0,1000,Rubles,Russia,Ireland
+365,205,1922,0,1000,Rubles,Russia,Ireland
+365,205,1923,0,1000,Rubles,Russia,Ireland
+365,205,1924,0,1000,Rubles,Russia,Ireland
+365,205,1925,0,1000,Rubles,Russia,Ireland
+365,205,1926,0,1000,Rubles,Russia,Ireland
+365,205,1927,0,1000,Rubles,Russia,Ireland
+365,205,1928,0,1000,Rubles,Russia,Ireland
+365,205,1929,3712,1000,Rubles,Russia,Ireland
+365,205,1930,15906,1000,Rubles,Russia,Ireland
+365,205,1931,1,1000,Rubles,Russia,Ireland
+365,205,1932,0,1000,Rubles,Russia,Ireland
+365,205,1933,0,1000,Rubles,Russia,Ireland
+365,205,1934,91,1000,Rubles,Russia,Ireland
+365,205,1935,195,1000,Rubles,Russia,Ireland
+365,205,1936,224,1000,Rubles,Russia,Ireland
+365,205,1937,0,1000,Rubles,Russia,Ireland
+365,205,1938,367,1000,Rubles,Russia,Ireland
+365,205,1939,0,1000,Rubles,Russia,Ireland
+365,205,1940,0,1000,Rubles,Russia,Ireland
+365,210,1913,74539,1000,Rubles,Russia,Netherlands
+365,210,1918,0,1000,Rubles,Russia,Netherlands
+365,210,1919,0,1000,Rubles,Russia,Netherlands
+365,210,1920,910,1000,Rubles,Russia,Netherlands
+365,210,1921,9692,1000,Rubles,Russia,Netherlands
+365,210,1922,7050,1000,Rubles,Russia,Netherlands
+365,210,1923,8253,1000,Rubles,Russia,Netherlands
+365,210,1924,4848,1000,Rubles,Russia,Netherlands
+365,210,1925,119853,1000,Rubles,Russia,Netherlands
+365,210,1926,25661,1000,Rubles,Russia,Netherlands
+365,210,1927,17628,1000,Rubles,Russia,Netherlands
+365,210,1928,17105,1000,Rubles,Russia,Netherlands
+365,210,1929,7050,1000,Rubles,Russia,Netherlands
+365,210,1930,16422,1000,Rubles,Russia,Netherlands
+365,210,1931,7458,1000,Rubles,Russia,Netherlands
+365,210,1932,12407,1000,Rubles,Russia,Netherlands
+365,210,1933,20820,1000,Rubles,Russia,Netherlands
+365,210,1934,27717,1000,Rubles,Russia,Netherlands
+365,210,1935,54187,1000,Rubles,Russia,Netherlands
+365,210,1936,34119,1000,Rubles,Russia,Netherlands
+365,210,1937,22048,1000,Rubles,Russia,Netherlands
+365,210,1938,33138,1000,Rubles,Russia,Netherlands
+365,210,1939,29021,1000,Rubles,Russia,Netherlands
+365,210,1940,21962,1000,Rubles,Russia,Netherlands
+365,220,1913,198618,1000,Rubles,Russia,France
+365,220,1918,6521,1000,Rubles,Russia,France
+365,220,1919,98,1000,Rubles,Russia,France
+365,220,1920,338,1000,Rubles,Russia,France
+365,220,1921,27295,1000,Rubles,Russia,France
+365,220,1922,4165,1000,Rubles,Russia,France
+365,220,1923,568,1000,Rubles,Russia,France
+365,220,1924,8110,1000,Rubles,Russia,France
+365,220,1925,32098,1000,Rubles,Russia,France
+365,220,1926,67343,1000,Rubles,Russia,France
+365,220,1927,77355,1000,Rubles,Russia,France
+365,220,1928,124941,1000,Rubles,Russia,France
+365,220,1929,110394,1000,Rubles,Russia,France
+365,220,1930,103542,1000,Rubles,Russia,France
+365,220,1931,52270,1000,Rubles,Russia,France
+365,220,1932,15108,1000,Rubles,Russia,France
+365,220,1933,18251,1000,Rubles,Russia,France
+365,220,1934,40509,1000,Rubles,Russia,France
+365,220,1935,61195,1000,Rubles,Russia,France
+365,220,1936,33202,1000,Rubles,Russia,France
+365,220,1937,20932,1000,Rubles,Russia,France
+365,220,1938,27333,1000,Rubles,Russia,France
+365,220,1939,11106,1000,Rubles,Russia,France
+365,220,1940,556,1000,Rubles,Russia,France
+365,225,1913,18262,1000,Rubles,Russia,Switzerland
+365,225,1918,0,1000,Rubles,Russia,Switzerland
+365,225,1919,133,1000,Rubles,Russia,Switzerland
+365,225,1920,0,1000,Rubles,Russia,Switzerland
+365,225,1921,174,1000,Rubles,Russia,Switzerland
+365,225,1922,896,1000,Rubles,Russia,Switzerland
+365,225,1923,119,1000,Rubles,Russia,Switzerland
+365,225,1924,63,1000,Rubles,Russia,Switzerland
+365,225,1925,199,1000,Rubles,Russia,Switzerland
+365,225,1926,77,1000,Rubles,Russia,Switzerland
+365,225,1927,293,1000,Rubles,Russia,Switzerland
+365,225,1928,3631,1000,Rubles,Russia,Switzerland
+365,225,1929,14261,1000,Rubles,Russia,Switzerland
+365,225,1930,19652,1000,Rubles,Russia,Switzerland
+365,225,1931,22043,1000,Rubles,Russia,Switzerland
+365,225,1932,17321,1000,Rubles,Russia,Switzerland
+365,225,1933,11898,1000,Rubles,Russia,Switzerland
+365,225,1934,7793,1000,Rubles,Russia,Switzerland
+365,225,1935,7517,1000,Rubles,Russia,Switzerland
+365,225,1936,8779,1000,Rubles,Russia,Switzerland
+365,225,1937,5440,1000,Rubles,Russia,Switzerland
+365,225,1938,8952,1000,Rubles,Russia,Switzerland
+365,225,1939,14349,1000,Rubles,Russia,Switzerland
+365,225,1940,16728,1000,Rubles,Russia,Switzerland
+365,230,1913,19719,1000,Rubles,Russia,Spain
+365,230,1918,0,1000,Rubles,Russia,Spain
+365,230,1919,0,1000,Rubles,Russia,Spain
+365,230,1920,0,1000,Rubles,Russia,Spain
+365,230,1921,0,1000,Rubles,Russia,Spain
+365,230,1922,42,1000,Rubles,Russia,Spain
+365,230,1923,0,1000,Rubles,Russia,Spain
+365,230,1924,359,1000,Rubles,Russia,Spain
+365,230,1925,6054,1000,Rubles,Russia,Spain
+365,230,1926,5604,1000,Rubles,Russia,Spain
+365,230,1927,3555,1000,Rubles,Russia,Spain
+365,230,1928,8504,1000,Rubles,Russia,Spain
+365,230,1929,24033,1000,Rubles,Russia,Spain
+365,230,1930,11442,1000,Rubles,Russia,Spain
+365,230,1931,7207,1000,Rubles,Russia,Spain
+365,230,1932,533,1000,Rubles,Russia,Spain
+365,230,1933,4154,1000,Rubles,Russia,Spain
+365,230,1934,1206,1000,Rubles,Russia,Spain
+365,230,1935,380,1000,Rubles,Russia,Spain
+365,230,1936,2238,1000,Rubles,Russia,Spain
+365,230,1937,19519,1000,Rubles,Russia,Spain
+365,230,1938,27297,1000,Rubles,Russia,Spain
+365,230,1939,7270,1000,Rubles,Russia,Spain
+365,230,1940,1416,1000,Rubles,Russia,Spain
+365,235,1913,5331,1000,Rubles,Russia,Portugal
+365,235,1918,0,1000,Rubles,Russia,Portugal
+365,235,1919,0,1000,Rubles,Russia,Portugal
+365,235,1920,0,1000,Rubles,Russia,Portugal
+365,235,1921,0,1000,Rubles,Russia,Portugal
+365,235,1922,63,1000,Rubles,Russia,Portugal
+365,235,1923,0,1000,Rubles,Russia,Portugal
+365,235,1924,0,1000,Rubles,Russia,Portugal
+365,235,1925,2750,1000,Rubles,Russia,Portugal
+365,235,1926,1370,1000,Rubles,Russia,Portugal
+365,235,1927,3300,1000,Rubles,Russia,Portugal
+365,235,1928,2924,1000,Rubles,Russia,Portugal
+365,235,1929,2628,1000,Rubles,Russia,Portugal
+365,235,1930,2081,1000,Rubles,Russia,Portugal
+365,235,1931,2206,1000,Rubles,Russia,Portugal
+365,235,1932,45,1000,Rubles,Russia,Portugal
+365,235,1933,73,1000,Rubles,Russia,Portugal
+365,235,1934,223,1000,Rubles,Russia,Portugal
+365,235,1935,1021,1000,Rubles,Russia,Portugal
+365,235,1936,1766,1000,Rubles,Russia,Portugal
+365,235,1937,4903,1000,Rubles,Russia,Portugal
+365,235,1938,3799,1000,Rubles,Russia,Portugal
+365,235,1939,3930,1000,Rubles,Russia,Portugal
+365,235,1940,1180,1000,Rubles,Russia,Portugal
+365,255,1913,2276192,1000,Rubles,Russia,Germany
+365,255,1918,1279,1000,Rubles,Russia,Germany
+365,255,1919,899,1000,Rubles,Russia,Germany
+365,255,1920,22322,1000,Rubles,Russia,Germany
+365,255,1921,189450,1000,Rubles,Russia,Germany
+365,255,1922,292093,1000,Rubles,Russia,Germany
+365,255,1923,214156,1000,Rubles,Russia,Germany
+365,255,1924,157586,1000,Rubles,Russia,Germany
+365,255,1925,357805,1000,Rubles,Russia,Germany
+365,255,1926,613653,1000,Rubles,Russia,Germany
+365,255,1927,563248,1000,Rubles,Russia,Germany
+365,255,1928,866065,1000,Rubles,Russia,Germany
+365,255,1929,678368,1000,Rubles,Russia,Germany
+365,255,1930,874161,1000,Rubles,Russia,Germany
+365,255,1931,1431139,1000,Rubles,Russia,Germany
+365,255,1932,1142067,1000,Rubles,Russia,Germany
+365,255,1933,515903,1000,Rubles,Russia,Germany
+365,255,1934,100225,1000,Rubles,Russia,Germany
+365,255,1935,75634,1000,Rubles,Russia,Germany
+365,255,1936,245444,1000,Rubles,Russia,Germany
+365,255,1937,151322,1000,Rubles,Russia,Germany
+365,255,1938,50736,1000,Rubles,Russia,Germany
+365,255,1939,42325,1000,Rubles,Russia,Germany
+365,255,1940,316301,1000,Rubles,Russia,Germany
+365,290,1913,0,1000,Rubles,Russia,Poland
+365,290,1918,0,1000,Rubles,Russia,Poland
+365,290,1919,10,1000,Rubles,Russia,Poland
+365,290,1920,0,1000,Rubles,Russia,Poland
+365,290,1921,1418,1000,Rubles,Russia,Poland
+365,290,1922,26295,1000,Rubles,Russia,Poland
+365,290,1923,31279,1000,Rubles,Russia,Poland
+365,290,1924,9887,1000,Rubles,Russia,Poland
+365,290,1925,35788,1000,Rubles,Russia,Poland
+365,290,1926,34074,1000,Rubles,Russia,Poland
+365,290,1927,46397,1000,Rubles,Russia,Poland
+365,290,1928,25682,1000,Rubles,Russia,Poland
+365,290,1929,67412,1000,Rubles,Russia,Poland
+365,290,1930,135082,1000,Rubles,Russia,Poland
+365,290,1931,108638,1000,Rubles,Russia,Poland
+365,290,1932,19677,1000,Rubles,Russia,Poland
+365,290,1933,45212,1000,Rubles,Russia,Poland
+365,290,1934,18293,1000,Rubles,Russia,Poland
+365,290,1935,9120,1000,Rubles,Russia,Poland
+365,290,1936,6894,1000,Rubles,Russia,Poland
+365,290,1937,3371,1000,Rubles,Russia,Poland
+365,290,1938,1100,1000,Rubles,Russia,Poland
+365,290,1939,1000,1000,Rubles,Russia,Poland
+365,290,1940,0,1000,Rubles,Russia,Poland
+365,305,1913,124411,1000,Rubles,Russia,Austria
+365,305,1918,0,1000,Rubles,Russia,Austria
+365,305,1919,28,1000,Rubles,Russia,Austria
+365,305,1920,7,1000,Rubles,Russia,Austria
+365,305,1921,8884,1000,Rubles,Russia,Austria
+365,305,1922,464,1000,Rubles,Russia,Austria
+365,305,1923,1401,1000,Rubles,Russia,Austria
+365,305,1924,8573,1000,Rubles,Russia,Austria
+365,305,1925,37942,1000,Rubles,Russia,Austria
+365,305,1926,79802,1000,Rubles,Russia,Austria
+365,305,1927,69430,1000,Rubles,Russia,Austria
+365,305,1928,58605,1000,Rubles,Russia,Austria
+365,305,1929,78704,1000,Rubles,Russia,Austria
+365,305,1930,51733,1000,Rubles,Russia,Austria
+365,305,1931,41919,1000,Rubles,Russia,Austria
+365,305,1932,13982,1000,Rubles,Russia,Austria
+365,305,1933,4461,1000,Rubles,Russia,Austria
+365,305,1934,5398,1000,Rubles,Russia,Austria
+365,305,1935,2419,1000,Rubles,Russia,Austria
+365,305,1936,2651,1000,Rubles,Russia,Austria
+365,305,1937,4327,1000,Rubles,Russia,Austria
+365,305,1938,3430,1000,Rubles,Russia,Austria
+365,305,1939,251,1000,Rubles,Russia,Austria
+365,305,1940,0,1000,Rubles,Russia,Austria
+365,310,1913,0,1000,Rubles,Russia,Hungary
+365,310,1918,0,1000,Rubles,Russia,Hungary
+365,310,1919,0,1000,Rubles,Russia,Hungary
+365,310,1920,0,1000,Rubles,Russia,Hungary
+365,310,1921,0,1000,Rubles,Russia,Hungary
+365,310,1922,404,1000,Rubles,Russia,Hungary
+365,310,1923,0,1000,Rubles,Russia,Hungary
+365,310,1924,0,1000,Rubles,Russia,Hungary
+365,310,1925,2126,1000,Rubles,Russia,Hungary
+365,310,1926,80,1000,Rubles,Russia,Hungary
+365,310,1927,1011,1000,Rubles,Russia,Hungary
+365,310,1928,4757,1000,Rubles,Russia,Hungary
+365,310,1929,2447,1000,Rubles,Russia,Hungary
+365,310,1930,972,1000,Rubles,Russia,Hungary
+365,310,1931,2952,1000,Rubles,Russia,Hungary
+365,310,1932,0,1000,Rubles,Russia,Hungary
+365,310,1933,599,1000,Rubles,Russia,Hungary
+365,310,1934,1199,1000,Rubles,Russia,Hungary
+365,310,1935,2767,1000,Rubles,Russia,Hungary
+365,310,1936,268,1000,Rubles,Russia,Hungary
+365,310,1937,1868,1000,Rubles,Russia,Hungary
+365,310,1938,0,1000,Rubles,Russia,Hungary
+365,310,1939,0,1000,Rubles,Russia,Hungary
+365,310,1940,0,1000,Rubles,Russia,Hungary
+365,315,1913,0,1000,Rubles,Russia,Czechoslovakia
+365,315,1918,0,1000,Rubles,Russia,Czechoslovakia
+365,315,1919,0,1000,Rubles,Russia,Czechoslovakia
+365,315,1920,0,1000,Rubles,Russia,Czechoslovakia
+365,315,1921,1,1000,Rubles,Russia,Czechoslovakia
+365,315,1922,5656,1000,Rubles,Russia,Czechoslovakia
+365,315,1923,756,1000,Rubles,Russia,Czechoslovakia
+365,315,1924,9236,1000,Rubles,Russia,Czechoslovakia
+365,315,1925,76014,1000,Rubles,Russia,Czechoslovakia
+365,315,1926,65712,1000,Rubles,Russia,Czechoslovakia
+365,315,1927,39828,1000,Rubles,Russia,Czechoslovakia
+365,315,1928,60620,1000,Rubles,Russia,Czechoslovakia
+365,315,1929,64196,1000,Rubles,Russia,Czechoslovakia
+365,315,1930,94596,1000,Rubles,Russia,Czechoslovakia
+365,315,1931,124544,1000,Rubles,Russia,Czechoslovakia
+365,315,1932,35917,1000,Rubles,Russia,Czechoslovakia
+365,315,1933,16965,1000,Rubles,Russia,Czechoslovakia
+365,315,1934,6765,1000,Rubles,Russia,Czechoslovakia
+365,315,1935,20583,1000,Rubles,Russia,Czechoslovakia
+365,315,1936,34389,1000,Rubles,Russia,Czechoslovakia
+365,315,1937,10272,1000,Rubles,Russia,Czechoslovakia
+365,315,1938,14656,1000,Rubles,Russia,Czechoslovakia
+365,315,1939,10974,1000,Rubles,Russia,Czechoslovakia
+365,315,1940,16445,1000,Rubles,Russia,Czechoslovakia
+365,325,1913,58637,1000,Rubles,Russia,Italy
+365,325,1918,0,1000,Rubles,Russia,Italy
+365,325,1919,0,1000,Rubles,Russia,Italy
+365,325,1920,4294,1000,Rubles,Russia,Italy
+365,325,1921,279,1000,Rubles,Russia,Italy
+365,325,1922,7862,1000,Rubles,Russia,Italy
+365,325,1923,2579,1000,Rubles,Russia,Italy
+365,325,1924,4036,1000,Rubles,Russia,Italy
+365,325,1925,18272,1000,Rubles,Russia,Italy
+365,325,1926,81081,1000,Rubles,Russia,Italy
+365,325,1927,11511,1000,Rubles,Russia,Italy
+365,325,1928,32129,1000,Rubles,Russia,Italy
+365,325,1929,26661,1000,Rubles,Russia,Italy
+365,325,1930,37590,1000,Rubles,Russia,Italy
+365,325,1931,103699,1000,Rubles,Russia,Italy
+365,325,1932,94600,1000,Rubles,Russia,Italy
+365,325,1933,58902,1000,Rubles,Russia,Italy
+365,325,1934,41190,1000,Rubles,Russia,Italy
+365,325,1935,19691,1000,Rubles,Russia,Italy
+365,325,1936,4643,1000,Rubles,Russia,Italy
+365,325,1937,2301,1000,Rubles,Russia,Italy
+365,325,1938,192,1000,Rubles,Russia,Italy
+365,325,1939,112,1000,Rubles,Russia,Italy
+365,325,1940,1012,1000,Rubles,Russia,Italy
+365,345,1913,7,1000,Rubles,Russia,Yugoslavia
+365,345,1918,0,1000,Rubles,Russia,Yugoslavia
+365,345,1919,0,1000,Rubles,Russia,Yugoslavia
+365,345,1920,0,1000,Rubles,Russia,Yugoslavia
+365,345,1921,0,1000,Rubles,Russia,Yugoslavia
+365,345,1922,0,1000,Rubles,Russia,Yugoslavia
+365,345,1923,0,1000,Rubles,Russia,Yugoslavia
+365,345,1924,0,1000,Rubles,Russia,Yugoslavia
+365,345,1925,10,1000,Rubles,Russia,Yugoslavia
+365,345,1926,1,1000,Rubles,Russia,Yugoslavia
+365,345,1927,3,1000,Rubles,Russia,Yugoslavia
+365,345,1928,453,1000,Rubles,Russia,Yugoslavia
+365,345,1929,1181,1000,Rubles,Russia,Yugoslavia
+365,345,1930,98,1000,Rubles,Russia,Yugoslavia
+365,345,1931,7,1000,Rubles,Russia,Yugoslavia
+365,345,1932,268,1000,Rubles,Russia,Yugoslavia
+365,345,1933,0,1000,Rubles,Russia,Yugoslavia
+365,345,1934,533,1000,Rubles,Russia,Yugoslavia
+365,345,1935,3,1000,Rubles,Russia,Yugoslavia
+365,345,1936,0,1000,Rubles,Russia,Yugoslavia
+365,345,1937,1078,1000,Rubles,Russia,Yugoslavia
+365,345,1938,0,1000,Rubles,Russia,Yugoslavia
+365,345,1939,1927,1000,Rubles,Russia,Yugoslavia
+365,345,1940,866,1000,Rubles,Russia,Yugoslavia
+365,350,1913,6549,1000,Rubles,Russia,Greece
+365,350,1918,0,1000,Rubles,Russia,Greece
+365,350,1919,0,1000,Rubles,Russia,Greece
+365,350,1920,0,1000,Rubles,Russia,Greece
+365,350,1921,0,1000,Rubles,Russia,Greece
+365,350,1922,21,1000,Rubles,Russia,Greece
+365,350,1923,7,1000,Rubles,Russia,Greece
+365,350,1924,7,1000,Rubles,Russia,Greece
+365,350,1925,913,1000,Rubles,Russia,Greece
+365,350,1926,638,1000,Rubles,Russia,Greece
+365,350,1927,1429,1000,Rubles,Russia,Greece
+365,350,1928,551,1000,Rubles,Russia,Greece
+365,350,1929,843,1000,Rubles,Russia,Greece
+365,350,1930,3098,1000,Rubles,Russia,Greece
+365,350,1931,3642,1000,Rubles,Russia,Greece
+365,350,1932,1676,1000,Rubles,Russia,Greece
+365,350,1933,1802,1000,Rubles,Russia,Greece
+365,350,1934,3182,1000,Rubles,Russia,Greece
+365,350,1935,3091,1000,Rubles,Russia,Greece
+365,350,1936,1945,1000,Rubles,Russia,Greece
+365,350,1937,1804,1000,Rubles,Russia,Greece
+365,350,1938,1110,1000,Rubles,Russia,Greece
+365,350,1939,565,1000,Rubles,Russia,Greece
+365,350,1940,162,1000,Rubles,Russia,Greece
+365,355,1913,112,1000,Rubles,Russia,Bulgaria
+365,355,1918,0,1000,Rubles,Russia,Bulgaria
+365,355,1919,0,1000,Rubles,Russia,Bulgaria
+365,355,1920,0,1000,Rubles,Russia,Bulgaria
+365,355,1921,3,1000,Rubles,Russia,Bulgaria
+365,355,1922,3628,1000,Rubles,Russia,Bulgaria
+365,355,1923,45,1000,Rubles,Russia,Bulgaria
+365,355,1924,7,1000,Rubles,Russia,Bulgaria
+365,355,1925,122,1000,Rubles,Russia,Bulgaria
+365,355,1926,35,1000,Rubles,Russia,Bulgaria
+365,355,1927,70,1000,Rubles,Russia,Bulgaria
+365,355,1928,10,1000,Rubles,Russia,Bulgaria
+365,355,1929,112,1000,Rubles,Russia,Bulgaria
+365,355,1930,42,1000,Rubles,Russia,Bulgaria
+365,355,1931,0,1000,Rubles,Russia,Bulgaria
+365,355,1932,3,1000,Rubles,Russia,Bulgaria
+365,355,1933,7,1000,Rubles,Russia,Bulgaria
+365,355,1934,3,1000,Rubles,Russia,Bulgaria
+365,355,1935,28,1000,Rubles,Russia,Bulgaria
+365,355,1936,0,1000,Rubles,Russia,Bulgaria
+365,355,1937,0,1000,Rubles,Russia,Bulgaria
+365,355,1938,0,1000,Rubles,Russia,Bulgaria
+365,355,1939,0,1000,Rubles,Russia,Bulgaria
+365,355,1940,18713,1000,Rubles,Russia,Bulgaria
+365,360,1913,4891,1000,Rubles,Russia,Romania
+365,360,1918,0,1000,Rubles,Russia,Romania
+365,360,1919,0,1000,Rubles,Russia,Romania
+365,360,1920,0,1000,Rubles,Russia,Romania
+365,360,1921,1,1000,Rubles,Russia,Romania
+365,360,1922,14230,1000,Rubles,Russia,Romania
+365,360,1923,1,1000,Rubles,Russia,Romania
+365,360,1924,0,1000,Rubles,Russia,Romania
+365,360,1925,0,1000,Rubles,Russia,Romania
+365,360,1926,31,1000,Rubles,Russia,Romania
+365,360,1927,0,1000,Rubles,Russia,Romania
+365,360,1928,1234,1000,Rubles,Russia,Romania
+365,360,1929,1289,1000,Rubles,Russia,Romania
+365,360,1930,38,1000,Rubles,Russia,Romania
+365,360,1931,10,1000,Rubles,Russia,Romania
+365,360,1932,3,1000,Rubles,Russia,Romania
+365,360,1933,0,1000,Rubles,Russia,Romania
+365,360,1934,.3,1000,Rubles,Russia,Romania
+365,360,1935,10,1000,Rubles,Russia,Romania
+365,360,1936,12,1000,Rubles,Russia,Romania
+365,360,1937,1371,1000,Rubles,Russia,Romania
+365,360,1938,608,1000,Rubles,Russia,Romania
+365,360,1939,0,1000,Rubles,Russia,Romania
+365,360,1940,0,1000,Rubles,Russia,Romania
+365,375,1913,177597,1000,Rubles,Russia,Finland
+365,375,1918,6615,1000,Rubles,Russia,Finland
+365,375,1919,150,1000,Rubles,Russia,Finland
+365,375,1920,132,1000,Rubles,Russia,Finland
+365,375,1921,14582,1000,Rubles,Russia,Finland
+365,375,1922,36701,1000,Rubles,Russia,Finland
+365,375,1923,19907,1000,Rubles,Russia,Finland
+365,375,1924,24040,1000,Rubles,Russia,Finland
+365,375,1925,64976,1000,Rubles,Russia,Finland
+365,375,1926,51851,1000,Rubles,Russia,Finland
+365,375,1927,62362,1000,Rubles,Russia,Finland
+365,375,1928,57759,1000,Rubles,Russia,Finland
+365,375,1929,37726,1000,Rubles,Russia,Finland
+365,375,1930,43320,1000,Rubles,Russia,Finland
+365,375,1931,18178,1000,Rubles,Russia,Finland
+365,375,1932,10072,1000,Rubles,Russia,Finland
+365,375,1933,10065,1000,Rubles,Russia,Finland
+365,375,1934,10079,1000,Rubles,Russia,Finland
+365,375,1935,4806,1000,Rubles,Russia,Finland
+365,375,1936,2894,1000,Rubles,Russia,Finland
+365,375,1937,2893,1000,Rubles,Russia,Finland
+365,375,1938,2573,1000,Rubles,Russia,Finland
+365,375,1939,2762,1000,Rubles,Russia,Finland
+365,375,1940,451,1000,Rubles,Russia,Finland
+365,380,1913,58989,1000,Rubles,Russia,Sweden
+365,380,1918,7483,1000,Rubles,Russia,Sweden
+365,380,1919,512,1000,Rubles,Russia,Sweden
+365,380,1920,26131,1000,Rubles,Russia,Sweden
+365,380,1921,43944,1000,Rubles,Russia,Sweden
+365,380,1922,37357,1000,Rubles,Russia,Sweden
+365,380,1923,25448,1000,Rubles,Russia,Sweden
+365,380,1924,42867,1000,Rubles,Russia,Sweden
+365,380,1925,54186,1000,Rubles,Russia,Sweden
+365,380,1926,73076,1000,Rubles,Russia,Sweden
+365,380,1927,42389,1000,Rubles,Russia,Sweden
+365,380,1928,57696,1000,Rubles,Russia,Sweden
+365,380,1929,59710,1000,Rubles,Russia,Sweden
+365,380,1930,68095,1000,Rubles,Russia,Sweden
+365,380,1931,54361,1000,Rubles,Russia,Sweden
+365,380,1932,75118,1000,Rubles,Russia,Sweden
+365,380,1933,16000,1000,Rubles,Russia,Sweden
+365,380,1934,17060,1000,Rubles,Russia,Sweden
+365,380,1935,11163,1000,Rubles,Russia,Sweden
+365,380,1936,14311,1000,Rubles,Russia,Sweden
+365,380,1937,13138,1000,Rubles,Russia,Sweden
+365,380,1938,20670,1000,Rubles,Russia,Sweden
+365,380,1939,8651,1000,Rubles,Russia,Sweden
+365,380,1940,7186,1000,Rubles,Russia,Sweden
+365,385,1913,34049,1000,Rubles,Russia,Norway
+365,385,1918,6639,1000,Rubles,Russia,Norway
+365,385,1919,0,1000,Rubles,Russia,Norway
+365,385,1920,2774,1000,Rubles,Russia,Norway
+365,385,1921,13707,1000,Rubles,Russia,Norway
+365,385,1922,44648,1000,Rubles,Russia,Norway
+365,385,1923,11490,1000,Rubles,Russia,Norway
+365,385,1924,14414,1000,Rubles,Russia,Norway
+365,385,1925,18419,1000,Rubles,Russia,Norway
+365,385,1926,23615,1000,Rubles,Russia,Norway
+365,385,1927,10598,1000,Rubles,Russia,Norway
+365,385,1928,17473,1000,Rubles,Russia,Norway
+365,385,1929,31397,1000,Rubles,Russia,Norway
+365,385,1930,57696,1000,Rubles,Russia,Norway
+365,385,1931,65903,1000,Rubles,Russia,Norway
+365,385,1932,49269,1000,Rubles,Russia,Norway
+365,385,1933,29658,1000,Rubles,Russia,Norway
+365,385,1934,10180,1000,Rubles,Russia,Norway
+365,385,1935,6360,1000,Rubles,Russia,Norway
+365,385,1936,1796,1000,Rubles,Russia,Norway
+365,385,1937,2420,1000,Rubles,Russia,Norway
+365,385,1938,7456,1000,Rubles,Russia,Norway
+365,385,1939,5763,1000,Rubles,Russia,Norway
+365,385,1940,748,1000,Rubles,Russia,Norway
+365,390,1913,44843,1000,Rubles,Russia,Denmark
+365,390,1918,0,1000,Rubles,Russia,Denmark
+365,390,1919,38,1000,Rubles,Russia,Denmark
+365,390,1920,5489,1000,Rubles,Russia,Denmark
+365,390,1921,15449,1000,Rubles,Russia,Denmark
+365,390,1922,2447,1000,Rubles,Russia,Denmark
+365,390,1923,98,1000,Rubles,Russia,Denmark
+365,390,1924,788,1000,Rubles,Russia,Denmark
+365,390,1925,6712,1000,Rubles,Russia,Denmark
+365,390,1926,6155,1000,Rubles,Russia,Denmark
+365,390,1927,3293,1000,Rubles,Russia,Denmark
+365,390,1928,6960,1000,Rubles,Russia,Denmark
+365,390,1929,12299,1000,Rubles,Russia,Denmark
+365,390,1930,25344,1000,Rubles,Russia,Denmark
+365,390,1931,16505,1000,Rubles,Russia,Denmark
+365,390,1932,9619,1000,Rubles,Russia,Denmark
+365,390,1933,6012,1000,Rubles,Russia,Denmark
+365,390,1934,5004,1000,Rubles,Russia,Denmark
+365,390,1935,728,1000,Rubles,Russia,Denmark
+365,390,1936,6907,1000,Rubles,Russia,Denmark
+365,390,1937,78,1000,Rubles,Russia,Denmark
+365,390,1938,3878,1000,Rubles,Russia,Denmark
+365,390,1939,251,1000,Rubles,Russia,Denmark
+365,390,1940,1826,1000,Rubles,Russia,Denmark
+365,395,1913,0,1000,Rubles,Russia,Iceland
+365,395,1918,0,1000,Rubles,Russia,Iceland
+365,395,1919,0,1000,Rubles,Russia,Iceland
+365,395,1920,0,1000,Rubles,Russia,Iceland
+365,395,1921,0,1000,Rubles,Russia,Iceland
+365,395,1922,0,1000,Rubles,Russia,Iceland
+365,395,1923,0,1000,Rubles,Russia,Iceland
+365,395,1924,0,1000,Rubles,Russia,Iceland
+365,395,1925,0,1000,Rubles,Russia,Iceland
+365,395,1926,0,1000,Rubles,Russia,Iceland
+365,395,1927,0,1000,Rubles,Russia,Iceland
+365,395,1928,0,1000,Rubles,Russia,Iceland
+365,395,1929,0,1000,Rubles,Russia,Iceland
+365,395,1930,1073,1000,Rubles,Russia,Iceland
+365,395,1931,45,1000,Rubles,Russia,Iceland
+365,395,1932,0,1000,Rubles,Russia,Iceland
+365,395,1933,0,1000,Rubles,Russia,Iceland
+365,395,1934,0,1000,Rubles,Russia,Iceland
+365,395,1935,0,1000,Rubles,Russia,Iceland
+365,395,1936,425,1000,Rubles,Russia,Iceland
+365,395,1937,138,1000,Rubles,Russia,Iceland
+365,395,1938,0,1000,Rubles,Russia,Iceland
+365,395,1939,0,1000,Rubles,Russia,Iceland
+365,395,1940,0,1000,Rubles,Russia,Iceland
+365,490,1913,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1918,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1919,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1920,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1921,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1922,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1923,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1924,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1925,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1926,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1927,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1928,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1929,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1930,38,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1931,223,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1932,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1933,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1934,17,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1935,14,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1936,4758,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1937,1,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1938,7,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1939,0,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,490,1940,1432,1000,Rubles,Russia,"Congo, Dem. Republic"
+365,560,1913,0,1000,Rubles,Russia,South Africa
+365,560,1918,0,1000,Rubles,Russia,South Africa
+365,560,1919,0,1000,Rubles,Russia,South Africa
+365,560,1920,0,1000,Rubles,Russia,South Africa
+365,560,1921,0,1000,Rubles,Russia,South Africa
+365,560,1922,0,1000,Rubles,Russia,South Africa
+365,560,1923,0,1000,Rubles,Russia,South Africa
+365,560,1924,0,1000,Rubles,Russia,South Africa
+365,560,1925,0,1000,Rubles,Russia,South Africa
+365,560,1926,0,1000,Rubles,Russia,South Africa
+365,560,1927,0,1000,Rubles,Russia,South Africa
+365,560,1928,0,1000,Rubles,Russia,South Africa
+365,560,1929,6378,1000,Rubles,Russia,South Africa
+365,560,1930,6061,1000,Rubles,Russia,South Africa
+365,560,1931,2499,1000,Rubles,Russia,South Africa
+365,560,1932,2617,1000,Rubles,Russia,South Africa
+365,560,1933,1443,1000,Rubles,Russia,South Africa
+365,560,1934,2903,1000,Rubles,Russia,South Africa
+365,560,1935,505,1000,Rubles,Russia,South Africa
+365,560,1936,1700,1000,Rubles,Russia,South Africa
+365,560,1937,8133,1000,Rubles,Russia,South Africa
+365,560,1938,422,1000,Rubles,Russia,South Africa
+365,560,1939,21,1000,Rubles,Russia,South Africa
+365,560,1940,0,1000,Rubles,Russia,South Africa
+365,580,1913,0,1000,Rubles,Russia,Madagascar
+365,580,1918,0,1000,Rubles,Russia,Madagascar
+365,580,1919,0,1000,Rubles,Russia,Madagascar
+365,580,1920,0,1000,Rubles,Russia,Madagascar
+365,580,1921,0,1000,Rubles,Russia,Madagascar
+365,580,1922,0,1000,Rubles,Russia,Madagascar
+365,580,1923,0,1000,Rubles,Russia,Madagascar
+365,580,1924,0,1000,Rubles,Russia,Madagascar
+365,580,1925,240,1000,Rubles,Russia,Madagascar
+365,580,1926,0,1000,Rubles,Russia,Madagascar
+365,580,1927,171,1000,Rubles,Russia,Madagascar
+365,580,1928,0,1000,Rubles,Russia,Madagascar
+365,580,1929,202,1000,Rubles,Russia,Madagascar
+365,580,1930,24,1000,Rubles,Russia,Madagascar
+365,580,1931,310,1000,Rubles,Russia,Madagascar
+365,580,1932,415,1000,Rubles,Russia,Madagascar
+365,580,1933,0,1000,Rubles,Russia,Madagascar
+365,580,1934,3,1000,Rubles,Russia,Madagascar
+365,580,1935,0,1000,Rubles,Russia,Madagascar
+365,580,1936,14,1000,Rubles,Russia,Madagascar
+365,580,1937,94,1000,Rubles,Russia,Madagascar
+365,580,1938,106,1000,Rubles,Russia,Madagascar
+365,580,1939,63,1000,Rubles,Russia,Madagascar
+365,580,1940,0,1000,Rubles,Russia,Madagascar
+365,615,1913,0,1000,Rubles,Russia,Algeria
+365,615,1918,0,1000,Rubles,Russia,Algeria
+365,615,1919,0,1000,Rubles,Russia,Algeria
+365,615,1920,0,1000,Rubles,Russia,Algeria
+365,615,1921,0,1000,Rubles,Russia,Algeria
+365,615,1922,0,1000,Rubles,Russia,Algeria
+365,615,1923,0,1000,Rubles,Russia,Algeria
+365,615,1924,0,1000,Rubles,Russia,Algeria
+365,615,1925,0,1000,Rubles,Russia,Algeria
+365,615,1926,0,1000,Rubles,Russia,Algeria
+365,615,1927,0,1000,Rubles,Russia,Algeria
+365,615,1928,0,1000,Rubles,Russia,Algeria
+365,615,1929,139,1000,Rubles,Russia,Algeria
+365,615,1930,2196,1000,Rubles,Russia,Algeria
+365,615,1931,0,1000,Rubles,Russia,Algeria
+365,615,1932,0,1000,Rubles,Russia,Algeria
+365,615,1933,0,1000,Rubles,Russia,Algeria
+365,615,1934,0,1000,Rubles,Russia,Algeria
+365,615,1935,52,1000,Rubles,Russia,Algeria
+365,615,1936,102,1000,Rubles,Russia,Algeria
+365,615,1937,0,1000,Rubles,Russia,Algeria
+365,615,1938,544,1000,Rubles,Russia,Algeria
+365,615,1939,1454,1000,Rubles,Russia,Algeria
+365,615,1940,0,1000,Rubles,Russia,Algeria
+365,616,1913,0,1000,Rubles,Russia,Tunisia
+365,616,1918,0,1000,Rubles,Russia,Tunisia
+365,616,1919,0,1000,Rubles,Russia,Tunisia
+365,616,1920,0,1000,Rubles,Russia,Tunisia
+365,616,1921,0,1000,Rubles,Russia,Tunisia
+365,616,1922,0,1000,Rubles,Russia,Tunisia
+365,616,1923,0,1000,Rubles,Russia,Tunisia
+365,616,1924,0,1000,Rubles,Russia,Tunisia
+365,616,1925,0,1000,Rubles,Russia,Tunisia
+365,616,1926,0,1000,Rubles,Russia,Tunisia
+365,616,1927,0,1000,Rubles,Russia,Tunisia
+365,616,1928,0,1000,Rubles,Russia,Tunisia
+365,616,1929,0,1000,Rubles,Russia,Tunisia
+365,616,1930,0,1000,Rubles,Russia,Tunisia
+365,616,1931,0,1000,Rubles,Russia,Tunisia
+365,616,1932,0,1000,Rubles,Russia,Tunisia
+365,616,1933,0,1000,Rubles,Russia,Tunisia
+365,616,1934,0,1000,Rubles,Russia,Tunisia
+365,616,1935,0,1000,Rubles,Russia,Tunisia
+365,616,1936,0,1000,Rubles,Russia,Tunisia
+365,616,1937,0,1000,Rubles,Russia,Tunisia
+365,616,1938,0,1000,Rubles,Russia,Tunisia
+365,616,1939,0,1000,Rubles,Russia,Tunisia
+365,616,1940,0,1000,Rubles,Russia,Tunisia
+365,625,1913,0,1000,Rubles,Russia,Sudan
+365,625,1918,0,1000,Rubles,Russia,Sudan
+365,625,1919,0,1000,Rubles,Russia,Sudan
+365,625,1920,0,1000,Rubles,Russia,Sudan
+365,625,1921,0,1000,Rubles,Russia,Sudan
+365,625,1922,0,1000,Rubles,Russia,Sudan
+365,625,1923,0,1000,Rubles,Russia,Sudan
+365,625,1924,0,1000,Rubles,Russia,Sudan
+365,625,1925,0,1000,Rubles,Russia,Sudan
+365,625,1926,0,1000,Rubles,Russia,Sudan
+365,625,1927,0,1000,Rubles,Russia,Sudan
+365,625,1928,0,1000,Rubles,Russia,Sudan
+365,625,1929,3,1000,Rubles,Russia,Sudan
+365,625,1930,52,1000,Rubles,Russia,Sudan
+365,625,1931,84,1000,Rubles,Russia,Sudan
+365,625,1932,45,1000,Rubles,Russia,Sudan
+365,625,1933,0,1000,Rubles,Russia,Sudan
+365,625,1934,0,1000,Rubles,Russia,Sudan
+365,625,1935,0,1000,Rubles,Russia,Sudan
+365,625,1936,65,1000,Rubles,Russia,Sudan
+365,625,1937,0,1000,Rubles,Russia,Sudan
+365,625,1938,76,1000,Rubles,Russia,Sudan
+365,625,1939,0,1000,Rubles,Russia,Sudan
+365,625,1940,0,1000,Rubles,Russia,Sudan
+365,630,1913,152040,1000,Rubles,Russia,Iran
+365,630,1918,0,1000,Rubles,Russia,Iran
+365,630,1919,795,1000,Rubles,Russia,Iran
+365,630,1920,627,1000,Rubles,Russia,Iran
+365,630,1921,3461,1000,Rubles,Russia,Iran
+365,630,1922,3227,1000,Rubles,Russia,Iran
+365,630,1923,8044,1000,Rubles,Russia,Iran
+365,630,1924,77456,1000,Rubles,Russia,Iran
+365,630,1925,181814,1000,Rubles,Russia,Iran
+365,630,1926,153146,1000,Rubles,Russia,Iran
+365,630,1927,142934,1000,Rubles,Russia,Iran
+365,630,1928,218188,1000,Rubles,Russia,Iran
+365,630,1929,211427,1000,Rubles,Russia,Iran
+365,630,1930,154711,1000,Rubles,Russia,Iran
+365,630,1931,161893,1000,Rubles,Russia,Iran
+365,630,1932,174046,1000,Rubles,Russia,Iran
+365,630,1933,29132,1000,Rubles,Russia,Iran
+365,630,1934,49928,1000,Rubles,Russia,Iran
+365,630,1935,72100,1000,Rubles,Russia,Iran
+365,630,1936,72493,1000,Rubles,Russia,Iran
+365,630,1937,63985,1000,Rubles,Russia,Iran
+365,630,1938,48128,1000,Rubles,Russia,Iran
+365,630,1939,2065,1000,Rubles,Russia,Iran
+365,630,1940,14815,1000,Rubles,Russia,Iran
+365,640,1913,64265,1000,Rubles,Russia,Turkey
+365,640,1918,0,1000,Rubles,Russia,Turkey
+365,640,1919,0,1000,Rubles,Russia,Turkey
+365,640,1920,1241,1000,Rubles,Russia,Turkey
+365,640,1921,3325,1000,Rubles,Russia,Turkey
+365,640,1922,7190,1000,Rubles,Russia,Turkey
+365,640,1923,2673,1000,Rubles,Russia,Turkey
+365,640,1924,3503,1000,Rubles,Russia,Turkey
+365,640,1925,11801,1000,Rubles,Russia,Turkey
+365,640,1926,34283,1000,Rubles,Russia,Turkey
+365,640,1927,37597,1000,Rubles,Russia,Turkey
+365,640,1928,48938,1000,Rubles,Russia,Turkey
+365,640,1929,35377,1000,Rubles,Russia,Turkey
+365,640,1930,39667,1000,Rubles,Russia,Turkey
+365,640,1931,24260,1000,Rubles,Russia,Turkey
+365,640,1932,20081,1000,Rubles,Russia,Turkey
+365,640,1933,16230,1000,Rubles,Russia,Turkey
+365,640,1934,10002,1000,Rubles,Russia,Turkey
+365,640,1935,14596,1000,Rubles,Russia,Turkey
+365,640,1936,14370,1000,Rubles,Russia,Turkey
+365,640,1937,21608,1000,Rubles,Russia,Turkey
+365,640,1938,17162,1000,Rubles,Russia,Turkey
+365,640,1939,14850,1000,Rubles,Russia,Turkey
+365,640,1940,2145,1000,Rubles,Russia,Turkey
+365,645,1913,0,1000,Rubles,Russia,Iraq
+365,645,1918,0,1000,Rubles,Russia,Iraq
+365,645,1919,0,1000,Rubles,Russia,Iraq
+365,645,1920,0,1000,Rubles,Russia,Iraq
+365,645,1921,0,1000,Rubles,Russia,Iraq
+365,645,1922,0,1000,Rubles,Russia,Iraq
+365,645,1923,0,1000,Rubles,Russia,Iraq
+365,645,1924,0,1000,Rubles,Russia,Iraq
+365,645,1925,0,1000,Rubles,Russia,Iraq
+365,645,1926,0,1000,Rubles,Russia,Iraq
+365,645,1927,0,1000,Rubles,Russia,Iraq
+365,645,1928,0,1000,Rubles,Russia,Iraq
+365,645,1929,415,1000,Rubles,Russia,Iraq
+365,645,1930,7,1000,Rubles,Russia,Iraq
+365,645,1931,0,1000,Rubles,Russia,Iraq
+365,645,1932,0,1000,Rubles,Russia,Iraq
+365,645,1933,0,1000,Rubles,Russia,Iraq
+365,645,1934,809,1000,Rubles,Russia,Iraq
+365,645,1935,17,1000,Rubles,Russia,Iraq
+365,645,1936,106,1000,Rubles,Russia,Iraq
+365,645,1937,287,1000,Rubles,Russia,Iraq
+365,645,1938,0,1000,Rubles,Russia,Iraq
+365,645,1939,0,1000,Rubles,Russia,Iraq
+365,645,1940,0,1000,Rubles,Russia,Iraq
+365,651,1913,20698,1000,Rubles,Russia,Egypt
+365,651,1918,0,1000,Rubles,Russia,Egypt
+365,651,1919,0,1000,Rubles,Russia,Egypt
+365,651,1920,0,1000,Rubles,Russia,Egypt
+365,651,1921,0,1000,Rubles,Russia,Egypt
+365,651,1922,0,1000,Rubles,Russia,Egypt
+365,651,1923,0,1000,Rubles,Russia,Egypt
+365,651,1924,551,1000,Rubles,Russia,Egypt
+365,651,1925,80021,1000,Rubles,Russia,Egypt
+365,651,1926,92568,1000,Rubles,Russia,Egypt
+365,651,1927,72497,1000,Rubles,Russia,Egypt
+365,651,1928,113625,1000,Rubles,Russia,Egypt
+365,651,1929,76655,1000,Rubles,Russia,Egypt
+365,651,1930,64237,1000,Rubles,Russia,Egypt
+365,651,1931,69040,1000,Rubles,Russia,Egypt
+365,651,1932,3297,1000,Rubles,Russia,Egypt
+365,651,1933,0,1000,Rubles,Russia,Egypt
+365,651,1934,0,1000,Rubles,Russia,Egypt
+365,651,1935,10,1000,Rubles,Russia,Egypt
+365,651,1936,0,1000,Rubles,Russia,Egypt
+365,651,1937,0,1000,Rubles,Russia,Egypt
+365,651,1938,211,1000,Rubles,Russia,Egypt
+365,651,1939,1,1000,Rubles,Russia,Egypt
+365,651,1940,0,1000,Rubles,Russia,Egypt
+365,652,1913,0,1000,Rubles,Russia,Syria
+365,652,1918,0,1000,Rubles,Russia,Syria
+365,652,1919,0,1000,Rubles,Russia,Syria
+365,652,1920,0,1000,Rubles,Russia,Syria
+365,652,1921,0,1000,Rubles,Russia,Syria
+365,652,1922,0,1000,Rubles,Russia,Syria
+365,652,1923,0,1000,Rubles,Russia,Syria
+365,652,1924,0,1000,Rubles,Russia,Syria
+365,652,1925,3,1000,Rubles,Russia,Syria
+365,652,1926,17,1000,Rubles,Russia,Syria
+365,652,1927,17,1000,Rubles,Russia,Syria
+365,652,1928,49,1000,Rubles,Russia,Syria
+365,652,1929,52,1000,Rubles,Russia,Syria
+365,652,1930,77,1000,Rubles,Russia,Syria
+365,652,1931,14,1000,Rubles,Russia,Syria
+365,652,1932,21,1000,Rubles,Russia,Syria
+365,652,1933,98,1000,Rubles,Russia,Syria
+365,652,1934,1802,1000,Rubles,Russia,Syria
+365,652,1935,687,1000,Rubles,Russia,Syria
+365,652,1936,390,1000,Rubles,Russia,Syria
+365,652,1937,0,1000,Rubles,Russia,Syria
+365,652,1938,0,1000,Rubles,Russia,Syria
+365,652,1939,0,1000,Rubles,Russia,Syria
+365,652,1940,0,1000,Rubles,Russia,Syria
+365,665,1913,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1918,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1919,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1920,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1921,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1922,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1923,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1924,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1925,112,1000,Rubles,Russia,West Bank And Gaza
+365,665,1926,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1927,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1928,17,1000,Rubles,Russia,West Bank And Gaza
+365,665,1929,181,1000,Rubles,Russia,West Bank And Gaza
+365,665,1930,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1931,.3,1000,Rubles,Russia,West Bank And Gaza
+365,665,1932,.3,1000,Rubles,Russia,West Bank And Gaza
+365,665,1933,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1934,224,1000,Rubles,Russia,West Bank And Gaza
+365,665,1935,206,1000,Rubles,Russia,West Bank And Gaza
+365,665,1936,192,1000,Rubles,Russia,West Bank And Gaza
+365,665,1937,171,1000,Rubles,Russia,West Bank And Gaza
+365,665,1938,0,1000,Rubles,Russia,West Bank And Gaza
+365,665,1939,14,1000,Rubles,Russia,West Bank And Gaza
+365,665,1940,35,1000,Rubles,Russia,West Bank And Gaza
+365,700,1913,21953,1000,Rubles,Russia,Afghanistan
+365,700,1918,0,1000,Rubles,Russia,Afghanistan
+365,700,1919,0,1000,Rubles,Russia,Afghanistan
+365,700,1920,0,1000,Rubles,Russia,Afghanistan
+365,700,1921,0,1000,Rubles,Russia,Afghanistan
+365,700,1922,0,1000,Rubles,Russia,Afghanistan
+365,700,1923,0,1000,Rubles,Russia,Afghanistan
+365,700,1924,4579,1000,Rubles,Russia,Afghanistan
+365,700,1925,5719,1000,Rubles,Russia,Afghanistan
+365,700,1926,11400,1000,Rubles,Russia,Afghanistan
+365,700,1927,15007,1000,Rubles,Russia,Afghanistan
+365,700,1928,22625,1000,Rubles,Russia,Afghanistan
+365,700,1929,39211,1000,Rubles,Russia,Afghanistan
+365,700,1930,33555,1000,Rubles,Russia,Afghanistan
+365,700,1931,40479,1000,Rubles,Russia,Afghanistan
+365,700,1932,41061,1000,Rubles,Russia,Afghanistan
+365,700,1933,19597,1000,Rubles,Russia,Afghanistan
+365,700,1934,9594,1000,Rubles,Russia,Afghanistan
+365,700,1935,13710,1000,Rubles,Russia,Afghanistan
+365,700,1936,17533,1000,Rubles,Russia,Afghanistan
+365,700,1937,12826,1000,Rubles,Russia,Afghanistan
+365,700,1938,10348,1000,Rubles,Russia,Afghanistan
+365,700,1939,6289,1000,Rubles,Russia,Afghanistan
+365,700,1940,7358,1000,Rubles,Russia,Afghanistan
+365,710,1913,263651,1000,Rubles,Russia,China
+365,710,1918,20524,1000,Rubles,Russia,China
+365,710,1919,10,1000,Rubles,Russia,China
+365,710,1920,0,1000,Rubles,Russia,China
+365,710,1921,227,1000,Rubles,Russia,China
+365,710,1922,237,1000,Rubles,Russia,China
+365,710,1923,59,1000,Rubles,Russia,China
+365,710,1924,38855,1000,Rubles,Russia,China
+365,710,1925,58780,1000,Rubles,Russia,China
+365,710,1926,108052,1000,Rubles,Russia,China
+365,710,1927,104497,1000,Rubles,Russia,China
+365,710,1928,157753,1000,Rubles,Russia,China
+365,710,1929,120442,1000,Rubles,Russia,China
+365,710,1930,85263,1000,Rubles,Russia,China
+365,710,1931,59745,1000,Rubles,Russia,China
+365,710,1932,63404,1000,Rubles,Russia,China
+365,710,1933,74794,1000,Rubles,Russia,China
+365,710,1934,32708,1000,Rubles,Russia,China
+365,710,1935,28191,1000,Rubles,Russia,China
+365,710,1936,30604,1000,Rubles,Russia,China
+365,710,1937,30741,1000,Rubles,Russia,China
+365,710,1938,63552,1000,Rubles,Russia,China
+365,710,1939,78714,1000,Rubles,Russia,China
+365,710,1940,77265,1000,Rubles,Russia,China
+365,730,1913,98,1000,Rubles,Russia,Korea
+365,730,1918,0,1000,Rubles,Russia,Korea
+365,730,1919,0,1000,Rubles,Russia,Korea
+365,730,1920,0,1000,Rubles,Russia,Korea
+365,730,1921,0,1000,Rubles,Russia,Korea
+365,730,1922,0,1000,Rubles,Russia,Korea
+365,730,1923,0,1000,Rubles,Russia,Korea
+365,730,1924,0,1000,Rubles,Russia,Korea
+365,730,1925,14,1000,Rubles,Russia,Korea
+365,730,1926,17,1000,Rubles,Russia,Korea
+365,730,1927,108,1000,Rubles,Russia,Korea
+365,730,1928,35,1000,Rubles,Russia,Korea
+365,730,1929,0,1000,Rubles,Russia,Korea
+365,730,1930,0,1000,Rubles,Russia,Korea
+365,730,1931,0,1000,Rubles,Russia,Korea
+365,730,1932,0,1000,Rubles,Russia,Korea
+365,730,1933,0,1000,Rubles,Russia,Korea
+365,730,1934,0,1000,Rubles,Russia,Korea
+365,730,1935,0,1000,Rubles,Russia,Korea
+365,730,1936,0,1000,Rubles,Russia,Korea
+365,730,1937,0,1000,Rubles,Russia,Korea
+365,730,1938,0,1000,Rubles,Russia,Korea
+365,730,1939,0,1000,Rubles,Russia,Korea
+365,730,1940,0,1000,Rubles,Russia,Korea
+365,740,1913,16882,1000,Rubles,Russia,Japan
+365,740,1918,0,1000,Rubles,Russia,Japan
+365,740,1919,52,1000,Rubles,Russia,Japan
+365,740,1920,0,1000,Rubles,Russia,Japan
+365,740,1921,0,1000,Rubles,Russia,Japan
+365,740,1922,3,1000,Rubles,Russia,Japan
+365,740,1923,0,1000,Rubles,Russia,Japan
+365,740,1924,8852,1000,Rubles,Russia,Japan
+365,740,1925,9333,1000,Rubles,Russia,Japan
+365,740,1926,8964,1000,Rubles,Russia,Japan
+365,740,1927,12606,1000,Rubles,Russia,Japan
+365,740,1928,18886,1000,Rubles,Russia,Japan
+365,740,1929,28818,1000,Rubles,Russia,Japan
+365,740,1930,58494,1000,Rubles,Russia,Japan
+365,740,1931,44149,1000,Rubles,Russia,Japan
+365,740,1932,16680,1000,Rubles,Russia,Japan
+365,740,1933,25612,1000,Rubles,Russia,Japan
+365,740,1934,24065,1000,Rubles,Russia,Japan
+365,740,1935,37887,1000,Rubles,Russia,Japan
+365,740,1936,49308,1000,Rubles,Russia,Japan
+365,740,1937,41038,1000,Rubles,Russia,Japan
+365,740,1938,11932,1000,Rubles,Russia,Japan
+365,740,1939,2014,1000,Rubles,Russia,Japan
+365,740,1940,3651,1000,Rubles,Russia,Japan
+365,750,1913,120410,1000,Rubles,Russia,India
+365,750,1918,0,1000,Rubles,Russia,India
+365,750,1919,0,1000,Rubles,Russia,India
+365,750,1920,0,1000,Rubles,Russia,India
+365,750,1921,0,1000,Rubles,Russia,India
+365,750,1922,31,1000,Rubles,Russia,India
+365,750,1923,181,1000,Rubles,Russia,India
+365,750,1924,1739,1000,Rubles,Russia,India
+365,750,1925,30955,1000,Rubles,Russia,India
+365,750,1926,46237,1000,Rubles,Russia,India
+365,750,1927,62153,1000,Rubles,Russia,India
+365,750,1928,89334,1000,Rubles,Russia,India
+365,750,1929,98336,1000,Rubles,Russia,India
+365,750,1930,63837,1000,Rubles,Russia,India
+365,750,1931,31854,1000,Rubles,Russia,India
+365,750,1932,15882,1000,Rubles,Russia,India
+365,750,1933,10333,1000,Rubles,Russia,India
+365,750,1934,6569,1000,Rubles,Russia,India
+365,750,1935,17087,1000,Rubles,Russia,India
+365,750,1936,21768,1000,Rubles,Russia,India
+365,750,1937,20299,1000,Rubles,Russia,India
+365,750,1938,10076,1000,Rubles,Russia,India
+365,750,1939,5936,1000,Rubles,Russia,India
+365,750,1940,385,1000,Rubles,Russia,India
+365,780,1913,49565,1000,Rubles,Russia,Sri Lanka
+365,780,1918,0,1000,Rubles,Russia,Sri Lanka
+365,780,1919,0,1000,Rubles,Russia,Sri Lanka
+365,780,1920,0,1000,Rubles,Russia,Sri Lanka
+365,780,1921,0,1000,Rubles,Russia,Sri Lanka
+365,780,1922,0,1000,Rubles,Russia,Sri Lanka
+365,780,1923,0,1000,Rubles,Russia,Sri Lanka
+365,780,1924,234,1000,Rubles,Russia,Sri Lanka
+365,780,1925,6740,1000,Rubles,Russia,Sri Lanka
+365,780,1926,9016,1000,Rubles,Russia,Sri Lanka
+365,780,1927,5290,1000,Rubles,Russia,Sri Lanka
+365,780,1928,16917,1000,Rubles,Russia,Sri Lanka
+365,780,1929,16439,1000,Rubles,Russia,Sri Lanka
+365,780,1930,14170,1000,Rubles,Russia,Sri Lanka
+365,780,1931,5534,1000,Rubles,Russia,Sri Lanka
+365,780,1932,2185,1000,Rubles,Russia,Sri Lanka
+365,780,1933,0,1000,Rubles,Russia,Sri Lanka
+365,780,1934,432,1000,Rubles,Russia,Sri Lanka
+365,780,1935,4011,1000,Rubles,Russia,Sri Lanka
+365,780,1936,3179,1000,Rubles,Russia,Sri Lanka
+365,780,1937,3730,1000,Rubles,Russia,Sri Lanka
+365,780,1938,3383,1000,Rubles,Russia,Sri Lanka
+365,780,1939,772,1000,Rubles,Russia,Sri Lanka
+365,780,1940,0,1000,Rubles,Russia,Sri Lanka
+365,800,1913,0,1000,Rubles,Russia,Thailand
+365,800,1918,0,1000,Rubles,Russia,Thailand
+365,800,1919,0,1000,Rubles,Russia,Thailand
+365,800,1920,0,1000,Rubles,Russia,Thailand
+365,800,1921,0,1000,Rubles,Russia,Thailand
+365,800,1922,0,1000,Rubles,Russia,Thailand
+365,800,1923,0,1000,Rubles,Russia,Thailand
+365,800,1924,0,1000,Rubles,Russia,Thailand
+365,800,1925,7,1000,Rubles,Russia,Thailand
+365,800,1926,10,1000,Rubles,Russia,Thailand
+365,800,1927,7,1000,Rubles,Russia,Thailand
+365,800,1928,28,1000,Rubles,Russia,Thailand
+365,800,1929,0,1000,Rubles,Russia,Thailand
+365,800,1930,0,1000,Rubles,Russia,Thailand
+365,800,1931,0,1000,Rubles,Russia,Thailand
+365,800,1932,0,1000,Rubles,Russia,Thailand
+365,800,1933,0,1000,Rubles,Russia,Thailand
+365,800,1934,0,1000,Rubles,Russia,Thailand
+365,800,1935,1,1000,Rubles,Russia,Thailand
+365,800,1936,64,1000,Rubles,Russia,Thailand
+365,800,1937,2,1000,Rubles,Russia,Thailand
+365,800,1938,0,1000,Rubles,Russia,Thailand
+365,800,1939,1,1000,Rubles,Russia,Thailand
+365,800,1940,0,1000,Rubles,Russia,Thailand
+365,810,1913,0,1000,Rubles,Russia,French Indo-China
+365,810,1918,0,1000,Rubles,Russia,French Indo-China
+365,810,1919,0,1000,Rubles,Russia,French Indo-China
+365,810,1920,0,1000,Rubles,Russia,French Indo-China
+365,810,1921,0,1000,Rubles,Russia,French Indo-China
+365,810,1922,0,1000,Rubles,Russia,French Indo-China
+365,810,1923,0,1000,Rubles,Russia,French Indo-China
+365,810,1924,0,1000,Rubles,Russia,French Indo-China
+365,810,1925,0,1000,Rubles,Russia,French Indo-China
+365,810,1926,0,1000,Rubles,Russia,French Indo-China
+365,810,1927,0,1000,Rubles,Russia,French Indo-China
+365,810,1928,0,1000,Rubles,Russia,French Indo-China
+365,810,1929,.3,1000,Rubles,Russia,French Indo-China
+365,810,1930,3,1000,Rubles,Russia,French Indo-China
+365,810,1931,3,1000,Rubles,Russia,French Indo-China
+365,810,1932,366,1000,Rubles,Russia,French Indo-China
+365,810,1933,21,1000,Rubles,Russia,French Indo-China
+365,810,1934,0,1000,Rubles,Russia,French Indo-China
+365,810,1935,0,1000,Rubles,Russia,French Indo-China
+365,810,1936,20,1000,Rubles,Russia,French Indo-China
+365,810,1937,14,1000,Rubles,Russia,French Indo-China
+365,810,1938,70,1000,Rubles,Russia,French Indo-China
+365,810,1939,0,1000,Rubles,Russia,French Indo-China
+365,810,1940,1242,1000,Rubles,Russia,French Indo-China
+365,820,1913,0,1000,Rubles,Russia,Malaysia
+365,820,1918,0,1000,Rubles,Russia,Malaysia
+365,820,1919,0,1000,Rubles,Russia,Malaysia
+365,820,1920,0,1000,Rubles,Russia,Malaysia
+365,820,1921,0,1000,Rubles,Russia,Malaysia
+365,820,1922,0,1000,Rubles,Russia,Malaysia
+365,820,1923,0,1000,Rubles,Russia,Malaysia
+365,820,1924,0,1000,Rubles,Russia,Malaysia
+365,820,1925,0,1000,Rubles,Russia,Malaysia
+365,820,1926,0,1000,Rubles,Russia,Malaysia
+365,820,1927,0,1000,Rubles,Russia,Malaysia
+365,820,1928,0,1000,Rubles,Russia,Malaysia
+365,820,1929,0,1000,Rubles,Russia,Malaysia
+365,820,1930,0,1000,Rubles,Russia,Malaysia
+365,820,1931,0,1000,Rubles,Russia,Malaysia
+365,820,1932,0,1000,Rubles,Russia,Malaysia
+365,820,1933,0,1000,Rubles,Russia,Malaysia
+365,820,1934,1802,1000,Rubles,Russia,Malaysia
+365,820,1935,7667,1000,Rubles,Russia,Malaysia
+365,820,1936,10478,1000,Rubles,Russia,Malaysia
+365,820,1937,14359,1000,Rubles,Russia,Malaysia
+365,820,1938,20764,1000,Rubles,Russia,Malaysia
+365,820,1939,5733,1000,Rubles,Russia,Malaysia
+365,820,1940,0,1000,Rubles,Russia,Malaysia
+365,827,1913,0,1000,Rubles,Russia,Straits Settlement
+365,827,1918,0,1000,Rubles,Russia,Straits Settlement
+365,827,1919,0,1000,Rubles,Russia,Straits Settlement
+365,827,1920,0,1000,Rubles,Russia,Straits Settlement
+365,827,1921,0,1000,Rubles,Russia,Straits Settlement
+365,827,1922,0,1000,Rubles,Russia,Straits Settlement
+365,827,1923,0,1000,Rubles,Russia,Straits Settlement
+365,827,1924,0,1000,Rubles,Russia,Straits Settlement
+365,827,1925,0,1000,Rubles,Russia,Straits Settlement
+365,827,1926,0,1000,Rubles,Russia,Straits Settlement
+365,827,1927,0,1000,Rubles,Russia,Straits Settlement
+365,827,1928,0,1000,Rubles,Russia,Straits Settlement
+365,827,1929,18645,1000,Rubles,Russia,Straits Settlement
+365,827,1930,23138,1000,Rubles,Russia,Straits Settlement
+365,827,1931,6785,1000,Rubles,Russia,Straits Settlement
+365,827,1932,5688,1000,Rubles,Russia,Straits Settlement
+365,827,1933,178,1000,Rubles,Russia,Straits Settlement
+365,827,1934,30923,1000,Rubles,Russia,Straits Settlement
+365,827,1935,39627,1000,Rubles,Russia,Straits Settlement
+365,827,1936,46940,1000,Rubles,Russia,Straits Settlement
+365,827,1937,48321,1000,Rubles,Russia,Straits Settlement
+365,827,1938,20764,1000,Rubles,Russia,Straits Settlement
+365,827,1939,26350,1000,Rubles,Russia,Straits Settlement
+365,827,1940,8232,1000,Rubles,Russia,Straits Settlement
+365,830,1913,14,1000,Rubles,Russia,Singapore
+365,830,1918,0,1000,Rubles,Russia,Singapore
+365,830,1919,0,1000,Rubles,Russia,Singapore
+365,830,1920,0,1000,Rubles,Russia,Singapore
+365,830,1921,0,1000,Rubles,Russia,Singapore
+365,830,1922,0,1000,Rubles,Russia,Singapore
+365,830,1923,0,1000,Rubles,Russia,Singapore
+365,830,1924,35,1000,Rubles,Russia,Singapore
+365,830,1925,342,1000,Rubles,Russia,Singapore
+365,830,1926,10,1000,Rubles,Russia,Singapore
+365,830,1927,317,1000,Rubles,Russia,Singapore
+365,830,1928,962,1000,Rubles,Russia,Singapore
+365,830,1929,0,1000,Rubles,Russia,Singapore
+365,830,1930,0,1000,Rubles,Russia,Singapore
+365,830,1931,0,1000,Rubles,Russia,Singapore
+365,830,1932,0,1000,Rubles,Russia,Singapore
+365,830,1933,0,1000,Rubles,Russia,Singapore
+365,830,1934,0,1000,Rubles,Russia,Singapore
+365,830,1935,77,1000,Rubles,Russia,Singapore
+365,830,1936,0,1000,Rubles,Russia,Singapore
+365,830,1937,0,1000,Rubles,Russia,Singapore
+365,830,1938,0,1000,Rubles,Russia,Singapore
+365,830,1939,60,1000,Rubles,Russia,Singapore
+365,830,1940,17,1000,Rubles,Russia,Singapore
+365,840,1913,0,1000,Rubles,Russia,Philippines
+365,840,1918,0,1000,Rubles,Russia,Philippines
+365,840,1919,0,1000,Rubles,Russia,Philippines
+365,840,1920,0,1000,Rubles,Russia,Philippines
+365,840,1921,0,1000,Rubles,Russia,Philippines
+365,840,1922,0,1000,Rubles,Russia,Philippines
+365,840,1923,0,1000,Rubles,Russia,Philippines
+365,840,1924,0,1000,Rubles,Russia,Philippines
+365,840,1925,7,1000,Rubles,Russia,Philippines
+365,840,1926,0,1000,Rubles,Russia,Philippines
+365,840,1927,31,1000,Rubles,Russia,Philippines
+365,840,1928,0,1000,Rubles,Russia,Philippines
+365,840,1929,335,1000,Rubles,Russia,Philippines
+365,840,1930,4447,1000,Rubles,Russia,Philippines
+365,840,1931,3025,1000,Rubles,Russia,Philippines
+365,840,1932,167,1000,Rubles,Russia,Philippines
+365,840,1933,77,1000,Rubles,Russia,Philippines
+365,840,1934,0,1000,Rubles,Russia,Philippines
+365,840,1935,0,1000,Rubles,Russia,Philippines
+365,840,1936,0,1000,Rubles,Russia,Philippines
+365,840,1937,0,1000,Rubles,Russia,Philippines
+365,840,1938,11,1000,Rubles,Russia,Philippines
+365,840,1939,0,1000,Rubles,Russia,Philippines
+365,840,1940,0,1000,Rubles,Russia,Philippines
+365,900,1913,1276,1000,Rubles,Russia,Australia
+365,900,1918,0,1000,Rubles,Russia,Australia
+365,900,1919,0,1000,Rubles,Russia,Australia
+365,900,1920,0,1000,Rubles,Russia,Australia
+365,900,1921,0,1000,Rubles,Russia,Australia
+365,900,1922,31,1000,Rubles,Russia,Australia
+365,900,1923,265,1000,Rubles,Russia,Australia
+365,900,1924,7106,1000,Rubles,Russia,Australia
+365,900,1925,104103,1000,Rubles,Russia,Australia
+365,900,1926,58564,1000,Rubles,Russia,Australia
+365,900,1927,54308,1000,Rubles,Russia,Australia
+365,900,1928,101235,1000,Rubles,Russia,Australia
+365,900,1929,60843,1000,Rubles,Russia,Australia
+365,900,1930,42396,1000,Rubles,Russia,Australia
+365,900,1931,10668,1000,Rubles,Russia,Australia
+365,900,1932,20426,1000,Rubles,Russia,Australia
+365,900,1933,383,1000,Rubles,Russia,Australia
+365,900,1934,6231,1000,Rubles,Russia,Australia
+365,900,1935,15589,1000,Rubles,Russia,Australia
+365,900,1936,19868,1000,Rubles,Russia,Australia
+365,900,1937,24424,1000,Rubles,Russia,Australia
+365,900,1938,38381,1000,Rubles,Russia,Australia
+365,900,1939,13282,1000,Rubles,Russia,Australia
+365,900,1940,0,1000,Rubles,Russia,Australia
+365,920,1913,0,1000,Rubles,Russia,New Zealand
+365,920,1918,0,1000,Rubles,Russia,New Zealand
+365,920,1919,0,1000,Rubles,Russia,New Zealand
+365,920,1920,0,1000,Rubles,Russia,New Zealand
+365,920,1921,0,1000,Rubles,Russia,New Zealand
+365,920,1922,0,1000,Rubles,Russia,New Zealand
+365,920,1923,0,1000,Rubles,Russia,New Zealand
+365,920,1924,0,1000,Rubles,Russia,New Zealand
+365,920,1925,77,1000,Rubles,Russia,New Zealand
+365,920,1926,45,1000,Rubles,Russia,New Zealand
+365,920,1927,2649,1000,Rubles,Russia,New Zealand
+365,920,1928,1966,1000,Rubles,Russia,New Zealand
+365,920,1929,6420,1000,Rubles,Russia,New Zealand
+365,920,1930,3293,1000,Rubles,Russia,New Zealand
+365,920,1931,5695,1000,Rubles,Russia,New Zealand
+365,920,1932,35,1000,Rubles,Russia,New Zealand
+365,920,1933,1,1000,Rubles,Russia,New Zealand
+365,920,1934,24,1000,Rubles,Russia,New Zealand
+365,920,1935,4053,1000,Rubles,Russia,New Zealand
+365,920,1936,3083,1000,Rubles,Russia,New Zealand
+365,920,1937,10493,1000,Rubles,Russia,New Zealand
+365,920,1938,9268,1000,Rubles,Russia,New Zealand
+365,920,1939,5324,1000,Rubles,Russia,New Zealand
+365,920,1940,0,1000,Rubles,Russia,New Zealand
+365,8501,1913,1348,1000,Rubles,Russia,Java
+365,8501,1918,0,1000,Rubles,Russia,Java
+365,8501,1919,0,1000,Rubles,Russia,Java
+365,8501,1920,0,1000,Rubles,Russia,Java
+365,8501,1921,0,1000,Rubles,Russia,Java
+365,8501,1922,0,1000,Rubles,Russia,Java
+365,8501,1923,42,1000,Rubles,Russia,Java
+365,8501,1924,21,1000,Rubles,Russia,Java
+365,8501,1925,1174,1000,Rubles,Russia,Java
+365,8501,1926,1115,1000,Rubles,Russia,Java
+365,8501,1927,728,1000,Rubles,Russia,Java
+365,8501,1928,1310,1000,Rubles,Russia,Java
+365,8501,1929,5350,1000,Rubles,Russia,Java
+365,8501,1930,6172,1000,Rubles,Russia,Java
+365,8501,1931,2603,1000,Rubles,Russia,Java
+365,8501,1932,4684,1000,Rubles,Russia,Java
+365,8501,1933,4060,1000,Rubles,Russia,Java
+365,8501,1934,12064,1000,Rubles,Russia,Java
+365,8501,1935,5599,1000,Rubles,Russia,Java
+365,8501,1936,6834,1000,Rubles,Russia,Java
+365,8501,1937,10136,1000,Rubles,Russia,Java
+365,8501,1938,5584,1000,Rubles,Russia,Java
+365,8501,1939,4366,1000,Rubles,Russia,Java
+365,8501,1940,5,1000,Rubles,Russia,Java
+365,8502,1913,0,1000,Rubles,Russia,Sumatra
+365,8502,1918,0,1000,Rubles,Russia,Sumatra
+365,8502,1919,0,1000,Rubles,Russia,Sumatra
+365,8502,1920,0,1000,Rubles,Russia,Sumatra
+365,8502,1921,0,1000,Rubles,Russia,Sumatra
+365,8502,1922,0,1000,Rubles,Russia,Sumatra
+365,8502,1923,0,1000,Rubles,Russia,Sumatra
+365,8502,1924,0,1000,Rubles,Russia,Sumatra
+365,8502,1925,0,1000,Rubles,Russia,Sumatra
+365,8502,1926,21,1000,Rubles,Russia,Sumatra
+365,8502,1927,0,1000,Rubles,Russia,Sumatra
+365,8502,1928,2805,1000,Rubles,Russia,Sumatra
+365,8502,1929,10,1000,Rubles,Russia,Sumatra
+365,8502,1930,0,1000,Rubles,Russia,Sumatra
+365,8502,1931,66,1000,Rubles,Russia,Sumatra
+365,8502,1932,14,1000,Rubles,Russia,Sumatra
+365,8502,1933,0,1000,Rubles,Russia,Sumatra
+365,8502,1934,209,1000,Rubles,Russia,Sumatra
+365,8502,1935,20,1000,Rubles,Russia,Sumatra
+365,8502,1936,213,1000,Rubles,Russia,Sumatra
+365,8502,1937,331,1000,Rubles,Russia,Sumatra
+365,8502,1938,382,1000,Rubles,Russia,Sumatra
+365,8502,1939,470,1000,Rubles,Russia,Sumatra
+365,8502,1940,1934,1000,Rubles,Russia,Sumatra
+365,,1913,4816944,1000,Rubles,Russia,
+365,,1918,140900,1000,Rubles,Russia,
+365,,1919,2829,1000,Rubles,Russia,
+365,,1920,88657,1000,Rubles,Russia,
+365,,1921,699614,1000,Rubles,Russia,
+365,,1922,857972,1000,Rubles,Russia,
+365,,1923,477964,1000,Rubles,Russia,
+365,,1924,797850,1000,Rubles,Russia,
+365,,1925,2513122,1000,Rubles,Russia,
+365,,1926,2613381,1000,Rubles,Russia,
+365,,1927,2487648,1000,Rubles,Russia,
+365,,1928,3293142,1000,Rubles,Russia,
+365,,1929,3050097.3,1000,Rubles,Russia,
+365,,1930,3713197,1000,Rubles,Russia,
+365,,1931,3930950.3,1000,Rubles,Russia,
+365,,1932,2509583.3,1000,Rubles,Russia,
+365,,1933,1284083,1000,Rubles,Russia,
+365,,1934,911930.3,1000,Rubles,Russia,
+365,,1935,887993,1000,Rubles,Russia,
+365,,1936,1122619,1000,Rubles,Russia,
+365,,1937,1118098,1000,Rubles,Russia,
+365,,1938,1192271,1000,Rubles,Russia,
+365,,1939,797361,1000,Rubles,Russia,
+365,,1940,1034252,1000,Rubles,Russia,

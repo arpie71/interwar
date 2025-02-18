@@ -1,0 +1,2049 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+145,2,1916,9394797,1,,Bolivia,United States
+145,2,1917,11167398,1,,Bolivia,United States
+145,2,1918,11311209,1,,Bolivia,United States
+145,2,1919,14824466,1,,Bolivia,United States
+145,2,1920,19727655,1,,Bolivia,United States
+145,2,1921,20120479,1,,Bolivia,United States
+145,2,1922,11932033,1,,Bolivia,United States
+145,2,1923,15391883,1,,Bolivia,United States
+145,2,1924,17941605.16,1,,Bolivia,United States
+145,2,1925,18338874.66,1,,Bolivia,United States
+145,2,1926,20401605.26,1,Bolivars,Bolivia,United States
+145,2,1927,19073052.34,1,Bolivars,Bolivia,United States
+145,2,1928,19411111,1,Bolivars,Bolivia,United States
+145,2,1929,24082246,1,Bolivars,Bolivia,United States
+145,2,1930,16165079,1,Bolivars,Bolivia,United States
+145,2,1931,7515112,1,Bolivars,Bolivia,United States
+145,2,1932,5381897,1,Bolivars,Bolivia,United States
+145,2,1933,12446267,1,Bolivars,Bolivia,United States
+145,2,1934,24508169,1,Bolivars,Bolivia,United States
+145,2,1935,17664946,1,Bolivars,Bolivia,United States
+145,2,1936,16196183,1,Bolivars,Bolivia,United States
+145,2,1937,16428890,1,Bolivars,Bolivia,United States
+145,2,1938,17960602,1,Bolivares 18 P,Bolivia,United States
+145,2,1939,14671263,1,Bolivares 18 P,Bolivia,United States
+145,2,1940,49227479,1,Bolivares 18 P,Bolivia,United States
+145,2,1941,43131390,1,Bolivares 18 D.,Bolivia,United States
+145,2,1942,49856533,1,Bolivares 18 D.,Bolivia,United States
+145,2,1944,47006393,1,Bolivares 18 D.,Bolivia,United States
+145,2,1946,63186824,1,Bolivares 18 D.,Bolivia,United States
+145,2,1947,29434340,1,Us $,Bolivia,United States
+145,2,1948,33777067,1,Us $,Bolivia,United States
+145,2,1949,40958341,1,Us $,Bolivia,United States
+145,6,1916,0,1,,Bolivia,Puerto Rico
+145,6,1917,0,1,,Bolivia,Puerto Rico
+145,6,1918,0,1,,Bolivia,Puerto Rico
+145,6,1919,0,1,,Bolivia,Puerto Rico
+145,6,1920,0,1,,Bolivia,Puerto Rico
+145,6,1921,0,1,,Bolivia,Puerto Rico
+145,6,1922,0,1,,Bolivia,Puerto Rico
+145,6,1923,0,1,,Bolivia,Puerto Rico
+145,6,1924,0,1,,Bolivia,Puerto Rico
+145,6,1925,0,1,,Bolivia,Puerto Rico
+145,6,1926,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1927,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1928,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1929,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1930,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1931,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1932,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1933,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1934,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1935,2028,1,Bolivars,Bolivia,Puerto Rico
+145,6,1936,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1937,0,1,Bolivars,Bolivia,Puerto Rico
+145,6,1938,0,1,Bolivares 18 P,Bolivia,Puerto Rico
+145,6,1939,0,1,Bolivares 18 P,Bolivia,Puerto Rico
+145,6,1940,0,1,Bolivares 18 P,Bolivia,Puerto Rico
+145,6,1941,0,1,Bolivares 18 D.,Bolivia,Puerto Rico
+145,6,1942,0,1,Bolivares 18 D.,Bolivia,Puerto Rico
+145,6,1944,0,1,Bolivares 18 D.,Bolivia,Puerto Rico
+145,6,1946,0,1,Bolivares 18 D.,Bolivia,Puerto Rico
+145,6,1947,18,1,Us $,Bolivia,Puerto Rico
+145,6,1948,0,1,Us $,Bolivia,Puerto Rico
+145,6,1949,0,1,Us $,Bolivia,Puerto Rico
+145,20,1916,0,1,,Bolivia,Canada
+145,20,1917,0,1,,Bolivia,Canada
+145,20,1918,0,1,,Bolivia,Canada
+145,20,1919,877,1,,Bolivia,Canada
+145,20,1920,53,1,,Bolivia,Canada
+145,20,1921,1074,1,,Bolivia,Canada
+145,20,1922,0,1,,Bolivia,Canada
+145,20,1923,3448,1,,Bolivia,Canada
+145,20,1924,5113.99,1,,Bolivia,Canada
+145,20,1925,442.5,1,,Bolivia,Canada
+145,20,1926,3497.87,1,Bolivars,Bolivia,Canada
+145,20,1927,762.37,1,Bolivars,Bolivia,Canada
+145,20,1928,7260,1,Bolivars,Bolivia,Canada
+145,20,1929,7905,1,Bolivars,Bolivia,Canada
+145,20,1930,27413,1,Bolivars,Bolivia,Canada
+145,20,1931,156280,1,Bolivars,Bolivia,Canada
+145,20,1932,560,1,Bolivars,Bolivia,Canada
+145,20,1933,6496,1,Bolivars,Bolivia,Canada
+145,20,1934,1819,1,Bolivars,Bolivia,Canada
+145,20,1935,84174,1,Bolivars,Bolivia,Canada
+145,20,1936,70263,1,Bolivars,Bolivia,Canada
+145,20,1937,13190,1,Bolivars,Bolivia,Canada
+145,20,1938,7191,1,Bolivares 18 P,Bolivia,Canada
+145,20,1939,3036,1,Bolivares 18 P,Bolivia,Canada
+145,20,1940,19586,1,Bolivares 18 P,Bolivia,Canada
+145,20,1941,48399,1,Bolivares 18 D.,Bolivia,Canada
+145,20,1942,17026,1,Bolivares 18 D.,Bolivia,Canada
+145,20,1944,24299,1,Bolivares 18 D.,Bolivia,Canada
+145,20,1946,115708,1,Bolivares 18 D.,Bolivia,Canada
+145,20,1947,71306,1,Us $,Bolivia,Canada
+145,20,1948,171526,1,Us $,Bolivia,Canada
+145,20,1949,350272,1,Us $,Bolivia,Canada
+145,40,1916,13415,1,,Bolivia,Cuba
+145,40,1917,9402,1,,Bolivia,Cuba
+145,40,1918,13580,1,,Bolivia,Cuba
+145,40,1919,48918,1,,Bolivia,Cuba
+145,40,1920,60102,1,,Bolivia,Cuba
+145,40,1921,115975,1,,Bolivia,Cuba
+145,40,1922,52764,1,,Bolivia,Cuba
+145,40,1923,29818,1,,Bolivia,Cuba
+145,40,1924,83845.28999999999,1,,Bolivia,Cuba
+145,40,1925,26450.14,1,,Bolivia,Cuba
+145,40,1926,38667.73,1,Bolivars,Bolivia,Cuba
+145,40,1927,34566.81,1,Bolivars,Bolivia,Cuba
+145,40,1928,17650,1,Bolivars,Bolivia,Cuba
+145,40,1929,51277,1,Bolivars,Bolivia,Cuba
+145,40,1930,26732,1,Bolivars,Bolivia,Cuba
+145,40,1931,4456,1,Bolivars,Bolivia,Cuba
+145,40,1932,13605,1,Bolivars,Bolivia,Cuba
+145,40,1933,3959,1,Bolivars,Bolivia,Cuba
+145,40,1934,6256,1,Bolivars,Bolivia,Cuba
+145,40,1935,7001,1,Bolivars,Bolivia,Cuba
+145,40,1936,3214,1,Bolivars,Bolivia,Cuba
+145,40,1937,3644,1,Bolivars,Bolivia,Cuba
+145,40,1938,9982,1,Bolivares 18 P,Bolivia,Cuba
+145,40,1939,8076,1,Bolivares 18 P,Bolivia,Cuba
+145,40,1940,5665,1,Bolivares 18 P,Bolivia,Cuba
+145,40,1941,17318,1,Bolivares 18 D.,Bolivia,Cuba
+145,40,1942,13527,1,Bolivares 18 D.,Bolivia,Cuba
+145,40,1944,25219,1,Bolivares 18 D.,Bolivia,Cuba
+145,40,1946,4651374,1,Bolivares 18 D.,Bolivia,Cuba
+145,40,1947,22702,1,Us $,Bolivia,Cuba
+145,40,1948,861615,1,Us $,Bolivia,Cuba
+145,40,1949,49749,1,Us $,Bolivia,Cuba
+145,41,1916,0,1,,Bolivia,Haiti
+145,41,1917,0,1,,Bolivia,Haiti
+145,41,1918,0,1,,Bolivia,Haiti
+145,41,1919,0,1,,Bolivia,Haiti
+145,41,1920,0,1,,Bolivia,Haiti
+145,41,1921,0,1,,Bolivia,Haiti
+145,41,1922,0,1,,Bolivia,Haiti
+145,41,1923,0,1,,Bolivia,Haiti
+145,41,1924,0,1,,Bolivia,Haiti
+145,41,1925,0,1,,Bolivia,Haiti
+145,41,1926,0,1,Bolivars,Bolivia,Haiti
+145,41,1927,0,1,Bolivars,Bolivia,Haiti
+145,41,1928,547,1,Bolivars,Bolivia,Haiti
+145,41,1929,0,1,Bolivars,Bolivia,Haiti
+145,41,1930,0,1,Bolivars,Bolivia,Haiti
+145,41,1931,0,1,Bolivars,Bolivia,Haiti
+145,41,1932,0,1,Bolivars,Bolivia,Haiti
+145,41,1933,0,1,Bolivars,Bolivia,Haiti
+145,41,1934,0,1,Bolivars,Bolivia,Haiti
+145,41,1935,0,1,Bolivars,Bolivia,Haiti
+145,41,1936,0,1,Bolivars,Bolivia,Haiti
+145,41,1937,0,1,Bolivars,Bolivia,Haiti
+145,41,1938,0,1,Bolivares 18 P,Bolivia,Haiti
+145,41,1939,0,1,Bolivares 18 P,Bolivia,Haiti
+145,41,1940,0,1,Bolivares 18 P,Bolivia,Haiti
+145,41,1941,35116,1,Bolivares 18 D.,Bolivia,Haiti
+145,41,1942,2490,1,Bolivares 18 D.,Bolivia,Haiti
+145,41,1944,0,1,Bolivares 18 D.,Bolivia,Haiti
+145,41,1946,0,1,Bolivares 18 D.,Bolivia,Haiti
+145,41,1947,0,1,Us $,Bolivia,Haiti
+145,41,1948,0,1,Us $,Bolivia,Haiti
+145,41,1949,1677,1,Us $,Bolivia,Haiti
+145,51,1916,0,1,,Bolivia,Jamaica
+145,51,1917,0,1,,Bolivia,Jamaica
+145,51,1918,0,1,,Bolivia,Jamaica
+145,51,1919,529,1,,Bolivia,Jamaica
+145,51,1920,0,1,,Bolivia,Jamaica
+145,51,1921,0,1,,Bolivia,Jamaica
+145,51,1922,73,1,,Bolivia,Jamaica
+145,51,1923,30,1,,Bolivia,Jamaica
+145,51,1924,0,1,,Bolivia,Jamaica
+145,51,1925,0,1,,Bolivia,Jamaica
+145,51,1926,0,1,Bolivars,Bolivia,Jamaica
+145,51,1927,0,1,Bolivars,Bolivia,Jamaica
+145,51,1928,0,1,Bolivars,Bolivia,Jamaica
+145,51,1929,0,1,Bolivars,Bolivia,Jamaica
+145,51,1930,0,1,Bolivars,Bolivia,Jamaica
+145,51,1931,0,1,Bolivars,Bolivia,Jamaica
+145,51,1932,0,1,Bolivars,Bolivia,Jamaica
+145,51,1933,0,1,Bolivars,Bolivia,Jamaica
+145,51,1934,0,1,Bolivars,Bolivia,Jamaica
+145,51,1935,0,1,Bolivars,Bolivia,Jamaica
+145,51,1936,0,1,Bolivars,Bolivia,Jamaica
+145,51,1937,0,1,Bolivars,Bolivia,Jamaica
+145,51,1938,0,1,Bolivares 18 P,Bolivia,Jamaica
+145,51,1939,0,1,Bolivares 18 P,Bolivia,Jamaica
+145,51,1940,0,1,Bolivares 18 P,Bolivia,Jamaica
+145,51,1941,0,1,Bolivares 18 D.,Bolivia,Jamaica
+145,51,1942,0,1,Bolivares 18 D.,Bolivia,Jamaica
+145,51,1944,0,1,Bolivares 18 D.,Bolivia,Jamaica
+145,51,1946,0,1,Bolivares 18 D.,Bolivia,Jamaica
+145,51,1947,0,1,Us $,Bolivia,Jamaica
+145,51,1948,0,1,Us $,Bolivia,Jamaica
+145,51,1949,274,1,Us $,Bolivia,Jamaica
+145,68,1916,0,1,,Bolivia,Netherlands Antilles
+145,68,1917,0,1,,Bolivia,Netherlands Antilles
+145,68,1918,0,1,,Bolivia,Netherlands Antilles
+145,68,1919,0,1,,Bolivia,Netherlands Antilles
+145,68,1920,0,1,,Bolivia,Netherlands Antilles
+145,68,1921,0,1,,Bolivia,Netherlands Antilles
+145,68,1922,0,1,,Bolivia,Netherlands Antilles
+145,68,1923,0,1,,Bolivia,Netherlands Antilles
+145,68,1924,0,1,,Bolivia,Netherlands Antilles
+145,68,1925,0,1,,Bolivia,Netherlands Antilles
+145,68,1926,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1927,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1928,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1929,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1930,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1931,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1932,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1933,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1934,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1935,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1936,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1937,0,1,Bolivars,Bolivia,Netherlands Antilles
+145,68,1938,0,1,Bolivares 18 P,Bolivia,Netherlands Antilles
+145,68,1939,0,1,Bolivares 18 P,Bolivia,Netherlands Antilles
+145,68,1940,0,1,Bolivares 18 P,Bolivia,Netherlands Antilles
+145,68,1941,0,1,Bolivares 18 D.,Bolivia,Netherlands Antilles
+145,68,1942,0,1,Bolivares 18 D.,Bolivia,Netherlands Antilles
+145,68,1944,0,1,Bolivares 18 D.,Bolivia,Netherlands Antilles
+145,68,1946,161104,1,Bolivares 18 D.,Bolivia,Netherlands Antilles
+145,68,1947,120004,1,Us $,Bolivia,Netherlands Antilles
+145,68,1948,647501,1,Us $,Bolivia,Netherlands Antilles
+145,68,1949,934661,1,Us $,Bolivia,Netherlands Antilles
+145,70,1916,0,1,,Bolivia,Mexico
+145,70,1917,0,1,,Bolivia,Mexico
+145,70,1918,0,1,,Bolivia,Mexico
+145,70,1919,0,1,,Bolivia,Mexico
+145,70,1920,0,1,,Bolivia,Mexico
+145,70,1921,0,1,,Bolivia,Mexico
+145,70,1922,92343,1,,Bolivia,Mexico
+145,70,1923,5912,1,,Bolivia,Mexico
+145,70,1924,0,1,,Bolivia,Mexico
+145,70,1925,12938.08,1,,Bolivia,Mexico
+145,70,1926,15524.69,1,Bolivars,Bolivia,Mexico
+145,70,1927,3848.75,1,Bolivars,Bolivia,Mexico
+145,70,1928,9574,1,Bolivars,Bolivia,Mexico
+145,70,1929,50,1,Bolivars,Bolivia,Mexico
+145,70,1930,154,1,Bolivars,Bolivia,Mexico
+145,70,1931,13056,1,Bolivars,Bolivia,Mexico
+145,70,1932,33530,1,Bolivars,Bolivia,Mexico
+145,70,1933,4,1,Bolivars,Bolivia,Mexico
+145,70,1934,3066,1,Bolivars,Bolivia,Mexico
+145,70,1935,238,1,Bolivars,Bolivia,Mexico
+145,70,1936,6461,1,Bolivars,Bolivia,Mexico
+145,70,1937,1244,1,Bolivars,Bolivia,Mexico
+145,70,1938,1428,1,Bolivares 18 P,Bolivia,Mexico
+145,70,1939,5845,1,Bolivares 18 P,Bolivia,Mexico
+145,70,1940,14969,1,Bolivares 18 P,Bolivia,Mexico
+145,70,1941,109333,1,Bolivares 18 D.,Bolivia,Mexico
+145,70,1942,181978,1,Bolivares 18 D.,Bolivia,Mexico
+145,70,1944,644131,1,Bolivares 18 D.,Bolivia,Mexico
+145,70,1946,1545365,1,Bolivares 18 D.,Bolivia,Mexico
+145,70,1947,822207,1,Us $,Bolivia,Mexico
+145,70,1948,371968,1,Us $,Bolivia,Mexico
+145,70,1949,318107,1,Us $,Bolivia,Mexico
+145,90,1916,0,1,,Bolivia,Guatemala
+145,90,1917,0,1,,Bolivia,Guatemala
+145,90,1918,0,1,,Bolivia,Guatemala
+145,90,1919,0,1,,Bolivia,Guatemala
+145,90,1920,0,1,,Bolivia,Guatemala
+145,90,1921,0,1,,Bolivia,Guatemala
+145,90,1922,0,1,,Bolivia,Guatemala
+145,90,1923,0,1,,Bolivia,Guatemala
+145,90,1924,63.4,1,,Bolivia,Guatemala
+145,90,1925,0,1,,Bolivia,Guatemala
+145,90,1926,0,1,Bolivars,Bolivia,Guatemala
+145,90,1927,0,1,Bolivars,Bolivia,Guatemala
+145,90,1928,0,1,Bolivars,Bolivia,Guatemala
+145,90,1929,0,1,Bolivars,Bolivia,Guatemala
+145,90,1930,0,1,Bolivars,Bolivia,Guatemala
+145,90,1931,0,1,Bolivars,Bolivia,Guatemala
+145,90,1932,0,1,Bolivars,Bolivia,Guatemala
+145,90,1933,0,1,Bolivars,Bolivia,Guatemala
+145,90,1934,0,1,Bolivars,Bolivia,Guatemala
+145,90,1935,0,1,Bolivars,Bolivia,Guatemala
+145,90,1936,0,1,Bolivars,Bolivia,Guatemala
+145,90,1937,0,1,Bolivars,Bolivia,Guatemala
+145,90,1938,3278,1,Bolivares 18 P,Bolivia,Guatemala
+145,90,1939,72,1,Bolivares 18 P,Bolivia,Guatemala
+145,90,1940,0,1,Bolivares 18 P,Bolivia,Guatemala
+145,90,1941,136,1,Bolivares 18 D.,Bolivia,Guatemala
+145,90,1942,0,1,Bolivares 18 D.,Bolivia,Guatemala
+145,90,1944,2103,1,Bolivares 18 D.,Bolivia,Guatemala
+145,90,1946,282,1,Bolivares 18 D.,Bolivia,Guatemala
+145,90,1947,500,1,Us $,Bolivia,Guatemala
+145,90,1948,5,1,Us $,Bolivia,Guatemala
+145,90,1949,1050,1,Us $,Bolivia,Guatemala
+145,91,1916,0,1,,Bolivia,Honduras
+145,91,1917,0,1,,Bolivia,Honduras
+145,91,1918,0,1,,Bolivia,Honduras
+145,91,1919,0,1,,Bolivia,Honduras
+145,91,1920,0,1,,Bolivia,Honduras
+145,91,1921,0,1,,Bolivia,Honduras
+145,91,1922,0,1,,Bolivia,Honduras
+145,91,1923,2604,1,,Bolivia,Honduras
+145,91,1924,0,1,,Bolivia,Honduras
+145,91,1925,0,1,,Bolivia,Honduras
+145,91,1926,0,1,Bolivars,Bolivia,Honduras
+145,91,1927,0,1,Bolivars,Bolivia,Honduras
+145,91,1928,0,1,Bolivars,Bolivia,Honduras
+145,91,1929,0,1,Bolivars,Bolivia,Honduras
+145,91,1930,0,1,Bolivars,Bolivia,Honduras
+145,91,1931,0,1,Bolivars,Bolivia,Honduras
+145,91,1932,0,1,Bolivars,Bolivia,Honduras
+145,91,1933,0,1,Bolivars,Bolivia,Honduras
+145,91,1934,0,1,Bolivars,Bolivia,Honduras
+145,91,1935,24,1,Bolivars,Bolivia,Honduras
+145,91,1936,0,1,Bolivars,Bolivia,Honduras
+145,91,1937,0,1,Bolivars,Bolivia,Honduras
+145,91,1938,0,1,Bolivares 18 P,Bolivia,Honduras
+145,91,1939,0,1,Bolivares 18 P,Bolivia,Honduras
+145,91,1940,34,1,Bolivares 18 P,Bolivia,Honduras
+145,91,1941,0,1,Bolivares 18 D.,Bolivia,Honduras
+145,91,1942,0,1,Bolivares 18 D.,Bolivia,Honduras
+145,91,1944,0,1,Bolivares 18 D.,Bolivia,Honduras
+145,91,1946,0,1,Bolivares 18 D.,Bolivia,Honduras
+145,91,1947,14,1,Us $,Bolivia,Honduras
+145,91,1948,0,1,Us $,Bolivia,Honduras
+145,91,1949,0,1,Us $,Bolivia,Honduras
+145,92,1916,0,1,,Bolivia,El Salvador
+145,92,1917,672,1,,Bolivia,El Salvador
+145,92,1918,4166,1,,Bolivia,El Salvador
+145,92,1919,10479,1,,Bolivia,El Salvador
+145,92,1920,5175,1,,Bolivia,El Salvador
+145,92,1921,32112,1,,Bolivia,El Salvador
+145,92,1922,52401,1,,Bolivia,El Salvador
+145,92,1923,27493,1,,Bolivia,El Salvador
+145,92,1924,31884.72,1,,Bolivia,El Salvador
+145,92,1925,9251.1,1,,Bolivia,El Salvador
+145,92,1926,32592.6,1,Bolivars,Bolivia,El Salvador
+145,92,1927,6376.39,1,Bolivars,Bolivia,El Salvador
+145,92,1928,32200,1,Bolivars,Bolivia,El Salvador
+145,92,1929,4557,1,Bolivars,Bolivia,El Salvador
+145,92,1930,28068,1,Bolivars,Bolivia,El Salvador
+145,92,1931,16670,1,Bolivars,Bolivia,El Salvador
+145,92,1932,0,1,Bolivars,Bolivia,El Salvador
+145,92,1933,1553,1,Bolivars,Bolivia,El Salvador
+145,92,1934,8255,1,Bolivars,Bolivia,El Salvador
+145,92,1935,5297,1,Bolivars,Bolivia,El Salvador
+145,92,1936,8608,1,Bolivars,Bolivia,El Salvador
+145,92,1937,2212,1,Bolivars,Bolivia,El Salvador
+145,92,1938,6940,1,Bolivares 18 P,Bolivia,El Salvador
+145,92,1939,3206,1,Bolivares 18 P,Bolivia,El Salvador
+145,92,1940,17244,1,Bolivares 18 P,Bolivia,El Salvador
+145,92,1941,16152,1,Bolivares 18 D.,Bolivia,El Salvador
+145,92,1942,13717,1,Bolivares 18 D.,Bolivia,El Salvador
+145,92,1944,12712,1,Bolivares 18 D.,Bolivia,El Salvador
+145,92,1946,12618,1,Bolivares 18 D.,Bolivia,El Salvador
+145,92,1947,7482,1,Us $,Bolivia,El Salvador
+145,92,1948,11966,1,Us $,Bolivia,El Salvador
+145,92,1949,4265,1,Us $,Bolivia,El Salvador
+145,93,1916,0,1,,Bolivia,Nicaragua
+145,93,1917,0,1,,Bolivia,Nicaragua
+145,93,1918,0,1,,Bolivia,Nicaragua
+145,93,1919,0,1,,Bolivia,Nicaragua
+145,93,1920,0,1,,Bolivia,Nicaragua
+145,93,1921,0,1,,Bolivia,Nicaragua
+145,93,1922,0,1,,Bolivia,Nicaragua
+145,93,1923,0,1,,Bolivia,Nicaragua
+145,93,1924,0,1,,Bolivia,Nicaragua
+145,93,1925,0,1,,Bolivia,Nicaragua
+145,93,1926,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1927,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1928,222,1,Bolivars,Bolivia,Nicaragua
+145,93,1929,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1930,12232,1,Bolivars,Bolivia,Nicaragua
+145,93,1931,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1932,781,1,Bolivars,Bolivia,Nicaragua
+145,93,1933,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1934,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1935,4325,1,Bolivars,Bolivia,Nicaragua
+145,93,1936,17,1,Bolivars,Bolivia,Nicaragua
+145,93,1937,0,1,Bolivars,Bolivia,Nicaragua
+145,93,1938,0,1,Bolivares 18 P,Bolivia,Nicaragua
+145,93,1939,2801,1,Bolivares 18 P,Bolivia,Nicaragua
+145,93,1940,0,1,Bolivares 18 P,Bolivia,Nicaragua
+145,93,1941,0,1,Bolivares 18 D.,Bolivia,Nicaragua
+145,93,1942,361,1,Bolivares 18 D.,Bolivia,Nicaragua
+145,93,1944,0,1,Bolivares 18 D.,Bolivia,Nicaragua
+145,93,1946,0,1,Bolivares 18 D.,Bolivia,Nicaragua
+145,93,1947,0,1,Us $,Bolivia,Nicaragua
+145,93,1948,270,1,Us $,Bolivia,Nicaragua
+145,93,1949,0,1,Us $,Bolivia,Nicaragua
+145,94,1916,0,1,,Bolivia,Costa Rica
+145,94,1917,0,1,,Bolivia,Costa Rica
+145,94,1918,0,1,,Bolivia,Costa Rica
+145,94,1919,0,1,,Bolivia,Costa Rica
+145,94,1920,0,1,,Bolivia,Costa Rica
+145,94,1921,0,1,,Bolivia,Costa Rica
+145,94,1922,0,1,,Bolivia,Costa Rica
+145,94,1923,0,1,,Bolivia,Costa Rica
+145,94,1924,0,1,,Bolivia,Costa Rica
+145,94,1925,0,1,,Bolivia,Costa Rica
+145,94,1926,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1927,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1928,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1929,82,1,Bolivars,Bolivia,Costa Rica
+145,94,1930,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1931,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1932,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1933,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1934,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1935,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1936,0,1,Bolivars,Bolivia,Costa Rica
+145,94,1937,13,1,Bolivars,Bolivia,Costa Rica
+145,94,1938,0,1,Bolivares 18 P,Bolivia,Costa Rica
+145,94,1939,17,1,Bolivares 18 P,Bolivia,Costa Rica
+145,94,1940,37,1,Bolivares 18 P,Bolivia,Costa Rica
+145,94,1941,0,1,Bolivares 18 D.,Bolivia,Costa Rica
+145,94,1942,20,1,Bolivares 18 D.,Bolivia,Costa Rica
+145,94,1944,0,1,Bolivares 18 D.,Bolivia,Costa Rica
+145,94,1946,80,1,Bolivares 18 D.,Bolivia,Costa Rica
+145,94,1947,0,1,Us $,Bolivia,Costa Rica
+145,94,1948,0,1,Us $,Bolivia,Costa Rica
+145,94,1949,720,1,Us $,Bolivia,Costa Rica
+145,95,1916,5243,1,,Bolivia,Panama
+145,95,1917,58436,1,,Bolivia,Panama
+145,95,1918,0,1,,Bolivia,Panama
+145,95,1919,12,1,,Bolivia,Panama
+145,95,1920,5310,1,,Bolivia,Panama
+145,95,1921,10446,1,,Bolivia,Panama
+145,95,1922,44396,1,,Bolivia,Panama
+145,95,1923,16203,1,,Bolivia,Panama
+145,95,1924,10,1,,Bolivia,Panama
+145,95,1925,15730.21,1,,Bolivia,Panama
+145,95,1926,12463.47,1,Bolivars,Bolivia,Panama
+145,95,1927,35688.51,1,Bolivars,Bolivia,Panama
+145,95,1928,4789,1,Bolivars,Bolivia,Panama
+145,95,1929,7238,1,Bolivars,Bolivia,Panama
+145,95,1930,686,1,Bolivars,Bolivia,Panama
+145,95,1931,11087,1,Bolivars,Bolivia,Panama
+145,95,1932,45616,1,Bolivars,Bolivia,Panama
+145,95,1933,8655,1,Bolivars,Bolivia,Panama
+145,95,1934,356,1,Bolivars,Bolivia,Panama
+145,95,1935,34592,1,Bolivars,Bolivia,Panama
+145,95,1936,166317,1,Bolivars,Bolivia,Panama
+145,95,1937,54680,1,Bolivars,Bolivia,Panama
+145,95,1938,14491,1,Bolivares 18 P,Bolivia,Panama
+145,95,1939,31486,1,Bolivares 18 P,Bolivia,Panama
+145,95,1940,48821,1,Bolivares 18 P,Bolivia,Panama
+145,95,1941,63287,1,Bolivares 18 D.,Bolivia,Panama
+145,95,1942,105283,1,Bolivares 18 D.,Bolivia,Panama
+145,95,1944,53375,1,Bolivares 18 D.,Bolivia,Panama
+145,95,1946,360002,1,Bolivares 18 D.,Bolivia,Panama
+145,95,1947,77165,1,Us $,Bolivia,Panama
+145,95,1948,87628,1,Us $,Bolivia,Panama
+145,95,1949,119865,1,Us $,Bolivia,Panama
+145,100,1916,0,1,,Bolivia,Colombia
+145,100,1917,0,1,,Bolivia,Colombia
+145,100,1918,0,1,,Bolivia,Colombia
+145,100,1919,0,1,,Bolivia,Colombia
+145,100,1920,0,1,,Bolivia,Colombia
+145,100,1921,0,1,,Bolivia,Colombia
+145,100,1922,1247,1,,Bolivia,Colombia
+145,100,1923,0,1,,Bolivia,Colombia
+145,100,1924,60,1,,Bolivia,Colombia
+145,100,1925,0,1,,Bolivia,Colombia
+145,100,1926,0,1,Bolivars,Bolivia,Colombia
+145,100,1927,12,1,Bolivars,Bolivia,Colombia
+145,100,1928,1352,1,Bolivars,Bolivia,Colombia
+145,100,1929,1961,1,Bolivars,Bolivia,Colombia
+145,100,1930,0,1,Bolivars,Bolivia,Colombia
+145,100,1931,0,1,Bolivars,Bolivia,Colombia
+145,100,1932,586,1,Bolivars,Bolivia,Colombia
+145,100,1933,5075,1,Bolivars,Bolivia,Colombia
+145,100,1934,26575,1,Bolivars,Bolivia,Colombia
+145,100,1935,0,1,Bolivars,Bolivia,Colombia
+145,100,1936,75,1,Bolivars,Bolivia,Colombia
+145,100,1937,135,1,Bolivars,Bolivia,Colombia
+145,100,1938,63,1,Bolivares 18 P,Bolivia,Colombia
+145,100,1939,5168,1,Bolivares 18 P,Bolivia,Colombia
+145,100,1940,20554,1,Bolivares 18 P,Bolivia,Colombia
+145,100,1941,1794,1,Bolivares 18 D.,Bolivia,Colombia
+145,100,1942,104863,1,Bolivares 18 D.,Bolivia,Colombia
+145,100,1944,6095,1,Bolivares 18 D.,Bolivia,Colombia
+145,100,1946,258578,1,Bolivares 18 D.,Bolivia,Colombia
+145,100,1947,17856,1,Us $,Bolivia,Colombia
+145,100,1948,1228,1,Us $,Bolivia,Colombia
+145,100,1949,5478,1,Us $,Bolivia,Colombia
+145,101,1916,0,1,,Bolivia,Venezuela
+145,101,1917,0,1,,Bolivia,Venezuela
+145,101,1918,0,1,,Bolivia,Venezuela
+145,101,1919,0,1,,Bolivia,Venezuela
+145,101,1920,0,1,,Bolivia,Venezuela
+145,101,1921,480,1,,Bolivia,Venezuela
+145,101,1922,0,1,,Bolivia,Venezuela
+145,101,1923,4431,1,,Bolivia,Venezuela
+145,101,1924,331.6,1,,Bolivia,Venezuela
+145,101,1925,0,1,,Bolivia,Venezuela
+145,101,1926,0,1,Bolivars,Bolivia,Venezuela
+145,101,1927,1388.75,1,Bolivars,Bolivia,Venezuela
+145,101,1928,9,1,Bolivars,Bolivia,Venezuela
+145,101,1929,48,1,Bolivars,Bolivia,Venezuela
+145,101,1930,0,1,Bolivars,Bolivia,Venezuela
+145,101,1931,0,1,Bolivars,Bolivia,Venezuela
+145,101,1932,0,1,Bolivars,Bolivia,Venezuela
+145,101,1933,85,1,Bolivars,Bolivia,Venezuela
+145,101,1934,0,1,Bolivars,Bolivia,Venezuela
+145,101,1935,2,1,Bolivars,Bolivia,Venezuela
+145,101,1936,16010,1,Bolivars,Bolivia,Venezuela
+145,101,1937,0,1,Bolivars,Bolivia,Venezuela
+145,101,1938,27,1,Bolivares 18 P,Bolivia,Venezuela
+145,101,1939,33,1,Bolivares 18 P,Bolivia,Venezuela
+145,101,1940,67,1,Bolivares 18 P,Bolivia,Venezuela
+145,101,1941,506,1,Bolivares 18 D.,Bolivia,Venezuela
+145,101,1942,1157,1,Bolivares 18 D.,Bolivia,Venezuela
+145,101,1944,538,1,Bolivares 18 D.,Bolivia,Venezuela
+145,101,1946,7957,1,Bolivares 18 D.,Bolivia,Venezuela
+145,101,1947,7047,1,Us $,Bolivia,Venezuela
+145,101,1948,308,1,Us $,Bolivia,Venezuela
+145,101,1949,100,1,Us $,Bolivia,Venezuela
+145,130,1916,8394,1,,Bolivia,Ecuador
+145,130,1917,5,1,,Bolivia,Ecuador
+145,130,1918,5597,1,,Bolivia,Ecuador
+145,130,1919,6820,1,,Bolivia,Ecuador
+145,130,1920,157,1,,Bolivia,Ecuador
+145,130,1921,24851,1,,Bolivia,Ecuador
+145,130,1922,94962,1,,Bolivia,Ecuador
+145,130,1923,93979,1,,Bolivia,Ecuador
+145,130,1924,122243.13,1,,Bolivia,Ecuador
+145,130,1925,1732.34,1,,Bolivia,Ecuador
+145,130,1926,15467.18,1,Bolivars,Bolivia,Ecuador
+145,130,1927,5586.92,1,Bolivars,Bolivia,Ecuador
+145,130,1928,17822,1,Bolivars,Bolivia,Ecuador
+145,130,1929,45217,1,Bolivars,Bolivia,Ecuador
+145,130,1930,33337,1,Bolivars,Bolivia,Ecuador
+145,130,1931,5364,1,Bolivars,Bolivia,Ecuador
+145,130,1932,43703,1,Bolivars,Bolivia,Ecuador
+145,130,1933,27821,1,Bolivars,Bolivia,Ecuador
+145,130,1934,36399,1,Bolivars,Bolivia,Ecuador
+145,130,1935,66944,1,Bolivars,Bolivia,Ecuador
+145,130,1936,72401,1,Bolivars,Bolivia,Ecuador
+145,130,1937,67816,1,Bolivars,Bolivia,Ecuador
+145,130,1938,44422,1,Bolivares 18 P,Bolivia,Ecuador
+145,130,1939,45782,1,Bolivares 18 P,Bolivia,Ecuador
+145,130,1940,57649,1,Bolivares 18 P,Bolivia,Ecuador
+145,130,1941,451937,1,Bolivares 18 D.,Bolivia,Ecuador
+145,130,1942,1084107,1,Bolivares 18 D.,Bolivia,Ecuador
+145,130,1944,365522,1,Bolivares 18 D.,Bolivia,Ecuador
+145,130,1946,385176,1,Bolivares 18 D.,Bolivia,Ecuador
+145,130,1947,78131,1,Us $,Bolivia,Ecuador
+145,130,1948,252000,1,Us $,Bolivia,Ecuador
+145,130,1949,164571,1,Us $,Bolivia,Ecuador
+145,135,1916,4275808,1,,Bolivia,Peru
+145,135,1917,4469962,1,,Bolivia,Peru
+145,135,1918,4368511,1,,Bolivia,Peru
+145,135,1919,3582429,1,,Bolivia,Peru
+145,135,1920,6810776,1,,Bolivia,Peru
+145,135,1921,6198857,1,,Bolivia,Peru
+145,135,1922,3715282,1,,Bolivia,Peru
+145,135,1923,4319139,1,,Bolivia,Peru
+145,135,1924,3840749.98,1,,Bolivia,Peru
+145,135,1925,2528061.16,1,,Bolivia,Peru
+145,135,1926,3266116.68,1,Bolivars,Bolivia,Peru
+145,135,1927,3390188.09,1,Bolivars,Bolivia,Peru
+145,135,1928,3356182,1,Bolivars,Bolivia,Peru
+145,135,1929,3201305,1,Bolivars,Bolivia,Peru
+145,135,1930,3182819,1,Bolivars,Bolivia,Peru
+145,135,1931,2432946,1,Bolivars,Bolivia,Peru
+145,135,1932,2271845,1,Bolivars,Bolivia,Peru
+145,135,1933,3864532,1,Bolivars,Bolivia,Peru
+145,135,1934,5318830,1,Bolivars,Bolivia,Peru
+145,135,1935,4661064,1,Bolivars,Bolivia,Peru
+145,135,1936,4789525,1,Bolivars,Bolivia,Peru
+145,135,1937,9272239,1,Bolivars,Bolivia,Peru
+145,135,1938,9019017,1,Bolivares 18 P,Bolivia,Peru
+145,135,1939,14080220,1,Bolivares 18 P,Bolivia,Peru
+145,135,1940,5315778,1,Bolivares 18 P,Bolivia,Peru
+145,135,1941,9954812,1,Bolivares 18 D.,Bolivia,Peru
+145,135,1942,18651758,1,Bolivares 18 D.,Bolivia,Peru
+145,135,1944,22022540,1,Bolivares 18 D.,Bolivia,Peru
+145,135,1946,23656365,1,Bolivares 18 D.,Bolivia,Peru
+145,135,1947,6281470,1,Us $,Bolivia,Peru
+145,135,1948,7048418,1,Us $,Bolivia,Peru
+145,135,1949,6352638,1,Us $,Bolivia,Peru
+145,140,1916,960430,1,,Bolivia,Brazil
+145,140,1917,1170834,1,,Bolivia,Brazil
+145,140,1918,1029222,1,,Bolivia,Brazil
+145,140,1919,832859,1,,Bolivia,Brazil
+145,140,1920,1758200,1,,Bolivia,Brazil
+145,140,1921,922832,1,,Bolivia,Brazil
+145,140,1922,863393,1,,Bolivia,Brazil
+145,140,1923,1065628,1,,Bolivia,Brazil
+145,140,1924,831591.05,1,,Bolivia,Brazil
+145,140,1925,994830.34,1,,Bolivia,Brazil
+145,140,1926,962544.47,1,Bolivars,Bolivia,Brazil
+145,140,1927,707202.63,1,Bolivars,Bolivia,Brazil
+145,140,1928,1086076,1,Bolivars,Bolivia,Brazil
+145,140,1929,370642,1,Bolivars,Bolivia,Brazil
+145,140,1930,309058,1,Bolivars,Bolivia,Brazil
+145,140,1931,208717,1,Bolivars,Bolivia,Brazil
+145,140,1932,278574,1,Bolivars,Bolivia,Brazil
+145,140,1933,380645,1,Bolivars,Bolivia,Brazil
+145,140,1934,809781,1,Bolivars,Bolivia,Brazil
+145,140,1935,994464,1,Bolivars,Bolivia,Brazil
+145,140,1936,801022,1,Bolivars,Bolivia,Brazil
+145,140,1937,775379,1,Bolivars,Bolivia,Brazil
+145,140,1938,539162,1,Bolivares 18 P,Bolivia,Brazil
+145,140,1939,614677,1,Bolivares 18 P,Bolivia,Brazil
+145,140,1940,1303607,1,Bolivares 18 P,Bolivia,Brazil
+145,140,1941,4565923,1,Bolivares 18 D.,Bolivia,Brazil
+145,140,1942,3678175,1,Bolivares 18 D.,Bolivia,Brazil
+145,140,1944,12434700,1,Bolivares 18 D.,Bolivia,Brazil
+145,140,1946,7682732,1,Bolivares 18 D.,Bolivia,Brazil
+145,140,1947,1481738,1,Us $,Bolivia,Brazil
+145,140,1948,2026084,1,Us $,Bolivia,Brazil
+145,140,1949,1116381,1,Us $,Bolivia,Brazil
+145,150,1916,50160,1,,Bolivia,Paraguay
+145,150,1917,11549,1,,Bolivia,Paraguay
+145,150,1918,0,1,,Bolivia,Paraguay
+145,150,1919,7439,1,,Bolivia,Paraguay
+145,150,1920,8848,1,,Bolivia,Paraguay
+145,150,1921,17390,1,,Bolivia,Paraguay
+145,150,1922,3819,1,,Bolivia,Paraguay
+145,150,1923,5664,1,,Bolivia,Paraguay
+145,150,1924,12,1,,Bolivia,Paraguay
+145,150,1925,2227.84,1,,Bolivia,Paraguay
+145,150,1926,1386.23,1,Bolivars,Bolivia,Paraguay
+145,150,1927,1887.06,1,Bolivars,Bolivia,Paraguay
+145,150,1928,783,1,Bolivars,Bolivia,Paraguay
+145,150,1929,36,1,Bolivars,Bolivia,Paraguay
+145,150,1930,0,1,Bolivars,Bolivia,Paraguay
+145,150,1931,0,1,Bolivars,Bolivia,Paraguay
+145,150,1932,0,1,Bolivars,Bolivia,Paraguay
+145,150,1933,0,1,Bolivars,Bolivia,Paraguay
+145,150,1934,12012,1,Bolivars,Bolivia,Paraguay
+145,150,1935,0,1,Bolivars,Bolivia,Paraguay
+145,150,1936,0,1,Bolivars,Bolivia,Paraguay
+145,150,1937,0,1,Bolivars,Bolivia,Paraguay
+145,150,1938,0,1,Bolivares 18 P,Bolivia,Paraguay
+145,150,1939,593,1,Bolivares 18 P,Bolivia,Paraguay
+145,150,1940,19499,1,Bolivares 18 P,Bolivia,Paraguay
+145,150,1941,43686,1,Bolivares 18 D.,Bolivia,Paraguay
+145,150,1942,22313,1,Bolivares 18 D.,Bolivia,Paraguay
+145,150,1944,11269,1,Bolivares 18 D.,Bolivia,Paraguay
+145,150,1946,26681,1,Bolivares 18 D.,Bolivia,Paraguay
+145,150,1947,10,1,Us $,Bolivia,Paraguay
+145,150,1948,2675,1,Us $,Bolivia,Paraguay
+145,150,1949,4085,1,Us $,Bolivia,Paraguay
+145,155,1916,6380646,1,,Bolivia,Chile
+145,155,1917,7885206,1,,Bolivia,Chile
+145,155,1918,8080679,1,,Bolivia,Chile
+145,155,1919,6197242,1,,Bolivia,Chile
+145,155,1920,12147441,1,,Bolivia,Chile
+145,155,1921,10766233,1,,Bolivia,Chile
+145,155,1922,10411865,1,,Bolivia,Chile
+145,155,1923,8384602,1,,Bolivia,Chile
+145,155,1924,7932746.84,1,,Bolivia,Chile
+145,155,1925,8387568.8,1,,Bolivia,Chile
+145,155,1926,7834536.67,1,Bolivars,Bolivia,Chile
+145,155,1927,6059007.26,1,Bolivars,Bolivia,Chile
+145,155,1928,4538290,1,Bolivars,Bolivia,Chile
+145,155,1929,4635011,1,Bolivars,Bolivia,Chile
+145,155,1930,4099738,1,Bolivars,Bolivia,Chile
+145,155,1931,1703859,1,Bolivars,Bolivia,Chile
+145,155,1932,1378210,1,Bolivars,Bolivia,Chile
+145,155,1933,1784162,1,Bolivars,Bolivia,Chile
+145,155,1934,3407396,1,Bolivars,Bolivia,Chile
+145,155,1935,2365168,1,Bolivars,Bolivia,Chile
+145,155,1936,2586081,1,Bolivars,Bolivia,Chile
+145,155,1937,2291593,1,Bolivars,Bolivia,Chile
+145,155,1938,3047524,1,Bolivares 18 P,Bolivia,Chile
+145,155,1939,2692796,1,Bolivares 18 P,Bolivia,Chile
+145,155,1940,4825852,1,Bolivares 18 P,Bolivia,Chile
+145,155,1941,6890894,1,Bolivares 18 D.,Bolivia,Chile
+145,155,1942,7323799,1,Bolivares 18 D.,Bolivia,Chile
+145,155,1944,13234655,1,Bolivares 18 D.,Bolivia,Chile
+145,155,1946,16275730,1,Bolivares 18 D.,Bolivia,Chile
+145,155,1947,3696889,1,Us $,Bolivia,Chile
+145,155,1948,3775299,1,Us $,Bolivia,Chile
+145,155,1949,3579866,1,Us $,Bolivia,Chile
+145,160,1916,2113933,1,,Bolivia,Argentina
+145,160,1917,2157395,1,,Bolivia,Argentina
+145,160,1918,3799765,1,,Bolivia,Argentina
+145,160,1919,3065879,1,,Bolivia,Argentina
+145,160,1920,3902389,1,,Bolivia,Argentina
+145,160,1921,3516140,1,,Bolivia,Argentina
+145,160,1922,3087600,1,,Bolivia,Argentina
+145,160,1923,3846103,1,,Bolivia,Argentina
+145,160,1924,2862503.8,1,,Bolivia,Argentina
+145,160,1925,3582879.83,1,,Bolivia,Argentina
+145,160,1926,3422642.12,1,Bolivars,Bolivia,Argentina
+145,160,1927,5228559.13,1,Bolivars,Bolivia,Argentina
+145,160,1928,5351142,1,Bolivars,Bolivia,Argentina
+145,160,1929,6892336,1,Bolivars,Bolivia,Argentina
+145,160,1930,6556542,1,Bolivars,Bolivia,Argentina
+145,160,1931,3223794,1,Bolivars,Bolivia,Argentina
+145,160,1932,2923688,1,Bolivars,Bolivia,Argentina
+145,160,1933,3526069,1,Bolivars,Bolivia,Argentina
+145,160,1934,3697989,1,Bolivars,Bolivia,Argentina
+145,160,1935,5756684,1,Bolivars,Bolivia,Argentina
+145,160,1936,7688324,1,Bolivars,Bolivia,Argentina
+145,160,1937,7639391,1,Bolivars,Bolivia,Argentina
+145,160,1938,9123850,1,Bolivares 18 P,Bolivia,Argentina
+145,160,1939,8043134,1,Bolivares 18 P,Bolivia,Argentina
+145,160,1940,14278170,1,Bolivares 18 P,Bolivia,Argentina
+145,160,1941,21096904,1,Bolivares 18 D.,Bolivia,Argentina
+145,160,1942,32517838,1,Bolivares 18 D.,Bolivia,Argentina
+145,160,1944,37018561,1,Bolivares 18 D.,Bolivia,Argentina
+145,160,1946,39612199,1,Bolivares 18 D.,Bolivia,Argentina
+145,160,1947,12097216,1,Us $,Bolivia,Argentina
+145,160,1948,11150822,1,Us $,Bolivia,Argentina
+145,160,1949,12403171,1,Us $,Bolivia,Argentina
+145,165,1916,28999,1,,Bolivia,Uruguay
+145,165,1917,49092,1,,Bolivia,Uruguay
+145,165,1918,42790,1,,Bolivia,Uruguay
+145,165,1919,29690,1,,Bolivia,Uruguay
+145,165,1920,107868,1,,Bolivia,Uruguay
+145,165,1921,258536,1,,Bolivia,Uruguay
+145,165,1922,58092,1,,Bolivia,Uruguay
+145,165,1923,44396,1,,Bolivia,Uruguay
+145,165,1924,27236.96,1,,Bolivia,Uruguay
+145,165,1925,17671.09,1,,Bolivia,Uruguay
+145,165,1926,8476.51,1,Bolivars,Bolivia,Uruguay
+145,165,1927,9383.42,1,Bolivars,Bolivia,Uruguay
+145,165,1928,12365,1,Bolivars,Bolivia,Uruguay
+145,165,1929,19790,1,Bolivars,Bolivia,Uruguay
+145,165,1930,27085,1,Bolivars,Bolivia,Uruguay
+145,165,1931,23017,1,Bolivars,Bolivia,Uruguay
+145,165,1932,13131,1,Bolivars,Bolivia,Uruguay
+145,165,1933,18388,1,Bolivars,Bolivia,Uruguay
+145,165,1934,9342,1,Bolivars,Bolivia,Uruguay
+145,165,1935,63068,1,Bolivars,Bolivia,Uruguay
+145,165,1936,34838,1,Bolivars,Bolivia,Uruguay
+145,165,1937,40668,1,Bolivars,Bolivia,Uruguay
+145,165,1938,10617,1,Bolivares 18 P,Bolivia,Uruguay
+145,165,1939,24079,1,Bolivares 18 P,Bolivia,Uruguay
+145,165,1940,12548,1,Bolivares 18 P,Bolivia,Uruguay
+145,165,1941,103641,1,Bolivares 18 D.,Bolivia,Uruguay
+145,165,1942,179692,1,Bolivares 18 D.,Bolivia,Uruguay
+145,165,1944,355844,1,Bolivares 18 D.,Bolivia,Uruguay
+145,165,1946,264213,1,Bolivares 18 D.,Bolivia,Uruguay
+145,165,1947,32336,1,Us $,Bolivia,Uruguay
+145,165,1948,402790,1,Us $,Bolivia,Uruguay
+145,165,1949,299159,1,Us $,Bolivia,Uruguay
+145,200,1916,4146226,1,,Bolivia,United Kingdom
+145,200,1917,4061336,1,,Bolivia,United Kingdom
+145,200,1918,4144971,1,,Bolivia,United Kingdom
+145,200,1919,4037367,1,,Bolivia,United Kingdom
+145,200,1920,13927216,1,,Bolivia,United Kingdom
+145,200,1921,16854372,1,,Bolivia,United Kingdom
+145,200,1922,10850737,1,,Bolivia,United Kingdom
+145,200,1923,13582223,1,,Bolivia,United Kingdom
+145,200,1924,13122882.31,1,,Bolivia,United Kingdom
+145,200,1925,13530810.96,1,,Bolivia,United Kingdom
+145,200,1926,15386452.68,1,Bolivars,Bolivia,United Kingdom
+145,200,1927,12814040.43,1,Bolivars,Bolivia,United Kingdom
+145,200,1928,11033834,1,Bolivars,Bolivia,United Kingdom
+145,200,1929,11842069,1,Bolivars,Bolivia,United Kingdom
+145,200,1930,9697689,1,Bolivars,Bolivia,United Kingdom
+145,200,1931,4906277,1,Bolivars,Bolivia,United Kingdom
+145,200,1932,4088913,1,Bolivars,Bolivia,United Kingdom
+145,200,1933,9120345,1,Bolivars,Bolivia,United Kingdom
+145,200,1934,8435503,1,Bolivars,Bolivia,United Kingdom
+145,200,1935,6818638,1,Bolivars,Bolivia,United Kingdom
+145,200,1936,6018719,1,Bolivars,Bolivia,United Kingdom
+145,200,1937,4672920,1,Bolivars,Bolivia,United Kingdom
+145,200,1938,4927165,1,Bolivares 18 P,Bolivia,United Kingdom
+145,200,1939,3739811,1,Bolivares 18 P,Bolivia,United Kingdom
+145,200,1940,5462567,1,Bolivares 18 P,Bolivia,United Kingdom
+145,200,1941,5817215,1,Bolivares 18 D.,Bolivia,United Kingdom
+145,200,1942,7351910,1,Bolivares 18 D.,Bolivia,United Kingdom
+145,200,1944,5018221,1,Bolivares 18 D.,Bolivia,United Kingdom
+145,200,1946,6079676,1,Bolivares 18 D.,Bolivia,United Kingdom
+145,200,1947,2283044,1,Us $,Bolivia,United Kingdom
+145,200,1948,4169129,1,Us $,Bolivia,United Kingdom
+145,200,1949,4275347,1,Us $,Bolivia,United Kingdom
+145,202,1916,0,1,,Bolivia,Scotland
+145,202,1917,0,1,,Bolivia,Scotland
+145,202,1918,0,1,,Bolivia,Scotland
+145,202,1919,0,1,,Bolivia,Scotland
+145,202,1920,0,1,,Bolivia,Scotland
+145,202,1921,0,1,,Bolivia,Scotland
+145,202,1922,0,1,,Bolivia,Scotland
+145,202,1923,0,1,,Bolivia,Scotland
+145,202,1924,0,1,,Bolivia,Scotland
+145,202,1925,0,1,,Bolivia,Scotland
+145,202,1926,0,1,Bolivars,Bolivia,Scotland
+145,202,1927,0,1,Bolivars,Bolivia,Scotland
+145,202,1928,0,1,Bolivars,Bolivia,Scotland
+145,202,1929,0,1,Bolivars,Bolivia,Scotland
+145,202,1930,0,1,Bolivars,Bolivia,Scotland
+145,202,1931,0,1,Bolivars,Bolivia,Scotland
+145,202,1932,0,1,Bolivars,Bolivia,Scotland
+145,202,1933,0,1,Bolivars,Bolivia,Scotland
+145,202,1934,0,1,Bolivars,Bolivia,Scotland
+145,202,1935,0,1,Bolivars,Bolivia,Scotland
+145,202,1936,183022,1,Bolivars,Bolivia,Scotland
+145,202,1937,77425,1,Bolivars,Bolivia,Scotland
+145,202,1938,11488,1,Bolivares 18 P,Bolivia,Scotland
+145,202,1939,17965,1,Bolivares 18 P,Bolivia,Scotland
+145,202,1940,3017,1,Bolivares 18 P,Bolivia,Scotland
+145,202,1941,2290,1,Bolivares 18 D.,Bolivia,Scotland
+145,202,1942,15124,1,Bolivares 18 D.,Bolivia,Scotland
+145,202,1944,588,1,Bolivares 18 D.,Bolivia,Scotland
+145,202,1946,0,1,Bolivares 18 D.,Bolivia,Scotland
+145,202,1947,0,1,Us $,Bolivia,Scotland
+145,202,1948,433,1,Us $,Bolivia,Scotland
+145,202,1949,4444,1,Us $,Bolivia,Scotland
+145,205,1916,0,1,,Bolivia,Ireland
+145,205,1917,0,1,,Bolivia,Ireland
+145,205,1918,0,1,,Bolivia,Ireland
+145,205,1919,0,1,,Bolivia,Ireland
+145,205,1920,0,1,,Bolivia,Ireland
+145,205,1921,0,1,,Bolivia,Ireland
+145,205,1922,0,1,,Bolivia,Ireland
+145,205,1923,0,1,,Bolivia,Ireland
+145,205,1924,0,1,,Bolivia,Ireland
+145,205,1925,0,1,,Bolivia,Ireland
+145,205,1926,0,1,Bolivars,Bolivia,Ireland
+145,205,1927,0,1,Bolivars,Bolivia,Ireland
+145,205,1928,0,1,Bolivars,Bolivia,Ireland
+145,205,1929,0,1,Bolivars,Bolivia,Ireland
+145,205,1930,0,1,Bolivars,Bolivia,Ireland
+145,205,1931,0,1,Bolivars,Bolivia,Ireland
+145,205,1932,0,1,Bolivars,Bolivia,Ireland
+145,205,1933,0,1,Bolivars,Bolivia,Ireland
+145,205,1934,0,1,Bolivars,Bolivia,Ireland
+145,205,1935,0,1,Bolivars,Bolivia,Ireland
+145,205,1936,0,1,Bolivars,Bolivia,Ireland
+145,205,1937,0,1,Bolivars,Bolivia,Ireland
+145,205,1938,0,1,Bolivares 18 P,Bolivia,Ireland
+145,205,1939,0,1,Bolivares 18 P,Bolivia,Ireland
+145,205,1940,0,1,Bolivares 18 P,Bolivia,Ireland
+145,205,1941,30,1,Bolivares 18 D.,Bolivia,Ireland
+145,205,1942,0,1,Bolivares 18 D.,Bolivia,Ireland
+145,205,1944,0,1,Bolivares 18 D.,Bolivia,Ireland
+145,205,1946,0,1,Bolivares 18 D.,Bolivia,Ireland
+145,205,1947,95,1,Us $,Bolivia,Ireland
+145,205,1948,554,1,Us $,Bolivia,Ireland
+145,205,1949,0,1,Us $,Bolivia,Ireland
+145,210,1916,59757,1,,Bolivia,Netherlands
+145,210,1917,15193,1,,Bolivia,Netherlands
+145,210,1918,3100,1,,Bolivia,Netherlands
+145,210,1919,7732,1,,Bolivia,Netherlands
+145,210,1920,130014,1,,Bolivia,Netherlands
+145,210,1921,314521,1,,Bolivia,Netherlands
+145,210,1922,210125,1,,Bolivia,Netherlands
+145,210,1923,327591,1,,Bolivia,Netherlands
+145,210,1924,974967.59,1,,Bolivia,Netherlands
+145,210,1925,897888.42,1,,Bolivia,Netherlands
+145,210,1926,858885.48,1,Bolivars,Bolivia,Netherlands
+145,210,1927,729822.76,1,Bolivars,Bolivia,Netherlands
+145,210,1928,788649,1,Bolivars,Bolivia,Netherlands
+145,210,1929,632921,1,Bolivars,Bolivia,Netherlands
+145,210,1930,820504,1,Bolivars,Bolivia,Netherlands
+145,210,1931,499365,1,Bolivars,Bolivia,Netherlands
+145,210,1932,346989,1,Bolivars,Bolivia,Netherlands
+145,210,1933,300835,1,Bolivars,Bolivia,Netherlands
+145,210,1934,301348,1,Bolivars,Bolivia,Netherlands
+145,210,1935,310150,1,Bolivars,Bolivia,Netherlands
+145,210,1936,834517,1,Bolivars,Bolivia,Netherlands
+145,210,1937,618383,1,Bolivars,Bolivia,Netherlands
+145,210,1938,890408,1,Bolivares 18 P,Bolivia,Netherlands
+145,210,1939,960744,1,Bolivares 18 P,Bolivia,Netherlands
+145,210,1940,327610,1,Bolivares 18 P,Bolivia,Netherlands
+145,210,1941,34872,1,Bolivares 18 D.,Bolivia,Netherlands
+145,210,1942,0,1,Bolivares 18 D.,Bolivia,Netherlands
+145,210,1944,0,1,Bolivares 18 D.,Bolivia,Netherlands
+145,210,1946,13902,1,Bolivares 18 D.,Bolivia,Netherlands
+145,210,1947,112373,1,Us $,Bolivia,Netherlands
+145,210,1948,166193,1,Us $,Bolivia,Netherlands
+145,210,1949,366409,1,Us $,Bolivia,Netherlands
+145,211,1916,1662208,1,,Bolivia,Belgium
+145,211,1917,96435,1,,Bolivia,Belgium
+145,211,1918,0,1,,Bolivia,Belgium
+145,211,1919,687,1,,Bolivia,Belgium
+145,211,1920,216500,1,,Bolivia,Belgium
+145,211,1921,800189,1,,Bolivia,Belgium
+145,211,1922,919948,1,,Bolivia,Belgium
+145,211,1923,1823183,1,,Bolivia,Belgium
+145,211,1924,1407707.46,1,,Bolivia,Belgium
+145,211,1925,3660931.92,1,,Bolivia,Belgium
+145,211,1926,1376091.93,1,Bolivars,Bolivia,Belgium
+145,211,1927,2417143.28,1,Bolivars,Bolivia,Belgium
+145,211,1928,4882571,1,Bolivars,Bolivia,Belgium
+145,211,1929,2494689,1,Bolivars,Bolivia,Belgium
+145,211,1930,2297607,1,Bolivars,Bolivia,Belgium
+145,211,1931,835463,1,Bolivars,Bolivia,Belgium
+145,211,1932,640799,1,Bolivars,Bolivia,Belgium
+145,211,1933,1144295,1,Bolivars,Bolivia,Belgium
+145,211,1934,2232182,1,Bolivars,Bolivia,Belgium
+145,211,1935,5144183,1,Bolivars,Bolivia,Belgium
+145,211,1936,1791573,1,Bolivars,Bolivia,Belgium
+145,211,1937,2854833,1,Bolivars,Bolivia,Belgium
+145,211,1938,2534037,1,Bolivares 18 P,Bolivia,Belgium
+145,211,1939,2549715,1,Bolivares 18 P,Bolivia,Belgium
+145,211,1940,1193230,1,Bolivares 18 P,Bolivia,Belgium
+145,211,1941,87879,1,Bolivares 18 D.,Bolivia,Belgium
+145,211,1942,19022,1,Bolivares 18 D.,Bolivia,Belgium
+145,211,1944,0,1,Bolivares 18 D.,Bolivia,Belgium
+145,211,1946,20246,1,Bolivares 18 D.,Bolivia,Belgium
+145,211,1947,131545,1,Us $,Bolivia,Belgium
+145,211,1948,509146,1,Us $,Bolivia,Belgium
+145,211,1949,1383392,1,Us $,Bolivia,Belgium
+145,220,1916,631866,1,,Bolivia,France
+145,220,1917,734357,1,,Bolivia,France
+145,220,1918,676406,1,,Bolivia,France
+145,220,1919,592534,1,,Bolivia,France
+145,220,1920,1783694,1,,Bolivia,France
+145,220,1921,3190447,1,,Bolivia,France
+145,220,1922,1234351,1,,Bolivia,France
+145,220,1923,1477482,1,,Bolivia,France
+145,220,1924,1913313.7,1,,Bolivia,France
+145,220,1925,2374306.72,1,,Bolivia,France
+145,220,1926,2506633.6,1,Bolivars,Bolivia,France
+145,220,1927,2814538.68,1,Bolivars,Bolivia,France
+145,220,1928,1947021,1,Bolivars,Bolivia,France
+145,220,1929,2317337,1,Bolivars,Bolivia,France
+145,220,1930,1825219,1,Bolivars,Bolivia,France
+145,220,1931,957272,1,Bolivars,Bolivia,France
+145,220,1932,455153,1,Bolivars,Bolivia,France
+145,220,1933,2388136,1,Bolivars,Bolivia,France
+145,220,1934,380486,1,Bolivars,Bolivia,France
+145,220,1935,3843602,1,Bolivars,Bolivia,France
+145,220,1936,741630,1,Bolivars,Bolivia,France
+145,220,1937,607985,1,Bolivars,Bolivia,France
+145,220,1938,1004453,1,Bolivares 18 P,Bolivia,France
+145,220,1939,1209370,1,Bolivares 18 P,Bolivia,France
+145,220,1940,552774,1,Bolivares 18 P,Bolivia,France
+145,220,1941,79612,1,Bolivares 18 D.,Bolivia,France
+145,220,1942,117249,1,Bolivares 18 D.,Bolivia,France
+145,220,1944,0,1,Bolivares 18 D.,Bolivia,France
+145,220,1946,54060,1,Bolivares 18 D.,Bolivia,France
+145,220,1947,53261,1,Us $,Bolivia,France
+145,220,1948,88015,1,Us $,Bolivia,France
+145,220,1949,209156,1,Us $,Bolivia,France
+145,225,1916,19179,1,,Bolivia,Switzerland
+145,225,1917,27130,1,,Bolivia,Switzerland
+145,225,1918,12701,1,,Bolivia,Switzerland
+145,225,1919,15369,1,,Bolivia,Switzerland
+145,225,1920,35406,1,,Bolivia,Switzerland
+145,225,1921,292826,1,,Bolivia,Switzerland
+145,225,1922,402416,1,,Bolivia,Switzerland
+145,225,1923,965480,1,,Bolivia,Switzerland
+145,225,1924,239821.94,1,,Bolivia,Switzerland
+145,225,1925,273282.1,1,,Bolivia,Switzerland
+145,225,1926,479092.04,1,Bolivars,Bolivia,Switzerland
+145,225,1927,368549.73,1,Bolivars,Bolivia,Switzerland
+145,225,1928,428803,1,Bolivars,Bolivia,Switzerland
+145,225,1929,220919,1,Bolivars,Bolivia,Switzerland
+145,225,1930,593522,1,Bolivars,Bolivia,Switzerland
+145,225,1931,241168,1,Bolivars,Bolivia,Switzerland
+145,225,1932,109563,1,Bolivars,Bolivia,Switzerland
+145,225,1933,119993,1,Bolivars,Bolivia,Switzerland
+145,225,1934,77464,1,Bolivars,Bolivia,Switzerland
+145,225,1935,174913,1,Bolivars,Bolivia,Switzerland
+145,225,1936,596168,1,Bolivars,Bolivia,Switzerland
+145,225,1937,279327,1,Bolivars,Bolivia,Switzerland
+145,225,1938,390642,1,Bolivares 18 P,Bolivia,Switzerland
+145,225,1939,390442,1,Bolivares 18 P,Bolivia,Switzerland
+145,225,1940,365824,1,Bolivares 18 P,Bolivia,Switzerland
+145,225,1941,499820,1,Bolivares 18 D.,Bolivia,Switzerland
+145,225,1942,570381,1,Bolivares 18 D.,Bolivia,Switzerland
+145,225,1944,1124836,1,Bolivares 18 D.,Bolivia,Switzerland
+145,225,1946,2409989,1,Bolivares 18 D.,Bolivia,Switzerland
+145,225,1947,864671,1,Us $,Bolivia,Switzerland
+145,225,1948,989351,1,Us $,Bolivia,Switzerland
+145,225,1949,1500611,1,Us $,Bolivia,Switzerland
+145,230,1916,444366,1,,Bolivia,Spain
+145,230,1917,613949,1,,Bolivia,Spain
+145,230,1918,621529,1,,Bolivia,Spain
+145,230,1919,563054,1,,Bolivia,Spain
+145,230,1920,869717,1,,Bolivia,Spain
+145,230,1921,1420928,1,,Bolivia,Spain
+145,230,1922,708687,1,,Bolivia,Spain
+145,230,1923,975484,1,,Bolivia,Spain
+145,230,1924,587917.4,1,,Bolivia,Spain
+145,230,1925,959508.36,1,,Bolivia,Spain
+145,230,1926,808033.29,1,Bolivars,Bolivia,Spain
+145,230,1927,551967.98,1,Bolivars,Bolivia,Spain
+145,230,1928,513165,1,Bolivars,Bolivia,Spain
+145,230,1929,546758,1,Bolivars,Bolivia,Spain
+145,230,1930,635721,1,Bolivars,Bolivia,Spain
+145,230,1931,262618,1,Bolivars,Bolivia,Spain
+145,230,1932,125690,1,Bolivars,Bolivia,Spain
+145,230,1933,72973,1,Bolivars,Bolivia,Spain
+145,230,1934,115599,1,Bolivars,Bolivia,Spain
+145,230,1935,160803,1,Bolivars,Bolivia,Spain
+145,230,1936,369596,1,Bolivars,Bolivia,Spain
+145,230,1937,43794,1,Bolivars,Bolivia,Spain
+145,230,1938,11167,1,Bolivares 18 P,Bolivia,Spain
+145,230,1939,12515,1,Bolivares 18 P,Bolivia,Spain
+145,230,1940,22025,1,Bolivares 18 P,Bolivia,Spain
+145,230,1941,63929,1,Bolivares 18 D.,Bolivia,Spain
+145,230,1942,7900,1,Bolivares 18 D.,Bolivia,Spain
+145,230,1944,36565,1,Bolivares 18 D.,Bolivia,Spain
+145,230,1946,55536,1,Bolivares 18 D.,Bolivia,Spain
+145,230,1947,59844,1,Us $,Bolivia,Spain
+145,230,1948,65439,1,Us $,Bolivia,Spain
+145,230,1949,680746,1,Us $,Bolivia,Spain
+145,235,1916,27612,1,,Bolivia,Portugal
+145,235,1917,54052,1,,Bolivia,Portugal
+145,235,1918,20415,1,,Bolivia,Portugal
+145,235,1919,34511,1,,Bolivia,Portugal
+145,235,1920,30781,1,,Bolivia,Portugal
+145,235,1921,45210,1,,Bolivia,Portugal
+145,235,1922,20940,1,,Bolivia,Portugal
+145,235,1923,18764,1,,Bolivia,Portugal
+145,235,1924,18361.18,1,,Bolivia,Portugal
+145,235,1925,13908.08,1,,Bolivia,Portugal
+145,235,1926,12949.54,1,Bolivars,Bolivia,Portugal
+145,235,1927,18611.35,1,Bolivars,Bolivia,Portugal
+145,235,1928,7434,1,Bolivars,Bolivia,Portugal
+145,235,1929,12975,1,Bolivars,Bolivia,Portugal
+145,235,1930,9709,1,Bolivars,Bolivia,Portugal
+145,235,1931,3820,1,Bolivars,Bolivia,Portugal
+145,235,1932,7313,1,Bolivars,Bolivia,Portugal
+145,235,1933,7675,1,Bolivars,Bolivia,Portugal
+145,235,1934,11260,1,Bolivars,Bolivia,Portugal
+145,235,1935,8267,1,Bolivars,Bolivia,Portugal
+145,235,1936,35231,1,Bolivars,Bolivia,Portugal
+145,235,1937,27295,1,Bolivars,Bolivia,Portugal
+145,235,1938,30454,1,Bolivares 18 P,Bolivia,Portugal
+145,235,1939,18375,1,Bolivares 18 P,Bolivia,Portugal
+145,235,1940,336004,1,Bolivares 18 P,Bolivia,Portugal
+145,235,1941,640119,1,Bolivares 18 D.,Bolivia,Portugal
+145,235,1942,144207,1,Bolivares 18 D.,Bolivia,Portugal
+145,235,1944,44865,1,Bolivares 18 D.,Bolivia,Portugal
+145,235,1946,70249,1,Bolivares 18 D.,Bolivia,Portugal
+145,235,1947,93581,1,Us $,Bolivia,Portugal
+145,235,1948,12289,1,Us $,Bolivia,Portugal
+145,235,1949,19313,1,Us $,Bolivia,Portugal
+145,255,1916,38022,1,,Bolivia,Germany
+145,255,1917,15305,1,,Bolivia,Germany
+145,255,1918,53109,1,,Bolivia,Germany
+145,255,1919,13911,1,,Bolivia,Germany
+145,255,1920,2051865,1,,Bolivia,Germany
+145,255,1921,3924570,1,,Bolivia,Germany
+145,255,1922,2797488,1,,Bolivia,Germany
+145,255,1923,6673249,1,,Bolivia,Germany
+145,255,1924,7009022.22,1,,Bolivia,Germany
+145,255,1925,7864999.2,1,,Bolivia,Germany
+145,255,1926,8124407.18,1,Bolivars,Bolivia,Germany
+145,255,1927,7061418.77,1,Bolivars,Bolivia,Germany
+145,255,1928,7465596,1,Bolivars,Bolivia,Germany
+145,255,1929,9736127,1,Bolivars,Bolivia,Germany
+145,255,1930,7889932,1,Bolivars,Bolivia,Germany
+145,255,1931,5073986,1,Bolivars,Bolivia,Germany
+145,255,1932,2742016,1,Bolivars,Bolivia,Germany
+145,255,1933,2440454,1,Bolivars,Bolivia,Germany
+145,255,1934,9024225,1,Bolivars,Bolivia,Germany
+145,255,1935,15755247,1,Bolivars,Bolivia,Germany
+145,255,1936,7024156,1,Bolivars,Bolivia,Germany
+145,255,1937,7886621,1,Bolivars,Bolivia,Germany
+145,255,1938,12652988,1,Bolivares 18 P,Bolivia,Germany
+145,255,1939,8022127,1,Bolivares 18 P,Bolivia,Germany
+145,255,1940,1299907,1,Bolivares 18 P,Bolivia,Germany
+145,255,1941,319911,1,Bolivares 18 D.,Bolivia,Germany
+145,255,1942,19423,1,Bolivares 18 D.,Bolivia,Germany
+145,255,1944,0,1,Bolivares 18 D.,Bolivia,Germany
+145,255,1946,0,1,Bolivares 18 D.,Bolivia,Germany
+145,255,1947,0,1,Us $,Bolivia,Germany
+145,255,1948,10639,1,Us $,Bolivia,Germany
+145,255,1949,218755,1,Us $,Bolivia,Germany
+145,290,1916,0,1,,Bolivia,Poland
+145,290,1917,0,1,,Bolivia,Poland
+145,290,1918,0,1,,Bolivia,Poland
+145,290,1919,0,1,,Bolivia,Poland
+145,290,1920,0,1,,Bolivia,Poland
+145,290,1921,0,1,,Bolivia,Poland
+145,290,1922,0,1,,Bolivia,Poland
+145,290,1923,0,1,,Bolivia,Poland
+145,290,1924,0,1,,Bolivia,Poland
+145,290,1925,0,1,,Bolivia,Poland
+145,290,1926,0,1,Bolivars,Bolivia,Poland
+145,290,1927,0,1,Bolivars,Bolivia,Poland
+145,290,1928,0,1,Bolivars,Bolivia,Poland
+145,290,1929,0,1,Bolivars,Bolivia,Poland
+145,290,1930,0,1,Bolivars,Bolivia,Poland
+145,290,1931,0,1,Bolivars,Bolivia,Poland
+145,290,1932,0,1,Bolivars,Bolivia,Poland
+145,290,1933,0,1,Bolivars,Bolivia,Poland
+145,290,1934,4423,1,Bolivars,Bolivia,Poland
+145,290,1935,55716,1,Bolivars,Bolivia,Poland
+145,290,1936,40144,1,Bolivars,Bolivia,Poland
+145,290,1937,266985,1,Bolivars,Bolivia,Poland
+145,290,1938,164941,1,Bolivares 18 P,Bolivia,Poland
+145,290,1939,61604,1,Bolivares 18 P,Bolivia,Poland
+145,290,1940,167008,1,Bolivares 18 P,Bolivia,Poland
+145,290,1941,11397,1,Bolivares 18 D.,Bolivia,Poland
+145,290,1942,0,1,Bolivares 18 D.,Bolivia,Poland
+145,290,1944,0,1,Bolivares 18 D.,Bolivia,Poland
+145,290,1946,0,1,Bolivares 18 D.,Bolivia,Poland
+145,290,1947,0,1,Us $,Bolivia,Poland
+145,290,1948,0,1,Us $,Bolivia,Poland
+145,290,1949,0,1,Us $,Bolivia,Poland
+145,305,1916,0,1,,Bolivia,Austria
+145,305,1917,0,1,,Bolivia,Austria
+145,305,1918,0,1,,Bolivia,Austria
+145,305,1919,1402,1,,Bolivia,Austria
+145,305,1920,7596,1,,Bolivia,Austria
+145,305,1921,11394,1,,Bolivia,Austria
+145,305,1922,650,1,,Bolivia,Austria
+145,305,1923,0,1,,Bolivia,Austria
+145,305,1924,0,1,,Bolivia,Austria
+145,305,1925,22429.94,1,,Bolivia,Austria
+145,305,1926,4412.78,1,Bolivars,Bolivia,Austria
+145,305,1927,13825.02,1,Bolivars,Bolivia,Austria
+145,305,1928,6812,1,Bolivars,Bolivia,Austria
+145,305,1929,5413,1,Bolivars,Bolivia,Austria
+145,305,1930,6416,1,Bolivars,Bolivia,Austria
+145,305,1931,4964,1,Bolivars,Bolivia,Austria
+145,305,1932,11480,1,Bolivars,Bolivia,Austria
+145,305,1933,11274,1,Bolivars,Bolivia,Austria
+145,305,1934,15237,1,Bolivars,Bolivia,Austria
+145,305,1935,165005,1,Bolivars,Bolivia,Austria
+145,305,1936,11237,1,Bolivars,Bolivia,Austria
+145,305,1937,113062,1,Bolivars,Bolivia,Austria
+145,305,1938,5793,1,Bolivares 18 P,Bolivia,Austria
+145,305,1939,6342,1,Bolivares 18 P,Bolivia,Austria
+145,305,1940,206,1,Bolivares 18 P,Bolivia,Austria
+145,305,1941,0,1,Bolivares 18 D.,Bolivia,Austria
+145,305,1942,0,1,Bolivares 18 D.,Bolivia,Austria
+145,305,1944,0,1,Bolivares 18 D.,Bolivia,Austria
+145,305,1946,123,1,Bolivares 18 D.,Bolivia,Austria
+145,305,1947,25,1,Us $,Bolivia,Austria
+145,305,1948,1794,1,Us $,Bolivia,Austria
+145,305,1949,6866,1,Us $,Bolivia,Austria
+145,310,1916,0,1,,Bolivia,Hungary
+145,310,1917,0,1,,Bolivia,Hungary
+145,310,1918,0,1,,Bolivia,Hungary
+145,310,1919,0,1,,Bolivia,Hungary
+145,310,1920,0,1,,Bolivia,Hungary
+145,310,1921,0,1,,Bolivia,Hungary
+145,310,1922,0,1,,Bolivia,Hungary
+145,310,1923,0,1,,Bolivia,Hungary
+145,310,1924,0,1,,Bolivia,Hungary
+145,310,1925,0,1,,Bolivia,Hungary
+145,310,1926,0,1,Bolivars,Bolivia,Hungary
+145,310,1927,0,1,Bolivars,Bolivia,Hungary
+145,310,1928,1646,1,Bolivars,Bolivia,Hungary
+145,310,1929,0,1,Bolivars,Bolivia,Hungary
+145,310,1930,0,1,Bolivars,Bolivia,Hungary
+145,310,1931,0,1,Bolivars,Bolivia,Hungary
+145,310,1932,12,1,Bolivars,Bolivia,Hungary
+145,310,1933,0,1,Bolivars,Bolivia,Hungary
+145,310,1934,268,1,Bolivars,Bolivia,Hungary
+145,310,1935,410,1,Bolivars,Bolivia,Hungary
+145,310,1936,5630,1,Bolivars,Bolivia,Hungary
+145,310,1937,2236,1,Bolivars,Bolivia,Hungary
+145,310,1938,7455,1,Bolivares 18 P,Bolivia,Hungary
+145,310,1939,8522,1,Bolivares 18 P,Bolivia,Hungary
+145,310,1940,5808,1,Bolivares 18 P,Bolivia,Hungary
+145,310,1941,7872,1,Bolivares 18 D.,Bolivia,Hungary
+145,310,1942,0,1,Bolivares 18 D.,Bolivia,Hungary
+145,310,1944,0,1,Bolivares 18 D.,Bolivia,Hungary
+145,310,1946,133,1,Bolivares 18 D.,Bolivia,Hungary
+145,310,1947,0,1,Us $,Bolivia,Hungary
+145,310,1948,1,1,Us $,Bolivia,Hungary
+145,310,1949,19,1,Us $,Bolivia,Hungary
+145,315,1916,0,1,,Bolivia,Czechoslovakia
+145,315,1917,0,1,,Bolivia,Czechoslovakia
+145,315,1918,0,1,,Bolivia,Czechoslovakia
+145,315,1919,0,1,,Bolivia,Czechoslovakia
+145,315,1920,0,1,,Bolivia,Czechoslovakia
+145,315,1921,0,1,,Bolivia,Czechoslovakia
+145,315,1922,34,1,,Bolivia,Czechoslovakia
+145,315,1923,8742,1,,Bolivia,Czechoslovakia
+145,315,1924,3985.25,1,,Bolivia,Czechoslovakia
+145,315,1925,111.09,1,,Bolivia,Czechoslovakia
+145,315,1926,899.05,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1927,3531.7,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1928,17089,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1929,8974,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1930,16056,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1931,17854,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1932,3608,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1933,4098,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1934,2367,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1935,288858,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1936,43620,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1937,411405,1,Bolivars,Bolivia,Czechoslovakia
+145,315,1938,394268,1,Bolivares 18 P,Bolivia,Czechoslovakia
+145,315,1939,1781105,1,Bolivares 18 P,Bolivia,Czechoslovakia
+145,315,1940,22986,1,Bolivares 18 P,Bolivia,Czechoslovakia
+145,315,1941,7084,1,Bolivares 18 D.,Bolivia,Czechoslovakia
+145,315,1942,0,1,Bolivares 18 D.,Bolivia,Czechoslovakia
+145,315,1944,2418,1,Bolivares 18 D.,Bolivia,Czechoslovakia
+145,315,1946,0,1,Bolivares 18 D.,Bolivia,Czechoslovakia
+145,315,1947,14848,1,Us $,Bolivia,Czechoslovakia
+145,315,1948,55341,1,Us $,Bolivia,Czechoslovakia
+145,315,1949,145297,1,Us $,Bolivia,Czechoslovakia
+145,325,1916,462009,1,,Bolivia,Italy
+145,325,1917,422583,1,,Bolivia,Italy
+145,325,1918,355956,1,,Bolivia,Italy
+145,325,1919,234013,1,,Bolivia,Italy
+145,325,1920,704962,1,,Bolivia,Italy
+145,325,1921,915333,1,,Bolivia,Italy
+145,325,1922,1471806,1,,Bolivia,Italy
+145,325,1923,2055529,1,,Bolivia,Italy
+145,325,1924,2559781.29,1,,Bolivia,Italy
+145,325,1925,2987085.41,1,,Bolivia,Italy
+145,325,1926,3833212.43,1,Bolivars,Bolivia,Italy
+145,325,1927,3476027.91,1,Bolivars,Bolivia,Italy
+145,325,1928,2334378,1,Bolivars,Bolivia,Italy
+145,325,1929,2765813,1,Bolivars,Bolivia,Italy
+145,325,1930,2593961,1,Bolivars,Bolivia,Italy
+145,325,1931,1030007,1,Bolivars,Bolivia,Italy
+145,325,1932,618198,1,Bolivars,Bolivia,Italy
+145,325,1933,705369,1,Bolivars,Bolivia,Italy
+145,325,1934,488642,1,Bolivars,Bolivia,Italy
+145,325,1935,508320,1,Bolivars,Bolivia,Italy
+145,325,1936,577535,1,Bolivars,Bolivia,Italy
+145,325,1937,482003,1,Bolivars,Bolivia,Italy
+145,325,1938,699072,1,Bolivares 18 P,Bolivia,Italy
+145,325,1939,1527341,1,Bolivares 18 P,Bolivia,Italy
+145,325,1940,835151,1,Bolivares 18 P,Bolivia,Italy
+145,325,1941,193263,1,Bolivares 18 D.,Bolivia,Italy
+145,325,1942,99986,1,Bolivares 18 D.,Bolivia,Italy
+145,325,1944,0,1,Bolivares 18 D.,Bolivia,Italy
+145,325,1946,19651,1,Bolivares 18 D.,Bolivia,Italy
+145,325,1947,344256,1,Us $,Bolivia,Italy
+145,325,1948,552651,1,Us $,Bolivia,Italy
+145,325,1949,958212,1,Us $,Bolivia,Italy
+145,345,1916,0,1,,Bolivia,Yugoslavia
+145,345,1917,0,1,,Bolivia,Yugoslavia
+145,345,1918,0,1,,Bolivia,Yugoslavia
+145,345,1919,0,1,,Bolivia,Yugoslavia
+145,345,1920,0,1,,Bolivia,Yugoslavia
+145,345,1921,0,1,,Bolivia,Yugoslavia
+145,345,1922,0,1,,Bolivia,Yugoslavia
+145,345,1923,0,1,,Bolivia,Yugoslavia
+145,345,1924,579.89,1,,Bolivia,Yugoslavia
+145,345,1925,2745.67,1,,Bolivia,Yugoslavia
+145,345,1926,5985.9,1,Bolivars,Bolivia,Yugoslavia
+145,345,1927,142129.26,1,Bolivars,Bolivia,Yugoslavia
+145,345,1928,28424,1,Bolivars,Bolivia,Yugoslavia
+145,345,1929,11597,1,Bolivars,Bolivia,Yugoslavia
+145,345,1930,4007,1,Bolivars,Bolivia,Yugoslavia
+145,345,1931,3755,1,Bolivars,Bolivia,Yugoslavia
+145,345,1932,186,1,Bolivars,Bolivia,Yugoslavia
+145,345,1933,4521,1,Bolivars,Bolivia,Yugoslavia
+145,345,1934,23,1,Bolivars,Bolivia,Yugoslavia
+145,345,1935,0,1,Bolivars,Bolivia,Yugoslavia
+145,345,1936,25,1,Bolivars,Bolivia,Yugoslavia
+145,345,1937,54,1,Bolivars,Bolivia,Yugoslavia
+145,345,1938,4464,1,Bolivares 18 P,Bolivia,Yugoslavia
+145,345,1939,5491,1,Bolivares 18 P,Bolivia,Yugoslavia
+145,345,1940,16166,1,Bolivares 18 P,Bolivia,Yugoslavia
+145,345,1941,0,1,Bolivares 18 D.,Bolivia,Yugoslavia
+145,345,1942,0,1,Bolivares 18 D.,Bolivia,Yugoslavia
+145,345,1944,0,1,Bolivares 18 D.,Bolivia,Yugoslavia
+145,345,1946,0,1,Bolivares 18 D.,Bolivia,Yugoslavia
+145,345,1947,0,1,Us $,Bolivia,Yugoslavia
+145,345,1948,5,1,Us $,Bolivia,Yugoslavia
+145,345,1949,5,1,Us $,Bolivia,Yugoslavia
+145,350,1916,0,1,,Bolivia,Greece
+145,350,1917,0,1,,Bolivia,Greece
+145,350,1918,0,1,,Bolivia,Greece
+145,350,1919,0,1,,Bolivia,Greece
+145,350,1920,0,1,,Bolivia,Greece
+145,350,1921,0,1,,Bolivia,Greece
+145,350,1922,0,1,,Bolivia,Greece
+145,350,1923,0,1,,Bolivia,Greece
+145,350,1924,0,1,,Bolivia,Greece
+145,350,1925,0,1,,Bolivia,Greece
+145,350,1926,0,1,Bolivars,Bolivia,Greece
+145,350,1927,0,1,Bolivars,Bolivia,Greece
+145,350,1928,6793,1,Bolivars,Bolivia,Greece
+145,350,1929,0,1,Bolivars,Bolivia,Greece
+145,350,1930,0,1,Bolivars,Bolivia,Greece
+145,350,1931,0,1,Bolivars,Bolivia,Greece
+145,350,1932,0,1,Bolivars,Bolivia,Greece
+145,350,1933,0,1,Bolivars,Bolivia,Greece
+145,350,1934,0,1,Bolivars,Bolivia,Greece
+145,350,1935,0,1,Bolivars,Bolivia,Greece
+145,350,1936,0,1,Bolivars,Bolivia,Greece
+145,350,1937,0,1,Bolivars,Bolivia,Greece
+145,350,1938,0,1,Bolivares 18 P,Bolivia,Greece
+145,350,1939,0,1,Bolivares 18 P,Bolivia,Greece
+145,350,1940,0,1,Bolivares 18 P,Bolivia,Greece
+145,350,1941,0,1,Bolivares 18 D.,Bolivia,Greece
+145,350,1942,0,1,Bolivares 18 D.,Bolivia,Greece
+145,350,1944,0,1,Bolivares 18 D.,Bolivia,Greece
+145,350,1946,0,1,Bolivares 18 D.,Bolivia,Greece
+145,350,1947,0,1,Us $,Bolivia,Greece
+145,350,1948,1190,1,Us $,Bolivia,Greece
+145,350,1949,0,1,Us $,Bolivia,Greece
+145,355,1916,0,1,,Bolivia,Bulgaria
+145,355,1917,0,1,,Bolivia,Bulgaria
+145,355,1918,0,1,,Bolivia,Bulgaria
+145,355,1919,0,1,,Bolivia,Bulgaria
+145,355,1920,0,1,,Bolivia,Bulgaria
+145,355,1921,0,1,,Bolivia,Bulgaria
+145,355,1922,0,1,,Bolivia,Bulgaria
+145,355,1923,0,1,,Bolivia,Bulgaria
+145,355,1924,0,1,,Bolivia,Bulgaria
+145,355,1925,0,1,,Bolivia,Bulgaria
+145,355,1926,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1927,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1928,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1929,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1930,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1931,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1932,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1933,43,1,Bolivars,Bolivia,Bulgaria
+145,355,1934,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1935,0,1,Bolivars,Bolivia,Bulgaria
+145,355,1936,35,1,Bolivars,Bolivia,Bulgaria
+145,355,1937,1295,1,Bolivars,Bolivia,Bulgaria
+145,355,1938,0,1,Bolivares 18 P,Bolivia,Bulgaria
+145,355,1939,0,1,Bolivares 18 P,Bolivia,Bulgaria
+145,355,1940,0,1,Bolivares 18 P,Bolivia,Bulgaria
+145,355,1941,0,1,Bolivares 18 D.,Bolivia,Bulgaria
+145,355,1942,0,1,Bolivares 18 D.,Bolivia,Bulgaria
+145,355,1944,0,1,Bolivares 18 D.,Bolivia,Bulgaria
+145,355,1946,0,1,Bolivares 18 D.,Bolivia,Bulgaria
+145,355,1947,0,1,Us $,Bolivia,Bulgaria
+145,355,1948,0,1,Us $,Bolivia,Bulgaria
+145,355,1949,0,1,Us $,Bolivia,Bulgaria
+145,360,1916,0,1,,Bolivia,Romania
+145,360,1917,0,1,,Bolivia,Romania
+145,360,1918,0,1,,Bolivia,Romania
+145,360,1919,0,1,,Bolivia,Romania
+145,360,1920,0,1,,Bolivia,Romania
+145,360,1921,0,1,,Bolivia,Romania
+145,360,1922,0,1,,Bolivia,Romania
+145,360,1923,0,1,,Bolivia,Romania
+145,360,1924,0,1,,Bolivia,Romania
+145,360,1925,0,1,,Bolivia,Romania
+145,360,1926,0,1,Bolivars,Bolivia,Romania
+145,360,1927,0,1,Bolivars,Bolivia,Romania
+145,360,1928,0,1,Bolivars,Bolivia,Romania
+145,360,1929,9159,1,Bolivars,Bolivia,Romania
+145,360,1930,0,1,Bolivars,Bolivia,Romania
+145,360,1931,0,1,Bolivars,Bolivia,Romania
+145,360,1932,0,1,Bolivars,Bolivia,Romania
+145,360,1933,0,1,Bolivars,Bolivia,Romania
+145,360,1934,0,1,Bolivars,Bolivia,Romania
+145,360,1935,0,1,Bolivars,Bolivia,Romania
+145,360,1936,0,1,Bolivars,Bolivia,Romania
+145,360,1937,0,1,Bolivars,Bolivia,Romania
+145,360,1938,0,1,Bolivares 18 P,Bolivia,Romania
+145,360,1939,0,1,Bolivares 18 P,Bolivia,Romania
+145,360,1940,0,1,Bolivares 18 P,Bolivia,Romania
+145,360,1941,0,1,Bolivares 18 D.,Bolivia,Romania
+145,360,1942,0,1,Bolivares 18 D.,Bolivia,Romania
+145,360,1944,0,1,Bolivares 18 D.,Bolivia,Romania
+145,360,1946,0,1,Bolivares 18 D.,Bolivia,Romania
+145,360,1947,47,1,Us $,Bolivia,Romania
+145,360,1948,25,1,Us $,Bolivia,Romania
+145,360,1949,0,1,Us $,Bolivia,Romania
+145,365,1916,0,1,,Bolivia,Russia
+145,365,1917,0,1,,Bolivia,Russia
+145,365,1918,0,1,,Bolivia,Russia
+145,365,1919,0,1,,Bolivia,Russia
+145,365,1920,0,1,,Bolivia,Russia
+145,365,1921,0,1,,Bolivia,Russia
+145,365,1922,0,1,,Bolivia,Russia
+145,365,1923,0,1,,Bolivia,Russia
+145,365,1924,0,1,,Bolivia,Russia
+145,365,1925,0,1,,Bolivia,Russia
+145,365,1926,0,1,Bolivars,Bolivia,Russia
+145,365,1927,0,1,Bolivars,Bolivia,Russia
+145,365,1928,0,1,Bolivars,Bolivia,Russia
+145,365,1929,117279,1,Bolivars,Bolivia,Russia
+145,365,1930,99917,1,Bolivars,Bolivia,Russia
+145,365,1931,0,1,Bolivars,Bolivia,Russia
+145,365,1932,742,1,Bolivars,Bolivia,Russia
+145,365,1933,0,1,Bolivars,Bolivia,Russia
+145,365,1934,748,1,Bolivars,Bolivia,Russia
+145,365,1935,10366,1,Bolivars,Bolivia,Russia
+145,365,1936,0,1,Bolivars,Bolivia,Russia
+145,365,1937,0,1,Bolivars,Bolivia,Russia
+145,365,1938,8890,1,Bolivares 18 P,Bolivia,Russia
+145,365,1939,0,1,Bolivares 18 P,Bolivia,Russia
+145,365,1940,0,1,Bolivares 18 P,Bolivia,Russia
+145,365,1941,0,1,Bolivares 18 D.,Bolivia,Russia
+145,365,1942,0,1,Bolivares 18 D.,Bolivia,Russia
+145,365,1944,0,1,Bolivares 18 D.,Bolivia,Russia
+145,365,1946,0,1,Bolivares 18 D.,Bolivia,Russia
+145,365,1947,0,1,Us $,Bolivia,Russia
+145,365,1948,0,1,Us $,Bolivia,Russia
+145,365,1949,0,1,Us $,Bolivia,Russia
+145,366,1916,0,1,,Bolivia,Estonia
+145,366,1917,0,1,,Bolivia,Estonia
+145,366,1918,0,1,,Bolivia,Estonia
+145,366,1919,0,1,,Bolivia,Estonia
+145,366,1920,0,1,,Bolivia,Estonia
+145,366,1921,0,1,,Bolivia,Estonia
+145,366,1922,0,1,,Bolivia,Estonia
+145,366,1923,0,1,,Bolivia,Estonia
+145,366,1924,0,1,,Bolivia,Estonia
+145,366,1925,0,1,,Bolivia,Estonia
+145,366,1926,0,1,Bolivars,Bolivia,Estonia
+145,366,1927,0,1,Bolivars,Bolivia,Estonia
+145,366,1928,0,1,Bolivars,Bolivia,Estonia
+145,366,1929,0,1,Bolivars,Bolivia,Estonia
+145,366,1930,0,1,Bolivars,Bolivia,Estonia
+145,366,1931,0,1,Bolivars,Bolivia,Estonia
+145,366,1932,526,1,Bolivars,Bolivia,Estonia
+145,366,1933,0,1,Bolivars,Bolivia,Estonia
+145,366,1934,0,1,Bolivars,Bolivia,Estonia
+145,366,1935,1779,1,Bolivars,Bolivia,Estonia
+145,366,1936,0,1,Bolivars,Bolivia,Estonia
+145,366,1937,2521,1,Bolivars,Bolivia,Estonia
+145,366,1938,1684,1,Bolivares 18 P,Bolivia,Estonia
+145,366,1939,1738,1,Bolivares 18 P,Bolivia,Estonia
+145,366,1940,0,1,Bolivares 18 P,Bolivia,Estonia
+145,366,1941,403,1,Bolivares 18 D.,Bolivia,Estonia
+145,366,1942,0,1,Bolivares 18 D.,Bolivia,Estonia
+145,366,1944,0,1,Bolivares 18 D.,Bolivia,Estonia
+145,366,1946,0,1,Bolivares 18 D.,Bolivia,Estonia
+145,366,1947,0,1,Us $,Bolivia,Estonia
+145,366,1948,0,1,Us $,Bolivia,Estonia
+145,366,1949,0,1,Us $,Bolivia,Estonia
+145,368,1916,0,1,,Bolivia,Lithuania
+145,368,1917,0,1,,Bolivia,Lithuania
+145,368,1918,0,1,,Bolivia,Lithuania
+145,368,1919,0,1,,Bolivia,Lithuania
+145,368,1920,0,1,,Bolivia,Lithuania
+145,368,1921,0,1,,Bolivia,Lithuania
+145,368,1922,0,1,,Bolivia,Lithuania
+145,368,1923,0,1,,Bolivia,Lithuania
+145,368,1924,0,1,,Bolivia,Lithuania
+145,368,1925,0,1,,Bolivia,Lithuania
+145,368,1926,0,1,Bolivars,Bolivia,Lithuania
+145,368,1927,0,1,Bolivars,Bolivia,Lithuania
+145,368,1928,0,1,Bolivars,Bolivia,Lithuania
+145,368,1929,0,1,Bolivars,Bolivia,Lithuania
+145,368,1930,0,1,Bolivars,Bolivia,Lithuania
+145,368,1931,0,1,Bolivars,Bolivia,Lithuania
+145,368,1932,0,1,Bolivars,Bolivia,Lithuania
+145,368,1933,0,1,Bolivars,Bolivia,Lithuania
+145,368,1934,0,1,Bolivars,Bolivia,Lithuania
+145,368,1935,0,1,Bolivars,Bolivia,Lithuania
+145,368,1936,0,1,Bolivars,Bolivia,Lithuania
+145,368,1937,0,1,Bolivars,Bolivia,Lithuania
+145,368,1938,0,1,Bolivares 18 P,Bolivia,Lithuania
+145,368,1939,20,1,Bolivares 18 P,Bolivia,Lithuania
+145,368,1940,0,1,Bolivares 18 P,Bolivia,Lithuania
+145,368,1941,0,1,Bolivares 18 D.,Bolivia,Lithuania
+145,368,1942,0,1,Bolivares 18 D.,Bolivia,Lithuania
+145,368,1944,0,1,Bolivares 18 D.,Bolivia,Lithuania
+145,368,1946,0,1,Bolivares 18 D.,Bolivia,Lithuania
+145,368,1947,0,1,Us $,Bolivia,Lithuania
+145,368,1948,0,1,Us $,Bolivia,Lithuania
+145,368,1949,0,1,Us $,Bolivia,Lithuania
+145,375,1916,0,1,,Bolivia,Finland
+145,375,1917,0,1,,Bolivia,Finland
+145,375,1918,0,1,,Bolivia,Finland
+145,375,1919,0,1,,Bolivia,Finland
+145,375,1920,0,1,,Bolivia,Finland
+145,375,1921,0,1,,Bolivia,Finland
+145,375,1922,0,1,,Bolivia,Finland
+145,375,1923,0,1,,Bolivia,Finland
+145,375,1924,0,1,,Bolivia,Finland
+145,375,1925,0,1,,Bolivia,Finland
+145,375,1926,0,1,Bolivars,Bolivia,Finland
+145,375,1927,0,1,Bolivars,Bolivia,Finland
+145,375,1928,0,1,Bolivars,Bolivia,Finland
+145,375,1929,768,1,Bolivars,Bolivia,Finland
+145,375,1930,4642,1,Bolivars,Bolivia,Finland
+145,375,1931,0,1,Bolivars,Bolivia,Finland
+145,375,1932,0,1,Bolivars,Bolivia,Finland
+145,375,1933,162334,1,Bolivars,Bolivia,Finland
+145,375,1934,252,1,Bolivars,Bolivia,Finland
+145,375,1935,3337,1,Bolivars,Bolivia,Finland
+145,375,1936,1051,1,Bolivars,Bolivia,Finland
+145,375,1937,0,1,Bolivars,Bolivia,Finland
+145,375,1938,20074,1,Bolivares 18 P,Bolivia,Finland
+145,375,1939,11723,1,Bolivares 18 P,Bolivia,Finland
+145,375,1940,0,1,Bolivares 18 P,Bolivia,Finland
+145,375,1941,7112,1,Bolivares 18 D.,Bolivia,Finland
+145,375,1942,0,1,Bolivares 18 D.,Bolivia,Finland
+145,375,1944,0,1,Bolivares 18 D.,Bolivia,Finland
+145,375,1946,0,1,Bolivares 18 D.,Bolivia,Finland
+145,375,1947,2770,1,Us $,Bolivia,Finland
+145,375,1948,1567,1,Us $,Bolivia,Finland
+145,375,1949,0,1,Us $,Bolivia,Finland
+145,380,1916,27114,1,,Bolivia,Sweden
+145,380,1917,52105,1,,Bolivia,Sweden
+145,380,1918,112187,1,,Bolivia,Sweden
+145,380,1919,19564,1,,Bolivia,Sweden
+145,380,1920,349289,1,,Bolivia,Sweden
+145,380,1921,590866,1,,Bolivia,Sweden
+145,380,1922,90087,1,,Bolivia,Sweden
+145,380,1923,446925,1,,Bolivia,Sweden
+145,380,1924,278504.33,1,,Bolivia,Sweden
+145,380,1925,268526.53,1,,Bolivia,Sweden
+145,380,1926,320655.14,1,Bolivars,Bolivia,Sweden
+145,380,1927,226301.36,1,Bolivars,Bolivia,Sweden
+145,380,1928,277621,1,Bolivars,Bolivia,Sweden
+145,380,1929,424507,1,Bolivars,Bolivia,Sweden
+145,380,1930,413211,1,Bolivars,Bolivia,Sweden
+145,380,1931,252051,1,Bolivars,Bolivia,Sweden
+145,380,1932,213749,1,Bolivars,Bolivia,Sweden
+145,380,1933,961152,1,Bolivars,Bolivia,Sweden
+145,380,1934,2190995,1,Bolivars,Bolivia,Sweden
+145,380,1935,1330250,1,Bolivars,Bolivia,Sweden
+145,380,1936,585989,1,Bolivars,Bolivia,Sweden
+145,380,1937,810453,1,Bolivars,Bolivia,Sweden
+145,380,1938,715972,1,Bolivares 18 P,Bolivia,Sweden
+145,380,1939,518396,1,Bolivares 18 P,Bolivia,Sweden
+145,380,1940,738080,1,Bolivares 18 P,Bolivia,Sweden
+145,380,1941,503987,1,Bolivares 18 D.,Bolivia,Sweden
+145,380,1942,526949,1,Bolivares 18 D.,Bolivia,Sweden
+145,380,1944,0,1,Bolivares 18 D.,Bolivia,Sweden
+145,380,1946,2924876,1,Bolivares 18 D.,Bolivia,Sweden
+145,380,1947,1120889,1,Us $,Bolivia,Sweden
+145,380,1948,1110167,1,Us $,Bolivia,Sweden
+145,380,1949,1366628,1,Us $,Bolivia,Sweden
+145,385,1916,1176,1,,Bolivia,Norway
+145,385,1917,8703,1,,Bolivia,Norway
+145,385,1918,9503,1,,Bolivia,Norway
+145,385,1919,18630,1,,Bolivia,Norway
+145,385,1920,191321,1,,Bolivia,Norway
+145,385,1921,49885,1,,Bolivia,Norway
+145,385,1922,65041,1,,Bolivia,Norway
+145,385,1923,55161,1,,Bolivia,Norway
+145,385,1924,72997.28,1,,Bolivia,Norway
+145,385,1925,132808.95,1,,Bolivia,Norway
+145,385,1926,70201.60000000001,1,Bolivars,Bolivia,Norway
+145,385,1927,171006.61,1,Bolivars,Bolivia,Norway
+145,385,1928,192101,1,Bolivars,Bolivia,Norway
+145,385,1929,225523,1,Bolivars,Bolivia,Norway
+145,385,1930,76414,1,Bolivars,Bolivia,Norway
+145,385,1931,30523,1,Bolivars,Bolivia,Norway
+145,385,1932,281660,1,Bolivars,Bolivia,Norway
+145,385,1933,1265039,1,Bolivars,Bolivia,Norway
+145,385,1934,3644726,1,Bolivars,Bolivia,Norway
+145,385,1935,4585933,1,Bolivars,Bolivia,Norway
+145,385,1936,317678,1,Bolivars,Bolivia,Norway
+145,385,1937,244810,1,Bolivars,Bolivia,Norway
+145,385,1938,341464,1,Bolivares 18 P,Bolivia,Norway
+145,385,1939,210849,1,Bolivares 18 P,Bolivia,Norway
+145,385,1940,168770,1,Bolivares 18 P,Bolivia,Norway
+145,385,1941,7,1,Bolivares 18 D.,Bolivia,Norway
+145,385,1942,0,1,Bolivares 18 D.,Bolivia,Norway
+145,385,1944,0,1,Bolivares 18 D.,Bolivia,Norway
+145,385,1946,52454,1,Bolivares 18 D.,Bolivia,Norway
+145,385,1947,71113,1,Us $,Bolivia,Norway
+145,385,1948,44813,1,Us $,Bolivia,Norway
+145,385,1949,34970,1,Us $,Bolivia,Norway
+145,390,1916,86172,1,,Bolivia,Denmark
+145,390,1917,25994,1,,Bolivia,Denmark
+145,390,1918,6567,1,,Bolivia,Denmark
+145,390,1919,15450,1,,Bolivia,Denmark
+145,390,1920,28476,1,,Bolivia,Denmark
+145,390,1921,32974,1,,Bolivia,Denmark
+145,390,1922,129709,1,,Bolivia,Denmark
+145,390,1923,71162,1,,Bolivia,Denmark
+145,390,1924,96816.47,1,,Bolivia,Denmark
+145,390,1925,411614.37,1,,Bolivia,Denmark
+145,390,1926,98958.23,1,Bolivars,Bolivia,Denmark
+145,390,1927,115578.18,1,Bolivars,Bolivia,Denmark
+145,390,1928,101470,1,Bolivars,Bolivia,Denmark
+145,390,1929,158545,1,Bolivars,Bolivia,Denmark
+145,390,1930,175605,1,Bolivars,Bolivia,Denmark
+145,390,1931,55261,1,Bolivars,Bolivia,Denmark
+145,390,1932,52837,1,Bolivars,Bolivia,Denmark
+145,390,1933,59059,1,Bolivars,Bolivia,Denmark
+145,390,1934,72511,1,Bolivars,Bolivia,Denmark
+145,390,1935,53808,1,Bolivars,Bolivia,Denmark
+145,390,1936,56603,1,Bolivars,Bolivia,Denmark
+145,390,1937,57533,1,Bolivars,Bolivia,Denmark
+145,390,1938,380029,1,Bolivares 18 P,Bolivia,Denmark
+145,390,1939,30762,1,Bolivares 18 P,Bolivia,Denmark
+145,390,1940,66683,1,Bolivares 18 P,Bolivia,Denmark
+145,390,1941,2230,1,Bolivares 18 D.,Bolivia,Denmark
+145,390,1942,0,1,Bolivares 18 D.,Bolivia,Denmark
+145,390,1944,0,1,Bolivares 18 D.,Bolivia,Denmark
+145,390,1946,15603,1,Bolivares 18 D.,Bolivia,Denmark
+145,390,1947,17132,1,Us $,Bolivia,Denmark
+145,390,1948,22953,1,Us $,Bolivia,Denmark
+145,390,1949,21803,1,Us $,Bolivia,Denmark
+145,480,1916,0,1,,Bolivia,French Equatorial Africa
+145,480,1917,0,1,,Bolivia,French Equatorial Africa
+145,480,1918,0,1,,Bolivia,French Equatorial Africa
+145,480,1919,0,1,,Bolivia,French Equatorial Africa
+145,480,1920,0,1,,Bolivia,French Equatorial Africa
+145,480,1921,0,1,,Bolivia,French Equatorial Africa
+145,480,1922,0,1,,Bolivia,French Equatorial Africa
+145,480,1923,0,1,,Bolivia,French Equatorial Africa
+145,480,1924,0,1,,Bolivia,French Equatorial Africa
+145,480,1925,0,1,,Bolivia,French Equatorial Africa
+145,480,1926,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1927,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1928,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1929,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1930,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1931,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1932,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1933,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1934,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1935,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1936,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1937,0,1,Bolivars,Bolivia,French Equatorial Africa
+145,480,1938,0,1,Bolivares 18 P,Bolivia,French Equatorial Africa
+145,480,1939,0,1,Bolivares 18 P,Bolivia,French Equatorial Africa
+145,480,1940,0,1,Bolivares 18 P,Bolivia,French Equatorial Africa
+145,480,1941,0,1,Bolivares 18 D.,Bolivia,French Equatorial Africa
+145,480,1942,0,1,Bolivares 18 D.,Bolivia,French Equatorial Africa
+145,480,1944,0,1,Bolivares 18 D.,Bolivia,French Equatorial Africa
+145,480,1946,209,1,Bolivares 18 D.,Bolivia,French Equatorial Africa
+145,480,1947,0,1,Us $,Bolivia,French Equatorial Africa
+145,480,1948,0,1,Us $,Bolivia,French Equatorial Africa
+145,480,1949,0,1,Us $,Bolivia,French Equatorial Africa
+145,560,1916,0,1,,Bolivia,South Africa
+145,560,1917,0,1,,Bolivia,South Africa
+145,560,1918,0,1,,Bolivia,South Africa
+145,560,1919,0,1,,Bolivia,South Africa
+145,560,1920,0,1,,Bolivia,South Africa
+145,560,1921,0,1,,Bolivia,South Africa
+145,560,1922,0,1,,Bolivia,South Africa
+145,560,1923,0,1,,Bolivia,South Africa
+145,560,1924,0,1,,Bolivia,South Africa
+145,560,1925,0,1,,Bolivia,South Africa
+145,560,1926,0,1,Bolivars,Bolivia,South Africa
+145,560,1927,0,1,Bolivars,Bolivia,South Africa
+145,560,1928,0,1,Bolivars,Bolivia,South Africa
+145,560,1929,0,1,Bolivars,Bolivia,South Africa
+145,560,1930,0,1,Bolivars,Bolivia,South Africa
+145,560,1931,0,1,Bolivars,Bolivia,South Africa
+145,560,1932,0,1,Bolivars,Bolivia,South Africa
+145,560,1933,0,1,Bolivars,Bolivia,South Africa
+145,560,1934,0,1,Bolivars,Bolivia,South Africa
+145,560,1935,0,1,Bolivars,Bolivia,South Africa
+145,560,1936,0,1,Bolivars,Bolivia,South Africa
+145,560,1937,0,1,Bolivars,Bolivia,South Africa
+145,560,1938,0,1,Bolivares 18 P,Bolivia,South Africa
+145,560,1939,0,1,Bolivares 18 P,Bolivia,South Africa
+145,560,1940,0,1,Bolivares 18 P,Bolivia,South Africa
+145,560,1941,0,1,Bolivares 18 D.,Bolivia,South Africa
+145,560,1942,0,1,Bolivares 18 D.,Bolivia,South Africa
+145,560,1944,0,1,Bolivares 18 D.,Bolivia,South Africa
+145,560,1946,0,1,Bolivares 18 D.,Bolivia,South Africa
+145,560,1947,0,1,Us $,Bolivia,South Africa
+145,560,1948,0,1,Us $,Bolivia,South Africa
+145,560,1949,30,1,Us $,Bolivia,South Africa
+145,630,1916,0,1,,Bolivia,Iran
+145,630,1917,0,1,,Bolivia,Iran
+145,630,1918,0,1,,Bolivia,Iran
+145,630,1919,0,1,,Bolivia,Iran
+145,630,1920,0,1,,Bolivia,Iran
+145,630,1921,0,1,,Bolivia,Iran
+145,630,1922,0,1,,Bolivia,Iran
+145,630,1923,0,1,,Bolivia,Iran
+145,630,1924,0,1,,Bolivia,Iran
+145,630,1925,0,1,,Bolivia,Iran
+145,630,1926,0,1,Bolivars,Bolivia,Iran
+145,630,1927,0,1,Bolivars,Bolivia,Iran
+145,630,1928,0,1,Bolivars,Bolivia,Iran
+145,630,1929,0,1,Bolivars,Bolivia,Iran
+145,630,1930,0,1,Bolivars,Bolivia,Iran
+145,630,1931,0,1,Bolivars,Bolivia,Iran
+145,630,1932,0,1,Bolivars,Bolivia,Iran
+145,630,1933,0,1,Bolivars,Bolivia,Iran
+145,630,1934,0,1,Bolivars,Bolivia,Iran
+145,630,1935,0,1,Bolivars,Bolivia,Iran
+145,630,1936,0,1,Bolivars,Bolivia,Iran
+145,630,1937,0,1,Bolivars,Bolivia,Iran
+145,630,1938,0,1,Bolivares 18 P,Bolivia,Iran
+145,630,1939,0,1,Bolivares 18 P,Bolivia,Iran
+145,630,1940,0,1,Bolivares 18 P,Bolivia,Iran
+145,630,1941,0,1,Bolivares 18 D.,Bolivia,Iran
+145,630,1942,0,1,Bolivares 18 D.,Bolivia,Iran
+145,630,1944,0,1,Bolivares 18 D.,Bolivia,Iran
+145,630,1946,0,1,Bolivares 18 D.,Bolivia,Iran
+145,630,1947,4,1,Us $,Bolivia,Iran
+145,630,1948,0,1,Us $,Bolivia,Iran
+145,630,1949,0,1,Us $,Bolivia,Iran
+145,640,1916,0,1,,Bolivia,Turkey
+145,640,1917,0,1,,Bolivia,Turkey
+145,640,1918,0,1,,Bolivia,Turkey
+145,640,1919,2,1,,Bolivia,Turkey
+145,640,1920,28703,1,,Bolivia,Turkey
+145,640,1921,146,1,,Bolivia,Turkey
+145,640,1922,631,1,,Bolivia,Turkey
+145,640,1923,0,1,,Bolivia,Turkey
+145,640,1924,13.81,1,,Bolivia,Turkey
+145,640,1925,28,1,,Bolivia,Turkey
+145,640,1926,220,1,Bolivars,Bolivia,Turkey
+145,640,1927,60,1,Bolivars,Bolivia,Turkey
+145,640,1928,250,1,Bolivars,Bolivia,Turkey
+145,640,1929,48,1,Bolivars,Bolivia,Turkey
+145,640,1930,0,1,Bolivars,Bolivia,Turkey
+145,640,1931,0,1,Bolivars,Bolivia,Turkey
+145,640,1932,41,1,Bolivars,Bolivia,Turkey
+145,640,1933,58,1,Bolivars,Bolivia,Turkey
+145,640,1934,32,1,Bolivars,Bolivia,Turkey
+145,640,1935,1506,1,Bolivars,Bolivia,Turkey
+145,640,1936,10134,1,Bolivars,Bolivia,Turkey
+145,640,1937,7125,1,Bolivars,Bolivia,Turkey
+145,640,1938,112,1,Bolivares 18 P,Bolivia,Turkey
+145,640,1939,1284,1,Bolivares 18 P,Bolivia,Turkey
+145,640,1940,0,1,Bolivares 18 P,Bolivia,Turkey
+145,640,1941,0,1,Bolivares 18 D.,Bolivia,Turkey
+145,640,1942,0,1,Bolivares 18 D.,Bolivia,Turkey
+145,640,1944,0,1,Bolivares 18 D.,Bolivia,Turkey
+145,640,1946,0,1,Bolivares 18 D.,Bolivia,Turkey
+145,640,1947,0,1,Us $,Bolivia,Turkey
+145,640,1948,0,1,Us $,Bolivia,Turkey
+145,640,1949,0,1,Us $,Bolivia,Turkey
+145,651,1916,0,1,,Bolivia,Egypt
+145,651,1917,0,1,,Bolivia,Egypt
+145,651,1918,0,1,,Bolivia,Egypt
+145,651,1919,0,1,,Bolivia,Egypt
+145,651,1920,0,1,,Bolivia,Egypt
+145,651,1921,0,1,,Bolivia,Egypt
+145,651,1922,0,1,,Bolivia,Egypt
+145,651,1923,0,1,,Bolivia,Egypt
+145,651,1924,0,1,,Bolivia,Egypt
+145,651,1925,0,1,,Bolivia,Egypt
+145,651,1926,0,1,Bolivars,Bolivia,Egypt
+145,651,1927,0,1,Bolivars,Bolivia,Egypt
+145,651,1928,0,1,Bolivars,Bolivia,Egypt
+145,651,1929,0,1,Bolivars,Bolivia,Egypt
+145,651,1930,0,1,Bolivars,Bolivia,Egypt
+145,651,1931,0,1,Bolivars,Bolivia,Egypt
+145,651,1932,0,1,Bolivars,Bolivia,Egypt
+145,651,1933,0,1,Bolivars,Bolivia,Egypt
+145,651,1934,0,1,Bolivars,Bolivia,Egypt
+145,651,1935,0,1,Bolivars,Bolivia,Egypt
+145,651,1936,0,1,Bolivars,Bolivia,Egypt
+145,651,1937,12612,1,Bolivars,Bolivia,Egypt
+145,651,1938,73,1,Bolivares 18 P,Bolivia,Egypt
+145,651,1939,14438,1,Bolivares 18 P,Bolivia,Egypt
+145,651,1940,0,1,Bolivares 18 P,Bolivia,Egypt
+145,651,1941,0,1,Bolivares 18 D.,Bolivia,Egypt
+145,651,1942,0,1,Bolivares 18 D.,Bolivia,Egypt
+145,651,1944,0,1,Bolivares 18 D.,Bolivia,Egypt
+145,651,1946,0,1,Bolivares 18 D.,Bolivia,Egypt
+145,651,1947,307,1,Us $,Bolivia,Egypt
+145,651,1948,0,1,Us $,Bolivia,Egypt
+145,651,1949,0,1,Us $,Bolivia,Egypt
+145,652,1916,0,1,,Bolivia,Syria
+145,652,1917,0,1,,Bolivia,Syria
+145,652,1918,0,1,,Bolivia,Syria
+145,652,1919,0,1,,Bolivia,Syria
+145,652,1920,0,1,,Bolivia,Syria
+145,652,1921,0,1,,Bolivia,Syria
+145,652,1922,174,1,,Bolivia,Syria
+145,652,1923,82,1,,Bolivia,Syria
+145,652,1924,562.53,1,,Bolivia,Syria
+145,652,1925,83.59999999999999,1,,Bolivia,Syria
+145,652,1926,131,1,Bolivars,Bolivia,Syria
+145,652,1927,20,1,Bolivars,Bolivia,Syria
+145,652,1928,0,1,Bolivars,Bolivia,Syria
+145,652,1929,0,1,Bolivars,Bolivia,Syria
+145,652,1930,0,1,Bolivars,Bolivia,Syria
+145,652,1931,0,1,Bolivars,Bolivia,Syria
+145,652,1932,0,1,Bolivars,Bolivia,Syria
+145,652,1933,0,1,Bolivars,Bolivia,Syria
+145,652,1934,0,1,Bolivars,Bolivia,Syria
+145,652,1935,0,1,Bolivars,Bolivia,Syria
+145,652,1936,90,1,Bolivars,Bolivia,Syria
+145,652,1937,0,1,Bolivars,Bolivia,Syria
+145,652,1938,0,1,Bolivares 18 P,Bolivia,Syria
+145,652,1939,10,1,Bolivares 18 P,Bolivia,Syria
+145,652,1940,102,1,Bolivares 18 P,Bolivia,Syria
+145,652,1941,0,1,Bolivares 18 D.,Bolivia,Syria
+145,652,1942,0,1,Bolivares 18 D.,Bolivia,Syria
+145,652,1944,0,1,Bolivares 18 D.,Bolivia,Syria
+145,652,1946,0,1,Bolivares 18 D.,Bolivia,Syria
+145,652,1947,0,1,Us $,Bolivia,Syria
+145,652,1948,0,1,Us $,Bolivia,Syria
+145,652,1949,0,1,Us $,Bolivia,Syria
+145,710,1916,125991,1,,Bolivia,China
+145,710,1917,312267,1,,Bolivia,China
+145,710,1918,130116,1,,Bolivia,China
+145,710,1919,203115,1,,Bolivia,China
+145,710,1920,82031,1,,Bolivia,China
+145,710,1921,57365,1,,Bolivia,China
+145,710,1922,159111,1,,Bolivia,China
+145,710,1923,292142,1,,Bolivia,China
+145,710,1924,140682.76,1,,Bolivia,China
+145,710,1925,230904.75,1,,Bolivia,China
+145,710,1926,99260.08,1,Bolivars,Bolivia,China
+145,710,1927,57784.47,1,Bolivars,Bolivia,China
+145,710,1928,26487,1,Bolivars,Bolivia,China
+145,710,1929,56122,1,Bolivars,Bolivia,China
+145,710,1930,55753,1,Bolivars,Bolivia,China
+145,710,1931,42333,1,Bolivars,Bolivia,China
+145,710,1932,4495,1,Bolivars,Bolivia,China
+145,710,1933,0,1,Bolivars,Bolivia,China
+145,710,1934,3122,1,Bolivars,Bolivia,China
+145,710,1935,1818,1,Bolivars,Bolivia,China
+145,710,1936,76695,1,Bolivars,Bolivia,China
+145,710,1937,1267,1,Bolivars,Bolivia,China
+145,710,1938,17797,1,Bolivares 18 P,Bolivia,China
+145,710,1939,6314,1,Bolivares 18 P,Bolivia,China
+145,710,1940,13366,1,Bolivares 18 P,Bolivia,China
+145,710,1941,80698,1,Bolivares 18 D.,Bolivia,China
+145,710,1942,341,1,Bolivares 18 D.,Bolivia,China
+145,710,1944,0,1,Bolivares 18 D.,Bolivia,China
+145,710,1946,0,1,Bolivares 18 D.,Bolivia,China
+145,710,1947,2067,1,Us $,Bolivia,China
+145,710,1948,18522,1,Us $,Bolivia,China
+145,710,1949,72083,1,Us $,Bolivia,China
+145,740,1916,4117,1,,Bolivia,Japan
+145,740,1917,27519,1,,Bolivia,Japan
+145,740,1918,75189,1,,Bolivia,Japan
+145,740,1919,180658,1,,Bolivia,Japan
+145,740,1920,309205,1,,Bolivia,Japan
+145,740,1921,258356,1,,Bolivia,Japan
+145,740,1922,294852,1,,Bolivia,Japan
+145,740,1923,455104,1,,Bolivia,Japan
+145,740,1924,354241.87,1,,Bolivia,Japan
+145,740,1925,303700.49,1,,Bolivia,Japan
+145,740,1926,554218.24,1,Bolivars,Bolivia,Japan
+145,740,1927,321139.78,1,Bolivars,Bolivia,Japan
+145,740,1928,291110,1,Bolivars,Bolivia,Japan
+145,740,1929,325729,1,Bolivars,Bolivia,Japan
+145,740,1930,326049,1,Bolivars,Bolivia,Japan
+145,740,1931,264084,1,Bolivars,Bolivia,Japan
+145,740,1932,149295,1,Bolivars,Bolivia,Japan
+145,740,1933,236892,1,Bolivars,Bolivia,Japan
+145,740,1934,1549818,1,Bolivars,Bolivia,Japan
+145,740,1935,2286346,1,Bolivars,Bolivia,Japan
+145,740,1936,3454578,1,Bolivars,Bolivia,Japan
+145,740,1937,2868395,1,Bolivars,Bolivia,Japan
+145,740,1938,4937209,1,Bolivares 18 P,Bolivia,Japan
+145,740,1939,2947963,1,Bolivares 18 P,Bolivia,Japan
+145,740,1940,6618468,1,Bolivares 18 P,Bolivia,Japan
+145,740,1941,8373715,1,Bolivares 18 D.,Bolivia,Japan
+145,740,1942,725358,1,Bolivares 18 D.,Bolivia,Japan
+145,740,1944,0,1,Bolivares 18 D.,Bolivia,Japan
+145,740,1946,0,1,Bolivares 18 D.,Bolivia,Japan
+145,740,1947,0,1,Us $,Bolivia,Japan
+145,740,1948,1125,1,Us $,Bolivia,Japan
+145,740,1949,18982,1,Us $,Bolivia,Japan
+145,750,1916,129119,1,,Bolivia,India
+145,750,1917,33838,1,,Bolivia,India
+145,750,1918,118062,1,,Bolivia,India
+145,750,1919,52143,1,,Bolivia,India
+145,750,1920,58743,1,,Bolivia,India
+145,750,1921,108364,1,,Bolivia,India
+145,750,1922,187355,1,,Bolivia,India
+145,750,1923,411816,1,,Bolivia,India
+145,750,1924,358735.02,1,,Bolivia,India
+145,750,1925,203330.97,1,,Bolivia,India
+145,750,1926,267925.26,1,Bolivars,Bolivia,India
+145,750,1927,171057.69,1,Bolivars,Bolivia,India
+145,750,1928,189636,1,Bolivars,Bolivia,India
+145,750,1929,157728,1,Bolivars,Bolivia,India
+145,750,1930,118995,1,Bolivars,Bolivia,India
+145,750,1931,24636,1,Bolivars,Bolivia,India
+145,750,1932,45930,1,Bolivars,Bolivia,India
+145,750,1933,52689,1,Bolivars,Bolivia,India
+145,750,1934,28727,1,Bolivars,Bolivia,India
+145,750,1935,47678,1,Bolivars,Bolivia,India
+145,750,1936,240165,1,Bolivars,Bolivia,India
+145,750,1937,293019,1,Bolivars,Bolivia,India
+145,750,1938,488085,1,Bolivares 18 P,Bolivia,India
+145,750,1939,357518,1,Bolivares 18 P,Bolivia,India
+145,750,1940,479395,1,Bolivares 18 P,Bolivia,India
+145,750,1941,308010,1,Bolivares 18 D.,Bolivia,India
+145,750,1942,630780,1,Bolivares 18 D.,Bolivia,India
+145,750,1944,189695,1,Bolivares 18 D.,Bolivia,India
+145,750,1946,614327,1,Bolivares 18 D.,Bolivia,India
+145,750,1947,129195,1,Us $,Bolivia,India
+145,750,1948,315634,1,Us $,Bolivia,India
+145,750,1949,380423,1,Us $,Bolivia,India
+145,775,1916,0,1,,Bolivia,Myanmar
+145,775,1917,0,1,,Bolivia,Myanmar
+145,775,1918,0,1,,Bolivia,Myanmar
+145,775,1919,0,1,,Bolivia,Myanmar
+145,775,1920,0,1,,Bolivia,Myanmar
+145,775,1921,0,1,,Bolivia,Myanmar
+145,775,1922,0,1,,Bolivia,Myanmar
+145,775,1923,0,1,,Bolivia,Myanmar
+145,775,1924,0,1,,Bolivia,Myanmar
+145,775,1925,0,1,,Bolivia,Myanmar
+145,775,1926,0,1,Bolivars,Bolivia,Myanmar
+145,775,1927,0,1,Bolivars,Bolivia,Myanmar
+145,775,1928,0,1,Bolivars,Bolivia,Myanmar
+145,775,1929,0,1,Bolivars,Bolivia,Myanmar
+145,775,1930,0,1,Bolivars,Bolivia,Myanmar
+145,775,1931,0,1,Bolivars,Bolivia,Myanmar
+145,775,1932,0,1,Bolivars,Bolivia,Myanmar
+145,775,1933,0,1,Bolivars,Bolivia,Myanmar
+145,775,1934,0,1,Bolivars,Bolivia,Myanmar
+145,775,1935,0,1,Bolivars,Bolivia,Myanmar
+145,775,1936,6113,1,Bolivars,Bolivia,Myanmar
+145,775,1937,0,1,Bolivars,Bolivia,Myanmar
+145,775,1938,128926,1,Bolivares 18 P,Bolivia,Myanmar
+145,775,1939,0,1,Bolivares 18 P,Bolivia,Myanmar
+145,775,1940,43802,1,Bolivares 18 P,Bolivia,Myanmar
+145,775,1941,0,1,Bolivares 18 D.,Bolivia,Myanmar
+145,775,1942,0,1,Bolivares 18 D.,Bolivia,Myanmar
+145,775,1944,0,1,Bolivares 18 D.,Bolivia,Myanmar
+145,775,1946,0,1,Bolivares 18 D.,Bolivia,Myanmar
+145,775,1947,0,1,Us $,Bolivia,Myanmar
+145,775,1948,0,1,Us $,Bolivia,Myanmar
+145,775,1949,0,1,Us $,Bolivia,Myanmar
+145,810,1916,0,1,,Bolivia,French Indo-China
+145,810,1917,0,1,,Bolivia,French Indo-China
+145,810,1918,0,1,,Bolivia,French Indo-China
+145,810,1919,0,1,,Bolivia,French Indo-China
+145,810,1920,0,1,,Bolivia,French Indo-China
+145,810,1921,0,1,,Bolivia,French Indo-China
+145,810,1922,0,1,,Bolivia,French Indo-China
+145,810,1923,0,1,,Bolivia,French Indo-China
+145,810,1924,0,1,,Bolivia,French Indo-China
+145,810,1925,0,1,,Bolivia,French Indo-China
+145,810,1926,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1927,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1928,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1929,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1930,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1931,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1932,8,1,Bolivars,Bolivia,French Indo-China
+145,810,1933,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1934,1218,1,Bolivars,Bolivia,French Indo-China
+145,810,1935,1572,1,Bolivars,Bolivia,French Indo-China
+145,810,1936,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1937,0,1,Bolivars,Bolivia,French Indo-China
+145,810,1938,0,1,Bolivares 18 P,Bolivia,French Indo-China
+145,810,1939,0,1,Bolivares 18 P,Bolivia,French Indo-China
+145,810,1940,0,1,Bolivares 18 P,Bolivia,French Indo-China
+145,810,1941,0,1,Bolivares 18 D.,Bolivia,French Indo-China
+145,810,1942,0,1,Bolivares 18 D.,Bolivia,French Indo-China
+145,810,1944,0,1,Bolivares 18 D.,Bolivia,French Indo-China
+145,810,1946,0,1,Bolivares 18 D.,Bolivia,French Indo-China
+145,810,1947,1242,1,Us $,Bolivia,French Indo-China
+145,810,1948,0,1,Us $,Bolivia,French Indo-China
+145,810,1949,2062,1,Us $,Bolivia,French Indo-China
+145,900,1916,0,1,,Bolivia,Australia
+145,900,1917,0,1,,Bolivia,Australia
+145,900,1918,0,1,,Bolivia,Australia
+145,900,1919,0,1,,Bolivia,Australia
+145,900,1920,0,1,,Bolivia,Australia
+145,900,1921,0,1,,Bolivia,Australia
+145,900,1922,12845,1,,Bolivia,Australia
+145,900,1923,33215,1,,Bolivia,Australia
+145,900,1924,41835.11,1,,Bolivia,Australia
+145,900,1925,7457.42,1,,Bolivia,Australia
+145,900,1926,7322.19,1,Bolivars,Bolivia,Australia
+145,900,1927,72608.14,1,Bolivars,Bolivia,Australia
+145,900,1928,2319,1,Bolivars,Bolivia,Australia
+145,900,1929,26555,1,Bolivars,Bolivia,Australia
+145,900,1930,3269,1,Bolivars,Bolivia,Australia
+145,900,1931,0,1,Bolivars,Bolivia,Australia
+145,900,1932,66606,1,Bolivars,Bolivia,Australia
+145,900,1933,24466,1,Bolivars,Bolivia,Australia
+145,900,1934,27,1,Bolivars,Bolivia,Australia
+145,900,1935,1,1,Bolivars,Bolivia,Australia
+145,900,1936,0,1,Bolivars,Bolivia,Australia
+145,900,1937,0,1,Bolivars,Bolivia,Australia
+145,900,1938,0,1,Bolivares 18 P,Bolivia,Australia
+145,900,1939,0,1,Bolivares 18 P,Bolivia,Australia
+145,900,1940,0,1,Bolivares 18 P,Bolivia,Australia
+145,900,1941,83,1,Bolivares 18 D.,Bolivia,Australia
+145,900,1942,0,1,Bolivares 18 D.,Bolivia,Australia
+145,900,1944,58290,1,Bolivares 18 D.,Bolivia,Australia
+145,900,1946,21,1,Bolivares 18 D.,Bolivia,Australia
+145,900,1947,1550,1,Us $,Bolivia,Australia
+145,900,1948,9618,1,Us $,Bolivia,Australia
+145,900,1949,34,1,Us $,Bolivia,Australia
+145,920,1916,0,1,,Bolivia,New Zealand
+145,920,1917,0,1,,Bolivia,New Zealand
+145,920,1918,0,1,,Bolivia,New Zealand
+145,920,1919,0,1,,Bolivia,New Zealand
+145,920,1920,0,1,,Bolivia,New Zealand
+145,920,1921,0,1,,Bolivia,New Zealand
+145,920,1922,0,1,,Bolivia,New Zealand
+145,920,1923,0,1,,Bolivia,New Zealand
+145,920,1924,0,1,,Bolivia,New Zealand
+145,920,1925,0,1,,Bolivia,New Zealand
+145,920,1926,0,1,Bolivars,Bolivia,New Zealand
+145,920,1927,0,1,Bolivars,Bolivia,New Zealand
+145,920,1928,0,1,Bolivars,Bolivia,New Zealand
+145,920,1929,18,1,Bolivars,Bolivia,New Zealand
+145,920,1930,0,1,Bolivars,Bolivia,New Zealand
+145,920,1931,0,1,Bolivars,Bolivia,New Zealand
+145,920,1932,0,1,Bolivars,Bolivia,New Zealand
+145,920,1933,0,1,Bolivars,Bolivia,New Zealand
+145,920,1934,0,1,Bolivars,Bolivia,New Zealand
+145,920,1935,0,1,Bolivars,Bolivia,New Zealand
+145,920,1936,0,1,Bolivars,Bolivia,New Zealand
+145,920,1937,0,1,Bolivars,Bolivia,New Zealand
+145,920,1938,0,1,Bolivares 18 P,Bolivia,New Zealand
+145,920,1939,0,1,Bolivares 18 P,Bolivia,New Zealand
+145,920,1940,0,1,Bolivares 18 P,Bolivia,New Zealand
+145,920,1941,0,1,Bolivares 18 D.,Bolivia,New Zealand
+145,920,1942,0,1,Bolivares 18 D.,Bolivia,New Zealand
+145,920,1944,0,1,Bolivares 18 D.,Bolivia,New Zealand
+145,920,1946,0,1,Bolivares 18 D.,Bolivia,New Zealand
+145,920,1947,0,1,Us $,Bolivia,New Zealand
+145,920,1948,0,1,Us $,Bolivia,New Zealand
+145,920,1949,2,1,Us $,Bolivia,New Zealand
+145,2100,1916,0,1,,Bolivia,Other Dutch possessions
+145,2100,1917,0,1,,Bolivia,Other Dutch possessions
+145,2100,1918,0,1,,Bolivia,Other Dutch possessions
+145,2100,1919,0,1,,Bolivia,Other Dutch possessions
+145,2100,1920,0,1,,Bolivia,Other Dutch possessions
+145,2100,1921,0,1,,Bolivia,Other Dutch possessions
+145,2100,1922,0,1,,Bolivia,Other Dutch possessions
+145,2100,1923,0,1,,Bolivia,Other Dutch possessions
+145,2100,1924,0,1,,Bolivia,Other Dutch possessions
+145,2100,1925,0,1,,Bolivia,Other Dutch possessions
+145,2100,1926,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1927,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1928,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1929,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1930,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1931,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1932,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1933,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1934,2524,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1935,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1936,2968,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1937,0,1,Bolivars,Bolivia,Other Dutch possessions
+145,2100,1938,37,1,Bolivares 18 P,Bolivia,Other Dutch possessions
+145,2100,1939,0,1,Bolivares 18 P,Bolivia,Other Dutch possessions
+145,2100,1940,0,1,Bolivares 18 P,Bolivia,Other Dutch possessions
+145,2100,1941,0,1,Bolivares 18 D.,Bolivia,Other Dutch possessions
+145,2100,1942,0,1,Bolivares 18 D.,Bolivia,Other Dutch possessions
+145,2100,1944,0,1,Bolivares 18 D.,Bolivia,Other Dutch possessions
+145,2100,1946,0,1,Bolivares 18 D.,Bolivia,Other Dutch possessions
+145,2100,1947,0,1,Us $,Bolivia,Other Dutch possessions
+145,2100,1948,0,1,Us $,Bolivia,Other Dutch possessions
+145,2100,1949,0,1,Us $,Bolivia,Other Dutch possessions
+145,,1916,31099103,1,,Bolivia,
+145,,1917,33480917,1,,Bolivia,
+145,,1918,35004420,1,,Bolivia,
+145,,1919,34597781,1,,Bolivia,
+145,,1920,65339493,1,,Bolivia,
+145,,1921,70853151,1,,Bolivia,
+145,,1922,49967257,1,,Bolivia,
+145,,1923,62914667,1,,Bolivia,
+145,,1924,62862727.33,1,,Bolivia,
+145,,1925,68065121.03999999,1,,Bolivia,
+145,,1926,70831469.12000003,1,Bolivars,Bolivia,
+145,,1927,66104673.53,1,Bolivars,Bolivia,
+145,,1928,64390583,1,Bolivars,Bolivia,
+145,,1929,71417274,1,Bolivars,Bolivia,
+145,,1930,58136085,1,Bolivars,Bolivia,
+145,,1931,29822243,1,Bolivars,Bolivia,
+145,,1932,22351535,1,Bolivars,Bolivia,
+145,,1933,41155689,1,Bolivars,Bolivia,
+145,,1934,66429972,1,Bolivars,Bolivia,
+145,,1935,73268525,1,Bolivars,Bolivia,
+145,,1936,55464241,1,Bolivars,Bolivia,
+145,,1937,59234452,1,Bolivars,Bolivia,
+145,,1938,70560037,1,Bolivares 18 P,Bolivia,
+145,,1939,64644768,1,Bolivares 18 P,Bolivia,
+145,,1940,93922540,1,Bolivares 18 P,Bolivia,
+145,,1941,103572786,1,Bolivares 18 D.,Bolivia,
+145,,1942,123983267,1,Bolivares 18 D.,Bolivia,
+145,,1944,139693434,1,Bolivares 18 D.,Bolivia,
+145,,1946,170534043,1,Bolivares 18 D.,Bolivia,
+145,,1947,59562594,1,Us $,Bolivia,
+145,,1948,68735770,1,Us $,Bolivia,
+145,,1949,78330033,1,Us $,Bolivia,

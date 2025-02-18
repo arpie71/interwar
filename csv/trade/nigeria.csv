@@ -1,0 +1,536 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+475,2,1934,344223,1,Pounds,Nigeria,United States
+475,2,1935,483197,1,Pounds,Nigeria,United States
+475,2,1936,591811,1,Pounds,Nigeria,United States
+475,2,1937,948314,1,Pounds,Nigeria,United States
+475,2,1938,693896,1,Pounds,Nigeria,United States
+475,4,1934,0,1,Pounds,Nigeria,Hawaii
+475,4,1935,1,1,Pounds,Nigeria,Hawaii
+475,4,1936,0,1,Pounds,Nigeria,Hawaii
+475,4,1937,0,1,Pounds,Nigeria,Hawaii
+475,4,1938,4,1,Pounds,Nigeria,Hawaii
+475,6,1934,2,1,Pounds,Nigeria,Puerto Rico
+475,6,1935,0,1,Pounds,Nigeria,Puerto Rico
+475,6,1936,0,1,Pounds,Nigeria,Puerto Rico
+475,6,1937,0,1,Pounds,Nigeria,Puerto Rico
+475,6,1938,0,1,Pounds,Nigeria,Puerto Rico
+475,20,1934,31165,1,Pounds,Nigeria,Canada
+475,20,1935,34396,1,Pounds,Nigeria,Canada
+475,20,1936,34315,1,Pounds,Nigeria,Canada
+475,20,1937,66424,1,Pounds,Nigeria,Canada
+475,20,1938,28878,1,Pounds,Nigeria,Canada
+475,21,1934,41,1,Pounds,Nigeria,Newfoundland
+475,21,1935,22,1,Pounds,Nigeria,Newfoundland
+475,21,1936,101,1,Pounds,Nigeria,Newfoundland
+475,21,1937,222,1,Pounds,Nigeria,Newfoundland
+475,21,1938,184,1,Pounds,Nigeria,Newfoundland
+475,40,1934,32,1,Pounds,Nigeria,Cuba
+475,40,1935,21,1,Pounds,Nigeria,Cuba
+475,40,1936,37,1,Pounds,Nigeria,Cuba
+475,40,1937,130,1,Pounds,Nigeria,Cuba
+475,40,1938,61,1,Pounds,Nigeria,Cuba
+475,41,1934,0,1,Pounds,Nigeria,Haiti
+475,41,1935,0,1,Pounds,Nigeria,Haiti
+475,41,1936,63,1,Pounds,Nigeria,Haiti
+475,41,1937,4,1,Pounds,Nigeria,Haiti
+475,41,1938,0,1,Pounds,Nigeria,Haiti
+475,42,1934,3,1,Pounds,Nigeria,Dominican Republic
+475,42,1935,4,1,Pounds,Nigeria,Dominican Republic
+475,42,1936,0,1,Pounds,Nigeria,Dominican Republic
+475,42,1937,0,1,Pounds,Nigeria,Dominican Republic
+475,42,1938,0,1,Pounds,Nigeria,Dominican Republic
+475,51,1934,58,1,Pounds,Nigeria,Jamaica
+475,51,1935,71,1,Pounds,Nigeria,Jamaica
+475,51,1936,0,1,Pounds,Nigeria,Jamaica
+475,51,1937,0,1,Pounds,Nigeria,Jamaica
+475,51,1938,744,1,Pounds,Nigeria,Jamaica
+475,52,1934,132,1,Pounds,Nigeria,Trinidad And Tobago
+475,52,1935,255,1,Pounds,Nigeria,Trinidad And Tobago
+475,52,1936,0,1,Pounds,Nigeria,Trinidad And Tobago
+475,52,1937,0,1,Pounds,Nigeria,Trinidad And Tobago
+475,52,1938,314,1,Pounds,Nigeria,Trinidad And Tobago
+475,53,1934,0,1,Pounds,Nigeria,Barbados
+475,53,1935,0,1,Pounds,Nigeria,Barbados
+475,53,1936,0,1,Pounds,Nigeria,Barbados
+475,53,1937,0,1,Pounds,Nigeria,Barbados
+475,53,1938,2,1,Pounds,Nigeria,Barbados
+475,68,1934,58117,1,Pounds,Nigeria,Netherlands Antilles
+475,68,1935,73434,1,Pounds,Nigeria,Netherlands Antilles
+475,68,1936,112105,1,Pounds,Nigeria,Netherlands Antilles
+475,68,1937,154984,1,Pounds,Nigeria,Netherlands Antilles
+475,68,1938,132390,1,Pounds,Nigeria,Netherlands Antilles
+475,70,1934,0,1,Pounds,Nigeria,Mexico
+475,70,1935,366,1,Pounds,Nigeria,Mexico
+475,70,1936,343,1,Pounds,Nigeria,Mexico
+475,70,1937,550,1,Pounds,Nigeria,Mexico
+475,70,1938,74,1,Pounds,Nigeria,Mexico
+475,90,1934,93,1,Pounds,Nigeria,Guatemala
+475,90,1935,85,1,Pounds,Nigeria,Guatemala
+475,90,1936,164,1,Pounds,Nigeria,Guatemala
+475,90,1937,166,1,Pounds,Nigeria,Guatemala
+475,90,1938,193,1,Pounds,Nigeria,Guatemala
+475,94,1934,55,1,Pounds,Nigeria,Costa Rica
+475,94,1935,36,1,Pounds,Nigeria,Costa Rica
+475,94,1936,141,1,Pounds,Nigeria,Costa Rica
+475,94,1937,28,1,Pounds,Nigeria,Costa Rica
+475,94,1938,156,1,Pounds,Nigeria,Costa Rica
+475,100,1934,39,1,Pounds,Nigeria,Colombia
+475,100,1935,0,1,Pounds,Nigeria,Colombia
+475,100,1936,0,1,Pounds,Nigeria,Colombia
+475,100,1937,0,1,Pounds,Nigeria,Colombia
+475,100,1938,17,1,Pounds,Nigeria,Colombia
+475,101,1934,1012,1,Pounds,Nigeria,Venezuela
+475,101,1935,12004,1,Pounds,Nigeria,Venezuela
+475,101,1936,3081,1,Pounds,Nigeria,Venezuela
+475,101,1937,4758,1,Pounds,Nigeria,Venezuela
+475,101,1938,772,1,Pounds,Nigeria,Venezuela
+475,110,1934,0,1,Pounds,Nigeria,Guyana
+475,110,1935,0,1,Pounds,Nigeria,Guyana
+475,110,1936,0,1,Pounds,Nigeria,Guyana
+475,110,1937,0,1,Pounds,Nigeria,Guyana
+475,110,1938,230,1,Pounds,Nigeria,Guyana
+475,115,1934,30,1,Pounds,Nigeria,Suriname
+475,115,1935,0,1,Pounds,Nigeria,Suriname
+475,115,1936,0,1,Pounds,Nigeria,Suriname
+475,115,1937,0,1,Pounds,Nigeria,Suriname
+475,115,1938,0,1,Pounds,Nigeria,Suriname
+475,135,1934,22,1,Pounds,Nigeria,Peru
+475,135,1935,41,1,Pounds,Nigeria,Peru
+475,135,1936,8,1,Pounds,Nigeria,Peru
+475,135,1937,79,1,Pounds,Nigeria,Peru
+475,135,1938,45,1,Pounds,Nigeria,Peru
+475,140,1934,662,1,Pounds,Nigeria,Brazil
+475,140,1935,737,1,Pounds,Nigeria,Brazil
+475,140,1936,644,1,Pounds,Nigeria,Brazil
+475,140,1937,3007,1,Pounds,Nigeria,Brazil
+475,140,1938,2959,1,Pounds,Nigeria,Brazil
+475,150,1934,1,1,Pounds,Nigeria,Paraguay
+475,150,1935,0,1,Pounds,Nigeria,Paraguay
+475,150,1936,24,1,Pounds,Nigeria,Paraguay
+475,150,1937,10,1,Pounds,Nigeria,Paraguay
+475,150,1938,97,1,Pounds,Nigeria,Paraguay
+475,155,1934,614,1,Pounds,Nigeria,Chile
+475,155,1935,935,1,Pounds,Nigeria,Chile
+475,155,1936,377,1,Pounds,Nigeria,Chile
+475,155,1937,36,1,Pounds,Nigeria,Chile
+475,155,1938,33,1,Pounds,Nigeria,Chile
+475,160,1934,4983,1,Pounds,Nigeria,Argentina
+475,160,1935,18744,1,Pounds,Nigeria,Argentina
+475,160,1936,20579,1,Pounds,Nigeria,Argentina
+475,160,1937,19653,1,Pounds,Nigeria,Argentina
+475,160,1938,6927,1,Pounds,Nigeria,Argentina
+475,165,1934,737,1,Pounds,Nigeria,Uruguay
+475,165,1935,1778,1,Pounds,Nigeria,Uruguay
+475,165,1936,1009,1,Pounds,Nigeria,Uruguay
+475,165,1937,3998,1,Pounds,Nigeria,Uruguay
+475,165,1938,1289,1,Pounds,Nigeria,Uruguay
+475,200,1934,3214949,1,Pounds,Nigeria,United Kingdom
+475,200,1935,4783607,1,Pounds,Nigeria,United Kingdom
+475,200,1936,6294435,1,Pounds,Nigeria,United Kingdom
+475,200,1937,7959616,1,Pounds,Nigeria,United Kingdom
+475,200,1938,4713281,1,Pounds,Nigeria,United Kingdom
+475,205,1934,2114,1,Pounds,Nigeria,Ireland
+475,205,1935,2929,1,Pounds,Nigeria,Ireland
+475,205,1936,4023,1,Pounds,Nigeria,Ireland
+475,205,1937,7229,1,Pounds,Nigeria,Ireland
+475,205,1938,5041,1,Pounds,Nigeria,Ireland
+475,210,1934,123247,1,Pounds,Nigeria,Netherlands
+475,210,1935,152047,1,Pounds,Nigeria,Netherlands
+475,210,1936,179055,1,Pounds,Nigeria,Netherlands
+475,210,1937,247568,1,Pounds,Nigeria,Netherlands
+475,210,1938,150007,1,Pounds,Nigeria,Netherlands
+475,211,1934,52304,1,Pounds,Nigeria,Belgium
+475,211,1935,82320,1,Pounds,Nigeria,Belgium
+475,211,1936,148502,1,Pounds,Nigeria,Belgium
+475,211,1937,288000,1,Pounds,Nigeria,Belgium
+475,211,1938,95302,1,Pounds,Nigeria,Belgium
+475,212,1934,347,1,Pounds,Nigeria,Luxembourg
+475,212,1935,1111,1,Pounds,Nigeria,Luxembourg
+475,212,1936,5464,1,Pounds,Nigeria,Luxembourg
+475,212,1937,7866,1,Pounds,Nigeria,Luxembourg
+475,212,1938,612,1,Pounds,Nigeria,Luxembourg
+475,220,1934,67119,1,Pounds,Nigeria,France
+475,220,1935,78933,1,Pounds,Nigeria,France
+475,220,1936,109668,1,Pounds,Nigeria,France
+475,220,1937,127859,1,Pounds,Nigeria,France
+475,220,1938,77562,1,Pounds,Nigeria,France
+475,225,1934,5246,1,Pounds,Nigeria,Switzerland
+475,225,1935,15041,1,Pounds,Nigeria,Switzerland
+475,225,1936,19192,1,Pounds,Nigeria,Switzerland
+475,225,1937,59364,1,Pounds,Nigeria,Switzerland
+475,225,1938,45717,1,Pounds,Nigeria,Switzerland
+475,230,1934,6800,1,Pounds,Nigeria,Spain
+475,230,1935,12201,1,Pounds,Nigeria,Spain
+475,230,1936,11751,1,Pounds,Nigeria,Spain
+475,230,1937,7746,1,Pounds,Nigeria,Spain
+475,230,1938,11194,1,Pounds,Nigeria,Spain
+475,231,1934,73,1,Pounds,Nigeria,Gibraltar
+475,231,1935,0,1,Pounds,Nigeria,Gibraltar
+475,231,1936,165,1,Pounds,Nigeria,Gibraltar
+475,231,1937,0,1,Pounds,Nigeria,Gibraltar
+475,231,1938,0,1,Pounds,Nigeria,Gibraltar
+475,235,1934,7216,1,Pounds,Nigeria,Portugal
+475,235,1935,14850,1,Pounds,Nigeria,Portugal
+475,235,1936,11511,1,Pounds,Nigeria,Portugal
+475,235,1937,20465,1,Pounds,Nigeria,Portugal
+475,235,1938,5724,1,Pounds,Nigeria,Portugal
+475,255,1934,267542,1,Pounds,Nigeria,Germany
+475,255,1935,549883,1,Pounds,Nigeria,Germany
+475,255,1936,945721,1,Pounds,Nigeria,Germany
+475,255,1937,1357671,1,Pounds,Nigeria,Germany
+475,255,1938,754599,1,Pounds,Nigeria,Germany
+475,290,1934,4853,1,Pounds,Nigeria,Poland
+475,290,1935,12321,1,Pounds,Nigeria,Poland
+475,290,1936,15725,1,Pounds,Nigeria,Poland
+475,290,1937,21887,1,Pounds,Nigeria,Poland
+475,290,1938,7970,1,Pounds,Nigeria,Poland
+475,291,1934,4,1,Pounds,Nigeria,Danzig
+475,291,1935,0,1,Pounds,Nigeria,Danzig
+475,291,1936,290,1,Pounds,Nigeria,Danzig
+475,291,1937,31,1,Pounds,Nigeria,Danzig
+475,291,1938,10,1,Pounds,Nigeria,Danzig
+475,305,1934,2937,1,Pounds,Nigeria,Austria
+475,305,1935,14553,1,Pounds,Nigeria,Austria
+475,305,1936,9296,1,Pounds,Nigeria,Austria
+475,305,1937,9298,1,Pounds,Nigeria,Austria
+475,305,1938,2257,1,Pounds,Nigeria,Austria
+475,310,1934,432,1,Pounds,Nigeria,Hungary
+475,310,1935,4810,1,Pounds,Nigeria,Hungary
+475,310,1936,10884,1,Pounds,Nigeria,Hungary
+475,310,1937,20107,1,Pounds,Nigeria,Hungary
+475,310,1938,11377,1,Pounds,Nigeria,Hungary
+475,315,1934,51561,1,Pounds,Nigeria,Czechoslovakia
+475,315,1935,86629,1,Pounds,Nigeria,Czechoslovakia
+475,315,1936,142063,1,Pounds,Nigeria,Czechoslovakia
+475,315,1937,218875,1,Pounds,Nigeria,Czechoslovakia
+475,315,1938,101805,1,Pounds,Nigeria,Czechoslovakia
+475,325,1934,68524,1,Pounds,Nigeria,Italy
+475,325,1935,162064,1,Pounds,Nigeria,Italy
+475,325,1936,249789,1,Pounds,Nigeria,Italy
+475,325,1937,309002,1,Pounds,Nigeria,Italy
+475,325,1938,169888,1,Pounds,Nigeria,Italy
+475,338,1934,0,1,Pounds,Nigeria,Malta
+475,338,1935,2,1,Pounds,Nigeria,Malta
+475,338,1936,0,1,Pounds,Nigeria,Malta
+475,338,1937,12,1,Pounds,Nigeria,Malta
+475,338,1938,0,1,Pounds,Nigeria,Malta
+475,339,1934,0,1,Pounds,Nigeria,Albania
+475,339,1935,0,1,Pounds,Nigeria,Albania
+475,339,1936,1,1,Pounds,Nigeria,Albania
+475,339,1937,0,1,Pounds,Nigeria,Albania
+475,339,1938,0,1,Pounds,Nigeria,Albania
+475,345,1934,11517,1,Pounds,Nigeria,Yugoslavia
+475,345,1935,13100,1,Pounds,Nigeria,Yugoslavia
+475,345,1936,9200,1,Pounds,Nigeria,Yugoslavia
+475,345,1937,12372,1,Pounds,Nigeria,Yugoslavia
+475,345,1938,7228,1,Pounds,Nigeria,Yugoslavia
+475,350,1934,824,1,Pounds,Nigeria,Greece
+475,350,1935,668,1,Pounds,Nigeria,Greece
+475,350,1936,500,1,Pounds,Nigeria,Greece
+475,350,1937,838,1,Pounds,Nigeria,Greece
+475,350,1938,874,1,Pounds,Nigeria,Greece
+475,352,1934,0,1,Pounds,Nigeria,Cyprus
+475,352,1935,0,1,Pounds,Nigeria,Cyprus
+475,352,1936,0,1,Pounds,Nigeria,Cyprus
+475,352,1937,14,1,Pounds,Nigeria,Cyprus
+475,352,1938,0,1,Pounds,Nigeria,Cyprus
+475,355,1934,48,1,Pounds,Nigeria,Bulgaria
+475,355,1935,36,1,Pounds,Nigeria,Bulgaria
+475,355,1936,0,1,Pounds,Nigeria,Bulgaria
+475,355,1937,0,1,Pounds,Nigeria,Bulgaria
+475,355,1938,3,1,Pounds,Nigeria,Bulgaria
+475,360,1934,5227,1,Pounds,Nigeria,Romania
+475,360,1935,10944,1,Pounds,Nigeria,Romania
+475,360,1936,10106,1,Pounds,Nigeria,Romania
+475,360,1937,13855,1,Pounds,Nigeria,Romania
+475,360,1938,14644,1,Pounds,Nigeria,Romania
+475,365,1934,93303,1,Pounds,Nigeria,Russia
+475,365,1935,50203,1,Pounds,Nigeria,Russia
+475,365,1936,9471,1,Pounds,Nigeria,Russia
+475,365,1937,5861,1,Pounds,Nigeria,Russia
+475,365,1938,3349,1,Pounds,Nigeria,Russia
+475,366,1934,476,1,Pounds,Nigeria,Estonia
+475,366,1935,1874,1,Pounds,Nigeria,Estonia
+475,366,1936,2222,1,Pounds,Nigeria,Estonia
+475,366,1937,3236,1,Pounds,Nigeria,Estonia
+475,366,1938,619,1,Pounds,Nigeria,Estonia
+475,367,1934,26,1,Pounds,Nigeria,Latvia
+475,367,1935,175,1,Pounds,Nigeria,Latvia
+475,367,1936,666,1,Pounds,Nigeria,Latvia
+475,367,1937,360,1,Pounds,Nigeria,Latvia
+475,367,1938,841,1,Pounds,Nigeria,Latvia
+475,368,1934,4,1,Pounds,Nigeria,Lithuania
+475,368,1935,372,1,Pounds,Nigeria,Lithuania
+475,368,1936,951,1,Pounds,Nigeria,Lithuania
+475,368,1937,2244,1,Pounds,Nigeria,Lithuania
+475,368,1938,1462,1,Pounds,Nigeria,Lithuania
+475,375,1934,995,1,Pounds,Nigeria,Finland
+475,375,1935,4120,1,Pounds,Nigeria,Finland
+475,375,1936,5355,1,Pounds,Nigeria,Finland
+475,375,1937,1487,1,Pounds,Nigeria,Finland
+475,375,1938,3312,1,Pounds,Nigeria,Finland
+475,380,1934,26147,1,Pounds,Nigeria,Sweden
+475,380,1935,41553,1,Pounds,Nigeria,Sweden
+475,380,1936,49175,1,Pounds,Nigeria,Sweden
+475,380,1937,48625,1,Pounds,Nigeria,Sweden
+475,380,1938,37890,1,Pounds,Nigeria,Sweden
+475,385,1934,174372,1,Pounds,Nigeria,Norway
+475,385,1935,288820,1,Pounds,Nigeria,Norway
+475,385,1936,348359,1,Pounds,Nigeria,Norway
+475,385,1937,493898,1,Pounds,Nigeria,Norway
+475,385,1938,371115,1,Pounds,Nigeria,Norway
+475,390,1934,14250,1,Pounds,Nigeria,Denmark
+475,390,1935,22074,1,Pounds,Nigeria,Denmark
+475,390,1936,16446,1,Pounds,Nigeria,Denmark
+475,390,1937,19946,1,Pounds,Nigeria,Denmark
+475,390,1938,17478,1,Pounds,Nigeria,Denmark
+475,395,1934,8,1,Pounds,Nigeria,Iceland
+475,395,1935,871,1,Pounds,Nigeria,Iceland
+475,395,1936,4154,1,Pounds,Nigeria,Iceland
+475,395,1937,7824,1,Pounds,Nigeria,Iceland
+475,395,1938,3243,1,Pounds,Nigeria,Iceland
+475,420,1934,3,1,Pounds,Nigeria,Gambia
+475,420,1935,8,1,Pounds,Nigeria,Gambia
+475,420,1936,14,1,Pounds,Nigeria,Gambia
+475,420,1937,15,1,Pounds,Nigeria,Gambia
+475,420,1938,34,1,Pounds,Nigeria,Gambia
+475,434,1934,1318,1,Pounds,Nigeria,Benin
+475,434,1935,2251,1,Pounds,Nigeria,Benin
+475,434,1936,0,1,Pounds,Nigeria,Benin
+475,434,1937,0,1,Pounds,Nigeria,Benin
+475,434,1938,1461,1,Pounds,Nigeria,Benin
+475,450,1934,48,1,Pounds,Nigeria,Liberia
+475,450,1935,46,1,Pounds,Nigeria,Liberia
+475,450,1936,14,1,Pounds,Nigeria,Liberia
+475,450,1937,13,1,Pounds,Nigeria,Liberia
+475,450,1938,34,1,Pounds,Nigeria,Liberia
+475,451,1934,2864,1,Pounds,Nigeria,Sierra Leone
+475,451,1935,1427,1,Pounds,Nigeria,Sierra Leone
+475,451,1936,12259,1,Pounds,Nigeria,Sierra Leone
+475,451,1937,23380,1,Pounds,Nigeria,Sierra Leone
+475,451,1938,7418,1,Pounds,Nigeria,Sierra Leone
+475,452,1934,11160,1,Pounds,Nigeria,Ghana
+475,452,1935,13222,1,Pounds,Nigeria,Ghana
+475,452,1936,13510,1,Pounds,Nigeria,Ghana
+475,452,1937,7695,1,Pounds,Nigeria,Ghana
+475,452,1938,5386,1,Pounds,Nigeria,Ghana
+475,490,1934,0,1,Pounds,Nigeria,"Congo, Dem. Republic"
+475,490,1935,24,1,Pounds,Nigeria,"Congo, Dem. Republic"
+475,490,1936,0,1,Pounds,Nigeria,"Congo, Dem. Republic"
+475,490,1937,0,1,Pounds,Nigeria,"Congo, Dem. Republic"
+475,490,1938,2,1,Pounds,Nigeria,"Congo, Dem. Republic"
+475,501,1934,140,1,Pounds,Nigeria,Kenya
+475,501,1935,534,1,Pounds,Nigeria,Kenya
+475,501,1936,0,1,Pounds,Nigeria,Kenya
+475,501,1937,522,1,Pounds,Nigeria,Kenya
+475,501,1938,603,1,Pounds,Nigeria,Kenya
+475,505,1934,600,1,Pounds,Nigeria,British East Africa
+475,505,1935,264,1,Pounds,Nigeria,British East Africa
+475,505,1936,553,1,Pounds,Nigeria,British East Africa
+475,505,1937,0,1,Pounds,Nigeria,British East Africa
+475,505,1938,0,1,Pounds,Nigeria,British East Africa
+475,510,1934,0,1,Pounds,Nigeria,Tanzania
+475,510,1935,1,1,Pounds,Nigeria,Tanzania
+475,510,1936,0,1,Pounds,Nigeria,Tanzania
+475,510,1937,4,1,Pounds,Nigeria,Tanzania
+475,510,1938,0,1,Pounds,Nigeria,Tanzania
+475,511,1934,233,1,Pounds,Nigeria,Zanzibar
+475,511,1935,335,1,Pounds,Nigeria,Zanzibar
+475,511,1936,301,1,Pounds,Nigeria,Zanzibar
+475,511,1937,1071,1,Pounds,Nigeria,Zanzibar
+475,511,1938,172,1,Pounds,Nigeria,Zanzibar
+475,530,1934,0,1,Pounds,Nigeria,Ethiopia
+475,530,1935,0,1,Pounds,Nigeria,Ethiopia
+475,530,1936,1,1,Pounds,Nigeria,Ethiopia
+475,530,1937,0,1,Pounds,Nigeria,Ethiopia
+475,530,1938,0,1,Pounds,Nigeria,Ethiopia
+475,551,1934,0,1,Pounds,Nigeria,Zambia
+475,551,1935,0,1,Pounds,Nigeria,Zambia
+475,551,1936,0,1,Pounds,Nigeria,Zambia
+475,551,1937,0,1,Pounds,Nigeria,Zambia
+475,551,1938,95,1,Pounds,Nigeria,Zambia
+475,552,1934,0,1,Pounds,Nigeria,Zimbabwe
+475,552,1935,0,1,Pounds,Nigeria,Zimbabwe
+475,552,1936,418,1,Pounds,Nigeria,Zimbabwe
+475,552,1937,94,1,Pounds,Nigeria,Zimbabwe
+475,552,1938,71,1,Pounds,Nigeria,Zimbabwe
+475,553,1934,0,1,Pounds,Nigeria,Malawi
+475,553,1935,38,1,Pounds,Nigeria,Malawi
+475,553,1936,0,1,Pounds,Nigeria,Malawi
+475,553,1937,4,1,Pounds,Nigeria,Malawi
+475,553,1938,3169,1,Pounds,Nigeria,Malawi
+475,580,1934,629,1,Pounds,Nigeria,Madagascar
+475,580,1935,970,1,Pounds,Nigeria,Madagascar
+475,580,1936,0,1,Pounds,Nigeria,Madagascar
+475,580,1937,0,1,Pounds,Nigeria,Madagascar
+475,580,1938,659,1,Pounds,Nigeria,Madagascar
+475,615,1934,167,1,Pounds,Nigeria,Algeria
+475,615,1935,431,1,Pounds,Nigeria,Algeria
+475,615,1936,0,1,Pounds,Nigeria,Algeria
+475,615,1937,787,1,Pounds,Nigeria,Algeria
+475,615,1938,831,1,Pounds,Nigeria,Algeria
+475,616,1934,5,1,Pounds,Nigeria,Tunisia
+475,616,1935,7,1,Pounds,Nigeria,Tunisia
+475,616,1936,0,1,Pounds,Nigeria,Tunisia
+475,616,1937,15,1,Pounds,Nigeria,Tunisia
+475,616,1938,34,1,Pounds,Nigeria,Tunisia
+475,620,1934,0,1,Pounds,Nigeria,Libya
+475,620,1935,0,1,Pounds,Nigeria,Libya
+475,620,1936,0,1,Pounds,Nigeria,Libya
+475,620,1937,0,1,Pounds,Nigeria,Libya
+475,620,1938,30,1,Pounds,Nigeria,Libya
+475,625,1934,0,1,Pounds,Nigeria,Sudan
+475,625,1935,0,1,Pounds,Nigeria,Sudan
+475,625,1936,0,1,Pounds,Nigeria,Sudan
+475,625,1937,1,1,Pounds,Nigeria,Sudan
+475,625,1938,0,1,Pounds,Nigeria,Sudan
+475,630,1934,105,1,Pounds,Nigeria,Iran
+475,630,1935,204,1,Pounds,Nigeria,Iran
+475,630,1936,18,1,Pounds,Nigeria,Iran
+475,630,1937,31,1,Pounds,Nigeria,Iran
+475,630,1938,1204,1,Pounds,Nigeria,Iran
+475,640,1934,161,1,Pounds,Nigeria,Turkey
+475,640,1935,191,1,Pounds,Nigeria,Turkey
+475,640,1936,204,1,Pounds,Nigeria,Turkey
+475,640,1937,383,1,Pounds,Nigeria,Turkey
+475,640,1938,216,1,Pounds,Nigeria,Turkey
+475,645,1934,36,1,Pounds,Nigeria,Iraq
+475,645,1935,373,1,Pounds,Nigeria,Iraq
+475,645,1936,174,1,Pounds,Nigeria,Iraq
+475,645,1937,279,1,Pounds,Nigeria,Iraq
+475,645,1938,224,1,Pounds,Nigeria,Iraq
+475,651,1934,583,1,Pounds,Nigeria,Egypt
+475,651,1935,1677,1,Pounds,Nigeria,Egypt
+475,651,1936,1883,1,Pounds,Nigeria,Egypt
+475,651,1937,3894,1,Pounds,Nigeria,Egypt
+475,651,1938,2364,1,Pounds,Nigeria,Egypt
+475,652,1934,1382,1,Pounds,Nigeria,Syria
+475,652,1935,9035,1,Pounds,Nigeria,Syria
+475,652,1936,18008,1,Pounds,Nigeria,Syria
+475,652,1937,11783,1,Pounds,Nigeria,Syria
+475,652,1938,9761,1,Pounds,Nigeria,Syria
+475,665,1934,4,1,Pounds,Nigeria,West Bank And Gaza
+475,665,1935,4,1,Pounds,Nigeria,West Bank And Gaza
+475,665,1936,3,1,Pounds,Nigeria,West Bank And Gaza
+475,665,1937,92,1,Pounds,Nigeria,West Bank And Gaza
+475,665,1938,12,1,Pounds,Nigeria,West Bank And Gaza
+475,675,1934,52,1,Pounds,Nigeria,Arabia
+475,675,1935,22,1,Pounds,Nigeria,Arabia
+475,675,1936,0,1,Pounds,Nigeria,Arabia
+475,675,1937,822,1,Pounds,Nigeria,Arabia
+475,675,1938,0,1,Pounds,Nigeria,Arabia
+475,681,1934,3,1,Pounds,Nigeria,Aden
+475,681,1935,2,1,Pounds,Nigeria,Aden
+475,681,1936,114,1,Pounds,Nigeria,Aden
+475,681,1937,242,1,Pounds,Nigeria,Aden
+475,681,1938,0,1,Pounds,Nigeria,Aden
+475,710,1934,6769,1,Pounds,Nigeria,China
+475,710,1935,23436,1,Pounds,Nigeria,China
+475,710,1936,177889,1,Pounds,Nigeria,China
+475,710,1937,180109,1,Pounds,Nigeria,China
+475,710,1938,27533,1,Pounds,Nigeria,China
+475,720,1934,56,1,Pounds,Nigeria,Hong Kong
+475,720,1935,1023,1,Pounds,Nigeria,Hong Kong
+475,720,1936,11444,1,Pounds,Nigeria,Hong Kong
+475,720,1937,33595,1,Pounds,Nigeria,Hong Kong
+475,720,1938,28019,1,Pounds,Nigeria,Hong Kong
+475,740,1934,391718,1,Pounds,Nigeria,Japan
+475,740,1935,213856,1,Pounds,Nigeria,Japan
+475,740,1936,483710,1,Pounds,Nigeria,Japan
+475,740,1937,917478,1,Pounds,Nigeria,Japan
+475,740,1938,379068,1,Pounds,Nigeria,Japan
+475,750,1934,339517,1,Pounds,Nigeria,India
+475,750,1935,419497,1,Pounds,Nigeria,India
+475,750,1936,607848,1,Pounds,Nigeria,India
+475,750,1937,823436,1,Pounds,Nigeria,India
+475,750,1938,582574,1,Pounds,Nigeria,India
+475,775,1934,0,1,Pounds,Nigeria,Myanmar
+475,775,1935,34472,1,Pounds,Nigeria,Myanmar
+475,775,1936,58023,1,Pounds,Nigeria,Myanmar
+475,775,1937,74864,1,Pounds,Nigeria,Myanmar
+475,775,1938,56153,1,Pounds,Nigeria,Myanmar
+475,780,1934,2911,1,Pounds,Nigeria,Sri Lanka
+475,780,1935,3109,1,Pounds,Nigeria,Sri Lanka
+475,780,1936,4103,1,Pounds,Nigeria,Sri Lanka
+475,780,1937,3988,1,Pounds,Nigeria,Sri Lanka
+475,780,1938,3893,1,Pounds,Nigeria,Sri Lanka
+475,800,1934,274,1,Pounds,Nigeria,Thailand
+475,800,1935,265,1,Pounds,Nigeria,Thailand
+475,800,1936,352,1,Pounds,Nigeria,Thailand
+475,800,1937,330,1,Pounds,Nigeria,Thailand
+475,800,1938,356,1,Pounds,Nigeria,Thailand
+475,810,1934,0,1,Pounds,Nigeria,French Indo-China
+475,810,1935,1788,1,Pounds,Nigeria,French Indo-China
+475,810,1936,4570,1,Pounds,Nigeria,French Indo-China
+475,810,1937,1774,1,Pounds,Nigeria,French Indo-China
+475,810,1938,4329,1,Pounds,Nigeria,French Indo-China
+475,827,1934,209,1,Pounds,Nigeria,Straits Settlement
+475,827,1935,319,1,Pounds,Nigeria,Straits Settlement
+475,827,1936,252,1,Pounds,Nigeria,Straits Settlement
+475,827,1937,476,1,Pounds,Nigeria,Straits Settlement
+475,827,1938,80,1,Pounds,Nigeria,Straits Settlement
+475,850,1934,199,1,Pounds,Nigeria,Indonesia
+475,850,1935,2952,1,Pounds,Nigeria,Indonesia
+475,850,1936,1754,1,Pounds,Nigeria,Indonesia
+475,850,1937,1532,1,Pounds,Nigeria,Indonesia
+475,850,1938,1091,1,Pounds,Nigeria,Indonesia
+475,900,1934,1122,1,Pounds,Nigeria,Australia
+475,900,1935,1684,1,Pounds,Nigeria,Australia
+475,900,1936,1427,1,Pounds,Nigeria,Australia
+475,900,1937,2319,1,Pounds,Nigeria,Australia
+475,900,1938,1626,1,Pounds,Nigeria,Australia
+475,920,1934,2369,1,Pounds,Nigeria,New Zealand
+475,920,1935,4065,1,Pounds,Nigeria,New Zealand
+475,920,1936,5725,1,Pounds,Nigeria,New Zealand
+475,920,1937,7503,1,Pounds,Nigeria,New Zealand
+475,920,1938,8863,1,Pounds,Nigeria,New Zealand
+475,1050,1934,680,1,Pounds,Nigeria,British West Indies
+475,1050,1935,551,1,Pounds,Nigeria,British West Indies
+475,1050,1936,10666,1,Pounds,Nigeria,British West Indies
+475,1050,1937,5128,1,Pounds,Nigeria,British West Indies
+475,1050,1938,0,1,Pounds,Nigeria,British West Indies
+475,1055,1934,0,1,Pounds,Nigeria,Windward Islands
+475,1055,1935,0,1,Pounds,Nigeria,Windward Islands
+475,1055,1936,0,1,Pounds,Nigeria,Windward Islands
+475,1055,1937,0,1,Pounds,Nigeria,Windward Islands
+475,1055,1938,0,1,Pounds,Nigeria,Windward Islands
+475,2200,1934,3312,1,Pounds,Nigeria,Other French possessions
+475,2200,1935,2606,1,Pounds,Nigeria,Other French possessions
+475,2200,1936,13466,1,Pounds,Nigeria,Other French possessions
+475,2200,1937,16656,1,Pounds,Nigeria,Other French possessions
+475,2200,1938,1922,1,Pounds,Nigeria,Other French possessions
+475,2300,1934,6708,1,Pounds,Nigeria,Other Spanish possessions
+475,2300,1935,11955,1,Pounds,Nigeria,Other Spanish possessions
+475,2300,1936,7457,1,Pounds,Nigeria,Other Spanish possessions
+475,2300,1937,7160,1,Pounds,Nigeria,Other Spanish possessions
+475,2300,1938,7212,1,Pounds,Nigeria,Other Spanish possessions
+475,2350,1934,296,1,Pounds,Nigeria,Other Portuguese possessions
+475,2350,1935,586,1,Pounds,Nigeria,Other Portuguese possessions
+475,2350,1936,2885,1,Pounds,Nigeria,Other Portuguese possessions
+475,2350,1937,2060,1,Pounds,Nigeria,Other Portuguese possessions
+475,2350,1938,3022,1,Pounds,Nigeria,Other Portuguese possessions
+475,6203,1934,739,1,Pounds,Nigeria,Tripoli
+475,6203,1935,423,1,Pounds,Nigeria,Tripoli
+475,6203,1936,0,1,Pounds,Nigeria,Tripoli
+475,6203,1937,0,1,Pounds,Nigeria,Tripoli
+475,6203,1938,0,1,Pounds,Nigeria,Tripoli
+475,8151,1934,1707,1,Pounds,Nigeria,Cochin China
+475,8151,1935,3308,1,Pounds,Nigeria,Cochin China
+475,8151,1936,0,1,Pounds,Nigeria,Cochin China
+475,8151,1937,0,1,Pounds,Nigeria,Cochin China
+475,8151,1938,7,1,Pounds,Nigeria,Cochin China
+475,8501,1934,234,1,Pounds,Nigeria,Java
+475,8501,1935,632,1,Pounds,Nigeria,Java
+475,8501,1936,0,1,Pounds,Nigeria,Java
+475,8501,1937,0,1,Pounds,Nigeria,Java
+475,8501,1938,0,1,Pounds,Nigeria,Java
+475,8502,1934,90,1,Pounds,Nigeria,Sumatra
+475,8502,1935,127,1,Pounds,Nigeria,Sumatra
+475,8502,1936,0,1,Pounds,Nigeria,Sumatra
+475,8502,1937,0,1,Pounds,Nigeria,Sumatra
+475,8502,1938,0,1,Pounds,Nigeria,Sumatra
+475,,1934,5448799,1,Pounds,Nigeria,
+475,,1935,7811466,1,Pounds,Nigeria,
+475,,1936,10840501,1,Pounds,Nigeria,
+475,,1937,14642294,1,Pounds,Nigeria,
+475,,1938,8641165,1,Pounds,Nigeria,

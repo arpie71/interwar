@@ -1,0 +1,1261 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+950,2,1919,100173,1,Pounds,Fiji,United States
+950,2,1920,175099,1,Pounds,Fiji,United States
+950,2,1921,144759,1,Pounds,Fiji,United States
+950,2,1922,76172,1,Pounds,Fiji,United States
+950,2,1923,75298,1,Pounds,Fiji,United States
+950,2,1924,103356,1,Pounds,Fiji,United States
+950,2,1925,143089,1,Pounds,Fiji,United States
+950,2,1926,123574,1,Pounds,Fiji,United States
+950,2,1927,122470,1,Pounds,Fiji,United States
+950,2,1928,131994,1,Pounds,Fiji,United States
+950,2,1929,121441,1,Pounds,Fiji,United States
+950,2,1930,86224,1,Pounds,Fiji,United States
+950,2,1931,51789,1,Pounds,Fiji,United States
+950,2,1932,25937,1,Pounds,Fiji,United States
+950,2,1933,42431,1,Pounds,Fiji,United States
+950,2,1934,86285,1,Pounds,Fiji,United States
+950,2,1935,95150,1,Pounds,Fiji,United States
+950,2,1936,91065,1,Pounds,Fiji,United States
+950,2,1937,120745,1,Pounds,Fiji,United States
+950,2,1938,129289,1,Pounds,Fiji,United States
+950,4,1919,2428,1,Pounds,Fiji,Hawaii
+950,4,1920,53,1,Pounds,Fiji,Hawaii
+950,4,1921,3,1,Pounds,Fiji,Hawaii
+950,4,1922,305,1,Pounds,Fiji,Hawaii
+950,4,1923,0,1,Pounds,Fiji,Hawaii
+950,4,1924,0,1,Pounds,Fiji,Hawaii
+950,4,1925,0,1,Pounds,Fiji,Hawaii
+950,4,1926,382,1,Pounds,Fiji,Hawaii
+950,4,1927,209,1,Pounds,Fiji,Hawaii
+950,4,1928,0,1,Pounds,Fiji,Hawaii
+950,4,1929,1353,1,Pounds,Fiji,Hawaii
+950,4,1930,109,1,Pounds,Fiji,Hawaii
+950,4,1931,98,1,Pounds,Fiji,Hawaii
+950,4,1932,5,1,Pounds,Fiji,Hawaii
+950,4,1933,23,1,Pounds,Fiji,Hawaii
+950,4,1934,54,1,Pounds,Fiji,Hawaii
+950,4,1935,212,1,Pounds,Fiji,Hawaii
+950,4,1936,105,1,Pounds,Fiji,Hawaii
+950,4,1937,239,1,Pounds,Fiji,Hawaii
+950,4,1938,649,1,Pounds,Fiji,Hawaii
+950,20,1919,9925,1,Pounds,Fiji,Canada
+950,20,1920,25915,1,Pounds,Fiji,Canada
+950,20,1921,24905,1,Pounds,Fiji,Canada
+950,20,1922,32926,1,Pounds,Fiji,Canada
+950,20,1923,54824,1,Pounds,Fiji,Canada
+950,20,1924,59067,1,Pounds,Fiji,Canada
+950,20,1925,42128,1,Pounds,Fiji,Canada
+950,20,1926,59633,1,Pounds,Fiji,Canada
+950,20,1927,51105,1,Pounds,Fiji,Canada
+950,20,1928,70262,1,Pounds,Fiji,Canada
+950,20,1929,84822,1,Pounds,Fiji,Canada
+950,20,1930,60076,1,Pounds,Fiji,Canada
+950,20,1931,40134,1,Pounds,Fiji,Canada
+950,20,1932,25675,1,Pounds,Fiji,Canada
+950,20,1933,38175,1,Pounds,Fiji,Canada
+950,20,1934,45309,1,Pounds,Fiji,Canada
+950,20,1935,56823,1,Pounds,Fiji,Canada
+950,20,1936,81777,1,Pounds,Fiji,Canada
+950,20,1937,105174,1,Pounds,Fiji,Canada
+950,20,1938,102052,1,Pounds,Fiji,Canada
+950,21,1919,0,1,Pounds,Fiji,Newfoundland
+950,21,1920,0,1,Pounds,Fiji,Newfoundland
+950,21,1921,0,1,Pounds,Fiji,Newfoundland
+950,21,1922,0,1,Pounds,Fiji,Newfoundland
+950,21,1923,0,1,Pounds,Fiji,Newfoundland
+950,21,1924,0,1,Pounds,Fiji,Newfoundland
+950,21,1925,0,1,Pounds,Fiji,Newfoundland
+950,21,1926,0,1,Pounds,Fiji,Newfoundland
+950,21,1927,0,1,Pounds,Fiji,Newfoundland
+950,21,1928,0,1,Pounds,Fiji,Newfoundland
+950,21,1929,0,1,Pounds,Fiji,Newfoundland
+950,21,1930,0,1,Pounds,Fiji,Newfoundland
+950,21,1931,0,1,Pounds,Fiji,Newfoundland
+950,21,1932,0,1,Pounds,Fiji,Newfoundland
+950,21,1933,0,1,Pounds,Fiji,Newfoundland
+950,21,1934,7,1,Pounds,Fiji,Newfoundland
+950,21,1935,8,1,Pounds,Fiji,Newfoundland
+950,21,1936,3,1,Pounds,Fiji,Newfoundland
+950,21,1937,0,1,Pounds,Fiji,Newfoundland
+950,21,1938,0,1,Pounds,Fiji,Newfoundland
+950,40,1919,0,1,Pounds,Fiji,Cuba
+950,40,1920,0,1,Pounds,Fiji,Cuba
+950,40,1921,0,1,Pounds,Fiji,Cuba
+950,40,1922,0,1,Pounds,Fiji,Cuba
+950,40,1923,0,1,Pounds,Fiji,Cuba
+950,40,1924,0,1,Pounds,Fiji,Cuba
+950,40,1925,0,1,Pounds,Fiji,Cuba
+950,40,1926,0,1,Pounds,Fiji,Cuba
+950,40,1927,0,1,Pounds,Fiji,Cuba
+950,40,1928,0,1,Pounds,Fiji,Cuba
+950,40,1929,0,1,Pounds,Fiji,Cuba
+950,40,1930,0,1,Pounds,Fiji,Cuba
+950,40,1931,0,1,Pounds,Fiji,Cuba
+950,40,1932,0,1,Pounds,Fiji,Cuba
+950,40,1933,0,1,Pounds,Fiji,Cuba
+950,40,1934,66,1,Pounds,Fiji,Cuba
+950,40,1935,0,1,Pounds,Fiji,Cuba
+950,40,1936,0,1,Pounds,Fiji,Cuba
+950,40,1937,0,1,Pounds,Fiji,Cuba
+950,40,1938,0,1,Pounds,Fiji,Cuba
+950,51,1919,0,1,Pounds,Fiji,Jamaica
+950,51,1920,0,1,Pounds,Fiji,Jamaica
+950,51,1921,0,1,Pounds,Fiji,Jamaica
+950,51,1922,0,1,Pounds,Fiji,Jamaica
+950,51,1923,0,1,Pounds,Fiji,Jamaica
+950,51,1924,0,1,Pounds,Fiji,Jamaica
+950,51,1925,0,1,Pounds,Fiji,Jamaica
+950,51,1926,0,1,Pounds,Fiji,Jamaica
+950,51,1927,0,1,Pounds,Fiji,Jamaica
+950,51,1928,0,1,Pounds,Fiji,Jamaica
+950,51,1929,0,1,Pounds,Fiji,Jamaica
+950,51,1930,0,1,Pounds,Fiji,Jamaica
+950,51,1931,0,1,Pounds,Fiji,Jamaica
+950,51,1932,0,1,Pounds,Fiji,Jamaica
+950,51,1933,0,1,Pounds,Fiji,Jamaica
+950,51,1934,203,1,Pounds,Fiji,Jamaica
+950,51,1935,190,1,Pounds,Fiji,Jamaica
+950,51,1936,0,1,Pounds,Fiji,Jamaica
+950,51,1937,0,1,Pounds,Fiji,Jamaica
+950,51,1938,0,1,Pounds,Fiji,Jamaica
+950,52,1919,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1920,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1921,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1922,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1923,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1924,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1925,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1926,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1927,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1928,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1929,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1930,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1931,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1932,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1933,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1934,749,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1935,476,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1936,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1937,0,1,Pounds,Fiji,Trinidad And Tobago
+950,52,1938,0,1,Pounds,Fiji,Trinidad And Tobago
+950,70,1919,0,1,Pounds,Fiji,Mexico
+950,70,1920,0,1,Pounds,Fiji,Mexico
+950,70,1921,0,1,Pounds,Fiji,Mexico
+950,70,1922,0,1,Pounds,Fiji,Mexico
+950,70,1923,0,1,Pounds,Fiji,Mexico
+950,70,1924,0,1,Pounds,Fiji,Mexico
+950,70,1925,0,1,Pounds,Fiji,Mexico
+950,70,1926,0,1,Pounds,Fiji,Mexico
+950,70,1927,0,1,Pounds,Fiji,Mexico
+950,70,1928,0,1,Pounds,Fiji,Mexico
+950,70,1929,0,1,Pounds,Fiji,Mexico
+950,70,1930,0,1,Pounds,Fiji,Mexico
+950,70,1931,0,1,Pounds,Fiji,Mexico
+950,70,1932,0,1,Pounds,Fiji,Mexico
+950,70,1933,0,1,Pounds,Fiji,Mexico
+950,70,1934,0,1,Pounds,Fiji,Mexico
+950,70,1935,8,1,Pounds,Fiji,Mexico
+950,70,1936,0,1,Pounds,Fiji,Mexico
+950,70,1937,1,1,Pounds,Fiji,Mexico
+950,70,1938,0,1,Pounds,Fiji,Mexico
+950,101,1919,0,1,Pounds,Fiji,Venezuela
+950,101,1920,0,1,Pounds,Fiji,Venezuela
+950,101,1921,0,1,Pounds,Fiji,Venezuela
+950,101,1922,0,1,Pounds,Fiji,Venezuela
+950,101,1923,0,1,Pounds,Fiji,Venezuela
+950,101,1924,0,1,Pounds,Fiji,Venezuela
+950,101,1925,0,1,Pounds,Fiji,Venezuela
+950,101,1926,0,1,Pounds,Fiji,Venezuela
+950,101,1927,0,1,Pounds,Fiji,Venezuela
+950,101,1928,0,1,Pounds,Fiji,Venezuela
+950,101,1929,0,1,Pounds,Fiji,Venezuela
+950,101,1930,0,1,Pounds,Fiji,Venezuela
+950,101,1931,0,1,Pounds,Fiji,Venezuela
+950,101,1932,0,1,Pounds,Fiji,Venezuela
+950,101,1933,0,1,Pounds,Fiji,Venezuela
+950,101,1934,0,1,Pounds,Fiji,Venezuela
+950,101,1935,6,1,Pounds,Fiji,Venezuela
+950,101,1936,0,1,Pounds,Fiji,Venezuela
+950,101,1937,0,1,Pounds,Fiji,Venezuela
+950,101,1938,0,1,Pounds,Fiji,Venezuela
+950,110,1919,0,1,Pounds,Fiji,Guyana
+950,110,1920,0,1,Pounds,Fiji,Guyana
+950,110,1921,0,1,Pounds,Fiji,Guyana
+950,110,1922,0,1,Pounds,Fiji,Guyana
+950,110,1923,0,1,Pounds,Fiji,Guyana
+950,110,1924,0,1,Pounds,Fiji,Guyana
+950,110,1925,0,1,Pounds,Fiji,Guyana
+950,110,1926,0,1,Pounds,Fiji,Guyana
+950,110,1927,0,1,Pounds,Fiji,Guyana
+950,110,1928,0,1,Pounds,Fiji,Guyana
+950,110,1929,0,1,Pounds,Fiji,Guyana
+950,110,1930,0,1,Pounds,Fiji,Guyana
+950,110,1931,0,1,Pounds,Fiji,Guyana
+950,110,1932,0,1,Pounds,Fiji,Guyana
+950,110,1933,0,1,Pounds,Fiji,Guyana
+950,110,1934,69,1,Pounds,Fiji,Guyana
+950,110,1935,40,1,Pounds,Fiji,Guyana
+950,110,1936,120,1,Pounds,Fiji,Guyana
+950,110,1937,76,1,Pounds,Fiji,Guyana
+950,110,1938,95,1,Pounds,Fiji,Guyana
+950,135,1919,0,1,Pounds,Fiji,Peru
+950,135,1920,0,1,Pounds,Fiji,Peru
+950,135,1921,0,1,Pounds,Fiji,Peru
+950,135,1922,0,1,Pounds,Fiji,Peru
+950,135,1923,0,1,Pounds,Fiji,Peru
+950,135,1924,0,1,Pounds,Fiji,Peru
+950,135,1925,0,1,Pounds,Fiji,Peru
+950,135,1926,0,1,Pounds,Fiji,Peru
+950,135,1927,0,1,Pounds,Fiji,Peru
+950,135,1928,0,1,Pounds,Fiji,Peru
+950,135,1929,0,1,Pounds,Fiji,Peru
+950,135,1930,0,1,Pounds,Fiji,Peru
+950,135,1931,0,1,Pounds,Fiji,Peru
+950,135,1932,0,1,Pounds,Fiji,Peru
+950,135,1933,0,1,Pounds,Fiji,Peru
+950,135,1934,1,1,Pounds,Fiji,Peru
+950,135,1935,0,1,Pounds,Fiji,Peru
+950,135,1936,0,1,Pounds,Fiji,Peru
+950,135,1937,0,1,Pounds,Fiji,Peru
+950,135,1938,0,1,Pounds,Fiji,Peru
+950,140,1919,0,1,Pounds,Fiji,Brazil
+950,140,1920,0,1,Pounds,Fiji,Brazil
+950,140,1921,0,1,Pounds,Fiji,Brazil
+950,140,1922,0,1,Pounds,Fiji,Brazil
+950,140,1923,0,1,Pounds,Fiji,Brazil
+950,140,1924,0,1,Pounds,Fiji,Brazil
+950,140,1925,0,1,Pounds,Fiji,Brazil
+950,140,1926,0,1,Pounds,Fiji,Brazil
+950,140,1927,0,1,Pounds,Fiji,Brazil
+950,140,1928,0,1,Pounds,Fiji,Brazil
+950,140,1929,0,1,Pounds,Fiji,Brazil
+950,140,1930,0,1,Pounds,Fiji,Brazil
+950,140,1931,0,1,Pounds,Fiji,Brazil
+950,140,1932,0,1,Pounds,Fiji,Brazil
+950,140,1933,0,1,Pounds,Fiji,Brazil
+950,140,1934,8,1,Pounds,Fiji,Brazil
+950,140,1935,711,1,Pounds,Fiji,Brazil
+950,140,1936,1101,1,Pounds,Fiji,Brazil
+950,140,1937,26,1,Pounds,Fiji,Brazil
+950,140,1938,14,1,Pounds,Fiji,Brazil
+950,155,1919,0,1,Pounds,Fiji,Chile
+950,155,1920,9000,1,Pounds,Fiji,Chile
+950,155,1921,0,1,Pounds,Fiji,Chile
+950,155,1922,0,1,Pounds,Fiji,Chile
+950,155,1923,0,1,Pounds,Fiji,Chile
+950,155,1924,0,1,Pounds,Fiji,Chile
+950,155,1925,0,1,Pounds,Fiji,Chile
+950,155,1926,0,1,Pounds,Fiji,Chile
+950,155,1927,0,1,Pounds,Fiji,Chile
+950,155,1928,0,1,Pounds,Fiji,Chile
+950,155,1929,0,1,Pounds,Fiji,Chile
+950,155,1930,0,1,Pounds,Fiji,Chile
+950,155,1931,0,1,Pounds,Fiji,Chile
+950,155,1932,0,1,Pounds,Fiji,Chile
+950,155,1933,0,1,Pounds,Fiji,Chile
+950,155,1934,0,1,Pounds,Fiji,Chile
+950,155,1935,1,1,Pounds,Fiji,Chile
+950,155,1936,0,1,Pounds,Fiji,Chile
+950,155,1937,0,1,Pounds,Fiji,Chile
+950,155,1938,0,1,Pounds,Fiji,Chile
+950,200,1919,151626,1,Pounds,Fiji,United Kingdom
+950,200,1920,240757,1,Pounds,Fiji,United Kingdom
+950,200,1921,368129,1,Pounds,Fiji,United Kingdom
+950,200,1922,219920,1,Pounds,Fiji,United Kingdom
+950,200,1923,279971,1,Pounds,Fiji,United Kingdom
+950,200,1924,269231,1,Pounds,Fiji,United Kingdom
+950,200,1925,332080,1,Pounds,Fiji,United Kingdom
+950,200,1926,444047,1,Pounds,Fiji,United Kingdom
+950,200,1927,316824,1,Pounds,Fiji,United Kingdom
+950,200,1928,404718,1,Pounds,Fiji,United Kingdom
+950,200,1929,418570,1,Pounds,Fiji,United Kingdom
+950,200,1930,373694,1,Pounds,Fiji,United Kingdom
+950,200,1931,258171,1,Pounds,Fiji,United Kingdom
+950,200,1932,250748,1,Pounds,Fiji,United Kingdom
+950,200,1933,366151,1,Pounds,Fiji,United Kingdom
+950,200,1934,362763,1,Pounds,Fiji,United Kingdom
+950,200,1935,495992,1,Pounds,Fiji,United Kingdom
+950,200,1936,526690,1,Pounds,Fiji,United Kingdom
+950,200,1937,602904,1,Pounds,Fiji,United Kingdom
+950,200,1938,554871,1,Pounds,Fiji,United Kingdom
+950,210,1919,0,1,Pounds,Fiji,Netherlands
+950,210,1920,601,1,Pounds,Fiji,Netherlands
+950,210,1921,159,1,Pounds,Fiji,Netherlands
+950,210,1922,27,1,Pounds,Fiji,Netherlands
+950,210,1923,0,1,Pounds,Fiji,Netherlands
+950,210,1924,200,1,Pounds,Fiji,Netherlands
+950,210,1925,0,1,Pounds,Fiji,Netherlands
+950,210,1926,58,1,Pounds,Fiji,Netherlands
+950,210,1927,1233,1,Pounds,Fiji,Netherlands
+950,210,1928,804,1,Pounds,Fiji,Netherlands
+950,210,1929,660,1,Pounds,Fiji,Netherlands
+950,210,1930,650,1,Pounds,Fiji,Netherlands
+950,210,1931,279,1,Pounds,Fiji,Netherlands
+950,210,1932,1252,1,Pounds,Fiji,Netherlands
+950,210,1933,44,1,Pounds,Fiji,Netherlands
+950,210,1934,513,1,Pounds,Fiji,Netherlands
+950,210,1935,960,1,Pounds,Fiji,Netherlands
+950,210,1936,1004,1,Pounds,Fiji,Netherlands
+950,210,1937,2284,1,Pounds,Fiji,Netherlands
+950,210,1938,2039,1,Pounds,Fiji,Netherlands
+950,211,1919,0,1,Pounds,Fiji,Belgium
+950,211,1920,259,1,Pounds,Fiji,Belgium
+950,211,1921,931,1,Pounds,Fiji,Belgium
+950,211,1922,288,1,Pounds,Fiji,Belgium
+950,211,1923,1696,1,Pounds,Fiji,Belgium
+950,211,1924,43,1,Pounds,Fiji,Belgium
+950,211,1925,189,1,Pounds,Fiji,Belgium
+950,211,1926,56,1,Pounds,Fiji,Belgium
+950,211,1927,232,1,Pounds,Fiji,Belgium
+950,211,1928,989,1,Pounds,Fiji,Belgium
+950,211,1929,1716,1,Pounds,Fiji,Belgium
+950,211,1930,1597,1,Pounds,Fiji,Belgium
+950,211,1931,1589,1,Pounds,Fiji,Belgium
+950,211,1932,1255,1,Pounds,Fiji,Belgium
+950,211,1933,561,1,Pounds,Fiji,Belgium
+950,211,1934,1079,1,Pounds,Fiji,Belgium
+950,211,1935,2126,1,Pounds,Fiji,Belgium
+950,211,1936,2725,1,Pounds,Fiji,Belgium
+950,211,1937,4436,1,Pounds,Fiji,Belgium
+950,211,1938,2214,1,Pounds,Fiji,Belgium
+950,220,1919,658,1,Pounds,Fiji,France
+950,220,1920,1006,1,Pounds,Fiji,France
+950,220,1921,3513,1,Pounds,Fiji,France
+950,220,1922,631,1,Pounds,Fiji,France
+950,220,1923,375,1,Pounds,Fiji,France
+950,220,1924,1217,1,Pounds,Fiji,France
+950,220,1925,2061,1,Pounds,Fiji,France
+950,220,1926,1181,1,Pounds,Fiji,France
+950,220,1927,1967,1,Pounds,Fiji,France
+950,220,1928,1720,1,Pounds,Fiji,France
+950,220,1929,2453,1,Pounds,Fiji,France
+950,220,1930,3331,1,Pounds,Fiji,France
+950,220,1931,3256,1,Pounds,Fiji,France
+950,220,1932,2889,1,Pounds,Fiji,France
+950,220,1933,5080,1,Pounds,Fiji,France
+950,220,1934,4229,1,Pounds,Fiji,France
+950,220,1935,4755,1,Pounds,Fiji,France
+950,220,1936,5418,1,Pounds,Fiji,France
+950,220,1937,4952,1,Pounds,Fiji,France
+950,220,1938,3336,1,Pounds,Fiji,France
+950,225,1919,0,1,Pounds,Fiji,Switzerland
+950,225,1920,0,1,Pounds,Fiji,Switzerland
+950,225,1921,0,1,Pounds,Fiji,Switzerland
+950,225,1922,0,1,Pounds,Fiji,Switzerland
+950,225,1923,0,1,Pounds,Fiji,Switzerland
+950,225,1924,32,1,Pounds,Fiji,Switzerland
+950,225,1925,139,1,Pounds,Fiji,Switzerland
+950,225,1926,300,1,Pounds,Fiji,Switzerland
+950,225,1927,191,1,Pounds,Fiji,Switzerland
+950,225,1928,447,1,Pounds,Fiji,Switzerland
+950,225,1929,128,1,Pounds,Fiji,Switzerland
+950,225,1930,1109,1,Pounds,Fiji,Switzerland
+950,225,1931,444,1,Pounds,Fiji,Switzerland
+950,225,1932,587,1,Pounds,Fiji,Switzerland
+950,225,1933,1016,1,Pounds,Fiji,Switzerland
+950,225,1934,1595,1,Pounds,Fiji,Switzerland
+950,225,1935,2210,1,Pounds,Fiji,Switzerland
+950,225,1936,1259,1,Pounds,Fiji,Switzerland
+950,225,1937,3102,1,Pounds,Fiji,Switzerland
+950,225,1938,2985,1,Pounds,Fiji,Switzerland
+950,230,1919,0,1,Pounds,Fiji,Spain
+950,230,1920,0,1,Pounds,Fiji,Spain
+950,230,1921,0,1,Pounds,Fiji,Spain
+950,230,1922,0,1,Pounds,Fiji,Spain
+950,230,1923,0,1,Pounds,Fiji,Spain
+950,230,1924,0,1,Pounds,Fiji,Spain
+950,230,1925,0,1,Pounds,Fiji,Spain
+950,230,1926,69,1,Pounds,Fiji,Spain
+950,230,1927,13,1,Pounds,Fiji,Spain
+950,230,1928,145,1,Pounds,Fiji,Spain
+950,230,1929,112,1,Pounds,Fiji,Spain
+950,230,1930,17,1,Pounds,Fiji,Spain
+950,230,1931,46,1,Pounds,Fiji,Spain
+950,230,1932,0,1,Pounds,Fiji,Spain
+950,230,1933,95,1,Pounds,Fiji,Spain
+950,230,1934,1135,1,Pounds,Fiji,Spain
+950,230,1935,1366,1,Pounds,Fiji,Spain
+950,230,1936,1147,1,Pounds,Fiji,Spain
+950,230,1937,1552,1,Pounds,Fiji,Spain
+950,230,1938,1026,1,Pounds,Fiji,Spain
+950,235,1919,0,1,Pounds,Fiji,Portugal
+950,235,1920,0,1,Pounds,Fiji,Portugal
+950,235,1921,0,1,Pounds,Fiji,Portugal
+950,235,1922,0,1,Pounds,Fiji,Portugal
+950,235,1923,0,1,Pounds,Fiji,Portugal
+950,235,1924,0,1,Pounds,Fiji,Portugal
+950,235,1925,0,1,Pounds,Fiji,Portugal
+950,235,1926,8,1,Pounds,Fiji,Portugal
+950,235,1927,0,1,Pounds,Fiji,Portugal
+950,235,1928,45,1,Pounds,Fiji,Portugal
+950,235,1929,46,1,Pounds,Fiji,Portugal
+950,235,1930,0,1,Pounds,Fiji,Portugal
+950,235,1931,116,1,Pounds,Fiji,Portugal
+950,235,1932,0,1,Pounds,Fiji,Portugal
+950,235,1933,31,1,Pounds,Fiji,Portugal
+950,235,1934,246,1,Pounds,Fiji,Portugal
+950,235,1935,248,1,Pounds,Fiji,Portugal
+950,235,1936,366,1,Pounds,Fiji,Portugal
+950,235,1937,383,1,Pounds,Fiji,Portugal
+950,235,1938,245,1,Pounds,Fiji,Portugal
+950,255,1919,0,1,Pounds,Fiji,Germany
+950,255,1920,0,1,Pounds,Fiji,Germany
+950,255,1921,322,1,Pounds,Fiji,Germany
+950,255,1922,80,1,Pounds,Fiji,Germany
+950,255,1923,1297,1,Pounds,Fiji,Germany
+950,255,1924,481,1,Pounds,Fiji,Germany
+950,255,1925,1393,1,Pounds,Fiji,Germany
+950,255,1926,2089,1,Pounds,Fiji,Germany
+950,255,1927,1694,1,Pounds,Fiji,Germany
+950,255,1928,5466,1,Pounds,Fiji,Germany
+950,255,1929,4513,1,Pounds,Fiji,Germany
+950,255,1930,5954,1,Pounds,Fiji,Germany
+950,255,1931,3899,1,Pounds,Fiji,Germany
+950,255,1932,7735,1,Pounds,Fiji,Germany
+950,255,1933,8944,1,Pounds,Fiji,Germany
+950,255,1934,14192,1,Pounds,Fiji,Germany
+950,255,1935,11709,1,Pounds,Fiji,Germany
+950,255,1936,11476,1,Pounds,Fiji,Germany
+950,255,1937,15738,1,Pounds,Fiji,Germany
+950,255,1938,17587,1,Pounds,Fiji,Germany
+950,290,1919,0,1,Pounds,Fiji,Poland
+950,290,1920,0,1,Pounds,Fiji,Poland
+950,290,1921,0,1,Pounds,Fiji,Poland
+950,290,1922,0,1,Pounds,Fiji,Poland
+950,290,1923,0,1,Pounds,Fiji,Poland
+950,290,1924,0,1,Pounds,Fiji,Poland
+950,290,1925,0,1,Pounds,Fiji,Poland
+950,290,1926,0,1,Pounds,Fiji,Poland
+950,290,1927,0,1,Pounds,Fiji,Poland
+950,290,1928,214,1,Pounds,Fiji,Poland
+950,290,1929,0,1,Pounds,Fiji,Poland
+950,290,1930,47,1,Pounds,Fiji,Poland
+950,290,1931,31,1,Pounds,Fiji,Poland
+950,290,1932,0,1,Pounds,Fiji,Poland
+950,290,1933,88,1,Pounds,Fiji,Poland
+950,290,1934,235,1,Pounds,Fiji,Poland
+950,290,1935,111,1,Pounds,Fiji,Poland
+950,290,1936,163,1,Pounds,Fiji,Poland
+950,290,1937,672,1,Pounds,Fiji,Poland
+950,290,1938,163,1,Pounds,Fiji,Poland
+950,305,1919,0,1,Pounds,Fiji,Austria
+950,305,1920,0,1,Pounds,Fiji,Austria
+950,305,1921,0,1,Pounds,Fiji,Austria
+950,305,1922,0,1,Pounds,Fiji,Austria
+950,305,1923,0,1,Pounds,Fiji,Austria
+950,305,1924,65,1,Pounds,Fiji,Austria
+950,305,1925,0,1,Pounds,Fiji,Austria
+950,305,1926,0,1,Pounds,Fiji,Austria
+950,305,1927,0,1,Pounds,Fiji,Austria
+950,305,1928,0,1,Pounds,Fiji,Austria
+950,305,1929,74,1,Pounds,Fiji,Austria
+950,305,1930,189,1,Pounds,Fiji,Austria
+950,305,1931,31,1,Pounds,Fiji,Austria
+950,305,1932,0,1,Pounds,Fiji,Austria
+950,305,1933,0,1,Pounds,Fiji,Austria
+950,305,1934,707,1,Pounds,Fiji,Austria
+950,305,1935,521,1,Pounds,Fiji,Austria
+950,305,1936,632,1,Pounds,Fiji,Austria
+950,305,1937,514,1,Pounds,Fiji,Austria
+950,305,1938,0,1,Pounds,Fiji,Austria
+950,310,1919,0,1,Pounds,Fiji,Hungary
+950,310,1920,0,1,Pounds,Fiji,Hungary
+950,310,1921,0,1,Pounds,Fiji,Hungary
+950,310,1922,0,1,Pounds,Fiji,Hungary
+950,310,1923,0,1,Pounds,Fiji,Hungary
+950,310,1924,0,1,Pounds,Fiji,Hungary
+950,310,1925,0,1,Pounds,Fiji,Hungary
+950,310,1926,0,1,Pounds,Fiji,Hungary
+950,310,1927,0,1,Pounds,Fiji,Hungary
+950,310,1928,0,1,Pounds,Fiji,Hungary
+950,310,1929,0,1,Pounds,Fiji,Hungary
+950,310,1930,0,1,Pounds,Fiji,Hungary
+950,310,1931,0,1,Pounds,Fiji,Hungary
+950,310,1932,0,1,Pounds,Fiji,Hungary
+950,310,1933,0,1,Pounds,Fiji,Hungary
+950,310,1934,10,1,Pounds,Fiji,Hungary
+950,310,1935,0,1,Pounds,Fiji,Hungary
+950,310,1936,0,1,Pounds,Fiji,Hungary
+950,310,1937,0,1,Pounds,Fiji,Hungary
+950,310,1938,0,1,Pounds,Fiji,Hungary
+950,315,1919,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1920,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1921,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1922,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1923,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1924,24,1,Pounds,Fiji,Czechoslovakia
+950,315,1925,0,1,Pounds,Fiji,Czechoslovakia
+950,315,1926,186,1,Pounds,Fiji,Czechoslovakia
+950,315,1927,154,1,Pounds,Fiji,Czechoslovakia
+950,315,1928,142,1,Pounds,Fiji,Czechoslovakia
+950,315,1929,274,1,Pounds,Fiji,Czechoslovakia
+950,315,1930,203,1,Pounds,Fiji,Czechoslovakia
+950,315,1931,37,1,Pounds,Fiji,Czechoslovakia
+950,315,1932,40,1,Pounds,Fiji,Czechoslovakia
+950,315,1933,88,1,Pounds,Fiji,Czechoslovakia
+950,315,1934,613,1,Pounds,Fiji,Czechoslovakia
+950,315,1935,1313,1,Pounds,Fiji,Czechoslovakia
+950,315,1936,1361,1,Pounds,Fiji,Czechoslovakia
+950,315,1937,905,1,Pounds,Fiji,Czechoslovakia
+950,315,1938,898,1,Pounds,Fiji,Czechoslovakia
+950,325,1919,26,1,Pounds,Fiji,Italy
+950,325,1920,21,1,Pounds,Fiji,Italy
+950,325,1921,273,1,Pounds,Fiji,Italy
+950,325,1922,0,1,Pounds,Fiji,Italy
+950,325,1923,44,1,Pounds,Fiji,Italy
+950,325,1924,112,1,Pounds,Fiji,Italy
+950,325,1925,75,1,Pounds,Fiji,Italy
+950,325,1926,708,1,Pounds,Fiji,Italy
+950,325,1927,634,1,Pounds,Fiji,Italy
+950,325,1928,763,1,Pounds,Fiji,Italy
+950,325,1929,991,1,Pounds,Fiji,Italy
+950,325,1930,930,1,Pounds,Fiji,Italy
+950,325,1931,322,1,Pounds,Fiji,Italy
+950,325,1932,446,1,Pounds,Fiji,Italy
+950,325,1933,106,1,Pounds,Fiji,Italy
+950,325,1934,1401,1,Pounds,Fiji,Italy
+950,325,1935,1838,1,Pounds,Fiji,Italy
+950,325,1936,388,1,Pounds,Fiji,Italy
+950,325,1937,2909,1,Pounds,Fiji,Italy
+950,325,1938,5042,1,Pounds,Fiji,Italy
+950,345,1919,0,1,Pounds,Fiji,Yugoslavia
+950,345,1920,0,1,Pounds,Fiji,Yugoslavia
+950,345,1921,0,1,Pounds,Fiji,Yugoslavia
+950,345,1922,0,1,Pounds,Fiji,Yugoslavia
+950,345,1923,0,1,Pounds,Fiji,Yugoslavia
+950,345,1924,0,1,Pounds,Fiji,Yugoslavia
+950,345,1925,0,1,Pounds,Fiji,Yugoslavia
+950,345,1926,9,1,Pounds,Fiji,Yugoslavia
+950,345,1927,0,1,Pounds,Fiji,Yugoslavia
+950,345,1928,0,1,Pounds,Fiji,Yugoslavia
+950,345,1929,0,1,Pounds,Fiji,Yugoslavia
+950,345,1930,0,1,Pounds,Fiji,Yugoslavia
+950,345,1931,0,1,Pounds,Fiji,Yugoslavia
+950,345,1932,0,1,Pounds,Fiji,Yugoslavia
+950,345,1933,0,1,Pounds,Fiji,Yugoslavia
+950,345,1934,0,1,Pounds,Fiji,Yugoslavia
+950,345,1935,47,1,Pounds,Fiji,Yugoslavia
+950,345,1936,20,1,Pounds,Fiji,Yugoslavia
+950,345,1937,0,1,Pounds,Fiji,Yugoslavia
+950,345,1938,4,1,Pounds,Fiji,Yugoslavia
+950,350,1919,0,1,Pounds,Fiji,Greece
+950,350,1920,0,1,Pounds,Fiji,Greece
+950,350,1921,0,1,Pounds,Fiji,Greece
+950,350,1922,0,1,Pounds,Fiji,Greece
+950,350,1923,0,1,Pounds,Fiji,Greece
+950,350,1924,0,1,Pounds,Fiji,Greece
+950,350,1925,0,1,Pounds,Fiji,Greece
+950,350,1926,0,1,Pounds,Fiji,Greece
+950,350,1927,0,1,Pounds,Fiji,Greece
+950,350,1928,0,1,Pounds,Fiji,Greece
+950,350,1929,0,1,Pounds,Fiji,Greece
+950,350,1930,0,1,Pounds,Fiji,Greece
+950,350,1931,0,1,Pounds,Fiji,Greece
+950,350,1932,0,1,Pounds,Fiji,Greece
+950,350,1933,0,1,Pounds,Fiji,Greece
+950,350,1934,3,1,Pounds,Fiji,Greece
+950,350,1935,7,1,Pounds,Fiji,Greece
+950,350,1936,7,1,Pounds,Fiji,Greece
+950,350,1937,9,1,Pounds,Fiji,Greece
+950,350,1938,7,1,Pounds,Fiji,Greece
+950,352,1919,0,1,Pounds,Fiji,Cyprus
+950,352,1920,0,1,Pounds,Fiji,Cyprus
+950,352,1921,0,1,Pounds,Fiji,Cyprus
+950,352,1922,0,1,Pounds,Fiji,Cyprus
+950,352,1923,0,1,Pounds,Fiji,Cyprus
+950,352,1924,0,1,Pounds,Fiji,Cyprus
+950,352,1925,0,1,Pounds,Fiji,Cyprus
+950,352,1926,0,1,Pounds,Fiji,Cyprus
+950,352,1927,0,1,Pounds,Fiji,Cyprus
+950,352,1928,0,1,Pounds,Fiji,Cyprus
+950,352,1929,0,1,Pounds,Fiji,Cyprus
+950,352,1930,0,1,Pounds,Fiji,Cyprus
+950,352,1931,0,1,Pounds,Fiji,Cyprus
+950,352,1932,0,1,Pounds,Fiji,Cyprus
+950,352,1933,0,1,Pounds,Fiji,Cyprus
+950,352,1934,0,1,Pounds,Fiji,Cyprus
+950,352,1935,2,1,Pounds,Fiji,Cyprus
+950,352,1936,9,1,Pounds,Fiji,Cyprus
+950,352,1937,3,1,Pounds,Fiji,Cyprus
+950,352,1938,0,1,Pounds,Fiji,Cyprus
+950,360,1919,0,1,Pounds,Fiji,Romania
+950,360,1920,0,1,Pounds,Fiji,Romania
+950,360,1921,0,1,Pounds,Fiji,Romania
+950,360,1922,0,1,Pounds,Fiji,Romania
+950,360,1923,0,1,Pounds,Fiji,Romania
+950,360,1924,0,1,Pounds,Fiji,Romania
+950,360,1925,0,1,Pounds,Fiji,Romania
+950,360,1926,0,1,Pounds,Fiji,Romania
+950,360,1927,0,1,Pounds,Fiji,Romania
+950,360,1928,0,1,Pounds,Fiji,Romania
+950,360,1929,0,1,Pounds,Fiji,Romania
+950,360,1930,0,1,Pounds,Fiji,Romania
+950,360,1931,0,1,Pounds,Fiji,Romania
+950,360,1932,0,1,Pounds,Fiji,Romania
+950,360,1933,0,1,Pounds,Fiji,Romania
+950,360,1934,1,1,Pounds,Fiji,Romania
+950,360,1935,0,1,Pounds,Fiji,Romania
+950,360,1936,0,1,Pounds,Fiji,Romania
+950,360,1937,0,1,Pounds,Fiji,Romania
+950,360,1938,0,1,Pounds,Fiji,Romania
+950,365,1919,0,1,Pounds,Fiji,Russia
+950,365,1920,0,1,Pounds,Fiji,Russia
+950,365,1921,0,1,Pounds,Fiji,Russia
+950,365,1922,0,1,Pounds,Fiji,Russia
+950,365,1923,0,1,Pounds,Fiji,Russia
+950,365,1924,39,1,Pounds,Fiji,Russia
+950,365,1925,0,1,Pounds,Fiji,Russia
+950,365,1926,0,1,Pounds,Fiji,Russia
+950,365,1927,0,1,Pounds,Fiji,Russia
+950,365,1928,0,1,Pounds,Fiji,Russia
+950,365,1929,0,1,Pounds,Fiji,Russia
+950,365,1930,0,1,Pounds,Fiji,Russia
+950,365,1931,0,1,Pounds,Fiji,Russia
+950,365,1932,0,1,Pounds,Fiji,Russia
+950,365,1933,0,1,Pounds,Fiji,Russia
+950,365,1934,19,1,Pounds,Fiji,Russia
+950,365,1935,32,1,Pounds,Fiji,Russia
+950,365,1936,41,1,Pounds,Fiji,Russia
+950,365,1937,54,1,Pounds,Fiji,Russia
+950,365,1938,86,1,Pounds,Fiji,Russia
+950,375,1919,0,1,Pounds,Fiji,Finland
+950,375,1920,0,1,Pounds,Fiji,Finland
+950,375,1921,0,1,Pounds,Fiji,Finland
+950,375,1922,0,1,Pounds,Fiji,Finland
+950,375,1923,0,1,Pounds,Fiji,Finland
+950,375,1924,0,1,Pounds,Fiji,Finland
+950,375,1925,0,1,Pounds,Fiji,Finland
+950,375,1926,0,1,Pounds,Fiji,Finland
+950,375,1927,0,1,Pounds,Fiji,Finland
+950,375,1928,0,1,Pounds,Fiji,Finland
+950,375,1929,0,1,Pounds,Fiji,Finland
+950,375,1930,0,1,Pounds,Fiji,Finland
+950,375,1931,0,1,Pounds,Fiji,Finland
+950,375,1932,0,1,Pounds,Fiji,Finland
+950,375,1933,0,1,Pounds,Fiji,Finland
+950,375,1934,1,1,Pounds,Fiji,Finland
+950,375,1935,22,1,Pounds,Fiji,Finland
+950,375,1936,0,1,Pounds,Fiji,Finland
+950,375,1937,90,1,Pounds,Fiji,Finland
+950,375,1938,38,1,Pounds,Fiji,Finland
+950,380,1919,443,1,Pounds,Fiji,Sweden
+950,380,1920,1722,1,Pounds,Fiji,Sweden
+950,380,1921,3263,1,Pounds,Fiji,Sweden
+950,380,1922,265,1,Pounds,Fiji,Sweden
+950,380,1923,99,1,Pounds,Fiji,Sweden
+950,380,1924,688,1,Pounds,Fiji,Sweden
+950,380,1925,676,1,Pounds,Fiji,Sweden
+950,380,1926,760,1,Pounds,Fiji,Sweden
+950,380,1927,220,1,Pounds,Fiji,Sweden
+950,380,1928,744,1,Pounds,Fiji,Sweden
+950,380,1929,887,1,Pounds,Fiji,Sweden
+950,380,1930,1230,1,Pounds,Fiji,Sweden
+950,380,1931,809,1,Pounds,Fiji,Sweden
+950,380,1932,1641,1,Pounds,Fiji,Sweden
+950,380,1933,1680,1,Pounds,Fiji,Sweden
+950,380,1934,2725,1,Pounds,Fiji,Sweden
+950,380,1935,3411,1,Pounds,Fiji,Sweden
+950,380,1936,3706,1,Pounds,Fiji,Sweden
+950,380,1937,5568,1,Pounds,Fiji,Sweden
+950,380,1938,6878,1,Pounds,Fiji,Sweden
+950,385,1919,21,1,Pounds,Fiji,Norway
+950,385,1920,158,1,Pounds,Fiji,Norway
+950,385,1921,47,1,Pounds,Fiji,Norway
+950,385,1922,0,1,Pounds,Fiji,Norway
+950,385,1923,183,1,Pounds,Fiji,Norway
+950,385,1924,84,1,Pounds,Fiji,Norway
+950,385,1925,26,1,Pounds,Fiji,Norway
+950,385,1926,81,1,Pounds,Fiji,Norway
+950,385,1927,104,1,Pounds,Fiji,Norway
+950,385,1928,236,1,Pounds,Fiji,Norway
+950,385,1929,126,1,Pounds,Fiji,Norway
+950,385,1930,343,1,Pounds,Fiji,Norway
+950,385,1931,67,1,Pounds,Fiji,Norway
+950,385,1932,105,1,Pounds,Fiji,Norway
+950,385,1933,152,1,Pounds,Fiji,Norway
+950,385,1934,268,1,Pounds,Fiji,Norway
+950,385,1935,253,1,Pounds,Fiji,Norway
+950,385,1936,412,1,Pounds,Fiji,Norway
+950,385,1937,299,1,Pounds,Fiji,Norway
+950,385,1938,189,1,Pounds,Fiji,Norway
+950,390,1919,20,1,Pounds,Fiji,Denmark
+950,390,1920,627,1,Pounds,Fiji,Denmark
+950,390,1921,65,1,Pounds,Fiji,Denmark
+950,390,1922,0,1,Pounds,Fiji,Denmark
+950,390,1923,0,1,Pounds,Fiji,Denmark
+950,390,1924,74,1,Pounds,Fiji,Denmark
+950,390,1925,0,1,Pounds,Fiji,Denmark
+950,390,1926,29,1,Pounds,Fiji,Denmark
+950,390,1927,8,1,Pounds,Fiji,Denmark
+950,390,1928,87,1,Pounds,Fiji,Denmark
+950,390,1929,8,1,Pounds,Fiji,Denmark
+950,390,1930,14,1,Pounds,Fiji,Denmark
+950,390,1931,27,1,Pounds,Fiji,Denmark
+950,390,1932,0,1,Pounds,Fiji,Denmark
+950,390,1933,12,1,Pounds,Fiji,Denmark
+950,390,1934,104,1,Pounds,Fiji,Denmark
+950,390,1935,128,1,Pounds,Fiji,Denmark
+950,390,1936,496,1,Pounds,Fiji,Denmark
+950,390,1937,221,1,Pounds,Fiji,Denmark
+950,390,1938,249,1,Pounds,Fiji,Denmark
+950,501,1919,0,1,Pounds,Fiji,Kenya
+950,501,1920,0,1,Pounds,Fiji,Kenya
+950,501,1921,0,1,Pounds,Fiji,Kenya
+950,501,1922,0,1,Pounds,Fiji,Kenya
+950,501,1923,0,1,Pounds,Fiji,Kenya
+950,501,1924,0,1,Pounds,Fiji,Kenya
+950,501,1925,0,1,Pounds,Fiji,Kenya
+950,501,1926,0,1,Pounds,Fiji,Kenya
+950,501,1927,0,1,Pounds,Fiji,Kenya
+950,501,1928,50,1,Pounds,Fiji,Kenya
+950,501,1929,0,1,Pounds,Fiji,Kenya
+950,501,1930,0,1,Pounds,Fiji,Kenya
+950,501,1931,0,1,Pounds,Fiji,Kenya
+950,501,1932,0,1,Pounds,Fiji,Kenya
+950,501,1933,0,1,Pounds,Fiji,Kenya
+950,501,1934,29,1,Pounds,Fiji,Kenya
+950,501,1935,50,1,Pounds,Fiji,Kenya
+950,501,1936,78,1,Pounds,Fiji,Kenya
+950,501,1937,53,1,Pounds,Fiji,Kenya
+950,501,1938,152,1,Pounds,Fiji,Kenya
+950,511,1919,0,1,Pounds,Fiji,Zanzibar
+950,511,1920,0,1,Pounds,Fiji,Zanzibar
+950,511,1921,0,1,Pounds,Fiji,Zanzibar
+950,511,1922,0,1,Pounds,Fiji,Zanzibar
+950,511,1923,0,1,Pounds,Fiji,Zanzibar
+950,511,1924,0,1,Pounds,Fiji,Zanzibar
+950,511,1925,0,1,Pounds,Fiji,Zanzibar
+950,511,1926,0,1,Pounds,Fiji,Zanzibar
+950,511,1927,0,1,Pounds,Fiji,Zanzibar
+950,511,1928,0,1,Pounds,Fiji,Zanzibar
+950,511,1929,0,1,Pounds,Fiji,Zanzibar
+950,511,1930,0,1,Pounds,Fiji,Zanzibar
+950,511,1931,0,1,Pounds,Fiji,Zanzibar
+950,511,1932,0,1,Pounds,Fiji,Zanzibar
+950,511,1933,0,1,Pounds,Fiji,Zanzibar
+950,511,1934,70,1,Pounds,Fiji,Zanzibar
+950,511,1935,94,1,Pounds,Fiji,Zanzibar
+950,511,1936,33,1,Pounds,Fiji,Zanzibar
+950,511,1937,126,1,Pounds,Fiji,Zanzibar
+950,511,1938,85,1,Pounds,Fiji,Zanzibar
+950,580,1919,0,1,Pounds,Fiji,Madagascar
+950,580,1920,0,1,Pounds,Fiji,Madagascar
+950,580,1921,0,1,Pounds,Fiji,Madagascar
+950,580,1922,0,1,Pounds,Fiji,Madagascar
+950,580,1923,0,1,Pounds,Fiji,Madagascar
+950,580,1924,0,1,Pounds,Fiji,Madagascar
+950,580,1925,0,1,Pounds,Fiji,Madagascar
+950,580,1926,0,1,Pounds,Fiji,Madagascar
+950,580,1927,0,1,Pounds,Fiji,Madagascar
+950,580,1928,0,1,Pounds,Fiji,Madagascar
+950,580,1929,0,1,Pounds,Fiji,Madagascar
+950,580,1930,0,1,Pounds,Fiji,Madagascar
+950,580,1931,0,1,Pounds,Fiji,Madagascar
+950,580,1932,0,1,Pounds,Fiji,Madagascar
+950,580,1933,0,1,Pounds,Fiji,Madagascar
+950,580,1934,8,1,Pounds,Fiji,Madagascar
+950,580,1935,5,1,Pounds,Fiji,Madagascar
+950,580,1936,8,1,Pounds,Fiji,Madagascar
+950,580,1937,35,1,Pounds,Fiji,Madagascar
+950,580,1938,18,1,Pounds,Fiji,Madagascar
+950,625,1919,0,1,Pounds,Fiji,Sudan
+950,625,1920,0,1,Pounds,Fiji,Sudan
+950,625,1921,0,1,Pounds,Fiji,Sudan
+950,625,1922,0,1,Pounds,Fiji,Sudan
+950,625,1923,0,1,Pounds,Fiji,Sudan
+950,625,1924,0,1,Pounds,Fiji,Sudan
+950,625,1925,0,1,Pounds,Fiji,Sudan
+950,625,1926,0,1,Pounds,Fiji,Sudan
+950,625,1927,0,1,Pounds,Fiji,Sudan
+950,625,1928,0,1,Pounds,Fiji,Sudan
+950,625,1929,0,1,Pounds,Fiji,Sudan
+950,625,1930,0,1,Pounds,Fiji,Sudan
+950,625,1931,0,1,Pounds,Fiji,Sudan
+950,625,1932,0,1,Pounds,Fiji,Sudan
+950,625,1933,0,1,Pounds,Fiji,Sudan
+950,625,1934,0,1,Pounds,Fiji,Sudan
+950,625,1935,0,1,Pounds,Fiji,Sudan
+950,625,1936,0,1,Pounds,Fiji,Sudan
+950,625,1937,10,1,Pounds,Fiji,Sudan
+950,625,1938,0,1,Pounds,Fiji,Sudan
+950,630,1919,0,1,Pounds,Fiji,Iran
+950,630,1920,0,1,Pounds,Fiji,Iran
+950,630,1921,0,1,Pounds,Fiji,Iran
+950,630,1922,0,1,Pounds,Fiji,Iran
+950,630,1923,0,1,Pounds,Fiji,Iran
+950,630,1924,0,1,Pounds,Fiji,Iran
+950,630,1925,0,1,Pounds,Fiji,Iran
+950,630,1926,0,1,Pounds,Fiji,Iran
+950,630,1927,0,1,Pounds,Fiji,Iran
+950,630,1928,36,1,Pounds,Fiji,Iran
+950,630,1929,26,1,Pounds,Fiji,Iran
+950,630,1930,0,1,Pounds,Fiji,Iran
+950,630,1931,0,1,Pounds,Fiji,Iran
+950,630,1932,0,1,Pounds,Fiji,Iran
+950,630,1933,0,1,Pounds,Fiji,Iran
+950,630,1934,0,1,Pounds,Fiji,Iran
+950,630,1935,12,1,Pounds,Fiji,Iran
+950,630,1936,0,1,Pounds,Fiji,Iran
+950,630,1937,3,1,Pounds,Fiji,Iran
+950,630,1938,5,1,Pounds,Fiji,Iran
+950,640,1919,0,1,Pounds,Fiji,Turkey
+950,640,1920,0,1,Pounds,Fiji,Turkey
+950,640,1921,0,1,Pounds,Fiji,Turkey
+950,640,1922,0,1,Pounds,Fiji,Turkey
+950,640,1923,0,1,Pounds,Fiji,Turkey
+950,640,1924,0,1,Pounds,Fiji,Turkey
+950,640,1925,0,1,Pounds,Fiji,Turkey
+950,640,1926,0,1,Pounds,Fiji,Turkey
+950,640,1927,0,1,Pounds,Fiji,Turkey
+950,640,1928,0,1,Pounds,Fiji,Turkey
+950,640,1929,0,1,Pounds,Fiji,Turkey
+950,640,1930,0,1,Pounds,Fiji,Turkey
+950,640,1931,0,1,Pounds,Fiji,Turkey
+950,640,1932,0,1,Pounds,Fiji,Turkey
+950,640,1933,0,1,Pounds,Fiji,Turkey
+950,640,1934,7,1,Pounds,Fiji,Turkey
+950,640,1935,6,1,Pounds,Fiji,Turkey
+950,640,1936,16,1,Pounds,Fiji,Turkey
+950,640,1937,4,1,Pounds,Fiji,Turkey
+950,640,1938,4,1,Pounds,Fiji,Turkey
+950,645,1919,0,1,Pounds,Fiji,Iraq
+950,645,1920,0,1,Pounds,Fiji,Iraq
+950,645,1921,0,1,Pounds,Fiji,Iraq
+950,645,1922,0,1,Pounds,Fiji,Iraq
+950,645,1923,0,1,Pounds,Fiji,Iraq
+950,645,1924,0,1,Pounds,Fiji,Iraq
+950,645,1925,0,1,Pounds,Fiji,Iraq
+950,645,1926,0,1,Pounds,Fiji,Iraq
+950,645,1927,0,1,Pounds,Fiji,Iraq
+950,645,1928,0,1,Pounds,Fiji,Iraq
+950,645,1929,0,1,Pounds,Fiji,Iraq
+950,645,1930,0,1,Pounds,Fiji,Iraq
+950,645,1931,0,1,Pounds,Fiji,Iraq
+950,645,1932,0,1,Pounds,Fiji,Iraq
+950,645,1933,0,1,Pounds,Fiji,Iraq
+950,645,1934,299,1,Pounds,Fiji,Iraq
+950,645,1935,293,1,Pounds,Fiji,Iraq
+950,645,1936,242,1,Pounds,Fiji,Iraq
+950,645,1937,187,1,Pounds,Fiji,Iraq
+950,645,1938,241,1,Pounds,Fiji,Iraq
+950,665,1919,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1920,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1921,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1922,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1923,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1924,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1925,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1926,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1927,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1928,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1929,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1930,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1931,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1932,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1933,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1934,0,1,Pounds,Fiji,West Bank And Gaza
+950,665,1935,1587,1,Pounds,Fiji,West Bank And Gaza
+950,665,1936,2962,1,Pounds,Fiji,West Bank And Gaza
+950,665,1937,3628,1,Pounds,Fiji,West Bank And Gaza
+950,665,1938,1666,1,Pounds,Fiji,West Bank And Gaza
+950,710,1919,0,1,Pounds,Fiji,China
+950,710,1920,0,1,Pounds,Fiji,China
+950,710,1921,0,1,Pounds,Fiji,China
+950,710,1922,0,1,Pounds,Fiji,China
+950,710,1923,19,1,Pounds,Fiji,China
+950,710,1924,0,1,Pounds,Fiji,China
+950,710,1925,0,1,Pounds,Fiji,China
+950,710,1926,0,1,Pounds,Fiji,China
+950,710,1927,0,1,Pounds,Fiji,China
+950,710,1928,0,1,Pounds,Fiji,China
+950,710,1929,0,1,Pounds,Fiji,China
+950,710,1930,0,1,Pounds,Fiji,China
+950,710,1931,756,1,Pounds,Fiji,China
+950,710,1932,895,1,Pounds,Fiji,China
+950,710,1933,858,1,Pounds,Fiji,China
+950,710,1934,7806,1,Pounds,Fiji,China
+950,710,1935,9073,1,Pounds,Fiji,China
+950,710,1936,11619,1,Pounds,Fiji,China
+950,710,1937,11933,1,Pounds,Fiji,China
+950,710,1938,8480,1,Pounds,Fiji,China
+950,720,1919,7248,1,Pounds,Fiji,Hong Kong
+950,720,1920,12037,1,Pounds,Fiji,Hong Kong
+950,720,1921,20457,1,Pounds,Fiji,Hong Kong
+950,720,1922,11454,1,Pounds,Fiji,Hong Kong
+950,720,1923,10182,1,Pounds,Fiji,Hong Kong
+950,720,1924,8242,1,Pounds,Fiji,Hong Kong
+950,720,1925,8079,1,Pounds,Fiji,Hong Kong
+950,720,1926,8880,1,Pounds,Fiji,Hong Kong
+950,720,1927,7839,1,Pounds,Fiji,Hong Kong
+950,720,1928,11719,1,Pounds,Fiji,Hong Kong
+950,720,1929,11039,1,Pounds,Fiji,Hong Kong
+950,720,1930,9469,1,Pounds,Fiji,Hong Kong
+950,720,1931,7851,1,Pounds,Fiji,Hong Kong
+950,720,1932,8074,1,Pounds,Fiji,Hong Kong
+950,720,1933,12663,1,Pounds,Fiji,Hong Kong
+950,720,1934,6807,1,Pounds,Fiji,Hong Kong
+950,720,1935,6648,1,Pounds,Fiji,Hong Kong
+950,720,1936,16216,1,Pounds,Fiji,Hong Kong
+950,720,1937,28018,1,Pounds,Fiji,Hong Kong
+950,720,1938,16160,1,Pounds,Fiji,Hong Kong
+950,740,1919,25082,1,Pounds,Fiji,Japan
+950,740,1920,28601,1,Pounds,Fiji,Japan
+950,740,1921,28334,1,Pounds,Fiji,Japan
+950,740,1922,21645,1,Pounds,Fiji,Japan
+950,740,1923,16816,1,Pounds,Fiji,Japan
+950,740,1924,14065,1,Pounds,Fiji,Japan
+950,740,1925,13314,1,Pounds,Fiji,Japan
+950,740,1926,30067,1,Pounds,Fiji,Japan
+950,740,1927,13454,1,Pounds,Fiji,Japan
+950,740,1928,28811,1,Pounds,Fiji,Japan
+950,740,1929,23576,1,Pounds,Fiji,Japan
+950,740,1930,17135,1,Pounds,Fiji,Japan
+950,740,1931,23909,1,Pounds,Fiji,Japan
+950,740,1932,29814,1,Pounds,Fiji,Japan
+950,740,1933,39269,1,Pounds,Fiji,Japan
+950,740,1934,29764,1,Pounds,Fiji,Japan
+950,740,1935,39625,1,Pounds,Fiji,Japan
+950,740,1936,50109,1,Pounds,Fiji,Japan
+950,740,1937,63046,1,Pounds,Fiji,Japan
+950,740,1938,42609,1,Pounds,Fiji,Japan
+950,750,1919,53616,1,Pounds,Fiji,India
+950,750,1920,96997,1,Pounds,Fiji,India
+950,750,1921,66958,1,Pounds,Fiji,India
+950,750,1922,51650,1,Pounds,Fiji,India
+950,750,1923,27925,1,Pounds,Fiji,India
+950,750,1924,39643,1,Pounds,Fiji,India
+950,750,1925,25423,1,Pounds,Fiji,India
+950,750,1926,48161,1,Pounds,Fiji,India
+950,750,1927,45253,1,Pounds,Fiji,India
+950,750,1928,44613,1,Pounds,Fiji,India
+950,750,1929,69222,1,Pounds,Fiji,India
+950,750,1930,43239,1,Pounds,Fiji,India
+950,750,1931,32622,1,Pounds,Fiji,India
+950,750,1932,33944,1,Pounds,Fiji,India
+950,750,1933,39242,1,Pounds,Fiji,India
+950,750,1934,63588,1,Pounds,Fiji,India
+950,750,1935,86755,1,Pounds,Fiji,India
+950,750,1936,91997,1,Pounds,Fiji,India
+950,750,1937,91800,1,Pounds,Fiji,India
+950,750,1938,105831,1,Pounds,Fiji,India
+950,775,1919,0,1,Pounds,Fiji,Myanmar
+950,775,1920,0,1,Pounds,Fiji,Myanmar
+950,775,1921,0,1,Pounds,Fiji,Myanmar
+950,775,1922,0,1,Pounds,Fiji,Myanmar
+950,775,1923,0,1,Pounds,Fiji,Myanmar
+950,775,1924,0,1,Pounds,Fiji,Myanmar
+950,775,1925,0,1,Pounds,Fiji,Myanmar
+950,775,1926,0,1,Pounds,Fiji,Myanmar
+950,775,1927,0,1,Pounds,Fiji,Myanmar
+950,775,1928,0,1,Pounds,Fiji,Myanmar
+950,775,1929,0,1,Pounds,Fiji,Myanmar
+950,775,1930,0,1,Pounds,Fiji,Myanmar
+950,775,1931,0,1,Pounds,Fiji,Myanmar
+950,775,1932,197,1,Pounds,Fiji,Myanmar
+950,775,1933,0,1,Pounds,Fiji,Myanmar
+950,775,1934,1034,1,Pounds,Fiji,Myanmar
+950,775,1935,9342,1,Pounds,Fiji,Myanmar
+950,775,1936,28224,1,Pounds,Fiji,Myanmar
+950,775,1937,27000,1,Pounds,Fiji,Myanmar
+950,775,1938,16993,1,Pounds,Fiji,Myanmar
+950,780,1919,0,1,Pounds,Fiji,Sri Lanka
+950,780,1920,0,1,Pounds,Fiji,Sri Lanka
+950,780,1921,48,1,Pounds,Fiji,Sri Lanka
+950,780,1922,0,1,Pounds,Fiji,Sri Lanka
+950,780,1923,7,1,Pounds,Fiji,Sri Lanka
+950,780,1924,4,1,Pounds,Fiji,Sri Lanka
+950,780,1925,0,1,Pounds,Fiji,Sri Lanka
+950,780,1926,17,1,Pounds,Fiji,Sri Lanka
+950,780,1927,22,1,Pounds,Fiji,Sri Lanka
+950,780,1928,283,1,Pounds,Fiji,Sri Lanka
+950,780,1929,59,1,Pounds,Fiji,Sri Lanka
+950,780,1930,285,1,Pounds,Fiji,Sri Lanka
+950,780,1931,132,1,Pounds,Fiji,Sri Lanka
+950,780,1932,189,1,Pounds,Fiji,Sri Lanka
+950,780,1933,358,1,Pounds,Fiji,Sri Lanka
+950,780,1934,12249,1,Pounds,Fiji,Sri Lanka
+950,780,1935,17597,1,Pounds,Fiji,Sri Lanka
+950,780,1936,21538,1,Pounds,Fiji,Sri Lanka
+950,780,1937,19936,1,Pounds,Fiji,Sri Lanka
+950,780,1938,23090,1,Pounds,Fiji,Sri Lanka
+950,800,1919,0,1,Pounds,Fiji,Thailand
+950,800,1920,0,1,Pounds,Fiji,Thailand
+950,800,1921,0,1,Pounds,Fiji,Thailand
+950,800,1922,0,1,Pounds,Fiji,Thailand
+950,800,1923,0,1,Pounds,Fiji,Thailand
+950,800,1924,0,1,Pounds,Fiji,Thailand
+950,800,1925,0,1,Pounds,Fiji,Thailand
+950,800,1926,0,1,Pounds,Fiji,Thailand
+950,800,1927,0,1,Pounds,Fiji,Thailand
+950,800,1928,0,1,Pounds,Fiji,Thailand
+950,800,1929,0,1,Pounds,Fiji,Thailand
+950,800,1930,0,1,Pounds,Fiji,Thailand
+950,800,1931,0,1,Pounds,Fiji,Thailand
+950,800,1932,0,1,Pounds,Fiji,Thailand
+950,800,1933,0,1,Pounds,Fiji,Thailand
+950,800,1934,23,1,Pounds,Fiji,Thailand
+950,800,1935,23,1,Pounds,Fiji,Thailand
+950,800,1936,54,1,Pounds,Fiji,Thailand
+950,800,1937,0,1,Pounds,Fiji,Thailand
+950,800,1938,18,1,Pounds,Fiji,Thailand
+950,810,1919,0,1,Pounds,Fiji,French Indo-China
+950,810,1920,0,1,Pounds,Fiji,French Indo-China
+950,810,1921,0,1,Pounds,Fiji,French Indo-China
+950,810,1922,0,1,Pounds,Fiji,French Indo-China
+950,810,1923,0,1,Pounds,Fiji,French Indo-China
+950,810,1924,0,1,Pounds,Fiji,French Indo-China
+950,810,1925,0,1,Pounds,Fiji,French Indo-China
+950,810,1926,0,1,Pounds,Fiji,French Indo-China
+950,810,1927,0,1,Pounds,Fiji,French Indo-China
+950,810,1928,0,1,Pounds,Fiji,French Indo-China
+950,810,1929,0,1,Pounds,Fiji,French Indo-China
+950,810,1930,0,1,Pounds,Fiji,French Indo-China
+950,810,1931,0,1,Pounds,Fiji,French Indo-China
+950,810,1932,0,1,Pounds,Fiji,French Indo-China
+950,810,1933,0,1,Pounds,Fiji,French Indo-China
+950,810,1934,0,1,Pounds,Fiji,French Indo-China
+950,810,1935,92,1,Pounds,Fiji,French Indo-China
+950,810,1936,0,1,Pounds,Fiji,French Indo-China
+950,810,1937,0,1,Pounds,Fiji,French Indo-China
+950,810,1938,0,1,Pounds,Fiji,French Indo-China
+950,820,1919,0,1,Pounds,Fiji,Malaysia
+950,820,1920,0,1,Pounds,Fiji,Malaysia
+950,820,1921,0,1,Pounds,Fiji,Malaysia
+950,820,1922,0,1,Pounds,Fiji,Malaysia
+950,820,1923,0,1,Pounds,Fiji,Malaysia
+950,820,1924,0,1,Pounds,Fiji,Malaysia
+950,820,1925,200,1,Pounds,Fiji,Malaysia
+950,820,1926,0,1,Pounds,Fiji,Malaysia
+950,820,1927,0,1,Pounds,Fiji,Malaysia
+950,820,1928,0,1,Pounds,Fiji,Malaysia
+950,820,1929,0,1,Pounds,Fiji,Malaysia
+950,820,1930,0,1,Pounds,Fiji,Malaysia
+950,820,1931,0,1,Pounds,Fiji,Malaysia
+950,820,1932,0,1,Pounds,Fiji,Malaysia
+950,820,1933,0,1,Pounds,Fiji,Malaysia
+950,820,1934,0,1,Pounds,Fiji,Malaysia
+950,820,1935,0,1,Pounds,Fiji,Malaysia
+950,820,1936,0,1,Pounds,Fiji,Malaysia
+950,820,1937,0,1,Pounds,Fiji,Malaysia
+950,820,1938,0,1,Pounds,Fiji,Malaysia
+950,823,1919,0,1,Pounds,Fiji,British Borneo
+950,823,1920,0,1,Pounds,Fiji,British Borneo
+950,823,1921,0,1,Pounds,Fiji,British Borneo
+950,823,1922,0,1,Pounds,Fiji,British Borneo
+950,823,1923,0,1,Pounds,Fiji,British Borneo
+950,823,1924,0,1,Pounds,Fiji,British Borneo
+950,823,1925,0,1,Pounds,Fiji,British Borneo
+950,823,1926,0,1,Pounds,Fiji,British Borneo
+950,823,1927,0,1,Pounds,Fiji,British Borneo
+950,823,1928,0,1,Pounds,Fiji,British Borneo
+950,823,1929,0,1,Pounds,Fiji,British Borneo
+950,823,1930,0,1,Pounds,Fiji,British Borneo
+950,823,1931,0,1,Pounds,Fiji,British Borneo
+950,823,1932,0,1,Pounds,Fiji,British Borneo
+950,823,1933,0,1,Pounds,Fiji,British Borneo
+950,823,1934,0,1,Pounds,Fiji,British Borneo
+950,823,1935,0,1,Pounds,Fiji,British Borneo
+950,823,1936,0,1,Pounds,Fiji,British Borneo
+950,823,1937,0,1,Pounds,Fiji,British Borneo
+950,823,1938,29,1,Pounds,Fiji,British Borneo
+950,827,1919,924,1,Pounds,Fiji,Straits Settlement
+950,827,1920,506,1,Pounds,Fiji,Straits Settlement
+950,827,1921,451,1,Pounds,Fiji,Straits Settlement
+950,827,1922,71,1,Pounds,Fiji,Straits Settlement
+950,827,1923,224,1,Pounds,Fiji,Straits Settlement
+950,827,1924,86,1,Pounds,Fiji,Straits Settlement
+950,827,1925,439,1,Pounds,Fiji,Straits Settlement
+950,827,1926,520,1,Pounds,Fiji,Straits Settlement
+950,827,1927,30,1,Pounds,Fiji,Straits Settlement
+950,827,1928,288,1,Pounds,Fiji,Straits Settlement
+950,827,1929,15993,1,Pounds,Fiji,Straits Settlement
+950,827,1930,90,1,Pounds,Fiji,Straits Settlement
+950,827,1931,91,1,Pounds,Fiji,Straits Settlement
+950,827,1932,921,1,Pounds,Fiji,Straits Settlement
+950,827,1933,1126,1,Pounds,Fiji,Straits Settlement
+950,827,1934,1303,1,Pounds,Fiji,Straits Settlement
+950,827,1935,729,1,Pounds,Fiji,Straits Settlement
+950,827,1936,619,1,Pounds,Fiji,Straits Settlement
+950,827,1937,553,1,Pounds,Fiji,Straits Settlement
+950,827,1938,472,1,Pounds,Fiji,Straits Settlement
+950,840,1919,0,1,Pounds,Fiji,Philippines
+950,840,1920,79,1,Pounds,Fiji,Philippines
+950,840,1921,72,1,Pounds,Fiji,Philippines
+950,840,1922,0,1,Pounds,Fiji,Philippines
+950,840,1923,33,1,Pounds,Fiji,Philippines
+950,840,1924,0,1,Pounds,Fiji,Philippines
+950,840,1925,49,1,Pounds,Fiji,Philippines
+950,840,1926,47,1,Pounds,Fiji,Philippines
+950,840,1927,52,1,Pounds,Fiji,Philippines
+950,840,1928,39,1,Pounds,Fiji,Philippines
+950,840,1929,0,1,Pounds,Fiji,Philippines
+950,840,1930,0,1,Pounds,Fiji,Philippines
+950,840,1931,0,1,Pounds,Fiji,Philippines
+950,840,1932,0,1,Pounds,Fiji,Philippines
+950,840,1933,0,1,Pounds,Fiji,Philippines
+950,840,1934,0,1,Pounds,Fiji,Philippines
+950,840,1935,12,1,Pounds,Fiji,Philippines
+950,840,1936,0,1,Pounds,Fiji,Philippines
+950,840,1937,0,1,Pounds,Fiji,Philippines
+950,840,1938,0,1,Pounds,Fiji,Philippines
+950,850,1919,0,1,Pounds,Fiji,Indonesia
+950,850,1920,0,1,Pounds,Fiji,Indonesia
+950,850,1921,0,1,Pounds,Fiji,Indonesia
+950,850,1922,0,1,Pounds,Fiji,Indonesia
+950,850,1923,0,1,Pounds,Fiji,Indonesia
+950,850,1924,0,1,Pounds,Fiji,Indonesia
+950,850,1925,0,1,Pounds,Fiji,Indonesia
+950,850,1926,0,1,Pounds,Fiji,Indonesia
+950,850,1927,0,1,Pounds,Fiji,Indonesia
+950,850,1928,11976,1,Pounds,Fiji,Indonesia
+950,850,1929,20746,1,Pounds,Fiji,Indonesia
+950,850,1930,21889,1,Pounds,Fiji,Indonesia
+950,850,1931,20115,1,Pounds,Fiji,Indonesia
+950,850,1932,22633,1,Pounds,Fiji,Indonesia
+950,850,1933,18794,1,Pounds,Fiji,Indonesia
+950,850,1934,24643,1,Pounds,Fiji,Indonesia
+950,850,1935,25755,1,Pounds,Fiji,Indonesia
+950,850,1936,34420,1,Pounds,Fiji,Indonesia
+950,850,1937,33391,1,Pounds,Fiji,Indonesia
+950,850,1938,40698,1,Pounds,Fiji,Indonesia
+950,900,1919,0,1,Pounds,Fiji,Australia
+950,900,1920,845418,1,Pounds,Fiji,Australia
+950,900,1921,692341,1,Pounds,Fiji,Australia
+950,900,1922,422245,1,Pounds,Fiji,Australia
+950,900,1923,412199,1,Pounds,Fiji,Australia
+950,900,1924,438715,1,Pounds,Fiji,Australia
+950,900,1925,576260,1,Pounds,Fiji,Australia
+950,900,1926,607171,1,Pounds,Fiji,Australia
+950,900,1927,528740,1,Pounds,Fiji,Australia
+950,900,1928,621784,1,Pounds,Fiji,Australia
+950,900,1929,543963,1,Pounds,Fiji,Australia
+950,900,1930,449845,1,Pounds,Fiji,Australia
+950,900,1931,372284,1,Pounds,Fiji,Australia
+950,900,1932,317046,1,Pounds,Fiji,Australia
+950,900,1933,379886,1,Pounds,Fiji,Australia
+950,900,1934,261108,1,Pounds,Fiji,Australia
+950,900,1935,307387,1,Pounds,Fiji,Australia
+950,900,1936,420989,1,Pounds,Fiji,Australia
+950,900,1937,514504,1,Pounds,Fiji,Australia
+950,900,1938,502452,1,Pounds,Fiji,Australia
+950,920,1919,151662,1,Pounds,Fiji,New Zealand
+950,920,1920,230647,1,Pounds,Fiji,New Zealand
+950,920,1921,143342,1,Pounds,Fiji,New Zealand
+950,920,1922,102768,1,Pounds,Fiji,New Zealand
+950,920,1923,103855,1,Pounds,Fiji,New Zealand
+950,920,1924,127837,1,Pounds,Fiji,New Zealand
+950,920,1925,117413,1,Pounds,Fiji,New Zealand
+950,920,1926,142225,1,Pounds,Fiji,New Zealand
+950,920,1927,124775,1,Pounds,Fiji,New Zealand
+950,920,1928,140697,1,Pounds,Fiji,New Zealand
+950,920,1929,140418,1,Pounds,Fiji,New Zealand
+950,920,1930,102339,1,Pounds,Fiji,New Zealand
+950,920,1931,81470,1,Pounds,Fiji,New Zealand
+950,920,1932,100255,1,Pounds,Fiji,New Zealand
+950,920,1933,88174,1,Pounds,Fiji,New Zealand
+950,920,1934,34343,1,Pounds,Fiji,New Zealand
+950,920,1935,45505,1,Pounds,Fiji,New Zealand
+950,920,1936,59633,1,Pounds,Fiji,New Zealand
+950,920,1937,56870,1,Pounds,Fiji,New Zealand
+950,920,1938,51505,1,Pounds,Fiji,New Zealand
+950,935,1919,0,1,Pounds,Fiji,Vanuatu
+950,935,1920,0,1,Pounds,Fiji,Vanuatu
+950,935,1921,5,1,Pounds,Fiji,Vanuatu
+950,935,1922,0,1,Pounds,Fiji,Vanuatu
+950,935,1923,0,1,Pounds,Fiji,Vanuatu
+950,935,1924,5,1,Pounds,Fiji,Vanuatu
+950,935,1925,8,1,Pounds,Fiji,Vanuatu
+950,935,1926,0,1,Pounds,Fiji,Vanuatu
+950,935,1927,0,1,Pounds,Fiji,Vanuatu
+950,935,1928,0,1,Pounds,Fiji,Vanuatu
+950,935,1929,0,1,Pounds,Fiji,Vanuatu
+950,935,1930,608,1,Pounds,Fiji,Vanuatu
+950,935,1931,0,1,Pounds,Fiji,Vanuatu
+950,935,1932,0,1,Pounds,Fiji,Vanuatu
+950,935,1933,0,1,Pounds,Fiji,Vanuatu
+950,935,1934,0,1,Pounds,Fiji,Vanuatu
+950,935,1935,0,1,Pounds,Fiji,Vanuatu
+950,935,1936,0,1,Pounds,Fiji,Vanuatu
+950,935,1937,0,1,Pounds,Fiji,Vanuatu
+950,935,1938,13,1,Pounds,Fiji,Vanuatu
+950,950,1919,0,1,Pounds,Fiji,Fiji
+950,950,1920,0,1,Pounds,Fiji,Fiji
+950,950,1921,0,1,Pounds,Fiji,Fiji
+950,950,1922,0,1,Pounds,Fiji,Fiji
+950,950,1923,0,1,Pounds,Fiji,Fiji
+950,950,1924,0,1,Pounds,Fiji,Fiji
+950,950,1925,0,1,Pounds,Fiji,Fiji
+950,950,1926,0,1,Pounds,Fiji,Fiji
+950,950,1927,0,1,Pounds,Fiji,Fiji
+950,950,1928,0,1,Pounds,Fiji,Fiji
+950,950,1929,0,1,Pounds,Fiji,Fiji
+950,950,1930,0,1,Pounds,Fiji,Fiji
+950,950,1931,0,1,Pounds,Fiji,Fiji
+950,950,1932,0,1,Pounds,Fiji,Fiji
+950,950,1933,0,1,Pounds,Fiji,Fiji
+950,950,1934,0,1,Pounds,Fiji,Fiji
+950,950,1935,0,1,Pounds,Fiji,Fiji
+950,950,1936,46,1,Pounds,Fiji,Fiji
+950,950,1937,43,1,Pounds,Fiji,Fiji
+950,950,1938,0,1,Pounds,Fiji,Fiji
+950,1050,1919,0,1,Pounds,Fiji,British West Indies
+950,1050,1920,0,1,Pounds,Fiji,British West Indies
+950,1050,1921,0,1,Pounds,Fiji,British West Indies
+950,1050,1922,0,1,Pounds,Fiji,British West Indies
+950,1050,1923,0,1,Pounds,Fiji,British West Indies
+950,1050,1924,0,1,Pounds,Fiji,British West Indies
+950,1050,1925,0,1,Pounds,Fiji,British West Indies
+950,1050,1926,0,1,Pounds,Fiji,British West Indies
+950,1050,1927,0,1,Pounds,Fiji,British West Indies
+950,1050,1928,0,1,Pounds,Fiji,British West Indies
+950,1050,1929,0,1,Pounds,Fiji,British West Indies
+950,1050,1930,52,1,Pounds,Fiji,British West Indies
+950,1050,1931,0,1,Pounds,Fiji,British West Indies
+950,1050,1932,0,1,Pounds,Fiji,British West Indies
+950,1050,1933,0,1,Pounds,Fiji,British West Indies
+950,1050,1934,0,1,Pounds,Fiji,British West Indies
+950,1050,1935,0,1,Pounds,Fiji,British West Indies
+950,1050,1936,593,1,Pounds,Fiji,British West Indies
+950,1050,1937,313,1,Pounds,Fiji,British West Indies
+950,1050,1938,689,1,Pounds,Fiji,British West Indies
+950,8501,1919,0,1,Pounds,Fiji,Java
+950,8501,1920,0,1,Pounds,Fiji,Java
+950,8501,1921,0,1,Pounds,Fiji,Java
+950,8501,1922,94,1,Pounds,Fiji,Java
+950,8501,1923,0,1,Pounds,Fiji,Java
+950,8501,1924,6,1,Pounds,Fiji,Java
+950,8501,1925,0,1,Pounds,Fiji,Java
+950,8501,1926,41,1,Pounds,Fiji,Java
+950,8501,1927,50,1,Pounds,Fiji,Java
+950,8501,1928,122,1,Pounds,Fiji,Java
+950,8501,1929,64,1,Pounds,Fiji,Java
+950,8501,1930,12,1,Pounds,Fiji,Java
+950,8501,1931,0,1,Pounds,Fiji,Java
+950,8501,1932,0,1,Pounds,Fiji,Java
+950,8501,1933,39,1,Pounds,Fiji,Java
+950,8501,1934,2654,1,Pounds,Fiji,Java
+950,8501,1935,815,1,Pounds,Fiji,Java
+950,8501,1936,1119,1,Pounds,Fiji,Java
+950,8501,1937,805,1,Pounds,Fiji,Java
+950,8501,1938,0,1,Pounds,Fiji,Java
+950,,1919,1616776,1,Pounds,Fiji,
+950,,1920,1676739,1,Pounds,Fiji,
+950,,1921,1521087,1,Pounds,Fiji,
+950,,1922,951585,1,Pounds,Fiji,
+950,,1923,993073,1,Pounds,Fiji,
+950,,1924,1069872,1,Pounds,Fiji,
+950,,1925,1279229,1,Pounds,Fiji,
+950,,1926,1491591,1,Pounds,Fiji,
+950,,1927,1229333,1,Pounds,Fiji,
+950,,1928,1487144,1,Pounds,Fiji,
+950,,1929,1473938,1,Pounds,Fiji,
+950,,1930,1257688,1,Pounds,Fiji,
+950,,1931,958653,1,Pounds,Fiji,
+950,,1932,882409,1,Pounds,Fiji,
+950,,1933,1093446,1,Pounds,Fiji,
+950,,1934,1020083,1,Pounds,Fiji,
+950,,1935,1282493,1,Pounds,Fiji,
+950,,1936,1531702,1,Pounds,Fiji,
+950,,1937,1796374,1,Pounds,Fiji,
+950,,1938,1709708,1,Pounds,Fiji,

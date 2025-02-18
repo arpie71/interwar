@@ -1,0 +1,2608 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+325,2,1917,6191820,1000,,Italy,United States
+325,2,1918,6640552,1000,,Italy,United States
+325,2,1919,7350376,1000,,Italy,United States
+325,2,1920,8688621,1000,,Italy,United States
+325,2,1921,5710843,1000,,Italy,United States
+325,2,1922,4398231,1000,Migliaia Di Lire,Italy,United States
+325,2,1923,4608019,1000,Migliaia Di Lire,Italy,United States
+325,2,1924,4648293,1000,Migliaia Di Lire,Italy,United States
+325,2,1925,6195536,1000,Migliaia Di Lire,Italy,United States
+325,2,1926,5607735,1000,Migliaia Di Lire,Italy,United States
+325,2,1927,3958087,1000,Migliaia Di Lire,Italy,United States
+325,2,1928,4011245,1000,,Italy,United States
+325,2,1929,3561017,1000,,Italy,United States
+325,2,1930,2537972,1000,,Italy,United States
+325,2,1931,1327009,1000,,Italy,United States
+325,2,1932,1108.2,1000000,Millioni Di Lire,Italy,United States
+325,2,1933,1114.7,1000000,Millioni Di Lire,Italy,United States
+325,2,1934,957.1,1000000,Millioni Di Lire,Italy,United States
+325,2,1935,879.1,1000000,Millioni Di Lire,Italy,United States
+325,2,1936,895.1,1000000,Millioni Di Lire,Italy,United States
+325,2,1937,1539.1,1000000,Millioni Di Lire,Italy,United States
+325,2,1938,1338.4,1000000,Millioni Di Lire,Italy,United States
+325,2,1939,979403,1000,Migliala Di Lire,Italy,United States
+325,2,1940,1216706,1000,Migliala Di Lire,Italy,United States
+325,2,1941,91060,1000,Migliala Di Lire,Italy,United States
+325,2,1942,0,1000,Migliala Di Lire,Italy,United States
+325,2,1943,0,1000000,,Italy,United States
+325,2,1944,0,1000000,,Italy,United States
+325,2,1945,0,1000000,,Italy,United States
+325,2,1946,0,1000000,,Italy,United States
+325,2,1947,177105.3,1000000,Milioni Di Lire,Italy,United States
+325,2,1948,317701,1000000,Milioni Di Lire,Italy,United States
+325,2,1949,311041,1000000,Milioni Di Lire,Italy,United States
+325,20,1917,25635,1000,,Italy,Canada
+325,20,1918,114204,1000,,Italy,Canada
+325,20,1919,276774,1000,,Italy,Canada
+325,20,1920,590900,1000,,Italy,Canada
+325,20,1921,441189,1000,,Italy,Canada
+325,20,1922,302142,1000,Migliaia Di Lire,Italy,Canada
+325,20,1923,434448,1000,Migliaia Di Lire,Italy,Canada
+325,20,1924,580241,1000,Migliaia Di Lire,Italy,Canada
+325,20,1925,430059,1000,Migliaia Di Lire,Italy,Canada
+325,20,1926,621481,1000,Migliaia Di Lire,Italy,Canada
+325,20,1927,734527,1000,Migliaia Di Lire,Italy,Canada
+325,20,1928,969874,1000,,Italy,Canada
+325,20,1929,697261,1000,,Italy,Canada
+325,20,1930,586185,1000,,Italy,Canada
+325,20,1931,206486,1000,,Italy,Canada
+325,20,1932,94.5,1000000,Millioni Di Lire,Italy,Canada
+325,20,1933,58.4,1000000,Millioni Di Lire,Italy,Canada
+325,20,1934,0,1000000,Millioni Di Lire,Italy,Canada
+325,20,1935,0,1000000,Millioni Di Lire,Italy,Canada
+325,20,1936,33.1,1000000,Millioni Di Lire,Italy,Canada
+325,20,1937,64.8,1000000,Millioni Di Lire,Italy,Canada
+325,20,1938,41.3,1000000,Millioni Di Lire,Italy,Canada
+325,20,1939,53649,1000,Migliala Di Lire,Italy,Canada
+325,20,1940,28166,1000,Migliala Di Lire,Italy,Canada
+325,20,1941,0,1000,Migliala Di Lire,Italy,Canada
+325,20,1942,0,1000,Migliala Di Lire,Italy,Canada
+325,20,1943,0,1000000,,Italy,Canada
+325,20,1944,0,1000000,,Italy,Canada
+325,20,1945,0,1000000,,Italy,Canada
+325,20,1946,0,1000000,,Italy,Canada
+325,20,1947,9122,1000000,Milioni Di Lire,Italy,Canada
+325,20,1948,16893,1000000,Milioni Di Lire,Italy,Canada
+325,20,1949,6709,1000000,Milioni Di Lire,Italy,Canada
+325,40,1917,9737,1000,,Italy,Cuba
+325,40,1918,11741,1000,,Italy,Cuba
+325,40,1919,5719,1000,,Italy,Cuba
+325,40,1920,2542,1000,,Italy,Cuba
+325,40,1921,58621,1000,,Italy,Cuba
+325,40,1922,852,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1923,1790,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1924,3180,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1925,0,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1926,0,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1927,0,1000,Migliaia Di Lire,Italy,Cuba
+325,40,1928,0,1000,,Italy,Cuba
+325,40,1929,0,1000,,Italy,Cuba
+325,40,1930,0,1000,,Italy,Cuba
+325,40,1931,0,1000,,Italy,Cuba
+325,40,1932,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1933,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1934,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1935,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1936,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1937,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1938,0,1000000,Millioni Di Lire,Italy,Cuba
+325,40,1939,6691,1000,Migliala Di Lire,Italy,Cuba
+325,40,1940,10126,1000,Migliala Di Lire,Italy,Cuba
+325,40,1941,0,1000,Migliala Di Lire,Italy,Cuba
+325,40,1942,0,1000,Migliala Di Lire,Italy,Cuba
+325,40,1943,0,1000000,,Italy,Cuba
+325,40,1944,0,1000000,,Italy,Cuba
+325,40,1945,0,1000000,,Italy,Cuba
+325,40,1946,0,1000000,,Italy,Cuba
+325,40,1947,0,1000000,Milioni Di Lire,Italy,Cuba
+325,40,1948,0,1000000,Milioni Di Lire,Italy,Cuba
+325,40,1949,0,1000000,Milioni Di Lire,Italy,Cuba
+325,41,1917,0,1000,,Italy,Haiti
+325,41,1918,0,1000,,Italy,Haiti
+325,41,1919,0,1000,,Italy,Haiti
+325,41,1920,0,1000,,Italy,Haiti
+325,41,1921,0,1000,,Italy,Haiti
+325,41,1922,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1923,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1924,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1925,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1926,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1927,0,1000,Migliaia Di Lire,Italy,Haiti
+325,41,1928,0,1000,,Italy,Haiti
+325,41,1929,0,1000,,Italy,Haiti
+325,41,1930,0,1000,,Italy,Haiti
+325,41,1931,0,1000,,Italy,Haiti
+325,41,1932,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1933,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1934,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1935,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1936,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1937,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1938,0,1000000,Millioni Di Lire,Italy,Haiti
+325,41,1939,948,1000,Migliala Di Lire,Italy,Haiti
+325,41,1940,648,1000,Migliala Di Lire,Italy,Haiti
+325,41,1941,0,1000,Migliala Di Lire,Italy,Haiti
+325,41,1942,0,1000,Migliala Di Lire,Italy,Haiti
+325,41,1943,0,1000000,,Italy,Haiti
+325,41,1944,0,1000000,,Italy,Haiti
+325,41,1945,0,1000000,,Italy,Haiti
+325,41,1946,0,1000000,,Italy,Haiti
+325,41,1947,0,1000000,Milioni Di Lire,Italy,Haiti
+325,41,1948,0,1000000,Milioni Di Lire,Italy,Haiti
+325,41,1949,0,1000000,Milioni Di Lire,Italy,Haiti
+325,42,1917,0,1000,,Italy,Dominican Republic
+325,42,1918,0,1000,,Italy,Dominican Republic
+325,42,1919,0,1000,,Italy,Dominican Republic
+325,42,1920,0,1000,,Italy,Dominican Republic
+325,42,1921,0,1000,,Italy,Dominican Republic
+325,42,1922,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1923,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1924,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1925,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1926,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1927,0,1000,Migliaia Di Lire,Italy,Dominican Republic
+325,42,1928,0,1000,,Italy,Dominican Republic
+325,42,1929,0,1000,,Italy,Dominican Republic
+325,42,1930,0,1000,,Italy,Dominican Republic
+325,42,1931,0,1000,,Italy,Dominican Republic
+325,42,1932,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1933,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1934,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1935,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1936,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1937,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1938,0,1000000,Millioni Di Lire,Italy,Dominican Republic
+325,42,1939,266,1000,Migliala Di Lire,Italy,Dominican Republic
+325,42,1940,37,1000,Migliala Di Lire,Italy,Dominican Republic
+325,42,1941,0,1000,Migliala Di Lire,Italy,Dominican Republic
+325,42,1942,0,1000,Migliala Di Lire,Italy,Dominican Republic
+325,42,1943,0,1000000,,Italy,Dominican Republic
+325,42,1944,0,1000000,,Italy,Dominican Republic
+325,42,1945,0,1000000,,Italy,Dominican Republic
+325,42,1946,0,1000000,,Italy,Dominican Republic
+325,42,1947,0,1000000,Milioni Di Lire,Italy,Dominican Republic
+325,42,1948,0,1000000,Milioni Di Lire,Italy,Dominican Republic
+325,42,1949,0,1000000,Milioni Di Lire,Italy,Dominican Republic
+325,70,1917,399,1000,,Italy,Mexico
+325,70,1918,381,1000,,Italy,Mexico
+325,70,1919,4964,1000,,Italy,Mexico
+325,70,1920,35146,1000,,Italy,Mexico
+325,70,1921,16032,1000,,Italy,Mexico
+325,70,1922,39028,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1923,35616,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1924,32642,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1925,0,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1926,0,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1927,0,1000,Migliaia Di Lire,Italy,Mexico
+325,70,1928,0,1000,,Italy,Mexico
+325,70,1929,0,1000,,Italy,Mexico
+325,70,1930,0,1000,,Italy,Mexico
+325,70,1931,0,1000,,Italy,Mexico
+325,70,1932,0,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1933,0,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1934,0,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1935,0,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1936,0,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1937,24.1,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1938,19.2,1000000,Millioni Di Lire,Italy,Mexico
+325,70,1939,93118,1000,Migliala Di Lire,Italy,Mexico
+325,70,1940,122129,1000,Migliala Di Lire,Italy,Mexico
+325,70,1941,3022,1000,Migliala Di Lire,Italy,Mexico
+325,70,1942,0,1000,Migliala Di Lire,Italy,Mexico
+325,70,1943,0,1000000,,Italy,Mexico
+325,70,1944,0,1000000,,Italy,Mexico
+325,70,1945,0,1000000,,Italy,Mexico
+325,70,1946,0,1000000,,Italy,Mexico
+325,70,1947,376.5,1000000,Milioni Di Lire,Italy,Mexico
+325,70,1948,3584,1000000,Milioni Di Lire,Italy,Mexico
+325,70,1949,5286,1000000,Milioni Di Lire,Italy,Mexico
+325,90,1917,0,1000,,Italy,Guatemala
+325,90,1918,0,1000,,Italy,Guatemala
+325,90,1919,0,1000,,Italy,Guatemala
+325,90,1920,0,1000,,Italy,Guatemala
+325,90,1921,0,1000,,Italy,Guatemala
+325,90,1922,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1923,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1924,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1925,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1926,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1927,0,1000,Migliaia Di Lire,Italy,Guatemala
+325,90,1928,0,1000,,Italy,Guatemala
+325,90,1929,0,1000,,Italy,Guatemala
+325,90,1930,0,1000,,Italy,Guatemala
+325,90,1931,0,1000,,Italy,Guatemala
+325,90,1932,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1933,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1934,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1935,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1936,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1937,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1938,0,1000000,Millioni Di Lire,Italy,Guatemala
+325,90,1939,328,1000,Migliala Di Lire,Italy,Guatemala
+325,90,1940,511,1000,Migliala Di Lire,Italy,Guatemala
+325,90,1941,0,1000,Migliala Di Lire,Italy,Guatemala
+325,90,1942,0,1000,Migliala Di Lire,Italy,Guatemala
+325,90,1943,0,1000000,,Italy,Guatemala
+325,90,1944,0,1000000,,Italy,Guatemala
+325,90,1945,0,1000000,,Italy,Guatemala
+325,90,1946,0,1000000,,Italy,Guatemala
+325,90,1947,0,1000000,Milioni Di Lire,Italy,Guatemala
+325,90,1948,0,1000000,Milioni Di Lire,Italy,Guatemala
+325,90,1949,0,1000000,Milioni Di Lire,Italy,Guatemala
+325,91,1917,0,1000,,Italy,Honduras
+325,91,1918,0,1000,,Italy,Honduras
+325,91,1919,0,1000,,Italy,Honduras
+325,91,1920,0,1000,,Italy,Honduras
+325,91,1921,0,1000,,Italy,Honduras
+325,91,1922,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1923,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1924,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1925,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1926,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1927,0,1000,Migliaia Di Lire,Italy,Honduras
+325,91,1928,0,1000,,Italy,Honduras
+325,91,1929,0,1000,,Italy,Honduras
+325,91,1930,0,1000,,Italy,Honduras
+325,91,1931,0,1000,,Italy,Honduras
+325,91,1932,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1933,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1934,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1935,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1936,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1937,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1938,0,1000000,Millioni Di Lire,Italy,Honduras
+325,91,1939,185,1000,Migliala Di Lire,Italy,Honduras
+325,91,1940,89,1000,Migliala Di Lire,Italy,Honduras
+325,91,1941,0,1000,Migliala Di Lire,Italy,Honduras
+325,91,1942,0,1000,Migliala Di Lire,Italy,Honduras
+325,91,1943,0,1000000,,Italy,Honduras
+325,91,1944,0,1000000,,Italy,Honduras
+325,91,1945,0,1000000,,Italy,Honduras
+325,91,1946,0,1000000,,Italy,Honduras
+325,91,1947,0,1000000,Milioni Di Lire,Italy,Honduras
+325,91,1948,0,1000000,Milioni Di Lire,Italy,Honduras
+325,91,1949,0,1000000,Milioni Di Lire,Italy,Honduras
+325,92,1917,0,1000,,Italy,El Salvador
+325,92,1918,0,1000,,Italy,El Salvador
+325,92,1919,0,1000,,Italy,El Salvador
+325,92,1920,0,1000,,Italy,El Salvador
+325,92,1921,0,1000,,Italy,El Salvador
+325,92,1922,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1923,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1924,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1925,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1926,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1927,0,1000,Migliaia Di Lire,Italy,El Salvador
+325,92,1928,0,1000,,Italy,El Salvador
+325,92,1929,0,1000,,Italy,El Salvador
+325,92,1930,0,1000,,Italy,El Salvador
+325,92,1931,0,1000,,Italy,El Salvador
+325,92,1932,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1933,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1934,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1935,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1936,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1937,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1938,0,1000000,Millioni Di Lire,Italy,El Salvador
+325,92,1939,3308,1000,Migliala Di Lire,Italy,El Salvador
+325,92,1940,1562,1000,Migliala Di Lire,Italy,El Salvador
+325,92,1941,0,1000,Migliala Di Lire,Italy,El Salvador
+325,92,1942,0,1000,Migliala Di Lire,Italy,El Salvador
+325,92,1943,0,1000000,,Italy,El Salvador
+325,92,1944,0,1000000,,Italy,El Salvador
+325,92,1945,0,1000000,,Italy,El Salvador
+325,92,1946,0,1000000,,Italy,El Salvador
+325,92,1947,0,1000000,Milioni Di Lire,Italy,El Salvador
+325,92,1948,0,1000000,Milioni Di Lire,Italy,El Salvador
+325,92,1949,0,1000000,Milioni Di Lire,Italy,El Salvador
+325,93,1917,0,1000,,Italy,Nicaragua
+325,93,1918,0,1000,,Italy,Nicaragua
+325,93,1919,0,1000,,Italy,Nicaragua
+325,93,1920,0,1000,,Italy,Nicaragua
+325,93,1921,0,1000,,Italy,Nicaragua
+325,93,1922,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1923,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1924,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1925,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1926,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1927,0,1000,Migliaia Di Lire,Italy,Nicaragua
+325,93,1928,0,1000,,Italy,Nicaragua
+325,93,1929,0,1000,,Italy,Nicaragua
+325,93,1930,0,1000,,Italy,Nicaragua
+325,93,1931,0,1000,,Italy,Nicaragua
+325,93,1932,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1933,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1934,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1935,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1936,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1937,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1938,0,1000000,Millioni Di Lire,Italy,Nicaragua
+325,93,1939,368,1000,Migliala Di Lire,Italy,Nicaragua
+325,93,1940,157,1000,Migliala Di Lire,Italy,Nicaragua
+325,93,1941,0,1000,Migliala Di Lire,Italy,Nicaragua
+325,93,1942,0,1000,Migliala Di Lire,Italy,Nicaragua
+325,93,1943,0,1000000,,Italy,Nicaragua
+325,93,1944,0,1000000,,Italy,Nicaragua
+325,93,1945,0,1000000,,Italy,Nicaragua
+325,93,1946,0,1000000,,Italy,Nicaragua
+325,93,1947,0,1000000,Milioni Di Lire,Italy,Nicaragua
+325,93,1948,0,1000000,Milioni Di Lire,Italy,Nicaragua
+325,93,1949,0,1000000,Milioni Di Lire,Italy,Nicaragua
+325,94,1917,0,1000,,Italy,Costa Rica
+325,94,1918,0,1000,,Italy,Costa Rica
+325,94,1919,0,1000,,Italy,Costa Rica
+325,94,1920,0,1000,,Italy,Costa Rica
+325,94,1921,0,1000,,Italy,Costa Rica
+325,94,1922,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1923,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1924,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1925,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1926,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1927,0,1000,Migliaia Di Lire,Italy,Costa Rica
+325,94,1928,0,1000,,Italy,Costa Rica
+325,94,1929,0,1000,,Italy,Costa Rica
+325,94,1930,0,1000,,Italy,Costa Rica
+325,94,1931,0,1000,,Italy,Costa Rica
+325,94,1932,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1933,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1934,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1935,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1936,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1937,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1938,0,1000000,Millioni Di Lire,Italy,Costa Rica
+325,94,1939,1329,1000,Migliala Di Lire,Italy,Costa Rica
+325,94,1940,539,1000,Migliala Di Lire,Italy,Costa Rica
+325,94,1941,0,1000,Migliala Di Lire,Italy,Costa Rica
+325,94,1942,0,1000,Migliala Di Lire,Italy,Costa Rica
+325,94,1943,0,1000000,,Italy,Costa Rica
+325,94,1944,0,1000000,,Italy,Costa Rica
+325,94,1945,0,1000000,,Italy,Costa Rica
+325,94,1946,0,1000000,,Italy,Costa Rica
+325,94,1947,0,1000000,Milioni Di Lire,Italy,Costa Rica
+325,94,1948,0,1000000,Milioni Di Lire,Italy,Costa Rica
+325,94,1949,0,1000000,Milioni Di Lire,Italy,Costa Rica
+325,95,1917,0,1000,,Italy,Panama
+325,95,1918,0,1000,,Italy,Panama
+325,95,1919,0,1000,,Italy,Panama
+325,95,1920,0,1000,,Italy,Panama
+325,95,1921,0,1000,,Italy,Panama
+325,95,1922,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1923,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1924,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1925,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1926,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1927,0,1000,Migliaia Di Lire,Italy,Panama
+325,95,1928,0,1000,,Italy,Panama
+325,95,1929,0,1000,,Italy,Panama
+325,95,1930,0,1000,,Italy,Panama
+325,95,1931,0,1000,,Italy,Panama
+325,95,1932,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1933,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1934,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1935,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1936,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1937,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1938,0,1000000,Millioni Di Lire,Italy,Panama
+325,95,1939,29,1000,Migliala Di Lire,Italy,Panama
+325,95,1940,9,1000,Migliala Di Lire,Italy,Panama
+325,95,1941,0,1000,Migliala Di Lire,Italy,Panama
+325,95,1942,0,1000,Migliala Di Lire,Italy,Panama
+325,95,1943,0,1000000,,Italy,Panama
+325,95,1944,0,1000000,,Italy,Panama
+325,95,1945,0,1000000,,Italy,Panama
+325,95,1946,0,1000000,,Italy,Panama
+325,95,1947,0,1000000,Milioni Di Lire,Italy,Panama
+325,95,1948,0,1000000,Milioni Di Lire,Italy,Panama
+325,95,1949,0,1000000,Milioni Di Lire,Italy,Panama
+325,100,1917,1683,1000,,Italy,Colombia
+325,100,1918,2520,1000,,Italy,Colombia
+325,100,1919,4039,1000,,Italy,Colombia
+325,100,1920,19876,1000,,Italy,Colombia
+325,100,1921,5489,1000,,Italy,Colombia
+325,100,1922,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1923,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1924,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1925,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1926,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1927,0,1000,Migliaia Di Lire,Italy,Colombia
+325,100,1928,0,1000,,Italy,Colombia
+325,100,1929,0,1000,,Italy,Colombia
+325,100,1930,0,1000,,Italy,Colombia
+325,100,1931,0,1000,,Italy,Colombia
+325,100,1932,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1933,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1934,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1935,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1936,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1937,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1938,0,1000000,Millioni Di Lire,Italy,Colombia
+325,100,1939,29703,1000,Migliala Di Lire,Italy,Colombia
+325,100,1940,34767,1000,Migliala Di Lire,Italy,Colombia
+325,100,1941,0,1000,Migliala Di Lire,Italy,Colombia
+325,100,1942,0,1000,Migliala Di Lire,Italy,Colombia
+325,100,1943,0,1000000,,Italy,Colombia
+325,100,1944,0,1000000,,Italy,Colombia
+325,100,1945,0,1000000,,Italy,Colombia
+325,100,1946,0,1000000,,Italy,Colombia
+325,100,1947,0,1000000,Milioni Di Lire,Italy,Colombia
+325,100,1948,0,1000000,Milioni Di Lire,Italy,Colombia
+325,100,1949,0,1000000,Milioni Di Lire,Italy,Colombia
+325,101,1917,0,1000,,Italy,Venezuela
+325,101,1918,0,1000,,Italy,Venezuela
+325,101,1919,0,1000,,Italy,Venezuela
+325,101,1920,0,1000,,Italy,Venezuela
+325,101,1921,0,1000,,Italy,Venezuela
+325,101,1922,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1923,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1924,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1925,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1926,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1927,0,1000,Migliaia Di Lire,Italy,Venezuela
+325,101,1928,0,1000,,Italy,Venezuela
+325,101,1929,0,1000,,Italy,Venezuela
+325,101,1930,0,1000,,Italy,Venezuela
+325,101,1931,0,1000,,Italy,Venezuela
+325,101,1932,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1933,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1934,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1935,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1936,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1937,0,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1938,17.8,1000000,Millioni Di Lire,Italy,Venezuela
+325,101,1939,37745,1000,Migliala Di Lire,Italy,Venezuela
+325,101,1940,46442,1000,Migliala Di Lire,Italy,Venezuela
+325,101,1941,0,1000,Migliala Di Lire,Italy,Venezuela
+325,101,1942,0,1000,Migliala Di Lire,Italy,Venezuela
+325,101,1943,0,1000000,,Italy,Venezuela
+325,101,1944,0,1000000,,Italy,Venezuela
+325,101,1945,0,1000000,,Italy,Venezuela
+325,101,1946,0,1000000,,Italy,Venezuela
+325,101,1947,934.3,1000000,Milioni Di Lire,Italy,Venezuela
+325,101,1948,2667,1000000,Milioni Di Lire,Italy,Venezuela
+325,101,1949,4637,1000000,Milioni Di Lire,Italy,Venezuela
+325,115,1917,0,1000,,Italy,Suriname
+325,115,1918,0,1000,,Italy,Suriname
+325,115,1919,0,1000,,Italy,Suriname
+325,115,1920,0,1000,,Italy,Suriname
+325,115,1921,0,1000,,Italy,Suriname
+325,115,1922,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1923,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1924,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1925,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1926,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1927,0,1000,Migliaia Di Lire,Italy,Suriname
+325,115,1928,0,1000,,Italy,Suriname
+325,115,1929,0,1000,,Italy,Suriname
+325,115,1930,0,1000,,Italy,Suriname
+325,115,1931,0,1000,,Italy,Suriname
+325,115,1932,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1933,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1934,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1935,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1936,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1937,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1938,0,1000000,Millioni Di Lire,Italy,Suriname
+325,115,1939,13,1000,Migliala Di Lire,Italy,Suriname
+325,115,1940,1,1000,Migliala Di Lire,Italy,Suriname
+325,115,1941,0,1000,Migliala Di Lire,Italy,Suriname
+325,115,1942,0,1000,Migliala Di Lire,Italy,Suriname
+325,115,1943,0,1000000,,Italy,Suriname
+325,115,1944,0,1000000,,Italy,Suriname
+325,115,1945,0,1000000,,Italy,Suriname
+325,115,1946,0,1000000,,Italy,Suriname
+325,115,1947,0,1000000,Milioni Di Lire,Italy,Suriname
+325,115,1948,0,1000000,Milioni Di Lire,Italy,Suriname
+325,115,1949,0,1000000,Milioni Di Lire,Italy,Suriname
+325,135,1917,69,1000,,Italy,Peru
+325,135,1918,1145,1000,,Italy,Peru
+325,135,1919,2,1000,,Italy,Peru
+325,135,1920,297,1000,,Italy,Peru
+325,135,1921,87,1000,,Italy,Peru
+325,135,1922,609,1000,Migliaia Di Lire,Italy,Peru
+325,135,1923,643,1000,Migliaia Di Lire,Italy,Peru
+325,135,1924,611,1000,Migliaia Di Lire,Italy,Peru
+325,135,1925,0,1000,Migliaia Di Lire,Italy,Peru
+325,135,1926,0,1000,Migliaia Di Lire,Italy,Peru
+325,135,1927,0,1000,Migliaia Di Lire,Italy,Peru
+325,135,1928,0,1000,,Italy,Peru
+325,135,1929,0,1000,,Italy,Peru
+325,135,1930,0,1000,,Italy,Peru
+325,135,1931,0,1000,,Italy,Peru
+325,135,1932,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1933,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1934,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1935,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1936,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1937,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1938,0,1000000,Millioni Di Lire,Italy,Peru
+325,135,1939,10924,1000,Migliala Di Lire,Italy,Peru
+325,135,1940,15089,1000,Migliala Di Lire,Italy,Peru
+325,135,1941,0,1000,Migliala Di Lire,Italy,Peru
+325,135,1942,0,1000,Migliala Di Lire,Italy,Peru
+325,135,1943,0,1000000,,Italy,Peru
+325,135,1944,0,1000000,,Italy,Peru
+325,135,1945,0,1000000,,Italy,Peru
+325,135,1946,0,1000000,,Italy,Peru
+325,135,1947,0,1000000,Milioni Di Lire,Italy,Peru
+325,135,1948,0,1000000,Milioni Di Lire,Italy,Peru
+325,135,1949,0,1000000,Milioni Di Lire,Italy,Peru
+325,140,1917,199243,1000,,Italy,Brazil
+325,140,1918,399938,1000,,Italy,Brazil
+325,140,1919,366993,1000,,Italy,Brazil
+325,140,1920,364008,1000,,Italy,Brazil
+325,140,1921,542240,1000,,Italy,Brazil
+325,140,1922,348778,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1923,422204,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1924,479430,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1925,487080,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1926,475768,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1927,374348,1000,Migliaia Di Lire,Italy,Brazil
+325,140,1928,357634,1000,,Italy,Brazil
+325,140,1929,343963,1000,,Italy,Brazil
+325,140,1930,291974,1000,,Italy,Brazil
+325,140,1931,230813,1000,,Italy,Brazil
+325,140,1932,157.1,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1933,128.6,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1934,127.5,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1935,105.6,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1936,137.4,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1937,162.7,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1938,139.1,1000000,Millioni Di Lire,Italy,Brazil
+325,140,1939,151474,1000,Migliala Di Lire,Italy,Brazil
+325,140,1940,130045,1000,Migliala Di Lire,Italy,Brazil
+325,140,1941,16435,1000,Migliala Di Lire,Italy,Brazil
+325,140,1942,0,1000,Migliala Di Lire,Italy,Brazil
+325,140,1943,0,1000000,,Italy,Brazil
+325,140,1944,0,1000000,,Italy,Brazil
+325,140,1945,0,1000000,,Italy,Brazil
+325,140,1946,0,1000000,,Italy,Brazil
+325,140,1947,10974.6,1000000,Milioni Di Lire,Italy,Brazil
+325,140,1948,19983,1000000,Milioni Di Lire,Italy,Brazil
+325,140,1949,17465,1000000,Milioni Di Lire,Italy,Brazil
+325,145,1917,0,1000,,Italy,Bolivia
+325,145,1918,0,1000,,Italy,Bolivia
+325,145,1919,0,1000,,Italy,Bolivia
+325,145,1920,0,1000,,Italy,Bolivia
+325,145,1921,0,1000,,Italy,Bolivia
+325,145,1922,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1923,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1924,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1925,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1926,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1927,0,1000,Migliaia Di Lire,Italy,Bolivia
+325,145,1928,0,1000,,Italy,Bolivia
+325,145,1929,0,1000,,Italy,Bolivia
+325,145,1930,0,1000,,Italy,Bolivia
+325,145,1931,0,1000,,Italy,Bolivia
+325,145,1932,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1933,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1934,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1935,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1936,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1937,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1938,0,1000000,Millioni Di Lire,Italy,Bolivia
+325,145,1939,221,1000,Migliala Di Lire,Italy,Bolivia
+325,145,1940,3362,1000,Migliala Di Lire,Italy,Bolivia
+325,145,1941,0,1000,Migliala Di Lire,Italy,Bolivia
+325,145,1942,0,1000,Migliala Di Lire,Italy,Bolivia
+325,145,1943,0,1000000,,Italy,Bolivia
+325,145,1944,0,1000000,,Italy,Bolivia
+325,145,1945,0,1000000,,Italy,Bolivia
+325,145,1946,0,1000000,,Italy,Bolivia
+325,145,1947,0,1000000,Milioni Di Lire,Italy,Bolivia
+325,145,1948,0,1000000,Milioni Di Lire,Italy,Bolivia
+325,145,1949,0,1000000,Milioni Di Lire,Italy,Bolivia
+325,150,1917,0,1000,,Italy,Paraguay
+325,150,1918,0,1000,,Italy,Paraguay
+325,150,1919,0,1000,,Italy,Paraguay
+325,150,1920,0,1000,,Italy,Paraguay
+325,150,1921,0,1000,,Italy,Paraguay
+325,150,1922,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1923,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1924,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1925,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1926,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1927,0,1000,Migliaia Di Lire,Italy,Paraguay
+325,150,1928,0,1000,,Italy,Paraguay
+325,150,1929,0,1000,,Italy,Paraguay
+325,150,1930,0,1000,,Italy,Paraguay
+325,150,1931,0,1000,,Italy,Paraguay
+325,150,1932,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1933,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1934,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1935,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1936,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1937,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1938,0,1000000,Millioni Di Lire,Italy,Paraguay
+325,150,1939,4722,1000,Migliala Di Lire,Italy,Paraguay
+325,150,1940,1347,1000,Migliala Di Lire,Italy,Paraguay
+325,150,1941,0,1000,Migliala Di Lire,Italy,Paraguay
+325,150,1942,0,1000,Migliala Di Lire,Italy,Paraguay
+325,150,1943,0,1000000,,Italy,Paraguay
+325,150,1944,0,1000000,,Italy,Paraguay
+325,150,1945,0,1000000,,Italy,Paraguay
+325,150,1946,0,1000000,,Italy,Paraguay
+325,150,1947,0,1000000,Milioni Di Lire,Italy,Paraguay
+325,150,1948,0,1000000,Milioni Di Lire,Italy,Paraguay
+325,150,1949,0,1000000,Milioni Di Lire,Italy,Paraguay
+325,155,1917,131813,1000,,Italy,Chile
+325,155,1918,123395,1000,,Italy,Chile
+325,155,1919,17279,1000,,Italy,Chile
+325,155,1920,87268,1000,,Italy,Chile
+325,155,1921,64587,1000,,Italy,Chile
+325,155,1922,77705,1000,Migliaia Di Lire,Italy,Chile
+325,155,1923,134120,1000,Migliaia Di Lire,Italy,Chile
+325,155,1924,146840,1000,Migliaia Di Lire,Italy,Chile
+325,155,1925,162995,1000,Migliaia Di Lire,Italy,Chile
+325,155,1926,207362,1000,Migliaia Di Lire,Italy,Chile
+325,155,1927,160164,1000,Migliaia Di Lire,Italy,Chile
+325,155,1928,218751,1000,,Italy,Chile
+325,155,1929,170082,1000,,Italy,Chile
+325,155,1930,123554,1000,,Italy,Chile
+325,155,1931,122752,1000,,Italy,Chile
+325,155,1932,0,1000000,Millioni Di Lire,Italy,Chile
+325,155,1933,0,1000000,Millioni Di Lire,Italy,Chile
+325,155,1934,72.59999999999999,1000000,Millioni Di Lire,Italy,Chile
+325,155,1935,49.5,1000000,Millioni Di Lire,Italy,Chile
+325,155,1936,102,1000000,Millioni Di Lire,Italy,Chile
+325,155,1937,192.5,1000000,Millioni Di Lire,Italy,Chile
+325,155,1938,163.7,1000000,Millioni Di Lire,Italy,Chile
+325,155,1939,147117,1000,Migliala Di Lire,Italy,Chile
+325,155,1940,184242,1000,Migliala Di Lire,Italy,Chile
+325,155,1941,23635,1000,Migliala Di Lire,Italy,Chile
+325,155,1942,0,1000,Migliala Di Lire,Italy,Chile
+325,155,1943,0,1000000,,Italy,Chile
+325,155,1944,0,1000000,,Italy,Chile
+325,155,1945,0,1000000,,Italy,Chile
+325,155,1946,0,1000000,,Italy,Chile
+325,155,1947,1765.2,1000000,Milioni Di Lire,Italy,Chile
+325,155,1948,8281,1000000,Milioni Di Lire,Italy,Chile
+325,155,1949,5930,1000000,Milioni Di Lire,Italy,Chile
+325,160,1917,803787,1000,,Italy,Argentina
+325,160,1918,1657222,1000,,Italy,Argentina
+325,160,1919,1540260,1000,,Italy,Argentina
+325,160,1920,3004857,1000,,Italy,Argentina
+325,160,1921,925086,1000,,Italy,Argentina
+325,160,1922,770896,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1923,874219,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1924,1106337,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1925,1370020,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1926,1474284,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1927,1040379,1000,Migliaia Di Lire,Italy,Argentina
+325,160,1928,1909178,1000,,Italy,Argentina
+325,160,1929,1510285,1000,,Italy,Argentina
+325,160,1930,718055,1000,,Italy,Argentina
+325,160,1931,563926,1000,,Italy,Argentina
+325,160,1932,482.5,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1933,248.4,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1934,274.4,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1935,295,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1936,178.2,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1937,1053.7,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1938,274.1,1000000,Millioni Di Lire,Italy,Argentina
+325,160,1939,153117,1000,Migliala Di Lire,Italy,Argentina
+325,160,1940,357785,1000,Migliala Di Lire,Italy,Argentina
+325,160,1941,17154,1000,Migliala Di Lire,Italy,Argentina
+325,160,1942,0,1000,Migliala Di Lire,Italy,Argentina
+325,160,1943,0,1000000,,Italy,Argentina
+325,160,1944,0,1000000,,Italy,Argentina
+325,160,1945,0,1000000,,Italy,Argentina
+325,160,1946,0,1000000,,Italy,Argentina
+325,160,1947,21066.8,1000000,Milioni Di Lire,Italy,Argentina
+325,160,1948,103226,1000000,Milioni Di Lire,Italy,Argentina
+325,160,1949,44915,1000000,Milioni Di Lire,Italy,Argentina
+325,165,1917,52563,1000,,Italy,Uruguay
+325,165,1918,161997,1000,,Italy,Uruguay
+325,165,1919,94538,1000,,Italy,Uruguay
+325,165,1920,70124,1000,,Italy,Uruguay
+325,165,1921,52486,1000,,Italy,Uruguay
+325,165,1922,38763,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1923,49984,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1924,96693,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1925,97336,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1926,98749,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1927,108072,1000,Migliaia Di Lire,Italy,Uruguay
+325,165,1928,65311,1000,,Italy,Uruguay
+325,165,1929,82419,1000,,Italy,Uruguay
+325,165,1930,52733,1000,,Italy,Uruguay
+325,165,1931,46175,1000,,Italy,Uruguay
+325,165,1932,0,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1933,0,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1934,35,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1935,78.90000000000001,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1936,34.4,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1937,61.5,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1938,63.2,1000000,Millioni Di Lire,Italy,Uruguay
+325,165,1939,112538,1000,Migliala Di Lire,Italy,Uruguay
+325,165,1940,69439,1000,Migliala Di Lire,Italy,Uruguay
+325,165,1941,3781,1000,Migliala Di Lire,Italy,Uruguay
+325,165,1942,0,1000,Migliala Di Lire,Italy,Uruguay
+325,165,1943,0,1000000,,Italy,Uruguay
+325,165,1944,0,1000000,,Italy,Uruguay
+325,165,1945,0,1000000,,Italy,Uruguay
+325,165,1946,0,1000000,,Italy,Uruguay
+325,165,1947,1325.6,1000000,Milioni Di Lire,Italy,Uruguay
+325,165,1948,4379,1000000,Milioni Di Lire,Italy,Uruguay
+325,165,1949,5343,1000000,Milioni Di Lire,Italy,Uruguay
+325,200,1917,2164621,1000,,Italy,United Kingdom
+325,200,1918,2666118,1000,,Italy,United Kingdom
+325,200,1919,2444150,1000,,Italy,United Kingdom
+325,200,1920,4609438,1000,,Italy,United Kingdom
+325,200,1921,1680111,1000,,Italy,United Kingdom
+325,200,1922,2021813,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1923,2204076,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1924,2175098,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1925,2730845,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1926,1882954,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1927,1826601,1000,Migliaia Di Lire,Italy,United Kingdom
+325,200,1928,1794631,1000,,Italy,United Kingdom
+325,200,1929,2040450,1000,,Italy,United Kingdom
+325,200,1930,1677348,1000,,Italy,United Kingdom
+325,200,1931,1098722,1000,,Italy,United Kingdom
+325,200,1932,743.3,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1933,727.1,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1934,707.3,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1935,568.1,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1936,52.5,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1937,560.8,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1938,727.3,1000000,Millioni Di Lire,Italy,United Kingdom
+325,200,1939,567622,1000,Migliala Di Lire,Italy,United Kingdom
+325,200,1940,419161,1000,Migliala Di Lire,Italy,United Kingdom
+325,200,1941,0,1000,Migliala Di Lire,Italy,United Kingdom
+325,200,1942,0,1000,Migliala Di Lire,Italy,United Kingdom
+325,200,1943,0,1000000,,Italy,United Kingdom
+325,200,1944,0,1000000,,Italy,United Kingdom
+325,200,1945,0,1000000,,Italy,United Kingdom
+325,200,1946,0,1000000,,Italy,United Kingdom
+325,200,1947,8928.5,1000000,Milioni Di Lire,Italy,United Kingdom
+325,200,1948,27812,1000000,Milioni Di Lire,Italy,United Kingdom
+325,200,1949,34593,1000000,Milioni Di Lire,Italy,United Kingdom
+325,205,1917,0,1000,,Italy,Ireland
+325,205,1918,0,1000,,Italy,Ireland
+325,205,1919,0,1000,,Italy,Ireland
+325,205,1920,0,1000,,Italy,Ireland
+325,205,1921,0,1000,,Italy,Ireland
+325,205,1922,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1923,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1924,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1925,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1926,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1927,0,1000,Migliaia Di Lire,Italy,Ireland
+325,205,1928,0,1000,,Italy,Ireland
+325,205,1929,0,1000,,Italy,Ireland
+325,205,1930,0,1000,,Italy,Ireland
+325,205,1931,0,1000,,Italy,Ireland
+325,205,1932,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1933,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1934,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1935,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1936,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1937,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1938,0,1000000,Millioni Di Lire,Italy,Ireland
+325,205,1939,1,1000,Migliala Di Lire,Italy,Ireland
+325,205,1940,9,1000,Migliala Di Lire,Italy,Ireland
+325,205,1941,0,1000,Migliala Di Lire,Italy,Ireland
+325,205,1942,0,1000,Migliala Di Lire,Italy,Ireland
+325,205,1943,0,1000000,,Italy,Ireland
+325,205,1944,0,1000000,,Italy,Ireland
+325,205,1945,0,1000000,,Italy,Ireland
+325,205,1946,0,1000000,,Italy,Ireland
+325,205,1947,0,1000000,Milioni Di Lire,Italy,Ireland
+325,205,1948,0,1000000,Milioni Di Lire,Italy,Ireland
+325,205,1949,0,1000000,Milioni Di Lire,Italy,Ireland
+325,210,1917,7047,1000,,Italy,Netherlands
+325,210,1918,5589,1000,,Italy,Netherlands
+325,210,1919,41883,1000,,Italy,Netherlands
+325,210,1920,98997,1000,,Italy,Netherlands
+325,210,1921,99395,1000,,Italy,Netherlands
+325,210,1922,109982,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1923,101116,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1924,146727,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1925,233607,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1926,278610,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1927,223762,1000,Migliaia Di Lire,Italy,Netherlands
+325,210,1928,293204,1000,,Italy,Netherlands
+325,210,1929,229837,1000,,Italy,Netherlands
+325,210,1930,177037,1000,,Italy,Netherlands
+325,210,1931,139205,1000,,Italy,Netherlands
+325,210,1932,131.1,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1933,120.4,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1934,135.7,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1935,137.2,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1936,45.6,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1937,119.3,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1938,135.6,1000000,Millioni Di Lire,Italy,Netherlands
+325,210,1939,133374,1000,Migliala Di Lire,Italy,Netherlands
+325,210,1940,92311,1000,Migliala Di Lire,Italy,Netherlands
+325,210,1941,75048,1000,Migliala Di Lire,Italy,Netherlands
+325,210,1942,67106,1000,Migliala Di Lire,Italy,Netherlands
+325,210,1943,0,1000000,,Italy,Netherlands
+325,210,1944,0,1000000,,Italy,Netherlands
+325,210,1945,0,1000000,,Italy,Netherlands
+325,210,1946,0,1000000,,Italy,Netherlands
+325,210,1947,5714.4,1000000,Milioni Di Lire,Italy,Netherlands
+325,210,1948,10022,1000000,Milioni Di Lire,Italy,Netherlands
+325,210,1949,10763,1000000,Milioni Di Lire,Italy,Netherlands
+325,211,1917,139,1000,,Italy,Belgium
+325,211,1918,429,1000,,Italy,Belgium
+325,211,1919,56933,1000,,Italy,Belgium
+325,211,1920,419403,1000,,Italy,Belgium
+325,211,1921,268560,1000,,Italy,Belgium
+325,211,1922,297258,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1923,365732,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1924,407480,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1925,576449,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1926,561223,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1927,469224,1000,Migliaia Di Lire,Italy,Belgium
+325,211,1928,596944,1000,,Italy,Belgium
+325,211,1929,526132,1000,,Italy,Belgium
+325,211,1930,368540,1000,,Italy,Belgium
+325,211,1931,237330,1000,,Italy,Belgium
+325,211,1932,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1933,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1934,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1935,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1936,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1937,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1938,0,1000000,Millioni Di Lire,Italy,Belgium
+325,211,1939,0,1000,Migliala Di Lire,Italy,Belgium
+325,211,1940,0,1000,Migliala Di Lire,Italy,Belgium
+325,211,1941,0,1000,Migliala Di Lire,Italy,Belgium
+325,211,1942,0,1000,Migliala Di Lire,Italy,Belgium
+325,211,1943,0,1000000,,Italy,Belgium
+325,211,1944,0,1000000,,Italy,Belgium
+325,211,1945,0,1000000,,Italy,Belgium
+325,211,1946,0,1000000,,Italy,Belgium
+325,211,1947,0,1000000,Milioni Di Lire,Italy,Belgium
+325,211,1948,0,1000000,Milioni Di Lire,Italy,Belgium
+325,211,1949,0,1000000,Milioni Di Lire,Italy,Belgium
+325,220,1917,993001,1000,,Italy,France
+325,220,1918,1233702,1000,,Italy,France
+325,220,1919,759687,1000,,Italy,France
+325,220,1920,1903946,1000,,Italy,France
+325,220,1921,1069794,1000,,Italy,France
+325,220,1922,1151326,1000,Migliaia Di Lire,Italy,France
+325,220,1923,1324125,1000,Migliaia Di Lire,Italy,France
+325,220,1924,1473743,1000,Migliaia Di Lire,Italy,France
+325,220,1925,2357768,1000,Migliaia Di Lire,Italy,France
+325,220,1926,2135683,1000,Migliaia Di Lire,Italy,France
+325,220,1927,1798920,1000,Migliaia Di Lire,Italy,France
+325,220,1928,2060267,1000,,Italy,France
+325,220,1929,2043941,1000,,Italy,France
+325,220,1930,1503776,1000,,Italy,France
+325,220,1931,824880,1000,,Italy,France
+325,220,1932,481.9,1000000,Millioni Di Lire,Italy,France
+325,220,1933,413.4,1000000,Millioni Di Lire,Italy,France
+325,220,1934,437.2,1000000,Millioni Di Lire,Italy,France
+325,220,1935,470.8,1000000,Millioni Di Lire,Italy,France
+325,220,1936,127.5,1000000,Millioni Di Lire,Italy,France
+325,220,1937,490.5,1000000,Millioni Di Lire,Italy,France
+325,220,1938,254.2,1000000,Millioni Di Lire,Italy,France
+325,220,1939,153496,1000,Migliala Di Lire,Italy,France
+325,220,1940,124912,1000,Migliala Di Lire,Italy,France
+325,220,1941,206188,1000,Migliala Di Lire,Italy,France
+325,220,1942,119259,1000,Migliala Di Lire,Italy,France
+325,220,1943,0,1000000,,Italy,France
+325,220,1944,0,1000000,,Italy,France
+325,220,1945,0,1000000,,Italy,France
+325,220,1946,0,1000000,,Italy,France
+325,220,1947,4494.8,1000000,Milioni Di Lire,Italy,France
+325,220,1948,7893,1000000,Milioni Di Lire,Italy,France
+325,220,1949,21470,1000000,Milioni Di Lire,Italy,France
+325,225,1917,248893,1000,,Italy,Switzerland
+325,225,1918,190945,1000,,Italy,Switzerland
+325,225,1919,370303,1000,,Italy,Switzerland
+325,225,1920,574742,1000,,Italy,Switzerland
+325,225,1921,287135,1000,,Italy,Switzerland
+325,225,1922,330996,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1923,372319,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1924,408206,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1925,520786,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1926,591777,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1927,538810,1000,Migliaia Di Lire,Italy,Switzerland
+325,225,1928,546290,1000,,Italy,Switzerland
+325,225,1929,549013,1000,,Italy,Switzerland
+325,225,1930,548331,1000,,Italy,Switzerland
+325,225,1931,400514,1000,,Italy,Switzerland
+325,225,1932,310,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1933,270.7,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1934,292.6,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1935,246.5,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1936,232.6,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1937,412.3,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1938,376.3,1000000,Millioni Di Lire,Italy,Switzerland
+325,225,1939,336361,1000,Migliala Di Lire,Italy,Switzerland
+325,225,1940,469969,1000,Migliala Di Lire,Italy,Switzerland
+325,225,1941,533823,1000,Migliala Di Lire,Italy,Switzerland
+325,225,1942,519496,1000,Migliala Di Lire,Italy,Switzerland
+325,225,1943,0,1000000,,Italy,Switzerland
+325,225,1944,0,1000000,,Italy,Switzerland
+325,225,1945,0,1000000,,Italy,Switzerland
+325,225,1946,0,1000000,,Italy,Switzerland
+325,225,1947,14836,1000000,Milioni Di Lire,Italy,Switzerland
+325,225,1948,25764,1000000,Milioni Di Lire,Italy,Switzerland
+325,225,1949,26732,1000000,Milioni Di Lire,Italy,Switzerland
+325,230,1917,196986,1000,,Italy,Spain
+325,230,1918,293196,1000,,Italy,Spain
+325,230,1919,197887,1000,,Italy,Spain
+325,230,1920,197758,1000,,Italy,Spain
+325,230,1921,174003,1000,,Italy,Spain
+325,230,1922,134601,1000,Migliaia Di Lire,Italy,Spain
+325,230,1923,113435,1000,Migliaia Di Lire,Italy,Spain
+325,230,1924,173382,1000,Migliaia Di Lire,Italy,Spain
+325,230,1925,283721,1000,Migliaia Di Lire,Italy,Spain
+325,230,1926,219744,1000,Migliaia Di Lire,Italy,Spain
+325,230,1927,188614,1000,Migliaia Di Lire,Italy,Spain
+325,230,1928,242157,1000,,Italy,Spain
+325,230,1929,227492,1000,,Italy,Spain
+325,230,1930,277276,1000,,Italy,Spain
+325,230,1931,332712,1000,,Italy,Spain
+325,230,1932,118,1000000,Millioni Di Lire,Italy,Spain
+325,230,1933,81.3,1000000,Millioni Di Lire,Italy,Spain
+325,230,1934,104.2,1000000,Millioni Di Lire,Italy,Spain
+325,230,1935,111.1,1000000,Millioni Di Lire,Italy,Spain
+325,230,1936,44.4,1000000,Millioni Di Lire,Italy,Spain
+325,230,1937,120.7,1000000,Millioni Di Lire,Italy,Spain
+325,230,1938,177,1000000,Millioni Di Lire,Italy,Spain
+325,230,1939,69682,1000,Migliala Di Lire,Italy,Spain
+325,230,1940,84886,1000,Migliala Di Lire,Italy,Spain
+325,230,1941,328561,1000,Migliala Di Lire,Italy,Spain
+325,230,1942,0,1000,Migliala Di Lire,Italy,Spain
+325,230,1943,0,1000000,,Italy,Spain
+325,230,1944,0,1000000,,Italy,Spain
+325,230,1945,0,1000000,,Italy,Spain
+325,230,1946,0,1000000,,Italy,Spain
+325,230,1947,3537.9,1000000,Milioni Di Lire,Italy,Spain
+325,230,1948,3565,1000000,Milioni Di Lire,Italy,Spain
+325,230,1949,3719,1000000,Milioni Di Lire,Italy,Spain
+325,235,1917,9536,1000,,Italy,Portugal
+325,235,1918,38284,1000,,Italy,Portugal
+325,235,1919,40706,1000,,Italy,Portugal
+325,235,1920,67710,1000,,Italy,Portugal
+325,235,1921,75905,1000,,Italy,Portugal
+325,235,1922,72010,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1923,37590,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1924,36627,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1925,51221,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1926,51981,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1927,39505,1000,Migliaia Di Lire,Italy,Portugal
+325,235,1928,38110,1000,,Italy,Portugal
+325,235,1929,0,1000,,Italy,Portugal
+325,235,1930,0,1000,,Italy,Portugal
+325,235,1931,0,1000,,Italy,Portugal
+325,235,1932,0,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1933,0,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1934,0,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1935,0,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1936,0,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1937,49.2,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1938,55.8,1000000,Millioni Di Lire,Italy,Portugal
+325,235,1939,57671,1000,Migliala Di Lire,Italy,Portugal
+325,235,1940,52574,1000,Migliala Di Lire,Italy,Portugal
+325,235,1941,61573,1000,Migliala Di Lire,Italy,Portugal
+325,235,1942,0,1000,Migliala Di Lire,Italy,Portugal
+325,235,1943,0,1000000,,Italy,Portugal
+325,235,1944,0,1000000,,Italy,Portugal
+325,235,1945,0,1000000,,Italy,Portugal
+325,235,1946,0,1000000,,Italy,Portugal
+325,235,1947,1007.3,1000000,Milioni Di Lire,Italy,Portugal
+325,235,1948,3008,1000000,Milioni Di Lire,Italy,Portugal
+325,235,1949,2356,1000000,Milioni Di Lire,Italy,Portugal
+325,255,1917,18094,1000,,Italy,Germany
+325,255,1918,16304,1000,,Italy,Germany
+325,255,1919,88435,1000,,Italy,Germany
+325,255,1920,1097183,1000,,Italy,Germany
+325,255,1921,1293245,1000,,Italy,Germany
+325,255,1922,1246020,1000,Migliaia Di Lire,Italy,Germany
+325,255,1923,1308239,1000,Migliaia Di Lire,Italy,Germany
+325,255,1924,1524314,1000,Migliaia Di Lire,Italy,Germany
+325,255,1925,2172814,1000,Migliaia Di Lire,Italy,Germany
+325,255,1926,2782239,1000,Migliaia Di Lire,Italy,Germany
+325,255,1927,1984481,1000,Migliaia Di Lire,Italy,Germany
+325,255,1928,2209091,1000,,Italy,Germany
+325,255,1929,2675025,1000,,Italy,Germany
+325,255,1930,2186900,1000,,Italy,Germany
+325,255,1931,1533669,1000,,Italy,Germany
+325,255,1932,1110.4,1000000,Millioni Di Lire,Italy,Germany
+325,255,1933,1105.8,1000000,Millioni Di Lire,Italy,Germany
+325,255,1934,1212.9,1000000,Millioni Di Lire,Italy,Germany
+325,255,1935,1427.2,1000000,Millioni Di Lire,Italy,Germany
+325,255,1936,1616.9,1000000,Millioni Di Lire,Italy,Germany
+325,255,1937,3220.7,1000000,Millioni Di Lire,Italy,Germany
+325,255,1938,3009.8,1000000,Millioni Di Lire,Italy,Germany
+325,255,1939,3039348,1000,Migliala Di Lire,Italy,Germany
+325,255,1940,5133884,1000,Migliala Di Lire,Italy,Germany
+325,255,1941,7092159,1000,Migliala Di Lire,Italy,Germany
+325,255,1942,8373986,1000,Migliala Di Lire,Italy,Germany
+325,255,1943,0,1000000,,Italy,Germany
+325,255,1944,0,1000000,,Italy,Germany
+325,255,1945,0,1000000,,Italy,Germany
+325,255,1946,0,1000000,,Italy,Germany
+325,255,1947,5088.5,1000000,Milioni Di Lire,Italy,Germany
+325,255,1948,17590,1000000,Milioni Di Lire,Italy,Germany
+325,255,1949,39726,1000000,Milioni Di Lire,Italy,Germany
+325,290,1917,0,1000,,Italy,Poland
+325,290,1918,0,1000,,Italy,Poland
+325,290,1919,0,1000,,Italy,Poland
+325,290,1920,0,1000,,Italy,Poland
+325,290,1921,0,1000,,Italy,Poland
+325,290,1922,1405,1000,Migliaia Di Lire,Italy,Poland
+325,290,1923,14992,1000,Migliaia Di Lire,Italy,Poland
+325,290,1924,17665,1000,Migliaia Di Lire,Italy,Poland
+325,290,1925,50078,1000,Migliaia Di Lire,Italy,Poland
+325,290,1926,187820,1000,Migliaia Di Lire,Italy,Poland
+325,290,1927,268004,1000,Migliaia Di Lire,Italy,Poland
+325,290,1928,131065,1000,,Italy,Poland
+325,290,1929,97030,1000,,Italy,Poland
+325,290,1930,104168,1000,,Italy,Poland
+325,290,1931,108828,1000,,Italy,Poland
+325,290,1932,84.2,1000000,Millioni Di Lire,Italy,Poland
+325,290,1933,60.2,1000000,Millioni Di Lire,Italy,Poland
+325,290,1934,94.3,1000000,Millioni Di Lire,Italy,Poland
+325,290,1935,115.5,1000000,Millioni Di Lire,Italy,Poland
+325,290,1936,77.3,1000000,Millioni Di Lire,Italy,Poland
+325,290,1937,296.6,1000000,Millioni Di Lire,Italy,Poland
+325,290,1938,319.1,1000000,Millioni Di Lire,Italy,Poland
+325,290,1939,262484,1000,Migliala Di Lire,Italy,Poland
+325,290,1940,0,1000,Migliala Di Lire,Italy,Poland
+325,290,1941,0,1000,Migliala Di Lire,Italy,Poland
+325,290,1942,0,1000,Migliala Di Lire,Italy,Poland
+325,290,1943,0,1000000,,Italy,Poland
+325,290,1944,0,1000000,,Italy,Poland
+325,290,1945,0,1000000,,Italy,Poland
+325,290,1946,0,1000000,,Italy,Poland
+325,290,1947,1885,1000000,Milioni Di Lire,Italy,Poland
+325,290,1948,10584,1000000,Milioni Di Lire,Italy,Poland
+325,290,1949,19626,1000000,Milioni Di Lire,Italy,Poland
+325,305,1917,336,1000,,Italy,Austria
+325,305,1918,1658,1000,,Italy,Austria
+325,305,1919,106430,1000,,Italy,Austria
+325,305,1920,653811,1000,,Italy,Austria
+325,305,1921,444850,1000,,Italy,Austria
+325,305,1922,327349,1000,Migliaia Di Lire,Italy,Austria
+325,305,1923,326084,1000,Migliaia Di Lire,Italy,Austria
+325,305,1924,466723,1000,Migliaia Di Lire,Italy,Austria
+325,305,1925,672881,1000,Migliaia Di Lire,Italy,Austria
+325,305,1926,633663,1000,Migliaia Di Lire,Italy,Austria
+325,305,1927,506956,1000,Migliaia Di Lire,Italy,Austria
+325,305,1928,463864,1000,,Italy,Austria
+325,305,1929,482886,1000,,Italy,Austria
+325,305,1930,412384,1000,,Italy,Austria
+325,305,1931,290863,1000,,Italy,Austria
+325,305,1932,185.8,1000000,Millioni Di Lire,Italy,Austria
+325,305,1933,175,1000000,Millioni Di Lire,Italy,Austria
+325,305,1934,189.9,1000000,Millioni Di Lire,Italy,Austria
+325,305,1935,272.2,1000000,Millioni Di Lire,Italy,Austria
+325,305,1936,370.4,1000000,Millioni Di Lire,Italy,Austria
+325,305,1937,0,1000000,Millioni Di Lire,Italy,Austria
+325,305,1938,0,1000000,Millioni Di Lire,Italy,Austria
+325,305,1939,0,1000,Migliala Di Lire,Italy,Austria
+325,305,1940,0,1000,Migliala Di Lire,Italy,Austria
+325,305,1941,0,1000,Migliala Di Lire,Italy,Austria
+325,305,1942,0,1000,Migliala Di Lire,Italy,Austria
+325,305,1943,0,1000000,,Italy,Austria
+325,305,1944,0,1000000,,Italy,Austria
+325,305,1945,0,1000000,,Italy,Austria
+325,305,1946,0,1000000,,Italy,Austria
+325,305,1947,0,1000000,Milioni Di Lire,Italy,Austria
+325,305,1948,13050,1000000,Milioni Di Lire,Italy,Austria
+325,305,1949,20016,1000000,Milioni Di Lire,Italy,Austria
+325,310,1917,0,1000,,Italy,Hungary
+325,310,1918,0,1000,,Italy,Hungary
+325,310,1919,607,1000,,Italy,Hungary
+325,310,1920,22514,1000,,Italy,Hungary
+325,310,1921,45228,1000,,Italy,Hungary
+325,310,1922,55728,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1923,56749,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1924,53765,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1925,73362,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1926,242450,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1927,117559,1000,Migliaia Di Lire,Italy,Hungary
+325,310,1928,97486,1000,,Italy,Hungary
+325,310,1929,188419,1000,,Italy,Hungary
+325,310,1930,304084,1000,,Italy,Hungary
+325,310,1931,144888,1000,,Italy,Hungary
+325,310,1932,78.3,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1933,75.3,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1934,98.59999999999999,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1935,154.1,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1936,220.3,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1937,410.2,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1938,189.5,1000000,Millioni Di Lire,Italy,Hungary
+325,310,1939,422884,1000,Migliala Di Lire,Italy,Hungary
+325,310,1940,581662,1000,Migliala Di Lire,Italy,Hungary
+325,310,1941,621045,1000,Migliala Di Lire,Italy,Hungary
+325,310,1942,1013521,1000,Migliala Di Lire,Italy,Hungary
+325,310,1943,0,1000000,,Italy,Hungary
+325,310,1944,0,1000000,,Italy,Hungary
+325,310,1945,0,1000000,,Italy,Hungary
+325,310,1946,0,1000000,,Italy,Hungary
+325,310,1947,881.7,1000000,Milioni Di Lire,Italy,Hungary
+325,310,1948,1041,1000000,Milioni Di Lire,Italy,Hungary
+325,310,1949,3770,1000000,Milioni Di Lire,Italy,Hungary
+325,315,1917,0,1000,,Italy,Czechoslovakia
+325,315,1918,0,1000,,Italy,Czechoslovakia
+325,315,1919,31552,1000,,Italy,Czechoslovakia
+325,315,1920,0,1000,,Italy,Czechoslovakia
+325,315,1921,219638,1000,,Italy,Czechoslovakia
+325,315,1922,183264,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1923,159689,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1924,305815,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1925,466843,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1926,320536,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1927,271111,1000,Migliaia Di Lire,Italy,Czechoslovakia
+325,315,1928,318768,1000,,Italy,Czechoslovakia
+325,315,1929,269841,1000,,Italy,Czechoslovakia
+325,315,1930,251196,1000,,Italy,Czechoslovakia
+325,315,1931,182521,1000,,Italy,Czechoslovakia
+325,315,1932,119.7,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1933,88.40000000000001,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1934,97.8,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1935,105.3,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1936,49.7,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1937,274.9,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1938,254.1,1000000,Millioni Di Lire,Italy,Czechoslovakia
+325,315,1939,116992,1000,Migliala Di Lire,Italy,Czechoslovakia
+325,315,1940,0,1000,Migliala Di Lire,Italy,Czechoslovakia
+325,315,1941,0,1000,Migliala Di Lire,Italy,Czechoslovakia
+325,315,1942,0,1000,Migliala Di Lire,Italy,Czechoslovakia
+325,315,1943,0,1000000,,Italy,Czechoslovakia
+325,315,1944,0,1000000,,Italy,Czechoslovakia
+325,315,1945,0,1000000,,Italy,Czechoslovakia
+325,315,1946,0,1000000,,Italy,Czechoslovakia
+325,315,1947,9236.700000000001,1000000,Milioni Di Lire,Italy,Czechoslovakia
+325,315,1948,10701,1000000,Milioni Di Lire,Italy,Czechoslovakia
+325,315,1949,9243,1000000,Milioni Di Lire,Italy,Czechoslovakia
+325,338,1917,2087,1000,,Italy,Malta
+325,338,1918,2873,1000,,Italy,Malta
+325,338,1919,4026,1000,,Italy,Malta
+325,338,1920,7404,1000,,Italy,Malta
+325,338,1921,2072,1000,,Italy,Malta
+325,338,1922,3943,1000,Migliaia Di Lire,Italy,Malta
+325,338,1923,5062,1000,Migliaia Di Lire,Italy,Malta
+325,338,1924,3643,1000,Migliaia Di Lire,Italy,Malta
+325,338,1925,0,1000,Migliaia Di Lire,Italy,Malta
+325,338,1926,0,1000,Migliaia Di Lire,Italy,Malta
+325,338,1927,0,1000,Migliaia Di Lire,Italy,Malta
+325,338,1928,0,1000,,Italy,Malta
+325,338,1929,0,1000,,Italy,Malta
+325,338,1930,0,1000,,Italy,Malta
+325,338,1931,0,1000,,Italy,Malta
+325,338,1932,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1933,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1934,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1935,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1936,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1937,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1938,0,1000000,Millioni Di Lire,Italy,Malta
+325,338,1939,581,1000,Migliala Di Lire,Italy,Malta
+325,338,1940,152,1000,Migliala Di Lire,Italy,Malta
+325,338,1941,0,1000,Migliala Di Lire,Italy,Malta
+325,338,1942,0,1000,Migliala Di Lire,Italy,Malta
+325,338,1943,0,1000000,,Italy,Malta
+325,338,1944,0,1000000,,Italy,Malta
+325,338,1945,0,1000000,,Italy,Malta
+325,338,1946,0,1000000,,Italy,Malta
+325,338,1947,0,1000000,Milioni Di Lire,Italy,Malta
+325,338,1948,0,1000000,Milioni Di Lire,Italy,Malta
+325,338,1949,0,1000000,Milioni Di Lire,Italy,Malta
+325,339,1917,4065,1000,,Italy,Albania
+325,339,1918,4888,1000,,Italy,Albania
+325,339,1919,9011,1000,,Italy,Albania
+325,339,1920,29683,1000,,Italy,Albania
+325,339,1921,18516,1000,,Italy,Albania
+325,339,1922,16962,1000,Migliaia Di Lire,Italy,Albania
+325,339,1923,25803,1000,Migliaia Di Lire,Italy,Albania
+325,339,1924,31568,1000,Migliaia Di Lire,Italy,Albania
+325,339,1925,42671,1000,Migliaia Di Lire,Italy,Albania
+325,339,1926,42452,1000,Migliaia Di Lire,Italy,Albania
+325,339,1927,38534,1000,Migliaia Di Lire,Italy,Albania
+325,339,1928,37645,1000,,Italy,Albania
+325,339,1929,0,1000,,Italy,Albania
+325,339,1930,0,1000,,Italy,Albania
+325,339,1931,0,1000,,Italy,Albania
+325,339,1932,0,1000000,Millioni Di Lire,Italy,Albania
+325,339,1933,0,1000000,Millioni Di Lire,Italy,Albania
+325,339,1934,0,1000000,Millioni Di Lire,Italy,Albania
+325,339,1935,0,1000000,Millioni Di Lire,Italy,Albania
+325,339,1936,29.1,1000000,Millioni Di Lire,Italy,Albania
+325,339,1937,62.3,1000000,Millioni Di Lire,Italy,Albania
+325,339,1938,60.8,1000000,Millioni Di Lire,Italy,Albania
+325,339,1939,96417,1000,Migliala Di Lire,Italy,Albania
+325,339,1940,54939,1000,Migliala Di Lire,Italy,Albania
+325,339,1941,73064,1000,Migliala Di Lire,Italy,Albania
+325,339,1942,0,1000,Migliala Di Lire,Italy,Albania
+325,339,1943,0,1000000,,Italy,Albania
+325,339,1944,0,1000000,,Italy,Albania
+325,339,1945,0,1000000,,Italy,Albania
+325,339,1946,0,1000000,,Italy,Albania
+325,339,1947,0,1000000,Milioni Di Lire,Italy,Albania
+325,339,1948,0,1000000,Milioni Di Lire,Italy,Albania
+325,339,1949,0,1000000,Milioni Di Lire,Italy,Albania
+325,345,1917,45,1000,,Italy,Yugoslavia
+325,345,1918,0,1000,,Italy,Yugoslavia
+325,345,1919,13520,1000,,Italy,Yugoslavia
+325,345,1920,62022,1000,,Italy,Yugoslavia
+325,345,1921,402640,1000,,Italy,Yugoslavia
+325,345,1922,366818,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1923,488809,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1924,553007,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1925,781405,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1926,973920,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1927,613666,1000,Migliaia Di Lire,Italy,Yugoslavia
+325,345,1928,534157,1000,,Italy,Yugoslavia
+325,345,1929,637704,1000,,Italy,Yugoslavia
+325,345,1930,706521,1000,,Italy,Yugoslavia
+325,345,1931,409771,1000,,Italy,Yugoslavia
+325,345,1932,241.9,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1933,188.8,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1934,204,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1935,186.2,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1936,69.09999999999999,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1937,254.3,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1938,154.9,1000000,Millioni Di Lire,Italy,Yugoslavia
+325,345,1939,246426,1000,Migliala Di Lire,Italy,Yugoslavia
+325,345,1940,448809,1000,Migliala Di Lire,Italy,Yugoslavia
+325,345,1941,189974,1000,Migliala Di Lire,Italy,Yugoslavia
+325,345,1942,0,1000,Migliala Di Lire,Italy,Yugoslavia
+325,345,1943,0,1000000,,Italy,Yugoslavia
+325,345,1944,0,1000000,,Italy,Yugoslavia
+325,345,1945,0,1000000,,Italy,Yugoslavia
+325,345,1946,0,1000000,,Italy,Yugoslavia
+325,345,1947,5936.3,1000000,Milioni Di Lire,Italy,Yugoslavia
+325,345,1948,10898,1000000,Milioni Di Lire,Italy,Yugoslavia
+325,345,1949,10207,1000000,Milioni Di Lire,Italy,Yugoslavia
+325,350,1917,21439,1000,,Italy,Greece
+325,350,1918,26665,1000,,Italy,Greece
+325,350,1919,36006,1000,,Italy,Greece
+325,350,1920,70287,1000,,Italy,Greece
+325,350,1921,44580,1000,,Italy,Greece
+325,350,1922,117171,1000,Migliaia Di Lire,Italy,Greece
+325,350,1923,122412,1000,Migliaia Di Lire,Italy,Greece
+325,350,1924,67109,1000,Migliaia Di Lire,Italy,Greece
+325,350,1925,137219,1000,Migliaia Di Lire,Italy,Greece
+325,350,1926,107376,1000,Migliaia Di Lire,Italy,Greece
+325,350,1927,75783,1000,Migliaia Di Lire,Italy,Greece
+325,350,1928,90619,1000,,Italy,Greece
+325,350,1929,113821,1000,,Italy,Greece
+325,350,1930,68892,1000,,Italy,Greece
+325,350,1931,74143,1000,,Italy,Greece
+325,350,1932,109.9,1000000,Millioni Di Lire,Italy,Greece
+325,350,1933,56.7,1000000,Millioni Di Lire,Italy,Greece
+325,350,1934,0,1000000,Millioni Di Lire,Italy,Greece
+325,350,1935,0,1000000,Millioni Di Lire,Italy,Greece
+325,350,1936,6.7,1000000,Millioni Di Lire,Italy,Greece
+325,350,1937,67.2,1000000,Millioni Di Lire,Italy,Greece
+325,350,1938,94.7,1000000,Millioni Di Lire,Italy,Greece
+325,350,1939,85740,1000,Migliala Di Lire,Italy,Greece
+325,350,1940,116769,1000,Migliala Di Lire,Italy,Greece
+325,350,1941,18171,1000,Migliala Di Lire,Italy,Greece
+325,350,1942,0,1000,Migliala Di Lire,Italy,Greece
+325,350,1943,0,1000000,,Italy,Greece
+325,350,1944,0,1000000,,Italy,Greece
+325,350,1945,0,1000000,,Italy,Greece
+325,350,1946,0,1000000,,Italy,Greece
+325,350,1947,2840.5,1000000,Milioni Di Lire,Italy,Greece
+325,350,1948,6307,1000000,Milioni Di Lire,Italy,Greece
+325,350,1949,3038,1000000,Milioni Di Lire,Italy,Greece
+325,355,1917,0,1000,,Italy,Bulgaria
+325,355,1918,4,1000,,Italy,Bulgaria
+325,355,1919,8774,1000,,Italy,Bulgaria
+325,355,1920,24688,1000,,Italy,Bulgaria
+325,355,1921,19853,1000,,Italy,Bulgaria
+325,355,1922,40435,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1923,58840,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1924,54027,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1925,95733,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1926,61103,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1927,46364,1000,Migliaia Di Lire,Italy,Bulgaria
+325,355,1928,68918,1000,,Italy,Bulgaria
+325,355,1929,52730,1000,,Italy,Bulgaria
+325,355,1930,48794,1000,,Italy,Bulgaria
+325,355,1931,38197,1000,,Italy,Bulgaria
+325,355,1932,54.2,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1933,33.7,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1934,0,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1935,0,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1936,28.9,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1937,76.3,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1938,103.7,1000000,Millioni Di Lire,Italy,Bulgaria
+325,355,1939,57169,1000,Migliala Di Lire,Italy,Bulgaria
+325,355,1940,141116,1000,Migliala Di Lire,Italy,Bulgaria
+325,355,1941,138235,1000,Migliala Di Lire,Italy,Bulgaria
+325,355,1942,299393,1000,Migliala Di Lire,Italy,Bulgaria
+325,355,1943,0,1000000,,Italy,Bulgaria
+325,355,1944,0,1000000,,Italy,Bulgaria
+325,355,1945,0,1000000,,Italy,Bulgaria
+325,355,1946,0,1000000,,Italy,Bulgaria
+325,355,1947,91.90000000000001,1000000,Milioni Di Lire,Italy,Bulgaria
+325,355,1948,1268,1000000,Milioni Di Lire,Italy,Bulgaria
+325,355,1949,1784,1000000,Milioni Di Lire,Italy,Bulgaria
+325,360,1917,0,1000,,Italy,Romania
+325,360,1918,79,1000,,Italy,Romania
+325,360,1919,482,1000,,Italy,Romania
+325,360,1920,197758,1000,,Italy,Romania
+325,360,1921,348838,1000,,Italy,Romania
+325,360,1922,290943,1000,Migliaia Di Lire,Italy,Romania
+325,360,1923,222451,1000,Migliaia Di Lire,Italy,Romania
+325,360,1924,149626,1000,Migliaia Di Lire,Italy,Romania
+325,360,1925,130723,1000,Migliaia Di Lire,Italy,Romania
+325,360,1926,556499,1000,Migliaia Di Lire,Italy,Romania
+325,360,1927,386810,1000,Migliaia Di Lire,Italy,Romania
+325,360,1928,398317,1000,,Italy,Romania
+325,360,1929,205407,1000,,Italy,Romania
+325,360,1930,512630,1000,,Italy,Romania
+325,360,1931,331013,1000,,Italy,Romania
+325,360,1932,229.2,1000000,Millioni Di Lire,Italy,Romania
+325,360,1933,158.2,1000000,Millioni Di Lire,Italy,Romania
+325,360,1934,120.9,1000000,Millioni Di Lire,Italy,Romania
+325,360,1935,241,1000000,Millioni Di Lire,Italy,Romania
+325,360,1936,220.8,1000000,Millioni Di Lire,Italy,Romania
+325,360,1937,394.7,1000000,Millioni Di Lire,Italy,Romania
+325,360,1938,253.5,1000000,Millioni Di Lire,Italy,Romania
+325,360,1939,415569,1000,Migliala Di Lire,Italy,Romania
+325,360,1940,455682,1000,Migliala Di Lire,Italy,Romania
+325,360,1941,453151,1000,Migliala Di Lire,Italy,Romania
+325,360,1942,1066052,1000,Migliala Di Lire,Italy,Romania
+325,360,1943,0,1000000,,Italy,Romania
+325,360,1944,0,1000000,,Italy,Romania
+325,360,1945,0,1000000,,Italy,Romania
+325,360,1946,0,1000000,,Italy,Romania
+325,360,1947,304,1000000,Milioni Di Lire,Italy,Romania
+325,360,1948,129,1000000,Milioni Di Lire,Italy,Romania
+325,360,1949,759,1000000,Milioni Di Lire,Italy,Romania
+325,365,1917,3524,1000,,Italy,Russia
+325,365,1918,752,1000,,Italy,Russia
+325,365,1919,2267,1000,,Italy,Russia
+325,365,1920,50316,1000,,Italy,Russia
+325,365,1921,6290,1000,,Italy,Russia
+325,365,1922,17424,1000,Migliaia Di Lire,Italy,Russia
+325,365,1923,42480,1000,Migliaia Di Lire,Italy,Russia
+325,365,1924,88416,1000,Migliaia Di Lire,Italy,Russia
+325,365,1925,148471,1000,Migliaia Di Lire,Italy,Russia
+325,365,1926,325768,1000,Migliaia Di Lire,Italy,Russia
+325,365,1927,340540,1000,Migliaia Di Lire,Italy,Russia
+325,365,1928,178508,1000,,Italy,Russia
+325,365,1929,340853,1000,,Italy,Russia
+325,365,1930,552732,1000,,Italy,Russia
+325,365,1931,561223,1000,,Italy,Russia
+325,365,1932,307.5,1000000,Millioni Di Lire,Italy,Russia
+325,365,1933,225.8,1000000,Millioni Di Lire,Italy,Russia
+325,365,1934,220.1,1000000,Millioni Di Lire,Italy,Russia
+325,365,1935,184.3,1000000,Millioni Di Lire,Italy,Russia
+325,365,1936,154.9,1000000,Millioni Di Lire,Italy,Russia
+325,365,1937,105,1000000,Millioni Di Lire,Italy,Russia
+325,365,1938,6.8,1000000,Millioni Di Lire,Italy,Russia
+325,365,1939,43352,1000,Migliala Di Lire,Italy,Russia
+325,365,1940,17248,1000,Migliala Di Lire,Italy,Russia
+325,365,1941,9658,1000,Migliala Di Lire,Italy,Russia
+325,365,1942,0,1000,Migliala Di Lire,Italy,Russia
+325,365,1943,0,1000000,,Italy,Russia
+325,365,1944,0,1000000,,Italy,Russia
+325,365,1945,0,1000000,,Italy,Russia
+325,365,1946,0,1000000,,Italy,Russia
+325,365,1947,889.3,1000000,Milioni Di Lire,Italy,Russia
+325,365,1948,2236,1000000,Milioni Di Lire,Italy,Russia
+325,365,1949,10022,1000000,Milioni Di Lire,Italy,Russia
+325,366,1917,0,1000,,Italy,Estonia
+325,366,1918,0,1000,,Italy,Estonia
+325,366,1919,0,1000,,Italy,Estonia
+325,366,1920,0,1000,,Italy,Estonia
+325,366,1921,0,1000,,Italy,Estonia
+325,366,1922,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1923,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1924,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1925,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1926,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1927,0,1000,Migliaia Di Lire,Italy,Estonia
+325,366,1928,0,1000,,Italy,Estonia
+325,366,1929,0,1000,,Italy,Estonia
+325,366,1930,0,1000,,Italy,Estonia
+325,366,1931,0,1000,,Italy,Estonia
+325,366,1932,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1933,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1934,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1935,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1936,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1937,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1938,0,1000000,Millioni Di Lire,Italy,Estonia
+325,366,1939,5133,1000,Migliala Di Lire,Italy,Estonia
+325,366,1940,14850,1000,Migliala Di Lire,Italy,Estonia
+325,366,1941,0,1000,Migliala Di Lire,Italy,Estonia
+325,366,1942,0,1000,Migliala Di Lire,Italy,Estonia
+325,366,1943,0,1000000,,Italy,Estonia
+325,366,1944,0,1000000,,Italy,Estonia
+325,366,1945,0,1000000,,Italy,Estonia
+325,366,1946,0,1000000,,Italy,Estonia
+325,366,1947,0,1000000,Milioni Di Lire,Italy,Estonia
+325,366,1948,0,1000000,Milioni Di Lire,Italy,Estonia
+325,366,1949,0,1000000,Milioni Di Lire,Italy,Estonia
+325,368,1917,0,1000,,Italy,Lithuania
+325,368,1918,0,1000,,Italy,Lithuania
+325,368,1919,0,1000,,Italy,Lithuania
+325,368,1920,0,1000,,Italy,Lithuania
+325,368,1921,0,1000,,Italy,Lithuania
+325,368,1922,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1923,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1924,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1925,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1926,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1927,0,1000,Migliaia Di Lire,Italy,Lithuania
+325,368,1928,0,1000,,Italy,Lithuania
+325,368,1929,0,1000,,Italy,Lithuania
+325,368,1930,0,1000,,Italy,Lithuania
+325,368,1931,0,1000,,Italy,Lithuania
+325,368,1932,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1933,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1934,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1935,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1936,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1937,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1938,0,1000000,Millioni Di Lire,Italy,Lithuania
+325,368,1939,8178,1000,Migliala Di Lire,Italy,Lithuania
+325,368,1940,5559,1000,Migliala Di Lire,Italy,Lithuania
+325,368,1941,0,1000,Migliala Di Lire,Italy,Lithuania
+325,368,1942,0,1000,Migliala Di Lire,Italy,Lithuania
+325,368,1943,0,1000000,,Italy,Lithuania
+325,368,1944,0,1000000,,Italy,Lithuania
+325,368,1945,0,1000000,,Italy,Lithuania
+325,368,1946,0,1000000,,Italy,Lithuania
+325,368,1947,0,1000000,Milioni Di Lire,Italy,Lithuania
+325,368,1948,0,1000000,Milioni Di Lire,Italy,Lithuania
+325,368,1949,0,1000000,Milioni Di Lire,Italy,Lithuania
+325,375,1917,0,1000,,Italy,Finland
+325,375,1918,0,1000,,Italy,Finland
+325,375,1919,0,1000,,Italy,Finland
+325,375,1920,0,1000,,Italy,Finland
+325,375,1921,0,1000,,Italy,Finland
+325,375,1922,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1923,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1924,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1925,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1926,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1927,0,1000,Migliaia Di Lire,Italy,Finland
+325,375,1928,0,1000,,Italy,Finland
+325,375,1929,0,1000,,Italy,Finland
+325,375,1930,0,1000,,Italy,Finland
+325,375,1931,0,1000,,Italy,Finland
+325,375,1932,0,1000000,Millioni Di Lire,Italy,Finland
+325,375,1933,0,1000000,Millioni Di Lire,Italy,Finland
+325,375,1934,0,1000000,Millioni Di Lire,Italy,Finland
+325,375,1935,0,1000000,Millioni Di Lire,Italy,Finland
+325,375,1936,0,1000000,Millioni Di Lire,Italy,Finland
+325,375,1937,61.6,1000000,Millioni Di Lire,Italy,Finland
+325,375,1938,95.5,1000000,Millioni Di Lire,Italy,Finland
+325,375,1939,62907,1000,Migliala Di Lire,Italy,Finland
+325,375,1940,62095,1000,Migliala Di Lire,Italy,Finland
+325,375,1941,114685,1000,Migliala Di Lire,Italy,Finland
+325,375,1942,168899,1000,Migliala Di Lire,Italy,Finland
+325,375,1943,0,1000000,,Italy,Finland
+325,375,1944,0,1000000,,Italy,Finland
+325,375,1945,0,1000000,,Italy,Finland
+325,375,1946,0,1000000,,Italy,Finland
+325,375,1947,1544.6,1000000,Milioni Di Lire,Italy,Finland
+325,375,1948,807,1000000,Milioni Di Lire,Italy,Finland
+325,375,1949,2254,1000000,Milioni Di Lire,Italy,Finland
+325,380,1917,26871,1000,,Italy,Sweden
+325,380,1918,27646,1000,,Italy,Sweden
+325,380,1919,47021,1000,,Italy,Sweden
+325,380,1920,151610,1000,,Italy,Sweden
+325,380,1921,19831,1000,,Italy,Sweden
+325,380,1922,46807,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1923,41191,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1924,74434,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1925,103859,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1926,133868,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1927,103253,1000,Migliaia Di Lire,Italy,Sweden
+325,380,1928,120327,1000,,Italy,Sweden
+325,380,1929,154832,1000,,Italy,Sweden
+325,380,1930,134667,1000,,Italy,Sweden
+325,380,1931,114251,1000,,Italy,Sweden
+325,380,1932,73.90000000000001,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1933,93.5,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1934,102.4,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1935,103.6,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1936,80.90000000000001,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1937,166.6,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1938,211.2,1000000,Millioni Di Lire,Italy,Sweden
+325,380,1939,227035,1000,Migliala Di Lire,Italy,Sweden
+325,380,1940,388146,1000,Migliala Di Lire,Italy,Sweden
+325,380,1941,455598,1000,Migliala Di Lire,Italy,Sweden
+325,380,1942,533251,1000,Migliala Di Lire,Italy,Sweden
+325,380,1943,0,1000000,,Italy,Sweden
+325,380,1944,0,1000000,,Italy,Sweden
+325,380,1945,0,1000000,,Italy,Sweden
+325,380,1946,0,1000000,,Italy,Sweden
+325,380,1947,8288.200000000001,1000000,Milioni Di Lire,Italy,Sweden
+325,380,1948,11006,1000000,Milioni Di Lire,Italy,Sweden
+325,380,1949,13477,1000000,Milioni Di Lire,Italy,Sweden
+325,385,1917,52781,1000,,Italy,Norway
+325,385,1918,25653,1000,,Italy,Norway
+325,385,1919,45359,1000,,Italy,Norway
+325,385,1920,99896,1000,,Italy,Norway
+325,385,1921,142217,1000,,Italy,Norway
+325,385,1922,109821,1000,Migliaia Di Lire,Italy,Norway
+325,385,1923,106711,1000,Migliaia Di Lire,Italy,Norway
+325,385,1924,140219,1000,Migliaia Di Lire,Italy,Norway
+325,385,1925,175698,1000,Migliaia Di Lire,Italy,Norway
+325,385,1926,151439,1000,Migliaia Di Lire,Italy,Norway
+325,385,1927,105088,1000,Migliaia Di Lire,Italy,Norway
+325,385,1928,110714,1000,,Italy,Norway
+325,385,1929,136199,1000,,Italy,Norway
+325,385,1930,112639,1000,,Italy,Norway
+325,385,1931,82119,1000,,Italy,Norway
+325,385,1932,0,1000000,Millioni Di Lire,Italy,Norway
+325,385,1933,0,1000000,Millioni Di Lire,Italy,Norway
+325,385,1934,0,1000000,Millioni Di Lire,Italy,Norway
+325,385,1935,0,1000000,Millioni Di Lire,Italy,Norway
+325,385,1936,24.7,1000000,Millioni Di Lire,Italy,Norway
+325,385,1937,97.7,1000000,Millioni Di Lire,Italy,Norway
+325,385,1938,121.7,1000000,Millioni Di Lire,Italy,Norway
+325,385,1939,81119,1000,Migliala Di Lire,Italy,Norway
+325,385,1940,76651,1000,Migliala Di Lire,Italy,Norway
+325,385,1941,119771,1000,Migliala Di Lire,Italy,Norway
+325,385,1942,28139,1000,Migliala Di Lire,Italy,Norway
+325,385,1943,0,1000000,,Italy,Norway
+325,385,1944,0,1000000,,Italy,Norway
+325,385,1945,0,1000000,,Italy,Norway
+325,385,1946,0,1000000,,Italy,Norway
+325,385,1947,3607.4,1000000,Milioni Di Lire,Italy,Norway
+325,385,1948,4975,1000000,Milioni Di Lire,Italy,Norway
+325,385,1949,5583,1000000,Milioni Di Lire,Italy,Norway
+325,390,1917,660,1000,,Italy,Denmark
+325,390,1918,62,1000,,Italy,Denmark
+325,390,1919,613,1000,,Italy,Denmark
+325,390,1920,37628,1000,,Italy,Denmark
+325,390,1921,39041,1000,,Italy,Denmark
+325,390,1922,41975,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1923,28362,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1924,73513,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1925,68203,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1926,68369,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1927,64403,1000,Migliaia Di Lire,Italy,Denmark
+325,390,1928,80208,1000,,Italy,Denmark
+325,390,1929,99568,1000,,Italy,Denmark
+325,390,1930,66196,1000,,Italy,Denmark
+325,390,1931,58375,1000,,Italy,Denmark
+325,390,1932,0,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1933,0,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1934,0,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1935,0,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1936,7,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1937,54.2,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1938,42.4,1000000,Millioni Di Lire,Italy,Denmark
+325,390,1939,55941,1000,Migliala Di Lire,Italy,Denmark
+325,390,1940,61686,1000,Migliala Di Lire,Italy,Denmark
+325,390,1941,101811,1000,Migliala Di Lire,Italy,Denmark
+325,390,1942,112995,1000,Migliala Di Lire,Italy,Denmark
+325,390,1943,0,1000000,,Italy,Denmark
+325,390,1944,0,1000000,,Italy,Denmark
+325,390,1945,0,1000000,,Italy,Denmark
+325,390,1946,0,1000000,,Italy,Denmark
+325,390,1947,6253.1,1000000,Milioni Di Lire,Italy,Denmark
+325,390,1948,12092,1000000,Milioni Di Lire,Italy,Denmark
+325,390,1949,7540,1000000,Milioni Di Lire,Italy,Denmark
+325,395,1917,0,1000,,Italy,Iceland
+325,395,1918,0,1000,,Italy,Iceland
+325,395,1919,0,1000,,Italy,Iceland
+325,395,1920,0,1000,,Italy,Iceland
+325,395,1921,0,1000,,Italy,Iceland
+325,395,1922,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1923,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1924,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1925,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1926,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1927,0,1000,Migliaia Di Lire,Italy,Iceland
+325,395,1928,0,1000,,Italy,Iceland
+325,395,1929,0,1000,,Italy,Iceland
+325,395,1930,0,1000,,Italy,Iceland
+325,395,1931,0,1000,,Italy,Iceland
+325,395,1932,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1933,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1934,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1935,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1936,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1937,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1938,0,1000000,Millioni Di Lire,Italy,Iceland
+325,395,1939,16235,1000,Migliala Di Lire,Italy,Iceland
+325,395,1940,22174,1000,Migliala Di Lire,Italy,Iceland
+325,395,1941,0,1000,Migliala Di Lire,Italy,Iceland
+325,395,1942,0,1000,Migliala Di Lire,Italy,Iceland
+325,395,1943,0,1000000,,Italy,Iceland
+325,395,1944,0,1000000,,Italy,Iceland
+325,395,1945,0,1000000,,Italy,Iceland
+325,395,1946,0,1000000,,Italy,Iceland
+325,395,1947,0,1000000,Milioni Di Lire,Italy,Iceland
+325,395,1948,0,1000000,Milioni Di Lire,Italy,Iceland
+325,395,1949,0,1000000,Milioni Di Lire,Italy,Iceland
+325,511,1917,0,1000,,Italy,Zanzibar
+325,511,1918,0,1000,,Italy,Zanzibar
+325,511,1919,0,1000,,Italy,Zanzibar
+325,511,1920,0,1000,,Italy,Zanzibar
+325,511,1921,0,1000,,Italy,Zanzibar
+325,511,1922,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1923,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1924,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1925,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1926,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1927,0,1000,Migliaia Di Lire,Italy,Zanzibar
+325,511,1928,0,1000,,Italy,Zanzibar
+325,511,1929,0,1000,,Italy,Zanzibar
+325,511,1930,0,1000,,Italy,Zanzibar
+325,511,1931,0,1000,,Italy,Zanzibar
+325,511,1932,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1933,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1934,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1935,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1936,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1937,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1938,0,1000000,Millioni Di Lire,Italy,Zanzibar
+325,511,1939,931,1000,Migliala Di Lire,Italy,Zanzibar
+325,511,1940,1185,1000,Migliala Di Lire,Italy,Zanzibar
+325,511,1941,0,1000,Migliala Di Lire,Italy,Zanzibar
+325,511,1942,0,1000,Migliala Di Lire,Italy,Zanzibar
+325,511,1943,0,1000000,,Italy,Zanzibar
+325,511,1944,0,1000000,,Italy,Zanzibar
+325,511,1945,0,1000000,,Italy,Zanzibar
+325,511,1946,0,1000000,,Italy,Zanzibar
+325,511,1947,0,1000000,Milioni Di Lire,Italy,Zanzibar
+325,511,1948,0,1000000,Milioni Di Lire,Italy,Zanzibar
+325,511,1949,0,1000000,Milioni Di Lire,Italy,Zanzibar
+325,530,1917,0,1000,,Italy,Ethiopia
+325,530,1918,0,1000,,Italy,Ethiopia
+325,530,1919,0,1000,,Italy,Ethiopia
+325,530,1920,0,1000,,Italy,Ethiopia
+325,530,1921,0,1000,,Italy,Ethiopia
+325,530,1922,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1923,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1924,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1925,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1926,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1927,0,1000,Migliaia Di Lire,Italy,Ethiopia
+325,530,1928,0,1000,,Italy,Ethiopia
+325,530,1929,0,1000,,Italy,Ethiopia
+325,530,1930,0,1000,,Italy,Ethiopia
+325,530,1931,0,1000,,Italy,Ethiopia
+325,530,1932,0,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1933,0,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1934,0,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1935,0,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1936,7.4,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1937,72.09999999999999,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1938,32.5,1000000,Millioni Di Lire,Italy,Ethiopia
+325,530,1939,24592,1000,Migliala Di Lire,Italy,Ethiopia
+325,530,1940,0,1000,Migliala Di Lire,Italy,Ethiopia
+325,530,1941,0,1000,Migliala Di Lire,Italy,Ethiopia
+325,530,1942,0,1000,Migliala Di Lire,Italy,Ethiopia
+325,530,1943,0,1000000,,Italy,Ethiopia
+325,530,1944,0,1000000,,Italy,Ethiopia
+325,530,1945,0,1000000,,Italy,Ethiopia
+325,530,1946,0,1000000,,Italy,Ethiopia
+325,530,1947,0,1000000,Milioni Di Lire,Italy,Ethiopia
+325,530,1948,0,1000000,Milioni Di Lire,Italy,Ethiopia
+325,530,1949,0,1000000,Milioni Di Lire,Italy,Ethiopia
+325,531,1917,15362,1000,,Italy,Eritrea
+325,531,1918,50078,1000,,Italy,Eritrea
+325,531,1919,154035,1000,,Italy,Eritrea
+325,531,1920,87857,1000,,Italy,Eritrea
+325,531,1921,14069,1000,,Italy,Eritrea
+325,531,1922,22635,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1923,21331,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1924,46047,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1925,93736,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1926,97094,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1927,62291,1000,Migliaia Di Lire,Italy,Eritrea
+325,531,1928,68354,1000,,Italy,Eritrea
+325,531,1929,52564,1000,,Italy,Eritrea
+325,531,1930,34599,1000,,Italy,Eritrea
+325,531,1931,31684,1000,,Italy,Eritrea
+325,531,1932,0,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1933,0,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1934,30.1,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1935,36.4,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1936,32.2,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1937,109.4,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1938,23.8,1000000,Millioni Di Lire,Italy,Eritrea
+325,531,1939,45113,1000,Migliala Di Lire,Italy,Eritrea
+325,531,1940,0,1000,Migliala Di Lire,Italy,Eritrea
+325,531,1941,0,1000,Migliala Di Lire,Italy,Eritrea
+325,531,1942,0,1000,Migliala Di Lire,Italy,Eritrea
+325,531,1943,0,1000000,,Italy,Eritrea
+325,531,1944,0,1000000,,Italy,Eritrea
+325,531,1945,0,1000000,,Italy,Eritrea
+325,531,1946,0,1000000,,Italy,Eritrea
+325,531,1947,1372,1000000,Milioni Di Lire,Italy,Eritrea
+325,531,1948,1743,1000000,Milioni Di Lire,Italy,Eritrea
+325,531,1949,2649,1000000,Milioni Di Lire,Italy,Eritrea
+325,560,1917,0,1000,,Italy,South Africa
+325,560,1918,0,1000,,Italy,South Africa
+325,560,1919,0,1000,,Italy,South Africa
+325,560,1920,0,1000,,Italy,South Africa
+325,560,1921,0,1000,,Italy,South Africa
+325,560,1922,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1923,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1924,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1925,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1926,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1927,0,1000,Migliaia Di Lire,Italy,South Africa
+325,560,1928,0,1000,,Italy,South Africa
+325,560,1929,0,1000,,Italy,South Africa
+325,560,1930,0,1000,,Italy,South Africa
+325,560,1931,0,1000,,Italy,South Africa
+325,560,1932,0,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1933,0,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1934,82.40000000000001,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1935,76.40000000000001,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1936,27.9,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1937,81.90000000000001,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1938,105.3,1000000,Millioni Di Lire,Italy,South Africa
+325,560,1939,106276,1000,Migliala Di Lire,Italy,South Africa
+325,560,1940,97536,1000,Migliala Di Lire,Italy,South Africa
+325,560,1941,0,1000,Migliala Di Lire,Italy,South Africa
+325,560,1942,0,1000,Migliala Di Lire,Italy,South Africa
+325,560,1943,0,1000000,,Italy,South Africa
+325,560,1944,0,1000000,,Italy,South Africa
+325,560,1945,0,1000000,,Italy,South Africa
+325,560,1946,0,1000000,,Italy,South Africa
+325,560,1947,11970.7,1000000,Milioni Di Lire,Italy,South Africa
+325,560,1948,8213,1000000,Milioni Di Lire,Italy,South Africa
+325,560,1949,12238,1000000,Milioni Di Lire,Italy,South Africa
+325,615,1917,7155,1000,,Italy,Algeria
+325,615,1918,9427,1000,,Italy,Algeria
+325,615,1919,19545,1000,,Italy,Algeria
+325,615,1920,35656,1000,,Italy,Algeria
+325,615,1921,55446,1000,,Italy,Algeria
+325,615,1922,25179,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1923,49135,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1924,31753,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1925,0,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1926,0,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1927,0,1000,Migliaia Di Lire,Italy,Algeria
+325,615,1928,0,1000,,Italy,Algeria
+325,615,1929,0,1000,,Italy,Algeria
+325,615,1930,0,1000,,Italy,Algeria
+325,615,1931,0,1000,,Italy,Algeria
+325,615,1932,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1933,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1934,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1935,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1936,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1937,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1938,0,1000000,Millioni Di Lire,Italy,Algeria
+325,615,1939,8464,1000,Migliala Di Lire,Italy,Algeria
+325,615,1940,5413,1000,Migliala Di Lire,Italy,Algeria
+325,615,1941,48843,1000,Migliala Di Lire,Italy,Algeria
+325,615,1942,0,1000,Migliala Di Lire,Italy,Algeria
+325,615,1943,0,1000000,,Italy,Algeria
+325,615,1944,0,1000000,,Italy,Algeria
+325,615,1945,0,1000000,,Italy,Algeria
+325,615,1946,0,1000000,,Italy,Algeria
+325,615,1947,0,1000000,Milioni Di Lire,Italy,Algeria
+325,615,1948,0,1000000,Milioni Di Lire,Italy,Algeria
+325,615,1949,0,1000000,Milioni Di Lire,Italy,Algeria
+325,616,1917,35186,1000,,Italy,Tunisia
+325,616,1918,51080,1000,,Italy,Tunisia
+325,616,1919,92701,1000,,Italy,Tunisia
+325,616,1920,92007,1000,,Italy,Tunisia
+325,616,1921,197423,1000,,Italy,Tunisia
+325,616,1922,155068,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1923,134955,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1924,122726,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1925,104661,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1926,122156,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1927,81290,1000,Migliaia Di Lire,Italy,Tunisia
+325,616,1928,66202,1000,,Italy,Tunisia
+325,616,1929,62236,1000,,Italy,Tunisia
+325,616,1930,194922,1000,,Italy,Tunisia
+325,616,1931,66321,1000,,Italy,Tunisia
+325,616,1932,39.7,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1933,72.59999999999999,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1934,82.2,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1935,74.40000000000001,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1936,34,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1937,79,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1938,68.5,1000000,Millioni Di Lire,Italy,Tunisia
+325,616,1939,60249,1000,Migliala Di Lire,Italy,Tunisia
+325,616,1940,123181,1000,Migliala Di Lire,Italy,Tunisia
+325,616,1941,118827,1000,Migliala Di Lire,Italy,Tunisia
+325,616,1942,0,1000,Migliala Di Lire,Italy,Tunisia
+325,616,1943,0,1000000,,Italy,Tunisia
+325,616,1944,0,1000000,,Italy,Tunisia
+325,616,1945,0,1000000,,Italy,Tunisia
+325,616,1946,0,1000000,,Italy,Tunisia
+325,616,1947,1567.8,1000000,Milioni Di Lire,Italy,Tunisia
+325,616,1948,2290,1000000,Milioni Di Lire,Italy,Tunisia
+325,616,1949,4674,1000000,Milioni Di Lire,Italy,Tunisia
+325,620,1917,0,1000,,Italy,Libya
+325,620,1918,0,1000,,Italy,Libya
+325,620,1919,0,1000,,Italy,Libya
+325,620,1920,0,1000,,Italy,Libya
+325,620,1921,0,1000,,Italy,Libya
+325,620,1922,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1923,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1924,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1925,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1926,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1927,0,1000,Migliaia Di Lire,Italy,Libya
+325,620,1928,0,1000,,Italy,Libya
+325,620,1929,0,1000,,Italy,Libya
+325,620,1930,0,1000,,Italy,Libya
+325,620,1931,0,1000,,Italy,Libya
+325,620,1932,0,1000000,Millioni Di Lire,Italy,Libya
+325,620,1933,0,1000000,Millioni Di Lire,Italy,Libya
+325,620,1934,22.6,1000000,Millioni Di Lire,Italy,Libya
+325,620,1935,33.8,1000000,Millioni Di Lire,Italy,Libya
+325,620,1936,51.4,1000000,Millioni Di Lire,Italy,Libya
+325,620,1937,90.90000000000001,1000000,Millioni Di Lire,Italy,Libya
+325,620,1938,55.4,1000000,Millioni Di Lire,Italy,Libya
+325,620,1939,91416,1000,Migliala Di Lire,Italy,Libya
+325,620,1940,46726,1000,Migliala Di Lire,Italy,Libya
+325,620,1941,78579,1000,Migliala Di Lire,Italy,Libya
+325,620,1942,0,1000,Migliala Di Lire,Italy,Libya
+325,620,1943,0,1000000,,Italy,Libya
+325,620,1944,0,1000000,,Italy,Libya
+325,620,1945,0,1000000,,Italy,Libya
+325,620,1946,0,1000000,,Italy,Libya
+325,620,1947,263.6,1000000,Milioni Di Lire,Italy,Libya
+325,620,1948,1494,1000000,Milioni Di Lire,Italy,Libya
+325,620,1949,2104,1000000,Milioni Di Lire,Italy,Libya
+325,630,1917,12881,1000,,Italy,Iran
+325,630,1918,9707,1000,,Italy,Iran
+325,630,1919,18395,1000,,Italy,Iran
+325,630,1920,74728,1000,,Italy,Iran
+325,630,1921,78247,1000,,Italy,Iran
+325,630,1922,72976,1000,Migliaia Di Lire,Italy,Iran
+325,630,1923,68022,1000,Migliaia Di Lire,Italy,Iran
+325,630,1924,94656,1000,Migliaia Di Lire,Italy,Iran
+325,630,1925,118581,1000,Migliaia Di Lire,Italy,Iran
+325,630,1926,163199,1000,Migliaia Di Lire,Italy,Iran
+325,630,1927,134967,1000,Migliaia Di Lire,Italy,Iran
+325,630,1928,102656,1000,,Italy,Iran
+325,630,1929,113181,1000,,Italy,Iran
+325,630,1930,125460,1000,,Italy,Iran
+325,630,1931,120599,1000,,Italy,Iran
+325,630,1932,0,1000000,Millioni Di Lire,Italy,Iran
+325,630,1933,0,1000000,Millioni Di Lire,Italy,Iran
+325,630,1934,0,1000000,Millioni Di Lire,Italy,Iran
+325,630,1935,0,1000000,Millioni Di Lire,Italy,Iran
+325,630,1936,34.5,1000000,Millioni Di Lire,Italy,Iran
+325,630,1937,99.09999999999999,1000000,Millioni Di Lire,Italy,Iran
+325,630,1938,38.4,1000000,Millioni Di Lire,Italy,Iran
+325,630,1939,21387,1000,Migliala Di Lire,Italy,Iran
+325,630,1940,23869,1000,Migliala Di Lire,Italy,Iran
+325,630,1941,0,1000,Migliala Di Lire,Italy,Iran
+325,630,1942,0,1000,Migliala Di Lire,Italy,Iran
+325,630,1943,0,1000000,,Italy,Iran
+325,630,1944,0,1000000,,Italy,Iran
+325,630,1945,0,1000000,,Italy,Iran
+325,630,1946,0,1000000,,Italy,Iran
+325,630,1947,7312.2,1000000,Milioni Di Lire,Italy,Iran
+325,630,1948,19342,1000000,Milioni Di Lire,Italy,Iran
+325,630,1949,17914,1000000,Milioni Di Lire,Italy,Iran
+325,640,1917,1155,1000,,Italy,Turkey
+325,640,1918,0,1000,,Italy,Turkey
+325,640,1919,53758,1000,,Italy,Turkey
+325,640,1920,68252,1000,,Italy,Turkey
+325,640,1921,25245,1000,,Italy,Turkey
+325,640,1922,45039,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1923,65659,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1924,57689,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1925,84863,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1926,189642,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1927,62413,1000,Migliaia Di Lire,Italy,Turkey
+325,640,1928,83242,1000,,Italy,Turkey
+325,640,1929,67415,1000,,Italy,Turkey
+325,640,1930,88346,1000,,Italy,Turkey
+325,640,1931,63951,1000,,Italy,Turkey
+325,640,1932,52.9,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1933,18.6,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1934,71.5,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1935,85.8,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1936,53.2,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1937,99.8,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1938,189.7,1000000,Millioni Di Lire,Italy,Turkey
+325,640,1939,153493,1000,Migliala Di Lire,Italy,Turkey
+325,640,1940,284317,1000,Migliala Di Lire,Italy,Turkey
+325,640,1941,46440,1000,Migliala Di Lire,Italy,Turkey
+325,640,1942,81288,1000,Migliala Di Lire,Italy,Turkey
+325,640,1943,0,1000000,,Italy,Turkey
+325,640,1944,0,1000000,,Italy,Turkey
+325,640,1945,0,1000000,,Italy,Turkey
+325,640,1946,0,1000000,,Italy,Turkey
+325,640,1947,5982.7,1000000,Milioni Di Lire,Italy,Turkey
+325,640,1948,5284,1000000,Milioni Di Lire,Italy,Turkey
+325,640,1949,3351,1000000,Milioni Di Lire,Italy,Turkey
+325,645,1917,0,1000,,Italy,Iraq
+325,645,1918,0,1000,,Italy,Iraq
+325,645,1919,0,1000,,Italy,Iraq
+325,645,1920,0,1000,,Italy,Iraq
+325,645,1921,0,1000,,Italy,Iraq
+325,645,1922,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1923,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1924,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1925,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1926,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1927,0,1000,Migliaia Di Lire,Italy,Iraq
+325,645,1928,0,1000,,Italy,Iraq
+325,645,1929,0,1000,,Italy,Iraq
+325,645,1930,0,1000,,Italy,Iraq
+325,645,1931,0,1000,,Italy,Iraq
+325,645,1932,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1933,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1934,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1935,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1936,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1937,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1938,0,1000000,Millioni Di Lire,Italy,Iraq
+325,645,1939,29706,1000,Migliala Di Lire,Italy,Iraq
+325,645,1940,23744,1000,Migliala Di Lire,Italy,Iraq
+325,645,1941,0,1000,Migliala Di Lire,Italy,Iraq
+325,645,1942,0,1000,Migliala Di Lire,Italy,Iraq
+325,645,1943,0,1000000,,Italy,Iraq
+325,645,1944,0,1000000,,Italy,Iraq
+325,645,1945,0,1000000,,Italy,Iraq
+325,645,1946,0,1000000,,Italy,Iraq
+325,645,1947,0,1000000,Milioni Di Lire,Italy,Iraq
+325,645,1948,0,1000000,Milioni Di Lire,Italy,Iraq
+325,645,1949,0,1000000,Milioni Di Lire,Italy,Iraq
+325,651,1917,141673,1000,,Italy,Egypt
+325,651,1918,328067,1000,,Italy,Egypt
+325,651,1919,335671,1000,,Italy,Egypt
+325,651,1920,219588,1000,,Italy,Egypt
+325,651,1921,113269,1000,,Italy,Egypt
+325,651,1922,172685,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1923,385856,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1924,412912,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1925,493515,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1926,344846,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1927,250736,1000,Migliaia Di Lire,Italy,Egypt
+325,651,1928,328327,1000,,Italy,Egypt
+325,651,1929,349744,1000,,Italy,Egypt
+325,651,1930,204507,1000,,Italy,Egypt
+325,651,1931,143756,1000,,Italy,Egypt
+325,651,1932,122.7,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1933,127.9,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1934,155.2,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1935,137.1,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1936,85.8,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1937,240.6,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1938,178.7,1000000,Millioni Di Lire,Italy,Egypt
+325,651,1939,129122,1000,Migliala Di Lire,Italy,Egypt
+325,651,1940,114166,1000,Migliala Di Lire,Italy,Egypt
+325,651,1941,0,1000,Migliala Di Lire,Italy,Egypt
+325,651,1942,0,1000,Migliala Di Lire,Italy,Egypt
+325,651,1943,0,1000000,,Italy,Egypt
+325,651,1944,0,1000000,,Italy,Egypt
+325,651,1945,0,1000000,,Italy,Egypt
+325,651,1946,0,1000000,,Italy,Egypt
+325,651,1947,11479.8,1000000,Milioni Di Lire,Italy,Egypt
+325,651,1948,13407,1000000,Milioni Di Lire,Italy,Egypt
+325,651,1949,18919,1000000,Milioni Di Lire,Italy,Egypt
+325,652,1917,0,1000,,Italy,Syria
+325,652,1918,0,1000,,Italy,Syria
+325,652,1919,0,1000,,Italy,Syria
+325,652,1920,0,1000,,Italy,Syria
+325,652,1921,0,1000,,Italy,Syria
+325,652,1922,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1923,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1924,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1925,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1926,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1927,0,1000,Migliaia Di Lire,Italy,Syria
+325,652,1928,0,1000,,Italy,Syria
+325,652,1929,0,1000,,Italy,Syria
+325,652,1930,0,1000,,Italy,Syria
+325,652,1931,0,1000,,Italy,Syria
+325,652,1932,0,1000000,Millioni Di Lire,Italy,Syria
+325,652,1933,0,1000000,Millioni Di Lire,Italy,Syria
+325,652,1934,0,1000000,Millioni Di Lire,Italy,Syria
+325,652,1935,0,1000000,Millioni Di Lire,Italy,Syria
+325,652,1936,0,1000000,Millioni Di Lire,Italy,Syria
+325,652,1937,34.6,1000000,Millioni Di Lire,Italy,Syria
+325,652,1938,27.5,1000000,Millioni Di Lire,Italy,Syria
+325,652,1939,45917,1000,Migliala Di Lire,Italy,Syria
+325,652,1940,645,1000,Migliala Di Lire,Italy,Syria
+325,652,1941,0,1000,Migliala Di Lire,Italy,Syria
+325,652,1942,0,1000,Migliala Di Lire,Italy,Syria
+325,652,1943,0,1000000,,Italy,Syria
+325,652,1944,0,1000000,,Italy,Syria
+325,652,1945,0,1000000,,Italy,Syria
+325,652,1946,0,1000000,,Italy,Syria
+325,652,1947,1353.6,1000000,Milioni Di Lire,Italy,Syria
+325,652,1948,553,1000000,Milioni Di Lire,Italy,Syria
+325,652,1949,1204,1000000,Milioni Di Lire,Italy,Syria
+325,660,1917,0,1000,,Italy,Lebanon
+325,660,1918,0,1000,,Italy,Lebanon
+325,660,1919,0,1000,,Italy,Lebanon
+325,660,1920,0,1000,,Italy,Lebanon
+325,660,1921,0,1000,,Italy,Lebanon
+325,660,1922,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1923,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1924,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1925,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1926,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1927,0,1000,Migliaia Di Lire,Italy,Lebanon
+325,660,1928,0,1000,,Italy,Lebanon
+325,660,1929,0,1000,,Italy,Lebanon
+325,660,1930,0,1000,,Italy,Lebanon
+325,660,1931,0,1000,,Italy,Lebanon
+325,660,1932,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1933,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1934,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1935,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1936,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1937,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1938,0,1000000,Millioni Di Lire,Italy,Lebanon
+325,660,1939,0,1000,Migliala Di Lire,Italy,Lebanon
+325,660,1940,0,1000,Migliala Di Lire,Italy,Lebanon
+325,660,1941,0,1000,Migliala Di Lire,Italy,Lebanon
+325,660,1942,0,1000,Migliala Di Lire,Italy,Lebanon
+325,660,1943,0,1000000,,Italy,Lebanon
+325,660,1944,0,1000000,,Italy,Lebanon
+325,660,1945,0,1000000,,Italy,Lebanon
+325,660,1946,0,1000000,,Italy,Lebanon
+325,660,1947,0,1000000,Milioni Di Lire,Italy,Lebanon
+325,660,1948,0,1000000,Milioni Di Lire,Italy,Lebanon
+325,660,1949,770,1000000,Milioni Di Lire,Italy,Lebanon
+325,665,1917,0,1000,,Italy,West Bank And Gaza
+325,665,1918,0,1000,,Italy,West Bank And Gaza
+325,665,1919,0,1000,,Italy,West Bank And Gaza
+325,665,1920,0,1000,,Italy,West Bank And Gaza
+325,665,1921,0,1000,,Italy,West Bank And Gaza
+325,665,1922,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1923,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1924,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1925,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1926,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1927,0,1000,Migliaia Di Lire,Italy,West Bank And Gaza
+325,665,1928,0,1000,,Italy,West Bank And Gaza
+325,665,1929,0,1000,,Italy,West Bank And Gaza
+325,665,1930,0,1000,,Italy,West Bank And Gaza
+325,665,1931,0,1000,,Italy,West Bank And Gaza
+325,665,1932,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1933,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1934,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1935,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1936,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1937,0,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1938,3,1000000,Millioni Di Lire,Italy,West Bank And Gaza
+325,665,1939,7124,1000,Migliala Di Lire,Italy,West Bank And Gaza
+325,665,1940,292,1000,Migliala Di Lire,Italy,West Bank And Gaza
+325,665,1941,0,1000,Migliala Di Lire,Italy,West Bank And Gaza
+325,665,1942,0,1000,Migliala Di Lire,Italy,West Bank And Gaza
+325,665,1943,0,1000000,,Italy,West Bank And Gaza
+325,665,1944,0,1000000,,Italy,West Bank And Gaza
+325,665,1945,0,1000000,,Italy,West Bank And Gaza
+325,665,1946,0,1000000,,Italy,West Bank And Gaza
+325,665,1947,522.1,1000000,Milioni Di Lire,Italy,West Bank And Gaza
+325,665,1948,1229,1000000,Milioni Di Lire,Italy,West Bank And Gaza
+325,665,1949,40,1000000,Milioni Di Lire,Italy,West Bank And Gaza
+325,681,1917,0,1000,,Italy,Aden
+325,681,1918,0,1000,,Italy,Aden
+325,681,1919,0,1000,,Italy,Aden
+325,681,1920,0,1000,,Italy,Aden
+325,681,1921,0,1000,,Italy,Aden
+325,681,1922,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1923,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1924,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1925,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1926,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1927,0,1000,Migliaia Di Lire,Italy,Aden
+325,681,1928,0,1000,,Italy,Aden
+325,681,1929,0,1000,,Italy,Aden
+325,681,1930,0,1000,,Italy,Aden
+325,681,1931,0,1000,,Italy,Aden
+325,681,1932,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1933,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1934,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1935,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1936,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1937,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1938,0,1000000,Millioni Di Lire,Italy,Aden
+325,681,1939,7,1000,Migliala Di Lire,Italy,Aden
+325,681,1940,63,1000,Migliala Di Lire,Italy,Aden
+325,681,1941,0,1000,Migliala Di Lire,Italy,Aden
+325,681,1942,0,1000,Migliala Di Lire,Italy,Aden
+325,681,1943,0,1000000,,Italy,Aden
+325,681,1944,0,1000000,,Italy,Aden
+325,681,1945,0,1000000,,Italy,Aden
+325,681,1946,0,1000000,,Italy,Aden
+325,681,1947,0,1000000,Milioni Di Lire,Italy,Aden
+325,681,1948,0,1000000,Milioni Di Lire,Italy,Aden
+325,681,1949,0,1000000,Milioni Di Lire,Italy,Aden
+325,710,1917,93054,1000,,Italy,China
+325,710,1918,151749,1000,,Italy,China
+325,710,1919,245763,1000,,Italy,China
+325,710,1920,310636,1000,,Italy,China
+325,710,1921,189788,1000,,Italy,China
+325,710,1922,136441,1000,Migliaia Di Lire,Italy,China
+325,710,1923,201172,1000,Migliaia Di Lire,Italy,China
+325,710,1924,187552,1000,Migliaia Di Lire,Italy,China
+325,710,1925,199824,1000,Migliaia Di Lire,Italy,China
+325,710,1926,256635,1000,Migliaia Di Lire,Italy,China
+325,710,1927,216662,1000,Migliaia Di Lire,Italy,China
+325,710,1928,235223,1000,,Italy,China
+325,710,1929,265025,1000,,Italy,China
+325,710,1930,142676,1000,,Italy,China
+325,710,1931,112326,1000,,Italy,China
+325,710,1932,47.7,1000000,Millioni Di Lire,Italy,China
+325,710,1933,31,1000000,Millioni Di Lire,Italy,China
+325,710,1934,43.3,1000000,Millioni Di Lire,Italy,China
+325,710,1935,72.40000000000001,1000000,Millioni Di Lire,Italy,China
+325,710,1936,23.9,1000000,Millioni Di Lire,Italy,China
+325,710,1937,60,1000000,Millioni Di Lire,Italy,China
+325,710,1938,27.3,1000000,Millioni Di Lire,Italy,China
+325,710,1939,8244,1000,Migliala Di Lire,Italy,China
+325,710,1940,10502,1000,Migliala Di Lire,Italy,China
+325,710,1941,2069,1000,Migliala Di Lire,Italy,China
+325,710,1942,0,1000,Migliala Di Lire,Italy,China
+325,710,1943,0,1000000,,Italy,China
+325,710,1944,0,1000000,,Italy,China
+325,710,1945,0,1000000,,Italy,China
+325,710,1946,0,1000000,,Italy,China
+325,710,1947,608.2,1000000,Milioni Di Lire,Italy,China
+325,710,1948,1064,1000000,Milioni Di Lire,Italy,China
+325,710,1949,2808,1000000,Milioni Di Lire,Italy,China
+325,720,1917,258,1000,,Italy,Hong Kong
+325,720,1918,761,1000,,Italy,Hong Kong
+325,720,1919,82,1000,,Italy,Hong Kong
+325,720,1920,901,1000,,Italy,Hong Kong
+325,720,1921,1521,1000,,Italy,Hong Kong
+325,720,1922,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1923,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1924,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1925,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1926,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1927,0,1000,Migliaia Di Lire,Italy,Hong Kong
+325,720,1928,0,1000,,Italy,Hong Kong
+325,720,1929,0,1000,,Italy,Hong Kong
+325,720,1930,0,1000,,Italy,Hong Kong
+325,720,1931,0,1000,,Italy,Hong Kong
+325,720,1932,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1933,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1934,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1935,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1936,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1937,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1938,0,1000000,Millioni Di Lire,Italy,Hong Kong
+325,720,1939,6,1000,Migliala Di Lire,Italy,Hong Kong
+325,720,1940,19,1000,Migliala Di Lire,Italy,Hong Kong
+325,720,1941,0,1000,Migliala Di Lire,Italy,Hong Kong
+325,720,1942,0,1000,Migliala Di Lire,Italy,Hong Kong
+325,720,1943,0,1000000,,Italy,Hong Kong
+325,720,1944,0,1000000,,Italy,Hong Kong
+325,720,1945,0,1000000,,Italy,Hong Kong
+325,720,1946,0,1000000,,Italy,Hong Kong
+325,720,1947,0,1000000,Milioni Di Lire,Italy,Hong Kong
+325,720,1948,0,1000000,Milioni Di Lire,Italy,Hong Kong
+325,720,1949,0,1000000,Milioni Di Lire,Italy,Hong Kong
+325,740,1917,111524,1000,,Italy,Japan
+325,740,1918,176494,1000,,Italy,Japan
+325,740,1919,145534,1000,,Italy,Japan
+325,740,1920,311978,1000,,Italy,Japan
+325,740,1921,121769,1000,,Italy,Japan
+325,740,1922,183885,1000,Migliaia Di Lire,Italy,Japan
+325,740,1923,59538,1000,Migliaia Di Lire,Italy,Japan
+325,740,1924,192537,1000,Migliaia Di Lire,Italy,Japan
+325,740,1925,155856,1000,Migliaia Di Lire,Italy,Japan
+325,740,1926,142207,1000,Migliaia Di Lire,Italy,Japan
+325,740,1927,121359,1000,Migliaia Di Lire,Italy,Japan
+325,740,1928,123186,1000,,Italy,Japan
+325,740,1929,100141,1000,,Italy,Japan
+325,740,1930,66765,1000,,Italy,Japan
+325,740,1931,42103,1000,,Italy,Japan
+325,740,1932,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1933,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1934,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1935,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1936,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1937,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1938,0,1000000,Millioni Di Lire,Italy,Japan
+325,740,1939,28968,1000,Migliala Di Lire,Italy,Japan
+325,740,1940,20675,1000,Migliala Di Lire,Italy,Japan
+325,740,1941,1939,1000,Migliala Di Lire,Italy,Japan
+325,740,1942,0,1000,Migliala Di Lire,Italy,Japan
+325,740,1943,0,1000000,,Italy,Japan
+325,740,1944,0,1000000,,Italy,Japan
+325,740,1945,0,1000000,,Italy,Japan
+325,740,1946,0,1000000,,Italy,Japan
+325,740,1947,0,1000000,Milioni Di Lire,Italy,Japan
+325,740,1948,0,1000000,Milioni Di Lire,Italy,Japan
+325,740,1949,0,1000000,Milioni Di Lire,Italy,Japan
+325,750,1917,0,1000,,Italy,India
+325,750,1918,0,1000,,Italy,India
+325,750,1919,0,1000,,Italy,India
+325,750,1920,0,1000,,Italy,India
+325,750,1921,0,1000,,Italy,India
+325,750,1922,0,1000,Migliaia Di Lire,Italy,India
+325,750,1923,0,1000,Migliaia Di Lire,Italy,India
+325,750,1924,0,1000,Migliaia Di Lire,Italy,India
+325,750,1925,0,1000,Migliaia Di Lire,Italy,India
+325,750,1926,0,1000,Migliaia Di Lire,Italy,India
+325,750,1927,0,1000,Migliaia Di Lire,Italy,India
+325,750,1928,0,1000,,Italy,India
+325,750,1929,0,1000,,Italy,India
+325,750,1930,0,1000,,Italy,India
+325,750,1931,0,1000,,Italy,India
+325,750,1932,0,1000000,Millioni Di Lire,Italy,India
+325,750,1933,0,1000000,Millioni Di Lire,Italy,India
+325,750,1934,0,1000000,Millioni Di Lire,Italy,India
+325,750,1935,230.2,1000000,Millioni Di Lire,Italy,India
+325,750,1936,138.5,1000000,Millioni Di Lire,Italy,India
+325,750,1937,491.6,1000000,Millioni Di Lire,Italy,India
+325,750,1938,256.5,1000000,Millioni Di Lire,Italy,India
+325,750,1939,123262,1000,Migliala Di Lire,Italy,India
+325,750,1940,139812,1000,Migliala Di Lire,Italy,India
+325,750,1941,0,1000,Migliala Di Lire,Italy,India
+325,750,1942,0,1000,Migliala Di Lire,Italy,India
+325,750,1943,0,1000000,,Italy,India
+325,750,1944,0,1000000,,Italy,India
+325,750,1945,0,1000000,,Italy,India
+325,750,1946,0,1000000,,Italy,India
+325,750,1947,0,1000000,Milioni Di Lire,Italy,India
+325,750,1948,0,1000000,Milioni Di Lire,Italy,India
+325,750,1949,12663,1000000,Milioni Di Lire,Italy,India
+325,770,1917,0,1000,,Italy,Pakistan
+325,770,1918,0,1000,,Italy,Pakistan
+325,770,1919,0,1000,,Italy,Pakistan
+325,770,1920,0,1000,,Italy,Pakistan
+325,770,1921,0,1000,,Italy,Pakistan
+325,770,1922,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1923,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1924,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1925,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1926,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1927,0,1000,Migliaia Di Lire,Italy,Pakistan
+325,770,1928,0,1000,,Italy,Pakistan
+325,770,1929,0,1000,,Italy,Pakistan
+325,770,1930,0,1000,,Italy,Pakistan
+325,770,1931,0,1000,,Italy,Pakistan
+325,770,1932,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1933,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1934,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1935,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1936,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1937,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1938,0,1000000,Millioni Di Lire,Italy,Pakistan
+325,770,1939,0,1000,Migliala Di Lire,Italy,Pakistan
+325,770,1940,0,1000,Migliala Di Lire,Italy,Pakistan
+325,770,1941,0,1000,Migliala Di Lire,Italy,Pakistan
+325,770,1942,0,1000,Migliala Di Lire,Italy,Pakistan
+325,770,1943,0,1000000,,Italy,Pakistan
+325,770,1944,0,1000000,,Italy,Pakistan
+325,770,1945,0,1000000,,Italy,Pakistan
+325,770,1946,0,1000000,,Italy,Pakistan
+325,770,1947,0,1000000,Milioni Di Lire,Italy,Pakistan
+325,770,1948,0,1000000,Milioni Di Lire,Italy,Pakistan
+325,770,1949,2644,1000000,Milioni Di Lire,Italy,Pakistan
+325,775,1917,0,1000,,Italy,Myanmar
+325,775,1918,0,1000,,Italy,Myanmar
+325,775,1919,0,1000,,Italy,Myanmar
+325,775,1920,0,1000,,Italy,Myanmar
+325,775,1921,0,1000,,Italy,Myanmar
+325,775,1922,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1923,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1924,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1925,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1926,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1927,0,1000,Migliaia Di Lire,Italy,Myanmar
+325,775,1928,0,1000,,Italy,Myanmar
+325,775,1929,0,1000,,Italy,Myanmar
+325,775,1930,0,1000,,Italy,Myanmar
+325,775,1931,0,1000,,Italy,Myanmar
+325,775,1932,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1933,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1934,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1935,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1936,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1937,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1938,0,1000000,Millioni Di Lire,Italy,Myanmar
+325,775,1939,5160,1000,Migliala Di Lire,Italy,Myanmar
+325,775,1940,12,1000,Migliala Di Lire,Italy,Myanmar
+325,775,1941,0,1000,Migliala Di Lire,Italy,Myanmar
+325,775,1942,0,1000,Migliala Di Lire,Italy,Myanmar
+325,775,1943,0,1000000,,Italy,Myanmar
+325,775,1944,0,1000000,,Italy,Myanmar
+325,775,1945,0,1000000,,Italy,Myanmar
+325,775,1946,0,1000000,,Italy,Myanmar
+325,775,1947,0,1000000,Milioni Di Lire,Italy,Myanmar
+325,775,1948,0,1000000,Milioni Di Lire,Italy,Myanmar
+325,775,1949,0,1000000,Milioni Di Lire,Italy,Myanmar
+325,780,1917,0,1000,,Italy,Sri Lanka
+325,780,1918,0,1000,,Italy,Sri Lanka
+325,780,1919,0,1000,,Italy,Sri Lanka
+325,780,1920,0,1000,,Italy,Sri Lanka
+325,780,1921,0,1000,,Italy,Sri Lanka
+325,780,1922,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1923,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1924,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1925,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1926,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1927,0,1000,Migliaia Di Lire,Italy,Sri Lanka
+325,780,1928,0,1000,,Italy,Sri Lanka
+325,780,1929,0,1000,,Italy,Sri Lanka
+325,780,1930,0,1000,,Italy,Sri Lanka
+325,780,1931,0,1000,,Italy,Sri Lanka
+325,780,1932,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1933,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1934,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1935,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1936,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1937,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1938,0,1000000,Millioni Di Lire,Italy,Sri Lanka
+325,780,1939,7003,1000,Migliala Di Lire,Italy,Sri Lanka
+325,780,1940,5338,1000,Migliala Di Lire,Italy,Sri Lanka
+325,780,1941,0,1000,Migliala Di Lire,Italy,Sri Lanka
+325,780,1942,0,1000,Migliala Di Lire,Italy,Sri Lanka
+325,780,1943,0,1000000,,Italy,Sri Lanka
+325,780,1944,0,1000000,,Italy,Sri Lanka
+325,780,1945,0,1000000,,Italy,Sri Lanka
+325,780,1946,0,1000000,,Italy,Sri Lanka
+325,780,1947,0,1000000,Milioni Di Lire,Italy,Sri Lanka
+325,780,1948,0,1000000,Milioni Di Lire,Italy,Sri Lanka
+325,780,1949,0,1000000,Milioni Di Lire,Italy,Sri Lanka
+325,800,1917,0,1000,,Italy,Thailand
+325,800,1918,0,1000,,Italy,Thailand
+325,800,1919,0,1000,,Italy,Thailand
+325,800,1920,0,1000,,Italy,Thailand
+325,800,1921,0,1000,,Italy,Thailand
+325,800,1922,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1923,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1924,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1925,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1926,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1927,0,1000,Migliaia Di Lire,Italy,Thailand
+325,800,1928,0,1000,,Italy,Thailand
+325,800,1929,0,1000,,Italy,Thailand
+325,800,1930,0,1000,,Italy,Thailand
+325,800,1931,0,1000,,Italy,Thailand
+325,800,1932,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1933,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1934,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1935,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1936,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1937,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1938,0,1000000,Millioni Di Lire,Italy,Thailand
+325,800,1939,2235,1000,Migliala Di Lire,Italy,Thailand
+325,800,1940,3928,1000,Migliala Di Lire,Italy,Thailand
+325,800,1941,0,1000,Migliala Di Lire,Italy,Thailand
+325,800,1942,0,1000,Migliala Di Lire,Italy,Thailand
+325,800,1943,0,1000000,,Italy,Thailand
+325,800,1944,0,1000000,,Italy,Thailand
+325,800,1945,0,1000000,,Italy,Thailand
+325,800,1946,0,1000000,,Italy,Thailand
+325,800,1947,0,1000000,Milioni Di Lire,Italy,Thailand
+325,800,1948,0,1000000,Milioni Di Lire,Italy,Thailand
+325,800,1949,0,1000000,Milioni Di Lire,Italy,Thailand
+325,820,1917,48462,1000,,Italy,Malaysia
+325,820,1918,60654,1000,,Italy,Malaysia
+325,820,1919,100498,1000,,Italy,Malaysia
+325,820,1920,139099,1000,,Italy,Malaysia
+325,820,1921,54229,1000,,Italy,Malaysia
+325,820,1922,48824,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1923,99516,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1924,119809,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1925,234602,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1926,196859,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1927,123263,1000,Migliaia Di Lire,Italy,Malaysia
+325,820,1928,88067,1000,,Italy,Malaysia
+325,820,1929,101190,1000,,Italy,Malaysia
+325,820,1930,88092,1000,,Italy,Malaysia
+325,820,1931,53706,1000,,Italy,Malaysia
+325,820,1932,0,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1933,0,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1934,44.6,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1935,128.3,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1936,49,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1937,255.8,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1938,209.5,1000000,Millioni Di Lire,Italy,Malaysia
+325,820,1939,123054,1000,Migliala Di Lire,Italy,Malaysia
+325,820,1940,124862,1000,Migliala Di Lire,Italy,Malaysia
+325,820,1941,0,1000,Migliala Di Lire,Italy,Malaysia
+325,820,1942,0,1000,Migliala Di Lire,Italy,Malaysia
+325,820,1943,0,1000000,,Italy,Malaysia
+325,820,1944,0,1000000,,Italy,Malaysia
+325,820,1945,0,1000000,,Italy,Malaysia
+325,820,1946,0,1000000,,Italy,Malaysia
+325,820,1947,1283.8,1000000,Milioni Di Lire,Italy,Malaysia
+325,820,1948,5764,1000000,Milioni Di Lire,Italy,Malaysia
+325,820,1949,8237,1000000,Milioni Di Lire,Italy,Malaysia
+325,850,1917,0,1000,,Italy,Indonesia
+325,850,1918,0,1000,,Italy,Indonesia
+325,850,1919,0,1000,,Italy,Indonesia
+325,850,1920,0,1000,,Italy,Indonesia
+325,850,1921,0,1000,,Italy,Indonesia
+325,850,1922,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1923,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1924,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1925,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1926,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1927,0,1000,Migliaia Di Lire,Italy,Indonesia
+325,850,1928,0,1000,,Italy,Indonesia
+325,850,1929,0,1000,,Italy,Indonesia
+325,850,1930,0,1000,,Italy,Indonesia
+325,850,1931,0,1000,,Italy,Indonesia
+325,850,1932,0,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1933,0,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1934,0,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1935,66.8,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1936,36.9,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1937,106.9,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1938,111.3,1000000,Millioni Di Lire,Italy,Indonesia
+325,850,1939,99219,1000,Migliala Di Lire,Italy,Indonesia
+325,850,1940,165279,1000,Migliala Di Lire,Italy,Indonesia
+325,850,1941,13353,1000,Migliala Di Lire,Italy,Indonesia
+325,850,1942,0,1000,Migliala Di Lire,Italy,Indonesia
+325,850,1943,0,1000000,,Italy,Indonesia
+325,850,1944,0,1000000,,Italy,Indonesia
+325,850,1945,0,1000000,,Italy,Indonesia
+325,850,1946,0,1000000,,Italy,Indonesia
+325,850,1947,1049.9,1000000,Milioni Di Lire,Italy,Indonesia
+325,850,1948,1301,1000000,Milioni Di Lire,Italy,Indonesia
+325,850,1949,1216,1000000,Milioni Di Lire,Italy,Indonesia
+325,900,1917,688102,1000,,Italy,Australia
+325,900,1918,132432,1000,,Italy,Australia
+325,900,1919,563994,1000,,Italy,Australia
+325,900,1920,505339,1000,,Italy,Australia
+325,900,1921,507428,1000,,Italy,Australia
+325,900,1922,870562,1000,Migliaia Di Lire,Italy,Australia
+325,900,1923,653304,1000,Migliaia Di Lire,Italy,Australia
+325,900,1924,591113,1000,Migliaia Di Lire,Italy,Australia
+325,900,1925,1244895,1000,Migliaia Di Lire,Italy,Australia
+325,900,1926,661884,1000,Migliaia Di Lire,Italy,Australia
+325,900,1927,748357,1000,Migliaia Di Lire,Italy,Australia
+325,900,1928,625483,1000,,Italy,Australia
+325,900,1929,501119,1000,,Italy,Australia
+325,900,1930,423290,1000,,Italy,Australia
+325,900,1931,314436,1000,,Italy,Australia
+325,900,1932,259,1000000,Millioni Di Lire,Italy,Australia
+325,900,1933,205.1,1000000,Millioni Di Lire,Italy,Australia
+325,900,1934,234.4,1000000,Millioni Di Lire,Italy,Australia
+325,900,1935,66.59999999999999,1000000,Millioni Di Lire,Italy,Australia
+325,900,1936,58,1000000,Millioni Di Lire,Italy,Australia
+325,900,1937,475,1000000,Millioni Di Lire,Italy,Australia
+325,900,1938,215.7,1000000,Millioni Di Lire,Italy,Australia
+325,900,1939,89540,1000,Migliala Di Lire,Italy,Australia
+325,900,1940,26233,1000,Migliala Di Lire,Italy,Australia
+325,900,1941,0,1000,Migliala Di Lire,Italy,Australia
+325,900,1942,0,1000,Migliala Di Lire,Italy,Australia
+325,900,1943,0,1000000,,Italy,Australia
+325,900,1944,0,1000000,,Italy,Australia
+325,900,1945,0,1000000,,Italy,Australia
+325,900,1946,0,1000000,,Italy,Australia
+325,900,1947,13239.9,1000000,Milioni Di Lire,Italy,Australia
+325,900,1948,33209,1000000,Milioni Di Lire,Italy,Australia
+325,900,1949,48129,1000000,Milioni Di Lire,Italy,Australia
+325,920,1917,0,1000,,Italy,New Zealand
+325,920,1918,0,1000,,Italy,New Zealand
+325,920,1919,0,1000,,Italy,New Zealand
+325,920,1920,0,1000,,Italy,New Zealand
+325,920,1921,0,1000,,Italy,New Zealand
+325,920,1922,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1923,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1924,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1925,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1926,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1927,0,1000,Migliaia Di Lire,Italy,New Zealand
+325,920,1928,0,1000,,Italy,New Zealand
+325,920,1929,0,1000,,Italy,New Zealand
+325,920,1930,0,1000,,Italy,New Zealand
+325,920,1931,0,1000,,Italy,New Zealand
+325,920,1932,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1933,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1934,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1935,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1936,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1937,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1938,0,1000000,Millioni Di Lire,Italy,New Zealand
+325,920,1939,8,1000,Migliala Di Lire,Italy,New Zealand
+325,920,1940,1,1000,Migliala Di Lire,Italy,New Zealand
+325,920,1941,0,1000,Migliala Di Lire,Italy,New Zealand
+325,920,1942,0,1000,Migliala Di Lire,Italy,New Zealand
+325,920,1943,0,1000000,,Italy,New Zealand
+325,920,1944,0,1000000,,Italy,New Zealand
+325,920,1945,0,1000000,,Italy,New Zealand
+325,920,1946,0,1000000,,Italy,New Zealand
+325,920,1947,728.7,1000000,Milioni Di Lire,Italy,New Zealand
+325,920,1948,2253,1000000,Milioni Di Lire,Italy,New Zealand
+325,920,1949,3375,1000000,Milioni Di Lire,Italy,New Zealand
+325,1065,1917,0,1000,,Italy,Curacao
+325,1065,1918,0,1000,,Italy,Curacao
+325,1065,1919,0,1000,,Italy,Curacao
+325,1065,1920,0,1000,,Italy,Curacao
+325,1065,1921,0,1000,,Italy,Curacao
+325,1065,1922,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1923,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1924,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1925,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1926,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1927,0,1000,Migliaia Di Lire,Italy,Curacao
+325,1065,1928,0,1000,,Italy,Curacao
+325,1065,1929,0,1000,,Italy,Curacao
+325,1065,1930,0,1000,,Italy,Curacao
+325,1065,1931,0,1000,,Italy,Curacao
+325,1065,1932,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1933,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1934,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1935,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1936,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1937,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1938,0,1000000,Millioni Di Lire,Italy,Curacao
+325,1065,1939,65919,1000,Migliala Di Lire,Italy,Curacao
+325,1065,1940,114547,1000,Migliala Di Lire,Italy,Curacao
+325,1065,1941,0,1000,Migliala Di Lire,Italy,Curacao
+325,1065,1942,0,1000,Migliala Di Lire,Italy,Curacao
+325,1065,1943,0,1000000,,Italy,Curacao
+325,1065,1944,0,1000000,,Italy,Curacao
+325,1065,1945,0,1000000,,Italy,Curacao
+325,1065,1946,0,1000000,,Italy,Curacao
+325,1065,1947,0,1000000,Milioni Di Lire,Italy,Curacao
+325,1065,1948,0,1000000,Milioni Di Lire,Italy,Curacao
+325,1065,1949,0,1000000,Milioni Di Lire,Italy,Curacao
+325,3353,1917,911,1000,,Italy,Dodecanese
+325,3353,1918,48,1000,,Italy,Dodecanese
+325,3353,1919,622,1000,,Italy,Dodecanese
+325,3353,1920,0,1000,,Italy,Dodecanese
+325,3353,1921,0,1000,,Italy,Dodecanese
+325,3353,1922,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1923,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1924,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1925,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1926,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1927,0,1000,Migliaia Di Lire,Italy,Dodecanese
+325,3353,1928,0,1000,,Italy,Dodecanese
+325,3353,1929,0,1000,,Italy,Dodecanese
+325,3353,1930,0,1000,,Italy,Dodecanese
+325,3353,1931,0,1000,,Italy,Dodecanese
+325,3353,1932,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1933,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1934,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1935,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1936,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1937,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1938,0,1000000,Millioni Di Lire,Italy,Dodecanese
+325,3353,1939,0,1000,Migliala Di Lire,Italy,Dodecanese
+325,3353,1940,0,1000,Migliala Di Lire,Italy,Dodecanese
+325,3353,1941,0,1000,Migliala Di Lire,Italy,Dodecanese
+325,3353,1942,0,1000,Migliala Di Lire,Italy,Dodecanese
+325,3353,1943,0,1000000,,Italy,Dodecanese
+325,3353,1944,0,1000000,,Italy,Dodecanese
+325,3353,1945,0,1000000,,Italy,Dodecanese
+325,3353,1946,0,1000000,,Italy,Dodecanese
+325,3353,1947,299.3,1000000,Milioni Di Lire,Italy,Dodecanese
+325,3353,1948,0,1000000,Milioni Di Lire,Italy,Dodecanese
+325,3353,1949,0,1000000,Milioni Di Lire,Italy,Dodecanese
+325,,1917,15657823,1000,,Italy,
+325,,1918,17458909,1000,,Italy,
+325,,1919,17549474,1000,,Italy,
+325,,1920,28556772,1000,,Italy,
+325,,1921,17975112,1000,,Italy,
+325,,1922,16835191,1000,Migliaia Di Lire,Italy,
+325,,1923,18552542,1000,Migliaia Di Lire,Italy,
+325,,1924,21385172,1000,Migliaia Di Lire,Italy,
+325,,1925,29053054,1000,Migliaia Di Lire,Italy,
+325,,1926,28788339,1000,Migliaia Di Lire,Italy,
+325,,1927,22564697,1000,Migliaia Di Lire,Italy,
+325,,1928,24176835,1000,,Italy,
+325,,1929,23557412,1000,,Italy,
+325,,1930,19000007,1000,,Italy,
+325,,1931,12876851,1000,,Italy,
+325,,1932,9791.599999999997,1000000,Millioni Di Lire,Italy,
+325,,1933,8983.999999999998,1000000,Millioni Di Lire,Italy,
+325,,1934,9100,1000000,Millioni Di Lire,Italy,
+325,,1935,8840.6,1000000,Millioni Di Lire,Italy,
+325,,1936,6606.399999999998,1000000,Millioni Di Lire,Italy,
+325,,1937,15196.6,1000000,Millioni Di Lire,Italy,
+325,,1938,12286.8,1000000,Millioni Di Lire,Italy,
+325,,1939,10968228,1000,Migliala Di Lire,Italy,
+325,,1940,14037253,1000,Migliala Di Lire,Italy,
+325,,1941,11759582,1000,Migliala Di Lire,Italy,
+325,,1942,15692155,1000,Migliala Di Lire,Italy,
+325,,1943,0,1000000,,Italy,
+325,,1944,0,1000000,,Italy,
+325,,1945,0,1000000,,Italy,
+325,,1946,0,1000000,,Italy,
+325,,1947,460383.0999999999,1000000,Milioni Di Lire,Italy,
+325,,1948,933924,1000000,Milioni Di Lire,Italy,
+325,,1949,975011,1000000,Milioni Di Lire,Italy,

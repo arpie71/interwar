@@ -1,0 +1,2237 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+130,2,1904,4897848,,,Ecuador,United States
+130,2,1905,4542242,,,Ecuador,United States
+130,2,1916,11017017,1,Sucres,Ecuador,United States
+130,2,1917,12205897,1,Sucres,Ecuador,United States
+130,2,1918,9532430,1,Sucres,Ecuador,United States
+130,2,1919,16812770,1,Sucres,Ecuador,United States
+130,2,1920,25424972,1,Sucres,Ecuador,United States
+130,2,1921,8945710,1,Sucres,Ecuador,United States
+130,2,1922,15523230,1,Sucres,Ecuador,United States
+130,2,1923,14615144,1,Sucres,Ecuador,United States
+130,2,1924,20956403,1,Sucres,Ecuador,United States
+130,2,1925,24774278,1,Sucres,Ecuador,United States
+130,2,1926,19956,1000,Sucres,Ecuador,United States
+130,2,1929,34645616,1,,Ecuador,United States
+130,2,1930,25685527,1,,Ecuador,United States
+130,2,1938,51311200,1,Sucres,Ecuador,United States
+130,2,1939,71949632,1,Sucres,Ecuador,United States
+130,2,1940,103213884,1,Sucres,Ecuador,United States
+130,2,1941,110421800,1,Sucres,Ecuador,United States
+130,2,1942,138729163,1,Sucres,Ecuador,United States
+130,2,1943,7872136,1,$,Ecuador,United States
+130,2,1944,12944967,1,$,Ecuador,United States
+130,2,1945,14094376,1,$,Ecuador,United States
+130,2,1946,240232.5,1000,Sucres,Ecuador,United States
+130,2,1947,429905546,1,Sucres,Ecuador,United States
+130,2,1948,412802698,1,Sucres,Ecuador,United States
+130,2,1949,421580269,1,Sucres,Ecuador,United States
+130,6,1916,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1917,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1918,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1919,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1920,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1921,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1922,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1923,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1924,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1925,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1926,0,1000,Sucres,Ecuador,Puerto Rico
+130,6,1929,0,1,,Ecuador,Puerto Rico
+130,6,1930,0,1,,Ecuador,Puerto Rico
+130,6,1938,1740,1,Sucres,Ecuador,Puerto Rico
+130,6,1939,648,1,Sucres,Ecuador,Puerto Rico
+130,6,1940,503,1,Sucres,Ecuador,Puerto Rico
+130,6,1941,1076,1,Sucres,Ecuador,Puerto Rico
+130,6,1942,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1943,0,1,$,Ecuador,Puerto Rico
+130,6,1944,0,1,$,Ecuador,Puerto Rico
+130,6,1945,0,1,$,Ecuador,Puerto Rico
+130,6,1946,105.9,1000,Sucres,Ecuador,Puerto Rico
+130,6,1947,8384,1,Sucres,Ecuador,Puerto Rico
+130,6,1948,0,1,Sucres,Ecuador,Puerto Rico
+130,6,1949,68793,1,Sucres,Ecuador,Puerto Rico
+130,20,1916,0,1,Sucres,Ecuador,Canada
+130,20,1917,0,1,Sucres,Ecuador,Canada
+130,20,1918,0,1,Sucres,Ecuador,Canada
+130,20,1919,0,1,Sucres,Ecuador,Canada
+130,20,1920,0,1,Sucres,Ecuador,Canada
+130,20,1921,0,1,Sucres,Ecuador,Canada
+130,20,1922,0,1,Sucres,Ecuador,Canada
+130,20,1923,0,1,Sucres,Ecuador,Canada
+130,20,1924,0,1,Sucres,Ecuador,Canada
+130,20,1925,0,1,Sucres,Ecuador,Canada
+130,20,1926,5,1000,Sucres,Ecuador,Canada
+130,20,1929,0,1,,Ecuador,Canada
+130,20,1930,0,1,,Ecuador,Canada
+130,20,1938,673697,1,Sucres,Ecuador,Canada
+130,20,1939,550621,1,Sucres,Ecuador,Canada
+130,20,1940,2436489,1,Sucres,Ecuador,Canada
+130,20,1941,1814984,1,Sucres,Ecuador,Canada
+130,20,1942,3257840,1,Sucres,Ecuador,Canada
+130,20,1943,0,1,$,Ecuador,Canada
+130,20,1944,165257,1,$,Ecuador,Canada
+130,20,1945,159748,1,$,Ecuador,Canada
+130,20,1946,12177.5,1000,Sucres,Ecuador,Canada
+130,20,1947,20912069,1,Sucres,Ecuador,Canada
+130,20,1948,1204925,1,Sucres,Ecuador,Canada
+130,20,1949,6449841,1,Sucres,Ecuador,Canada
+130,21,1916,0,1,Sucres,Ecuador,Newfoundland
+130,21,1917,0,1,Sucres,Ecuador,Newfoundland
+130,21,1918,0,1,Sucres,Ecuador,Newfoundland
+130,21,1919,0,1,Sucres,Ecuador,Newfoundland
+130,21,1920,0,1,Sucres,Ecuador,Newfoundland
+130,21,1921,0,1,Sucres,Ecuador,Newfoundland
+130,21,1922,0,1,Sucres,Ecuador,Newfoundland
+130,21,1923,0,1,Sucres,Ecuador,Newfoundland
+130,21,1924,0,1,Sucres,Ecuador,Newfoundland
+130,21,1925,0,1,Sucres,Ecuador,Newfoundland
+130,21,1926,0,1000,Sucres,Ecuador,Newfoundland
+130,21,1929,0,1,,Ecuador,Newfoundland
+130,21,1930,0,1,,Ecuador,Newfoundland
+130,21,1938,0,1,Sucres,Ecuador,Newfoundland
+130,21,1939,0,1,Sucres,Ecuador,Newfoundland
+130,21,1940,65413,1,Sucres,Ecuador,Newfoundland
+130,21,1941,429289,1,Sucres,Ecuador,Newfoundland
+130,21,1942,92748,1,Sucres,Ecuador,Newfoundland
+130,21,1943,0,1,$,Ecuador,Newfoundland
+130,21,1944,0,1,$,Ecuador,Newfoundland
+130,21,1945,0,1,$,Ecuador,Newfoundland
+130,21,1946,0,1000,Sucres,Ecuador,Newfoundland
+130,21,1947,0,1,Sucres,Ecuador,Newfoundland
+130,21,1948,0,1,Sucres,Ecuador,Newfoundland
+130,21,1949,0,1,Sucres,Ecuador,Newfoundland
+130,40,1904,3741,,,Ecuador,Cuba
+130,40,1905,2331,,,Ecuador,Cuba
+130,40,1916,16151,1,Sucres,Ecuador,Cuba
+130,40,1917,23684,1,Sucres,Ecuador,Cuba
+130,40,1918,23759,1,Sucres,Ecuador,Cuba
+130,40,1919,16725,1,Sucres,Ecuador,Cuba
+130,40,1920,13104,1,Sucres,Ecuador,Cuba
+130,40,1921,22626,1,Sucres,Ecuador,Cuba
+130,40,1922,454,1,Sucres,Ecuador,Cuba
+130,40,1923,2156,1,Sucres,Ecuador,Cuba
+130,40,1924,388,1,Sucres,Ecuador,Cuba
+130,40,1925,97000,1,Sucres,Ecuador,Cuba
+130,40,1926,173,1000,Sucres,Ecuador,Cuba
+130,40,1929,0,1,,Ecuador,Cuba
+130,40,1930,0,1,,Ecuador,Cuba
+130,40,1938,4143697,1,Sucres,Ecuador,Cuba
+130,40,1939,3041877,1,Sucres,Ecuador,Cuba
+130,40,1940,8384,1,Sucres,Ecuador,Cuba
+130,40,1941,98901,1,Sucres,Ecuador,Cuba
+130,40,1942,13998,1,Sucres,Ecuador,Cuba
+130,40,1943,0,1,$,Ecuador,Cuba
+130,40,1944,0,1,$,Ecuador,Cuba
+130,40,1945,1754582,1,$,Ecuador,Cuba
+130,40,1946,8011,1000,Sucres,Ecuador,Cuba
+130,40,1947,209920,1,Sucres,Ecuador,Cuba
+130,40,1948,54410,1,Sucres,Ecuador,Cuba
+130,40,1949,283359,1,Sucres,Ecuador,Cuba
+130,41,1916,0,1,Sucres,Ecuador,Haiti
+130,41,1917,0,1,Sucres,Ecuador,Haiti
+130,41,1918,0,1,Sucres,Ecuador,Haiti
+130,41,1919,0,1,Sucres,Ecuador,Haiti
+130,41,1920,0,1,Sucres,Ecuador,Haiti
+130,41,1921,0,1,Sucres,Ecuador,Haiti
+130,41,1922,0,1,Sucres,Ecuador,Haiti
+130,41,1923,0,1,Sucres,Ecuador,Haiti
+130,41,1924,0,1,Sucres,Ecuador,Haiti
+130,41,1925,0,1,Sucres,Ecuador,Haiti
+130,41,1926,0,1000,Sucres,Ecuador,Haiti
+130,41,1929,0,1,,Ecuador,Haiti
+130,41,1930,0,1,,Ecuador,Haiti
+130,41,1938,0,1,Sucres,Ecuador,Haiti
+130,41,1939,0,1,Sucres,Ecuador,Haiti
+130,41,1940,4400,1,Sucres,Ecuador,Haiti
+130,41,1941,0,1,Sucres,Ecuador,Haiti
+130,41,1942,0,1,Sucres,Ecuador,Haiti
+130,41,1943,0,1,$,Ecuador,Haiti
+130,41,1944,0,1,$,Ecuador,Haiti
+130,41,1945,0,1,$,Ecuador,Haiti
+130,41,1946,.6,1000,Sucres,Ecuador,Haiti
+130,41,1947,6493,1,Sucres,Ecuador,Haiti
+130,41,1948,0,1,Sucres,Ecuador,Haiti
+130,41,1949,0,1,Sucres,Ecuador,Haiti
+130,42,1916,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1917,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1918,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1919,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1920,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1921,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1922,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1923,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1924,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1925,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1926,0,1000,Sucres,Ecuador,Dominican Republic
+130,42,1929,0,1,,Ecuador,Dominican Republic
+130,42,1930,0,1,,Ecuador,Dominican Republic
+130,42,1938,514,1,Sucres,Ecuador,Dominican Republic
+130,42,1939,486,1,Sucres,Ecuador,Dominican Republic
+130,42,1940,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1941,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1942,28,1,Sucres,Ecuador,Dominican Republic
+130,42,1943,0,1,$,Ecuador,Dominican Republic
+130,42,1944,0,1,$,Ecuador,Dominican Republic
+130,42,1945,0,1,$,Ecuador,Dominican Republic
+130,42,1946,1.4,1000,Sucres,Ecuador,Dominican Republic
+130,42,1947,333,1,Sucres,Ecuador,Dominican Republic
+130,42,1948,0,1,Sucres,Ecuador,Dominican Republic
+130,42,1949,0,1,Sucres,Ecuador,Dominican Republic
+130,51,1916,0,1,Sucres,Ecuador,Jamaica
+130,51,1917,0,1,Sucres,Ecuador,Jamaica
+130,51,1918,410,1,Sucres,Ecuador,Jamaica
+130,51,1919,0,1,Sucres,Ecuador,Jamaica
+130,51,1920,0,1,Sucres,Ecuador,Jamaica
+130,51,1921,0,1,Sucres,Ecuador,Jamaica
+130,51,1922,0,1,Sucres,Ecuador,Jamaica
+130,51,1923,1093,1,Sucres,Ecuador,Jamaica
+130,51,1924,13419,1,Sucres,Ecuador,Jamaica
+130,51,1925,500,1,Sucres,Ecuador,Jamaica
+130,51,1926,0,1000,Sucres,Ecuador,Jamaica
+130,51,1929,0,1,,Ecuador,Jamaica
+130,51,1930,0,1,,Ecuador,Jamaica
+130,51,1938,29304,1,Sucres,Ecuador,Jamaica
+130,51,1939,11915,1,Sucres,Ecuador,Jamaica
+130,51,1940,46446,1,Sucres,Ecuador,Jamaica
+130,51,1941,18,1,Sucres,Ecuador,Jamaica
+130,51,1942,409,1,Sucres,Ecuador,Jamaica
+130,51,1943,0,1,$,Ecuador,Jamaica
+130,51,1944,0,1,$,Ecuador,Jamaica
+130,51,1945,0,1,$,Ecuador,Jamaica
+130,51,1946,55.1,1000,Sucres,Ecuador,Jamaica
+130,51,1947,44066,1,Sucres,Ecuador,Jamaica
+130,51,1948,6644,1,Sucres,Ecuador,Jamaica
+130,51,1949,0,1,Sucres,Ecuador,Jamaica
+130,52,1916,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1917,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1918,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1919,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1920,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1921,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1922,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1923,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1924,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1925,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1926,0,1000,Sucres,Ecuador,Trinidad And Tobago
+130,52,1929,0,1,,Ecuador,Trinidad And Tobago
+130,52,1930,0,1,,Ecuador,Trinidad And Tobago
+130,52,1938,1702,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1939,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1940,14244,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1941,8194,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1942,0,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1943,0,1,$,Ecuador,Trinidad And Tobago
+130,52,1944,0,1,$,Ecuador,Trinidad And Tobago
+130,52,1945,0,1,$,Ecuador,Trinidad And Tobago
+130,52,1946,80.09999999999999,1000,Sucres,Ecuador,Trinidad And Tobago
+130,52,1947,40344,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1948,145271,1,Sucres,Ecuador,Trinidad And Tobago
+130,52,1949,197028,1,Sucres,Ecuador,Trinidad And Tobago
+130,53,1916,0,1,Sucres,Ecuador,Barbados
+130,53,1917,0,1,Sucres,Ecuador,Barbados
+130,53,1918,0,1,Sucres,Ecuador,Barbados
+130,53,1919,0,1,Sucres,Ecuador,Barbados
+130,53,1920,0,1,Sucres,Ecuador,Barbados
+130,53,1921,0,1,Sucres,Ecuador,Barbados
+130,53,1922,0,1,Sucres,Ecuador,Barbados
+130,53,1923,0,1,Sucres,Ecuador,Barbados
+130,53,1924,0,1,Sucres,Ecuador,Barbados
+130,53,1925,0,1,Sucres,Ecuador,Barbados
+130,53,1926,0,1000,Sucres,Ecuador,Barbados
+130,53,1929,0,1,,Ecuador,Barbados
+130,53,1930,0,1,,Ecuador,Barbados
+130,53,1938,42,1,Sucres,Ecuador,Barbados
+130,53,1939,0,1,Sucres,Ecuador,Barbados
+130,53,1940,0,1,Sucres,Ecuador,Barbados
+130,53,1941,0,1,Sucres,Ecuador,Barbados
+130,53,1942,0,1,Sucres,Ecuador,Barbados
+130,53,1943,0,1,$,Ecuador,Barbados
+130,53,1944,0,1,$,Ecuador,Barbados
+130,53,1945,0,1,$,Ecuador,Barbados
+130,53,1946,0,1000,Sucres,Ecuador,Barbados
+130,53,1947,0,1,Sucres,Ecuador,Barbados
+130,53,1948,0,1,Sucres,Ecuador,Barbados
+130,53,1949,0,1,Sucres,Ecuador,Barbados
+130,70,1916,0,1,Sucres,Ecuador,Mexico
+130,70,1917,0,1,Sucres,Ecuador,Mexico
+130,70,1918,0,1,Sucres,Ecuador,Mexico
+130,70,1919,0,1,Sucres,Ecuador,Mexico
+130,70,1920,0,1,Sucres,Ecuador,Mexico
+130,70,1921,156,1,Sucres,Ecuador,Mexico
+130,70,1922,300,1,Sucres,Ecuador,Mexico
+130,70,1923,0,1,Sucres,Ecuador,Mexico
+130,70,1924,0,1,Sucres,Ecuador,Mexico
+130,70,1925,0,1,Sucres,Ecuador,Mexico
+130,70,1926,0,1000,Sucres,Ecuador,Mexico
+130,70,1929,0,1,,Ecuador,Mexico
+130,70,1930,0,1,,Ecuador,Mexico
+130,70,1938,31146,1,Sucres,Ecuador,Mexico
+130,70,1939,67956,1,Sucres,Ecuador,Mexico
+130,70,1940,245266,1,Sucres,Ecuador,Mexico
+130,70,1941,994589,1,Sucres,Ecuador,Mexico
+130,70,1942,1515674,1,Sucres,Ecuador,Mexico
+130,70,1943,276265,1,$,Ecuador,Mexico
+130,70,1944,1656650,1,$,Ecuador,Mexico
+130,70,1945,472559,1,$,Ecuador,Mexico
+130,70,1946,5955.8,1000,Sucres,Ecuador,Mexico
+130,70,1947,3471524,1,Sucres,Ecuador,Mexico
+130,70,1948,4444961,1,Sucres,Ecuador,Mexico
+130,70,1949,465862,1,Sucres,Ecuador,Mexico
+130,90,1916,0,1,Sucres,Ecuador,Guatemala
+130,90,1917,0,1,Sucres,Ecuador,Guatemala
+130,90,1918,0,1,Sucres,Ecuador,Guatemala
+130,90,1919,4000,1,Sucres,Ecuador,Guatemala
+130,90,1920,0,1,Sucres,Ecuador,Guatemala
+130,90,1921,0,1,Sucres,Ecuador,Guatemala
+130,90,1922,0,1,Sucres,Ecuador,Guatemala
+130,90,1923,0,1,Sucres,Ecuador,Guatemala
+130,90,1924,0,1,Sucres,Ecuador,Guatemala
+130,90,1925,0,1,Sucres,Ecuador,Guatemala
+130,90,1926,0,1000,Sucres,Ecuador,Guatemala
+130,90,1929,0,1,,Ecuador,Guatemala
+130,90,1930,0,1,,Ecuador,Guatemala
+130,90,1938,2991,1,Sucres,Ecuador,Guatemala
+130,90,1939,4068,1,Sucres,Ecuador,Guatemala
+130,90,1940,63317,1,Sucres,Ecuador,Guatemala
+130,90,1941,3621,1,Sucres,Ecuador,Guatemala
+130,90,1942,1837,1,Sucres,Ecuador,Guatemala
+130,90,1943,0,1,$,Ecuador,Guatemala
+130,90,1944,0,1,$,Ecuador,Guatemala
+130,90,1945,0,1,$,Ecuador,Guatemala
+130,90,1946,3.5,1000,Sucres,Ecuador,Guatemala
+130,90,1947,9092,1,Sucres,Ecuador,Guatemala
+130,90,1948,0,1,Sucres,Ecuador,Guatemala
+130,90,1949,45872,1,Sucres,Ecuador,Guatemala
+130,91,1916,0,1,Sucres,Ecuador,Honduras
+130,91,1917,0,1,Sucres,Ecuador,Honduras
+130,91,1918,0,1,Sucres,Ecuador,Honduras
+130,91,1919,0,1,Sucres,Ecuador,Honduras
+130,91,1920,0,1,Sucres,Ecuador,Honduras
+130,91,1921,0,1,Sucres,Ecuador,Honduras
+130,91,1922,0,1,Sucres,Ecuador,Honduras
+130,91,1923,0,1,Sucres,Ecuador,Honduras
+130,91,1924,25343,1,Sucres,Ecuador,Honduras
+130,91,1925,4000,1,Sucres,Ecuador,Honduras
+130,91,1926,0,1000,Sucres,Ecuador,Honduras
+130,91,1929,0,1,,Ecuador,Honduras
+130,91,1930,0,1,,Ecuador,Honduras
+130,91,1938,2220,1,Sucres,Ecuador,Honduras
+130,91,1939,0,1,Sucres,Ecuador,Honduras
+130,91,1940,487,1,Sucres,Ecuador,Honduras
+130,91,1941,206,1,Sucres,Ecuador,Honduras
+130,91,1942,20,1,Sucres,Ecuador,Honduras
+130,91,1943,0,1,$,Ecuador,Honduras
+130,91,1944,0,1,$,Ecuador,Honduras
+130,91,1945,0,1,$,Ecuador,Honduras
+130,91,1946,0,1000,Sucres,Ecuador,Honduras
+130,91,1947,3353,1,Sucres,Ecuador,Honduras
+130,91,1948,0,1,Sucres,Ecuador,Honduras
+130,91,1949,0,1,Sucres,Ecuador,Honduras
+130,92,1904,30661,,,Ecuador,El Salvador
+130,92,1905,12572,,,Ecuador,El Salvador
+130,92,1916,13000,1,Sucres,Ecuador,El Salvador
+130,92,1917,47402,1,Sucres,Ecuador,El Salvador
+130,92,1918,27844,1,Sucres,Ecuador,El Salvador
+130,92,1919,14500,1,Sucres,Ecuador,El Salvador
+130,92,1920,76857,1,Sucres,Ecuador,El Salvador
+130,92,1921,28579,1,Sucres,Ecuador,El Salvador
+130,92,1922,6680,1,Sucres,Ecuador,El Salvador
+130,92,1923,13208,1,Sucres,Ecuador,El Salvador
+130,92,1924,23328,1,Sucres,Ecuador,El Salvador
+130,92,1925,4200,1,Sucres,Ecuador,El Salvador
+130,92,1926,0,1000,Sucres,Ecuador,El Salvador
+130,92,1929,0,1,,Ecuador,El Salvador
+130,92,1930,0,1,,Ecuador,El Salvador
+130,92,1938,31663,1,Sucres,Ecuador,El Salvador
+130,92,1939,8218,1,Sucres,Ecuador,El Salvador
+130,92,1940,20142,1,Sucres,Ecuador,El Salvador
+130,92,1941,61537,1,Sucres,Ecuador,El Salvador
+130,92,1942,49292,1,Sucres,Ecuador,El Salvador
+130,92,1943,0,1,$,Ecuador,El Salvador
+130,92,1944,0,1,$,Ecuador,El Salvador
+130,92,1945,0,1,$,Ecuador,El Salvador
+130,92,1946,63.2,1000,Sucres,Ecuador,El Salvador
+130,92,1947,17584,1,Sucres,Ecuador,El Salvador
+130,92,1948,6258019,1,Sucres,Ecuador,El Salvador
+130,92,1949,15377,1,Sucres,Ecuador,El Salvador
+130,93,1916,0,1,Sucres,Ecuador,Nicaragua
+130,93,1917,0,1,Sucres,Ecuador,Nicaragua
+130,93,1918,0,1,Sucres,Ecuador,Nicaragua
+130,93,1919,0,1,Sucres,Ecuador,Nicaragua
+130,93,1920,0,1,Sucres,Ecuador,Nicaragua
+130,93,1921,0,1,Sucres,Ecuador,Nicaragua
+130,93,1922,0,1,Sucres,Ecuador,Nicaragua
+130,93,1923,0,1,Sucres,Ecuador,Nicaragua
+130,93,1924,0,1,Sucres,Ecuador,Nicaragua
+130,93,1925,0,1,Sucres,Ecuador,Nicaragua
+130,93,1926,0,1000,Sucres,Ecuador,Nicaragua
+130,93,1929,0,1,,Ecuador,Nicaragua
+130,93,1930,0,1,,Ecuador,Nicaragua
+130,93,1938,15333,1,Sucres,Ecuador,Nicaragua
+130,93,1939,6972,1,Sucres,Ecuador,Nicaragua
+130,93,1940,24,1,Sucres,Ecuador,Nicaragua
+130,93,1941,0,1,Sucres,Ecuador,Nicaragua
+130,93,1942,0,1,Sucres,Ecuador,Nicaragua
+130,93,1943,0,1,$,Ecuador,Nicaragua
+130,93,1944,0,1,$,Ecuador,Nicaragua
+130,93,1945,0,1,$,Ecuador,Nicaragua
+130,93,1946,5.1,1000,Sucres,Ecuador,Nicaragua
+130,93,1947,1861,1,Sucres,Ecuador,Nicaragua
+130,93,1948,30375,1,Sucres,Ecuador,Nicaragua
+130,93,1949,0,1,Sucres,Ecuador,Nicaragua
+130,94,1904,110,,,Ecuador,Costa Rica
+130,94,1916,0,1,Sucres,Ecuador,Costa Rica
+130,94,1917,0,1,Sucres,Ecuador,Costa Rica
+130,94,1918,0,1,Sucres,Ecuador,Costa Rica
+130,94,1919,0,1,Sucres,Ecuador,Costa Rica
+130,94,1920,0,1,Sucres,Ecuador,Costa Rica
+130,94,1921,0,1,Sucres,Ecuador,Costa Rica
+130,94,1922,0,1,Sucres,Ecuador,Costa Rica
+130,94,1923,0,1,Sucres,Ecuador,Costa Rica
+130,94,1924,0,1,Sucres,Ecuador,Costa Rica
+130,94,1925,0,1,Sucres,Ecuador,Costa Rica
+130,94,1926,0,1000,Sucres,Ecuador,Costa Rica
+130,94,1929,0,1,,Ecuador,Costa Rica
+130,94,1930,0,1,,Ecuador,Costa Rica
+130,94,1938,8018,1,Sucres,Ecuador,Costa Rica
+130,94,1939,3932,1,Sucres,Ecuador,Costa Rica
+130,94,1940,3115,1,Sucres,Ecuador,Costa Rica
+130,94,1941,5952,1,Sucres,Ecuador,Costa Rica
+130,94,1942,1521,1,Sucres,Ecuador,Costa Rica
+130,94,1943,0,1,$,Ecuador,Costa Rica
+130,94,1944,0,1,$,Ecuador,Costa Rica
+130,94,1945,0,1,$,Ecuador,Costa Rica
+130,94,1946,42.4,1000,Sucres,Ecuador,Costa Rica
+130,94,1947,88892,1,Sucres,Ecuador,Costa Rica
+130,94,1948,9344,1,Sucres,Ecuador,Costa Rica
+130,94,1949,21212,1,Sucres,Ecuador,Costa Rica
+130,95,1916,26760,1,Sucres,Ecuador,Panama
+130,95,1917,186769,1,Sucres,Ecuador,Panama
+130,95,1918,98702,1,Sucres,Ecuador,Panama
+130,95,1919,131100,1,Sucres,Ecuador,Panama
+130,95,1920,74897,1,Sucres,Ecuador,Panama
+130,95,1921,96194,1,Sucres,Ecuador,Panama
+130,95,1922,141469,1,Sucres,Ecuador,Panama
+130,95,1923,63813,1,Sucres,Ecuador,Panama
+130,95,1924,220429,1,Sucres,Ecuador,Panama
+130,95,1925,426517,1,Sucres,Ecuador,Panama
+130,95,1926,0,1000,Sucres,Ecuador,Panama
+130,95,1929,0,1,,Ecuador,Panama
+130,95,1930,0,1,,Ecuador,Panama
+130,95,1938,110656,1,Sucres,Ecuador,Panama
+130,95,1939,144403,1,Sucres,Ecuador,Panama
+130,95,1940,79927,1,Sucres,Ecuador,Panama
+130,95,1941,27351,1,Sucres,Ecuador,Panama
+130,95,1942,43971,1,Sucres,Ecuador,Panama
+130,95,1943,0,1,$,Ecuador,Panama
+130,95,1944,0,1,$,Ecuador,Panama
+130,95,1945,93517,1,$,Ecuador,Panama
+130,95,1946,171.7,1000,Sucres,Ecuador,Panama
+130,95,1947,237261,1,Sucres,Ecuador,Panama
+130,95,1948,2716180,1,Sucres,Ecuador,Panama
+130,95,1949,2771366,1,Sucres,Ecuador,Panama
+130,96,1916,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1917,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1918,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1919,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1920,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1921,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1922,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1923,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1924,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1925,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1926,0,1000,Sucres,Ecuador,Panama Canal Zone
+130,96,1929,0,1,,Ecuador,Panama Canal Zone
+130,96,1930,0,1,,Ecuador,Panama Canal Zone
+130,96,1938,69556,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1939,76530,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1940,20465,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1941,2528,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1942,3913,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1943,0,1,$,Ecuador,Panama Canal Zone
+130,96,1944,0,1,$,Ecuador,Panama Canal Zone
+130,96,1945,0,1,$,Ecuador,Panama Canal Zone
+130,96,1946,5.9,1000,Sucres,Ecuador,Panama Canal Zone
+130,96,1947,21017,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1948,0,1,Sucres,Ecuador,Panama Canal Zone
+130,96,1949,0,1,Sucres,Ecuador,Panama Canal Zone
+130,100,1904,2069,,,Ecuador,Colombia
+130,100,1905,52310,,,Ecuador,Colombia
+130,100,1916,70282,1,Sucres,Ecuador,Colombia
+130,100,1917,89758,1,Sucres,Ecuador,Colombia
+130,100,1918,110040,1,Sucres,Ecuador,Colombia
+130,100,1919,11350,1,Sucres,Ecuador,Colombia
+130,100,1920,65140,1,Sucres,Ecuador,Colombia
+130,100,1921,82937,1,Sucres,Ecuador,Colombia
+130,100,1922,80803,1,Sucres,Ecuador,Colombia
+130,100,1923,20315,1,Sucres,Ecuador,Colombia
+130,100,1924,5608,1,Sucres,Ecuador,Colombia
+130,100,1925,36288,1,Sucres,Ecuador,Colombia
+130,100,1926,37,1000,Sucres,Ecuador,Colombia
+130,100,1929,0,1,,Ecuador,Colombia
+130,100,1930,0,1,,Ecuador,Colombia
+130,100,1938,163692,1,Sucres,Ecuador,Colombia
+130,100,1939,457361,1,Sucres,Ecuador,Colombia
+130,100,1940,2497713,1,Sucres,Ecuador,Colombia
+130,100,1941,612144,1,Sucres,Ecuador,Colombia
+130,100,1942,733339,1,Sucres,Ecuador,Colombia
+130,100,1943,85056,1,$,Ecuador,Colombia
+130,100,1944,459863,1,$,Ecuador,Colombia
+130,100,1945,535383,1,$,Ecuador,Colombia
+130,100,1946,16683.8,1000,Sucres,Ecuador,Colombia
+130,100,1947,11980580,1,Sucres,Ecuador,Colombia
+130,100,1948,132213,1,Sucres,Ecuador,Colombia
+130,100,1949,89361,1,Sucres,Ecuador,Colombia
+130,101,1916,0,1,Sucres,Ecuador,Venezuela
+130,101,1917,0,1,Sucres,Ecuador,Venezuela
+130,101,1918,0,1,Sucres,Ecuador,Venezuela
+130,101,1919,0,1,Sucres,Ecuador,Venezuela
+130,101,1920,0,1,Sucres,Ecuador,Venezuela
+130,101,1921,411,1,Sucres,Ecuador,Venezuela
+130,101,1922,0,1,Sucres,Ecuador,Venezuela
+130,101,1923,1842,1,Sucres,Ecuador,Venezuela
+130,101,1924,2558,1,Sucres,Ecuador,Venezuela
+130,101,1925,0,1,Sucres,Ecuador,Venezuela
+130,101,1926,0,1000,Sucres,Ecuador,Venezuela
+130,101,1929,0,1,,Ecuador,Venezuela
+130,101,1930,0,1,,Ecuador,Venezuela
+130,101,1938,2794,1,Sucres,Ecuador,Venezuela
+130,101,1939,10437,1,Sucres,Ecuador,Venezuela
+130,101,1940,11151,1,Sucres,Ecuador,Venezuela
+130,101,1941,10017,1,Sucres,Ecuador,Venezuela
+130,101,1942,12911,1,Sucres,Ecuador,Venezuela
+130,101,1943,0,1,$,Ecuador,Venezuela
+130,101,1944,0,1,$,Ecuador,Venezuela
+130,101,1945,20765,1,$,Ecuador,Venezuela
+130,101,1946,295.6,1000,Sucres,Ecuador,Venezuela
+130,101,1947,307880,1,Sucres,Ecuador,Venezuela
+130,101,1948,81993,1,Sucres,Ecuador,Venezuela
+130,101,1949,68847,1,Sucres,Ecuador,Venezuela
+130,110,1916,0,1,Sucres,Ecuador,Guyana
+130,110,1917,0,1,Sucres,Ecuador,Guyana
+130,110,1918,0,1,Sucres,Ecuador,Guyana
+130,110,1919,0,1,Sucres,Ecuador,Guyana
+130,110,1920,0,1,Sucres,Ecuador,Guyana
+130,110,1921,0,1,Sucres,Ecuador,Guyana
+130,110,1922,0,1,Sucres,Ecuador,Guyana
+130,110,1923,0,1,Sucres,Ecuador,Guyana
+130,110,1924,0,1,Sucres,Ecuador,Guyana
+130,110,1925,0,1,Sucres,Ecuador,Guyana
+130,110,1926,0,1000,Sucres,Ecuador,Guyana
+130,110,1929,0,1,,Ecuador,Guyana
+130,110,1930,0,1,,Ecuador,Guyana
+130,110,1938,0,1,Sucres,Ecuador,Guyana
+130,110,1939,346,1,Sucres,Ecuador,Guyana
+130,110,1940,0,1,Sucres,Ecuador,Guyana
+130,110,1941,261,1,Sucres,Ecuador,Guyana
+130,110,1942,0,1,Sucres,Ecuador,Guyana
+130,110,1943,0,1,$,Ecuador,Guyana
+130,110,1944,0,1,$,Ecuador,Guyana
+130,110,1945,0,1,$,Ecuador,Guyana
+130,110,1946,0,1000,Sucres,Ecuador,Guyana
+130,110,1947,0,1,Sucres,Ecuador,Guyana
+130,110,1948,0,1,Sucres,Ecuador,Guyana
+130,110,1949,0,1,Sucres,Ecuador,Guyana
+130,115,1916,0,1,Sucres,Ecuador,Suriname
+130,115,1917,0,1,Sucres,Ecuador,Suriname
+130,115,1918,0,1,Sucres,Ecuador,Suriname
+130,115,1919,0,1,Sucres,Ecuador,Suriname
+130,115,1920,0,1,Sucres,Ecuador,Suriname
+130,115,1921,0,1,Sucres,Ecuador,Suriname
+130,115,1922,0,1,Sucres,Ecuador,Suriname
+130,115,1923,0,1,Sucres,Ecuador,Suriname
+130,115,1924,0,1,Sucres,Ecuador,Suriname
+130,115,1925,0,1,Sucres,Ecuador,Suriname
+130,115,1926,0,1000,Sucres,Ecuador,Suriname
+130,115,1929,0,1,,Ecuador,Suriname
+130,115,1930,0,1,,Ecuador,Suriname
+130,115,1938,0,1,Sucres,Ecuador,Suriname
+130,115,1939,35,1,Sucres,Ecuador,Suriname
+130,115,1940,0,1,Sucres,Ecuador,Suriname
+130,115,1941,0,1,Sucres,Ecuador,Suriname
+130,115,1942,0,1,Sucres,Ecuador,Suriname
+130,115,1943,0,1,$,Ecuador,Suriname
+130,115,1944,0,1,$,Ecuador,Suriname
+130,115,1945,0,1,$,Ecuador,Suriname
+130,115,1946,8.5,1000,Sucres,Ecuador,Suriname
+130,115,1947,3,1,Sucres,Ecuador,Suriname
+130,115,1948,0,1,Sucres,Ecuador,Suriname
+130,115,1949,0,1,Sucres,Ecuador,Suriname
+130,135,1904,359452,,,Ecuador,Peru
+130,135,1905,473799,,,Ecuador,Peru
+130,135,1916,315557,1,Sucres,Ecuador,Peru
+130,135,1917,524205,1,Sucres,Ecuador,Peru
+130,135,1918,462997,1,Sucres,Ecuador,Peru
+130,135,1919,657767,1,Sucres,Ecuador,Peru
+130,135,1920,965394,1,Sucres,Ecuador,Peru
+130,135,1921,935997,1,Sucres,Ecuador,Peru
+130,135,1922,1261915,1,Sucres,Ecuador,Peru
+130,135,1923,1285620,1,Sucres,Ecuador,Peru
+130,135,1924,1361617,1,Sucres,Ecuador,Peru
+130,135,1925,1918280,1,Sucres,Ecuador,Peru
+130,135,1926,1495,1000,Sucres,Ecuador,Peru
+130,135,1929,1634218,1,,Ecuador,Peru
+130,135,1930,1523681,1,,Ecuador,Peru
+130,135,1938,2108510,1,Sucres,Ecuador,Peru
+130,135,1939,3788655,1,Sucres,Ecuador,Peru
+130,135,1940,1773532,1,Sucres,Ecuador,Peru
+130,135,1941,2352152,1,Sucres,Ecuador,Peru
+130,135,1942,7949232,1,Sucres,Ecuador,Peru
+130,135,1943,646868,1,$,Ecuador,Peru
+130,135,1944,2104426,1,$,Ecuador,Peru
+130,135,1945,881320,1,$,Ecuador,Peru
+130,135,1946,15589.8,1000,Sucres,Ecuador,Peru
+130,135,1947,18762936,1,Sucres,Ecuador,Peru
+130,135,1948,11120030,1,Sucres,Ecuador,Peru
+130,135,1949,7187563,1,Sucres,Ecuador,Peru
+130,140,1916,0,1,Sucres,Ecuador,Brazil
+130,140,1917,12000,1,Sucres,Ecuador,Brazil
+130,140,1918,0,1,Sucres,Ecuador,Brazil
+130,140,1919,0,1,Sucres,Ecuador,Brazil
+130,140,1920,0,1,Sucres,Ecuador,Brazil
+130,140,1921,0,1,Sucres,Ecuador,Brazil
+130,140,1922,0,1,Sucres,Ecuador,Brazil
+130,140,1923,0,1,Sucres,Ecuador,Brazil
+130,140,1924,0,1,Sucres,Ecuador,Brazil
+130,140,1925,0,1,Sucres,Ecuador,Brazil
+130,140,1926,0,1000,Sucres,Ecuador,Brazil
+130,140,1929,0,1,,Ecuador,Brazil
+130,140,1930,0,1,,Ecuador,Brazil
+130,140,1938,323619,1,Sucres,Ecuador,Brazil
+130,140,1939,236961,1,Sucres,Ecuador,Brazil
+130,140,1940,957131,1,Sucres,Ecuador,Brazil
+130,140,1941,2990873,1,Sucres,Ecuador,Brazil
+130,140,1942,8492382,1,Sucres,Ecuador,Brazil
+130,140,1943,1357880,1,$,Ecuador,Brazil
+130,140,1944,810142,1,$,Ecuador,Brazil
+130,140,1945,1630311,1,$,Ecuador,Brazil
+130,140,1946,10573.7,1000,Sucres,Ecuador,Brazil
+130,140,1947,3120512,1,Sucres,Ecuador,Brazil
+130,140,1948,8851899,1,Sucres,Ecuador,Brazil
+130,140,1949,1142191,1,Sucres,Ecuador,Brazil
+130,145,1916,0,1,Sucres,Ecuador,Bolivia
+130,145,1917,0,1,Sucres,Ecuador,Bolivia
+130,145,1918,0,1,Sucres,Ecuador,Bolivia
+130,145,1919,0,1,Sucres,Ecuador,Bolivia
+130,145,1920,0,1,Sucres,Ecuador,Bolivia
+130,145,1921,1000,1,Sucres,Ecuador,Bolivia
+130,145,1922,0,1,Sucres,Ecuador,Bolivia
+130,145,1923,0,1,Sucres,Ecuador,Bolivia
+130,145,1924,0,1,Sucres,Ecuador,Bolivia
+130,145,1925,0,1,Sucres,Ecuador,Bolivia
+130,145,1926,0,1000,Sucres,Ecuador,Bolivia
+130,145,1929,0,1,,Ecuador,Bolivia
+130,145,1930,0,1,,Ecuador,Bolivia
+130,145,1938,5197,1,Sucres,Ecuador,Bolivia
+130,145,1939,1609,1,Sucres,Ecuador,Bolivia
+130,145,1940,1766,1,Sucres,Ecuador,Bolivia
+130,145,1941,618,1,Sucres,Ecuador,Bolivia
+130,145,1942,894,1,Sucres,Ecuador,Bolivia
+130,145,1943,0,1,$,Ecuador,Bolivia
+130,145,1944,0,1,$,Ecuador,Bolivia
+130,145,1945,0,1,$,Ecuador,Bolivia
+130,145,1946,.7,1000,Sucres,Ecuador,Bolivia
+130,145,1947,952,1,Sucres,Ecuador,Bolivia
+130,145,1948,0,1,Sucres,Ecuador,Bolivia
+130,145,1949,0,1,Sucres,Ecuador,Bolivia
+130,150,1916,0,1,Sucres,Ecuador,Paraguay
+130,150,1917,0,1,Sucres,Ecuador,Paraguay
+130,150,1918,0,1,Sucres,Ecuador,Paraguay
+130,150,1919,0,1,Sucres,Ecuador,Paraguay
+130,150,1920,0,1,Sucres,Ecuador,Paraguay
+130,150,1921,0,1,Sucres,Ecuador,Paraguay
+130,150,1922,0,1,Sucres,Ecuador,Paraguay
+130,150,1923,0,1,Sucres,Ecuador,Paraguay
+130,150,1924,0,1,Sucres,Ecuador,Paraguay
+130,150,1925,0,1,Sucres,Ecuador,Paraguay
+130,150,1926,0,1000,Sucres,Ecuador,Paraguay
+130,150,1929,0,1,,Ecuador,Paraguay
+130,150,1930,0,1,,Ecuador,Paraguay
+130,150,1938,0,1,Sucres,Ecuador,Paraguay
+130,150,1939,755,1,Sucres,Ecuador,Paraguay
+130,150,1940,283,1,Sucres,Ecuador,Paraguay
+130,150,1941,30,1,Sucres,Ecuador,Paraguay
+130,150,1942,310743,1,Sucres,Ecuador,Paraguay
+130,150,1943,0,1,$,Ecuador,Paraguay
+130,150,1944,0,1,$,Ecuador,Paraguay
+130,150,1945,0,1,$,Ecuador,Paraguay
+130,150,1946,0,1000,Sucres,Ecuador,Paraguay
+130,150,1947,0,1,Sucres,Ecuador,Paraguay
+130,150,1948,0,1,Sucres,Ecuador,Paraguay
+130,150,1949,0,1,Sucres,Ecuador,Paraguay
+130,155,1904,24452,,,Ecuador,Chile
+130,155,1905,246511,,,Ecuador,Chile
+130,155,1916,147143,1,Sucres,Ecuador,Chile
+130,155,1917,340328,1,Sucres,Ecuador,Chile
+130,155,1918,1292617,1,Sucres,Ecuador,Chile
+130,155,1919,986496,1,Sucres,Ecuador,Chile
+130,155,1920,864121,1,Sucres,Ecuador,Chile
+130,155,1921,484791,1,Sucres,Ecuador,Chile
+130,155,1922,112022,1,Sucres,Ecuador,Chile
+130,155,1923,410554,1,Sucres,Ecuador,Chile
+130,155,1924,552237,1,Sucres,Ecuador,Chile
+130,155,1925,724555,1,Sucres,Ecuador,Chile
+130,155,1926,378,1000,Sucres,Ecuador,Chile
+130,155,1929,0,1,,Ecuador,Chile
+130,155,1930,0,1,,Ecuador,Chile
+130,155,1938,2309740,1,Sucres,Ecuador,Chile
+130,155,1939,1959031,1,Sucres,Ecuador,Chile
+130,155,1940,2475657,1,Sucres,Ecuador,Chile
+130,155,1941,3015752,1,Sucres,Ecuador,Chile
+130,155,1942,4734940,1,Sucres,Ecuador,Chile
+130,155,1943,565580,1,$,Ecuador,Chile
+130,155,1944,536325,1,$,Ecuador,Chile
+130,155,1945,1069167,1,$,Ecuador,Chile
+130,155,1946,15564,1000,Sucres,Ecuador,Chile
+130,155,1947,14754588,1,Sucres,Ecuador,Chile
+130,155,1948,11200649,1,Sucres,Ecuador,Chile
+130,155,1949,6149474,1,Sucres,Ecuador,Chile
+130,160,1916,0,1,Sucres,Ecuador,Argentina
+130,160,1917,1408,1,Sucres,Ecuador,Argentina
+130,160,1918,0,1,Sucres,Ecuador,Argentina
+130,160,1919,1800,1,Sucres,Ecuador,Argentina
+130,160,1920,11526,1,Sucres,Ecuador,Argentina
+130,160,1921,0,1,Sucres,Ecuador,Argentina
+130,160,1922,720,1,Sucres,Ecuador,Argentina
+130,160,1923,3116,1,Sucres,Ecuador,Argentina
+130,160,1924,33810,1,Sucres,Ecuador,Argentina
+130,160,1925,0,1,Sucres,Ecuador,Argentina
+130,160,1926,0,1000,Sucres,Ecuador,Argentina
+130,160,1929,0,1,,Ecuador,Argentina
+130,160,1930,0,1,,Ecuador,Argentina
+130,160,1938,506879,1,Sucres,Ecuador,Argentina
+130,160,1939,500191,1,Sucres,Ecuador,Argentina
+130,160,1940,1437614,1,Sucres,Ecuador,Argentina
+130,160,1941,5565215,1,Sucres,Ecuador,Argentina
+130,160,1942,20668480,1,Sucres,Ecuador,Argentina
+130,160,1943,4558199,1,$,Ecuador,Argentina
+130,160,1944,1892315,1,$,Ecuador,Argentina
+130,160,1945,2641530,1,$,Ecuador,Argentina
+130,160,1946,33033.9,1000,Sucres,Ecuador,Argentina
+130,160,1947,6485878,1,Sucres,Ecuador,Argentina
+130,160,1948,1999290,1,Sucres,Ecuador,Argentina
+130,160,1949,291445,1,Sucres,Ecuador,Argentina
+130,165,1916,1653,1,Sucres,Ecuador,Uruguay
+130,165,1917,480,1,Sucres,Ecuador,Uruguay
+130,165,1918,8833,1,Sucres,Ecuador,Uruguay
+130,165,1919,0,1,Sucres,Ecuador,Uruguay
+130,165,1920,7099,1,Sucres,Ecuador,Uruguay
+130,165,1921,15648,1,Sucres,Ecuador,Uruguay
+130,165,1922,2785,1,Sucres,Ecuador,Uruguay
+130,165,1923,1630,1,Sucres,Ecuador,Uruguay
+130,165,1924,11614,1,Sucres,Ecuador,Uruguay
+130,165,1925,9369,1,Sucres,Ecuador,Uruguay
+130,165,1926,0,1000,Sucres,Ecuador,Uruguay
+130,165,1929,0,1,,Ecuador,Uruguay
+130,165,1930,0,1,,Ecuador,Uruguay
+130,165,1938,0,1,Sucres,Ecuador,Uruguay
+130,165,1939,325,1,Sucres,Ecuador,Uruguay
+130,165,1940,4190,1,Sucres,Ecuador,Uruguay
+130,165,1941,5645,1,Sucres,Ecuador,Uruguay
+130,165,1942,342723,1,Sucres,Ecuador,Uruguay
+130,165,1943,73382,1,$,Ecuador,Uruguay
+130,165,1944,192804,1,$,Ecuador,Uruguay
+130,165,1945,293958,1,$,Ecuador,Uruguay
+130,165,1946,3612.4,1000,Sucres,Ecuador,Uruguay
+130,165,1947,6035031,1,Sucres,Ecuador,Uruguay
+130,165,1948,4568153,1,Sucres,Ecuador,Uruguay
+130,165,1949,406571,1,Sucres,Ecuador,Uruguay
+130,201,1904,4009757,,,Ecuador,England
+130,201,1905,4558547,,,Ecuador,England
+130,201,1916,4878602,1,Sucres,Ecuador,England
+130,201,1917,5047648,1,Sucres,Ecuador,England
+130,201,1918,3887415,1,Sucres,Ecuador,England
+130,201,1919,3150186,1,Sucres,Ecuador,England
+130,201,1920,9829014,1,Sucres,Ecuador,England
+130,201,1921,6158307,1,Sucres,Ecuador,England
+130,201,1922,8474045,1,Sucres,Ecuador,England
+130,201,1923,8626891,1,Sucres,Ecuador,England
+130,201,1924,12106609,1,Sucres,Ecuador,England
+130,201,1925,11716424,1,Sucres,Ecuador,England
+130,201,1926,10631,1000,Sucres,Ecuador,England
+130,201,1929,16215138,1,,Ecuador,England
+130,201,1930,11635458,1,,Ecuador,England
+130,201,1938,11461907,1,Sucres,Ecuador,England
+130,201,1939,8093892,1,Sucres,Ecuador,England
+130,201,1940,12979758,1,Sucres,Ecuador,England
+130,201,1941,10123627,1,Sucres,Ecuador,England
+130,201,1942,8108122,1,Sucres,Ecuador,England
+130,201,1943,750513,1,$,Ecuador,England
+130,201,1944,1159126,1,$,Ecuador,England
+130,201,1945,909974,1,$,Ecuador,England
+130,201,1946,28392.4,1000,Sucres,Ecuador,England
+130,201,1947,40983345,1,Sucres,Ecuador,England
+130,201,1948,35595847,1,Sucres,Ecuador,England
+130,201,1949,31036181,1,Sucres,Ecuador,England
+130,202,1916,36615,1,Sucres,Ecuador,Scotland
+130,202,1917,13306,1,Sucres,Ecuador,Scotland
+130,202,1918,44304,1,Sucres,Ecuador,Scotland
+130,202,1919,125032,1,Sucres,Ecuador,Scotland
+130,202,1920,261212,1,Sucres,Ecuador,Scotland
+130,202,1921,693335,1,Sucres,Ecuador,Scotland
+130,202,1922,1079655,1,Sucres,Ecuador,Scotland
+130,202,1923,421363,1,Sucres,Ecuador,Scotland
+130,202,1924,806101,1,Sucres,Ecuador,Scotland
+130,202,1925,285360,1,Sucres,Ecuador,Scotland
+130,202,1926,0,1000,Sucres,Ecuador,Scotland
+130,202,1929,0,1,,Ecuador,Scotland
+130,202,1930,0,1,,Ecuador,Scotland
+130,202,1938,0,1,Sucres,Ecuador,Scotland
+130,202,1939,0,1,Sucres,Ecuador,Scotland
+130,202,1940,0,1,Sucres,Ecuador,Scotland
+130,202,1941,0,1,Sucres,Ecuador,Scotland
+130,202,1942,0,1,Sucres,Ecuador,Scotland
+130,202,1943,0,1,$,Ecuador,Scotland
+130,202,1944,0,1,$,Ecuador,Scotland
+130,202,1945,0,1,$,Ecuador,Scotland
+130,202,1946,0,1000,Sucres,Ecuador,Scotland
+130,202,1947,0,1,Sucres,Ecuador,Scotland
+130,202,1948,0,1,Sucres,Ecuador,Scotland
+130,202,1949,0,1,Sucres,Ecuador,Scotland
+130,205,1916,0,1,Sucres,Ecuador,Ireland
+130,205,1917,0,1,Sucres,Ecuador,Ireland
+130,205,1918,0,1,Sucres,Ecuador,Ireland
+130,205,1919,0,1,Sucres,Ecuador,Ireland
+130,205,1920,1086,1,Sucres,Ecuador,Ireland
+130,205,1921,806,1,Sucres,Ecuador,Ireland
+130,205,1922,0,1,Sucres,Ecuador,Ireland
+130,205,1923,0,1,Sucres,Ecuador,Ireland
+130,205,1924,359,1,Sucres,Ecuador,Ireland
+130,205,1925,317730,1,Sucres,Ecuador,Ireland
+130,205,1926,0,1000,Sucres,Ecuador,Ireland
+130,205,1929,0,1,,Ecuador,Ireland
+130,205,1930,0,1,,Ecuador,Ireland
+130,205,1938,0,1,Sucres,Ecuador,Ireland
+130,205,1939,0,1,Sucres,Ecuador,Ireland
+130,205,1940,0,1,Sucres,Ecuador,Ireland
+130,205,1941,0,1,Sucres,Ecuador,Ireland
+130,205,1942,0,1,Sucres,Ecuador,Ireland
+130,205,1943,0,1,$,Ecuador,Ireland
+130,205,1944,0,1,$,Ecuador,Ireland
+130,205,1945,0,1,$,Ecuador,Ireland
+130,205,1946,0,1000,Sucres,Ecuador,Ireland
+130,205,1947,0,1,Sucres,Ecuador,Ireland
+130,205,1948,0,1,Sucres,Ecuador,Ireland
+130,205,1949,0,1,Sucres,Ecuador,Ireland
+130,210,1904,95,,,Ecuador,Netherlands
+130,210,1905,510,,,Ecuador,Netherlands
+130,210,1916,50059,1,Sucres,Ecuador,Netherlands
+130,210,1917,33762,1,Sucres,Ecuador,Netherlands
+130,210,1918,32235,1,Sucres,Ecuador,Netherlands
+130,210,1919,72026,1,Sucres,Ecuador,Netherlands
+130,210,1920,265336,1,Sucres,Ecuador,Netherlands
+130,210,1921,127456,1,Sucres,Ecuador,Netherlands
+130,210,1922,249622,1,Sucres,Ecuador,Netherlands
+130,210,1923,337367,1,Sucres,Ecuador,Netherlands
+130,210,1924,1662093,1,Sucres,Ecuador,Netherlands
+130,210,1925,877966,1,Sucres,Ecuador,Netherlands
+130,210,1926,725,1000,Sucres,Ecuador,Netherlands
+130,210,1929,0,1,,Ecuador,Netherlands
+130,210,1930,0,1,,Ecuador,Netherlands
+130,210,1938,1435485,1,Sucres,Ecuador,Netherlands
+130,210,1939,1661332,1,Sucres,Ecuador,Netherlands
+130,210,1940,1544831,1,Sucres,Ecuador,Netherlands
+130,210,1941,25648,1,Sucres,Ecuador,Netherlands
+130,210,1942,395,1,Sucres,Ecuador,Netherlands
+130,210,1943,0,1,$,Ecuador,Netherlands
+130,210,1944,0,1,$,Ecuador,Netherlands
+130,210,1945,10910,1,$,Ecuador,Netherlands
+130,210,1946,85.09999999999999,1000,Sucres,Ecuador,Netherlands
+130,210,1947,1032388,1,Sucres,Ecuador,Netherlands
+130,210,1948,5620697,1,Sucres,Ecuador,Netherlands
+130,210,1949,8443698,1,Sucres,Ecuador,Netherlands
+130,211,1904,587940,,,Ecuador,Belgium
+130,211,1905,457182,,,Ecuador,Belgium
+130,211,1916,1088,1,Sucres,Ecuador,Belgium
+130,211,1917,0,1,Sucres,Ecuador,Belgium
+130,211,1918,0,1,Sucres,Ecuador,Belgium
+130,211,1919,0,1,Sucres,Ecuador,Belgium
+130,211,1920,577310,1,Sucres,Ecuador,Belgium
+130,211,1921,414293,1,Sucres,Ecuador,Belgium
+130,211,1922,737662,1,Sucres,Ecuador,Belgium
+130,211,1923,1288911,1,Sucres,Ecuador,Belgium
+130,211,1924,1622738,1,Sucres,Ecuador,Belgium
+130,211,1925,1607859,1,Sucres,Ecuador,Belgium
+130,211,1926,2036,1000,Sucres,Ecuador,Belgium
+130,211,1929,3762277,1,,Ecuador,Belgium
+130,211,1930,1867451,1,,Ecuador,Belgium
+130,211,1938,2550483,1,Sucres,Ecuador,Belgium
+130,211,1939,1466161,1,Sucres,Ecuador,Belgium
+130,211,1940,1624233,1,Sucres,Ecuador,Belgium
+130,211,1941,64436,1,Sucres,Ecuador,Belgium
+130,211,1942,705,1,Sucres,Ecuador,Belgium
+130,211,1943,0,1,$,Ecuador,Belgium
+130,211,1944,0,1,$,Ecuador,Belgium
+130,211,1945,0,1,$,Ecuador,Belgium
+130,211,1946,57.5,1000,Sucres,Ecuador,Belgium
+130,211,1947,5090055,1,Sucres,Ecuador,Belgium
+130,211,1948,21495277,1,Sucres,Ecuador,Belgium
+130,211,1949,21717448,1,Sucres,Ecuador,Belgium
+130,220,1904,1234516,,,Ecuador,France
+130,220,1905,1118793,,,Ecuador,France
+130,220,1916,800913,1,Sucres,Ecuador,France
+130,220,1917,667717,1,Sucres,Ecuador,France
+130,220,1918,326658,1,Sucres,Ecuador,France
+130,220,1919,639142,1,Sucres,Ecuador,France
+130,220,1920,1394277,1,Sucres,Ecuador,France
+130,220,1921,1703932,1,Sucres,Ecuador,France
+130,220,1922,1319074,1,Sucres,Ecuador,France
+130,220,1923,1669341,1,Sucres,Ecuador,France
+130,220,1924,2215682,1,Sucres,Ecuador,France
+130,220,1925,2055022,1,Sucres,Ecuador,France
+130,220,1926,2208,1000,Sucres,Ecuador,France
+130,220,1929,5614285,1,,Ecuador,France
+130,220,1930,4061828,1,,Ecuador,France
+130,220,1938,360928,1,Sucres,Ecuador,France
+130,220,1939,86076,1,Sucres,Ecuador,France
+130,220,1940,193357,1,Sucres,Ecuador,France
+130,220,1941,89965,1,Sucres,Ecuador,France
+130,220,1942,0,1,Sucres,Ecuador,France
+130,220,1943,0,1,$,Ecuador,France
+130,220,1944,0,1,$,Ecuador,France
+130,220,1945,0,1,$,Ecuador,France
+130,220,1946,889.2,1000,Sucres,Ecuador,France
+130,220,1947,7279074,1,Sucres,Ecuador,France
+130,220,1948,6428420,1,Sucres,Ecuador,France
+130,220,1949,6135487,1,Sucres,Ecuador,France
+130,225,1916,0,1,Sucres,Ecuador,Switzerland
+130,225,1917,0,1,Sucres,Ecuador,Switzerland
+130,225,1918,0,1,Sucres,Ecuador,Switzerland
+130,225,1919,0,1,Sucres,Ecuador,Switzerland
+130,225,1920,174,1,Sucres,Ecuador,Switzerland
+130,225,1921,0,1,Sucres,Ecuador,Switzerland
+130,225,1922,0,1,Sucres,Ecuador,Switzerland
+130,225,1923,0,1,Sucres,Ecuador,Switzerland
+130,225,1924,0,1,Sucres,Ecuador,Switzerland
+130,225,1925,0,1,Sucres,Ecuador,Switzerland
+130,225,1926,0,1000,Sucres,Ecuador,Switzerland
+130,225,1929,0,1,,Ecuador,Switzerland
+130,225,1930,0,1,,Ecuador,Switzerland
+130,225,1938,4823115,1,Sucres,Ecuador,Switzerland
+130,225,1939,1264276,1,Sucres,Ecuador,Switzerland
+130,225,1940,1675075,1,Sucres,Ecuador,Switzerland
+130,225,1941,876776,1,Sucres,Ecuador,Switzerland
+130,225,1942,1016843,1,Sucres,Ecuador,Switzerland
+130,225,1943,0,1,$,Ecuador,Switzerland
+130,225,1944,0,1,$,Ecuador,Switzerland
+130,225,1945,0,1,$,Ecuador,Switzerland
+130,225,1946,4326.3,1000,Sucres,Ecuador,Switzerland
+130,225,1947,6850784,1,Sucres,Ecuador,Switzerland
+130,225,1948,114785,1,Sucres,Ecuador,Switzerland
+130,225,1949,0,1,Sucres,Ecuador,Switzerland
+130,230,1904,369798,,,Ecuador,Spain
+130,230,1905,419019,,,Ecuador,Spain
+130,230,1916,1012675,1,Sucres,Ecuador,Spain
+130,230,1917,1046641,1,Sucres,Ecuador,Spain
+130,230,1918,286204,1,Sucres,Ecuador,Spain
+130,230,1919,523665,1,Sucres,Ecuador,Spain
+130,230,1920,1131314,1,Sucres,Ecuador,Spain
+130,230,1921,979628,1,Sucres,Ecuador,Spain
+130,230,1922,881238,1,Sucres,Ecuador,Spain
+130,230,1923,1085036,1,Sucres,Ecuador,Spain
+130,230,1924,1040930,1,Sucres,Ecuador,Spain
+130,230,1925,1342866,1,Sucres,Ecuador,Spain
+130,230,1926,674,1000,Sucres,Ecuador,Spain
+130,230,1929,0,1,,Ecuador,Spain
+130,230,1930,0,1,,Ecuador,Spain
+130,230,1938,159811,1,Sucres,Ecuador,Spain
+130,230,1939,110672,1,Sucres,Ecuador,Spain
+130,230,1940,1021740,1,Sucres,Ecuador,Spain
+130,230,1941,577342,1,Sucres,Ecuador,Spain
+130,230,1942,293885,1,Sucres,Ecuador,Spain
+130,230,1943,0,1,$,Ecuador,Spain
+130,230,1944,0,1,$,Ecuador,Spain
+130,230,1945,0,1,$,Ecuador,Spain
+130,230,1946,623.3,1000,Sucres,Ecuador,Spain
+130,230,1947,1006086,1,Sucres,Ecuador,Spain
+130,230,1948,1525619,1,Sucres,Ecuador,Spain
+130,230,1949,3267239,1,Sucres,Ecuador,Spain
+130,231,1916,0,1,Sucres,Ecuador,Gibraltar
+130,231,1917,0,1,Sucres,Ecuador,Gibraltar
+130,231,1918,0,1,Sucres,Ecuador,Gibraltar
+130,231,1919,0,1,Sucres,Ecuador,Gibraltar
+130,231,1920,0,1,Sucres,Ecuador,Gibraltar
+130,231,1921,0,1,Sucres,Ecuador,Gibraltar
+130,231,1922,0,1,Sucres,Ecuador,Gibraltar
+130,231,1923,0,1,Sucres,Ecuador,Gibraltar
+130,231,1924,0,1,Sucres,Ecuador,Gibraltar
+130,231,1925,0,1,Sucres,Ecuador,Gibraltar
+130,231,1926,0,1000,Sucres,Ecuador,Gibraltar
+130,231,1929,0,1,,Ecuador,Gibraltar
+130,231,1930,0,1,,Ecuador,Gibraltar
+130,231,1938,540,1,Sucres,Ecuador,Gibraltar
+130,231,1939,18,1,Sucres,Ecuador,Gibraltar
+130,231,1940,0,1,Sucres,Ecuador,Gibraltar
+130,231,1941,0,1,Sucres,Ecuador,Gibraltar
+130,231,1942,0,1,Sucres,Ecuador,Gibraltar
+130,231,1943,0,1,$,Ecuador,Gibraltar
+130,231,1944,0,1,$,Ecuador,Gibraltar
+130,231,1945,0,1,$,Ecuador,Gibraltar
+130,231,1946,0,1000,Sucres,Ecuador,Gibraltar
+130,231,1947,0,1,Sucres,Ecuador,Gibraltar
+130,231,1948,0,1,Sucres,Ecuador,Gibraltar
+130,231,1949,0,1,Sucres,Ecuador,Gibraltar
+130,235,1904,750,,,Ecuador,Portugal
+130,235,1916,1596,1,Sucres,Ecuador,Portugal
+130,235,1917,0,1,Sucres,Ecuador,Portugal
+130,235,1918,0,1,Sucres,Ecuador,Portugal
+130,235,1919,0,1,Sucres,Ecuador,Portugal
+130,235,1920,0,1,Sucres,Ecuador,Portugal
+130,235,1921,900,1,Sucres,Ecuador,Portugal
+130,235,1922,912,1,Sucres,Ecuador,Portugal
+130,235,1923,19820,1,Sucres,Ecuador,Portugal
+130,235,1924,2116,1,Sucres,Ecuador,Portugal
+130,235,1925,10271,1,Sucres,Ecuador,Portugal
+130,235,1926,0,1000,Sucres,Ecuador,Portugal
+130,235,1929,0,1,,Ecuador,Portugal
+130,235,1930,0,1,,Ecuador,Portugal
+130,235,1938,171283,1,Sucres,Ecuador,Portugal
+130,235,1939,210734,1,Sucres,Ecuador,Portugal
+130,235,1940,220191,1,Sucres,Ecuador,Portugal
+130,235,1941,193176,1,Sucres,Ecuador,Portugal
+130,235,1942,27125,1,Sucres,Ecuador,Portugal
+130,235,1943,0,1,$,Ecuador,Portugal
+130,235,1944,0,1,$,Ecuador,Portugal
+130,235,1945,0,1,$,Ecuador,Portugal
+130,235,1946,763.2,1000,Sucres,Ecuador,Portugal
+130,235,1947,270184,1,Sucres,Ecuador,Portugal
+130,235,1948,322713,1,Sucres,Ecuador,Portugal
+130,235,1949,173842,1,Sucres,Ecuador,Portugal
+130,255,1904,2985114,,,Ecuador,Germany
+130,255,1905,3101957,,,Ecuador,Germany
+130,255,1916,12898,1,Sucres,Ecuador,Germany
+130,255,1917,0,1,Sucres,Ecuador,Germany
+130,255,1918,0,1,Sucres,Ecuador,Germany
+130,255,1919,1786,1,Sucres,Ecuador,Germany
+130,255,1920,1122890,1,Sucres,Ecuador,Germany
+130,255,1921,1894429,1,Sucres,Ecuador,Germany
+130,255,1922,2510456,1,Sucres,Ecuador,Germany
+130,255,1923,5448770,1,Sucres,Ecuador,Germany
+130,255,1924,6221260,1,Sucres,Ecuador,Germany
+130,255,1925,5672098,1,Sucres,Ecuador,Germany
+130,255,1926,5103,1000,Sucres,Ecuador,Germany
+130,255,1929,10710100,1,,Ecuador,Germany
+130,255,1930,8339376,1,,Ecuador,Germany
+130,255,1938,35766816,1,Sucres,Ecuador,Germany
+130,255,1939,26767281,1,Sucres,Ecuador,Germany
+130,255,1940,3396837,1,Sucres,Ecuador,Germany
+130,255,1941,1201511,1,Sucres,Ecuador,Germany
+130,255,1942,67423,1,Sucres,Ecuador,Germany
+130,255,1943,0,1,$,Ecuador,Germany
+130,255,1944,0,1,$,Ecuador,Germany
+130,255,1945,0,1,$,Ecuador,Germany
+130,255,1946,18.6,1000,Sucres,Ecuador,Germany
+130,255,1947,2497,1,Sucres,Ecuador,Germany
+130,255,1948,31381,1,Sucres,Ecuador,Germany
+130,255,1949,3628590,1,Sucres,Ecuador,Germany
+130,290,1916,0,1,Sucres,Ecuador,Poland
+130,290,1917,0,1,Sucres,Ecuador,Poland
+130,290,1918,0,1,Sucres,Ecuador,Poland
+130,290,1919,0,1,Sucres,Ecuador,Poland
+130,290,1920,0,1,Sucres,Ecuador,Poland
+130,290,1921,0,1,Sucres,Ecuador,Poland
+130,290,1922,0,1,Sucres,Ecuador,Poland
+130,290,1923,0,1,Sucres,Ecuador,Poland
+130,290,1924,0,1,Sucres,Ecuador,Poland
+130,290,1925,0,1,Sucres,Ecuador,Poland
+130,290,1926,0,1000,Sucres,Ecuador,Poland
+130,290,1929,0,1,,Ecuador,Poland
+130,290,1930,0,1,,Ecuador,Poland
+130,290,1938,131335,1,Sucres,Ecuador,Poland
+130,290,1939,49812,1,Sucres,Ecuador,Poland
+130,290,1940,72,1,Sucres,Ecuador,Poland
+130,290,1941,0,1,Sucres,Ecuador,Poland
+130,290,1942,0,1,Sucres,Ecuador,Poland
+130,290,1943,0,1,$,Ecuador,Poland
+130,290,1944,0,1,$,Ecuador,Poland
+130,290,1945,0,1,$,Ecuador,Poland
+130,290,1946,0,1000,Sucres,Ecuador,Poland
+130,290,1947,5,1,Sucres,Ecuador,Poland
+130,290,1948,0,1,Sucres,Ecuador,Poland
+130,290,1949,15836,1,Sucres,Ecuador,Poland
+130,305,1904,1525,,,Ecuador,Austria
+130,305,1905,1521,,,Ecuador,Austria
+130,305,1916,0,1,Sucres,Ecuador,Austria
+130,305,1917,0,1,Sucres,Ecuador,Austria
+130,305,1918,0,1,Sucres,Ecuador,Austria
+130,305,1919,0,1,Sucres,Ecuador,Austria
+130,305,1920,0,1,Sucres,Ecuador,Austria
+130,305,1921,0,1,Sucres,Ecuador,Austria
+130,305,1922,0,1,Sucres,Ecuador,Austria
+130,305,1923,0,1,Sucres,Ecuador,Austria
+130,305,1924,1527,1,Sucres,Ecuador,Austria
+130,305,1925,1065,1,Sucres,Ecuador,Austria
+130,305,1926,0,1000,Sucres,Ecuador,Austria
+130,305,1929,0,1,,Ecuador,Austria
+130,305,1930,0,1,,Ecuador,Austria
+130,305,1938,53525,1,Sucres,Ecuador,Austria
+130,305,1939,0,1,Sucres,Ecuador,Austria
+130,305,1940,0,1,Sucres,Ecuador,Austria
+130,305,1941,0,1,Sucres,Ecuador,Austria
+130,305,1942,0,1,Sucres,Ecuador,Austria
+130,305,1943,0,1,$,Ecuador,Austria
+130,305,1944,0,1,$,Ecuador,Austria
+130,305,1945,0,1,$,Ecuador,Austria
+130,305,1946,0,1000,Sucres,Ecuador,Austria
+130,305,1947,66,1,Sucres,Ecuador,Austria
+130,305,1948,0,1,Sucres,Ecuador,Austria
+130,305,1949,0,1,Sucres,Ecuador,Austria
+130,310,1916,0,1,Sucres,Ecuador,Hungary
+130,310,1917,0,1,Sucres,Ecuador,Hungary
+130,310,1918,0,1,Sucres,Ecuador,Hungary
+130,310,1919,0,1,Sucres,Ecuador,Hungary
+130,310,1920,0,1,Sucres,Ecuador,Hungary
+130,310,1921,0,1,Sucres,Ecuador,Hungary
+130,310,1922,0,1,Sucres,Ecuador,Hungary
+130,310,1923,0,1,Sucres,Ecuador,Hungary
+130,310,1924,0,1,Sucres,Ecuador,Hungary
+130,310,1925,0,1,Sucres,Ecuador,Hungary
+130,310,1926,0,1000,Sucres,Ecuador,Hungary
+130,310,1929,0,1,,Ecuador,Hungary
+130,310,1930,0,1,,Ecuador,Hungary
+130,310,1938,284136,1,Sucres,Ecuador,Hungary
+130,310,1939,187943,1,Sucres,Ecuador,Hungary
+130,310,1940,125600,1,Sucres,Ecuador,Hungary
+130,310,1941,531,1,Sucres,Ecuador,Hungary
+130,310,1942,5401,1,Sucres,Ecuador,Hungary
+130,310,1943,0,1,$,Ecuador,Hungary
+130,310,1944,0,1,$,Ecuador,Hungary
+130,310,1945,0,1,$,Ecuador,Hungary
+130,310,1946,0,1000,Sucres,Ecuador,Hungary
+130,310,1947,91416,1,Sucres,Ecuador,Hungary
+130,310,1948,0,1,Sucres,Ecuador,Hungary
+130,310,1949,0,1,Sucres,Ecuador,Hungary
+130,315,1916,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1917,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1918,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1919,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1920,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1921,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1922,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1923,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1924,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1925,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1926,0,1000,Sucres,Ecuador,Czechoslovakia
+130,315,1929,0,1,,Ecuador,Czechoslovakia
+130,315,1930,0,1,,Ecuador,Czechoslovakia
+130,315,1938,1802765,1,Sucres,Ecuador,Czechoslovakia
+130,315,1939,718122,1,Sucres,Ecuador,Czechoslovakia
+130,315,1940,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1941,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1942,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1943,0,1,$,Ecuador,Czechoslovakia
+130,315,1944,0,1,$,Ecuador,Czechoslovakia
+130,315,1945,0,1,$,Ecuador,Czechoslovakia
+130,315,1946,0,1000,Sucres,Ecuador,Czechoslovakia
+130,315,1947,1687454,1,Sucres,Ecuador,Czechoslovakia
+130,315,1948,0,1,Sucres,Ecuador,Czechoslovakia
+130,315,1949,0,1,Sucres,Ecuador,Czechoslovakia
+130,317,1916,0,1,Sucres,Ecuador,Slovakia
+130,317,1917,0,1,Sucres,Ecuador,Slovakia
+130,317,1918,0,1,Sucres,Ecuador,Slovakia
+130,317,1919,0,1,Sucres,Ecuador,Slovakia
+130,317,1920,0,1,Sucres,Ecuador,Slovakia
+130,317,1921,0,1,Sucres,Ecuador,Slovakia
+130,317,1922,0,1,Sucres,Ecuador,Slovakia
+130,317,1923,0,1,Sucres,Ecuador,Slovakia
+130,317,1924,0,1,Sucres,Ecuador,Slovakia
+130,317,1925,0,1,Sucres,Ecuador,Slovakia
+130,317,1926,0,1000,Sucres,Ecuador,Slovakia
+130,317,1929,0,1,,Ecuador,Slovakia
+130,317,1930,0,1,,Ecuador,Slovakia
+130,317,1938,0,1,Sucres,Ecuador,Slovakia
+130,317,1939,178,1,Sucres,Ecuador,Slovakia
+130,317,1940,1116,1,Sucres,Ecuador,Slovakia
+130,317,1941,33588,1,Sucres,Ecuador,Slovakia
+130,317,1942,13265,1,Sucres,Ecuador,Slovakia
+130,317,1943,0,1,$,Ecuador,Slovakia
+130,317,1944,0,1,$,Ecuador,Slovakia
+130,317,1945,0,1,$,Ecuador,Slovakia
+130,317,1946,25.6,1000,Sucres,Ecuador,Slovakia
+130,317,1947,0,1,Sucres,Ecuador,Slovakia
+130,317,1948,0,1,Sucres,Ecuador,Slovakia
+130,317,1949,0,1,Sucres,Ecuador,Slovakia
+130,325,1904,477892,,,Ecuador,Italy
+130,325,1905,583533,,,Ecuador,Italy
+130,325,1916,529458,1,Sucres,Ecuador,Italy
+130,325,1917,401112,1,Sucres,Ecuador,Italy
+130,325,1918,245839,1,Sucres,Ecuador,Italy
+130,325,1919,164575,1,Sucres,Ecuador,Italy
+130,325,1920,570710,1,Sucres,Ecuador,Italy
+130,325,1921,303551,1,Sucres,Ecuador,Italy
+130,325,1922,353505,1,Sucres,Ecuador,Italy
+130,325,1923,636790,1,Sucres,Ecuador,Italy
+130,325,1924,2278185,1,Sucres,Ecuador,Italy
+130,325,1925,2429107,1,Sucres,Ecuador,Italy
+130,325,1926,2785,1000,Sucres,Ecuador,Italy
+130,325,1929,3831174,1,,Ecuador,Italy
+130,325,1930,2486073,1,,Ecuador,Italy
+130,325,1938,4685325,1,Sucres,Ecuador,Italy
+130,325,1939,4572650,1,Sucres,Ecuador,Italy
+130,325,1940,7144489,1,Sucres,Ecuador,Italy
+130,325,1941,308038,1,Sucres,Ecuador,Italy
+130,325,1942,12333,1,Sucres,Ecuador,Italy
+130,325,1943,0,1,$,Ecuador,Italy
+130,325,1944,0,1,$,Ecuador,Italy
+130,325,1945,0,1,$,Ecuador,Italy
+130,325,1946,682.4,1000,Sucres,Ecuador,Italy
+130,325,1947,4824253,1,Sucres,Ecuador,Italy
+130,325,1948,11001927,1,Sucres,Ecuador,Italy
+130,325,1949,12560102,1,Sucres,Ecuador,Italy
+130,326,1916,0,1,Sucres,Ecuador,Trieste
+130,326,1917,0,1,Sucres,Ecuador,Trieste
+130,326,1918,0,1,Sucres,Ecuador,Trieste
+130,326,1919,0,1,Sucres,Ecuador,Trieste
+130,326,1920,0,1,Sucres,Ecuador,Trieste
+130,326,1921,0,1,Sucres,Ecuador,Trieste
+130,326,1922,0,1,Sucres,Ecuador,Trieste
+130,326,1923,0,1,Sucres,Ecuador,Trieste
+130,326,1924,0,1,Sucres,Ecuador,Trieste
+130,326,1925,0,1,Sucres,Ecuador,Trieste
+130,326,1926,0,1000,Sucres,Ecuador,Trieste
+130,326,1929,0,1,,Ecuador,Trieste
+130,326,1930,0,1,,Ecuador,Trieste
+130,326,1938,0,1,Sucres,Ecuador,Trieste
+130,326,1939,0,1,Sucres,Ecuador,Trieste
+130,326,1940,0,1,Sucres,Ecuador,Trieste
+130,326,1941,0,1,Sucres,Ecuador,Trieste
+130,326,1942,0,1,Sucres,Ecuador,Trieste
+130,326,1943,0,1,$,Ecuador,Trieste
+130,326,1944,0,1,$,Ecuador,Trieste
+130,326,1945,0,1,$,Ecuador,Trieste
+130,326,1946,0,1000,Sucres,Ecuador,Trieste
+130,326,1947,0,1,Sucres,Ecuador,Trieste
+130,326,1948,28350,1,Sucres,Ecuador,Trieste
+130,326,1949,0,1,Sucres,Ecuador,Trieste
+130,338,1916,0,1,Sucres,Ecuador,Malta
+130,338,1917,0,1,Sucres,Ecuador,Malta
+130,338,1918,0,1,Sucres,Ecuador,Malta
+130,338,1919,0,1,Sucres,Ecuador,Malta
+130,338,1920,0,1,Sucres,Ecuador,Malta
+130,338,1921,0,1,Sucres,Ecuador,Malta
+130,338,1922,0,1,Sucres,Ecuador,Malta
+130,338,1923,0,1,Sucres,Ecuador,Malta
+130,338,1924,0,1,Sucres,Ecuador,Malta
+130,338,1925,0,1,Sucres,Ecuador,Malta
+130,338,1926,0,1000,Sucres,Ecuador,Malta
+130,338,1929,0,1,,Ecuador,Malta
+130,338,1930,0,1,,Ecuador,Malta
+130,338,1938,61954,1,Sucres,Ecuador,Malta
+130,338,1939,10484,1,Sucres,Ecuador,Malta
+130,338,1940,2857,1,Sucres,Ecuador,Malta
+130,338,1941,0,1,Sucres,Ecuador,Malta
+130,338,1942,0,1,Sucres,Ecuador,Malta
+130,338,1943,0,1,$,Ecuador,Malta
+130,338,1944,0,1,$,Ecuador,Malta
+130,338,1945,0,1,$,Ecuador,Malta
+130,338,1946,0,1000,Sucres,Ecuador,Malta
+130,338,1947,0,1,Sucres,Ecuador,Malta
+130,338,1948,0,1,Sucres,Ecuador,Malta
+130,338,1949,0,1,Sucres,Ecuador,Malta
+130,345,1916,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1917,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1918,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1919,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1920,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1921,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1922,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1923,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1924,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1925,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1926,0,1000,Sucres,Ecuador,Yugoslavia
+130,345,1929,0,1,,Ecuador,Yugoslavia
+130,345,1930,0,1,,Ecuador,Yugoslavia
+130,345,1938,6428,1,Sucres,Ecuador,Yugoslavia
+130,345,1939,29487,1,Sucres,Ecuador,Yugoslavia
+130,345,1940,22429,1,Sucres,Ecuador,Yugoslavia
+130,345,1941,14088,1,Sucres,Ecuador,Yugoslavia
+130,345,1942,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1943,0,1,$,Ecuador,Yugoslavia
+130,345,1944,0,1,$,Ecuador,Yugoslavia
+130,345,1945,0,1,$,Ecuador,Yugoslavia
+130,345,1946,0,1000,Sucres,Ecuador,Yugoslavia
+130,345,1947,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1948,0,1,Sucres,Ecuador,Yugoslavia
+130,345,1949,0,1,Sucres,Ecuador,Yugoslavia
+130,350,1916,0,1,Sucres,Ecuador,Greece
+130,350,1917,0,1,Sucres,Ecuador,Greece
+130,350,1918,0,1,Sucres,Ecuador,Greece
+130,350,1919,0,1,Sucres,Ecuador,Greece
+130,350,1920,0,1,Sucres,Ecuador,Greece
+130,350,1921,0,1,Sucres,Ecuador,Greece
+130,350,1922,0,1,Sucres,Ecuador,Greece
+130,350,1923,0,1,Sucres,Ecuador,Greece
+130,350,1924,0,1,Sucres,Ecuador,Greece
+130,350,1925,0,1,Sucres,Ecuador,Greece
+130,350,1926,0,1000,Sucres,Ecuador,Greece
+130,350,1929,0,1,,Ecuador,Greece
+130,350,1930,0,1,,Ecuador,Greece
+130,350,1938,19348,1,Sucres,Ecuador,Greece
+130,350,1939,743,1,Sucres,Ecuador,Greece
+130,350,1940,320,1,Sucres,Ecuador,Greece
+130,350,1941,11566,1,Sucres,Ecuador,Greece
+130,350,1942,257,1,Sucres,Ecuador,Greece
+130,350,1943,0,1,$,Ecuador,Greece
+130,350,1944,0,1,$,Ecuador,Greece
+130,350,1945,0,1,$,Ecuador,Greece
+130,350,1946,0,1000,Sucres,Ecuador,Greece
+130,350,1947,8829,1,Sucres,Ecuador,Greece
+130,350,1948,0,1,Sucres,Ecuador,Greece
+130,350,1949,0,1,Sucres,Ecuador,Greece
+130,352,1916,0,1,Sucres,Ecuador,Cyprus
+130,352,1917,0,1,Sucres,Ecuador,Cyprus
+130,352,1918,0,1,Sucres,Ecuador,Cyprus
+130,352,1919,0,1,Sucres,Ecuador,Cyprus
+130,352,1920,0,1,Sucres,Ecuador,Cyprus
+130,352,1921,0,1,Sucres,Ecuador,Cyprus
+130,352,1922,0,1,Sucres,Ecuador,Cyprus
+130,352,1923,0,1,Sucres,Ecuador,Cyprus
+130,352,1924,0,1,Sucres,Ecuador,Cyprus
+130,352,1925,0,1,Sucres,Ecuador,Cyprus
+130,352,1926,0,1000,Sucres,Ecuador,Cyprus
+130,352,1929,0,1,,Ecuador,Cyprus
+130,352,1930,0,1,,Ecuador,Cyprus
+130,352,1938,0,1,Sucres,Ecuador,Cyprus
+130,352,1939,483,1,Sucres,Ecuador,Cyprus
+130,352,1940,15018,1,Sucres,Ecuador,Cyprus
+130,352,1941,2145,1,Sucres,Ecuador,Cyprus
+130,352,1942,0,1,Sucres,Ecuador,Cyprus
+130,352,1943,0,1,$,Ecuador,Cyprus
+130,352,1944,0,1,$,Ecuador,Cyprus
+130,352,1945,0,1,$,Ecuador,Cyprus
+130,352,1946,0,1000,Sucres,Ecuador,Cyprus
+130,352,1947,0,1,Sucres,Ecuador,Cyprus
+130,352,1948,0,1,Sucres,Ecuador,Cyprus
+130,352,1949,0,1,Sucres,Ecuador,Cyprus
+130,355,1916,0,1,Sucres,Ecuador,Bulgaria
+130,355,1917,0,1,Sucres,Ecuador,Bulgaria
+130,355,1918,0,1,Sucres,Ecuador,Bulgaria
+130,355,1919,0,1,Sucres,Ecuador,Bulgaria
+130,355,1920,0,1,Sucres,Ecuador,Bulgaria
+130,355,1921,0,1,Sucres,Ecuador,Bulgaria
+130,355,1922,0,1,Sucres,Ecuador,Bulgaria
+130,355,1923,0,1,Sucres,Ecuador,Bulgaria
+130,355,1924,0,1,Sucres,Ecuador,Bulgaria
+130,355,1925,0,1,Sucres,Ecuador,Bulgaria
+130,355,1926,0,1000,Sucres,Ecuador,Bulgaria
+130,355,1929,0,1,,Ecuador,Bulgaria
+130,355,1930,0,1,,Ecuador,Bulgaria
+130,355,1938,1998,1,Sucres,Ecuador,Bulgaria
+130,355,1939,7679,1,Sucres,Ecuador,Bulgaria
+130,355,1940,778,1,Sucres,Ecuador,Bulgaria
+130,355,1941,0,1,Sucres,Ecuador,Bulgaria
+130,355,1942,436,1,Sucres,Ecuador,Bulgaria
+130,355,1943,0,1,$,Ecuador,Bulgaria
+130,355,1944,0,1,$,Ecuador,Bulgaria
+130,355,1945,0,1,$,Ecuador,Bulgaria
+130,355,1946,0,1000,Sucres,Ecuador,Bulgaria
+130,355,1947,0,1,Sucres,Ecuador,Bulgaria
+130,355,1948,0,1,Sucres,Ecuador,Bulgaria
+130,355,1949,0,1,Sucres,Ecuador,Bulgaria
+130,360,1916,0,1,Sucres,Ecuador,Romania
+130,360,1917,0,1,Sucres,Ecuador,Romania
+130,360,1918,0,1,Sucres,Ecuador,Romania
+130,360,1919,0,1,Sucres,Ecuador,Romania
+130,360,1920,0,1,Sucres,Ecuador,Romania
+130,360,1921,0,1,Sucres,Ecuador,Romania
+130,360,1922,0,1,Sucres,Ecuador,Romania
+130,360,1923,0,1,Sucres,Ecuador,Romania
+130,360,1924,0,1,Sucres,Ecuador,Romania
+130,360,1925,0,1,Sucres,Ecuador,Romania
+130,360,1926,0,1000,Sucres,Ecuador,Romania
+130,360,1929,0,1,,Ecuador,Romania
+130,360,1930,0,1,,Ecuador,Romania
+130,360,1938,625,1,Sucres,Ecuador,Romania
+130,360,1939,5616,1,Sucres,Ecuador,Romania
+130,360,1940,370,1,Sucres,Ecuador,Romania
+130,360,1941,0,1,Sucres,Ecuador,Romania
+130,360,1942,0,1,Sucres,Ecuador,Romania
+130,360,1943,0,1,$,Ecuador,Romania
+130,360,1944,0,1,$,Ecuador,Romania
+130,360,1945,0,1,$,Ecuador,Romania
+130,360,1946,0,1000,Sucres,Ecuador,Romania
+130,360,1947,0,1,Sucres,Ecuador,Romania
+130,360,1948,0,1,Sucres,Ecuador,Romania
+130,360,1949,0,1,Sucres,Ecuador,Romania
+130,365,1916,0,1,Sucres,Ecuador,Russia
+130,365,1917,0,1,Sucres,Ecuador,Russia
+130,365,1918,0,1,Sucres,Ecuador,Russia
+130,365,1919,0,1,Sucres,Ecuador,Russia
+130,365,1920,0,1,Sucres,Ecuador,Russia
+130,365,1921,0,1,Sucres,Ecuador,Russia
+130,365,1922,0,1,Sucres,Ecuador,Russia
+130,365,1923,0,1,Sucres,Ecuador,Russia
+130,365,1924,0,1,Sucres,Ecuador,Russia
+130,365,1925,0,1,Sucres,Ecuador,Russia
+130,365,1926,0,1000,Sucres,Ecuador,Russia
+130,365,1929,0,1,,Ecuador,Russia
+130,365,1930,0,1,,Ecuador,Russia
+130,365,1938,1541,1,Sucres,Ecuador,Russia
+130,365,1939,5269,1,Sucres,Ecuador,Russia
+130,365,1940,3394,1,Sucres,Ecuador,Russia
+130,365,1941,35015,1,Sucres,Ecuador,Russia
+130,365,1942,5317,1,Sucres,Ecuador,Russia
+130,365,1943,0,1,$,Ecuador,Russia
+130,365,1944,0,1,$,Ecuador,Russia
+130,365,1945,0,1,$,Ecuador,Russia
+130,365,1946,18.5,1000,Sucres,Ecuador,Russia
+130,365,1947,23765,1,Sucres,Ecuador,Russia
+130,365,1948,0,1,Sucres,Ecuador,Russia
+130,365,1949,0,1,Sucres,Ecuador,Russia
+130,366,1916,0,1,Sucres,Ecuador,Estonia
+130,366,1917,0,1,Sucres,Ecuador,Estonia
+130,366,1918,0,1,Sucres,Ecuador,Estonia
+130,366,1919,0,1,Sucres,Ecuador,Estonia
+130,366,1920,0,1,Sucres,Ecuador,Estonia
+130,366,1921,0,1,Sucres,Ecuador,Estonia
+130,366,1922,0,1,Sucres,Ecuador,Estonia
+130,366,1923,0,1,Sucres,Ecuador,Estonia
+130,366,1924,0,1,Sucres,Ecuador,Estonia
+130,366,1925,0,1,Sucres,Ecuador,Estonia
+130,366,1926,0,1000,Sucres,Ecuador,Estonia
+130,366,1929,0,1,,Ecuador,Estonia
+130,366,1930,0,1,,Ecuador,Estonia
+130,366,1938,66190,1,Sucres,Ecuador,Estonia
+130,366,1939,7390,1,Sucres,Ecuador,Estonia
+130,366,1940,40,1,Sucres,Ecuador,Estonia
+130,366,1941,0,1,Sucres,Ecuador,Estonia
+130,366,1942,0,1,Sucres,Ecuador,Estonia
+130,366,1943,0,1,$,Ecuador,Estonia
+130,366,1944,0,1,$,Ecuador,Estonia
+130,366,1945,0,1,$,Ecuador,Estonia
+130,366,1946,0,1000,Sucres,Ecuador,Estonia
+130,366,1947,0,1,Sucres,Ecuador,Estonia
+130,366,1948,0,1,Sucres,Ecuador,Estonia
+130,366,1949,0,1,Sucres,Ecuador,Estonia
+130,367,1916,0,1,Sucres,Ecuador,Latvia
+130,367,1917,0,1,Sucres,Ecuador,Latvia
+130,367,1918,0,1,Sucres,Ecuador,Latvia
+130,367,1919,0,1,Sucres,Ecuador,Latvia
+130,367,1920,0,1,Sucres,Ecuador,Latvia
+130,367,1921,0,1,Sucres,Ecuador,Latvia
+130,367,1922,0,1,Sucres,Ecuador,Latvia
+130,367,1923,0,1,Sucres,Ecuador,Latvia
+130,367,1924,0,1,Sucres,Ecuador,Latvia
+130,367,1925,0,1,Sucres,Ecuador,Latvia
+130,367,1926,0,1000,Sucres,Ecuador,Latvia
+130,367,1929,0,1,,Ecuador,Latvia
+130,367,1930,0,1,,Ecuador,Latvia
+130,367,1938,17114,1,Sucres,Ecuador,Latvia
+130,367,1939,1552,1,Sucres,Ecuador,Latvia
+130,367,1940,74,1,Sucres,Ecuador,Latvia
+130,367,1941,0,1,Sucres,Ecuador,Latvia
+130,367,1942,0,1,Sucres,Ecuador,Latvia
+130,367,1943,0,1,$,Ecuador,Latvia
+130,367,1944,0,1,$,Ecuador,Latvia
+130,367,1945,0,1,$,Ecuador,Latvia
+130,367,1946,0,1000,Sucres,Ecuador,Latvia
+130,367,1947,0,1,Sucres,Ecuador,Latvia
+130,367,1948,0,1,Sucres,Ecuador,Latvia
+130,367,1949,0,1,Sucres,Ecuador,Latvia
+130,375,1916,0,1,Sucres,Ecuador,Finland
+130,375,1917,0,1,Sucres,Ecuador,Finland
+130,375,1918,0,1,Sucres,Ecuador,Finland
+130,375,1919,0,1,Sucres,Ecuador,Finland
+130,375,1920,0,1,Sucres,Ecuador,Finland
+130,375,1921,0,1,Sucres,Ecuador,Finland
+130,375,1922,0,1,Sucres,Ecuador,Finland
+130,375,1923,0,1,Sucres,Ecuador,Finland
+130,375,1924,0,1,Sucres,Ecuador,Finland
+130,375,1925,0,1,Sucres,Ecuador,Finland
+130,375,1926,0,1000,Sucres,Ecuador,Finland
+130,375,1929,0,1,,Ecuador,Finland
+130,375,1930,0,1,,Ecuador,Finland
+130,375,1938,6465131,1,Sucres,Ecuador,Finland
+130,375,1939,7339291,1,Sucres,Ecuador,Finland
+130,375,1940,6306691,1,Sucres,Ecuador,Finland
+130,375,1941,474838,1,Sucres,Ecuador,Finland
+130,375,1942,33950,1,Sucres,Ecuador,Finland
+130,375,1943,0,1,$,Ecuador,Finland
+130,375,1944,0,1,$,Ecuador,Finland
+130,375,1945,0,1,$,Ecuador,Finland
+130,375,1946,.1,1000,Sucres,Ecuador,Finland
+130,375,1947,122348,1,Sucres,Ecuador,Finland
+130,375,1948,0,1,Sucres,Ecuador,Finland
+130,375,1949,0,1,Sucres,Ecuador,Finland
+130,380,1916,77707,1,Sucres,Ecuador,Sweden
+130,380,1917,9621,1,Sucres,Ecuador,Sweden
+130,380,1918,34714,1,Sucres,Ecuador,Sweden
+130,380,1919,59033,1,Sucres,Ecuador,Sweden
+130,380,1920,165828,1,Sucres,Ecuador,Sweden
+130,380,1921,236062,1,Sucres,Ecuador,Sweden
+130,380,1922,42607,1,Sucres,Ecuador,Sweden
+130,380,1923,117100,1,Sucres,Ecuador,Sweden
+130,380,1924,61688,1,Sucres,Ecuador,Sweden
+130,380,1925,130721,1,Sucres,Ecuador,Sweden
+130,380,1926,75,1000,Sucres,Ecuador,Sweden
+130,380,1929,1829988,1,,Ecuador,Sweden
+130,380,1930,1973036,1,,Ecuador,Sweden
+130,380,1938,1489349,1,Sucres,Ecuador,Sweden
+130,380,1939,793845,1,Sucres,Ecuador,Sweden
+130,380,1940,944883,1,Sucres,Ecuador,Sweden
+130,380,1941,292590,1,Sucres,Ecuador,Sweden
+130,380,1942,224148,1,Sucres,Ecuador,Sweden
+130,380,1943,0,1,$,Ecuador,Sweden
+130,380,1944,0,1,$,Ecuador,Sweden
+130,380,1945,127073,1,$,Ecuador,Sweden
+130,380,1946,9061.5,1000,Sucres,Ecuador,Sweden
+130,380,1947,9702882,1,Sucres,Ecuador,Sweden
+130,380,1948,13108397,1,Sucres,Ecuador,Sweden
+130,380,1949,10073436,1,Sucres,Ecuador,Sweden
+130,385,1916,6491,1,Sucres,Ecuador,Norway
+130,385,1917,7296,1,Sucres,Ecuador,Norway
+130,385,1918,0,1,Sucres,Ecuador,Norway
+130,385,1919,0,1,Sucres,Ecuador,Norway
+130,385,1920,21925,1,Sucres,Ecuador,Norway
+130,385,1921,46832,1,Sucres,Ecuador,Norway
+130,385,1922,182878,1,Sucres,Ecuador,Norway
+130,385,1923,195547,1,Sucres,Ecuador,Norway
+130,385,1924,188693,1,Sucres,Ecuador,Norway
+130,385,1925,223720,1,Sucres,Ecuador,Norway
+130,385,1926,152,1000,Sucres,Ecuador,Norway
+130,385,1929,0,1,,Ecuador,Norway
+130,385,1930,0,1,,Ecuador,Norway
+130,385,1938,867676,1,Sucres,Ecuador,Norway
+130,385,1939,881356,1,Sucres,Ecuador,Norway
+130,385,1940,423179,1,Sucres,Ecuador,Norway
+130,385,1941,9862,1,Sucres,Ecuador,Norway
+130,385,1942,1090,1,Sucres,Ecuador,Norway
+130,385,1943,0,1,$,Ecuador,Norway
+130,385,1944,0,1,$,Ecuador,Norway
+130,385,1945,0,1,$,Ecuador,Norway
+130,385,1946,223.3,1000,Sucres,Ecuador,Norway
+130,385,1947,1374965,1,Sucres,Ecuador,Norway
+130,385,1948,415207,1,Sucres,Ecuador,Norway
+130,385,1949,306955,1,Sucres,Ecuador,Norway
+130,390,1916,9504,1,Sucres,Ecuador,Denmark
+130,390,1917,5884,1,Sucres,Ecuador,Denmark
+130,390,1918,8168,1,Sucres,Ecuador,Denmark
+130,390,1919,4802,1,Sucres,Ecuador,Denmark
+130,390,1920,38272,1,Sucres,Ecuador,Denmark
+130,390,1921,164621,1,Sucres,Ecuador,Denmark
+130,390,1922,86936,1,Sucres,Ecuador,Denmark
+130,390,1923,100825,1,Sucres,Ecuador,Denmark
+130,390,1924,99994,1,Sucres,Ecuador,Denmark
+130,390,1925,43971,1,Sucres,Ecuador,Denmark
+130,390,1926,0,1000,Sucres,Ecuador,Denmark
+130,390,1929,0,1,,Ecuador,Denmark
+130,390,1930,0,1,,Ecuador,Denmark
+130,390,1938,301328,1,Sucres,Ecuador,Denmark
+130,390,1939,233262,1,Sucres,Ecuador,Denmark
+130,390,1940,452671,1,Sucres,Ecuador,Denmark
+130,390,1941,668,1,Sucres,Ecuador,Denmark
+130,390,1942,2565,1,Sucres,Ecuador,Denmark
+130,390,1943,0,1,$,Ecuador,Denmark
+130,390,1944,0,1,$,Ecuador,Denmark
+130,390,1945,0,1,$,Ecuador,Denmark
+130,390,1946,27.3,1000,Sucres,Ecuador,Denmark
+130,390,1947,541942,1,Sucres,Ecuador,Denmark
+130,390,1948,325380,1,Sucres,Ecuador,Denmark
+130,390,1949,320371,1,Sucres,Ecuador,Denmark
+130,410,1916,2671,1,Sucres,Ecuador,Canary Islands
+130,410,1917,750,1,Sucres,Ecuador,Canary Islands
+130,410,1918,0,1,Sucres,Ecuador,Canary Islands
+130,410,1919,0,1,Sucres,Ecuador,Canary Islands
+130,410,1920,1421,1,Sucres,Ecuador,Canary Islands
+130,410,1921,938,1,Sucres,Ecuador,Canary Islands
+130,410,1922,0,1,Sucres,Ecuador,Canary Islands
+130,410,1923,0,1,Sucres,Ecuador,Canary Islands
+130,410,1924,0,1,Sucres,Ecuador,Canary Islands
+130,410,1925,0,1,Sucres,Ecuador,Canary Islands
+130,410,1926,0,1000,Sucres,Ecuador,Canary Islands
+130,410,1929,0,1,,Ecuador,Canary Islands
+130,410,1930,0,1,,Ecuador,Canary Islands
+130,410,1938,0,1,Sucres,Ecuador,Canary Islands
+130,410,1939,0,1,Sucres,Ecuador,Canary Islands
+130,410,1940,0,1,Sucres,Ecuador,Canary Islands
+130,410,1941,0,1,Sucres,Ecuador,Canary Islands
+130,410,1942,0,1,Sucres,Ecuador,Canary Islands
+130,410,1943,0,1,$,Ecuador,Canary Islands
+130,410,1944,0,1,$,Ecuador,Canary Islands
+130,410,1945,0,1,$,Ecuador,Canary Islands
+130,410,1946,0,1000,Sucres,Ecuador,Canary Islands
+130,410,1947,0,1,Sucres,Ecuador,Canary Islands
+130,410,1948,0,1,Sucres,Ecuador,Canary Islands
+130,410,1949,0,1,Sucres,Ecuador,Canary Islands
+130,475,1916,0,1,Sucres,Ecuador,Nigeria
+130,475,1917,0,1,Sucres,Ecuador,Nigeria
+130,475,1918,0,1,Sucres,Ecuador,Nigeria
+130,475,1919,0,1,Sucres,Ecuador,Nigeria
+130,475,1920,0,1,Sucres,Ecuador,Nigeria
+130,475,1921,0,1,Sucres,Ecuador,Nigeria
+130,475,1922,0,1,Sucres,Ecuador,Nigeria
+130,475,1923,0,1,Sucres,Ecuador,Nigeria
+130,475,1924,0,1,Sucres,Ecuador,Nigeria
+130,475,1925,0,1,Sucres,Ecuador,Nigeria
+130,475,1926,0,1000,Sucres,Ecuador,Nigeria
+130,475,1929,0,1,,Ecuador,Nigeria
+130,475,1930,0,1,,Ecuador,Nigeria
+130,475,1938,0,1,Sucres,Ecuador,Nigeria
+130,475,1939,0,1,Sucres,Ecuador,Nigeria
+130,475,1940,0,1,Sucres,Ecuador,Nigeria
+130,475,1941,0,1,Sucres,Ecuador,Nigeria
+130,475,1942,0,1,Sucres,Ecuador,Nigeria
+130,475,1943,0,1,$,Ecuador,Nigeria
+130,475,1944,0,1,$,Ecuador,Nigeria
+130,475,1945,0,1,$,Ecuador,Nigeria
+130,475,1946,0,1000,Sucres,Ecuador,Nigeria
+130,475,1947,2582,1,Sucres,Ecuador,Nigeria
+130,475,1948,0,1,Sucres,Ecuador,Nigeria
+130,475,1949,0,1,Sucres,Ecuador,Nigeria
+130,511,1916,0,1,Sucres,Ecuador,Zanzibar
+130,511,1917,0,1,Sucres,Ecuador,Zanzibar
+130,511,1918,0,1,Sucres,Ecuador,Zanzibar
+130,511,1919,0,1,Sucres,Ecuador,Zanzibar
+130,511,1920,0,1,Sucres,Ecuador,Zanzibar
+130,511,1921,0,1,Sucres,Ecuador,Zanzibar
+130,511,1922,0,1,Sucres,Ecuador,Zanzibar
+130,511,1923,0,1,Sucres,Ecuador,Zanzibar
+130,511,1924,0,1,Sucres,Ecuador,Zanzibar
+130,511,1925,0,1,Sucres,Ecuador,Zanzibar
+130,511,1926,0,1000,Sucres,Ecuador,Zanzibar
+130,511,1929,0,1,,Ecuador,Zanzibar
+130,511,1930,0,1,,Ecuador,Zanzibar
+130,511,1938,3400,1,Sucres,Ecuador,Zanzibar
+130,511,1939,7413,1,Sucres,Ecuador,Zanzibar
+130,511,1940,9609,1,Sucres,Ecuador,Zanzibar
+130,511,1941,3283,1,Sucres,Ecuador,Zanzibar
+130,511,1942,31329,1,Sucres,Ecuador,Zanzibar
+130,511,1943,0,1,$,Ecuador,Zanzibar
+130,511,1944,0,1,$,Ecuador,Zanzibar
+130,511,1945,0,1,$,Ecuador,Zanzibar
+130,511,1946,46.4,1000,Sucres,Ecuador,Zanzibar
+130,511,1947,4189,1,Sucres,Ecuador,Zanzibar
+130,511,1948,0,1,Sucres,Ecuador,Zanzibar
+130,511,1949,0,1,Sucres,Ecuador,Zanzibar
+130,580,1916,0,1,Sucres,Ecuador,Madagascar
+130,580,1917,0,1,Sucres,Ecuador,Madagascar
+130,580,1918,0,1,Sucres,Ecuador,Madagascar
+130,580,1919,0,1,Sucres,Ecuador,Madagascar
+130,580,1920,0,1,Sucres,Ecuador,Madagascar
+130,580,1921,0,1,Sucres,Ecuador,Madagascar
+130,580,1922,0,1,Sucres,Ecuador,Madagascar
+130,580,1923,0,1,Sucres,Ecuador,Madagascar
+130,580,1924,0,1,Sucres,Ecuador,Madagascar
+130,580,1925,0,1,Sucres,Ecuador,Madagascar
+130,580,1926,0,1000,Sucres,Ecuador,Madagascar
+130,580,1929,0,1,,Ecuador,Madagascar
+130,580,1930,0,1,,Ecuador,Madagascar
+130,580,1938,4211,1,Sucres,Ecuador,Madagascar
+130,580,1939,20546,1,Sucres,Ecuador,Madagascar
+130,580,1940,13024,1,Sucres,Ecuador,Madagascar
+130,580,1941,13799,1,Sucres,Ecuador,Madagascar
+130,580,1942,3384,1,Sucres,Ecuador,Madagascar
+130,580,1943,0,1,$,Ecuador,Madagascar
+130,580,1944,0,1,$,Ecuador,Madagascar
+130,580,1945,0,1,$,Ecuador,Madagascar
+130,580,1946,6.9,1000,Sucres,Ecuador,Madagascar
+130,580,1947,25992,1,Sucres,Ecuador,Madagascar
+130,580,1948,0,1,Sucres,Ecuador,Madagascar
+130,580,1949,0,1,Sucres,Ecuador,Madagascar
+130,625,1916,0,1,Sucres,Ecuador,Sudan
+130,625,1917,0,1,Sucres,Ecuador,Sudan
+130,625,1918,0,1,Sucres,Ecuador,Sudan
+130,625,1919,0,1,Sucres,Ecuador,Sudan
+130,625,1920,0,1,Sucres,Ecuador,Sudan
+130,625,1921,0,1,Sucres,Ecuador,Sudan
+130,625,1922,0,1,Sucres,Ecuador,Sudan
+130,625,1923,0,1,Sucres,Ecuador,Sudan
+130,625,1924,0,1,Sucres,Ecuador,Sudan
+130,625,1925,0,1,Sucres,Ecuador,Sudan
+130,625,1926,0,1000,Sucres,Ecuador,Sudan
+130,625,1929,0,1,,Ecuador,Sudan
+130,625,1930,0,1,,Ecuador,Sudan
+130,625,1938,12839,1,Sucres,Ecuador,Sudan
+130,625,1939,46060,1,Sucres,Ecuador,Sudan
+130,625,1940,57501,1,Sucres,Ecuador,Sudan
+130,625,1941,17135,1,Sucres,Ecuador,Sudan
+130,625,1942,160802,1,Sucres,Ecuador,Sudan
+130,625,1943,0,1,$,Ecuador,Sudan
+130,625,1944,0,1,$,Ecuador,Sudan
+130,625,1945,0,1,$,Ecuador,Sudan
+130,625,1946,16.3,1000,Sucres,Ecuador,Sudan
+130,625,1947,33906,1,Sucres,Ecuador,Sudan
+130,625,1948,0,1,Sucres,Ecuador,Sudan
+130,625,1949,0,1,Sucres,Ecuador,Sudan
+130,630,1916,0,1,Sucres,Ecuador,Iran
+130,630,1917,0,1,Sucres,Ecuador,Iran
+130,630,1918,0,1,Sucres,Ecuador,Iran
+130,630,1919,0,1,Sucres,Ecuador,Iran
+130,630,1920,0,1,Sucres,Ecuador,Iran
+130,630,1921,0,1,Sucres,Ecuador,Iran
+130,630,1922,0,1,Sucres,Ecuador,Iran
+130,630,1923,0,1,Sucres,Ecuador,Iran
+130,630,1924,0,1,Sucres,Ecuador,Iran
+130,630,1925,0,1,Sucres,Ecuador,Iran
+130,630,1926,0,1000,Sucres,Ecuador,Iran
+130,630,1929,0,1,,Ecuador,Iran
+130,630,1930,0,1,,Ecuador,Iran
+130,630,1938,0,1,Sucres,Ecuador,Iran
+130,630,1939,2763,1,Sucres,Ecuador,Iran
+130,630,1940,9856,1,Sucres,Ecuador,Iran
+130,630,1941,1564,1,Sucres,Ecuador,Iran
+130,630,1942,28666,1,Sucres,Ecuador,Iran
+130,630,1943,0,1,$,Ecuador,Iran
+130,630,1944,0,1,$,Ecuador,Iran
+130,630,1945,0,1,$,Ecuador,Iran
+130,630,1946,22.4,1000,Sucres,Ecuador,Iran
+130,630,1947,263910,1,Sucres,Ecuador,Iran
+130,630,1948,0,1,Sucres,Ecuador,Iran
+130,630,1949,0,1,Sucres,Ecuador,Iran
+130,640,1916,0,1,Sucres,Ecuador,Turkey
+130,640,1917,0,1,Sucres,Ecuador,Turkey
+130,640,1918,0,1,Sucres,Ecuador,Turkey
+130,640,1919,0,1,Sucres,Ecuador,Turkey
+130,640,1920,0,1,Sucres,Ecuador,Turkey
+130,640,1921,0,1,Sucres,Ecuador,Turkey
+130,640,1922,0,1,Sucres,Ecuador,Turkey
+130,640,1923,0,1,Sucres,Ecuador,Turkey
+130,640,1924,0,1,Sucres,Ecuador,Turkey
+130,640,1925,0,1,Sucres,Ecuador,Turkey
+130,640,1926,0,1000,Sucres,Ecuador,Turkey
+130,640,1929,0,1,,Ecuador,Turkey
+130,640,1930,0,1,,Ecuador,Turkey
+130,640,1938,5842,1,Sucres,Ecuador,Turkey
+130,640,1939,0,1,Sucres,Ecuador,Turkey
+130,640,1940,0,1,Sucres,Ecuador,Turkey
+130,640,1941,0,1,Sucres,Ecuador,Turkey
+130,640,1942,0,1,Sucres,Ecuador,Turkey
+130,640,1943,0,1,$,Ecuador,Turkey
+130,640,1944,0,1,$,Ecuador,Turkey
+130,640,1945,0,1,$,Ecuador,Turkey
+130,640,1946,0,1000,Sucres,Ecuador,Turkey
+130,640,1947,25394,1,Sucres,Ecuador,Turkey
+130,640,1948,0,1,Sucres,Ecuador,Turkey
+130,640,1949,0,1,Sucres,Ecuador,Turkey
+130,641,1916,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1917,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1918,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1919,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1920,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1921,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1922,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1923,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1924,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1925,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1926,0,1000,Sucres,Ecuador,Turkey in Europe
+130,641,1929,0,1,,Ecuador,Turkey in Europe
+130,641,1930,0,1,,Ecuador,Turkey in Europe
+130,641,1938,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1939,15,1,Sucres,Ecuador,Turkey in Europe
+130,641,1940,5042,1,Sucres,Ecuador,Turkey in Europe
+130,641,1941,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1942,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1943,0,1,$,Ecuador,Turkey in Europe
+130,641,1944,0,1,$,Ecuador,Turkey in Europe
+130,641,1945,0,1,$,Ecuador,Turkey in Europe
+130,641,1946,0,1000,Sucres,Ecuador,Turkey in Europe
+130,641,1947,10870,1,Sucres,Ecuador,Turkey in Europe
+130,641,1948,0,1,Sucres,Ecuador,Turkey in Europe
+130,641,1949,0,1,Sucres,Ecuador,Turkey in Europe
+130,645,1916,0,1,Sucres,Ecuador,Iraq
+130,645,1917,0,1,Sucres,Ecuador,Iraq
+130,645,1918,0,1,Sucres,Ecuador,Iraq
+130,645,1919,0,1,Sucres,Ecuador,Iraq
+130,645,1920,0,1,Sucres,Ecuador,Iraq
+130,645,1921,0,1,Sucres,Ecuador,Iraq
+130,645,1922,0,1,Sucres,Ecuador,Iraq
+130,645,1923,0,1,Sucres,Ecuador,Iraq
+130,645,1924,0,1,Sucres,Ecuador,Iraq
+130,645,1925,0,1,Sucres,Ecuador,Iraq
+130,645,1926,0,1000,Sucres,Ecuador,Iraq
+130,645,1929,0,1,,Ecuador,Iraq
+130,645,1930,0,1,,Ecuador,Iraq
+130,645,1938,21,1,Sucres,Ecuador,Iraq
+130,645,1939,1485,1,Sucres,Ecuador,Iraq
+130,645,1940,798,1,Sucres,Ecuador,Iraq
+130,645,1941,520,1,Sucres,Ecuador,Iraq
+130,645,1942,5579,1,Sucres,Ecuador,Iraq
+130,645,1943,0,1,$,Ecuador,Iraq
+130,645,1944,0,1,$,Ecuador,Iraq
+130,645,1945,0,1,$,Ecuador,Iraq
+130,645,1946,8.699999999999999,1000,Sucres,Ecuador,Iraq
+130,645,1947,4698,1,Sucres,Ecuador,Iraq
+130,645,1948,0,1,Sucres,Ecuador,Iraq
+130,645,1949,0,1,Sucres,Ecuador,Iraq
+130,651,1916,0,1,Sucres,Ecuador,Egypt
+130,651,1917,0,1,Sucres,Ecuador,Egypt
+130,651,1918,0,1,Sucres,Ecuador,Egypt
+130,651,1919,0,1,Sucres,Ecuador,Egypt
+130,651,1920,0,1,Sucres,Ecuador,Egypt
+130,651,1921,0,1,Sucres,Ecuador,Egypt
+130,651,1922,0,1,Sucres,Ecuador,Egypt
+130,651,1923,0,1,Sucres,Ecuador,Egypt
+130,651,1924,0,1,Sucres,Ecuador,Egypt
+130,651,1925,0,1,Sucres,Ecuador,Egypt
+130,651,1926,0,1000,Sucres,Ecuador,Egypt
+130,651,1929,0,1,,Ecuador,Egypt
+130,651,1930,0,1,,Ecuador,Egypt
+130,651,1938,0,1,Sucres,Ecuador,Egypt
+130,651,1939,717,1,Sucres,Ecuador,Egypt
+130,651,1940,0,1,Sucres,Ecuador,Egypt
+130,651,1941,0,1,Sucres,Ecuador,Egypt
+130,651,1942,0,1,Sucres,Ecuador,Egypt
+130,651,1943,0,1,$,Ecuador,Egypt
+130,651,1944,0,1,$,Ecuador,Egypt
+130,651,1945,0,1,$,Ecuador,Egypt
+130,651,1946,1.2,1000,Sucres,Ecuador,Egypt
+130,651,1947,4090,1,Sucres,Ecuador,Egypt
+130,651,1948,0,1,Sucres,Ecuador,Egypt
+130,651,1949,0,1,Sucres,Ecuador,Egypt
+130,652,1916,0,1,Sucres,Ecuador,Syria
+130,652,1917,0,1,Sucres,Ecuador,Syria
+130,652,1918,0,1,Sucres,Ecuador,Syria
+130,652,1919,0,1,Sucres,Ecuador,Syria
+130,652,1920,0,1,Sucres,Ecuador,Syria
+130,652,1921,0,1,Sucres,Ecuador,Syria
+130,652,1922,0,1,Sucres,Ecuador,Syria
+130,652,1923,0,1,Sucres,Ecuador,Syria
+130,652,1924,0,1,Sucres,Ecuador,Syria
+130,652,1925,0,1,Sucres,Ecuador,Syria
+130,652,1926,0,1000,Sucres,Ecuador,Syria
+130,652,1929,0,1,,Ecuador,Syria
+130,652,1930,0,1,,Ecuador,Syria
+130,652,1938,16473,1,Sucres,Ecuador,Syria
+130,652,1939,6881,1,Sucres,Ecuador,Syria
+130,652,1940,22490,1,Sucres,Ecuador,Syria
+130,652,1941,0,1,Sucres,Ecuador,Syria
+130,652,1942,2469,1,Sucres,Ecuador,Syria
+130,652,1943,0,1,$,Ecuador,Syria
+130,652,1944,0,1,$,Ecuador,Syria
+130,652,1945,0,1,$,Ecuador,Syria
+130,652,1946,339.7,1000,Sucres,Ecuador,Syria
+130,652,1947,590821,1,Sucres,Ecuador,Syria
+130,652,1948,0,1,Sucres,Ecuador,Syria
+130,652,1949,0,1,Sucres,Ecuador,Syria
+130,665,1916,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1917,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1918,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1919,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1920,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1921,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1922,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1923,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1924,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1925,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1926,0,1000,Sucres,Ecuador,West Bank And Gaza
+130,665,1929,0,1,,Ecuador,West Bank And Gaza
+130,665,1930,0,1,,Ecuador,West Bank And Gaza
+130,665,1938,8035,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1939,459,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1940,1471,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1941,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1942,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1943,0,1,$,Ecuador,West Bank And Gaza
+130,665,1944,0,1,$,Ecuador,West Bank And Gaza
+130,665,1945,0,1,$,Ecuador,West Bank And Gaza
+130,665,1946,.5,1000,Sucres,Ecuador,West Bank And Gaza
+130,665,1947,25469,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1948,0,1,Sucres,Ecuador,West Bank And Gaza
+130,665,1949,0,1,Sucres,Ecuador,West Bank And Gaza
+130,675,1916,0,1,Sucres,Ecuador,Arabia
+130,675,1917,0,1,Sucres,Ecuador,Arabia
+130,675,1918,0,1,Sucres,Ecuador,Arabia
+130,675,1919,0,1,Sucres,Ecuador,Arabia
+130,675,1920,0,1,Sucres,Ecuador,Arabia
+130,675,1921,0,1,Sucres,Ecuador,Arabia
+130,675,1922,0,1,Sucres,Ecuador,Arabia
+130,675,1923,0,1,Sucres,Ecuador,Arabia
+130,675,1924,0,1,Sucres,Ecuador,Arabia
+130,675,1925,0,1,Sucres,Ecuador,Arabia
+130,675,1926,0,1000,Sucres,Ecuador,Arabia
+130,675,1929,0,1,,Ecuador,Arabia
+130,675,1930,0,1,,Ecuador,Arabia
+130,675,1938,213,1,Sucres,Ecuador,Arabia
+130,675,1939,0,1,Sucres,Ecuador,Arabia
+130,675,1940,13336,1,Sucres,Ecuador,Arabia
+130,675,1941,728,1,Sucres,Ecuador,Arabia
+130,675,1942,7045,1,Sucres,Ecuador,Arabia
+130,675,1943,0,1,$,Ecuador,Arabia
+130,675,1944,0,1,$,Ecuador,Arabia
+130,675,1945,0,1,$,Ecuador,Arabia
+130,675,1946,11.2,1000,Sucres,Ecuador,Arabia
+130,675,1947,0,1,Sucres,Ecuador,Arabia
+130,675,1948,0,1,Sucres,Ecuador,Arabia
+130,675,1949,0,1,Sucres,Ecuador,Arabia
+130,710,1904,61655,,,Ecuador,China
+130,710,1905,56505,,,Ecuador,China
+130,710,1916,54401,1,Sucres,Ecuador,China
+130,710,1917,66522,1,Sucres,Ecuador,China
+130,710,1918,5788,1,Sucres,Ecuador,China
+130,710,1919,9,1,Sucres,Ecuador,China
+130,710,1920,21555,1,Sucres,Ecuador,China
+130,710,1921,15891,1,Sucres,Ecuador,China
+130,710,1922,67369,1,Sucres,Ecuador,China
+130,710,1923,50734,1,Sucres,Ecuador,China
+130,710,1924,74344,1,Sucres,Ecuador,China
+130,710,1925,32478,1,Sucres,Ecuador,China
+130,710,1926,47,1000,Sucres,Ecuador,China
+130,710,1929,0,1,,Ecuador,China
+130,710,1930,0,1,,Ecuador,China
+130,710,1938,53033,1,Sucres,Ecuador,China
+130,710,1939,65208,1,Sucres,Ecuador,China
+130,710,1940,101151,1,Sucres,Ecuador,China
+130,710,1941,165205,1,Sucres,Ecuador,China
+130,710,1942,194782,1,Sucres,Ecuador,China
+130,710,1943,0,1,$,Ecuador,China
+130,710,1944,0,1,$,Ecuador,China
+130,710,1945,0,1,$,Ecuador,China
+130,710,1946,53.9,1000,Sucres,Ecuador,China
+130,710,1947,222989,1,Sucres,Ecuador,China
+130,710,1948,24799,1,Sucres,Ecuador,China
+130,710,1949,240972,1,Sucres,Ecuador,China
+130,720,1916,0,1,Sucres,Ecuador,Hong Kong
+130,720,1917,0,1,Sucres,Ecuador,Hong Kong
+130,720,1918,0,1,Sucres,Ecuador,Hong Kong
+130,720,1919,0,1,Sucres,Ecuador,Hong Kong
+130,720,1920,0,1,Sucres,Ecuador,Hong Kong
+130,720,1921,0,1,Sucres,Ecuador,Hong Kong
+130,720,1922,0,1,Sucres,Ecuador,Hong Kong
+130,720,1923,0,1,Sucres,Ecuador,Hong Kong
+130,720,1924,0,1,Sucres,Ecuador,Hong Kong
+130,720,1925,0,1,Sucres,Ecuador,Hong Kong
+130,720,1926,0,1000,Sucres,Ecuador,Hong Kong
+130,720,1929,0,1,,Ecuador,Hong Kong
+130,720,1930,0,1,,Ecuador,Hong Kong
+130,720,1938,0,1,Sucres,Ecuador,Hong Kong
+130,720,1939,7204,1,Sucres,Ecuador,Hong Kong
+130,720,1940,24748,1,Sucres,Ecuador,Hong Kong
+130,720,1941,33662,1,Sucres,Ecuador,Hong Kong
+130,720,1942,1471,1,Sucres,Ecuador,Hong Kong
+130,720,1943,0,1,$,Ecuador,Hong Kong
+130,720,1944,0,1,$,Ecuador,Hong Kong
+130,720,1945,0,1,$,Ecuador,Hong Kong
+130,720,1946,12.7,1000,Sucres,Ecuador,Hong Kong
+130,720,1947,737,1,Sucres,Ecuador,Hong Kong
+130,720,1948,47283,1,Sucres,Ecuador,Hong Kong
+130,720,1949,245759,1,Sucres,Ecuador,Hong Kong
+130,740,1916,48832,1,Sucres,Ecuador,Japan
+130,740,1917,124414,1,Sucres,Ecuador,Japan
+130,740,1918,127741,1,Sucres,Ecuador,Japan
+130,740,1919,124379,1,Sucres,Ecuador,Japan
+130,740,1920,182541,1,Sucres,Ecuador,Japan
+130,740,1921,38357,1,Sucres,Ecuador,Japan
+130,740,1922,11093,1,Sucres,Ecuador,Japan
+130,740,1923,42641,1,Sucres,Ecuador,Japan
+130,740,1924,43349,1,Sucres,Ecuador,Japan
+130,740,1925,32931,1,Sucres,Ecuador,Japan
+130,740,1926,90,1000,Sucres,Ecuador,Japan
+130,740,1929,0,1,,Ecuador,Japan
+130,740,1930,0,1,,Ecuador,Japan
+130,740,1938,10948515,1,Sucres,Ecuador,Japan
+130,740,1939,7810378,1,Sucres,Ecuador,Japan
+130,740,1940,18190470,1,Sucres,Ecuador,Japan
+130,740,1941,4414218,1,Sucres,Ecuador,Japan
+130,740,1942,169818,1,Sucres,Ecuador,Japan
+130,740,1943,0,1,$,Ecuador,Japan
+130,740,1944,0,1,$,Ecuador,Japan
+130,740,1945,0,1,$,Ecuador,Japan
+130,740,1946,0,1000,Sucres,Ecuador,Japan
+130,740,1947,5433,1,Sucres,Ecuador,Japan
+130,740,1948,0,1,Sucres,Ecuador,Japan
+130,740,1949,163586,1,Sucres,Ecuador,Japan
+130,750,1916,4070,1,Sucres,Ecuador,India
+130,750,1917,80000,1,Sucres,Ecuador,India
+130,750,1918,99148,1,Sucres,Ecuador,India
+130,750,1919,506049,1,Sucres,Ecuador,India
+130,750,1920,401627,1,Sucres,Ecuador,India
+130,750,1921,80936,1,Sucres,Ecuador,India
+130,750,1922,454467,1,Sucres,Ecuador,India
+130,750,1923,314991,1,Sucres,Ecuador,India
+130,750,1924,331511,1,Sucres,Ecuador,India
+130,750,1925,417421,1,Sucres,Ecuador,India
+130,750,1926,125,1000,Sucres,Ecuador,India
+130,750,1929,0,1,,Ecuador,India
+130,750,1930,0,1,,Ecuador,India
+130,750,1938,711958,1,Sucres,Ecuador,India
+130,750,1939,728266,1,Sucres,Ecuador,India
+130,750,1940,1277907,1,Sucres,Ecuador,India
+130,750,1941,1281388,1,Sucres,Ecuador,India
+130,750,1942,1715023,1,Sucres,Ecuador,India
+130,750,1943,0,1,$,Ecuador,India
+130,750,1944,0,1,$,Ecuador,India
+130,750,1945,0,1,$,Ecuador,India
+130,750,1946,4464.8,1000,Sucres,Ecuador,India
+130,750,1947,3150771,1,Sucres,Ecuador,India
+130,750,1948,3863445,1,Sucres,Ecuador,India
+130,750,1949,4828191,1,Sucres,Ecuador,India
+130,780,1916,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1917,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1918,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1919,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1920,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1921,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1922,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1923,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1924,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1925,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1926,0,1000,Sucres,Ecuador,Sri Lanka
+130,780,1929,0,1,,Ecuador,Sri Lanka
+130,780,1930,0,1,,Ecuador,Sri Lanka
+130,780,1938,173336,1,Sucres,Ecuador,Sri Lanka
+130,780,1939,302279,1,Sucres,Ecuador,Sri Lanka
+130,780,1940,261994,1,Sucres,Ecuador,Sri Lanka
+130,780,1941,237872,1,Sucres,Ecuador,Sri Lanka
+130,780,1942,155624,1,Sucres,Ecuador,Sri Lanka
+130,780,1943,0,1,$,Ecuador,Sri Lanka
+130,780,1944,0,1,$,Ecuador,Sri Lanka
+130,780,1945,0,1,$,Ecuador,Sri Lanka
+130,780,1946,471.6,1000,Sucres,Ecuador,Sri Lanka
+130,780,1947,590741,1,Sucres,Ecuador,Sri Lanka
+130,780,1948,0,1,Sucres,Ecuador,Sri Lanka
+130,780,1949,180341,1,Sucres,Ecuador,Sri Lanka
+130,810,1916,0,1,Sucres,Ecuador,French Indo-China
+130,810,1917,0,1,Sucres,Ecuador,French Indo-China
+130,810,1918,0,1,Sucres,Ecuador,French Indo-China
+130,810,1919,0,1,Sucres,Ecuador,French Indo-China
+130,810,1920,0,1,Sucres,Ecuador,French Indo-China
+130,810,1921,0,1,Sucres,Ecuador,French Indo-China
+130,810,1922,0,1,Sucres,Ecuador,French Indo-China
+130,810,1923,0,1,Sucres,Ecuador,French Indo-China
+130,810,1924,0,1,Sucres,Ecuador,French Indo-China
+130,810,1925,0,1,Sucres,Ecuador,French Indo-China
+130,810,1926,0,1000,Sucres,Ecuador,French Indo-China
+130,810,1929,0,1,,Ecuador,French Indo-China
+130,810,1930,0,1,,Ecuador,French Indo-China
+130,810,1938,0,1,Sucres,Ecuador,French Indo-China
+130,810,1939,15983,1,Sucres,Ecuador,French Indo-China
+130,810,1940,5196,1,Sucres,Ecuador,French Indo-China
+130,810,1941,0,1,Sucres,Ecuador,French Indo-China
+130,810,1942,0,1,Sucres,Ecuador,French Indo-China
+130,810,1943,0,1,$,Ecuador,French Indo-China
+130,810,1944,0,1,$,Ecuador,French Indo-China
+130,810,1945,0,1,$,Ecuador,French Indo-China
+130,810,1946,91.90000000000001,1000,Sucres,Ecuador,French Indo-China
+130,810,1947,195523,1,Sucres,Ecuador,French Indo-China
+130,810,1948,0,1,Sucres,Ecuador,French Indo-China
+130,810,1949,0,1,Sucres,Ecuador,French Indo-China
+130,827,1916,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1917,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1918,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1919,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1920,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1921,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1922,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1923,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1924,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1925,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1926,0,1000,Sucres,Ecuador,Straits Settlement
+130,827,1929,0,1,,Ecuador,Straits Settlement
+130,827,1930,0,1,,Ecuador,Straits Settlement
+130,827,1938,21456,1,Sucres,Ecuador,Straits Settlement
+130,827,1939,41506,1,Sucres,Ecuador,Straits Settlement
+130,827,1940,26543,1,Sucres,Ecuador,Straits Settlement
+130,827,1941,102052,1,Sucres,Ecuador,Straits Settlement
+130,827,1942,600,1,Sucres,Ecuador,Straits Settlement
+130,827,1943,0,1,$,Ecuador,Straits Settlement
+130,827,1944,0,1,$,Ecuador,Straits Settlement
+130,827,1945,0,1,$,Ecuador,Straits Settlement
+130,827,1946,0,1000,Sucres,Ecuador,Straits Settlement
+130,827,1947,239325,1,Sucres,Ecuador,Straits Settlement
+130,827,1948,0,1,Sucres,Ecuador,Straits Settlement
+130,827,1949,0,1,Sucres,Ecuador,Straits Settlement
+130,840,1916,0,1,Sucres,Ecuador,Philippines
+130,840,1917,0,1,Sucres,Ecuador,Philippines
+130,840,1918,0,1,Sucres,Ecuador,Philippines
+130,840,1919,0,1,Sucres,Ecuador,Philippines
+130,840,1920,0,1,Sucres,Ecuador,Philippines
+130,840,1921,0,1,Sucres,Ecuador,Philippines
+130,840,1922,0,1,Sucres,Ecuador,Philippines
+130,840,1923,0,1,Sucres,Ecuador,Philippines
+130,840,1924,0,1,Sucres,Ecuador,Philippines
+130,840,1925,0,1,Sucres,Ecuador,Philippines
+130,840,1926,0,1000,Sucres,Ecuador,Philippines
+130,840,1929,0,1,,Ecuador,Philippines
+130,840,1930,0,1,,Ecuador,Philippines
+130,840,1938,0,1,Sucres,Ecuador,Philippines
+130,840,1939,0,1,Sucres,Ecuador,Philippines
+130,840,1940,0,1,Sucres,Ecuador,Philippines
+130,840,1941,0,1,Sucres,Ecuador,Philippines
+130,840,1942,0,1,Sucres,Ecuador,Philippines
+130,840,1943,0,1,$,Ecuador,Philippines
+130,840,1944,0,1,$,Ecuador,Philippines
+130,840,1945,0,1,$,Ecuador,Philippines
+130,840,1946,0,1000,Sucres,Ecuador,Philippines
+130,840,1947,13253,1,Sucres,Ecuador,Philippines
+130,840,1948,0,1,Sucres,Ecuador,Philippines
+130,840,1949,155483,1,Sucres,Ecuador,Philippines
+130,900,1904,68975,,,Ecuador,Australia
+130,900,1905,106559,,,Ecuador,Australia
+130,900,1916,60499,1,Sucres,Ecuador,Australia
+130,900,1917,0,1,Sucres,Ecuador,Australia
+130,900,1918,0,1,Sucres,Ecuador,Australia
+130,900,1919,0,1,Sucres,Ecuador,Australia
+130,900,1920,0,1,Sucres,Ecuador,Australia
+130,900,1921,0,1,Sucres,Ecuador,Australia
+130,900,1922,0,1,Sucres,Ecuador,Australia
+130,900,1923,0,1,Sucres,Ecuador,Australia
+130,900,1924,0,1,Sucres,Ecuador,Australia
+130,900,1925,0,1,Sucres,Ecuador,Australia
+130,900,1926,0,1000,Sucres,Ecuador,Australia
+130,900,1929,0,1,,Ecuador,Australia
+130,900,1930,0,1,,Ecuador,Australia
+130,900,1938,101587,1,Sucres,Ecuador,Australia
+130,900,1939,15283,1,Sucres,Ecuador,Australia
+130,900,1940,151310,1,Sucres,Ecuador,Australia
+130,900,1941,12643,1,Sucres,Ecuador,Australia
+130,900,1942,17854,1,Sucres,Ecuador,Australia
+130,900,1943,0,1,$,Ecuador,Australia
+130,900,1944,0,1,$,Ecuador,Australia
+130,900,1945,0,1,$,Ecuador,Australia
+130,900,1946,3.6,1000,Sucres,Ecuador,Australia
+130,900,1947,111698,1,Sucres,Ecuador,Australia
+130,900,1948,0,1,Sucres,Ecuador,Australia
+130,900,1949,40608,1,Sucres,Ecuador,Australia
+130,920,1916,0,1,Sucres,Ecuador,New Zealand
+130,920,1917,0,1,Sucres,Ecuador,New Zealand
+130,920,1918,0,1,Sucres,Ecuador,New Zealand
+130,920,1919,0,1,Sucres,Ecuador,New Zealand
+130,920,1920,0,1,Sucres,Ecuador,New Zealand
+130,920,1921,0,1,Sucres,Ecuador,New Zealand
+130,920,1922,0,1,Sucres,Ecuador,New Zealand
+130,920,1923,0,1,Sucres,Ecuador,New Zealand
+130,920,1924,0,1,Sucres,Ecuador,New Zealand
+130,920,1925,0,1,Sucres,Ecuador,New Zealand
+130,920,1926,0,1000,Sucres,Ecuador,New Zealand
+130,920,1929,0,1,,Ecuador,New Zealand
+130,920,1930,0,1,,Ecuador,New Zealand
+130,920,1938,19619,1,Sucres,Ecuador,New Zealand
+130,920,1939,43506,1,Sucres,Ecuador,New Zealand
+130,920,1940,0,1,Sucres,Ecuador,New Zealand
+130,920,1941,0,1,Sucres,Ecuador,New Zealand
+130,920,1942,0,1,Sucres,Ecuador,New Zealand
+130,920,1943,0,1,$,Ecuador,New Zealand
+130,920,1944,0,1,$,Ecuador,New Zealand
+130,920,1945,0,1,$,Ecuador,New Zealand
+130,920,1946,0,1000,Sucres,Ecuador,New Zealand
+130,920,1947,0,1,Sucres,Ecuador,New Zealand
+130,920,1948,0,1,Sucres,Ecuador,New Zealand
+130,920,1949,0,1,Sucres,Ecuador,New Zealand
+130,1065,1916,0,1,Sucres,Ecuador,Curacao
+130,1065,1917,0,1,Sucres,Ecuador,Curacao
+130,1065,1918,0,1,Sucres,Ecuador,Curacao
+130,1065,1919,0,1,Sucres,Ecuador,Curacao
+130,1065,1920,0,1,Sucres,Ecuador,Curacao
+130,1065,1921,0,1,Sucres,Ecuador,Curacao
+130,1065,1922,0,1,Sucres,Ecuador,Curacao
+130,1065,1923,0,1,Sucres,Ecuador,Curacao
+130,1065,1924,0,1,Sucres,Ecuador,Curacao
+130,1065,1925,0,1,Sucres,Ecuador,Curacao
+130,1065,1926,0,1000,Sucres,Ecuador,Curacao
+130,1065,1929,0,1,,Ecuador,Curacao
+130,1065,1930,0,1,,Ecuador,Curacao
+130,1065,1938,662738,1,Sucres,Ecuador,Curacao
+130,1065,1939,659946,1,Sucres,Ecuador,Curacao
+130,1065,1940,270,1,Sucres,Ecuador,Curacao
+130,1065,1941,0,1,Sucres,Ecuador,Curacao
+130,1065,1942,1500,1,Sucres,Ecuador,Curacao
+130,1065,1943,0,1,$,Ecuador,Curacao
+130,1065,1944,0,1,$,Ecuador,Curacao
+130,1065,1945,0,1,$,Ecuador,Curacao
+130,1065,1946,551.7,1000,Sucres,Ecuador,Curacao
+130,1065,1947,1191884,1,Sucres,Ecuador,Curacao
+130,1065,1948,2475022,1,Sucres,Ecuador,Curacao
+130,1065,1949,1263606,1,Sucres,Ecuador,Curacao
+130,1069,1916,0,1,Sucres,Ecuador,Aruba
+130,1069,1917,0,1,Sucres,Ecuador,Aruba
+130,1069,1918,0,1,Sucres,Ecuador,Aruba
+130,1069,1919,0,1,Sucres,Ecuador,Aruba
+130,1069,1920,0,1,Sucres,Ecuador,Aruba
+130,1069,1921,0,1,Sucres,Ecuador,Aruba
+130,1069,1922,0,1,Sucres,Ecuador,Aruba
+130,1069,1923,0,1,Sucres,Ecuador,Aruba
+130,1069,1924,0,1,Sucres,Ecuador,Aruba
+130,1069,1925,0,1,Sucres,Ecuador,Aruba
+130,1069,1926,0,1000,Sucres,Ecuador,Aruba
+130,1069,1929,0,1,,Ecuador,Aruba
+130,1069,1930,0,1,,Ecuador,Aruba
+130,1069,1938,634294,1,Sucres,Ecuador,Aruba
+130,1069,1939,500700,1,Sucres,Ecuador,Aruba
+130,1069,1940,0,1,Sucres,Ecuador,Aruba
+130,1069,1941,0,1,Sucres,Ecuador,Aruba
+130,1069,1942,0,1,Sucres,Ecuador,Aruba
+130,1069,1943,0,1,$,Ecuador,Aruba
+130,1069,1944,0,1,$,Ecuador,Aruba
+130,1069,1945,37337,1,$,Ecuador,Aruba
+130,1069,1946,576.7,1000,Sucres,Ecuador,Aruba
+130,1069,1947,0,1,Sucres,Ecuador,Aruba
+130,1069,1948,0,1,Sucres,Ecuador,Aruba
+130,1069,1949,0,1,Sucres,Ecuador,Aruba
+130,8501,1916,0,1,Sucres,Ecuador,Java
+130,8501,1917,0,1,Sucres,Ecuador,Java
+130,8501,1918,0,1,Sucres,Ecuador,Java
+130,8501,1919,0,1,Sucres,Ecuador,Java
+130,8501,1920,0,1,Sucres,Ecuador,Java
+130,8501,1921,0,1,Sucres,Ecuador,Java
+130,8501,1922,0,1,Sucres,Ecuador,Java
+130,8501,1923,0,1,Sucres,Ecuador,Java
+130,8501,1924,0,1,Sucres,Ecuador,Java
+130,8501,1925,0,1,Sucres,Ecuador,Java
+130,8501,1926,0,1000,Sucres,Ecuador,Java
+130,8501,1929,0,1,,Ecuador,Java
+130,8501,1930,0,1,,Ecuador,Java
+130,8501,1938,51286,1,Sucres,Ecuador,Java
+130,8501,1939,170911,1,Sucres,Ecuador,Java
+130,8501,1940,25950,1,Sucres,Ecuador,Java
+130,8501,1941,226658,1,Sucres,Ecuador,Java
+130,8501,1942,200097,1,Sucres,Ecuador,Java
+130,8501,1943,0,1,$,Ecuador,Java
+130,8501,1944,0,1,$,Ecuador,Java
+130,8501,1945,0,1,$,Ecuador,Java
+130,8501,1946,0,1000,Sucres,Ecuador,Java
+130,8501,1947,28791,1,Sucres,Ecuador,Java
+130,8501,1948,0,1,Sucres,Ecuador,Java
+130,8501,1949,0,1,Sucres,Ecuador,Java
+130,8502,1916,0,1,Sucres,Ecuador,Sumatra
+130,8502,1917,0,1,Sucres,Ecuador,Sumatra
+130,8502,1918,0,1,Sucres,Ecuador,Sumatra
+130,8502,1919,0,1,Sucres,Ecuador,Sumatra
+130,8502,1920,0,1,Sucres,Ecuador,Sumatra
+130,8502,1921,0,1,Sucres,Ecuador,Sumatra
+130,8502,1922,0,1,Sucres,Ecuador,Sumatra
+130,8502,1923,0,1,Sucres,Ecuador,Sumatra
+130,8502,1924,0,1,Sucres,Ecuador,Sumatra
+130,8502,1925,0,1,Sucres,Ecuador,Sumatra
+130,8502,1926,0,1000,Sucres,Ecuador,Sumatra
+130,8502,1929,0,1,,Ecuador,Sumatra
+130,8502,1930,0,1,,Ecuador,Sumatra
+130,8502,1938,45500,1,Sucres,Ecuador,Sumatra
+130,8502,1939,84149,1,Sucres,Ecuador,Sumatra
+130,8502,1940,57120,1,Sucres,Ecuador,Sumatra
+130,8502,1941,230201,1,Sucres,Ecuador,Sumatra
+130,8502,1942,246612,1,Sucres,Ecuador,Sumatra
+130,8502,1943,0,1,$,Ecuador,Sumatra
+130,8502,1944,0,1,$,Ecuador,Sumatra
+130,8502,1945,0,1,$,Ecuador,Sumatra
+130,8502,1946,115.7,1000,Sucres,Ecuador,Sumatra
+130,8502,1947,417156,1,Sucres,Ecuador,Sumatra
+130,8502,1948,0,1,Sucres,Ecuador,Sumatra
+130,8502,1949,0,1,Sucres,Ecuador,Sumatra
+130,,1904,15116350,,,Ecuador,
+130,,1905,15733891,,,Ecuador,
+130,,1916,19200126,1,Sucres,Ecuador,
+130,,1917,20943590,1,Sucres,Ecuador,
+130,,1918,16725594,1,Sucres,Ecuador,
+130,,1919,24008184,1,Sucres,Ecuador,
+130,,1920,43499508,1,Sucres,Ecuador,
+130,,1921,23498057,1,Sucres,Ecuador,
+130,,1922,33581897,1,Sucres,Ecuador,
+130,,1923,36834898,1,Sucres,Ecuador,
+130,,1924,52042109,1,Sucres,Ecuador,
+130,,1925,55277851,1,Sucres,Ecuador,
+130,,1926,47451,1000,Sucres,Ecuador,
+130,,1929,91427730,1,,Ecuador,
+130,,1930,70389782,1,,Ecuador,
+130,,1938,148315420,1,Sucres,Ecuador,
+130,,1939,147860226,1,Sucres,Ecuador,
+130,,1940,173769292,1,Sucres,Ecuador,
+130,,1941,149499361,1,Sucres,Ecuador,
+130,,1942,199718253,1,Sucres,Ecuador,
+130,,1943,17119411,1,$,Ecuador,
+130,,1944,22548233,1,$,Ecuador,
+130,,1945,25063016,1,$,Ecuador,
+130,,1946,414268.1,1000,Sucres,Ecuador,
+130,,1947,604479779,1,Sucres,Ecuador,
+130,,1948,568240151,1,Sucres,Ecuador,
+130,,1949,552165056,1,Sucres,Ecuador,

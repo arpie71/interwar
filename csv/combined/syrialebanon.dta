@@ -1,0 +1,82 @@
+ccode1,country1,ccode2,country2,year,imp,places,currency
+652,Syria,2,United States,1936,47114,1000,Milliers De Francs
+652,Syria,2,United States,1937,78120,1000,Milliers De Francs
+652,Syria,2,United States,1938,130023,1000,Milliers De Francs
+652,Syria,200,United Kingdom,1936,72979,1000,Milliers De Francs
+652,Syria,200,United Kingdom,1937,137760,1000,Milliers De Francs
+652,Syria,200,United Kingdom,1938,255154,1000,Milliers De Francs
+652,Syria,210,Netherlands,1936,8108,1000,Milliers De Francs
+652,Syria,210,Netherlands,1937,17800,1000,Milliers De Francs
+652,Syria,210,Netherlands,1938,18267,1000,Milliers De Francs
+652,Syria,211,Belgium,1936,40348,1000,Milliers De Francs
+652,Syria,211,Belgium,1937,66400,1000,Milliers De Francs
+652,Syria,211,Belgium,1938,71119,1000,Milliers De Francs
+652,Syria,220,France,1936,83967,1000,Milliers De Francs
+652,Syria,220,France,1937,152160,1000,Milliers De Francs
+652,Syria,220,France,1938,197818,1000,Milliers De Francs
+652,Syria,225,Switzerland,1936,4980,1000,Milliers De Francs
+652,Syria,225,Switzerland,1937,13700,1000,Milliers De Francs
+652,Syria,225,Switzerland,1938,15573,1000,Milliers De Francs
+652,Syria,255,Germany,1936,43522,1000,Milliers De Francs
+652,Syria,255,Germany,1937,65200,1000,Milliers De Francs
+652,Syria,255,Germany,1938,120371,1000,Milliers De Francs
+652,Syria,290,Poland,1936,8127,1000,Milliers De Francs
+652,Syria,290,Poland,1937,16800,1000,Milliers De Francs
+652,Syria,290,Poland,1938,17498,1000,Milliers De Francs
+652,Syria,305,Austria,1936,8042,1000,Milliers De Francs
+652,Syria,305,Austria,1937,12600,1000,Milliers De Francs
+652,Syria,305,Austria,1938,7855,1000,Milliers De Francs
+652,Syria,315,Czechoslovakia,1936,15335,1000,Milliers De Francs
+652,Syria,315,Czechoslovakia,1937,28280,1000,Milliers De Francs
+652,Syria,315,Czechoslovakia,1938,29640,1000,Milliers De Francs
+652,Syria,325,Italy,1936,11930,1000,Milliers De Francs
+652,Syria,325,Italy,1937,78300,1000,Milliers De Francs
+652,Syria,325,Italy,1938,118920,1000,Milliers De Francs
+652,Syria,345,Yugoslavia,1936,2436,1000,Milliers De Francs
+652,Syria,345,Yugoslavia,1937,1700,1000,Milliers De Francs
+652,Syria,345,Yugoslavia,1938,1446,1000,Milliers De Francs
+652,Syria,350,Greece,1936,3104,1000,Milliers De Francs
+652,Syria,350,Greece,1937,3220,1000,Milliers De Francs
+652,Syria,350,Greece,1938,4233,1000,Milliers De Francs
+652,Syria,352,Cyprus,1936,908,1000,Milliers De Francs
+652,Syria,352,Cyprus,1937,940,1000,Milliers De Francs
+652,Syria,352,Cyprus,1938,1042,1000,Milliers De Francs
+652,Syria,360,Romania,1936,37773,1000,Milliers De Francs
+652,Syria,360,Romania,1937,71500,1000,Milliers De Francs
+652,Syria,360,Romania,1938,98655,1000,Milliers De Francs
+652,Syria,365,Russia,1936,8305,1000,Milliers De Francs
+652,Syria,365,Russia,1937,9560,1000,Milliers De Francs
+652,Syria,365,Russia,1938,1391,1000,Milliers De Francs
+652,Syria,380,Sweden,1936,5701,1000,Milliers De Francs
+652,Syria,380,Sweden,1937,13620,1000,Milliers De Francs
+652,Syria,380,Sweden,1938,12498,1000,Milliers De Francs
+652,Syria,630,Iran,1936,5521,1000,Milliers De Francs
+652,Syria,630,Iran,1937,9580,1000,Milliers De Francs
+652,Syria,630,Iran,1938,6771,1000,Milliers De Francs
+652,Syria,640,Turkey,1936,49352,1000,Milliers De Francs
+652,Syria,640,Turkey,1937,68740,1000,Milliers De Francs
+652,Syria,640,Turkey,1938,65912,1000,Milliers De Francs
+652,Syria,645,Iraq,1936,36067,1000,Milliers De Francs
+652,Syria,645,Iraq,1937,66520,1000,Milliers De Francs
+652,Syria,645,Iraq,1938,75655,1000,Milliers De Francs
+652,Syria,651,Egypt,1936,19595,1000,Milliers De Francs
+652,Syria,651,Egypt,1937,26980,1000,Milliers De Francs
+652,Syria,651,Egypt,1938,41178,1000,Milliers De Francs
+652,Syria,663,Jordan,1936,2736,1000,Milliers De Francs
+652,Syria,663,Jordan,1937,13320,1000,Milliers De Francs
+652,Syria,663,Jordan,1938,4728,1000,Milliers De Francs
+652,Syria,665,West Bank And Gaza,1936,25344,1000,Milliers De Francs
+652,Syria,665,West Bank And Gaza,1937,71440,1000,Milliers De Francs
+652,Syria,665,West Bank And Gaza,1938,86812,1000,Milliers De Francs
+652,Syria,670,Saudi Arabia,1936,627,1000,Milliers De Francs
+652,Syria,670,Saudi Arabia,1937,220,1000,Milliers De Francs
+652,Syria,670,Saudi Arabia,1938,676,1000,Milliers De Francs
+652,Syria,740,Japan,1936,76731,1000,Milliers De Francs
+652,Syria,740,Japan,1937,157320,1000,Milliers De Francs
+652,Syria,740,Japan,1938,165341,1000,Milliers De Francs
+652,Syria,2200,Other French possessions,1936,3310,1000,Milliers De Francs
+652,Syria,2200,Other French possessions,1937,6200,1000,Milliers De Francs
+652,Syria,2200,Other French possessions,1938,7998,1000,Milliers De Francs
+652,Syria,,,1936,732280,1000,Milliers De Francs
+652,Syria,,,1937,1396860,1000,Milliers De Francs
+652,Syria,,,1938,1858818,1000,Milliers De Francs

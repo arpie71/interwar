@@ -1,0 +1,2926 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+345,2,1920,82212025,1,,Yugoslavia,United States
+345,2,1921,98964512,1,,Yugoslavia,United States
+345,2,1922,225369320,1,,Yugoslavia,United States
+345,2,1923,306024381,1,,Yugoslavia,United States
+345,2,1924,320877209,1,,Yugoslavia,United States
+345,2,1925,341512707,1,,Yugoslavia,United States
+345,2,1926,309217296,1,,Yugoslavia,United States
+345,2,1927,254586246,1,,Yugoslavia,United States
+345,2,1928,385443153,1,,Yugoslavia,United States
+345,2,1929,360261383,1,,Yugoslavia,United States
+345,2,1930,285420263,1,Dinars,Yugoslavia,United States
+345,2,1931,199793334,1,Dinars,Yugoslavia,United States
+345,2,1932,126590645,1,Dinars,Yugoslavia,United States
+345,2,1933,148308719,1,Dinars,Yugoslavia,United States
+345,2,1934,229648281,1,Dinars,Yugoslavia,United States
+345,2,1935,228978773,1,Dinars,Yugoslavia,United States
+345,2,1936,260042171,1,Dinars,Yugoslavia,United States
+345,2,1937,312230850,1,Dinars,Yugoslavia,United States
+345,2,1938,299415074,1,Dinars,Yugoslavia,United States
+345,2,1939,248011035,1,Dinars,Yugoslavia,United States
+345,2,1945,66864,1000,,Yugoslavia,United States
+345,2,1946,37049,1000,1000 Dinars,Yugoslavia,United States
+345,2,1947,336719,1000,1000 Dinars,Yugoslavia,United States
+345,2,1948,536202,1000,1000 Dinars,Yugoslavia,United States
+345,2,1949,1543819,1000,1000 Dinars,Yugoslavia,United States
+345,4,1920,0,1,,Yugoslavia,Hawaii
+345,4,1921,0,1,,Yugoslavia,Hawaii
+345,4,1922,0,1,,Yugoslavia,Hawaii
+345,4,1923,0,1,,Yugoslavia,Hawaii
+345,4,1924,0,1,,Yugoslavia,Hawaii
+345,4,1925,0,1,,Yugoslavia,Hawaii
+345,4,1926,0,1,,Yugoslavia,Hawaii
+345,4,1927,400,1,,Yugoslavia,Hawaii
+345,4,1928,9000,1,,Yugoslavia,Hawaii
+345,4,1929,0,1,,Yugoslavia,Hawaii
+345,4,1930,1390,1,Dinars,Yugoslavia,Hawaii
+345,4,1931,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1932,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1933,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1934,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1935,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1936,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1937,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1938,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1939,0,1,Dinars,Yugoslavia,Hawaii
+345,4,1945,0,1000,,Yugoslavia,Hawaii
+345,4,1946,0,1000,1000 Dinars,Yugoslavia,Hawaii
+345,4,1947,0,1000,1000 Dinars,Yugoslavia,Hawaii
+345,4,1948,0,1000,1000 Dinars,Yugoslavia,Hawaii
+345,4,1949,0,1000,1000 Dinars,Yugoslavia,Hawaii
+345,6,1920,0,1,,Yugoslavia,Puerto Rico
+345,6,1921,0,1,,Yugoslavia,Puerto Rico
+345,6,1922,0,1,,Yugoslavia,Puerto Rico
+345,6,1923,0,1,,Yugoslavia,Puerto Rico
+345,6,1924,0,1,,Yugoslavia,Puerto Rico
+345,6,1925,0,1,,Yugoslavia,Puerto Rico
+345,6,1926,0,1,,Yugoslavia,Puerto Rico
+345,6,1927,0,1,,Yugoslavia,Puerto Rico
+345,6,1928,26400,1,,Yugoslavia,Puerto Rico
+345,6,1929,0,1,,Yugoslavia,Puerto Rico
+345,6,1930,0,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1931,17356,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1932,0,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1933,60590,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1934,0,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1935,18733,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1936,30929,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1937,119063,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1938,7176,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1939,145419,1,Dinars,Yugoslavia,Puerto Rico
+345,6,1945,0,1000,,Yugoslavia,Puerto Rico
+345,6,1946,0,1000,1000 Dinars,Yugoslavia,Puerto Rico
+345,6,1947,0,1000,1000 Dinars,Yugoslavia,Puerto Rico
+345,6,1948,0,1000,1000 Dinars,Yugoslavia,Puerto Rico
+345,6,1949,0,1000,1000 Dinars,Yugoslavia,Puerto Rico
+345,20,1920,0,1,,Yugoslavia,Canada
+345,20,1921,2175,1,,Yugoslavia,Canada
+345,20,1922,47500,1,,Yugoslavia,Canada
+345,20,1923,453898,1,,Yugoslavia,Canada
+345,20,1924,8585,1,,Yugoslavia,Canada
+345,20,1925,5292191,1,,Yugoslavia,Canada
+345,20,1926,12251006,1,,Yugoslavia,Canada
+345,20,1927,12312377,1,,Yugoslavia,Canada
+345,20,1928,8042180,1,,Yugoslavia,Canada
+345,20,1929,4620652,1,,Yugoslavia,Canada
+345,20,1930,1263506,1,Dinars,Yugoslavia,Canada
+345,20,1931,1504531,1,Dinars,Yugoslavia,Canada
+345,20,1932,241894,1,Dinars,Yugoslavia,Canada
+345,20,1933,367517,1,Dinars,Yugoslavia,Canada
+345,20,1934,482028,1,Dinars,Yugoslavia,Canada
+345,20,1935,467413,1,Dinars,Yugoslavia,Canada
+345,20,1936,479496,1,Dinars,Yugoslavia,Canada
+345,20,1937,341495,1,Dinars,Yugoslavia,Canada
+345,20,1938,332342,1,Dinars,Yugoslavia,Canada
+345,20,1939,257030,1,Dinars,Yugoslavia,Canada
+345,20,1945,1,1000,,Yugoslavia,Canada
+345,20,1946,23814,1000,1000 Dinars,Yugoslavia,Canada
+345,20,1947,30810,1000,1000 Dinars,Yugoslavia,Canada
+345,20,1948,8220,1000,1000 Dinars,Yugoslavia,Canada
+345,20,1949,20980,1000,1000 Dinars,Yugoslavia,Canada
+345,40,1920,0,1,,Yugoslavia,Cuba
+345,40,1921,0,1,,Yugoslavia,Cuba
+345,40,1922,0,1,,Yugoslavia,Cuba
+345,40,1923,0,1,,Yugoslavia,Cuba
+345,40,1924,0,1,,Yugoslavia,Cuba
+345,40,1925,0,1,,Yugoslavia,Cuba
+345,40,1926,0,1,,Yugoslavia,Cuba
+345,40,1927,63300,1,,Yugoslavia,Cuba
+345,40,1928,14298679,1,,Yugoslavia,Cuba
+345,40,1929,30000,1,,Yugoslavia,Cuba
+345,40,1930,401930,1,Dinars,Yugoslavia,Cuba
+345,40,1931,192400,1,Dinars,Yugoslavia,Cuba
+345,40,1932,1230,1,Dinars,Yugoslavia,Cuba
+345,40,1933,10800,1,Dinars,Yugoslavia,Cuba
+345,40,1934,4864,1,Dinars,Yugoslavia,Cuba
+345,40,1935,0,1,Dinars,Yugoslavia,Cuba
+345,40,1936,13146,1,Dinars,Yugoslavia,Cuba
+345,40,1937,927,1,Dinars,Yugoslavia,Cuba
+345,40,1938,16690,1,Dinars,Yugoslavia,Cuba
+345,40,1939,145865,1,Dinars,Yugoslavia,Cuba
+345,40,1945,0,1000,,Yugoslavia,Cuba
+345,40,1946,0,1000,1000 Dinars,Yugoslavia,Cuba
+345,40,1947,0,1000,1000 Dinars,Yugoslavia,Cuba
+345,40,1948,0,1000,1000 Dinars,Yugoslavia,Cuba
+345,40,1949,0,1000,1000 Dinars,Yugoslavia,Cuba
+345,41,1920,0,1,,Yugoslavia,Haiti
+345,41,1921,0,1,,Yugoslavia,Haiti
+345,41,1922,0,1,,Yugoslavia,Haiti
+345,41,1923,0,1,,Yugoslavia,Haiti
+345,41,1924,0,1,,Yugoslavia,Haiti
+345,41,1925,0,1,,Yugoslavia,Haiti
+345,41,1926,0,1,,Yugoslavia,Haiti
+345,41,1927,0,1,,Yugoslavia,Haiti
+345,41,1928,0,1,,Yugoslavia,Haiti
+345,41,1929,0,1,,Yugoslavia,Haiti
+345,41,1930,0,1,Dinars,Yugoslavia,Haiti
+345,41,1931,6000,1,Dinars,Yugoslavia,Haiti
+345,41,1932,0,1,Dinars,Yugoslavia,Haiti
+345,41,1933,0,1,Dinars,Yugoslavia,Haiti
+345,41,1934,83255,1,Dinars,Yugoslavia,Haiti
+345,41,1935,0,1,Dinars,Yugoslavia,Haiti
+345,41,1936,0,1,Dinars,Yugoslavia,Haiti
+345,41,1937,0,1,Dinars,Yugoslavia,Haiti
+345,41,1938,0,1,Dinars,Yugoslavia,Haiti
+345,41,1939,0,1,Dinars,Yugoslavia,Haiti
+345,41,1945,0,1000,,Yugoslavia,Haiti
+345,41,1946,0,1000,1000 Dinars,Yugoslavia,Haiti
+345,41,1947,0,1000,1000 Dinars,Yugoslavia,Haiti
+345,41,1948,0,1000,1000 Dinars,Yugoslavia,Haiti
+345,41,1949,0,1000,1000 Dinars,Yugoslavia,Haiti
+345,42,1920,0,1,,Yugoslavia,Dominican Republic
+345,42,1921,0,1,,Yugoslavia,Dominican Republic
+345,42,1922,0,1,,Yugoslavia,Dominican Republic
+345,42,1923,0,1,,Yugoslavia,Dominican Republic
+345,42,1924,0,1,,Yugoslavia,Dominican Republic
+345,42,1925,0,1,,Yugoslavia,Dominican Republic
+345,42,1926,0,1,,Yugoslavia,Dominican Republic
+345,42,1927,0,1,,Yugoslavia,Dominican Republic
+345,42,1928,0,1,,Yugoslavia,Dominican Republic
+345,42,1929,0,1,,Yugoslavia,Dominican Republic
+345,42,1930,26510,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1931,5000,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1932,0,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1933,1572214,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1934,25262,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1935,4282,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1936,126081,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1937,141502,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1938,641498,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1939,699144,1,Dinars,Yugoslavia,Dominican Republic
+345,42,1945,0,1000,,Yugoslavia,Dominican Republic
+345,42,1946,0,1000,1000 Dinars,Yugoslavia,Dominican Republic
+345,42,1947,0,1000,1000 Dinars,Yugoslavia,Dominican Republic
+345,42,1948,0,1000,1000 Dinars,Yugoslavia,Dominican Republic
+345,42,1949,0,1000,1000 Dinars,Yugoslavia,Dominican Republic
+345,51,1920,0,1,,Yugoslavia,Jamaica
+345,51,1921,0,1,,Yugoslavia,Jamaica
+345,51,1922,0,1,,Yugoslavia,Jamaica
+345,51,1923,0,1,,Yugoslavia,Jamaica
+345,51,1924,0,1,,Yugoslavia,Jamaica
+345,51,1925,0,1,,Yugoslavia,Jamaica
+345,51,1926,38000,1,,Yugoslavia,Jamaica
+345,51,1927,155110,1,,Yugoslavia,Jamaica
+345,51,1928,228530,1,,Yugoslavia,Jamaica
+345,51,1929,221270,1,,Yugoslavia,Jamaica
+345,51,1930,202045,1,Dinars,Yugoslavia,Jamaica
+345,51,1931,383748,1,Dinars,Yugoslavia,Jamaica
+345,51,1932,1252291,1,Dinars,Yugoslavia,Jamaica
+345,51,1933,495090,1,Dinars,Yugoslavia,Jamaica
+345,51,1934,752146,1,Dinars,Yugoslavia,Jamaica
+345,51,1935,674812,1,Dinars,Yugoslavia,Jamaica
+345,51,1936,724534,1,Dinars,Yugoslavia,Jamaica
+345,51,1937,799338,1,Dinars,Yugoslavia,Jamaica
+345,51,1938,457509,1,Dinars,Yugoslavia,Jamaica
+345,51,1939,326483,1,Dinars,Yugoslavia,Jamaica
+345,51,1945,0,1000,,Yugoslavia,Jamaica
+345,51,1946,0,1000,1000 Dinars,Yugoslavia,Jamaica
+345,51,1947,0,1000,1000 Dinars,Yugoslavia,Jamaica
+345,51,1948,0,1000,1000 Dinars,Yugoslavia,Jamaica
+345,51,1949,0,1000,1000 Dinars,Yugoslavia,Jamaica
+345,70,1920,0,1,,Yugoslavia,Mexico
+345,70,1921,0,1,,Yugoslavia,Mexico
+345,70,1922,0,1,,Yugoslavia,Mexico
+345,70,1923,431279,1,,Yugoslavia,Mexico
+345,70,1924,60664,1,,Yugoslavia,Mexico
+345,70,1925,379170,1,,Yugoslavia,Mexico
+345,70,1926,773095,1,,Yugoslavia,Mexico
+345,70,1927,612890,1,,Yugoslavia,Mexico
+345,70,1928,1172205,1,,Yugoslavia,Mexico
+345,70,1929,941846,1,,Yugoslavia,Mexico
+345,70,1930,673247,1,Dinars,Yugoslavia,Mexico
+345,70,1931,1195698,1,Dinars,Yugoslavia,Mexico
+345,70,1932,963980,1,Dinars,Yugoslavia,Mexico
+345,70,1933,877702,1,Dinars,Yugoslavia,Mexico
+345,70,1934,1297623,1,Dinars,Yugoslavia,Mexico
+345,70,1935,2027381,1,Dinars,Yugoslavia,Mexico
+345,70,1936,2877646,1,Dinars,Yugoslavia,Mexico
+345,70,1937,6353497,1,Dinars,Yugoslavia,Mexico
+345,70,1938,4292894,1,Dinars,Yugoslavia,Mexico
+345,70,1939,804386,1,Dinars,Yugoslavia,Mexico
+345,70,1945,1092,1000,,Yugoslavia,Mexico
+345,70,1946,0,1000,1000 Dinars,Yugoslavia,Mexico
+345,70,1947,0,1000,1000 Dinars,Yugoslavia,Mexico
+345,70,1948,898,1000,1000 Dinars,Yugoslavia,Mexico
+345,70,1949,33112,1000,1000 Dinars,Yugoslavia,Mexico
+345,90,1920,0,1,,Yugoslavia,Guatemala
+345,90,1921,0,1,,Yugoslavia,Guatemala
+345,90,1922,0,1,,Yugoslavia,Guatemala
+345,90,1923,15000,1,,Yugoslavia,Guatemala
+345,90,1924,0,1,,Yugoslavia,Guatemala
+345,90,1925,0,1,,Yugoslavia,Guatemala
+345,90,1926,10000,1,,Yugoslavia,Guatemala
+345,90,1927,4000,1,,Yugoslavia,Guatemala
+345,90,1928,7000,1,,Yugoslavia,Guatemala
+345,90,1929,13500,1,,Yugoslavia,Guatemala
+345,90,1930,105,1,Dinars,Yugoslavia,Guatemala
+345,90,1931,55400,1,Dinars,Yugoslavia,Guatemala
+345,90,1932,0,1,Dinars,Yugoslavia,Guatemala
+345,90,1933,671863,1,Dinars,Yugoslavia,Guatemala
+345,90,1934,14808,1,Dinars,Yugoslavia,Guatemala
+345,90,1935,43526,1,Dinars,Yugoslavia,Guatemala
+345,90,1936,98241,1,Dinars,Yugoslavia,Guatemala
+345,90,1937,17492,1,Dinars,Yugoslavia,Guatemala
+345,90,1938,876718,1,Dinars,Yugoslavia,Guatemala
+345,90,1939,629586,1,Dinars,Yugoslavia,Guatemala
+345,90,1945,0,1000,,Yugoslavia,Guatemala
+345,90,1946,0,1000,1000 Dinars,Yugoslavia,Guatemala
+345,90,1947,0,1000,1000 Dinars,Yugoslavia,Guatemala
+345,90,1948,0,1000,1000 Dinars,Yugoslavia,Guatemala
+345,90,1949,0,1000,1000 Dinars,Yugoslavia,Guatemala
+345,91,1920,0,1,,Yugoslavia,Honduras
+345,91,1921,0,1,,Yugoslavia,Honduras
+345,91,1922,0,1,,Yugoslavia,Honduras
+345,91,1923,0,1,,Yugoslavia,Honduras
+345,91,1924,0,1,,Yugoslavia,Honduras
+345,91,1925,0,1,,Yugoslavia,Honduras
+345,91,1926,6000,1,,Yugoslavia,Honduras
+345,91,1927,12500,1,,Yugoslavia,Honduras
+345,91,1928,1340,1,,Yugoslavia,Honduras
+345,91,1929,0,1,,Yugoslavia,Honduras
+345,91,1930,0,1,Dinars,Yugoslavia,Honduras
+345,91,1931,40780,1,Dinars,Yugoslavia,Honduras
+345,91,1932,27940,1,Dinars,Yugoslavia,Honduras
+345,91,1933,441368,1,Dinars,Yugoslavia,Honduras
+345,91,1934,43671,1,Dinars,Yugoslavia,Honduras
+345,91,1935,73908,1,Dinars,Yugoslavia,Honduras
+345,91,1936,589,1,Dinars,Yugoslavia,Honduras
+345,91,1937,46290,1,Dinars,Yugoslavia,Honduras
+345,91,1938,64183,1,Dinars,Yugoslavia,Honduras
+345,91,1939,0,1,Dinars,Yugoslavia,Honduras
+345,91,1945,0,1000,,Yugoslavia,Honduras
+345,91,1946,0,1000,1000 Dinars,Yugoslavia,Honduras
+345,91,1947,0,1000,1000 Dinars,Yugoslavia,Honduras
+345,91,1948,0,1000,1000 Dinars,Yugoslavia,Honduras
+345,91,1949,0,1000,1000 Dinars,Yugoslavia,Honduras
+345,92,1920,0,1,,Yugoslavia,El Salvador
+345,92,1921,0,1,,Yugoslavia,El Salvador
+345,92,1922,0,1,,Yugoslavia,El Salvador
+345,92,1923,18000,1,,Yugoslavia,El Salvador
+345,92,1924,0,1,,Yugoslavia,El Salvador
+345,92,1925,5000,1,,Yugoslavia,El Salvador
+345,92,1926,18250,1,,Yugoslavia,El Salvador
+345,92,1927,0,1,,Yugoslavia,El Salvador
+345,92,1928,6475,1,,Yugoslavia,El Salvador
+345,92,1929,18800,1,,Yugoslavia,El Salvador
+345,92,1930,0,1,Dinars,Yugoslavia,El Salvador
+345,92,1931,12550,1,Dinars,Yugoslavia,El Salvador
+345,92,1932,15638,1,Dinars,Yugoslavia,El Salvador
+345,92,1933,1054793,1,Dinars,Yugoslavia,El Salvador
+345,92,1934,45726,1,Dinars,Yugoslavia,El Salvador
+345,92,1935,58763,1,Dinars,Yugoslavia,El Salvador
+345,92,1936,118969,1,Dinars,Yugoslavia,El Salvador
+345,92,1937,20214,1,Dinars,Yugoslavia,El Salvador
+345,92,1938,244114,1,Dinars,Yugoslavia,El Salvador
+345,92,1939,253726,1,Dinars,Yugoslavia,El Salvador
+345,92,1945,0,1000,,Yugoslavia,El Salvador
+345,92,1946,0,1000,1000 Dinars,Yugoslavia,El Salvador
+345,92,1947,0,1000,1000 Dinars,Yugoslavia,El Salvador
+345,92,1948,0,1000,1000 Dinars,Yugoslavia,El Salvador
+345,92,1949,0,1000,1000 Dinars,Yugoslavia,El Salvador
+345,93,1920,0,1,,Yugoslavia,Nicaragua
+345,93,1921,0,1,,Yugoslavia,Nicaragua
+345,93,1922,0,1,,Yugoslavia,Nicaragua
+345,93,1923,0,1,,Yugoslavia,Nicaragua
+345,93,1924,0,1,,Yugoslavia,Nicaragua
+345,93,1925,0,1,,Yugoslavia,Nicaragua
+345,93,1926,0,1,,Yugoslavia,Nicaragua
+345,93,1927,0,1,,Yugoslavia,Nicaragua
+345,93,1928,0,1,,Yugoslavia,Nicaragua
+345,93,1929,0,1,,Yugoslavia,Nicaragua
+345,93,1930,0,1,Dinars,Yugoslavia,Nicaragua
+345,93,1931,26915,1,Dinars,Yugoslavia,Nicaragua
+345,93,1932,0,1,Dinars,Yugoslavia,Nicaragua
+345,93,1933,1272800,1,Dinars,Yugoslavia,Nicaragua
+345,93,1934,39816,1,Dinars,Yugoslavia,Nicaragua
+345,93,1935,44013,1,Dinars,Yugoslavia,Nicaragua
+345,93,1936,75233,1,Dinars,Yugoslavia,Nicaragua
+345,93,1937,107823,1,Dinars,Yugoslavia,Nicaragua
+345,93,1938,129651,1,Dinars,Yugoslavia,Nicaragua
+345,93,1939,184257,1,Dinars,Yugoslavia,Nicaragua
+345,93,1945,0,1000,,Yugoslavia,Nicaragua
+345,93,1946,0,1000,1000 Dinars,Yugoslavia,Nicaragua
+345,93,1947,0,1000,1000 Dinars,Yugoslavia,Nicaragua
+345,93,1948,0,1000,1000 Dinars,Yugoslavia,Nicaragua
+345,93,1949,15372,1000,1000 Dinars,Yugoslavia,Nicaragua
+345,94,1920,0,1,,Yugoslavia,Costa Rica
+345,94,1921,0,1,,Yugoslavia,Costa Rica
+345,94,1922,0,1,,Yugoslavia,Costa Rica
+345,94,1923,0,1,,Yugoslavia,Costa Rica
+345,94,1924,0,1,,Yugoslavia,Costa Rica
+345,94,1925,0,1,,Yugoslavia,Costa Rica
+345,94,1926,0,1,,Yugoslavia,Costa Rica
+345,94,1927,0,1,,Yugoslavia,Costa Rica
+345,94,1928,0,1,,Yugoslavia,Costa Rica
+345,94,1929,42000,1,,Yugoslavia,Costa Rica
+345,94,1930,136200,1,Dinars,Yugoslavia,Costa Rica
+345,94,1931,3830,1,Dinars,Yugoslavia,Costa Rica
+345,94,1932,22270,1,Dinars,Yugoslavia,Costa Rica
+345,94,1933,676636,1,Dinars,Yugoslavia,Costa Rica
+345,94,1934,844410,1,Dinars,Yugoslavia,Costa Rica
+345,94,1935,440468,1,Dinars,Yugoslavia,Costa Rica
+345,94,1936,442451,1,Dinars,Yugoslavia,Costa Rica
+345,94,1937,658423,1,Dinars,Yugoslavia,Costa Rica
+345,94,1938,1244546,1,Dinars,Yugoslavia,Costa Rica
+345,94,1939,1564064,1,Dinars,Yugoslavia,Costa Rica
+345,94,1945,0,1000,,Yugoslavia,Costa Rica
+345,94,1946,0,1000,1000 Dinars,Yugoslavia,Costa Rica
+345,94,1947,0,1000,1000 Dinars,Yugoslavia,Costa Rica
+345,94,1948,0,1000,1000 Dinars,Yugoslavia,Costa Rica
+345,94,1949,0,1000,1000 Dinars,Yugoslavia,Costa Rica
+345,95,1920,0,1,,Yugoslavia,Panama
+345,95,1921,0,1,,Yugoslavia,Panama
+345,95,1922,0,1,,Yugoslavia,Panama
+345,95,1923,0,1,,Yugoslavia,Panama
+345,95,1924,0,1,,Yugoslavia,Panama
+345,95,1925,0,1,,Yugoslavia,Panama
+345,95,1926,0,1,,Yugoslavia,Panama
+345,95,1927,0,1,,Yugoslavia,Panama
+345,95,1928,0,1,,Yugoslavia,Panama
+345,95,1929,0,1,,Yugoslavia,Panama
+345,95,1930,0,1,Dinars,Yugoslavia,Panama
+345,95,1931,0,1,Dinars,Yugoslavia,Panama
+345,95,1932,0,1,Dinars,Yugoslavia,Panama
+345,95,1933,277158,1,Dinars,Yugoslavia,Panama
+345,95,1934,188542,1,Dinars,Yugoslavia,Panama
+345,95,1935,170,1,Dinars,Yugoslavia,Panama
+345,95,1936,0,1,Dinars,Yugoslavia,Panama
+345,95,1937,0,1,Dinars,Yugoslavia,Panama
+345,95,1938,0,1,Dinars,Yugoslavia,Panama
+345,95,1939,0,1,Dinars,Yugoslavia,Panama
+345,95,1945,0,1000,,Yugoslavia,Panama
+345,95,1946,0,1000,1000 Dinars,Yugoslavia,Panama
+345,95,1947,0,1000,1000 Dinars,Yugoslavia,Panama
+345,95,1948,0,1000,1000 Dinars,Yugoslavia,Panama
+345,95,1949,0,1000,1000 Dinars,Yugoslavia,Panama
+345,100,1920,0,1,,Yugoslavia,Colombia
+345,100,1921,0,1,,Yugoslavia,Colombia
+345,100,1922,0,1,,Yugoslavia,Colombia
+345,100,1923,0,1,,Yugoslavia,Colombia
+345,100,1924,0,1,,Yugoslavia,Colombia
+345,100,1925,197100,1,,Yugoslavia,Colombia
+345,100,1926,582228,1,,Yugoslavia,Colombia
+345,100,1927,554020,1,,Yugoslavia,Colombia
+345,100,1928,3228196,1,,Yugoslavia,Colombia
+345,100,1929,6666125,1,,Yugoslavia,Colombia
+345,100,1930,6530921,1,Dinars,Yugoslavia,Colombia
+345,100,1931,6406826,1,Dinars,Yugoslavia,Colombia
+345,100,1932,917850,1,Dinars,Yugoslavia,Colombia
+345,100,1933,7946572,1,Dinars,Yugoslavia,Colombia
+345,100,1934,11498593,1,Dinars,Yugoslavia,Colombia
+345,100,1935,11259891,1,Dinars,Yugoslavia,Colombia
+345,100,1936,9526080,1,Dinars,Yugoslavia,Colombia
+345,100,1937,14430038,1,Dinars,Yugoslavia,Colombia
+345,100,1938,9288285,1,Dinars,Yugoslavia,Colombia
+345,100,1939,5042121,1,Dinars,Yugoslavia,Colombia
+345,100,1945,0,1000,,Yugoslavia,Colombia
+345,100,1946,0,1000,1000 Dinars,Yugoslavia,Colombia
+345,100,1947,0,1000,1000 Dinars,Yugoslavia,Colombia
+345,100,1948,0,1000,1000 Dinars,Yugoslavia,Colombia
+345,100,1949,0,1000,1000 Dinars,Yugoslavia,Colombia
+345,101,1920,0,1,,Yugoslavia,Venezuela
+345,101,1921,0,1,,Yugoslavia,Venezuela
+345,101,1922,28000,1,,Yugoslavia,Venezuela
+345,101,1923,0,1,,Yugoslavia,Venezuela
+345,101,1924,3000,1,,Yugoslavia,Venezuela
+345,101,1925,0,1,,Yugoslavia,Venezuela
+345,101,1926,52000,1,,Yugoslavia,Venezuela
+345,101,1927,114200,1,,Yugoslavia,Venezuela
+345,101,1928,34400,1,,Yugoslavia,Venezuela
+345,101,1929,32400,1,,Yugoslavia,Venezuela
+345,101,1930,233605,1,Dinars,Yugoslavia,Venezuela
+345,101,1931,5500,1,Dinars,Yugoslavia,Venezuela
+345,101,1932,2544,1,Dinars,Yugoslavia,Venezuela
+345,101,1933,33936,1,Dinars,Yugoslavia,Venezuela
+345,101,1934,81609,1,Dinars,Yugoslavia,Venezuela
+345,101,1935,444538,1,Dinars,Yugoslavia,Venezuela
+345,101,1936,2087283,1,Dinars,Yugoslavia,Venezuela
+345,101,1937,3649627,1,Dinars,Yugoslavia,Venezuela
+345,101,1938,56020,1,Dinars,Yugoslavia,Venezuela
+345,101,1939,180,1,Dinars,Yugoslavia,Venezuela
+345,101,1945,0,1000,,Yugoslavia,Venezuela
+345,101,1946,0,1000,1000 Dinars,Yugoslavia,Venezuela
+345,101,1947,0,1000,1000 Dinars,Yugoslavia,Venezuela
+345,101,1948,0,1000,1000 Dinars,Yugoslavia,Venezuela
+345,101,1949,0,1000,1000 Dinars,Yugoslavia,Venezuela
+345,130,1920,0,1,,Yugoslavia,Ecuador
+345,130,1921,0,1,,Yugoslavia,Ecuador
+345,130,1922,0,1,,Yugoslavia,Ecuador
+345,130,1923,0,1,,Yugoslavia,Ecuador
+345,130,1924,0,1,,Yugoslavia,Ecuador
+345,130,1925,0,1,,Yugoslavia,Ecuador
+345,130,1926,20000,1,,Yugoslavia,Ecuador
+345,130,1927,0,1,,Yugoslavia,Ecuador
+345,130,1928,45110,1,,Yugoslavia,Ecuador
+345,130,1929,413900,1,,Yugoslavia,Ecuador
+345,130,1930,92800,1,Dinars,Yugoslavia,Ecuador
+345,130,1931,297455,1,Dinars,Yugoslavia,Ecuador
+345,130,1932,102832,1,Dinars,Yugoslavia,Ecuador
+345,130,1933,23205,1,Dinars,Yugoslavia,Ecuador
+345,130,1934,183891,1,Dinars,Yugoslavia,Ecuador
+345,130,1935,455849,1,Dinars,Yugoslavia,Ecuador
+345,130,1936,568318,1,Dinars,Yugoslavia,Ecuador
+345,130,1937,1031679,1,Dinars,Yugoslavia,Ecuador
+345,130,1938,765812,1,Dinars,Yugoslavia,Ecuador
+345,130,1939,650465,1,Dinars,Yugoslavia,Ecuador
+345,130,1945,0,1000,,Yugoslavia,Ecuador
+345,130,1946,0,1000,1000 Dinars,Yugoslavia,Ecuador
+345,130,1947,828,1000,1000 Dinars,Yugoslavia,Ecuador
+345,130,1948,0,1000,1000 Dinars,Yugoslavia,Ecuador
+345,130,1949,0,1000,1000 Dinars,Yugoslavia,Ecuador
+345,135,1920,0,1,,Yugoslavia,Peru
+345,135,1921,0,1,,Yugoslavia,Peru
+345,135,1922,0,1,,Yugoslavia,Peru
+345,135,1923,0,1,,Yugoslavia,Peru
+345,135,1924,0,1,,Yugoslavia,Peru
+345,135,1925,240,1,,Yugoslavia,Peru
+345,135,1926,16400,1,,Yugoslavia,Peru
+345,135,1927,2280,1,,Yugoslavia,Peru
+345,135,1928,151160,1,,Yugoslavia,Peru
+345,135,1929,39175,1,,Yugoslavia,Peru
+345,135,1930,145030,1,Dinars,Yugoslavia,Peru
+345,135,1931,1516808,1,Dinars,Yugoslavia,Peru
+345,135,1932,2053,1,Dinars,Yugoslavia,Peru
+345,135,1933,201290,1,Dinars,Yugoslavia,Peru
+345,135,1934,74701,1,Dinars,Yugoslavia,Peru
+345,135,1935,4414166,1,Dinars,Yugoslavia,Peru
+345,135,1936,3675644,1,Dinars,Yugoslavia,Peru
+345,135,1937,13652308,1,Dinars,Yugoslavia,Peru
+345,135,1938,7464967,1,Dinars,Yugoslavia,Peru
+345,135,1939,6973703,1,Dinars,Yugoslavia,Peru
+345,135,1945,0,1000,,Yugoslavia,Peru
+345,135,1946,0,1000,1000 Dinars,Yugoslavia,Peru
+345,135,1947,0,1000,1000 Dinars,Yugoslavia,Peru
+345,135,1948,0,1000,1000 Dinars,Yugoslavia,Peru
+345,135,1949,481,1000,1000 Dinars,Yugoslavia,Peru
+345,140,1920,2163752,1,,Yugoslavia,Brazil
+345,140,1921,9931119,1,,Yugoslavia,Brazil
+345,140,1922,4290792,1,,Yugoslavia,Brazil
+345,140,1923,17334296,1,,Yugoslavia,Brazil
+345,140,1924,21557791,1,,Yugoslavia,Brazil
+345,140,1925,99061898,1,,Yugoslavia,Brazil
+345,140,1926,187470447,1,,Yugoslavia,Brazil
+345,140,1927,188037695,1,,Yugoslavia,Brazil
+345,140,1928,208349158,1,,Yugoslavia,Brazil
+345,140,1929,214183703,1,,Yugoslavia,Brazil
+345,140,1930,134859364,1,Dinars,Yugoslavia,Brazil
+345,140,1931,96867254,1,Dinars,Yugoslavia,Brazil
+345,140,1932,74557601,1,Dinars,Yugoslavia,Brazil
+345,140,1933,54197193,1,Dinars,Yugoslavia,Brazil
+345,140,1934,58258481,1,Dinars,Yugoslavia,Brazil
+345,140,1935,55736075,1,Dinars,Yugoslavia,Brazil
+345,140,1936,65154648,1,Dinars,Yugoslavia,Brazil
+345,140,1937,51932116,1,Dinars,Yugoslavia,Brazil
+345,140,1938,48399600,1,Dinars,Yugoslavia,Brazil
+345,140,1939,51377354,1,Dinars,Yugoslavia,Brazil
+345,140,1945,0,1000,,Yugoslavia,Brazil
+345,140,1946,0,1000,1000 Dinars,Yugoslavia,Brazil
+345,140,1947,0,1000,1000 Dinars,Yugoslavia,Brazil
+345,140,1948,20202,1000,1000 Dinars,Yugoslavia,Brazil
+345,140,1949,72127,1000,1000 Dinars,Yugoslavia,Brazil
+345,145,1920,0,1,,Yugoslavia,Bolivia
+345,145,1921,0,1,,Yugoslavia,Bolivia
+345,145,1922,0,1,,Yugoslavia,Bolivia
+345,145,1923,0,1,,Yugoslavia,Bolivia
+345,145,1924,0,1,,Yugoslavia,Bolivia
+345,145,1925,852089,1,,Yugoslavia,Bolivia
+345,145,1926,3800,1,,Yugoslavia,Bolivia
+345,145,1927,2500,1,,Yugoslavia,Bolivia
+345,145,1928,13255,1,,Yugoslavia,Bolivia
+345,145,1929,250,1,,Yugoslavia,Bolivia
+345,145,1930,240,1,Dinars,Yugoslavia,Bolivia
+345,145,1931,100165,1,Dinars,Yugoslavia,Bolivia
+345,145,1932,0,1,Dinars,Yugoslavia,Bolivia
+345,145,1933,55,1,Dinars,Yugoslavia,Bolivia
+345,145,1934,620,1,Dinars,Yugoslavia,Bolivia
+345,145,1935,1703,1,Dinars,Yugoslavia,Bolivia
+345,145,1936,500,1,Dinars,Yugoslavia,Bolivia
+345,145,1937,1750,1,Dinars,Yugoslavia,Bolivia
+345,145,1938,157783,1,Dinars,Yugoslavia,Bolivia
+345,145,1939,94446,1,Dinars,Yugoslavia,Bolivia
+345,145,1945,0,1000,,Yugoslavia,Bolivia
+345,145,1946,0,1000,1000 Dinars,Yugoslavia,Bolivia
+345,145,1947,0,1000,1000 Dinars,Yugoslavia,Bolivia
+345,145,1948,0,1000,1000 Dinars,Yugoslavia,Bolivia
+345,145,1949,0,1000,1000 Dinars,Yugoslavia,Bolivia
+345,150,1920,0,1,,Yugoslavia,Paraguay
+345,150,1921,0,1,,Yugoslavia,Paraguay
+345,150,1922,0,1,,Yugoslavia,Paraguay
+345,150,1923,0,1,,Yugoslavia,Paraguay
+345,150,1924,0,1,,Yugoslavia,Paraguay
+345,150,1925,0,1,,Yugoslavia,Paraguay
+345,150,1926,250,1,,Yugoslavia,Paraguay
+345,150,1927,0,1,,Yugoslavia,Paraguay
+345,150,1928,92510,1,,Yugoslavia,Paraguay
+345,150,1929,340600,1,,Yugoslavia,Paraguay
+345,150,1930,314140,1,Dinars,Yugoslavia,Paraguay
+345,150,1931,180065,1,Dinars,Yugoslavia,Paraguay
+345,150,1932,120374,1,Dinars,Yugoslavia,Paraguay
+345,150,1933,609778,1,Dinars,Yugoslavia,Paraguay
+345,150,1934,961683,1,Dinars,Yugoslavia,Paraguay
+345,150,1935,1465950,1,Dinars,Yugoslavia,Paraguay
+345,150,1936,1993401,1,Dinars,Yugoslavia,Paraguay
+345,150,1937,1339801,1,Dinars,Yugoslavia,Paraguay
+345,150,1938,1455681,1,Dinars,Yugoslavia,Paraguay
+345,150,1939,977605,1,Dinars,Yugoslavia,Paraguay
+345,150,1945,0,1000,,Yugoslavia,Paraguay
+345,150,1946,0,1000,1000 Dinars,Yugoslavia,Paraguay
+345,150,1947,0,1000,1000 Dinars,Yugoslavia,Paraguay
+345,150,1948,0,1000,1000 Dinars,Yugoslavia,Paraguay
+345,150,1949,0,1000,1000 Dinars,Yugoslavia,Paraguay
+345,155,1920,0,1,,Yugoslavia,Chile
+345,155,1921,0,1,,Yugoslavia,Chile
+345,155,1922,51000,1,,Yugoslavia,Chile
+345,155,1923,4000,1,,Yugoslavia,Chile
+345,155,1924,68000,1,,Yugoslavia,Chile
+345,155,1925,724000,1,,Yugoslavia,Chile
+345,155,1926,1142190,1,,Yugoslavia,Chile
+345,155,1927,2509020,1,,Yugoslavia,Chile
+345,155,1928,3623470,1,,Yugoslavia,Chile
+345,155,1929,5860805,1,,Yugoslavia,Chile
+345,155,1930,7567705,1,Dinars,Yugoslavia,Chile
+345,155,1931,3965870,1,Dinars,Yugoslavia,Chile
+345,155,1932,2151055,1,Dinars,Yugoslavia,Chile
+345,155,1933,3573560,1,Dinars,Yugoslavia,Chile
+345,155,1934,6092,1,Dinars,Yugoslavia,Chile
+345,155,1935,1103335,1,Dinars,Yugoslavia,Chile
+345,155,1936,900650,1,Dinars,Yugoslavia,Chile
+345,155,1937,1824873,1,Dinars,Yugoslavia,Chile
+345,155,1938,1982564,1,Dinars,Yugoslavia,Chile
+345,155,1939,2801124,1,Dinars,Yugoslavia,Chile
+345,155,1945,0,1000,,Yugoslavia,Chile
+345,155,1946,0,1000,1000 Dinars,Yugoslavia,Chile
+345,155,1947,0,1000,1000 Dinars,Yugoslavia,Chile
+345,155,1948,0,1000,1000 Dinars,Yugoslavia,Chile
+345,155,1949,0,1000,1000 Dinars,Yugoslavia,Chile
+345,160,1920,0,1,,Yugoslavia,Argentina
+345,160,1921,1832090,1,,Yugoslavia,Argentina
+345,160,1922,9539039,1,,Yugoslavia,Argentina
+345,160,1923,18802337,1,,Yugoslavia,Argentina
+345,160,1924,13632551,1,,Yugoslavia,Argentina
+345,160,1925,34929648,1,,Yugoslavia,Argentina
+345,160,1926,29721710,1,,Yugoslavia,Argentina
+345,160,1927,38971953,1,,Yugoslavia,Argentina
+345,160,1928,32683006,1,,Yugoslavia,Argentina
+345,160,1929,49679307,1,,Yugoslavia,Argentina
+345,160,1930,61400942,1,Dinars,Yugoslavia,Argentina
+345,160,1931,51107817,1,Dinars,Yugoslavia,Argentina
+345,160,1932,27501463,1,Dinars,Yugoslavia,Argentina
+345,160,1933,31718097,1,Dinars,Yugoslavia,Argentina
+345,160,1934,64945110,1,Dinars,Yugoslavia,Argentina
+345,160,1935,57260998,1,Dinars,Yugoslavia,Argentina
+345,160,1936,60468566,1,Dinars,Yugoslavia,Argentina
+345,160,1937,74921028,1,Dinars,Yugoslavia,Argentina
+345,160,1938,92096527,1,Dinars,Yugoslavia,Argentina
+345,160,1939,60957931,1,Dinars,Yugoslavia,Argentina
+345,160,1945,0,1000,,Yugoslavia,Argentina
+345,160,1946,41,1000,1000 Dinars,Yugoslavia,Argentina
+345,160,1947,287056,1000,1000 Dinars,Yugoslavia,Argentina
+345,160,1948,362541,1000,1000 Dinars,Yugoslavia,Argentina
+345,160,1949,793773,1000,1000 Dinars,Yugoslavia,Argentina
+345,165,1920,0,1,,Yugoslavia,Uruguay
+345,165,1921,0,1,,Yugoslavia,Uruguay
+345,165,1922,0,1,,Yugoslavia,Uruguay
+345,165,1923,105,1,,Yugoslavia,Uruguay
+345,165,1924,935250,1,,Yugoslavia,Uruguay
+345,165,1925,621000,1,,Yugoslavia,Uruguay
+345,165,1926,3399672,1,,Yugoslavia,Uruguay
+345,165,1927,3937350,1,,Yugoslavia,Uruguay
+345,165,1928,5445100,1,,Yugoslavia,Uruguay
+345,165,1929,11749275,1,,Yugoslavia,Uruguay
+345,165,1930,9383570,1,Dinars,Yugoslavia,Uruguay
+345,165,1931,16854144,1,Dinars,Yugoslavia,Uruguay
+345,165,1932,691136,1,Dinars,Yugoslavia,Uruguay
+345,165,1933,964881,1,Dinars,Yugoslavia,Uruguay
+345,165,1934,3115588,1,Dinars,Yugoslavia,Uruguay
+345,165,1935,9009657,1,Dinars,Yugoslavia,Uruguay
+345,165,1936,14014619,1,Dinars,Yugoslavia,Uruguay
+345,165,1937,28818447,1,Dinars,Yugoslavia,Uruguay
+345,165,1938,46826743,1,Dinars,Yugoslavia,Uruguay
+345,165,1939,27495711,1,Dinars,Yugoslavia,Uruguay
+345,165,1945,0,1000,,Yugoslavia,Uruguay
+345,165,1946,0,1000,1000 Dinars,Yugoslavia,Uruguay
+345,165,1947,141297,1000,1000 Dinars,Yugoslavia,Uruguay
+345,165,1948,24255,1000,1000 Dinars,Yugoslavia,Uruguay
+345,165,1949,93958,1000,1000 Dinars,Yugoslavia,Uruguay
+345,200,1920,244326095,1,,Yugoslavia,United Kingdom
+345,200,1921,246200294,1,,Yugoslavia,United Kingdom
+345,200,1922,458541747,1,,Yugoslavia,United Kingdom
+345,200,1923,823372751,1,,Yugoslavia,United Kingdom
+345,200,1924,874441631,1,,Yugoslavia,United Kingdom
+345,200,1925,713169114,1,,Yugoslavia,United Kingdom
+345,200,1926,438931613,1,,Yugoslavia,United Kingdom
+345,200,1927,510846540,1,,Yugoslavia,United Kingdom
+345,200,1928,446544417,1,,Yugoslavia,United Kingdom
+345,200,1929,425900670,1,,Yugoslavia,United Kingdom
+345,200,1930,411825825,1,Dinars,Yugoslavia,United Kingdom
+345,200,1931,315523500,1,Dinars,Yugoslavia,United Kingdom
+345,200,1932,212617685,1,Dinars,Yugoslavia,United Kingdom
+345,200,1933,280414203,1,Dinars,Yugoslavia,United Kingdom
+345,200,1934,331273325,1,Dinars,Yugoslavia,United Kingdom
+345,200,1935,373445181,1,Dinars,Yugoslavia,United Kingdom
+345,200,1936,346910329,1,Dinars,Yugoslavia,United Kingdom
+345,200,1937,409140626,1,Dinars,Yugoslavia,United Kingdom
+345,200,1938,431326346,1,Dinars,Yugoslavia,United Kingdom
+345,200,1939,241996404,1,Dinars,Yugoslavia,United Kingdom
+345,200,1945,1,1000,,Yugoslavia,United Kingdom
+345,200,1946,7226,1000,1000 Dinars,Yugoslavia,United Kingdom
+345,200,1947,461163,1000,1000 Dinars,Yugoslavia,United Kingdom
+345,200,1948,726881,1000,1000 Dinars,Yugoslavia,United Kingdom
+345,200,1949,1550398,1000,1000 Dinars,Yugoslavia,United Kingdom
+345,205,1920,0,1,,Yugoslavia,Ireland
+345,205,1921,0,1,,Yugoslavia,Ireland
+345,205,1922,0,1,,Yugoslavia,Ireland
+345,205,1923,0,1,,Yugoslavia,Ireland
+345,205,1924,0,1,,Yugoslavia,Ireland
+345,205,1925,0,1,,Yugoslavia,Ireland
+345,205,1926,0,1,,Yugoslavia,Ireland
+345,205,1927,0,1,,Yugoslavia,Ireland
+345,205,1928,0,1,,Yugoslavia,Ireland
+345,205,1929,0,1,,Yugoslavia,Ireland
+345,205,1930,0,1,Dinars,Yugoslavia,Ireland
+345,205,1931,0,1,Dinars,Yugoslavia,Ireland
+345,205,1932,0,1,Dinars,Yugoslavia,Ireland
+345,205,1933,100420,1,Dinars,Yugoslavia,Ireland
+345,205,1934,222205,1,Dinars,Yugoslavia,Ireland
+345,205,1935,285621,1,Dinars,Yugoslavia,Ireland
+345,205,1936,791975,1,Dinars,Yugoslavia,Ireland
+345,205,1937,714320,1,Dinars,Yugoslavia,Ireland
+345,205,1938,14028,1,Dinars,Yugoslavia,Ireland
+345,205,1939,557792,1,Dinars,Yugoslavia,Ireland
+345,205,1945,0,1000,,Yugoslavia,Ireland
+345,205,1946,0,1000,1000 Dinars,Yugoslavia,Ireland
+345,205,1947,0,1000,1000 Dinars,Yugoslavia,Ireland
+345,205,1948,0,1000,1000 Dinars,Yugoslavia,Ireland
+345,205,1949,0,1000,1000 Dinars,Yugoslavia,Ireland
+345,210,1920,4425536,1,,Yugoslavia,Netherlands
+345,210,1921,47355669,1,,Yugoslavia,Netherlands
+345,210,1922,95390901,1,,Yugoslavia,Netherlands
+345,210,1923,76174476,1,,Yugoslavia,Netherlands
+345,210,1924,73994063,1,,Yugoslavia,Netherlands
+345,210,1925,159496226,1,,Yugoslavia,Netherlands
+345,210,1926,64436768,1,,Yugoslavia,Netherlands
+345,210,1927,75382258,1,,Yugoslavia,Netherlands
+345,210,1928,80140162,1,,Yugoslavia,Netherlands
+345,210,1929,98051998,1,,Yugoslavia,Netherlands
+345,210,1930,85312262,1,Dinars,Yugoslavia,Netherlands
+345,210,1931,76108752,1,Dinars,Yugoslavia,Netherlands
+345,210,1932,36430592,1,Dinars,Yugoslavia,Netherlands
+345,210,1933,34064471,1,Dinars,Yugoslavia,Netherlands
+345,210,1934,69045724,1,Dinars,Yugoslavia,Netherlands
+345,210,1935,64492072,1,Dinars,Yugoslavia,Netherlands
+345,210,1936,68036640,1,Dinars,Yugoslavia,Netherlands
+345,210,1937,69740217,1,Dinars,Yugoslavia,Netherlands
+345,210,1938,58516718,1,Dinars,Yugoslavia,Netherlands
+345,210,1939,67627606,1,Dinars,Yugoslavia,Netherlands
+345,210,1945,0,1000,,Yugoslavia,Netherlands
+345,210,1946,174305,1000,1000 Dinars,Yugoslavia,Netherlands
+345,210,1947,539903,1000,1000 Dinars,Yugoslavia,Netherlands
+345,210,1948,1143213,1000,1000 Dinars,Yugoslavia,Netherlands
+345,210,1949,1099075,1000,1000 Dinars,Yugoslavia,Netherlands
+345,211,1920,3329675,1,,Yugoslavia,Belgium
+345,211,1921,11738004,1,,Yugoslavia,Belgium
+345,211,1922,40036114,1,,Yugoslavia,Belgium
+345,211,1923,33317396,1,,Yugoslavia,Belgium
+345,211,1924,38320075,1,,Yugoslavia,Belgium
+345,211,1925,42294217,1,,Yugoslavia,Belgium
+345,211,1926,73156883,1,,Yugoslavia,Belgium
+345,211,1927,61074374,1,,Yugoslavia,Belgium
+345,211,1928,54385260,1,,Yugoslavia,Belgium
+345,211,1929,76602384,1,,Yugoslavia,Belgium
+345,211,1930,67803212,1,Dinars,Yugoslavia,Belgium
+345,211,1931,57221899,1,Dinars,Yugoslavia,Belgium
+345,211,1932,41700876,1,Dinars,Yugoslavia,Belgium
+345,211,1933,25567772,1,Dinars,Yugoslavia,Belgium
+345,211,1934,73419544,1,Dinars,Yugoslavia,Belgium
+345,211,1935,69025100,1,Dinars,Yugoslavia,Belgium
+345,211,1936,100768219,1,Dinars,Yugoslavia,Belgium
+345,211,1937,84490699,1,Dinars,Yugoslavia,Belgium
+345,211,1938,47221353,1,Dinars,Yugoslavia,Belgium
+345,211,1939,55395453,1,Dinars,Yugoslavia,Belgium
+345,211,1945,0,1000,,Yugoslavia,Belgium
+345,211,1946,0,1000,1000 Dinars,Yugoslavia,Belgium
+345,211,1947,0,1000,1000 Dinars,Yugoslavia,Belgium
+345,211,1948,0,1000,1000 Dinars,Yugoslavia,Belgium
+345,211,1949,0,1000,1000 Dinars,Yugoslavia,Belgium
+345,220,1920,132293550,1,,Yugoslavia,France
+345,220,1921,188120018,1,,Yugoslavia,France
+345,220,1922,195855556,1,,Yugoslavia,France
+345,220,1923,270192233,1,,Yugoslavia,France
+345,220,1924,276374627,1,,Yugoslavia,France
+345,220,1925,323107273,1,,Yugoslavia,France
+345,220,1926,353505158,1,,Yugoslavia,France
+345,220,1927,318259758,1,,Yugoslavia,France
+345,220,1928,352997295,1,,Yugoslavia,France
+345,220,1929,300999792,1,,Yugoslavia,France
+345,220,1930,269107248,1,Dinars,Yugoslavia,France
+345,220,1931,210564904,1,Dinars,Yugoslavia,France
+345,220,1932,129319442,1,Dinars,Yugoslavia,France
+345,220,1933,120632179,1,Dinars,Yugoslavia,France
+345,220,1934,177693464,1,Dinars,Yugoslavia,France
+345,220,1935,160865866,1,Dinars,Yugoslavia,France
+345,220,1936,101348178,1,Dinars,Yugoslavia,France
+345,220,1937,90855161,1,Dinars,Yugoslavia,France
+345,220,1938,141797903,1,Dinars,Yugoslavia,France
+345,220,1939,96935810,1,Dinars,Yugoslavia,France
+345,220,1945,0,1000,,Yugoslavia,France
+345,220,1946,2666,1000,1000 Dinars,Yugoslavia,France
+345,220,1947,208558,1000,1000 Dinars,Yugoslavia,France
+345,220,1948,303700,1000,1000 Dinars,Yugoslavia,France
+345,220,1949,450824,1000,1000 Dinars,Yugoslavia,France
+345,225,1920,34836267,1,,Yugoslavia,Switzerland
+345,225,1921,38905176,1,,Yugoslavia,Switzerland
+345,225,1922,26062657,1,,Yugoslavia,Switzerland
+345,225,1923,54353194,1,,Yugoslavia,Switzerland
+345,225,1924,62942938,1,,Yugoslavia,Switzerland
+345,225,1925,84510422,1,,Yugoslavia,Switzerland
+345,225,1926,85631526,1,,Yugoslavia,Switzerland
+345,225,1927,102737115,1,,Yugoslavia,Switzerland
+345,225,1928,99053447,1,,Yugoslavia,Switzerland
+345,225,1929,112251137,1,,Yugoslavia,Switzerland
+345,225,1930,111015768,1,Dinars,Yugoslavia,Switzerland
+345,225,1931,125892574,1,Dinars,Yugoslavia,Switzerland
+345,225,1932,81634852,1,Dinars,Yugoslavia,Switzerland
+345,225,1933,70525401,1,Dinars,Yugoslavia,Switzerland
+345,225,1934,92917500,1,Dinars,Yugoslavia,Switzerland
+345,225,1935,89626088,1,Dinars,Yugoslavia,Switzerland
+345,225,1936,102888188,1,Dinars,Yugoslavia,Switzerland
+345,225,1937,92812809,1,Dinars,Yugoslavia,Switzerland
+345,225,1938,95971459,1,Dinars,Yugoslavia,Switzerland
+345,225,1939,59024203,1,Dinars,Yugoslavia,Switzerland
+345,225,1945,55,1000,,Yugoslavia,Switzerland
+345,225,1946,34390,1000,1000 Dinars,Yugoslavia,Switzerland
+345,225,1947,221993,1000,1000 Dinars,Yugoslavia,Switzerland
+345,225,1948,643018,1000,1000 Dinars,Yugoslavia,Switzerland
+345,225,1949,655273,1000,1000 Dinars,Yugoslavia,Switzerland
+345,230,1920,4618412,1,,Yugoslavia,Spain
+345,230,1921,3575389,1,,Yugoslavia,Spain
+345,230,1922,1839629,1,,Yugoslavia,Spain
+345,230,1923,5210992,1,,Yugoslavia,Spain
+345,230,1924,7841337,1,,Yugoslavia,Spain
+345,230,1925,3880132,1,,Yugoslavia,Spain
+345,230,1926,8324925,1,,Yugoslavia,Spain
+345,230,1927,5522191,1,,Yugoslavia,Spain
+345,230,1928,6792625,1,,Yugoslavia,Spain
+345,230,1929,10200622,1,,Yugoslavia,Spain
+345,230,1930,8397654,1,Dinars,Yugoslavia,Spain
+345,230,1931,7231880,1,Dinars,Yugoslavia,Spain
+345,230,1932,6488614,1,Dinars,Yugoslavia,Spain
+345,230,1933,13167744,1,Dinars,Yugoslavia,Spain
+345,230,1934,15236372,1,Dinars,Yugoslavia,Spain
+345,230,1935,19932739,1,Dinars,Yugoslavia,Spain
+345,230,1936,11975963,1,Dinars,Yugoslavia,Spain
+345,230,1937,4113263,1,Dinars,Yugoslavia,Spain
+345,230,1938,405753,1,Dinars,Yugoslavia,Spain
+345,230,1939,101020,1,Dinars,Yugoslavia,Spain
+345,230,1945,0,1000,,Yugoslavia,Spain
+345,230,1946,0,1000,1000 Dinars,Yugoslavia,Spain
+345,230,1947,0,1000,1000 Dinars,Yugoslavia,Spain
+345,230,1948,0,1000,1000 Dinars,Yugoslavia,Spain
+345,230,1949,0,1000,1000 Dinars,Yugoslavia,Spain
+345,235,1920,30860,1,,Yugoslavia,Portugal
+345,235,1921,394331,1,,Yugoslavia,Portugal
+345,235,1922,2483124,1,,Yugoslavia,Portugal
+345,235,1923,3807901,1,,Yugoslavia,Portugal
+345,235,1924,3529386,1,,Yugoslavia,Portugal
+345,235,1925,5397243,1,,Yugoslavia,Portugal
+345,235,1926,3588424,1,,Yugoslavia,Portugal
+345,235,1927,2600430,1,,Yugoslavia,Portugal
+345,235,1928,3378780,1,,Yugoslavia,Portugal
+345,235,1929,2995275,1,,Yugoslavia,Portugal
+345,235,1930,3120875,1,Dinars,Yugoslavia,Portugal
+345,235,1931,2286181,1,Dinars,Yugoslavia,Portugal
+345,235,1932,2121300,1,Dinars,Yugoslavia,Portugal
+345,235,1933,1571263,1,Dinars,Yugoslavia,Portugal
+345,235,1934,1482108,1,Dinars,Yugoslavia,Portugal
+345,235,1935,1638981,1,Dinars,Yugoslavia,Portugal
+345,235,1936,2632573,1,Dinars,Yugoslavia,Portugal
+345,235,1937,2699642,1,Dinars,Yugoslavia,Portugal
+345,235,1938,5779658,1,Dinars,Yugoslavia,Portugal
+345,235,1939,1650708,1,Dinars,Yugoslavia,Portugal
+345,235,1945,0,1000,,Yugoslavia,Portugal
+345,235,1946,0,1000,1000 Dinars,Yugoslavia,Portugal
+345,235,1947,2593,1000,1000 Dinars,Yugoslavia,Portugal
+345,235,1948,1131,1000,1000 Dinars,Yugoslavia,Portugal
+345,235,1949,9546,1000,1000 Dinars,Yugoslavia,Portugal
+345,255,1920,50261198,1,,Yugoslavia,Germany
+345,255,1921,174412177,1,,Yugoslavia,Germany
+345,255,1922,462046619,1,,Yugoslavia,Germany
+345,255,1923,724247603,1,,Yugoslavia,Germany
+345,255,1924,682123082,1,,Yugoslavia,Germany
+345,255,1925,866323055,1,,Yugoslavia,Germany
+345,255,1926,918313954,1,,Yugoslavia,Germany
+345,255,1927,898740388,1,,Yugoslavia,Germany
+345,255,1928,1066509451,1,,Yugoslavia,Germany
+345,255,1929,1188070581,1,,Yugoslavia,Germany
+345,255,1930,1221420036,1,Dinars,Yugoslavia,Germany
+345,255,1931,925407996,1,Dinars,Yugoslavia,Germany
+345,255,1932,506425160,1,Dinars,Yugoslavia,Germany
+345,255,1933,379244543,1,Dinars,Yugoslavia,Germany
+345,255,1934,497162063,1,Dinars,Yugoslavia,Germany
+345,255,1935,598079224,1,Dinars,Yugoslavia,Germany
+345,255,1936,1087640236,1,Dinars,Yugoslavia,Germany
+345,255,1937,1694469719,1,Dinars,Yugoslavia,Germany
+345,255,1938,1618065312,1,Dinars,Yugoslavia,Germany
+345,255,1939,2268383392,1,Dinars,Yugoslavia,Germany
+345,255,1945,0,1000,,Yugoslavia,Germany
+345,255,1946,0,1000,1000 Dinars,Yugoslavia,Germany
+345,255,1947,0,1000,1000 Dinars,Yugoslavia,Germany
+345,255,1948,0,1000,1000 Dinars,Yugoslavia,Germany
+345,255,1949,0,1000,1000 Dinars,Yugoslavia,Germany
+345,260,1920,0,1,,Yugoslavia,West Germany
+345,260,1921,0,1,,Yugoslavia,West Germany
+345,260,1922,0,1,,Yugoslavia,West Germany
+345,260,1923,0,1,,Yugoslavia,West Germany
+345,260,1924,0,1,,Yugoslavia,West Germany
+345,260,1925,0,1,,Yugoslavia,West Germany
+345,260,1926,0,1,,Yugoslavia,West Germany
+345,260,1927,0,1,,Yugoslavia,West Germany
+345,260,1928,0,1,,Yugoslavia,West Germany
+345,260,1929,0,1,,Yugoslavia,West Germany
+345,260,1930,0,1,Dinars,Yugoslavia,West Germany
+345,260,1931,0,1,Dinars,Yugoslavia,West Germany
+345,260,1932,0,1,Dinars,Yugoslavia,West Germany
+345,260,1933,0,1,Dinars,Yugoslavia,West Germany
+345,260,1934,0,1,Dinars,Yugoslavia,West Germany
+345,260,1935,0,1,Dinars,Yugoslavia,West Germany
+345,260,1936,0,1,Dinars,Yugoslavia,West Germany
+345,260,1937,0,1,Dinars,Yugoslavia,West Germany
+345,260,1938,0,1,Dinars,Yugoslavia,West Germany
+345,260,1939,0,1,Dinars,Yugoslavia,West Germany
+345,260,1945,0,1000,,Yugoslavia,West Germany
+345,260,1946,0,1000,1000 Dinars,Yugoslavia,West Germany
+345,260,1947,0,1000,1000 Dinars,Yugoslavia,West Germany
+345,260,1948,0,1000,1000 Dinars,Yugoslavia,West Germany
+345,260,1949,1091279,1000,1000 Dinars,Yugoslavia,West Germany
+345,265,1920,0,1,,Yugoslavia,East Germany
+345,265,1921,0,1,,Yugoslavia,East Germany
+345,265,1922,0,1,,Yugoslavia,East Germany
+345,265,1923,0,1,,Yugoslavia,East Germany
+345,265,1924,0,1,,Yugoslavia,East Germany
+345,265,1925,0,1,,Yugoslavia,East Germany
+345,265,1926,0,1,,Yugoslavia,East Germany
+345,265,1927,0,1,,Yugoslavia,East Germany
+345,265,1928,0,1,,Yugoslavia,East Germany
+345,265,1929,0,1,,Yugoslavia,East Germany
+345,265,1930,0,1,Dinars,Yugoslavia,East Germany
+345,265,1931,0,1,Dinars,Yugoslavia,East Germany
+345,265,1932,0,1,Dinars,Yugoslavia,East Germany
+345,265,1933,0,1,Dinars,Yugoslavia,East Germany
+345,265,1934,0,1,Dinars,Yugoslavia,East Germany
+345,265,1935,0,1,Dinars,Yugoslavia,East Germany
+345,265,1936,0,1,Dinars,Yugoslavia,East Germany
+345,265,1937,0,1,Dinars,Yugoslavia,East Germany
+345,265,1938,0,1,Dinars,Yugoslavia,East Germany
+345,265,1939,0,1,Dinars,Yugoslavia,East Germany
+345,265,1945,15178,1000,,Yugoslavia,East Germany
+345,265,1946,50384,1000,1000 Dinars,Yugoslavia,East Germany
+345,265,1947,349787,1000,1000 Dinars,Yugoslavia,East Germany
+345,265,1948,656372,1000,1000 Dinars,Yugoslavia,East Germany
+345,265,1949,196454,1000,1000 Dinars,Yugoslavia,East Germany
+345,290,1920,33408608,1,,Yugoslavia,Poland
+345,290,1921,22677477,1,,Yugoslavia,Poland
+345,290,1922,25054463,1,,Yugoslavia,Poland
+345,290,1923,20152196,1,,Yugoslavia,Poland
+345,290,1924,38261372,1,,Yugoslavia,Poland
+345,290,1925,74145106,1,,Yugoslavia,Poland
+345,290,1926,88756713,1,,Yugoslavia,Poland
+345,290,1927,107674771,1,,Yugoslavia,Poland
+345,290,1928,211828148,1,,Yugoslavia,Poland
+345,290,1929,170395688,1,,Yugoslavia,Poland
+345,290,1930,113547444,1,Dinars,Yugoslavia,Poland
+345,290,1931,66803871,1,Dinars,Yugoslavia,Poland
+345,290,1932,54723121,1,Dinars,Yugoslavia,Poland
+345,290,1933,48970734,1,Dinars,Yugoslavia,Poland
+345,290,1934,67191183,1,Dinars,Yugoslavia,Poland
+345,290,1935,61266120,1,Dinars,Yugoslavia,Poland
+345,290,1936,52625491,1,Dinars,Yugoslavia,Poland
+345,290,1937,54735559,1,Dinars,Yugoslavia,Poland
+345,290,1938,37884906,1,Dinars,Yugoslavia,Poland
+345,290,1939,69654767,1,Dinars,Yugoslavia,Poland
+345,290,1945,364,1000,,Yugoslavia,Poland
+345,290,1946,133155,1000,1000 Dinars,Yugoslavia,Poland
+345,290,1947,274313,1000,1000 Dinars,Yugoslavia,Poland
+345,290,1948,1152630,1000,1000 Dinars,Yugoslavia,Poland
+345,290,1949,328065,1000,1000 Dinars,Yugoslavia,Poland
+345,291,1920,0,1,,Yugoslavia,Danzig
+345,291,1921,0,1,,Yugoslavia,Danzig
+345,291,1922,0,1,,Yugoslavia,Danzig
+345,291,1923,0,1,,Yugoslavia,Danzig
+345,291,1924,0,1,,Yugoslavia,Danzig
+345,291,1925,0,1,,Yugoslavia,Danzig
+345,291,1926,0,1,,Yugoslavia,Danzig
+345,291,1927,0,1,,Yugoslavia,Danzig
+345,291,1928,1000,1,,Yugoslavia,Danzig
+345,291,1929,130000,1,,Yugoslavia,Danzig
+345,291,1930,75000,1,Dinars,Yugoslavia,Danzig
+345,291,1931,16576,1,Dinars,Yugoslavia,Danzig
+345,291,1932,0,1,Dinars,Yugoslavia,Danzig
+345,291,1933,12256,1,Dinars,Yugoslavia,Danzig
+345,291,1934,1380,1,Dinars,Yugoslavia,Danzig
+345,291,1935,0,1,Dinars,Yugoslavia,Danzig
+345,291,1936,0,1,Dinars,Yugoslavia,Danzig
+345,291,1937,0,1,Dinars,Yugoslavia,Danzig
+345,291,1938,0,1,Dinars,Yugoslavia,Danzig
+345,291,1939,0,1,Dinars,Yugoslavia,Danzig
+345,291,1945,0,1000,,Yugoslavia,Danzig
+345,291,1946,0,1000,1000 Dinars,Yugoslavia,Danzig
+345,291,1947,0,1000,1000 Dinars,Yugoslavia,Danzig
+345,291,1948,0,1000,1000 Dinars,Yugoslavia,Danzig
+345,291,1949,0,1000,1000 Dinars,Yugoslavia,Danzig
+345,305,1920,714081709,1,,Yugoslavia,Austria
+345,305,1921,1160462790,1,,Yugoslavia,Austria
+345,305,1922,1861216538,1,,Yugoslavia,Austria
+345,305,1923,2238329729,1,,Yugoslavia,Austria
+345,305,1924,1625811879,1,,Yugoslavia,Austria
+345,305,1925,1604203240,1,,Yugoslavia,Austria
+345,305,1926,1532686475,1,,Yugoslavia,Austria
+345,305,1927,1424189854,1,,Yugoslavia,Austria
+345,305,1928,1354953929,1,,Yugoslavia,Austria
+345,305,1929,1323912801,1,,Yugoslavia,Austria
+345,305,1930,1170584597,1,Dinars,Yugoslavia,Austria
+345,305,1931,729894434,1,Dinars,Yugoslavia,Austria
+345,305,1932,384147507,1,Dinars,Yugoslavia,Austria
+345,305,1933,463344303,1,Dinars,Yugoslavia,Austria
+345,305,1934,441998357,1,Dinars,Yugoslavia,Austria
+345,305,1935,441165864,1,Dinars,Yugoslavia,Austria
+345,305,1936,419978177,1,Dinars,Yugoslavia,Austria
+345,305,1937,538426161,1,Dinars,Yugoslavia,Austria
+345,305,1938,342357253,1,Dinars,Yugoslavia,Austria
+345,305,1939,0,1,Dinars,Yugoslavia,Austria
+345,305,1945,2931,1000,,Yugoslavia,Austria
+345,305,1946,101231,1000,1000 Dinars,Yugoslavia,Austria
+345,305,1947,259329,1000,1000 Dinars,Yugoslavia,Austria
+345,305,1948,736585,1000,1000 Dinars,Yugoslavia,Austria
+345,305,1949,1272489,1000,1000 Dinars,Yugoslavia,Austria
+345,310,1920,13990678,1,,Yugoslavia,Hungary
+345,310,1921,40957014,1,,Yugoslavia,Hungary
+345,310,1922,169253498,1,,Yugoslavia,Hungary
+345,310,1923,140650889,1,,Yugoslavia,Hungary
+345,310,1924,238254975,1,,Yugoslavia,Hungary
+345,310,1925,440393464,1,,Yugoslavia,Hungary
+345,310,1926,354554295,1,,Yugoslavia,Hungary
+345,310,1927,357996422,1,,Yugoslavia,Hungary
+345,310,1928,519635557,1,,Yugoslavia,Hungary
+345,310,1929,490337444,1,,Yugoslavia,Hungary
+345,310,1930,405475065,1,Dinars,Yugoslavia,Hungary
+345,310,1931,251850145,1,Dinars,Yugoslavia,Hungary
+345,310,1932,141828243,1,Dinars,Yugoslavia,Hungary
+345,310,1933,113218753,1,Dinars,Yugoslavia,Hungary
+345,310,1934,102899016,1,Dinars,Yugoslavia,Hungary
+345,310,1935,107540678,1,Dinars,Yugoslavia,Hungary
+345,310,1936,145581242,1,Dinars,Yugoslavia,Hungary
+345,310,1937,140839009,1,Dinars,Yugoslavia,Hungary
+345,310,1938,189425138,1,Dinars,Yugoslavia,Hungary
+345,310,1939,170371048,1,Dinars,Yugoslavia,Hungary
+345,310,1945,48802,1000,,Yugoslavia,Hungary
+345,310,1946,115783,1000,1000 Dinars,Yugoslavia,Hungary
+345,310,1947,425620,1000,1000 Dinars,Yugoslavia,Hungary
+345,310,1948,683963,1000,1000 Dinars,Yugoslavia,Hungary
+345,310,1949,446014,1000,1000 Dinars,Yugoslavia,Hungary
+345,315,1920,321516330,1,,Yugoslavia,Czechoslovakia
+345,315,1921,842669848,1,,Yugoslavia,Czechoslovakia
+345,315,1922,1277947419,1,,Yugoslavia,Czechoslovakia
+345,315,1923,1537580361,1,,Yugoslavia,Czechoslovakia
+345,315,1924,1649780340,1,,Yugoslavia,Czechoslovakia
+345,315,1925,1558846101,1,,Yugoslavia,Czechoslovakia
+345,315,1926,1427367723,1,,Yugoslavia,Czechoslovakia
+345,315,1927,1399315002,1,,Yugoslavia,Czechoslovakia
+345,315,1928,1402113090,1,,Yugoslavia,Czechoslovakia
+345,315,1929,1329173749,1,,Yugoslavia,Czechoslovakia
+345,315,1930,1224668477,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1931,872426154,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1932,446991074,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1933,348804636,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1934,417607739,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1935,516789752,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1936,625839040,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1937,580206902,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1938,530031421,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1939,0,1,Dinars,Yugoslavia,Czechoslovakia
+345,315,1945,3570,1000,,Yugoslavia,Czechoslovakia
+345,315,1946,304481,1000,1000 Dinars,Yugoslavia,Czechoslovakia
+345,315,1947,1493976,1000,1000 Dinars,Yugoslavia,Czechoslovakia
+345,315,1948,2683823,1000,1000 Dinars,Yugoslavia,Czechoslovakia
+345,315,1949,941234,1000,1000 Dinars,Yugoslavia,Czechoslovakia
+345,316,1920,0,1,,Yugoslavia,Czech Republic
+345,316,1921,0,1,,Yugoslavia,Czech Republic
+345,316,1922,0,1,,Yugoslavia,Czech Republic
+345,316,1923,0,1,,Yugoslavia,Czech Republic
+345,316,1924,0,1,,Yugoslavia,Czech Republic
+345,316,1925,0,1,,Yugoslavia,Czech Republic
+345,316,1926,0,1,,Yugoslavia,Czech Republic
+345,316,1927,0,1,,Yugoslavia,Czech Republic
+345,316,1928,0,1,,Yugoslavia,Czech Republic
+345,316,1929,0,1,,Yugoslavia,Czech Republic
+345,316,1930,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1931,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1932,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1933,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1934,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1935,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1936,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1937,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1938,0,1,Dinars,Yugoslavia,Czech Republic
+345,316,1939,308907669,1,Dinars,Yugoslavia,Czech Republic
+345,316,1945,0,1000,,Yugoslavia,Czech Republic
+345,316,1946,0,1000,1000 Dinars,Yugoslavia,Czech Republic
+345,316,1947,0,1000,1000 Dinars,Yugoslavia,Czech Republic
+345,316,1948,0,1000,1000 Dinars,Yugoslavia,Czech Republic
+345,316,1949,0,1000,1000 Dinars,Yugoslavia,Czech Republic
+345,317,1920,0,1,,Yugoslavia,Slovakia
+345,317,1921,0,1,,Yugoslavia,Slovakia
+345,317,1922,0,1,,Yugoslavia,Slovakia
+345,317,1923,0,1,,Yugoslavia,Slovakia
+345,317,1924,0,1,,Yugoslavia,Slovakia
+345,317,1925,0,1,,Yugoslavia,Slovakia
+345,317,1926,0,1,,Yugoslavia,Slovakia
+345,317,1927,0,1,,Yugoslavia,Slovakia
+345,317,1928,0,1,,Yugoslavia,Slovakia
+345,317,1929,0,1,,Yugoslavia,Slovakia
+345,317,1930,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1931,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1932,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1933,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1934,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1935,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1936,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1937,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1938,0,1,Dinars,Yugoslavia,Slovakia
+345,317,1939,4966204,1,Dinars,Yugoslavia,Slovakia
+345,317,1945,0,1000,,Yugoslavia,Slovakia
+345,317,1946,0,1000,1000 Dinars,Yugoslavia,Slovakia
+345,317,1947,0,1000,1000 Dinars,Yugoslavia,Slovakia
+345,317,1948,0,1000,1000 Dinars,Yugoslavia,Slovakia
+345,317,1949,0,1000,1000 Dinars,Yugoslavia,Slovakia
+345,325,1920,1268231859,1,,Yugoslavia,Italy
+345,325,1921,854703730,1,,Yugoslavia,Italy
+345,325,1922,985308314,1,,Yugoslavia,Italy
+345,325,1923,1470003570,1,,Yugoslavia,Italy
+345,325,1924,1687588181,1,,Yugoslavia,Italy
+345,325,1925,1644110416,1,,Yugoslavia,Italy
+345,325,1926,1054315542,1,,Yugoslavia,Italy
+345,325,1927,940124208,1,,Yugoslavia,Italy
+345,325,1928,939181755,1,,Yugoslavia,Italy
+345,325,1929,822993884,1,,Yugoslavia,Italy
+345,325,1930,782847599,1,Dinars,Yugoslavia,Italy
+345,325,1931,493990115,1,Dinars,Yugoslavia,Italy
+345,325,1932,361936636,1,Dinars,Yugoslavia,Italy
+345,325,1933,458788724,1,Dinars,Yugoslavia,Italy
+345,325,1934,555044863,1,Dinars,Yugoslavia,Italy
+345,325,1935,370765382,1,Dinars,Yugoslavia,Italy
+345,325,1936,101676319,1,Dinars,Yugoslavia,Italy
+345,325,1937,429834134,1,Dinars,Yugoslavia,Italy
+345,325,1938,444699677,1,Dinars,Yugoslavia,Italy
+345,325,1939,556953151,1,Dinars,Yugoslavia,Italy
+345,325,1945,131501,1000,,Yugoslavia,Italy
+345,325,1946,126357,1000,1000 Dinars,Yugoslavia,Italy
+345,325,1947,724678,1000,1000 Dinars,Yugoslavia,Italy
+345,325,1948,1679096,1000,1000 Dinars,Yugoslavia,Italy
+345,325,1949,1879597,1000,1000 Dinars,Yugoslavia,Italy
+345,326,1920,0,1,,Yugoslavia,Trieste
+345,326,1921,0,1,,Yugoslavia,Trieste
+345,326,1922,0,1,,Yugoslavia,Trieste
+345,326,1923,0,1,,Yugoslavia,Trieste
+345,326,1924,0,1,,Yugoslavia,Trieste
+345,326,1925,0,1,,Yugoslavia,Trieste
+345,326,1926,0,1,,Yugoslavia,Trieste
+345,326,1927,0,1,,Yugoslavia,Trieste
+345,326,1928,0,1,,Yugoslavia,Trieste
+345,326,1929,0,1,,Yugoslavia,Trieste
+345,326,1930,0,1,Dinars,Yugoslavia,Trieste
+345,326,1931,0,1,Dinars,Yugoslavia,Trieste
+345,326,1932,0,1,Dinars,Yugoslavia,Trieste
+345,326,1933,0,1,Dinars,Yugoslavia,Trieste
+345,326,1934,0,1,Dinars,Yugoslavia,Trieste
+345,326,1935,0,1,Dinars,Yugoslavia,Trieste
+345,326,1936,0,1,Dinars,Yugoslavia,Trieste
+345,326,1937,0,1,Dinars,Yugoslavia,Trieste
+345,326,1938,0,1,Dinars,Yugoslavia,Trieste
+345,326,1939,0,1,Dinars,Yugoslavia,Trieste
+345,326,1945,1762,1000,,Yugoslavia,Trieste
+345,326,1946,36941,1000,1000 Dinars,Yugoslavia,Trieste
+345,326,1947,106196,1000,1000 Dinars,Yugoslavia,Trieste
+345,326,1948,243532,1000,1000 Dinars,Yugoslavia,Trieste
+345,326,1949,93831,1000,1000 Dinars,Yugoslavia,Trieste
+345,338,1920,0,1,,Yugoslavia,Malta
+345,338,1921,0,1,,Yugoslavia,Malta
+345,338,1922,0,1,,Yugoslavia,Malta
+345,338,1923,0,1,,Yugoslavia,Malta
+345,338,1924,0,1,,Yugoslavia,Malta
+345,338,1925,0,1,,Yugoslavia,Malta
+345,338,1926,66556,1,,Yugoslavia,Malta
+345,338,1927,81500,1,,Yugoslavia,Malta
+345,338,1928,76586,1,,Yugoslavia,Malta
+345,338,1929,80,1,,Yugoslavia,Malta
+345,338,1930,12180,1,Dinars,Yugoslavia,Malta
+345,338,1931,1080,1,Dinars,Yugoslavia,Malta
+345,338,1932,280,1,Dinars,Yugoslavia,Malta
+345,338,1933,6465,1,Dinars,Yugoslavia,Malta
+345,338,1934,43961,1,Dinars,Yugoslavia,Malta
+345,338,1935,100,1,Dinars,Yugoslavia,Malta
+345,338,1936,440,1,Dinars,Yugoslavia,Malta
+345,338,1937,155806,1,Dinars,Yugoslavia,Malta
+345,338,1938,369702,1,Dinars,Yugoslavia,Malta
+345,338,1939,2580,1,Dinars,Yugoslavia,Malta
+345,338,1945,0,1000,,Yugoslavia,Malta
+345,338,1946,0,1000,1000 Dinars,Yugoslavia,Malta
+345,338,1947,0,1000,1000 Dinars,Yugoslavia,Malta
+345,338,1948,0,1000,1000 Dinars,Yugoslavia,Malta
+345,338,1949,0,1000,1000 Dinars,Yugoslavia,Malta
+345,339,1920,1791258,1,,Yugoslavia,Albania
+345,339,1921,1781491,1,,Yugoslavia,Albania
+345,339,1922,8195416,1,,Yugoslavia,Albania
+345,339,1923,3590702,1,,Yugoslavia,Albania
+345,339,1924,5188298,1,,Yugoslavia,Albania
+345,339,1925,5895227,1,,Yugoslavia,Albania
+345,339,1926,1676378,1,,Yugoslavia,Albania
+345,339,1927,1768305,1,,Yugoslavia,Albania
+345,339,1928,3432691,1,,Yugoslavia,Albania
+345,339,1929,3072555,1,,Yugoslavia,Albania
+345,339,1930,3924796,1,Dinars,Yugoslavia,Albania
+345,339,1931,1008500,1,Dinars,Yugoslavia,Albania
+345,339,1932,703257,1,Dinars,Yugoslavia,Albania
+345,339,1933,313979,1,Dinars,Yugoslavia,Albania
+345,339,1934,3205508,1,Dinars,Yugoslavia,Albania
+345,339,1935,1705828,1,Dinars,Yugoslavia,Albania
+345,339,1936,2085358,1,Dinars,Yugoslavia,Albania
+345,339,1937,3410340,1,Dinars,Yugoslavia,Albania
+345,339,1938,2760761,1,Dinars,Yugoslavia,Albania
+345,339,1939,541598,1,Dinars,Yugoslavia,Albania
+345,339,1945,10859,1000,,Yugoslavia,Albania
+345,339,1946,0,1000,1000 Dinars,Yugoslavia,Albania
+345,339,1947,17837,1000,1000 Dinars,Yugoslavia,Albania
+345,339,1948,0,1000,1000 Dinars,Yugoslavia,Albania
+345,339,1949,0,1000,1000 Dinars,Yugoslavia,Albania
+345,350,1920,315619098,1,,Yugoslavia,Greece
+345,350,1921,242556605,1,,Yugoslavia,Greece
+345,350,1922,181518788,1,,Yugoslavia,Greece
+345,350,1923,169398753,1,,Yugoslavia,Greece
+345,350,1924,265446761,1,,Yugoslavia,Greece
+345,350,1925,261248932,1,,Yugoslavia,Greece
+345,350,1926,147812953,1,,Yugoslavia,Greece
+345,350,1927,102311005,1,,Yugoslavia,Greece
+345,350,1928,100456782,1,,Yugoslavia,Greece
+345,350,1929,73289284,1,,Yugoslavia,Greece
+345,350,1930,52080928,1,Dinars,Yugoslavia,Greece
+345,350,1931,41577294,1,Dinars,Yugoslavia,Greece
+345,350,1932,25204792,1,Dinars,Yugoslavia,Greece
+345,350,1933,40152414,1,Dinars,Yugoslavia,Greece
+345,350,1934,58605406,1,Dinars,Yugoslavia,Greece
+345,350,1935,65980571,1,Dinars,Yugoslavia,Greece
+345,350,1936,82050347,1,Dinars,Yugoslavia,Greece
+345,350,1937,84954714,1,Dinars,Yugoslavia,Greece
+345,350,1938,66200339,1,Dinars,Yugoslavia,Greece
+345,350,1939,58029011,1,Dinars,Yugoslavia,Greece
+345,350,1945,725,1000,,Yugoslavia,Greece
+345,350,1946,0,1000,1000 Dinars,Yugoslavia,Greece
+345,350,1947,0,1000,1000 Dinars,Yugoslavia,Greece
+345,350,1948,0,1000,1000 Dinars,Yugoslavia,Greece
+345,350,1949,0,1000,1000 Dinars,Yugoslavia,Greece
+345,352,1920,0,1,,Yugoslavia,Cyprus
+345,352,1921,0,1,,Yugoslavia,Cyprus
+345,352,1922,0,1,,Yugoslavia,Cyprus
+345,352,1923,0,1,,Yugoslavia,Cyprus
+345,352,1924,0,1,,Yugoslavia,Cyprus
+345,352,1925,0,1,,Yugoslavia,Cyprus
+345,352,1926,0,1,,Yugoslavia,Cyprus
+345,352,1927,0,1,,Yugoslavia,Cyprus
+345,352,1928,0,1,,Yugoslavia,Cyprus
+345,352,1929,4002158,1,,Yugoslavia,Cyprus
+345,352,1930,3851365,1,Dinars,Yugoslavia,Cyprus
+345,352,1931,1756053,1,Dinars,Yugoslavia,Cyprus
+345,352,1932,0,1,Dinars,Yugoslavia,Cyprus
+345,352,1933,17679,1,Dinars,Yugoslavia,Cyprus
+345,352,1934,175886,1,Dinars,Yugoslavia,Cyprus
+345,352,1935,355088,1,Dinars,Yugoslavia,Cyprus
+345,352,1936,159863,1,Dinars,Yugoslavia,Cyprus
+345,352,1937,23118,1,Dinars,Yugoslavia,Cyprus
+345,352,1938,289782,1,Dinars,Yugoslavia,Cyprus
+345,352,1939,213884,1,Dinars,Yugoslavia,Cyprus
+345,352,1945,0,1000,,Yugoslavia,Cyprus
+345,352,1946,0,1000,1000 Dinars,Yugoslavia,Cyprus
+345,352,1947,0,1000,1000 Dinars,Yugoslavia,Cyprus
+345,352,1948,4085,1000,1000 Dinars,Yugoslavia,Cyprus
+345,352,1949,0,1000,1000 Dinars,Yugoslavia,Cyprus
+345,355,1920,7558328,1,,Yugoslavia,Bulgaria
+345,355,1921,9501054,1,,Yugoslavia,Bulgaria
+345,355,1922,54034581,1,,Yugoslavia,Bulgaria
+345,355,1923,19349683,1,,Yugoslavia,Bulgaria
+345,355,1924,7545116,1,,Yugoslavia,Bulgaria
+345,355,1925,12086445,1,,Yugoslavia,Bulgaria
+345,355,1926,6366701,1,,Yugoslavia,Bulgaria
+345,355,1927,9818762,1,,Yugoslavia,Bulgaria
+345,355,1928,13891586,1,,Yugoslavia,Bulgaria
+345,355,1929,5634966,1,,Yugoslavia,Bulgaria
+345,355,1930,10161602,1,Dinars,Yugoslavia,Bulgaria
+345,355,1931,1393607,1,Dinars,Yugoslavia,Bulgaria
+345,355,1932,5909969,1,Dinars,Yugoslavia,Bulgaria
+345,355,1933,1057642,1,Dinars,Yugoslavia,Bulgaria
+345,355,1934,1853441,1,Dinars,Yugoslavia,Bulgaria
+345,355,1935,13118081,1,Dinars,Yugoslavia,Bulgaria
+345,355,1936,7974201,1,Dinars,Yugoslavia,Bulgaria
+345,355,1937,14823509,1,Dinars,Yugoslavia,Bulgaria
+345,355,1938,10165372,1,Dinars,Yugoslavia,Bulgaria
+345,355,1939,7902981,1,Dinars,Yugoslavia,Bulgaria
+345,355,1945,138719,1000,,Yugoslavia,Bulgaria
+345,355,1946,77838,1000,1000 Dinars,Yugoslavia,Bulgaria
+345,355,1947,271611,1000,1000 Dinars,Yugoslavia,Bulgaria
+345,355,1948,263781,1000,1000 Dinars,Yugoslavia,Bulgaria
+345,355,1949,2996,1000,1000 Dinars,Yugoslavia,Bulgaria
+345,360,1920,132436339,1,,Yugoslavia,Romania
+345,360,1921,76750109,1,,Yugoslavia,Romania
+345,360,1922,243539971,1,,Yugoslavia,Romania
+345,360,1923,212205989,1,,Yugoslavia,Romania
+345,360,1924,183060884,1,,Yugoslavia,Romania
+345,360,1925,315604798,1,,Yugoslavia,Romania
+345,360,1926,332172753,1,,Yugoslavia,Romania
+345,360,1927,274241837,1,,Yugoslavia,Romania
+345,360,1928,208435953,1,,Yugoslavia,Romania
+345,360,1929,182416752,1,,Yugoslavia,Romania
+345,360,1930,222739594,1,Dinars,Yugoslavia,Romania
+345,360,1931,78423711,1,Dinars,Yugoslavia,Romania
+345,360,1932,85557235,1,Dinars,Yugoslavia,Romania
+345,360,1933,75359580,1,Dinars,Yugoslavia,Romania
+345,360,1934,63637290,1,Dinars,Yugoslavia,Romania
+345,360,1935,67895516,1,Dinars,Yugoslavia,Romania
+345,360,1936,76824818,1,Dinars,Yugoslavia,Romania
+345,360,1937,91572722,1,Dinars,Yugoslavia,Romania
+345,360,1938,105905303,1,Dinars,Yugoslavia,Romania
+345,360,1939,130377676,1,Dinars,Yugoslavia,Romania
+345,360,1945,103259,1000,,Yugoslavia,Romania
+345,360,1946,150183,1000,1000 Dinars,Yugoslavia,Romania
+345,360,1947,53077,1000,1000 Dinars,Yugoslavia,Romania
+345,360,1948,268058,1000,1000 Dinars,Yugoslavia,Romania
+345,360,1949,4225,1000,1000 Dinars,Yugoslavia,Romania
+345,365,1920,2134510,1,,Yugoslavia,Russia
+345,365,1921,51451,1,,Yugoslavia,Russia
+345,365,1922,814356,1,,Yugoslavia,Russia
+345,365,1923,2268608,1,,Yugoslavia,Russia
+345,365,1924,8172285,1,,Yugoslavia,Russia
+345,365,1925,9290944,1,,Yugoslavia,Russia
+345,365,1926,9403360,1,,Yugoslavia,Russia
+345,365,1927,1553785,1,,Yugoslavia,Russia
+345,365,1928,2928719,1,,Yugoslavia,Russia
+345,365,1929,10358219,1,,Yugoslavia,Russia
+345,365,1930,7635897,1,Dinars,Yugoslavia,Russia
+345,365,1931,2349776,1,Dinars,Yugoslavia,Russia
+345,365,1932,2012856,1,Dinars,Yugoslavia,Russia
+345,365,1933,3580838,1,Dinars,Yugoslavia,Russia
+345,365,1934,6198554,1,Dinars,Yugoslavia,Russia
+345,365,1935,12578846,1,Dinars,Yugoslavia,Russia
+345,365,1936,5374637,1,Dinars,Yugoslavia,Russia
+345,365,1937,6228651,1,Dinars,Yugoslavia,Russia
+345,365,1938,3429140,1,Dinars,Yugoslavia,Russia
+345,365,1939,2682126,1,Dinars,Yugoslavia,Russia
+345,365,1945,503622,1000,,Yugoslavia,Russia
+345,365,1946,402944,1000,1000 Dinars,Yugoslavia,Russia
+345,365,1947,1879007,1000,1000 Dinars,Yugoslavia,Russia
+345,365,1948,1703753,1000,1000 Dinars,Yugoslavia,Russia
+345,365,1949,194543,1000,1000 Dinars,Yugoslavia,Russia
+345,366,1920,0,1,,Yugoslavia,Estonia
+345,366,1921,0,1,,Yugoslavia,Estonia
+345,366,1922,0,1,,Yugoslavia,Estonia
+345,366,1923,4200,1,,Yugoslavia,Estonia
+345,366,1924,560,1,,Yugoslavia,Estonia
+345,366,1925,2490,1,,Yugoslavia,Estonia
+345,366,1926,44000,1,,Yugoslavia,Estonia
+345,366,1927,4900,1,,Yugoslavia,Estonia
+345,366,1928,86010,1,,Yugoslavia,Estonia
+345,366,1929,304815,1,,Yugoslavia,Estonia
+345,366,1930,474505,1,Dinars,Yugoslavia,Estonia
+345,366,1931,258591,1,Dinars,Yugoslavia,Estonia
+345,366,1932,21765,1,Dinars,Yugoslavia,Estonia
+345,366,1933,263542,1,Dinars,Yugoslavia,Estonia
+345,366,1934,598157,1,Dinars,Yugoslavia,Estonia
+345,366,1935,1233646,1,Dinars,Yugoslavia,Estonia
+345,366,1936,1651634,1,Dinars,Yugoslavia,Estonia
+345,366,1937,777925,1,Dinars,Yugoslavia,Estonia
+345,366,1938,285855,1,Dinars,Yugoslavia,Estonia
+345,366,1939,270213,1,Dinars,Yugoslavia,Estonia
+345,366,1945,0,1000,,Yugoslavia,Estonia
+345,366,1946,0,1000,1000 Dinars,Yugoslavia,Estonia
+345,366,1947,0,1000,1000 Dinars,Yugoslavia,Estonia
+345,366,1948,0,1000,1000 Dinars,Yugoslavia,Estonia
+345,366,1949,0,1000,1000 Dinars,Yugoslavia,Estonia
+345,367,1920,0,1,,Yugoslavia,Latvia
+345,367,1921,0,1,,Yugoslavia,Latvia
+345,367,1922,0,1,,Yugoslavia,Latvia
+345,367,1923,250,1,,Yugoslavia,Latvia
+345,367,1924,3000,1,,Yugoslavia,Latvia
+345,367,1925,2400,1,,Yugoslavia,Latvia
+345,367,1926,1030,1,,Yugoslavia,Latvia
+345,367,1927,100,1,,Yugoslavia,Latvia
+345,367,1928,800,1,,Yugoslavia,Latvia
+345,367,1929,6700,1,,Yugoslavia,Latvia
+345,367,1930,1335138,1,Dinars,Yugoslavia,Latvia
+345,367,1931,733476,1,Dinars,Yugoslavia,Latvia
+345,367,1932,292260,1,Dinars,Yugoslavia,Latvia
+345,367,1933,1026964,1,Dinars,Yugoslavia,Latvia
+345,367,1934,1116564,1,Dinars,Yugoslavia,Latvia
+345,367,1935,722738,1,Dinars,Yugoslavia,Latvia
+345,367,1936,243628,1,Dinars,Yugoslavia,Latvia
+345,367,1937,76212,1,Dinars,Yugoslavia,Latvia
+345,367,1938,416845,1,Dinars,Yugoslavia,Latvia
+345,367,1939,49165,1,Dinars,Yugoslavia,Latvia
+345,367,1945,0,1000,,Yugoslavia,Latvia
+345,367,1946,0,1000,1000 Dinars,Yugoslavia,Latvia
+345,367,1947,0,1000,1000 Dinars,Yugoslavia,Latvia
+345,367,1948,0,1000,1000 Dinars,Yugoslavia,Latvia
+345,367,1949,0,1000,1000 Dinars,Yugoslavia,Latvia
+345,368,1920,0,1,,Yugoslavia,Lithuania
+345,368,1921,0,1,,Yugoslavia,Lithuania
+345,368,1922,0,1,,Yugoslavia,Lithuania
+345,368,1923,2300,1,,Yugoslavia,Lithuania
+345,368,1924,2715,1,,Yugoslavia,Lithuania
+345,368,1925,9770,1,,Yugoslavia,Lithuania
+345,368,1926,29460,1,,Yugoslavia,Lithuania
+345,368,1927,7445,1,,Yugoslavia,Lithuania
+345,368,1928,11635,1,,Yugoslavia,Lithuania
+345,368,1929,75675,1,,Yugoslavia,Lithuania
+345,368,1930,104534,1,Dinars,Yugoslavia,Lithuania
+345,368,1931,53180,1,Dinars,Yugoslavia,Lithuania
+345,368,1932,25374,1,Dinars,Yugoslavia,Lithuania
+345,368,1933,34137,1,Dinars,Yugoslavia,Lithuania
+345,368,1934,47402,1,Dinars,Yugoslavia,Lithuania
+345,368,1935,153715,1,Dinars,Yugoslavia,Lithuania
+345,368,1936,12600,1,Dinars,Yugoslavia,Lithuania
+345,368,1937,6376,1,Dinars,Yugoslavia,Lithuania
+345,368,1938,120910,1,Dinars,Yugoslavia,Lithuania
+345,368,1939,6858,1,Dinars,Yugoslavia,Lithuania
+345,368,1945,0,1000,,Yugoslavia,Lithuania
+345,368,1946,0,1000,1000 Dinars,Yugoslavia,Lithuania
+345,368,1947,0,1000,1000 Dinars,Yugoslavia,Lithuania
+345,368,1948,0,1000,1000 Dinars,Yugoslavia,Lithuania
+345,368,1949,0,1000,1000 Dinars,Yugoslavia,Lithuania
+345,375,1920,0,1,,Yugoslavia,Finland
+345,375,1921,210,1,,Yugoslavia,Finland
+345,375,1922,78860,1,,Yugoslavia,Finland
+345,375,1923,6340,1,,Yugoslavia,Finland
+345,375,1924,9910,1,,Yugoslavia,Finland
+345,375,1925,2300,1,,Yugoslavia,Finland
+345,375,1926,105820,1,,Yugoslavia,Finland
+345,375,1927,15250,1,,Yugoslavia,Finland
+345,375,1928,12370,1,,Yugoslavia,Finland
+345,375,1929,26955,1,,Yugoslavia,Finland
+345,375,1930,519869,1,Dinars,Yugoslavia,Finland
+345,375,1931,527032,1,Dinars,Yugoslavia,Finland
+345,375,1932,582381,1,Dinars,Yugoslavia,Finland
+345,375,1933,153223,1,Dinars,Yugoslavia,Finland
+345,375,1934,1105517,1,Dinars,Yugoslavia,Finland
+345,375,1935,1023446,1,Dinars,Yugoslavia,Finland
+345,375,1936,1013720,1,Dinars,Yugoslavia,Finland
+345,375,1937,1616923,1,Dinars,Yugoslavia,Finland
+345,375,1938,1456405,1,Dinars,Yugoslavia,Finland
+345,375,1939,193713,1,Dinars,Yugoslavia,Finland
+345,375,1945,0,1000,,Yugoslavia,Finland
+345,375,1946,0,1000,1000 Dinars,Yugoslavia,Finland
+345,375,1947,1846,1000,1000 Dinars,Yugoslavia,Finland
+345,375,1948,96557,1000,1000 Dinars,Yugoslavia,Finland
+345,375,1949,49767,1000,1000 Dinars,Yugoslavia,Finland
+345,380,1920,6000,1,,Yugoslavia,Sweden
+345,380,1921,1141280,1,,Yugoslavia,Sweden
+345,380,1922,642391,1,,Yugoslavia,Sweden
+345,380,1923,2157213,1,,Yugoslavia,Sweden
+345,380,1924,6587026,1,,Yugoslavia,Sweden
+345,380,1925,8980772,1,,Yugoslavia,Sweden
+345,380,1926,13030273,1,,Yugoslavia,Sweden
+345,380,1927,12282235,1,,Yugoslavia,Sweden
+345,380,1928,18674171,1,,Yugoslavia,Sweden
+345,380,1929,19662204,1,,Yugoslavia,Sweden
+345,380,1930,19141416,1,Dinars,Yugoslavia,Sweden
+345,380,1931,17304519,1,Dinars,Yugoslavia,Sweden
+345,380,1932,12693713,1,Dinars,Yugoslavia,Sweden
+345,380,1933,12389996,1,Dinars,Yugoslavia,Sweden
+345,380,1934,16046429,1,Dinars,Yugoslavia,Sweden
+345,380,1935,16503362,1,Dinars,Yugoslavia,Sweden
+345,380,1936,19080529,1,Dinars,Yugoslavia,Sweden
+345,380,1937,17644743,1,Dinars,Yugoslavia,Sweden
+345,380,1938,34011298,1,Dinars,Yugoslavia,Sweden
+345,380,1939,29009616,1,Dinars,Yugoslavia,Sweden
+345,380,1945,0,1000,,Yugoslavia,Sweden
+345,380,1946,804,1000,1000 Dinars,Yugoslavia,Sweden
+345,380,1947,67146,1000,1000 Dinars,Yugoslavia,Sweden
+345,380,1948,257718,1000,1000 Dinars,Yugoslavia,Sweden
+345,380,1949,390159,1000,1000 Dinars,Yugoslavia,Sweden
+345,385,1920,0,1,,Yugoslavia,Norway
+345,385,1921,4263497,1,,Yugoslavia,Norway
+345,385,1922,5812062,1,,Yugoslavia,Norway
+345,385,1923,11545550,1,,Yugoslavia,Norway
+345,385,1924,14478772,1,,Yugoslavia,Norway
+345,385,1925,11291372,1,,Yugoslavia,Norway
+345,385,1926,12052072,1,,Yugoslavia,Norway
+345,385,1927,13646163,1,,Yugoslavia,Norway
+345,385,1928,11243877,1,,Yugoslavia,Norway
+345,385,1929,9774608,1,,Yugoslavia,Norway
+345,385,1930,11946897,1,Dinars,Yugoslavia,Norway
+345,385,1931,8950444,1,Dinars,Yugoslavia,Norway
+345,385,1932,3726230,1,Dinars,Yugoslavia,Norway
+345,385,1933,5660074,1,Dinars,Yugoslavia,Norway
+345,385,1934,8058147,1,Dinars,Yugoslavia,Norway
+345,385,1935,6179349,1,Dinars,Yugoslavia,Norway
+345,385,1936,7107745,1,Dinars,Yugoslavia,Norway
+345,385,1937,9108525,1,Dinars,Yugoslavia,Norway
+345,385,1938,10589830,1,Dinars,Yugoslavia,Norway
+345,385,1939,3605130,1,Dinars,Yugoslavia,Norway
+345,385,1945,0,1000,,Yugoslavia,Norway
+345,385,1946,1582,1000,1000 Dinars,Yugoslavia,Norway
+345,385,1947,4967,1000,1000 Dinars,Yugoslavia,Norway
+345,385,1948,5944,1000,1000 Dinars,Yugoslavia,Norway
+345,385,1949,13247,1000,1000 Dinars,Yugoslavia,Norway
+345,390,1920,2146,1,,Yugoslavia,Denmark
+345,390,1921,1476944,1,,Yugoslavia,Denmark
+345,390,1922,4179506,1,,Yugoslavia,Denmark
+345,390,1923,7082880,1,,Yugoslavia,Denmark
+345,390,1924,14873836,1,,Yugoslavia,Denmark
+345,390,1925,14950352,1,,Yugoslavia,Denmark
+345,390,1926,6931444,1,,Yugoslavia,Denmark
+345,390,1927,8119397,1,,Yugoslavia,Denmark
+345,390,1928,3729556,1,,Yugoslavia,Denmark
+345,390,1929,2657260,1,,Yugoslavia,Denmark
+345,390,1930,3297414,1,Dinars,Yugoslavia,Denmark
+345,390,1931,2326737,1,Dinars,Yugoslavia,Denmark
+345,390,1932,1372271,1,Dinars,Yugoslavia,Denmark
+345,390,1933,2055009,1,Dinars,Yugoslavia,Denmark
+345,390,1934,2028912,1,Dinars,Yugoslavia,Denmark
+345,390,1935,11098178,1,Dinars,Yugoslavia,Denmark
+345,390,1936,3458521,1,Dinars,Yugoslavia,Denmark
+345,390,1937,5681557,1,Dinars,Yugoslavia,Denmark
+345,390,1938,7721216,1,Dinars,Yugoslavia,Denmark
+345,390,1939,4040702,1,Dinars,Yugoslavia,Denmark
+345,390,1945,0,1000,,Yugoslavia,Denmark
+345,390,1946,235,1000,1000 Dinars,Yugoslavia,Denmark
+345,390,1947,2784,1000,1000 Dinars,Yugoslavia,Denmark
+345,390,1948,20722,1000,1000 Dinars,Yugoslavia,Denmark
+345,390,1949,51320,1000,1000 Dinars,Yugoslavia,Denmark
+345,400,1920,0,1,,Yugoslavia,Azores
+345,400,1921,0,1,,Yugoslavia,Azores
+345,400,1922,0,1,,Yugoslavia,Azores
+345,400,1923,0,1,,Yugoslavia,Azores
+345,400,1924,0,1,,Yugoslavia,Azores
+345,400,1925,0,1,,Yugoslavia,Azores
+345,400,1926,0,1,,Yugoslavia,Azores
+345,400,1927,0,1,,Yugoslavia,Azores
+345,400,1928,0,1,,Yugoslavia,Azores
+345,400,1929,0,1,,Yugoslavia,Azores
+345,400,1930,0,1,Dinars,Yugoslavia,Azores
+345,400,1931,0,1,Dinars,Yugoslavia,Azores
+345,400,1932,0,1,Dinars,Yugoslavia,Azores
+345,400,1933,0,1,Dinars,Yugoslavia,Azores
+345,400,1934,5500,1,Dinars,Yugoslavia,Azores
+345,400,1935,0,1,Dinars,Yugoslavia,Azores
+345,400,1936,0,1,Dinars,Yugoslavia,Azores
+345,400,1937,0,1,Dinars,Yugoslavia,Azores
+345,400,1938,6171,1,Dinars,Yugoslavia,Azores
+345,400,1939,41412,1,Dinars,Yugoslavia,Azores
+345,400,1945,0,1000,,Yugoslavia,Azores
+345,400,1946,0,1000,1000 Dinars,Yugoslavia,Azores
+345,400,1947,0,1000,1000 Dinars,Yugoslavia,Azores
+345,400,1948,0,1000,1000 Dinars,Yugoslavia,Azores
+345,400,1949,0,1000,1000 Dinars,Yugoslavia,Azores
+345,410,1920,0,1,,Yugoslavia,Canary Islands
+345,410,1921,0,1,,Yugoslavia,Canary Islands
+345,410,1922,0,1,,Yugoslavia,Canary Islands
+345,410,1923,0,1,,Yugoslavia,Canary Islands
+345,410,1924,0,1,,Yugoslavia,Canary Islands
+345,410,1925,0,1,,Yugoslavia,Canary Islands
+345,410,1926,0,1,,Yugoslavia,Canary Islands
+345,410,1927,0,1,,Yugoslavia,Canary Islands
+345,410,1928,0,1,,Yugoslavia,Canary Islands
+345,410,1929,0,1,,Yugoslavia,Canary Islands
+345,410,1930,0,1,Dinars,Yugoslavia,Canary Islands
+345,410,1931,135260,1,Dinars,Yugoslavia,Canary Islands
+345,410,1932,74417,1,Dinars,Yugoslavia,Canary Islands
+345,410,1933,200,1,Dinars,Yugoslavia,Canary Islands
+345,410,1934,550,1,Dinars,Yugoslavia,Canary Islands
+345,410,1935,2200,1,Dinars,Yugoslavia,Canary Islands
+345,410,1936,961,1,Dinars,Yugoslavia,Canary Islands
+345,410,1937,189630,1,Dinars,Yugoslavia,Canary Islands
+345,410,1938,0,1,Dinars,Yugoslavia,Canary Islands
+345,410,1939,0,1,Dinars,Yugoslavia,Canary Islands
+345,410,1945,0,1000,,Yugoslavia,Canary Islands
+345,410,1946,0,1000,1000 Dinars,Yugoslavia,Canary Islands
+345,410,1947,0,1000,1000 Dinars,Yugoslavia,Canary Islands
+345,410,1948,0,1000,1000 Dinars,Yugoslavia,Canary Islands
+345,410,1949,0,1000,1000 Dinars,Yugoslavia,Canary Islands
+345,430,1920,0,1,,Yugoslavia,French West Africa
+345,430,1921,0,1,,Yugoslavia,French West Africa
+345,430,1922,0,1,,Yugoslavia,French West Africa
+345,430,1923,0,1,,Yugoslavia,French West Africa
+345,430,1924,0,1,,Yugoslavia,French West Africa
+345,430,1925,0,1,,Yugoslavia,French West Africa
+345,430,1926,0,1,,Yugoslavia,French West Africa
+345,430,1927,0,1,,Yugoslavia,French West Africa
+345,430,1928,0,1,,Yugoslavia,French West Africa
+345,430,1929,0,1,,Yugoslavia,French West Africa
+345,430,1930,0,1,Dinars,Yugoslavia,French West Africa
+345,430,1931,0,1,Dinars,Yugoslavia,French West Africa
+345,430,1932,0,1,Dinars,Yugoslavia,French West Africa
+345,430,1933,0,1,Dinars,Yugoslavia,French West Africa
+345,430,1934,0,1,Dinars,Yugoslavia,French West Africa
+345,430,1935,72359,1,Dinars,Yugoslavia,French West Africa
+345,430,1936,301733,1,Dinars,Yugoslavia,French West Africa
+345,430,1937,1083589,1,Dinars,Yugoslavia,French West Africa
+345,430,1938,793437,1,Dinars,Yugoslavia,French West Africa
+345,430,1939,1054407,1,Dinars,Yugoslavia,French West Africa
+345,430,1945,0,1000,,Yugoslavia,French West Africa
+345,430,1946,0,1000,1000 Dinars,Yugoslavia,French West Africa
+345,430,1947,0,1000,1000 Dinars,Yugoslavia,French West Africa
+345,430,1948,0,1000,1000 Dinars,Yugoslavia,French West Africa
+345,430,1949,0,1000,1000 Dinars,Yugoslavia,French West Africa
+345,433,1920,0,1,,Yugoslavia,Senegal
+345,433,1921,0,1,,Yugoslavia,Senegal
+345,433,1922,0,1,,Yugoslavia,Senegal
+345,433,1923,0,1,,Yugoslavia,Senegal
+345,433,1924,0,1,,Yugoslavia,Senegal
+345,433,1925,0,1,,Yugoslavia,Senegal
+345,433,1926,0,1,,Yugoslavia,Senegal
+345,433,1927,0,1,,Yugoslavia,Senegal
+345,433,1928,2400,1,,Yugoslavia,Senegal
+345,433,1929,9000,1,,Yugoslavia,Senegal
+345,433,1930,0,1,Dinars,Yugoslavia,Senegal
+345,433,1931,3162,1,Dinars,Yugoslavia,Senegal
+345,433,1932,0,1,Dinars,Yugoslavia,Senegal
+345,433,1933,114560,1,Dinars,Yugoslavia,Senegal
+345,433,1934,12697,1,Dinars,Yugoslavia,Senegal
+345,433,1935,0,1,Dinars,Yugoslavia,Senegal
+345,433,1936,0,1,Dinars,Yugoslavia,Senegal
+345,433,1937,0,1,Dinars,Yugoslavia,Senegal
+345,433,1938,0,1,Dinars,Yugoslavia,Senegal
+345,433,1939,0,1,Dinars,Yugoslavia,Senegal
+345,433,1945,0,1000,,Yugoslavia,Senegal
+345,433,1946,0,1000,1000 Dinars,Yugoslavia,Senegal
+345,433,1947,0,1000,1000 Dinars,Yugoslavia,Senegal
+345,433,1948,0,1000,1000 Dinars,Yugoslavia,Senegal
+345,433,1949,0,1000,1000 Dinars,Yugoslavia,Senegal
+345,450,1920,0,1,,Yugoslavia,Liberia
+345,450,1921,0,1,,Yugoslavia,Liberia
+345,450,1922,0,1,,Yugoslavia,Liberia
+345,450,1923,0,1,,Yugoslavia,Liberia
+345,450,1924,0,1,,Yugoslavia,Liberia
+345,450,1925,0,1,,Yugoslavia,Liberia
+345,450,1926,0,1,,Yugoslavia,Liberia
+345,450,1927,4300,1,,Yugoslavia,Liberia
+345,450,1928,18100,1,,Yugoslavia,Liberia
+345,450,1929,32000,1,,Yugoslavia,Liberia
+345,450,1930,0,1,Dinars,Yugoslavia,Liberia
+345,450,1931,55,1,Dinars,Yugoslavia,Liberia
+345,450,1932,101632,1,Dinars,Yugoslavia,Liberia
+345,450,1933,39722,1,Dinars,Yugoslavia,Liberia
+345,450,1934,16628,1,Dinars,Yugoslavia,Liberia
+345,450,1935,11004,1,Dinars,Yugoslavia,Liberia
+345,450,1936,19372,1,Dinars,Yugoslavia,Liberia
+345,450,1937,0,1,Dinars,Yugoslavia,Liberia
+345,450,1938,30447,1,Dinars,Yugoslavia,Liberia
+345,450,1939,13939,1,Dinars,Yugoslavia,Liberia
+345,450,1945,0,1000,,Yugoslavia,Liberia
+345,450,1946,0,1000,1000 Dinars,Yugoslavia,Liberia
+345,450,1947,0,1000,1000 Dinars,Yugoslavia,Liberia
+345,450,1948,0,1000,1000 Dinars,Yugoslavia,Liberia
+345,450,1949,0,1000,1000 Dinars,Yugoslavia,Liberia
+345,451,1920,0,1,,Yugoslavia,Sierra Leone
+345,451,1921,0,1,,Yugoslavia,Sierra Leone
+345,451,1922,0,1,,Yugoslavia,Sierra Leone
+345,451,1923,0,1,,Yugoslavia,Sierra Leone
+345,451,1924,0,1,,Yugoslavia,Sierra Leone
+345,451,1925,0,1,,Yugoslavia,Sierra Leone
+345,451,1926,0,1,,Yugoslavia,Sierra Leone
+345,451,1927,0,1,,Yugoslavia,Sierra Leone
+345,451,1928,0,1,,Yugoslavia,Sierra Leone
+345,451,1929,0,1,,Yugoslavia,Sierra Leone
+345,451,1930,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1931,10900,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1932,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1933,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1934,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1935,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1936,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1937,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1938,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1939,0,1,Dinars,Yugoslavia,Sierra Leone
+345,451,1945,0,1000,,Yugoslavia,Sierra Leone
+345,451,1946,0,1000,1000 Dinars,Yugoslavia,Sierra Leone
+345,451,1947,0,1000,1000 Dinars,Yugoslavia,Sierra Leone
+345,451,1948,0,1000,1000 Dinars,Yugoslavia,Sierra Leone
+345,451,1949,0,1000,1000 Dinars,Yugoslavia,Sierra Leone
+345,452,1920,0,1,,Yugoslavia,Ghana
+345,452,1921,0,1,,Yugoslavia,Ghana
+345,452,1922,0,1,,Yugoslavia,Ghana
+345,452,1923,0,1,,Yugoslavia,Ghana
+345,452,1924,0,1,,Yugoslavia,Ghana
+345,452,1925,0,1,,Yugoslavia,Ghana
+345,452,1926,0,1,,Yugoslavia,Ghana
+345,452,1927,0,1,,Yugoslavia,Ghana
+345,452,1928,0,1,,Yugoslavia,Ghana
+345,452,1929,4518862,1,,Yugoslavia,Ghana
+345,452,1930,3547695,1,Dinars,Yugoslavia,Ghana
+345,452,1931,2526832,1,Dinars,Yugoslavia,Ghana
+345,452,1932,2297776,1,Dinars,Yugoslavia,Ghana
+345,452,1933,1810880,1,Dinars,Yugoslavia,Ghana
+345,452,1934,2803508,1,Dinars,Yugoslavia,Ghana
+345,452,1935,3601914,1,Dinars,Yugoslavia,Ghana
+345,452,1936,4375763,1,Dinars,Yugoslavia,Ghana
+345,452,1937,8411305,1,Dinars,Yugoslavia,Ghana
+345,452,1938,6741317,1,Dinars,Yugoslavia,Ghana
+345,452,1939,5578153,1,Dinars,Yugoslavia,Ghana
+345,452,1945,0,1000,,Yugoslavia,Ghana
+345,452,1946,0,1000,1000 Dinars,Yugoslavia,Ghana
+345,452,1947,0,1000,1000 Dinars,Yugoslavia,Ghana
+345,452,1948,0,1000,1000 Dinars,Yugoslavia,Ghana
+345,452,1949,0,1000,1000 Dinars,Yugoslavia,Ghana
+345,465,1920,0,1,,Yugoslavia,British West Africa
+345,465,1921,0,1,,Yugoslavia,British West Africa
+345,465,1922,0,1,,Yugoslavia,British West Africa
+345,465,1923,0,1,,Yugoslavia,British West Africa
+345,465,1924,0,1,,Yugoslavia,British West Africa
+345,465,1925,0,1,,Yugoslavia,British West Africa
+345,465,1926,0,1,,Yugoslavia,British West Africa
+345,465,1927,0,1,,Yugoslavia,British West Africa
+345,465,1928,0,1,,Yugoslavia,British West Africa
+345,465,1929,0,1,,Yugoslavia,British West Africa
+345,465,1930,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1931,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1932,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1933,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1934,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1935,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1936,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1937,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1938,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1939,0,1,Dinars,Yugoslavia,British West Africa
+345,465,1945,0,1000,,Yugoslavia,British West Africa
+345,465,1946,0,1000,1000 Dinars,Yugoslavia,British West Africa
+345,465,1947,0,1000,1000 Dinars,Yugoslavia,British West Africa
+345,465,1948,0,1000,1000 Dinars,Yugoslavia,British West Africa
+345,465,1949,0,1000,1000 Dinars,Yugoslavia,British West Africa
+345,475,1920,0,1,,Yugoslavia,Nigeria
+345,475,1921,0,1,,Yugoslavia,Nigeria
+345,475,1922,0,1,,Yugoslavia,Nigeria
+345,475,1923,0,1,,Yugoslavia,Nigeria
+345,475,1924,0,1,,Yugoslavia,Nigeria
+345,475,1925,0,1,,Yugoslavia,Nigeria
+345,475,1926,0,1,,Yugoslavia,Nigeria
+345,475,1927,0,1,,Yugoslavia,Nigeria
+345,475,1928,231000,1,,Yugoslavia,Nigeria
+345,475,1929,1041260,1,,Yugoslavia,Nigeria
+345,475,1930,306863,1,Dinars,Yugoslavia,Nigeria
+345,475,1931,386100,1,Dinars,Yugoslavia,Nigeria
+345,475,1932,431230,1,Dinars,Yugoslavia,Nigeria
+345,475,1933,393923,1,Dinars,Yugoslavia,Nigeria
+345,475,1934,2452895,1,Dinars,Yugoslavia,Nigeria
+345,475,1935,3182475,1,Dinars,Yugoslavia,Nigeria
+345,475,1936,4192089,1,Dinars,Yugoslavia,Nigeria
+345,475,1937,4605543,1,Dinars,Yugoslavia,Nigeria
+345,475,1938,2531767,1,Dinars,Yugoslavia,Nigeria
+345,475,1939,2039341,1,Dinars,Yugoslavia,Nigeria
+345,475,1945,0,1000,,Yugoslavia,Nigeria
+345,475,1946,0,1000,1000 Dinars,Yugoslavia,Nigeria
+345,475,1947,0,1000,1000 Dinars,Yugoslavia,Nigeria
+345,475,1948,0,1000,1000 Dinars,Yugoslavia,Nigeria
+345,475,1949,0,1000,1000 Dinars,Yugoslavia,Nigeria
+345,484,1920,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1921,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1922,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1923,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1924,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1925,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1926,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1927,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1928,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1929,0,1,,Yugoslavia,"Congo, Republic"
+345,484,1930,55000,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1931,276150,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1932,0,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1933,710367,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1934,458169,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1935,999867,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1936,305802,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1937,813837,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1938,401705,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1939,254309,1,Dinars,Yugoslavia,"Congo, Republic"
+345,484,1945,0,1000,,Yugoslavia,"Congo, Republic"
+345,484,1946,0,1000,1000 Dinars,Yugoslavia,"Congo, Republic"
+345,484,1947,0,1000,1000 Dinars,Yugoslavia,"Congo, Republic"
+345,484,1948,0,1000,1000 Dinars,Yugoslavia,"Congo, Republic"
+345,484,1949,0,1000,1000 Dinars,Yugoslavia,"Congo, Republic"
+345,490,1920,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1921,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1922,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1923,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1924,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1925,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1926,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1927,0,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1928,800,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1929,30200,1,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1930,27000,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1931,10399,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1932,34092,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1933,83083,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1934,1500410,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1935,3840699,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1936,6826292,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1937,11894871,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1938,7252060,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1939,2562791,1,Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1945,0,1000,,Yugoslavia,"Congo, Dem. Republic"
+345,490,1946,0,1000,1000 Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1947,0,1000,1000 Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1948,0,1000,1000 Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,490,1949,0,1000,1000 Dinars,Yugoslavia,"Congo, Dem. Republic"
+345,501,1920,0,1,,Yugoslavia,Kenya
+345,501,1921,0,1,,Yugoslavia,Kenya
+345,501,1922,0,1,,Yugoslavia,Kenya
+345,501,1923,0,1,,Yugoslavia,Kenya
+345,501,1924,0,1,,Yugoslavia,Kenya
+345,501,1925,0,1,,Yugoslavia,Kenya
+345,501,1926,0,1,,Yugoslavia,Kenya
+345,501,1927,0,1,,Yugoslavia,Kenya
+345,501,1928,0,1,,Yugoslavia,Kenya
+345,501,1929,0,1,,Yugoslavia,Kenya
+345,501,1930,0,1,Dinars,Yugoslavia,Kenya
+345,501,1931,0,1,Dinars,Yugoslavia,Kenya
+345,501,1932,83407,1,Dinars,Yugoslavia,Kenya
+345,501,1933,69676,1,Dinars,Yugoslavia,Kenya
+345,501,1934,137389,1,Dinars,Yugoslavia,Kenya
+345,501,1935,3021011,1,Dinars,Yugoslavia,Kenya
+345,501,1936,955559,1,Dinars,Yugoslavia,Kenya
+345,501,1937,463009,1,Dinars,Yugoslavia,Kenya
+345,501,1938,1690472,1,Dinars,Yugoslavia,Kenya
+345,501,1939,673118,1,Dinars,Yugoslavia,Kenya
+345,501,1945,0,1000,,Yugoslavia,Kenya
+345,501,1946,0,1000,1000 Dinars,Yugoslavia,Kenya
+345,501,1947,0,1000,1000 Dinars,Yugoslavia,Kenya
+345,501,1948,0,1000,1000 Dinars,Yugoslavia,Kenya
+345,501,1949,0,1000,1000 Dinars,Yugoslavia,Kenya
+345,505,1920,0,1,,Yugoslavia,British East Africa
+345,505,1921,0,1,,Yugoslavia,British East Africa
+345,505,1922,0,1,,Yugoslavia,British East Africa
+345,505,1923,0,1,,Yugoslavia,British East Africa
+345,505,1924,0,1,,Yugoslavia,British East Africa
+345,505,1925,0,1,,Yugoslavia,British East Africa
+345,505,1926,0,1,,Yugoslavia,British East Africa
+345,505,1927,0,1,,Yugoslavia,British East Africa
+345,505,1928,0,1,,Yugoslavia,British East Africa
+345,505,1929,0,1,,Yugoslavia,British East Africa
+345,505,1930,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1931,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1932,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1933,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1934,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1935,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1936,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1937,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1938,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1939,0,1,Dinars,Yugoslavia,British East Africa
+345,505,1945,0,1000,,Yugoslavia,British East Africa
+345,505,1946,0,1000,1000 Dinars,Yugoslavia,British East Africa
+345,505,1947,1259,1000,1000 Dinars,Yugoslavia,British East Africa
+345,505,1948,0,1000,1000 Dinars,Yugoslavia,British East Africa
+345,505,1949,11905,1000,1000 Dinars,Yugoslavia,British East Africa
+345,510,1920,0,1,,Yugoslavia,Tanzania
+345,510,1921,0,1,,Yugoslavia,Tanzania
+345,510,1922,0,1,,Yugoslavia,Tanzania
+345,510,1923,0,1,,Yugoslavia,Tanzania
+345,510,1924,0,1,,Yugoslavia,Tanzania
+345,510,1925,0,1,,Yugoslavia,Tanzania
+345,510,1926,0,1,,Yugoslavia,Tanzania
+345,510,1927,0,1,,Yugoslavia,Tanzania
+345,510,1928,0,1,,Yugoslavia,Tanzania
+345,510,1929,0,1,,Yugoslavia,Tanzania
+345,510,1930,73100,1,Dinars,Yugoslavia,Tanzania
+345,510,1931,0,1,Dinars,Yugoslavia,Tanzania
+345,510,1932,0,1,Dinars,Yugoslavia,Tanzania
+345,510,1933,180,1,Dinars,Yugoslavia,Tanzania
+345,510,1934,0,1,Dinars,Yugoslavia,Tanzania
+345,510,1935,5483,1,Dinars,Yugoslavia,Tanzania
+345,510,1936,42146,1,Dinars,Yugoslavia,Tanzania
+345,510,1937,6902,1,Dinars,Yugoslavia,Tanzania
+345,510,1938,670288,1,Dinars,Yugoslavia,Tanzania
+345,510,1939,78269,1,Dinars,Yugoslavia,Tanzania
+345,510,1945,0,1000,,Yugoslavia,Tanzania
+345,510,1946,0,1000,1000 Dinars,Yugoslavia,Tanzania
+345,510,1947,0,1000,1000 Dinars,Yugoslavia,Tanzania
+345,510,1948,0,1000,1000 Dinars,Yugoslavia,Tanzania
+345,510,1949,0,1000,1000 Dinars,Yugoslavia,Tanzania
+345,511,1920,0,1,,Yugoslavia,Zanzibar
+345,511,1921,0,1,,Yugoslavia,Zanzibar
+345,511,1922,0,1,,Yugoslavia,Zanzibar
+345,511,1923,0,1,,Yugoslavia,Zanzibar
+345,511,1924,0,1,,Yugoslavia,Zanzibar
+345,511,1925,0,1,,Yugoslavia,Zanzibar
+345,511,1926,0,1,,Yugoslavia,Zanzibar
+345,511,1927,0,1,,Yugoslavia,Zanzibar
+345,511,1928,36920,1,,Yugoslavia,Zanzibar
+345,511,1929,88580,1,,Yugoslavia,Zanzibar
+345,511,1930,40170,1,Dinars,Yugoslavia,Zanzibar
+345,511,1931,38250,1,Dinars,Yugoslavia,Zanzibar
+345,511,1932,117440,1,Dinars,Yugoslavia,Zanzibar
+345,511,1933,39559,1,Dinars,Yugoslavia,Zanzibar
+345,511,1934,579679,1,Dinars,Yugoslavia,Zanzibar
+345,511,1935,15726,1,Dinars,Yugoslavia,Zanzibar
+345,511,1936,24423,1,Dinars,Yugoslavia,Zanzibar
+345,511,1937,206875,1,Dinars,Yugoslavia,Zanzibar
+345,511,1938,1248,1,Dinars,Yugoslavia,Zanzibar
+345,511,1939,0,1,Dinars,Yugoslavia,Zanzibar
+345,511,1945,0,1000,,Yugoslavia,Zanzibar
+345,511,1946,0,1000,1000 Dinars,Yugoslavia,Zanzibar
+345,511,1947,0,1000,1000 Dinars,Yugoslavia,Zanzibar
+345,511,1948,0,1000,1000 Dinars,Yugoslavia,Zanzibar
+345,511,1949,0,1000,1000 Dinars,Yugoslavia,Zanzibar
+345,521,1920,0,1,,Yugoslavia,British Somaliland
+345,521,1921,0,1,,Yugoslavia,British Somaliland
+345,521,1922,0,1,,Yugoslavia,British Somaliland
+345,521,1923,0,1,,Yugoslavia,British Somaliland
+345,521,1924,0,1,,Yugoslavia,British Somaliland
+345,521,1925,0,1,,Yugoslavia,British Somaliland
+345,521,1926,0,1,,Yugoslavia,British Somaliland
+345,521,1927,0,1,,Yugoslavia,British Somaliland
+345,521,1928,131890,1,,Yugoslavia,British Somaliland
+345,521,1929,180940,1,,Yugoslavia,British Somaliland
+345,521,1930,136478,1,Dinars,Yugoslavia,British Somaliland
+345,521,1931,85251,1,Dinars,Yugoslavia,British Somaliland
+345,521,1932,34644,1,Dinars,Yugoslavia,British Somaliland
+345,521,1933,11960,1,Dinars,Yugoslavia,British Somaliland
+345,521,1934,196430,1,Dinars,Yugoslavia,British Somaliland
+345,521,1935,275296,1,Dinars,Yugoslavia,British Somaliland
+345,521,1936,566753,1,Dinars,Yugoslavia,British Somaliland
+345,521,1937,532644,1,Dinars,Yugoslavia,British Somaliland
+345,521,1938,254541,1,Dinars,Yugoslavia,British Somaliland
+345,521,1939,368151,1,Dinars,Yugoslavia,British Somaliland
+345,521,1945,0,1000,,Yugoslavia,British Somaliland
+345,521,1946,0,1000,1000 Dinars,Yugoslavia,British Somaliland
+345,521,1947,0,1000,1000 Dinars,Yugoslavia,British Somaliland
+345,521,1948,0,1000,1000 Dinars,Yugoslavia,British Somaliland
+345,521,1949,0,1000,1000 Dinars,Yugoslavia,British Somaliland
+345,522,1920,0,1,,Yugoslavia,Djibouti
+345,522,1921,0,1,,Yugoslavia,Djibouti
+345,522,1922,0,1,,Yugoslavia,Djibouti
+345,522,1923,0,1,,Yugoslavia,Djibouti
+345,522,1924,0,1,,Yugoslavia,Djibouti
+345,522,1925,0,1,,Yugoslavia,Djibouti
+345,522,1926,0,1,,Yugoslavia,Djibouti
+345,522,1927,0,1,,Yugoslavia,Djibouti
+345,522,1928,0,1,,Yugoslavia,Djibouti
+345,522,1929,0,1,,Yugoslavia,Djibouti
+345,522,1930,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1931,400,1,Dinars,Yugoslavia,Djibouti
+345,522,1932,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1933,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1934,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1935,362,1,Dinars,Yugoslavia,Djibouti
+345,522,1936,10319,1,Dinars,Yugoslavia,Djibouti
+345,522,1937,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1938,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1939,0,1,Dinars,Yugoslavia,Djibouti
+345,522,1945,0,1000,,Yugoslavia,Djibouti
+345,522,1946,0,1000,1000 Dinars,Yugoslavia,Djibouti
+345,522,1947,0,1000,1000 Dinars,Yugoslavia,Djibouti
+345,522,1948,126,1000,1000 Dinars,Yugoslavia,Djibouti
+345,522,1949,0,1000,1000 Dinars,Yugoslavia,Djibouti
+345,530,1920,0,1,,Yugoslavia,Ethiopia
+345,530,1921,0,1,,Yugoslavia,Ethiopia
+345,530,1922,0,1,,Yugoslavia,Ethiopia
+345,530,1923,3000,1,,Yugoslavia,Ethiopia
+345,530,1924,0,1,,Yugoslavia,Ethiopia
+345,530,1925,159000,1,,Yugoslavia,Ethiopia
+345,530,1926,30300,1,,Yugoslavia,Ethiopia
+345,530,1927,358000,1,,Yugoslavia,Ethiopia
+345,530,1928,346500,1,,Yugoslavia,Ethiopia
+345,530,1929,17400,1,,Yugoslavia,Ethiopia
+345,530,1930,45000,1,Dinars,Yugoslavia,Ethiopia
+345,530,1931,256455,1,Dinars,Yugoslavia,Ethiopia
+345,530,1932,700,1,Dinars,Yugoslavia,Ethiopia
+345,530,1933,179863,1,Dinars,Yugoslavia,Ethiopia
+345,530,1934,1021603,1,Dinars,Yugoslavia,Ethiopia
+345,530,1935,1258450,1,Dinars,Yugoslavia,Ethiopia
+345,530,1936,284104,1,Dinars,Yugoslavia,Ethiopia
+345,530,1937,57120,1,Dinars,Yugoslavia,Ethiopia
+345,530,1938,0,1,Dinars,Yugoslavia,Ethiopia
+345,530,1939,15374,1,Dinars,Yugoslavia,Ethiopia
+345,530,1945,0,1000,,Yugoslavia,Ethiopia
+345,530,1946,0,1000,1000 Dinars,Yugoslavia,Ethiopia
+345,530,1947,0,1000,1000 Dinars,Yugoslavia,Ethiopia
+345,530,1948,0,1000,1000 Dinars,Yugoslavia,Ethiopia
+345,530,1949,0,1000,1000 Dinars,Yugoslavia,Ethiopia
+345,531,1920,0,1,,Yugoslavia,Eritrea
+345,531,1921,0,1,,Yugoslavia,Eritrea
+345,531,1922,0,1,,Yugoslavia,Eritrea
+345,531,1923,0,1,,Yugoslavia,Eritrea
+345,531,1924,0,1,,Yugoslavia,Eritrea
+345,531,1925,0,1,,Yugoslavia,Eritrea
+345,531,1926,0,1,,Yugoslavia,Eritrea
+345,531,1927,0,1,,Yugoslavia,Eritrea
+345,531,1928,0,1,,Yugoslavia,Eritrea
+345,531,1929,0,1,,Yugoslavia,Eritrea
+345,531,1930,0,1,Dinars,Yugoslavia,Eritrea
+345,531,1931,5749,1,Dinars,Yugoslavia,Eritrea
+345,531,1932,3507499,1,Dinars,Yugoslavia,Eritrea
+345,531,1933,4145770,1,Dinars,Yugoslavia,Eritrea
+345,531,1934,247837,1,Dinars,Yugoslavia,Eritrea
+345,531,1935,189190,1,Dinars,Yugoslavia,Eritrea
+345,531,1936,0,1,Dinars,Yugoslavia,Eritrea
+345,531,1937,0,1,Dinars,Yugoslavia,Eritrea
+345,531,1938,0,1,Dinars,Yugoslavia,Eritrea
+345,531,1939,27456,1,Dinars,Yugoslavia,Eritrea
+345,531,1945,0,1000,,Yugoslavia,Eritrea
+345,531,1946,0,1000,1000 Dinars,Yugoslavia,Eritrea
+345,531,1947,0,1000,1000 Dinars,Yugoslavia,Eritrea
+345,531,1948,0,1000,1000 Dinars,Yugoslavia,Eritrea
+345,531,1949,0,1000,1000 Dinars,Yugoslavia,Eritrea
+345,540,1920,0,1,,Yugoslavia,Angola
+345,540,1921,0,1,,Yugoslavia,Angola
+345,540,1922,0,1,,Yugoslavia,Angola
+345,540,1923,0,1,,Yugoslavia,Angola
+345,540,1924,0,1,,Yugoslavia,Angola
+345,540,1925,0,1,,Yugoslavia,Angola
+345,540,1926,0,1,,Yugoslavia,Angola
+345,540,1927,0,1,,Yugoslavia,Angola
+345,540,1928,0,1,,Yugoslavia,Angola
+345,540,1929,0,1,,Yugoslavia,Angola
+345,540,1930,6000,1,Dinars,Yugoslavia,Angola
+345,540,1931,21331,1,Dinars,Yugoslavia,Angola
+345,540,1932,0,1,Dinars,Yugoslavia,Angola
+345,540,1933,0,1,Dinars,Yugoslavia,Angola
+345,540,1934,0,1,Dinars,Yugoslavia,Angola
+345,540,1935,208260,1,Dinars,Yugoslavia,Angola
+345,540,1936,355385,1,Dinars,Yugoslavia,Angola
+345,540,1937,315887,1,Dinars,Yugoslavia,Angola
+345,540,1938,83311,1,Dinars,Yugoslavia,Angola
+345,540,1939,309814,1,Dinars,Yugoslavia,Angola
+345,540,1945,0,1000,,Yugoslavia,Angola
+345,540,1946,0,1000,1000 Dinars,Yugoslavia,Angola
+345,540,1947,0,1000,1000 Dinars,Yugoslavia,Angola
+345,540,1948,0,1000,1000 Dinars,Yugoslavia,Angola
+345,540,1949,0,1000,1000 Dinars,Yugoslavia,Angola
+345,541,1920,0,1,,Yugoslavia,Mozambique
+345,541,1921,0,1,,Yugoslavia,Mozambique
+345,541,1922,0,1,,Yugoslavia,Mozambique
+345,541,1923,0,1,,Yugoslavia,Mozambique
+345,541,1924,0,1,,Yugoslavia,Mozambique
+345,541,1925,0,1,,Yugoslavia,Mozambique
+345,541,1926,0,1,,Yugoslavia,Mozambique
+345,541,1927,0,1,,Yugoslavia,Mozambique
+345,541,1928,0,1,,Yugoslavia,Mozambique
+345,541,1929,0,1,,Yugoslavia,Mozambique
+345,541,1930,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1931,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1932,150007,1,Dinars,Yugoslavia,Mozambique
+345,541,1933,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1934,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1935,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1936,0,1,Dinars,Yugoslavia,Mozambique
+345,541,1937,127294,1,Dinars,Yugoslavia,Mozambique
+345,541,1938,4675,1,Dinars,Yugoslavia,Mozambique
+345,541,1939,274000,1,Dinars,Yugoslavia,Mozambique
+345,541,1945,0,1000,,Yugoslavia,Mozambique
+345,541,1946,0,1000,1000 Dinars,Yugoslavia,Mozambique
+345,541,1947,0,1000,1000 Dinars,Yugoslavia,Mozambique
+345,541,1948,0,1000,1000 Dinars,Yugoslavia,Mozambique
+345,541,1949,0,1000,1000 Dinars,Yugoslavia,Mozambique
+345,554,1920,0,1,,Yugoslavia,Rhodesia
+345,554,1921,0,1,,Yugoslavia,Rhodesia
+345,554,1922,0,1,,Yugoslavia,Rhodesia
+345,554,1923,0,1,,Yugoslavia,Rhodesia
+345,554,1924,0,1,,Yugoslavia,Rhodesia
+345,554,1925,0,1,,Yugoslavia,Rhodesia
+345,554,1926,0,1,,Yugoslavia,Rhodesia
+345,554,1927,0,1,,Yugoslavia,Rhodesia
+345,554,1928,0,1,,Yugoslavia,Rhodesia
+345,554,1929,0,1,,Yugoslavia,Rhodesia
+345,554,1930,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1931,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1932,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1933,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1934,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1935,222846,1,Dinars,Yugoslavia,Rhodesia
+345,554,1936,492200,1,Dinars,Yugoslavia,Rhodesia
+345,554,1937,597161,1,Dinars,Yugoslavia,Rhodesia
+345,554,1938,50863,1,Dinars,Yugoslavia,Rhodesia
+345,554,1939,0,1,Dinars,Yugoslavia,Rhodesia
+345,554,1945,0,1000,,Yugoslavia,Rhodesia
+345,554,1946,0,1000,1000 Dinars,Yugoslavia,Rhodesia
+345,554,1947,0,1000,1000 Dinars,Yugoslavia,Rhodesia
+345,554,1948,0,1000,1000 Dinars,Yugoslavia,Rhodesia
+345,554,1949,0,1000,1000 Dinars,Yugoslavia,Rhodesia
+345,560,1920,0,1,,Yugoslavia,South Africa
+345,560,1921,0,1,,Yugoslavia,South Africa
+345,560,1922,0,1,,Yugoslavia,South Africa
+345,560,1923,0,1,,Yugoslavia,South Africa
+345,560,1924,0,1,,Yugoslavia,South Africa
+345,560,1925,0,1,,Yugoslavia,South Africa
+345,560,1926,0,1,,Yugoslavia,South Africa
+345,560,1927,0,1,,Yugoslavia,South Africa
+345,560,1928,0,1,,Yugoslavia,South Africa
+345,560,1929,0,1,,Yugoslavia,South Africa
+345,560,1930,229000,1,Dinars,Yugoslavia,South Africa
+345,560,1931,556079,1,Dinars,Yugoslavia,South Africa
+345,560,1932,928736,1,Dinars,Yugoslavia,South Africa
+345,560,1933,218883,1,Dinars,Yugoslavia,South Africa
+345,560,1934,617276,1,Dinars,Yugoslavia,South Africa
+345,560,1935,671460,1,Dinars,Yugoslavia,South Africa
+345,560,1936,2676438,1,Dinars,Yugoslavia,South Africa
+345,560,1937,4627128,1,Dinars,Yugoslavia,South Africa
+345,560,1938,3707747,1,Dinars,Yugoslavia,South Africa
+345,560,1939,8820426,1,Dinars,Yugoslavia,South Africa
+345,560,1945,0,1000,,Yugoslavia,South Africa
+345,560,1946,485,1000,1000 Dinars,Yugoslavia,South Africa
+345,560,1947,0,1000,1000 Dinars,Yugoslavia,South Africa
+345,560,1948,3094,1000,1000 Dinars,Yugoslavia,South Africa
+345,560,1949,20,1000,1000 Dinars,Yugoslavia,South Africa
+345,580,1920,0,1,,Yugoslavia,Madagascar
+345,580,1921,0,1,,Yugoslavia,Madagascar
+345,580,1922,0,1,,Yugoslavia,Madagascar
+345,580,1923,0,1,,Yugoslavia,Madagascar
+345,580,1924,0,1,,Yugoslavia,Madagascar
+345,580,1925,0,1,,Yugoslavia,Madagascar
+345,580,1926,0,1,,Yugoslavia,Madagascar
+345,580,1927,0,1,,Yugoslavia,Madagascar
+345,580,1928,3811320,1,,Yugoslavia,Madagascar
+345,580,1929,1835898,1,,Yugoslavia,Madagascar
+345,580,1930,576920,1,Dinars,Yugoslavia,Madagascar
+345,580,1931,3635938,1,Dinars,Yugoslavia,Madagascar
+345,580,1932,3067657,1,Dinars,Yugoslavia,Madagascar
+345,580,1933,1967814,1,Dinars,Yugoslavia,Madagascar
+345,580,1934,3169019,1,Dinars,Yugoslavia,Madagascar
+345,580,1935,7431312,1,Dinars,Yugoslavia,Madagascar
+345,580,1936,6169110,1,Dinars,Yugoslavia,Madagascar
+345,580,1937,8578473,1,Dinars,Yugoslavia,Madagascar
+345,580,1938,7381211,1,Dinars,Yugoslavia,Madagascar
+345,580,1939,1997922,1,Dinars,Yugoslavia,Madagascar
+345,580,1945,0,1000,,Yugoslavia,Madagascar
+345,580,1946,0,1000,1000 Dinars,Yugoslavia,Madagascar
+345,580,1947,0,1000,1000 Dinars,Yugoslavia,Madagascar
+345,580,1948,0,1000,1000 Dinars,Yugoslavia,Madagascar
+345,580,1949,0,1000,1000 Dinars,Yugoslavia,Madagascar
+345,615,1920,0,1,,Yugoslavia,Algeria
+345,615,1921,270466,1,,Yugoslavia,Algeria
+345,615,1922,2384900,1,,Yugoslavia,Algeria
+345,615,1923,6059559,1,,Yugoslavia,Algeria
+345,615,1924,1629771,1,,Yugoslavia,Algeria
+345,615,1925,1371453,1,,Yugoslavia,Algeria
+345,615,1926,875873,1,,Yugoslavia,Algeria
+345,615,1927,1450683,1,,Yugoslavia,Algeria
+345,615,1928,1052274,1,,Yugoslavia,Algeria
+345,615,1929,4252628,1,,Yugoslavia,Algeria
+345,615,1930,3355724,1,Dinars,Yugoslavia,Algeria
+345,615,1931,551957,1,Dinars,Yugoslavia,Algeria
+345,615,1932,416267,1,Dinars,Yugoslavia,Algeria
+345,615,1933,938743,1,Dinars,Yugoslavia,Algeria
+345,615,1934,364810,1,Dinars,Yugoslavia,Algeria
+345,615,1935,124577,1,Dinars,Yugoslavia,Algeria
+345,615,1936,2669775,1,Dinars,Yugoslavia,Algeria
+345,615,1937,1263516,1,Dinars,Yugoslavia,Algeria
+345,615,1938,2301088,1,Dinars,Yugoslavia,Algeria
+345,615,1939,3315512,1,Dinars,Yugoslavia,Algeria
+345,615,1945,0,1000,,Yugoslavia,Algeria
+345,615,1946,0,1000,1000 Dinars,Yugoslavia,Algeria
+345,615,1947,0,1000,1000 Dinars,Yugoslavia,Algeria
+345,615,1948,0,1000,1000 Dinars,Yugoslavia,Algeria
+345,615,1949,0,1000,1000 Dinars,Yugoslavia,Algeria
+345,616,1920,0,1,,Yugoslavia,Tunisia
+345,616,1921,0,1,,Yugoslavia,Tunisia
+345,616,1922,63335,1,,Yugoslavia,Tunisia
+345,616,1923,30150,1,,Yugoslavia,Tunisia
+345,616,1924,100,1,,Yugoslavia,Tunisia
+345,616,1925,18847432,1,,Yugoslavia,Tunisia
+345,616,1926,15491445,1,,Yugoslavia,Tunisia
+345,616,1927,32250,1,,Yugoslavia,Tunisia
+345,616,1928,35555,1,,Yugoslavia,Tunisia
+345,616,1929,0,1,,Yugoslavia,Tunisia
+345,616,1930,32303,1,Dinars,Yugoslavia,Tunisia
+345,616,1931,2783106,1,Dinars,Yugoslavia,Tunisia
+345,616,1932,290590,1,Dinars,Yugoslavia,Tunisia
+345,616,1933,501901,1,Dinars,Yugoslavia,Tunisia
+345,616,1934,335492,1,Dinars,Yugoslavia,Tunisia
+345,616,1935,2821132,1,Dinars,Yugoslavia,Tunisia
+345,616,1936,357315,1,Dinars,Yugoslavia,Tunisia
+345,616,1937,1155636,1,Dinars,Yugoslavia,Tunisia
+345,616,1938,207238,1,Dinars,Yugoslavia,Tunisia
+345,616,1939,1566408,1,Dinars,Yugoslavia,Tunisia
+345,616,1945,0,1000,,Yugoslavia,Tunisia
+345,616,1946,0,1000,1000 Dinars,Yugoslavia,Tunisia
+345,616,1947,0,1000,1000 Dinars,Yugoslavia,Tunisia
+345,616,1948,0,1000,1000 Dinars,Yugoslavia,Tunisia
+345,616,1949,2689,1000,1000 Dinars,Yugoslavia,Tunisia
+345,620,1920,0,1,,Yugoslavia,Libya
+345,620,1921,0,1,,Yugoslavia,Libya
+345,620,1922,0,1,,Yugoslavia,Libya
+345,620,1923,0,1,,Yugoslavia,Libya
+345,620,1924,0,1,,Yugoslavia,Libya
+345,620,1925,0,1,,Yugoslavia,Libya
+345,620,1926,0,1,,Yugoslavia,Libya
+345,620,1927,0,1,,Yugoslavia,Libya
+345,620,1928,0,1,,Yugoslavia,Libya
+345,620,1929,0,1,,Yugoslavia,Libya
+345,620,1930,0,1,Dinars,Yugoslavia,Libya
+345,620,1931,0,1,Dinars,Yugoslavia,Libya
+345,620,1932,0,1,Dinars,Yugoslavia,Libya
+345,620,1933,8620,1,Dinars,Yugoslavia,Libya
+345,620,1934,0,1,Dinars,Yugoslavia,Libya
+345,620,1935,0,1,Dinars,Yugoslavia,Libya
+345,620,1936,0,1,Dinars,Yugoslavia,Libya
+345,620,1937,37350,1,Dinars,Yugoslavia,Libya
+345,620,1938,0,1,Dinars,Yugoslavia,Libya
+345,620,1939,0,1,Dinars,Yugoslavia,Libya
+345,620,1945,0,1000,,Yugoslavia,Libya
+345,620,1946,0,1000,1000 Dinars,Yugoslavia,Libya
+345,620,1947,0,1000,1000 Dinars,Yugoslavia,Libya
+345,620,1948,0,1000,1000 Dinars,Yugoslavia,Libya
+345,620,1949,0,1000,1000 Dinars,Yugoslavia,Libya
+345,625,1920,0,1,,Yugoslavia,Sudan
+345,625,1921,0,1,,Yugoslavia,Sudan
+345,625,1922,0,1,,Yugoslavia,Sudan
+345,625,1923,0,1,,Yugoslavia,Sudan
+345,625,1924,0,1,,Yugoslavia,Sudan
+345,625,1925,0,1,,Yugoslavia,Sudan
+345,625,1926,0,1,,Yugoslavia,Sudan
+345,625,1927,0,1,,Yugoslavia,Sudan
+345,625,1928,35100,1,,Yugoslavia,Sudan
+345,625,1929,12410,1,,Yugoslavia,Sudan
+345,625,1930,117108,1,Dinars,Yugoslavia,Sudan
+345,625,1931,31740,1,Dinars,Yugoslavia,Sudan
+345,625,1932,3707,1,Dinars,Yugoslavia,Sudan
+345,625,1933,67128,1,Dinars,Yugoslavia,Sudan
+345,625,1934,83440,1,Dinars,Yugoslavia,Sudan
+345,625,1935,78359,1,Dinars,Yugoslavia,Sudan
+345,625,1936,216174,1,Dinars,Yugoslavia,Sudan
+345,625,1937,3421188,1,Dinars,Yugoslavia,Sudan
+345,625,1938,156133,1,Dinars,Yugoslavia,Sudan
+345,625,1939,168781,1,Dinars,Yugoslavia,Sudan
+345,625,1945,0,1000,,Yugoslavia,Sudan
+345,625,1946,0,1000,1000 Dinars,Yugoslavia,Sudan
+345,625,1947,1626,1000,1000 Dinars,Yugoslavia,Sudan
+345,625,1948,0,1000,1000 Dinars,Yugoslavia,Sudan
+345,625,1949,260,1000,1000 Dinars,Yugoslavia,Sudan
+345,630,1920,0,1,,Yugoslavia,Iran
+345,630,1921,0,1,,Yugoslavia,Iran
+345,630,1922,245200,1,,Yugoslavia,Iran
+345,630,1923,1735988,1,,Yugoslavia,Iran
+345,630,1924,1269776,1,,Yugoslavia,Iran
+345,630,1925,2802045,1,,Yugoslavia,Iran
+345,630,1926,1100,1,,Yugoslavia,Iran
+345,630,1927,6950,1,,Yugoslavia,Iran
+345,630,1928,38200,1,,Yugoslavia,Iran
+345,630,1929,28240,1,,Yugoslavia,Iran
+345,630,1930,124655,1,Dinars,Yugoslavia,Iran
+345,630,1931,107868,1,Dinars,Yugoslavia,Iran
+345,630,1932,794486,1,Dinars,Yugoslavia,Iran
+345,630,1933,525409,1,Dinars,Yugoslavia,Iran
+345,630,1934,527463,1,Dinars,Yugoslavia,Iran
+345,630,1935,857126,1,Dinars,Yugoslavia,Iran
+345,630,1936,336061,1,Dinars,Yugoslavia,Iran
+345,630,1937,509064,1,Dinars,Yugoslavia,Iran
+345,630,1938,493312,1,Dinars,Yugoslavia,Iran
+345,630,1939,351120,1,Dinars,Yugoslavia,Iran
+345,630,1945,0,1000,,Yugoslavia,Iran
+345,630,1946,0,1000,1000 Dinars,Yugoslavia,Iran
+345,630,1947,0,1000,1000 Dinars,Yugoslavia,Iran
+345,630,1948,31434,1000,1000 Dinars,Yugoslavia,Iran
+345,630,1949,25296,1000,1000 Dinars,Yugoslavia,Iran
+345,640,1920,1127037,1,,Yugoslavia,Turkey
+345,640,1921,1326697,1,,Yugoslavia,Turkey
+345,640,1922,4318172,1,,Yugoslavia,Turkey
+345,640,1923,3611123,1,,Yugoslavia,Turkey
+345,640,1924,5173938,1,,Yugoslavia,Turkey
+345,640,1925,9858105,1,,Yugoslavia,Turkey
+345,640,1926,40005339,1,,Yugoslavia,Turkey
+345,640,1927,38032446,1,,Yugoslavia,Turkey
+345,640,1928,48089575,1,,Yugoslavia,Turkey
+345,640,1929,11068476,1,,Yugoslavia,Turkey
+345,640,1930,12782509,1,Dinars,Yugoslavia,Turkey
+345,640,1931,9671952,1,Dinars,Yugoslavia,Turkey
+345,640,1932,5453581,1,Dinars,Yugoslavia,Turkey
+345,640,1933,1293893,1,Dinars,Yugoslavia,Turkey
+345,640,1934,3299712,1,Dinars,Yugoslavia,Turkey
+345,640,1935,4789571,1,Dinars,Yugoslavia,Turkey
+345,640,1936,4534767,1,Dinars,Yugoslavia,Turkey
+345,640,1937,6102148,1,Dinars,Yugoslavia,Turkey
+345,640,1938,4227700,1,Dinars,Yugoslavia,Turkey
+345,640,1939,9544663,1,Dinars,Yugoslavia,Turkey
+345,640,1945,2,1000,,Yugoslavia,Turkey
+345,640,1946,11744,1000,1000 Dinars,Yugoslavia,Turkey
+345,640,1947,76935,1000,1000 Dinars,Yugoslavia,Turkey
+345,640,1948,121977,1000,1000 Dinars,Yugoslavia,Turkey
+345,640,1949,19926,1000,1000 Dinars,Yugoslavia,Turkey
+345,645,1920,0,1,,Yugoslavia,Iraq
+345,645,1921,0,1,,Yugoslavia,Iraq
+345,645,1922,0,1,,Yugoslavia,Iraq
+345,645,1923,0,1,,Yugoslavia,Iraq
+345,645,1924,0,1,,Yugoslavia,Iraq
+345,645,1925,0,1,,Yugoslavia,Iraq
+345,645,1926,0,1,,Yugoslavia,Iraq
+345,645,1927,0,1,,Yugoslavia,Iraq
+345,645,1928,0,1,,Yugoslavia,Iraq
+345,645,1929,0,1,,Yugoslavia,Iraq
+345,645,1930,30300,1,Dinars,Yugoslavia,Iraq
+345,645,1931,2440,1,Dinars,Yugoslavia,Iraq
+345,645,1932,5281,1,Dinars,Yugoslavia,Iraq
+345,645,1933,0,1,Dinars,Yugoslavia,Iraq
+345,645,1934,46454,1,Dinars,Yugoslavia,Iraq
+345,645,1935,75523,1,Dinars,Yugoslavia,Iraq
+345,645,1936,119508,1,Dinars,Yugoslavia,Iraq
+345,645,1937,400,1,Dinars,Yugoslavia,Iraq
+345,645,1938,109746,1,Dinars,Yugoslavia,Iraq
+345,645,1939,1300,1,Dinars,Yugoslavia,Iraq
+345,645,1945,0,1000,,Yugoslavia,Iraq
+345,645,1946,0,1000,1000 Dinars,Yugoslavia,Iraq
+345,645,1947,0,1000,1000 Dinars,Yugoslavia,Iraq
+345,645,1948,0,1000,1000 Dinars,Yugoslavia,Iraq
+345,645,1949,0,1000,1000 Dinars,Yugoslavia,Iraq
+345,651,1920,3976665,1,,Yugoslavia,Egypt
+345,651,1921,430691,1,,Yugoslavia,Egypt
+345,651,1922,13532727,1,,Yugoslavia,Egypt
+345,651,1923,7614623,1,,Yugoslavia,Egypt
+345,651,1924,11343045,1,,Yugoslavia,Egypt
+345,651,1925,1639764,1,,Yugoslavia,Egypt
+345,651,1926,5621077,1,,Yugoslavia,Egypt
+345,651,1927,12060586,1,,Yugoslavia,Egypt
+345,651,1928,22795951,1,,Yugoslavia,Egypt
+345,651,1929,8250633,1,,Yugoslavia,Egypt
+345,651,1930,3615662,1,Dinars,Yugoslavia,Egypt
+345,651,1931,1891421,1,Dinars,Yugoslavia,Egypt
+345,651,1932,5988537,1,Dinars,Yugoslavia,Egypt
+345,651,1933,5038291,1,Dinars,Yugoslavia,Egypt
+345,651,1934,13231167,1,Dinars,Yugoslavia,Egypt
+345,651,1935,41110912,1,Dinars,Yugoslavia,Egypt
+345,651,1936,54581633,1,Dinars,Yugoslavia,Egypt
+345,651,1937,34643155,1,Dinars,Yugoslavia,Egypt
+345,651,1938,39712055,1,Dinars,Yugoslavia,Egypt
+345,651,1939,27984252,1,Dinars,Yugoslavia,Egypt
+345,651,1945,12,1000,,Yugoslavia,Egypt
+345,651,1946,1137,1000,1000 Dinars,Yugoslavia,Egypt
+345,651,1947,14298,1000,1000 Dinars,Yugoslavia,Egypt
+345,651,1948,290248,1000,1000 Dinars,Yugoslavia,Egypt
+345,651,1949,671352,1000,1000 Dinars,Yugoslavia,Egypt
+345,652,1920,0,1,,Yugoslavia,Syria
+345,652,1921,0,1,,Yugoslavia,Syria
+345,652,1922,0,1,,Yugoslavia,Syria
+345,652,1923,3000,1,,Yugoslavia,Syria
+345,652,1924,9850,1,,Yugoslavia,Syria
+345,652,1925,0,1,,Yugoslavia,Syria
+345,652,1926,15800,1,,Yugoslavia,Syria
+345,652,1927,37600,1,,Yugoslavia,Syria
+345,652,1928,0,1,,Yugoslavia,Syria
+345,652,1929,3300,1,,Yugoslavia,Syria
+345,652,1930,35000,1,Dinars,Yugoslavia,Syria
+345,652,1931,60230,1,Dinars,Yugoslavia,Syria
+345,652,1932,23857,1,Dinars,Yugoslavia,Syria
+345,652,1933,1819,1,Dinars,Yugoslavia,Syria
+345,652,1934,46717,1,Dinars,Yugoslavia,Syria
+345,652,1935,280239,1,Dinars,Yugoslavia,Syria
+345,652,1936,958083,1,Dinars,Yugoslavia,Syria
+345,652,1937,71835,1,Dinars,Yugoslavia,Syria
+345,652,1938,175516,1,Dinars,Yugoslavia,Syria
+345,652,1939,124923,1,Dinars,Yugoslavia,Syria
+345,652,1945,0,1000,,Yugoslavia,Syria
+345,652,1946,0,1000,1000 Dinars,Yugoslavia,Syria
+345,652,1947,0,1000,1000 Dinars,Yugoslavia,Syria
+345,652,1948,0,1000,1000 Dinars,Yugoslavia,Syria
+345,652,1949,0,1000,1000 Dinars,Yugoslavia,Syria
+345,660,1920,0,1,,Yugoslavia,Lebanon
+345,660,1921,0,1,,Yugoslavia,Lebanon
+345,660,1922,0,1,,Yugoslavia,Lebanon
+345,660,1923,0,1,,Yugoslavia,Lebanon
+345,660,1924,0,1,,Yugoslavia,Lebanon
+345,660,1925,0,1,,Yugoslavia,Lebanon
+345,660,1926,0,1,,Yugoslavia,Lebanon
+345,660,1927,0,1,,Yugoslavia,Lebanon
+345,660,1928,0,1,,Yugoslavia,Lebanon
+345,660,1929,0,1,,Yugoslavia,Lebanon
+345,660,1930,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1931,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1932,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1933,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1934,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1935,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1936,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1937,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1938,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1939,0,1,Dinars,Yugoslavia,Lebanon
+345,660,1945,0,1000,,Yugoslavia,Lebanon
+345,660,1946,0,1000,1000 Dinars,Yugoslavia,Lebanon
+345,660,1947,0,1000,1000 Dinars,Yugoslavia,Lebanon
+345,660,1948,0,1000,1000 Dinars,Yugoslavia,Lebanon
+345,660,1949,0,1000,1000 Dinars,Yugoslavia,Lebanon
+345,663,1920,0,1,,Yugoslavia,Jordan
+345,663,1921,0,1,,Yugoslavia,Jordan
+345,663,1922,0,1,,Yugoslavia,Jordan
+345,663,1923,0,1,,Yugoslavia,Jordan
+345,663,1924,0,1,,Yugoslavia,Jordan
+345,663,1925,0,1,,Yugoslavia,Jordan
+345,663,1926,0,1,,Yugoslavia,Jordan
+345,663,1927,0,1,,Yugoslavia,Jordan
+345,663,1928,0,1,,Yugoslavia,Jordan
+345,663,1929,0,1,,Yugoslavia,Jordan
+345,663,1930,0,1,Dinars,Yugoslavia,Jordan
+345,663,1931,0,1,Dinars,Yugoslavia,Jordan
+345,663,1932,0,1,Dinars,Yugoslavia,Jordan
+345,663,1933,0,1,Dinars,Yugoslavia,Jordan
+345,663,1934,0,1,Dinars,Yugoslavia,Jordan
+345,663,1935,0,1,Dinars,Yugoslavia,Jordan
+345,663,1936,0,1,Dinars,Yugoslavia,Jordan
+345,663,1937,0,1,Dinars,Yugoslavia,Jordan
+345,663,1938,0,1,Dinars,Yugoslavia,Jordan
+345,663,1939,0,1,Dinars,Yugoslavia,Jordan
+345,663,1945,0,1000,,Yugoslavia,Jordan
+345,663,1946,0,1000,1000 Dinars,Yugoslavia,Jordan
+345,663,1947,0,1000,1000 Dinars,Yugoslavia,Jordan
+345,663,1948,0,1000,1000 Dinars,Yugoslavia,Jordan
+345,663,1949,0,1000,1000 Dinars,Yugoslavia,Jordan
+345,665,1920,0,1,,Yugoslavia,West Bank And Gaza
+345,665,1921,0,1,,Yugoslavia,West Bank And Gaza
+345,665,1922,0,1,,Yugoslavia,West Bank And Gaza
+345,665,1923,1000,1,,Yugoslavia,West Bank And Gaza
+345,665,1924,2900,1,,Yugoslavia,West Bank And Gaza
+345,665,1925,1290,1,,Yugoslavia,West Bank And Gaza
+345,665,1926,19280,1,,Yugoslavia,West Bank And Gaza
+345,665,1927,59450,1,,Yugoslavia,West Bank And Gaza
+345,665,1928,182540,1,,Yugoslavia,West Bank And Gaza
+345,665,1929,1060765,1,,Yugoslavia,West Bank And Gaza
+345,665,1930,1028460,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1931,694011,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1932,1137905,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1933,513185,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1934,1476822,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1935,4128667,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1936,8822286,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1937,3507897,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1938,4511084,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1939,3883463,1,Dinars,Yugoslavia,West Bank And Gaza
+345,665,1945,0,1000,,Yugoslavia,West Bank And Gaza
+345,665,1946,0,1000,1000 Dinars,Yugoslavia,West Bank And Gaza
+345,665,1947,0,1000,1000 Dinars,Yugoslavia,West Bank And Gaza
+345,665,1948,0,1000,1000 Dinars,Yugoslavia,West Bank And Gaza
+345,665,1949,0,1000,1000 Dinars,Yugoslavia,West Bank And Gaza
+345,666,1920,0,1,,Yugoslavia,Israel
+345,666,1921,0,1,,Yugoslavia,Israel
+345,666,1922,0,1,,Yugoslavia,Israel
+345,666,1923,0,1,,Yugoslavia,Israel
+345,666,1924,0,1,,Yugoslavia,Israel
+345,666,1925,0,1,,Yugoslavia,Israel
+345,666,1926,0,1,,Yugoslavia,Israel
+345,666,1927,0,1,,Yugoslavia,Israel
+345,666,1928,0,1,,Yugoslavia,Israel
+345,666,1929,0,1,,Yugoslavia,Israel
+345,666,1930,0,1,Dinars,Yugoslavia,Israel
+345,666,1931,0,1,Dinars,Yugoslavia,Israel
+345,666,1932,0,1,Dinars,Yugoslavia,Israel
+345,666,1933,0,1,Dinars,Yugoslavia,Israel
+345,666,1934,0,1,Dinars,Yugoslavia,Israel
+345,666,1935,0,1,Dinars,Yugoslavia,Israel
+345,666,1936,0,1,Dinars,Yugoslavia,Israel
+345,666,1937,0,1,Dinars,Yugoslavia,Israel
+345,666,1938,0,1,Dinars,Yugoslavia,Israel
+345,666,1939,0,1,Dinars,Yugoslavia,Israel
+345,666,1945,0,1000,,Yugoslavia,Israel
+345,666,1946,0,1000,1000 Dinars,Yugoslavia,Israel
+345,666,1947,0,1000,1000 Dinars,Yugoslavia,Israel
+345,666,1948,595,1000,1000 Dinars,Yugoslavia,Israel
+345,666,1949,190,1000,1000 Dinars,Yugoslavia,Israel
+345,670,1920,0,1,,Yugoslavia,Saudi Arabia
+345,670,1921,0,1,,Yugoslavia,Saudi Arabia
+345,670,1922,0,1,,Yugoslavia,Saudi Arabia
+345,670,1923,0,1,,Yugoslavia,Saudi Arabia
+345,670,1924,0,1,,Yugoslavia,Saudi Arabia
+345,670,1925,0,1,,Yugoslavia,Saudi Arabia
+345,670,1926,0,1,,Yugoslavia,Saudi Arabia
+345,670,1927,0,1,,Yugoslavia,Saudi Arabia
+345,670,1928,0,1,,Yugoslavia,Saudi Arabia
+345,670,1929,0,1,,Yugoslavia,Saudi Arabia
+345,670,1930,0,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1931,0,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1932,0,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1933,2530,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1934,10010,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1935,0,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1936,1000,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1937,0,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1938,14330,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1939,13632,1,Dinars,Yugoslavia,Saudi Arabia
+345,670,1945,0,1000,,Yugoslavia,Saudi Arabia
+345,670,1946,0,1000,1000 Dinars,Yugoslavia,Saudi Arabia
+345,670,1947,0,1000,1000 Dinars,Yugoslavia,Saudi Arabia
+345,670,1948,0,1000,1000 Dinars,Yugoslavia,Saudi Arabia
+345,670,1949,0,1000,1000 Dinars,Yugoslavia,Saudi Arabia
+345,675,1920,0,1,,Yugoslavia,Arabia
+345,675,1921,0,1,,Yugoslavia,Arabia
+345,675,1922,0,1,,Yugoslavia,Arabia
+345,675,1923,0,1,,Yugoslavia,Arabia
+345,675,1924,0,1,,Yugoslavia,Arabia
+345,675,1925,0,1,,Yugoslavia,Arabia
+345,675,1926,0,1,,Yugoslavia,Arabia
+345,675,1927,0,1,,Yugoslavia,Arabia
+345,675,1928,0,1,,Yugoslavia,Arabia
+345,675,1929,0,1,,Yugoslavia,Arabia
+345,675,1930,26225,1,Dinars,Yugoslavia,Arabia
+345,675,1931,420,1,Dinars,Yugoslavia,Arabia
+345,675,1932,0,1,Dinars,Yugoslavia,Arabia
+345,675,1933,0,1,Dinars,Yugoslavia,Arabia
+345,675,1934,0,1,Dinars,Yugoslavia,Arabia
+345,675,1935,0,1,Dinars,Yugoslavia,Arabia
+345,675,1936,0,1,Dinars,Yugoslavia,Arabia
+345,675,1937,0,1,Dinars,Yugoslavia,Arabia
+345,675,1938,0,1,Dinars,Yugoslavia,Arabia
+345,675,1939,0,1,Dinars,Yugoslavia,Arabia
+345,675,1945,0,1000,,Yugoslavia,Arabia
+345,675,1946,0,1000,1000 Dinars,Yugoslavia,Arabia
+345,675,1947,0,1000,1000 Dinars,Yugoslavia,Arabia
+345,675,1948,0,1000,1000 Dinars,Yugoslavia,Arabia
+345,675,1949,0,1000,1000 Dinars,Yugoslavia,Arabia
+345,681,1920,0,1,,Yugoslavia,Aden
+345,681,1921,0,1,,Yugoslavia,Aden
+345,681,1922,0,1,,Yugoslavia,Aden
+345,681,1923,0,1,,Yugoslavia,Aden
+345,681,1924,0,1,,Yugoslavia,Aden
+345,681,1925,0,1,,Yugoslavia,Aden
+345,681,1926,0,1,,Yugoslavia,Aden
+345,681,1927,0,1,,Yugoslavia,Aden
+345,681,1928,0,1,,Yugoslavia,Aden
+345,681,1929,0,1,,Yugoslavia,Aden
+345,681,1930,9000,1,Dinars,Yugoslavia,Aden
+345,681,1931,1000,1,Dinars,Yugoslavia,Aden
+345,681,1932,0,1,Dinars,Yugoslavia,Aden
+345,681,1933,1257,1,Dinars,Yugoslavia,Aden
+345,681,1934,29258,1,Dinars,Yugoslavia,Aden
+345,681,1935,155951,1,Dinars,Yugoslavia,Aden
+345,681,1936,260693,1,Dinars,Yugoslavia,Aden
+345,681,1937,98571,1,Dinars,Yugoslavia,Aden
+345,681,1938,40413,1,Dinars,Yugoslavia,Aden
+345,681,1939,66061,1,Dinars,Yugoslavia,Aden
+345,681,1945,0,1000,,Yugoslavia,Aden
+345,681,1946,0,1000,1000 Dinars,Yugoslavia,Aden
+345,681,1947,0,1000,1000 Dinars,Yugoslavia,Aden
+345,681,1948,0,1000,1000 Dinars,Yugoslavia,Aden
+345,681,1949,0,1000,1000 Dinars,Yugoslavia,Aden
+345,710,1920,73100,1,,Yugoslavia,China
+345,710,1921,107597,1,,Yugoslavia,China
+345,710,1922,2156969,1,,Yugoslavia,China
+345,710,1923,397996,1,,Yugoslavia,China
+345,710,1924,1766173,1,,Yugoslavia,China
+345,710,1925,1015254,1,,Yugoslavia,China
+345,710,1926,1082695,1,,Yugoslavia,China
+345,710,1927,2423410,1,,Yugoslavia,China
+345,710,1928,15120470,1,,Yugoslavia,China
+345,710,1929,15569950,1,,Yugoslavia,China
+345,710,1930,9761255,1,Dinars,Yugoslavia,China
+345,710,1931,8439554,1,Dinars,Yugoslavia,China
+345,710,1932,228182,1,Dinars,Yugoslavia,China
+345,710,1933,3728873,1,Dinars,Yugoslavia,China
+345,710,1934,1830037,1,Dinars,Yugoslavia,China
+345,710,1935,2209302,1,Dinars,Yugoslavia,China
+345,710,1936,2318307,1,Dinars,Yugoslavia,China
+345,710,1937,1183510,1,Dinars,Yugoslavia,China
+345,710,1938,1016584,1,Dinars,Yugoslavia,China
+345,710,1939,986704,1,Dinars,Yugoslavia,China
+345,710,1945,0,1000,,Yugoslavia,China
+345,710,1946,0,1000,1000 Dinars,Yugoslavia,China
+345,710,1947,0,1000,1000 Dinars,Yugoslavia,China
+345,710,1948,0,1000,1000 Dinars,Yugoslavia,China
+345,710,1949,0,1000,1000 Dinars,Yugoslavia,China
+345,720,1920,0,1,,Yugoslavia,Hong Kong
+345,720,1921,0,1,,Yugoslavia,Hong Kong
+345,720,1922,0,1,,Yugoslavia,Hong Kong
+345,720,1923,0,1,,Yugoslavia,Hong Kong
+345,720,1924,0,1,,Yugoslavia,Hong Kong
+345,720,1925,0,1,,Yugoslavia,Hong Kong
+345,720,1926,0,1,,Yugoslavia,Hong Kong
+345,720,1927,0,1,,Yugoslavia,Hong Kong
+345,720,1928,28165,1,,Yugoslavia,Hong Kong
+345,720,1929,4778105,1,,Yugoslavia,Hong Kong
+345,720,1930,1094360,1,Dinars,Yugoslavia,Hong Kong
+345,720,1931,179482,1,Dinars,Yugoslavia,Hong Kong
+345,720,1932,98713,1,Dinars,Yugoslavia,Hong Kong
+345,720,1933,67658,1,Dinars,Yugoslavia,Hong Kong
+345,720,1934,135275,1,Dinars,Yugoslavia,Hong Kong
+345,720,1935,151488,1,Dinars,Yugoslavia,Hong Kong
+345,720,1936,504589,1,Dinars,Yugoslavia,Hong Kong
+345,720,1937,919829,1,Dinars,Yugoslavia,Hong Kong
+345,720,1938,419912,1,Dinars,Yugoslavia,Hong Kong
+345,720,1939,751004,1,Dinars,Yugoslavia,Hong Kong
+345,720,1945,0,1000,,Yugoslavia,Hong Kong
+345,720,1946,0,1000,1000 Dinars,Yugoslavia,Hong Kong
+345,720,1947,0,1000,1000 Dinars,Yugoslavia,Hong Kong
+345,720,1948,0,1000,1000 Dinars,Yugoslavia,Hong Kong
+345,720,1949,0,1000,1000 Dinars,Yugoslavia,Hong Kong
+345,740,1920,1000,1,,Yugoslavia,Japan
+345,740,1921,176556,1,,Yugoslavia,Japan
+345,740,1922,434200,1,,Yugoslavia,Japan
+345,740,1923,73900,1,,Yugoslavia,Japan
+345,740,1924,159040,1,,Yugoslavia,Japan
+345,740,1925,1041310,1,,Yugoslavia,Japan
+345,740,1926,321100,1,,Yugoslavia,Japan
+345,740,1927,421727,1,,Yugoslavia,Japan
+345,740,1928,467025,1,,Yugoslavia,Japan
+345,740,1929,704332,1,,Yugoslavia,Japan
+345,740,1930,1347034,1,Dinars,Yugoslavia,Japan
+345,740,1931,1972027,1,Dinars,Yugoslavia,Japan
+345,740,1932,1384274,1,Dinars,Yugoslavia,Japan
+345,740,1933,4233883,1,Dinars,Yugoslavia,Japan
+345,740,1934,13206961,1,Dinars,Yugoslavia,Japan
+345,740,1935,29693169,1,Dinars,Yugoslavia,Japan
+345,740,1936,21227059,1,Dinars,Yugoslavia,Japan
+345,740,1937,4405232,1,Dinars,Yugoslavia,Japan
+345,740,1938,485137,1,Dinars,Yugoslavia,Japan
+345,740,1939,2402012,1,Dinars,Yugoslavia,Japan
+345,740,1945,0,1000,,Yugoslavia,Japan
+345,740,1946,0,1000,1000 Dinars,Yugoslavia,Japan
+345,740,1947,0,1000,1000 Dinars,Yugoslavia,Japan
+345,740,1948,0,1000,1000 Dinars,Yugoslavia,Japan
+345,740,1949,0,1000,1000 Dinars,Yugoslavia,Japan
+345,750,1920,201585,1,,Yugoslavia,India
+345,750,1921,24352013,1,,Yugoslavia,India
+345,750,1922,58388451,1,,Yugoslavia,India
+345,750,1923,88647391,1,,Yugoslavia,India
+345,750,1924,78599010,1,,Yugoslavia,India
+345,750,1925,73162432,1,,Yugoslavia,India
+345,750,1926,71591687,1,,Yugoslavia,India
+345,750,1927,75909861,1,,Yugoslavia,India
+345,750,1928,127225559,1,,Yugoslavia,India
+345,750,1929,152185123,1,,Yugoslavia,India
+345,750,1930,159913232,1,Dinars,Yugoslavia,India
+345,750,1931,88063601,1,Dinars,Yugoslavia,India
+345,750,1932,39998936,1,Dinars,Yugoslavia,India
+345,750,1933,84077397,1,Dinars,Yugoslavia,India
+345,750,1934,115216803,1,Dinars,Yugoslavia,India
+345,750,1935,95656027,1,Dinars,Yugoslavia,India
+345,750,1936,76878064,1,Dinars,Yugoslavia,India
+345,750,1937,117900034,1,Dinars,Yugoslavia,India
+345,750,1938,84111116,1,Dinars,Yugoslavia,India
+345,750,1939,66392077,1,Dinars,Yugoslavia,India
+345,750,1945,0,1000,,Yugoslavia,India
+345,750,1946,0,1000,1000 Dinars,Yugoslavia,India
+345,750,1947,0,1000,1000 Dinars,Yugoslavia,India
+345,750,1948,154263,1000,1000 Dinars,Yugoslavia,India
+345,750,1949,1036,1000,1000 Dinars,Yugoslavia,India
+345,770,1920,0,1,,Yugoslavia,Pakistan
+345,770,1921,0,1,,Yugoslavia,Pakistan
+345,770,1922,0,1,,Yugoslavia,Pakistan
+345,770,1923,0,1,,Yugoslavia,Pakistan
+345,770,1924,0,1,,Yugoslavia,Pakistan
+345,770,1925,0,1,,Yugoslavia,Pakistan
+345,770,1926,0,1,,Yugoslavia,Pakistan
+345,770,1927,0,1,,Yugoslavia,Pakistan
+345,770,1928,0,1,,Yugoslavia,Pakistan
+345,770,1929,0,1,,Yugoslavia,Pakistan
+345,770,1930,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1931,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1932,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1933,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1934,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1935,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1936,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1937,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1938,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1939,0,1,Dinars,Yugoslavia,Pakistan
+345,770,1945,0,1000,,Yugoslavia,Pakistan
+345,770,1946,0,1000,1000 Dinars,Yugoslavia,Pakistan
+345,770,1947,0,1000,1000 Dinars,Yugoslavia,Pakistan
+345,770,1948,0,1000,1000 Dinars,Yugoslavia,Pakistan
+345,770,1949,9703,1000,1000 Dinars,Yugoslavia,Pakistan
+345,780,1920,0,1,,Yugoslavia,Sri Lanka
+345,780,1921,0,1,,Yugoslavia,Sri Lanka
+345,780,1922,0,1,,Yugoslavia,Sri Lanka
+345,780,1923,150200,1,,Yugoslavia,Sri Lanka
+345,780,1924,0,1,,Yugoslavia,Sri Lanka
+345,780,1925,0,1,,Yugoslavia,Sri Lanka
+345,780,1926,10442177,1,,Yugoslavia,Sri Lanka
+345,780,1927,14496141,1,,Yugoslavia,Sri Lanka
+345,780,1928,28974567,1,,Yugoslavia,Sri Lanka
+345,780,1929,41233664,1,,Yugoslavia,Sri Lanka
+345,780,1930,32983071,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1931,0,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1932,9490037,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1933,7592929,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1934,7136172,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1935,11305441,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1936,5013550,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1937,9627036,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1938,12811898,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1939,3870910,1,Dinars,Yugoslavia,Sri Lanka
+345,780,1945,0,1000,,Yugoslavia,Sri Lanka
+345,780,1946,0,1000,1000 Dinars,Yugoslavia,Sri Lanka
+345,780,1947,0,1000,1000 Dinars,Yugoslavia,Sri Lanka
+345,780,1948,0,1000,1000 Dinars,Yugoslavia,Sri Lanka
+345,780,1949,0,1000,1000 Dinars,Yugoslavia,Sri Lanka
+345,800,1920,0,1,,Yugoslavia,Thailand
+345,800,1921,107625,1,,Yugoslavia,Thailand
+345,800,1922,0,1,,Yugoslavia,Thailand
+345,800,1923,0,1,,Yugoslavia,Thailand
+345,800,1924,0,1,,Yugoslavia,Thailand
+345,800,1925,0,1,,Yugoslavia,Thailand
+345,800,1926,0,1,,Yugoslavia,Thailand
+345,800,1927,2200,1,,Yugoslavia,Thailand
+345,800,1928,0,1,,Yugoslavia,Thailand
+345,800,1929,29232,1,,Yugoslavia,Thailand
+345,800,1930,4500,1,Dinars,Yugoslavia,Thailand
+345,800,1931,23548,1,Dinars,Yugoslavia,Thailand
+345,800,1932,1500,1,Dinars,Yugoslavia,Thailand
+345,800,1933,36802,1,Dinars,Yugoslavia,Thailand
+345,800,1934,203794,1,Dinars,Yugoslavia,Thailand
+345,800,1935,40847,1,Dinars,Yugoslavia,Thailand
+345,800,1936,17017,1,Dinars,Yugoslavia,Thailand
+345,800,1937,0,1,Dinars,Yugoslavia,Thailand
+345,800,1938,16820,1,Dinars,Yugoslavia,Thailand
+345,800,1939,0,1,Dinars,Yugoslavia,Thailand
+345,800,1945,0,1000,,Yugoslavia,Thailand
+345,800,1946,0,1000,1000 Dinars,Yugoslavia,Thailand
+345,800,1947,0,1000,1000 Dinars,Yugoslavia,Thailand
+345,800,1948,0,1000,1000 Dinars,Yugoslavia,Thailand
+345,800,1949,0,1000,1000 Dinars,Yugoslavia,Thailand
+345,820,1920,0,1,,Yugoslavia,Malaysia
+345,820,1921,0,1,,Yugoslavia,Malaysia
+345,820,1922,0,1,,Yugoslavia,Malaysia
+345,820,1923,0,1,,Yugoslavia,Malaysia
+345,820,1924,0,1,,Yugoslavia,Malaysia
+345,820,1925,0,1,,Yugoslavia,Malaysia
+345,820,1926,0,1,,Yugoslavia,Malaysia
+345,820,1927,0,1,,Yugoslavia,Malaysia
+345,820,1928,0,1,,Yugoslavia,Malaysia
+345,820,1929,0,1,,Yugoslavia,Malaysia
+345,820,1930,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1931,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1932,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1933,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1934,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1935,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1936,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1937,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1938,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1939,0,1,Dinars,Yugoslavia,Malaysia
+345,820,1945,0,1000,,Yugoslavia,Malaysia
+345,820,1946,0,1000,1000 Dinars,Yugoslavia,Malaysia
+345,820,1947,0,1000,1000 Dinars,Yugoslavia,Malaysia
+345,820,1948,0,1000,1000 Dinars,Yugoslavia,Malaysia
+345,820,1949,1630,1000,1000 Dinars,Yugoslavia,Malaysia
+345,827,1920,0,1,,Yugoslavia,Straits Settlement
+345,827,1921,0,1,,Yugoslavia,Straits Settlement
+345,827,1922,0,1,,Yugoslavia,Straits Settlement
+345,827,1923,0,1,,Yugoslavia,Straits Settlement
+345,827,1924,0,1,,Yugoslavia,Straits Settlement
+345,827,1925,0,1,,Yugoslavia,Straits Settlement
+345,827,1926,0,1,,Yugoslavia,Straits Settlement
+345,827,1927,0,1,,Yugoslavia,Straits Settlement
+345,827,1928,2310088,1,,Yugoslavia,Straits Settlement
+345,827,1929,4303442,1,,Yugoslavia,Straits Settlement
+345,827,1930,2281885,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1931,1783970,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1932,2418219,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1933,2822351,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1934,2477928,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1935,9382400,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1936,14656295,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1937,20375300,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1938,11297445,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1939,9269206,1,Dinars,Yugoslavia,Straits Settlement
+345,827,1945,0,1000,,Yugoslavia,Straits Settlement
+345,827,1946,0,1000,1000 Dinars,Yugoslavia,Straits Settlement
+345,827,1947,0,1000,1000 Dinars,Yugoslavia,Straits Settlement
+345,827,1948,0,1000,1000 Dinars,Yugoslavia,Straits Settlement
+345,827,1949,0,1000,1000 Dinars,Yugoslavia,Straits Settlement
+345,840,1920,0,1,,Yugoslavia,Philippines
+345,840,1921,0,1,,Yugoslavia,Philippines
+345,840,1922,0,1,,Yugoslavia,Philippines
+345,840,1923,0,1,,Yugoslavia,Philippines
+345,840,1924,0,1,,Yugoslavia,Philippines
+345,840,1925,0,1,,Yugoslavia,Philippines
+345,840,1926,0,1,,Yugoslavia,Philippines
+345,840,1927,0,1,,Yugoslavia,Philippines
+345,840,1928,0,1,,Yugoslavia,Philippines
+345,840,1929,31000,1,,Yugoslavia,Philippines
+345,840,1930,5800,1,Dinars,Yugoslavia,Philippines
+345,840,1931,3860,1,Dinars,Yugoslavia,Philippines
+345,840,1932,0,1,Dinars,Yugoslavia,Philippines
+345,840,1933,338,1,Dinars,Yugoslavia,Philippines
+345,840,1934,1740708,1,Dinars,Yugoslavia,Philippines
+345,840,1935,300,1,Dinars,Yugoslavia,Philippines
+345,840,1936,2693000,1,Dinars,Yugoslavia,Philippines
+345,840,1937,0,1,Dinars,Yugoslavia,Philippines
+345,840,1938,1032,1,Dinars,Yugoslavia,Philippines
+345,840,1939,0,1,Dinars,Yugoslavia,Philippines
+345,840,1945,0,1000,,Yugoslavia,Philippines
+345,840,1946,0,1000,1000 Dinars,Yugoslavia,Philippines
+345,840,1947,0,1000,1000 Dinars,Yugoslavia,Philippines
+345,840,1948,0,1000,1000 Dinars,Yugoslavia,Philippines
+345,840,1949,0,1000,1000 Dinars,Yugoslavia,Philippines
+345,850,1920,0,1,,Yugoslavia,Indonesia
+345,850,1921,0,1,,Yugoslavia,Indonesia
+345,850,1922,0,1,,Yugoslavia,Indonesia
+345,850,1923,0,1,,Yugoslavia,Indonesia
+345,850,1924,0,1,,Yugoslavia,Indonesia
+345,850,1925,162000,1,,Yugoslavia,Indonesia
+345,850,1926,5880090,1,,Yugoslavia,Indonesia
+345,850,1927,3549760,1,,Yugoslavia,Indonesia
+345,850,1928,18726013,1,,Yugoslavia,Indonesia
+345,850,1929,22244080,1,,Yugoslavia,Indonesia
+345,850,1930,3210070,1,Dinars,Yugoslavia,Indonesia
+345,850,1931,1936371,1,Dinars,Yugoslavia,Indonesia
+345,850,1932,1157216,1,Dinars,Yugoslavia,Indonesia
+345,850,1933,1373314,1,Dinars,Yugoslavia,Indonesia
+345,850,1934,5144153,1,Dinars,Yugoslavia,Indonesia
+345,850,1935,8675502,1,Dinars,Yugoslavia,Indonesia
+345,850,1936,14745642,1,Dinars,Yugoslavia,Indonesia
+345,850,1937,20653049,1,Dinars,Yugoslavia,Indonesia
+345,850,1938,31136246,1,Dinars,Yugoslavia,Indonesia
+345,850,1939,14426030,1,Dinars,Yugoslavia,Indonesia
+345,850,1945,0,1000,,Yugoslavia,Indonesia
+345,850,1946,0,1000,1000 Dinars,Yugoslavia,Indonesia
+345,850,1947,0,1000,1000 Dinars,Yugoslavia,Indonesia
+345,850,1948,1276,1000,1000 Dinars,Yugoslavia,Indonesia
+345,850,1949,28478,1000,1000 Dinars,Yugoslavia,Indonesia
+345,900,1920,0,1,,Yugoslavia,Australia
+345,900,1921,0,1,,Yugoslavia,Australia
+345,900,1922,0,1,,Yugoslavia,Australia
+345,900,1923,0,1,,Yugoslavia,Australia
+345,900,1924,0,1,,Yugoslavia,Australia
+345,900,1925,0,1,,Yugoslavia,Australia
+345,900,1926,1344310,1,,Yugoslavia,Australia
+345,900,1927,6317280,1,,Yugoslavia,Australia
+345,900,1928,818680,1,,Yugoslavia,Australia
+345,900,1929,0,1,,Yugoslavia,Australia
+345,900,1930,500,1,Dinars,Yugoslavia,Australia
+345,900,1931,135000,1,Dinars,Yugoslavia,Australia
+345,900,1932,80840,1,Dinars,Yugoslavia,Australia
+345,900,1933,1547724,1,Dinars,Yugoslavia,Australia
+345,900,1934,6796846,1,Dinars,Yugoslavia,Australia
+345,900,1935,6023392,1,Dinars,Yugoslavia,Australia
+345,900,1936,7342805,1,Dinars,Yugoslavia,Australia
+345,900,1937,14923101,1,Dinars,Yugoslavia,Australia
+345,900,1938,14734712,1,Dinars,Yugoslavia,Australia
+345,900,1939,13468308,1,Dinars,Yugoslavia,Australia
+345,900,1945,0,1000,,Yugoslavia,Australia
+345,900,1946,27,1000,1000 Dinars,Yugoslavia,Australia
+345,900,1947,2397,1000,1000 Dinars,Yugoslavia,Australia
+345,900,1948,17952,1000,1000 Dinars,Yugoslavia,Australia
+345,900,1949,263760,1000,1000 Dinars,Yugoslavia,Australia
+345,920,1920,0,1,,Yugoslavia,New Zealand
+345,920,1921,0,1,,Yugoslavia,New Zealand
+345,920,1922,0,1,,Yugoslavia,New Zealand
+345,920,1923,0,1,,Yugoslavia,New Zealand
+345,920,1924,0,1,,Yugoslavia,New Zealand
+345,920,1925,0,1,,Yugoslavia,New Zealand
+345,920,1926,0,1,,Yugoslavia,New Zealand
+345,920,1927,0,1,,Yugoslavia,New Zealand
+345,920,1928,0,1,,Yugoslavia,New Zealand
+345,920,1929,56000,1,,Yugoslavia,New Zealand
+345,920,1930,782565,1,Dinars,Yugoslavia,New Zealand
+345,920,1931,676027,1,Dinars,Yugoslavia,New Zealand
+345,920,1932,4780,1,Dinars,Yugoslavia,New Zealand
+345,920,1933,1298575,1,Dinars,Yugoslavia,New Zealand
+345,920,1934,3902129,1,Dinars,Yugoslavia,New Zealand
+345,920,1935,5013029,1,Dinars,Yugoslavia,New Zealand
+345,920,1936,25304410,1,Dinars,Yugoslavia,New Zealand
+345,920,1937,4494255,1,Dinars,Yugoslavia,New Zealand
+345,920,1938,19246224,1,Dinars,Yugoslavia,New Zealand
+345,920,1939,9770216,1,Dinars,Yugoslavia,New Zealand
+345,920,1945,0,1000,,Yugoslavia,New Zealand
+345,920,1946,0,1000,1000 Dinars,Yugoslavia,New Zealand
+345,920,1947,0,1000,1000 Dinars,Yugoslavia,New Zealand
+345,920,1948,9245,1000,1000 Dinars,Yugoslavia,New Zealand
+345,920,1949,0,1000,1000 Dinars,Yugoslavia,New Zealand
+345,3353,1920,0,1,,Yugoslavia,Dodecanese
+345,3353,1921,0,1,,Yugoslavia,Dodecanese
+345,3353,1922,0,1,,Yugoslavia,Dodecanese
+345,3353,1923,0,1,,Yugoslavia,Dodecanese
+345,3353,1924,0,1,,Yugoslavia,Dodecanese
+345,3353,1925,0,1,,Yugoslavia,Dodecanese
+345,3353,1926,0,1,,Yugoslavia,Dodecanese
+345,3353,1927,0,1,,Yugoslavia,Dodecanese
+345,3353,1928,0,1,,Yugoslavia,Dodecanese
+345,3353,1929,0,1,,Yugoslavia,Dodecanese
+345,3353,1930,20000,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1931,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1932,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1933,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1934,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1935,12398,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1936,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1937,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1938,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1939,0,1,Dinars,Yugoslavia,Dodecanese
+345,3353,1945,0,1000,,Yugoslavia,Dodecanese
+345,3353,1946,0,1000,1000 Dinars,Yugoslavia,Dodecanese
+345,3353,1947,0,1000,1000 Dinars,Yugoslavia,Dodecanese
+345,3353,1948,0,1000,1000 Dinars,Yugoslavia,Dodecanese
+345,3353,1949,0,1000,1000 Dinars,Yugoslavia,Dodecanese
+345,5200,1920,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1921,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1922,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1923,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1924,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1925,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1926,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1927,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1928,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1929,0,1,,Yugoslavia,Italian Somaliland
+345,5200,1930,0,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1931,1300,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1932,106496,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1933,140568,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1934,202414,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1935,9631,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1936,152341,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1937,154633,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1938,656946,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1939,830203,1,Dinars,Yugoslavia,Italian Somaliland
+345,5200,1945,0,1000,,Yugoslavia,Italian Somaliland
+345,5200,1946,0,1000,1000 Dinars,Yugoslavia,Italian Somaliland
+345,5200,1947,0,1000,1000 Dinars,Yugoslavia,Italian Somaliland
+345,5200,1948,0,1000,1000 Dinars,Yugoslavia,Italian Somaliland
+345,5200,1949,0,1000,1000 Dinars,Yugoslavia,Italian Somaliland
+345,6203,1920,0,1,,Yugoslavia,Tripoli
+345,6203,1921,0,1,,Yugoslavia,Tripoli
+345,6203,1922,0,1,,Yugoslavia,Tripoli
+345,6203,1923,0,1,,Yugoslavia,Tripoli
+345,6203,1924,0,1,,Yugoslavia,Tripoli
+345,6203,1925,0,1,,Yugoslavia,Tripoli
+345,6203,1926,0,1,,Yugoslavia,Tripoli
+345,6203,1927,295349,1,,Yugoslavia,Tripoli
+345,6203,1928,166500,1,,Yugoslavia,Tripoli
+345,6203,1929,0,1,,Yugoslavia,Tripoli
+345,6203,1930,40000,1,Dinars,Yugoslavia,Tripoli
+345,6203,1931,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1932,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1933,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1934,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1935,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1936,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1937,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1938,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1939,0,1,Dinars,Yugoslavia,Tripoli
+345,6203,1945,0,1000,,Yugoslavia,Tripoli
+345,6203,1946,0,1000,1000 Dinars,Yugoslavia,Tripoli
+345,6203,1947,0,1000,1000 Dinars,Yugoslavia,Tripoli
+345,6203,1948,0,1000,1000 Dinars,Yugoslavia,Tripoli
+345,6203,1949,0,1000,1000 Dinars,Yugoslavia,Tripoli
+345,8501,1920,0,1,,Yugoslavia,Java
+345,8501,1921,83559,1,,Yugoslavia,Java
+345,8501,1922,833360,1,,Yugoslavia,Java
+345,8501,1923,3018910,1,,Yugoslavia,Java
+345,8501,1924,0,1,,Yugoslavia,Java
+345,8501,1925,0,1,,Yugoslavia,Java
+345,8501,1926,0,1,,Yugoslavia,Java
+345,8501,1927,0,1,,Yugoslavia,Java
+345,8501,1928,0,1,,Yugoslavia,Java
+345,8501,1929,0,1,,Yugoslavia,Java
+345,8501,1930,0,1,Dinars,Yugoslavia,Java
+345,8501,1931,0,1,Dinars,Yugoslavia,Java
+345,8501,1932,0,1,Dinars,Yugoslavia,Java
+345,8501,1933,0,1,Dinars,Yugoslavia,Java
+345,8501,1934,0,1,Dinars,Yugoslavia,Java
+345,8501,1935,0,1,Dinars,Yugoslavia,Java
+345,8501,1936,0,1,Dinars,Yugoslavia,Java
+345,8501,1937,0,1,Dinars,Yugoslavia,Java
+345,8501,1938,0,1,Dinars,Yugoslavia,Java
+345,8501,1939,0,1,Dinars,Yugoslavia,Java
+345,8501,1945,0,1000,,Yugoslavia,Java
+345,8501,1946,0,1000,1000 Dinars,Yugoslavia,Java
+345,8501,1947,0,1000,1000 Dinars,Yugoslavia,Java
+345,8501,1948,0,1000,1000 Dinars,Yugoslavia,Java
+345,8501,1949,0,1000,1000 Dinars,Yugoslavia,Java
+345,,1920,3556984924,1,,Yugoslavia,
+345,,1921,4136915626,1,,Yugoslavia,
+345,,1922,6462216903,1,,Yugoslavia,
+345,,1923,8339835049,1,,Yugoslavia,
+345,,1924,8221757402,1,,Yugoslavia,
+345,,1925,8752880539,1,,Yugoslavia,
+345,,1926,7632851136,1,,Yugoslavia,
+345,,1927,7286933829,1,,Yugoslavia,
+345,,1928,7836610901,1,,Yugoslavia,
+345,,1929,7597521891,1,,Yugoslavia,
+345,,1930,6961501228,1,Dinars,Yugoslavia,
+345,,1931,4801180441,1,Dinars,Yugoslavia,
+345,,1932,2859795518,1,Dinars,Yugoslavia,
+345,,1933,2883577773,1,Dinars,Yugoslavia,
+345,,1934,3577418892,1,Dinars,Yugoslavia,
+345,,1935,3704492601,1,Dinars,Yugoslavia,
+345,,1936,4083560603,1,Dinars,Yugoslavia,
+345,,1937,5237987636,1,Dinars,Yugoslavia,
+345,,1938,4987763857,1,Dinars,Yugoslavia,
+345,,1939,4772626112,1,Dinars,Yugoslavia,
+345,,1945,1029319,1000,,Yugoslavia,
+345,,1946,1795108,1000,1000 Dinars,Yugoslavia,
+345,,1947,8680185,1000,1000 Dinars,Yugoslavia,
+345,,1948,16560384,1000,1000 Dinars,Yugoslavia,
+345,,1949,15941099,1000,1000 Dinars,Yugoslavia,

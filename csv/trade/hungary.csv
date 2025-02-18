@@ -1,0 +1,1431 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+310,2,1920,0,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1921,6669,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1922,11537,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1923,15924,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1924,17735,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1925,17565,1000,1000S Of Gold Crowns,Hungary,United States
+310,2,1926,22439,1000,1000 P,Hungary,United States
+310,2,1927,26236,1000,1000 P,Hungary,United States
+310,2,1928,43084,1000,1000 P,Hungary,United States
+310,2,1929,49035908,1,Pengos,Hungary,United States
+310,2,1930,39602904,1,Pengos,Hungary,United States
+310,2,1931,23070597,1,Pengos,Hungary,United States
+310,2,1932,12766939,1,Pengos,Hungary,United States
+310,2,1933,20621406,1,Pengos,Hungary,United States
+310,2,1934,19673,1000,1000 P,Hungary,United States
+310,2,1935,20666,1000,1000 P,Hungary,United States
+310,2,1936,22891,1000,1000 P,Hungary,United States
+310,2,1938,21590,1000,1000 Deviza-Pengo,Hungary,United States
+310,2,1943,1,1000,1000 Pengo,Hungary,United States
+310,2,1944,12,1000,1000 Pengo,Hungary,United States
+310,2,1945,0,1000,1000 Pengo,Hungary,United States
+310,2,1949,55329,1000,1000 Devizaforint,Hungary,United States
+310,6,1920,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1921,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1922,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1923,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1924,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1925,0,1000,1000S Of Gold Crowns,Hungary,Puerto Rico
+310,6,1926,0,1000,1000 P,Hungary,Puerto Rico
+310,6,1927,0,1000,1000 P,Hungary,Puerto Rico
+310,6,1928,35,1000,1000 P,Hungary,Puerto Rico
+310,6,1929,11220,1,Pengos,Hungary,Puerto Rico
+310,6,1930,8600,1,Pengos,Hungary,Puerto Rico
+310,6,1931,3360,1,Pengos,Hungary,Puerto Rico
+310,6,1932,0,1,Pengos,Hungary,Puerto Rico
+310,6,1933,0,1,Pengos,Hungary,Puerto Rico
+310,6,1934,0,1000,1000 P,Hungary,Puerto Rico
+310,6,1935,0,1000,1000 P,Hungary,Puerto Rico
+310,6,1936,0,1000,1000 P,Hungary,Puerto Rico
+310,6,1938,0,1000,1000 Deviza-Pengo,Hungary,Puerto Rico
+310,6,1943,0,1000,1000 Pengo,Hungary,Puerto Rico
+310,6,1944,0,1000,1000 Pengo,Hungary,Puerto Rico
+310,6,1945,0,1000,1000 Pengo,Hungary,Puerto Rico
+310,6,1949,0,1000,1000 Devizaforint,Hungary,Puerto Rico
+310,40,1920,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1921,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1922,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1923,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1924,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1925,0,1000,1000S Of Gold Crowns,Hungary,Cuba
+310,40,1926,0,1000,1000 P,Hungary,Cuba
+310,40,1927,0,1000,1000 P,Hungary,Cuba
+310,40,1928,6,1000,1000 P,Hungary,Cuba
+310,40,1929,0,1,Pengos,Hungary,Cuba
+310,40,1930,27000,1,Pengos,Hungary,Cuba
+310,40,1931,0,1,Pengos,Hungary,Cuba
+310,40,1932,0,1,Pengos,Hungary,Cuba
+310,40,1933,0,1,Pengos,Hungary,Cuba
+310,40,1934,0,1000,1000 P,Hungary,Cuba
+310,40,1935,0,1000,1000 P,Hungary,Cuba
+310,40,1936,0,1000,1000 P,Hungary,Cuba
+310,40,1938,0,1000,1000 Deviza-Pengo,Hungary,Cuba
+310,40,1943,0,1000,1000 Pengo,Hungary,Cuba
+310,40,1944,0,1000,1000 Pengo,Hungary,Cuba
+310,40,1945,0,1000,1000 Pengo,Hungary,Cuba
+310,40,1949,0,1000,1000 Devizaforint,Hungary,Cuba
+310,41,1920,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1921,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1922,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1923,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1924,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1925,0,1000,1000S Of Gold Crowns,Hungary,Haiti
+310,41,1926,0,1000,1000 P,Hungary,Haiti
+310,41,1927,0,1000,1000 P,Hungary,Haiti
+310,41,1928,0,1000,1000 P,Hungary,Haiti
+310,41,1929,0,1,Pengos,Hungary,Haiti
+310,41,1930,14000,1,Pengos,Hungary,Haiti
+310,41,1931,24780,1,Pengos,Hungary,Haiti
+310,41,1932,750,1,Pengos,Hungary,Haiti
+310,41,1933,1755,1,Pengos,Hungary,Haiti
+310,41,1934,0,1000,1000 P,Hungary,Haiti
+310,41,1935,0,1000,1000 P,Hungary,Haiti
+310,41,1936,0,1000,1000 P,Hungary,Haiti
+310,41,1938,0,1000,1000 Deviza-Pengo,Hungary,Haiti
+310,41,1943,0,1000,1000 Pengo,Hungary,Haiti
+310,41,1944,0,1000,1000 Pengo,Hungary,Haiti
+310,41,1945,0,1000,1000 Pengo,Hungary,Haiti
+310,41,1949,0,1000,1000 Devizaforint,Hungary,Haiti
+310,70,1920,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1921,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1922,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1923,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1924,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1925,0,1000,1000S Of Gold Crowns,Hungary,Mexico
+310,70,1926,0,1000,1000 P,Hungary,Mexico
+310,70,1927,0,1000,1000 P,Hungary,Mexico
+310,70,1928,13,1000,1000 P,Hungary,Mexico
+310,70,1929,48450,1,Pengos,Hungary,Mexico
+310,70,1930,23800,1,Pengos,Hungary,Mexico
+310,70,1931,0,1,Pengos,Hungary,Mexico
+310,70,1932,550,1,Pengos,Hungary,Mexico
+310,70,1933,916,1,Pengos,Hungary,Mexico
+310,70,1934,0,1000,1000 P,Hungary,Mexico
+310,70,1935,0,1000,1000 P,Hungary,Mexico
+310,70,1936,0,1000,1000 P,Hungary,Mexico
+310,70,1938,0,1000,1000 Deviza-Pengo,Hungary,Mexico
+310,70,1943,0,1000,1000 Pengo,Hungary,Mexico
+310,70,1944,0,1000,1000 Pengo,Hungary,Mexico
+310,70,1945,0,1000,1000 Pengo,Hungary,Mexico
+310,70,1949,0,1000,1000 Devizaforint,Hungary,Mexico
+310,90,1920,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1921,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1922,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1923,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1924,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1925,0,1000,1000S Of Gold Crowns,Hungary,Guatemala
+310,90,1926,0,1000,1000 P,Hungary,Guatemala
+310,90,1927,0,1000,1000 P,Hungary,Guatemala
+310,90,1928,0,1000,1000 P,Hungary,Guatemala
+310,90,1929,8670,1,Pengos,Hungary,Guatemala
+310,90,1930,0,1,Pengos,Hungary,Guatemala
+310,90,1931,0,1,Pengos,Hungary,Guatemala
+310,90,1932,0,1,Pengos,Hungary,Guatemala
+310,90,1933,600,1,Pengos,Hungary,Guatemala
+310,90,1934,0,1000,1000 P,Hungary,Guatemala
+310,90,1935,0,1000,1000 P,Hungary,Guatemala
+310,90,1936,0,1000,1000 P,Hungary,Guatemala
+310,90,1938,0,1000,1000 Deviza-Pengo,Hungary,Guatemala
+310,90,1943,0,1000,1000 Pengo,Hungary,Guatemala
+310,90,1944,0,1000,1000 Pengo,Hungary,Guatemala
+310,90,1945,0,1000,1000 Pengo,Hungary,Guatemala
+310,90,1949,0,1000,1000 Devizaforint,Hungary,Guatemala
+310,91,1920,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1921,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1922,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1923,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1924,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1925,0,1000,1000S Of Gold Crowns,Hungary,Honduras
+310,91,1926,0,1000,1000 P,Hungary,Honduras
+310,91,1927,0,1000,1000 P,Hungary,Honduras
+310,91,1928,0,1000,1000 P,Hungary,Honduras
+310,91,1929,0,1,Pengos,Hungary,Honduras
+310,91,1930,0,1,Pengos,Hungary,Honduras
+310,91,1931,0,1,Pengos,Hungary,Honduras
+310,91,1932,0,1,Pengos,Hungary,Honduras
+310,91,1933,0,1,Pengos,Hungary,Honduras
+310,91,1934,0,1000,1000 P,Hungary,Honduras
+310,91,1935,0,1000,1000 P,Hungary,Honduras
+310,91,1936,0,1000,1000 P,Hungary,Honduras
+310,91,1938,0,1000,1000 Deviza-Pengo,Hungary,Honduras
+310,91,1943,0,1000,1000 Pengo,Hungary,Honduras
+310,91,1944,0,1000,1000 Pengo,Hungary,Honduras
+310,91,1945,0,1000,1000 Pengo,Hungary,Honduras
+310,91,1949,0,1000,1000 Devizaforint,Hungary,Honduras
+310,92,1920,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1921,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1922,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1923,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1924,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1925,0,1000,1000S Of Gold Crowns,Hungary,El Salvador
+310,92,1926,0,1000,1000 P,Hungary,El Salvador
+310,92,1927,0,1000,1000 P,Hungary,El Salvador
+310,92,1928,98,1000,1000 P,Hungary,El Salvador
+310,92,1929,131325,1,Pengos,Hungary,El Salvador
+310,92,1930,167000,1,Pengos,Hungary,El Salvador
+310,92,1931,43540,1,Pengos,Hungary,El Salvador
+310,92,1932,30710,1,Pengos,Hungary,El Salvador
+310,92,1933,62458,1,Pengos,Hungary,El Salvador
+310,92,1934,0,1000,1000 P,Hungary,El Salvador
+310,92,1935,0,1000,1000 P,Hungary,El Salvador
+310,92,1936,0,1000,1000 P,Hungary,El Salvador
+310,92,1938,0,1000,1000 Deviza-Pengo,Hungary,El Salvador
+310,92,1943,0,1000,1000 Pengo,Hungary,El Salvador
+310,92,1944,0,1000,1000 Pengo,Hungary,El Salvador
+310,92,1945,0,1000,1000 Pengo,Hungary,El Salvador
+310,92,1949,0,1000,1000 Devizaforint,Hungary,El Salvador
+310,95,1920,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1921,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1922,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1923,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1924,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1925,0,1000,1000S Of Gold Crowns,Hungary,Panama
+310,95,1926,0,1000,1000 P,Hungary,Panama
+310,95,1927,0,1000,1000 P,Hungary,Panama
+310,95,1928,0,1000,1000 P,Hungary,Panama
+310,95,1929,0,1,Pengos,Hungary,Panama
+310,95,1930,0,1,Pengos,Hungary,Panama
+310,95,1931,0,1,Pengos,Hungary,Panama
+310,95,1932,0,1,Pengos,Hungary,Panama
+310,95,1933,0,1,Pengos,Hungary,Panama
+310,95,1934,0,1000,1000 P,Hungary,Panama
+310,95,1935,0,1000,1000 P,Hungary,Panama
+310,95,1936,0,1000,1000 P,Hungary,Panama
+310,95,1938,0,1000,1000 Deviza-Pengo,Hungary,Panama
+310,95,1943,0,1000,1000 Pengo,Hungary,Panama
+310,95,1944,0,1000,1000 Pengo,Hungary,Panama
+310,95,1945,0,1000,1000 Pengo,Hungary,Panama
+310,95,1949,0,1000,1000 Devizaforint,Hungary,Panama
+310,100,1920,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1921,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1922,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1923,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1924,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1925,0,1000,1000S Of Gold Crowns,Hungary,Colombia
+310,100,1926,0,1000,1000 P,Hungary,Colombia
+310,100,1927,0,1000,1000 P,Hungary,Colombia
+310,100,1928,0,1000,1000 P,Hungary,Colombia
+310,100,1929,0,1,Pengos,Hungary,Colombia
+310,100,1930,0,1,Pengos,Hungary,Colombia
+310,100,1931,0,1,Pengos,Hungary,Colombia
+310,100,1932,0,1,Pengos,Hungary,Colombia
+310,100,1933,0,1,Pengos,Hungary,Colombia
+310,100,1934,0,1000,1000 P,Hungary,Colombia
+310,100,1935,0,1000,1000 P,Hungary,Colombia
+310,100,1936,0,1000,1000 P,Hungary,Colombia
+310,100,1938,0,1000,1000 Deviza-Pengo,Hungary,Colombia
+310,100,1943,0,1000,1000 Pengo,Hungary,Colombia
+310,100,1944,0,1000,1000 Pengo,Hungary,Colombia
+310,100,1945,0,1000,1000 Pengo,Hungary,Colombia
+310,100,1949,0,1000,1000 Devizaforint,Hungary,Colombia
+310,101,1920,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1921,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1922,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1923,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1924,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1925,0,1000,1000S Of Gold Crowns,Hungary,Venezuela
+310,101,1926,0,1000,1000 P,Hungary,Venezuela
+310,101,1927,0,1000,1000 P,Hungary,Venezuela
+310,101,1928,0,1000,1000 P,Hungary,Venezuela
+310,101,1929,0,1,Pengos,Hungary,Venezuela
+310,101,1930,0,1,Pengos,Hungary,Venezuela
+310,101,1931,0,1,Pengos,Hungary,Venezuela
+310,101,1932,0,1,Pengos,Hungary,Venezuela
+310,101,1933,0,1,Pengos,Hungary,Venezuela
+310,101,1934,0,1000,1000 P,Hungary,Venezuela
+310,101,1935,0,1000,1000 P,Hungary,Venezuela
+310,101,1936,0,1000,1000 P,Hungary,Venezuela
+310,101,1938,0,1000,1000 Deviza-Pengo,Hungary,Venezuela
+310,101,1943,0,1000,1000 Pengo,Hungary,Venezuela
+310,101,1944,0,1000,1000 Pengo,Hungary,Venezuela
+310,101,1945,0,1000,1000 Pengo,Hungary,Venezuela
+310,101,1949,0,1000,1000 Devizaforint,Hungary,Venezuela
+310,130,1920,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1921,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1922,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1923,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1924,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1925,0,1000,1000S Of Gold Crowns,Hungary,Ecuador
+310,130,1926,0,1000,1000 P,Hungary,Ecuador
+310,130,1927,0,1000,1000 P,Hungary,Ecuador
+310,130,1928,0,1000,1000 P,Hungary,Ecuador
+310,130,1929,0,1,Pengos,Hungary,Ecuador
+310,130,1930,0,1,Pengos,Hungary,Ecuador
+310,130,1931,0,1,Pengos,Hungary,Ecuador
+310,130,1932,0,1,Pengos,Hungary,Ecuador
+310,130,1933,0,1,Pengos,Hungary,Ecuador
+310,130,1934,0,1000,1000 P,Hungary,Ecuador
+310,130,1935,0,1000,1000 P,Hungary,Ecuador
+310,130,1936,0,1000,1000 P,Hungary,Ecuador
+310,130,1938,0,1000,1000 Deviza-Pengo,Hungary,Ecuador
+310,130,1943,0,1000,1000 Pengo,Hungary,Ecuador
+310,130,1944,0,1000,1000 Pengo,Hungary,Ecuador
+310,130,1945,0,1000,1000 Pengo,Hungary,Ecuador
+310,130,1949,0,1000,1000 Devizaforint,Hungary,Ecuador
+310,135,1920,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1921,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1922,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1923,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1924,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1925,0,1000,1000S Of Gold Crowns,Hungary,Peru
+310,135,1926,0,1000,1000 P,Hungary,Peru
+310,135,1927,0,1000,1000 P,Hungary,Peru
+310,135,1928,0,1000,1000 P,Hungary,Peru
+310,135,1929,0,1,Pengos,Hungary,Peru
+310,135,1930,6250,1,Pengos,Hungary,Peru
+310,135,1931,0,1,Pengos,Hungary,Peru
+310,135,1932,10200,1,Pengos,Hungary,Peru
+310,135,1933,0,1,Pengos,Hungary,Peru
+310,135,1934,0,1000,1000 P,Hungary,Peru
+310,135,1935,0,1000,1000 P,Hungary,Peru
+310,135,1936,0,1000,1000 P,Hungary,Peru
+310,135,1938,0,1000,1000 Deviza-Pengo,Hungary,Peru
+310,135,1943,0,1000,1000 Pengo,Hungary,Peru
+310,135,1944,0,1000,1000 Pengo,Hungary,Peru
+310,135,1945,0,1000,1000 Pengo,Hungary,Peru
+310,135,1949,0,1000,1000 Devizaforint,Hungary,Peru
+310,140,1920,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1921,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1922,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1923,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1924,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1925,0,1000,1000S Of Gold Crowns,Hungary,Brazil
+310,140,1926,0,1000,1000 P,Hungary,Brazil
+310,140,1927,0,1000,1000 P,Hungary,Brazil
+310,140,1928,216,1000,1000 P,Hungary,Brazil
+310,140,1929,264420,1,Pengos,Hungary,Brazil
+310,140,1930,393380,1,Pengos,Hungary,Brazil
+310,140,1931,563990,1,Pengos,Hungary,Brazil
+310,140,1932,77820,1,Pengos,Hungary,Brazil
+310,140,1933,137159,1,Pengos,Hungary,Brazil
+310,140,1934,0,1000,1000 P,Hungary,Brazil
+310,140,1935,0,1000,1000 P,Hungary,Brazil
+310,140,1936,0,1000,1000 P,Hungary,Brazil
+310,140,1938,1022,1000,1000 Deviza-Pengo,Hungary,Brazil
+310,140,1943,0,1000,1000 Pengo,Hungary,Brazil
+310,140,1944,0,1000,1000 Pengo,Hungary,Brazil
+310,140,1945,0,1000,1000 Pengo,Hungary,Brazil
+310,140,1949,375,1000,1000 Devizaforint,Hungary,Brazil
+310,145,1920,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1921,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1922,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1923,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1924,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1925,0,1000,1000S Of Gold Crowns,Hungary,Bolivia
+310,145,1926,0,1000,1000 P,Hungary,Bolivia
+310,145,1927,0,1000,1000 P,Hungary,Bolivia
+310,145,1928,0,1000,1000 P,Hungary,Bolivia
+310,145,1929,0,1,Pengos,Hungary,Bolivia
+310,145,1930,0,1,Pengos,Hungary,Bolivia
+310,145,1931,0,1,Pengos,Hungary,Bolivia
+310,145,1932,0,1,Pengos,Hungary,Bolivia
+310,145,1933,0,1,Pengos,Hungary,Bolivia
+310,145,1934,0,1000,1000 P,Hungary,Bolivia
+310,145,1935,0,1000,1000 P,Hungary,Bolivia
+310,145,1936,0,1000,1000 P,Hungary,Bolivia
+310,145,1938,0,1000,1000 Deviza-Pengo,Hungary,Bolivia
+310,145,1943,0,1000,1000 Pengo,Hungary,Bolivia
+310,145,1944,0,1000,1000 Pengo,Hungary,Bolivia
+310,145,1945,0,1000,1000 Pengo,Hungary,Bolivia
+310,145,1949,0,1000,1000 Devizaforint,Hungary,Bolivia
+310,150,1920,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1921,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1922,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1923,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1924,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1925,0,1000,1000S Of Gold Crowns,Hungary,Paraguay
+310,150,1926,0,1000,1000 P,Hungary,Paraguay
+310,150,1927,0,1000,1000 P,Hungary,Paraguay
+310,150,1928,0,1000,1000 P,Hungary,Paraguay
+310,150,1929,0,1,Pengos,Hungary,Paraguay
+310,150,1930,0,1,Pengos,Hungary,Paraguay
+310,150,1931,0,1,Pengos,Hungary,Paraguay
+310,150,1932,0,1,Pengos,Hungary,Paraguay
+310,150,1933,0,1,Pengos,Hungary,Paraguay
+310,150,1934,0,1000,1000 P,Hungary,Paraguay
+310,150,1935,0,1000,1000 P,Hungary,Paraguay
+310,150,1936,0,1000,1000 P,Hungary,Paraguay
+310,150,1938,18,1000,1000 Deviza-Pengo,Hungary,Paraguay
+310,150,1943,0,1000,1000 Pengo,Hungary,Paraguay
+310,150,1944,0,1000,1000 Pengo,Hungary,Paraguay
+310,150,1945,0,1000,1000 Pengo,Hungary,Paraguay
+310,150,1949,0,1000,1000 Devizaforint,Hungary,Paraguay
+310,155,1920,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1921,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1922,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1923,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1924,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1925,0,1000,1000S Of Gold Crowns,Hungary,Chile
+310,155,1926,0,1000,1000 P,Hungary,Chile
+310,155,1927,0,1000,1000 P,Hungary,Chile
+310,155,1928,200,1000,1000 P,Hungary,Chile
+310,155,1929,175984,1,Pengos,Hungary,Chile
+310,155,1930,0,1,Pengos,Hungary,Chile
+310,155,1931,4440,1,Pengos,Hungary,Chile
+310,155,1932,0,1,Pengos,Hungary,Chile
+310,155,1933,0,1,Pengos,Hungary,Chile
+310,155,1934,0,1000,1000 P,Hungary,Chile
+310,155,1935,0,1000,1000 P,Hungary,Chile
+310,155,1936,0,1000,1000 P,Hungary,Chile
+310,155,1938,0,1000,1000 Deviza-Pengo,Hungary,Chile
+310,155,1943,0,1000,1000 Pengo,Hungary,Chile
+310,155,1944,0,1000,1000 Pengo,Hungary,Chile
+310,155,1945,0,1000,1000 Pengo,Hungary,Chile
+310,155,1949,0,1000,1000 Devizaforint,Hungary,Chile
+310,160,1920,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1921,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1922,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1923,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1924,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1925,0,1000,1000S Of Gold Crowns,Hungary,Argentina
+310,160,1926,0,1000,1000 P,Hungary,Argentina
+310,160,1927,0,1000,1000 P,Hungary,Argentina
+310,160,1928,3549,1000,1000 P,Hungary,Argentina
+310,160,1929,431938,1,Pengos,Hungary,Argentina
+310,160,1930,1609416,1,Pengos,Hungary,Argentina
+310,160,1931,103762,1,Pengos,Hungary,Argentina
+310,160,1932,603000,1,Pengos,Hungary,Argentina
+310,160,1933,2153692,1,Pengos,Hungary,Argentina
+310,160,1934,0,1000,1000 P,Hungary,Argentina
+310,160,1935,2076,1000,1000 P,Hungary,Argentina
+310,160,1936,3958,1000,1000 P,Hungary,Argentina
+310,160,1938,2329,1000,1000 Deviza-Pengo,Hungary,Argentina
+310,160,1943,0,1000,1000 Pengo,Hungary,Argentina
+310,160,1944,0,1000,1000 Pengo,Hungary,Argentina
+310,160,1945,0,1000,1000 Pengo,Hungary,Argentina
+310,160,1949,76771,1000,1000 Devizaforint,Hungary,Argentina
+310,165,1920,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1921,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1922,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1923,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1924,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1925,0,1000,1000S Of Gold Crowns,Hungary,Uruguay
+310,165,1926,0,1000,1000 P,Hungary,Uruguay
+310,165,1927,0,1000,1000 P,Hungary,Uruguay
+310,165,1928,0,1000,1000 P,Hungary,Uruguay
+310,165,1929,40250,1,Pengos,Hungary,Uruguay
+310,165,1930,92500,1,Pengos,Hungary,Uruguay
+310,165,1931,61380,1,Pengos,Hungary,Uruguay
+310,165,1932,60480,1,Pengos,Hungary,Uruguay
+310,165,1933,51470,1,Pengos,Hungary,Uruguay
+310,165,1934,0,1000,1000 P,Hungary,Uruguay
+310,165,1935,0,1000,1000 P,Hungary,Uruguay
+310,165,1936,0,1000,1000 P,Hungary,Uruguay
+310,165,1938,200,1000,1000 Deviza-Pengo,Hungary,Uruguay
+310,165,1943,0,1000,1000 Pengo,Hungary,Uruguay
+310,165,1944,0,1000,1000 Pengo,Hungary,Uruguay
+310,165,1945,0,1000,1000 Pengo,Hungary,Uruguay
+310,165,1949,0,1000,1000 Devizaforint,Hungary,Uruguay
+310,200,1920,0,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1921,8326,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1922,16775,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1923,6591,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1924,15306,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1925,23617,1000,1000S Of Gold Crowns,Hungary,United Kingdom
+310,200,1926,22749,1000,1000 P,Hungary,United Kingdom
+310,200,1927,39269,1000,1000 P,Hungary,United Kingdom
+310,200,1928,35452,1000,1000 P,Hungary,United Kingdom
+310,200,1929,30005167,1,Pengos,Hungary,United Kingdom
+310,200,1930,34226177,1,Pengos,Hungary,United Kingdom
+310,200,1931,20868728,1,Pengos,Hungary,United Kingdom
+310,200,1932,15337930,1,Pengos,Hungary,United Kingdom
+310,200,1933,13628520,1,Pengos,Hungary,United Kingdom
+310,200,1934,18323,1000,1000 P,Hungary,United Kingdom
+310,200,1935,21398,1000,1000 P,Hungary,United Kingdom
+310,200,1936,21612,1000,1000 P,Hungary,United Kingdom
+310,200,1938,25740,1000,1000 Deviza-Pengo,Hungary,United Kingdom
+310,200,1943,11,1000,1000 Pengo,Hungary,United Kingdom
+310,200,1944,21,1000,1000 Pengo,Hungary,United Kingdom
+310,200,1945,0,1000,1000 Pengo,Hungary,United Kingdom
+310,200,1949,444937,1000,1000 Devizaforint,Hungary,United Kingdom
+310,205,1920,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1921,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1922,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1923,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1924,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1925,0,1000,1000S Of Gold Crowns,Hungary,Ireland
+310,205,1926,0,1000,1000 P,Hungary,Ireland
+310,205,1927,0,1000,1000 P,Hungary,Ireland
+310,205,1928,0,1000,1000 P,Hungary,Ireland
+310,205,1929,0,1,Pengos,Hungary,Ireland
+310,205,1930,0,1,Pengos,Hungary,Ireland
+310,205,1931,0,1,Pengos,Hungary,Ireland
+310,205,1932,0,1,Pengos,Hungary,Ireland
+310,205,1933,3380,1,Pengos,Hungary,Ireland
+310,205,1934,0,1000,1000 P,Hungary,Ireland
+310,205,1935,0,1000,1000 P,Hungary,Ireland
+310,205,1936,0,1000,1000 P,Hungary,Ireland
+310,205,1938,0,1000,1000 Deviza-Pengo,Hungary,Ireland
+310,205,1943,0,1000,1000 Pengo,Hungary,Ireland
+310,205,1944,0,1000,1000 Pengo,Hungary,Ireland
+310,205,1945,0,1000,1000 Pengo,Hungary,Ireland
+310,205,1949,0,1000,1000 Devizaforint,Hungary,Ireland
+310,210,1920,0,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1921,9578,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1922,12417,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1923,6128,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1924,8019,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1925,10931,1000,1000S Of Gold Crowns,Hungary,Netherlands
+310,210,1926,16026,1000,1000 P,Hungary,Netherlands
+310,210,1927,19196,1000,1000 P,Hungary,Netherlands
+310,210,1928,21502,1000,1000 P,Hungary,Netherlands
+310,210,1929,28327208,1,Pengos,Hungary,Netherlands
+310,210,1930,18535858,1,Pengos,Hungary,Netherlands
+310,210,1931,10994268,1,Pengos,Hungary,Netherlands
+310,210,1932,5240369,1,Pengos,Hungary,Netherlands
+310,210,1933,4670778,1,Pengos,Hungary,Netherlands
+310,210,1934,6017,1000,1000 P,Hungary,Netherlands
+310,210,1935,9267,1000,1000 P,Hungary,Netherlands
+310,210,1936,12615,1000,1000 P,Hungary,Netherlands
+310,210,1938,15200,1000,1000 Deviza-Pengo,Hungary,Netherlands
+310,210,1943,3299,1000,1000 Pengo,Hungary,Netherlands
+310,210,1944,2929,1000,1000 Pengo,Hungary,Netherlands
+310,210,1945,0,1000,1000 Pengo,Hungary,Netherlands
+310,210,1949,163398,1000,1000 Devizaforint,Hungary,Netherlands
+310,211,1920,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1921,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1922,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1923,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1924,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1925,0,1000,1000S Of Gold Crowns,Hungary,Belgium
+310,211,1926,4166,1000,1000 P,Hungary,Belgium
+310,211,1927,8547,1000,1000 P,Hungary,Belgium
+310,211,1928,8584,1000,1000 P,Hungary,Belgium
+310,211,1929,8792753,1,Pengos,Hungary,Belgium
+310,211,1930,7089999,1,Pengos,Hungary,Belgium
+310,211,1931,5595819,1,Pengos,Hungary,Belgium
+310,211,1932,2428198,1,Pengos,Hungary,Belgium
+310,211,1933,2000845,1,Pengos,Hungary,Belgium
+310,211,1934,3078,1000,1000 P,Hungary,Belgium
+310,211,1935,2583,1000,1000 P,Hungary,Belgium
+310,211,1936,2603,1000,1000 P,Hungary,Belgium
+310,211,1938,4326,1000,1000 Deviza-Pengo,Hungary,Belgium
+310,211,1943,13036,1000,1000 Pengo,Hungary,Belgium
+310,211,1944,9652,1000,1000 Pengo,Hungary,Belgium
+310,211,1945,0,1000,1000 Pengo,Hungary,Belgium
+310,211,1949,97970,1000,1000 Devizaforint,Hungary,Belgium
+310,212,1920,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1921,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1922,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1923,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1924,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1925,0,1000,1000S Of Gold Crowns,Hungary,Luxembourg
+310,212,1926,0,1000,1000 P,Hungary,Luxembourg
+310,212,1927,0,1000,1000 P,Hungary,Luxembourg
+310,212,1928,625,1000,1000 P,Hungary,Luxembourg
+310,212,1929,449488,1,Pengos,Hungary,Luxembourg
+310,212,1930,393699,1,Pengos,Hungary,Luxembourg
+310,212,1931,441640,1,Pengos,Hungary,Luxembourg
+310,212,1932,152762,1,Pengos,Hungary,Luxembourg
+310,212,1933,29620,1,Pengos,Hungary,Luxembourg
+310,212,1934,0,1000,1000 P,Hungary,Luxembourg
+310,212,1935,0,1000,1000 P,Hungary,Luxembourg
+310,212,1936,0,1000,1000 P,Hungary,Luxembourg
+310,212,1938,0,1000,1000 Deviza-Pengo,Hungary,Luxembourg
+310,212,1943,0,1000,1000 Pengo,Hungary,Luxembourg
+310,212,1944,0,1000,1000 Pengo,Hungary,Luxembourg
+310,212,1945,0,1000,1000 Pengo,Hungary,Luxembourg
+310,212,1949,0,1000,1000 Devizaforint,Hungary,Luxembourg
+310,220,1920,0,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1921,9934,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1922,13837,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1923,3244,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1924,11338,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1925,13105,1000,1000S Of Gold Crowns,Hungary,France
+310,220,1926,28014,1000,1000 P,Hungary,France
+310,220,1927,32338,1000,1000 P,Hungary,France
+310,220,1928,31095,1000,1000 P,Hungary,France
+310,220,1929,24757212,1,Pengos,Hungary,France
+310,220,1930,23303571,1,Pengos,Hungary,France
+310,220,1931,17730431,1,Pengos,Hungary,France
+310,220,1932,13380747,1,Pengos,Hungary,France
+310,220,1933,17396736,1,Pengos,Hungary,France
+310,220,1934,10214,1000,1000 P,Hungary,France
+310,220,1935,4547,1000,1000 P,Hungary,France
+310,220,1936,4365,1000,1000 P,Hungary,France
+310,220,1938,6193,1000,1000 Deviza-Pengo,Hungary,France
+310,220,1943,2956,1000,1000 Pengo,Hungary,France
+310,220,1944,1130,1000,1000 Pengo,Hungary,France
+310,220,1945,0,1000,1000 Pengo,Hungary,France
+310,220,1949,89818,1000,1000 Devizaforint,Hungary,France
+310,225,1920,0,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1921,5452,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1922,8196,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1923,9662,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1924,26502,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1925,25370,1000,1000S Of Gold Crowns,Hungary,Switzerland
+310,225,1926,38750,1000,1000 P,Hungary,Switzerland
+310,225,1927,47726,1000,1000 P,Hungary,Switzerland
+310,225,1928,47700,1000,1000 P,Hungary,Switzerland
+310,225,1929,28058667,1,Pengos,Hungary,Switzerland
+310,225,1930,18824884,1,Pengos,Hungary,Switzerland
+310,225,1931,13419051,1,Pengos,Hungary,Switzerland
+310,225,1932,12008214,1,Pengos,Hungary,Switzerland
+310,225,1933,5525844,1,Pengos,Hungary,Switzerland
+310,225,1934,8435,1000,1000 P,Hungary,Switzerland
+310,225,1935,12687,1000,1000 P,Hungary,Switzerland
+310,225,1936,10325,1000,1000 P,Hungary,Switzerland
+310,225,1938,10423,1000,1000 Deviza-Pengo,Hungary,Switzerland
+310,225,1943,44688,1000,1000 Pengo,Hungary,Switzerland
+310,225,1944,33916,1000,1000 Pengo,Hungary,Switzerland
+310,225,1945,1,1000,1000 Pengo,Hungary,Switzerland
+310,225,1949,156615,1000,1000 Devizaforint,Hungary,Switzerland
+310,230,1920,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1921,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1922,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1923,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1924,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1925,0,1000,1000S Of Gold Crowns,Hungary,Spain
+310,230,1926,0,1000,1000 P,Hungary,Spain
+310,230,1927,0,1000,1000 P,Hungary,Spain
+310,230,1928,1829,1000,1000 P,Hungary,Spain
+310,230,1929,3286889,1,Pengos,Hungary,Spain
+310,230,1930,2924033,1,Pengos,Hungary,Spain
+310,230,1931,2085237,1,Pengos,Hungary,Spain
+310,230,1932,2266475,1,Pengos,Hungary,Spain
+310,230,1933,557431,1,Pengos,Hungary,Spain
+310,230,1934,0,1000,1000 P,Hungary,Spain
+310,230,1935,0,1000,1000 P,Hungary,Spain
+310,230,1936,0,1000,1000 P,Hungary,Spain
+310,230,1938,0,1000,1000 Deviza-Pengo,Hungary,Spain
+310,230,1943,6414,1000,1000 Pengo,Hungary,Spain
+310,230,1944,2468,1000,1000 Pengo,Hungary,Spain
+310,230,1945,1,1000,1000 Pengo,Hungary,Spain
+310,230,1949,0,1000,1000 Devizaforint,Hungary,Spain
+310,235,1920,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1921,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1922,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1923,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1924,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1925,0,1000,1000S Of Gold Crowns,Hungary,Portugal
+310,235,1926,0,1000,1000 P,Hungary,Portugal
+310,235,1927,0,1000,1000 P,Hungary,Portugal
+310,235,1928,531,1000,1000 P,Hungary,Portugal
+310,235,1929,400661,1,Pengos,Hungary,Portugal
+310,235,1930,307702,1,Pengos,Hungary,Portugal
+310,235,1931,387722,1,Pengos,Hungary,Portugal
+310,235,1932,274910,1,Pengos,Hungary,Portugal
+310,235,1933,151378,1,Pengos,Hungary,Portugal
+310,235,1934,0,1000,1000 P,Hungary,Portugal
+310,235,1935,0,1000,1000 P,Hungary,Portugal
+310,235,1936,0,1000,1000 P,Hungary,Portugal
+310,235,1938,403,1000,1000 Deviza-Pengo,Hungary,Portugal
+310,235,1943,2344,1000,1000 Pengo,Hungary,Portugal
+310,235,1944,2225,1000,1000 Pengo,Hungary,Portugal
+310,235,1945,0,1000,1000 Pengo,Hungary,Portugal
+310,235,1949,666,1000,1000 Devizaforint,Hungary,Portugal
+310,255,1920,35097,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1921,67475,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1922,89704,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1923,60460,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1924,88071,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1925,111101,1000,1000S Of Gold Crowns,Hungary,Germany
+310,255,1926,157466,1000,1000 P,Hungary,Germany
+310,255,1927,215575,1000,1000 P,Hungary,Germany
+310,255,1928,236662,1000,1000 P,Hungary,Germany
+310,255,1929,212514821,1,Pengos,Hungary,Germany
+310,255,1930,174975323,1,Pengos,Hungary,Germany
+310,255,1931,131385074,1,Pengos,Hungary,Germany
+310,255,1932,73938144,1,Pengos,Hungary,Germany
+310,255,1933,61506702,1,Pengos,Hungary,Germany
+310,255,1934,63025,1000,1000 P,Hungary,Germany
+310,255,1935,91295,1000,1000 P,Hungary,Germany
+310,255,1936,111796,1000,1000 P,Hungary,Germany
+310,255,1938,123673,1000,1000 Deviza-Pengo,Hungary,Germany
+310,255,1943,612372,1000,1000 Pengo,Hungary,Germany
+310,255,1944,568300,1000,1000 Pengo,Hungary,Germany
+310,255,1945,152,1000,1000 Pengo,Hungary,Germany
+310,255,1949,0,1000,1000 Devizaforint,Hungary,Germany
+310,290,1920,0,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1921,9177,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1922,23633,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1923,27182,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1924,38856,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1925,36486,1000,1000S Of Gold Crowns,Hungary,Poland
+310,290,1926,47984,1000,1000 P,Hungary,Poland
+310,290,1927,56519,1000,1000 P,Hungary,Poland
+310,290,1928,49344,1000,1000 P,Hungary,Poland
+310,290,1929,50922451,1,Pengos,Hungary,Poland
+310,290,1930,29796682,1,Pengos,Hungary,Poland
+310,290,1931,24763819,1,Pengos,Hungary,Poland
+310,290,1932,6546438,1,Pengos,Hungary,Poland
+310,290,1933,4181956,1,Pengos,Hungary,Poland
+310,290,1934,3539,1000,1000 P,Hungary,Poland
+310,290,1935,3664,1000,1000 P,Hungary,Poland
+310,290,1936,4600,1000,1000 P,Hungary,Poland
+310,290,1938,5853,1000,1000 Deviza-Pengo,Hungary,Poland
+310,290,1943,2117,1000,1000 Pengo,Hungary,Poland
+310,290,1944,1088,1000,1000 Pengo,Hungary,Poland
+310,290,1945,244,1000,1000 Pengo,Hungary,Poland
+310,290,1949,178677,1000,1000 Devizaforint,Hungary,Poland
+310,291,1920,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1921,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1922,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1923,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1924,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1925,0,1000,1000S Of Gold Crowns,Hungary,Danzig
+310,291,1926,0,1000,1000 P,Hungary,Danzig
+310,291,1927,0,1000,1000 P,Hungary,Danzig
+310,291,1928,8,1000,1000 P,Hungary,Danzig
+310,291,1929,42980,1,Pengos,Hungary,Danzig
+310,291,1930,45430,1,Pengos,Hungary,Danzig
+310,291,1931,160,1,Pengos,Hungary,Danzig
+310,291,1932,3300,1,Pengos,Hungary,Danzig
+310,291,1933,0,1,Pengos,Hungary,Danzig
+310,291,1934,0,1000,1000 P,Hungary,Danzig
+310,291,1935,0,1000,1000 P,Hungary,Danzig
+310,291,1936,0,1000,1000 P,Hungary,Danzig
+310,291,1938,0,1000,1000 Deviza-Pengo,Hungary,Danzig
+310,291,1943,0,1000,1000 Pengo,Hungary,Danzig
+310,291,1944,0,1000,1000 Pengo,Hungary,Danzig
+310,291,1945,0,1000,1000 Pengo,Hungary,Danzig
+310,291,1949,0,1000,1000 Devizaforint,Hungary,Danzig
+310,305,1920,210960,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1921,196130,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1922,155667,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1923,109323,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1924,162979,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1925,166907,1000,1000S Of Gold Crowns,Hungary,Austria
+310,305,1926,186012,1000,1000 P,Hungary,Austria
+310,305,1927,206848,1000,1000 P,Hungary,Austria
+310,305,1928,196233,1000,1000 P,Hungary,Austria
+310,305,1929,140091463,1,Pengos,Hungary,Austria
+310,305,1930,94825370,1,Pengos,Hungary,Austria
+310,305,1931,67239297,1,Pengos,Hungary,Austria
+310,305,1932,50874521,1,Pengos,Hungary,Austria
+310,305,1933,62416820,1,Pengos,Hungary,Austria
+310,305,1934,80556,1000,1000 P,Hungary,Austria
+310,305,1935,75510,1000,1000 P,Hungary,Austria
+310,305,1936,72473,1000,1000 P,Hungary,Austria
+310,305,1938,47143,1000,1000 Deviza-Pengo,Hungary,Austria
+310,305,1943,0,1000,1000 Pengo,Hungary,Austria
+310,305,1944,0,1000,1000 Pengo,Hungary,Austria
+310,305,1945,327,1000,1000 Pengo,Hungary,Austria
+310,305,1949,228960,1000,1000 Devizaforint,Hungary,Austria
+310,315,1920,78307,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1921,152623,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1922,128459,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1923,101888,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1924,176805,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1925,183617,1000,1000S Of Gold Crowns,Hungary,Czechoslovakia
+310,315,1926,212040,1000,1000 P,Hungary,Czechoslovakia
+310,315,1927,286323,1000,1000 P,Hungary,Czechoslovakia
+310,315,1928,271886,1000,1000 P,Hungary,Czechoslovakia
+310,315,1929,228691967,1,Pengos,Hungary,Czechoslovakia
+310,315,1930,172917959,1,Pengos,Hungary,Czechoslovakia
+310,315,1931,49319369,1,Pengos,Hungary,Czechoslovakia
+310,315,1932,34286573,1,Pengos,Hungary,Czechoslovakia
+310,315,1933,31567593,1,Pengos,Hungary,Czechoslovakia
+310,315,1934,24493,1000,1000 P,Hungary,Czechoslovakia
+310,315,1935,19456,1000,1000 P,Hungary,Czechoslovakia
+310,315,1936,22054,1000,1000 P,Hungary,Czechoslovakia
+310,315,1938,27264,1000,1000 Deviza-Pengo,Hungary,Czechoslovakia
+310,315,1943,85497,1000,1000 Pengo,Hungary,Czechoslovakia
+310,315,1944,84316,1000,1000 Pengo,Hungary,Czechoslovakia
+310,315,1945,452,1000,1000 Pengo,Hungary,Czechoslovakia
+310,315,1949,348385,1000,1000 Devizaforint,Hungary,Czechoslovakia
+310,325,1920,40750,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1921,25496,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1922,14995,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1923,12816,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1924,29474,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1925,33800,1000,1000S Of Gold Crowns,Hungary,Italy
+310,325,1926,45958,1000,1000 P,Hungary,Italy
+310,325,1927,55530,1000,1000 P,Hungary,Italy
+310,325,1928,48413,1000,1000 P,Hungary,Italy
+310,325,1929,46872304,1,Pengos,Hungary,Italy
+310,325,1930,41396885,1,Pengos,Hungary,Italy
+310,325,1931,32628921,1,Pengos,Hungary,Italy
+310,325,1932,18531195,1,Pengos,Hungary,Italy
+310,325,1933,23230419,1,Pengos,Hungary,Italy
+310,325,1934,41105,1000,1000 P,Hungary,Italy
+310,325,1935,30261,1000,1000 P,Hungary,Italy
+310,325,1936,32284,1000,1000 P,Hungary,Italy
+310,325,1938,25659,1000,1000 Deviza-Pengo,Hungary,Italy
+310,325,1943,201272,1000,1000 Pengo,Hungary,Italy
+310,325,1944,1873,1000,1000 Pengo,Hungary,Italy
+310,325,1945,0,1000,1000 Pengo,Hungary,Italy
+310,325,1949,82549,1000,1000 Devizaforint,Hungary,Italy
+310,326,1920,0,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1921,0,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1922,0,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1923,0,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1924,10870,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1925,67,1000,1000S Of Gold Crowns,Hungary,Trieste
+310,326,1926,0,1000,1000 P,Hungary,Trieste
+310,326,1927,0,1000,1000 P,Hungary,Trieste
+310,326,1928,1317,1000,1000 P,Hungary,Trieste
+310,326,1929,1966686,1,Pengos,Hungary,Trieste
+310,326,1930,1215095,1,Pengos,Hungary,Trieste
+310,326,1931,434180,1,Pengos,Hungary,Trieste
+310,326,1932,146240,1,Pengos,Hungary,Trieste
+310,326,1933,68478,1,Pengos,Hungary,Trieste
+310,326,1934,0,1000,1000 P,Hungary,Trieste
+310,326,1935,0,1000,1000 P,Hungary,Trieste
+310,326,1936,0,1000,1000 P,Hungary,Trieste
+310,326,1938,0,1000,1000 Deviza-Pengo,Hungary,Trieste
+310,326,1943,0,1000,1000 Pengo,Hungary,Trieste
+310,326,1944,0,1000,1000 Pengo,Hungary,Trieste
+310,326,1945,0,1000,1000 Pengo,Hungary,Trieste
+310,326,1949,0,1000,1000 Devizaforint,Hungary,Trieste
+310,339,1920,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1921,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1922,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1923,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1924,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1925,0,1000,1000S Of Gold Crowns,Hungary,Albania
+310,339,1926,0,1000,1000 P,Hungary,Albania
+310,339,1927,0,1000,1000 P,Hungary,Albania
+310,339,1928,0,1000,1000 P,Hungary,Albania
+310,339,1929,0,1,Pengos,Hungary,Albania
+310,339,1930,12158,1,Pengos,Hungary,Albania
+310,339,1931,9503,1,Pengos,Hungary,Albania
+310,339,1932,0,1,Pengos,Hungary,Albania
+310,339,1933,4355,1,Pengos,Hungary,Albania
+310,339,1934,0,1000,1000 P,Hungary,Albania
+310,339,1935,0,1000,1000 P,Hungary,Albania
+310,339,1936,0,1000,1000 P,Hungary,Albania
+310,339,1938,3,1000,1000 Deviza-Pengo,Hungary,Albania
+310,339,1943,0,1000,1000 Pengo,Hungary,Albania
+310,339,1944,0,1000,1000 Pengo,Hungary,Albania
+310,339,1945,0,1000,1000 Pengo,Hungary,Albania
+310,339,1949,542,1000,1000 Devizaforint,Hungary,Albania
+310,345,1920,1571,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1921,4011,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1922,12020,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1923,13337,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1924,28341,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1925,24877,1000,1000S Of Gold Crowns,Hungary,Yugoslavia
+310,345,1926,32964,1000,1000 P,Hungary,Yugoslavia
+310,345,1927,50902,1000,1000 P,Hungary,Yugoslavia
+310,345,1928,60955,1000,1000 P,Hungary,Yugoslavia
+310,345,1929,53889689,1,Pengos,Hungary,Yugoslavia
+310,345,1930,42042954,1,Pengos,Hungary,Yugoslavia
+310,345,1931,38562863,1,Pengos,Hungary,Yugoslavia
+310,345,1932,17162715,1,Pengos,Hungary,Yugoslavia
+310,345,1933,19258635,1,Pengos,Hungary,Yugoslavia
+310,345,1934,14089,1000,1000 P,Hungary,Yugoslavia
+310,345,1935,24674,1000,1000 P,Hungary,Yugoslavia
+310,345,1936,19177,1000,1000 P,Hungary,Yugoslavia
+310,345,1938,18579,1000,1000 Deviza-Pengo,Hungary,Yugoslavia
+310,345,1943,12197,1000,1000 Pengo,Hungary,Yugoslavia
+310,345,1944,9519,1000,1000 Pengo,Hungary,Yugoslavia
+310,345,1945,22,1000,1000 Pengo,Hungary,Yugoslavia
+310,345,1949,77052,1000,1000 Devizaforint,Hungary,Yugoslavia
+310,350,1920,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1921,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1922,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1923,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1924,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1925,0,1000,1000S Of Gold Crowns,Hungary,Greece
+310,350,1926,3129,1000,1000 P,Hungary,Greece
+310,350,1927,1044,1000,1000 P,Hungary,Greece
+310,350,1928,4840,1000,1000 P,Hungary,Greece
+310,350,1929,7610811,1,Pengos,Hungary,Greece
+310,350,1930,4711286,1,Pengos,Hungary,Greece
+310,350,1931,5898164,1,Pengos,Hungary,Greece
+310,350,1932,1117320,1,Pengos,Hungary,Greece
+310,350,1933,2521220,1,Pengos,Hungary,Greece
+310,350,1934,863,1000,1000 P,Hungary,Greece
+310,350,1935,1076,1000,1000 P,Hungary,Greece
+310,350,1936,1790,1000,1000 P,Hungary,Greece
+310,350,1938,5112,1000,1000 Deviza-Pengo,Hungary,Greece
+310,350,1943,3166,1000,1000 Pengo,Hungary,Greece
+310,350,1944,2428,1000,1000 Pengo,Hungary,Greece
+310,350,1945,0,1000,1000 Pengo,Hungary,Greece
+310,350,1949,0,1000,1000 Devizaforint,Hungary,Greece
+310,352,1920,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1921,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1922,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1923,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1924,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1925,0,1000,1000S Of Gold Crowns,Hungary,Cyprus
+310,352,1926,0,1000,1000 P,Hungary,Cyprus
+310,352,1927,0,1000,1000 P,Hungary,Cyprus
+310,352,1928,0,1000,1000 P,Hungary,Cyprus
+310,352,1929,0,1,Pengos,Hungary,Cyprus
+310,352,1930,0,1,Pengos,Hungary,Cyprus
+310,352,1931,4158,1,Pengos,Hungary,Cyprus
+310,352,1932,600,1,Pengos,Hungary,Cyprus
+310,352,1933,0,1,Pengos,Hungary,Cyprus
+310,352,1934,0,1000,1000 P,Hungary,Cyprus
+310,352,1935,0,1000,1000 P,Hungary,Cyprus
+310,352,1936,0,1000,1000 P,Hungary,Cyprus
+310,352,1938,0,1000,1000 Deviza-Pengo,Hungary,Cyprus
+310,352,1943,0,1000,1000 Pengo,Hungary,Cyprus
+310,352,1944,0,1000,1000 Pengo,Hungary,Cyprus
+310,352,1945,0,1000,1000 Pengo,Hungary,Cyprus
+310,352,1949,0,1000,1000 Devizaforint,Hungary,Cyprus
+310,355,1920,0,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1921,0,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1922,0,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1923,0,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1924,0,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1925,7410,1000,1000S Of Gold Crowns,Hungary,Bulgaria
+310,355,1926,12761,1000,1000 P,Hungary,Bulgaria
+310,355,1927,12220,1000,1000 P,Hungary,Bulgaria
+310,355,1928,8693,1000,1000 P,Hungary,Bulgaria
+310,355,1929,10255189,1,Pengos,Hungary,Bulgaria
+310,355,1930,11919107,1,Pengos,Hungary,Bulgaria
+310,355,1931,7631952,1,Pengos,Hungary,Bulgaria
+310,355,1932,2359194,1,Pengos,Hungary,Bulgaria
+310,355,1933,1845624,1,Pengos,Hungary,Bulgaria
+310,355,1934,617,1000,1000 P,Hungary,Bulgaria
+310,355,1935,3142,1000,1000 P,Hungary,Bulgaria
+310,355,1936,2814,1000,1000 P,Hungary,Bulgaria
+310,355,1938,3197,1000,1000 Deviza-Pengo,Hungary,Bulgaria
+310,355,1943,23271,1000,1000 Pengo,Hungary,Bulgaria
+310,355,1944,9527,1000,1000 Pengo,Hungary,Bulgaria
+310,355,1945,0,1000,1000 Pengo,Hungary,Bulgaria
+310,355,1949,48514,1000,1000 Devizaforint,Hungary,Bulgaria
+310,360,1920,3834,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1921,18274,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1922,38703,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1923,43375,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1924,55024,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1925,60038,1000,1000S Of Gold Crowns,Hungary,Romania
+310,360,1926,75751,1000,1000 P,Hungary,Romania
+310,360,1927,84589,1000,1000 P,Hungary,Romania
+310,360,1928,95734,1000,1000 P,Hungary,Romania
+310,360,1929,96146032,1,Pengos,Hungary,Romania
+310,360,1930,72908379,1,Pengos,Hungary,Romania
+310,360,1931,65086007,1,Pengos,Hungary,Romania
+310,360,1932,40868408,1,Pengos,Hungary,Romania
+310,360,1933,24245107,1,Pengos,Hungary,Romania
+310,360,1934,30285,1000,1000 P,Hungary,Romania
+310,360,1935,53876,1000,1000 P,Hungary,Romania
+310,360,1936,58185,1000,1000 P,Hungary,Romania
+310,360,1938,40133,1000,1000 Deviza-Pengo,Hungary,Romania
+310,360,1943,15806,1000,1000 Pengo,Hungary,Romania
+310,360,1944,16801,1000,1000 Pengo,Hungary,Romania
+310,360,1945,205,1000,1000 Pengo,Hungary,Romania
+310,360,1949,157937,1000,1000 Devizaforint,Hungary,Romania
+310,365,1920,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1921,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1922,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1923,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1924,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1925,0,1000,1000S Of Gold Crowns,Hungary,Russia
+310,365,1926,0,1000,1000 P,Hungary,Russia
+310,365,1927,0,1000,1000 P,Hungary,Russia
+310,365,1928,2785,1000,1000 P,Hungary,Russia
+310,365,1929,1904009,1,Pengos,Hungary,Russia
+310,365,1930,3088566,1,Pengos,Hungary,Russia
+310,365,1931,153847,1,Pengos,Hungary,Russia
+310,365,1932,1521407,1,Pengos,Hungary,Russia
+310,365,1933,366250,1,Pengos,Hungary,Russia
+310,365,1934,96,1000,1000 P,Hungary,Russia
+310,365,1935,0,1000,1000 P,Hungary,Russia
+310,365,1936,0,1000,1000 P,Hungary,Russia
+310,365,1938,447,1000,1000 Deviza-Pengo,Hungary,Russia
+310,365,1943,6797,1000,1000 Pengo,Hungary,Russia
+310,365,1944,157,1000,1000 Pengo,Hungary,Russia
+310,365,1945,955,1000,1000 Pengo,Hungary,Russia
+310,365,1949,725156,1000,1000 Devizaforint,Hungary,Russia
+310,366,1920,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1921,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1922,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1923,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1924,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1925,0,1000,1000S Of Gold Crowns,Hungary,Estonia
+310,366,1926,0,1000,1000 P,Hungary,Estonia
+310,366,1927,0,1000,1000 P,Hungary,Estonia
+310,366,1928,12,1000,1000 P,Hungary,Estonia
+310,366,1929,14670,1,Pengos,Hungary,Estonia
+310,366,1930,14488,1,Pengos,Hungary,Estonia
+310,366,1931,27973,1,Pengos,Hungary,Estonia
+310,366,1932,7080,1,Pengos,Hungary,Estonia
+310,366,1933,0,1,Pengos,Hungary,Estonia
+310,366,1934,0,1000,1000 P,Hungary,Estonia
+310,366,1935,0,1000,1000 P,Hungary,Estonia
+310,366,1936,0,1000,1000 P,Hungary,Estonia
+310,366,1938,0,1000,1000 Deviza-Pengo,Hungary,Estonia
+310,366,1943,0,1000,1000 Pengo,Hungary,Estonia
+310,366,1944,0,1000,1000 Pengo,Hungary,Estonia
+310,366,1945,0,1000,1000 Pengo,Hungary,Estonia
+310,366,1949,0,1000,1000 Devizaforint,Hungary,Estonia
+310,367,1920,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1921,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1922,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1923,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1924,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1925,0,1000,1000S Of Gold Crowns,Hungary,Latvia
+310,367,1926,0,1000,1000 P,Hungary,Latvia
+310,367,1927,0,1000,1000 P,Hungary,Latvia
+310,367,1928,49,1000,1000 P,Hungary,Latvia
+310,367,1929,121315,1,Pengos,Hungary,Latvia
+310,367,1930,117030,1,Pengos,Hungary,Latvia
+310,367,1931,159343,1,Pengos,Hungary,Latvia
+310,367,1932,34967,1,Pengos,Hungary,Latvia
+310,367,1933,4445,1,Pengos,Hungary,Latvia
+310,367,1934,0,1000,1000 P,Hungary,Latvia
+310,367,1935,0,1000,1000 P,Hungary,Latvia
+310,367,1936,0,1000,1000 P,Hungary,Latvia
+310,367,1938,0,1000,1000 Deviza-Pengo,Hungary,Latvia
+310,367,1943,0,1000,1000 Pengo,Hungary,Latvia
+310,367,1944,0,1000,1000 Pengo,Hungary,Latvia
+310,367,1945,0,1000,1000 Pengo,Hungary,Latvia
+310,367,1949,0,1000,1000 Devizaforint,Hungary,Latvia
+310,368,1920,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1921,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1922,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1923,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1924,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1925,0,1000,1000S Of Gold Crowns,Hungary,Lithuania
+310,368,1926,0,1000,1000 P,Hungary,Lithuania
+310,368,1927,0,1000,1000 P,Hungary,Lithuania
+310,368,1928,2,1000,1000 P,Hungary,Lithuania
+310,368,1929,70,1,Pengos,Hungary,Lithuania
+310,368,1930,3720,1,Pengos,Hungary,Lithuania
+310,368,1931,1050,1,Pengos,Hungary,Lithuania
+310,368,1932,0,1,Pengos,Hungary,Lithuania
+310,368,1933,9360,1,Pengos,Hungary,Lithuania
+310,368,1934,0,1000,1000 P,Hungary,Lithuania
+310,368,1935,0,1000,1000 P,Hungary,Lithuania
+310,368,1936,0,1000,1000 P,Hungary,Lithuania
+310,368,1938,0,1000,1000 Deviza-Pengo,Hungary,Lithuania
+310,368,1943,0,1000,1000 Pengo,Hungary,Lithuania
+310,368,1944,0,1000,1000 Pengo,Hungary,Lithuania
+310,368,1945,0,1000,1000 Pengo,Hungary,Lithuania
+310,368,1949,0,1000,1000 Devizaforint,Hungary,Lithuania
+310,375,1920,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1921,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1922,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1923,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1924,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1925,0,1000,1000S Of Gold Crowns,Hungary,Finland
+310,375,1926,0,1000,1000 P,Hungary,Finland
+310,375,1927,0,1000,1000 P,Hungary,Finland
+310,375,1928,70,1000,1000 P,Hungary,Finland
+310,375,1929,78065,1,Pengos,Hungary,Finland
+310,375,1930,117739,1,Pengos,Hungary,Finland
+310,375,1931,312051,1,Pengos,Hungary,Finland
+310,375,1932,121530,1,Pengos,Hungary,Finland
+310,375,1933,423873,1,Pengos,Hungary,Finland
+310,375,1934,0,1000,1000 P,Hungary,Finland
+310,375,1935,0,1000,1000 P,Hungary,Finland
+310,375,1936,0,1000,1000 P,Hungary,Finland
+310,375,1938,1214,1000,1000 Deviza-Pengo,Hungary,Finland
+310,375,1943,15140,1000,1000 Pengo,Hungary,Finland
+310,375,1944,19660,1000,1000 Pengo,Hungary,Finland
+310,375,1945,0,1000,1000 Pengo,Hungary,Finland
+310,375,1949,35153,1000,1000 Devizaforint,Hungary,Finland
+310,380,1920,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1921,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1922,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1923,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1924,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1925,0,1000,1000S Of Gold Crowns,Hungary,Sweden
+310,380,1926,1050,1000,1000 P,Hungary,Sweden
+310,380,1927,1457,1000,1000 P,Hungary,Sweden
+310,380,1928,3508,1000,1000 P,Hungary,Sweden
+310,380,1929,3314976,1,Pengos,Hungary,Sweden
+310,380,1930,1761386,1,Pengos,Hungary,Sweden
+310,380,1931,1748195,1,Pengos,Hungary,Sweden
+310,380,1932,684397,1,Pengos,Hungary,Sweden
+310,380,1933,625631,1,Pengos,Hungary,Sweden
+310,380,1934,964,1000,1000 P,Hungary,Sweden
+310,380,1935,1465,1000,1000 P,Hungary,Sweden
+310,380,1936,1802,1000,1000 P,Hungary,Sweden
+310,380,1938,3732,1000,1000 Deviza-Pengo,Hungary,Sweden
+310,380,1943,25699,1000,1000 Pengo,Hungary,Sweden
+310,380,1944,7967,1000,1000 Pengo,Hungary,Sweden
+310,380,1945,25,1000,1000 Pengo,Hungary,Sweden
+310,380,1949,73769,1000,1000 Devizaforint,Hungary,Sweden
+310,385,1920,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1921,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1922,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1923,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1924,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1925,0,1000,1000S Of Gold Crowns,Hungary,Norway
+310,385,1926,395,1000,1000 P,Hungary,Norway
+310,385,1927,524,1000,1000 P,Hungary,Norway
+310,385,1928,945,1000,1000 P,Hungary,Norway
+310,385,1929,1587301,1,Pengos,Hungary,Norway
+310,385,1930,1626552,1,Pengos,Hungary,Norway
+310,385,1931,1139739,1,Pengos,Hungary,Norway
+310,385,1932,737964,1,Pengos,Hungary,Norway
+310,385,1933,474350,1,Pengos,Hungary,Norway
+310,385,1934,0,1000,1000 P,Hungary,Norway
+310,385,1935,731,1000,1000 P,Hungary,Norway
+310,385,1936,1219,1000,1000 P,Hungary,Norway
+310,385,1938,746,1000,1000 Deviza-Pengo,Hungary,Norway
+310,385,1943,2528,1000,1000 Pengo,Hungary,Norway
+310,385,1944,2311,1000,1000 Pengo,Hungary,Norway
+310,385,1945,0,1000,1000 Pengo,Hungary,Norway
+310,385,1949,15359,1000,1000 Devizaforint,Hungary,Norway
+310,390,1920,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1921,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1922,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1923,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1924,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1925,0,1000,1000S Of Gold Crowns,Hungary,Denmark
+310,390,1926,983,1000,1000 P,Hungary,Denmark
+310,390,1927,1171,1000,1000 P,Hungary,Denmark
+310,390,1928,1264,1000,1000 P,Hungary,Denmark
+310,390,1929,626143,1,Pengos,Hungary,Denmark
+310,390,1930,725562,1,Pengos,Hungary,Denmark
+310,390,1931,610432,1,Pengos,Hungary,Denmark
+310,390,1932,517789,1,Pengos,Hungary,Denmark
+310,390,1933,843102,1,Pengos,Hungary,Denmark
+310,390,1934,1820,1000,1000 P,Hungary,Denmark
+310,390,1935,0,1000,1000 P,Hungary,Denmark
+310,390,1936,0,1000,1000 P,Hungary,Denmark
+310,390,1938,2062,1000,1000 Deviza-Pengo,Hungary,Denmark
+310,390,1943,4623,1000,1000 Pengo,Hungary,Denmark
+310,390,1944,3584,1000,1000 Pengo,Hungary,Denmark
+310,390,1945,0,1000,1000 Pengo,Hungary,Denmark
+310,390,1949,15701,1000,1000 Devizaforint,Hungary,Denmark
+310,530,1920,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1921,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1922,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1923,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1924,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1925,0,1000,1000S Of Gold Crowns,Hungary,Ethiopia
+310,530,1926,0,1000,1000 P,Hungary,Ethiopia
+310,530,1927,0,1000,1000 P,Hungary,Ethiopia
+310,530,1928,0,1000,1000 P,Hungary,Ethiopia
+310,530,1929,0,1,Pengos,Hungary,Ethiopia
+310,530,1930,0,1,Pengos,Hungary,Ethiopia
+310,530,1931,0,1,Pengos,Hungary,Ethiopia
+310,530,1932,700,1,Pengos,Hungary,Ethiopia
+310,530,1933,0,1,Pengos,Hungary,Ethiopia
+310,530,1934,0,1000,1000 P,Hungary,Ethiopia
+310,530,1935,0,1000,1000 P,Hungary,Ethiopia
+310,530,1936,0,1000,1000 P,Hungary,Ethiopia
+310,530,1938,0,1000,1000 Deviza-Pengo,Hungary,Ethiopia
+310,530,1943,0,1000,1000 Pengo,Hungary,Ethiopia
+310,530,1944,0,1000,1000 Pengo,Hungary,Ethiopia
+310,530,1945,0,1000,1000 Pengo,Hungary,Ethiopia
+310,530,1949,0,1000,1000 Devizaforint,Hungary,Ethiopia
+310,615,1920,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1921,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1922,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1923,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1924,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1925,0,1000,1000S Of Gold Crowns,Hungary,Algeria
+310,615,1926,0,1000,1000 P,Hungary,Algeria
+310,615,1927,0,1000,1000 P,Hungary,Algeria
+310,615,1928,426,1000,1000 P,Hungary,Algeria
+310,615,1929,378172,1,Pengos,Hungary,Algeria
+310,615,1930,91608,1,Pengos,Hungary,Algeria
+310,615,1931,184938,1,Pengos,Hungary,Algeria
+310,615,1932,28396,1,Pengos,Hungary,Algeria
+310,615,1933,19987,1,Pengos,Hungary,Algeria
+310,615,1934,0,1000,1000 P,Hungary,Algeria
+310,615,1935,0,1000,1000 P,Hungary,Algeria
+310,615,1936,0,1000,1000 P,Hungary,Algeria
+310,615,1938,0,1000,1000 Deviza-Pengo,Hungary,Algeria
+310,615,1943,0,1000,1000 Pengo,Hungary,Algeria
+310,615,1944,0,1000,1000 Pengo,Hungary,Algeria
+310,615,1945,0,1000,1000 Pengo,Hungary,Algeria
+310,615,1949,0,1000,1000 Devizaforint,Hungary,Algeria
+310,616,1920,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1921,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1922,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1923,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1924,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1925,0,1000,1000S Of Gold Crowns,Hungary,Tunisia
+310,616,1926,0,1000,1000 P,Hungary,Tunisia
+310,616,1927,0,1000,1000 P,Hungary,Tunisia
+310,616,1928,2,1000,1000 P,Hungary,Tunisia
+310,616,1929,1585,1,Pengos,Hungary,Tunisia
+310,616,1930,6240,1,Pengos,Hungary,Tunisia
+310,616,1931,3975,1,Pengos,Hungary,Tunisia
+310,616,1932,3840,1,Pengos,Hungary,Tunisia
+310,616,1933,0,1,Pengos,Hungary,Tunisia
+310,616,1934,0,1000,1000 P,Hungary,Tunisia
+310,616,1935,0,1000,1000 P,Hungary,Tunisia
+310,616,1936,0,1000,1000 P,Hungary,Tunisia
+310,616,1938,0,1000,1000 Deviza-Pengo,Hungary,Tunisia
+310,616,1943,0,1000,1000 Pengo,Hungary,Tunisia
+310,616,1944,0,1000,1000 Pengo,Hungary,Tunisia
+310,616,1945,0,1000,1000 Pengo,Hungary,Tunisia
+310,616,1949,0,1000,1000 Devizaforint,Hungary,Tunisia
+310,630,1920,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1921,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1922,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1923,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1924,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1925,0,1000,1000S Of Gold Crowns,Hungary,Iran
+310,630,1926,0,1000,1000 P,Hungary,Iran
+310,630,1927,0,1000,1000 P,Hungary,Iran
+310,630,1928,111,1000,1000 P,Hungary,Iran
+310,630,1929,36680,1,Pengos,Hungary,Iran
+310,630,1930,20000,1,Pengos,Hungary,Iran
+310,630,1931,132240,1,Pengos,Hungary,Iran
+310,630,1932,58320,1,Pengos,Hungary,Iran
+310,630,1933,21800,1,Pengos,Hungary,Iran
+310,630,1934,0,1000,1000 P,Hungary,Iran
+310,630,1935,0,1000,1000 P,Hungary,Iran
+310,630,1936,0,1000,1000 P,Hungary,Iran
+310,630,1938,60,1000,1000 Deviza-Pengo,Hungary,Iran
+310,630,1943,0,1000,1000 Pengo,Hungary,Iran
+310,630,1944,0,1000,1000 Pengo,Hungary,Iran
+310,630,1945,0,1000,1000 Pengo,Hungary,Iran
+310,630,1949,193,1000,1000 Devizaforint,Hungary,Iran
+310,640,1920,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1921,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1922,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1923,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1924,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1925,0,1000,1000S Of Gold Crowns,Hungary,Turkey
+310,640,1926,8721,1000,1000 P,Hungary,Turkey
+310,640,1927,4684,1000,1000 P,Hungary,Turkey
+310,640,1928,7448,1000,1000 P,Hungary,Turkey
+310,640,1929,2183029,1,Pengos,Hungary,Turkey
+310,640,1930,4413789,1,Pengos,Hungary,Turkey
+310,640,1931,4127075,1,Pengos,Hungary,Turkey
+310,640,1932,913382,1,Pengos,Hungary,Turkey
+310,640,1933,1612862,1,Pengos,Hungary,Turkey
+310,640,1934,1599,1000,1000 P,Hungary,Turkey
+310,640,1935,1469,1000,1000 P,Hungary,Turkey
+310,640,1936,1991,1000,1000 P,Hungary,Turkey
+310,640,1938,2556,1000,1000 Deviza-Pengo,Hungary,Turkey
+310,640,1943,64199,1000,1000 Pengo,Hungary,Turkey
+310,640,1944,28422,1000,1000 Pengo,Hungary,Turkey
+310,640,1945,0,1000,1000 Pengo,Hungary,Turkey
+310,640,1949,41609,1000,1000 Devizaforint,Hungary,Turkey
+310,645,1920,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1921,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1922,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1923,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1924,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1925,0,1000,1000S Of Gold Crowns,Hungary,Iraq
+310,645,1926,0,1000,1000 P,Hungary,Iraq
+310,645,1927,0,1000,1000 P,Hungary,Iraq
+310,645,1928,0,1000,1000 P,Hungary,Iraq
+310,645,1929,0,1,Pengos,Hungary,Iraq
+310,645,1930,0,1,Pengos,Hungary,Iraq
+310,645,1931,2100,1,Pengos,Hungary,Iraq
+310,645,1932,0,1,Pengos,Hungary,Iraq
+310,645,1933,81,1,Pengos,Hungary,Iraq
+310,645,1934,0,1000,1000 P,Hungary,Iraq
+310,645,1935,0,1000,1000 P,Hungary,Iraq
+310,645,1936,0,1000,1000 P,Hungary,Iraq
+310,645,1938,0,1000,1000 Deviza-Pengo,Hungary,Iraq
+310,645,1943,0,1000,1000 Pengo,Hungary,Iraq
+310,645,1944,0,1000,1000 Pengo,Hungary,Iraq
+310,645,1945,0,1000,1000 Pengo,Hungary,Iraq
+310,645,1949,0,1000,1000 Devizaforint,Hungary,Iraq
+310,651,1920,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1921,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1922,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1923,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1924,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1925,0,1000,1000S Of Gold Crowns,Hungary,Egypt
+310,651,1926,0,1000,1000 P,Hungary,Egypt
+310,651,1927,0,1000,1000 P,Hungary,Egypt
+310,651,1928,1424,1000,1000 P,Hungary,Egypt
+310,651,1929,2111765,1,Pengos,Hungary,Egypt
+310,651,1930,1240574,1,Pengos,Hungary,Egypt
+310,651,1931,1266390,1,Pengos,Hungary,Egypt
+310,651,1932,6875606,1,Pengos,Hungary,Egypt
+310,651,1933,1999388,1,Pengos,Hungary,Egypt
+310,651,1934,4760,1000,1000 P,Hungary,Egypt
+310,651,1935,6118,1000,1000 P,Hungary,Egypt
+310,651,1936,6089,1000,1000 P,Hungary,Egypt
+310,651,1938,6262,1000,1000 Deviza-Pengo,Hungary,Egypt
+310,651,1943,0,1000,1000 Pengo,Hungary,Egypt
+310,651,1944,0,1000,1000 Pengo,Hungary,Egypt
+310,651,1945,0,1000,1000 Pengo,Hungary,Egypt
+310,651,1949,38839,1000,1000 Devizaforint,Hungary,Egypt
+310,660,1920,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1921,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1922,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1923,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1924,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1925,0,1000,1000S Of Gold Crowns,Hungary,Lebanon
+310,660,1926,0,1000,1000 P,Hungary,Lebanon
+310,660,1927,0,1000,1000 P,Hungary,Lebanon
+310,660,1928,0,1000,1000 P,Hungary,Lebanon
+310,660,1929,0,1,Pengos,Hungary,Lebanon
+310,660,1930,0,1,Pengos,Hungary,Lebanon
+310,660,1931,0,1,Pengos,Hungary,Lebanon
+310,660,1932,0,1,Pengos,Hungary,Lebanon
+310,660,1933,0,1,Pengos,Hungary,Lebanon
+310,660,1934,0,1000,1000 P,Hungary,Lebanon
+310,660,1935,0,1000,1000 P,Hungary,Lebanon
+310,660,1936,0,1000,1000 P,Hungary,Lebanon
+310,660,1938,0,1000,1000 Deviza-Pengo,Hungary,Lebanon
+310,660,1943,0,1000,1000 Pengo,Hungary,Lebanon
+310,660,1944,0,1000,1000 Pengo,Hungary,Lebanon
+310,660,1945,0,1000,1000 Pengo,Hungary,Lebanon
+310,660,1949,17,1000,1000 Devizaforint,Hungary,Lebanon
+310,665,1920,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1921,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1922,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1923,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1924,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1925,0,1000,1000S Of Gold Crowns,Hungary,West Bank And Gaza
+310,665,1926,0,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1927,0,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1928,3,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1929,205,1,Pengos,Hungary,West Bank And Gaza
+310,665,1930,28918,1,Pengos,Hungary,West Bank And Gaza
+310,665,1931,44296,1,Pengos,Hungary,West Bank And Gaza
+310,665,1932,2834,1,Pengos,Hungary,West Bank And Gaza
+310,665,1933,10969,1,Pengos,Hungary,West Bank And Gaza
+310,665,1934,29,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1935,0,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1936,0,1000,1000 P,Hungary,West Bank And Gaza
+310,665,1938,152,1000,1000 Deviza-Pengo,Hungary,West Bank And Gaza
+310,665,1943,0,1000,1000 Pengo,Hungary,West Bank And Gaza
+310,665,1944,0,1000,1000 Pengo,Hungary,West Bank And Gaza
+310,665,1945,0,1000,1000 Pengo,Hungary,West Bank And Gaza
+310,665,1949,0,1000,1000 Devizaforint,Hungary,West Bank And Gaza
+310,710,1920,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1921,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1922,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1923,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1924,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1925,0,1000,1000S Of Gold Crowns,Hungary,China
+310,710,1926,0,1000,1000 P,Hungary,China
+310,710,1927,0,1000,1000 P,Hungary,China
+310,710,1928,10,1000,1000 P,Hungary,China
+310,710,1929,21890,1,Pengos,Hungary,China
+310,710,1930,1540,1,Pengos,Hungary,China
+310,710,1931,3954,1,Pengos,Hungary,China
+310,710,1932,3249,1,Pengos,Hungary,China
+310,710,1933,0,1,Pengos,Hungary,China
+310,710,1934,0,1000,1000 P,Hungary,China
+310,710,1935,0,1000,1000 P,Hungary,China
+310,710,1936,0,1000,1000 P,Hungary,China
+310,710,1938,152,1000,1000 Deviza-Pengo,Hungary,China
+310,710,1943,0,1000,1000 Pengo,Hungary,China
+310,710,1944,0,1000,1000 Pengo,Hungary,China
+310,710,1945,0,1000,1000 Pengo,Hungary,China
+310,710,1949,0,1000,1000 Devizaforint,Hungary,China
+310,740,1920,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1921,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1922,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1923,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1924,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1925,0,1000,1000S Of Gold Crowns,Hungary,Japan
+310,740,1926,0,1000,1000 P,Hungary,Japan
+310,740,1927,0,1000,1000 P,Hungary,Japan
+310,740,1928,19,1000,1000 P,Hungary,Japan
+310,740,1929,30376,1,Pengos,Hungary,Japan
+310,740,1930,33331,1,Pengos,Hungary,Japan
+310,740,1931,200404,1,Pengos,Hungary,Japan
+310,740,1932,362566,1,Pengos,Hungary,Japan
+310,740,1933,95321,1,Pengos,Hungary,Japan
+310,740,1934,0,1000,1000 P,Hungary,Japan
+310,740,1935,0,1000,1000 P,Hungary,Japan
+310,740,1936,0,1000,1000 P,Hungary,Japan
+310,740,1938,0,1000,1000 Deviza-Pengo,Hungary,Japan
+310,740,1943,0,1000,1000 Pengo,Hungary,Japan
+310,740,1944,0,1000,1000 Pengo,Hungary,Japan
+310,740,1945,0,1000,1000 Pengo,Hungary,Japan
+310,740,1949,0,1000,1000 Devizaforint,Hungary,Japan
+310,800,1920,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1921,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1922,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1923,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1924,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1925,0,1000,1000S Of Gold Crowns,Hungary,Thailand
+310,800,1926,0,1000,1000 P,Hungary,Thailand
+310,800,1927,0,1000,1000 P,Hungary,Thailand
+310,800,1928,0,1000,1000 P,Hungary,Thailand
+310,800,1929,0,1,Pengos,Hungary,Thailand
+310,800,1930,0,1,Pengos,Hungary,Thailand
+310,800,1931,122500,1,Pengos,Hungary,Thailand
+310,800,1932,0,1,Pengos,Hungary,Thailand
+310,800,1933,3807,1,Pengos,Hungary,Thailand
+310,800,1934,0,1000,1000 P,Hungary,Thailand
+310,800,1935,0,1000,1000 P,Hungary,Thailand
+310,800,1936,0,1000,1000 P,Hungary,Thailand
+310,800,1938,0,1000,1000 Deviza-Pengo,Hungary,Thailand
+310,800,1943,0,1000,1000 Pengo,Hungary,Thailand
+310,800,1944,0,1000,1000 Pengo,Hungary,Thailand
+310,800,1945,0,1000,1000 Pengo,Hungary,Thailand
+310,800,1949,0,1000,1000 Devizaforint,Hungary,Thailand
+310,840,1920,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1921,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1922,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1923,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1924,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1925,0,1000,1000S Of Gold Crowns,Hungary,Philippines
+310,840,1926,0,1000,1000 P,Hungary,Philippines
+310,840,1927,0,1000,1000 P,Hungary,Philippines
+310,840,1928,0,1000,1000 P,Hungary,Philippines
+310,840,1929,0,1,Pengos,Hungary,Philippines
+310,840,1930,0,1,Pengos,Hungary,Philippines
+310,840,1931,0,1,Pengos,Hungary,Philippines
+310,840,1932,0,1,Pengos,Hungary,Philippines
+310,840,1933,0,1,Pengos,Hungary,Philippines
+310,840,1934,0,1000,1000 P,Hungary,Philippines
+310,840,1935,0,1000,1000 P,Hungary,Philippines
+310,840,1936,0,1000,1000 P,Hungary,Philippines
+310,840,1938,0,1000,1000 Deviza-Pengo,Hungary,Philippines
+310,840,1943,0,1000,1000 Pengo,Hungary,Philippines
+310,840,1944,0,1000,1000 Pengo,Hungary,Philippines
+310,840,1945,0,1000,1000 Pengo,Hungary,Philippines
+310,840,1949,0,1000,1000 Devizaforint,Hungary,Philippines
+310,900,1920,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1921,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1922,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1923,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1924,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1925,0,1000,1000S Of Gold Crowns,Hungary,Australia
+310,900,1926,0,1000,1000 P,Hungary,Australia
+310,900,1927,0,1000,1000 P,Hungary,Australia
+310,900,1928,0,1000,1000 P,Hungary,Australia
+310,900,1929,13650,1,Pengos,Hungary,Australia
+310,900,1930,29660,1,Pengos,Hungary,Australia
+310,900,1931,0,1,Pengos,Hungary,Australia
+310,900,1932,9090,1,Pengos,Hungary,Australia
+310,900,1933,105000,1,Pengos,Hungary,Australia
+310,900,1934,0,1000,1000 P,Hungary,Australia
+310,900,1935,0,1000,1000 P,Hungary,Australia
+310,900,1936,0,1000,1000 P,Hungary,Australia
+310,900,1938,0,1000,1000 Deviza-Pengo,Hungary,Australia
+310,900,1943,0,1000,1000 Pengo,Hungary,Australia
+310,900,1944,0,1000,1000 Pengo,Hungary,Australia
+310,900,1945,0,1000,1000 Pengo,Hungary,Australia
+310,900,1949,0,1000,1000 Devizaforint,Hungary,Australia
+310,6203,1920,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1921,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1922,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1923,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1924,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1925,0,1000,1000S Of Gold Crowns,Hungary,Tripoli
+310,6203,1926,0,1000,1000 P,Hungary,Tripoli
+310,6203,1927,0,1000,1000 P,Hungary,Tripoli
+310,6203,1928,0,1000,1000 P,Hungary,Tripoli
+310,6203,1929,0,1,Pengos,Hungary,Tripoli
+310,6203,1930,0,1,Pengos,Hungary,Tripoli
+310,6203,1931,29325,1,Pengos,Hungary,Tripoli
+310,6203,1932,10260,1,Pengos,Hungary,Tripoli
+310,6203,1933,0,1,Pengos,Hungary,Tripoli
+310,6203,1934,0,1000,1000 P,Hungary,Tripoli
+310,6203,1935,0,1000,1000 P,Hungary,Tripoli
+310,6203,1936,0,1000,1000 P,Hungary,Tripoli
+310,6203,1938,0,1000,1000 Deviza-Pengo,Hungary,Tripoli
+310,6203,1943,0,1000,1000 Pengo,Hungary,Tripoli
+310,6203,1944,0,1000,1000 Pengo,Hungary,Tripoli
+310,6203,1945,0,1000,1000 Pengo,Hungary,Tripoli
+310,6203,1949,0,1000,1000 Devizaforint,Hungary,Tripoli
+310,,1920,464115,1000,1000S Of Gold Crowns,Hungary,
+310,,1921,528207,1000,1000S Of Gold Crowns,Hungary,
+310,,1922,552843,1000,1000S Of Gold Crowns,Hungary,
+310,,1923,436040,1000,1000S Of Gold Crowns,Hungary,
+310,,1924,736292,1000,1000S Of Gold Crowns,Hungary,
+310,,1925,764469,1000,1000S Of Gold Crowns,Hungary,
+310,,1926,964654,1000,1000 P,Hungary,
+310,,1927,1213826,1000,1000 P,Hungary,
+310,,1928,1236142,1000,1000 P,Hungary,
+310,,1929,1091739810,1,Pengos,Hungary,
+310,,1930,839057456,1,Pengos,Hungary,
+310,,1931,550089933,1,Pengos,Hungary,
+310,,1932,334707591,1,Pengos,Hungary,
+310,,1933,320829793,1,Pengos,Hungary,
+310,,1934,356214,1000,1000 P,Hungary,
+310,,1935,418729,1000,1000 P,Hungary,
+310,,1936,451341,1000,1000 P,Hungary,
+310,,1938,411911,1000,1000 Deviza-Pengo,Hungary,
+310,,1943,1147565,1000,1000 Pengo,Hungary,
+310,,1944,808306,1000,1000 Pengo,Hungary,
+310,,1945,2384,1000,1000 Pengo,Hungary,
+310,,1949,3587229,1000,1000 Devizaforint,Hungary,

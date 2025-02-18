@@ -1,0 +1,3713 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+51,2,1920,6040607,1,Pounds,Jamaica,United States
+51,2,1921,2990516,1,Pounds,Jamaica,United States
+51,2,1922,2091591,1,Pounds,Jamaica,United States
+51,2,1923,2336512,1,Pounds,Jamaica,United States
+51,2,1924,1955867,1,Pounds,Jamaica,United States
+51,2,1925,2143250,1,Pounds,Jamaica,United States
+51,2,1926,2099981,1,Pounds,Jamaica,United States
+51,2,1927,1939192,1,Pounds,Jamaica,United States
+51,2,1928,1922397,1,Pounds,Jamaica,United States
+51,2,1929,2089306,1,Pounds,Jamaica,United States
+51,2,1930,1934542,1,Pounds,Jamaica,United States
+51,2,1931,1430008,1,Pounds,Jamaica,United States
+51,2,1932,817211,1,Pounds,Jamaica,United States
+51,2,1933,687937,1,Pounds,Jamaica,United States
+51,2,1934,847289,1,Pounds,Jamaica,United States
+51,2,1935,879932,1,Pounds,Jamaica,United States
+51,2,1936,833875,1,Pounds,Jamaica,United States
+51,2,1937,1083417,1,Pounds,Jamaica,United States
+51,2,1938,1359143,1,Pounds,Jamaica,United States
+51,2,1939,1471285,1,Pounds,Jamaica,United States
+51,2,1940,961524,1,Pounds,Jamaica,United States
+51,2,1941,869228,1,Pounds,Jamaica,United States
+51,2,1943,1383169,1,Pounds,Jamaica,United States
+51,2,1944,2848897,1,Pounds,Jamaica,United States
+51,2,1945,2886588,1,Pounds,Jamaica,United States
+51,2,1946,3199948,1,Pounds,Jamaica,United States
+51,2,1947,6377651,1,,Jamaica,United States
+51,2,1948,3825998,1,,Jamaica,United States
+51,2,1949,3174453,1,,Jamaica,United States
+51,3,1920,0,1,Pounds,Jamaica,Alaska
+51,3,1921,0,1,Pounds,Jamaica,Alaska
+51,3,1922,0,1,Pounds,Jamaica,Alaska
+51,3,1923,0,1,Pounds,Jamaica,Alaska
+51,3,1924,0,1,Pounds,Jamaica,Alaska
+51,3,1925,0,1,Pounds,Jamaica,Alaska
+51,3,1926,0,1,Pounds,Jamaica,Alaska
+51,3,1927,0,1,Pounds,Jamaica,Alaska
+51,3,1928,0,1,Pounds,Jamaica,Alaska
+51,3,1929,0,1,Pounds,Jamaica,Alaska
+51,3,1930,0,1,Pounds,Jamaica,Alaska
+51,3,1931,3,1,Pounds,Jamaica,Alaska
+51,3,1932,0,1,Pounds,Jamaica,Alaska
+51,3,1933,0,1,Pounds,Jamaica,Alaska
+51,3,1934,0,1,Pounds,Jamaica,Alaska
+51,3,1935,0,1,Pounds,Jamaica,Alaska
+51,3,1936,0,1,Pounds,Jamaica,Alaska
+51,3,1937,0,1,Pounds,Jamaica,Alaska
+51,3,1938,0,1,Pounds,Jamaica,Alaska
+51,3,1939,0,1,Pounds,Jamaica,Alaska
+51,3,1940,0,1,Pounds,Jamaica,Alaska
+51,3,1941,0,1,Pounds,Jamaica,Alaska
+51,3,1943,0,1,Pounds,Jamaica,Alaska
+51,3,1944,0,1,Pounds,Jamaica,Alaska
+51,3,1945,0,1,Pounds,Jamaica,Alaska
+51,3,1946,0,1,Pounds,Jamaica,Alaska
+51,3,1947,0,1,,Jamaica,Alaska
+51,3,1948,0,1,,Jamaica,Alaska
+51,3,1949,0,1,,Jamaica,Alaska
+51,4,1920,0,1,Pounds,Jamaica,Hawaii
+51,4,1921,0,1,Pounds,Jamaica,Hawaii
+51,4,1922,0,1,Pounds,Jamaica,Hawaii
+51,4,1923,0,1,Pounds,Jamaica,Hawaii
+51,4,1924,0,1,Pounds,Jamaica,Hawaii
+51,4,1925,0,1,Pounds,Jamaica,Hawaii
+51,4,1926,0,1,Pounds,Jamaica,Hawaii
+51,4,1927,0,1,Pounds,Jamaica,Hawaii
+51,4,1928,0,1,Pounds,Jamaica,Hawaii
+51,4,1929,0,1,Pounds,Jamaica,Hawaii
+51,4,1930,4,1,Pounds,Jamaica,Hawaii
+51,4,1931,0,1,Pounds,Jamaica,Hawaii
+51,4,1932,4,1,Pounds,Jamaica,Hawaii
+51,4,1933,1,1,Pounds,Jamaica,Hawaii
+51,4,1934,0,1,Pounds,Jamaica,Hawaii
+51,4,1935,0,1,Pounds,Jamaica,Hawaii
+51,4,1936,0,1,Pounds,Jamaica,Hawaii
+51,4,1937,0,1,Pounds,Jamaica,Hawaii
+51,4,1938,0,1,Pounds,Jamaica,Hawaii
+51,4,1939,0,1,Pounds,Jamaica,Hawaii
+51,4,1940,0,1,Pounds,Jamaica,Hawaii
+51,4,1941,0,1,Pounds,Jamaica,Hawaii
+51,4,1943,0,1,Pounds,Jamaica,Hawaii
+51,4,1944,0,1,Pounds,Jamaica,Hawaii
+51,4,1945,0,1,Pounds,Jamaica,Hawaii
+51,4,1946,0,1,Pounds,Jamaica,Hawaii
+51,4,1947,0,1,,Jamaica,Hawaii
+51,4,1948,0,1,,Jamaica,Hawaii
+51,4,1949,0,1,,Jamaica,Hawaii
+51,6,1920,0,1,Pounds,Jamaica,Puerto Rico
+51,6,1921,1,1,Pounds,Jamaica,Puerto Rico
+51,6,1922,0,1,Pounds,Jamaica,Puerto Rico
+51,6,1923,0,1,Pounds,Jamaica,Puerto Rico
+51,6,1924,40,1,Pounds,Jamaica,Puerto Rico
+51,6,1925,1,1,Pounds,Jamaica,Puerto Rico
+51,6,1926,54,1,Pounds,Jamaica,Puerto Rico
+51,6,1927,240,1,Pounds,Jamaica,Puerto Rico
+51,6,1928,8,1,Pounds,Jamaica,Puerto Rico
+51,6,1929,638,1,Pounds,Jamaica,Puerto Rico
+51,6,1930,57,1,Pounds,Jamaica,Puerto Rico
+51,6,1931,147,1,Pounds,Jamaica,Puerto Rico
+51,6,1932,351,1,Pounds,Jamaica,Puerto Rico
+51,6,1933,556,1,Pounds,Jamaica,Puerto Rico
+51,6,1934,92,1,Pounds,Jamaica,Puerto Rico
+51,6,1935,75,1,Pounds,Jamaica,Puerto Rico
+51,6,1936,108,1,Pounds,Jamaica,Puerto Rico
+51,6,1937,46,1,Pounds,Jamaica,Puerto Rico
+51,6,1938,24,1,Pounds,Jamaica,Puerto Rico
+51,6,1939,18,1,Pounds,Jamaica,Puerto Rico
+51,6,1940,6,1,Pounds,Jamaica,Puerto Rico
+51,6,1941,16,1,Pounds,Jamaica,Puerto Rico
+51,6,1943,338,1,Pounds,Jamaica,Puerto Rico
+51,6,1944,1452,1,Pounds,Jamaica,Puerto Rico
+51,6,1945,13117,1,Pounds,Jamaica,Puerto Rico
+51,6,1946,7781,1,Pounds,Jamaica,Puerto Rico
+51,6,1947,385,1,,Jamaica,Puerto Rico
+51,6,1948,34,1,,Jamaica,Puerto Rico
+51,6,1949,29,1,,Jamaica,Puerto Rico
+51,20,1920,896916,1,Pounds,Jamaica,Canada
+51,20,1921,636534,1,Pounds,Jamaica,Canada
+51,20,1922,616246,1,Pounds,Jamaica,Canada
+51,20,1923,747614,1,Pounds,Jamaica,Canada
+51,20,1924,794856,1,Pounds,Jamaica,Canada
+51,20,1925,815629,1,Pounds,Jamaica,Canada
+51,20,1926,978563,1,Pounds,Jamaica,Canada
+51,20,1927,1074865,1,Pounds,Jamaica,Canada
+51,20,1928,1179681,1,Pounds,Jamaica,Canada
+51,20,1929,1217720,1,Pounds,Jamaica,Canada
+51,20,1930,957305,1,Pounds,Jamaica,Canada
+51,20,1931,830325,1,Pounds,Jamaica,Canada
+51,20,1932,687147,1,Pounds,Jamaica,Canada
+51,20,1933,675297,1,Pounds,Jamaica,Canada
+51,20,1934,734825,1,Pounds,Jamaica,Canada
+51,20,1935,794177,1,Pounds,Jamaica,Canada
+51,20,1936,804394,1,Pounds,Jamaica,Canada
+51,20,1937,891035,1,Pounds,Jamaica,Canada
+51,20,1938,1014267,1,Pounds,Jamaica,Canada
+51,20,1939,1121108,1,Pounds,Jamaica,Canada
+51,20,1940,1504723,1,Pounds,Jamaica,Canada
+51,20,1941,2109361,1,Pounds,Jamaica,Canada
+51,20,1943,2062204,1,Pounds,Jamaica,Canada
+51,20,1944,3429457,1,Pounds,Jamaica,Canada
+51,20,1945,3943060,1,Pounds,Jamaica,Canada
+51,20,1946,4292835,1,Pounds,Jamaica,Canada
+51,20,1947,5410255,1,,Jamaica,Canada
+51,20,1948,3596679,1,,Jamaica,Canada
+51,20,1949,2482633,1,,Jamaica,Canada
+51,21,1920,47385,1,Pounds,Jamaica,Newfoundland
+51,21,1921,37715,1,Pounds,Jamaica,Newfoundland
+51,21,1922,98475,1,Pounds,Jamaica,Newfoundland
+51,21,1923,116081,1,Pounds,Jamaica,Newfoundland
+51,21,1924,124817,1,Pounds,Jamaica,Newfoundland
+51,21,1925,120155,1,Pounds,Jamaica,Newfoundland
+51,21,1926,146955,1,Pounds,Jamaica,Newfoundland
+51,21,1927,163437,1,Pounds,Jamaica,Newfoundland
+51,21,1928,170694,1,Pounds,Jamaica,Newfoundland
+51,21,1929,115436,1,Pounds,Jamaica,Newfoundland
+51,21,1930,170905,1,Pounds,Jamaica,Newfoundland
+51,21,1931,168857,1,Pounds,Jamaica,Newfoundland
+51,21,1932,124654,1,Pounds,Jamaica,Newfoundland
+51,21,1933,98229,1,Pounds,Jamaica,Newfoundland
+51,21,1934,102955,1,Pounds,Jamaica,Newfoundland
+51,21,1935,115301,1,Pounds,Jamaica,Newfoundland
+51,21,1936,114586,1,Pounds,Jamaica,Newfoundland
+51,21,1937,158915,1,Pounds,Jamaica,Newfoundland
+51,21,1938,185885,1,Pounds,Jamaica,Newfoundland
+51,21,1939,166351,1,Pounds,Jamaica,Newfoundland
+51,21,1940,162643,1,Pounds,Jamaica,Newfoundland
+51,21,1941,201032,1,Pounds,Jamaica,Newfoundland
+51,21,1943,336789,1,Pounds,Jamaica,Newfoundland
+51,21,1944,410182,1,Pounds,Jamaica,Newfoundland
+51,21,1945,415182,1,Pounds,Jamaica,Newfoundland
+51,21,1946,460552,1,Pounds,Jamaica,Newfoundland
+51,21,1947,481008,1,,Jamaica,Newfoundland
+51,21,1948,515041,1,,Jamaica,Newfoundland
+51,21,1949,539568,1,,Jamaica,Newfoundland
+51,30,1920,0,1,Pounds,Jamaica,Bermuda
+51,30,1921,0,1,Pounds,Jamaica,Bermuda
+51,30,1922,217,1,Pounds,Jamaica,Bermuda
+51,30,1923,196,1,Pounds,Jamaica,Bermuda
+51,30,1924,149,1,Pounds,Jamaica,Bermuda
+51,30,1925,35,1,Pounds,Jamaica,Bermuda
+51,30,1926,25,1,Pounds,Jamaica,Bermuda
+51,30,1927,46,1,Pounds,Jamaica,Bermuda
+51,30,1928,266,1,Pounds,Jamaica,Bermuda
+51,30,1929,82,1,Pounds,Jamaica,Bermuda
+51,30,1930,57,1,Pounds,Jamaica,Bermuda
+51,30,1931,16,1,Pounds,Jamaica,Bermuda
+51,30,1932,29,1,Pounds,Jamaica,Bermuda
+51,30,1933,127,1,Pounds,Jamaica,Bermuda
+51,30,1934,28,1,Pounds,Jamaica,Bermuda
+51,30,1935,0,1,Pounds,Jamaica,Bermuda
+51,30,1936,104,1,Pounds,Jamaica,Bermuda
+51,30,1937,0,1,Pounds,Jamaica,Bermuda
+51,30,1938,0,1,Pounds,Jamaica,Bermuda
+51,30,1939,1,1,Pounds,Jamaica,Bermuda
+51,30,1940,80,1,Pounds,Jamaica,Bermuda
+51,30,1941,323,1,Pounds,Jamaica,Bermuda
+51,30,1943,0,1,Pounds,Jamaica,Bermuda
+51,30,1944,0,1,Pounds,Jamaica,Bermuda
+51,30,1945,2,1,Pounds,Jamaica,Bermuda
+51,30,1946,52,1,Pounds,Jamaica,Bermuda
+51,30,1947,51,1,,Jamaica,Bermuda
+51,30,1948,225,1,,Jamaica,Bermuda
+51,30,1949,239,1,,Jamaica,Bermuda
+51,31,1920,9472,1,Pounds,Jamaica,Bahamas
+51,31,1921,18161,1,Pounds,Jamaica,Bahamas
+51,31,1922,6437,1,Pounds,Jamaica,Bahamas
+51,31,1923,5445,1,Pounds,Jamaica,Bahamas
+51,31,1924,4888,1,Pounds,Jamaica,Bahamas
+51,31,1925,7076,1,Pounds,Jamaica,Bahamas
+51,31,1926,3553,1,Pounds,Jamaica,Bahamas
+51,31,1927,10435,1,Pounds,Jamaica,Bahamas
+51,31,1928,545,1,Pounds,Jamaica,Bahamas
+51,31,1929,5100,1,Pounds,Jamaica,Bahamas
+51,31,1930,3299,1,Pounds,Jamaica,Bahamas
+51,31,1931,3252,1,Pounds,Jamaica,Bahamas
+51,31,1932,20777,1,Pounds,Jamaica,Bahamas
+51,31,1933,24926,1,Pounds,Jamaica,Bahamas
+51,31,1934,12126,1,Pounds,Jamaica,Bahamas
+51,31,1935,14902,1,Pounds,Jamaica,Bahamas
+51,31,1936,14576,1,Pounds,Jamaica,Bahamas
+51,31,1937,18653,1,Pounds,Jamaica,Bahamas
+51,31,1938,10252,1,Pounds,Jamaica,Bahamas
+51,31,1939,14851,1,Pounds,Jamaica,Bahamas
+51,31,1940,17345,1,Pounds,Jamaica,Bahamas
+51,31,1941,13228,1,Pounds,Jamaica,Bahamas
+51,31,1943,77,1,Pounds,Jamaica,Bahamas
+51,31,1944,1,1,Pounds,Jamaica,Bahamas
+51,31,1945,7982,1,Pounds,Jamaica,Bahamas
+51,31,1946,4,1,Pounds,Jamaica,Bahamas
+51,31,1947,395,1,,Jamaica,Bahamas
+51,31,1948,55814,1,,Jamaica,Bahamas
+51,31,1949,74192,1,,Jamaica,Bahamas
+51,40,1920,14236,1,Pounds,Jamaica,Cuba
+51,40,1921,1030,1,Pounds,Jamaica,Cuba
+51,40,1922,639,1,Pounds,Jamaica,Cuba
+51,40,1923,412,1,Pounds,Jamaica,Cuba
+51,40,1924,460,1,Pounds,Jamaica,Cuba
+51,40,1925,1112,1,Pounds,Jamaica,Cuba
+51,40,1926,384,1,Pounds,Jamaica,Cuba
+51,40,1927,1120,1,Pounds,Jamaica,Cuba
+51,40,1928,3081,1,Pounds,Jamaica,Cuba
+51,40,1929,4782,1,Pounds,Jamaica,Cuba
+51,40,1930,9552,1,Pounds,Jamaica,Cuba
+51,40,1931,11088,1,Pounds,Jamaica,Cuba
+51,40,1932,21032,1,Pounds,Jamaica,Cuba
+51,40,1933,10835,1,Pounds,Jamaica,Cuba
+51,40,1934,17131,1,Pounds,Jamaica,Cuba
+51,40,1935,10233,1,Pounds,Jamaica,Cuba
+51,40,1936,3765,1,Pounds,Jamaica,Cuba
+51,40,1937,4653,1,Pounds,Jamaica,Cuba
+51,40,1938,6036,1,Pounds,Jamaica,Cuba
+51,40,1939,5589,1,Pounds,Jamaica,Cuba
+51,40,1940,4425,1,Pounds,Jamaica,Cuba
+51,40,1941,7258,1,Pounds,Jamaica,Cuba
+51,40,1943,170026,1,Pounds,Jamaica,Cuba
+51,40,1944,166405,1,Pounds,Jamaica,Cuba
+51,40,1945,74385,1,Pounds,Jamaica,Cuba
+51,40,1946,82060,1,Pounds,Jamaica,Cuba
+51,40,1947,166945,1,,Jamaica,Cuba
+51,40,1948,115513,1,,Jamaica,Cuba
+51,40,1949,88277,1,,Jamaica,Cuba
+51,41,1920,5,1,Pounds,Jamaica,Haiti
+51,41,1921,68,1,Pounds,Jamaica,Haiti
+51,41,1922,353,1,Pounds,Jamaica,Haiti
+51,41,1923,121,1,Pounds,Jamaica,Haiti
+51,41,1924,295,1,Pounds,Jamaica,Haiti
+51,41,1925,40,1,Pounds,Jamaica,Haiti
+51,41,1926,27,1,Pounds,Jamaica,Haiti
+51,41,1927,24,1,Pounds,Jamaica,Haiti
+51,41,1928,48,1,Pounds,Jamaica,Haiti
+51,41,1929,669,1,Pounds,Jamaica,Haiti
+51,41,1930,1293,1,Pounds,Jamaica,Haiti
+51,41,1931,381,1,Pounds,Jamaica,Haiti
+51,41,1932,583,1,Pounds,Jamaica,Haiti
+51,41,1933,1309,1,Pounds,Jamaica,Haiti
+51,41,1934,772,1,Pounds,Jamaica,Haiti
+51,41,1935,910,1,Pounds,Jamaica,Haiti
+51,41,1936,568,1,Pounds,Jamaica,Haiti
+51,41,1937,711,1,Pounds,Jamaica,Haiti
+51,41,1938,582,1,Pounds,Jamaica,Haiti
+51,41,1939,618,1,Pounds,Jamaica,Haiti
+51,41,1940,1330,1,Pounds,Jamaica,Haiti
+51,41,1941,1826,1,Pounds,Jamaica,Haiti
+51,41,1943,11134,1,Pounds,Jamaica,Haiti
+51,41,1944,14761,1,Pounds,Jamaica,Haiti
+51,41,1945,2406,1,Pounds,Jamaica,Haiti
+51,41,1946,2021,1,Pounds,Jamaica,Haiti
+51,41,1947,2432,1,,Jamaica,Haiti
+51,41,1948,2455,1,,Jamaica,Haiti
+51,41,1949,5749,1,,Jamaica,Haiti
+51,42,1920,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1921,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1922,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1923,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1924,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1925,1,1,Pounds,Jamaica,Dominican Republic
+51,42,1926,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1927,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1928,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1929,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1930,173,1,Pounds,Jamaica,Dominican Republic
+51,42,1931,4,1,Pounds,Jamaica,Dominican Republic
+51,42,1932,4,1,Pounds,Jamaica,Dominican Republic
+51,42,1933,202,1,Pounds,Jamaica,Dominican Republic
+51,42,1934,74,1,Pounds,Jamaica,Dominican Republic
+51,42,1935,890,1,Pounds,Jamaica,Dominican Republic
+51,42,1936,1,1,Pounds,Jamaica,Dominican Republic
+51,42,1937,6,1,Pounds,Jamaica,Dominican Republic
+51,42,1938,32,1,Pounds,Jamaica,Dominican Republic
+51,42,1939,827,1,Pounds,Jamaica,Dominican Republic
+51,42,1940,860,1,Pounds,Jamaica,Dominican Republic
+51,42,1941,1746,1,Pounds,Jamaica,Dominican Republic
+51,42,1943,286,1,Pounds,Jamaica,Dominican Republic
+51,42,1944,7718,1,Pounds,Jamaica,Dominican Republic
+51,42,1945,0,1,Pounds,Jamaica,Dominican Republic
+51,42,1946,1,1,Pounds,Jamaica,Dominican Republic
+51,42,1947,0,1,,Jamaica,Dominican Republic
+51,42,1948,110833,1,,Jamaica,Dominican Republic
+51,42,1949,19,1,,Jamaica,Dominican Republic
+51,51,1920,0,1,Pounds,Jamaica,Jamaica
+51,51,1921,0,1,Pounds,Jamaica,Jamaica
+51,51,1922,0,1,Pounds,Jamaica,Jamaica
+51,51,1923,0,1,Pounds,Jamaica,Jamaica
+51,51,1924,0,1,Pounds,Jamaica,Jamaica
+51,51,1925,0,1,Pounds,Jamaica,Jamaica
+51,51,1926,81,1,Pounds,Jamaica,Jamaica
+51,51,1927,0,1,Pounds,Jamaica,Jamaica
+51,51,1928,0,1,Pounds,Jamaica,Jamaica
+51,51,1929,0,1,Pounds,Jamaica,Jamaica
+51,51,1930,0,1,Pounds,Jamaica,Jamaica
+51,51,1931,0,1,Pounds,Jamaica,Jamaica
+51,51,1932,0,1,Pounds,Jamaica,Jamaica
+51,51,1933,0,1,Pounds,Jamaica,Jamaica
+51,51,1934,0,1,Pounds,Jamaica,Jamaica
+51,51,1935,613,1,Pounds,Jamaica,Jamaica
+51,51,1936,2814,1,Pounds,Jamaica,Jamaica
+51,51,1937,2370,1,Pounds,Jamaica,Jamaica
+51,51,1938,1867,1,Pounds,Jamaica,Jamaica
+51,51,1939,814,1,Pounds,Jamaica,Jamaica
+51,51,1940,1474,1,Pounds,Jamaica,Jamaica
+51,51,1941,2667,1,Pounds,Jamaica,Jamaica
+51,51,1943,2453,1,Pounds,Jamaica,Jamaica
+51,51,1944,0,1,Pounds,Jamaica,Jamaica
+51,51,1945,0,1,Pounds,Jamaica,Jamaica
+51,51,1946,0,1,Pounds,Jamaica,Jamaica
+51,51,1947,500,1,,Jamaica,Jamaica
+51,51,1948,13372,1,,Jamaica,Jamaica
+51,51,1949,3852,1,,Jamaica,Jamaica
+51,52,1920,1445,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1921,479,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1922,9093,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1923,27182,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1924,32404,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1925,59867,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1926,143688,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1927,138602,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1928,183459,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1929,310716,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1930,289928,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1931,259704,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1932,240343,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1933,239170,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1934,282603,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1935,262882,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1936,272407,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1937,287855,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1938,252983,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1939,357724,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1940,339896,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1941,168393,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1943,45826,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1944,21014,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1945,200741,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1946,308895,1,Pounds,Jamaica,Trinidad And Tobago
+51,52,1947,463589,1,,Jamaica,Trinidad And Tobago
+51,52,1948,343522,1,,Jamaica,Trinidad And Tobago
+51,52,1949,615578,1,,Jamaica,Trinidad And Tobago
+51,53,1920,1,1,Pounds,Jamaica,Barbados
+51,53,1921,118,1,Pounds,Jamaica,Barbados
+51,53,1922,23,1,Pounds,Jamaica,Barbados
+51,53,1923,3,1,Pounds,Jamaica,Barbados
+51,53,1924,24,1,Pounds,Jamaica,Barbados
+51,53,1925,49,1,Pounds,Jamaica,Barbados
+51,53,1926,111,1,Pounds,Jamaica,Barbados
+51,53,1927,26,1,Pounds,Jamaica,Barbados
+51,53,1928,22,1,Pounds,Jamaica,Barbados
+51,53,1929,2,1,Pounds,Jamaica,Barbados
+51,53,1930,6,1,Pounds,Jamaica,Barbados
+51,53,1931,56,1,Pounds,Jamaica,Barbados
+51,53,1932,40,1,Pounds,Jamaica,Barbados
+51,53,1933,44,1,Pounds,Jamaica,Barbados
+51,53,1934,2,1,Pounds,Jamaica,Barbados
+51,53,1935,29,1,Pounds,Jamaica,Barbados
+51,53,1936,310,1,Pounds,Jamaica,Barbados
+51,53,1937,27,1,Pounds,Jamaica,Barbados
+51,53,1938,3,1,Pounds,Jamaica,Barbados
+51,53,1939,2,1,Pounds,Jamaica,Barbados
+51,53,1940,11,1,Pounds,Jamaica,Barbados
+51,53,1941,37,1,Pounds,Jamaica,Barbados
+51,53,1943,0,1,Pounds,Jamaica,Barbados
+51,53,1944,364,1,Pounds,Jamaica,Barbados
+51,53,1945,667,1,Pounds,Jamaica,Barbados
+51,53,1946,149,1,Pounds,Jamaica,Barbados
+51,53,1947,1201,1,,Jamaica,Barbados
+51,53,1948,1653,1,,Jamaica,Barbados
+51,53,1949,1778,1,,Jamaica,Barbados
+51,54,1920,0,1,Pounds,Jamaica,Dominica
+51,54,1921,0,1,Pounds,Jamaica,Dominica
+51,54,1922,0,1,Pounds,Jamaica,Dominica
+51,54,1923,0,1,Pounds,Jamaica,Dominica
+51,54,1924,0,1,Pounds,Jamaica,Dominica
+51,54,1925,5,1,Pounds,Jamaica,Dominica
+51,54,1926,0,1,Pounds,Jamaica,Dominica
+51,54,1927,68,1,Pounds,Jamaica,Dominica
+51,54,1928,434,1,Pounds,Jamaica,Dominica
+51,54,1929,0,1,Pounds,Jamaica,Dominica
+51,54,1930,0,1,Pounds,Jamaica,Dominica
+51,54,1931,0,1,Pounds,Jamaica,Dominica
+51,54,1932,0,1,Pounds,Jamaica,Dominica
+51,54,1933,0,1,Pounds,Jamaica,Dominica
+51,54,1934,0,1,Pounds,Jamaica,Dominica
+51,54,1935,0,1,Pounds,Jamaica,Dominica
+51,54,1936,0,1,Pounds,Jamaica,Dominica
+51,54,1937,0,1,Pounds,Jamaica,Dominica
+51,54,1938,0,1,Pounds,Jamaica,Dominica
+51,54,1939,0,1,Pounds,Jamaica,Dominica
+51,54,1940,10,1,Pounds,Jamaica,Dominica
+51,54,1941,0,1,Pounds,Jamaica,Dominica
+51,54,1943,272,1,Pounds,Jamaica,Dominica
+51,54,1944,0,1,Pounds,Jamaica,Dominica
+51,54,1945,0,1,Pounds,Jamaica,Dominica
+51,54,1946,0,1,Pounds,Jamaica,Dominica
+51,54,1947,250,1,,Jamaica,Dominica
+51,54,1948,39,1,,Jamaica,Dominica
+51,54,1949,240,1,,Jamaica,Dominica
+51,55,1920,0,1,Pounds,Jamaica,Grenada
+51,55,1921,0,1,Pounds,Jamaica,Grenada
+51,55,1922,0,1,Pounds,Jamaica,Grenada
+51,55,1923,0,1,Pounds,Jamaica,Grenada
+51,55,1924,0,1,Pounds,Jamaica,Grenada
+51,55,1925,0,1,Pounds,Jamaica,Grenada
+51,55,1926,46,1,Pounds,Jamaica,Grenada
+51,55,1927,34,1,Pounds,Jamaica,Grenada
+51,55,1928,0,1,Pounds,Jamaica,Grenada
+51,55,1929,21,1,Pounds,Jamaica,Grenada
+51,55,1930,484,1,Pounds,Jamaica,Grenada
+51,55,1931,378,1,Pounds,Jamaica,Grenada
+51,55,1932,363,1,Pounds,Jamaica,Grenada
+51,55,1933,638,1,Pounds,Jamaica,Grenada
+51,55,1934,0,1,Pounds,Jamaica,Grenada
+51,55,1935,0,1,Pounds,Jamaica,Grenada
+51,55,1936,0,1,Pounds,Jamaica,Grenada
+51,55,1937,0,1,Pounds,Jamaica,Grenada
+51,55,1938,1018,1,Pounds,Jamaica,Grenada
+51,55,1939,1176,1,Pounds,Jamaica,Grenada
+51,55,1940,894,1,Pounds,Jamaica,Grenada
+51,55,1941,1984,1,Pounds,Jamaica,Grenada
+51,55,1943,694,1,Pounds,Jamaica,Grenada
+51,55,1944,0,1,Pounds,Jamaica,Grenada
+51,55,1945,647,1,Pounds,Jamaica,Grenada
+51,55,1946,255,1,Pounds,Jamaica,Grenada
+51,55,1947,4664,1,,Jamaica,Grenada
+51,55,1948,1435,1,,Jamaica,Grenada
+51,55,1949,1099,1,,Jamaica,Grenada
+51,56,1920,0,1,Pounds,Jamaica,St. Lucia
+51,56,1921,0,1,Pounds,Jamaica,St. Lucia
+51,56,1922,77,1,Pounds,Jamaica,St. Lucia
+51,56,1923,158,1,Pounds,Jamaica,St. Lucia
+51,56,1924,1071,1,Pounds,Jamaica,St. Lucia
+51,56,1925,1804,1,Pounds,Jamaica,St. Lucia
+51,56,1926,1302,1,Pounds,Jamaica,St. Lucia
+51,56,1927,1749,1,Pounds,Jamaica,St. Lucia
+51,56,1928,787,1,Pounds,Jamaica,St. Lucia
+51,56,1929,938,1,Pounds,Jamaica,St. Lucia
+51,56,1930,628,1,Pounds,Jamaica,St. Lucia
+51,56,1931,425,1,Pounds,Jamaica,St. Lucia
+51,56,1932,44,1,Pounds,Jamaica,St. Lucia
+51,56,1933,90,1,Pounds,Jamaica,St. Lucia
+51,56,1934,7,1,Pounds,Jamaica,St. Lucia
+51,56,1935,21,1,Pounds,Jamaica,St. Lucia
+51,56,1936,15,1,Pounds,Jamaica,St. Lucia
+51,56,1937,24,1,Pounds,Jamaica,St. Lucia
+51,56,1938,38,1,Pounds,Jamaica,St. Lucia
+51,56,1939,22,1,Pounds,Jamaica,St. Lucia
+51,56,1940,59,1,Pounds,Jamaica,St. Lucia
+51,56,1941,68,1,Pounds,Jamaica,St. Lucia
+51,56,1943,0,1,Pounds,Jamaica,St. Lucia
+51,56,1944,0,1,Pounds,Jamaica,St. Lucia
+51,56,1945,213,1,Pounds,Jamaica,St. Lucia
+51,56,1946,0,1,Pounds,Jamaica,St. Lucia
+51,56,1947,100,1,,Jamaica,St. Lucia
+51,56,1948,689,1,,Jamaica,St. Lucia
+51,56,1949,471,1,,Jamaica,St. Lucia
+51,57,1920,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1921,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1922,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1923,63,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1924,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1925,102,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1926,116,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1927,30,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1928,70,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1929,107,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1930,99,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1931,193,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1932,180,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1933,158,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1934,30,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1935,91,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1936,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1937,66,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1938,34,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1939,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1940,95,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1941,84,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1943,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1944,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1945,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1946,0,1,Pounds,Jamaica,St. Vincent And The Grenadines
+51,57,1947,0,1,,Jamaica,St. Vincent And The Grenadines
+51,57,1948,25,1,,Jamaica,St. Vincent And The Grenadines
+51,57,1949,0,1,,Jamaica,St. Vincent And The Grenadines
+51,58,1920,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1921,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1922,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1923,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1924,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1925,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1926,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1927,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1928,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1929,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1930,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1931,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1932,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1933,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1934,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1935,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1936,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1937,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1938,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1939,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1940,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1941,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1943,3,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1944,2,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1945,0,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1946,6,1,Pounds,Jamaica,Antigua And Barbuda
+51,58,1947,1,1,,Jamaica,Antigua And Barbuda
+51,58,1948,0,1,,Jamaica,Antigua And Barbuda
+51,58,1949,3,1,,Jamaica,Antigua And Barbuda
+51,59,1920,0,1,Pounds,Jamaica,Montserrat
+51,59,1921,0,1,Pounds,Jamaica,Montserrat
+51,59,1922,0,1,Pounds,Jamaica,Montserrat
+51,59,1923,0,1,Pounds,Jamaica,Montserrat
+51,59,1924,0,1,Pounds,Jamaica,Montserrat
+51,59,1925,0,1,Pounds,Jamaica,Montserrat
+51,59,1926,0,1,Pounds,Jamaica,Montserrat
+51,59,1927,0,1,Pounds,Jamaica,Montserrat
+51,59,1928,0,1,Pounds,Jamaica,Montserrat
+51,59,1929,0,1,Pounds,Jamaica,Montserrat
+51,59,1930,0,1,Pounds,Jamaica,Montserrat
+51,59,1931,0,1,Pounds,Jamaica,Montserrat
+51,59,1932,0,1,Pounds,Jamaica,Montserrat
+51,59,1933,0,1,Pounds,Jamaica,Montserrat
+51,59,1934,0,1,Pounds,Jamaica,Montserrat
+51,59,1935,0,1,Pounds,Jamaica,Montserrat
+51,59,1936,0,1,Pounds,Jamaica,Montserrat
+51,59,1937,0,1,Pounds,Jamaica,Montserrat
+51,59,1938,0,1,Pounds,Jamaica,Montserrat
+51,59,1939,0,1,Pounds,Jamaica,Montserrat
+51,59,1940,0,1,Pounds,Jamaica,Montserrat
+51,59,1941,0,1,Pounds,Jamaica,Montserrat
+51,59,1943,0,1,Pounds,Jamaica,Montserrat
+51,59,1944,0,1,Pounds,Jamaica,Montserrat
+51,59,1945,0,1,Pounds,Jamaica,Montserrat
+51,59,1946,0,1,Pounds,Jamaica,Montserrat
+51,59,1947,0,1,,Jamaica,Montserrat
+51,59,1948,0,1,,Jamaica,Montserrat
+51,59,1949,0,1,,Jamaica,Montserrat
+51,60,1920,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1921,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1922,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1923,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1924,55,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1925,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1926,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1927,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1928,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1929,88,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1930,27,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1931,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1932,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1933,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1934,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1935,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1936,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1937,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1938,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1939,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1940,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1941,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1943,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1944,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1945,14,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1946,0,1,Pounds,Jamaica,St. Kitts And Nevis
+51,60,1947,0,1,,Jamaica,St. Kitts And Nevis
+51,60,1948,3,1,,Jamaica,St. Kitts And Nevis
+51,60,1949,13,1,,Jamaica,St. Kitts And Nevis
+51,66,1920,0,1,Pounds,Jamaica,Martinique
+51,66,1921,0,1,Pounds,Jamaica,Martinique
+51,66,1922,0,1,Pounds,Jamaica,Martinique
+51,66,1923,0,1,Pounds,Jamaica,Martinique
+51,66,1924,1,1,Pounds,Jamaica,Martinique
+51,66,1925,0,1,Pounds,Jamaica,Martinique
+51,66,1926,0,1,Pounds,Jamaica,Martinique
+51,66,1927,0,1,Pounds,Jamaica,Martinique
+51,66,1928,0,1,Pounds,Jamaica,Martinique
+51,66,1929,0,1,Pounds,Jamaica,Martinique
+51,66,1930,0,1,Pounds,Jamaica,Martinique
+51,66,1931,0,1,Pounds,Jamaica,Martinique
+51,66,1932,0,1,Pounds,Jamaica,Martinique
+51,66,1933,0,1,Pounds,Jamaica,Martinique
+51,66,1934,0,1,Pounds,Jamaica,Martinique
+51,66,1935,0,1,Pounds,Jamaica,Martinique
+51,66,1936,0,1,Pounds,Jamaica,Martinique
+51,66,1937,0,1,Pounds,Jamaica,Martinique
+51,66,1938,4,1,Pounds,Jamaica,Martinique
+51,66,1939,9,1,Pounds,Jamaica,Martinique
+51,66,1940,0,1,Pounds,Jamaica,Martinique
+51,66,1941,0,1,Pounds,Jamaica,Martinique
+51,66,1943,0,1,Pounds,Jamaica,Martinique
+51,66,1944,0,1,Pounds,Jamaica,Martinique
+51,66,1945,0,1,Pounds,Jamaica,Martinique
+51,66,1946,0,1,Pounds,Jamaica,Martinique
+51,66,1947,0,1,,Jamaica,Martinique
+51,66,1948,0,1,,Jamaica,Martinique
+51,66,1949,0,1,,Jamaica,Martinique
+51,68,1920,0,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1921,4280,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1922,35643,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1923,47610,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1924,49679,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1925,44001,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1926,19174,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1927,49198,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1928,19236,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1929,508903,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1930,25716,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1931,31204,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1932,49816,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1933,21601,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1934,17955,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1935,39660,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1936,48051,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1937,163382,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1938,157474,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1939,120438,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1940,139444,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1941,206830,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1943,141337,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1944,301230,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1945,226673,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1946,355849,1,Pounds,Jamaica,Netherlands Antilles
+51,68,1947,382964,1,,Jamaica,Netherlands Antilles
+51,68,1948,807658,1,,Jamaica,Netherlands Antilles
+51,68,1949,835889,1,,Jamaica,Netherlands Antilles
+51,70,1920,0,1,Pounds,Jamaica,Mexico
+51,70,1921,0,1,Pounds,Jamaica,Mexico
+51,70,1922,0,1,Pounds,Jamaica,Mexico
+51,70,1923,4,1,Pounds,Jamaica,Mexico
+51,70,1924,0,1,Pounds,Jamaica,Mexico
+51,70,1925,7,1,Pounds,Jamaica,Mexico
+51,70,1926,14,1,Pounds,Jamaica,Mexico
+51,70,1927,59,1,Pounds,Jamaica,Mexico
+51,70,1928,91,1,Pounds,Jamaica,Mexico
+51,70,1929,49,1,Pounds,Jamaica,Mexico
+51,70,1930,151,1,Pounds,Jamaica,Mexico
+51,70,1931,4,1,Pounds,Jamaica,Mexico
+51,70,1932,142,1,Pounds,Jamaica,Mexico
+51,70,1933,28,1,Pounds,Jamaica,Mexico
+51,70,1934,117,1,Pounds,Jamaica,Mexico
+51,70,1935,153,1,Pounds,Jamaica,Mexico
+51,70,1936,225,1,Pounds,Jamaica,Mexico
+51,70,1937,284,1,Pounds,Jamaica,Mexico
+51,70,1938,114,1,Pounds,Jamaica,Mexico
+51,70,1939,209,1,Pounds,Jamaica,Mexico
+51,70,1940,29,1,Pounds,Jamaica,Mexico
+51,70,1941,11,1,Pounds,Jamaica,Mexico
+51,70,1943,1166,1,Pounds,Jamaica,Mexico
+51,70,1944,1,1,Pounds,Jamaica,Mexico
+51,70,1945,18,1,Pounds,Jamaica,Mexico
+51,70,1946,430,1,Pounds,Jamaica,Mexico
+51,70,1947,19550,1,,Jamaica,Mexico
+51,70,1948,62670,1,,Jamaica,Mexico
+51,70,1949,7868,1,,Jamaica,Mexico
+51,80,1920,0,1,Pounds,Jamaica,Belize
+51,80,1921,51,1,Pounds,Jamaica,Belize
+51,80,1922,550,1,Pounds,Jamaica,Belize
+51,80,1923,219,1,Pounds,Jamaica,Belize
+51,80,1924,135,1,Pounds,Jamaica,Belize
+51,80,1925,58,1,Pounds,Jamaica,Belize
+51,80,1926,17,1,Pounds,Jamaica,Belize
+51,80,1927,8,1,Pounds,Jamaica,Belize
+51,80,1928,109,1,Pounds,Jamaica,Belize
+51,80,1929,67,1,Pounds,Jamaica,Belize
+51,80,1930,54,1,Pounds,Jamaica,Belize
+51,80,1931,523,1,Pounds,Jamaica,Belize
+51,80,1932,71,1,Pounds,Jamaica,Belize
+51,80,1933,43,1,Pounds,Jamaica,Belize
+51,80,1934,337,1,Pounds,Jamaica,Belize
+51,80,1935,257,1,Pounds,Jamaica,Belize
+51,80,1936,445,1,Pounds,Jamaica,Belize
+51,80,1937,174,1,Pounds,Jamaica,Belize
+51,80,1938,338,1,Pounds,Jamaica,Belize
+51,80,1939,658,1,Pounds,Jamaica,Belize
+51,80,1940,1627,1,Pounds,Jamaica,Belize
+51,80,1941,2352,1,Pounds,Jamaica,Belize
+51,80,1943,13765,1,Pounds,Jamaica,Belize
+51,80,1944,27105,1,Pounds,Jamaica,Belize
+51,80,1945,20999,1,Pounds,Jamaica,Belize
+51,80,1946,60337,1,Pounds,Jamaica,Belize
+51,80,1947,46134,1,,Jamaica,Belize
+51,80,1948,130727,1,,Jamaica,Belize
+51,80,1949,203875,1,,Jamaica,Belize
+51,90,1920,0,1,Pounds,Jamaica,Guatemala
+51,90,1921,2,1,Pounds,Jamaica,Guatemala
+51,90,1922,2,1,Pounds,Jamaica,Guatemala
+51,90,1923,0,1,Pounds,Jamaica,Guatemala
+51,90,1924,1,1,Pounds,Jamaica,Guatemala
+51,90,1925,27,1,Pounds,Jamaica,Guatemala
+51,90,1926,2,1,Pounds,Jamaica,Guatemala
+51,90,1927,0,1,Pounds,Jamaica,Guatemala
+51,90,1928,0,1,Pounds,Jamaica,Guatemala
+51,90,1929,41,1,Pounds,Jamaica,Guatemala
+51,90,1930,29,1,Pounds,Jamaica,Guatemala
+51,90,1931,4,1,Pounds,Jamaica,Guatemala
+51,90,1932,0,1,Pounds,Jamaica,Guatemala
+51,90,1933,0,1,Pounds,Jamaica,Guatemala
+51,90,1934,0,1,Pounds,Jamaica,Guatemala
+51,90,1935,0,1,Pounds,Jamaica,Guatemala
+51,90,1936,0,1,Pounds,Jamaica,Guatemala
+51,90,1937,0,1,Pounds,Jamaica,Guatemala
+51,90,1938,7,1,Pounds,Jamaica,Guatemala
+51,90,1939,69,1,Pounds,Jamaica,Guatemala
+51,90,1940,0,1,Pounds,Jamaica,Guatemala
+51,90,1941,0,1,Pounds,Jamaica,Guatemala
+51,90,1943,6254,1,Pounds,Jamaica,Guatemala
+51,90,1944,875,1,Pounds,Jamaica,Guatemala
+51,90,1945,0,1,Pounds,Jamaica,Guatemala
+51,90,1946,0,1,Pounds,Jamaica,Guatemala
+51,90,1947,2169,1,,Jamaica,Guatemala
+51,90,1948,8246,1,,Jamaica,Guatemala
+51,90,1949,1758,1,,Jamaica,Guatemala
+51,91,1920,0,1,Pounds,Jamaica,Honduras
+51,91,1921,0,1,Pounds,Jamaica,Honduras
+51,91,1922,1,1,Pounds,Jamaica,Honduras
+51,91,1923,12,1,Pounds,Jamaica,Honduras
+51,91,1924,14,1,Pounds,Jamaica,Honduras
+51,91,1925,100,1,Pounds,Jamaica,Honduras
+51,91,1926,0,1,Pounds,Jamaica,Honduras
+51,91,1927,21,1,Pounds,Jamaica,Honduras
+51,91,1928,19,1,Pounds,Jamaica,Honduras
+51,91,1929,23,1,Pounds,Jamaica,Honduras
+51,91,1930,24,1,Pounds,Jamaica,Honduras
+51,91,1931,9,1,Pounds,Jamaica,Honduras
+51,91,1932,111,1,Pounds,Jamaica,Honduras
+51,91,1933,30,1,Pounds,Jamaica,Honduras
+51,91,1934,0,1,Pounds,Jamaica,Honduras
+51,91,1935,0,1,Pounds,Jamaica,Honduras
+51,91,1936,2,1,Pounds,Jamaica,Honduras
+51,91,1937,1,1,Pounds,Jamaica,Honduras
+51,91,1938,0,1,Pounds,Jamaica,Honduras
+51,91,1939,0,1,Pounds,Jamaica,Honduras
+51,91,1940,0,1,Pounds,Jamaica,Honduras
+51,91,1941,0,1,Pounds,Jamaica,Honduras
+51,91,1943,0,1,Pounds,Jamaica,Honduras
+51,91,1944,0,1,Pounds,Jamaica,Honduras
+51,91,1945,0,1,Pounds,Jamaica,Honduras
+51,91,1946,19285,1,Pounds,Jamaica,Honduras
+51,91,1947,61453,1,,Jamaica,Honduras
+51,91,1948,15964,1,,Jamaica,Honduras
+51,91,1949,17,1,,Jamaica,Honduras
+51,92,1920,0,1,Pounds,Jamaica,El Salvador
+51,92,1921,0,1,Pounds,Jamaica,El Salvador
+51,92,1922,0,1,Pounds,Jamaica,El Salvador
+51,92,1923,0,1,Pounds,Jamaica,El Salvador
+51,92,1924,0,1,Pounds,Jamaica,El Salvador
+51,92,1925,1,1,Pounds,Jamaica,El Salvador
+51,92,1926,0,1,Pounds,Jamaica,El Salvador
+51,92,1927,0,1,Pounds,Jamaica,El Salvador
+51,92,1928,1,1,Pounds,Jamaica,El Salvador
+51,92,1929,0,1,Pounds,Jamaica,El Salvador
+51,92,1930,1,1,Pounds,Jamaica,El Salvador
+51,92,1931,0,1,Pounds,Jamaica,El Salvador
+51,92,1932,0,1,Pounds,Jamaica,El Salvador
+51,92,1933,0,1,Pounds,Jamaica,El Salvador
+51,92,1934,0,1,Pounds,Jamaica,El Salvador
+51,92,1935,0,1,Pounds,Jamaica,El Salvador
+51,92,1936,0,1,Pounds,Jamaica,El Salvador
+51,92,1937,0,1,Pounds,Jamaica,El Salvador
+51,92,1938,1,1,Pounds,Jamaica,El Salvador
+51,92,1939,4,1,Pounds,Jamaica,El Salvador
+51,92,1940,3,1,Pounds,Jamaica,El Salvador
+51,92,1941,4,1,Pounds,Jamaica,El Salvador
+51,92,1943,0,1,Pounds,Jamaica,El Salvador
+51,92,1944,1,1,Pounds,Jamaica,El Salvador
+51,92,1945,0,1,Pounds,Jamaica,El Salvador
+51,92,1946,0,1,Pounds,Jamaica,El Salvador
+51,92,1947,0,1,,Jamaica,El Salvador
+51,92,1948,1,1,,Jamaica,El Salvador
+51,92,1949,6,1,,Jamaica,El Salvador
+51,93,1920,193,1,Pounds,Jamaica,Nicaragua
+51,93,1921,0,1,Pounds,Jamaica,Nicaragua
+51,93,1922,0,1,Pounds,Jamaica,Nicaragua
+51,93,1923,1735,1,Pounds,Jamaica,Nicaragua
+51,93,1924,1129,1,Pounds,Jamaica,Nicaragua
+51,93,1925,3077,1,Pounds,Jamaica,Nicaragua
+51,93,1926,1,1,Pounds,Jamaica,Nicaragua
+51,93,1927,2076,1,Pounds,Jamaica,Nicaragua
+51,93,1928,4401,1,Pounds,Jamaica,Nicaragua
+51,93,1929,15427,1,Pounds,Jamaica,Nicaragua
+51,93,1930,20537,1,Pounds,Jamaica,Nicaragua
+51,93,1931,2817,1,Pounds,Jamaica,Nicaragua
+51,93,1932,0,1,Pounds,Jamaica,Nicaragua
+51,93,1933,0,1,Pounds,Jamaica,Nicaragua
+51,93,1934,1081,1,Pounds,Jamaica,Nicaragua
+51,93,1935,0,1,Pounds,Jamaica,Nicaragua
+51,93,1936,6,1,Pounds,Jamaica,Nicaragua
+51,93,1937,0,1,Pounds,Jamaica,Nicaragua
+51,93,1938,69,1,Pounds,Jamaica,Nicaragua
+51,93,1939,0,1,Pounds,Jamaica,Nicaragua
+51,93,1940,0,1,Pounds,Jamaica,Nicaragua
+51,93,1941,0,1,Pounds,Jamaica,Nicaragua
+51,93,1943,0,1,Pounds,Jamaica,Nicaragua
+51,93,1944,0,1,Pounds,Jamaica,Nicaragua
+51,93,1945,4440,1,Pounds,Jamaica,Nicaragua
+51,93,1946,2,1,Pounds,Jamaica,Nicaragua
+51,93,1947,8621,1,,Jamaica,Nicaragua
+51,93,1948,848,1,,Jamaica,Nicaragua
+51,93,1949,3618,1,,Jamaica,Nicaragua
+51,94,1920,8415,1,Pounds,Jamaica,Costa Rica
+51,94,1921,4631,1,Pounds,Jamaica,Costa Rica
+51,94,1922,4,1,Pounds,Jamaica,Costa Rica
+51,94,1923,6,1,Pounds,Jamaica,Costa Rica
+51,94,1924,57,1,Pounds,Jamaica,Costa Rica
+51,94,1925,151,1,Pounds,Jamaica,Costa Rica
+51,94,1926,123,1,Pounds,Jamaica,Costa Rica
+51,94,1927,152,1,Pounds,Jamaica,Costa Rica
+51,94,1928,36,1,Pounds,Jamaica,Costa Rica
+51,94,1929,273,1,Pounds,Jamaica,Costa Rica
+51,94,1930,289,1,Pounds,Jamaica,Costa Rica
+51,94,1931,4,1,Pounds,Jamaica,Costa Rica
+51,94,1932,4,1,Pounds,Jamaica,Costa Rica
+51,94,1933,34,1,Pounds,Jamaica,Costa Rica
+51,94,1934,11,1,Pounds,Jamaica,Costa Rica
+51,94,1935,0,1,Pounds,Jamaica,Costa Rica
+51,94,1936,34,1,Pounds,Jamaica,Costa Rica
+51,94,1937,150,1,Pounds,Jamaica,Costa Rica
+51,94,1938,65,1,Pounds,Jamaica,Costa Rica
+51,94,1939,286,1,Pounds,Jamaica,Costa Rica
+51,94,1940,287,1,Pounds,Jamaica,Costa Rica
+51,94,1941,13,1,Pounds,Jamaica,Costa Rica
+51,94,1943,0,1,Pounds,Jamaica,Costa Rica
+51,94,1944,2,1,Pounds,Jamaica,Costa Rica
+51,94,1945,1,1,Pounds,Jamaica,Costa Rica
+51,94,1946,2,1,Pounds,Jamaica,Costa Rica
+51,94,1947,0,1,,Jamaica,Costa Rica
+51,94,1948,0,1,,Jamaica,Costa Rica
+51,94,1949,6,1,,Jamaica,Costa Rica
+51,95,1920,458,1,Pounds,Jamaica,Panama
+51,95,1921,904,1,Pounds,Jamaica,Panama
+51,95,1922,1587,1,Pounds,Jamaica,Panama
+51,95,1923,8424,1,Pounds,Jamaica,Panama
+51,95,1924,21558,1,Pounds,Jamaica,Panama
+51,95,1925,12376,1,Pounds,Jamaica,Panama
+51,95,1926,3907,1,Pounds,Jamaica,Panama
+51,95,1927,821,1,Pounds,Jamaica,Panama
+51,95,1928,448,1,Pounds,Jamaica,Panama
+51,95,1929,691,1,Pounds,Jamaica,Panama
+51,95,1930,438,1,Pounds,Jamaica,Panama
+51,95,1931,997,1,Pounds,Jamaica,Panama
+51,95,1932,624,1,Pounds,Jamaica,Panama
+51,95,1933,1146,1,Pounds,Jamaica,Panama
+51,95,1934,3209,1,Pounds,Jamaica,Panama
+51,95,1935,2033,1,Pounds,Jamaica,Panama
+51,95,1936,1576,1,Pounds,Jamaica,Panama
+51,95,1937,245,1,Pounds,Jamaica,Panama
+51,95,1938,572,1,Pounds,Jamaica,Panama
+51,95,1939,550,1,Pounds,Jamaica,Panama
+51,95,1940,306,1,Pounds,Jamaica,Panama
+51,95,1941,544,1,Pounds,Jamaica,Panama
+51,95,1943,765,1,Pounds,Jamaica,Panama
+51,95,1944,909,1,Pounds,Jamaica,Panama
+51,95,1945,791,1,Pounds,Jamaica,Panama
+51,95,1946,158,1,Pounds,Jamaica,Panama
+51,95,1947,754,1,,Jamaica,Panama
+51,95,1948,136,1,,Jamaica,Panama
+51,95,1949,222,1,,Jamaica,Panama
+51,100,1920,239,1,Pounds,Jamaica,Colombia
+51,100,1921,406,1,Pounds,Jamaica,Colombia
+51,100,1922,857,1,Pounds,Jamaica,Colombia
+51,100,1923,1546,1,Pounds,Jamaica,Colombia
+51,100,1924,2060,1,Pounds,Jamaica,Colombia
+51,100,1925,629,1,Pounds,Jamaica,Colombia
+51,100,1926,243,1,Pounds,Jamaica,Colombia
+51,100,1927,205,1,Pounds,Jamaica,Colombia
+51,100,1928,157,1,Pounds,Jamaica,Colombia
+51,100,1929,345,1,Pounds,Jamaica,Colombia
+51,100,1930,1235,1,Pounds,Jamaica,Colombia
+51,100,1931,564,1,Pounds,Jamaica,Colombia
+51,100,1932,4,1,Pounds,Jamaica,Colombia
+51,100,1933,7,1,Pounds,Jamaica,Colombia
+51,100,1934,5,1,Pounds,Jamaica,Colombia
+51,100,1935,11,1,Pounds,Jamaica,Colombia
+51,100,1936,25,1,Pounds,Jamaica,Colombia
+51,100,1937,48,1,Pounds,Jamaica,Colombia
+51,100,1938,202,1,Pounds,Jamaica,Colombia
+51,100,1939,26,1,Pounds,Jamaica,Colombia
+51,100,1940,159,1,Pounds,Jamaica,Colombia
+51,100,1941,18,1,Pounds,Jamaica,Colombia
+51,100,1943,166,1,Pounds,Jamaica,Colombia
+51,100,1944,992,1,Pounds,Jamaica,Colombia
+51,100,1945,62,1,Pounds,Jamaica,Colombia
+51,100,1946,166,1,Pounds,Jamaica,Colombia
+51,100,1947,556,1,,Jamaica,Colombia
+51,100,1948,0,1,,Jamaica,Colombia
+51,100,1949,20194,1,,Jamaica,Colombia
+51,101,1920,0,1,Pounds,Jamaica,Venezuela
+51,101,1921,0,1,Pounds,Jamaica,Venezuela
+51,101,1922,0,1,Pounds,Jamaica,Venezuela
+51,101,1923,3017,1,Pounds,Jamaica,Venezuela
+51,101,1924,848,1,Pounds,Jamaica,Venezuela
+51,101,1925,26,1,Pounds,Jamaica,Venezuela
+51,101,1926,0,1,Pounds,Jamaica,Venezuela
+51,101,1927,0,1,Pounds,Jamaica,Venezuela
+51,101,1928,3,1,Pounds,Jamaica,Venezuela
+51,101,1929,38,1,Pounds,Jamaica,Venezuela
+51,101,1930,32,1,Pounds,Jamaica,Venezuela
+51,101,1931,7,1,Pounds,Jamaica,Venezuela
+51,101,1932,2,1,Pounds,Jamaica,Venezuela
+51,101,1933,22,1,Pounds,Jamaica,Venezuela
+51,101,1934,17,1,Pounds,Jamaica,Venezuela
+51,101,1935,17,1,Pounds,Jamaica,Venezuela
+51,101,1936,4,1,Pounds,Jamaica,Venezuela
+51,101,1937,42,1,Pounds,Jamaica,Venezuela
+51,101,1938,6,1,Pounds,Jamaica,Venezuela
+51,101,1939,19,1,Pounds,Jamaica,Venezuela
+51,101,1940,49,1,Pounds,Jamaica,Venezuela
+51,101,1941,14,1,Pounds,Jamaica,Venezuela
+51,101,1943,3,1,Pounds,Jamaica,Venezuela
+51,101,1944,1,1,Pounds,Jamaica,Venezuela
+51,101,1945,2,1,Pounds,Jamaica,Venezuela
+51,101,1946,1,1,Pounds,Jamaica,Venezuela
+51,101,1947,0,1,,Jamaica,Venezuela
+51,101,1948,9,1,,Jamaica,Venezuela
+51,101,1949,83,1,,Jamaica,Venezuela
+51,110,1920,16283,1,Pounds,Jamaica,Guyana
+51,110,1921,0,1,Pounds,Jamaica,Guyana
+51,110,1922,4671,1,Pounds,Jamaica,Guyana
+51,110,1923,0,1,Pounds,Jamaica,Guyana
+51,110,1924,1,1,Pounds,Jamaica,Guyana
+51,110,1925,0,1,Pounds,Jamaica,Guyana
+51,110,1926,250,1,Pounds,Jamaica,Guyana
+51,110,1927,5345,1,Pounds,Jamaica,Guyana
+51,110,1928,11687,1,Pounds,Jamaica,Guyana
+51,110,1929,13674,1,Pounds,Jamaica,Guyana
+51,110,1930,23350,1,Pounds,Jamaica,Guyana
+51,110,1931,45520,1,Pounds,Jamaica,Guyana
+51,110,1932,46397,1,Pounds,Jamaica,Guyana
+51,110,1933,69015,1,Pounds,Jamaica,Guyana
+51,110,1934,17681,1,Pounds,Jamaica,Guyana
+51,110,1935,3071,1,Pounds,Jamaica,Guyana
+51,110,1936,6312,1,Pounds,Jamaica,Guyana
+51,110,1937,16028,1,Pounds,Jamaica,Guyana
+51,110,1938,5665,1,Pounds,Jamaica,Guyana
+51,110,1939,5458,1,Pounds,Jamaica,Guyana
+51,110,1940,16518,1,Pounds,Jamaica,Guyana
+51,110,1941,3851,1,Pounds,Jamaica,Guyana
+51,110,1943,114,1,Pounds,Jamaica,Guyana
+51,110,1944,92196,1,Pounds,Jamaica,Guyana
+51,110,1945,362,1,Pounds,Jamaica,Guyana
+51,110,1946,1685,1,Pounds,Jamaica,Guyana
+51,110,1947,5057,1,,Jamaica,Guyana
+51,110,1948,7435,1,,Jamaica,Guyana
+51,110,1949,20731,1,,Jamaica,Guyana
+51,115,1920,0,1,Pounds,Jamaica,Suriname
+51,115,1921,0,1,Pounds,Jamaica,Suriname
+51,115,1922,0,1,Pounds,Jamaica,Suriname
+51,115,1923,0,1,Pounds,Jamaica,Suriname
+51,115,1924,0,1,Pounds,Jamaica,Suriname
+51,115,1925,6,1,Pounds,Jamaica,Suriname
+51,115,1926,0,1,Pounds,Jamaica,Suriname
+51,115,1927,0,1,Pounds,Jamaica,Suriname
+51,115,1928,0,1,Pounds,Jamaica,Suriname
+51,115,1929,0,1,Pounds,Jamaica,Suriname
+51,115,1930,0,1,Pounds,Jamaica,Suriname
+51,115,1931,4,1,Pounds,Jamaica,Suriname
+51,115,1932,0,1,Pounds,Jamaica,Suriname
+51,115,1933,0,1,Pounds,Jamaica,Suriname
+51,115,1934,0,1,Pounds,Jamaica,Suriname
+51,115,1935,0,1,Pounds,Jamaica,Suriname
+51,115,1936,18,1,Pounds,Jamaica,Suriname
+51,115,1937,70,1,Pounds,Jamaica,Suriname
+51,115,1938,0,1,Pounds,Jamaica,Suriname
+51,115,1939,0,1,Pounds,Jamaica,Suriname
+51,115,1940,28,1,Pounds,Jamaica,Suriname
+51,115,1941,0,1,Pounds,Jamaica,Suriname
+51,115,1943,0,1,Pounds,Jamaica,Suriname
+51,115,1944,0,1,Pounds,Jamaica,Suriname
+51,115,1945,0,1,Pounds,Jamaica,Suriname
+51,115,1946,0,1,Pounds,Jamaica,Suriname
+51,115,1947,0,1,,Jamaica,Suriname
+51,115,1948,172,1,,Jamaica,Suriname
+51,115,1949,0,1,,Jamaica,Suriname
+51,120,1920,0,1,Pounds,Jamaica,French Guiana
+51,120,1921,0,1,Pounds,Jamaica,French Guiana
+51,120,1922,0,1,Pounds,Jamaica,French Guiana
+51,120,1923,0,1,Pounds,Jamaica,French Guiana
+51,120,1924,0,1,Pounds,Jamaica,French Guiana
+51,120,1925,0,1,Pounds,Jamaica,French Guiana
+51,120,1926,0,1,Pounds,Jamaica,French Guiana
+51,120,1927,0,1,Pounds,Jamaica,French Guiana
+51,120,1928,0,1,Pounds,Jamaica,French Guiana
+51,120,1929,0,1,Pounds,Jamaica,French Guiana
+51,120,1930,0,1,Pounds,Jamaica,French Guiana
+51,120,1931,0,1,Pounds,Jamaica,French Guiana
+51,120,1932,0,1,Pounds,Jamaica,French Guiana
+51,120,1933,0,1,Pounds,Jamaica,French Guiana
+51,120,1934,0,1,Pounds,Jamaica,French Guiana
+51,120,1935,0,1,Pounds,Jamaica,French Guiana
+51,120,1936,4,1,Pounds,Jamaica,French Guiana
+51,120,1937,0,1,Pounds,Jamaica,French Guiana
+51,120,1938,0,1,Pounds,Jamaica,French Guiana
+51,120,1939,0,1,Pounds,Jamaica,French Guiana
+51,120,1940,0,1,Pounds,Jamaica,French Guiana
+51,120,1941,0,1,Pounds,Jamaica,French Guiana
+51,120,1943,0,1,Pounds,Jamaica,French Guiana
+51,120,1944,0,1,Pounds,Jamaica,French Guiana
+51,120,1945,0,1,Pounds,Jamaica,French Guiana
+51,120,1946,0,1,Pounds,Jamaica,French Guiana
+51,120,1947,0,1,,Jamaica,French Guiana
+51,120,1948,0,1,,Jamaica,French Guiana
+51,120,1949,673,1,,Jamaica,French Guiana
+51,130,1920,0,1,Pounds,Jamaica,Ecuador
+51,130,1921,0,1,Pounds,Jamaica,Ecuador
+51,130,1922,0,1,Pounds,Jamaica,Ecuador
+51,130,1923,0,1,Pounds,Jamaica,Ecuador
+51,130,1924,0,1,Pounds,Jamaica,Ecuador
+51,130,1925,0,1,Pounds,Jamaica,Ecuador
+51,130,1926,0,1,Pounds,Jamaica,Ecuador
+51,130,1927,0,1,Pounds,Jamaica,Ecuador
+51,130,1928,0,1,Pounds,Jamaica,Ecuador
+51,130,1929,0,1,Pounds,Jamaica,Ecuador
+51,130,1930,0,1,Pounds,Jamaica,Ecuador
+51,130,1931,0,1,Pounds,Jamaica,Ecuador
+51,130,1932,0,1,Pounds,Jamaica,Ecuador
+51,130,1933,1,1,Pounds,Jamaica,Ecuador
+51,130,1934,0,1,Pounds,Jamaica,Ecuador
+51,130,1935,0,1,Pounds,Jamaica,Ecuador
+51,130,1936,0,1,Pounds,Jamaica,Ecuador
+51,130,1937,0,1,Pounds,Jamaica,Ecuador
+51,130,1938,0,1,Pounds,Jamaica,Ecuador
+51,130,1939,1,1,Pounds,Jamaica,Ecuador
+51,130,1940,0,1,Pounds,Jamaica,Ecuador
+51,130,1941,0,1,Pounds,Jamaica,Ecuador
+51,130,1943,0,1,Pounds,Jamaica,Ecuador
+51,130,1944,0,1,Pounds,Jamaica,Ecuador
+51,130,1945,0,1,Pounds,Jamaica,Ecuador
+51,130,1946,387059,1,Pounds,Jamaica,Ecuador
+51,130,1947,331333,1,,Jamaica,Ecuador
+51,130,1948,1178,1,,Jamaica,Ecuador
+51,130,1949,0,1,,Jamaica,Ecuador
+51,135,1920,0,1,Pounds,Jamaica,Peru
+51,135,1921,0,1,Pounds,Jamaica,Peru
+51,135,1922,1,1,Pounds,Jamaica,Peru
+51,135,1923,2170,1,Pounds,Jamaica,Peru
+51,135,1924,2,1,Pounds,Jamaica,Peru
+51,135,1925,7,1,Pounds,Jamaica,Peru
+51,135,1926,7038,1,Pounds,Jamaica,Peru
+51,135,1927,16240,1,Pounds,Jamaica,Peru
+51,135,1928,13477,1,Pounds,Jamaica,Peru
+51,135,1929,3227,1,Pounds,Jamaica,Peru
+51,135,1930,2902,1,Pounds,Jamaica,Peru
+51,135,1931,2,1,Pounds,Jamaica,Peru
+51,135,1932,2,1,Pounds,Jamaica,Peru
+51,135,1933,0,1,Pounds,Jamaica,Peru
+51,135,1934,3,1,Pounds,Jamaica,Peru
+51,135,1935,7,1,Pounds,Jamaica,Peru
+51,135,1936,8,1,Pounds,Jamaica,Peru
+51,135,1937,0,1,Pounds,Jamaica,Peru
+51,135,1938,2,1,Pounds,Jamaica,Peru
+51,135,1939,7,1,Pounds,Jamaica,Peru
+51,135,1940,3,1,Pounds,Jamaica,Peru
+51,135,1941,2,1,Pounds,Jamaica,Peru
+51,135,1943,2,1,Pounds,Jamaica,Peru
+51,135,1944,0,1,Pounds,Jamaica,Peru
+51,135,1945,8,1,Pounds,Jamaica,Peru
+51,135,1946,0,1,Pounds,Jamaica,Peru
+51,135,1947,0,1,,Jamaica,Peru
+51,135,1948,0,1,,Jamaica,Peru
+51,135,1949,0,1,,Jamaica,Peru
+51,140,1920,842,1,Pounds,Jamaica,Brazil
+51,140,1921,0,1,Pounds,Jamaica,Brazil
+51,140,1922,54,1,Pounds,Jamaica,Brazil
+51,140,1923,267,1,Pounds,Jamaica,Brazil
+51,140,1924,173,1,Pounds,Jamaica,Brazil
+51,140,1925,74,1,Pounds,Jamaica,Brazil
+51,140,1926,68,1,Pounds,Jamaica,Brazil
+51,140,1927,67,1,Pounds,Jamaica,Brazil
+51,140,1928,89,1,Pounds,Jamaica,Brazil
+51,140,1929,42,1,Pounds,Jamaica,Brazil
+51,140,1930,309,1,Pounds,Jamaica,Brazil
+51,140,1931,155,1,Pounds,Jamaica,Brazil
+51,140,1932,188,1,Pounds,Jamaica,Brazil
+51,140,1933,648,1,Pounds,Jamaica,Brazil
+51,140,1934,369,1,Pounds,Jamaica,Brazil
+51,140,1935,515,1,Pounds,Jamaica,Brazil
+51,140,1936,575,1,Pounds,Jamaica,Brazil
+51,140,1937,12049,1,Pounds,Jamaica,Brazil
+51,140,1938,10596,1,Pounds,Jamaica,Brazil
+51,140,1939,8377,1,Pounds,Jamaica,Brazil
+51,140,1940,6569,1,Pounds,Jamaica,Brazil
+51,140,1941,6930,1,Pounds,Jamaica,Brazil
+51,140,1943,21,1,Pounds,Jamaica,Brazil
+51,140,1944,611,1,Pounds,Jamaica,Brazil
+51,140,1945,1122,1,Pounds,Jamaica,Brazil
+51,140,1946,1472,1,Pounds,Jamaica,Brazil
+51,140,1947,39911,1,,Jamaica,Brazil
+51,140,1948,233641,1,,Jamaica,Brazil
+51,140,1949,25532,1,,Jamaica,Brazil
+51,145,1920,0,1,Pounds,Jamaica,Bolivia
+51,145,1921,0,1,Pounds,Jamaica,Bolivia
+51,145,1922,0,1,Pounds,Jamaica,Bolivia
+51,145,1923,0,1,Pounds,Jamaica,Bolivia
+51,145,1924,0,1,Pounds,Jamaica,Bolivia
+51,145,1925,0,1,Pounds,Jamaica,Bolivia
+51,145,1926,0,1,Pounds,Jamaica,Bolivia
+51,145,1927,0,1,Pounds,Jamaica,Bolivia
+51,145,1928,0,1,Pounds,Jamaica,Bolivia
+51,145,1929,0,1,Pounds,Jamaica,Bolivia
+51,145,1930,0,1,Pounds,Jamaica,Bolivia
+51,145,1931,0,1,Pounds,Jamaica,Bolivia
+51,145,1932,1,1,Pounds,Jamaica,Bolivia
+51,145,1933,0,1,Pounds,Jamaica,Bolivia
+51,145,1934,0,1,Pounds,Jamaica,Bolivia
+51,145,1935,0,1,Pounds,Jamaica,Bolivia
+51,145,1936,0,1,Pounds,Jamaica,Bolivia
+51,145,1937,0,1,Pounds,Jamaica,Bolivia
+51,145,1938,0,1,Pounds,Jamaica,Bolivia
+51,145,1939,0,1,Pounds,Jamaica,Bolivia
+51,145,1940,0,1,Pounds,Jamaica,Bolivia
+51,145,1941,0,1,Pounds,Jamaica,Bolivia
+51,145,1943,0,1,Pounds,Jamaica,Bolivia
+51,145,1944,0,1,Pounds,Jamaica,Bolivia
+51,145,1945,0,1,Pounds,Jamaica,Bolivia
+51,145,1946,0,1,Pounds,Jamaica,Bolivia
+51,145,1947,0,1,,Jamaica,Bolivia
+51,145,1948,0,1,,Jamaica,Bolivia
+51,145,1949,0,1,,Jamaica,Bolivia
+51,150,1920,0,1,Pounds,Jamaica,Paraguay
+51,150,1921,0,1,Pounds,Jamaica,Paraguay
+51,150,1922,0,1,Pounds,Jamaica,Paraguay
+51,150,1923,0,1,Pounds,Jamaica,Paraguay
+51,150,1924,0,1,Pounds,Jamaica,Paraguay
+51,150,1925,0,1,Pounds,Jamaica,Paraguay
+51,150,1926,0,1,Pounds,Jamaica,Paraguay
+51,150,1927,0,1,Pounds,Jamaica,Paraguay
+51,150,1928,0,1,Pounds,Jamaica,Paraguay
+51,150,1929,0,1,Pounds,Jamaica,Paraguay
+51,150,1930,0,1,Pounds,Jamaica,Paraguay
+51,150,1931,0,1,Pounds,Jamaica,Paraguay
+51,150,1932,0,1,Pounds,Jamaica,Paraguay
+51,150,1933,0,1,Pounds,Jamaica,Paraguay
+51,150,1934,0,1,Pounds,Jamaica,Paraguay
+51,150,1935,0,1,Pounds,Jamaica,Paraguay
+51,150,1936,47,1,Pounds,Jamaica,Paraguay
+51,150,1937,54,1,Pounds,Jamaica,Paraguay
+51,150,1938,168,1,Pounds,Jamaica,Paraguay
+51,150,1939,90,1,Pounds,Jamaica,Paraguay
+51,150,1940,0,1,Pounds,Jamaica,Paraguay
+51,150,1941,0,1,Pounds,Jamaica,Paraguay
+51,150,1943,0,1,Pounds,Jamaica,Paraguay
+51,150,1944,0,1,Pounds,Jamaica,Paraguay
+51,150,1945,0,1,Pounds,Jamaica,Paraguay
+51,150,1946,0,1,Pounds,Jamaica,Paraguay
+51,150,1947,12857,1,,Jamaica,Paraguay
+51,150,1948,0,1,,Jamaica,Paraguay
+51,150,1949,0,1,,Jamaica,Paraguay
+51,155,1920,0,1,Pounds,Jamaica,Chile
+51,155,1921,0,1,Pounds,Jamaica,Chile
+51,155,1922,0,1,Pounds,Jamaica,Chile
+51,155,1923,34,1,Pounds,Jamaica,Chile
+51,155,1924,224,1,Pounds,Jamaica,Chile
+51,155,1925,2264,1,Pounds,Jamaica,Chile
+51,155,1926,911,1,Pounds,Jamaica,Chile
+51,155,1927,1900,1,Pounds,Jamaica,Chile
+51,155,1928,1550,1,Pounds,Jamaica,Chile
+51,155,1929,104,1,Pounds,Jamaica,Chile
+51,155,1930,69,1,Pounds,Jamaica,Chile
+51,155,1931,604,1,Pounds,Jamaica,Chile
+51,155,1932,3669,1,Pounds,Jamaica,Chile
+51,155,1933,7972,1,Pounds,Jamaica,Chile
+51,155,1934,12814,1,Pounds,Jamaica,Chile
+51,155,1935,8951,1,Pounds,Jamaica,Chile
+51,155,1936,6693,1,Pounds,Jamaica,Chile
+51,155,1937,8228,1,Pounds,Jamaica,Chile
+51,155,1938,14768,1,Pounds,Jamaica,Chile
+51,155,1939,18039,1,Pounds,Jamaica,Chile
+51,155,1940,37546,1,Pounds,Jamaica,Chile
+51,155,1941,70587,1,Pounds,Jamaica,Chile
+51,155,1943,33983,1,Pounds,Jamaica,Chile
+51,155,1944,0,1,Pounds,Jamaica,Chile
+51,155,1945,0,1,Pounds,Jamaica,Chile
+51,155,1946,23803,1,Pounds,Jamaica,Chile
+51,155,1947,15663,1,,Jamaica,Chile
+51,155,1948,53120,1,,Jamaica,Chile
+51,155,1949,23948,1,,Jamaica,Chile
+51,160,1920,47437,1,Pounds,Jamaica,Argentina
+51,160,1921,1294,1,Pounds,Jamaica,Argentina
+51,160,1922,1004,1,Pounds,Jamaica,Argentina
+51,160,1923,2493,1,Pounds,Jamaica,Argentina
+51,160,1924,2510,1,Pounds,Jamaica,Argentina
+51,160,1925,2426,1,Pounds,Jamaica,Argentina
+51,160,1926,4937,1,Pounds,Jamaica,Argentina
+51,160,1927,9369,1,Pounds,Jamaica,Argentina
+51,160,1928,8519,1,Pounds,Jamaica,Argentina
+51,160,1929,6521,1,Pounds,Jamaica,Argentina
+51,160,1930,10726,1,Pounds,Jamaica,Argentina
+51,160,1931,6705,1,Pounds,Jamaica,Argentina
+51,160,1932,3636,1,Pounds,Jamaica,Argentina
+51,160,1933,5826,1,Pounds,Jamaica,Argentina
+51,160,1934,10149,1,Pounds,Jamaica,Argentina
+51,160,1935,13968,1,Pounds,Jamaica,Argentina
+51,160,1936,10142,1,Pounds,Jamaica,Argentina
+51,160,1937,28455,1,Pounds,Jamaica,Argentina
+51,160,1938,19895,1,Pounds,Jamaica,Argentina
+51,160,1939,22535,1,Pounds,Jamaica,Argentina
+51,160,1940,11348,1,Pounds,Jamaica,Argentina
+51,160,1941,1541,1,Pounds,Jamaica,Argentina
+51,160,1943,229,1,Pounds,Jamaica,Argentina
+51,160,1944,12299,1,Pounds,Jamaica,Argentina
+51,160,1945,238918,1,Pounds,Jamaica,Argentina
+51,160,1946,85436,1,Pounds,Jamaica,Argentina
+51,160,1947,201920,1,,Jamaica,Argentina
+51,160,1948,69943,1,,Jamaica,Argentina
+51,160,1949,3956,1,,Jamaica,Argentina
+51,165,1920,0,1,Pounds,Jamaica,Uruguay
+51,165,1921,0,1,Pounds,Jamaica,Uruguay
+51,165,1922,0,1,Pounds,Jamaica,Uruguay
+51,165,1923,0,1,Pounds,Jamaica,Uruguay
+51,165,1924,581,1,Pounds,Jamaica,Uruguay
+51,165,1925,1822,1,Pounds,Jamaica,Uruguay
+51,165,1926,440,1,Pounds,Jamaica,Uruguay
+51,165,1927,12,1,Pounds,Jamaica,Uruguay
+51,165,1928,26,1,Pounds,Jamaica,Uruguay
+51,165,1929,1459,1,Pounds,Jamaica,Uruguay
+51,165,1930,432,1,Pounds,Jamaica,Uruguay
+51,165,1931,0,1,Pounds,Jamaica,Uruguay
+51,165,1932,122,1,Pounds,Jamaica,Uruguay
+51,165,1933,351,1,Pounds,Jamaica,Uruguay
+51,165,1934,1210,1,Pounds,Jamaica,Uruguay
+51,165,1935,2036,1,Pounds,Jamaica,Uruguay
+51,165,1936,1200,1,Pounds,Jamaica,Uruguay
+51,165,1937,245,1,Pounds,Jamaica,Uruguay
+51,165,1938,558,1,Pounds,Jamaica,Uruguay
+51,165,1939,868,1,Pounds,Jamaica,Uruguay
+51,165,1940,1688,1,Pounds,Jamaica,Uruguay
+51,165,1941,15612,1,Pounds,Jamaica,Uruguay
+51,165,1943,0,1,Pounds,Jamaica,Uruguay
+51,165,1944,0,1,Pounds,Jamaica,Uruguay
+51,165,1945,0,1,Pounds,Jamaica,Uruguay
+51,165,1946,0,1,Pounds,Jamaica,Uruguay
+51,165,1947,0,1,,Jamaica,Uruguay
+51,165,1948,0,1,,Jamaica,Uruguay
+51,165,1949,0,1,,Jamaica,Uruguay
+51,200,1920,3063986,1,Pounds,Jamaica,United Kingdom
+51,200,1921,1601235,1,Pounds,Jamaica,United Kingdom
+51,200,1922,1302762,1,Pounds,Jamaica,United Kingdom
+51,200,1923,1523526,1,Pounds,Jamaica,United Kingdom
+51,200,1924,1437563,1,Pounds,Jamaica,United Kingdom
+51,200,1925,1631916,1,Pounds,Jamaica,United Kingdom
+51,200,1926,1377984,1,Pounds,Jamaica,United Kingdom
+51,200,1927,1660667,1,Pounds,Jamaica,United Kingdom
+51,200,1928,1854747,1,Pounds,Jamaica,United Kingdom
+51,200,1929,1775623,1,Pounds,Jamaica,United Kingdom
+51,200,1930,1734178,1,Pounds,Jamaica,United Kingdom
+51,200,1931,1406562,1,Pounds,Jamaica,United Kingdom
+51,200,1932,1890526,1,Pounds,Jamaica,United Kingdom
+51,200,1933,1697475,1,Pounds,Jamaica,United Kingdom
+51,200,1934,1809917,1,Pounds,Jamaica,United Kingdom
+51,200,1935,1954897,1,Pounds,Jamaica,United Kingdom
+51,200,1936,1876971,1,Pounds,Jamaica,United Kingdom
+51,200,1937,2009402,1,Pounds,Jamaica,United Kingdom
+51,200,1938,2108639,1,Pounds,Jamaica,United Kingdom
+51,200,1939,1847731,1,Pounds,Jamaica,United Kingdom
+51,200,1940,1885068,1,Pounds,Jamaica,United Kingdom
+51,200,1941,1787987,1,Pounds,Jamaica,United Kingdom
+51,200,1943,2566302,1,Pounds,Jamaica,United Kingdom
+51,200,1944,1324741,1,Pounds,Jamaica,United Kingdom
+51,200,1945,1325900,1,Pounds,Jamaica,United Kingdom
+51,200,1946,2670855,1,Pounds,Jamaica,United Kingdom
+51,200,1947,3795869,1,,Jamaica,United Kingdom
+51,200,1948,7760444,1,,Jamaica,United Kingdom
+51,200,1949,8668946,1,,Jamaica,United Kingdom
+51,205,1920,0,1,Pounds,Jamaica,Ireland
+51,205,1921,0,1,Pounds,Jamaica,Ireland
+51,205,1922,0,1,Pounds,Jamaica,Ireland
+51,205,1923,0,1,Pounds,Jamaica,Ireland
+51,205,1924,1567,1,Pounds,Jamaica,Ireland
+51,205,1925,1595,1,Pounds,Jamaica,Ireland
+51,205,1926,1005,1,Pounds,Jamaica,Ireland
+51,205,1927,1568,1,Pounds,Jamaica,Ireland
+51,205,1928,1241,1,Pounds,Jamaica,Ireland
+51,205,1929,1635,1,Pounds,Jamaica,Ireland
+51,205,1930,747,1,Pounds,Jamaica,Ireland
+51,205,1931,1565,1,Pounds,Jamaica,Ireland
+51,205,1932,4113,1,Pounds,Jamaica,Ireland
+51,205,1933,2498,1,Pounds,Jamaica,Ireland
+51,205,1934,4476,1,Pounds,Jamaica,Ireland
+51,205,1935,7774,1,Pounds,Jamaica,Ireland
+51,205,1936,6720,1,Pounds,Jamaica,Ireland
+51,205,1937,5540,1,Pounds,Jamaica,Ireland
+51,205,1938,3295,1,Pounds,Jamaica,Ireland
+51,205,1939,3572,1,Pounds,Jamaica,Ireland
+51,205,1940,1,1,Pounds,Jamaica,Ireland
+51,205,1941,82,1,Pounds,Jamaica,Ireland
+51,205,1943,1991,1,Pounds,Jamaica,Ireland
+51,205,1944,0,1,Pounds,Jamaica,Ireland
+51,205,1945,0,1,Pounds,Jamaica,Ireland
+51,205,1946,92,1,Pounds,Jamaica,Ireland
+51,205,1947,259,1,,Jamaica,Ireland
+51,205,1948,996,1,,Jamaica,Ireland
+51,205,1949,20222,1,,Jamaica,Ireland
+51,210,1920,27176,1,Pounds,Jamaica,Netherlands
+51,210,1921,42389,1,Pounds,Jamaica,Netherlands
+51,210,1922,18520,1,Pounds,Jamaica,Netherlands
+51,210,1923,37185,1,Pounds,Jamaica,Netherlands
+51,210,1924,28835,1,Pounds,Jamaica,Netherlands
+51,210,1925,44985,1,Pounds,Jamaica,Netherlands
+51,210,1926,43187,1,Pounds,Jamaica,Netherlands
+51,210,1927,36514,1,Pounds,Jamaica,Netherlands
+51,210,1928,51786,1,Pounds,Jamaica,Netherlands
+51,210,1929,47350,1,Pounds,Jamaica,Netherlands
+51,210,1930,50420,1,Pounds,Jamaica,Netherlands
+51,210,1931,45525,1,Pounds,Jamaica,Netherlands
+51,210,1932,33357,1,Pounds,Jamaica,Netherlands
+51,210,1933,40556,1,Pounds,Jamaica,Netherlands
+51,210,1934,45484,1,Pounds,Jamaica,Netherlands
+51,210,1935,55675,1,Pounds,Jamaica,Netherlands
+51,210,1936,61045,1,Pounds,Jamaica,Netherlands
+51,210,1937,96063,1,Pounds,Jamaica,Netherlands
+51,210,1938,137980,1,Pounds,Jamaica,Netherlands
+51,210,1939,191109,1,Pounds,Jamaica,Netherlands
+51,210,1940,42771,1,Pounds,Jamaica,Netherlands
+51,210,1941,42,1,Pounds,Jamaica,Netherlands
+51,210,1943,0,1,Pounds,Jamaica,Netherlands
+51,210,1944,4,1,Pounds,Jamaica,Netherlands
+51,210,1945,0,1,Pounds,Jamaica,Netherlands
+51,210,1946,2090,1,Pounds,Jamaica,Netherlands
+51,210,1947,39924,1,,Jamaica,Netherlands
+51,210,1948,150991,1,,Jamaica,Netherlands
+51,210,1949,202620,1,,Jamaica,Netherlands
+51,211,1920,1579,1,Pounds,Jamaica,Belgium
+51,211,1921,949,1,Pounds,Jamaica,Belgium
+51,211,1922,6217,1,Pounds,Jamaica,Belgium
+51,211,1923,10850,1,Pounds,Jamaica,Belgium
+51,211,1924,11976,1,Pounds,Jamaica,Belgium
+51,211,1925,17724,1,Pounds,Jamaica,Belgium
+51,211,1926,15412,1,Pounds,Jamaica,Belgium
+51,211,1927,22904,1,Pounds,Jamaica,Belgium
+51,211,1928,38084,1,Pounds,Jamaica,Belgium
+51,211,1929,29624,1,Pounds,Jamaica,Belgium
+51,211,1930,26885,1,Pounds,Jamaica,Belgium
+51,211,1931,26097,1,Pounds,Jamaica,Belgium
+51,211,1932,26408,1,Pounds,Jamaica,Belgium
+51,211,1933,21874,1,Pounds,Jamaica,Belgium
+51,211,1934,21313,1,Pounds,Jamaica,Belgium
+51,211,1935,16770,1,Pounds,Jamaica,Belgium
+51,211,1936,16748,1,Pounds,Jamaica,Belgium
+51,211,1937,27192,1,Pounds,Jamaica,Belgium
+51,211,1938,40630,1,Pounds,Jamaica,Belgium
+51,211,1939,26190,1,Pounds,Jamaica,Belgium
+51,211,1940,14800,1,Pounds,Jamaica,Belgium
+51,211,1941,190,1,Pounds,Jamaica,Belgium
+51,211,1943,0,1,Pounds,Jamaica,Belgium
+51,211,1944,0,1,Pounds,Jamaica,Belgium
+51,211,1945,0,1,Pounds,Jamaica,Belgium
+51,211,1946,10689,1,Pounds,Jamaica,Belgium
+51,211,1947,214340,1,,Jamaica,Belgium
+51,211,1948,140790,1,,Jamaica,Belgium
+51,211,1949,17367,1,,Jamaica,Belgium
+51,212,1920,0,1,Pounds,Jamaica,Luxembourg
+51,212,1921,0,1,Pounds,Jamaica,Luxembourg
+51,212,1922,0,1,Pounds,Jamaica,Luxembourg
+51,212,1923,0,1,Pounds,Jamaica,Luxembourg
+51,212,1924,0,1,Pounds,Jamaica,Luxembourg
+51,212,1925,3652,1,Pounds,Jamaica,Luxembourg
+51,212,1926,948,1,Pounds,Jamaica,Luxembourg
+51,212,1927,258,1,Pounds,Jamaica,Luxembourg
+51,212,1928,11,1,Pounds,Jamaica,Luxembourg
+51,212,1929,5,1,Pounds,Jamaica,Luxembourg
+51,212,1930,260,1,Pounds,Jamaica,Luxembourg
+51,212,1931,35,1,Pounds,Jamaica,Luxembourg
+51,212,1932,104,1,Pounds,Jamaica,Luxembourg
+51,212,1933,0,1,Pounds,Jamaica,Luxembourg
+51,212,1934,1384,1,Pounds,Jamaica,Luxembourg
+51,212,1935,398,1,Pounds,Jamaica,Luxembourg
+51,212,1936,64,1,Pounds,Jamaica,Luxembourg
+51,212,1937,1600,1,Pounds,Jamaica,Luxembourg
+51,212,1938,1275,1,Pounds,Jamaica,Luxembourg
+51,212,1939,23,1,Pounds,Jamaica,Luxembourg
+51,212,1940,0,1,Pounds,Jamaica,Luxembourg
+51,212,1941,0,1,Pounds,Jamaica,Luxembourg
+51,212,1943,0,1,Pounds,Jamaica,Luxembourg
+51,212,1944,0,1,Pounds,Jamaica,Luxembourg
+51,212,1945,0,1,Pounds,Jamaica,Luxembourg
+51,212,1946,0,1,Pounds,Jamaica,Luxembourg
+51,212,1947,0,1,,Jamaica,Luxembourg
+51,212,1948,0,1,,Jamaica,Luxembourg
+51,212,1949,0,1,,Jamaica,Luxembourg
+51,220,1920,3770,1,Pounds,Jamaica,France
+51,220,1921,8166,1,Pounds,Jamaica,France
+51,220,1922,16655,1,Pounds,Jamaica,France
+51,220,1923,17530,1,Pounds,Jamaica,France
+51,220,1924,25006,1,Pounds,Jamaica,France
+51,220,1925,24642,1,Pounds,Jamaica,France
+51,220,1926,26350,1,Pounds,Jamaica,France
+51,220,1927,43142,1,Pounds,Jamaica,France
+51,220,1928,49065,1,Pounds,Jamaica,France
+51,220,1929,48447,1,Pounds,Jamaica,France
+51,220,1930,45397,1,Pounds,Jamaica,France
+51,220,1931,45724,1,Pounds,Jamaica,France
+51,220,1932,40254,1,Pounds,Jamaica,France
+51,220,1933,27006,1,Pounds,Jamaica,France
+51,220,1934,31328,1,Pounds,Jamaica,France
+51,220,1935,43482,1,Pounds,Jamaica,France
+51,220,1936,33338,1,Pounds,Jamaica,France
+51,220,1937,42343,1,Pounds,Jamaica,France
+51,220,1938,33214,1,Pounds,Jamaica,France
+51,220,1939,33426,1,Pounds,Jamaica,France
+51,220,1940,19272,1,Pounds,Jamaica,France
+51,220,1941,446,1,Pounds,Jamaica,France
+51,220,1943,32,1,Pounds,Jamaica,France
+51,220,1944,9,1,Pounds,Jamaica,France
+51,220,1945,6959,1,Pounds,Jamaica,France
+51,220,1946,31663,1,Pounds,Jamaica,France
+51,220,1947,57448,1,,Jamaica,France
+51,220,1948,49689,1,,Jamaica,France
+51,220,1949,110658,1,,Jamaica,France
+51,225,1920,4542,1,Pounds,Jamaica,Switzerland
+51,225,1921,1654,1,Pounds,Jamaica,Switzerland
+51,225,1922,29497,1,Pounds,Jamaica,Switzerland
+51,225,1923,34125,1,Pounds,Jamaica,Switzerland
+51,225,1924,31990,1,Pounds,Jamaica,Switzerland
+51,225,1925,29622,1,Pounds,Jamaica,Switzerland
+51,225,1926,22415,1,Pounds,Jamaica,Switzerland
+51,225,1927,25256,1,Pounds,Jamaica,Switzerland
+51,225,1928,22489,1,Pounds,Jamaica,Switzerland
+51,225,1929,31460,1,Pounds,Jamaica,Switzerland
+51,225,1930,27581,1,Pounds,Jamaica,Switzerland
+51,225,1931,27812,1,Pounds,Jamaica,Switzerland
+51,225,1932,17948,1,Pounds,Jamaica,Switzerland
+51,225,1933,10071,1,Pounds,Jamaica,Switzerland
+51,225,1934,6970,1,Pounds,Jamaica,Switzerland
+51,225,1935,6686,1,Pounds,Jamaica,Switzerland
+51,225,1936,3277,1,Pounds,Jamaica,Switzerland
+51,225,1937,11796,1,Pounds,Jamaica,Switzerland
+51,225,1938,7792,1,Pounds,Jamaica,Switzerland
+51,225,1939,17044,1,Pounds,Jamaica,Switzerland
+51,225,1940,8569,1,Pounds,Jamaica,Switzerland
+51,225,1941,1009,1,Pounds,Jamaica,Switzerland
+51,225,1943,1164,1,Pounds,Jamaica,Switzerland
+51,225,1944,1636,1,Pounds,Jamaica,Switzerland
+51,225,1945,3186,1,Pounds,Jamaica,Switzerland
+51,225,1946,15925,1,Pounds,Jamaica,Switzerland
+51,225,1947,11270,1,,Jamaica,Switzerland
+51,225,1948,15315,1,,Jamaica,Switzerland
+51,225,1949,22688,1,,Jamaica,Switzerland
+51,230,1920,6801,1,Pounds,Jamaica,Spain
+51,230,1921,2864,1,Pounds,Jamaica,Spain
+51,230,1922,9185,1,Pounds,Jamaica,Spain
+51,230,1923,13989,1,Pounds,Jamaica,Spain
+51,230,1924,4039,1,Pounds,Jamaica,Spain
+51,230,1925,13072,1,Pounds,Jamaica,Spain
+51,230,1926,14578,1,Pounds,Jamaica,Spain
+51,230,1927,13418,1,Pounds,Jamaica,Spain
+51,230,1928,17338,1,Pounds,Jamaica,Spain
+51,230,1929,14861,1,Pounds,Jamaica,Spain
+51,230,1930,15112,1,Pounds,Jamaica,Spain
+51,230,1931,7808,1,Pounds,Jamaica,Spain
+51,230,1932,6167,1,Pounds,Jamaica,Spain
+51,230,1933,4828,1,Pounds,Jamaica,Spain
+51,230,1934,4285,1,Pounds,Jamaica,Spain
+51,230,1935,4930,1,Pounds,Jamaica,Spain
+51,230,1936,5707,1,Pounds,Jamaica,Spain
+51,230,1937,7755,1,Pounds,Jamaica,Spain
+51,230,1938,4222,1,Pounds,Jamaica,Spain
+51,230,1939,5014,1,Pounds,Jamaica,Spain
+51,230,1940,4242,1,Pounds,Jamaica,Spain
+51,230,1941,5563,1,Pounds,Jamaica,Spain
+51,230,1943,7523,1,Pounds,Jamaica,Spain
+51,230,1944,3118,1,Pounds,Jamaica,Spain
+51,230,1945,1733,1,Pounds,Jamaica,Spain
+51,230,1946,9694,1,Pounds,Jamaica,Spain
+51,230,1947,11120,1,,Jamaica,Spain
+51,230,1948,5467,1,,Jamaica,Spain
+51,230,1949,19888,1,,Jamaica,Spain
+51,231,1920,204,1,Pounds,Jamaica,Gibraltar
+51,231,1921,0,1,Pounds,Jamaica,Gibraltar
+51,231,1922,47,1,Pounds,Jamaica,Gibraltar
+51,231,1923,0,1,Pounds,Jamaica,Gibraltar
+51,231,1924,0,1,Pounds,Jamaica,Gibraltar
+51,231,1925,0,1,Pounds,Jamaica,Gibraltar
+51,231,1926,0,1,Pounds,Jamaica,Gibraltar
+51,231,1927,0,1,Pounds,Jamaica,Gibraltar
+51,231,1928,42,1,Pounds,Jamaica,Gibraltar
+51,231,1929,61,1,Pounds,Jamaica,Gibraltar
+51,231,1930,0,1,Pounds,Jamaica,Gibraltar
+51,231,1931,0,1,Pounds,Jamaica,Gibraltar
+51,231,1932,0,1,Pounds,Jamaica,Gibraltar
+51,231,1933,64,1,Pounds,Jamaica,Gibraltar
+51,231,1934,0,1,Pounds,Jamaica,Gibraltar
+51,231,1935,0,1,Pounds,Jamaica,Gibraltar
+51,231,1936,0,1,Pounds,Jamaica,Gibraltar
+51,231,1937,0,1,Pounds,Jamaica,Gibraltar
+51,231,1938,0,1,Pounds,Jamaica,Gibraltar
+51,231,1939,0,1,Pounds,Jamaica,Gibraltar
+51,231,1940,2,1,Pounds,Jamaica,Gibraltar
+51,231,1941,0,1,Pounds,Jamaica,Gibraltar
+51,231,1943,0,1,Pounds,Jamaica,Gibraltar
+51,231,1944,0,1,Pounds,Jamaica,Gibraltar
+51,231,1945,0,1,Pounds,Jamaica,Gibraltar
+51,231,1946,0,1,Pounds,Jamaica,Gibraltar
+51,231,1947,0,1,,Jamaica,Gibraltar
+51,231,1948,0,1,,Jamaica,Gibraltar
+51,231,1949,0,1,,Jamaica,Gibraltar
+51,235,1920,752,1,Pounds,Jamaica,Portugal
+51,235,1921,1906,1,Pounds,Jamaica,Portugal
+51,235,1922,2271,1,Pounds,Jamaica,Portugal
+51,235,1923,2319,1,Pounds,Jamaica,Portugal
+51,235,1924,3119,1,Pounds,Jamaica,Portugal
+51,235,1925,1643,1,Pounds,Jamaica,Portugal
+51,235,1926,2043,1,Pounds,Jamaica,Portugal
+51,235,1927,1743,1,Pounds,Jamaica,Portugal
+51,235,1928,1520,1,Pounds,Jamaica,Portugal
+51,235,1929,1025,1,Pounds,Jamaica,Portugal
+51,235,1930,1293,1,Pounds,Jamaica,Portugal
+51,235,1931,1190,1,Pounds,Jamaica,Portugal
+51,235,1932,1263,1,Pounds,Jamaica,Portugal
+51,235,1933,951,1,Pounds,Jamaica,Portugal
+51,235,1934,776,1,Pounds,Jamaica,Portugal
+51,235,1935,829,1,Pounds,Jamaica,Portugal
+51,235,1936,765,1,Pounds,Jamaica,Portugal
+51,235,1937,785,1,Pounds,Jamaica,Portugal
+51,235,1938,1417,1,Pounds,Jamaica,Portugal
+51,235,1939,1425,1,Pounds,Jamaica,Portugal
+51,235,1940,986,1,Pounds,Jamaica,Portugal
+51,235,1941,1227,1,Pounds,Jamaica,Portugal
+51,235,1943,8600,1,Pounds,Jamaica,Portugal
+51,235,1944,12453,1,Pounds,Jamaica,Portugal
+51,235,1945,3056,1,Pounds,Jamaica,Portugal
+51,235,1946,11166,1,Pounds,Jamaica,Portugal
+51,235,1947,21787,1,,Jamaica,Portugal
+51,235,1948,130511,1,,Jamaica,Portugal
+51,235,1949,41199,1,,Jamaica,Portugal
+51,255,1920,6295,1,Pounds,Jamaica,Germany
+51,255,1921,25420,1,Pounds,Jamaica,Germany
+51,255,1922,84206,1,Pounds,Jamaica,Germany
+51,255,1923,58207,1,Pounds,Jamaica,Germany
+51,255,1924,64469,1,Pounds,Jamaica,Germany
+51,255,1925,100963,1,Pounds,Jamaica,Germany
+51,255,1926,111194,1,Pounds,Jamaica,Germany
+51,255,1927,151973,1,Pounds,Jamaica,Germany
+51,255,1928,146847,1,Pounds,Jamaica,Germany
+51,255,1929,134049,1,Pounds,Jamaica,Germany
+51,255,1930,136569,1,Pounds,Jamaica,Germany
+51,255,1931,95200,1,Pounds,Jamaica,Germany
+51,255,1932,71956,1,Pounds,Jamaica,Germany
+51,255,1933,80281,1,Pounds,Jamaica,Germany
+51,255,1934,80186,1,Pounds,Jamaica,Germany
+51,255,1935,95673,1,Pounds,Jamaica,Germany
+51,255,1936,132252,1,Pounds,Jamaica,Germany
+51,255,1937,213806,1,Pounds,Jamaica,Germany
+51,255,1938,183633,1,Pounds,Jamaica,Germany
+51,255,1939,157490,1,Pounds,Jamaica,Germany
+51,255,1940,2316,1,Pounds,Jamaica,Germany
+51,255,1941,226,1,Pounds,Jamaica,Germany
+51,255,1943,61,1,Pounds,Jamaica,Germany
+51,255,1944,8,1,Pounds,Jamaica,Germany
+51,255,1945,25,1,Pounds,Jamaica,Germany
+51,255,1946,151,1,Pounds,Jamaica,Germany
+51,255,1947,2894,1,,Jamaica,Germany
+51,255,1948,9445,1,,Jamaica,Germany
+51,255,1949,12504,1,,Jamaica,Germany
+51,290,1920,0,1,Pounds,Jamaica,Poland
+51,290,1921,0,1,Pounds,Jamaica,Poland
+51,290,1922,0,1,Pounds,Jamaica,Poland
+51,290,1923,63,1,Pounds,Jamaica,Poland
+51,290,1924,66,1,Pounds,Jamaica,Poland
+51,290,1925,18,1,Pounds,Jamaica,Poland
+51,290,1926,579,1,Pounds,Jamaica,Poland
+51,290,1927,255,1,Pounds,Jamaica,Poland
+51,290,1928,1177,1,Pounds,Jamaica,Poland
+51,290,1929,737,1,Pounds,Jamaica,Poland
+51,290,1930,1018,1,Pounds,Jamaica,Poland
+51,290,1931,858,1,Pounds,Jamaica,Poland
+51,290,1932,717,1,Pounds,Jamaica,Poland
+51,290,1933,651,1,Pounds,Jamaica,Poland
+51,290,1934,3075,1,Pounds,Jamaica,Poland
+51,290,1935,3700,1,Pounds,Jamaica,Poland
+51,290,1936,2243,1,Pounds,Jamaica,Poland
+51,290,1937,8337,1,Pounds,Jamaica,Poland
+51,290,1938,2503,1,Pounds,Jamaica,Poland
+51,290,1939,2987,1,Pounds,Jamaica,Poland
+51,290,1940,9,1,Pounds,Jamaica,Poland
+51,290,1941,1,1,Pounds,Jamaica,Poland
+51,290,1943,0,1,Pounds,Jamaica,Poland
+51,290,1944,0,1,Pounds,Jamaica,Poland
+51,290,1945,0,1,Pounds,Jamaica,Poland
+51,290,1946,0,1,Pounds,Jamaica,Poland
+51,290,1947,13,1,,Jamaica,Poland
+51,290,1948,17824,1,,Jamaica,Poland
+51,290,1949,5786,1,,Jamaica,Poland
+51,305,1920,0,1,Pounds,Jamaica,Austria
+51,305,1921,670,1,Pounds,Jamaica,Austria
+51,305,1922,623,1,Pounds,Jamaica,Austria
+51,305,1923,759,1,Pounds,Jamaica,Austria
+51,305,1924,2439,1,Pounds,Jamaica,Austria
+51,305,1925,2902,1,Pounds,Jamaica,Austria
+51,305,1926,1746,1,Pounds,Jamaica,Austria
+51,305,1927,1628,1,Pounds,Jamaica,Austria
+51,305,1928,1898,1,Pounds,Jamaica,Austria
+51,305,1929,1047,1,Pounds,Jamaica,Austria
+51,305,1930,1984,1,Pounds,Jamaica,Austria
+51,305,1931,1700,1,Pounds,Jamaica,Austria
+51,305,1932,403,1,Pounds,Jamaica,Austria
+51,305,1933,1220,1,Pounds,Jamaica,Austria
+51,305,1934,1820,1,Pounds,Jamaica,Austria
+51,305,1935,958,1,Pounds,Jamaica,Austria
+51,305,1936,763,1,Pounds,Jamaica,Austria
+51,305,1937,1277,1,Pounds,Jamaica,Austria
+51,305,1938,1187,1,Pounds,Jamaica,Austria
+51,305,1939,0,1,Pounds,Jamaica,Austria
+51,305,1940,0,1,Pounds,Jamaica,Austria
+51,305,1941,0,1,Pounds,Jamaica,Austria
+51,305,1943,0,1,Pounds,Jamaica,Austria
+51,305,1944,0,1,Pounds,Jamaica,Austria
+51,305,1945,0,1,Pounds,Jamaica,Austria
+51,305,1946,0,1,Pounds,Jamaica,Austria
+51,305,1947,0,1,,Jamaica,Austria
+51,305,1948,656,1,,Jamaica,Austria
+51,305,1949,2100,1,,Jamaica,Austria
+51,310,1920,0,1,Pounds,Jamaica,Hungary
+51,310,1921,0,1,Pounds,Jamaica,Hungary
+51,310,1922,0,1,Pounds,Jamaica,Hungary
+51,310,1923,170,1,Pounds,Jamaica,Hungary
+51,310,1924,15,1,Pounds,Jamaica,Hungary
+51,310,1925,136,1,Pounds,Jamaica,Hungary
+51,310,1926,3,1,Pounds,Jamaica,Hungary
+51,310,1927,224,1,Pounds,Jamaica,Hungary
+51,310,1928,88,1,Pounds,Jamaica,Hungary
+51,310,1929,66,1,Pounds,Jamaica,Hungary
+51,310,1930,65,1,Pounds,Jamaica,Hungary
+51,310,1931,180,1,Pounds,Jamaica,Hungary
+51,310,1932,332,1,Pounds,Jamaica,Hungary
+51,310,1933,199,1,Pounds,Jamaica,Hungary
+51,310,1934,350,1,Pounds,Jamaica,Hungary
+51,310,1935,228,1,Pounds,Jamaica,Hungary
+51,310,1936,2512,1,Pounds,Jamaica,Hungary
+51,310,1937,7015,1,Pounds,Jamaica,Hungary
+51,310,1938,8069,1,Pounds,Jamaica,Hungary
+51,310,1939,9580,1,Pounds,Jamaica,Hungary
+51,310,1940,4459,1,Pounds,Jamaica,Hungary
+51,310,1941,3,1,Pounds,Jamaica,Hungary
+51,310,1943,0,1,Pounds,Jamaica,Hungary
+51,310,1944,0,1,Pounds,Jamaica,Hungary
+51,310,1945,100,1,Pounds,Jamaica,Hungary
+51,310,1946,0,1,Pounds,Jamaica,Hungary
+51,310,1947,0,1,,Jamaica,Hungary
+51,310,1948,1631,1,,Jamaica,Hungary
+51,310,1949,1517,1,,Jamaica,Hungary
+51,315,1920,0,1,Pounds,Jamaica,Czechoslovakia
+51,315,1921,1,1,Pounds,Jamaica,Czechoslovakia
+51,315,1922,1828,1,Pounds,Jamaica,Czechoslovakia
+51,315,1923,2523,1,Pounds,Jamaica,Czechoslovakia
+51,315,1924,2473,1,Pounds,Jamaica,Czechoslovakia
+51,315,1925,4886,1,Pounds,Jamaica,Czechoslovakia
+51,315,1926,3839,1,Pounds,Jamaica,Czechoslovakia
+51,315,1927,4644,1,Pounds,Jamaica,Czechoslovakia
+51,315,1928,4371,1,Pounds,Jamaica,Czechoslovakia
+51,315,1929,6756,1,Pounds,Jamaica,Czechoslovakia
+51,315,1930,10963,1,Pounds,Jamaica,Czechoslovakia
+51,315,1931,10310,1,Pounds,Jamaica,Czechoslovakia
+51,315,1932,17691,1,Pounds,Jamaica,Czechoslovakia
+51,315,1933,20942,1,Pounds,Jamaica,Czechoslovakia
+51,315,1934,20960,1,Pounds,Jamaica,Czechoslovakia
+51,315,1935,6399,1,Pounds,Jamaica,Czechoslovakia
+51,315,1936,5557,1,Pounds,Jamaica,Czechoslovakia
+51,315,1937,12915,1,Pounds,Jamaica,Czechoslovakia
+51,315,1938,15874,1,Pounds,Jamaica,Czechoslovakia
+51,315,1939,7093,1,Pounds,Jamaica,Czechoslovakia
+51,315,1940,17100,1,Pounds,Jamaica,Czechoslovakia
+51,315,1941,278,1,Pounds,Jamaica,Czechoslovakia
+51,315,1943,0,1,Pounds,Jamaica,Czechoslovakia
+51,315,1944,0,1,Pounds,Jamaica,Czechoslovakia
+51,315,1945,2,1,Pounds,Jamaica,Czechoslovakia
+51,315,1946,2695,1,Pounds,Jamaica,Czechoslovakia
+51,315,1947,11021,1,,Jamaica,Czechoslovakia
+51,315,1948,31399,1,,Jamaica,Czechoslovakia
+51,315,1949,15697,1,,Jamaica,Czechoslovakia
+51,316,1920,0,1,Pounds,Jamaica,Czech Republic
+51,316,1921,0,1,Pounds,Jamaica,Czech Republic
+51,316,1922,0,1,Pounds,Jamaica,Czech Republic
+51,316,1923,0,1,Pounds,Jamaica,Czech Republic
+51,316,1924,0,1,Pounds,Jamaica,Czech Republic
+51,316,1925,0,1,Pounds,Jamaica,Czech Republic
+51,316,1926,0,1,Pounds,Jamaica,Czech Republic
+51,316,1927,27,1,Pounds,Jamaica,Czech Republic
+51,316,1928,0,1,Pounds,Jamaica,Czech Republic
+51,316,1929,0,1,Pounds,Jamaica,Czech Republic
+51,316,1930,0,1,Pounds,Jamaica,Czech Republic
+51,316,1931,0,1,Pounds,Jamaica,Czech Republic
+51,316,1932,0,1,Pounds,Jamaica,Czech Republic
+51,316,1933,0,1,Pounds,Jamaica,Czech Republic
+51,316,1934,0,1,Pounds,Jamaica,Czech Republic
+51,316,1935,0,1,Pounds,Jamaica,Czech Republic
+51,316,1936,0,1,Pounds,Jamaica,Czech Republic
+51,316,1937,0,1,Pounds,Jamaica,Czech Republic
+51,316,1938,0,1,Pounds,Jamaica,Czech Republic
+51,316,1939,0,1,Pounds,Jamaica,Czech Republic
+51,316,1940,0,1,Pounds,Jamaica,Czech Republic
+51,316,1941,0,1,Pounds,Jamaica,Czech Republic
+51,316,1943,0,1,Pounds,Jamaica,Czech Republic
+51,316,1944,0,1,Pounds,Jamaica,Czech Republic
+51,316,1945,0,1,Pounds,Jamaica,Czech Republic
+51,316,1946,0,1,Pounds,Jamaica,Czech Republic
+51,316,1947,0,1,,Jamaica,Czech Republic
+51,316,1948,0,1,,Jamaica,Czech Republic
+51,316,1949,0,1,,Jamaica,Czech Republic
+51,325,1920,195,1,Pounds,Jamaica,Italy
+51,325,1921,206,1,Pounds,Jamaica,Italy
+51,325,1922,3668,1,Pounds,Jamaica,Italy
+51,325,1923,3727,1,Pounds,Jamaica,Italy
+51,325,1924,5083,1,Pounds,Jamaica,Italy
+51,325,1925,7161,1,Pounds,Jamaica,Italy
+51,325,1926,12149,1,Pounds,Jamaica,Italy
+51,325,1927,23277,1,Pounds,Jamaica,Italy
+51,325,1928,31832,1,Pounds,Jamaica,Italy
+51,325,1929,11602,1,Pounds,Jamaica,Italy
+51,325,1930,15887,1,Pounds,Jamaica,Italy
+51,325,1931,12755,1,Pounds,Jamaica,Italy
+51,325,1932,18189,1,Pounds,Jamaica,Italy
+51,325,1933,15251,1,Pounds,Jamaica,Italy
+51,325,1934,12722,1,Pounds,Jamaica,Italy
+51,325,1935,13260,1,Pounds,Jamaica,Italy
+51,325,1936,4221,1,Pounds,Jamaica,Italy
+51,325,1937,15243,1,Pounds,Jamaica,Italy
+51,325,1938,19788,1,Pounds,Jamaica,Italy
+51,325,1939,18573,1,Pounds,Jamaica,Italy
+51,325,1940,3784,1,Pounds,Jamaica,Italy
+51,325,1941,48,1,Pounds,Jamaica,Italy
+51,325,1943,3,1,Pounds,Jamaica,Italy
+51,325,1944,20,1,Pounds,Jamaica,Italy
+51,325,1945,9,1,Pounds,Jamaica,Italy
+51,325,1946,40264,1,Pounds,Jamaica,Italy
+51,325,1947,57240,1,,Jamaica,Italy
+51,325,1948,23669,1,,Jamaica,Italy
+51,325,1949,105569,1,,Jamaica,Italy
+51,338,1920,0,1,Pounds,Jamaica,Malta
+51,338,1921,0,1,Pounds,Jamaica,Malta
+51,338,1922,1,1,Pounds,Jamaica,Malta
+51,338,1923,0,1,Pounds,Jamaica,Malta
+51,338,1924,7,1,Pounds,Jamaica,Malta
+51,338,1925,0,1,Pounds,Jamaica,Malta
+51,338,1926,0,1,Pounds,Jamaica,Malta
+51,338,1927,0,1,Pounds,Jamaica,Malta
+51,338,1928,0,1,Pounds,Jamaica,Malta
+51,338,1929,0,1,Pounds,Jamaica,Malta
+51,338,1930,0,1,Pounds,Jamaica,Malta
+51,338,1931,26,1,Pounds,Jamaica,Malta
+51,338,1932,0,1,Pounds,Jamaica,Malta
+51,338,1933,33,1,Pounds,Jamaica,Malta
+51,338,1934,97,1,Pounds,Jamaica,Malta
+51,338,1935,0,1,Pounds,Jamaica,Malta
+51,338,1936,13,1,Pounds,Jamaica,Malta
+51,338,1937,2,1,Pounds,Jamaica,Malta
+51,338,1938,0,1,Pounds,Jamaica,Malta
+51,338,1939,2,1,Pounds,Jamaica,Malta
+51,338,1940,0,1,Pounds,Jamaica,Malta
+51,338,1941,0,1,Pounds,Jamaica,Malta
+51,338,1943,0,1,Pounds,Jamaica,Malta
+51,338,1944,0,1,Pounds,Jamaica,Malta
+51,338,1945,0,1,Pounds,Jamaica,Malta
+51,338,1946,0,1,Pounds,Jamaica,Malta
+51,338,1947,0,1,,Jamaica,Malta
+51,338,1948,0,1,,Jamaica,Malta
+51,338,1949,0,1,,Jamaica,Malta
+51,339,1920,0,1,Pounds,Jamaica,Albania
+51,339,1921,0,1,Pounds,Jamaica,Albania
+51,339,1922,0,1,Pounds,Jamaica,Albania
+51,339,1923,0,1,Pounds,Jamaica,Albania
+51,339,1924,0,1,Pounds,Jamaica,Albania
+51,339,1925,0,1,Pounds,Jamaica,Albania
+51,339,1926,0,1,Pounds,Jamaica,Albania
+51,339,1927,0,1,Pounds,Jamaica,Albania
+51,339,1928,0,1,Pounds,Jamaica,Albania
+51,339,1929,0,1,Pounds,Jamaica,Albania
+51,339,1930,0,1,Pounds,Jamaica,Albania
+51,339,1931,0,1,Pounds,Jamaica,Albania
+51,339,1932,0,1,Pounds,Jamaica,Albania
+51,339,1933,0,1,Pounds,Jamaica,Albania
+51,339,1934,0,1,Pounds,Jamaica,Albania
+51,339,1935,1,1,Pounds,Jamaica,Albania
+51,339,1936,0,1,Pounds,Jamaica,Albania
+51,339,1937,0,1,Pounds,Jamaica,Albania
+51,339,1938,0,1,Pounds,Jamaica,Albania
+51,339,1939,0,1,Pounds,Jamaica,Albania
+51,339,1940,0,1,Pounds,Jamaica,Albania
+51,339,1941,0,1,Pounds,Jamaica,Albania
+51,339,1943,0,1,Pounds,Jamaica,Albania
+51,339,1944,0,1,Pounds,Jamaica,Albania
+51,339,1945,0,1,Pounds,Jamaica,Albania
+51,339,1946,0,1,Pounds,Jamaica,Albania
+51,339,1947,0,1,,Jamaica,Albania
+51,339,1948,0,1,,Jamaica,Albania
+51,339,1949,0,1,,Jamaica,Albania
+51,345,1920,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1921,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1922,6,1,Pounds,Jamaica,Yugoslavia
+51,345,1923,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1924,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1925,2,1,Pounds,Jamaica,Yugoslavia
+51,345,1926,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1927,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1928,303,1,Pounds,Jamaica,Yugoslavia
+51,345,1929,157,1,Pounds,Jamaica,Yugoslavia
+51,345,1930,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1931,105,1,Pounds,Jamaica,Yugoslavia
+51,345,1932,27,1,Pounds,Jamaica,Yugoslavia
+51,345,1933,246,1,Pounds,Jamaica,Yugoslavia
+51,345,1934,321,1,Pounds,Jamaica,Yugoslavia
+51,345,1935,226,1,Pounds,Jamaica,Yugoslavia
+51,345,1936,5,1,Pounds,Jamaica,Yugoslavia
+51,345,1937,10,1,Pounds,Jamaica,Yugoslavia
+51,345,1938,27,1,Pounds,Jamaica,Yugoslavia
+51,345,1939,355,1,Pounds,Jamaica,Yugoslavia
+51,345,1940,346,1,Pounds,Jamaica,Yugoslavia
+51,345,1941,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1943,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1944,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1945,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1946,0,1,Pounds,Jamaica,Yugoslavia
+51,345,1947,0,1,,Jamaica,Yugoslavia
+51,345,1948,0,1,,Jamaica,Yugoslavia
+51,345,1949,0,1,,Jamaica,Yugoslavia
+51,350,1920,0,1,Pounds,Jamaica,Greece
+51,350,1921,0,1,Pounds,Jamaica,Greece
+51,350,1922,504,1,Pounds,Jamaica,Greece
+51,350,1923,1582,1,Pounds,Jamaica,Greece
+51,350,1924,1514,1,Pounds,Jamaica,Greece
+51,350,1925,1304,1,Pounds,Jamaica,Greece
+51,350,1926,1621,1,Pounds,Jamaica,Greece
+51,350,1927,2315,1,Pounds,Jamaica,Greece
+51,350,1928,3661,1,Pounds,Jamaica,Greece
+51,350,1929,4409,1,Pounds,Jamaica,Greece
+51,350,1930,2416,1,Pounds,Jamaica,Greece
+51,350,1931,1695,1,Pounds,Jamaica,Greece
+51,350,1932,3028,1,Pounds,Jamaica,Greece
+51,350,1933,2799,1,Pounds,Jamaica,Greece
+51,350,1934,3182,1,Pounds,Jamaica,Greece
+51,350,1935,2231,1,Pounds,Jamaica,Greece
+51,350,1936,2111,1,Pounds,Jamaica,Greece
+51,350,1937,2191,1,Pounds,Jamaica,Greece
+51,350,1938,2370,1,Pounds,Jamaica,Greece
+51,350,1939,2554,1,Pounds,Jamaica,Greece
+51,350,1940,1132,1,Pounds,Jamaica,Greece
+51,350,1941,86,1,Pounds,Jamaica,Greece
+51,350,1943,0,1,Pounds,Jamaica,Greece
+51,350,1944,510,1,Pounds,Jamaica,Greece
+51,350,1945,0,1,Pounds,Jamaica,Greece
+51,350,1946,0,1,Pounds,Jamaica,Greece
+51,350,1947,2584,1,,Jamaica,Greece
+51,350,1948,28835,1,,Jamaica,Greece
+51,350,1949,2310,1,,Jamaica,Greece
+51,351,1920,0,1,Pounds,Jamaica,Crete
+51,351,1921,0,1,Pounds,Jamaica,Crete
+51,351,1922,0,1,Pounds,Jamaica,Crete
+51,351,1923,0,1,Pounds,Jamaica,Crete
+51,351,1924,0,1,Pounds,Jamaica,Crete
+51,351,1925,0,1,Pounds,Jamaica,Crete
+51,351,1926,0,1,Pounds,Jamaica,Crete
+51,351,1927,0,1,Pounds,Jamaica,Crete
+51,351,1928,0,1,Pounds,Jamaica,Crete
+51,351,1929,0,1,Pounds,Jamaica,Crete
+51,351,1930,0,1,Pounds,Jamaica,Crete
+51,351,1931,0,1,Pounds,Jamaica,Crete
+51,351,1932,0,1,Pounds,Jamaica,Crete
+51,351,1933,0,1,Pounds,Jamaica,Crete
+51,351,1934,2,1,Pounds,Jamaica,Crete
+51,351,1935,0,1,Pounds,Jamaica,Crete
+51,351,1936,0,1,Pounds,Jamaica,Crete
+51,351,1937,0,1,Pounds,Jamaica,Crete
+51,351,1938,0,1,Pounds,Jamaica,Crete
+51,351,1939,0,1,Pounds,Jamaica,Crete
+51,351,1940,0,1,Pounds,Jamaica,Crete
+51,351,1941,0,1,Pounds,Jamaica,Crete
+51,351,1943,0,1,Pounds,Jamaica,Crete
+51,351,1944,0,1,Pounds,Jamaica,Crete
+51,351,1945,0,1,Pounds,Jamaica,Crete
+51,351,1946,0,1,Pounds,Jamaica,Crete
+51,351,1947,0,1,,Jamaica,Crete
+51,351,1948,0,1,,Jamaica,Crete
+51,351,1949,0,1,,Jamaica,Crete
+51,352,1920,0,1,Pounds,Jamaica,Cyprus
+51,352,1921,0,1,Pounds,Jamaica,Cyprus
+51,352,1922,0,1,Pounds,Jamaica,Cyprus
+51,352,1923,0,1,Pounds,Jamaica,Cyprus
+51,352,1924,0,1,Pounds,Jamaica,Cyprus
+51,352,1925,0,1,Pounds,Jamaica,Cyprus
+51,352,1926,0,1,Pounds,Jamaica,Cyprus
+51,352,1927,0,1,Pounds,Jamaica,Cyprus
+51,352,1928,68,1,Pounds,Jamaica,Cyprus
+51,352,1929,0,1,Pounds,Jamaica,Cyprus
+51,352,1930,9,1,Pounds,Jamaica,Cyprus
+51,352,1931,35,1,Pounds,Jamaica,Cyprus
+51,352,1932,212,1,Pounds,Jamaica,Cyprus
+51,352,1933,35,1,Pounds,Jamaica,Cyprus
+51,352,1934,152,1,Pounds,Jamaica,Cyprus
+51,352,1935,876,1,Pounds,Jamaica,Cyprus
+51,352,1936,1154,1,Pounds,Jamaica,Cyprus
+51,352,1937,424,1,Pounds,Jamaica,Cyprus
+51,352,1938,473,1,Pounds,Jamaica,Cyprus
+51,352,1939,455,1,Pounds,Jamaica,Cyprus
+51,352,1940,0,1,Pounds,Jamaica,Cyprus
+51,352,1941,70,1,Pounds,Jamaica,Cyprus
+51,352,1943,0,1,Pounds,Jamaica,Cyprus
+51,352,1944,0,1,Pounds,Jamaica,Cyprus
+51,352,1945,0,1,Pounds,Jamaica,Cyprus
+51,352,1946,0,1,Pounds,Jamaica,Cyprus
+51,352,1947,0,1,,Jamaica,Cyprus
+51,352,1948,483,1,,Jamaica,Cyprus
+51,352,1949,2967,1,,Jamaica,Cyprus
+51,355,1920,0,1,Pounds,Jamaica,Bulgaria
+51,355,1921,0,1,Pounds,Jamaica,Bulgaria
+51,355,1922,0,1,Pounds,Jamaica,Bulgaria
+51,355,1923,0,1,Pounds,Jamaica,Bulgaria
+51,355,1924,4,1,Pounds,Jamaica,Bulgaria
+51,355,1925,0,1,Pounds,Jamaica,Bulgaria
+51,355,1926,1,1,Pounds,Jamaica,Bulgaria
+51,355,1927,9,1,Pounds,Jamaica,Bulgaria
+51,355,1928,0,1,Pounds,Jamaica,Bulgaria
+51,355,1929,0,1,Pounds,Jamaica,Bulgaria
+51,355,1930,0,1,Pounds,Jamaica,Bulgaria
+51,355,1931,2,1,Pounds,Jamaica,Bulgaria
+51,355,1932,0,1,Pounds,Jamaica,Bulgaria
+51,355,1933,0,1,Pounds,Jamaica,Bulgaria
+51,355,1934,3,1,Pounds,Jamaica,Bulgaria
+51,355,1935,34,1,Pounds,Jamaica,Bulgaria
+51,355,1936,6,1,Pounds,Jamaica,Bulgaria
+51,355,1937,3,1,Pounds,Jamaica,Bulgaria
+51,355,1938,3,1,Pounds,Jamaica,Bulgaria
+51,355,1939,18,1,Pounds,Jamaica,Bulgaria
+51,355,1940,0,1,Pounds,Jamaica,Bulgaria
+51,355,1941,3,1,Pounds,Jamaica,Bulgaria
+51,355,1943,0,1,Pounds,Jamaica,Bulgaria
+51,355,1944,0,1,Pounds,Jamaica,Bulgaria
+51,355,1945,0,1,Pounds,Jamaica,Bulgaria
+51,355,1946,0,1,Pounds,Jamaica,Bulgaria
+51,355,1947,0,1,,Jamaica,Bulgaria
+51,355,1948,0,1,,Jamaica,Bulgaria
+51,355,1949,0,1,,Jamaica,Bulgaria
+51,360,1920,0,1,Pounds,Jamaica,Romania
+51,360,1921,0,1,Pounds,Jamaica,Romania
+51,360,1922,7,1,Pounds,Jamaica,Romania
+51,360,1923,0,1,Pounds,Jamaica,Romania
+51,360,1924,4,1,Pounds,Jamaica,Romania
+51,360,1925,0,1,Pounds,Jamaica,Romania
+51,360,1926,0,1,Pounds,Jamaica,Romania
+51,360,1927,1,1,Pounds,Jamaica,Romania
+51,360,1928,0,1,Pounds,Jamaica,Romania
+51,360,1929,0,1,Pounds,Jamaica,Romania
+51,360,1930,1,1,Pounds,Jamaica,Romania
+51,360,1931,0,1,Pounds,Jamaica,Romania
+51,360,1932,64,1,Pounds,Jamaica,Romania
+51,360,1933,7,1,Pounds,Jamaica,Romania
+51,360,1934,11,1,Pounds,Jamaica,Romania
+51,360,1935,4,1,Pounds,Jamaica,Romania
+51,360,1936,30,1,Pounds,Jamaica,Romania
+51,360,1937,31,1,Pounds,Jamaica,Romania
+51,360,1938,8,1,Pounds,Jamaica,Romania
+51,360,1939,0,1,Pounds,Jamaica,Romania
+51,360,1940,0,1,Pounds,Jamaica,Romania
+51,360,1941,0,1,Pounds,Jamaica,Romania
+51,360,1943,0,1,Pounds,Jamaica,Romania
+51,360,1944,0,1,Pounds,Jamaica,Romania
+51,360,1945,0,1,Pounds,Jamaica,Romania
+51,360,1946,0,1,Pounds,Jamaica,Romania
+51,360,1947,0,1,,Jamaica,Romania
+51,360,1948,0,1,,Jamaica,Romania
+51,360,1949,0,1,,Jamaica,Romania
+51,365,1920,0,1,Pounds,Jamaica,Russia
+51,365,1921,0,1,Pounds,Jamaica,Russia
+51,365,1922,80,1,Pounds,Jamaica,Russia
+51,365,1923,64,1,Pounds,Jamaica,Russia
+51,365,1924,88,1,Pounds,Jamaica,Russia
+51,365,1925,64,1,Pounds,Jamaica,Russia
+51,365,1926,82,1,Pounds,Jamaica,Russia
+51,365,1927,496,1,Pounds,Jamaica,Russia
+51,365,1928,131,1,Pounds,Jamaica,Russia
+51,365,1929,532,1,Pounds,Jamaica,Russia
+51,365,1930,190,1,Pounds,Jamaica,Russia
+51,365,1931,166,1,Pounds,Jamaica,Russia
+51,365,1932,506,1,Pounds,Jamaica,Russia
+51,365,1933,1031,1,Pounds,Jamaica,Russia
+51,365,1934,1123,1,Pounds,Jamaica,Russia
+51,365,1935,904,1,Pounds,Jamaica,Russia
+51,365,1936,758,1,Pounds,Jamaica,Russia
+51,365,1937,1915,1,Pounds,Jamaica,Russia
+51,365,1938,170,1,Pounds,Jamaica,Russia
+51,365,1939,206,1,Pounds,Jamaica,Russia
+51,365,1940,143,1,Pounds,Jamaica,Russia
+51,365,1941,11,1,Pounds,Jamaica,Russia
+51,365,1943,0,1,Pounds,Jamaica,Russia
+51,365,1944,0,1,Pounds,Jamaica,Russia
+51,365,1945,0,1,Pounds,Jamaica,Russia
+51,365,1946,0,1,Pounds,Jamaica,Russia
+51,365,1947,0,1,,Jamaica,Russia
+51,365,1948,74,1,,Jamaica,Russia
+51,365,1949,36,1,,Jamaica,Russia
+51,366,1920,0,1,Pounds,Jamaica,Estonia
+51,366,1921,0,1,Pounds,Jamaica,Estonia
+51,366,1922,0,1,Pounds,Jamaica,Estonia
+51,366,1923,0,1,Pounds,Jamaica,Estonia
+51,366,1924,0,1,Pounds,Jamaica,Estonia
+51,366,1925,146,1,Pounds,Jamaica,Estonia
+51,366,1926,627,1,Pounds,Jamaica,Estonia
+51,366,1927,0,1,Pounds,Jamaica,Estonia
+51,366,1928,0,1,Pounds,Jamaica,Estonia
+51,366,1929,25,1,Pounds,Jamaica,Estonia
+51,366,1930,0,1,Pounds,Jamaica,Estonia
+51,366,1931,0,1,Pounds,Jamaica,Estonia
+51,366,1932,100,1,Pounds,Jamaica,Estonia
+51,366,1933,109,1,Pounds,Jamaica,Estonia
+51,366,1934,69,1,Pounds,Jamaica,Estonia
+51,366,1935,369,1,Pounds,Jamaica,Estonia
+51,366,1936,144,1,Pounds,Jamaica,Estonia
+51,366,1937,75,1,Pounds,Jamaica,Estonia
+51,366,1938,158,1,Pounds,Jamaica,Estonia
+51,366,1939,78,1,Pounds,Jamaica,Estonia
+51,366,1940,38,1,Pounds,Jamaica,Estonia
+51,366,1941,2,1,Pounds,Jamaica,Estonia
+51,366,1943,0,1,Pounds,Jamaica,Estonia
+51,366,1944,0,1,Pounds,Jamaica,Estonia
+51,366,1945,0,1,Pounds,Jamaica,Estonia
+51,366,1946,0,1,Pounds,Jamaica,Estonia
+51,366,1947,310,1,,Jamaica,Estonia
+51,366,1948,0,1,,Jamaica,Estonia
+51,366,1949,0,1,,Jamaica,Estonia
+51,367,1920,0,1,Pounds,Jamaica,Latvia
+51,367,1921,0,1,Pounds,Jamaica,Latvia
+51,367,1922,0,1,Pounds,Jamaica,Latvia
+51,367,1923,0,1,Pounds,Jamaica,Latvia
+51,367,1924,0,1,Pounds,Jamaica,Latvia
+51,367,1925,0,1,Pounds,Jamaica,Latvia
+51,367,1926,0,1,Pounds,Jamaica,Latvia
+51,367,1927,0,1,Pounds,Jamaica,Latvia
+51,367,1928,0,1,Pounds,Jamaica,Latvia
+51,367,1929,0,1,Pounds,Jamaica,Latvia
+51,367,1930,0,1,Pounds,Jamaica,Latvia
+51,367,1931,0,1,Pounds,Jamaica,Latvia
+51,367,1932,14,1,Pounds,Jamaica,Latvia
+51,367,1933,49,1,Pounds,Jamaica,Latvia
+51,367,1934,0,1,Pounds,Jamaica,Latvia
+51,367,1935,65,1,Pounds,Jamaica,Latvia
+51,367,1936,44,1,Pounds,Jamaica,Latvia
+51,367,1937,65,1,Pounds,Jamaica,Latvia
+51,367,1938,4,1,Pounds,Jamaica,Latvia
+51,367,1939,0,1,Pounds,Jamaica,Latvia
+51,367,1940,0,1,Pounds,Jamaica,Latvia
+51,367,1941,0,1,Pounds,Jamaica,Latvia
+51,367,1943,0,1,Pounds,Jamaica,Latvia
+51,367,1944,0,1,Pounds,Jamaica,Latvia
+51,367,1945,0,1,Pounds,Jamaica,Latvia
+51,367,1946,0,1,Pounds,Jamaica,Latvia
+51,367,1947,0,1,,Jamaica,Latvia
+51,367,1948,0,1,,Jamaica,Latvia
+51,367,1949,0,1,,Jamaica,Latvia
+51,368,1920,0,1,Pounds,Jamaica,Lithuania
+51,368,1921,0,1,Pounds,Jamaica,Lithuania
+51,368,1922,0,1,Pounds,Jamaica,Lithuania
+51,368,1923,0,1,Pounds,Jamaica,Lithuania
+51,368,1924,0,1,Pounds,Jamaica,Lithuania
+51,368,1925,0,1,Pounds,Jamaica,Lithuania
+51,368,1926,0,1,Pounds,Jamaica,Lithuania
+51,368,1927,0,1,Pounds,Jamaica,Lithuania
+51,368,1928,0,1,Pounds,Jamaica,Lithuania
+51,368,1929,0,1,Pounds,Jamaica,Lithuania
+51,368,1930,0,1,Pounds,Jamaica,Lithuania
+51,368,1931,0,1,Pounds,Jamaica,Lithuania
+51,368,1932,0,1,Pounds,Jamaica,Lithuania
+51,368,1933,6,1,Pounds,Jamaica,Lithuania
+51,368,1934,0,1,Pounds,Jamaica,Lithuania
+51,368,1935,88,1,Pounds,Jamaica,Lithuania
+51,368,1936,46,1,Pounds,Jamaica,Lithuania
+51,368,1937,26,1,Pounds,Jamaica,Lithuania
+51,368,1938,76,1,Pounds,Jamaica,Lithuania
+51,368,1939,5,1,Pounds,Jamaica,Lithuania
+51,368,1940,0,1,Pounds,Jamaica,Lithuania
+51,368,1941,0,1,Pounds,Jamaica,Lithuania
+51,368,1943,0,1,Pounds,Jamaica,Lithuania
+51,368,1944,0,1,Pounds,Jamaica,Lithuania
+51,368,1945,0,1,Pounds,Jamaica,Lithuania
+51,368,1946,0,1,Pounds,Jamaica,Lithuania
+51,368,1947,0,1,,Jamaica,Lithuania
+51,368,1948,0,1,,Jamaica,Lithuania
+51,368,1949,0,1,,Jamaica,Lithuania
+51,371,1920,0,1,Pounds,Jamaica,Armenia
+51,371,1921,0,1,Pounds,Jamaica,Armenia
+51,371,1922,0,1,Pounds,Jamaica,Armenia
+51,371,1923,0,1,Pounds,Jamaica,Armenia
+51,371,1924,0,1,Pounds,Jamaica,Armenia
+51,371,1925,0,1,Pounds,Jamaica,Armenia
+51,371,1926,0,1,Pounds,Jamaica,Armenia
+51,371,1927,0,1,Pounds,Jamaica,Armenia
+51,371,1928,1,1,Pounds,Jamaica,Armenia
+51,371,1929,0,1,Pounds,Jamaica,Armenia
+51,371,1930,0,1,Pounds,Jamaica,Armenia
+51,371,1931,0,1,Pounds,Jamaica,Armenia
+51,371,1932,0,1,Pounds,Jamaica,Armenia
+51,371,1933,0,1,Pounds,Jamaica,Armenia
+51,371,1934,0,1,Pounds,Jamaica,Armenia
+51,371,1935,0,1,Pounds,Jamaica,Armenia
+51,371,1936,0,1,Pounds,Jamaica,Armenia
+51,371,1937,0,1,Pounds,Jamaica,Armenia
+51,371,1938,0,1,Pounds,Jamaica,Armenia
+51,371,1939,0,1,Pounds,Jamaica,Armenia
+51,371,1940,0,1,Pounds,Jamaica,Armenia
+51,371,1941,0,1,Pounds,Jamaica,Armenia
+51,371,1943,0,1,Pounds,Jamaica,Armenia
+51,371,1944,0,1,Pounds,Jamaica,Armenia
+51,371,1945,0,1,Pounds,Jamaica,Armenia
+51,371,1946,0,1,Pounds,Jamaica,Armenia
+51,371,1947,0,1,,Jamaica,Armenia
+51,371,1948,0,1,,Jamaica,Armenia
+51,371,1949,0,1,,Jamaica,Armenia
+51,375,1920,0,1,Pounds,Jamaica,Finland
+51,375,1921,0,1,Pounds,Jamaica,Finland
+51,375,1922,0,1,Pounds,Jamaica,Finland
+51,375,1923,178,1,Pounds,Jamaica,Finland
+51,375,1924,691,1,Pounds,Jamaica,Finland
+51,375,1925,574,1,Pounds,Jamaica,Finland
+51,375,1926,2180,1,Pounds,Jamaica,Finland
+51,375,1927,261,1,Pounds,Jamaica,Finland
+51,375,1928,1014,1,Pounds,Jamaica,Finland
+51,375,1929,545,1,Pounds,Jamaica,Finland
+51,375,1930,329,1,Pounds,Jamaica,Finland
+51,375,1931,99,1,Pounds,Jamaica,Finland
+51,375,1932,420,1,Pounds,Jamaica,Finland
+51,375,1933,146,1,Pounds,Jamaica,Finland
+51,375,1934,520,1,Pounds,Jamaica,Finland
+51,375,1935,1583,1,Pounds,Jamaica,Finland
+51,375,1936,1354,1,Pounds,Jamaica,Finland
+51,375,1937,2953,1,Pounds,Jamaica,Finland
+51,375,1938,3636,1,Pounds,Jamaica,Finland
+51,375,1939,2145,1,Pounds,Jamaica,Finland
+51,375,1940,1474,1,Pounds,Jamaica,Finland
+51,375,1941,0,1,Pounds,Jamaica,Finland
+51,375,1943,0,1,Pounds,Jamaica,Finland
+51,375,1944,0,1,Pounds,Jamaica,Finland
+51,375,1945,0,1,Pounds,Jamaica,Finland
+51,375,1946,97,1,Pounds,Jamaica,Finland
+51,375,1947,361,1,,Jamaica,Finland
+51,375,1948,0,1,,Jamaica,Finland
+51,375,1949,884,1,,Jamaica,Finland
+51,380,1920,20052,1,Pounds,Jamaica,Sweden
+51,380,1921,12459,1,Pounds,Jamaica,Sweden
+51,380,1922,15434,1,Pounds,Jamaica,Sweden
+51,380,1923,10581,1,Pounds,Jamaica,Sweden
+51,380,1924,9027,1,Pounds,Jamaica,Sweden
+51,380,1925,6009,1,Pounds,Jamaica,Sweden
+51,380,1926,12492,1,Pounds,Jamaica,Sweden
+51,380,1927,14241,1,Pounds,Jamaica,Sweden
+51,380,1928,20857,1,Pounds,Jamaica,Sweden
+51,380,1929,20273,1,Pounds,Jamaica,Sweden
+51,380,1930,23474,1,Pounds,Jamaica,Sweden
+51,380,1931,24096,1,Pounds,Jamaica,Sweden
+51,380,1932,25415,1,Pounds,Jamaica,Sweden
+51,380,1933,27760,1,Pounds,Jamaica,Sweden
+51,380,1934,13207,1,Pounds,Jamaica,Sweden
+51,380,1935,12032,1,Pounds,Jamaica,Sweden
+51,380,1936,8758,1,Pounds,Jamaica,Sweden
+51,380,1937,11692,1,Pounds,Jamaica,Sweden
+51,380,1938,13289,1,Pounds,Jamaica,Sweden
+51,380,1939,13476,1,Pounds,Jamaica,Sweden
+51,380,1940,4766,1,Pounds,Jamaica,Sweden
+51,380,1941,127,1,Pounds,Jamaica,Sweden
+51,380,1943,5,1,Pounds,Jamaica,Sweden
+51,380,1944,0,1,Pounds,Jamaica,Sweden
+51,380,1945,1521,1,Pounds,Jamaica,Sweden
+51,380,1946,4903,1,Pounds,Jamaica,Sweden
+51,380,1947,22415,1,,Jamaica,Sweden
+51,380,1948,34077,1,,Jamaica,Sweden
+51,380,1949,14105,1,,Jamaica,Sweden
+51,385,1920,337,1,Pounds,Jamaica,Norway
+51,385,1921,487,1,Pounds,Jamaica,Norway
+51,385,1922,878,1,Pounds,Jamaica,Norway
+51,385,1923,981,1,Pounds,Jamaica,Norway
+51,385,1924,6068,1,Pounds,Jamaica,Norway
+51,385,1925,6068,1,Pounds,Jamaica,Norway
+51,385,1926,4557,1,Pounds,Jamaica,Norway
+51,385,1927,9048,1,Pounds,Jamaica,Norway
+51,385,1928,14222,1,Pounds,Jamaica,Norway
+51,385,1929,10812,1,Pounds,Jamaica,Norway
+51,385,1930,6559,1,Pounds,Jamaica,Norway
+51,385,1931,2500,1,Pounds,Jamaica,Norway
+51,385,1932,3213,1,Pounds,Jamaica,Norway
+51,385,1933,3217,1,Pounds,Jamaica,Norway
+51,385,1934,3253,1,Pounds,Jamaica,Norway
+51,385,1935,9027,1,Pounds,Jamaica,Norway
+51,385,1936,3552,1,Pounds,Jamaica,Norway
+51,385,1937,4305,1,Pounds,Jamaica,Norway
+51,385,1938,5452,1,Pounds,Jamaica,Norway
+51,385,1939,5347,1,Pounds,Jamaica,Norway
+51,385,1940,1259,1,Pounds,Jamaica,Norway
+51,385,1941,71,1,Pounds,Jamaica,Norway
+51,385,1943,0,1,Pounds,Jamaica,Norway
+51,385,1944,0,1,Pounds,Jamaica,Norway
+51,385,1945,0,1,Pounds,Jamaica,Norway
+51,385,1946,489,1,Pounds,Jamaica,Norway
+51,385,1947,29848,1,,Jamaica,Norway
+51,385,1948,75019,1,,Jamaica,Norway
+51,385,1949,60815,1,,Jamaica,Norway
+51,390,1920,6470,1,Pounds,Jamaica,Denmark
+51,390,1921,7821,1,Pounds,Jamaica,Denmark
+51,390,1922,3406,1,Pounds,Jamaica,Denmark
+51,390,1923,8085,1,Pounds,Jamaica,Denmark
+51,390,1924,8445,1,Pounds,Jamaica,Denmark
+51,390,1925,9014,1,Pounds,Jamaica,Denmark
+51,390,1926,8863,1,Pounds,Jamaica,Denmark
+51,390,1927,14309,1,Pounds,Jamaica,Denmark
+51,390,1928,11751,1,Pounds,Jamaica,Denmark
+51,390,1929,15791,1,Pounds,Jamaica,Denmark
+51,390,1930,13156,1,Pounds,Jamaica,Denmark
+51,390,1931,9341,1,Pounds,Jamaica,Denmark
+51,390,1932,21727,1,Pounds,Jamaica,Denmark
+51,390,1933,22308,1,Pounds,Jamaica,Denmark
+51,390,1934,23451,1,Pounds,Jamaica,Denmark
+51,390,1935,15653,1,Pounds,Jamaica,Denmark
+51,390,1936,4322,1,Pounds,Jamaica,Denmark
+51,390,1937,9709,1,Pounds,Jamaica,Denmark
+51,390,1938,12808,1,Pounds,Jamaica,Denmark
+51,390,1939,8358,1,Pounds,Jamaica,Denmark
+51,390,1940,3465,1,Pounds,Jamaica,Denmark
+51,390,1941,7,1,Pounds,Jamaica,Denmark
+51,390,1943,0,1,Pounds,Jamaica,Denmark
+51,390,1944,0,1,Pounds,Jamaica,Denmark
+51,390,1945,0,1,Pounds,Jamaica,Denmark
+51,390,1946,28,1,Pounds,Jamaica,Denmark
+51,390,1947,918,1,,Jamaica,Denmark
+51,390,1948,28799,1,,Jamaica,Denmark
+51,390,1949,49137,1,,Jamaica,Denmark
+51,395,1920,0,1,Pounds,Jamaica,Iceland
+51,395,1921,0,1,Pounds,Jamaica,Iceland
+51,395,1922,0,1,Pounds,Jamaica,Iceland
+51,395,1923,0,1,Pounds,Jamaica,Iceland
+51,395,1924,4,1,Pounds,Jamaica,Iceland
+51,395,1925,0,1,Pounds,Jamaica,Iceland
+51,395,1926,11,1,Pounds,Jamaica,Iceland
+51,395,1927,0,1,Pounds,Jamaica,Iceland
+51,395,1928,0,1,Pounds,Jamaica,Iceland
+51,395,1929,0,1,Pounds,Jamaica,Iceland
+51,395,1930,0,1,Pounds,Jamaica,Iceland
+51,395,1931,0,1,Pounds,Jamaica,Iceland
+51,395,1932,0,1,Pounds,Jamaica,Iceland
+51,395,1933,0,1,Pounds,Jamaica,Iceland
+51,395,1934,0,1,Pounds,Jamaica,Iceland
+51,395,1935,0,1,Pounds,Jamaica,Iceland
+51,395,1936,0,1,Pounds,Jamaica,Iceland
+51,395,1937,0,1,Pounds,Jamaica,Iceland
+51,395,1938,0,1,Pounds,Jamaica,Iceland
+51,395,1939,0,1,Pounds,Jamaica,Iceland
+51,395,1940,0,1,Pounds,Jamaica,Iceland
+51,395,1941,0,1,Pounds,Jamaica,Iceland
+51,395,1943,0,1,Pounds,Jamaica,Iceland
+51,395,1944,0,1,Pounds,Jamaica,Iceland
+51,395,1945,0,1,Pounds,Jamaica,Iceland
+51,395,1946,0,1,Pounds,Jamaica,Iceland
+51,395,1947,0,1,,Jamaica,Iceland
+51,395,1948,0,1,,Jamaica,Iceland
+51,395,1949,0,1,,Jamaica,Iceland
+51,401,1920,0,1,Pounds,Jamaica,Madeira
+51,401,1921,0,1,Pounds,Jamaica,Madeira
+51,401,1922,0,1,Pounds,Jamaica,Madeira
+51,401,1923,0,1,Pounds,Jamaica,Madeira
+51,401,1924,0,1,Pounds,Jamaica,Madeira
+51,401,1925,52,1,Pounds,Jamaica,Madeira
+51,401,1926,25,1,Pounds,Jamaica,Madeira
+51,401,1927,116,1,Pounds,Jamaica,Madeira
+51,401,1928,43,1,Pounds,Jamaica,Madeira
+51,401,1929,0,1,Pounds,Jamaica,Madeira
+51,401,1930,45,1,Pounds,Jamaica,Madeira
+51,401,1931,19,1,Pounds,Jamaica,Madeira
+51,401,1932,46,1,Pounds,Jamaica,Madeira
+51,401,1933,86,1,Pounds,Jamaica,Madeira
+51,401,1934,53,1,Pounds,Jamaica,Madeira
+51,401,1935,36,1,Pounds,Jamaica,Madeira
+51,401,1936,18,1,Pounds,Jamaica,Madeira
+51,401,1937,17,1,Pounds,Jamaica,Madeira
+51,401,1938,25,1,Pounds,Jamaica,Madeira
+51,401,1939,4,1,Pounds,Jamaica,Madeira
+51,401,1940,193,1,Pounds,Jamaica,Madeira
+51,401,1941,0,1,Pounds,Jamaica,Madeira
+51,401,1943,0,1,Pounds,Jamaica,Madeira
+51,401,1944,0,1,Pounds,Jamaica,Madeira
+51,401,1945,0,1,Pounds,Jamaica,Madeira
+51,401,1946,0,1,Pounds,Jamaica,Madeira
+51,401,1947,0,1,,Jamaica,Madeira
+51,401,1948,0,1,,Jamaica,Madeira
+51,401,1949,0,1,,Jamaica,Madeira
+51,410,1920,0,1,Pounds,Jamaica,Canary Islands
+51,410,1921,256,1,Pounds,Jamaica,Canary Islands
+51,410,1922,0,1,Pounds,Jamaica,Canary Islands
+51,410,1923,0,1,Pounds,Jamaica,Canary Islands
+51,410,1924,0,1,Pounds,Jamaica,Canary Islands
+51,410,1925,27,1,Pounds,Jamaica,Canary Islands
+51,410,1926,7,1,Pounds,Jamaica,Canary Islands
+51,410,1927,0,1,Pounds,Jamaica,Canary Islands
+51,410,1928,3,1,Pounds,Jamaica,Canary Islands
+51,410,1929,0,1,Pounds,Jamaica,Canary Islands
+51,410,1930,0,1,Pounds,Jamaica,Canary Islands
+51,410,1931,0,1,Pounds,Jamaica,Canary Islands
+51,410,1932,0,1,Pounds,Jamaica,Canary Islands
+51,410,1933,0,1,Pounds,Jamaica,Canary Islands
+51,410,1934,0,1,Pounds,Jamaica,Canary Islands
+51,410,1935,8,1,Pounds,Jamaica,Canary Islands
+51,410,1936,0,1,Pounds,Jamaica,Canary Islands
+51,410,1937,0,1,Pounds,Jamaica,Canary Islands
+51,410,1938,4,1,Pounds,Jamaica,Canary Islands
+51,410,1939,1,1,Pounds,Jamaica,Canary Islands
+51,410,1940,0,1,Pounds,Jamaica,Canary Islands
+51,410,1941,13,1,Pounds,Jamaica,Canary Islands
+51,410,1943,0,1,Pounds,Jamaica,Canary Islands
+51,410,1944,0,1,Pounds,Jamaica,Canary Islands
+51,410,1945,0,1,Pounds,Jamaica,Canary Islands
+51,410,1946,0,1,Pounds,Jamaica,Canary Islands
+51,410,1947,0,1,,Jamaica,Canary Islands
+51,410,1948,0,1,,Jamaica,Canary Islands
+51,410,1949,195,1,,Jamaica,Canary Islands
+51,432,1920,0,1,Pounds,Jamaica,Mali
+51,432,1921,0,1,Pounds,Jamaica,Mali
+51,432,1922,0,1,Pounds,Jamaica,Mali
+51,432,1923,0,1,Pounds,Jamaica,Mali
+51,432,1924,0,1,Pounds,Jamaica,Mali
+51,432,1925,0,1,Pounds,Jamaica,Mali
+51,432,1926,0,1,Pounds,Jamaica,Mali
+51,432,1927,0,1,Pounds,Jamaica,Mali
+51,432,1928,0,1,Pounds,Jamaica,Mali
+51,432,1929,0,1,Pounds,Jamaica,Mali
+51,432,1930,0,1,Pounds,Jamaica,Mali
+51,432,1931,0,1,Pounds,Jamaica,Mali
+51,432,1932,0,1,Pounds,Jamaica,Mali
+51,432,1933,0,1,Pounds,Jamaica,Mali
+51,432,1934,0,1,Pounds,Jamaica,Mali
+51,432,1935,0,1,Pounds,Jamaica,Mali
+51,432,1936,0,1,Pounds,Jamaica,Mali
+51,432,1937,0,1,Pounds,Jamaica,Mali
+51,432,1938,0,1,Pounds,Jamaica,Mali
+51,432,1939,32,1,Pounds,Jamaica,Mali
+51,432,1940,82,1,Pounds,Jamaica,Mali
+51,432,1941,0,1,Pounds,Jamaica,Mali
+51,432,1943,0,1,Pounds,Jamaica,Mali
+51,432,1944,0,1,Pounds,Jamaica,Mali
+51,432,1945,0,1,Pounds,Jamaica,Mali
+51,432,1946,0,1,Pounds,Jamaica,Mali
+51,432,1947,0,1,,Jamaica,Mali
+51,432,1948,0,1,,Jamaica,Mali
+51,432,1949,0,1,,Jamaica,Mali
+51,450,1920,0,1,Pounds,Jamaica,Liberia
+51,450,1921,0,1,Pounds,Jamaica,Liberia
+51,450,1922,0,1,Pounds,Jamaica,Liberia
+51,450,1923,0,1,Pounds,Jamaica,Liberia
+51,450,1924,0,1,Pounds,Jamaica,Liberia
+51,450,1925,0,1,Pounds,Jamaica,Liberia
+51,450,1926,0,1,Pounds,Jamaica,Liberia
+51,450,1927,0,1,Pounds,Jamaica,Liberia
+51,450,1928,0,1,Pounds,Jamaica,Liberia
+51,450,1929,0,1,Pounds,Jamaica,Liberia
+51,450,1930,0,1,Pounds,Jamaica,Liberia
+51,450,1931,0,1,Pounds,Jamaica,Liberia
+51,450,1932,0,1,Pounds,Jamaica,Liberia
+51,450,1933,0,1,Pounds,Jamaica,Liberia
+51,450,1934,0,1,Pounds,Jamaica,Liberia
+51,450,1935,0,1,Pounds,Jamaica,Liberia
+51,450,1936,0,1,Pounds,Jamaica,Liberia
+51,450,1937,0,1,Pounds,Jamaica,Liberia
+51,450,1938,0,1,Pounds,Jamaica,Liberia
+51,450,1939,1,1,Pounds,Jamaica,Liberia
+51,450,1940,0,1,Pounds,Jamaica,Liberia
+51,450,1941,0,1,Pounds,Jamaica,Liberia
+51,450,1943,0,1,Pounds,Jamaica,Liberia
+51,450,1944,0,1,Pounds,Jamaica,Liberia
+51,450,1945,0,1,Pounds,Jamaica,Liberia
+51,450,1946,0,1,Pounds,Jamaica,Liberia
+51,450,1947,0,1,,Jamaica,Liberia
+51,450,1948,0,1,,Jamaica,Liberia
+51,450,1949,0,1,,Jamaica,Liberia
+51,465,1920,0,1,Pounds,Jamaica,British West Africa
+51,465,1921,0,1,Pounds,Jamaica,British West Africa
+51,465,1922,13,1,Pounds,Jamaica,British West Africa
+51,465,1923,9,1,Pounds,Jamaica,British West Africa
+51,465,1924,5,1,Pounds,Jamaica,British West Africa
+51,465,1925,34,1,Pounds,Jamaica,British West Africa
+51,465,1926,18,1,Pounds,Jamaica,British West Africa
+51,465,1927,30,1,Pounds,Jamaica,British West Africa
+51,465,1928,9,1,Pounds,Jamaica,British West Africa
+51,465,1929,12,1,Pounds,Jamaica,British West Africa
+51,465,1930,6,1,Pounds,Jamaica,British West Africa
+51,465,1931,58,1,Pounds,Jamaica,British West Africa
+51,465,1932,118,1,Pounds,Jamaica,British West Africa
+51,465,1933,237,1,Pounds,Jamaica,British West Africa
+51,465,1934,622,1,Pounds,Jamaica,British West Africa
+51,465,1935,117,1,Pounds,Jamaica,British West Africa
+51,465,1936,648,1,Pounds,Jamaica,British West Africa
+51,465,1937,379,1,Pounds,Jamaica,British West Africa
+51,465,1938,273,1,Pounds,Jamaica,British West Africa
+51,465,1939,468,1,Pounds,Jamaica,British West Africa
+51,465,1940,5,1,Pounds,Jamaica,British West Africa
+51,465,1941,0,1,Pounds,Jamaica,British West Africa
+51,465,1943,0,1,Pounds,Jamaica,British West Africa
+51,465,1944,0,1,Pounds,Jamaica,British West Africa
+51,465,1945,0,1,Pounds,Jamaica,British West Africa
+51,465,1946,0,1,Pounds,Jamaica,British West Africa
+51,465,1947,2,1,,Jamaica,British West Africa
+51,465,1948,5,1,,Jamaica,British West Africa
+51,465,1949,0,1,,Jamaica,British West Africa
+51,475,1920,0,1,Pounds,Jamaica,Nigeria
+51,475,1921,0,1,Pounds,Jamaica,Nigeria
+51,475,1922,0,1,Pounds,Jamaica,Nigeria
+51,475,1923,0,1,Pounds,Jamaica,Nigeria
+51,475,1924,0,1,Pounds,Jamaica,Nigeria
+51,475,1925,0,1,Pounds,Jamaica,Nigeria
+51,475,1926,0,1,Pounds,Jamaica,Nigeria
+51,475,1927,0,1,Pounds,Jamaica,Nigeria
+51,475,1928,0,1,Pounds,Jamaica,Nigeria
+51,475,1929,0,1,Pounds,Jamaica,Nigeria
+51,475,1930,0,1,Pounds,Jamaica,Nigeria
+51,475,1931,0,1,Pounds,Jamaica,Nigeria
+51,475,1932,0,1,Pounds,Jamaica,Nigeria
+51,475,1933,0,1,Pounds,Jamaica,Nigeria
+51,475,1934,0,1,Pounds,Jamaica,Nigeria
+51,475,1935,0,1,Pounds,Jamaica,Nigeria
+51,475,1936,0,1,Pounds,Jamaica,Nigeria
+51,475,1937,0,1,Pounds,Jamaica,Nigeria
+51,475,1938,0,1,Pounds,Jamaica,Nigeria
+51,475,1939,0,1,Pounds,Jamaica,Nigeria
+51,475,1940,1,1,Pounds,Jamaica,Nigeria
+51,475,1941,6,1,Pounds,Jamaica,Nigeria
+51,475,1943,0,1,Pounds,Jamaica,Nigeria
+51,475,1944,0,1,Pounds,Jamaica,Nigeria
+51,475,1945,0,1,Pounds,Jamaica,Nigeria
+51,475,1946,0,1,Pounds,Jamaica,Nigeria
+51,475,1947,0,1,,Jamaica,Nigeria
+51,475,1948,0,1,,Jamaica,Nigeria
+51,475,1949,0,1,,Jamaica,Nigeria
+51,490,1920,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1921,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1922,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1923,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1924,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1925,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1926,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1927,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1928,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1929,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1930,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1931,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1932,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1933,91,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1934,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1935,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1936,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1937,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1938,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1939,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1940,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1941,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1943,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1944,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1945,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1946,0,1,Pounds,Jamaica,"Congo, Dem. Republic"
+51,490,1947,0,1,,Jamaica,"Congo, Dem. Republic"
+51,490,1948,0,1,,Jamaica,"Congo, Dem. Republic"
+51,490,1949,0,1,,Jamaica,"Congo, Dem. Republic"
+51,501,1920,0,1,Pounds,Jamaica,Kenya
+51,501,1921,0,1,Pounds,Jamaica,Kenya
+51,501,1922,0,1,Pounds,Jamaica,Kenya
+51,501,1923,0,1,Pounds,Jamaica,Kenya
+51,501,1924,0,1,Pounds,Jamaica,Kenya
+51,501,1925,0,1,Pounds,Jamaica,Kenya
+51,501,1926,0,1,Pounds,Jamaica,Kenya
+51,501,1927,0,1,Pounds,Jamaica,Kenya
+51,501,1928,0,1,Pounds,Jamaica,Kenya
+51,501,1929,0,1,Pounds,Jamaica,Kenya
+51,501,1930,0,1,Pounds,Jamaica,Kenya
+51,501,1931,0,1,Pounds,Jamaica,Kenya
+51,501,1932,187,1,Pounds,Jamaica,Kenya
+51,501,1933,401,1,Pounds,Jamaica,Kenya
+51,501,1934,0,1,Pounds,Jamaica,Kenya
+51,501,1935,0,1,Pounds,Jamaica,Kenya
+51,501,1936,0,1,Pounds,Jamaica,Kenya
+51,501,1937,0,1,Pounds,Jamaica,Kenya
+51,501,1938,0,1,Pounds,Jamaica,Kenya
+51,501,1939,0,1,Pounds,Jamaica,Kenya
+51,501,1940,0,1,Pounds,Jamaica,Kenya
+51,501,1941,695,1,Pounds,Jamaica,Kenya
+51,501,1943,0,1,Pounds,Jamaica,Kenya
+51,501,1944,0,1,Pounds,Jamaica,Kenya
+51,501,1945,0,1,Pounds,Jamaica,Kenya
+51,501,1946,0,1,Pounds,Jamaica,Kenya
+51,501,1947,0,1,,Jamaica,Kenya
+51,501,1948,0,1,,Jamaica,Kenya
+51,501,1949,0,1,,Jamaica,Kenya
+51,505,1920,0,1,Pounds,Jamaica,British East Africa
+51,505,1921,0,1,Pounds,Jamaica,British East Africa
+51,505,1922,46,1,Pounds,Jamaica,British East Africa
+51,505,1923,30,1,Pounds,Jamaica,British East Africa
+51,505,1924,8,1,Pounds,Jamaica,British East Africa
+51,505,1925,13,1,Pounds,Jamaica,British East Africa
+51,505,1926,13,1,Pounds,Jamaica,British East Africa
+51,505,1927,1,1,Pounds,Jamaica,British East Africa
+51,505,1928,11,1,Pounds,Jamaica,British East Africa
+51,505,1929,0,1,Pounds,Jamaica,British East Africa
+51,505,1930,0,1,Pounds,Jamaica,British East Africa
+51,505,1931,0,1,Pounds,Jamaica,British East Africa
+51,505,1932,17,1,Pounds,Jamaica,British East Africa
+51,505,1933,2,1,Pounds,Jamaica,British East Africa
+51,505,1934,3,1,Pounds,Jamaica,British East Africa
+51,505,1935,3,1,Pounds,Jamaica,British East Africa
+51,505,1936,1,1,Pounds,Jamaica,British East Africa
+51,505,1937,0,1,Pounds,Jamaica,British East Africa
+51,505,1938,0,1,Pounds,Jamaica,British East Africa
+51,505,1939,0,1,Pounds,Jamaica,British East Africa
+51,505,1940,210,1,Pounds,Jamaica,British East Africa
+51,505,1941,327,1,Pounds,Jamaica,British East Africa
+51,505,1943,0,1,Pounds,Jamaica,British East Africa
+51,505,1944,0,1,Pounds,Jamaica,British East Africa
+51,505,1945,0,1,Pounds,Jamaica,British East Africa
+51,505,1946,0,1,Pounds,Jamaica,British East Africa
+51,505,1947,193,1,,Jamaica,British East Africa
+51,505,1948,2347,1,,Jamaica,British East Africa
+51,505,1949,200,1,,Jamaica,British East Africa
+51,511,1920,0,1,Pounds,Jamaica,Zanzibar
+51,511,1921,0,1,Pounds,Jamaica,Zanzibar
+51,511,1922,0,1,Pounds,Jamaica,Zanzibar
+51,511,1923,0,1,Pounds,Jamaica,Zanzibar
+51,511,1924,0,1,Pounds,Jamaica,Zanzibar
+51,511,1925,15,1,Pounds,Jamaica,Zanzibar
+51,511,1926,15,1,Pounds,Jamaica,Zanzibar
+51,511,1927,10,1,Pounds,Jamaica,Zanzibar
+51,511,1928,11,1,Pounds,Jamaica,Zanzibar
+51,511,1929,26,1,Pounds,Jamaica,Zanzibar
+51,511,1930,24,1,Pounds,Jamaica,Zanzibar
+51,511,1931,21,1,Pounds,Jamaica,Zanzibar
+51,511,1932,0,1,Pounds,Jamaica,Zanzibar
+51,511,1933,13,1,Pounds,Jamaica,Zanzibar
+51,511,1934,8,1,Pounds,Jamaica,Zanzibar
+51,511,1935,10,1,Pounds,Jamaica,Zanzibar
+51,511,1936,13,1,Pounds,Jamaica,Zanzibar
+51,511,1937,16,1,Pounds,Jamaica,Zanzibar
+51,511,1938,14,1,Pounds,Jamaica,Zanzibar
+51,511,1939,20,1,Pounds,Jamaica,Zanzibar
+51,511,1940,2,1,Pounds,Jamaica,Zanzibar
+51,511,1941,8,1,Pounds,Jamaica,Zanzibar
+51,511,1943,0,1,Pounds,Jamaica,Zanzibar
+51,511,1944,0,1,Pounds,Jamaica,Zanzibar
+51,511,1945,3,1,Pounds,Jamaica,Zanzibar
+51,511,1946,0,1,Pounds,Jamaica,Zanzibar
+51,511,1947,0,1,,Jamaica,Zanzibar
+51,511,1948,0,1,,Jamaica,Zanzibar
+51,511,1949,0,1,,Jamaica,Zanzibar
+51,521,1920,0,1,Pounds,Jamaica,British Somaliland
+51,521,1921,0,1,Pounds,Jamaica,British Somaliland
+51,521,1922,0,1,Pounds,Jamaica,British Somaliland
+51,521,1923,0,1,Pounds,Jamaica,British Somaliland
+51,521,1924,0,1,Pounds,Jamaica,British Somaliland
+51,521,1925,0,1,Pounds,Jamaica,British Somaliland
+51,521,1926,12,1,Pounds,Jamaica,British Somaliland
+51,521,1927,1,1,Pounds,Jamaica,British Somaliland
+51,521,1928,0,1,Pounds,Jamaica,British Somaliland
+51,521,1929,0,1,Pounds,Jamaica,British Somaliland
+51,521,1930,0,1,Pounds,Jamaica,British Somaliland
+51,521,1931,0,1,Pounds,Jamaica,British Somaliland
+51,521,1932,0,1,Pounds,Jamaica,British Somaliland
+51,521,1933,0,1,Pounds,Jamaica,British Somaliland
+51,521,1934,2,1,Pounds,Jamaica,British Somaliland
+51,521,1935,4,1,Pounds,Jamaica,British Somaliland
+51,521,1936,2,1,Pounds,Jamaica,British Somaliland
+51,521,1937,11,1,Pounds,Jamaica,British Somaliland
+51,521,1938,2,1,Pounds,Jamaica,British Somaliland
+51,521,1939,36,1,Pounds,Jamaica,British Somaliland
+51,521,1940,8,1,Pounds,Jamaica,British Somaliland
+51,521,1941,38,1,Pounds,Jamaica,British Somaliland
+51,521,1943,42,1,Pounds,Jamaica,British Somaliland
+51,521,1944,0,1,Pounds,Jamaica,British Somaliland
+51,521,1945,0,1,Pounds,Jamaica,British Somaliland
+51,521,1946,47,1,Pounds,Jamaica,British Somaliland
+51,521,1947,0,1,,Jamaica,British Somaliland
+51,521,1948,0,1,,Jamaica,British Somaliland
+51,521,1949,0,1,,Jamaica,British Somaliland
+51,540,1920,0,1,Pounds,Jamaica,Angola
+51,540,1921,0,1,Pounds,Jamaica,Angola
+51,540,1922,0,1,Pounds,Jamaica,Angola
+51,540,1923,0,1,Pounds,Jamaica,Angola
+51,540,1924,8,1,Pounds,Jamaica,Angola
+51,540,1925,0,1,Pounds,Jamaica,Angola
+51,540,1926,0,1,Pounds,Jamaica,Angola
+51,540,1927,0,1,Pounds,Jamaica,Angola
+51,540,1928,0,1,Pounds,Jamaica,Angola
+51,540,1929,0,1,Pounds,Jamaica,Angola
+51,540,1930,0,1,Pounds,Jamaica,Angola
+51,540,1931,0,1,Pounds,Jamaica,Angola
+51,540,1932,0,1,Pounds,Jamaica,Angola
+51,540,1933,0,1,Pounds,Jamaica,Angola
+51,540,1934,0,1,Pounds,Jamaica,Angola
+51,540,1935,0,1,Pounds,Jamaica,Angola
+51,540,1936,0,1,Pounds,Jamaica,Angola
+51,540,1937,0,1,Pounds,Jamaica,Angola
+51,540,1938,0,1,Pounds,Jamaica,Angola
+51,540,1939,0,1,Pounds,Jamaica,Angola
+51,540,1940,0,1,Pounds,Jamaica,Angola
+51,540,1941,0,1,Pounds,Jamaica,Angola
+51,540,1943,0,1,Pounds,Jamaica,Angola
+51,540,1944,0,1,Pounds,Jamaica,Angola
+51,540,1945,0,1,Pounds,Jamaica,Angola
+51,540,1946,0,1,Pounds,Jamaica,Angola
+51,540,1947,0,1,,Jamaica,Angola
+51,540,1948,0,1,,Jamaica,Angola
+51,540,1949,0,1,,Jamaica,Angola
+51,553,1920,0,1,Pounds,Jamaica,Malawi
+51,553,1921,0,1,Pounds,Jamaica,Malawi
+51,553,1922,0,1,Pounds,Jamaica,Malawi
+51,553,1923,0,1,Pounds,Jamaica,Malawi
+51,553,1924,493,1,Pounds,Jamaica,Malawi
+51,553,1925,0,1,Pounds,Jamaica,Malawi
+51,553,1926,0,1,Pounds,Jamaica,Malawi
+51,553,1927,0,1,Pounds,Jamaica,Malawi
+51,553,1928,0,1,Pounds,Jamaica,Malawi
+51,553,1929,0,1,Pounds,Jamaica,Malawi
+51,553,1930,0,1,Pounds,Jamaica,Malawi
+51,553,1931,0,1,Pounds,Jamaica,Malawi
+51,553,1932,0,1,Pounds,Jamaica,Malawi
+51,553,1933,15,1,Pounds,Jamaica,Malawi
+51,553,1934,33,1,Pounds,Jamaica,Malawi
+51,553,1935,0,1,Pounds,Jamaica,Malawi
+51,553,1936,0,1,Pounds,Jamaica,Malawi
+51,553,1937,0,1,Pounds,Jamaica,Malawi
+51,553,1938,0,1,Pounds,Jamaica,Malawi
+51,553,1939,0,1,Pounds,Jamaica,Malawi
+51,553,1940,0,1,Pounds,Jamaica,Malawi
+51,553,1941,0,1,Pounds,Jamaica,Malawi
+51,553,1943,0,1,Pounds,Jamaica,Malawi
+51,553,1944,0,1,Pounds,Jamaica,Malawi
+51,553,1945,0,1,Pounds,Jamaica,Malawi
+51,553,1946,0,1,Pounds,Jamaica,Malawi
+51,553,1947,0,1,,Jamaica,Malawi
+51,553,1948,0,1,,Jamaica,Malawi
+51,553,1949,0,1,,Jamaica,Malawi
+51,560,1920,0,1,Pounds,Jamaica,South Africa
+51,560,1921,0,1,Pounds,Jamaica,South Africa
+51,560,1922,134,1,Pounds,Jamaica,South Africa
+51,560,1923,249,1,Pounds,Jamaica,South Africa
+51,560,1924,130,1,Pounds,Jamaica,South Africa
+51,560,1925,103,1,Pounds,Jamaica,South Africa
+51,560,1926,280,1,Pounds,Jamaica,South Africa
+51,560,1927,85,1,Pounds,Jamaica,South Africa
+51,560,1928,31,1,Pounds,Jamaica,South Africa
+51,560,1929,74,1,Pounds,Jamaica,South Africa
+51,560,1930,84,1,Pounds,Jamaica,South Africa
+51,560,1931,63,1,Pounds,Jamaica,South Africa
+51,560,1932,83,1,Pounds,Jamaica,South Africa
+51,560,1933,424,1,Pounds,Jamaica,South Africa
+51,560,1934,740,1,Pounds,Jamaica,South Africa
+51,560,1935,726,1,Pounds,Jamaica,South Africa
+51,560,1936,443,1,Pounds,Jamaica,South Africa
+51,560,1937,902,1,Pounds,Jamaica,South Africa
+51,560,1938,1019,1,Pounds,Jamaica,South Africa
+51,560,1939,965,1,Pounds,Jamaica,South Africa
+51,560,1940,5851,1,Pounds,Jamaica,South Africa
+51,560,1941,7496,1,Pounds,Jamaica,South Africa
+51,560,1943,60,1,Pounds,Jamaica,South Africa
+51,560,1944,1547,1,Pounds,Jamaica,South Africa
+51,560,1945,1701,1,Pounds,Jamaica,South Africa
+51,560,1946,9876,1,Pounds,Jamaica,South Africa
+51,560,1947,9031,1,,Jamaica,South Africa
+51,560,1948,14724,1,,Jamaica,South Africa
+51,560,1949,56711,1,,Jamaica,South Africa
+51,580,1920,0,1,Pounds,Jamaica,Madagascar
+51,580,1921,0,1,Pounds,Jamaica,Madagascar
+51,580,1922,0,1,Pounds,Jamaica,Madagascar
+51,580,1923,0,1,Pounds,Jamaica,Madagascar
+51,580,1924,0,1,Pounds,Jamaica,Madagascar
+51,580,1925,2,1,Pounds,Jamaica,Madagascar
+51,580,1926,131,1,Pounds,Jamaica,Madagascar
+51,580,1927,21,1,Pounds,Jamaica,Madagascar
+51,580,1928,19,1,Pounds,Jamaica,Madagascar
+51,580,1929,8,1,Pounds,Jamaica,Madagascar
+51,580,1930,22,1,Pounds,Jamaica,Madagascar
+51,580,1931,38,1,Pounds,Jamaica,Madagascar
+51,580,1932,14,1,Pounds,Jamaica,Madagascar
+51,580,1933,24,1,Pounds,Jamaica,Madagascar
+51,580,1934,15,1,Pounds,Jamaica,Madagascar
+51,580,1935,15,1,Pounds,Jamaica,Madagascar
+51,580,1936,23,1,Pounds,Jamaica,Madagascar
+51,580,1937,21,1,Pounds,Jamaica,Madagascar
+51,580,1938,69,1,Pounds,Jamaica,Madagascar
+51,580,1939,33,1,Pounds,Jamaica,Madagascar
+51,580,1940,82,1,Pounds,Jamaica,Madagascar
+51,580,1941,40,1,Pounds,Jamaica,Madagascar
+51,580,1943,15,1,Pounds,Jamaica,Madagascar
+51,580,1944,0,1,Pounds,Jamaica,Madagascar
+51,580,1945,0,1,Pounds,Jamaica,Madagascar
+51,580,1946,10,1,Pounds,Jamaica,Madagascar
+51,580,1947,0,1,,Jamaica,Madagascar
+51,580,1948,98,1,,Jamaica,Madagascar
+51,580,1949,302,1,,Jamaica,Madagascar
+51,600,1920,0,1,Pounds,Jamaica,Morocco
+51,600,1921,0,1,Pounds,Jamaica,Morocco
+51,600,1922,0,1,Pounds,Jamaica,Morocco
+51,600,1923,0,1,Pounds,Jamaica,Morocco
+51,600,1924,0,1,Pounds,Jamaica,Morocco
+51,600,1925,0,1,Pounds,Jamaica,Morocco
+51,600,1926,0,1,Pounds,Jamaica,Morocco
+51,600,1927,0,1,Pounds,Jamaica,Morocco
+51,600,1928,0,1,Pounds,Jamaica,Morocco
+51,600,1929,0,1,Pounds,Jamaica,Morocco
+51,600,1930,0,1,Pounds,Jamaica,Morocco
+51,600,1931,0,1,Pounds,Jamaica,Morocco
+51,600,1932,0,1,Pounds,Jamaica,Morocco
+51,600,1933,0,1,Pounds,Jamaica,Morocco
+51,600,1934,0,1,Pounds,Jamaica,Morocco
+51,600,1935,0,1,Pounds,Jamaica,Morocco
+51,600,1936,0,1,Pounds,Jamaica,Morocco
+51,600,1937,0,1,Pounds,Jamaica,Morocco
+51,600,1938,0,1,Pounds,Jamaica,Morocco
+51,600,1939,0,1,Pounds,Jamaica,Morocco
+51,600,1940,0,1,Pounds,Jamaica,Morocco
+51,600,1941,0,1,Pounds,Jamaica,Morocco
+51,600,1943,0,1,Pounds,Jamaica,Morocco
+51,600,1944,0,1,Pounds,Jamaica,Morocco
+51,600,1945,0,1,Pounds,Jamaica,Morocco
+51,600,1946,0,1,Pounds,Jamaica,Morocco
+51,600,1947,0,1,,Jamaica,Morocco
+51,600,1948,0,1,,Jamaica,Morocco
+51,600,1949,89,1,,Jamaica,Morocco
+51,615,1920,0,1,Pounds,Jamaica,Algeria
+51,615,1921,0,1,Pounds,Jamaica,Algeria
+51,615,1922,35,1,Pounds,Jamaica,Algeria
+51,615,1923,0,1,Pounds,Jamaica,Algeria
+51,615,1924,0,1,Pounds,Jamaica,Algeria
+51,615,1925,0,1,Pounds,Jamaica,Algeria
+51,615,1926,7,1,Pounds,Jamaica,Algeria
+51,615,1927,0,1,Pounds,Jamaica,Algeria
+51,615,1928,0,1,Pounds,Jamaica,Algeria
+51,615,1929,0,1,Pounds,Jamaica,Algeria
+51,615,1930,0,1,Pounds,Jamaica,Algeria
+51,615,1931,0,1,Pounds,Jamaica,Algeria
+51,615,1932,0,1,Pounds,Jamaica,Algeria
+51,615,1933,0,1,Pounds,Jamaica,Algeria
+51,615,1934,8,1,Pounds,Jamaica,Algeria
+51,615,1935,3,1,Pounds,Jamaica,Algeria
+51,615,1936,17,1,Pounds,Jamaica,Algeria
+51,615,1937,15,1,Pounds,Jamaica,Algeria
+51,615,1938,610,1,Pounds,Jamaica,Algeria
+51,615,1939,44,1,Pounds,Jamaica,Algeria
+51,615,1940,10,1,Pounds,Jamaica,Algeria
+51,615,1941,0,1,Pounds,Jamaica,Algeria
+51,615,1943,0,1,Pounds,Jamaica,Algeria
+51,615,1944,0,1,Pounds,Jamaica,Algeria
+51,615,1945,0,1,Pounds,Jamaica,Algeria
+51,615,1946,0,1,Pounds,Jamaica,Algeria
+51,615,1947,81,1,,Jamaica,Algeria
+51,615,1948,0,1,,Jamaica,Algeria
+51,615,1949,201,1,,Jamaica,Algeria
+51,620,1920,0,1,Pounds,Jamaica,Libya
+51,620,1921,0,1,Pounds,Jamaica,Libya
+51,620,1922,0,1,Pounds,Jamaica,Libya
+51,620,1923,0,1,Pounds,Jamaica,Libya
+51,620,1924,0,1,Pounds,Jamaica,Libya
+51,620,1925,0,1,Pounds,Jamaica,Libya
+51,620,1926,0,1,Pounds,Jamaica,Libya
+51,620,1927,0,1,Pounds,Jamaica,Libya
+51,620,1928,0,1,Pounds,Jamaica,Libya
+51,620,1929,0,1,Pounds,Jamaica,Libya
+51,620,1930,0,1,Pounds,Jamaica,Libya
+51,620,1931,0,1,Pounds,Jamaica,Libya
+51,620,1932,0,1,Pounds,Jamaica,Libya
+51,620,1933,0,1,Pounds,Jamaica,Libya
+51,620,1934,0,1,Pounds,Jamaica,Libya
+51,620,1935,0,1,Pounds,Jamaica,Libya
+51,620,1936,0,1,Pounds,Jamaica,Libya
+51,620,1937,0,1,Pounds,Jamaica,Libya
+51,620,1938,0,1,Pounds,Jamaica,Libya
+51,620,1939,0,1,Pounds,Jamaica,Libya
+51,620,1940,0,1,Pounds,Jamaica,Libya
+51,620,1941,0,1,Pounds,Jamaica,Libya
+51,620,1943,0,1,Pounds,Jamaica,Libya
+51,620,1944,0,1,Pounds,Jamaica,Libya
+51,620,1945,0,1,Pounds,Jamaica,Libya
+51,620,1946,0,1,Pounds,Jamaica,Libya
+51,620,1947,0,1,,Jamaica,Libya
+51,620,1948,0,1,,Jamaica,Libya
+51,620,1949,1783,1,,Jamaica,Libya
+51,625,1920,0,1,Pounds,Jamaica,Sudan
+51,625,1921,0,1,Pounds,Jamaica,Sudan
+51,625,1922,0,1,Pounds,Jamaica,Sudan
+51,625,1923,0,1,Pounds,Jamaica,Sudan
+51,625,1924,0,1,Pounds,Jamaica,Sudan
+51,625,1925,0,1,Pounds,Jamaica,Sudan
+51,625,1926,6,1,Pounds,Jamaica,Sudan
+51,625,1927,9,1,Pounds,Jamaica,Sudan
+51,625,1928,0,1,Pounds,Jamaica,Sudan
+51,625,1929,11,1,Pounds,Jamaica,Sudan
+51,625,1930,0,1,Pounds,Jamaica,Sudan
+51,625,1931,0,1,Pounds,Jamaica,Sudan
+51,625,1932,0,1,Pounds,Jamaica,Sudan
+51,625,1933,0,1,Pounds,Jamaica,Sudan
+51,625,1934,11,1,Pounds,Jamaica,Sudan
+51,625,1935,114,1,Pounds,Jamaica,Sudan
+51,625,1936,0,1,Pounds,Jamaica,Sudan
+51,625,1937,0,1,Pounds,Jamaica,Sudan
+51,625,1938,0,1,Pounds,Jamaica,Sudan
+51,625,1939,0,1,Pounds,Jamaica,Sudan
+51,625,1940,0,1,Pounds,Jamaica,Sudan
+51,625,1941,0,1,Pounds,Jamaica,Sudan
+51,625,1943,1253,1,Pounds,Jamaica,Sudan
+51,625,1944,14,1,Pounds,Jamaica,Sudan
+51,625,1945,275,1,Pounds,Jamaica,Sudan
+51,625,1946,214,1,Pounds,Jamaica,Sudan
+51,625,1947,316,1,,Jamaica,Sudan
+51,625,1948,394,1,,Jamaica,Sudan
+51,625,1949,303,1,,Jamaica,Sudan
+51,630,1920,0,1,Pounds,Jamaica,Iran
+51,630,1921,0,1,Pounds,Jamaica,Iran
+51,630,1922,26,1,Pounds,Jamaica,Iran
+51,630,1923,50,1,Pounds,Jamaica,Iran
+51,630,1924,184,1,Pounds,Jamaica,Iran
+51,630,1925,57,1,Pounds,Jamaica,Iran
+51,630,1926,35,1,Pounds,Jamaica,Iran
+51,630,1927,33,1,Pounds,Jamaica,Iran
+51,630,1928,30,1,Pounds,Jamaica,Iran
+51,630,1929,26,1,Pounds,Jamaica,Iran
+51,630,1930,238,1,Pounds,Jamaica,Iran
+51,630,1931,292,1,Pounds,Jamaica,Iran
+51,630,1932,85,1,Pounds,Jamaica,Iran
+51,630,1933,105,1,Pounds,Jamaica,Iran
+51,630,1934,80,1,Pounds,Jamaica,Iran
+51,630,1935,60,1,Pounds,Jamaica,Iran
+51,630,1936,120,1,Pounds,Jamaica,Iran
+51,630,1937,124,1,Pounds,Jamaica,Iran
+51,630,1938,102,1,Pounds,Jamaica,Iran
+51,630,1939,117,1,Pounds,Jamaica,Iran
+51,630,1940,655,1,Pounds,Jamaica,Iran
+51,630,1941,120,1,Pounds,Jamaica,Iran
+51,630,1943,169,1,Pounds,Jamaica,Iran
+51,630,1944,258,1,Pounds,Jamaica,Iran
+51,630,1945,0,1,Pounds,Jamaica,Iran
+51,630,1946,264,1,Pounds,Jamaica,Iran
+51,630,1947,81,1,,Jamaica,Iran
+51,630,1948,452,1,,Jamaica,Iran
+51,630,1949,99,1,,Jamaica,Iran
+51,640,1920,0,1,Pounds,Jamaica,Turkey
+51,640,1921,0,1,Pounds,Jamaica,Turkey
+51,640,1922,27,1,Pounds,Jamaica,Turkey
+51,640,1923,7,1,Pounds,Jamaica,Turkey
+51,640,1924,28,1,Pounds,Jamaica,Turkey
+51,640,1925,113,1,Pounds,Jamaica,Turkey
+51,640,1926,72,1,Pounds,Jamaica,Turkey
+51,640,1927,11,1,Pounds,Jamaica,Turkey
+51,640,1928,26,1,Pounds,Jamaica,Turkey
+51,640,1929,17,1,Pounds,Jamaica,Turkey
+51,640,1930,48,1,Pounds,Jamaica,Turkey
+51,640,1931,12,1,Pounds,Jamaica,Turkey
+51,640,1932,45,1,Pounds,Jamaica,Turkey
+51,640,1933,103,1,Pounds,Jamaica,Turkey
+51,640,1934,70,1,Pounds,Jamaica,Turkey
+51,640,1935,69,1,Pounds,Jamaica,Turkey
+51,640,1936,84,1,Pounds,Jamaica,Turkey
+51,640,1937,167,1,Pounds,Jamaica,Turkey
+51,640,1938,98,1,Pounds,Jamaica,Turkey
+51,640,1939,65,1,Pounds,Jamaica,Turkey
+51,640,1940,20,1,Pounds,Jamaica,Turkey
+51,640,1941,6,1,Pounds,Jamaica,Turkey
+51,640,1943,2,1,Pounds,Jamaica,Turkey
+51,640,1944,0,1,Pounds,Jamaica,Turkey
+51,640,1945,0,1,Pounds,Jamaica,Turkey
+51,640,1946,0,1,Pounds,Jamaica,Turkey
+51,640,1947,10,1,,Jamaica,Turkey
+51,640,1948,0,1,,Jamaica,Turkey
+51,640,1949,82,1,,Jamaica,Turkey
+51,645,1920,0,1,Pounds,Jamaica,Iraq
+51,645,1921,0,1,Pounds,Jamaica,Iraq
+51,645,1922,156,1,Pounds,Jamaica,Iraq
+51,645,1923,79,1,Pounds,Jamaica,Iraq
+51,645,1924,267,1,Pounds,Jamaica,Iraq
+51,645,1925,110,1,Pounds,Jamaica,Iraq
+51,645,1926,43,1,Pounds,Jamaica,Iraq
+51,645,1927,35,1,Pounds,Jamaica,Iraq
+51,645,1928,33,1,Pounds,Jamaica,Iraq
+51,645,1929,2,1,Pounds,Jamaica,Iraq
+51,645,1930,8,1,Pounds,Jamaica,Iraq
+51,645,1931,89,1,Pounds,Jamaica,Iraq
+51,645,1932,2,1,Pounds,Jamaica,Iraq
+51,645,1933,204,1,Pounds,Jamaica,Iraq
+51,645,1934,111,1,Pounds,Jamaica,Iraq
+51,645,1935,155,1,Pounds,Jamaica,Iraq
+51,645,1936,86,1,Pounds,Jamaica,Iraq
+51,645,1937,170,1,Pounds,Jamaica,Iraq
+51,645,1938,104,1,Pounds,Jamaica,Iraq
+51,645,1939,17,1,Pounds,Jamaica,Iraq
+51,645,1940,143,1,Pounds,Jamaica,Iraq
+51,645,1941,769,1,Pounds,Jamaica,Iraq
+51,645,1943,0,1,Pounds,Jamaica,Iraq
+51,645,1944,0,1,Pounds,Jamaica,Iraq
+51,645,1945,0,1,Pounds,Jamaica,Iraq
+51,645,1946,0,1,Pounds,Jamaica,Iraq
+51,645,1947,970,1,,Jamaica,Iraq
+51,645,1948,0,1,,Jamaica,Iraq
+51,645,1949,0,1,,Jamaica,Iraq
+51,651,1920,0,1,Pounds,Jamaica,Egypt
+51,651,1921,0,1,Pounds,Jamaica,Egypt
+51,651,1922,213,1,Pounds,Jamaica,Egypt
+51,651,1923,598,1,Pounds,Jamaica,Egypt
+51,651,1924,614,1,Pounds,Jamaica,Egypt
+51,651,1925,734,1,Pounds,Jamaica,Egypt
+51,651,1926,1470,1,Pounds,Jamaica,Egypt
+51,651,1927,987,1,Pounds,Jamaica,Egypt
+51,651,1928,1773,1,Pounds,Jamaica,Egypt
+51,651,1929,1146,1,Pounds,Jamaica,Egypt
+51,651,1930,1038,1,Pounds,Jamaica,Egypt
+51,651,1931,146,1,Pounds,Jamaica,Egypt
+51,651,1932,1202,1,Pounds,Jamaica,Egypt
+51,651,1933,1130,1,Pounds,Jamaica,Egypt
+51,651,1934,1371,1,Pounds,Jamaica,Egypt
+51,651,1935,1793,1,Pounds,Jamaica,Egypt
+51,651,1936,1738,1,Pounds,Jamaica,Egypt
+51,651,1937,3222,1,Pounds,Jamaica,Egypt
+51,651,1938,2677,1,Pounds,Jamaica,Egypt
+51,651,1939,4528,1,Pounds,Jamaica,Egypt
+51,651,1940,2701,1,Pounds,Jamaica,Egypt
+51,651,1941,95,1,Pounds,Jamaica,Egypt
+51,651,1943,0,1,Pounds,Jamaica,Egypt
+51,651,1944,0,1,Pounds,Jamaica,Egypt
+51,651,1945,0,1,Pounds,Jamaica,Egypt
+51,651,1946,263,1,Pounds,Jamaica,Egypt
+51,651,1947,4608,1,,Jamaica,Egypt
+51,651,1948,6773,1,,Jamaica,Egypt
+51,651,1949,1281,1,,Jamaica,Egypt
+51,652,1920,0,1,Pounds,Jamaica,Syria
+51,652,1921,0,1,Pounds,Jamaica,Syria
+51,652,1922,58,1,Pounds,Jamaica,Syria
+51,652,1923,51,1,Pounds,Jamaica,Syria
+51,652,1924,62,1,Pounds,Jamaica,Syria
+51,652,1925,79,1,Pounds,Jamaica,Syria
+51,652,1926,191,1,Pounds,Jamaica,Syria
+51,652,1927,258,1,Pounds,Jamaica,Syria
+51,652,1928,233,1,Pounds,Jamaica,Syria
+51,652,1929,226,1,Pounds,Jamaica,Syria
+51,652,1930,136,1,Pounds,Jamaica,Syria
+51,652,1931,219,1,Pounds,Jamaica,Syria
+51,652,1932,172,1,Pounds,Jamaica,Syria
+51,652,1933,280,1,Pounds,Jamaica,Syria
+51,652,1934,209,1,Pounds,Jamaica,Syria
+51,652,1935,95,1,Pounds,Jamaica,Syria
+51,652,1936,117,1,Pounds,Jamaica,Syria
+51,652,1937,111,1,Pounds,Jamaica,Syria
+51,652,1938,212,1,Pounds,Jamaica,Syria
+51,652,1939,211,1,Pounds,Jamaica,Syria
+51,652,1940,122,1,Pounds,Jamaica,Syria
+51,652,1941,6,1,Pounds,Jamaica,Syria
+51,652,1943,0,1,Pounds,Jamaica,Syria
+51,652,1944,0,1,Pounds,Jamaica,Syria
+51,652,1945,0,1,Pounds,Jamaica,Syria
+51,652,1946,216,1,Pounds,Jamaica,Syria
+51,652,1947,93,1,,Jamaica,Syria
+51,652,1948,1,1,,Jamaica,Syria
+51,652,1949,6,1,,Jamaica,Syria
+51,665,1920,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1921,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1922,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1923,10,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1924,9,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1925,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1926,9,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1927,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1928,5,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1929,8,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1930,14,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1931,21,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1932,39,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1933,113,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1934,93,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1935,159,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1936,65,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1937,270,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1938,43,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1939,91,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1940,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1941,62,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1943,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1944,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1945,0,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1946,973,1,Pounds,Jamaica,West Bank And Gaza
+51,665,1947,1447,1,,Jamaica,West Bank And Gaza
+51,665,1948,0,1,,Jamaica,West Bank And Gaza
+51,665,1949,39,1,,Jamaica,West Bank And Gaza
+51,675,1920,0,1,Pounds,Jamaica,Arabia
+51,675,1921,0,1,Pounds,Jamaica,Arabia
+51,675,1922,15,1,Pounds,Jamaica,Arabia
+51,675,1923,0,1,Pounds,Jamaica,Arabia
+51,675,1924,12,1,Pounds,Jamaica,Arabia
+51,675,1925,32,1,Pounds,Jamaica,Arabia
+51,675,1926,8,1,Pounds,Jamaica,Arabia
+51,675,1927,46,1,Pounds,Jamaica,Arabia
+51,675,1928,18,1,Pounds,Jamaica,Arabia
+51,675,1929,15,1,Pounds,Jamaica,Arabia
+51,675,1930,29,1,Pounds,Jamaica,Arabia
+51,675,1931,11,1,Pounds,Jamaica,Arabia
+51,675,1932,14,1,Pounds,Jamaica,Arabia
+51,675,1933,23,1,Pounds,Jamaica,Arabia
+51,675,1934,28,1,Pounds,Jamaica,Arabia
+51,675,1935,37,1,Pounds,Jamaica,Arabia
+51,675,1936,24,1,Pounds,Jamaica,Arabia
+51,675,1937,46,1,Pounds,Jamaica,Arabia
+51,675,1938,53,1,Pounds,Jamaica,Arabia
+51,675,1939,100,1,Pounds,Jamaica,Arabia
+51,675,1940,18,1,Pounds,Jamaica,Arabia
+51,675,1941,5,1,Pounds,Jamaica,Arabia
+51,675,1943,23,1,Pounds,Jamaica,Arabia
+51,675,1944,28,1,Pounds,Jamaica,Arabia
+51,675,1945,22,1,Pounds,Jamaica,Arabia
+51,675,1946,334,1,Pounds,Jamaica,Arabia
+51,675,1947,0,1,,Jamaica,Arabia
+51,675,1948,20,1,,Jamaica,Arabia
+51,675,1949,0,1,,Jamaica,Arabia
+51,700,1920,0,1,Pounds,Jamaica,Afghanistan
+51,700,1921,0,1,Pounds,Jamaica,Afghanistan
+51,700,1922,0,1,Pounds,Jamaica,Afghanistan
+51,700,1923,1,1,Pounds,Jamaica,Afghanistan
+51,700,1924,6,1,Pounds,Jamaica,Afghanistan
+51,700,1925,7,1,Pounds,Jamaica,Afghanistan
+51,700,1926,1,1,Pounds,Jamaica,Afghanistan
+51,700,1927,1,1,Pounds,Jamaica,Afghanistan
+51,700,1928,10,1,Pounds,Jamaica,Afghanistan
+51,700,1929,0,1,Pounds,Jamaica,Afghanistan
+51,700,1930,0,1,Pounds,Jamaica,Afghanistan
+51,700,1931,0,1,Pounds,Jamaica,Afghanistan
+51,700,1932,24,1,Pounds,Jamaica,Afghanistan
+51,700,1933,0,1,Pounds,Jamaica,Afghanistan
+51,700,1934,0,1,Pounds,Jamaica,Afghanistan
+51,700,1935,0,1,Pounds,Jamaica,Afghanistan
+51,700,1936,0,1,Pounds,Jamaica,Afghanistan
+51,700,1937,0,1,Pounds,Jamaica,Afghanistan
+51,700,1938,0,1,Pounds,Jamaica,Afghanistan
+51,700,1939,0,1,Pounds,Jamaica,Afghanistan
+51,700,1940,0,1,Pounds,Jamaica,Afghanistan
+51,700,1941,0,1,Pounds,Jamaica,Afghanistan
+51,700,1943,0,1,Pounds,Jamaica,Afghanistan
+51,700,1944,0,1,Pounds,Jamaica,Afghanistan
+51,700,1945,0,1,Pounds,Jamaica,Afghanistan
+51,700,1946,0,1,Pounds,Jamaica,Afghanistan
+51,700,1947,0,1,,Jamaica,Afghanistan
+51,700,1948,0,1,,Jamaica,Afghanistan
+51,700,1949,0,1,,Jamaica,Afghanistan
+51,710,1920,293,1,Pounds,Jamaica,China
+51,710,1921,142,1,Pounds,Jamaica,China
+51,710,1922,5527,1,Pounds,Jamaica,China
+51,710,1923,9946,1,Pounds,Jamaica,China
+51,710,1924,10687,1,Pounds,Jamaica,China
+51,710,1925,12269,1,Pounds,Jamaica,China
+51,710,1926,10243,1,Pounds,Jamaica,China
+51,710,1927,10733,1,Pounds,Jamaica,China
+51,710,1928,13451,1,Pounds,Jamaica,China
+51,710,1929,17721,1,Pounds,Jamaica,China
+51,710,1930,18408,1,Pounds,Jamaica,China
+51,710,1931,18029,1,Pounds,Jamaica,China
+51,710,1932,20217,1,Pounds,Jamaica,China
+51,710,1933,14923,1,Pounds,Jamaica,China
+51,710,1934,12632,1,Pounds,Jamaica,China
+51,710,1935,15534,1,Pounds,Jamaica,China
+51,710,1936,20477,1,Pounds,Jamaica,China
+51,710,1937,24661,1,Pounds,Jamaica,China
+51,710,1938,22060,1,Pounds,Jamaica,China
+51,710,1939,19585,1,Pounds,Jamaica,China
+51,710,1940,12721,1,Pounds,Jamaica,China
+51,710,1941,7423,1,Pounds,Jamaica,China
+51,710,1943,681,1,Pounds,Jamaica,China
+51,710,1944,37,1,Pounds,Jamaica,China
+51,710,1945,1,1,Pounds,Jamaica,China
+51,710,1946,6366,1,Pounds,Jamaica,China
+51,710,1947,30501,1,,Jamaica,China
+51,710,1948,18461,1,,Jamaica,China
+51,710,1949,5099,1,,Jamaica,China
+51,711,1920,0,1,Pounds,Jamaica,Manchukuo
+51,711,1921,0,1,Pounds,Jamaica,Manchukuo
+51,711,1922,0,1,Pounds,Jamaica,Manchukuo
+51,711,1923,0,1,Pounds,Jamaica,Manchukuo
+51,711,1924,0,1,Pounds,Jamaica,Manchukuo
+51,711,1925,0,1,Pounds,Jamaica,Manchukuo
+51,711,1926,0,1,Pounds,Jamaica,Manchukuo
+51,711,1927,0,1,Pounds,Jamaica,Manchukuo
+51,711,1928,0,1,Pounds,Jamaica,Manchukuo
+51,711,1929,0,1,Pounds,Jamaica,Manchukuo
+51,711,1930,0,1,Pounds,Jamaica,Manchukuo
+51,711,1931,0,1,Pounds,Jamaica,Manchukuo
+51,711,1932,0,1,Pounds,Jamaica,Manchukuo
+51,711,1933,0,1,Pounds,Jamaica,Manchukuo
+51,711,1934,0,1,Pounds,Jamaica,Manchukuo
+51,711,1935,0,1,Pounds,Jamaica,Manchukuo
+51,711,1936,0,1,Pounds,Jamaica,Manchukuo
+51,711,1937,0,1,Pounds,Jamaica,Manchukuo
+51,711,1938,22,1,Pounds,Jamaica,Manchukuo
+51,711,1939,21,1,Pounds,Jamaica,Manchukuo
+51,711,1940,0,1,Pounds,Jamaica,Manchukuo
+51,711,1941,0,1,Pounds,Jamaica,Manchukuo
+51,711,1943,0,1,Pounds,Jamaica,Manchukuo
+51,711,1944,0,1,Pounds,Jamaica,Manchukuo
+51,711,1945,0,1,Pounds,Jamaica,Manchukuo
+51,711,1946,0,1,Pounds,Jamaica,Manchukuo
+51,711,1947,0,1,,Jamaica,Manchukuo
+51,711,1948,0,1,,Jamaica,Manchukuo
+51,711,1949,0,1,,Jamaica,Manchukuo
+51,720,1920,2647,1,Pounds,Jamaica,Hong Kong
+51,720,1921,2650,1,Pounds,Jamaica,Hong Kong
+51,720,1922,2066,1,Pounds,Jamaica,Hong Kong
+51,720,1923,393,1,Pounds,Jamaica,Hong Kong
+51,720,1924,595,1,Pounds,Jamaica,Hong Kong
+51,720,1925,584,1,Pounds,Jamaica,Hong Kong
+51,720,1926,2116,1,Pounds,Jamaica,Hong Kong
+51,720,1927,4557,1,Pounds,Jamaica,Hong Kong
+51,720,1928,4460,1,Pounds,Jamaica,Hong Kong
+51,720,1929,1085,1,Pounds,Jamaica,Hong Kong
+51,720,1930,1051,1,Pounds,Jamaica,Hong Kong
+51,720,1931,1202,1,Pounds,Jamaica,Hong Kong
+51,720,1932,1561,1,Pounds,Jamaica,Hong Kong
+51,720,1933,7566,1,Pounds,Jamaica,Hong Kong
+51,720,1934,49063,1,Pounds,Jamaica,Hong Kong
+51,720,1935,58141,1,Pounds,Jamaica,Hong Kong
+51,720,1936,132568,1,Pounds,Jamaica,Hong Kong
+51,720,1937,190744,1,Pounds,Jamaica,Hong Kong
+51,720,1938,88910,1,Pounds,Jamaica,Hong Kong
+51,720,1939,145870,1,Pounds,Jamaica,Hong Kong
+51,720,1940,150939,1,Pounds,Jamaica,Hong Kong
+51,720,1941,100048,1,Pounds,Jamaica,Hong Kong
+51,720,1943,0,1,Pounds,Jamaica,Hong Kong
+51,720,1944,0,1,Pounds,Jamaica,Hong Kong
+51,720,1945,0,1,Pounds,Jamaica,Hong Kong
+51,720,1946,1314,1,Pounds,Jamaica,Hong Kong
+51,720,1947,8255,1,,Jamaica,Hong Kong
+51,720,1948,361752,1,,Jamaica,Hong Kong
+51,720,1949,142667,1,,Jamaica,Hong Kong
+51,740,1920,4517,1,Pounds,Jamaica,Japan
+51,740,1921,1731,1,Pounds,Jamaica,Japan
+51,740,1922,5984,1,Pounds,Jamaica,Japan
+51,740,1923,10322,1,Pounds,Jamaica,Japan
+51,740,1924,7003,1,Pounds,Jamaica,Japan
+51,740,1925,7913,1,Pounds,Jamaica,Japan
+51,740,1926,10590,1,Pounds,Jamaica,Japan
+51,740,1927,24370,1,Pounds,Jamaica,Japan
+51,740,1928,24107,1,Pounds,Jamaica,Japan
+51,740,1929,26610,1,Pounds,Jamaica,Japan
+51,740,1930,34139,1,Pounds,Jamaica,Japan
+51,740,1931,52415,1,Pounds,Jamaica,Japan
+51,740,1932,183594,1,Pounds,Jamaica,Japan
+51,740,1933,200444,1,Pounds,Jamaica,Japan
+51,740,1934,205519,1,Pounds,Jamaica,Japan
+51,740,1935,83107,1,Pounds,Jamaica,Japan
+51,740,1936,95793,1,Pounds,Jamaica,Japan
+51,740,1937,128217,1,Pounds,Jamaica,Japan
+51,740,1938,70038,1,Pounds,Jamaica,Japan
+51,740,1939,73431,1,Pounds,Jamaica,Japan
+51,740,1940,38640,1,Pounds,Jamaica,Japan
+51,740,1941,2005,1,Pounds,Jamaica,Japan
+51,740,1943,569,1,Pounds,Jamaica,Japan
+51,740,1944,0,1,Pounds,Jamaica,Japan
+51,740,1945,0,1,Pounds,Jamaica,Japan
+51,740,1946,0,1,Pounds,Jamaica,Japan
+51,740,1947,285,1,,Jamaica,Japan
+51,740,1948,155097,1,,Jamaica,Japan
+51,740,1949,622263,1,,Jamaica,Japan
+51,750,1920,60145,1,Pounds,Jamaica,India
+51,750,1921,43488,1,Pounds,Jamaica,India
+51,750,1922,95984,1,Pounds,Jamaica,India
+51,750,1923,145336,1,Pounds,Jamaica,India
+51,750,1924,117364,1,Pounds,Jamaica,India
+51,750,1925,172985,1,Pounds,Jamaica,India
+51,750,1926,197518,1,Pounds,Jamaica,India
+51,750,1927,196915,1,Pounds,Jamaica,India
+51,750,1928,202599,1,Pounds,Jamaica,India
+51,750,1929,185563,1,Pounds,Jamaica,India
+51,750,1930,148991,1,Pounds,Jamaica,India
+51,750,1931,94020,1,Pounds,Jamaica,India
+51,750,1932,110685,1,Pounds,Jamaica,India
+51,750,1933,85874,1,Pounds,Jamaica,India
+51,750,1934,108135,1,Pounds,Jamaica,India
+51,750,1935,163689,1,Pounds,Jamaica,India
+51,750,1936,202935,1,Pounds,Jamaica,India
+51,750,1937,229268,1,Pounds,Jamaica,India
+51,750,1938,54669,1,Pounds,Jamaica,India
+51,750,1939,74123,1,Pounds,Jamaica,India
+51,750,1940,149770,1,Pounds,Jamaica,India
+51,750,1941,349967,1,Pounds,Jamaica,India
+51,750,1943,274239,1,Pounds,Jamaica,India
+51,750,1944,178646,1,Pounds,Jamaica,India
+51,750,1945,15553,1,Pounds,Jamaica,India
+51,750,1946,97847,1,Pounds,Jamaica,India
+51,750,1947,266622,1,,Jamaica,India
+51,750,1948,287063,1,,Jamaica,India
+51,750,1949,350214,1,,Jamaica,India
+51,775,1920,0,1,Pounds,Jamaica,Myanmar
+51,775,1921,0,1,Pounds,Jamaica,Myanmar
+51,775,1922,0,1,Pounds,Jamaica,Myanmar
+51,775,1923,0,1,Pounds,Jamaica,Myanmar
+51,775,1924,0,1,Pounds,Jamaica,Myanmar
+51,775,1925,0,1,Pounds,Jamaica,Myanmar
+51,775,1926,0,1,Pounds,Jamaica,Myanmar
+51,775,1927,0,1,Pounds,Jamaica,Myanmar
+51,775,1928,0,1,Pounds,Jamaica,Myanmar
+51,775,1929,0,1,Pounds,Jamaica,Myanmar
+51,775,1930,0,1,Pounds,Jamaica,Myanmar
+51,775,1931,0,1,Pounds,Jamaica,Myanmar
+51,775,1932,0,1,Pounds,Jamaica,Myanmar
+51,775,1933,0,1,Pounds,Jamaica,Myanmar
+51,775,1934,0,1,Pounds,Jamaica,Myanmar
+51,775,1935,0,1,Pounds,Jamaica,Myanmar
+51,775,1936,0,1,Pounds,Jamaica,Myanmar
+51,775,1937,0,1,Pounds,Jamaica,Myanmar
+51,775,1938,185281,1,Pounds,Jamaica,Myanmar
+51,775,1939,145899,1,Pounds,Jamaica,Myanmar
+51,775,1940,195125,1,Pounds,Jamaica,Myanmar
+51,775,1941,201877,1,Pounds,Jamaica,Myanmar
+51,775,1943,0,1,Pounds,Jamaica,Myanmar
+51,775,1944,0,1,Pounds,Jamaica,Myanmar
+51,775,1945,0,1,Pounds,Jamaica,Myanmar
+51,775,1946,0,1,Pounds,Jamaica,Myanmar
+51,775,1947,0,1,,Jamaica,Myanmar
+51,775,1948,0,1,,Jamaica,Myanmar
+51,775,1949,0,1,,Jamaica,Myanmar
+51,780,1920,230,1,Pounds,Jamaica,Sri Lanka
+51,780,1921,0,1,Pounds,Jamaica,Sri Lanka
+51,780,1922,6354,1,Pounds,Jamaica,Sri Lanka
+51,780,1923,10552,1,Pounds,Jamaica,Sri Lanka
+51,780,1924,7552,1,Pounds,Jamaica,Sri Lanka
+51,780,1925,10345,1,Pounds,Jamaica,Sri Lanka
+51,780,1926,10849,1,Pounds,Jamaica,Sri Lanka
+51,780,1927,6257,1,Pounds,Jamaica,Sri Lanka
+51,780,1928,7818,1,Pounds,Jamaica,Sri Lanka
+51,780,1929,12030,1,Pounds,Jamaica,Sri Lanka
+51,780,1930,9297,1,Pounds,Jamaica,Sri Lanka
+51,780,1931,9153,1,Pounds,Jamaica,Sri Lanka
+51,780,1932,6266,1,Pounds,Jamaica,Sri Lanka
+51,780,1933,7997,1,Pounds,Jamaica,Sri Lanka
+51,780,1934,8434,1,Pounds,Jamaica,Sri Lanka
+51,780,1935,8848,1,Pounds,Jamaica,Sri Lanka
+51,780,1936,7442,1,Pounds,Jamaica,Sri Lanka
+51,780,1937,12062,1,Pounds,Jamaica,Sri Lanka
+51,780,1938,7830,1,Pounds,Jamaica,Sri Lanka
+51,780,1939,12530,1,Pounds,Jamaica,Sri Lanka
+51,780,1940,7414,1,Pounds,Jamaica,Sri Lanka
+51,780,1941,6578,1,Pounds,Jamaica,Sri Lanka
+51,780,1943,4297,1,Pounds,Jamaica,Sri Lanka
+51,780,1944,5751,1,Pounds,Jamaica,Sri Lanka
+51,780,1945,6840,1,Pounds,Jamaica,Sri Lanka
+51,780,1946,1446,1,Pounds,Jamaica,Sri Lanka
+51,780,1947,6572,1,,Jamaica,Sri Lanka
+51,780,1948,7682,1,,Jamaica,Sri Lanka
+51,780,1949,12258,1,,Jamaica,Sri Lanka
+51,800,1920,0,1,Pounds,Jamaica,Thailand
+51,800,1921,0,1,Pounds,Jamaica,Thailand
+51,800,1922,56325,1,Pounds,Jamaica,Thailand
+51,800,1923,48262,1,Pounds,Jamaica,Thailand
+51,800,1924,12916,1,Pounds,Jamaica,Thailand
+51,800,1925,19989,1,Pounds,Jamaica,Thailand
+51,800,1926,9744,1,Pounds,Jamaica,Thailand
+51,800,1927,4596,1,Pounds,Jamaica,Thailand
+51,800,1928,2027,1,Pounds,Jamaica,Thailand
+51,800,1929,0,1,Pounds,Jamaica,Thailand
+51,800,1930,149,1,Pounds,Jamaica,Thailand
+51,800,1931,503,1,Pounds,Jamaica,Thailand
+51,800,1932,4838,1,Pounds,Jamaica,Thailand
+51,800,1933,25417,1,Pounds,Jamaica,Thailand
+51,800,1934,20266,1,Pounds,Jamaica,Thailand
+51,800,1935,26145,1,Pounds,Jamaica,Thailand
+51,800,1936,10779,1,Pounds,Jamaica,Thailand
+51,800,1937,0,1,Pounds,Jamaica,Thailand
+51,800,1938,3134,1,Pounds,Jamaica,Thailand
+51,800,1939,15806,1,Pounds,Jamaica,Thailand
+51,800,1940,23999,1,Pounds,Jamaica,Thailand
+51,800,1941,19,1,Pounds,Jamaica,Thailand
+51,800,1943,0,1,Pounds,Jamaica,Thailand
+51,800,1944,0,1,Pounds,Jamaica,Thailand
+51,800,1945,0,1,Pounds,Jamaica,Thailand
+51,800,1946,0,1,Pounds,Jamaica,Thailand
+51,800,1947,0,1,,Jamaica,Thailand
+51,800,1948,0,1,,Jamaica,Thailand
+51,800,1949,0,1,,Jamaica,Thailand
+51,810,1920,0,1,Pounds,Jamaica,French Indo-China
+51,810,1921,0,1,Pounds,Jamaica,French Indo-China
+51,810,1922,0,1,Pounds,Jamaica,French Indo-China
+51,810,1923,0,1,Pounds,Jamaica,French Indo-China
+51,810,1924,0,1,Pounds,Jamaica,French Indo-China
+51,810,1925,477,1,Pounds,Jamaica,French Indo-China
+51,810,1926,7378,1,Pounds,Jamaica,French Indo-China
+51,810,1927,459,1,Pounds,Jamaica,French Indo-China
+51,810,1928,538,1,Pounds,Jamaica,French Indo-China
+51,810,1929,0,1,Pounds,Jamaica,French Indo-China
+51,810,1930,0,1,Pounds,Jamaica,French Indo-China
+51,810,1931,14,1,Pounds,Jamaica,French Indo-China
+51,810,1932,0,1,Pounds,Jamaica,French Indo-China
+51,810,1933,0,1,Pounds,Jamaica,French Indo-China
+51,810,1934,0,1,Pounds,Jamaica,French Indo-China
+51,810,1935,0,1,Pounds,Jamaica,French Indo-China
+51,810,1936,0,1,Pounds,Jamaica,French Indo-China
+51,810,1937,0,1,Pounds,Jamaica,French Indo-China
+51,810,1938,0,1,Pounds,Jamaica,French Indo-China
+51,810,1939,0,1,Pounds,Jamaica,French Indo-China
+51,810,1940,0,1,Pounds,Jamaica,French Indo-China
+51,810,1941,0,1,Pounds,Jamaica,French Indo-China
+51,810,1943,0,1,Pounds,Jamaica,French Indo-China
+51,810,1944,0,1,Pounds,Jamaica,French Indo-China
+51,810,1945,0,1,Pounds,Jamaica,French Indo-China
+51,810,1946,0,1,Pounds,Jamaica,French Indo-China
+51,810,1947,0,1,,Jamaica,French Indo-China
+51,810,1948,0,1,,Jamaica,French Indo-China
+51,810,1949,0,1,,Jamaica,French Indo-China
+51,820,1920,0,1,Pounds,Jamaica,Malaysia
+51,820,1921,0,1,Pounds,Jamaica,Malaysia
+51,820,1922,0,1,Pounds,Jamaica,Malaysia
+51,820,1923,0,1,Pounds,Jamaica,Malaysia
+51,820,1924,0,1,Pounds,Jamaica,Malaysia
+51,820,1925,0,1,Pounds,Jamaica,Malaysia
+51,820,1926,0,1,Pounds,Jamaica,Malaysia
+51,820,1927,0,1,Pounds,Jamaica,Malaysia
+51,820,1928,0,1,Pounds,Jamaica,Malaysia
+51,820,1929,0,1,Pounds,Jamaica,Malaysia
+51,820,1930,0,1,Pounds,Jamaica,Malaysia
+51,820,1931,0,1,Pounds,Jamaica,Malaysia
+51,820,1932,0,1,Pounds,Jamaica,Malaysia
+51,820,1933,3192,1,Pounds,Jamaica,Malaysia
+51,820,1934,2501,1,Pounds,Jamaica,Malaysia
+51,820,1935,936,1,Pounds,Jamaica,Malaysia
+51,820,1936,2069,1,Pounds,Jamaica,Malaysia
+51,820,1937,521,1,Pounds,Jamaica,Malaysia
+51,820,1938,652,1,Pounds,Jamaica,Malaysia
+51,820,1939,1140,1,Pounds,Jamaica,Malaysia
+51,820,1940,2086,1,Pounds,Jamaica,Malaysia
+51,820,1941,650,1,Pounds,Jamaica,Malaysia
+51,820,1943,0,1,Pounds,Jamaica,Malaysia
+51,820,1944,0,1,Pounds,Jamaica,Malaysia
+51,820,1945,0,1,Pounds,Jamaica,Malaysia
+51,820,1946,6227,1,Pounds,Jamaica,Malaysia
+51,820,1947,0,1,,Jamaica,Malaysia
+51,820,1948,0,1,,Jamaica,Malaysia
+51,820,1949,0,1,,Jamaica,Malaysia
+51,823,1920,0,1,Pounds,Jamaica,British Borneo
+51,823,1921,0,1,Pounds,Jamaica,British Borneo
+51,823,1922,0,1,Pounds,Jamaica,British Borneo
+51,823,1923,0,1,Pounds,Jamaica,British Borneo
+51,823,1924,0,1,Pounds,Jamaica,British Borneo
+51,823,1925,0,1,Pounds,Jamaica,British Borneo
+51,823,1926,0,1,Pounds,Jamaica,British Borneo
+51,823,1927,0,1,Pounds,Jamaica,British Borneo
+51,823,1928,0,1,Pounds,Jamaica,British Borneo
+51,823,1929,0,1,Pounds,Jamaica,British Borneo
+51,823,1930,0,1,Pounds,Jamaica,British Borneo
+51,823,1931,0,1,Pounds,Jamaica,British Borneo
+51,823,1932,0,1,Pounds,Jamaica,British Borneo
+51,823,1933,398,1,Pounds,Jamaica,British Borneo
+51,823,1934,489,1,Pounds,Jamaica,British Borneo
+51,823,1935,1194,1,Pounds,Jamaica,British Borneo
+51,823,1936,1069,1,Pounds,Jamaica,British Borneo
+51,823,1937,434,1,Pounds,Jamaica,British Borneo
+51,823,1938,279,1,Pounds,Jamaica,British Borneo
+51,823,1939,1091,1,Pounds,Jamaica,British Borneo
+51,823,1940,1774,1,Pounds,Jamaica,British Borneo
+51,823,1941,1376,1,Pounds,Jamaica,British Borneo
+51,823,1943,0,1,Pounds,Jamaica,British Borneo
+51,823,1944,0,1,Pounds,Jamaica,British Borneo
+51,823,1945,0,1,Pounds,Jamaica,British Borneo
+51,823,1946,0,1,Pounds,Jamaica,British Borneo
+51,823,1947,0,1,,Jamaica,British Borneo
+51,823,1948,0,1,,Jamaica,British Borneo
+51,823,1949,0,1,,Jamaica,British Borneo
+51,840,1920,0,1,Pounds,Jamaica,Philippines
+51,840,1921,0,1,Pounds,Jamaica,Philippines
+51,840,1922,0,1,Pounds,Jamaica,Philippines
+51,840,1923,0,1,Pounds,Jamaica,Philippines
+51,840,1924,0,1,Pounds,Jamaica,Philippines
+51,840,1925,0,1,Pounds,Jamaica,Philippines
+51,840,1926,0,1,Pounds,Jamaica,Philippines
+51,840,1927,0,1,Pounds,Jamaica,Philippines
+51,840,1928,0,1,Pounds,Jamaica,Philippines
+51,840,1929,45,1,Pounds,Jamaica,Philippines
+51,840,1930,0,1,Pounds,Jamaica,Philippines
+51,840,1931,24,1,Pounds,Jamaica,Philippines
+51,840,1932,0,1,Pounds,Jamaica,Philippines
+51,840,1933,2,1,Pounds,Jamaica,Philippines
+51,840,1934,0,1,Pounds,Jamaica,Philippines
+51,840,1935,0,1,Pounds,Jamaica,Philippines
+51,840,1936,114,1,Pounds,Jamaica,Philippines
+51,840,1937,126,1,Pounds,Jamaica,Philippines
+51,840,1938,205,1,Pounds,Jamaica,Philippines
+51,840,1939,180,1,Pounds,Jamaica,Philippines
+51,840,1940,0,1,Pounds,Jamaica,Philippines
+51,840,1941,0,1,Pounds,Jamaica,Philippines
+51,840,1943,1,1,Pounds,Jamaica,Philippines
+51,840,1944,3,1,Pounds,Jamaica,Philippines
+51,840,1945,20,1,Pounds,Jamaica,Philippines
+51,840,1946,0,1,Pounds,Jamaica,Philippines
+51,840,1947,0,1,,Jamaica,Philippines
+51,840,1948,0,1,,Jamaica,Philippines
+51,840,1949,1,1,,Jamaica,Philippines
+51,900,1920,235,1,Pounds,Jamaica,Australia
+51,900,1921,0,1,Pounds,Jamaica,Australia
+51,900,1922,600,1,Pounds,Jamaica,Australia
+51,900,1923,1187,1,Pounds,Jamaica,Australia
+51,900,1924,399,1,Pounds,Jamaica,Australia
+51,900,1925,1282,1,Pounds,Jamaica,Australia
+51,900,1926,280,1,Pounds,Jamaica,Australia
+51,900,1927,352,1,Pounds,Jamaica,Australia
+51,900,1928,718,1,Pounds,Jamaica,Australia
+51,900,1929,3222,1,Pounds,Jamaica,Australia
+51,900,1930,452,1,Pounds,Jamaica,Australia
+51,900,1931,586,1,Pounds,Jamaica,Australia
+51,900,1932,488,1,Pounds,Jamaica,Australia
+51,900,1933,1108,1,Pounds,Jamaica,Australia
+51,900,1934,2954,1,Pounds,Jamaica,Australia
+51,900,1935,28756,1,Pounds,Jamaica,Australia
+51,900,1936,81379,1,Pounds,Jamaica,Australia
+51,900,1937,117996,1,Pounds,Jamaica,Australia
+51,900,1938,119559,1,Pounds,Jamaica,Australia
+51,900,1939,112471,1,Pounds,Jamaica,Australia
+51,900,1940,152797,1,Pounds,Jamaica,Australia
+51,900,1941,145291,1,Pounds,Jamaica,Australia
+51,900,1943,96600,1,Pounds,Jamaica,Australia
+51,900,1944,0,1,Pounds,Jamaica,Australia
+51,900,1945,2326,1,Pounds,Jamaica,Australia
+51,900,1946,1554,1,Pounds,Jamaica,Australia
+51,900,1947,119956,1,,Jamaica,Australia
+51,900,1948,64633,1,,Jamaica,Australia
+51,900,1949,259432,1,,Jamaica,Australia
+51,920,1920,28,1,Pounds,Jamaica,New Zealand
+51,920,1921,0,1,Pounds,Jamaica,New Zealand
+51,920,1922,2047,1,Pounds,Jamaica,New Zealand
+51,920,1923,210,1,Pounds,Jamaica,New Zealand
+51,920,1924,108,1,Pounds,Jamaica,New Zealand
+51,920,1925,63,1,Pounds,Jamaica,New Zealand
+51,920,1926,246,1,Pounds,Jamaica,New Zealand
+51,920,1927,1815,1,Pounds,Jamaica,New Zealand
+51,920,1928,1068,1,Pounds,Jamaica,New Zealand
+51,920,1929,13942,1,Pounds,Jamaica,New Zealand
+51,920,1930,26043,1,Pounds,Jamaica,New Zealand
+51,920,1931,29630,1,Pounds,Jamaica,New Zealand
+51,920,1932,28145,1,Pounds,Jamaica,New Zealand
+51,920,1933,30677,1,Pounds,Jamaica,New Zealand
+51,920,1934,41332,1,Pounds,Jamaica,New Zealand
+51,920,1935,43287,1,Pounds,Jamaica,New Zealand
+51,920,1936,48701,1,Pounds,Jamaica,New Zealand
+51,920,1937,47616,1,Pounds,Jamaica,New Zealand
+51,920,1938,53970,1,Pounds,Jamaica,New Zealand
+51,920,1939,38426,1,Pounds,Jamaica,New Zealand
+51,920,1940,33069,1,Pounds,Jamaica,New Zealand
+51,920,1941,62407,1,Pounds,Jamaica,New Zealand
+51,920,1943,19,1,Pounds,Jamaica,New Zealand
+51,920,1944,0,1,Pounds,Jamaica,New Zealand
+51,920,1945,0,1,Pounds,Jamaica,New Zealand
+51,920,1946,27014,1,Pounds,Jamaica,New Zealand
+51,920,1947,96749,1,,Jamaica,New Zealand
+51,920,1948,177104,1,,Jamaica,New Zealand
+51,920,1949,165718,1,,Jamaica,New Zealand
+51,950,1920,0,1,Pounds,Jamaica,Fiji
+51,950,1921,0,1,Pounds,Jamaica,Fiji
+51,950,1922,0,1,Pounds,Jamaica,Fiji
+51,950,1923,0,1,Pounds,Jamaica,Fiji
+51,950,1924,0,1,Pounds,Jamaica,Fiji
+51,950,1925,0,1,Pounds,Jamaica,Fiji
+51,950,1926,0,1,Pounds,Jamaica,Fiji
+51,950,1927,0,1,Pounds,Jamaica,Fiji
+51,950,1928,0,1,Pounds,Jamaica,Fiji
+51,950,1929,0,1,Pounds,Jamaica,Fiji
+51,950,1930,0,1,Pounds,Jamaica,Fiji
+51,950,1931,0,1,Pounds,Jamaica,Fiji
+51,950,1932,0,1,Pounds,Jamaica,Fiji
+51,950,1933,0,1,Pounds,Jamaica,Fiji
+51,950,1934,0,1,Pounds,Jamaica,Fiji
+51,950,1935,0,1,Pounds,Jamaica,Fiji
+51,950,1936,0,1,Pounds,Jamaica,Fiji
+51,950,1937,0,1,Pounds,Jamaica,Fiji
+51,950,1938,0,1,Pounds,Jamaica,Fiji
+51,950,1939,0,1,Pounds,Jamaica,Fiji
+51,950,1940,0,1,Pounds,Jamaica,Fiji
+51,950,1941,0,1,Pounds,Jamaica,Fiji
+51,950,1943,0,1,Pounds,Jamaica,Fiji
+51,950,1944,0,1,Pounds,Jamaica,Fiji
+51,950,1945,0,1,Pounds,Jamaica,Fiji
+51,950,1946,0,1,Pounds,Jamaica,Fiji
+51,950,1947,0,1,,Jamaica,Fiji
+51,950,1948,0,1,,Jamaica,Fiji
+51,950,1949,0,1,,Jamaica,Fiji
+51,1050,1920,0,1,Pounds,Jamaica,British West Indies
+51,1050,1921,0,1,Pounds,Jamaica,British West Indies
+51,1050,1922,0,1,Pounds,Jamaica,British West Indies
+51,1050,1923,48,1,Pounds,Jamaica,British West Indies
+51,1050,1924,36,1,Pounds,Jamaica,British West Indies
+51,1050,1925,82,1,Pounds,Jamaica,British West Indies
+51,1050,1926,80,1,Pounds,Jamaica,British West Indies
+51,1050,1927,293,1,Pounds,Jamaica,British West Indies
+51,1050,1928,83,1,Pounds,Jamaica,British West Indies
+51,1050,1929,6,1,Pounds,Jamaica,British West Indies
+51,1050,1930,53,1,Pounds,Jamaica,British West Indies
+51,1050,1931,41,1,Pounds,Jamaica,British West Indies
+51,1050,1932,109,1,Pounds,Jamaica,British West Indies
+51,1050,1933,197,1,Pounds,Jamaica,British West Indies
+51,1050,1934,743,1,Pounds,Jamaica,British West Indies
+51,1050,1935,924,1,Pounds,Jamaica,British West Indies
+51,1050,1936,928,1,Pounds,Jamaica,British West Indies
+51,1050,1937,805,1,Pounds,Jamaica,British West Indies
+51,1050,1938,7,1,Pounds,Jamaica,British West Indies
+51,1050,1939,207,1,Pounds,Jamaica,British West Indies
+51,1050,1940,19,1,Pounds,Jamaica,British West Indies
+51,1050,1941,0,1,Pounds,Jamaica,British West Indies
+51,1050,1943,0,1,Pounds,Jamaica,British West Indies
+51,1050,1944,0,1,Pounds,Jamaica,British West Indies
+51,1050,1945,19,1,Pounds,Jamaica,British West Indies
+51,1050,1946,752,1,Pounds,Jamaica,British West Indies
+51,1050,1947,0,1,,Jamaica,British West Indies
+51,1050,1948,0,1,,Jamaica,British West Indies
+51,1050,1949,36,1,,Jamaica,British West Indies
+51,1060,1920,0,1,Pounds,Jamaica,French West Indies
+51,1060,1921,0,1,Pounds,Jamaica,French West Indies
+51,1060,1922,0,1,Pounds,Jamaica,French West Indies
+51,1060,1923,0,1,Pounds,Jamaica,French West Indies
+51,1060,1924,0,1,Pounds,Jamaica,French West Indies
+51,1060,1925,0,1,Pounds,Jamaica,French West Indies
+51,1060,1926,0,1,Pounds,Jamaica,French West Indies
+51,1060,1927,0,1,Pounds,Jamaica,French West Indies
+51,1060,1928,0,1,Pounds,Jamaica,French West Indies
+51,1060,1929,0,1,Pounds,Jamaica,French West Indies
+51,1060,1930,0,1,Pounds,Jamaica,French West Indies
+51,1060,1931,0,1,Pounds,Jamaica,French West Indies
+51,1060,1932,0,1,Pounds,Jamaica,French West Indies
+51,1060,1933,0,1,Pounds,Jamaica,French West Indies
+51,1060,1934,15,1,Pounds,Jamaica,French West Indies
+51,1060,1935,0,1,Pounds,Jamaica,French West Indies
+51,1060,1936,0,1,Pounds,Jamaica,French West Indies
+51,1060,1937,0,1,Pounds,Jamaica,French West Indies
+51,1060,1938,0,1,Pounds,Jamaica,French West Indies
+51,1060,1939,0,1,Pounds,Jamaica,French West Indies
+51,1060,1940,0,1,Pounds,Jamaica,French West Indies
+51,1060,1941,0,1,Pounds,Jamaica,French West Indies
+51,1060,1943,0,1,Pounds,Jamaica,French West Indies
+51,1060,1944,0,1,Pounds,Jamaica,French West Indies
+51,1060,1945,0,1,Pounds,Jamaica,French West Indies
+51,1060,1946,0,1,Pounds,Jamaica,French West Indies
+51,1060,1947,0,1,,Jamaica,French West Indies
+51,1060,1948,0,1,,Jamaica,French West Indies
+51,1060,1949,0,1,,Jamaica,French West Indies
+51,3651,1920,0,1,Pounds,Jamaica,Siberia
+51,3651,1921,0,1,Pounds,Jamaica,Siberia
+51,3651,1922,0,1,Pounds,Jamaica,Siberia
+51,3651,1923,8,1,Pounds,Jamaica,Siberia
+51,3651,1924,79,1,Pounds,Jamaica,Siberia
+51,3651,1925,14,1,Pounds,Jamaica,Siberia
+51,3651,1926,51,1,Pounds,Jamaica,Siberia
+51,3651,1927,605,1,Pounds,Jamaica,Siberia
+51,3651,1928,50,1,Pounds,Jamaica,Siberia
+51,3651,1929,0,1,Pounds,Jamaica,Siberia
+51,3651,1930,0,1,Pounds,Jamaica,Siberia
+51,3651,1931,0,1,Pounds,Jamaica,Siberia
+51,3651,1932,0,1,Pounds,Jamaica,Siberia
+51,3651,1933,0,1,Pounds,Jamaica,Siberia
+51,3651,1934,61,1,Pounds,Jamaica,Siberia
+51,3651,1935,0,1,Pounds,Jamaica,Siberia
+51,3651,1936,0,1,Pounds,Jamaica,Siberia
+51,3651,1937,0,1,Pounds,Jamaica,Siberia
+51,3651,1938,0,1,Pounds,Jamaica,Siberia
+51,3651,1939,0,1,Pounds,Jamaica,Siberia
+51,3651,1940,0,1,Pounds,Jamaica,Siberia
+51,3651,1941,0,1,Pounds,Jamaica,Siberia
+51,3651,1943,0,1,Pounds,Jamaica,Siberia
+51,3651,1944,0,1,Pounds,Jamaica,Siberia
+51,3651,1945,0,1,Pounds,Jamaica,Siberia
+51,3651,1946,0,1,Pounds,Jamaica,Siberia
+51,3651,1947,0,1,,Jamaica,Siberia
+51,3651,1948,0,1,,Jamaica,Siberia
+51,3651,1949,0,1,,Jamaica,Siberia
+51,6411,1920,0,1,Pounds,Jamaica,Smyrna
+51,6411,1921,0,1,Pounds,Jamaica,Smyrna
+51,6411,1922,0,1,Pounds,Jamaica,Smyrna
+51,6411,1923,3,1,Pounds,Jamaica,Smyrna
+51,6411,1924,5,1,Pounds,Jamaica,Smyrna
+51,6411,1925,74,1,Pounds,Jamaica,Smyrna
+51,6411,1926,46,1,Pounds,Jamaica,Smyrna
+51,6411,1927,0,1,Pounds,Jamaica,Smyrna
+51,6411,1928,63,1,Pounds,Jamaica,Smyrna
+51,6411,1929,0,1,Pounds,Jamaica,Smyrna
+51,6411,1930,0,1,Pounds,Jamaica,Smyrna
+51,6411,1931,0,1,Pounds,Jamaica,Smyrna
+51,6411,1932,0,1,Pounds,Jamaica,Smyrna
+51,6411,1933,0,1,Pounds,Jamaica,Smyrna
+51,6411,1934,0,1,Pounds,Jamaica,Smyrna
+51,6411,1935,0,1,Pounds,Jamaica,Smyrna
+51,6411,1936,0,1,Pounds,Jamaica,Smyrna
+51,6411,1937,0,1,Pounds,Jamaica,Smyrna
+51,6411,1938,0,1,Pounds,Jamaica,Smyrna
+51,6411,1939,0,1,Pounds,Jamaica,Smyrna
+51,6411,1940,0,1,Pounds,Jamaica,Smyrna
+51,6411,1941,0,1,Pounds,Jamaica,Smyrna
+51,6411,1943,0,1,Pounds,Jamaica,Smyrna
+51,6411,1944,0,1,Pounds,Jamaica,Smyrna
+51,6411,1945,0,1,Pounds,Jamaica,Smyrna
+51,6411,1946,0,1,Pounds,Jamaica,Smyrna
+51,6411,1947,0,1,,Jamaica,Smyrna
+51,6411,1948,0,1,,Jamaica,Smyrna
+51,6411,1949,0,1,,Jamaica,Smyrna
+51,8501,1920,0,1,Pounds,Jamaica,Java
+51,8501,1921,0,1,Pounds,Jamaica,Java
+51,8501,1922,0,1,Pounds,Jamaica,Java
+51,8501,1923,0,1,Pounds,Jamaica,Java
+51,8501,1924,0,1,Pounds,Jamaica,Java
+51,8501,1925,0,1,Pounds,Jamaica,Java
+51,8501,1926,19,1,Pounds,Jamaica,Java
+51,8501,1927,0,1,Pounds,Jamaica,Java
+51,8501,1928,7,1,Pounds,Jamaica,Java
+51,8501,1929,1,1,Pounds,Jamaica,Java
+51,8501,1930,1,1,Pounds,Jamaica,Java
+51,8501,1931,0,1,Pounds,Jamaica,Java
+51,8501,1932,0,1,Pounds,Jamaica,Java
+51,8501,1933,0,1,Pounds,Jamaica,Java
+51,8501,1934,0,1,Pounds,Jamaica,Java
+51,8501,1935,0,1,Pounds,Jamaica,Java
+51,8501,1936,0,1,Pounds,Jamaica,Java
+51,8501,1937,0,1,Pounds,Jamaica,Java
+51,8501,1938,0,1,Pounds,Jamaica,Java
+51,8501,1939,0,1,Pounds,Jamaica,Java
+51,8501,1940,0,1,Pounds,Jamaica,Java
+51,8501,1941,0,1,Pounds,Jamaica,Java
+51,8501,1943,0,1,Pounds,Jamaica,Java
+51,8501,1944,0,1,Pounds,Jamaica,Java
+51,8501,1945,0,1,Pounds,Jamaica,Java
+51,8501,1946,205,1,Pounds,Jamaica,Java
+51,8501,1947,0,1,,Jamaica,Java
+51,8501,1948,0,1,,Jamaica,Java
+51,8501,1949,0,1,,Jamaica,Java
+51,8502,1920,0,1,Pounds,Jamaica,Sumatra
+51,8502,1921,0,1,Pounds,Jamaica,Sumatra
+51,8502,1922,0,1,Pounds,Jamaica,Sumatra
+51,8502,1923,0,1,Pounds,Jamaica,Sumatra
+51,8502,1924,0,1,Pounds,Jamaica,Sumatra
+51,8502,1925,83,1,Pounds,Jamaica,Sumatra
+51,8502,1926,66,1,Pounds,Jamaica,Sumatra
+51,8502,1927,0,1,Pounds,Jamaica,Sumatra
+51,8502,1928,29,1,Pounds,Jamaica,Sumatra
+51,8502,1929,0,1,Pounds,Jamaica,Sumatra
+51,8502,1930,0,1,Pounds,Jamaica,Sumatra
+51,8502,1931,0,1,Pounds,Jamaica,Sumatra
+51,8502,1932,0,1,Pounds,Jamaica,Sumatra
+51,8502,1933,0,1,Pounds,Jamaica,Sumatra
+51,8502,1934,0,1,Pounds,Jamaica,Sumatra
+51,8502,1935,0,1,Pounds,Jamaica,Sumatra
+51,8502,1936,0,1,Pounds,Jamaica,Sumatra
+51,8502,1937,0,1,Pounds,Jamaica,Sumatra
+51,8502,1938,0,1,Pounds,Jamaica,Sumatra
+51,8502,1939,0,1,Pounds,Jamaica,Sumatra
+51,8502,1940,0,1,Pounds,Jamaica,Sumatra
+51,8502,1941,0,1,Pounds,Jamaica,Sumatra
+51,8502,1943,0,1,Pounds,Jamaica,Sumatra
+51,8502,1944,0,1,Pounds,Jamaica,Sumatra
+51,8502,1945,0,1,Pounds,Jamaica,Sumatra
+51,8502,1946,519,1,Pounds,Jamaica,Sumatra
+51,8502,1947,0,1,,Jamaica,Sumatra
+51,8502,1948,0,1,,Jamaica,Sumatra
+51,8502,1949,0,1,,Jamaica,Sumatra
+51,,1920,10332376,1,Pounds,Jamaica,
+51,,1921,5496896,1,Pounds,Jamaica,
+51,,1922,5131856,1,Pounds,Jamaica,
+51,,1923,5856795,1,Pounds,Jamaica,
+51,,1924,5373739,1,Pounds,Jamaica,
+51,,1925,5920562,1,Pounds,Jamaica,
+51,,1926,5943238,1,Pounds,Jamaica,
+51,,1927,6307421,1,Pounds,Jamaica,
+51,,1928,6697638,1,Pounds,Jamaica,
+51,,1929,7338849,1,Pounds,Jamaica,
+51,,1930,6393604,1,Pounds,Jamaica,
+51,,1931,5169126,1,Pounds,Jamaica,
+51,,1932,4948648,1,Pounds,Jamaica,
+51,,1933,4526784,1,Pounds,Jamaica,
+51,,1934,4945208,1,Pounds,Jamaica,
+51,,1935,5180360,1,Pounds,Jamaica,
+51,,1936,5242607,1,Pounds,Jamaica,
+51,,1937,6347134,1,Pounds,Jamaica,
+51,,1938,6707861,1,Pounds,Jamaica,
+51,,1939,6693580,1,Pounds,Jamaica,
+51,,1940,6302683,1,Pounds,Jamaica,
+51,,1941,6413308,1,Pounds,Jamaica,
+51,,1943,7447953,1,Pounds,Jamaica,
+51,,1944,9080986,1,Pounds,Jamaica,
+51,,1945,9783523,1,Pounds,Jamaica,
+51,,1946,12657312,1,Pounds,Jamaica,
+51,,1947,19021994,1,,Jamaica,
+51,,1948,19783922,1,,Jamaica,
+51,,1949,19318515,1,,Jamaica,

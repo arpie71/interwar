@@ -1,0 +1,781 @@
+ccode1,ccode2,year,imp,places,currency,country1,country2
+830,2,1921,23095452,1,$,Singapore,United States
+830,2,1922,14520331,1,$,Singapore,United States
+830,2,1923,15965667,1,$,Singapore,United States
+830,2,1924,19317609,1,$,Singapore,United States
+830,2,1929,0,1,$,Singapore,United States
+830,2,1930,0,1,$,Singapore,United States
+830,2,1931,0,1,$,Singapore,United States
+830,2,1932,0,1,$,Singapore,United States
+830,2,1933,0,1,$,Singapore,United States
+830,2,1934,0,1,$,Singapore,United States
+830,2,1935,0,1,$,Singapore,United States
+830,2,1936,6433053,1,$,Singapore,United States
+830,2,1937,10494018,1,$,Singapore,United States
+830,3,1921,0,1,$,Singapore,Alaska
+830,3,1922,0,1,$,Singapore,Alaska
+830,3,1923,0,1,$,Singapore,Alaska
+830,3,1924,0,1,$,Singapore,Alaska
+830,3,1929,0,1,$,Singapore,Alaska
+830,3,1930,0,1,$,Singapore,Alaska
+830,3,1931,0,1,$,Singapore,Alaska
+830,3,1932,0,1,$,Singapore,Alaska
+830,3,1933,0,1,$,Singapore,Alaska
+830,3,1934,0,1,$,Singapore,Alaska
+830,3,1935,0,1,$,Singapore,Alaska
+830,3,1936,19387,1,$,Singapore,Alaska
+830,3,1937,2219,1,$,Singapore,Alaska
+830,20,1921,944580,1,$,Singapore,Canada
+830,20,1922,91125,1,$,Singapore,Canada
+830,20,1923,218432,1,$,Singapore,Canada
+830,20,1924,150490,1,$,Singapore,Canada
+830,20,1929,0,1,$,Singapore,Canada
+830,20,1930,0,1,$,Singapore,Canada
+830,20,1931,0,1,$,Singapore,Canada
+830,20,1932,0,1,$,Singapore,Canada
+830,20,1933,0,1,$,Singapore,Canada
+830,20,1934,0,1,$,Singapore,Canada
+830,20,1935,0,1,$,Singapore,Canada
+830,20,1936,2375711,1,$,Singapore,Canada
+830,20,1937,4577281,1,$,Singapore,Canada
+830,70,1921,0,1,$,Singapore,Mexico
+830,70,1922,0,1,$,Singapore,Mexico
+830,70,1923,0,1,$,Singapore,Mexico
+830,70,1924,0,1,$,Singapore,Mexico
+830,70,1929,0,1,$,Singapore,Mexico
+830,70,1930,0,1,$,Singapore,Mexico
+830,70,1931,0,1,$,Singapore,Mexico
+830,70,1932,0,1,$,Singapore,Mexico
+830,70,1933,0,1,$,Singapore,Mexico
+830,70,1934,0,1,$,Singapore,Mexico
+830,70,1935,0,1,$,Singapore,Mexico
+830,70,1936,304907,1,$,Singapore,Mexico
+830,70,1937,395952,1,$,Singapore,Mexico
+830,135,1921,0,1,$,Singapore,Peru
+830,135,1922,0,1,$,Singapore,Peru
+830,135,1923,0,1,$,Singapore,Peru
+830,135,1924,0,1,$,Singapore,Peru
+830,135,1929,0,1,$,Singapore,Peru
+830,135,1930,0,1,$,Singapore,Peru
+830,135,1931,0,1,$,Singapore,Peru
+830,135,1932,0,1,$,Singapore,Peru
+830,135,1933,0,1,$,Singapore,Peru
+830,135,1934,0,1,$,Singapore,Peru
+830,135,1935,0,1,$,Singapore,Peru
+830,135,1936,0,1,$,Singapore,Peru
+830,135,1937,0,1,$,Singapore,Peru
+830,140,1921,0,1,$,Singapore,Brazil
+830,140,1922,0,1,$,Singapore,Brazil
+830,140,1923,0,1,$,Singapore,Brazil
+830,140,1924,0,1,$,Singapore,Brazil
+830,140,1929,0,1,$,Singapore,Brazil
+830,140,1930,0,1,$,Singapore,Brazil
+830,140,1931,0,1,$,Singapore,Brazil
+830,140,1932,0,1,$,Singapore,Brazil
+830,140,1933,0,1,$,Singapore,Brazil
+830,140,1934,0,1,$,Singapore,Brazil
+830,140,1935,0,1,$,Singapore,Brazil
+830,140,1936,12070,1,$,Singapore,Brazil
+830,140,1937,110657,1,$,Singapore,Brazil
+830,155,1921,0,1,$,Singapore,Chile
+830,155,1922,0,1,$,Singapore,Chile
+830,155,1923,0,1,$,Singapore,Chile
+830,155,1924,0,1,$,Singapore,Chile
+830,155,1929,0,1,$,Singapore,Chile
+830,155,1930,0,1,$,Singapore,Chile
+830,155,1931,0,1,$,Singapore,Chile
+830,155,1932,0,1,$,Singapore,Chile
+830,155,1933,0,1,$,Singapore,Chile
+830,155,1934,0,1,$,Singapore,Chile
+830,155,1935,0,1,$,Singapore,Chile
+830,155,1936,698,1,$,Singapore,Chile
+830,155,1937,5932,1,$,Singapore,Chile
+830,160,1921,0,1,$,Singapore,Argentina
+830,160,1922,0,1,$,Singapore,Argentina
+830,160,1923,0,1,$,Singapore,Argentina
+830,160,1924,0,1,$,Singapore,Argentina
+830,160,1929,0,1,$,Singapore,Argentina
+830,160,1930,0,1,$,Singapore,Argentina
+830,160,1931,0,1,$,Singapore,Argentina
+830,160,1932,0,1,$,Singapore,Argentina
+830,160,1933,0,1,$,Singapore,Argentina
+830,160,1934,0,1,$,Singapore,Argentina
+830,160,1935,0,1,$,Singapore,Argentina
+830,160,1936,45035,1,$,Singapore,Argentina
+830,160,1937,67608,1,$,Singapore,Argentina
+830,200,1921,53228052,1,$,Singapore,United Kingdom
+830,200,1922,51940123,1,$,Singapore,United Kingdom
+830,200,1923,56261505,1,$,Singapore,United Kingdom
+830,200,1924,61420919,1,$,Singapore,United Kingdom
+830,200,1929,0,1,$,Singapore,United Kingdom
+830,200,1930,0,1,$,Singapore,United Kingdom
+830,200,1931,0,1,$,Singapore,United Kingdom
+830,200,1932,0,1,$,Singapore,United Kingdom
+830,200,1933,0,1,$,Singapore,United Kingdom
+830,200,1934,0,1,$,Singapore,United Kingdom
+830,200,1935,0,1,$,Singapore,United Kingdom
+830,200,1936,47045277,1,$,Singapore,United Kingdom
+830,200,1937,60868327,1,$,Singapore,United Kingdom
+830,205,1921,0,1,$,Singapore,Ireland
+830,205,1922,0,1,$,Singapore,Ireland
+830,205,1923,0,1,$,Singapore,Ireland
+830,205,1924,0,1,$,Singapore,Ireland
+830,205,1929,0,1,$,Singapore,Ireland
+830,205,1930,0,1,$,Singapore,Ireland
+830,205,1931,0,1,$,Singapore,Ireland
+830,205,1932,0,1,$,Singapore,Ireland
+830,205,1933,0,1,$,Singapore,Ireland
+830,205,1934,0,1,$,Singapore,Ireland
+830,205,1935,0,1,$,Singapore,Ireland
+830,205,1936,191517,1,$,Singapore,Ireland
+830,205,1937,251545,1,$,Singapore,Ireland
+830,210,1921,2475119,1,$,Singapore,Netherlands
+830,210,1922,2813379,1,$,Singapore,Netherlands
+830,210,1923,2865884,1,$,Singapore,Netherlands
+830,210,1924,4107167,1,$,Singapore,Netherlands
+830,210,1929,0,1,$,Singapore,Netherlands
+830,210,1930,0,1,$,Singapore,Netherlands
+830,210,1931,0,1,$,Singapore,Netherlands
+830,210,1932,0,1,$,Singapore,Netherlands
+830,210,1933,0,1,$,Singapore,Netherlands
+830,210,1934,0,1,$,Singapore,Netherlands
+830,210,1935,0,1,$,Singapore,Netherlands
+830,210,1936,2851874,1,$,Singapore,Netherlands
+830,210,1937,4390800,1,$,Singapore,Netherlands
+830,211,1921,861333,1,$,Singapore,Belgium
+830,211,1922,866156,1,$,Singapore,Belgium
+830,211,1923,1421915,1,$,Singapore,Belgium
+830,211,1924,1923097,1,$,Singapore,Belgium
+830,211,1929,0,1,$,Singapore,Belgium
+830,211,1930,0,1,$,Singapore,Belgium
+830,211,1931,0,1,$,Singapore,Belgium
+830,211,1932,0,1,$,Singapore,Belgium
+830,211,1933,0,1,$,Singapore,Belgium
+830,211,1934,0,1,$,Singapore,Belgium
+830,211,1935,0,1,$,Singapore,Belgium
+830,211,1936,1451266,1,$,Singapore,Belgium
+830,211,1937,3316409,1,$,Singapore,Belgium
+830,212,1921,0,1,$,Singapore,Luxembourg
+830,212,1922,0,1,$,Singapore,Luxembourg
+830,212,1923,0,1,$,Singapore,Luxembourg
+830,212,1924,0,1,$,Singapore,Luxembourg
+830,212,1929,0,1,$,Singapore,Luxembourg
+830,212,1930,0,1,$,Singapore,Luxembourg
+830,212,1931,0,1,$,Singapore,Luxembourg
+830,212,1932,0,1,$,Singapore,Luxembourg
+830,212,1933,0,1,$,Singapore,Luxembourg
+830,212,1934,0,1,$,Singapore,Luxembourg
+830,212,1935,0,1,$,Singapore,Luxembourg
+830,212,1936,97387,1,$,Singapore,Luxembourg
+830,212,1937,664354,1,$,Singapore,Luxembourg
+830,220,1921,2944941,1,$,Singapore,France
+830,220,1922,2930530,1,$,Singapore,France
+830,220,1923,3723010,1,$,Singapore,France
+830,220,1924,5252840,1,$,Singapore,France
+830,220,1929,0,1,$,Singapore,France
+830,220,1930,0,1,$,Singapore,France
+830,220,1931,0,1,$,Singapore,France
+830,220,1932,0,1,$,Singapore,France
+830,220,1933,0,1,$,Singapore,France
+830,220,1934,0,1,$,Singapore,France
+830,220,1935,0,1,$,Singapore,France
+830,220,1936,1449881,1,$,Singapore,France
+830,220,1937,1963672,1,$,Singapore,France
+830,225,1921,0,1,$,Singapore,Switzerland
+830,225,1922,0,1,$,Singapore,Switzerland
+830,225,1923,0,1,$,Singapore,Switzerland
+830,225,1924,0,1,$,Singapore,Switzerland
+830,225,1929,0,1,$,Singapore,Switzerland
+830,225,1930,0,1,$,Singapore,Switzerland
+830,225,1931,0,1,$,Singapore,Switzerland
+830,225,1932,0,1,$,Singapore,Switzerland
+830,225,1933,0,1,$,Singapore,Switzerland
+830,225,1934,0,1,$,Singapore,Switzerland
+830,225,1935,0,1,$,Singapore,Switzerland
+830,225,1936,453584,1,$,Singapore,Switzerland
+830,225,1937,558401,1,$,Singapore,Switzerland
+830,230,1921,31203,1,$,Singapore,Spain
+830,230,1922,12819,1,$,Singapore,Spain
+830,230,1923,50430,1,$,Singapore,Spain
+830,230,1924,20646,1,$,Singapore,Spain
+830,230,1929,0,1,$,Singapore,Spain
+830,230,1930,0,1,$,Singapore,Spain
+830,230,1931,0,1,$,Singapore,Spain
+830,230,1932,0,1,$,Singapore,Spain
+830,230,1933,0,1,$,Singapore,Spain
+830,230,1934,0,1,$,Singapore,Spain
+830,230,1935,0,1,$,Singapore,Spain
+830,230,1936,80305,1,$,Singapore,Spain
+830,230,1937,94848,1,$,Singapore,Spain
+830,235,1921,0,1,$,Singapore,Portugal
+830,235,1922,0,1,$,Singapore,Portugal
+830,235,1923,0,1,$,Singapore,Portugal
+830,235,1924,0,1,$,Singapore,Portugal
+830,235,1929,0,1,$,Singapore,Portugal
+830,235,1930,0,1,$,Singapore,Portugal
+830,235,1931,0,1,$,Singapore,Portugal
+830,235,1932,0,1,$,Singapore,Portugal
+830,235,1933,0,1,$,Singapore,Portugal
+830,235,1934,0,1,$,Singapore,Portugal
+830,235,1935,0,1,$,Singapore,Portugal
+830,235,1936,60138,1,$,Singapore,Portugal
+830,235,1937,57989,1,$,Singapore,Portugal
+830,255,1921,686708,1,$,Singapore,Germany
+830,255,1922,1900522,1,$,Singapore,Germany
+830,255,1923,3911977,1,$,Singapore,Germany
+830,255,1924,3994626,1,$,Singapore,Germany
+830,255,1929,0,1,$,Singapore,Germany
+830,255,1930,0,1,$,Singapore,Germany
+830,255,1931,0,1,$,Singapore,Germany
+830,255,1932,0,1,$,Singapore,Germany
+830,255,1933,0,1,$,Singapore,Germany
+830,255,1934,0,1,$,Singapore,Germany
+830,255,1935,0,1,$,Singapore,Germany
+830,255,1936,5867618,1,$,Singapore,Germany
+830,255,1937,8075527,1,$,Singapore,Germany
+830,290,1921,0,1,$,Singapore,Poland
+830,290,1922,0,1,$,Singapore,Poland
+830,290,1923,0,1,$,Singapore,Poland
+830,290,1924,0,1,$,Singapore,Poland
+830,290,1929,0,1,$,Singapore,Poland
+830,290,1930,0,1,$,Singapore,Poland
+830,290,1931,0,1,$,Singapore,Poland
+830,290,1932,0,1,$,Singapore,Poland
+830,290,1933,0,1,$,Singapore,Poland
+830,290,1934,0,1,$,Singapore,Poland
+830,290,1935,0,1,$,Singapore,Poland
+830,290,1936,90189,1,$,Singapore,Poland
+830,290,1937,239164,1,$,Singapore,Poland
+830,305,1921,409,1,$,Singapore,Austria
+830,305,1922,1110,1,$,Singapore,Austria
+830,305,1923,0,1,$,Singapore,Austria
+830,305,1924,0,1,$,Singapore,Austria
+830,305,1929,0,1,$,Singapore,Austria
+830,305,1930,0,1,$,Singapore,Austria
+830,305,1931,0,1,$,Singapore,Austria
+830,305,1932,0,1,$,Singapore,Austria
+830,305,1933,0,1,$,Singapore,Austria
+830,305,1934,0,1,$,Singapore,Austria
+830,305,1935,0,1,$,Singapore,Austria
+830,305,1936,241324,1,$,Singapore,Austria
+830,305,1937,483784,1,$,Singapore,Austria
+830,310,1921,0,1,$,Singapore,Hungary
+830,310,1922,0,1,$,Singapore,Hungary
+830,310,1923,0,1,$,Singapore,Hungary
+830,310,1924,8,1,$,Singapore,Hungary
+830,310,1929,0,1,$,Singapore,Hungary
+830,310,1930,0,1,$,Singapore,Hungary
+830,310,1931,0,1,$,Singapore,Hungary
+830,310,1932,0,1,$,Singapore,Hungary
+830,310,1933,0,1,$,Singapore,Hungary
+830,310,1934,0,1,$,Singapore,Hungary
+830,310,1935,0,1,$,Singapore,Hungary
+830,310,1936,99115,1,$,Singapore,Hungary
+830,310,1937,172688,1,$,Singapore,Hungary
+830,315,1921,0,1,$,Singapore,Czechoslovakia
+830,315,1922,0,1,$,Singapore,Czechoslovakia
+830,315,1923,0,1,$,Singapore,Czechoslovakia
+830,315,1924,0,1,$,Singapore,Czechoslovakia
+830,315,1929,0,1,$,Singapore,Czechoslovakia
+830,315,1930,0,1,$,Singapore,Czechoslovakia
+830,315,1931,0,1,$,Singapore,Czechoslovakia
+830,315,1932,0,1,$,Singapore,Czechoslovakia
+830,315,1933,0,1,$,Singapore,Czechoslovakia
+830,315,1934,0,1,$,Singapore,Czechoslovakia
+830,315,1935,0,1,$,Singapore,Czechoslovakia
+830,315,1936,630121,1,$,Singapore,Czechoslovakia
+830,315,1937,1441583,1,$,Singapore,Czechoslovakia
+830,325,1921,2742018,1,$,Singapore,Italy
+830,325,1922,2723963,1,$,Singapore,Italy
+830,325,1923,3092066,1,$,Singapore,Italy
+830,325,1924,3925238,1,$,Singapore,Italy
+830,325,1929,0,1,$,Singapore,Italy
+830,325,1930,0,1,$,Singapore,Italy
+830,325,1931,0,1,$,Singapore,Italy
+830,325,1932,0,1,$,Singapore,Italy
+830,325,1933,0,1,$,Singapore,Italy
+830,325,1934,0,1,$,Singapore,Italy
+830,325,1935,0,1,$,Singapore,Italy
+830,325,1936,538883,1,$,Singapore,Italy
+830,325,1937,2009205,1,$,Singapore,Italy
+830,345,1921,0,1,$,Singapore,Yugoslavia
+830,345,1922,0,1,$,Singapore,Yugoslavia
+830,345,1923,0,1,$,Singapore,Yugoslavia
+830,345,1924,0,1,$,Singapore,Yugoslavia
+830,345,1929,0,1,$,Singapore,Yugoslavia
+830,345,1930,0,1,$,Singapore,Yugoslavia
+830,345,1931,0,1,$,Singapore,Yugoslavia
+830,345,1932,0,1,$,Singapore,Yugoslavia
+830,345,1933,0,1,$,Singapore,Yugoslavia
+830,345,1934,0,1,$,Singapore,Yugoslavia
+830,345,1935,0,1,$,Singapore,Yugoslavia
+830,345,1936,32056,1,$,Singapore,Yugoslavia
+830,345,1937,137433,1,$,Singapore,Yugoslavia
+830,350,1921,0,1,$,Singapore,Greece
+830,350,1922,0,1,$,Singapore,Greece
+830,350,1923,0,1,$,Singapore,Greece
+830,350,1924,0,1,$,Singapore,Greece
+830,350,1929,0,1,$,Singapore,Greece
+830,350,1930,0,1,$,Singapore,Greece
+830,350,1931,0,1,$,Singapore,Greece
+830,350,1932,0,1,$,Singapore,Greece
+830,350,1933,0,1,$,Singapore,Greece
+830,350,1934,0,1,$,Singapore,Greece
+830,350,1935,0,1,$,Singapore,Greece
+830,350,1936,1540,1,$,Singapore,Greece
+830,350,1937,1956,1,$,Singapore,Greece
+830,365,1921,0,1,$,Singapore,Russia
+830,365,1922,469776,1,$,Singapore,Russia
+830,365,1923,48966,1,$,Singapore,Russia
+830,365,1924,4317,1,$,Singapore,Russia
+830,365,1929,0,1,$,Singapore,Russia
+830,365,1930,0,1,$,Singapore,Russia
+830,365,1931,0,1,$,Singapore,Russia
+830,365,1932,0,1,$,Singapore,Russia
+830,365,1933,0,1,$,Singapore,Russia
+830,365,1934,0,1,$,Singapore,Russia
+830,365,1935,0,1,$,Singapore,Russia
+830,365,1936,235697,1,$,Singapore,Russia
+830,365,1937,65312,1,$,Singapore,Russia
+830,366,1921,0,1,$,Singapore,Estonia
+830,366,1922,0,1,$,Singapore,Estonia
+830,366,1923,0,1,$,Singapore,Estonia
+830,366,1924,0,1,$,Singapore,Estonia
+830,366,1929,0,1,$,Singapore,Estonia
+830,366,1930,0,1,$,Singapore,Estonia
+830,366,1931,0,1,$,Singapore,Estonia
+830,366,1932,0,1,$,Singapore,Estonia
+830,366,1933,0,1,$,Singapore,Estonia
+830,366,1934,0,1,$,Singapore,Estonia
+830,366,1935,0,1,$,Singapore,Estonia
+830,366,1936,23533,1,$,Singapore,Estonia
+830,366,1937,5553,1,$,Singapore,Estonia
+830,375,1921,0,1,$,Singapore,Finland
+830,375,1922,0,1,$,Singapore,Finland
+830,375,1923,0,1,$,Singapore,Finland
+830,375,1924,0,1,$,Singapore,Finland
+830,375,1929,0,1,$,Singapore,Finland
+830,375,1930,0,1,$,Singapore,Finland
+830,375,1931,0,1,$,Singapore,Finland
+830,375,1932,0,1,$,Singapore,Finland
+830,375,1933,0,1,$,Singapore,Finland
+830,375,1934,0,1,$,Singapore,Finland
+830,375,1935,0,1,$,Singapore,Finland
+830,375,1936,209972,1,$,Singapore,Finland
+830,375,1937,425681,1,$,Singapore,Finland
+830,380,1921,136700,1,$,Singapore,Sweden
+830,380,1922,146518,1,$,Singapore,Sweden
+830,380,1923,179594,1,$,Singapore,Sweden
+830,380,1924,552418,1,$,Singapore,Sweden
+830,380,1929,0,1,$,Singapore,Sweden
+830,380,1930,0,1,$,Singapore,Sweden
+830,380,1931,0,1,$,Singapore,Sweden
+830,380,1932,0,1,$,Singapore,Sweden
+830,380,1933,0,1,$,Singapore,Sweden
+830,380,1934,0,1,$,Singapore,Sweden
+830,380,1935,0,1,$,Singapore,Sweden
+830,380,1936,341022,1,$,Singapore,Sweden
+830,380,1937,670390,1,$,Singapore,Sweden
+830,385,1921,20086,1,$,Singapore,Norway
+830,385,1922,42439,1,$,Singapore,Norway
+830,385,1923,1881232,1,$,Singapore,Norway
+830,385,1924,876931,1,$,Singapore,Norway
+830,385,1929,0,1,$,Singapore,Norway
+830,385,1930,0,1,$,Singapore,Norway
+830,385,1931,0,1,$,Singapore,Norway
+830,385,1932,0,1,$,Singapore,Norway
+830,385,1933,0,1,$,Singapore,Norway
+830,385,1934,0,1,$,Singapore,Norway
+830,385,1935,0,1,$,Singapore,Norway
+830,385,1936,329269,1,$,Singapore,Norway
+830,385,1937,562694,1,$,Singapore,Norway
+830,390,1921,601840,1,$,Singapore,Denmark
+830,390,1922,404889,1,$,Singapore,Denmark
+830,390,1923,616293,1,$,Singapore,Denmark
+830,390,1924,590790,1,$,Singapore,Denmark
+830,390,1929,0,1,$,Singapore,Denmark
+830,390,1930,0,1,$,Singapore,Denmark
+830,390,1931,0,1,$,Singapore,Denmark
+830,390,1932,0,1,$,Singapore,Denmark
+830,390,1933,0,1,$,Singapore,Denmark
+830,390,1934,0,1,$,Singapore,Denmark
+830,390,1935,0,1,$,Singapore,Denmark
+830,390,1936,331406,1,$,Singapore,Denmark
+830,390,1937,421825,1,$,Singapore,Denmark
+830,511,1921,0,1,$,Singapore,Zanzibar
+830,511,1922,0,1,$,Singapore,Zanzibar
+830,511,1923,0,1,$,Singapore,Zanzibar
+830,511,1924,0,1,$,Singapore,Zanzibar
+830,511,1929,0,1,$,Singapore,Zanzibar
+830,511,1930,0,1,$,Singapore,Zanzibar
+830,511,1931,0,1,$,Singapore,Zanzibar
+830,511,1932,0,1,$,Singapore,Zanzibar
+830,511,1933,0,1,$,Singapore,Zanzibar
+830,511,1934,0,1,$,Singapore,Zanzibar
+830,511,1935,0,1,$,Singapore,Zanzibar
+830,511,1936,19135,1,$,Singapore,Zanzibar
+830,511,1937,63375,1,$,Singapore,Zanzibar
+830,541,1921,0,1,$,Singapore,Mozambique
+830,541,1922,0,1,$,Singapore,Mozambique
+830,541,1923,0,1,$,Singapore,Mozambique
+830,541,1924,0,1,$,Singapore,Mozambique
+830,541,1929,0,1,$,Singapore,Mozambique
+830,541,1930,0,1,$,Singapore,Mozambique
+830,541,1931,0,1,$,Singapore,Mozambique
+830,541,1932,0,1,$,Singapore,Mozambique
+830,541,1933,0,1,$,Singapore,Mozambique
+830,541,1934,0,1,$,Singapore,Mozambique
+830,541,1935,0,1,$,Singapore,Mozambique
+830,541,1936,0,1,$,Singapore,Mozambique
+830,541,1937,0,1,$,Singapore,Mozambique
+830,560,1921,1123441,1,$,Singapore,South Africa
+830,560,1922,1907829,1,$,Singapore,South Africa
+830,560,1923,3786038,1,$,Singapore,South Africa
+830,560,1924,6407582,1,$,Singapore,South Africa
+830,560,1929,0,1,$,Singapore,South Africa
+830,560,1930,0,1,$,Singapore,South Africa
+830,560,1931,0,1,$,Singapore,South Africa
+830,560,1932,0,1,$,Singapore,South Africa
+830,560,1933,0,1,$,Singapore,South Africa
+830,560,1934,0,1,$,Singapore,South Africa
+830,560,1935,0,1,$,Singapore,South Africa
+830,560,1936,2102778,1,$,Singapore,South Africa
+830,560,1937,1436738,1,$,Singapore,South Africa
+830,590,1921,0,1,$,Singapore,Mauritius
+830,590,1922,0,1,$,Singapore,Mauritius
+830,590,1923,2664,1,$,Singapore,Mauritius
+830,590,1924,10290,1,$,Singapore,Mauritius
+830,590,1929,0,1,$,Singapore,Mauritius
+830,590,1930,0,1,$,Singapore,Mauritius
+830,590,1931,0,1,$,Singapore,Mauritius
+830,590,1932,0,1,$,Singapore,Mauritius
+830,590,1933,0,1,$,Singapore,Mauritius
+830,590,1934,0,1,$,Singapore,Mauritius
+830,590,1935,0,1,$,Singapore,Mauritius
+830,590,1936,2538,1,$,Singapore,Mauritius
+830,590,1937,2202,1,$,Singapore,Mauritius
+830,630,1921,0,1,$,Singapore,Iran
+830,630,1922,0,1,$,Singapore,Iran
+830,630,1923,0,1,$,Singapore,Iran
+830,630,1924,0,1,$,Singapore,Iran
+830,630,1929,0,1,$,Singapore,Iran
+830,630,1930,0,1,$,Singapore,Iran
+830,630,1931,0,1,$,Singapore,Iran
+830,630,1932,0,1,$,Singapore,Iran
+830,630,1933,0,1,$,Singapore,Iran
+830,630,1934,0,1,$,Singapore,Iran
+830,630,1935,0,1,$,Singapore,Iran
+830,630,1936,6192617,1,$,Singapore,Iran
+830,630,1937,4183977,1,$,Singapore,Iran
+830,640,1921,16155,1,$,Singapore,Turkey
+830,640,1922,6583,1,$,Singapore,Turkey
+830,640,1923,800,1,$,Singapore,Turkey
+830,640,1924,0,1,$,Singapore,Turkey
+830,640,1929,0,1,$,Singapore,Turkey
+830,640,1930,0,1,$,Singapore,Turkey
+830,640,1931,0,1,$,Singapore,Turkey
+830,640,1932,0,1,$,Singapore,Turkey
+830,640,1933,0,1,$,Singapore,Turkey
+830,640,1934,0,1,$,Singapore,Turkey
+830,640,1935,0,1,$,Singapore,Turkey
+830,640,1936,521,1,$,Singapore,Turkey
+830,640,1937,1263,1,$,Singapore,Turkey
+830,651,1921,337871,1,$,Singapore,Egypt
+830,651,1922,435147,1,$,Singapore,Egypt
+830,651,1923,361151,1,$,Singapore,Egypt
+830,651,1924,452529,1,$,Singapore,Egypt
+830,651,1929,0,1,$,Singapore,Egypt
+830,651,1930,0,1,$,Singapore,Egypt
+830,651,1931,0,1,$,Singapore,Egypt
+830,651,1932,0,1,$,Singapore,Egypt
+830,651,1933,0,1,$,Singapore,Egypt
+830,651,1934,0,1,$,Singapore,Egypt
+830,651,1935,0,1,$,Singapore,Egypt
+830,651,1936,222251,1,$,Singapore,Egypt
+830,651,1937,456492,1,$,Singapore,Egypt
+830,665,1921,0,1,$,Singapore,West Bank And Gaza
+830,665,1922,0,1,$,Singapore,West Bank And Gaza
+830,665,1923,0,1,$,Singapore,West Bank And Gaza
+830,665,1924,0,1,$,Singapore,West Bank And Gaza
+830,665,1929,0,1,$,Singapore,West Bank And Gaza
+830,665,1930,0,1,$,Singapore,West Bank And Gaza
+830,665,1931,0,1,$,Singapore,West Bank And Gaza
+830,665,1932,0,1,$,Singapore,West Bank And Gaza
+830,665,1933,0,1,$,Singapore,West Bank And Gaza
+830,665,1934,0,1,$,Singapore,West Bank And Gaza
+830,665,1935,0,1,$,Singapore,West Bank And Gaza
+830,665,1936,23845,1,$,Singapore,West Bank And Gaza
+830,665,1937,53066,1,$,Singapore,West Bank And Gaza
+830,675,1921,0,1,$,Singapore,Arabia
+830,675,1922,750,1,$,Singapore,Arabia
+830,675,1923,0,1,$,Singapore,Arabia
+830,675,1924,3000,1,$,Singapore,Arabia
+830,675,1929,0,1,$,Singapore,Arabia
+830,675,1930,0,1,$,Singapore,Arabia
+830,675,1931,0,1,$,Singapore,Arabia
+830,675,1932,0,1,$,Singapore,Arabia
+830,675,1933,0,1,$,Singapore,Arabia
+830,675,1934,0,1,$,Singapore,Arabia
+830,675,1935,0,1,$,Singapore,Arabia
+830,675,1936,84901,1,$,Singapore,Arabia
+830,675,1937,87884,1,$,Singapore,Arabia
+830,710,1921,25556729,1,$,Singapore,China
+830,710,1922,17299590,1,$,Singapore,China
+830,710,1923,20407323,1,$,Singapore,China
+830,710,1924,22033673,1,$,Singapore,China
+830,710,1929,0,1,$,Singapore,China
+830,710,1930,0,1,$,Singapore,China
+830,710,1931,0,1,$,Singapore,China
+830,710,1932,0,1,$,Singapore,China
+830,710,1933,0,1,$,Singapore,China
+830,710,1934,0,1,$,Singapore,China
+830,710,1935,0,1,$,Singapore,China
+830,710,1936,17123086,1,$,Singapore,China
+830,710,1937,21316250,1,$,Singapore,China
+830,720,1921,34257147,1,$,Singapore,Hong Kong
+830,720,1922,25694121,1,$,Singapore,Hong Kong
+830,720,1923,28067173,1,$,Singapore,Hong Kong
+830,720,1924,24946998,1,$,Singapore,Hong Kong
+830,720,1929,0,1,$,Singapore,Hong Kong
+830,720,1930,0,1,$,Singapore,Hong Kong
+830,720,1931,0,1,$,Singapore,Hong Kong
+830,720,1932,0,1,$,Singapore,Hong Kong
+830,720,1933,0,1,$,Singapore,Hong Kong
+830,720,1934,0,1,$,Singapore,Hong Kong
+830,720,1935,0,1,$,Singapore,Hong Kong
+830,720,1936,3269005,1,$,Singapore,Hong Kong
+830,720,1937,5825125,1,$,Singapore,Hong Kong
+830,740,1921,21234366,1,$,Singapore,Japan
+830,740,1922,16363776,1,$,Singapore,Japan
+830,740,1923,15587112,1,$,Singapore,Japan
+830,740,1924,13779524,1,$,Singapore,Japan
+830,740,1929,0,1,$,Singapore,Japan
+830,740,1930,0,1,$,Singapore,Japan
+830,740,1931,0,1,$,Singapore,Japan
+830,740,1932,0,1,$,Singapore,Japan
+830,740,1933,0,1,$,Singapore,Japan
+830,740,1934,0,1,$,Singapore,Japan
+830,740,1935,0,1,$,Singapore,Japan
+830,740,1936,27419033,1,$,Singapore,Japan
+830,740,1937,33447448,1,$,Singapore,Japan
+830,750,1921,0,1,$,Singapore,India
+830,750,1922,0,1,$,Singapore,India
+830,750,1923,0,1,$,Singapore,India
+830,750,1924,0,1,$,Singapore,India
+830,750,1929,0,1,$,Singapore,India
+830,750,1930,0,1,$,Singapore,India
+830,750,1931,0,1,$,Singapore,India
+830,750,1932,0,1,$,Singapore,India
+830,750,1933,0,1,$,Singapore,India
+830,750,1934,0,1,$,Singapore,India
+830,750,1935,0,1,$,Singapore,India
+830,750,1936,6821700,1,$,Singapore,India
+830,750,1937,10414984,1,$,Singapore,India
+830,751,1921,1800098,1,$,Singapore,French India
+830,751,1922,1489402,1,$,Singapore,French India
+830,751,1923,1905340,1,$,Singapore,French India
+830,751,1924,2006662,1,$,Singapore,French India
+830,751,1929,0,1,$,Singapore,French India
+830,751,1930,0,1,$,Singapore,French India
+830,751,1931,0,1,$,Singapore,French India
+830,751,1932,0,1,$,Singapore,French India
+830,751,1933,0,1,$,Singapore,French India
+830,751,1934,0,1,$,Singapore,French India
+830,751,1935,0,1,$,Singapore,French India
+830,751,1936,30149,1,$,Singapore,French India
+830,751,1937,191271,1,$,Singapore,French India
+830,775,1921,8929815,1,$,Singapore,Myanmar
+830,775,1922,10496007,1,$,Singapore,Myanmar
+830,775,1923,9314500,1,$,Singapore,Myanmar
+830,775,1924,14520115,1,$,Singapore,Myanmar
+830,775,1929,0,1,$,Singapore,Myanmar
+830,775,1930,0,1,$,Singapore,Myanmar
+830,775,1931,0,1,$,Singapore,Myanmar
+830,775,1932,0,1,$,Singapore,Myanmar
+830,775,1933,0,1,$,Singapore,Myanmar
+830,775,1934,0,1,$,Singapore,Myanmar
+830,775,1935,0,1,$,Singapore,Myanmar
+830,775,1936,4381505,1,$,Singapore,Myanmar
+830,775,1937,6851655,1,$,Singapore,Myanmar
+830,780,1921,533161,1,$,Singapore,Sri Lanka
+830,780,1922,407145,1,$,Singapore,Sri Lanka
+830,780,1923,503960,1,$,Singapore,Sri Lanka
+830,780,1924,574081,1,$,Singapore,Sri Lanka
+830,780,1929,0,1,$,Singapore,Sri Lanka
+830,780,1930,0,1,$,Singapore,Sri Lanka
+830,780,1931,0,1,$,Singapore,Sri Lanka
+830,780,1932,0,1,$,Singapore,Sri Lanka
+830,780,1933,0,1,$,Singapore,Sri Lanka
+830,780,1934,0,1,$,Singapore,Sri Lanka
+830,780,1935,0,1,$,Singapore,Sri Lanka
+830,780,1936,293732,1,$,Singapore,Sri Lanka
+830,780,1937,379561,1,$,Singapore,Sri Lanka
+830,810,1921,24973877,1,$,Singapore,French Indo-China
+830,810,1922,15978624,1,$,Singapore,French Indo-China
+830,810,1923,11458910,1,$,Singapore,French Indo-China
+830,810,1924,15156351,1,$,Singapore,French Indo-China
+830,810,1929,0,1,$,Singapore,French Indo-China
+830,810,1930,0,1,$,Singapore,French Indo-China
+830,810,1931,0,1,$,Singapore,French Indo-China
+830,810,1932,0,1,$,Singapore,French Indo-China
+830,810,1933,0,1,$,Singapore,French Indo-China
+830,810,1934,0,1,$,Singapore,French Indo-China
+830,810,1935,0,1,$,Singapore,French Indo-China
+830,810,1936,9324778,1,$,Singapore,French Indo-China
+830,810,1937,12754281,1,$,Singapore,French Indo-China
+830,823,1921,1557606,1,$,Singapore,British Borneo
+830,823,1922,2220165,1,$,Singapore,British Borneo
+830,823,1923,2796769,1,$,Singapore,British Borneo
+830,823,1924,3265712,1,$,Singapore,British Borneo
+830,823,1929,0,1,$,Singapore,British Borneo
+830,823,1930,0,1,$,Singapore,British Borneo
+830,823,1931,0,1,$,Singapore,British Borneo
+830,823,1932,0,1,$,Singapore,British Borneo
+830,823,1933,0,1,$,Singapore,British Borneo
+830,823,1934,0,1,$,Singapore,British Borneo
+830,823,1935,0,1,$,Singapore,British Borneo
+830,823,1936,3264900,1,$,Singapore,British Borneo
+830,823,1937,4803822,1,$,Singapore,British Borneo
+830,824,1921,4961647,1,$,Singapore,Sarawak
+830,824,1922,8690064,1,$,Singapore,Sarawak
+830,824,1923,16471289,1,$,Singapore,Sarawak
+830,824,1924,22210798,1,$,Singapore,Sarawak
+830,824,1929,0,1,$,Singapore,Sarawak
+830,824,1930,0,1,$,Singapore,Sarawak
+830,824,1931,0,1,$,Singapore,Sarawak
+830,824,1932,0,1,$,Singapore,Sarawak
+830,824,1933,0,1,$,Singapore,Sarawak
+830,824,1934,0,1,$,Singapore,Sarawak
+830,824,1935,0,1,$,Singapore,Sarawak
+830,824,1936,24852233,1,$,Singapore,Sarawak
+830,824,1937,33738921,1,$,Singapore,Sarawak
+830,835,1921,0,1,$,Singapore,Brunei
+830,835,1922,0,1,$,Singapore,Brunei
+830,835,1923,441712,1,$,Singapore,Brunei
+830,835,1924,318111,1,$,Singapore,Brunei
+830,835,1929,0,1,$,Singapore,Brunei
+830,835,1930,0,1,$,Singapore,Brunei
+830,835,1931,0,1,$,Singapore,Brunei
+830,835,1932,0,1,$,Singapore,Brunei
+830,835,1933,0,1,$,Singapore,Brunei
+830,835,1934,0,1,$,Singapore,Brunei
+830,835,1935,0,1,$,Singapore,Brunei
+830,835,1936,1030036,1,$,Singapore,Brunei
+830,835,1937,1402256,1,$,Singapore,Brunei
+830,840,1921,1576815,1,$,Singapore,Philippines
+830,840,1922,1032561,1,$,Singapore,Philippines
+830,840,1923,975395,1,$,Singapore,Philippines
+830,840,1924,944065,1,$,Singapore,Philippines
+830,840,1929,0,1,$,Singapore,Philippines
+830,840,1930,0,1,$,Singapore,Philippines
+830,840,1931,0,1,$,Singapore,Philippines
+830,840,1932,0,1,$,Singapore,Philippines
+830,840,1933,0,1,$,Singapore,Philippines
+830,840,1934,0,1,$,Singapore,Philippines
+830,840,1935,0,1,$,Singapore,Philippines
+830,840,1936,409138,1,$,Singapore,Philippines
+830,840,1937,447780,1,$,Singapore,Philippines
+830,900,1921,15450473,1,$,Singapore,Australia
+830,900,1922,13367679,1,$,Singapore,Australia
+830,900,1923,12214098,1,$,Singapore,Australia
+830,900,1924,11990724,1,$,Singapore,Australia
+830,900,1929,0,1,$,Singapore,Australia
+830,900,1930,0,1,$,Singapore,Australia
+830,900,1931,0,1,$,Singapore,Australia
+830,900,1932,0,1,$,Singapore,Australia
+830,900,1933,0,1,$,Singapore,Australia
+830,900,1934,0,1,$,Singapore,Australia
+830,900,1935,0,1,$,Singapore,Australia
+830,900,1936,6915916,1,$,Singapore,Australia
+830,900,1937,10222580,1,$,Singapore,Australia
+830,920,1921,3024,1,$,Singapore,New Zealand
+830,920,1922,171841,1,$,Singapore,New Zealand
+830,920,1923,50923,1,$,Singapore,New Zealand
+830,920,1924,27195,1,$,Singapore,New Zealand
+830,920,1929,0,1,$,Singapore,New Zealand
+830,920,1930,0,1,$,Singapore,New Zealand
+830,920,1931,0,1,$,Singapore,New Zealand
+830,920,1932,0,1,$,Singapore,New Zealand
+830,920,1933,0,1,$,Singapore,New Zealand
+830,920,1934,0,1,$,Singapore,New Zealand
+830,920,1935,0,1,$,Singapore,New Zealand
+830,920,1936,478392,1,$,Singapore,New Zealand
+830,920,1937,571637,1,$,Singapore,New Zealand
+830,2000,1921,647290,1,$,Singapore,Other British possessions
+830,2000,1922,117899,1,$,Singapore,Other British possessions
+830,2000,1923,411336,1,$,Singapore,Other British possessions
+830,2000,1924,502029,1,$,Singapore,Other British possessions
+830,2000,1929,0,1,$,Singapore,Other British possessions
+830,2000,1930,0,1,$,Singapore,Other British possessions
+830,2000,1931,0,1,$,Singapore,Other British possessions
+830,2000,1932,0,1,$,Singapore,Other British possessions
+830,2000,1933,0,1,$,Singapore,Other British possessions
+830,2000,1934,0,1,$,Singapore,Other British possessions
+830,2000,1935,0,1,$,Singapore,Other British possessions
+830,2000,1936,0,1,$,Singapore,Other British possessions
+830,2000,1937,0,1,$,Singapore,Other British possessions
+830,8271,1921,11587446,1,$,Singapore,Malacca
+830,8271,1922,7762065,1,$,Singapore,Malacca
+830,8271,1923,8301759,1,$,Singapore,Malacca
+830,8271,1924,5754333,1,$,Singapore,Malacca
+830,8271,1929,0,1,$,Singapore,Malacca
+830,8271,1930,0,1,$,Singapore,Malacca
+830,8271,1931,0,1,$,Singapore,Malacca
+830,8271,1932,0,1,$,Singapore,Malacca
+830,8271,1933,0,1,$,Singapore,Malacca
+830,8271,1934,0,1,$,Singapore,Malacca
+830,8271,1935,0,1,$,Singapore,Malacca
+830,8271,1936,0,1,$,Singapore,Malacca
+830,8271,1937,0,1,$,Singapore,Malacca
+830,8272,1921,18186194,1,$,Singapore,Penang
+830,8272,1922,10227946,1,$,Singapore,Penang
+830,8272,1923,9475133,1,$,Singapore,Penang
+830,8272,1924,6670474,1,$,Singapore,Penang
+830,8272,1929,0,1,$,Singapore,Penang
+830,8272,1930,0,1,$,Singapore,Penang
+830,8272,1931,0,1,$,Singapore,Penang
+830,8272,1932,0,1,$,Singapore,Penang
+830,8272,1933,0,1,$,Singapore,Penang
+830,8272,1934,0,1,$,Singapore,Penang
+830,8272,1935,0,1,$,Singapore,Penang
+830,8272,1936,0,1,$,Singapore,Penang
+830,8272,1937,0,1,$,Singapore,Penang
+830,8501,1921,29288799,1,$,Singapore,Java
+830,8501,1922,26136660,1,$,Singapore,Java
+830,8501,1923,32322033,1,$,Singapore,Java
+830,8501,1924,35756073,1,$,Singapore,Java
+830,8501,1929,0,1,$,Singapore,Java
+830,8501,1930,0,1,$,Singapore,Java
+830,8501,1931,0,1,$,Singapore,Java
+830,8501,1932,0,1,$,Singapore,Java
+830,8501,1933,0,1,$,Singapore,Java
+830,8501,1934,0,1,$,Singapore,Java
+830,8501,1935,0,1,$,Singapore,Java
+830,8501,1936,0,1,$,Singapore,Java
+830,8501,1937,0,1,$,Singapore,Java
+830,8502,1921,21786783,1,$,Singapore,Sumatra
+830,8502,1922,31521582,1,$,Singapore,Sumatra
+830,8502,1923,63321676,1,$,Singapore,Sumatra
+830,8502,1924,79200812,1,$,Singapore,Sumatra
+830,8502,1929,0,1,$,Singapore,Sumatra
+830,8502,1930,0,1,$,Singapore,Sumatra
+830,8502,1931,0,1,$,Singapore,Sumatra
+830,8502,1932,0,1,$,Singapore,Sumatra
+830,8502,1933,0,1,$,Singapore,Sumatra
+830,8502,1934,0,1,$,Singapore,Sumatra
+830,8502,1935,0,1,$,Singapore,Sumatra
+830,8502,1936,0,1,$,Singapore,Sumatra
+830,8502,1937,0,1,$,Singapore,Sumatra
+830,,1921,695858672,1,$,Singapore,
+830,,1922,672438278,1,$,Singapore,
+830,,1923,856741651,1,$,Singapore,
+830,,1924,927166509,1,$,Singapore,
+830,,1929,0,1,$,Singapore,
+830,,1930,0,1,$,Singapore,
+830,,1931,0,1,$,Singapore,
+830,,1932,0,1,$,Singapore,
+830,,1933,0,1,$,Singapore,
+830,,1934,0,1,$,Singapore,
+830,,1935,0,1,$,Singapore,
+830,,1936,534649210,1,$,Singapore,
+830,,1937,709350897,1,$,Singapore,
