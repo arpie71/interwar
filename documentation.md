@@ -27,7 +27,7 @@ Honduras		1922-1924
 
 These data have been entered into the spreadsheets found in the `trade` folder. 
 
-Absent both country yearbooks and League data, we filled in the follow gaps with Barbieri’s data (which were filled in when putting the final data together for our _World Politics_ article analysis and are not reflected in these data):
+Absent both country yearbooks and League data, we filled in the follow gaps with Barbieri’s data (which were filled in when putting the final data together for our _International Organization_ article analysis and are not reflected in these data):
 
 Spain	1923, 1936-1938
 Portugal	1935

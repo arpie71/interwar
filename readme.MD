@@ -30,4 +30,4 @@ In addition, there are a few utility files, mainly to convert to importer and ex
 - `ccode.ado` is a Stata command that I wrote long ago to convert between the main country classification schemes used in IR research. The command will convert between COW, IMF, World Bank, Banks, and country names. There is a help file with more detail on using the command.
 
 ## Limitations
-For the _World Politics_ article, we made other corrections to the trade data and the exchange rate that are not mentioned here. We will release a subsequent repository with the Stata do files used to create the final dataset as well as the steps to run the analysis. 
+For the _International Organization_ article, we made other corrections to the trade data and the exchange rate that are not mentioned here. We will release a subsequent repository with the Stata do files used to create the final dataset as well as the steps to run the analysis. 
