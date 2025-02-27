@@ -31,3 +31,8 @@ In addition, there are a few utility files, mainly to convert to importer and ex
 
 ## Limitations
 For the _International Organization_ article, we made other corrections to the trade data and the exchange rate that are not mentioned here. We will release a subsequent repository with the Stata do files used to create the final dataset as well as the steps to run the analysis. 
+
+## How to cite
+Joanne Gowa & Raymond Hicks. 2013. "Politics, Institutions, and Trade between the Wars: New Data and Conventional Wisdom." _International Organization_ 67(3): 439-467. https://doi.org/10.1017/S0020818313000118
+
+Joanne Gowa & Raymond Hicks. “Interwar trade data.” [Online; accessed XXX]. Available: https://github.com/arpie71/interwar.
